@@ -1,1 +1,1 @@
-var mnemonic = "coach exile almost job capable castle coral update broccoli fade devote census";
+var mnemonic = "true soul live scare siege sheriff company walk act topic session invite";

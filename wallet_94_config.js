@@ -1,1 +1,1 @@
-var mnemonic = "talk sort pudding afraid dynamic leisure caught ankle guide stove cotton dolphin";
+var mnemonic = "rebuild enough clay fall impose cinnamon giraffe kiwi garden age glare donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "before rabbit walnut loan ghost wheat position ripple monitor long sketch walnut";
+var mnemonic = "answer fragile erupt provide arch faith next girl search destroy afford satisfy";

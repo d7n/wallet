@@ -1,1 +1,1 @@
-var mnemonic = "tragic copy robot rose phrase pencil blind better stand february artefact lawsuit";
+var mnemonic = "slab dismiss current senior dismiss glance face dish reunion supreme between sign";

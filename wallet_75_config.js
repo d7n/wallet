@@ -1,1 +1,1 @@
-var mnemonic = "expand basic critic mule need kingdom setup estate hour since cruel artefact";
+var mnemonic = "keep board cluster resource phrase ecology drill horse quantum local mansion program";

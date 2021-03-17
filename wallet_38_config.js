@@ -1,1 +1,1 @@
-var mnemonic = "mouse skin tone lesson pear annual stove end sort topic three oval";
+var mnemonic = "brave stand eagle solution force marriage barrel fury head brisk among engine";

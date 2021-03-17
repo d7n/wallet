@@ -1,1 +1,1 @@
-var mnemonic = "business song mesh tide thought axis limit devote spell rule doll setup";
+var mnemonic = "film little pulse debate artefact together vibrant salmon syrup sand shine august";

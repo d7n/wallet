@@ -1,1 +1,1 @@
-var mnemonic = "strategy super pledge culture slogan term switch attend garage intact season proud";
+var mnemonic = "cactus hundred deliver tunnel give net valid bulb rude buffalo crouch forget";

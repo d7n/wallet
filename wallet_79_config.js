@@ -1,1 +1,1 @@
-var mnemonic = "code monkey cattle enable bid biology sound tiny save child twice warfare";
+var mnemonic = "mercy kiss entire loud evolve transfer have worth spot staff rookie viable";

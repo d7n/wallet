@@ -1,1 +1,1 @@
-var mnemonic = "observe sand light shock load acoustic melt shed soft puppy cash section";
+var mnemonic = "sentence pill comic ahead wisdom always cliff together next hybrid radio final";

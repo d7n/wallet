@@ -1,1 +1,1 @@
-var mnemonic = "turkey defense axis fade powder loan region category help chief shoot fringe";
+var mnemonic = "brisk success glide excite frown use keep little defy penalty run hill";

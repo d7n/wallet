@@ -1,1 +1,1 @@
-var mnemonic = "runway once master resemble virus liberty math laptop depend run slam gas";
+var mnemonic = "door cancel project donate opera judge hen brain exclude found husband layer";

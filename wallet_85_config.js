@@ -1,1 +1,1 @@
-var mnemonic = "impulse pizza fade bag toward wait soldier pull fault donate oval garlic";
+var mnemonic = "speed shock barely illegal achieve hockey cactus exchange print vague symbol slow";

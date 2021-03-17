@@ -1,1 +1,1 @@
-var mnemonic = "undo vapor virtual stadium turtle twist alley hair earth improve gauge state";
+var mnemonic = "west dice frost cheese rookie green cabbage supreme silk guess together nest";

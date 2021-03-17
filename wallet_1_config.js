@@ -1,1 +1,1 @@
-var mnemonic = "about food idle woman labor protect sunny make develop series tide choose";
+var mnemonic = "okay gown small medal valve patient easily palace today magnet foil imitate";

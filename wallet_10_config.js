@@ -1,1 +1,1 @@
-var mnemonic = "memory labor fork laptop session manage memory unknown inside crater purse mind";
+var mnemonic = "blood palace region earth clever antenna destroy never best siren already include";

@@ -1,1 +1,1 @@
-var mnemonic = "act during regret cram guide stem case gallery awkward drastic elder unlock";
+var mnemonic = "echo unit rough smooth explain isolate happy believe base twelve front hour";

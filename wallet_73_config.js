@@ -1,1 +1,1 @@
-var mnemonic = "cry reduce scale chalk online surge property glide eternal diesel lock cargo";
+var mnemonic = "copy acoustic fresh couple bid hand charge atom define veteran bamboo never";

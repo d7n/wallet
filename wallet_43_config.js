@@ -1,1 +1,1 @@
-var mnemonic = "sword rapid taxi eyebrow kit audit need number draft quality another flip";
+var mnemonic = "index follow organ ghost average swim capable moral ski mansion rent puzzle";

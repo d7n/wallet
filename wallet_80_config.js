@@ -1,1 +1,1 @@
-var mnemonic = "special dignity bird mouse swim gas action fantasy lobster toddler wife still";
+var mnemonic = "curtain october country hair inspire axis solid together wrestle sure sketch tumble";

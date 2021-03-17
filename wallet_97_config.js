@@ -1,1 +1,1 @@
-var mnemonic = "away possible way because since island wool desert valley boss tiger image";
+var mnemonic = "mammal enhance inform shuffle hub area garage must fruit secret brass twice";

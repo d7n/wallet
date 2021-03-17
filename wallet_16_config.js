@@ -1,1 +1,1 @@
-var mnemonic = "banner month label exotic crumble any science material casino opera involve trend";
+var mnemonic = "begin peasant road digital treat dentist high soup fetch else supply tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward theory alter must thought gadget danger lake close frost detail off";
+var mnemonic = "gossip random symbol circle party flower govern they half ice enemy rough";

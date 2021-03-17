@@ -1,1 +1,1 @@
-var mnemonic = "clinic minute unfold sudden utility cart glare session sport invite emotion float";
+var mnemonic = "lion number affair promote shrimp ice brush cloud anger taxi guess recipe";

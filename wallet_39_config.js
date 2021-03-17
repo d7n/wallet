@@ -1,1 +1,1 @@
-var mnemonic = "daughter slab kiwi rhythm harvest fee have crater useless open expect unit";
+var mnemonic = "lawsuit kit lawn balcony impulse sugar remain grant job that shaft balance";

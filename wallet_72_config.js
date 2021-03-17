@@ -1,1 +1,1 @@
-var mnemonic = "victory toddler ticket pole cinnamon thunder sheriff open swear lamp flee fat";
+var mnemonic = "maple double olive display escape dragon museum fitness assume diary sock settle";

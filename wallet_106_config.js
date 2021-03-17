@@ -1,1 +1,1 @@
-var mnemonic = "search festival travel goddess ketchup check razor episode pulp tone sail toy";
+var mnemonic = "warm payment thunder lake fashion protect hazard amount meadow now mom welcome";

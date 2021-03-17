@@ -1,1 +1,1 @@
-var mnemonic = "broom sight shaft dirt hotel guilt tiny fluid avocado excess either donor";
+var mnemonic = "add vicious skill call clutch bless dwarf refuse carbon quick discover boost";

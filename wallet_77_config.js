@@ -1,1 +1,1 @@
-var mnemonic = "gallery tool misery invite iron need crew fruit machine dinosaur imitate meat";
+var mnemonic = "lend swallow yard warrior judge fat immense scatter arrow protect pulse ginger";

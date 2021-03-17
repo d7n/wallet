@@ -1,1 +1,1 @@
-var mnemonic = "kid clinic predict trend bread goddess exile knock twelve clarify tell there";
+var mnemonic = "hint myth immense cheese expect happy scene rigid blame invite setup grain";

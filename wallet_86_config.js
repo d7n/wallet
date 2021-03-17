@@ -1,1 +1,1 @@
-var mnemonic = "stage abuse height neutral hurry federal spider host enrich bike loud project";
+var mnemonic = "need improve expand render elbow black settle cannon bachelor claim fat lake";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness unable original script violin unfold give panda armed outer spatial middle";
+var mnemonic = "tortoise sunset prevent decrease ginger liberty dress hawk nest cabin labor wing";

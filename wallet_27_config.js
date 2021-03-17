@@ -1,1 +1,1 @@
-var mnemonic = "eager alter guilt govern middle have labor today blossom dutch dad twist";
+var mnemonic = "barely keep recycle lady place expand purchase speak weasel north devote prosper";

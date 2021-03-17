@@ -1,1 +1,1 @@
-var mnemonic = "amateur pilot clutch hero lesson pair faint model into endorse antique boat";
+var mnemonic = "half furnace cotton settle better bottom novel mutual surge bid large decline";

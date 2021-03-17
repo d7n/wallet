@@ -1,1 +1,1 @@
-var mnemonic = "year pill merit couch cloth call drift goat avoid park ivory century";
+var mnemonic = "banana goose invite process document range delay clump plug ride tribe budget";

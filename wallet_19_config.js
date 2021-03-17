@@ -1,1 +1,1 @@
-var mnemonic = "possible leopard price lumber cream initial inflict devote manage escape industry loop";
+var mnemonic = "outside phone detail else clown moral mango sail simple siren denial happy";

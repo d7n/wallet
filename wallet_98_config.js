@@ -1,1 +1,1 @@
-var mnemonic = "witness diesel proof film imitate mad jewel school debate kit blouse what";
+var mnemonic = "average damp rural lazy test spread era clarify wheat prize box fold";

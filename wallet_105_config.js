@@ -1,1 +1,1 @@
-var mnemonic = "swim must bracket library umbrella three route clutch mechanic avoid planet fury";
+var mnemonic = "ghost devote make slogan drink pipe current alien subway verify submit hospital";

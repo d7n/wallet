@@ -1,1 +1,1 @@
-var mnemonic = "tree practice palm vital arrive bean heavy chair own innocent kitchen derive";
+var mnemonic = "seek faculty steak eternal wine indoor north dentist vanish feature remain misery";

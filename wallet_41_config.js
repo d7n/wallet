@@ -1,1 +1,1 @@
-var mnemonic = "ring habit foster awake price bid foot sorry what false thrive negative";
+var mnemonic = "thunder better document spice cable regular sort anger gold picnic crowd lobster";

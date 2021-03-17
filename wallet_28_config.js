@@ -1,1 +1,1 @@
-var mnemonic = "three young october rocket rely flavor attitude holiday defy clump omit focus";
+var mnemonic = "work gather agent catch hurdle slogan jeans funny market able make pole";

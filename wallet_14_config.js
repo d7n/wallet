@@ -1,1 +1,1 @@
-var mnemonic = "magic emotion stove aim inspire narrow hedgehog timber lesson bonus beauty timber";
+var mnemonic = "crawl dance adapt essence antique state double young armor ancient choose mean";

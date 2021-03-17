@@ -1,1 +1,1 @@
-var mnemonic = "forest adjust scale topple note siege rich guitar ceiling social account camp";
+var mnemonic = "guess possible tired dragon great claim stadium ranch color ramp cloth spy";

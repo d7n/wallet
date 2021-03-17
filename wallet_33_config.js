@@ -1,1 +1,1 @@
-var mnemonic = "concert alpha music stool road problem crawl salute proof always solve exile";
+var mnemonic = "glory fly vehicle stem sphere term margin use deliver bag prize borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh large supreme guitar menu tooth material oblige rebuild vanish wage hat";
+var mnemonic = "object peace join cube issue private glow engage raw snap neglect laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract inflict pencil mass humble acid runway dove safe ship doctor bike";
+var mnemonic = "fossil crouch toward enemy siege bracket inflict orchard entry flock source maid";

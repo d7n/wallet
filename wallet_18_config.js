@@ -1,1 +1,1 @@
-var mnemonic = "coyote elbow charge occur spice best caught glance myself raise lemon gain";
+var mnemonic = "camera flat blue oak worth copy produce memory beauty lens jealous emotion";

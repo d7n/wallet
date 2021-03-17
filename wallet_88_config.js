@@ -1,1 +1,1 @@
-var mnemonic = "feel phrase predict future labor raw shock empower autumn effort diamond earth";
+var mnemonic = "toe amazing approve scrap amount behave orange ostrich army valid moment cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "identify dream repeat soon flush off possible indicate address orient spell maze";
+var mnemonic = "observe acid helmet liberty twin peanut wrong joy milk picnic citizen wrist";

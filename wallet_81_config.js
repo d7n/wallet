@@ -1,1 +1,1 @@
-var mnemonic = "embody aspect toward silly wonder typical short note manual cricket sure among";
+var mnemonic = "curious buddy palace uniform mother leisure market seek box cook legend ankle";

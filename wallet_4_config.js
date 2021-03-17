@@ -1,1 +1,1 @@
-var mnemonic = "olive other harbor essence ancient cute trumpet awkward supreme badge topic magic";
+var mnemonic = "special color athlete siege vanish fan trouble oblige supreme hero brief sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "bright yellow betray clay timber wisdom scrub spike guess foot bunker welcome";
+var mnemonic = "theory provide exotic service cotton drill polar melt canyon ski asset orient";

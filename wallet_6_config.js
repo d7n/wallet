@@ -1,1 +1,1 @@
-var mnemonic = "power slender latin large bread antenna injury action maple vintage resemble catch";
+var mnemonic = "rich tuna combine soap process spin mandate capital enrich alley eight among";

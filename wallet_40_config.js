@@ -1,1 +1,1 @@
-var mnemonic = "someone task roast series example project use know oil escape unusual fuel";
+var mnemonic = "valid anxiety polar all resemble anxiety oil unique old sword mistake note";

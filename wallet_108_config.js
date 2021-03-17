@@ -1,1 +1,1 @@
-var mnemonic = "ice harvest seat reform fire cloud must harbor narrow ticket border gift";
+var mnemonic = "any drill renew pull cause tobacco tiny proof myself hamster dizzy bulb";

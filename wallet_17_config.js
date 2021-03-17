@@ -1,1 +1,1 @@
-var mnemonic = "error age access rebel right autumn own shy idle anger saddle trust";
+var mnemonic = "lamp tell term sure update donkey box knock latin sustain can vote";

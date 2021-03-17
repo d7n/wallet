@@ -1,1 +1,1 @@
-var mnemonic = "priority narrow saddle aunt beef cost culture mimic regular pig brisk envelope";
+var mnemonic = "lesson lion list vanish coffee display end taste best humble monitor truck";

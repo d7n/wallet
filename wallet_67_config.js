@@ -1,1 +1,1 @@
-var mnemonic = "leaf grow strike crawl pattern use dial display whale great curious inherit";
+var mnemonic = "hedgehog seven embrace pony off judge thought movie pyramid illness gap noble";

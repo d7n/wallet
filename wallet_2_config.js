@@ -1,1 +1,1 @@
-var mnemonic = "lady april wrestle scheme room half network unlock master hold cute leave";
+var mnemonic = "thrive wide amazing ill weapon mountain vast enter owner bonus age hurdle";

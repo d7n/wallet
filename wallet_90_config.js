@@ -1,1 +1,1 @@
-var mnemonic = "keep emerge renew argue behind black orient gauge ask habit sun blossom";
+var mnemonic = "silent adult gasp couple retreat picture lemon wave mule ankle before armor";

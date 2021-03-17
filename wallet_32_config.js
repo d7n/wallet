@@ -1,1 +1,1 @@
-var mnemonic = "maid float lazy law corn episode cart tilt maple bar rapid mixture";
+var mnemonic = "tobacco tornado fabric april tattoo strong mass letter pipe right much vintage";

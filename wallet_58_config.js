@@ -1,1 +1,1 @@
-var mnemonic = "test wasp limb poem rotate hello educate champion dove error winner about";
+var mnemonic = "sand verb minute combine school arrow repeat oblige salmon convince person pitch";

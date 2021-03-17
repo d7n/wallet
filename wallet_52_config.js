@@ -1,1 +1,1 @@
-var mnemonic = "crater thought focus ride ticket loan valley point seat pistol mechanic push";
+var mnemonic = "caution guard net apple defense advice perfect rocket gesture test become alter";

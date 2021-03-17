@@ -1,1 +1,1 @@
-var mnemonic = "tooth cactus fall detail swift trial slice spray celery snack rate capital";
+var mnemonic = "fine elegant develop rifle core welcome maple episode innocent rival worry reduce";

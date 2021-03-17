@@ -1,1 +1,1 @@
-var mnemonic = "mention twist armor fancy speed off fox blouse spoil rude remember fish";
+var mnemonic = "sail myself orange either cage cake relief paddle loan soccer volume make";

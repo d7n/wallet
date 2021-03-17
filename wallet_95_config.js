@@ -1,1 +1,1 @@
-var mnemonic = "burden impulse review boring cabbage million net cherry decrease very anxiety armor";
+var mnemonic = "sweet adjust divorce slogan ceiling trade rose sock rescue debate start curve";

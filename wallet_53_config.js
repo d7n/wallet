@@ -1,1 +1,1 @@
-var mnemonic = "six next fox essay fox prevent love torch frost friend fine water";
+var mnemonic = "huge flight desert syrup giggle shoe motion private sad main video hero";

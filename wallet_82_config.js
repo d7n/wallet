@@ -1,1 +1,1 @@
-var mnemonic = "item abuse violin chef peace forum accuse inflict height banana weird total";
+var mnemonic = "thumb bean marine bid blouse coast group come small remind east wrist";

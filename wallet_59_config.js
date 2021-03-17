@@ -1,1 +1,1 @@
-var mnemonic = "require survey thunder nurse brass cover midnight genre involve expand device harbor";
+var mnemonic = "blind holiday away endless pear maple maple crisp close dry wink recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "leader farm just bargain discover proud swift total gold dad worth idea";
+var mnemonic = "pupil birth dress people wish coin boost number require ankle dove under";

@@ -1,1 +1,1 @@
-var mnemonic = "earth orange misery cycle lamp bomb square rigid elite easy observe raise";
+var mnemonic = "february light mystery comic divide neck oval save coin insect old unable";

@@ -1,1 +1,1 @@
-var mnemonic = "sing squeeze digital review globe december brown diesel coral hint potato train";
+var mnemonic = "glow strike hold cream fabric belt art punch subject risk shiver doll";

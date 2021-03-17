@@ -1,1 +1,1 @@
-var mnemonic = "boat sing suffer valley sketch winter auction scale pulse legal ribbon swear";
+var mnemonic = "other sense sudden master current brief energy execute problem dune away gesture";

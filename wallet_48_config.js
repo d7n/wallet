@@ -1,1 +1,1 @@
-var mnemonic = "today side park double dentist injury love daughter volcano child tree ignore";
+var mnemonic = "noble cherry ship chuckle rotate february month angle transfer craft melt pulp";

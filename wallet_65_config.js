@@ -1,1 +1,1 @@
-var mnemonic = "pyramid clown draw aware strong clip vehicle vague road diesel parade paddle";
+var mnemonic = "purity fault benefit brand faint thing wrong mosquito minor cancel dinosaur bring";

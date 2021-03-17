@@ -1,1 +1,1 @@
-var mnemonic = "cave siren camp deer right before write profit business gadget cotton talk";
+var mnemonic = "recall exhaust debris music swear virus stool sell spring world unknown column";

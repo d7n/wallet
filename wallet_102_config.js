@@ -1,1 +1,1 @@
-var mnemonic = "decide fox screen deliver solar remove mix coach bronze category spell steel";
+var mnemonic = "input snap artwork sugar timber typical valid grass unit junk record define";

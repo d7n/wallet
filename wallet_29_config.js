@@ -1,1 +1,1 @@
-var mnemonic = "doctor remove camera transfer brand gold delay sell goose ball blind insect";
+var mnemonic = "shield nose odor behave duty million fluid comfort employ scare blade route";

@@ -1,1 +1,1 @@
-var mnemonic = "fire luggage able truck zoo input until lesson credit dress eight memory";
+var mnemonic = "gas fruit naive mad anger unit keep nerve grunt drift duty vital";

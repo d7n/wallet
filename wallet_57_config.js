@@ -1,1 +1,1 @@
-var mnemonic = "exercise seven laundry whip blouse very ice purse final exclude bicycle wisdom";
+var mnemonic = "cram glimpse focus tragic buyer attend patient lounge pizza common hard hold";

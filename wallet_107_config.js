@@ -1,1 +1,1 @@
-var mnemonic = "mesh hybrid glimpse truck giraffe shiver another depart grace hold useful evil";
+var mnemonic = "kiwi glove verify crush layer hedgehog cement dream razor royal veteran slight";

@@ -1,1 +1,1 @@
-var mnemonic = "someone coast inmate diesel heavy shrug merry easily cart frequent captain advice";
+var mnemonic = "chimney brief stamp adult bus slow depart voyage language sausage era produce";

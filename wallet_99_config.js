@@ -1,1 +1,1 @@
-var mnemonic = "figure stove churn laptop trip enable keen range run quarter island reopen";
+var mnemonic = "void wonder sword educate east engine total glad river average blast response";
