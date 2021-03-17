@@ -1,1 +1,1 @@
-var mnemonic = "aerobic essence hill have rigid heart culture fabric random gap renew omit";
+var mnemonic = "run safe hedgehog crater guard shove gospel dream nice tenant small satoshi";

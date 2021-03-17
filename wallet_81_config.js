@@ -1,1 +1,1 @@
-var mnemonic = "wise cloud adapt labor tool ill sister issue cheese club valve stairs";
+var mnemonic = "shed provide economy claim slogan boat rice laugh melody level suffer delay";

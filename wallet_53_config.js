@@ -1,1 +1,1 @@
-var mnemonic = "amateur guard round else kite hire mouse pen flee balance peasant vehicle";
+var mnemonic = "unable awesome trick stomach initial pole table chalk illegal choice pizza bleak";

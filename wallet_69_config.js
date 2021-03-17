@@ -1,1 +1,1 @@
-var mnemonic = "cave parade simple brush excite eagle reward appear sausage pact table size";
+var mnemonic = "dinner demise risk control pottery blanket bacon song usage party same cabbage";

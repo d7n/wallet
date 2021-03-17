@@ -1,1 +1,1 @@
-var mnemonic = "top involve scan float blind describe decrease carry oven cement tip gun";
+var mnemonic = "crater soap escape nose notice peace abuse title entry long soon sing";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow saddle boring arm stem indoor problem local health ready rug bread";
+var mnemonic = "glory peace alcohol island ethics exhaust economy brown slide pottery accident method";

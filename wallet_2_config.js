@@ -1,1 +1,1 @@
-var mnemonic = "math inform nest portion please admit myth spread own shiver goddess liquid";
+var mnemonic = "source derive during steak bridge illness captain crime mass cook print dad";

@@ -1,1 +1,1 @@
-var mnemonic = "village ticket beauty green host echo blush liar able garden today monkey";
+var mnemonic = "plug heart hotel age tribe finger knock fame envelope cycle screen decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "skill gravity food medal ticket sausage tourist car disease live panic rifle";
+var mnemonic = "accuse artwork can pepper alpha diary garage boring target fortune father adjust";

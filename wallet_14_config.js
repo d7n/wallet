@@ -1,1 +1,1 @@
-var mnemonic = "matrix cricket work pigeon photo milk blade shoe public bicycle soup surface";
+var mnemonic = "detect tornado thought link message reopen suffer dutch permit rail royal leg";

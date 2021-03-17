@@ -1,1 +1,1 @@
-var mnemonic = "album van brother average matrix illegal concert hockey eye permit metal field";
+var mnemonic = "only bubble dolphin pattern foam miracle jacket alcohol praise bind royal before";

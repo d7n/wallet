@@ -1,1 +1,1 @@
-var mnemonic = "battle video dizzy zone arrive skull envelope water tobacco turkey matter document";
+var mnemonic = "cook cargo lemon trouble jump insane high another aim walnut crisp bitter";

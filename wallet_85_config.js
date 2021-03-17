@@ -1,1 +1,1 @@
-var mnemonic = "wave speed army alcohol injury worry strike giggle lake gaze innocent emerge";
+var mnemonic = "shaft negative organ picnic vague cause glove night save gap ignore fever";

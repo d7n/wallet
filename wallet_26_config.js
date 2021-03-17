@@ -1,1 +1,1 @@
-var mnemonic = "twist answer cheap admit dog mind soap drive where chicken since ignore";
+var mnemonic = "word misery modify know skate amused year cliff hurry guilt install timber";

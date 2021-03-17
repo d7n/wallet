@@ -1,1 +1,1 @@
-var mnemonic = "law place rubber poet leisure glue float boil tonight anger robot donate";
+var mnemonic = "document verb stumble scare solar spot area bike pull father nothing leave";

@@ -1,1 +1,1 @@
-var mnemonic = "around pear exist section hurdle angry spare hint skin awake dumb sport";
+var mnemonic = "give actress pelican erupt please cage donor holiday angle crunch athlete have";

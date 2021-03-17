@@ -1,1 +1,1 @@
-var mnemonic = "glove damage glow cook cute orange fashion ask wrist tornado base crush";
+var mnemonic = "canoe heart discover acquire crew hotel muscle valid best salute obey drop";

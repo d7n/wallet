@@ -1,1 +1,1 @@
-var mnemonic = "unaware current notable issue short hurdle cluster leopard battle peasant brother snow";
+var mnemonic = "crack leisure cinnamon common remember mimic ice family beauty solar rookie spray";

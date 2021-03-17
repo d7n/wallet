@@ -1,1 +1,1 @@
-var mnemonic = "enable bone divorce flame situate wide token turkey peanut can bring elegant";
+var mnemonic = "grace garage net clean boring creek regret cube mention situate globe dash";

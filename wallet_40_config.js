@@ -1,1 +1,1 @@
-var mnemonic = "jacket useful scatter sort toast icon dolphin margin web unable steak river";
+var mnemonic = "pupil float custom jaguar kit magic again elbow unlock start task bird";

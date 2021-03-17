@@ -1,1 +1,1 @@
-var mnemonic = "bone night burden modify rent fly build party fetch identify believe blush";
+var mnemonic = "exotic unveil wave hammer alcohol hawk produce assume away universe myself first";

@@ -1,1 +1,1 @@
-var mnemonic = "hub wrestle toss churn ship sign mesh twice volcano kid club attitude";
+var mnemonic = "veteran roof diesel vessel fan achieve peasant equal gorilla ski lucky position";

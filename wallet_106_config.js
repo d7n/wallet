@@ -1,1 +1,1 @@
-var mnemonic = "kitten report canyon cart win electric cruise gallery engine cotton disease lend";
+var mnemonic = "assault useless off allow actor merit train alone sick alien fade federal";

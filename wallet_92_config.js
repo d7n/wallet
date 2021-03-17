@@ -1,1 +1,1 @@
-var mnemonic = "neglect atom frost inside practice number hundred search bridge arrive mouse toast";
+var mnemonic = "profit crowd rebel flat shrug coin glimpse local torch winter fat fold";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer disagree virtual rail absurd stool long camp copy clutch liar kind";
+var mnemonic = "catalog sudden prevent weekend cargo core flame treat surround lizard mesh major";

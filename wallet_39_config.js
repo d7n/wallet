@@ -1,1 +1,1 @@
-var mnemonic = "cake cube fire super bronze memory finish coconut below furnace business ramp";
+var mnemonic = "derive unit eternal roast equal already diesel plunge paddle mosquito vibrant lake";

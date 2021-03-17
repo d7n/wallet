@@ -1,1 +1,1 @@
-var mnemonic = "camera tail rescue foam west erase empower dad cousin soccer ticket address";
+var mnemonic = "enter cup deposit liar seat suspect daring era mass minor metal bronze";

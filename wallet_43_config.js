@@ -1,1 +1,1 @@
-var mnemonic = "deposit young minimum south seat leg eternal fee chief skill olive spatial";
+var mnemonic = "public youth price chronic approve purity east potato dial potato expose crowd";

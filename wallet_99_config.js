@@ -1,1 +1,1 @@
-var mnemonic = "fatigue grant normal shadow eyebrow group loyal agent reopen spot mail slight";
+var mnemonic = "stool fee oppose sell clarify gallery train embody shed palace display ill";

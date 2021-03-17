@@ -1,1 +1,1 @@
-var mnemonic = "rare split indicate bomb tide enjoy clean stumble length topple tuition rent";
+var mnemonic = "mind wolf soccer annual old box travel first term clarify eyebrow certain";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain alien wreck indicate gift husband inch ancient stand confirm raise emerge";
+var mnemonic = "oak rare donkey problem question recipe until pride marble window write crisp";

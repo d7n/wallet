@@ -1,1 +1,1 @@
-var mnemonic = "guilt hat glue secret onion child diary snow lava obtain calm syrup";
+var mnemonic = "rare kitchen success jewel raise risk satisfy glass modify marble sense kingdom";

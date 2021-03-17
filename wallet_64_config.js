@@ -1,1 +1,1 @@
-var mnemonic = "garage grunt fetch grain sun key sorry ensure budget snake tent pair";
+var mnemonic = "degree boil come sort oblige spend atom answer praise barely erode autumn";

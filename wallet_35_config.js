@@ -1,1 +1,1 @@
-var mnemonic = "cute cave clap feature wheat mandate clean wish material fold rack dignity";
+var mnemonic = "swift cupboard hamster nothing clog clinic alert share merry divorce winner act";

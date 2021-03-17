@@ -1,1 +1,1 @@
-var mnemonic = "dry scout oppose rookie remove ball hero wash first volcano notice employ";
+var mnemonic = "flee way execute absent other blue solution else jar vocal switch pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "object cancel rigid venture rhythm junior burger weird utility ozone cram popular";
+var mnemonic = "annual crawl future gain cash pear plunge bullet violin soldier rubber salute";

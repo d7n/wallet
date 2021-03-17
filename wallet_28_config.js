@@ -1,1 +1,1 @@
-var mnemonic = "come garment census issue text silver boss milk congress tornado favorite day";
+var mnemonic = "dress voyage ranch champion chimney sand cheese luggage twelve goddess gallery odor";

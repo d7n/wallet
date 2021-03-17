@@ -1,1 +1,1 @@
-var mnemonic = "audit venue solution glue rib receive deny rescue galaxy sick liberty address";
+var mnemonic = "elbow brass trim eight three relief liar hybrid dignity jacket judge slim";

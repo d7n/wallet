@@ -1,1 +1,1 @@
-var mnemonic = "fiscal oak draw exile antique prepare sphere orchard link have wheel avoid";
+var mnemonic = "stage nuclear giant churn girl again version arrest lizard vast frost produce";

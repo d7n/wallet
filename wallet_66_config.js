@@ -1,1 +1,1 @@
-var mnemonic = "fault drip cross traffic muscle win elite luggage witness empty announce save";
+var mnemonic = "cricket journey winter exact welcome outer wagon swamp glue exclude open defense";

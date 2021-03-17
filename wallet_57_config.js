@@ -1,1 +1,1 @@
-var mnemonic = "display argue measure shed image turtle way rival escape suffer have amazing";
+var mnemonic = "silk rival owner erase goat flower crazy cement double truly below midnight";

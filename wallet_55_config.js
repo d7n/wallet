@@ -1,1 +1,1 @@
-var mnemonic = "bronze expose sound donkey arrange shell badge lucky plastic junior upon idle";
+var mnemonic = "coast book quote region drastic cactus race relief very scatter oyster theme";

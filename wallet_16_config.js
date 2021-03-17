@@ -1,1 +1,1 @@
-var mnemonic = "element check pause upgrade liar muscle fatal sentence fox animal spice twice";
+var mnemonic = "final surround vessel prosper caution clown guard cloud fiber endorse stuff cute";

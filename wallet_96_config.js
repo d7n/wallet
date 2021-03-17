@@ -1,1 +1,1 @@
-var mnemonic = "sword winner wine roast please ordinary lab coil film crouch table absent";
+var mnemonic = "cart grass property tape impose soon front genuine venture jungle poet roast";

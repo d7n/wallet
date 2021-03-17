@@ -1,1 +1,1 @@
-var mnemonic = "column media crazy spend nephew grass coin crew climb rural define unfold";
+var mnemonic = "wage bread note assume casino flower clerk best chair shine tissue abstract";

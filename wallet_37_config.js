@@ -1,1 +1,1 @@
-var mnemonic = "transfer drop gesture air gym fine predict seminar neither brass buzz coconut";
+var mnemonic = "vacuum cage loud this enroll fuel love glove dumb load joke wreck";

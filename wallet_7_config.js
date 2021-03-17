@@ -1,1 +1,1 @@
-var mnemonic = "razor village system argue giraffe gesture engine admit faith web quick conduct";
+var mnemonic = "cause outer ribbon clown such fossil blind unlock antique light indicate portion";

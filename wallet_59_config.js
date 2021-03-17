@@ -1,1 +1,1 @@
-var mnemonic = "outer cheese question dust ahead turkey defy family meat then laugh panther";
+var mnemonic = "imitate loyal kite possible bomb bacon flip runway change maple know boil";

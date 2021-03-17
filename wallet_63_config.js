@@ -1,1 +1,1 @@
-var mnemonic = "square fabric garlic tenant cage cabbage major diary robust circle tree staff";
+var mnemonic = "motor vast basic nose floor during churn bind pair west wisdom addict";

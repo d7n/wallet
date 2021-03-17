@@ -1,1 +1,1 @@
-var mnemonic = "cheese skill salon busy basket call seminar suspect canvas cabbage mouse claw";
+var mnemonic = "object tomorrow balance board legend style public electric need disease worth engine";

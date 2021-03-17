@@ -1,1 +1,1 @@
-var mnemonic = "element bronze what smooth employ roast scheme seven diet waste garment nominee";
+var mnemonic = "until injury evil picnic deposit chalk remind charge again palm menu angle";

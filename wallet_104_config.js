@@ -1,1 +1,1 @@
-var mnemonic = "news guess taste sponsor search display faith icon supreme reject property away";
+var mnemonic = "wagon skull fashion auto father major enact talent genius tonight portion holiday";

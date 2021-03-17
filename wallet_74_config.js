@@ -1,1 +1,1 @@
-var mnemonic = "such case gather soap retire wish bring cliff sketch ramp erase artwork";
+var mnemonic = "memory menu nurse pet east hollow play slight minor web cry execute";

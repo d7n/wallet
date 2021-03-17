@@ -1,1 +1,1 @@
-var mnemonic = "actress disorder segment insane ginger exotic repeat fiction confirm else noodle relief";
+var mnemonic = "please frozen assist trophy casino ladder inject spoon day wash steak oyster";

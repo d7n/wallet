@@ -1,1 +1,1 @@
-var mnemonic = "oxygen keen general source poem field market absent next can transfer oven";
+var mnemonic = "pretty tackle cactus wedding chaos outdoor knee fire captain flock kite rice";

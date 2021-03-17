@@ -1,1 +1,1 @@
-var mnemonic = "copy impulse manage convince friend peasant topple tumble onion lava loud ring";
+var mnemonic = "news castle pull salmon office gift tiger antenna open address key hold";

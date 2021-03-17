@@ -1,1 +1,1 @@
-var mnemonic = "decorate oblige enlist thumb clutch double man embody picture april fatigue effort";
+var mnemonic = "cost guard accuse gadget fat print web analyst beyond giggle draft pioneer";

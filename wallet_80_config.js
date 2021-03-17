@@ -1,1 +1,1 @@
-var mnemonic = "mushroom fix earn card term opera joy idle coast today junk camp";
+var mnemonic = "reject double health glimpse cruise sausage shift ancient language bid ivory trigger";

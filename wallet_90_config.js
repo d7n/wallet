@@ -1,1 +1,1 @@
-var mnemonic = "little fortune rubber chat spoil inspire edge behave lamp patient phone spawn";
+var mnemonic = "body matrix film royal sleep liberty addict common horse mask kiwi age";

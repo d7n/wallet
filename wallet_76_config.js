@@ -1,1 +1,1 @@
-var mnemonic = "velvet spice shy idle trophy diagram apart gravity year copper can solid";
+var mnemonic = "mushroom zebra adapt fabric fashion friend fog tragic injury gorilla brick pitch";

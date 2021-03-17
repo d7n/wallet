@@ -1,1 +1,1 @@
-var mnemonic = "worry improve error achieve gap loop pumpkin beauty fly bonus match snack";
+var mnemonic = "erosion twice crumble post black critic vivid estate federal actor treat afford";

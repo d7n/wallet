@@ -1,1 +1,1 @@
-var mnemonic = "vacant text asset ridge jaguar farm palace sorry shallow tribe skill foot";
+var mnemonic = "poverty wheat wise street quote camera one radio fine cage bacon crew";

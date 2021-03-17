@@ -1,1 +1,1 @@
-var mnemonic = "notice garden income axis first spatial unit vast strong danger lock code";
+var mnemonic = "paper box ship patch tube duck glad federal december element chief consider";

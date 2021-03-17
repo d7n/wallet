@@ -1,1 +1,1 @@
-var mnemonic = "ostrich wish yellow walk doctor notable manual pottery shuffle crash wrestle april";
+var mnemonic = "pretty distance raven tip scatter load much hungry weather panther grow staff";

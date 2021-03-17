@@ -1,1 +1,1 @@
-var mnemonic = "renew face spike market trash install clinic squeeze decide typical orphan direct";
+var mnemonic = "stove tomato clinic broom educate lobster lawsuit cost tuition trust emerge feature";

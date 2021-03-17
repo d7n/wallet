@@ -1,1 +1,1 @@
-var mnemonic = "remain follow notice property guilt confirm frost enter alley dress warm owner";
+var mnemonic = "expect panel impulse runway crisp slight differ teach shield tiger proud october";

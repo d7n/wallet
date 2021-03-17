@@ -1,1 +1,1 @@
-var mnemonic = "ill peanut opinion license squirrel borrow confirm come faint arrive enlist coconut";
+var mnemonic = "dry guard apology hundred celery code pulp retreat laundry busy host small";

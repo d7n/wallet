@@ -1,1 +1,1 @@
-var mnemonic = "few sample price swallow quarter parrot olive replace other firm beyond silly";
+var mnemonic = "faith fiscal baby pudding museum name air body doll buffalo motor category";

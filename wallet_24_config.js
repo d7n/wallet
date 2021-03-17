@@ -1,1 +1,1 @@
-var mnemonic = "prison luggage lazy twenty purchase sell vanish elder pizza spot parent undo";
+var mnemonic = "inflict initial rug frown mail few finger scale mother blame photo slow";

@@ -1,1 +1,1 @@
-var mnemonic = "alley cram cattle filter invest spend stock bamboo entire refuse stage tonight";
+var mnemonic = "mix annual harsh shallow emotion primary draft blame robust runway sight inner";

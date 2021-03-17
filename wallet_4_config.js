@@ -1,1 +1,1 @@
-var mnemonic = "upgrade slight own oak salmon push cloud push tooth will oil lucky";
+var mnemonic = "amount phrase green great follow latin engine carbon best dash close wood";

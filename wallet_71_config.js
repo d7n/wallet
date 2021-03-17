@@ -1,1 +1,1 @@
-var mnemonic = "innocent library payment method image crush cigar push sword coin bread silk";
+var mnemonic = "fee shell slight govern talk mountain reunion aspect frown actor strike evil";

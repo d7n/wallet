@@ -1,1 +1,1 @@
-var mnemonic = "payment stumble find around coach able major purpose sound ivory plastic attack";
+var mnemonic = "taxi brown million gasp super argue mirror share exercise waste knee peasant";

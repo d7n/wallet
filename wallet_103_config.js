@@ -1,1 +1,1 @@
-var mnemonic = "enforce protect hip prosper tobacco olympic around coin network tonight torch shrug";
+var mnemonic = "grape dinner admit useless strong quarter smart solar pass tiny satisfy aerobic";

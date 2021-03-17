@@ -1,1 +1,1 @@
-var mnemonic = "mean fork excite place drill zero purse govern occur talk seek wire";
+var mnemonic = "latin miss multiply cruel across clutch reveal group civil erupt friend special";

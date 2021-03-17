@@ -1,1 +1,1 @@
-var mnemonic = "lock hotel age exhibit account just impose flame jelly short focus sketch";
+var mnemonic = "stumble abstract stuff confirm drum eternal license tenant forward boy tortoise lift";

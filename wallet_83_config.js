@@ -1,1 +1,1 @@
-var mnemonic = "sight later town quit sing canyon bridge melt kit rotate original view";
+var mnemonic = "essence pill knife yard glad ritual ball weather forest diesel follow report";

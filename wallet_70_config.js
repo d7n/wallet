@@ -1,1 +1,1 @@
-var mnemonic = "sauce witness fossil breeze elder asthma tank such evoke tattoo injury shallow";
+var mnemonic = "alarm talent cause fence lady angle skin palace diesel minimum flag cage";

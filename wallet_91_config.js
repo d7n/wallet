@@ -1,1 +1,1 @@
-var mnemonic = "foster girl exchange strike magic fruit ivory snack frequent improve busy sunny";
+var mnemonic = "ring verb tumble shy hair maximum modify final virtual anxiety glow cloth";

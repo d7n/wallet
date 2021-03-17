@@ -1,1 +1,1 @@
-var mnemonic = "salt ribbon matrix farm brick power erase language edit okay rally wife";
+var mnemonic = "fatal work cinnamon margin valve dismiss sheriff salon arrest second harsh admit";

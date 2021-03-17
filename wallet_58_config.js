@@ -1,1 +1,1 @@
-var mnemonic = "daughter manual donate catalog hole buzz onion moral wear divert primary salmon";
+var mnemonic = "fragile lazy brisk giant prevent number giraffe truth hover sauce smart awful";

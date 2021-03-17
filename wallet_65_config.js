@@ -1,1 +1,1 @@
-var mnemonic = "effort will blind arrest useful acid future garage element holiday educate abstract";
+var mnemonic = "comfort animal apple damage work damp virus use physical eager margin copper";

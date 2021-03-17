@@ -1,1 +1,1 @@
-var mnemonic = "beach cereal output toy hammer tomato mother wet initial capital pluck car";
+var mnemonic = "team deny lamp slender federal fish solve cupboard where lecture bar before";

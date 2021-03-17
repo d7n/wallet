@@ -1,1 +1,1 @@
-var mnemonic = "world mutual advice cost gauge way step mountain swap salmon inherit speak";
+var mnemonic = "equip comic six tuna stove relief doctor million beef bunker baby mass";

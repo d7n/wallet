@@ -1,1 +1,1 @@
-var mnemonic = "awkward claw mystery ankle home canoe cruel tower crunch bird donkey grab";
+var mnemonic = "scare purpose machine tennis material naive property merge settle lift solution net";

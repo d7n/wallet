@@ -1,1 +1,1 @@
-var mnemonic = "bag soda army spike crack number old impact brief traffic report chapter";
+var mnemonic = "immense electric member icon high devote rib vague pioneer pact physical famous";

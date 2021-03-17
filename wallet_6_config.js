@@ -1,1 +1,1 @@
-var mnemonic = "category price lounge mobile tell digital destroy body movie vapor rotate ribbon";
+var mnemonic = "wisdom purpose canvas reunion average lab child arrange bundle already never baby";

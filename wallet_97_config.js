@@ -1,1 +1,1 @@
-var mnemonic = "cluster twin siren electric quote jar live strike shop top hire universe";
+var mnemonic = "battle fun violin coyote suit zebra water urge exist express mixture february";
