@@ -1,1 +1,1 @@
-var mnemonic = "salad bus drum turn flat caught program example weasel three maze crucial";
+var mnemonic = "furnace bounce stable stomach assist hawk dose ostrich parrot craft sport couple";

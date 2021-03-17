@@ -1,1 +1,1 @@
-var mnemonic = "soap clock weekend bulb absent effort session raw crumble mass immune feature";
+var mnemonic = "inherit hand melody surface lyrics pen possible involve tattoo lonely gain will";

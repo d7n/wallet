@@ -1,1 +1,1 @@
-var mnemonic = "glove very senior much dumb reason silly book poet deal quarter type";
+var mnemonic = "orbit forward venture wet hero subject remain path weasel hire reject pencil";

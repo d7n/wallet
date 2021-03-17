@@ -1,1 +1,1 @@
-var mnemonic = "plate ceiling zero tube grit lucky include winner flat draft muscle street";
+var mnemonic = "indoor erode predict exchange ramp dream relax cube lunch cage engine observe";

@@ -1,1 +1,1 @@
-var mnemonic = "electric useless rich daring type into segment friend chunk collect opinion recall";
+var mnemonic = "slender track guilt stay tape smoke maze weird yard connect quality profit";

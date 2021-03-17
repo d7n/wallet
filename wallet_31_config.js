@@ -1,1 +1,1 @@
-var mnemonic = "surface donate hockey grace skirt maze street become expect pulp cover dream";
+var mnemonic = "sauce obey rack cinnamon mother utility pioneer all list hospital merge prison";

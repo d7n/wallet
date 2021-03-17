@@ -1,1 +1,1 @@
-var mnemonic = "catalog spy rude bracket robot pottery wink subway waste similar mobile clump";
+var mnemonic = "sort interest embark wise couple later art search thing cabbage rail tell";

@@ -1,1 +1,1 @@
-var mnemonic = "trade pumpkin lobster junk rookie spoil medal organ seed robot raise issue";
+var mnemonic = "twenty spike neither juice supreme toddler pledge celery vapor kangaroo strong such";

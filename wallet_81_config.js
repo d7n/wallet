@@ -1,1 +1,1 @@
-var mnemonic = "ship repair marine sniff cost alarm champion nurse cat ordinary this box";
+var mnemonic = "negative blame more flag dish evolve inform subway tilt chuckle record thought";

@@ -1,1 +1,1 @@
-var mnemonic = "moment tourist mercy broken fruit green injury ecology error scorpion economy spawn";
+var mnemonic = "green angle lyrics close notable lucky great garden bus profit absurd pluck";

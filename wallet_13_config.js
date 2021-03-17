@@ -1,1 +1,1 @@
-var mnemonic = "tonight uncover cigar rebuild arch figure grow achieve alien climb concert name";
+var mnemonic = "decrease cave legend pistol olympic giggle hunt taxi quote caught fabric margin";

@@ -1,1 +1,1 @@
-var mnemonic = "wood decorate sister exit autumn guess tide pave black length powder beauty";
+var mnemonic = "trap coin sick web zero wage same layer elephant identify ring suspect";

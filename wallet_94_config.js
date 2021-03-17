@@ -1,1 +1,1 @@
-var mnemonic = "draw dynamic region miracle peasant fetch apology replace tattoo crane coral nut";
+var mnemonic = "absurd remember type gas normal ship butter resource sibling improve rough flag";

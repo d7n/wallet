@@ -1,1 +1,1 @@
-var mnemonic = "celery angry foil coral clay obscure vital away knee solar summer scrap";
+var mnemonic = "hurt gas size rely asset trim tilt relax truck major all ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "stable flame creek later sausage chase ancient copper guilt artist attack mention";
+var mnemonic = "crime large awesome ski tennis sense knock indicate wrong dove crack number";

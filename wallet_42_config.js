@@ -1,1 +1,1 @@
-var mnemonic = "token usage secret arrow excuse mobile special knock text arrow wedding vicious";
+var mnemonic = "buddy auction banner exclude rack fresh warm boat obscure unit fade sign";

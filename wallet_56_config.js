@@ -1,1 +1,1 @@
-var mnemonic = "cute card used thumb silk subject blind ticket double love olympic wine";
+var mnemonic = "travel arena step world response glass fat mask solid ramp poem wise";

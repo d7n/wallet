@@ -1,1 +1,1 @@
-var mnemonic = "trend earn hurt oak leg cereal run razor jaguar rookie eye frame";
+var mnemonic = "blouse awful breeze dice squeeze under scale egg quit knock cushion story";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct green direct west smart disease whale apple cannon scale around page";
+var mnemonic = "region since west wild erosion can half runway economy balcony silent melt";

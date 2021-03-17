@@ -1,1 +1,1 @@
-var mnemonic = "embody first giant horse gauge erosion prefer nuclear work scare slab planet";
+var mnemonic = "smile kid beach chair sphere habit addict question inside chalk raise quote";

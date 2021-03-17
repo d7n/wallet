@@ -1,1 +1,1 @@
-var mnemonic = "skull mandate review ivory verb bargain galaxy melody life finish gold gallery";
+var mnemonic = "joy carpet join area filter cliff party gasp fossil genre cruel turtle";

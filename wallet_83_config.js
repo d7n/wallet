@@ -1,1 +1,1 @@
-var mnemonic = "equal undo ankle salt beyond latin vivid timber hip maximum ranch second";
+var mnemonic = "flavor embody lava hour screen drive verify coach sketch nice wash alien";

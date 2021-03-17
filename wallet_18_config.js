@@ -1,1 +1,1 @@
-var mnemonic = "assault thumb orient math topple split deal marine gain coach cash zero";
+var mnemonic = "topic minor useful actual faculty erase angry among disease desk modify smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra region media tattoo mystery curious betray relief embrace million lift robot";
+var mnemonic = "brisk antique violin assist expose away embrace electric valve burger access satoshi";

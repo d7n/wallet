@@ -1,1 +1,1 @@
-var mnemonic = "success drift special response answer youth cousin cat aerobic return theme someone";
+var mnemonic = "split transfer need couch wide junior title fence code squirrel absorb helmet";

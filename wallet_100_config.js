@@ -1,1 +1,1 @@
-var mnemonic = "squirrel step ability humble sunset april coconut fiscal canyon close intact sad";
+var mnemonic = "fossil wasp protect dove soul entire book retreat web inflict game stairs";

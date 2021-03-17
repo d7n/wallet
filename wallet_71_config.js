@@ -1,1 +1,1 @@
-var mnemonic = "clap frost right curve welcome merit labor salute spoon duty myself problem";
+var mnemonic = "element ivory forum ancient hover fuel text people turn rhythm crash frequent";

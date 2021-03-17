@@ -1,1 +1,1 @@
-var mnemonic = "obscure draw casino quiz merge six develop resemble joke alcohol business outdoor";
+var mnemonic = "infant predict crush bread tunnel visual verb pelican human concert alert number";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle basket cage ability rigid under vessel frog rocket culture strike pet";
+var mnemonic = "sun utility drill fine host harbor devote scene gift diary print asthma";

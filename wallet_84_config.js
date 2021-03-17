@@ -1,1 +1,1 @@
-var mnemonic = "rain seminar stem kick cricket speed clay hedgehog sponsor speak poet public";
+var mnemonic = "huge spawn predict fatal say thrive filter cash entry general slogan air";

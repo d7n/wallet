@@ -1,1 +1,1 @@
-var mnemonic = "pizza usage excess large cross give fire guess erupt case excuse hurdle";
+var mnemonic = "quit sad fork quality mango actress fluid lock gain genuine entire real";

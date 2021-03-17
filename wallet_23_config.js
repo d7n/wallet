@@ -1,1 +1,1 @@
-var mnemonic = "accuse insect genius pond stone wall post material parent grain come before";
+var mnemonic = "aerobic nut hard rice detect dial hammer zoo legend toddler denial crater";

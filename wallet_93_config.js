@@ -1,1 +1,1 @@
-var mnemonic = "excuse audit echo solid giraffe polar dance gasp focus shadow autumn board";
+var mnemonic = "exhibit float next obvious keep pencil wisdom lunch page duty notice online";

@@ -1,1 +1,1 @@
-var mnemonic = "curious cherry clap faith excess hour cabbage monitor material grief swap smile";
+var mnemonic = "hello siren frog kite enter teach obvious drip impact credit edge velvet";

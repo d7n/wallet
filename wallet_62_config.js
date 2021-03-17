@@ -1,1 +1,1 @@
-var mnemonic = "minute slender glimpse tonight flag issue party kind find stand husband vicious";
+var mnemonic = "rebel upgrade rural rabbit flight castle matter apple lumber half verb leaf";

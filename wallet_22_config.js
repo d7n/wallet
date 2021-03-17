@@ -1,1 +1,1 @@
-var mnemonic = "police giggle cloth addict acoustic drip short double actual transfer number raise";
+var mnemonic = "squirrel miss tower harvest math circle dress ritual sibling ribbon yellow spend";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny deputy receive cost trust leave south gain employ amount sell aim";
+var mnemonic = "spoon pen swear number matter dice syrup wage depend bundle easy weapon";

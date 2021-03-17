@@ -1,1 +1,1 @@
-var mnemonic = "brisk physical case rich actual middle tooth twelve tribe rapid leisure obtain";
+var mnemonic = "vacant wear ranch warrior they account fade trophy foam lock betray picture";

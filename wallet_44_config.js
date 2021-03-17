@@ -1,1 +1,1 @@
-var mnemonic = "stool agree wedding express lawn maple rule casual drum seven ability enrich";
+var mnemonic = "three father favorite train you jump worth list bag reduce nuclear matter";

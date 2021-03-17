@@ -1,1 +1,1 @@
-var mnemonic = "angry detail barrel rally system immune wedding shoe clutch sea hint crawl";
+var mnemonic = "garage empty dance credit double twenty salad main shield adapt welcome athlete";

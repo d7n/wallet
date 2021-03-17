@@ -1,1 +1,1 @@
-var mnemonic = "portion thunder fitness jaguar source mass dumb finish floor credit promote extra";
+var mnemonic = "tongue actual winner chuckle arctic derive bring report tube recipe economy capital";

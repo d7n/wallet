@@ -1,1 +1,1 @@
-var mnemonic = "utility hub reveal matrix produce practice prepare retreat short stand talent oxygen";
+var mnemonic = "number wild pizza laundry direct toast then negative human sentence virtual then";

@@ -1,1 +1,1 @@
-var mnemonic = "include awesome nominee symptom sting grain estate force furnace robust wild ill";
+var mnemonic = "wood alarm notable tail famous element swallow illegal quit cool simple cover";

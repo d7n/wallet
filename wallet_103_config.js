@@ -1,1 +1,1 @@
-var mnemonic = "rival family orange crouch gown ordinary claw armed economy pink jealous quarter";
+var mnemonic = "celery hundred bone paper dinner drift best valve fee enroll hockey seat";

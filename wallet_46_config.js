@@ -1,1 +1,1 @@
-var mnemonic = "lottery harsh survey shrug goat lonely sample good file ghost candy nature";
+var mnemonic = "kingdom fantasy thunder void disease sock cross anxiety stereo wood usual analyst";

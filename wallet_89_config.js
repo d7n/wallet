@@ -1,1 +1,1 @@
-var mnemonic = "elephant tree cable cinnamon acid type movie napkin visit squirrel grunt answer";
+var mnemonic = "ice simple faculty primary wedding better slab hub fit hurt tennis rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse treat joke truly report muscle pepper hamster winter crop lava letter";
+var mnemonic = "input carry rabbit slender spray busy face endless setup square depth color";

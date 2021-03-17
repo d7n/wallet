@@ -1,1 +1,1 @@
-var mnemonic = "grass invest vacant runway ankle force run toddler lava canoe oxygen trigger";
+var mnemonic = "side mosquito robust eagle easy session curve display refuse erode exist play";

@@ -1,1 +1,1 @@
-var mnemonic = "ride avocado inflict canoe evoke endless dumb flag world salad prison boil";
+var mnemonic = "syrup stool fresh ahead announce sheriff turkey nation describe ketchup second chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "cross since table debris horn call claim parade oxygen police helmet gesture";
+var mnemonic = "common cook sing artist jacket giant endless deliver electric knock eight solid";

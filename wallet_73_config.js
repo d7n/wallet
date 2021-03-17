@@ -1,1 +1,1 @@
-var mnemonic = "logic tackle unable sunset also choice dragon lion stable estate over fan";
+var mnemonic = "cereal wine stomach ceiling shove traffic broccoli above have example myself security";

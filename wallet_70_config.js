@@ -1,1 +1,1 @@
-var mnemonic = "repeat lock twist clown inner crop pet stumble opera symptom corn order";
+var mnemonic = "afraid until salmon file dynamic clever twist mention anchor promote flee hospital";

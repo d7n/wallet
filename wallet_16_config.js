@@ -1,1 +1,1 @@
-var mnemonic = "sauce scrap truly depend confirm local rescue teach trouble audit mass fiscal";
+var mnemonic = "large run frozen text recycle figure another west width impose blur offer";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn scorpion song sun dutch hammer venue festival taste utility army chicken";
+var mnemonic = "tuition used turn diamond later chuckle track shoe credit clown stone early";

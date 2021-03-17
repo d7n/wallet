@@ -1,1 +1,1 @@
-var mnemonic = "merge infant expire rather ignore gossip mystery exercise endless deputy thank clock";
+var mnemonic = "strong science maximum slight teach gown shoot innocent hurt avoid fix unit";

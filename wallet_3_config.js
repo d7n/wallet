@@ -1,1 +1,1 @@
-var mnemonic = "pride survey clock craft cushion resemble fault knee maple entry senior swift";
+var mnemonic = "fashion include sound uncle base remember zone loyal session total problem cross";

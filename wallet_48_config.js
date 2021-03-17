@@ -1,1 +1,1 @@
-var mnemonic = "camera concert diet enjoy learn budget vanish pull dolphin inquiry celery guard";
+var mnemonic = "board vacant wire mean sweet increase front lumber please letter slogan pony";

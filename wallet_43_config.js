@@ -1,1 +1,1 @@
-var mnemonic = "sound quiz modify anchor inflict cabin grit game setup smoke edge immense";
+var mnemonic = "engage ribbon audit plug hundred green roof other life shell wear only";

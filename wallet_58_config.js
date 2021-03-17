@@ -1,1 +1,1 @@
-var mnemonic = "later exhibit blast snap water twenty smart friend coil nominee abandon repeat";
+var mnemonic = "glad sausage avoid yard practice pepper dream gravity school lesson soon mean";

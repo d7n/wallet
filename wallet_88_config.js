@@ -1,1 +1,1 @@
-var mnemonic = "benefit setup mystery flag ketchup chest plastic seminar section observe scorpion salon";
+var mnemonic = "slow come gallery maze corn slush sign broom black victory coin pen";

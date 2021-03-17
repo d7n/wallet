@@ -1,1 +1,1 @@
-var mnemonic = "over wear forget increase term decade merge able recycle dismiss uncle squirrel";
+var mnemonic = "chicken typical inch hood degree diamond history uniform reflect bronze repair enlist";

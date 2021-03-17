@@ -1,1 +1,1 @@
-var mnemonic = "same wall genius defy equip comic swamp bitter lunch extra clinic fatigue";
+var mnemonic = "horse cousin state banner become sell invest rotate distance reunion chronic ship";

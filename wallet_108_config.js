@@ -1,1 +1,1 @@
-var mnemonic = "proud matter stuff canal false unfair jealous floor vivid rail gap bomb";
+var mnemonic = "ten pumpkin uncover head twist evil busy frozen canvas rabbit select nest";

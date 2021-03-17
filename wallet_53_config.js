@@ -1,1 +1,1 @@
-var mnemonic = "spread leg boss guilt food search finger client knock mention sword slim";
+var mnemonic = "one cram leaf young trip express cry hint answer grunt cheese circle";

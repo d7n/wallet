@@ -1,1 +1,1 @@
-var mnemonic = "hurdle coil salt unknown home swing eye water dynamic keep chat valid";
+var mnemonic = "permit donor toe fashion huge divide valve gather law century insect acquire";

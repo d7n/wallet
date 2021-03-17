@@ -1,1 +1,1 @@
-var mnemonic = "need evolve strategy metal live south major climb robust prison square lemon";
+var mnemonic = "kangaroo holiday turtle join firm hurt tell junior mouse style circle turn";

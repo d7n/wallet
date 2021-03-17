@@ -1,1 +1,1 @@
-var mnemonic = "observe lady bulb off submit melt lemon ensure ball again marine soon";
+var mnemonic = "drastic vital idea custom cable ceiling fence beef middle blush lawsuit scout";

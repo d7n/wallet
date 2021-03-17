@@ -1,1 +1,1 @@
-var mnemonic = "door hire gospel unit enjoy glare much galaxy wasp original good scale";
+var mnemonic = "concert fever harvest trumpet benefit lecture spray reason defy first latin when";

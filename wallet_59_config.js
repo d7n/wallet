@@ -1,1 +1,1 @@
-var mnemonic = "relief teach turkey sunset rhythm order vintage seat blue few build entire";
+var mnemonic = "cave disagree rather property win dice fly plug mandate fatigue team under";

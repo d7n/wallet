@@ -1,1 +1,1 @@
-var mnemonic = "accuse power faith mountain tragic siege tennis bicycle slide mask pizza rather";
+var mnemonic = "arrow spot range arena diet print device rival cherry clump person skin";

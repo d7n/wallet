@@ -1,1 +1,1 @@
-var mnemonic = "depart snake clump poem chat style trophy start vacuum spray describe pioneer";
+var mnemonic = "dance disagree fiscal lounge city meat shy route empty float picnic scrub";

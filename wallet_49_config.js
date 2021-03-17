@@ -1,1 +1,1 @@
-var mnemonic = "volcano cattle course abuse disagree labor sleep final wood grocery element antique";
+var mnemonic = "palace shoulder offer arrange rice saddle female engage girl august rough vote";

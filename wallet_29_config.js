@@ -1,1 +1,1 @@
-var mnemonic = "sunny voice session primary stem vessel comfort vanish muscle engine again beyond";
+var mnemonic = "arm wheel tennis ability license genuine medal advance rhythm arctic poverty damp";

@@ -1,1 +1,1 @@
-var mnemonic = "island mistake stage couple marriage axis leg pledge happy finger aerobic century";
+var mnemonic = "force raven shadow dish shiver produce what pudding aunt celery chapter where";

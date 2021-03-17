@@ -1,1 +1,1 @@
-var mnemonic = "require divide island snack want bunker lumber brick disorder blanket need gather";
+var mnemonic = "verify length multiply liberty slot bid canal peasant turn crazy limb coast";

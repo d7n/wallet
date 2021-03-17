@@ -1,1 +1,1 @@
-var mnemonic = "glory ugly stool diagram hard tent stem practice eight metal boring chair";
+var mnemonic = "struggle indoor busy mystery pole divert axis secret above anger story dream";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy myth rich upset van gas ask radar news material hamster cat";
+var mnemonic = "shine faint two pretty champion large slogan veteran pear above unfair taxi";

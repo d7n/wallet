@@ -1,1 +1,1 @@
-var mnemonic = "gospel observe leaf boil away mercy become lawsuit father auto innocent route";
+var mnemonic = "hurt insect now loud prize trick under you exercise glory oven jewel";

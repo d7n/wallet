@@ -1,1 +1,1 @@
-var mnemonic = "play provide double alarm myself raise genius truck barely arrive machine slice";
+var mnemonic = "just slice syrup ensure chef sheriff average kitchen brother calm matter car";

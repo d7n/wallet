@@ -1,1 +1,1 @@
-var mnemonic = "cloud prepare valid north shoe crime habit field scan video thrive promote";
+var mnemonic = "best occur chef rely hip elder tribe endorse mix weather egg tobacco";

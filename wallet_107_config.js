@@ -1,1 +1,1 @@
-var mnemonic = "popular fun stove ride know biology frequent great rack leader pitch minute";
+var mnemonic = "vast object afford crucial earn skin parrot shrug voyage industry bid stable";

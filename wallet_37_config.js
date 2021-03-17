@@ -1,1 +1,1 @@
-var mnemonic = "foam flag same arrive foil recipe uncover regular tail half estate cook";
+var mnemonic = "fiscal legend copy car absent journey trumpet pink absorb diesel toe flower";

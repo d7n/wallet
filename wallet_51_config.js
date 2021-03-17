@@ -1,1 +1,1 @@
-var mnemonic = "impact gather bacon manage unhappy topic below second bomb rib flat bench";
+var mnemonic = "settle borrow apple brief talent push guilt include pledge slice hamster stone";

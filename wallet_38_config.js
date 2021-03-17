@@ -1,1 +1,1 @@
-var mnemonic = "discover blade strike run ramp end duty quality item sense express cradle";
+var mnemonic = "divert anxiety basic arch dish april poet strategy sister emerge wedding talent";

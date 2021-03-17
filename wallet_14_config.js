@@ -1,1 +1,1 @@
-var mnemonic = "corn grape sustain south lake protect sport mystery drop mistake exile type";
+var mnemonic = "home ivory ski soup door peace aunt fall family spider math all";

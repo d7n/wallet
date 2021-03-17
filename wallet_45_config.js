@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow october coast dial chalk industry doctor social insane casual piano plug";
+var mnemonic = "robust extend blanket picture era speak bar forward deal verb cupboard unaware";

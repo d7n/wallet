@@ -1,1 +1,1 @@
-var mnemonic = "issue erupt resemble erode evolve follow slogan team office alert school mansion";
+var mnemonic = "fence interest cousin trial wrestle actress thrive cart story escape inch siege";

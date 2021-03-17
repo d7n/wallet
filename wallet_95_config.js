@@ -1,1 +1,1 @@
-var mnemonic = "disorder shock invest one intact soup warrior wrist goddess hunt worry come";
+var mnemonic = "roof crucial aim minor lock wreck rally drill pool myself similar divorce";

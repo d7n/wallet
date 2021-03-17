@@ -1,1 +1,1 @@
-var mnemonic = "galaxy melody few vapor hockey upon moon lucky join civil guess undo";
+var mnemonic = "rubber deal across chase vocal destroy rubber share portion allow curve embrace";

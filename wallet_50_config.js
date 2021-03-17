@@ -1,1 +1,1 @@
-var mnemonic = "weapon organ junior light pluck swing climb bind panda remember become evidence";
+var mnemonic = "glimpse rural clinic crush sight south twelve grief bullet tree hat language";

@@ -1,1 +1,1 @@
-var mnemonic = "sick situate equip employ knife august medal arrow input annual tobacco proud";
+var mnemonic = "talent never crime belt wolf corn ketchup name face fringe light reflect";

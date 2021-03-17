@@ -1,1 +1,1 @@
-var mnemonic = "tank acid ethics limit fabric gown until identify barrel feel group timber";
+var mnemonic = "street decorate inspire pencil witness sorry couple opinion bird gadget shoe distance";

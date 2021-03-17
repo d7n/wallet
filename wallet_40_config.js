@@ -1,1 +1,1 @@
-var mnemonic = "unaware song punch visa cause hedgehog wet quiz art garage math sniff";
+var mnemonic = "glide bulb key cruise nominee senior ladder vendor cycle valid buyer water";
