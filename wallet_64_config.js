@@ -1,1 +1,1 @@
-var mnemonic = "creek naive pause iron stable melt into bless polar cute wing patient";
+var mnemonic = "drop time appear giraffe regret script mad menu nature foam april grunt";

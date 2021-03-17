@@ -1,1 +1,1 @@
-var mnemonic = "there gold oxygen forest because suggest banner ginger trust exclude method story";
+var mnemonic = "dynamic cabin fish drill nest silver segment sword frown three hunt junior";

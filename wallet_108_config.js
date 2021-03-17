@@ -1,1 +1,1 @@
-var mnemonic = "into edit adjust cushion toast song peasant dumb access wing hobby mobile";
+var mnemonic = "hen patrol solid punch input quiz tonight security guilt panic deposit disorder";

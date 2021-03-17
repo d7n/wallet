@@ -1,1 +1,1 @@
-var mnemonic = "hungry slice pair arrive deputy purchase humble shy index wheel angle arena";
+var mnemonic = "ability second digital casino struggle entry narrow envelope horn damp snack title";

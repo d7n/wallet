@@ -1,1 +1,1 @@
-var mnemonic = "vehicle warfare swarm unhappy certain coach baby deer speak father repeat question";
+var mnemonic = "install pear pig mouse chicken waste cushion praise morning region label fame";

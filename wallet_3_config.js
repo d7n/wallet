@@ -1,1 +1,1 @@
-var mnemonic = "shine unlock year cave ritual oven upset clap north ritual wolf gym";
+var mnemonic = "affair garbage august street special forward benefit refuse midnight foil point inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic deliver into smoke found round refuse square orange time damage never";
+var mnemonic = "iron thunder jeans hockey buddy crime pitch sibling minimum fall symptom teach";

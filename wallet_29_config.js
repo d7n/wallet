@@ -1,1 +1,1 @@
-var mnemonic = "unusual nerve sniff produce truth argue trick law fury wire number welcome";
+var mnemonic = "action marriage utility essence control end time sausage pact open tongue swarm";

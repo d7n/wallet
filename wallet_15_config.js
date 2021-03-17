@@ -1,1 +1,1 @@
-var mnemonic = "forget fantasy game general problem more punch couple coin crowd rebel online";
+var mnemonic = "chat mansion wheel target ugly smooth universe kit because pupil matter seminar";

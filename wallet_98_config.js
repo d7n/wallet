@@ -1,1 +1,1 @@
-var mnemonic = "pioneer hurry burst zero ill hole flee correct degree clock coyote antenna";
+var mnemonic = "crater kit small domain cook prize anger secret width sponsor minor brick";

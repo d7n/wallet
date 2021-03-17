@@ -1,1 +1,1 @@
-var mnemonic = "behave trim mystery best oil swarm deal book leisure round bitter prosper";
+var mnemonic = "fade bulb ankle cloud rocket scissors elbow amount bless tired bacon kick";

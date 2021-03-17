@@ -1,1 +1,1 @@
-var mnemonic = "special grab side light grape upon priority orient output trial talk column";
+var mnemonic = "crater captain goddess cigar flush elegant army alone obvious pledge clerk shadow";

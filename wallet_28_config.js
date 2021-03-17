@@ -1,1 +1,1 @@
-var mnemonic = "imitate arrange core faculty emerge usage level seek island park blast rifle";
+var mnemonic = "embrace close tone total sing party warrior pupil fringe mail wine shuffle";

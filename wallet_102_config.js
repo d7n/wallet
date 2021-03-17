@@ -1,1 +1,1 @@
-var mnemonic = "utility fantasy essay drink risk stuff wrap concert swing message night donkey";
+var mnemonic = "pigeon wealth wave yard speed smile popular joy still hill venue furnace";

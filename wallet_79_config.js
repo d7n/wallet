@@ -1,1 +1,1 @@
-var mnemonic = "elite kiss laptop captain weekend pizza find frame rural aerobic soft aisle";
+var mnemonic = "divorce key gravity add cat escape curve ask inject foil genius supply";

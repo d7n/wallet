@@ -1,1 +1,1 @@
-var mnemonic = "aisle defy sustain giraffe embody close lamp cement wait dilemma snap tackle";
+var mnemonic = "toward rack circle neck manage office love input uncle target bundle moon";

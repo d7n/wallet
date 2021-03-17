@@ -1,1 +1,1 @@
-var mnemonic = "potato fire mix library case sight zero sense smart tray add flush";
+var mnemonic = "come mad slush century film want gas ocean half say corn pencil";

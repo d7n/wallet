@@ -1,1 +1,1 @@
-var mnemonic = "wrong live park coach color depart chair taxi what omit punch inner";
+var mnemonic = "frown warfare keep option chase coil movie device hybrid ahead matrix shadow";

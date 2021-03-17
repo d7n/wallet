@@ -1,1 +1,1 @@
-var mnemonic = "world impose buyer unfair patient clay wrong evoke tongue monkey tag choose";
+var mnemonic = "crucial elegant mix order shell foil fossil head vanish humor install trigger";

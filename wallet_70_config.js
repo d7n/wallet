@@ -1,1 +1,1 @@
-var mnemonic = "call urge keen paddle coyote gasp roof brown paddle zero cotton question";
+var mnemonic = "child basket cruel coyote strike hen acquire marriage use attack evoke track";

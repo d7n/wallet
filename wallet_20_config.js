@@ -1,1 +1,1 @@
-var mnemonic = "aware enjoy shoulder brief people sample coach capable fade drink more sorry";
+var mnemonic = "fabric forum glue boost trade main fit glide napkin soap banana auto";

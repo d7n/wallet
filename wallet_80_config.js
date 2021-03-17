@@ -1,1 +1,1 @@
-var mnemonic = "jacket knee behind pudding rabbit absorb gravity boost survey month message burden";
+var mnemonic = "hockey novel assume door reopen surge pause work smart trumpet useful risk";

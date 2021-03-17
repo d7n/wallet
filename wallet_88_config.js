@@ -1,1 +1,1 @@
-var mnemonic = "juice square canvas isolate file element betray shift mad rain prosper civil";
+var mnemonic = "carry field guide across length rule uniform used fiber illegal atom doctor";

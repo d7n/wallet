@@ -1,1 +1,1 @@
-var mnemonic = "slight diagram egg glad among tragic shock category claw estate divide pistol";
+var mnemonic = "guess economy runway betray flower farm maze beef jealous eagle display teach";

@@ -1,1 +1,1 @@
-var mnemonic = "find cupboard chaos sight veteran tuna select music fit quiz clinic crane";
+var mnemonic = "purchase cat balance sword tone fog teach woman syrup poem aspect right";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow second grab month van device actor artefact market donkey pulp fresh";
+var mnemonic = "video become cricket upon merit month nest first bargain dismiss identify game";

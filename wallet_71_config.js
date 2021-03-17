@@ -1,1 +1,1 @@
-var mnemonic = "air love sponsor cotton crucial often genre omit visual kingdom clever maze";
+var mnemonic = "elbow soft home sadness snap write earth notice token crouch follow quality";

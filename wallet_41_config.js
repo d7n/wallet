@@ -1,1 +1,1 @@
-var mnemonic = "purse because loud treat reward blouse length nurse system dinosaur globe magnet";
+var mnemonic = "memory connect turn vacant chest cheese subway story fortune depth truly rural";

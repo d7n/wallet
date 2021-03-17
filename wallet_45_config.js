@@ -1,1 +1,1 @@
-var mnemonic = "family room tuition mushroom rely glare rebel logic beef rabbit stone another";
+var mnemonic = "now task blush topic love purse glow consider decide rate warm cotton";

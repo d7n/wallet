@@ -1,1 +1,1 @@
-var mnemonic = "argue comic vehicle horror address donate route blood furnace sponsor embark auction";
+var mnemonic = "wagon boy dog remain lizard consider vapor shy gather unable door either";

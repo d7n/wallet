@@ -1,1 +1,1 @@
-var mnemonic = "scorpion flush kid various shuffle tortoise hub leg vendor nerve regular rabbit";
+var mnemonic = "deposit idle inject tube release foam sniff private maid debris sister avoid";

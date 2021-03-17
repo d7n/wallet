@@ -1,1 +1,1 @@
-var mnemonic = "shield you wing minor talent jaguar thrive smooth child hand bar dwarf";
+var mnemonic = "cave panel very wedding pencil tobacco melt large stage swim orange trade";

@@ -1,1 +1,1 @@
-var mnemonic = "physical parrot forest mutual depart again mule road throw attract mixed clip";
+var mnemonic = "scheme remain media stage donate gloom dog lamp promote grain dash salad";

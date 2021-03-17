@@ -1,1 +1,1 @@
-var mnemonic = "stock around inside prefer robust fan large hospital organ coach occur entry";
+var mnemonic = "horse sail voice real off robust slide involve shield barrel scout true";

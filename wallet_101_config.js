@@ -1,1 +1,1 @@
-var mnemonic = "ceiling merit office vault gift sing donate tourist order smoke manage bar";
+var mnemonic = "because apology menu report bag open salmon twist fiscal unfold clay poverty";

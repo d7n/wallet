@@ -1,1 +1,1 @@
-var mnemonic = "immense just pulp license seed inflict prize crawl ten hawk copper excess";
+var mnemonic = "spell whisper gentle clay mountain pill gate speed keen future neutral token";

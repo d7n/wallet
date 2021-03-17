@@ -1,1 +1,1 @@
-var mnemonic = "defense monster parrot unfold shy autumn gaze fortune push erase celery below";
+var mnemonic = "play bridge speak spirit chronic fiction raw couch fitness come exclude firm";

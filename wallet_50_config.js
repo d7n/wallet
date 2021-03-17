@@ -1,1 +1,1 @@
-var mnemonic = "orchard universe bunker gravity trend fog fitness around rookie puzzle task post";
+var mnemonic = "bachelor stem junior blossom rhythm loyal sentence detail harbor device over rib";

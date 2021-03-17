@@ -1,1 +1,1 @@
-var mnemonic = "naive february vivid weekend glad chase analyst cat globe chef funny hockey";
+var mnemonic = "disagree umbrella mesh company under audit cricket luggage photo crash below bus";

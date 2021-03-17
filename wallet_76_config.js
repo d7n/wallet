@@ -1,1 +1,1 @@
-var mnemonic = "private three need wife sibling grit bird drip net giant image caution";
+var mnemonic = "romance detect evoke velvet memory dad ice sustain wear trade grid panel";

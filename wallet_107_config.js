@@ -1,1 +1,1 @@
-var mnemonic = "shed acoustic art violin process creek smooth exhaust drama section file cliff";
+var mnemonic = "fatigue laundry lake adjust mimic enact inquiry owner fossil catch check gospel";

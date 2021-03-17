@@ -1,1 +1,1 @@
-var mnemonic = "isolate click click glimpse cancel strong clip receive olympic lesson forward gain";
+var mnemonic = "radio title cancel elder proud suspect cover flip near doll property legend";

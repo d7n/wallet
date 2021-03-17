@@ -1,1 +1,1 @@
-var mnemonic = "chest vendor toilet increase crop rotate man merry unveil memory update staff";
+var mnemonic = "panther smile curve innocent flush power unusual interest song piano hint economy";

@@ -1,1 +1,1 @@
-var mnemonic = "code north gorilla narrow light tomorrow case pen room capital primary video";
+var mnemonic = "guess again human human narrow baby ancient ecology inmate wagon bamboo erase";

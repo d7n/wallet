@@ -1,1 +1,1 @@
-var mnemonic = "raise absent gasp rigid glue caught among relief grass base matter bacon";
+var mnemonic = "object heavy tower empower demise sniff grape mammal install image curious mix";

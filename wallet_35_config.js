@@ -1,1 +1,1 @@
-var mnemonic = "unhappy castle replace ticket aspect material popular left bag total bottom laptop";
+var mnemonic = "lab humor ethics defy february hobby mercy grape valid moral orbit robot";

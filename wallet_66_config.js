@@ -1,1 +1,1 @@
-var mnemonic = "patch subway kick dawn rose burger amount parrot whip fatal hidden excite";
+var mnemonic = "much melt twelve unhappy crucial crop found lens salon push author dance";

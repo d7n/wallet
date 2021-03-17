@@ -1,1 +1,1 @@
-var mnemonic = "master enemy drum stadium nephew infant path learn eight disorder dice defy";
+var mnemonic = "oxygen stamp usage accident setup modify size number long crack nothing vital";

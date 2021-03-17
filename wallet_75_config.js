@@ -1,1 +1,1 @@
-var mnemonic = "foam artist correct reason swallow wrap make hurry tongue dismiss main sign";
+var mnemonic = "organ mercy champion eager ocean enter reveal tent walnut enough quote arrest";

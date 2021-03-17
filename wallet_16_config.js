@@ -1,1 +1,1 @@
-var mnemonic = "wrong large today width census thunder almost dragon lunar usage ring club";
+var mnemonic = "bounce street consider invite wear recipe ancient speed swift olive output toss";

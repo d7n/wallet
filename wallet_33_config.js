@@ -1,1 +1,1 @@
-var mnemonic = "depart retire essence plug brisk put wrong nature smooth ribbon mango dentist";
+var mnemonic = "believe refuse radar design slush credit receive miss surround matter region damage";

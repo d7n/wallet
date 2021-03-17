@@ -1,1 +1,1 @@
-var mnemonic = "exile tent card melody tuna dress enforce memory pilot ten memory tunnel";
+var mnemonic = "sure tooth dumb walnut repeat evil sight adult delay airport drum pen";

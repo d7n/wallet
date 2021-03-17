@@ -1,1 +1,1 @@
-var mnemonic = "october turtle peasant bar false wrestle feel vicious brick tongue square mobile";
+var mnemonic = "reunion feature crater ginger dream pave valid walnut summer athlete love mixture";

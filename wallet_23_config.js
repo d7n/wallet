@@ -1,1 +1,1 @@
-var mnemonic = "pulse student put duty wrist cream what stool ball narrow trick quit";
+var mnemonic = "zebra proud indoor cabbage main interest mind slam safe organ pride wrap";

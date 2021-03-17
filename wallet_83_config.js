@@ -1,1 +1,1 @@
-var mnemonic = "ladder peanut burger unveil quit great atom indoor harvest portion pilot entire";
+var mnemonic = "final material patient push bright remove little favorite scatter account nuclear hand";

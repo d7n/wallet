@@ -1,1 +1,1 @@
-var mnemonic = "boat speed argue off gloom napkin topic that step balance result huge";
+var mnemonic = "grape muscle soon source remind tornado sell autumn aerobic observe click harbor";

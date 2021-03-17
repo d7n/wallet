@@ -1,1 +1,1 @@
-var mnemonic = "setup upon illness review two that used near mandate teach polar put";
+var mnemonic = "tennis warfare people price render total open boil belt sock exile survey";

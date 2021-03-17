@@ -1,1 +1,1 @@
-var mnemonic = "pottery ignore between bonus sea library draft elbow adult grace way enough";
+var mnemonic = "behind social attract hammer slab deliver flat hobby habit swear ask copy";

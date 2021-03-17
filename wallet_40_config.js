@@ -1,1 +1,1 @@
-var mnemonic = "during parrot chaos round employ awesome erosion edge home firm place alter";
+var mnemonic = "page family oval treat pear debate fix noise pact alcohol menu jazz";

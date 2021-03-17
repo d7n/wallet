@@ -1,1 +1,1 @@
-var mnemonic = "fish tiny march shiver silver destroy fatigue skull worry bid holiday forest";
+var mnemonic = "blanket network million into moon coast assist push electric upset pilot collect";

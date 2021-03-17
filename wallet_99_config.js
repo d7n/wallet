@@ -1,1 +1,1 @@
-var mnemonic = "layer result bronze already innocent narrow please change rifle brief stone panther";
+var mnemonic = "steel tree weekend exhaust absorb glow ocean shield swallow divert genius major";

@@ -1,1 +1,1 @@
-var mnemonic = "deer spice thing wonder tomato question regret obey course skull cliff laugh";
+var mnemonic = "radar patient lunar brief stable crawl shield say finger swear cloud emotion";

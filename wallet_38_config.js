@@ -1,1 +1,1 @@
-var mnemonic = "shield true subway hedgehog luggage radio pistol major will enemy decrease thumb";
+var mnemonic = "click limb crawl faith trigger law melt spread boost clever tuition large";

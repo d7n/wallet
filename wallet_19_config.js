@@ -1,1 +1,1 @@
-var mnemonic = "cupboard damage fiscal voice penalty symptom advice panel stage acoustic movie token";
+var mnemonic = "hand wear limb approve margin silk settle hire bundle online about sport";

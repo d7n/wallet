@@ -1,1 +1,1 @@
-var mnemonic = "benefit can bargain pelican mom kitchen gather equip anxiety offer devote frequent";
+var mnemonic = "borrow cover shoot sheriff oppose afford language denial catalog guard finish old";

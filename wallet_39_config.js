@@ -1,1 +1,1 @@
-var mnemonic = "air globe unlock indicate emerge winter crawl mechanic whale fresh rose movie";
+var mnemonic = "gown inside element warrior oxygen people lake typical black curve purse dwarf";

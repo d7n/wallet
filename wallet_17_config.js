@@ -1,1 +1,1 @@
-var mnemonic = "flower suit display aisle coast pepper south trouble warrior potato maze during";
+var mnemonic = "machine clay angry sword canal fault cave skill razor help color shaft";

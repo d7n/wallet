@@ -1,1 +1,1 @@
-var mnemonic = "whisper gift cabin shy author auction drift athlete zone range antenna worry";
+var mnemonic = "primary walk shadow stumble empty vault please dizzy awful basket vacant yard";

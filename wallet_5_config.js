@@ -1,1 +1,1 @@
-var mnemonic = "brass scatter romance kit twice turn cotton surge hint toy mind distance";
+var mnemonic = "jaguar race punch eager inch dress erode away bus speed curious few";

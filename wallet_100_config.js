@@ -1,1 +1,1 @@
-var mnemonic = "deposit matrix almost guide hill blade input wage train battle recall gown";
+var mnemonic = "turkey suit develop delay ready mimic long avocado must jazz deny behind";

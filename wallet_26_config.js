@@ -1,1 +1,1 @@
-var mnemonic = "pledge bar fragile shrug inform balcony shoulder leader episode purpose island deliver";
+var mnemonic = "chunk dragon shadow win survey worth bottom avoid talk alarm exclude present";

@@ -1,1 +1,1 @@
-var mnemonic = "slot siren client pipe whale else boring crisp crime stumble box blind";
+var mnemonic = "index vicious crowd impulse truth best plastic soup virtual dumb fatal walnut";

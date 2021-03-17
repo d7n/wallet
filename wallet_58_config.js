@@ -1,1 +1,1 @@
-var mnemonic = "destroy family fuel real balcony ahead horn wave income focus odor juice";
+var mnemonic = "wheat walnut remain crack car inhale fence music guard midnight cart april";

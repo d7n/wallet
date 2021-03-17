@@ -1,1 +1,1 @@
-var mnemonic = "deposit supreme custom cat glance history sustain smile hen half distance immense";
+var mnemonic = "limit false error document civil share cotton spawn weekend jewel pyramid sport";

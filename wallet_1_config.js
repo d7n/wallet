@@ -1,1 +1,1 @@
-var mnemonic = "essence flash maze world excess cash blood horror better voyage drill burst";
+var mnemonic = "shine sock garlic miss warm stem plug antenna sell scale dumb cement";

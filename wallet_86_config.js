@@ -1,1 +1,1 @@
-var mnemonic = "amount run annual search autumn immense near fabric lucky want merge multiply";
+var mnemonic = "eight cotton gossip virus debate correct pudding home wrap early year wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "thank aunt laptop visit people weird staff frame wrist equal alert flush";
+var mnemonic = "first elephant meat cancel equal holiday candy monster camp carry envelope despair";

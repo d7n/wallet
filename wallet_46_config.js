@@ -1,1 +1,1 @@
-var mnemonic = "citizen basket scatter math color nose sound multiply bird elegant turn canyon";
+var mnemonic = "category toast perfect attend motor drink wheat man surface basket crazy until";

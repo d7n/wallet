@@ -1,1 +1,1 @@
-var mnemonic = "gentle bounce above job daring unknown pyramid resource warm service castle barrel";
+var mnemonic = "unveil edit struggle raven cheese hurdle chronic benefit magic heavy jealous knife";

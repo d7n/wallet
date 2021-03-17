@@ -1,1 +1,1 @@
-var mnemonic = "order exclude blouse later table seat bench spoon term push option detect";
+var mnemonic = "foot scheme neck display aspect west tumble tomato jump humor december season";

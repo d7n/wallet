@@ -1,1 +1,1 @@
-var mnemonic = "knock initial aspect behave nuclear tourist aisle relief alone broccoli seven true";
+var mnemonic = "boy credit leg perfect trigger unaware canoe submit enable item curve hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "judge future balance burst violin fit chronic gift develop initial grit index";
+var mnemonic = "film orient improve drink wait ability company arctic churn erode flash portion";

@@ -1,1 +1,1 @@
-var mnemonic = "place coyote immune machine behind crowd media cactus near gossip episode error";
+var mnemonic = "section dynamic bachelor pet again food step nuclear lucky speak trumpet drama";

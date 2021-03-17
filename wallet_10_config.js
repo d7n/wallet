@@ -1,1 +1,1 @@
-var mnemonic = "together horror apple label tobacco coffee brand else permit dolphin mail toss";
+var mnemonic = "erosion gospel voice they trap one symptom brick tent eight vicious list";

@@ -1,1 +1,1 @@
-var mnemonic = "garment tackle wage post ignore pilot motor frozen crumble hockey vote inquiry";
+var mnemonic = "prevent hood minute abandon empty never involve supply strike speed small under";

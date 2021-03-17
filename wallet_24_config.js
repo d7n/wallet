@@ -1,1 +1,1 @@
-var mnemonic = "reason replace lobster scan ghost antenna evil nation door nothing lucky equip";
+var mnemonic = "decorate device popular bounce uniform body present proof front pond dinner mail";

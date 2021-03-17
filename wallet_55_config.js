@@ -1,1 +1,1 @@
-var mnemonic = "furnace october entry cute wife capable author pioneer toss tragic myself credit";
+var mnemonic = "mind exhaust palm basic sorry fiscal discover describe also police boy disease";

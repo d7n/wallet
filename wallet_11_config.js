@@ -1,1 +1,1 @@
-var mnemonic = "eye luxury force task diesel enable put betray way frown knee morning";
+var mnemonic = "silver weather drill fluid funny fortune train remain impose essence barrel midnight";

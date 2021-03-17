@@ -1,1 +1,1 @@
-var mnemonic = "buzz current beach pair prize leisure mask physical call animal area obscure";
+var mnemonic = "general shiver manual obvious raw hundred reopen erase age matrix diet element";

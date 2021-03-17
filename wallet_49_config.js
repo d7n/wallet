@@ -1,1 +1,1 @@
-var mnemonic = "impact stage hour close butter embrace put move crime drill index rapid";
+var mnemonic = "champion dumb daughter prison slot canyon catch iron ivory tobacco ensure viable";
