@@ -1,1 +1,1 @@
-var mnemonic = "balance where scheme brown column canoe flower wealth shop surround letter tent";
+var mnemonic = "steak horror derive biology mango adapt same will false denial mansion shuffle";

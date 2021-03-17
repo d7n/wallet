@@ -1,1 +1,1 @@
-var mnemonic = "hawk seed point game fun forum lawn drama wrong pottery mansion swim";
+var mnemonic = "typical light leave sad father winter theory supreme cotton hole sword saddle";

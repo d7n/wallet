@@ -1,1 +1,1 @@
-var mnemonic = "retreat pride play exhaust lesson oblige attack grocery cross nuclear agent hurry";
+var mnemonic = "simple giraffe cute theory visual margin canvas such muscle soldier tiny cabbage";

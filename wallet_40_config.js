@@ -1,1 +1,1 @@
-var mnemonic = "library among rebel earth inquiry float shrimp web impose clever pony nest";
+var mnemonic = "gain flame unusual master swarm exchange finger bracket firm cluster crack tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "decide breeze legal day lake permit series rhythm debate reform layer dutch";
+var mnemonic = "draft super garbage essence put jungle useful major another right yellow job";

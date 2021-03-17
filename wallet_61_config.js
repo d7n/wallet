@@ -1,1 +1,1 @@
-var mnemonic = "ostrich harvest know switch tone coral dutch resist leave reunion panel nominee";
+var mnemonic = "material loan message wasp agent ugly used hawk glue rule strategy wagon";

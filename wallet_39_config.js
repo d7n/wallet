@@ -1,1 +1,1 @@
-var mnemonic = "bike mandate illegal note roof name piece predict judge average radio social";
+var mnemonic = "shell cloth nurse fitness tail annual worth edit emerge cup intact scout";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong road ecology arrow fix program hamster rent enough input mammal neither";
+var mnemonic = "wave thought dragon share awake board planet aware eagle cross minute gravity";

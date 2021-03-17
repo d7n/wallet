@@ -1,1 +1,1 @@
-var mnemonic = "forget glance model subway fly fancy zero arrest visit seminar tree ability";
+var mnemonic = "demand into liquid pole cloud burger novel muffin imitate police nephew chief";

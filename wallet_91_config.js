@@ -1,1 +1,1 @@
-var mnemonic = "clap maid regular tilt camera wood tiger creek erupt favorite puppy eager";
+var mnemonic = "amazing produce gospel neglect adjust start love unit task finger front grief";

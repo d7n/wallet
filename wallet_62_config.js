@@ -1,1 +1,1 @@
-var mnemonic = "vanish modify knee update armor expose burden pluck uphold drum delay palm";
+var mnemonic = "boy elephant bargain link step elbow bamboo ski north glove canvas symptom";

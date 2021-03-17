@@ -1,1 +1,1 @@
-var mnemonic = "arrange guitar motion topple slot edge distance crazy genuine deposit owner horror";
+var mnemonic = "issue afford physical kitchen open wisdom shrug steak grid enrich swamp attract";

@@ -1,1 +1,1 @@
-var mnemonic = "assume only cliff dance tuition scare bid lucky medal pond predict grain";
+var mnemonic = "common tunnel tiger mansion toe under much clever distance lonely symbol mistake";

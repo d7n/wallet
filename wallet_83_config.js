@@ -1,1 +1,1 @@
-var mnemonic = "tide scene pet critic snap route custom rain cheese enlist advice daring";
+var mnemonic = "dress crawl awkward antenna wage debris mask figure anxiety repeat grain enlist";

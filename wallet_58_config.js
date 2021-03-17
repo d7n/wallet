@@ -1,1 +1,1 @@
-var mnemonic = "tray arm tragic elder voyage suspect tired multiply link tooth sister bench";
+var mnemonic = "matrix gentle elevator refuse prosper object point chat fossil castle inmate borrow";

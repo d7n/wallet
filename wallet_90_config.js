@@ -1,1 +1,1 @@
-var mnemonic = "honey medal bulb advance expire wonder marriage mad link casino bulk crawl";
+var mnemonic = "party dish skin afraid frown solution brand wild vicious bring that deer";

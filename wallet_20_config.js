@@ -1,1 +1,1 @@
-var mnemonic = "used inflict detect obtain emotion episode attitude expire portion because employ despair";
+var mnemonic = "jelly detect garden delay garage release bicycle matter transfer describe harsh fiber";

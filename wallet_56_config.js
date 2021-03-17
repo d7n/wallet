@@ -1,1 +1,1 @@
-var mnemonic = "history ordinary review cart coin police orphan family cook prefer outdoor involve";
+var mnemonic = "mother quiz airport hero rack first blush awake either list moment usual";

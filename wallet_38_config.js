@@ -1,1 +1,1 @@
-var mnemonic = "drop antique increase stock shoot clarify hint vivid bike february heavy practice";
+var mnemonic = "muscle arrange repair music scrap grain color digital toe discover person brother";

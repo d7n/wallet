@@ -1,1 +1,1 @@
-var mnemonic = "rigid oblige track dawn fan puppy denial leopard custom mountain december mansion";
+var mnemonic = "used wealth nut park hat either want yellow soul swarm orchard quiz";

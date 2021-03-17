@@ -1,1 +1,1 @@
-var mnemonic = "knee baby pond know spatial theme cram rack pet drop welcome question";
+var mnemonic = "stuff session casino clerk interest dignity coin mango forward abandon glove smooth";

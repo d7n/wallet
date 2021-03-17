@@ -1,1 +1,1 @@
-var mnemonic = "matter legal message leg office level bottom pipe medal ketchup image void";
+var mnemonic = "prepare pottery sign cousin grocery fashion future tired fox stomach echo camera";

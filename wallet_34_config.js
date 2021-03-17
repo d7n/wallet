@@ -1,1 +1,1 @@
-var mnemonic = "you brand mystery industry friend weekend worry virtual tumble erosion attitude shiver";
+var mnemonic = "doctor loop mimic bind friend pear ethics shove year they suggest fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "predict either vocal parent muscle muscle pitch poverty pool tent soon meadow";
+var mnemonic = "tag mechanic addict betray fade jungle guess hazard unfair circle file title";

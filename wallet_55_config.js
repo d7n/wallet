@@ -1,1 +1,1 @@
-var mnemonic = "wheat hard duck antenna alone electric chair resemble village only club dial";
+var mnemonic = "again height theme nephew rebel canyon punch say planet mask will unfair";

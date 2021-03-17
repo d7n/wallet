@@ -1,1 +1,1 @@
-var mnemonic = "popular inmate lawsuit music effort relief render upper amazing lyrics blossom symptom";
+var mnemonic = "swing object tell taxi casual tomato asthma behave mouse area lunar inmate";

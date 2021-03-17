@@ -1,1 +1,1 @@
-var mnemonic = "farm turn exist hint drill giggle grass electric wage fury luxury myself";
+var mnemonic = "also kitchen ten myth animal opinion resemble color coyote twelve extra motor";

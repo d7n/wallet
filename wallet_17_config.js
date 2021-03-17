@@ -1,1 +1,1 @@
-var mnemonic = "inside gasp cereal code champion palm snake person panda swing swim trap";
+var mnemonic = "pole stove nominee debris maple margin demand isolate matter seat gentle shoe";

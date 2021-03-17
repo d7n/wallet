@@ -1,1 +1,1 @@
-var mnemonic = "issue during belt select way matrix meat clog submit rally urge skill";
+var mnemonic = "vanish news knock name advance cigar tonight rescue tell evil almost palm";

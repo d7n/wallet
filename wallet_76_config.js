@@ -1,1 +1,1 @@
-var mnemonic = "crisp powder pencil lawsuit brave seminar industry that local fault limb wheat";
+var mnemonic = "certain gun nut coyote industry cheap myth town entry doll lava siren";

@@ -1,1 +1,1 @@
-var mnemonic = "soul insane unusual shop lunar garlic obey clump siren north tool volume";
+var mnemonic = "crash one room clown dog laptop luggage scout wrestle sauce blind interest";

@@ -1,1 +1,1 @@
-var mnemonic = "because expand miss injury hen chuckle swarm climb negative snake debate agree";
+var mnemonic = "sudden victory fog music source anchor strategy top uphold crash purpose boss";

@@ -1,1 +1,1 @@
-var mnemonic = "feed oven shed machine dragon nose orbit copper discover bunker kid cat";
+var mnemonic = "income attack abstract arrest memory barely guess crucial hip outdoor zone final";

@@ -1,1 +1,1 @@
-var mnemonic = "virus garlic repair inflict road trap giraffe crouch able punch entire velvet";
+var mnemonic = "speed stay curve invite timber that twist birth kangaroo patrol emerge sting";

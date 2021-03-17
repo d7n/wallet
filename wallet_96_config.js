@@ -1,1 +1,1 @@
-var mnemonic = "allow size quality nasty later napkin install evolve bronze mercy online episode";
+var mnemonic = "job claw uncover sock purse display bridge bonus walnut silly filter solid";

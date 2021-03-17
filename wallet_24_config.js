@@ -1,1 +1,1 @@
-var mnemonic = "spring water degree private vintage fiber sock secret desk tortoise embody fossil";
+var mnemonic = "source salt shuffle lava huge badge brass fashion cotton brush essay lunch";

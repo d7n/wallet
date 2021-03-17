@@ -1,1 +1,1 @@
-var mnemonic = "drill ticket regret drift service dinner valley winter river seek discover miss";
+var mnemonic = "aspect just identify drop quote gap annual please find aisle load skin";

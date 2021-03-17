@@ -1,1 +1,1 @@
-var mnemonic = "fever stamp possible lion differ hunt proof chapter explain thought gesture lyrics";
+var mnemonic = "kit two envelope glimpse junk opera rigid knock stool call addict balcony";

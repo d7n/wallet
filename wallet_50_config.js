@@ -1,1 +1,1 @@
-var mnemonic = "sock note stumble arena lottery provide odor vanish offer spring screen remember";
+var mnemonic = "stick chat trap salad state bargain require electric group genuine patient wool";

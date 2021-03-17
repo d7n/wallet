@@ -1,1 +1,1 @@
-var mnemonic = "parade recall smile recall add attend primary renew rack fall leopard garage";
+var mnemonic = "rail scheme trap often dawn melody hill case enemy cruise bargain column";

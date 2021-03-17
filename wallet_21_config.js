@@ -1,1 +1,1 @@
-var mnemonic = "person walk tiny odor fan stumble marble season aware umbrella original thumb";
+var mnemonic = "defense slight edit glass nose total sign young wife glory bright all";

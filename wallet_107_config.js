@@ -1,1 +1,1 @@
-var mnemonic = "follow essence glance remove enact woman mix grace prison hybrid recall month";
+var mnemonic = "urban shadow outdoor point decade weekend rain ridge useful area sense cycle";

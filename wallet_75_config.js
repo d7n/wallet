@@ -1,1 +1,1 @@
-var mnemonic = "best shoe certain final play knife depart robust assist uniform act join";
+var mnemonic = "float melt bone plug wool blue donkey rude town shrimp team story";

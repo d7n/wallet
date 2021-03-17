@@ -1,1 +1,1 @@
-var mnemonic = "one tilt input frame hip vault inhale panel ill field believe alert";
+var mnemonic = "rack proof little tunnel raise gadget joy fold tone vivid jump deposit";

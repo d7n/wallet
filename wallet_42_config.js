@@ -1,1 +1,1 @@
-var mnemonic = "tip misery hint spike identify winter ring defy bread leave gain check";
+var mnemonic = "slice comic shed tonight outer wear identify airport history unhappy dash wish";

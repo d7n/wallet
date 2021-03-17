@@ -1,1 +1,1 @@
-var mnemonic = "female next denial either drama lake notice air inner art rotate gossip";
+var mnemonic = "term bid pig account edge unknown mesh recall diet fever lava hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "used chalk script again insect phrase suffer frost steak glass field helmet";
+var mnemonic = "potato wrestle kitten grit because acid elegant avocado salmon employ glimpse law";

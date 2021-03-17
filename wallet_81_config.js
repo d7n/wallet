@@ -1,1 +1,1 @@
-var mnemonic = "current fragile buyer virus thank pelican punch used obvious arctic glare blur";
+var mnemonic = "west apple enact offer rule weird because staff ordinary balance hazard unaware";

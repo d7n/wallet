@@ -1,1 +1,1 @@
-var mnemonic = "chronic way galaxy honey rain glass chase obey butter slogan faith onion";
+var mnemonic = "renew cram scene addict dentist biology slide cry life fever enhance illness";

@@ -1,1 +1,1 @@
-var mnemonic = "valid jelly jazz act pilot mule either play surge print army craft";
+var mnemonic = "truly notice glare online peasant push oblige penalty sing name smart rain";

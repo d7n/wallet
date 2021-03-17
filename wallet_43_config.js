@@ -1,1 +1,1 @@
-var mnemonic = "crystal knife leaf train kangaroo make wagon recycle spice glow bonus biology";
+var mnemonic = "ozone robot demise wish exchange label office recall eight vibrant case rug";

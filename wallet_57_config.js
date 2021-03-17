@@ -1,1 +1,1 @@
-var mnemonic = "when current wool truth aunt nasty correct matrix minor level solve nest";
+var mnemonic = "copy alcohol mansion pilot victory better cycle cram hockey suggest usage want";

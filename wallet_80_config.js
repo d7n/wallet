@@ -1,1 +1,1 @@
-var mnemonic = "typical second raw candy strategy box believe regret flush teach gasp nurse";
+var mnemonic = "panel install hen orphan empower pilot rude rain fancy shallow sugar okay";

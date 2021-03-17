@@ -1,1 +1,1 @@
-var mnemonic = "race radio rival ball hint segment knife patch genius pool relax quiz";
+var mnemonic = "seminar rare object tube modify famous inflict vehicle liquid cup garden area";

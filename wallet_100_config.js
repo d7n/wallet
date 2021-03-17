@@ -1,1 +1,1 @@
-var mnemonic = "jacket box they rude chimney task armed tag dizzy despair offer cattle";
+var mnemonic = "shed insane shop media deposit mesh grab excess skirt face salad critic";

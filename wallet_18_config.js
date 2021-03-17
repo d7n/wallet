@@ -1,1 +1,1 @@
-var mnemonic = "west penalty price true sleep secret cupboard budget unit exist artist multiply";
+var mnemonic = "blouse town camp ghost clump reopen joke speed canoe torch lobster devote";

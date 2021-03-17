@@ -1,1 +1,1 @@
-var mnemonic = "tell myself supreme shy engage gather fat agent actor sense fringe memory";
+var mnemonic = "mimic elegant hole owner point universe gather mix staff maple arrange ahead";

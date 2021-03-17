@@ -1,1 +1,1 @@
-var mnemonic = "accuse aspect case basket dose mistake speed square hotel memory head rifle";
+var mnemonic = "champion domain hollow lucky must basic popular lounge airport start skirt stadium";

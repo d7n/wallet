@@ -1,1 +1,1 @@
-var mnemonic = "garbage enable cat devote daring talk labor eager silk bind ring text";
+var mnemonic = "total general slide divorce habit sponsor brisk around echo opera father miss";

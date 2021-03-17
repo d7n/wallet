@@ -1,1 +1,1 @@
-var mnemonic = "suit arctic rely pluck town heart skin size drama echo find anchor";
+var mnemonic = "amateur census boat fancy resemble unit pen bleak nephew matrix question doctor";

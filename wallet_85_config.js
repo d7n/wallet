@@ -1,1 +1,1 @@
-var mnemonic = "joy stomach spread frown thank pair plug copy valley near mango tilt";
+var mnemonic = "remember despair weasel desk victory enough all whip moral arch suit easy";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar solid chronic usual enroll eye balcony normal poem apple buffalo shell";
+var mnemonic = "trigger gorilla shuffle orange transfer seven topple beef pizza forest lumber entire";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy medal trust arctic shrimp year tide armed alarm ecology retreat viable";
+var mnemonic = "trick seven key arrange practice relax inhale zone seek include indoor sugar";

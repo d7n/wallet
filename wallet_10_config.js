@@ -1,1 +1,1 @@
-var mnemonic = "mobile trust notable fly surround jar enroll alien arrange glance game student";
+var mnemonic = "fat lake peanut scene scissors stock tiger place luggage arrange scheme loan";

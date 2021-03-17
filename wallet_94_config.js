@@ -1,1 +1,1 @@
-var mnemonic = "artwork fresh picnic supreme outer spider voyage labor impulse isolate firm travel";
+var mnemonic = "length account tray fee damp child pudding duck since intact sauce mixture";

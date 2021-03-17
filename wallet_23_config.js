@@ -1,1 +1,1 @@
-var mnemonic = "drastic expect border frost future rival peanut inmate decade door type cluster";
+var mnemonic = "broken fatigue spatial nut desert cram tell strategy update divide limb wife";

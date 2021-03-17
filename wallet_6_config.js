@@ -1,1 +1,1 @@
-var mnemonic = "material lens sun property public fragile crouch salon lend bronze luxury smoke";
+var mnemonic = "dizzy pepper invest race rhythm rigid more arm endorse youth magnet load";

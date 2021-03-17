@@ -1,1 +1,1 @@
-var mnemonic = "base cargo winter medal city equip scene rabbit earth glimpse mushroom subway";
+var mnemonic = "indicate struggle duty salute broccoli time define debate evolve joy seminar recall";

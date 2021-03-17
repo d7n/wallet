@@ -1,1 +1,1 @@
-var mnemonic = "life hurry boss only resist ribbon antique rug attack mix grant member";
+var mnemonic = "country shadow conduct uphold budget sister six east giggle camp grain feel";

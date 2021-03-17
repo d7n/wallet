@@ -1,1 +1,1 @@
-var mnemonic = "capital maid talent repair begin crowd picture margin course library between eternal";
+var mnemonic = "quick close recall lounge robust differ rally logic desert ladder foster total";

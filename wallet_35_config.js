@@ -1,1 +1,1 @@
-var mnemonic = "legal violin night grunt wrong brother found situate action excuse shove decide";
+var mnemonic = "soccer tooth bulk stone among modify zone slab mesh exit text remove";

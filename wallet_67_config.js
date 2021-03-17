@@ -1,1 +1,1 @@
-var mnemonic = "earth supreme kitchen view own use genre worry opera display describe glide";
+var mnemonic = "eagle leaf twin frame spring viable craft mansion coast mule science idea";

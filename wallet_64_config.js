@@ -1,1 +1,1 @@
-var mnemonic = "grain miss dolphin electric parade junk cup fatal ticket consider photo youth";
+var mnemonic = "use enroll pass seek plug fox spatial steak warfare cheese night digital";

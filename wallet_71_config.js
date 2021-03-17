@@ -1,1 +1,1 @@
-var mnemonic = "south narrow hover general solve roof fortune blind domain media hen afford";
+var mnemonic = "nation suffer route stand tide noodle fence leaf tooth amazing flight soccer";

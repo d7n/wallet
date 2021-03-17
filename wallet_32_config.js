@@ -1,1 +1,1 @@
-var mnemonic = "raw patch foot board local coral slogan cancel push taste warm assault";
+var mnemonic = "senior december earth engine oven typical trick crunch city cat run melt";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth parade giant repair volume bike forest push visual thank science burst";
+var mnemonic = "evidence mention seven joy accuse interest champion warrior marriage tent uncover father";

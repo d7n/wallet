@@ -1,1 +1,1 @@
-var mnemonic = "virtual purity blossom sugar account snow employ ride inmate disagree release vanish";
+var mnemonic = "guitar color athlete jealous zero age mixture gasp lizard expose ketchup company";

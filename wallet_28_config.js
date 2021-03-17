@@ -1,1 +1,1 @@
-var mnemonic = "much tragic load laptop supreme skull trip shadow swear gold jump more";
+var mnemonic = "canal express express they manual cause emerge work keep mystery fade apology";

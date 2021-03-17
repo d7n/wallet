@@ -1,1 +1,1 @@
-var mnemonic = "palm club firm enlist penalty stage ginger ugly sand vintage firm lift";
+var mnemonic = "leave market bunker riot kangaroo cabin pig lyrics blind upon soap athlete";

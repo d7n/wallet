@@ -1,1 +1,1 @@
-var mnemonic = "gospel junior reform nominee border flip remain crush direct shoulder uncle ring";
+var mnemonic = "seminar mixture puzzle shock cause gasp couple problem two swamp stool sad";

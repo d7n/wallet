@@ -1,1 +1,1 @@
-var mnemonic = "mystery olympic garbage suffer turn angry protect beach build lobster exchange region";
+var mnemonic = "drop they suit spirit flight blur base hen gloom job purchase right";

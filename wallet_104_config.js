@@ -1,1 +1,1 @@
-var mnemonic = "measure clap day possible traffic rent dizzy consider rack coral duty lottery";
+var mnemonic = "wear junior cake gate antenna salute link moral castle genuine wagon analyst";

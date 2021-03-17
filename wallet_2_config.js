@@ -1,1 +1,1 @@
-var mnemonic = "knock eternal kangaroo rude long gun farm glance tenant knock obtain script";
+var mnemonic = "garbage child fatigue time solid talk rotate primary inhale eight traffic lake";

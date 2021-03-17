@@ -1,1 +1,1 @@
-var mnemonic = "priority pact shove august gravity enlist until dignity hood impact bar whale";
+var mnemonic = "matter unit layer fuel satisfy record mutual faith culture profit minor define";

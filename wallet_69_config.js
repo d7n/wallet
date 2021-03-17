@@ -1,1 +1,1 @@
-var mnemonic = "swallow bench muscle own injury must adjust razor walk dynamic drip web";
+var mnemonic = "size legal country neutral comfort expire chief limb flame anxiety horse pitch";

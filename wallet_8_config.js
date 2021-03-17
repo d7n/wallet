@@ -1,1 +1,1 @@
-var mnemonic = "argue one hotel kitchen fortune dignity silk menu glass team drill arch";
+var mnemonic = "describe slim final switch invite add unlock include bachelor easy between curtain";

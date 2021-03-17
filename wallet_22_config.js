@@ -1,1 +1,1 @@
-var mnemonic = "someone below brown vague write scene dilemma network sick catalog edge carbon";
+var mnemonic = "grant spray suffer december opera cabbage brave ghost hammer ignore immense twelve";
