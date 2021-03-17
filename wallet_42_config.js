@@ -1,1 +1,1 @@
-var mnemonic = "call captain orange ski economy antenna nut wave payment rubber sick page";
+var mnemonic = "boat sing suffer valley sketch winter auction scale pulse legal ribbon swear";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile random screen busy name prosper sword prize cushion cigar purity cube";
+var mnemonic = "power slender latin large bread antenna injury action maple vintage resemble catch";

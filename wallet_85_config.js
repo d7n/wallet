@@ -1,1 +1,1 @@
-var mnemonic = "need accuse ancient drift thought double pact absorb victory display curve isolate";
+var mnemonic = "impulse pizza fade bag toward wait soldier pull fault donate oval garlic";

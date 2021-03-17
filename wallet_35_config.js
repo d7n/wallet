@@ -1,1 +1,1 @@
-var mnemonic = "lucky taxi skill gate entry asset mansion elegant device embody victory base";
+var mnemonic = "broom sight shaft dirt hotel guilt tiny fluid avocado excess either donor";

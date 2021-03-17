@@ -1,1 +1,1 @@
-var mnemonic = "super gas tenant elbow mystery certain frog glue rent wedding bird moment";
+var mnemonic = "shoulder north install crop portion drum wedding risk moment cinnamon sign hurry";

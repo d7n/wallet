@@ -1,1 +1,1 @@
-var mnemonic = "oyster delay blame magic young property disagree that harsh unaware exile castle";
+var mnemonic = "fruit blanket zone harsh buyer juice dirt feature bitter various where innocent";

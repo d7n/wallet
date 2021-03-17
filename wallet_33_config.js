@@ -1,1 +1,1 @@
-var mnemonic = "manage faint mansion dragon orange sausage sponsor rain apart symptom birth lesson";
+var mnemonic = "concert alpha music stool road problem crawl salute proof always solve exile";

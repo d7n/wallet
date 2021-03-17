@@ -1,1 +1,1 @@
-var mnemonic = "aerobic crater task brisk glory relax neck tuition elbow world entry soccer";
+var mnemonic = "tenant market abuse museum home foot bullet fuel skirt judge mule climb";

@@ -1,1 +1,1 @@
-var mnemonic = "famous curtain put bulk fever unfair turtle side brown behind wear snap";
+var mnemonic = "talk sort pudding afraid dynamic leisure caught ankle guide stove cotton dolphin";

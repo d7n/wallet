@@ -1,1 +1,1 @@
-var mnemonic = "manual crazy journey law legal way fit bleak decide keen rebel coffee";
+var mnemonic = "today side park double dentist injury love daughter volcano child tree ignore";

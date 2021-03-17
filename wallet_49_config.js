@@ -1,1 +1,1 @@
-var mnemonic = "toddler cabin horse guitar stereo unable crowd wish small river fat trip";
+var mnemonic = "exit eight when staff execute canvas kidney smart biology submit nothing tomato";

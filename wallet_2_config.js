@@ -1,1 +1,1 @@
-var mnemonic = "element heavy stable normal razor embody penalty muscle purity feed pledge mail";
+var mnemonic = "lady april wrestle scheme room half network unlock master hold cute leave";

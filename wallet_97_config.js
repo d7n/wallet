@@ -1,1 +1,1 @@
-var mnemonic = "belt canoe excuse relief faith gorilla call board ketchup april edge where";
+var mnemonic = "away possible way because since island wool desert valley boss tiger image";

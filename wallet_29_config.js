@@ -1,1 +1,1 @@
-var mnemonic = "unit gloom dad program attend photo derive mother alley destroy rebuild jazz";
+var mnemonic = "doctor remove camera transfer brand gold delay sell goose ball blind insect";

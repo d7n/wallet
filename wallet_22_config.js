@@ -1,1 +1,1 @@
-var mnemonic = "bag drop wire actor brick feed slice bread noodle pretty basket guess";
+var mnemonic = "cherry train wage cream later damage rib first elbow steel rain family";

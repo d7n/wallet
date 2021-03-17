@@ -1,1 +1,1 @@
-var mnemonic = "evoke life key admit brand badge kingdom rabbit must soccer egg just";
+var mnemonic = "special dignity bird mouse swim gas action fantasy lobster toddler wife still";

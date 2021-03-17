@@ -1,1 +1,1 @@
-var mnemonic = "easily budget rude switch wrestle private chunk output dash exile unique title";
+var mnemonic = "banner month label exotic crumble any science material casino opera involve trend";

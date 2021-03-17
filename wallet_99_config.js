@@ -1,1 +1,1 @@
-var mnemonic = "can mistake desk fresh lemon clump lock equip dress double short globe";
+var mnemonic = "figure stove churn laptop trip enable keen range run quarter island reopen";

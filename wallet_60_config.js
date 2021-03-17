@@ -1,1 +1,1 @@
-var mnemonic = "unlock ice april nominee face perfect cute roast torch cushion announce legend";
+var mnemonic = "judge armor early lady thank casual gloom paddle unveil phone tobacco expire";

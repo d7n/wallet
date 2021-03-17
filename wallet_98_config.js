@@ -1,1 +1,1 @@
-var mnemonic = "athlete woman mobile coffee valve praise square aisle elevator wheel type quality";
+var mnemonic = "witness diesel proof film imitate mad jewel school debate kit blouse what";

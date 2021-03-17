@@ -1,1 +1,1 @@
-var mnemonic = "vocal spirit donor frame wolf unveil season shoulder era strong isolate index";
+var mnemonic = "code monkey cattle enable bid biology sound tiny save child twice warfare";

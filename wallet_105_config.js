@@ -1,1 +1,1 @@
-var mnemonic = "dignity logic federal ski cream sleep pigeon quick boring elite oak couch";
+var mnemonic = "swim must bracket library umbrella three route clutch mechanic avoid planet fury";

@@ -1,1 +1,1 @@
-var mnemonic = "detail mixed oil example bulb attitude street catch ceiling tape jealous remember";
+var mnemonic = "burden impulse review boring cabbage million net cherry decrease very anxiety armor";

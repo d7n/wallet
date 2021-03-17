@@ -1,1 +1,1 @@
-var mnemonic = "veteran oak cotton bicycle company cage learn sorry broccoli damage panic arm";
+var mnemonic = "someone task roast series example project use know oil escape unusual fuel";

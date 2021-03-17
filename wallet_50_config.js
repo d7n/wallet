@@ -1,1 +1,1 @@
-var mnemonic = "atom hero crop tilt wrong gas depart young repeat setup creek success";
+var mnemonic = "year pill merit couch cloth call drift goat avoid park ivory century";

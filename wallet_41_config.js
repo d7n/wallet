@@ -1,1 +1,1 @@
-var mnemonic = "wheat burden gasp gun stairs spoil dad crop switch taxi ginger dash";
+var mnemonic = "ring habit foster awake price bid foot sorry what false thrive negative";

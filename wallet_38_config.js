@@ -1,1 +1,1 @@
-var mnemonic = "regular fat box bulb proud shine rather frog drive observe habit please";
+var mnemonic = "mouse skin tone lesson pear annual stove end sort topic three oval";

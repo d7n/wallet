@@ -1,1 +1,1 @@
-var mnemonic = "wreck tomato cigar lunar term dignity fish shallow foot license defense soda";
+var mnemonic = "awkward theory alter must thought gadget danger lake close frost detail off";

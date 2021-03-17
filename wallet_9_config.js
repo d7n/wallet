@@ -1,1 +1,1 @@
-var mnemonic = "giggle apart trim bird renew crowd maid silver initial cushion maze give";
+var mnemonic = "cave siren camp deer right before write profit business gadget cotton talk";

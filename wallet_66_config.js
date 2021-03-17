@@ -1,1 +1,1 @@
-var mnemonic = "range ivory proud champion enroll cake exact example relax chunk solution spawn";
+var mnemonic = "abstract inflict pencil mass humble acid runway dove safe ship doctor bike";

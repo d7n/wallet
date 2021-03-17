@@ -1,1 +1,1 @@
-var mnemonic = "inmate purity piece bunker tribe term remember kite social derive puppy solid";
+var mnemonic = "sea under obey material trophy spy rain fortune ridge steel yellow auction";

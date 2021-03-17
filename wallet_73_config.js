@@ -1,1 +1,1 @@
-var mnemonic = "useful scene obey minor cake animal useful cabbage order border warm champion";
+var mnemonic = "cry reduce scale chalk online surge property glide eternal diesel lock cargo";

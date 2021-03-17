@@ -1,1 +1,1 @@
-var mnemonic = "shell mixed excuse extend manual library profit smooth bulb still copper actor";
+var mnemonic = "eager alter guilt govern middle have labor today blossom dutch dad twist";

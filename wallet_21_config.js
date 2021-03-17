@@ -1,1 +1,1 @@
-var mnemonic = "change depart puppy opinion ivory music exile attitude void monkey series today";
+var mnemonic = "draw grunt spoil length silly common screen pink wife midnight merit change";

@@ -1,1 +1,1 @@
-var mnemonic = "strong resist pitch nature type autumn ticket length genuine thing shell trial";
+var mnemonic = "strategy super pledge culture slogan term switch attend garage intact season proud";

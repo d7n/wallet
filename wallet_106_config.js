@@ -1,1 +1,1 @@
-var mnemonic = "furnace buzz cotton juice economy ball copy valid second patient novel option";
+var mnemonic = "search festival travel goddess ketchup check razor episode pulp tone sail toy";

@@ -1,1 +1,1 @@
-var mnemonic = "game cruise horse hole entire happy choose recipe mystery nut belt artist";
+var mnemonic = "harsh large supreme guitar menu tooth material oblige rebuild vanish wage hat";

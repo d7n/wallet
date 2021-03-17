@@ -1,1 +1,1 @@
-var mnemonic = "evolve ancient middle okay census business repeat almost blast fetch soul require";
+var mnemonic = "victory toddler ticket pole cinnamon thunder sheriff open swear lamp flee fat";

@@ -1,1 +1,1 @@
-var mnemonic = "verify angle access catch urge humble turkey one shift little govern appear";
+var mnemonic = "before rabbit walnut loan ghost wheat position ripple monitor long sketch walnut";

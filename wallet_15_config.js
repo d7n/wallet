@@ -1,1 +1,1 @@
-var mnemonic = "crisp spell kitchen shield knock vintage together couch grain goat leopard local";
+var mnemonic = "business song mesh tide thought axis limit devote spell rule doll setup";

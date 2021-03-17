@@ -1,1 +1,1 @@
-var mnemonic = "video alpha tell fork village seat thunder romance stage below soldier easy";
+var mnemonic = "sadness unable original script violin unfold give panda armed outer spatial middle";

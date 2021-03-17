@@ -1,1 +1,1 @@
-var mnemonic = "maid car donate great giggle denial circle congress mule venture subway inherit";
+var mnemonic = "fire luggage able truck zoo input until lesson credit dress eight memory";

@@ -1,1 +1,1 @@
-var mnemonic = "camera method decline topple tissue catch proof race online marble fury uphold";
+var mnemonic = "ketchup shine review pistol corn loan lady fatal diary success food couple";

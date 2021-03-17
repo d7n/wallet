@@ -1,1 +1,1 @@
-var mnemonic = "pluck void remove vocal legend prize basic bounce breeze salon exclude head";
+var mnemonic = "three young october rocket rely flavor attitude holiday defy clump omit focus";

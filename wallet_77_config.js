@@ -1,1 +1,1 @@
-var mnemonic = "buzz cricket bicycle brush horror tooth service critic proud output task mixture";
+var mnemonic = "gallery tool misery invite iron need crew fruit machine dinosaur imitate meat";

@@ -1,1 +1,1 @@
-var mnemonic = "glide wasp spike solid tonight fine nice honey urge program perfect end";
+var mnemonic = "earth orange misery cycle lamp bomb square rigid elite easy observe raise";

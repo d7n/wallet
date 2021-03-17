@@ -1,1 +1,1 @@
-var mnemonic = "afraid skill discover word ribbon law action extra taste aspect please staff";
+var mnemonic = "sniff foam never dial clever cloud top joke bean civil birth solution";

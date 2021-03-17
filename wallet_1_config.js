@@ -1,1 +1,1 @@
-var mnemonic = "jungle stool two spread guilt curve bid shadow seek congress order pyramid";
+var mnemonic = "about food idle woman labor protect sunny make develop series tide choose";

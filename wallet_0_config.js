@@ -1,1 +1,1 @@
-var mnemonic = "job size pottery thrive leaf chief mesh pledge broom wide result deal";
+var mnemonic = "fiscal rebuild pretty victory cruise clay steak female foam nephew share typical";

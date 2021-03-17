@@ -1,1 +1,1 @@
-var mnemonic = "home butter fence domain knock violin frequent draft breeze laptop chuckle bacon";
+var mnemonic = "olive other harbor essence ancient cute trumpet awkward supreme badge topic magic";

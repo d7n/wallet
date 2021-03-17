@@ -1,1 +1,1 @@
-var mnemonic = "fossil decline dinner lunch flower point glimpse convince toward sorry frost mirror";
+var mnemonic = "item abuse violin chef peace forum accuse inflict height banana weird total";

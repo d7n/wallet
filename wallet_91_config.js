@@ -1,1 +1,1 @@
-var mnemonic = "advance hover gift leaf survey fuel angry critic supreme silly inch account";
+var mnemonic = "clinic minute unfold sudden utility cart glare session sport invite emotion float";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey hen broom square pudding hair utility blast census legend broken unusual";
+var mnemonic = "someone coast inmate diesel heavy shrug merry easily cart frequent captain advice";

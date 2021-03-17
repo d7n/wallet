@@ -1,1 +1,1 @@
-var mnemonic = "pool hen brick glimpse feed hobby junior upgrade volcano lottery pelican clean";
+var mnemonic = "embody aspect toward silly wonder typical short note manual cricket sure among";

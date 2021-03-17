@@ -1,1 +1,1 @@
-var mnemonic = "another pudding motion grab color festival genuine critic crime museum moral confirm";
+var mnemonic = "possible leopard price lumber cream initial inflict devote manage escape industry loop";

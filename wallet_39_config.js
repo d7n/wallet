@@ -1,1 +1,1 @@
-var mnemonic = "perfect priority census staff napkin better palm slow normal talent awake city";
+var mnemonic = "daughter slab kiwi rhythm harvest fee have crater useless open expect unit";

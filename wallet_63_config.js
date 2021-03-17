@@ -1,1 +1,1 @@
-var mnemonic = "alley pottery lecture apart damage scare service possible science minor abuse clean";
+var mnemonic = "undo inflict crush fog noodle voyage two fetch sudden bless brown toast";

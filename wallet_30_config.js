@@ -1,1 +1,1 @@
-var mnemonic = "average plug jar super turn virus garlic sock unknown sword copy exit";
+var mnemonic = "process rose chest rookie once youth sketch shine load traffic vicious rack";

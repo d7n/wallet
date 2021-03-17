@@ -1,1 +1,1 @@
-var mnemonic = "olympic device chronic swarm frost hand credit viable seminar toss blossom film";
+var mnemonic = "identify dream repeat soon flush off possible indicate address orient spell maze";

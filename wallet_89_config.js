@@ -1,1 +1,1 @@
-var mnemonic = "advice destroy divorce walk volcano confirm chunk tenant width render harbor apology";
+var mnemonic = "forest adjust scale topple note siege rich guitar ceiling social account camp";

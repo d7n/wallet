@@ -1,1 +1,1 @@
-var mnemonic = "monkey uncle wrestle ten wave blame innocent pumpkin strategy zero ivory retreat";
+var mnemonic = "build deer nurse popular gesture kit genre stereo cube primary valid expire";

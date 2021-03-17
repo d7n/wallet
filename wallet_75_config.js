@@ -1,1 +1,1 @@
-var mnemonic = "current reopen spot abstract dignity blind wheat emotion forest country autumn hidden";
+var mnemonic = "expand basic critic mule need kingdom setup estate hour since cruel artefact";

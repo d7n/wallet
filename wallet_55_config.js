@@ -1,1 +1,1 @@
-var mnemonic = "priority help rack penalty bunker stadium budget season multiply damp year pumpkin";
+var mnemonic = "chapter onion sponsor dawn will pupil suggest disagree love wisdom lizard liquid";

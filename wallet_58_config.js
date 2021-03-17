@@ -1,1 +1,1 @@
-var mnemonic = "infant ready clap adjust quit aware plate benefit ski push bag illness";
+var mnemonic = "test wasp limb poem rotate hello educate champion dove error winner about";

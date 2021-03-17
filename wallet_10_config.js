@@ -1,1 +1,1 @@
-var mnemonic = "wool globe worth term bid olive candy slot clerk awesome corn scan";
+var mnemonic = "memory labor fork laptop session manage memory unknown inside crater purse mind";

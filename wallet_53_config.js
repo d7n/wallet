@@ -1,1 +1,1 @@
-var mnemonic = "fold menu recycle practice rural outdoor gate rug april protect million draw";
+var mnemonic = "six next fox essay fox prevent love torch frost friend fine water";

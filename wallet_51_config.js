@@ -1,1 +1,1 @@
-var mnemonic = "sphere phrase deal off noise laptop frown kid strategy quick hour slogan";
+var mnemonic = "priority narrow saddle aunt beef cost culture mimic regular pig brisk envelope";

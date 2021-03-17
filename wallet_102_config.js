@@ -1,1 +1,1 @@
-var mnemonic = "prize slim alien clean mind safe top glass develop cloud unfair wish";
+var mnemonic = "decide fox screen deliver solar remove mix coach bronze category spell steel";

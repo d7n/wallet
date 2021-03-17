@@ -1,1 +1,1 @@
-var mnemonic = "guess submit water limit hover leader fiscal maze marble pupil friend firm";
+var mnemonic = "leaf grow strike crawl pattern use dial display whale great curious inherit";

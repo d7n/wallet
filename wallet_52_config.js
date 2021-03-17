@@ -1,1 +1,1 @@
-var mnemonic = "wise elegant south tornado crop face junk vicious citizen journey secret oyster";
+var mnemonic = "crater thought focus ride ticket loan valley point seat pistol mechanic push";

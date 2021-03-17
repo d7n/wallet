@@ -1,1 +1,1 @@
-var mnemonic = "park hollow merit blue danger barely stadium volume leave banana original check";
+var mnemonic = "kid clinic predict trend bread goddess exile knock twelve clarify tell there";

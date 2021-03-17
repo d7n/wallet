@@ -1,1 +1,1 @@
-var mnemonic = "pipe weird sphere this surface conduct pet prison plate vivid eagle vanish";
+var mnemonic = "sword rapid taxi eyebrow kit audit need number draft quality another flip";

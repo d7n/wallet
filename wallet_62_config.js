@@ -1,1 +1,1 @@
-var mnemonic = "debate rubber point dutch divorce nerve label supreme someone crunch push valid";
+var mnemonic = "tooth cactus fall detail swift trial slice spray celery snack rate capital";

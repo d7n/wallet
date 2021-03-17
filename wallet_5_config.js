@@ -1,1 +1,1 @@
-var mnemonic = "priority feature offer vehicle worth rebel furnace upper romance nest mother tree";
+var mnemonic = "comfort elbow flight window retire update often allow city friend govern hill";

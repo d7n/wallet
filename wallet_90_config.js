@@ -1,1 +1,1 @@
-var mnemonic = "suggest capital doctor element seek switch master cradle unaware news cave lens";
+var mnemonic = "keep emerge renew argue behind black orient gauge ask habit sun blossom";

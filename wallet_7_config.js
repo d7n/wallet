@@ -1,1 +1,1 @@
-var mnemonic = "duty sister they father must code weasel spoil twenty month leaf awake";
+var mnemonic = "session doll image disorder slide force arrive tongue gospel acquire middle kit";

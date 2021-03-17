@@ -1,1 +1,1 @@
-var mnemonic = "fall ordinary ancient monitor direct tape autumn emotion resemble actress urban bunker";
+var mnemonic = "coyote elbow charge occur spice best caught glance myself raise lemon gain";

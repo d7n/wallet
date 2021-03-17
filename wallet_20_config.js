@@ -1,1 +1,1 @@
-var mnemonic = "globe item subway tree traffic gesture occur midnight company burst click town";
+var mnemonic = "travel universe settle egg junk pumpkin unusual advice aim merit inquiry animal";

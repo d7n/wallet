@@ -1,1 +1,1 @@
-var mnemonic = "nice system result gadget general fortune skin bag grocery exhaust empower cram";
+var mnemonic = "error age access rebel right autumn own shy idle anger saddle trust";

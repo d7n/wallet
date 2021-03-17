@@ -1,1 +1,1 @@
-var mnemonic = "garlic outdoor wash umbrella common coin repair position bundle benefit syrup tornado";
+var mnemonic = "mention twist armor fancy speed off fox blouse spoil rude remember fish";

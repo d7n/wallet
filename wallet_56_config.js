@@ -1,1 +1,1 @@
-var mnemonic = "trash route aim disagree luggage ritual october brave visa voice achieve tired";
+var mnemonic = "announce hockey mansion gravity limb gasp unable source uncle common define toe";

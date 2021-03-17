@@ -1,1 +1,1 @@
-var mnemonic = "tackle west dawn scissors sign secret neglect romance miss refuse raw guess";
+var mnemonic = "maid float lazy law corn episode cart tilt maple bar rapid mixture";

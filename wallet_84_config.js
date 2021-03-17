@@ -1,1 +1,1 @@
-var mnemonic = "arrange ten boil primary relax athlete february mistake clean harbor future service";
+var mnemonic = "kingdom task deputy duty elephant embody confirm fever need slush soup faint";

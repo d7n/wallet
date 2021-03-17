@@ -1,1 +1,1 @@
-var mnemonic = "avocado movie cactus history narrow faith warfare maid home future economy fiction";
+var mnemonic = "prosper fix moral whisper acoustic ribbon absurd foot elder lunch leaf violin";

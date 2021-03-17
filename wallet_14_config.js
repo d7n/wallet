@@ -1,1 +1,1 @@
-var mnemonic = "reopen fun stable useful security antenna sword unusual series cannon nice talent";
+var mnemonic = "magic emotion stove aim inspire narrow hedgehog timber lesson bonus beauty timber";

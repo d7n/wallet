@@ -1,1 +1,1 @@
-var mnemonic = "tennis school uncover retire roof fetch beauty home topic suit couch defy";
+var mnemonic = "ice harvest seat reform fire cloud must harbor narrow ticket border gift";

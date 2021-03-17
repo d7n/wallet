@@ -1,1 +1,1 @@
-var mnemonic = "phrase captain weapon net exist wave orbit thrive cabbage sustain code wreck";
+var mnemonic = "turkey defense axis fade powder loan region category help chief shoot fringe";

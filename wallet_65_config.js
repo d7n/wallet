@@ -1,1 +1,1 @@
-var mnemonic = "habit alarm humor jewel reason rabbit liberty gaze alley emerge swarm common";
+var mnemonic = "pyramid clown draw aware strong clip vehicle vague road diesel parade paddle";

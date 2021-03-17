@@ -1,1 +1,1 @@
-var mnemonic = "slogan mercy cousin destroy junior breeze ski side assume slot ethics arrest";
+var mnemonic = "use grow transfer tilt fury share verb skirt bar pride tennis engage";
