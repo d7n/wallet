@@ -1,1 +1,1 @@
-var mnemonic = "country urge prison peace almost day useless flock later cancel series base";
+var mnemonic = "hammer scout hello magnet wet peanut acid seminar order once swear welcome";

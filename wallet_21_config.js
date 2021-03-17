@@ -1,1 +1,1 @@
-var mnemonic = "they sword tuna minute success worth hundred surface couch invest west venture";
+var mnemonic = "case supply immune add stable polar cute urge roof delay east frost";

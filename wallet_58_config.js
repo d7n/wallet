@@ -1,1 +1,1 @@
-var mnemonic = "happy pulp assume bring enjoy frozen link olive lumber deliver agent much";
+var mnemonic = "opinion admit enable brief normal maximum hover stereo awful sea omit current";

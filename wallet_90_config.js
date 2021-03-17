@@ -1,1 +1,1 @@
-var mnemonic = "stereo hamster rotate caution provide nest hip force method census syrup sun";
+var mnemonic = "exile current spy police invite never leopard pond popular tree fame fan";

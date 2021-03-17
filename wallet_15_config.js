@@ -1,1 +1,1 @@
-var mnemonic = "minimum clump ill enact bachelor ostrich walnut flee slim spawn gentle wild";
+var mnemonic = "elegant isolate lady myth leopard dose sunny install clerk cradle canvas sister";

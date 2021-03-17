@@ -1,1 +1,1 @@
-var mnemonic = "oyster island trophy chair govern lottery alert knife era deliver canyon amateur";
+var mnemonic = "fruit edit style divert lecture clinic convince produce coil wasp admit blood";

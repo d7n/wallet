@@ -1,1 +1,1 @@
-var mnemonic = "combine obtain aisle jaguar client repair light neither monster cherry course trash";
+var mnemonic = "joke ball author praise chase decrease virtual jaguar solve slice trash diary";

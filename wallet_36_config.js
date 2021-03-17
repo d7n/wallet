@@ -1,1 +1,1 @@
-var mnemonic = "elite pact wild consider kite sun timber truck paddle swift jealous clown";
+var mnemonic = "february sleep patient photo mention person burden cave sister black connect immune";

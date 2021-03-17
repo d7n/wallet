@@ -1,1 +1,1 @@
-var mnemonic = "curtain endless enact snack broom between prize prison flock kitchen vibrant source";
+var mnemonic = "slim invite unhappy rhythm endorse marble north focus emotion sentence youth era";

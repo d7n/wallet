@@ -1,1 +1,1 @@
-var mnemonic = "orchard ostrich sense usual afford pistol scare frog angry miss witness such";
+var mnemonic = "early champion vague noble save rely try dawn quarter drive velvet frame";

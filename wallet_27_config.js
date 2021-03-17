@@ -1,1 +1,1 @@
-var mnemonic = "camp bottom category input height devote penalty seminar air crew ask glove";
+var mnemonic = "asset town elevator engage reopen tenant timber become cost panic rack town";

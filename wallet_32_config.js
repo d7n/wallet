@@ -1,1 +1,1 @@
-var mnemonic = "hamster cause minute law divorce skirt develop sadness bid once syrup announce";
+var mnemonic = "disease wait bronze fortune daughter settle state hard soldier situate animal amused";

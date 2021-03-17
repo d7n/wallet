@@ -1,1 +1,1 @@
-var mnemonic = "much shop tortoise behave dove bronze best finish neutral position anxiety can";
+var mnemonic = "vast feature very clay blouse journey size derive shoot project giant layer";

@@ -1,1 +1,1 @@
-var mnemonic = "atom target trap faith canoe pave cool slim citizen eye deer adjust";
+var mnemonic = "argue pretty series future brain double donor taste chimney zebra result slim";

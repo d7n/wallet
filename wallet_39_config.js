@@ -1,1 +1,1 @@
-var mnemonic = "loan degree focus bleak sugar retire attitude moral boring wide history kiwi";
+var mnemonic = "try burst shell trap legal learn emotion super visual retire scheme gather";

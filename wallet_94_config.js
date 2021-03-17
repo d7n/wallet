@@ -1,1 +1,1 @@
-var mnemonic = "zoo crouch shiver spread transfer shy want dismiss burger defy under diet";
+var mnemonic = "attack promote math junior lyrics equal retreat process shadow session antique belt";

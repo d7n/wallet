@@ -1,1 +1,1 @@
-var mnemonic = "knee island ladder differ degree connect photo maple quit victory lamp regular";
+var mnemonic = "rude short dial urge make knife friend road pass exercise wink shrimp";

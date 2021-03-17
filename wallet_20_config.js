@@ -1,1 +1,1 @@
-var mnemonic = "clay divorce identify skirt offer news swim index moment laundry shadow then";
+var mnemonic = "proof weapon balcony ethics always pole whip index brush regular install lounge";

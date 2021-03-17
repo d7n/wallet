@@ -1,1 +1,1 @@
-var mnemonic = "ostrich divert prize ahead staff input hero across peace name attend lady";
+var mnemonic = "basket rabbit club organ chalk trumpet deny exotic model bike struggle dial";

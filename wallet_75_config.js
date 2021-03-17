@@ -1,1 +1,1 @@
-var mnemonic = "certain race cycle spoil gas sad you science enrich blue essence absorb";
+var mnemonic = "chuckle initial bind mistake fade canvas farm still together thumb obscure spirit";

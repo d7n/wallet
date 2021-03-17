@@ -1,1 +1,1 @@
-var mnemonic = "pyramid birth diagram sight expand cream grit hole draw world dinner iron";
+var mnemonic = "man share oyster warm belt title input record thrive acquire chaos expect";

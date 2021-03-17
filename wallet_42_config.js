@@ -1,1 +1,1 @@
-var mnemonic = "sense firm glue boss fat fence harbor core daughter post until city";
+var mnemonic = "glance quality pear stomach fog prison sun wheel run rough word baby";

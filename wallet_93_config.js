@@ -1,1 +1,1 @@
-var mnemonic = "skirt pass seven erase smart bunker barrel door feature purchase neither impact";
+var mnemonic = "leaf planet couch bus under same model interest silent biology sell chicken";

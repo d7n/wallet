@@ -1,1 +1,1 @@
-var mnemonic = "lunch wife tag angry message soap fruit asthma wagon kit design stamp";
+var mnemonic = "smart slender jump decorate holiday zebra file record where wage canoe negative";

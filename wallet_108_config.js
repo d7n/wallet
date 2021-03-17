@@ -1,1 +1,1 @@
-var mnemonic = "afraid lock second cram recycle jewel shallow slot bundle flat carpet guide";
+var mnemonic = "fox doll surge burger hurt evil wild melody ability spatial stone inform";

@@ -1,1 +1,1 @@
-var mnemonic = "found access eyebrow script quick success enjoy false hospital deposit try citizen";
+var mnemonic = "quality try asthma client federal banner tribe gown vehicle weasel goat hand";

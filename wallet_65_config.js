@@ -1,1 +1,1 @@
-var mnemonic = "picnic reward carpet people onion glue girl man reunion define chapter prize";
+var mnemonic = "abstract spell predict state harbor air nothing below oval lobster permit food";

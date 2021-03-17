@@ -1,1 +1,1 @@
-var mnemonic = "trend stem that wish cram please spend brain pepper gloom duty slab";
+var mnemonic = "light canyon still goat purse cabbage one oak twin sorry long airport";

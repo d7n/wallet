@@ -1,1 +1,1 @@
-var mnemonic = "loan dress deposit grief broom cute pizza sniff pottery rent control sniff";
+var mnemonic = "wild rebel vital control obtain feed truly neck safe sister teach deal";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare rib material vicious library mercy maximum sorry fragile match disease surge";
+var mnemonic = "target blouse trick lyrics thing favorite column jungle manual opera wisdom muffin";

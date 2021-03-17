@@ -1,1 +1,1 @@
-var mnemonic = "weapon slot marine praise stumble few garlic gift rent stand fragile hurdle";
+var mnemonic = "citizen media enemy fade bronze picnic inch lawsuit dress foster endless group";

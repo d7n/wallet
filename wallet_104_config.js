@@ -1,1 +1,1 @@
-var mnemonic = "door cloud chase clown head employ swamp gold design avocado thought impact";
+var mnemonic = "borrow awkward toward scan correct matrix clever follow project intact provide gain";

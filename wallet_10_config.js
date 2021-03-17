@@ -1,1 +1,1 @@
-var mnemonic = "ghost hotel end episode swamp poem jelly record cook excite stone kind";
+var mnemonic = "baby space scene vital nurse despair sad satoshi liberty put tomato catalog";

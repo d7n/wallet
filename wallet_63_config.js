@@ -1,1 +1,1 @@
-var mnemonic = "girl law jeans bring modify toe warm inquiry crop denial inhale best";
+var mnemonic = "neither trash rural mosquito spot address hedgehog blast pull celery delay interest";

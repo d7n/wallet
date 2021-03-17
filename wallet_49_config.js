@@ -1,1 +1,1 @@
-var mnemonic = "urge vehicle rhythm labor expand peanut biology robot rally neither spoon flock";
+var mnemonic = "retreat surround margin airport foot fever eternal wrong pill hawk memory resemble";

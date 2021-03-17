@@ -1,1 +1,1 @@
-var mnemonic = "soldier ride child chuckle glance distance account opinion cherry hub artefact market";
+var mnemonic = "income pistol deputy style lemon crash crush deputy gossip gadget measure tackle";

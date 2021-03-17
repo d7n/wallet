@@ -1,1 +1,1 @@
-var mnemonic = "young habit march vicious ahead protect shock fiscal delay someone tennis era";
+var mnemonic = "clock exact cram marriage fall bundle elegant state diagram ski zone glance";

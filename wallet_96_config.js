@@ -1,1 +1,1 @@
-var mnemonic = "broccoli fringe throw catalog adult grocery vacuum intact extend choose grid broken";
+var mnemonic = "reject ahead correct critic inspire blast reward ordinary cattle expire laptop announce";

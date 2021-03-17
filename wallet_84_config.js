@@ -1,1 +1,1 @@
-var mnemonic = "glow school tomato inquiry bench swing window page chalk clap energy crane";
+var mnemonic = "solve left lady human idea embody chicken churn oval spin they useful";

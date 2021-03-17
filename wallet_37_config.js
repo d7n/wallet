@@ -1,1 +1,1 @@
-var mnemonic = "garage jungle divorce spatial increase rebuild cycle fancy weekend marble assist excuse";
+var mnemonic = "hole two elite item vicious typical unfair luggage travel diary sketch connect";

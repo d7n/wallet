@@ -1,1 +1,1 @@
-var mnemonic = "loyal debris window puzzle wolf high lumber tent shoulder always pony kind";
+var mnemonic = "average decade street absent deer recipe raw cabbage license possible absent ceiling";

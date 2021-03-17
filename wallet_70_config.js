@@ -1,1 +1,1 @@
-var mnemonic = "nest path situate cousin body layer narrow animal bid energy plate net";
+var mnemonic = "canvas melody tell syrup roast security carpet resemble under sense capital hockey";

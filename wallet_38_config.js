@@ -1,1 +1,1 @@
-var mnemonic = "mouse tray flavor buffalo field ribbon tent title praise pulp lab try";
+var mnemonic = "faculty hurt medal wife viable control distance motor tuna walnut half menu";

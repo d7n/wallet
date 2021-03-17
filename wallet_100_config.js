@@ -1,1 +1,1 @@
-var mnemonic = "goose sail proof spoil retire minor truth exhibit salt nurse normal lens";
+var mnemonic = "meat oblige junk crane mix rotate amount about plastic mad figure sweet";

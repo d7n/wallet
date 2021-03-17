@@ -1,1 +1,1 @@
-var mnemonic = "cement second satoshi female gap endorse include escape tornado glad fade guilt";
+var mnemonic = "shaft chaos lift actor sword sting grief maple diesel roast weasel fiber";

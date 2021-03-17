@@ -1,1 +1,1 @@
-var mnemonic = "lunch order reward humor oak grab gaze battle siege clutch orange twelve";
+var mnemonic = "episode suspect crane gun spice table agent movie pool pact own seminar";

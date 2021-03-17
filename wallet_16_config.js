@@ -1,1 +1,1 @@
-var mnemonic = "pitch crawl put large radio story suggest expose odor plastic offer umbrella";
+var mnemonic = "bottom stone whisper wing output deal torch release turn solid volume squeeze";

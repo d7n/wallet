@@ -1,1 +1,1 @@
-var mnemonic = "minor deer absorb similar curious obey message kiwi dog wine travel device";
+var mnemonic = "pool beef strong slam strategy lazy dove brave ethics program inherit garment";

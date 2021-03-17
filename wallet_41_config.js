@@ -1,1 +1,1 @@
-var mnemonic = "angry lamp mango logic attend item sausage sound main flight segment repeat";
+var mnemonic = "weekend march home magnet three force battle glory enough replace runway bronze";

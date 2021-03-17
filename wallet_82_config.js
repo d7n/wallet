@@ -1,1 +1,1 @@
-var mnemonic = "another attract dry theory metal drink enrich pioneer suit sheriff furnace push";
+var mnemonic = "miss misery cabin trade custom text fetch fortune brush promote stairs area";

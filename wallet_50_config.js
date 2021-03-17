@@ -1,1 +1,1 @@
-var mnemonic = "harsh amateur episode captain wet pigeon already genre glide feel win miss";
+var mnemonic = "bright young note vote winner polar voyage mansion crime flip involve scissors";

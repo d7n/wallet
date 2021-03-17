@@ -1,1 +1,1 @@
-var mnemonic = "fun artefact ensure mansion party wreck achieve buyer idea bar nasty remember";
+var mnemonic = "island van room velvet sure setup exercise cabin drama good submit bottom";

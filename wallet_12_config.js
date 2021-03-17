@@ -1,1 +1,1 @@
-var mnemonic = "sing wink torch tank rival vast country tiny behave leisure trend reflect";
+var mnemonic = "snack ridge depart enough curtain pioneer all acquire grunt forget crazy supreme";

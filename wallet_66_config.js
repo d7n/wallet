@@ -1,1 +1,1 @@
-var mnemonic = "depth link isolate cry record ozone include kiwi sign survey hand tide";
+var mnemonic = "matrix shiver radio sound inner wing trip earth wife decorate earn baby";

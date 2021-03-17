@@ -1,1 +1,1 @@
-var mnemonic = "bachelor slim mule close bind admit defense sauce black avoid giraffe matrix";
+var mnemonic = "interest fluid problem congress any rather range sheriff slush aspect goddess resist";

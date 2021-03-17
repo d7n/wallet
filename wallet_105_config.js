@@ -1,1 +1,1 @@
-var mnemonic = "piece reunion way ancient width sister emerge sudden chicken search giant oval";
+var mnemonic = "promote winter language oyster sphere plunge wall pig destroy urban cat join";

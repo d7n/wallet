@@ -1,1 +1,1 @@
-var mnemonic = "busy lawsuit crash bracket idea absurd father trumpet junk rib virus mushroom";
+var mnemonic = "margin bring pulse borrow donate slender witness clown hammer diary fitness upset";

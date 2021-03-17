@@ -1,1 +1,1 @@
-var mnemonic = "first sport glue cover ghost ticket pact print copper miss trash jungle";
+var mnemonic = "custom notice saddle enemy captain weasel lonely ball dumb unhappy cargo amused";

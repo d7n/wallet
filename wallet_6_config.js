@@ -1,1 +1,1 @@
-var mnemonic = "rubber chest lock spoil tobacco grape almost simple carbon sport quiz tip";
+var mnemonic = "gap saddle saddle ozone ugly garbage census joke during spare worry foot";

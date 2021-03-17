@@ -1,1 +1,1 @@
-var mnemonic = "peace second asthma doctor scorpion fold someone blush shoot office alley debate";
+var mnemonic = "empty duck valve reopen screen face correct leaf brain tackle analyst arctic";

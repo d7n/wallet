@@ -1,1 +1,1 @@
-var mnemonic = "neutral remind galaxy nerve review february diagram fall share until bamboo genius";
+var mnemonic = "electric idea lamp reform force ivory laptop width slam office burst survey";

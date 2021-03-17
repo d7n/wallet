@@ -1,1 +1,1 @@
-var mnemonic = "grace group arrive elbow cargo little apart current tongue liberty hood caught";
+var mnemonic = "arrive neck wonder picnic depart process minor castle know height shallow obvious";

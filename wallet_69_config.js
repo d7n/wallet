@@ -1,1 +1,1 @@
-var mnemonic = "roof industry involve vendor say inner robot midnight accident bronze caught machine";
+var mnemonic = "exclude logic rigid child travel wreck radar clap better tube slab weapon";

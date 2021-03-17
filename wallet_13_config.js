@@ -1,1 +1,1 @@
-var mnemonic = "team ability village flag loan eagle clarify cattle tennis output auto pull";
+var mnemonic = "clay supply stick grain race pulp pull sock tenant account dial kangaroo";

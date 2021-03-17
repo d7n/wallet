@@ -1,1 +1,1 @@
-var mnemonic = "live hollow staff educate stable runway stick brass mask denial unknown short";
+var mnemonic = "table soft must move hybrid maple appear sibling execute double vivid later";

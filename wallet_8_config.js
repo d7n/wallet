@@ -1,1 +1,1 @@
-var mnemonic = "spoon breeze unlock relief wheel vapor can tribe diagram affair monitor setup";
+var mnemonic = "sort cave index park submit maze flavor remove brown guilt cause federal";

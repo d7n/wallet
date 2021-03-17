@@ -1,1 +1,1 @@
-var mnemonic = "couple desert fault rotate tortoise shy exercise token front pigeon say play";
+var mnemonic = "page gift off pig pizza target bag mandate ginger kiss addict project";

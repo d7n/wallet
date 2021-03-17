@@ -1,1 +1,1 @@
-var mnemonic = "blur aisle aim visa panda saddle amused local net echo poverty dolphin";
+var mnemonic = "cabbage armed brisk mind grocery run garage hint maze mimic soup shove";

@@ -1,1 +1,1 @@
-var mnemonic = "theme mom ask prefer conduct girl provide valley express aunt harbor camera";
+var mnemonic = "scrap figure song mobile wash announce twenty fragile reunion wedding alien sphere";

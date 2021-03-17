@@ -1,1 +1,1 @@
-var mnemonic = "boat half extra grunt jump alone prefer decade symbol room grant north";
+var mnemonic = "amateur chair vital siren risk mystery fabric guitar cotton hotel live sample";

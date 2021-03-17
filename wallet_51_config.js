@@ -1,1 +1,1 @@
-var mnemonic = "arctic exclude unfold flat gallery pass clap february suggest swear plate scorpion";
+var mnemonic = "oxygen session dad hire trust market forget buyer autumn saddle own occur";

@@ -1,1 +1,1 @@
-var mnemonic = "biology swift dilemma hundred craft fresh just student iron resemble excite clerk";
+var mnemonic = "glory position news weekend glad crisp settle expose region evolve buddy source";

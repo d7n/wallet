@@ -1,1 +1,1 @@
-var mnemonic = "walnut mesh favorite focus comfort sugar exchange fringe source swear arctic segment";
+var mnemonic = "border lizard early impose argue carbon talk rotate list shock spare often";

@@ -1,1 +1,1 @@
-var mnemonic = "purity doll spray awful latin city hand page smile eagle fatal seek";
+var mnemonic = "develop woman kite glad kite oil dash panic dad screen ahead pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "shift cube lazy income hammer answer bright harbor olive distance pear crop";
+var mnemonic = "rate gap fossil defense sunny patch mother chicken wrestle pause hard under";

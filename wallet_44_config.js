@@ -1,1 +1,1 @@
-var mnemonic = "leaf baby ozone rebuild spider evolve transfer leisure breeze join winter mesh";
+var mnemonic = "table tag wool noise concert hint author local analyst economy same company";

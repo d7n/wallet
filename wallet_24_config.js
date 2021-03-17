@@ -1,1 +1,1 @@
-var mnemonic = "trigger coin panda problem opera brand scare joke swamp more under sunny";
+var mnemonic = "boat wolf nephew food neck motor grunt list sleep elegant better moral";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop donor hip bounce ski poem toddler race typical limb doctor certain";
+var mnemonic = "juice grid engage frown helmet loud nation excess palm mule winner relief";

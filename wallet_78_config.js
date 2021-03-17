@@ -1,1 +1,1 @@
-var mnemonic = "venue world bag warm tray pizza enforce welcome spike height rich slow";
+var mnemonic = "return soda waste convince width mystery excess axis topple document stove comfort";

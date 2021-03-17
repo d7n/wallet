@@ -1,1 +1,1 @@
-var mnemonic = "genius pause pizza option produce grass tape tobacco pepper prevent cannon hungry";
+var mnemonic = "noble since relax found frost grid nest obscure cereal outdoor virus wink";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch stadium ginger story network dynamic sick eagle shy brief stove piano";
+var mnemonic = "silk analyst match spoil clinic where announce rural elbow forest dad much";

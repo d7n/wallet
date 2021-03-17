@@ -1,1 +1,1 @@
-var mnemonic = "chief grief found grow quit convince loud rose potato economy kit grant";
+var mnemonic = "concert column forum staff gate shift accident wage mad safe fee trend";

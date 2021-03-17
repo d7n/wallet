@@ -1,1 +1,1 @@
-var mnemonic = "blossom trend awful excess base love proud anchor harbor curve paper erase";
+var mnemonic = "elevator butter resource magnet cream inquiry want retire proof enjoy bread boring";

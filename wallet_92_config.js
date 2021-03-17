@@ -1,1 +1,1 @@
-var mnemonic = "heart junior amount afford ride road subject room airport cement soda bean";
+var mnemonic = "elegant worth immense powder carpet toilet wheat pretty glance vote height horse";

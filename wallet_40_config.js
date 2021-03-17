@@ -1,1 +1,1 @@
-var mnemonic = "soap banner still pottery black else present tent broken seat guilt throw";
+var mnemonic = "pen keen swamp equal trust liquid settle travel elder rubber toddler wish";

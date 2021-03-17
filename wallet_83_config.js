@@ -1,1 +1,1 @@
-var mnemonic = "guide merry say brain syrup possible gown unique vote bird start ramp";
+var mnemonic = "strike fatigue input view base nurse chaos borrow rhythm congress sorry expect";

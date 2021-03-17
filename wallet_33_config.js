@@ -1,1 +1,1 @@
-var mnemonic = "economy gym air domain uphold diary resist lyrics celery lecture dial ribbon";
+var mnemonic = "shine bleak appear garment today daring solve loyal traffic police ethics goddess";
