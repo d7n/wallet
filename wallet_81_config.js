@@ -1,1 +1,1 @@
-var mnemonic = "quit amused sea flash anger flag produce pen oblige enact snack never";
+var mnemonic = "ship repair marine sniff cost alarm champion nurse cat ordinary this box";

@@ -1,1 +1,1 @@
-var mnemonic = "video become cricket upon merit month nest first bargain dismiss identify game";
+var mnemonic = "embody first giant horse gauge erosion prefer nuclear work scare slab planet";

@@ -1,1 +1,1 @@
-var mnemonic = "romance detect evoke velvet memory dad ice sustain wear trade grid panel";
+var mnemonic = "need evolve strategy metal live south major climb robust prison square lemon";

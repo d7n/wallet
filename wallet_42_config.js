@@ -1,1 +1,1 @@
-var mnemonic = "together song spice usage rather region furnace wheel employ chase hotel garlic";
+var mnemonic = "token usage secret arrow excuse mobile special knock text arrow wedding vicious";

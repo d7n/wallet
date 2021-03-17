@@ -1,1 +1,1 @@
-var mnemonic = "index vicious crowd impulse truth best plastic soup virtual dumb fatal walnut";
+var mnemonic = "observe lady bulb off submit melt lemon ensure ball again marine soon";

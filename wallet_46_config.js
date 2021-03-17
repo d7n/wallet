@@ -1,1 +1,1 @@
-var mnemonic = "category toast perfect attend motor drink wheat man surface basket crazy until";
+var mnemonic = "lottery harsh survey shrug goat lonely sample good file ghost candy nature";

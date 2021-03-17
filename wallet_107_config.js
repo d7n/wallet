@@ -1,1 +1,1 @@
-var mnemonic = "fatigue laundry lake adjust mimic enact inquiry owner fossil catch check gospel";
+var mnemonic = "popular fun stove ride know biology frequent great rack leader pitch minute";

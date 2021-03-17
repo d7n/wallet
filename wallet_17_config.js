@@ -1,1 +1,1 @@
-var mnemonic = "machine clay angry sword canal fault cave skill razor help color shaft";
+var mnemonic = "yard list shed stereo crane pause jaguar suggest pass fortune artist arch";

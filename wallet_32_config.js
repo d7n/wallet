@@ -1,1 +1,1 @@
-var mnemonic = "village stool pattern notable system exile autumn loop canal you prize utility";
+var mnemonic = "ankle basket cage ability rigid under vessel frog rocket culture strike pet";

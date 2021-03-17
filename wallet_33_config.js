@@ -1,1 +1,1 @@
-var mnemonic = "believe refuse radar design slush credit receive miss surround matter region damage";
+var mnemonic = "sick situate equip employ knife august medal arrow input annual tobacco proud";

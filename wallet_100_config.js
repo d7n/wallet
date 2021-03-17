@@ -1,1 +1,1 @@
-var mnemonic = "turkey suit develop delay ready mimic long avocado must jazz deny behind";
+var mnemonic = "squirrel step ability humble sunset april coconut fiscal canyon close intact sad";

@@ -1,1 +1,1 @@
-var mnemonic = "foot scheme neck display aspect west tumble tomato jump humor december season";
+var mnemonic = "curious cherry clap faith excess hour cabbage monitor material grief swap smile";

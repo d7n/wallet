@@ -1,1 +1,1 @@
-var mnemonic = "much melt twelve unhappy crucial crop found lens salon push author dance";
+var mnemonic = "liberty call veteran define foster chronic tuition portion hill attend lizard wish";

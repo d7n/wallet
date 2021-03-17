@@ -1,1 +1,1 @@
-var mnemonic = "primary walk shadow stumble empty vault please dizzy awful basket vacant yard";
+var mnemonic = "ride avocado inflict canoe evoke endless dumb flag world salad prison boil";

@@ -1,1 +1,1 @@
-var mnemonic = "object heavy tower empower demise sniff grape mammal install image curious mix";
+var mnemonic = "cloud prepare valid north shoe crime habit field scan video thrive promote";

@@ -1,1 +1,1 @@
-var mnemonic = "paper render era act buyer jungle coach caution next sting cluster sweet";
+var mnemonic = "sail december silk gesture absorb explain blast era domain lesson raven pulse";

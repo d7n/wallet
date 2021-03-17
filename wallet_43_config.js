@@ -1,1 +1,1 @@
-var mnemonic = "purchase cat balance sword tone fog teach woman syrup poem aspect right";
+var mnemonic = "sound quiz modify anchor inflict cabin grit game setup smoke edge immense";

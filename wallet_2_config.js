@@ -1,1 +1,1 @@
-var mnemonic = "gaze couch point spider hire strong paddle dizzy moral debris casino floor";
+var mnemonic = "morning sentence note math snow rich ramp skin view vault egg embrace";

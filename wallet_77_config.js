@@ -1,1 +1,1 @@
-var mnemonic = "damp mail prosper execute odor valid team size control anxiety jacket sentence";
+var mnemonic = "trade pumpkin lobster junk rookie spoil medal organ seed robot raise issue";

@@ -1,1 +1,1 @@
-var mnemonic = "iron thunder jeans hockey buddy crime pitch sibling minimum fall symptom teach";
+var mnemonic = "disorder shock invest one intact soup warrior wrist goddess hunt worry come";

@@ -1,1 +1,1 @@
-var mnemonic = "final material patient push bright remove little favorite scatter account nuclear hand";
+var mnemonic = "equal undo ankle salt beyond latin vivid timber hip maximum ranch second";

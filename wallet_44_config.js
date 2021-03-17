@@ -1,1 +1,1 @@
-var mnemonic = "husband able raccoon across near mean slab monster member subject climb level";
+var mnemonic = "stool agree wedding express lawn maple rule casual drum seven ability enrich";

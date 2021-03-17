@@ -1,1 +1,1 @@
-var mnemonic = "radar patient lunar brief stable crawl shield say finger swear cloud emotion";
+var mnemonic = "same wall genius defy equip comic swamp bitter lunch extra clinic fatigue";

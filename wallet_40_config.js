@@ -1,1 +1,1 @@
-var mnemonic = "page family oval treat pear debate fix noise pact alcohol menu jazz";
+var mnemonic = "unaware song punch visa cause hedgehog wet quiz art garage math sniff";

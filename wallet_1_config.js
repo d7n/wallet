@@ -1,1 +1,1 @@
-var mnemonic = "shine sock garlic miss warm stem plug antenna sell scale dumb cement";
+var mnemonic = "brisk physical case rich actual middle tooth twelve tribe rapid leisure obtain";

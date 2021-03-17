@@ -1,1 +1,1 @@
-var mnemonic = "coconut risk pitch canoe comfort scrub deer culture seed dawn problem summer";
+var mnemonic = "excuse audit echo solid giraffe polar dance gasp focus shadow autumn board";

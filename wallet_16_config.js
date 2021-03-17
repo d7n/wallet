@@ -1,1 +1,1 @@
-var mnemonic = "bounce street consider invite wear recipe ancient speed swift olive output toss";
+var mnemonic = "sauce scrap truly depend confirm local rescue teach trouble audit mass fiscal";

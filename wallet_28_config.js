@@ -1,1 +1,1 @@
-var mnemonic = "embrace close tone total sing party warrior pupil fringe mail wine shuffle";
+var mnemonic = "angry detail barrel rally system immune wedding shoe clutch sea hint crawl";

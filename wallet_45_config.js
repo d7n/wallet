@@ -1,1 +1,1 @@
-var mnemonic = "now task blush topic love purse glow consider decide rate warm cotton";
+var mnemonic = "tomorrow october coast dial chalk industry doctor social insane casual piano plug";

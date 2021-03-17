@@ -1,1 +1,1 @@
-var mnemonic = "hand wear limb approve margin silk settle hire bundle online about sport";
+var mnemonic = "conduct green direct west smart disease whale apple cannon scale around page";

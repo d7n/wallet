@@ -1,1 +1,1 @@
-var mnemonic = "boy credit leg perfect trigger unaware canoe submit enable item curve hollow";
+var mnemonic = "release barrel rich alert unfair proof once frost immune credit segment armor";

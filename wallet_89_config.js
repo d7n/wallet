@@ -1,1 +1,1 @@
-var mnemonic = "loop sea annual alcohol before chat mix warrior inflict cactus feel vessel";
+var mnemonic = "elephant tree cable cinnamon acid type movie napkin visit squirrel grunt answer";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow cover shoot sheriff oppose afford language denial catalog guard finish old";
+var mnemonic = "draw dynamic region miracle peasant fetch apology replace tattoo crane coral nut";

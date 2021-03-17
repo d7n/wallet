@@ -1,1 +1,1 @@
-var mnemonic = "chunk dragon shadow win survey worth bottom avoid talk alarm exclude present";
+var mnemonic = "obscure draw casino quiz merge six develop resemble joke alcohol business outdoor";

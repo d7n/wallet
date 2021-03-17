@@ -1,1 +1,1 @@
-var mnemonic = "recall document monkey tonight pass tape all pull ensure cook lady display";
+var mnemonic = "utility hub reveal matrix produce practice prepare retreat short stand talent oxygen";

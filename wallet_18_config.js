@@ -1,1 +1,1 @@
-var mnemonic = "circle symbol average hand hunt edge theory alley phrase puzzle cheap duck";
+var mnemonic = "assault thumb orient math topple split deal marine gain coach cash zero";

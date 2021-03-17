@@ -1,1 +1,1 @@
-var mnemonic = "hen patrol solid punch input quiz tonight security guilt panic deposit disorder";
+var mnemonic = "proud matter stuff canal false unfair jealous floor vivid rail gap bomb";

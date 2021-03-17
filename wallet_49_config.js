@@ -1,1 +1,1 @@
-var mnemonic = "champion dumb daughter prison slot canyon catch iron ivory tobacco ensure viable";
+var mnemonic = "volcano cattle course abuse disagree labor sleep final wood grocery element antique";

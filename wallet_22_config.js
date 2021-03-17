@@ -1,1 +1,1 @@
-var mnemonic = "cycle play fun soon model wood vote gown swallow arm result shove";
+var mnemonic = "police giggle cloth addict acoustic drip short double actual transfer number raise";

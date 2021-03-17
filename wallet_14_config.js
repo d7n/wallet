@@ -1,1 +1,1 @@
-var mnemonic = "tennis warfare people price render total open boil belt sock exile survey";
+var mnemonic = "corn grape sustain south lake protect sport mystery drop mistake exile type";

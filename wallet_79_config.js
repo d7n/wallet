@@ -1,1 +1,1 @@
-var mnemonic = "divorce key gravity add cat escape curve ask inject foil genius supply";
+var mnemonic = "soap clock weekend bulb absent effort session raw crumble mass immune feature";

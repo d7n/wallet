@@ -1,1 +1,1 @@
-var mnemonic = "lab humor ethics defy february hobby mercy grape valid moral orbit robot";
+var mnemonic = "gospel observe leaf boil away mercy become lawsuit father auto innocent route";

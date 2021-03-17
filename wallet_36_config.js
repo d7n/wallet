@@ -1,1 +1,1 @@
-var mnemonic = "play bridge speak spirit chronic fiction raw couch fitness come exclude firm";
+var mnemonic = "hurdle coil salt unknown home swing eye water dynamic keep chat valid";

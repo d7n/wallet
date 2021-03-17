@@ -1,1 +1,1 @@
-var mnemonic = "gown inside element warrior oxygen people lake typical black curve purse dwarf";
+var mnemonic = "inside wish during bulb useless bacon menu genre adapt shiver ritual annual";

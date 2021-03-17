@@ -1,1 +1,1 @@
-var mnemonic = "wagon boy dog remain lizard consider vapor shy gather unable door either";
+var mnemonic = "kangaroo gasp this can illegal today legal mimic monster dice throw screen";

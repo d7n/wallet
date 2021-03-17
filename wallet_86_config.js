@@ -1,1 +1,1 @@
-var mnemonic = "eight cotton gossip virus debate correct pudding home wrap early year wrong";
+var mnemonic = "play provide double alarm myself raise genius truck barely arrive machine slice";

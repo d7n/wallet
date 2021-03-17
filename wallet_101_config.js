@@ -1,1 +1,1 @@
-var mnemonic = "because apology menu report bag open salmon twist fiscal unfold clay poverty";
+var mnemonic = "require divide island snack want bunker lumber brick disorder blanket need gather";

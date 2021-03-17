@@ -1,1 +1,1 @@
-var mnemonic = "arrive achieve transfer table path bacon worry typical feature foam soldier sound";
+var mnemonic = "celery angry foil coral clay obscure vital away knee solar summer scrap";

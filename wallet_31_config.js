@@ -1,1 +1,1 @@
-var mnemonic = "first elephant meat cancel equal holiday candy monster camp carry envelope despair";
+var mnemonic = "surface donate hockey grace skirt maze street become expect pulp cover dream";

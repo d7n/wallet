@@ -1,1 +1,1 @@
-var mnemonic = "wheat walnut remain crack car inhale fence music guard midnight cart april";
+var mnemonic = "later exhibit blast snap water twenty smart friend coil nominee abandon repeat";

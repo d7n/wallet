@@ -1,1 +1,1 @@
-var mnemonic = "soap hobby flavor emerge mixed agree hour burden search excuse ensure collect";
+var mnemonic = "depart snake clump poem chat style trophy start vacuum spray describe pioneer";

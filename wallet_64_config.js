@@ -1,1 +1,1 @@
-var mnemonic = "drop time appear giraffe regret script mad menu nature foam april grunt";
+var mnemonic = "salad bus drum turn flat caught program example weasel three maze crucial";

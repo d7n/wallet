@@ -1,1 +1,1 @@
-var mnemonic = "silver weather drill fluid funny fortune train remain impose essence barrel midnight";
+var mnemonic = "grass invest vacant runway ankle force run toddler lava canoe oxygen trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "cave panel very wedding pencil tobacco melt large stage swim orange trade";
+var mnemonic = "moment tourist mercy broken fruit green injury ecology error scorpion economy spawn";

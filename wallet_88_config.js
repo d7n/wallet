@@ -1,1 +1,1 @@
-var mnemonic = "carry field guide across length rule uniform used fiber illegal atom doctor";
+var mnemonic = "benefit setup mystery flag ketchup chest plastic seminar section observe scorpion salon";

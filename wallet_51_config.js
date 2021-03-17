@@ -1,1 +1,1 @@
-var mnemonic = "film orient improve drink wait ability company arctic churn erode flash portion";
+var mnemonic = "impact gather bacon manage unhappy topic below second bomb rib flat bench";

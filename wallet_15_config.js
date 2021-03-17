@@ -1,1 +1,1 @@
-var mnemonic = "chat mansion wheel target ugly smooth universe kit because pupil matter seminar";
+var mnemonic = "issue erupt resemble erode evolve follow slogan team office alert school mansion";

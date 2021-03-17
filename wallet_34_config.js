@@ -1,1 +1,1 @@
-var mnemonic = "panther smile curve innocent flush power unusual interest song piano hint economy";
+var mnemonic = "cross since table debris horn call claim parade oxygen police helmet gesture";

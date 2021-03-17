@@ -1,1 +1,1 @@
-var mnemonic = "oxygen stamp usage accident setup modify size number long crack nothing vital";
+var mnemonic = "lawn scorpion song sun dutch hammer venue festival taste utility army chicken";

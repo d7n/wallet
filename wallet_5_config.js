@@ -1,1 +1,1 @@
-var mnemonic = "jaguar race punch eager inch dress erode away bus speed curious few";
+var mnemonic = "portion thunder fitness jaguar source mass dumb finish floor credit promote extra";

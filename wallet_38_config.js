@@ -1,1 +1,1 @@
-var mnemonic = "click limb crawl faith trigger law melt spread boost clever tuition large";
+var mnemonic = "discover blade strike run ramp end duty quality item sense express cradle";

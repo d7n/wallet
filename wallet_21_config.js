@@ -1,1 +1,1 @@
-var mnemonic = "grape muscle soon source remind tornado sell autumn aerobic observe click harbor";
+var mnemonic = "pizza usage excess large cross give fire guess erupt case excuse hurdle";

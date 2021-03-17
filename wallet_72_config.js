@@ -1,1 +1,1 @@
-var mnemonic = "dynamic cabin fish drill nest silver segment sword frown three hunt junior";
+var mnemonic = "door hire gospel unit enjoy glare much galaxy wasp original good scale";

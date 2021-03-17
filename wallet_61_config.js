@@ -1,1 +1,1 @@
-var mnemonic = "deposit idle inject tube release foam sniff private maid debris sister avoid";
+var mnemonic = "merge infant expire rather ignore gossip mystery exercise endless deputy thank clock";

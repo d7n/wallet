@@ -1,1 +1,1 @@
-var mnemonic = "bachelor stem junior blossom rhythm loyal sentence detail harbor device over rib";
+var mnemonic = "weapon organ junior light pluck swing climb bind panda remember become evidence";

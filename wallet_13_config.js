@@ -1,1 +1,1 @@
-var mnemonic = "unveil edit struggle raven cheese hurdle chronic benefit magic heavy jealous knife";
+var mnemonic = "tonight uncover cigar rebuild arch figure grow achieve alien climb concert name";

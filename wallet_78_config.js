@@ -1,1 +1,1 @@
-var mnemonic = "blanket network million into moon coast assist push electric upset pilot collect";
+var mnemonic = "dirt make dilemma invest drop wood drink stamp suffer surround manual fury";

@@ -1,1 +1,1 @@
-var mnemonic = "radio title cancel elder proud suspect cover flip near doll property legend";
+var mnemonic = "camera concert diet enjoy learn budget vanish pull dolphin inquiry celery guard";

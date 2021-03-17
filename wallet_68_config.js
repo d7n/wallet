@@ -1,1 +1,1 @@
-var mnemonic = "guess again human human narrow baby ancient ecology inmate wagon bamboo erase";
+var mnemonic = "sunny deputy receive cost trust leave south gain employ amount sell aim";

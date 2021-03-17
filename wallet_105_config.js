@@ -1,1 +1,1 @@
-var mnemonic = "crucial elegant mix order shell foil fossil head vanish humor install trigger";
+var mnemonic = "include awesome nominee symptom sting grain estate force furnace robust wild ill";

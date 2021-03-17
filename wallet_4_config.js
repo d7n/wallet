@@ -1,1 +1,1 @@
-var mnemonic = "risk click draw track grape certain chef design casino worry cannon foot";
+var mnemonic = "cute motion student comic loan detect unaware easily apart coconut usual trap";

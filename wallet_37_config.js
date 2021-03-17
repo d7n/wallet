@@ -1,1 +1,1 @@
-var mnemonic = "prevent hood minute abandon empty never involve supply strike speed small under";
+var mnemonic = "foam flag same arrive foil recipe uncover regular tail half estate cook";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra proud indoor cabbage main interest mind slam safe organ pride wrap";
+var mnemonic = "accuse insect genius pond stone wall post material parent grain come before";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate device popular bounce uniform body present proof front pond dinner mail";
+var mnemonic = "stable flame creek later sausage chase ancient copper guilt artist attack mention";

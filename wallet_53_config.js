@@ -1,1 +1,1 @@
-var mnemonic = "toward rack circle neck manage office love input uncle target bundle moon";
+var mnemonic = "spread leg boss guilt food search finger client knock mention sword slim";

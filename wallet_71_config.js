@@ -1,1 +1,1 @@
-var mnemonic = "elbow soft home sadness snap write earth notice token crouch follow quality";
+var mnemonic = "clap frost right curve welcome merit labor salute spoon duty myself problem";

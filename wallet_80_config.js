@@ -1,1 +1,1 @@
-var mnemonic = "hockey novel assume door reopen surge pause work smart trumpet useful risk";
+var mnemonic = "trend earn hurt oak leg cereal run razor jaguar rookie eye frame";

@@ -1,1 +1,1 @@
-var mnemonic = "affair garbage august street special forward benefit refuse midnight foil point inmate";
+var mnemonic = "pride survey clock craft cushion resemble fault knee maple entry senior swift";

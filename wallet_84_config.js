@@ -1,1 +1,1 @@
-var mnemonic = "section dynamic bachelor pet again food step nuclear lucky speak trumpet drama";
+var mnemonic = "rain seminar stem kick cricket speed clay hedgehog sponsor speak poet public";

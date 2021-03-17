@@ -1,1 +1,1 @@
-var mnemonic = "limit false error document civil share cotton spawn weekend jewel pyramid sport";
+var mnemonic = "over wear forget increase term decade merge able recycle dismiss uncle squirrel";

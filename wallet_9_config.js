@@ -1,1 +1,1 @@
-var mnemonic = "guess economy runway betray flower farm maze beef jealous eagle display teach";
+var mnemonic = "accuse power faith mountain tragic siege tennis bicycle slide mask pizza rather";

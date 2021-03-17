@@ -1,1 +1,1 @@
-var mnemonic = "organ mercy champion eager ocean enter reveal tent walnut enough quote arrest";
+var mnemonic = "success drift special response answer youth cousin cat aerobic return theme someone";

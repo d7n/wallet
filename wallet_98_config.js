@@ -1,1 +1,1 @@
-var mnemonic = "crater kit small domain cook prize anger secret width sponsor minor brick";
+var mnemonic = "wet brisk cabin easy whale lawn pool joy crack year view school";

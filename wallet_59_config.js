@@ -1,1 +1,1 @@
-var mnemonic = "come mad slush century film want gas ocean half say corn pencil";
+var mnemonic = "relief teach turkey sunset rhythm order vintage seat blue few build entire";

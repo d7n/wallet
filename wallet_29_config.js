@@ -1,1 +1,1 @@
-var mnemonic = "action marriage utility essence control end time sausage pact open tongue swarm";
+var mnemonic = "sunny voice session primary stem vessel comfort vanish muscle engine again beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "frown warfare keep option chase coil movie device hybrid ahead matrix shadow";
+var mnemonic = "cute card used thumb silk subject blind ticket double love olympic wine";

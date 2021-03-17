@@ -1,1 +1,1 @@
-var mnemonic = "disagree umbrella mesh company under audit cricket luggage photo crash below bus";
+var mnemonic = "logic tackle unable sunset also choice dragon lion stable estate over fan";

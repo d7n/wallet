@@ -1,1 +1,1 @@
-var mnemonic = "spell whisper gentle clay mountain pill gate speed keen future neutral token";
+var mnemonic = "glimpse treat joke truly report muscle pepper hamster winter crop lava letter";

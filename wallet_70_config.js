@@ -1,1 +1,1 @@
-var mnemonic = "child basket cruel coyote strike hen acquire marriage use attack evoke track";
+var mnemonic = "repeat lock twist clown inner crop pet stumble opera symptom corn order";
