@@ -1,1 +1,1 @@
-var mnemonic = "expect panel impulse runway crisp slight differ teach shield tiger proud october";
+var mnemonic = "twice bridge sorry still observe six net girl elephant quarter assist switch";

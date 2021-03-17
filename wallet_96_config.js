@@ -1,1 +1,1 @@
-var mnemonic = "cart grass property tape impose soon front genuine venture jungle poet roast";
+var mnemonic = "jazz nominee broom motion ancient glare vehicle insect fence flavor that dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "unable awesome trick stomach initial pole table chalk illegal choice pizza bleak";
+var mnemonic = "squeeze evolve dignity disease quantum soul ocean moon depth feature long anxiety";

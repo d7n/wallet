@@ -1,1 +1,1 @@
-var mnemonic = "profit crowd rebel flat shrug coin glimpse local torch winter fat fold";
+var mnemonic = "educate wasp silk question mix vocal liberty unfold orient oppose toddler april";

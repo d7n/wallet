@@ -1,1 +1,1 @@
-var mnemonic = "degree boil come sort oblige spend atom answer praise barely erode autumn";
+var mnemonic = "series impulse judge lift zoo ticket what forum trophy jewel forum install";

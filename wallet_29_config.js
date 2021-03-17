@@ -1,1 +1,1 @@
-var mnemonic = "until injury evil picnic deposit chalk remind charge again palm menu angle";
+var mnemonic = "gloom envelope spike upgrade inside deal crawl people unfold inside symbol grit";

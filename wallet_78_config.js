@@ -1,1 +1,1 @@
-var mnemonic = "rare kitchen success jewel raise risk satisfy glass modify marble sense kingdom";
+var mnemonic = "gap mad melt early enforce useful smooth differ upper raven cushion grant";

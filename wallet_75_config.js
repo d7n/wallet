@@ -1,1 +1,1 @@
-var mnemonic = "hollow amazing leave output orange holiday office sock juice surprise moon pen";
+var mnemonic = "library primary crunch athlete neck such blood envelope napkin cheese then pelican";

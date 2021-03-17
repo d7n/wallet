@@ -1,1 +1,1 @@
-var mnemonic = "catalog sudden prevent weekend cargo core flame treat surround lizard mesh major";
+var mnemonic = "series impact prison foster canvas ride ten pause language unable paddle inmate";

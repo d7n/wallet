@@ -1,1 +1,1 @@
-var mnemonic = "word misery modify know skate amused year cliff hurry guilt install timber";
+var mnemonic = "duty extra fabric release fault mechanic machine limit suggest fossil accuse dad";

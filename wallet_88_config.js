@@ -1,1 +1,1 @@
-var mnemonic = "taxi brown million gasp super argue mirror share exercise waste knee peasant";
+var mnemonic = "soap loop popular hazard steak suspect pen father relax clean rib kiwi";

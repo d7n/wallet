@@ -1,1 +1,1 @@
-var mnemonic = "crater soap escape nose notice peace abuse title entry long soon sing";
+var mnemonic = "oppose erase human invite frozen render outside lion display credit slot century";

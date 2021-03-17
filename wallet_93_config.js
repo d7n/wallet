@@ -1,1 +1,1 @@
-var mnemonic = "dentist fault lobster author merit often stairs churn battle forward sudden fatigue";
+var mnemonic = "diamond punch sausage butter either today spray element wire snake parade lyrics";

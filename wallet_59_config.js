@@ -1,1 +1,1 @@
-var mnemonic = "imitate loyal kite possible bomb bacon flip runway change maple know boil";
+var mnemonic = "benefit chunk resist evil subject owner timber exit transfer trophy cannon motor";

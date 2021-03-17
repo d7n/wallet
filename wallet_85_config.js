@@ -1,1 +1,1 @@
-var mnemonic = "shaft negative organ picnic vague cause glove night save gap ignore fever";
+var mnemonic = "virtual surround lyrics later august ring kidney execute inflict coast lady grace";

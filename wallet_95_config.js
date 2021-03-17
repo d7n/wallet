@@ -1,1 +1,1 @@
-var mnemonic = "typical equal assault final noodle fiscal picture final dinosaur spider base visual";
+var mnemonic = "island wire pistol decade mistake hybrid boy fix sweet forest lab scissors";

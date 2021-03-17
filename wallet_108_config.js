@@ -1,1 +1,1 @@
-var mnemonic = "news castle pull salmon office gift tiger antenna open address key hold";
+var mnemonic = "game slice arctic winner injury dwarf clog beyond soft final ginger teach";

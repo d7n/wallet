@@ -1,1 +1,1 @@
-var mnemonic = "swift under cool alone never fiction cover three prosper typical frog ice";
+var mnemonic = "pave shed muffin language also tell actress hour crystal adjust orphan captain";

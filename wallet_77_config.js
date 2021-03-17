@@ -1,1 +1,1 @@
-var mnemonic = "team deny lamp slender federal fish solve cupboard where lecture bar before";
+var mnemonic = "embody agent myself cotton harbor expect century report quick cook table carpet";

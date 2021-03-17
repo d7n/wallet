@@ -1,1 +1,1 @@
-var mnemonic = "cause outer ribbon clown such fossil blind unlock antique light indicate portion";
+var mnemonic = "mind piano powder ritual basic grit trophy loud bundle baby crime stereo";

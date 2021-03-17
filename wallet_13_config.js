@@ -1,1 +1,1 @@
-var mnemonic = "flee way execute absent other blue solution else jar vocal switch pulp";
+var mnemonic = "broom daring type citizen lady hollow federal neck fossil lounge assault envelope";

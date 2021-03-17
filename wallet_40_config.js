@@ -1,1 +1,1 @@
-var mnemonic = "pupil float custom jaguar kit magic again elbow unlock start task bird";
+var mnemonic = "project song scare text quit enjoy favorite rule canal view gentle pencil";

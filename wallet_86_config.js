@@ -1,1 +1,1 @@
-var mnemonic = "fatal work cinnamon margin valve dismiss sheriff salon arrest second harsh admit";
+var mnemonic = "crop weasel game pond race isolate net stove tragic note cereal genius";

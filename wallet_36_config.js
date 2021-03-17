@@ -1,1 +1,1 @@
-var mnemonic = "document verb stumble scare solar spot area bike pull father nothing leave";
+var mnemonic = "normal inflict submit gun parrot uphold caught fortune social library grid deal";

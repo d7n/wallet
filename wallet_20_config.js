@@ -1,1 +1,1 @@
-var mnemonic = "enter cup deposit liar seat suspect daring era mass minor metal bronze";
+var mnemonic = "now anger weird one price donor evolve mango firm edit sudden rural";

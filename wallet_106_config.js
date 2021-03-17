@@ -1,1 +1,1 @@
-var mnemonic = "assault useless off allow actor merit train alone sick alien fade federal";
+var mnemonic = "town uncover mercy supreme alone unveil brother rail blade green waste student";

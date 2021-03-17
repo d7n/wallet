@@ -1,1 +1,1 @@
-var mnemonic = "inflict initial rug frown mail few finger scale mother blame photo slow";
+var mnemonic = "explain hazard galaxy catalog glimpse ahead forget sick junior scout dance sort";

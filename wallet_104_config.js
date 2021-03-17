@@ -1,1 +1,1 @@
-var mnemonic = "wagon skull fashion auto father major enact talent genius tonight portion holiday";
+var mnemonic = "actual segment awesome milk vicious social crowd dignity stairs transfer pony advice";

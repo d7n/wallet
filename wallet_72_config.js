@@ -1,1 +1,1 @@
-var mnemonic = "mind wolf soccer annual old box travel first term clarify eyebrow certain";
+var mnemonic = "ski push forward visual power sauce dynamic lemon slot capable flight glow";

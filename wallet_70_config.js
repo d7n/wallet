@@ -1,1 +1,1 @@
-var mnemonic = "alarm talent cause fence lady angle skin palace diesel minimum flag cage";
+var mnemonic = "film body juice ranch artist license canvas upgrade eagle cannon illegal assault";

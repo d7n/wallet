@@ -1,1 +1,1 @@
-var mnemonic = "stage nuclear giant churn girl again version arrest lizard vast frost produce";
+var mnemonic = "law flower silly initial gloom symptom improve try world make artist hurdle";

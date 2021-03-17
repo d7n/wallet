@@ -1,1 +1,1 @@
-var mnemonic = "fragile lazy brisk giant prevent number giraffe truth hover sauce smart awful";
+var mnemonic = "focus apart false happy web execute easy slam service regret measure annual";

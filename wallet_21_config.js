@@ -1,1 +1,1 @@
-var mnemonic = "glory peace alcohol island ethics exhaust economy brown slide pottery accident method";
+var mnemonic = "birth weird cram glide auction congress tenant cash tobacco reduce symptom forward";

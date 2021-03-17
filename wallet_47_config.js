@@ -1,1 +1,1 @@
-var mnemonic = "cost guard accuse gadget fat print web analyst beyond giggle draft pioneer";
+var mnemonic = "wrestle pact future spread emerge cage excess autumn whip grunt horn random";

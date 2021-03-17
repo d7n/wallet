@@ -1,1 +1,1 @@
-var mnemonic = "choice fork glow subway basket decade success turn notable imitate cup special";
+var mnemonic = "early robust disagree book coffee juice purpose stove fork best gentle lumber";

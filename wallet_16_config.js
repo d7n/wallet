@@ -1,1 +1,1 @@
-var mnemonic = "final surround vessel prosper caution clown guard cloud fiber endorse stuff cute";
+var mnemonic = "riot knee deal satoshi ugly answer donkey lift artwork tortoise beyond brass";

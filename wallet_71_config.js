@@ -1,1 +1,1 @@
-var mnemonic = "fee shell slight govern talk mountain reunion aspect frown actor strike evil";
+var mnemonic = "offer wrist foam spray moon absurd talent walk use veteran health album";

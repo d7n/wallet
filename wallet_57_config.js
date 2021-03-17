@@ -1,1 +1,1 @@
-var mnemonic = "silk rival owner erase goat flower crazy cement double truly below midnight";
+var mnemonic = "often crucial twice bridge unveil achieve badge unit anxiety negative jungle gossip";

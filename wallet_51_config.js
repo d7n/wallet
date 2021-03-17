@@ -1,1 +1,1 @@
-var mnemonic = "canoe heart discover acquire crew hotel muscle valid best salute obey drop";
+var mnemonic = "employ taste kid rival bread idle salad figure illegal dentist stick rice";

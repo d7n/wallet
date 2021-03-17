@@ -1,1 +1,1 @@
-var mnemonic = "immense electric member icon high devote rib vague pioneer pact physical famous";
+var mnemonic = "rack example group arena bounce insect setup theory rifle crime rival topple";

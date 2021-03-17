@@ -1,1 +1,1 @@
-var mnemonic = "creek conduct rocket magnet innocent double west unit toward assume assist liberty";
+var mnemonic = "solid endless van process oxygen treat enable steak priority talent churn tonight";

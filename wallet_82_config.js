@@ -1,1 +1,1 @@
-var mnemonic = "rather buffalo liquid blanket frost humor enable glad baby hidden reflect whisper";
+var mnemonic = "damp novel stove mountain beyond east wine gym student box shoulder galaxy";

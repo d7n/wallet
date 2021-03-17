@@ -1,1 +1,1 @@
-var mnemonic = "depend law decade swear clutch dune street image reopen promote alien spoon";
+var mnemonic = "always nuclear gown junk bone rhythm lock slim want rug pride isolate";

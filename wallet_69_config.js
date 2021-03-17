@@ -1,1 +1,1 @@
-var mnemonic = "dinner demise risk control pottery blanket bacon song usage party same cabbage";
+var mnemonic = "office soft middle guitar wear list praise frog guard solve crystal soccer";

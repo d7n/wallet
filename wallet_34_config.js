@@ -1,1 +1,1 @@
-var mnemonic = "plug heart hotel age tribe finger knock fame envelope cycle screen decrease";
+var mnemonic = "embody camp brother belt lottery believe luxury order finger monster kangaroo wait";

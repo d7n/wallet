@@ -1,1 +1,1 @@
-var mnemonic = "please frozen assist trophy casino ladder inject spoon day wash steak oyster";
+var mnemonic = "salmon chimney tattoo junior solution conduct reopen maximum host submit one manage";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort animal apple damage work damp virus use physical eager margin copper";
+var mnemonic = "swamp luggage teach index coast cushion axis process staff box stomach pink";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket journey winter exact welcome outer wagon swamp glue exclude open defense";
+var mnemonic = "sick theory defy brick vicious cinnamon choose neutral pencil pair theme foil";

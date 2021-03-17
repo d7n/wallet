@@ -1,1 +1,1 @@
-var mnemonic = "grape dinner admit useless strong quarter smart solar pass tiny satisfy aerobic";
+var mnemonic = "excite ignore winner exact surprise spend attack umbrella slice wool guard radio";

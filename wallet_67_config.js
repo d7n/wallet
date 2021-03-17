@@ -1,1 +1,1 @@
-var mnemonic = "elbow brass trim eight three relief liar hybrid dignity jacket judge slim";
+var mnemonic = "shrimp tissue cheese stadium bracket valid vintage because trouble assault ladder require";

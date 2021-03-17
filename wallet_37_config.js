@@ -1,1 +1,1 @@
-var mnemonic = "vacuum cage loud this enroll fuel love glove dumb load joke wreck";
+var mnemonic = "bitter until net screen strike rebel mandate pause sausage ladder secret taste";

@@ -1,1 +1,1 @@
-var mnemonic = "stove tomato clinic broom educate lobster lawsuit cost tuition trust emerge feature";
+var mnemonic = "scout gap puppy puzzle coach moment ankle reason aim exact mirror silly";

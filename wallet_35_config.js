@@ -1,1 +1,1 @@
-var mnemonic = "swift cupboard hamster nothing clog clinic alert share merry divorce winner act";
+var mnemonic = "bracket bargain motor wait path best license squeeze permit bunker alter emerge";

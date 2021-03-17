@@ -1,1 +1,1 @@
-var mnemonic = "mix annual harsh shallow emotion primary draft blame robust runway sight inner";
+var mnemonic = "consider isolate fly miss mercy alpha keep double blood object venue skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel farm nurse pride will twelve wisdom busy quiz asthma tilt mechanic";
+var mnemonic = "rubber shallow clinic elevator blue little live wagon entire only tray disorder";

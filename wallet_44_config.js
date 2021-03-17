@@ -1,1 +1,1 @@
-var mnemonic = "evolve kick garment inquiry meadow snake tourist flip mind list mystery supply";
+var mnemonic = "grit tackle auction moment prefer art edit lock produce arrow mango wheat";

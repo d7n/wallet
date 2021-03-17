@@ -1,1 +1,1 @@
-var mnemonic = "vague busy fold sail pattern leopard essay ability exhaust sun core atom";
+var mnemonic = "sell shine vibrant rather tackle organ network bundle inmate film toward recall";

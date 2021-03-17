@@ -1,1 +1,1 @@
-var mnemonic = "detect tornado thought link message reopen suffer dutch permit rail royal leg";
+var mnemonic = "exclude silver fragile laugh increase good obvious ladder federal judge connect goddess";

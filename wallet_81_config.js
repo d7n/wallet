@@ -1,1 +1,1 @@
-var mnemonic = "shed provide economy claim slogan boat rice laugh melody level suffer delay";
+var mnemonic = "nasty best opinion marriage network hundred divert slight okay please amused absent";

@@ -1,1 +1,1 @@
-var mnemonic = "quick forum hire virus shop glance apple gesture absent clean snake crazy";
+var mnemonic = "dial tortoise column skin cage turn host crawl moment swim afford flock";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom zebra adapt fabric fashion friend fog tragic injury gorilla brick pitch";
+var mnemonic = "later ignore ecology lesson educate vintage junior purpose endless teach mystery unaware";

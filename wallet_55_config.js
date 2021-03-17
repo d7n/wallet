@@ -1,1 +1,1 @@
-var mnemonic = "coast book quote region drastic cactus race relief very scatter oyster theme";
+var mnemonic = "guitar original quiz economy tackle calm tower square reject mosquito air strong";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch flee devote park old tragic rigid furnace deny indicate grunt teach";
+var mnemonic = "file mind suit submit wine gate artefact inside wonder isolate cash skin";

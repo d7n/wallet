@@ -1,1 +1,1 @@
-var mnemonic = "veteran roof diesel vessel fan achieve peasant equal gorilla ski lucky position";
+var mnemonic = "space pepper absurd promote coffee broken cement hurdle diet ivory immense debris";

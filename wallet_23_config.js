@@ -1,1 +1,1 @@
-var mnemonic = "annual crawl future gain cash pear plunge bullet violin soldier rubber salute";
+var mnemonic = "script inherit bless govern hospital genuine intact nose script human result upon";

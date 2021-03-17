@@ -1,1 +1,1 @@
-var mnemonic = "erosion twice crumble post black critic vivid estate federal actor treat afford";
+var mnemonic = "property bullet strong work proof mirror glide school era replace protect energy";

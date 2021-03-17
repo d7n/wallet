@@ -1,1 +1,1 @@
-var mnemonic = "latin miss multiply cruel across clutch reveal group civil erupt friend special";
+var mnemonic = "decorate indoor hedgehog wave shell punch rail ticket eternal frozen merge sick";

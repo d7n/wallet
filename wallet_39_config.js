@@ -1,1 +1,1 @@
-var mnemonic = "derive unit eternal roast equal already diesel plunge paddle mosquito vibrant lake";
+var mnemonic = "surge chunk cruise crawl hybrid august veteran lend rice antique term catch";

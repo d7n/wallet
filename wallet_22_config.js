@@ -1,1 +1,1 @@
-var mnemonic = "only bubble dolphin pattern foam miracle jacket alcohol praise bind royal before";
+var mnemonic = "tonight exit sausage drastic stick aerobic orchard lesson hard hero glow mechanic";

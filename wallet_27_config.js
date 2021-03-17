@@ -1,1 +1,1 @@
-var mnemonic = "object tomorrow balance board legend style public electric need disease worth engine";
+var mnemonic = "provide hood opinion panda swing boring symptom mammal oven wreck abandon floor";

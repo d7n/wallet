@@ -1,1 +1,1 @@
-var mnemonic = "stool fee oppose sell clarify gallery train embody shed palace display ill";
+var mnemonic = "return gesture jeans return eye betray merge card sun grant age bicycle";

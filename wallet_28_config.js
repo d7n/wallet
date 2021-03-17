@@ -1,1 +1,1 @@
-var mnemonic = "dress voyage ranch champion chimney sand cheese luggage twelve goddess gallery odor";
+var mnemonic = "tag arrange gauge noble summer taste offer sheriff remove vote fish claw";

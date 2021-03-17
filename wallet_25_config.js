@@ -1,1 +1,1 @@
-var mnemonic = "crack leisure cinnamon common remember mimic ice family beauty solar rookie spray";
+var mnemonic = "vault target loan fresh theory forget general proud snack rice thumb strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "erase soup lock harbor frame bike grape plug toast subject fossil farm";
+var mnemonic = "raccoon panther donkey bless maze slice ethics stomach wave test upgrade prize";

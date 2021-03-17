@@ -1,1 +1,1 @@
-var mnemonic = "pretty tackle cactus wedding chaos outdoor knee fire captain flock kite rice";
+var mnemonic = "reason orient stairs crazy already riot night below prevent lounge market hockey";

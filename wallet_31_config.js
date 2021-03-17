@@ -1,1 +1,1 @@
-var mnemonic = "paper box ship patch tube duck glad federal december element chief consider";
+var mnemonic = "onion sock chair team luggage treat south valve trial rebuild vivid wolf";

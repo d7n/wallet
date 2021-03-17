@@ -1,1 +1,1 @@
-var mnemonic = "wage bread note assume casino flower clerk best chair shine tissue abstract";
+var mnemonic = "oyster pulp alien jelly divorce live leaf found endorse inform clinic absorb";

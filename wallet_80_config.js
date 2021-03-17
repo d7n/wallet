@@ -1,1 +1,1 @@
-var mnemonic = "reject double health glimpse cruise sausage shift ancient language bid ivory trigger";
+var mnemonic = "until else creek chimney insane logic ankle mansion dance program cherry pepper";

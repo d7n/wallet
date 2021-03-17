@@ -1,1 +1,1 @@
-var mnemonic = "public youth price chronic approve purity east potato dial potato expose crowd";
+var mnemonic = "puppy creek monkey decide swear town repeat diamond stone patch stage false";

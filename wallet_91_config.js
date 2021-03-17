@@ -1,1 +1,1 @@
-var mnemonic = "ring verb tumble shy hair maximum modify final virtual anxiety glow cloth";
+var mnemonic = "imitate spawn ensure robust anchor skate vague what picture punch door pull";

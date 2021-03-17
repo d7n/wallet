@@ -1,1 +1,1 @@
-var mnemonic = "pretty distance raven tip scatter load much hungry weather panther grow staff";
+var mnemonic = "verb front wheat curious vivid merge gallery hawk knock river apology argue";

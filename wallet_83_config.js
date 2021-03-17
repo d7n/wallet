@@ -1,1 +1,1 @@
-var mnemonic = "essence pill knife yard glad ritual ball weather forest diesel follow report";
+var mnemonic = "reunion material donate cattle divert regular police return same rally cigar wagon";

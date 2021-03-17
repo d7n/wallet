@@ -1,1 +1,1 @@
-var mnemonic = "memory menu nurse pet east hollow play slight minor web cry execute";
+var mnemonic = "moon pretty body apple swim connect habit extra peasant they ramp sand";

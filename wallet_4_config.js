@@ -1,1 +1,1 @@
-var mnemonic = "amount phrase green great follow latin engine carbon best dash close wood";
+var mnemonic = "royal decline rebuild fall fall grab soldier enlist door benefit market tribe";

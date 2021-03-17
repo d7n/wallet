@@ -1,1 +1,1 @@
-var mnemonic = "battle fun violin coyote suit zebra water urge exist express mixture february";
+var mnemonic = "creek idea throw secret used observe candy begin hidden segment address twin";

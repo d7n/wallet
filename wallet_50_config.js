@@ -1,1 +1,1 @@
-var mnemonic = "amount volume mystery clip follow old dwarf dirt solar family tooth vintage";
+var mnemonic = "assist update enough blanket one trick fantasy friend keen muffin jaguar glare";

@@ -1,1 +1,1 @@
-var mnemonic = "speak stomach range brand once deliver sauce credit pluck survey melody hunt";
+var mnemonic = "great fix trash dolphin culture valve waste still garage ramp suffer april";

@@ -1,1 +1,1 @@
-var mnemonic = "learn eager happy gun weekend quit crack summer boy muffin vicious library";
+var mnemonic = "faith play gauge planet quantum cradle congress six pill absorb disease settle";

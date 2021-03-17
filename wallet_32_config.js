@@ -1,1 +1,1 @@
-var mnemonic = "grace garage net clean boring creek regret cube mention situate globe dash";
+var mnemonic = "private birth flock donkey move this knee rare yellow smoke foil avoid";

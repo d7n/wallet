@@ -1,1 +1,1 @@
-var mnemonic = "bullet media stay donate seven wish wire control pigeon review acquire limit";
+var mnemonic = "slogan mechanic typical room mixture pulse dinosaur mosquito mandate wear cruise solar";

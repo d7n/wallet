@@ -1,1 +1,1 @@
-var mnemonic = "message detail action manage emotion mask stable erode target unknown require file";
+var mnemonic = "cook dress oil very tonight broken mass frown assist bundle shoot hunt";

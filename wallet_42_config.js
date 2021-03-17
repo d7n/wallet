@@ -1,1 +1,1 @@
-var mnemonic = "stumble abstract stuff confirm drum eternal license tenant forward boy tortoise lift";
+var mnemonic = "depend category lazy naive output salt discover case ensure pulp garlic chase";
