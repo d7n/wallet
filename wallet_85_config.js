@@ -1,1 +1,1 @@
-var mnemonic = "virtual surround lyrics later august ring kidney execute inflict coast lady grace";
+var mnemonic = "buzz current beach pair prize leisure mask physical call animal area obscure";

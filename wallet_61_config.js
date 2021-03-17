@@ -1,1 +1,1 @@
-var mnemonic = "law flower silly initial gloom symptom improve try world make artist hurdle";
+var mnemonic = "scorpion flush kid various shuffle tortoise hub leg vendor nerve regular rabbit";

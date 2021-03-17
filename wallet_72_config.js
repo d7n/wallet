@@ -1,1 +1,1 @@
-var mnemonic = "ski push forward visual power sauce dynamic lemon slot capable flight glow";
+var mnemonic = "there gold oxygen forest because suggest banner ginger trust exclude method story";

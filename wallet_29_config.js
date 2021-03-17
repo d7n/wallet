@@ -1,1 +1,1 @@
-var mnemonic = "gloom envelope spike upgrade inside deal crawl people unfold inside symbol grit";
+var mnemonic = "unusual nerve sniff produce truth argue trick law fury wire number welcome";

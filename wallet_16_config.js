@@ -1,1 +1,1 @@
-var mnemonic = "riot knee deal satoshi ugly answer donkey lift artwork tortoise beyond brass";
+var mnemonic = "wrong large today width census thunder almost dragon lunar usage ring club";

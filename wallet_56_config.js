@@ -1,1 +1,1 @@
-var mnemonic = "raccoon panther donkey bless maze slice ethics stomach wave test upgrade prize";
+var mnemonic = "wrong live park coach color depart chair taxi what omit punch inner";

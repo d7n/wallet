@@ -1,1 +1,1 @@
-var mnemonic = "vault target loan fresh theory forget general proud snack rice thumb strategy";
+var mnemonic = "shield you wing minor talent jaguar thrive smooth child hand bar dwarf";

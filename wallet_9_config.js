@@ -1,1 +1,1 @@
-var mnemonic = "oyster pulp alien jelly divorce live leaf found endorse inform clinic absorb";
+var mnemonic = "slight diagram egg glad among tragic shock category claw estate divide pistol";

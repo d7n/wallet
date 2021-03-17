@@ -1,1 +1,1 @@
-var mnemonic = "buddy very submit opinion bachelor bunker clock safe field vote blush interest";
+var mnemonic = "whisper gift cabin shy author auction drift athlete zone range antenna worry";

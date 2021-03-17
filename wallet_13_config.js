@@ -1,1 +1,1 @@
-var mnemonic = "broom daring type citizen lady hollow federal neck fossil lounge assault envelope";
+var mnemonic = "gentle bounce above job daring unknown pyramid resource warm service castle barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "focus apart false happy web execute easy slam service regret measure annual";
+var mnemonic = "destroy family fuel real balcony ahead horn wave income focus odor juice";

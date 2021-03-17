@@ -1,1 +1,1 @@
-var mnemonic = "reunion material donate cattle divert regular police return same rally cigar wagon";
+var mnemonic = "ladder peanut burger unveil quit great atom indoor harvest portion pilot entire";

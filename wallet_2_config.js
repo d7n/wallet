@@ -1,1 +1,1 @@
-var mnemonic = "clog drip large genuine shove album noise all trend kitchen license derive";
+var mnemonic = "key genre close width enjoy useful faculty grow debris scene lesson immense";

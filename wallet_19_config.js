@@ -1,1 +1,1 @@
-var mnemonic = "assist warm theme business zone ghost question salmon garden nerve express hammer";
+var mnemonic = "cupboard damage fiscal voice penalty symptom advice panel stage acoustic movie token";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude silver fragile laugh increase good obvious ladder federal judge connect goddess";
+var mnemonic = "setup upon illness review two that used near mandate teach polar put";

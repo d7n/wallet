@@ -1,1 +1,1 @@
-var mnemonic = "excite ignore winner exact surprise spend attack umbrella slice wool guard radio";
+var mnemonic = "special grab side light grape upon priority orient output trial talk column";

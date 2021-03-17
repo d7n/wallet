@@ -1,1 +1,1 @@
-var mnemonic = "royal decline rebuild fall fall grab soldier enlist door benefit market tribe";
+var mnemonic = "snack label cactus era usage girl myself swing census hat curve hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "super peanut text forest report chuckle water abuse fence alone ensure movie";
+var mnemonic = "essence flash maze world excess cash blood horror better voyage drill burst";

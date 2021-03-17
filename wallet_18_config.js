@@ -1,1 +1,1 @@
-var mnemonic = "file mind suit submit wine gate artefact inside wonder isolate cash skin";
+var mnemonic = "upper depart venture sugar reduce toy neither assist safe kitten stock waste";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon chimney tattoo junior solution conduct reopen maximum host submit one manage";
+var mnemonic = "shine unlock year cave ritual oven upset clap north ritual wolf gym";

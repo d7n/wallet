@@ -1,1 +1,1 @@
-var mnemonic = "latin dove unusual blue ordinary ketchup jelly giggle simple claim sample sea";
+var mnemonic = "pioneer hurry burst zero ill hole flee correct degree clock coyote antenna";

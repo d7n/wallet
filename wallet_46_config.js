@@ -1,1 +1,1 @@
-var mnemonic = "twice bridge sorry still observe six net girl elephant quarter assist switch";
+var mnemonic = "citizen basket scatter math color nose sound multiply bird elegant turn canyon";

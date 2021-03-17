@@ -1,1 +1,1 @@
-var mnemonic = "island wire pistol decade mistake hybrid boy fix sweet forest lab scissors";
+var mnemonic = "garlic deliver into smoke found round refuse square orange time damage never";

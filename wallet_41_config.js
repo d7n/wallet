@@ -1,1 +1,1 @@
-var mnemonic = "rack example group arena bounce insect setup theory rifle crime rival topple";
+var mnemonic = "purse because loud treat reward blouse length nurse system dinosaur globe magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "return gesture jeans return eye betray merge card sun grant age bicycle";
+var mnemonic = "layer result bronze already innocent narrow please change rifle brief stone panther";

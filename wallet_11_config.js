@@ -1,1 +1,1 @@
-var mnemonic = "sail inspire assume video thrive craft imitate want mule bamboo blush rain";
+var mnemonic = "eye luxury force task diesel enable put betray way frown knee morning";

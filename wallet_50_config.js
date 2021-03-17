@@ -1,1 +1,1 @@
-var mnemonic = "assist update enough blanket one trick fantasy friend keen muffin jaguar glare";
+var mnemonic = "orchard universe bunker gravity trend fog fitness around rookie puzzle task post";

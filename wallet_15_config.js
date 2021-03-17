@@ -1,1 +1,1 @@
-var mnemonic = "decorate indoor hedgehog wave shell punch rail ticket eternal frozen merge sick";
+var mnemonic = "forget fantasy game general problem more punch couple coin crowd rebel online";

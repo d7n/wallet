@@ -1,1 +1,1 @@
-var mnemonic = "solid endless van process oxygen treat enable steak priority talent churn tonight";
+var mnemonic = "midnight must steel cave attack broccoli warrior tilt actor filter follow swarm";

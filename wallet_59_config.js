@@ -1,1 +1,1 @@
-var mnemonic = "benefit chunk resist evil subject owner timber exit transfer trophy cannon motor";
+var mnemonic = "potato fire mix library case sight zero sense smart tray add flush";

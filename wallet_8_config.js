@@ -1,1 +1,1 @@
-var mnemonic = "trend rally hire cigar nominee place memory enact castle radio combine essay";
+var mnemonic = "exile tent card melody tuna dress enforce memory pilot ten memory tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "delay hour stay ranch adapt cram group manage sad adapt trade recipe";
+var mnemonic = "shed acoustic art violin process creek smooth exhaust drama section file cliff";

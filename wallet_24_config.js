@@ -1,1 +1,1 @@
-var mnemonic = "explain hazard galaxy catalog glimpse ahead forget sick junior scout dance sort";
+var mnemonic = "reason replace lobster scan ghost antenna evil nation door nothing lucky equip";

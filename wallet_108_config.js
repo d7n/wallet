@@ -1,1 +1,1 @@
-var mnemonic = "game slice arctic winner injury dwarf clog beyond soft final ginger teach";
+var mnemonic = "into edit adjust cushion toast song peasant dumb access wing hobby mobile";

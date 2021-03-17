@@ -1,1 +1,1 @@
-var mnemonic = "reason orient stairs crazy already riot night below prevent lounge market hockey";
+var mnemonic = "impact stage hour close butter embrace put move crime drill index rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter until net screen strike rebel mandate pause sausage ladder secret taste";
+var mnemonic = "garment tackle wage post ignore pilot motor frozen crumble hockey vote inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose erase human invite frozen render outside lion display credit slot century";
+var mnemonic = "benefit can bargain pelican mom kitchen gather equip anxiety offer devote frequent";

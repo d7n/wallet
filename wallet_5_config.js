@@ -1,1 +1,1 @@
-var mnemonic = "that milk wire pizza hold kitchen pioneer goat lawsuit agree fringe film";
+var mnemonic = "brass scatter romance kit twice turn cotton surge hint toy mind distance";

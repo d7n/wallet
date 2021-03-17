@@ -1,1 +1,1 @@
-var mnemonic = "wrestle pact future spread emerge cage excess autumn whip grunt horn random";
+var mnemonic = "immense just pulp license seed inflict prize crawl ten hawk copper excess";

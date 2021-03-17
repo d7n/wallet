@@ -1,1 +1,1 @@
-var mnemonic = "slogan mechanic typical room mixture pulse dinosaur mosquito mandate wear cruise solar";
+var mnemonic = "code north gorilla narrow light tomorrow case pen room capital primary video";

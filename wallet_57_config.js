@@ -1,1 +1,1 @@
-var mnemonic = "often crucial twice bridge unveil achieve badge unit anxiety negative jungle gossip";
+var mnemonic = "cause exist trouble interest point stone diamond gravity fire improve nasty knife";

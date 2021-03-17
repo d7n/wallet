@@ -1,1 +1,1 @@
-var mnemonic = "private birth flock donkey move this knee rare yellow smoke foil avoid";
+var mnemonic = "render resemble total spread grant cinnamon empty control warfare satoshi affair leg";

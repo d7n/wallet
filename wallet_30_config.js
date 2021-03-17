@@ -1,1 +1,1 @@
-var mnemonic = "great fix trash dolphin culture valve waste still garage ramp suffer april";
+var mnemonic = "deer spice thing wonder tomato question regret obey course skull cliff laugh";

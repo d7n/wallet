@@ -1,1 +1,1 @@
-var mnemonic = "onion sock chair team luggage treat south valve trial rebuild vivid wolf";
+var mnemonic = "thank aunt laptop visit people weird staff frame wrist equal alert flush";

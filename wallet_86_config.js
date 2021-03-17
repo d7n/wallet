@@ -1,1 +1,1 @@
-var mnemonic = "crop weasel game pond race isolate net stove tragic note cereal genius";
+var mnemonic = "amount run annual search autumn immense near fabric lucky want merge multiply";

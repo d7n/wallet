@@ -1,1 +1,1 @@
-var mnemonic = "squeeze evolve dignity disease quantum soul ocean moon depth feature long anxiety";
+var mnemonic = "aisle defy sustain giraffe embody close lamp cement wait dilemma snap tackle";

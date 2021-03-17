@@ -1,1 +1,1 @@
-var mnemonic = "project song scare text quit enjoy favorite rule canal view gentle pencil";
+var mnemonic = "during parrot chaos round employ awesome erosion edge home firm place alter";

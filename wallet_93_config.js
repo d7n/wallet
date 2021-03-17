@@ -1,1 +1,1 @@
-var mnemonic = "diamond punch sausage butter either today spray element wire snake parade lyrics";
+var mnemonic = "caution man nature slow city neither charge link calm garden pass park";

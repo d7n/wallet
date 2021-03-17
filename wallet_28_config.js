@@ -1,1 +1,1 @@
-var mnemonic = "tag arrange gauge noble summer taste offer sheriff remove vote fish claw";
+var mnemonic = "imitate arrange core faculty emerge usage level seek island park blast rifle";

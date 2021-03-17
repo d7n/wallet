@@ -1,1 +1,1 @@
-var mnemonic = "series impulse judge lift zoo ticket what forum trophy jewel forum install";
+var mnemonic = "creek naive pause iron stable melt into bless polar cute wing patient";

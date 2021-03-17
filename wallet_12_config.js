@@ -1,1 +1,1 @@
-var mnemonic = "faith play gauge planet quantum cradle congress six pill absorb disease settle";
+var mnemonic = "stay spell purity flush refuse gift real turkey find waste inflict answer";

@@ -1,1 +1,1 @@
-var mnemonic = "script inherit bless govern hospital genuine intact nose script human result upon";
+var mnemonic = "pulse student put duty wrist cream what stool ball narrow trick quit";

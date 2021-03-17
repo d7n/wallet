@@ -1,1 +1,1 @@
-var mnemonic = "shrimp tissue cheese stadium bracket valid vintage because trouble assault ladder require";
+var mnemonic = "hungry slice pair arrive deputy purchase humble shy index wheel angle arena";

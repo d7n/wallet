@@ -1,1 +1,1 @@
-var mnemonic = "offer wrist foam spray moon absurd talent walk use veteran health album";
+var mnemonic = "air love sponsor cotton crucial often genre omit visual kingdom clever maze";

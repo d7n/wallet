@@ -1,1 +1,1 @@
-var mnemonic = "until else creek chimney insane logic ankle mansion dance program cherry pepper";
+var mnemonic = "jacket knee behind pudding rabbit absorb gravity boost survey month message burden";

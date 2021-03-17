@@ -1,1 +1,1 @@
-var mnemonic = "jazz nominee broom motion ancient glare vehicle insect fence flavor that dwarf";
+var mnemonic = "raise absent gasp rigid glue caught among relief grass base matter bacon";

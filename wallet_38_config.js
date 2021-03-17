@@ -1,1 +1,1 @@
-var mnemonic = "property bullet strong work proof mirror glide school era replace protect energy";
+var mnemonic = "shield true subway hedgehog luggage radio pistol major will enemy decrease thumb";

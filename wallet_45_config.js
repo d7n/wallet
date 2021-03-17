@@ -1,1 +1,1 @@
-var mnemonic = "odor bulb balance sign power member denial now blade firm track impose";
+var mnemonic = "family room tuition mushroom rely glare rebel logic beef rabbit stone another";

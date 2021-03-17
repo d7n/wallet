@@ -1,1 +1,1 @@
-var mnemonic = "unfair goddess punch hood sausage trumpet alter lonely type vapor subway panel";
+var mnemonic = "argue comic vehicle horror address donate route blood furnace sponsor embark auction";

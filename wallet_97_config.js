@@ -1,1 +1,1 @@
-var mnemonic = "creek idea throw secret used observe candy begin hidden segment address twin";
+var mnemonic = "knock initial aspect behave nuclear tourist aisle relief alone broccoli seven true";

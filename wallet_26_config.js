@@ -1,1 +1,1 @@
-var mnemonic = "duty extra fabric release fault mechanic machine limit suggest fossil accuse dad";
+var mnemonic = "pledge bar fragile shrug inform balcony shoulder leader episode purpose island deliver";

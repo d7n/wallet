@@ -1,1 +1,1 @@
-var mnemonic = "swamp luggage teach index coast cushion axis process staff box stomach pink";
+var mnemonic = "slot siren client pipe whale else boring crisp crime stumble box blind";

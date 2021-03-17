@@ -1,1 +1,1 @@
-var mnemonic = "now anger weird one price donor evolve mango firm edit sudden rural";
+var mnemonic = "aware enjoy shoulder brief people sample coach capable fade drink more sorry";

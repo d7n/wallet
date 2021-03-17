@@ -1,1 +1,1 @@
-var mnemonic = "guitar original quiz economy tackle calm tower square reject mosquito air strong";
+var mnemonic = "furnace october entry cute wife capable author pioneer toss tragic myself credit";

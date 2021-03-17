@@ -1,1 +1,1 @@
-var mnemonic = "gap mad melt early enforce useful smooth differ upper raven cushion grant";
+var mnemonic = "fish tiny march shiver silver destroy fatigue skull worry bid holiday forest";

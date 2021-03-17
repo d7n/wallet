@@ -1,1 +1,1 @@
-var mnemonic = "series impact prison foster canvas ride ten pause language unable paddle inmate";
+var mnemonic = "master enemy drum stadium nephew infant path learn eight disorder dice defy";

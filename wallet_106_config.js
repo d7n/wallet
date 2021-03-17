@@ -1,1 +1,1 @@
-var mnemonic = "town uncover mercy supreme alone unveil brother rail blade green waste student";
+var mnemonic = "october turtle peasant bar false wrestle feel vicious brick tongue square mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "early robust disagree book coffee juice purpose stove fork best gentle lumber";
+var mnemonic = "world impose buyer unfair patient clay wrong evoke tongue monkey tag choose";

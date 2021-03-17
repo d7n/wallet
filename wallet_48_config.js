@@ -1,1 +1,1 @@
-var mnemonic = "concert market kidney turkey siege vapor ship upon then trouble swamp symbol";
+var mnemonic = "isolate click click glimpse cancel strong clip receive olympic lesson forward gain";

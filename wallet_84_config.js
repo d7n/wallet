@@ -1,1 +1,1 @@
-var mnemonic = "verb front wheat curious vivid merge gallery hawk knock river apology argue";
+var mnemonic = "place coyote immune machine behind crowd media cactus near gossip episode error";

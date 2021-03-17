@@ -1,1 +1,1 @@
-var mnemonic = "later ignore ecology lesson educate vintage junior purpose endless teach mystery unaware";
+var mnemonic = "private three need wife sibling grit bird drip net giant image caution";

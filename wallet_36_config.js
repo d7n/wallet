@@ -1,1 +1,1 @@
-var mnemonic = "normal inflict submit gun parrot uphold caught fortune social library grid deal";
+var mnemonic = "defense monster parrot unfold shy autumn gaze fortune push erase celery below";

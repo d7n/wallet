@@ -1,1 +1,1 @@
-var mnemonic = "office soft middle guitar wear list praise frog guard solve crystal soccer";
+var mnemonic = "disease logic deal slide shove wisdom bachelor lawsuit hurdle crash level one";

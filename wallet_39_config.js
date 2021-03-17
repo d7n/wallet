@@ -1,1 +1,1 @@
-var mnemonic = "surge chunk cruise crawl hybrid august veteran lend rice antique term catch";
+var mnemonic = "air globe unlock indicate emerge winter crawl mechanic whale fresh rose movie";

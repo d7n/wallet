@@ -1,1 +1,1 @@
-var mnemonic = "cook dress oil very tonight broken mass frown assist bundle shoot hunt";
+var mnemonic = "order exclude blouse later table seat bench spoon term push option detect";

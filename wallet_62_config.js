@@ -1,1 +1,1 @@
-var mnemonic = "dial tortoise column skin cage turn host crawl moment swim afford flock";
+var mnemonic = "behave trim mystery best oil swarm deal book leisure round bitter prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "pass cash team fold round fiction club attitude gesture again public income";
+var mnemonic = "naive february vivid weekend glad chase analyst cat globe chef funny hockey";

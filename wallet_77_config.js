@@ -1,1 +1,1 @@
-var mnemonic = "embody agent myself cotton harbor expect century report quick cook table carpet";
+var mnemonic = "tomorrow polar box leg sword treat tag weasel enemy demise comfort carbon";

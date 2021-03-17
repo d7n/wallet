@@ -1,1 +1,1 @@
-var mnemonic = "ill loop draw dismiss retreat mask method dice heart rescue silk twist";
+var mnemonic = "maximum phrase resource deer book saddle cloth fitness dilemma coral tissue juice";

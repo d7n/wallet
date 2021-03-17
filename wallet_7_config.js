@@ -1,1 +1,1 @@
-var mnemonic = "mind piano powder ritual basic grit trophy loud bundle baby crime stereo";
+var mnemonic = "victory fatal banana oak hood move knee climb ceiling frown grunt fury";

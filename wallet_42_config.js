@@ -1,1 +1,1 @@
-var mnemonic = "depend category lazy naive output salt discover case ensure pulp garlic chase";
+var mnemonic = "law plug ramp mimic sentence whip cherry butter resource bless will keen";

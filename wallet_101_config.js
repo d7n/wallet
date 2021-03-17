@@ -1,1 +1,1 @@
-var mnemonic = "sell shine vibrant rather tackle organ network bundle inmate film toward recall";
+var mnemonic = "ceiling merit office vault gift sing donate tourist order smoke manage bar";

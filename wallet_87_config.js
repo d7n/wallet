@@ -1,1 +1,1 @@
-var mnemonic = "pave shed muffin language also tell actress hour crystal adjust orphan captain";
+var mnemonic = "physical parrot forest mutual depart again mule road throw attract mixed clip";

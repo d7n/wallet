@@ -1,1 +1,1 @@
-var mnemonic = "damp novel stove mountain beyond east wine gym student box shoulder galaxy";
+var mnemonic = "stock around inside prefer robust fan large hospital organ coach occur entry";

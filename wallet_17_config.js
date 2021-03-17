@@ -1,1 +1,1 @@
-var mnemonic = "rubber shallow clinic elevator blue little live wagon entire only tray disorder";
+var mnemonic = "flower suit display aisle coast pepper south trouble warrior potato maze during";

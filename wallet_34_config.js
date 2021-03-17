@@ -1,1 +1,1 @@
-var mnemonic = "embody camp brother belt lottery believe luxury order finger monster kangaroo wait";
+var mnemonic = "chest vendor toilet increase crop rotate man merry unveil memory update staff";

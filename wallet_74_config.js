@@ -1,1 +1,1 @@
-var mnemonic = "moon pretty body apple swim connect habit extra peasant they ramp sand";
+var mnemonic = "deposit supreme custom cat glance history sustain smile hen half distance immense";

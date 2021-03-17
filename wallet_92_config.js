@@ -1,1 +1,1 @@
-var mnemonic = "educate wasp silk question mix vocal liberty unfold orient oppose toddler april";
+var mnemonic = "ranch release copper good dad sweet slender extend drastic river travel ocean";

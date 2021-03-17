@@ -1,1 +1,1 @@
-var mnemonic = "library primary crunch athlete neck such blood envelope napkin cheese then pelican";
+var mnemonic = "foam artist correct reason swallow wrap make hurry tongue dismiss main sign";

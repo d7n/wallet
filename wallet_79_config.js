@@ -1,1 +1,1 @@
-var mnemonic = "scout gap puppy puzzle coach moment ankle reason aim exact mirror silly";
+var mnemonic = "elite kiss laptop captain weekend pizza find frame rural aerobic soft aisle";

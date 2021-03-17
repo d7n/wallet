@@ -1,1 +1,1 @@
-var mnemonic = "imitate spawn ensure robust anchor skate vague what picture punch door pull";
+var mnemonic = "trigger scale popular remind nurse grain reward smooth wagon snap type shed";

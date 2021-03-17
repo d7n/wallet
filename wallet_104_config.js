@@ -1,1 +1,1 @@
-var mnemonic = "actual segment awesome milk vicious social crowd dignity stairs transfer pony advice";
+var mnemonic = "pottery ignore between bonus sea library draft elbow adult grace way enough";
