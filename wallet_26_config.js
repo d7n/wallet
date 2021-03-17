@@ -1,1 +1,1 @@
-var mnemonic = "arrive neck wonder picnic depart process minor castle know height shallow obvious";
+var mnemonic = "one tilt input frame hip vault inhale panel ill field believe alert";

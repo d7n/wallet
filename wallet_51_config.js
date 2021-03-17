@@ -1,1 +1,1 @@
-var mnemonic = "oxygen session dad hire trust market forget buyer autumn saddle own occur";
+var mnemonic = "mystery olympic garbage suffer turn angry protect beach build lobster exchange region";

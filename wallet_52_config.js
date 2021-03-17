@@ -1,1 +1,1 @@
-var mnemonic = "slim invite unhappy rhythm endorse marble north focus emotion sentence youth era";
+var mnemonic = "soul insane unusual shop lunar garlic obey clump siren north tool volume";

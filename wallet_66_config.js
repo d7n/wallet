@@ -1,1 +1,1 @@
-var mnemonic = "matrix shiver radio sound inner wing trip earth wife decorate earn baby";
+var mnemonic = "virus garlic repair inflict road trap giraffe crouch able punch entire velvet";

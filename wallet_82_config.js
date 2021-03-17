@@ -1,1 +1,1 @@
-var mnemonic = "miss misery cabin trade custom text fetch fortune brush promote stairs area";
+var mnemonic = "life hurry boss only resist ribbon antique rug attack mix grant member";

@@ -1,1 +1,1 @@
-var mnemonic = "island van room velvet sure setup exercise cabin drama good submit bottom";
+var mnemonic = "tomorrow major twice enroll fog margin exact elder orange recycle quantum level";

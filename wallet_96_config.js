@@ -1,1 +1,1 @@
-var mnemonic = "reject ahead correct critic inspire blast reward ordinary cattle expire laptop announce";
+var mnemonic = "allow size quality nasty later napkin install evolve bronze mercy online episode";

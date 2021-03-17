@@ -1,1 +1,1 @@
-var mnemonic = "clay supply stick grain race pulp pull sock tenant account dial kangaroo";
+var mnemonic = "valid jelly jazz act pilot mule either play surge print army craft";

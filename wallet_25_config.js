@@ -1,1 +1,1 @@
-var mnemonic = "argue pretty series future brain double donor taste chimney zebra result slim";
+var mnemonic = "diamond plunge pear globe almost notice abuse profit fancy piece rebuild symbol";

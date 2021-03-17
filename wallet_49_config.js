@@ -1,1 +1,1 @@
-var mnemonic = "retreat surround margin airport foot fever eternal wrong pill hawk memory resemble";
+var mnemonic = "sugar solid chronic usual enroll eye balcony normal poem apple buffalo shell";

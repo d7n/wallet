@@ -1,1 +1,1 @@
-var mnemonic = "canvas melody tell syrup roast security carpet resemble under sense capital hockey";
+var mnemonic = "ramp obey champion cave night destroy empty barely sight armed spider clap";

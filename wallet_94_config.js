@@ -1,1 +1,1 @@
-var mnemonic = "attack promote math junior lyrics equal retreat process shadow session antique belt";
+var mnemonic = "artwork fresh picnic supreme outer spider voyage labor impulse isolate firm travel";

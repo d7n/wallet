@@ -1,1 +1,1 @@
-var mnemonic = "elegant isolate lady myth leopard dose sunny install clerk cradle canvas sister";
+var mnemonic = "suit arctic rely pluck town heart skin size drama echo find anchor";

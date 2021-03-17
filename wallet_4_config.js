@@ -1,1 +1,1 @@
-var mnemonic = "table soft must move hybrid maple appear sibling execute double vivid later";
+var mnemonic = "produce extend absurd moment ancient mesh organ weapon vacuum between snake bacon";

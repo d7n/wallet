@@ -1,1 +1,1 @@
-var mnemonic = "asset town elevator engage reopen tenant timber become cost panic rack town";
+var mnemonic = "popular inmate lawsuit music effort relief render upper amazing lyrics blossom symptom";

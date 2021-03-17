@@ -1,1 +1,1 @@
-var mnemonic = "rate gap fossil defense sunny patch mother chicken wrestle pause hard under";
+var mnemonic = "knock eternal kangaroo rude long gun farm glance tenant knock obtain script";

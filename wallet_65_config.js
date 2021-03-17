@@ -1,1 +1,1 @@
-var mnemonic = "abstract spell predict state harbor air nothing below oval lobster permit food";
+var mnemonic = "palm club firm enlist penalty stage ginger ugly sand vintage firm lift";

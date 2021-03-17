@@ -1,1 +1,1 @@
-var mnemonic = "page gift off pig pizza target bag mandate ginger kiss addict project";
+var mnemonic = "typical second raw candy strategy box believe regret flush teach gasp nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "bright young note vote winner polar voyage mansion crime flip involve scissors";
+var mnemonic = "sock note stumble arena lottery provide odor vanish offer spring screen remember";

@@ -1,1 +1,1 @@
-var mnemonic = "empty duck valve reopen screen face correct leaf brain tackle analyst arctic";
+var mnemonic = "follow essence glance remove enact woman mix grace prison hybrid recall month";

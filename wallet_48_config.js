@@ -1,1 +1,1 @@
-var mnemonic = "concert column forum staff gate shift accident wage mad safe fee trend";
+var mnemonic = "impulse grocery design enrich couple humor win fan calm unknown brain return";

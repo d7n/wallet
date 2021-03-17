@@ -1,1 +1,1 @@
-var mnemonic = "cabbage armed brisk mind grocery run garage hint maze mimic soup shove";
+var mnemonic = "fault actual age suffer lady vendor unique few fade diamond enroll list";

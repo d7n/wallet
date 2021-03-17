@@ -1,1 +1,1 @@
-var mnemonic = "view good wealth zebra fortune ahead carpet error text private become light";
+var mnemonic = "legal violin night grunt wrong brother found situate action excuse shove decide";

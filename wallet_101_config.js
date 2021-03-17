@@ -1,1 +1,1 @@
-var mnemonic = "early champion vague noble save rely try dawn quarter drive velvet frame";
+var mnemonic = "chronic way galaxy honey rain glass chase obey butter slogan faith onion";

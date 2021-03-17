@@ -1,1 +1,1 @@
-var mnemonic = "citizen media enemy fade bronze picnic inch lawsuit dress foster endless group";
+var mnemonic = "crisp powder pencil lawsuit brave seminar industry that local fault limb wheat";

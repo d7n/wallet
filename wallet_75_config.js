@@ -1,1 +1,1 @@
-var mnemonic = "chuckle initial bind mistake fade canvas farm still together thumb obscure spirit";
+var mnemonic = "best shoe certain final play knife depart robust assist uniform act join";

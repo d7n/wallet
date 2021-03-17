@@ -1,1 +1,1 @@
-var mnemonic = "amateur chair vital siren risk mystery fabric guitar cotton hotel live sample";
+var mnemonic = "priority pact shove august gravity enlist until dignity hood impact bar whale";

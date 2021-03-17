@@ -1,1 +1,1 @@
-var mnemonic = "fruit edit style divert lecture clinic convince produce coil wasp admit blood";
+var mnemonic = "hawk seed point game fun forum lawn drama wrong pottery mansion swim";

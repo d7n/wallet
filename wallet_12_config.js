@@ -1,1 +1,1 @@
-var mnemonic = "snack ridge depart enough curtain pioneer all acquire grunt forget crazy supreme";
+var mnemonic = "oyster property rifle ranch token idle city follow try transfer coconut record";

@@ -1,1 +1,1 @@
-var mnemonic = "key cost approve shine south level blush front reunion immune actual plunge";
+var mnemonic = "virtual purity blossom sugar account snow employ ride inmate disagree release vanish";

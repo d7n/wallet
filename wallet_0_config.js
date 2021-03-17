@@ -1,1 +1,1 @@
-var mnemonic = "fit unable what leader spike modify sport oblige shrimp scare close manual";
+var mnemonic = "urge skill admit sorry depart zoo knife shoot warm health phone sugar";

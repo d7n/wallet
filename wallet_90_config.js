@@ -1,1 +1,1 @@
-var mnemonic = "exile current spy police invite never leopard pond popular tree fame fan";
+var mnemonic = "honey medal bulb advance expire wonder marriage mad link casino bulk crawl";

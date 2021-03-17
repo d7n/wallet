@@ -1,1 +1,1 @@
-var mnemonic = "elevator butter resource magnet cream inquiry want retire proof enjoy bread boring";
+var mnemonic = "drastic expect border frost future rival peanut inmate decade door type cluster";

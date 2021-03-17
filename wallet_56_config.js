@@ -1,1 +1,1 @@
-var mnemonic = "electric idea lamp reform force ivory laptop width slam office burst survey";
+var mnemonic = "history ordinary review cart coin police orphan family cook prefer outdoor involve";

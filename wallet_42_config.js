@@ -1,1 +1,1 @@
-var mnemonic = "glance quality pear stomach fog prison sun wheel run rough word baby";
+var mnemonic = "tip misery hint spike identify winter ring defy bread leave gain check";

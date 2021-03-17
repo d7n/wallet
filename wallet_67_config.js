@@ -1,1 +1,1 @@
-var mnemonic = "sport reunion simple mistake deny exhibit result hospital flash give sand glare";
+var mnemonic = "earth supreme kitchen view own use genre worry opera display describe glide";

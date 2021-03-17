@@ -1,1 +1,1 @@
-var mnemonic = "income pistol deputy style lemon crash crush deputy gossip gadget measure tackle";
+var mnemonic = "base cargo winter medal city equip scene rabbit earth glimpse mushroom subway";

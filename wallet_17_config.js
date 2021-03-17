@@ -1,1 +1,1 @@
-var mnemonic = "juice grid engage frown helmet loud nation excess palm mule winner relief";
+var mnemonic = "inside gasp cereal code champion palm snake person panda swing swim trap";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf planet couch bus under same model interest silent biology sell chicken";
+var mnemonic = "retreat pride play exhaust lesson oblige attack grocery cross nuclear agent hurry";

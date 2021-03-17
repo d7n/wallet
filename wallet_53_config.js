@@ -1,1 +1,1 @@
-var mnemonic = "silk analyst match spoil clinic where announce rural elbow forest dad much";
+var mnemonic = "parade recall smile recall add attend primary renew rack fall leopard garage";

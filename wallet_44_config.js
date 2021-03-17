@@ -1,1 +1,1 @@
-var mnemonic = "table tag wool noise concert hint author local analyst economy same company";
+var mnemonic = "balance where scheme brown column canoe flower wealth shop surround letter tent";

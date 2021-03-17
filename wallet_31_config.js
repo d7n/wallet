@@ -1,1 +1,1 @@
-var mnemonic = "private laundry flame piece tomato robust shrug arm ask man elephant jar";
+var mnemonic = "sunset glare fatal jump laundry remain entry announce wedding boil measure witness";

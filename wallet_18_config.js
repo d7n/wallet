@@ -1,1 +1,1 @@
-var mnemonic = "cash century whip wall major major total champion first omit vendor remain";
+var mnemonic = "west penalty price true sleep secret cupboard budget unit exist artist multiply";

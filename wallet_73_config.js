@@ -1,1 +1,1 @@
-var mnemonic = "pool beef strong slam strategy lazy dove brave ethics program inherit garment";
+var mnemonic = "supply run forward joke post hat position drama body sad naive season";

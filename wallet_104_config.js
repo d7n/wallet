@@ -1,1 +1,1 @@
-var mnemonic = "borrow awkward toward scan correct matrix clever follow project intact provide gain";
+var mnemonic = "measure clap day possible traffic rent dizzy consider rack coral duty lottery";

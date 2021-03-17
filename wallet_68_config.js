@@ -1,1 +1,1 @@
-var mnemonic = "wild rebel vital control obtain feed truly neck safe sister teach deal";
+var mnemonic = "wrong road ecology arrow fix program hamster rent enough input mammal neither";

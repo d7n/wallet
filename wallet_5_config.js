@@ -1,1 +1,1 @@
-var mnemonic = "attend engine ceiling people rival network off truth inner patch road crime";
+var mnemonic = "tooth parade giant repair volume bike forest push visual thank science burst";

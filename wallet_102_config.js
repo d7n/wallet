@@ -1,1 +1,1 @@
-var mnemonic = "smart slender jump decorate holiday zebra file record where wage canoe negative";
+var mnemonic = "tell myself supreme shy engage gather fat agent actor sense fringe memory";

@@ -1,1 +1,1 @@
-var mnemonic = "border lizard early impose argue carbon talk rotate list shock spare often";
+var mnemonic = "garbage enable cat devote daring talk labor eager silk bind ring text";

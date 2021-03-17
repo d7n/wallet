@@ -1,1 +1,1 @@
-var mnemonic = "interest fluid problem congress any rather range sheriff slush aspect goddess resist";
+var mnemonic = "predict either vocal parent muscle muscle pitch poverty pool tent soon meadow";

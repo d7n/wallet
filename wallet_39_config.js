@@ -1,1 +1,1 @@
-var mnemonic = "try burst shell trap legal learn emotion super visual retire scheme gather";
+var mnemonic = "bike mandate illegal note roof name piece predict judge average radio social";

@@ -1,1 +1,1 @@
-var mnemonic = "disease wait bronze fortune daughter settle state hard soldier situate animal amused";
+var mnemonic = "raw patch foot board local coral slogan cancel push taste warm assault";

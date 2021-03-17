@@ -1,1 +1,1 @@
-var mnemonic = "neither trash rural mosquito spot address hedgehog blast pull celery delay interest";
+var mnemonic = "farm turn exist hint drill giggle grass electric wage fury luxury myself";

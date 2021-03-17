@@ -1,1 +1,1 @@
-var mnemonic = "gap saddle saddle ozone ugly garbage census joke during spare worry foot";
+var mnemonic = "material lens sun property public fragile crouch salon lend bronze luxury smoke";

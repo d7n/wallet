@@ -1,1 +1,1 @@
-var mnemonic = "vibrant jeans obey menu banana slush fruit road clay push snake viable";
+var mnemonic = "reject dove aim begin lunar news region garment waste hurdle negative turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant worth immense powder carpet toilet wheat pretty glance vote height horse";
+var mnemonic = "wave ramp butter system alter reform melody lens brisk best you captain";

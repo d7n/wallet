@@ -1,1 +1,1 @@
-var mnemonic = "sort cave index park submit maze flavor remove brown guilt cause federal";
+var mnemonic = "argue one hotel kitchen fortune dignity silk menu glass team drill arch";

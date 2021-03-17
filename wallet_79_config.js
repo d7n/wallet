@@ -1,1 +1,1 @@
-var mnemonic = "vacant enhance eyebrow analyst fragile return bind corn grape force few twenty";
+var mnemonic = "gospel junior reform nominee border flip remain crush direct shoulder uncle ring";

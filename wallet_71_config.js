@@ -1,1 +1,1 @@
-var mnemonic = "target blouse trick lyrics thing favorite column jungle manual opera wisdom muffin";
+var mnemonic = "south narrow hover general solve roof fortune blind domain media hen afford";

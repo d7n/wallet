@@ -1,1 +1,1 @@
-var mnemonic = "joke ball author praise chase decrease virtual jaguar solve slice trash diary";
+var mnemonic = "female next denial either drama lake notice air inner art rotate gossip";

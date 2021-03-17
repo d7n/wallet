@@ -1,1 +1,1 @@
-var mnemonic = "boat wolf nephew food neck motor grunt list sleep elegant better moral";
+var mnemonic = "spring water degree private vintage fiber sock secret desk tortoise embody fossil";

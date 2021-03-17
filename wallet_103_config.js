@@ -1,1 +1,1 @@
-var mnemonic = "noble since relax found frost grid nest obscure cereal outdoor virus wink";
+var mnemonic = "matter legal message leg office level bottom pipe medal ketchup image void";

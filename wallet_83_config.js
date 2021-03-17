@@ -1,1 +1,1 @@
-var mnemonic = "strike fatigue input view base nurse chaos borrow rhythm congress sorry expect";
+var mnemonic = "tide scene pet critic snap route custom rain cheese enlist advice daring";

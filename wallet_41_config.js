@@ -1,1 +1,1 @@
-var mnemonic = "weekend march home magnet three force battle glory enough replace runway bronze";
+var mnemonic = "fever stamp possible lion differ hunt proof chapter explain thought gesture lyrics";

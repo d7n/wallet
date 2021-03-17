@@ -1,1 +1,1 @@
-var mnemonic = "basket rabbit club organ chalk trumpet deny exotic model bike struggle dial";
+var mnemonic = "arrange guitar motion topple slot edge distance crazy genuine deposit owner horror";

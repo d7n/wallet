@@ -1,1 +1,1 @@
-var mnemonic = "hole two elite item vicious typical unfair luggage travel diary sketch connect";
+var mnemonic = "accuse aspect case basket dose mistake speed square hotel memory head rifle";

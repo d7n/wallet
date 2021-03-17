@@ -1,1 +1,1 @@
-var mnemonic = "bottom stone whisper wing output deal torch release turn solid volume squeeze";
+var mnemonic = "job nerve glory chase woman umbrella tortoise ensure work alter cup seed";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion admit enable brief normal maximum hover stereo awful sea omit current";
+var mnemonic = "tray arm tragic elder voyage suspect tired multiply link tooth sister bench";

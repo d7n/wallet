@@ -1,1 +1,1 @@
-var mnemonic = "hold pelican riot pilot bonus intact blood pretty vocal frozen negative genre";
+var mnemonic = "when current wool truth aunt nasty correct matrix minor level solve nest";

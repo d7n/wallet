@@ -1,1 +1,1 @@
-var mnemonic = "meat oblige junk crane mix rotate amount about plastic mad figure sweet";
+var mnemonic = "jacket box they rude chimney task armed tag dizzy despair offer cattle";

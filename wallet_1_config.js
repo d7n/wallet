@@ -1,1 +1,1 @@
-var mnemonic = "deliver awesome wheel scorpion diary bullet save phrase same shrug fog true";
+var mnemonic = "forget glance model subway fly fancy zero arrest visit seminar tree ability";

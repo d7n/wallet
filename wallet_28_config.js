@@ -1,1 +1,1 @@
-var mnemonic = "average decade street absent deer recipe raw cabbage license possible absent ceiling";
+var mnemonic = "much tragic load laptop supreme skull trip shadow swear gold jump more";

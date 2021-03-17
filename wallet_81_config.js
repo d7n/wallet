@@ -1,1 +1,1 @@
-var mnemonic = "present stereo naive domain riot legend wolf entry debris vote happy voyage";
+var mnemonic = "current fragile buyer virus thank pelican punch used obvious arctic glare blur";

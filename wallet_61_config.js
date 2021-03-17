@@ -1,1 +1,1 @@
-var mnemonic = "clock exact cram marriage fall bundle elegant state diagram ski zone glance";
+var mnemonic = "ostrich harvest know switch tone coral dutch resist leave reunion panel nominee";

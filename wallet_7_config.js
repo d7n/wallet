@@ -1,1 +1,1 @@
-var mnemonic = "vast feature very clay blouse journey size derive shoot project giant layer";
+var mnemonic = "decide breeze legal day lake permit series rhythm debate reform layer dutch";

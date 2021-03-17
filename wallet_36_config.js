@@ -1,1 +1,1 @@
-var mnemonic = "february sleep patient photo mention person burden cave sister black connect immune";
+var mnemonic = "crazy medal trust arctic shrimp year tide armed alarm ecology retreat viable";

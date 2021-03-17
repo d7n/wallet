@@ -1,1 +1,1 @@
-var mnemonic = "shaft chaos lift actor sword sting grief maple diesel roast weasel fiber";
+var mnemonic = "soon either february error rocket smile stone flush machine claim cloth miracle";

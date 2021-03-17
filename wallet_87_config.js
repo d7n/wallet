@@ -1,1 +1,1 @@
-var mnemonic = "vessel tackle place liberty end future tired when crouch glove night draft";
+var mnemonic = "capital maid talent repair begin crowd picture margin course library between eternal";

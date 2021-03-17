@@ -1,1 +1,1 @@
-var mnemonic = "ozone embrace discover oppose tape road myth novel spoon long ready tomorrow";
+var mnemonic = "host moon elite twice pulse disagree wood song meadow topple grid whisper";

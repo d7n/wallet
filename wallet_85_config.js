@@ -1,1 +1,1 @@
-var mnemonic = "author flavor indicate virtual voice follow bitter win erase violin truly kiwi";
+var mnemonic = "joy stomach spread frown thank pair plug copy valley near mango tilt";

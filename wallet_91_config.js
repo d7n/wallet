@@ -1,1 +1,1 @@
-var mnemonic = "boil gossip duck series thumb pill elite mimic usual burden grass jar";
+var mnemonic = "clap maid regular tilt camera wood tiger creek erupt favorite puppy eager";

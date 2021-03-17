@@ -1,1 +1,1 @@
-var mnemonic = "glory position news weekend glad crisp settle expose region evolve buddy source";
+var mnemonic = "day affair paper curtain oil rebuild tongue bring display audit vintage swallow";

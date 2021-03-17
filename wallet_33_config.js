@@ -1,1 +1,1 @@
-var mnemonic = "shine bleak appear garment today daring solve loyal traffic police ethics goddess";
+var mnemonic = "casual shove hurt place calm diet public economy post heavy choice depth";

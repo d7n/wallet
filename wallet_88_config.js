@@ -1,1 +1,1 @@
-var mnemonic = "hammer scout hello magnet wet peanut acid seminar order once swear welcome";
+var mnemonic = "cream phrase grant effort dust enlist ripple wave valve page razor love";

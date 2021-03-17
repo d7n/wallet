@@ -1,1 +1,1 @@
-var mnemonic = "promote winter language oyster sphere plunge wall pig destroy urban cat join";
+var mnemonic = "race radio rival ball hint segment knife patch genius pool relax quiz";

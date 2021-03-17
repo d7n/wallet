@@ -1,1 +1,1 @@
-var mnemonic = "impose force aim seven curve until erase belt guitar example cook family";
+var mnemonic = "rigid oblige track dawn fan puppy denial leopard custom mountain december mansion";

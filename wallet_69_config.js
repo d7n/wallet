@@ -1,1 +1,1 @@
-var mnemonic = "exclude logic rigid child travel wreck radar clap better tube slab weapon";
+var mnemonic = "swallow bench muscle own injury must adjust razor walk dynamic drip web";

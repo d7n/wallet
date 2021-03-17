@@ -1,1 +1,1 @@
-var mnemonic = "margin bring pulse borrow donate slender witness clown hammer diary fitness upset";
+var mnemonic = "someone below brown vague write scene dilemma network sick catalog edge carbon";

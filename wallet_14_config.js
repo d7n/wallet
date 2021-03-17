@@ -1,1 +1,1 @@
-var mnemonic = "electric soup aerobic tragic truth night mother surprise cool dress young matter";
+var mnemonic = "because expand miss injury hen chuckle swarm climb negative snake debate agree";

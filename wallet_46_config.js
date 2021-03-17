@@ -1,1 +1,1 @@
-var mnemonic = "quality try asthma client federal banner tribe gown vehicle weasel goat hand";
+var mnemonic = "used chalk script again insect phrase suffer frost steak glass field helmet";

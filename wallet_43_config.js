@@ -1,1 +1,1 @@
-var mnemonic = "rude short dial urge make knife friend road pass exercise wink shrimp";
+var mnemonic = "crystal knife leaf train kangaroo make wagon recycle spice glow bonus biology";

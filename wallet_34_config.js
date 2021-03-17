@@ -1,1 +1,1 @@
-var mnemonic = "custom notice saddle enemy captain weasel lonely ball dumb unhappy cargo amused";
+var mnemonic = "you brand mystery industry friend weekend worry virtual tumble erosion attitude shiver";

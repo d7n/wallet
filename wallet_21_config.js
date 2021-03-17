@@ -1,1 +1,1 @@
-var mnemonic = "case supply immune add stable polar cute urge roof delay east frost";
+var mnemonic = "person walk tiny odor fan stumble marble season aware umbrella original thumb";
