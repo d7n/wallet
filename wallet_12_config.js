@@ -1,1 +1,1 @@
-var mnemonic = "gossip random symbol circle party flower govern they half ice enemy rough";
+var mnemonic = "sing wink torch tank rival vast country tiny behave leisure trend reflect";

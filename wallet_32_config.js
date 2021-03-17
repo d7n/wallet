@@ -1,1 +1,1 @@
-var mnemonic = "tobacco tornado fabric april tattoo strong mass letter pipe right much vintage";
+var mnemonic = "hamster cause minute law divorce skirt develop sadness bid once syrup announce";

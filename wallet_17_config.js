@@ -1,1 +1,1 @@
-var mnemonic = "lamp tell term sure update donkey box knock latin sustain can vote";
+var mnemonic = "laptop donor hip bounce ski poem toddler race typical limb doctor certain";

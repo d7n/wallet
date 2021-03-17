@@ -1,1 +1,1 @@
-var mnemonic = "crowd envelope crowd muffin film problem portion cry move hope gather offer";
+var mnemonic = "team ability village flag loan eagle clarify cattle tennis output auto pull";

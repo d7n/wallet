@@ -1,1 +1,1 @@
-var mnemonic = "average damp rural lazy test spread era clarify wheat prize box fold";
+var mnemonic = "soldier ride child chuckle glance distance account opinion cherry hub artefact market";

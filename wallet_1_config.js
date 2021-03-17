@@ -1,1 +1,1 @@
-var mnemonic = "okay gown small medal valve patient easily palace today magnet foil imitate";
+var mnemonic = "man matter warfare vacant eternal village library remove wedding time clinic door";

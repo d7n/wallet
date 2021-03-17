@@ -1,1 +1,1 @@
-var mnemonic = "make dream differ chair chest win bright accident will strike you rude";
+var mnemonic = "they sword tuna minute success worth hundred surface couch invest west venture";

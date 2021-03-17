@@ -1,1 +1,1 @@
-var mnemonic = "gas fruit naive mad anger unit keep nerve grunt drift duty vital";
+var mnemonic = "skirt pass seven erase smart bunker barrel door feature purchase neither impact";

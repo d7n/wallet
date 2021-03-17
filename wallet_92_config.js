@@ -1,1 +1,1 @@
-var mnemonic = "cactus hundred deliver tunnel give net valid bulb rude buffalo crouch forget";
+var mnemonic = "heart junior amount afford ride road subject room airport cement soda bean";

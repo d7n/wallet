@@ -1,1 +1,1 @@
-var mnemonic = "brisk success glide excite frown use keep little defy penalty run hill";
+var mnemonic = "first sport glue cover ghost ticket pact print copper miss trash jungle";

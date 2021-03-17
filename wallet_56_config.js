@@ -1,1 +1,1 @@
-var mnemonic = "dose index group alone saddle gather cable genuine gas web mask three";
+var mnemonic = "neutral remind galaxy nerve review february diagram fall share until bamboo genius";

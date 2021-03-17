@@ -1,1 +1,1 @@
-var mnemonic = "crawl dance adapt essence antique state double young armor ancient choose mean";
+var mnemonic = "tonight move hamster title motor meadow confirm bird feel finger pave tattoo";

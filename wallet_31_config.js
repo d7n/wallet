@@ -1,1 +1,1 @@
-var mnemonic = "slab dismiss current senior dismiss glance face dish reunion supreme between sign";
+var mnemonic = "nest deer blood picture shop possible before other fringe peasant stumble little";

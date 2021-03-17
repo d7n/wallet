@@ -1,1 +1,1 @@
-var mnemonic = "february light mystery comic divide neck oval save coin insect old unable";
+var mnemonic = "fun artefact ensure mansion party wreck achieve buyer idea bar nasty remember";

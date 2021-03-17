@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog seven embrace pony off judge thought movie pyramid illness gap noble";
+var mnemonic = "alarm limb glad average limb visit permit regular near ritual shine shoe";

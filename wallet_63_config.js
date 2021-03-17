@@ -1,1 +1,1 @@
-var mnemonic = "style tobacco sell fog water find measure candy bullet wheel ceiling cake";
+var mnemonic = "girl law jeans bring modify toe warm inquiry crop denial inhale best";

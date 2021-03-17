@@ -1,1 +1,1 @@
-var mnemonic = "work gather agent catch hurdle slogan jeans funny market able make pole";
+var mnemonic = "loyal debris window puzzle wolf high lumber tent shoulder always pony kind";

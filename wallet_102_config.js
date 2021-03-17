@@ -1,1 +1,1 @@
-var mnemonic = "input snap artwork sugar timber typical valid grass unit junk record define";
+var mnemonic = "lunch wife tag angry message soap fruit asthma wagon kit design stamp";

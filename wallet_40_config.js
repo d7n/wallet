@@ -1,1 +1,1 @@
-var mnemonic = "valid anxiety polar all resemble anxiety oil unique old sword mistake note";
+var mnemonic = "soap banner still pottery black else present tent broken seat guilt throw";

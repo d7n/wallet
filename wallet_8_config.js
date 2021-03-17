@@ -1,1 +1,1 @@
-var mnemonic = "gospel naive glide cloth jewel away cash hood mandate floor earn hour";
+var mnemonic = "spoon breeze unlock relief wheel vapor can tribe diagram affair monitor setup";

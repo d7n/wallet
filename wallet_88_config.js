@@ -1,1 +1,1 @@
-var mnemonic = "toe amazing approve scrap amount behave orange ostrich army valid moment cattle";
+var mnemonic = "country urge prison peace almost day useless flock later cancel series base";

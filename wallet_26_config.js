@@ -1,1 +1,1 @@
-var mnemonic = "gospel base tornado hedgehog cute oppose behind outdoor choice please olympic culture";
+var mnemonic = "grace group arrive elbow cargo little apart current tongue liberty hood caught";

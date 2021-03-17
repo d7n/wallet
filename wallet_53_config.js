@@ -1,1 +1,1 @@
-var mnemonic = "huge flight desert syrup giggle shoe motion private sad main video hero";
+var mnemonic = "dutch stadium ginger story network dynamic sick eagle shy brief stove piano";

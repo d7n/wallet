@@ -1,1 +1,1 @@
-var mnemonic = "any drill renew pull cause tobacco tiny proof myself hamster dizzy bulb";
+var mnemonic = "afraid lock second cram recycle jewel shallow slot bundle flat carpet guide";

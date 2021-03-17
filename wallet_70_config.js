@@ -1,1 +1,1 @@
-var mnemonic = "foil category weird moral season pluck giraffe coffee obvious hospital useful ordinary";
+var mnemonic = "nest path situate cousin body layer narrow animal bid energy plate net";

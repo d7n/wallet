@@ -1,1 +1,1 @@
-var mnemonic = "leopard dinner noble guess dove reduce prefer bomb poem daring police deny";
+var mnemonic = "glow school tomato inquiry bench swing window page chalk clap energy crane";

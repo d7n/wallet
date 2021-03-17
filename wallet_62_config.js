@@ -1,1 +1,1 @@
-var mnemonic = "fine elegant develop rifle core welcome maple episode innocent rival worry reduce";
+var mnemonic = "wing ignore festival update receive awful extra pizza autumn ship afford pilot";

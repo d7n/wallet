@@ -1,1 +1,1 @@
-var mnemonic = "index follow organ ghost average swim capable moral ski mansion rent puzzle";
+var mnemonic = "knee island ladder differ degree connect photo maple quit victory lamp regular";

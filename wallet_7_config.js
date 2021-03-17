@@ -1,1 +1,1 @@
-var mnemonic = "welcome lemon eagle couple state model over prize faith since join pistol";
+var mnemonic = "much shop tortoise behave dove bronze best finish neutral position anxiety can";

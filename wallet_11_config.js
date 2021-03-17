@@ -1,1 +1,1 @@
-var mnemonic = "echo unit rough smooth explain isolate happy believe base twelve front hour";
+var mnemonic = "thunder jaguar tag rookie enhance congress action repair catalog leisure chapter slide";

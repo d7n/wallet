@@ -1,1 +1,1 @@
-var mnemonic = "mercy kiss entire loud evolve transfer have worth spot staff rookie viable";
+var mnemonic = "often please capital tube nut biology excuse matter simple depth brand tongue";

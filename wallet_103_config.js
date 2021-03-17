@@ -1,1 +1,1 @@
-var mnemonic = "answer fragile erupt provide arch faith next girl search destroy afford satisfy";
+var mnemonic = "genius pause pizza option produce grass tape tobacco pepper prevent cannon hungry";

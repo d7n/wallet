@@ -1,1 +1,1 @@
-var mnemonic = "sentence pill comic ahead wisdom always cliff together next hybrid radio final";
+var mnemonic = "young habit march vicious ahead protect shock fiscal delay someone tennis era";

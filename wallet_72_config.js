@@ -1,1 +1,1 @@
-var mnemonic = "maple double olive display escape dragon museum fitness assume diary sock settle";
+var mnemonic = "oyster island trophy chair govern lottery alert knife era deliver canyon amateur";

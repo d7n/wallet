@@ -1,1 +1,1 @@
-var mnemonic = "thumb bean marine bid blouse coast group come small remind east wrist";
+var mnemonic = "another attract dry theory metal drink enrich pioneer suit sheriff furnace push";

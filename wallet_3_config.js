@@ -1,1 +1,1 @@
-var mnemonic = "seek faculty steak eternal wine indoor north dentist vanish feature remain misery";
+var mnemonic = "cement second satoshi female gap endorse include escape tornado glad fade guilt";

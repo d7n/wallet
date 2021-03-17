@@ -1,1 +1,1 @@
-var mnemonic = "curious buddy palace uniform mother leisure market seek box cook legend ankle";
+var mnemonic = "govern engage badge brain affair gentle settle search auction error pencil wonder";

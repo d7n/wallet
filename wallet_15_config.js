@@ -1,1 +1,1 @@
-var mnemonic = "film little pulse debate artefact together vibrant salmon syrup sand shine august";
+var mnemonic = "minimum clump ill enact bachelor ostrich walnut flee slim spawn gentle wild";

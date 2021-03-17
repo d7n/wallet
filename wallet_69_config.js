@@ -1,1 +1,1 @@
-var mnemonic = "pupil birth dress people wish coin boost number require ankle dove under";
+var mnemonic = "roof industry involve vendor say inner robot midnight accident bronze caught machine";

@@ -1,1 +1,1 @@
-var mnemonic = "outside phone detail else clown moral mango sail simple siren denial happy";
+var mnemonic = "boat half extra grunt jump alone prefer decade symbol room grant north";

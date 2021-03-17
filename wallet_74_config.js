@@ -1,1 +1,1 @@
-var mnemonic = "half furnace cotton settle better bottom novel mutual surge bid large decline";
+var mnemonic = "biology swift dilemma hundred craft fresh just student iron resemble excite clerk";

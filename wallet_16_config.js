@@ -1,1 +1,1 @@
-var mnemonic = "begin peasant road digital treat dentist high soup fetch else supply tiger";
+var mnemonic = "pitch crawl put large radio story suggest expose odor plastic offer umbrella";

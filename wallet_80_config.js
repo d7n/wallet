@@ -1,1 +1,1 @@
-var mnemonic = "curtain october country hair inspire axis solid together wrestle sure sketch tumble";
+var mnemonic = "couple desert fault rotate tortoise shy exercise token front pigeon say play";

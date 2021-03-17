@@ -1,1 +1,1 @@
-var mnemonic = "lion number affair promote shrimp ice brush cloud anger taxi guess recipe";
+var mnemonic = "involve credit citizen update shiver media reward zoo library law damp canal";

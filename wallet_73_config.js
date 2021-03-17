@@ -1,1 +1,1 @@
-var mnemonic = "copy acoustic fresh couple bid hand charge atom define veteran bamboo never";
+var mnemonic = "minor deer absorb similar curious obey message kiwi dog wine travel device";

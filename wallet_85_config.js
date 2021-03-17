@@ -1,1 +1,1 @@
-var mnemonic = "speed shock barely illegal achieve hockey cactus exchange print vague symbol slow";
+var mnemonic = "matter swamp gun kidney adapt domain benefit blossom pizza awful link broken";

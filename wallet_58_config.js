@@ -1,1 +1,1 @@
-var mnemonic = "sand verb minute combine school arrow repeat oblige salmon convince person pitch";
+var mnemonic = "happy pulp assume bring enjoy frozen link olive lumber deliver agent much";

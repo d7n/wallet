@@ -1,1 +1,1 @@
-var mnemonic = "door cancel project donate opera judge hen brain exclude found husband layer";
+var mnemonic = "blossom trend awful excess base love proud anchor harbor curve paper erase";

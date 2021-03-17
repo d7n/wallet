@@ -1,1 +1,1 @@
-var mnemonic = "add vicious skill call clutch bless dwarf refuse carbon quick discover boost";
+var mnemonic = "scrap brother badge topic quote destroy artwork buddy bullet notable primary language";

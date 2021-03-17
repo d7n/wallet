@@ -1,1 +1,1 @@
-var mnemonic = "caution guard net apple defense advice perfect rocket gesture test become alter";
+var mnemonic = "curtain endless enact snack broom between prize prison flock kitchen vibrant source";

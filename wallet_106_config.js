@@ -1,1 +1,1 @@
-var mnemonic = "warm payment thunder lake fashion protect hazard amount meadow now mom welcome";
+var mnemonic = "supply stock visual bracket danger notice ready grace science rude baby tunnel";

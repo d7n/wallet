@@ -1,1 +1,1 @@
-var mnemonic = "desert ankle rare walnut hire caution crisp cute nerve clinic connect coral";
+var mnemonic = "theme mom ask prefer conduct girl provide valley express aunt harbor camera";

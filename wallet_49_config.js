@@ -1,1 +1,1 @@
-var mnemonic = "dial put drop differ give truck consider bus exact agent believe neither";
+var mnemonic = "urge vehicle rhythm labor expand peanut biology robot rally neither spoon flock";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract real wet muscle smooth pig blame cross rib exotic float about";
+var mnemonic = "orchard ostrich sense usual afford pistol scare frog angry miss witness such";

@@ -1,1 +1,1 @@
-var mnemonic = "glory fly vehicle stem sphere term margin use deliver bag prize borrow";
+var mnemonic = "economy gym air domain uphold diary resist lyrics celery lecture dial ribbon";

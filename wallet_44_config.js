@@ -1,1 +1,1 @@
-var mnemonic = "defense mansion material culture random cross mixed stove common onion glove ripple";
+var mnemonic = "leaf baby ozone rebuild spider evolve transfer leisure breeze join winter mesh";

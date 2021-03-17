@@ -1,1 +1,1 @@
-var mnemonic = "depart tiger try behave cattle auto puzzle nephew panther feed minor cabbage";
+var mnemonic = "busy lawsuit crash bracket idea absurd father trumpet junk rib virus mushroom";

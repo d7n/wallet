@@ -1,1 +1,1 @@
-var mnemonic = "mammal enhance inform shuffle hub area garage must fruit secret brass twice";
+var mnemonic = "lunch order reward humor oak grab gaze battle siege clutch orange twelve";

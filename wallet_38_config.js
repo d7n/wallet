@@ -1,1 +1,1 @@
-var mnemonic = "brave stand eagle solution force marriage barrel fury head brisk among engine";
+var mnemonic = "mouse tray flavor buffalo field ribbon tent title praise pulp lab try";

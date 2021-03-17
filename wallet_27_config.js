@@ -1,1 +1,1 @@
-var mnemonic = "barely keep recycle lady place expand purchase speak weasel north devote prosper";
+var mnemonic = "camp bottom category input height devote penalty seminar air crew ask glove";

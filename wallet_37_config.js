@@ -1,1 +1,1 @@
-var mnemonic = "suspect caught general define bench true session noodle safe fossil visual kite";
+var mnemonic = "garage jungle divorce spatial increase rebuild cycle fancy weekend marble assist excuse";

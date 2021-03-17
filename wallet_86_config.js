@@ -1,1 +1,1 @@
-var mnemonic = "need improve expand render elbow black settle cannon bachelor claim fat lake";
+var mnemonic = "combine obtain aisle jaguar client repair light neither monster cherry course trash";

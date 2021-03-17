@@ -1,1 +1,1 @@
-var mnemonic = "quit blanket shock cheap bunker snap picture blush round network until agent";
+var mnemonic = "clay divorce identify skirt offer news swim index moment laundry shadow then";

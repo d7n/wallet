@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit kit lawn balcony impulse sugar remain grant job that shaft balance";
+var mnemonic = "loan degree focus bleak sugar retire attitude moral boring wide history kiwi";

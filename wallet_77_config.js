@@ -1,1 +1,1 @@
-var mnemonic = "lend swallow yard warrior judge fat immense scatter arrow protect pulse ginger";
+var mnemonic = "walnut mesh favorite focus comfort sugar exchange fringe source swear arctic segment";

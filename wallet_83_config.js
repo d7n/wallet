@@ -1,1 +1,1 @@
-var mnemonic = "draft wedding cactus unaware another opinion solve little embrace quote normal topple";
+var mnemonic = "guide merry say brain syrup possible gown unique vote bird start ramp";

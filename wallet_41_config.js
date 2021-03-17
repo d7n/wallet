@@ -1,1 +1,1 @@
-var mnemonic = "thunder better document spice cable regular sort anger gold picnic crowd lobster";
+var mnemonic = "angry lamp mango logic attend item sausage sound main flight segment repeat";

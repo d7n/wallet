@@ -1,1 +1,1 @@
-var mnemonic = "observe acid helmet liberty twin peanut wrong joy milk picnic citizen wrist";
+var mnemonic = "elite pact wild consider kite sun timber truck paddle swift jealous clown";

@@ -1,1 +1,1 @@
-var mnemonic = "glow strike hold cream fabric belt art punch subject risk shiver doll";
+var mnemonic = "found access eyebrow script quick success enjoy false hospital deposit try citizen";

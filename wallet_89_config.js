@@ -1,1 +1,1 @@
-var mnemonic = "guess possible tired dragon great claim stadium ranch color ramp cloth spy";
+var mnemonic = "purity doll spray awful latin city hand page smile eagle fatal seek";

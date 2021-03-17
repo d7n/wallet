@@ -1,1 +1,1 @@
-var mnemonic = "purity fault benefit brand faint thing wrong mosquito minor cancel dinosaur bring";
+var mnemonic = "picnic reward carpet people onion glue girl man reunion define chapter prize";

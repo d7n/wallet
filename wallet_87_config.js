@@ -1,1 +1,1 @@
-var mnemonic = "lounge mosquito steak true square tiny fragile indicate spider fold pipe buffalo";
+var mnemonic = "small mirror inmate later switch stuff vague they finger habit monkey pull";

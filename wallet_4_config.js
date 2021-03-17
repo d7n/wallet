@@ -1,1 +1,1 @@
-var mnemonic = "special color athlete siege vanish fan trouble oblige supreme hero brief sniff";
+var mnemonic = "live hollow staff educate stable runway stick brass mask denial unknown short";

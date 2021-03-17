@@ -1,1 +1,1 @@
-var mnemonic = "tortoise sunset prevent decrease ginger liberty dress hawk nest cabin labor wing";
+var mnemonic = "door cloud chase clown head employ swamp gold design avocado thought impact";

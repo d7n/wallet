@@ -1,1 +1,1 @@
-var mnemonic = "object peace join cube issue private glow engage raw snap neglect laptop";
+var mnemonic = "loan dress deposit grief broom cute pizza sniff pottery rent control sniff";

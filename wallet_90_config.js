@@ -1,1 +1,1 @@
-var mnemonic = "silent adult gasp couple retreat picture lemon wave mule ankle before armor";
+var mnemonic = "stereo hamster rotate caution provide nest hip force method census syrup sun";

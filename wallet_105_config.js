@@ -1,1 +1,1 @@
-var mnemonic = "ghost devote make slogan drink pipe current alien subway verify submit hospital";
+var mnemonic = "piece reunion way ancient width sister emerge sudden chicken search giant oval";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive wide amazing ill weapon mountain vast enter owner bonus age hurdle";
+var mnemonic = "shift cube lazy income hammer answer bright harbor olive distance pear crop";

@@ -1,1 +1,1 @@
-var mnemonic = "meat decrease divide source rival analyst scissors parrot spatial voice immune misery";
+var mnemonic = "adult expire option popular then slam script town crowd erupt stove draft";

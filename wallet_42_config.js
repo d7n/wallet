@@ -1,1 +1,1 @@
-var mnemonic = "other sense sudden master current brief energy execute problem dune away gesture";
+var mnemonic = "sense firm glue boss fat fence harbor core daughter post until city";

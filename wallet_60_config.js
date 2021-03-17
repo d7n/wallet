@@ -1,1 +1,1 @@
-var mnemonic = "library find deal situate consider clap start office maximum review tissue finger";
+var mnemonic = "sign entry trophy fly basic bring bunker dish reward flip poet casual";

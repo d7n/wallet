@@ -1,1 +1,1 @@
-var mnemonic = "cram glimpse focus tragic buyer attend patient lounge pizza common hard hold";
+var mnemonic = "metal better stomach banner pizza energy pottery shiver floor worth visual during";

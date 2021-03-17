@@ -1,1 +1,1 @@
-var mnemonic = "theory provide exotic service cotton drill polar melt canyon ski asset orient";
+var mnemonic = "eight usual machine bag bunker universe salon police champion output pretty puppy";

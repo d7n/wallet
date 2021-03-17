@@ -1,1 +1,1 @@
-var mnemonic = "rich tuna combine soap process spin mandate capital enrich alley eight among";
+var mnemonic = "rubber chest lock spoil tobacco grape almost simple carbon sport quiz tip";

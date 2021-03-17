@@ -1,1 +1,1 @@
-var mnemonic = "craft gather iron suffer champion display size enter punch consider scissors issue";
+var mnemonic = "pyramid energy canal angry affair february skirt film tip trap gloom grab";

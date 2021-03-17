@@ -1,1 +1,1 @@
-var mnemonic = "west dice frost cheese rookie green cabbage supreme silk guess together nest";
+var mnemonic = "goose sail proof spoil retire minor truth exhibit salt nurse normal lens";

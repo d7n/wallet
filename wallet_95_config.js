@@ -1,1 +1,1 @@
-var mnemonic = "sweet adjust divorce slogan ceiling trade rose sock rescue debate start curve";
+var mnemonic = "bachelor slim mule close bind admit defense sauce black avoid giraffe matrix";

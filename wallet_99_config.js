@@ -1,1 +1,1 @@
-var mnemonic = "void wonder sword educate east engine total glad river average blast response";
+var mnemonic = "ostrich divert prize ahead staff input hero across peace name attend lady";

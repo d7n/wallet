@@ -1,1 +1,1 @@
-var mnemonic = "noble cherry ship chuckle rotate february month angle transfer craft melt pulp";
+var mnemonic = "chief grief found grow quit convince loud rose potato economy kit grant";

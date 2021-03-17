@@ -1,1 +1,1 @@
-var mnemonic = "kiwi glove verify crush layer hedgehog cement dream razor royal veteran slight";
+var mnemonic = "peace second asthma doctor scorpion fold someone blush shoot office alley debate";

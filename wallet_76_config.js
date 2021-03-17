@@ -1,1 +1,1 @@
-var mnemonic = "drop twelve sadness erosion help now aware settle mystery tide marine brush";
+var mnemonic = "weapon slot marine praise stumble few garlic gift rent stand fragile hurdle";

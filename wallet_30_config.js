@@ -1,1 +1,1 @@
-var mnemonic = "release velvet camera ski near escape blue open hire work vivid escape";
+var mnemonic = "trend stem that wish cram please spend brain pepper gloom duty slab";
