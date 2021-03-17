@@ -1,1 +1,1 @@
-var mnemonic = "shine faint two pretty champion large slogan veteran pear above unfair taxi";
+var mnemonic = "furnace buzz cotton juice economy ball copy valid second patient novel option";

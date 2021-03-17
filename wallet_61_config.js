@@ -1,1 +1,1 @@
-var mnemonic = "strong science maximum slight teach gown shoot innocent hurt avoid fix unit";
+var mnemonic = "poet immense more jeans lock grace win evil buyer oil thrive arrow";

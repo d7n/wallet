@@ -1,1 +1,1 @@
-var mnemonic = "engage ribbon audit plug hundred green roof other life shell wear only";
+var mnemonic = "pipe weird sphere this surface conduct pet prison plate vivid eagle vanish";

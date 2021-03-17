@@ -1,1 +1,1 @@
-var mnemonic = "divert anxiety basic arch dish april poet strategy sister emerge wedding talent";
+var mnemonic = "regular fat box bulb proud shine rather frog drive observe habit please";

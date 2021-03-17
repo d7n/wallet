@@ -1,1 +1,1 @@
-var mnemonic = "squirrel miss tower harvest math circle dress ritual sibling ribbon yellow spend";
+var mnemonic = "bag drop wire actor brick feed slice bread noodle pretty basket guess";

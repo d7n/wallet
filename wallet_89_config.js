@@ -1,1 +1,1 @@
-var mnemonic = "ice simple faculty primary wedding better slab hub fit hurt tennis rebuild";
+var mnemonic = "advice destroy divorce walk volcano confirm chunk tenant width render harbor apology";

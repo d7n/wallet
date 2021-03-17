@@ -1,1 +1,1 @@
-var mnemonic = "again hospital clerk exotic tumble save talk oblige pride awkward snap soda";
+var mnemonic = "advance hover gift leaf survey fuel angry critic supreme silly inch account";

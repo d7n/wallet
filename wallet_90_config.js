@@ -1,1 +1,1 @@
-var mnemonic = "photo cinnamon nurse museum soup retire just poverty lend broccoli future snake";
+var mnemonic = "suggest capital doctor element seek switch master cradle unaware news cave lens";

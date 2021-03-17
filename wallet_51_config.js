@@ -1,1 +1,1 @@
-var mnemonic = "settle borrow apple brief talent push guilt include pledge slice hamster stone";
+var mnemonic = "sphere phrase deal off noise laptop frown kid strategy quick hour slogan";

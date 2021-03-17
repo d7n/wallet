@@ -1,1 +1,1 @@
-var mnemonic = "cave disagree rather property win dice fly plug mandate fatigue team under";
+var mnemonic = "crush vote proof demise lumber pig remember still ranch swim spin hub";

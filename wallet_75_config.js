@@ -1,1 +1,1 @@
-var mnemonic = "split transfer need couch wide junior title fence code squirrel absorb helmet";
+var mnemonic = "current reopen spot abstract dignity blind wheat emotion forest country autumn hidden";

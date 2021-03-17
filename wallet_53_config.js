@@ -1,1 +1,1 @@
-var mnemonic = "one cram leaf young trip express cry hint answer grunt cheese circle";
+var mnemonic = "fold menu recycle practice rural outdoor gate rug april protect million draw";

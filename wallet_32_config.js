@@ -1,1 +1,1 @@
-var mnemonic = "sun utility drill fine host harbor devote scene gift diary print asthma";
+var mnemonic = "tackle west dawn scissors sign secret neglect romance miss refuse raw guess";

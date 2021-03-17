@@ -1,1 +1,1 @@
-var mnemonic = "tuition used turn diamond later chuckle track shoe credit clown stone early";
+var mnemonic = "job size pottery thrive leaf chief mesh pledge broom wide result deal";

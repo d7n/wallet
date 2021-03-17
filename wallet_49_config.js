@@ -1,1 +1,1 @@
-var mnemonic = "palace shoulder offer arrange rice saddle female engage girl august rough vote";
+var mnemonic = "toddler cabin horse guitar stereo unable crowd wish small river fat trip";

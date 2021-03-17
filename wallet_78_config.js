@@ -1,1 +1,1 @@
-var mnemonic = "good camera they pet clarify elbow holiday bracket bird flash virtual text";
+var mnemonic = "hood scout machine protect afraid bring brick risk head honey glue sell";

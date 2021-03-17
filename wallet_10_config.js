@@ -1,1 +1,1 @@
-var mnemonic = "slender track guilt stay tape smoke maze weird yard connect quality profit";
+var mnemonic = "wool globe worth term bid olive candy slot clerk awesome corn scan";

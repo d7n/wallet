@@ -1,1 +1,1 @@
-var mnemonic = "indoor erode predict exchange ramp dream relax cube lunch cage engine observe";
+var mnemonic = "slogan mercy cousin destroy junior breeze ski side assume slot ethics arrest";

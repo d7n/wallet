@@ -1,1 +1,1 @@
-var mnemonic = "arrow spot range arena diet print device rival cherry clump person skin";
+var mnemonic = "giggle apart trim bird renew crowd maid silver initial cushion maze give";

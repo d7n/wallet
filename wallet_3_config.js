@@ -1,1 +1,1 @@
-var mnemonic = "fashion include sound uncle base remember zone loyal session total problem cross";
+var mnemonic = "slam muscle relax index cereal sausage utility forget ankle state foster afford";

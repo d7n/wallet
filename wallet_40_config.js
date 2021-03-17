@@ -1,1 +1,1 @@
-var mnemonic = "glide bulb key cruise nominee senior ladder vendor cycle valid buyer water";
+var mnemonic = "veteran oak cotton bicycle company cage learn sorry broccoli damage panic arm";

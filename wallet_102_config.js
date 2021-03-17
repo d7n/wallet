@@ -1,1 +1,1 @@
-var mnemonic = "trap coin sick web zero wage same layer elephant identify ring suspect";
+var mnemonic = "prize slim alien clean mind safe top glass develop cloud unfair wish";

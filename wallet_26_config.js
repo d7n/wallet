@@ -1,1 +1,1 @@
-var mnemonic = "infant predict crush bread tunnel visual verb pelican human concert alert number";
+var mnemonic = "avocado movie cactus history narrow faith warfare maid home future economy fiction";

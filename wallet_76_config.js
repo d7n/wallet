@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo holiday turtle join firm hurt tell junior mouse style circle turn";
+var mnemonic = "elegant hair half axis shaft surface small exhaust supply daughter assume lecture";

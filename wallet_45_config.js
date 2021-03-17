@@ -1,1 +1,1 @@
-var mnemonic = "robust extend blanket picture era speak bar forward deal verb cupboard unaware";
+var mnemonic = "glide wasp spike solid tonight fine nice honey urge program perfect end";

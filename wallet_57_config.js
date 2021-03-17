@@ -1,1 +1,1 @@
-var mnemonic = "dance disagree fiscal lounge city meat shy route empty float picnic scrub";
+var mnemonic = "cannon grocery write company liar way school trophy void unlock wine must";

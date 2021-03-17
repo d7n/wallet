@@ -1,1 +1,1 @@
-var mnemonic = "vast object afford crucial earn skin parrot shrug voyage industry bid stable";
+var mnemonic = "glide acquire only share brown tiger wreck slot fame riot circle normal";

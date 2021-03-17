@@ -1,1 +1,1 @@
-var mnemonic = "cereal wine stomach ceiling shove traffic broccoli above have example myself security";
+var mnemonic = "useful scene obey minor cake animal useful cabbage order border warm champion";

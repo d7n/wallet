@@ -1,1 +1,1 @@
-var mnemonic = "fault income exist load grief online food seven finish team exist giraffe";
+var mnemonic = "video alpha tell fork village seat thunder romance stage below soldier easy";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit forward venture wet hero subject remain path weasel hire reject pencil";
+var mnemonic = "globe item subway tree traffic gesture occur midnight company burst click town";

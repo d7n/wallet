@@ -1,1 +1,1 @@
-var mnemonic = "crime large awesome ski tennis sense knock indicate wrong dove crack number";
+var mnemonic = "garlic outdoor wash umbrella common coin repair position bundle benefit syrup tornado";

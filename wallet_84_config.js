@@ -1,1 +1,1 @@
-var mnemonic = "huge spawn predict fatal say thrive filter cash entry general slogan air";
+var mnemonic = "arrange ten boil primary relax athlete february mistake clean harbor future service";

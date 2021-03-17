@@ -1,1 +1,1 @@
-var mnemonic = "three father favorite train you jump worth list bag reduce nuclear matter";
+var mnemonic = "monkey uncle wrestle ten wave blame innocent pumpkin strategy zero ivory retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "wood alarm notable tail famous element swallow illegal quit cool simple cover";
+var mnemonic = "dignity logic federal ski cream sleep pigeon quick boring elite oak couch";

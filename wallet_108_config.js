@@ -1,1 +1,1 @@
-var mnemonic = "ten pumpkin uncover head twist evil busy frozen canvas rabbit select nest";
+var mnemonic = "tennis school uncover retire roof fetch beauty home topic suit couch defy";

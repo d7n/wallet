@@ -1,1 +1,1 @@
-var mnemonic = "syrup stool fresh ahead announce sheriff turkey nation describe ketchup second chicken";
+var mnemonic = "fragile random screen busy name prosper sword prize cushion cigar purity cube";

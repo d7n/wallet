@@ -1,1 +1,1 @@
-var mnemonic = "hurt insect now loud prize trick under you exercise glory oven jewel";
+var mnemonic = "lucky taxi skill gate entry asset mansion elegant device embody victory base";

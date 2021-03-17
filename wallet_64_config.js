@@ -1,1 +1,1 @@
-var mnemonic = "furnace bounce stable stomach assist hawk dose ostrich parrot craft sport couple";
+var mnemonic = "inmate purity piece bunker tribe term remember kite social derive puppy solid";

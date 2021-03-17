@@ -1,1 +1,1 @@
-var mnemonic = "blouse awful breeze dice squeeze under scale egg quit knock cushion story";
+var mnemonic = "evoke life key admit brand badge kingdom rabbit must soccer egg just";

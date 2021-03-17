@@ -1,1 +1,1 @@
-var mnemonic = "permit donor toe fashion huge divide valve gather law century insect acquire";
+var mnemonic = "olympic device chronic swarm frost hand credit viable seminar toss blossom film";

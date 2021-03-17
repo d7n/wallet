@@ -1,1 +1,1 @@
-var mnemonic = "celery hundred bone paper dinner drift best valve fee enroll hockey seat";
+var mnemonic = "verify angle access catch urge humble turkey one shift little govern appear";

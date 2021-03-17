@@ -1,1 +1,1 @@
-var mnemonic = "twenty spike neither juice supreme toddler pledge celery vapor kangaroo strong such";
+var mnemonic = "buzz cricket bicycle brush horror tooth service critic proud output task mixture";

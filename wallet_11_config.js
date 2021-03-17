@@ -1,1 +1,1 @@
-var mnemonic = "side mosquito robust eagle easy session curve display refuse erode exist play";
+var mnemonic = "access sugar weird you lift oblige wealth hip fortune collect half kid";

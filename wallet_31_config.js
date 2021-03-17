@@ -1,1 +1,1 @@
-var mnemonic = "sauce obey rack cinnamon mother utility pioneer all list hospital merge prison";
+var mnemonic = "actual nice reduce crash crush state kind banner rhythm fade piece theory";

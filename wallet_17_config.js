@@ -1,1 +1,1 @@
-var mnemonic = "proud test render actress polar diesel kid frozen amazing month next inner";
+var mnemonic = "nice system result gadget general fortune skin bag grocery exhaust empower cram";

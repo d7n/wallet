@@ -1,1 +1,1 @@
-var mnemonic = "spoon pen swear number matter dice syrup wage depend bundle easy weapon";
+var mnemonic = "game cruise horse hole entire happy choose recipe mystery nut belt artist";

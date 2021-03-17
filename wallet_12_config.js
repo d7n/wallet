@@ -1,1 +1,1 @@
-var mnemonic = "force raven shadow dish shiver produce what pudding aunt celery chapter where";
+var mnemonic = "wreck tomato cigar lunar term dignity fish shallow foot license defense soda";

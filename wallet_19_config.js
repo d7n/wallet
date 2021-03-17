@@ -1,1 +1,1 @@
-var mnemonic = "region since west wild erosion can half runway economy balcony silent melt";
+var mnemonic = "another pudding motion grab color festival genuine critic crime museum moral confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "grape scorpion search ostrich february action settle modify scout gap card cream";
+var mnemonic = "athlete woman mobile coffee valve praise square aisle elevator wheel type quality";

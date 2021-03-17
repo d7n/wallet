@@ -1,1 +1,1 @@
-var mnemonic = "ill silk relax major jaguar badge large bullet beach check tiny kangaroo";
+var mnemonic = "range ivory proud champion enroll cake exact example relax chunk solution spawn";

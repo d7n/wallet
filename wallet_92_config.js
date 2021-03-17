@@ -1,1 +1,1 @@
-var mnemonic = "number wild pizza laundry direct toast then negative human sentence virtual then";
+var mnemonic = "strong resist pitch nature type autumn ticket length genuine thing shell trial";

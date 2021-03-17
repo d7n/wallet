@@ -1,1 +1,1 @@
-var mnemonic = "buddy auction banner exclude rack fresh warm boat obscure unit fade sign";
+var mnemonic = "call captain orange ski economy antenna nut wave payment rubber sick page";

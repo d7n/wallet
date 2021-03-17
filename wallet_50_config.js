@@ -1,1 +1,1 @@
-var mnemonic = "glimpse rural clinic crush sight south twelve grief bullet tree hat language";
+var mnemonic = "atom hero crop tilt wrong gas depart young repeat setup creek success";

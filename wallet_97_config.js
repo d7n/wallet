@@ -1,1 +1,1 @@
-var mnemonic = "laptop delay era marine night scale group company sponsor stay pen talent";
+var mnemonic = "belt canoe excuse relief faith gorilla call board ketchup april edge where";

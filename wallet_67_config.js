@@ -1,1 +1,1 @@
-var mnemonic = "conduct sting hurdle rotate desk yellow young board recycle choose buzz neutral";
+var mnemonic = "guess submit water limit hover leader fiscal maze marble pupil friend firm";

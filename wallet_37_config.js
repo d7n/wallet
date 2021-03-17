@@ -1,1 +1,1 @@
-var mnemonic = "fiscal legend copy car absent journey trumpet pink absorb diesel toe flower";
+var mnemonic = "camera method decline topple tissue catch proof race online marble fury uphold";

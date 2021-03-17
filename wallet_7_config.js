@@ -1,1 +1,1 @@
-var mnemonic = "sort interest embark wise couple later art search thing cabbage rail tell";
+var mnemonic = "duty sister they father must code weasel spoil twenty month leaf awake";

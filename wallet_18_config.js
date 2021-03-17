@@ -1,1 +1,1 @@
-var mnemonic = "topic minor useful actual faculty erase angry among disease desk modify smooth";
+var mnemonic = "fall ordinary ancient monitor direct tape autumn emotion resemble actress urban bunker";

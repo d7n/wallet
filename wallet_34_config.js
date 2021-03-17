@@ -1,1 +1,1 @@
-var mnemonic = "common cook sing artist jacket giant endless deliver electric knock eight solid";
+var mnemonic = "phrase captain weapon net exist wave orbit thrive cabbage sustain code wreck";

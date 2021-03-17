@@ -1,1 +1,1 @@
-var mnemonic = "street decorate inspire pencil witness sorry couple opinion bird gadget shoe distance";
+var mnemonic = "priority help rack penalty bunker stadium budget season multiply damp year pumpkin";

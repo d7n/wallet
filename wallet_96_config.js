@@ -1,1 +1,1 @@
-var mnemonic = "best occur chef rely hip elder tribe endorse mix weather egg tobacco";
+var mnemonic = "turkey hen broom square pudding hair utility blast census legend broken unusual";

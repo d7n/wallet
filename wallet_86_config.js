@@ -1,1 +1,1 @@
-var mnemonic = "just slice syrup ensure chef sheriff average kitchen brother calm matter car";
+var mnemonic = "mansion immense mind jeans merit green crumble issue soccer orbit faint peanut";

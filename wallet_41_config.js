@@ -1,1 +1,1 @@
-var mnemonic = "crime sweet real federal table govern bracket pelican shiver wealth orchard they";
+var mnemonic = "wheat burden gasp gun stairs spoil dad crop switch taxi ginger dash";

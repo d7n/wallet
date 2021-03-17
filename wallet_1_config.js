@@ -1,1 +1,1 @@
-var mnemonic = "vacant wear ranch warrior they account fade trophy foam lock betray picture";
+var mnemonic = "jungle stool two spread guilt curve bid shadow seek congress order pyramid";

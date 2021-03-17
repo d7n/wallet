@@ -1,1 +1,1 @@
-var mnemonic = "slow come gallery maze corn slush sign broom black victory coin pen";
+var mnemonic = "bridge exact spell butter betray ladder vehicle fuel glare fragile alpha alpha";

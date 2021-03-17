@@ -1,1 +1,1 @@
-var mnemonic = "double hammer mention keen ice clay column move cheap solid farm cement";
+var mnemonic = "home butter fence domain knock violin frequent draft breeze laptop chuckle bacon";

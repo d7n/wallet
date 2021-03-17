@@ -1,1 +1,1 @@
-var mnemonic = "glad sausage avoid yard practice pepper dream gravity school lesson soon mean";
+var mnemonic = "infant ready clap adjust quit aware plate benefit ski push bag illness";

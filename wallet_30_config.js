@@ -1,1 +1,1 @@
-var mnemonic = "horse cousin state banner become sell invest rotate distance reunion chronic ship";
+var mnemonic = "average plug jar super turn virus garlic sock unknown sword copy exit";

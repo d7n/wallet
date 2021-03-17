@@ -1,1 +1,1 @@
-var mnemonic = "window innocent lobster spoon identify orient tortoise false skate large before cash";
+var mnemonic = "wise elegant south tornado crop face junk vicious citizen journey secret oyster";

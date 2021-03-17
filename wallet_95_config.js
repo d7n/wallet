@@ -1,1 +1,1 @@
-var mnemonic = "roof crucial aim minor lock wreck rally drill pool myself similar divorce";
+var mnemonic = "detail mixed oil example bulb attitude street catch ceiling tape jealous remember";

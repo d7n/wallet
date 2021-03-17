@@ -1,1 +1,1 @@
-var mnemonic = "aerobic nut hard rice detect dial hammer zoo legend toddler denial crater";
+var mnemonic = "guess crystal cry spare fresh cross bubble disagree rail novel anxiety march";

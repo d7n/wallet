@@ -1,1 +1,1 @@
-var mnemonic = "travel arena step world response glass fat mask solid ramp poem wise";
+var mnemonic = "trash route aim disagree luggage ritual october brave visa voice achieve tired";

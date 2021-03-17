@@ -1,1 +1,1 @@
-var mnemonic = "snake this output midnight argue situate will amazing finish vault surround century";
+var mnemonic = "perfect priority census staff napkin better palm slow normal talent awake city";

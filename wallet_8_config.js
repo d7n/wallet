@@ -1,1 +1,1 @@
-var mnemonic = "rubber deal across chase vocal destroy rubber share portion allow curve embrace";
+var mnemonic = "afraid skill discover word ribbon law action extra taste aspect please staff";

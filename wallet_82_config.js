@@ -1,1 +1,1 @@
-var mnemonic = "secret pistol walk copper melt wheel cram ethics off noodle meadow blush";
+var mnemonic = "fossil decline dinner lunch flower point glimpse convince toward sorry frost mirror";

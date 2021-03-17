@@ -1,1 +1,1 @@
-var mnemonic = "talent never crime belt wolf corn ketchup name face fringe light reflect";
+var mnemonic = "manage faint mansion dragon orange sausage sponsor rain apart symptom birth lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom fantasy thunder void disease sock cross anxiety stereo wood usual analyst";
+var mnemonic = "antenna poet crater answer disease famous crack fame balance juice stay neglect";

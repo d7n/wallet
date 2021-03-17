@@ -1,1 +1,1 @@
-var mnemonic = "garage empty dance credit double twenty salad main shield adapt welcome athlete";
+var mnemonic = "pluck void remove vocal legend prize basic bounce breeze salon exclude head";

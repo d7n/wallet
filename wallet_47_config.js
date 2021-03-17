@@ -1,1 +1,1 @@
-var mnemonic = "input carry rabbit slender spray busy face endless setup square depth color";
+var mnemonic = "track dynamic glow angle bounce art error edit airport lemon weird fluid";

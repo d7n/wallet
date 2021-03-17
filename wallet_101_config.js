@@ -1,1 +1,1 @@
-var mnemonic = "verify length multiply liberty slot bid canal peasant turn crazy limb coast";
+var mnemonic = "super gas tenant elbow mystery certain frog glue rent wedding bird moment";

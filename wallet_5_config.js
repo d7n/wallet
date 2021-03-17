@@ -1,1 +1,1 @@
-var mnemonic = "tongue actual winner chuckle arctic derive bring report tube recipe economy capital";
+var mnemonic = "priority feature offer vehicle worth rebel furnace upper romance nest mother tree";

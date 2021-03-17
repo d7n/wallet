@@ -1,1 +1,1 @@
-var mnemonic = "brisk antique violin assist expose away embrace electric valve burger access satoshi";
+var mnemonic = "grant pupil protect ride wet embark track over black envelope language animal";

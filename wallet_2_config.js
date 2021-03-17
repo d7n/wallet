@@ -1,1 +1,1 @@
-var mnemonic = "drop genre course disorder leave cabin card learn sponsor spend vacant ready";
+var mnemonic = "element heavy stable normal razor embody penalty muscle purity feed pledge mail";

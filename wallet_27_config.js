@@ -1,1 +1,1 @@
-var mnemonic = "joy carpet join area filter cliff party gasp fossil genre cruel turtle";
+var mnemonic = "shell mixed excuse extend manual library profit smooth bulb still copper actor";

@@ -1,1 +1,1 @@
-var mnemonic = "board vacant wire mean sweet increase front lumber please letter slogan pony";
+var mnemonic = "manual crazy journey law legal way fit bleak decide keen rebel coffee";

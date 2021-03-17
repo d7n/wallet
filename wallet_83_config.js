@@ -1,1 +1,1 @@
-var mnemonic = "flavor embody lava hour screen drive verify coach sketch nice wash alien";
+var mnemonic = "oyster delay blame magic young property disagree that harsh unaware exile castle";
