@@ -1,1 +1,1 @@
-var mnemonic = "steak answer exercise sunny want off copy smart street enable exotic equal";
+var mnemonic = "account shallow tide whale tonight oak scorpion guess bone belt tennis follow";

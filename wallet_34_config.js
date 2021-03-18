@@ -1,1 +1,1 @@
-var mnemonic = "fog weird jacket cover identify bus climb tattoo copper despair bring gorilla";
+var mnemonic = "sand book camp normal found void seed cream coast lava cram drum";

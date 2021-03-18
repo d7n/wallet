@@ -1,1 +1,1 @@
-var mnemonic = "snap battle mouse snap sheriff hurdle swallow normal crucial hover outer danger";
+var mnemonic = "bleak minimum angry proof keep client spell glove impose idea cave option";

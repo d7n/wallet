@@ -1,1 +1,1 @@
-var mnemonic = "sunset vital nature custom young lyrics barely author unable midnight honey inquiry";
+var mnemonic = "benefit flag wood script firm try spoon tone alcohol ride bullet kite";

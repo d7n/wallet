@@ -1,1 +1,1 @@
-var mnemonic = "inquiry benefit embody learn author denial cement faith report much survey scheme";
+var mnemonic = "ceiling select cram chuckle tobacco cart enjoy divorce romance silly clean trim";

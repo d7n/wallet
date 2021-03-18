@@ -1,1 +1,1 @@
-var mnemonic = "owner broom derive blouse pitch usage kitchen wish sight dentist name ostrich";
+var mnemonic = "inmate flash inner divert hockey universe lyrics property december project dizzy husband";

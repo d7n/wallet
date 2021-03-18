@@ -1,1 +1,1 @@
-var mnemonic = "convince sad script unhappy gospel kingdom high orange sun stool home danger";
+var mnemonic = "tree clean property bundle dose choose dice invite hungry disagree test egg";

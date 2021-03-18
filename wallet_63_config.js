@@ -1,1 +1,1 @@
-var mnemonic = "sell stomach hammer delay engine decade spy flee door host talk paper";
+var mnemonic = "cross earth left garlic gas banner motor void atom route bridge floor";

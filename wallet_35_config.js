@@ -1,1 +1,1 @@
-var mnemonic = "long cattle sausage accident nut impact soup work vacuum portion type office";
+var mnemonic = "sorry gesture near table jeans junior flight rural physical hover maximum extend";

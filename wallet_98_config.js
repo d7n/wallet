@@ -1,1 +1,1 @@
-var mnemonic = "catalog promote buyer dust banana erase wrong viable brass anxiety primary gospel";
+var mnemonic = "argue place sweet rug peasant cat airport move air room prevent rib";

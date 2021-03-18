@@ -1,1 +1,1 @@
-var mnemonic = "guard congress scatter motion violin easy love afraid alert food cement still";
+var mnemonic = "borrow exist resist banana churn noise oven spoon daughter task group project";

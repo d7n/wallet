@@ -1,1 +1,1 @@
-var mnemonic = "author ready answer jungle legal lion hood dish man bar this oven";
+var mnemonic = "sting inmate legend spider web cool grass normal bargain clip ketchup repeat";

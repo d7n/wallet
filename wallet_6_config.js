@@ -1,1 +1,1 @@
-var mnemonic = "true actor dirt woman toddler own public valve exercise rare entry oblige";
+var mnemonic = "solve field primary jacket virus sustain exotic debate seminar ankle seat goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "neither practice twenty sock fall empower cute segment cluster impose void route";
+var mnemonic = "swim endorse stay dress sock slender speak opera flag vast mammal coil";

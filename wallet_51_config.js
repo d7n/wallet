@@ -1,1 +1,1 @@
-var mnemonic = "spare check hat obey alone feature aunt animal oppose magic guitar slam";
+var mnemonic = "copy typical keep rain priority heart great effort seven afford hen bulb";

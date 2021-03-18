@@ -1,1 +1,1 @@
-var mnemonic = "verify nice notable tool unusual weekend early become differ donate rough poem";
+var mnemonic = "begin window swear soldier note name gadget garlic video brand bean anxiety";

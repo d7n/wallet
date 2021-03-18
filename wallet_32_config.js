@@ -1,1 +1,1 @@
-var mnemonic = "street sniff plate prison cycle stay shiver economy indicate army custom sorry";
+var mnemonic = "winner cargo canal love proud flat away volume girl flock return ten";

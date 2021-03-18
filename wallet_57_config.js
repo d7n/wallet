@@ -1,1 +1,1 @@
-var mnemonic = "brand crane baby sting place voice little dizzy short category drift they";
+var mnemonic = "jeans right market because obtain warrior royal wink push trumpet pair lion";

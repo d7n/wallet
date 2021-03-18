@@ -1,1 +1,1 @@
-var mnemonic = "approve cave car palace clock soup cause remove picnic tired alert release";
+var mnemonic = "cricket relax category winter project police people high brown awesome melody guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "remember light bring device soldier tag lunch profit scissors family turn mobile";
+var mnemonic = "toy gravity usage hunt kiss candy pave manage mimic casual foil excess";

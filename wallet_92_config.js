@@ -1,1 +1,1 @@
-var mnemonic = "obtain fringe helmet various empower polar rabbit wide example copy ozone energy";
+var mnemonic = "cactus level awesome bread tattoo water vast effort uphold zebra impulse twelve";

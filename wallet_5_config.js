@@ -1,1 +1,1 @@
-var mnemonic = "enable problem portion update join strong cherry solid satoshi ball puzzle couple";
+var mnemonic = "soap lyrics nuclear drill noodle popular uniform quit city lobster mystery cable";

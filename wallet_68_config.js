@@ -1,1 +1,1 @@
-var mnemonic = "disease decorate myth accident razor weasel very earn surface improve sport notice";
+var mnemonic = "once primary sphere just popular meadow fuel project silly file scene phone";

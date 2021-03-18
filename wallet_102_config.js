@@ -1,1 +1,1 @@
-var mnemonic = "welcome close payment slot advance there glove lazy confirm coconut slogan patient";
+var mnemonic = "rain again broccoli vicious report online estate oval project follow venue artwork";

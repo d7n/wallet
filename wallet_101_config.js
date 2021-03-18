@@ -1,1 +1,1 @@
-var mnemonic = "fence sibling federal grass luxury happy black awful isolate floor steel paddle";
+var mnemonic = "shine panic team plunge crack kit yellow coach split empower wagon skate";

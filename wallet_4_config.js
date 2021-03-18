@@ -1,1 +1,1 @@
-var mnemonic = "certain clock prosper unfold middle hidden logic curtain eternal chuckle scale afraid";
+var mnemonic = "culture fine today very zone cinnamon mirror seat story rocket erase eagle";

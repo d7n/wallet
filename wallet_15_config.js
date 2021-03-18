@@ -1,1 +1,1 @@
-var mnemonic = "tray spoil crisp exit project cricket luggage early fatal entire lounge tomorrow";
+var mnemonic = "dilemma museum teach protect permit okay often spirit winter illegal inspire assume";

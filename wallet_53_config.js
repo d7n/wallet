@@ -1,1 +1,1 @@
-var mnemonic = "scale fantasy save together stone tongue bring network relax profit suffer globe";
+var mnemonic = "craft general can pupil cream now isolate clock gasp torch shield hold";

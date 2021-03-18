@@ -1,1 +1,1 @@
-var mnemonic = "badge unknown flight can series vote zero fat time caught error mad";
+var mnemonic = "limit bacon sport cook reunion future dry wine bronze husband jewel couple";

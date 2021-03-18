@@ -1,1 +1,1 @@
-var mnemonic = "veteran candy basket real response wave wisdom arrive vote judge average van";
+var mnemonic = "supply edge move umbrella scheme patch rare behind inject abandon coral mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "today save taste essay truly final agent equal strategy enlist denial there";
+var mnemonic = "riot ketchup topple alpha hen rely various fuel goose dry donkey wet";

@@ -1,1 +1,1 @@
-var mnemonic = "grain super main old pair primary picture tail october country barely fatal";
+var mnemonic = "battle negative entry fan month foot lumber game pattern spare elder office";

@@ -1,1 +1,1 @@
-var mnemonic = "endless manual debris loan submit swift indicate casino miss require narrow room";
+var mnemonic = "bamboo planet pumpkin tube produce goat sport then firm day ocean title";

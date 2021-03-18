@@ -1,1 +1,1 @@
-var mnemonic = "spare core matrix trip blanket twist drop author such baby antenna shiver";
+var mnemonic = "bounce pioneer excess cabin stock tourist burden minor element into tomorrow believe";

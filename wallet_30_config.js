@@ -1,1 +1,1 @@
-var mnemonic = "expect address nurse purchase mind march hunt shine tonight document combine truly";
+var mnemonic = "nice credit system horse project soon boss can holiday twist cause prevent";

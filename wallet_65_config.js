@@ -1,1 +1,1 @@
-var mnemonic = "say prize symbol squeeze reduce hundred guess camp arrest beauty armor record";
+var mnemonic = "control vivid consider flavor slam young abstract narrow used fossil onion screen";

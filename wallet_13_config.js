@@ -1,1 +1,1 @@
-var mnemonic = "clump tell hard lonely gentle outdoor squeeze jealous asthma nerve giant icon";
+var mnemonic = "social nephew like crush room fiction runway all brown grid unfair coyote";

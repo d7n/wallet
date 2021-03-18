@@ -1,1 +1,1 @@
-var mnemonic = "swarm horror zone crucial toss razor lend limb lamp pumpkin install muffin";
+var mnemonic = "arrest wife addict bar news bar jacket pottery slide exact banana toilet";

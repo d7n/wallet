@@ -1,1 +1,1 @@
-var mnemonic = "divert pattern sugar wife industry network vendor chronic sun vocal surface fall";
+var mnemonic = "sniff fresh admit hurt trophy mix injury unveil survey absurd crisp foam";

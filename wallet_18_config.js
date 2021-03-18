@@ -1,1 +1,1 @@
-var mnemonic = "random write actual city eternal future unknown stairs asthma slight soap attitude";
+var mnemonic = "milk height melody city express strong kidney gravity armor evil distance equal";

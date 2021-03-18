@@ -1,1 +1,1 @@
-var mnemonic = "swamp kingdom royal subject rural observe sausage oxygen clay flag system wear";
+var mnemonic = "junk review flat wink argue afford sock barely surface bundle fury danger";

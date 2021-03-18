@@ -1,1 +1,1 @@
-var mnemonic = "hire dust dinosaur rifle hat group dice repeat gossip apple elephant outdoor";
+var mnemonic = "remove what minute document spoil move legend sleep uphold month average dutch";

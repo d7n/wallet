@@ -1,1 +1,1 @@
-var mnemonic = "digital company profit survey category sunset frost diary spoon surge other road";
+var mnemonic = "chase rival punch nose use response six mercy cricket fix explain trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "section poverty siege seed fade wife ugly strong wing stairs dynamic pole";
+var mnemonic = "vehicle gas expose wood cherry custom elbow goddess photo piano unable evolve";

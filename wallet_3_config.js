@@ -1,1 +1,1 @@
-var mnemonic = "girl vessel frame addict damage quit orchard about admit wheel enable robust";
+var mnemonic = "program medal hospital syrup arch spin juice finger series announce inspire fly";

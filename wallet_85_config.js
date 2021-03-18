@@ -1,1 +1,1 @@
-var mnemonic = "remind immense wrap profit chief infant moon east crystal spatial before maximum";
+var mnemonic = "erosion inform slice cup another buzz depth island hotel clump notice sand";

@@ -1,1 +1,1 @@
-var mnemonic = "robust object swing discover drill reflect primary since galaxy aspect skill peace";
+var mnemonic = "ritual trim wreck urge reunion field sketch real predict monkey during dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "right tomato volume poet kite gossip push promote mandate gun spring effort";
+var mnemonic = "icon tongue plunge fresh dream manual thing illness vivid dove swallow enable";

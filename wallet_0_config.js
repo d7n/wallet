@@ -1,1 +1,1 @@
-var mnemonic = "emotion unique argue april diary panther brisk clerk cigar bright major opinion";
+var mnemonic = "across response subway blast finish goddess keen enroll bachelor advance motion cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "honey valve trim prevent area present hunt brain stairs tip clown iron";
+var mnemonic = "design address ladder oxygen cage insane evolve bamboo soldier media absent dinner";

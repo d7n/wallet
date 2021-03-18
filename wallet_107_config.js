@@ -1,1 +1,1 @@
-var mnemonic = "exclude furnace obscure collect magic head quick abandon moment village limb tuition";
+var mnemonic = "void jazz pair fiber cannon guard fall notable drive bachelor remain fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "edge cube awesome equip force spatial finish apart symptom spawn decorate feature";
+var mnemonic = "illness hen hire truly cloth educate merge bamboo lock pencil duty evil";

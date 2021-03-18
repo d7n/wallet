@@ -1,1 +1,1 @@
-var mnemonic = "sorry badge photo wide dash business drink marine wine spice unusual verb";
+var mnemonic = "lucky move light snack cancel inmate throw silent draft safe cotton wood";

@@ -1,1 +1,1 @@
-var mnemonic = "edit end grit news ability detect lounge dose fantasy gentle discover extend";
+var mnemonic = "shield drive short finish tooth volcano gossip carbon wonder ensure elder popular";

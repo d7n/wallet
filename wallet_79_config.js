@@ -1,1 +1,1 @@
-var mnemonic = "season coyote squeeze connect accident clinic dumb nasty taxi sudden crystal invite";
+var mnemonic = "stool february profit east border claim smile disorder oblige praise ugly visa";

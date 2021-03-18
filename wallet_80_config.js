@@ -1,1 +1,1 @@
-var mnemonic = "depart primary word rural hour tag prepare hire emerge vague believe aisle";
+var mnemonic = "acoustic model night faint need concert obtain spend cradle train wonder laundry";

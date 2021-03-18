@@ -1,1 +1,1 @@
-var mnemonic = "confirm person dismiss you crime income dog project bachelor sound setup chair";
+var mnemonic = "buffalo outdoor horse ankle spare ritual icon until uncover mechanic biology purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "local potato floor mechanic image toss toddler conduct learn bargain mother boil";
+var mnemonic = "wood scheme napkin problem bundle metal dynamic chat stairs february box lobster";

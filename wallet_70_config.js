@@ -1,1 +1,1 @@
-var mnemonic = "unhappy yard garment stage yellow mean spray reduce lonely idle pepper basic";
+var mnemonic = "decorate abuse time share knock dilemma flip develop lobster answer recycle ask";

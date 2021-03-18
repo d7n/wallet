@@ -1,1 +1,1 @@
-var mnemonic = "general height ginger thank employ fuel night husband mechanic shrimp doctor track";
+var mnemonic = "make off dynamic oppose inhale input deposit lake boat weasel punch muffin";

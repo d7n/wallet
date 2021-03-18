@@ -1,1 +1,1 @@
-var mnemonic = "decorate juice lamp section decrease seek brown opinion monkey fox kind intact";
+var mnemonic = "reflect include answer lion tribe buffalo payment remove memory refuse brass demand";

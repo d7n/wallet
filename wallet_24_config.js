@@ -1,1 +1,1 @@
-var mnemonic = "gather siren thumb across situate cable erase tennis biology way enemy extend";
+var mnemonic = "pioneer guard company test powder tissue state spin eight sunny pair absorb";

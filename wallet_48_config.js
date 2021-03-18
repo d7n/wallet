@@ -1,1 +1,1 @@
-var mnemonic = "quit diesel payment deal bamboo yard language start when nest tired banana";
+var mnemonic = "decline barrel raw palm space vital permit wedding accuse flip render chaos";

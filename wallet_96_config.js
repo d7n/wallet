@@ -1,1 +1,1 @@
-var mnemonic = "various diesel evolve ladder addict dad figure marriage key calm parent mom";
+var mnemonic = "believe wire tomato stereo dry exile truck under awkward approve short net";

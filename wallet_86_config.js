@@ -1,1 +1,1 @@
-var mnemonic = "funny tail begin census wisdom cage obvious forward school trade plastic reduce";
+var mnemonic = "assist just stay bitter gesture taxi shadow hamster animal august humor city";

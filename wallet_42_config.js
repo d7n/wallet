@@ -1,1 +1,1 @@
-var mnemonic = "truck wave wave capable bubble dentist play palace emotion damage monitor clog";
+var mnemonic = "spy adapt situate friend hidden clinic middle shiver boat result section clarify";

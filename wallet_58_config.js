@@ -1,1 +1,1 @@
-var mnemonic = "undo absorb they dial little dance believe soul orphan peanut spider paddle";
+var mnemonic = "cactus style doctor bid toddler venture brass sorry attack depart subject bitter";

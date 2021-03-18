@@ -1,1 +1,1 @@
-var mnemonic = "neither possible wolf oven wing bunker main submit exchange cream change perfect";
+var mnemonic = "noise tube vintage inflict brave grape tell people crucial want weekend believe";

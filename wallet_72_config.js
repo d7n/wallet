@@ -1,1 +1,1 @@
-var mnemonic = "check display slow pioneer sand tide sort decade word bargain fiber effort";
+var mnemonic = "sea seed lemon frequent indoor neck bird episode blue muffin violin online";

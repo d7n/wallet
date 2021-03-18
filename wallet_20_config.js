@@ -1,1 +1,1 @@
-var mnemonic = "wear prosper bench dash scatter rural leisure beef stove canoe fish rally";
+var mnemonic = "number document few toe accident street ozone response myself novel episode peace";

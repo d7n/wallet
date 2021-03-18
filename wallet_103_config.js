@@ -1,1 +1,1 @@
-var mnemonic = "area cigar tribe deliver team inhale spatial bulk bamboo green peace great";
+var mnemonic = "soccer gospel badge asset can limb intact fever cousin law foil one";

@@ -1,1 +1,1 @@
-var mnemonic = "fee gas faint very punch either man layer undo tattoo sad outer";
+var mnemonic = "jelly differ pact filter collect outside winner canyon excite snow unaware hundred";

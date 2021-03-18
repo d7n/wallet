@@ -1,1 +1,1 @@
-var mnemonic = "cross bachelor hurt help possible session gloom rigid nerve minute original such";
+var mnemonic = "beauty stem month soap erosion disorder scrap shield crouch craft couple twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "best matter issue knock trim fortune planet topic meadow miss wave scan";
+var mnemonic = "bid hawk paper deliver velvet obvious divorce attitude subway point sponsor fix";

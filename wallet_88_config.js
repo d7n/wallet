@@ -1,1 +1,1 @@
-var mnemonic = "music impact plunge coin apology below cereal float step diesel device happy";
+var mnemonic = "street blush viable spawn nuclear crazy bulb cable danger rhythm you wreck";

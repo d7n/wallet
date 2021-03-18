@@ -1,1 +1,1 @@
-var mnemonic = "erase kangaroo aspect thought shop aim visual tunnel maid crawl win parent";
+var mnemonic = "choice burst margin dinner skirt frozen oval poet brief assist portion ankle";

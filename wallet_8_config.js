@@ -1,1 +1,1 @@
-var mnemonic = "range rubber there tackle eternal dizzy govern city all tortoise reward repair";
+var mnemonic = "lamp luxury please cruel spoon valley donor forget dad video december circle";

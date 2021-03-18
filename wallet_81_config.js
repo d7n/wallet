@@ -1,1 +1,1 @@
-var mnemonic = "start session entire wage page immense acoustic onion ramp private demand soul";
+var mnemonic = "shoe bicycle stuff assist correct pottery best harbor peasant project quit collect";

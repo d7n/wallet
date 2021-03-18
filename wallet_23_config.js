@@ -1,1 +1,1 @@
-var mnemonic = "luggage umbrella scene flame wheel crack idle business acquire wealth common answer";
+var mnemonic = "sauce sniff oval example husband minimum twelve gorilla loan leopard meadow cage";

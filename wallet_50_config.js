@@ -1,1 +1,1 @@
-var mnemonic = "flee burger burst miss sister harvest wrong cage tuition neither brand either";
+var mnemonic = "token indoor option useful virus message stadium shoe push child fall climb";

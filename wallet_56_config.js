@@ -1,1 +1,1 @@
-var mnemonic = "drip long inspire enemy layer kind depth frame wash female copy canvas";
+var mnemonic = "cinnamon surprise cancel rifle calm arrow truck clay exile cloth segment memory";

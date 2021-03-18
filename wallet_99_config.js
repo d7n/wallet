@@ -1,1 +1,1 @@
-var mnemonic = "pupil action host piano middle dumb body frame shuffle animal anger spare";
+var mnemonic = "cream core room again measure swing fatal repeat strike camp uncover want";

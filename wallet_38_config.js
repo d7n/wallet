@@ -1,1 +1,1 @@
-var mnemonic = "only giant never crisp pipe wool virtual cost sound odor honey return";
+var mnemonic = "check useless egg awake film rookie jewel frost theme state drum vendor";

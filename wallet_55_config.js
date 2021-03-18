@@ -1,1 +1,1 @@
-var mnemonic = "attack picnic race hamster shiver kitten learn blouse pond salt deliver insane";
+var mnemonic = "face twelve reveal piano suit truth license champion lava shock shaft rival";

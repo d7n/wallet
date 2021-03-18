@@ -1,1 +1,1 @@
-var mnemonic = "enroll swap valley nose boss label supreme social menu now brain hill";
+var mnemonic = "jeans artwork age card acoustic please lumber can laundry dinner harsh pupil";

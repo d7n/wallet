@@ -1,1 +1,1 @@
-var mnemonic = "link replace catalog remind poet actress agent erase muffin example concert dress";
+var mnemonic = "virus airport elevator noodle hill broccoli salt image divert field misery hockey";

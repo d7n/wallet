@@ -1,1 +1,1 @@
-var mnemonic = "proud power learn crisp grain salt sunny weasel vendor multiply naive lawsuit";
+var mnemonic = "stamp urban kingdom organ glimpse invite asset spoil lonely old pelican elite";

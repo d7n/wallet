@@ -1,1 +1,1 @@
-var mnemonic = "oak absurd spell secret giant nation feature genre exact attack organ embody";
+var mnemonic = "life price mosquito club cream village rough spatial toilet castle clutch kite";

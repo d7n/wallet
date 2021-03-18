@@ -1,1 +1,1 @@
-var mnemonic = "describe mercy ready tomato bike squeeze behind maximum divorce robust frame bounce";
+var mnemonic = "false poverty fragile member dust clump develop hawk ill wet spice call";

@@ -1,1 +1,1 @@
-var mnemonic = "idea syrup early result universe crouch cinnamon lab assume surge cause verb";
+var mnemonic = "pipe potato route outdoor dash next buddy swallow onion elbow kitchen actor";
