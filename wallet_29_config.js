@@ -1,1 +1,1 @@
-var mnemonic = "mountain tip rate hospital neglect empower lesson notice critic memory boss genre";
+var mnemonic = "labor defense indicate rule weekend antique latin stairs sunset crack hand bright";

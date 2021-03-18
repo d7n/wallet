@@ -1,1 +1,1 @@
-var mnemonic = "plastic firm teach master morning bottom tent fun awful index guilt ghost";
+var mnemonic = "tired royal isolate frequent captain chaos marble rifle mansion accident produce live";

@@ -1,1 +1,1 @@
-var mnemonic = "moment violin stone draw mind radar silly cactus turn blush claim someone";
+var mnemonic = "amazing again need beauty process ostrich settle practice project feed access curve";

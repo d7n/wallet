@@ -1,1 +1,1 @@
-var mnemonic = "paddle embody whisper danger visit helmet web when visual cousin ramp source";
+var mnemonic = "slice mention lesson step clerk lemon guide verify track hurdle deer glass";

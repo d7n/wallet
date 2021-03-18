@@ -1,1 +1,1 @@
-var mnemonic = "antique scatter style person response blue quarter hollow light fringe square help";
+var mnemonic = "device item dragon poet onion chat today wire shed wood urge edge";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket code elbow swap forum swarm olympic million pulse educate neck outdoor";
+var mnemonic = "learn battle begin permit cross wolf toss soccer top grace syrup october";

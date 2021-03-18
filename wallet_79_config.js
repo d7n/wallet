@@ -1,1 +1,1 @@
-var mnemonic = "elbow vacant aspect oppose sail already syrup pipe item page doll circle";
+var mnemonic = "dolphin tortoise cricket spend suggest caution tube blur pony coach typical faculty";

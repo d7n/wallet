@@ -1,1 +1,1 @@
-var mnemonic = "abandon illegal hurry veteran prefer soft hair expect true palm fat seven";
+var mnemonic = "subway glide huge machine never prison split energy carbon tonight machine laugh";

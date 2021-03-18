@@ -1,1 +1,1 @@
-var mnemonic = "income tower shop solution impose south bar three demise violin neck canvas";
+var mnemonic = "step hint chase patient carpet uncover pave dynamic craft cup attend rigid";

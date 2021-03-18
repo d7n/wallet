@@ -1,1 +1,1 @@
-var mnemonic = "high medal buffalo bench innocent rather sport spend leg pride table three";
+var mnemonic = "okay clinic pumpkin risk snake task dwarf loud welcome engine point away";

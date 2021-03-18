@@ -1,1 +1,1 @@
-var mnemonic = "expire cinnamon short drive parent firm race elbow fun fashion excuse tortoise";
+var mnemonic = "thank grain acoustic clarify level push protect ahead zoo never hurry adult";

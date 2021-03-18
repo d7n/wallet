@@ -1,1 +1,1 @@
-var mnemonic = "shoot mixture excess knock excess anchor survey sign boy genius prize rabbit";
+var mnemonic = "address battle visit tobacco skull scout boil nominee agent shed owner friend";

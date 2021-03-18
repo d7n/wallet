@@ -1,1 +1,1 @@
-var mnemonic = "wage until reflect cluster alert fade boring board pumpkin nephew trouble around";
+var mnemonic = "special blur limit thing lady verb crater wood switch avoid sweet enemy";

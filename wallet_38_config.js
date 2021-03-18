@@ -1,1 +1,1 @@
-var mnemonic = "shield require author vivid toss snack sentence doll obscure sport marine hand";
+var mnemonic = "biology agree goat taste course level cactus anchor denial penalty venue throw";

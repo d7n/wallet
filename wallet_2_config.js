@@ -1,1 +1,1 @@
-var mnemonic = "fee exotic host fire tired liar submit december theme wild wrestle tackle";
+var mnemonic = "airport alien bullet elephant logic squirrel anchor trophy express rice chalk host";

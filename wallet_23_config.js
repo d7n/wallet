@@ -1,1 +1,1 @@
-var mnemonic = "habit child element claw scale bulb comic patch frog clip bottom ceiling";
+var mnemonic = "august sleep song umbrella symptom peasant hurdle settle clay entire trash unlock";

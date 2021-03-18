@@ -1,1 +1,1 @@
-var mnemonic = "critic term push youth strong wonder genuine language derive oval neither aerobic";
+var mnemonic = "excite reunion hello record prize artwork pipe visa logic dust spider logic";

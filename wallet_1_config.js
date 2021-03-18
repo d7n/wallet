@@ -1,1 +1,1 @@
-var mnemonic = "army brain goose empty donate knock gold cry bind gesture gate high";
+var mnemonic = "crunch pilot either cancel glare entire salt ring actual tiny grit short";

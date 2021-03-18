@@ -1,1 +1,1 @@
-var mnemonic = "ski eyebrow soldier arm pulse box spin action regular dinner lawsuit cram";
+var mnemonic = "punch dirt fiction undo top voice tower buyer doctor library force select";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge wisdom afford wing crunch story gauge pull hope raw visit guitar";
+var mnemonic = "shock explain index merry deputy window ahead tribe drink attend web alert";

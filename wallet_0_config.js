@@ -1,1 +1,1 @@
-var mnemonic = "brush school mountain ozone merge sudden will mind rhythm quote lumber photo";
+var mnemonic = "position payment mandate gesture fiscal scorpion leader glow blast endorse gentle coin";

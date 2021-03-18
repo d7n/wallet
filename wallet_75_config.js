@@ -1,1 +1,1 @@
-var mnemonic = "guilt water resemble excuse question lunch glance time logic word rural rude";
+var mnemonic = "obscure cactus plunge mad bracket renew will sibling rough chaos all spirit";

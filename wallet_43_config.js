@@ -1,1 +1,1 @@
-var mnemonic = "scare together remain knee brave try wait extra whisper sustain clap cheap";
+var mnemonic = "rug pluck response badge hurry reflect dish insect custom scatter rival trade";

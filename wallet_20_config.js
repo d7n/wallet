@@ -1,1 +1,1 @@
-var mnemonic = "weapon pudding hip flush mutual style involve host camp believe thought giraffe";
+var mnemonic = "wait ripple around kitten normal toy initial cotton monster oak random balcony";

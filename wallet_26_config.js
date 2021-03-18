@@ -1,1 +1,1 @@
-var mnemonic = "giant nest decline bamboo normal process favorite various rack weather ethics anger";
+var mnemonic = "wise rate quarter crazy knife flip bar vehicle unit member giggle spoon";

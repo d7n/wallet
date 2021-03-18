@@ -1,1 +1,1 @@
-var mnemonic = "large tip jungle marriage anger top banner trial wet student ivory kiwi";
+var mnemonic = "tide balance range bachelor dash frog stuff rookie wedding typical bean escape";

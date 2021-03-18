@@ -1,1 +1,1 @@
-var mnemonic = "usage first hand position blanket often pond lyrics surface upset awful business";
+var mnemonic = "gospel razor feel tuna can call cradle life valid salon hub clerk";

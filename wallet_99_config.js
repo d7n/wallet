@@ -1,1 +1,1 @@
-var mnemonic = "crawl check clever latin same giraffe ride profit thing nurse spirit clarify";
+var mnemonic = "soul into venture lucky conduct ill beauty online flush exact inhale dolphin";

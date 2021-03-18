@@ -1,1 +1,1 @@
-var mnemonic = "dust lesson immense rebel define scan sock ranch harbor alcohol gorilla second";
+var mnemonic = "vessel foil scrub exercise alcohol oblige gain enrich phrase outer monster amount";

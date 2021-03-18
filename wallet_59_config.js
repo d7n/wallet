@@ -1,1 +1,1 @@
-var mnemonic = "ranch rather soap mixture practice dragon dumb wage torch purchase battle trend";
+var mnemonic = "domain step culture employ oppose volcano tomorrow horse brother base fame school";

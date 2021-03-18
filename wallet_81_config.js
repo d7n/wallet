@@ -1,1 +1,1 @@
-var mnemonic = "garden ensure pilot gate outer garbage effort axis rescue property ridge farm";
+var mnemonic = "bag gym alter economy endless brief spoil river path drip economy broccoli";

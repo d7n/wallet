@@ -1,1 +1,1 @@
-var mnemonic = "dwarf evolve move truck prepare provide calm empty empower confirm bamboo gloom";
+var mnemonic = "receive viable split magic match option identify response december attend side upon";

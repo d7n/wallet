@@ -1,1 +1,1 @@
-var mnemonic = "deliver extend announce face canvas opera empower security bus outdoor trash option";
+var mnemonic = "bomb allow hand success rib accuse omit dress slam sketch royal exist";

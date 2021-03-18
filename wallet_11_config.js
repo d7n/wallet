@@ -1,1 +1,1 @@
-var mnemonic = "little gym film subject session soft symbol tiger walk picture expose harsh";
+var mnemonic = "rally cruel damage globe donor hundred mix sustain wool gorilla uncle bulk";

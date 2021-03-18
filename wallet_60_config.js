@@ -1,1 +1,1 @@
-var mnemonic = "female beyond firm cinnamon fragile curious hello pottery essay ramp run keep";
+var mnemonic = "kangaroo small describe roast garage wisdom romance identify run project popular stomach";

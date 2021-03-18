@@ -1,1 +1,1 @@
-var mnemonic = "paddle gaze knee defy spider sign border cheap fetch crush payment tribe";
+var mnemonic = "above cancel crazy rebuild original clerk gauge case write rural camp talk";

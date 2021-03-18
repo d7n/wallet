@@ -1,1 +1,1 @@
-var mnemonic = "actor address exit kingdom mosquito hello swarm install surround antenna abandon chapter";
+var mnemonic = "brick shadow company mango upgrade symptom give stand vapor express afraid genuine";

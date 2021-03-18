@@ -1,1 +1,1 @@
-var mnemonic = "fruit wedding exercise place black erosion close draft lecture brick resemble soda";
+var mnemonic = "autumn nominee try seat tattoo art minor zebra surround fat card coin";

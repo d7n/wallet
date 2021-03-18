@@ -1,1 +1,1 @@
-var mnemonic = "fossil artist run price tag knee away slab salad doctor accident kangaroo";
+var mnemonic = "floor ball town fancy wisdom hollow creek sniff advance pride cat year";

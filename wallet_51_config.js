@@ -1,1 +1,1 @@
-var mnemonic = "surface labor code general enter grass bag approve used run wrestle mail";
+var mnemonic = "truly client floor adapt isolate project attend main wine powder bike sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "organ fold build label approve space mind property awake panther input diamond";
+var mnemonic = "oven middle thunder will disagree online want remind elite bone butter maid";

@@ -1,1 +1,1 @@
-var mnemonic = "cable virus omit cost term scrap baby elder arrest prosper panel river";
+var mnemonic = "clock divert fury tomato ridge circle ready park eyebrow mad home rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen update later slam keen boil sample cause surround present cancel window";
+var mnemonic = "select mosquito pledge trim crumble mesh plate real view wolf huge stem";

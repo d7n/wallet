@@ -1,1 +1,1 @@
-var mnemonic = "stereo crash start drift tell caution obtain hub ginger walk nose initial";
+var mnemonic = "tag acoustic thunder quit minor add silk taxi illness table law strong";

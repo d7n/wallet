@@ -1,1 +1,1 @@
-var mnemonic = "appear travel breeze utility maze next defy issue elegant odor bone world";
+var mnemonic = "crazy couch subject suggest rabbit art razor strong surround unlock name execute";

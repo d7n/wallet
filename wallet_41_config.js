@@ -1,1 +1,1 @@
-var mnemonic = "ski critic claim castle source material increase lonely purchase sorry leisure student";
+var mnemonic = "appear idea amateur clean camera rail cluster name peanut basic expand crack";

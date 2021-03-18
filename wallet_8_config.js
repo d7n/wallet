@@ -1,1 +1,1 @@
-var mnemonic = "shell table curve soldier cement left trial hope prison lemon pool destroy";
+var mnemonic = "gloom call please any marine axis fever bubble plug end enhance ceiling";

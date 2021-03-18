@@ -1,1 +1,1 @@
-var mnemonic = "sight satisfy clerk session amazing kiwi letter canoe urban artwork upon radar";
+var mnemonic = "song rail reason frown media peasant deputy lion soon convince walnut sort";

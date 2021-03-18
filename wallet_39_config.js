@@ -1,1 +1,1 @@
-var mnemonic = "melt sail math supreme paper wisdom demand picnic leopard forest junk toddler";
+var mnemonic = "jungle pulp kit beach energy moon coin infant flame act tube divorce";

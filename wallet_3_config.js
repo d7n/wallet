@@ -1,1 +1,1 @@
-var mnemonic = "bird situate goat input tilt bottom account canoe impulse donkey simple become";
+var mnemonic = "salad abandon type bundle curtain cinnamon elbow clinic shock leisure loyal coin";

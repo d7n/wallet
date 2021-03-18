@@ -1,1 +1,1 @@
-var mnemonic = "maximum decline hour language enemy neck firm dream more harvest original album";
+var mnemonic = "indicate when wisdom target cable print adult mosquito mom quick life affair";

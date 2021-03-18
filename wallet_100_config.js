@@ -1,1 +1,1 @@
-var mnemonic = "begin advice fly season chunk lemon doll train nut average three tissue";
+var mnemonic = "swing apology stable foam double strong mom clutch mother butter ecology alley";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard fox usual curious plate fringe cereal essence pottery erosion fruit exchange";
+var mnemonic = "shove mansion beyond certain festival belt suit width tag robust annual worth";

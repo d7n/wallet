@@ -1,1 +1,1 @@
-var mnemonic = "chapter three eagle soup will discover comic model walnut sphere pill gravity";
+var mnemonic = "surface opinion lizard broken butter code swamp naive feature pride trumpet require";

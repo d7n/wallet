@@ -1,1 +1,1 @@
-var mnemonic = "device list boil name until goose upgrade tape turkey misery enforce leg";
+var mnemonic = "rich humor cabin select parent toss marine satoshi hand decrease submit deputy";

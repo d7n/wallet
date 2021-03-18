@@ -1,1 +1,1 @@
-var mnemonic = "worry figure pass garden junior scan sight grab card science thunder physical";
+var mnemonic = "syrup cool vessel glow lazy purity forget piece belt grab ride remove";

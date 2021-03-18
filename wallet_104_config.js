@@ -1,1 +1,1 @@
-var mnemonic = "shock opera super quality voice ticket chapter fluid soft famous cream nominee";
+var mnemonic = "critic carpet dinosaur govern tower visual maid dilemma unveil cushion urban vague";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding stairs address correct buzz indicate pretty stone people pilot sight oyster";
+var mnemonic = "fiction rough casual kidney slight solar funny family flag decline radar illness";

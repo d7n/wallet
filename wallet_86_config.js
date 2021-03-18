@@ -1,1 +1,1 @@
-var mnemonic = "better inquiry foot unlock raccoon demise office stay tray echo gravity chair";
+var mnemonic = "window payment weasel endorse transfer rich entry voyage trade vacuum wedding reunion";

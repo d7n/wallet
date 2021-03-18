@@ -1,1 +1,1 @@
-var mnemonic = "witness deliver pattern always social repair sadness rough museum obvious toilet enough";
+var mnemonic = "transfer conduct coffee zero slow crazy deer raw position carbon like twelve";

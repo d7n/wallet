@@ -1,1 +1,1 @@
-var mnemonic = "various ginger forest unit cherry broccoli boil open chapter gasp twist crumble";
+var mnemonic = "autumn around cost relief energy office bounce bunker breeze giant critic virus";

@@ -1,1 +1,1 @@
-var mnemonic = "kite cancel label cash danger benefit sadness surge avocado apology grab wife";
+var mnemonic = "slight excuse noise leave stick salon surprise bacon member move better swamp";

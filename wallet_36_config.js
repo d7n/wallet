@@ -1,1 +1,1 @@
-var mnemonic = "camp scatter cereal tennis pulp phone lake enough merry town sleep over";
+var mnemonic = "bone arm goddess pet title thumb call siege lock already often choice";

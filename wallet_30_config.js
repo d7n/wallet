@@ -1,1 +1,1 @@
-var mnemonic = "dove burst update stove empower mule rival hole relief wreck mammal grass";
+var mnemonic = "north hollow barely afford violin outdoor mammal enable trend green knife layer";

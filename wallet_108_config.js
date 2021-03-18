@@ -1,1 +1,1 @@
-var mnemonic = "olive electric large outside olympic crash sock phrase napkin trim length region";
+var mnemonic = "embark trouble noodle jump pepper mixed grid voyage double weapon year various";

@@ -1,1 +1,1 @@
-var mnemonic = "antique merit indicate infant short forum fresh village vague exist material elegant";
+var mnemonic = "stock multiply scan plastic curious faint push crash favorite pause link click";

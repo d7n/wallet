@@ -1,1 +1,1 @@
-var mnemonic = "distance polar castle twin nice quick fitness civil name unable company kit";
+var mnemonic = "dad fresh squirrel orbit garbage miss scrub cluster soda fever width fabric";

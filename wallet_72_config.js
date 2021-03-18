@@ -1,1 +1,1 @@
-var mnemonic = "couch winner hurt grace emerge rally drama shoot pill card member false";
+var mnemonic = "shy true solve stamp today front warfare bridge invite flavor float abstract";

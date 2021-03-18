@@ -1,1 +1,1 @@
-var mnemonic = "biology pizza cricket recipe taxi giggle expire extend soldier skate reform gym";
+var mnemonic = "glove unhappy genre fat treat muffin measure size wing club defense inmate";

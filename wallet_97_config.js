@@ -1,1 +1,1 @@
-var mnemonic = "mail behind genius sport industry borrow favorite idea render injury exit luggage";
+var mnemonic = "skin army grief bread gather armed loud uphold staff increase office sadness";

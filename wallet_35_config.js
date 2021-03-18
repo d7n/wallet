@@ -1,1 +1,1 @@
-var mnemonic = "gold until mosquito chair royal december hill screen argue region rich friend";
+var mnemonic = "spin crystal position blouse egg edge charge despair october before paper ill";

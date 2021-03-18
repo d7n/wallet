@@ -1,1 +1,1 @@
-var mnemonic = "diagram sad action soon donate slide tip flat weekend gaze tip frame";
+var mnemonic = "tower unfold estate lottery fatigue diary forward embark camp entry develop animal";

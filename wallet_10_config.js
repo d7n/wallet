@@ -1,1 +1,1 @@
-var mnemonic = "firm any cage twice scale avocado hub tunnel immune canvas axis forget";
+var mnemonic = "spatial special aerobic nest depth gossip ketchup praise away mammal garlic youth";

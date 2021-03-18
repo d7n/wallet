@@ -1,1 +1,1 @@
-var mnemonic = "grocery rude hello worry pass vacant tomato start awake gaze oak salon";
+var mnemonic = "jacket since column emotion album mountain reduce pool guilt expose render soccer";

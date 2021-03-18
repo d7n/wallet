@@ -1,1 +1,1 @@
-var mnemonic = "sword virus interest sleep page intact letter major style spin oxygen ribbon";
+var mnemonic = "tooth parrot meat talent toss cash fix cloth live slight flush whale";

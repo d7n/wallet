@@ -1,1 +1,1 @@
-var mnemonic = "nasty online render weasel mechanic illness dash pulp enhance effort ethics vast";
+var mnemonic = "any stairs honey remind column maid invite agent you flag swim vacant";

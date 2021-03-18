@@ -1,1 +1,1 @@
-var mnemonic = "any knee robust front ski method fortune razor blade gather canvas surface";
+var mnemonic = "napkin company drip interest cheese shock approve cereal chef cactus creek social";

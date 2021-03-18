@@ -1,1 +1,1 @@
-var mnemonic = "young priority uncover thing liar entire chicken green load flag aspect mandate";
+var mnemonic = "often armed home deer steel violin stable prefer future used stuff pilot";

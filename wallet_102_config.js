@@ -1,1 +1,1 @@
-var mnemonic = "pulse door naive theory carry favorite soap angle trophy feature maple hurdle";
+var mnemonic = "record scissors actor ability reflect equal field fame amount seed leaf goddess";

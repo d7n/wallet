@@ -1,1 +1,1 @@
-var mnemonic = "onion degree athlete physical birth anchor genre adult wild trend lake trophy";
+var mnemonic = "indoor reopen wall twelve divide resource okay alpha couch foil window measure";

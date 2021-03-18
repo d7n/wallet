@@ -1,1 +1,1 @@
-var mnemonic = "unique galaxy face surprise brief token young motor amazing bind forum code";
+var mnemonic = "lion upgrade turn coconut maximum can dice season odor gift link diary";

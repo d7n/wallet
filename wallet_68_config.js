@@ -1,1 +1,1 @@
-var mnemonic = "ancient dress cook surge casual jaguar flame bitter tuition metal flower organ";
+var mnemonic = "throw display dust reopen merge ice actress clown similar slam hint suit";

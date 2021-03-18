@@ -1,1 +1,1 @@
-var mnemonic = "lens nest stereo limit execute penalty depth lizard early local into clever";
+var mnemonic = "clown saddle east cook snow ability organ income blossom essence robot shadow";

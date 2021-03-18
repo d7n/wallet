@@ -1,1 +1,1 @@
-var mnemonic = "box buffalo token calm calm boss walk pledge note enable auction fruit";
+var mnemonic = "roast delay little prosper crunch sheriff subject draft crazy demand render play";

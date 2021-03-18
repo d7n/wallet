@@ -1,1 +1,1 @@
-var mnemonic = "wedding fit behave obtain garbage main auction divide audit clay display health";
+var mnemonic = "property loop return reunion document need vast flame valve urban define job";

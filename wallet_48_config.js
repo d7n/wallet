@@ -1,1 +1,1 @@
-var mnemonic = "eager club right unique diary gallery omit enact antique brief skill happy";
+var mnemonic = "around silk lab chronic comic jealous degree morning merge smile pull dog";

@@ -1,1 +1,1 @@
-var mnemonic = "rich teach fresh slice solve cupboard time amateur will short client figure";
+var mnemonic = "agree crane decide donor velvet humble table fragile flat art game special";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap skate ship myself exist pencil visa tank prevent ridge parrot wide";
+var mnemonic = "beyond fee crane know hope matter message type island twenty loan upper";

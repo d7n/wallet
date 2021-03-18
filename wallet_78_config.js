@@ -1,1 +1,1 @@
-var mnemonic = "flush setup aisle smile powder solid olympic fantasy sound barrel text law";
+var mnemonic = "zebra talk protect shuffle label fluid vapor coconut wrestle rigid ridge struggle";

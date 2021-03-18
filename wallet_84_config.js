@@ -1,1 +1,1 @@
-var mnemonic = "later crater great carbon ribbon spirit delay bright expect all swap sand";
+var mnemonic = "interest jelly head economy similar guess jealous title subway luggage all blood";

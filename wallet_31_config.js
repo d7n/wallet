@@ -1,1 +1,1 @@
-var mnemonic = "powder couple melody supreme year syrup wagon vital peanut brain panda fish";
+var mnemonic = "beyond whip stable bleak beauty morning earn hurdle pact surge bicycle faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "oak quit work slogan cotton ship uncle cotton alarm wedding learn enroll";
+var mnemonic = "hollow rebuild service axis dismiss wheat episode video fly track gain stereo";
