@@ -1,1 +1,1 @@
-var mnemonic = "occur nut wet health senior theory thought size rose snake pyramid fury";
+var mnemonic = "hamster shadow evolve future tattoo depart grow sport often gesture engine receive";

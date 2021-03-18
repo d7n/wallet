@@ -1,1 +1,1 @@
-var mnemonic = "ginger spare flee agree spread soft phrase ability lunar liquid salmon inform";
+var mnemonic = "arch salon school people garment grace cycle chapter galaxy sadness until adult";

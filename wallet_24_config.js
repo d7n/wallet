@@ -1,1 +1,1 @@
-var mnemonic = "pen ostrich critic toward logic venture outer traffic marriage dance radar reason";
+var mnemonic = "sadness pool pair taxi fitness grab soda shuffle vehicle diamond beach idea";

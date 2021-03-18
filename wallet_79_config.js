@@ -1,1 +1,1 @@
-var mnemonic = "wife pond carry crawl police cluster smart sock goat strong easily carbon";
+var mnemonic = "edge icon daring liquid alone kiss armed force bronze proof happy leader";

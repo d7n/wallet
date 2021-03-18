@@ -1,1 +1,1 @@
-var mnemonic = "army cotton asthma license like cargo evil start clay join kick lunar";
+var mnemonic = "inmate pencil reject woman quantum joke click alter wing head sound uncover";

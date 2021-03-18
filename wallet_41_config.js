@@ -1,1 +1,1 @@
-var mnemonic = "vacant motion galaxy absent thank unfold web gospel require search layer kit";
+var mnemonic = "drift keep barrel wedding stock glad twice battle current screen neither advance";

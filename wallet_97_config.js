@@ -1,1 +1,1 @@
-var mnemonic = "lemon crew alert online sail census resemble forest drive copy canvas fall";
+var mnemonic = "federal faith cycle grid woman able sail early tornado plate nurse tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos harvest insect review potato fatigue cereal viable annual crystal shiver velvet";
+var mnemonic = "more cabbage air intact assist panther above van gap sheriff isolate someone";

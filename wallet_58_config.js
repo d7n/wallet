@@ -1,1 +1,1 @@
-var mnemonic = "column tomorrow print shallow mesh hawk sing exhibit trophy return embrace floor";
+var mnemonic = "urge omit such resemble fit exhaust goddess stool asthma air equip practice";

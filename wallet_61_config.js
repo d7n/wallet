@@ -1,1 +1,1 @@
-var mnemonic = "box curious blame include behave clarify special laugh hamster safe scheme ceiling";
+var mnemonic = "joy donor edge invest country romance credit appear core assist horn pepper";

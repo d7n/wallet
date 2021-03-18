@@ -1,1 +1,1 @@
-var mnemonic = "calm wet rack zoo region luggage visa armed exit glue cup episode";
+var mnemonic = "pass camp clay witness hole sorry bind key divide course absurd captain";

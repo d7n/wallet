@@ -1,1 +1,1 @@
-var mnemonic = "coil wonder large iron stool gas panel volume dirt purse dolphin effort";
+var mnemonic = "tonight much nasty puzzle benefit demise satisfy install apple genius system wife";

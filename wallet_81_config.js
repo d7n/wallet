@@ -1,1 +1,1 @@
-var mnemonic = "trophy empower camera little utility busy quit dream marriage dish drastic goose";
+var mnemonic = "news tattoo demise kitchen radio purity bless analyst code obtain way expect";

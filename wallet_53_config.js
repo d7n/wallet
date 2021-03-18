@@ -1,1 +1,1 @@
-var mnemonic = "reunion swap open agree acquire fatal trust album scout jeans artist hammer";
+var mnemonic = "paper address smart apology sustain snake mushroom brass soap room travel horror";

@@ -1,1 +1,1 @@
-var mnemonic = "bar betray blame sausage sniff small exhaust winter image choose fix palm";
+var mnemonic = "kick kit winner sick pony unhappy scrap rack primary leader fall raw";

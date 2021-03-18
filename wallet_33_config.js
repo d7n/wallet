@@ -1,1 +1,1 @@
-var mnemonic = "shift retire wonder such owner away muscle evolve city daughter salt pet";
+var mnemonic = "child remind giggle crop spy accuse avocado monkey biology puzzle room mountain";

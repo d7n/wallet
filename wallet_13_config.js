@@ -1,1 +1,1 @@
-var mnemonic = "exact supreme captain sail poet alpha wool magnet auction horse mutual source";
+var mnemonic = "word tilt giggle half dove gun pony lesson shift push fee verb";

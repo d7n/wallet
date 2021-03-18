@@ -1,1 +1,1 @@
-var mnemonic = "wheat clarify problem gaze error retreat leopard craft local upper grant step";
+var mnemonic = "noodle system jazz spend excess unusual dune camera switch make armed pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "dash learn dose pull above express peanut purse since issue actress slender";
+var mnemonic = "turtle family sense vivid horror powder scare foot angry receive page afraid";

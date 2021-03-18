@@ -1,1 +1,1 @@
-var mnemonic = "genuine discover miss art sphere rice toddler wise arrest explain bright curve";
+var mnemonic = "symbol poem ticket asthma audit give surprise slender exhaust refuse cube behave";

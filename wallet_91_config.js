@@ -1,1 +1,1 @@
-var mnemonic = "six quit trigger melt step desk invest echo gesture cupboard mule traffic";
+var mnemonic = "still pioneer save else double afraid more juice dinosaur merge race mixture";

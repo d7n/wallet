@@ -1,1 +1,1 @@
-var mnemonic = "honey ladder eye treat glad piece common logic night useful what cruel";
+var mnemonic = "agree bronze lazy potato coral mix brass hero crawl twenty debris amount";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby answer iron bread lawsuit woman ensure outer milk neutral bounce insect";
+var mnemonic = "swim virtual dirt become brisk library rhythm figure machine doll quit latin";

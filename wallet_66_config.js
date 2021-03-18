@@ -1,1 +1,1 @@
-var mnemonic = "transfer eagle thing craft promote assault raven day over bulk style sure";
+var mnemonic = "roast bamboo empower reopen whip brick chase drip tongue hungry blanket okay";

@@ -1,1 +1,1 @@
-var mnemonic = "hint toy ritual sense shiver sort animal inquiry march fog climb okay";
+var mnemonic = "share spring cute dry avocado divide quantum juice much alcohol cloud now";

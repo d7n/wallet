@@ -1,1 +1,1 @@
-var mnemonic = "express fun nasty order blame develop excite trial gloom able what rotate";
+var mnemonic = "provide bench shuffle arrange arctic monitor crucial clay wink any finger hundred";

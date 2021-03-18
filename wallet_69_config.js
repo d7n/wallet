@@ -1,1 +1,1 @@
-var mnemonic = "isolate any misery rich orient green female skate pair van neck ticket";
+var mnemonic = "grape sunset bonus genre magnet illegal attract obvious evidence absorb help lend";

@@ -1,1 +1,1 @@
-var mnemonic = "response tuna endless bomb bronze happy sock solve team use swarm never";
+var mnemonic = "casual rookie top card garment attend harbor penalty elder danger tired stereo";

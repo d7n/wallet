@@ -1,1 +1,1 @@
-var mnemonic = "rely merit mesh call knee wood casual spell idea grab simple resource";
+var mnemonic = "boring produce quality salute behind approve town float fresh suit crucial either";

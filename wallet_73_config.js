@@ -1,1 +1,1 @@
-var mnemonic = "mad creek clay stay receive ginger demand elevator off evolve fit minute";
+var mnemonic = "sure wagon melt try lab three rural crime silver camera trial nothing";

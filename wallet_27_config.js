@@ -1,1 +1,1 @@
-var mnemonic = "buddy easy snack exclude sketch congress outside upgrade aisle margin gorilla scrub";
+var mnemonic = "square key vault omit fault cinnamon uniform problem upon swamp great riot";

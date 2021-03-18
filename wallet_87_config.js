@@ -1,1 +1,1 @@
-var mnemonic = "accident lift riot exercise soul town special festival ocean wise labor few";
+var mnemonic = "couch intact renew wage twin knock upset stand above pink capable canoe";

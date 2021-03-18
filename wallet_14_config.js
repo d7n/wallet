@@ -1,1 +1,1 @@
-var mnemonic = "inform chef broken saddle tone airport cigar traffic galaxy supply jealous simple";
+var mnemonic = "rich sunny frown math catalog width cement dust ensure include clown club";

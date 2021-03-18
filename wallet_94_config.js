@@ -1,1 +1,1 @@
-var mnemonic = "subway square change blame interest rate plug hurt diagram dog arch client";
+var mnemonic = "cactus comic exchange express budget gas mushroom sight foster work cross aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost kick news grit wealth other fly deliver polar lounge dream what";
+var mnemonic = "abandon toy surge toy leader alert fog little fatal crazy fish annual";

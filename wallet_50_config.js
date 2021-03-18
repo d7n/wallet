@@ -1,1 +1,1 @@
-var mnemonic = "twenty pet scrap special exist bar rule public sort seminar dream caught";
+var mnemonic = "disorder hint insect hidden example orient oil today bamboo grid car sunny";

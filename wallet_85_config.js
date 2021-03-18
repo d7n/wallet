@@ -1,1 +1,1 @@
-var mnemonic = "math firm flag interest rare ranch miracle arm extra goose vocal filter";
+var mnemonic = "room return weekend often clay anger screen pencil manual sleep crucial visual";

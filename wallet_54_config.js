@@ -1,1 +1,1 @@
-var mnemonic = "tuition absurd such early drop pig seed awake cave exercise artist ozone";
+var mnemonic = "lava input rally brisk humor nut advice rally dry day race curtain";

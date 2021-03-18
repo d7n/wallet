@@ -1,1 +1,1 @@
-var mnemonic = "course battle sting often join shoot whip giraffe destroy tiny exact vessel";
+var mnemonic = "ice old design desk oblige upon just patrol industry addict output submit";

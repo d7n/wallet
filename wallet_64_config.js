@@ -1,1 +1,1 @@
-var mnemonic = "twist dumb elevator boost poet mail paper insect dish donate brown relax";
+var mnemonic = "author coyote canoe chalk nephew relief deliver maze sausage deposit head blind";

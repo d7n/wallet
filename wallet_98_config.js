@@ -1,1 +1,1 @@
-var mnemonic = "polar subway certain kitchen filter affair quarter crew task strong broom figure";
+var mnemonic = "tooth fruit lumber possible marine seminar they effort oak intact tide insect";

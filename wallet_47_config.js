@@ -1,1 +1,1 @@
-var mnemonic = "supreme narrow jacket job require misery alter youth avocado blossom world swarm";
+var mnemonic = "aware cactus glide update glance net hood pass total size govern outer";

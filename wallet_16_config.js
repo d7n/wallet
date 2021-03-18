@@ -1,1 +1,1 @@
-var mnemonic = "solid dune strike impulse genuine whisper whip monkey federal salt view truth";
+var mnemonic = "filter novel play castle garlic deny creek drill faculty inside athlete degree";

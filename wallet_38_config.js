@@ -1,1 +1,1 @@
-var mnemonic = "fortune issue lab tool update sail snake strategy easy put match ticket";
+var mnemonic = "list ripple skin cook zoo month bracket borrow picture add dinosaur donor";

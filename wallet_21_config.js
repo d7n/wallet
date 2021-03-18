@@ -1,1 +1,1 @@
-var mnemonic = "result drastic east century else cool waste carpet outdoor stone have clip";
+var mnemonic = "door arm script tape ready balance letter design hip duty vessel lock";

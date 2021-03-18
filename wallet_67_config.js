@@ -1,1 +1,1 @@
-var mnemonic = "sadness exact desk pool left project disagree spot apology title topic royal";
+var mnemonic = "reward convince judge penalty small advance glimpse crew oxygen accuse load orange";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant slush flock hobby joke afraid unique response cream key indicate regret";
+var mnemonic = "country twelve girl hair fiscal brave taxi brisk verb penalty heart turtle";

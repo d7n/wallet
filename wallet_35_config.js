@@ -1,1 +1,1 @@
-var mnemonic = "ahead hour caution call repair shine duck day desk mind mammal taste";
+var mnemonic = "jealous hold foil antique able orient clump around ticket upgrade skill oppose";

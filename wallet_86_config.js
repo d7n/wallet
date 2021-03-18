@@ -1,1 +1,1 @@
-var mnemonic = "tilt develop crazy manual excuse muffin hidden steel rabbit baby maze vote";
+var mnemonic = "cup ahead diary town motion survey ability lake slight coconut scan slogan";

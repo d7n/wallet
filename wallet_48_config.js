@@ -1,1 +1,1 @@
-var mnemonic = "mandate struggle leopard chapter key stove enlist manage cushion orbit lunch name";
+var mnemonic = "oil renew injury mimic library future dentist spell wage jelly truly hello";

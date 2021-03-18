@@ -1,1 +1,1 @@
-var mnemonic = "brave promote resemble rocket bone alone kind sleep winner deputy puzzle brave";
+var mnemonic = "soap film parade tell near crucial essence film noise slush tube furnace";

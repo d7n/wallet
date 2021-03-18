@@ -1,1 +1,1 @@
-var mnemonic = "mirror course rival throw evidence cigar space fiber apple dust distance label";
+var mnemonic = "stock attitude scan umbrella service million rug test lava priority laundry quarter";

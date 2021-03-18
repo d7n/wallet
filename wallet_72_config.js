@@ -1,1 +1,1 @@
-var mnemonic = "wolf pilot gasp glory walk outdoor desk amazing size music festival easily";
+var mnemonic = "bone orbit review direct lamp exile favorite insane speed account remind science";

@@ -1,1 +1,1 @@
-var mnemonic = "medal anger time convince valve flavor doctor indicate midnight buddy local inmate";
+var mnemonic = "minimum endorse either blood coral zebra water truly short curious turn buddy";

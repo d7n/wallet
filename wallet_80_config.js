@@ -1,1 +1,1 @@
-var mnemonic = "item grief gorilla faith height fork never loyal autumn dolphin aware van";
+var mnemonic = "night whale eye corn banana design awkward lyrics onion fence evil measure";

@@ -1,1 +1,1 @@
-var mnemonic = "dash mystery pattern soccer define cabin they broccoli analyst someone coast grocery";
+var mnemonic = "daughter worry glare april involve potato weasel divert scare guitar tilt soft";

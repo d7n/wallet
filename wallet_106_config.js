@@ -1,1 +1,1 @@
-var mnemonic = "garlic loan disagree result guess garden swim burden abuse stable fish scrap";
+var mnemonic = "add beyond install minute weekend claim road brain choose blade shallow spider";

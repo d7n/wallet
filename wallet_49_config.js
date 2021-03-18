@@ -1,1 +1,1 @@
-var mnemonic = "junk sure bottom mansion spy pass stairs village sport like mail sorry";
+var mnemonic = "adapt stove inject like primary tooth couple letter reason feature hat humble";

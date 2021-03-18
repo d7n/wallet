@@ -1,1 +1,1 @@
-var mnemonic = "apple tone plug pool virus accident lazy cat field stand cup puzzle";
+var mnemonic = "edit square ramp still object miss hair fan beef vault syrup actress";

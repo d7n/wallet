@@ -1,1 +1,1 @@
-var mnemonic = "illegal again move trash neck foam leopard place scout same gadget genius";
+var mnemonic = "tide wire hamster tribe theory theme special pipe pole skill visa rotate";

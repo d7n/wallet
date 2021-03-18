@@ -1,1 +1,1 @@
-var mnemonic = "label jungle shy weapon upset loop add riot leisure burst since good";
+var mnemonic = "blood tone afford brown fitness move educate sweet alien this beauty test";

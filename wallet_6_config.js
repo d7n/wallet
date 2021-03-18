@@ -1,1 +1,1 @@
-var mnemonic = "spike blossom impulse yellow cotton gravity foil panic behave leaf desk patient";
+var mnemonic = "coach afraid column balance plunge foster general mansion layer parade dry select";

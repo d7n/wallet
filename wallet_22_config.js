@@ -1,1 +1,1 @@
-var mnemonic = "abstract annual pen hobby gun quality accident banner alley just raccoon veteran";
+var mnemonic = "veteran enrich eye clean night claw pretty wage never midnight tank issue";

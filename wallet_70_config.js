@@ -1,1 +1,1 @@
-var mnemonic = "frost entry wait stay kiwi ability grow trick student source stamp easily";
+var mnemonic = "crazy town connect shock enable dry cousin need market kid hard mother";

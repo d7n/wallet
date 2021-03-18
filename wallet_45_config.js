@@ -1,1 +1,1 @@
-var mnemonic = "coffee this force stick flush swap thought warm nothing cave know clap";
+var mnemonic = "bird mind harvest breeze fish session legal base dice all physical resource";

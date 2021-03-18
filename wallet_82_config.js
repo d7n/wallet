@@ -1,1 +1,1 @@
-var mnemonic = "eight hip culture remember oven curve eyebrow innocent sell essay lazy process";
+var mnemonic = "earn prefer awkward again mind wrong casual snack exchange kitchen arrow category";

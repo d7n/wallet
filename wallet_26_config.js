@@ -1,1 +1,1 @@
-var mnemonic = "bubble fan token velvet exit color title subway morning anxiety then state";
+var mnemonic = "buffalo blush indoor song food miracle ask soda erode have merit pass";

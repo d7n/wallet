@@ -1,1 +1,1 @@
-var mnemonic = "shift cruel secret there asthma also fan victory antenna lift square sustain";
+var mnemonic = "glide share invest weasel steel universe unknown olympic stumble speed rose spawn";

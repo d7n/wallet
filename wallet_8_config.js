@@ -1,1 +1,1 @@
-var mnemonic = "frog install situate media escape cat acid banana wet mobile artefact truth";
+var mnemonic = "pilot idle language crane hat picture trim wife purity ten moral pistol";

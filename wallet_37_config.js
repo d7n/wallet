@@ -1,1 +1,1 @@
-var mnemonic = "crucial near panther useful forward high mad nest solve exit escape salmon";
+var mnemonic = "citizen episode one afford globe math speed runway jacket hazard cliff brown";

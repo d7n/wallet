@@ -1,1 +1,1 @@
-var mnemonic = "jelly liberty harsh syrup scissors excess time cabbage pistol ranch drill movie";
+var mnemonic = "stock image leopard soft garage stove nerve impose reduce build crater position";

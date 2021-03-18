@@ -1,1 +1,1 @@
-var mnemonic = "venture random icon soda afraid catalog rely setup virus inform point course";
+var mnemonic = "harbor planet party reopen update camera grant pen final surprise matter seek";

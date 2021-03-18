@@ -1,1 +1,1 @@
-var mnemonic = "sport exhibit ghost prevent bus view reject someone hamster used maple assume";
+var mnemonic = "enroll boat tree benefit heavy guard friend rule cotton orange baby merge";

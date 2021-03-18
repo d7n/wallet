@@ -1,1 +1,1 @@
-var mnemonic = "immense bread amazing lawsuit crucial alien certain artefact tobacco fine now agree";
+var mnemonic = "same bulk aspect rice shoe tube require garbage obey improve motion penalty";

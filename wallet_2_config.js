@@ -1,1 +1,1 @@
-var mnemonic = "veteran genuine toe escape rebuild prevent ready faculty capital grit ivory nominee";
+var mnemonic = "shop upset reopen sister have depart join width erupt cross hammer clarify";

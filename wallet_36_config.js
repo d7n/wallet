@@ -1,1 +1,1 @@
-var mnemonic = "venture proof palm license garlic key level strategy zero width welcome someone";
+var mnemonic = "own maid sauce region vehicle term rally write duck river weird toilet";

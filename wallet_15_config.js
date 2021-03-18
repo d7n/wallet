@@ -1,1 +1,1 @@
-var mnemonic = "minimum rich trend consider garment long tent oven add immense lunar reflect";
+var mnemonic = "solve uniform maid unveil grape version civil wedding chaos exile pave expect";

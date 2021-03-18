@@ -1,1 +1,1 @@
-var mnemonic = "junior slim below window ill phrase foil wheel turn mechanic three pink";
+var mnemonic = "safe guard reason diet twice card property trim brass fancy calm type";

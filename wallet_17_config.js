@@ -1,1 +1,1 @@
-var mnemonic = "media suffer antique laundry track merge area main wealth hole museum east";
+var mnemonic = "satisfy tilt supply hub loop timber planet spray pause unlock husband neither";

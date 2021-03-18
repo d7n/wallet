@@ -1,1 +1,1 @@
-var mnemonic = "lonely fossil powder athlete purchase praise ankle language dust desk owner vehicle";
+var mnemonic = "eternal shine such trial engine buffalo frog grace agent glad anger crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar bus keep tongue tank faculty either unique orchard auction right mystery";
+var mnemonic = "baby joke shiver neglect armed invite improve vote solar machine okay distance";

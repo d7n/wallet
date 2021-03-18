@@ -1,1 +1,1 @@
-var mnemonic = "indicate boring install clog easy speed key script domain skate pen unhappy";
+var mnemonic = "explain green monster track verb flame trick asset float sight critic deny";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward online imitate veteran usage slice motion fun weasel muscle neck execute";
+var mnemonic = "invite repeat depend stamp result used hold copy abuse ship brass seminar";

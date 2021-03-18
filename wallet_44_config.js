@@ -1,1 +1,1 @@
-var mnemonic = "actor exact burst spread recycle border other rebuild soda frequent daughter between";
+var mnemonic = "make check base crater produce stumble auto merge dish nut alone slide";

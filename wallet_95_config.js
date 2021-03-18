@@ -1,1 +1,1 @@
-var mnemonic = "taxi output top amount civil party tent fatal limit safe pig health";
+var mnemonic = "pond bag dwarf rude glide shoot rice mechanic net exercise maximum alcohol";

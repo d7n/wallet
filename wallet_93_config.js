@@ -1,1 +1,1 @@
-var mnemonic = "keen ivory gym era host tornado brain boat cheese march catalog poem";
+var mnemonic = "coral suit peanut tail link identify axis basket today green zone gold";

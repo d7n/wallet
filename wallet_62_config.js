@@ -1,1 +1,1 @@
-var mnemonic = "despair evil solution produce decade dance frog tape maze veteran elite energy";
+var mnemonic = "alert birth earth wink game sting rocket cabin purity scatter arctic notable";

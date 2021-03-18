@@ -1,1 +1,1 @@
-var mnemonic = "myself sweet arm hole elegant cactus party capital bless asset obvious grunt";
+var mnemonic = "portion tuition anchor apart chair return piece column salmon inherit check aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "arm latin panther tuna work eager embark window jump brush gift thumb";
+var mnemonic = "mother must boost symptom village spell frost endorse harvest crumble brush coral";

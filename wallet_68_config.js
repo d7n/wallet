@@ -1,1 +1,1 @@
-var mnemonic = "school type quit type inhale zone govern good garage improve syrup material";
+var mnemonic = "kitchen strategy anchor uncle inflict runway agent endorse stove anxiety cook kid";

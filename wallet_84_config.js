@@ -1,1 +1,1 @@
-var mnemonic = "label entry smooth hockey horror pool movie bubble close actor kick mass";
+var mnemonic = "feature tool pepper luxury divide during safe sibling divide surprise pet student";
