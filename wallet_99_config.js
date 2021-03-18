@@ -1,1 +1,1 @@
-var mnemonic = "bag thank spring use charge chronic vessel alien eight economy squeeze test";
+var mnemonic = "cruise disorder modify snow width dose carry army advice slender accident embrace";

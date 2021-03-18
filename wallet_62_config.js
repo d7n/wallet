@@ -1,1 +1,1 @@
-var mnemonic = "rubber lumber stomach critic cost ball thought almost novel science inmate blind";
+var mnemonic = "claw summer tongue system churn deliver autumn super jeans drastic burden smart";

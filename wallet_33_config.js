@@ -1,1 +1,1 @@
-var mnemonic = "syrup crew mention neither observe junk bird near debris knife boost jealous";
+var mnemonic = "grass lock satoshi cherry alone under edge large snack endorse urban magic";

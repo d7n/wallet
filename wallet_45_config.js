@@ -1,1 +1,1 @@
-var mnemonic = "twenty runway axis project honey smooth area vote slam suffer excuse during";
+var mnemonic = "inside vacuum issue fashion race neutral august occur humble give smooth mushroom";

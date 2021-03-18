@@ -1,1 +1,1 @@
-var mnemonic = "verb dance town remove shell midnight chest chef skate merit tool castle";
+var mnemonic = "note flag practice stove common thank try endless zebra paddle audit misery";

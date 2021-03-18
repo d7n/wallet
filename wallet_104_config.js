@@ -1,1 +1,1 @@
-var mnemonic = "wolf program wrist waste damage check hen viable special service wage orphan";
+var mnemonic = "april feed fit typical stove lyrics stick metal lens elegant blood good";

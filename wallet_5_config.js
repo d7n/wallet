@@ -1,1 +1,1 @@
-var mnemonic = "exist bottom dinner recycle pear luggage rabbit entire coin finish scene receive";
+var mnemonic = "heavy mixed sweet expect clutch wave west possible present can relief front";

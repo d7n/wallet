@@ -1,1 +1,1 @@
-var mnemonic = "industry cross tongue castle verify shrug hunt escape welcome supreme earth waste";
+var mnemonic = "modify uncle truth dog chalk use dog habit december guitar album sponsor";

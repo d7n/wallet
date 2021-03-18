@@ -1,1 +1,1 @@
-var mnemonic = "long car employ spider rural doctor right violin travel human path old";
+var mnemonic = "kingdom borrow disease siege goat thumb student hedgehog fly document stick mystery";

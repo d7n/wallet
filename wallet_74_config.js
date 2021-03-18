@@ -1,1 +1,1 @@
-var mnemonic = "wealth involve grid travel smoke panic opinion axis blush logic antique elegant";
+var mnemonic = "cube snap guard build very gauge elephant tongue genius project shallow alert";

@@ -1,1 +1,1 @@
-var mnemonic = "jump hunt program laptop basic absorb work basic cousin review bike planet";
+var mnemonic = "globe vapor venue initial pave sad amateur venue wheat please cycle consider";

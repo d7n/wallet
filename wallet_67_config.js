@@ -1,1 +1,1 @@
-var mnemonic = "dad citizen gloom piano seminar rude glide object artist giant lobster adjust";
+var mnemonic = "void agent grace visit diagram ring net blush oyster tourist pelican sword";

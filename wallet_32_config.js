@@ -1,1 +1,1 @@
-var mnemonic = "arrive shoe memory table enlist nuclear alley rough always midnight around elbow";
+var mnemonic = "ostrich spoil case pipe skirt trouble seminar certain grow peace chair glass";

@@ -1,1 +1,1 @@
-var mnemonic = "pill chapter teach soup fiction mutual project alcohol rescue safe chat sail";
+var mnemonic = "mechanic motion document priority vanish run mistake sugar cash unusual boring cabin";

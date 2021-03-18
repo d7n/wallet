@@ -1,1 +1,1 @@
-var mnemonic = "gas hazard swear regret keen diet earn such drum token lock pupil";
+var mnemonic = "physical exist cry supreme pretty devote matter false devote torch audit borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "onion frozen thumb fringe usage public unknown alien acid scrap ensure change";
+var mnemonic = "direct invite rely impose law scare borrow snack basket wall speak vocal";

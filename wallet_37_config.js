@@ -1,1 +1,1 @@
-var mnemonic = "subway awesome explain black poverty rude fade culture price budget vacuum viable";
+var mnemonic = "draft tip young depth sand rifle boost public owner help snow brain";

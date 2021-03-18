@@ -1,1 +1,1 @@
-var mnemonic = "trust buyer seek security hundred pig fit foster depth pepper beef laugh";
+var mnemonic = "weasel midnight convince solar hobby valley fine tube tool hobby pumpkin verb";

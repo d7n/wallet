@@ -1,1 +1,1 @@
-var mnemonic = "again cash argue expire fit ripple group void random gossip mandate zoo";
+var mnemonic = "ridge pigeon genre adapt asset width salon omit clutch result lamp bring";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond best result weird pride level bind small output guitar benefit rubber";
+var mnemonic = "mixture frequent chest retire vocal artwork ghost exact suffer neither major quality";

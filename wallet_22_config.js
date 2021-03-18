@@ -1,1 +1,1 @@
-var mnemonic = "shrug pudding limit pencil bread wear valve hobby canal cute educate logic";
+var mnemonic = "cable trade inside crunch soldier opinion pride news senior laptop tiger oxygen";

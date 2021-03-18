@@ -1,1 +1,1 @@
-var mnemonic = "clump post diary situate lake develop faith topple wage ripple assault grid";
+var mnemonic = "quote all assault cliff castle alone romance century grain join element can";

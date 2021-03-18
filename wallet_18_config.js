@@ -1,1 +1,1 @@
-var mnemonic = "riot photo banner pull awesome speak between rare drink title episode inside";
+var mnemonic = "speak multiply urge scare taxi throw venture wall kind joy nephew ensure";

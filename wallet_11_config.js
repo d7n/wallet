@@ -1,1 +1,1 @@
-var mnemonic = "office miss actress ride slight amused mention appear gown era love cigar";
+var mnemonic = "chicken try shrimp arch flash scissors thunder coconut smile elite ankle often";

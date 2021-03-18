@@ -1,1 +1,1 @@
-var mnemonic = "cabin panda champion execute universe kitchen news mutual cream focus skin inner";
+var mnemonic = "domain taxi mimic rookie faint long crumble fat exchange twice expand easy";

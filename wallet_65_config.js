@@ -1,1 +1,1 @@
-var mnemonic = "flavor nation captain effort jacket suggest mandate perfect various plastic clutch word";
+var mnemonic = "useless tuition nation glove kiwi boost survey only donkey walnut dignity sketch";

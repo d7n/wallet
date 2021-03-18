@@ -1,1 +1,1 @@
-var mnemonic = "guard permit faith oak seed fire replace tennis diamond dial choice can";
+var mnemonic = "soul lady hazard walk sunny drama better space vanish seat mix swap";

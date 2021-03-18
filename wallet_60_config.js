@@ -1,1 +1,1 @@
-var mnemonic = "aerobic please average crane sweet gloom space eagle fiscal winter identify artwork";
+var mnemonic = "future owner stuff idea nerve smooth common metal exist rocket account level";

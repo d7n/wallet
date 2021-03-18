@@ -1,1 +1,1 @@
-var mnemonic = "mystery town icon hunt change escape drink annual kid great noodle alpha";
+var mnemonic = "fit local absorb position current resist slush various ginger online economy risk";

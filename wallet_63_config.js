@@ -1,1 +1,1 @@
-var mnemonic = "parent major attract relief future usage area often despair delay chat cruel";
+var mnemonic = "mistake shed chuckle call slogan wheel detect guess giraffe three travel loan";

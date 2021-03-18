@@ -1,1 +1,1 @@
-var mnemonic = "clinic witness quantum stumble wool turkey arrow embrace siege machine predict yellow";
+var mnemonic = "token urban pottery disorder nation peasant indoor grocery sense faith member hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "space vessel close stage convince blouse ghost elder pulse extend salon mushroom";
+var mnemonic = "mention attend heart farm diesel post canal skate gloom salmon ivory edit";

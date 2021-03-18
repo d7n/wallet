@@ -1,1 +1,1 @@
-var mnemonic = "truly glad scan local whisper neither point theme uphold trumpet exile weekend";
+var mnemonic = "syrup retire attend slab author relax armor black soda again neutral drill";

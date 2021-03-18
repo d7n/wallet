@@ -1,1 +1,1 @@
-var mnemonic = "noodle drop fog squirrel deputy creek square reward tumble huge segment useful";
+var mnemonic = "gown false hover plate inject weather pyramid column movie burst rocket flip";

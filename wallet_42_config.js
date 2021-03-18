@@ -1,1 +1,1 @@
-var mnemonic = "marriage kit advance lake loop tape address warrior favorite drip mad pony";
+var mnemonic = "giggle belt under glare message flight steak only peace bike kid offer";

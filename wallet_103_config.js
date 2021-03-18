@@ -1,1 +1,1 @@
-var mnemonic = "recall prepare save above actor dress moment warfare into cloth volcano rough";
+var mnemonic = "borrow negative antenna slide exhaust grow dinner debate admit gossip tuna unknown";

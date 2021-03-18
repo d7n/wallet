@@ -1,1 +1,1 @@
-var mnemonic = "guess stadium chunk car gorilla flush citizen other squeeze bus gauge stable";
+var mnemonic = "junk slow company lumber sheriff quiz afford dove power pumpkin much rail";

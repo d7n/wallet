@@ -1,1 +1,1 @@
-var mnemonic = "stone bachelor fit digital return soul rocket city cinnamon love august eight";
+var mnemonic = "vessel squeeze parent enroll undo kitten east stamp put beauty ripple boss";

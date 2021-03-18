@@ -1,1 +1,1 @@
-var mnemonic = "write museum fetch mean woman win immense novel view spread submit strike";
+var mnemonic = "supply neck disease enforce resemble know remind ski student raccoon margin nerve";

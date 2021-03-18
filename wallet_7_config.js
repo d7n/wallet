@@ -1,1 +1,1 @@
-var mnemonic = "morning doll purity wink race cannon office stove repair exit swift injury";
+var mnemonic = "hill gloom escape illness puppy sand tone hidden make park candy erode";

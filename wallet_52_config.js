@@ -1,1 +1,1 @@
-var mnemonic = "mirror duck turkey collect summer resemble involve mansion grant indicate toilet shift";
+var mnemonic = "lift scatter analyst double double salt nature crunch approve approve tourist teach";

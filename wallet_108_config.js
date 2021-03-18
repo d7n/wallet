@@ -1,1 +1,1 @@
-var mnemonic = "copper oven solution about join race mass blame globe sound soup bird";
+var mnemonic = "alter race segment cart scissors firm hurry vessel foster pass chat pond";

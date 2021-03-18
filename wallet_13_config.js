@@ -1,1 +1,1 @@
-var mnemonic = "merge venture echo polar crop enjoy night attitude dance this width rigid";
+var mnemonic = "cactus transfer include neglect biology suspect scrap post lottery portion ill old";

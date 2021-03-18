@@ -1,1 +1,1 @@
-var mnemonic = "erosion perfect stable ribbon predict lizard feed cram punch venue reward pottery";
+var mnemonic = "interest output end silly foam wool syrup whale write material whisper champion";

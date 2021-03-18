@@ -1,1 +1,1 @@
-var mnemonic = "cement subject consider glory awake risk fat melt inject bacon rally staff";
+var mnemonic = "mandate damp salmon ugly defy matrix sand about moment nerve urge budget";

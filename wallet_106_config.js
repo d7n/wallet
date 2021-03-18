@@ -1,1 +1,1 @@
-var mnemonic = "picnic copy panther image noble stomach faculty glow army keep situate prison";
+var mnemonic = "various crime chaos defy mesh title kind frost volume outer mimic unveil";

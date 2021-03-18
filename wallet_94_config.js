@@ -1,1 +1,1 @@
-var mnemonic = "process convince knife crisp chief raw result also wall frequent clip garment";
+var mnemonic = "grace venue matrix exercise cave dune coral crater spoil alien alcohol pond";

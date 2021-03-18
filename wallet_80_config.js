@@ -1,1 +1,1 @@
-var mnemonic = "inform verb poet movie ship basket shiver trim purse cash video expand";
+var mnemonic = "eye bulb world kidney poverty poverty gravity female sunny penalty ride egg";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic album torch analyst exchange ancient prevent frame credit silk resemble rotate";
+var mnemonic = "motor adapt degree travel mechanic purchase glance pipe cash usage vanish practice";

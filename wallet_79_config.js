@@ -1,1 +1,1 @@
-var mnemonic = "exchange piano bench april finish vicious test drill shove dash total require";
+var mnemonic = "endorse wise neutral company film cost return drive confirm lunar uniform dirt";

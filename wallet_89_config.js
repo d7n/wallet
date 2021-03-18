@@ -1,1 +1,1 @@
-var mnemonic = "cabbage uncover banana breeze thrive robot kangaroo oak festival scout squeeze increase";
+var mnemonic = "note labor arctic smoke stage brief monkey rude spy despair about derive";

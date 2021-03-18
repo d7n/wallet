@@ -1,1 +1,1 @@
-var mnemonic = "liar sphere movie salad cheese little carry script vote current exotic scheme";
+var mnemonic = "link frog cricket smart link month ceiling fish typical utility ranch orchard";

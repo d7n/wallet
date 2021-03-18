@@ -1,1 +1,1 @@
-var mnemonic = "course pull bomb swarm need bean helmet purse feed also disease invest";
+var mnemonic = "agent entire reflect box taxi tiger human man deposit artefact slender submit";

@@ -1,1 +1,1 @@
-var mnemonic = "waste pilot source domain live monster skirt island deliver twenty desk innocent";
+var mnemonic = "frown family impose bubble science damp luxury term drip pottery bamboo cupboard";

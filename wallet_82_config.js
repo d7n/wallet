@@ -1,1 +1,1 @@
-var mnemonic = "can sound neglect hood jazz cable enact dust welcome ice fall theme";
+var mnemonic = "couple glue voice vendor below caught come alarm poet jacket donor drink";

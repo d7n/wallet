@@ -1,1 +1,1 @@
-var mnemonic = "bacon armed two when opinion brush balcony peace deliver budget release happy";
+var mnemonic = "baby safe book dose diet dose property truth device cabbage ability spike";

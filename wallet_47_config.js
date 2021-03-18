@@ -1,1 +1,1 @@
-var mnemonic = "high walnut view brain gloom predict jar deal excuse utility impact define";
+var mnemonic = "vault flash today depth throw ridge venue over lucky assist pilot ski";

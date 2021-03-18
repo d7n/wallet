@@ -1,1 +1,1 @@
-var mnemonic = "gallery dizzy dinosaur gap unable since talk caught field major bottom elbow";
+var mnemonic = "era fragile pottery bicycle coral tennis display relax mimic away script witness";

@@ -1,1 +1,1 @@
-var mnemonic = "during inch ribbon result conduct hidden adult wise manual congress outdoor spray";
+var mnemonic = "video omit marine repair cause help door sea picnic evolve access canoe";

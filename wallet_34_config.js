@@ -1,1 +1,1 @@
-var mnemonic = "any weapon item muffin inject lottery doll three kiwi sport detect feature";
+var mnemonic = "tuition embark deal equip rib nut deliver detail addict basic logic travel";

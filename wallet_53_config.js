@@ -1,1 +1,1 @@
-var mnemonic = "square horse inherit cook athlete buffalo subway vacant come end debate carry";
+var mnemonic = "gain program island chef whip pistol photo quick sudden anchor moment jeans";

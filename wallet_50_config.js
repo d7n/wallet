@@ -1,1 +1,1 @@
-var mnemonic = "tonight ski warm ranch endless phrase reflect route solve since father yellow";
+var mnemonic = "popular toy raise arrest virtual result dice approve barrel renew supreme car";

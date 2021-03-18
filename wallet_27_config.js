@@ -1,1 +1,1 @@
-var mnemonic = "injury october atom boil fun point drama crystal item quarter donor staff";
+var mnemonic = "viable staff crush gain civil carpet scene critic claw net hockey super";

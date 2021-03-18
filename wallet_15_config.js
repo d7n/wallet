@@ -1,1 +1,1 @@
-var mnemonic = "excuse trash horn airport thunder dish short dog medal chunk soul clay";
+var mnemonic = "silver sock head false round mesh crawl high recall foster just grape";

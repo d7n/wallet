@@ -1,1 +1,1 @@
-var mnemonic = "ticket announce unusual heart poverty pilot divide cargo sausage gap next have";
+var mnemonic = "click logic year magic market visit convince ginger coconut happy south hotel";

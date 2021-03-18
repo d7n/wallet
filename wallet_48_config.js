@@ -1,1 +1,1 @@
-var mnemonic = "memory genuine capital interest put winter talk real wisdom trade average leg";
+var mnemonic = "shove whale naive spatial eager path buddy dignity juice occur pepper name";

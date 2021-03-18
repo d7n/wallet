@@ -1,1 +1,1 @@
-var mnemonic = "churn impact wrist start reveal vessel planet item festival involve green type";
+var mnemonic = "network zoo spare replace tone nothing grunt choice cluster useless helmet cigar";

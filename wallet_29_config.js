@@ -1,1 +1,1 @@
-var mnemonic = "label horror twelve broccoli same bronze puzzle coconut myth defense symptom rack";
+var mnemonic = "time view pet coach torch loop dice future addict weasel strong juice";

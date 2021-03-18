@@ -1,1 +1,1 @@
-var mnemonic = "grunt cruise legend attack moon cupboard distance fade hurt squeeze huge melt";
+var mnemonic = "rail cost merry page wolf way similar bleak govern skate shield vanish";

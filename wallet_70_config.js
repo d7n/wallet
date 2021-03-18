@@ -1,1 +1,1 @@
-var mnemonic = "torch whisper put agree reform loyal access hard poet pumpkin solid rack";
+var mnemonic = "ribbon tuna music work illness welcome food prison palace begin total rival";

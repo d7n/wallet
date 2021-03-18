@@ -1,1 +1,1 @@
-var mnemonic = "original myself remind winter address toward cube universe else donate review comic";
+var mnemonic = "cruise awesome click still evoke slab ahead ritual you weekend candy wire";

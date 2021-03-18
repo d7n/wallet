@@ -1,1 +1,1 @@
-var mnemonic = "miracle piece you sort sell initial battle alone lamp merit flavor alter";
+var mnemonic = "video exact culture avoid salon measure open drive song orient soap language";

@@ -1,1 +1,1 @@
-var mnemonic = "flat useful private express garage cross party holiday unusual obscure joy sea";
+var mnemonic = "ancient token immune permit venture tourist enjoy deputy spare swim clock observe";

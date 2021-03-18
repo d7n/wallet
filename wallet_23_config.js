@@ -1,1 +1,1 @@
-var mnemonic = "void stage coin harsh couple scissors shop today lock keen reward boost";
+var mnemonic = "luxury unaware burger stadium upset when gain gaze inherit rice reflect tube";

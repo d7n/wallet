@@ -1,1 +1,1 @@
-var mnemonic = "trend bid baby dirt slush among screen online pill horse alone angle";
+var mnemonic = "vacant tonight twin convince certain faculty author humor try kick original seven";

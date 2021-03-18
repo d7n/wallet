@@ -1,1 +1,1 @@
-var mnemonic = "define explain together latin kingdom lazy multiply sting ostrich wear law disease";
+var mnemonic = "write crush where glue party gravity style sheriff argue sure security salon";

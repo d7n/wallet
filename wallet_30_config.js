@@ -1,1 +1,1 @@
-var mnemonic = "manage crane neglect cliff float ability dismiss nephew unaware ship coach world";
+var mnemonic = "demand advice infant oyster key arrange able glass hedgehog together advance pony";

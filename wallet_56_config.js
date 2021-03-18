@@ -1,1 +1,1 @@
-var mnemonic = "night fold phrase witness dish mobile push behave ask model desk enrich";
+var mnemonic = "toddler timber occur damage blouse argue auto matter visa raw direct gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom way dial start rhythm escape couch boost audit garment remain minor";
+var mnemonic = "distance pumpkin input hat item retire resemble report organ alley rigid leopard";

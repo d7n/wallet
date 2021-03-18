@@ -1,1 +1,1 @@
-var mnemonic = "fruit rural squeeze oval kidney pioneer siren puzzle decrease between blanket base";
+var mnemonic = "sock dizzy limit vague fashion save satoshi peasant senior obscure key rent";

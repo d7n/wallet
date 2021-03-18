@@ -1,1 +1,1 @@
-var mnemonic = "stadium flavor oil pumpkin liberty display carbon three thrive master evolve indicate";
+var mnemonic = "clinic used thunder satoshi bone verify hawk current razor bar result pudding";

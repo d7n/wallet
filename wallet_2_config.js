@@ -1,1 +1,1 @@
-var mnemonic = "aisle capable desk quiz yellow extra letter copper panel where abuse begin";
+var mnemonic = "obvious general patient grief real achieve monkey appear mass private key stereo";

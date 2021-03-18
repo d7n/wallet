@@ -1,1 +1,1 @@
-var mnemonic = "income inspire index about dance idle bind identify offer defy dutch setup";
+var mnemonic = "improve family second multiply december segment earth you social now awesome describe";

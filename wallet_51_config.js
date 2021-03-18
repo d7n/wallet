@@ -1,1 +1,1 @@
-var mnemonic = "shrug borrow winter nurse pass acquire catalog clip chicken blue floor brain";
+var mnemonic = "awkward talk debate exclude enroll output napkin marble rotate stage weasel account";

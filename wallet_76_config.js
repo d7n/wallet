@@ -1,1 +1,1 @@
-var mnemonic = "spoon glove fat usual know patrol dizzy market mirror trigger impose kid";
+var mnemonic = "addict story crime card push check fringe abuse item become gaze answer";

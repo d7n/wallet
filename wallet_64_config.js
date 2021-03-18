@@ -1,1 +1,1 @@
-var mnemonic = "prevent near stage fruit cloth gravity toward menu garden excuse can sad";
+var mnemonic = "stay fit stand input slender glide tortoise spoon rate snack arch bless";

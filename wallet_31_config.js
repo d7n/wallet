@@ -1,1 +1,1 @@
-var mnemonic = "initial private drip file excuse hundred bronze learn cushion snake artefact sick";
+var mnemonic = "confirm off sauce glide borrow anchor alcohol middle receive knee find reflect";

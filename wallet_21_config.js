@@ -1,1 +1,1 @@
-var mnemonic = "detail face history time type power city chief youth recall return target";
+var mnemonic = "plug repeat glow ride around foil symptom cage adult meadow floor degree";

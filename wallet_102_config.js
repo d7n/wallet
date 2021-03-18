@@ -1,1 +1,1 @@
-var mnemonic = "innocent strategy furnace bind ice wisdom onion exotic mango hero access stadium";
+var mnemonic = "allow lunch slight enlist sphere angle cheap reduce neutral near soap giant";

@@ -1,1 +1,1 @@
-var mnemonic = "subway foil ginger grocery owner brief cabbage ask observe rug close hip";
+var mnemonic = "involve detail trim edge observe gauge sudden captain enforce short visit dumb";

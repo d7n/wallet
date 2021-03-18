@@ -1,1 +1,1 @@
-var mnemonic = "price nose beef front candy ghost melody task manage innocent biology already";
+var mnemonic = "cat title document donor balcony manage zoo immune company cart bus indicate";

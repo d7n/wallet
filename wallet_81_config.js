@@ -1,1 +1,1 @@
-var mnemonic = "dizzy income index announce glove globe weather bargain banana sponsor hockey stumble";
+var mnemonic = "always elegant fit fame nature hard vacant laundry song peace token kitten";

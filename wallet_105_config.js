@@ -1,1 +1,1 @@
-var mnemonic = "crack fancy weather noble bicycle paddle flavor entire together delay oil away";
+var mnemonic = "peanut trim flash aware snap surprise text stem blur ancient enrich soon";
