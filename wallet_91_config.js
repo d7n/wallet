@@ -1,1 +1,1 @@
-var mnemonic = "ribbon disease sail intact history heart position solution report cat time club";
+var mnemonic = "regret supply protect rural wood cash rich learn afford matrix exchange plug";

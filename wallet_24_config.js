@@ -1,1 +1,1 @@
-var mnemonic = "plunge present runway differ heart type fire select advance guilt exotic guitar";
+var mnemonic = "attract real forest shield fabric agent trade library little bus gym emotion";

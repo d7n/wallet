@@ -1,1 +1,1 @@
-var mnemonic = "drop glory any treat casual silk behave board tortoise point pattern magnet";
+var mnemonic = "raise knife pill butter abstract egg brother dream excuse armed extra fat";

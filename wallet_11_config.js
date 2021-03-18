@@ -1,1 +1,1 @@
-var mnemonic = "vivid ancient belt brain bachelor bulk slot bonus private behind misery copper";
+var mnemonic = "distance sister prison alert spread vital liberty bamboo cover donkey loan remove";

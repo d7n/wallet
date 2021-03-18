@@ -1,1 +1,1 @@
-var mnemonic = "child cram donate approve boat slim else neglect obscure boss roof humble";
+var mnemonic = "brain police adult noble cousin cement abuse inhale make critic biology service";

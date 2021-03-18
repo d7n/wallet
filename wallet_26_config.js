@@ -1,1 +1,1 @@
-var mnemonic = "damp wish fancy perfect faith witness monster eagle vacuum resemble mix tribe";
+var mnemonic = "arena jeans option case involve fashion modify possible seven slow promote surround";

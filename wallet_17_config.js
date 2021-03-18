@@ -1,1 +1,1 @@
-var mnemonic = "fuel height book double success practice rely face volcano predict dog siege";
+var mnemonic = "culture upper effort grit slide stable reopen limb minute come shadow return";

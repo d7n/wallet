@@ -1,1 +1,1 @@
-var mnemonic = "earth abstract magic collect subject rough throw update giggle daring media poverty";
+var mnemonic = "drink ridge donor chapter member carry cube wrong slice build field will";

@@ -1,1 +1,1 @@
-var mnemonic = "sample wolf walnut youth asthma lesson gloom treat fashion tip uncover gloom";
+var mnemonic = "actual will sign scan party limb cousin brief opinion midnight catalog census";

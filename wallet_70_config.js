@@ -1,1 +1,1 @@
-var mnemonic = "print isolate marine burden upgrade property buddy mom glove grocery huge civil";
+var mnemonic = "heavy pumpkin clay maid fan solar toddler loyal diamond final night hood";

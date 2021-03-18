@@ -1,1 +1,1 @@
-var mnemonic = "candy gate dwarf ready noise mirror moral sponsor reject unfold cloth wait";
+var mnemonic = "finger shine fly front video above direct awesome master cargo search gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle render grow spirit bone photo twelve heavy teach pet debris wonder";
+var mnemonic = "spike dinosaur tilt love angry mistake toy guess cluster reopen thumb front";

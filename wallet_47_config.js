@@ -1,1 +1,1 @@
-var mnemonic = "approve crumble novel rubber match junior luggage yard cherry rain caught limb";
+var mnemonic = "give poem topic note purpose glide spot security item payment width range";

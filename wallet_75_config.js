@@ -1,1 +1,1 @@
-var mnemonic = "ensure want truly harbor shoulder unusual correct chimney flavor hockey theme bulb";
+var mnemonic = "actress spy slow sign equal dream rocket earth situate hungry mobile faith";

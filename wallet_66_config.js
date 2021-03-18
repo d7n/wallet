@@ -1,1 +1,1 @@
-var mnemonic = "keep toward emerge wait globe unit hawk peasant attitude boil rib material";
+var mnemonic = "cattle start olive begin cereal steel hip chef know seed turn vessel";

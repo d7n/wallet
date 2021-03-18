@@ -1,1 +1,1 @@
-var mnemonic = "amateur rose spoil office liquid scout hospital actress easily lab idea tower";
+var mnemonic = "skin woman ecology feel bulk float replace top south walk clay october";

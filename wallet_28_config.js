@@ -1,1 +1,1 @@
-var mnemonic = "joke favorite banner equip float shield margin syrup hockey oil annual liquid";
+var mnemonic = "since bus suggest elbow pride crush inspire vocal desk pet race mother";

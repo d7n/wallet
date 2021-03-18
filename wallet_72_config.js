@@ -1,1 +1,1 @@
-var mnemonic = "filter engage else price rural anxiety dinner grid session bundle video awesome";
+var mnemonic = "among win swarm cereal retreat repair forward result clog random analyst hungry";

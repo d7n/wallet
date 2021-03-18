@@ -1,1 +1,1 @@
-var mnemonic = "slice book want opera goat chalk alter broccoli page patient lottery benefit";
+var mnemonic = "bargain humor lava finger dove bright clerk saddle slab purity manage day";

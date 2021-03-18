@@ -1,1 +1,1 @@
-var mnemonic = "provide puzzle public rebel sniff usage nothing soft room urge arm velvet";
+var mnemonic = "twelve focus meat rally soldier jacket ridge salt cause since similar dial";

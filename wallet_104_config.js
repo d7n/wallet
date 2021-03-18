@@ -1,1 +1,1 @@
-var mnemonic = "category economy bone educate board chef program evoke kiwi skin recipe method";
+var mnemonic = "cabin filter language during embark boost cheese virus have antique guilt warfare";

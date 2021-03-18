@@ -1,1 +1,1 @@
-var mnemonic = "sand denial pride umbrella fly three virus will exchange citizen radar behave";
+var mnemonic = "silly shy drill rapid chimney prepare language surround deal middle layer brand";

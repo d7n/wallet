@@ -1,1 +1,1 @@
-var mnemonic = "reward truth skill erase news arctic front chief lottery unhappy use vault";
+var mnemonic = "claw design slow vicious inherit memory climb athlete life jungle athlete oven";

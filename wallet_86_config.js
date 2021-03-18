@@ -1,1 +1,1 @@
-var mnemonic = "evidence toss nice mass dust snack shed reveal climb injury rather farm";
+var mnemonic = "protect anxiety high illegal monster scene nasty husband bright priority decade mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "moon valve rapid shadow shed plunge circle lizard remind book boil source";
+var mnemonic = "edit forest settle movie legend front exhaust spoil reveal cute close story";

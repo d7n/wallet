@@ -1,1 +1,1 @@
-var mnemonic = "produce dutch claw velvet helmet eye accuse pumpkin other way where run";
+var mnemonic = "track mandate unlock buzz under keen fatal another nest siege about strategy";

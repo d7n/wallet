@@ -1,1 +1,1 @@
-var mnemonic = "code chunk street scare crawl fiction banner bonus cart volume illness arctic";
+var mnemonic = "shy debate layer grid inform sudden process scatter brave slush north artwork";

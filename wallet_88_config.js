@@ -1,1 +1,1 @@
-var mnemonic = "sense change dwarf suffer destroy surround stumble barrel average they sting outdoor";
+var mnemonic = "comic village reunion juice chair clip job hour lab boil bike knife";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber fury secret elevator extra toss paper grace penalty female again hope";
+var mnemonic = "loan ahead narrow vocal jazz analyst organ bag camp ceiling buffalo certain";

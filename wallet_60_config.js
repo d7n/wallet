@@ -1,1 +1,1 @@
-var mnemonic = "way super loan canyon math ticket ketchup glory salt install answer damage";
+var mnemonic = "tackle vanish exhibit upset scrub excess afraid craft scale claim banner name";

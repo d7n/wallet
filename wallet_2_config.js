@@ -1,1 +1,1 @@
-var mnemonic = "depend input series brown gym vanish picture segment lamp dice thunder seminar";
+var mnemonic = "remember agent tongue panic rug rapid above behind lobster plate elite loan";

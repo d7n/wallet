@@ -1,1 +1,1 @@
-var mnemonic = "black bench upset garment crater debate measure color have waste coach edge";
+var mnemonic = "north clever solid frozen energy final thumb print play hen addict table";

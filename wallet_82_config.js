@@ -1,1 +1,1 @@
-var mnemonic = "winter victory company use okay symbol vibrant add chaos medal robust jelly";
+var mnemonic = "duty pave another action outside number raise wage liar merry film lumber";

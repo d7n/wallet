@@ -1,1 +1,1 @@
-var mnemonic = "peanut exile clean short junior security present miss shield surprise inhale health";
+var mnemonic = "awkward fringe cart pulp obtain flip mean limit deal issue mountain alarm";

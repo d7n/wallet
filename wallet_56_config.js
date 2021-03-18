@@ -1,1 +1,1 @@
-var mnemonic = "meadow follow asthma canvas amazing giant trim usual disease follow arrive you";
+var mnemonic = "main slab upper craft violin bargain surge media home repair isolate sibling";

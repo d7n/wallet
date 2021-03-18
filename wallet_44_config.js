@@ -1,1 +1,1 @@
-var mnemonic = "desk prepare sad later absurd dove usage will capable zoo leave number";
+var mnemonic = "cattle warm curious evoke reject mesh forest human piece valve fault giraffe";

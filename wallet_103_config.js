@@ -1,1 +1,1 @@
-var mnemonic = "ten endless churn sword brick lens trim file glance salt elite aunt";
+var mnemonic = "swarm wash code decide lobster model crop wheel mail laundry dwarf surprise";

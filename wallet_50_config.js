@@ -1,1 +1,1 @@
-var mnemonic = "more great call salad arrive slice drip morning secret trumpet evoke cluster";
+var mnemonic = "galaxy sample issue letter post expose bid right awful suggest math toast";

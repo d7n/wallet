@@ -1,1 +1,1 @@
-var mnemonic = "forward boat tiger tank kangaroo sugar van alley issue finger electric ask";
+var mnemonic = "silver choose vast remain large blade elevator fringe man put shove civil";

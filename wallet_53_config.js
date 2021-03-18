@@ -1,1 +1,1 @@
-var mnemonic = "target duty insect chimney decorate exact comic iron mean world expire bid";
+var mnemonic = "border dwarf proud puzzle hole pear shoot hospital twist regular divorce marriage";

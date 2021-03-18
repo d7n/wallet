@@ -1,1 +1,1 @@
-var mnemonic = "obvious observe soon purchase filter wagon desert appear ugly pudding stock royal";
+var mnemonic = "learn program avoid kiwi chase drop assume jealous jar caught book vintage";

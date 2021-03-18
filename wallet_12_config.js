@@ -1,1 +1,1 @@
-var mnemonic = "absent enroll galaxy remind chronic slush shrug prepare uphold fish curtain recycle";
+var mnemonic = "civil potato nephew waste wait fashion cushion gasp shell share derive era";

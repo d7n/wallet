@@ -1,1 +1,1 @@
-var mnemonic = "flush coffee nominee brief topple baby seed dwarf merge borrow picnic surround";
+var mnemonic = "midnight apology visa morning know win work quick apple force abandon lock";

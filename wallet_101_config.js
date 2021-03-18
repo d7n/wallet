@@ -1,1 +1,1 @@
-var mnemonic = "remain memory give tattoo shrug weekend cement vital elephant style among never";
+var mnemonic = "happy canal pipe caught crumble tree chalk brass junior forget cross angry";

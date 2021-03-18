@@ -1,1 +1,1 @@
-var mnemonic = "cement fever gasp rebuild original fever pink food truly success bottom orient";
+var mnemonic = "you guide bird legend broom ball trick weapon crime garment trophy lab";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn duty lamp truly cycle onion allow jar junk country lab iron";
+var mnemonic = "they rug tree license machine spawn dust inhale virtual skirt nothing bone";

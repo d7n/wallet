@@ -1,1 +1,1 @@
-var mnemonic = "rice awkward much win collect dial apology vessel leopard afraid color ancient";
+var mnemonic = "letter valley segment correct anchor source canyon attract security high captain fluid";

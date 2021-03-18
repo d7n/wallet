@@ -1,1 +1,1 @@
-var mnemonic = "solve potato offer square success tomorrow flight ribbon exit accuse apology leg";
+var mnemonic = "salute exclude absurd smart shed olympic discover library property okay almost school";

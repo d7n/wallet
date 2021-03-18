@@ -1,1 +1,1 @@
-var mnemonic = "vapor leopard remember present economy glimpse decorate leader spend pass ladder smoke";
+var mnemonic = "during involve liquid pill stay jump hunt twelve crowd wagon balcony weird";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt tomorrow issue wash ordinary purse shift moral economy supply addict advice";
+var mnemonic = "express clinic erase indicate rifle wall purpose exercise mushroom tuna black candy";

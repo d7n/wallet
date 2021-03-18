@@ -1,1 +1,1 @@
-var mnemonic = "include faculty pizza misery album pulse rate photo dignity deer hip stumble";
+var mnemonic = "display luxury remain engage scrap stock equal maximum butter horror drive analyst";

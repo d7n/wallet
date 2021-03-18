@@ -1,1 +1,1 @@
-var mnemonic = "thing spend learn couple kiwi deny fiscal mimic afraid because domain drum";
+var mnemonic = "sniff antenna basic case just miss word erase frown submit buyer access";

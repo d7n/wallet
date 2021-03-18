@@ -1,1 +1,1 @@
-var mnemonic = "rebel desert wife enable stairs comfort prison door stove tooth blanket stamp";
+var mnemonic = "alone play blind erupt seven rally arrow pumpkin decrease snake dust borrow";

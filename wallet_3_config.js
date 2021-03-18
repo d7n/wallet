@@ -1,1 +1,1 @@
-var mnemonic = "net mirror weather tonight endless bleak adjust element swallow ramp reform inform";
+var mnemonic = "tornado club smoke shop make away now search wink connect exchange duty";

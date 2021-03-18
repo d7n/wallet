@@ -1,1 +1,1 @@
-var mnemonic = "bean have ramp avoid buyer ahead high broccoli evil plunge vanish evil";
+var mnemonic = "kiwi bullet sea potato dose visa diary hungry victory grant install nice";

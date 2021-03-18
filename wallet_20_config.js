@@ -1,1 +1,1 @@
-var mnemonic = "add wish gospel faint try empty old test lobster clock crucial hero";
+var mnemonic = "slab predict cruise tube bind rich item airport dawn advice edge cargo";

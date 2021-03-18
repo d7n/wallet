@@ -1,1 +1,1 @@
-var mnemonic = "crunch flip follow ribbon noble family hole same hand priority harbor silk";
+var mnemonic = "woman offer cruel what profit square silver wolf nothing brother fog potato";

@@ -1,1 +1,1 @@
-var mnemonic = "snap render frozen capable nerve inch left junk section clump teach always";
+var mnemonic = "toe critic drum wasp renew injury play head ten cement tennis discover";

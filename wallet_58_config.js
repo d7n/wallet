@@ -1,1 +1,1 @@
-var mnemonic = "result dragon lamp actual frequent heart donate lesson inner someone execute tube";
+var mnemonic = "sense grain unknown depth winter captain volcano chicken sweet orbit surge logic";

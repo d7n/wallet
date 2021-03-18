@@ -1,1 +1,1 @@
-var mnemonic = "nothing success have sunset expose wheel reveal betray february biology grain develop";
+var mnemonic = "smile test panic surprise ill problem exclude power agent vocal mountain remain";

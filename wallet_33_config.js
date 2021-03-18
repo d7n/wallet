@@ -1,1 +1,1 @@
-var mnemonic = "enemy clog acid want cupboard decline asset crunch absent cup disease best";
+var mnemonic = "episode false envelope cousin logic where true cash bag useful gain ball";

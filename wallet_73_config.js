@@ -1,1 +1,1 @@
-var mnemonic = "trouble tooth design ginger better glare make caught abandon viable educate toe";
+var mnemonic = "chat coin erode village give fence foot title venture tennis certain forward";

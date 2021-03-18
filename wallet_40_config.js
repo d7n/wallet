@@ -1,1 +1,1 @@
-var mnemonic = "rocket equip fame oyster thumb common exchange blade suspect sick second bundle";
+var mnemonic = "shadow lumber crowd combine amused genius cram shaft uniform note buddy autumn";

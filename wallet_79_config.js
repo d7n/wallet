@@ -1,1 +1,1 @@
-var mnemonic = "canyon much layer tuition helmet deposit jewel then very inch sign dilemma";
+var mnemonic = "alarm confirm bubble another blame kangaroo december magic vacant three ancient size";

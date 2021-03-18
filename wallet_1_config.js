@@ -1,1 +1,1 @@
-var mnemonic = "used online yellow soldier layer normal flower bring service public parrot jar";
+var mnemonic = "stool property illness panther avoid universe leisure tragic taxi grit hundred trade";

@@ -1,1 +1,1 @@
-var mnemonic = "render infant include marble material sword goddess suggest apple nest capable flower";
+var mnemonic = "mechanic story above amused half slim thing leg book erupt stock provide";

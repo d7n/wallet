@@ -1,1 +1,1 @@
-var mnemonic = "tube pool omit train thumb recipe jazz mom relax year moon buddy";
+var mnemonic = "ankle giant fitness above pave bring load armed boss thought paper horror";

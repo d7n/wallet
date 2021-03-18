@@ -1,1 +1,1 @@
-var mnemonic = "group shadow catch unaware glory pluck wonder forest note better stove prize";
+var mnemonic = "trade leaf shoe rule subject post agree night purse capital old output";

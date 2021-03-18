@@ -1,1 +1,1 @@
-var mnemonic = "rely pond series torch rookie wool simple text lobster spend hero invite";
+var mnemonic = "monkey stereo wife truth atom orbit clarify surround reunion horror magic kick";

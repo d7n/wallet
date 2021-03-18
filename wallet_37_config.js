@@ -1,1 +1,1 @@
-var mnemonic = "horse flame early illness depth reject impose garden lottery animal solid sing";
+var mnemonic = "turn raccoon focus wait melody smooth hammer acid remove filter they jelly";

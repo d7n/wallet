@@ -1,1 +1,1 @@
-var mnemonic = "gather neglect chalk annual crash modify odor theory what arch organ hedgehog";
+var mnemonic = "pioneer slender safe multiply glare fiscal wear unit page empty protect property";

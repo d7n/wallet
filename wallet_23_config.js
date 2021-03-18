@@ -1,1 +1,1 @@
-var mnemonic = "biology crush lawsuit occur pony ridge dove animal always load door blush";
+var mnemonic = "culture farm dust stuff speak seat visit wink require crumble develop risk";

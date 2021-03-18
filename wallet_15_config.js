@@ -1,1 +1,1 @@
-var mnemonic = "skull jump toe limb melt foot divide iron crisp hotel invite place";
+var mnemonic = "film job almost satisfy clog enroll that image corn health youth obtain";

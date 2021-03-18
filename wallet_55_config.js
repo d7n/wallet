@@ -1,1 +1,1 @@
-var mnemonic = "dial shell escape useless end trouble oblige avocado sausage country strong disorder";
+var mnemonic = "gown large drop only fish any peasant spawn agent arm verb witness";

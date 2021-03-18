@@ -1,1 +1,1 @@
-var mnemonic = "fuel cattle rich tower trophy inner race twelve oval plate often kingdom";
+var mnemonic = "pen laundry agree luxury torch relax creek energy joy diary victory board";

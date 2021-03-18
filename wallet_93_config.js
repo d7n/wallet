@@ -1,1 +1,1 @@
-var mnemonic = "suspect twelve sure find away fetch night frost adjust junior extra family";
+var mnemonic = "disorder hope frog siren orphan crush course wage head crunch marriage various";

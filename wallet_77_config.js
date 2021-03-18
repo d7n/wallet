@@ -1,1 +1,1 @@
-var mnemonic = "sea hub dwarf cinnamon nest asset unlock useful debris scrap close perfect";
+var mnemonic = "basket rocket nephew erupt monster alley immune weekend remain clog feel guide";

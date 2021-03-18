@@ -1,1 +1,1 @@
-var mnemonic = "aisle detect column fury carbon inflict clown multiply toddler celery nature fantasy";
+var mnemonic = "camp ancient ranch nature cook walk match soda fragile ugly soon person";

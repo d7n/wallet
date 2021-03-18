@@ -1,1 +1,1 @@
-var mnemonic = "fiber abstract ankle tool profit proud feed laugh bright boy tragic much";
+var mnemonic = "funny owner agent impose rain switch grunt shield note hour ripple medal";

@@ -1,1 +1,1 @@
-var mnemonic = "echo limb scheme mother feed crucial stem eyebrow hybrid volume topple point";
+var mnemonic = "language giraffe situate lizard captain deposit march hotel green increase start apology";

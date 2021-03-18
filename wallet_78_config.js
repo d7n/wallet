@@ -1,1 +1,1 @@
-var mnemonic = "border satisfy they potato match burst resist order april power rug stamp";
+var mnemonic = "alpha glad mammal crowd chair device lab business donate stamp baby devote";

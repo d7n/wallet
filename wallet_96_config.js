@@ -1,1 +1,1 @@
-var mnemonic = "august hotel ribbon link door piano oil flavor device citizen purchase siren";
+var mnemonic = "tiny nut dentist carbon axis neither dizzy project poverty anchor silk breeze";

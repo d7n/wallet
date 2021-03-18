@@ -1,1 +1,1 @@
-var mnemonic = "build ramp sweet silent soon pudding whale ask remember child exact rotate";
+var mnemonic = "lemon present comfort arctic dutch ordinary diesel blush point morning twelve dog";

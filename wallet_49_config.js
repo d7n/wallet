@@ -1,1 +1,1 @@
-var mnemonic = "edge dinner orchard aunt depth great fatal admit voice wreck away rude";
+var mnemonic = "also demand ocean exercise update fish outer broccoli goddess assault uphold cream";

@@ -1,1 +1,1 @@
-var mnemonic = "example soft rug subject ghost certain air fly resource essence tower home";
+var mnemonic = "castle property jaguar clock gold scatter pioneer opinion cancel wear love reduce";

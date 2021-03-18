@@ -1,1 +1,1 @@
-var mnemonic = "announce scene obey real diary adjust model tag empower category news black";
+var mnemonic = "beach cram clown sustain ask sell orchard plastic retire fresh warm snack";

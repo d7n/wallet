@@ -1,1 +1,1 @@
-var mnemonic = "advice economy humor moon sweet garden celery crawl clinic arena law shed";
+var mnemonic = "color crawl leaf frog like laugh bronze test taxi couple judge cabin";

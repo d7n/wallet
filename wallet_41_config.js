@@ -1,1 +1,1 @@
-var mnemonic = "spin cotton add fold mango celery gallery slogan suit have unit demise";
+var mnemonic = "sentence fantasy congress prosper refuse wing grunt rib company jeans success output";

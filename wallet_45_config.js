@@ -1,1 +1,1 @@
-var mnemonic = "electric tennis dish agent skill claw run kite great end unknown tuna";
+var mnemonic = "kiwi diamond jazz cabbage basket soft wheat dutch upon dismiss cruel shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "payment control usual cradle first fitness alpha design suspect range fee you";
+var mnemonic = "path fatigue chef develop dish plate aspect quote lunch protect banana author";

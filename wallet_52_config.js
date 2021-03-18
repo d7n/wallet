@@ -1,1 +1,1 @@
-var mnemonic = "buddy deny agree forward narrow proud balance crumble wine program success chicken";
+var mnemonic = "weather vicious sentence school uniform bone erupt match crater funny sand live";
