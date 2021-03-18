@@ -1,1 +1,1 @@
-var mnemonic = "damage negative mask wolf clutch shoot wasp december broom plastic fury width";
+var mnemonic = "snow parade soon energy sword tilt chunk aware volume kitten october exact";

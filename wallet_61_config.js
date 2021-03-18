@@ -1,1 +1,1 @@
-var mnemonic = "ramp creek travel entry goose try lake wheat human punch paddle guide";
+var mnemonic = "garden return enter bleak shrug rent reject creek select diagram fiction arrive";

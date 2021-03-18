@@ -1,1 +1,1 @@
-var mnemonic = "fee best recycle barely village deputy stone gauge give elbow grain prefer";
+var mnemonic = "inspire surprise ski main thumb permit inflict elder art bronze valley renew";

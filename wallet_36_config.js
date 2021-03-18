@@ -1,1 +1,1 @@
-var mnemonic = "office initial assault misery maze price belt muffin crucial cactus want champion";
+var mnemonic = "infant enforce peasant horse august motion indoor tide foot symptom obey culture";

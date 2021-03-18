@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur fork nurse file pitch zone pond boss wood insect gossip witness";
+var mnemonic = "unveil artefact tent awesome album later bunker limb swear mixture finish stadium";

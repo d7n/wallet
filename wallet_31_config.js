@@ -1,1 +1,1 @@
-var mnemonic = "come fire diary spatial festival surprise original chair toss people era anxiety";
+var mnemonic = "small goat gym room base age universe shed kind mountain round pond";

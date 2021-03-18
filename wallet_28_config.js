@@ -1,1 +1,1 @@
-var mnemonic = "use unusual cycle faith above move what amazing sad autumn climb banana";
+var mnemonic = "horror boss cactus next abandon oval trade mystery green near wolf lake";

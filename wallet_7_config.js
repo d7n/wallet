@@ -1,1 +1,1 @@
-var mnemonic = "slow like still salute mule key recall ticket marriage gaze funny live";
+var mnemonic = "ancient congress master this snap winner maximum retire essay about door jewel";

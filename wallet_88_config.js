@@ -1,1 +1,1 @@
-var mnemonic = "tonight dizzy bar soda spirit laugh slide resist hold piano swear buddy";
+var mnemonic = "inform half rapid diagram beef puzzle civil tiny muscle prison when spy";

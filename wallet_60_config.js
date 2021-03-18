@@ -1,1 +1,1 @@
-var mnemonic = "buffalo correct theme bitter smart feel high honey trade captain found focus";
+var mnemonic = "ship oblige solve year lady try genuine section ugly knife lizard river";

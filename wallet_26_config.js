@@ -1,1 +1,1 @@
-var mnemonic = "fish universe fiscal cloth scrub shallow nose circle flock pave couch spin";
+var mnemonic = "guard where erode region business venue gadget spike carpet uphold eyebrow toss";

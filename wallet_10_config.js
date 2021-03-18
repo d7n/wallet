@@ -1,1 +1,1 @@
-var mnemonic = "cup cause draw patrol ethics point prevent limit dice frame buyer jelly";
+var mnemonic = "brisk ghost abuse path light erupt reflect monitor peanut bring wheat march";

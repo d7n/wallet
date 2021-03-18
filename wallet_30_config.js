@@ -1,1 +1,1 @@
-var mnemonic = "fault sniff gold south attitude car mango leopard tank rail resource panther";
+var mnemonic = "muscle account order market drama chuckle ribbon surface timber expire alcohol rice";

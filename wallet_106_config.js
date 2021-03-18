@@ -1,1 +1,1 @@
-var mnemonic = "step flavor brown world despair draw senior inside lunar same scare trial";
+var mnemonic = "future average huge glove canal lucky napkin draw alien wood hand rain";

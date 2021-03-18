@@ -1,1 +1,1 @@
-var mnemonic = "foot panel asthma omit initial jungle else know farm pond card fan";
+var mnemonic = "tornado used elevator usual degree cable balance walnut whip deliver gold peace";

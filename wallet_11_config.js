@@ -1,1 +1,1 @@
-var mnemonic = "tree october pigeon alert idle solution assault garbage chase garden baby torch";
+var mnemonic = "mercy total used kick provide doll huge depend caution pizza equip logic";

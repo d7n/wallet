@@ -1,1 +1,1 @@
-var mnemonic = "note iron faith animal render ugly angle error learn dish square east";
+var mnemonic = "write object borrow replace farm solve quick bullet excess patient burger earth";

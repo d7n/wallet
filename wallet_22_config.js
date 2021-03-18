@@ -1,1 +1,1 @@
-var mnemonic = "negative wise play excuse snake crumble erode husband video two digital moral";
+var mnemonic = "hero salute denial sweet narrow clean immune runway stomach asset ice youth";

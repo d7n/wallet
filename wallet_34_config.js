@@ -1,1 +1,1 @@
-var mnemonic = "poem glove output alone admit castle like leaf lemon rural key space";
+var mnemonic = "best tattoo mom twist rare dial asset brick habit artefact humor amused";

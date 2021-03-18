@@ -1,1 +1,1 @@
-var mnemonic = "list forest child obscure little nut salt average eye solid hub crazy";
+var mnemonic = "involve gate awesome twenty three champion lake steel butter distance unknown filter";

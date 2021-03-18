@@ -1,1 +1,1 @@
-var mnemonic = "finish nothing oven accident bleak clinic foil mesh crater property impulse barely";
+var mnemonic = "belt math menu mobile solve manage silent brand panel extra boil ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "execute rent unit gap era staff embody hospital annual bundle midnight fold";
+var mnemonic = "gauge ridge celery cute satisfy asthma cup meat old search demand return";

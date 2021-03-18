@@ -1,1 +1,1 @@
-var mnemonic = "panther artist chat pause daring accident shrug finger ceiling trap problem link";
+var mnemonic = "ordinary maple expand nation away camp water point move produce drastic dial";

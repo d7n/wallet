@@ -1,1 +1,1 @@
-var mnemonic = "exchange erosion vintage obscure senior beach dirt auto ribbon type canoe drive";
+var mnemonic = "practice omit dose refuse lottery truck anchor talent fix decline love spoil";

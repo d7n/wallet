@@ -1,1 +1,1 @@
-var mnemonic = "hurt combine genre chief appear garlic rally fly idea ramp task lecture";
+var mnemonic = "blush math trip title control vague device lens chase brick bronze always";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve rare garage bicycle unlock junior rotate coil protect pistol donor snake";
+var mnemonic = "world laugh nuclear robust cute stereo tumble allow exercise online demise physical";

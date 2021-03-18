@@ -1,1 +1,1 @@
-var mnemonic = "erosion problem portion cluster bicycle engage blanket fiber gate immense give side";
+var mnemonic = "seat inflict shed early cloud tube tennis either control crisp vibrant clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "regular clown bleak lyrics depart envelope denial collect endless sure jar flight";
+var mnemonic = "leaf border sibling rubber suspect journey equip secret grunt girl own fold";

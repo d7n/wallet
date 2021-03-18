@@ -1,1 +1,1 @@
-var mnemonic = "relief love vibrant toilet pluck pumpkin butter hammer close minute pulp coconut";
+var mnemonic = "wash tube coil crazy inherit hand section wave tattoo soldier rib very";

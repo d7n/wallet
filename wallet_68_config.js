@@ -1,1 +1,1 @@
-var mnemonic = "reward gauge device seek link report bunker miss kiwi stand fragile melt";
+var mnemonic = "stable can heavy excuse crawl merge area sniff radio hood before engine";

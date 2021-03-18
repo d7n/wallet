@@ -1,1 +1,1 @@
-var mnemonic = "sword lake version female blue video satoshi eyebrow obvious picnic degree banner";
+var mnemonic = "tray asthma boy museum axis music excuse elegant urge canoe cruel frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "task city soon consider style jazz merit pluck black park artwork obvious";
+var mnemonic = "envelope donkey digital nasty keep fringe travel seat genre leaf tent quarter";

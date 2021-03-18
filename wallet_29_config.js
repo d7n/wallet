@@ -1,1 +1,1 @@
-var mnemonic = "degree broom damage convince air defy cement mixed habit enable perfect liquid";
+var mnemonic = "battle lens spike head habit cake voice leaf basket cement sample onion";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle miracle bridge enforce cheese club trick leopard surge young minute robot";
+var mnemonic = "stick finish relax permit cupboard thunder brain tongue leisure hammer nuclear hour";

@@ -1,1 +1,1 @@
-var mnemonic = "surround local beauty world eight second runway decide prepare moment achieve mixed";
+var mnemonic = "load idea desert actress eye unhappy index option tool toy catch boil";

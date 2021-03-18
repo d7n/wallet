@@ -1,1 +1,1 @@
-var mnemonic = "shove hollow catalog unveil pink convince absurd perfect tent author bus soup";
+var mnemonic = "merge slice snap crack focus become cruel illegal short silent reduce such";

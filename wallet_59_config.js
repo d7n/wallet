@@ -1,1 +1,1 @@
-var mnemonic = "document supreme area broken punch grab dynamic absorb already abandon wheel about";
+var mnemonic = "bubble baby thing movie enforce artefact model final fall prefer review range";

@@ -1,1 +1,1 @@
-var mnemonic = "purse lottery model empower pledge peasant sense effort outer never will axis";
+var mnemonic = "into thrive process mail bar awkward draw aim bubble material chat make";

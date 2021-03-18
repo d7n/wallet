@@ -1,1 +1,1 @@
-var mnemonic = "athlete coast state service jewel seat merry settle into prize volcano address";
+var mnemonic = "extra castle lobster salmon slot sponsor sun cause blame grid title sell";

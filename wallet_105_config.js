@@ -1,1 +1,1 @@
-var mnemonic = "weekend rescue balcony eagle exhaust artist laundry sing torch motor warm true";
+var mnemonic = "volcano distance abstract defense tank emerge tribe hobby peanut anxiety glass dynamic";

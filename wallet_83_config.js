@@ -1,1 +1,1 @@
-var mnemonic = "attract leopard increase usual start promote mad friend expire gravity force assume";
+var mnemonic = "midnight job extend small path breeze split noble horror human tunnel train";

@@ -1,1 +1,1 @@
-var mnemonic = "credit chronic enact denial behind effort alarm excuse fly bunker tent skate";
+var mnemonic = "airport minute pencil song dentist tuition merit winter amazing broom kiss credit";

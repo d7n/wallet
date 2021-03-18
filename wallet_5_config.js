@@ -1,1 +1,1 @@
-var mnemonic = "enter weekend vast zoo bulk hundred phrase section acoustic gap praise salad";
+var mnemonic = "creek roast wheat fuel piano put drop rent tiny oxygen cargo canal";

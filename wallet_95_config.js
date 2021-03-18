@@ -1,1 +1,1 @@
-var mnemonic = "sponsor shrug fossil wet sunset vacant book sample join radar gesture dune";
+var mnemonic = "enroll stairs holiday tissue crumble hockey loop guess laugh lounge code baby";

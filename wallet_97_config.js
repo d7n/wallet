@@ -1,1 +1,1 @@
-var mnemonic = "novel hope enhance romance twin easily main system advance subway piece holiday";
+var mnemonic = "company warrior vehicle join push release behave melody exist empower trouble source";

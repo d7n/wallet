@@ -1,1 +1,1 @@
-var mnemonic = "have furnace segment output pen tattoo harvest cluster mobile sugar rebuild apart";
+var mnemonic = "electric raw ask movie able orbit open manage shoot dream unhappy funny";

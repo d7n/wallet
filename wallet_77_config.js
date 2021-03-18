@@ -1,1 +1,1 @@
-var mnemonic = "tortoise embrace ramp fun dentist document radar despair pledge cattle road open";
+var mnemonic = "potato door camera history nominee blind hollow taste zoo front cram banana";

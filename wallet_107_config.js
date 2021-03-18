@@ -1,1 +1,1 @@
-var mnemonic = "shy duck dawn abandon argue stairs churn elegant vast arctic prevent phrase";
+var mnemonic = "shield attitude evil banner stage faculty glance motor execute monster talk chronic";

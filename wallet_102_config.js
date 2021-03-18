@@ -1,1 +1,1 @@
-var mnemonic = "between below life diamond false chronic coil afford cabbage note mad away";
+var mnemonic = "combine motion match physical glad train seminar alone laugh undo position build";

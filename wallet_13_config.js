@@ -1,1 +1,1 @@
-var mnemonic = "pulse join fault table rural goat minor general chat scorpion essence indoor";
+var mnemonic = "marine afraid pulse system dinner abuse young scare salmon jazz march person";

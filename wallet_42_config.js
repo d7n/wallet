@@ -1,1 +1,1 @@
-var mnemonic = "box dune universe cage luggage damp alien city screen local flavor sick";
+var mnemonic = "hammer again rack lamp vanish rate dizzy sustain fold almost topple trophy";

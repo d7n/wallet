@@ -1,1 +1,1 @@
-var mnemonic = "pony cup entire display business antenna dad topic hungry project creek monster";
+var mnemonic = "unhappy mutual cupboard video traffic lady space west brief during quick cluster";

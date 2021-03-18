@@ -1,1 +1,1 @@
-var mnemonic = "high luggage grass citizen ecology winner guard output theory youth effort bamboo";
+var mnemonic = "insect bone riot december trend deny tube comic labor guess violin blush";

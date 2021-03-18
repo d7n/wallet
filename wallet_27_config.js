@@ -1,1 +1,1 @@
-var mnemonic = "design target bomb option wise clown dice habit now skin lesson setup";
+var mnemonic = "cement cash film tobacco slight yellow army reward option element crack purse";

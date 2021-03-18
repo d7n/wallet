@@ -1,1 +1,1 @@
-var mnemonic = "autumn cause tired must flee hospital resemble scrub seek stable horror castle";
+var mnemonic = "ankle world pepper often prevent expose barely pet visual bomb clarify inquiry";

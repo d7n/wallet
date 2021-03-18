@@ -1,1 +1,1 @@
-var mnemonic = "typical flip file winter submit host math patrol danger disease bronze slow";
+var mnemonic = "talk snake ripple cream entire cream legal property empower crouch alley diary";

@@ -1,1 +1,1 @@
-var mnemonic = "soul scene devote mosquito screen equal oil luggage negative drastic unusual junior";
+var mnemonic = "six gather hobby attend dismiss public strike stadium filter bargain sugar floor";

@@ -1,1 +1,1 @@
-var mnemonic = "purity outside mixed plate mosquito pattern tiger melody walk hold budget mosquito";
+var mnemonic = "silly near tiger sunny claw holiday wrap ceiling noise fall liberty tragic";

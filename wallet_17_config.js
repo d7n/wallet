@@ -1,1 +1,1 @@
-var mnemonic = "knife swift dose write object census together broom balcony have destroy diary";
+var mnemonic = "process forum refuse forum limit recall question scrap velvet fatigue clock chapter";

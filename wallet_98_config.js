@@ -1,1 +1,1 @@
-var mnemonic = "aisle cost crop nut surprise among crane miracle lemon document manual inject";
+var mnemonic = "aspect vote gadget dinner spawn cup trick common roof enjoy monitor blur";

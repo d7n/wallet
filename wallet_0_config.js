@@ -1,1 +1,1 @@
-var mnemonic = "admit return fiscal decorate april blue large exchange accuse oppose spy velvet";
+var mnemonic = "reveal found vocal beyond spread evoke rain dismiss infant glory pioneer fan";

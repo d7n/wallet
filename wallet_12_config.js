@@ -1,1 +1,1 @@
-var mnemonic = "select dove piece strong pattern panda keep fog blanket deliver dream obey";
+var mnemonic = "glow man luggage crack melody must nation fox proud glue viable voyage";

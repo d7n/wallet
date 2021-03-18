@@ -1,1 +1,1 @@
-var mnemonic = "faith sustain great limit treat rail hour public curve eight assist empower";
+var mnemonic = "husband honey void lake verb soup real frown unusual morning tissue wink";

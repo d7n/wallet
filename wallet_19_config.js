@@ -1,1 +1,1 @@
-var mnemonic = "entry arena amused indicate punch picture narrow team tell month become lend";
+var mnemonic = "almost crime below retreat hurt stomach six region exercise club sketch will";

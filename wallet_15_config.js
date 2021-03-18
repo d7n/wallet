@@ -1,1 +1,1 @@
-var mnemonic = "subject purse drive aerobic circle latin camera build hope dial outer effort";
+var mnemonic = "general victory next dad elegant chat slight alone major noise stamp update";

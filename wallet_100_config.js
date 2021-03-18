@@ -1,1 +1,1 @@
-var mnemonic = "prosper grid response leaf sport tube unfair taxi damp beach vacuum cruise";
+var mnemonic = "people curtain sketch art else person library thrive crazy lawn guard awake";

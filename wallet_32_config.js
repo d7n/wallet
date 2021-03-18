@@ -1,1 +1,1 @@
-var mnemonic = "review cave rather describe before net bottom planet actor whisper venue boy";
+var mnemonic = "damp differ history rough eight unhappy display parade basket snap dress sea";

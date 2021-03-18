@@ -1,1 +1,1 @@
-var mnemonic = "pizza season holiday lazy office what manage novel grow bronze pill check";
+var mnemonic = "tent effort juice company hair victory mean sock detail find keep caution";

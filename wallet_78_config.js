@@ -1,1 +1,1 @@
-var mnemonic = "mean man hungry catalog galaxy pave regret happy balcony genius size luggage";
+var mnemonic = "modify cousin pet random recall wagon icon tired dilemma shoot list vendor";

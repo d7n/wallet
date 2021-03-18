@@ -1,1 +1,1 @@
-var mnemonic = "pilot noise gas nice whale hole provide online churn fine medal sniff";
+var mnemonic = "relax super ticket exotic gift trick upper tissue athlete silver tuna erase";

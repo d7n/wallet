@@ -1,1 +1,1 @@
-var mnemonic = "chief typical maximum drastic empty clog hour erosion wash pulse force always";
+var mnemonic = "card reject concert leader garlic aim tag need original office post pitch";

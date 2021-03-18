@@ -1,1 +1,1 @@
-var mnemonic = "lobster knock sketch they laundry female talk parent result spatial paper fire";
+var mnemonic = "smoke toast have secret glide convince route route emerge penalty crucial february";

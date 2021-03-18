@@ -1,1 +1,1 @@
-var mnemonic = "dumb slot shove reward project drip pause claim oil two glue oval";
+var mnemonic = "inner trap hold pigeon vanish snap vital firm sock tail ice old";

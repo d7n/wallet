@@ -1,1 +1,1 @@
-var mnemonic = "evolve visit miracle wife social rely recipe cry gasp adjust gown duty";
+var mnemonic = "dial dynamic primary skate tuition drive crucial wool wave arena insane decade";

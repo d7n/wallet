@@ -1,1 +1,1 @@
-var mnemonic = "pattern eyebrow reject boy secret two bubble joke noodle worth utility scout";
+var mnemonic = "crucial refuse bus moment animal gun envelope tumble spare library trend attitude";

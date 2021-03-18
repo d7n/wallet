@@ -1,1 +1,1 @@
-var mnemonic = "prefer best mandate wing mom notable caution banana kit credit toast ordinary";
+var mnemonic = "final intact off festival horror rate during destroy donor tragic park wink";

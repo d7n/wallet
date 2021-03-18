@@ -1,1 +1,1 @@
-var mnemonic = "patient elite rent album discover lunch column vacant letter survey response unit";
+var mnemonic = "grain rubber humble pact cherry rural swamp airport door service mirror outdoor";

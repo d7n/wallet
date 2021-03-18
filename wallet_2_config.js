@@ -1,1 +1,1 @@
-var mnemonic = "lonely twelve clown decline use rely draft master venture congress animal section";
+var mnemonic = "kitchen cheese juice gadget become stand now very dwarf because strike truth";

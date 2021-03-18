@@ -1,1 +1,1 @@
-var mnemonic = "surround march become invite must myth wine entire amount away coconut jealous";
+var mnemonic = "next fatal relief sound comic fabric large captain elegant dentist breeze skill";

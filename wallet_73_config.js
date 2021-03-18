@@ -1,1 +1,1 @@
-var mnemonic = "dry finish resemble option solution slide uniform elbow person route question debate";
+var mnemonic = "tool mixture clown traffic fragile spring deposit upset defy submit loyal cash";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest agent grab swamp bench access evil chicken kangaroo bulb undo pave";
+var mnemonic = "load peace tool iron aspect topple ribbon orange arrow devote foot size";

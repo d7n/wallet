@@ -1,1 +1,1 @@
-var mnemonic = "symbol soda kind seed brain brown spider virus match sheriff isolate ankle";
+var mnemonic = "judge cheap aspect hunt ladder horror dad giant word weather fall gadget";

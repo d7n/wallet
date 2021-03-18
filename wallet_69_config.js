@@ -1,1 +1,1 @@
-var mnemonic = "pig material snack rely snack stable saddle glare arm spring mushroom industry";
+var mnemonic = "inch army milk easy crowd law quit relief venue baby sea develop";

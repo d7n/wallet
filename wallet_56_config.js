@@ -1,1 +1,1 @@
-var mnemonic = "robust job edit cancel reason describe believe increase quit pledge alpha shiver";
+var mnemonic = "salmon party fiscal october giggle soon hospital pledge moral cloth tomato tooth";

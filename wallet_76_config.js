@@ -1,1 +1,1 @@
-var mnemonic = "honey analyst model merge traffic slot wool pitch sure obey lyrics scissors";
+var mnemonic = "jelly saddle expand point skull volcano verify party girl news crawl asthma";

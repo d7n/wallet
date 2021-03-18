@@ -1,1 +1,1 @@
-var mnemonic = "injury prepare finish device plunge wheel early dove they there inspire banner";
+var mnemonic = "win coconut forum clinic network say knee iron post odor liquid junior";

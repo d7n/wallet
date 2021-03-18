@@ -1,1 +1,1 @@
-var mnemonic = "swim nation garage cricket ancient there game practice wink hint tilt march";
+var mnemonic = "fade index pact steel lock busy dragon image burden alcohol phone save";

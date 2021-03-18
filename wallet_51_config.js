@@ -1,1 +1,1 @@
-var mnemonic = "strike way average wood satisfy opera pencil wrong thunder rookie magnet mention";
+var mnemonic = "grain donate security clutch oyster wage avoid shop master board mutual number";

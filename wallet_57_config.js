@@ -1,1 +1,1 @@
-var mnemonic = "enlist permit destroy edge wrong saddle borrow bottom glare bleak easy pond";
+var mnemonic = "thank evolve photo alter outer garden leisure misery believe mushroom hurt exist";

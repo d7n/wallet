@@ -1,1 +1,1 @@
-var mnemonic = "ecology exile true chaos digital company love undo army desk cram letter";
+var mnemonic = "cycle grant cabbage still resource problem top suggest ceiling provide noise whisper";

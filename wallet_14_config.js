@@ -1,1 +1,1 @@
-var mnemonic = "industry view fork deny shrug attitude project tortoise increase daring party decide";
+var mnemonic = "review amused next extend dove video laundry tonight document race soda federal";

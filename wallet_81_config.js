@@ -1,1 +1,1 @@
-var mnemonic = "belt rich correct fade clerk patch ask mountain deer cart essay unable";
+var mnemonic = "lunar truly dutch jump direct forest addict swift flame fee sausage never";

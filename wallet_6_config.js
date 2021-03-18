@@ -1,1 +1,1 @@
-var mnemonic = "narrow theme afford blame guard alter reward select make unable nerve panel";
+var mnemonic = "enhance impulse trophy maze wish style fade street ramp review repeat skirt";
