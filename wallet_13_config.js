@@ -1,1 +1,1 @@
-var mnemonic = "tree dash luxury uncover push print sponsor cost lemon various car utility";
+var mnemonic = "aerobic cinnamon warfare cave among order utility wrong swing consider identify skull";

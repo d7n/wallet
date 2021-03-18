@@ -1,1 +1,1 @@
-var mnemonic = "glove loan explain mobile own property grain divorce maximum critic audit drift";
+var mnemonic = "false smart page all steel follow skirt away mesh help panic load";

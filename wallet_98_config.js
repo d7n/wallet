@@ -1,1 +1,1 @@
-var mnemonic = "broom tilt camp video forward apple tube gaze add glow enjoy chaos";
+var mnemonic = "unveil sorry sniff solve erase cabbage doctor deny bubble stereo age pulp";

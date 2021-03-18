@@ -1,1 +1,1 @@
-var mnemonic = "traffic sheriff like first zebra trial grape fiction borrow slush salmon excuse";
+var mnemonic = "glimpse lava obey uphold bicycle slice cable soda first avoid husband turtle";

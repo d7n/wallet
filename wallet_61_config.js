@@ -1,1 +1,1 @@
-var mnemonic = "vital blush liberty shrug plate town damage warrior tattoo enemy damp regret";
+var mnemonic = "leader accuse world drip despair door bread pudding undo butter please custom";

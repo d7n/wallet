@@ -1,1 +1,1 @@
-var mnemonic = "goddess draw subway you second nut truly consider energy nose talk time";
+var mnemonic = "grain because code public civil company private quiz crime gym blood cry";

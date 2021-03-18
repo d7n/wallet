@@ -1,1 +1,1 @@
-var mnemonic = "end myth embark ocean potato stem increase garment document purpose amount coast";
+var mnemonic = "husband neither laundry resist bitter coffee balcony tip trumpet exist tooth salt";

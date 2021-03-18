@@ -1,1 +1,1 @@
-var mnemonic = "oval proof album later burst lend into easily pact gain hat dust";
+var mnemonic = "theory code round grunt staff voyage hurt drill dry universe tell degree";

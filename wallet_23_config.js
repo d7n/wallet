@@ -1,1 +1,1 @@
-var mnemonic = "blind window observe assault vanish dignity level among glad shoe run account";
+var mnemonic = "verify mean local donate spread appear amateur aim mesh onion mansion huge";

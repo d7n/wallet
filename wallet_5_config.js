@@ -1,1 +1,1 @@
-var mnemonic = "twice tragic oil pizza away junior motion ozone waste pudding alley make";
+var mnemonic = "garment tiger thank mansion off thing turn spawn pudding ability lonely program";

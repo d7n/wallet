@@ -1,1 +1,1 @@
-var mnemonic = "solid final social labor desert citizen meat film artwork open second pluck";
+var mnemonic = "angle mass almost parade yard color crew gown trouble develop record squeeze";

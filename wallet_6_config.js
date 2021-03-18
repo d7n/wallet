@@ -1,1 +1,1 @@
-var mnemonic = "coyote brass observe sauce ill drastic youth merge glare gentle idle biology";
+var mnemonic = "brother keen toilet about cream tomorrow scrap income banana science width sign";

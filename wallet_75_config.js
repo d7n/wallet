@@ -1,1 +1,1 @@
-var mnemonic = "always become animal side grant miss document chalk finger like ceiling cube";
+var mnemonic = "loyal into pole crumble treat actual wool wheel skirt height solar teach";

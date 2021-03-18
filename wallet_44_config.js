@@ -1,1 +1,1 @@
-var mnemonic = "clog common inmate movie decorate record wave gravity feature intact hurdle brief";
+var mnemonic = "client faint address region income window panel company must kick burden design";

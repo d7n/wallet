@@ -1,1 +1,1 @@
-var mnemonic = "plug hazard state kick burden trim print elegant obtain shrug deal delay";
+var mnemonic = "hint tone blame blush cruel proud hammer dynamic adjust wild long bomb";

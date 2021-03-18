@@ -1,1 +1,1 @@
-var mnemonic = "chaos note ritual great gentle soldier popular brown frozen survey captain metal";
+var mnemonic = "allow sport curtain grit spy monster piano scrap duty cruel course one";

@@ -1,1 +1,1 @@
-var mnemonic = "math stock ship basic crop lake exclude recipe sadness gym gown fruit";
+var mnemonic = "salmon glove hole mobile rally flower holiday correct effort meadow involve love";

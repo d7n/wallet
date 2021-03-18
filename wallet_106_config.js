@@ -1,1 +1,1 @@
-var mnemonic = "usual news say parrot convince this icon differ student point jazz engage";
+var mnemonic = "answer twist ordinary whisper forum nurse ring leader vehicle model critic owner";

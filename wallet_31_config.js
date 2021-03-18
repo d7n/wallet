@@ -1,1 +1,1 @@
-var mnemonic = "submit dynamic reason erase panda wing you miss edge unfold orphan very";
+var mnemonic = "common supply sport report trumpet vicious notice boost vintage depth liar hurdle";

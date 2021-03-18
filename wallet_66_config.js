@@ -1,1 +1,1 @@
-var mnemonic = "insane success quote knee coyote senior stock ski snack omit merge taxi";
+var mnemonic = "curve outside where lawn liar universe paper blouse salute glimpse setup ride";

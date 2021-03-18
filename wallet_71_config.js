@@ -1,1 +1,1 @@
-var mnemonic = "deposit forward sketch shine little awkward danger device brother harbor chronic group";
+var mnemonic = "pulp arrange elephant adapt hover muscle chaos clinic coyote hire bind anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "bench blouse bring lady jump output arm ticket south wide math usage";
+var mnemonic = "stable list select laptop increase rally auto tattoo announce human depart until";

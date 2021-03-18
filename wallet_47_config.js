@@ -1,1 +1,1 @@
-var mnemonic = "coral hair excess palace habit amount blood identify lab forest right then";
+var mnemonic = "month sorry slender eye limb virtual orphan multiply tray fluid tail voice";

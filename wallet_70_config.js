@@ -1,1 +1,1 @@
-var mnemonic = "fee twist damp pelican inquiry link jump skill body wheat clip hold";
+var mnemonic = "mansion stable spray episode tumble banana elite enrich bright frog news wear";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel total joke nurse seek west marble hero chuckle work injury divide";
+var mnemonic = "during open hammer quit sail real sand soup mutual fitness more vessel";

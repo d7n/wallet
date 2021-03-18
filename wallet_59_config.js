@@ -1,1 +1,1 @@
-var mnemonic = "calm domain token lesson weird grain grain gasp grunt girl key sniff";
+var mnemonic = "wire material flash please when cement fold artwork engage silly purchase column";

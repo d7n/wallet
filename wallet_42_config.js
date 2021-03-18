@@ -1,1 +1,1 @@
-var mnemonic = "away pull people advance eagle ribbon run reject provide crane rocket slot";
+var mnemonic = "husband loan myth walnut bracket always turtle satisfy involve thrive cannon asset";

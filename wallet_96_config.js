@@ -1,1 +1,1 @@
-var mnemonic = "hurt east label glance price couple liar adjust coach broccoli mystery salmon";
+var mnemonic = "deny bid cool evoke steak online fiscal harvest pitch round hello satisfy";

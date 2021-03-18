@@ -1,1 +1,1 @@
-var mnemonic = "lawn polar nothing weather bike woman easily patrol maple pulse lottery caught";
+var mnemonic = "chef vicious water napkin edit gentle advice across cherry amateur glass average";

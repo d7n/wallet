@@ -1,1 +1,1 @@
-var mnemonic = "spirit tube convince moment fiber place fall cheese increase enact juice tuition";
+var mnemonic = "firm close fold cry lecture diary flee collect desert shield bronze rhythm";

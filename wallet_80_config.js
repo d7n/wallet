@@ -1,1 +1,1 @@
-var mnemonic = "staff pudding regret merry legend october hair rely trouble jungle siren affair";
+var mnemonic = "shock man doll copy primary anxiety boat else replace clap village surprise";

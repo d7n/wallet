@@ -1,1 +1,1 @@
-var mnemonic = "april quote bulb exclude flush club sword weekend life crawl robot print";
+var mnemonic = "corn luggage nominee tube wire staff slice joke lumber patch nasty spoon";

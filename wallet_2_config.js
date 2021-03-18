@@ -1,1 +1,1 @@
-var mnemonic = "jar huge tornado abstract praise talent dinosaur road point where shift inquiry";
+var mnemonic = "blue question board toward village vicious speed trap badge venue friend thunder";

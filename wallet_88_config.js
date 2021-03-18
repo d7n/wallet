@@ -1,1 +1,1 @@
-var mnemonic = "trap aisle fluid visit wave cook supply knee nasty version produce weather";
+var mnemonic = "bundle fish frost bridge web lyrics unusual always suit gate casual laptop";

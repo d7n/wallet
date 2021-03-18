@@ -1,1 +1,1 @@
-var mnemonic = "black come hood nut slice appear admit thing reform hub kiwi educate";
+var mnemonic = "basket trumpet potato decorate someone issue candy color arena catch mammal language";

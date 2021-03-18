@@ -1,1 +1,1 @@
-var mnemonic = "brain canvas gallery vendor unveil poet urban when banner oyster jar brush";
+var mnemonic = "kid lobster mosquito ghost slot earth hill drink isolate best portion shoe";

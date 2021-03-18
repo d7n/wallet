@@ -1,1 +1,1 @@
-var mnemonic = "naive balance album spend require forget repair display taxi hip turn cheap";
+var mnemonic = "cream afford aware seat magnet random shove loan ecology punch stamp display";

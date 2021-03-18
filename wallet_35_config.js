@@ -1,1 +1,1 @@
-var mnemonic = "display release style quarter talent excuse ethics habit pass object summer current";
+var mnemonic = "virus magic quantum screen ketchup carpet cruel swear ecology toss walnut world";

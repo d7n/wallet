@@ -1,1 +1,1 @@
-var mnemonic = "coast puzzle mom pool eye broccoli split blame silly tortoise seminar glue";
+var mnemonic = "lobster sign print harvest stamp girl weird bike profit skin month there";

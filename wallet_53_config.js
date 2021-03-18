@@ -1,1 +1,1 @@
-var mnemonic = "razor horn weather quarter volcano little van nominee acoustic market primary sick";
+var mnemonic = "spread expire normal size rug choice know oval poverty lens vessel bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve judge huge churn citizen eager gain potato aunt wife addict dream";
+var mnemonic = "purse sail problem merge nuclear coil dad civil rhythm liberty vague glad";

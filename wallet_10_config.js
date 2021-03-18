@@ -1,1 +1,1 @@
-var mnemonic = "ordinary orbit load shed exclude ensure sport stumble glow fury where siren";
+var mnemonic = "cute donkey retreat ghost kite runway ketchup supply agree arrange science hawk";

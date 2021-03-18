@@ -1,1 +1,1 @@
-var mnemonic = "beyond steel sure sample siege hire expose sketch keep kit lobster episode";
+var mnemonic = "october identify tell exact step fork tower foil remove drama enrich adapt";

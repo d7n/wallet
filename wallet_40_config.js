@@ -1,1 +1,1 @@
-var mnemonic = "upgrade weasel gold deal barely elite scorpion fever state girl rotate lend";
+var mnemonic = "hard dance grit giant soft impact about city illness enter worry silly";

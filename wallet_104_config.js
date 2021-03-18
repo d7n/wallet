@@ -1,1 +1,1 @@
-var mnemonic = "tone talent coral nice assume hunt slogan settle exact segment glad rival";
+var mnemonic = "tragic lady valve theme letter endorse smooth jump radio negative derive fault";

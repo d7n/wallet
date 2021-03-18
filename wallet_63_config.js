@@ -1,1 +1,1 @@
-var mnemonic = "spread fence guilt gun off solid enter noise buffalo tuition disease category";
+var mnemonic = "stem across safe behave market wheat trend acid sing person awake draft";

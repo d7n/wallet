@@ -1,1 +1,1 @@
-var mnemonic = "simple muscle wish tower work click client city crystal grocery net razor";
+var mnemonic = "crisp shoulder merry cable pen reunion village box cousin rifle broken decade";

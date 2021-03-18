@@ -1,1 +1,1 @@
-var mnemonic = "indoor ankle scatter zoo pool behave renew copy random cruel bulk step";
+var mnemonic = "insect burden monster spice mosquito december dry six tone unable truly focus";

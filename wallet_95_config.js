@@ -1,1 +1,1 @@
-var mnemonic = "grunt town correct reason awesome noodle awesome crime margin toddler tree minor";
+var mnemonic = "choose cave shadow alert moon ankle dice melody clerk toddler latin oyster";

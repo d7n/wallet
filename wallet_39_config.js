@@ -1,1 +1,1 @@
-var mnemonic = "shrug know assist east mutual correct nothing slight chest color pink pond";
+var mnemonic = "fiction life embody broccoli front ball demise stage identify museum habit waste";

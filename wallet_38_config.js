@@ -1,1 +1,1 @@
-var mnemonic = "silk party typical trip ketchup balance swarm valid gym famous debris dirt";
+var mnemonic = "army tilt car runway boy one gentle kit easy roast plastic office";

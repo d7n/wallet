@@ -1,1 +1,1 @@
-var mnemonic = "eternal dial husband senior meat jelly twelve market pelican leg receive maid";
+var mnemonic = "raccoon enroll vast curtain reward hazard topic orphan charge slim immense inhale";

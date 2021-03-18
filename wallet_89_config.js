@@ -1,1 +1,1 @@
-var mnemonic = "fiber bulk crawl border sphere pear pilot mistake lock size holiday web";
+var mnemonic = "half plunge across pyramid such venture wealth lizard birth ghost crew spend";

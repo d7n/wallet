@@ -1,1 +1,1 @@
-var mnemonic = "win leaf hire genre degree tuna unveil hotel deliver load execute beauty";
+var mnemonic = "primary initial grain permit scout soap loyal improve series appear girl nice";

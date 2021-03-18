@@ -1,1 +1,1 @@
-var mnemonic = "mule super sea situate copper give control bracket hidden view mammal illness";
+var mnemonic = "split series sister science select dignity notice upon lift unique cinnamon junior";

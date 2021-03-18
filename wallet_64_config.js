@@ -1,1 +1,1 @@
-var mnemonic = "buddy weekend guess enrich bitter shoot glow puppy punch clarify ladder airport";
+var mnemonic = "wool genuine pill false super grain hobby tragic fee quality pig excite";

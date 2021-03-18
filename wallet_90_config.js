@@ -1,1 +1,1 @@
-var mnemonic = "draw kitten celery truck eye fluid guess own blame glide virus clump";
+var mnemonic = "congress awake square monkey enlist silent drill worry cement expose host enforce";

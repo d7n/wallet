@@ -1,1 +1,1 @@
-var mnemonic = "exile normal galaxy athlete glass close loyal dutch ripple surprise photo bone";
+var mnemonic = "busy true mouse actor alpha cattle link clarify dad ecology trophy vault";

@@ -1,1 +1,1 @@
-var mnemonic = "add opera connect fossil refuse throw ceiling will plug bicycle record hurdle";
+var mnemonic = "alone cherry chest elegant snow lock magnet borrow off ancient write wrap";

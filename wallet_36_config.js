@@ -1,1 +1,1 @@
-var mnemonic = "all innocent palace scout else when torch history sea bracket eye poverty";
+var mnemonic = "gain resemble smile initial rule panel thought patrol retire monkey deer tube";

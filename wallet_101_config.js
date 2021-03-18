@@ -1,1 +1,1 @@
-var mnemonic = "rookie flavor pumpkin wear license fancy return super plug merit clip vapor";
+var mnemonic = "consider sight tragic genre fly mercy cannon caught husband hedgehog dial debate";

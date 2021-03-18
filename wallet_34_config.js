@@ -1,1 +1,1 @@
-var mnemonic = "exit bright bunker river feature work sense curve winner grocery blanket cave";
+var mnemonic = "rent page speak ill october pistol ask escape chuckle language raw journey";

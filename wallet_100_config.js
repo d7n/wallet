@@ -1,1 +1,1 @@
-var mnemonic = "hungry vehicle talent achieve nature ankle sail book hope blur flight episode";
+var mnemonic = "response famous boat gun depend inflict cupboard advice net drop toe visa";

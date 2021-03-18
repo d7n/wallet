@@ -1,1 +1,1 @@
-var mnemonic = "athlete turkey draw alley erode kitten manage discover jacket popular cruise tip";
+var mnemonic = "tape thunder office anger side finish north absurd sorry patrol match bullet";

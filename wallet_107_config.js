@@ -1,1 +1,1 @@
-var mnemonic = "provide remain fence trophy acid ozone satisfy frog silly engage moral adjust";
+var mnemonic = "april sphere glow twelve trick family foam jar kingdom regret napkin dinosaur";

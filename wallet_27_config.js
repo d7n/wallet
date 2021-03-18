@@ -1,1 +1,1 @@
-var mnemonic = "runway beef embrace link okay phrase merge heart lock awake idea lemon";
+var mnemonic = "food cable dance lake fury height merge guard fossil crash avoid whip";

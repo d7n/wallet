@@ -1,1 +1,1 @@
-var mnemonic = "squeeze north toilet estate unusual north animal talent devote moon fork will";
+var mnemonic = "cage surface session scene draw entry shift festival hybrid canyon oyster pull";

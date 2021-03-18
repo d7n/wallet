@@ -1,1 +1,1 @@
-var mnemonic = "left angle hard toast devote general boat whisper spice fit winner course";
+var mnemonic = "cannon scan squirrel sunny pigeon image bargain loop shiver curtain forest black";

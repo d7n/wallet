@@ -1,1 +1,1 @@
-var mnemonic = "pottery enjoy cross yard cross eternal innocent improve sauce bunker ghost express";
+var mnemonic = "need advance soul panda medal mansion sample potato bundle payment coach sock";

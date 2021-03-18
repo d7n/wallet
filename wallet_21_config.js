@@ -1,1 +1,1 @@
-var mnemonic = "sunset later retreat coast daring battle omit eagle nut slot sport talk";
+var mnemonic = "replace search gain media donor country horn play actual satisfy valley keep";

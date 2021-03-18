@@ -1,1 +1,1 @@
-var mnemonic = "chapter laundry excite zero good useless harbor false twin start shield female";
+var mnemonic = "movie shine annual engine column bronze shoe blood gain keen minimum blur";

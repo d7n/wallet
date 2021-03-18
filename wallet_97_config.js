@@ -1,1 +1,1 @@
-var mnemonic = "sauce jaguar welcome garlic squirrel gauge pull mouse retreat cabin hurry lecture";
+var mnemonic = "slow goose walnut fitness tape provide icon swarm pear section area core";

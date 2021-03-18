@@ -1,1 +1,1 @@
-var mnemonic = "omit praise path bike lecture setup tunnel broom escape engage make frown";
+var mnemonic = "only reform unusual strategy spread west bachelor path humble harbor magnet laundry";

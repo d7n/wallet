@@ -1,1 +1,1 @@
-var mnemonic = "that blood sand winner few car ordinary distance dynamic floor opinion there";
+var mnemonic = "venture castle unhappy inch rare ten tuition try record rather rough north";

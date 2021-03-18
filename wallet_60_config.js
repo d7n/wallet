@@ -1,1 +1,1 @@
-var mnemonic = "fly icon drift rhythm sibling any tray amused surprise talent table hope";
+var mnemonic = "mouse giraffe fly combine fire earth nation ceiling cushion figure hidden install";

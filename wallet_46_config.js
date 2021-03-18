@@ -1,1 +1,1 @@
-var mnemonic = "raven notice ring punch luxury panther tilt element wine mother text chimney";
+var mnemonic = "change caught canyon whip improve auto excess quiz depart perfect pottery page";

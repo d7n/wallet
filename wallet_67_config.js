@@ -1,1 +1,1 @@
-var mnemonic = "expire embark enroll young risk swallow mouse task cradle dinosaur lecture mammal";
+var mnemonic = "barely parrot judge library violin soft topic label quit retreat acid amused";

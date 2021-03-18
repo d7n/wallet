@@ -1,1 +1,1 @@
-var mnemonic = "present essay copper window report easily tank wool unknown horror ethics attitude";
+var mnemonic = "yellow orphan type work chest pizza blood helmet proof inspire degree exhibit";

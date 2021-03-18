@@ -1,1 +1,1 @@
-var mnemonic = "salad matter stamp gauge lounge oblige pig drill wool wage tail quote";
+var mnemonic = "ball unit strong sell door sausage excite ski suffer soap coffee bind";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe organ wheel find cry extend bullet skull frequent actual become tank";
+var mnemonic = "ball brain say snack diet wine fossil clutch window shadow shoot antenna";

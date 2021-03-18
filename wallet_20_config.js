@@ -1,1 +1,1 @@
-var mnemonic = "about orphan oil second athlete tape minute ski awake drift street baby";
+var mnemonic = "gold aim end review wink early enlist canyon until grunt mask snap";

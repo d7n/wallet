@@ -1,1 +1,1 @@
-var mnemonic = "chair runway hurt tip better rabbit carpet spawn industry correct laundry orange";
+var mnemonic = "cash avocado share slab divorce dust paddle favorite remove rude fence curtain";

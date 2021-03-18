@@ -1,1 +1,1 @@
-var mnemonic = "enough budget claw master regret story design witness appear number birth famous";
+var mnemonic = "small hand marriage turtle tent panda under long put cave curious air";

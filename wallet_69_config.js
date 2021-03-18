@@ -1,1 +1,1 @@
-var mnemonic = "bus brick honey retire special such wedding lens raise turkey push hat";
+var mnemonic = "invite arrange alarm soap marine term water farm peanut conduct farm curtain";

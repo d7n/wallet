@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog drum ocean undo decide identify divert provide fruit emotion universe result";
+var mnemonic = "course bus quantum amount wealth tattoo sun derive dad remember kind divide";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow report silver basic extra candy then trend own nerve south marble";
+var mnemonic = "key link cousin lizard void goose deputy trap wait demand scene hold";

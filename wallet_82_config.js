@@ -1,1 +1,1 @@
-var mnemonic = "ugly digital average meadow leave symptom topic machine notable little muscle verify";
+var mnemonic = "reveal animal insect ribbon culture object vintage tone core carry where remove";

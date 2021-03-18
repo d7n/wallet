@@ -1,1 +1,1 @@
-var mnemonic = "ramp state code round element woman leg gain history wink luxury witness";
+var mnemonic = "obey income vessel sudden cereal panic casual cinnamon bulk flag page three";

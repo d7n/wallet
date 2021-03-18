@@ -1,1 +1,1 @@
-var mnemonic = "clerk scout snow response quiz party abstract yard today pipe next spoil";
+var mnemonic = "carry bronze design gauge crop radio brick share service pipe opera shell";

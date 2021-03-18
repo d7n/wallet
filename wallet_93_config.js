@@ -1,1 +1,1 @@
-var mnemonic = "just melt cannon fire imitate invest giant just poverty bacon strong crash";
+var mnemonic = "wide client oyster august shrug wage climb clever ceiling little screen invite";

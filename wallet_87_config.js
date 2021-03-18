@@ -1,1 +1,1 @@
-var mnemonic = "foil rotate damp state update time machine unfair enroll eyebrow erupt claim";
+var mnemonic = "athlete cover clump trophy want room liberty average image dumb access onion";
