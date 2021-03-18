@@ -1,1 +1,1 @@
-var mnemonic = "heavy pumpkin clay maid fan solar toddler loyal diamond final night hood";
+var mnemonic = "actual salute convince method curious forward leisure merry brown rival matter entry";

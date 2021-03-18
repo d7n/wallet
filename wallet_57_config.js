@@ -1,1 +1,1 @@
-var mnemonic = "unlock holiday october pony crowd draft autumn actor whisper escape acoustic great";
+var mnemonic = "alley expire school melt female keep hint fat arm tank resist return";

@@ -1,1 +1,1 @@
-var mnemonic = "raise knife pill butter abstract egg brother dream excuse armed extra fat";
+var mnemonic = "deposit brush saddle pole try three fever belt elder patch flower feel";

@@ -1,1 +1,1 @@
-var mnemonic = "also demand ocean exercise update fish outer broccoli goddess assault uphold cream";
+var mnemonic = "maple animal trade panda spell regular shed similar cloud corn reopen major";

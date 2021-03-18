@@ -1,1 +1,1 @@
-var mnemonic = "galaxy sample issue letter post expose bid right awful suggest math toast";
+var mnemonic = "damage feel patient transfer embody afford grab stuff lock luggage ride lucky";

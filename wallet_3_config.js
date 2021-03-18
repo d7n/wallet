@@ -1,1 +1,1 @@
-var mnemonic = "tornado club smoke shop make away now search wink connect exchange duty";
+var mnemonic = "ancient nominee reduce lake still pole royal caught pottery come toward couch";

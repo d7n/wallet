@@ -1,1 +1,1 @@
-var mnemonic = "title recipe depth print pass embark credit cool scissors immune soul truck";
+var mnemonic = "digital jungle raw swarm clinic diamond pink response such trap curious staff";

@@ -1,1 +1,1 @@
-var mnemonic = "actual will sign scan party limb cousin brief opinion midnight catalog census";
+var mnemonic = "amateur tomato stove curve broken knock hamster banner juice clap betray hour";

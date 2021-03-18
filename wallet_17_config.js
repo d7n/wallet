@@ -1,1 +1,1 @@
-var mnemonic = "culture upper effort grit slide stable reopen limb minute come shadow return";
+var mnemonic = "lunar cushion icon pyramid tag spatial chuckle relax spoon again around spare";

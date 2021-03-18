@@ -1,1 +1,1 @@
-var mnemonic = "crack captain sand cousin tide powder exile win north blame border clay";
+var mnemonic = "lottery novel steel write begin speed aunt empower base salt vessel cricket";

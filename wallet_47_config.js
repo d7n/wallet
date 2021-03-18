@@ -1,1 +1,1 @@
-var mnemonic = "give poem topic note purpose glide spot security item payment width range";
+var mnemonic = "early observe point estate pelican bulk nest curious eagle describe right dress";

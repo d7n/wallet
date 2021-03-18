@@ -1,1 +1,1 @@
-var mnemonic = "kiwi bullet sea potato dose visa diary hungry victory grant install nice";
+var mnemonic = "outer icon object tent sphere barely wash ripple regret banner sketch promote";

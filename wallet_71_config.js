@@ -1,1 +1,1 @@
-var mnemonic = "stamp pulse six member vapor dose drama palm apple apart scare three";
+var mnemonic = "meadow pledge balcony range vessel mercy rally cruel giggle faculty collect sea";

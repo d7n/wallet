@@ -1,1 +1,1 @@
-var mnemonic = "funny owner agent impose rain switch grunt shield note hour ripple medal";
+var mnemonic = "vacuum primary hazard race olive price near enter tomorrow deputy law woman";

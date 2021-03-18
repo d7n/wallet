@@ -1,1 +1,1 @@
-var mnemonic = "danger ritual flame clown romance size phrase witness all purse depart please";
+var mnemonic = "trade brick crazy sphere okay absent survey pill fire stool tornado skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "shy debate layer grid inform sudden process scatter brave slush north artwork";
+var mnemonic = "print now patch stone awful busy used dust morning water rather spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff antenna basic case just miss word erase frown submit buyer access";
+var mnemonic = "kiwi expand neither topple dust strike foster beef rally prosper basic walk";

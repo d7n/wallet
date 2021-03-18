@@ -1,1 +1,1 @@
-var mnemonic = "beach cram clown sustain ask sell orchard plastic retire fresh warm snack";
+var mnemonic = "daring bag eye decrease city inform brief mom daughter fringe student derive";

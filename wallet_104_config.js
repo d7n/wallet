@@ -1,1 +1,1 @@
-var mnemonic = "cabin filter language during embark boost cheese virus have antique guilt warfare";
+var mnemonic = "topic crop two stay assist twelve among media anxiety toe tortoise town";

@@ -1,1 +1,1 @@
-var mnemonic = "regret supply protect rural wood cash rich learn afford matrix exchange plug";
+var mnemonic = "vehicle twin silver dismiss six glance youth resist way trim faculty cram";

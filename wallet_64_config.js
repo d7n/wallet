@@ -1,1 +1,1 @@
-var mnemonic = "auto feel hood august increase question umbrella skirt spatial hunt torch vivid";
+var mnemonic = "long salute enroll advance finish dinosaur gossip nut swamp person elbow income";

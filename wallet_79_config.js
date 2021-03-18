@@ -1,1 +1,1 @@
-var mnemonic = "alarm confirm bubble another blame kangaroo december magic vacant three ancient size";
+var mnemonic = "pass usual amount zero unknown use alcohol merit laptop pear patrol assault";

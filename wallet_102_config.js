@@ -1,1 +1,1 @@
-var mnemonic = "pen laundry agree luxury torch relax creek energy joy diary victory board";
+var mnemonic = "brick heart hope bacon rebuild sail oak tortoise any shoulder chuckle universe";

@@ -1,1 +1,1 @@
-var mnemonic = "chat coin erode village give fence foot title venture tennis certain forward";
+var mnemonic = "table abstract viable stool lunar cargo movie any use wise library arrow";

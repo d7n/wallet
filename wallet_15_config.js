@@ -1,1 +1,1 @@
-var mnemonic = "film job almost satisfy clog enroll that image corn health youth obtain";
+var mnemonic = "marble narrow swear rude language fade random year recipe evidence twin palace";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve focus meat rally soldier jacket ridge salt cause since similar dial";
+var mnemonic = "travel rain color shock quiz faith hammer option lady much lounge rely";

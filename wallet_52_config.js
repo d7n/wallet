@@ -1,1 +1,1 @@
-var mnemonic = "weather vicious sentence school uniform bone erupt match crater funny sand live";
+var mnemonic = "wood power bar stem uncle swing seminar tired combine thank speed wheel";

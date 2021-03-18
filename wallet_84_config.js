@@ -1,1 +1,1 @@
-var mnemonic = "shed web thrive spend enemy phrase ancient minute mixture someone lens shrimp";
+var mnemonic = "noise cherry purchase beach sugar gesture into move cereal track cruel pioneer";

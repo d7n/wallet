@@ -1,1 +1,1 @@
-var mnemonic = "bargain humor lava finger dove bright clerk saddle slab purity manage day";
+var mnemonic = "trial crisp cement despair hospital fluid rose pig moon desert predict enjoy";

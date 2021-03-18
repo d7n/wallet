@@ -1,1 +1,1 @@
-var mnemonic = "salute exclude absurd smart shed olympic discover library property okay almost school";
+var mnemonic = "real area boss warfare final mechanic essence breeze weasel label inspire parade";

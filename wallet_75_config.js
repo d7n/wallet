@@ -1,1 +1,1 @@
-var mnemonic = "actress spy slow sign equal dream rocket earth situate hungry mobile faith";
+var mnemonic = "fish educate group hollow gospel camp hour scrap robust lounge sibling fancy";

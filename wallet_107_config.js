@@ -1,1 +1,1 @@
-var mnemonic = "opinion tired tree federal define wink recall pave culture absent cost clump";
+var mnemonic = "siege neither horror total dismiss cross degree jeans insect tennis uncover eyebrow";

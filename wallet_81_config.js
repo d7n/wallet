@@ -1,1 +1,1 @@
-var mnemonic = "camp ancient ranch nature cook walk match soda fragile ugly soon person";
+var mnemonic = "subject bleak thrive develop romance today tree young notable palm tuna quality";

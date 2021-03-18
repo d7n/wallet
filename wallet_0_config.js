@@ -1,1 +1,1 @@
-var mnemonic = "you guide bird legend broom ball trick weapon crime garment trophy lab";
+var mnemonic = "jewel mobile surge sugar cook shove arrive like join short soda seed";

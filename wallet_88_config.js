@@ -1,1 +1,1 @@
-var mnemonic = "comic village reunion juice chair clip job hour lab boil bike knife";
+var mnemonic = "coral about weekend upper bronze bless music truth return force again six";

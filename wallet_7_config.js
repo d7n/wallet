@@ -1,1 +1,1 @@
-var mnemonic = "castle property jaguar clock gold scatter pioneer opinion cancel wear love reduce";
+var mnemonic = "stamp round envelope exile sister because flight expect twist slide boil noble";

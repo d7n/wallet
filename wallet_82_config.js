@@ -1,1 +1,1 @@
-var mnemonic = "duty pave another action outside number raise wage liar merry film lumber";
+var mnemonic = "clown can task cloth blind planet horse oppose claw orchard auction ostrich";

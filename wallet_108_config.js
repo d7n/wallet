@@ -1,1 +1,1 @@
-var mnemonic = "claw design slow vicious inherit memory climb athlete life jungle athlete oven";
+var mnemonic = "wagon crew park prize lonely menu pelican mango direct open sibling choice";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny nut dentist carbon axis neither dizzy project poverty anchor silk breeze";
+var mnemonic = "night tobacco manual kitchen tail luxury divide scare weekend reject silver gorilla";

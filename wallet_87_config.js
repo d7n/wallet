@@ -1,1 +1,1 @@
-var mnemonic = "drink ridge donor chapter member carry cube wrong slice build field will";
+var mnemonic = "season cube know wrestle woman glow neither walnut still high observe diesel";

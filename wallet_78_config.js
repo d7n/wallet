@@ -1,1 +1,1 @@
-var mnemonic = "alpha glad mammal crowd chair device lab business donate stamp baby devote";
+var mnemonic = "catalog cute warfare valid puppy crop invest motor spend verb media hollow";

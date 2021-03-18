@@ -1,1 +1,1 @@
-var mnemonic = "stool property illness panther avoid universe leisure tragic taxi grit hundred trade";
+var mnemonic = "elegant grocery never illness shoot desert video decorate scan bless human trash";

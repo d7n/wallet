@@ -1,1 +1,1 @@
-var mnemonic = "toe critic drum wasp renew injury play head ten cement tennis discover";
+var mnemonic = "cloud hurt design kidney patrol trash weekend age ozone blue pond virus";

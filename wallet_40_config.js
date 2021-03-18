@@ -1,1 +1,1 @@
-var mnemonic = "shadow lumber crowd combine amused genius cram shaft uniform note buddy autumn";
+var mnemonic = "record camp mountain inspire rural farm engine need front funny useless gate";

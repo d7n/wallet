@@ -1,1 +1,1 @@
-var mnemonic = "disorder hope frog siren orphan crush course wage head crunch marriage various";
+var mnemonic = "custom strike junior blouse robust coconut oppose arctic tape lens banner devote";

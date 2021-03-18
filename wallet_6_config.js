@@ -1,1 +1,1 @@
-var mnemonic = "ankle giant fitness above pave bring load armed boss thought paper horror";
+var mnemonic = "tomorrow play soft broom random brother ivory spider crew number crouch average";

@@ -1,1 +1,1 @@
-var mnemonic = "finger shine fly front video above direct awesome master cargo search gloom";
+var mnemonic = "shiver found twenty aware reveal assist dune immune person corn usage neither";

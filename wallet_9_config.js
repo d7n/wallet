@@ -1,1 +1,1 @@
-var mnemonic = "display luxury remain engage scrap stock equal maximum butter horror drive analyst";
+var mnemonic = "oak amazing dance answer scrub sweet pudding cage foil person envelope place";

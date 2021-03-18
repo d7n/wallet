@@ -1,1 +1,1 @@
-var mnemonic = "remember agent tongue panic rug rapid above behind lobster plate elite loan";
+var mnemonic = "diet vessel side master eye leopard wagon scrub sword tank swallow gun";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm wash code decide lobster model crop wheel mail laundry dwarf surprise";
+var mnemonic = "hill wink pet possible upper alter tail slogan merry unveil clutch olive";

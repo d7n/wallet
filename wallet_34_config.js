@@ -1,1 +1,1 @@
-var mnemonic = "interest crash now second cement candy elevator approve height miss govern twist";
+var mnemonic = "boring dove tuition play mixture sniff south inherit dove crop entry valley";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward fringe cart pulp obtain flip mean limit deal issue mountain alarm";
+var mnemonic = "office friend wisdom figure release arrive husband sure mushroom black woman lonely";

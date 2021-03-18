@@ -1,1 +1,1 @@
-var mnemonic = "during involve liquid pill stay jump hunt twelve crowd wagon balcony weird";
+var mnemonic = "spin family little gain put knock swing idle home captain still duck";

@@ -1,1 +1,1 @@
-var mnemonic = "distance sister prison alert spread vital liberty bamboo cover donkey loan remove";
+var mnemonic = "abstract mule reason piano toe observe jazz during canvas junior eight puzzle";

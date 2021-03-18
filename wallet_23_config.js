@@ -1,1 +1,1 @@
-var mnemonic = "culture farm dust stuff speak seat visit wink require crumble develop risk";
+var mnemonic = "jump vapor bid leopard omit soft remember switch day cake company copper";

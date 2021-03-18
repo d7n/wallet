@@ -1,1 +1,1 @@
-var mnemonic = "language giraffe situate lizard captain deposit march hotel green increase start apology";
+var mnemonic = "fragile fantasy avocado inject green peanut salad diesel deny reduce ankle library";

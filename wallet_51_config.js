@@ -1,1 +1,1 @@
-var mnemonic = "silly shy drill rapid chimney prepare language surround deal middle layer brand";
+var mnemonic = "dignity tongue accuse inquiry model nice home area trigger found essay news";

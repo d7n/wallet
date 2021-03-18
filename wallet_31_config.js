@@ -1,1 +1,1 @@
-var mnemonic = "alone play blind erupt seven rally arrow pumpkin decrease snake dust borrow";
+var mnemonic = "scatter pear toe extra awesome honey crumble velvet kiss trumpet grain elephant";

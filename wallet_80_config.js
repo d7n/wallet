@@ -1,1 +1,1 @@
-var mnemonic = "glide host fence worry guard bone silent issue endorse outer catalog canvas";
+var mnemonic = "leader token invite frog mutual letter cotton donor innocent pen develop turtle";

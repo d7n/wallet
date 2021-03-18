@@ -1,1 +1,1 @@
-var mnemonic = "express clinic erase indicate rifle wall purpose exercise mushroom tuna black candy";
+var mnemonic = "unaware twin accident battle comfort camera assist expose tiger suffer card story";

@@ -1,1 +1,1 @@
-var mnemonic = "loan ahead narrow vocal jazz analyst organ bag camp ceiling buffalo certain";
+var mnemonic = "leave inform diagram stuff rug slice remind assist arrange light can tiger";

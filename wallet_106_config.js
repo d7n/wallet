@@ -1,1 +1,1 @@
-var mnemonic = "lemon present comfort arctic dutch ordinary diesel blush point morning twelve dog";
+var mnemonic = "avoid turn situate shift sure theme human oppose retreat copper favorite anger";

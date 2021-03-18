@@ -1,1 +1,1 @@
-var mnemonic = "cattle start olive begin cereal steel hip chef know seed turn vessel";
+var mnemonic = "cherry coast virtual exotic mom vocal tape fatigue barely arm employ bundle";

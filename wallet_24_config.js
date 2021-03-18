@@ -1,1 +1,1 @@
-var mnemonic = "attract real forest shield fabric agent trade library little bus gym emotion";
+var mnemonic = "opera leopard trade net among accident power dignity pulp swap pink van";

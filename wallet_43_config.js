@@ -1,1 +1,1 @@
-var mnemonic = "brain police adult noble cousin cement abuse inhale make critic biology service";
+var mnemonic = "embody latin electric thrive worry siren strike cabin south foot note inject";

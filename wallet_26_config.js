@@ -1,1 +1,1 @@
-var mnemonic = "arena jeans option case involve fashion modify possible seven slow promote surround";
+var mnemonic = "group antique era lecture dog brown cute canal tide act garbage task";

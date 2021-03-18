@@ -1,1 +1,1 @@
-var mnemonic = "gown large drop only fish any peasant spawn agent arm verb witness";
+var mnemonic = "fan prison conduct length admit chef twenty thunder trigger grab element sock";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic story above amused half slim thing leg book erupt stock provide";
+var mnemonic = "quarter fever make click pass service found broccoli afraid soul spend topple";

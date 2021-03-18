@@ -1,1 +1,1 @@
-var mnemonic = "turn raccoon focus wait melody smooth hammer acid remove filter they jelly";
+var mnemonic = "age arrest mother clay slam direct box state test shallow elbow panel";

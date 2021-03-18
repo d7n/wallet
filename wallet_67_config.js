@@ -1,1 +1,1 @@
-var mnemonic = "track mandate unlock buzz under keen fatal another nest siege about strategy";
+var mnemonic = "suit truck bonus drip chronic wolf ladder call say main fortune draft";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight apology visa morning know win work quick apple force abandon lock";
+var mnemonic = "bike apple involve kite traffic awful easy champion happy cable service hint";

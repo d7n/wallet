@@ -1,1 +1,1 @@
-var mnemonic = "dream chest chicken ancient solve three pioneer utility heart man another road";
+var mnemonic = "clutch damage dynamic please explain exact minute rocket olive sing power brave";

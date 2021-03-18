@@ -1,1 +1,1 @@
-var mnemonic = "climb elder debate scan woman trend foil win merit start ten jungle";
+var mnemonic = "nuclear jewel mean various drastic shrug equip label smoke humor valve ocean";

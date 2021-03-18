@@ -1,1 +1,1 @@
-var mnemonic = "waste bomb purchase drink bind hen enough police van drill truly over";
+var mnemonic = "nature peace heart song forward best soon crunch exhibit view illegal wet";

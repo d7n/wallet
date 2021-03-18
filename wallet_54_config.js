@@ -1,1 +1,1 @@
-var mnemonic = "path fatigue chef develop dish plate aspect quote lunch protect banana author";
+var mnemonic = "neglect bike shallow resist garlic north order elder ring direct accuse seed";

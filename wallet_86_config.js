@@ -1,1 +1,1 @@
-var mnemonic = "protect anxiety high illegal monster scene nasty husband bright priority decade mercy";
+var mnemonic = "gather couch noise grit health eagle pottery hip action brush acquire ancient";

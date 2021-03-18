@@ -1,1 +1,1 @@
-var mnemonic = "silver choose vast remain large blade elevator fringe man put shove civil";
+var mnemonic = "subway blade satisfy decline dress grain random runway memory glory capable boss";

@@ -1,1 +1,1 @@
-var mnemonic = "woman offer cruel what profit square silver wolf nothing brother fog potato";
+var mnemonic = "much marriage arm twenty ball flower board favorite clip bronze apology double";

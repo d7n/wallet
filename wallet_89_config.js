@@ -1,1 +1,1 @@
-var mnemonic = "pioneer slender safe multiply glare fiscal wear unit page empty protect property";
+var mnemonic = "embody pudding roast busy divide traffic one defense album shallow dragon time";

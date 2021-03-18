@@ -1,1 +1,1 @@
-var mnemonic = "author theme march race act kid forum bounce cattle original silk path";
+var mnemonic = "maple quantum below define cruise bulk argue unfold champion scan drink fork";

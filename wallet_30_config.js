@@ -1,1 +1,1 @@
-var mnemonic = "they rug tree license machine spawn dust inhale virtual skirt nothing bone";
+var mnemonic = "dish sleep gate ability liquid ill dawn east west trap arctic maid";

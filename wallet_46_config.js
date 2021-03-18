@@ -1,1 +1,1 @@
-var mnemonic = "monkey stereo wife truth atom orbit clarify surround reunion horror magic kick";
+var mnemonic = "furnace enforce giraffe omit develop suspect goose modify ivory muffin situate moment";

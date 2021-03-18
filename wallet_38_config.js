@@ -1,1 +1,1 @@
-var mnemonic = "edit forest settle movie legend front exhaust spoil reveal cute close story";
+var mnemonic = "purpose garage mesh help ceiling illegal theory glide luggage sock trade obvious";

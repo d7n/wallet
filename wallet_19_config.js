@@ -1,1 +1,1 @@
-var mnemonic = "north clever solid frozen energy final thumb print play hen addict table";
+var mnemonic = "hello year royal denial ankle action shrug lottery scan net code note";

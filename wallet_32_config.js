@@ -1,1 +1,1 @@
-var mnemonic = "spike dinosaur tilt love angry mistake toy guess cluster reopen thumb front";
+var mnemonic = "rebel brass culture public outside omit swear expand alarm sunset bachelor mind";

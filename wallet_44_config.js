@@ -1,1 +1,1 @@
-var mnemonic = "cattle warm curious evoke reject mesh forest human piece valve fault giraffe";
+var mnemonic = "blur potato boil best consider caught enemy absorb reform marriage click section";

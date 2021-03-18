@@ -1,1 +1,1 @@
-var mnemonic = "since bus suggest elbow pride crush inspire vocal desk pet race mother";
+var mnemonic = "present invite crater interest thrive arrow puzzle pair input huge depth concert";

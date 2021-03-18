@@ -1,1 +1,1 @@
-var mnemonic = "color crawl leaf frog like laugh bronze test taxi couple judge cabin";
+var mnemonic = "light shallow arch luggage patch school crush pig gown budget wise learn";

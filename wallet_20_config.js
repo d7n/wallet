@@ -1,1 +1,1 @@
-var mnemonic = "slab predict cruise tube bind rich item airport dawn advice edge cargo";
+var mnemonic = "grace skirt hour weekend chat payment inform debris rely clean mass cute";

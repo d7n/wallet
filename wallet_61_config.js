@@ -1,1 +1,1 @@
-var mnemonic = "merry badge spike divide step refuse myth invite bind muscle also maze";
+var mnemonic = "wink nominee ball reunion harbor worry shallow dove tiger memory plunge nurse";

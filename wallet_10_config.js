@@ -1,1 +1,1 @@
-var mnemonic = "letter valley segment correct anchor source canyon attract security high captain fluid";
+var mnemonic = "candy attack corn merit local dice filter crumble initial interest fiscal random";
