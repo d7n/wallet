@@ -1,1 +1,1 @@
-var mnemonic = "crack peanut guitar siren multiply return invest captain bracket depth lunch side";
+var mnemonic = "nature amount pool deputy legend reform various flower seminar tuna tourist zone";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge rain brass novel volume bottom average hat employ clever ball clock";
+var mnemonic = "start trophy defy pass traffic kid video number observe surface impact cushion";

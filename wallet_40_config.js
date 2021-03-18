@@ -1,1 +1,1 @@
-var mnemonic = "local envelope brother version equip crazy myself cushion dumb capital mountain dish";
+var mnemonic = "similar stuff brave endless mango supreme huge talk lonely match life before";

@@ -1,1 +1,1 @@
-var mnemonic = "black blouse device garbage cake burger fury certain rescue angle mail century";
+var mnemonic = "amused eager color spring fan kind rule answer vague series notable fiber";

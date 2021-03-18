@@ -1,1 +1,1 @@
-var mnemonic = "expire waste just inmate segment clay jump express time kiss brand middle";
+var mnemonic = "second oppose genius unit virus trade ripple drop afford diary observe prosper";

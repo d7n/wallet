@@ -1,1 +1,1 @@
-var mnemonic = "brief cheap system antique frame edge brass law exchange ignore just agent";
+var mnemonic = "carry vibrant funny fee meadow cushion figure drift clip poverty jewel naive";

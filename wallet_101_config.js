@@ -1,1 +1,1 @@
-var mnemonic = "inhale bullet punch castle economy movie race mass gesture carry daring tribe";
+var mnemonic = "orchard occur dose index blanket chaos fun humor brother elephant earth dizzy";

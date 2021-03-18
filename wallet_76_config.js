@@ -1,1 +1,1 @@
-var mnemonic = "broom cotton canvas insect ribbon dinosaur shrimp physical ready ramp arrest stairs";
+var mnemonic = "pen once security elite work wheat input favorite churn bench key error";

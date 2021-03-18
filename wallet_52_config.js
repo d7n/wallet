@@ -1,1 +1,1 @@
-var mnemonic = "upon nose library elevator recycle table sad rally neglect garlic post kitten";
+var mnemonic = "jealous dad acid powder index boost cattle either noise shy left enhance";

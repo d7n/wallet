@@ -1,1 +1,1 @@
-var mnemonic = "shed dirt legend begin credit resource peace soft alone crazy guilt plunge";
+var mnemonic = "long wasp inject whip dish merit found another unit lawn file tonight";

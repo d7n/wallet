@@ -1,1 +1,1 @@
-var mnemonic = "stone diagram length tornado another blind setup toy auto mammal identify sleep";
+var mnemonic = "enemy design drip kiwi deputy pride steak ketchup check choice alone spell";

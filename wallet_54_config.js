@@ -1,1 +1,1 @@
-var mnemonic = "beyond bread educate crater wall crack famous soccer depth narrow bonus race";
+var mnemonic = "ride field ketchup wait chair absorb pulp devote derive degree tuna stool";

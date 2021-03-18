@@ -1,1 +1,1 @@
-var mnemonic = "mouse indoor blue young shy chaos amused mention foot dose crane harbor";
+var mnemonic = "critic little minute uphold army silver defy target panic saddle room distance";

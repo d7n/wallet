@@ -1,1 +1,1 @@
-var mnemonic = "inmate uphold have scrap provide method pepper floor hen charge ethics wonder";
+var mnemonic = "name someone slender parade champion grunt door section weapon later whisper any";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket riot riot misery exchange finger cover era river kitchen absorb give";
+var mnemonic = "film arctic soul capital call neck brother slight shell athlete bread fringe";

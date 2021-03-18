@@ -1,1 +1,1 @@
-var mnemonic = "toy congress scale dragon negative blue debate tongue kidney journey before tuna";
+var mnemonic = "menu wonder impact medal exercise base taste drop morning armor vendor cactus";

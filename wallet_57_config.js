@@ -1,1 +1,1 @@
-var mnemonic = "coyote frog into popular argue price elevator gallery income duck detail match";
+var mnemonic = "adult battle snap skin dress dose rug key best crystal item hunt";

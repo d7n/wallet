@@ -1,1 +1,1 @@
-var mnemonic = "eight measure stuff bonus undo pizza army flash toddler special slice discover";
+var mnemonic = "secret toddler ceiling box canyon duck work eye what awful armor nurse";

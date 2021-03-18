@@ -1,1 +1,1 @@
-var mnemonic = "collect chase dilemma become fit pistol film renew canvas rubber portion number";
+var mnemonic = "square arrest citizen flush adapt inquiry thrive able execute tag man giant";

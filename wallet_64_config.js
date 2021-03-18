@@ -1,1 +1,1 @@
-var mnemonic = "nasty order smooth defy sunny air rubber peanut liar capable best make";
+var mnemonic = "orchard welcome escape absorb transfer abstract immense because raven orphan warfare hundred";

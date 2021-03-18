@@ -1,1 +1,1 @@
-var mnemonic = "tilt tool senior title inform tube hundred suffer bridge learn sort car";
+var mnemonic = "stool dish chief return wire sphere group champion stereo timber twist lion";

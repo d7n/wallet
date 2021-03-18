@@ -1,1 +1,1 @@
-var mnemonic = "city kiss treat pumpkin artist anger elbow trash ancient various clutch stomach";
+var mnemonic = "unlock occur inflict renew dilemma girl bench unable episode earth arctic exclude";

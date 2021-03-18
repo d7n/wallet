@@ -1,1 +1,1 @@
-var mnemonic = "divorce hold wash shallow ozone very slim journey cupboard vibrant awkward magic";
+var mnemonic = "mechanic apart prize place song apart sorry regret submit diamond buffalo spend";

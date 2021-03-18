@@ -1,1 +1,1 @@
-var mnemonic = "title pelican middle arm nasty spawn spawn off main cargo soul globe";
+var mnemonic = "capital fashion hidden myself gain donkey digital million focus host unusual cinnamon";

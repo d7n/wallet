@@ -1,1 +1,1 @@
-var mnemonic = "hour can sphere busy tortoise tunnel hurt pistol column history holiday increase";
+var mnemonic = "march minimum choice omit hurry blanket ivory scatter large length biology vibrant";

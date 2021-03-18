@@ -1,1 +1,1 @@
-var mnemonic = "arrive comic faith ready hunt sausage pet leader forest knee mistake laptop";
+var mnemonic = "sound burger struggle flip bomb woman wrestle cave increase beach animal transfer";

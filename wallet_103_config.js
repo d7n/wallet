@@ -1,1 +1,1 @@
-var mnemonic = "month exchange acoustic damp tornado deputy first obtain emotion cube two episode";
+var mnemonic = "jar very fan derive easy marble better avocado spy reveal horn toss";

@@ -1,1 +1,1 @@
-var mnemonic = "success total saddle clump ranch coconut leader chief minute notable audit frog";
+var mnemonic = "right toy course select tattoo three ankle inhale mandate lunch copper piano";

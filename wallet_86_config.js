@@ -1,1 +1,1 @@
-var mnemonic = "junk beef wine enroll clutch history attend gun wool manual caught nature";
+var mnemonic = "various clean foam news music keep village cancel miss film horse apart";

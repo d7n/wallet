@@ -1,1 +1,1 @@
-var mnemonic = "energy random label vintage crouch topple junk sniff hill acquire language rocket";
+var mnemonic = "ill ostrich episode north cheese electric moon thrive brass fly trigger wedding";

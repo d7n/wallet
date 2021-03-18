@@ -1,1 +1,1 @@
-var mnemonic = "scare above case borrow excess vault manage green soldier expire unhappy donor";
+var mnemonic = "energy defense olive put window unit hour addict quick total level hospital";

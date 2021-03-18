@@ -1,1 +1,1 @@
-var mnemonic = "aspect basic sort tag staff during execute silver scatter elegant insane spatial";
+var mnemonic = "device dizzy plate click shuffle fashion athlete acquire thrive essence special champion";

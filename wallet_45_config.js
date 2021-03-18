@@ -1,1 +1,1 @@
-var mnemonic = "asthma install naive vast cool surprise able erupt expand common foil opinion";
+var mnemonic = "rifle guide bridge vanish shock dune ghost loan correct strike number next";

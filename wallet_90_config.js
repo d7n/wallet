@@ -1,1 +1,1 @@
-var mnemonic = "connect favorite chuckle prevent today question arrive tone alien because museum core";
+var mnemonic = "green capable photo donate club gossip enter sibling fruit salmon salmon protect";

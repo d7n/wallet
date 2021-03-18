@@ -1,1 +1,1 @@
-var mnemonic = "lend still vague habit jelly blind puzzle kiwi right paper brick velvet";
+var mnemonic = "maple flush eight profit rain hover mercy police already pave worth month";

@@ -1,1 +1,1 @@
-var mnemonic = "behind sign eyebrow search bulk cancel announce head travel choice impose bitter";
+var mnemonic = "diamond because convince good clerk bullet warrior team session faint wasp feel";

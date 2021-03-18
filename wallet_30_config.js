@@ -1,1 +1,1 @@
-var mnemonic = "width inherit resource riot live harbor regret major tray transfer group sugar";
+var mnemonic = "walnut doll tunnel jar diary siege license sponsor family nuclear swarm provide";

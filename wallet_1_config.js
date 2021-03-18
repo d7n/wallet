@@ -1,1 +1,1 @@
-var mnemonic = "asthma romance raccoon bike iron rookie curve lunar mango kidney spell east";
+var mnemonic = "soap train dragon measure vehicle off joy near inmate smart pair squeeze";

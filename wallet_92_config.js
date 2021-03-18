@@ -1,1 +1,1 @@
-var mnemonic = "snack short rail grape jazz era blade kick decrease exclude refuse box";
+var mnemonic = "shine crazy strategy grape recipe super burst swallow net main transfer grape";

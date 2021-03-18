@@ -1,1 +1,1 @@
-var mnemonic = "broken harvest resemble gloom enjoy weekend kidney nephew today exchange vessel glove";
+var mnemonic = "grant trick clerk enrich dolphin genius dust cancel little neglect vault mirror";

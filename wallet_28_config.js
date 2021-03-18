@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin popular select glide scare gesture search quality parent tell ramp annual";
+var mnemonic = "public give unlock obvious column solve welcome evoke apart blind delay artwork";

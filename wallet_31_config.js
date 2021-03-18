@@ -1,1 +1,1 @@
-var mnemonic = "cart inflict intact sick party tongue pattern depend boss marble detail song";
+var mnemonic = "target media trend meat pudding uncover pioneer nest rough section coconut rain";

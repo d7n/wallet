@@ -1,1 +1,1 @@
-var mnemonic = "lazy robot father undo business winter mass equal maid maple grit voice";
+var mnemonic = "adjust choice tobacco learn extra tip limb fabric prison mercy click need";

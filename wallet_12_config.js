@@ -1,1 +1,1 @@
-var mnemonic = "exist uphold mixture inner case crater win other vicious cricket glad security";
+var mnemonic = "flock scene remember execute ring inquiry border tiger mystery roof butter pet";

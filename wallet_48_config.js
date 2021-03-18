@@ -1,1 +1,1 @@
-var mnemonic = "tell napkin miracle license elbow parent rude shuffle fury simple insect topple";
+var mnemonic = "grab jelly social smile high chief furnace blast kingdom coil minor ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "entire erosion shine truly waste choose promote grit guess detect afraid cabin";
+var mnemonic = "once scissors unit border ghost west hybrid trophy dry unfair interest inside";

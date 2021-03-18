@@ -1,1 +1,1 @@
-var mnemonic = "unhappy piece sock fuel smart muffin carry town margin remain mistake crystal";
+var mnemonic = "fork exotic entire remain foot oval pet erupt region mail typical old";

@@ -1,1 +1,1 @@
-var mnemonic = "public exercise network include loop consider capable now hole pony duck bunker";
+var mnemonic = "source icon puppy choose announce text bid stock deputy solar sorry identify";

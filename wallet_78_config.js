@@ -1,1 +1,1 @@
-var mnemonic = "make state police buyer tower joke yellow oppose proud destroy guess season";
+var mnemonic = "teach awake dilemma slush leave faculty insect then cream luggage silent thing";

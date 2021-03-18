@@ -1,1 +1,1 @@
-var mnemonic = "sing orange scissors fatal arrive layer essence burden fantasy chat hollow kiss";
+var mnemonic = "order spare balcony boost forest strong pattern waste fetch pudding race flush";

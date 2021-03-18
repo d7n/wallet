@@ -1,1 +1,1 @@
-var mnemonic = "review bonus attitude snap wolf soul cruise mountain creek matrix device absorb";
+var mnemonic = "sweet near pole team vast usual champion fix crop citizen harsh flush";

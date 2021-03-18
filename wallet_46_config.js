@@ -1,1 +1,1 @@
-var mnemonic = "bone clap glare sample taste hurry ketchup antique elegant cup miss siren";
+var mnemonic = "crazy want inhale patch gorilla tiger remember special demand hole breeze curve";

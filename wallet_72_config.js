@@ -1,1 +1,1 @@
-var mnemonic = "update monster journey sunny today surround level clock torch dinner apple step";
+var mnemonic = "weather small spatial enact dice diamond mail sheriff popular mosquito obvious destroy";

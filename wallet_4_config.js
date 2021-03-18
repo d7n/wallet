@@ -1,1 +1,1 @@
-var mnemonic = "health unlock bundle extra miracle ready tuition finish elevator man camera detail";
+var mnemonic = "execute issue usual sample ladder thrive witness physical park kangaroo isolate season";

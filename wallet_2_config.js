@@ -1,1 +1,1 @@
-var mnemonic = "field thought donkey cart gauge keen minor addict orange west view brave";
+var mnemonic = "average awkward token bottom must employ clever thank clump town hotel sign";

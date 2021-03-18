@@ -1,1 +1,1 @@
-var mnemonic = "slam speed execute foot vehicle decide oyster foil limit tumble unaware success";
+var mnemonic = "link eight height poet call hold garden edit yard ice defense wrap";

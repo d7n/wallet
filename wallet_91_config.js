@@ -1,1 +1,1 @@
-var mnemonic = "aunt toe legal vocal stumble elbow eagle detail soft priority shoe debris";
+var mnemonic = "alpha frozen tone movie senior try vanish decide episode steel lion crucial";

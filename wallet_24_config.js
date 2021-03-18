@@ -1,1 +1,1 @@
-var mnemonic = "tool flame goose civil rubber myself bus awake stereo trumpet accident member";
+var mnemonic = "learn grunt measure science unhappy spread assume affair bitter stock achieve over";

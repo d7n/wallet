@@ -1,1 +1,1 @@
-var mnemonic = "alpha album smart bench tonight assume century spin human act process salute";
+var mnemonic = "roof crumble husband deliver caught pact train above potato real online grain";

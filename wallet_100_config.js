@@ -1,1 +1,1 @@
-var mnemonic = "tree project detail field kiss doctor liquid stove explain enrich normal tilt";
+var mnemonic = "artist cream easy strong pistol ocean tank nation expect summer clip resemble";

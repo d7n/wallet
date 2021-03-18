@@ -1,1 +1,1 @@
-var mnemonic = "welcome tragic jewel fitness nerve peasant refuse dry above involve search like";
+var mnemonic = "increase pistol sick siren glass again cheap wish express minute real more";

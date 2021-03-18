@@ -1,1 +1,1 @@
-var mnemonic = "salad input mystery increase flame hidden direct leisure course boat divide attitude";
+var mnemonic = "confirm exclude smile curious rebuild grab kind pink lion bubble daughter try";

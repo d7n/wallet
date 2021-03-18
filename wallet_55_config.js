@@ -1,1 +1,1 @@
-var mnemonic = "misery desk cactus opinion sport enroll again cliff able tent hungry pony";
+var mnemonic = "tip runway tiny ten phrase stairs seven vivid pigeon silly nest visa";

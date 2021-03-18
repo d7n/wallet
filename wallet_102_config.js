@@ -1,1 +1,1 @@
-var mnemonic = "advance phrase govern trigger world salad subway music hen barely prepare circle";
+var mnemonic = "satoshi aspect carry bottom vast zero roof galaxy across wealth globe payment";

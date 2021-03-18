@@ -1,1 +1,1 @@
-var mnemonic = "cause receive debris earth jacket project police zone dentist maze solar morning";
+var mnemonic = "field hunt warfare echo group alert ivory fame gown voyage crawl imitate";

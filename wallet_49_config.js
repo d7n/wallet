@@ -1,1 +1,1 @@
-var mnemonic = "sight hire tired nature riot list help steel path settle million guess";
+var mnemonic = "thing trap beef ten relief kitten milk budget citizen skate good title";

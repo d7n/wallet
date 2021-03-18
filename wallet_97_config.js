@@ -1,1 +1,1 @@
-var mnemonic = "theme love pink advice champion uphold mass edit detail puzzle couple chronic";
+var mnemonic = "boring topple ugly always alley custom iron hard awkward behind food gain";

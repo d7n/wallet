@@ -1,1 +1,1 @@
-var mnemonic = "federal scene chuckle whale diet tired matter box truck apple fresh day";
+var mnemonic = "insane jelly rich scan pelican strong uncle movie humor buzz visit help";

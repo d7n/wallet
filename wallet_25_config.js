@@ -1,1 +1,1 @@
-var mnemonic = "erupt monitor fence token fire angry offer trial cube change claw arch";
+var mnemonic = "warfare syrup orphan eternal evil fruit input swim chunk feel decide valid";

@@ -1,1 +1,1 @@
-var mnemonic = "pave step wise hint net crystal gym tomorrow visit place rhythm lava";
+var mnemonic = "glory fit excess opinion assist dragon eye unveil silent daughter kind arctic";

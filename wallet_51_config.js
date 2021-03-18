@@ -1,1 +1,1 @@
-var mnemonic = "empty harvest image stage vague emotion tonight hospital picture crystal mind elder";
+var mnemonic = "pair boss easy crush frame cereal lake coyote catch upon wine symptom";

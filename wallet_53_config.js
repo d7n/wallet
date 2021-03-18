@@ -1,1 +1,1 @@
-var mnemonic = "phrase boss stairs left game afford crush attend suggest today all cloth";
+var mnemonic = "fee polar escape stove company any monster ancient few fire duck awesome";

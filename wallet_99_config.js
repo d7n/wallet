@@ -1,1 +1,1 @@
-var mnemonic = "help chalk trophy kid order blade debate hawk nothing balcony law twenty";
+var mnemonic = "consider cabin angry loop earn crucial gauge behind satisfy casual alcohol disorder";

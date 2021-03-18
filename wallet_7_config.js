@@ -1,1 +1,1 @@
-var mnemonic = "casino ozone actual magnet void gadget enrich embrace tongue race poverty feature";
+var mnemonic = "million test float flush latin tragic view spend feel entry feed copper";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh knife edge trim brief element bike what cotton crowd glass broom";
+var mnemonic = "boat toilet nasty arch cross second trip tissue gesture have body gift";

@@ -1,1 +1,1 @@
-var mnemonic = "more goddess melody embark stamp enhance soul power fashion abuse crack praise";
+var mnemonic = "law tip bamboo method soldier produce earn swim snow false imitate sand";

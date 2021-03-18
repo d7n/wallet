@@ -1,1 +1,1 @@
-var mnemonic = "sadness figure glimpse anger auction hundred custom solar invite stereo hole speak";
+var mnemonic = "spice century depend type access earn frame survey cruel gossip upper expire";

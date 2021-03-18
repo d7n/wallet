@@ -1,1 +1,1 @@
-var mnemonic = "leader pave drop nephew traffic trust desk penalty shaft invite solid differ";
+var mnemonic = "people snake between despair skill drink stick vicious scene turn album humor";

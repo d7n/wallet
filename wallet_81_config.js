@@ -1,1 +1,1 @@
-var mnemonic = "turkey march drama wheat tomorrow birth luxury script cheese trust dawn stone";
+var mnemonic = "gesture chat wisdom reveal picture must best please able world minimum stock";

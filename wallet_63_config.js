@@ -1,1 +1,1 @@
-var mnemonic = "fatigue minor business cruise tragic broom limit poem produce alpha butter cargo";
+var mnemonic = "bacon exhaust fat salmon agent utility pepper weasel trim install trim quit";

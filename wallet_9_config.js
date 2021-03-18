@@ -1,1 +1,1 @@
-var mnemonic = "great enter client acoustic tattoo protect best fan entire turn observe universe";
+var mnemonic = "fit same stock you minimum south idle simple lemon sun student protect";

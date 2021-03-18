@@ -1,1 +1,1 @@
-var mnemonic = "rubber nose lumber pact rail aspect clock dynamic medal april rescue drift";
+var mnemonic = "traffic sunset motion laundry sorry network gather where cat run ivory clown";

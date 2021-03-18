@@ -1,1 +1,1 @@
-var mnemonic = "warfare swim hunt tool protect jeans repeat bracket later enough convince oppose";
+var mnemonic = "reveal loyal amount reform recycle age bargain ethics coil erosion ladder drastic";

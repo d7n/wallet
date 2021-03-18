@@ -1,1 +1,1 @@
-var mnemonic = "quick hurdle abuse boy virus talk orphan orange boil depend march put";
+var mnemonic = "cart army rare attitude diet absorb guard gallery sort margin damage dove";

@@ -1,1 +1,1 @@
-var mnemonic = "track enrich sea ball notable surge subway adjust capable yard hamster angle";
+var mnemonic = "enforce trouble you unable same garbage hedgehog surround dolphin output axis ketchup";

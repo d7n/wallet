@@ -1,1 +1,1 @@
-var mnemonic = "budget sense coconut tape affair steak rival cycle gospel toddler thrive spin";
+var mnemonic = "round derive hedgehog slogan retire snow marine script noble exhaust traffic carpet";

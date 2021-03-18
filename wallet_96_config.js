@@ -1,1 +1,1 @@
-var mnemonic = "attack old arctic stool brave boring front merge suggest rather income federal";
+var mnemonic = "wave hair transfer amused cigar hidden dragon roof under argue core spirit";

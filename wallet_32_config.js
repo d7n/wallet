@@ -1,1 +1,1 @@
-var mnemonic = "afraid file snap alarm girl betray plate umbrella shrug bless raise rib";
+var mnemonic = "silly raw plate diamond suit custom object hidden thing absurd creek owner";

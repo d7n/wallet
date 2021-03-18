@@ -1,1 +1,1 @@
-var mnemonic = "inquiry divorce keep fee predict angry salmon earn blast meadow liquid obscure";
+var mnemonic = "giggle pretty parade person that wrong only evolve clever scissors since auction";

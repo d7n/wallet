@@ -1,1 +1,1 @@
-var mnemonic = "palm boring chase life boil thunder saddle invest position razor empty carbon";
+var mnemonic = "snap network green base wage turkey barrel science twenty tired face winter";

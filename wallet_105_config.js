@@ -1,1 +1,1 @@
-var mnemonic = "between huge flush river venture stay million program lizard message street toward";
+var mnemonic = "return work employ six erase jungle regret term jelly cancel fiction problem";

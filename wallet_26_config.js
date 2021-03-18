@@ -1,1 +1,1 @@
-var mnemonic = "similar win derive easy execute bench slim brush fantasy machine frame view";
+var mnemonic = "enforce fancy tell slab abstract popular tortoise domain artist zoo cost pool";

@@ -1,1 +1,1 @@
-var mnemonic = "rib asset vault recall churn safe maple throw sausage bitter family address";
+var mnemonic = "face chef great topic spy peasant bridge abstract sauce upset very child";
