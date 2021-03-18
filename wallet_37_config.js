@@ -1,1 +1,1 @@
-var mnemonic = "strong reason orbit pass rule void saddle culture bid junior method lock";
+var mnemonic = "subway awesome explain black poverty rude fade culture price budget vacuum viable";

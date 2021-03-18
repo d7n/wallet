@@ -1,1 +1,1 @@
-var mnemonic = "solve field primary jacket virus sustain exotic debate seminar ankle seat goddess";
+var mnemonic = "gloom way dial start rhythm escape couch boost audit garment remain minor";

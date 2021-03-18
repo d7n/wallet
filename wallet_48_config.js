@@ -1,1 +1,1 @@
-var mnemonic = "decline barrel raw palm space vital permit wedding accuse flip render chaos";
+var mnemonic = "memory genuine capital interest put winter talk real wisdom trade average leg";

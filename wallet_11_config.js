@@ -1,1 +1,1 @@
-var mnemonic = "people inherit pact yard dog apology sell cargo desk excite flush story";
+var mnemonic = "office miss actress ride slight amused mention appear gown era love cigar";

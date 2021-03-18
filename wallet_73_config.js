@@ -1,1 +1,1 @@
-var mnemonic = "account shallow tide whale tonight oak scorpion guess bone belt tennis follow";
+var mnemonic = "waste pilot source domain live monster skirt island deliver twenty desk innocent";

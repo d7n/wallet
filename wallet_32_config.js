@@ -1,1 +1,1 @@
-var mnemonic = "winner cargo canal love proud flat away volume girl flock return ten";
+var mnemonic = "arrive shoe memory table enlist nuclear alley rough always midnight around elbow";

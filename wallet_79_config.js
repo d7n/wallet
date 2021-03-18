@@ -1,1 +1,1 @@
-var mnemonic = "stool february profit east border claim smile disorder oblige praise ugly visa";
+var mnemonic = "exchange piano bench april finish vicious test drill shove dash total require";

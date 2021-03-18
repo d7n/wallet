@@ -1,1 +1,1 @@
-var mnemonic = "sauce insane leg clarify club select produce birth purse indicate elegant behave";
+var mnemonic = "beyond best result weird pride level bind small output guitar benefit rubber";

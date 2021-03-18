@@ -1,1 +1,1 @@
-var mnemonic = "cricket relax category winter project police people high brown awesome melody guilt";
+var mnemonic = "shrug pudding limit pencil bread wear valve hobby canal cute educate logic";

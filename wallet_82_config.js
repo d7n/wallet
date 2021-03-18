@@ -1,1 +1,1 @@
-var mnemonic = "tray embrace accident work avoid need verb about job trip security chat";
+var mnemonic = "can sound neglect hood jazz cable enact dust welcome ice fall theme";

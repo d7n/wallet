@@ -1,1 +1,1 @@
-var mnemonic = "flag drastic garden innocent horror night world other achieve pepper crawl release";
+var mnemonic = "warrior toddler pudding actor solid auto inner device between give cook disease";

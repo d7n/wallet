@@ -1,1 +1,1 @@
-var mnemonic = "beauty stem month soap erosion disorder scrap shield crouch craft couple twenty";
+var mnemonic = "miracle piece you sort sell initial battle alone lamp merit flavor alter";

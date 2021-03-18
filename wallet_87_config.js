@@ -1,1 +1,1 @@
-var mnemonic = "room craft science whale exist miss wild route sound extend desk junk";
+var mnemonic = "subway foil ginger grocery owner brief cabbage ask observe rug close hip";

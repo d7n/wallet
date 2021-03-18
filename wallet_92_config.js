@@ -1,1 +1,1 @@
-var mnemonic = "cactus level awesome bread tattoo water vast effort uphold zebra impulse twelve";
+var mnemonic = "verb dance town remove shell midnight chest chef skate merit tool castle";

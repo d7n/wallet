@@ -1,1 +1,1 @@
-var mnemonic = "false poverty fragile member dust clump develop hawk ill wet spice call";
+var mnemonic = "mystery town icon hunt change escape drink annual kid great noodle alpha";

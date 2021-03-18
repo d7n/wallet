@@ -1,1 +1,1 @@
-var mnemonic = "nice credit system horse project soon boss can holiday twist cause prevent";
+var mnemonic = "manage crane neglect cliff float ability dismiss nephew unaware ship coach world";

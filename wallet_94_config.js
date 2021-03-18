@@ -1,1 +1,1 @@
-var mnemonic = "jelly differ pact filter collect outside winner canyon excite snow unaware hundred";
+var mnemonic = "process convince knife crisp chief raw result also wall frequent clip garment";

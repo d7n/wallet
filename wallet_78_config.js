@@ -1,1 +1,1 @@
-var mnemonic = "jeans artwork age card acoustic please lumber can laundry dinner harsh pupil";
+var mnemonic = "cabin panda champion execute universe kitchen news mutual cream focus skin inner";

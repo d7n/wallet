@@ -1,1 +1,1 @@
-var mnemonic = "cream core room again measure swing fatal repeat strike camp uncover want";
+var mnemonic = "bag thank spring use charge chronic vessel alien eight economy squeeze test";

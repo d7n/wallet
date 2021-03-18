@@ -1,1 +1,1 @@
-var mnemonic = "once primary sphere just popular meadow fuel project silly file scene phone";
+var mnemonic = "long car employ spider rural doctor right violin travel human path old";

@@ -1,1 +1,1 @@
-var mnemonic = "write calm already soon egg idle nest unusual account soda brave smile";
+var mnemonic = "course pull bomb swarm need bean helmet purse feed also disease invest";

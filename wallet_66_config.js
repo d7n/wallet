@@ -1,1 +1,1 @@
-var mnemonic = "supply edge move umbrella scheme patch rare behind inject abandon coral mesh";
+var mnemonic = "truly glad scan local whisper neither point theme uphold trumpet exile weekend";

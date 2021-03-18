@@ -1,1 +1,1 @@
-var mnemonic = "sniff fresh admit hurt trophy mix injury unveil survey absurd crisp foam";
+var mnemonic = "beach east trash few differ crop exclude dog pelican supreme have patient";

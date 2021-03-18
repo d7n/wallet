@@ -1,1 +1,1 @@
-var mnemonic = "shoe bicycle stuff assist correct pottery best harbor peasant project quit collect";
+var mnemonic = "dizzy income index announce glove globe weather bargain banana sponsor hockey stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce pioneer excess cabin stock tourist burden minor element into tomorrow believe";
+var mnemonic = "need strike sense salt scatter expire topic sponsor wild glad pottery peanut";

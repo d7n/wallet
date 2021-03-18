@@ -1,1 +1,1 @@
-var mnemonic = "lucky move light snack cancel inmate throw silent draft safe cotton wood";
+var mnemonic = "detail face history time type power city chief youth recall return target";

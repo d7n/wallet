@@ -1,1 +1,1 @@
-var mnemonic = "chase rival punch nose use response six mercy cricket fix explain trumpet";
+var mnemonic = "clinic witness quantum stumble wool turkey arrow embrace siege machine predict yellow";

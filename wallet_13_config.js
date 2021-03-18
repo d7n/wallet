@@ -1,1 +1,1 @@
-var mnemonic = "social nephew like crush room fiction runway all brown grid unfair coyote";
+var mnemonic = "merge venture echo polar crop enjoy night attitude dance this width rigid";

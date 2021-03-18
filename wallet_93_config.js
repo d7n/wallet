@@ -1,1 +1,1 @@
-var mnemonic = "inmate flash inner divert hockey universe lyrics property december project dizzy husband";
+var mnemonic = "space vessel close stage convince blouse ghost elder pulse extend salon mushroom";

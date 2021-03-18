@@ -1,1 +1,1 @@
-var mnemonic = "shield drive short finish tooth volcano gossip carbon wonder ensure elder popular";
+var mnemonic = "wealth involve grid travel smoke panic opinion axis blush logic antique elegant";

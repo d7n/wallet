@@ -1,1 +1,1 @@
-var mnemonic = "coral dwarf estate shrimp rookie basic often culture favorite put work question";
+var mnemonic = "pill chapter teach soup fiction mutual project alcohol rescue safe chat sail";

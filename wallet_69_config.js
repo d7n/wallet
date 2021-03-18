@@ -1,1 +1,1 @@
-var mnemonic = "drip useful reopen issue bag guitar scheme trip window govern chaos bone";
+var mnemonic = "gas hazard swear regret keen diet earn such drum token lock pupil";

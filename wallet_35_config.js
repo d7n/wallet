@@ -1,1 +1,1 @@
-var mnemonic = "sorry gesture near table jeans junior flight rural physical hover maximum extend";
+var mnemonic = "praise rotate kingdom gasp waste attract travel item replace noodle duty zebra";

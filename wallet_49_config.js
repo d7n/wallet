@@ -1,1 +1,1 @@
-var mnemonic = "scorpion lecture recipe sword rate goat lemon render crime more jaguar service";
+var mnemonic = "plastic album torch analyst exchange ancient prevent frame credit silk resemble rotate";

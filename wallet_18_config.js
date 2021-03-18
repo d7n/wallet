@@ -1,1 +1,1 @@
-var mnemonic = "milk height melody city express strong kidney gravity armor evil distance equal";
+var mnemonic = "riot photo banner pull awesome speak between rare drink title episode inside";

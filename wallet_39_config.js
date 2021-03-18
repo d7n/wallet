@@ -1,1 +1,1 @@
-var mnemonic = "wood scheme napkin problem bundle metal dynamic chat stairs february box lobster";
+var mnemonic = "guess stadium chunk car gorilla flush citizen other squeeze bus gauge stable";

@@ -1,1 +1,1 @@
-var mnemonic = "filter about rug alpha obscure slush select slice shoe load define move";
+var mnemonic = "polar cushion hospital organ kid pretty nature note dragon fringe copy neither";

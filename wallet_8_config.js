@@ -1,1 +1,1 @@
-var mnemonic = "lamp luxury please cruel spoon valley donor forget dad video december circle";
+var mnemonic = "diary amused another raven okay then clump change valley outside lecture valve";

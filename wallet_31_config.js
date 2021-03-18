@@ -1,1 +1,1 @@
-var mnemonic = "near refuse panic reason find female walk size black allow anxiety aerobic";
+var mnemonic = "initial private drip file excuse hundred bronze learn cushion snake artefact sick";

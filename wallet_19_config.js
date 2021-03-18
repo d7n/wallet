@@ -1,1 +1,1 @@
-var mnemonic = "choice burst margin dinner skirt frozen oval poet brief assist portion ankle";
+var mnemonic = "original myself remind winter address toward cube universe else donate review comic";

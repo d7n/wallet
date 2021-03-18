@@ -1,1 +1,1 @@
-var mnemonic = "rain again broccoli vicious report online estate oval project follow venue artwork";
+var mnemonic = "innocent strategy furnace bind ice wisdom onion exotic mango hero access stadium";

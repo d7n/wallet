@@ -1,1 +1,1 @@
-var mnemonic = "swim endorse stay dress sock slender speak opera flag vast mammal coil";
+var mnemonic = "noodle drop fog squirrel deputy creek square reward tumble huge segment useful";

@@ -1,1 +1,1 @@
-var mnemonic = "limit bacon sport cook reunion future dry wine bronze husband jewel couple";
+var mnemonic = "flat useful private express garage cross party holiday unusual obscure joy sea";

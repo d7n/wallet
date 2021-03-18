@@ -1,1 +1,1 @@
-var mnemonic = "life price mosquito club cream village rough spatial toilet castle clutch kite";
+var mnemonic = "define explain together latin kingdom lazy multiply sting ostrich wear law disease";

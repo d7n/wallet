@@ -1,1 +1,1 @@
-var mnemonic = "vehicle gas expose wood cherry custom elbow goddess photo piano unable evolve";
+var mnemonic = "price nose beef front candy ghost melody task manage innocent biology already";

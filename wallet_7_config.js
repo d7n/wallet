@@ -1,1 +1,1 @@
-var mnemonic = "icon tongue plunge fresh dream manual thing illness vivid dove swallow enable";
+var mnemonic = "morning doll purity wink race cannon office stove repair exit swift injury";

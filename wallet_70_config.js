@@ -1,1 +1,1 @@
-var mnemonic = "decorate abuse time share knock dilemma flip develop lobster answer recycle ask";
+var mnemonic = "torch whisper put agree reform loyal access hard poet pumpkin solid rack";

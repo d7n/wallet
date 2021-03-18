@@ -1,1 +1,1 @@
-var mnemonic = "battle negative entry fan month foot lumber game pattern spare elder office";
+var mnemonic = "high walnut view brain gloom predict jar deal excuse utility impact define";

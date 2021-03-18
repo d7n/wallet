@@ -1,1 +1,1 @@
-var mnemonic = "soccer gospel badge asset can limb intact fever cousin law foil one";
+var mnemonic = "recall prepare save above actor dress moment warfare into cloth volcano rough";

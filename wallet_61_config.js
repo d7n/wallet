@@ -1,1 +1,1 @@
-var mnemonic = "ceiling select cram chuckle tobacco cart enjoy divorce romance silly clean trim";
+var mnemonic = "bacon armed two when opinion brush balcony peace deliver budget release happy";

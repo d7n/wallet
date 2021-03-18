@@ -1,1 +1,1 @@
-var mnemonic = "street blush viable spawn nuclear crazy bulb cable danger rhythm you wreck";
+var mnemonic = "turn happy senior cabbage citizen display comfort defense convince deposit peasant crowd";

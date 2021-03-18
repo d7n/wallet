@@ -1,1 +1,1 @@
-var mnemonic = "knock below light jeans boy mercy census pact industry civil asset moon";
+var mnemonic = "mail swarm magnet ocean change always refuse possible panther scheme say cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "check useless egg awake film rookie jewel frost theme state drum vendor";
+var mnemonic = "onion frozen thumb fringe usage public unknown alien acid scrap ensure change";

@@ -1,1 +1,1 @@
-var mnemonic = "drip expose runway chimney elder sadness olive rabbit diary expire minor struggle";
+var mnemonic = "liar sphere movie salad cheese little carry script vote current exotic scheme";

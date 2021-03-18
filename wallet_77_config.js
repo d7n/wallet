@@ -1,1 +1,1 @@
-var mnemonic = "ritual trim wreck urge reunion field sketch real predict monkey during dilemma";
+var mnemonic = "jump hunt program laptop basic absorb work basic cousin review bike planet";

@@ -1,1 +1,1 @@
-var mnemonic = "across response subway blast finish goddess keen enroll bachelor advance motion cloth";
+var mnemonic = "cement subject consider glory awake risk fat melt inject bacon rally staff";

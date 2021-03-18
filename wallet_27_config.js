@@ -1,1 +1,1 @@
-var mnemonic = "bamboo planet pumpkin tube produce goat sport then firm day ocean title";
+var mnemonic = "injury october atom boil fun point drama crystal item quarter donor staff";

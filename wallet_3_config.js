@@ -1,1 +1,1 @@
-var mnemonic = "program medal hospital syrup arch spin juice finger series announce inspire fly";
+var mnemonic = "guard permit faith oak seed fire replace tennis diamond dial choice can";

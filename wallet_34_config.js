@@ -1,1 +1,1 @@
-var mnemonic = "sand book camp normal found void seed cream coast lava cram drum";
+var mnemonic = "any weapon item muffin inject lottery doll three kiwi sport detect feature";

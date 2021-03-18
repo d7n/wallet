@@ -1,1 +1,1 @@
-var mnemonic = "sea seed lemon frequent indoor neck bird episode blue muffin violin online";
+var mnemonic = "dog trade camera idle apology pelican travel budget raven holiday trip wheat";

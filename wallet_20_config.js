@@ -1,1 +1,1 @@
-var mnemonic = "number document few toe accident street ozone response myself novel episode peace";
+var mnemonic = "erosion perfect stable ribbon predict lizard feed cram punch venue reward pottery";

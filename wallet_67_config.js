@@ -1,1 +1,1 @@
-var mnemonic = "buffalo outdoor horse ankle spare ritual icon until uncover mechanic biology purpose";
+var mnemonic = "dad citizen gloom piano seminar rude glide object artist giant lobster adjust";

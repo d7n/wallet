@@ -1,1 +1,1 @@
-var mnemonic = "control vivid consider flavor slam young abstract narrow used fossil onion screen";
+var mnemonic = "flavor nation captain effort jacket suggest mandate perfect various plastic clutch word";

@@ -1,1 +1,1 @@
-var mnemonic = "spy adapt situate friend hidden clinic middle shiver boat result section clarify";
+var mnemonic = "marriage kit advance lake loop tape address warrior favorite drip mad pony";

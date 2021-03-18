@@ -1,1 +1,1 @@
-var mnemonic = "pioneer guard company test powder tissue state spin eight sunny pair absorb";
+var mnemonic = "stone bachelor fit digital return soul rocket city cinnamon love august eight";

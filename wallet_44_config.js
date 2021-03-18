@@ -1,1 +1,1 @@
-var mnemonic = "virus airport elevator noodle hill broccoli salt image divert field misery hockey";
+var mnemonic = "hobby process citizen program weapon onion board share awesome video tray inquiry";

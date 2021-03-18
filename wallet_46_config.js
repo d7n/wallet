@@ -1,1 +1,1 @@
-var mnemonic = "toy gravity usage hunt kiss candy pave manage mimic casual foil excess";
+var mnemonic = "industry cross tongue castle verify shrug hunt escape welcome supreme earth waste";

@@ -1,1 +1,1 @@
-var mnemonic = "shine panic team plunge crack kit yellow coach split empower wagon skate";
+var mnemonic = "gallery dizzy dinosaur gap unable since talk caught field major bottom elbow";

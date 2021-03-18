@@ -1,1 +1,1 @@
-var mnemonic = "similar select flower tennis excuse borrow alley enroll climb crew mystery spawn";
+var mnemonic = "fruit rural squeeze oval kidney pioneer siren puzzle decrease between blanket base";

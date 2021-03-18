@@ -1,1 +1,1 @@
-var mnemonic = "token indoor option useful virus message stadium shoe push child fall climb";
+var mnemonic = "tonight ski warm ranch endless phrase reflect route solve since father yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "soap lyrics nuclear drill noodle popular uniform quit city lobster mystery cable";
+var mnemonic = "exist bottom dinner recycle pear luggage rabbit entire coin finish scene receive";

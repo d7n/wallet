@@ -1,1 +1,1 @@
-var mnemonic = "make off dynamic oppose inhale input deposit lake boat weasel punch muffin";
+var mnemonic = "wolf program wrist waste damage check hen viable special service wage orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma museum teach protect permit okay often spirit winter illegal inspire assume";
+var mnemonic = "excuse trash horn airport thunder dish short dog medal chunk soul clay";

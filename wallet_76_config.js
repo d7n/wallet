@@ -1,1 +1,1 @@
-var mnemonic = "remove what minute document spoil move legend sleep uphold month average dutch";
+var mnemonic = "spoon glove fat usual know patrol dizzy market mirror trigger impose kid";

@@ -1,1 +1,1 @@
-var mnemonic = "illness hen hire truly cloth educate merge bamboo lock pencil duty evil";
+var mnemonic = "aisle capable desk quiz yellow extra letter copper panel where abuse begin";

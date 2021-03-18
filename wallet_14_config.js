@@ -1,1 +1,1 @@
-var mnemonic = "bleak minimum angry proof keep client spell glove impose idea cave option";
+var mnemonic = "example wide hover brand sentence castle enhance follow hand write receive garage";

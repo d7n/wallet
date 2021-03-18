@@ -1,1 +1,1 @@
-var mnemonic = "sauce sniff oval example husband minimum twelve gorilla loan leopard meadow cage";
+var mnemonic = "void stage coin harsh couple scissors shop today lock keen reward boost";

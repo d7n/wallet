@@ -1,1 +1,1 @@
-var mnemonic = "void jazz pair fiber cannon guard fall notable drive bachelor remain fantasy";
+var mnemonic = "during inch ribbon result conduct hidden adult wise manual congress outdoor spray";

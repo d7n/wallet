@@ -1,1 +1,1 @@
-var mnemonic = "noise tube vintage inflict brave grape tell people crucial want weekend believe";
+var mnemonic = "mirror duck turkey collect summer resemble involve mansion grant indicate toilet shift";

@@ -1,1 +1,1 @@
-var mnemonic = "assist just stay bitter gesture taxi shadow hamster animal august humor city";
+var mnemonic = "spirit away prefer jar taste raise hire write snack agent demand drill";

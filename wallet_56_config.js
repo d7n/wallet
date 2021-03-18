@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon surprise cancel rifle calm arrow truck clay exile cloth segment memory";
+var mnemonic = "night fold phrase witness dish mobile push behave ask model desk enrich";

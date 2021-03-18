@@ -1,1 +1,1 @@
-var mnemonic = "face twelve reveal piano suit truth license champion lava shock shaft rival";
+var mnemonic = "income inspire index about dance idle bind identify offer defy dutch setup";

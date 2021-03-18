@@ -1,1 +1,1 @@
-var mnemonic = "bid hawk paper deliver velvet obvious divorce attitude subway point sponsor fix";
+var mnemonic = "syrup crew mention neither observe junk bird near debris knife boost jealous";

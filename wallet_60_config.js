@@ -1,1 +1,1 @@
-var mnemonic = "riot ketchup topple alpha hen rely various fuel goose dry donkey wet";
+var mnemonic = "aerobic please average crane sweet gloom space eagle fiscal winter identify artwork";

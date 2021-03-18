@@ -1,1 +1,1 @@
-var mnemonic = "design address ladder oxygen cage insane evolve bamboo soldier media absent dinner";
+var mnemonic = "ticket announce unusual heart poverty pilot divide cargo sausage gap next have";

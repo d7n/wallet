@@ -1,1 +1,1 @@
-var mnemonic = "stamp urban kingdom organ glimpse invite asset spoil lonely old pelican elite";
+var mnemonic = "again cash argue expire fit ripple group void random gossip mandate zoo";

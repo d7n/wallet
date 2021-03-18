@@ -1,1 +1,1 @@
-var mnemonic = "craft general can pupil cream now isolate clock gasp torch shield hold";
+var mnemonic = "square horse inherit cook athlete buffalo subway vacant come end debate carry";

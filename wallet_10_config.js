@@ -1,1 +1,1 @@
-var mnemonic = "benefit flag wood script firm try spoon tone alcohol ride bullet kite";
+var mnemonic = "trend bid baby dirt slush among screen online pill horse alone angle";

@@ -1,1 +1,1 @@
-var mnemonic = "expand cook vault live excess soldier broken finish debris when advance battle";
+var mnemonic = "rubber lumber stomach critic cost ball thought almost novel science inmate blind";

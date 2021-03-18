@@ -1,1 +1,1 @@
-var mnemonic = "copy typical keep rain priority heart great effort seven afford hen bulb";
+var mnemonic = "shrug borrow winter nurse pass acquire catalog clip chicken blue floor brain";

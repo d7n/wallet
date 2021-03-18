@@ -1,1 +1,1 @@
-var mnemonic = "concert occur portion excuse enjoy skate harbor thank corn roast sphere puppy";
+var mnemonic = "write museum fetch mean woman win immense novel view spread submit strike";

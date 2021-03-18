@@ -1,1 +1,1 @@
-var mnemonic = "borrow exist resist banana churn noise oven spoon daughter task group project";
+var mnemonic = "picnic copy panther image noble stomach faculty glow army keep situate prison";

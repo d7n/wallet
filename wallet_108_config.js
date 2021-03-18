@@ -1,1 +1,1 @@
-var mnemonic = "begin window swear soldier note name gadget garlic video brand bean anxiety";
+var mnemonic = "copper oven solution about join race mass blame globe sound soup bird";

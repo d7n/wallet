@@ -1,1 +1,1 @@
-var mnemonic = "bundle tide salon truth lava alarm notable verify jeans drip ranch random";
+var mnemonic = "churn impact wrist start reveal vessel planet item festival involve green type";
