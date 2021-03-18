@@ -1,1 +1,1 @@
-var mnemonic = "approve egg worry erosion lunar phone marble orbit can alone search hat";
+var mnemonic = "daring galaxy panda measure vintage timber ill utility spirit plate seven power";

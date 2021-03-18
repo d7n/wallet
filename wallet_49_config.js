@@ -1,1 +1,1 @@
-var mnemonic = "motion runway force burden traffic elephant crush morning depend snake biology tribe";
+var mnemonic = "repeat park total decide orphan people armed topic ritual rack item isolate";

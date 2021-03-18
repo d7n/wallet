@@ -1,1 +1,1 @@
-var mnemonic = "scrub sugar give shrimp spend resemble faith ankle pigeon hip dress smooth";
+var mnemonic = "edit trouble liar edge alert express dirt era deal race abstract exchange";

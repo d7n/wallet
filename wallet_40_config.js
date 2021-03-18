@@ -1,1 +1,1 @@
-var mnemonic = "lottery brush bullet town magnet search million drive advice now mass idle";
+var mnemonic = "pet purse chalk evoke pause swim dizzy hunt party problem swift music";

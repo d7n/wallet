@@ -1,1 +1,1 @@
-var mnemonic = "escape tower wink virtual artwork frog neither slide differ idle slow interest";
+var mnemonic = "next yard damage chief tube three such penalty taxi vault boil icon";

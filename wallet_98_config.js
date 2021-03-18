@@ -1,1 +1,1 @@
-var mnemonic = "hair toddler play inflict merge hobby because race duty exchange supply rabbit";
+var mnemonic = "unfold witness wrap parrot orphan suggest pool only prosper meadow proof wild";

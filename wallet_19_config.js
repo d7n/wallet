@@ -1,1 +1,1 @@
-var mnemonic = "hurt menu legal jelly carpet system knock anchor level argue shed inmate";
+var mnemonic = "margin output quote insane nerve casino wasp hole grit three clarify correct";

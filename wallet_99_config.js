@@ -1,1 +1,1 @@
-var mnemonic = "slim limit cheap garment deposit foil very life network steak peanut correct";
+var mnemonic = "require diary illegal hill best three mom try orient attend lens fortune";

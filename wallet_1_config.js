@@ -1,1 +1,1 @@
-var mnemonic = "enable any also rebuild omit bench stool dignity alert moral virtual portion";
+var mnemonic = "surprise actor truly method ghost company deal pill disease tired injury cattle";

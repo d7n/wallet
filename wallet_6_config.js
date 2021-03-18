@@ -1,1 +1,1 @@
-var mnemonic = "merit cycle main fantasy rhythm indoor cherry knife hidden slide focus skull";
+var mnemonic = "purpose common spoon bring course museum bundle armed announce zone involve uncle";

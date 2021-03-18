@@ -1,1 +1,1 @@
-var mnemonic = "unusual glove tent erosion remove pitch wrist permit coin dutch device asthma";
+var mnemonic = "valid crowd flag kid public urge clarify genre angle prevent baby brush";

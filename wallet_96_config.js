@@ -1,1 +1,1 @@
-var mnemonic = "kingdom nuclear fox route black access planet follow carry peasant case tattoo";
+var mnemonic = "mesh super crouch auto law usual mule foil neutral olive drastic pony";

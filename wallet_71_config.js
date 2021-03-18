@@ -1,1 +1,1 @@
-var mnemonic = "almost glimpse cradle exclude judge lake range heavy season assault sun dinner";
+var mnemonic = "loyal donkey lyrics order problem wrap axis baby swarm airport found wet";

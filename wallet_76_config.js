@@ -1,1 +1,1 @@
-var mnemonic = "energy cotton cupboard pistol despair humor bamboo law ketchup urban start defense";
+var mnemonic = "rely weather bid curve slight title monitor combine mixed catch distance flush";

@@ -1,1 +1,1 @@
-var mnemonic = "strike pass window tilt prison random wash steel sound child problem census";
+var mnemonic = "life guide general symbol border ginger valid equip movie thunder interest glimpse";

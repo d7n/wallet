@@ -1,1 +1,1 @@
-var mnemonic = "service panther city secret desert omit leaf chaos hunt rich object tongue";
+var mnemonic = "lizard pipe recycle admit remind deal gesture empty love either funny enable";

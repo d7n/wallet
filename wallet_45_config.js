@@ -1,1 +1,1 @@
-var mnemonic = "fancy culture vintage correct glove fame grass income offer forum height trade";
+var mnemonic = "glue aspect grab vivid robust curious balcony forget regret apology desert mango";

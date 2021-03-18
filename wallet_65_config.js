@@ -1,1 +1,1 @@
-var mnemonic = "pill shoulder hurdle margin axis castle much speed flat ecology innocent duck";
+var mnemonic = "exist scale frost tiger cheap all basic battle essence repair question mirror";

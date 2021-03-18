@@ -1,1 +1,1 @@
-var mnemonic = "aim later slide easily belt misery abuse swamp cloth long into announce";
+var mnemonic = "outside between crumble pool noise parrot attack fall quantum setup chronic lion";

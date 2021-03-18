@@ -1,1 +1,1 @@
-var mnemonic = "place margin oblige where valid rose shallow practice fury target choice wear";
+var mnemonic = "brick woman rent solar eight second uniform dice base seven drama very";

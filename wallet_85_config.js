@@ -1,1 +1,1 @@
-var mnemonic = "wing basic humble convince rookie sentence economy spread reduce host man salute";
+var mnemonic = "rubber dove around trap similar boil lens loop dismiss film rack piece";

@@ -1,1 +1,1 @@
-var mnemonic = "wear increase maximum hint tomato become web throw safe moral must middle";
+var mnemonic = "learn picture useless never fortune climb adjust sting purse reunion tortoise road";

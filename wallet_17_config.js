@@ -1,1 +1,1 @@
-var mnemonic = "pulse boost express flee unveil forget power pigeon bridge panda sample tribe";
+var mnemonic = "tomorrow blue boss deposit demand route uncle cat endorse public forget unveil";

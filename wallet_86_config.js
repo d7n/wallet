@@ -1,1 +1,1 @@
-var mnemonic = "body secret secret such disorder theme solid source cat guard circle assault";
+var mnemonic = "afraid demise wife regular purchase ritual sphere zoo sibling fiction recall sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond quick punch maid option clarify acid text century spider come payment";
+var mnemonic = "antenna burden twist thumb acid armed notice faculty seat butter any hungry";

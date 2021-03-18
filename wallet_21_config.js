@@ -1,1 +1,1 @@
-var mnemonic = "term cheese skirt core wisdom special catch vital hint poverty radar few";
+var mnemonic = "alert team spray pact actual okay gorilla venue blue soft oven slim";

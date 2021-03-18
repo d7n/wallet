@@ -1,1 +1,1 @@
-var mnemonic = "unknown orbit wasp arch water chicken sister lottery enhance increase devote suggest";
+var mnemonic = "tongue visa churn hungry happy beach outside smooth quality injury depend neglect";

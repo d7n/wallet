@@ -1,1 +1,1 @@
-var mnemonic = "gauge glance increase clinic remain poet kangaroo host foster category sick apology";
+var mnemonic = "budget manual dove script gun furnace abstract flight nose page silent better";

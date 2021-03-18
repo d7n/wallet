@@ -1,1 +1,1 @@
-var mnemonic = "copper wine reward bullet view enhance success clerk ramp rose pause pair";
+var mnemonic = "minimum renew spare manage skill winner soldier sheriff smart hidden twist enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "lady top first wild write enlist cup genius city sadness biology oppose";
+var mnemonic = "phone lobster bundle trophy history fun aunt shock chef vault comic lava";

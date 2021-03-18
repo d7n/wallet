@@ -1,1 +1,1 @@
-var mnemonic = "fever upset wrist autumn rotate hybrid tool embark jungle crawl fancy daring";
+var mnemonic = "flat monkey fuel coast depart ramp edit bike mask cloth stereo joy";

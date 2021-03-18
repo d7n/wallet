@@ -1,1 +1,1 @@
-var mnemonic = "book vibrant quick despair sheriff life extra equal pitch police frog arena";
+var mnemonic = "mad assault clog crowd bronze update depend uniform usual satoshi lawsuit habit";

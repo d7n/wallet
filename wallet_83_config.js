@@ -1,1 +1,1 @@
-var mnemonic = "game twice wood bubble brown horse exit glimpse exile sponsor develop account";
+var mnemonic = "raven coffee super basic couple copper expand receive unit void word lawn";

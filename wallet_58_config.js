@@ -1,1 +1,1 @@
-var mnemonic = "glue surprise black enjoy flush swamp beach draft divide era catalog result";
+var mnemonic = "option decade shaft gain account afraid merry year question vast staff human";

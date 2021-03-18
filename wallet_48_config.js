@@ -1,1 +1,1 @@
-var mnemonic = "update permit laugh repeat grief knife scrub inhale six pause sound join";
+var mnemonic = "traffic cigar leopard regret dolphin child lecture ability cycle zebra reflect transfer";

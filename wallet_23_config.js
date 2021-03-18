@@ -1,1 +1,1 @@
-var mnemonic = "iron another require banana bridge tube onion price vendor vanish canoe caught";
+var mnemonic = "state tuna race midnight prefer axis obvious winter deny skin unknown gloom";

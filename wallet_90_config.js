@@ -1,1 +1,1 @@
-var mnemonic = "essay soul dizzy swing multiply blind melt next exile speak satisfy brain";
+var mnemonic = "chuckle amount ladder fall track student nest youth quality person session knee";

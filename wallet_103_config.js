@@ -1,1 +1,1 @@
-var mnemonic = "surround gown stuff best farm denial hybrid disagree hammer result mule siege";
+var mnemonic = "fox lizard comfort radio width sleep stock other believe arrest save wait";

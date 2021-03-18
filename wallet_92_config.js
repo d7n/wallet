@@ -1,1 +1,1 @@
-var mnemonic = "success borrow odor divide attack enjoy donkey feed unique route level cry";
+var mnemonic = "master arrange near pretty medal section horn claw hard crawl worry one";

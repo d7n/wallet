@@ -1,1 +1,1 @@
-var mnemonic = "alley belt race adjust forget diet unable sign spice sea nature sort";
+var mnemonic = "barely spice clutch grass wrestle question cheap quick shock sad bullet weird";

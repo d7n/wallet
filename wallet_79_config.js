@@ -1,1 +1,1 @@
-var mnemonic = "edit space weekend ceiling soap kick place absurd oxygen undo height network";
+var mnemonic = "purpose calm ocean jelly purpose weasel hurdle business doctor lyrics garlic buyer";

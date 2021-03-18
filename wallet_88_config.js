@@ -1,1 +1,1 @@
-var mnemonic = "artist best smooth jewel text valid loop key color dutch noise yellow";
+var mnemonic = "exist solar idle few amount jewel slam damage same hold ask exercise";

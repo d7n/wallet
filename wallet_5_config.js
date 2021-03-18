@@ -1,1 +1,1 @@
-var mnemonic = "nominee genre genuine auction always indicate decide sick inform muscle bind ghost";
+var mnemonic = "empty labor foil gun spoon ignore material ready clerk mom special throw";

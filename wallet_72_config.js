@@ -1,1 +1,1 @@
-var mnemonic = "useful mushroom kingdom bone leave laugh electric fox zoo antique rural bike";
+var mnemonic = "now nation banana annual speed fade bottom bulk inject crew copy over";

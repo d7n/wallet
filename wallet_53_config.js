@@ -1,1 +1,1 @@
-var mnemonic = "exhaust gasp stove olive relief slice bracket skate antique around hockey crystal";
+var mnemonic = "dress like cheese elevator hint obvious weasel jar life census allow scout";

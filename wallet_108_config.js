@@ -1,1 +1,1 @@
-var mnemonic = "fruit horror unique bird grape problem crush hundred decline simple come toast";
+var mnemonic = "embrace dice demand expect junior cabbage cover grass sight rubber surge country";

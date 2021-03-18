@@ -1,1 +1,1 @@
-var mnemonic = "core business people process guitar away orient loyal tiger engine kid nasty";
+var mnemonic = "shove hollow drink senior plug result trick lazy nest case dune inquiry";

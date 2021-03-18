@@ -1,1 +1,1 @@
-var mnemonic = "twist wreck among risk little pink bundle bitter vault sphere tone eagle";
+var mnemonic = "amateur cement diamond deer sausage attract believe lion parade anger door oil";

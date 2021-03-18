@@ -1,1 +1,1 @@
-var mnemonic = "armed vibrant direct random indoor tower viable baby hub horror garlic spirit";
+var mnemonic = "road romance boost cement famous claim always patient void minor special inflict";

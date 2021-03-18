@@ -1,1 +1,1 @@
-var mnemonic = "shell voyage ensure hole deputy machine slot relax deposit network water before";
+var mnemonic = "exercise ride shrimp ginger hamster rack fossil stem cream mention derive venture";

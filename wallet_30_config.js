@@ -1,1 +1,1 @@
-var mnemonic = "sound misery tape trend give fun trade hedgehog thunder burger comic silver";
+var mnemonic = "bike minute copy narrow vacant treat input occur popular cement valid easy";

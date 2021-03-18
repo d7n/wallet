@@ -1,1 +1,1 @@
-var mnemonic = "blast horror next afraid cat rough purse fragile base music reward word";
+var mnemonic = "wisdom paddle silk muffin seat candy sick reflect car lizard auction system";

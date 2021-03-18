@@ -1,1 +1,1 @@
-var mnemonic = "local lady defy joke cabbage chalk sweet keen high menu employ license";
+var mnemonic = "limb useless please brief silk squirrel acoustic blade garage deputy office rebuild";

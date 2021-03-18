@@ -1,1 +1,1 @@
-var mnemonic = "vault category uniform small birth proud tragic afford twenty mix bag axis";
+var mnemonic = "fall step canal author hawk speed gather cream avoid garlic endorse acid";

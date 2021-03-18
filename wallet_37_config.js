@@ -1,1 +1,1 @@
-var mnemonic = "inmate sunny slogan claw tenant million vocal wheel cloud tuna other bean";
+var mnemonic = "approve supply choice tooth same bench duty floor truly tip guide alpha";

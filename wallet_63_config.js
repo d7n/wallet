@@ -1,1 +1,1 @@
-var mnemonic = "silly enough abstract sausage doll valid vault crush famous dash drip grain";
+var mnemonic = "supreme course again room human token brush ticket barrel latin abandon smooth";

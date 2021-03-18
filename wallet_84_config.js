@@ -1,1 +1,1 @@
-var mnemonic = "oval penalty kiwi orchard helmet soul change bubble pipe art tray behave";
+var mnemonic = "tip pilot mixed fat draft spike genius couch normal share whisper beauty";

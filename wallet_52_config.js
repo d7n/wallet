@@ -1,1 +1,1 @@
-var mnemonic = "liquid draw gravity garage warm core phone spin hard front maze then";
+var mnemonic = "mango heart admit cannon unlock caution private basic denial guide axis field";

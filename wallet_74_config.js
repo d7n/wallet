@@ -1,1 +1,1 @@
-var mnemonic = "erosion brick country fitness grit finger when eye clump renew ignore lounge";
+var mnemonic = "skull salad spice switch enjoy walk life garlic near sport short crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "circle hungry accuse topic negative wedding olive vote text mercy grain glory";
+var mnemonic = "style code account cage nominee audit luggage nominee person foster message avoid";

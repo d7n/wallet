@@ -1,1 +1,1 @@
-var mnemonic = "series daring broken shove space dress buzz impulse strategy remove jelly genuine";
+var mnemonic = "grunt despair quote reason age device sport abuse embody blood firm track";

@@ -1,1 +1,1 @@
-var mnemonic = "improve occur tourist slow crazy fame share like gesture hungry rebuild skull";
+var mnemonic = "crane buddy obscure loop razor cricket prefer laugh absurd hen arm anchor";

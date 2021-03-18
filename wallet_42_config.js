@@ -1,1 +1,1 @@
-var mnemonic = "make dutch rug column float dignity scissors exile flower fox focus acid";
+var mnemonic = "verify oppose outer artefact decorate wealth century home spatial air cupboard guilt";

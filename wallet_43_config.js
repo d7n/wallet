@@ -1,1 +1,1 @@
-var mnemonic = "fun define script author hill pull blouse salmon sword nut knock beyond";
+var mnemonic = "salmon quiz prefer vast fever image warrior shock swim butter tomato clip";

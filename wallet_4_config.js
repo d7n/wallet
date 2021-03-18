@@ -1,1 +1,1 @@
-var mnemonic = "lion mad mix fatigue fluid million swift typical road taxi era tide";
+var mnemonic = "curtain merit visa edge muscle supreme dream radar episode above divide bring";

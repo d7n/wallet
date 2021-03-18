@@ -1,1 +1,1 @@
-var mnemonic = "blur bright bright ecology always animal hand excess arrive salute birth farm";
+var mnemonic = "close correct exile rack item bottom clump fall type spike power bonus";

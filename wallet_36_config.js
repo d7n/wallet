@@ -1,1 +1,1 @@
-var mnemonic = "burden pepper axis gloom misery learn eight menu head erosion amateur toy";
+var mnemonic = "enrich napkin candy roast cycle another select select nurse amount shadow cradle";

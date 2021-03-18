@@ -1,1 +1,1 @@
-var mnemonic = "flame nominee mechanic sail inherit regular moon slim era keep hint mandate";
+var mnemonic = "foot punch extra warrior million vanish angry cattle agent quantum father obscure";

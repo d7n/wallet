@@ -1,1 +1,1 @@
-var mnemonic = "ring appear chaos build orient cliff theme tooth cart family rib salute";
+var mnemonic = "slot proud excite useful fence solve obey six luggage knock unfold cry";

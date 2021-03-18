@@ -1,1 +1,1 @@
-var mnemonic = "spoil garden only sunset tissue crane one stem whip suit clump cube";
+var mnemonic = "cattle aisle soda science shy cover jungle double civil smooth party south";

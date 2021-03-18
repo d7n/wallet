@@ -1,1 +1,1 @@
-var mnemonic = "chuckle equal civil carry true jewel six legal appear tonight oblige sadness";
+var mnemonic = "chalk bracket negative detail shop inspire sphere giggle faculty entry area food";

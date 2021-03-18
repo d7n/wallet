@@ -1,1 +1,1 @@
-var mnemonic = "bike long ancient liar daughter stock sting satisfy joy salute prison average";
+var mnemonic = "prepare hill nation alarm glow fish huge unlock real uncle pond inside";

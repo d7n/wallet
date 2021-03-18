@@ -1,1 +1,1 @@
-var mnemonic = "adjust tourist obscure glass mad sibling mom body excite region left lecture";
+var mnemonic = "sting ceiling token bottom blur burger youth riot borrow enrich aisle grit";

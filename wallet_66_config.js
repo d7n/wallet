@@ -1,1 +1,1 @@
-var mnemonic = "essence adapt pass never lunch army city little enlist subject supply inject";
+var mnemonic = "matrix movie arrive before misery crisp gain much dress print december fish";

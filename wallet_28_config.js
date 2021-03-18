@@ -1,1 +1,1 @@
-var mnemonic = "breeze primary twist insect sunny amazing barely answer eagle razor loop citizen";
+var mnemonic = "board dinner chat claim present donor sound move memory better media trumpet";

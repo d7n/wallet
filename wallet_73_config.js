@@ -1,1 +1,1 @@
-var mnemonic = "scissors short tired gap brown pelican frown security claim once palace jar";
+var mnemonic = "cave vote essay swear either pluck antenna lend velvet umbrella shoe pelican";

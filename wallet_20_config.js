@@ -1,1 +1,1 @@
-var mnemonic = "slice very power since tip horror pink reason unveil document model grit";
+var mnemonic = "note scrub sauce inmate bless surround search around inform gesture kiwi grab";

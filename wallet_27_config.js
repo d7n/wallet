@@ -1,1 +1,1 @@
-var mnemonic = "gym soldier average satisfy tomato picnic forward kite noise explain excite silk";
+var mnemonic = "gloom cream clown defense grief very atom buddy web pull fee claw";

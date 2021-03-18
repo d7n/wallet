@@ -1,1 +1,1 @@
-var mnemonic = "nerve fee praise grief keen casual detail also notice list fetch left";
+var mnemonic = "tumble wink caught wife flat raven empower gaze grace champion machine baby";

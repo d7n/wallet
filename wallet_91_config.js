@@ -1,1 +1,1 @@
-var mnemonic = "fancy pill desert science follow critic nose resource motion end remove earn";
+var mnemonic = "enhance casual warm quarter simple moment wave knife render sugar host guide";

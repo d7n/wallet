@@ -1,1 +1,1 @@
-var mnemonic = "check snow loyal combine moon attend august program early certain armed current";
+var mnemonic = "wash eye panther food battle zoo real trend ramp mountain funny rescue";

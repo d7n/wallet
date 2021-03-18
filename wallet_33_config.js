@@ -1,1 +1,1 @@
-var mnemonic = "tone envelope loop draw cost unable mad health absurd economy course today";
+var mnemonic = "pledge fiber rival gentle chronic twelve spawn laugh clean select gather gift";

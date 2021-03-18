@@ -1,1 +1,1 @@
-var mnemonic = "mesh disease enact banner wall civil modify blast device focus muffin glue";
+var mnemonic = "intact invite royal figure fire sing way barrel update cat lazy cruel";

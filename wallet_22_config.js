@@ -1,1 +1,1 @@
-var mnemonic = "clean hour gossip bicycle rebel easily enforce always notice unit flush program";
+var mnemonic = "huge agree assist blind notable uniform escape east velvet later much this";

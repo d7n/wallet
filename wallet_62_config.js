@@ -1,1 +1,1 @@
-var mnemonic = "tone skull kick shy jewel clerk oyster snap fringe abandon climb velvet";
+var mnemonic = "creek pull myself minute tiger vivid immune utility mercy want move describe";

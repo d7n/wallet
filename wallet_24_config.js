@@ -1,1 +1,1 @@
-var mnemonic = "inject company wise merge portion long run lucky suffer sweet behind salon";
+var mnemonic = "toy later cart vendor retire mixture inject admit rude illegal layer soon";

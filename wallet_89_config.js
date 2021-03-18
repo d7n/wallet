@@ -1,1 +1,1 @@
-var mnemonic = "more indoor wild gesture apart obtain code south alert chef blind message";
+var mnemonic = "movie miracle execute account soap armor artist adjust scatter monitor come scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "wine dentist travel panda arrow spray hub unveil under cost wealth fever";
+var mnemonic = "kitten parrot master orbit strong morning item bean general win love thought";

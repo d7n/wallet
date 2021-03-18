@@ -1,1 +1,1 @@
-var mnemonic = "cheap true antenna luxury black dismiss stock throw dumb quantum ahead decade";
+var mnemonic = "often gadget mercy grid demand city moral simple pulse clog phone surround";

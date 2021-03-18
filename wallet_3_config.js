@@ -1,1 +1,1 @@
-var mnemonic = "since napkin throw squeeze fresh toward rose believe link stem behind ride";
+var mnemonic = "write food region keen grant keep shed motor napkin salad crumble sorry";

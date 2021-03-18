@@ -1,1 +1,1 @@
-var mnemonic = "grain over swamp slogan patch sand craft trick reward road another flat";
+var mnemonic = "clerk switch uphold bacon board bag hobby invite poet report october category";

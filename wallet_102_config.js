@@ -1,1 +1,1 @@
-var mnemonic = "vibrant ankle way runway tag kid vague below install relief coyote wear";
+var mnemonic = "helmet program pill antenna enroll mechanic rail uncle banner stereo matrix execute";
