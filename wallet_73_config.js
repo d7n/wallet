@@ -1,1 +1,1 @@
-var mnemonic = "bachelor jelly meat chaos trend fault shoot attack guard fold nest legend";
+var mnemonic = "utility inside duty ribbon cup receive bubble sadness scene focus tired settle";

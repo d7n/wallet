@@ -1,1 +1,1 @@
-var mnemonic = "vital source piece move fiber deliver wide kid cost adult innocent music";
+var mnemonic = "charge sugar huge trade sweet photo entry tattoo popular shrimp actor rotate";

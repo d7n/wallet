@@ -1,1 +1,1 @@
-var mnemonic = "exotic language proof blind shadow scheme lend festival crystal blush agent pelican";
+var mnemonic = "eternal leisure flame theory rabbit major jealous unveil sunset inherit metal local";

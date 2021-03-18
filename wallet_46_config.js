@@ -1,1 +1,1 @@
-var mnemonic = "dream oven raccoon custom device steel recall one appear caught again easy";
+var mnemonic = "two uncle remain this arena actor dwarf ready wage remember steel add";

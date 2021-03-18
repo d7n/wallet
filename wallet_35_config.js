@@ -1,1 +1,1 @@
-var mnemonic = "pride reduce emerge prefer swift cement baby cheap proud blade model fitness";
+var mnemonic = "split conduct practice insect fence crush rule start ignore innocent lift then";

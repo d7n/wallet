@@ -1,1 +1,1 @@
-var mnemonic = "boost sense few ghost dinner sense vast prison divide olympic tent either";
+var mnemonic = "stable stamp duty rice domain immense rubber drama bitter leopard pilot three";

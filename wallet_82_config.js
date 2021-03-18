@@ -1,1 +1,1 @@
-var mnemonic = "banana disagree primary urge antenna teach topic giant world liquid hammer drink";
+var mnemonic = "side oval measure daring bachelor garden urban noise trial piece guitar inch";

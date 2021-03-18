@@ -1,1 +1,1 @@
-var mnemonic = "muscle giraffe cave wing fat fruit absorb stock notice decrease stumble depend";
+var mnemonic = "zero hospital resource catch virus real model dawn vibrant urban inspire mirror";

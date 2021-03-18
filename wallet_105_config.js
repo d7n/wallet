@@ -1,1 +1,1 @@
-var mnemonic = "prison lawsuit wisdom lumber digital awake sauce aisle obvious renew lens hire";
+var mnemonic = "puppy knock because jaguar airport much odor license income tuition return first";

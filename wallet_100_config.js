@@ -1,1 +1,1 @@
-var mnemonic = "sniff grocery transfer cream remember vacuum essay cloth ignore loan urge outside";
+var mnemonic = "force knife gravity review add cheap tell convince rent planet pony syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "critic code shine need kitten pond taste ten gain bind record lemon";
+var mnemonic = "idle foster busy cheese anger square speak permit leg furnace angry fine";

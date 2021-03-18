@@ -1,1 +1,1 @@
-var mnemonic = "discover walnut truth select type boil nominee absent guess original armed thumb";
+var mnemonic = "surprise correct doll motor charge unfold program orchard describe thunder panic demise";

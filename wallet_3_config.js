@@ -1,1 +1,1 @@
-var mnemonic = "warm arrange sugar federal coffee shove pride throw trigger wall summer whisper";
+var mnemonic = "else identify among steak actress second example grant angle way acid world";

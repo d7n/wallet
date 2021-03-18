@@ -1,1 +1,1 @@
-var mnemonic = "damp film like quiz tool favorite supreme indoor maze father sign cat";
+var mnemonic = "wash lion token plate ensure vanish shove alcohol wrestle kite know paddle";

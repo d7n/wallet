@@ -1,1 +1,1 @@
-var mnemonic = "museum trip news forget switch sight execute crouch mouse sunny claim deliver";
+var mnemonic = "mouse force deputy gorilla boat fury humble ahead toddler bachelor tunnel magnet";

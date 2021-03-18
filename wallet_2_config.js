@@ -1,1 +1,1 @@
-var mnemonic = "reveal vapor hole crunch radio favorite donor liquid album want length whale";
+var mnemonic = "acquire soccer genius ritual review best local harbor prosper renew tackle worth";

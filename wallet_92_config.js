@@ -1,1 +1,1 @@
-var mnemonic = "awesome pluck primary symbol salute fury apart dish evolve cheap extra allow";
+var mnemonic = "auction south boring target mercy clinic one curve address margin auto pulse";

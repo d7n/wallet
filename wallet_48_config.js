@@ -1,1 +1,1 @@
-var mnemonic = "flag first holiday reunion want inflict invite labor design model give wrestle";
+var mnemonic = "unable park venture endorse egg green problem earn apple sausage pen account";

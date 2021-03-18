@@ -1,1 +1,1 @@
-var mnemonic = "sure captain rescue mother village general smile toe give industry wolf moral";
+var mnemonic = "model two deputy domain evidence dawn phone other spring echo rather rocket";

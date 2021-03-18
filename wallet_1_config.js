@@ -1,1 +1,1 @@
-var mnemonic = "talk forest stamp lab collect twelve amused salute purpose only dinner space";
+var mnemonic = "actor program double all another rebuild toward hero vast pony captain master";

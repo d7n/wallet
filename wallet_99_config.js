@@ -1,1 +1,1 @@
-var mnemonic = "reject acid antenna cube always border unfair silver off girl moral upset";
+var mnemonic = "flee cluster rate hero assault edge domain misery curious unfold produce aware";

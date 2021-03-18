@@ -1,1 +1,1 @@
-var mnemonic = "angry virtual pause solution consider blush claw vacant permit gadget sun client";
+var mnemonic = "bean about fruit imitate forget setup sauce upon pelican oil umbrella shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "fit try museum wrestle marriage robust heart hungry citizen twice betray alert";
+var mnemonic = "people unaware scout regret test father glimpse public anchor slam certain pretty";

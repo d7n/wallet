@@ -1,1 +1,1 @@
-var mnemonic = "ticket ball improve boat monitor pilot near coil educate squeeze traffic stairs";
+var mnemonic = "bid icon pudding pelican divert elevator nice pitch hawk scene garlic alley";

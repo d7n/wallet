@@ -1,1 +1,1 @@
-var mnemonic = "seek humor original demand carpet top curious extend flavor voyage catalog pen";
+var mnemonic = "until detail letter reduce bicycle public one quality rate client frame embark";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary couple wife promote tone lawsuit stand purse anger make casual enlist";
+var mnemonic = "evidence bicycle reform amount repair hedgehog emerge found expire trim own clock";

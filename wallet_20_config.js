@@ -1,1 +1,1 @@
-var mnemonic = "jar stamp primary common fiber chief stomach energy still rural shock detail";
+var mnemonic = "trigger tunnel few company mountain wrong during trust obvious repair horror bullet";

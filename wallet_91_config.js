@@ -1,1 +1,1 @@
-var mnemonic = "thunder news find minimum ridge apology portion couple still nice lunar screen";
+var mnemonic = "suggest cluster draft spring bargain umbrella father pattern behind life spirit input";

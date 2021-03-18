@@ -1,1 +1,1 @@
-var mnemonic = "prize narrow absorb van access bike modify banner dignity speed grocery immune";
+var mnemonic = "another route cattle science wood fix mail comic lab pottery nation fiction";

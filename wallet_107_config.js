@@ -1,1 +1,1 @@
-var mnemonic = "change science hurry patrol primary upgrade welcome mimic punch hospital roof dinosaur";
+var mnemonic = "say weird peanut hire design result opera kite remind abandon music hub";

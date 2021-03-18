@@ -1,1 +1,1 @@
-var mnemonic = "brush foil matrix they mouse ankle north toss enough name kiss olive";
+var mnemonic = "copper reward oxygen dry sword trophy feature culture ten worth village burger";

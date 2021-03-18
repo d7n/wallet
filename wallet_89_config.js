@@ -1,1 +1,1 @@
-var mnemonic = "oblige wall grocery rough lens guard speak prize aware town forum laugh";
+var mnemonic = "dignity better heart found puzzle police fury match bundle broken ketchup plunge";

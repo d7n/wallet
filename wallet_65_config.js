@@ -1,1 +1,1 @@
-var mnemonic = "soap crystal release envelope spatial extend arm waste fever movie side opinion";
+var mnemonic = "rabbit stand mandate diary erase cruise toast donkey puzzle meadow mean panic";

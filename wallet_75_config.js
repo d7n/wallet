@@ -1,1 +1,1 @@
-var mnemonic = "own clay robot verify amazing hunt future survey scissors waste client normal";
+var mnemonic = "inhale section crew decide connect canal dress kite receive crawl census loud";

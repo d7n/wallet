@@ -1,1 +1,1 @@
-var mnemonic = "latin lift firm oxygen base idle brush ozone detect narrow pond judge";
+var mnemonic = "giant install shop absurd network summer weekend doll rescue rude easily truth";

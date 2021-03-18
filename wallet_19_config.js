@@ -1,1 +1,1 @@
-var mnemonic = "stick secret practice winner trophy civil faint figure buffalo uncle unfair pudding";
+var mnemonic = "public sense comfort note glide message you squirrel isolate okay lobster join";

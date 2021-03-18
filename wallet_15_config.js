@@ -1,1 +1,1 @@
-var mnemonic = "turtle bag wool book virus dish critic sense dutch motion salon fuel";
+var mnemonic = "kitten family tornado blanket carpet special dune shoot sail analyst supply lady";

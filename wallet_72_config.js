@@ -1,1 +1,1 @@
-var mnemonic = "multiply fuel scissors area black safe mask weekend blast silk thank six";
+var mnemonic = "try level train piano bird claw critic memory strike stage stone taxi";

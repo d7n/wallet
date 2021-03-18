@@ -1,1 +1,1 @@
-var mnemonic = "taxi defy task jaguar jewel interest buffalo answer hat asset word artist";
+var mnemonic = "dolphin focus barely then inch forum buffalo north range envelope sibling laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "risk ridge clever hockey pumpkin ship organ clinic away person spend spin";
+var mnemonic = "culture replace biology decorate quarter rare finish chalk vapor faint harvest ghost";

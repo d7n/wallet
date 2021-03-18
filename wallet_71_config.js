@@ -1,1 +1,1 @@
-var mnemonic = "salt smoke mother fork noise color cluster noble logic crash taste famous";
+var mnemonic = "thunder adjust kick code rude sun forward sauce faint hat unfold prevent";

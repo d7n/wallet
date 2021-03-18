@@ -1,1 +1,1 @@
-var mnemonic = "estate digital foot lucky artist coconut vehicle wait current release code chef";
+var mnemonic = "fence quick diagram ginger cupboard major purse math dance wing foil name";

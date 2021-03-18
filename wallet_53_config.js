@@ -1,1 +1,1 @@
-var mnemonic = "fat vacant absorb dragon eye clap lend sausage bar drive notice crash";
+var mnemonic = "response usage wish miracle athlete appear picture occur relief paddle exhibit music";

@@ -1,1 +1,1 @@
-var mnemonic = "common flavor method dice brick access audit cloud school box genre bike";
+var mnemonic = "mirror dune endorse endless maze during husband floor cherry assist border loan";

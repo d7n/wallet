@@ -1,1 +1,1 @@
-var mnemonic = "govern market swear camp shift note write public kitchen warm sunset track";
+var mnemonic = "jealous horn oxygen mouse depend sock rebel amused hedgehog paper ten best";

@@ -1,1 +1,1 @@
-var mnemonic = "mind army sweet envelope fat agent cruel above chalk boil equal risk";
+var mnemonic = "december lucky name later jelly have place flash result color girl predict";

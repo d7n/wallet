@@ -1,1 +1,1 @@
-var mnemonic = "elite pitch kind cake price derive garage table give talk video ankle";
+var mnemonic = "audit excite section gadget draw cigar banner beef soft harbor people switch";

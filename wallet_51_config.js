@@ -1,1 +1,1 @@
-var mnemonic = "mask thumb ring deer avoid what napkin ice uphold wire weapon discover";
+var mnemonic = "scout layer educate skin kite pattern barrel surge torch census entry what";

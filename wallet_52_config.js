@@ -1,1 +1,1 @@
-var mnemonic = "only program hundred sponsor venue point subject swing midnight reflect reform middle";
+var mnemonic = "dial whisper uncle valley social pluck gravity topic jealous escape stool invite";

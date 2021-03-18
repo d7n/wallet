@@ -1,1 +1,1 @@
-var mnemonic = "victory gorilla hip achieve cute athlete wisdom congress sister pen evidence enroll";
+var mnemonic = "broom man stay intact observe abuse cruise gorilla alter scan appear excite";

@@ -1,1 +1,1 @@
-var mnemonic = "device baby harbor mistake solid episode outdoor glass entry grief fox cousin";
+var mnemonic = "suit gate soda sphere away weather visit base snack alone call chuckle";

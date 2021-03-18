@@ -1,1 +1,1 @@
-var mnemonic = "ancient slight curious coil veteran until arrange raw evil donor midnight avoid";
+var mnemonic = "erupt island ghost regular across skull toward fluid ask draw involve dutch";

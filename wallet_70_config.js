@@ -1,1 +1,1 @@
-var mnemonic = "trap bronze amazing verify joy viable save force hurdle runway evoke trouble";
+var mnemonic = "range devote jungle advice adjust primary month excess horror thumb silent thing";

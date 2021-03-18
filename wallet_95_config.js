@@ -1,1 +1,1 @@
-var mnemonic = "cart snack hedgehog grunt abstract like guess unhappy fluid nut cute decide";
+var mnemonic = "blade hockey wise stuff thought unknown limb forget trumpet leave hat plug";

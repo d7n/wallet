@@ -1,1 +1,1 @@
-var mnemonic = "later lunch tribe brief anxiety enact detail nephew unable month sign object";
+var mnemonic = "van hour squirrel bronze nature vote siren skate abuse key disorder proof";

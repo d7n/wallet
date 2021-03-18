@@ -1,1 +1,1 @@
-var mnemonic = "video crush angle body pelican mix calm goddess gasp obtain random mechanic";
+var mnemonic = "predict harsh crane neck yellow congress moral since clog tobacco ladder vague";

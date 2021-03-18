@@ -1,1 +1,1 @@
-var mnemonic = "brother labor festival rack remember mechanic recipe satisfy surround enroll buyer daughter";
+var mnemonic = "loop promote hand want orchard indoor easy garden enact language web admit";

@@ -1,1 +1,1 @@
-var mnemonic = "earn decide soldier final mom relief cost motor next decade recycle youth";
+var mnemonic = "bottom always size casual joke enter visual sheriff hawk picnic country differ";

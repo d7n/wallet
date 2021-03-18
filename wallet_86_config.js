@@ -1,1 +1,1 @@
-var mnemonic = "true inmate spatial alone rug click yard defense inherit rude summer bone";
+var mnemonic = "enjoy local crazy release reason detail dirt notice october box bleak curious";

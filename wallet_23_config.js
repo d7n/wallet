@@ -1,1 +1,1 @@
-var mnemonic = "unique ugly issue glare butter help beef noodle can eight drink cash";
+var mnemonic = "pencil gather live episode culture february soon once lend fun bleak legal";

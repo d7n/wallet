@@ -1,1 +1,1 @@
-var mnemonic = "unit wage pottery bundle garment jealous sweet crane old naive robust elegant";
+var mnemonic = "gorilla sort panic valley tribe example glove glare recipe parent blast meadow";

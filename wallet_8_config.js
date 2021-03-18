@@ -1,1 +1,1 @@
-var mnemonic = "kind open upper climb sure snake artefact enrich play coffee grace direct";
+var mnemonic = "pond ivory radar public task remember ball scan hybrid update ill uncover";

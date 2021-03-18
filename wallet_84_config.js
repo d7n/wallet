@@ -1,1 +1,1 @@
-var mnemonic = "high despair rally tree tent aim fiscal swallow hope crash company hobby";
+var mnemonic = "pet segment attend sense afraid window load miss same target silly rapid";

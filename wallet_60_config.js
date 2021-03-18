@@ -1,1 +1,1 @@
-var mnemonic = "pepper lamp recycle lazy grief section edit cup bulk plastic know assist";
+var mnemonic = "century holiday shift walk sick fish age win stereo world song grocery";

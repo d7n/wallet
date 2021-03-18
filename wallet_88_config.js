@@ -1,1 +1,1 @@
-var mnemonic = "feed shadow scheme visual pizza margin mountain health foam club exist tired";
+var mnemonic = "turkey turn spawn deny faith face guilt alien best same solar tuition";

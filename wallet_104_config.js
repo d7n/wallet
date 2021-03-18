@@ -1,1 +1,1 @@
-var mnemonic = "ribbon blame else crop fade rescue food tent curious treat hungry demand";
+var mnemonic = "warrior invest elephant craft either parade squirrel rebuild then pistol kit endless";

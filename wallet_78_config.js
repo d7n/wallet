@@ -1,1 +1,1 @@
-var mnemonic = "midnight extend autumn warfare economy begin pass false office foot stairs faith";
+var mnemonic = "pilot belt aspect young danger rack isolate assist tattoo shadow cancel surprise";

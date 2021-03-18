@@ -1,1 +1,1 @@
-var mnemonic = "door expand urban mention pony dream virus chicken copy exercise ability increase";
+var mnemonic = "combine climb soup cigar govern name salute cost distance civil desert indoor";

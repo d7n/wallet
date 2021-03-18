@@ -1,1 +1,1 @@
-var mnemonic = "confirm jelly crouch night cat over quality field craft ketchup veteran enemy";
+var mnemonic = "spoil catch tiger palm joy actress body upon agree movie genuine enter";

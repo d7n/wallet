@@ -1,1 +1,1 @@
-var mnemonic = "shoe final mixed safe debris rally october galaxy evidence any cancel garlic";
+var mnemonic = "swear step behind sister merge run fox love point orphan clown cash";

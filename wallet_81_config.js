@@ -1,1 +1,1 @@
-var mnemonic = "rebel quality major load project cake island vocal trip sweet uniform grief";
+var mnemonic = "power craft always bag gloom reduce viable van lawn rice very mention";

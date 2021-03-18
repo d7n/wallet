@@ -1,1 +1,1 @@
-var mnemonic = "rough title nominee pistol praise tilt sweet adjust motion tobacco wolf spirit";
+var mnemonic = "table breeze mimic update random pyramid milk punch satoshi metal sense behind";

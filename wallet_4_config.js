@@ -1,1 +1,1 @@
-var mnemonic = "practice pact bracket breeze mechanic merit start embark base punch liar mosquito";
+var mnemonic = "cushion faint alert urge ladder judge alpha surface receive fix opinion street";

@@ -1,1 +1,1 @@
-var mnemonic = "light profit fury dress fatigue breeze scatter arena decorate glue oven laugh";
+var mnemonic = "entry candy staff february blast since afraid increase ugly found utility tray";

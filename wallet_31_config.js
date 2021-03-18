@@ -1,1 +1,1 @@
-var mnemonic = "mammal butter road leg high cluster into tomato injury demand protect beef";
+var mnemonic = "barely glass opinion reduce wall drift use betray stereo grief age fever";

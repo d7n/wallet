@@ -1,1 +1,1 @@
-var mnemonic = "bench carbon indoor bird finger pioneer south easy false travel sketch rice";
+var mnemonic = "wrist rocket fuel valid yard link crime decorate loan iron ribbon emerge";

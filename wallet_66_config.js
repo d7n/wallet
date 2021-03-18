@@ -1,1 +1,1 @@
-var mnemonic = "symptom treat identify spread gossip phrase all hair loud cage neglect oyster";
+var mnemonic = "liar purse depend minute reduce width know shrug panther enjoy banana biology";

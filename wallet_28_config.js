@@ -1,1 +1,1 @@
-var mnemonic = "kick hire canoe begin whale public there opinion million soda buyer solid";
+var mnemonic = "evidence enforce spend pave fatal vivid pass clap entry wrestle sea mercy";

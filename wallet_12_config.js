@@ -1,1 +1,1 @@
-var mnemonic = "slot render bleak capable elbow talent drink shoot stay bronze intact mass";
+var mnemonic = "tent worth more favorite parade shoot estate tragic execute diet melt solar";

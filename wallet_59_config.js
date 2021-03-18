@@ -1,1 +1,1 @@
-var mnemonic = "void novel hole witness school swift express old lady evolve cool bachelor";
+var mnemonic = "dash face cushion library reveal outdoor sniff spare arctic interest tenant rare";

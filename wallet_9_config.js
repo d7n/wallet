@@ -1,1 +1,1 @@
-var mnemonic = "utility situate shrimp initial deposit car aim little gallery cluster tiny expect";
+var mnemonic = "element cactus step noodle ride cute tunnel frog double claim hotel legend";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum debate spray tail river jar much boil siren exclude motor adult";
+var mnemonic = "inner note derive scrub box royal width pyramid garden since child fantasy";

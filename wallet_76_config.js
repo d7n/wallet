@@ -1,1 +1,1 @@
-var mnemonic = "oil bulk fetch brown rifle since habit meadow brown club glance cluster";
+var mnemonic = "idea celery fiscal mule evoke save sting reopen card husband riot find";

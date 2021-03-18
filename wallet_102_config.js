@@ -1,1 +1,1 @@
-var mnemonic = "dirt drastic decline forget idle tornado tent paddle unaware glance record bird";
+var mnemonic = "theme vacuum orange imitate marine order tree first alcohol valley when sell";

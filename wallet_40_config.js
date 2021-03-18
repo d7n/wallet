@@ -1,1 +1,1 @@
-var mnemonic = "pepper junk quarter federal trip custom suggest enforce stomach engage gauge proud";
+var mnemonic = "lock across series better reason suffer pole soul behind estate rebel above";

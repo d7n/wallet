@@ -1,1 +1,1 @@
-var mnemonic = "protect fringe consider fiscal swap unlock lemon floor find civil boat use";
+var mnemonic = "jewel camp swamp seek hurt release hope silver already screen orange distance";

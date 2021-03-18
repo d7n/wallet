@@ -1,1 +1,1 @@
-var mnemonic = "hotel bacon exercise casino advice immense gossip sister air banner save web";
+var mnemonic = "rely come orchard harbor dance lend monster wasp awkward crack check sad";

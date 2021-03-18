@@ -1,1 +1,1 @@
-var mnemonic = "lottery fault milk marine pass eye innocent waste burden mad mirror ivory";
+var mnemonic = "day extra clarify enlist local injury river until million license exhibit net";

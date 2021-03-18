@@ -1,1 +1,1 @@
-var mnemonic = "tackle joke video false trade village unaware annual pave wash gossip alarm";
+var mnemonic = "method ahead person crowd abstract find satisfy hour security ethics try neck";
