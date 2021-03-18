@@ -1,1 +1,1 @@
-var mnemonic = "gown lyrics about message butter fork rhythm camp year happy person wink";
+var mnemonic = "sand glass permit cake certain assume flight worry web source truck mystery";

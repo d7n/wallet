@@ -1,1 +1,1 @@
-var mnemonic = "sign danger machine crane asset trial record fox state inhale that remain";
+var mnemonic = "uncle way armor color bitter wheel broccoli lawsuit miracle common gather foster";

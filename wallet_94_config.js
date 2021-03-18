@@ -1,1 +1,1 @@
-var mnemonic = "scheme pencil later radio response demand outside calm mobile deer spend share";
+var mnemonic = "base man bar agent number gasp little lawsuit alien crouch consider task";

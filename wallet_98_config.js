@@ -1,1 +1,1 @@
-var mnemonic = "brain vapor waste already rookie galaxy honey train gun pond tomato laptop";
+var mnemonic = "empty inner organ borrow alone immense private afraid universe refuse cupboard peace";

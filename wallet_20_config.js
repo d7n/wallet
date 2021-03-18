@@ -1,1 +1,1 @@
-var mnemonic = "stamp foil actress tone suggest aunt erupt live attend bread sport today";
+var mnemonic = "lake undo core purpose velvet kingdom spend piano naive congress suffer avocado";

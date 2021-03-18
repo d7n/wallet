@@ -1,1 +1,1 @@
-var mnemonic = "fortune coach narrow walk gate stock lesson omit discover attitude farm duty";
+var mnemonic = "park apart write screen shrimp control tired practice decline anger allow calm";

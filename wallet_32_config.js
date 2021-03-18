@@ -1,1 +1,1 @@
-var mnemonic = "awesome smoke foil valve case leaf mask rent night vendor power gift";
+var mnemonic = "unfair candy develop federal oyster zone family route mixture cliff cactus daughter";

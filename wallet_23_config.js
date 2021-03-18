@@ -1,1 +1,1 @@
-var mnemonic = "autumn tongue impose today soccer bleak pool shock unlock athlete increase exact";
+var mnemonic = "crane stem elite prison right enlist like system boring first tobacco clarify";

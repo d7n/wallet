@@ -1,1 +1,1 @@
-var mnemonic = "cost tell book oxygen culture defy tennis profit certain course child glimpse";
+var mnemonic = "delay attend snack file evolve amateur blouse whisper input control salute tube";

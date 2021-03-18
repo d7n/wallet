@@ -1,1 +1,1 @@
-var mnemonic = "elbow whisper unlock myself index close rule legend limit pupil camp castle";
+var mnemonic = "vibrant quality chicken wisdom cotton sadness alcohol glad evil kind vague shock";

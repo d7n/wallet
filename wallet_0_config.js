@@ -1,1 +1,1 @@
-var mnemonic = "dance assume cram rug blame curtain hero drop disagree tray coyote run";
+var mnemonic = "sentence raise wait quick office recycle mobile warfare actor census bleak pool";

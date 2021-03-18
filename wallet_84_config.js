@@ -1,1 +1,1 @@
-var mnemonic = "doll wood fossil camera olive execute large dawn train biology gas whisper";
+var mnemonic = "crumble bomb slim thumb warrior omit kick torch secret lion magnet stereo";

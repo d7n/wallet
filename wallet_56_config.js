@@ -1,1 +1,1 @@
-var mnemonic = "glue pigeon treat toe sauce reform lobster census olympic estate mad unaware";
+var mnemonic = "lava wear anger mansion exotic camera awesome science tongue six advice finger";

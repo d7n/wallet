@@ -1,1 +1,1 @@
-var mnemonic = "stand must build quantum exhibit photo buffalo below swift income wet suggest";
+var mnemonic = "strike rent usual abuse yard sunny tail lens play leader fog stage";

@@ -1,1 +1,1 @@
-var mnemonic = "basic pottery color business track unit abandon bonus twice poet giraffe high";
+var mnemonic = "zero act quote bachelor gold fall sort ski night skirt again rigid";

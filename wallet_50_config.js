@@ -1,1 +1,1 @@
-var mnemonic = "phrase patrol gorilla stable seek olympic caution valve quick marriage outdoor phone";
+var mnemonic = "silent assault addict multiply love gun jump kingdom series tent genre turkey";

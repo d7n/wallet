@@ -1,1 +1,1 @@
-var mnemonic = "muffin record fresh clinic food elevator system document text umbrella example glory";
+var mnemonic = "prevent coffee hour head suggest asset fiscal theme crystal safe cricket razor";

@@ -1,1 +1,1 @@
-var mnemonic = "beach nasty trade blouse era lesson sound truth note motion when hotel";
+var mnemonic = "spoil purpose front shift oblige matrix nest trap cream range stem symptom";

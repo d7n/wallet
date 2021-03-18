@@ -1,1 +1,1 @@
-var mnemonic = "online tattoo peasant dumb evoke record embrace amused crazy verify stove shoe";
+var mnemonic = "document van one crowd crunch angry ten tape style insane expand live";

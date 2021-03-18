@@ -1,1 +1,1 @@
-var mnemonic = "obvious produce fold metal state coil custom begin begin quiz sheriff fence";
+var mnemonic = "receive cook decrease clever blur cloth girl high work fit copy solve";

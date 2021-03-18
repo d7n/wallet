@@ -1,1 +1,1 @@
-var mnemonic = "window fiscal hazard issue bacon armor spy vibrant naive shell appear fringe";
+var mnemonic = "shift decrease autumn culture permit become mirror kangaroo evoke dragon swarm perfect";

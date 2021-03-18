@@ -1,1 +1,1 @@
-var mnemonic = "stone inform catch carbon expire result fabric engine tumble one burger dance";
+var mnemonic = "token style prison sting keep spike educate fire awesome erode rapid invite";

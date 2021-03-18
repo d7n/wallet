@@ -1,1 +1,1 @@
-var mnemonic = "witness tree please plug pluck renew sister air task calm horse grow";
+var mnemonic = "teach hawk amateur cash into soda arrest arrange recycle turtle egg shoot";

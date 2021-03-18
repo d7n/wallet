@@ -1,1 +1,1 @@
-var mnemonic = "bag elite hazard fame price island embody spice hawk shell onion lonely";
+var mnemonic = "response below muffin mansion diagram casino foam fringe gauge equip mind satoshi";

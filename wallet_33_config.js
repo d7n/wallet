@@ -1,1 +1,1 @@
-var mnemonic = "second tiger earn human cook forward throw company screen basket case deposit";
+var mnemonic = "upper alter belt veteran basket rose emerge duck twin prefer danger guard";

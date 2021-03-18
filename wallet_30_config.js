@@ -1,1 +1,1 @@
-var mnemonic = "damage surge tuna job grow common move topple blush cash idle dolphin";
+var mnemonic = "tell visual spice arrest vocal penalty title mind vague illegal enroll clutch";

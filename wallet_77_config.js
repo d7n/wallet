@@ -1,1 +1,1 @@
-var mnemonic = "prefer insect grunt oxygen exhaust lava hair maze gallery theory shadow depend";
+var mnemonic = "path snap owner ask wisdom praise body giggle empower dash hockey energy";

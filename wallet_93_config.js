@@ -1,1 +1,1 @@
-var mnemonic = "bubble post melody salute success horror normal pen top where breeze siege";
+var mnemonic = "correct athlete tribe seat phone ignore method patient camp trumpet program negative";

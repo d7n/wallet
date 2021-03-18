@@ -1,1 +1,1 @@
-var mnemonic = "more card fault elbow vacuum step glad weasel exact live labor filter";
+var mnemonic = "two riot life unveil destroy limit lounge angry often all buzz episode";

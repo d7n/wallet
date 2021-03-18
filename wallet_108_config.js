@@ -1,1 +1,1 @@
-var mnemonic = "fog dress nerve credit switch pistol grow crystal permit tomorrow mix blush";
+var mnemonic = "coach drop crazy love cherry educate elephant fine essay disagree convince metal";

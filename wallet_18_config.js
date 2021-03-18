@@ -1,1 +1,1 @@
-var mnemonic = "doctor smooth pen portion seat endless prosper business fly cable street attitude";
+var mnemonic = "art other live also spell bronze entry video eye saddle apology way";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge flock key early novel assist logic glove naive reform rapid mixed";
+var mnemonic = "dawn dwarf bread senior dwarf view net skill attract matrix insane joy";

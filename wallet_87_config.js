@@ -1,1 +1,1 @@
-var mnemonic = "camp case travel forward raven robot wrestle deposit change ladder achieve chef";
+var mnemonic = "actor stick sight exclude year cram rebuild deputy cabbage onion hole stairs";

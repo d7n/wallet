@@ -1,1 +1,1 @@
-var mnemonic = "behind virus symptom someone knife trade crater thing umbrella pencil curve silly";
+var mnemonic = "supreme short valid flush rapid nose defy squirrel rack wing quarter famous";

@@ -1,1 +1,1 @@
-var mnemonic = "hover cable march height boat noise canvas arrive recipe barrel coil deputy";
+var mnemonic = "tomato position almost coin silver lonely wreck immense profit asthma bonus lab";

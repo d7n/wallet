@@ -1,1 +1,1 @@
-var mnemonic = "birth symbol deer rally average layer basic peasant unit tennis renew dignity";
+var mnemonic = "swift insect guess convince concert lesson tobacco garden road man lamp kit";

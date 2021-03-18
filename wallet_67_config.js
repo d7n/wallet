@@ -1,1 +1,1 @@
-var mnemonic = "reduce oak simple child nature bomb kitchen poem power primary refuse exotic";
+var mnemonic = "heavy session civil exclude lift solve six ski lecture intact torch era";

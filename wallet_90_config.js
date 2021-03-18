@@ -1,1 +1,1 @@
-var mnemonic = "security squirrel raise more quiz tooth turkey age mimic feel believe color";
+var mnemonic = "indoor idea install curve obtain oven tonight fitness trouble vague fan about";

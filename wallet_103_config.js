@@ -1,1 +1,1 @@
-var mnemonic = "couple egg reveal upon hat unveil scene cradle will powder collect intact";
+var mnemonic = "essay congress run ecology vendor aim inherit prefer arena speed ridge trim";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee funny alien treat evoke energy culture legend erode second day cigar";
+var mnemonic = "arrow already distance demand latin love nation ask cousin famous steel rain";

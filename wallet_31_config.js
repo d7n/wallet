@@ -1,1 +1,1 @@
-var mnemonic = "bomb genuine humble season spawn later pipe video address degree surprise marine";
+var mnemonic = "prefer balcony silver friend advance silk patient hen pottery taste power rich";

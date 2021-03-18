@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin casual between skirt maximum powder visit piano strike parent metal fall";
+var mnemonic = "shuffle border recipe inmate food length maple cabbage duck upgrade cancel close";

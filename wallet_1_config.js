@@ -1,1 +1,1 @@
-var mnemonic = "thank broken glide spoil dog valley utility exchange ugly chapter rather museum";
+var mnemonic = "alert pyramid silk truck excess window link patch churn volcano saddle pact";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige aisle monster mind ketchup black deal load reveal depth model aware";
+var mnemonic = "wheel pumpkin screen unfair example scissors entry popular asset note guide arch";

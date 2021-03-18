@@ -1,1 +1,1 @@
-var mnemonic = "cart worry detail gain age execute vanish loan bright share program comic";
+var mnemonic = "avoid tell buddy moon attack inner dinosaur flight else result level remain";

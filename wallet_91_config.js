@@ -1,1 +1,1 @@
-var mnemonic = "similar envelope dawn north pulse case blue south fever umbrella amount master";
+var mnemonic = "obscure material bulk inhale leaf main cousin team alert share soon barely";

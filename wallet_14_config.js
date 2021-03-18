@@ -1,1 +1,1 @@
-var mnemonic = "bless skin mixed brain episode wage device someone print knock guess immense";
+var mnemonic = "soul brown exhibit suit tobacco grit unlock moon like nice remember grocery";

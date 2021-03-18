@@ -1,1 +1,1 @@
-var mnemonic = "weasel short joy relief raise gaze riot gaze claim unaware reason various";
+var mnemonic = "spring eternal feed nut empower coach under voyage keen cigar tenant great";

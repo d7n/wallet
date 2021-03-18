@@ -1,1 +1,1 @@
-var mnemonic = "employ heavy axis alert sort swap square gown rent eye hello bean";
+var mnemonic = "jealous donate middle connect damage area infant scissors dentist sick health what";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe baby empty nice settle rice school bid celery funny gossip shoot";
+var mnemonic = "fade copper spare inflict lock gorilla faith act system item chat pave";

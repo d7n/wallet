@@ -1,1 +1,1 @@
-var mnemonic = "huge accuse roof lyrics usage device leader deputy affair net orchard head";
+var mnemonic = "very feature logic frequent spell kite skull hollow harvest budget ethics window";

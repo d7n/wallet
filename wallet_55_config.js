@@ -1,1 +1,1 @@
-var mnemonic = "library guilt clinic educate glow begin damp friend drop hockey obscure sword";
+var mnemonic = "shadow push media average field organ assault thrive faint water foster anchor";

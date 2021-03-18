@@ -1,1 +1,1 @@
-var mnemonic = "about whisper pilot moon hurt prize vital ordinary artefact piece fancy sibling";
+var mnemonic = "card weird boring school kit west over symptom myth raccoon brother three";

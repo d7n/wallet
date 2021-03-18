@@ -1,1 +1,1 @@
-var mnemonic = "reduce future chronic faculty follow butter invite express abandon verb ignore crystal";
+var mnemonic = "make evidence pelican risk sand spice feed ivory talk receive increase arena";

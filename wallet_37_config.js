@@ -1,1 +1,1 @@
-var mnemonic = "record return weather wine suit walk what woman lunch common east eyebrow";
+var mnemonic = "vacuum floor choice eager toilet price bulb join south rapid weapon onion";

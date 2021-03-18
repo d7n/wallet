@@ -1,1 +1,1 @@
-var mnemonic = "various myself square judge fault one life volume artefact adult arena forest";
+var mnemonic = "thing cinnamon invest fringe camera secret liquid test pottery grab logic timber";

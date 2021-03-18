@@ -1,1 +1,1 @@
-var mnemonic = "patient sock result want typical project one curtain letter perfect bamboo pull";
+var mnemonic = "rule unveil select impose blur imitate find spray apple salute faculty own";

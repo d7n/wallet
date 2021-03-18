@@ -1,1 +1,1 @@
-var mnemonic = "crouch attract lend access double media beef scissors neck million extra hobby";
+var mnemonic = "gown boat rural screen monster heart filter nurse clay robot nation region";

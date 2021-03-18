@@ -1,1 +1,1 @@
-var mnemonic = "source ghost enact drastic nuclear airport evoke age stem garment spatial need";
+var mnemonic = "hub bright all clump ski dolphin miracle boring rule drink spawn inside";

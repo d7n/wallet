@@ -1,1 +1,1 @@
-var mnemonic = "table rabbit soon dog satoshi raccoon aisle emerge artwork witness dream jeans";
+var mnemonic = "resource alarm attack head pulp credit multiply debate over such supply memory";

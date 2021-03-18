@@ -1,1 +1,1 @@
-var mnemonic = "verb stage uncle erosion rely illegal green economy fluid diary blur leopard";
+var mnemonic = "hold destroy ginger shoulder disorder dove iron board easy innocent expand lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "during want used once business radar bind train keep skill into dream";
+var mnemonic = "salt budget buzz proof trophy bitter once thrive leopard teach tool bicycle";

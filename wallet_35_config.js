@@ -1,1 +1,1 @@
-var mnemonic = "custom gift citizen market load save guess brave vivid juice veteran possible";
+var mnemonic = "system assume gold alley region fruit fiber endorse elegant enforce good fantasy";

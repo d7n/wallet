@@ -1,1 +1,1 @@
-var mnemonic = "pottery spray beach entire hub success dirt execute age spice crater fire";
+var mnemonic = "area column dust virus virtual test zebra rain damp web pride target";

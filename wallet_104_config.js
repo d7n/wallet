@@ -1,1 +1,1 @@
-var mnemonic = "angry blur sheriff client satoshi morning great swim model fury favorite state";
+var mnemonic = "zero creek journey round predict simple rapid oppose nerve file waste nurse";

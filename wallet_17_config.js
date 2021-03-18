@@ -1,1 +1,1 @@
-var mnemonic = "bacon genre toast burger denial life lake field hard glue fly foster";
+var mnemonic = "leisure style code ozone return ankle fun naive delay palace any thrive";

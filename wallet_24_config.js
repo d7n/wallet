@@ -1,1 +1,1 @@
-var mnemonic = "infant kingdom impulse track cave silk soon glance sort useless bleak antenna";
+var mnemonic = "health board auction celery love jungle load ceiling thought satoshi security drastic";

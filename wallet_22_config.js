@@ -1,1 +1,1 @@
-var mnemonic = "engage name display devote wait use quality glory occur extra sleep joy";
+var mnemonic = "scout bright cluster mix baby ripple ceiling ozone amount impulse patch retreat";

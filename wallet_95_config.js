@@ -1,1 +1,1 @@
-var mnemonic = "before stick blanket access base void pause time bar talk cheese wink";
+var mnemonic = "orchard time soda fossil spy carry price imitate animal danger broom aerobic";

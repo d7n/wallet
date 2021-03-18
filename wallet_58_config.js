@@ -1,1 +1,1 @@
-var mnemonic = "belt roof aisle dignity common weapon exercise satisfy team merit suggest decline";
+var mnemonic = "valid common razor letter stable cost warm cloth truly brush urban bottom";

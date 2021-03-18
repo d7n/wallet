@@ -1,1 +1,1 @@
-var mnemonic = "gentle dream autumn sword senior useful vapor cloud accuse spike twice mystery";
+var mnemonic = "math board carry tortoise pulse tip chest skull spray fish cook satisfy";

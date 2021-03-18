@@ -1,1 +1,1 @@
-var mnemonic = "author turtle keep strong junior income usage enlist renew step choose alone";
+var mnemonic = "swear layer slice brain task flash swear mix narrow lounge loud opera";

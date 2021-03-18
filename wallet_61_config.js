@@ -1,1 +1,1 @@
-var mnemonic = "wolf science steak liberty fluid drink magic swap seven siren onion become";
+var mnemonic = "agree pond speak predict skirt crop range female unfair mesh convince level";

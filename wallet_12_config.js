@@ -1,1 +1,1 @@
-var mnemonic = "under intact diamond spell try crisp shallow now confirm mango pledge flock";
+var mnemonic = "boy reflect civil change tooth swap bullet idle pluck vicious vintage joke";

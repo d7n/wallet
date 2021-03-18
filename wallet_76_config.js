@@ -1,1 +1,1 @@
-var mnemonic = "false torch travel range green chronic water cup quality patch spirit culture";
+var mnemonic = "cross tomorrow ask narrow nut vacant achieve kick denial nest crew unhappy";

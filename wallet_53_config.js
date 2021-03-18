@@ -1,1 +1,1 @@
-var mnemonic = "relax resource suit come since bamboo foster year sword science noble knee";
+var mnemonic = "notable permit hub rabbit popular juice army slab power dust stem denial";

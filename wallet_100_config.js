@@ -1,1 +1,1 @@
-var mnemonic = "music teach embody another jeans icon blossom negative orchard daring camera demise";
+var mnemonic = "vehicle must orient length shield safe primary blood already trim dose table";

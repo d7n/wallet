@@ -1,1 +1,1 @@
-var mnemonic = "salad mystery nose helmet velvet deny patient grief setup rebel biology scheme";
+var mnemonic = "motor hill rookie sausage soccer only speed science upon nerve season deal";

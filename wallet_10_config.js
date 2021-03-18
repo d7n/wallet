@@ -1,1 +1,1 @@
-var mnemonic = "sphere exhaust loud now gym logic behave wrestle sniff client artefact region";
+var mnemonic = "town image lobster decade fatal cost flip screen season sudden evidence bag";

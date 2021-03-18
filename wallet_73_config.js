@@ -1,1 +1,1 @@
-var mnemonic = "alone swim have outer put alley ten cargo subject spell hair push";
+var mnemonic = "fade chat mimic make resource rival insane truck pond regular east quote";

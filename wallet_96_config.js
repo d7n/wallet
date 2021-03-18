@@ -1,1 +1,1 @@
-var mnemonic = "canal turn fruit galaxy vast swallow ring father dynamic yard electric uncle";
+var mnemonic = "thought ordinary spray wrist arctic thunder economy access dash spice promote also";

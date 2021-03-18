@@ -1,1 +1,1 @@
-var mnemonic = "sea capital pattern solar dad section program fox another parent crouch swamp";
+var mnemonic = "ignore impulse walnut among neglect market muscle return winner beyond song ice";

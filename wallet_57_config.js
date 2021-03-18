@@ -1,1 +1,1 @@
-var mnemonic = "pulse monitor uniform setup ordinary define flock enrich scout crystal lawsuit hawk";
+var mnemonic = "vacuum already buddy object plug blouse jar thrive addict slender stick brief";

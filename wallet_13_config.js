@@ -1,1 +1,1 @@
-var mnemonic = "hard reduce kitten bunker situate hero vital swamp rare disease volume demise";
+var mnemonic = "this biology impact club security jump scheme forward erosion diary inspire rhythm";

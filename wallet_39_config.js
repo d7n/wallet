@@ -1,1 +1,1 @@
-var mnemonic = "silk rotate kingdom ice local inflict extra siren head wonder dumb glimpse";
+var mnemonic = "cry session stadium size wage burden life execute chaos olive nuclear various";

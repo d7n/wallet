@@ -1,1 +1,1 @@
-var mnemonic = "heart clump decade client drop rare afraid business addict vacuum fiber unhappy";
+var mnemonic = "slow kick close culture tongue dinosaur come hurdle jewel crucial abuse because";

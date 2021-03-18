@@ -1,1 +1,1 @@
-var mnemonic = "gentle label raw art guilt rubber egg draw portion tomorrow vague alarm";
+var mnemonic = "anger length settle device cruise canal risk brother math muffin visa style";

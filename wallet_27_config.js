@@ -1,1 +1,1 @@
-var mnemonic = "reduce pigeon sentence bronze program repeat reduce payment divert key tumble scout";
+var mnemonic = "correct pink reward same melody shiver celery found mercy then equal lady";

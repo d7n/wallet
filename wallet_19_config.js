@@ -1,1 +1,1 @@
-var mnemonic = "keep idea erase arctic inhale cup absurd number usage fun capable high";
+var mnemonic = "cave style floor enlist corn keep until december rude ocean cost describe";

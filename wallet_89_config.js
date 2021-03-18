@@ -1,1 +1,1 @@
-var mnemonic = "home pill fine liar embark whip shaft engine clip van nuclear stable";
+var mnemonic = "diamond hawk friend bag prepare price luxury faint ignore arrange credit vacant";

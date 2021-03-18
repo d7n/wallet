@@ -1,1 +1,1 @@
-var mnemonic = "office poem outer under topple enact shoulder snake desk green tissue village";
+var mnemonic = "return ecology page measure either fitness sign enable vote flock lobster stay";

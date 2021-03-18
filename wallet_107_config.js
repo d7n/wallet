@@ -1,1 +1,1 @@
-var mnemonic = "kingdom venture seek between alter bus right farm timber company promote song";
+var mnemonic = "melody public chapter project budget water ask motor cruise noodle enact carbon";

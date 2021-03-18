@@ -1,1 +1,1 @@
-var mnemonic = "unfair hill chase farm orbit faculty flavor vessel square turn steak rotate";
+var mnemonic = "curtain install nuclear decide clinic nose mixed online camera plastic rate walnut";

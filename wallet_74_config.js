@@ -1,1 +1,1 @@
-var mnemonic = "ridge parade walnut gloom improve craft sample lens dash helmet check put";
+var mnemonic = "harvest ripple behave anxiety lift amateur quiz govern key name link earn";

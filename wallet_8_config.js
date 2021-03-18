@@ -1,1 +1,1 @@
-var mnemonic = "edit merge angry turn energy favorite pill century escape dizzy drift wedding";
+var mnemonic = "evil cereal found ozone divorce search start outer butter venture bridge air";
