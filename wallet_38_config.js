@@ -1,1 +1,1 @@
-var mnemonic = "front tell parrot pulp drop chief lyrics document praise sudden hurt stuff";
+var mnemonic = "scare gossip icon artwork tuna novel element stamp other soul trap thank";

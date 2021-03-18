@@ -1,1 +1,1 @@
-var mnemonic = "detect oval match repair crater divorce dress round foster avoid tattoo taxi";
+var mnemonic = "disease gallery story session universe this nest lobster garbage innocent agent noble";

@@ -1,1 +1,1 @@
-var mnemonic = "auto knife artwork finish prevent banana bleak fame keep fabric nut year";
+var mnemonic = "tape wash kind alarm awesome apology hotel clever bleak vague month road";

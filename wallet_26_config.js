@@ -1,1 +1,1 @@
-var mnemonic = "impulse square live nerve salon ladder reopen kid fat risk security hero";
+var mnemonic = "seed spirit clean never loyal quiz comic destroy scare giraffe near draft";

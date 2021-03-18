@@ -1,1 +1,1 @@
-var mnemonic = "aisle quality device maid oblige verify brain casual employ sorry poverty choose";
+var mnemonic = "sleep novel whisper huge gloom spot castle couch cup luxury share trust";

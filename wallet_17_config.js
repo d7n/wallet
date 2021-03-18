@@ -1,1 +1,1 @@
-var mnemonic = "country fold rebuild exchange risk damage plate bridge edit trick goose learn";
+var mnemonic = "drastic patch kid tongue velvet elephant diesel subway library east own cross";

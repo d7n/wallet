@@ -1,1 +1,1 @@
-var mnemonic = "battle else camp spot stay filter noble frozen outdoor obvious kitten essence";
+var mnemonic = "meadow dismiss adjust twelve rebel capable run bread vague will nuclear machine";

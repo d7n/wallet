@@ -1,1 +1,1 @@
-var mnemonic = "wild reunion egg opera argue erupt suffer spring umbrella capital caution slab";
+var mnemonic = "away lobster left wall reopen regular recycle expand face lucky erode dinosaur";

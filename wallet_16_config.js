@@ -1,1 +1,1 @@
-var mnemonic = "kind wage horror feed they leader attract negative similar walnut check small";
+var mnemonic = "double sail mystery lobster display shuffle charge setup giggle match wood pretty";

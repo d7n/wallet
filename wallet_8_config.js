@@ -1,1 +1,1 @@
-var mnemonic = "energy naive panda foil mixed middle asset mutual uphold vicious water cake";
+var mnemonic = "drip toilet jacket cat desk special chalk riot reflect gauge lesson fringe";

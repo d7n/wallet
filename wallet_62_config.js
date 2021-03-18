@@ -1,1 +1,1 @@
-var mnemonic = "amateur chair case bronze picture fall habit coach silk father chase immense";
+var mnemonic = "online laugh skate chef fee thumb stereo mushroom account mule common child";

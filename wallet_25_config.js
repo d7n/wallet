@@ -1,1 +1,1 @@
-var mnemonic = "dog twelve island depart erode permit announce fetch cricket biology fiscal all";
+var mnemonic = "latin correct clinic gorilla sugar parent sight cook cat promote board pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely merry grid student tenant shaft faint unfair crack apology square harsh";
+var mnemonic = "general deny kitchen galaxy valve arrive reopen timber begin demise opinion beef";

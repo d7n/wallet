@@ -1,1 +1,1 @@
-var mnemonic = "glare comic extend purpose north fatigue increase ghost various yellow imitate mind";
+var mnemonic = "vote anxiety crop ladder change puppy napkin net equip space near brick";

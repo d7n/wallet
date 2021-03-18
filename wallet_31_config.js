@@ -1,1 +1,1 @@
-var mnemonic = "call bench edit tribe safe olympic clap educate winter better tattoo neck";
+var mnemonic = "duck execute vehicle picnic theory open super wall sense tube universe immense";

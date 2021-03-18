@@ -1,1 +1,1 @@
-var mnemonic = "birth snap pen stool march wolf snap state banner skate garden sketch";
+var mnemonic = "orbit message strong supply angle pet hip expire tiger cancel paddle snap";

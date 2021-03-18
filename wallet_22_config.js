@@ -1,1 +1,1 @@
-var mnemonic = "concert school glory fruit abandon truly spot clown correct focus obvious dragon";
+var mnemonic = "medal soon sniff spoon cabbage sound recall almost before clarify unveil wealth";

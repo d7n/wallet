@@ -1,1 +1,1 @@
-var mnemonic = "must seven effort chapter hope decade blast virus tilt energy whale express";
+var mnemonic = "grace health retire warfare ready ranch first fever market shiver parade target";

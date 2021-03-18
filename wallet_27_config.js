@@ -1,1 +1,1 @@
-var mnemonic = "hen today swear mushroom either change random tennis athlete secret muffin retreat";
+var mnemonic = "attack thrive broccoli ride meat long rent vintage copy magnet mad pilot";

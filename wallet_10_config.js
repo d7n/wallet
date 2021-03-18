@@ -1,1 +1,1 @@
-var mnemonic = "inside point window weapon rule minor hurdle pilot chalk finish jelly goddess";
+var mnemonic = "bonus expire obey escape lounge owner claim security cactus nice raise smooth";

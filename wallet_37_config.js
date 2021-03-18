@@ -1,1 +1,1 @@
-var mnemonic = "trigger artist journey kiwi fragile sign educate truck field silk custom copy";
+var mnemonic = "uphold path strategy sausage canal one course dial august plate cancel coach";

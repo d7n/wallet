@@ -1,1 +1,1 @@
-var mnemonic = "swallow tired decade define exact typical zoo family gauge utility path faint";
+var mnemonic = "episode there language call ostrich warm horror about napkin argue tongue oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion off essay erode horn stereo jacket sudden sunny bicycle story spider";
+var mnemonic = "solution case laundry flame remind multiply sample help asthma crime original shift";

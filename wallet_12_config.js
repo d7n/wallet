@@ -1,1 +1,1 @@
-var mnemonic = "force outside twice dove trouble injury edge grid birth sleep fan bonus";
+var mnemonic = "ugly income pony north leg couch dove today guide circle sauce lunar";

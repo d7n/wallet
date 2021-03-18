@@ -1,1 +1,1 @@
-var mnemonic = "outer evidence hockey athlete scissors way van vivid inch sniff around catch";
+var mnemonic = "tuna hurt powder item cat range doll situate trouble horror put panic";

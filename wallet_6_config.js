@@ -1,1 +1,1 @@
-var mnemonic = "daring extra track utility stove typical lottery between usage spoon crystal settle";
+var mnemonic = "antenna dream try foster february upgrade key gossip sell barely coach accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie tattoo custom essay found drill already table kingdom possible arm afraid";
+var mnemonic = "major chest pass reveal sad item picnic inside fuel forum oyster goddess";

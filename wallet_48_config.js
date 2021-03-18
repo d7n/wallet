@@ -1,1 +1,1 @@
-var mnemonic = "maid actor balcony age foot question fiber skin panther room use timber";
+var mnemonic = "unique staff lake unique total only night kind castle april include august";

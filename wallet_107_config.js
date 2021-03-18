@@ -1,1 +1,1 @@
-var mnemonic = "frog toward corn embark toilet enjoy impact hope razor will april income";
+var mnemonic = "spike jump table grit denial symbol arrange cancel strong stone lock gift";

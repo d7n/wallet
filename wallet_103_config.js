@@ -1,1 +1,1 @@
-var mnemonic = "shine glow abandon asset half parade able refuse explain twenty mail stuff";
+var mnemonic = "best umbrella armor vocal segment antique sniff topic genius anxiety glimpse digital";

@@ -1,1 +1,1 @@
-var mnemonic = "slice brush tonight call easily athlete file benefit sheriff require sight roast";
+var mnemonic = "plate genius inside island panel junior dune slogan earth fiber welcome juice";

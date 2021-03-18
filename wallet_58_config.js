@@ -1,1 +1,1 @@
-var mnemonic = "runway mercy program reform ice inquiry obscure short enhance federal bulk hunt";
+var mnemonic = "light need ship garlic immune mule empty cream owner banner narrow axis";

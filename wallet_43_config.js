@@ -1,1 +1,1 @@
-var mnemonic = "balance enter worth stay pen okay slab spy trigger medal impose stove";
+var mnemonic = "anxiety repeat brain harsh candy liberty analyst task parrot sight kidney unfair";

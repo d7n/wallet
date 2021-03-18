@@ -1,1 +1,1 @@
-var mnemonic = "metal bachelor dry note crime seminar swallow tide volcano caution upset rally";
+var mnemonic = "height evoke safe sign edit differ merry giant shift gas fix lava";

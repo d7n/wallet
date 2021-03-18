@@ -1,1 +1,1 @@
-var mnemonic = "parade fame maple section exact arch estate issue fine develop pioneer chase";
+var mnemonic = "infant cry analyst work skin live proud erode window knee snack apple";

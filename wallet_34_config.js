@@ -1,1 +1,1 @@
-var mnemonic = "abandon gain tooth coil empty law ahead economy answer vibrant boat defy";
+var mnemonic = "sugar van omit attract lemon kit lyrics exist vendor service update cactus";

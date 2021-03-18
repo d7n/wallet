@@ -1,1 +1,1 @@
-var mnemonic = "garage room ladder uphold vault defy faith dilemma toilet caution stem organ";
+var mnemonic = "illegal match argue gift flat document script school media bamboo west economy";

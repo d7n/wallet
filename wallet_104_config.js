@@ -1,1 +1,1 @@
-var mnemonic = "between globe miracle rocket radar bachelor payment project cabbage jar fashion predict";
+var mnemonic = "wing seat spatial body kingdom spider armed echo crack scrub junior gossip";

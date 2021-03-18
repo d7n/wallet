@@ -1,1 +1,1 @@
-var mnemonic = "limb absurd object crumble lazy hint sauce whale pause april phone motor";
+var mnemonic = "same sentence illegal year trust month deputy stool shove toy junk squirrel";

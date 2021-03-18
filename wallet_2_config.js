@@ -1,1 +1,1 @@
-var mnemonic = "poem speak first slender talk depart nature frown main pause because sadness";
+var mnemonic = "zero unable thrive plunge road charge glue electric naive bus smooth swallow";

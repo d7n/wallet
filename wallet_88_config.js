@@ -1,1 +1,1 @@
-var mnemonic = "feature concert brief tennis decorate attack girl thrive omit manage intact chapter";
+var mnemonic = "require together essence arctic asset chapter siege burst whip exile art curious";

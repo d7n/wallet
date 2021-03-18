@@ -1,1 +1,1 @@
-var mnemonic = "color maple throw glare female ocean hire water horse fire dish turtle";
+var mnemonic = "custom provide once surround toy net invite similar eagle saddle reject disease";

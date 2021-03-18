@@ -1,1 +1,1 @@
-var mnemonic = "field battle discover hello agent glide target answer scout shift skirt remember";
+var mnemonic = "kiss favorite comic glue evil wall boring alone buyer heavy fatal chronic";

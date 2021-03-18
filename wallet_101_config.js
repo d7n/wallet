@@ -1,1 +1,1 @@
-var mnemonic = "original thunder student canvas seminar lonely solution cram trap arrange joke muffin";
+var mnemonic = "mistake gift develop funny tissue cheese arrive give symbol grace during attitude";

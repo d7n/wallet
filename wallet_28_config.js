@@ -1,1 +1,1 @@
-var mnemonic = "differ boss rubber travel ski when talk render razor action inflict wisdom";
+var mnemonic = "strong sad afford lizard judge master head melt thrive autumn key glimpse";

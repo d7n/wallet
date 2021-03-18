@@ -1,1 +1,1 @@
-var mnemonic = "minimum village transfer crash country fashion reward essay ensure pink dutch route";
+var mnemonic = "twist fix husband snow cake wrestle lounge observe piano stone dolphin wise";

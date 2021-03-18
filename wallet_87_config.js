@@ -1,1 +1,1 @@
-var mnemonic = "pelican lunch broken duck riot among where dolphin wisdom tide forest scan";
+var mnemonic = "family toss receive hill chronic vivid ski rural twist whisper salmon canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter tiger novel road burden turn vapor bachelor skate steel gentle invest";
+var mnemonic = "empower prison twin strategy win voyage universe cousin elbow egg biology wage";

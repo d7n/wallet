@@ -1,1 +1,1 @@
-var mnemonic = "matrix drama rigid lecture rug race vault lemon ribbon biology group winner";
+var mnemonic = "unknown area play isolate property carry reveal nominee flavor trash elevator loop";

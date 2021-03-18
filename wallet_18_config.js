@@ -1,1 +1,1 @@
-var mnemonic = "above valid rent pledge evolve retire pink cat pudding melody parade exotic";
+var mnemonic = "mail topic citizen repair derive volume choose emotion captain buddy clay toast";

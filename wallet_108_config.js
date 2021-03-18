@@ -1,1 +1,1 @@
-var mnemonic = "glance coral comic retire sweet trick real unit snake raw yard side";
+var mnemonic = "tongue half pumpkin duck test lend intact garage loan scorpion mango velvet";

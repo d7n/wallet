@@ -1,1 +1,1 @@
-var mnemonic = "aerobic invite version brain mom track wild hawk side cash always clutch";
+var mnemonic = "bone become announce point crazy hungry fuel general fix whale patient give";

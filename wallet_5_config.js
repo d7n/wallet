@@ -1,1 +1,1 @@
-var mnemonic = "tiger wrestle term plate fox test lesson galaxy hire wish seat flush";
+var mnemonic = "lawsuit goat federal virtual taxi empty recipe sand home dance caught vendor";

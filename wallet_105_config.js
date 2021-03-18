@@ -1,1 +1,1 @@
-var mnemonic = "wife knock unknown fun check clump judge floor until crush apology fade";
+var mnemonic = "deal cattle avoid bonus juice illegal fox february flee phrase range jealous";

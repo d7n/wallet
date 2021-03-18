@@ -1,1 +1,1 @@
-var mnemonic = "random alpha moral must body logic trouble few traffic smile meat item";
+var mnemonic = "fix rigid water behind boss avocado daring fame shoot quit inquiry someone";

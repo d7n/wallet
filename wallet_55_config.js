@@ -1,1 +1,1 @@
-var mnemonic = "rose stomach rescue dismiss grape eternal primary smooth payment absent guess mass";
+var mnemonic = "method minimum blast pen insane fatal dinner soldier cram minimum feed unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse erosion olympic umbrella scheme aim clog tape foster slender enhance auto";
+var mnemonic = "lens violin little oven curtain target have volcano cotton speak nature stand";

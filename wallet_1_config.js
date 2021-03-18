@@ -1,1 +1,1 @@
-var mnemonic = "arm glass found talent demand short squirrel else village master hundred club";
+var mnemonic = "medal window faith ivory method admit polar crumble stumble add damage tower";

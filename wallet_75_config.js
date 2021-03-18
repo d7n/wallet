@@ -1,1 +1,1 @@
-var mnemonic = "bread cancel onion trial whale vacuum author roast black struggle position march";
+var mnemonic = "float spread income guess punch correct dose minimum notable nation decade wisdom";

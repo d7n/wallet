@@ -1,1 +1,1 @@
-var mnemonic = "poem prosper slice prize quick bike bean gap track yellow horror raven";
+var mnemonic = "confirm quote dry victory uphold box tool book area eager point mystery";

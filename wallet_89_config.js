@@ -1,1 +1,1 @@
-var mnemonic = "wall unable gown choose simple ethics cruel rely lunch snack hole story";
+var mnemonic = "soft venue region phone input appear blade also keep balance child tail";

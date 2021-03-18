@@ -1,1 +1,1 @@
-var mnemonic = "elephant silent gown genius lens jungle crop measure luxury describe delay slight";
+var mnemonic = "typical work faculty gaze error kiss canvas wave pink equal solar much";

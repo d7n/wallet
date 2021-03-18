@@ -1,1 +1,1 @@
-var mnemonic = "exhibit front swear casino fade bamboo model prevent version among magnet upper";
+var mnemonic = "pause spin wool sign sunset bullet other belt rude actual start north";

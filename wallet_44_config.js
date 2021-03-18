@@ -1,1 +1,1 @@
-var mnemonic = "ecology smile deliver still subway helmet upset bright blush case over grant";
+var mnemonic = "peanut online again gather someone excuse produce key limit sustain soup chief";

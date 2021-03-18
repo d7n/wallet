@@ -1,1 +1,1 @@
-var mnemonic = "garment inform term adapt merry tone gym evoke canvas vanish solid wide";
+var mnemonic = "orchard rather engage crazy asthma what angry hero tumble club female canvas";

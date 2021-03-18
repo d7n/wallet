@@ -1,1 +1,1 @@
-var mnemonic = "mesh skill extra survey sustain ceiling beauty middle fine gossip marble unhappy";
+var mnemonic = "raw spare couple palace veteran blue bunker eagle expand borrow exclude morning";

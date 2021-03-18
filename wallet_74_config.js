@@ -1,1 +1,1 @@
-var mnemonic = "south comfort sense spoon circle crystal river salon enemy short drill gospel";
+var mnemonic = "typical snake gadget october tape sponsor fiber deliver squirrel render rule attract";

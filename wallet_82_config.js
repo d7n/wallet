@@ -1,1 +1,1 @@
-var mnemonic = "fire rival safe web solar defy myth disorder drip unusual element act";
+var mnemonic = "curtain combine convince umbrella average rescue raw dad fame ozone twenty beef";

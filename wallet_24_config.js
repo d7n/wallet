@@ -1,1 +1,1 @@
-var mnemonic = "dash tackle actual quick domain black faculty vault six divide rubber subject";
+var mnemonic = "frown wink spirit want taxi wonder skill run dash sunset talk gossip";

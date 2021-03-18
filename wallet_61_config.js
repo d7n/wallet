@@ -1,1 +1,1 @@
-var mnemonic = "diamond list sentence creek unknown wrist lounge sound audit stem kick insane";
+var mnemonic = "music truck era leader slide parent decrease vocal pretty core chicken knife";

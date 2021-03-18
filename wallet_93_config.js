@@ -1,1 +1,1 @@
-var mnemonic = "minimum cancel grunt gesture nose rail beauty wink aware fury pattern theme";
+var mnemonic = "robot neglect favorite glare depend tenant actual green noodle orient guitar bread";

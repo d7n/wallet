@@ -1,1 +1,1 @@
-var mnemonic = "process output bone icon spawn gate game liar april divorce spray team";
+var mnemonic = "worry merit hazard repair ribbon tribe damp large before blood purchase kite";

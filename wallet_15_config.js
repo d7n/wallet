@@ -1,1 +1,1 @@
-var mnemonic = "front fancy brief party pull case siege cycle ghost maximum cheese empower";
+var mnemonic = "ignore north raw symptom appear half disease hospital tone better sauce include";

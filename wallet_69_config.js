@@ -1,1 +1,1 @@
-var mnemonic = "split ready kidney flower cradle wrist vanish educate lamp combine deny inject";
+var mnemonic = "section dash ripple century orbit hair glide arrow orphan task distance state";

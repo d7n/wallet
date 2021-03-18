@@ -1,1 +1,1 @@
-var mnemonic = "latin because kiss attract extend duck wing chair bonus husband actor adjust";
+var mnemonic = "stairs animal reason stairs excite tray congress frequent chronic cake elder canoe";

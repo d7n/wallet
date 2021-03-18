@@ -1,1 +1,1 @@
-var mnemonic = "trade valve dilemma aunt voyage stomach frequent upset make aim replace poem";
+var mnemonic = "salmon knock merge pyramid inspire cook fitness step lottery minimum grocery expand";

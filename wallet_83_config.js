@@ -1,1 +1,1 @@
-var mnemonic = "night dry twelve law almost among absent rhythm hundred analyst this action";
+var mnemonic = "today west panda sheriff tape virtual arrange another rifle patch bulk candy";

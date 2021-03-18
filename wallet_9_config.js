@@ -1,1 +1,1 @@
-var mnemonic = "hen feed audit solar inmate swarm spell three skin brush sister napkin";
+var mnemonic = "supreme middle alley boost purpose dinner bar angle vault liar attitude kind";

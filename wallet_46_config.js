@@ -1,1 +1,1 @@
-var mnemonic = "hammer shrimp obtain monkey liberty hover rude spice thing fatigue noise tank";
+var mnemonic = "siren tank diary foam fever term wrap inhale palace cash dinner morning";

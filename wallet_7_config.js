@@ -1,1 +1,1 @@
-var mnemonic = "liberty mosquito tonight pupil scene yard pull fit lizard glad maximum nominee";
+var mnemonic = "tourist impose sunset penalty squeeze swallow debris erase initial smart alley indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair cruise swarm mask nation adjust arctic heavy today essence sign person";
+var mnemonic = "hybrid rice rabbit bachelor pair regular close retire remember jealous table refuse";

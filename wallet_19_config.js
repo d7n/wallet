@@ -1,1 +1,1 @@
-var mnemonic = "walk quiz define surge phone unusual visa copy aware month west soldier";
+var mnemonic = "series weasel rail all bacon asthma autumn flavor change pioneer globe unit";

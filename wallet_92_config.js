@@ -1,1 +1,1 @@
-var mnemonic = "post pelican spend aerobic polar artefact absurd loan risk initial end frog";
+var mnemonic = "sure pluck need wheat together theme that front lucky picture almost gather";

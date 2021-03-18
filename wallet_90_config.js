@@ -1,1 +1,1 @@
-var mnemonic = "law eternal still eye win tragic unfold snack crater history noble token";
+var mnemonic = "extra despair blossom play kiwi cash head clerk become path gown upset";

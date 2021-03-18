@@ -1,1 +1,1 @@
-var mnemonic = "supreme inhale era net grace treat arrive such quit motion early want";
+var mnemonic = "fruit current raven either ritual elbow prosper bid genius math nurse today";

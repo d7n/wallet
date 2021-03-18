@@ -1,1 +1,1 @@
-var mnemonic = "title leave smooth public airport curious boil village gasp scene captain history";
+var mnemonic = "claim license upset exile salon north nation almost diamond sudden pride soap";

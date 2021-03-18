@@ -1,1 +1,1 @@
-var mnemonic = "uniform cloud person come search gown depend arm ghost civil diet awake";
+var mnemonic = "fire ladder require current miss room main renew goose wealth absurd deny";

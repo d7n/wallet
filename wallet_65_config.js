@@ -1,1 +1,1 @@
-var mnemonic = "atom torch copper shield length tunnel cool chronic divert lock blind rule";
+var mnemonic = "scissors squirrel tell immense valley area library pattern buyer arch estate provide";

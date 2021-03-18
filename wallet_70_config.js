@@ -1,1 +1,1 @@
-var mnemonic = "suggest couple cake diesel casino actress view pledge bean bargain argue choose";
+var mnemonic = "palace drastic candy crouch script hen royal wealth slim exercise soap affair";

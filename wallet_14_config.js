@@ -1,1 +1,1 @@
-var mnemonic = "media permit curve woman disagree napkin tent industry pelican chicken energy company";
+var mnemonic = "tell hybrid icon educate indoor taxi shop volume fever bargain very endorse";

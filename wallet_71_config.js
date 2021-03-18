@@ -1,1 +1,1 @@
-var mnemonic = "hospital special unaware office winter math risk share spawn garbage drive execute";
+var mnemonic = "casino pond anxiety fog truth library elephant angle lesson giraffe iron faculty";
