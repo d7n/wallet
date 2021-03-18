@@ -1,1 +1,1 @@
-var mnemonic = "tonight much nasty puzzle benefit demise satisfy install apple genius system wife";
+var mnemonic = "amazing trophy garlic prepare present gate era initial traffic cash move trumpet";

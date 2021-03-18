@@ -1,1 +1,1 @@
-var mnemonic = "sell bitter excite mirror future park loud toast embrace surface credit throw";
+var mnemonic = "front monkey among when mother swift gospel solve park tortoise ozone despair";

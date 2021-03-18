@@ -1,1 +1,1 @@
-var mnemonic = "veteran enrich eye clean night claw pretty wage never midnight tank issue";
+var mnemonic = "outside castle sock duty damp fancy panther echo winter chat effort capital";

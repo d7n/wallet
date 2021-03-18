@@ -1,1 +1,1 @@
-var mnemonic = "churn alter leg where solid erase client twin nose defy critic school";
+var mnemonic = "biology patient admit toward aerobic speed flee slight cannon depart buddy humble";

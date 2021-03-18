@@ -1,1 +1,1 @@
-var mnemonic = "provide bench shuffle arrange arctic monitor crucial clay wink any finger hundred";
+var mnemonic = "wolf acquire plastic outside above rail rice problem sudden illegal banana march";

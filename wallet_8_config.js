@@ -1,1 +1,1 @@
-var mnemonic = "pilot idle language crane hat picture trim wife purity ten moral pistol";
+var mnemonic = "snap canoe song various soon shoulder diary title deny toe game magic";

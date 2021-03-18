@@ -1,1 +1,1 @@
-var mnemonic = "feature tool pepper luxury divide during safe sibling divide surprise pet student";
+var mnemonic = "unhappy able bounce body city sense quit pipe drama mimic copy cactus";

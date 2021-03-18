@@ -1,1 +1,1 @@
-var mnemonic = "edge icon daring liquid alone kiss armed force bronze proof happy leader";
+var mnemonic = "heart rabbit crouch spice master resemble liquid wood poem mutual clock rabbit";

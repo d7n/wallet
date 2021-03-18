@@ -1,1 +1,1 @@
-var mnemonic = "earn prefer awkward again mind wrong casual snack exchange kitchen arrow category";
+var mnemonic = "crime demise hair sort apple execute inhale unusual panda priority possible sleep";

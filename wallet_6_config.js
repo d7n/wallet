@@ -1,1 +1,1 @@
-var mnemonic = "coach afraid column balance plunge foster general mansion layer parade dry select";
+var mnemonic = "chalk digital position sample gasp arrow wrist alley title robot decade amused";

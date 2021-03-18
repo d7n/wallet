@@ -1,1 +1,1 @@
-var mnemonic = "tide wire hamster tribe theory theme special pipe pole skill visa rotate";
+var mnemonic = "slender obvious trick price scatter merit traffic provide envelope theory rally sight";

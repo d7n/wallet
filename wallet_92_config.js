@@ -1,1 +1,1 @@
-var mnemonic = "explain green monster track verb flame trick asset float sight critic deny";
+var mnemonic = "volcano embody donor among favorite maple lawn hood boring toe elevator visual";

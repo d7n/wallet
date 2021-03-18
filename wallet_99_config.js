@@ -1,1 +1,1 @@
-var mnemonic = "awake syrup absent rose volcano tornado dizzy spin wing marriage soft brass";
+var mnemonic = "shallow purchase surprise hood arrest alarm fiber shaft chronic lyrics empower fox";

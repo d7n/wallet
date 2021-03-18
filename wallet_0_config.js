@@ -1,1 +1,1 @@
-var mnemonic = "shallow clap peace crouch slam tide pause august melody heart accident catalog";
+var mnemonic = "message domain vague final roof glory lift turkey swamp amount obvious parent";

@@ -1,1 +1,1 @@
-var mnemonic = "cup ahead diary town motion survey ability lake slight coconut scan slogan";
+var mnemonic = "balcony enough tray weather dose indicate maple evolve ranch victory stick ready";

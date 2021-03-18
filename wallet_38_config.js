@@ -1,1 +1,1 @@
-var mnemonic = "list ripple skin cook zoo month bracket borrow picture add dinosaur donor";
+var mnemonic = "idle outside scan online cruel clutch apology bar knee limit typical hurry";

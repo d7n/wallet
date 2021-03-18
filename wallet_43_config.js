@@ -1,1 +1,1 @@
-var mnemonic = "stock attitude scan umbrella service million rug test lava priority laundry quarter";
+var mnemonic = "wrong ostrich nurse adult wonder basic candy display fashion volume random thought";

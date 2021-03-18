@@ -1,1 +1,1 @@
-var mnemonic = "mother must boost symptom village spell frost endorse harvest crumble brush coral";
+var mnemonic = "foot father solution predict cage follow laptop retreat coconut leg cable idea";

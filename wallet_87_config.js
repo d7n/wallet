@@ -1,1 +1,1 @@
-var mnemonic = "couch intact renew wage twin knock upset stand above pink capable canoe";
+var mnemonic = "morning dutch opera spice despair illness quantum salt atom wage gauge step";

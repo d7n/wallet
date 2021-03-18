@@ -1,1 +1,1 @@
-var mnemonic = "joy donor edge invest country romance credit appear core assist horn pepper";
+var mnemonic = "grace staff girl cinnamon acid ask radio public vocal stem music pitch";

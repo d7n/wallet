@@ -1,1 +1,1 @@
-var mnemonic = "safe guard reason diet twice card property trim brass fancy calm type";
+var mnemonic = "task sunset actual dumb tide equal page upon scheme picture muffin rule";

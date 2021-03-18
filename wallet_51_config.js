@@ -1,1 +1,1 @@
-var mnemonic = "casual rookie top card garment attend harbor penalty elder danger tired stereo";
+var mnemonic = "fragile power animal space enough bulk brother level fever lizard debris stable";

@@ -1,1 +1,1 @@
-var mnemonic = "invite repeat depend stamp result used hold copy abuse ship brass seminar";
+var mnemonic = "welcome fog sort glue okay own now educate federal chicken athlete scare";

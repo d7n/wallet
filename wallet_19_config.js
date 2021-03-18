@@ -1,1 +1,1 @@
-var mnemonic = "harbor planet party reopen update camera grant pen final surprise matter seek";
+var mnemonic = "extend bulb auto raw describe grocery slim imitate sketch chest more chicken";

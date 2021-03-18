@@ -1,1 +1,1 @@
-var mnemonic = "rich sunny frown math catalog width cement dust ensure include clown club";
+var mnemonic = "express square post people actual ticket educate album border quantum tackle mistake";

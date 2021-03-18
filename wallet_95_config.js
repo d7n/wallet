@@ -1,1 +1,1 @@
-var mnemonic = "pond bag dwarf rude glide shoot rice mechanic net exercise maximum alcohol";
+var mnemonic = "tonight horn trend atom dog next festival scout someone pioneer pluck ginger";

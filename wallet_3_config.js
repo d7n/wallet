@@ -1,1 +1,1 @@
-var mnemonic = "invest between east more leave smoke spare voice concert rural expect school";
+var mnemonic = "badge purchase reason cruel warm wrist such hospital burger ritual spoon rural";

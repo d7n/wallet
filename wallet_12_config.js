@@ -1,1 +1,1 @@
-var mnemonic = "noodle system jazz spend excess unusual dune camera switch make armed pelican";
+var mnemonic = "weekend train vast zone tube mushroom hub session main grunt nurse car";

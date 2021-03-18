@@ -1,1 +1,1 @@
-var mnemonic = "bone orbit review direct lamp exile favorite insane speed account remind science";
+var mnemonic = "run twelve cruise endless armed actress palace medal broccoli angry length day";

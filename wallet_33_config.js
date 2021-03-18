@@ -1,1 +1,1 @@
-var mnemonic = "child remind giggle crop spy accuse avocado monkey biology puzzle room mountain";
+var mnemonic = "cram note casual million melody cook arm reform scan motor hair rail";

@@ -1,1 +1,1 @@
-var mnemonic = "swim virtual dirt become brisk library rhythm figure machine doll quit latin";
+var mnemonic = "slush flock trouble lift theory balcony modify equal audit survey alpha roast";

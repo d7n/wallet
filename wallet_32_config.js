@@ -1,1 +1,1 @@
-var mnemonic = "congress cannon arena hip sick bracket mind orbit hint find top edge";
+var mnemonic = "head sheriff clerk helmet swallow better plate soap crawl exchange bunker length";

@@ -1,1 +1,1 @@
-var mnemonic = "alert birth earth wink game sting rocket cabin purity scatter arctic notable";
+var mnemonic = "hawk vocal oxygen join enroll unhappy pupil much deputy harvest draw home";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus comic exchange express budget gas mushroom sight foster work cross aisle";
+var mnemonic = "rain organ account enroll length buyer steak medal square candy liar rally";

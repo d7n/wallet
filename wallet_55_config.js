@@ -1,1 +1,1 @@
-var mnemonic = "abandon toy surge toy leader alert fog little fatal crazy fish annual";
+var mnemonic = "birth proof local correct risk canyon away language prevent client wrist govern";

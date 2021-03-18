@@ -1,1 +1,1 @@
-var mnemonic = "soap film parade tell near crucial essence film noise slush tube furnace";
+var mnemonic = "venue child before candy prison surge kid rifle urban phrase border actress";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous hold foil antique able orient clump around ticket upgrade skill oppose";
+var mnemonic = "fine random explain move usage evoke such tank kiwi smooth fortune summer";

@@ -1,1 +1,1 @@
-var mnemonic = "word tilt giggle half dove gun pony lesson shift push fee verb";
+var mnemonic = "detect chimney ancient pepper winter diamond hub symbol marine ghost wise language";

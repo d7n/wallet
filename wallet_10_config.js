@@ -1,1 +1,1 @@
-var mnemonic = "agree bronze lazy potato coral mix brass hero crawl twenty debris amount";
+var mnemonic = "silver when already kid welcome chicken wise real element hammer inform train";

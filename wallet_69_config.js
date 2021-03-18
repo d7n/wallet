@@ -1,1 +1,1 @@
-var mnemonic = "grape sunset bonus genre magnet illegal attract obvious evidence absorb help lend";
+var mnemonic = "shove muffin umbrella profit orient educate equip melody drift soul shrug summer";

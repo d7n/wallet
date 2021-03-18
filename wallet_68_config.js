@@ -1,1 +1,1 @@
-var mnemonic = "kitchen strategy anchor uncle inflict runway agent endorse stove anxiety cook kid";
+var mnemonic = "shy later coin demand guess river swear student case cactus similar cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster shadow evolve future tattoo depart grow sport often gesture engine receive";
+var mnemonic = "still paper panda saddle tomorrow undo buyer street doctor enable inhale pupil";

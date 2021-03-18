@@ -1,1 +1,1 @@
-var mnemonic = "sadness pool pair taxi fitness grab soda shuffle vehicle diamond beach idea";
+var mnemonic = "what seat federal reveal skin mirror discover brush lonely zero salad kick";

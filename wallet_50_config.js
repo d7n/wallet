@@ -1,1 +1,1 @@
-var mnemonic = "disorder hint insect hidden example orient oil today bamboo grid car sunny";
+var mnemonic = "hen proof pitch move clay chair find announce pepper demand guilt awkward";

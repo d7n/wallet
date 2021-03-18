@@ -1,1 +1,1 @@
-var mnemonic = "kick kit winner sick pony unhappy scrap rack primary leader fall raw";
+var mnemonic = "track include win time kiwi baby blossom naive daughter panic video advance";

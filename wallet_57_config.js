@@ -1,1 +1,1 @@
-var mnemonic = "minimum endorse either blood coral zebra water truly short curious turn buddy";
+var mnemonic = "enjoy drama sponsor fetch below fat figure lizard carbon limb expire recall";

@@ -1,1 +1,1 @@
-var mnemonic = "earn naive taxi dragon machine asthma total toy twenty subway chalk twin";
+var mnemonic = "network avoid dutch math crucial install advice glide half unaware lend fruit";

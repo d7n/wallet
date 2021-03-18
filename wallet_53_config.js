@@ -1,1 +1,1 @@
-var mnemonic = "paper address smart apology sustain snake mushroom brass soap room travel horror";
+var mnemonic = "ritual usual rely resemble flock exhaust proud initial bar consider invest bring";

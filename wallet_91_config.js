@@ -1,1 +1,1 @@
-var mnemonic = "still pioneer save else double afraid more juice dinosaur merge race mixture";
+var mnemonic = "quiz fancy tribe giant lion cabbage enemy oxygen matrix brand dynamic hire";

@@ -1,1 +1,1 @@
-var mnemonic = "blood tone afford brown fitness move educate sweet alien this beauty test";
+var mnemonic = "crop dog disorder stairs squirrel tail suggest grocery try divorce page stuff";

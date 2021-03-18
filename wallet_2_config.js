@@ -1,1 +1,1 @@
-var mnemonic = "shop upset reopen sister have depart join width erupt cross hammer clarify";
+var mnemonic = "royal roof inflict crash search color comic add rural obey coconut rent";

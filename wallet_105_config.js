@@ -1,1 +1,1 @@
-var mnemonic = "chaos arm jungle chaos mask elevator mix blossom thumb nose portion pet";
+var mnemonic = "you pattern critic solar crane gravity skull prize cloth cloud notable apart";

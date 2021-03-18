@@ -1,1 +1,1 @@
-var mnemonic = "edit square ramp still object miss hair fan beef vault syrup actress";
+var mnemonic = "brush maid defy bundle merry wine dizzy chair merry blossom pudding verify";

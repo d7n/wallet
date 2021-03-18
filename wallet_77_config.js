@@ -1,1 +1,1 @@
-var mnemonic = "symptom smoke final myself ugly happy please roof divorce ready never cabin";
+var mnemonic = "viable mistake predict swift soap acoustic ahead arrive swarm kitten bench rail";

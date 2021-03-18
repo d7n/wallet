@@ -1,1 +1,1 @@
-var mnemonic = "portion tuition anchor apart chair return piece column salmon inherit check aunt";
+var mnemonic = "hero gain slice deposit mention name lamp armed poem drive caution visual";

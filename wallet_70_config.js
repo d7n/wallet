@@ -1,1 +1,1 @@
-var mnemonic = "crazy town connect shock enable dry cousin need market kid hard mother";
+var mnemonic = "merge clever infant tag shoot maid attract know wine aware gasp airport";

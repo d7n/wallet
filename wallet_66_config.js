@@ -1,1 +1,1 @@
-var mnemonic = "roast bamboo empower reopen whip brick chase drip tongue hungry blanket okay";
+var mnemonic = "pretty calm rack enemy anchor reopen build nasty unaware harvest bunker mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "aware cactus glide update glance net hood pass total size govern outer";
+var mnemonic = "identify total rabbit parrot animal void refuse surface knee jacket blanket tank";

@@ -1,1 +1,1 @@
-var mnemonic = "oil renew injury mimic library future dentist spell wage jelly truly hello";
+var mnemonic = "eager enemy bright long scrap error duck taxi board novel trophy saddle";

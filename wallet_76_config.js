@@ -1,1 +1,1 @@
-var mnemonic = "stadium gorilla business depth space bargain empower federal kiss spot file empty";
+var mnemonic = "diagram lamp box slush sketch second initial hidden dice thunder pudding letter";

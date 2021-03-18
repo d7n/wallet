@@ -1,1 +1,1 @@
-var mnemonic = "ice old design desk oblige upon just patrol industry addict output submit";
+var mnemonic = "skin include strategy below intact wish bachelor badge enter remind code tomorrow";

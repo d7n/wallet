@@ -1,1 +1,1 @@
-var mnemonic = "symbol poem ticket asthma audit give surprise slender exhaust refuse cube behave";
+var mnemonic = "choice property into inmate wrist spell era until tilt skin solution powder";

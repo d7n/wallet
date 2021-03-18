@@ -1,1 +1,1 @@
-var mnemonic = "room return weekend often clay anger screen pencil manual sleep crucial visual";
+var mnemonic = "core arctic execute grid punch vacuum return affair upon nuclear mystery creek";

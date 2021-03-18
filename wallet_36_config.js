@@ -1,1 +1,1 @@
-var mnemonic = "own maid sauce region vehicle term rally write duck river weird toilet";
+var mnemonic = "visual robot orbit erupt subject blade vehicle voyage embrace visit enhance coach";

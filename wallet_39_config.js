@@ -1,1 +1,1 @@
-var mnemonic = "cram shell coffee tiger game goddess enemy claw nature myth matter cluster";
+var mnemonic = "circle idea language swap silver penalty unable mixture bitter pretty venue ill";

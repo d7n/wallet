@@ -1,1 +1,1 @@
-var mnemonic = "make check base crater produce stumble auto merge dish nut alone slide";
+var mnemonic = "island public company corn insane zone cool stuff glue can machine camera";

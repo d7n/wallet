@@ -1,1 +1,1 @@
-var mnemonic = "author coyote canoe chalk nephew relief deliver maze sausage deposit head blind";
+var mnemonic = "goddess grunt lumber inform coach staff pill best pond umbrella spin victory";

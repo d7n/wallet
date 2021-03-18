@@ -1,1 +1,1 @@
-var mnemonic = "news tattoo demise kitchen radio purity bless analyst code obtain way expect";
+var mnemonic = "entire inquiry term praise fame penalty renew fan area pony antique perfect";

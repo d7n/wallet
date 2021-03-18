@@ -1,1 +1,1 @@
-var mnemonic = "advice pitch install kiwi field umbrella lucky bread treat town melt present";
+var mnemonic = "hotel flight very genuine work scare arrive gossip actual thought gadget noise";

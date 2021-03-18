@@ -1,1 +1,1 @@
-var mnemonic = "inmate pencil reject woman quantum joke click alter wing head sound uncover";
+var mnemonic = "sail reason sign room seven sell remember ice twist test duck sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip tail stable fiction genuine truly work medal rural pelican sand artwork";
+var mnemonic = "dice pill dutch virtual tiny pretty blossom broken employ smart journey smart";

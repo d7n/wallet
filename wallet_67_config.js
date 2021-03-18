@@ -1,1 +1,1 @@
-var mnemonic = "reward convince judge penalty small advance glimpse crew oxygen accuse load orange";
+var mnemonic = "outside sad bless meat kick furnace bring asset cabbage keep sock soccer";

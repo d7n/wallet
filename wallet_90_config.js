@@ -1,1 +1,1 @@
-var mnemonic = "boring produce quality salute behind approve town float fresh suit crucial either";
+var mnemonic = "prevent play inmate joy school ranch finger arm ketchup vault depend weather";

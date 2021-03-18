@@ -1,1 +1,1 @@
-var mnemonic = "eternal shine such trial engine buffalo frog grace agent glad anger crisp";
+var mnemonic = "select song wing narrow mountain such gasp loop nominee evidence concert chronic";

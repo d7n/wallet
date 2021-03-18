@@ -1,1 +1,1 @@
-var mnemonic = "add beyond install minute weekend claim road brain choose blade shallow spider";
+var mnemonic = "piano equip doll fire merit double humor congress device avoid burden prison";

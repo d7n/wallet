@@ -1,1 +1,1 @@
-var mnemonic = "satisfy tilt supply hub loop timber planet spray pause unlock husband neither";
+var mnemonic = "sunny object film kick win swear grass wheat enhance paper deal tortoise";

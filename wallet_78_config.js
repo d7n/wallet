@@ -1,1 +1,1 @@
-var mnemonic = "vague gorilla ride cart item raven success crawl siren grape afford dog";
+var mnemonic = "gauge shadow sentence noble leader property battle coyote they various draw ceiling";

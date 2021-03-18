@@ -1,1 +1,1 @@
-var mnemonic = "country twelve girl hair fiscal brave taxi brisk verb penalty heart turtle";
+var mnemonic = "emotion already leader floor base rookie great child visa bitter pluck shoot";

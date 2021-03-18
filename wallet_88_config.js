@@ -1,1 +1,1 @@
-var mnemonic = "same bulk aspect rice shoe tube require garbage obey improve motion penalty";
+var mnemonic = "drive drink december depth nurse office way era outer system alpha bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck jaguar town venue net mom oval glad velvet better winner pole";
+var mnemonic = "dutch diamond question raise gym minimum task enlist defense bulk interest action";

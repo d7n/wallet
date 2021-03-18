@@ -1,1 +1,1 @@
-var mnemonic = "turtle family sense vivid horror powder scare foot angry receive page afraid";
+var mnemonic = "flock axis digital tray afraid collect lecture supreme image jazz spider spice";

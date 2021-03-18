@@ -1,1 +1,1 @@
-var mnemonic = "share spring cute dry avocado divide quantum juice much alcohol cloud now";
+var mnemonic = "series jeans actress school you letter twin fish loop example deer pair";

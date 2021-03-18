@@ -1,1 +1,1 @@
-var mnemonic = "drift keep barrel wedding stock glad twice battle current screen neither advance";
+var mnemonic = "other hobby bleak soldier good practice brick acquire foster sheriff sketch camp";

@@ -1,1 +1,1 @@
-var mnemonic = "solve uniform maid unveil grape version civil wedding chaos exile pave expect";
+var mnemonic = "rubber frog absorb silent panel emerge robust perfect addict click depend usage";

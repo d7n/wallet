@@ -1,1 +1,1 @@
-var mnemonic = "urge omit such resemble fit exhaust goddess stool asthma air equip practice";
+var mnemonic = "spread enter oak common claw drastic east drift mistake corn impose price";

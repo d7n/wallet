@@ -1,1 +1,1 @@
-var mnemonic = "arch salon school people garment grace cycle chapter galaxy sadness until adult";
+var mnemonic = "flash trend process surge rack run give weekend honey buffalo palm cycle";

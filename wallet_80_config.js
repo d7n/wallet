@@ -1,1 +1,1 @@
-var mnemonic = "night whale eye corn banana design awkward lyrics onion fence evil measure";
+var mnemonic = "start foil fiber network list pupil mandate will tobacco poem strong solid";

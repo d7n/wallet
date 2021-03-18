@@ -1,1 +1,1 @@
-var mnemonic = "machine leaf urge certain fatigue jungle ranch swallow hawk crop bunker sense";
+var mnemonic = "jewel amateur hill shove earth indoor couple people zebra rose tip person";
