@@ -1,1 +1,1 @@
-var mnemonic = "split series sister science select dignity notice upon lift unique cinnamon junior";
+var mnemonic = "drama ostrich surprise harbor royal start sock move utility detect puzzle tiny";

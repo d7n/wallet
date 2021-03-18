@@ -1,1 +1,1 @@
-var mnemonic = "fiction life embody broccoli front ball demise stage identify museum habit waste";
+var mnemonic = "tenant brick stand tool six betray desert squeeze puppy zone column tape";

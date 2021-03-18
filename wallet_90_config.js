@@ -1,1 +1,1 @@
-var mnemonic = "congress awake square monkey enlist silent drill worry cement expose host enforce";
+var mnemonic = "sing bless grab exclude foil grid once inject roof element margin disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "metal autumn fly please amount town belt rival theory inhale seven service";
+var mnemonic = "essay there blur umbrella champion raccoon oxygen hotel lounge hospital reason fatigue";

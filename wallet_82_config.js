@@ -1,1 +1,1 @@
-var mnemonic = "reveal animal insect ribbon culture object vintage tone core carry where remove";
+var mnemonic = "crawl moment goose prosper legal demand follow very worth horn smoke weekend";

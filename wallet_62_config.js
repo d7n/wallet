@@ -1,1 +1,1 @@
-var mnemonic = "venture castle unhappy inch rare ten tuition try record rather rough north";
+var mnemonic = "oil civil science fuel mule effort light shiver twenty noodle hobby boat";

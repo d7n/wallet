@@ -1,1 +1,1 @@
-var mnemonic = "mansion stable spray episode tumble banana elite enrich bright frog news wear";
+var mnemonic = "frozen satisfy bleak lucky rose city supply skin same manual sing stadium";

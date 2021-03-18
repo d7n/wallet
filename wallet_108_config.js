@@ -1,1 +1,1 @@
-var mnemonic = "toddler pulse bright narrow jacket what summer balcony agent dice print detail";
+var mnemonic = "seat vocal special empty seat surface humble family proud divert auto scale";

@@ -1,1 +1,1 @@
-var mnemonic = "barely parrot judge library violin soft topic label quit retreat acid amused";
+var mnemonic = "shoot pattern picnic genius about kangaroo maple endless hurry deny civil penalty";

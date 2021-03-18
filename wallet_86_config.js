@@ -1,1 +1,1 @@
-var mnemonic = "firm close fold cry lecture diary flee collect desert shield bronze rhythm";
+var mnemonic = "innocent embrace produce loan tail length cinnamon scissors include gasp city ask";

@@ -1,1 +1,1 @@
-var mnemonic = "blue question board toward village vicious speed trap badge venue friend thunder";
+var mnemonic = "chef crop nose either nominee owner mention title pact delay flock else";

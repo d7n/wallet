@@ -1,1 +1,1 @@
-var mnemonic = "that glass maple famous indoor drip alpha dutch still iron section zero";
+var mnemonic = "liar cage cancel expire trick purchase supply canoe cherry display obscure library";

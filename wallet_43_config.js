@@ -1,1 +1,1 @@
-var mnemonic = "false smart page all steel follow skirt away mesh help panic load";
+var mnemonic = "orchard valve become trend shoulder hedgehog entry slight oppose salute crouch message";

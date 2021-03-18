@@ -1,1 +1,1 @@
-var mnemonic = "wire material flash please when cement fold artwork engage silly purchase column";
+var mnemonic = "garbage lamp move parrot crush post unit link amount theme truly unveil";

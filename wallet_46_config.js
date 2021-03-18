@@ -1,1 +1,1 @@
-var mnemonic = "change caught canyon whip improve auto excess quiz depart perfect pottery page";
+var mnemonic = "shoulder bachelor genius flavor fee uniform view address call click bind world";

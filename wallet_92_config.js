@@ -1,1 +1,1 @@
-var mnemonic = "only reform unusual strategy spread west bachelor path humble harbor magnet laundry";
+var mnemonic = "waste frozen pond swing expand taxi barrel inhale fish snow fence farm";

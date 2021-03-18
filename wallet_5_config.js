@@ -1,1 +1,1 @@
-var mnemonic = "garment tiger thank mansion off thing turn spawn pudding ability lonely program";
+var mnemonic = "speed invite under pluck road guide gloom amazing company feature youth certain";

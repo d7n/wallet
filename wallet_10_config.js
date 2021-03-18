@@ -1,1 +1,1 @@
-var mnemonic = "cute donkey retreat ghost kite runway ketchup supply agree arrange science hawk";
+var mnemonic = "camp flee night camp muscle lawsuit grief cannon rival dumb pupil ghost";

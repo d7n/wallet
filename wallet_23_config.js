@@ -1,1 +1,1 @@
-var mnemonic = "verify mean local donate spread appear amateur aim mesh onion mansion huge";
+var mnemonic = "hood couch still easily wine coin diagram display myself settle dance improve";

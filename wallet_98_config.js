@@ -1,1 +1,1 @@
-var mnemonic = "unveil sorry sniff solve erase cabbage doctor deny bubble stereo age pulp";
+var mnemonic = "make two bicycle mammal state spy month below term horn lucky comfort";

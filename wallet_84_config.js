@@ -1,1 +1,1 @@
-var mnemonic = "cage surface session scene draw entry shift festival hybrid canyon oyster pull";
+var mnemonic = "document concert acoustic surprise arrow buzz reward wash juice grace camera bulb";

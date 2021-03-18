@@ -1,1 +1,1 @@
-var mnemonic = "small hand marriage turtle tent panda under long put cave curious air";
+var mnemonic = "near mention brown call science jacket helmet fluid march border ethics lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon glove hole mobile rally flower holiday correct effort meadow involve love";
+var mnemonic = "silly seed innocent accuse rate tornado animal uncle endless target trouble buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "torch remove bird lottery peace chase memory cute hand breeze today suspect";
+var mnemonic = "room simple hill imitate stem wedding tool virtual vital soccer excuse legend";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal into pole crumble treat actual wool wheel skirt height solar teach";
+var mnemonic = "elbow expose screen blade defense remove limb odor unfair chase earth valve";

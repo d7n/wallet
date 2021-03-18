@@ -1,1 +1,1 @@
-var mnemonic = "replace search gain media donor country horn play actual satisfy valley keep";
+var mnemonic = "mention leg timber rebel wink enter guard defy sort rhythm chicken tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "virus magic quantum screen ketchup carpet cruel swear ecology toss walnut world";
+var mnemonic = "include else hazard future humble library differ stuff verify essence tribe pigeon";

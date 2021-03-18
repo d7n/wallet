@@ -1,1 +1,1 @@
-var mnemonic = "kid lobster mosquito ghost slot earth hill drink isolate best portion shoe";
+var mnemonic = "surprise giggle noodle super cousin valve trap town maid verb actor vocal";

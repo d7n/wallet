@@ -1,1 +1,1 @@
-var mnemonic = "cannon scan squirrel sunny pigeon image bargain loop shiver curtain forest black";
+var mnemonic = "harvest brass bring defense assault post pledge rich used speak riot fee";

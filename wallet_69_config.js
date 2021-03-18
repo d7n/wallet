@@ -1,1 +1,1 @@
-var mnemonic = "invite arrange alarm soap marine term water farm peanut conduct farm curtain";
+var mnemonic = "pulp can popular combine riot pitch erase gospel setup funny fury exhibit";

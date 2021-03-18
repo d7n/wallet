@@ -1,1 +1,1 @@
-var mnemonic = "army tilt car runway boy one gentle kit easy roast plastic office";
+var mnemonic = "february school fury thought dilemma faculty kit air donate pink object metal";

@@ -1,1 +1,1 @@
-var mnemonic = "month sorry slender eye limb virtual orphan multiply tray fluid tail voice";
+var mnemonic = "monkey gallery icon quiz immune raccoon owner job furnace rent move tortoise";

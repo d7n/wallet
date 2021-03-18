@@ -1,1 +1,1 @@
-var mnemonic = "half plunge across pyramid such venture wealth lizard birth ghost crew spend";
+var mnemonic = "dirt lumber ignore head meadow joke replace shrug law tilt cloud useful";

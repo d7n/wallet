@@ -1,1 +1,1 @@
-var mnemonic = "gold aim end review wink early enlist canyon until grunt mask snap";
+var mnemonic = "swim attack legend steel certain estate math twenty lobster eyebrow goddess perfect";

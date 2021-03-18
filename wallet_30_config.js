@@ -1,1 +1,1 @@
-var mnemonic = "allow sport curtain grit spy monster piano scrap duty cruel course one";
+var mnemonic = "maze heavy village kangaroo rural figure oven plastic dance squeeze expire describe";

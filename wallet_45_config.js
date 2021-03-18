@@ -1,1 +1,1 @@
-var mnemonic = "stable list select laptop increase rally auto tattoo announce human depart until";
+var mnemonic = "loud grow path frequent rally kiss provide orange switch ramp catalog thumb";

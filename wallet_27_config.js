@@ -1,1 +1,1 @@
-var mnemonic = "food cable dance lake fury height merge guard fossil crash avoid whip";
+var mnemonic = "improve shrug magnet slim account inside mechanic nominee century crane section page";

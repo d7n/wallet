@@ -1,1 +1,1 @@
-var mnemonic = "obey income vessel sudden cereal panic casual cinnamon bulk flag page three";
+var mnemonic = "deliver virtual shock rug decrease drink demise all juice coin fit economy";

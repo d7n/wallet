@@ -1,1 +1,1 @@
-var mnemonic = "hint tone blame blush cruel proud hammer dynamic adjust wild long bomb";
+var mnemonic = "punch isolate action pair old erosion plate giraffe input visual beach window";

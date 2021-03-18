@@ -1,1 +1,1 @@
-var mnemonic = "carry bronze design gauge crop radio brick share service pipe opera shell";
+var mnemonic = "about mystery lend rude awake muscle primary ice early slide genuine affair";

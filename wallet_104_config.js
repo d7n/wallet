@@ -1,1 +1,1 @@
-var mnemonic = "tragic lady valve theme letter endorse smooth jump radio negative derive fault";
+var mnemonic = "foil kite curious dove grace sausage reunion arrange fiber aim never fit";

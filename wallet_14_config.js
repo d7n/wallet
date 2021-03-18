@@ -1,1 +1,1 @@
-var mnemonic = "ask image scissors dynamic erase fox track lake impact rebel robust sister";
+var mnemonic = "symbol sponsor candy crucial adult dry media expect recipe news mean submit";

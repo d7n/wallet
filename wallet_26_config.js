@@ -1,1 +1,1 @@
-var mnemonic = "cash avocado share slab divorce dust paddle favorite remove rude fence curtain";
+var mnemonic = "seat hand goose enroll bar distance eye favorite exercise raw enable option";

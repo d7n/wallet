@@ -1,1 +1,1 @@
-var mnemonic = "wide client oyster august shrug wage climb clever ceiling little screen invite";
+var mnemonic = "snow wash pave friend output will chimney erupt same room hotel pass";

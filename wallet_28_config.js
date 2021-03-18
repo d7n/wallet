@@ -1,1 +1,1 @@
-var mnemonic = "insect burden monster spice mosquito december dry six tone unable truly focus";
+var mnemonic = "couple gate imitate brain course tonight click must govern wealth food erosion";

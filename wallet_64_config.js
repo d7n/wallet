@@ -1,1 +1,1 @@
-var mnemonic = "wool genuine pill false super grain hobby tragic fee quality pig excite";
+var mnemonic = "fade draft entire library hat develop daughter clarify reject slide describe jacket";

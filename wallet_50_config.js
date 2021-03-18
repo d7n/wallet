@@ -1,1 +1,1 @@
-var mnemonic = "lumber modify business bracket act opinion bread staff flavor song mushroom dragon";
+var mnemonic = "front early mimic real mango gospel nothing lawsuit betray hidden rhythm planet";

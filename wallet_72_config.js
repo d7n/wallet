@@ -1,1 +1,1 @@
-var mnemonic = "need advance soul panda medal mansion sample potato bundle payment coach sock";
+var mnemonic = "cluster drop reunion width civil fragile faint group copper repair mandate chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "husband neither laundry resist bitter coffee balcony tip trumpet exist tooth salt";
+var mnemonic = "syrup prize wife vehicle economy artefact repeat buyer crazy devote funny empty";

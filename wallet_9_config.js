@@ -1,1 +1,1 @@
-var mnemonic = "grain because code public civil company private quiz crime gym blood cry";
+var mnemonic = "milk phrase client spot danger casino dignity reunion turtle nation raven mask";

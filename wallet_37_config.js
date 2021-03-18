@@ -1,1 +1,1 @@
-var mnemonic = "ball brain say snack diet wine fossil clutch window shadow shoot antenna";
+var mnemonic = "immune tenant depth grow film broken movie goddess exile jar brass giant";

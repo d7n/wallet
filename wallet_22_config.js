@@ -1,1 +1,1 @@
-var mnemonic = "alone cherry chest elegant snow lock magnet borrow off ancient write wrap";
+var mnemonic = "perfect cheese prosper vicious voyage trial air flat wash salad cactus town";

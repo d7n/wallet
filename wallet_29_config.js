@@ -1,1 +1,1 @@
-var mnemonic = "glimpse lava obey uphold bicycle slice cable soda first avoid husband turtle";
+var mnemonic = "leg imitate keen quarter long milk shoot peasant recipe pull lunar journey";

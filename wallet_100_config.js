@@ -1,1 +1,1 @@
-var mnemonic = "response famous boat gun depend inflict cupboard advice net drop toe visa";
+var mnemonic = "security verify skate surround erupt vast hip gas predict hockey gaze member";

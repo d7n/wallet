@@ -1,1 +1,1 @@
-var mnemonic = "stem across safe behave market wheat trend acid sing person awake draft";
+var mnemonic = "brave aerobic pencil leisure state decline dash roof analyst session crew then";

@@ -1,1 +1,1 @@
-var mnemonic = "help benefit moment away pond escape couch blur decade blame predict cushion";
+var mnemonic = "enroll never pioneer people orient naive debate eight train mind provide silly";

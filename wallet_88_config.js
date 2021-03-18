@@ -1,1 +1,1 @@
-var mnemonic = "bundle fish frost bridge web lyrics unusual always suit gate casual laptop";
+var mnemonic = "face analyst time toward inhale devote valve hidden sand bird velvet budget";

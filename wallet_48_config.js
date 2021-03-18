@@ -1,1 +1,1 @@
-var mnemonic = "october identify tell exact step fork tower foil remove drama enrich adapt";
+var mnemonic = "early deposit card urban hub artist give drum mention rate middle magnet";

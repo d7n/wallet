@@ -1,1 +1,1 @@
-var mnemonic = "cream afford aware seat magnet random shove loan ecology punch stamp display";
+var mnemonic = "burst afraid tribe skirt kidney dizzy child detect cook fly snap unable";

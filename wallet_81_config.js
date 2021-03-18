@@ -1,1 +1,1 @@
-var mnemonic = "lobster sign print harvest stamp girl weird bike profit skin month there";
+var mnemonic = "asthma depart crazy wolf void almost loop right rubber daring arrow multiply";

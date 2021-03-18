@@ -1,1 +1,1 @@
-var mnemonic = "slow goose walnut fitness tape provide icon swarm pear section area core";
+var mnemonic = "become cherry utility vessel child pistol sell west toilet comic alpha juice";

@@ -1,1 +1,1 @@
-var mnemonic = "corn luggage nominee tube wire staff slice joke lumber patch nasty spoon";
+var mnemonic = "check welcome jelly divorce filter behind coffee captain friend vague blur topple";

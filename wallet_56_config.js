@@ -1,1 +1,1 @@
-var mnemonic = "movie shine annual engine column bronze shoe blood gain keen minimum blur";
+var mnemonic = "opinion taxi focus wide soldier song outer element grow urban squeeze market";

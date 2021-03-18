@@ -1,1 +1,1 @@
-var mnemonic = "process this blade length frozen feed fish hint outdoor that foot gentle";
+var mnemonic = "junior danger space struggle flush goddess derive boring play utility snake fossil";

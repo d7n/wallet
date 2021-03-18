@@ -1,1 +1,1 @@
-var mnemonic = "correct clown supreme coil powder argue neglect morning blush they tenant resemble";
+var mnemonic = "famous pattern critic chuckle boat extra toe limit print tonight anchor patch";

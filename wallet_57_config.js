@@ -1,1 +1,1 @@
-var mnemonic = "secret receive body lake staff glare parade name document treat hurdle green";
+var mnemonic = "recycle sadness sibling tomato salad dust cream garment youth sword hamster lab";

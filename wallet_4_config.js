@@ -1,1 +1,1 @@
-var mnemonic = "crisp shoulder merry cable pen reunion village box cousin rifle broken decade";
+var mnemonic = "curious indicate hello merge rotate favorite happy sign material vehicle people size";

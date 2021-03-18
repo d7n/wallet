@@ -1,1 +1,1 @@
-var mnemonic = "key link cousin lizard void goose deputy trap wait demand scene hold";
+var mnemonic = "climb real pond chest couch vocal skate guitar asthma riot parent vacant";

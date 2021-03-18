@@ -1,1 +1,1 @@
-var mnemonic = "blade swallow excuse member year tool tag danger wise salt voyage silent";
+var mnemonic = "core squirrel possible fortune easy feed meadow hood cupboard gauge another okay";

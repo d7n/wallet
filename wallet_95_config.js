@@ -1,1 +1,1 @@
-var mnemonic = "choose cave shadow alert moon ankle dice melody clerk toddler latin oyster";
+var mnemonic = "crime toward smile fossil much merge relief bachelor bicycle denial shock live";

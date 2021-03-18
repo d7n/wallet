@@ -1,1 +1,1 @@
-var mnemonic = "hard dance grit giant soft impact about city illness enter worry silly";
+var mnemonic = "brain trim maple cool nation blind dynamic chief minute dawn style cash";

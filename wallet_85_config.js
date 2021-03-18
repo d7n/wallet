@@ -1,1 +1,1 @@
-var mnemonic = "course bus quantum amount wealth tattoo sun derive dad remember kind divide";
+var mnemonic = "response industry describe place seek network thank nut bus recipe fatigue salt";

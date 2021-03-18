@@ -1,1 +1,1 @@
-var mnemonic = "tape thunder office anger side finish north absurd sorry patrol match bullet";
+var mnemonic = "mimic solar return ensure wild medal uncover child october gift link upset";

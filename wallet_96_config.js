@@ -1,1 +1,1 @@
-var mnemonic = "deny bid cool evoke steak online fiscal harvest pitch round hello satisfy";
+var mnemonic = "pelican access force wool world group paddle credit spring focus ribbon tongue";

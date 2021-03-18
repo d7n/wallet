@@ -1,1 +1,1 @@
-var mnemonic = "ask angry industry soon man social shy tornado hello review deny sun";
+var mnemonic = "dismiss grace body client goose answer copy damp toy gravity tape little";

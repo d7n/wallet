@@ -1,1 +1,1 @@
-var mnemonic = "mouse giraffe fly combine fire earth nation ceiling cushion figure hidden install";
+var mnemonic = "bike resource kid remind setup chaos deposit liar awkward hidden blast convince";

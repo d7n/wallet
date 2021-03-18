@@ -1,1 +1,1 @@
-var mnemonic = "face riot long clock skirt there raise pulse kind immune embody curtain";
+var mnemonic = "speak actual hard tip wood plunge before wolf trophy clay have deer";

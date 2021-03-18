@@ -1,1 +1,1 @@
-var mnemonic = "client faint address region income window panel company must kick burden design";
+var mnemonic = "car concert nominee vast cradle action achieve obscure sting deer attitude drill";

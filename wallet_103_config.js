@@ -1,1 +1,1 @@
-var mnemonic = "sail muffin indoor paddle during success afraid supply infant guilt enlist edit";
+var mnemonic = "forget salt actor ability tip child panel toe travel odor scout glove";

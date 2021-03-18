@@ -1,1 +1,1 @@
-var mnemonic = "shock man doll copy primary anxiety boat else replace clap village surprise";
+var mnemonic = "return blush term exhibit grant joy trouble syrup over zone exotic raccoon";

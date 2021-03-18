@@ -1,1 +1,1 @@
-var mnemonic = "leader accuse world drip despair door bread pudding undo butter please custom";
+var mnemonic = "lazy badge promote believe garment year desk guard nation half cover cliff";

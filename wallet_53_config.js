@@ -1,1 +1,1 @@
-var mnemonic = "spread expire normal size rug choice know oval poverty lens vessel bronze";
+var mnemonic = "cream afraid angle tuna husband able average relief endorse cupboard owner soon";

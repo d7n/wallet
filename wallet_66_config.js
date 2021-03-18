@@ -1,1 +1,1 @@
-var mnemonic = "curve outside where lawn liar universe paper blouse salute glimpse setup ride";
+var mnemonic = "gloom narrow sleep comfort salmon neglect snap series enhance error carpet level";

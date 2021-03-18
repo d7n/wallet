@@ -1,1 +1,1 @@
-var mnemonic = "coast ostrich solar enroll mention mimic remain dash cancel furnace domain timber";
+var mnemonic = "path hurt peasant army divide bounce aerobic error success scrub ready fresh";

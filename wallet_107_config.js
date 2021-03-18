@@ -1,1 +1,1 @@
-var mnemonic = "april sphere glow twelve trick family foam jar kingdom regret napkin dinosaur";
+var mnemonic = "property gather catch exclude critic patch walk zero sting next slow stove";

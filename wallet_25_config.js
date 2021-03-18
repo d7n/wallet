@@ -1,1 +1,1 @@
-var mnemonic = "matrix rain proof ocean task fragile diary glide either seat door virus";
+var mnemonic = "enroll slot submit grain nice width cheese victory pink boat artefact once";

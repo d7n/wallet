@@ -1,1 +1,1 @@
-var mnemonic = "purse sail problem merge nuclear coil dad civil rhythm liberty vague glad";
+var mnemonic = "swallow point faith theme chalk breeze casino reflect immense ivory napkin lesson";

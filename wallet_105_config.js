@@ -1,1 +1,1 @@
-var mnemonic = "chef vicious water napkin edit gentle advice across cherry amateur glass average";
+var mnemonic = "lamp wear echo mechanic security sheriff uncle okay often tissue nerve sun";
