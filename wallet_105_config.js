@@ -1,1 +1,1 @@
-var mnemonic = "crater potato olympic foster law hurry project flavor target marine artefact trust";
+var mnemonic = "between huge flush river venture stay million program lizard message street toward";

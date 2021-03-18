@@ -1,1 +1,1 @@
-var mnemonic = "bright super first position peanut surface climb salt cause decrease obvious time";
+var mnemonic = "mystery lawsuit skill process science lecture simple board orbit wave lock joy";

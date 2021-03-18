@@ -1,1 +1,1 @@
-var mnemonic = "arctic frown cannon zone ecology bitter april afford senior snow place project";
+var mnemonic = "clarify match camp ivory light marble open gap kind room cost build";

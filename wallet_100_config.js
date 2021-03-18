@@ -1,1 +1,1 @@
-var mnemonic = "angle tube hope metal sort mix fit always gown custom fall again";
+var mnemonic = "tree project detail field kiss doctor liquid stove explain enrich normal tilt";

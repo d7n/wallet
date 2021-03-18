@@ -1,1 +1,1 @@
-var mnemonic = "flock shock deal divide answer fashion small voyage uphold bonus abandon slogan";
+var mnemonic = "asthma install naive vast cool surprise able erupt expand common foil opinion";

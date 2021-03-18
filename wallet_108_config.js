@@ -1,1 +1,1 @@
-var mnemonic = "normal month have orange vibrant leopard apart envelope avoid nation impose solution";
+var mnemonic = "sting merit budget reunion dune dumb civil pyramid swallow civil hair neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk there equip ivory accuse catalog used vicious tent tank blast access";
+var mnemonic = "health unlock bundle extra miracle ready tuition finish elevator man camera detail";

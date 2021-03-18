@@ -1,1 +1,1 @@
-var mnemonic = "awful smart comfort rich eye subway share noble rice kitchen tray kite";
+var mnemonic = "work rotate season apology any sponsor pause dutch able figure please trip";

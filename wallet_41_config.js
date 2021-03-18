@@ -1,1 +1,1 @@
-var mnemonic = "chimney fruit globe pledge deposit film vintage process unhappy install toy aspect";
+var mnemonic = "equal iron evolve clap genuine yellow safe proud verb wine float garlic";

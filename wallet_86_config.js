@@ -1,1 +1,1 @@
-var mnemonic = "web blush enrich phone happy soon assault whale oval blanket spike hero";
+var mnemonic = "junk beef wine enroll clutch history attend gun wool manual caught nature";

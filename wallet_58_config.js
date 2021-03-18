@@ -1,1 +1,1 @@
-var mnemonic = "little soap skate kiss pulse topple ride tomorrow divorce submit opinion faculty";
+var mnemonic = "rib asset vault recall churn safe maple throw sausage bitter family address";

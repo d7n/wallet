@@ -1,1 +1,1 @@
-var mnemonic = "silk boring pet one crisp lemon daring piece cigar party mechanic ginger";
+var mnemonic = "cause receive debris earth jacket project police zone dentist maze solar morning";

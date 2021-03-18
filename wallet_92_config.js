@@ -1,1 +1,1 @@
-var mnemonic = "adult pigeon sunny video core home drift blanket duty armed tell tortoise";
+var mnemonic = "snack short rail grape jazz era blade kick decrease exclude refuse box";

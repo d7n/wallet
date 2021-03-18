@@ -1,1 +1,1 @@
-var mnemonic = "forest seed race idea real enact core figure clinic filter calm strategy";
+var mnemonic = "quick hurdle abuse boy virus talk orphan orange boil depend march put";

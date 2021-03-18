@@ -1,1 +1,1 @@
-var mnemonic = "kingdom feel cage life cash crucial lake task oval random autumn faculty";
+var mnemonic = "arrive comic faith ready hunt sausage pet leader forest knee mistake laptop";

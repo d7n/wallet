@@ -1,1 +1,1 @@
-var mnemonic = "whale field weather nuclear under snow evolve castle purse repeat wise satisfy";
+var mnemonic = "field thought donkey cart gauge keen minor addict orange west view brave";

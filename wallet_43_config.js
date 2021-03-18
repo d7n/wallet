@@ -1,1 +1,1 @@
-var mnemonic = "proof casino enhance maximum method boring lecture leg gather action team elephant";
+var mnemonic = "lounge rain brass novel volume bottom average hat employ clever ball clock";

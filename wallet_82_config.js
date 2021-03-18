@@ -1,1 +1,1 @@
-var mnemonic = "milk toddler stomach pencil street alert pulse normal illegal future exist amount";
+var mnemonic = "crack peanut guitar siren multiply return invest captain bracket depth lunch side";

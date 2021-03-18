@@ -1,1 +1,1 @@
-var mnemonic = "key educate click evidence more punch vote lottery verify insane pause gravity";
+var mnemonic = "nasty order smooth defy sunny air rubber peanut liar capable best make";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild hub word clog lawsuit glue health orient tone bulk unknown mistake";
+var mnemonic = "brief cheap system antique frame edge brass law exchange ignore just agent";

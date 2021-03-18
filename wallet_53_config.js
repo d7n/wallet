@@ -1,1 +1,1 @@
-var mnemonic = "result health police tomorrow scrap arrow wolf only large team carry ordinary";
+var mnemonic = "phrase boss stairs left game afford crush attend suggest today all cloth";

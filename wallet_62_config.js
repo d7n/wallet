@@ -1,1 +1,1 @@
-var mnemonic = "organ crumble present regret glimpse toss ring ridge embrace enable duck usual";
+var mnemonic = "success total saddle clump ranch coconut leader chief minute notable audit frog";

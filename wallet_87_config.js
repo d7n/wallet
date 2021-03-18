@@ -1,1 +1,1 @@
-var mnemonic = "gain raw fan gown eye ozone symbol tell mean twist dragon vocal";
+var mnemonic = "slam speed execute foot vehicle decide oyster foil limit tumble unaware success";

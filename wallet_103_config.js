@@ -1,1 +1,1 @@
-var mnemonic = "fan vote endless surround beauty trip erode forum win cradle skull noble";
+var mnemonic = "month exchange acoustic damp tornado deputy first obtain emotion cube two episode";

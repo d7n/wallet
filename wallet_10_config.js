@@ -1,1 +1,1 @@
-var mnemonic = "ahead bicycle pitch cloth clinic artist end make sing axis sunset obscure";
+var mnemonic = "budget sense coconut tape affair steak rival cycle gospel toddler thrive spin";

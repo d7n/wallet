@@ -1,1 +1,1 @@
-var mnemonic = "october canyon reward empty day misery source sustain there that faculty pigeon";
+var mnemonic = "sadness figure glimpse anger auction hundred custom solar invite stereo hole speak";

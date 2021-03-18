@@ -1,1 +1,1 @@
-var mnemonic = "glow gravity soldier arrow borrow lounge daughter column rude wrong suspect suspect";
+var mnemonic = "theme love pink advice champion uphold mass edit detail puzzle couple chronic";

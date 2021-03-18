@@ -1,1 +1,1 @@
-var mnemonic = "fabric radar scissors humble keen client picnic disorder plunge body jazz cotton";
+var mnemonic = "fatigue minor business cruise tragic broom limit poem produce alpha butter cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "subject talk pudding mixed strategy cruise leopard recipe suffer fine copper right";
+var mnemonic = "palm boring chase life boil thunder saddle invest position razor empty carbon";

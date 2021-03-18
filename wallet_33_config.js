@@ -1,1 +1,1 @@
-var mnemonic = "rescue luggage awake post ride second deny word sail once close city";
+var mnemonic = "knock envelope multiply kitchen quantum fan wheat rapid judge river stem extend";

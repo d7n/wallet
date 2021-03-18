@@ -1,1 +1,1 @@
-var mnemonic = "ramp motion board bike ethics timber settle legend middle order expire market";
+var mnemonic = "sing orange scissors fatal arrive layer essence burden fantasy chat hollow kiss";

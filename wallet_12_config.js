@@ -1,1 +1,1 @@
-var mnemonic = "evolve divide river uphold guess glue actor head danger obscure cushion museum";
+var mnemonic = "exist uphold mixture inner case crater win other vicious cricket glad security";

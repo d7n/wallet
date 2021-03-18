@@ -1,1 +1,1 @@
-var mnemonic = "asthma snake spatial review theory ecology island jump unfold amateur there laugh";
+var mnemonic = "coyote frog into popular argue price elevator gallery income duck detail match";

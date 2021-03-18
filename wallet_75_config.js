@@ -1,1 +1,1 @@
-var mnemonic = "hazard repeat report fringe bird library yellow border conduct expand decade furnace";
+var mnemonic = "more goddess melody embark stamp enhance soul power fashion abuse crack praise";

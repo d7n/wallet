@@ -1,1 +1,1 @@
-var mnemonic = "baby tomorrow educate chronic traffic globe undo roast spell right demand hero";
+var mnemonic = "naive march aisle math disorder rapid car ghost update female climb dress";

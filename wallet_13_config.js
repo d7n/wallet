@@ -1,1 +1,1 @@
-var mnemonic = "napkin various sphere cross crush tackle typical whale power jazz ball surface";
+var mnemonic = "crunch kite congress destroy chronic crunch slight kid ridge slogan enroll height";

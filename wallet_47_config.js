@@ -1,1 +1,1 @@
-var mnemonic = "about champion street forward mandate tent young sniff advice dish spring orphan";
+var mnemonic = "shed dirt legend begin credit resource peace soft alone crazy guilt plunge";

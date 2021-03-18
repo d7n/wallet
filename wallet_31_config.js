@@ -1,1 +1,1 @@
-var mnemonic = "fence woman wait region keep grid route lounge medal random team man";
+var mnemonic = "cart inflict intact sick party tongue pattern depend boss marble detail song";

@@ -1,1 +1,1 @@
-var mnemonic = "engine ripple turn cancel fortune prepare atom sunny chaos rebel ten crew";
+var mnemonic = "two start elite response again rival auto tip extend wasp cruel awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "panic middle opinion deliver whisper rose genius acquire violin hungry improve black";
+var mnemonic = "city kiss treat pumpkin artist anger elbow trash ancient various clutch stomach";

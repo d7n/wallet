@@ -1,1 +1,1 @@
-var mnemonic = "fatal define under ethics waste round return current craft various miss payment";
+var mnemonic = "warfare swim hunt tool protect jeans repeat bracket later enough convince oppose";

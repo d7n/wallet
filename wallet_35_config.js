@@ -1,1 +1,1 @@
-var mnemonic = "essence ethics volume agent bicycle into enable method giggle alley loud ridge";
+var mnemonic = "bronze during erode agent rubber paper replace involve hungry abstract problem team";

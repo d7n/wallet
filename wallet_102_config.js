@@ -1,1 +1,1 @@
-var mnemonic = "cancel leg wheel kitchen all tool display leader bunker spray pen shadow";
+var mnemonic = "advance phrase govern trigger world salad subway music hen barely prepare circle";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow spike asthma glory bomb tenant banner various silk spray term mother";
+var mnemonic = "collect chase dilemma become fit pistol film renew canvas rubber portion number";

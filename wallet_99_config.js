@@ -1,1 +1,1 @@
-var mnemonic = "glide adult mountain sock stove category forum amateur tiny coin panel vague";
+var mnemonic = "help chalk trophy kid order blade debate hawk nothing balcony law twenty";

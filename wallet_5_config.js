@@ -1,1 +1,1 @@
-var mnemonic = "force borrow century shrimp protect deny stock give result frozen coral blossom";
+var mnemonic = "lend still vague habit jelly blind puzzle kiwi right paper brick velvet";

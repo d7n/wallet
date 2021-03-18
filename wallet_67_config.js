@@ -1,1 +1,1 @@
-var mnemonic = "assault penalty entire illegal gym critic return virtual flash age energy wool";
+var mnemonic = "salad input mystery increase flame hidden direct leisure course boat divide attitude";

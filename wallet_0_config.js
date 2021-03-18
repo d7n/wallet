@@ -1,1 +1,1 @@
-var mnemonic = "brave flavor render special alien unfair hurt about blue strong slim involve";
+var mnemonic = "tilt tool senior title inform tube hundred suffer bridge learn sort car";

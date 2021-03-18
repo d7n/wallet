@@ -1,1 +1,1 @@
-var mnemonic = "receive because canal damage current anchor success vacant abandon climb body false";
+var mnemonic = "make state police buyer tower joke yellow oppose proud destroy guess season";

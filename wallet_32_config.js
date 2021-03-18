@@ -1,1 +1,1 @@
-var mnemonic = "auto conduct fever large exotic gas before decrease art canal wish genre";
+var mnemonic = "afraid file snap alarm girl betray plate umbrella shrug bless raise rib";

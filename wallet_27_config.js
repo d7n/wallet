@@ -1,1 +1,1 @@
-var mnemonic = "try biology jump goddess jacket very artwork sound ignore volcano glory globe";
+var mnemonic = "track enrich sea ball notable surge subway adjust capable yard hamster angle";

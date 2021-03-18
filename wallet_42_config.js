@@ -1,1 +1,1 @@
-var mnemonic = "estate sheriff uncover tonight skate steel sphere series palm reveal ceiling butter";
+var mnemonic = "public exercise network include loop consider capable now hole pony duck bunker";

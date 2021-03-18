@@ -1,1 +1,1 @@
-var mnemonic = "melody film verify silent bone tent shaft series weasel flock future dish";
+var mnemonic = "scare above case borrow excess vault manage green soldier expire unhappy donor";

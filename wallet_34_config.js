@@ -1,1 +1,1 @@
-var mnemonic = "cheese trust eternal mosquito lecture act salute coffee ability wise gift teach";
+var mnemonic = "inmate uphold have scrap provide method pepper floor hen charge ethics wonder";

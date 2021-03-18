@@ -1,1 +1,1 @@
-var mnemonic = "put wish traffic seminar rural digital crazy kite divert girl carbon because";
+var mnemonic = "scout muffin walk short purity seek trend heavy ladder hold multiply squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle traffic call about drama digital feature lunch throw jar chief duty";
+var mnemonic = "test clump leader entry easy advance retire involve climb welcome envelope banner";

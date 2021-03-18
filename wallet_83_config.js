@@ -1,1 +1,1 @@
-var mnemonic = "saddle oxygen narrow now write hungry ready morning tattoo safe keen trumpet";
+var mnemonic = "eight measure stuff bonus undo pizza army flash toddler special slice discover";

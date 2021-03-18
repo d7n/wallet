@@ -1,1 +1,1 @@
-var mnemonic = "few trash august horror copper pledge punch find marble impact cabbage air";
+var mnemonic = "rocket riot riot misery exchange finger cover era river kitchen absorb give";

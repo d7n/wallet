@@ -1,1 +1,1 @@
-var mnemonic = "over bean will path illness trim town gain twice travel daughter tackle";
+var mnemonic = "connect favorite chuckle prevent today question arrive tone alien because museum core";

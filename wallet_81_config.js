@@ -1,1 +1,1 @@
-var mnemonic = "upset change negative legend about code coyote rotate tree pluck pencil unique";
+var mnemonic = "turkey march drama wheat tomorrow birth luxury script cheese trust dawn stone";

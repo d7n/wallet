@@ -1,1 +1,1 @@
-var mnemonic = "legend young damp north birth smoke blanket element ramp wait now apart";
+var mnemonic = "black garlic payment taxi become enrich all language divert kit pilot total";

@@ -1,1 +1,1 @@
-var mnemonic = "arena turn remove bamboo whale hair arrange wave stone search honey slice";
+var mnemonic = "tell napkin miracle license elbow parent rude shuffle fury simple insect topple";

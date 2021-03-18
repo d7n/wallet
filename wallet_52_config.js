@@ -1,1 +1,1 @@
-var mnemonic = "wire seek earn six later pen run case eager want thing together";
+var mnemonic = "upon nose library elevator recycle table sad rally neglect garlic post kitten";

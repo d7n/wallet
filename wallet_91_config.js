@@ -1,1 +1,1 @@
-var mnemonic = "potato tank iron maze seat athlete knife alien bomb favorite early topic";
+var mnemonic = "aunt toe legal vocal stumble elbow eagle detail soft priority shoe debris";

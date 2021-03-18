@@ -1,1 +1,1 @@
-var mnemonic = "boss book flower tuna raise client alpha pony tell buyer rapid fun";
+var mnemonic = "mesh knife edge trim brief element bike what cotton crowd glass broom";

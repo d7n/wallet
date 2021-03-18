@@ -1,1 +1,1 @@
-var mnemonic = "require aerobic axis awesome few media silk jacket once explain option tired";
+var mnemonic = "leader pave drop nephew traffic trust desk penalty shaft invite solid differ";

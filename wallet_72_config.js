@@ -1,1 +1,1 @@
-var mnemonic = "say ladder jungle series unusual pitch spread spray target dress reject random";
+var mnemonic = "update monster journey sunny today surround level clock torch dinner apple step";

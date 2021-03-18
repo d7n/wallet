@@ -1,1 +1,1 @@
-var mnemonic = "age supreme civil plate picture lamp copy clock finish tide radar random";
+var mnemonic = "inquiry divorce keep fee predict angry salmon earn blast meadow liquid obscure";

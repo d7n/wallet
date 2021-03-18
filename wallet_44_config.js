@@ -1,1 +1,1 @@
-var mnemonic = "tiny slush creek hub buzz sell spin defy street total laptop sand";
+var mnemonic = "divorce hold wash shallow ozone very slim journey cupboard vibrant awkward magic";

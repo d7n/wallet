@@ -1,1 +1,1 @@
-var mnemonic = "ability admit seed jewel vacant tilt wedding brown nurse cup betray exact";
+var mnemonic = "broom cotton canvas insect ribbon dinosaur shrimp physical ready ramp arrest stairs";

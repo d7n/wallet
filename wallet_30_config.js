@@ -1,1 +1,1 @@
-var mnemonic = "bounce brain extend bike wait soul identify ranch trust civil mistake help";
+var mnemonic = "width inherit resource riot live harbor regret major tray transfer group sugar";

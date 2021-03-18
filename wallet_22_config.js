@@ -1,1 +1,1 @@
-var mnemonic = "deny fringe proof coach female witness west receive crisp girl dynamic confirm";
+var mnemonic = "rubber nose lumber pact rail aspect clock dynamic medal april rescue drift";

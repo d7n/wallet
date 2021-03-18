@@ -1,1 +1,1 @@
-var mnemonic = "retreat curious matter ready empty sad panic tube oval maze toe farm";
+var mnemonic = "misery desk cactus opinion sport enroll again cliff able tent hungry pony";

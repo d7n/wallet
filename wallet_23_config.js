@@ -1,1 +1,1 @@
-var mnemonic = "snack desert eagle shadow just fun nerve shock path pelican damp letter";
+var mnemonic = "cycle they jar copy shock crazy culture mystery swift myself dawn harvest";

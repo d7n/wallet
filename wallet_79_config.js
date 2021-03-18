@@ -1,1 +1,1 @@
-var mnemonic = "already daughter gossip current expect analyst away endless oblige episode crumble visa";
+var mnemonic = "energy random label vintage crouch topple junk sniff hill acquire language rocket";

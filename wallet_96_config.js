@@ -1,1 +1,1 @@
-var mnemonic = "scissors crouch bar wide raven bargain garlic wash sell trend embody museum";
+var mnemonic = "attack old arctic stool brave boring front merge suggest rather income federal";

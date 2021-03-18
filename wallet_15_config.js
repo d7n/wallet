@@ -1,1 +1,1 @@
-var mnemonic = "sea daring dream impulse robot palace field heavy mammal cattle orbit actual";
+var mnemonic = "expire waste just inmate segment clay jump express time kiss brand middle";

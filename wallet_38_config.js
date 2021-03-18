@@ -1,1 +1,1 @@
-var mnemonic = "ankle argue quality topple join elder weapon video improve turn candy general";
+var mnemonic = "pave step wise hint net crystal gym tomorrow visit place rhythm lava";

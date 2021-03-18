@@ -1,1 +1,1 @@
-var mnemonic = "lunch laundry pupil embody tool still image tip edit mosquito symbol recipe";
+var mnemonic = "black blouse device garbage cake burger fury certain rescue angle mail century";

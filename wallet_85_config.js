@@ -1,1 +1,1 @@
-var mnemonic = "drama edit unlock cradle interest oil thrive army alert thumb resource kite";
+var mnemonic = "entire erosion shine truly waste choose promote grit guess detect afraid cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "before object estate rare pledge slow grant monitor general length name blood";
+var mnemonic = "empty harvest image stage vague emotion tonight hospital picture crystal mind elder";

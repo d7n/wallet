@@ -1,1 +1,1 @@
-var mnemonic = "lady future area trade total aware lawn drift friend order opera ordinary";
+var mnemonic = "similar win derive easy execute bench slim brush fantasy machine frame view";

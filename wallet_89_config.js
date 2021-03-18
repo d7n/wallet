@@ -1,1 +1,1 @@
-var mnemonic = "cancel chimney fuel marine estate switch exercise seminar bachelor desert cute furnace";
+var mnemonic = "review bonus attitude snap wolf soul cruise mountain creek matrix device absorb";

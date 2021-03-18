@@ -1,1 +1,1 @@
-var mnemonic = "glance error blood antenna service disorder devote betray payment kiss hub coach";
+var mnemonic = "aspect basic sort tag staff during execute silver scatter elegant insane spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "space between brief wrist tribe orient inquiry fee erode hello around edge";
+var mnemonic = "mouse indoor blue young shy chaos amused mention foot dose crane harbor";

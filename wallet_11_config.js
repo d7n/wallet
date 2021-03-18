@@ -1,1 +1,1 @@
-var mnemonic = "fatigue pioneer mention bind balcony false spoon wave clinic diamond seminar slab";
+var mnemonic = "alpha album smart bench tonight assume century spin human act process salute";

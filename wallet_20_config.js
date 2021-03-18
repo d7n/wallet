@@ -1,1 +1,1 @@
-var mnemonic = "blade gather state alert black chicken city author camera drop expose hello";
+var mnemonic = "scissors carry produce today fish supreme motion thumb school utility figure foot";

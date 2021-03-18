@@ -1,1 +1,1 @@
-var mnemonic = "genuine basic start clever unaware jazz century spawn salute belt shoe service";
+var mnemonic = "great enter client acoustic tattoo protect best fan entire turn observe universe";

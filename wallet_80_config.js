@@ -1,1 +1,1 @@
-var mnemonic = "cargo ramp cloth diet rule cancel floor rocket party task ostrich fringe";
+var mnemonic = "lazy robot father undo business winter mass equal maid maple grit voice";

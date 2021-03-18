@@ -1,1 +1,1 @@
-var mnemonic = "arrive divorce soldier express lyrics noise arrow capable broken clip section evidence";
+var mnemonic = "bone clap glare sample taste hurry ketchup antique elegant cup miss siren";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet blood squirrel cash lamp success learn amazing ethics unable fly avocado";
+var mnemonic = "stone diagram length tornado another blind setup toy auto mammal identify sleep";

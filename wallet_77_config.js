@@ -1,1 +1,1 @@
-var mnemonic = "boring famous spoil harbor inner protect ill arrive apart try choose ask";
+var mnemonic = "title pelican middle arm nasty spawn spawn off main cargo soul globe";
