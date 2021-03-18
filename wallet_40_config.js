@@ -1,1 +1,1 @@
-var mnemonic = "lock across series better reason suffer pole soul behind estate rebel above";
+var mnemonic = "snake already awkward laundry remain hint buffalo attend desk rhythm mass renew";

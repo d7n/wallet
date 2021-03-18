@@ -1,1 +1,1 @@
-var mnemonic = "evidence enforce spend pave fatal vivid pass clap entry wrestle sea mercy";
+var mnemonic = "day vault original render code tuition slight source all detail total bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "element cactus step noodle ride cute tunnel frog double claim hotel legend";
+var mnemonic = "bless fun eye young fade couple penalty indicate page ribbon salon shoe";

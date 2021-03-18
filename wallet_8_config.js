@@ -1,1 +1,1 @@
-var mnemonic = "pond ivory radar public task remember ball scan hybrid update ill uncover";
+var mnemonic = "success basic affair virtual flame elegant rude derive cabbage fever control flat";

@@ -1,1 +1,1 @@
-var mnemonic = "range devote jungle advice adjust primary month excess horror thumb silent thing";
+var mnemonic = "bring rabbit legend hill slogan attitude enact horn annual special pole stove";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale section crew decide connect canal dress kite receive crawl census loud";
+var mnemonic = "upset diagram save syrup slim envelope still auction front thought tonight raven";

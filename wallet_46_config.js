@@ -1,1 +1,1 @@
-var mnemonic = "two uncle remain this arena actor dwarf ready wage remember steel add";
+var mnemonic = "omit aerobic battle sail embark road pottery craft birth buddy idle flock";

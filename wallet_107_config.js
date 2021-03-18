@@ -1,1 +1,1 @@
-var mnemonic = "say weird peanut hire design result opera kite remind abandon music hub";
+var mnemonic = "note inmate sport core finger because stay identify frog runway quiz city";

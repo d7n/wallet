@@ -1,1 +1,1 @@
-var mnemonic = "day extra clarify enlist local injury river until million license exhibit net";
+var mnemonic = "torch dream hip lizard claim smooth shiver enjoy gain access lock boil";

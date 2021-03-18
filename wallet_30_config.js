@@ -1,1 +1,1 @@
-var mnemonic = "tumble mandate neither outdoor corn shed broom rich prosper ramp planet curious";
+var mnemonic = "hope security castle below rocket edge method popular erupt art poverty calm";

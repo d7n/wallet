@@ -1,1 +1,1 @@
-var mnemonic = "enjoy local crazy release reason detail dirt notice october box bleak curious";
+var mnemonic = "risk multiply radio maid artefact two cube beauty exhibit ecology canoe pen";

@@ -1,1 +1,1 @@
-var mnemonic = "audit excite section gadget draw cigar banner beef soft harbor people switch";
+var mnemonic = "pottery gaze shoulder arrow rocket rally deposit tongue acid this divide range";

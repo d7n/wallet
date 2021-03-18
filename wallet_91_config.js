@@ -1,1 +1,1 @@
-var mnemonic = "suggest cluster draft spring bargain umbrella father pattern behind life spirit input";
+var mnemonic = "riot danger method usual destroy clinic thank bread salmon stuff hello exact";

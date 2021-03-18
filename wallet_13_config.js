@@ -1,1 +1,1 @@
-var mnemonic = "milk oppose birth viable nuclear prevent raccoon defy penalty grant lunar devote";
+var mnemonic = "find dwarf cousin erupt fame disorder abstract custom educate always indicate movie";

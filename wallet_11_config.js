@@ -1,1 +1,1 @@
-var mnemonic = "model two deputy domain evidence dawn phone other spring echo rather rocket";
+var mnemonic = "pact bullet seed under crash poem message arrest pigeon dose uphold bench";

@@ -1,1 +1,1 @@
-var mnemonic = "december lucky name later jelly have place flash result color girl predict";
+var mnemonic = "core clump confirm oppose quick vanish ghost usage spell warrior pelican refuse";

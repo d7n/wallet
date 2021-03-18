@@ -1,1 +1,1 @@
-var mnemonic = "else identify among steak actress second example grant angle way acid world";
+var mnemonic = "pool hen ocean promote pluck either prefer exile dilemma winter scheme bless";

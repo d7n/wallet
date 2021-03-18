@@ -1,1 +1,1 @@
-var mnemonic = "pencil gather live episode culture february soon once lend fun bleak legal";
+var mnemonic = "deposit stereo donate cycle half scheme eyebrow around half worry spring camp";

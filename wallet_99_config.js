@@ -1,1 +1,1 @@
-var mnemonic = "flee cluster rate hero assault edge domain misery curious unfold produce aware";
+var mnemonic = "fit basic brother juice kingdom change frozen copy basic fade blind typical";

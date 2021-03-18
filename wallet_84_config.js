@@ -1,1 +1,1 @@
-var mnemonic = "pet segment attend sense afraid window load miss same target silly rapid";
+var mnemonic = "final sleep catalog tunnel amazing almost logic clean grain print avoid sight";

@@ -1,1 +1,1 @@
-var mnemonic = "split conduct practice insect fence crush rule start ignore innocent lift then";
+var mnemonic = "battle polar orange dutch blood soon alert media spring rookie auto oxygen";

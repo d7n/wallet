@@ -1,1 +1,1 @@
-var mnemonic = "van hour squirrel bronze nature vote siren skate abuse key disorder proof";
+var mnemonic = "young oblige trend plug never major bridge build broken sample dumb misery";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli sister hungry cloth blanket size snack fine deer type ticket wolf";
+var mnemonic = "stumble drink equal detail snake vault little blur bomb rent catch vote";

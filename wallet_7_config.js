@@ -1,1 +1,1 @@
-var mnemonic = "predict harsh crane neck yellow congress moral since clog tobacco ladder vague";
+var mnemonic = "student insane dial until ancient catalog dwarf soccer toy lesson quiz noble";

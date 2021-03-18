@@ -1,1 +1,1 @@
-var mnemonic = "suit gate soda sphere away weather visit base snack alone call chuckle";
+var mnemonic = "urge butter squirrel real method cheap layer caution give cost glare sport";

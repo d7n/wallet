@@ -1,1 +1,1 @@
-var mnemonic = "spoil catch tiger palm joy actress body upon agree movie genuine enter";
+var mnemonic = "west neglect vital hope science humor clinic depth burger spawn absurd plate";

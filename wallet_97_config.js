@@ -1,1 +1,1 @@
-var mnemonic = "surprise correct doll motor charge unfold program orchard describe thunder panic demise";
+var mnemonic = "reward segment laugh wire come orange wood update agent rabbit violin volume";

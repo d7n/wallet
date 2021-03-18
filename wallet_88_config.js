@@ -1,1 +1,1 @@
-var mnemonic = "turkey turn spawn deny faith face guilt alien best same solar tuition";
+var mnemonic = "push sauce surface sand laugh quote entire energy ask mansion service base";

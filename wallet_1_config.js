@@ -1,1 +1,1 @@
-var mnemonic = "actor program double all another rebuild toward hero vast pony captain master";
+var mnemonic = "accident million hour romance sketch soap category weird obvious glad eyebrow mix";

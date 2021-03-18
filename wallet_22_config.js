@@ -1,1 +1,1 @@
-var mnemonic = "table breeze mimic update random pyramid milk punch satoshi metal sense behind";
+var mnemonic = "bomb brick limb cool pair desert flower door chair shield zoo walnut";

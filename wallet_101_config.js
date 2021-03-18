@@ -1,1 +1,1 @@
-var mnemonic = "shop theme ostrich frown fever kick diagram visa drip position pact raw";
+var mnemonic = "timber region vibrant drill burden muffin miracle garment fade violin reason system";

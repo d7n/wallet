@@ -1,1 +1,1 @@
-var mnemonic = "theme vacuum orange imitate marine order tree first alcohol valley when sell";
+var mnemonic = "front either exist gaze sustain skin speak finish lock multiply napkin obey";

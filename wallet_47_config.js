@@ -1,1 +1,1 @@
-var mnemonic = "eternal leisure flame theory rabbit major jealous unveil sunset inherit metal local";
+var mnemonic = "fiber process hello rapid sugar genius flat burst toilet romance tornado dog";

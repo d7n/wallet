@@ -1,1 +1,1 @@
-var mnemonic = "barely glass opinion reduce wall drift use betray stereo grief age fever";
+var mnemonic = "away merry dad twelve elephant cable rural simple seed asset total issue";

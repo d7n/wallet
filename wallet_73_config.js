@@ -1,1 +1,1 @@
-var mnemonic = "utility inside duty ribbon cup receive bubble sadness scene focus tired settle";
+var mnemonic = "raw page allow scare plug nasty license surround comfort sample column labor";

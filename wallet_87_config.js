@@ -1,1 +1,1 @@
-var mnemonic = "bean about fruit imitate forget setup sauce upon pelican oil umbrella shaft";
+var mnemonic = "shop sock produce more escape tube warrior buyer media theme evil floor";

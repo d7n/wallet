@@ -1,1 +1,1 @@
-var mnemonic = "giant install shop absurd network summer weekend doll rescue rude easily truth";
+var mnemonic = "renew army battle session junk movie sword image wise code evidence stone";

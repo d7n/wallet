@@ -1,1 +1,1 @@
-var mnemonic = "rely come orchard harbor dance lend monster wasp awkward crack check sad";
+var mnemonic = "wagon bonus deliver tomato liar weather since feed nothing solid inhale give";

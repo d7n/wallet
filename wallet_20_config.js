@@ -1,1 +1,1 @@
-var mnemonic = "trigger tunnel few company mountain wrong during trust obvious repair horror bullet";
+var mnemonic = "mammal oyster please bench ticket organ velvet vault hazard inside allow kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder adjust kick code rude sun forward sauce faint hat unfold prevent";
+var mnemonic = "piano fog repeat more curve genre item shift hip deputy chase bread";

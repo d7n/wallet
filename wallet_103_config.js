@@ -1,1 +1,1 @@
-var mnemonic = "culture replace biology decorate quarter rare finish chalk vapor faint harvest ghost";
+var mnemonic = "race miss match club forget lottery annual force slot pen ignore dragon";

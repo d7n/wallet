@@ -1,1 +1,1 @@
-var mnemonic = "century holiday shift walk sick fish age win stereo world song grocery";
+var mnemonic = "crisp pride analyst timber speed slush vault make rack unhappy fun despair";

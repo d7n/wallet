@@ -1,1 +1,1 @@
-var mnemonic = "combine climb soup cigar govern name salute cost distance civil desert indoor";
+var mnemonic = "season book mango forum exotic pass broom movie elephant olive identify unhappy";

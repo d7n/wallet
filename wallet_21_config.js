@@ -1,1 +1,1 @@
-var mnemonic = "until detail letter reduce bicycle public one quality rate client frame embark";
+var mnemonic = "ghost abandon sail intact frown brother lake subway entry sun hockey say";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity better heart found puzzle police fury match bundle broken ketchup plunge";
+var mnemonic = "situate oil embody debate range popular slab term parent uphold antenna need";

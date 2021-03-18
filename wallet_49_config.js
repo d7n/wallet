@@ -1,1 +1,1 @@
-var mnemonic = "trumpet glass ostrich fish hold math attend note truly tape what lift";
+var mnemonic = "army fortune elbow main bless goat drift harsh choose about winter entire";

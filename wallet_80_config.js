@@ -1,1 +1,1 @@
-var mnemonic = "play purse brisk range outer tiny friend viable clerk butter vicious vibrant";
+var mnemonic = "enhance asthma drive reopen push glass coast clock quick nasty hire trust";

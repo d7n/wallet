@@ -1,1 +1,1 @@
-var mnemonic = "try level train piano bird claw critic memory strike stage stone taxi";
+var mnemonic = "system invite walnut great weekend order file entire delay scout cube agree";

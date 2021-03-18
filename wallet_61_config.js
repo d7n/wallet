@@ -1,1 +1,1 @@
-var mnemonic = "people unaware scout regret test father glimpse public anchor slam certain pretty";
+var mnemonic = "answer tell tool profit memory call rail woman horse topic adult chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "entry candy staff february blast since afraid increase ugly found utility tray";
+var mnemonic = "twenty position theory verb during bounce tattoo city ensure picture galaxy horn";

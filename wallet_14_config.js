@@ -1,1 +1,1 @@
-var mnemonic = "charge sugar huge trade sweet photo entry tattoo popular shrimp actor rotate";
+var mnemonic = "across robust affair across glove joy multiply repeat test crazy convince march";

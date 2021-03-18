@@ -1,1 +1,1 @@
-var mnemonic = "broom man stay intact observe abuse cruise gorilla alter scan appear excite";
+var mnemonic = "timber six chaos donate where manual final jungle vocal also fun tip";

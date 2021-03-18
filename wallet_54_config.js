@@ -1,1 +1,1 @@
-var mnemonic = "jewel camp swamp seek hurt release hope silver already screen orange distance";
+var mnemonic = "pear frame century acquire display bonus humble seminar wink album brass saddle";

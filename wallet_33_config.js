@@ -1,1 +1,1 @@
-var mnemonic = "crouch involve rent brush metal moral flame weird weapon gesture already pistol";
+var mnemonic = "smooth into grit swamp balance belt praise pen margin super hurry journey";

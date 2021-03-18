@@ -1,1 +1,1 @@
-var mnemonic = "bottom always size casual joke enter visual sheriff hawk picnic country differ";
+var mnemonic = "combine merit draw rice summer tattoo dirt voyage culture treat talk knife";

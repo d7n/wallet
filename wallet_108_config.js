@@ -1,1 +1,1 @@
-var mnemonic = "jealous horn oxygen mouse depend sock rebel amused hedgehog paper ten best";
+var mnemonic = "imitate learn woman kiss ritual age sentence hat jaguar fence actual mom";

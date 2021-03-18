@@ -1,1 +1,1 @@
-var mnemonic = "fame toward leopard grain friend prosper load write plug acquire property regret";
+var mnemonic = "play pole crop moral quick clarify car wreck scrub belt dragon various";

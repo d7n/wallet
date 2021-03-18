@@ -1,1 +1,1 @@
-var mnemonic = "inner note derive scrub box royal width pyramid garden since child fantasy";
+var mnemonic = "guide gather someone donor expand safe parrot visa cousin cause tuna inject";

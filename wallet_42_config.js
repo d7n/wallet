@@ -1,1 +1,1 @@
-var mnemonic = "loop promote hand want orchard indoor easy garden enact language web admit";
+var mnemonic = "dog blind rice pool mirror vocal observe gauge latin vicious edge debris";

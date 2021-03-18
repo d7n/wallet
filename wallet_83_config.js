@@ -1,1 +1,1 @@
-var mnemonic = "erupt island ghost regular across skull toward fluid ask draw involve dutch";
+var mnemonic = "begin march about despair know virus cement acquire veteran faculty ice alley";

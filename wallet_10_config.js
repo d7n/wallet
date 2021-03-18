@@ -1,1 +1,1 @@
-var mnemonic = "mouse force deputy gorilla boat fury humble ahead toddler bachelor tunnel magnet";
+var mnemonic = "client pioneer once magnet scorpion daring deal huge control duty distance then";

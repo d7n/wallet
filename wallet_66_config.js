@@ -1,1 +1,1 @@
-var mnemonic = "liar purse depend minute reduce width know shrug panther enjoy banana biology";
+var mnemonic = "must hole volcano list curtain sketch alley mouse moral rich magnet skill";

@@ -1,1 +1,1 @@
-var mnemonic = "force knife gravity review add cheap tell convince rent planet pony syrup";
+var mnemonic = "issue claw renew lamp owner very loud grab link fuel chat soap";

@@ -1,1 +1,1 @@
-var mnemonic = "dash face cushion library reveal outdoor sniff spare arctic interest tenant rare";
+var mnemonic = "patrol foil harvest force tornado escape satisfy appear enroll because desert omit";

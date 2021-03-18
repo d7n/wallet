@@ -1,1 +1,1 @@
-var mnemonic = "idea celery fiscal mule evoke save sting reopen card husband riot find";
+var mnemonic = "staff crane silent elevator hammer push magnet core ritual kit thumb option";

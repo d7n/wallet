@@ -1,1 +1,1 @@
-var mnemonic = "zero hospital resource catch virus real model dawn vibrant urban inspire mirror";
+var mnemonic = "one they want dumb illegal void swallow story cruel rent seat bubble";

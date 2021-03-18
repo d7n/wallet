@@ -1,1 +1,1 @@
-var mnemonic = "wash lion token plate ensure vanish shove alcohol wrestle kite know paddle";
+var mnemonic = "cable salute tenant tenant earn sunset pudding segment august purity feed drip";

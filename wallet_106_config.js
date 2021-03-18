@@ -1,1 +1,1 @@
-var mnemonic = "method ahead person crowd abstract find satisfy hour security ethics try neck";
+var mnemonic = "perfect lazy virtual soccer two unaware obtain fiction ecology broken conduct gain";

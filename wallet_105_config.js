@@ -1,1 +1,1 @@
-var mnemonic = "puppy knock because jaguar airport much odor license income tuition return first";
+var mnemonic = "valley protect lawsuit unique gift cost betray tennis denial flock material canyon";

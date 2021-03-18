@@ -1,1 +1,1 @@
-var mnemonic = "swear step behind sister merge run fox love point orphan clown cash";
+var mnemonic = "surprise organ rotate wealth mix rifle destroy hover pen photo goddess quantum";

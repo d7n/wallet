@@ -1,1 +1,1 @@
-var mnemonic = "response usage wish miracle athlete appear picture occur relief paddle exhibit music";
+var mnemonic = "mango someone universe core network join will action camp machine seven quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "public sense comfort note glide message you squirrel isolate okay lobster join";
+var mnemonic = "crazy lucky message pitch airport awful tribe say sad inside again you";

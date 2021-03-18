@@ -1,1 +1,1 @@
-var mnemonic = "rabbit stand mandate diary erase cruise toast donkey puzzle meadow mean panic";
+var mnemonic = "repair among valley person source snow alarm final engage alien funny pencil";

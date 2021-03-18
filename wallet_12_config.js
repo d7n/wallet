@@ -1,1 +1,1 @@
-var mnemonic = "tent worth more favorite parade shoot estate tragic execute diet melt solar";
+var mnemonic = "gate life lesson tube possible heavy mixed biology helmet simple figure cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "scout layer educate skin kite pattern barrel surge torch census entry what";
+var mnemonic = "treat shoot laptop garment fan shoot giant arrest antenna day arctic promote";

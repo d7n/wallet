@@ -1,1 +1,1 @@
-var mnemonic = "fence quick diagram ginger cupboard major purse math dance wing foil name";
+var mnemonic = "effort trumpet toss myself jump spoil mimic humble rule black glare tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "item derive curtain lesson gossip muscle update extend educate resource when swarm";
+var mnemonic = "wool educate stem gaze clinic monster town issue trouble catch session nasty";

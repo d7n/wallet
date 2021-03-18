@@ -1,1 +1,1 @@
-var mnemonic = "gorilla sort panic valley tribe example glove glare recipe parent blast meadow";
+var mnemonic = "silly gap common social retire river cotton update join suffer burst bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "connect ball allow poverty cruel topple achieve swear genre mother trip sphere";
+var mnemonic = "enter double economy reopen limit plunge diet ocean raccoon veteran whip spoon";

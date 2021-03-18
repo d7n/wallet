@@ -1,1 +1,1 @@
-var mnemonic = "idle foster busy cheese anger square speak permit leg furnace angry fine";
+var mnemonic = "useless parade analyst ball rival december west track letter illegal imitate december";

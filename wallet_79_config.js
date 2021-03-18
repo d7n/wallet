@@ -1,1 +1,1 @@
-var mnemonic = "address motor organ occur charge double broken pole parrot deputy oyster code";
+var mnemonic = "double host trigger usage accident nasty negative cry bronze topple solid practice";

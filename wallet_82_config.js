@@ -1,1 +1,1 @@
-var mnemonic = "side oval measure daring bachelor garden urban noise trial piece guitar inch";
+var mnemonic = "direct stone bacon chaos solar solve release warfare dilemma reason quick erode";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury honey mercy wear rabbit moment three mouse valve high inflict foil";
+var mnemonic = "cost dance option identify title check accuse regular cigar hold borrow oblige";

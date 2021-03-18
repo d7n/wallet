@@ -1,1 +1,1 @@
-var mnemonic = "auction south boring target mercy clinic one curve address margin auto pulse";
+var mnemonic = "cause annual tent access talent rule yellow grief actress photo athlete excess";

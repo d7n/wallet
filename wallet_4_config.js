@@ -1,1 +1,1 @@
-var mnemonic = "cushion faint alert urge ladder judge alpha surface receive fix opinion street";
+var mnemonic = "call mansion pyramid foam supreme exhaust various token vibrant quality vicious tree";

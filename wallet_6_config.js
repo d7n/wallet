@@ -1,1 +1,1 @@
-var mnemonic = "burger skate kitchen grunt jar distance absent priority wing jaguar hidden ramp";
+var mnemonic = "sweet mushroom stem access upon warfare echo energy pizza humble boost happy";

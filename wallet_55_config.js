@@ -1,1 +1,1 @@
-var mnemonic = "evidence bicycle reform amount repair hedgehog emerge found expire trim own clock";
+var mnemonic = "fury swim betray viable twelve hammer novel model decorate embark rice level";
