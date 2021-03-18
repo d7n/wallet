@@ -1,1 +1,1 @@
-var mnemonic = "vehicle must orient length shield safe primary blood already trim dose table";
+var mnemonic = "prosper grid response leaf sport tube unfair taxi damp beach vacuum cruise";

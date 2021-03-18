@@ -1,1 +1,1 @@
-var mnemonic = "make evidence pelican risk sand spice feed ivory talk receive increase arena";
+var mnemonic = "sword lake version female blue video satoshi eyebrow obvious picnic degree banner";

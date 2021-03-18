@@ -1,1 +1,1 @@
-var mnemonic = "token style prison sting keep spike educate fire awesome erode rapid invite";
+var mnemonic = "hurt combine genre chief appear garlic rally fly idea ramp task lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "hold destroy ginger shoulder disorder dove iron board easy innocent expand lounge";
+var mnemonic = "exchange erosion vintage obscure senior beach dirt auto ribbon type canoe drive";

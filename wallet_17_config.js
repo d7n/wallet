@@ -1,1 +1,1 @@
-var mnemonic = "leisure style code ozone return ankle fun naive delay palace any thrive";
+var mnemonic = "knife swift dose write object census together broom balcony have destroy diary";

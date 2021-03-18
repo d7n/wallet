@@ -1,1 +1,1 @@
-var mnemonic = "spoil purpose front shift oblige matrix nest trap cream range stem symptom";
+var mnemonic = "actor isolate wire deposit future sound buffalo pony trigger forget body hollow";

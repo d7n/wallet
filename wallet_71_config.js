@@ -1,1 +1,1 @@
-var mnemonic = "avoid tell buddy moon attack inner dinosaur flight else result level remain";
+var mnemonic = "kid quarter parade concert actual laptop become key sketch sorry wire color";

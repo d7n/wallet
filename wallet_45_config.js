@@ -1,1 +1,1 @@
-var mnemonic = "anger length settle device cruise canal risk brother math muffin visa style";
+var mnemonic = "cable dawn upper floor goddess copper idea island excuse learn chef million";

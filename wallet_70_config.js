@@ -1,1 +1,1 @@
-var mnemonic = "uncle way armor color bitter wheel broccoli lawsuit miracle common gather foster";
+var mnemonic = "favorite used butter basic online clutch raise impulse crime hen abandon tone";

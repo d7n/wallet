@@ -1,1 +1,1 @@
-var mnemonic = "soul brown exhibit suit tobacco grit unlock moon like nice remember grocery";
+var mnemonic = "industry view fork deny shrug attitude project tortoise increase daring party decide";

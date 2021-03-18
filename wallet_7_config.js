@@ -1,1 +1,1 @@
-var mnemonic = "strike rent usual abuse yard sunny tail lens play leader fog stage";
+var mnemonic = "slow like still salute mule key recall ticket marriage gaze funny live";

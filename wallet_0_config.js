@@ -1,1 +1,1 @@
-var mnemonic = "sentence raise wait quick office recycle mobile warfare actor census bleak pool";
+var mnemonic = "admit return fiscal decorate april blue large exchange accuse oppose spy velvet";

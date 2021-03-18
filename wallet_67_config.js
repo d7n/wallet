@@ -1,1 +1,1 @@
-var mnemonic = "heavy session civil exclude lift solve six ski lecture intact torch era";
+var mnemonic = "finish nothing oven accident bleak clinic foil mesh crater property impulse barely";

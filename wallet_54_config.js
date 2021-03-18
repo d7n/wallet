@@ -1,1 +1,1 @@
-var mnemonic = "fever fog airport deny problem nuclear tape wasp huge report bone wheat";
+var mnemonic = "garbage property dawn day vital asset asset over bachelor shift smooth success";

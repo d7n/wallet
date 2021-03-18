@@ -1,1 +1,1 @@
-var mnemonic = "fade chat mimic make resource rival insane truck pond regular east quote";
+var mnemonic = "dry finish resemble option solution slide uniform elbow person route question debate";

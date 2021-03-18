@@ -1,1 +1,1 @@
-var mnemonic = "dawn dwarf bread senior dwarf view net skill attract matrix insane joy";
+var mnemonic = "weekend rescue balcony eagle exhaust artist laundry sing torch motor warm true";

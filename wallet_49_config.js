@@ -1,1 +1,1 @@
-var mnemonic = "swear layer slice brain task flash swear mix narrow lounge loud opera";
+var mnemonic = "purse lottery model empower pledge peasant sense effort outer never will axis";

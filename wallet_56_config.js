@@ -1,1 +1,1 @@
-var mnemonic = "lava wear anger mansion exotic camera awesome science tongue six advice finger";
+var mnemonic = "robust job edit cancel reason describe believe increase quit pledge alpha shiver";

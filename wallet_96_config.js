@@ -1,1 +1,1 @@
-var mnemonic = "thought ordinary spray wrist arctic thunder economy access dash spice promote also";
+var mnemonic = "surround march become invite must myth wine entire amount away coconut jealous";

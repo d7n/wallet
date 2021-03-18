@@ -1,1 +1,1 @@
-var mnemonic = "prevent coffee hour head suggest asset fiscal theme crystal safe cricket razor";
+var mnemonic = "between below life diamond false chronic coil afford cabbage note mad away";

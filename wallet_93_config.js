@@ -1,1 +1,1 @@
-var mnemonic = "correct athlete tribe seat phone ignore method patient camp trumpet program negative";
+var mnemonic = "symbol soda kind seed brain brown spider virus match sheriff isolate ankle";

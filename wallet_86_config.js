@@ -1,1 +1,1 @@
-var mnemonic = "tomato position almost coin silver lonely wreck immense profit asthma bonus lab";
+var mnemonic = "pilot noise gas nice whale hole provide online churn fine medal sniff";

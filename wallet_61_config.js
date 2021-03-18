@@ -1,1 +1,1 @@
-var mnemonic = "agree pond speak predict skirt crop range female unfair mesh convince level";
+var mnemonic = "ramp creek travel entry goose try lake wheat human punch paddle guide";

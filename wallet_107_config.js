@@ -1,1 +1,1 @@
-var mnemonic = "melody public chapter project budget water ask motor cruise noodle enact carbon";
+var mnemonic = "shy duck dawn abandon argue stairs churn elegant vast arctic prevent phrase";

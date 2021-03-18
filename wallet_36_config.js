@@ -1,1 +1,1 @@
-var mnemonic = "hub bright all clump ski dolphin miracle boring rule drink spawn inside";
+var mnemonic = "office initial assault misery maze price belt muffin crucial cactus want champion";

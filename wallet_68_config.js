@@ -1,1 +1,1 @@
-var mnemonic = "delay attend snack file evolve amateur blouse whisper input control salute tube";
+var mnemonic = "reward gauge device seek link report bunker miss kiwi stand fragile melt";

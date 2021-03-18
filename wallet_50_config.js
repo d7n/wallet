@@ -1,1 +1,1 @@
-var mnemonic = "silent assault addict multiply love gun jump kingdom series tent genre turkey";
+var mnemonic = "purity outside mixed plate mosquito pattern tiger melody walk hold budget mosquito";

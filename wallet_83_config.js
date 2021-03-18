@@ -1,1 +1,1 @@
-var mnemonic = "curtain install nuclear decide clinic nose mixed online camera plastic rate walnut";
+var mnemonic = "attract leopard increase usual start promote mad friend expire gravity force assume";

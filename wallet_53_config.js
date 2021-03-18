@@ -1,1 +1,1 @@
-var mnemonic = "notable permit hub rabbit popular juice army slab power dust stem denial";
+var mnemonic = "swim nation garage cricket ancient there game practice wink hint tilt march";

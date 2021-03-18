@@ -1,1 +1,1 @@
-var mnemonic = "crumble bomb slim thumb warrior omit kick torch secret lion magnet stereo";
+var mnemonic = "regular clown bleak lyrics depart envelope denial collect endless sure jar flight";

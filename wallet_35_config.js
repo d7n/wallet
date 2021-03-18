@@ -1,1 +1,1 @@
-var mnemonic = "system assume gold alley region fruit fiber endorse elegant enforce good fantasy";
+var mnemonic = "typical flip file winter submit host math patrol danger disease bronze slow";

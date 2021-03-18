@@ -1,1 +1,1 @@
-var mnemonic = "card weird boring school kit west over symptom myth raccoon brother three";
+var mnemonic = "novel hope enhance romance twin easily main system advance subway piece holiday";

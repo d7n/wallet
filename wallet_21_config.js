@@ -1,1 +1,1 @@
-var mnemonic = "uniform warm math banner roast divert language raw copy blossom law term";
+var mnemonic = "have furnace segment output pen tattoo harvest cluster mobile sugar rebuild apart";

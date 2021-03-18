@@ -1,1 +1,1 @@
-var mnemonic = "zero act quote bachelor gold fall sort ski night skirt again rigid";
+var mnemonic = "poem glove output alone admit castle like leaf lemon rural key space";

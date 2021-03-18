@@ -1,1 +1,1 @@
-var mnemonic = "vacuum source drive funny trumpet soup involve expect weird gold dose wheel";
+var mnemonic = "fee best recycle barely village deputy stone gauge give elbow grain prefer";

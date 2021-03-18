@@ -1,1 +1,1 @@
-var mnemonic = "ignore impulse walnut among neglect market muscle return winner beyond song ice";
+var mnemonic = "tonight dizzy bar soda spirit laugh slide resist hold piano swear buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "upper alter belt veteran basket rose emerge duck twin prefer danger guard";
+var mnemonic = "patient elite rent album discover lunch column vacant letter survey response unit";

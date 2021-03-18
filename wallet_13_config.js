@@ -1,1 +1,1 @@
-var mnemonic = "this biology impact club security jump scheme forward erosion diary inspire rhythm";
+var mnemonic = "pulse join fault table rural goat minor general chat scorpion essence indoor";

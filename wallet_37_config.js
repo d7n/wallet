@@ -1,1 +1,1 @@
-var mnemonic = "vacuum floor choice eager toilet price bulb join south rapid weapon onion";
+var mnemonic = "shove hollow catalog unveil pink convince absurd perfect tent author bus soup";

@@ -1,1 +1,1 @@
-var mnemonic = "cave style floor enlist corn keep until december rude ocean cost describe";
+var mnemonic = "entry arena amused indicate punch picture narrow team tell month become lend";

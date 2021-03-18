@@ -1,1 +1,1 @@
-var mnemonic = "tell visual spice arrest vocal penalty title mind vague illegal enroll clutch";
+var mnemonic = "fault sniff gold south attitude car mango leopard tank rail resource panther";

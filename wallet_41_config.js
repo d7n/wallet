@@ -1,1 +1,1 @@
-var mnemonic = "very feature logic frequent spell kite skull hollow harvest budget ethics window";
+var mnemonic = "feature above season ordinary decrease yard nasty burden comic fall unaware illegal";

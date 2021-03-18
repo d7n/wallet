@@ -1,1 +1,1 @@
-var mnemonic = "actor stick sight exclude year cram rebuild deputy cabbage onion hole stairs";
+var mnemonic = "dinosaur fork nurse file pitch zone pond boss wood insect gossip witness";

@@ -1,1 +1,1 @@
-var mnemonic = "boy reflect civil change tooth swap bullet idle pluck vicious vintage joke";
+var mnemonic = "select dove piece strong pattern panda keep fog blanket deliver dream obey";

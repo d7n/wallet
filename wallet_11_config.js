@@ -1,1 +1,1 @@
-var mnemonic = "shrug neglect human frown crowd resemble water region what chaos idea always";
+var mnemonic = "tree october pigeon alert idle solution assault garbage chase garden baby torch";

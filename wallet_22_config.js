@@ -1,1 +1,1 @@
-var mnemonic = "scout bright cluster mix baby ripple ceiling ozone amount impulse patch retreat";
+var mnemonic = "negative wise play excuse snake crumble erode husband video two digital moral";

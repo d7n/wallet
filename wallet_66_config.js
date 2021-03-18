@@ -1,1 +1,1 @@
-var mnemonic = "silent approve mechanic april upper volume fade code fix message clown logic";
+var mnemonic = "high luggage grass citizen ecology winner guard output theory youth effort bamboo";

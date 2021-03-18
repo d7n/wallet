@@ -1,1 +1,1 @@
-var mnemonic = "author mobile section august cattle glide copy gain fever excuse average engine";
+var mnemonic = "step flavor brown world despair draw senior inside lunar same scare trial";

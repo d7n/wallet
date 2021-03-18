@@ -1,1 +1,1 @@
-var mnemonic = "harvest ripple behave anxiety lift amateur quiz govern key name link earn";
+var mnemonic = "pony cup entire display business antenna dad topic hungry project creek monster";

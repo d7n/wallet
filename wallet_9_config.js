@@ -1,1 +1,1 @@
-var mnemonic = "stool glide wedding wheat trumpet sight cat taxi candy sting swing solve";
+var mnemonic = "into bomb joy initial drill educate debate short shop act fiber crime";

@@ -1,1 +1,1 @@
-var mnemonic = "slow kick close culture tongue dinosaur come hurdle jewel crucial abuse because";
+var mnemonic = "crouch front identify frame stage vendor arrow album wrist hedgehog legal satoshi";

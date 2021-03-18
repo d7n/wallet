@@ -1,1 +1,1 @@
-var mnemonic = "diamond hawk friend bag prepare price luxury faint ignore arrange credit vacant";
+var mnemonic = "pattern eyebrow reject boy secret two bubble joke noodle worth utility scout";

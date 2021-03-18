@@ -1,1 +1,1 @@
-var mnemonic = "salt budget buzz proof trophy bitter once thrive leopard teach tool bicycle";
+var mnemonic = "credit chronic enact denial behind effort alarm excuse fly bunker tent skate";

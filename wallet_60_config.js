@@ -1,1 +1,1 @@
-var mnemonic = "receive cook decrease clever blur cloth girl high work fit copy solve";
+var mnemonic = "buffalo correct theme bitter smart feel high honey trade captain found focus";

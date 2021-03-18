@@ -1,1 +1,1 @@
-var mnemonic = "shuffle border recipe inmate food length maple cabbage duck upgrade cancel close";
+var mnemonic = "belt rich correct fade clerk patch ask mountain deer cart essay unable";

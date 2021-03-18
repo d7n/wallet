@@ -1,1 +1,1 @@
-var mnemonic = "obscure material bulk inhale leaf main cousin team alert share soon barely";
+var mnemonic = "dumb slot shove reward project drip pause claim oil two glue oval";

@@ -1,1 +1,1 @@
-var mnemonic = "path snap owner ask wisdom praise body giggle empower dash hockey energy";
+var mnemonic = "tortoise embrace ramp fun dentist document radar despair pledge cattle road open";

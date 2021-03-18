@@ -1,1 +1,1 @@
-var mnemonic = "frequent hurry grid neglect force despair uphold when explain shed fade echo";
+var mnemonic = "injury prepare finish device plunge wheel early dove they there inspire banner";

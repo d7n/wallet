@@ -1,1 +1,1 @@
-var mnemonic = "fade copper spare inflict lock gorilla faith act system item chat pave";
+var mnemonic = "autumn cause tired must flee hospital resemble scrub seek stable horror castle";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous donate middle connect damage area infant scissors dentist sick health what";
+var mnemonic = "strike way average wood satisfy opera pencil wrong thunder rookie magnet mention";

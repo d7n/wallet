@@ -1,1 +1,1 @@
-var mnemonic = "spring eternal feed nut empower coach under voyage keen cigar tenant great";
+var mnemonic = "document supreme area broken punch grab dynamic absorb already abandon wheel about";

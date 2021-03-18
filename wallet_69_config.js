@@ -1,1 +1,1 @@
-var mnemonic = "area column dust virus virtual test zebra rain damp web pride target";
+var mnemonic = "pig material snack rely snack stable saddle glare arm spring mushroom industry";

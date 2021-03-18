@@ -1,1 +1,1 @@
-var mnemonic = "evil cereal found ozone divorce search start outer butter venture bridge air";
+var mnemonic = "surround local beauty world eight second runway decide prepare moment achieve mixed";

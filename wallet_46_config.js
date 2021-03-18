@@ -1,1 +1,1 @@
-var mnemonic = "swift insect guess convince concert lesson tobacco garden road man lamp kit";
+var mnemonic = "only liberty age embody reject purpose abstract liquid give hour vessel inner";

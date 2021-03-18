@@ -1,1 +1,1 @@
-var mnemonic = "town image lobster decade fatal cost flip screen season sudden evidence bag";
+var mnemonic = "cup cause draw patrol ethics point prevent limit dice frame buyer jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "nice escape van rail message company pupil spend unusual strong deputy silver";
+var mnemonic = "damage negative mask wolf clutch shoot wasp december broom plastic fury width";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer balcony silver friend advance silk patient hen pottery taste power rich";
+var mnemonic = "come fire diary spatial festival surprise original chair toss people era anxiety";

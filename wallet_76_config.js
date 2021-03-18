@@ -1,1 +1,1 @@
-var mnemonic = "cross tomorrow ask narrow nut vacant achieve kick denial nest crew unhappy";
+var mnemonic = "honey analyst model merge traffic slot wool pitch sure obey lyrics scissors";

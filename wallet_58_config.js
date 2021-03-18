@@ -1,1 +1,1 @@
-var mnemonic = "valid common razor letter stable cost warm cloth truly brush urban bottom";
+var mnemonic = "prefer best mandate wing mom notable caution banana kit credit toast ordinary";

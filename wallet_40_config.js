@@ -1,1 +1,1 @@
-var mnemonic = "gown boat rural screen monster heart filter nurse clay robot nation region";
+var mnemonic = "task city soon consider style jazz merit pluck black park artwork obvious";

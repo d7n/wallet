@@ -1,1 +1,1 @@
-var mnemonic = "essay congress run ecology vendor aim inherit prefer arena speed ridge trim";
+var mnemonic = "faith sustain great limit treat rail hour public curve eight assist empower";

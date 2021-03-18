@@ -1,1 +1,1 @@
-var mnemonic = "coach drop crazy love cherry educate elephant fine essay disagree convince metal";
+var mnemonic = "soul scene devote mosquito screen equal oil luggage negative drastic unusual junior";

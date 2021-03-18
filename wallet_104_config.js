@@ -1,1 +1,1 @@
-var mnemonic = "zero creek journey round predict simple rapid oppose nerve file waste nurse";
+var mnemonic = "list forest child obscure little nut salt average eye solid hub crazy";

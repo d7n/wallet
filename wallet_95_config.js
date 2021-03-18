@@ -1,1 +1,1 @@
-var mnemonic = "orchard time soda fossil spy carry price imitate animal danger broom aerobic";
+var mnemonic = "sponsor shrug fossil wet sunset vacant book sample join radar gesture dune";

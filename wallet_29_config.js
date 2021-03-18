@@ -1,1 +1,1 @@
-var mnemonic = "shift decrease autumn culture permit become mirror kangaroo evoke dragon swarm perfect";
+var mnemonic = "degree broom damage convince air defy cement mixed habit enable perfect liquid";

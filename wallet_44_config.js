@@ -1,1 +1,1 @@
-var mnemonic = "document van one crowd crunch angry ten tape style insane expand live";
+var mnemonic = "relief love vibrant toilet pluck pumpkin butter hammer close minute pulp coconut";

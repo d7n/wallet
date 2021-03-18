@@ -1,1 +1,1 @@
-var mnemonic = "arrow already distance demand latin love nation ask cousin famous steel rain";
+var mnemonic = "foot panel asthma omit initial jungle else know farm pond card fan";

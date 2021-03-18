@@ -1,1 +1,1 @@
-var mnemonic = "base man bar agent number gasp little lawsuit alien crouch consider task";
+var mnemonic = "suggest agent grab swamp bench access evil chicken kangaroo bulb undo pave";

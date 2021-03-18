@@ -1,1 +1,1 @@
-var mnemonic = "teach hawk amateur cash into soda arrest arrange recycle turtle egg shoot";
+var mnemonic = "erosion problem portion cluster bicycle engage blanket fiber gate immense give side";

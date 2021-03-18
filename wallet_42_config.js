@@ -1,1 +1,1 @@
-var mnemonic = "wheel pumpkin screen unfair example scissors entry popular asset note guide arch";
+var mnemonic = "box dune universe cage luggage damp alien city screen local flavor sick";

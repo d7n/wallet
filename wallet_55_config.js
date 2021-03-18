@@ -1,1 +1,1 @@
-var mnemonic = "shadow push media average field organ assault thrive faint water foster anchor";
+var mnemonic = "athlete coast state service jewel seat merry settle into prize volcano address";

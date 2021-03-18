@@ -1,1 +1,1 @@
-var mnemonic = "thing cinnamon invest fringe camera secret liquid test pottery grab logic timber";
+var mnemonic = "mean man hungry catalog galaxy pave regret happy balcony genius size luggage";

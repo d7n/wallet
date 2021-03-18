@@ -1,1 +1,1 @@
-var mnemonic = "health board auction celery love jungle load ceiling thought satoshi security drastic";
+var mnemonic = "evolve visit miracle wife social rely recipe cry gasp adjust gown duty";

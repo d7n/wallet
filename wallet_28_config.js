@@ -1,1 +1,1 @@
-var mnemonic = "slush bitter insect wolf when direct ask timber state trophy add glow";
+var mnemonic = "use unusual cycle faith above move what amazing sad autumn climb banana";

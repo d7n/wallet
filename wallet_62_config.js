@@ -1,1 +1,1 @@
-var mnemonic = "response below muffin mansion diagram casino foam fringe gauge equip mind satoshi";
+var mnemonic = "panther artist chat pause daring accident shrug finger ceiling trap problem link";

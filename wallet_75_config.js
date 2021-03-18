@@ -1,1 +1,1 @@
-var mnemonic = "return ecology page measure either fitness sign enable vote flock lobster stay";
+var mnemonic = "skill burden energy depart method fatal napkin duty concert identify myth virus";

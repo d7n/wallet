@@ -1,1 +1,1 @@
-var mnemonic = "art other live also spell bronze entry video eye saddle apology way";
+var mnemonic = "chief typical maximum drastic empty clog hour erosion wash pulse force always";

@@ -1,1 +1,1 @@
-var mnemonic = "correct pink reward same melody shiver celery found mercy then equal lady";
+var mnemonic = "design target bomb option wise clown dice habit now skin lesson setup";

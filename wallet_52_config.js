@@ -1,1 +1,1 @@
-var mnemonic = "sand glass permit cake certain assume flight worry web source truck mystery";
+var mnemonic = "note iron faith animal render ugly angle error learn dish square east";

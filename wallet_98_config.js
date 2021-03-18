@@ -1,1 +1,1 @@
-var mnemonic = "empty inner organ borrow alone immense private afraid universe refuse cupboard peace";
+var mnemonic = "aisle cost crop nut surprise among crane miracle lemon document manual inject";

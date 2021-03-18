@@ -1,1 +1,1 @@
-var mnemonic = "vacuum already buddy object plug blouse jar thrive addict slender stick brief";
+var mnemonic = "enlist permit destroy edge wrong saddle borrow bottom glare bleak easy pond";

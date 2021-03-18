@@ -1,1 +1,1 @@
-var mnemonic = "lake undo core purpose velvet kingdom spend piano naive congress suffer avocado";
+var mnemonic = "pizza season holiday lazy office what manage novel grow bronze pill check";

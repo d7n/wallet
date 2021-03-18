@@ -1,1 +1,1 @@
-var mnemonic = "bargain venue era raw candy cost pumpkin ivory impact find lawn miracle";
+var mnemonic = "lonely twelve clown decline use rely draft master venture congress animal section";

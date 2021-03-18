@@ -1,1 +1,1 @@
-var mnemonic = "biology decline insane rescue peanut resist ritual hip uncover cabin poem off";
+var mnemonic = "narrow theme afford blame guard alter reward select make unable nerve panel";
