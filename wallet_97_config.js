@@ -1,1 +1,1 @@
-var mnemonic = "total brick human useless author time tiny donkey use satisfy scare jelly";
+var mnemonic = "birth snap pen stool march wolf snap state banner skate garden sketch";

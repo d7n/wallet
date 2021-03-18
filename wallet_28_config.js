@@ -1,1 +1,1 @@
-var mnemonic = "banana wreck bamboo west fence lawsuit universe pencil pepper depth warfare almost";
+var mnemonic = "differ boss rubber travel ski when talk render razor action inflict wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "above hard door success pupil flush quote sketch margin lens bubble segment";
+var mnemonic = "donor pause shell when sight shove mirror odor guilt park blossom ozone";

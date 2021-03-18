@@ -1,1 +1,1 @@
-var mnemonic = "real burden sorry garlic stone ethics attack engage veteran squirrel dignity argue";
+var mnemonic = "hospital special unaware office winter math risk share spawn garbage drive execute";

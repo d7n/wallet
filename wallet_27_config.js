@@ -1,1 +1,1 @@
-var mnemonic = "business stuff chronic gravity month system board opera check they profit school";
+var mnemonic = "hen today swear mushroom either change random tennis athlete secret muffin retreat";

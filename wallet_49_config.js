@@ -1,1 +1,1 @@
-var mnemonic = "silly cushion lizard correct embody humor mass toe leave veteran sausage miss";
+var mnemonic = "daughter tiger novel road burden turn vapor bachelor skate steel gentle invest";

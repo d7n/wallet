@@ -1,1 +1,1 @@
-var mnemonic = "stable later turkey cigar gain force slush gun crack unable author kidney";
+var mnemonic = "supreme inhale era net grace treat arrive such quit motion early want";

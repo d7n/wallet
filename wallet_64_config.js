@@ -1,1 +1,1 @@
-var mnemonic = "truck turkey essence trigger attack ignore arch obscure hawk life mosquito kit";
+var mnemonic = "aisle quality device maid oblige verify brain casual employ sorry poverty choose";

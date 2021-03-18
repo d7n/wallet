@@ -1,1 +1,1 @@
-var mnemonic = "parade shoulder company broom cook tackle pizza skirt blossom uniform culture energy";
+var mnemonic = "glare comic extend purpose north fatigue increase ghost various yellow imitate mind";

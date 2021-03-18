@@ -1,1 +1,1 @@
-var mnemonic = "pulse jacket dance mechanic favorite science electric what giant animal dial unlock";
+var mnemonic = "front tell parrot pulp drop chief lyrics document praise sudden hurt stuff";

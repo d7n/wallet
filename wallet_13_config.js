@@ -1,1 +1,1 @@
-var mnemonic = "script ethics fire ask purity fence stuff flower typical six day donkey";
+var mnemonic = "mesh skill extra survey sustain ceiling beauty middle fine gossip marble unhappy";

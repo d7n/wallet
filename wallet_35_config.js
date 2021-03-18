@@ -1,1 +1,1 @@
-var mnemonic = "spice replace dune dune negative talk volcano alpha open spatial laugh music";
+var mnemonic = "capital attitude oxygen magnet mosquito expire robust orphan monkey arrest live royal";

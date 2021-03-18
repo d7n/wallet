@@ -1,1 +1,1 @@
-var mnemonic = "memory fabric type shift cradle attract space material news keep buzz peanut";
+var mnemonic = "auto knife artwork finish prevent banana bleak fame keep fabric nut year";

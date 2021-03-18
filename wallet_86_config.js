@@ -1,1 +1,1 @@
-var mnemonic = "sustain innocent clap category success armor blush uncle phrase range battle federal";
+var mnemonic = "dish enhance abandon rate vault betray defy east pretty case brother veteran";

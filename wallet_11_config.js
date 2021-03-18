@@ -1,1 +1,1 @@
-var mnemonic = "normal depth digital parrot appear reduce bone entry carpet snake sound enter";
+var mnemonic = "shrimp female flash fortune anger vessel section wrestle elegant tribe like keen";

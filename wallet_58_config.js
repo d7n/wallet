@@ -1,1 +1,1 @@
-var mnemonic = "crisp tackle shell surprise target cancel want disease lawsuit feel hospital utility";
+var mnemonic = "runway mercy program reform ice inquiry obscure short enhance federal bulk hunt";

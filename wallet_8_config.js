@@ -1,1 +1,1 @@
-var mnemonic = "essay virus dice culture elevator music company unique dumb solution major jungle";
+var mnemonic = "energy naive panda foil mixed middle asset mutual uphold vicious water cake";

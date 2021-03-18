@@ -1,1 +1,1 @@
-var mnemonic = "muscle armor volcano tired wrong okay ribbon clock glass special vocal expose";
+var mnemonic = "tiger wrestle term plate fox test lesson galaxy hire wish seat flush";

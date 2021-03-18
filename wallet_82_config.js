@@ -1,1 +1,1 @@
-var mnemonic = "private rent rough charge marriage theory merit wink volume fault need pelican";
+var mnemonic = "fire rival safe web solar defy myth disorder drip unusual element act";

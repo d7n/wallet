@@ -1,1 +1,1 @@
-var mnemonic = "universe code surround cat gospel magic cat wedding bundle since choice recall";
+var mnemonic = "trigger artist journey kiwi fragile sign educate truck field silk custom copy";

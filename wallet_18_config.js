@@ -1,1 +1,1 @@
-var mnemonic = "trigger nothing frequent glue secret butter hurdle beauty piece chef nation silver";
+var mnemonic = "above valid rent pledge evolve retire pink cat pudding melody parade exotic";

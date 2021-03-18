@@ -1,1 +1,1 @@
-var mnemonic = "liar mixed awful crumble execute indoor dream exist danger diamond define kitchen";
+var mnemonic = "color maple throw glare female ocean hire water horse fire dish turtle";

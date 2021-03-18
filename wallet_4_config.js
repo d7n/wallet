@@ -1,1 +1,1 @@
-var mnemonic = "refuse also exhibit base item enjoy loud expire reason clock hand pool";
+var mnemonic = "farm lady ten ostrich fly biology earth hair mother chief mirror pudding";

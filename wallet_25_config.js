@@ -1,1 +1,1 @@
-var mnemonic = "kitten crew tower chapter stuff effort leader have project glove hammer honey";
+var mnemonic = "dog twelve island depart erode permit announce fetch cricket biology fiscal all";

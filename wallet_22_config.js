@@ -1,1 +1,1 @@
-var mnemonic = "join planet journey razor topic entire notice public public thunder vague song";
+var mnemonic = "concert school glory fruit abandon truly spot clown correct focus obvious dragon";

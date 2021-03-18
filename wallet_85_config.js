@@ -1,1 +1,1 @@
-var mnemonic = "cradle health nurse swarm robust aware record blood axis winner excess vacant";
+var mnemonic = "field battle discover hello agent glide target answer scout shift skirt remember";

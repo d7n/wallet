@@ -1,1 +1,1 @@
-var mnemonic = "air pride subway join stem fox giant dial broken business seminar ten";
+var mnemonic = "arm glass found talent demand short squirrel else village master hundred club";

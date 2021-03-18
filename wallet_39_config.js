@@ -1,1 +1,1 @@
-var mnemonic = "attract lake eyebrow print ethics fall hollow walnut unlock answer sunset shrimp";
+var mnemonic = "secret glide patch lawn animal filter shuffle auto under scrub anxiety inflict";

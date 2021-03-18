@@ -1,1 +1,1 @@
-var mnemonic = "random milk flat laptop grain rally renew afraid bronze weather gather few";
+var mnemonic = "flavor marine forget sick swing frequent absent avocado weird enjoy top response";

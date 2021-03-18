@@ -1,1 +1,1 @@
-var mnemonic = "tooth result pioneer educate abuse buyer garment globe wheel nerve diesel model";
+var mnemonic = "between globe miracle rocket radar bachelor payment project cabbage jar fashion predict";

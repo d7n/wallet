@@ -1,1 +1,1 @@
-var mnemonic = "album wrap flock cross private quit south ball fiscal radio member hazard";
+var mnemonic = "movie mosquito pigeon hour level yellow chuckle alien antenna radio dragon issue";

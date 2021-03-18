@@ -1,1 +1,1 @@
-var mnemonic = "squirrel merry seven rely disease can object echo tenant danger raccoon vendor";
+var mnemonic = "abandon gain tooth coil empty law ahead economy answer vibrant boat defy";

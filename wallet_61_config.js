@@ -1,1 +1,1 @@
-var mnemonic = "legend brother plate front feature squeeze uphold swear office paper route clown";
+var mnemonic = "diamond list sentence creek unknown wrist lounge sound audit stem kick insane";

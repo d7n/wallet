@@ -1,1 +1,1 @@
-var mnemonic = "thank join empower fly fiscal artist bitter kitten ancient used execute flash";
+var mnemonic = "south comfort sense spoon circle crystal river salon enemy short drill gospel";

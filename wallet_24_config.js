@@ -1,1 +1,1 @@
-var mnemonic = "ride rule topic beauty slam first next outside balcony ride memory hello";
+var mnemonic = "dash tackle actual quick domain black faculty vault six divide rubber subject";

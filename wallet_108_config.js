@@ -1,1 +1,1 @@
-var mnemonic = "early alley lonely boost sign year delay shine convince diagram opera ritual";
+var mnemonic = "glance coral comic retire sweet trick real unit snake raw yard side";

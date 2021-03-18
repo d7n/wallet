@@ -1,1 +1,1 @@
-var mnemonic = "family burden bounce battle eager kitten bless champion inherit achieve pet gown";
+var mnemonic = "outer evidence hockey athlete scissors way van vivid inch sniff around catch";

@@ -1,1 +1,1 @@
-var mnemonic = "game debris hint erase radar axis adult burden office denial eternal crowd";
+var mnemonic = "faculty census disorder sweet together light wink cause immense swarm scrub prevent";

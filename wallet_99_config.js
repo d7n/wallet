@@ -1,1 +1,1 @@
-var mnemonic = "baby wall usual alarm mother submit found diet funny upon artwork fruit";
+var mnemonic = "sword crazy roof detect swallow quality run patient diagram nominee shiver device";

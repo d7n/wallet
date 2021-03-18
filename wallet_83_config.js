@@ -1,1 +1,1 @@
-var mnemonic = "denial unable cake amazing oblige cycle birth fitness decorate smart laugh dress";
+var mnemonic = "night dry twelve law almost among absent rhythm hundred analyst this action";

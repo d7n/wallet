@@ -1,1 +1,1 @@
-var mnemonic = "argue surface receive churn fiscal venue chair move kitten birth shiver bind";
+var mnemonic = "lonely merry grid student tenant shaft faint unfair crack apology square harsh";

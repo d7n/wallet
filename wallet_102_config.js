@@ -1,1 +1,1 @@
-var mnemonic = "steel steak property volume case possible art ranch clutch thunder bird essay";
+var mnemonic = "matrix drama rigid lecture rug race vault lemon ribbon biology group winner";

@@ -1,1 +1,1 @@
-var mnemonic = "middle rent chicken birth address prevent oval accident nerve leaf art twelve";
+var mnemonic = "minimum cancel grunt gesture nose rail beauty wink aware fury pattern theme";

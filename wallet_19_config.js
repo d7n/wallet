@@ -1,1 +1,1 @@
-var mnemonic = "grit daring rigid daughter eye orbit nest vivid puppy crush sting trophy";
+var mnemonic = "walk quiz define surge phone unusual visa copy aware month west soldier";

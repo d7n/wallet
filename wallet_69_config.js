@@ -1,1 +1,1 @@
-var mnemonic = "balcony other magnet logic negative moment cash secret burst original bird notable";
+var mnemonic = "split ready kidney flower cradle wrist vanish educate lamp combine deny inject";

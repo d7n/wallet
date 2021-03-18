@@ -1,1 +1,1 @@
-var mnemonic = "gold economy charge master hotel apple uphold assault deliver approve recycle switch";
+var mnemonic = "poem speak first slender talk depart nature frown main pause because sadness";

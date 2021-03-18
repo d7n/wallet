@@ -1,1 +1,1 @@
-var mnemonic = "address page black glad bag elbow speed nature onion cereal clarify fatigue";
+var mnemonic = "suggest couple cake diesel casino actress view pledge bean bargain argue choose";

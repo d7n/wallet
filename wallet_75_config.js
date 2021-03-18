@@ -1,1 +1,1 @@
-var mnemonic = "mountain abstract ahead bean shrug garlic loan correct mixed screen build cover";
+var mnemonic = "bread cancel onion trial whale vacuum author roast black struggle position march";

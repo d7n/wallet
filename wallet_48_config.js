@@ -1,1 +1,1 @@
-var mnemonic = "match claim mobile fit banana enforce cable neither wine script dawn will";
+var mnemonic = "maid actor balcony age foot question fiber skin panther room use timber";

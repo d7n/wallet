@@ -1,1 +1,1 @@
-var mnemonic = "hole boil sugar nasty metal bulk gain save until pig power three";
+var mnemonic = "verify fame client flag focus spend divert guide guitar word lizard bone";

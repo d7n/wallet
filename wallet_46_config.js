@@ -1,1 +1,1 @@
-var mnemonic = "wear danger breeze thank race motor ordinary pond screen hazard pride cover";
+var mnemonic = "hammer shrimp obtain monkey liberty hover rude spice thing fatigue noise tank";

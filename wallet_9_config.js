@@ -1,1 +1,1 @@
-var mnemonic = "shove actual shoulder bachelor fragile wool supreme fiction emotion lawn payment coach";
+var mnemonic = "hen feed audit solar inmate swarm spell three skin brush sister napkin";

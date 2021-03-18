@@ -1,1 +1,1 @@
-var mnemonic = "warm across nation expose arch aerobic social course bunker crystal spoon first";
+var mnemonic = "post pelican spend aerobic polar artefact absurd loan risk initial end frog";

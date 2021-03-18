@@ -1,1 +1,1 @@
-var mnemonic = "group paddle fiction below square employ approve despair wet draft couch access";
+var mnemonic = "battle else camp spot stay filter noble frozen outdoor obvious kitten essence";

@@ -1,1 +1,1 @@
-var mnemonic = "secret wine congress job smoke mention shove blush pudding victory fly certain";
+var mnemonic = "elephant silent gown genius lens jungle crop measure luxury describe delay slight";

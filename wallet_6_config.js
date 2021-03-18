@@ -1,1 +1,1 @@
-var mnemonic = "capable run energy letter vibrant energy lunar acoustic zoo write final hunt";
+var mnemonic = "daring extra track utility stove typical lottery between usage spoon crystal settle";

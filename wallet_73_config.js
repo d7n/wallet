@@ -1,1 +1,1 @@
-var mnemonic = "nuclear lion sponsor ramp over fortune again federal enemy million increase tuna";
+var mnemonic = "minimum village transfer crash country fashion reward essay ensure pink dutch route";

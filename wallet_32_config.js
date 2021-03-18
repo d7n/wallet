@@ -1,1 +1,1 @@
-var mnemonic = "lucky cup gloom diesel argue crunch situate wonder laugh famous match cup";
+var mnemonic = "joy control father provide income dog tuna tornado giggle trumpet degree menu";

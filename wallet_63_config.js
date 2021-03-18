@@ -1,1 +1,1 @@
-var mnemonic = "reduce wise news renew harbor curve fashion pelican height worth tenant arrange";
+var mnemonic = "blue area april pulp clap glance ski same enable service buzz ring";

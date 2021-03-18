@@ -1,1 +1,1 @@
-var mnemonic = "balcony benefit pelican keep van athlete dignity small junk disorder extend grab";
+var mnemonic = "that video come token actor hurry accident flavor depend napkin flight width";

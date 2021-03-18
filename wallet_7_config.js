@@ -1,1 +1,1 @@
-var mnemonic = "region maximum away drastic critic army frog penalty garment grunt fall matrix";
+var mnemonic = "liberty mosquito tonight pupil scene yard pull fit lizard glad maximum nominee";

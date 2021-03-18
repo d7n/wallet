@@ -1,1 +1,1 @@
-var mnemonic = "mixture dry carry general address blush violin teach oval reform mobile kiss";
+var mnemonic = "pelican lunch broken duck riot among where dolphin wisdom tide forest scan";

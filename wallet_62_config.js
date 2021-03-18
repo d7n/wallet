@@ -1,1 +1,1 @@
-var mnemonic = "vicious moon bridge predict join exclude mutual perfect effort cargo extra resist";
+var mnemonic = "amateur chair case bronze picture fall habit coach silk father chase immense";

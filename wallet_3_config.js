@@ -1,1 +1,1 @@
-var mnemonic = "about alone breeze culture praise erase deposit obtain run load retreat loop";
+var mnemonic = "wild reunion egg opera argue erupt suffer spring umbrella capital caution slab";

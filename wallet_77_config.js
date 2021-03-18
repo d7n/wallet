@@ -1,1 +1,1 @@
-var mnemonic = "cabbage amused alter luggage shove crouch adapt upgrade maple salon diagram stereo";
+var mnemonic = "aerobic invite version brain mom track wild hawk side cash always clutch";

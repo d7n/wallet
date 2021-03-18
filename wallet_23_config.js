@@ -1,1 +1,1 @@
-var mnemonic = "balcony state aerobic choice soccer enhance mobile tongue enjoy wheat country market";
+var mnemonic = "actor aspect pledge alarm hidden web tonight opera regular gold invite second";

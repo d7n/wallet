@@ -1,1 +1,1 @@
-var mnemonic = "tooth orchard goat fall mad bone version again boy release uniform mixed";
+var mnemonic = "kind wage horror feed they leader attract negative similar walnut check small";

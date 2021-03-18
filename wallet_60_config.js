@@ -1,1 +1,1 @@
-var mnemonic = "belt crystal soda possible same derive glass sure merit chief bracket glance";
+var mnemonic = "slice brush tonight call easily athlete file benefit sheriff require sight roast";

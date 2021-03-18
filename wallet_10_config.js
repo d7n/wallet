@@ -1,1 +1,1 @@
-var mnemonic = "lottery spell leader situate leisure ginger twenty search short despair police hold";
+var mnemonic = "inside point window weapon rule minor hurdle pilot chalk finish jelly goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage crucial lift swear trial index silk lunch metal latin stumble custom";
+var mnemonic = "suit cheese moment toss float bulk cause weird gallery upon hold always";

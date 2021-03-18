@@ -1,1 +1,1 @@
-var mnemonic = "jar dolphin cloud butter envelope beauty split fault hammer advance mutual cancel";
+var mnemonic = "wall unable gown choose simple ethics cruel rely lunch snack hole story";

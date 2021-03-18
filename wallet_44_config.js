@@ -1,1 +1,1 @@
-var mnemonic = "nuclear blue lamp machine room patch capable cereal great dismiss sell learn";
+var mnemonic = "ecology smile deliver still subway helmet upset bright blush case over grant";

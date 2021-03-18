@@ -1,1 +1,1 @@
-var mnemonic = "insane parade rural dwarf ankle ramp fabric erupt net heart impulse follow";
+var mnemonic = "impulse square live nerve salon ladder reopen kid fat risk security hero";

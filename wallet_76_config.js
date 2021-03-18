@@ -1,1 +1,1 @@
-var mnemonic = "tuition slim joy insane castle lucky hole cereal destroy phrase stock alert";
+var mnemonic = "unfair cruise swarm mask nation adjust arctic heavy today essence sign person";

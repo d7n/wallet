@@ -1,1 +1,1 @@
-var mnemonic = "swamp episode agree view rack major firm december song blossom rate wine";
+var mnemonic = "rose stomach rescue dismiss grape eternal primary smooth payment absent guess mass";

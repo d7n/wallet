@@ -1,1 +1,1 @@
-var mnemonic = "captain tool seek horse stock almost domain pond cabin cliff embark human";
+var mnemonic = "metal bachelor dry note crime seminar swallow tide volcano caution upset rally";

@@ -1,1 +1,1 @@
-var mnemonic = "banner segment layer pepper lend build teach panther ill squeeze damp region";
+var mnemonic = "front fancy brief party pull case siege cycle ghost maximum cheese empower";

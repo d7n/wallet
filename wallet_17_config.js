@@ -1,1 +1,1 @@
-var mnemonic = "regret lady easily right witness couch portion empower safe tunnel entry twelve";
+var mnemonic = "country fold rebuild exchange risk damage plate bridge edit trick goose learn";

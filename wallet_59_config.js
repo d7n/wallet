@@ -1,1 +1,1 @@
-var mnemonic = "bicycle gravity naive tuition bless ride aunt run dinosaur skate salmon enrich";
+var mnemonic = "glimpse erosion olympic umbrella scheme aim clog tape foster slender enhance auto";

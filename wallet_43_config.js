@@ -1,1 +1,1 @@
-var mnemonic = "turn pony sponsor oxygen tiny noodle verb boy music collect hand hope";
+var mnemonic = "balance enter worth stay pen okay slab spy trigger medal impose stove";

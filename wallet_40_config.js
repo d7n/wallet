@@ -1,1 +1,1 @@
-var mnemonic = "combine gravity life ranch photo face final setup romance neutral damage reunion";
+var mnemonic = "process output bone icon spawn gate game liar april divorce spray team";

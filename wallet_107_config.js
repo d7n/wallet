@@ -1,1 +1,1 @@
-var mnemonic = "reflect page carpet suffer chicken best purchase fall major endorse angry hold";
+var mnemonic = "frog toward corn embark toilet enjoy impact hope razor will april income";

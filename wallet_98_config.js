@@ -1,1 +1,1 @@
-var mnemonic = "floor expose split hair fine describe trick regret spoon trick apple plate";
+var mnemonic = "must seven effort chapter hope decade blast virus tilt energy whale express";

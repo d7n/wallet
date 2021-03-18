@@ -1,1 +1,1 @@
-var mnemonic = "real patch discover desert chest alcohol seminar cotton concert poem simple scissors";
+var mnemonic = "latin because kiss attract extend duck wing chair bonus husband actor adjust";
