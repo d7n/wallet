@@ -1,1 +1,1 @@
-var mnemonic = "music truck era leader slide parent decrease vocal pretty core chicken knife";
+var mnemonic = "federal fish truck hour puppy result cry vapor good sugar box emerge";

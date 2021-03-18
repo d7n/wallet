@@ -1,1 +1,1 @@
-var mnemonic = "antenna dream try foster february upgrade key gossip sell barely coach accuse";
+var mnemonic = "march control glass flag choice abstract entire swing mail sing ensure about";

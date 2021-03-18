@@ -1,1 +1,1 @@
-var mnemonic = "mistake gift develop funny tissue cheese arrive give symbol grace during attitude";
+var mnemonic = "confirm nice unaware move glass cook fish legend movie tower genius random";

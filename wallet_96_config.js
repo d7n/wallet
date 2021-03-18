@@ -1,1 +1,1 @@
-var mnemonic = "typical work faculty gaze error kiss canvas wave pink equal solar much";
+var mnemonic = "toilet during wisdom gain blame fury dynamic chicken orange flight lyrics squeeze";

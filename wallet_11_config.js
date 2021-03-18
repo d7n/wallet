@@ -1,1 +1,1 @@
-var mnemonic = "similar access equip person suffer devote almost reject region split forest then";
+var mnemonic = "human riot love remind quit kid sun leader economy desert occur shy";

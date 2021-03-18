@@ -1,1 +1,1 @@
-var mnemonic = "fire ladder require current miss room main renew goose wealth absurd deny";
+var mnemonic = "luggage shift ocean casino label wedding eyebrow purpose cluster peasant clay goat";

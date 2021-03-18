@@ -1,1 +1,1 @@
-var mnemonic = "wing seat spatial body kingdom spider armed echo crack scrub junior gossip";
+var mnemonic = "obscure gallery total outside problem exhibit assume belt section name welcome bright";

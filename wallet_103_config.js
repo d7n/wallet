@@ -1,1 +1,1 @@
-var mnemonic = "best umbrella armor vocal segment antique sniff topic genius anxiety glimpse digital";
+var mnemonic = "check exclude distance quick fancy sketch assault marble galaxy consider ceiling subway";

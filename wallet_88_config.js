@@ -1,1 +1,1 @@
-var mnemonic = "require together essence arctic asset chapter siege burst whip exile art curious";
+var mnemonic = "oven shallow idea proud name tuition cereal gloom midnight wonder enlist cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "bone become announce point crazy hungry fuel general fix whale patient give";
+var mnemonic = "leisure address twist cube cricket nothing element carry good write wise flock";

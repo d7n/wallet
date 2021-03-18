@@ -1,1 +1,1 @@
-var mnemonic = "orchard rather engage crazy asthma what angry hero tumble club female canvas";
+var mnemonic = "muscle crystal comic park thing salmon output hidden trouble unfair convince shoulder";

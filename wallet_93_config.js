@@ -1,1 +1,1 @@
-var mnemonic = "robot neglect favorite glare depend tenant actual green noodle orient guitar bread";
+var mnemonic = "category wrong around chair suspect weasel mind worry web there napkin tribe";

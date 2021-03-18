@@ -1,1 +1,1 @@
-var mnemonic = "drastic patch kid tongue velvet elephant diesel subway library east own cross";
+var mnemonic = "armed spray search swamp walnut turn lion clown noble budget remove short";

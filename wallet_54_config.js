@@ -1,1 +1,1 @@
-var mnemonic = "wool monster chef actual wink lecture area pretty trap village gesture vanish";
+var mnemonic = "draft require dinner source hen shoot cake rack bachelor toy couch clay";

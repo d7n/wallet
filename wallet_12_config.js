@@ -1,1 +1,1 @@
-var mnemonic = "ugly income pony north leg couch dove today guide circle sauce lunar";
+var mnemonic = "orange since off jelly knife forum nest virtual satisfy hockey wild truck";

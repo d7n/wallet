@@ -1,1 +1,1 @@
-var mnemonic = "deal cattle avoid bonus juice illegal fox february flee phrase range jealous";
+var mnemonic = "program laptop foster spice sense nothing balance coffee sword youth have nest";

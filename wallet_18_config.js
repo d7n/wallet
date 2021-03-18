@@ -1,1 +1,1 @@
-var mnemonic = "mail topic citizen repair derive volume choose emotion captain buddy clay toast";
+var mnemonic = "violin young shock modify random cake talent ankle auction slight truck panel";

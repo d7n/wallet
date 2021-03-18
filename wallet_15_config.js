@@ -1,1 +1,1 @@
-var mnemonic = "ignore north raw symptom appear half disease hospital tone better sauce include";
+var mnemonic = "trumpet jaguar mad sing cube spice piece cycle pull seed liberty manual";

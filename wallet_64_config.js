@@ -1,1 +1,1 @@
-var mnemonic = "sleep novel whisper huge gloom spot castle couch cup luxury share trust";
+var mnemonic = "invest whisper ill prison hard skull six gather library brown naive word";

@@ -1,1 +1,1 @@
-var mnemonic = "away lobster left wall reopen regular recycle expand face lucky erode dinosaur";
+var mnemonic = "large garden garden update stem proud present control book adapt turtle title";

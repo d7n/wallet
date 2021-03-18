@@ -1,1 +1,1 @@
-var mnemonic = "anxiety repeat brain harsh candy liberty analyst task parrot sight kidney unfair";
+var mnemonic = "check laundry artefact bulk believe animal keep state carbon into question bachelor";

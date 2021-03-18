@@ -1,1 +1,1 @@
-var mnemonic = "siren tank diary foam fever term wrap inhale palace cash dinner morning";
+var mnemonic = "rather train diet another trim reveal wage supreme destroy bring mixture sniff";

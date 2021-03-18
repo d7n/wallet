@@ -1,1 +1,1 @@
-var mnemonic = "zero unable thrive plunge road charge glue electric naive bus smooth swallow";
+var mnemonic = "baby slender visual situate crater girl hybrid magic exact canoe thank cross";

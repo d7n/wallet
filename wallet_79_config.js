@@ -1,1 +1,1 @@
-var mnemonic = "same sentence illegal year trust month deputy stool shove toy junk squirrel";
+var mnemonic = "clump oyster spot large clutch echo admit retire spot rival pumpkin milk";

@@ -1,1 +1,1 @@
-var mnemonic = "casino pond anxiety fog truth library elephant angle lesson giraffe iron faculty";
+var mnemonic = "valley garlic waste pair pioneer victory feed input winter brief panel canyon";

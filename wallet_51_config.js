@@ -1,1 +1,1 @@
-var mnemonic = "gas swing champion section south common swing chimney pipe hedgehog pattern universe";
+var mnemonic = "edge allow anger cherry derive oval phrase uphold amazing mirror blanket mosquito";

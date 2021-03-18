@@ -1,1 +1,1 @@
-var mnemonic = "float spread income guess punch correct dose minimum notable nation decade wisdom";
+var mnemonic = "odor total another patch nice blame dignity taxi material tomato hand elegant";

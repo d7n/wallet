@@ -1,1 +1,1 @@
-var mnemonic = "empower prison twin strategy win voyage universe cousin elbow egg biology wage";
+var mnemonic = "tide sense hockey sell pen cotton unique small embody decade snow sponsor";

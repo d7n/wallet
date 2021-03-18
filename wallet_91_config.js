@@ -1,1 +1,1 @@
-var mnemonic = "stairs animal reason stairs excite tray congress frequent chronic cake elder canoe";
+var mnemonic = "illegal fatal cost dove length help together rabbit salmon dust winter prepare";

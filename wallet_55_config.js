@@ -1,1 +1,1 @@
-var mnemonic = "method minimum blast pen insane fatal dinner soldier cram minimum feed unusual";
+var mnemonic = "local mammal off buyer monkey light prevent catalog blame blood cloth unveil";

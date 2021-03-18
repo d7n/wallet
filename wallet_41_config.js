@@ -1,1 +1,1 @@
-var mnemonic = "episode there language call ostrich warm horror about napkin argue tongue oppose";
+var mnemonic = "yellow wasp throw badge steak hard satisfy emerge monitor wrestle upon sunny";

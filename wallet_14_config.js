@@ -1,1 +1,1 @@
-var mnemonic = "tell hybrid icon educate indoor taxi shop volume fever bargain very endorse";
+var mnemonic = "home height obscure stick olive hamster parade stable expire turtle chest orange";

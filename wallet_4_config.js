@@ -1,1 +1,1 @@
-var mnemonic = "discover field gallery mercy poem another unlock cloth reflect harsh dentist list";
+var mnemonic = "law century finish team write hood curtain nest slot volcano upper dirt";

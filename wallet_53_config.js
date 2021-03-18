@@ -1,1 +1,1 @@
-var mnemonic = "avocado together moon camp gain offer baby sight hazard hungry maple primary";
+var mnemonic = "thrive army estate program plunge canvas faculty spoon reform enrich consider use";

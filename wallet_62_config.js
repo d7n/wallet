@@ -1,1 +1,1 @@
-var mnemonic = "online laugh skate chef fee thumb stereo mushroom account mule common child";
+var mnemonic = "define defense account hole recall other arctic coyote cycle despair endorse across";

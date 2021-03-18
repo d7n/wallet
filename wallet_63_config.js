@@ -1,1 +1,1 @@
-var mnemonic = "apart flip kiwi laugh couch soup odor wolf wood suspect device install";
+var mnemonic = "cup hungry pen shadow inner frost stadium burden indoor domain reward fly";

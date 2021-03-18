@@ -1,1 +1,1 @@
-var mnemonic = "plate genius inside island panel junior dune slogan earth fiber welcome juice";
+var mnemonic = "say similar bunker property amateur roof model danger amazing enemy sugar evidence";

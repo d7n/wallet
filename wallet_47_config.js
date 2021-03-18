@@ -1,1 +1,1 @@
-var mnemonic = "claim license upset exile salon north nation almost diamond sudden pride soap";
+var mnemonic = "shiver bar permit certain hip inject spot breeze slush letter kangaroo worth";

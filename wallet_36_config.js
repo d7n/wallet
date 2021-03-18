@@ -1,1 +1,1 @@
-var mnemonic = "tuna hurt powder item cat range doll situate trouble horror put panic";
+var mnemonic = "hill recipe reform window party soup fish spring sad display license seat";

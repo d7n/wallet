@@ -1,1 +1,1 @@
-var mnemonic = "raw spare couple palace veteran blue bunker eagle expand borrow exclude morning";
+var mnemonic = "glare drama ready bacon coral hover act swear this boat tongue roof";

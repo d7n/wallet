@@ -1,1 +1,1 @@
-var mnemonic = "tongue half pumpkin duck test lend intact garage loan scorpion mango velvet";
+var mnemonic = "emotion fat foil surge aisle offer cost dress venue tower ready gentle";

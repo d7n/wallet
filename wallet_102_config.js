@@ -1,1 +1,1 @@
-var mnemonic = "unknown area play isolate property carry reveal nominee flavor trash elevator loop";
+var mnemonic = "reduce piece rent cage virtual roast giant trumpet firm erosion pulse bargain";

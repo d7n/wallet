@@ -1,1 +1,1 @@
-var mnemonic = "tourist impose sunset penalty squeeze swallow debris erase initial smart alley indicate";
+var mnemonic = "famous marine skull rookie shed blind hurry offer kit kite quiz story";

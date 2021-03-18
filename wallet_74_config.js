@@ -1,1 +1,1 @@
-var mnemonic = "typical snake gadget october tape sponsor fiber deliver squirrel render rule attract";
+var mnemonic = "advance trip prepare onion win tape wheat admit sorry quiz flame unique";

@@ -1,1 +1,1 @@
-var mnemonic = "duck execute vehicle picnic theory open super wall sense tube universe immense";
+var mnemonic = "occur tired damage tiny unit puzzle mirror exhaust cage hotel toward all";

@@ -1,1 +1,1 @@
-var mnemonic = "medal soon sniff spoon cabbage sound recall almost before clarify unveil wealth";
+var mnemonic = "pioneer this pen shrimp doll faint myth will wool torch find click";

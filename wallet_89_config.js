@@ -1,1 +1,1 @@
-var mnemonic = "soft venue region phone input appear blade also keep balance child tail";
+var mnemonic = "blood choose royal reject nation report repair argue lend tonight lyrics kitten";

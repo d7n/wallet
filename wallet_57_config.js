@@ -1,1 +1,1 @@
-var mnemonic = "illegal match argue gift flat document script school media bamboo west economy";
+var mnemonic = "enact again prepare absurd acquire banner brother game media dentist ankle blade";

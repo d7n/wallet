@@ -1,1 +1,1 @@
-var mnemonic = "fix rigid water behind boss avocado daring fame shoot quit inquiry someone";
+var mnemonic = "thumb elegant vault cement claim hotel toilet buyer fantasy offer equal civil";

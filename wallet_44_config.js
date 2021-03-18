@@ -1,1 +1,1 @@
-var mnemonic = "peanut online again gather someone excuse produce key limit sustain soup chief";
+var mnemonic = "zoo feature myself camp avocado lab board case float season put employ";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss favorite comic glue evil wall boring alone buyer heavy fatal chronic";
+var mnemonic = "fortune equip elder edit gaze wagon call pride pass mimic tunnel want";

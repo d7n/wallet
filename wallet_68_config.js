@@ -1,1 +1,1 @@
-var mnemonic = "rate young party silly frog fruit celery opinion clay side game expose";
+var mnemonic = "fury fringe engage reform phone amused fee idea knee pole snack network";

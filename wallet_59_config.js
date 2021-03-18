@@ -1,1 +1,1 @@
-var mnemonic = "lens violin little oven curtain target have volcano cotton speak nature stand";
+var mnemonic = "impose outer describe ladder unaware urban effort large system property dentist alien";

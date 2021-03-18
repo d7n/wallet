@@ -1,1 +1,1 @@
-var mnemonic = "solution case laundry flame remind multiply sample help asthma crime original shift";
+var mnemonic = "motion soup quick ethics pen shallow test carpet daughter across bundle six";

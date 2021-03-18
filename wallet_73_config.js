@@ -1,1 +1,1 @@
-var mnemonic = "twist fix husband snow cake wrestle lounge observe piano stone dolphin wise";
+var mnemonic = "brown pattern round nation mountain icon shove merge sing urge cruise cart";

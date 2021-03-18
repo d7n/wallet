@@ -1,1 +1,1 @@
-var mnemonic = "salmon knock merge pyramid inspire cook fitness step lottery minimum grocery expand";
+var mnemonic = "mansion prosper fix steak mercy marine oven echo glass coin maximum awful";

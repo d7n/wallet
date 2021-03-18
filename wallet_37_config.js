@@ -1,1 +1,1 @@
-var mnemonic = "uphold path strategy sausage canal one course dial august plate cancel coach";
+var mnemonic = "pattern excite mystery scorpion riot robust basic south badge engine broccoli genius";

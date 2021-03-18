@@ -1,1 +1,1 @@
-var mnemonic = "family toss receive hill chronic vivid ski rural twist whisper salmon canoe";
+var mnemonic = "judge latin panic cream industry lumber else exhaust garden tip home cannon";

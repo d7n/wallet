@@ -1,1 +1,1 @@
-var mnemonic = "plate misery rally disease pencil list once obvious mean fetch police phrase";
+var mnemonic = "mean verb switch mechanic young enable wreck bronze glow dawn century harbor";

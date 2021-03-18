@@ -1,1 +1,1 @@
-var mnemonic = "general deny kitchen galaxy valve arrive reopen timber begin demise opinion beef";
+var mnemonic = "child soap dove crime scheme reward cancel umbrella rack number shallow morning";

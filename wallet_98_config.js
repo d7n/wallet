@@ -1,1 +1,1 @@
-var mnemonic = "grace health retire warfare ready ranch first fever market shiver parade target";
+var mnemonic = "rotate student enemy key hamster census alter cannon priority replace dwarf flash";

@@ -1,1 +1,1 @@
-var mnemonic = "vote anxiety crop ladder change puppy napkin net equip space near brick";
+var mnemonic = "series world situate blossom bus lava liberty else antique grief symptom seed";

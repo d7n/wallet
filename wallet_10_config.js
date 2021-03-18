@@ -1,1 +1,1 @@
-var mnemonic = "bonus expire obey escape lounge owner claim security cactus nice raise smooth";
+var mnemonic = "steak empty tank valid fog detect regular other video practice diary slender";

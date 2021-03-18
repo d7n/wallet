@@ -1,1 +1,1 @@
-var mnemonic = "unique staff lake unique total only night kind castle april include august";
+var mnemonic = "loop cross finish fresh sad battle prevent then cannon above solve circle";

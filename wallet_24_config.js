@@ -1,1 +1,1 @@
-var mnemonic = "frown wink spirit want taxi wonder skill run dash sunset talk gossip";
+var mnemonic = "favorite prison ghost trash craft neither custom alien broccoli ride ostrich wisdom";

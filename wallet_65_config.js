@@ -1,1 +1,1 @@
-var mnemonic = "scissors squirrel tell immense valley area library pattern buyer arch estate provide";
+var mnemonic = "age teach blood skill scan account velvet curtain range ability avocado oven";

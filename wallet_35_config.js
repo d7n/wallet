@@ -1,1 +1,1 @@
-var mnemonic = "reason ahead grief unit path shadow slogan fall flash voyage utility bird";
+var mnemonic = "right opera guide correct wine bottom venture file concert reason drive museum";

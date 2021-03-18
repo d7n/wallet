@@ -1,1 +1,1 @@
-var mnemonic = "seed spirit clean never loyal quiz comic destroy scare giraffe near draft";
+var mnemonic = "balcony desk name express town crane sock genre cage common shoulder proud";

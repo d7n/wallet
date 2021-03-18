@@ -1,1 +1,1 @@
-var mnemonic = "meadow dismiss adjust twelve rebel capable run bread vague will nuclear machine";
+var mnemonic = "neglect relax guitar step hero chunk sentence year audit decrease exotic evidence";

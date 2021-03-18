@@ -1,1 +1,1 @@
-var mnemonic = "series weasel rail all bacon asthma autumn flavor change pioneer globe unit";
+var mnemonic = "smoke order trap client heart route slice depth brush section retreat garment";

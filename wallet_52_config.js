@@ -1,1 +1,1 @@
-var mnemonic = "custom provide once surround toy net invite similar eagle saddle reject disease";
+var mnemonic = "toward december scrap honey side thumb effort crack mutual risk divert depth";

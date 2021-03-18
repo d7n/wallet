@@ -1,1 +1,1 @@
-var mnemonic = "scare gossip icon artwork tuna novel element stamp other soul trap thank";
+var mnemonic = "once hill rich awkward large poem taxi nation blanket cat price medal";

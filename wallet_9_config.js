@@ -1,1 +1,1 @@
-var mnemonic = "supreme middle alley boost purpose dinner bar angle vault liar attitude kind";
+var mnemonic = "sight blossom library match mystery orphan remove bitter grunt oxygen test mule";

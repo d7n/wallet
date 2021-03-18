@@ -1,1 +1,1 @@
-var mnemonic = "sure pluck need wheat together theme that front lucky picture almost gather";
+var mnemonic = "virus text orange patrol social stove entry liar motion absurd priority cruise";

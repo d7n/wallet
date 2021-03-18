@@ -1,1 +1,1 @@
-var mnemonic = "pause spin wool sign sunset bullet other belt rude actual start north";
+var mnemonic = "magic state miss property excess prison name wolf question right rural custom";

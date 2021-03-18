@@ -1,1 +1,1 @@
-var mnemonic = "spike jump table grit denial symbol arrange cancel strong stone lock gift";
+var mnemonic = "zebra symptom neck oven twin later among black burst devote flat phrase";

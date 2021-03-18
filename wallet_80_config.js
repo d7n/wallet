@@ -1,1 +1,1 @@
-var mnemonic = "height evoke safe sign edit differ merry giant shift gas fix lava";
+var mnemonic = "expect tattoo series series behave sword purity wink legal icon prevent cricket";

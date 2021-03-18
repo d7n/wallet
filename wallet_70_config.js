@@ -1,1 +1,1 @@
-var mnemonic = "palace drastic candy crouch script hen royal wealth slim exercise soap affair";
+var mnemonic = "confirm minute dry okay term picnic thunder prevent front juice system unique";

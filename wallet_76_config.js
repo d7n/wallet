@@ -1,1 +1,1 @@
-var mnemonic = "hybrid rice rabbit bachelor pair regular close retire remember jealous table refuse";
+var mnemonic = "stone hip agree lion gesture day harvest cram tide only outside forget";

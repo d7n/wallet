@@ -1,1 +1,1 @@
-var mnemonic = "planet surprise bronze tumble person hunt year blossom lend sniff rich topic";
+var mnemonic = "together number furnace flip gas cake festival blur explain accident theme visual";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit message strong supply angle pet hip expire tiger cancel paddle snap";
+var mnemonic = "fall price panda option mention mistake explain brain review victory domain buyer";

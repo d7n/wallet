@@ -1,1 +1,1 @@
-var mnemonic = "extra despair blossom play kiwi cash head clerk become path gown upset";
+var mnemonic = "chair mom fatigue record month tiger glory zone desert legal address eager";

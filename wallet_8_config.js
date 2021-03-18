@@ -1,1 +1,1 @@
-var mnemonic = "drip toilet jacket cat desk special chalk riot reflect gauge lesson fringe";
+var mnemonic = "share garbage biology aisle size shine jelly place deny brand peanut water";

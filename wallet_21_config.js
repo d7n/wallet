@@ -1,1 +1,1 @@
-var mnemonic = "fruit current raven either ritual elbow prosper bid genius math nurse today";
+var mnemonic = "bag shield trust various chest body valid stone flame stand stem glass";

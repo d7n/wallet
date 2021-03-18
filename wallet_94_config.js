@@ -1,1 +1,1 @@
-var mnemonic = "goddess hedgehog spoil pet toy steak garbage swing bottom depend today clinic";
+var mnemonic = "art wisdom blush breeze require clay skill paper zoo choice harsh popular";

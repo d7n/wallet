@@ -1,1 +1,1 @@
-var mnemonic = "grab clutch fiber vast treat answer grape animal carry grant beyond enrich";
+var mnemonic = "panther survey ghost pool tank junior truck top despair armor leaf output";

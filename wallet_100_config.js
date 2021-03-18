@@ -1,1 +1,1 @@
-var mnemonic = "infant cry analyst work skin live proud erode window knee snack apple";
+var mnemonic = "deny very spray salmon strategy connect arctic carpet smart odor frequent wreck";

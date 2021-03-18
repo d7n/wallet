@@ -1,1 +1,1 @@
-var mnemonic = "today west panda sheriff tape virtual arrange another rifle patch bulk candy";
+var mnemonic = "pitch axis lawsuit bonus wish huge spider close impulse cabbage assume rubber";

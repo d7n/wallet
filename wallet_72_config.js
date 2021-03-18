@@ -1,1 +1,1 @@
-var mnemonic = "major chest pass reveal sad item picnic inside fuel forum oyster goddess";
+var mnemonic = "humor media pause duty celery kiss tunnel asset animal pigeon organ network";

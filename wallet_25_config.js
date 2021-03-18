@@ -1,1 +1,1 @@
-var mnemonic = "latin correct clinic gorilla sugar parent sight cook cat promote board pitch";
+var mnemonic = "space season control twenty end become empower draw rate below wedding public";

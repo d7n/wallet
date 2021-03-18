@@ -1,1 +1,1 @@
-var mnemonic = "worry merit hazard repair ribbon tribe damp large before blood purchase kite";
+var mnemonic = "quarter spring illness bamboo leg wild faculty rookie leg legend wine pigeon";

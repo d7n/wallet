@@ -1,1 +1,1 @@
-var mnemonic = "rely pull flock chimney recycle forum ship lecture nurse retreat forest when";
+var mnemonic = "palm immune flush turn lock blind fly shop inject profit festival rigid";
