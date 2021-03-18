@@ -1,1 +1,1 @@
-var mnemonic = "program laptop foster spice sense nothing balance coffee sword youth have nest";
+var mnemonic = "bounce wrist mountain ill duck baby box someone long scrub energy board";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure address twist cube cricket nothing element carry good write wise flock";
+var mnemonic = "mother exile atom document planet grant clog cheese bone warm square february";

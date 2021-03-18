@@ -1,1 +1,1 @@
-var mnemonic = "stone hip agree lion gesture day harvest cram tide only outside forget";
+var mnemonic = "hybrid mosquito again shell intact rug detect company voice exhibit plug sustain";

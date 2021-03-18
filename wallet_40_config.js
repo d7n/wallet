@@ -1,1 +1,1 @@
-var mnemonic = "quarter spring illness bamboo leg wild faculty rookie leg legend wine pigeon";
+var mnemonic = "top switch vapor height home pottery clap hub cheap narrow fuel weapon";

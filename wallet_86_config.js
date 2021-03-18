@@ -1,1 +1,1 @@
-var mnemonic = "maximum toe echo bus sentence brain peanut fragile supreme ceiling benefit double";
+var mnemonic = "mail heart jump pact room motion edit letter actual female rude volume";

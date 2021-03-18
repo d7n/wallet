@@ -1,1 +1,1 @@
-var mnemonic = "zoo feature myself camp avocado lab board case float season put employ";
+var mnemonic = "found want awful guilt squirrel drink involve keen page champion hole letter";

@@ -1,1 +1,1 @@
-var mnemonic = "sight blossom library match mystery orphan remove bitter grunt oxygen test mule";
+var mnemonic = "hire sight slab canal mandate scale subway camp decrease frame forget dolphin";

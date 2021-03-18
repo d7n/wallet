@@ -1,1 +1,1 @@
-var mnemonic = "clump oyster spot large clutch echo admit retire spot rival pumpkin milk";
+var mnemonic = "kingdom timber scatter plate jazz empty phone pistol juice song hub you";

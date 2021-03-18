@@ -1,1 +1,1 @@
-var mnemonic = "confirm nice unaware move glass cook fish legend movie tower genius random";
+var mnemonic = "employ camp hurt fold forum jacket open bus vote matrix wish best";

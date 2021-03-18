@@ -1,1 +1,1 @@
-var mnemonic = "humor media pause duty celery kiss tunnel asset animal pigeon organ network";
+var mnemonic = "siege foster hover say away member student session supply amused program distance";

@@ -1,1 +1,1 @@
-var mnemonic = "art wisdom blush breeze require clay skill paper zoo choice harsh popular";
+var mnemonic = "draw borrow silk mandate bread grape scout host prison pride bamboo pyramid";

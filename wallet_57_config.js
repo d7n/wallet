@@ -1,1 +1,1 @@
-var mnemonic = "enact again prepare absurd acquire banner brother game media dentist ankle blade";
+var mnemonic = "mix grunt boil claw weather present time ginger close twist slab chapter";

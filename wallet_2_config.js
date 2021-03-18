@@ -1,1 +1,1 @@
-var mnemonic = "baby slender visual situate crater girl hybrid magic exact canoe thank cross";
+var mnemonic = "kangaroo fiction mouse mansion invite bar rubber mom pluck bullet learn man";

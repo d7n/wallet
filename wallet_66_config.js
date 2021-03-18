@@ -1,1 +1,1 @@
-var mnemonic = "muscle crystal comic park thing salmon output hidden trouble unfair convince shoulder";
+var mnemonic = "gown tortoise decrease burger balance price together type toddler federal cost custom";

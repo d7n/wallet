@@ -1,1 +1,1 @@
-var mnemonic = "mean verb switch mechanic young enable wreck bronze glow dawn century harbor";
+var mnemonic = "program grape mountain crane coyote predict remind garlic spare shallow unit squeeze";

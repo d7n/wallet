@@ -1,1 +1,1 @@
-var mnemonic = "odor total another patch nice blame dignity taxi material tomato hand elegant";
+var mnemonic = "school wealth slight become extend atom equal range clutch scrub cruise cat";

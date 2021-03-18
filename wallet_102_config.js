@@ -1,1 +1,1 @@
-var mnemonic = "reduce piece rent cage virtual roast giant trumpet firm erosion pulse bargain";
+var mnemonic = "can wait general load wood sort security drastic blanket loyal theory evoke";

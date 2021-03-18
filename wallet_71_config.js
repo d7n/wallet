@@ -1,1 +1,1 @@
-var mnemonic = "valley garlic waste pair pioneer victory feed input winter brief panel canyon";
+var mnemonic = "hole normal typical devote collect soul chat mention walnut lawn love lend";

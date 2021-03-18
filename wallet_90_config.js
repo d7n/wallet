@@ -1,1 +1,1 @@
-var mnemonic = "chair mom fatigue record month tiger glory zone desert legal address eager";
+var mnemonic = "life segment wage coyote casual measure true they recall huge essence amateur";

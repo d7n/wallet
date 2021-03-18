@@ -1,1 +1,1 @@
-var mnemonic = "orange since off jelly knife forum nest virtual satisfy hockey wild truck";
+var mnemonic = "curve slab enjoy entry vague alcohol wish evil card roof choose hospital";

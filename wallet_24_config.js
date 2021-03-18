@@ -1,1 +1,1 @@
-var mnemonic = "favorite prison ghost trash craft neither custom alien broccoli ride ostrich wisdom";
+var mnemonic = "thumb pluck rich black suit ask fluid poet garden doctor sting mass";

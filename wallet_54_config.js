@@ -1,1 +1,1 @@
-var mnemonic = "draft require dinner source hen shoot cake rack bachelor toy couch clay";
+var mnemonic = "axis much autumn husband dumb abuse twice potato since chef feature finger";

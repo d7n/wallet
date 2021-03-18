@@ -1,1 +1,1 @@
-var mnemonic = "panther survey ghost pool tank junior truck top despair armor leaf output";
+var mnemonic = "away regret humble behave fury social dumb gorilla gather poem exit story";

@@ -1,1 +1,1 @@
-var mnemonic = "deny very spray salmon strategy connect arctic carpet smart odor frequent wreck";
+var mnemonic = "half fun subway metal kit entry summer decorate glance domain pottery lawn";

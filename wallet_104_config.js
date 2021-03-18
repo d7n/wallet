@@ -1,1 +1,1 @@
-var mnemonic = "obscure gallery total outside problem exhibit assume belt section name welcome bright";
+var mnemonic = "gun hospital dog visa know record click fossil session valley shrug farm";

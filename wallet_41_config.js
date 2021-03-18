@@ -1,1 +1,1 @@
-var mnemonic = "yellow wasp throw badge steak hard satisfy emerge monitor wrestle upon sunny";
+var mnemonic = "glad glimpse leg about disagree cool roast open happy bind birth liquid";

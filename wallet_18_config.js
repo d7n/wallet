@@ -1,1 +1,1 @@
-var mnemonic = "violin young shock modify random cake talent ankle auction slight truck panel";
+var mnemonic = "wolf wagon donkey chair garlic charge coin ladder brick coyote spoil artefact";

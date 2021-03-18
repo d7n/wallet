@@ -1,1 +1,1 @@
-var mnemonic = "fall price panda option mention mistake explain brain review victory domain buyer";
+var mnemonic = "drop dash win pizza bachelor nominee arctic nose since merge spatial valley";

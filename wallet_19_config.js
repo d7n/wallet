@@ -1,1 +1,1 @@
-var mnemonic = "smoke order trap client heart route slice depth brush section retreat garment";
+var mnemonic = "time mesh bacon cargo science vendor memory pitch sail enhance neither one";

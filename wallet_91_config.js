@@ -1,1 +1,1 @@
-var mnemonic = "illegal fatal cost dove length help together rabbit salmon dust winter prepare";
+var mnemonic = "slice butter goddess artwork torch tomorrow amused gift muscle fun ski sad";

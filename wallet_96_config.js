@@ -1,1 +1,1 @@
-var mnemonic = "toilet during wisdom gain blame fury dynamic chicken orange flight lyrics squeeze";
+var mnemonic = "stem you only fitness frequent inform risk have monkey cheese system require";

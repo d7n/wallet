@@ -1,1 +1,1 @@
-var mnemonic = "blood choose royal reject nation report repair argue lend tonight lyrics kitten";
+var mnemonic = "case indicate typical mirror prevent tomato happy public charge gossip primary merry";

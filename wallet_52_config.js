@@ -1,1 +1,1 @@
-var mnemonic = "toward december scrap honey side thumb effort crack mutual risk divert depth";
+var mnemonic = "hotel drastic gesture solar jaguar suit float taste affair swap glare undo";

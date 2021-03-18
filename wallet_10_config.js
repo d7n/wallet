@@ -1,1 +1,1 @@
-var mnemonic = "steak empty tank valid fog detect regular other video practice diary slender";
+var mnemonic = "price poem return comfort six receive success romance travel title sound box";

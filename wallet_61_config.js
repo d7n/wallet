@@ -1,1 +1,1 @@
-var mnemonic = "federal fish truck hour puppy result cry vapor good sugar box emerge";
+var mnemonic = "motion garlic network where artefact hurt stomach crane rival session sick goat";

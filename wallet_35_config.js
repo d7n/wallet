@@ -1,1 +1,1 @@
-var mnemonic = "right opera guide correct wine bottom venture file concert reason drive museum";
+var mnemonic = "jump maze black shove beach jump satoshi juice outside quality invest script";

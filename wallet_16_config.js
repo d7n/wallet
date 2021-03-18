@@ -1,1 +1,1 @@
-var mnemonic = "rival holiday visa erode daring harbor brown lemon second dutch genuine sick";
+var mnemonic = "title chest milk anger flavor behave strike midnight era isolate link multiply";

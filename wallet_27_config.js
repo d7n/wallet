@@ -1,1 +1,1 @@
-var mnemonic = "coral piano coach actress book kit fence village hidden august stage shop";
+var mnemonic = "edge blast ivory must annual teach friend hurdle habit outdoor ecology police";

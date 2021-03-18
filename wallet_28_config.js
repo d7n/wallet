@@ -1,1 +1,1 @@
-var mnemonic = "helmet winter clerk panther such subject primary delay river entry vacuum lawn";
+var mnemonic = "usage humble library gallery student era order dutch edge uphold doll make";

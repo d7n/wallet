@@ -1,1 +1,1 @@
-var mnemonic = "child soap dove crime scheme reward cancel umbrella rack number shallow morning";
+var mnemonic = "rib submit exclude fresh craft funny choose reflect occur vacuum fuel innocent";

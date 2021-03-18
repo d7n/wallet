@@ -1,1 +1,1 @@
-var mnemonic = "emotion fat foil surge aisle offer cost dress venue tower ready gentle";
+var mnemonic = "angry narrow broccoli twist velvet vibrant hand drift memory wrap length cruel";

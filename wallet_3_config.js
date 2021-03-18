@@ -1,1 +1,1 @@
-var mnemonic = "large garden garden update stem proud present control book adapt turtle title";
+var mnemonic = "super spare device chat agent power pill canal shallow gasp pelican evolve";

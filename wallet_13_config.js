@@ -1,1 +1,1 @@
-var mnemonic = "glare drama ready bacon coral hover act swear this boat tongue roof";
+var mnemonic = "uncover beauty uphold void keen lounge grass quarter pact join ball wall";

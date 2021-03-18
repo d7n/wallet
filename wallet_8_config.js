@@ -1,1 +1,1 @@
-var mnemonic = "share garbage biology aisle size shine jelly place deny brand peanut water";
+var mnemonic = "noise addict hawk sudden claim dinosaur exotic volume enable enlist boy speed";

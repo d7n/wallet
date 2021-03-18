@@ -1,1 +1,1 @@
-var mnemonic = "balcony desk name express town crane sock genre cage common shoulder proud";
+var mnemonic = "fade scrub another patient example life betray nerve number dance purchase figure";

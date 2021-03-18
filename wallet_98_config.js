@@ -1,1 +1,1 @@
-var mnemonic = "rotate student enemy key hamster census alter cannon priority replace dwarf flash";
+var mnemonic = "demand tooth secret barrel valve market car dolphin razor hint multiply crazy";

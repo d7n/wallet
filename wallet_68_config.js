@@ -1,1 +1,1 @@
-var mnemonic = "fury fringe engage reform phone amused fee idea knee pole snack network";
+var mnemonic = "much combine rug wolf museum violin science enhance dutch grape cycle paddle";

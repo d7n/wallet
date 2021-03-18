@@ -1,1 +1,1 @@
-var mnemonic = "thrive army estate program plunge canvas faculty spoon reform enrich consider use";
+var mnemonic = "city chimney resemble mercy immense dragon border total over shuffle thought pink";

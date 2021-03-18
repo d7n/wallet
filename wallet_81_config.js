@@ -1,1 +1,1 @@
-var mnemonic = "mansion prosper fix steak mercy marine oven echo glass coin maximum awful";
+var mnemonic = "inquiry scrap mean pig fortune senior visa fuel inflict option fever ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "original garage couch either mango movie canyon buffalo smooth fish pencil try";
+var mnemonic = "toddler work seed exit seminar level begin giggle canyon elevator stamp client";

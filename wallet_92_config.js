@@ -1,1 +1,1 @@
-var mnemonic = "virus text orange patrol social stove entry liar motion absurd priority cruise";
+var mnemonic = "essay boost mom actor check ginger badge creek possible impulse room meadow";

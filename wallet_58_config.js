@@ -1,1 +1,1 @@
-var mnemonic = "search brush misery volume today fun pilot awful afford legal follow exercise";
+var mnemonic = "camera language only ripple adjust object stool door captain solution like pen";

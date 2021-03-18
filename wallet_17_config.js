@@ -1,1 +1,1 @@
-var mnemonic = "armed spray search swamp walnut turn lion clown noble budget remove short";
+var mnemonic = "chase lunch gorilla grape solar empower stone adult planet door anger about";

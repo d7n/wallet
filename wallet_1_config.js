@@ -1,1 +1,1 @@
-var mnemonic = "bitter betray birth sugar mad shop early say wash powder anxiety sorry";
+var mnemonic = "orbit rubber chimney earn guitar alley food nasty pulse bonus quote wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage shift ocean casino label wedding eyebrow purpose cluster peasant clay goat";
+var mnemonic = "wheel truly april balance habit wolf virtual lecture sniff bacon length over";

@@ -1,1 +1,1 @@
-var mnemonic = "series world situate blossom bus lava liberty else antique grief symptom seed";
+var mnemonic = "pen globe life license dirt where clever approve rude lottery various defense";

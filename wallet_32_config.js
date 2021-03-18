@@ -1,1 +1,1 @@
-var mnemonic = "shoe draw february lunar hope soup awake elevator purity airport purity absorb";
+var mnemonic = "mixture bunker target accident surprise decorate response list off garden song olympic";

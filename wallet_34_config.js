@@ -1,1 +1,1 @@
-var mnemonic = "into hen myth east divide elite major kite party team foster rebuild";
+var mnemonic = "monitor road ask citizen ladder library churn island color venture question grocery";

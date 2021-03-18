@@ -1,1 +1,1 @@
-var mnemonic = "motion soup quick ethics pen shallow test carpet daughter across bundle six";
+var mnemonic = "layer culture elevator blade attend basket world soap damage list vacuum track";

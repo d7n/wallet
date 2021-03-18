@@ -1,1 +1,1 @@
-var mnemonic = "fortune equip elder edit gaze wagon call pride pass mimic tunnel want";
+var mnemonic = "salmon track deposit again cable step airport recall health announce chat slice";

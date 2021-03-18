@@ -1,1 +1,1 @@
-var mnemonic = "occur tired damage tiny unit puzzle mirror exhaust cage hotel toward all";
+var mnemonic = "toward iron firm ceiling boil please slide educate absurd vibrant correct miss";

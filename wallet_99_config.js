@@ -1,1 +1,1 @@
-var mnemonic = "palm immune flush turn lock blind fly shop inject profit festival rigid";
+var mnemonic = "people able magic evidence orange next sheriff pizza hold brief dilemma echo";

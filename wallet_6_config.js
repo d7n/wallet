@@ -1,1 +1,1 @@
-var mnemonic = "march control glass flag choice abstract entire swing mail sing ensure about";
+var mnemonic = "betray service snap fitness amazing amount jar cushion dice manage mushroom tag";

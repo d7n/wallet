@@ -1,1 +1,1 @@
-var mnemonic = "arena process enter knock copper ski consider invite scorpion clinic blood bottom";
+var mnemonic = "immense evil hidden whale easily loop magic skirt thrive chicken voice laundry";

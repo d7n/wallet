@@ -1,1 +1,1 @@
-var mnemonic = "solution derive myth shaft above endorse minor juice act giggle flower phrase";
+var mnemonic = "hamster wrestle dragon during duck toy mother champion away bottom river father";

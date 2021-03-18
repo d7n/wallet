@@ -1,1 +1,1 @@
-var mnemonic = "law century finish team write hood curtain nest slot volcano upper dirt";
+var mnemonic = "pilot cupboard zebra arm multiply rib joke deer shield air pond lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "oven shallow idea proud name tuition cereal gloom midnight wonder enlist cancel";
+var mnemonic = "nation space grunt angle twist sadness love kite infant sunny blouse taste";

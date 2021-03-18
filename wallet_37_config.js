@@ -1,1 +1,1 @@
-var mnemonic = "pattern excite mystery scorpion riot robust basic south badge engine broccoli genius";
+var mnemonic = "topic lucky hole resemble gloom unlock inch fold elite visual tide once";

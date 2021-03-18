@@ -1,1 +1,1 @@
-var mnemonic = "impose outer describe ladder unaware urban effort large system property dentist alien";
+var mnemonic = "search boring inflict cage rally tunnel column snack alone liar bike rifle";

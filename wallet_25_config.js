@@ -1,1 +1,1 @@
-var mnemonic = "space season control twenty end become empower draw rate below wedding public";
+var mnemonic = "follow feed biology man protect found sure visit upgrade venture animal army";

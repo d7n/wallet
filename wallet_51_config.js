@@ -1,1 +1,1 @@
-var mnemonic = "edge allow anger cherry derive oval phrase uphold amazing mirror blanket mosquito";
+var mnemonic = "train hammer earth typical burst main sword announce hood render bean head";

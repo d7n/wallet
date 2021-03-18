@@ -1,1 +1,1 @@
-var mnemonic = "cup hungry pen shadow inner frost stadium burden indoor domain reward fly";
+var mnemonic = "kingdom gift brave toward area chef dignity zero fuel giggle early twenty";

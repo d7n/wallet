@@ -1,1 +1,1 @@
-var mnemonic = "bag shield trust various chest body valid stone flame stand stem glass";
+var mnemonic = "athlete identify want disorder fish pipe thought reopen happy item knee coyote";

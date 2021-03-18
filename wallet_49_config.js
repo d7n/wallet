@@ -1,1 +1,1 @@
-var mnemonic = "tide sense hockey sell pen cotton unique small embody decade snow sponsor";
+var mnemonic = "feature raw brave will peasant medal bicycle deputy reward approve give once";

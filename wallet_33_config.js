@@ -1,1 +1,1 @@
-var mnemonic = "neglect relax guitar step hero chunk sentence year audit decrease exotic evidence";
+var mnemonic = "rapid draft chronic galaxy junk estate aspect crystal acquire genius water horse";

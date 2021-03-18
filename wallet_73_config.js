@@ -1,1 +1,1 @@
-var mnemonic = "brown pattern round nation mountain icon shove merge sing urge cruise cart";
+var mnemonic = "interest desert asthma blur width book biology erode beauty document photo scare";

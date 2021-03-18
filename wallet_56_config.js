@@ -1,1 +1,1 @@
-var mnemonic = "gesture hunt sword exit muffin will grape bleak school remind spawn forum";
+var mnemonic = "vocal ability shuffle month gaze average scorpion topple robot demand senior puzzle";

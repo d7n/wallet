@@ -1,1 +1,1 @@
-var mnemonic = "together number furnace flip gas cake festival blur explain accident theme visual";
+var mnemonic = "miracle hard throw curve divorce orchard floor violin edge trouble dentist humble";

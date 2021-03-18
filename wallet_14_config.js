@@ -1,1 +1,1 @@
-var mnemonic = "home height obscure stick olive hamster parade stable expire turtle chest orange";
+var mnemonic = "rebuild poverty pulse tooth grief client route prize mesh amount leisure cabbage";

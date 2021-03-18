@@ -1,1 +1,1 @@
-var mnemonic = "pioneer this pen shrimp doll faint myth will wool torch find click";
+var mnemonic = "drill another car recall fix bulb pill frozen aspect female lava cricket";

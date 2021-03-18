@@ -1,1 +1,1 @@
-var mnemonic = "famous marine skull rookie shed blind hurry offer kit kite quiz story";
+var mnemonic = "often glare unveil enlist game gravity camp inhale express virus candy mix";

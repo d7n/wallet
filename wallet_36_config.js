@@ -1,1 +1,1 @@
-var mnemonic = "hill recipe reform window party soup fish spring sad display license seat";
+var mnemonic = "course horse wasp betray shuffle butter worry thrive oxygen viable swear neck";

@@ -1,1 +1,1 @@
-var mnemonic = "reform away alarm waste certain twelve basket advice fringe chalk federal mix";
+var mnemonic = "ordinary matrix amount song keen scrap like ritual mosquito beauty captain sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra symptom neck oven twin later among black burst devote flat phrase";
+var mnemonic = "farm crop parade rate million movie light silver clinic scrap swear exhaust";

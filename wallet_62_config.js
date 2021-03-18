@@ -1,1 +1,1 @@
-var mnemonic = "define defense account hole recall other arctic coyote cycle despair endorse across";
+var mnemonic = "furnace corn month shed marine until right normal link cost profit great";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant casino emotion monkey motor roof tobacco fluid broken room spring become";
+var mnemonic = "veteran join board okay simple vote possible where matrix vacuum bar hint";

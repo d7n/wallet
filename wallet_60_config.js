@@ -1,1 +1,1 @@
-var mnemonic = "say similar bunker property amateur roof model danger amazing enemy sugar evidence";
+var mnemonic = "shell blush trick loud jar end select slogan arm limit dirt account";

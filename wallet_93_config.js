@@ -1,1 +1,1 @@
-var mnemonic = "category wrong around chair suspect weasel mind worry web there napkin tribe";
+var mnemonic = "hammer have oyster butter echo move yard case pelican tragic iron bike";

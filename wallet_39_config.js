@@ -1,1 +1,1 @@
-var mnemonic = "journey scatter record excuse bacon artist idea expect yellow aspect spend donate";
+var mnemonic = "cannon sheriff magic nominee abstract zero seed grief similar attract gown cheap";

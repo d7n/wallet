@@ -1,1 +1,1 @@
-var mnemonic = "local mammal off buyer monkey light prevent catalog blame blood cloth unveil";
+var mnemonic = "best orange december shallow twin aware room popular present minor only become";

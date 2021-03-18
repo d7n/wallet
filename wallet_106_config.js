@@ -1,1 +1,1 @@
-var mnemonic = "waste curve conduct aware chaos elder since impose arrive tower blue hill";
+var mnemonic = "high fault athlete neglect split stereo reject chimney inflict often vapor tape";

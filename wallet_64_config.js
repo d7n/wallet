@@ -1,1 +1,1 @@
-var mnemonic = "invest whisper ill prison hard skull six gather library brown naive word";
+var mnemonic = "grab twin abuse anxiety grant sure release field mail amazing hungry giraffe";

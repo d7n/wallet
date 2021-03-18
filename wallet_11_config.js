@@ -1,1 +1,1 @@
-var mnemonic = "human riot love remind quit kid sun leader economy desert occur shy";
+var mnemonic = "avoid squeeze snap best liar pattern warfare mad pattern tool impact dawn";

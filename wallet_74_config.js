@@ -1,1 +1,1 @@
-var mnemonic = "advance trip prepare onion win tape wheat admit sorry quiz flame unique";
+var mnemonic = "rain spare valley buyer humble share romance blanket castle govern wood clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm minute dry okay term picnic thunder prevent front juice system unique";
+var mnemonic = "sentence ignore fragile tower sun castle coconut motion marine chuckle involve office";

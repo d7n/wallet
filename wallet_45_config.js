@@ -1,1 +1,1 @@
-var mnemonic = "thumb elegant vault cement claim hotel toilet buyer fantasy offer equal civil";
+var mnemonic = "various become silver chat lunch pact neither renew pulse style person brother";
