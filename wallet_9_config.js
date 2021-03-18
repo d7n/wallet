@@ -1,1 +1,1 @@
-var mnemonic = "bless fun eye young fade couple penalty indicate page ribbon salon shoe";
+var mnemonic = "crisp guide oyster way offer mass fantasy tissue fringe hello income spirit";

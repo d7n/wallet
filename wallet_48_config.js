@@ -1,1 +1,1 @@
-var mnemonic = "amused guitar hen purchase apart celery mirror scan abandon spoon chimney march";
+var mnemonic = "mango over magic assist pottery drill donate exercise miss shiver fancy custom";

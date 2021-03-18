@@ -1,1 +1,1 @@
-var mnemonic = "mango someone universe core network join will action camp machine seven quarter";
+var mnemonic = "silver science receive young tobacco balance glance zoo check loan defy cake";

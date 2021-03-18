@@ -1,1 +1,1 @@
-var mnemonic = "wool educate stem gaze clinic monster town issue trouble catch session nasty";
+var mnemonic = "fashion notable limit mercy tiny body panther bicycle limb share glow pull";

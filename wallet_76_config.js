@@ -1,1 +1,1 @@
-var mnemonic = "staff crane silent elevator hammer push magnet core ritual kit thumb option";
+var mnemonic = "furnace endorse wear fence evoke adult exist ancient box giggle inmate game";

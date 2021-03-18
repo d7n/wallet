@@ -1,1 +1,1 @@
-var mnemonic = "raw page allow scare plug nasty license surround comfort sample column labor";
+var mnemonic = "honey auction team detail you swim bridge three bitter like demand lawn";

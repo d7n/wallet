@@ -1,1 +1,1 @@
-var mnemonic = "success basic affair virtual flame elegant rude derive cabbage fever control flat";
+var mnemonic = "magic snow leader glow dish connect bench adapt film exercise charge skin";

@@ -1,1 +1,1 @@
-var mnemonic = "judge close human maximum leader tumble filter angry shield address hover flower";
+var mnemonic = "stereo elder patient retreat artefact harsh pudding movie main doll catch discover";

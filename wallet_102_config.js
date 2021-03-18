@@ -1,1 +1,1 @@
-var mnemonic = "front either exist gaze sustain skin speak finish lock multiply napkin obey";
+var mnemonic = "infant song coral eternal trap auction cake frost gasp talent promote umbrella";

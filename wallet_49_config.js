@@ -1,1 +1,1 @@
-var mnemonic = "army fortune elbow main bless goat drift harsh choose about winter entire";
+var mnemonic = "invite valley lock wagon exotic inmate brush pattern tiny crane giggle inflict";

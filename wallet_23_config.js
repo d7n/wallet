@@ -1,1 +1,1 @@
-var mnemonic = "deposit stereo donate cycle half scheme eyebrow around half worry spring camp";
+var mnemonic = "secret vast file valid tornado gauge skill royal business asthma title frequent";

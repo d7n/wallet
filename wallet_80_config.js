@@ -1,1 +1,1 @@
-var mnemonic = "enhance asthma drive reopen push glass coast clock quick nasty hire trust";
+var mnemonic = "oblige account citizen submit decade alley symbol brick penalty circle enlist degree";

@@ -1,1 +1,1 @@
-var mnemonic = "battle polar orange dutch blood soon alert media spring rookie auto oxygen";
+var mnemonic = "apart that hurt float decide slot path winner else rude hard net";

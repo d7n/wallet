@@ -1,1 +1,1 @@
-var mnemonic = "core clump confirm oppose quick vanish ghost usage spell warrior pelican refuse";
+var mnemonic = "record orient hand idle strike visit devote session blast front tragic when";

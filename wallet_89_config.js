@@ -1,1 +1,1 @@
-var mnemonic = "situate oil embody debate range popular slab term parent uphold antenna need";
+var mnemonic = "until window garage pitch odor elder reduce season carpet scan scorpion toward";

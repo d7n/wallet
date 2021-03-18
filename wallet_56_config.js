@@ -1,1 +1,1 @@
-var mnemonic = "useless parade analyst ball rival december west track letter illegal imitate december";
+var mnemonic = "debate enable begin marriage slice barely item print same mask gadget slide";

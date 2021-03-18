@@ -1,1 +1,1 @@
-var mnemonic = "clinic super poverty initial copper guide notable chronic tide good visual practice";
+var mnemonic = "endless ocean lounge proud wave skirt live seminar rival loud master view";

@@ -1,1 +1,1 @@
-var mnemonic = "silly gap common social retire river cotton update join suffer burst bonus";
+var mnemonic = "rug voice cube cushion junior bullet wrong airport riot vicious light front";

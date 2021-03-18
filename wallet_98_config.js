@@ -1,1 +1,1 @@
-var mnemonic = "guide gather someone donor expand safe parrot visa cousin cause tuna inject";
+var mnemonic = "split craft copy upper inmate client arrange invite risk spring jelly provide";

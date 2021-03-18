@@ -1,1 +1,1 @@
-var mnemonic = "pact bullet seed under crash poem message arrest pigeon dose uphold bench";
+var mnemonic = "undo combine oblige mistake action save east pink oak target impact lava";

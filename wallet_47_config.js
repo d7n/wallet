@@ -1,1 +1,1 @@
-var mnemonic = "fiber process hello rapid sugar genius flat burst toilet romance tornado dog";
+var mnemonic = "cable pair poverty crater carpet ask will south clever account edit decline";

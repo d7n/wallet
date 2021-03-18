@@ -1,1 +1,1 @@
-var mnemonic = "season book mango forum exotic pass broom movie elephant olive identify unhappy";
+var mnemonic = "myth maximum garment reopen wrestle tribe solution garage sea suspect save rib";

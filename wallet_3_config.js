@@ -1,1 +1,1 @@
-var mnemonic = "pool hen ocean promote pluck either prefer exile dilemma winter scheme bless";
+var mnemonic = "exercise cheap file supply pledge vivid cliff risk grant tonight horn chuckle";

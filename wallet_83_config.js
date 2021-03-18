@@ -1,1 +1,1 @@
-var mnemonic = "begin march about despair know virus cement acquire veteran faculty ice alley";
+var mnemonic = "net sting reveal shrimp brown owner settle firm exhaust mesh tone smooth";

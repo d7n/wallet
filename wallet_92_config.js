@@ -1,1 +1,1 @@
-var mnemonic = "cause annual tent access talent rule yellow grief actress photo athlete excess";
+var mnemonic = "shield fitness cupboard suit gossip talent allow volume situate abandon happy trend";

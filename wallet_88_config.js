@@ -1,1 +1,1 @@
-var mnemonic = "push sauce surface sand laugh quote entire energy ask mansion service base";
+var mnemonic = "artwork blind artwork pause roast head avocado wise bar warfare hood castle";

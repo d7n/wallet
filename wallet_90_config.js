@@ -1,1 +1,1 @@
-var mnemonic = "differ garage marine hammer bleak live detect guitar month carry settle swear";
+var mnemonic = "mesh put clay husband crowd awesome rally woman hole silent april pen";

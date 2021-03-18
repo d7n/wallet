@@ -1,1 +1,1 @@
-var mnemonic = "timber six chaos donate where manual final jungle vocal also fun tip";
+var mnemonic = "hand super volcano wrap bulk inhale bring tilt develop horn chronic skin";

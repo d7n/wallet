@@ -1,1 +1,1 @@
-var mnemonic = "surprise organ rotate wealth mix rifle destroy hover pen photo goddess quantum";
+var mnemonic = "wrap wheel earn list rice blade flavor raccoon manual royal identify blossom";

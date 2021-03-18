@@ -1,1 +1,1 @@
-var mnemonic = "double host trigger usage accident nasty negative cry bronze topple solid practice";
+var mnemonic = "leisure nice sunset giant nice assume answer nut arrest diesel omit patrol";

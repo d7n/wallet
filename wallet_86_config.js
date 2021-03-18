@@ -1,1 +1,1 @@
-var mnemonic = "risk multiply radio maid artefact two cube beauty exhibit ecology canoe pen";
+var mnemonic = "wolf squeeze jacket guide cliff pencil trim tide ankle vague ladder pride";

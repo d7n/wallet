@@ -1,1 +1,1 @@
-var mnemonic = "chunk comic alley nurse pigeon drift october taxi glide predict blade rival";
+var mnemonic = "repair enforce math peasant coin draw van uncover luggage degree funny fitness";

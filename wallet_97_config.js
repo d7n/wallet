@@ -1,1 +1,1 @@
-var mnemonic = "reward segment laugh wire come orange wood update agent rabbit violin volume";
+var mnemonic = "fiber owner expose desk robot measure prevent canal feed wrong snack movie";

@@ -1,1 +1,1 @@
-var mnemonic = "accident million hour romance sketch soap category weird obvious glad eyebrow mix";
+var mnemonic = "razor patient involve shock pave leaf town erupt afford reward brown sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "speak finish surge senior spot curious item monkey cruise cook forget lecture";
+var mnemonic = "jelly guitar wage aerobic knock direct profit message regret scissors pulp lion";

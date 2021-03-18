@@ -1,1 +1,1 @@
-var mnemonic = "effort trumpet toss myself jump spoil mimic humble rule black glare tonight";
+var mnemonic = "ribbon already erode short kangaroo pencil resource boy bind actor awful young";

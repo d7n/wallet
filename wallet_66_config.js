@@ -1,1 +1,1 @@
-var mnemonic = "must hole volcano list curtain sketch alley mouse moral rich magnet skill";
+var mnemonic = "balcony gesture craft hurt grape find muffin fresh diamond ripple coin marble";

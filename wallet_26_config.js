@@ -1,1 +1,1 @@
-var mnemonic = "torch dream hip lizard claim smooth shiver enjoy gain access lock boil";
+var mnemonic = "flip gift confirm razor shy aim urban price vote rule program vanish";

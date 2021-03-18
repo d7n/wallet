@@ -1,1 +1,1 @@
-var mnemonic = "twenty position theory verb during bounce tattoo city ensure picture galaxy horn";
+var mnemonic = "episode soft project version trip pupil brisk miracle tackle glow street expand";

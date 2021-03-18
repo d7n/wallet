@@ -1,1 +1,1 @@
-var mnemonic = "repair among valley person source snow alarm final engage alien funny pencil";
+var mnemonic = "viable police exile eager term ramp three stuff hero witness video replace";

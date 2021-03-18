@@ -1,1 +1,1 @@
-var mnemonic = "race miss match club forget lottery annual force slot pen ignore dragon";
+var mnemonic = "scale when tiny client custom abstract chef episode bird skull neither lizard";

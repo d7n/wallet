@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur story banana broom helmet vehicle evoke coffee away milk copper trouble";
+var mnemonic = "secret weird aware push hamster mixed culture glimpse remind butter praise aim";

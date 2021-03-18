@@ -1,1 +1,1 @@
-var mnemonic = "find dwarf cousin erupt fame disorder abstract custom educate always indicate movie";
+var mnemonic = "solid lamp minimum merry soup tray wash latin barrel scout mercy dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "pear frame century acquire display bonus humble seminar wink album brass saddle";
+var mnemonic = "swamp clog gauge plunge hamster team film harbor plunge brass add pull";

@@ -1,1 +1,1 @@
-var mnemonic = "fit basic brother juice kingdom change frozen copy basic fade blind typical";
+var mnemonic = "course naive dog cool select impulse exclude slot broccoli certain riot fog";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth into grit swamp balance belt praise pen margin super hurry journey";
+var mnemonic = "ask praise resource flush machine stem paper entry muffin dismiss idle ladder";

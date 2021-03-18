@@ -1,1 +1,1 @@
-var mnemonic = "client pioneer once magnet scorpion daring deal huge control duty distance then";
+var mnemonic = "hour busy immune express inform imitate wave table toe estate insect bus";

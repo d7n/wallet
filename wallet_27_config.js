@@ -1,1 +1,1 @@
-var mnemonic = "unique remain duty arctic pond always lumber weird vehicle cereal gloom error";
+var mnemonic = "cargo muscle maid power debris maid rude frame mushroom another deliver credit";

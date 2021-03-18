@@ -1,1 +1,1 @@
-var mnemonic = "ghost abandon sail intact frown brother lake subway entry sun hockey say";
+var mnemonic = "project clump clutch crawl topic rule fine ocean supreme post fiber connect";

@@ -1,1 +1,1 @@
-var mnemonic = "combine merit draw rice summer tattoo dirt voyage culture treat talk knife";
+var mnemonic = "state mouse zoo juice staff harvest hamster blossom what area purity miss";

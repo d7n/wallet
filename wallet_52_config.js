@@ -1,1 +1,1 @@
-var mnemonic = "assist purity path hold advice two into wrong soccer night silver light";
+var mnemonic = "position judge major opinion rookie reward source year become ribbon slot security";

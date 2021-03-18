@@ -1,1 +1,1 @@
-var mnemonic = "call mansion pyramid foam supreme exhaust various token vibrant quality vicious tree";
+var mnemonic = "space artwork suggest vocal galaxy can struggle educate prison have still pull";

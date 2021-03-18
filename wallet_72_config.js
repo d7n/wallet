@@ -1,1 +1,1 @@
-var mnemonic = "system invite walnut great weekend order file entire delay scout cube agree";
+var mnemonic = "letter finish cement control buzz mention rough actress possible license present caution";

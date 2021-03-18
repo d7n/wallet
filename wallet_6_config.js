@@ -1,1 +1,1 @@
-var mnemonic = "sweet mushroom stem access upon warfare echo energy pizza humble boost happy";
+var mnemonic = "pear smoke ethics multiply child mom doll match muscle series material version";

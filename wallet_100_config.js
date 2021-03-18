@@ -1,1 +1,1 @@
-var mnemonic = "issue claw renew lamp owner very loud grab link fuel chat soap";
+var mnemonic = "napkin depend quality duck method brand pass kingdom honey smoke west great";

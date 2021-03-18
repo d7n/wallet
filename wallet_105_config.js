@@ -1,1 +1,1 @@
-var mnemonic = "valley protect lawsuit unique gift cost betray tennis denial flock material canyon";
+var mnemonic = "concert denial update silent number screen hotel chase kiwi clip pelican urban";

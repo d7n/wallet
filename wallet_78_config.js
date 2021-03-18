@@ -1,1 +1,1 @@
-var mnemonic = "kick priority chair laundry general garage bar luxury tape subject torch session";
+var mnemonic = "swear drift basket exotic below secret tennis wrong envelope mandate expect plastic";

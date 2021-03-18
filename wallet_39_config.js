@@ -1,1 +1,1 @@
-var mnemonic = "spring virtual remind flavor puppy increase worth another van kit increase village";
+var mnemonic = "orange remove royal pink save finish disease among old happy asset leave";

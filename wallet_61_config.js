@@ -1,1 +1,1 @@
-var mnemonic = "answer tell tool profit memory call rail woman horse topic adult chronic";
+var mnemonic = "sea pigeon pact muffin toddler fossil diagram error wink tuition width whisper";

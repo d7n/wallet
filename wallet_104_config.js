@@ -1,1 +1,1 @@
-var mnemonic = "subway obscure utility fetch orchard sample recall flat runway birth strike jungle";
+var mnemonic = "border bless uncover bounce dose tenant reopen kit segment point warrior symptom";

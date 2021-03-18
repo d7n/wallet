@@ -1,1 +1,1 @@
-var mnemonic = "play pole crop moral quick clarify car wreck scrub belt dragon various";
+var mnemonic = "muscle stomach asset clever tonight use legend keen common system phone canyon";

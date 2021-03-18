@@ -1,1 +1,1 @@
-var mnemonic = "note inmate sport core finger because stay identify frog runway quiz city";
+var mnemonic = "divert parrot purse dilemma shield police analyst execute orient gallery current barrel";

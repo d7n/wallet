@@ -1,1 +1,1 @@
-var mnemonic = "student insane dial until ancient catalog dwarf soccer toy lesson quiz noble";
+var mnemonic = "trade farm diamond plastic aspect cushion stand uniform swallow execute hurry street";

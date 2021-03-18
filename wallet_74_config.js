@@ -1,1 +1,1 @@
-var mnemonic = "august day vast alley innocent intact put used soccer stick rigid expect";
+var mnemonic = "celery nephew pact jaguar antenna scatter glad heart defense bag bright knock";

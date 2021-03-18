@@ -1,1 +1,1 @@
-var mnemonic = "patrol foil harvest force tornado escape satisfy appear enroll because desert omit";
+var mnemonic = "rent soccer section assault lonely fat tunnel pause cabin embark spread sunset";

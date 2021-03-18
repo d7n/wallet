@@ -1,1 +1,1 @@
-var mnemonic = "young oblige trend plug never major bridge build broken sample dumb misery";
+var mnemonic = "fix flash burst domain parade cloud way system zoo picture frequent solve";

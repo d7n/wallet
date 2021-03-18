@@ -1,1 +1,1 @@
-var mnemonic = "pottery gaze shoulder arrow rocket rally deposit tongue acid this divide range";
+var mnemonic = "prize couch inspire energy inmate piece force slender damp hunt shop random";

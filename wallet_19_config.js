@@ -1,1 +1,1 @@
-var mnemonic = "crazy lucky message pitch airport awful tribe say sad inside again you";
+var mnemonic = "arrest gravity stomach direct they dawn crash verb short resource equal wise";

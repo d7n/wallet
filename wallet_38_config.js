@@ -1,1 +1,1 @@
-var mnemonic = "enter double economy reopen limit plunge diet ocean raccoon veteran whip spoon";
+var mnemonic = "normal bar box cream trash color bullet fix any ski water theme";

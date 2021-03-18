@@ -1,1 +1,1 @@
-var mnemonic = "renew army battle session junk movie sword image wise code evidence stone";
+var mnemonic = "trophy image always thrive ginger nuclear family author wolf dog clean brief";

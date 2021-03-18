@@ -1,1 +1,1 @@
-var mnemonic = "cost dance option identify title check accuse regular cigar hold borrow oblige";
+var mnemonic = "traffic tonight shine poet typical violin capable slow taxi prevent dash acquire";

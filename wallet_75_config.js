@@ -1,1 +1,1 @@
-var mnemonic = "upset diagram save syrup slim envelope still auction front thought tonight raven";
+var mnemonic = "control quiz index maple short daring naive meat sketch turn solid butter";

@@ -1,1 +1,1 @@
-var mnemonic = "piano fog repeat more curve genre item shift hip deputy chase bread";
+var mnemonic = "play donkey melody spatial creek success include light tone fiction pride garment";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn leg antenna toilet swim april visa fiber tone essence unfold ticket";
+var mnemonic = "ceiling bike approve panther bacon fog fox fog borrow scout hen attend";

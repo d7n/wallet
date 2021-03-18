@@ -1,1 +1,1 @@
-var mnemonic = "shop sock produce more escape tube warrior buyer media theme evil floor";
+var mnemonic = "skull carbon rack sibling metal boil near sphere forest legal movie pyramid";

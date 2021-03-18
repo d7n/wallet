@@ -1,1 +1,1 @@
-var mnemonic = "direct stone bacon chaos solar solve release warfare dilemma reason quick erode";
+var mnemonic = "dismiss hope uniform equip giggle crisp zebra flip shiver inherit dial jelly";

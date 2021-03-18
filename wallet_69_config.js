@@ -1,1 +1,1 @@
-var mnemonic = "cable salute tenant tenant earn sunset pudding segment august purity feed drip";
+var mnemonic = "fiction fat tube damage ill sleep dice clump push six useful perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "already repair lumber waste outer biology resource benefit matrix spike leisure effort";
+var mnemonic = "flag weasel federal volcano glory rescue level predict merry bullet trim pilot";

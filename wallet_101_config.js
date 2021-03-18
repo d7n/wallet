@@ -1,1 +1,1 @@
-var mnemonic = "timber region vibrant drill burden muffin miracle garment fade violin reason system";
+var mnemonic = "pizza citizen eye what false gospel olive sunny various clinic muscle coast";

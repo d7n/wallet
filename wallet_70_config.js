@@ -1,1 +1,1 @@
-var mnemonic = "bring rabbit legend hill slogan attitude enact horn annual special pole stove";
+var mnemonic = "strategy fiscal canyon broom loud humor perfect afraid trophy thing struggle sure";

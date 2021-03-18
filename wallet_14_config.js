@@ -1,1 +1,1 @@
-var mnemonic = "across robust affair across glove joy multiply repeat test crazy convince march";
+var mnemonic = "steel shove smooth blanket rival riot chronic dial pitch bone card distance";

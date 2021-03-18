@@ -1,1 +1,1 @@
-var mnemonic = "final sleep catalog tunnel amazing almost logic clean grain print avoid sight";
+var mnemonic = "desk night universe bottom culture shrimp peasant race brand render dilemma talent";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch debris consider slogan glove unaware day style van curve venue black";
+var mnemonic = "veteran nut envelope load spread anger syrup keep bamboo display garden soup";

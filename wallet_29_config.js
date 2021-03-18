@@ -1,1 +1,1 @@
-var mnemonic = "twice print crew music color finger parent mention drop message shift song";
+var mnemonic = "time ancient payment injury feel second expose blush void topple reflect recipe";

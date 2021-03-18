@@ -1,1 +1,1 @@
-var mnemonic = "omit aerobic battle sail embark road pottery craft birth buddy idle flock";
+var mnemonic = "multiply reason accuse priority slab unable local teach route zoo elbow glory";

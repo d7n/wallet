@@ -1,1 +1,1 @@
-var mnemonic = "explain hazard income trend climb large best excuse sick faint suspect fossil";
+var mnemonic = "reject enhance viable velvet hero maze joke divorce pretty shallow forest slot";

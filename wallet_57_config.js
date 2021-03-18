@@ -1,1 +1,1 @@
-var mnemonic = "open leg gospel brisk treat tell else bind recall ostrich reflect direct";
+var mnemonic = "eyebrow dose drama poverty month baby panel cry rescue term obey bleak";
