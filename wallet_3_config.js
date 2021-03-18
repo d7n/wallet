@@ -1,1 +1,1 @@
-var mnemonic = "session myth merge armed true large glare body model spice link distance";
+var mnemonic = "edit load daring salad exotic flock fancy person dutch region magnet million";

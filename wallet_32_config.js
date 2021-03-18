@@ -1,1 +1,1 @@
-var mnemonic = "depth use spoil effort taxi forum awake frequent uncle kiss tag often";
+var mnemonic = "weasel dose fix section exhaust reason glide purity abstract apple depart parade";

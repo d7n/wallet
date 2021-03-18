@@ -1,1 +1,1 @@
-var mnemonic = "radar connect credit harvest ivory false text true evidence fury retreat crane";
+var mnemonic = "outer castle eyebrow robust ship tone broccoli sport broccoli avocado scrap main";

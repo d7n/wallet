@@ -1,1 +1,1 @@
-var mnemonic = "raven update tent chicken decade cupboard people unit fine random raise hen";
+var mnemonic = "attack siren logic actress boring jewel angry road robust dwarf loan orchard";

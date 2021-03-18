@@ -1,1 +1,1 @@
-var mnemonic = "crawl donor behind tag staff coffee domain allow mind badge purpose employ";
+var mnemonic = "flat ignore spider silver swallow huge century close tenant train seminar sentence";

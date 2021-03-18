@@ -1,1 +1,1 @@
-var mnemonic = "ecology blast evoke own finish lunar tissue cross ask castle effort code";
+var mnemonic = "palace rural dilemma disease retire curious tip open tunnel service margin upset";

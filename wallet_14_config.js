@@ -1,1 +1,1 @@
-var mnemonic = "busy gauge mixed notice decrease shiver person math taxi old traffic ridge";
+var mnemonic = "season jazz annual talent claim fix disease comfort exercise merit ball inspire";

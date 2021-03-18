@@ -1,1 +1,1 @@
-var mnemonic = "type finger cube stool head supreme black cover inner evil home leader";
+var mnemonic = "casino track burst border immune ignore love magic maze project that afford";

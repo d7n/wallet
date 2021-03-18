@@ -1,1 +1,1 @@
-var mnemonic = "film suggest clutch harbor crop melody inform sustain squirrel vague begin endless";
+var mnemonic = "penalty clutch mail head blanket bike dilemma suspect flee give online live";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn grace noble moral loyal issue lend spirit luggage common boost antique";
+var mnemonic = "sign fan word flag lucky shove around crouch great vessel elder risk";

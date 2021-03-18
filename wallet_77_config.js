@@ -1,1 +1,1 @@
-var mnemonic = "public hotel athlete arch crowd melody guilt tornado ritual air rent outer";
+var mnemonic = "veteran upset festival scheme increase field guide lawn trouble warfare october involve";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude spatial west grocery idle tiny volume bike divorce boat soap across";
+var mnemonic = "network now acoustic affair mechanic runway suit develop autumn rose burden gown";

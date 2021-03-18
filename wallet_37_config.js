@@ -1,1 +1,1 @@
-var mnemonic = "idea square people bottom oyster modify sadness sport remove net walk yard";
+var mnemonic = "army rubber defense coconut annual equip will evoke odor shove normal outer";

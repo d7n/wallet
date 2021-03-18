@@ -1,1 +1,1 @@
-var mnemonic = "whale laugh whisper distance bottom april creek sport achieve jar snack carry";
+var mnemonic = "festival sponsor vanish race ancient battle gym sun scissors brother family virus";

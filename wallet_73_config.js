@@ -1,1 +1,1 @@
-var mnemonic = "bamboo museum portion add stadium burden gentle spend first uniform story myself";
+var mnemonic = "illegal top fault physical sustain toe year sort volcano enter fever fun";

@@ -1,1 +1,1 @@
-var mnemonic = "vote observe skull heart tape era noodle lend tragic rude bean auto";
+var mnemonic = "insect humble such faith tenant length offer click cage fitness laptop regret";

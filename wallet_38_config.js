@@ -1,1 +1,1 @@
-var mnemonic = "exhaust burden pupil hunt vanish wrist critic robot pause fatigue benefit elbow";
+var mnemonic = "unfold file arrange draw acquire acquire peanut initial remember you joy soap";

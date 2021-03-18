@@ -1,1 +1,1 @@
-var mnemonic = "replace grief number work usual divide harsh miracle jelly word praise shaft";
+var mnemonic = "cave spray endless forget you science girl misery biology bargain donate meadow";

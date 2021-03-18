@@ -1,1 +1,1 @@
-var mnemonic = "mobile village idle cover math stool come tenant throw differ addict caught";
+var mnemonic = "steel weather dry endless act check connect shift seven skill latin connect";

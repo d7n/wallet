@@ -1,1 +1,1 @@
-var mnemonic = "search virtual insane work track address lyrics prefer typical bid sad feature";
+var mnemonic = "indoor squirrel meadow cradle luggage wrestle element still embark hunt soft amazing";

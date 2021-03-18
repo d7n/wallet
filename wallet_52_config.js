@@ -1,1 +1,1 @@
-var mnemonic = "mistake genius dog oblige enact return rival thrive volume wink order space";
+var mnemonic = "subway easily reform safe vocal other sunny thought rookie lady pumpkin grow";

@@ -1,1 +1,1 @@
-var mnemonic = "word square street squeeze foster thumb guitar error detail believe utility churn";
+var mnemonic = "will hazard flee toast box initial poem tomato lemon decorate anxiety access";

@@ -1,1 +1,1 @@
-var mnemonic = "original praise pumpkin brief crystal scrap exhaust runway save brisk between drink";
+var mnemonic = "wash dizzy else term rich shove outside duck tip sell cotton edit";

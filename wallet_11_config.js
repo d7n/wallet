@@ -1,1 +1,1 @@
-var mnemonic = "barely joke tower fitness large govern swamp once income sense hospital ugly";
+var mnemonic = "parrot amateur inspire copy item odor end stumble mango duty lesson fury";

@@ -1,1 +1,1 @@
-var mnemonic = "mom chunk security tired cube lake plate muffin under tomato either anger";
+var mnemonic = "female auction speed cram hungry rubber below palace frame enrich news shoot";

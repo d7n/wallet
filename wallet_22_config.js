@@ -1,1 +1,1 @@
-var mnemonic = "above burst gentle crawl please dream remind suffer myself crater west resource";
+var mnemonic = "duty chalk own jaguar velvet history card unit air divert life empower";

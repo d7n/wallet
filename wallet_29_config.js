@@ -1,1 +1,1 @@
-var mnemonic = "baby again about brave sample flip success dumb used resist uniform trip";
+var mnemonic = "street inspire spend wish pact one miss august birth answer intact useless";

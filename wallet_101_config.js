@@ -1,1 +1,1 @@
-var mnemonic = "tourist slot tennis quantum drift summer art car emerge fault oval social";
+var mnemonic = "eight icon apart guess echo token any advice black stomach ripple join";

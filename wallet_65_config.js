@@ -1,1 +1,1 @@
-var mnemonic = "action library inmate dry cluster gold holiday assume blood escape crunch fruit";
+var mnemonic = "voyage afford cool nuclear soda snow weekend cook asset oxygen security output";

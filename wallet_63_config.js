@@ -1,1 +1,1 @@
-var mnemonic = "choose erode stool proof eye barrel frown lock food make diary receive";
+var mnemonic = "salt brother tortoise lonely must inherit prison option royal parent coyote denial";

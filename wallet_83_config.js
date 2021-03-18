@@ -1,1 +1,1 @@
-var mnemonic = "course spider agent chef enhance parent addict pet aunt maple glance country";
+var mnemonic = "shed intact juice profit glare ill basic plug warm impulse cargo misery";

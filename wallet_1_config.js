@@ -1,1 +1,1 @@
-var mnemonic = "since post peasant phrase topple dismiss burger receive mimic desert near grape";
+var mnemonic = "toast globe use stumble eagle enroll yellow frown spare school lizard catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "today mechanic lounge observe sight knee wonder milk cash town canvas test";
+var mnemonic = "category lawsuit nation tank furnace business net clean bridge banner bar ceiling";

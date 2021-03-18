@@ -1,1 +1,1 @@
-var mnemonic = "better roast sleep rude kid crack exchange connect demand goat face infant";
+var mnemonic = "mosquito organ stumble assault machine throw because twelve limit clump dove vote";

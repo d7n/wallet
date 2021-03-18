@@ -1,1 +1,1 @@
-var mnemonic = "excite emotion zoo universe heavy produce cinnamon master cruise whale glimpse juice";
+var mnemonic = "lesson derive plate flip excite taxi warrior plunge sugar arena beef circle";

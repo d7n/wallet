@@ -1,1 +1,1 @@
-var mnemonic = "sun tail critic pet boring sadness suffer suffer unable enough giggle cause";
+var mnemonic = "force goddess amazing exit jacket move answer cluster execute tongue daring ten";

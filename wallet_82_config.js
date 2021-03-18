@@ -1,1 +1,1 @@
-var mnemonic = "ripple weird lecture erode clown purse world interest nature idle hint vehicle";
+var mnemonic = "cover drop tiny sight fall cousin spare birth cause visit below fringe";

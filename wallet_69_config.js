@@ -1,1 +1,1 @@
-var mnemonic = "hold cycle garage marine violin have breeze equip vivid link cradle okay";
+var mnemonic = "jacket cross knee gold across obvious nasty among lumber fall cannon estate";

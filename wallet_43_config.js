@@ -1,1 +1,1 @@
-var mnemonic = "wide cycle demand siege dilemma diet deputy exit dove shift then produce";
+var mnemonic = "brand elephant whisper will body unique night extend snap sense draft sustain";

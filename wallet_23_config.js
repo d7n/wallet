@@ -1,1 +1,1 @@
-var mnemonic = "harbor fringe rent awful erosion mechanic portion tail together hazard skin make";
+var mnemonic = "meadow spice gauge load intact ethics wish lock invite outdoor vehicle party";

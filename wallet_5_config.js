@@ -1,1 +1,1 @@
-var mnemonic = "winter loud seat dilemma kind venue bullet chunk fiction truck final label";
+var mnemonic = "screen manual garbage nephew onion record wrestle hat silly squeeze shell power";

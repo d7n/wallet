@@ -1,1 +1,1 @@
-var mnemonic = "animal pistol car chaos panda domain this setup spike polar lesson voyage";
+var mnemonic = "desert write meadow neither envelope problem luggage valve choose more trap page";

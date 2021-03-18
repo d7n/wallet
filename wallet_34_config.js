@@ -1,1 +1,1 @@
-var mnemonic = "bullet release define number civil grid naive wash throw alien model hip";
+var mnemonic = "ancient salute dance swamp client jelly bench silk proof olive myself coast";

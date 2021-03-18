@@ -1,1 +1,1 @@
-var mnemonic = "cheese reduce fan nation tennis board attend shield chicken donate dwarf float";
+var mnemonic = "miracle daughter bounce tomorrow stool hollow drop used garage indoor portion decade";

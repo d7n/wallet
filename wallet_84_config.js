@@ -1,1 +1,1 @@
-var mnemonic = "green reflect code waste siren someone bulk figure effort immune jeans jeans";
+var mnemonic = "salute stereo try brother lounge pretty bachelor steak hotel wet hungry banner";

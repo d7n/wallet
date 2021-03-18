@@ -1,1 +1,1 @@
-var mnemonic = "lunar mobile hungry spatial inquiry breeze orchard visual auction cook prepare discover";
+var mnemonic = "salt april topic celery act little tissue curve firm brush draw gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "odor detect primary corn erupt famous payment rubber picnic vanish plug diesel";
+var mnemonic = "syrup method found tent squirrel syrup liar turtle morning photo immune trade";

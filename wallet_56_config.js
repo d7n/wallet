@@ -1,1 +1,1 @@
-var mnemonic = "shoot hope alert orphan veteran song visit rail soda mandate silver warrior";
+var mnemonic = "verb any hat blossom follow message green dust inmate topple adult cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "claw track skull young affair mix cage salmon clown weather stock feed";
+var mnemonic = "buddy fuel milk toy night worth talent travel recipe hunt decrease dial";

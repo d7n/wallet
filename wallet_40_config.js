@@ -1,1 +1,1 @@
-var mnemonic = "save flee robust option human produce more poverty wool unfold smooth torch";
+var mnemonic = "bubble leg quarter prison final trophy search slice robot wish calm gloom";

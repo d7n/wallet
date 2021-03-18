@@ -1,1 +1,1 @@
-var mnemonic = "sick cruel sort mandate dune enroll audit wage stuff wing hundred grab";
+var mnemonic = "pizza domain together nose expect guide argue jeans pet resist sail lemon";

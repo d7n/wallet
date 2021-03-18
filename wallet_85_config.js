@@ -1,1 +1,1 @@
-var mnemonic = "appear alley mandate aware medal job blood crash theme gym source hurry";
+var mnemonic = "salt solution rubber armor endorse arrive question shy recipe detect congress wisdom";

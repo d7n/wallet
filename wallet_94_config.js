@@ -1,1 +1,1 @@
-var mnemonic = "claw hotel sauce ship rail heavy denial another pen animal casino secret";
+var mnemonic = "prison sound below kidney pluck index labor tip essay duty combine snow";

@@ -1,1 +1,1 @@
-var mnemonic = "direct cargo exile radio catalog loop lucky light tobacco scatter display person";
+var mnemonic = "solar screen cash autumn quit curious bid artefact ribbon maple junior viable";

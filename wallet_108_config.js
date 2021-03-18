@@ -1,1 +1,1 @@
-var mnemonic = "joy grass absorb host grief try silk column two normal spy frost";
+var mnemonic = "water history beauty air talk guide inherit wood dwarf coral whip adapt";

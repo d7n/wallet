@@ -1,1 +1,1 @@
-var mnemonic = "domain plate hole problem treat display vanish north tumble cargo firm unable";
+var mnemonic = "team like element rule august south obvious medal guitar depth citizen fee";

@@ -1,1 +1,1 @@
-var mnemonic = "output flock whip journey raccoon lottery close ritual submit push glory minimum";
+var mnemonic = "quality foil donkey palace empower film actress regret enlist pipe table praise";

@@ -1,1 +1,1 @@
-var mnemonic = "alter cupboard fee satisfy case still add burst clean anger steak badge";
+var mnemonic = "thrive brown dilemma kick agree blossom amateur fluid half already drop police";

@@ -1,1 +1,1 @@
-var mnemonic = "trust summer rally tag slush differ define clown cement bind derive spot";
+var mnemonic = "vehicle famous decorate regret forward grief situate paper panic matrix retreat quote";

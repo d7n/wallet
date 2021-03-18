@@ -1,1 +1,1 @@
-var mnemonic = "harvest reason battle antenna remember auto banana blood live toilet off fall";
+var mnemonic = "media loud movie hero reason panda duty afraid prison frog lake aspect";

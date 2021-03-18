@@ -1,1 +1,1 @@
-var mnemonic = "opinion monster knock pigeon fatigue rival today auction admit music tail doll";
+var mnemonic = "black input depth weekend extra veteran hour exhaust aerobic ring early drive";

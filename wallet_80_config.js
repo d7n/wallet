@@ -1,1 +1,1 @@
-var mnemonic = "else chalk vague place coyote post dentist health three good acid million";
+var mnemonic = "river clog between judge process mansion patient enemy border cycle clump sort";

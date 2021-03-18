@@ -1,1 +1,1 @@
-var mnemonic = "carpet slot base rural industry try addict web acid decade inch divert";
+var mnemonic = "gaze describe million sorry police true exercise pottery track infant drop crazy";

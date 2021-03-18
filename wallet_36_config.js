@@ -1,1 +1,1 @@
-var mnemonic = "grape place hybrid check stuff sell like cushion find assist such taste";
+var mnemonic = "pigeon rose avocado two mammal clutch record tumble secret chimney nothing depart";

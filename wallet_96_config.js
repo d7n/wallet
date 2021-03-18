@@ -1,1 +1,1 @@
-var mnemonic = "wall obvious giraffe dizzy over spray solar celery exotic obscure clown symbol";
+var mnemonic = "frost trade orbit young apart drink soup orient chimney animal expire angry";

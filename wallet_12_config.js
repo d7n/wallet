@@ -1,1 +1,1 @@
-var mnemonic = "strike jungle duck share label jealous swing make grocery admit auction case";
+var mnemonic = "someone wool blanket pond animal click critic glance round rocket decide cloth";

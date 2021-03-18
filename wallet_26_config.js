@@ -1,1 +1,1 @@
-var mnemonic = "potato witness grocery game miracle useful stomach banner spirit lab attend wide";
+var mnemonic = "female enemy tip involve laugh farm seminar dice obvious glue perfect attitude";

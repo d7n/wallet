@@ -1,1 +1,1 @@
-var mnemonic = "dirt panda frost speed angry convince fine network wine shed bind boost";
+var mnemonic = "position health impose dune make idle excite cluster news main artwork cost";

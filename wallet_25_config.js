@@ -1,1 +1,1 @@
-var mnemonic = "blame link mule practice next alpha client fence notable must teach neutral";
+var mnemonic = "regret before forest coil flash shop swim tongue harbor decrease virus orient";

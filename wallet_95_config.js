@@ -1,1 +1,1 @@
-var mnemonic = "weapon squirrel loud merry split below noise wonder scheme final vacant chef";
+var mnemonic = "behave neck cable hold human impact apart boat awkward cattle range lunch";

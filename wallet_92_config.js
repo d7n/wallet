@@ -1,1 +1,1 @@
-var mnemonic = "ripple receive disorder fault able below soft hungry symbol gospel leaf toe";
+var mnemonic = "high clarify spirit biology van hole salute flat mercy ready smile point";

@@ -1,1 +1,1 @@
-var mnemonic = "find online divide shy captain elephant fat resource town dolphin subway hood";
+var mnemonic = "indoor street flat biology cycle abuse curve season door buzz history drop";

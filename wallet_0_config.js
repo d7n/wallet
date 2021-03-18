@@ -1,1 +1,1 @@
-var mnemonic = "clog dumb source tackle rug leg good this census police maple hard";
+var mnemonic = "shoe seat blush bless news fall section snake mansion utility reopen cruel";

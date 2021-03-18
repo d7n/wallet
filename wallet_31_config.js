@@ -1,1 +1,1 @@
-var mnemonic = "medal rule fatigue skill library box coyote laugh rigid tell chunk soft";
+var mnemonic = "disagree quit security genius disease lecture dial casino stock swallow praise assault";

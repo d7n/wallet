@@ -1,1 +1,1 @@
-var mnemonic = "learn swim dumb cruel key beach news post message borrow unusual umbrella";
+var mnemonic = "build urban napkin once trial sport salmon photo exit stage improve mind";

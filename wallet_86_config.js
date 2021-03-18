@@ -1,1 +1,1 @@
-var mnemonic = "actual page demise good verify bar shrug egg laptop milk scare slight";
+var mnemonic = "ski bulb medal dry argue paddle fan leopard solid garden brother alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "stay social muscle siege arrest candy then plug guess jazz rude absent";
+var mnemonic = "used theory peace asthma input strategy twenty yard future armed couch length";

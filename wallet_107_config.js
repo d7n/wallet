@@ -1,1 +1,1 @@
-var mnemonic = "pair rural toss gasp hope choose genuine gift hope naive pelican brown";
+var mnemonic = "broccoli trumpet crunch future immense stock narrow earth forest list define smile";

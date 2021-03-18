@@ -1,1 +1,1 @@
-var mnemonic = "board dust gravity fossil vicious tip fine embody camp improve record tank";
+var mnemonic = "soap under base waste spin bonus letter shed concert miss wedding spot";

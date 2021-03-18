@@ -1,1 +1,1 @@
-var mnemonic = "decrease spin paddle develop rebuild cram identify reform mouse leopard wash fun";
+var mnemonic = "under absurd crisp able fix city poem argue diet street cart void";

@@ -1,1 +1,1 @@
-var mnemonic = "hero south soccer quote perfect vote barrel vacant acquire together focus cool";
+var mnemonic = "blush uncover faint unusual yard lemon achieve garlic crime scissors grunt nose";

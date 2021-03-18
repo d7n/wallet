@@ -1,1 +1,1 @@
-var mnemonic = "clarify large reason capital shuffle ten strike rule good choice weekend grid";
+var mnemonic = "dumb essay rule birth lecture session ignore company misery dentist myth flight";
