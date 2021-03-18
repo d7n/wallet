@@ -1,1 +1,1 @@
-var mnemonic = "warfare syrup orphan eternal evil fruit input swim chunk feel decide valid";
+var mnemonic = "reduce future chronic faculty follow butter invite express abandon verb ignore crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "snap network green base wage turkey barrel science twenty tired face winter";
+var mnemonic = "phrase patrol gorilla stable seek olympic caution valve quick marriage outdoor phone";

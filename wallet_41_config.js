@@ -1,1 +1,1 @@
-var mnemonic = "recipe heart cushion fresh soda judge valley slow lunar enough maze west";
+var mnemonic = "huge accuse roof lyrics usage device leader deputy affair net orchard head";

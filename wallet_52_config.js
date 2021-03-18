@@ -1,1 +1,1 @@
-var mnemonic = "jealous dad acid powder index boost cattle either noise shy left enhance";
+var mnemonic = "gown lyrics about message butter fork rhythm camp year happy person wink";

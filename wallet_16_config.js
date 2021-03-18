@@ -1,1 +1,1 @@
-var mnemonic = "square arrest citizen flush adapt inquiry thrive able execute tag man giant";
+var mnemonic = "table rabbit soon dog satoshi raccoon aisle emerge artwork witness dream jeans";

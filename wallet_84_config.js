@@ -1,1 +1,1 @@
-var mnemonic = "carry vibrant funny fee meadow cushion figure drift clip poverty jewel naive";
+var mnemonic = "doll wood fossil camera olive execute large dawn train biology gas whisper";

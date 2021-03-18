@@ -1,1 +1,1 @@
-var mnemonic = "field hunt warfare echo group alert ivory fame gown voyage crawl imitate";
+var mnemonic = "window fiscal hazard issue bacon armor spy vibrant naive shell appear fringe";

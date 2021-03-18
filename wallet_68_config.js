@@ -1,1 +1,1 @@
-var mnemonic = "cart army rare attitude diet absorb guard gallery sort margin damage dove";
+var mnemonic = "cost tell book oxygen culture defy tennis profit certain course child glimpse";

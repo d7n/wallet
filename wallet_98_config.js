@@ -1,1 +1,1 @@
-var mnemonic = "decade armor nasty rent believe rigid liar guitar magnet catch taxi oblige";
+var mnemonic = "brain vapor waste already rookie galaxy honey train gun pond tomato laptop";

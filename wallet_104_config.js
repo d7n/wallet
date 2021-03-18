@@ -1,1 +1,1 @@
-var mnemonic = "increase pistol sick siren glass again cheap wish express minute real more";
+var mnemonic = "angry blur sheriff client satoshi morning great swim model fury favorite state";

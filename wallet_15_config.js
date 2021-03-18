@@ -1,1 +1,1 @@
-var mnemonic = "second oppose genius unit virus trade ripple drop afford diary observe prosper";
+var mnemonic = "more card fault elbow vacuum step glad weasel exact live labor filter";

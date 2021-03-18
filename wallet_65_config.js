@@ -1,1 +1,1 @@
-var mnemonic = "bus cook lock diet accident ten search carbon liberty connect devote electric";
+var mnemonic = "indicate detail auto fly betray mutual vast grace object august hope very";

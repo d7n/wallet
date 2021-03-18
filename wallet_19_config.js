@@ -1,1 +1,1 @@
-var mnemonic = "mad near demand trip artist merit shift fetch acquire much sorry bright";
+var mnemonic = "keep idea erase arctic inhale cup absurd number usage fun capable high";

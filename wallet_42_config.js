@@ -1,1 +1,1 @@
-var mnemonic = "source icon puppy choose announce text bid stock deputy solar sorry identify";
+var mnemonic = "oblige aisle monster mind ketchup black deal load reveal depth model aware";

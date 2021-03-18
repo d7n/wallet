@@ -1,1 +1,1 @@
-var mnemonic = "fork exotic entire remain foot oval pet erupt region mail typical old";
+var mnemonic = "swift protect matrix error worry right melt love toward audit lunar long";

@@ -1,1 +1,1 @@
-var mnemonic = "ride field ketchup wait chair absorb pulp devote derive degree tuna stool";
+var mnemonic = "page sound plate fiction grit goat limb alarm industry argue pair aunt";

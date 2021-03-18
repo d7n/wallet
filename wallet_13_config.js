@@ -1,1 +1,1 @@
-var mnemonic = "coast cinnamon leaf lock lemon rather mushroom bamboo live child humble sort";
+var mnemonic = "hard reduce kitten bunker situate hero vital swamp rare disease volume demise";

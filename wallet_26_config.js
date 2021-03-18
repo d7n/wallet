@@ -1,1 +1,1 @@
-var mnemonic = "enforce fancy tell slab abstract popular tortoise domain artist zoo cost pool";
+var mnemonic = "patient sock result want typical project one curtain letter perfect bamboo pull";

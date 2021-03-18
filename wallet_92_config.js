@@ -1,1 +1,1 @@
-var mnemonic = "shine crazy strategy grape recipe super burst swallow net main transfer grape";
+var mnemonic = "verb stage uncle erosion rely illegal green economy fluid diary blur leopard";

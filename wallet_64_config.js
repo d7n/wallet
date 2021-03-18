@@ -1,1 +1,1 @@
-var mnemonic = "orchard welcome escape absorb transfer abstract immense because raven orphan warfare hundred";
+var mnemonic = "nominee funny alien treat evoke energy culture legend erode second day cigar";

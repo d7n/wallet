@@ -1,1 +1,1 @@
-var mnemonic = "fee polar escape stove company any monster ancient few fire duck awesome";
+var mnemonic = "relax resource suit come since bamboo foster year sword science noble knee";

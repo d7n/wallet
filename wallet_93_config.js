@@ -1,1 +1,1 @@
-var mnemonic = "menu wonder impact medal exercise base taste drop morning armor vendor cactus";
+var mnemonic = "bubble post melody salute success horror normal pen top where breeze siege";

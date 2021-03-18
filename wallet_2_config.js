@@ -1,1 +1,1 @@
-var mnemonic = "average awkward token bottom must employ clever thank clump town hotel sign";
+var mnemonic = "pride ozone order toss fuel saddle flock clutch sausage harbor hunt better";

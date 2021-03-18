@@ -1,1 +1,1 @@
-var mnemonic = "guess music midnight woman profit badge into reject knee sign axis seminar";
+var mnemonic = "during want used once business radar bind train keep skill into dream";

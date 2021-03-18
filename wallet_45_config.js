@@ -1,1 +1,1 @@
-var mnemonic = "rifle guide bridge vanish shock dune ghost loan correct strike number next";
+var mnemonic = "gentle label raw art guilt rubber egg draw portion tomorrow vague alarm";

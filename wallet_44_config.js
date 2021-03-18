@@ -1,1 +1,1 @@
-var mnemonic = "mechanic apart prize place song apart sorry regret submit diamond buffalo spend";
+var mnemonic = "online tattoo peasant dumb evoke record embrace amused crazy verify stove shoe";

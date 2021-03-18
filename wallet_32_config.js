@@ -1,1 +1,1 @@
-var mnemonic = "silly raw plate diamond suit custom object hidden thing absurd creek owner";
+var mnemonic = "awesome smoke foil valve case leaf mask rent night vendor power gift";

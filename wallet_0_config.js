@@ -1,1 +1,1 @@
-var mnemonic = "stool dish chief return wire sphere group champion stereo timber twist lion";
+var mnemonic = "dance assume cram rug blame curtain hero drop disagree tray coyote run";

@@ -1,1 +1,1 @@
-var mnemonic = "face chef great topic spy peasant bridge abstract sauce upset very child";
+var mnemonic = "belt roof aisle dignity common weapon exercise satisfy team merit suggest decline";

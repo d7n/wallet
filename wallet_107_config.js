@@ -1,1 +1,1 @@
-var mnemonic = "giggle pretty parade person that wrong only evolve clever scissors since auction";
+var mnemonic = "kingdom venture seek between alter bus right farm timber company promote song";

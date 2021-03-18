@@ -1,1 +1,1 @@
-var mnemonic = "device dizzy plate click shuffle fashion athlete acquire thrive essence special champion";
+var mnemonic = "sea capital pattern solar dad section program fox another parent crouch swamp";

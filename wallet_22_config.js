@@ -1,1 +1,1 @@
-var mnemonic = "traffic sunset motion laundry sorry network gather where cat run ivory clown";
+var mnemonic = "engage name display devote wait use quality glory occur extra sleep joy";

@@ -1,1 +1,1 @@
-var mnemonic = "couple chalk trust name crater hair skate uniform grief degree piece pear";
+var mnemonic = "stamp foil actress tone suggest aunt erupt live attend bread sport today";

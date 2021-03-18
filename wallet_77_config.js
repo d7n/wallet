@@ -1,1 +1,1 @@
-var mnemonic = "capital fashion hidden myself gain donkey digital million focus host unusual cinnamon";
+var mnemonic = "prefer insect grunt oxygen exhaust lava hair maze gallery theory shadow depend";

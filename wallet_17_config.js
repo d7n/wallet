@@ -1,1 +1,1 @@
-var mnemonic = "trim feed hunt small rookie dog source marble fish share conduct ribbon";
+var mnemonic = "bacon genre toast burger denial life lake field hard glue fly foster";

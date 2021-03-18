@@ -1,1 +1,1 @@
-var mnemonic = "learn grunt measure science unhappy spread assume affair bitter stock achieve over";
+var mnemonic = "infant kingdom impulse track cave silk soon glance sort useless bleak antenna";

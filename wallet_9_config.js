@@ -1,1 +1,1 @@
-var mnemonic = "fit same stock you minimum south idle simple lemon sun student protect";
+var mnemonic = "wealth blossom skull swift twenty way next load ostrich save empty green";

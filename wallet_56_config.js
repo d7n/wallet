@@ -1,1 +1,1 @@
-var mnemonic = "brisk boil manual cereal path wrong defy unveil body push drive gossip";
+var mnemonic = "glue pigeon treat toe sauce reform lobster census olympic estate mad unaware";

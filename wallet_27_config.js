@@ -1,1 +1,1 @@
-var mnemonic = "enforce trouble you unable same garbage hedgehog surround dolphin output axis ketchup";
+var mnemonic = "reduce pigeon sentence bronze program repeat reduce payment divert key tumble scout";

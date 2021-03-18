@@ -1,1 +1,1 @@
-var mnemonic = "bacon exhaust fat salmon agent utility pepper weasel trim install trim quit";
+var mnemonic = "fortune coach narrow walk gate stock lesson omit discover attitude farm duty";

@@ -1,1 +1,1 @@
-var mnemonic = "once scissors unit border ghost west hybrid trophy dry unfair interest inside";
+var mnemonic = "gentle dream autumn sword senior useful vapor cloud accuse spike twice mystery";

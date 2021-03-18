@@ -1,1 +1,1 @@
-var mnemonic = "march minimum choice omit hurry blanket ivory scatter large length biology vibrant";
+var mnemonic = "bless skin mixed brain episode wage device someone print knock guess immense";

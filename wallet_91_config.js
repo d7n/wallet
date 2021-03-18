@@ -1,1 +1,1 @@
-var mnemonic = "alpha frozen tone movie senior try vanish decide episode steel lion crucial";
+var mnemonic = "similar envelope dawn north pulse case blue south fever umbrella amount master";

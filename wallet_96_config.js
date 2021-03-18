@@ -1,1 +1,1 @@
-var mnemonic = "wave hair transfer amused cigar hidden dragon roof under argue core spirit";
+var mnemonic = "canal turn fruit galaxy vast swallow ring father dynamic yard electric uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "roof crumble husband deliver caught pact train above potato real online grain";
+var mnemonic = "clever tumble bitter purse hero crane express correct offer planet reflect primary";

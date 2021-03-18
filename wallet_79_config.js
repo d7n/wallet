@@ -1,1 +1,1 @@
-var mnemonic = "ill ostrich episode north cheese electric moon thrive brass fly trigger wedding";
+var mnemonic = "heart clump decade client drop rare afraid business addict vacuum fiber unhappy";

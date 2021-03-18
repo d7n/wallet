@@ -1,1 +1,1 @@
-var mnemonic = "sweet near pole team vast usual champion fix crop citizen harsh flush";
+var mnemonic = "home pill fine liar embark whip shaft engine clip van nuclear stable";

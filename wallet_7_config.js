@@ -1,1 +1,1 @@
-var mnemonic = "million test float flush latin tragic view spend feel entry feed copper";
+var mnemonic = "stand must build quantum exhibit photo buffalo below swift income wet suggest";

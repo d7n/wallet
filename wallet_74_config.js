@@ -1,1 +1,1 @@
-var mnemonic = "mandate pistol elephant tortoise ketchup mean mosquito sad jacket baby trophy agree";
+var mnemonic = "ridge parade walnut gloom improve craft sample lens dash helmet check put";

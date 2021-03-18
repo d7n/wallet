@@ -1,1 +1,1 @@
-var mnemonic = "film arctic soul capital call neck brother slight shell athlete bread fringe";
+var mnemonic = "cart worry detail gain age execute vanish loan bright share program comic";

@@ -1,1 +1,1 @@
-var mnemonic = "energy defense olive put window unit hour addict quick total level hospital";
+var mnemonic = "silk rotate kingdom ice local inflict extra siren head wonder dumb glimpse";

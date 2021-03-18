@@ -1,1 +1,1 @@
-var mnemonic = "creek response live return there style prize idle protect rapid erosion behave";
+var mnemonic = "second tiger earn human cook forward throw company screen basket case deposit";

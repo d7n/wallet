@@ -1,1 +1,1 @@
-var mnemonic = "tip runway tiny ten phrase stairs seven vivid pigeon silly nest visa";
+var mnemonic = "library guilt clinic educate glow begin damp friend drop hockey obscure sword";

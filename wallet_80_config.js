@@ -1,1 +1,1 @@
-var mnemonic = "adjust choice tobacco learn extra tip limb fabric prison mercy click need";
+var mnemonic = "witness tree please plug pluck renew sister air task calm horse grow";

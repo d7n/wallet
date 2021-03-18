@@ -1,1 +1,1 @@
-var mnemonic = "name someone slender parade champion grunt door section weapon later whisper any";
+var mnemonic = "basic pottery color business track unit abandon bonus twice poet giraffe high";

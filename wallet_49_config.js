@@ -1,1 +1,1 @@
-var mnemonic = "thing trap beef ten relief kitten milk budget citizen skate good title";
+var mnemonic = "author turtle keep strong junior income usage enlist renew step choose alone";

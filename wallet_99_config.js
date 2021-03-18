@@ -1,1 +1,1 @@
-var mnemonic = "consider cabin angry loop earn crucial gauge behind satisfy casual alcohol disorder";
+var mnemonic = "salad mystery nose helmet velvet deny patient grief setup rebel biology scheme";

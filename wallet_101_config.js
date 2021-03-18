@@ -1,1 +1,1 @@
-var mnemonic = "orchard occur dose index blanket chaos fun humor brother elephant earth dizzy";
+var mnemonic = "recipe baby empty nice settle rice school bid celery funny gossip shoot";

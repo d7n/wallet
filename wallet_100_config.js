@@ -1,1 +1,1 @@
-var mnemonic = "artist cream easy strong pistol ocean tank nation expect summer clip resemble";
+var mnemonic = "music teach embody another jeans icon blossom negative orchard daring camera demise";

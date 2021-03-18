@@ -1,1 +1,1 @@
-var mnemonic = "law tip bamboo method soldier produce earn swim snow false imitate sand";
+var mnemonic = "office poem outer under topple enact shoulder snake desk green tissue village";

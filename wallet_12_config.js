@@ -1,1 +1,1 @@
-var mnemonic = "flock scene remember execute ring inquiry border tiger mystery roof butter pet";
+var mnemonic = "under intact diamond spell try crisp shallow now confirm mango pledge flock";

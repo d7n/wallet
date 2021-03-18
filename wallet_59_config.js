@@ -1,1 +1,1 @@
-var mnemonic = "people snake between despair skill drink stick vicious scene turn album humor";
+var mnemonic = "weasel short joy relief raise gaze riot gaze claim unaware reason various";

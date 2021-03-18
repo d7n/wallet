@@ -1,1 +1,1 @@
-var mnemonic = "similar stuff brave endless mango supreme huge talk lonely match life before";
+var mnemonic = "crouch attract lend access double media beef scissors neck million extra hobby";

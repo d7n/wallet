@@ -1,1 +1,1 @@
-var mnemonic = "gesture chat wisdom reveal picture must best please able world minimum stock";
+var mnemonic = "pumpkin casual between skirt maximum powder visit piano strike parent metal fall";

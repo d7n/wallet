@@ -1,1 +1,1 @@
-var mnemonic = "pen once security elite work wheat input favorite churn bench key error";
+var mnemonic = "false torch travel range green chronic water cup quality patch spirit culture";

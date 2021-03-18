@@ -1,1 +1,1 @@
-var mnemonic = "round derive hedgehog slogan retire snow marine script noble exhaust traffic carpet";
+var mnemonic = "sphere exhaust loud now gym logic behave wrestle sniff client artefact region";

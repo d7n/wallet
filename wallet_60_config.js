@@ -1,1 +1,1 @@
-var mnemonic = "boat toilet nasty arch cross second trip tissue gesture have body gift";
+var mnemonic = "obvious produce fold metal state coil custom begin begin quiz sheriff fence";

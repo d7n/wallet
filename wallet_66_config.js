@@ -1,1 +1,1 @@
-var mnemonic = "spice century depend type access earn frame survey cruel gossip upper expire";
+var mnemonic = "sponsor grape fatal faith seminar crash ring parade candy casual client dizzy";

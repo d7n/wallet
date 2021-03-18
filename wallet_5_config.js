@@ -1,1 +1,1 @@
-var mnemonic = "maple flush eight profit rain hover mercy police already pave worth month";
+var mnemonic = "behind virus symptom someone knife trade crater thing umbrella pencil curve silly";

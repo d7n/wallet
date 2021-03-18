@@ -1,1 +1,1 @@
-var mnemonic = "mixture crunch tower dentist reason illness media pelican angle day size arm";
+var mnemonic = "fog dress nerve credit switch pistol grow crystal permit tomorrow mix blush";

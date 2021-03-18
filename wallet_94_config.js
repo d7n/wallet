@@ -1,1 +1,1 @@
-var mnemonic = "shell hedgehog swear buyer dentist push lottery favorite meat divorce language sketch";
+var mnemonic = "scheme pencil later radio response demand outside calm mobile deer spend share";

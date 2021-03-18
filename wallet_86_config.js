@@ -1,1 +1,1 @@
-var mnemonic = "various clean foam news music keep village cancel miss film horse apart";
+var mnemonic = "hover cable march height boat noise canvas arrive recipe barrel coil deputy";

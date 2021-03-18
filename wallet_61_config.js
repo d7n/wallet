@@ -1,1 +1,1 @@
-var mnemonic = "critic little minute uphold army silver defy target panic saddle room distance";
+var mnemonic = "wolf science steak liberty fluid drink magic swap seven siren onion become";

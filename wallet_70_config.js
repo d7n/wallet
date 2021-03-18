@@ -1,1 +1,1 @@
-var mnemonic = "reveal loyal amount reform recycle age bargain ethics coil erosion ladder drastic";
+var mnemonic = "sign danger machine crane asset trial record fox state inhale that remain";

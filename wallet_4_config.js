@@ -1,1 +1,1 @@
-var mnemonic = "execute issue usual sample ladder thrive witness physical park kangaroo isolate season";
+var mnemonic = "elbow whisper unlock myself index close rule legend limit pupil camp castle";

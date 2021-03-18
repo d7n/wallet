@@ -1,1 +1,1 @@
-var mnemonic = "diamond because convince good clerk bullet warrior team session faint wasp feel";
+var mnemonic = "edit merge angry turn energy favorite pill century escape dizzy drift wedding";

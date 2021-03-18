@@ -1,1 +1,1 @@
-var mnemonic = "pair boss easy crush frame cereal lake coyote catch upon wine symptom";
+var mnemonic = "employ heavy axis alert sort swap square gown rent eye hello bean";

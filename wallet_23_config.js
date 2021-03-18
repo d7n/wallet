@@ -1,1 +1,1 @@
-var mnemonic = "shed capital neck theory rookie leopard amazing hover cat endorse treat sand";
+var mnemonic = "autumn tongue impose today soccer bleak pool shock unlock athlete increase exact";

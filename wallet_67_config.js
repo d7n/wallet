@@ -1,1 +1,1 @@
-var mnemonic = "confirm exclude smile curious rebuild grab kind pink lion bubble daughter try";
+var mnemonic = "reduce oak simple child nature bomb kitchen poem power primary refuse exotic";

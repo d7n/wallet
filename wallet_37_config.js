@@ -1,1 +1,1 @@
-var mnemonic = "cream rain cave angry group pretty nature pretty tomato robot column apology";
+var mnemonic = "record return weather wine suit walk what woman lunch common east eyebrow";

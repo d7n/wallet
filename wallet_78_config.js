@@ -1,1 +1,1 @@
-var mnemonic = "teach awake dilemma slush leave faculty insect then cream luggage silent thing";
+var mnemonic = "various myself square judge fault one life volume artefact adult arena forest";

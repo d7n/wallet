@@ -1,1 +1,1 @@
-var mnemonic = "grant trick clerk enrich dolphin genius dust cancel little neglect vault mirror";
+var mnemonic = "before stick blanket access base void pause time bar talk cheese wink";

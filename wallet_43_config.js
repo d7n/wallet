@@ -1,1 +1,1 @@
-var mnemonic = "start trophy defy pass traffic kid video number observe surface impact cushion";
+var mnemonic = "number attract venue captain theory enter daring stumble loan oyster exile insect";

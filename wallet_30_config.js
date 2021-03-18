@@ -1,1 +1,1 @@
-var mnemonic = "walnut doll tunnel jar diary siege license sponsor family nuclear swarm provide";
+var mnemonic = "damage surge tuna job grow common move topple blush cash idle dolphin";

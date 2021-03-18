@@ -1,1 +1,1 @@
-var mnemonic = "boring topple ugly always alley custom iron hard awkward behind food gain";
+var mnemonic = "about whisper pilot moon hurt prize vital ordinary artefact piece fancy sibling";

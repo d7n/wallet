@@ -1,1 +1,1 @@
-var mnemonic = "secret toddler ceiling box canyon duck work eye what awful armor nurse";
+var mnemonic = "unfair hill chase farm orbit faculty flavor vessel square turn steak rotate";

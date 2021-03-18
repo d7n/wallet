@@ -1,1 +1,1 @@
-var mnemonic = "target media trend meat pudding uncover pioneer nest rough section coconut rain";
+var mnemonic = "bomb genuine humble season spawn later pipe video address degree surprise marine";

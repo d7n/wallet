@@ -1,1 +1,1 @@
-var mnemonic = "insane jelly rich scan pelican strong uncle movie humor buzz visit help";
+var mnemonic = "alone swim have outer put alley ten cargo subject spell hair push";

@@ -1,1 +1,1 @@
-var mnemonic = "glory fit excess opinion assist dragon eye unveil silent daughter kind arctic";
+var mnemonic = "between right hidden vanish ride metal actual pudding pink spoil agree parade";

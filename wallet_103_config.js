@@ -1,1 +1,1 @@
-var mnemonic = "jar very fan derive easy marble better avocado spy reveal horn toss";
+var mnemonic = "couple egg reveal upon hat unveil scene cradle will powder collect intact";

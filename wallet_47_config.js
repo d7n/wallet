@@ -1,1 +1,1 @@
-var mnemonic = "long wasp inject whip dish merit found another unit lawn file tonight";
+var mnemonic = "stone inform catch carbon expire result fabric engine tumble one burger dance";

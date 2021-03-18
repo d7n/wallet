@@ -1,1 +1,1 @@
-var mnemonic = "link eight height poet call hold garden edit yard ice defense wrap";
+var mnemonic = "camp case travel forward raven robot wrestle deposit change ladder achieve chef";
