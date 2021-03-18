@@ -1,1 +1,1 @@
-var mnemonic = "sure deny tag scare example talent insect false theme skirt damp spray";
+var mnemonic = "chef allow snap board truly spike media scissors lesson tail stereo myth";

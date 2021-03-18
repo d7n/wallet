@@ -1,1 +1,1 @@
-var mnemonic = "stamp round envelope exile sister because flight expect twist slide boil noble";
+var mnemonic = "limit night treat corn sign repair side when toss obtain blame hand";

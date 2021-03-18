@@ -1,1 +1,1 @@
-var mnemonic = "damage feel patient transfer embody afford grab stuff lock luggage ride lucky";
+var mnemonic = "pave rifle suspect toast fame found average flower maximum puzzle purpose fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "opera leopard trade net among accident power dignity pulp swap pink van";
+var mnemonic = "type finger cube stool head supreme black cover inner evil home leader";

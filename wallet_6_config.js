@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow play soft broom random brother ivory spider crew number crouch average";
+var mnemonic = "alter cupboard fee satisfy case still add burst clean anger steak badge";

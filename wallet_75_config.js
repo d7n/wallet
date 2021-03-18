@@ -1,1 +1,1 @@
-var mnemonic = "fish educate group hollow gospel camp hour scrap robust lounge sibling fancy";
+var mnemonic = "journey dumb room toy spread anchor town garment number twist window whale";

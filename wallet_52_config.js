@@ -1,1 +1,1 @@
-var mnemonic = "wood power bar stem uncle swing seminar tired combine thank speed wheel";
+var mnemonic = "mistake genius dog oblige enact return rival thrive volume wink order space";

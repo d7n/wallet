@@ -1,1 +1,1 @@
-var mnemonic = "catalog cute warfare valid puppy crop invest motor spend verb media hollow";
+var mnemonic = "film suggest clutch harbor crop melody inform sustain squirrel vague begin endless";

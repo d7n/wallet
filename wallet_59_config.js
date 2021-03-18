@@ -1,1 +1,1 @@
-var mnemonic = "spin family little gain put knock swing idle home captain still duck";
+var mnemonic = "crop spy excuse exist soft library judge case learn actual borrow audit";

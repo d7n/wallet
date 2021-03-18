@@ -1,1 +1,1 @@
-var mnemonic = "vehicle twin silver dismiss six glance youth resist way trim faculty cram";
+var mnemonic = "find online divide shy captain elephant fat resource town dolphin subway hood";

@@ -1,1 +1,1 @@
-var mnemonic = "candy attack corn merit local dice filter crumble initial interest fiscal random";
+var mnemonic = "decrease spin paddle develop rebuild cram identify reform mouse leopard wash fun";

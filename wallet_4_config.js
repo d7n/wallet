@@ -1,1 +1,1 @@
-var mnemonic = "office friend wisdom figure release arrive husband sure mushroom black woman lonely";
+var mnemonic = "whale laugh whisper distance bottom april creek sport achieve jar snack carry";

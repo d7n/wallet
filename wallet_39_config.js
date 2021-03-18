@@ -1,1 +1,1 @@
-var mnemonic = "unaware twin accident battle comfort camera assist expose tiger suffer card story";
+var mnemonic = "cheese reduce fan nation tennis board attend shield chicken donate dwarf float";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient nominee reduce lake still pole royal caught pottery come toward couch";
+var mnemonic = "session myth merge armed true large glare body model spice link distance";

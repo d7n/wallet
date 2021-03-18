@@ -1,1 +1,1 @@
-var mnemonic = "avoid turn situate shift sure theme human oppose retreat copper favorite anger";
+var mnemonic = "cause wide waste ahead dinosaur rough vault absent enact gospel galaxy retire";

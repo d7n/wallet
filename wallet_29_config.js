@@ -1,1 +1,1 @@
-var mnemonic = "cloud hurt design kidney patrol trash weekend age ozone blue pond virus";
+var mnemonic = "baby again about brave sample flip success dumb used resist uniform trip";

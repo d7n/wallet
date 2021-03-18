@@ -1,1 +1,1 @@
-var mnemonic = "light shallow arch luggage patch school crush pig gown budget wise learn";
+var mnemonic = "return coyote drink snap hole fire bean number quit vibrant fashion spring";

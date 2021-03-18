@@ -1,1 +1,1 @@
-var mnemonic = "clown can task cloth blind planet horse oppose claw orchard auction ostrich";
+var mnemonic = "ripple weird lecture erode clown purse world interest nature idle hint vehicle";

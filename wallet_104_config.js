@@ -1,1 +1,1 @@
-var mnemonic = "topic crop two stay assist twelve among media anxiety toe tortoise town";
+var mnemonic = "cloth unhappy beef decide satisfy mixture time vendor bomb few stairs swallow";

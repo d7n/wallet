@@ -1,1 +1,1 @@
-var mnemonic = "dignity tongue accuse inquiry model nice home area trigger found essay news";
+var mnemonic = "someone entry earth hotel neglect inhale equip unusual page board enlist twice";

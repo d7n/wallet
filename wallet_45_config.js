@@ -1,1 +1,1 @@
-var mnemonic = "together october embark ritual adjust film guilt ability hope gentle virus such";
+var mnemonic = "animal pistol car chaos panda domain this setup spike polar lesson voyage";

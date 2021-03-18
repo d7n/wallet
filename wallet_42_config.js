@@ -1,1 +1,1 @@
-var mnemonic = "shiver found twenty aware reveal assist dune immune person corn usage neither";
+var mnemonic = "grass audit whip bring angry deny struggle void favorite earth pave sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch damage dynamic please explain exact minute rocket olive sing power brave";
+var mnemonic = "ripple receive disorder fault able below soft hungry symbol gospel leaf toe";

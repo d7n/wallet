@@ -1,1 +1,1 @@
-var mnemonic = "video work april avoid fence blush boring stadium result clip puzzle primary";
+var mnemonic = "odor detect primary corn erupt famous payment rubber picnic vanish plug diesel";

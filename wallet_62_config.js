@@ -1,1 +1,1 @@
-var mnemonic = "enrich lottery honey demise harvest evolve reunion health dream satisfy reward body";
+var mnemonic = "board dust gravity fossil vicious tip fine embody camp improve record tank";

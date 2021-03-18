@@ -1,1 +1,1 @@
-var mnemonic = "long salute enroll advance finish dinosaur gossip nut swamp person elbow income";
+var mnemonic = "claw track skull young affair mix cage salmon clown weather stock feed";

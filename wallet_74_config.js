@@ -1,1 +1,1 @@
-var mnemonic = "print now patch stone awful busy used dust morning water rather spatial";
+var mnemonic = "trust summer rally tag slush differ define clown cement bind derive spot";

@@ -1,1 +1,1 @@
-var mnemonic = "alley expire school melt female keep hint fat arm tank resist return";
+var mnemonic = "opinion monster knock pigeon fatigue rival today auction admit music tail doll";

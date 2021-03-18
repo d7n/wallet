@@ -1,1 +1,1 @@
-var mnemonic = "much marriage arm twenty ball flower board favorite clip bronze apology double";
+var mnemonic = "actual jacket razor bullet pear plug spare repair loyal reunion expect april";

@@ -1,1 +1,1 @@
-var mnemonic = "season cube know wrestle woman glow neither walnut still high observe diesel";
+var mnemonic = "output flock whip journey raccoon lottery close ritual submit push glory minimum";

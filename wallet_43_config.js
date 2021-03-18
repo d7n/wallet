@@ -1,1 +1,1 @@
-var mnemonic = "embody latin electric thrive worry siren strike cabin south foot note inject";
+var mnemonic = "wide cycle demand siege dilemma diet deputy exit dove shift then produce";

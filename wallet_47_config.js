@@ -1,1 +1,1 @@
-var mnemonic = "early observe point estate pelican bulk nest curious eagle describe right dress";
+var mnemonic = "search virtual insane work track address lyrics prefer typical bid sad feature";

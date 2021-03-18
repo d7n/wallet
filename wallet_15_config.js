@@ -1,1 +1,1 @@
-var mnemonic = "marble narrow swear rude language fade random year recipe evidence twin palace";
+var mnemonic = "mobile village idle cover math stool come tenant throw differ addict caught";

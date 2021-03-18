@@ -1,1 +1,1 @@
-var mnemonic = "outer icon object tent sphere barely wash ripple regret banner sketch promote";
+var mnemonic = "replace grief number work usual divide harsh miracle jelly word praise shaft";

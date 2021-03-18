@@ -1,1 +1,1 @@
-var mnemonic = "hill wink pet possible upper alter tail slogan merry unveil clutch olive";
+var mnemonic = "amateur infant gown impose wise demise mosquito column proud brother enter wrestle";

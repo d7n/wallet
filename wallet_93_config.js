@@ -1,1 +1,1 @@
-var mnemonic = "custom strike junior blouse robust coconut oppose arctic tape lens banner devote";
+var mnemonic = "into valid zone host alarm two behind fever riot salad test mouse";

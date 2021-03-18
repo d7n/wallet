@@ -1,1 +1,1 @@
-var mnemonic = "furnace enforce giraffe omit develop suspect goose modify ivory muffin situate moment";
+var mnemonic = "radar connect credit harvest ivory false text true evidence fury retreat crane";

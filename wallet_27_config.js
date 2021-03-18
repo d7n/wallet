@@ -1,1 +1,1 @@
-var mnemonic = "leave inform diagram stuff rug slice remind assist arrange light can tiger";
+var mnemonic = "piece bottom muffin hidden slight visual text rebel together fiber palm develop";

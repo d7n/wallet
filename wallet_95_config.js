@@ -1,1 +1,1 @@
-var mnemonic = "subway blade satisfy decline dress grain random runway memory glory capable boss";
+var mnemonic = "weapon squirrel loud merry split below noise wonder scheme final vacant chef";

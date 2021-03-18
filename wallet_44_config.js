@@ -1,1 +1,1 @@
-var mnemonic = "blur potato boil best consider caught enemy absorb reform marriage click section";
+var mnemonic = "else noodle click object mention banana success short dance cook hundred labor";

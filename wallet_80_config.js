@@ -1,1 +1,1 @@
-var mnemonic = "leader token invite frog mutual letter cotton donor innocent pen develop turtle";
+var mnemonic = "else chalk vague place coyote post dentist health three good acid million";

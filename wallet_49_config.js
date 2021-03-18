@@ -1,1 +1,1 @@
-var mnemonic = "maple animal trade panda spell regular shed similar cloud corn reopen major";
+var mnemonic = "motion engage plug imitate puzzle album because wire champion soldier trend found";

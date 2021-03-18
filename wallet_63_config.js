@@ -1,1 +1,1 @@
-var mnemonic = "trade brick crazy sphere okay absent survey pill fire stool tornado skirt";
+var mnemonic = "choose erode stool proof eye barrel frown lock food make diary receive";

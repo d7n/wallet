@@ -1,1 +1,1 @@
-var mnemonic = "purpose garage mesh help ceiling illegal theory glide luggage sock trade obvious";
+var mnemonic = "exhaust burden pupil hunt vanish wrist critic robot pause fatigue benefit elbow";

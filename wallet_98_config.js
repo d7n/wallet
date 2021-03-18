@@ -1,1 +1,1 @@
-var mnemonic = "decline unfold base stay waste butter mom dust wheat lumber deposit convince";
+var mnemonic = "carpet slot base rural industry try addict web acid decade inch divert";

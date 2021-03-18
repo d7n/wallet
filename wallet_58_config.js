@@ -1,1 +1,1 @@
-var mnemonic = "evidence tip conduct hat limit grass guess warrior spoil old snap feel";
+var mnemonic = "domain plate hole problem treat display vanish north tumble cargo firm unable";

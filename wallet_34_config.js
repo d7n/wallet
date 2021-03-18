@@ -1,1 +1,1 @@
-var mnemonic = "boring dove tuition play mixture sniff south inherit dove crop entry valley";
+var mnemonic = "bullet release define number civil grid naive wash throw alien model hip";

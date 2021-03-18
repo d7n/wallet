@@ -1,1 +1,1 @@
-var mnemonic = "neglect bike shallow resist garlic north order elder ring direct accuse seed";
+var mnemonic = "raven update tent chicken decade cupboard people unit fine random raise hen";

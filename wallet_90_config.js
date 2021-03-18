@@ -1,1 +1,1 @@
-var mnemonic = "digital jungle raw swarm clinic diamond pink response such trap curious staff";
+var mnemonic = "autumn grace noble moral loyal issue lend spirit luggage common boost antique";

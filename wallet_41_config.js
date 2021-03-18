@@ -1,1 +1,1 @@
-var mnemonic = "enlist ozone youth train rotate bus minor stock host kiwi mushroom lock";
+var mnemonic = "lunar mobile hungry spatial inquiry breeze orchard visual auction cook prepare discover";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear jewel mean various drastic shrug equip label smoke humor valve ocean";
+var mnemonic = "appear alley mandate aware medal job blood crash theme gym source hurry";

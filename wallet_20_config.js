@@ -1,1 +1,1 @@
-var mnemonic = "grace skirt hour weekend chat payment inform debris rely clean mass cute";
+var mnemonic = "rabbit drill word miracle man clown truck head ten glimpse success bundle";

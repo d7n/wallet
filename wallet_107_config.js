@@ -1,1 +1,1 @@
-var mnemonic = "siege neither horror total dismiss cross degree jeans insect tennis uncover eyebrow";
+var mnemonic = "pair rural toss gasp hope choose genuine gift hope naive pelican brown";

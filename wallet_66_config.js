@@ -1,1 +1,1 @@
-var mnemonic = "cherry coast virtual exotic mom vocal tape fatigue barely arm employ bundle";
+var mnemonic = "sun tail critic pet boring sadness suffer suffer unable enough giggle cause";

@@ -1,1 +1,1 @@
-var mnemonic = "noise cherry purchase beach sugar gesture into move cereal track cruel pioneer";
+var mnemonic = "green reflect code waste siren someone bulk figure effort immune jeans jeans";

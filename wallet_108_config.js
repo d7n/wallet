@@ -1,1 +1,1 @@
-var mnemonic = "wagon crew park prize lonely menu pelican mango direct open sibling choice";
+var mnemonic = "joy grass absorb host grief try silk column two normal spy frost";

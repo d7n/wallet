@@ -1,1 +1,1 @@
-var mnemonic = "jewel mobile surge sugar cook shove arrive like join short soda seed";
+var mnemonic = "clog dumb source tackle rug leg good this census police maple hard";

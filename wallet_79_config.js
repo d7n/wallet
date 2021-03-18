@@ -1,1 +1,1 @@
-var mnemonic = "pass usual amount zero unknown use alcohol merit laptop pear patrol assault";
+var mnemonic = "stay social muscle siege arrest candy then plug guess jazz rude absent";

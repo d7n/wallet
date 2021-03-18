@@ -1,1 +1,1 @@
-var mnemonic = "daring bag eye decrease city inform brief mom daughter fringe student derive";
+var mnemonic = "winner cost stamp border want seven pulp future portion faculty resource ignore";

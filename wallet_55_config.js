@@ -1,1 +1,1 @@
-var mnemonic = "fan prison conduct length admit chef twenty thunder trigger grab element sock";
+var mnemonic = "stumble unaware outside buzz account gold child spy town guilt obtain spirit";

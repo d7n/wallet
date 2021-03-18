@@ -1,1 +1,1 @@
-var mnemonic = "table abstract viable stool lunar cargo movie any use wise library arrow";
+var mnemonic = "bamboo museum portion add stadium burden gentle spend first uniform story myself";

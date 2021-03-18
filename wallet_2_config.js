@@ -1,1 +1,1 @@
-var mnemonic = "diet vessel side master eye leopard wagon scrub sword tank swallow gun";
+var mnemonic = "perfect daring worry found nose long absurd lab cute snack owner appear";

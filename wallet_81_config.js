@@ -1,1 +1,1 @@
-var mnemonic = "subject bleak thrive develop romance today tree young notable palm tuna quality";
+var mnemonic = "year dream winter blast brick course clog science burden private food pony";

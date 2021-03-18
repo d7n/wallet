@@ -1,1 +1,1 @@
-var mnemonic = "kiwi expand neither topple dust strike foster beef rally prosper basic walk";
+var mnemonic = "excite emotion zoo universe heavy produce cinnamon master cruise whale glimpse juice";

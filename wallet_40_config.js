@@ -1,1 +1,1 @@
-var mnemonic = "record camp mountain inspire rural farm engine need front funny useless gate";
+var mnemonic = "save flee robust option human produce more poverty wool unfold smooth torch";

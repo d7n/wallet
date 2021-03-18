@@ -1,1 +1,1 @@
-var mnemonic = "scatter pear toe extra awesome honey crumble velvet kiss trumpet grain elephant";
+var mnemonic = "medal rule fatigue skill library box coyote laugh rigid tell chunk soft";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar cushion icon pyramid tag spatial chuckle relax spoon again around spare";
+var mnemonic = "direct cargo exile radio catalog loop lucky light tobacco scatter display person";

@@ -1,1 +1,1 @@
-var mnemonic = "neck sight happy fade actress safe gate dice giant sleep sea medal";
+var mnemonic = "blame link mule practice next alpha client fence notable must teach neutral";

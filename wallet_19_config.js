@@ -1,1 +1,1 @@
-var mnemonic = "hello year royal denial ankle action shrug lottery scan net code note";
+var mnemonic = "learn swim dumb cruel key beach news post message borrow unusual umbrella";

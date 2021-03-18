@@ -1,1 +1,1 @@
-var mnemonic = "weather crowd glue elegant shock denial acid stick soap goose blur cake";
+var mnemonic = "hold cycle garage marine violin have breeze equip vivid link cradle okay";

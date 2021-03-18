@@ -1,1 +1,1 @@
-var mnemonic = "silent attend salute frown stage spatial cream cannon hip tell census salt";
+var mnemonic = "tourist slot tennis quantum drift summer art car emerge fault oval social";

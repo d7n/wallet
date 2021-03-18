@@ -1,1 +1,1 @@
-var mnemonic = "abuse gift lake ensure toddler quit consider dose same judge warm subject";
+var mnemonic = "nothing cash shiver wrestle frozen cheap void license lesson hunt job resemble";

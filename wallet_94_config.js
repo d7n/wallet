@@ -1,1 +1,1 @@
-var mnemonic = "cook gossip sing food ring differ price earn immense order duty viable";
+var mnemonic = "claw hotel sauce ship rail heavy denial another pen animal casino secret";

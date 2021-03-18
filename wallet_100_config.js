@@ -1,1 +1,1 @@
-var mnemonic = "deposit brush saddle pole try three fever belt elder patch flower feel";
+var mnemonic = "ecology blast evoke own finish lunar tissue cross ask castle effort code";

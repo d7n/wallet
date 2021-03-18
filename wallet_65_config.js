@@ -1,1 +1,1 @@
-var mnemonic = "amateur tomato stove curve broken knock hamster banner juice clap betray hour";
+var mnemonic = "action library inmate dry cluster gold holiday assume blood escape crunch fruit";

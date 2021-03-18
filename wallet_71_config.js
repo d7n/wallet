@@ -1,1 +1,1 @@
-var mnemonic = "meadow pledge balcony range vessel mercy rally cruel giggle faculty collect sea";
+var mnemonic = "vote observe skull heart tape era noodle lend tragic rude bean auto";

@@ -1,1 +1,1 @@
-var mnemonic = "coral about weekend upper bronze bless music truth return force again six";
+var mnemonic = "exclude spatial west grocery idle tiny volume bike divorce boat soap across";

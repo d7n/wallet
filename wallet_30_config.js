@@ -1,1 +1,1 @@
-var mnemonic = "dish sleep gate ability liquid ill dawn east west trap arctic maid";
+var mnemonic = "harvest reason battle antenna remember auto banana blood live toilet off fall";

@@ -1,1 +1,1 @@
-var mnemonic = "maple quantum below define cruise bulk argue unfold champion scan drink fork";
+var mnemonic = "busy gauge mixed notice decrease shiver person math taxi old traffic ridge";

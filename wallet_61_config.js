@@ -1,1 +1,1 @@
-var mnemonic = "wink nominee ball reunion harbor worry shallow dove tiger memory plunge nurse";
+var mnemonic = "crawl donor behind tag staff coffee domain allow mind badge purpose employ";

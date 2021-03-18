@@ -1,1 +1,1 @@
-var mnemonic = "abstract mule reason piano toe observe jazz during canvas junior eight puzzle";
+var mnemonic = "barely joke tower fitness large govern swamp once income sense hospital ugly";

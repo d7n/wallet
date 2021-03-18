@@ -1,1 +1,1 @@
-var mnemonic = "oak amazing dance answer scrub sweet pudding cage foil person envelope place";
+var mnemonic = "today mechanic lounge observe sight knee wonder milk cash town canvas test";

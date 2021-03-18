@@ -1,1 +1,1 @@
-var mnemonic = "brick heart hope bacon rebuild sail oak tortoise any shoulder chuckle universe";
+var mnemonic = "maid bid material scout gesture fuel multiply priority town orbit brick smile";

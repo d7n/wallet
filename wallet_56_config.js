@@ -1,1 +1,1 @@
-var mnemonic = "hole device feel path leader aisle never expect vessel picnic young gather";
+var mnemonic = "shoot hope alert orphan veteran song visit rail soda mandate silver warrior";

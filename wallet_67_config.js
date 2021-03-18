@@ -1,1 +1,1 @@
-var mnemonic = "suit truck bonus drip chronic wolf ladder call say main fortune draft";
+var mnemonic = "grace where deal double normal okay innocent rail bachelor pill stairs wet";

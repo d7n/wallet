@@ -1,1 +1,1 @@
-var mnemonic = "artefact glare rain little expect suffer tortoise damage drop film dream crowd";
+var mnemonic = "strike jungle duck share label jealous swing make grocery admit auction case";

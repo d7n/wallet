@@ -1,1 +1,1 @@
-var mnemonic = "oval soft have seminar wait check horror master silent ginger method catalog";
+var mnemonic = "better roast sleep rude kid crack exchange connect demand goat face infant";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge allow frame ribbon blind avoid arrest olive purchase clerk tonight drastic";
+var mnemonic = "word square street squeeze foster thumb guitar error detail believe utility churn";

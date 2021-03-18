@@ -1,1 +1,1 @@
-var mnemonic = "only release sibling glad grab syrup survey one key sister earn pulse";
+var mnemonic = "public hotel athlete arch crowd melody guilt tornado ritual air rent outer";

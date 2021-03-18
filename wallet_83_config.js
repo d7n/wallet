@@ -1,1 +1,1 @@
-var mnemonic = "lottery novel steel write begin speed aunt empower base salt vessel cricket";
+var mnemonic = "course spider agent chef enhance parent addict pet aunt maple glance country";

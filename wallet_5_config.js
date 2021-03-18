@@ -1,1 +1,1 @@
-var mnemonic = "trial crisp cement despair hospital fluid rose pig moon desert predict enjoy";
+var mnemonic = "winter loud seat dilemma kind venue bullet chunk fiction truck final label";

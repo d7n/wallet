@@ -1,1 +1,1 @@
-var mnemonic = "age arrest mother clay slam direct box state test shallow elbow panel";
+var mnemonic = "idea square people bottom oyster modify sadness sport remove net walk yard";
