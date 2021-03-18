@@ -1,1 +1,1 @@
-var mnemonic = "invite valley lock wagon exotic inmate brush pattern tiny crane giggle inflict";
+var mnemonic = "wisdom rough object custom diesel poverty oblige siege pepper shine radar give";

@@ -1,1 +1,1 @@
-var mnemonic = "secret vast file valid tornado gauge skill royal business asthma title frequent";
+var mnemonic = "front gospel garden perfect confirm labor potato always broccoli color make gadget";

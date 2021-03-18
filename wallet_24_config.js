@@ -1,1 +1,1 @@
-var mnemonic = "state mouse zoo juice staff harvest hamster blossom what area purity miss";
+var mnemonic = "prepare portion cook old name arena enable short blue where tube alcohol";

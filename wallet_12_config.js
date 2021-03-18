@@ -1,1 +1,1 @@
-var mnemonic = "trial media horse economy foil upset lottery wet tell ranch panic chaos";
+var mnemonic = "prison right wagon suggest ready grab must habit plate gap live album";

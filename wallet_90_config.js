@@ -1,1 +1,1 @@
-var mnemonic = "mesh put clay husband crowd awesome rally woman hole silent april pen";
+var mnemonic = "kind ceiling yellow adjust maple agree case tag olympic grace tennis village";

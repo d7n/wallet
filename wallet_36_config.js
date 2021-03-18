@@ -1,1 +1,1 @@
-var mnemonic = "ribbon already erode short kangaroo pencil resource boy bind actor awful young";
+var mnemonic = "absurd raw bright argue bless celery wood sample august credit toss elephant";

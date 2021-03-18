@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow dose drama poverty month baby panel cry rescue term obey bleak";
+var mnemonic = "divide goddess among elephant congress just current tool clerk possible foster solution";

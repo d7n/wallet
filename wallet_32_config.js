@@ -1,1 +1,1 @@
-var mnemonic = "exit visual autumn voice input current sound priority news comfort little sun";
+var mnemonic = "reopen peanut coast viable miss fee treat wrap ticket vanish butter evidence";

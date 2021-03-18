@@ -1,1 +1,1 @@
-var mnemonic = "episode soft project version trip pupil brisk miracle tackle glow street expand";
+var mnemonic = "screen antique friend update achieve photo turn media just emotion often update";

@@ -1,1 +1,1 @@
-var mnemonic = "normal bar box cream trash color bullet fix any ski water theme";
+var mnemonic = "tribe river gloom divert inhale jelly expand bar unable enforce useless anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "divert viable grant tissue display jazz collect return muscle absurd sail garment";
+var mnemonic = "bamboo couple west light crunch note ice possible alpha mansion trumpet baby";

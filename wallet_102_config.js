@@ -1,1 +1,1 @@
-var mnemonic = "infant song coral eternal trap auction cake frost gasp talent promote umbrella";
+var mnemonic = "sadness stairs purpose mad home knife asset crouch menu craft action alter";

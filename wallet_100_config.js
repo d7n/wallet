@@ -1,1 +1,1 @@
-var mnemonic = "napkin depend quality duck method brand pass kingdom honey smoke west great";
+var mnemonic = "april rely mad chalk word latin egg arrange innocent wreck coral exhaust";

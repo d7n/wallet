@@ -1,1 +1,1 @@
-var mnemonic = "fiction fat tube damage ill sleep dice clump push six useful perfect";
+var mnemonic = "language essence concert fan moon crisp fly depart stadium canyon swift consider";

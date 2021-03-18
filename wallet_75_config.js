@@ -1,1 +1,1 @@
-var mnemonic = "control quiz index maple short daring naive meat sketch turn solid butter";
+var mnemonic = "fabric husband enter screen twenty timber genre mushroom age climb flame lumber";

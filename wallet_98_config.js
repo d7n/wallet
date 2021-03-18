@@ -1,1 +1,1 @@
-var mnemonic = "split craft copy upper inmate client arrange invite risk spring jelly provide";
+var mnemonic = "high dad bullet switch giant smoke team inform jewel lion step federal";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp clog gauge plunge hamster team film harbor plunge brass add pull";
+var mnemonic = "stadium picture scrub fitness disagree length hospital tuna flower candy target twice";

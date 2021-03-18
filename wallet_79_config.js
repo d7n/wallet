@@ -1,1 +1,1 @@
-var mnemonic = "leisure nice sunset giant nice assume answer nut arrest diesel omit patrol";
+var mnemonic = "glow curve special original goose soldier record pledge income recycle faint protect";

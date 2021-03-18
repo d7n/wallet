@@ -1,1 +1,1 @@
-var mnemonic = "flavor bone debate crawl virtual sand avocado hotel genuine gesture rookie gesture";
+var mnemonic = "dentist wet alley rely lobster run phone loyal salmon book nothing paper";

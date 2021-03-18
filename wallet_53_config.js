@@ -1,1 +1,1 @@
-var mnemonic = "silver science receive young tobacco balance glance zoo check loan defy cake";
+var mnemonic = "thing village valve robot ivory enable wage nuclear cluster render grid audit";

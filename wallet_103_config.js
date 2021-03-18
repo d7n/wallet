@@ -1,1 +1,1 @@
-var mnemonic = "scale when tiny client custom abstract chef episode bird skull neither lizard";
+var mnemonic = "true symbol typical abandon second stem board economy ball bright equip enact";

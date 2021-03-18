@@ -1,1 +1,1 @@
-var mnemonic = "debate enable begin marriage slice barely item print same mask gadget slide";
+var mnemonic = "machine large flavor dismiss hello bulk harbor long denial sorry siren humble";

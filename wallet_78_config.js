@@ -1,1 +1,1 @@
-var mnemonic = "swear drift basket exotic below secret tennis wrong envelope mandate expect plastic";
+var mnemonic = "deputy glass vibrant glimpse rely today saddle riot female civil wheat unfair";

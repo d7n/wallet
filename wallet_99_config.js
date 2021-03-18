@@ -1,1 +1,1 @@
-var mnemonic = "course naive dog cool select impulse exclude slot broccoli certain riot fog";
+var mnemonic = "clarify income town match brother diagram click isolate soap blur rebuild stadium";

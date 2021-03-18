@@ -1,1 +1,1 @@
-var mnemonic = "trophy image always thrive ginger nuclear family author wolf dog clean brief";
+var mnemonic = "average wasp universe minimum love husband miracle junior motor medal genuine display";

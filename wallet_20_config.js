@@ -1,1 +1,1 @@
-var mnemonic = "force fit scale trial charge shield wheel clerk obvious demise priority time";
+var mnemonic = "reason only rose casual awake soul price neglect first exist horse token";

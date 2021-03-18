@@ -1,1 +1,1 @@
-var mnemonic = "space artwork suggest vocal galaxy can struggle educate prison have still pull";
+var mnemonic = "champion work top tonight draft glare rent argue bracket text family embody";

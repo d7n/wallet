@@ -1,1 +1,1 @@
-var mnemonic = "mango over magic assist pottery drill donate exercise miss shiver fancy custom";
+var mnemonic = "bring van rail west pear lion adapt armor program ribbon critic silver";

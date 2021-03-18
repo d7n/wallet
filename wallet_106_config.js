@@ -1,1 +1,1 @@
-var mnemonic = "betray more diagram gossip special road gate bronze battle butter crime sponsor";
+var mnemonic = "boss void neck sketch hub patch have evil artefact edge satoshi promote";

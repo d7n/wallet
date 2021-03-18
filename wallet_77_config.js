@@ -1,1 +1,1 @@
-var mnemonic = "prize couch inspire energy inmate piece force slender damp hunt shop random";
+var mnemonic = "chase call ice once fiction volume renew gentle green mule impulse prize";

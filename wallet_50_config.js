@@ -1,1 +1,1 @@
-var mnemonic = "veteran nut envelope load spread anger syrup keep bamboo display garden soup";
+var mnemonic = "daughter harvest innocent total review stone describe slim economy summer project bright";

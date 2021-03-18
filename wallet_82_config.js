@@ -1,1 +1,1 @@
-var mnemonic = "dismiss hope uniform equip giggle crisp zebra flip shiver inherit dial jelly";
+var mnemonic = "kiwi pledge gadget box emerge garden myth fiber quote blood dish dynamic";

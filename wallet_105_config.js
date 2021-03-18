@@ -1,1 +1,1 @@
-var mnemonic = "concert denial update silent number screen hotel chase kiwi clip pelican urban";
+var mnemonic = "hen cheese wreck asthma voyage toddler shiver soap trial buddy smart cement";

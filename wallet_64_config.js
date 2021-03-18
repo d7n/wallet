@@ -1,1 +1,1 @@
-var mnemonic = "rug voice cube cushion junior bullet wrong airport riot vicious light front";
+var mnemonic = "expect odor because census often middle become behind gentle maid stool hundred";

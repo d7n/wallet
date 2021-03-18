@@ -1,1 +1,1 @@
-var mnemonic = "portion document deer anxiety canvas aisle tank decide tonight morning left broken";
+var mnemonic = "hollow aspect toast mouse absent twenty avocado power off hole poverty course";

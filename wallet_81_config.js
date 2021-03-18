@@ -1,1 +1,1 @@
-var mnemonic = "glare correct width summer route area olympic stool during pelican bless custom";
+var mnemonic = "joke auction horror modify another sight suggest myth afford mobile train become";

@@ -1,1 +1,1 @@
-var mnemonic = "project clump clutch crawl topic rule fine ocean supreme post fiber connect";
+var mnemonic = "endorse purpose example develop catalog visit scan father express tourist head verb";

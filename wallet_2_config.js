@@ -1,1 +1,1 @@
-var mnemonic = "jelly guitar wage aerobic knock direct profit message regret scissors pulp lion";
+var mnemonic = "close rely saddle middle warfare among toy misery pear illness patch account";

@@ -1,1 +1,1 @@
-var mnemonic = "live clap brush cash item ginger profit avocado twice obscure neglect sail";
+var mnemonic = "boost eternal carbon add amused possible raven quantum process tortoise book decide";

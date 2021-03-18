@@ -1,1 +1,1 @@
-var mnemonic = "filter mass desk adjust item sunset fossil remain glimpse soon outdoor under";
+var mnemonic = "music drama horror gasp hope frost trophy corn buddy hire artwork label";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf squeeze jacket guide cliff pencil trim tide ankle vague ladder pride";
+var mnemonic = "fox carbon elephant aim shrimp turn head forget muffin emotion mutual robust";

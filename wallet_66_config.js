@@ -1,1 +1,1 @@
-var mnemonic = "balcony gesture craft hurt grape find muffin fresh diamond ripple coin marble";
+var mnemonic = "frost dune sudden fall region ramp prize genuine lock father goddess tree";

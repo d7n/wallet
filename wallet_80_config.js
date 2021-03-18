@@ -1,1 +1,1 @@
-var mnemonic = "oblige account citizen submit decade alley symbol brick penalty circle enlist degree";
+var mnemonic = "march option brave zoo explain pink someone crystal feature wedding wrist ritual";

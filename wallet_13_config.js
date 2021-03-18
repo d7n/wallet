@@ -1,1 +1,1 @@
-var mnemonic = "solid lamp minimum merry soup tray wash latin barrel scout mercy dwarf";
+var mnemonic = "table slide cheese like float craft mandate mimic breeze keep symptom embrace";

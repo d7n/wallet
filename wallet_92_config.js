@@ -1,1 +1,1 @@
-var mnemonic = "shield fitness cupboard suit gossip talent allow volume situate abandon happy trend";
+var mnemonic = "garbage level repeat mom average belt mind crouch thumb mention expire injury";

@@ -1,1 +1,1 @@
-var mnemonic = "ask praise resource flush machine stem paper entry muffin dismiss idle ladder";
+var mnemonic = "opera shift oxygen exit blue tilt harsh author believe pluck spread buffalo";

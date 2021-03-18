@@ -1,1 +1,1 @@
-var mnemonic = "furnace endorse wear fence evoke adult exist ancient box giggle inmate game";
+var mnemonic = "wild time depend journey series mobile desert peasant dynamic twin surface bulk";

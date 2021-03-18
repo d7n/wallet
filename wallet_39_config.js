@@ -1,1 +1,1 @@
-var mnemonic = "orange remove royal pink save finish disease among old happy asset leave";
+var mnemonic = "spell sea topic april fabric script mask swift business size coyote together";

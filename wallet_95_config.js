@@ -1,1 +1,1 @@
-var mnemonic = "endless ocean lounge proud wave skirt live seminar rival loud master view";
+var mnemonic = "follow burger exhaust very track toilet valley rack naive model blur person";

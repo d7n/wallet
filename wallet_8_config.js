@@ -1,1 +1,1 @@
-var mnemonic = "magic snow leader glow dish connect bench adapt film exercise charge skin";
+var mnemonic = "season differ pencil struggle author winner payment metal swap practice mistake craft";

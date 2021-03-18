@@ -1,1 +1,1 @@
-var mnemonic = "steel shove smooth blanket rival riot chronic dial pitch bone card distance";
+var mnemonic = "minute dawn actual always champion invest trophy kit skull ecology margin shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "letter finish cement control buzz mention rough actress possible license present caution";
+var mnemonic = "silly sand vault polar slender amateur talk bring join blame adjust nature";

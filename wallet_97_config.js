@@ -1,1 +1,1 @@
-var mnemonic = "fiber owner expose desk robot measure prevent canal feed wrong snack movie";
+var mnemonic = "myself high dream funny bean foam engage soul print evoke novel slide";

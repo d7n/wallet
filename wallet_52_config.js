@@ -1,1 +1,1 @@
-var mnemonic = "position judge major opinion rookie reward source year become ribbon slot security";
+var mnemonic = "turn banner balance tip spirit awesome rack hair door quick faint deal";

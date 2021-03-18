@@ -1,1 +1,1 @@
-var mnemonic = "viable police exile eager term ramp three stuff hero witness video replace";
+var mnemonic = "judge curious park just unhappy metal rate say then wear zebra stove";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle stomach asset clever tonight use legend keen common system phone canyon";
+var mnemonic = "circle hobby fence swim state tragic sweet grape patrol scorpion legal lizard";

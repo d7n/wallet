@@ -1,1 +1,1 @@
-var mnemonic = "exercise cheap file supply pledge vivid cliff risk grant tonight horn chuckle";
+var mnemonic = "base share badge sad eternal skull jaguar weather legal find vague north";

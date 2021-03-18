@@ -1,1 +1,1 @@
-var mnemonic = "strategy fiscal canyon broom loud humor perfect afraid trophy thing struggle sure";
+var mnemonic = "cancel gun heavy view youth soul attack balcony three news program domain";

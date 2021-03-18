@@ -1,1 +1,1 @@
-var mnemonic = "absurd sell parrot conduct divide exit since chuckle obey pulp sand spray";
+var mnemonic = "inside fuel method misery brown suit address stuff ready ethics resist potato";

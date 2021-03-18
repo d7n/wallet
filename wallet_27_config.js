@@ -1,1 +1,1 @@
-var mnemonic = "cargo muscle maid power debris maid rude frame mushroom another deliver credit";
+var mnemonic = "art crater wheat banana boat furnace orbit black cinnamon vocal bracket organ";

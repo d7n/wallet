@@ -1,1 +1,1 @@
-var mnemonic = "wrap wheel earn list rice blade flavor raccoon manual royal identify blossom";
+var mnemonic = "rather indoor walk company afraid radar slight dismiss relax ladder ivory drama";

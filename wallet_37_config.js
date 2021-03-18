@@ -1,1 +1,1 @@
-var mnemonic = "hand super volcano wrap bulk inhale bring tilt develop horn chronic skin";
+var mnemonic = "certain pottery behind unfold rule runway buzz assume shiver enough dutch error";

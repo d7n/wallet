@@ -1,1 +1,1 @@
-var mnemonic = "arrest gravity stomach direct they dawn crash verb short resource equal wise";
+var mnemonic = "surge juice feel weasel powder rifle drift half coyote mobile category deer";

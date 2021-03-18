@@ -1,1 +1,1 @@
-var mnemonic = "rent soccer section assault lonely fat tunnel pause cabin embark spread sunset";
+var mnemonic = "melody crunch girl venture two hello search flame neglect top service series";

@@ -1,1 +1,1 @@
-var mnemonic = "skull carbon rack sibling metal boil near sphere forest legal movie pyramid";
+var mnemonic = "rotate patient mule angry year iron slender destroy reason prefer library oak";

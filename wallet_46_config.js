@@ -1,1 +1,1 @@
-var mnemonic = "multiply reason accuse priority slab unable local teach route zoo elbow glory";
+var mnemonic = "extend crater stool gospel random cost napkin retire dignity such differ guilt";

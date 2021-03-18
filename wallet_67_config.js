@@ -1,1 +1,1 @@
-var mnemonic = "flag weasel federal volcano glory rescue level predict merry bullet trim pilot";
+var mnemonic = "business whale gasp artist pitch section meat already keep muscle bundle bind";

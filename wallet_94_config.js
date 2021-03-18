@@ -1,1 +1,1 @@
-var mnemonic = "ceiling bike approve panther bacon fog fox fog borrow scout hen attend";
+var mnemonic = "coconut behind giggle hole dash embark matter cereal praise ahead toss spawn";

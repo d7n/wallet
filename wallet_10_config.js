@@ -1,1 +1,1 @@
-var mnemonic = "hour busy immune express inform imitate wave table toe estate insect bus";
+var mnemonic = "stay frog course stove income cradle hollow fitness cheap measure race item";

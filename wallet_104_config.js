@@ -1,1 +1,1 @@
-var mnemonic = "border bless uncover bounce dose tenant reopen kit segment point warrior symptom";
+var mnemonic = "blade when figure item dutch digital orange picnic best metal tennis ozone";

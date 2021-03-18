@@ -1,1 +1,1 @@
-var mnemonic = "reject enhance viable velvet hero maze joke divorce pretty shallow forest slot";
+var mnemonic = "please smart time ticket chalk steak tuition portion leave village gather foot";

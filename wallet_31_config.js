@@ -1,1 +1,1 @@
-var mnemonic = "chef paddle slide hobby pistol maple inject misery exotic have ozone wrist";
+var mnemonic = "exercise donor remove call flat steak alarm main letter post slender review";

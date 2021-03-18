@@ -1,1 +1,1 @@
-var mnemonic = "word unaware hover merit section cash prize situate ahead onion giant organ";
+var mnemonic = "twelve defense sunny eager weasel busy range orphan tooth like draw unit";

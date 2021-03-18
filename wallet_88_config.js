@@ -1,1 +1,1 @@
-var mnemonic = "artwork blind artwork pause roast head avocado wise bar warfare hood castle";
+var mnemonic = "wet pig laugh drip awful recipe glow monkey area bone magic stove";

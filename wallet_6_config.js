@@ -1,1 +1,1 @@
-var mnemonic = "pear smoke ethics multiply child mom doll match muscle series material version";
+var mnemonic = "flight sweet debate guitar minimum target liquid margin amazing sign wasp lady";

@@ -1,1 +1,1 @@
-var mnemonic = "celery nephew pact jaguar antenna scatter glad heart defense bag bright knock";
+var mnemonic = "rebel humor climb ripple name outer else relax fever lonely shoe mimic";

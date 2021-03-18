@@ -1,1 +1,1 @@
-var mnemonic = "myth maximum garment reopen wrestle tribe solution garage sea suspect save rib";
+var mnemonic = "smile stool jazz copy chuckle plate person guide derive lemon regret kid";

@@ -1,1 +1,1 @@
-var mnemonic = "repair enforce math peasant coin draw van uncover luggage degree funny fitness";
+var mnemonic = "plate build tribe planet motion cost alien special slush snow whale agent";

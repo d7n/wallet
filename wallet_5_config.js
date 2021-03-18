@@ -1,1 +1,1 @@
-var mnemonic = "traffic tonight shine poet typical violin capable slow taxi prevent dash acquire";
+var mnemonic = "believe leave chunk motion sentence hub choice escape cup smooth pencil speed";

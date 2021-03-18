@@ -1,1 +1,1 @@
-var mnemonic = "secret weird aware push hamster mixed culture glimpse remind butter praise aim";
+var mnemonic = "clever cake orange derive circle dutch unfair mansion gorilla mammal waste album";

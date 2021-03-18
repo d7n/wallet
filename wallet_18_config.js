@@ -1,1 +1,1 @@
-var mnemonic = "exchange shock follow canoe alley vapor monster joke spare tired injury brand";
+var mnemonic = "lens diamond summer illness across embrace day walnut metal lyrics frost dolphin";

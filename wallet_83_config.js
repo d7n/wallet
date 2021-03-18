@@ -1,1 +1,1 @@
-var mnemonic = "net sting reveal shrimp brown owner settle firm exhaust mesh tone smooth";
+var mnemonic = "mercy april tattoo answer sadness desk naive mirror bone run sister hotel";

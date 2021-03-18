@@ -1,1 +1,1 @@
-var mnemonic = "fix flash burst domain parade cloud way system zoo picture frequent solve";
+var mnemonic = "canal wage drift labor unfold quantum shrug embrace tool despair garbage mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo elder patient retreat artefact harsh pudding movie main doll catch discover";
+var mnemonic = "rug nerve wool organ master else bulk hollow agent grunt very stem";

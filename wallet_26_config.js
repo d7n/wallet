@@ -1,1 +1,1 @@
-var mnemonic = "flip gift confirm razor shy aim urban price vote rule program vanish";
+var mnemonic = "grid weather assist detect worry water torch hedgehog oppose light link pledge";

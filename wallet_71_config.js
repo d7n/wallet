@@ -1,1 +1,1 @@
-var mnemonic = "play donkey melody spatial creek success include light tone fiction pride garment";
+var mnemonic = "involve raw south polar story rebuild helmet invest pattern vocal flame piece";

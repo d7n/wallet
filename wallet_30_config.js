@@ -1,1 +1,1 @@
-var mnemonic = "shallow genre victory utility able still snap success grid endless income beyond";
+var mnemonic = "antenna primary clock cement lake faint general orbit artefact barrel jar nephew";

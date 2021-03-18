@@ -1,1 +1,1 @@
-var mnemonic = "undo combine oblige mistake action save east pink oak target impact lava";
+var mnemonic = "uphold notable visa write urban bitter segment category table cry three palm";

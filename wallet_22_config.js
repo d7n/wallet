@@ -1,1 +1,1 @@
-var mnemonic = "sell recall bread car coffee dutch salt stadium fault scene verify transfer";
+var mnemonic = "spell alley man power lawsuit wire exchange adapt number repeat climb noodle";

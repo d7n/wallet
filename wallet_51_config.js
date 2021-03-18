@@ -1,1 +1,1 @@
-var mnemonic = "degree clay sail fatal verb barely pigeon brush shaft symptom twelve entire";
+var mnemonic = "collect crazy climb salon suspect ocean angle mouse raven planet purpose curtain";

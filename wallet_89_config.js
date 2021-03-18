@@ -1,1 +1,1 @@
-var mnemonic = "until window garage pitch odor elder reduce season carpet scan scorpion toward";
+var mnemonic = "collect pilot original edge fog panda day local blood lumber fire critic";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic public skill differ meat zoo gain thumb weasel able upset aim";
+var mnemonic = "disorder apology chuckle horse slow immense cliff salad cover fatal general tray";

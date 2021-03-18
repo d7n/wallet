@@ -1,1 +1,1 @@
-var mnemonic = "sea pigeon pact muffin toddler fossil diagram error wink tuition width whisper";
+var mnemonic = "notice prepare flee base coconut screen wrong seminar sugar empower gift tent";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub lottery cave chuckle abandon prevent work annual joke cloud quality pizza";
+var mnemonic = "habit wise brief glass daughter trap hurdle grass vendor glass exchange this";
