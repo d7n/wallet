@@ -1,1 +1,1 @@
-var mnemonic = "glass define program lounge rigid design tiny powder title turtle liquid large";
+var mnemonic = "finish liar book blush amateur yellow private grain cube breeze huge banana";

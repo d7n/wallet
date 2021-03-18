@@ -1,1 +1,1 @@
-var mnemonic = "figure often keep together into crime cross space response dwarf enter canyon";
+var mnemonic = "stand road guitar exist shop bid pelican infant dentist shell clap diagram";

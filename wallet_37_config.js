@@ -1,1 +1,1 @@
-var mnemonic = "despair install keep artwork brand elder alien connect fabric invest key enjoy";
+var mnemonic = "seat elegant around sword very ribbon magnet ten drift solar gold box";

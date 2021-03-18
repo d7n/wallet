@@ -1,1 +1,1 @@
-var mnemonic = "hollow consider cheap early stairs disorder buffalo salmon lion despair more alien";
+var mnemonic = "already degree fancy fresh roast stairs perfect luxury pond rain prison banner";

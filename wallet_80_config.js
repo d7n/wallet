@@ -1,1 +1,1 @@
-var mnemonic = "permit senior coin change select render ceiling moon quality turn spread table";
+var mnemonic = "when slim chaos become busy into zero carpet matrix later chief hole";

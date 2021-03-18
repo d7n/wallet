@@ -1,1 +1,1 @@
-var mnemonic = "venture chicken ankle shock purpose drill solar decline theory interest lava swear";
+var mnemonic = "draw awful fuel neglect knee scorpion sea mechanic iron drama bullet legend";

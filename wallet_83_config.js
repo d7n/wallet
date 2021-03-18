@@ -1,1 +1,1 @@
-var mnemonic = "speak labor drama actress goose split rely square rent diary distance embrace";
+var mnemonic = "wedding marine you eight inspire rude steel aisle recipe symbol oil own";

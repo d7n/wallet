@@ -1,1 +1,1 @@
-var mnemonic = "receive edit soap axis flight sweet mimic identify seed save arrow oven";
+var mnemonic = "mixture more post merge post draw shuffle soul ask time canyon bench";

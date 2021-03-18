@@ -1,1 +1,1 @@
-var mnemonic = "confirm safe pen ripple share keen wage fatigue stool jaguar butter protect";
+var mnemonic = "source action moment banner there enough peasant gesture utility pencil upgrade gym";

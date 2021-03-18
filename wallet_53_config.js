@@ -1,1 +1,1 @@
-var mnemonic = "dirt loyal special silver able oblige brick shuffle kite detail team sound";
+var mnemonic = "this vapor forum pact bulk interest crawl reject empower gadget pioneer blue";

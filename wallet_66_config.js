@@ -1,1 +1,1 @@
-var mnemonic = "citizen retreat limit volcano file expand top jacket unable book uphold exclude";
+var mnemonic = "never decrease void ahead address humor install garlic chuckle because dwarf gesture";

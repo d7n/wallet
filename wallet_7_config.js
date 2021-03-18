@@ -1,1 +1,1 @@
-var mnemonic = "panda grief act essence dash until enjoy monkey lobster ensure road brain";
+var mnemonic = "client wage wet flight identify search humble before wait daughter inflict roast";

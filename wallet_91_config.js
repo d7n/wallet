@@ -1,1 +1,1 @@
-var mnemonic = "squirrel cash domain fade hero million reform tide left awkward chuckle hidden";
+var mnemonic = "clarify auto train carbon control yard endless crop bean process survey daring";

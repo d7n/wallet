@@ -1,1 +1,1 @@
-var mnemonic = "plastic unique moment nut afraid quick pluck divert uncle stick blind talk";
+var mnemonic = "merry labor nurse analyst run alley child vocal grunt brown afford piece";

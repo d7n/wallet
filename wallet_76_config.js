@@ -1,1 +1,1 @@
-var mnemonic = "copy category crater soup reject success clap deliver glory sort thumb mango";
+var mnemonic = "wrestle entry huge absorb country melody pen corn blanket bag pulp floor";

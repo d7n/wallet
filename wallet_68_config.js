@@ -1,1 +1,1 @@
-var mnemonic = "relief use pact cluster demise wreck ring record tell reopen rent inch";
+var mnemonic = "border trophy cycle biology drink confirm arrive garage egg open mandate display";

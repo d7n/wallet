@@ -1,1 +1,1 @@
-var mnemonic = "intact day guide size tilt ready narrow ivory bounce flavor between alpha";
+var mnemonic = "bring gown profit junior adapt stable thought proud give audit mask sister";

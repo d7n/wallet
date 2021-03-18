@@ -1,1 +1,1 @@
-var mnemonic = "fringe first agree ivory trip champion venue view two screen under hedgehog";
+var mnemonic = "power stable action crisp amused crew task burst swing grid author huge";

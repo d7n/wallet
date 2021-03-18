@@ -1,1 +1,1 @@
-var mnemonic = "goose setup trouble sentence critic predict turkey dog next spawn tank round";
+var mnemonic = "sick stool kit solution yellow gun destroy horror thought service warfare roast";

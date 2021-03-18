@@ -1,1 +1,1 @@
-var mnemonic = "they soon barrel load bind deliver depth edit guide divorce alcohol floor";
+var mnemonic = "lake raven cheese immune obtain eagle budget team tackle fog gown wrap";

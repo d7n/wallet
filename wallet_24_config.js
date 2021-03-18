@@ -1,1 +1,1 @@
-var mnemonic = "frog remember reunion pluck feed horn theory note away angry palace kangaroo";
+var mnemonic = "peace forum join audit accident hint bring agent vast journey exist excess";

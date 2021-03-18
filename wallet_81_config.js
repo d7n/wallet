@@ -1,1 +1,1 @@
-var mnemonic = "mail father supply follow pistol estate dance tube wire vintage valve second";
+var mnemonic = "suffer hard leopard typical fortune sustain razor response chest adjust will umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor laugh evidence input crazy olive feed token only mass refuse angry";
+var mnemonic = "arrive infant youth dash payment economy thumb long divide outer naive between";

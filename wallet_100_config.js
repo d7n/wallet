@@ -1,1 +1,1 @@
-var mnemonic = "man donkey hurry cup feel turn congress evolve gain oven comic category";
+var mnemonic = "impose future alley tide confirm winter spot segment scene steel slab slogan";

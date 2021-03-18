@@ -1,1 +1,1 @@
-var mnemonic = "nation way fee bullet job brave bleak minute trouble audit bridge regular";
+var mnemonic = "dust slot shoe alarm degree amount employ grain doctor give cherry daughter";

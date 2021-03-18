@@ -1,1 +1,1 @@
-var mnemonic = "dance wheel ancient eight cave foil ranch empty west pioneer shoulder ensure";
+var mnemonic = "alter humble interest raw flock finger ripple laptop include walnut february pole";

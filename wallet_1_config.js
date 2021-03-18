@@ -1,1 +1,1 @@
-var mnemonic = "grow tag used mandate grow dumb cool find render hub behind sound";
+var mnemonic = "caught fancy loyal gesture wheel mirror wish erode emerge candy plate you";

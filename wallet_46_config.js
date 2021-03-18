@@ -1,1 +1,1 @@
-var mnemonic = "obtain mother drop round visit exist scene picture cricket ill flower gym";
+var mnemonic = "either empty actress chuckle spy cement beach hand insect embrace quantum donor";

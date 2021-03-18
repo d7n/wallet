@@ -1,1 +1,1 @@
-var mnemonic = "muscle couple execute valley hammer cereal false drop uncover space sword lamp";
+var mnemonic = "picnic enrich adjust pet pipe reason wreck rebuild diamond marble cabbage element";

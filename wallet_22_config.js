@@ -1,1 +1,1 @@
-var mnemonic = "give vault student live name lend seat process cute aim work allow";
+var mnemonic = "live page bullet reduce rally label option quit quantum move suit idle";

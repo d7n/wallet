@@ -1,1 +1,1 @@
-var mnemonic = "raven entire alley cushion drive region treat mom cousin festival consider help";
+var mnemonic = "vintage antenna correct mimic crisp stem south match negative patrol ecology meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "pride humble ask wealth catch brown dad smoke outside simple kangaroo snack";
+var mnemonic = "only twin amount flash must area valley slight any egg walnut clean";

@@ -1,1 +1,1 @@
-var mnemonic = "share put second text pink quality cricket devote suffer drip march trophy";
+var mnemonic = "mail thunder tribe wine ancient slide left forward west portion castle heart";

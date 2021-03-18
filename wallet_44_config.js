@@ -1,1 +1,1 @@
-var mnemonic = "belt digital trade symbol course caution okay once little pyramid knee since";
+var mnemonic = "goose yard judge body mail virtual general mixed agree loan possible industry";

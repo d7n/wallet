@@ -1,1 +1,1 @@
-var mnemonic = "supreme raven hurdle sister convince flee video slot useful logic suffer civil";
+var mnemonic = "capital crush found pen liar ordinary master belt pizza need bracket obtain";

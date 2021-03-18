@@ -1,1 +1,1 @@
-var mnemonic = "expand ride spy print stock sail palace item meat chapter warfare shell";
+var mnemonic = "chunk enrich chef judge rather grass heavy grocery drip network chicken odor";

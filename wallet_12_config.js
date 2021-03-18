@@ -1,1 +1,1 @@
-var mnemonic = "parent salute rail plastic guilt meat tide river pelican sibling limit uniform";
+var mnemonic = "traffic comic favorite crystal shine stamp dolphin patrol merit angry spin fit";

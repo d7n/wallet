@@ -1,1 +1,1 @@
-var mnemonic = "such time excess mosquito cute helmet ask legal box income steak check";
+var mnemonic = "smile fee art gain crack resource december hand muffin energy oyster prepare";

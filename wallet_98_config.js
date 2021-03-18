@@ -1,1 +1,1 @@
-var mnemonic = "unusual busy shoe village hold umbrella enemy insane dad toward flock build";
+var mnemonic = "gesture fatal merry flush estate ordinary much finger raccoon hidden reopen gadget";

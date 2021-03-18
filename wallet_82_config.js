@@ -1,1 +1,1 @@
-var mnemonic = "scale frog system piece august quarter divert renew note slender tiger suspect";
+var mnemonic = "one fan elbow garbage way equip worth town kit cushion satoshi blanket";

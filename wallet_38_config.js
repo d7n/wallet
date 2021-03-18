@@ -1,1 +1,1 @@
-var mnemonic = "sniff flash derive vacuum pool material intact food rug net spot example";
+var mnemonic = "glimpse find funny broken cheese hospital embody write puzzle gadget milk smooth";

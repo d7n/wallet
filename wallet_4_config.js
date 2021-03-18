@@ -1,1 +1,1 @@
-var mnemonic = "major dignity arrow swim hybrid elephant jewel lend umbrella caught muscle suffer";
+var mnemonic = "wish great sadness ethics ugly genre lizard furnace hedgehog doll nuclear develop";

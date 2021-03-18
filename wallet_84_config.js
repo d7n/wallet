@@ -1,1 +1,1 @@
-var mnemonic = "beach alpha firm strategy screen exotic spring pen weasel thunder office bind";
+var mnemonic = "wish burden key sweet reason insane style change cushion item novel worth";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing regret about safe city clarify inject gain accident tongue pistol all";
+var mnemonic = "question benefit meadow pilot mutual erosion sign copy top raccoon casino anger";

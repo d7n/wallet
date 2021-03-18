@@ -1,1 +1,1 @@
-var mnemonic = "crawl human endless busy beef annual volume retire since play dutch liberty";
+var mnemonic = "hire fiscal push still cargo animal grunt text segment install leopard disease";

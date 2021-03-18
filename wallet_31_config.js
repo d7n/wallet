@@ -1,1 +1,1 @@
-var mnemonic = "cattle rifle smoke egg room ordinary foot pull skull humor cereal spoon";
+var mnemonic = "axis daughter rigid expect shell nurse silly steak rib subject people left";

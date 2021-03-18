@@ -1,1 +1,1 @@
-var mnemonic = "cargo rabbit link inquiry want auto swear absurd frame burden era cousin";
+var mnemonic = "act fitness vivid guilt fiber assist end syrup floor pond pattern duck";

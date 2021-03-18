@@ -1,1 +1,1 @@
-var mnemonic = "update large spin square actor veteran area govern piano cupboard paper step";
+var mnemonic = "talent ankle layer injury trap run immense faculty pulse coil slight charge";

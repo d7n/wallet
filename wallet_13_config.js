@@ -1,1 +1,1 @@
-var mnemonic = "disorder coconut immune custom rebuild impose twist miracle agree lounge fly equip";
+var mnemonic = "talent depend half main novel balcony sudden doll view negative fox whisper";

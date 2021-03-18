@@ -1,1 +1,1 @@
-var mnemonic = "charge trip music flat cinnamon wife street virtual egg pepper primary ostrich";
+var mnemonic = "sentence eagle entry brief hill piano trigger genuine cool clean soccer defense";

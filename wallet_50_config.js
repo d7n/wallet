@@ -1,1 +1,1 @@
-var mnemonic = "spoil ahead bean fresh best portion area turtle utility genius pottery goose";
+var mnemonic = "save divide excite wage wrong swift divert grid current autumn debris resemble";

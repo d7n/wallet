@@ -1,1 +1,1 @@
-var mnemonic = "inspire lend bag aware supreme shed south source very bomb scrap bone";
+var mnemonic = "rely divide holiday require galaxy point stadium select chalk increase universe silk";

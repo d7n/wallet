@@ -1,1 +1,1 @@
-var mnemonic = "large hungry better topple utility nephew draw effort direct lake decade crawl";
+var mnemonic = "depend clever also tiny merge wonder nut anxiety stereo explain age order";

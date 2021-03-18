@@ -1,1 +1,1 @@
-var mnemonic = "museum goat napkin ethics ecology lunar this autumn margin sure deer truly";
+var mnemonic = "trash casino bacon fiber smile flag crunch fury fame despair kid prize";

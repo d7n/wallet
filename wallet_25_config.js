@@ -1,1 +1,1 @@
-var mnemonic = "dentist lion honey brave exotic appear border lizard north manual final guide";
+var mnemonic = "link worth hole physical sand portion pride slam liquid soap produce bread";

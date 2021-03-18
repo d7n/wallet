@@ -1,1 +1,1 @@
-var mnemonic = "matrix license outer final dance position exhibit only client fetch service plug";
+var mnemonic = "gym broom name tackle crush leg carry input upset virus sound hat";

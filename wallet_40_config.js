@@ -1,1 +1,1 @@
-var mnemonic = "giggle milk pool penalty kiwi attack hidden veteran air course village pudding";
+var mnemonic = "frog impulse base liberty castle affair remember ancient fragile bachelor enforce room";

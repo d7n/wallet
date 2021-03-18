@@ -1,1 +1,1 @@
-var mnemonic = "across pig nature baby street kiss electric method audit mango amateur alter";
+var mnemonic = "ball jaguar canvas metal twin album safe sure area rally tomorrow flat";

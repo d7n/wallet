@@ -1,1 +1,1 @@
-var mnemonic = "fossil upper bacon gallery kick deputy situate announce invite history solid wise";
+var mnemonic = "voyage jar settle devote insect hurdle gold monkey chuckle liar amateur biology";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin danger round lemon oppose effort black deny powder convince want gap";
+var mnemonic = "fall lizard speak deal tomato typical series invite ridge symptom endorse sheriff";

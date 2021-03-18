@@ -1,1 +1,1 @@
-var mnemonic = "sister wrestle silent wear gentle axis blouse inflict quit clever steel draw";
+var mnemonic = "original elephant boy taste cloud fetch general magnet relief oak secret client";

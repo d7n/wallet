@@ -1,1 +1,1 @@
-var mnemonic = "fan life catalog post crime involve tide spin escape tongue sister insane";
+var mnemonic = "debate diary brother false tenant way session file sock airport require vehicle";

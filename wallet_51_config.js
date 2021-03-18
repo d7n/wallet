@@ -1,1 +1,1 @@
-var mnemonic = "return someone crucial gold win crop since proof forward path aim assist";
+var mnemonic = "clay maze library bullet plunge win cruel isolate live solution hospital wire";

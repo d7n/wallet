@@ -1,1 +1,1 @@
-var mnemonic = "talk around polar copy sudden must kind animal tray music foam client";
+var mnemonic = "wide tuition under ladder orbit video bind echo absurd problem tape sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "drift inject liberty mystery tomato deputy submit effort disagree unusual run language";
+var mnemonic = "diet soul coach figure airport sleep noble apology celery inject cost venue";

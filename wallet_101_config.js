@@ -1,1 +1,1 @@
-var mnemonic = "yellow guess audit note ball kit hundred beach smart convince march small";
+var mnemonic = "limb where speak joke wasp rebuild garlic pond super solution dinner siege";

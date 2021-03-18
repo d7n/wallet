@@ -1,1 +1,1 @@
-var mnemonic = "live cable party put sport moment hover describe rib palm toddler good";
+var mnemonic = "unable pause buddy random squeeze payment burst advice family soap gentle engage";

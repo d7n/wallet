@@ -1,1 +1,1 @@
-var mnemonic = "coyote method arrive monitor rack chronic metal wonder pretty deposit above bullet";
+var mnemonic = "remain menu frozen problem return slice kingdom sphere depth legal visa possible";

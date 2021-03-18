@@ -1,1 +1,1 @@
-var mnemonic = "story mobile anger plug before ugly high rookie true series assist ticket";
+var mnemonic = "letter window smooth fine object educate interest buffalo cool wheat opinion violin";

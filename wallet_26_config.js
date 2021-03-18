@@ -1,1 +1,1 @@
-var mnemonic = "cigar yellow foster survey endorse interest attitude unhappy news mimic nation brush";
+var mnemonic = "float attend area twist gown ghost globe enlist leisure fragile vague tongue";

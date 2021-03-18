@@ -1,1 +1,1 @@
-var mnemonic = "image trust toilet video jungle perfect camera juice advance catch over add";
+var mnemonic = "cupboard crystal spot humor talk gesture ball right stuff regular type close";

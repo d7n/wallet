@@ -1,1 +1,1 @@
-var mnemonic = "worry toy economy harsh erase jungle gasp coin list afraid network exclude";
+var mnemonic = "prevent forward job small cruise super jewel cool robot meadow clump spike";

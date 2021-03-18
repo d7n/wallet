@@ -1,1 +1,1 @@
-var mnemonic = "suffer hint puppy stage knife eager shuffle want phone liquid patrol image";
+var mnemonic = "hill hamster similar flock potato alpha explain island machine task toss long";

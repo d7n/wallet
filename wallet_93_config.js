@@ -1,1 +1,1 @@
-var mnemonic = "expand useless foster push coffee tackle achieve afraid token omit yellow pave";
+var mnemonic = "direct mass grow grunt nerve rebuild neutral behind swamp chef inhale prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk spatial crew vintage ivory bomb child put casino illness notable snap";
+var mnemonic = "resist grant expand drill this bachelor lemon ivory mouse science kingdom steel";

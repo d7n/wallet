@@ -1,1 +1,1 @@
-var mnemonic = "round shuffle exclude multiply month maple guitar magnet spell version iron helmet";
+var mnemonic = "wisdom spend maximum canyon throw olive sudden giraffe chef symbol soul repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "sick when thought floor slight hood that liberty jeans puzzle ill rare";
+var mnemonic = "syrup oven zone spin afford gather sign fly magnet tube absurd nature";

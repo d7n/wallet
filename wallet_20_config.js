@@ -1,1 +1,1 @@
-var mnemonic = "mask circle digital any among comfort mother wire wait day hill fashion";
+var mnemonic = "credit appear major diesel nut under remain type dawn cute true release";

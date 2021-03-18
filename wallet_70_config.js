@@ -1,1 +1,1 @@
-var mnemonic = "boy year million myself blush gorilla worth execute hour unable abstract maid";
+var mnemonic = "afford panel use split march fall punch bachelor lazy crumble garlic raccoon";

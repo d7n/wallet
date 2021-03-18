@@ -1,1 +1,1 @@
-var mnemonic = "clock economy secret box way pigeon cross rather dirt humor unit student";
+var mnemonic = "vapor thumb suffer holiday ozone illness royal lock hollow raise buffalo tongue";

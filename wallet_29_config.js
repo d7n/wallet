@@ -1,1 +1,1 @@
-var mnemonic = "old town antenna donate common number fiction thing ask cross loud exercise";
+var mnemonic = "tool vibrant describe tuition help area program heart double town speed tank";

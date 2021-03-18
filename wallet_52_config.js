@@ -1,1 +1,1 @@
-var mnemonic = "affair treat build car foam because box tiger above flame tuna decide";
+var mnemonic = "vicious video legal marine forget broom actress perfect link boil legal note";

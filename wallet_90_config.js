@@ -1,1 +1,1 @@
-var mnemonic = "camera pond siren pulp insect galaxy web wrap detail educate garment devote";
+var mnemonic = "purity that draw picture repair tomorrow foil crack audit among job wear";

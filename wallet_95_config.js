@@ -1,1 +1,1 @@
-var mnemonic = "gold save skate gift country chronic sentence squirrel tourist tenant joy raise";
+var mnemonic = "moment document exit thrive pass evoke advance canyon fatal orange grape cousin";

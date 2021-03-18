@@ -1,1 +1,1 @@
-var mnemonic = "enjoy umbrella choice brass around spring crop you gas mandate harbor future";
+var mnemonic = "face spring retreat shaft risk shrimp rural control twenty unable viable employ";

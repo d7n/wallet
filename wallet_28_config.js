@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow matter chicken brief point rate dune meadow yellow prepare price require";
+var mnemonic = "spice actor barrel elegant burden tuition evidence sauce toast cross school friend";

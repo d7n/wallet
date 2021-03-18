@@ -1,1 +1,1 @@
-var mnemonic = "next wrist giant color bean flee tone suffer trim always easy head";
+var mnemonic = "sword gym elite feed number chuckle stand explain connect salt erupt sad";

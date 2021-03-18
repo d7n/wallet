@@ -1,1 +1,1 @@
-var mnemonic = "slice sphere slogan marriage wife dance garlic river tuition success play symptom";
+var mnemonic = "liquid ensure aim outdoor tragic spoil together fitness sugar lake biology length";

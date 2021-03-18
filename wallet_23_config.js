@@ -1,1 +1,1 @@
-var mnemonic = "detail deputy express recipe regret nasty walnut humor universe valley scrub gorilla";
+var mnemonic = "segment marine myth quality harsh lesson cat cool true hungry doll salt";

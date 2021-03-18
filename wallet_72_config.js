@@ -1,1 +1,1 @@
-var mnemonic = "rich journey extend master cat answer loan economy blame borrow promote cloth";
+var mnemonic = "faith similar almost sail virtual decorate isolate cost parade giggle rug document";

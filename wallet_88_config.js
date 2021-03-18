@@ -1,1 +1,1 @@
-var mnemonic = "deer useful soldier scene grocery obtain away machine fish moral split word";
+var mnemonic = "habit toward silly filter assist rhythm damage brain canvas dumb vanish woman";
