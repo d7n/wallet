@@ -1,1 +1,1 @@
-var mnemonic = "reason only rose casual awake soul price neglect first exist horse token";
+var mnemonic = "add wish gospel faint try empty old test lobster clock crucial hero";

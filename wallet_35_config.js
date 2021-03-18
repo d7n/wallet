@@ -1,1 +1,1 @@
-var mnemonic = "private rural lawn husband tail level private shield topple bachelor action village";
+var mnemonic = "solve potato offer square success tomorrow flight ribbon exit accuse apology leg";

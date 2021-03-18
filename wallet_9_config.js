@@ -1,1 +1,1 @@
-var mnemonic = "win sea bread brain eternal high power alpha audit second act hole";
+var mnemonic = "include faculty pizza misery album pulse rate photo dignity deer hip stumble";

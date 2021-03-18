@@ -1,1 +1,1 @@
-var mnemonic = "circle hobby fence swim state tragic sweet grape patrol scorpion legal lizard";
+var mnemonic = "result dragon lamp actual frequent heart donate lesson inner someone execute tube";

@@ -1,1 +1,1 @@
-var mnemonic = "language essence concert fan moon crisp fly depart stadium canyon swift consider";
+var mnemonic = "nothing success have sunset expose wheel reveal betray february biology grain develop";

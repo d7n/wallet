@@ -1,1 +1,1 @@
-var mnemonic = "extend crater stool gospel random cost napkin retire dignity such differ guilt";
+var mnemonic = "rely pond series torch rookie wool simple text lobster spend hero invite";

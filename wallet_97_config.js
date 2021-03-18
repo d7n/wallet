@@ -1,1 +1,1 @@
-var mnemonic = "myself high dream funny bean foam engage soul print evoke novel slide";
+var mnemonic = "announce scene obey real diary adjust model tag empower category news black";

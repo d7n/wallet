@@ -1,1 +1,1 @@
-var mnemonic = "melody crunch girl venture two hello search flame neglect top service series";
+var mnemonic = "vapor leopard remember present economy glimpse decorate leader spend pass ladder smoke";

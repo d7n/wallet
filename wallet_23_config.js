@@ -1,1 +1,1 @@
-var mnemonic = "front gospel garden perfect confirm labor potato always broccoli color make gadget";
+var mnemonic = "biology crush lawsuit occur pony ridge dove animal always load door blush";

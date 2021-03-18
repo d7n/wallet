@@ -1,1 +1,1 @@
-var mnemonic = "flight sweet debate guitar minimum target liquid margin amazing sign wasp lady";
+var mnemonic = "tube pool omit train thumb recipe jazz mom relax year moon buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "inside fuel method misery brown suit address stuff ready ethics resist potato";
+var mnemonic = "joke favorite banner equip float shield margin syrup hockey oil annual liquid";

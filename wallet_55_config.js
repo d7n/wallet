@@ -1,1 +1,1 @@
-var mnemonic = "hollow aspect toast mouse absent twenty avocado power off hole poverty course";
+var mnemonic = "dial shell escape useless end trouble oblige avocado sausage country strong disorder";

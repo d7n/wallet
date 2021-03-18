@@ -1,1 +1,1 @@
-var mnemonic = "uphold notable visa write urban bitter segment category table cry three palm";
+var mnemonic = "vivid ancient belt brain bachelor bulk slot bonus private behind misery copper";

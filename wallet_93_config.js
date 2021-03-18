@@ -1,1 +1,1 @@
-var mnemonic = "stamp pistol afraid girl canal rebuild search expect long pulse current tell";
+var mnemonic = "suspect twelve sure find away fetch night frost adjust junior extra family";

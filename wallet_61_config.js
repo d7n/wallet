@@ -1,1 +1,1 @@
-var mnemonic = "notice prepare flee base coconut screen wrong seminar sugar empower gift tent";
+var mnemonic = "dust body outside tiger earth govern electric obscure speed engage accuse fantasy";

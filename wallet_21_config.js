@@ -1,1 +1,1 @@
-var mnemonic = "endorse purpose example develop catalog visit scan father express tourist head verb";
+var mnemonic = "crunch flip follow ribbon noble family hole same hand priority harbor silk";

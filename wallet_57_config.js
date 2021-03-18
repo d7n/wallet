@@ -1,1 +1,1 @@
-var mnemonic = "divide goddess among elephant congress just current tool clerk possible foster solution";
+var mnemonic = "half scan urban water caught fortune either margin remain fiber picture surface";

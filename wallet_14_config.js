@@ -1,1 +1,1 @@
-var mnemonic = "minute dawn actual always champion invest trophy kit skull ecology margin shoulder";
+var mnemonic = "hotel room cup cause call hill cry fix degree fantasy curtain embody";

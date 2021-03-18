@@ -1,1 +1,1 @@
-var mnemonic = "tribe river gloom divert inhale jelly expand bar unable enforce useless anxiety";
+var mnemonic = "moon valve rapid shadow shed plunge circle lizard remind book boil source";

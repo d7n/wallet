@@ -1,1 +1,1 @@
-var mnemonic = "frost dune sudden fall region ramp prize genuine lock father goddess tree";
+var mnemonic = "keep toward emerge wait globe unit hawk peasant attitude boil rib material";

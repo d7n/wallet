@@ -1,1 +1,1 @@
-var mnemonic = "potato whip castle teach word staff nut apart bounce office smooth close";
+var mnemonic = "approve crumble novel rubber match junior luggage yard cherry rain caught limb";

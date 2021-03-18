@@ -1,1 +1,1 @@
-var mnemonic = "fox carbon elephant aim shrimp turn head forget muffin emotion mutual robust";
+var mnemonic = "evidence toss nice mass dust snack shed reveal climb injury rather farm";

@@ -1,1 +1,1 @@
-var mnemonic = "habit wise brief glass daughter trap hurdle grass vendor glass exchange this";
+var mnemonic = "group shadow catch unaware glory pluck wonder forest note better stove prize";

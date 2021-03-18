@@ -1,1 +1,1 @@
-var mnemonic = "close rely saddle middle warfare among toy misery pear illness patch account";
+var mnemonic = "depend input series brown gym vanish picture segment lamp dice thunder seminar";

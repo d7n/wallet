@@ -1,1 +1,1 @@
-var mnemonic = "reopen peanut coast viable miss fee treat wrap ticket vanish butter evidence";
+var mnemonic = "cattle render grow spirit bone photo twelve heavy teach pet debris wonder";

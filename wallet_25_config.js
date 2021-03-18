@@ -1,1 +1,1 @@
-var mnemonic = "average wasp universe minimum love husband miracle junior motor medal genuine display";
+var mnemonic = "brave board mansion lizard leg female road river acoustic female kind exit";

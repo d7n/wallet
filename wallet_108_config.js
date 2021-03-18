@@ -1,1 +1,1 @@
-var mnemonic = "dentist wet alley rely lobster run phone loyal salmon book nothing paper";
+var mnemonic = "reward truth skill erase news arctic front chief lottery unhappy use vault";

@@ -1,1 +1,1 @@
-var mnemonic = "glow curve special original goose soldier record pledge income recycle faint protect";
+var mnemonic = "canyon much layer tuition helmet deposit jewel then very inch sign dilemma";

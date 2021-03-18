@@ -1,1 +1,1 @@
-var mnemonic = "opera shift oxygen exit blue tilt harsh author believe pluck spread buffalo";
+var mnemonic = "enemy clog acid want cupboard decline asset crunch absent cup disease best";

@@ -1,1 +1,1 @@
-var mnemonic = "follow burger exhaust very track toilet valley rack naive model blur person";
+var mnemonic = "forward boat tiger tank kangaroo sugar van alley issue finger electric ask";

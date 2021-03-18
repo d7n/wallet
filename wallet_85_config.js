@@ -1,1 +1,1 @@
-var mnemonic = "celery wash menu despair shock road comfort spatial tonight discover later model";
+var mnemonic = "artefact devote flavor illegal despair cable man portion animal rely license poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "wet pig laugh drip awful recipe glow monkey area bone magic stove";
+var mnemonic = "sense change dwarf suffer destroy surround stumble barrel average they sting outdoor";

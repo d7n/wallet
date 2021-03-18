@@ -1,1 +1,1 @@
-var mnemonic = "march option brave zoo explain pink someone crystal feature wedding wrist ritual";
+var mnemonic = "chaos defy base valid say august great digital stage unfold wolf attack";

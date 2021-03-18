@@ -1,1 +1,1 @@
-var mnemonic = "catalog laptop embark upper bright glove aunt sing glass grain initial member";
+var mnemonic = "candy gate dwarf ready noise mirror moral sponsor reject unfold cloth wait";

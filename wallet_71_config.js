@@ -1,1 +1,1 @@
-var mnemonic = "involve raw south polar story rebuild helmet invest pattern vocal flame piece";
+var mnemonic = "such impact skill brass bomb era inherit scare spawn magnet stairs cute";

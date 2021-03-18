@@ -1,1 +1,1 @@
-var mnemonic = "crucial hub add dish legal soldier zebra kind vote library gaze wrist";
+var mnemonic = "skull jump toe limb melt foot divide iron crisp hotel invite place";

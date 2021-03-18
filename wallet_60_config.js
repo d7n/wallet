@@ -1,1 +1,1 @@
-var mnemonic = "music drama horror gasp hope frost trophy corn buddy hire artwork label";
+var mnemonic = "way super loan canyon math ticket ketchup glory salt install answer damage";

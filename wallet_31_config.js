@@ -1,1 +1,1 @@
-var mnemonic = "exercise donor remove call flat steak alarm main letter post slender review";
+var mnemonic = "rebel desert wife enable stairs comfort prison door stove tooth blanket stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom rough object custom diesel poverty oblige siege pepper shine radar give";
+var mnemonic = "edge dinner orchard aunt depth great fatal admit voice wreck away rude";

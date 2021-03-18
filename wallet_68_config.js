@@ -1,1 +1,1 @@
-var mnemonic = "hold fence body apart vocal cable water ensure anger very soda honey";
+var mnemonic = "slogan derive champion steel shield seven destroy gorilla rice raccoon decrease lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "silly sand vault polar slender amateur talk bring join blame adjust nature";
+var mnemonic = "filter engage else price rural anxiety dinner grid session bundle video awesome";

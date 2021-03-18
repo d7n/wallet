@@ -1,1 +1,1 @@
-var mnemonic = "thing village valve robot ivory enable wage nuclear cluster render grid audit";
+var mnemonic = "target duty insect chimney decorate exact comic iron mean world expire bid";

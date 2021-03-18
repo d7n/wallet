@@ -1,1 +1,1 @@
-var mnemonic = "antenna primary clock cement lake faint general orbit artefact barrel jar nephew";
+var mnemonic = "spawn duty lamp truly cycle onion allow jar junk country lab iron";

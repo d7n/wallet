@@ -1,1 +1,1 @@
-var mnemonic = "rug nerve wool organ master else bulk hollow agent grunt very stem";
+var mnemonic = "desk prepare sad later absurd dove usage will capable zoo leave number";

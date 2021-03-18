@@ -1,1 +1,1 @@
-var mnemonic = "table slide cheese like float craft mandate mimic breeze keep symptom embrace";
+var mnemonic = "bean have ramp avoid buyer ahead high broccoli evil plunge vanish evil";

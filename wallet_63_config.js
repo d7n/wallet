@@ -1,1 +1,1 @@
-var mnemonic = "canal wage drift labor unfold quantum shrug embrace tool despair garbage mouse";
+var mnemonic = "shock theory dolphin alert much wheel notice believe leave awesome violin panda";

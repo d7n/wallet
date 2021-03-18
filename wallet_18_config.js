@@ -1,1 +1,1 @@
-var mnemonic = "lens diamond summer illness across embrace day walnut metal lyrics frost dolphin";
+var mnemonic = "render infant include marble material sword goddess suggest apple nest capable flower";

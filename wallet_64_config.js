@@ -1,1 +1,1 @@
-var mnemonic = "expect odor because census often middle become behind gentle maid stool hundred";
+var mnemonic = "version pitch knee juice skill oblige father throw much jazz rebel skirt";

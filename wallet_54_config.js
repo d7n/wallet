@@ -1,1 +1,1 @@
-var mnemonic = "stadium picture scrub fitness disagree length hospital tuna flower candy target twice";
+var mnemonic = "payment control usual cradle first fitness alpha design suspect range fee you";

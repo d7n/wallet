@@ -1,1 +1,1 @@
-var mnemonic = "boss void neck sketch hub patch have evil artefact edge satoshi promote";
+var mnemonic = "build ramp sweet silent soon pudding whale ask remember child exact rotate";

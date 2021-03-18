@@ -1,1 +1,1 @@
-var mnemonic = "judge curious park just unhappy metal rate say then wear zebra stove";
+var mnemonic = "sample wolf walnut youth asthma lesson gloom treat fashion tip uncover gloom";

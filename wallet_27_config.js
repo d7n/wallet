@@ -1,1 +1,1 @@
-var mnemonic = "art crater wheat banana boat furnace orbit black cinnamon vocal bracket organ";
+var mnemonic = "lumber fury secret elevator extra toss paper grace penalty female again hope";

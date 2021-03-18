@@ -1,1 +1,1 @@
-var mnemonic = "deputy glass vibrant glimpse rely today saddle riot female civil wheat unfair";
+var mnemonic = "border satisfy they potato match burst resist order april power rug stamp";

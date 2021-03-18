@@ -1,1 +1,1 @@
-var mnemonic = "collect pilot original edge fog panda day local blood lumber fire critic";
+var mnemonic = "gather neglect chalk annual crash modify odor theory what arch organ hedgehog";

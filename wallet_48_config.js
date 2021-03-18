@@ -1,1 +1,1 @@
-var mnemonic = "bring van rail west pear lion adapt armor program ribbon critic silver";
+var mnemonic = "fiber abstract ankle tool profit proud feed laugh bright boy tragic much";

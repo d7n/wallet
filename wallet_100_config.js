@@ -1,1 +1,1 @@
-var mnemonic = "april rely mad chalk word latin egg arrange innocent wreck coral exhaust";
+var mnemonic = "drop glory any treat casual silk behave board tortoise point pattern magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "spell alley man power lawsuit wire exchange adapt number repeat climb noodle";
+var mnemonic = "holiday slab immense seed cigar shove marine merry humble news seat initial";

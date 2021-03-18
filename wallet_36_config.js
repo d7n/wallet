@@ -1,1 +1,1 @@
-var mnemonic = "absurd raw bright argue bless celery wood sample august credit toss elephant";
+var mnemonic = "provide puzzle public rebel sniff usage nothing soft room urge arm velvet";

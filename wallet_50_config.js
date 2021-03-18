@@ -1,1 +1,1 @@
-var mnemonic = "daughter harvest innocent total review stone describe slim economy summer project bright";
+var mnemonic = "more great call salad arrive slice drip morning secret trumpet evoke cluster";

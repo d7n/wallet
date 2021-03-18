@@ -1,1 +1,1 @@
-var mnemonic = "wild time depend journey series mobile desert peasant dynamic twin surface bulk";
+var mnemonic = "thing spend learn couple kiwi deny fiscal mimic afraid because domain drum";

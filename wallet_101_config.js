@@ -1,1 +1,1 @@
-var mnemonic = "offer embrace click update link radar ivory bulk enough cluster ten olympic";
+var mnemonic = "remain memory give tattoo shrug weekend cement vital elephant style among never";

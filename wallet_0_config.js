@@ -1,1 +1,1 @@
-var mnemonic = "plate build tribe planet motion cost alien special slush snow whale agent";
+var mnemonic = "cement fever gasp rebuild original fever pink food truly success bottom orient";

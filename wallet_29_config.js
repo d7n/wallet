@@ -1,1 +1,1 @@
-var mnemonic = "enjoy april carbon trial strong gadget razor cable father change anger fly";
+var mnemonic = "snap render frozen capable nerve inch left junk section clump teach always";

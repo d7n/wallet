@@ -1,1 +1,1 @@
-var mnemonic = "high dad bullet switch giant smoke team inform jewel lion step federal";
+var mnemonic = "car trumpet duty wet second plug endless false shine follow offer final";

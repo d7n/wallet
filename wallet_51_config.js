@@ -1,1 +1,1 @@
-var mnemonic = "collect crazy climb salon suspect ocean angle mouse raven planet purpose curtain";
+var mnemonic = "sand denial pride umbrella fly three virus will exchange citizen radar behave";

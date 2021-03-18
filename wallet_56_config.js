@@ -1,1 +1,1 @@
-var mnemonic = "machine large flavor dismiss hello bulk harbor long denial sorry siren humble";
+var mnemonic = "meadow follow asthma canvas amazing giant trim usual disease follow arrive you";

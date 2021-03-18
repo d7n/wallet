@@ -1,1 +1,1 @@
-var mnemonic = "turn banner balance tip spirit awesome rack hair door quick faint deal";
+var mnemonic = "buddy deny agree forward narrow proud balance crumble wine program success chicken";

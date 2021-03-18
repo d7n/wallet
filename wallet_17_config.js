@@ -1,1 +1,1 @@
-var mnemonic = "smile stool jazz copy chuckle plate person guide derive lemon regret kid";
+var mnemonic = "fuel height book double success practice rely face volcano predict dog siege";

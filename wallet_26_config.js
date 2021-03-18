@@ -1,1 +1,1 @@
-var mnemonic = "grid weather assist detect worry water torch hedgehog oppose light link pledge";
+var mnemonic = "damp wish fancy perfect faith witness monster eagle vacuum resemble mix tribe";

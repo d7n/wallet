@@ -1,1 +1,1 @@
-var mnemonic = "cancel gun heavy view youth soul attack balcony three news program domain";
+var mnemonic = "print isolate marine burden upgrade property buddy mom glove grocery huge civil";

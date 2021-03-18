@@ -1,1 +1,1 @@
-var mnemonic = "joke auction horror modify another sight suggest myth afford mobile train become";
+var mnemonic = "aisle detect column fury carbon inflict clown multiply toddler celery nature fantasy";

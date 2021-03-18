@@ -1,1 +1,1 @@
-var mnemonic = "blade when figure item dutch digital orange picnic best metal tennis ozone";
+var mnemonic = "category economy bone educate board chef program evoke kiwi skin recipe method";

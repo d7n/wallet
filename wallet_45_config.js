@@ -1,1 +1,1 @@
-var mnemonic = "rather indoor walk company afraid radar slight dismiss relax ladder ivory drama";
+var mnemonic = "electric tennis dish agent skill claw run kite great end unknown tuna";

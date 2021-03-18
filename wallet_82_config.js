@@ -1,1 +1,1 @@
-var mnemonic = "kiwi pledge gadget box emerge garden myth fiber quote blood dish dynamic";
+var mnemonic = "winter victory company use okay symbol vibrant add chaos medal robust jelly";

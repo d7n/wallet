@@ -1,1 +1,1 @@
-var mnemonic = "disorder apology chuckle horse slow immense cliff salad cover fatal general tray";
+var mnemonic = "rocket equip fame oyster thumb common exchange blade suspect sick second bundle";

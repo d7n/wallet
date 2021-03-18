@@ -1,1 +1,1 @@
-var mnemonic = "bamboo couple west light crunch note ice possible alpha mansion trumpet baby";
+var mnemonic = "august hotel ribbon link door piano oil flavor device citizen purchase siren";

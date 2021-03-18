@@ -1,1 +1,1 @@
-var mnemonic = "spell sea topic april fabric script mask swift business size coyote together";
+var mnemonic = "skirt tomorrow issue wash ordinary purse shift moral economy supply addict advice";

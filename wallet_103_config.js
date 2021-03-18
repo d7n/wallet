@@ -1,1 +1,1 @@
-var mnemonic = "true symbol typical abandon second stem board economy ball bright equip enact";
+var mnemonic = "ten endless churn sword brick lens trim file glance salt elite aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "prison right wagon suggest ready grab must habit plate gap live album";
+var mnemonic = "absent enroll galaxy remind chronic slush shrug prepare uphold fish curtain recycle";

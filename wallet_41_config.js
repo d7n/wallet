@@ -1,1 +1,1 @@
-var mnemonic = "please smart time ticket chalk steak tuition portion leave village gather foot";
+var mnemonic = "spin cotton add fold mango celery gallery slogan suit have unit demise";

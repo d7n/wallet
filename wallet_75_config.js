@@ -1,1 +1,1 @@
-var mnemonic = "fabric husband enter screen twenty timber genre mushroom age climb flame lumber";
+var mnemonic = "ensure want truly harbor shoulder unusual correct chimney flavor hockey theme bulb";

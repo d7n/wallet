@@ -1,1 +1,1 @@
-var mnemonic = "champion work top tonight draft glare rent argue bracket text family embody";
+var mnemonic = "peanut exile clean short junior security present miss shield surprise inhale health";

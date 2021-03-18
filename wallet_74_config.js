@@ -1,1 +1,1 @@
-var mnemonic = "rebel humor climb ripple name outer else relax fever lonely shoe mimic";
+var mnemonic = "code chunk street scare crawl fiction banner bonus cart volume illness arctic";

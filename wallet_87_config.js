@@ -1,1 +1,1 @@
-var mnemonic = "rotate patient mule angry year iron slender destroy reason prefer library oak";
+var mnemonic = "earth abstract magic collect subject rough throw update giggle daring media poverty";

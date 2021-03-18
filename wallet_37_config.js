@@ -1,1 +1,1 @@
-var mnemonic = "certain pottery behind unfold rule runway buzz assume shiver enough dutch error";
+var mnemonic = "horse flame early illness depth reject impose garden lottery animal solid sing";

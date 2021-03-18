@@ -1,1 +1,1 @@
-var mnemonic = "sadness stairs purpose mad home knife asset crouch menu craft action alter";
+var mnemonic = "fuel cattle rich tower trophy inner race twelve oval plate often kingdom";

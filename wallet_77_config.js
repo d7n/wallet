@@ -1,1 +1,1 @@
-var mnemonic = "chase call ice once fiction volume renew gentle green mule impulse prize";
+var mnemonic = "sea hub dwarf cinnamon nest asset unlock useful debris scrap close perfect";
