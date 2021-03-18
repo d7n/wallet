@@ -1,1 +1,1 @@
-var mnemonic = "trash casino bacon fiber smile flag crunch fury fame despair kid prize";
+var mnemonic = "group trophy party swim arctic mean kick smoke embrace believe jar season";

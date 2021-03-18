@@ -1,1 +1,1 @@
-var mnemonic = "vapor thumb suffer holiday ozone illness royal lock hollow raise buffalo tongue";
+var mnemonic = "able pill ginger retire oven film cinnamon adult jar aerobic fuel intact";

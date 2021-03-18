@@ -1,1 +1,1 @@
-var mnemonic = "wedding marine you eight inspire rude steel aisle recipe symbol oil own";
+var mnemonic = "bread ship report humor castle salon cruel ceiling injury point check float";

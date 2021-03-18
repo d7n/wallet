@@ -1,1 +1,1 @@
-var mnemonic = "wish grief attitude parent hollow slab swim crater lens satoshi inform fragile";
+var mnemonic = "virtual tuna broom absurd seed battle amount happy short old idea edit";

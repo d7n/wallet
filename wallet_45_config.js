@@ -1,1 +1,1 @@
-var mnemonic = "autumn copper notice install width join rifle auction plunge wait kit fault";
+var mnemonic = "position lizard lobster swing wheel airport spread radio wave rib duty involve";

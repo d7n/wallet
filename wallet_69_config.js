@@ -1,1 +1,1 @@
-var mnemonic = "syrup oven zone spin afford gather sign fly magnet tube absurd nature";
+var mnemonic = "enter furnace round law cream frequent change ensure front time sell stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent forward job small cruise super jewel cool robot meadow clump spike";
+var mnemonic = "olive anger force misery dentist box expand major employ dune pool armed";

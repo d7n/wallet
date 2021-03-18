@@ -1,1 +1,1 @@
-var mnemonic = "wrestle entry huge absorb country melody pen corn blanket bag pulp floor";
+var mnemonic = "fiscal attend purpose grape twelve video length survey smoke conduct burger level";

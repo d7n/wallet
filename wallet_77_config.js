@@ -1,1 +1,1 @@
-var mnemonic = "depend clever also tiny merge wonder nut anxiety stereo explain age order";
+var mnemonic = "rural parent horse bid genre summer topple shy tone truly breeze wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital typical modify mimic gas join shaft panda daughter asthma situate throw";
+var mnemonic = "sand spare victory father wrong coil issue detail glass sail same that";

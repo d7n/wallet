@@ -1,1 +1,1 @@
-var mnemonic = "when slim chaos become busy into zero carpet matrix later chief hole";
+var mnemonic = "blossom jelly wreck duty camera fragile earn turn reason morning garage capable";

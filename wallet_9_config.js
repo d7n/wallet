@@ -1,1 +1,1 @@
-var mnemonic = "diet soul coach figure airport sleep noble apology celery inject cost venue";
+var mnemonic = "rain earn hurdle solid detect damage over social soft music inherit inflict";

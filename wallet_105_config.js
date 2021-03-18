@@ -1,1 +1,1 @@
-var mnemonic = "question benefit meadow pilot mutual erosion sign copy top raccoon casino anger";
+var mnemonic = "security enemy wire fragile plunge source cotton expire insane leg bamboo fatal";

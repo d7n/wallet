@@ -1,1 +1,1 @@
-var mnemonic = "rely divide holiday require galaxy point stadium select chalk increase universe silk";
+var mnemonic = "tower laptop praise blast connect wish suspect ill wait prefer chunk faculty";

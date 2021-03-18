@@ -1,1 +1,1 @@
-var mnemonic = "arrive infant youth dash payment economy thumb long divide outer naive between";
+var mnemonic = "okay endorse virtual allow garbage estate comic dwarf powder wall catch leave";

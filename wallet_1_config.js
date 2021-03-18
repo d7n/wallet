@@ -1,1 +1,1 @@
-var mnemonic = "caught fancy loyal gesture wheel mirror wish erode emerge candy plate you";
+var mnemonic = "wheel upon then decrease jealous wealth glide nation surround bonus mango pride";

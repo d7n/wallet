@@ -1,1 +1,1 @@
-var mnemonic = "seat elegant around sword very ribbon magnet ten drift solar gold box";
+var mnemonic = "stumble meadow divide spend solution scrub cabin junk muffin often accident fiber";

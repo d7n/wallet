@@ -1,1 +1,1 @@
-var mnemonic = "segment marine myth quality harsh lesson cat cool true hungry doll salt";
+var mnemonic = "worth avocado slide color cabin spatial recall mad edit tank connect reason";

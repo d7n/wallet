@@ -1,1 +1,1 @@
-var mnemonic = "silk slim stairs border cereal tunnel riot cereal swing tent measure cat";
+var mnemonic = "pigeon exit certain save lumber blouse lounge emotion family afraid clarify romance";

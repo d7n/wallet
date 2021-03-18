@@ -1,1 +1,1 @@
-var mnemonic = "goose yard judge body mail virtual general mixed agree loan possible industry";
+var mnemonic = "naive either stock require kid quality bar worth dune upon drive series";

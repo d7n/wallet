@@ -1,1 +1,1 @@
-var mnemonic = "moment document exit thrive pass evoke advance canyon fatal orange grape cousin";
+var mnemonic = "hole silk lecture space spread siege please humor fly column weasel act";

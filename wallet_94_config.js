@@ -1,1 +1,1 @@
-var mnemonic = "draw awful fuel neglect knee scorpion sea mechanic iron drama bullet legend";
+var mnemonic = "found flip season comfort intact knee story need purity drama pioneer estate";

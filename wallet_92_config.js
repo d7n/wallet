@@ -1,1 +1,1 @@
-var mnemonic = "act fitness vivid guilt fiber assist end syrup floor pond pattern duck";
+var mnemonic = "nuclear future run spawn estate entry bike smooth identify program flat hammer";

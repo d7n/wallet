@@ -1,1 +1,1 @@
-var mnemonic = "power stable action crisp amused crew task burst swing grid author huge";
+var mnemonic = "royal miss word ahead save seat lucky achieve laptop truck valve faint";

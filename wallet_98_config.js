@@ -1,1 +1,1 @@
-var mnemonic = "gesture fatal merry flush estate ordinary much finger raccoon hidden reopen gadget";
+var mnemonic = "knock car try dinosaur clay loan milk barely swing note road castle";

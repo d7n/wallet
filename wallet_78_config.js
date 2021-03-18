@@ -1,1 +1,1 @@
-var mnemonic = "talent ankle layer injury trap run immense faculty pulse coil slight charge";
+var mnemonic = "sustain awful basket segment gaze eternal also ticket identify debate panic strike";

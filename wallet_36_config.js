@@ -1,1 +1,1 @@
-var mnemonic = "source action moment banner there enough peasant gesture utility pencil upgrade gym";
+var mnemonic = "electric rigid inquiry violin cabin double sauce truly explain print settle cost";

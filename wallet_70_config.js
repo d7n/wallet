@@ -1,1 +1,1 @@
-var mnemonic = "afford panel use split march fall punch bachelor lazy crumble garlic raccoon";
+var mnemonic = "label core source kitten rural final tuition discover again travel issue trick";

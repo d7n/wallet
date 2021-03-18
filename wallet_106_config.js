@@ -1,1 +1,1 @@
-var mnemonic = "face spring retreat shaft risk shrimp rural control twenty unable viable employ";
+var mnemonic = "law crouch globe swear offer ripple swarm dress bind sea father luggage";

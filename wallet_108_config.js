@@ -1,1 +1,1 @@
-var mnemonic = "property quarter insect patient shine wage donate ignore labor habit payment trophy";
+var mnemonic = "other extend crime carry rare helmet frozen place kit aim weird upper";

@@ -1,1 +1,1 @@
-var mnemonic = "letter window smooth fine object educate interest buffalo cool wheat opinion violin";
+var mnemonic = "diamond wrestle step ensure cereal merit pride oil segment fatal loyal flip";

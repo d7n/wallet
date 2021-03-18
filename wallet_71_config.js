@@ -1,1 +1,1 @@
-var mnemonic = "prosper stuff anxiety outdoor owner air wrap produce guard firm jazz dress";
+var mnemonic = "coil stage leg shadow false guitar kick invest egg hamster trash retire";

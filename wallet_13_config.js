@@ -1,1 +1,1 @@
-var mnemonic = "talent depend half main novel balcony sudden doll view negative fox whisper";
+var mnemonic = "foam satisfy mother crew wild vacuum mirror kangaroo minor side nut jelly";

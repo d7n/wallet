@@ -1,1 +1,1 @@
-var mnemonic = "never decrease void ahead address humor install garlic chuckle because dwarf gesture";
+var mnemonic = "crop renew wash tribe pencil rally moon already clock skate news drama";

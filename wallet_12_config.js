@@ -1,1 +1,1 @@
-var mnemonic = "traffic comic favorite crystal shine stamp dolphin patrol merit angry spin fit";
+var mnemonic = "cradle easy scheme buddy step morning guess glory lunch whale aspect enhance";

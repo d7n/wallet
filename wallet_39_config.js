@@ -1,1 +1,1 @@
-var mnemonic = "enhance bamboo device text mom course episode lend hero prefer extend drive";
+var mnemonic = "wrap book flat salon distance good mail elbow museum lazy gadget bridge";

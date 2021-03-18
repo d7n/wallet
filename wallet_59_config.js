@@ -1,1 +1,1 @@
-var mnemonic = "picnic enrich adjust pet pipe reason wreck rebuild diamond marble cabbage element";
+var mnemonic = "museum shed metal orbit capital position easy easy melody phrase excite father";

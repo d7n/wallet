@@ -1,1 +1,1 @@
-var mnemonic = "merry labor nurse analyst run alley child vocal grunt brown afford piece";
+var mnemonic = "chalk middle inflict smoke ketchup snack meat shock alley husband federal trim";

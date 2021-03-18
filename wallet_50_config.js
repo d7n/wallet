@@ -1,1 +1,1 @@
-var mnemonic = "save divide excite wage wrong swift divert grid current autumn debris resemble";
+var mnemonic = "strategy general canoe curtain swap festival climb humble exotic blue adapt toy";

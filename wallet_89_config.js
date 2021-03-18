@@ -1,1 +1,1 @@
-var mnemonic = "debate diary brother false tenant way session file sock airport require vehicle";
+var mnemonic = "aware admit mosquito strike immense unknown path clerk job season used excite";

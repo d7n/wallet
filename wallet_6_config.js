@@ -1,1 +1,1 @@
-var mnemonic = "hire fiscal push still cargo animal grunt text segment install leopard disease";
+var mnemonic = "expect come mesh enrich right cage doll spell dinosaur rocket wise barely";

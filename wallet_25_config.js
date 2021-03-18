@@ -1,1 +1,1 @@
-var mnemonic = "link worth hole physical sand portion pride slam liquid soap produce bread";
+var mnemonic = "romance vicious present benefit power iron warrior cigar inject usage scene update";

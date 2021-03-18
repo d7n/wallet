@@ -1,1 +1,1 @@
-var mnemonic = "ball jaguar canvas metal twin album safe sure area rally tomorrow flat";
+var mnemonic = "device deny cruel garlic evoke extend loop focus cage eagle cry million";

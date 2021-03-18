@@ -1,1 +1,1 @@
-var mnemonic = "cigar nothing surround afraid oblige gift banana innocent upon rice axis steak";
+var mnemonic = "soul bullet sleep holiday era rich equip equal priority edit arrange fatal";

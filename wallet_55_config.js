@@ -1,1 +1,1 @@
-var mnemonic = "liquid ensure aim outdoor tragic spoil together fitness sugar lake biology length";
+var mnemonic = "mix dinosaur stumble output disagree kingdom idle garbage lawn elevator any school";

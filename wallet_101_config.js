@@ -1,1 +1,1 @@
-var mnemonic = "limb where speak joke wasp rebuild garlic pond super solution dinner siege";
+var mnemonic = "blue farm disease feel aim staff find clock electric exist clump muffin";

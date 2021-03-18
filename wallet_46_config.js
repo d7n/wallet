@@ -1,1 +1,1 @@
-var mnemonic = "either empty actress chuckle spy cement beach hand insect embrace quantum donor";
+var mnemonic = "fit any connect extend position equal echo eternal potato clump glory clever";

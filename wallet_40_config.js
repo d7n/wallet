@@ -1,1 +1,1 @@
-var mnemonic = "frog impulse base liberty castle affair remember ancient fragile bachelor enforce room";
+var mnemonic = "awful century urge fuel flock income extra equip upset mean betray clown";

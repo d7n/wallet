@@ -1,1 +1,1 @@
-var mnemonic = "wish burden key sweet reason insane style change cushion item novel worth";
+var mnemonic = "situate length choose like ribbon alley plug grant mobile world mother invite";

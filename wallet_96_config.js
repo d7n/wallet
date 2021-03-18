@@ -1,1 +1,1 @@
-var mnemonic = "fall lizard speak deal tomato typical series invite ridge symptom endorse sheriff";
+var mnemonic = "song gravity rigid neglect diesel fix elder deliver matrix mouse dawn express";

@@ -1,1 +1,1 @@
-var mnemonic = "unable pause buddy random squeeze payment burst advice family soap gentle engage";
+var mnemonic = "work wheat economy clump outer say pool limit squeeze obey distance ticket";

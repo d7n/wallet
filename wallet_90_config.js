@@ -1,1 +1,1 @@
-var mnemonic = "purity that draw picture repair tomorrow foil crack audit among job wear";
+var mnemonic = "copper meat room fold vivid stay sugar obey rule pride caution prefer";

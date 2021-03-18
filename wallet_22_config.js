@@ -1,1 +1,1 @@
-var mnemonic = "live page bullet reduce rally label option quit quantum move suit idle";
+var mnemonic = "damage horn obey used awful grape demand kite master license blind cave";

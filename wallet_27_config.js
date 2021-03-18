@@ -1,1 +1,1 @@
-var mnemonic = "gym broom name tackle crush leg carry input upset virus sound hat";
+var mnemonic = "jungle nurse cluster wheat coach nation wise better fabric shop orchard dirt";

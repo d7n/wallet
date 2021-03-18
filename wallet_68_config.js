@@ -1,1 +1,1 @@
-var mnemonic = "border trophy cycle biology drink confirm arrive garage egg open mandate display";
+var mnemonic = "summer paper amused promote embody slot meadow sheriff delay order devote section";

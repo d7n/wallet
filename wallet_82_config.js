@@ -1,1 +1,1 @@
-var mnemonic = "one fan elbow garbage way equip worth town kit cushion satoshi blanket";
+var mnemonic = "crucial engage group fly deer recipe bone sibling base addict gossip pretty";

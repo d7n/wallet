@@ -1,1 +1,1 @@
-var mnemonic = "voyage jar settle devote insect hurdle gold monkey chuckle liar amateur biology";
+var mnemonic = "color speak steel bacon remember trade blush wheel afraid fall sister remove";

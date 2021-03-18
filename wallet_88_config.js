@@ -1,1 +1,1 @@
-var mnemonic = "habit toward silly filter assist rhythm damage brain canvas dumb vanish woman";
+var mnemonic = "custom into turtle minimum possible village measure morning situate awake where about";

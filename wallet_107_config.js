@@ -1,1 +1,1 @@
-var mnemonic = "mixture more post merge post draw shuffle soul ask time canyon bench";
+var mnemonic = "faculty ill deny memory price fog trip bleak someone under another pass";

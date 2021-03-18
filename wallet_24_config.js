@@ -1,1 +1,1 @@
-var mnemonic = "peace forum join audit accident hint bring agent vast journey exist excess";
+var mnemonic = "sleep garden accuse position drift thunder pottery grid joke require place balcony";

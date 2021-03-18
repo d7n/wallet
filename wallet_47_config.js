@@ -1,1 +1,1 @@
-var mnemonic = "question range sand boil enemy sound lazy combine absurd spoil middle detail";
+var mnemonic = "manual fine spare degree suggest visa age swim defy corn vessel unlock";

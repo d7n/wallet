@@ -1,1 +1,1 @@
-var mnemonic = "spice actor barrel elegant burden tuition evidence sauce toast cross school friend";
+var mnemonic = "picture dash liberty quantum silent average sting light else truly exotic pink";

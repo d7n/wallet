@@ -1,1 +1,1 @@
-var mnemonic = "capital crush found pen liar ordinary master belt pizza need bracket obtain";
+var mnemonic = "copy couple balance kiss air energy daughter powder ridge reason observe journey";

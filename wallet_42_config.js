@@ -1,1 +1,1 @@
-var mnemonic = "sample slight salon hurdle burden bless charge mesh myth legal repeat cloth";
+var mnemonic = "speed label improve clutch fault analyst misery offer area fortune swim derive";

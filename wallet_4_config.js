@@ -1,1 +1,1 @@
-var mnemonic = "wish great sadness ethics ugly genre lizard furnace hedgehog doll nuclear develop";
+var mnemonic = "any laptop ball hockey garment inform army six exhibit submit shell option";

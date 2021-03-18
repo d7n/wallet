@@ -1,1 +1,1 @@
-var mnemonic = "defense conduct board vibrant rice enact stadium poverty loyal attitude dilemma tag";
+var mnemonic = "tobacco eye sock radar alter level solve long pull weird scatter claim";

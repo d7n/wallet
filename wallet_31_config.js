@@ -1,1 +1,1 @@
-var mnemonic = "axis daughter rigid expect shell nurse silly steak rib subject people left";
+var mnemonic = "survey strong solid prevent slow topple jaguar antenna wine among almost message";

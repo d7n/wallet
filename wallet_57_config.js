@@ -1,1 +1,1 @@
-var mnemonic = "patient noble type people card sheriff green derive awake razor shy enable";
+var mnemonic = "verify junk success industry yard render embrace habit brain panic damage bracket";

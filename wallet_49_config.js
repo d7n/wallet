@@ -1,1 +1,1 @@
-var mnemonic = "wide tuition under ladder orbit video bind echo absurd problem tape sibling";
+var mnemonic = "endorse miracle bullet slide foot slab banner equip metal farm where adult";

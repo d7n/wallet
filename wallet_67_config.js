@@ -1,1 +1,1 @@
-var mnemonic = "lake raven cheese immune obtain eagle budget team tackle fog gown wrap";
+var mnemonic = "word crouch brisk grief adapt jacket visit reduce shine oil coconut random";

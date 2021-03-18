@@ -1,1 +1,1 @@
-var mnemonic = "hill hamster similar flock potato alpha explain island machine task toss long";
+var mnemonic = "path popular jeans hurt dial film miss absorb spare symptom once security";

@@ -1,1 +1,1 @@
-var mnemonic = "stand road guitar exist shop bid pelican infant dentist shell clap diagram";
+var mnemonic = "engage between dismiss shield trouble army then weird defense century border south";

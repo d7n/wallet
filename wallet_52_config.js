@@ -1,1 +1,1 @@
-var mnemonic = "vicious video legal marine forget broom actress perfect link boil legal note";
+var mnemonic = "convince fluid refuse narrow possible unit caught manual oil know minute mesh";

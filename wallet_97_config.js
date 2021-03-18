@@ -1,1 +1,1 @@
-var mnemonic = "vintage antenna correct mimic crisp stem south match negative patrol ecology meadow";
+var mnemonic = "outside habit series soul swap combine learn kitten lazy defy assume vicious";

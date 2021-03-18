@@ -1,1 +1,1 @@
-var mnemonic = "float attend area twist gown ghost globe enlist leisure fragile vague tongue";
+var mnemonic = "zebra glimpse panel caution gorilla gauge birth melody void raise smooth crew";

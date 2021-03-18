@@ -1,1 +1,1 @@
-var mnemonic = "direct mass grow grunt nerve rebuild neutral behind swamp chef inhale prosper";
+var mnemonic = "record permit forward text way clarify group toward tornado rose belt drift";

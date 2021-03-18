@@ -1,1 +1,1 @@
-var mnemonic = "inmate easily angry history grant puppy panda snake host toward price surge";
+var mnemonic = "surge zebra rubber purchase chat acid garage afford pencil peace enough gravity";

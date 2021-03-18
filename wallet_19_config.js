@@ -1,1 +1,1 @@
-var mnemonic = "original elephant boy taste cloud fetch general magnet relief oak secret client";
+var mnemonic = "female zone good key train family scrub dwarf arctic online phone average";

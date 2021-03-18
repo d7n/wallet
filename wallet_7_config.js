@@ -1,1 +1,1 @@
-var mnemonic = "client wage wet flight identify search humble before wait daughter inflict roast";
+var mnemonic = "blanket father expand ginger better spell alpha banner cricket primary keen reason";

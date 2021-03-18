@@ -1,1 +1,1 @@
-var mnemonic = "this vapor forum pact bulk interest crawl reject empower gadget pioneer blue";
+var mnemonic = "infant easy patch lunch scale attack note clip address timber video similar";

@@ -1,1 +1,1 @@
-var mnemonic = "clay maze library bullet plunge win cruel isolate live solution hospital wire";
+var mnemonic = "enroll learn potato deposit also city object climb ancient tide play tumble";

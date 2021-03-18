@@ -1,1 +1,1 @@
-var mnemonic = "helmet sell sphere puzzle modify helmet gasp almost wire leisure detect satoshi";
+var mnemonic = "ancient rocket carry minor lake august napkin flight proof gift field wine";

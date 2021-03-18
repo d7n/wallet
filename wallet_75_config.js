@@ -1,1 +1,1 @@
-var mnemonic = "wisdom spend maximum canyon throw olive sudden giraffe chef symbol soul repeat";
+var mnemonic = "broken attract waste laugh evoke loud blame caught ketchup nerve demise kitchen";

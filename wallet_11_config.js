@@ -1,1 +1,1 @@
-var mnemonic = "pottery rabbit best keen chronic elevator improve window ethics step idle aunt";
+var mnemonic = "borrow diamond winner salt song used pass siege grit wash tortoise faith";

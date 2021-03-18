@@ -1,1 +1,1 @@
-var mnemonic = "bring gown profit junior adapt stable thought proud give audit mask sister";
+var mnemonic = "diagram defy captain trick regret wine envelope antenna predict glad pilot become";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse find funny broken cheese hospital embody write puzzle gadget milk smooth";
+var mnemonic = "shine meat mass arrive pledge broccoli urge tenant roast group output change";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard crystal spot humor talk gesture ball right stuff regular type close";
+var mnemonic = "cluster warm scissors plastic pull double patient scare speed silent sport diary";

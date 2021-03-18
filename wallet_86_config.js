@@ -1,1 +1,1 @@
-var mnemonic = "finish liar book blush amateur yellow private grain cube breeze huge banana";
+var mnemonic = "wild pulp pave toilet spoon busy jewel embody banana panther bottom sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence eagle entry brief hill piano trigger genuine cool clean soccer defense";
+var mnemonic = "jeans neglect hip manage abuse cheap vessel luggage around learn asset child";
