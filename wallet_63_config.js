@@ -1,1 +1,1 @@
-var mnemonic = "kind project wide remind chunk source album organ mirror citizen steel glue";
+var mnemonic = "reduce wise news renew harbor curve fashion pelican height worth tenant arrange";

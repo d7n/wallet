@@ -1,1 +1,1 @@
-var mnemonic = "file depart royal affair prosper found burger mechanic various today danger leg";
+var mnemonic = "sustain innocent clap category success armor blush uncle phrase range battle federal";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt spirit robot faint beyond enter wall oak joy jungle swarm error";
+var mnemonic = "air pride subway join stem fox giant dial broken business seminar ten";

@@ -1,1 +1,1 @@
-var mnemonic = "business eyebrow put gas island dance churn such wink caught dwarf elegant";
+var mnemonic = "above hard door success pupil flush quote sketch margin lens bubble segment";

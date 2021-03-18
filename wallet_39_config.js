@@ -1,1 +1,1 @@
-var mnemonic = "broken write raise picture assist door envelope design genre neither pretty private";
+var mnemonic = "attract lake eyebrow print ethics fall hollow walnut unlock answer sunset shrimp";

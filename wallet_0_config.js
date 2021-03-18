@@ -1,1 +1,1 @@
-var mnemonic = "vivid brick erosion organ average decade occur busy unable vault step steak";
+var mnemonic = "clap network debris vicious pool cable rude then ribbon robot track mix";

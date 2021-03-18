@@ -1,1 +1,1 @@
-var mnemonic = "adapt honey machine talk outer people tongue kiss citizen review similar evil";
+var mnemonic = "favorite age garment dust frown black apple early pond orient curve divert";

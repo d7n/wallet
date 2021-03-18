@@ -1,1 +1,1 @@
-var mnemonic = "enemy quiz couch cousin hurt glimpse cook peanut army mixed bicycle raise";
+var mnemonic = "lucky cup gloom diesel argue crunch situate wonder laugh famous match cup";

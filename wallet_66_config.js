@@ -1,1 +1,1 @@
-var mnemonic = "bless wine comfort glory warfare damage aspect sand juice sunset rescue lounge";
+var mnemonic = "misery forest bulk release climb recall squirrel skill fuel spin joy modify";

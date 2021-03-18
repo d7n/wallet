@@ -1,1 +1,1 @@
-var mnemonic = "follow defense gate flush obvious shallow weekend boost absurd clay unhappy blind";
+var mnemonic = "vicious moon bridge predict join exclude mutual perfect effort cargo extra resist";

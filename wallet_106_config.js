@@ -1,1 +1,1 @@
-var mnemonic = "more pizza prosper access virus huge dose aunt boss random parade say";
+var mnemonic = "useful fluid recycle lava chest increase fame alone lawsuit toward first raise";

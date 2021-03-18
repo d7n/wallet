@@ -1,1 +1,1 @@
-var mnemonic = "image file glow canal charge find trust current all nurse obey scorpion";
+var mnemonic = "address page black glad bag elbow speed nature onion cereal clarify fatigue";

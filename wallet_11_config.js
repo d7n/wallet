@@ -1,1 +1,1 @@
-var mnemonic = "aware more arrange chat prefer practice valid liar enlist tuition whale rug";
+var mnemonic = "normal depth digital parrot appear reduce bone entry carpet snake sound enter";

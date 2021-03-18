@@ -1,1 +1,1 @@
-var mnemonic = "ready differ hungry timber basic friend mother female ridge casino reopen reform";
+var mnemonic = "hole boil sugar nasty metal bulk gain save until pig power three";

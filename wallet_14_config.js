@@ -1,1 +1,1 @@
-var mnemonic = "outside cover shed salmon awful impose enough beyond grief trophy dad minor";
+var mnemonic = "nose only final raise foil memory wide island trash alone margin bottom";

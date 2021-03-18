@@ -1,1 +1,1 @@
-var mnemonic = "barely thumb mirror must expand decide scatter walk alone empower zero elite";
+var mnemonic = "ship blue ginger cherry scare crater critic sunset proud exit sentence mouse";

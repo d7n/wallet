@@ -1,1 +1,1 @@
-var mnemonic = "detail pilot tunnel scout cloth demand lesson junk industry group hobby useless";
+var mnemonic = "business stuff chronic gravity month system board opera check they profit school";

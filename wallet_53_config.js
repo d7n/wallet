@@ -1,1 +1,1 @@
-var mnemonic = "harsh circle win foster solve seven bread trigger awake virtual rail settle";
+var mnemonic = "random milk flat laptop grain rally renew afraid bronze weather gather few";

@@ -1,1 +1,1 @@
-var mnemonic = "frog rival story devote inherit bottom doctor spice master cinnamon snack faint";
+var mnemonic = "capable run energy letter vibrant energy lunar acoustic zoo write final hunt";

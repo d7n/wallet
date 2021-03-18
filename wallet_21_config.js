@@ -1,1 +1,1 @@
-var mnemonic = "icon general faint enough wreck ill copy twist eye act huge ticket";
+var mnemonic = "stable later turkey cigar gain force slush gun crack unable author kidney";

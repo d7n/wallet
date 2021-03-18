@@ -1,1 +1,1 @@
-var mnemonic = "magic hand earth before praise expand title prevent demand suffer salute loan";
+var mnemonic = "summer beauty modify initial leader sauce project name ostrich come exotic three";

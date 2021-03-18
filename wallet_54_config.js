@@ -1,1 +1,1 @@
-var mnemonic = "wealth two pigeon sound trip dolphin purchase prize combine fresh rubber meadow";
+var mnemonic = "album wrap flock cross private quit south ball fiscal radio member hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "siren color shine chunk friend soap fit moral drift balcony festival doctor";
+var mnemonic = "cigar opinion fiber expect runway success unfair twenty liquid bullet slim duty";

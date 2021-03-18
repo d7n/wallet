@@ -1,1 +1,1 @@
-var mnemonic = "spatial inflict wet egg satoshi only pottery sad dentist robot have empty";
+var mnemonic = "turn pony sponsor oxygen tiny noodle verb boy music collect hand hope";

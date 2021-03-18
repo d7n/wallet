@@ -1,1 +1,1 @@
-var mnemonic = "kitchen chronic rigid goose direct salon kid public rally seat daughter useless";
+var mnemonic = "balcony state aerobic choice soccer enhance mobile tongue enjoy wheat country market";

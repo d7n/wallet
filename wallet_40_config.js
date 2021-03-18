@@ -1,1 +1,1 @@
-var mnemonic = "bleak write surge unusual abuse antenna panic lend comic picnic unlock goddess";
+var mnemonic = "combine gravity life ranch photo face final setup romance neutral damage reunion";

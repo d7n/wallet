@@ -1,1 +1,1 @@
-var mnemonic = "spatial demand unusual toddler fitness lizard pumpkin final attend taste onion adult";
+var mnemonic = "floor expose split hair fine describe trick regret spoon trick apple plate";

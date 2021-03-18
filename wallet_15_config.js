@@ -1,1 +1,1 @@
-var mnemonic = "valve pet swallow ship eternal make palace notice joy debate drive improve";
+var mnemonic = "banner segment layer pepper lend build teach panther ill squeeze damp region";

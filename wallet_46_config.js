@@ -1,1 +1,1 @@
-var mnemonic = "pitch old nose hint peace trust gaze bench solid sure seek vintage";
+var mnemonic = "wear danger breeze thank race motor ordinary pond screen hazard pride cover";

@@ -1,1 +1,1 @@
-var mnemonic = "engage cram foot modify return scatter warm symbol audit photo fancy sentence";
+var mnemonic = "tooth result pioneer educate abuse buyer garment globe wheel nerve diesel model";

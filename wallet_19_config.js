@@ -1,1 +1,1 @@
-var mnemonic = "pudding later merit apple miracle scare away pause sorry about law sausage";
+var mnemonic = "grit daring rigid daughter eye orbit nest vivid puppy crush sting trophy";

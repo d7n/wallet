@@ -1,1 +1,1 @@
-var mnemonic = "brass tortoise hobby tool airport vote deputy fun apart author monitor pumpkin";
+var mnemonic = "truck turkey essence trigger attack ignore arch obscure hawk life mosquito kit";

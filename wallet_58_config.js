@@ -1,1 +1,1 @@
-var mnemonic = "true slogan dress ribbon panic oak twelve topple cute fury avoid student";
+var mnemonic = "crisp tackle shell surprise target cancel want disease lawsuit feel hospital utility";

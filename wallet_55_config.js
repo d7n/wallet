@@ -1,1 +1,1 @@
-var mnemonic = "thumb zone iron radar sword sausage differ saddle churn humor follow purchase";
+var mnemonic = "swamp episode agree view rack major firm december song blossom rate wine";

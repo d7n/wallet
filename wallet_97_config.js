@@ -1,1 +1,1 @@
-var mnemonic = "pupil sail story thunder relax coast window dilemma stereo basic tortoise river";
+var mnemonic = "total brick human useless author time tiny donkey use satisfy scare jelly";

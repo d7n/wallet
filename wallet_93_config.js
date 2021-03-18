@@ -1,1 +1,1 @@
-var mnemonic = "burger oxygen area grab parent snake armor carpet proof reduce student return";
+var mnemonic = "middle rent chicken birth address prevent oval accident nerve leaf art twelve";

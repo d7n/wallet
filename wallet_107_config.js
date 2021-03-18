@@ -1,1 +1,1 @@
-var mnemonic = "divert symbol across relief follow sister laptop thought lens window salt surge";
+var mnemonic = "reflect page carpet suffer chicken best purchase fall major endorse angry hold";

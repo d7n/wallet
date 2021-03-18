@@ -1,1 +1,1 @@
-var mnemonic = "ensure chimney copper nose bulb forget vast front quality bulb safe sudden";
+var mnemonic = "join planet journey razor topic entire notice public public thunder vague song";

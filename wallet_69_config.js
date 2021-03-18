@@ -1,1 +1,1 @@
-var mnemonic = "debris raw spy library aerobic pig luxury vote current prevent expect must";
+var mnemonic = "balcony other magnet logic negative moment cash secret burst original bird notable";

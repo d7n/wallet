@@ -1,1 +1,1 @@
-var mnemonic = "dynamic obey case repair poverty chronic endless shoot trigger poet planet inform";
+var mnemonic = "match claim mobile fit banana enforce cable neither wine script dawn will";

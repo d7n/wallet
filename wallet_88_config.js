@@ -1,1 +1,1 @@
-var mnemonic = "brief arm doctor case gallery wing salute trophy wink magic brush nice";
+var mnemonic = "junk pyramid acid action hunt pause guitar glare gloom skin allow ginger";

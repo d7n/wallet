@@ -1,1 +1,1 @@
-var mnemonic = "frequent matter climb push jacket front merit half riot route try under";
+var mnemonic = "steel steak property volume case possible art ranch clutch thunder bird essay";

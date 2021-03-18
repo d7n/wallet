@@ -1,1 +1,1 @@
-var mnemonic = "torch blind clutch wasp wife biology autumn rare pelican tourist since clap";
+var mnemonic = "banana wreck bamboo west fence lawsuit universe pencil pepper depth warfare almost";

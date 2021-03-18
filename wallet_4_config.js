@@ -1,1 +1,1 @@
-var mnemonic = "loyal tray shove swap reopen solid hidden gold borrow can boil sausage";
+var mnemonic = "refuse also exhibit base item enjoy loud expire reason clock hand pool";

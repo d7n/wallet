@@ -1,1 +1,1 @@
-var mnemonic = "more pink scene eye harbor lawsuit sort alpha turkey tank print dune";
+var mnemonic = "game debris hint erase radar axis adult burden office denial eternal crowd";

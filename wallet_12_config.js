@@ -1,1 +1,1 @@
-var mnemonic = "holiday debate later doll able skill rescue please sample door bitter immense";
+var mnemonic = "toy rally hotel food mention finish burger aware carbon flame romance nation";

@@ -1,1 +1,1 @@
-var mnemonic = "remain galaxy amount stage jump purse crawl cube charge burger secret december";
+var mnemonic = "captain tool seek horse stock almost domain pond cabin cliff embark human";

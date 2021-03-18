@@ -1,1 +1,1 @@
-var mnemonic = "snap bunker you unhappy ghost island brisk extend frog size detect pencil";
+var mnemonic = "thank join empower fly fiscal artist bitter kitten ancient used execute flash";

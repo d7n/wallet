@@ -1,1 +1,1 @@
-var mnemonic = "venue dutch tank thunder couch yard display brush apology slam visit word";
+var mnemonic = "chunk brick gather shoulder index usual payment grape visa know grunt october";

@@ -1,1 +1,1 @@
-var mnemonic = "have guilt negative vault gas brand sheriff warfare boost pair happy leaf";
+var mnemonic = "script ethics fire ask purity fence stuff flower typical six day donkey";

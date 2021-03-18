@@ -1,1 +1,1 @@
-var mnemonic = "congress fence youth stool smoke public tuition hunt small image honey wish";
+var mnemonic = "ecology cheap solve pen meadow dismiss rocket corn cotton purchase melt connect";

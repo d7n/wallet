@@ -1,1 +1,1 @@
-var mnemonic = "boy ski settle chimney lunar buzz toast merit paper problem axis surprise";
+var mnemonic = "insane parade rural dwarf ankle ramp fabric erupt net heart impulse follow";

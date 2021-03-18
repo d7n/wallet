@@ -1,1 +1,1 @@
-var mnemonic = "narrow useful seminar unlock view normal bread usual lunch silent rely mansion";
+var mnemonic = "group paddle fiction below square employ approve despair wet draft couch access";

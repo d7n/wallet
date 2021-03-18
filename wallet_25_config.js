@@ -1,1 +1,1 @@
-var mnemonic = "loop maid mirror home quit front guitar supreme step rail maze room";
+var mnemonic = "kitten crew tower chapter stuff effort leader have project glove hammer honey";

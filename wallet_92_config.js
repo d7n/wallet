@@ -1,1 +1,1 @@
-var mnemonic = "blouse regular outdoor cement next laundry bacon stage goose foster bracket play";
+var mnemonic = "warm across nation expose arch aerobic social course bunker crystal spoon first";

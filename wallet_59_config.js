@@ -1,1 +1,1 @@
-var mnemonic = "buffalo script wagon cruise patient step cube please sense you goddess pistol";
+var mnemonic = "bicycle gravity naive tuition bless ride aunt run dinosaur skate salmon enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "anger duty lock connect cause scare decline tornado blast artefact six host";
+var mnemonic = "legend brother plate front feature squeeze uphold swear office paper route clown";

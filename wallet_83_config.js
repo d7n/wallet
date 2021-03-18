@@ -1,1 +1,1 @@
-var mnemonic = "mountain pig skirt liberty blind main cricket merit travel liberty breeze hungry";
+var mnemonic = "denial unable cake amazing oblige cycle birth fitness decorate smart laugh dress";

@@ -1,1 +1,1 @@
-var mnemonic = "expect cliff possible together harvest crush west stove throw spoon chunk speak";
+var mnemonic = "guess enlist prosper erase lunch ritual foot humble gain trim hockey cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle jump govern iron lyrics promote culture field slab upon bright guilt";
+var mnemonic = "ritual amused source track peanut oblige rice hollow ladder taxi hood average";

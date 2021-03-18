@@ -1,1 +1,1 @@
-var mnemonic = "win tank direct destroy olive patrol broom silent ticket coyote diet marine";
+var mnemonic = "private rent rough charge marriage theory merit wink volume fault need pelican";

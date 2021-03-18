@@ -1,1 +1,1 @@
-var mnemonic = "document bachelor beach clerk slender basic feature age cat yard leopard purse";
+var mnemonic = "mountain abstract ahead bean shrug garlic loan correct mixed screen build cover";

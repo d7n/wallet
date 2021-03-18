@@ -1,1 +1,1 @@
-var mnemonic = "kitchen rather travel fantasy kit tonight dune oblige reject frog worth play";
+var mnemonic = "adjust start apology forum demand craft year rebel category blast intact chat";

@@ -1,1 +1,1 @@
-var mnemonic = "just cake celery afford mosquito benefit toilet pill year crop brisk erosion";
+var mnemonic = "mixture dry carry general address blush violin teach oval reform mobile kiss";

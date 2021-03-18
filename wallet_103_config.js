@@ -1,1 +1,1 @@
-var mnemonic = "before priority expand bench tube question abandon nose bone universe note twenty";
+var mnemonic = "advice mystery same large harsh expand return morning bind click attract minute";

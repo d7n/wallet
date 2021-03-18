@@ -1,1 +1,1 @@
-var mnemonic = "venture census endorse basic warm maximum hill undo aisle elbow permit cattle";
+var mnemonic = "memory fabric type shift cradle attract space material news keep buzz peanut";

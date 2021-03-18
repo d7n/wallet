@@ -1,1 +1,1 @@
-var mnemonic = "apart agent brief must lift arch short reflect acid other coffee wonder";
+var mnemonic = "real patch discover desert chest alcohol seminar cotton concert poem simple scissors";

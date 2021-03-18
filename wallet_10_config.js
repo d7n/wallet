@@ -1,1 +1,1 @@
-var mnemonic = "wedding velvet people wealth tragic machine obey demand arch risk blame day";
+var mnemonic = "lottery spell leader situate leisure ginger twenty search short despair police hold";

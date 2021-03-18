@@ -1,1 +1,1 @@
-var mnemonic = "man verb great mention fit battle salt lizard skull reunion visual stove";
+var mnemonic = "squirrel merry seven rely disease can object echo tenant danger raccoon vendor";

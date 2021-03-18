@@ -1,1 +1,1 @@
-var mnemonic = "brain aunt soul acquire guitar oppose manage planet uniform amazing female turn";
+var mnemonic = "nuclear blue lamp machine room patch capable cereal great dismiss sell learn";

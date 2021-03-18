@@ -1,1 +1,1 @@
-var mnemonic = "laundry unique flower release crime echo peanut orbit leisure educate merge top";
+var mnemonic = "baby suffer size sail believe mean crane debris column find below move";

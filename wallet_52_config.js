@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow robust diamond world gospel mass wink lady spider run tube surge";
+var mnemonic = "liar mixed awful crumble execute indoor dream exist danger diamond define kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "position photo slim street fantasy embark draw collect same inspire squirrel rely";
+var mnemonic = "rescue circle cancel remove excite bottom only wait cattle puzzle slam quality";

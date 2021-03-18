@@ -1,1 +1,1 @@
-var mnemonic = "pioneer any canyon album pepper describe leg cart fuel discover grow genuine";
+var mnemonic = "pulse jacket dance mechanic favorite science electric what giant animal dial unlock";

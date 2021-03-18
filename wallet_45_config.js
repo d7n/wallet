@@ -1,1 +1,1 @@
-var mnemonic = "above ill spoil crime define industry cat glow pride open birth oak";
+var mnemonic = "hockey useful shoot later capital unfold knock session swift trophy arctic crucial";

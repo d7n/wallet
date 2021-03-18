@@ -1,1 +1,1 @@
-var mnemonic = "repair return normal cloud limb famous into climb piano forward table deny";
+var mnemonic = "family burden bounce battle eager kitten bless champion inherit achieve pet gown";

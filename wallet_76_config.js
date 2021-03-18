@@ -1,1 +1,1 @@
-var mnemonic = "lyrics kick trip rely engage avoid parrot special cupboard pear guide above";
+var mnemonic = "tuition slim joy insane castle lucky hole cereal destroy phrase stock alert";

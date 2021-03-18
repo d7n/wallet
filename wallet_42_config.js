@@ -1,1 +1,1 @@
-var mnemonic = "exclude monitor mountain happy renew box creek pigeon squeeze chaos dynamic kite";
+var mnemonic = "parade shoulder company broom cook tackle pizza skirt blossom uniform culture energy";

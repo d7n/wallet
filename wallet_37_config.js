@@ -1,1 +1,1 @@
-var mnemonic = "gorilla alien depend museum this myself sunset engage latin fork opinion expect";
+var mnemonic = "universe code surround cat gospel magic cat wedding bundle since choice recall";

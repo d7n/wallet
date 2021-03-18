@@ -1,1 +1,1 @@
-var mnemonic = "chef cabin dust sad clutch forward glass impose talent car prosper beauty";
+var mnemonic = "promote fragile cage virtual front dog unlock crew actress trap multiply blanket";

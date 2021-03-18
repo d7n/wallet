@@ -1,1 +1,1 @@
-var mnemonic = "more enable welcome address neck dumb mammal misery time frozen country tomato";
+var mnemonic = "anger help oyster wrist drive hand mad guilt flip describe upset agent";

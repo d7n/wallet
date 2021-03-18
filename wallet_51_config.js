@@ -1,1 +1,1 @@
-var mnemonic = "pony vessel end special roast future desert evoke enter seed educate before";
+var mnemonic = "luggage crucial lift swear trial index silk lunch metal latin stumble custom";

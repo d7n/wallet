@@ -1,1 +1,1 @@
-var mnemonic = "tell inquiry friend own bunker drift garden mixture receive whisper sadness hockey";
+var mnemonic = "jar dolphin cloud butter envelope beauty split fault hammer advance mutual cancel";

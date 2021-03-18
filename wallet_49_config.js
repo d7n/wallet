@@ -1,1 +1,1 @@
-var mnemonic = "staff disorder nominee civil flash include giggle bird unusual find position night";
+var mnemonic = "silly cushion lizard correct embody humor mass toe leave veteran sausage miss";

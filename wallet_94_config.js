@@ -1,1 +1,1 @@
-var mnemonic = "hair join carbon act citizen fiber retreat target category enter alone quick";
+var mnemonic = "chronic bring they essay master vehicle panda taste affair woman always ten";

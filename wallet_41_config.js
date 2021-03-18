@@ -1,1 +1,1 @@
-var mnemonic = "action sick major design dutch protect begin original transfer random base taxi";
+var mnemonic = "must bamboo laptop master head moon provide mixed canyon remove brother twenty";

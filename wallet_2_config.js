@@ -1,1 +1,1 @@
-var mnemonic = "age lake together umbrella skin casual swamp similar isolate else dune home";
+var mnemonic = "gold economy charge master hotel apple uphold assault deliver approve recycle switch";

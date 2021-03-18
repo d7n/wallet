@@ -1,1 +1,1 @@
-var mnemonic = "cigar since horror hood jungle shield begin undo organ quiz metal ride";
+var mnemonic = "ride rule topic beauty slam first next outside balcony ride memory hello";

@@ -1,1 +1,1 @@
-var mnemonic = "rare shiver fly match grape fit genuine repair general include coast offer";
+var mnemonic = "regret lady easily right witness couch portion empower safe tunnel entry twelve";

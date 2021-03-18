@@ -1,1 +1,1 @@
-var mnemonic = "absorb bid swear arena grief reveal turkey kick forward column fox amazing";
+var mnemonic = "nuclear lion sponsor ramp over fortune again federal enemy million increase tuna";

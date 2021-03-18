@@ -1,1 +1,1 @@
-var mnemonic = "skill combine over mistake nation poem knock rifle avoid oyster squeeze energy";
+var mnemonic = "real burden sorry garlic stone ethics attack engage veteran squirrel dignity argue";

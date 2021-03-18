@@ -1,1 +1,1 @@
-var mnemonic = "dignity twice pioneer fossil section earth near body episode enter wrong camp";
+var mnemonic = "baby wall usual alarm mother submit found diet funny upon artwork fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal amazing run negative case suspect response cactus popular solar inner pitch";
+var mnemonic = "tissue spoon inner purity fragile book convince nation nerve blast amused deputy";

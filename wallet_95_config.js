@@ -1,1 +1,1 @@
-var mnemonic = "marriage twenty rigid energy cruise cave use wrestle another scare frown angle";
+var mnemonic = "balcony benefit pelican keep van athlete dignity small junk disorder extend grab";
