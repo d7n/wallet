@@ -1,1 +1,1 @@
-var mnemonic = "onion wire couple bracket useful same arch balance section happy jar bounce";
+var mnemonic = "calm domain token lesson weird grain grain gasp grunt girl key sniff";

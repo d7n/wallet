@@ -1,1 +1,1 @@
-var mnemonic = "antenna quick embark carbon water surprise elephant diary usual vicious bicycle reform";
+var mnemonic = "oval proof album later burst lend into easily pact gain hat dust";

@@ -1,1 +1,1 @@
-var mnemonic = "become exile inject will history cost short code assume random involve visit";
+var mnemonic = "twin civil valve senior daughter cannon miracle visa cable permit chicken tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "agree poet opera scare boat run hurt decline price method unable hub";
+var mnemonic = "squirrel total joke nurse seek west marble hero chuckle work injury divide";

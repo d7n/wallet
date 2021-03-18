@@ -1,1 +1,1 @@
-var mnemonic = "hat scheme bracket transfer make admit session copper focus leaf episode wish";
+var mnemonic = "april quote bulb exclude flush club sword weekend life crawl robot print";

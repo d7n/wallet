@@ -1,1 +1,1 @@
-var mnemonic = "talk topple eager this wing analyst mimic strategy speed gain similar axis";
+var mnemonic = "ugly digital average meadow leave symptom topic machine notable little muscle verify";

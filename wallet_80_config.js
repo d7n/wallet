@@ -1,1 +1,1 @@
-var mnemonic = "victory citizen sphere iron become category around license quality act magnet hurdle";
+var mnemonic = "staff pudding regret merry legend october hair rely trouble jungle siren affair";

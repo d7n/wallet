@@ -1,1 +1,1 @@
-var mnemonic = "top fault panic true below people surface ramp cigar tumble ball quote";
+var mnemonic = "eternal dial husband senior meat jelly twelve market pelican leg receive maid";

@@ -1,1 +1,1 @@
-var mnemonic = "garage famous desk bomb wheel grass destroy toss boring thing admit scrap";
+var mnemonic = "squeeze north toilet estate unusual north animal talent devote moon fork will";

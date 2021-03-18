@@ -1,1 +1,1 @@
-var mnemonic = "era proud inside peanut shuffle bicycle exhaust forward act people cube daughter";
+var mnemonic = "lawn polar nothing weather bike woman easily patrol maple pulse lottery caught";

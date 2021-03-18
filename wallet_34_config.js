@@ -1,1 +1,1 @@
-var mnemonic = "know suit celery assault secret cliff mixture luxury chest mutual hood glory";
+var mnemonic = "exit bright bunker river feature work sense curve winner grocery blanket cave";

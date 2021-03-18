@@ -1,1 +1,1 @@
-var mnemonic = "chaos anxiety setup catch hello divide bright circle coast stable sock special";
+var mnemonic = "fly icon drift rhythm sibling any tray amused surprise talent table hope";

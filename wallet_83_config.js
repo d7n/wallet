@@ -1,1 +1,1 @@
-var mnemonic = "hawk since table spatial frequent duty gift valve obey gap snap energy";
+var mnemonic = "math stock ship basic crop lake exclude recipe sadness gym gown fruit";

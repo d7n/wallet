@@ -1,1 +1,1 @@
-var mnemonic = "amazing million nephew avoid surprise budget purse slot lunar spatial spider cat";
+var mnemonic = "foil rotate damp state update time machine unfair enroll eyebrow erupt claim";

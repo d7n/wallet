@@ -1,1 +1,1 @@
-var mnemonic = "visit flavor prefer use paddle ranch faculty swim gap finish two coral";
+var mnemonic = "already lazy negative wrestle click orphan angle rule elite pink twelve certain";

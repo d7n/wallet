@@ -1,1 +1,1 @@
-var mnemonic = "ridge gather shadow verify mask one monster cluster world opinion doll huge";
+var mnemonic = "trigger enroll hungry junior sea shock lift vacant glue whale grab magnet";

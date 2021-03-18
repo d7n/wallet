@@ -1,1 +1,1 @@
-var mnemonic = "yard throw rent scale flee select fun estate daring kitchen timber emerge";
+var mnemonic = "win leaf hire genre degree tuna unveil hotel deliver load execute beauty";

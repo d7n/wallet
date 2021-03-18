@@ -1,1 +1,1 @@
-var mnemonic = "absent blue seminar cinnamon found afraid oven era slender eagle loop sleep";
+var mnemonic = "left angle hard toast devote general boat whisper spice fit winner course";

@@ -1,1 +1,1 @@
-var mnemonic = "drive bid rare trim blanket cat target arrow valley concert jealous cool";
+var mnemonic = "ramp state code round element woman leg gain history wink luxury witness";

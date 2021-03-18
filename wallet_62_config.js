@@ -1,1 +1,1 @@
-var mnemonic = "lawn sense add host claim robot vicious vivid comic liberty small solid";
+var mnemonic = "that blood sand winner few car ordinary distance dynamic floor opinion there";

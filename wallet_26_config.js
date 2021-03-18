@@ -1,1 +1,1 @@
-var mnemonic = "put ski trumpet rescue chapter middle volcano spy globe fire service follow";
+var mnemonic = "chair runway hurt tip better rabbit carpet spawn industry correct laundry orange";

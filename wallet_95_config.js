@@ -1,1 +1,1 @@
-var mnemonic = "list hunt valve apple someone nerve afraid dish fabric risk reflect blouse";
+var mnemonic = "grunt town correct reason awesome noodle awesome crime margin toddler tree minor";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige dilemma explain laptop animal vapor blast globe scheme inside can example";
+var mnemonic = "view actual rhythm zebra spin trade essence depend spray agent sad horror";

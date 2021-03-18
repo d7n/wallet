@@ -1,1 +1,1 @@
-var mnemonic = "cushion embark multiply excess silk cream ring ostrich dash focus glow tumble";
+var mnemonic = "rookie flavor pumpkin wear license fancy return super plug merit clip vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "mail inherit winter almost satisfy bomb young jaguar cover barely lunch loop";
+var mnemonic = "game lyrics tower rude clerk across seminar poet cross width absorb urban";

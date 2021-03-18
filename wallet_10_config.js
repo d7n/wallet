@@ -1,1 +1,1 @@
-var mnemonic = "glove small uphold stem afford tower tenant comic ritual kidney pigeon betray";
+var mnemonic = "ordinary orbit load shed exclude ensure sport stumble glow fury where siren";

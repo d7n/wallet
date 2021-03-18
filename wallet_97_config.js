@@ -1,1 +1,1 @@
-var mnemonic = "crush little left race bleak coconut chief season drastic quiz sphere desk";
+var mnemonic = "sauce jaguar welcome garlic squirrel gauge pull mouse retreat cabin hurry lecture";

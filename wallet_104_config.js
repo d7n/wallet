@@ -1,1 +1,1 @@
-var mnemonic = "tower measure holiday garment parrot brave bar trigger maple update document vocal";
+var mnemonic = "tone talent coral nice assume hunt slogan settle exact segment glad rival";

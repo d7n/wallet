@@ -1,1 +1,1 @@
-var mnemonic = "slice asset ancient syrup grid act original deny violin lake hair forward";
+var mnemonic = "buddy weekend guess enrich bitter shoot glow puppy punch clarify ladder airport";

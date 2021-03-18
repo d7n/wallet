@@ -1,1 +1,1 @@
-var mnemonic = "ladder tide confirm large puppy scatter route recall outside salon motion forward";
+var mnemonic = "silk party typical trip ketchup balance swarm valid gym famous debris dirt";

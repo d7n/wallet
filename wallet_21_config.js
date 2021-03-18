@@ -1,1 +1,1 @@
-var mnemonic = "spy rigid pottery name office teach drastic bulb vital twice fault robot";
+var mnemonic = "sunset later retreat coast daring battle omit eagle nut slot sport talk";

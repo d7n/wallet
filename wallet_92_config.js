@@ -1,1 +1,1 @@
-var mnemonic = "world sleep hungry hen envelope half act flat fee pumpkin range heart";
+var mnemonic = "omit praise path bike lecture setup tunnel broom escape engage make frown";

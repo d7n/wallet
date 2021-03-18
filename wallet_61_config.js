@@ -1,1 +1,1 @@
-var mnemonic = "pioneer donate portion foil public employ educate vicious museum express inherit divide";
+var mnemonic = "vital blush liberty shrug plate town damage warrior tattoo enemy damp regret";

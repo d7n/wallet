@@ -1,1 +1,1 @@
-var mnemonic = "pupil envelope night badge inject slogan hood ball word giggle early crater";
+var mnemonic = "about orphan oil second athlete tape minute ski awake drift street baby";

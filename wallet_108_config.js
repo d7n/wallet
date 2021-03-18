@@ -1,1 +1,1 @@
-var mnemonic = "chest earn organ mesh naive flavor struggle fiction speak clerk rocket combine";
+var mnemonic = "today crouch piano sword frozen laundry rain embark fix smooth love finish";

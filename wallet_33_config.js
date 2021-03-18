@@ -1,1 +1,1 @@
-var mnemonic = "charge honey close camera author please super level quality wave hamster tree";
+var mnemonic = "plug hazard state kick burden trim print elegant obtain shrug deal delay";

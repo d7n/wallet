@@ -1,1 +1,1 @@
-var mnemonic = "afford tent caution before please permit orbit clean east anchor miss egg";
+var mnemonic = "skull great march engine loud romance amateur romance gentle review layer rabbit";

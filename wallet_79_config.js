@@ -1,1 +1,1 @@
-var mnemonic = "extra auction prize image trick actor provide spike describe snow allow season";
+var mnemonic = "enough budget claw master regret story design witness appear number birth famous";

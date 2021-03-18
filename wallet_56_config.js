@@ -1,1 +1,1 @@
-var mnemonic = "rhythm drop fade pill mirror poem burden ability wasp put unhappy rough";
+var mnemonic = "chapter laundry excite zero good useless harbor false twin start shield female";

@@ -1,1 +1,1 @@
-var mnemonic = "check gasp survey evolve pole punch silver delay girl mimic lonely mistake";
+var mnemonic = "jar huge tornado abstract praise talent dinosaur road point where shift inquiry";

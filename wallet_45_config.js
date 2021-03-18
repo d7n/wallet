@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit amateur move torch field thought judge life employ derive romance they";
+var mnemonic = "bench blouse bring lady jump output arm ticket south wide math usage";

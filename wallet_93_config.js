@@ -1,1 +1,1 @@
-var mnemonic = "bone obvious bubble explain bid six six tape vacant bread fringe squeeze";
+var mnemonic = "just melt cannon fire imitate invest giant just poverty bacon strong crash";

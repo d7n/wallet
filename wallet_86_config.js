@@ -1,1 +1,1 @@
-var mnemonic = "quiz bench buzz ozone shed foot analyst pipe useful dash twist load";
+var mnemonic = "spirit tube convince moment fiber place fall cheese increase enact juice tuition";

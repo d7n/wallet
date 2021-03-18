@@ -1,1 +1,1 @@
-var mnemonic = "hurdle robust denial gather crack rhythm chair culture swing tackle trash pulp";
+var mnemonic = "coral hair excess palace habit amount blood identify lab forest right then";

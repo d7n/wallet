@@ -1,1 +1,1 @@
-var mnemonic = "setup range hint mimic maple crush simple mimic jelly conduct cushion asthma";
+var mnemonic = "insane success quote knee coyote senior stock ski snack omit merge taxi";

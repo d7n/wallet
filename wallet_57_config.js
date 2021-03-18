@@ -1,1 +1,1 @@
-var mnemonic = "clown cart visa abuse chase labor deliver scan eight base truck wage";
+var mnemonic = "laundry coffee cube client shed plastic love useless fine famous opinion later";

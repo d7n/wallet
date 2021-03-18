@@ -1,1 +1,1 @@
-var mnemonic = "exist fee bunker cake letter subway pupil tray open wife pause axis";
+var mnemonic = "traffic sheriff like first zebra trial grape fiction borrow slush salmon excuse";

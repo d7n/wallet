@@ -1,1 +1,1 @@
-var mnemonic = "own transfer rely survey velvet crucial spider reflect bubble assault pass enroll";
+var mnemonic = "black come hood nut slice appear admit thing reform hub kiwi educate";

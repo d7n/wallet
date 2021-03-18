@@ -1,1 +1,1 @@
-var mnemonic = "bird apart three ankle sheriff injury minute element grit equip guilt have";
+var mnemonic = "pottery enjoy cross yard cross eternal innocent improve sauce bunker ghost express";

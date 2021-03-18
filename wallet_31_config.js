@@ -1,1 +1,1 @@
-var mnemonic = "noodle also muffin bone twice sock chimney verify punch juice weapon supreme";
+var mnemonic = "submit dynamic reason erase panda wing you miss edge unfold orphan very";

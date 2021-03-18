@@ -1,1 +1,1 @@
-var mnemonic = "rhythm congress foam tragic patch denial witness fiscal appear sibling swarm smart";
+var mnemonic = "trap aisle fluid visit wave cook supply knee nasty version produce weather";

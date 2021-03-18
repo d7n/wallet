@@ -1,1 +1,1 @@
-var mnemonic = "hint nut mountain pig comfort say accuse evidence whip dignity tobacco front";
+var mnemonic = "add opera connect fossil refuse throw ceiling will plug bicycle record hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "cart genius goddess depth wink purse join short credit jump level evolve";
+var mnemonic = "tree dash luxury uncover push print sponsor cost lemon various car utility";

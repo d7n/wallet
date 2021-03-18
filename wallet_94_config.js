@@ -1,1 +1,1 @@
-var mnemonic = "save lend pen era image verify embark glue rain squeeze brain purpose";
+var mnemonic = "mass fox observe owner timber drama success damage benefit inflict breeze fever";

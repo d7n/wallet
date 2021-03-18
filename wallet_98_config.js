@@ -1,1 +1,1 @@
-var mnemonic = "diary drive carpet minute tone cave castle wide rifle lava tail birth";
+var mnemonic = "broom tilt camp video forward apple tube gaze add glow enjoy chaos";

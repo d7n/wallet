@@ -1,1 +1,1 @@
-var mnemonic = "rebel luggage sweet pistol gap accuse social odor ecology weapon spring modify";
+var mnemonic = "draw kitten celery truck eye fluid guess own blame glide virus clump";

@@ -1,1 +1,1 @@
-var mnemonic = "fame vehicle bike clown hand into flight august chuckle weekend ankle mesh";
+var mnemonic = "brain canvas gallery vendor unveil poet urban when banner oyster jar brush";

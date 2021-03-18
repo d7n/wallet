@@ -1,1 +1,1 @@
-var mnemonic = "zone kiwi valid loud scare pause shop spider kit once trade half";
+var mnemonic = "clerk scout snow response quiz party abstract yard today pipe next spoil";

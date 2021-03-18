@@ -1,1 +1,1 @@
-var mnemonic = "chunk ancient season misery admit mercy paper mountain frown empower perfect chef";
+var mnemonic = "expire embark enroll young risk swallow mouse task cradle dinosaur lecture mammal";

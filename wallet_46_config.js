@@ -1,1 +1,1 @@
-var mnemonic = "robot gentle hello peace wisdom awful shrimp father stable pumpkin wrong never";
+var mnemonic = "raven notice ring punch luxury panther tilt element wine mother text chimney";

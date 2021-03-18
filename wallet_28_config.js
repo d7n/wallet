@@ -1,1 +1,1 @@
-var mnemonic = "lottery shield gesture faith wasp wild clinic switch network gauge company discover";
+var mnemonic = "indoor ankle scatter zoo pool behave renew copy random cruel bulk step";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel unfold document turtle smooth peasant swing thumb fine attract brave fish";
+var mnemonic = "mule super sea situate copper give control bracket hidden view mammal illness";

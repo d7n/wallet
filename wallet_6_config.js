@@ -1,1 +1,1 @@
-var mnemonic = "try drift normal train apple online purse inflict cup zero dog beach";
+var mnemonic = "coyote brass observe sauce ill drastic youth merge glare gentle idle biology";

@@ -1,1 +1,1 @@
-var mnemonic = "pride robust science only hub famous domain napkin exit allow strategy episode";
+var mnemonic = "shoe organ wheel find cry extend bullet skull frequent actual become tank";

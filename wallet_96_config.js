@@ -1,1 +1,1 @@
-var mnemonic = "much flush language reward typical fantasy hybrid coil bounce never share client";
+var mnemonic = "hurt east label glance price couple liar adjust coach broccoli mystery salmon";

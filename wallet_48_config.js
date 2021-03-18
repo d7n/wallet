@@ -1,1 +1,1 @@
-var mnemonic = "room neglect seed supreme shell grant race region race dance whip option";
+var mnemonic = "beyond steel sure sample siege hire expose sketch keep kit lobster episode";

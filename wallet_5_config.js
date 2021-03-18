@@ -1,1 +1,1 @@
-var mnemonic = "alley sketch magic celery hood mule true core limb axis total damage";
+var mnemonic = "twice tragic oil pizza away junior motion ozone waste pudding alley make";

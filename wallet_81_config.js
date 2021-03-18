@@ -1,1 +1,1 @@
-var mnemonic = "path drift cotton impose ugly bracket divert drink wild will plastic offer";
+var mnemonic = "coast puzzle mom pool eye broccoli split blame silly tortoise seminar glue";

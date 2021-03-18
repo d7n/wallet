@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit climb water garlic rail midnight piece budget month lobster aspect spoon";
+var mnemonic = "fee twist damp pelican inquiry link jump skill body wheat clip hold";

@@ -1,1 +1,1 @@
-var mnemonic = "burden faint entry ranch vote bleak sweet leg manual mutual palm live";
+var mnemonic = "real during ketchup amazing main amazing salad any open size amused giraffe";

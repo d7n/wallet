@@ -1,1 +1,1 @@
-var mnemonic = "lawn pitch thank six life day multiply odor tell soup topic proof";
+var mnemonic = "twelve judge huge churn citizen eager gain potato aunt wife addict dream";

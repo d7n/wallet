@@ -1,1 +1,1 @@
-var mnemonic = "doll ranch hill brisk inmate honey traffic reject outer foster favorite club";
+var mnemonic = "upgrade weasel gold deal barely elite scorpion fever state girl rotate lend";

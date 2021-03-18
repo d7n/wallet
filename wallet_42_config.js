@@ -1,1 +1,1 @@
-var mnemonic = "emotion imitate galaxy fruit snap grant exotic emotion trend develop sleep wagon";
+var mnemonic = "away pull people advance eagle ribbon run reject provide crane rocket slot";

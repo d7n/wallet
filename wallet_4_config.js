@@ -1,1 +1,1 @@
-var mnemonic = "useful asset lemon purse rubber series venue cook still two absorb adult";
+var mnemonic = "simple muscle wish tower work click client city crystal grocery net razor";

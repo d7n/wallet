@@ -1,1 +1,1 @@
-var mnemonic = "garbage total hammer math chuckle arrive voyage prize stock together melt winner";
+var mnemonic = "hungry vehicle talent achieve nature ankle sail book hope blur flight episode";

@@ -1,1 +1,1 @@
-var mnemonic = "idea flat tragic delay little trick item kid other draw master divert";
+var mnemonic = "output labor remove affair torch lesson venue cliff category exist answer girl";

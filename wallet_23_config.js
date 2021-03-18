@@ -1,1 +1,1 @@
-var mnemonic = "ripple virtual zero lunch pumpkin front current rely wild rail solution runway";
+var mnemonic = "blind window observe assault vanish dignity level among glad shoe run account";

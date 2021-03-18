@@ -1,1 +1,1 @@
-var mnemonic = "bronze minute disagree tongue student spare blouse argue still clutch peasant key";
+var mnemonic = "naive balance album spend require forget repair display taxi hip turn cheap";

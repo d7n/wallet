@@ -1,1 +1,1 @@
-var mnemonic = "sunset draft arch reflect image october credit flash illness reward dance couple";
+var mnemonic = "usual news say parrot convince this icon differ student point jazz engage";

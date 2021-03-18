@@ -1,1 +1,1 @@
-var mnemonic = "emotion power load alpha tenant audit grit swim dad list cupboard credit";
+var mnemonic = "sail lava shoe snack boat banana shallow service lesson culture motor file";

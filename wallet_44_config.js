@@ -1,1 +1,1 @@
-var mnemonic = "brain green oxygen cactus predict world escape slush crash thumb wage assault";
+var mnemonic = "clog common inmate movie decorate record wave gravity feature intact hurdle brief";

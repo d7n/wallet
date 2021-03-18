@@ -1,1 +1,1 @@
-var mnemonic = "rich flip net control penalty breeze fruit crane duck mom one maximum";
+var mnemonic = "enhance effort sleep anxiety actor rebel coach funny cup behind elevator rich";

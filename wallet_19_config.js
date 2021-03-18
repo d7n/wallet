@@ -1,1 +1,1 @@
-var mnemonic = "defense produce review eight harsh clever remember rapid slow sphere unfold dinosaur";
+var mnemonic = "salad matter stamp gauge lounge oblige pig drill wool wage tail quote";

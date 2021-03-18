@@ -1,1 +1,1 @@
-var mnemonic = "amateur soap thing since random run message waste left first shield board";
+var mnemonic = "spread fence guilt gun off solid enter noise buffalo tuition disease category";

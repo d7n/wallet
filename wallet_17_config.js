@@ -1,1 +1,1 @@
-var mnemonic = "exact soccer evolve attitude glimpse suffer penalty camera base toy nature jealous";
+var mnemonic = "begin quantum upon song fiction prevent sun cave pause copper debate meadow";

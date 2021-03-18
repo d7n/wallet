@@ -1,1 +1,1 @@
-var mnemonic = "track network profit acid sniff swing awake route thumb total pelican canvas";
+var mnemonic = "glove loan explain mobile own property grain divorce maximum critic audit drift";

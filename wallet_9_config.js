@@ -1,1 +1,1 @@
-var mnemonic = "trap maze firm resource lab group cost they credit raccoon brain absent";
+var mnemonic = "goddess draw subway you second nut truly consider energy nose talk time";

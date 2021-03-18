@@ -1,1 +1,1 @@
-var mnemonic = "marble swift unveil member ice left extra use better glare act erosion";
+var mnemonic = "athlete turkey draw alley erode kitten manage discover jacket popular cruise tip";

@@ -1,1 +1,1 @@
-var mnemonic = "carry gesture position timber envelope cage orphan cover tired cool soap spoon";
+var mnemonic = "runway beef embrace link okay phrase merge heart lock awake idea lemon";

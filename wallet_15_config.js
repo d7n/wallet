@@ -1,1 +1,1 @@
-var mnemonic = "above seat magic donor produce retire amazing math broccoli hood festival define";
+var mnemonic = "solid final social labor desert citizen meat film artwork open second pluck";

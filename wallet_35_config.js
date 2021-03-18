@@ -1,1 +1,1 @@
-var mnemonic = "share odor duck blind daughter assume eagle just basic only sentence repeat";
+var mnemonic = "display release style quarter talent excuse ethics habit pass object summer current";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent maple save target talk inch giant truck exotic sponsor stone observe";
+var mnemonic = "chaos note ritual great gentle soldier popular brown frozen survey captain metal";

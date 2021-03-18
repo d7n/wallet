@@ -1,1 +1,1 @@
-var mnemonic = "you filter mirror illegal curtain demise print palace arrow blame vital host";
+var mnemonic = "razor horn weather quarter volcano little van nominee acoustic market primary sick";

@@ -1,1 +1,1 @@
-var mnemonic = "quality session casual dolphin display dove obtain dress surface country certain session";
+var mnemonic = "shrug know assist east mutual correct nothing slight chest color pink pond";
