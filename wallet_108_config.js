@@ -1,1 +1,1 @@
-var mnemonic = "wonder news smart razor begin cash artefact prefer minimum route song reflect";
+var mnemonic = "plunge open weird woman relief venture squeeze clerk pattern name quiz destroy";

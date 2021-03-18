@@ -1,1 +1,1 @@
-var mnemonic = "involve before wood chest crunch lumber orient drive bronze east coach fever";
+var mnemonic = "obscure wink artwork polar lock trim ocean view wool harsh perfect hero";

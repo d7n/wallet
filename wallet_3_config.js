@@ -1,1 +1,1 @@
-var mnemonic = "brush daring they master hire label castle horse myth bundle talent plunge";
+var mnemonic = "industry manual palace dumb slow tag detail lock detect million depend wild";

@@ -1,1 +1,1 @@
-var mnemonic = "armor barrel grocery pull since long client ordinary typical excess allow address";
+var mnemonic = "goose tomato curious clean hurry erupt praise embody order tide shove hunt";

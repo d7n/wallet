@@ -1,1 +1,1 @@
-var mnemonic = "more breeze physical olive frost purse family raw apology rare salon coin";
+var mnemonic = "modify raise tired labor load ivory fault couch heart snake practice fortune";

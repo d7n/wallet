@@ -1,1 +1,1 @@
-var mnemonic = "glide clerk ladder sell pool vacant sand crawl enact desk lock cake";
+var mnemonic = "soda sting canvas captain card picnic raise teach depart general flight half";

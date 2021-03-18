@@ -1,1 +1,1 @@
-var mnemonic = "fog quit stomach like effort surface whale slogan lecture talent critic educate";
+var mnemonic = "repeat bridge file crack people subject survey fork beyond script joke simple";

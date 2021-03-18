@@ -1,1 +1,1 @@
-var mnemonic = "chef delay brick crash spice remind purchase riot economy mass scare mosquito";
+var mnemonic = "frequent donor gorilla pull chaos crush off garbage hamster question coffee cross";

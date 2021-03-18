@@ -1,1 +1,1 @@
-var mnemonic = "glance ranch solve wide plastic fold deputy drop canal repair cook twenty";
+var mnemonic = "cage tobacco emotion junior verify voice recycle lift bright initial reflect earth";

@@ -1,1 +1,1 @@
-var mnemonic = "purse tell hen grape myself tell current photo surface save rebuild spot";
+var mnemonic = "neck grass math owner vote farm height bounce father mountain diagram use";

@@ -1,1 +1,1 @@
-var mnemonic = "mango beef worth success river hand property rigid kitten shallow bulk holiday";
+var mnemonic = "finish dwarf stable remain embark envelope clerk beach diet message bridge artist";

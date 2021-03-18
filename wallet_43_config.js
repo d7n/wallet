@@ -1,1 +1,1 @@
-var mnemonic = "coral hard wreck atom pulse tragic gallery kit side cement person one";
+var mnemonic = "brown piece bracket wine actress way account depend leaf grunt captain outside";

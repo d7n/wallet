@@ -1,1 +1,1 @@
-var mnemonic = "fresh lawsuit throw merry normal shove wheel atom tennis ketchup method wire";
+var mnemonic = "cigar crush blouse tenant profit wave surround borrow lunar olympic renew curtain";

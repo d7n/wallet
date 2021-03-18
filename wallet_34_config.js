@@ -1,1 +1,1 @@
-var mnemonic = "stomach cause snack sing group own fun dwarf city farm garlic reason";
+var mnemonic = "one ride parent tuna settle uniform conduct luggage drive maple matter brief";

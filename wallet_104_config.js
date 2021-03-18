@@ -1,1 +1,1 @@
-var mnemonic = "bleak hole twist rifle keep casino monster humor oval library ask rich";
+var mnemonic = "uncle moral patch ill bridge sunset huge seven lucky kitten tribe theory";

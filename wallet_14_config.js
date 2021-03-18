@@ -1,1 +1,1 @@
-var mnemonic = "electric man helmet prison alter erosion ten shoot mix hint middle calm";
+var mnemonic = "label liquid pilot usual city sense despair visual ill choose galaxy virus";

@@ -1,1 +1,1 @@
-var mnemonic = "glance horn ball endorse poem together ripple nothing hurt mushroom purity enough";
+var mnemonic = "teach viable cupboard bitter romance car veteran debate liar oil away hawk";

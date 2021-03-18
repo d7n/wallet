@@ -1,1 +1,1 @@
-var mnemonic = "huge soon tribe peanut general aunt brick proof daring pool cushion busy";
+var mnemonic = "chapter lawsuit cheese shoot video lyrics member retreat daughter crowd middle vague";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate ethics half citizen ready discover amateur seek usage sphere feature avoid";
+var mnemonic = "element room annual blouse fly fence skirt limb depart turtle behave hour";

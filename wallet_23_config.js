@@ -1,1 +1,1 @@
-var mnemonic = "fragile unaware horror luxury cost night bamboo ghost index cereal clump parade";
+var mnemonic = "below bachelor easily gift street attend devote rare allow appear best disagree";

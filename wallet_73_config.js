@@ -1,1 +1,1 @@
-var mnemonic = "exit struggle cluster private energy magnet leaf canvas surge security street sleep";
+var mnemonic = "valve during math fabric dry broken display squeeze shift crew victory door";

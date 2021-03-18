@@ -1,1 +1,1 @@
-var mnemonic = "color visual civil shoe side expand celery wait fine trick much collect";
+var mnemonic = "make earth junior seminar hope basket project impact rookie bicycle step suggest";

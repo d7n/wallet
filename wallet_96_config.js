@@ -1,1 +1,1 @@
-var mnemonic = "effort design grocery cave enact lamp chest rapid october party affair lumber";
+var mnemonic = "close blade track zone awful disorder vapor jacket aisle hat affair lottery";

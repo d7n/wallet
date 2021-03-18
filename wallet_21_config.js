@@ -1,1 +1,1 @@
-var mnemonic = "upon canyon awkward toward talent labor boring clinic zoo erosion achieve long";
+var mnemonic = "fee eight soap friend surface purse license lemon train runway portion thing";

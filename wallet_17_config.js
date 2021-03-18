@@ -1,1 +1,1 @@
-var mnemonic = "income cash ensure town chimney crystal verify include someone spend between magnet";
+var mnemonic = "joke walnut chunk electric bring prison enough produce loud twenty whip hybrid";

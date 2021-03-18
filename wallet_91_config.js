@@ -1,1 +1,1 @@
-var mnemonic = "drip doll reopen depth mom school burst recipe orbit unfold trigger cook";
+var mnemonic = "hole cousin bag tuna humor capital tank cry federal say mosquito bring";

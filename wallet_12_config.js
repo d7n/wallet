@@ -1,1 +1,1 @@
-var mnemonic = "apple all update cash shadow fault survey exact turkey walk vapor ice";
+var mnemonic = "cram note destroy loud office ivory bus define capable attend trumpet danger";

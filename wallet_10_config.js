@@ -1,1 +1,1 @@
-var mnemonic = "violin plate more vicious acquire win exist weekend lounge vibrant mercy solid";
+var mnemonic = "develop purse chimney avocado best code achieve iron lunar civil output kind";

@@ -1,1 +1,1 @@
-var mnemonic = "seat resist city one drama glow core spring excuse ski harbor sure";
+var mnemonic = "armed kit advance original cruise soda allow exhaust mistake arch voice gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "retire swift bundle camp lecture monkey truth immense angry explain dinosaur churn";
+var mnemonic = "joy lizard index steak illegal lawn pony resist purity lyrics side major";

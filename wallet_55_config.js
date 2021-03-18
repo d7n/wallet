@@ -1,1 +1,1 @@
-var mnemonic = "virus movie camp disease arm caught upset program slice never broccoli age";
+var mnemonic = "absorb cute camp oil sport student industry machine author select cup cannon";

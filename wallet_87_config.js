@@ -1,1 +1,1 @@
-var mnemonic = "punch easy congress save tank word syrup amateur chef address another ensure";
+var mnemonic = "measure frown fury problem wood trumpet develop enhance cupboard celery funny enjoy";

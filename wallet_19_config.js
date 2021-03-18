@@ -1,1 +1,1 @@
-var mnemonic = "captain aerobic volume marine state jeans festival draw action present pretty north";
+var mnemonic = "genre feel bless record taste there bundle melody online shift install fancy";

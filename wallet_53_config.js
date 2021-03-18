@@ -1,1 +1,1 @@
-var mnemonic = "raccoon copper merge tenant idle myself bubble left profit limb enough note";
+var mnemonic = "try affair net ticket broom trophy minor pitch slush analyst lunch mule";

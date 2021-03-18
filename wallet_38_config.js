@@ -1,1 +1,1 @@
-var mnemonic = "defense trend tide object armor trouble excess motion donkey click slam observe";
+var mnemonic = "web shoe quarter join end nephew naive rapid cruel gospel this parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "neck crucial pull skirt pelican clean rubber unfold possible sponsor rib lock";
+var mnemonic = "demand help narrow engine enlist toe strategy dad ask artist deputy during";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess sure pilot auto utility warrior decline draw adapt proud cake logic";
+var mnemonic = "donor govern bike rent shield gym fossil length escape brown summer dilemma";

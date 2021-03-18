@@ -1,1 +1,1 @@
-var mnemonic = "super chicken sick soup finish mammal term artefact wish cabin satoshi local";
+var mnemonic = "only speak essay punch torch purpose stage loan portion science inhale sand";

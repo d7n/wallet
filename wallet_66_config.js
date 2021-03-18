@@ -1,1 +1,1 @@
-var mnemonic = "inhale pizza silk sun source large fan envelope time kitten lab gold";
+var mnemonic = "apple mother faith peanut once steel dinosaur display enemy defense ethics sad";

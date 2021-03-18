@@ -1,1 +1,1 @@
-var mnemonic = "merit among leisure ring fiscal profit stem final angry ticket stove share";
+var mnemonic = "voyage output frame giraffe basket just obvious envelope they forum vocal maze";

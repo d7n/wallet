@@ -1,1 +1,1 @@
-var mnemonic = "stick stuff stuff dumb rude grain sweet scissors clinic upper ball online";
+var mnemonic = "science have access sock worry health absurd miss hill pen high wear";

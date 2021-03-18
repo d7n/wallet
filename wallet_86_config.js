@@ -1,1 +1,1 @@
-var mnemonic = "alone girl siege dish surprise always account kid alert onion rice worth";
+var mnemonic = "change soldier risk song open fold soup lava amazing twenty adapt aisle";

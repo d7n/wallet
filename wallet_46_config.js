@@ -1,1 +1,1 @@
-var mnemonic = "bottom code glad grab donor need abandon erupt social resource viable emerge";
+var mnemonic = "little left kiwi walk swift draw spoil grid pilot popular mail phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "garment problem kingdom laundry intact dilemma orbit juice ticket wrap play zero";
+var mnemonic = "radio ladder cliff gap party regular toast wheat eagle permit utility garlic";

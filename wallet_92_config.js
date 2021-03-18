@@ -1,1 +1,1 @@
-var mnemonic = "void frown erosion obvious intact wrist chronic inquiry marble excite duty produce";
+var mnemonic = "radio vessel pact also cradle duty science cross ghost mean size height";

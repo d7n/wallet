@@ -1,1 +1,1 @@
-var mnemonic = "taxi phone excess shoot media south require country whip verb spirit gate";
+var mnemonic = "tree shallow draw dentist wrestle keen addict until fever rookie derive doll";

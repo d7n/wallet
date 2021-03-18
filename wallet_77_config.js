@@ -1,1 +1,1 @@
-var mnemonic = "garage panel more senior image wine blanket subject little absorb east tape";
+var mnemonic = "shuffle honey apple pave useless shoe label general hover asset news veteran";

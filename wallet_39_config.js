@@ -1,1 +1,1 @@
-var mnemonic = "bachelor horn camp south enemy alone exclude shadow busy ring horn swarm";
+var mnemonic = "wish oyster lizard foil opinion opinion gadget general grunt iron crystal space";

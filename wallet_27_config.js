@@ -1,1 +1,1 @@
-var mnemonic = "jungle option pepper inhale vivid equal pyramid chaos hidden lobster test pilot";
+var mnemonic = "debate maximum addict oppose razor friend pumpkin smooth shed raven base degree";

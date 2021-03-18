@@ -1,1 +1,1 @@
-var mnemonic = "boost empower decrease october feed govern veteran kangaroo metal beef awesome affair";
+var mnemonic = "season guess sample pepper prefer basic relax inch rebel loyal march trophy";

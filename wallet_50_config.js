@@ -1,1 +1,1 @@
-var mnemonic = "artefact glimpse hint good describe stool tobacco price roof enable scout kingdom";
+var mnemonic = "tree ancient worry fox dune rescue input gorilla canvas eyebrow pair attract";

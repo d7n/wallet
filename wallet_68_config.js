@@ -1,1 +1,1 @@
-var mnemonic = "reunion egg stable rude budget group local exact exhaust announce stage solid";
+var mnemonic = "actress sugar lawn wait sense boss like feature black client hollow asset";

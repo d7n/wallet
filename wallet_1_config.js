@@ -1,1 +1,1 @@
-var mnemonic = "door someone empower put monster merit option fitness motor amused cousin they";
+var mnemonic = "primary squirrel avoid economy waste example silver talk situate arrest chef wage";

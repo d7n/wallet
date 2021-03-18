@@ -1,1 +1,1 @@
-var mnemonic = "topple alien cereal wire close yellow basket salt mean split breeze sing";
+var mnemonic = "imitate limb trim asthma vanish board suffer basic police harsh duck derive";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet annual cabin chunk royal warfare chaos similar tragic deposit gadget juice";
+var mnemonic = "gap front embark patch neutral ginger rifle salmon inside confirm wisdom host";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare pyramid pupil balance grow nature divide staff zoo control vague blur";
+var mnemonic = "wide mask april ankle gown reunion wealth great drum help skate large";

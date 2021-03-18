@@ -1,1 +1,1 @@
-var mnemonic = "rain debris blind slight seek relief roof edge test choice view swarm";
+var mnemonic = "bubble rigid nominee galaxy hint rose stool ordinary grab inherit lend luggage";

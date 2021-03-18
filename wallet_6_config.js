@@ -1,1 +1,1 @@
-var mnemonic = "soon sting clip staff water empower quantum wealth discover again pumpkin kidney";
+var mnemonic = "dutch baby bonus flush wonder planet swarm matrix bacon special burst melt";

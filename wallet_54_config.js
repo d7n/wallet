@@ -1,1 +1,1 @@
-var mnemonic = "produce pepper wine social shrug zoo hobby broken destroy liquid resource dog";
+var mnemonic = "practice legend valid donor view pluck this injury item random green bulk";

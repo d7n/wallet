@@ -1,1 +1,1 @@
-var mnemonic = "country orphan jeans drive doctor turn adult love speak cactus husband sell";
+var mnemonic = "leisure ramp wreck own song chat broccoli heavy gain orbit lonely avocado";

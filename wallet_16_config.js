@@ -1,1 +1,1 @@
-var mnemonic = "recall labor learn small spike clap supreme mass comfort tape bubble sunny";
+var mnemonic = "relief mother today puppy snap garden what rice cement second gasp sleep";

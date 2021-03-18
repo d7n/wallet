@@ -1,1 +1,1 @@
-var mnemonic = "reopen gospel between year tower kiss arctic aunt spawn quarter chef acoustic";
+var mnemonic = "clarify dove discover twelve you now fatal arena fall foot emerge sword";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry trouble hole upper sustain sock habit seven wisdom either envelope bullet";
+var mnemonic = "evil raise solid whip clinic bunker polar immense wedding sausage vital bullet";

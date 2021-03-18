@@ -1,1 +1,1 @@
-var mnemonic = "twin harvest absent people company goddess aunt deputy liberty island dismiss two";
+var mnemonic = "rib party squeeze fence among engine age tip such auto multiply sadness";

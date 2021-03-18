@@ -1,1 +1,1 @@
-var mnemonic = "reopen color monster velvet target step road warrior shed wage cactus forest";
+var mnemonic = "menu prefer vendor clip candy defy noble already tomato credit six refuse";

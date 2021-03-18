@@ -1,1 +1,1 @@
-var mnemonic = "pony solution engage puzzle sting blossom cupboard mad breeze door arm victory";
+var mnemonic = "coffee drift safe crowd round mad genre fabric lava reward indoor fringe";

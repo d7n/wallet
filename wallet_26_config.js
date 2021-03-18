@@ -1,1 +1,1 @@
-var mnemonic = "wine small enough lottery humor cook market trade core speak river gravity";
+var mnemonic = "dial sight oppose group pizza clean nation siege topic sentence pulp sign";

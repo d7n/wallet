@@ -1,1 +1,1 @@
-var mnemonic = "blur prosper try adapt face audit interest broccoli belt alarm shiver novel";
+var mnemonic = "circle steel village promote lava stick mesh victory language olive maid then";

@@ -1,1 +1,1 @@
-var mnemonic = "area labor risk rally analyst easy because success dice nation type scheme";
+var mnemonic = "word weather review dutch suit illness foam luxury soccer owner learn truth";

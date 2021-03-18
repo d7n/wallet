@@ -1,1 +1,1 @@
-var mnemonic = "tissue pilot park slot sunny situate boat unaware car candy diamond used";
+var mnemonic = "grain daughter young neutral soldier ribbon olive cook bracket mercy garage sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "arm chaos radar soap attitude rookie stay habit hockey invest fox adult";
+var mnemonic = "very grace excuse tiger stem resemble barely trumpet capital picture brother aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric total lend monitor silk rabbit abandon able whisper box range kidney";
+var mnemonic = "daughter chef another truck unfair vote primary machine lunar child risk parent";

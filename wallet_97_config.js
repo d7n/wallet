@@ -1,1 +1,1 @@
-var mnemonic = "feature blind practice fitness solve gain believe prosper type awake choice stage";
+var mnemonic = "solve magnet fabric warfare enroll slender muscle sock tail road raccoon movie";

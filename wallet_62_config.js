@@ -1,1 +1,1 @@
-var mnemonic = "hover transfer ship life orient tail absent police reject lonely vapor sign";
+var mnemonic = "margin able room false uncle refuse lottery eternal cancel layer oxygen chicken";

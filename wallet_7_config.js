@@ -1,1 +1,1 @@
-var mnemonic = "build excite lazy tragic attend pulse rely ship ranch list erupt repeat";
+var mnemonic = "coin immense human battle describe lady december pencil unknown movie jump broccoli";

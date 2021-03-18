@@ -1,1 +1,1 @@
-var mnemonic = "square route invest west click silver charge coconut item radio practice repeat";
+var mnemonic = "fat trouble tornado lunch hurry next crew outside lend room rural penalty";

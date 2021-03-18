@@ -1,1 +1,1 @@
-var mnemonic = "swing height drop metal fun canoe bench inherit east inmate please stuff";
+var mnemonic = "obscure behind culture grass slot normal glimpse camp sand name truck rely";

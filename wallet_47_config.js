@@ -1,1 +1,1 @@
-var mnemonic = "law mercy scan fringe provide oak tilt pass bus island enforce witness";
+var mnemonic = "erupt column always acquire can emotion spread fury shove flat useful dance";

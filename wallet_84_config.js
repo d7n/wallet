@@ -1,1 +1,1 @@
-var mnemonic = "slice snap organ travel rate rose erase orchard canoe unaware orphan measure";
+var mnemonic = "meadow please net imitate funny express true sight proud crack weekend museum";

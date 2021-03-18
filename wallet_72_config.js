@@ -1,1 +1,1 @@
-var mnemonic = "accuse burger apart syrup noble sun expire candy impact machine attitude cigar";
+var mnemonic = "script velvet gloom inflict ginger hood permit offer cushion crumble web solve";

@@ -1,1 +1,1 @@
-var mnemonic = "behind guess cat mouse enact help record ensure own message thrive middle";
+var mnemonic = "lunar wage artefact much pattern gaze half edge behind fence note ready";

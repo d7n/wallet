@@ -1,1 +1,1 @@
-var mnemonic = "coffee cream forget trumpet depend glimpse canvas elite step fish bind sing";
+var mnemonic = "assault proof stadium mammal polar coin alone gap fashion negative vivid novel";

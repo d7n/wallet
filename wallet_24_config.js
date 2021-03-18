@@ -1,1 +1,1 @@
-var mnemonic = "mother scatter head someone wink fun program music shoe blade couch glimpse";
+var mnemonic = "pulp noodle easily connect tornado motion radio radar myself option dice end";

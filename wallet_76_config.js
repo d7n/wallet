@@ -1,1 +1,1 @@
-var mnemonic = "during noodle company paddle category piece spirit tomato ball agent risk advance";
+var mnemonic = "tumble amused shallow cereal feel town exercise index bind raise news core";

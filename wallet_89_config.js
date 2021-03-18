@@ -1,1 +1,1 @@
-var mnemonic = "rival early about input love sphere protect father swarm burger renew unable";
+var mnemonic = "grid mosquito brisk marble suspect bundle banana child wet cloth emotion hawk";

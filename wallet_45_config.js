@@ -1,1 +1,1 @@
-var mnemonic = "stomach cabbage crack skirt jealous patch measure stay glide dilemma present enforce";
+var mnemonic = "pig ostrich endorse valve state ozone wire exchange antenna catch warfare install";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito salmon blame unaware begin envelope absent chat liar guard dismiss exhaust";
+var mnemonic = "final execute liberty recall sock cancel imitate acquire embody sausage skin sphere";

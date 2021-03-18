@@ -1,1 +1,1 @@
-var mnemonic = "damp void dutch process cream pass fever million catch glance hamster item";
+var mnemonic = "release rebuild aisle drastic brief science write manage orange diagram olive flame";

@@ -1,1 +1,1 @@
-var mnemonic = "escape boost caution tomato distance used street blanket above connect poverty rice";
+var mnemonic = "quit mango resource visual empty jar dune multiply march try smile bone";

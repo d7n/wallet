@@ -1,1 +1,1 @@
-var mnemonic = "follow volcano genuine squeeze dream play capable hope lamp very stage harsh";
+var mnemonic = "view blame assist speed trophy opera elephant stairs device ski genre lazy";

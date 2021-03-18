@@ -1,1 +1,1 @@
-var mnemonic = "head faint jaguar panther large undo lake demise vocal nothing despair deposit";
+var mnemonic = "way beach primary bunker deputy prefer crime air ribbon throw tape pledge";

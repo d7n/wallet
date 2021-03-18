@@ -1,1 +1,1 @@
-var mnemonic = "absurd foam best gown uniform method liquid such explain organ panda spoon";
+var mnemonic = "reveal tower enrich twin sword slot awesome casual distance banner nice camera";

@@ -1,1 +1,1 @@
-var mnemonic = "treat police stage vote country sniff eager orange festival rent term retire";
+var mnemonic = "author insane mango glimpse ring empty utility foot dwarf rival idea sleep";

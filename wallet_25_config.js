@@ -1,1 +1,1 @@
-var mnemonic = "office water luggage fence draft sport online party addict lab always evolve";
+var mnemonic = "sell exile remove toe mail marble survey eye merry boy jaguar bicycle";

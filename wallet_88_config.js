@@ -1,1 +1,1 @@
-var mnemonic = "hand limit comic upper acid surge minimum mobile gentle case interest tell";
+var mnemonic = "drill hip eternal chest unhappy size layer teach uniform version equal elbow";

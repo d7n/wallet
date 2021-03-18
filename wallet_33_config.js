@@ -1,1 +1,1 @@
-var mnemonic = "lab solid chase output treat monitor brass pull hood venture surge giant";
+var mnemonic = "record wolf upon rich base again transfer episode wire bicycle govern car";
