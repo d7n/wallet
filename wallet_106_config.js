@@ -1,1 +1,1 @@
-var mnemonic = "honey share direct guard tackle poverty crunch brass lucky slab soul swap";
+var mnemonic = "tip squeeze indoor frog wine flag rich sad celery iron nothing moon";

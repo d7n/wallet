@@ -1,1 +1,1 @@
-var mnemonic = "salad abandon type bundle curtain cinnamon elbow clinic shock leisure loyal coin";
+var mnemonic = "way meat seat gravity crime true master close humble toss gossip thank";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy couch subject suggest rabbit art razor strong surround unlock name execute";
+var mnemonic = "ladder tissue cup arrow clutch rival bag vanish chunk cereal candy primary";

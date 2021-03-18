@@ -1,1 +1,1 @@
-var mnemonic = "receive viable split magic match option identify response december attend side upon";
+var mnemonic = "unit stairs table way now couch average place smoke purchase opinion sing";

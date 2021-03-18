@@ -1,1 +1,1 @@
-var mnemonic = "autumn nominee try seat tattoo art minor zebra surround fat card coin";
+var mnemonic = "disorder need gentle radio wisdom proof sting omit sand school learn calm";

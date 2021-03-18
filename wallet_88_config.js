@@ -1,1 +1,1 @@
-var mnemonic = "amazing again need beauty process ostrich settle practice project feed access curve";
+var mnemonic = "dutch north torch song sand auto six wonder clay immune miss cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "often armed home deer steel violin stable prefer future used stuff pilot";
+var mnemonic = "wolf elite wealth odor pig clean abuse never sense answer deliver quarter";

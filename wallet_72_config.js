@@ -1,1 +1,1 @@
-var mnemonic = "shy true solve stamp today front warfare bridge invite flavor float abstract";
+var mnemonic = "wall coach frame reveal brick degree drastic genius town blush artist term";

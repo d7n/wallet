@@ -1,1 +1,1 @@
-var mnemonic = "north hollow barely afford violin outdoor mammal enable trend green knife layer";
+var mnemonic = "gown circle arrive stadium material mystery agree scare topic spawn kite cool";

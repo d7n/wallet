@@ -1,1 +1,1 @@
-var mnemonic = "subway glide huge machine never prison split energy carbon tonight machine laugh";
+var mnemonic = "opinion trust release unit pig fix awkward hood win never derive stay";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup cool vessel glow lazy purity forget piece belt grab ride remove";
+var mnemonic = "pipe giggle dismiss duty symbol immense toddler hole gesture vacuum ridge honey";

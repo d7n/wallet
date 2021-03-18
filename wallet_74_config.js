@@ -1,1 +1,1 @@
-var mnemonic = "slice mention lesson step clerk lemon guide verify track hurdle deer glass";
+var mnemonic = "parent ostrich comic miss reunion weird nose salon real possible jaguar noodle";

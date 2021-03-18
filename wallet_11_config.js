@@ -1,1 +1,1 @@
-var mnemonic = "rally cruel damage globe donor hundred mix sustain wool gorilla uncle bulk";
+var mnemonic = "invite quality body almost annual reveal blade ready human judge nurse abuse";

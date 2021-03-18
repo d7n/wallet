@@ -1,1 +1,1 @@
-var mnemonic = "excite reunion hello record prize artwork pipe visa logic dust spider logic";
+var mnemonic = "sing bring leave sort spawn avocado company alone true young about prize";

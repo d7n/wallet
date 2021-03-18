@@ -1,1 +1,1 @@
-var mnemonic = "beyond fee crane know hope matter message type island twenty loan upper";
+var mnemonic = "balance guess gather average twist uncle spike strike chair adult mail parrot";

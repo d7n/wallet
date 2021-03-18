@@ -1,1 +1,1 @@
-var mnemonic = "program addict caution link toe juice boost mixture treat foil drill convince";
+var mnemonic = "floor decorate artefact call erosion keen dad boost chronic wisdom fire joke";

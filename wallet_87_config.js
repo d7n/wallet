@@ -1,1 +1,1 @@
-var mnemonic = "any stairs honey remind column maid invite agent you flag swim vacant";
+var mnemonic = "obscure city soap bonus shove raven brass perfect museum soccer shock diagram";

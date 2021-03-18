@@ -1,1 +1,1 @@
-var mnemonic = "step hint chase patient carpet uncover pave dynamic craft cup attend rigid";
+var mnemonic = "steel labor boring wing atom frog monitor setup kitten tourist puzzle spray";

@@ -1,1 +1,1 @@
-var mnemonic = "shock explain index merry deputy window ahead tribe drink attend web alert";
+var mnemonic = "shrug mistake uncover hood stick code settle where nest junk concert moment";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft burger want satisfy control wet truth else into cause merry marriage";
+var mnemonic = "random roof forum clap cactus trust eight domain noble improve model uniform";

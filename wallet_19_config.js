@@ -1,1 +1,1 @@
-var mnemonic = "tag acoustic thunder quit minor add silk taxi illness table law strong";
+var mnemonic = "stamp coil north churn basket ask thrive matter walnut call drop wrong";

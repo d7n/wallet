@@ -1,1 +1,1 @@
-var mnemonic = "clock divert fury tomato ridge circle ready park eyebrow mad home rabbit";
+var mnemonic = "bonus abstract nurse rhythm retreat garment mule list sniff social luggage fruit";

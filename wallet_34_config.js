@@ -1,1 +1,1 @@
-var mnemonic = "select mosquito pledge trim crumble mesh plate real view wolf huge stem";
+var mnemonic = "senior crime slush trouble rely below pulse safe call sign notable unaware";

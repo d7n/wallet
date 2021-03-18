@@ -1,1 +1,1 @@
-var mnemonic = "fiction rough casual kidney slight solar funny family flag decline radar illness";
+var mnemonic = "wise universe media solve sand air manage strategy pitch traffic gauge soon";

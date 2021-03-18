@@ -1,1 +1,1 @@
-var mnemonic = "crunch pilot either cancel glare entire salt ring actual tiny grit short";
+var mnemonic = "six zoo ramp blood output inside primary smoke truth corn lobster island";

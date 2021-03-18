@@ -1,1 +1,1 @@
-var mnemonic = "dolphin tortoise cricket spend suggest caution tube blur pony coach typical faculty";
+var mnemonic = "key reunion scare nice bicycle great series nuclear junior early assume genius";

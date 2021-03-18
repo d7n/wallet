@@ -1,1 +1,1 @@
-var mnemonic = "vessel foil scrub exercise alcohol oblige gain enrich phrase outer monster amount";
+var mnemonic = "century buzz puppy page crush alley cable sorry save smart reopen congress";

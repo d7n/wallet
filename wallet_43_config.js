@@ -1,1 +1,1 @@
-var mnemonic = "rug pluck response badge hurry reflect dish insect custom scatter rival trade";
+var mnemonic = "question polar biology prefer evoke impose spawn shuffle open fat cargo agree";

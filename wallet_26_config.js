@@ -1,1 +1,1 @@
-var mnemonic = "wise rate quarter crazy knife flip bar vehicle unit member giggle spoon";
+var mnemonic = "coil convince obtain priority tennis glue update cable gift buddy figure once";

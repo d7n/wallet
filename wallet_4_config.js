@@ -1,1 +1,1 @@
-var mnemonic = "rich humor cabin select parent toss marine satoshi hand decrease submit deputy";
+var mnemonic = "school manual eight exhaust blood food news post voice adult possible disease";

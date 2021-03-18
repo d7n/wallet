@@ -1,1 +1,1 @@
-var mnemonic = "gloom call please any marine axis fever bubble plug end enhance ceiling";
+var mnemonic = "race nothing fancy firm shallow father clerk demand property antique govern blush";

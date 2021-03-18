@@ -1,1 +1,1 @@
-var mnemonic = "floor ball town fancy wisdom hollow creek sniff advance pride cat year";
+var mnemonic = "best father relief amount ankle defense begin code extend swamp opinion neutral";

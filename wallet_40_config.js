@@ -1,1 +1,1 @@
-var mnemonic = "unusual photo gold original giraffe ball afraid total fatigue about blade alien";
+var mnemonic = "close total ancient huge moon wealth hammer nurse burst equip embrace throw";

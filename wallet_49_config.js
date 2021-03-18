@@ -1,1 +1,1 @@
-var mnemonic = "surface opinion lizard broken butter code swamp naive feature pride trumpet require";
+var mnemonic = "copper garage breeze step language tower rabbit dice job december adjust spirit";

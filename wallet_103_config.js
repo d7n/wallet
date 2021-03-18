@@ -1,1 +1,1 @@
-var mnemonic = "brick shadow company mango upgrade symptom give stand vapor express afraid genuine";
+var mnemonic = "lake secret stadium prize dove address better crouch avoid session have doctor";

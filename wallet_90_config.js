@@ -1,1 +1,1 @@
-var mnemonic = "property loop return reunion document need vast flame valve urban define job";
+var mnemonic = "ripple mixed insect fine dress easily pride cactus canal disease cactus vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "throw display dust reopen merge ice actress clown similar slam hint suit";
+var mnemonic = "fix north boss duty mix remain fork fiction pepper trust catalog front";

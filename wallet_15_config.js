@@ -1,1 +1,1 @@
-var mnemonic = "indoor reopen wall twelve divide resource okay alpha couch foil window measure";
+var mnemonic = "defense rescue employ bridge real present furnace appear alcohol idle transfer garlic";

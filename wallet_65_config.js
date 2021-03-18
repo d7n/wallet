@@ -1,1 +1,1 @@
-var mnemonic = "deliver eagle tired figure joy will rocket toilet say raise cotton focus";
+var mnemonic = "blind slight stadium ship fatal regular someone deny pipe message roof wide";

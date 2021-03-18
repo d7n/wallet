@@ -1,1 +1,1 @@
-var mnemonic = "airport alien bullet elephant logic squirrel anchor trophy express rice chalk host";
+var mnemonic = "catch involve crumble slender goat release rain monkey sort palace nut ripple";

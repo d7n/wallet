@@ -1,1 +1,1 @@
-var mnemonic = "jacket since column emotion album mountain reduce pool guilt expose render soccer";
+var mnemonic = "drift possible motor grow wet elbow nose luggage ready seed fiscal denial";

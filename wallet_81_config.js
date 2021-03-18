@@ -1,1 +1,1 @@
-var mnemonic = "bag gym alter economy endless brief spoil river path drip economy broccoli";
+var mnemonic = "nose fossil goat aware stock razor voyage tent poet ugly eternal jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "barely abuse loud debate accident hospital lens pistol artist lobster term mesh";
+var mnemonic = "novel wire shoot lonely cancel drum wheel cereal retire clip again sense";

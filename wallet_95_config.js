@@ -1,1 +1,1 @@
-var mnemonic = "gospel razor feel tuna can call cradle life valid salon hub clerk";
+var mnemonic = "bicycle bus hazard sight squeeze any thing cream erode arena panel remove";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra talk protect shuffle label fluid vapor coconut wrestle rigid ridge struggle";
+var mnemonic = "sail account foot bone mention nephew ozone ball reduce knee palace primary";

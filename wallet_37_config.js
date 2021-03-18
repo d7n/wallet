@@ -1,1 +1,1 @@
-var mnemonic = "clown saddle east cook snow ability organ income blossom essence robot shadow";
+var mnemonic = "poem rigid service direct argue excuse crop labor hire tourist three weird";

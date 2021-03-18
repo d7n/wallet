@@ -1,1 +1,1 @@
-var mnemonic = "spawn north type away stomach shrug labor stock noodle neck decide inject";
+var mnemonic = "melody dove agree liberty valid blush conduct ensure faculty law renew insane";

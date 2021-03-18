@@ -1,1 +1,1 @@
-var mnemonic = "soul into venture lucky conduct ill beauty online flush exact inhale dolphin";
+var mnemonic = "play captain cool cycle visit tower slot retreat infant radio mean hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "song rail reason frown media peasant deputy lion soon convince walnut sort";
+var mnemonic = "ocean critic sense mechanic winner borrow height gesture double exercise height afford";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon bounce juice churn debate drink slender utility settle mesh clinic ticket";
+var mnemonic = "account what aerobic refuse elbow drum lion height anxiety shield share quote";

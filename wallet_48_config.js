@@ -1,1 +1,1 @@
-var mnemonic = "around silk lab chronic comic jealous degree morning merge smile pull dog";
+var mnemonic = "board snap thumb noodle dilemma mystery document trouble ill rose april person";

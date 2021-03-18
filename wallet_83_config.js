@@ -1,1 +1,1 @@
-var mnemonic = "roast delay little prosper crunch sheriff subject draft crazy demand render play";
+var mnemonic = "ripple robot cabin reveal rebuild spice arrow pause vacuum fashion spider pool";

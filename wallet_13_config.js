@@ -1,1 +1,1 @@
-var mnemonic = "transfer conduct coffee zero slow crazy deer raw position carbon like twelve";
+var mnemonic = "frequent sort fall original squeeze wish report during expect critic tired wire";

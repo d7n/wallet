@@ -1,1 +1,1 @@
-var mnemonic = "record scissors actor ability reflect equal field fame amount seed leaf goddess";
+var mnemonic = "proof spread smart trial citizen subject know neutral action quick twice echo";

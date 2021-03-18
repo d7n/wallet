@@ -1,1 +1,1 @@
-var mnemonic = "modify visual recycle bracket dumb reform fabric child copy slush layer tuition";
+var mnemonic = "sniff goose busy original thumb audit coconut patrol chapter stuff jelly museum";

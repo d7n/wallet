@@ -1,1 +1,1 @@
-var mnemonic = "obscure cactus plunge mad bracket renew will sibling rough chaos all spirit";
+var mnemonic = "female excess series project can nothing muffin fragile jar impulse pink nothing";

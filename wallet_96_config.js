@@ -1,1 +1,1 @@
-var mnemonic = "hollow rebuild service axis dismiss wheat episode video fly track gain stereo";
+var mnemonic = "theme shuffle will two express wagon combine senior mom culture farm leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "labor defense indicate rule weekend antique latin stairs sunset crack hand bright";
+var mnemonic = "alien place shed trap melt width news butter energy novel exact nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate when wisdom target cable print adult mosquito mom quick life affair";
+var mnemonic = "leader pelican already acoustic spider arrow honey candy switch social remind wasp";

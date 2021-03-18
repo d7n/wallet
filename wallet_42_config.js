@@ -1,1 +1,1 @@
-var mnemonic = "stand nasty digital stable faith donate latin banner pepper curve home suit";
+var mnemonic = "resource pulse crew rack report silent dizzy enjoy awake remember cool team";

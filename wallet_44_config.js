@@ -1,1 +1,1 @@
-var mnemonic = "lion upgrade turn coconut maximum can dice season odor gift link diary";
+var mnemonic = "cereal harbor giant neutral rebel couch obey sweet dice buddy violin good";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond whip stable bleak beauty morning earn hurdle pact surge bicycle faculty";
+var mnemonic = "radar defense human dismiss gauge into often zone slogan uniform brain warfare";

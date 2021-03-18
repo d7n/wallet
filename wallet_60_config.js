@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo small describe roast garage wisdom romance identify run project popular stomach";
+var mnemonic = "business victory arrange setup fashion boy clean purchase beach layer price brick";

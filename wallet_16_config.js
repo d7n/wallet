@@ -1,1 +1,1 @@
-var mnemonic = "device item dragon poet onion chat today wire shed wood urge edge";
+var mnemonic = "fashion delay mansion quarter worry vital rare abuse left valid ancient weather";

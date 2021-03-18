@@ -1,1 +1,1 @@
-var mnemonic = "agree crane decide donor velvet humble table fragile flat art game special";
+var mnemonic = "saddle argue little arrest raise sheriff decline story check involve announce gentle";

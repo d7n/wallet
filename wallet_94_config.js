@@ -1,1 +1,1 @@
-var mnemonic = "above cancel crazy rebuild original clerk gauge case write rural camp talk";
+var mnemonic = "jewel humble tube very inhale churn beef vehicle school negative blade token";

@@ -1,1 +1,1 @@
-var mnemonic = "thank grain acoustic clarify level push protect ahead zoo never hurry adult";
+var mnemonic = "trophy weird thought castle yellow habit enter pen trend group kangaroo bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "domain step culture employ oppose volcano tomorrow horse brother base fame school";
+var mnemonic = "maze tell amused police patrol cable grain denial glide priority access never";

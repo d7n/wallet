@@ -1,1 +1,1 @@
-var mnemonic = "spatial special aerobic nest depth gossip ketchup praise away mammal garlic youth";
+var mnemonic = "fortune beach record crash angry hub fish ice session drum music spatial";

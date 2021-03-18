@@ -1,1 +1,1 @@
-var mnemonic = "window payment weasel endorse transfer rich entry voyage trade vacuum wedding reunion";
+var mnemonic = "valid across view volume fox opera super explain alpha blame net thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "address battle visit tobacco skull scout boil nominee agent shed owner friend";
+var mnemonic = "false home sudden dose need possible blade monitor river canyon fatigue lazy";

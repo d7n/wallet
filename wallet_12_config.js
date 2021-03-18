@@ -1,1 +1,1 @@
-var mnemonic = "okay clinic pumpkin risk snake task dwarf loud welcome engine point away";
+var mnemonic = "glove guilt artefact crisp habit jungle design indoor demand van surge theme";

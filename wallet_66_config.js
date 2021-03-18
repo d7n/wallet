@@ -1,1 +1,1 @@
-var mnemonic = "tower unfold estate lottery fatigue diary forward embark camp entry develop animal";
+var mnemonic = "price avoid goat life extra window price scissors mountain credit diagram ocean";

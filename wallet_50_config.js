@@ -1,1 +1,1 @@
-var mnemonic = "autumn around cost relief energy office bounce bunker breeze giant critic virus";
+var mnemonic = "clay seven exist leg present kingdom stamp cruise crowd light sugar miss";

@@ -1,1 +1,1 @@
-var mnemonic = "bone arm goddess pet title thumb call siege lock already often choice";
+var mnemonic = "gaze river wood provide sibling vote patrol shoulder spatial lunch spring pair";

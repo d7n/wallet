@@ -1,1 +1,1 @@
-var mnemonic = "embark trouble noodle jump pepper mixed grid voyage double weapon year various";
+var mnemonic = "decade vacuum dizzy badge exit kick pilot fluid palm hurdle element found";

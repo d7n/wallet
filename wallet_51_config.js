@@ -1,1 +1,1 @@
-var mnemonic = "truly client floor adapt isolate project attend main wine powder bike sunset";
+var mnemonic = "physical humor winter review average animal wave host eyebrow silly possible joy";

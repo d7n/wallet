@@ -1,1 +1,1 @@
-var mnemonic = "biology agree goat taste course level cactus anchor denial penalty venue throw";
+var mnemonic = "current novel yellow want kangaroo deliver wool key control dream offer tool";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin company drip interest cheese shock approve cereal chef cactus creek social";
+var mnemonic = "rival aspect sadness elder feed bridge neglect tunnel frozen kit nominee ice";

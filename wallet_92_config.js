@@ -1,1 +1,1 @@
-var mnemonic = "tooth parrot meat talent toss cash fix cloth live slight flush whale";
+var mnemonic = "swing dentist height shell earth view output satoshi orbit abuse slush west";

@@ -1,1 +1,1 @@
-var mnemonic = "wait ripple around kitten normal toy initial cotton monster oak random balcony";
+var mnemonic = "pitch direct aerobic blouse kiwi defense skull company memory change afford canvas";

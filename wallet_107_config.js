@@ -1,1 +1,1 @@
-var mnemonic = "slight excuse noise leave stick salon surprise bacon member move better swamp";
+var mnemonic = "erosion evoke noodle sting enact polar thank crucial tube gift chalk gossip";

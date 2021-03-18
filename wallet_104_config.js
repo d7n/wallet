@@ -1,1 +1,1 @@
-var mnemonic = "critic carpet dinosaur govern tower visual maid dilemma unveil cushion urban vague";
+var mnemonic = "argue couch turtle muffin edit offer august minimum gown nothing loyal clown";

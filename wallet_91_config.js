@@ -1,1 +1,1 @@
-var mnemonic = "dad fresh squirrel orbit garbage miss scrub cluster soda fever width fabric";
+var mnemonic = "trap never skin success glow donate fruit width raw brisk bag fiber";

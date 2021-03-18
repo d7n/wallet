@@ -1,1 +1,1 @@
-var mnemonic = "august sleep song umbrella symptom peasant hurdle settle clay entire trash unlock";
+var mnemonic = "person parade bunker fabric harvest logic order armor weird vacuum humble gas";

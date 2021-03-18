@@ -1,1 +1,1 @@
-var mnemonic = "oven middle thunder will disagree online want remind elite bone butter maid";
+var mnemonic = "soul disagree drastic cycle exist guitar gravity attract riot budget bronze afford";

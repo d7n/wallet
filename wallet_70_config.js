@@ -1,1 +1,1 @@
-var mnemonic = "glove unhappy genre fat treat muffin measure size wing club defense inmate";
+var mnemonic = "carbon multiply hospital hip rival answer hammer beauty cage task three attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "gown author flower potato extend order divorce joy route fragile defy eight";
+var mnemonic = "reflect aware side govern awesome genre cook resource spy spoil latin hotel";

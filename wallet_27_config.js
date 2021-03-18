@@ -1,1 +1,1 @@
-var mnemonic = "wise divert gaze kiwi skate apology good sunny jazz tennis decrease drop";
+var mnemonic = "enjoy mail mask will open toilet like assist ten merge trouble glide";

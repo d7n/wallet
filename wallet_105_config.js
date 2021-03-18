@@ -1,1 +1,1 @@
-var mnemonic = "tired royal isolate frequent captain chaos marble rifle mansion accident produce live";
+var mnemonic = "custom human chef fuel awesome celery rain million dish track hen resemble";

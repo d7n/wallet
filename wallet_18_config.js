@@ -1,1 +1,1 @@
-var mnemonic = "dawn hello client furnace addict wild normal drift rigid alone grit primary";
+var mnemonic = "beyond flat cable absurd print reject critic liquid planet eyebrow toast symbol";

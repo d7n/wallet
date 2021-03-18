@@ -1,1 +1,1 @@
-var mnemonic = "jungle pulp kit beach energy moon coin infant flame act tube divorce";
+var mnemonic = "inquiry purchase mixed pitch distance slim turkey toy short tray praise bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "skin army grief bread gather armed loud uphold staff increase office sadness";
+var mnemonic = "move patrol memory false winner amateur emerge sugar addict project soldier lock";
