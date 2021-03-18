@@ -1,1 +1,1 @@
-var mnemonic = "electric rigid inquiry violin cabin double sauce truly explain print settle cost";
+var mnemonic = "estate digital foot lucky artist coconut vehicle wait current release code chef";

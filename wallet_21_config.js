@@ -1,1 +1,1 @@
-var mnemonic = "tobacco eye sock radar alter level solve long pull weird scatter claim";
+var mnemonic = "seek humor original demand carpet top curious extend flavor voyage catalog pen";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket father expand ginger better spell alpha banner cricket primary keen reason";
+var mnemonic = "video crush angle body pelican mix calm goddess gasp obtain random mechanic";

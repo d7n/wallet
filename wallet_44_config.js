@@ -1,1 +1,1 @@
-var mnemonic = "naive either stock require kid quality bar worth dune upon drive series";
+var mnemonic = "ticket ball improve boat monitor pilot near coil educate squeeze traffic stairs";

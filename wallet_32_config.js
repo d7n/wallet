@@ -1,1 +1,1 @@
-var mnemonic = "easy undo fan kid filter faith grief hidden peasant skate sketch physical";
+var mnemonic = "hotel bacon exercise casino advice immense gossip sister air banner save web";

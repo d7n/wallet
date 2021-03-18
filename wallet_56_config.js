@@ -1,1 +1,1 @@
-var mnemonic = "bright salt catalog eyebrow unique insane lend long lock comfort bounce slow";
+var mnemonic = "critic code shine need kitten pond taste ten gain bind record lemon";

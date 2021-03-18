@@ -1,1 +1,1 @@
-var mnemonic = "copy couple balance kiss air energy daughter powder ridge reason observe journey";
+var mnemonic = "fit try museum wrestle marriage robust heart hungry citizen twice betray alert";

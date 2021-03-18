@@ -1,1 +1,1 @@
-var mnemonic = "path popular jeans hurt dial film miss absorb spare symptom once security";
+var mnemonic = "soap crystal release envelope spatial extend arm waste fever movie side opinion";

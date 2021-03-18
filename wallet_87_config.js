@@ -1,1 +1,1 @@
-var mnemonic = "isolate museum analyst jacket mercy penalty marriage today honey circle pulp huge";
+var mnemonic = "angry virtual pause solution consider blush claw vacant permit gadget sun client";

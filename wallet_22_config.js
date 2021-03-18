@@ -1,1 +1,1 @@
-var mnemonic = "damage horn obey used awful grape demand kite master license blind cave";
+var mnemonic = "rough title nominee pistol praise tilt sweet adjust motion tobacco wolf spirit";

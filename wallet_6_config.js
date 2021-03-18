@@ -1,1 +1,1 @@
-var mnemonic = "expect come mesh enrich right cage doll spell dinosaur rocket wise barely";
+var mnemonic = "left purpose scale since payment measure early tribe rotate sail strike true";

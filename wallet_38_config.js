@@ -1,1 +1,1 @@
-var mnemonic = "shine meat mass arrive pledge broccoli urge tenant roast group output change";
+var mnemonic = "extend life cream amused rebel draw material company vintage play mouse code";

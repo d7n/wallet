@@ -1,1 +1,1 @@
-var mnemonic = "wrap book flat salon distance good mail elbow museum lazy gadget bridge";
+var mnemonic = "anchor essence because neck satoshi angry velvet clever young duck exercise lock";

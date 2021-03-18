@@ -1,1 +1,1 @@
-var mnemonic = "speed label improve clutch fault analyst misery offer area fortune swim derive";
+var mnemonic = "brother labor festival rack remember mechanic recipe satisfy surround enroll buyer daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "record permit forward text way clarify group toward tornado rose belt drift";
+var mnemonic = "mind army sweet envelope fat agent cruel above chalk boil equal risk";

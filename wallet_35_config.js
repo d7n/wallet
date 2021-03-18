@@ -1,1 +1,1 @@
-var mnemonic = "circle visa rent call ridge portion cereal more gold concert globe risk";
+var mnemonic = "pride reduce emerge prefer swift cement baby cheap proud blade model fitness";

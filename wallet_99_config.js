@@ -1,1 +1,1 @@
-var mnemonic = "diagram defy captain trick regret wine envelope antenna predict glad pilot become";
+var mnemonic = "reject acid antenna cube always border unfair silver off girl moral upset";

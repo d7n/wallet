@@ -1,1 +1,1 @@
-var mnemonic = "coil stage leg shadow false guitar kick invest egg hamster trash retire";
+var mnemonic = "salt smoke mother fork noise color cluster noble logic crash taste famous";

@@ -1,1 +1,1 @@
-var mnemonic = "knock car try dinosaur clay loan milk barely swing note road castle";
+var mnemonic = "quantum debate spray tail river jar much boil siren exclude motor adult";

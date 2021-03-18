@@ -1,1 +1,1 @@
-var mnemonic = "mail grid dismiss interest box topic night what cheese episode veteran fiction";
+var mnemonic = "prize narrow absorb van access bike modify banner dignity speed grocery immune";

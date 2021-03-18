@@ -1,1 +1,1 @@
-var mnemonic = "enroll learn potato deposit also city object climb ancient tide play tumble";
+var mnemonic = "mask thumb ring deer avoid what napkin ice uphold wire weapon discover";

@@ -1,1 +1,1 @@
-var mnemonic = "able pill ginger retire oven film cinnamon adult jar aerobic fuel intact";
+var mnemonic = "turtle bag wool book virus dish critic sense dutch motion salon fuel";

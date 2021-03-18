@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo vague conduct used dizzy walnut airport fiber clay bronze blind pig";
+var mnemonic = "jar stamp primary common fiber chief stomach energy still rural shock detail";

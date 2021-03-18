@@ -1,1 +1,1 @@
-var mnemonic = "song gravity rigid neglect diesel fix elder deliver matrix mouse dawn express";
+var mnemonic = "device baby harbor mistake solid episode outdoor glass entry grief fox cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "engage between dismiss shield trouble army then weird defense century border south";
+var mnemonic = "bunker chat uncle sting rally inherit knock nothing rebuild frame toward gadget";

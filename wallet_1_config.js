@@ -1,1 +1,1 @@
-var mnemonic = "wheel upon then decrease jealous wealth glide nation surround bonus mango pride";
+var mnemonic = "talk forest stamp lab collect twelve amused salute purpose only dinner space";

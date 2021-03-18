@@ -1,1 +1,1 @@
-var mnemonic = "wife idle oak absorb nest alert dismiss youth tooth error entire barrel";
+var mnemonic = "vital source piece move fiber deliver wide kid cost adult innocent music";

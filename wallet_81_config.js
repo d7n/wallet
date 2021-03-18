@@ -1,1 +1,1 @@
-var mnemonic = "crumble gym soldier time romance army path blind pepper sword holiday crew";
+var mnemonic = "rebel quality major load project cake island vocal trip sweet uniform grief";

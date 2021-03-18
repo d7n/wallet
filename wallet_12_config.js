@@ -1,1 +1,1 @@
-var mnemonic = "cradle easy scheme buddy step morning guess glory lunch whale aspect enhance";
+var mnemonic = "slot render bleak capable elbow talent drink shoot stay bronze intact mass";

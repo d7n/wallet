@@ -1,1 +1,1 @@
-var mnemonic = "survey strong solid prevent slow topple jaguar antenna wine among almost message";
+var mnemonic = "mammal butter road leg high cluster into tomato injury demand protect beef";

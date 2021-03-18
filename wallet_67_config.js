@@ -1,1 +1,1 @@
-var mnemonic = "word crouch brisk grief adapt jacket visit reduce shine oil coconut random";
+var mnemonic = "boost sense few ghost dinner sense vast prison divide olympic tent either";

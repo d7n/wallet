@@ -1,1 +1,1 @@
-var mnemonic = "infant easy patch lunch scale attack note clip address timber video similar";
+var mnemonic = "fat vacant absorb dragon eye clap lend sausage bar drive notice crash";

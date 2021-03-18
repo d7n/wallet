@@ -1,1 +1,1 @@
-var mnemonic = "crop renew wash tribe pencil rally moon already clock skate news drama";
+var mnemonic = "symptom treat identify spread gossip phrase all hair loud cage neglect oyster";

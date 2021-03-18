@@ -1,1 +1,1 @@
-var mnemonic = "verify junk success industry yard render embrace habit brain panic damage bracket";
+var mnemonic = "among all brisk material slot ketchup knock present various shrimp plastic atom";

@@ -1,1 +1,1 @@
-var mnemonic = "worth avocado slide color cabin spatial recall mad edit tank connect reason";
+var mnemonic = "unique ugly issue glare butter help beef noodle can eight drink cash";

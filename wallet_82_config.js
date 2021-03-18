@@ -1,1 +1,1 @@
-var mnemonic = "crucial engage group fly deer recipe bone sibling base addict gossip pretty";
+var mnemonic = "banana disagree primary urge antenna teach topic giant world liquid hammer drink";

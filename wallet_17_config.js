@@ -1,1 +1,1 @@
-var mnemonic = "soul bullet sleep holiday era rich equip equal priority edit arrange fatal";
+var mnemonic = "door expand urban mention pony dream virus chicken copy exercise ability increase";

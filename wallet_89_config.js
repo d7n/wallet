@@ -1,1 +1,1 @@
-var mnemonic = "aware admit mosquito strike immense unknown path clerk job season used excite";
+var mnemonic = "oblige wall grocery rough lens guard speak prize aware town forum laugh";

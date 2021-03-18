@@ -1,1 +1,1 @@
-var mnemonic = "jungle nurse cluster wheat coach nation wise better fabric shop orchard dirt";
+var mnemonic = "crisp differ wash minor innocent there cloth kiwi blossom life amazing sign";

@@ -1,1 +1,1 @@
-var mnemonic = "museum shed metal orbit capital position easy easy melody phrase excite father";
+var mnemonic = "void novel hole witness school swift express old lady evolve cool bachelor";

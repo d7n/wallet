@@ -1,1 +1,1 @@
-var mnemonic = "surge zebra rubber purchase chat acid garage afford pencil peace enough gravity";
+var mnemonic = "bachelor jelly meat chaos trend fault shoot attack guard fold nest legend";

@@ -1,1 +1,1 @@
-var mnemonic = "group trophy party swim arctic mean kick smoke embrace believe jar season";
+var mnemonic = "protect fringe consider fiscal swap unlock lemon floor find civil boat use";

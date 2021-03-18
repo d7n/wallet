@@ -1,1 +1,1 @@
-var mnemonic = "summer paper amused promote embody slot meadow sheriff delay order devote section";
+var mnemonic = "muscle giraffe cave wing fat fruit absorb stock notice decrease stumble depend";

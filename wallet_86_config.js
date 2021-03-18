@@ -1,1 +1,1 @@
-var mnemonic = "wild pulp pave toilet spoon busy jewel embody banana panther bottom sunset";
+var mnemonic = "true inmate spatial alone rug click yard defense inherit rude summer bone";

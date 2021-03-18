@@ -1,1 +1,1 @@
-var mnemonic = "mix dinosaur stumble output disagree kingdom idle garbage lawn elevator any school";
+var mnemonic = "ordinary couple wife promote tone lawsuit stand purse anger make casual enlist";

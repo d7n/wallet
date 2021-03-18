@@ -1,1 +1,1 @@
-var mnemonic = "royal miss word ahead save seat lucky achieve laptop truck valve faint";
+var mnemonic = "later lunch tribe brief anxiety enact detail nephew unable month sign object";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans neglect hip manage abuse cheap vessel luggage around learn asset child";
+var mnemonic = "purchase parrot sweet spell clap celery rifle romance alien nation stock mobile";

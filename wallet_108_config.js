@@ -1,1 +1,1 @@
-var mnemonic = "other extend crime carry rare helmet frozen place kit aim weird upper";
+var mnemonic = "govern market swear camp shift note write public kitchen warm sunset track";

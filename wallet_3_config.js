@@ -1,1 +1,1 @@
-var mnemonic = "chalk middle inflict smoke ketchup snack meat shock alley husband federal trim";
+var mnemonic = "warm arrange sugar federal coffee shove pride throw trigger wall summer whisper";

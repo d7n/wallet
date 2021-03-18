@@ -1,1 +1,1 @@
-var mnemonic = "foam satisfy mother crew wild vacuum mirror kangaroo minor side nut jelly";
+var mnemonic = "veteran better glory crunch decline uncle cement obey cabbage swarm all gate";

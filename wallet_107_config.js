@@ -1,1 +1,1 @@
-var mnemonic = "faculty ill deny memory price fog trip bleak someone under another pass";
+var mnemonic = "change science hurry patrol primary upgrade welcome mimic punch hospital roof dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy general canoe curtain swap festival climb humble exotic blue adapt toy";
+var mnemonic = "common flavor method dice brick access audit cloud school box genre bike";

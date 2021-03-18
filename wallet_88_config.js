@@ -1,1 +1,1 @@
-var mnemonic = "custom into turtle minimum possible village measure morning situate awake where about";
+var mnemonic = "feed shadow scheme visual pizza margin mountain health foam club exist tired";

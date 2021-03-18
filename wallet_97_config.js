@@ -1,1 +1,1 @@
-var mnemonic = "outside habit series soul swap combine learn kitten lazy defy assume vicious";
+var mnemonic = "discover walnut truth select type boil nominee absent guess original armed thumb";

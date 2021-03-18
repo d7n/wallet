@@ -1,1 +1,1 @@
-var mnemonic = "senior congress champion omit square absurd dose ranch base bench produce cherry";
+var mnemonic = "fresh keep coin glue foam cloth asset rescue then trophy weekend tool";

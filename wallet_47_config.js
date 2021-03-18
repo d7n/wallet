@@ -1,1 +1,1 @@
-var mnemonic = "manual fine spare degree suggest visa age swim defy corn vessel unlock";
+var mnemonic = "exotic language proof blind shadow scheme lend festival crystal blush agent pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "okay endorse virtual allow garbage estate comic dwarf powder wall catch leave";
+var mnemonic = "pepper lamp recycle lazy grief section edit cup bulk plastic know assist";

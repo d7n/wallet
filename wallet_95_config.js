@@ -1,1 +1,1 @@
-var mnemonic = "hole silk lecture space spread siege please humor fly column weasel act";
+var mnemonic = "cart snack hedgehog grunt abstract like guess unhappy fluid nut cute decide";

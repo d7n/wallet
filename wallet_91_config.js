@@ -1,1 +1,1 @@
-var mnemonic = "weasel any eight alpha page fix peasant ten duty despair unhappy reward";
+var mnemonic = "thunder news find minimum ridge apology portion couple still nice lunar screen";

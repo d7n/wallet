@@ -1,1 +1,1 @@
-var mnemonic = "twelve oppose gate social glide promote broom prosper library balcony plastic draft";
+var mnemonic = "reveal vapor hole crunch radio favorite donor liquid album want length whale";

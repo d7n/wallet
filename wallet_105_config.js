@@ -1,1 +1,1 @@
-var mnemonic = "security enemy wire fragile plunge source cotton expire insane leg bamboo fatal";
+var mnemonic = "prison lawsuit wisdom lumber digital awake sauce aisle obvious renew lens hire";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom jelly wreck duty camera fragile earn turn reason morning garage capable";
+var mnemonic = "solar service coyote ritual casual scene pattern illegal forum wage wonder allow";

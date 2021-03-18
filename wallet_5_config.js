@@ -1,1 +1,1 @@
-var mnemonic = "color speak steel bacon remember trade blush wheel afraid fall sister remove";
+var mnemonic = "tree seek service garment mention labor apology private catch reunion tell antique";

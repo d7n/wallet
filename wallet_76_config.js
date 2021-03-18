@@ -1,1 +1,1 @@
-var mnemonic = "fiscal attend purpose grape twelve video length survey smoke conduct burger level";
+var mnemonic = "oil bulk fetch brown rifle since habit meadow brown club glance cluster";

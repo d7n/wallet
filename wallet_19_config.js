@@ -1,1 +1,1 @@
-var mnemonic = "female zone good key train family scrub dwarf arctic online phone average";
+var mnemonic = "stick secret practice winner trophy civil faint figure buffalo uncle unfair pudding";

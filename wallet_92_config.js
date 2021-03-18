@@ -1,1 +1,1 @@
-var mnemonic = "nuclear future run spawn estate entry bike smooth identify program flat hammer";
+var mnemonic = "awesome pluck primary symbol salute fury apart dish evolve cheap extra allow";

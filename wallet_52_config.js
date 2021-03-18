@@ -1,1 +1,1 @@
-var mnemonic = "convince fluid refuse narrow possible unit caught manual oil know minute mesh";
+var mnemonic = "only program hundred sponsor venue point subject swing midnight reflect reform middle";

@@ -1,1 +1,1 @@
-var mnemonic = "tower laptop praise blast connect wish suspect ill wait prefer chunk faculty";
+var mnemonic = "risk ridge clever hockey pumpkin ship organ clinic away person spend spin";

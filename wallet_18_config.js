@@ -1,1 +1,1 @@
-var mnemonic = "cluster warm scissors plastic pull double patient scare speed silent sport diary";
+var mnemonic = "trim combine abstract point tuition tent episode concert grab rocket excite connect";

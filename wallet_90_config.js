@@ -1,1 +1,1 @@
-var mnemonic = "copper meat room fold vivid stay sugar obey rule pride caution prefer";
+var mnemonic = "taxi defy task jaguar jewel interest buffalo answer hat asset word artist";

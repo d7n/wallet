@@ -1,1 +1,1 @@
-var mnemonic = "law crouch globe swear offer ripple swarm dress bind sea father luggage";
+var mnemonic = "tackle joke video false trade village unaware annual pave wash gossip alarm";

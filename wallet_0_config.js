@@ -1,1 +1,1 @@
-var mnemonic = "home total desert sausage seek accuse rather siren sun dizzy obtain swim";
+var mnemonic = "bench carbon indoor bird finger pioneer south easy false travel sketch rice";

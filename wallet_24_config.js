@@ -1,1 +1,1 @@
-var mnemonic = "sleep garden accuse position drift thunder pottery grid joke require place balcony";
+var mnemonic = "earn decide soldier final mom relief cost motor next decade recycle youth";

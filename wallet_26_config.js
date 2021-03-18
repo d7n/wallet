@@ -1,1 +1,1 @@
-var mnemonic = "zebra glimpse panel caution gorilla gauge birth melody void raise smooth crew";
+var mnemonic = "lottery fault milk marine pass eye innocent waste burden mad mirror ivory";

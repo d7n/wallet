@@ -1,1 +1,1 @@
-var mnemonic = "borrow diamond winner salt song used pass siege grit wash tortoise faith";
+var mnemonic = "sure captain rescue mother village general smile toe give industry wolf moral";

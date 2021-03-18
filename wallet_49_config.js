@@ -1,1 +1,1 @@
-var mnemonic = "endorse miracle bullet slide foot slab banner equip metal farm where adult";
+var mnemonic = "abuse cream turtle range blood gauge can age refuse trouble usual explain";

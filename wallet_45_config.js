@@ -1,1 +1,1 @@
-var mnemonic = "position lizard lobster swing wheel airport spread radio wave rib duty involve";
+var mnemonic = "shoe final mixed safe debris rally october galaxy evidence any cancel garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "romance vicious present benefit power iron warrior cigar inject usage scene update";
+var mnemonic = "latin lift firm oxygen base idle brush ozone detect narrow pond judge";

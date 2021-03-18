@@ -1,1 +1,1 @@
-var mnemonic = "work wheat economy clump outer say pool limit squeeze obey distance ticket";
+var mnemonic = "confirm jelly crouch night cat over quality field craft ketchup veteran enemy";

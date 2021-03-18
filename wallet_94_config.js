@@ -1,1 +1,1 @@
-var mnemonic = "found flip season comfort intact knee story need purity drama pioneer estate";
+var mnemonic = "cabin drum asthma develop sample person bleak remind fence ball army never";

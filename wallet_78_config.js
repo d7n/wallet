@@ -1,1 +1,1 @@
-var mnemonic = "sustain awful basket segment gaze eternal also ticket identify debate panic strike";
+var mnemonic = "midnight extend autumn warfare economy begin pass false office foot stairs faith";

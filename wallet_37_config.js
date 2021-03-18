@@ -1,1 +1,1 @@
-var mnemonic = "stumble meadow divide spend solution scrub cabin junk muffin often accident fiber";
+var mnemonic = "victory gorilla hip achieve cute athlete wisdom congress sister pen evidence enroll";

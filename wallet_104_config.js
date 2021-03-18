@@ -1,1 +1,1 @@
-var mnemonic = "bitter coast relax scale rice moral vanish cupboard antenna ski shoulder future";
+var mnemonic = "ribbon blame else crop fade rescue food tent curious treat hungry demand";

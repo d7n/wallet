@@ -1,1 +1,1 @@
-var mnemonic = "diamond wrestle step ensure cereal merit pride oil segment fatal loyal flip";
+var mnemonic = "museum trip news forget switch sight execute crouch mouse sunny claim deliver";

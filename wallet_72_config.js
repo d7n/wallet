@@ -1,1 +1,1 @@
-var mnemonic = "bird parade tourist patrol copper enlist damp coral season payment subject march";
+var mnemonic = "multiply fuel scissors area black safe mask weekend blast silk thank six";

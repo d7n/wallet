@@ -1,1 +1,1 @@
-var mnemonic = "enter furnace round law cream frequent change ensure front time sell stuff";
+var mnemonic = "damp film like quiz tool favorite supreme indoor maze father sign cat";
