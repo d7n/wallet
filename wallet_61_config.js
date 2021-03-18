@@ -1,1 +1,1 @@
-var mnemonic = "bridge maze this recipe catalog ripple pulse light blue change become staff";
+var mnemonic = "space between brief wrist tribe orient inquiry fee erode hello around edge";

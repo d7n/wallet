@@ -1,1 +1,1 @@
-var mnemonic = "account what aerobic refuse elbow drum lion height anxiety shield share quote";
+var mnemonic = "auto conduct fever large exotic gas before decrease art canal wish genre";

@@ -1,1 +1,1 @@
-var mnemonic = "best father relief amount ankle defense begin code extend swamp opinion neutral";
+var mnemonic = "force borrow century shrimp protect deny stock give result frozen coral blossom";

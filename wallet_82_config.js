@@ -1,1 +1,1 @@
-var mnemonic = "unit stairs table way now couch average place smoke purchase opinion sing";
+var mnemonic = "milk toddler stomach pencil street alert pulse normal illegal future exist amount";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder need gentle radio wisdom proof sting omit sand school learn calm";
+var mnemonic = "fabric radar scissors humble keen client picnic disorder plunge body jazz cotton";

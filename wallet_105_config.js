@@ -1,1 +1,1 @@
-var mnemonic = "custom human chef fuel awesome celery rain million dish track hen resemble";
+var mnemonic = "crater potato olympic foster law hurry project flavor target marine artefact trust";

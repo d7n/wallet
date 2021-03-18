@@ -1,1 +1,1 @@
-var mnemonic = "novel wire shoot lonely cancel drum wheel cereal retire clip again sense";
+var mnemonic = "key educate click evidence more punch vote lottery verify insane pause gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "person parade bunker fabric harvest logic order armor weird vacuum humble gas";
+var mnemonic = "snack desert eagle shadow just fun nerve shock path pelican damp letter";

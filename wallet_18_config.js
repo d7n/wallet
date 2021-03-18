@@ -1,1 +1,1 @@
-var mnemonic = "beyond flat cable absurd print reject critic liquid planet eyebrow toast symbol";
+var mnemonic = "ramp motion board bike ethics timber settle legend middle order expire market";

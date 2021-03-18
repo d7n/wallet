@@ -1,1 +1,1 @@
-var mnemonic = "decade vacuum dizzy badge exit kick pilot fluid palm hurdle element found";
+var mnemonic = "normal month have orange vibrant leopard apart envelope avoid nation impose solution";

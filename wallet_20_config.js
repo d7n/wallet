@@ -1,1 +1,1 @@
-var mnemonic = "pitch direct aerobic blouse kiwi defense skull company memory change afford canvas";
+var mnemonic = "blade gather state alert black chicken city author camera drop expose hello";

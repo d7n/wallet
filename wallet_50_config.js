@@ -1,1 +1,1 @@
-var mnemonic = "clay seven exist leg present kingdom stamp cruise crowd light sugar miss";
+var mnemonic = "subject talk pudding mixed strategy cruise leopard recipe suffer fine copper right";

@@ -1,1 +1,1 @@
-var mnemonic = "nose fossil goat aware stock razor voyage tent poet ugly eternal jazz";
+var mnemonic = "upset change negative legend about code coyote rotate tree pluck pencil unique";

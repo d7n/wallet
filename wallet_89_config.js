@@ -1,1 +1,1 @@
-var mnemonic = "acquire winner tonight panel wire core gate lift knife alcohol mechanic hunt";
+var mnemonic = "cancel chimney fuel marine estate switch exercise seminar bachelor desert cute furnace";

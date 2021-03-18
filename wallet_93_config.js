@@ -1,1 +1,1 @@
-var mnemonic = "opinion trust release unit pig fix awkward hood win never derive stay";
+var mnemonic = "sport ready tool police enter vessel engine any edit woman reduce wrong";

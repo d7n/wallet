@@ -1,1 +1,1 @@
-var mnemonic = "price avoid goat life extra window price scissors mountain credit diagram ocean";
+var mnemonic = "october canyon reward empty day misery source sustain there that faculty pigeon";

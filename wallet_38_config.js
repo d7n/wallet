@@ -1,1 +1,1 @@
-var mnemonic = "current novel yellow want kangaroo deliver wool key control dream offer tool";
+var mnemonic = "ankle argue quality topple join elder weapon video improve turn candy general";

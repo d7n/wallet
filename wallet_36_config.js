@@ -1,1 +1,1 @@
-var mnemonic = "gaze river wood provide sibling vote patrol shoulder spatial lunch spring pair";
+var mnemonic = "panic middle opinion deliver whisper rose genius acquire violin hungry improve black";

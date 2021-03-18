@@ -1,1 +1,1 @@
-var mnemonic = "ripple mixed insect fine dress easily pride cactus canal disease cactus vanish";
+var mnemonic = "over bean will path illness trim town gain twice travel daughter tackle";

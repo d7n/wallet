@@ -1,1 +1,1 @@
-var mnemonic = "wall coach frame reveal brick degree drastic genius town blush artist term";
+var mnemonic = "say ladder jungle series unusual pitch spread spray target dress reject random";

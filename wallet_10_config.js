@@ -1,1 +1,1 @@
-var mnemonic = "fortune beach record crash angry hub fish ice session drum music spatial";
+var mnemonic = "ahead bicycle pitch cloth clinic artist end make sing axis sunset obscure";

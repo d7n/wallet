@@ -1,1 +1,1 @@
-var mnemonic = "key reunion scare nice bicycle great series nuclear junior early assume genius";
+var mnemonic = "already daughter gossip current expect analyst away endless oblige episode crumble visa";

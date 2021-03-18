@@ -1,1 +1,1 @@
-var mnemonic = "random roof forum clap cactus trust eight domain noble improve model uniform";
+var mnemonic = "kiwi bone invest lava buyer omit public device dinner gravity useless brisk";

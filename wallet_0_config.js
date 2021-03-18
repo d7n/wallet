@@ -1,1 +1,1 @@
-var mnemonic = "warfare royal universe twist host sun legal twice feel sting galaxy loan";
+var mnemonic = "brave flavor render special alien unfair hurt about blue strong slim involve";

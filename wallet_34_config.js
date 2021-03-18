@@ -1,1 +1,1 @@
-var mnemonic = "senior crime slush trouble rely below pulse safe call sign notable unaware";
+var mnemonic = "cheese trust eternal mosquito lecture act salute coffee ability wise gift teach";

@@ -1,1 +1,1 @@
-var mnemonic = "drift possible motor grow wet elbow nose luggage ready seed fiscal denial";
+var mnemonic = "dwarf remain hire claw pyramid gather flock pitch able maximum science churn";

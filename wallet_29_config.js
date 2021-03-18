@@ -1,1 +1,1 @@
-var mnemonic = "alien place shed trap melt width news butter energy novel exact nasty";
+var mnemonic = "silk boring pet one crisp lemon daring piece cigar party mechanic ginger";

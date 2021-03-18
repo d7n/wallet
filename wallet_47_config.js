@@ -1,1 +1,1 @@
-var mnemonic = "broom kick noise purity layer ugly ladder inmate easy thought supreme fly";
+var mnemonic = "about champion street forward mandate tent young sniff advice dish spring orphan";

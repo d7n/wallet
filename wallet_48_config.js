@@ -1,1 +1,1 @@
-var mnemonic = "board snap thumb noodle dilemma mystery document trouble ill rose april person";
+var mnemonic = "arena turn remove bamboo whale hair arrange wave stone search honey slice";

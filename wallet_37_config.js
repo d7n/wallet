@@ -1,1 +1,1 @@
-var mnemonic = "poem rigid service direct argue excuse crop labor hire tourist three weird";
+var mnemonic = "hamster duty chimney glory bread pizza host ski problem flag admit relax";

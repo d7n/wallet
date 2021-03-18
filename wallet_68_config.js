@@ -1,1 +1,1 @@
-var mnemonic = "fix north boss duty mix remain fork fiction pepper trust catalog front";
+var mnemonic = "forest seed race idea real enact core figure clinic filter calm strategy";

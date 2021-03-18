@@ -1,1 +1,1 @@
-var mnemonic = "resource pulse crew rack report silent dizzy enjoy awake remember cool team";
+var mnemonic = "estate sheriff uncover tonight skate steel sphere series palm reveal ceiling butter";

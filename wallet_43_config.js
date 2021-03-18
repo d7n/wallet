@@ -1,1 +1,1 @@
-var mnemonic = "question polar biology prefer evoke impose spawn shuffle open fat cargo agree";
+var mnemonic = "proof casino enhance maximum method boring lecture leg gather action team elephant";

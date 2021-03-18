@@ -1,1 +1,1 @@
-var mnemonic = "ladder tissue cup arrow clutch rival bag vanish chunk cereal candy primary";
+var mnemonic = "carpet blood squirrel cash lamp success learn amazing ethics unable fly avocado";

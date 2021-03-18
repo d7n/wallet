@@ -1,1 +1,1 @@
-var mnemonic = "female excess series project can nothing muffin fragile jar impulse pink nothing";
+var mnemonic = "hazard repeat report fringe bird library yellow border conduct expand decade furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle argue little arrest raise sheriff decline story check involve announce gentle";
+var mnemonic = "wire seek earn six later pen run case eager want thing together";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat curtain trend diamond crouch trim cricket cause bargain charge donor route";
+var mnemonic = "rural october clutch dumb isolate stable result permit stairs thrive sketch brown";

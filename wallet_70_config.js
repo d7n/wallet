@@ -1,1 +1,1 @@
-var mnemonic = "carbon multiply hospital hip rival answer hammer beauty cage task three attitude";
+var mnemonic = "fatal define under ethics waste round return current craft various miss payment";

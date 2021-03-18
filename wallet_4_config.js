@@ -1,1 +1,1 @@
-var mnemonic = "school manual eight exhaust blood food news post voice adult possible disease";
+var mnemonic = "brisk there equip ivory accuse catalog used vicious tent tank blast access";

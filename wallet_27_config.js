@@ -1,1 +1,1 @@
-var mnemonic = "enjoy mail mask will open toilet like assist ten merge trouble glide";
+var mnemonic = "try biology jump goddess jacket very artwork sound ignore volcano glory globe";

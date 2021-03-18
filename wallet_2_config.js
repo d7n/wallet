@@ -1,1 +1,1 @@
-var mnemonic = "catch involve crumble slender goat release rain monkey sort palace nut ripple";
+var mnemonic = "whale field weather nuclear under snow evolve castle purse repeat wise satisfy";

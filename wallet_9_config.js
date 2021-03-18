@@ -1,1 +1,1 @@
-var mnemonic = "century buzz puppy page crush alley cable sorry save smart reopen congress";
+var mnemonic = "genuine basic start clever unaware jazz century spawn salute belt shoe service";

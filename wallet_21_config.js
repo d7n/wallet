@@ -1,1 +1,1 @@
-var mnemonic = "cupboard base tornado stock fringe federal inject farm rug bachelor clerk ocean";
+var mnemonic = "park agent stem wine various conduct swarm enough vendor hope tornado shine";

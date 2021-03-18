@@ -1,1 +1,1 @@
-var mnemonic = "gown circle arrive stadium material mystery agree scare topic spawn kite cool";
+var mnemonic = "bounce brain extend bike wait soul identify ranch trust civil mistake help";

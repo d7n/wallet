@@ -1,1 +1,1 @@
-var mnemonic = "six zoo ramp blood output inside primary smoke truth corn lobster island";
+var mnemonic = "prison olive gain scare job lobster dirt exile offer screen eight step";

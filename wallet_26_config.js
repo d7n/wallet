@@ -1,1 +1,1 @@
-var mnemonic = "coil convince obtain priority tennis glue update cable gift buddy figure once";
+var mnemonic = "lady future area trade total aware lawn drift friend order opera ordinary";

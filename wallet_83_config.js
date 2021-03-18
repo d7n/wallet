@@ -1,1 +1,1 @@
-var mnemonic = "ripple robot cabin reveal rebuild spice arrow pause vacuum fashion spider pool";
+var mnemonic = "saddle oxygen narrow now write hungry ready morning tattoo safe keen trumpet";

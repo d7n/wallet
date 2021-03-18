@@ -1,1 +1,1 @@
-var mnemonic = "way meat seat gravity crime true master close humble toss gossip thank";
+var mnemonic = "engine ripple turn cancel fortune prepare atom sunny chaos rebel ten crew";

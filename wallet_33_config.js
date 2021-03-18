@@ -1,1 +1,1 @@
-var mnemonic = "leader pelican already acoustic spider arrow honey candy switch social remind wasp";
+var mnemonic = "rescue luggage awake post ride second deny word sail once close city";

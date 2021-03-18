@@ -1,1 +1,1 @@
-var mnemonic = "palm twenty sign job problem desert predict unique shock lamp window budget";
+var mnemonic = "chimney fruit globe pledge deposit film vintage process unhappy install toy aspect";

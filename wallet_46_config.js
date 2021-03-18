@@ -1,1 +1,1 @@
-var mnemonic = "rival aspect sadness elder feed bridge neglect tunnel frozen kit nominee ice";
+var mnemonic = "arrive divorce soldier express lyrics noise arrow capable broken clip section evidence";

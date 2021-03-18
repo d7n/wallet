@@ -1,1 +1,1 @@
-var mnemonic = "dutch north torch song sand auto six wonder clay immune miss cheap";
+var mnemonic = "glance error blood antenna service disorder devote betray payment kiss hub coach";

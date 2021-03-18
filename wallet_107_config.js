@@ -1,1 +1,1 @@
-var mnemonic = "erosion evoke noodle sting enact polar thank crucial tube gift chalk gossip";
+var mnemonic = "age supreme civil plate picture lamp copy clock finish tide radar random";

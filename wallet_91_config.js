@@ -1,1 +1,1 @@
-var mnemonic = "trap never skin success glow donate fruit width raw brisk bag fiber";
+var mnemonic = "potato tank iron maze seat athlete knife alien bomb favorite early topic";

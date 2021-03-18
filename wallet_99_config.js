@@ -1,1 +1,1 @@
-var mnemonic = "play captain cool cycle visit tower slot retreat infant radio mean hundred";
+var mnemonic = "glide adult mountain sock stove category forum amateur tiny coin panel vague";

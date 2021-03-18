@@ -1,1 +1,1 @@
-var mnemonic = "radar defense human dismiss gauge into often zone slogan uniform brain warfare";
+var mnemonic = "fence woman wait region keep grid route lounge medal random team man";

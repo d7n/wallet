@@ -1,1 +1,1 @@
-var mnemonic = "swing dentist height shell earth view output satoshi orbit abuse slush west";
+var mnemonic = "adult pigeon sunny video core home drift blanket duty armed tell tortoise";

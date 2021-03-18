@@ -1,1 +1,1 @@
-var mnemonic = "theme shuffle will two express wagon combine senior mom culture farm leopard";
+var mnemonic = "scissors crouch bar wide raven bargain garlic wash sell trend embody museum";

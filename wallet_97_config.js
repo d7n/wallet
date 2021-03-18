@@ -1,1 +1,1 @@
-var mnemonic = "move patrol memory false winner amateur emerge sugar addict project soldier lock";
+var mnemonic = "glow gravity soldier arrow borrow lounge daughter column rude wrong suspect suspect";

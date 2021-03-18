@@ -1,1 +1,1 @@
-var mnemonic = "proof spread smart trial citizen subject know neutral action quick twice echo";
+var mnemonic = "cancel leg wheel kitchen all tool display leader bunker spray pen shadow";

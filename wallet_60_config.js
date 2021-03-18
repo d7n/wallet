@@ -1,1 +1,1 @@
-var mnemonic = "business victory arrange setup fashion boy clean purchase beach layer price brick";
+var mnemonic = "boss book flower tuna raise client alpha pony tell buyer rapid fun";

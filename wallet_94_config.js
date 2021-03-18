@@ -1,1 +1,1 @@
-var mnemonic = "jewel humble tube very inhale churn beef vehicle school negative blade token";
+var mnemonic = "baby tomorrow educate chronic traffic globe undo roast spell right demand hero";

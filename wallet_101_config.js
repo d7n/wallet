@@ -1,1 +1,1 @@
-var mnemonic = "bonus abstract nurse rhythm retreat garment mule list sniff social luggage fruit";
+var mnemonic = "fade mammal chat goat best imitate silver virus vehicle resist stick lemon";

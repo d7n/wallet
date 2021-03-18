@@ -1,1 +1,1 @@
-var mnemonic = "race nothing fancy firm shallow father clerk demand property antique govern blush";
+var mnemonic = "velvet cupboard unfair lunch grant clerk dream gospel diagram only divert believe";

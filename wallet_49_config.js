@@ -1,1 +1,1 @@
-var mnemonic = "copper garage breeze step language tower rabbit dice job december adjust spirit";
+var mnemonic = "kite discover kid urban spoil slam color ticket protect wrap memory shell";

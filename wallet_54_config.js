@@ -1,1 +1,1 @@
-var mnemonic = "ocean critic sense mechanic winner borrow height gesture double exercise height afford";
+var mnemonic = "erode fat theory sudden gravity ride mandate abuse have welcome lava change";

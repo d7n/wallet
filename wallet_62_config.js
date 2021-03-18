@@ -1,1 +1,1 @@
-var mnemonic = "bean celery prevent agree bacon brick drum solar escape retreat tide source";
+var mnemonic = "organ crumble present regret glimpse toss ring ridge embrace enable duck usual";

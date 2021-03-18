@@ -1,1 +1,1 @@
-var mnemonic = "defense rescue employ bridge real present furnace appear alcohol idle transfer garlic";
+var mnemonic = "sea daring dream impulse robot palace field heavy mammal cattle orbit actual";

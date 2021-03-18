@@ -1,1 +1,1 @@
-var mnemonic = "maze tell amused police patrol cable grain denial glide priority access never";
+var mnemonic = "require aerobic axis awesome few media silk jacket once explain option tired";

@@ -1,1 +1,1 @@
-var mnemonic = "floor decorate artefact call erosion keen dad boost chronic wisdom fire joke";
+var mnemonic = "arctic frown cannon zone ecology bitter april afford senior snow place project";

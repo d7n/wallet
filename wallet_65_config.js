@@ -1,1 +1,1 @@
-var mnemonic = "blind slight stadium ship fatal regular someone deny pipe message roof wide";
+var mnemonic = "awful smart comfort rich eye subway share noble rice kitchen tray kite";

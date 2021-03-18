@@ -1,1 +1,1 @@
-var mnemonic = "reflect aware side govern awesome genre cook resource spy spoil latin hotel";
+var mnemonic = "deny fringe proof coach female witness west receive crisp girl dynamic confirm";

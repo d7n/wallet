@@ -1,1 +1,1 @@
-var mnemonic = "argue couch turtle muffin edit offer august minimum gown nothing loyal clown";
+var mnemonic = "convince garbage fork safe double chimney derive cup above fine cram design";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp coil north churn basket ask thrive matter walnut call drop wrong";
+var mnemonic = "put wish traffic seminar rural digital crazy kite divert girl carbon because";

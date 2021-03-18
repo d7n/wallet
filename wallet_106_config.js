@@ -1,1 +1,1 @@
-var mnemonic = "tip squeeze indoor frog wine flag rich sad celery iron nothing moon";
+var mnemonic = "lunch laundry pupil embody tool still image tip edit mosquito symbol recipe";

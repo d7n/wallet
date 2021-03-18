@@ -1,1 +1,1 @@
-var mnemonic = "bicycle bus hazard sight squeeze any thing cream erode arena panel remove";
+var mnemonic = "model ostrich salute before fish style envelope inside chair anger clip route";

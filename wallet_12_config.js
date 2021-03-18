@@ -1,1 +1,1 @@
-var mnemonic = "glove guilt artefact crisp habit jungle design indoor demand van surge theme";
+var mnemonic = "evolve divide river uphold guess glue actor head danger obscure cushion museum";

@@ -1,1 +1,1 @@
-var mnemonic = "wise universe media solve sand air manage strategy pitch traffic gauge soon";
+var mnemonic = "flock shock deal divide answer fashion small voyage uphold bonus abandon slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal harbor giant neutral rebel couch obey sweet dice buddy violin good";
+var mnemonic = "tiny slush creek hub buzz sell spin defy street total laptop sand";

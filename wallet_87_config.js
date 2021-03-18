@@ -1,1 +1,1 @@
-var mnemonic = "obscure city soap bonus shove raven brass perfect museum soccer shock diagram";
+var mnemonic = "gain raw fan gown eye ozone symbol tell mean twist dragon vocal";

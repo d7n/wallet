@@ -1,1 +1,1 @@
-var mnemonic = "exercise bracket buffalo dentist any ceiling sea chronic step chase meadow give";
+var mnemonic = "boring famous spoil harbor inner protect ill arrive apart try choose ask";

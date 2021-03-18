@@ -1,1 +1,1 @@
-var mnemonic = "close total ancient huge moon wealth hammer nurse burst equip embrace throw";
+var mnemonic = "thrive fatal rather typical economy clump moment title anger supreme twist chest";

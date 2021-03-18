@@ -1,1 +1,1 @@
-var mnemonic = "lake secret stadium prize dove address better crouch avoid session have doctor";
+var mnemonic = "fan vote endless surround beauty trip erode forum win cradle skull noble";

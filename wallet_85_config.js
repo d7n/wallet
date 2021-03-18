@@ -1,1 +1,1 @@
-var mnemonic = "false home sudden dose need possible blade monitor river canyon fatigue lazy";
+var mnemonic = "drama edit unlock cradle interest oil thrive army alert thumb resource kite";

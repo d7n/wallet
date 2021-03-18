@@ -1,1 +1,1 @@
-var mnemonic = "trophy weird thought castle yellow habit enter pen trend group kangaroo bullet";
+var mnemonic = "blossom turn foster village develop soap high anxiety inner silly festival coffee";

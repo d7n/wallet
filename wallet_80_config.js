@@ -1,1 +1,1 @@
-var mnemonic = "soul disagree drastic cycle exist guitar gravity attract riot budget bronze afford";
+var mnemonic = "cargo ramp cloth diet rule cancel floor rocket party task ostrich fringe";

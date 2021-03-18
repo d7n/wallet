@@ -1,1 +1,1 @@
-var mnemonic = "sing bring leave sort spawn avocado company alone true young about prize";
+var mnemonic = "defense waste deposit taxi snow mandate cattle evil bread reject jazz absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "parent ostrich comic miss reunion weird nose salon real possible jaguar noodle";
+var mnemonic = "bright super first position peanut surface climb salt cause decrease obvious time";

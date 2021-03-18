@@ -1,1 +1,1 @@
-var mnemonic = "enforce bulk penalty solid like copy turn caution sniff code call judge";
+var mnemonic = "angle tube hope metal sort mix fit always gown custom fall again";

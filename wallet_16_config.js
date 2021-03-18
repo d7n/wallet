@@ -1,1 +1,1 @@
-var mnemonic = "fashion delay mansion quarter worry vital rare abuse left valid ancient weather";
+var mnemonic = "meadow spike asthma glory bomb tenant banner various silk spray term mother";
