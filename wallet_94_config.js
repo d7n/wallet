@@ -1,1 +1,1 @@
-var mnemonic = "draw borrow silk mandate bread grape scout host prison pride bamboo pyramid";
+var mnemonic = "neck photo lock rack day local float quiz hospital amazing split merry";

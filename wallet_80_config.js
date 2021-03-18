@@ -1,1 +1,1 @@
-var mnemonic = "kit slam fury flag old kind first chat among custom curve autumn";
+var mnemonic = "century recycle trend seat heart pact target zone power become retire silent";

@@ -1,1 +1,1 @@
-var mnemonic = "school wealth slight become extend atom equal range clutch scrub cruise cat";
+var mnemonic = "rather early wrap basic sure relief neck inquiry over skill slight access";

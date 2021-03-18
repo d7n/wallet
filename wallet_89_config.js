@@ -1,1 +1,1 @@
-var mnemonic = "case indicate typical mirror prevent tomato happy public charge gossip primary merry";
+var mnemonic = "gauge frost doctor involve table kitchen bulk table add wrap elite robust";

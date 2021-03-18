@@ -1,1 +1,1 @@
-var mnemonic = "angry narrow broccoli twist velvet vibrant hand drift memory wrap length cruel";
+var mnemonic = "beach process voice attract fitness waste response lamp ball area wife kiwi";

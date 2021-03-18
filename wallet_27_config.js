@@ -1,1 +1,1 @@
-var mnemonic = "edge blast ivory must annual teach friend hurdle habit outdoor ecology police";
+var mnemonic = "early annual wait great grief wide smile boil actual horror sad lawsuit";

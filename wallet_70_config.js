@@ -1,1 +1,1 @@
-var mnemonic = "sentence ignore fragile tower sun castle coconut motion marine chuckle involve office";
+var mnemonic = "mom stay juice riot buyer athlete jelly pitch over field icon drift";

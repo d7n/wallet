@@ -1,1 +1,1 @@
-var mnemonic = "salmon track deposit again cable step airport recall health announce chat slice";
+var mnemonic = "much toss buyer supply lucky spray vault south fit head chase okay";

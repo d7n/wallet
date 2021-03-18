@@ -1,1 +1,1 @@
-var mnemonic = "search boring inflict cage rally tunnel column snack alone liar bike rifle";
+var mnemonic = "menu shell delay animal deny pattern zoo bless tonight liberty royal crane";

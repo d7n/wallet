@@ -1,1 +1,1 @@
-var mnemonic = "away regret humble behave fury social dumb gorilla gather poem exit story";
+var mnemonic = "dish connect cinnamon wine faculty enough glimpse cram expose immune theme mistake";

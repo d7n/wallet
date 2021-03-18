@@ -1,1 +1,1 @@
-var mnemonic = "group arm concert decade youth crime clarify gold picnic regular cherry fiber";
+var mnemonic = "choose frog process child long never recipe price hedgehog egg car rug";

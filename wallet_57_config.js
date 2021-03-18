@@ -1,1 +1,1 @@
-var mnemonic = "mix grunt boil claw weather present time ginger close twist slab chapter";
+var mnemonic = "hospital amateur hybrid awake cost glance item stomach gather raven autumn purity";

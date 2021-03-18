@@ -1,1 +1,1 @@
-var mnemonic = "cloud choose now damp burger usage tenant dish envelope spray piano arm";
+var mnemonic = "trade assume lottery radio imitate teach parent danger quote text digital gas";

@@ -1,1 +1,1 @@
-var mnemonic = "mail heart jump pact room motion edit letter actual female rude volume";
+var mnemonic = "slot riot victory silent output label canyon weather law corn illegal check";

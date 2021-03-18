@@ -1,1 +1,1 @@
-var mnemonic = "vocal ability shuffle month gaze average scorpion topple robot demand senior puzzle";
+var mnemonic = "prosper bone chicken vanish taxi egg royal impact ridge lunar seek deny";

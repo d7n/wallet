@@ -1,1 +1,1 @@
-var mnemonic = "course horse wasp betray shuffle butter worry thrive oxygen viable swear neck";
+var mnemonic = "spin mixed art source cinnamon success purchase license emotion innocent walnut renew";

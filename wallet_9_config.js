@@ -1,1 +1,1 @@
-var mnemonic = "hire sight slab canal mandate scale subway camp decrease frame forget dolphin";
+var mnemonic = "victory april fog gesture amateur nominee deliver swim wine unaware swim final";

@@ -1,1 +1,1 @@
-var mnemonic = "motion garlic network where artefact hurt stomach crane rival session sick goat";
+var mnemonic = "rubber desert sunset novel purse thought pelican today clog bargain subject general";

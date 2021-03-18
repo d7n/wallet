@@ -1,1 +1,1 @@
-var mnemonic = "high fault athlete neglect split stereo reject chimney inflict often vapor tape";
+var mnemonic = "curve board trend silk garment abuse judge top husband panic six fun";

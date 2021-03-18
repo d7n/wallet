@@ -1,1 +1,1 @@
-var mnemonic = "orbit rubber chimney earn guitar alley food nasty pulse bonus quote wedding";
+var mnemonic = "miss unique behave like embody crush way neglect artist sentence empty disease";

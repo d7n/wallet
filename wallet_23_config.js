@@ -1,1 +1,1 @@
-var mnemonic = "program grape mountain crane coyote predict remind garlic spare shallow unit squeeze";
+var mnemonic = "shield witness vessel member ritual swamp soon unit manual stool brother sad";

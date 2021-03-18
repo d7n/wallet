@@ -1,1 +1,1 @@
-var mnemonic = "drill another car recall fix bulb pill frozen aspect female lava cricket";
+var mnemonic = "area bubble craft copy remind hour option thumb blame divorce ribbon monster";

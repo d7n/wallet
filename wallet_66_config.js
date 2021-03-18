@@ -1,1 +1,1 @@
-var mnemonic = "gown tortoise decrease burger balance price together type toddler federal cost custom";
+var mnemonic = "unhappy slice man delay cargo melt piece script vicious nothing proud unique";

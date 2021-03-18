@@ -1,1 +1,1 @@
-var mnemonic = "slice butter goddess artwork torch tomorrow amused gift muscle fun ski sad";
+var mnemonic = "stuff cement walnut riot belt emerge wide vendor gasp fault goose lonely";

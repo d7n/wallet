@@ -1,1 +1,1 @@
-var mnemonic = "pen globe life license dirt where clever approve rude lottery various defense";
+var mnemonic = "relax bullet shrug remain loan bacon metal eagle property visual beauty olive";

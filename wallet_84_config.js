@@ -1,1 +1,1 @@
-var mnemonic = "rib submit exclude fresh craft funny choose reflect occur vacuum fuel innocent";
+var mnemonic = "puzzle tackle history various solar warrior canal snap table wheat bar board";

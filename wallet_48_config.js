@@ -1,1 +1,1 @@
-var mnemonic = "book oxygen era sock involve bag muffin unique old luggage boy rude";
+var mnemonic = "trick pull cereal hospital thumb eagle secret fit recycle radar absorb ketchup";

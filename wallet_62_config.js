@@ -1,1 +1,1 @@
-var mnemonic = "furnace corn month shed marine until right normal link cost profit great";
+var mnemonic = "click forget liberty outside fragile dizzy agent blood spray ensure canvas road";

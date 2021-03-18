@@ -1,1 +1,1 @@
-var mnemonic = "city chimney resemble mercy immense dragon border total over shuffle thought pink";
+var mnemonic = "option scrub zebra upon grace portion meat cup town retire hobby ill";

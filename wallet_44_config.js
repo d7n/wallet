@@ -1,1 +1,1 @@
-var mnemonic = "found want awful guilt squirrel drink involve keen page champion hole letter";
+var mnemonic = "supply ensure guitar thought surprise can chef sorry mushroom cabbage farm example";

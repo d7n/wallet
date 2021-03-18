@@ -1,1 +1,1 @@
-var mnemonic = "drop dash win pizza bachelor nominee arctic nose since merge spatial valley";
+var mnemonic = "observe bird surprise extra dolphin grit boil law lesson insane side sick";

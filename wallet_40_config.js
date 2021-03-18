@@ -1,1 +1,1 @@
-var mnemonic = "top switch vapor height home pottery clap hub cheap narrow fuel weapon";
+var mnemonic = "casino young father cabbage cushion labor project favorite dutch despair buffalo bar";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget lens festival hedgehog wet leave laptop ranch juice hire moon skill";
+var mnemonic = "claw just grab globe move sick mango goddess negative maid skill remember";

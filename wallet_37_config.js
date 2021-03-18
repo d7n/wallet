@@ -1,1 +1,1 @@
-var mnemonic = "topic lucky hole resemble gloom unlock inch fold elite visual tide once";
+var mnemonic = "lab share appear illegal later lobster endless vintage explain lawsuit exchange tonight";

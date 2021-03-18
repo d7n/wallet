@@ -1,1 +1,1 @@
-var mnemonic = "grab twin abuse anxiety grant sure release field mail amazing hungry giraffe";
+var mnemonic = "tackle any piano force account primary arrange easy immune shove impose winner";

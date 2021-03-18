@@ -1,1 +1,1 @@
-var mnemonic = "monitor road ask citizen ladder library churn island color venture question grocery";
+var mnemonic = "kid anger term void novel taxi real tourist insect fiscal north ripple";

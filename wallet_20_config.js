@@ -1,1 +1,1 @@
-var mnemonic = "ordinary matrix amount song keen scrap like ritual mosquito beauty captain sugar";
+var mnemonic = "truck cloth old heavy slow slow dog include they lion labor human";

@@ -1,1 +1,1 @@
-var mnemonic = "employ camp hurt fold forum jacket open bus vote matrix wish best";
+var mnemonic = "girl ship pear harvest blouse slice voice engine absent artefact urban return";

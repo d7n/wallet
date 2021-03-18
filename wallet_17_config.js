@@ -1,1 +1,1 @@
-var mnemonic = "chase lunch gorilla grape solar empower stone adult planet door anger about";
+var mnemonic = "deal evil shoot anger merge humble chronic shrug echo scene grain stairs";

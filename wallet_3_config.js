@@ -1,1 +1,1 @@
-var mnemonic = "super spare device chat agent power pill canal shallow gasp pelican evolve";
+var mnemonic = "better sorry circle season error rough tiny entry holiday citizen deputy little";

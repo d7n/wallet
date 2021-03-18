@@ -1,1 +1,1 @@
-var mnemonic = "half fun subway metal kit entry summer decorate glance domain pottery lawn";
+var mnemonic = "panic scale lounge assault hill salon once box grant spike walnut miracle";

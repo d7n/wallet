@@ -1,1 +1,1 @@
-var mnemonic = "build duck volume angry prize announce carry special oppose stone general media";
+var mnemonic = "siege recipe venture giggle travel guilt step exclude category sort pistol cradle";

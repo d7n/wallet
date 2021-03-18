@@ -1,1 +1,1 @@
-var mnemonic = "nation space grunt angle twist sadness love kite infant sunny blouse taste";
+var mnemonic = "machine brain alcohol club rebel flash usual collect view relief unique sunset";

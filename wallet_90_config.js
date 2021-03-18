@@ -1,1 +1,1 @@
-var mnemonic = "life segment wage coyote casual measure true they recall huge essence amateur";
+var mnemonic = "master antenna oyster avoid super island goat infant slam bring conduct polar";

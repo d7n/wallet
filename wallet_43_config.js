@@ -1,1 +1,1 @@
-var mnemonic = "assault churn upgrade melody food tail mule then magic mention tilt canal";
+var mnemonic = "praise answer trigger rack beyond grant know twelve rib panther satisfy seed";

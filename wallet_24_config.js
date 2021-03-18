@@ -1,1 +1,1 @@
-var mnemonic = "thumb pluck rich black suit ask fluid poet garden doctor sting mass";
+var mnemonic = "horror pass salmon spirit item mad inch drift similar steak under raccoon";

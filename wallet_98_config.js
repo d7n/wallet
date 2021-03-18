@@ -1,1 +1,1 @@
-var mnemonic = "demand tooth secret barrel valve market car dolphin razor hint multiply crazy";
+var mnemonic = "lab away auction absurd sword primary spin supply forget desk earth arrange";

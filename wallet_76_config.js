@@ -1,1 +1,1 @@
-var mnemonic = "hybrid mosquito again shell intact rug detect company voice exhibit plug sustain";
+var mnemonic = "put stable speak rally just aware hurdle relax vital tired mesh decade";

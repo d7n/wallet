@@ -1,1 +1,1 @@
-var mnemonic = "rain spare valley buyer humble share romance blanket castle govern wood clutch";
+var mnemonic = "genuine bacon call mean before parent gauge assist talk moment awful urban";

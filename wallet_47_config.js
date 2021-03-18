@@ -1,1 +1,1 @@
-var mnemonic = "snake trend erupt pigeon original loop town noodle code tent hockey bunker";
+var mnemonic = "idea clay snow guide surround tumble hybrid useful oyster moral space join";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid draft chronic galaxy junk estate aspect crystal acquire genius water horse";
+var mnemonic = "ginger permit oppose material design arrive inherit wreck rule slush tragic engage";

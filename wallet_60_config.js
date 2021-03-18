@@ -1,1 +1,1 @@
-var mnemonic = "shell blush trick loud jar end select slogan arm limit dirt account";
+var mnemonic = "powder avoid spirit bomb funny afraid will feed fortune worth assault dad";

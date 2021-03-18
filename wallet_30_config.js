@@ -1,1 +1,1 @@
-var mnemonic = "cost hungry admit globe enhance unfold spike rug hockey arrest nut this";
+var mnemonic = "control club whale picture mistake ticket buyer express sleep gate flash fetch";

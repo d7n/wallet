@@ -1,1 +1,1 @@
-var mnemonic = "noise addict hawk sudden claim dinosaur exotic volume enable enlist boy speed";
+var mnemonic = "potato man shadow walnut glad cherry stool awake alpha car myth edit";

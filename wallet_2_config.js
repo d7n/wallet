@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo fiction mouse mansion invite bar rubber mom pluck bullet learn man";
+var mnemonic = "ethics series chest horn they thumb wild long rival rib sun bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "immense evil hidden whale easily loop magic skirt thrive chicken voice laundry";
+var mnemonic = "fatal scorpion develop police raven swallow trouble category grunt master wood sweet";

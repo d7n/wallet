@@ -1,1 +1,1 @@
-var mnemonic = "toddler work seed exit seminar level begin giggle canyon elevator stamp client";
+var mnemonic = "ensure radio audit federal cinnamon bamboo poet tooth donkey mandate journey circle";

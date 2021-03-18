@@ -1,1 +1,1 @@
-var mnemonic = "camera language only ripple adjust object stool door captain solution like pen";
+var mnemonic = "either alone together note vendor combine inner sister become fork rack gadget";

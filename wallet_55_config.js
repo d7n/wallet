@@ -1,1 +1,1 @@
-var mnemonic = "best orange december shallow twin aware room popular present minor only become";
+var mnemonic = "express tooth tourist clean spell drip gather usage ghost elephant undo music";

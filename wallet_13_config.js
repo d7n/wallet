@@ -1,1 +1,1 @@
-var mnemonic = "uncover beauty uphold void keen lounge grass quarter pact join ball wall";
+var mnemonic = "effort month mouse radar village globe tribe defy orchard crew voice pink";

@@ -1,1 +1,1 @@
-var mnemonic = "gun hospital dog visa know record click fossil session valley shrug farm";
+var mnemonic = "tumble over oxygen anxiety begin city copy garlic drop snow genre egg";

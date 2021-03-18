@@ -1,1 +1,1 @@
-var mnemonic = "mixture bunker target accident surprise decorate response list off garden song olympic";
+var mnemonic = "sister lemon nation expect brown phrase jacket maple install horror dress bullet";

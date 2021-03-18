@@ -1,1 +1,1 @@
-var mnemonic = "hotel drastic gesture solar jaguar suit float taste affair swap glare undo";
+var mnemonic = "hole hard suggest coral twist title drive object dirt captain large torch";

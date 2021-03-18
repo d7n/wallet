@@ -1,1 +1,1 @@
-var mnemonic = "time mesh bacon cargo science vendor memory pitch sail enhance neither one";
+var mnemonic = "truth glance crunch volcano evolve syrup access truck stay address private offer";

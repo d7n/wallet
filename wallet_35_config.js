@@ -1,1 +1,1 @@
-var mnemonic = "jump maze black shove beach jump satoshi juice outside quality invest script";
+var mnemonic = "bone asset orange humor cry slim assault stool economy loud recipe alarm";

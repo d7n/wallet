@@ -1,1 +1,1 @@
-var mnemonic = "hole normal typical devote collect soul chat mention walnut lawn love lend";
+var mnemonic = "limit actor slow shell filter inflict transfer canal detect foot rubber neck";

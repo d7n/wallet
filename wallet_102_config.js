@@ -1,1 +1,1 @@
-var mnemonic = "can wait general load wood sort security drastic blanket loyal theory evoke";
+var mnemonic = "acid follow corn ensure angle course couch scorpion embrace vague mesh vanish";

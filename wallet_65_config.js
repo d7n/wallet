@@ -1,1 +1,1 @@
-var mnemonic = "garlic online urge twist visual mouse print term talk couple write evolve";
+var mnemonic = "glimpse cat mystery emotion spawn hurt hold account drum law witness mammal";

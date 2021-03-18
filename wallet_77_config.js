@@ -1,1 +1,1 @@
-var mnemonic = "mother exile atom document planet grant clog cheese bone warm square february";
+var mnemonic = "just feature vibrant side recycle warrior ring reunion diet thumb balcony final";

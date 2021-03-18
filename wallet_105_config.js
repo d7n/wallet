@@ -1,1 +1,1 @@
-var mnemonic = "bounce wrist mountain ill duck baby box someone long scrub energy board";
+var mnemonic = "slush bean degree police van mind immense meadow smart route slot often";

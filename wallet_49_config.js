@@ -1,1 +1,1 @@
-var mnemonic = "feature raw brave will peasant medal bicycle deputy reward approve give once";
+var mnemonic = "detail tell all upon inmate oak village aunt fade blush abuse gossip";

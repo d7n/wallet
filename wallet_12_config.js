@@ -1,1 +1,1 @@
-var mnemonic = "curve slab enjoy entry vague alcohol wish evil card roof choose hospital";
+var mnemonic = "approve nut replace divide thunder double business permit great around recall video";

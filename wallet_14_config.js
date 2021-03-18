@@ -1,1 +1,1 @@
-var mnemonic = "rebuild poverty pulse tooth grief client route prize mesh amount leisure cabbage";
+var mnemonic = "arch path smoke price hollow such program edit tissue later cement together";

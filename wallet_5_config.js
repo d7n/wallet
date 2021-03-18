@@ -1,1 +1,1 @@
-var mnemonic = "hamster wrestle dragon during duck toy mother champion away bottom river father";
+var mnemonic = "enlist lend unfold lend cluster like core crop transfer leopard father frost";

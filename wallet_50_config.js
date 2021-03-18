@@ -1,1 +1,1 @@
-var mnemonic = "wheel truly april balance habit wolf virtual lecture sniff bacon length over";
+var mnemonic = "sibling left point grace unique sting bachelor couch good pipe differ gown";

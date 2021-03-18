@@ -1,1 +1,1 @@
-var mnemonic = "fade scrub another patient example life betray nerve number dance purchase figure";
+var mnemonic = "cabbage else interest marble light basket direct common pupil current sport often";

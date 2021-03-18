@@ -1,1 +1,1 @@
-var mnemonic = "inquiry scrap mean pig fortune senior visa fuel inflict option fever ticket";
+var mnemonic = "collect unit spray include possible minimum symbol confirm hidden scale gentle sun";

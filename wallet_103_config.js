@@ -1,1 +1,1 @@
-var mnemonic = "final reflect blue doll jaguar omit play lamp noble gasp muscle wheel";
+var mnemonic = "absurd effort drama pet search middle gather author display brain wrestle minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete identify want disorder fish pipe thought reopen happy item knee coyote";
+var mnemonic = "salad figure timber giant letter remind degree erosion cancel garage margin kick";

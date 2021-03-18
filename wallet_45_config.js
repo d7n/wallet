@@ -1,1 +1,1 @@
-var mnemonic = "various become silver chat lunch pact neither renew pulse style person brother";
+var mnemonic = "cool remove busy tail notable space match govern awesome taxi above split";

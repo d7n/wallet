@@ -1,1 +1,1 @@
-var mnemonic = "axis much autumn husband dumb abuse twice potato since chef feature finger";
+var mnemonic = "answer hint drum print zoo letter path subway ghost raven anger tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "stem you only fitness frequent inform risk have monkey cheese system require";
+var mnemonic = "trigger script cricket weather manual during stable lemon void sound toss agent";

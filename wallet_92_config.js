@@ -1,1 +1,1 @@
-var mnemonic = "essay boost mom actor check ginger badge creek possible impulse room meadow";
+var mnemonic = "tip spare post like best birth tag tool absent poverty wrap snack";

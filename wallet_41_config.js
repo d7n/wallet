@@ -1,1 +1,1 @@
-var mnemonic = "glad glimpse leg about disagree cool roast open happy bind birth liquid";
+var mnemonic = "sense differ equip indicate identify dismiss orange original can acquire hollow ensure";

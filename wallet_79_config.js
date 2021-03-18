@@ -1,1 +1,1 @@
-var mnemonic = "kingdom timber scatter plate jazz empty phone pistol juice song hub you";
+var mnemonic = "rotate report local evidence enter melody boy clerk silver funny release urban";

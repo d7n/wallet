@@ -1,1 +1,1 @@
-var mnemonic = "interest desert asthma blur width book biology erode beauty document photo scare";
+var mnemonic = "organ media cry arctic gauge bomb giggle stone satisfy vital suffer mesh";

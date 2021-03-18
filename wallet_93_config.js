@@ -1,1 +1,1 @@
-var mnemonic = "hammer have oyster butter echo move yard case pelican tragic iron bike";
+var mnemonic = "action nurse answer joke hire kingdom taxi twist best jump father raccoon";

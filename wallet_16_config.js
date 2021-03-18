@@ -1,1 +1,1 @@
-var mnemonic = "title chest milk anger flavor behave strike midnight era isolate link multiply";
+var mnemonic = "unable funny awesome now wild wrap urban cradle tenant casual call bleak";
