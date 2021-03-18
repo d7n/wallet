@@ -1,1 +1,1 @@
-var mnemonic = "one ride parent tuna settle uniform conduct luggage drive maple matter brief";
+var mnemonic = "fog weird jacket cover identify bus climb tattoo copper despair bring gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "tree ancient worry fox dune rescue input gorilla canvas eyebrow pair attract";
+var mnemonic = "flee burger burst miss sister harvest wrong cage tuition neither brand either";

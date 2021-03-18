@@ -1,1 +1,1 @@
-var mnemonic = "cram note destroy loud office ivory bus define capable attend trumpet danger";
+var mnemonic = "party inspire orchard sand praise thing below now movie vanish lady arrange";

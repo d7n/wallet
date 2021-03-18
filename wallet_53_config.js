@@ -1,1 +1,1 @@
-var mnemonic = "try affair net ticket broom trophy minor pitch slush analyst lunch mule";
+var mnemonic = "scale fantasy save together stone tongue bring network relax profit suffer globe";

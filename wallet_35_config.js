@@ -1,1 +1,1 @@
-var mnemonic = "daughter chef another truck unfair vote primary machine lunar child risk parent";
+var mnemonic = "long cattle sausage accident nut impact soup work vacuum portion type office";

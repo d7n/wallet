@@ -1,1 +1,1 @@
-var mnemonic = "label liquid pilot usual city sense despair visual ill choose galaxy virus";
+var mnemonic = "snap battle mouse snap sheriff hurdle swallow normal crucial hover outer danger";

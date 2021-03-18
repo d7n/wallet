@@ -1,1 +1,1 @@
-var mnemonic = "measure frown fury problem wood trumpet develop enhance cupboard celery funny enjoy";
+var mnemonic = "logic exit discover pencil nose true cherry diet excess lumber truck dolphin";

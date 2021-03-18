@@ -1,1 +1,1 @@
-var mnemonic = "tumble amused shallow cereal feel town exercise index bind raise news core";
+var mnemonic = "hire dust dinosaur rifle hat group dice repeat gossip apple elephant outdoor";

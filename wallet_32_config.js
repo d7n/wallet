@@ -1,1 +1,1 @@
-var mnemonic = "mixture thumb gallery give glow bachelor million shoot census master peace congress";
+var mnemonic = "street sniff plate prison cycle stay shiver economy indicate army custom sorry";

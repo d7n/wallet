@@ -1,1 +1,1 @@
-var mnemonic = "wide mask april ankle gown reunion wealth great drum help skate large";
+var mnemonic = "approve cave car palace clock soup cause remove picnic tired alert release";

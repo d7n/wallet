@@ -1,1 +1,1 @@
-var mnemonic = "grid mosquito brisk marble suspect bundle banana child wet cloth emotion hawk";
+var mnemonic = "swamp kingdom royal subject rural observe sausage oxygen clay flag system wear";

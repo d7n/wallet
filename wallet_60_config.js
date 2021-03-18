@@ -1,1 +1,1 @@
-var mnemonic = "word weather review dutch suit illness foam luxury soccer owner learn truth";
+var mnemonic = "today save taste essay truly final agent equal strategy enlist denial there";

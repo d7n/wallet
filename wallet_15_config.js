@@ -1,1 +1,1 @@
-var mnemonic = "way beach primary bunker deputy prefer crime air ribbon throw tape pledge";
+var mnemonic = "tray spoil crisp exit project cricket luggage early fatal entire lounge tomorrow";

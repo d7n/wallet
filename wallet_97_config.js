@@ -1,1 +1,1 @@
-var mnemonic = "solve magnet fabric warfare enroll slender muscle sock tail road raccoon movie";
+var mnemonic = "view forget simple uniform torch pupil visit boy brave sign suggest vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal tower enrich twin sword slot awesome casual distance banner nice camera";
+var mnemonic = "say prize symbol squeeze reduce hundred guess camp arrest beauty armor record";

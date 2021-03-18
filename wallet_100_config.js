@@ -1,1 +1,1 @@
-var mnemonic = "menu prefer vendor clip candy defy noble already tomato credit six refuse";
+var mnemonic = "digital company profit survey category sunset frost diary spoon surge other road";

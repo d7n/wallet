@@ -1,1 +1,1 @@
-var mnemonic = "armed kit advance original cruise soda allow exhaust mistake arch voice gasp";
+var mnemonic = "depart primary word rural hour tag prepare hire emerge vague believe aisle";

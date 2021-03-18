@@ -1,1 +1,1 @@
-var mnemonic = "obscure wink artwork polar lock trim ocean view wool harsh perfect hero";
+var mnemonic = "truck wave wave capable bubble dentist play palace emotion damage monitor clog";

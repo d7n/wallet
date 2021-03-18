@@ -1,1 +1,1 @@
-var mnemonic = "morning reform decorate juice reform manage neither magic trial illegal canyon auto";
+var mnemonic = "idea syrup early result universe crouch cinnamon lab assume surge cause verb";

@@ -1,1 +1,1 @@
-var mnemonic = "quit mango resource visual empty jar dune multiply march try smile bone";
+var mnemonic = "define margin powder trap scissors bean venue slender subway three post utility";

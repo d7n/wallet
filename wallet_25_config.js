@@ -1,1 +1,1 @@
-var mnemonic = "sell exile remove toe mail marble survey eye merry boy jaguar bicycle";
+var mnemonic = "divert pattern sugar wife industry network vendor chronic sun vocal surface fall";

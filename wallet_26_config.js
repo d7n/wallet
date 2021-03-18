@@ -1,1 +1,1 @@
-var mnemonic = "dial sight oppose group pizza clean nation siege topic sentence pulp sign";
+var mnemonic = "neither practice twenty sock fall empower cute segment cluster impose void route";

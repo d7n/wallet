@@ -1,1 +1,1 @@
-var mnemonic = "best country catch uncle jacket embody radio fruit exclude victory nurse prefer";
+var mnemonic = "caught afraid situate rocket drip dinner mother jazz speak friend six shrimp";

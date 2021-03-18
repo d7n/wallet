@@ -1,1 +1,1 @@
-var mnemonic = "genre feel bless record taste there bundle melody online shift install fancy";
+var mnemonic = "erase kangaroo aspect thought shop aim visual tunnel maid crawl win parent";

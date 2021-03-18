@@ -1,1 +1,1 @@
-var mnemonic = "lunar wage artefact much pattern gaze half edge behind fence note ready";
+var mnemonic = "expect address nurse purchase mind march hunt shine tonight document combine truly";

@@ -1,1 +1,1 @@
-var mnemonic = "web shoe quarter join end nephew naive rapid cruel gospel this parrot";
+var mnemonic = "only giant never crisp pipe wool virtual cost sound odor honey return";

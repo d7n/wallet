@@ -1,1 +1,1 @@
-var mnemonic = "demand help narrow engine enlist toe strategy dad ask artist deputy during";
+var mnemonic = "author ready answer jungle legal lion hood dish man bar this oven";

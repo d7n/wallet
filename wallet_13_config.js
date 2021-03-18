@@ -1,1 +1,1 @@
-var mnemonic = "undo update can girl pistol friend bright scan exhaust case seven lemon";
+var mnemonic = "clump tell hard lonely gentle outdoor squeeze jealous asthma nerve giant icon";

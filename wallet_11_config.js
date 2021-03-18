@@ -1,1 +1,1 @@
-var mnemonic = "neck grass math owner vote farm height bounce father mountain diagram use";
+var mnemonic = "advice divert marine obvious payment effort claw disease mean zoo offer message";

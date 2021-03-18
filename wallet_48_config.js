@@ -1,1 +1,1 @@
-var mnemonic = "element room annual blouse fly fence skirt limb depart turtle behave hour";
+var mnemonic = "quit diesel payment deal bamboo yard language start when nest tired banana";

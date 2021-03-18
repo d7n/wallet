@@ -1,1 +1,1 @@
-var mnemonic = "make earth junior seminar hope basket project impact rookie bicycle step suggest";
+var mnemonic = "brand crane baby sting place voice little dizzy short category drift they";

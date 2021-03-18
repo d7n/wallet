@@ -1,1 +1,1 @@
-var mnemonic = "plunge open weird woman relief venture squeeze clerk pattern name quiz destroy";
+var mnemonic = "verify nice notable tool unusual weekend early become differ donate rough poem";

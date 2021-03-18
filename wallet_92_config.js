@@ -1,1 +1,1 @@
-var mnemonic = "radio vessel pact also cradle duty science cross ghost mean size height";
+var mnemonic = "obtain fringe helmet various empower polar rabbit wide example copy ozone energy";

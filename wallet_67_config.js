@@ -1,1 +1,1 @@
-var mnemonic = "donor govern bike rent shield gym fossil length escape brown summer dilemma";
+var mnemonic = "confirm person dismiss you crime income dog project bachelor sound setup chair";

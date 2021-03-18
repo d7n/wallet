@@ -1,1 +1,1 @@
-var mnemonic = "wish oyster lizard foil opinion opinion gadget general grunt iron crystal space";
+var mnemonic = "local potato floor mechanic image toss toddler conduct learn bargain mother boil";

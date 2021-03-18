@@ -1,1 +1,1 @@
-var mnemonic = "pulp noodle easily connect tornado motion radio radar myself option dice end";
+var mnemonic = "gather siren thumb across situate cable erase tennis biology way enemy extend";

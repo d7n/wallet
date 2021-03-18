@@ -1,1 +1,1 @@
-var mnemonic = "science have access sock worry health absurd miss hill pen high wear";
+var mnemonic = "edge cube awesome equip force spatial finish apart symptom spawn decorate feature";

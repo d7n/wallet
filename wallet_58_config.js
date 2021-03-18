@@ -1,1 +1,1 @@
-var mnemonic = "circle steel village promote lava stick mesh victory language olive maid then";
+var mnemonic = "undo absorb they dial little dance believe soul orphan peanut spider paddle";

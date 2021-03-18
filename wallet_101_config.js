@@ -1,1 +1,1 @@
-var mnemonic = "repeat bridge file crack people subject survey fork beyond script joke simple";
+var mnemonic = "fence sibling federal grass luxury happy black awful isolate floor steel paddle";

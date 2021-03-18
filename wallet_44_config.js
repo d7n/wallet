@@ -1,1 +1,1 @@
-var mnemonic = "assault proof stadium mammal polar coin alone gap fashion negative vivid novel";
+var mnemonic = "link replace catalog remind poet actress agent erase muffin example concert dress";

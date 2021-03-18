@@ -1,1 +1,1 @@
-var mnemonic = "shuffle honey apple pave useless shoe label general hover asset news veteran";
+var mnemonic = "robust object swing discover drill reflect primary since galaxy aspect skill peace";

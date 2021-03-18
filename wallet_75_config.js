@@ -1,1 +1,1 @@
-var mnemonic = "only speak essay punch torch purpose stage loan portion science inhale sand";
+var mnemonic = "pair pyramid try effort van satoshi shiver ski resource bird vague become";

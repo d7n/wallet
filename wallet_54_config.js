@@ -1,1 +1,1 @@
-var mnemonic = "practice legend valid donor view pluck this injury item random green bulk";
+var mnemonic = "ancient iron today provide start tennis ticket shaft forget skull toilet name";

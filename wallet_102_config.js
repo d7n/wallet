@@ -1,1 +1,1 @@
-var mnemonic = "goose tomato curious clean hurry erupt praise embody order tide shove hunt";
+var mnemonic = "welcome close payment slot advance there glove lazy confirm coconut slogan patient";

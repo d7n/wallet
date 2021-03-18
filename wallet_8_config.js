@@ -1,1 +1,1 @@
-var mnemonic = "radio ladder cliff gap party regular toast wheat eagle permit utility garlic";
+var mnemonic = "range rubber there tackle eternal dizzy govern city all tortoise reward repair";

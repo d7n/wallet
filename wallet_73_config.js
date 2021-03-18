@@ -1,1 +1,1 @@
-var mnemonic = "valve during math fabric dry broken display squeeze shift crew victory door";
+var mnemonic = "steak answer exercise sunny want off copy smart street enable exotic equal";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage output frame giraffe basket just obvious envelope they forum vocal maze";
+var mnemonic = "fee gas faint very punch either man layer undo tattoo sad outer";

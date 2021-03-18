@@ -1,1 +1,1 @@
-var mnemonic = "drill hip eternal chest unhappy size layer teach uniform version equal elbow";
+var mnemonic = "music impact plunge coin apology below cereal float step diesel device happy";

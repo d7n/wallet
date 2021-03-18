@@ -1,1 +1,1 @@
-var mnemonic = "leisure ramp wreck own song chat broccoli heavy gain orbit lonely avocado";
+var mnemonic = "enable problem portion update join strong cherry solid satoshi ball puzzle couple";

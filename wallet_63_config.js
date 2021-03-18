@@ -1,1 +1,1 @@
-var mnemonic = "imitate limb trim asthma vanish board suffer basic police harsh duck derive";
+var mnemonic = "sell stomach hammer delay engine decade spy flee door host talk paper";

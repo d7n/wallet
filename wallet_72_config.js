@@ -1,1 +1,1 @@
-var mnemonic = "script velvet gloom inflict ginger hood permit offer cushion crumble web solve";
+var mnemonic = "check display slow pioneer sand tide sort decade word bargain fiber effort";

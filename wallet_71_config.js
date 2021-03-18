@@ -1,1 +1,1 @@
-var mnemonic = "clarify dove discover twelve you now fatal arena fall foot emerge sword";
+var mnemonic = "cross bachelor hurt help possible session gloom rigid nerve minute original such";

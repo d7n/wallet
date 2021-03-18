@@ -1,1 +1,1 @@
-var mnemonic = "final execute liberty recall sock cancel imitate acquire embody sausage skin sphere";
+var mnemonic = "badge unknown flight can series vote zero fat time caught error mad";

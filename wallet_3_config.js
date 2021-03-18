@@ -1,1 +1,1 @@
-var mnemonic = "industry manual palace dumb slow tag detail lock detect million depend wild";
+var mnemonic = "girl vessel frame addict damage quit orchard about admit wheel enable robust";

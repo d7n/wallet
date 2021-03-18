@@ -1,1 +1,1 @@
-var mnemonic = "below bachelor easily gift street attend devote rare allow appear best disagree";
+var mnemonic = "luggage umbrella scene flame wheel crack idle business acquire wealth common answer";

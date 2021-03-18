@@ -1,1 +1,1 @@
-var mnemonic = "evil raise solid whip clinic bunker polar immense wedding sausage vital bullet";
+var mnemonic = "spare core matrix trip blanket twist drop author such baby antenna shiver";

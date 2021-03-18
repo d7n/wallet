@@ -1,1 +1,1 @@
-var mnemonic = "grain daughter young neutral soldier ribbon olive cook bracket mercy garage sweet";
+var mnemonic = "owner broom derive blouse pitch usage kitchen wish sight dentist name ostrich";

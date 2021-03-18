@@ -1,1 +1,1 @@
-var mnemonic = "author insane mango glimpse ring empty utility foot dwarf rival idea sleep";
+var mnemonic = "edit end grit news ability detect lounge dose fantasy gentle discover extend";

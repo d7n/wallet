@@ -1,1 +1,1 @@
-var mnemonic = "pool much rate already girl worth lemon defy arrest congress era empty";
+var mnemonic = "party swap vacant toward immune bulb another cup emotion segment crazy disorder";

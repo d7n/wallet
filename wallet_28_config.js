@@ -1,1 +1,1 @@
-var mnemonic = "modify raise tired labor load ivory fault couch heart snake practice fortune";
+var mnemonic = "major obscure desert decade light song foster oven dream cream month awful";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract horn trial sphere churn sister inch chaos column around fall sugar";
+var mnemonic = "exclude furnace obscure collect magic head quick abandon moment village limb tuition";

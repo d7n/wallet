@@ -1,1 +1,1 @@
-var mnemonic = "royal derive caught decide hen panic rare raven cube vessel lunch team";
+var mnemonic = "wear prosper bench dash scatter rural leisure beef stove canoe fish rally";

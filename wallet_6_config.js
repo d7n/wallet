@@ -1,1 +1,1 @@
-var mnemonic = "dutch baby bonus flush wonder planet swarm matrix bacon special burst melt";
+var mnemonic = "true actor dirt woman toddler own public valve exercise rare entry oblige";

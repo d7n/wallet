@@ -1,1 +1,1 @@
-var mnemonic = "brown piece bracket wine actress way account depend leaf grunt captain outside";
+var mnemonic = "swarm horror zone crucial toss razor lend limb lamp pumpkin install muffin";

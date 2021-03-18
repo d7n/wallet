@@ -1,1 +1,1 @@
-var mnemonic = "afraid mimic portion increase exist kitten gesture bike text all render chase";
+var mnemonic = "season coyote squeeze connect accident clinic dumb nasty taxi sudden crystal invite";

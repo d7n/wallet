@@ -1,1 +1,1 @@
-var mnemonic = "pig ostrich endorse valve state ozone wire exchange antenna catch warfare install";
+var mnemonic = "detect thumb room turtle old deposit fiscal nature nose screen warfare hard";

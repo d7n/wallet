@@ -1,1 +1,1 @@
-var mnemonic = "coin immense human battle describe lady december pencil unknown movie jump broccoli";
+var mnemonic = "right tomato volume poet kite gossip push promote mandate gun spring effort";

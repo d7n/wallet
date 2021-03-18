@@ -1,1 +1,1 @@
-var mnemonic = "bubble rigid nominee galaxy hint rose stool ordinary grab inherit lend luggage";
+var mnemonic = "inquiry benefit embody learn author denial cement faith report much survey scheme";

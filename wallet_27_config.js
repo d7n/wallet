@@ -1,1 +1,1 @@
-var mnemonic = "debate maximum addict oppose razor friend pumpkin smooth shed raven base degree";
+var mnemonic = "endless manual debris loan submit swift indicate casino miss require narrow room";

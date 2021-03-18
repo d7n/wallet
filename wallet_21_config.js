@@ -1,1 +1,1 @@
-var mnemonic = "fee eight soap friend surface purse license lemon train runway portion thing";
+var mnemonic = "sorry badge photo wide dash business drink marine wine spice unusual verb";

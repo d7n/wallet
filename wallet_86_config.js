@@ -1,1 +1,1 @@
-var mnemonic = "change soldier risk song open fold soup lava amazing twenty adapt aisle";
+var mnemonic = "funny tail begin census wisdom cage obvious forward school trade plastic reduce";

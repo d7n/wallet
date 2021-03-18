@@ -1,1 +1,1 @@
-var mnemonic = "develop purse chimney avocado best code achieve iron lunar civil output kind";
+var mnemonic = "sunset vital nature custom young lyrics barely author unable midnight honey inquiry";

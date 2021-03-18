@@ -1,1 +1,1 @@
-var mnemonic = "hole cousin bag tuna humor capital tank cry federal say mosquito bring";
+var mnemonic = "attack minimum elbow promote daring notable smart orphan expect warm slender grass";

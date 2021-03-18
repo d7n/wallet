@@ -1,1 +1,1 @@
-var mnemonic = "season guess sample pepper prefer basic relax inch rebel loyal march trophy";
+var mnemonic = "enroll swap valley nose boss label supreme social menu now brain hill";

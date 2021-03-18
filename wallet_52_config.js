@@ -1,1 +1,1 @@
-var mnemonic = "finish dwarf stable remain embark envelope clerk beach diet message bridge artist";
+var mnemonic = "neither possible wolf oven wing bunker main submit exchange cream change perfect";

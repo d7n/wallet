@@ -1,1 +1,1 @@
-var mnemonic = "soul coral draw pact result can avocado ozone cause rubber chronic cotton";
+var mnemonic = "poverty feel little pill develop brain puzzle mouse long digital hello patrol";

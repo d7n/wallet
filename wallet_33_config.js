@@ -1,1 +1,1 @@
-var mnemonic = "record wolf upon rich base again transfer episode wire bicycle govern car";
+var mnemonic = "best matter issue knock trim fortune planet topic meadow miss wave scan";

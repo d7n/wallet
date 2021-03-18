@@ -1,1 +1,1 @@
-var mnemonic = "meadow please net imitate funny express true sight proud crack weekend museum";
+var mnemonic = "sample evoke weekend melt express hand steak brand daring firm find grow";

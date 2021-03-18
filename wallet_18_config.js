@@ -1,1 +1,1 @@
-var mnemonic = "joy lizard index steak illegal lawn pony resist purity lyrics side major";
+var mnemonic = "random write actual city eternal future unknown stairs asthma slight soap attitude";

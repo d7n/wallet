@@ -1,1 +1,1 @@
-var mnemonic = "wood between theory leopard young faculty bleak catch crumble pool dial fly";
+var mnemonic = "remind immense wrap profit chief infant moon east crystal spatial before maximum";

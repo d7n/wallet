@@ -1,1 +1,1 @@
-var mnemonic = "fat trouble tornado lunch hurry next crew outside lend room rural penalty";
+var mnemonic = "certain clock prosper unfold middle hidden logic curtain eternal chuckle scale afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee drift safe crowd round mad genre fabric lava reward indoor fringe";
+var mnemonic = "gadget hen between youth return mistake buffalo sting submit prosper height magic";

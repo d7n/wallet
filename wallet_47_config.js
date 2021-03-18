@@ -1,1 +1,1 @@
-var mnemonic = "erupt column always acquire can emotion spread fury shove flat useful dance";
+var mnemonic = "grain super main old pair primary picture tail october country barely fatal";

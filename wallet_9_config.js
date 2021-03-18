@@ -1,1 +1,1 @@
-var mnemonic = "gap front embark patch neutral ginger rifle salmon inside confirm wisdom host";
+var mnemonic = "honey valve trim prevent area present hunt brain stairs tip clown iron";

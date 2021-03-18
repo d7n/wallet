@@ -1,1 +1,1 @@
-var mnemonic = "teach viable cupboard bitter romance car veteran debate liar oil away hawk";
+var mnemonic = "hub early wrap mansion estate pulp friend notable hire upgrade live quit";

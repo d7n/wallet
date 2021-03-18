@@ -1,1 +1,1 @@
-var mnemonic = "relief mother today puppy snap garden what rice cement second gasp sleep";
+var mnemonic = "describe mercy ready tomato bike squeeze behind maximum divorce robust frame bounce";

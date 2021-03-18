@@ -1,1 +1,1 @@
-var mnemonic = "soda sting canvas captain card picnic raise teach depart general flight half";
+var mnemonic = "pupil action host piano middle dumb body frame shuffle animal anger spare";

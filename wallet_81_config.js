@@ -1,1 +1,1 @@
-var mnemonic = "view blame assist speed trophy opera elephant stairs device ski genre lazy";
+var mnemonic = "start session entire wage page immense acoustic onion ramp private demand soul";

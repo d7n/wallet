@@ -1,1 +1,1 @@
-var mnemonic = "gospel chief water throw material remember divert ridge clump square repeat inherit";
+var mnemonic = "spare check hat obey alone feature aunt animal oppose magic guitar slam";

@@ -1,1 +1,1 @@
-var mnemonic = "tree shallow draw dentist wrestle keen addict until fever rookie derive doll";
+var mnemonic = "drip long inspire enemy layer kind depth frame wash female copy canvas";

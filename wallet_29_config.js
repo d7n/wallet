@@ -1,1 +1,1 @@
-var mnemonic = "note female soap rich valid video hint popular pony random tackle genius";
+var mnemonic = "convince sad script unhappy gospel kingdom high orange sun stool home danger";
