@@ -1,1 +1,1 @@
-var mnemonic = "opinion taxi focus wide soldier song outer element grow urban squeeze market";
+var mnemonic = "laundry unique flower release crime echo peanut orbit leisure educate merge top";

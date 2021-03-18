@@ -1,1 +1,1 @@
-var mnemonic = "swallow point faith theme chalk breeze casino reflect immense ivory napkin lesson";
+var mnemonic = "lyrics kick trip rely engage avoid parrot special cupboard pear guide above";

@@ -1,1 +1,1 @@
-var mnemonic = "security verify skate surround erupt vast hip gas predict hockey gaze member";
+var mnemonic = "kitchen rather travel fantasy kit tonight dune oblige reject frog worth play";

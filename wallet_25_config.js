@@ -1,1 +1,1 @@
-var mnemonic = "enroll slot submit grain nice width cheese victory pink boat artefact once";
+var mnemonic = "loop maid mirror home quit front guitar supreme step rail maze room";

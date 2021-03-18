@@ -1,1 +1,1 @@
-var mnemonic = "speed invite under pluck road guide gloom amazing company feature youth certain";
+var mnemonic = "street similar then old digital limb decline river quick belt jeans yard";

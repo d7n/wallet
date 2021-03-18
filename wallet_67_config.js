@@ -1,1 +1,1 @@
-var mnemonic = "shoot pattern picnic genius about kangaroo maple endless hurry deny civil penalty";
+var mnemonic = "business eyebrow put gas island dance churn such wink caught dwarf elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow expose screen blade defense remove limb odor unfair chase earth valve";
+var mnemonic = "document bachelor beach clerk slender basic feature age cat yard leopard purse";

@@ -1,1 +1,1 @@
-var mnemonic = "document concert acoustic surprise arrow buzz reward wash juice grace camera bulb";
+var mnemonic = "champion culture bean nominee ignore shy vacant scan tide device raw jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "climb real pond chest couch vocal skate guitar asthma riot parent vacant";
+var mnemonic = "more pink scene eye harbor lawsuit sort alpha turkey tank print dune";

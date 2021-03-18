@@ -1,1 +1,1 @@
-var mnemonic = "core squirrel possible fortune easy feed meadow hood cupboard gauge another okay";
+var mnemonic = "hazard pepper produce drop energy venue push fragile bacon bag cup group";

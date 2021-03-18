@@ -1,1 +1,1 @@
-var mnemonic = "crane elbow tray someone primary canal motion despair edit safe front pattern";
+var mnemonic = "staff disorder nominee civil flash include giggle bird unusual find position night";

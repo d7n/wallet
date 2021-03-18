@@ -1,1 +1,1 @@
-var mnemonic = "swim attack legend steel certain estate math twenty lobster eyebrow goddess perfect";
+var mnemonic = "venture census endorse basic warm maximum hill undo aisle elbow permit cattle";

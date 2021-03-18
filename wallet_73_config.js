@@ -1,1 +1,1 @@
-var mnemonic = "dismiss grace body client goose answer copy damp toy gravity tape little";
+var mnemonic = "absorb bid swear arena grief reveal turkey kick forward column fox amazing";

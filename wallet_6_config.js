@@ -1,1 +1,1 @@
-var mnemonic = "fiscal lava twelve thrive frost tone dash city trial spike coral elite";
+var mnemonic = "frog rival story devote inherit bottom doctor spice master cinnamon snack faint";

@@ -1,1 +1,1 @@
-var mnemonic = "near mention brown call science jacket helmet fluid march border ethics lottery";
+var mnemonic = "congress fence youth stool smoke public tuition hunt small image honey wish";

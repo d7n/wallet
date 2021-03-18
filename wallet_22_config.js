@@ -1,1 +1,1 @@
-var mnemonic = "perfect cheese prosper vicious voyage trial air flat wash salad cactus town";
+var mnemonic = "ensure chimney copper nose bulb forget vast front quality bulb safe sudden";

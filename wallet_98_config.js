@@ -1,1 +1,1 @@
-var mnemonic = "make two bicycle mammal state spy month below term horn lucky comfort";
+var mnemonic = "spatial demand unusual toddler fitness lizard pumpkin final attend taste onion adult";

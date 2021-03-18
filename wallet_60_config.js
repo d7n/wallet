@@ -1,1 +1,1 @@
-var mnemonic = "bike resource kid remind setup chaos deposit liar awkward hidden blast convince";
+var mnemonic = "hockey hub speed motion metal invest seven pride return drift bind muffin";

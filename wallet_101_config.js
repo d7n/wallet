@@ -1,1 +1,1 @@
-var mnemonic = "swift unfair kangaroo napkin wrestle message mass easily mansion degree pencil between";
+var mnemonic = "stereo unfair rifle little section fame verify easily memory parade knock adapt";

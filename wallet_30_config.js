@@ -1,1 +1,1 @@
-var mnemonic = "maze heavy village kangaroo rural figure oven plastic dance squeeze expire describe";
+var mnemonic = "cycle jump govern iron lyrics promote culture field slab upon bright guilt";

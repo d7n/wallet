@@ -1,1 +1,1 @@
-var mnemonic = "spray foster aisle dish scrub total hub pistol alert clarify upper session";
+var mnemonic = "more pizza prosper access virus huge dose aunt boss random parade say";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom narrow sleep comfort salmon neglect snap series enhance error carpet level";
+var mnemonic = "bless wine comfort glory warfare damage aspect sand juice sunset rescue lounge";

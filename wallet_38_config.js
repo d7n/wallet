@@ -1,1 +1,1 @@
-var mnemonic = "february school fury thought dilemma faculty kit air donate pink object metal";
+var mnemonic = "pioneer any canyon album pepper describe leg cart fuel discover grow genuine";

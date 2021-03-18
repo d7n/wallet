@@ -1,1 +1,1 @@
-var mnemonic = "surprise giggle noodle super cousin valve trap town maid verb actor vocal";
+var mnemonic = "pony vessel end special roast future desert evoke enter seed educate before";

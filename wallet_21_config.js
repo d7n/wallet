@@ -1,1 +1,1 @@
-var mnemonic = "mention leg timber rebel wink enter guard defy sort rhythm chicken tooth";
+var mnemonic = "icon general faint enough wreck ill copy twist eye act huge ticket";

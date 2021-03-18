@@ -1,1 +1,1 @@
-var mnemonic = "leg imitate keen quarter long milk shoot peasant recipe pull lunar journey";
+var mnemonic = "ready differ hungry timber basic friend mother female ridge casino reopen reform";

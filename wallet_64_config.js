@@ -1,1 +1,1 @@
-var mnemonic = "fade draft entire library hat develop daughter clarify reject slide describe jacket";
+var mnemonic = "brass tortoise hobby tool airport vote deputy fun apart author monitor pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "essay there blur umbrella champion raccoon oxygen hotel lounge hospital reason fatigue";
+var mnemonic = "frequent matter climb push jacket front merit half riot route try under";

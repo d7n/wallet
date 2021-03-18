@@ -1,1 +1,1 @@
-var mnemonic = "oil civil science fuel mule effort light shiver twenty noodle hobby boat";
+var mnemonic = "follow defense gate flush obvious shallow weekend boost absurd clay unhappy blind";

@@ -1,1 +1,1 @@
-var mnemonic = "about mystery lend rude awake muscle primary ice early slide genuine affair";
+var mnemonic = "action sick major design dutch protect begin original transfer random base taxi";

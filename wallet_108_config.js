@@ -1,1 +1,1 @@
-var mnemonic = "seat vocal special empty seat surface humble family proud divert auto scale";
+var mnemonic = "gadget twin midnight ivory caught cricket proof business air ribbon gold symptom";

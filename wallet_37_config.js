@@ -1,1 +1,1 @@
-var mnemonic = "immune tenant depth grow film broken movie goddess exile jar brass giant";
+var mnemonic = "gorilla alien depend museum this myself sunset engage latin fork opinion expect";

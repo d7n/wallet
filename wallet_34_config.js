@@ -1,1 +1,1 @@
-var mnemonic = "ticket lucky giant joy umbrella render icon media shop student marble elegant";
+var mnemonic = "man verb great mention fit battle salt lizard skull reunion visual stove";

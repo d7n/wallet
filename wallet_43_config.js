@@ -1,1 +1,1 @@
-var mnemonic = "orchard valve become trend shoulder hedgehog entry slight oppose salute crouch message";
+var mnemonic = "spatial inflict wet egg satoshi only pottery sad dentist robot have empty";

@@ -1,1 +1,1 @@
-var mnemonic = "chef crop nose either nominee owner mention title pact delay flock else";
+var mnemonic = "age lake together umbrella skin casual swamp similar isolate else dune home";

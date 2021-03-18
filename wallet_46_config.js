@@ -1,1 +1,1 @@
-var mnemonic = "shoulder bachelor genius flavor fee uniform view address call click bind world";
+var mnemonic = "pitch old nose hint peace trust gaze bench solid sure seek vintage";

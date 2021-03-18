@@ -1,1 +1,1 @@
-var mnemonic = "usage funny install leopard unknown elephant lottery alert blush robust door again";
+var mnemonic = "wealth two pigeon sound trip dolphin purchase prize combine fresh rubber meadow";

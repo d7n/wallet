@@ -1,1 +1,1 @@
-var mnemonic = "vintage blind announce wink upset rate focus scorpion square hire crash churn";
+var mnemonic = "just cake celery afford mosquito benefit toilet pill year crop brisk erosion";

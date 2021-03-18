@@ -1,1 +1,1 @@
-var mnemonic = "liar cage cancel expire trick purchase supply canoe cherry display obscure library";
+var mnemonic = "party lobster print ivory decide stay actual knock priority village rough hazard";

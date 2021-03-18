@@ -1,1 +1,1 @@
-var mnemonic = "harvest brass bring defense assault post pledge rich used speak riot fee";
+var mnemonic = "enemy quiz couch cousin hurt glimpse cook peanut army mixed bicycle raise";

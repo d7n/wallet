@@ -1,1 +1,1 @@
-var mnemonic = "famous pattern critic chuckle boat extra toe limit print tonight anchor patch";
+var mnemonic = "hair join carbon act citizen fiber retreat target category enter alone quick";

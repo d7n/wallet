@@ -1,1 +1,1 @@
-var mnemonic = "tumble world rain beach boring relief plug icon host loud replace disagree";
+var mnemonic = "valve pet swallow ship eternal make palace notice joy debate drive improve";

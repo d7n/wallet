@@ -1,1 +1,1 @@
-var mnemonic = "silly seed innocent accuse rate tornado animal uncle endless target trouble buddy";
+var mnemonic = "mountain pig skirt liberty blind main cricket merit travel liberty breeze hungry";

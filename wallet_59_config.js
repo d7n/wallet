@@ -1,1 +1,1 @@
-var mnemonic = "garbage lamp move parrot crush post unit link amount theme truly unveil";
+var mnemonic = "buffalo script wagon cruise patient step cube please sense you goddess pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt lumber ignore head meadow joke replace shrug law tilt cloud useful";
+var mnemonic = "tell inquiry friend own bunker drift garden mixture receive whisper sadness hockey";

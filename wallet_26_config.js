@@ -1,1 +1,1 @@
-var mnemonic = "seat hand goose enroll bar distance eye favorite exercise raw enable option";
+var mnemonic = "boy ski settle chimney lunar buzz toast merit paper problem axis surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "punch isolate action pair old erosion plate giraffe input visual beach window";
+var mnemonic = "narrow useful seminar unlock view normal bread usual lunch silent rely mansion";

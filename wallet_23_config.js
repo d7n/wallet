@@ -1,1 +1,1 @@
-var mnemonic = "hood couch still easily wine coin diagram display myself settle dance improve";
+var mnemonic = "kitchen chronic rigid goose direct salon kid public rally seat daughter useless";

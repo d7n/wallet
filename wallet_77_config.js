@@ -1,1 +1,1 @@
-var mnemonic = "check welcome jelly divorce filter behind coffee captain friend vague blur topple";
+var mnemonic = "junior wear unknown border connect electric person inform limit tide reflect parent";

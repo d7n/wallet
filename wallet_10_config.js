@@ -1,1 +1,1 @@
-var mnemonic = "camp flee night camp muscle lawsuit grief cannon rival dumb pupil ghost";
+var mnemonic = "wedding velvet people wealth tragic machine obey demand arch risk blame day";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen satisfy bleak lucky rose city supply skin same manual sing stadium";
+var mnemonic = "image file glow canal charge find trust current all nurse obey scorpion";

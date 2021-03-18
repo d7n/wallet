@@ -1,1 +1,1 @@
-var mnemonic = "milk phrase client spot danger casino dignity reunion turtle nation raven mask";
+var mnemonic = "bread profit curtain attack symptom hurt ancient utility prevent grace burger top";

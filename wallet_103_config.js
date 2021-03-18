@@ -1,1 +1,1 @@
-var mnemonic = "forget salt actor ability tip child panel toe travel odor scout glove";
+var mnemonic = "before priority expand bench tube question abandon nose bone universe note twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "patient odor hover cliff wild pitch soul arch hawk eyebrow fitness flag";
+var mnemonic = "chef cabin dust sad clutch forward glass impose talent car prosper beauty";

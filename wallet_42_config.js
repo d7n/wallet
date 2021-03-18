@@ -1,1 +1,1 @@
-var mnemonic = "fence raw organ canoe about ancient disorder pave patch witness series cluster";
+var mnemonic = "exclude monitor mountain happy renew box creek pigeon squeeze chaos dynamic kite";

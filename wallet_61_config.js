@@ -1,1 +1,1 @@
-var mnemonic = "lazy badge promote believe garment year desk guard nation half cover cliff";
+var mnemonic = "anger duty lock connect cause scare decline tornado blast artefact six host";

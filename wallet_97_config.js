@@ -1,1 +1,1 @@
-var mnemonic = "become cherry utility vessel child pistol sell west toilet comic alpha juice";
+var mnemonic = "pupil sail story thunder relax coast window dilemma stereo basic tortoise river";

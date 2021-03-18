@@ -1,1 +1,1 @@
-var mnemonic = "enroll never pioneer people orient naive debate eight train mind provide silly";
+var mnemonic = "yard write combine butter train ankle rally rally ceiling divert buyer crime";

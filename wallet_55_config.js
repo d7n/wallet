@@ -1,1 +1,1 @@
-var mnemonic = "burst afraid tribe skirt kidney dizzy child detect cook fly snap unable";
+var mnemonic = "thumb zone iron radar sword sausage differ saddle churn humor follow purchase";

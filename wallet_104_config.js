@@ -1,1 +1,1 @@
-var mnemonic = "foil kite curious dove grace sausage reunion arrange fiber aim never fit";
+var mnemonic = "engage cram foot modify return scatter warm symbol audit photo fancy sentence";

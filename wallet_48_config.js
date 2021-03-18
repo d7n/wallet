@@ -1,1 +1,1 @@
-var mnemonic = "early deposit card urban hub artist give drum mention rate middle magnet";
+var mnemonic = "dynamic obey case repair poverty chronic endless shoot trigger poet planet inform";

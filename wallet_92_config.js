@@ -1,1 +1,1 @@
-var mnemonic = "waste frozen pond swing expand taxi barrel inhale fish snow fence farm";
+var mnemonic = "blouse regular outdoor cement next laundry bacon stage goose foster bracket play";

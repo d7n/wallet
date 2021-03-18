@@ -1,1 +1,1 @@
-var mnemonic = "property gather catch exclude critic patch walk zero sting next slow stove";
+var mnemonic = "divert symbol across relief follow sister laptop thought lens window salt surge";

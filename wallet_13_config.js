@@ -1,1 +1,1 @@
-var mnemonic = "castle response tattoo enrich heavy inch relief exhaust room baby chaos become";
+var mnemonic = "have guilt negative vault gas brand sheriff warfare boost pair happy leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "couple gate imitate brain course tonight click must govern wealth food erosion";
+var mnemonic = "torch blind clutch wasp wife biology autumn rare pelican tourist since clap";

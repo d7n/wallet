@@ -1,1 +1,1 @@
-var mnemonic = "asthma depart crazy wolf void almost loop right rubber daring arrow multiply";
+var mnemonic = "position photo slim street fantasy embark draw collect same inspire squirrel rely";

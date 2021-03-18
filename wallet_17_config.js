@@ -1,1 +1,1 @@
-var mnemonic = "kitchen enable phone ozone pelican siren soldier state agent field witness improve";
+var mnemonic = "rare shiver fly match grape fit genuine repair general include coast offer";

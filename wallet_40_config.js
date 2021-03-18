@@ -1,1 +1,1 @@
-var mnemonic = "brain trim maple cool nation blind dynamic chief minute dawn style cash";
+var mnemonic = "bleak write surge unusual abuse antenna panic lend comic picnic unlock goddess";

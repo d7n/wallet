@@ -1,1 +1,1 @@
-var mnemonic = "crime toward smile fossil much merge relief bachelor bicycle denial shock live";
+var mnemonic = "marriage twenty rigid energy cruise cave use wrestle another scare frown angle";

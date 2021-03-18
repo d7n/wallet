@@ -1,1 +1,1 @@
-var mnemonic = "tenant brick stand tool six betray desert squeeze puppy zone column tape";
+var mnemonic = "broken write raise picture assist door envelope design genre neither pretty private";

@@ -1,1 +1,1 @@
-var mnemonic = "junior danger space struggle flush goddess derive boring play utility snake fossil";
+var mnemonic = "adapt spirit robot faint beyond enter wall oak joy jungle swarm error";

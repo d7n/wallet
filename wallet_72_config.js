@@ -1,1 +1,1 @@
-var mnemonic = "cluster drop reunion width civil fragile faint group copper repair mandate chicken";
+var mnemonic = "reveal amazing run negative case suspect response cactus popular solar inner pitch";

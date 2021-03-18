@@ -1,1 +1,1 @@
-var mnemonic = "mimic solar return ensure wild medal uncover child october gift link upset";
+var mnemonic = "apart agent brief must lift arch short reflect acid other coffee wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "front early mimic real mango gospel nothing lawsuit betray hidden rhythm planet";
+var mnemonic = "magic hand earth before praise expand title prevent demand suffer salute loan";

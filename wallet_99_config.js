@@ -1,1 +1,1 @@
-var mnemonic = "path hurt peasant army divide bounce aerobic error success scrub ready fresh";
+var mnemonic = "dignity twice pioneer fossil section earth near body episode enter wrong camp";

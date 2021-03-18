@@ -1,1 +1,1 @@
-var mnemonic = "syrup prize wife vehicle economy artefact repeat buyer crazy devote funny empty";
+var mnemonic = "snap bunker you unhappy ghost island brisk extend frog size detect pencil";

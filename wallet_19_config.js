@@ -1,1 +1,1 @@
-var mnemonic = "minute connect jazz dream example foil garlic teach early rude square route";
+var mnemonic = "pudding later merit apple miracle scare away pause sorry about law sausage";

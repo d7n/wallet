@@ -1,1 +1,1 @@
-var mnemonic = "speak actual hard tip wood plunge before wolf trophy clay have deer";
+var mnemonic = "cigar since horror hood jungle shield begin undo organ quiz metal ride";

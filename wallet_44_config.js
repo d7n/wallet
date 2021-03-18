@@ -1,1 +1,1 @@
-var mnemonic = "car concert nominee vast cradle action achieve obscure sting deer attitude drill";
+var mnemonic = "brain aunt soul acquire guitar oppose manage planet uniform amazing female turn";

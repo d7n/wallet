@@ -1,1 +1,1 @@
-var mnemonic = "improve shrug magnet slim account inside mechanic nominee century crane section page";
+var mnemonic = "detail pilot tunnel scout cloth demand lesson junk industry group hobby useless";

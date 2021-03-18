@@ -1,1 +1,1 @@
-var mnemonic = "cream afraid angle tuna husband able average relief endorse cupboard owner soon";
+var mnemonic = "harsh circle win foster solve seven bread trigger awake virtual rail settle";

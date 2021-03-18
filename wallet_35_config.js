@@ -1,1 +1,1 @@
-var mnemonic = "include else hazard future humble library differ stuff verify essence tribe pigeon";
+var mnemonic = "still absorb fatigue clay romance garden enact sad border stem coconut fever";

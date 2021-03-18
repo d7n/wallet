@@ -1,1 +1,1 @@
-var mnemonic = "room simple hill imitate stem wedding tool virtual vital soccer excuse legend";
+var mnemonic = "holiday debate later doll able skill rescue please sample door bitter immense";

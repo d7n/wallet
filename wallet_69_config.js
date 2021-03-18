@@ -1,1 +1,1 @@
-var mnemonic = "pulp can popular combine riot pitch erase gospel setup funny fury exhibit";
+var mnemonic = "debris raw spy library aerobic pig luxury vote current prevent expect must";

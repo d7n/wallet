@@ -1,1 +1,1 @@
-var mnemonic = "drama ostrich surprise harbor royal start sock move utility detect puzzle tiny";
+var mnemonic = "vivid brick erosion organ average decade occur busy unable vault step steak";

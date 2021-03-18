@@ -1,1 +1,1 @@
-var mnemonic = "sing bless grab exclude foil grid once inject roof element margin disorder";
+var mnemonic = "siren color shine chunk friend soap fit moral drift balcony festival doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "return blush term exhibit grant joy trouble syrup over zone exotic raccoon";
+var mnemonic = "remain galaxy amount stage jump purse crawl cube charge burger secret december";

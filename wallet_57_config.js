@@ -1,1 +1,1 @@
-var mnemonic = "recycle sadness sibling tomato salad dust cream garment youth sword hamster lab";
+var mnemonic = "venue dutch tank thunder couch yard display brush apology slam visit word";

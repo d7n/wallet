@@ -1,1 +1,1 @@
-var mnemonic = "loud grow path frequent rally kiss provide orange switch ramp catalog thumb";
+var mnemonic = "above ill spoil crime define industry cat glow pride open birth oak";
