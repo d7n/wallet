@@ -1,1 +1,1 @@
-var mnemonic = "just feature vibrant side recycle warrior ring reunion diet thumb balcony final";
+var mnemonic = "approve egg worry erosion lunar phone marble orbit can alone search hat";

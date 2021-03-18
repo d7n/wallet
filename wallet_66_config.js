@@ -1,1 +1,1 @@
-var mnemonic = "unhappy slice man delay cargo melt piece script vicious nothing proud unique";
+var mnemonic = "essence adapt pass never lunch army city little enlist subject supply inject";

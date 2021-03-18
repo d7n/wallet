@@ -1,1 +1,1 @@
-var mnemonic = "mom stay juice riot buyer athlete jelly pitch over field icon drift";
+var mnemonic = "gauge glance increase clinic remain poet kangaroo host foster category sick apology";

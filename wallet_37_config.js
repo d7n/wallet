@@ -1,1 +1,1 @@
-var mnemonic = "lab share appear illegal later lobster endless vintage explain lawsuit exchange tonight";
+var mnemonic = "inmate sunny slogan claw tenant million vocal wheel cloud tuna other bean";

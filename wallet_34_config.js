@@ -1,1 +1,1 @@
-var mnemonic = "kid anger term void novel taxi real tourist insect fiscal north ripple";
+var mnemonic = "about devote canoe olive surface choice page keen love skull better private";

@@ -1,1 +1,1 @@
-var mnemonic = "menu pond stairs slam volcano mansion spend next cinnamon foil seat kick";
+var mnemonic = "spoil garden only sunset tissue crane one stem whip suit clump cube";

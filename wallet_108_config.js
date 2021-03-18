@@ -1,1 +1,1 @@
-var mnemonic = "beach process voice attract fitness waste response lamp ball area wife kiwi";
+var mnemonic = "fruit horror unique bird grape problem crush hundred decline simple come toast";

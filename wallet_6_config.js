@@ -1,1 +1,1 @@
-var mnemonic = "tumble material critic blush hour hospital joke sport panel sail rebuild salmon";
+var mnemonic = "merit cycle main fantasy rhythm indoor cherry knife hidden slide focus skull";

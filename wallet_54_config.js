@@ -1,1 +1,1 @@
-var mnemonic = "answer hint drum print zoo letter path subway ghost raven anger tumble";
+var mnemonic = "else muscle actor tilt soon electric rely project squeeze flush buyer real";

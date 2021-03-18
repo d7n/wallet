@@ -1,1 +1,1 @@
-var mnemonic = "rather early wrap basic sure relief neck inquiry over skill slight access";
+var mnemonic = "wine dentist travel panda arrow spray hub unveil under cost wealth fever";

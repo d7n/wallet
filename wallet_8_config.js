@@ -1,1 +1,1 @@
-var mnemonic = "potato man shadow walnut glad cherry stool awake alpha car myth edit";
+var mnemonic = "core business people process guitar away orient loyal tiger engine kid nasty";

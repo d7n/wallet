@@ -1,1 +1,1 @@
-var mnemonic = "gauge frost doctor involve table kitchen bulk table add wrap elite robust";
+var mnemonic = "more indoor wild gesture apart obtain code south alert chef blind message";

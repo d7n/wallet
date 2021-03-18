@@ -1,1 +1,1 @@
-var mnemonic = "option scrub zebra upon grace portion meat cup town retire hobby ill";
+var mnemonic = "exhaust gasp stove olive relief slice bracket skate antique around hockey crystal";

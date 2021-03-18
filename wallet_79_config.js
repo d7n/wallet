@@ -1,1 +1,1 @@
-var mnemonic = "rotate report local evidence enter melody boy clerk silver funny release urban";
+var mnemonic = "edit space weekend ceiling soap kick place absurd oxygen undo height network";

@@ -1,1 +1,1 @@
-var mnemonic = "slush bean degree police van mind immense meadow smart route slot often";
+var mnemonic = "cheap true antenna luxury black dismiss stock throw dumb quantum ahead decade";

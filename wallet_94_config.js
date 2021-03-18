@@ -1,1 +1,1 @@
-var mnemonic = "neck photo lock rack day local float quiz hospital amazing split merry";
+var mnemonic = "unusual glove tent erosion remove pitch wrist permit coin dutch device asthma";

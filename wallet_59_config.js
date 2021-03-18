@@ -1,1 +1,1 @@
-var mnemonic = "menu shell delay animal deny pattern zoo bless tonight liberty royal crane";
+var mnemonic = "adjust tourist obscure glass mad sibling mom body excite region left lecture";

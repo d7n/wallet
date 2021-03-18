@@ -1,1 +1,1 @@
-var mnemonic = "sibling left point grace unique sting bachelor couch good pipe differ gown";
+var mnemonic = "place margin oblige where valid rose shallow practice fury target choice wear";

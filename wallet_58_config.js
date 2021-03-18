@@ -1,1 +1,1 @@
-var mnemonic = "either alone together note vendor combine inner sister become fork rack gadget";
+var mnemonic = "glue surprise black enjoy flush swamp beach draft divide era catalog result";

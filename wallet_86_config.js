@@ -1,1 +1,1 @@
-var mnemonic = "slot riot victory silent output label canyon weather law corn illegal check";
+var mnemonic = "body secret secret such disorder theme solid source cat guard circle assault";

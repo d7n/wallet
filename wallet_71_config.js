@@ -1,1 +1,1 @@
-var mnemonic = "limit actor slow shell filter inflict transfer canal detect foot rubber neck";
+var mnemonic = "almost glimpse cradle exclude judge lake range heavy season assault sun dinner";

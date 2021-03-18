@@ -1,1 +1,1 @@
-var mnemonic = "lab away auction absurd sword primary spin supply forget desk earth arrange";
+var mnemonic = "hair toddler play inflict merge hobby because race duty exchange supply rabbit";

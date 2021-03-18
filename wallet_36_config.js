@@ -1,1 +1,1 @@
-var mnemonic = "spin mixed art source cinnamon success purchase license emotion innocent walnut renew";
+var mnemonic = "burden pepper axis gloom misery learn eight menu head erosion amateur toy";

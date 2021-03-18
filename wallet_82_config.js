@@ -1,1 +1,1 @@
-var mnemonic = "trade assume lottery radio imitate teach parent danger quote text digital gas";
+var mnemonic = "vault category uniform small birth proud tragic afford twenty mix bag axis";

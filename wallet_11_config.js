@@ -1,1 +1,1 @@
-var mnemonic = "latin arctic chicken mesh zero other wise water lady rally country define";
+var mnemonic = "mesh disease enact banner wall civil modify blast device focus muffin glue";

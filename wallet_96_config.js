@@ -1,1 +1,1 @@
-var mnemonic = "trigger script cricket weather manual during stable lemon void sound toss agent";
+var mnemonic = "kingdom nuclear fox route black access planet follow carry peasant case tattoo";

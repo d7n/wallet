@@ -1,1 +1,1 @@
-var mnemonic = "ensure radio audit federal cinnamon bamboo poet tooth donkey mandate journey circle";
+var mnemonic = "open huge rude excess valve news tool unable world refuse hip obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet safe arena tiny radar pluck usual clutch wrist physical wedding potato";
+var mnemonic = "lion mad mix fatigue fluid million swift typical road taxi era tide";

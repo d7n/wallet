@@ -1,1 +1,1 @@
-var mnemonic = "victory april fog gesture amateur nominee deliver swim wine unaware swim final";
+var mnemonic = "grain over swamp slogan patch sand craft trick reward road another flat";

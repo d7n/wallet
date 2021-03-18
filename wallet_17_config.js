@@ -1,1 +1,1 @@
-var mnemonic = "deal evil shoot anger merge humble chronic shrug echo scene grain stairs";
+var mnemonic = "pulse boost express flee unveil forget power pigeon bridge panda sample tribe";

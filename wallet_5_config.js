@@ -1,1 +1,1 @@
-var mnemonic = "enlist lend unfold lend cluster like core crop transfer leopard father frost";
+var mnemonic = "nominee genre genuine auction always indicate decide sick inform muscle bind ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "choose frog process child long never recipe price hedgehog egg car rug";
+var mnemonic = "unknown orbit wasp arch water chicken sister lottery enhance increase devote suggest";

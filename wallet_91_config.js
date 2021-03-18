@@ -1,1 +1,1 @@
-var mnemonic = "stuff cement walnut riot belt emerge wide vendor gasp fault goose lonely";
+var mnemonic = "fancy pill desert science follow critic nose resource motion end remove earn";

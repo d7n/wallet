@@ -1,1 +1,1 @@
-var mnemonic = "typical mammal glove carpet educate fancy leader evidence video entire mixed climb";
+var mnemonic = "silly enough abstract sausage doll valid vault crush famous dash drip grain";

@@ -1,1 +1,1 @@
-var mnemonic = "dish connect cinnamon wine faculty enough glimpse cram expose immune theme mistake";
+var mnemonic = "series daring broken shove space dress buzz impulse strategy remove jelly genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "miss unique behave like embody crush way neglect artist sentence empty disease";
+var mnemonic = "enable any also rebuild omit bench stool dignity alert moral virtual portion";

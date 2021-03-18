@@ -1,1 +1,1 @@
-var mnemonic = "current hope attitude history talk wreck episode spray egg citizen proud twice";
+var mnemonic = "flame nominee mechanic sail inherit regular moon slim era keep hint mandate";

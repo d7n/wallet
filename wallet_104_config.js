@@ -1,1 +1,1 @@
-var mnemonic = "tumble over oxygen anxiety begin city copy garlic drop snow genre egg";
+var mnemonic = "beyond quick punch maid option clarify acid text century spider come payment";

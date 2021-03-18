@@ -1,1 +1,1 @@
-var mnemonic = "better sorry circle season error rough tiny entry holiday citizen deputy little";
+var mnemonic = "since napkin throw squeeze fresh toward rose believe link stem behind ride";

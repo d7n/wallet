@@ -1,1 +1,1 @@
-var mnemonic = "organ media cry arctic gauge bomb giggle stone satisfy vital suffer mesh";
+var mnemonic = "scissors short tired gap brown pelican frown security claim once palace jar";

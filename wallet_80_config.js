@@ -1,1 +1,1 @@
-var mnemonic = "century recycle trend seat heart pact target zone power become retire silent";
+var mnemonic = "month window core piece matrix maximum floor spend brave pumpkin waste thank";

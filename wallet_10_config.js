@@ -1,1 +1,1 @@
-var mnemonic = "inform wrist pottery rural toast park life flock exhaust raccoon sting unlock";
+var mnemonic = "horse shield pink angle cry rich head kid reject ski involve bunker";

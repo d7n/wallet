@@ -1,1 +1,1 @@
-var mnemonic = "cabbage else interest marble light basket direct common pupil current sport often";
+var mnemonic = "twist wreck among risk little pink bundle bitter vault sphere tone eagle";

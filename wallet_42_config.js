@@ -1,1 +1,1 @@
-var mnemonic = "relax bullet shrug remain loan bacon metal eagle property visual beauty olive";
+var mnemonic = "make dutch rug column float dignity scissors exile flower fox focus acid";

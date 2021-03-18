@@ -1,1 +1,1 @@
-var mnemonic = "gorilla expire settle lottery judge wealth soft spoon remind burst boss gate";
+var mnemonic = "check snow loyal combine moon attend august program early certain armed current";

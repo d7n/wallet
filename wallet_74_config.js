@@ -1,1 +1,1 @@
-var mnemonic = "genuine bacon call mean before parent gauge assist talk moment awful urban";
+var mnemonic = "erosion brick country fitness grit finger when eye clump renew ignore lounge";

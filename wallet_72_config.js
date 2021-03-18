@@ -1,1 +1,1 @@
-var mnemonic = "elegant safe dose post seek else glimpse nominee faint decide advance snack";
+var mnemonic = "useful mushroom kingdom bone leave laugh electric fox zoo antique rural bike";

@@ -1,1 +1,1 @@
-var mnemonic = "girl ship pear harvest blouse slice voice engine absent artefact urban return";
+var mnemonic = "fever upset wrist autumn rotate hybrid tool embark jungle crawl fancy daring";

@@ -1,1 +1,1 @@
-var mnemonic = "sense differ equip indicate identify dismiss orange original can acquire hollow ensure";
+var mnemonic = "lady top first wild write enlist cup genius city sadness biology oppose";

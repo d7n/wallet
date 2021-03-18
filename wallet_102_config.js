@@ -1,1 +1,1 @@
-var mnemonic = "acid follow corn ensure angle course couch scorpion embrace vague mesh vanish";
+var mnemonic = "vibrant ankle way runway tag kid vague below install relief coyote wear";

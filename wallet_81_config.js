@@ -1,1 +1,1 @@
-var mnemonic = "collect unit spray include possible minimum symbol confirm hidden scale gentle sun";
+var mnemonic = "draft lawsuit bubble fancy wrong today february office barely purpose essay cheese";

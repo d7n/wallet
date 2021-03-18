@@ -1,1 +1,1 @@
-var mnemonic = "absurd effort drama pet search middle gather author display brain wrestle minimum";
+var mnemonic = "surround gown stuff best farm denial hybrid disagree hammer result mule siege";

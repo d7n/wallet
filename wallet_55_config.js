@@ -1,1 +1,1 @@
-var mnemonic = "express tooth tourist clean spell drip gather usage ghost elephant undo music";
+var mnemonic = "disorder away chuckle slender baby regular route nurse beef now market general";

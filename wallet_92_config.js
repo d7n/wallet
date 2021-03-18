@@ -1,1 +1,1 @@
-var mnemonic = "tip spare post like best birth tag tool absent poverty wrap snack";
+var mnemonic = "success borrow odor divide attack enjoy donkey feed unique route level cry";

@@ -1,1 +1,1 @@
-var mnemonic = "arch path smoke price hollow such program edit tissue later cement together";
+var mnemonic = "strike pass window tilt prison random wash steel sound child problem census";

@@ -1,1 +1,1 @@
-var mnemonic = "please ahead input piece fix fiscal art master trial road transfer wool";
+var mnemonic = "improve occur tourist slow crazy fame share like gesture hungry rebuild skull";

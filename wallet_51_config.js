@@ -1,1 +1,1 @@
-var mnemonic = "fox jeans aunt pottery chunk cheap quote tired slow dust prize feed";
+var mnemonic = "circle hungry accuse topic negative wedding olive vote text mercy grain glory";

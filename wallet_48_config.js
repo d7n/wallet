@@ -1,1 +1,1 @@
-var mnemonic = "trick pull cereal hospital thumb eagle secret fit recycle radar absorb ketchup";
+var mnemonic = "update permit laugh repeat grief knife scrub inhale six pause sound join";

@@ -1,1 +1,1 @@
-var mnemonic = "curve board trend silk garment abuse judge top husband panic six fun";
+var mnemonic = "nerve fee praise grief keen casual detail also notice list fetch left";

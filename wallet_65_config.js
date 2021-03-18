@@ -1,1 +1,1 @@
-var mnemonic = "glimpse cat mystery emotion spawn hurt hold account drum law witness mammal";
+var mnemonic = "pill shoulder hurdle margin axis castle much speed flat ecology innocent duck";

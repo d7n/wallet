@@ -1,1 +1,1 @@
-var mnemonic = "master antenna oyster avoid super island goat infant slam bring conduct polar";
+var mnemonic = "essay soul dizzy swing multiply blind melt next exile speak satisfy brain";

@@ -1,1 +1,1 @@
-var mnemonic = "color limit speak script gain between atom enact float camera anchor sunny";
+var mnemonic = "breeze primary twist insect sunny amazing barely answer eagle razor loop citizen";

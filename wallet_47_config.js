@@ -1,1 +1,1 @@
-var mnemonic = "idea clay snow guide surround tumble hybrid useful oyster moral space join";
+var mnemonic = "elder mixture visual slight honey moment sheriff orphan camp memory large fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics series chest horn they thumb wild long rival rib sun bunker";
+var mnemonic = "blast horror next afraid cat rough purse fragile base music reward word";

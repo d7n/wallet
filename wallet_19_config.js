@@ -1,1 +1,1 @@
-var mnemonic = "truth glance crunch volcano evolve syrup access truck stay address private offer";
+var mnemonic = "hurt menu legal jelly carpet system knock anchor level argue shed inmate";

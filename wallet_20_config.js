@@ -1,1 +1,1 @@
-var mnemonic = "truck cloth old heavy slow slow dog include they lion labor human";
+var mnemonic = "slice very power since tip horror pink reason unveil document model grit";

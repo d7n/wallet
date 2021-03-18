@@ -1,1 +1,1 @@
-var mnemonic = "hospital amateur hybrid awake cost glance item stomach gather raven autumn purity";
+var mnemonic = "ring appear chaos build orient cliff theme tooth cart family rib salute";

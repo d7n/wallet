@@ -1,1 +1,1 @@
-var mnemonic = "ginger permit oppose material design arrive inherit wreck rule slush tragic engage";
+var mnemonic = "tone envelope loop draw cost unable mad health absurd economy course today";

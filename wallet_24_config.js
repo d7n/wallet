@@ -1,1 +1,1 @@
-var mnemonic = "horror pass salmon spirit item mad inch drift similar steak under raccoon";
+var mnemonic = "inject company wise merge portion long run lucky suffer sweet behind salon";

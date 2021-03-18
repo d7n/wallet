@@ -1,1 +1,1 @@
-var mnemonic = "ship post bounce pipe arrive dance essence mansion planet deal dinosaur gift";
+var mnemonic = "slim limit cheap garment deposit foil very life network steak peanut correct";

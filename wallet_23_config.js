@@ -1,1 +1,1 @@
-var mnemonic = "shield witness vessel member ritual swamp soon unit manual stool brother sad";
+var mnemonic = "iron another require banana bridge tube onion price vendor vanish canoe caught";

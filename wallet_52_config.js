@@ -1,1 +1,1 @@
-var mnemonic = "hole hard suggest coral twist title drive object dirt captain large torch";
+var mnemonic = "liquid draw gravity garage warm core phone spin hard front maze then";

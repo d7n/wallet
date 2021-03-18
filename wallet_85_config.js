@@ -1,1 +1,1 @@
-var mnemonic = "much toss buyer supply lucky spray vault south fit head chase okay";
+var mnemonic = "wing basic humble convince rookie sentence economy spread reduce host man salute";

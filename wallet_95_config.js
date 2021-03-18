@@ -1,1 +1,1 @@
-var mnemonic = "entry warm remain isolate brief hero announce wall crime advance joy tornado";
+var mnemonic = "chuckle equal civil carry true jewel six legal appear tonight oblige sadness";

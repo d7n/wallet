@@ -1,1 +1,1 @@
-var mnemonic = "powder avoid spirit bomb funny afraid will feed fortune worth assault dad";
+var mnemonic = "mirror ranch exercise man chest business fix alert inmate supply elephant happy";

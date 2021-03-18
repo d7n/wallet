@@ -1,1 +1,1 @@
-var mnemonic = "approve nut replace divide thunder double business permit great around recall video";
+var mnemonic = "bike long ancient liar daughter stock sting satisfy joy salute prison average";

@@ -1,1 +1,1 @@
-var mnemonic = "unable funny awesome now wild wrap urban cradle tenant casual call bleak";
+var mnemonic = "blur bright bright ecology always animal hand excess arrive salute birth farm";

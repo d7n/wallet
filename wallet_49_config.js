@@ -1,1 +1,1 @@
-var mnemonic = "detail tell all upon inmate oak village aunt fade blush abuse gossip";
+var mnemonic = "motion runway force burden traffic elephant crush morning depend snake biology tribe";

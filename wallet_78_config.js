@@ -1,1 +1,1 @@
-var mnemonic = "physical gown frame laugh cook draft okay arrive lion rare three faith";
+var mnemonic = "copper wine reward bullet view enhance success clerk ramp rose pause pair";

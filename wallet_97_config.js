@@ -1,1 +1,1 @@
-var mnemonic = "observe bird surprise extra dolphin grit boil law lesson insane side sick";
+var mnemonic = "escape tower wink virtual artwork frog neither slide differ idle slow interest";

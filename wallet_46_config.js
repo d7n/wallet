@@ -1,1 +1,1 @@
-var mnemonic = "claw just grab globe move sick mango goddess negative maid skill remember";
+var mnemonic = "grace equal crucial whale witness buddy bracket ensure have giraffe army key";

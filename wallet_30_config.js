@@ -1,1 +1,1 @@
-var mnemonic = "control club whale picture mistake ticket buyer express sleep gate flash fetch";
+var mnemonic = "sound misery tape trend give fun trade hedgehog thunder burger comic silver";

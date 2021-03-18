@@ -1,1 +1,1 @@
-var mnemonic = "early annual wait great grief wide smile boil actual horror sad lawsuit";
+var mnemonic = "gym soldier average satisfy tomato picnic forward kite noise explain excite silk";
