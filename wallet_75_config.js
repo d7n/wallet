@@ -1,1 +1,1 @@
-var mnemonic = "angle myth cup brass obey space local derive wage crack glove roast";
+var mnemonic = "cake oyster hard input normal say faint spice timber shield business easily";

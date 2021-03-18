@@ -1,1 +1,1 @@
-var mnemonic = "ankle world pepper often prevent expose barely pet visual bomb clarify inquiry";
+var mnemonic = "image segment tissue venture until arena final busy river cage science resource";

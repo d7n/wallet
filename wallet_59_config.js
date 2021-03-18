@@ -1,1 +1,1 @@
-var mnemonic = "bubble baby thing movie enforce artefact model final fall prefer review range";
+var mnemonic = "grunt mention tonight gaze dad hip wolf success envelope borrow rate trust";

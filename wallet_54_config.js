@@ -1,1 +1,1 @@
-var mnemonic = "market orphan gate exile month pride outside window note region naive exhaust";
+var mnemonic = "drop engine wish hub harsh orbit three festival traffic rabbit bacon emotion";

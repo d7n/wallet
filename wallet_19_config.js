@@ -1,1 +1,1 @@
-var mnemonic = "almost crime below retreat hurt stomach six region exercise club sketch will";
+var mnemonic = "soft fiscal title address damage profit fantasy plastic viable wide load tail";

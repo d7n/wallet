@@ -1,1 +1,1 @@
-var mnemonic = "dial dynamic primary skate tuition drive crucial wool wave arena insane decade";
+var mnemonic = "permit peanut island load price gate submit absurd stuff range world company";

@@ -1,1 +1,1 @@
-var mnemonic = "process forum refuse forum limit recall question scrap velvet fatigue clock chapter";
+var mnemonic = "mean stage pig flip force duck daughter crucial keen view giraffe salt";

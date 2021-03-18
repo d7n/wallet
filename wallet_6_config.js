@@ -1,1 +1,1 @@
-var mnemonic = "enhance impulse trophy maze wish style fade street ramp review repeat skirt";
+var mnemonic = "evolve blossom enforce element spoon travel library diesel crush foam spoil horn";

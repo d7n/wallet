@@ -1,1 +1,1 @@
-var mnemonic = "enroll stairs holiday tissue crumble hockey loop guess laugh lounge code baby";
+var mnemonic = "picnic beauty sleep transfer soft verify visa document hospital vivid thought reward";

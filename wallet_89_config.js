@@ -1,1 +1,1 @@
-var mnemonic = "crucial refuse bus moment animal gun envelope tumble spare library trend attitude";
+var mnemonic = "list supply old liar title elevator zero ring slogan shiver emerge issue";

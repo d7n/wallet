@@ -1,1 +1,1 @@
-var mnemonic = "silly near tiger sunny claw holiday wrap ceiling noise fall liberty tragic";
+var mnemonic = "beyond chase proof wish alpha taste inquiry broccoli measure kangaroo hunt push";

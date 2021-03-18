@@ -1,1 +1,1 @@
-var mnemonic = "next fatal relief sound comic fabric large captain elegant dentist breeze skill";
+var mnemonic = "scene sniff calm original balance charge waste entry staff radar roast arch";

@@ -1,1 +1,1 @@
-var mnemonic = "general victory next dad elegant chat slight alone major noise stamp update";
+var mnemonic = "ship boy educate fault sure flat idle outer crouch current evidence analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf border sibling rubber suspect journey equip secret grunt girl own fold";
+var mnemonic = "ocean vapor document green exist course usage fashion young virus loan curtain";

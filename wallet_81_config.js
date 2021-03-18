@@ -1,1 +1,1 @@
-var mnemonic = "lunar truly dutch jump direct forest addict swift flame fee sausage never";
+var mnemonic = "fade muscle photo mistake slab pig elevator grant swarm smile mule symptom";

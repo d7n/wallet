@@ -1,1 +1,1 @@
-var mnemonic = "ship oblige solve year lady try genuine section ugly knife lizard river";
+var mnemonic = "frog seek marriage type kidney sun game very brief push head tilt";

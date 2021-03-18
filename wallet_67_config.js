@@ -1,1 +1,1 @@
-var mnemonic = "belt math menu mobile solve manage silent brand panel extra boil ladder";
+var mnemonic = "toss universe uncle disorder save into beef they waste innocent pipe chicken";

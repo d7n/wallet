@@ -1,1 +1,1 @@
-var mnemonic = "judge cheap aspect hunt ladder horror dad giant word weather fall gadget";
+var mnemonic = "ramp caution can romance feature cradle budget project pave dash dragon stable";

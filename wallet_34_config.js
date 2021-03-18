@@ -1,1 +1,1 @@
-var mnemonic = "best tattoo mom twist rare dial asset brick habit artefact humor amused";
+var mnemonic = "try region long convince awful style teach diary leaf cost know what";

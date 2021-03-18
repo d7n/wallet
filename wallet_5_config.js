@@ -1,1 +1,1 @@
-var mnemonic = "creek roast wheat fuel piano put drop rent tiny oxygen cargo canal";
+var mnemonic = "carry stone kiwi stay bacon detail radio broccoli chalk spoon lesson sentence";

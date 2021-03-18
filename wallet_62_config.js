@@ -1,1 +1,1 @@
-var mnemonic = "ordinary maple expand nation away camp water point move produce drastic dial";
+var mnemonic = "sad table park suspect spend frown rely shadow feed upon client annual";

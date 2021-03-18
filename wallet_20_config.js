@@ -1,1 +1,1 @@
-var mnemonic = "tent effort juice company hair victory mean sock detail find keep caution";
+var mnemonic = "please essay uncle action asset fetch cage museum across update melt bulk";

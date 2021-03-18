@@ -1,1 +1,1 @@
-var mnemonic = "load idea desert actress eye unhappy index option tool toy catch boil";
+var mnemonic = "minimum point scare share hint above melody relax spoon drip tourist swift";

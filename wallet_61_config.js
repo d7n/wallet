@@ -1,1 +1,1 @@
-var mnemonic = "garden return enter bleak shrug rent reject creek select diagram fiction arrive";
+var mnemonic = "bread tail depend tent modify hundred can devote board glass visit ball";

@@ -1,1 +1,1 @@
-var mnemonic = "cement cash film tobacco slight yellow army reward option element crack purse";
+var mnemonic = "claim canoe guard sniff angry tank silver artefact write toddler valley undo";

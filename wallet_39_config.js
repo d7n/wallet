@@ -1,1 +1,1 @@
-var mnemonic = "diary captain various undo farm thank field exhibit endless raven raise hint";
+var mnemonic = "slight present tumble biology enrich city fragile arrive height rent tired bind";

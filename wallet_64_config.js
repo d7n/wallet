@@ -1,1 +1,1 @@
-var mnemonic = "tornado used elevator usual degree cable balance walnut whip deliver gold peace";
+var mnemonic = "visit dumb armed grass unfair pottery ten puppy pave lady lunch tuition";

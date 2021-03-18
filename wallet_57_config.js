@@ -1,1 +1,1 @@
-var mnemonic = "thank evolve photo alter outer garden leisure misery believe mushroom hurt exist";
+var mnemonic = "also news meadow name task worry radar elephant dwarf dismiss weird throw";

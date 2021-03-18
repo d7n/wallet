@@ -1,1 +1,1 @@
-var mnemonic = "card reject concert leader garlic aim tag need original office post pitch";
+var mnemonic = "ordinary omit exile phrase leaf heavy position shrimp broccoli grief since lava";

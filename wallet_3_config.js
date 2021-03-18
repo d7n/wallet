@@ -1,1 +1,1 @@
-var mnemonic = "airport minute pencil song dentist tuition merit winter amazing broom kiss credit";
+var mnemonic = "job talk breeze novel laugh abandon usage emotion web play shoe first";

@@ -1,1 +1,1 @@
-var mnemonic = "stick finish relax permit cupboard thunder brain tongue leisure hammer nuclear hour";
+var mnemonic = "number cloth giggle dune web mom response mandate soap age zoo health";

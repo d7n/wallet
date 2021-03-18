@@ -1,1 +1,1 @@
-var mnemonic = "time topple current surge number crazy brain across giant mother alone anchor";
+var mnemonic = "action foil gravity warrior connect noise eagle glare file feel city sport";

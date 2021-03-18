@@ -1,1 +1,1 @@
-var mnemonic = "husband honey void lake verb soup real frown unusual morning tissue wink";
+var mnemonic = "milk gallery final nurse rib maze ice topic once luggage bronze lumber";

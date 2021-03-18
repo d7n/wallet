@@ -1,1 +1,1 @@
-var mnemonic = "napkin pair motion surround cat future fatal sadness vapor unfold rigid focus";
+var mnemonic = "stay clerk minimum cheese rocket life vast dignity twin engine zero diesel";

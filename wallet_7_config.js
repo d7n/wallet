@@ -1,1 +1,1 @@
-var mnemonic = "ancient congress master this snap winner maximum retire essay about door jewel";
+var mnemonic = "shrug canoe board address flee client aim blanket drink goddess rude bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "option tape obtain soup blue hood holiday talent arch follow fancy globe";
+var mnemonic = "fee mixture build valid bunker leave dance parrot seat dress mechanic road";

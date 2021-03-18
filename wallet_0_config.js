@@ -1,1 +1,1 @@
-var mnemonic = "reveal found vocal beyond spread evoke rain dismiss infant glory pioneer fan";
+var mnemonic = "armor shy drastic horse approve merge blame sorry various cotton broom robust";

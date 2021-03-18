@@ -1,1 +1,1 @@
-var mnemonic = "relax super ticket exotic gift trick upper tissue athlete silver tuna erase";
+var mnemonic = "battle twice bone knee lecture target view equal lyrics medal observe mammal";

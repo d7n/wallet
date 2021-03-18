@@ -1,1 +1,1 @@
-var mnemonic = "muscle account order market drama chuckle ribbon surface timber expire alcohol rice";
+var mnemonic = "know feature whale pottery lake pelican tank wrist because awake expand trap";

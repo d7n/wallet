@@ -1,1 +1,1 @@
-var mnemonic = "write object borrow replace farm solve quick bullet excess patient burger earth";
+var mnemonic = "typical hair dawn floor plug robot couple achieve brick glow brother pudding";

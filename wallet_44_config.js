@@ -1,1 +1,1 @@
-var mnemonic = "wash tube coil crazy inherit hand section wave tattoo soldier rib very";
+var mnemonic = "cage relax much boil chimney kiss salute liar shoe abuse avoid uncover";

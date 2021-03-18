@@ -1,1 +1,1 @@
-var mnemonic = "grain rubber humble pact cherry rural swamp airport door service mirror outdoor";
+var mnemonic = "drastic kid pave dismiss desert improve amused add zone cycle tired jump";

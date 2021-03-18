@@ -1,1 +1,1 @@
-var mnemonic = "inner trap hold pigeon vanish snap vital firm sock tail ice old";
+var mnemonic = "swarm disease health such evil always math champion soup festival dinosaur daughter";

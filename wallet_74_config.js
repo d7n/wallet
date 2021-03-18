@@ -1,1 +1,1 @@
-var mnemonic = "unhappy mutual cupboard video traffic lady space west brief during quick cluster";
+var mnemonic = "clean mistake push wreck love find episode quick before vacant sketch cash";

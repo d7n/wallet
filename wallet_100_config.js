@@ -1,1 +1,1 @@
-var mnemonic = "people curtain sketch art else person library thrive crazy lawn guard awake";
+var mnemonic = "detail rubber aware remain vapor teach rain ensure audit dinner gadget position";

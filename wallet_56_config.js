@@ -1,1 +1,1 @@
-var mnemonic = "salmon party fiscal october giggle soon hospital pledge moral cloth tomato tooth";
+var mnemonic = "fossil run couple suggest reflect observe rural popular matter together upon mind";

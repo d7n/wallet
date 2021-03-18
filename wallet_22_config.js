@@ -1,1 +1,1 @@
-var mnemonic = "hero salute denial sweet narrow clean immune runway stomach asset ice youth";
+var mnemonic = "practice message ripple devote gate poem narrow item size exercise this antique";

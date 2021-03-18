@@ -1,1 +1,1 @@
-var mnemonic = "inch army milk easy crowd law quit relief venue baby sea develop";
+var mnemonic = "sort sphere consider convince rather tiger feed sibling seminar rate spring candy";

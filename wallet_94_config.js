@@ -1,1 +1,1 @@
-var mnemonic = "load peace tool iron aspect topple ribbon orange arrow devote foot size";
+var mnemonic = "owner inhale gesture law mule chaos velvet fly arm this flash connect";

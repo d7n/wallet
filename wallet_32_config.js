@@ -1,1 +1,1 @@
-var mnemonic = "damp differ history rough eight unhappy display parade basket snap dress sea";
+var mnemonic = "result destroy true elevator pave orange sleep erode ripple service salt obscure";

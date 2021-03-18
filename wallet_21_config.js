@@ -1,1 +1,1 @@
-var mnemonic = "electric raw ask movie able orbit open manage shoot dream unhappy funny";
+var mnemonic = "hammer violin capital frame night diamond spin napkin obey canyon bachelor merit";

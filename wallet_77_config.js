@@ -1,1 +1,1 @@
-var mnemonic = "potato door camera history nominee blind hollow taste zoo front cram banana";
+var mnemonic = "top measure satisfy follow ship youth velvet poem orphan remain cage faculty";

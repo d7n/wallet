@@ -1,1 +1,1 @@
-var mnemonic = "marine afraid pulse system dinner abuse young scare salmon jazz march person";
+var mnemonic = "recall crater lake hockey park lab antenna tornado tenant lamp valid valley";

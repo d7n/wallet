@@ -1,1 +1,1 @@
-var mnemonic = "envelope donkey digital nasty keep fringe travel seat genre leaf tent quarter";
+var mnemonic = "nominee vacuum yellow erode cabin pause leg elder mad that lecture shoulder";

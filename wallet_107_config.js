@@ -1,1 +1,1 @@
-var mnemonic = "shield attitude evil banner stage faculty glance motor execute monster talk chronic";
+var mnemonic = "result truck spirit chunk foil surface sponsor divert social slot bright can";

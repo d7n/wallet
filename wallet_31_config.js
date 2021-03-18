@@ -1,1 +1,1 @@
-var mnemonic = "small goat gym room base age universe shed kind mountain round pond";
+var mnemonic = "taxi equal cream adjust zero hint bright maze cluster holiday theme lady";

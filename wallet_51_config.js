@@ -1,1 +1,1 @@
-var mnemonic = "grain donate security clutch oyster wage avoid shop master board mutual number";
+var mnemonic = "swamp sound electric cute mule still long reduce news attack average horror";

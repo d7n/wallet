@@ -1,1 +1,1 @@
-var mnemonic = "win coconut forum clinic network say knee iron post odor liquid junior";
+var mnemonic = "quick label priority woman obey chronic advice barrel once security boat pave";

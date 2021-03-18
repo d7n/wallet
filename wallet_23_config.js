@@ -1,1 +1,1 @@
-var mnemonic = "world laugh nuclear robust cute stereo tumble allow exercise online demise physical";
+var mnemonic = "cool draw want mixed judge web dumb wedding pear palace eternal mansion";

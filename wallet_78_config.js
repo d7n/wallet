@@ -1,1 +1,1 @@
-var mnemonic = "modify cousin pet random recall wagon icon tired dilemma shoot list vendor";
+var mnemonic = "code employ swear emotion bag canyon legal valley shed pony vital print";

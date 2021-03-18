@@ -1,1 +1,1 @@
-var mnemonic = "weasel square win arrow thunder canoe liberty erode public multiply egg cement";
+var mnemonic = "armor voice arctic cotton retire general around spoil praise mixed sunset chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "company warrior vehicle join push release behave melody exist empower trouble source";
+var mnemonic = "test age clog screen picnic short oval warrior six error priority wave";

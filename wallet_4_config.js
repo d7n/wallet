@@ -1,1 +1,1 @@
-var mnemonic = "cycle grant cabbage still resource problem top suggest ceiling provide noise whisper";
+var mnemonic = "add wine diagram tiny window dumb give toilet can similar squeeze luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse vacant possible make bounce carpet author share pitch service peasant cup";
+var mnemonic = "interest dash above morning mystery solution ski absurd wrong zebra rough drink";

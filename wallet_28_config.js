@@ -1,1 +1,1 @@
-var mnemonic = "horror boss cactus next abandon oval trade mystery green near wolf lake";
+var mnemonic = "route team teach hint window cram orbit special fortune language pilot brown";

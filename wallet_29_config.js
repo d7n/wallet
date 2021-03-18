@@ -1,1 +1,1 @@
-var mnemonic = "battle lens spike head habit cake voice leaf basket cement sample onion";
+var mnemonic = "adapt portion under cement ostrich van net super stand open pulp kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "extra castle lobster salmon slot sponsor sun cause blame grid title sell";
+var mnemonic = "dilemma guilt garlic sunset scrub broken soon machine bar monkey trigger where";

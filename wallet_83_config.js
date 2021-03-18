@@ -1,1 +1,1 @@
-var mnemonic = "midnight job extend small path breeze split noble horror human tunnel train";
+var mnemonic = "hour movie seed brown suspect forget soul push buffalo ski seven doll";

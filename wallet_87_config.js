@@ -1,1 +1,1 @@
-var mnemonic = "unveil artefact tent awesome album later bunker limb swear mixture finish stadium";
+var mnemonic = "march hazard baby task enough pottery gather brass garment dignity pave vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "merge slice snap crack focus become cruel illegal short silent reduce such";
+var mnemonic = "balance pull share skill muscle path judge dance glide carry garden trust";

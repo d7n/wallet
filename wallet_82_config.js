@@ -1,1 +1,1 @@
-var mnemonic = "snow parade soon energy sword tilt chunk aware volume kitten october exact";
+var mnemonic = "promote main pear midnight daring nose speed add artwork swim like indicate";

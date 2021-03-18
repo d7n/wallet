@@ -1,1 +1,1 @@
-var mnemonic = "six gather hobby attend dismiss public strike stadium filter bargain sugar floor";
+var mnemonic = "cry rug walnut man test afford oil crane output cycle ankle wall";

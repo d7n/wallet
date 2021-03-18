@@ -1,1 +1,1 @@
-var mnemonic = "exact pony humor bench diet fiber original basic garage silk subway health";
+var mnemonic = "idea bracket label upgrade interest impose omit ahead brown salute couple silent";

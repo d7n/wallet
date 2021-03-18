@@ -1,1 +1,1 @@
-var mnemonic = "brisk ghost abuse path light erupt reflect monitor peanut bring wheat march";
+var mnemonic = "party flight rookie lottery ticket wave pond vital mean symptom panther water";

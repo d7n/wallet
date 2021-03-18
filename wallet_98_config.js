@@ -1,1 +1,1 @@
-var mnemonic = "aspect vote gadget dinner spawn cup trick common roof enjoy monitor blur";
+var mnemonic = "open know tail sibling reduce speed wear debris ozone similar crawl coffee";

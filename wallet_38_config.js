@@ -1,1 +1,1 @@
-var mnemonic = "smoke toast have secret glide convince route route emerge penalty crucial february";
+var mnemonic = "tunnel audit crouch vivid cabin lucky antenna team child palm hub avoid";

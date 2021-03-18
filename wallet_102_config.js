@@ -1,1 +1,1 @@
-var mnemonic = "combine motion match physical glad train seminar alone laugh undo position build";
+var mnemonic = "omit oval swift share help glue dish price make outer slide lava";

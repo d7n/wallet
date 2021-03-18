@@ -1,1 +1,1 @@
-var mnemonic = "fade index pact steel lock busy dragon image burden alcohol phone save";
+var mnemonic = "keen unknown lesson online upper sure skate bench push album skull layer";

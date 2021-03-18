@@ -1,1 +1,1 @@
-var mnemonic = "future average huge glove canal lucky napkin draw alien wood hand rain";
+var mnemonic = "absent turkey october silent shaft vote embark bacon soup tennis limb journey";

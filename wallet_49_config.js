@@ -1,1 +1,1 @@
-var mnemonic = "into thrive process mail bar awkward draw aim bubble material chat make";
+var mnemonic = "trap empower love rescue setup apple mirror potato topple erupt journey will";

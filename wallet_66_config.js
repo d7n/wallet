@@ -1,1 +1,1 @@
-var mnemonic = "insect bone riot december trend deny tube comic labor guess violin blush";
+var mnemonic = "now inherit slot grocery check soldier family enemy sustain wall robust cement";

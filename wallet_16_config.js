@@ -1,1 +1,1 @@
-var mnemonic = "lemon famous dance scheme grain rally dove mountain toddler column head exhaust";
+var mnemonic = "strategy fantasy artist tuna loud digital want split swamp fish move artwork";

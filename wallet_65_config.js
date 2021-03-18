@@ -1,1 +1,1 @@
-var mnemonic = "much dinner private undo cupboard carpet noodle property airport input method excess";
+var mnemonic = "exhaust calm kick invest mushroom demand stairs pipe drama sunset type shed";

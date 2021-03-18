@@ -1,1 +1,1 @@
-var mnemonic = "tray asthma boy museum axis music excuse elegant urge canoe cruel frequent";
+var mnemonic = "range shadow bonus peanut pledge firm clap subway oven list sell hurdle";

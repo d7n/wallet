@@ -1,1 +1,1 @@
-var mnemonic = "glow man luggage crack melody must nation fox proud glue viable voyage";
+var mnemonic = "recycle puzzle source slice method couple vacant entry witness movie boost survey";
