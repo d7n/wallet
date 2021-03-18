@@ -1,1 +1,1 @@
-var mnemonic = "daring galaxy panda measure vintage timber ill utility spirit plate seven power";
+var mnemonic = "large hungry better topple utility nephew draw effort direct lake decade crawl";

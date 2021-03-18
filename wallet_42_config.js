@@ -1,1 +1,1 @@
-var mnemonic = "verify oppose outer artefact decorate wealth century home spatial air cupboard guilt";
+var mnemonic = "ivory ignore hazard tobacco sample favorite hawk rate mesh foil educate prevent";

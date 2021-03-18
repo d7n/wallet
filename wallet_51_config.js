@@ -1,1 +1,1 @@
-var mnemonic = "style code account cage nominee audit luggage nominee person foster message avoid";
+var mnemonic = "return someone crucial gold win crop since proof forward path aim assist";

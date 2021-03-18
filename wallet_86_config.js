@@ -1,1 +1,1 @@
-var mnemonic = "afraid demise wife regular purchase ritual sphere zoo sibling fiction recall sketch";
+var mnemonic = "glass define program lounge rigid design tiny powder title turtle liquid large";

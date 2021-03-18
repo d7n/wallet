@@ -1,1 +1,1 @@
-var mnemonic = "write food region keen grant keep shed motor napkin salad crumble sorry";
+var mnemonic = "plastic unique moment nut afraid quick pluck divert uncle stick blind talk";

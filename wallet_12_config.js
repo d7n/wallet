@@ -1,1 +1,1 @@
-var mnemonic = "prepare hill nation alarm glow fish huge unlock real uncle pond inside";
+var mnemonic = "parent salute rail plastic guilt meat tide river pelican sibling limit uniform";

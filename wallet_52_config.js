@@ -1,1 +1,1 @@
-var mnemonic = "mango heart admit cannon unlock caution private basic denial guide axis field";
+var mnemonic = "affair treat build car foam because box tiger above flame tuna decide";

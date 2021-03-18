@@ -1,1 +1,1 @@
-var mnemonic = "satisfy tiger thing six upgrade adjust amazing scrub nephew kitten legend unlock";
+var mnemonic = "dentist lion honey brave exotic appear border lizard north manual final guide";

@@ -1,1 +1,1 @@
-var mnemonic = "toy later cart vendor retire mixture inject admit rude illegal layer soon";
+var mnemonic = "frog remember reunion pluck feed horn theory note away angry palace kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "sting ceiling token bottom blur burger youth riot borrow enrich aisle grit";
+var mnemonic = "muscle couple execute valley hammer cereal false drop uncover space sword lamp";

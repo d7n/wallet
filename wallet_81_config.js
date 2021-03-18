@@ -1,1 +1,1 @@
-var mnemonic = "shallow cycle roast clump myth broccoli film embody twin dizzy bomb enlist";
+var mnemonic = "mail father supply follow pistol estate dance tube wire vintage valve second";

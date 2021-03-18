@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow blue boss deposit demand route uncle cat endorse public forget unveil";
+var mnemonic = "birth sponsor stand drive unusual please regular student monitor traffic foster game";

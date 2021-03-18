@@ -1,1 +1,1 @@
-var mnemonic = "grunt despair quote reason age device sport abuse embody blood firm track";
+var mnemonic = "they soon barrel load bind deliver depth edit guide divorce alcohol floor";

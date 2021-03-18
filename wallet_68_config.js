@@ -1,1 +1,1 @@
-var mnemonic = "lizard pipe recycle admit remind deal gesture empty love either funny enable";
+var mnemonic = "relief use pact cluster demise wreck ring record tell reopen rent inch";

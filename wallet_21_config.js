@@ -1,1 +1,1 @@
-var mnemonic = "alert team spray pact actual okay gorilla venue blue soft oven slim";
+var mnemonic = "between quote text cradle town quarter enlist diary build add panel rough";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna burden twist thumb acid armed notice faculty seat butter any hungry";
+var mnemonic = "goose setup trouble sentence critic predict turkey dog next spawn tank round";

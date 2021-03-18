@@ -1,1 +1,1 @@
-var mnemonic = "slot proud excite useful fence solve obey six luggage knock unfold cry";
+var mnemonic = "waste upper kid loud enter orange road rebel food element aspect wrap";

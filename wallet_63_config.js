@@ -1,1 +1,1 @@
-var mnemonic = "supreme course again room human token brush ticket barrel latin abandon smooth";
+var mnemonic = "fringe first agree ivory trip champion venue view two screen under hedgehog";

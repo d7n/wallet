@@ -1,1 +1,1 @@
-var mnemonic = "rely weather bid curve slight title monitor combine mixed catch distance flush";
+var mnemonic = "copy category crater soup reject success clap deliver glory sort thumb mango";

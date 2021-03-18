@@ -1,1 +1,1 @@
-var mnemonic = "cradle shove save scissors person rookie valley best basic drink shed snap";
+var mnemonic = "obtain mother drop round visit exist scene picture cricket ill flower gym";

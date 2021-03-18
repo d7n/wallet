@@ -1,1 +1,1 @@
-var mnemonic = "close correct exile rack item bottom clump fall type spike power bonus";
+var mnemonic = "next wrist giant color bean flee tone suffer trim always easy head";

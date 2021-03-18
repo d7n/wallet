@@ -1,1 +1,1 @@
-var mnemonic = "surprise actor truly method ghost company deal pill disease tired injury cattle";
+var mnemonic = "grow tag used mandate grow dumb cool find render hub behind sound";

@@ -1,1 +1,1 @@
-var mnemonic = "phone lobster bundle trophy history fun aunt shock chef vault comic lava";
+var mnemonic = "charge trip music flat cinnamon wife street virtual egg pepper primary ostrich";

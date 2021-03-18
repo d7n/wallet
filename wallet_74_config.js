@@ -1,1 +1,1 @@
-var mnemonic = "skull salad spice switch enjoy walk life garlic near sport short crucial";
+var mnemonic = "pink olympic fee level axis hazard seminar flight lucky clarify humble weather";

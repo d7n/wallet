@@ -1,1 +1,1 @@
-var mnemonic = "state tuna race midnight prefer axis obvious winter deny skin unknown gloom";
+var mnemonic = "detail deputy express recipe regret nasty walnut humor universe valley scrub gorilla";

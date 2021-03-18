@@ -1,1 +1,1 @@
-var mnemonic = "movie miracle execute account soap armor artist adjust scatter monitor come scrap";
+var mnemonic = "fan life catalog post crime involve tide spin escape tongue sister insane";

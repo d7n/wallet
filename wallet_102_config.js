@@ -1,1 +1,1 @@
-var mnemonic = "helmet program pill antenna enroll mechanic rail uncle banner stereo matrix execute";
+var mnemonic = "grit heart infant case spell bring coconut neck movie expect palm salute";

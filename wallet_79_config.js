@@ -1,1 +1,1 @@
-var mnemonic = "purpose calm ocean jelly purpose weasel hurdle business doctor lyrics garlic buyer";
+var mnemonic = "language plug audit wood remain hat member bag portion lake reward biology";

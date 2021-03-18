@@ -1,1 +1,1 @@
-var mnemonic = "meadow gather clap opinion unusual poem detail where donkey fiber local anchor";
+var mnemonic = "coyote method arrive monitor rack chronic metal wonder pretty deposit above bullet";

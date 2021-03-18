@@ -1,1 +1,1 @@
-var mnemonic = "now nation banana annual speed fade bottom bulk inject crew copy over";
+var mnemonic = "rich journey extend master cat answer loan economy blame borrow promote cloth";

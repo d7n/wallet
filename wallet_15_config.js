@@ -1,1 +1,1 @@
-var mnemonic = "tongue visa churn hungry happy beach outside smooth quality injury depend neglect";
+var mnemonic = "clock economy secret box way pigeon cross rather dirt humor unit student";

@@ -1,1 +1,1 @@
-var mnemonic = "exist solar idle few amount jewel slam damage same hold ask exercise";
+var mnemonic = "deer useful soldier scene grocery obtain away machine fish moral split word";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat park total decide orphan people armed topic ritual rack item isolate";
+var mnemonic = "talk around polar copy sudden must kind animal tray music foam client";

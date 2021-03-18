@@ -1,1 +1,1 @@
-var mnemonic = "chalk bracket negative detail shop inspire sphere giggle faculty entry area food";
+var mnemonic = "gold save skate gift country chronic sentence squirrel tourist tenant joy raise";

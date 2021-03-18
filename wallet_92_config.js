@@ -1,1 +1,1 @@
-var mnemonic = "master arrange near pretty medal section horn claw hard crawl worry one";
+var mnemonic = "cargo rabbit link inquiry want auto swear absurd frame burden era cousin";

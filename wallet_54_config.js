@@ -1,1 +1,1 @@
-var mnemonic = "between eternal inspire motion shoe hour allow welcome garment crime aerobic clean";
+var mnemonic = "museum goat napkin ethics ecology lunar this autumn margin sure deer truly";

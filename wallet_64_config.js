@@ -1,1 +1,1 @@
-var mnemonic = "exercise ride shrimp ginger hamster rack fossil stem cream mention derive venture";
+var mnemonic = "raven truth leave ramp find arctic flat near summer camera virtual rebel";

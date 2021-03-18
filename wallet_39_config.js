@@ -1,1 +1,1 @@
-var mnemonic = "law invite brown possible hundred online leisure flip wrap code enemy primary";
+var mnemonic = "miss rabbit increase kit predict insect park feed become remove keen spawn";

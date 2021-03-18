@@ -1,1 +1,1 @@
-var mnemonic = "next yard damage chief tube three such penalty taxi vault boil icon";
+var mnemonic = "raven entire alley cushion drive region treat mom cousin festival consider help";

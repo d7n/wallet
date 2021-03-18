@@ -1,1 +1,1 @@
-var mnemonic = "creek pull myself minute tiger vivid immune utility mercy want move describe";
+var mnemonic = "expand ride spy print stock sail palace item meat chapter warfare shell";

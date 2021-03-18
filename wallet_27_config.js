@@ -1,1 +1,1 @@
-var mnemonic = "gloom cream clown defense grief very atom buddy web pull fee claw";
+var mnemonic = "matrix license outer final dance position exhibit only client fetch service plug";

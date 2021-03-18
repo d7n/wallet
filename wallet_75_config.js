@@ -1,1 +1,1 @@
-var mnemonic = "kitten parrot master orbit strong morning item bean general win love thought";
+var mnemonic = "round shuffle exclude multiply month maple guitar magnet spell version iron helmet";

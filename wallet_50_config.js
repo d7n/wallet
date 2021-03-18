@@ -1,1 +1,1 @@
-var mnemonic = "brick woman rent solar eight second uniform dice base seven drama very";
+var mnemonic = "spoil ahead bean fresh best portion area turtle utility genius pottery goose";

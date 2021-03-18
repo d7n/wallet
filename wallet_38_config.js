@@ -1,1 +1,1 @@
-var mnemonic = "wash eye panther food battle zoo real trend ramp mountain funny rescue";
+var mnemonic = "sniff flash derive vacuum pool material intact food rug net spot example";

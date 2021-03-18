@@ -1,1 +1,1 @@
-var mnemonic = "unfold witness wrap parrot orphan suggest pool only prosper meadow proof wild";
+var mnemonic = "unusual busy shoe village hold umbrella enemy insane dad toward flock build";

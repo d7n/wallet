@@ -1,1 +1,1 @@
-var mnemonic = "artwork potato reopen valid beyond stick year innocent glide spring grace cake";
+var mnemonic = "permit senior coin change select render ceiling moon quality turn spread table";

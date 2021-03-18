@@ -1,1 +1,1 @@
-var mnemonic = "pledge fiber rival gentle chronic twelve spawn laugh clean select gather gift";
+var mnemonic = "figure often keep together into crime cross space response dwarf enter canyon";

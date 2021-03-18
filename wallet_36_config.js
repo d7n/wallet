@@ -1,1 +1,1 @@
-var mnemonic = "enrich napkin candy roast cycle another select select nurse amount shadow cradle";
+var mnemonic = "confirm safe pen ripple share keen wage fatigue stool jaguar butter protect";

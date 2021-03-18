@@ -1,1 +1,1 @@
-var mnemonic = "vessel topple second lawsuit miss neglect raven gaze someone alarm dinner pattern";
+var mnemonic = "sick when thought floor slight hood that liberty jeans puzzle ill rare";

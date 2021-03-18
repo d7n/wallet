@@ -1,1 +1,1 @@
-var mnemonic = "limb useless please brief silk squirrel acoustic blade garage deputy office rebuild";
+var mnemonic = "old town antenna donate common number fiction thing ask cross loud exercise";

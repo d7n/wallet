@@ -1,1 +1,1 @@
-var mnemonic = "palace candy admit swear paddle horse notable modify trash ramp solar garage";
+var mnemonic = "undo treat gospel will jealous horn gown example abstract scan tissue early";

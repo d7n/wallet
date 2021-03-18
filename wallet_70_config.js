@@ -1,1 +1,1 @@
-var mnemonic = "budget manual dove script gun furnace abstract flight nose page silent better";
+var mnemonic = "boy year million myself blush gorilla worth execute hour unable abstract maid";

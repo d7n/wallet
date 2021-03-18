@@ -1,1 +1,1 @@
-var mnemonic = "shove hollow drink senior plug result trick lazy nest case dune inquiry";
+var mnemonic = "across pig nature baby street kiss electric method audit mango amateur alter";

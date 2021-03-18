@@ -1,1 +1,1 @@
-var mnemonic = "option decade shaft gain account afraid merry year question vast staff human";
+var mnemonic = "nation way fee bullet job brave bleak minute trouble audit bridge regular";

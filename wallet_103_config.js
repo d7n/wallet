@@ -1,1 +1,1 @@
-var mnemonic = "fox lizard comfort radio width sleep stock other believe arrest save wait";
+var mnemonic = "inspire lend bag aware supreme shed south source very bomb scrap bone";

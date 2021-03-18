@@ -1,1 +1,1 @@
-var mnemonic = "wisdom paddle silk muffin seat candy sick reflect car lizard auction system";
+var mnemonic = "such time excess mosquito cute helmet ask legal box income steak check";

@@ -1,1 +1,1 @@
-var mnemonic = "flat monkey fuel coast depart ramp edit bike mask cloth stereo joy";
+var mnemonic = "yellow guess audit note ball kit hundred beach smart convince march small";

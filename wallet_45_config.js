@@ -1,1 +1,1 @@
-var mnemonic = "glue aspect grab vivid robust curious balcony forget regret apology desert mango";
+var mnemonic = "maximum select prosper shiver dance toddler chef kidney liquid awake segment tissue";

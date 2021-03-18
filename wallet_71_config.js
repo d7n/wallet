@@ -1,1 +1,1 @@
-var mnemonic = "loyal donkey lyrics order problem wrap axis baby swarm airport found wet";
+var mnemonic = "present piece shed melody spell coffee pottery phone syrup dice shallow fresh";

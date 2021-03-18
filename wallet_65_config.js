@@ -1,1 +1,1 @@
-var mnemonic = "exist scale frost tiger cheap all basic battle essence repair question mirror";
+var mnemonic = "suffer hint puppy stage knife eager shuffle want phone liquid patrol image";

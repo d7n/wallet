@@ -1,1 +1,1 @@
-var mnemonic = "mesh super crouch auto law usual mule foil neutral olive drastic pony";
+var mnemonic = "cabin danger round lemon oppose effort black deny powder convince want gap";

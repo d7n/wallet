@@ -1,1 +1,1 @@
-var mnemonic = "cancel desert spawn magic shoe spider barrel road balance music employ toy";
+var mnemonic = "man donkey hurry cup feel turn congress evolve gain oven comic category";

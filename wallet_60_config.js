@@ -1,1 +1,1 @@
-var mnemonic = "paddle grant smile define dynamic cabin brother range toddler lab home embody";
+var mnemonic = "monitor laugh evidence input crazy olive feed token only mass refuse angry";

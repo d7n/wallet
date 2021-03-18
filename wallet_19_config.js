@@ -1,1 +1,1 @@
-var mnemonic = "margin output quote insane nerve casino wasp hole grit three clarify correct";
+var mnemonic = "sister wrestle silent wear gentle axis blouse inflict quit clever steel draw";

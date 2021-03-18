@@ -1,1 +1,1 @@
-var mnemonic = "minimum renew spare manage skill winner soldier sheriff smart hidden twist enforce";
+var mnemonic = "update large spin square actor veteran area govern piano cupboard paper step";

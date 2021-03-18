@@ -1,1 +1,1 @@
-var mnemonic = "barely spice clutch grass wrestle question cheap quick shock sad bullet weird";
+var mnemonic = "dance wheel ancient eight cave foil ranch empty west pioneer shoulder ensure";

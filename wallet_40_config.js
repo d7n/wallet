@@ -1,1 +1,1 @@
-var mnemonic = "pet purse chalk evoke pause swim dizzy hunt party problem swift music";
+var mnemonic = "giggle milk pool penalty kiwi attack hidden veteran air course village pudding";

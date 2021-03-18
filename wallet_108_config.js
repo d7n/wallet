@@ -1,1 +1,1 @@
-var mnemonic = "embrace dice demand expect junior cabbage cover grass sight rubber surge country";
+var mnemonic = "answer major island host subject earth east pottery loop puppy census unlock";

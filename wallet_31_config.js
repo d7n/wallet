@@ -1,1 +1,1 @@
-var mnemonic = "cattle aisle soda science shy cover jungle double civil smooth party south";
+var mnemonic = "cattle rifle smoke egg room ordinary foot pull skull humor cereal spoon";

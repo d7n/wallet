@@ -1,1 +1,1 @@
-var mnemonic = "mad assault clog crowd bronze update depend uniform usual satoshi lawsuit habit";
+var mnemonic = "supreme raven hurdle sister convince flee video slot useful logic suffer civil";

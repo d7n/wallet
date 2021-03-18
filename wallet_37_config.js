@@ -1,1 +1,1 @@
-var mnemonic = "approve supply choice tooth same bench duty floor truly tip guide alpha";
+var mnemonic = "despair install keep artwork brand elder alien connect fabric invest key enjoy";

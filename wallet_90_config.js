@@ -1,1 +1,1 @@
-var mnemonic = "chuckle amount ladder fall track student nest youth quality person session knee";
+var mnemonic = "camera pond siren pulp insect galaxy web wrap detail educate garment devote";

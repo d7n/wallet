@@ -1,1 +1,1 @@
-var mnemonic = "note scrub sauce inmate bless surround search around inform gesture kiwi grab";
+var mnemonic = "mask circle digital any among comfort mother wire wait day hill fashion";

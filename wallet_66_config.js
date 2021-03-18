@@ -1,1 +1,1 @@
-var mnemonic = "matrix movie arrive before misery crisp gain much dress print december fish";
+var mnemonic = "citizen retreat limit volcano file expand top jacket unable book uphold exclude";

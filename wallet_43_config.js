@@ -1,1 +1,1 @@
-var mnemonic = "salmon quiz prefer vast fever image warrior shock swim butter tomato clip";
+var mnemonic = "under chef toilet suspect decrease sad ignore brass rebel clever squirrel worry";

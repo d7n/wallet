@@ -1,1 +1,1 @@
-var mnemonic = "clerk switch uphold bacon board bag hobby invite poet report october category";
+var mnemonic = "drift inject liberty mystery tomato deputy submit effort disagree unusual run language";

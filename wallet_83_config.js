@@ -1,1 +1,1 @@
-var mnemonic = "raven coffee super basic couple copper expand receive unit void word lawn";
+var mnemonic = "speak labor drama actress goose split rely square rent diary distance embrace";

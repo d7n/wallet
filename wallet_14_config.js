@@ -1,1 +1,1 @@
-var mnemonic = "life guide general symbol border ginger valid equip movie thunder interest glimpse";
+var mnemonic = "hawk spatial crew vintage ivory bomb child put casino illness notable snap";

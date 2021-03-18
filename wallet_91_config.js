@@ -1,1 +1,1 @@
-var mnemonic = "enhance casual warm quarter simple moment wave knife render sugar host guide";
+var mnemonic = "squirrel cash domain fade hero million reform tide left awkward chuckle hidden";

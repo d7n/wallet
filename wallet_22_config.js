@@ -1,1 +1,1 @@
-var mnemonic = "huge agree assist blind notable uniform escape east velvet later much this";
+var mnemonic = "give vault student live name lend seat process cute aim work allow";

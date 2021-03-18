@@ -1,1 +1,1 @@
-var mnemonic = "crane buddy obscure loop razor cricket prefer laugh absurd hen arm anchor";
+var mnemonic = "panda grief act essence dash until enjoy monkey lobster ensure road brain";

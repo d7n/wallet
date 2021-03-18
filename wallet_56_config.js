@@ -1,1 +1,1 @@
-var mnemonic = "chef exercise gallery hawk return vote degree jazz crack coffee steak cycle";
+var mnemonic = "share put second text pink quality cricket devote suffer drip march trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "bike minute copy narrow vacant treat input occur popular cement valid easy";
+var mnemonic = "pride humble ask wealth catch brown dad smoke outside simple kangaroo snack";

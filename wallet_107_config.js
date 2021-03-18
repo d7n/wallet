@@ -1,1 +1,1 @@
-var mnemonic = "brave ribbon outer middle quiz feel office embrace grit cook dial fog";
+var mnemonic = "receive edit soap axis flight sweet mimic identify seed save arrow oven";

@@ -1,1 +1,1 @@
-var mnemonic = "require diary illegal hill best three mom try orient attend lens fortune";
+var mnemonic = "intact day guide size tilt ready narrow ivory bounce flavor between alpha";

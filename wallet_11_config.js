@@ -1,1 +1,1 @@
-var mnemonic = "intact invite royal figure fire sing way barrel update cat lazy cruel";
+var mnemonic = "vast right reward equip census bottom shoe vapor artist visa monitor avocado";

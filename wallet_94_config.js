@@ -1,1 +1,1 @@
-var mnemonic = "valid crowd flag kid public urge clarify genre angle prevent baby brush";
+var mnemonic = "venture chicken ankle shock purpose drill solar decline theory interest lava swear";

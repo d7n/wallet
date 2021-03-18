@@ -1,1 +1,1 @@
-var mnemonic = "road romance boost cement famous claim always patient void minor special inflict";
+var mnemonic = "begin dance easy noble what exchange bar fresh fruit crater attend creek";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel rate galaxy apart divide local glass crisp jewel cherry eager mammal";
+var mnemonic = "live cable party put sport moment hover describe rib palm toddler good";

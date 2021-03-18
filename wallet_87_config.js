@@ -1,1 +1,1 @@
-var mnemonic = "outside between crumble pool noise parrot attack fall quantum setup chronic lion";
+var mnemonic = "hollow consider cheap early stairs disorder buffalo salmon lion despair more alien";

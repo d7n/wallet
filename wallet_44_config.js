@@ -1,1 +1,1 @@
-var mnemonic = "edit trouble liar edge alert express dirt era deal race abstract exchange";
+var mnemonic = "belt digital trade symbol course caution okay once little pyramid knee since";

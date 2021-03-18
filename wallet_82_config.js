@@ -1,1 +1,1 @@
-var mnemonic = "fall step canal author hawk speed gather cream avoid garlic endorse acid";
+var mnemonic = "scale frog system piece august quarter divert renew note slender tiger suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear taxi this truly arrive select dose candy weasel sand audit ticket";
+var mnemonic = "expand useless foster push coffee tackle achieve afraid token omit yellow pave";
