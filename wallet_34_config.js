@@ -1,1 +1,1 @@
-var mnemonic = "doctor loop mimic bind friend pear ethics shove year they suggest fluid";
+var mnemonic = "stomach cause snack sing group own fun dwarf city farm garlic reason";

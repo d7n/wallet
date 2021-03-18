@@ -1,1 +1,1 @@
-var mnemonic = "shed insane shop media deposit mesh grab excess skirt face salad critic";
+var mnemonic = "reopen color monster velvet target step road warrior shed wage cactus forest";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity hurdle segment merge pride circle property clown artwork faint yard pulse";
+var mnemonic = "brush daring they master hire label castle horse myth bundle talent plunge";

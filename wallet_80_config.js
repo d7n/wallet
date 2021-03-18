@@ -1,1 +1,1 @@
-var mnemonic = "panel install hen orphan empower pilot rude rain fancy shallow sugar okay";
+var mnemonic = "seat resist city one drama glow core spring excuse ski harbor sure";

@@ -1,1 +1,1 @@
-var mnemonic = "man scare survey inflict betray river wagon body unfair stable when prosper";
+var mnemonic = "stomach cabbage crack skirt jealous patch measure stay glide dilemma present enforce";

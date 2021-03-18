@@ -1,1 +1,1 @@
-var mnemonic = "certain gun nut coyote industry cheap myth town entry doll lava siren";
+var mnemonic = "during noodle company paddle category piece spirit tomato ball agent risk advance";

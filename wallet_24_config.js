@@ -1,1 +1,1 @@
-var mnemonic = "source salt shuffle lava huge badge brass fashion cotton brush essay lunch";
+var mnemonic = "mother scatter head someone wink fun program music shoe blade couch glimpse";

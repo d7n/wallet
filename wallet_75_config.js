@@ -1,1 +1,1 @@
-var mnemonic = "float melt bone plug wool blue donkey rude town shrimp team story";
+var mnemonic = "super chicken sick soup finish mammal term artefact wish cabin satoshi local";

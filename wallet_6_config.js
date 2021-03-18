@@ -1,1 +1,1 @@
-var mnemonic = "dizzy pepper invest race rhythm rigid more arm endorse youth magnet load";
+var mnemonic = "soon sting clip staff water empower quantum wealth discover again pumpkin kidney";

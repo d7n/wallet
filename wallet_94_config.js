@@ -1,1 +1,1 @@
-var mnemonic = "length account tray fee damp child pudding duck since intact sauce mixture";
+var mnemonic = "merit among leisure ring fiscal profit stem final angry ticket stove share";

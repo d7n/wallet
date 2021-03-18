@@ -1,1 +1,1 @@
-var mnemonic = "simple giraffe cute theory visual margin canvas such muscle soldier tiny cabbage";
+var mnemonic = "tissue pilot park slot sunny situate boat unaware car candy diamond used";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden victory fog music source anchor strategy top uphold crash purpose boss";
+var mnemonic = "electric man helmet prison alter erosion ten shoot mix hint middle calm";

@@ -1,1 +1,1 @@
-var mnemonic = "champion domain hollow lucky must basic popular lounge airport start skirt stadium";
+var mnemonic = "pony solution engage puzzle sting blossom cupboard mad breeze door arm victory";

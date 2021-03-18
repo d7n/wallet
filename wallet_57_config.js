@@ -1,1 +1,1 @@
-var mnemonic = "copy alcohol mansion pilot victory better cycle cram hockey suggest usage want";
+var mnemonic = "color visual civil shoe side expand celery wait fine trick much collect";

@@ -1,1 +1,1 @@
-var mnemonic = "again height theme nephew rebel canyon punch say planet mask will unfair";
+var mnemonic = "virus movie camp disease arm caught upset program slice never broccoli age";

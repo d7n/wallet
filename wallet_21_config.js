@@ -1,1 +1,1 @@
-var mnemonic = "defense slight edit glass nose total sign young wife glory bright all";
+var mnemonic = "upon canyon awkward toward talent labor boring clinic zoo erosion achieve long";

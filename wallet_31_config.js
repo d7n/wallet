@@ -1,1 +1,1 @@
-var mnemonic = "congress town potato vintage trigger sugar track jealous lumber remind pizza urban";
+var mnemonic = "escape boost caution tomato distance used street blanket above connect poverty rice";

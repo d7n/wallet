@@ -1,1 +1,1 @@
-var mnemonic = "steak horror derive biology mango adapt same will false denial mansion shuffle";
+var mnemonic = "coffee cream forget trumpet depend glimpse canvas elite step fish bind sing";

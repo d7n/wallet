@@ -1,1 +1,1 @@
-var mnemonic = "script goose leg million system drop glimpse spider illegal between disorder pill";
+var mnemonic = "huge soon tribe peanut general aunt brick proof daring pool cushion busy";

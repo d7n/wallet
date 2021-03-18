@@ -1,1 +1,1 @@
-var mnemonic = "seminar mixture puzzle shock cause gasp couple problem two swamp stool sad";
+var mnemonic = "catalog cook quote ranch tornado option pyramid heavy insane motor decorate toward";

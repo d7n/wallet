@@ -1,1 +1,1 @@
-var mnemonic = "material loan message wasp agent ugly used hawk glue rule strategy wagon";
+var mnemonic = "rain debris blind slight seek relief roof edge test choice view swarm";

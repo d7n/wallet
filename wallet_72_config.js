@@ -1,1 +1,1 @@
-var mnemonic = "typical light leave sad father winter theory supreme cotton hole sword saddle";
+var mnemonic = "accuse burger apart syrup noble sun expire candy impact machine attitude cigar";

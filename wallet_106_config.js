@@ -1,1 +1,1 @@
-var mnemonic = "used wealth nut park hat either want yellow soul swarm orchard quiz";
+var mnemonic = "glance ranch solve wide plastic fold deputy drop canal repair cook twenty";

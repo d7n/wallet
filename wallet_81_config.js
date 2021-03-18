@@ -1,1 +1,1 @@
-var mnemonic = "west apple enact offer rule weird because staff ordinary balance hazard unaware";
+var mnemonic = "follow volcano genuine squeeze dream play capable hope lamp very stage harsh";

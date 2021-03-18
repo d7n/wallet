@@ -1,1 +1,1 @@
-var mnemonic = "aspect just identify drop quote gap annual please find aisle load skin";
+var mnemonic = "rival early about input love sphere protect father swarm burger renew unable";

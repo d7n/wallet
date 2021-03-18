@@ -1,1 +1,1 @@
-var mnemonic = "term bid pig account edge unknown mesh recall diet fever lava hedgehog";
+var mnemonic = "alone girl siege dish surprise always account kid alert onion rice worth";

@@ -1,1 +1,1 @@
-var mnemonic = "speed stay curve invite timber that twist birth kangaroo patrol emerge sting";
+var mnemonic = "inhale pizza silk sun source large fan envelope time kitten lab gold";

@@ -1,1 +1,1 @@
-var mnemonic = "fat lake peanut scene scissors stock tiger place luggage arrange scheme loan";
+var mnemonic = "violin plate more vicious acquire win exist weekend lounge vibrant mercy solid";

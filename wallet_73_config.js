@@ -1,1 +1,1 @@
-var mnemonic = "roast depart piano equip excuse raise hood grid nest race board rhythm";
+var mnemonic = "exit struggle cluster private energy magnet leaf canvas surge security street sleep";

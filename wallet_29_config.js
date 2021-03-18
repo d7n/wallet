@@ -1,1 +1,1 @@
-var mnemonic = "merit crucial powder project kidney snap asthma super want traffic clinic gym";
+var mnemonic = "domain found large brain milk current marriage expect outer kid crowd crucial";

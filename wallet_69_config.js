@@ -1,1 +1,1 @@
-var mnemonic = "size legal country neutral comfort expire chief limb flame anxiety horse pitch";
+var mnemonic = "fence cycle attitude bulb issue galaxy calm language need bonus render consider";

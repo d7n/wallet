@@ -1,1 +1,1 @@
-var mnemonic = "remember despair weasel desk victory enough all whip moral arch suit easy";
+var mnemonic = "hunt short when corn prosper proof math wire fetch rebuild tissue page";

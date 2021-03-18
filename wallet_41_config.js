@@ -1,1 +1,1 @@
-var mnemonic = "kit two envelope glimpse junk opera rigid knock stool call addict balcony";
+var mnemonic = "twin harvest absent people company goddess aunt deputy liberty island dismiss two";

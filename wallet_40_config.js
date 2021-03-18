@@ -1,1 +1,1 @@
-var mnemonic = "gain flame unusual master swarm exchange finger bracket firm cluster crack tuition";
+var mnemonic = "fresh lawsuit throw merry normal shove wheel atom tennis ketchup method wire";

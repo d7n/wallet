@@ -1,1 +1,1 @@
-var mnemonic = "trick seven key arrange practice relax inhale zone seek include indoor sugar";
+var mnemonic = "hungry trouble hole upper sustain sock habit seven wisdom either envelope bullet";

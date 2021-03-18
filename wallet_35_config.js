@@ -1,1 +1,1 @@
-var mnemonic = "soccer tooth bulk stone among modify zone slab mesh exit text remove";
+var mnemonic = "fabric total lend monitor silk rabbit abandon able whisper box range kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "broken fatigue spatial nut desert cram tell strategy update divide limb wife";
+var mnemonic = "fragile unaware horror luxury cost night bamboo ghost index cereal clump parade";

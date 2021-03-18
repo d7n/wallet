@@ -1,1 +1,1 @@
-var mnemonic = "talk pipe journey demise lesson gun barely umbrella spirit cross net earn";
+var mnemonic = "pledge parrot marble defense process major typical write pelican favorite panic limit";

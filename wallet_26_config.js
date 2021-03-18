@@ -1,1 +1,1 @@
-var mnemonic = "rack proof little tunnel raise gadget joy fold tone vivid jump deposit";
+var mnemonic = "wine small enough lottery humor cook market trade core speak river gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "urban shadow outdoor point decade weekend rain ridge useful area sense cycle";
+var mnemonic = "gospel blue recall bacon label long claim cupboard hill toy maid hat";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone robot demise wish exchange label office recall eight vibrant case rug";
+var mnemonic = "coral hard wreck atom pulse tragic gallery kit side cement person one";

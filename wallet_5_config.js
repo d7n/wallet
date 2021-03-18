@@ -1,1 +1,1 @@
-var mnemonic = "evidence mention seven joy accuse interest champion warrior marriage tent uncover father";
+var mnemonic = "country orphan jeans drive doctor turn adult love speak cactus husband sell";

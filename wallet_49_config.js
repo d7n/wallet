@@ -1,1 +1,1 @@
-var mnemonic = "trigger gorilla shuffle orange transfer seven topple beef pizza forest lumber entire";
+var mnemonic = "glance horn ball endorse poem together ripple nothing hurt mushroom purity enough";

@@ -1,1 +1,1 @@
-var mnemonic = "swing object tell taxi casual tomato asthma behave mouse area lunar inmate";
+var mnemonic = "jungle option pepper inhale vivid equal pyramid chaos hidden lobster test pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "wave thought dragon share awake board planet aware eagle cross minute gravity";
+var mnemonic = "reunion egg stable rude budget group local exact exhaust announce stage solid";

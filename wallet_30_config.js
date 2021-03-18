@@ -1,1 +1,1 @@
-var mnemonic = "canoe lounge tomato vanish apart humble gentle attend use attitude enforce garbage";
+var mnemonic = "behind guess cat mouse enact help record ensure own message thrive middle";

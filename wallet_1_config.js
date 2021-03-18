@@ -1,1 +1,1 @@
-var mnemonic = "demand into liquid pole cloud burger novel muffin imitate police nephew chief";
+var mnemonic = "door someone empower put monster merit option fitness motor amused cousin they";

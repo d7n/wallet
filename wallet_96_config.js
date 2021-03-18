@@ -1,1 +1,1 @@
-var mnemonic = "job claw uncover sock purse display bridge bonus walnut silly filter solid";
+var mnemonic = "effort design grocery cave enact lamp chest rapid october party affair lumber";

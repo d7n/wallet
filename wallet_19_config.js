@@ -1,1 +1,1 @@
-var mnemonic = "matter unit layer fuel satisfy record mutual faith culture profit minor define";
+var mnemonic = "captain aerobic volume marine state jeans festival draw action present pretty north";

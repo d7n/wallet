@@ -1,1 +1,1 @@
-var mnemonic = "wear junior cake gate antenna salute link moral castle genuine wagon analyst";
+var mnemonic = "bleak hole twist rifle keep casino monster humor oval library ask rich";

@@ -1,1 +1,1 @@
-var mnemonic = "rail scheme trap often dawn melody hill case enemy cruise bargain column";
+var mnemonic = "raccoon copper merge tenant idle myself bubble left profit limb enough note";

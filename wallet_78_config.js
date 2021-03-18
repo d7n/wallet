@@ -1,1 +1,1 @@
-var mnemonic = "edge fall street lens amused bring organ safe layer tip electric cloth";
+var mnemonic = "boost empower decrease october feed govern veteran kangaroo metal beef awesome affair";

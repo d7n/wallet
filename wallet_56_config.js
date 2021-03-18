@@ -1,1 +1,1 @@
-var mnemonic = "mother quiz airport hero rack first blush awake either list moment usual";
+var mnemonic = "taxi phone excess shoot media south require country whip verb spirit gate";

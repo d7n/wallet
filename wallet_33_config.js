@@ -1,1 +1,1 @@
-var mnemonic = "ladder rent sword tobacco lyrics exotic burst once grape march dust garlic";
+var mnemonic = "lab solid chase output treat monitor brass pull hood venture surge giant";

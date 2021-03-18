@@ -1,1 +1,1 @@
-var mnemonic = "pole stove nominee debris maple margin demand isolate matter seat gentle shoe";
+var mnemonic = "income cash ensure town chimney crystal verify include someone spend between magnet";

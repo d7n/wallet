@@ -1,1 +1,1 @@
-var mnemonic = "nation suffer route stand tide noodle fence leaf tooth amazing flight soccer";
+var mnemonic = "reopen gospel between year tower kiss arctic aunt spawn quarter chef acoustic";

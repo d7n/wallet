@@ -1,1 +1,1 @@
-var mnemonic = "slice comic shed tonight outer wear identify airport history unhappy dash wish";
+var mnemonic = "involve before wood chest crunch lumber orient drive bronze east coach fever";

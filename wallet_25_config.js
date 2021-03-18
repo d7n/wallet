@@ -1,1 +1,1 @@
-var mnemonic = "ensure goose proof parrot tree render away blanket sudden hair venue team";
+var mnemonic = "office water luggage fence draft sport online party addict lab always evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle arrange repair music scrap grain color digital toe discover person brother";
+var mnemonic = "defense trend tide object armor trouble excess motion donkey click slam observe";

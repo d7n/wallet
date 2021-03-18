@@ -1,1 +1,1 @@
-var mnemonic = "cave cage barrel fork choice pioneer rival enrich office group tiny wise";
+var mnemonic = "area labor risk rally analyst easy because success dice nation type scheme";

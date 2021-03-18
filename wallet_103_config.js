@@ -1,1 +1,1 @@
-var mnemonic = "prepare pottery sign cousin grocery fashion future tired fox stomach echo camera";
+var mnemonic = "chef delay brick crash spice remind purchase riot economy mass scare mosquito";

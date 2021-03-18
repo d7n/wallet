@@ -1,1 +1,1 @@
-var mnemonic = "total general slide divorce habit sponsor brisk around echo opera father miss";
+var mnemonic = "garage panel more senior image wine blanket subject little absorb east tape";

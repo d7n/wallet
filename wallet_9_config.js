@@ -1,1 +1,1 @@
-var mnemonic = "vanish news knock name advance cigar tonight rescue tell evil almost palm";
+var mnemonic = "velvet annual cabin chunk royal warfare chaos similar tragic deposit gadget juice";

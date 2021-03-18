@@ -1,1 +1,1 @@
-var mnemonic = "party dish skin afraid frown solution brand wild vicious bring that deer";
+var mnemonic = "neck crucial pull skirt pelican clean rubber unfold possible sponsor rib lock";

@@ -1,1 +1,1 @@
-var mnemonic = "grant spray suffer december opera cabbage brave ghost hammer ignore immense twelve";
+var mnemonic = "prepare pyramid pupil balance grow nature divide staff zoo control vague blur";

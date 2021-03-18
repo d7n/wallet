@@ -1,1 +1,1 @@
-var mnemonic = "canal express express they manual cause emerge work keep mystery fade apology";
+var mnemonic = "more breeze physical olive frost purse family raw apology rare salon coin";

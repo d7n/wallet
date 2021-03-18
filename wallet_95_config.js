@@ -1,1 +1,1 @@
-var mnemonic = "tag mechanic addict betray fade jungle guess hazard unfair circle file title";
+var mnemonic = "picture daughter gain unable miracle prize design spirit quote visit orange lonely";

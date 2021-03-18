@@ -1,1 +1,1 @@
-var mnemonic = "grab violin palm citizen icon yellow eight follow shy oppose brass zebra";
+var mnemonic = "recall labor learn small spike clap supreme mass comfort tape bubble sunny";

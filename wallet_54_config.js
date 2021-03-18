@@ -1,1 +1,1 @@
-var mnemonic = "income attack abstract arrest memory barely guess crucial hip outdoor zone final";
+var mnemonic = "produce pepper wine social shrug zoo hobby broken destroy liquid resource dog";

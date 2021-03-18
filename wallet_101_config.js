@@ -1,1 +1,1 @@
-var mnemonic = "renew cram scene addict dentist biology slide cry life fever enhance illness";
+var mnemonic = "fog quit stomach like effort surface whale slogan lecture talent critic educate";

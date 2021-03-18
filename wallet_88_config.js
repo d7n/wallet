@@ -1,1 +1,1 @@
-var mnemonic = "behind fox mushroom plate trophy unfold tomorrow state relief solar tongue muscle";
+var mnemonic = "hand limit comic upper acid surge minimum mobile gentle case interest tell";

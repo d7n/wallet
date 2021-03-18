@@ -1,1 +1,1 @@
-var mnemonic = "issue afford physical kitchen open wisdom shrug steak grid enrich swamp attract";
+var mnemonic = "glide clerk ladder sell pool vacant sand crawl enact desk lock cake";

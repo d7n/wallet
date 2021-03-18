@@ -1,1 +1,1 @@
-var mnemonic = "potato wrestle kitten grit because acid elegant avocado salmon employ glimpse law";
+var mnemonic = "bottom code glad grab donor need abandon erupt social resource viable emerge";

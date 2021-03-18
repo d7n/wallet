@@ -1,1 +1,1 @@
-var mnemonic = "truly notice glare online peasant push oblige penalty sing name smart rain";
+var mnemonic = "region interest private round drum popular oak dream salt choice march shaft";

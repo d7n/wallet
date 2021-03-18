@@ -1,1 +1,1 @@
-var mnemonic = "indicate struggle duty salute broccoli time define debate evolve joy seminar recall";
+var mnemonic = "arm chaos radar soap attitude rookie stay habit hockey invest fox adult";

@@ -1,1 +1,1 @@
-var mnemonic = "crash one room clown dog laptop luggage scout wrestle sauce blind interest";
+var mnemonic = "mango beef worth success river hand property rigid kitten shallow bulk holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "choose best journey pluck deposit eagle muscle collect sad salmon knife shock";
+var mnemonic = "wonder news smart razor begin cash artefact prefer minimum route song reflect";

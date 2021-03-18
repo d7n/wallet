@@ -1,1 +1,1 @@
-var mnemonic = "draft super garbage essence put jungle useful major another right yellow job";
+var mnemonic = "build excite lazy tragic attend pulse rely ship ranch list erupt repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix gentle elevator refuse prosper object point chat fossil castle inmate borrow";
+var mnemonic = "blur prosper try adapt face audit interest broccoli belt alarm shiver novel";

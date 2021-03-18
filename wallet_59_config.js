@@ -1,1 +1,1 @@
-var mnemonic = "hurdle receive head merry ancient find tower fragile neck add pledge foil";
+var mnemonic = "mosquito salmon blame unaware begin envelope absent chat liar guard dismiss exhaust";

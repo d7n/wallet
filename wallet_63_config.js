@@ -1,1 +1,1 @@
-var mnemonic = "also kitchen ten myth animal opinion resemble color coyote twelve extra motor";
+var mnemonic = "topple alien cereal wire close yellow basket salt mean split breeze sing";

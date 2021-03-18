@@ -1,1 +1,1 @@
-var mnemonic = "common tunnel tiger mansion toe under much clever distance lonely symbol mistake";
+var mnemonic = "feature blind practice fitness solve gain believe prosper type awake choice stage";

@@ -1,1 +1,1 @@
-var mnemonic = "define reflect grid borrow diet hockey ritual hint harbor hint ready impose";
+var mnemonic = "slice snap organ travel rate rose erase orchard canoe unaware orphan measure";

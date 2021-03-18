@@ -1,1 +1,1 @@
-var mnemonic = "shell cloth nurse fitness tail annual worth edit emerge cup intact scout";
+var mnemonic = "bachelor horn camp south enemy alone exclude shadow busy ring horn swarm";

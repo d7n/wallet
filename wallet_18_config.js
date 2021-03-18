@@ -1,1 +1,1 @@
-var mnemonic = "blouse town camp ghost clump reopen joke speed canoe torch lobster devote";
+var mnemonic = "retire swift bundle camp lecture monkey truth immense angry explain dinosaur churn";

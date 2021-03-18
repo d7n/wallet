@@ -1,1 +1,1 @@
-var mnemonic = "gas service trend frame bag crime cotton injury congress thought bracket royal";
+var mnemonic = "square route invest west click silver charge coconut item radio practice repeat";

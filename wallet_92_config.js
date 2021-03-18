@@ -1,1 +1,1 @@
-var mnemonic = "romance end stem matrix satoshi square fluid cabbage tent visa intact close";
+var mnemonic = "void frown erosion obvious intact wrist chronic inquiry marble excite duty produce";

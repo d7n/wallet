@@ -1,1 +1,1 @@
-var mnemonic = "dress crawl awkward antenna wage debris mask figure anxiety repeat grain enlist";
+var mnemonic = "swing height drop metal fun canoe bench inherit east inmate please stuff";

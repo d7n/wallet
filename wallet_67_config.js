@@ -1,1 +1,1 @@
-var mnemonic = "eagle leaf twin frame spring viable craft mansion coast mule science idea";
+var mnemonic = "goddess sure pilot auto utility warrior decline draw adapt proud cake logic";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing produce gospel neglect adjust start love unit task finger front grief";
+var mnemonic = "drip doll reopen depth mom school burst recipe orbit unfold trigger cook";

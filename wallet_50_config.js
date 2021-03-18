@@ -1,1 +1,1 @@
-var mnemonic = "stick chat trap salad state bargain require electric group genuine patient wool";
+var mnemonic = "artefact glimpse hint good describe stool tobacco price roof enable scout kingdom";

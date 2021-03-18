@@ -1,1 +1,1 @@
-var mnemonic = "mimic elegant hole owner point universe gather mix staff maple arrange ahead";
+var mnemonic = "armor barrel grocery pull since long client ordinary typical excess allow address";

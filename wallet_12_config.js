@@ -1,1 +1,1 @@
-var mnemonic = "yard desk enact ability north father sun upset large stone unit domain";
+var mnemonic = "apple all update cash shadow fault survey exact turkey walk vapor ice";
