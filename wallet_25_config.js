@@ -1,1 +1,1 @@
-var mnemonic = "crop dog disorder stairs squirrel tail suggest grocery try divorce page stuff";
+var mnemonic = "risk anxiety radio vital shell faint raise zoo dune title lazy dynamic";

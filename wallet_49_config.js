@@ -1,1 +1,1 @@
-var mnemonic = "foot stem spice view board lens real glad voice invite initial wing";
+var mnemonic = "story distance luggage uniform warfare private short key twice obvious truck unveil";

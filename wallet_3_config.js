@@ -1,1 +1,1 @@
-var mnemonic = "badge purchase reason cruel warm wrist such hospital burger ritual spoon rural";
+var mnemonic = "ceiling hockey prefer nephew village web keep sausage orchard video plate frog";

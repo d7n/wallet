@@ -1,1 +1,1 @@
-var mnemonic = "creek banana share marine unveil future assault skate sword kid flip educate";
+var mnemonic = "grit system client virtual first language dice wire spirit receive decrease strong";

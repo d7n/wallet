@@ -1,1 +1,1 @@
-var mnemonic = "wolf acquire plastic outside above rail rice problem sudden illegal banana march";
+var mnemonic = "dentist since jungle august aunt giraffe sample tilt proud cinnamon purse gaze";

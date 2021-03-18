@@ -1,1 +1,1 @@
-var mnemonic = "fragile power animal space enough bulk brother level fever lizard debris stable";
+var mnemonic = "cherry basket final twice cream slow multiply arena cushion uncover chronic staff";

@@ -1,1 +1,1 @@
-var mnemonic = "easy awesome traffic injury proof wealth goat insect green once renew blame";
+var mnemonic = "solar feature cute plate lift exchange latin label few share unfold series";

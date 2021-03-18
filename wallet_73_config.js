@@ -1,1 +1,1 @@
-var mnemonic = "cloud jeans payment danger anger magnet night will equip update stem canvas";
+var mnemonic = "garment share rent stadium object pride genre analyst solve cheese angle category";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy able bounce body city sense quit pipe drama mimic copy cactus";
+var mnemonic = "detail enact shine genuine popular already property sphere mixed lift luxury connect";

@@ -1,1 +1,1 @@
-var mnemonic = "identify total rabbit parrot animal void refuse surface knee jacket blanket tank";
+var mnemonic = "promote produce uphold burst common aware quarter prefer hill grunt exit scissors";

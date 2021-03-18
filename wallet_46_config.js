@@ -1,1 +1,1 @@
-var mnemonic = "series jeans actress school you letter twin fish loop example deer pair";
+var mnemonic = "circle people defense nuclear feel arm season feed bonus parent shadow before";

@@ -1,1 +1,1 @@
-var mnemonic = "track include win time kiwi baby blossom naive daughter panic video advance";
+var mnemonic = "legal flower desk tuna property blue virtual airport weasel holiday acquire wild";

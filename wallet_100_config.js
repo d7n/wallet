@@ -1,1 +1,1 @@
-var mnemonic = "dutch diamond question raise gym minimum task enlist defense bulk interest action";
+var mnemonic = "list question assume measure orphan family wear wagon twelve unfold target across";

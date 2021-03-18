@@ -1,1 +1,1 @@
-var mnemonic = "hotel flight very genuine work scare arrive gossip actual thought gadget noise";
+var mnemonic = "glimpse wide recall naive amused evoke absorb basket enroll size stock program";

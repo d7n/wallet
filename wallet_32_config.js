@@ -1,1 +1,1 @@
-var mnemonic = "head sheriff clerk helmet swallow better plate soap crawl exchange bunker length";
+var mnemonic = "grape casual train brief exotic loyal pumpkin short benefit purpose seven athlete";

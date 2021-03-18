@@ -1,1 +1,1 @@
-var mnemonic = "jungle cute under seek gadget between blush insane pool library wrap road";
+var mnemonic = "ship drill alley chicken truck divorce ignore ski glad salt coach marriage";

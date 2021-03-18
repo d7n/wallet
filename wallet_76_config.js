@@ -1,1 +1,1 @@
-var mnemonic = "diagram lamp box slush sketch second initial hidden dice thunder pudding letter";
+var mnemonic = "creek razor mistake must shuffle file page elder olympic joke fever water";

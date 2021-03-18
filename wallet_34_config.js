@@ -1,1 +1,1 @@
-var mnemonic = "dice pill dutch virtual tiny pretty blossom broken employ smart journey smart";
+var mnemonic = "draw brush drift penalty wagon team behave age second begin forget immense";

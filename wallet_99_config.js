@@ -1,1 +1,1 @@
-var mnemonic = "shallow purchase surprise hood arrest alarm fiber shaft chronic lyrics empower fox";
+var mnemonic = "rhythm visual census oak since blush rough notable link merit scale leave";

@@ -1,1 +1,1 @@
-var mnemonic = "flash trend process surge rack run give weekend honey buffalo palm cycle";
+var mnemonic = "syrup flame pen supply action slam frequent helmet sell isolate amazing one";

@@ -1,1 +1,1 @@
-var mnemonic = "visual robot orbit erupt subject blade vehicle voyage embrace visit enhance coach";
+var mnemonic = "coach public submit hawk normal denial strong fruit slight accuse visa fuel";

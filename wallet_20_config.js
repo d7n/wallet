@@ -1,1 +1,1 @@
-var mnemonic = "emotion already leader floor base rookie great child visa bitter pluck shoot";
+var mnemonic = "window whip join tunnel little parent wheat become estate hole coil wash";

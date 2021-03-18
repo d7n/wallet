@@ -1,1 +1,1 @@
-var mnemonic = "core arctic execute grid punch vacuum return affair upon nuclear mystery creek";
+var mnemonic = "sting grain summer today cost near crawl behind shove universe narrow giraffe";

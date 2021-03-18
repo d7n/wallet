@@ -1,1 +1,1 @@
-var mnemonic = "hen proof pitch move clay chair find announce pepper demand guilt awkward";
+var mnemonic = "flower odor firm mixture allow session sport coral track stamp hope mistake";

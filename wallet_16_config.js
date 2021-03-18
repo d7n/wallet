@@ -1,1 +1,1 @@
-var mnemonic = "have symbol worth immune rubber pass usage labor seed purchase wash youth";
+var mnemonic = "usage silver record minute silent cargo slice pulse cruel birth program narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "outside sad bless meat kick furnace bring asset cabbage keep sock soccer";
+var mnemonic = "dizzy pledge mechanic poet setup latin spot caution case timber miss slim";

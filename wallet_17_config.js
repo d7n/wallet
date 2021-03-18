@@ -1,1 +1,1 @@
-var mnemonic = "sunny object film kick win swear grass wheat enhance paper deal tortoise";
+var mnemonic = "guitar room sauce fun price drum clog future frequent innocent entry flock";

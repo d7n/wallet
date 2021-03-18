@@ -1,1 +1,1 @@
-var mnemonic = "hint bring dumb apple attract tide army census uniform split giant student";
+var mnemonic = "dial play amazing swallow bone dish inside system monkey gospel prosper scrap";

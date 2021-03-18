@@ -1,1 +1,1 @@
-var mnemonic = "volcano embody donor among favorite maple lawn hood boring toe elevator visual";
+var mnemonic = "claim cattle escape brand angle odor tuition biology found radar motor pepper";

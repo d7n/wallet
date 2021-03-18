@@ -1,1 +1,1 @@
-var mnemonic = "venue child before candy prison surge kid rifle urban phrase border actress";
+var mnemonic = "friend excess round boil scrap seed grain brand betray view veteran govern";

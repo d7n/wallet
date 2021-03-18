@@ -1,1 +1,1 @@
-var mnemonic = "outdoor arm earth pact frozen wise warfare bamboo various awkward spice vehicle";
+var mnemonic = "spin solve waste lizard truth leader slot chronic laptop unable apart negative";

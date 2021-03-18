@@ -1,1 +1,1 @@
-var mnemonic = "express square post people actual ticket educate album border quantum tackle mistake";
+var mnemonic = "sunny scorpion vacant quit danger write high pencil special small still deposit";

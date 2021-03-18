@@ -1,1 +1,1 @@
-var mnemonic = "task sunset actual dumb tide equal page upon scheme picture muffin rule";
+var mnemonic = "misery peanut same photo pair tent pony vacuum assume eternal boss country";

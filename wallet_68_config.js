@@ -1,1 +1,1 @@
-var mnemonic = "shy later coin demand guess river swear student case cactus similar cloud";
+var mnemonic = "blue possible medal human sight direct circle clown payment control ripple course";

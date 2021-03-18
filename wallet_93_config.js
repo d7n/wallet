@@ -1,1 +1,1 @@
-var mnemonic = "clutch skull never casual dilemma today march coin glad casino divorce mad";
+var mnemonic = "trick tape monkey airport imitate evil engage save response rare water radar";

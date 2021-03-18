@@ -1,1 +1,1 @@
-var mnemonic = "eager enemy bright long scrap error duck taxi board novel trophy saddle";
+var mnemonic = "business memory rubber myself couch shell lumber rabbit cute beef will endorse";

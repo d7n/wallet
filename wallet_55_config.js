@@ -1,1 +1,1 @@
-var mnemonic = "birth proof local correct risk canyon away language prevent client wrist govern";
+var mnemonic = "car require pony double student cement axis country party skin half also";

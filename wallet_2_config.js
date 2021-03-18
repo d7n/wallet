@@ -1,1 +1,1 @@
-var mnemonic = "royal roof inflict crash search color comic add rural obey coconut rent";
+var mnemonic = "sphere impose spatial slide then omit twin crowd basket flee excess afraid";

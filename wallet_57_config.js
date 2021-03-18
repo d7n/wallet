@@ -1,1 +1,1 @@
-var mnemonic = "enjoy drama sponsor fetch below fat figure lizard carbon limb expire recall";
+var mnemonic = "slim add eyebrow assume endorse want define evidence license gospel erosion popular";

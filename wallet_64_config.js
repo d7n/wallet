@@ -1,1 +1,1 @@
-var mnemonic = "goddess grunt lumber inform coach staff pill best pond umbrella spin victory";
+var mnemonic = "famous noise food universe cherry monster lawn relief fault antenna year kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "silver when already kid welcome chicken wise real element hammer inform train";
+var mnemonic = "bid rich dragon crowd route hunt since undo traffic burger busy frame";

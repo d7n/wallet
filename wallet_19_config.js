@@ -1,1 +1,1 @@
-var mnemonic = "extend bulb auto raw describe grocery slim imitate sketch chest more chicken";
+var mnemonic = "fiber force list initial drink never slide hole genre cousin scheme spread";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber frog absorb silent panel emerge robust perfect addict click depend usage";
+var mnemonic = "valve theme wink disorder cinnamon cabbage they torch maze cushion ladder hurry";

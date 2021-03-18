@@ -1,1 +1,1 @@
-var mnemonic = "jewel amateur hill shove earth indoor couple people zebra rose tip person";
+var mnemonic = "peanut room rural steak meadow junior chest athlete wasp disease wait brass";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual usual rely resemble flock exhaust proud initial bar consider invest bring";
+var mnemonic = "call round myself history juice sick embody board increase priority road alley";

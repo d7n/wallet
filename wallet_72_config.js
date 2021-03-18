@@ -1,1 +1,1 @@
-var mnemonic = "run twelve cruise endless armed actress palace medal broccoli angry length day";
+var mnemonic = "obey erupt sight impact stuff broom life guilt glass dwarf better alcohol";

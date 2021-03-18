@@ -1,1 +1,1 @@
-var mnemonic = "you pattern critic solar crane gravity skull prize cloth cloud notable apart";
+var mnemonic = "local minute label great banner craft great together dynamic invest husband awake";

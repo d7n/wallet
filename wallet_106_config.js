@@ -1,1 +1,1 @@
-var mnemonic = "piano equip doll fire merit double humor congress device avoid burden prison";
+var mnemonic = "pledge filter stone monkey runway time push danger dizzy oven crumble three";

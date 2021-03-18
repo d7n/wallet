@@ -1,1 +1,1 @@
-var mnemonic = "choice property into inmate wrist spell era until tilt skin solution powder";
+var mnemonic = "solar element property buddy deliver mosquito clock lottery grunt act walnut risk";

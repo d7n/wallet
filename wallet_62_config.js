@@ -1,1 +1,1 @@
-var mnemonic = "hawk vocal oxygen join enroll unhappy pupil much deputy harvest draw home";
+var mnemonic = "before second rubber ketchup zebra eagle dove artist bike digital reveal jealous";

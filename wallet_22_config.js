@@ -1,1 +1,1 @@
-var mnemonic = "outside castle sock duty damp fancy panther echo winter chat effort capital";
+var mnemonic = "olive scorpion seven sadness arrive earn vicious glide pony you visual else";

@@ -1,1 +1,1 @@
-var mnemonic = "still paper panda saddle tomorrow undo buyer street doctor enable inhale pupil";
+var mnemonic = "range provide error nation cereal vicious rough know corn love clarify present";

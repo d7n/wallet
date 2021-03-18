@@ -1,1 +1,1 @@
-var mnemonic = "morning dutch opera spice despair illness quantum salt atom wage gauge step";
+var mnemonic = "diamond bargain oval actual pill phrase grid shield sorry climb buffalo salon";

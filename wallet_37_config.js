@@ -1,1 +1,1 @@
-var mnemonic = "pulp main head elder secret patch advance scrap sad behave swim benefit";
+var mnemonic = "hair toward view venue tennis repeat tissue october able yellow idle inject";

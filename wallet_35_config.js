@@ -1,1 +1,1 @@
-var mnemonic = "fine random explain move usage evoke such tank kiwi smooth fortune summer";
+var mnemonic = "march peasant nice aware stairs drip hurry noodle today dress frost reason";

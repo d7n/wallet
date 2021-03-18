@@ -1,1 +1,1 @@
-var mnemonic = "trick cute glory walnut hero short negative crawl night chronic rail layer";
+var mnemonic = "random bundle twenty gaze doll token spray cart call dilemma staff again";

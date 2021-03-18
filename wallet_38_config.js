@@ -1,1 +1,1 @@
-var mnemonic = "idle outside scan online cruel clutch apology bar knee limit typical hurry";
+var mnemonic = "first quiz cage slush local lobster peace mouse sight donate upgrade neglect";

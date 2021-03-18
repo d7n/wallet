@@ -1,1 +1,1 @@
-var mnemonic = "weekend train vast zone tube mushroom hub session main grunt nurse car";
+var mnemonic = "duck obscure victory infant just stage lion leaf ugly govern fly volcano";

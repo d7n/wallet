@@ -1,1 +1,1 @@
-var mnemonic = "slender obvious trick price scatter merit traffic provide envelope theory rally sight";
+var mnemonic = "afford glue add finger enroll team syrup melody appear effort prison thing";

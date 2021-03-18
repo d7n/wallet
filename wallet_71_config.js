@@ -1,1 +1,1 @@
-var mnemonic = "chief guide pupil weasel yard nasty receive shield lend gun empower squirrel";
+var mnemonic = "use quote taxi plunge machine drink float buffalo twice crater drift ribbon";

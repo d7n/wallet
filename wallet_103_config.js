@@ -1,1 +1,1 @@
-var mnemonic = "cart curve soul mouse world cook mother issue obscure current fade abuse";
+var mnemonic = "thrive fantasy urge decide modify toss jungle warrior sorry catalog reform rude";

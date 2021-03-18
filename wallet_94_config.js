@@ -1,1 +1,1 @@
-var mnemonic = "rain organ account enroll length buyer steak medal square candy liar rally";
+var mnemonic = "bubble surprise arrow balcony taste order solution grocery indicate tag zebra welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "sail reason sign room seven sell remember ice twist test duck sunny";
+var mnemonic = "stuff transfer rose notable damage detail setup please wrist crane suggest palace";

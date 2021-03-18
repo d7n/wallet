@@ -1,1 +1,1 @@
-var mnemonic = "foot father solution predict cage follow laptop retreat coconut leg cable idea";
+var mnemonic = "glass student boring title three pass genius teach lake grape injury tuition";

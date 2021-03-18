@@ -1,1 +1,1 @@
-var mnemonic = "other hobby bleak soldier good practice brick acquire foster sheriff sketch camp";
+var mnemonic = "still erode action magnet sadness birth receive admit cannon write they adapt";

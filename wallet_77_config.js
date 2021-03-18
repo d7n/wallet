@@ -1,1 +1,1 @@
-var mnemonic = "viable mistake predict swift soap acoustic ahead arrive swarm kitten bench rail";
+var mnemonic = "make flip blouse believe tank ask sweet orchard peanut job matter garbage";

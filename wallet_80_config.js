@@ -1,1 +1,1 @@
-var mnemonic = "start foil fiber network list pupil mandate will tobacco poem strong solid";
+var mnemonic = "first hour heavy stock message blanket unable front cloth erupt oil misery";

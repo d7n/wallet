@@ -1,1 +1,1 @@
-var mnemonic = "select song wing narrow mountain such gasp loop nominee evidence concert chronic";
+var mnemonic = "village like enrich chicken amazing crater cash remain atom extend evil pilot";

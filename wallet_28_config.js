@@ -1,1 +1,1 @@
-var mnemonic = "front monkey among when mother swift gospel solve park tortoise ozone despair";
+var mnemonic = "trick regular tip try hover rule wise source wheel orient strong adult";

@@ -1,1 +1,1 @@
-var mnemonic = "cram note casual million melody cook arm reform scan motor hair rail";
+var mnemonic = "dinosaur elegant force hour enhance earth film bicycle trick way later service";

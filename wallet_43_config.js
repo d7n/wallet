@@ -1,1 +1,1 @@
-var mnemonic = "wrong ostrich nurse adult wonder basic candy display fashion volume random thought";
+var mnemonic = "trial badge happy kangaroo shoot mouse aerobic rabbit couple check cannon machine";

@@ -1,1 +1,1 @@
-var mnemonic = "gift logic priority knock until same six tide clown laptop rail govern";
+var mnemonic = "cash size brick oval cotton joke bleak idle humor weekend region chest";

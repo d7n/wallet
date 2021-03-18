@@ -1,1 +1,1 @@
-var mnemonic = "unique poem force quality host range grape biology ankle imitate cotton supply";
+var mnemonic = "syrup moral pelican mystery asset ginger minimum bracket canvas situate corn unusual";

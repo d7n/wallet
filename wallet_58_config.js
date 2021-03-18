@@ -1,1 +1,1 @@
-var mnemonic = "spread enter oak common claw drastic east drift mistake corn impose price";
+var mnemonic = "park invite fetch nerve input rate lava door install spare shock hurry";

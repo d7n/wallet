@@ -1,1 +1,1 @@
-var mnemonic = "amazing search seek syrup accident select rocket quality vapor total omit mechanic";
+var mnemonic = "battle raccoon smile vivid rebuild lock first pepper equip solution enforce tone";

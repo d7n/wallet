@@ -1,1 +1,1 @@
-var mnemonic = "heart rabbit crouch spice master resemble liquid wood poem mutual clock rabbit";
+var mnemonic = "online essence wedding danger rate helmet brown submit chat uphold talent tattoo";

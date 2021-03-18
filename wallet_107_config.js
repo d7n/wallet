@@ -1,1 +1,1 @@
-var mnemonic = "amazing trophy garlic prepare present gate era initial traffic cash move trumpet";
+var mnemonic = "heart kidney donkey there that initial away toy police soccer jewel era";

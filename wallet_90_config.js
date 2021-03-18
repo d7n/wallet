@@ -1,1 +1,1 @@
-var mnemonic = "prevent play inmate joy school ranch finger arm ketchup vault depend weather";
+var mnemonic = "endorse net vessel term release lawsuit anger direct arch permit define acoustic";

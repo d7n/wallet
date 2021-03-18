@@ -1,1 +1,1 @@
-var mnemonic = "hero gain slice deposit mention name lamp armed poem drive caution visual";
+var mnemonic = "patrol merit lyrics boil avocado wedding fiction squeeze tide report pledge few";

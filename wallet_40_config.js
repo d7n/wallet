@@ -1,1 +1,1 @@
-var mnemonic = "brush maid defy bundle merry wine dizzy chair merry blossom pudding verify";
+var mnemonic = "barely grab defense scorpion seminar youth never swallow favorite fox version neither";

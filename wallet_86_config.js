@@ -1,1 +1,1 @@
-var mnemonic = "balcony enough tray weather dose indicate maple evolve ranch victory stick ready";
+var mnemonic = "slam upgrade acoustic use nest obtain cool erupt lawsuit enemy tone moral";

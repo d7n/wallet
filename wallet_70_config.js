@@ -1,1 +1,1 @@
-var mnemonic = "merge clever infant tag shoot maid attract know wine aware gasp airport";
+var mnemonic = "habit fantasy gas tube bitter quiz country ancient bamboo critic match cereal";

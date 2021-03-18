@@ -1,1 +1,1 @@
-var mnemonic = "quiz fancy tribe giant lion cabbage enemy oxygen matrix brand dynamic hire";
+var mnemonic = "remain duck return trumpet essence nurse digital sense regular wet pig judge";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk digital position sample gasp arrow wrist alley title robot decade amused";
+var mnemonic = "equip song adult myth shield alter input best maze ghost curtain movie";

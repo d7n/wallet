@@ -1,1 +1,1 @@
-var mnemonic = "grace staff girl cinnamon acid ask radio public vocal stem music pitch";
+var mnemonic = "goddess actress bless quote govern crouch avoid nurse play motor federal kangaroo";

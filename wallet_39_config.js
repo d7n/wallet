@@ -1,1 +1,1 @@
-var mnemonic = "circle idea language swap silver penalty unable mixture bitter pretty venue ill";
+var mnemonic = "grace own pause lift lunch hidden boss denial unveil path absorb shed";

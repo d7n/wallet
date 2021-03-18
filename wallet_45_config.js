@@ -1,1 +1,1 @@
-var mnemonic = "rule area alter consider hazard approve spike dove cram annual reunion couch";
+var mnemonic = "young click dream slim mimic amount sketch joy wife pole stereo pony";

@@ -1,1 +1,1 @@
-var mnemonic = "detect chimney ancient pepper winter diamond hub symbol marine ghost wise language";
+var mnemonic = "prefer sphere salad lamp nurse banana word emotion frame surge surge spring";

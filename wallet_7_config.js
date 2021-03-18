@@ -1,1 +1,1 @@
-var mnemonic = "slush flock trouble lift theory balcony modify equal audit survey alpha roast";
+var mnemonic = "spread cradle cereal thank harbor build recycle chase bless catalog fashion idea";

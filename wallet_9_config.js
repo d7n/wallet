@@ -1,1 +1,1 @@
-var mnemonic = "flock axis digital tray afraid collect lecture supreme image jazz spider spice";
+var mnemonic = "vicious cement fiber leopard lemon child symbol guard spin final sight upon";

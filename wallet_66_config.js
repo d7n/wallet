@@ -1,1 +1,1 @@
-var mnemonic = "pretty calm rack enemy anchor reopen build nasty unaware harvest bunker mimic";
+var mnemonic = "river dice garage fruit bulk perfect legal lake impact mom garbage price";

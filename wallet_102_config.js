@@ -1,1 +1,1 @@
-var mnemonic = "student reunion rapid glance approve emotion frog start harbor crash lend slot";
+var mnemonic = "elbow citizen two flavor kidney fly picture such slender blossom submit tragic";
