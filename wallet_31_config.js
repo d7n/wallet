@@ -1,1 +1,1 @@
-var mnemonic = "confirm off sauce glide borrow anchor alcohol middle receive knee find reflect";
+var mnemonic = "noodle also muffin bone twice sock chimney verify punch juice weapon supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "april feed fit typical stove lyrics stick metal lens elegant blood good";
+var mnemonic = "tower measure holiday garment parrot brave bar trigger maple update document vocal";

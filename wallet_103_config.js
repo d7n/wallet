@@ -1,1 +1,1 @@
-var mnemonic = "borrow negative antenna slide exhaust grow dinner debate admit gossip tuna unknown";
+var mnemonic = "loud foam teach alone mimic labor shock style celery bird wear snow";

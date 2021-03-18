@@ -1,1 +1,1 @@
-var mnemonic = "junk slow company lumber sheriff quiz afford dove power pumpkin much rail";
+var mnemonic = "quality session casual dolphin display dove obtain dress surface country certain session";

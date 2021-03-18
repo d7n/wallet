@@ -1,1 +1,1 @@
-var mnemonic = "speak multiply urge scare taxi throw venture wall kind joy nephew ensure";
+var mnemonic = "visit flavor prefer use paddle ranch faculty swim gap finish two coral";

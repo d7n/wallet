@@ -1,1 +1,1 @@
-var mnemonic = "token urban pottery disorder nation peasant indoor grocery sense faith member hobby";
+var mnemonic = "garbage total hammer math chuckle arrive voyage prize stock together melt winner";

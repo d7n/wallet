@@ -1,1 +1,1 @@
-var mnemonic = "grace venue matrix exercise cave dune coral crater spoil alien alcohol pond";
+var mnemonic = "save lend pen era image verify embark glue rain squeeze brain purpose";

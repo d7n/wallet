@@ -1,1 +1,1 @@
-var mnemonic = "distance pumpkin input hat item retire resemble report organ alley rigid leopard";
+var mnemonic = "try drift normal train apple online purse inflict cup zero dog beach";

@@ -1,1 +1,1 @@
-var mnemonic = "gain program island chef whip pistol photo quick sudden anchor moment jeans";
+var mnemonic = "you filter mirror illegal curtain demise print palace arrow blame vital host";

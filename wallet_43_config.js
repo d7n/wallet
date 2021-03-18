@@ -1,1 +1,1 @@
-var mnemonic = "clinic used thunder satoshi bone verify hawk current razor bar result pudding";
+var mnemonic = "track network profit acid sniff swing awake route thumb total pelican canvas";

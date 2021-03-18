@@ -1,1 +1,1 @@
-var mnemonic = "mention attend heart farm diesel post canal skate gloom salmon ivory edit";
+var mnemonic = "bone obvious bubble explain bid six six tape vacant bread fringe squeeze";

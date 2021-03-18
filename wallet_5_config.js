@@ -1,1 +1,1 @@
-var mnemonic = "heavy mixed sweet expect clutch wave west possible present can relief front";
+var mnemonic = "alley sketch magic celery hood mule true core limb axis total damage";

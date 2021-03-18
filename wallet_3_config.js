@@ -1,1 +1,1 @@
-var mnemonic = "soul lady hazard walk sunny drama better space vanish seat mix swap";
+var mnemonic = "idea flat tragic delay little trick item kid other draw master divert";

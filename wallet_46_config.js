@@ -1,1 +1,1 @@
-var mnemonic = "modify uncle truth dog chalk use dog habit december guitar album sponsor";
+var mnemonic = "robot gentle hello peace wisdom awful shrimp father stable pumpkin wrong never";

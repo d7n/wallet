@@ -1,1 +1,1 @@
-var mnemonic = "train spice secret exhibit breeze goddess spice tobacco donate bone cup enhance";
+var mnemonic = "drive bid rare trim blanket cat target arrow valley concert jealous cool";

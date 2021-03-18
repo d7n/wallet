@@ -1,1 +1,1 @@
-var mnemonic = "frown family impose bubble science damp luxury term drip pottery bamboo cupboard";
+var mnemonic = "mail inherit winter almost satisfy bomb young jaguar cover barely lunch loop";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise disorder modify snow width dose carry army advice slender accident embrace";
+var mnemonic = "afford tent caution before please permit orbit clean east anchor miss egg";

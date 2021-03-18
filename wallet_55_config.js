@@ -1,1 +1,1 @@
-var mnemonic = "improve family second multiply december segment earth you social now awesome describe";
+var mnemonic = "bronze minute disagree tongue student spare blouse argue still clutch peasant key";

@@ -1,1 +1,1 @@
-var mnemonic = "kind kite hidden success future atom busy garden pigeon pyramid brisk avoid";
+var mnemonic = "brain green oxygen cactus predict world escape slush crash thumb wage assault";

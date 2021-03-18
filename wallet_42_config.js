@@ -1,1 +1,1 @@
-var mnemonic = "giggle belt under glare message flight steak only peace bike kid offer";
+var mnemonic = "emotion imitate galaxy fruit snap grant exotic emotion trend develop sleep wagon";

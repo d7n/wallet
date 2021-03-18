@@ -1,1 +1,1 @@
-var mnemonic = "sock dizzy limit vague fashion save satoshi peasant senior obscure key rent";
+var mnemonic = "zone kiwi valid loud scare pause shop spider kit once trade half";

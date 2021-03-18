@@ -1,1 +1,1 @@
-var mnemonic = "shove whale naive spatial eager path buddy dignity juice occur pepper name";
+var mnemonic = "room neglect seed supreme shell grant race region race dance whip option";

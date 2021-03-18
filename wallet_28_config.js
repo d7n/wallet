@@ -1,1 +1,1 @@
-var mnemonic = "agent entire reflect box taxi tiger human man deposit artefact slender submit";
+var mnemonic = "lottery shield gesture faith wasp wild clinic switch network gauge company discover";

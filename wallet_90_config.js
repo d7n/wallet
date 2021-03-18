@@ -1,1 +1,1 @@
-var mnemonic = "rail cost merry page wolf way similar bleak govern skate shield vanish";
+var mnemonic = "rebel luggage sweet pistol gap accuse social odor ecology weapon spring modify";

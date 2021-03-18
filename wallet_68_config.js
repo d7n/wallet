@@ -1,1 +1,1 @@
-var mnemonic = "kingdom borrow disease siege goat thumb student hedgehog fly document stick mystery";
+var mnemonic = "venue cruise mobile latin mirror sign reform absent dress bulk meadow large";

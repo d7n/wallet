@@ -1,1 +1,1 @@
-var mnemonic = "era fragile pottery bicycle coral tennis display relax mimic away script witness";
+var mnemonic = "cushion embark multiply excess silk cream ring ostrich dash focus glow tumble";

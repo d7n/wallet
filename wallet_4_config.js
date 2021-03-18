@@ -1,1 +1,1 @@
-var mnemonic = "quote all assault cliff castle alone romance century grain join element can";
+var mnemonic = "useful asset lemon purse rubber series venue cook still two absorb adult";

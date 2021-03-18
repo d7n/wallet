@@ -1,1 +1,1 @@
-var mnemonic = "viable staff crush gain civil carpet scene critic claw net hockey super";
+var mnemonic = "carry gesture position timber envelope cage orphan cover tired cool soap spoon";

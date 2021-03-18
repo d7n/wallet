@@ -1,1 +1,1 @@
-var mnemonic = "cactus transfer include neglect biology suspect scrap post lottery portion ill old";
+var mnemonic = "cart genius goddess depth wink purse join short credit jump level evolve";

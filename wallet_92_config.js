@@ -1,1 +1,1 @@
-var mnemonic = "note flag practice stove common thank try endless zebra paddle audit misery";
+var mnemonic = "world sleep hungry hen envelope half act flat fee pumpkin range heart";

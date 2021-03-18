@@ -1,1 +1,1 @@
-var mnemonic = "eye bulb world kidney poverty poverty gravity female sunny penalty ride egg";
+var mnemonic = "victory citizen sphere iron become category around license quality act magnet hurdle";

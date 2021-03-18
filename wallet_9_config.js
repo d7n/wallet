@@ -1,1 +1,1 @@
-var mnemonic = "click logic year magic market visit convince ginger coconut happy south hotel";
+var mnemonic = "trap maze firm resource lab group cost they credit raccoon brain absent";

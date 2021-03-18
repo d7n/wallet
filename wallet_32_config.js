@@ -1,1 +1,1 @@
-var mnemonic = "ostrich spoil case pipe skirt trouble seminar certain grow peace chair glass";
+var mnemonic = "absent blue seminar cinnamon found afraid oven era slender eagle loop sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "useless tuition nation glove kiwi boost survey only donkey walnut dignity sketch";
+var mnemonic = "agree poet opera scare boat run hurt decline price method unable hub";

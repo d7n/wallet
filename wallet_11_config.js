@@ -1,1 +1,1 @@
-var mnemonic = "chicken try shrimp arch flash scissors thunder coconut smile elite ankle often";
+var mnemonic = "property wear wise report choose health knife sport poem seek bike cream";

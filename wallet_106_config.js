@@ -1,1 +1,1 @@
-var mnemonic = "various crime chaos defy mesh title kind frost volume outer mimic unveil";
+var mnemonic = "sunset draft arch reflect image october credit flash illness reward dance couple";

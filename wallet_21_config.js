@@ -1,1 +1,1 @@
-var mnemonic = "plug repeat glow ride around foil symptom cage adult meadow floor degree";
+var mnemonic = "spy rigid pottery name office teach drastic bulb vital twice fault robot";

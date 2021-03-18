@@ -1,1 +1,1 @@
-var mnemonic = "motor adapt degree travel mechanic purchase glance pipe cash usage vanish practice";
+var mnemonic = "antenna quick embark carbon water surprise elephant diary usual vicious bicycle reform";

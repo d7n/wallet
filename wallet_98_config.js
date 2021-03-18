@@ -1,1 +1,1 @@
-var mnemonic = "weasel midnight convince solar hobby valley fine tube tool hobby pumpkin verb";
+var mnemonic = "diary drive carpet minute tone cave castle wide rifle lava tail birth";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler timber occur damage blouse argue auto matter visa raw direct gaze";
+var mnemonic = "rhythm drop fade pill mirror poem burden ability wasp put unhappy rough";

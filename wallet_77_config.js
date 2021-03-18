@@ -1,1 +1,1 @@
-var mnemonic = "globe vapor venue initial pave sad amateur venue wheat please cycle consider";
+var mnemonic = "hat scheme bracket transfer make admit session copper focus leaf episode wish";

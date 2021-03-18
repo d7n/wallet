@@ -1,1 +1,1 @@
-var mnemonic = "video omit marine repair cause help door sea picnic evolve access canoe";
+var mnemonic = "smart put choose dream sadness crunch success glove lava now spoon govern";

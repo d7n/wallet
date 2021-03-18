@@ -1,1 +1,1 @@
-var mnemonic = "put rebuild junior civil purchase moral arch mechanic slim energy little velvet";
+var mnemonic = "much flush language reward typical fantasy hybrid coil bounce never share client";

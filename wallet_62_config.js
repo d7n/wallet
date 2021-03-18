@@ -1,1 +1,1 @@
-var mnemonic = "claw summer tongue system churn deliver autumn super jeans drastic burden smart";
+var mnemonic = "lawn sense add host claim robot vicious vivid comic liberty small solid";

@@ -1,1 +1,1 @@
-var mnemonic = "stay fit stand input slender glide tortoise spoon rate snack arch bless";
+var mnemonic = "slice asset ancient syrup grid act original deny violin lake hair forward";

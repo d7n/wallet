@@ -1,1 +1,1 @@
-var mnemonic = "hill gloom escape illness puppy sand tone hidden make park candy erode";
+var mnemonic = "emotion power load alpha tenant audit grit swim dad list cupboard credit";

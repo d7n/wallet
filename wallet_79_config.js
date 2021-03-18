@@ -1,1 +1,1 @@
-var mnemonic = "endorse wise neutral company film cost return drive confirm lunar uniform dirt";
+var mnemonic = "extra auction prize image trick actor provide spike describe snow allow season";

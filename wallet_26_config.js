@@ -1,1 +1,1 @@
-var mnemonic = "gown false hover plate inject weather pyramid column movie burst rocket flip";
+var mnemonic = "put ski trumpet rescue chapter middle volcano spy globe fire service follow";

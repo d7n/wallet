@@ -1,1 +1,1 @@
-var mnemonic = "ancient token immune permit venture tourist enjoy deputy spare swim clock observe";
+var mnemonic = "onion wire couple bracket useful same arch balance section happy jar bounce";

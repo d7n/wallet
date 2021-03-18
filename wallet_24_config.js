@@ -1,1 +1,1 @@
-var mnemonic = "vessel squeeze parent enroll undo kitten east stamp put beauty ripple boss";
+var mnemonic = "ridge gather shadow verify mask one monster cluster world opinion doll huge";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury unaware burger stadium upset when gain gaze inherit rice reflect tube";
+var mnemonic = "ripple virtual zero lunch pumpkin front current rely wild rail solution runway";

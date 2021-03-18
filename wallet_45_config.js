@@ -1,1 +1,1 @@
-var mnemonic = "inside vacuum issue fashion race neutral august occur humble give smooth mushroom";
+var mnemonic = "lawsuit amateur move torch field thought judge life employ derive romance they";

@@ -1,1 +1,1 @@
-var mnemonic = "note labor arctic smoke stage brief monkey rude spy despair about derive";
+var mnemonic = "piece trash yellow bullet calm adjust wage test journey churn vintage bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "install index champion ramp elite scout approve palace refuse ugly butter leisure";
+var mnemonic = "share odor duck blind daughter assume eagle just basic only sentence repeat";

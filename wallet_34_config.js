@@ -1,1 +1,1 @@
-var mnemonic = "tuition embark deal equip rib nut deliver detail addict basic logic travel";
+var mnemonic = "know suit celery assault secret cliff mixture luxury chest mutual hood glory";

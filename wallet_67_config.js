@@ -1,1 +1,1 @@
-var mnemonic = "void agent grace visit diagram ring net blush oyster tourist pelican sword";
+var mnemonic = "chunk ancient season misery admit mercy paper mountain frown empower perfect chef";

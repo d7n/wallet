@@ -1,1 +1,1 @@
-var mnemonic = "mandate damp salmon ugly defy matrix sand about moment nerve urge budget";
+var mnemonic = "vessel unfold document turtle smooth peasant swing thumb fine attract brave fish";

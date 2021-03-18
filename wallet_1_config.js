@@ -1,1 +1,1 @@
-var mnemonic = "mechanic motion document priority vanish run mistake sugar cash unusual boring cabin";
+var mnemonic = "become exile inject will history cost short code assume random involve visit";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture frequent chest retire vocal artwork ghost exact suffer neither major quality";
+var mnemonic = "crush little left race bleak coconut chief season drastic quiz sphere desk";

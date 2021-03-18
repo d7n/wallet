@@ -1,1 +1,1 @@
-var mnemonic = "video exact culture avoid salon measure open drive song orient soap language";
+var mnemonic = "pilot live damp proud sword spoil chimney hidden sponsor vast uncover urge";

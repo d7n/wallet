@@ -1,1 +1,1 @@
-var mnemonic = "mistake shed chuckle call slogan wheel detect guess giraffe three travel loan";
+var mnemonic = "amateur soap thing since random run message waste left first shield board";

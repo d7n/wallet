@@ -1,1 +1,1 @@
-var mnemonic = "draft tip young depth sand rifle boost public owner help snow brain";
+var mnemonic = "pride robust science only hub famous domain napkin exit allow strategy episode";

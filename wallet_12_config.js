@@ -1,1 +1,1 @@
-var mnemonic = "supply neck disease enforce resemble know remind ski student raccoon margin nerve";
+var mnemonic = "burden faint entry ranch vote bleak sweet leg manual mutual palm live";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon tuna music work illness welcome food prison palace begin total rival";
+var mnemonic = "lawsuit climb water garlic rail midnight piece budget month lobster aspect spoon";

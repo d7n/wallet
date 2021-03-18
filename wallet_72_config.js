@@ -1,1 +1,1 @@
-var mnemonic = "raven work adult cloud step gown resist arctic betray onion future pistol";
+var mnemonic = "bird apart three ankle sheriff injury minute element grit equip guilt have";

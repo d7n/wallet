@@ -1,1 +1,1 @@
-var mnemonic = "grass lock satoshi cherry alone under edge large snack endorse urban magic";
+var mnemonic = "charge honey close camera author please super level quality wave hamster tree";

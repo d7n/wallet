@@ -1,1 +1,1 @@
-var mnemonic = "cruise awesome click still evoke slab ahead ritual you weekend candy wire";
+var mnemonic = "defense produce review eight harsh clever remember rapid slow sphere unfold dinosaur";

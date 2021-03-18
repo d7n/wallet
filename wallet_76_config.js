@@ -1,1 +1,1 @@
-var mnemonic = "addict story crime card push check fringe abuse item become gaze answer";
+var mnemonic = "lawn pitch thank six life day multiply odor tell soup topic proof";

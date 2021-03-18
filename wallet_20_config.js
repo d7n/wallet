@@ -1,1 +1,1 @@
-var mnemonic = "interest output end silly foam wool syrup whale write material whisper champion";
+var mnemonic = "pupil envelope night badge inject slogan hood ball word giggle early crater";

@@ -1,1 +1,1 @@
-var mnemonic = "alter race segment cart scissors firm hurry vessel foster pass chat pond";
+var mnemonic = "chest earn organ mesh naive flavor struggle fiction speak clerk rocket combine";

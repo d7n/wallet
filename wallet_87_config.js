@@ -1,1 +1,1 @@
-var mnemonic = "involve detail trim edge observe gauge sudden captain enforce short visit dumb";
+var mnemonic = "amazing million nephew avoid surprise budget purse slot lunar spatial spider cat";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy cover drastic twelve author fame iron vital cupboard animal prevent park";
+var mnemonic = "critic decade equal patient laundry system verb ozone fetch enhance season tape";

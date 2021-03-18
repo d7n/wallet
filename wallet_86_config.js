@@ -1,1 +1,1 @@
-var mnemonic = "latin magic jealous pumpkin sunset bounce zero popular tornado slide okay able";
+var mnemonic = "quiz bench buzz ozone shed foot analyst pipe useful dash twist load";

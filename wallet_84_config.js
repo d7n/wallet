@@ -1,1 +1,1 @@
-var mnemonic = "link frog cricket smart link month ceiling fish typical utility ranch orchard";
+var mnemonic = "garage famous desk bomb wheel grass destroy toss boring thing admit scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "future owner stuff idea nerve smooth common metal exist rocket account level";
+var mnemonic = "chaos anxiety setup catch hello divide bright circle coast stable sock special";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward talk debate exclude enroll output napkin marble rotate stage weasel account";
+var mnemonic = "fame vehicle bike clown hand into flight august chuckle weekend ankle mesh";

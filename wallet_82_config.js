@@ -1,1 +1,1 @@
-var mnemonic = "couple glue voice vendor below caught come alarm poet jacket donor drink";
+var mnemonic = "talk topple eager this wing analyst mimic strategy speed gain similar axis";

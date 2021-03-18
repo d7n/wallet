@@ -1,1 +1,1 @@
-var mnemonic = "rose wash improve patrol fresh glue blade cannon news public expire creek";
+var mnemonic = "top fault panic true below people surface ramp cigar tumble ball quote";

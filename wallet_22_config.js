@@ -1,1 +1,1 @@
-var mnemonic = "cable trade inside crunch soldier opinion pride news senior laptop tiger oxygen";
+var mnemonic = "hint nut mountain pig comfort say accuse evidence whip dignity tobacco front";

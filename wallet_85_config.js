@@ -1,1 +1,1 @@
-var mnemonic = "spoil crop crime grid want ripple auto idle poverty double suit intact";
+var mnemonic = "cover day inch jazz crouch motion gun hill index credit sniff polar";

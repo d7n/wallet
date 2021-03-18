@@ -1,1 +1,1 @@
-var mnemonic = "fatal load ramp firm ordinary muffin spoon depth burger hawk civil waste";
+var mnemonic = "lift steak unfair valley bid icon neutral ring dust skate force away";

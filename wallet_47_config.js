@@ -1,1 +1,1 @@
-var mnemonic = "vault flash today depth throw ridge venue over lucky assist pilot ski";
+var mnemonic = "hurdle robust denial gather crack rhythm chair culture swing tackle trash pulp";

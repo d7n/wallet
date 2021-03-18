@@ -1,1 +1,1 @@
-var mnemonic = "fiber motion ginger file woman diamond bullet spoon view they spatial coil";
+var mnemonic = "list hunt valve apple someone nerve afraid dish fabric risk reflect blouse";

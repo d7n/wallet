@@ -1,1 +1,1 @@
-var mnemonic = "always elegant fit fame nature hard vacant laundry song peace token kitten";
+var mnemonic = "path drift cotton impose ugly bracket divert drink wild will plastic offer";

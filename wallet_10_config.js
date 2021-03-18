@@ -1,1 +1,1 @@
-var mnemonic = "vacant tonight twin convince certain faculty author humor try kick original seven";
+var mnemonic = "glove small uphold stem afford tower tenant comic ritual kidney pigeon betray";

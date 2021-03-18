@@ -1,1 +1,1 @@
-var mnemonic = "network zoo spare replace tone nothing grunt choice cluster useless helmet cigar";
+var mnemonic = "marble swift unveil member ice left extra use better glare act erosion";

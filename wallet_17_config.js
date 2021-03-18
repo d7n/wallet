@@ -1,1 +1,1 @@
-var mnemonic = "write crush where glue party gravity style sheriff argue sure security salon";
+var mnemonic = "exact soccer evolve attitude glimpse suffer penalty camera base toy nature jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "silver sock head false round mesh crawl high recall foster just grape";
+var mnemonic = "above seat magic donor produce retire amazing math broccoli hood festival define";
