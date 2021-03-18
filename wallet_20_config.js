@@ -1,1 +1,1 @@
-var mnemonic = "ripple chat valid gold umbrella erode donor escape bracket fun mystery little";
+var mnemonic = "peasant slush flock hobby joke afraid unique response cream key indicate regret";

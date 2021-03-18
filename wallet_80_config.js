@@ -1,1 +1,1 @@
-var mnemonic = "river clog between judge process mansion patient enemy border cycle clump sort";
+var mnemonic = "item grief gorilla faith height fork never loyal autumn dolphin aware van";

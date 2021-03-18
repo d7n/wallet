@@ -1,1 +1,1 @@
-var mnemonic = "season jazz annual talent claim fix disease comfort exercise merit ball inspire";
+var mnemonic = "inform chef broken saddle tone airport cigar traffic galaxy supply jealous simple";

@@ -1,1 +1,1 @@
-var mnemonic = "steel weather dry endless act check connect shift seven skill latin connect";
+var mnemonic = "minimum rich trend consider garment long tent oven add immense lunar reflect";

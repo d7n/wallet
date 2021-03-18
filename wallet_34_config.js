@@ -1,1 +1,1 @@
-var mnemonic = "ancient salute dance swamp client jelly bench silk proof olive myself coast";
+var mnemonic = "access chunk repair acid member poverty jump still close tunnel crane bulb";

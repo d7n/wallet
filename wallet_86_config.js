@@ -1,1 +1,1 @@
-var mnemonic = "ski bulb medal dry argue paddle fan leopard solid garden brother alcohol";
+var mnemonic = "tilt develop crazy manual excuse muffin hidden steel rabbit baby maze vote";

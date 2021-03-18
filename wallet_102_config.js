@@ -1,1 +1,1 @@
-var mnemonic = "spirit logic poem profit load awesome you radar engine coast dream together";
+var mnemonic = "jelly liberty harsh syrup scissors excess time cabbage pistol ranch drill movie";

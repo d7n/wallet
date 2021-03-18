@@ -1,1 +1,1 @@
-var mnemonic = "miracle daughter bounce tomorrow stool hollow drop used garage indoor portion decade";
+var mnemonic = "amateur flower page delay account wine census hamster cable foam cruise fantasy";

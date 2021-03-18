@@ -1,1 +1,1 @@
-var mnemonic = "salute stereo try brother lounge pretty bachelor steak hotel wet hungry banner";
+var mnemonic = "label entry smooth hockey horror pool movie bubble close actor kick mass";

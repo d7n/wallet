@@ -1,1 +1,1 @@
-var mnemonic = "illegal top fault physical sustain toe year sort volcano enter fever fun";
+var mnemonic = "mad creek clay stay receive ginger demand elevator off evolve fit minute";

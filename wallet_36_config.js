@@ -1,1 +1,1 @@
-var mnemonic = "pigeon rose avocado two mammal clutch record tumble secret chimney nothing depart";
+var mnemonic = "venture proof palm license garlic key level strategy zero width welcome someone";

@@ -1,1 +1,1 @@
-var mnemonic = "best present desk quiz dog pizza easy swing clerk impose play hood";
+var mnemonic = "razor apart connect undo exhaust chief fresh around sword custom daring meadow";

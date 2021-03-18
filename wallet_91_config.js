@@ -1,1 +1,1 @@
-var mnemonic = "indoor street flat biology cycle abuse curve season door buzz history drop";
+var mnemonic = "six quit trigger melt step desk invest echo gesture cupboard mule traffic";

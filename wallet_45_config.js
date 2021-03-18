@@ -1,1 +1,1 @@
-var mnemonic = "desert write meadow neither envelope problem luggage valve choose more trap page";
+var mnemonic = "coffee this force stick flush swap thought warm nothing cave know clap";

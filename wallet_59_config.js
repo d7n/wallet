@@ -1,1 +1,1 @@
-var mnemonic = "lady mobile entire dove there usage ten note dry walk retire marine";
+var mnemonic = "express fun nasty order blame develop excite trial gloom able what rotate";

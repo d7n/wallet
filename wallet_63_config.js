@@ -1,1 +1,1 @@
-var mnemonic = "salt brother tortoise lonely must inherit prison option royal parent coyote denial";
+var mnemonic = "seminar bus keep tongue tank faculty either unique orchard auction right mystery";

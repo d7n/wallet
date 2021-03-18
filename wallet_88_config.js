@@ -1,1 +1,1 @@
-var mnemonic = "network now acoustic affair mechanic runway suit develop autumn rose burden gown";
+var mnemonic = "immense bread amazing lawsuit crucial alien certain artefact tobacco fine now agree";

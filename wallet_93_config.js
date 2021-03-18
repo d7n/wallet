@@ -1,1 +1,1 @@
-var mnemonic = "spy meadow pink liberty recycle curve nose strategy shrimp now excuse asthma";
+var mnemonic = "keen ivory gym era host tornado brain boat cheese march catalog poem";

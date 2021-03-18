@@ -1,1 +1,1 @@
-var mnemonic = "sign fan word flag lucky shove around crouch great vessel elder risk";
+var mnemonic = "rely merit mesh call knee wood casual spell idea grab simple resource";

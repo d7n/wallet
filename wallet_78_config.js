@@ -1,1 +1,1 @@
-var mnemonic = "penalty clutch mail head blanket bike dilemma suspect flee give online live";
+var mnemonic = "buffalo peace mad virus august planet bitter identify flight poverty leg acquire";

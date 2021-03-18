@@ -1,1 +1,1 @@
-var mnemonic = "jacket cross knee gold across obvious nasty among lumber fall cannon estate";
+var mnemonic = "isolate any misery rich orient green female skate pair van neck ticket";

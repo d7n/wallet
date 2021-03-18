@@ -1,1 +1,1 @@
-var mnemonic = "female enemy tip involve laugh farm seminar dice obvious glue perfect attitude";
+var mnemonic = "bubble fan token velvet exit color title subway morning anxiety then state";

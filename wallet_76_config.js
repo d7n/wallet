@@ -1,1 +1,1 @@
-var mnemonic = "lesson derive plate flip excite taxi warrior plunge sugar arena beef circle";
+var mnemonic = "verb bacon snack primary strong first system puzzle page still seven cushion";

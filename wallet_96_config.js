@@ -1,1 +1,1 @@
-var mnemonic = "frost trade orbit young apart drink soup orient chimney animal expire angry";
+var mnemonic = "calm wet rack zoo region luggage visa armed exit glue cup episode";

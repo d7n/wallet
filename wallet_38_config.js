@@ -1,1 +1,1 @@
-var mnemonic = "unfold file arrange draw acquire acquire peanut initial remember you joy soap";
+var mnemonic = "fortune issue lab tool update sail snake strategy easy put match ticket";

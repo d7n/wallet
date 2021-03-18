@@ -1,1 +1,1 @@
-var mnemonic = "insect humble such faith tenant length offer click cage fitness laptop regret";
+var mnemonic = "prize return depth chimney crouch average emerge light cake isolate finish spoon";

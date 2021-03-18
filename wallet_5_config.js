@@ -1,1 +1,1 @@
-var mnemonic = "screen manual garbage nephew onion record wrestle hat silly squeeze shell power";
+var mnemonic = "brave promote resemble rocket bone alone kind sleep winner deputy puzzle brave";

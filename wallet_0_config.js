@@ -1,1 +1,1 @@
-var mnemonic = "shoe seat blush bless news fall section snake mansion utility reopen cruel";
+var mnemonic = "cannon admit census crunch output holiday cabin hope aim slush tank casual";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli trumpet crunch future immense stock narrow earth forest list define smile";
+var mnemonic = "coil wonder large iron stool gas panel volume dirt purse dolphin effort";

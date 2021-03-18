@@ -1,1 +1,1 @@
-var mnemonic = "vanish airport gown school soldier toss cinnamon refuse test project letter junior";
+var mnemonic = "shift cruel secret there asthma also fan victory antenna lift square sustain";

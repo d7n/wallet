@@ -1,1 +1,1 @@
-var mnemonic = "shed intact juice profit glare ill basic plug warm impulse cargo misery";
+var mnemonic = "awkward online imitate veteran usage slice motion fun weasel muscle neck execute";

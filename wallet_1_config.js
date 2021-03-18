@@ -1,1 +1,1 @@
-var mnemonic = "toast globe use stumble eagle enroll yellow frown spare school lizard catalog";
+var mnemonic = "outdoor nest planet dial buffalo decorate wink faith bubble wish swap ribbon";

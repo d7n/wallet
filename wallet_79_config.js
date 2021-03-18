@@ -1,1 +1,1 @@
-var mnemonic = "used theory peace asthma input strategy twenty yard future armed couch length";
+var mnemonic = "wife pond carry crawl police cluster smart sock goat strong easily carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "wash dizzy else term rich shove outside duck tip sell cotton edit";
+var mnemonic = "frost entry wait stay kiwi ability grow trick student source stamp easily";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile anxiety imitate confirm shoulder sauce indoor cabbage cousin opera below only";
+var mnemonic = "ahead hour caution call repair shine duck day desk mind mammal taste";

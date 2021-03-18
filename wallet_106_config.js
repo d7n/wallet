@@ -1,1 +1,1 @@
-var mnemonic = "vocal scene purchase become elegant section position few pet blame faith cherry";
+var mnemonic = "garlic loan disagree result guess garden swim burden abuse stable fish scrap";

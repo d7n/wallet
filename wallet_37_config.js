@@ -1,1 +1,1 @@
-var mnemonic = "army rubber defense coconut annual equip will evoke odor shove normal outer";
+var mnemonic = "crucial near panther useful forward high mad nest solve exit escape salmon";

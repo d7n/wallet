@@ -1,1 +1,1 @@
-var mnemonic = "high clarify spirit biology van hole salute flat mercy ready smile point";
+var mnemonic = "indicate boring install clog easy speed key script domain skate pen unhappy";

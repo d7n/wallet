@@ -1,1 +1,1 @@
-var mnemonic = "jeans six sample peanut course hello duck close raccoon produce royal plate";
+var mnemonic = "once symbol ridge inhale equal spoil program shift shine pony process vendor";

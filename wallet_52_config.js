@@ -1,1 +1,1 @@
-var mnemonic = "subway easily reform safe vocal other sunny thought rookie lady pumpkin grow";
+var mnemonic = "junior slim below window ill phrase foil wheel turn mechanic three pink";

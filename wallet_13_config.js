@@ -1,1 +1,1 @@
-var mnemonic = "cave spray endless forget you science girl misery biology bargain donate meadow";
+var mnemonic = "exact supreme captain sail poet alpha wool magnet auction horse mutual source";

@@ -1,1 +1,1 @@
-var mnemonic = "dance stand burst ghost direct secret away maze glass sure sudden champion";
+var mnemonic = "hobby answer iron bread lawsuit woman ensure outer milk neutral bounce insect";

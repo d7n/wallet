@@ -1,1 +1,1 @@
-var mnemonic = "uncover elegant olive cute cycle fashion final popular before virus below wage";
+var mnemonic = "illegal again move trash neck foam leopard place scout same gadget genius";

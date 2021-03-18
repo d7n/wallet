@@ -1,1 +1,1 @@
-var mnemonic = "regret before forest coil flash shop swim tongue harbor decrease virus orient";
+var mnemonic = "label jungle shy weapon upset loop add riot leisure burst since good";

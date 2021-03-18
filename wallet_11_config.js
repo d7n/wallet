@@ -1,1 +1,1 @@
-var mnemonic = "parrot amateur inspire copy item odor end stumble mango duty lesson fury";
+var mnemonic = "army cotton asthma license like cargo evil start clay join kick lunar";

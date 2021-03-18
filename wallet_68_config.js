@@ -1,1 +1,1 @@
-var mnemonic = "female auction speed cram hungry rubber below palace frame enrich news shoot";
+var mnemonic = "school type quit type inhale zone govern good garage improve syrup material";

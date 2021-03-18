@@ -1,1 +1,1 @@
-var mnemonic = "black input depth weekend extra veteran hour exhaust aerobic ring early drive";
+var mnemonic = "medal anger time convince valve flavor doctor indicate midnight buddy local inmate";

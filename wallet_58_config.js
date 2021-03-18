@@ -1,1 +1,1 @@
-var mnemonic = "team like element rule august south obvious medal guitar depth citizen fee";
+var mnemonic = "column tomorrow print shallow mesh hawk sing exhibit trophy return embrace floor";

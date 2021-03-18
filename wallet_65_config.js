@@ -1,1 +1,1 @@
-var mnemonic = "voyage afford cool nuclear soda snow weekend cook asset oxygen security output";
+var mnemonic = "sport exhibit ghost prevent bus view reject someone hamster used maple assume";

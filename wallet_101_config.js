@@ -1,1 +1,1 @@
-var mnemonic = "eight icon apart guess echo token any advice black stomach ripple join";
+var mnemonic = "bamboo truck target pact liar forward praise ozone route point plate empty";

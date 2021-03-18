@@ -1,1 +1,1 @@
-var mnemonic = "verb any hat blossom follow message green dust inmate topple adult cupboard";
+var mnemonic = "lonely fossil powder athlete purchase praise ankle language dust desk owner vehicle";

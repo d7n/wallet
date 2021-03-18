@@ -1,1 +1,1 @@
-var mnemonic = "flat ignore spider silver swallow huge century close tenant train seminar sentence";
+var mnemonic = "box curious blame include behave clarify special laugh hamster safe scheme ceiling";

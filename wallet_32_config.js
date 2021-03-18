@@ -1,1 +1,1 @@
-var mnemonic = "weasel dose fix section exhaust reason glide purity abstract apple depart parade";
+var mnemonic = "badge gain alert garment gap deposit nurse trick area vivid biology hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit observe attend siege above apple excess invest convince fabric devote hip";
+var mnemonic = "arm latin panther tuna work eager embark window jump brush gift thumb";

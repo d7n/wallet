@@ -1,1 +1,1 @@
-var mnemonic = "prison sound below kidney pluck index labor tip essay duty combine snow";
+var mnemonic = "subway square change blame interest rate plug hurt diagram dog arch client";

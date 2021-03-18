@@ -1,1 +1,1 @@
-var mnemonic = "bubble leg quarter prison final trophy search slice robot wish calm gloom";
+var mnemonic = "apple tone plug pool virus accident lazy cat field stand cup puzzle";

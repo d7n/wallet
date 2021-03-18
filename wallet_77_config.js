@@ -1,1 +1,1 @@
-var mnemonic = "veteran upset festival scheme increase field guide lawn trouble warfare october involve";
+var mnemonic = "cabin mirror push fetch quality price save admit chest grief clock exact";

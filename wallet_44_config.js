@@ -1,1 +1,1 @@
-var mnemonic = "quantum sight place chief guess drop peasant lend stock twelve board crunch";
+var mnemonic = "actor exact burst spread recycle border other rebuild soda frequent daughter between";

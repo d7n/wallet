@@ -1,1 +1,1 @@
-var mnemonic = "casino track burst border immune ignore love magic maze project that afford";
+var mnemonic = "pen ostrich critic toward logic venture outer traffic marriage dance radar reason";

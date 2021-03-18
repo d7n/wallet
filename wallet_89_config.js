@@ -1,1 +1,1 @@
-var mnemonic = "pizza domain together nose expect guide argue jeans pet resist sail lemon";
+var mnemonic = "review quality unusual south endorse advance charge panda discover differ hard prison";

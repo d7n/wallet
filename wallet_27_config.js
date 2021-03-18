@@ -1,1 +1,1 @@
-var mnemonic = "medal marine two ordinary mushroom catch vocal volcano coral pupil gather mechanic";
+var mnemonic = "buddy easy snack exclude sketch congress outside upgrade aisle margin gorilla scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare volume diesel language speak fruit grant else knock grass biology hungry";
+var mnemonic = "lemon crew alert online sail census resemble forest drive copy canvas fall";

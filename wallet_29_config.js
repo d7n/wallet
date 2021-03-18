@@ -1,1 +1,1 @@
-var mnemonic = "street inspire spend wish pact one miss august birth answer intact useless";
+var mnemonic = "member uphold energy couch topple wall access snake famous layer fault power";

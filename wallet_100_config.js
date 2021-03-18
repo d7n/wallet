@@ -1,1 +1,1 @@
-var mnemonic = "palace rural dilemma disease retire curious tip open tunnel service margin upset";
+var mnemonic = "scrub trip burger actual brand axis company yard mail humble buzz fire";

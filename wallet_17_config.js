@@ -1,1 +1,1 @@
-var mnemonic = "solar screen cash autumn quit curious bid artefact ribbon maple junior viable";
+var mnemonic = "media suffer antique laundry track merge area main wealth hole museum east";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree quit security genius disease lecture dial casino stock swallow praise assault";
+var mnemonic = "dash mystery pattern soccer define cabin they broccoli analyst someone coast grocery";

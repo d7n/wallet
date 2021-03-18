@@ -1,1 +1,1 @@
-var mnemonic = "blush uncover faint unusual yard lemon achieve garlic crime scissors grunt nose";
+var mnemonic = "secret result kick drama harbor high fence require balcony vibrant milk aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "build urban napkin once trial sport salmon photo exit stage improve mind";
+var mnemonic = "venture random icon soda afraid catalog rely setup virus inform point course";

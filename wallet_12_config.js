@@ -1,1 +1,1 @@
-var mnemonic = "someone wool blanket pond animal click critic glance round rocket decide cloth";
+var mnemonic = "wheat clarify problem gaze error retreat leopard craft local upper grant step";

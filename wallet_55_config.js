@@ -1,1 +1,1 @@
-var mnemonic = "differ library pool river unable device pioneer tilt coil provide point state";
+var mnemonic = "ghost kick news grit wealth other fly deliver polar lounge dream what";

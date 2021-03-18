@@ -1,1 +1,1 @@
-var mnemonic = "will hazard flee toast box initial poem tomato lemon decorate anxiety access";
+var mnemonic = "shift retire wonder such owner away muscle evolve city daughter salt pet";

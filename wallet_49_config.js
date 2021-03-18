@@ -1,1 +1,1 @@
-var mnemonic = "nominee frozen often provide expect arch worry kick cute float way silk";
+var mnemonic = "junk sure bottom mansion spy pass stairs village sport like mail sorry";

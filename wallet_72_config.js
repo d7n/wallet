@@ -1,1 +1,1 @@
-var mnemonic = "feed spring have meat clap guilt fame wild bench law profit gown";
+var mnemonic = "wolf pilot gasp glory walk outdoor desk amazing size music festival easily";

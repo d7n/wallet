@@ -1,1 +1,1 @@
-var mnemonic = "soap under base waste spin bonus letter shed concert miss wedding spot";
+var mnemonic = "despair evil solution produce decade dance frog tape maze veteran elite energy";

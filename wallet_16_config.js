@@ -1,1 +1,1 @@
-var mnemonic = "syrup method found tent squirrel syrup liar turtle morning photo immune trade";
+var mnemonic = "solid dune strike impulse genuine whisper whip monkey federal salt view truth";

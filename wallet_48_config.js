@@ -1,1 +1,1 @@
-var mnemonic = "position health impose dune make idle excite cluster news main artwork cost";
+var mnemonic = "mandate struggle leopard chapter key stove enlist manage cushion orbit lunch name";

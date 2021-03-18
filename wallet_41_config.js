@@ -1,1 +1,1 @@
-var mnemonic = "salt april topic celery act little tissue curve firm brush draw gaze";
+var mnemonic = "vacant motion galaxy absent thank unfold web gospel require search layer kit";

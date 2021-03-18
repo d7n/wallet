@@ -1,1 +1,1 @@
-var mnemonic = "amused celery elite sand barely sibling chalk arrow reopen body rally envelope";
+var mnemonic = "sadness exact desk pool left project disagree spot apology title topic royal";

@@ -1,1 +1,1 @@
-var mnemonic = "edit load daring salad exotic flock fancy person dutch region magnet million";
+var mnemonic = "siege kick viable clump script arena expand combine present chat author raise";

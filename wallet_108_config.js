@@ -1,1 +1,1 @@
-var mnemonic = "water history beauty air talk guide inherit wood dwarf coral whip adapt";
+var mnemonic = "bar betray blame sausage sniff small exhaust winter image choose fix palm";

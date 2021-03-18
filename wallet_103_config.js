@@ -1,1 +1,1 @@
-var mnemonic = "proud door stem tortoise coach green hawk emotion social torch panel whale";
+var mnemonic = "chaos harvest insect review potato fatigue cereal viable annual crystal shiver velvet";

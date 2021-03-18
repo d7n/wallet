@@ -1,1 +1,1 @@
-var mnemonic = "duty chalk own jaguar velvet history card unit air divert life empower";
+var mnemonic = "abstract annual pen hobby gun quality accident banner alley just raccoon veteran";

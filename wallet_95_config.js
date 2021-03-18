@@ -1,1 +1,1 @@
-var mnemonic = "behave neck cable hold human impact apart boat awkward cattle range lunch";
+var mnemonic = "taxi output top amount civil party tent fatal limit safe pig health";

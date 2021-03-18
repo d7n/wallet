@@ -1,1 +1,1 @@
-var mnemonic = "cover drop tiny sight fall cousin spare birth cause visit below fringe";
+var mnemonic = "eight hip culture remember oven curve eyebrow innocent sell essay lazy process";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito organ stumble assault machine throw because twelve limit clump dove vote";
+var mnemonic = "reunion swap open agree acquire fatal trust album scout jeans artist hammer";

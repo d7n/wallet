@@ -1,1 +1,1 @@
-var mnemonic = "festival sponsor vanish race ancient battle gym sun scissors brother family virus";
+var mnemonic = "genuine discover miss art sphere rice toddler wise arrest explain bright curve";

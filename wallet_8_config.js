@@ -1,1 +1,1 @@
-var mnemonic = "follow bunker collect broccoli retreat paper park roof tumble hand message oval";
+var mnemonic = "frog install situate media escape cat acid banana wet mobile artefact truth";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze describe million sorry police true exercise pottery track infant drop crazy";
+var mnemonic = "polar subway certain kitchen filter affair quarter crew task strong broom figure";

@@ -1,1 +1,1 @@
-var mnemonic = "outer castle eyebrow robust ship tone broccoli sport broccoli avocado scrap main";
+var mnemonic = "hint toy ritual sense shiver sort animal inquiry march fog climb okay";

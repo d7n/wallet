@@ -1,1 +1,1 @@
-var mnemonic = "father safe focus inmate rice elevator lab scare bench peanut soup venue";
+var mnemonic = "twenty pet scrap special exist bar rule public sort seminar dream caught";

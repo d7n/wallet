@@ -1,1 +1,1 @@
-var mnemonic = "meadow spice gauge load intact ethics wish lock invite outdoor vehicle party";
+var mnemonic = "ginger spare flee agree spread soft phrase ability lunar liquid salmon inform";

@@ -1,1 +1,1 @@
-var mnemonic = "category lawsuit nation tank furnace business net clean bridge banner bar ceiling";
+var mnemonic = "dash learn dose pull above express peanut purse since issue actress slender";

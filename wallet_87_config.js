@@ -1,1 +1,1 @@
-var mnemonic = "quality foil donkey palace empower film actress regret enlist pipe table praise";
+var mnemonic = "accident lift riot exercise soul town special festival ocean wise labor few";
