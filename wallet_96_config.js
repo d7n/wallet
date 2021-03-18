@@ -1,1 +1,1 @@
-var mnemonic = "dial play amazing swallow bone dish inside system monkey gospel prosper scrap";
+var mnemonic = "warrior imitate cancel monster group drift october dog junior moon siren retreat";

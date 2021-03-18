@@ -1,1 +1,1 @@
-var mnemonic = "solar element property buddy deliver mosquito clock lottery grunt act walnut risk";
+var mnemonic = "ability jaguar height ignore seed refuse man album sense master fuel board";

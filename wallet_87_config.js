@@ -1,1 +1,1 @@
-var mnemonic = "diamond bargain oval actual pill phrase grid shield sorry climb buffalo salon";
+var mnemonic = "shadow century fog stomach trumpet interest sail input hungry crash repeat weather";

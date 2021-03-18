@@ -1,1 +1,1 @@
-var mnemonic = "promote produce uphold burst common aware quarter prefer hill grunt exit scissors";
+var mnemonic = "require six demise modify strike crash yard flock knee virtual rifle catch";

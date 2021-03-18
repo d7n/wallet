@@ -1,1 +1,1 @@
-var mnemonic = "famous noise food universe cherry monster lawn relief fault antenna year kitchen";
+var mnemonic = "atom cave quote bright person lumber act rally claw mystery ocean exile";

@@ -1,1 +1,1 @@
-var mnemonic = "brick famous sorry media crunch honey lion stereo glide camp rule select";
+var mnemonic = "heavy mesh avoid repeat bright local satoshi true fatigue weather wash rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage card banana glide meat forget elevator fashion version control bid spot";
+var mnemonic = "legal tank verb garlic virus fold above reduce useless myth blossom pair";

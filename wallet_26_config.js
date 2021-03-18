@@ -1,1 +1,1 @@
-var mnemonic = "basic knock void country poet face answer crew inquiry winner oval fantasy";
+var mnemonic = "dolphin point venture debate library limb grid thunder path path bridge drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge filter stone monkey runway time push danger dizzy oven crumble three";
+var mnemonic = "strong enter race divorce wolf weird ability state world furnace pudding fiscal";

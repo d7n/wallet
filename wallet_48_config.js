@@ -1,1 +1,1 @@
-var mnemonic = "business memory rubber myself couch shell lumber rabbit cute beef will endorse";
+var mnemonic = "fever month bright loan danger loud oppose release grab fever ladder barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "slam upgrade acoustic use nest obtain cool erupt lawsuit enemy tone moral";
+var mnemonic = "hamster dwarf figure stage follow velvet term salt ugly abuse kite dove";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy pledge mechanic poet setup latin spot caution case timber miss slim";
+var mnemonic = "just indoor valve refuse denial kingdom quality awesome mountain rural renew stumble";

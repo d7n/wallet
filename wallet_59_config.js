@@ -1,1 +1,1 @@
-var mnemonic = "dentist since jungle august aunt giraffe sample tilt proud cinnamon purse gaze";
+var mnemonic = "column myself arrive noise like lucky page into race pitch unusual letter";

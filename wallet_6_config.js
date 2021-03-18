@@ -1,1 +1,1 @@
-var mnemonic = "equip song adult myth shield alter input best maze ghost curtain movie";
+var mnemonic = "risk witness inject sheriff expand proud vast baby begin icon board seven";

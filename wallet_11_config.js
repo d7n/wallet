@@ -1,1 +1,1 @@
-var mnemonic = "stuff transfer rose notable damage detail setup please wrist crane suggest palace";
+var mnemonic = "stove width round flat episode peasant month decide enter antenna believe goat";

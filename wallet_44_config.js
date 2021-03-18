@@ -1,1 +1,1 @@
-var mnemonic = "require argue ski rabbit exact doctor candy smooth tomato elite sleep arch";
+var mnemonic = "post thing prevent crisp reflect congress artefact choose bright cannon cake army";

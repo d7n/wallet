@@ -1,1 +1,1 @@
-var mnemonic = "coach public submit hawk normal denial strong fruit slight accuse visa fuel";
+var mnemonic = "author hand fade gesture winner hand chapter fragile pond ritual zone screen";

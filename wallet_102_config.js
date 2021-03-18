@@ -1,1 +1,1 @@
-var mnemonic = "elbow citizen two flavor kidney fly picture such slender blossom submit tragic";
+var mnemonic = "melody equip still intact phrase cloud junior country gown enroll antenna ranch";

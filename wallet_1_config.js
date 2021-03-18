@@ -1,1 +1,1 @@
-var mnemonic = "glimpse wide recall naive amused evoke absorb basket enroll size stock program";
+var mnemonic = "pear gospel wish vacuum work strategy capable session connect health pair analyst";

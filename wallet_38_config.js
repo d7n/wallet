@@ -1,1 +1,1 @@
-var mnemonic = "first quiz cage slush local lobster peace mouse sight donate upgrade neglect";
+var mnemonic = "cage minute hobby stamp response unique thing cinnamon snap strong spin flight";

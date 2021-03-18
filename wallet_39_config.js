@@ -1,1 +1,1 @@
-var mnemonic = "grace own pause lift lunch hidden boss denial unveil path absorb shed";
+var mnemonic = "east whale cushion angry toward assume kidney spawn attitude loop minor honey";

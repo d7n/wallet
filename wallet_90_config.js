@@ -1,1 +1,1 @@
-var mnemonic = "endorse net vessel term release lawsuit anger direct arch permit define acoustic";
+var mnemonic = "urban add glare baby guard cart tortoise soon enforce purse bone case";

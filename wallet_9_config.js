@@ -1,1 +1,1 @@
-var mnemonic = "vicious cement fiber leopard lemon child symbol guard spin final sight upon";
+var mnemonic = "debate ecology olympic tonight member shallow suspect endorse soon runway help jazz";

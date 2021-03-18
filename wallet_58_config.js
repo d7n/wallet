@@ -1,1 +1,1 @@
-var mnemonic = "park invite fetch nerve input rate lava door install spare shock hurry";
+var mnemonic = "noise swap capable number transfer vehicle snack coast debris click walnut artefact";

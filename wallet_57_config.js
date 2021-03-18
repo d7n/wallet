@@ -1,1 +1,1 @@
-var mnemonic = "slim add eyebrow assume endorse want define evidence license gospel erosion popular";
+var mnemonic = "portion bounce move arm timber model cattle prison tenant final picture body";

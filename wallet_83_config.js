@@ -1,1 +1,1 @@
-var mnemonic = "coach aware tilt injury dry tide fruit system able auto hamster market";
+var mnemonic = "impose rather share blouse index daring citizen run simple catch allow time";

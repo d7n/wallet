@@ -1,1 +1,1 @@
-var mnemonic = "ceiling hockey prefer nephew village web keep sausage orchard video plate frog";
+var mnemonic = "between drink lava armor fabric poem swing hover settle october solve puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise hurt pulp current warrior walk north festival cram put unfold gravity";
+var mnemonic = "board lottery cage change fall hand cost decide beef valve shove wonder";

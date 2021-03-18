@@ -1,1 +1,1 @@
-var mnemonic = "online essence wedding danger rate helmet brown submit chat uphold talent tattoo";
+var mnemonic = "door stand flat birth myself arrow dumb scale clown dash wisdom margin";

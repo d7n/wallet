@@ -1,1 +1,1 @@
-var mnemonic = "hair toward view venue tennis repeat tissue october able yellow idle inject";
+var mnemonic = "blind educate wool dial online same salt victory spatial artist amount inject";

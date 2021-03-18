@@ -1,1 +1,1 @@
-var mnemonic = "draw brush drift penalty wagon team behave age second begin forget immense";
+var mnemonic = "input goddess learn tunnel strong hero exchange moon bean foot couch eight";

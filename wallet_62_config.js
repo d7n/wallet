@@ -1,1 +1,1 @@
-var mnemonic = "before second rubber ketchup zebra eagle dove artist bike digital reveal jealous";
+var mnemonic = "fuel tell horn plastic jelly thunder outer grab hunt forward gospel increase";

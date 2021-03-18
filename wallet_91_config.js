@@ -1,1 +1,1 @@
-var mnemonic = "remain duck return trumpet essence nurse digital sense regular wet pig judge";
+var mnemonic = "hurt found hand divide power evoke lock birth sick giraffe hip spirit";

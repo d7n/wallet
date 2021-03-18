@@ -1,1 +1,1 @@
-var mnemonic = "window whip join tunnel little parent wheat become estate hole coil wash";
+var mnemonic = "merge tongue maple search capable bachelor analyst magnet enhance math capable menu";

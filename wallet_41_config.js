@@ -1,1 +1,1 @@
-var mnemonic = "still erode action magnet sadness birth receive admit cannon write they adapt";
+var mnemonic = "fossil engine keen gauge glove mix craft there blush raccoon blossom filter";

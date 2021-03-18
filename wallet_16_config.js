@@ -1,1 +1,1 @@
-var mnemonic = "usage silver record minute silent cargo slice pulse cruel birth program narrow";
+var mnemonic = "air execute spatial wasp kick check demand ready regular evil dirt believe";

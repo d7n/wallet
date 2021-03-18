@@ -1,1 +1,1 @@
-var mnemonic = "bubble surprise arrow balcony taste order solution grocery indicate tag zebra welcome";
+var mnemonic = "sail material lady success banana name save mosquito safe cabbage gasp income";

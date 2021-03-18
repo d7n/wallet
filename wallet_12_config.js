@@ -1,1 +1,1 @@
-var mnemonic = "duck obscure victory infant just stage lion leaf ugly govern fly volcano";
+var mnemonic = "window wash drift engine good load detect use shell change puzzle census";

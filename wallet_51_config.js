@@ -1,1 +1,1 @@
-var mnemonic = "cherry basket final twice cream slow multiply arena cushion uncover chronic staff";
+var mnemonic = "twenty hen mom coil unable resource sell march trap second purpose apart";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk evidence pink survey fuel person speed fatal reward spy good approve";
+var mnemonic = "art today setup exercise picture result only inflict drum fold leopard service";

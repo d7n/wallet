@@ -1,1 +1,1 @@
-var mnemonic = "village like enrich chicken amazing crater cash remain atom extend evil pilot";
+var mnemonic = "sell focus stage below risk length trial coconut dawn science cloth pig";

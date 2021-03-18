@@ -1,1 +1,1 @@
-var mnemonic = "grape casual train brief exotic loyal pumpkin short benefit purpose seven athlete";
+var mnemonic = "fatal question inflict park vanish scatter naive raccoon miracle tray select only";

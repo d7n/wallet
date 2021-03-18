@@ -1,1 +1,1 @@
-var mnemonic = "river dice garage fruit bulk perfect legal lake impact mom garbage price";
+var mnemonic = "gauge appear off general mom slice regret order certain initial noise short";

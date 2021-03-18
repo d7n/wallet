@@ -1,1 +1,1 @@
-var mnemonic = "detail enact shine genuine popular already property sphere mixed lift luxury connect";
+var mnemonic = "fiber execute glove glare cheese predict insane inform nasty snack dolphin escape";

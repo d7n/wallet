@@ -1,1 +1,1 @@
-var mnemonic = "olive scorpion seven sadness arrive earn vicious glide pony you visual else";
+var mnemonic = "buffalo clap hunt scout vanish retire budget guilt vibrant march helmet vote";

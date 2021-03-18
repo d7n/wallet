@@ -1,1 +1,1 @@
-var mnemonic = "spin solve waste lizard truth leader slot chronic laptop unable apart negative";
+var mnemonic = "enlist pumpkin famous elevator science hunt film door afraid vital notice assume";

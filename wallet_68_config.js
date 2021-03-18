@@ -1,1 +1,1 @@
-var mnemonic = "blue possible medal human sight direct circle clown payment control ripple course";
+var mnemonic = "dragon fancy funny glove extra cause can elder scale embark range route";

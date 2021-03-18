@@ -1,1 +1,1 @@
-var mnemonic = "legal flower desk tuna property blue virtual airport weasel holiday acquire wild";
+var mnemonic = "decorate attitude web goose twin shrug rapid connect recycle adjust job bitter";

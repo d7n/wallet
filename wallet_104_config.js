@@ -1,1 +1,1 @@
-var mnemonic = "glass student boring title three pass genius teach lake grape injury tuition";
+var mnemonic = "slot island solid call flash ivory comic nest boil broom chair elevator";

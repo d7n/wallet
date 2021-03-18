@@ -1,1 +1,1 @@
-var mnemonic = "local minute label great banner craft great together dynamic invest husband awake";
+var mnemonic = "face bench twelve seat process awake video economy knee ugly number yellow";

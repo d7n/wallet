@@ -1,1 +1,1 @@
-var mnemonic = "friend excess round boil scrap seed grain brand betray view veteran govern";
+var mnemonic = "eternal beyond license escape truly festival jeans afraid dad hill salt puppy";

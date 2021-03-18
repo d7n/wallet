@@ -1,1 +1,1 @@
-var mnemonic = "valve theme wink disorder cinnamon cabbage they torch maze cushion ladder hurry";
+var mnemonic = "rural harsh shed country wrong bronze bless sister sleep crane author drama";

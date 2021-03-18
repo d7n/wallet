@@ -1,1 +1,1 @@
-var mnemonic = "battle raccoon smile vivid rebuild lock first pepper equip solution enforce tone";
+var mnemonic = "ghost maze toy term perfect mind year vacant cover paddle drum bonus";

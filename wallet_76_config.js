@@ -1,1 +1,1 @@
-var mnemonic = "creek razor mistake must shuffle file page elder olympic joke fever water";
+var mnemonic = "expire enough ridge joke chimney acid glad girl exist remind network destroy";

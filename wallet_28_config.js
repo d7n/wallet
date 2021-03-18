@@ -1,1 +1,1 @@
-var mnemonic = "trick regular tip try hover rule wise source wheel orient strong adult";
+var mnemonic = "edge lizard cradle palm resist harsh flavor ship pink truck voyage still";

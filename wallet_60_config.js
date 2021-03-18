@@ -1,1 +1,1 @@
-var mnemonic = "range provide error nation cereal vicious rough know corn love clarify present";
+var mnemonic = "sense resemble town grocery asset hurt gorilla unusual snack fold anger buzz";

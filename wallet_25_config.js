@@ -1,1 +1,1 @@
-var mnemonic = "risk anxiety radio vital shell faint raise zoo dune title lazy dynamic";
+var mnemonic = "kiss wish fit material sense curve topic else barrel empower cream nose";

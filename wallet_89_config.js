@@ -1,1 +1,1 @@
-var mnemonic = "muscle jelly fall humble term can exchange rescue tone tone source current";
+var mnemonic = "universe symptom glimpse mixed proof brown major document hope short edge enter";

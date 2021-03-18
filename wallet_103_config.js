@@ -1,1 +1,1 @@
-var mnemonic = "thrive fantasy urge decide modify toss jungle warrior sorry catalog reform rude";
+var mnemonic = "october attack regular cute roast frozen nose advance bonus receive museum hill";

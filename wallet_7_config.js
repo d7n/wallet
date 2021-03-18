@@ -1,1 +1,1 @@
-var mnemonic = "spread cradle cereal thank harbor build recycle chase bless catalog fashion idea";
+var mnemonic = "private grass alone boil oak chaos kiwi cloth bracket elevator often spider";

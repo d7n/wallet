@@ -1,1 +1,1 @@
-var mnemonic = "patrol merit lyrics boil avocado wedding fiction squeeze tide report pledge few";
+var mnemonic = "mosquito dolphin forum town sweet tilt hidden novel zoo palace clay trash";

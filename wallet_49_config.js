@@ -1,1 +1,1 @@
-var mnemonic = "story distance luggage uniform warfare private short key twice obvious truck unveil";
+var mnemonic = "answer lazy legal exotic ostrich olympic add aisle maple hole heart grow";

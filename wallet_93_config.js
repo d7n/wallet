@@ -1,1 +1,1 @@
-var mnemonic = "trick tape monkey airport imitate evil engage save response rare water radar";
+var mnemonic = "canyon decade idle parent intact clock rifle control mosquito fiber brass response";

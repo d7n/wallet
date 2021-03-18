@@ -1,1 +1,1 @@
-var mnemonic = "praise neglect moral prosper diamond entire return reject middle breeze critic medal";
+var mnemonic = "viable sniff crush wide advance action athlete guess cool enough limb win";

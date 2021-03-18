@@ -1,1 +1,1 @@
-var mnemonic = "use quote taxi plunge machine drink float buffalo twice crater drift ribbon";
+var mnemonic = "wife amazing arrive salmon message document jazz wife essay until rare index";

@@ -1,1 +1,1 @@
-var mnemonic = "barely grab defense scorpion seminar youth never swallow favorite fox version neither";
+var mnemonic = "spike debate reveal smooth knock collect gather diet surface equal heavy history";

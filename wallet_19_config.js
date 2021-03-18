@@ -1,1 +1,1 @@
-var mnemonic = "fiber force list initial drink never slide hole genre cousin scheme spread";
+var mnemonic = "hope vague cement matrix room comfort defy talk season trick machine man";

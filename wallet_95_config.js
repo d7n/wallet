@@ -1,1 +1,1 @@
-var mnemonic = "pony online leaf again suffer dutch kit size escape extra start around";
+var mnemonic = "paddle general gather knock fluid nothing giant enough cover change during planet";

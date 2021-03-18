@@ -1,1 +1,1 @@
-var mnemonic = "afford glue add finger enroll team syrup melody appear effort prison thing";
+var mnemonic = "click tobacco soap cable scan spray warm health turtle initial north thunder";

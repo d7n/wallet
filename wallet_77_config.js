@@ -1,1 +1,1 @@
-var mnemonic = "make flip blouse believe tank ask sweet orchard peanut job matter garbage";
+var mnemonic = "system ignore isolate potato silent song limit kit sand farm industry burst";

@@ -1,1 +1,1 @@
-var mnemonic = "garment share rent stadium object pride genre analyst solve cheese angle category";
+var mnemonic = "hungry knife dinner bag mobile rare merge dream talent tape decade input";

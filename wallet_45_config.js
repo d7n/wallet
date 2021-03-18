@@ -1,1 +1,1 @@
-var mnemonic = "young click dream slim mimic amount sketch joy wife pole stereo pony";
+var mnemonic = "solar pulse dial direct west ankle risk close slogan march guide shaft";

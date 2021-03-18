@@ -1,1 +1,1 @@
-var mnemonic = "bid rich dragon crowd route hunt since undo traffic burger busy frame";
+var mnemonic = "cross balance amount dizzy hat daring risk voyage couch share olive river";

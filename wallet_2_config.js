@@ -1,1 +1,1 @@
-var mnemonic = "sphere impose spatial slide then omit twin crowd basket flee excess afraid";
+var mnemonic = "amazing document obey prize govern require valve cream night sight saddle mosquito";

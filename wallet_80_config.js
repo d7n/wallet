@@ -1,1 +1,1 @@
-var mnemonic = "first hour heavy stock message blanket unable front cloth erupt oil misery";
+var mnemonic = "crunch history indoor beauty tube term spy lens color sadness inject wealth";

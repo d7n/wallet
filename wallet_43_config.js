@@ -1,1 +1,1 @@
-var mnemonic = "trial badge happy kangaroo shoot mouse aerobic rabbit couple check cannon machine";
+var mnemonic = "tower elephant auction scrap surround twist find pigeon brisk mention chronic athlete";

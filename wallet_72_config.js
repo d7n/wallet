@@ -1,1 +1,1 @@
-var mnemonic = "obey erupt sight impact stuff broom life guilt glass dwarf better alcohol";
+var mnemonic = "bulb steel devote coral finger custom harvest spray eager dutch bounce satisfy";

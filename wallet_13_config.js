@@ -1,1 +1,1 @@
-var mnemonic = "prefer sphere salad lamp nurse banana word emotion frame surge surge spring";
+var mnemonic = "labor dove struggle yellow usual burger asthma stumble album physical basic medal";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle increase good math pave rural donkey identify ticket blossom type obtain";
+var mnemonic = "tobacco ripple figure family budget husband order lounge canoe phone shine dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "misery peanut same photo pair tent pony vacuum assume eternal boss country";
+var mnemonic = "spell shift upset picture doll recycle approve game admit display kangaroo sword";

@@ -1,1 +1,1 @@
-var mnemonic = "call round myself history juice sick embody board increase priority road alley";
+var mnemonic = "ride maid retreat mountain over kitten share gym slight evoke peace mule";

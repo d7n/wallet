@@ -1,1 +1,1 @@
-var mnemonic = "habit fantasy gas tube bitter quiz country ancient bamboo critic match cereal";
+var mnemonic = "speak lab post pelican resemble arrest three home square face zero pottery";

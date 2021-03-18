@@ -1,1 +1,1 @@
-var mnemonic = "flower odor firm mixture allow session sport coral track stamp hope mistake";
+var mnemonic = "future cheese vacant nose lawsuit ball reform into health steak dilemma castle";

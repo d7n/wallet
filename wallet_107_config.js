@@ -1,1 +1,1 @@
-var mnemonic = "heart kidney donkey there that initial away toy police soccer jewel era";
+var mnemonic = "fix junk else detail food doctor dolphin join teach used flag guard";

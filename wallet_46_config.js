@@ -1,1 +1,1 @@
-var mnemonic = "circle people defense nuclear feel arm season feed bonus parent shadow before";
+var mnemonic = "select chuckle noodle print chef jacket artist gun joy spawn twin nose";

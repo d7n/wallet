@@ -1,1 +1,1 @@
-var mnemonic = "ship drill alley chicken truck divorce ignore ski glad salt coach marriage";
+var mnemonic = "bag earn soldier cruise sword purpose toast lunch leg quality relief drift";

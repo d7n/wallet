@@ -1,1 +1,1 @@
-var mnemonic = "peanut room rural steak meadow junior chest athlete wasp disease wait brass";
+var mnemonic = "guitar shoot fault okay amateur little office oxygen prevent wrist cigar cricket";

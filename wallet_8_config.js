@@ -1,1 +1,1 @@
-var mnemonic = "goose height weasel level castle woman share grab found exercise key much";
+var mnemonic = "shoe orchard pony reopen lens bread bind genuine mind local food elephant";

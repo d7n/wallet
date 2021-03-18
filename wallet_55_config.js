@@ -1,1 +1,1 @@
-var mnemonic = "car require pony double student cement axis country party skin half also";
+var mnemonic = "install cube essence devote utility cotton often drip under loud humble unit";

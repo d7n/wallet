@@ -1,1 +1,1 @@
-var mnemonic = "cash size brick oval cotton joke bleak idle humor weekend region chest";
+var mnemonic = "soup much orphan magic bulk drum hair amateur secret aspect citizen crawl";

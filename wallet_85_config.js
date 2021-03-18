@@ -1,1 +1,1 @@
-var mnemonic = "sting grain summer today cost near crawl behind shove universe narrow giraffe";
+var mnemonic = "above wise devote olympic pumpkin royal trouble oak boy stomach ozone mass";

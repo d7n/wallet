@@ -1,1 +1,1 @@
-var mnemonic = "syrup flame pen supply action slam frequent helmet sell isolate amazing one";
+var mnemonic = "sport alien frequent method cloth buzz tired same forum pottery allow sniff";

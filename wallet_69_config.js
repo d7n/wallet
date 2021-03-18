@@ -1,1 +1,1 @@
-var mnemonic = "attract museum hollow ugly family rain captain poet slab glass lawsuit brush";
+var mnemonic = "push position armed farm frequent lemon junior rubber regret hire core tool";
