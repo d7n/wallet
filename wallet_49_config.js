@@ -1,1 +1,1 @@
-var mnemonic = "answer lazy legal exotic ostrich olympic add aisle maple hole heart grow";
+var mnemonic = "chapter three eagle soup will discover comic model walnut sphere pill gravity";

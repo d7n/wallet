@@ -1,1 +1,1 @@
-var mnemonic = "dolphin point venture debate library limb grid thunder path path bridge drastic";
+var mnemonic = "giant nest decline bamboo normal process favorite various rack weather ethics anger";

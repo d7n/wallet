@@ -1,1 +1,1 @@
-var mnemonic = "legal tank verb garlic virus fold above reduce useless myth blossom pair";
+var mnemonic = "dwarf evolve move truck prepare provide calm empty empower confirm bamboo gloom";

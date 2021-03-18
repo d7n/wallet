@@ -1,1 +1,1 @@
-var mnemonic = "atom cave quote bright person lumber act rally claw mystery ocean exile";
+var mnemonic = "wild service tumble clean bachelor olive fever differ body addict toilet very";

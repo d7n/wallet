@@ -1,1 +1,1 @@
-var mnemonic = "decorate attitude web goose twin shrug rapid connect recycle adjust job bitter";
+var mnemonic = "olive electric large outside olympic crash sock phrase napkin trim length region";

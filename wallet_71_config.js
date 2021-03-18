@@ -1,1 +1,1 @@
-var mnemonic = "wife amazing arrive salmon message document jazz wife essay until rare index";
+var mnemonic = "young priority uncover thing liar entire chicken green load flag aspect mandate";

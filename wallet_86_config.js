@@ -1,1 +1,1 @@
-var mnemonic = "hamster dwarf figure stage follow velvet term salt ugly abuse kite dove";
+var mnemonic = "better inquiry foot unlock raccoon demise office stay tray echo gravity chair";

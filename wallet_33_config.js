@@ -1,1 +1,1 @@
-var mnemonic = "morning mind goose decorate lesson load box frown smoke hover mouse argue";
+var mnemonic = "maximum decline hour language enemy neck firm dream more harvest original album";

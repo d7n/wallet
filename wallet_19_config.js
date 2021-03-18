@@ -1,1 +1,1 @@
-var mnemonic = "hope vague cement matrix room comfort defy talk season trick machine man";
+var mnemonic = "stereo crash start drift tell caution obtain hub ginger walk nose initial";

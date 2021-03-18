@@ -1,1 +1,1 @@
-var mnemonic = "just indoor valve refuse denial kingdom quality awesome mountain rural renew stumble";
+var mnemonic = "cheap skate ship myself exist pencil visa tank prevent ridge parrot wide";

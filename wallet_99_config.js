@@ -1,1 +1,1 @@
-var mnemonic = "discover glory mango indoor cage shed property size anxiety relief little major";
+var mnemonic = "crawl check clever latin same giraffe ride profit thing nurse spirit clarify";

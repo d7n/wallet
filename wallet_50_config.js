@@ -1,1 +1,1 @@
-var mnemonic = "future cheese vacant nose lawsuit ball reform into health steak dilemma castle";
+var mnemonic = "various ginger forest unit cherry broccoli boil open chapter gasp twist crumble";

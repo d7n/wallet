@@ -1,1 +1,1 @@
-var mnemonic = "noise swap capable number transfer vehicle snack coast debris click walnut artefact";
+var mnemonic = "happy multiply turtle employ jungle enter ritual bicycle present disorder flight canvas";

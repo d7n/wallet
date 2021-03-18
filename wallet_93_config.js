@@ -1,1 +1,1 @@
-var mnemonic = "canyon decade idle parent intact clock rifle control mosquito fiber brass response";
+var mnemonic = "abandon illegal hurry veteran prefer soft hair expect true palm fat seven";

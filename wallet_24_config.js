@@ -1,1 +1,1 @@
-var mnemonic = "tobacco ripple figure family budget husband order lounge canoe phone shine dynamic";
+var mnemonic = "critic term push youth strong wonder genuine language derive oval neither aerobic";

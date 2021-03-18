@@ -1,1 +1,1 @@
-var mnemonic = "mosquito dolphin forum town sweet tilt hidden novel zoo palace clay trash";
+var mnemonic = "dove burst update stove empower mule rival hole relief wreck mammal grass";

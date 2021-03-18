@@ -1,1 +1,1 @@
-var mnemonic = "eternal beyond license escape truly festival jeans afraid dad hill salt puppy";
+var mnemonic = "fossil artist run price tag knee away slab salad doctor accident kangaroo";

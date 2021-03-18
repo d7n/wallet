@@ -1,1 +1,1 @@
-var mnemonic = "gauge appear off general mom slice regret order certain initial noise short";
+var mnemonic = "diagram sad action soon donate slide tip flat weekend gaze tip frame";

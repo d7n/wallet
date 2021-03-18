@@ -1,1 +1,1 @@
-var mnemonic = "toast skull shadow wrap provide empty auto model ready guilt empower outside";
+var mnemonic = "flush setup aisle smile powder solid olympic fantasy sound barrel text law";

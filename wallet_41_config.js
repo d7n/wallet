@@ -1,1 +1,1 @@
-var mnemonic = "fossil engine keen gauge glove mix craft there blush raccoon blossom filter";
+var mnemonic = "ski critic claim castle source material increase lonely purchase sorry leisure student";

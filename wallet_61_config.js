@@ -1,1 +1,1 @@
-var mnemonic = "control quiz ridge balance arrest female april fence action patrol ozone junior";
+var mnemonic = "large tip jungle marriage anger top banner trial wet student ivory kiwi";

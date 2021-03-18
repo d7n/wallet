@@ -1,1 +1,1 @@
-var mnemonic = "debate ecology olympic tonight member shallow suspect endorse soon runway help jazz";
+var mnemonic = "dust lesson immense rebel define scan sock ranch harbor alcohol gorilla second";

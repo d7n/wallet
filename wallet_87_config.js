@@ -1,1 +1,1 @@
-var mnemonic = "shadow century fog stomach trumpet interest sail input hungry crash repeat weather";
+var mnemonic = "nasty online render weasel mechanic illness dash pulp enhance effort ethics vast";

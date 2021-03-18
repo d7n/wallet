@@ -1,1 +1,1 @@
-var mnemonic = "risk witness inject sheriff expand proud vast baby begin icon board seven";
+var mnemonic = "appear travel breeze utility maze next defy issue elegant odor bone world";

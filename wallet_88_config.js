@@ -1,1 +1,1 @@
-var mnemonic = "heavy mesh avoid repeat bright local satoshi true fatigue weather wash rapid";
+var mnemonic = "moment violin stone draw mind radar silly cactus turn blush claim someone";

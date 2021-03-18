@@ -1,1 +1,1 @@
-var mnemonic = "art today setup exercise picture result only inflict drum fold leopard service";
+var mnemonic = "cable virus omit cost term scrap baby elder arrest prosper panel river";

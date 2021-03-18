@@ -1,1 +1,1 @@
-var mnemonic = "fatal question inflict park vanish scatter naive raccoon miracle tray select only";
+var mnemonic = "fruit unveil predict bamboo embark knock crumble infant sign force subject brave";

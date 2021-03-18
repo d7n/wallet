@@ -1,1 +1,1 @@
-var mnemonic = "dismiss snake order slim limb priority harsh nice pretty brick lonely hurdle";
+var mnemonic = "mountain tip rate hospital neglect empower lesson notice critic memory boss genre";

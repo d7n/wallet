@@ -1,1 +1,1 @@
-var mnemonic = "edge lizard cradle palm resist harsh flavor ship pink truck voyage still";
+var mnemonic = "west canal recycle thought decade safe oyster differ hat rely neither social";

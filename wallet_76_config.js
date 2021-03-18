@@ -1,1 +1,1 @@
-var mnemonic = "expire enough ridge joke chimney acid glad girl exist remind network destroy";
+var mnemonic = "sunny move remain mind spatial abstract truth pink pelican six game wear";

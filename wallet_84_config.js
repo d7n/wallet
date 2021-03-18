@@ -1,1 +1,1 @@
-var mnemonic = "fiber execute glove glare cheese predict insane inform nasty snack dolphin escape";
+var mnemonic = "later crater great carbon ribbon spirit delay bright expect all swap sand";

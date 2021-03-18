@@ -1,1 +1,1 @@
-var mnemonic = "universe symptom glimpse mixed proof brown major document hope short edge enter";
+var mnemonic = "antique merit indicate infant short forum fresh village vague exist material elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist pumpkin famous elevator science hunt film door afraid vital notice assume";
+var mnemonic = "deliver extend announce face canvas opera empower security bus outdoor trash option";

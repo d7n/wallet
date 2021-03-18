@@ -1,1 +1,1 @@
-var mnemonic = "soup much orphan magic bulk drum hair amateur secret aspect citizen crawl";
+var mnemonic = "fruit wedding exercise place black erosion close draft lecture brick resemble soda";

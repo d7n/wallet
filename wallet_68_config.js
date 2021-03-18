@@ -1,1 +1,1 @@
-var mnemonic = "dragon fancy funny glove extra cause can elder scale embark range route";
+var mnemonic = "ancient dress cook surge casual jaguar flame bitter tuition metal flower organ";

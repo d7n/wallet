@@ -1,1 +1,1 @@
-var mnemonic = "stove width round flat episode peasant month decide enter antenna believe goat";
+var mnemonic = "little gym film subject session soft symbol tiger walk picture expose harsh";

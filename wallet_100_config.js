@@ -1,1 +1,1 @@
-var mnemonic = "train hospital hedgehog inside exchange thank expire thank slight plastic tortoise cricket";
+var mnemonic = "begin advice fly season chunk lemon doll train nut average three tissue";

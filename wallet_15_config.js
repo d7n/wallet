@@ -1,1 +1,1 @@
-var mnemonic = "rural harsh shed country wrong bronze bless sister sleep crane author drama";
+var mnemonic = "onion degree athlete physical birth anchor genre adult wild trend lake trophy";

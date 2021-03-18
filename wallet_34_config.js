@@ -1,1 +1,1 @@
-var mnemonic = "input goddess learn tunnel strong hero exchange moon bean foot couch eight";
+var mnemonic = "citizen update later slam keen boil sample cause surround present cancel window";

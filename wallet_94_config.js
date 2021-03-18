@@ -1,1 +1,1 @@
-var mnemonic = "sail material lady success banana name save mosquito safe cabbage gasp income";
+var mnemonic = "paddle gaze knee defy spider sign border cheap fetch crush payment tribe";

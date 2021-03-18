@@ -1,1 +1,1 @@
-var mnemonic = "brass piece say climb dash pause vendor accident flee drip hour swap";
+var mnemonic = "brush school mountain ozone merge sudden will mind rhythm quote lumber photo";

@@ -1,1 +1,1 @@
-var mnemonic = "install cube essence devote utility cotton often drip under loud humble unit";
+var mnemonic = "order mail pizza smile crucial tennis lion achieve useless outdoor tribe warm";

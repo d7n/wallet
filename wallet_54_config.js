@@ -1,1 +1,1 @@
-var mnemonic = "viable sniff crush wide advance action athlete guess cool enough limb win";
+var mnemonic = "sight satisfy clerk session amazing kiwi letter canoe urban artwork upon radar";

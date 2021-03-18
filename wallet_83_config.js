@@ -1,1 +1,1 @@
-var mnemonic = "impose rather share blouse index daring citizen run simple catch allow time";
+var mnemonic = "box buffalo token calm calm boss walk pledge note enable auction fruit";

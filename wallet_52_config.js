@@ -1,1 +1,1 @@
-var mnemonic = "spell shift upset picture doll recycle approve game admit display kangaroo sword";
+var mnemonic = "rich teach fresh slice solve cupboard time amateur will short client figure";

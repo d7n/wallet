@@ -1,1 +1,1 @@
-var mnemonic = "october attack regular cute roast frozen nose advance bonus receive museum hill";
+var mnemonic = "actor address exit kingdom mosquito hello swarm install surround antenna abandon chapter";

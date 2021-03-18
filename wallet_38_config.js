@@ -1,1 +1,1 @@
-var mnemonic = "cage minute hobby stamp response unique thing cinnamon snap strong spin flight";
+var mnemonic = "shield require author vivid toss snack sentence doll obscure sport marine hand";

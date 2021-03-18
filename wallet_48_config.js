@@ -1,1 +1,1 @@
-var mnemonic = "fever month bright loan danger loud oppose release grab fever ladder barrel";
+var mnemonic = "eager club right unique diary gallery omit enact antique brief skill happy";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss wish fit material sense curve topic else barrel empower cream nose";
+var mnemonic = "grocery rude hello worry pass vacant tomato start awake gaze oak salon";

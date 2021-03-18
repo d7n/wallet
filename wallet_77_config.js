@@ -1,1 +1,1 @@
-var mnemonic = "system ignore isolate potato silent song limit kit sand farm industry burst";
+var mnemonic = "undo sign swallow embark behave ring bachelor bracket laugh stone force stable";

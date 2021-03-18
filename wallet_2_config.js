@@ -1,1 +1,1 @@
-var mnemonic = "amazing document obey prize govern require valve cream night sight saddle mosquito";
+var mnemonic = "fee exotic host fire tired liar submit december theme wild wrestle tackle";

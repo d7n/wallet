@@ -1,1 +1,1 @@
-var mnemonic = "cross balance amount dizzy hat daring risk voyage couch share olive river";
+var mnemonic = "firm any cage twice scale avocado hub tunnel immune canvas axis forget";

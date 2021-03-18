@@ -1,1 +1,1 @@
-var mnemonic = "spike debate reveal smooth knock collect gather diet surface equal heavy history";
+var mnemonic = "menu lizard arena orphan praise used urge invite worth husband pen code";

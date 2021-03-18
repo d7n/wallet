@@ -1,1 +1,1 @@
-var mnemonic = "fuel tell horn plastic jelly thunder outer grab hunt forward gospel increase";
+var mnemonic = "cricket code elbow swap forum swarm olympic million pulse educate neck outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "only boring lyrics today tuition inflict cause wise domain crater agree addict";
+var mnemonic = "mail behind genius sport industry borrow favorite idea render injury exit luggage";

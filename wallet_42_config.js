@@ -1,1 +1,1 @@
-var mnemonic = "click tobacco soap cable scan spray warm health turtle initial north thunder";
+var mnemonic = "position clerk similar real century term power fuel account rescue choice betray";

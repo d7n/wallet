@@ -1,1 +1,1 @@
-var mnemonic = "merge tongue maple search capable bachelor analyst magnet enhance math capable menu";
+var mnemonic = "weapon pudding hip flush mutual style involve host camp believe thought giraffe";

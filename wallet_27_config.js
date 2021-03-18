@@ -1,1 +1,1 @@
-var mnemonic = "enough venue crane guilt glide scale town strike cube switch pattern fold";
+var mnemonic = "clarify ready lens eight caught mechanic multiply guard lazy crucial shoot episode";

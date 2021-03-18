@@ -1,1 +1,1 @@
-var mnemonic = "between drink lava armor fabric poem swing hover settle october solve puppy";
+var mnemonic = "bird situate goat input tilt bottom account canoe impulse donkey simple become";

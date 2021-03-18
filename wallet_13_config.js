@@ -1,1 +1,1 @@
-var mnemonic = "labor dove struggle yellow usual burger asthma stumble album physical basic medal";
+var mnemonic = "witness deliver pattern always social repair sadness rough museum obvious toilet enough";

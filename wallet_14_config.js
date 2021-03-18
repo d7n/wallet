@@ -1,1 +1,1 @@
-var mnemonic = "gravity multiply stamp jelly tide foil speak gym quiz lizard surround someone";
+var mnemonic = "cancel turtle spice involve can glow bamboo print property bulb sausage hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "ride maid retreat mountain over kitten share gym slight evoke peace mule";
+var mnemonic = "bridge wisdom afford wing crunch story gauge pull hope raw visit guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "tower elephant auction scrap surround twist find pigeon brisk mention chronic athlete";
+var mnemonic = "scare together remain knee brave try wait extra whisper sustain clap cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo clap hunt scout vanish retire budget guilt vibrant march helmet vote";
+var mnemonic = "eager axis urban vessel curtain buyer elite fuel code duck crazy stay";

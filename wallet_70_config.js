@@ -1,1 +1,1 @@
-var mnemonic = "speak lab post pelican resemble arrest three home square face zero pottery";
+var mnemonic = "biology pizza cricket recipe taxi giggle expire extend soldier skate reform gym";

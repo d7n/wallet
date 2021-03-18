@@ -1,1 +1,1 @@
-var mnemonic = "private grass alone boil oak chaos kiwi cloth bracket elevator often spider";
+var mnemonic = "worry figure pass garden junior scan sight grab card science thunder physical";

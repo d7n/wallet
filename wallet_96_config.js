@@ -1,1 +1,1 @@
-var mnemonic = "warrior imitate cancel monster group drift october dog junior moon siren retreat";
+var mnemonic = "oak quit work slogan cotton ship uncle cotton alarm wedding learn enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb steel devote coral finger custom harvest spray eager dutch bounce satisfy";
+var mnemonic = "couch winner hurt grace emerge rally drama shoot pill card member false";

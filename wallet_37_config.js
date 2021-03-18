@@ -1,1 +1,1 @@
-var mnemonic = "blind educate wool dial online same salt victory spatial artist amount inject";
+var mnemonic = "lens nest stereo limit execute penalty depth lizard early local into clever";

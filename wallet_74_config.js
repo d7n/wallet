@@ -1,1 +1,1 @@
-var mnemonic = "guitar shoot fault okay amateur little office oxygen prevent wrist cigar cricket";
+var mnemonic = "paddle embody whisper danger visit helmet web when visual cousin ramp source";

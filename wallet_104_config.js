@@ -1,1 +1,1 @@
-var mnemonic = "slot island solid call flash ivory comic nest boil broom chair elevator";
+var mnemonic = "shock opera super quality voice ticket chapter fluid soft famous cream nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster lazy near point goddess family knee admit exercise leopard subway jump";
+var mnemonic = "garden ensure pilot gate outer garbage effort axis rescue property ridge farm";

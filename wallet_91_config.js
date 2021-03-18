@@ -1,1 +1,1 @@
-var mnemonic = "hurt found hand divide power evoke lock birth sick giraffe hip spirit";
+var mnemonic = "distance polar castle twin nice quick fitness civil name unable company kit";

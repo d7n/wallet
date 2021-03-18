@@ -1,1 +1,1 @@
-var mnemonic = "select chuckle noodle print chef jacket artist gun joy spawn twin nose";
+var mnemonic = "any knee robust front ski method fortune razor blade gather canvas surface";

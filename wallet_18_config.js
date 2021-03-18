@@ -1,1 +1,1 @@
-var mnemonic = "board lottery cage change fall hand cost decide beef valve shove wonder";
+var mnemonic = "region ride mistake debate moment indicate advice address bomb special connect penalty";

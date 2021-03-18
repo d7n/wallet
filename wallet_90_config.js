@@ -1,1 +1,1 @@
-var mnemonic = "urban add glare baby guard cart tortoise soon enforce purse bone case";
+var mnemonic = "wedding fit behave obtain garbage main auction divide audit clay display health";

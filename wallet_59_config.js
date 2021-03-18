@@ -1,1 +1,1 @@
-var mnemonic = "column myself arrive noise like lucky page into race pitch unusual letter";
+var mnemonic = "ranch rather soap mixture practice dragon dumb wage torch purchase battle trend";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe orchard pony reopen lens bread bind genuine mind local food elephant";
+var mnemonic = "shell table curve soldier cement left trial hope prison lemon pool destroy";

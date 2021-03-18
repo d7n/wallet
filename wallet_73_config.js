@@ -1,1 +1,1 @@
-var mnemonic = "hungry knife dinner bag mobile rare merge dream talent tape decade input";
+var mnemonic = "expire cinnamon short drive parent firm race elbow fun fashion excuse tortoise";

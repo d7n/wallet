@@ -1,1 +1,1 @@
-var mnemonic = "bag earn soldier cruise sword purpose toast lunch leg quality relief drift";
+var mnemonic = "poverty cake broom dumb other tank dog settle law upon family ocean";

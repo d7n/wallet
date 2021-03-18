@@ -1,1 +1,1 @@
-var mnemonic = "ability jaguar height ignore seed refuse man album sense master fuel board";
+var mnemonic = "device list boil name until goose upgrade tape turkey misery enforce leg";

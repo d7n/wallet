@@ -1,1 +1,1 @@
-var mnemonic = "require six demise modify strike crash yard flock knee virtual rifle catch";
+var mnemonic = "finish spirit kid neither ready tomato view error vague able hurt clever";

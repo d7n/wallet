@@ -1,1 +1,1 @@
-var mnemonic = "fix junk else detail food doctor dolphin join teach used flag guard";
+var mnemonic = "kite cancel label cash danger benefit sadness surge avocado apology grab wife";

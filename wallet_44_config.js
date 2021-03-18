@@ -1,1 +1,1 @@
-var mnemonic = "post thing prevent crisp reflect congress artefact choose bright cannon cake army";
+var mnemonic = "unique galaxy face surprise brief token young motor amazing bind forum code";

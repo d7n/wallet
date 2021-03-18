@@ -1,1 +1,1 @@
-var mnemonic = "face bench twelve seat process awake video economy knee ugly number yellow";
+var mnemonic = "plastic firm teach master morning bottom tent fun awful index guilt ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "misery coast laptop movie injury match fork infant jacket under pepper fit";
+var mnemonic = "gold until mosquito chair royal december hill screen argue region rich friend";

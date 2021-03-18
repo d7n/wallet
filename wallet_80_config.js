@@ -1,1 +1,1 @@
-var mnemonic = "crunch history indoor beauty tube term spy lens color sadness inject wealth";
+var mnemonic = "organ fold build label approve space mind property awake panther input diamond";

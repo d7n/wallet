@@ -1,1 +1,1 @@
-var mnemonic = "family belt twist march spray lesson detect save cluster cliff filter entire";
+var mnemonic = "powder couple melody supreme year syrup wagon vital peanut brain panda fish";

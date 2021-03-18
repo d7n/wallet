@@ -1,1 +1,1 @@
-var mnemonic = "melody equip still intact phrase cloud junior country gown enroll antenna ranch";
+var mnemonic = "pulse door naive theory carry favorite soap angle trophy feature maple hurdle";

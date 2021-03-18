@@ -1,1 +1,1 @@
-var mnemonic = "sense resemble town grocery asset hurt gorilla unusual snack fold anger buzz";
+var mnemonic = "female beyond firm cinnamon fragile curious hello pottery essay ramp run keep";
