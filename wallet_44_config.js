@@ -1,1 +1,1 @@
-var mnemonic = "about churn exile chair suggest stumble disagree treat outer please into possible";
+var mnemonic = "amused wolf pledge sense zone world churn village move buzz absurd prepare";

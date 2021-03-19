@@ -1,1 +1,1 @@
-var mnemonic = "diesel lunar pill ridge episode tattoo regular museum cup fresh lava situate";
+var mnemonic = "park minute used record actor valid brave grief regular plastic system year";

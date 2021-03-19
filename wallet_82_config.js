@@ -1,1 +1,1 @@
-var mnemonic = "indoor wave pyramid pulse logic lecture oxygen lounge giggle onion dirt poverty";
+var mnemonic = "blue slogan document real jewel ability joy erase mother total cube index";

@@ -1,1 +1,1 @@
-var mnemonic = "stay barrel region trim noodle scatter lonely glue critic rain circle tumble";
+var mnemonic = "vehicle eternal earn injury tumble lens flag small combine pulp swift early";

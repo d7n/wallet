@@ -1,1 +1,1 @@
-var mnemonic = "recipe arrive retreat juice nation crush pattern ribbon advance favorite universe viable";
+var mnemonic = "crawl comic patch used evil mistake grunt ask reopen lady stable spot";

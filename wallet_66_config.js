@@ -1,1 +1,1 @@
-var mnemonic = "rule leisure donate palace master measure lift sunny merit palace sphere game";
+var mnemonic = "found heavy camp urge tenant math rail enlist bridge omit salad distance";

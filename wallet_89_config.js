@@ -1,1 +1,1 @@
-var mnemonic = "allow another cruise much spread depart innocent poverty little pen neglect tumble";
+var mnemonic = "cover fit proud kitchen music lounge reduce useful entry copy creek wet";

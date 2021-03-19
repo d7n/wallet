@@ -1,1 +1,1 @@
-var mnemonic = "type buffalo bargain cash rebuild upon chef route waste hurt feed raccoon";
+var mnemonic = "laugh provide decline payment produce offer rough always defense soccer begin suspect";

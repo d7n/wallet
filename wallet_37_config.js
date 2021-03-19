@@ -1,1 +1,1 @@
-var mnemonic = "nominee verify sad plate dumb hair race gossip acid ceiling lion inherit";
+var mnemonic = "brush donate account surge share talent decade sure habit firm intact action";

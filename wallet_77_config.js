@@ -1,1 +1,1 @@
-var mnemonic = "smart real spray later glory venture have raw matrix arrange below embody";
+var mnemonic = "call garbage uphold noise wrong orphan erupt lottery farm rubber clap exercise";

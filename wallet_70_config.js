@@ -1,1 +1,1 @@
-var mnemonic = "web inner inquiry when panther piano window traffic step panic isolate destroy";
+var mnemonic = "clap buffalo scatter online burst movie base genuine message argue social awkward";

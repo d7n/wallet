@@ -1,1 +1,1 @@
-var mnemonic = "remove sting various miss expose whale assault vacuum kidney predict express discover";
+var mnemonic = "foot spin soon cruel special unique half cluster window rural rocket scorpion";

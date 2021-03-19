@@ -1,1 +1,1 @@
-var mnemonic = "fly dove section grace walnut around craft dial session robot purchase swing";
+var mnemonic = "diagram lonely expire outside birth female rug sad behind one leaf lend";

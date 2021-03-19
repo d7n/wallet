@@ -1,1 +1,1 @@
-var mnemonic = "bird corn pave spoon drastic remember immense large breeze drip strike stuff";
+var mnemonic = "chalk camera grow craft spy ankle video lazy pyramid curious head pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge off pave slow tape balance filter pulse horse various marriage win";
+var mnemonic = "settle betray endorse price gold error busy lobster dial medal thumb caught";

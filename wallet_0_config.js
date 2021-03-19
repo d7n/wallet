@@ -1,1 +1,1 @@
-var mnemonic = "myth scrub twin cloth man sock frog hurt quality enroll rack undo";
+var mnemonic = "update property toilet sunset that swamp install antenna apology rude barrel initial";

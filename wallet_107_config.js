@@ -1,1 +1,1 @@
-var mnemonic = "hood ostrich sister travel arrive room promote hood note fancy neutral cage";
+var mnemonic = "absorb roast journey famous clerk early voice blade police away vivid rocket";

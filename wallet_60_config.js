@@ -1,1 +1,1 @@
-var mnemonic = "accuse fork forward culture grain wrong grape drift stumble shine true stone";
+var mnemonic = "pink depth scout shell sibling pigeon beyond cigar rookie include athlete shrug";

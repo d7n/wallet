@@ -1,1 +1,1 @@
-var mnemonic = "such clerk hire myth reflect angle figure school shoot shop fantasy retreat";
+var mnemonic = "cricket entire display tool diary boat pill junior bone follow document reunion";

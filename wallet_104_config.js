@@ -1,1 +1,1 @@
-var mnemonic = "pull hole hill raise uniform often census plate security enlist remind badge";
+var mnemonic = "limb quote chalk mirror cave pencil mimic current nerve ten smile nut";

@@ -1,1 +1,1 @@
-var mnemonic = "crew chicken legend strategy banana vessel clarify off balcony online country deal";
+var mnemonic = "catalog pond immense rotate maximum cheap fluid choose pulp enforce network chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "save warrior adjust old slot congress drop once ski ranch protect defense";
+var mnemonic = "bunker foot chef whisper butter myth swallow mixed lion actor delay loop";

@@ -1,1 +1,1 @@
-var mnemonic = "atom clever pole suit warrior over dance ahead canoe actress power shell";
+var mnemonic = "able shoulder blouse rigid lonely sausage width portion visual erupt aunt pigeon";

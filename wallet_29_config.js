@@ -1,1 +1,1 @@
-var mnemonic = "soft pear slow enact fee rigid trim blind pyramid hundred south swap";
+var mnemonic = "horn gravity prison viable vessel suit track size say poem chapter play";

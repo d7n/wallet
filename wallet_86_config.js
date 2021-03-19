@@ -1,1 +1,1 @@
-var mnemonic = "icon wagon debate suit helmet prefer type level leaf way near lobster";
+var mnemonic = "pig moment cheap advance clock napkin slab radio orient such rigid tail";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry worth burger stage steak neck narrow exist ivory science uphold lecture";
+var mnemonic = "brave inherit sunny gauge brief nurse fit lonely repair skull buzz spoon";

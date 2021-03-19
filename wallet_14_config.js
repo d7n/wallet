@@ -1,1 +1,1 @@
-var mnemonic = "drill address tunnel spring pledge rely prevent stone river dismiss section shaft";
+var mnemonic = "crush bench gorilla slush giraffe game junior exile scrub clinic dinner lamp";

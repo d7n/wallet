@@ -1,1 +1,1 @@
-var mnemonic = "potato smooth drop top draw sample trade toast alter alert chronic dad";
+var mnemonic = "debris caution early spawn bomb cart arrive romance dizzy silly quick proud";

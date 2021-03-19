@@ -1,1 +1,1 @@
-var mnemonic = "badge employ tiny rely village amount skate march dilemma polar all denial";
+var mnemonic = "wire hat design bus bag guitar repeat peace gorilla medal party gesture";

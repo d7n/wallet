@@ -1,1 +1,1 @@
-var mnemonic = "usual across attitude fatal pelican wood destroy palace fiber pair maze ivory";
+var mnemonic = "february trust slim enter claw clog vote initial list warm member panda";

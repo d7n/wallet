@@ -1,1 +1,1 @@
-var mnemonic = "address goat smoke educate patrol school cushion display quit park slam convince";
+var mnemonic = "world soup hub battle iron accuse salute room raven salmon nation tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "mention auto borrow clerk neither toilet cement tobacco mule sound seed cousin";
+var mnemonic = "adjust confirm dignity movie horror ridge soon myth claim mule guard tomorrow";

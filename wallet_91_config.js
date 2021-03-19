@@ -1,1 +1,1 @@
-var mnemonic = "supply swift horse dune pull pretty apology worry maze shoot peace math";
+var mnemonic = "abuse job grid burger permit merry april gain foam day ride sail";

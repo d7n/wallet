@@ -1,1 +1,1 @@
-var mnemonic = "cave mixture retire raw ceiling enable never relax sauce tone topic noodle";
+var mnemonic = "load prison reform spend lock clip false intact renew sentence napkin machine";

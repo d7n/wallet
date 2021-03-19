@@ -1,1 +1,1 @@
-var mnemonic = "scout skirt method zoo change survey degree short voice shoulder crouch around";
+var mnemonic = "pony seek pencil salute dolphin story glance awake sudden gap actress pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney outside word borrow execute rate escape duck spy push banner ivory";
+var mnemonic = "scrap quit average casual nation garbage device monitor mail digital metal strong";

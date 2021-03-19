@@ -1,1 +1,1 @@
-var mnemonic = "wonder sock original hen bamboo recall trouble matrix leader copper meadow club";
+var mnemonic = "hello anger exit into drive bless obvious try sponsor favorite addict coin";

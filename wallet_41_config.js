@@ -1,1 +1,1 @@
-var mnemonic = "false puzzle satisfy admit will slice thunder puzzle tree cigar mad tiny";
+var mnemonic = "mixed foam next original bunker dry hat hungry wall kind fitness blood";

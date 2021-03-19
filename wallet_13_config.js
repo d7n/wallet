@@ -1,1 +1,1 @@
-var mnemonic = "magnet lesson thumb float off soldier pool jacket body lounge auction brand";
+var mnemonic = "repair reason betray engage world bicycle unit dilemma logic dance leave zone";

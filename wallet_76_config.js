@@ -1,1 +1,1 @@
-var mnemonic = "clever input educate melt need wet sad prosper leader express army gap";
+var mnemonic = "sick horror seminar coast story pottery eagle lamp noodle hedgehog total usage";

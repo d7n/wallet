@@ -1,1 +1,1 @@
-var mnemonic = "camera fog february orbit subway flight grief sudden liberty sing double author";
+var mnemonic = "mom reunion deal author trap album draw aisle boy craft silent hungry";

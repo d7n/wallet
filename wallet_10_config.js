@@ -1,1 +1,1 @@
-var mnemonic = "cactus balance emotion hip upon inflict space near beauty toss guard neglect";
+var mnemonic = "trap muffin robust permit winter deer thumb basic front rabbit zero leave";

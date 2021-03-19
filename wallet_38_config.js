@@ -1,1 +1,1 @@
-var mnemonic = "hazard imitate ancient rifle depart pave protect anxiety diamond combine damage grow";
+var mnemonic = "pluck cross receive maple injury ozone attitude truly wool upgrade you actual";

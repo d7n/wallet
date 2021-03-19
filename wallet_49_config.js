@@ -1,1 +1,1 @@
-var mnemonic = "attract mother horror struggle eager sheriff palace annual rice basic item deputy";
+var mnemonic = "define century tilt gun canoe roof erase also trial window coconut box";

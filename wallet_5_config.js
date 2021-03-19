@@ -1,1 +1,1 @@
-var mnemonic = "ostrich render reveal people decade talent derive nature direct devote master unable";
+var mnemonic = "tooth innocent motion lyrics ice ahead rookie bird swarm auction rule human";

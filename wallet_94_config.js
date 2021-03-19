@@ -1,1 +1,1 @@
-var mnemonic = "toe grunt hour shell say rigid gain clog method pudding basket exile";
+var mnemonic = "receive saddle wing such frost keep taste drip remain panther section loyal";

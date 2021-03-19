@@ -1,1 +1,1 @@
-var mnemonic = "laundry rail tragic school embrace analyst rabbit slide reveal file found wasp";
+var mnemonic = "vessel dentist object current talent father misery seek account table ensure away";

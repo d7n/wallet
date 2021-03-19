@@ -1,1 +1,1 @@
-var mnemonic = "all donkey awful combine slow disorder paddle burger can ramp lazy prepare";
+var mnemonic = "arrest movie throw lock play depart satoshi diagram bacon region worth enough";

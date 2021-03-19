@@ -1,1 +1,1 @@
-var mnemonic = "math era album clever issue pluck model boss child resource math state";
+var mnemonic = "dog desk spell mom diet cross pyramid neck elder stumble brief project";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock industry height will liquid injury man crash viable purse purpose saddle";
+var mnemonic = "tired blanket can omit enhance discover few finish when manual away public";

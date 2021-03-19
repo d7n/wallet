@@ -1,1 +1,1 @@
-var mnemonic = "kite live object robust panic picture zone flip loop turn caution fold";
+var mnemonic = "tip tube brave report fiber produce kiss badge great shock salmon minimum";

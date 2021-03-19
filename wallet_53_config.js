@@ -1,1 +1,1 @@
-var mnemonic = "float blanket coach yellow minor jewel bunker earth myself metal boss runway";
+var mnemonic = "scorpion people adapt orange frequent pause sea flame someone wash obtain frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "entry torch indicate bounce mixture fly peace awesome riot fashion rare shell";
+var mnemonic = "sadness maze blossom more cheese farm boil arrive typical hawk abandon pulse";

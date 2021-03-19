@@ -1,1 +1,1 @@
-var mnemonic = "concert connect flame core style hub asthma gate reform fade discover song";
+var mnemonic = "develop wing exotic quit fog razor kitchen pause ribbon lounge sense wink";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse away spice hire demise wage slice bulb movie crunch water oxygen";
+var mnemonic = "swim few plastic math list pigeon practice addict radio student video decline";

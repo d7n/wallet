@@ -1,1 +1,1 @@
-var mnemonic = "exotic guess off rescue industry skin enjoy light purchase post power order";
+var mnemonic = "hawk blood flip weather since club nice waste eyebrow final uncover lemon";

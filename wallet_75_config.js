@@ -1,1 +1,1 @@
-var mnemonic = "bronze final allow fabric program reflect own prize sense better immune voyage";
+var mnemonic = "glass awake top either picture purpose blood nose bottom frequent accident step";

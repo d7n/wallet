@@ -1,1 +1,1 @@
-var mnemonic = "decorate notable plate output banana torch write arena enough one ostrich course";
+var mnemonic = "vintage dream near exotic measure auction blade ginger stable cradle seven clarify";

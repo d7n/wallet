@@ -1,1 +1,1 @@
-var mnemonic = "tape stand pigeon mammal moon employ when inch soap radar chuckle trick";
+var mnemonic = "slender attract drip matter sustain limit board various monster radar rail equal";

@@ -1,1 +1,1 @@
-var mnemonic = "wall profit lady crunch issue talent rose leisure object depth torch raven";
+var mnemonic = "sword access other verify jaguar biology high song letter blind sniff father";

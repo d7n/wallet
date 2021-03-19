@@ -1,1 +1,1 @@
-var mnemonic = "damp retire defy rent apart ocean ritual shiver clay enable dash pink";
+var mnemonic = "couch lizard knock renew monitor maximum manage famous easily mechanic pink plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "sock record ready edit virus pond wide flat heavy absorb spike divorce";
+var mnemonic = "gossip morning first before quiz exhaust mushroom goddess crane kiwi clerk diary";

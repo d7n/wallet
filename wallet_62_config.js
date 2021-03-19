@@ -1,1 +1,1 @@
-var mnemonic = "wealth dirt audit strike opera blade three youth taxi glide rebuild crash";
+var mnemonic = "bamboo toss lemon payment bronze valid indoor extra spike scissors boss cable";

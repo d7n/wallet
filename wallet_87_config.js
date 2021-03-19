@@ -1,1 +1,1 @@
-var mnemonic = "tip dirt ask begin nerve brick hint rigid enemy afraid amateur spice";
+var mnemonic = "kingdom thunder pause pattern crawl fork school pole document frequent brick credit";

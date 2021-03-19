@@ -1,1 +1,1 @@
-var mnemonic = "outside sausage source forward interest sound immense subject measure venue music include";
+var mnemonic = "duty beach cigar divert cost achieve coconut powder guide session track struggle";

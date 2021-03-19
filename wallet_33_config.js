@@ -1,1 +1,1 @@
-var mnemonic = "stool hood base roast barely bulk unveil expire select light wagon hybrid";
+var mnemonic = "destroy cart total always survey cross giant hill feature business sight demand";

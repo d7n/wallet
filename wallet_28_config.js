@@ -1,1 +1,1 @@
-var mnemonic = "butter lion hazard slender lunch paper priority burst cabin position dove blind";
+var mnemonic = "foster prepare peace disease sample play smart visit damage fork vast erosion";

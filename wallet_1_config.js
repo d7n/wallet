@@ -1,1 +1,1 @@
-var mnemonic = "rich plug surface arm race kite crunch forward sting motion draft height";
+var mnemonic = "laundry chunk couple physical case tell eternal dish recall shuffle point egg";

@@ -1,1 +1,1 @@
-var mnemonic = "twin speed local torch law behind tooth shift clown leaf hello lion";
+var mnemonic = "asset sad old sign dinner extra right innocent erupt space gasp where";

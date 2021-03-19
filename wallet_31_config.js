@@ -1,1 +1,1 @@
-var mnemonic = "innocent hire urge monster awake couple hobby sting antique humor sing rally";
+var mnemonic = "erosion result delay exchange car cattle town side portion annual sample wait";

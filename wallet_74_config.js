@@ -1,1 +1,1 @@
-var mnemonic = "omit amount yellow brother engine hire fish buzz employ ketchup pen evoke";
+var mnemonic = "ride frog found dinosaur sort juice number sure spice foster crouch term";

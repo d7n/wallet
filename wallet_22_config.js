@@ -1,1 +1,1 @@
-var mnemonic = "divert cover recall normal minute peace frozen lunar fashion make orphan chest";
+var mnemonic = "oblige another race dog celery blanket rose cup eternal imitate buddy roof";

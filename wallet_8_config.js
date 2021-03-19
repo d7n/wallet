@@ -1,1 +1,1 @@
-var mnemonic = "gloom promote move universe best moment pass genuine ecology travel can cement";
+var mnemonic = "half kitchen submit urban rely congress hair shock pass emotion coffee injury";

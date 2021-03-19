@@ -1,1 +1,1 @@
-var mnemonic = "crowd fault paddle cancel enroll struggle eagle candy hub obtain kid bean";
+var mnemonic = "slice tongue ordinary sugar twenty table cushion muscle athlete urban endless silk";

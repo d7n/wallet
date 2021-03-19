@@ -1,1 +1,1 @@
-var mnemonic = "baby tape sheriff pitch feed balcony uncle silk hole neutral carpet beauty";
+var mnemonic = "canoe believe army keep connect half enact juice wrist famous bus same";

@@ -1,1 +1,1 @@
-var mnemonic = "demand hole apple nominee battle snack sing maid stem ice critic today";
+var mnemonic = "win web bind village describe ocean hub tower oppose lunar book extra";

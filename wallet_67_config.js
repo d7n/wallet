@@ -1,1 +1,1 @@
-var mnemonic = "warfare october screen doctor dizzy bench call garage hybrid nerve lunar lemon";
+var mnemonic = "priority picnic behave erosion fruit offer solid wheat south mother rally there";

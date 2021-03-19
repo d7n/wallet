@@ -1,1 +1,1 @@
-var mnemonic = "auction prevent exchange artwork flip soda element fat mixed slim team erosion";
+var mnemonic = "dismiss law float expect hybrid used joke sell toast bubble approve embody";

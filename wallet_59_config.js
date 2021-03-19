@@ -1,1 +1,1 @@
-var mnemonic = "hard add exact curtain market measure math patient evoke always give rubber";
+var mnemonic = "arrive unable already genre room sauce side maid extend throw loop faith";

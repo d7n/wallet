@@ -1,1 +1,1 @@
-var mnemonic = "submit merge famous battle fortune fetch shallow virtual snap mean trim private";
+var mnemonic = "couple plate fit bronze correct master acoustic turtle angry base gospel stairs";

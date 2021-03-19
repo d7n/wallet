@@ -1,1 +1,1 @@
-var mnemonic = "menu afraid range property chronic tumble marine place west pepper dish vacant";
+var mnemonic = "wing purity depart nose seminar whale edit this boil pulp pulp funny";

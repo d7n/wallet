@@ -1,1 +1,1 @@
-var mnemonic = "bottom arm tornado humble best bachelor reason margin exotic clump grape security";
+var mnemonic = "spot fat drastic latin always turn explain guilt language kit child romance";

@@ -1,1 +1,1 @@
-var mnemonic = "property dragon rule whale sausage toilet bulb render keep anxiety whale risk";
+var mnemonic = "drop increase slender nest entry shop amused price juice ranch guard kingdom";

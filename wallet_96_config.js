@@ -1,1 +1,1 @@
-var mnemonic = "submit gravity wire sound area flag pave nuclear smile crazy this property";
+var mnemonic = "provide cheap sense delay stuff hurt grass stereo aerobic exact ecology before";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll climb april model brain diary ankle build drip dove seat comic";
+var mnemonic = "firm youth century bomb slim legend leisure width sea evolve oblige cart";

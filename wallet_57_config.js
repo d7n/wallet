@@ -1,1 +1,1 @@
-var mnemonic = "lab avocado often venture tattoo before dress super online guard suit amateur";
+var mnemonic = "put over dignity clutch galaxy tiger enroll despair entire achieve make act";

@@ -1,1 +1,1 @@
-var mnemonic = "toy hill escape fox cream miracle torch foot foil stand wolf used";
+var mnemonic = "have pull desk milk jewel theory attitude sphere marble slogan regular belt";

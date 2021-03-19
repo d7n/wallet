@@ -1,1 +1,1 @@
-var mnemonic = "evil caution regular riot push armor extend resist coyote toy follow soft";
+var mnemonic = "denial couch pipe wall bus cabin royal shed analyst update creek usual";

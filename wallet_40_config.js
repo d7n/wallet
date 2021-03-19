@@ -1,1 +1,1 @@
-var mnemonic = "picnic famous cloud patrol copy next accident autumn minute mail flip arrest";
+var mnemonic = "sister choose robust praise prepare garden flip trip major surprise rubber dove";

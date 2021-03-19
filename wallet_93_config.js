@@ -1,1 +1,1 @@
-var mnemonic = "drama leopard cactus puppy source similar snap label square trap warm know";
+var mnemonic = "garden food color public rival cotton news stand faint orient grit guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "strong enemy alarm donkey bounce position common glimpse flash minimum turn return";
+var mnemonic = "fox drip race good gossip plunge finish wage control kangaroo like antenna";

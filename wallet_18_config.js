@@ -1,1 +1,1 @@
-var mnemonic = "exist ignore purity mobile fiber cluster copy merit carry scorpion cluster rail";
+var mnemonic = "stove vault sudden dog beach march embody cricket hip wreck method cradle";
