@@ -1,1 +1,1 @@
-var mnemonic = "chronic clump defy knife father nice general bounce produce oven chronic gravity";
+var mnemonic = "under outdoor food mirror crush sugar waste auto leopard wage race market";

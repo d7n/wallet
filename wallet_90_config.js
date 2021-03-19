@@ -1,1 +1,1 @@
-var mnemonic = "cricket endorse lobster then guard nurse around iron isolate jealous eager chaos";
+var mnemonic = "replace renew sing recall upon caught feel enlist fuel labor imitate similar";

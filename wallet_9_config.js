@@ -1,1 +1,1 @@
-var mnemonic = "drink toe olive almost rely erode vacant bottom action daughter rookie tumble";
+var mnemonic = "always palm weekend patch neither unfold proof pear merge elegant object absorb";

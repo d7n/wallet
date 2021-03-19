@@ -1,1 +1,1 @@
-var mnemonic = "nature awkward excite train can describe gorilla gather prosper grunt bird mistake";
+var mnemonic = "merry ahead deposit shaft ocean slam female punch comic dynamic funny report";

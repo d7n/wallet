@@ -1,1 +1,1 @@
-var mnemonic = "sentence agent census donor soda file cart dismiss lyrics current rug feature";
+var mnemonic = "all awake pink mountain turtle sand afford hurdle gossip shell cost tape";

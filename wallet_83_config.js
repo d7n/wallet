@@ -1,1 +1,1 @@
-var mnemonic = "robust bubble hole super hub creek slight strategy eye spoil question what";
+var mnemonic = "shrug prison lounge call canyon crack token season where green brisk modify";

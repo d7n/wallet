@@ -1,1 +1,1 @@
-var mnemonic = "silver economy squirrel thumb pulse rocket velvet penalty steak casino avoid shaft";
+var mnemonic = "cute sock protect ostrich cement group photo own marble love bitter carry";

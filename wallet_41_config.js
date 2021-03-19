@@ -1,1 +1,1 @@
-var mnemonic = "husband knee action over siege impact abstract worth season tuna fold home";
+var mnemonic = "wrong grief cupboard flame aisle dirt left uncover poem episode april mobile";

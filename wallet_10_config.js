@@ -1,1 +1,1 @@
-var mnemonic = "worth intact convince crew merge live inject used whip forest wedding broccoli";
+var mnemonic = "venture episode orphan tag toss lounge fine warrior season asset once square";

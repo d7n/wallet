@@ -1,1 +1,1 @@
-var mnemonic = "multiply cage sniff skill second gown vague stuff inflict venture enforce panda";
+var mnemonic = "country butter box shine hello slush swim attract cargo absurd slender blood";

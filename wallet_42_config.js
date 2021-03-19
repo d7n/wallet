@@ -1,1 +1,1 @@
-var mnemonic = "world connect advice food gap dolphin rhythm hen owner wool couch during";
+var mnemonic = "rocket diesel arch pig measure claw busy online coast type final bench";

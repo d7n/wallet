@@ -1,1 +1,1 @@
-var mnemonic = "move hood curtain element popular advice fault gym wood use pole swap";
+var mnemonic = "inhale cat main design limit fuel auction such cost bounce benefit hole";

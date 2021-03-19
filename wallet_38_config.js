@@ -1,1 +1,1 @@
-var mnemonic = "problem length coil segment deal vast art march this jump rule jelly";
+var mnemonic = "melt budget someone fence total wealth door aim pepper buffalo weird burger";

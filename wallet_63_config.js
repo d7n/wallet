@@ -1,1 +1,1 @@
-var mnemonic = "faith swing yellow dinosaur outside twelve mail pledge cat trick boost thunder";
+var mnemonic = "camp can mass market control wrist spawn amateur tip antenna cash prefer";

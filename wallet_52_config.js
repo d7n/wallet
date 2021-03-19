@@ -1,1 +1,1 @@
-var mnemonic = "cancel sponsor never clock leader where bring ranch script spread monster give";
+var mnemonic = "fever comfort boring sock valve crack mother embody monkey purity humble excuse";

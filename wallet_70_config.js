@@ -1,1 +1,1 @@
-var mnemonic = "gown toss daring citizen wise donor sword nature visual knee object genuine";
+var mnemonic = "mesh disagree slight person punch differ feel fatigue nothing future lonely expose";

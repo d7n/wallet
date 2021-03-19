@@ -1,1 +1,1 @@
-var mnemonic = "fiber coral blame duck dry avocado shell solar catalog must easy element";
+var mnemonic = "win like damp cushion camera extra ability sick admit despair tunnel culture";

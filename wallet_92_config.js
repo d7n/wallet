@@ -1,1 +1,1 @@
-var mnemonic = "buzz engage envelope buzz mix quick goddess horse hard tiger brief federal";
+var mnemonic = "mesh garage harbor swim artefact inmate fortune hockey group relief alarm between";

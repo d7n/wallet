@@ -1,1 +1,1 @@
-var mnemonic = "ready raccoon despair hurry soda six advance happy crazy almost boy hair";
+var mnemonic = "tube project alien undo helmet search small harsh toy dance hospital ketchup";

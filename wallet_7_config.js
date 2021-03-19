@@ -1,1 +1,1 @@
-var mnemonic = "slice kit ramp minimum idle opinion firm gentle where lawsuit long absorb";
+var mnemonic = "sun lift power fan woman clock bundle father nephew acquire together garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "check person reward swarm antique brave laundry volume march seed salad antique";
+var mnemonic = "orphan clock since review kind regular use inch galaxy fame load curve";

@@ -1,1 +1,1 @@
-var mnemonic = "potato blade error ignore silk boss course brand expand jewel deal mixture";
+var mnemonic = "tornado cause usual walk large intact unusual dizzy torch rib modify abandon";

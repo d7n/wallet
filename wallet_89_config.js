@@ -1,1 +1,1 @@
-var mnemonic = "father exchange onion silent obvious casual man submit nuclear section dawn dynamic";
+var mnemonic = "drink invite pig visa ordinary fish top mandate fashion day attitude drastic";

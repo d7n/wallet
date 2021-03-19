@@ -1,1 +1,1 @@
-var mnemonic = "tilt void reward ceiling fatigue remain fuel secret company mountain camp music";
+var mnemonic = "limit hire depart victory birth loyal silly royal analyst grief radar empower";

@@ -1,1 +1,1 @@
-var mnemonic = "organ salad version hood purity tourist young arrow object salmon chest goat";
+var mnemonic = "blanket peanut grid ordinary join spy advance title skirt bunker trust february";

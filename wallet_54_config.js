@@ -1,1 +1,1 @@
-var mnemonic = "devote exhibit fever wood barrel suspect robot cave oak hazard feature miracle";
+var mnemonic = "frozen clog then salmon rent hazard ritual file auction staff erode wasp";

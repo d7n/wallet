@@ -1,1 +1,1 @@
-var mnemonic = "rug banner arch connect spirit gap romance battle prepare endorse gauge amazing";
+var mnemonic = "twelve glimpse food cannon stick crew negative punch velvet van mimic refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "time scheme afford diet gossip bridge leaf drive silly friend kid guard";
+var mnemonic = "fitness harsh city slam divert horse just maple umbrella bullet eye era";

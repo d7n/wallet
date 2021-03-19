@@ -1,1 +1,1 @@
-var mnemonic = "render embark vibrant habit huge chat excuse subway believe dentist fall shield";
+var mnemonic = "elder head balcony wage deliver robust cancel tone magic ride planet wink";

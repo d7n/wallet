@@ -1,1 +1,1 @@
-var mnemonic = "please image local drum calm cube agree sure master culture escape earn";
+var mnemonic = "bulk easily mix post ship ready acid plug small target fall vital";

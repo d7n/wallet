@@ -1,1 +1,1 @@
-var mnemonic = "maple valve fence anchor ancient funny upon west original hood matrix gym";
+var mnemonic = "step smile bunker captain winner vacant nature grape couple position copy senior";

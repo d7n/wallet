@@ -1,1 +1,1 @@
-var mnemonic = "jelly bacon daring shed employ health mercy material arrive equip beach foot";
+var mnemonic = "endless neglect citizen kitchen blanket history twin pottery define century frozen tool";

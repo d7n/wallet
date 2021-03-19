@@ -1,1 +1,1 @@
-var mnemonic = "okay apology uncle captain check hybrid carpet save uncover zoo various cannon";
+var mnemonic = "earth aisle dentist maid metal receive vibrant need review exotic pill execute";

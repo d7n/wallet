@@ -1,1 +1,1 @@
-var mnemonic = "enrich puppy pencil frame cool dizzy doctor offer ask video cream page";
+var mnemonic = "culture subway come clog quote clown lumber present fringe link milk civil";

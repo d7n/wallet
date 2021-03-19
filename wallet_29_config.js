@@ -1,1 +1,1 @@
-var mnemonic = "during indicate dress artist rapid start maple butter hen child tiny student";
+var mnemonic = "annual demand dune type rude series close nominee lab also perfect february";

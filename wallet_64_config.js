@@ -1,1 +1,1 @@
-var mnemonic = "glide trip medal twist area labor situate couch chunk blood tank coil";
+var mnemonic = "endorse once mother toy spread enact ginger still keen cabbage castle hunt";

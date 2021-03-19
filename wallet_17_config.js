@@ -1,1 +1,1 @@
-var mnemonic = "elegant journey link left crisp question trash weapon item allow bid off";
+var mnemonic = "spoil boat lend disorder mistake large mom dumb concert age between express";

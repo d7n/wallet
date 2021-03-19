@@ -1,1 +1,1 @@
-var mnemonic = "shrimp honey silk arctic music term fragile van left maid column forward";
+var mnemonic = "flag unfair vehicle please load gesture famous dose orient join decide crisp";

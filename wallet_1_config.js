@@ -1,1 +1,1 @@
-var mnemonic = "cloud limit flower never opera later whale notice they shy truck salute";
+var mnemonic = "student tiger ten pumpkin return gain life payment circle common limb grain";

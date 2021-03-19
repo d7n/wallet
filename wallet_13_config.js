@@ -1,1 +1,1 @@
-var mnemonic = "blush hawk slide ostrich rally quarter warrior emotion keen route impose pig";
+var mnemonic = "elite version squirrel fruit wood basic keep raccoon olympic escape pool unfold";

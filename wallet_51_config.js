@@ -1,1 +1,1 @@
-var mnemonic = "movie silly legend spider deal ignore thought bless clip pony exist butter";
+var mnemonic = "organ cattle defense choice flash opinion enable fashion thunder piece chef spy";

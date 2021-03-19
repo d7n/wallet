@@ -1,1 +1,1 @@
-var mnemonic = "dose capital reform peace there spare custom follow action taste hen scout";
+var mnemonic = "hero track what valley float situate roof friend marble famous response print";

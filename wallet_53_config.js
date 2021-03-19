@@ -1,1 +1,1 @@
-var mnemonic = "pottery lucky crash mirror almost canoe identify twelve ecology sudden width vocal";
+var mnemonic = "later drive dragon risk board reunion intact legend digital absent hotel royal";

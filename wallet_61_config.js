@@ -1,1 +1,1 @@
-var mnemonic = "arrow soda narrow rabbit sock unlock shrug cycle wine clever connect immense";
+var mnemonic = "draft romance raven wave size small whisper outdoor cry mechanic soon circle";

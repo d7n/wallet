@@ -1,1 +1,1 @@
-var mnemonic = "forest survey visa open nuclear parrot average warrior dish silver upset hurt";
+var mnemonic = "erase pen around raven lemon window fork flavor march hawk flip label";

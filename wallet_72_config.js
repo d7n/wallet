@@ -1,1 +1,1 @@
-var mnemonic = "reject friend switch inform devote myth diet give snow federal bulb urban";
+var mnemonic = "reopen then more cigar tank power fashion noble town cloth judge sibling";

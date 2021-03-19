@@ -1,1 +1,1 @@
-var mnemonic = "clay common salon orient exhaust faint noodle mountain midnight object beef easily";
+var mnemonic = "expose crane thought abandon repeat aspect sorry rough pipe hood carpet filter";

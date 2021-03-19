@@ -1,1 +1,1 @@
-var mnemonic = "nurse expose stereo debate wife menu ready legend wet student reveal jazz";
+var mnemonic = "prefer grocery drive slot bacon divide sense dignity asset recall almost birth";

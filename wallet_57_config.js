@@ -1,1 +1,1 @@
-var mnemonic = "exit curve race ring brisk ladder chair song return luggage decide life";
+var mnemonic = "corn orchard sheriff twelve gentle wear staff large need crunch focus over";

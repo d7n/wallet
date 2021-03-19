@@ -1,1 +1,1 @@
-var mnemonic = "attract spice wall indoor churn cluster edit dune lock pool bronze describe";
+var mnemonic = "cancel spring warfare time wife soap develop trick plate cheese already unique";

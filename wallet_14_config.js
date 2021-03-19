@@ -1,1 +1,1 @@
-var mnemonic = "income sport banner pride page absent trim brain grit relax gadget dance";
+var mnemonic = "cabbage piano derive hole author family work memory phone rifle pumpkin fall";

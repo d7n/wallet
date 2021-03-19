@@ -1,1 +1,1 @@
-var mnemonic = "coral grant atom glove elder endless host shop gallery material tuition cup";
+var mnemonic = "bread tragic ranch master police insect kingdom amateur one reunion broom detail";

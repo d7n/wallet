@@ -1,1 +1,1 @@
-var mnemonic = "lyrics hedgehog square friend section clown science risk patrol rookie umbrella symbol";
+var mnemonic = "address clog nature crazy album night purchase fox fancy correct exile man";

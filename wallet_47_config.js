@@ -1,1 +1,1 @@
-var mnemonic = "neck ridge once burden frog boost voice menu walnut drip federal cigar";
+var mnemonic = "improve giraffe furnace soft target trim already hollow soup base edge apart";

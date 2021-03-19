@@ -1,1 +1,1 @@
-var mnemonic = "disagree victory isolate pink blur onion believe voyage pact hover mimic analyst";
+var mnemonic = "lunch rookie stand fury nasty van dog render auction brain fatigue slot";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk rebuild success gloom boil pool rich local nest join situate coach";
+var mnemonic = "joy vital easily keen finger matrix comic fox local silk cement mimic";

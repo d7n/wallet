@@ -1,1 +1,1 @@
-var mnemonic = "between consider easily input release stairs iron patrol kick pencil matrix width";
+var mnemonic = "glimpse must salmon smooth village desert soccer movie gather slam gift disorder";

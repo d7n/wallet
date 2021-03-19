@@ -1,1 +1,1 @@
-var mnemonic = "crop midnight birth trouble develop fog tide lawn beef umbrella machine unable";
+var mnemonic = "length machine orient calm always visa wing resource dinner say lab excite";

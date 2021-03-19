@@ -1,1 +1,1 @@
-var mnemonic = "act leaf consider already car upon upper motor unable ostrich diet one";
+var mnemonic = "buyer same home father cube middle pact slide bone major pool sunny";

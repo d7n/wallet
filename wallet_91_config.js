@@ -1,1 +1,1 @@
-var mnemonic = "satoshi flip distance slab drift actor barely attract fatigue invite kingdom cruel";
+var mnemonic = "grid nuclear trend retreat wide sell find peanut any hurdle visual early";

@@ -1,1 +1,1 @@
-var mnemonic = "room oval pupil hobby load kick awake scissors couch mountain exact among";
+var mnemonic = "smooth pottery rough tonight sibling rose enemy wasp stage crumble light hold";

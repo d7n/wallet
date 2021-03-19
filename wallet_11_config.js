@@ -1,1 +1,1 @@
-var mnemonic = "maze logic camera basket group shop cancel initial agent void flag year";
+var mnemonic = "eagle loan wire bleak access tortoise raccoon valley daughter stairs admit angry";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear south hip soul smoke mystery velvet door mask speak resist gasp";
+var mnemonic = "health vital pulse assault ripple song fluid pen split combine mammal hold";

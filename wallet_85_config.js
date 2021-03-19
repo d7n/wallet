@@ -1,1 +1,1 @@
-var mnemonic = "six omit voyage rifle accident hole minimum rely electric fix increase kangaroo";
+var mnemonic = "push input multiply prize spread ring boat edge raw route switch romance";

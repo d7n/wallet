@@ -1,1 +1,1 @@
-var mnemonic = "thank nothing pigeon claw link click ball damage share sing fence inflict";
+var mnemonic = "physical prefer naive lava polar unique news misery voyage physical novel puzzle";

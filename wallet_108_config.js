@@ -1,1 +1,1 @@
-var mnemonic = "rule cloth bench actress pulp wrestle review sausage diagram frog detect gift";
+var mnemonic = "risk accuse tide pond kit injury fire noodle office smart subject flower";

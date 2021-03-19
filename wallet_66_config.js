@@ -1,1 +1,1 @@
-var mnemonic = "bottom define hub real bleak often hazard cliff decline town banner this";
+var mnemonic = "security chaos huge wonder arena speed mom tenant trim side mixed exhibit";

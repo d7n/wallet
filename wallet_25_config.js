@@ -1,1 +1,1 @@
-var mnemonic = "route theory rebel order require wheel true certain february lesson owner domain";
+var mnemonic = "produce auction fortune notable gaze skate problem crash brick thumb assault page";

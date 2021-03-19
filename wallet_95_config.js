@@ -1,1 +1,1 @@
-var mnemonic = "virtual mutual street easy grid multiply rent insect sugar extra phone rent";
+var mnemonic = "sheriff indicate special yard shine elbow topple carbon smoke announce job meadow";

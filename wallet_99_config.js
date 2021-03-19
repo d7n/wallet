@@ -1,1 +1,1 @@
-var mnemonic = "salon grow airport milk ghost black derive canvas fantasy tragic kiwi fossil";
+var mnemonic = "save cream blue bullet river quit fatigue vendor decade tobacco capital pen";

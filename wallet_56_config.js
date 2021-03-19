@@ -1,1 +1,1 @@
-var mnemonic = "feed gather sentence refuse brother fat zero wide amount puppy valve vibrant";
+var mnemonic = "curtain price boring rapid sweet goddess holiday vocal demand nothing unusual fetch";

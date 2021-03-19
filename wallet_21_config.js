@@ -1,1 +1,1 @@
-var mnemonic = "surprise meadow pause december twice piano ability blame deposit normal barrel pattern";
+var mnemonic = "february vendor climb excite enact side claw ball judge flame idea speak";

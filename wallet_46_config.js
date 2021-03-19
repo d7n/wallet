@@ -1,1 +1,1 @@
-var mnemonic = "entry ketchup race famous attend member deliver uncle taste banana lend motor";
+var mnemonic = "panther scale piano motion mimic beauty intact capable wave stone invest monster";

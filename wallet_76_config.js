@@ -1,1 +1,1 @@
-var mnemonic = "piano tortoise dash control manual elite census typical chaos two midnight obey";
+var mnemonic = "deputy blur excuse later debate feed fiction copper inherit night wild wrap";

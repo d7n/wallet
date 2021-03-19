@@ -1,1 +1,1 @@
-var mnemonic = "clinic assist husband inject affair thought service dial axis ocean promote rare";
+var mnemonic = "outside april split polar frame explain trial jealous soap original pipe smile";

@@ -1,1 +1,1 @@
-var mnemonic = "auction maid gun act comfort foot clay hawk wage excite inside frozen";
+var mnemonic = "mimic equip fiscal estate height borrow sentence iron flight toilet include inform";

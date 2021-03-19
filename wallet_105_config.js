@@ -1,1 +1,1 @@
-var mnemonic = "write wish stick embark cheap ripple key deputy butter genre push track";
+var mnemonic = "armed palm inside index maximum skate sure clog weird hybrid glue manage";

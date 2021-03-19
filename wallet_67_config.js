@@ -1,1 +1,1 @@
-var mnemonic = "later churn lamp vast room attend miracle novel middle wheel foam math";
+var mnemonic = "swift minimum answer entire morning arch finish hockey space color cargo trial";

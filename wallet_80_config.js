@@ -1,1 +1,1 @@
-var mnemonic = "option citizen early bar bomb choose over weasel hawk clock fee midnight";
+var mnemonic = "chief future unusual edge wonder toe kiss ahead wolf shoot seat immune";

@@ -1,1 +1,1 @@
-var mnemonic = "essence employ similar coast icon cube nose pill album exhaust cycle video";
+var mnemonic = "betray elevator vessel angle party steel affair dynamic moral frequent crack early";

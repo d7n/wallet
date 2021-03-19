@@ -1,1 +1,1 @@
-var mnemonic = "desert snack sorry found link hybrid help portion winter text mosquito mango";
+var mnemonic = "oblige gain deliver fury arrest hotel drill burden outside print drive indoor";

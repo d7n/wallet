@@ -1,1 +1,1 @@
-var mnemonic = "ivory vicious sound rhythm embody tenant crew excuse coral brisk use bitter";
+var mnemonic = "cupboard million bar defense ring amused enter popular fever engage harbor degree";

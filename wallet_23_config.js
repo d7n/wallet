@@ -1,1 +1,1 @@
-var mnemonic = "monkey weekend poverty news mouse rail before message side bitter kid gain";
+var mnemonic = "top bottom drink fall spirit swamp excess fragile oxygen draw fiscal citizen";

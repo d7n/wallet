@@ -1,1 +1,1 @@
-var mnemonic = "mercy hospital life hazard marriage idea rice exclude title loyal nuclear liberty";
+var mnemonic = "pilot pizza tattoo kidney web palace face vivid into liquid hood reunion";

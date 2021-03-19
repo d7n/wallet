@@ -1,1 +1,1 @@
-var mnemonic = "fury exercise ladder chronic afraid unhappy tobacco carpet movie cousin smart slender";
+var mnemonic = "state melt woman marine left pause scene obscure attend health update laugh";

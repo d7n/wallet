@@ -1,1 +1,1 @@
-var mnemonic = "license sick payment canoe remind gallery alley virtual sand wonder require empower";
+var mnemonic = "smoke weasel term wear force wagon rabbit drum flock tongue fancy sea";

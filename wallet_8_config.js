@@ -1,1 +1,1 @@
-var mnemonic = "excite online pudding stick napkin actual welcome odor style vintage execute spike";
+var mnemonic = "accident child monster split ankle panther fence oval arrow evoke celery devote";

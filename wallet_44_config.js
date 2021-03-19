@@ -1,1 +1,1 @@
-var mnemonic = "under vibrant special sudden include device heart movie rapid crawl grit marriage";
+var mnemonic = "ordinary burger also saddle tool century puzzle nurse innocent father whip nerve";

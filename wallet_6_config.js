@@ -1,1 +1,1 @@
-var mnemonic = "raccoon sunny float high regular dwarf topple culture disorder renew unable unit";
+var mnemonic = "joy amazing other famous badge frown wonder icon capable search avocado coffee";

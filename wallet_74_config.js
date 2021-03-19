@@ -1,1 +1,1 @@
-var mnemonic = "bunker ladder muscle sample piece airport rally trouble arena end jaguar utility";
+var mnemonic = "nation group spread spread verify brother lock join remember strong fork sponsor";
