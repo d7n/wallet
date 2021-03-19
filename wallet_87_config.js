@@ -1,1 +1,1 @@
-var mnemonic = "again panel resemble antenna talent tide elephant arctic verify elephant mango must";
+var mnemonic = "flat liberty away gentle impose soft snake reward guilt repeat bulk blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "remain wrap fiction rifle element toss moon prevent patient wall shell age";
+var mnemonic = "laundry vehicle hawk blade key tattoo illegal bonus else success coyote family";

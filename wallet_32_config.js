@@ -1,1 +1,1 @@
-var mnemonic = "twist sorry album inquiry honey alert wolf decade maze common coffee calm";
+var mnemonic = "animal tragic point economy fiscal coconut prize hospital alcohol grace can device";

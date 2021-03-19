@@ -1,1 +1,1 @@
-var mnemonic = "never human ranch patient chunk isolate skin amused dune disagree select file";
+var mnemonic = "hole inmate ketchup envelope develop lock sad patrol knee fine van disagree";

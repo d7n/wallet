@@ -1,1 +1,1 @@
-var mnemonic = "cattle when sweet mountain scatter dust hard small harsh audit clown alien";
+var mnemonic = "possible wait build stay whale topple service inherit version prefer height ostrich";

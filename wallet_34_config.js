@@ -1,1 +1,1 @@
-var mnemonic = "affair gather such smile smoke avocado garment ski search birth autumn reflect";
+var mnemonic = "outer gain radio general render soon rubber struggle rocket cream buffalo entire";

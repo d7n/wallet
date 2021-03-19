@@ -1,1 +1,1 @@
-var mnemonic = "iron denial vacant balcony destroy benefit suffer clinic security power ladder exist";
+var mnemonic = "possible size valve cube canyon super ball science auction garden empty program";

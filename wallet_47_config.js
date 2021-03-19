@@ -1,1 +1,1 @@
-var mnemonic = "question produce trumpet maze pitch depend bleak mountain control north castle genre";
+var mnemonic = "ordinary south earth orange feed soda base demand solid gospel genuine enough";

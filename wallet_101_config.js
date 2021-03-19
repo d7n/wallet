@@ -1,1 +1,1 @@
-var mnemonic = "camera debate other outside educate year sample people hair annual exit hat";
+var mnemonic = "spray bike slide already ability ivory tribe choose fragile crater salt panther";

@@ -1,1 +1,1 @@
-var mnemonic = "need tomato uncover ramp winner pulse embark faith symbol response absorb tennis";
+var mnemonic = "surface ski wire sheriff clump capital three result relax soon street gloom";

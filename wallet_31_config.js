@@ -1,1 +1,1 @@
-var mnemonic = "mystery club yellow acquire cash pill scene episode marriage make record transfer";
+var mnemonic = "chest teach retreat robot toast belt breeze gossip rural deposit purity mandate";

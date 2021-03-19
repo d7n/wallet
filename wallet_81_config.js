@@ -1,1 +1,1 @@
-var mnemonic = "found other erase loud ketchup ripple globe truly physical fetch inhale choose";
+var mnemonic = "visit make fun vendor mom because average parade sniff certain figure indicate";

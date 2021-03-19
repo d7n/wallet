@@ -1,1 +1,1 @@
-var mnemonic = "pelican update seed away chest salon library pistol gadget bundle olive damage";
+var mnemonic = "mystery maple option broccoli name vanish analyst ensure fresh better math nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "topple dentist sunny energy minor hip mention warfare foot enforce divide joy";
+var mnemonic = "knife ripple walnut milk crisp way viable long mango festival lounge ship";

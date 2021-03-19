@@ -1,1 +1,1 @@
-var mnemonic = "lady chalk convince brisk major diesel hole powder inject wife ask double";
+var mnemonic = "danger latin crouch achieve alcohol museum burst hard hour tuition jewel snap";

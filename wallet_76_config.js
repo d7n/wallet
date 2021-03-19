@@ -1,1 +1,1 @@
-var mnemonic = "attend onion focus bamboo intact kitten cloth travel witness thrive cotton tomato";
+var mnemonic = "style spider brown detect lazy caution near coach keen secret resemble item";

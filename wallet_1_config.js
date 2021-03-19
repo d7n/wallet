@@ -1,1 +1,1 @@
-var mnemonic = "away cram body object employ hip gesture govern light raw six agent";
+var mnemonic = "display little hill example soldier can habit sudden often waste only jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "team word police misery gym web since moon able use pool nose";
+var mnemonic = "resource model million tiger guilt film wreck tree airport tonight tongue north";

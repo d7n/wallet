@@ -1,1 +1,1 @@
-var mnemonic = "picnic cloth rural describe turkey soft require payment category illegal dance indicate";
+var mnemonic = "share husband model render oxygen pledge afford napkin funny addict silly enable";

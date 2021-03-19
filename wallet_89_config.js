@@ -1,1 +1,1 @@
-var mnemonic = "pact dizzy alcohol random orphan nut path mass melt moment onion comfort";
+var mnemonic = "melt caution ice invite plug equip pear bachelor drill coffee cash return";

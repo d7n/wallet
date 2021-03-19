@@ -1,1 +1,1 @@
-var mnemonic = "dirt alone galaxy wall hip assist horn wisdom almost bid gallery business";
+var mnemonic = "bar absurd casino kite swear betray leader harbor afford unaware soup rally";

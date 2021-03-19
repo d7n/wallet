@@ -1,1 +1,1 @@
-var mnemonic = "amateur morning obtain smart once affair ritual misery leader cotton current still";
+var mnemonic = "brush island typical often ignore person list venture health cup anchor silk";

@@ -1,1 +1,1 @@
-var mnemonic = "desert decade first sentence frost sand figure else above ritual draw romance";
+var mnemonic = "universe follow follow muffin luggage spot panel knock author resource disorder inch";

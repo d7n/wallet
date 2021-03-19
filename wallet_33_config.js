@@ -1,1 +1,1 @@
-var mnemonic = "gossip void release cash across human spread menu action defy valve tell";
+var mnemonic = "fog forest salad coil spell aunt future slide leaf tail unit razor";

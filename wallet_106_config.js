@@ -1,1 +1,1 @@
-var mnemonic = "steel sock huge aware village bubble model water olympic goose fame cupboard";
+var mnemonic = "trust educate gas juice hour coral jazz tool birth they hat seat";

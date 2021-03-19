@@ -1,1 +1,1 @@
-var mnemonic = "other member clock unknown garlic violin angle umbrella actual vendor category half";
+var mnemonic = "harvest excuse hood monitor betray glove lawn panther topple abuse curve follow";

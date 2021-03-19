@@ -1,1 +1,1 @@
-var mnemonic = "manual noble nasty idle artwork nurse fun afraid village breeze bracket type";
+var mnemonic = "baby senior what discover hedgehog fever cabbage hero general story garden pony";

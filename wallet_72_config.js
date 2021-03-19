@@ -1,1 +1,1 @@
-var mnemonic = "scale often ghost pottery web rebuild bulk twenty team one audit erode";
+var mnemonic = "crew ghost sign walk waste scatter escape proud settle gravity wonder gate";

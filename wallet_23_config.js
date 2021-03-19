@@ -1,1 +1,1 @@
-var mnemonic = "scrub typical achieve purity you ethics young february mango crazy link ugly";
+var mnemonic = "trigger you fruit lonely flame stamp render immense economy market glow zoo";

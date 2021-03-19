@@ -1,1 +1,1 @@
-var mnemonic = "under fit curtain hurry derive today goose flee cabbage sugar surface solid";
+var mnemonic = "travel clever eager negative craft enemy sadness evidence try purity bottom swamp";

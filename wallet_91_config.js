@@ -1,1 +1,1 @@
-var mnemonic = "mouse hub flash witness neither soul egg gather trouble grocery junk scare";
+var mnemonic = "spot glimpse champion daring perfect bamboo alert mirror zoo action local wonder";

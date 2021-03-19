@@ -1,1 +1,1 @@
-var mnemonic = "exercise walnut auction soap echo grape dizzy another oxygen section faint fluid";
+var mnemonic = "road wage hidden crater owner dinosaur unable nurse habit mask table dress";

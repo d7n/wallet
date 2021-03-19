@@ -1,1 +1,1 @@
-var mnemonic = "table level sound skate vote argue flat noodle pencil follow load rose";
+var mnemonic = "arctic dizzy bullet copper own demise bless near federal transfer nation catalog";

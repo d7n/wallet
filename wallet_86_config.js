@@ -1,1 +1,1 @@
-var mnemonic = "ketchup hen unable science hat envelope phone flavor truck below ill bargain";
+var mnemonic = "canvas flower earth rule skull wheel frequent art tissue mobile electric milk";

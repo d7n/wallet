@@ -1,1 +1,1 @@
-var mnemonic = "country undo palm sketch version shallow method spot assist message feed slide";
+var mnemonic = "round provide concert insect negative hungry void amount sadness leopard citizen dinosaur";

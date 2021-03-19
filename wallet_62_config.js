@@ -1,1 +1,1 @@
-var mnemonic = "episode inmate salmon reason life catch emerge wood tone light dwarf library";
+var mnemonic = "identify police board kitten adult scout clean captain butter renew whale clock";

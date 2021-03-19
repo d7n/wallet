@@ -1,1 +1,1 @@
-var mnemonic = "nephew security depend world busy orphan indicate faith reason vendor common finger";
+var mnemonic = "already heart license puppy noodle relax sand army ivory disorder vivid suspect";

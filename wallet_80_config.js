@@ -1,1 +1,1 @@
-var mnemonic = "gesture satoshi stick father path mother accuse because top gaze curtain nurse";
+var mnemonic = "audit road typical mobile antique blame salute spawn find wine auction giggle";

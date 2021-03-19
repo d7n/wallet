@@ -1,1 +1,1 @@
-var mnemonic = "solid border minor baby offer type load require ramp come ribbon adult";
+var mnemonic = "real one agent spirit water vital book conduct announce gift weapon rigid";

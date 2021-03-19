@@ -1,1 +1,1 @@
-var mnemonic = "climb scan country subway rail steak culture office fury cabbage safe person";
+var mnemonic = "pink stable spoil drill draft fox share blur novel steak flee obscure";

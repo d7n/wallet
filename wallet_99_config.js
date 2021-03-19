@@ -1,1 +1,1 @@
-var mnemonic = "spider matrix useless stairs measure drift accuse word heart gloom lazy gas";
+var mnemonic = "material slice rookie general guess hire control index guilt pact board recycle";

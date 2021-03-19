@@ -1,1 +1,1 @@
-var mnemonic = "life snap rookie fiscal crouch nerve pill uncle negative bounce south grunt";
+var mnemonic = "pool confirm mutual damp position grace receive kidney idea used visa floor";

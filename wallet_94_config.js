@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow outer provide gospel common rebuild way athlete foster hand gown hire";
+var mnemonic = "noodle stereo penalty barrel east viable pull wrong tackle fan chapter entry";

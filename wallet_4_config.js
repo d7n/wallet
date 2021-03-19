@@ -1,1 +1,1 @@
-var mnemonic = "garbage horse clown buyer sell capable elite message shift submit obey genuine";
+var mnemonic = "west tower rather gown maze sustain pink million atom wealth mean kidney";

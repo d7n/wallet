@@ -1,1 +1,1 @@
-var mnemonic = "mixture token market salt glove warm carpet rate sister village desert simple";
+var mnemonic = "accuse excite chapter service myself nothing tobacco answer fossil force youth worth";

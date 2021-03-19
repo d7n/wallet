@@ -1,1 +1,1 @@
-var mnemonic = "buyer coach stand brass deny saddle ivory gospel social depth pigeon time";
+var mnemonic = "zebra express dwarf legend venture enhance embark suspect subject poem bus laptop";

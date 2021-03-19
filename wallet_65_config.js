@@ -1,1 +1,1 @@
-var mnemonic = "copy twenty keen sight winter wealth develop firm damage joke easily social";
+var mnemonic = "coil evil melt scare lake face tired oyster dawn hard correct table";

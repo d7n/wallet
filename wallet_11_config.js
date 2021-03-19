@@ -1,1 +1,1 @@
-var mnemonic = "impact text tribe street delay print alien fashion immune fine palm image";
+var mnemonic = "focus absent crew race solve until modify bench hamster grit avocado walnut";

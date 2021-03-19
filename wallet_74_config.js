@@ -1,1 +1,1 @@
-var mnemonic = "asthma play clean consider certain whale swamp act theme cost repeat end";
+var mnemonic = "office aisle donor chapter because chest pole cruise fluid shaft van happy";

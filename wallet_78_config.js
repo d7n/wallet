@@ -1,1 +1,1 @@
-var mnemonic = "zone wage cushion birth damage section wrong loud utility net right diesel";
+var mnemonic = "add disagree system ten solve angle either broccoli smart favorite total service";

@@ -1,1 +1,1 @@
-var mnemonic = "river tortoise one awake wink price target skill hundred wash feed kidney";
+var mnemonic = "blood sausage stomach sketch still tuition silent brisk decorate cherry scorpion short";

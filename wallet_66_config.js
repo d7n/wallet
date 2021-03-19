@@ -1,1 +1,1 @@
-var mnemonic = "oyster diary hat tape woman wrap vehicle try switch reunion tiger aunt";
+var mnemonic = "tumble rather leopard hobby door danger float abstract absurd fiber exhibit please";

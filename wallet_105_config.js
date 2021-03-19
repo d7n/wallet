@@ -1,1 +1,1 @@
-var mnemonic = "reopen toilet antique melt ribbon coral peace nest sustain audit pride flavor";
+var mnemonic = "ripple benefit runway excuse naive wish electric labor elbow organ inch hurt";

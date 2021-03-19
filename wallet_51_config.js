@@ -1,1 +1,1 @@
-var mnemonic = "border capital disagree across avocado knife young borrow hamster three fold weird";
+var mnemonic = "month zoo cruise explain bright once insane junior cave cargo matrix march";

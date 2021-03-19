@@ -1,1 +1,1 @@
-var mnemonic = "typical frog verify family cook swift square delay school cook cost naive";
+var mnemonic = "sock rail loud pink roof hen palm ripple nurse potato degree task";

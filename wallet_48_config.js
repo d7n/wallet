@@ -1,1 +1,1 @@
-var mnemonic = "state project chase tide chicken raven roast lunar mail polar wage sad";
+var mnemonic = "daring quote payment gift prize prison arm apple tennis economy speak friend";

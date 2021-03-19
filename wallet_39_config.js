@@ -1,1 +1,1 @@
-var mnemonic = "earn exhaust funny retire veteran bracket consider buzz advance tuition donkey sauce";
+var mnemonic = "cheap cry road valley interest clarify duty scene shoulder winner try repair";

@@ -1,1 +1,1 @@
-var mnemonic = "enable raw pet distance news clump charge wasp sponsor gift cycle public";
+var mnemonic = "tray oval funny term entry door fork hedgehog chunk fat mail practice";

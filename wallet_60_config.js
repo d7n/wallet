@@ -1,1 +1,1 @@
-var mnemonic = "asthma parent ozone avocado chase match motor wagon guard amateur sketch about";
+var mnemonic = "remain elbow cause common ready purity guard opinion fault amount category remember";

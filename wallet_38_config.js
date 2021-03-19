@@ -1,1 +1,1 @@
-var mnemonic = "easily reopen clock plate hundred method illness resist ancient plastic dish purity";
+var mnemonic = "rug belt plastic smile tuna develop caught nephew champion light account eight";

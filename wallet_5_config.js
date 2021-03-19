@@ -1,1 +1,1 @@
-var mnemonic = "horse someone magnet minimum shrug swallow amateur shadow metal brass recycle gallery";
+var mnemonic = "arrive dignity rain ripple office valley garage letter write owner twin hidden";

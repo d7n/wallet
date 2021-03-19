@@ -1,1 +1,1 @@
-var mnemonic = "brush auction document asset nature aware zoo fashion defy comfort connect teach";
+var mnemonic = "voyage metal decorate small grunt pill square mean hill sudden alley breeze";

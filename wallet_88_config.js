@@ -1,1 +1,1 @@
-var mnemonic = "undo ugly galaxy butter mixture pride crater pair safe rain garment ecology";
+var mnemonic = "anger piece logic crazy symbol consider old kangaroo rocket bag solar phone";

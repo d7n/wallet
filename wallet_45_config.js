@@ -1,1 +1,1 @@
-var mnemonic = "yellow slide capital affair portion census praise banner fork focus tackle actress";
+var mnemonic = "brand fetch midnight solution increase win fall brand clump wonder drill truck";

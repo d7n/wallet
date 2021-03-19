@@ -1,1 +1,1 @@
-var mnemonic = "size panther impulse perfect parrot donate olympic layer price swift income invite";
+var mnemonic = "solid case board play salt topple dawn goose edge confirm fabric manual";

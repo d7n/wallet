@@ -1,1 +1,1 @@
-var mnemonic = "play input brain end flag volcano giraffe eternal marine mushroom first hobby";
+var mnemonic = "behave expand drip tube session choose kiwi episode protect twelve remove evolve";

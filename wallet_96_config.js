@@ -1,1 +1,1 @@
-var mnemonic = "blast cake prize across aunt object eyebrow person sand icon obtain onion";
+var mnemonic = "add little olympic peanut act portion inquiry web trend already puppy shock";

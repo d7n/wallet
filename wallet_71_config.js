@@ -1,1 +1,1 @@
-var mnemonic = "yellow tilt science holiday empty fever disagree pigeon double absurd there erase";
+var mnemonic = "orange put style control planet allow casino grant forward undo make version";

@@ -1,1 +1,1 @@
-var mnemonic = "subway bronze gown lawn pear exchange mad duty rail token alert whisper";
+var mnemonic = "cycle cheese topic tag truly kick keep glue hidden there broccoli rib";

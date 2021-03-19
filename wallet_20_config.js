@@ -1,1 +1,1 @@
-var mnemonic = "pair topic vast angry sister tuition snack cotton boat fan treat thunder";
+var mnemonic = "select hurry dilemma eye rose custom square outer inherit pony walnut debate";

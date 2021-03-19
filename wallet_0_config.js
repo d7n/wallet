@@ -1,1 +1,1 @@
-var mnemonic = "horn damp bomb state work unveil drip razor pave regular february suit";
+var mnemonic = "garage accuse inherit surge engine arrest relief bless family reflect bachelor tower";

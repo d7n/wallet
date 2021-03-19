@@ -1,1 +1,1 @@
-var mnemonic = "behind lava jealous super agent lemon coast spy illegal eight fit style";
+var mnemonic = "mosquito ask direct wealth mushroom gesture feature already west laptop extra box";

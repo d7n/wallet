@@ -1,1 +1,1 @@
-var mnemonic = "bench chicken abstract jeans entire push budget salmon banner cycle green twin";
+var mnemonic = "cricket awkward solid spread bulb afford matter yard funny truth soon produce";

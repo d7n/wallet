@@ -1,1 +1,1 @@
-var mnemonic = "kitchen young anchor buzz credit harsh blush trade sort carry busy drip";
+var mnemonic = "dash volume elite echo test sibling cup human vocal manage marine lunar";

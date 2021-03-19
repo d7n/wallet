@@ -1,1 +1,1 @@
-var mnemonic = "produce involve toss coast dose robot cage water sight dismiss kingdom color";
+var mnemonic = "curious test salon wealth skull dynamic deny sustain bargain ecology escape fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "charge gown eternal virtual pull evil helmet cruise transfer celery entry goddess";
+var mnemonic = "marble organ like chair eyebrow equal hire father yellow observe slim cannon";

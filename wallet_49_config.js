@@ -1,1 +1,1 @@
-var mnemonic = "magic file year stand sting quiz joy submit helmet violin school address";
+var mnemonic = "satoshi path ranch labor mean gasp actress start wonder payment fish miracle";

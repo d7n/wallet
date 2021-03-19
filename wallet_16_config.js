@@ -1,1 +1,1 @@
-var mnemonic = "force doll olympic rather develop infant rate fork select sock degree dismiss";
+var mnemonic = "confirm match inflict total detect prison boss usage define color desert female";

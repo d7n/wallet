@@ -1,1 +1,1 @@
-var mnemonic = "diet harbor viable country lawsuit addict hotel oxygen slow post current bleak";
+var mnemonic = "carpet mother trap allow sphere minute spend rice panic perfect write alter";

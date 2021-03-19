@@ -1,1 +1,1 @@
-var mnemonic = "age quit face lion scene scale grit catalog success dish cushion home";
+var mnemonic = "habit chuckle cable garden sure bird lens sign novel tired defense health";

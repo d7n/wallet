@@ -1,1 +1,1 @@
-var mnemonic = "idle soul embrace phone front bubble park invest doll salute empty carpet";
+var mnemonic = "predict hero urban legend slogan glow member loan misery inquiry foil inquiry";

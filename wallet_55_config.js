@@ -1,1 +1,1 @@
-var mnemonic = "chimney tenant sword legend gap canyon stuff wave sentence spatial scissors woman";
+var mnemonic = "item pink visit funny pause under jungle spread before soap pudding desert";

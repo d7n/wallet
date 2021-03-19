@@ -1,1 +1,1 @@
-var mnemonic = "monitor monitor you visit hidden guitar birth layer inherit okay chapter riot";
+var mnemonic = "average system couple know attract truck family artist van humor retreat modify";

@@ -1,1 +1,1 @@
-var mnemonic = "echo gauge layer amateur mind soup roof blame turkey drill farm conduct";
+var mnemonic = "system alert allow spend bounce kind myself near volcano weather derive luxury";

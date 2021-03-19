@@ -1,1 +1,1 @@
-var mnemonic = "sauce join clay pony dice jaguar mention figure round bacon absorb sort";
+var mnemonic = "brush foam educate desk knee squeeze canoe uncle flip sugar foot service";

@@ -1,1 +1,1 @@
-var mnemonic = "off weapon license foster famous once crane isolate resist student park hard";
+var mnemonic = "scan suffer audit spin verify fancy remove copy brief raven goose tuna";

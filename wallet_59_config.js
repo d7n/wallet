@@ -1,1 +1,1 @@
-var mnemonic = "crime benefit dragon fiscal crazy mushroom hundred client hollow sing segment middle";
+var mnemonic = "monkey damp nuclear pink donor letter you tank shine satisfy fork praise";

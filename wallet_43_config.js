@@ -1,1 +1,1 @@
-var mnemonic = "jelly dutch cost isolate happy auction betray ostrich heavy nose scheme amused";
+var mnemonic = "kitten library very sadness sentence safe endorse pull seminar release friend aspect";

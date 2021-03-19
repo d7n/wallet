@@ -1,1 +1,1 @@
-var mnemonic = "pass palm wrong destroy hint panic gate able local fetch render butter";
+var mnemonic = "man barely lounge ribbon mushroom always copper vicious author olive inner glare";

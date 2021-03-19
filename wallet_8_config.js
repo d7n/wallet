@@ -1,1 +1,1 @@
-var mnemonic = "multiply peace attract sketch body raise park riot donkey bench number match";
+var mnemonic = "total cement bind neither eagle ivory lecture online mask monitor transfer sail";

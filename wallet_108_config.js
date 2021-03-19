@@ -1,1 +1,1 @@
-var mnemonic = "young play cactus chunk second barrel possible bulk orient feel fatigue history";
+var mnemonic = "run forget stereo describe slot join best april basic trial wheat dove";
