@@ -1,1 +1,1 @@
-var mnemonic = "vault rib holiday advance minute guard call hood radar ribbon gloom tube";
+var mnemonic = "stereo behave another egg fossil december orchard secret marine execute pair return";

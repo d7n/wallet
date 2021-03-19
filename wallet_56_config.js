@@ -1,1 +1,1 @@
-var mnemonic = "arch crawl sun system sponsor hand credit output trigger bamboo firm anxiety";
+var mnemonic = "dizzy remove strategy daring talent rude daring thumb tone surface puzzle rice";

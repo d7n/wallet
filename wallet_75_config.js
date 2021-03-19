@@ -1,1 +1,1 @@
-var mnemonic = "various tiger party permit weasel fire square absent junior obtain curve globe";
+var mnemonic = "hazard easy either slush glue all digital cherry leave sphere rookie recall";

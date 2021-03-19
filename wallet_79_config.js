@@ -1,1 +1,1 @@
-var mnemonic = "primary useless solid laundry typical hotel bottom autumn brush fragile evidence decide";
+var mnemonic = "topple delay observe analyst lyrics blast regret glide journey jewel news anger";

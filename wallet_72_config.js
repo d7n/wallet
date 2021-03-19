@@ -1,1 +1,1 @@
-var mnemonic = "antenna chef violin undo aware coast desert cross prison simple plug destroy";
+var mnemonic = "can busy tackle mirror sudden scissors differ clay pistol battle coral melt";

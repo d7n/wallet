@@ -1,1 +1,1 @@
-var mnemonic = "frost embody parrot race mango cupboard above clump again fresh rebel myself";
+var mnemonic = "zero myth tissue donor rent solve juice glass outside violin design reason";

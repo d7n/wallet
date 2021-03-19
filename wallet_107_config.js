@@ -1,1 +1,1 @@
-var mnemonic = "argue save mountain salon sun then second champion unit comic dance ice";
+var mnemonic = "nut island air melody ski test brown bomb dwarf elbow pepper middle";

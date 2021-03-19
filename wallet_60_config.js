@@ -1,1 +1,1 @@
-var mnemonic = "desk adult music destroy satisfy moral three apology eight credit donor unit";
+var mnemonic = "sense fitness margin caution mass renew degree eagle hurry abandon sibling erode";

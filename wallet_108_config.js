@@ -1,1 +1,1 @@
-var mnemonic = "people erase opinion fruit buffalo meadow differ festival calm secret bulb supply";
+var mnemonic = "waste robust female curious radio tilt media system stable glad boy alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "excess outside penalty spell fiction estate boost voyage jelly connect engage grid";
+var mnemonic = "blouse forget crush cotton chase rotate jealous whisper travel modify then razor";

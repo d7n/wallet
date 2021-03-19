@@ -1,1 +1,1 @@
-var mnemonic = "very return total family follow maid funny struggle afraid vendor another vintage";
+var mnemonic = "gather slide fire alien answer goose typical melody rail flag maple during";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon board rare hockey idea dumb entire combine ethics subject funny believe";
+var mnemonic = "shield dumb grid guess matrix castle odor often music connect image black";

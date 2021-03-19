@@ -1,1 +1,1 @@
-var mnemonic = "mosquito know post cat tooth penalty attend luxury bronze radar evil omit";
+var mnemonic = "typical can scale half fluid kind mind found wild slot catalog vital";

@@ -1,1 +1,1 @@
-var mnemonic = "card yard order cute frog unable soul summer level favorite purpose display";
+var mnemonic = "exhaust garden blast moral wife today damage lion blind surface whisper swim";

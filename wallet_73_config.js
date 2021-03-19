@@ -1,1 +1,1 @@
-var mnemonic = "report grace hope girl congress faculty dash ceiling home minute large wool";
+var mnemonic = "mask sweet busy possible change enact grant pass weekend firm excuse august";

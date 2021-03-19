@@ -1,1 +1,1 @@
-var mnemonic = "crash live base evil answer must lobster grab toward boost pause fiction";
+var mnemonic = "embark winter layer ginger minimum enlist ethics regular school cactus enemy zero";

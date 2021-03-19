@@ -1,1 +1,1 @@
-var mnemonic = "uniform glimpse vacuum shrimp shadow future current leisure diagram strong process brisk";
+var mnemonic = "govern adult nurse smile spray apart soda stove post surround inject wrong";

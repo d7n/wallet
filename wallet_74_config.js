@@ -1,1 +1,1 @@
-var mnemonic = "steel isolate absurd receive noble roast estate giggle usual frog cage fortune";
+var mnemonic = "chalk dice impact fury december answer about obvious reform armor number great";

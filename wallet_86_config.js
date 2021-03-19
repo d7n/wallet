@@ -1,1 +1,1 @@
-var mnemonic = "luxury you across ocean drill hip weekend reason stand brisk barely spoil";
+var mnemonic = "waste multiply oak absurd surge program program wagon claw witness grunt own";

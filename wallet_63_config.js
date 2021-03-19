@@ -1,1 +1,1 @@
-var mnemonic = "situate dash route wonder mercy quit creek scatter hen law aisle baby";
+var mnemonic = "manual false harbor tiger tent budget dash supreme agree spatial ice orbit";

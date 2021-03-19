@@ -1,1 +1,1 @@
-var mnemonic = "talent boss swap voyage mass glance spoil glimpse useless legend field scrub";
+var mnemonic = "text sock shaft defy evolve surprise kick call grid other glue average";

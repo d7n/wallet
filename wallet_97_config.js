@@ -1,1 +1,1 @@
-var mnemonic = "patrol thumb oblige brush visit option saddle shell media lion stool clump";
+var mnemonic = "alter layer another weekend trash three logic loan tornado trust suspect screen";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake broom exit kitten notice agent flat merry palace vintage route tag";
+var mnemonic = "equal among swear ensure cup harsh coffee flower explain found fox enrich";

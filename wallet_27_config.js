@@ -1,1 +1,1 @@
-var mnemonic = "tunnel silver open negative vault nest oppose ranch defense diesel actual squeeze";
+var mnemonic = "coral enough merry another cliff capable beauty collect priority card donor theory";

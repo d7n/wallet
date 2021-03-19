@@ -1,1 +1,1 @@
-var mnemonic = "quarter photo mule annual desert token junk destroy shed power ozone depth";
+var mnemonic = "deputy crisp reduce upper impact science used festival quarter enough hawk spike";

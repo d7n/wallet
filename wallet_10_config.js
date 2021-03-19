@@ -1,1 +1,1 @@
-var mnemonic = "solar isolate vault domain laugh legend sniff lesson weasel depth essence potato";
+var mnemonic = "wrap slight vague fruit garbage mutual purity tobacco wrap zero walnut filter";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing obey grant indoor loop advance pupil bubble tonight announce fruit attend";
+var mnemonic = "lava craft seven suggest prize release material hand pigeon observe slow toward";

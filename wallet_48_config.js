@@ -1,1 +1,1 @@
-var mnemonic = "salute maze black maze suspect level razor pond utility glance salad wise";
+var mnemonic = "wonder away pull crisp inflict wave hospital merit trick exit giant ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "future toddler awkward taxi genius uncover inhale height despair wreck leopard reason";
+var mnemonic = "huge name sample achieve doll visual oblige paper body office reveal family";

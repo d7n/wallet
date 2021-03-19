@@ -1,1 +1,1 @@
-var mnemonic = "love pony broom steel suggest diagram again exotic ticket series myself embark";
+var mnemonic = "solid volume setup bitter shoulder black arrive velvet sea energy broom disease";

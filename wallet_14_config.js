@@ -1,1 +1,1 @@
-var mnemonic = "rude indoor salad until giggle trip lemon crazy circle absorb youth cat";
+var mnemonic = "weasel crazy often inherit element left humor absent ginger explain can tag";

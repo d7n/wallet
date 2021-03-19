@@ -1,1 +1,1 @@
-var mnemonic = "awake tired column spice math assume destroy wheat tent betray report rhythm";
+var mnemonic = "hammer inflict awake term seek cancel prison predict load chunk enable curious";

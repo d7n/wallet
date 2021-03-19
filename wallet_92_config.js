@@ -1,1 +1,1 @@
-var mnemonic = "excuse fall knock wagon solution bridge lava element avoid catch avoid word";
+var mnemonic = "wild culture summer aim early lady reveal trim combine congress avoid apology";

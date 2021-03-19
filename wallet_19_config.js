@@ -1,1 +1,1 @@
-var mnemonic = "into verify base shove run tribe food relax great left wave match";
+var mnemonic = "misery spare donor public wheel jeans couple vacant mystery accident need cement";

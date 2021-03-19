@@ -1,1 +1,1 @@
-var mnemonic = "stereo radio only picture earth work defy fault keep walk staff today";
+var mnemonic = "announce split glare screen rely amount prefer paper heavy envelope foil noodle";

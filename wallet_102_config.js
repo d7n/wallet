@@ -1,1 +1,1 @@
-var mnemonic = "spirit desk clog shiver shuffle donkey opera steak tail liquid issue echo";
+var mnemonic = "velvet lunch develop crouch pulse egg hill castle lyrics cousin swarm foot";

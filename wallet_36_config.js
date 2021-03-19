@@ -1,1 +1,1 @@
-var mnemonic = "boss round shallow style curious acoustic volcano auction victory glue web always";
+var mnemonic = "awesome exist city card frown display inch visa model above vintage repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "rice print letter car physical hotel run eager girl sleep card few";
+var mnemonic = "boy woman clever grain media simple lawsuit theory author unlock cool bracket";

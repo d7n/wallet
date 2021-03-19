@@ -1,1 +1,1 @@
-var mnemonic = "task traffic chunk taxi verify track evoke fish strike explain style early";
+var mnemonic = "more rug average box chapter typical train anger gain toilet surprise stomach";

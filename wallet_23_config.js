@@ -1,1 +1,1 @@
-var mnemonic = "cake crop client adapt worth dwarf art utility measure anxiety screen debris";
+var mnemonic = "upset civil rigid satisfy spirit oppose clerk toss gown skate venue off";

@@ -1,1 +1,1 @@
-var mnemonic = "feature betray brain scare scrap mesh stone carpet produce kiss extra acid";
+var mnemonic = "drastic one boat index nominee broken option eagle fabric rack increase jar";

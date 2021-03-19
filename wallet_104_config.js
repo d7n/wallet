@@ -1,1 +1,1 @@
-var mnemonic = "pill door noodle valley grace have clutch violin fire economy solve cinnamon";
+var mnemonic = "among smoke element select task finger frost empty knock coin around breeze";

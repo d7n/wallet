@@ -1,1 +1,1 @@
-var mnemonic = "dress wife floor detail quality moment virtual learn horror render page spring";
+var mnemonic = "receive fit original woman mind behind fetch civil spawn ecology gold school";

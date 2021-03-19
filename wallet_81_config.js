@@ -1,1 +1,1 @@
-var mnemonic = "humble verb snake help latin noise they extra blossom shy alter print";
+var mnemonic = "pig scrub medal keen small black kind firm person gadget impact permit";

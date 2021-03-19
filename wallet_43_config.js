@@ -1,1 +1,1 @@
-var mnemonic = "vacuum method giant employ matter mansion dust range fee erosion fantasy bargain";
+var mnemonic = "wide lumber hybrid sister ugly enact vintage west later uphold bind series";

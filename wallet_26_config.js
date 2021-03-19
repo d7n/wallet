@@ -1,1 +1,1 @@
-var mnemonic = "doctor bag buzz viable tired modify rely husband immune armed parade hole";
+var mnemonic = "wave hair total run moral half pupil wolf sound mail gospel quiz";

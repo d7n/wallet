@@ -1,1 +1,1 @@
-var mnemonic = "shine shuffle bounce series relief diamond runway weapon trophy punch team usual";
+var mnemonic = "brand merry avocado ocean tape whale lake indoor super state poet father";

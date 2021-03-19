@@ -1,1 +1,1 @@
-var mnemonic = "family fade surprise obvious memory all hidden degree police morning rather shell";
+var mnemonic = "novel mixed price capital cereal wet ice move powder laptop describe vacant";

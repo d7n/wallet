@@ -1,1 +1,1 @@
-var mnemonic = "earn owner tail stereo prosper pony trial margin thunder snack grid stand";
+var mnemonic = "proof amused alien invest wink hello battle mixed giggle bird settle page";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet awesome board bench bridge gallery protect announce fan urban yard reform";
+var mnemonic = "stereo plastic giraffe gap sure crop penalty mango candy bag manage deer";

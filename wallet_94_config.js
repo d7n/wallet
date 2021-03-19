@@ -1,1 +1,1 @@
-var mnemonic = "cabbage end dutch damp flee run scale age fetch drama fade seek";
+var mnemonic = "opera heavy hybrid pilot choice direct sketch drama scorpion order summer squeeze";

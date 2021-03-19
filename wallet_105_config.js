@@ -1,1 +1,1 @@
-var mnemonic = "knock arrest tent ready blur employ brass drama smoke sibling diary old";
+var mnemonic = "spy blood question jelly picture mixed powder sword scale provide hazard random";

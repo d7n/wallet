@@ -1,1 +1,1 @@
-var mnemonic = "swim party strike skin coyote pistol indicate crush image stadium romance foot";
+var mnemonic = "either boss clarify panic rare liar enemy empower patch glory donor hurt";

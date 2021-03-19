@@ -1,1 +1,1 @@
-var mnemonic = "hobby dream between unit cycle matrix frown hole any deer inject range";
+var mnemonic = "misery toward battle spin tip track disagree doll virus today arrest anchor";

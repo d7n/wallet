@@ -1,1 +1,1 @@
-var mnemonic = "rough deal write broccoli funny burst head visual city shell wagon beauty";
+var mnemonic = "people hat say fury lunar speak rent sphere stomach bomb anger rabbit";

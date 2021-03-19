@@ -1,1 +1,1 @@
-var mnemonic = "speed vintage exhaust response item brown trap today art silk risk verify";
+var mnemonic = "stairs over float metal swarm first metal rookie guilt fatal illness grace";

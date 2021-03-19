@@ -1,1 +1,1 @@
-var mnemonic = "bring wise series swim maple alert elephant lounge dove sugar immense canoe";
+var mnemonic = "entry wolf vapor virtual leopard harbor gas fiber risk ridge frown feature";

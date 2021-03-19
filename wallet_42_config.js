@@ -1,1 +1,1 @@
-var mnemonic = "robot estate age spoil mail ecology cute mammal shift price hero teach";
+var mnemonic = "danger axis chef desk carpet creek orchard huge heavy goose hurt dumb";

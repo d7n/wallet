@@ -1,1 +1,1 @@
-var mnemonic = "buddy such melt flee kite stand like clump coconut oppose turn tunnel";
+var mnemonic = "silly club conduct hobby toward machine capital despair digital issue attract announce";

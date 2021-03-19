@@ -1,1 +1,1 @@
-var mnemonic = "mammal body install photo element purse this diesel limit rose top home";
+var mnemonic = "angry quick weather satoshi across absorb wisdom actual uncover spider record result";

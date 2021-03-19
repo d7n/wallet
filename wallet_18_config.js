@@ -1,1 +1,1 @@
-var mnemonic = "satoshi enroll punch rude mimic extend song smooth elevator anxiety three invest";
+var mnemonic = "column rose comic wise room bus stamp alley yard actual source about";

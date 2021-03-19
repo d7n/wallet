@@ -1,1 +1,1 @@
-var mnemonic = "road few benefit prosper fault pencil shrimp habit catalog end upper domain";
+var mnemonic = "bacon license success problem give cool element awake frost physical capable alter";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote knock acid invite strike what foster fancy funny drum book steel";
+var mnemonic = "dinner clog visual number east pudding sword evolve cage regular spring kid";

@@ -1,1 +1,1 @@
-var mnemonic = "begin viable mutual trade page disorder goddess equip child pen flight cabin";
+var mnemonic = "phrase medal differ want corn dish library private upper peace river recipe";

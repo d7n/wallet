@@ -1,1 +1,1 @@
-var mnemonic = "leader act learn true rug hat neutral speed caught become quality few";
+var mnemonic = "craft kitten carry poverty tonight alter junk scout spy city symbol filter";

@@ -1,1 +1,1 @@
-var mnemonic = "rent typical crunch clinic pole magnet airport mass dry impulse beach tuition";
+var mnemonic = "wash enable bicycle essay merry zebra sell sight fault tiger cart ahead";

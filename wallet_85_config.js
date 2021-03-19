@@ -1,1 +1,1 @@
-var mnemonic = "erosion blade slow globe skate biology odor sugar olympic helmet jar any";
+var mnemonic = "crash object claw tube kick film artist cherry cement truth electric secret";

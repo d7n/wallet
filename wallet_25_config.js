@@ -1,1 +1,1 @@
-var mnemonic = "awkward cruise can object frame ethics devote clump slogan illness provide nice";
+var mnemonic = "choose suggest weather blind dumb today lyrics farm alter pet trophy coil";

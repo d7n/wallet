@@ -1,1 +1,1 @@
-var mnemonic = "mirror nest baby save today october glue midnight oxygen waste oven you";
+var mnemonic = "birth repeat mad skill sugar border muscle skin old bacon brown chronic";

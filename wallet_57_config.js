@@ -1,1 +1,1 @@
-var mnemonic = "dose science boring vital wife art image motion disorder purse interest plastic";
+var mnemonic = "fish van misery festival digital loan wood hotel verify tape make brick";

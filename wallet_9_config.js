@@ -1,1 +1,1 @@
-var mnemonic = "jump case outer night enjoy surprise clock agree brief recycle stick nest";
+var mnemonic = "isolate cushion bulb glory bleak cave remember museum shuffle expose deposit divorce";

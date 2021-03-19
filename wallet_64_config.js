@@ -1,1 +1,1 @@
-var mnemonic = "crowd announce rapid era supreme silver bulb safe hair retire canal alpha";
+var mnemonic = "book october keen cute sick mystery pact math flat evil sure vocal";

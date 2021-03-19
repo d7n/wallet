@@ -1,1 +1,1 @@
-var mnemonic = "object raw cash cart panther neither filter misery tennis name filter topic";
+var mnemonic = "year quote bottom brave wife leaf interest question sorry picture umbrella entire";

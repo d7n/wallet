@@ -1,1 +1,1 @@
-var mnemonic = "point vague sunset swim lottery drastic wise burst panther crop army ozone";
+var mnemonic = "square earth flock tree rotate catalog budget balcony cost motor peasant apology";

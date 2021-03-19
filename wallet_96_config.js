@@ -1,1 +1,1 @@
-var mnemonic = "suffer pull raw matrix urban supply fix photo whisper winter cruel around";
+var mnemonic = "chicken census umbrella tissue genuine detail marble differ panel become web grape";

@@ -1,1 +1,1 @@
-var mnemonic = "tool tomato quit kidney horror flee permit script surprise chuckle purchase tide";
+var mnemonic = "wide expand crane supply valley cheese exhibit curious hurt jelly elegant tribe";

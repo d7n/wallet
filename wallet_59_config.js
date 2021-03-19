@@ -1,1 +1,1 @@
-var mnemonic = "foil elite cube tenant van frame tuition vicious clutch valid ask dry";
+var mnemonic = "rebel honey depart provide collect crater strike fortune hospital bread story happy";

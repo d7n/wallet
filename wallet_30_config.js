@@ -1,1 +1,1 @@
-var mnemonic = "sure suffer mercy run federal host hat type buzz jar useless bind";
+var mnemonic = "come express future very gas cliff pony sail install liquid ensure skate";

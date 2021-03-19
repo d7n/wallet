@@ -1,1 +1,1 @@
-var mnemonic = "word three truly pattern volume zone anxiety subway census cruel timber essay";
+var mnemonic = "update join behave rotate prosper slogan tiny dignity crop federal prevent empty";

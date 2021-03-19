@@ -1,1 +1,1 @@
-var mnemonic = "shrimp fitness silly civil destroy mercy only struggle once region lab chapter";
+var mnemonic = "usage excuse rule century once hockey afford course awful april disorder version";

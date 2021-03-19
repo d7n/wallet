@@ -1,1 +1,1 @@
-var mnemonic = "divide dust culture busy release tool easily winner duck end guitar black";
+var mnemonic = "again volume now sound curtain ability unfold agent fancy slide monitor weapon";

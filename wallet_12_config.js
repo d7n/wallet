@@ -1,1 +1,1 @@
-var mnemonic = "cover worry risk girl stay fantasy saddle upgrade task will ivory stamp";
+var mnemonic = "prefer concert tomorrow explain few moment cheese sunset festival grit keen taste";

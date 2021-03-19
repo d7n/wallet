@@ -1,1 +1,1 @@
-var mnemonic = "mimic mechanic vapor bag eye twenty uncover object hungry civil like fossil";
+var mnemonic = "cousin input child expire way home express upgrade giraffe sister lens gold";

@@ -1,1 +1,1 @@
-var mnemonic = "glance cushion ginger dream bounce mystery window spatial risk monster loud ivory";
+var mnemonic = "income paper forget remember target diamond blind essay tonight coconut question hospital";

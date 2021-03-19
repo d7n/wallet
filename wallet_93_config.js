@@ -1,1 +1,1 @@
-var mnemonic = "lounge observe voice code steel bulb pull option weasel exchange slab impose";
+var mnemonic = "whisper swallow illegal crawl damage top stairs exhaust shrug predict game super";

@@ -1,1 +1,1 @@
-var mnemonic = "detail dream clerk welcome jazz chaos fish entry then wagon imitate fatigue";
+var mnemonic = "sentence three gentle host foot exhaust summer cabbage boil brush birth panic";

@@ -1,1 +1,1 @@
-var mnemonic = "viable mixture velvet swallow uncover fresh topic multiply square inform romance boil";
+var mnemonic = "quote garbage pumpkin neutral sell bind achieve palm this cereal pride chest";

@@ -1,1 +1,1 @@
-var mnemonic = "legend fitness emerge include whip tool eternal host table tattoo edge grant";
+var mnemonic = "capable exchange witness bitter frost neglect absent identify robust drop tomato cricket";
