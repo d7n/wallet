@@ -1,1 +1,1 @@
-var mnemonic = "say sea lazy beyond asset nice rely say town knee obtain spring";
+var mnemonic = "daughter now carbon shoulder prefer special prison bench tape unfair fantasy absent";

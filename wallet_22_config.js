@@ -1,1 +1,1 @@
-var mnemonic = "salt suggest monkey bulk neither cover business infant maximum impulse estate dune";
+var mnemonic = "intact stick erupt impose mask gadget there quote six magic absurd unlock";

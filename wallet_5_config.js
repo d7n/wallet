@@ -1,1 +1,1 @@
-var mnemonic = "banana blood nose matrix forum road orient vacuum unit chief clown usual";
+var mnemonic = "virtual organ gift initial equal enjoy usage claw normal egg follow stand";

@@ -1,1 +1,1 @@
-var mnemonic = "shift early depth oven slot chapter then funny reform execute sight sustain";
+var mnemonic = "city obscure runway hazard update great wish portion secret title much ice";

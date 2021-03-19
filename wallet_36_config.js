@@ -1,1 +1,1 @@
-var mnemonic = "morning differ vivid member equal discover donkey keen proud brain chuckle oppose";
+var mnemonic = "digital job grace detect head solution glue rifle quarter soul short lady";

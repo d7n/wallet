@@ -1,1 +1,1 @@
-var mnemonic = "other claw common split idle fruit side tortoise carpet acid scissors vast";
+var mnemonic = "engine six link expire spot remember yard buddy swift trophy hold pupil";

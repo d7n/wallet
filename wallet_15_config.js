@@ -1,1 +1,1 @@
-var mnemonic = "allow nominee plate first diesel heavy enable faith hawk trim loop promote";
+var mnemonic = "busy gasp armed deposit term gift copy slam often mandate dog mom";

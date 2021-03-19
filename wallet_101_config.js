@@ -1,1 +1,1 @@
-var mnemonic = "save dust define install rack young bulb toss ahead sea plunge foster";
+var mnemonic = "coach vote inside buddy cable exclude they artwork spot mixed special oil";

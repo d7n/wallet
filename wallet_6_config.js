@@ -1,1 +1,1 @@
-var mnemonic = "since ball assume pilot leisure hurt abuse echo mystery adapt hurdle hour";
+var mnemonic = "crystal vanish giraffe swift raise auto relief thing canvas mesh fish sibling";

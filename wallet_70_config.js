@@ -1,1 +1,1 @@
-var mnemonic = "wasp monitor defense fitness rabbit jungle guilt amazing dwarf spare tuna sausage";
+var mnemonic = "exclude stay satoshi snow stamp around issue second drink waste luggage escape";

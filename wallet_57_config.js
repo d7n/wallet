@@ -1,1 +1,1 @@
-var mnemonic = "carry now grid deny bird team dizzy parrot cattle good harbor echo";
+var mnemonic = "frequent leave knock torch party beef find figure treat point flat arch";

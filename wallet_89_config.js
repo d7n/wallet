@@ -1,1 +1,1 @@
-var mnemonic = "memory tenant vacuum royal lobster kitchen hero latin ripple cancel oval water";
+var mnemonic = "laugh blade goose announce alien abandon park uncle favorite cinnamon permit feel";

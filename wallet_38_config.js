@@ -1,1 +1,1 @@
-var mnemonic = "echo glass lamp swift unlock normal kite uncle work desk olive apple";
+var mnemonic = "elephant logic there kit fun author retreat file capable gossip volume detail";

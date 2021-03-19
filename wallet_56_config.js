@@ -1,1 +1,1 @@
-var mnemonic = "pond embody practice napkin wear athlete wing practice replace arrow van two";
+var mnemonic = "glass purchase weird turtle reform consider spy coconut mom edit ancient balcony";

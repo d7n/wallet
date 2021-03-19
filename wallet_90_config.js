@@ -1,1 +1,1 @@
-var mnemonic = "evil tackle shrug edge drop memory true nuclear long buddy humor session";
+var mnemonic = "review salt grain paper remove casino nut recipe slogan bread crowd gift";

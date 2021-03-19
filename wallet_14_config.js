@@ -1,1 +1,1 @@
-var mnemonic = "result double idle until beauty fuel spike point again build secret race";
+var mnemonic = "fatigue two mercy fury try earth someone shove differ tennis three luggage";

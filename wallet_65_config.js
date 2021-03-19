@@ -1,1 +1,1 @@
-var mnemonic = "strike earn car crime ready render become mix wine crater right fortune";
+var mnemonic = "journey gadget chief prize appear small like demise stumble obvious limit boost";

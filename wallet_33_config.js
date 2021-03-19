@@ -1,1 +1,1 @@
-var mnemonic = "differ gasp whisper approve language require dizzy rate arena until desk visit";
+var mnemonic = "hip fish best alone wing dry system toddler load list season group";

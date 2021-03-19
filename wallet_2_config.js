@@ -1,1 +1,1 @@
-var mnemonic = "outdoor embark obscure minimum cinnamon smoke trial pass empower pony sugar lumber";
+var mnemonic = "know vanish sweet organ size demand friend game bus basket syrup master";

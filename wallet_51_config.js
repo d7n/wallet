@@ -1,1 +1,1 @@
-var mnemonic = "depart pioneer model recall trial kid bird pitch sister hazard fury chimney";
+var mnemonic = "gauge sock monkey mansion pulse foam cook october antenna witness wait utility";

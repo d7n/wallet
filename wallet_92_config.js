@@ -1,1 +1,1 @@
-var mnemonic = "bamboo cause dream elephant true picture pond retreat clip visa bread obscure";
+var mnemonic = "travel jazz segment person below amateur gown sustain gap amount you mean";

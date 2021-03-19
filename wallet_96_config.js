@@ -1,1 +1,1 @@
-var mnemonic = "lonely clever poet few embody claim air bundle solar mad lift topic";
+var mnemonic = "drive parrot frequent nerve message helmet remain acquire refuse begin share stone";

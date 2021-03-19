@@ -1,1 +1,1 @@
-var mnemonic = "baby road drama arm bicycle dumb trick salmon fortune relax planet indoor";
+var mnemonic = "client kit lock wrap gate bachelor more shield question mansion arrange indicate";

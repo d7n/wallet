@@ -1,1 +1,1 @@
-var mnemonic = "offer save million board party banana panda find diesel cup timber foot";
+var mnemonic = "vital organ possible liquid analyst normal grit culture lab cradle program figure";

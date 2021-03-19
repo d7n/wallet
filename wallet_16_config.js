@@ -1,1 +1,1 @@
-var mnemonic = "broken globe castle old turn decide round around soccer scan height drill";
+var mnemonic = "pact either arctic monster share resource leisure ritual exit elder mass south";

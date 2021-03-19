@@ -1,1 +1,1 @@
-var mnemonic = "adult deer viable proud father enact wait approve sand twist gorilla pill";
+var mnemonic = "proof stone grace vicious butter kiwi spider vehicle orchard gentle capital spike";

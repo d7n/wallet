@@ -1,1 +1,1 @@
-var mnemonic = "discover problem visual pond wasp popular like metal high spare piano essence";
+var mnemonic = "number grunt chaos series slight rug attack genuine rubber sail acoustic fame";

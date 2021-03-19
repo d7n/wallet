@@ -1,1 +1,1 @@
-var mnemonic = "owner avoid sausage fence sail pioneer knife congress glue hen estate bonus";
+var mnemonic = "orphan notable diesel source slogan deputy daring truly label length silent family";

@@ -1,1 +1,1 @@
-var mnemonic = "woman else giraffe decade fiscal rack bring slight sort suggest scrub series";
+var mnemonic = "reform secret turtle staff organ type glove slab board merit gravity change";

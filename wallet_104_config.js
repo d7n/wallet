@@ -1,1 +1,1 @@
-var mnemonic = "leaf gauge hurt demand inmate daughter round need doctor grit choose pledge";
+var mnemonic = "income assist pyramid job spike cancel elite general maze oval waste broccoli";

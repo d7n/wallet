@@ -1,1 +1,1 @@
-var mnemonic = "rack season erode moral ready sting ugly rival oil bench burden woman";
+var mnemonic = "exact gun balance hair figure divide grunt blue electric knee cave gloom";

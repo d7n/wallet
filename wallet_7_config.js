@@ -1,1 +1,1 @@
-var mnemonic = "friend wrong chaos alley plate vapor cement setup addict bachelor nerve alien";
+var mnemonic = "spawn step coral around luggage build solid win olive sudden keen violin";

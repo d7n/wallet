@@ -1,1 +1,1 @@
-var mnemonic = "fan escape moon piano legal advance delay spawn snake armor unit female";
+var mnemonic = "own hamster snack lamp struggle convince weird scare trigger hawk author audit";

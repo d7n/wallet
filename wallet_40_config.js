@@ -1,1 +1,1 @@
-var mnemonic = "brown eye miss order budget clerk curtain quiz gold citizen shell oyster";
+var mnemonic = "foot supreme armor tool bird mixture fine foam runway capital maple hero";

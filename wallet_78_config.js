@@ -1,1 +1,1 @@
-var mnemonic = "ensure famous pact neither phrase street advice impact slot kingdom marble casino";
+var mnemonic = "notable narrow agent eyebrow pink artefact group road relief prefer wonder bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "angry crush skin oil copper dice sing enough toast river very melody";
+var mnemonic = "school student execute general cause cube inflict fitness level lend blood kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle gown bronze cherry north people woman wood monitor barrel explain sun";
+var mnemonic = "shoulder they only decorate average mango resource rail simple exist muscle blast";

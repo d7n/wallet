@@ -1,1 +1,1 @@
-var mnemonic = "raven eight obey piano ugly filter glow chalk atom steel one educate";
+var mnemonic = "shadow sell ecology slogan little riot wolf antique talk tone where deputy";

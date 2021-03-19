@@ -1,1 +1,1 @@
-var mnemonic = "clerk term tail family stumble sample want few weather kingdom angry blade";
+var mnemonic = "arch cause problem plastic leopard entire galaxy prefer humble output build series";

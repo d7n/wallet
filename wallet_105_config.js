@@ -1,1 +1,1 @@
-var mnemonic = "window such gun oak general alcohol vapor cream gorilla good shoulder scrap";
+var mnemonic = "seven marble hybrid garlic run toy arrest style vacant mercy valley lion";

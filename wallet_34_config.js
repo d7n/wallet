@@ -1,1 +1,1 @@
-var mnemonic = "alter coral tree galaxy play wonder midnight prefer list clog guitar cute";
+var mnemonic = "gaze version include estate risk truly differ invest diamond common winner brand";

@@ -1,1 +1,1 @@
-var mnemonic = "road aware damage hurt digital resist service basket battle length scissors then";
+var mnemonic = "filter race delay hover pilot rate excite urban recipe snow off glove";

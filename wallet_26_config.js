@@ -1,1 +1,1 @@
-var mnemonic = "short frost announce fresh gauge topic wash use fancy include lion club";
+var mnemonic = "make much horror earn anxiety chimney loud loud shoot source token century";

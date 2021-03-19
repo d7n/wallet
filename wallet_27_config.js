@@ -1,1 +1,1 @@
-var mnemonic = "shrug error just beauty kiwi resource dose benefit asset gather welcome bright";
+var mnemonic = "around bulb enter income lonely clutch setup raise much scorpion climb ladder";

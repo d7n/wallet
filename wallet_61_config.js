@@ -1,1 +1,1 @@
-var mnemonic = "can shy either banner slow innocent memory tiger crowd flee wagon machine";
+var mnemonic = "process gadget enemy boost act virus shield wish party profit visa deputy";

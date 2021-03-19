@@ -1,1 +1,1 @@
-var mnemonic = "uncover danger balance setup include inhale license lend average write shoulder light";
+var mnemonic = "cinnamon glide cabbage refuse drum pact chest noodle hope cake slice wrong";

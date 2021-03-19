@@ -1,1 +1,1 @@
-var mnemonic = "bargain pelican again genuine neck crew trumpet oblige favorite rally celery march";
+var mnemonic = "donkey clump pilot another dice mystery just garden another fit vendor minute";

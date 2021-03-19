@@ -1,1 +1,1 @@
-var mnemonic = "still apology trend open shiver industry orient narrow tiger trip mountain current";
+var mnemonic = "verify onion page hen bundle budget large honey price essence indicate taxi";

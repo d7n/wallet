@@ -1,1 +1,1 @@
-var mnemonic = "veteran dress glimpse any tenant essence sugar trash eternal coral round already";
+var mnemonic = "attitude awkward boost battle inside carry replace off repair crush online olive";

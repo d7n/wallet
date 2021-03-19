@@ -1,1 +1,1 @@
-var mnemonic = "wrong siege acoustic child anger tortoise wonder today chaos mouse mechanic submit";
+var mnemonic = "fly claim tenant jacket card another inherit deputy various arch ankle cigar";

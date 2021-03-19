@@ -1,1 +1,1 @@
-var mnemonic = "chest rate ahead radio tissue glove seat produce burst question ensure drum";
+var mnemonic = "grape source patient skate brave detail stone squeeze ankle notice film sleep";

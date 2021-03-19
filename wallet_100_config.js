@@ -1,1 +1,1 @@
-var mnemonic = "repeat number know suit between nephew grab reduce sell parent whisper dwarf";
+var mnemonic = "close scheme cricket post earn shed impulse never adult beach glow march";

@@ -1,1 +1,1 @@
-var mnemonic = "resist cover either accuse nerve stove top open estate pizza useless spare";
+var mnemonic = "divide delay kangaroo beef staff oil monitor actor inherit ice arrange add";

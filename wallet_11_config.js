@@ -1,1 +1,1 @@
-var mnemonic = "absurd prize announce clean that window swamp trip pizza cute vivid friend";
+var mnemonic = "problem basic they fit amount quote coffee divorce cherry shadow excess exhibit";

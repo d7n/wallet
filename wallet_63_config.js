@@ -1,1 +1,1 @@
-var mnemonic = "earn fiction brick celery close page anger original cushion fork still avoid";
+var mnemonic = "blush clever man consider mesh tennis crisp squeeze else clean only service";

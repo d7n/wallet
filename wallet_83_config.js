@@ -1,1 +1,1 @@
-var mnemonic = "mimic box clinic again stool nerve cash trend firm expose ring shed";
+var mnemonic = "ostrich diesel immune peace sister ball attitude candy fiction belt wear kiwi";

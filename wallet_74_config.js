@@ -1,1 +1,1 @@
-var mnemonic = "artwork quote balance derive token sugar seven wrap siren wide beach eye";
+var mnemonic = "hammer decorate bracket rhythm puppy thought dog oak insect mention general effort";

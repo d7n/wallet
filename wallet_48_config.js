@@ -1,1 +1,1 @@
-var mnemonic = "valve better photo merry potato depart vanish certain until text hair floor";
+var mnemonic = "spend denial breeze affair general dash improve tunnel cool island hurt cargo";

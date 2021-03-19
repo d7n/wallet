@@ -1,1 +1,1 @@
-var mnemonic = "birth pledge garbage labor hamster nation rifle tone rocket tube fiscal field";
+var mnemonic = "pilot brain orphan fever skull shield demand nature police short absorb benefit";

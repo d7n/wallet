@@ -1,1 +1,1 @@
-var mnemonic = "fiscal enable right wisdom fuel quarter curtain police neither coin gas wild";
+var mnemonic = "limit gadget tent smooth eye churn must ring dismiss decide north slot";

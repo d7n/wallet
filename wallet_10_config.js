@@ -1,1 +1,1 @@
-var mnemonic = "worth rice tortoise place basket wing false blast wall ship verb panic";
+var mnemonic = "render address glimpse wall sister tobacco guess love battle visit shiver gift";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom arctic strike short clip custom run educate orange wash quality chuckle";
+var mnemonic = "firm wool proof talent bird student kiwi scout casino host soft sorry";

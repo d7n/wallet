@@ -1,1 +1,1 @@
-var mnemonic = "fee distance wing change sad vanish slam found version bundle swift elite";
+var mnemonic = "sugar drum suffer project toast vacant silent lawn drastic blouse essence between";

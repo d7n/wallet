@@ -1,1 +1,1 @@
-var mnemonic = "sing hammer kiss sentence point dinosaur tissue cherry flat camp ritual session";
+var mnemonic = "plug health blind wage creek auction gloom start pink chat rabbit torch";

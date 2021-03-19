@@ -1,1 +1,1 @@
-var mnemonic = "fee shed crunch midnight daring moon acquire cousin deputy reveal remove pill";
+var mnemonic = "fitness tornado reunion bomb train mango organ differ apple duck bid beach";

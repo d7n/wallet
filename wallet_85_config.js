@@ -1,1 +1,1 @@
-var mnemonic = "boring giraffe sword seminar oven infant illegal forum connect coconut ready local";
+var mnemonic = "drama eyebrow dress only cotton pelican crouch place claim donor weather six";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble coach model hotel column slide canyon shed keep chase easy eye";
+var mnemonic = "better expect sustain shove garbage blur middle dream educate fetch lab prosper";

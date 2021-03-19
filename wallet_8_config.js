@@ -1,1 +1,1 @@
-var mnemonic = "pelican leave much normal jacket hurdle urban milk festival toe onion height";
+var mnemonic = "crystal motor gather summer evil mango tower keep protect track bird warm";

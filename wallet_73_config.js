@@ -1,1 +1,1 @@
-var mnemonic = "sign mixed bulk marble small thunder goose wine flush stuff eagle resource";
+var mnemonic = "tourist pact push fix sight stuff name almost lamp trip blast order";

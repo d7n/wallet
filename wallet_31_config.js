@@ -1,1 +1,1 @@
-var mnemonic = "balance toilet sustain divorce grocery hub orbit ridge replace salt trap lumber";
+var mnemonic = "beyond table easy tourist until helmet insane soda reward dirt play case";

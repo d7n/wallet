@@ -1,1 +1,1 @@
-var mnemonic = "great gospel spread tornado celery mushroom select sunny giant barely craft witness";
+var mnemonic = "enemy bottom fantasy allow tackle session tired high section wire option great";

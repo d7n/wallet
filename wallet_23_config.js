@@ -1,1 +1,1 @@
-var mnemonic = "pyramid pet helmet funny loop stomach pink observe point erosion permit long";
+var mnemonic = "gas praise mechanic price seek comic blade seminar forum way acquire update";

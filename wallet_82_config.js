@@ -1,1 +1,1 @@
-var mnemonic = "siege prison tree deliver toe must dog april praise member pattern rapid";
+var mnemonic = "unfair evolve visit crucial beauty six sport secret melody hat course modify";

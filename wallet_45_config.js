@@ -1,1 +1,1 @@
-var mnemonic = "flat main ivory connect bike pink table that upset suspect vehicle cave";
+var mnemonic = "labor latin same impulse clump walk clean electric never custom fluid normal";

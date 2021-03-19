@@ -1,1 +1,1 @@
-var mnemonic = "tornado lemon theme change quality century pear vacuum cupboard cook purity guitar";
+var mnemonic = "drastic end movie obtain pencil arch sad recipe enough loyal rule keep";

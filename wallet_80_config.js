@@ -1,1 +1,1 @@
-var mnemonic = "resource immune pony laptop trade lawsuit biology burst initial hammer wood upset";
+var mnemonic = "music estate supply perfect enlist indoor news donkey fold design high diamond";

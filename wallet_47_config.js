@@ -1,1 +1,1 @@
-var mnemonic = "describe reform matrix bomb hair surprise cigar ill diet start ethics vague";
+var mnemonic = "receive glimpse brown tonight machine earth harbor own refuse ribbon reward advance";

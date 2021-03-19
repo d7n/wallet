@@ -1,1 +1,1 @@
-var mnemonic = "claw produce supreme thing busy alarm radio dial attend seven all purpose";
+var mnemonic = "future pretty retire intact priority room present cram surface nation twist toddler";

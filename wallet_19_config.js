@@ -1,1 +1,1 @@
-var mnemonic = "until around giant pudding tomorrow lobster asthma slot depart vital sauce error";
+var mnemonic = "shield monkey jelly prepare gain patch hub arrive hotel lady tennis debris";

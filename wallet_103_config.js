@@ -1,1 +1,1 @@
-var mnemonic = "peasant wolf frame kitten novel liberty veteran damage pulp edge future dose";
+var mnemonic = "tell olympic file number wrist piano pig fringe fog vast shop ask";

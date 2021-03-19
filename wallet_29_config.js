@@ -1,1 +1,1 @@
-var mnemonic = "gasp sword angry cool during salt mail supply raccoon soda genuine weekend";
+var mnemonic = "mystery agree wrong cruise give unlock typical pond this village novel anger";

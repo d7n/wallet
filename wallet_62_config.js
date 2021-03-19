@@ -1,1 +1,1 @@
-var mnemonic = "outer course banana unfold furnace right core stock green broccoli skirt echo";
+var mnemonic = "board already jar pottery soap false orange blade shed fire trade lift";

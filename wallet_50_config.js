@@ -1,1 +1,1 @@
-var mnemonic = "thank twin major kite describe join clap hub tape spy gap gorilla";
+var mnemonic = "blush window mimic wool garbage observe rabbit pattern city again split dragon";

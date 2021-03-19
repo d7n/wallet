@@ -1,1 +1,1 @@
-var mnemonic = "dance provide mule flush quality forget work rich spirit asset cereal employ";
+var mnemonic = "people party guilt subway argue cloth diagram submit federal stereo awake parrot";

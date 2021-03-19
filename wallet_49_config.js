@@ -1,1 +1,1 @@
-var mnemonic = "inch eyebrow elegant annual nerve rookie devote next eight deputy leaf fish";
+var mnemonic = "electric siege olive camp cup over mountain chunk ask aisle runway dumb";

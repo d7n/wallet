@@ -1,1 +1,1 @@
-var mnemonic = "foil fringe lemon length dirt pudding luggage mouse connect local garage vocal";
+var mnemonic = "trophy nephew curious hire jeans oil latin chapter course fox strike desert";
