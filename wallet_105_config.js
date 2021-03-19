@@ -1,1 +1,1 @@
-var mnemonic = "seven marble hybrid garlic run toy arrest style vacant mercy valley lion";
+var mnemonic = "sample absorb exile repair hamster upon art system brass guard title bid";

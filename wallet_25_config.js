@@ -1,1 +1,1 @@
-var mnemonic = "exact gun balance hair figure divide grunt blue electric knee cave gloom";
+var mnemonic = "quick horn rigid soft cat first crime border end kick extra floor";

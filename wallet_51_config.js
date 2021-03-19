@@ -1,1 +1,1 @@
-var mnemonic = "gauge sock monkey mansion pulse foam cook october antenna witness wait utility";
+var mnemonic = "maze rich ostrich deer sword just ladder measure seek chapter hawk kidney";

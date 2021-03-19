@@ -1,1 +1,1 @@
-var mnemonic = "daughter now carbon shoulder prefer special prison bench tape unfair fantasy absent";
+var mnemonic = "mirror fault age clog result salon find milk busy spell real hair";

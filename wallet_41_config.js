@@ -1,1 +1,1 @@
-var mnemonic = "fly claim tenant jacket card another inherit deputy various arch ankle cigar";
+var mnemonic = "devote ritual category credit like device foil potato copy unfold safe castle";

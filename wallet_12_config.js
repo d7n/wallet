@@ -1,1 +1,1 @@
-var mnemonic = "vintage immune wrap crystal lend disease thought chapter random nice wine debate";
+var mnemonic = "science cradle devote champion regular dawn clarify ancient mesh pluck hero awkward";

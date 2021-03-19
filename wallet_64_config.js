@@ -1,1 +1,1 @@
-var mnemonic = "plug health blind wage creek auction gloom start pink chat rabbit torch";
+var mnemonic = "eager open circle night capable truck budget decrease organ country melt pioneer";

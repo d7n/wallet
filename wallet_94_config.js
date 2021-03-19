@@ -1,1 +1,1 @@
-var mnemonic = "fitness tornado reunion bomb train mango organ differ apple duck bid beach";
+var mnemonic = "genuine then note sing voyage fork view manual sudden gorilla oppose feature";

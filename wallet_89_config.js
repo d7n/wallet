@@ -1,1 +1,1 @@
-var mnemonic = "laugh blade goose announce alien abandon park uncle favorite cinnamon permit feel";
+var mnemonic = "fire where blur lend thing tag culture lobster teach traffic group either";

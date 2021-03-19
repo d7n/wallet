@@ -1,1 +1,1 @@
-var mnemonic = "proof stone grace vicious butter kiwi spider vehicle orchard gentle capital spike";
+var mnemonic = "sweet vast liberty hidden stool slender orange wealth final skill fortune air";

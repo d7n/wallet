@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon glide cabbage refuse drum pact chest noodle hope cake slice wrong";
+var mnemonic = "blush color mutual pioneer abandon vintage base bulk harbor palace couple awful";

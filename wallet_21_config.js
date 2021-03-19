@@ -1,1 +1,1 @@
-var mnemonic = "limit gadget tent smooth eye churn must ring dismiss decide north slot";
+var mnemonic = "left island crowd base leg dial obey initial roast host talent toward";

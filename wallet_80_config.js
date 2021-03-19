@@ -1,1 +1,1 @@
-var mnemonic = "music estate supply perfect enlist indoor news donkey fold design high diamond";
+var mnemonic = "typical episode latin absent execute offer game assist profit crime dolphin blade";

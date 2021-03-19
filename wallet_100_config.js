@@ -1,1 +1,1 @@
-var mnemonic = "close scheme cricket post earn shed impulse never adult beach glow march";
+var mnemonic = "boring learn corn carry current kick spin ride canoe tumble say uniform";

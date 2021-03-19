@@ -1,1 +1,1 @@
-var mnemonic = "intact stick erupt impose mask gadget there quote six magic absurd unlock";
+var mnemonic = "course supply quiz gain illness submit other cigar travel doctor trouble loop";

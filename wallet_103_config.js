@@ -1,1 +1,1 @@
-var mnemonic = "tell olympic file number wrist piano pig fringe fog vast shop ask";
+var mnemonic = "unfair act execute space shallow castle grace post ancient aerobic skill umbrella";

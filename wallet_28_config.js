@@ -1,1 +1,1 @@
-var mnemonic = "toward raccoon solid visa oblige work crowd gospel venture blood wink brown";
+var mnemonic = "park junk amazing cabin bottom neutral perfect obvious enrich obscure coconut much";

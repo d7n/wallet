@@ -1,1 +1,1 @@
-var mnemonic = "receive glimpse brown tonight machine earth harbor own refuse ribbon reward advance";
+var mnemonic = "little avoid anchor main kite clay that frequent nice clever obscure matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery agree wrong cruise give unlock typical pond this village novel anger";
+var mnemonic = "chronic pond rescue shell bubble join coral total clip comic turkey author";

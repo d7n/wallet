@@ -1,1 +1,1 @@
-var mnemonic = "true slush wheat ladder verify melody horror stairs exist purpose fish saddle";
+var mnemonic = "all roof coin original dizzy submit acid siren flat ring obscure soccer";

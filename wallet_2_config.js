@@ -1,1 +1,1 @@
-var mnemonic = "know vanish sweet organ size demand friend game bus basket syrup master";
+var mnemonic = "snow bitter lemon large arrange city cheese guess excess custom rich truly";

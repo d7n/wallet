@@ -1,1 +1,1 @@
-var mnemonic = "saddle practice staff tuna once abandon cigar cliff ozone atom endless tongue";
+var mnemonic = "betray purse during neither embrace room jeans drum three talent absent error";

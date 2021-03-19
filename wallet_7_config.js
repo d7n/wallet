@@ -1,1 +1,1 @@
-var mnemonic = "spawn step coral around luggage build solid win olive sudden keen violin";
+var mnemonic = "leave clump height whisper wave boy give action merry target physical swarm";

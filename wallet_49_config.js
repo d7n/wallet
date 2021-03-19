@@ -1,1 +1,1 @@
-var mnemonic = "electric siege olive camp cup over mountain chunk ask aisle runway dumb";
+var mnemonic = "there asset involve insane vendor disease nice banner degree crisp skirt shove";

@@ -1,1 +1,1 @@
-var mnemonic = "common metal number filter drift skull surprise laptop treat grant pact situate";
+var mnemonic = "long flee book quick lecture become seven trigger humble lesson buddy oxygen";

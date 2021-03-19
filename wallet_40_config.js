@@ -1,1 +1,1 @@
-var mnemonic = "foot supreme armor tool bird mixture fine foam runway capital maple hero";
+var mnemonic = "move park cancel usual adjust during skin invest inmate beyond news shoulder";

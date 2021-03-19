@@ -1,1 +1,1 @@
-var mnemonic = "toast armed rabbit elevator senior require desert limb fan behind eagle ready";
+var mnemonic = "human actress escape sudden violin sheriff property crowd talent magnet stove radio";

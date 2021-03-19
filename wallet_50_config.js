@@ -1,1 +1,1 @@
-var mnemonic = "blush window mimic wool garbage observe rabbit pattern city again split dragon";
+var mnemonic = "drift unusual unique indoor dune galaxy airport shove wonder organ monkey hedgehog";

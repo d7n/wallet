@@ -1,1 +1,1 @@
-var mnemonic = "drama eyebrow dress only cotton pelican crouch place claim donor weather six";
+var mnemonic = "venture mean chest slush hurt zoo fine bargain cruel then crop tobacco";

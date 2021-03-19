@@ -1,1 +1,1 @@
-var mnemonic = "engine six link expire spot remember yard buddy swift trophy hold pupil";
+var mnemonic = "bone tower key tube merry mammal march excite puppy famous avoid soon";

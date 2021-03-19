@@ -1,1 +1,1 @@
-var mnemonic = "enemy bottom fantasy allow tackle session tired high section wire option great";
+var mnemonic = "amateur theory owner zebra insect key symbol glue bracket juice often mosquito";

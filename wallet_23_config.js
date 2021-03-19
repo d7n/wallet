@@ -1,1 +1,1 @@
-var mnemonic = "gas praise mechanic price seek comic blade seminar forum way acquire update";
+var mnemonic = "van drop whip gift agree inspire indicate turkey pattern other tone dirt";

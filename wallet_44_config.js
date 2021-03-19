@@ -1,1 +1,1 @@
-var mnemonic = "client kit lock wrap gate bachelor more shield question mansion arrange indicate";
+var mnemonic = "depend gaze enough antenna stool gun pencil bulk dirt wild damage alone";

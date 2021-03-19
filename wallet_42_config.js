@@ -1,1 +1,1 @@
-var mnemonic = "lecture host cloth comic prepare despair parade talent grit mutual decline warrior";
+var mnemonic = "flip shuffle version peace endorse churn gossip tool flame garden sad vintage";

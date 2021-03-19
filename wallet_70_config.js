@@ -1,1 +1,1 @@
-var mnemonic = "exclude stay satoshi snow stamp around issue second drink waste luggage escape";
+var mnemonic = "hockey calm venue quit alcohol march swamp flower average desert box effort";

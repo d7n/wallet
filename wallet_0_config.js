@@ -1,1 +1,1 @@
-var mnemonic = "filter race delay hover pilot rate excite urban recipe snow off glove";
+var mnemonic = "frown raven dove apology police vintage cover road rely muffin rack stomach";

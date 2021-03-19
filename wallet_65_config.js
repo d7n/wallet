@@ -1,1 +1,1 @@
-var mnemonic = "journey gadget chief prize appear small like demise stumble obvious limit boost";
+var mnemonic = "grow express glow idle luxury smart judge invest toddler embrace neglect identify";

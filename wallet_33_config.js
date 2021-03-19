@@ -1,1 +1,1 @@
-var mnemonic = "hip fish best alone wing dry system toddler load list season group";
+var mnemonic = "age pulp donate chef any find husband truly play youth level shaft";

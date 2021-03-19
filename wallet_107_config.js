@@ -1,1 +1,1 @@
-var mnemonic = "orphan notable diesel source slogan deputy daring truly label length silent family";
+var mnemonic = "praise arrest illness consider style gesture dream win orchard army wedding unable";

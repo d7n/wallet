@@ -1,1 +1,1 @@
-var mnemonic = "next trend engage merry soap magnet filter gym rescue piece rate ivory";
+var mnemonic = "grit dog hint plate muffin fix pepper renew denial inject car ecology";

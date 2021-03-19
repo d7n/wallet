@@ -1,1 +1,1 @@
-var mnemonic = "beyond table easy tourist until helmet insane soda reward dirt play case";
+var mnemonic = "trouble vote age stable can sketch tray taste assault language bread huge";

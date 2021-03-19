@@ -1,1 +1,1 @@
-var mnemonic = "since punch meat midnight grid voyage regular stool inch spare wash argue";
+var mnemonic = "more train grape figure expand harbor benefit quote fix wire absorb decorate";

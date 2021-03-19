@@ -1,1 +1,1 @@
-var mnemonic = "labor latin same impulse clump walk clean electric never custom fluid normal";
+var mnemonic = "direct pulse token census three sense same monkey firm rhythm derive zebra";

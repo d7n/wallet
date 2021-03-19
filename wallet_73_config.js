@@ -1,1 +1,1 @@
-var mnemonic = "tourist pact push fix sight stuff name almost lamp trip blast order";
+var mnemonic = "erase east luxury eager humble wrestle doctor future rhythm taxi access subway";

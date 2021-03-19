@@ -1,1 +1,1 @@
-var mnemonic = "future pretty retire intact priority room present cram surface nation twist toddler";
+var mnemonic = "gauge jump key online lava success gym roof pencil inflict tooth push";

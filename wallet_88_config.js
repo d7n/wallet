@@ -1,1 +1,1 @@
-var mnemonic = "city obscure runway hazard update great wish portion secret title much ice";
+var mnemonic = "burger where bright room skin cement rubber meadow execute decline young casino";

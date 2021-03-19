@@ -1,1 +1,1 @@
-var mnemonic = "gaze version include estate risk truly differ invest diamond common winner brand";
+var mnemonic = "color can prevent aim ribbon royal all diesel stove safe alley sorry";

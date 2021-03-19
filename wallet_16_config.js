@@ -1,1 +1,1 @@
-var mnemonic = "pact either arctic monster share resource leisure ritual exit elder mass south";
+var mnemonic = "speak shell load misery early quantum essence around exist capable phone august";

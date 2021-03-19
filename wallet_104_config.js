@@ -1,1 +1,1 @@
-var mnemonic = "income assist pyramid job spike cancel elite general maze oval waste broccoli";
+var mnemonic = "quantum kit melt radar before goat cage ketchup cave exchange castle fence";

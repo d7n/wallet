@@ -1,1 +1,1 @@
-var mnemonic = "verify onion page hen bundle budget large honey price essence indicate taxi";
+var mnemonic = "behind firm pen tortoise leopard couch rice core castle bleak shoulder deer";

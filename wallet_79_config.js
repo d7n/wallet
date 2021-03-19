@@ -1,1 +1,1 @@
-var mnemonic = "casual clinic parade setup tiny labor cash inside rack movie jealous broccoli";
+var mnemonic = "soul curve trophy tuition mixture popular wrestle guitar answer often also employ";

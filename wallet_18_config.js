@@ -1,1 +1,1 @@
-var mnemonic = "reunion other ghost crystal forward hello town adjust design throw consider usage";
+var mnemonic = "tunnel hobby dentist pistol source coast point spend loop alone prepare expire";

@@ -1,1 +1,1 @@
-var mnemonic = "divide delay kangaroo beef staff oil monitor actor inherit ice arrange add";
+var mnemonic = "web enlist dash three nerve velvet wish discover wreck evil sketch wild";

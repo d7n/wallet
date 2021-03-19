@@ -1,1 +1,1 @@
-var mnemonic = "shadow sell ecology slogan little riot wolf antique talk tone where deputy";
+var mnemonic = "minor bread cannon alien inside grain merry people kitten wall sport company";

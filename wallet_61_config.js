@@ -1,1 +1,1 @@
-var mnemonic = "process gadget enemy boost act virus shield wish party profit visa deputy";
+var mnemonic = "junk dune onion chef chronic that breeze april sail rack find castle";

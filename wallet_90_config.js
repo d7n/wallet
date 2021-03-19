@@ -1,1 +1,1 @@
-var mnemonic = "review salt grain paper remove casino nut recipe slogan bread crowd gift";
+var mnemonic = "cover steel utility goose entry banner atom asthma sound celery seminar elder";

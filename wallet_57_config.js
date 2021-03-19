@@ -1,1 +1,1 @@
-var mnemonic = "frequent leave knock torch party beef find figure treat point flat arch";
+var mnemonic = "found torch digital lecture expand rice supreme slender cluster twelve better soda";

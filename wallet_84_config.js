@@ -1,1 +1,1 @@
-var mnemonic = "donkey clump pilot another dice mystery just garden another fit vendor minute";
+var mnemonic = "sell will father fox quote oven taste parade sphere grace monkey survey";

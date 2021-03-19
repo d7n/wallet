@@ -1,1 +1,1 @@
-var mnemonic = "unfair evolve visit crucial beauty six sport secret melody hat course modify";
+var mnemonic = "promote prevent twin tree blade purity sun head wine expire virus stairs";

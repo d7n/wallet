@@ -1,1 +1,1 @@
-var mnemonic = "own hamster snack lamp struggle convince weird scare trigger hawk author audit";
+var mnemonic = "liquid crouch wage inject audit trigger atom hybrid bundle boy multiply host";

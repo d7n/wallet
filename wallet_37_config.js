@@ -1,1 +1,1 @@
-var mnemonic = "vital organ possible liquid analyst normal grit culture lab cradle program figure";
+var mnemonic = "category theme decide flush dash food marine peanut fancy picture such cabin";

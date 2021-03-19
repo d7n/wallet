@@ -1,1 +1,1 @@
-var mnemonic = "funny theme hour parrot bicycle flip wise learn quantum tissue blue monitor";
+var mnemonic = "giant then humble force advance shell lady off spray future discover general";

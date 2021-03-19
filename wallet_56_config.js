@@ -1,1 +1,1 @@
-var mnemonic = "glass purchase weird turtle reform consider spy coconut mom edit ancient balcony";
+var mnemonic = "turkey recycle crack script inch moral laundry twice nothing universe proud tortoise";

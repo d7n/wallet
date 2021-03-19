@@ -1,1 +1,1 @@
-var mnemonic = "attitude awkward boost battle inside carry replace off repair crush online olive";
+var mnemonic = "patch celery huge sure dash ride protect culture atom beauty fan jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "arch cause problem plastic leopard entire galaxy prefer humble output build series";
+var mnemonic = "dial champion blade minimum physical whip will radio strike void neck auto";

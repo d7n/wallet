@@ -1,1 +1,1 @@
-var mnemonic = "copy typical cool rain resemble nephew citizen verb match talent license tired";
+var mnemonic = "bulb absent stool palm long vast circle craft total poverty true crime";

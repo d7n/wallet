@@ -1,1 +1,1 @@
-var mnemonic = "notable narrow agent eyebrow pink artefact group road relief prefer wonder bomb";
+var mnemonic = "spider trouble high sort flavor secret later fashion sense code you liar";

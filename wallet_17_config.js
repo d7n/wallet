@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon near glove tree document service cake solution raccoon angry shift pudding";
+var mnemonic = "spare coffee leave struggle glow truth tuna fiber magic company possible solution";

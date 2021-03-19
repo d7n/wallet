@@ -1,1 +1,1 @@
-var mnemonic = "scheme gauge raise reflect fade area bunker broccoli income airport myself decline";
+var mnemonic = "olive wrestle slush figure dentist kit carbon color kidney unknown bread snow";

@@ -1,1 +1,1 @@
-var mnemonic = "shield monkey jelly prepare gain patch hub arrive hotel lady tennis debris";
+var mnemonic = "hockey winter step ritual gossip super hen juice tower flower spin segment";

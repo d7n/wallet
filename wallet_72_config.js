@@ -1,1 +1,1 @@
-var mnemonic = "people party guilt subway argue cloth diagram submit federal stereo awake parrot";
+var mnemonic = "silly stay believe october funny blue rebel zoo sentence jump mother clap";

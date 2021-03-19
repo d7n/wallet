@@ -1,1 +1,1 @@
-var mnemonic = "crystal motor gather summer evil mango tower keep protect track bird warm";
+var mnemonic = "follow matrix ski raccoon gold decline finger second before black immense guess";

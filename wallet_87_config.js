@@ -1,1 +1,1 @@
-var mnemonic = "gossip seed same suit tattoo diagram oak marine kiss dose believe cargo";
+var mnemonic = "hybrid stadium horn record provide lounge lecture spare dentist high sense asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder they only decorate average mango resource rail simple exist muscle blast";
+var mnemonic = "advice type aunt stereo render draft lucky butter warrior online town umbrella";

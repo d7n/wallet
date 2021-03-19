@@ -1,1 +1,1 @@
-var mnemonic = "digital job grace detect head solution glue rifle quarter soul short lady";
+var mnemonic = "blame razor immense remind margin desk pioneer frown actual hole elder job";

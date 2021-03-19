@@ -1,1 +1,1 @@
-var mnemonic = "tomato miracle north lunch stamp keen yard abstract decide cause rate genius";
+var mnemonic = "canvas step fuel legend benefit group debate elder thank guess owner party";

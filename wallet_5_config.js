@@ -1,1 +1,1 @@
-var mnemonic = "virtual organ gift initial equal enjoy usage claw normal egg follow stand";
+var mnemonic = "myth dynamic scissors decorate give divide today topple quote slow farm fire";

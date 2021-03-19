@@ -1,1 +1,1 @@
-var mnemonic = "grape source patient skate brave detail stone squeeze ankle notice film sleep";
+var mnemonic = "amused crush left pride dumb pulse diamond burger average fluid clip exclude";

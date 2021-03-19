@@ -1,1 +1,1 @@
-var mnemonic = "reform secret turtle staff organ type glove slab board merit gravity change";
+var mnemonic = "poet smoke pyramid drum forum wrap move fog immense capable family matter";

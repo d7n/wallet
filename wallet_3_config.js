@@ -1,1 +1,1 @@
-var mnemonic = "trophy nephew curious hire jeans oil latin chapter course fox strike desert";
+var mnemonic = "useless future peace scrap pig raw faint toast below brisk pepper surround";

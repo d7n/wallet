@@ -1,1 +1,1 @@
-var mnemonic = "make much horror earn anxiety chimney loud loud shoot source token century";
+var mnemonic = "pair away prefer mountain minor shuffle slow hair food convince correct reduce";

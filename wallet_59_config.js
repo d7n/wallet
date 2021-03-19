@@ -1,1 +1,1 @@
-var mnemonic = "ostrich mansion observe cement bleak believe oppose twice one noodle noodle task";
+var mnemonic = "year answer magic life squeeze left design return flee fox develop owner";

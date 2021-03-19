@@ -1,1 +1,1 @@
-var mnemonic = "fatigue two mercy fury try earth someone shove differ tennis three luggage";
+var mnemonic = "dad elephant curve client mask south fiction sniff exchange copy ahead chimney";

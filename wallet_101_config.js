@@ -1,1 +1,1 @@
-var mnemonic = "coach vote inside buddy cable exclude they artwork spot mixed special oil";
+var mnemonic = "wet raccoon cute leave welcome echo either truck cheap parrot decrease acid";

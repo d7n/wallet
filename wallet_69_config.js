@@ -1,1 +1,1 @@
-var mnemonic = "sugar drum suffer project toast vacant silent lawn drastic blouse essence between";
+var mnemonic = "tuition material fever supreme rookie fashion gossip trend obey grunt loop milk";

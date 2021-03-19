@@ -1,1 +1,1 @@
-var mnemonic = "number grunt chaos series slight rug attack genuine rubber sail acoustic fame";
+var mnemonic = "soldier betray broken joy chronic comic cat betray office script hand omit";

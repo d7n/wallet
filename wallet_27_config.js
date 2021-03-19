@@ -1,1 +1,1 @@
-var mnemonic = "around bulb enter income lonely clutch setup raise much scorpion climb ladder";
+var mnemonic = "police stage garlic lemon hockey nasty soft strike surge skull fat enemy";

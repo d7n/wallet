@@ -1,1 +1,1 @@
-var mnemonic = "elephant logic there kit fun author retreat file capable gossip volume detail";
+var mnemonic = "olive box twice often add noble famous pilot speak ceiling ride answer";
