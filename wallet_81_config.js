@@ -1,1 +1,1 @@
-var mnemonic = "rather torch volume bleak letter collect useless team tube upon kite inject";
+var mnemonic = "dynamic salmon lunch involve faculty risk dove brain flat safe neutral install";

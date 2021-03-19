@@ -1,1 +1,1 @@
-var mnemonic = "potato slight grass special immune sister mix host cluster age talk labor";
+var mnemonic = "door tell morning trend ocean horse keen believe toy federal dove couch";

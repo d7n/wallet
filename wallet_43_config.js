@@ -1,1 +1,1 @@
-var mnemonic = "vocal crush shield toy proof team public sleep soda person party major";
+var mnemonic = "confirm upon prepare scorpion liar onion grace transfer hover bone patrol garment";

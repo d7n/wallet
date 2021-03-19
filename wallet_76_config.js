@@ -1,1 +1,1 @@
-var mnemonic = "bullet bamboo surprise apple maid arch first harvest popular leg wink car";
+var mnemonic = "holiday measure beach health torch pact achieve universe pizza toast kitten risk";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual seat horn very genuine offer end real praise happy nice egg";
+var mnemonic = "hen divert west neutral hunt option better party reveal flash sell glove";

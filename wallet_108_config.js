@@ -1,1 +1,1 @@
-var mnemonic = "speed spider belt stem height stem avocado ignore oblige task trim arrest";
+var mnemonic = "pioneer check behind burst february rally invite episode angry ball jeans ketchup";

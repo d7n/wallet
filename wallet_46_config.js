@@ -1,1 +1,1 @@
-var mnemonic = "cradle mosquito tornado hawk chaos jar limb taxi human describe skate certain";
+var mnemonic = "leaf network special autumn swallow version avoid peace exotic quiz bonus age";

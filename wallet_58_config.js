@@ -1,1 +1,1 @@
-var mnemonic = "antenna rival feed consider food shallow armor click just family upgrade arrest";
+var mnemonic = "correct mammal absurd someone quarter inherit buddy leisure clinic gauge luxury normal";

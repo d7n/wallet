@@ -1,1 +1,1 @@
-var mnemonic = "post bike sudden oval trip rhythm bomb flush trend film report desert";
+var mnemonic = "strong peace swear assume hair address canoe argue hint follow produce robust";

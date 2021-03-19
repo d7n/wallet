@@ -1,1 +1,1 @@
-var mnemonic = "illness tragic typical kit ketchup abstract day usual minimum devote device game";
+var mnemonic = "rug snow tiger huge couch practice then run polar guard eye casual";

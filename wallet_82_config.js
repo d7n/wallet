@@ -1,1 +1,1 @@
-var mnemonic = "acquire tool blind female family arrive slice again mosquito truly prefer fox";
+var mnemonic = "cry urge help present gadget tired image element economy amount plate cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar refuse diet dawn enemy crack enlist tobacco parent they gate summer";
+var mnemonic = "produce wire equip ball swing gossip picnic spend spatial verb about ride";

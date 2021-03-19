@@ -1,1 +1,1 @@
-var mnemonic = "expect whip insect quit render parade net between proof hip sausage apology";
+var mnemonic = "dentist soldier best shed hybrid gossip reason leopard deliver skill sight noodle";

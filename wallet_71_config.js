@@ -1,1 +1,1 @@
-var mnemonic = "collect shop furnace situate resist agent bread obtain road antenna wood inject";
+var mnemonic = "draw climb once stand clever very series table outer borrow dawn unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "magic surge inmate flush grab peanut walk combine stock program pelican monkey";
+var mnemonic = "stamp proof canal item limit beef arm gauge tag trial love slab";

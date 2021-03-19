@@ -1,1 +1,1 @@
-var mnemonic = "various kingdom shy small pelican improve family paper parade boss miss garage";
+var mnemonic = "example toward portion castle mouse ramp leg person sting copper nation train";

@@ -1,1 +1,1 @@
-var mnemonic = "teach next pigeon length network sick marriage author federal sugar trap case";
+var mnemonic = "refuse book glimpse you spirit strike access void quick ocean source possible";

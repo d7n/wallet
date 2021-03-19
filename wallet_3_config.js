@@ -1,1 +1,1 @@
-var mnemonic = "feed camera volcano hood brain fever endorse defense there glass summer kind";
+var mnemonic = "flash skill flag toilet prosper mom liquid stomach inner exact sign wait";

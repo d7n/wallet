@@ -1,1 +1,1 @@
-var mnemonic = "movie purse pull brief milk calm spice drastic warrior response run slot";
+var mnemonic = "direct slush job frost climb area cloud sail brisk group desk swallow";

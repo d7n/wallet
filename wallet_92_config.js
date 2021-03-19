@@ -1,1 +1,1 @@
-var mnemonic = "buddy laptop prefer clown cargo balance tuna apart work monitor arrive gate";
+var mnemonic = "sheriff rebel false cover brief fun cage seven script say copper miss";

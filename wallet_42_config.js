@@ -1,1 +1,1 @@
-var mnemonic = "ridge soda bread expand boat journey medal acid duck battle mechanic baby";
+var mnemonic = "rather vivid party credit version caution neglect alley either net nuclear fashion";

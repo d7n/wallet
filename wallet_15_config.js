@@ -1,1 +1,1 @@
-var mnemonic = "slam cargo mule piano airport absent latin question tumble skin shaft excite";
+var mnemonic = "congress witness range habit early great bind angry happy man release drum";

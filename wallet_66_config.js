@@ -1,1 +1,1 @@
-var mnemonic = "visa firm connect amused blame rocket elevator curious detect mouse borrow prevent";
+var mnemonic = "wise urban trumpet faith pottery cake slight symbol quarter mad addict scissors";

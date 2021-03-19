@@ -1,1 +1,1 @@
-var mnemonic = "zoo profit grocery render garage business move virus right olive volcano tuition";
+var mnemonic = "parade cruise forward skirt gorilla jungle crouch library nephew prepare nasty explain";

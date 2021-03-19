@@ -1,1 +1,1 @@
-var mnemonic = "lift lock guide royal deliver scrap suit video bitter bottom chase carbon";
+var mnemonic = "wheel west cheese candy area flee forward thunder differ gesture obtain wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid butter afford fringe secret hospital siren sport nuclear vessel joy radar";
+var mnemonic = "rebel video grow phone bread stamp taxi enlist story unaware bind harsh";

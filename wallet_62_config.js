@@ -1,1 +1,1 @@
-var mnemonic = "donkey bacon jealous arch antenna glow despair steak private defense patch cricket";
+var mnemonic = "memory primary settle vehicle ill page insect goose boy bachelor artefact name";

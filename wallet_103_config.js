@@ -1,1 +1,1 @@
-var mnemonic = "bacon excite company choice balcony shell pulse demise sort jaguar rifle slush";
+var mnemonic = "drive core crawl travel lucky accuse kick gaze hospital horse entry attract";

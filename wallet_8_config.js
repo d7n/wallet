@@ -1,1 +1,1 @@
-var mnemonic = "ask nothing mistake abuse dad stove eight shrug clutch shrug address ridge";
+var mnemonic = "victory real upset phrase wave zone describe stem ethics exhaust crime shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "surge crunch street cream autumn you coral weapon demise federal grass choice";
+var mnemonic = "bonus fruit uphold skate inquiry hen help lucky february that firm burst";

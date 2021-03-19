@@ -1,1 +1,1 @@
-var mnemonic = "foil husband blind float ramp route season change feel pizza valid fault";
+var mnemonic = "ill believe siren tissue face chimney office seed what index hard meadow";

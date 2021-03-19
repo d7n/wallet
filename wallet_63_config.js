@@ -1,1 +1,1 @@
-var mnemonic = "left draft motion essence job paddle fence gap like print cinnamon execute";
+var mnemonic = "potato crater release arrow thought exhaust shock muffin door walnut dove brain";

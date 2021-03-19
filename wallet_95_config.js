@@ -1,1 +1,1 @@
-var mnemonic = "small wine there suit oxygen stadium enlist library board august valid average";
+var mnemonic = "slot head neither vicious weasel truly great cattle ahead farm pelican park";

@@ -1,1 +1,1 @@
-var mnemonic = "cat primary flip ranch proud accident choice motion glare ripple slogan cause";
+var mnemonic = "tank rural enough corn person drive cook load olympic tonight teach now";

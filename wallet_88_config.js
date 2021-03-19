@@ -1,1 +1,1 @@
-var mnemonic = "antenna bicycle enter pear hen smart scatter point fat toward scheme brother";
+var mnemonic = "melody tumble jacket subject wagon forward real taste real lonely park quarter";

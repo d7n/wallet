@@ -1,1 +1,1 @@
-var mnemonic = "bronze float upon moment theory cook slam sense tonight scrap federal autumn";
+var mnemonic = "bus jaguar warm bulk vague chalk staff ecology bunker pool answer crush";

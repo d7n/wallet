@@ -1,1 +1,1 @@
-var mnemonic = "physical lobster athlete private public twenty inquiry post better destroy left harvest";
+var mnemonic = "depth web frame suggest solid glance abuse liquid sauce twelve delay letter";

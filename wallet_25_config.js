@@ -1,1 +1,1 @@
-var mnemonic = "awful torch name upper elbow food river garbage toddler near bike under";
+var mnemonic = "close scout example actress talk income spoil outer about violin lumber slim";

@@ -1,1 +1,1 @@
-var mnemonic = "salt legal yellow kiss fantasy loan royal zero fog avoid custom derive";
+var mnemonic = "media exotic wheel shock dish warm crater nothing decade wrong camera orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "sock sunny model skill inject dynamic prize any cave vocal decide swing";
+var mnemonic = "good verb female deer suffer genuine boring solar naive arena legend auto";

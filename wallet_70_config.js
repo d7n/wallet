@@ -1,1 +1,1 @@
-var mnemonic = "thrive matter you iron flash harvest come truly process alert stage satoshi";
+var mnemonic = "depth nerve pioneer cigar trip huge avocado simple celery debris shield hub";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus wine mad disease crumble dentist position dawn street grant push tray";
+var mnemonic = "better quantum design leopard practice scheme funny path barrel list glory inflict";

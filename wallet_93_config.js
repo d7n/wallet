@@ -1,1 +1,1 @@
-var mnemonic = "broom balcony vacuum mass east filter math use subway alcohol often finish";
+var mnemonic = "enemy bleak spider fence clown journey absent illegal seat manual metal frog";

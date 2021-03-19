@@ -1,1 +1,1 @@
-var mnemonic = "diet lounge pull bulb outer seminar one reject session guess gossip plastic";
+var mnemonic = "neutral item segment word retire catalog pipe spider target adapt soon twice";

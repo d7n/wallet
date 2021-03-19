@@ -1,1 +1,1 @@
-var mnemonic = "palm ride plunge ready comic radio liberty trip south burst cable oxygen";
+var mnemonic = "soul alpha three jungle inquiry pepper bird shock prepare treat trend burger";

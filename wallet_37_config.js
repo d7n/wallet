@@ -1,1 +1,1 @@
-var mnemonic = "nest powder question library kiss buffalo recipe solar crumble orphan dawn derive";
+var mnemonic = "describe relief mention master laugh ecology dice entry example chair absurd allow";

@@ -1,1 +1,1 @@
-var mnemonic = "valve genius wish custom picture dress lecture wire series this hint bundle";
+var mnemonic = "arrive tomorrow kiss output desert recipe morning purse ankle best supply budget";

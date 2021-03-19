@@ -1,1 +1,1 @@
-var mnemonic = "street tortoise six drastic obtain wheat common zero unlock chase major crawl";
+var mnemonic = "receive job nuclear benefit ketchup spend suspect blouse will garden close inquiry";

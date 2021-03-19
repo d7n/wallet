@@ -1,1 +1,1 @@
-var mnemonic = "injury ghost useless decade expire load hold powder idle symbol tape rib";
+var mnemonic = "earth doctor pride humor network genuine soup honey gospel omit shove arena";

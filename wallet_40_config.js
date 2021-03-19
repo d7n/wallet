@@ -1,1 +1,1 @@
-var mnemonic = "pizza viable rain wire boost panic speed february cart fresh slow warfare";
+var mnemonic = "ranch need modify body crumble catch mimic lounge affair finish retire evil";

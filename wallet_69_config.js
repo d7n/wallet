@@ -1,1 +1,1 @@
-var mnemonic = "online noise force tuna labor cigar method receive birth forum question frown";
+var mnemonic = "rabbit entire solid model slender resource hotel behind result face behave odor";

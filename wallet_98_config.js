@@ -1,1 +1,1 @@
-var mnemonic = "enact balcony private initial vehicle frog claw high gallery volume sand milk";
+var mnemonic = "burger nerve goddess volcano young earth reform transfer right twin come ugly";

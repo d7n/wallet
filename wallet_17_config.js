@@ -1,1 +1,1 @@
-var mnemonic = "mutual damage course file soul fee leader crush ship ticket country door";
+var mnemonic = "ritual cloth interest dutch output wife object just salt monkey palace polar";

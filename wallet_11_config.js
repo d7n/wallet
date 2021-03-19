@@ -1,1 +1,1 @@
-var mnemonic = "guitar push canal recycle mosquito banner universe tragic club total sand junior";
+var mnemonic = "motor antenna garage swear what pear battle around depend mansion cricket argue";

@@ -1,1 +1,1 @@
-var mnemonic = "initial surround diesel defense zone main ridge wedding denial evolve despair wine";
+var mnemonic = "close fiber floor volcano chimney flight edge grow discover lab language eye";

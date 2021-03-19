@@ -1,1 +1,1 @@
-var mnemonic = "divide gasp submit pepper kitten soda undo crane retreat puppy horse castle";
+var mnemonic = "random powder distance fortune blame priority gain trash badge nice buffalo air";

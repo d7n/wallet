@@ -1,1 +1,1 @@
-var mnemonic = "hobby youth buddy grace patch cross age artwork pause trophy praise borrow";
+var mnemonic = "victory remove sheriff update arrange offer nose school intact treat sleep dismiss";

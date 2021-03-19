@@ -1,1 +1,1 @@
-var mnemonic = "inhale circle harvest zebra depart already near undo undo client sport brother";
+var mnemonic = "rival notable topic crush cry vicious fame empower orphan empower give execute";

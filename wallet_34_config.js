@@ -1,1 +1,1 @@
-var mnemonic = "then wheel voyage seat current devote enroll settle base feel expect cloud";
+var mnemonic = "enhance seed brass price tail science zebra erase busy climb lunar garden";

@@ -1,1 +1,1 @@
-var mnemonic = "seven message clean practice office dirt occur tuna spin guilt fiber bottom";
+var mnemonic = "sausage region nature ball cushion stove govern initial during noodle avocado force";

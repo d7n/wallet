@@ -1,1 +1,1 @@
-var mnemonic = "immune tank math opera dizzy basic very excite title become embark fee";
+var mnemonic = "mother supreme federal modify eternal awesome mirror letter ten situate blade system";

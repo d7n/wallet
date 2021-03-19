@@ -1,1 +1,1 @@
-var mnemonic = "awake execute ribbon spring timber party bachelor suffer parade spirit already peace";
+var mnemonic = "pause trophy chicken stock silk feel bleak trigger torch space sponsor entry";

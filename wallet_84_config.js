@@ -1,1 +1,1 @@
-var mnemonic = "conduct hood draft aspect unusual real ready easily shop shove various decrease";
+var mnemonic = "become wash biology frequent number ski fruit job oven excess bus quantum";

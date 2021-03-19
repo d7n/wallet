@@ -1,1 +1,1 @@
-var mnemonic = "tent write rather fiscal assume arm garbage uncle differ season admit butter";
+var mnemonic = "bitter drive media ride chief auto help suffer off public tornado cat";

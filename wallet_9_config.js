@@ -1,1 +1,1 @@
-var mnemonic = "expose street swear essay immense lamp detail undo transfer bargain foster nation";
+var mnemonic = "orchard error arch tackle reward anxiety trip lake bracket jaguar youth birth";

@@ -1,1 +1,1 @@
-var mnemonic = "involve arctic snake wide oppose nest begin yard galaxy safe illness wall";
+var mnemonic = "busy print kit virus fancy cry limit monster cattle ketchup art front";

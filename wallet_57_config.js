@@ -1,1 +1,1 @@
-var mnemonic = "gospel enemy cigar achieve celery grit merge bitter select category hand envelope";
+var mnemonic = "abstract banana carry decide gun omit load stairs grain acoustic pepper current";

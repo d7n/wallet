@@ -1,1 +1,1 @@
-var mnemonic = "edit crouch badge ripple palm verify voyage super bunker awful poet tube";
+var mnemonic = "top include era stand buzz cup upon hurt blast blouse round dune";

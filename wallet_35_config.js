@@ -1,1 +1,1 @@
-var mnemonic = "foil climb dad sport child boost game best logic hurdle pig benefit";
+var mnemonic = "forget term embody brother soccer success shield mammal keep local welcome critic";

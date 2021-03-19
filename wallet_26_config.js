@@ -1,1 +1,1 @@
-var mnemonic = "debate process lonely jaguar siege pattern original relief hip place vibrant provide";
+var mnemonic = "present grain gift spread much undo bread thrive video sentence enrich device";

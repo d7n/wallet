@@ -1,1 +1,1 @@
-var mnemonic = "rigid jaguar carpet jacket brass exchange broccoli position travel festival visual chief";
+var mnemonic = "alcohol regular auto muffin leaf rapid volcano kingdom adjust very pony chimney";

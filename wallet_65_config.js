@@ -1,1 +1,1 @@
-var mnemonic = "chair vast message van thank guide put expire cute vapor evil cup";
+var mnemonic = "proud nose second lady private guitar crack census sure enable future foil";

@@ -1,1 +1,1 @@
-var mnemonic = "match crane harvest candy detect alert shop demand throw saddle save thrive";
+var mnemonic = "sweet embrace glue citizen scene stamp deny choice video wolf also tired";

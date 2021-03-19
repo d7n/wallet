@@ -1,1 +1,1 @@
-var mnemonic = "citizen slow erupt crisp inject aware wrap range input alarm shield amused";
+var mnemonic = "payment assume hurdle guide robot ginger moon silver clip stone trend remind";

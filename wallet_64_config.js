@@ -1,1 +1,1 @@
-var mnemonic = "apart annual pig clutch member brief music true away there twelve noodle";
+var mnemonic = "code autumn tribe love more you wave agent custom animal chronic actress";

@@ -1,1 +1,1 @@
-var mnemonic = "picture angry release sport must circle ladder whip call coffee tank mechanic";
+var mnemonic = "stem coin face wonder creek tuition ball pole sun report tourist echo";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy fork jelly wild fever inhale load whisper tape coyote strong tobacco";
+var mnemonic = "rate velvet later luxury define lounge charge pipe candy menu derive version";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant heart icon leave kingdom suspect buddy critic crane explain riot fossil";
+var mnemonic = "bracket say chalk tired violin shoulder model make elbow must ahead shuffle";

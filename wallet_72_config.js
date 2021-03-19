@@ -1,1 +1,1 @@
-var mnemonic = "stone machine toddler garage gloom battle sleep leg left phrase arrange aware";
+var mnemonic = "shock cabin hip sock exclude approve close sentence gather mountain balance middle";

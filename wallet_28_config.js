@@ -1,1 +1,1 @@
-var mnemonic = "speed humble ozone spice cannon dolphin slight point music canvas middle base";
+var mnemonic = "clog nephew umbrella glad oppose divorce save noise focus second execute announce";

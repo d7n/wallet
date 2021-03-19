@@ -1,1 +1,1 @@
-var mnemonic = "distance board tenant clump proud prosper patch enact regret bright accident truth";
+var mnemonic = "kitchen hover remind hockey awkward east exist merry over bench simple across";

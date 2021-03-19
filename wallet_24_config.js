@@ -1,1 +1,1 @@
-var mnemonic = "ready pink buyer blossom conduct stamp grace husband much group space broken";
+var mnemonic = "keep math novel allow divide fan manual rapid nation online home buyer";

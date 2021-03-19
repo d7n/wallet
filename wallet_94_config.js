@@ -1,1 +1,1 @@
-var mnemonic = "exhaust prevent toss meat truly stamp stable friend future rebuild sense copper";
+var mnemonic = "harsh echo camera coach various sure slight moment raw quick horse wonder";

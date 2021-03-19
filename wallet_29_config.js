@@ -1,1 +1,1 @@
-var mnemonic = "antenna history view orient sauce poem charge ugly black click shuffle daughter";
+var mnemonic = "valley say grid spice ginger puppy release lecture grape elbow citizen omit";

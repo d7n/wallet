@@ -1,1 +1,1 @@
-var mnemonic = "unfold coach empower industry slight quality warfare glare woman shove flame dolphin";
+var mnemonic = "ice concert wild trick prefer flame coffee govern stool identify plug soldier";

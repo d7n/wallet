@@ -1,1 +1,1 @@
-var mnemonic = "begin home ocean notice resource prefer milk ahead true eager wide wait";
+var mnemonic = "castle beauty deposit hole seed blanket rural sheriff eagle render size fly";
