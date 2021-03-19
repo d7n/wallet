@@ -1,1 +1,1 @@
-var mnemonic = "surround firm patch stand vital inherit razor garden example place clap inner";
+var mnemonic = "hover bridge they found mercy clarify siege dignity family slender glove core";

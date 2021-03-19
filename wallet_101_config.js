@@ -1,1 +1,1 @@
-var mnemonic = "name hawk autumn useful walnut acquire wait stove word kiwi tone beef";
+var mnemonic = "turtle smooth wife sibling hub erase swallow thrive patient clarify still urge";

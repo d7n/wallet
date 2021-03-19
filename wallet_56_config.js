@@ -1,1 +1,1 @@
-var mnemonic = "fossil tornado library render quarter spawn exercise onion term inject feature melt";
+var mnemonic = "owner patch suggest upon club nerve happy toe random limb hour judge";

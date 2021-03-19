@@ -1,1 +1,1 @@
-var mnemonic = "alter mobile tool oxygen craft tragic glue guilt garlic drama much output";
+var mnemonic = "moment flock oyster ugly mouse mosquito midnight disorder hockey eagle siren deliver";

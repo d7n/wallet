@@ -1,1 +1,1 @@
-var mnemonic = "issue crawl jelly bacon fault recycle cool alien absent refuse resemble exhaust";
+var mnemonic = "void gorilla coach family what kitchen planet happy magic wolf half dose";

@@ -1,1 +1,1 @@
-var mnemonic = "path knock unique hub waste issue high movie soda wild grunt piano";
+var mnemonic = "hedgehog sport dentist humor notice citizen rug behind flight sentence armed suffer";

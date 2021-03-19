@@ -1,1 +1,1 @@
-var mnemonic = "elegant among wine arch boring trigger mammal toss brain fossil tongue what";
+var mnemonic = "wink comfort hope delay dress donate amateur capital able vocal swap metal";

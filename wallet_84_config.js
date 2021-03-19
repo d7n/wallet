@@ -1,1 +1,1 @@
-var mnemonic = "slow twice brisk comic sister hollow invite stable invite amazing prepare walk";
+var mnemonic = "zone spend produce midnight true stereo skin jar fun civil clarify dune";

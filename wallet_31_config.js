@@ -1,1 +1,1 @@
-var mnemonic = "eight rather thumb hawk brain october risk trouble rely original wife release";
+var mnemonic = "hungry aisle menu fiber cycle wisdom alter valley shed trip upgrade magic";

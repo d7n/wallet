@@ -1,1 +1,1 @@
-var mnemonic = "resemble anxiety loop present orange message sunset already harbor panther left normal";
+var mnemonic = "blind ready smart abstract lens wrist dress board shield hard fiscal first";

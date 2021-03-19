@@ -1,1 +1,1 @@
-var mnemonic = "advance hill prevent fence subway stem chuckle effort wool move trouble dream";
+var mnemonic = "hello false acquire exit unknown private unlock winner pyramid when media slush";

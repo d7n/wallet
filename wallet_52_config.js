@@ -1,1 +1,1 @@
-var mnemonic = "civil yellow infant build earth bus imitate another head draw immense sport";
+var mnemonic = "method squeeze loop account away hunt penalty ship vanish layer announce vault";

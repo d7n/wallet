@@ -1,1 +1,1 @@
-var mnemonic = "night cloud album choose smooth pig leader dove measure junior dwarf entry";
+var mnemonic = "leisure ugly require addict promote energy develop river swim glance affair tag";

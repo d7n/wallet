@@ -1,1 +1,1 @@
-var mnemonic = "rival lion involve nation island cruel erupt panther bronze conduct bone fragile";
+var mnemonic = "ten shock tongue swear victory minute kit cheap stick present obey want";

@@ -1,1 +1,1 @@
-var mnemonic = "road antenna scan butter aspect rib pulp chaos glory require drastic canoe";
+var mnemonic = "enough little labor vast tragic mouse wild slogan message program polar turkey";

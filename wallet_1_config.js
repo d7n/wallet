@@ -1,1 +1,1 @@
-var mnemonic = "detect slow fence loyal entire tank category mask casino puzzle uncle work";
+var mnemonic = "distance grow famous bachelor puppy dismiss prevent infant thunder else battle post";

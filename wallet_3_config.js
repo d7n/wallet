@@ -1,1 +1,1 @@
-var mnemonic = "umbrella shove sea that toward model album spirit ivory shoot prize shift";
+var mnemonic = "nothing bind chicken hidden avoid then video blue first dial grab kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "amount picnic quality laptop flat casino spoon fury furnace beef fatigue frog";
+var mnemonic = "injury health lawsuit since bachelor promote hungry vapor protect action own where";

@@ -1,1 +1,1 @@
-var mnemonic = "long glimpse sign bronze lottery convince pretty enact drum tide beyond erase";
+var mnemonic = "laundry census mention belt tuition toe kite coin swear shaft you disorder";

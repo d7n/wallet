@@ -1,1 +1,1 @@
-var mnemonic = "napkin ramp magnet exit agent brother appear chalk tiger amused release second";
+var mnemonic = "flat tilt tongue duty pistol water relief gossip gauge bracket woman borrow";

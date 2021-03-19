@@ -1,1 +1,1 @@
-var mnemonic = "more walnut egg grit insane mutual measure measure face object west rally";
+var mnemonic = "tuna heart inmate sauce lecture paddle source capable bean magnet leopard birth";

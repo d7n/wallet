@@ -1,1 +1,1 @@
-var mnemonic = "opinion enrich lake nice success mountain style sorry wait museum patient later";
+var mnemonic = "question answer creek blast amount curve rocket scale asthma object obvious erase";

@@ -1,1 +1,1 @@
-var mnemonic = "despair burger other now sweet marriage beyond hold bike recipe reason scout";
+var mnemonic = "monster game stick connect slender mirror beef mirror trouble trip wink side";

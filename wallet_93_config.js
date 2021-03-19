@@ -1,1 +1,1 @@
-var mnemonic = "toe fame rain punch giant tobacco bird basic vapor shuffle decorate human";
+var mnemonic = "fortune lunar true suffer wear shadow floor wonder hand survey office near";

@@ -1,1 +1,1 @@
-var mnemonic = "draft immune dress search bag theory renew trash boy power tide exile";
+var mnemonic = "burger mystery salon mention juice enroll cause ask rookie theory mask crack";

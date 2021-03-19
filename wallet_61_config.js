@@ -1,1 +1,1 @@
-var mnemonic = "color security early nature elephant attack remember track visual uniform universe island";
+var mnemonic = "execute insect odor question more face ask monster include rude ball initial";

@@ -1,1 +1,1 @@
-var mnemonic = "useful muscle congress toddler face delay amateur glue melt refuse fox cup";
+var mnemonic = "frown venue razor crisp model wire usual lift panther secret snow pistol";

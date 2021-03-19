@@ -1,1 +1,1 @@
-var mnemonic = "swarm lonely satoshi trade ugly swear emerge fever holiday ice supply promote";
+var mnemonic = "govern escape blossom loop feel daughter shift midnight snow jelly half rely";

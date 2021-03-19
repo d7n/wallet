@@ -1,1 +1,1 @@
-var mnemonic = "isolate cloud celery upgrade stand gain away siren latin swift spin thing";
+var mnemonic = "result doll minor slot debate twin eternal orange sunny genius agent south";

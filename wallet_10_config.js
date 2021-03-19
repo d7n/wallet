@@ -1,1 +1,1 @@
-var mnemonic = "keep during fruit funny fossil pledge toe drum web miracle admit ceiling";
+var mnemonic = "open patient globe stairs mother diet board until hungry clap gesture age";

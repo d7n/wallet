@@ -1,1 +1,1 @@
-var mnemonic = "code glimpse chimney switch punch process target steak sniff muffin follow try";
+var mnemonic = "blind note swing spirit viable forward sugar chaos ahead expose abuse sell";

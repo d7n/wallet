@@ -1,1 +1,1 @@
-var mnemonic = "can tool buzz gallery guard uniform leopard space quick laptop slender expire";
+var mnemonic = "drip private appear spider proud snap chef confirm bag trust protect stone";

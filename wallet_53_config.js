@@ -1,1 +1,1 @@
-var mnemonic = "off rhythm analyst impose quick jar naive dish face hollow organ spin";
+var mnemonic = "nature hamster island nurse make bless broken glove royal galaxy gravity attend";

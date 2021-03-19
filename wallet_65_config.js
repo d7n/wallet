@@ -1,1 +1,1 @@
-var mnemonic = "satoshi citizen zebra stand hurry burger either mimic thrive flight cook lesson";
+var mnemonic = "must phrase prevent scissors relax left beach frog exercise ghost install belt";

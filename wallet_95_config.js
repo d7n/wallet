@@ -1,1 +1,1 @@
-var mnemonic = "void issue risk real leaf brief kick flock stove one army stuff";
+var mnemonic = "saddle common nephew sight equip similar valley disagree gym glory prosper rebuild";

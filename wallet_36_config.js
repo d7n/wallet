@@ -1,1 +1,1 @@
-var mnemonic = "burst notice armor purpose among theory twice obscure fortune treat pilot surface";
+var mnemonic = "boring more crumble dove fabric scan valve quarter canvas whip grief congress";

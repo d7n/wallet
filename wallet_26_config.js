@@ -1,1 +1,1 @@
-var mnemonic = "coast normal battle predict auto insane sunny loyal crouch ramp family safe";
+var mnemonic = "pen hire voice leg fork awkward risk bubble limit brave control great";

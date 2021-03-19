@@ -1,1 +1,1 @@
-var mnemonic = "wife olive supply bright waste daughter boat endorse session chapter nuclear main";
+var mnemonic = "know surge inflict emerge auction leader use pretty finger grief web decrease";

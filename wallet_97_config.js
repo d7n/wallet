@@ -1,1 +1,1 @@
-var mnemonic = "because client chuckle patrol naive select prepare three output body move buyer";
+var mnemonic = "evolve forest master alone below endless victory chimney favorite senior design asset";

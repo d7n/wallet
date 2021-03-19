@@ -1,1 +1,1 @@
-var mnemonic = "garden army brother pizza cause fly hat machine ahead produce victory design";
+var mnemonic = "comfort seven know essence expire shallow unveil law elder bacon file champion";

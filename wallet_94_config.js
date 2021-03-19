@@ -1,1 +1,1 @@
-var mnemonic = "throw supreme express mean dove carry wood brief estate mention east prize";
+var mnemonic = "major pudding fish party chat viable material mansion hurt rural corn music";

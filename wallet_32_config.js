@@ -1,1 +1,1 @@
-var mnemonic = "whale turn photo labor whisper language print wife script axis hero usage";
+var mnemonic = "nasty find across calm use cave hat donkey warfare garlic slim frame";

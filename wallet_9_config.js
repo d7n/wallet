@@ -1,1 +1,1 @@
-var mnemonic = "kid talent vocal forget foam lounge indicate wedding above obscure burger nephew";
+var mnemonic = "believe flock artefact border logic paddle title burger artefact alley stable virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "collect decorate biology beyond across field strategy zero owner foil globe valley";
+var mnemonic = "stone much embark dragon want amount assume film stick lawsuit success sustain";

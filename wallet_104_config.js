@@ -1,1 +1,1 @@
-var mnemonic = "stuff carbon sentence rice sunny siren planet radar witness second pet prize";
+var mnemonic = "clip direct general chuckle document album jealous tide detail riot bonus camera";

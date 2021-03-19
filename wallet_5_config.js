@@ -1,1 +1,1 @@
-var mnemonic = "topic wall arrest modify noodle powder enlist artefact satoshi rally zoo lesson";
+var mnemonic = "gaze step fabric child inhale mail spirit amount modify west utility throw";

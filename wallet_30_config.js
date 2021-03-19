@@ -1,1 +1,1 @@
-var mnemonic = "lemon tribe hurdle drama hockey profit rain cruel urge differ host shop";
+var mnemonic = "upon kid scissors define notice avocado harsh virtual wagon cloud true walnut";

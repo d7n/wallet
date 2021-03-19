@@ -1,1 +1,1 @@
-var mnemonic = "tortoise honey interest rent find cage noble sheriff ostrich industry trap near";
+var mnemonic = "ginger title snow argue burger paddle police laptop fragile citizen pelican mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "panda organ episode lumber pride slide night pony mystery funny vanish spirit";
+var mnemonic = "enter buffalo lunch sign hole abstract system hawk believe column core pig";

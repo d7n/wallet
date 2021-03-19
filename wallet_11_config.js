@@ -1,1 +1,1 @@
-var mnemonic = "catch decrease unusual random ripple river dirt honey remember level type code";
+var mnemonic = "boy bus reason enable series march matter combine scare melt engage bronze";

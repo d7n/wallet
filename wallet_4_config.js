@@ -1,1 +1,1 @@
-var mnemonic = "thought wonder trial because share exotic hope avocado iron spare vacant cloud";
+var mnemonic = "notice broom squirrel melody rate upon iron finish trigger palm olive labor";

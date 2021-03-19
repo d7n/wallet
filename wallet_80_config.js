@@ -1,1 +1,1 @@
-var mnemonic = "question climb salmon annual picnic opera urge pulse gasp impulse jeans cliff";
+var mnemonic = "strike crash tape media image next speak satisfy square thunder guess dial";

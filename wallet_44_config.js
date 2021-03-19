@@ -1,1 +1,1 @@
-var mnemonic = "black slam toward apology cabin key nothing neglect prefer doll maze weekend";
+var mnemonic = "speed decrease rent crew soda tower phrase mention soda valley entry volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "banner glory region absent useful moon argue merge unusual poverty fortune snow";
+var mnemonic = "vanish cause capable hurry power menu antenna side treat salute this wealth";

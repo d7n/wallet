@@ -1,1 +1,1 @@
-var mnemonic = "water file anchor culture seed target enhance brother resist eternal industry night";
+var mnemonic = "once debate pipe permit trade confirm rhythm uncover ranch unique maid taxi";

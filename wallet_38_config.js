@@ -1,1 +1,1 @@
-var mnemonic = "fiction draft amazing damage path same virtual lens direct glide jeans message";
+var mnemonic = "trigger famous release focus life lyrics poverty left spin sea brain bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "dry veteran alpha delay album guitar consider baby vibrant shed gauge spider";
+var mnemonic = "crisp property unhappy ready gossip bless enable steel quality evil capital equip";

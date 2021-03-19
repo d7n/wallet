@@ -1,1 +1,1 @@
-var mnemonic = "field result bottom future video error orange agree winter icon quote history";
+var mnemonic = "alpha envelope logic magnet cry leg gown reject question ten sister clay";

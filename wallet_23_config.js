@@ -1,1 +1,1 @@
-var mnemonic = "hello tourist powder actor venue goat wink thrive income nature strategy pause";
+var mnemonic = "blouse wage dad artist bunker stock indicate gym midnight acoustic grunt differ";

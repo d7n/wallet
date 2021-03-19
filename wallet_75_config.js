@@ -1,1 +1,1 @@
-var mnemonic = "recall harvest shock clean sick napkin toddler work rice grain imitate rotate";
+var mnemonic = "aspect human tomato praise lonely nephew able subject physical kangaroo box rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance coffee obvious eight remain fiscal ten pig attack dignity device rubber";
+var mnemonic = "cherry celery enjoy rug hen material chest mother trim pluck settle clog";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle prize chuckle loop hundred pepper wife private eye fitness fiber narrow";
+var mnemonic = "tool pear include room ball snap keen school soup question prevent supply";

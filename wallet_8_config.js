@@ -1,1 +1,1 @@
-var mnemonic = "tunnel album electric scatter jazz eternal payment voyage ski feel snake situate";
+var mnemonic = "upper bridge found veteran display flat service resource fan clever have tilt";

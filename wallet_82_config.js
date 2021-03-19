@@ -1,1 +1,1 @@
-var mnemonic = "today code huge already brick wealth rural loud lobster phrase jump typical";
+var mnemonic = "dumb derive essence glide acid assist fire front frequent purpose depth asthma";

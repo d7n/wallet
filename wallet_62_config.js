@@ -1,1 +1,1 @@
-var mnemonic = "ordinary require lock country country demise have pear balance struggle dune explain";
+var mnemonic = "empty borrow fancy slice boat language reveal fever zone wall mother budget";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran almost pass girl shield destroy august pink welcome people viable evil";
+var mnemonic = "bridge travel work axis useful borrow churn base planet burger parent suspect";

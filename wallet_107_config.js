@@ -1,1 +1,1 @@
-var mnemonic = "barely dutch mom life clutch inside space bone kiss excite eight hello";
+var mnemonic = "employ march brief tiger bring mesh heart damp sail tobacco winter major";

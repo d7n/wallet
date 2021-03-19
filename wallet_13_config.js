@@ -1,1 +1,1 @@
-var mnemonic = "snack display fix gun save toward chalk typical modify robot claw bronze";
+var mnemonic = "such gossip saddle small hint submit glass travel kidney lecture enrich trust";

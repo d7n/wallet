@@ -1,1 +1,1 @@
-var mnemonic = "shield cannon erupt weekend clutch ginger quiz bundle wife monkey catch cash";
+var mnemonic = "mule brief arena link dwarf use choice ask flavor just avocado obtain";

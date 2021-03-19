@@ -1,1 +1,1 @@
-var mnemonic = "flock oyster brief goose boss into loan fatigue spend pattern simple couch";
+var mnemonic = "pudding engage fabric video endorse hub gate type season length dose start";

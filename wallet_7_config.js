@@ -1,1 +1,1 @@
-var mnemonic = "next tornado couch merge course pledge pelican iron sleep sheriff hamster riot";
+var mnemonic = "clever still bird attack reveal custom cable female wait safe rabbit column";

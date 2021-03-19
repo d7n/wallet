@@ -1,1 +1,1 @@
-var mnemonic = "shuffle verb rough bag work witness health coach smooth bounce question play";
+var mnemonic = "vault then nest home return employ drill explain toddler replace peasant twin";

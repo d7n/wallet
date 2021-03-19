@@ -1,1 +1,1 @@
-var mnemonic = "wolf gas wisdom drastic quick smoke borrow staff involve balcony announce gas";
+var mnemonic = "bless vicious jungle please focus ankle pole middle range vendor oven lady";

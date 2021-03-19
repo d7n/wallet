@@ -1,1 +1,1 @@
-var mnemonic = "just spirit maximum panel agree subway stumble lazy enroll boil renew proof";
+var mnemonic = "maze ignore wire sunny hen rude profit crop cinnamon club extra yard";

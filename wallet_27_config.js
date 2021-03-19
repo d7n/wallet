@@ -1,1 +1,1 @@
-var mnemonic = "hello solve false trumpet possible uniform amused life kangaroo drop illegal kangaroo";
+var mnemonic = "target fresh bronze silver remind lesson canvas tooth history hen hub foam";

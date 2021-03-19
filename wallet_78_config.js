@@ -1,1 +1,1 @@
-var mnemonic = "change laptop mobile flip tape birth noodle crater leaf swim just over";
+var mnemonic = "female actor wood busy van forward fatigue economy couch ready drop dutch";

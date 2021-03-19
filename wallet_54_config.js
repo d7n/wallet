@@ -1,1 +1,1 @@
-var mnemonic = "assist junior category slogan rack wire final cement possible olive bird patch";
+var mnemonic = "myth plunge river reunion boat obey tourist kind chief drip gate domain";

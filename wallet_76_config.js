@@ -1,1 +1,1 @@
-var mnemonic = "below estate trend horse vessel clock copper family discover explain hub call";
+var mnemonic = "obey obey review talent kite spray garment wet army transfer update diet";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe tired mom rose note ring melt manage cousin wheel west toe";
+var mnemonic = "leisure buffalo federal goose can reveal toward afford movie deny strategy thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "year weird luggage day term arena bronze swift festival physical stable frog";
+var mnemonic = "visit laugh inspire jewel lab fun bean left chair glass base analyst";

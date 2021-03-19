@@ -1,1 +1,1 @@
-var mnemonic = "episode april eight measure sell slender element tilt erupt moon latin cave";
+var mnemonic = "amateur sausage lens seven risk school pencil scale sing beach work proud";

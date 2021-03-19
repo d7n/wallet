@@ -1,1 +1,1 @@
-var mnemonic = "inquiry unveil penalty fan limb moon neck soft dry stable often wisdom";
+var mnemonic = "again news charge hybrid cotton satoshi finger boring honey noise invite topple";

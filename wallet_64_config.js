@@ -1,1 +1,1 @@
-var mnemonic = "conduct legal motor mango axis version same injury fiber rug insect text";
+var mnemonic = "margin slender march husband face trophy brief frown thought again actual depth";

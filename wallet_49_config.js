@@ -1,1 +1,1 @@
-var mnemonic = "orange drink globe blast kit type head dumb airport coconut loop slight";
+var mnemonic = "side chair remember wide adapt maple exist elegant clock dad fiction situate";

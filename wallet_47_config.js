@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon betray cricket awake orange until cereal awful talent toy fall rough";
+var mnemonic = "twelve find throw topple vapor moment dream twenty artefact lady apple dice";

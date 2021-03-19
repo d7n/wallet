@@ -1,1 +1,1 @@
-var mnemonic = "tip actress marble wasp embody vacuum verb prosper metal fabric domain economy";
+var mnemonic = "tumble castle flag soul favorite thunder message nice picnic sell mushroom uphold";
