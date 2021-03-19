@@ -1,1 +1,1 @@
-var mnemonic = "also decline cabin beef govern raw question achieve long truth episode fat";
+var mnemonic = "today flag negative bind online verb stool addict armor banana diamond copper";

@@ -1,1 +1,1 @@
-var mnemonic = "manual bike siren morning delay expire spawn north dry thunder among blouse";
+var mnemonic = "ugly connect fiscal milk song humble belt odor connect regret turtle almost";

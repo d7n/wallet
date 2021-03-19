@@ -1,1 +1,1 @@
-var mnemonic = "devote slender expect end inner cattle rapid add length warm cruel garbage";
+var mnemonic = "mother spin ignore upon track genius empower uphold search blush clutch cloud";

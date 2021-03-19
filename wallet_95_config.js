@@ -1,1 +1,1 @@
-var mnemonic = "twenty mixed phone card grocery cube raw coin soda badge unveil family";
+var mnemonic = "ginger tower pet shift until cute eager giggle midnight swamp occur print";

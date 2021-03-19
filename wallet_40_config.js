@@ -1,1 +1,1 @@
-var mnemonic = "acoustic wrist load inch exhaust brisk flame machine satoshi vacant metal promote";
+var mnemonic = "sentence possible alcohol curve chronic episode lazy snake word elite taste ginger";

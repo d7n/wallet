@@ -1,1 +1,1 @@
-var mnemonic = "clutch sheriff vibrant novel sunset uncover fetch train quit ancient fog jealous";
+var mnemonic = "sword elite give echo output live hundred dawn fruit buyer decorate flight";

@@ -1,1 +1,1 @@
-var mnemonic = "force chef black tone ladder tent spot afford race spread poet friend";
+var mnemonic = "device volcano polar opinion foot snake panda question return impulse slow puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "wink modify cost effort caution raw swamp mansion naive virus march typical";
+var mnemonic = "lion segment mixture muscle rural decide among pottery antique traffic ecology surround";

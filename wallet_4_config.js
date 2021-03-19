@@ -1,1 +1,1 @@
-var mnemonic = "reflect cup crew label faith gun enlist gravity tone report allow bag";
+var mnemonic = "song pet debris afraid must mosquito crumble toast rocket true donkey truly";

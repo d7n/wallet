@@ -1,1 +1,1 @@
-var mnemonic = "enough fade fragile twice milk spoil early ill real stuff ball gate";
+var mnemonic = "shoulder detail aunt cricket hungry switch correct same jealous lab prefer dust";

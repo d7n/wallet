@@ -1,1 +1,1 @@
-var mnemonic = "sentence actor price leisure fine tape demand capable vibrant easy actor sea";
+var mnemonic = "wide clip luxury foster enjoy stage repeat label moral noodle budget learn";

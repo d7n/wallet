@@ -1,1 +1,1 @@
-var mnemonic = "wisdom nice rely bullet kitten give ladder pride two foster surround silver";
+var mnemonic = "blame garlic power switch paper season talk feed junior upset venture defense";

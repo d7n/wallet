@@ -1,1 +1,1 @@
-var mnemonic = "coil afford reveal long cheese ginger practice vivid delay fun vivid enjoy";
+var mnemonic = "lava scout move dress brush trip unveil picture talent ensure code sure";

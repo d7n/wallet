@@ -1,1 +1,1 @@
-var mnemonic = "food business square twice very urban curious rib manage teach forget fun";
+var mnemonic = "brother engage knife glue leg before whale acid social useful ski other";

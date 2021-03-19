@@ -1,1 +1,1 @@
-var mnemonic = "fringe tackle stereo judge bamboo wonder duty pretty scale industry flat hunt";
+var mnemonic = "away hard hockey flash bid axis regret april major chimney injury whisper";

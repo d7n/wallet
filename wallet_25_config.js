@@ -1,1 +1,1 @@
-var mnemonic = "aerobic any coyote diesel educate share slow fine popular valid myth retire";
+var mnemonic = "jealous stove front nerve silver diary story panda tongue access margin possible";

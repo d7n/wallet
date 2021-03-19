@@ -1,1 +1,1 @@
-var mnemonic = "lab attitude retreat loop use night match ramp border island rebuild cupboard";
+var mnemonic = "spy opinion unhappy push machine rate buddy destroy tree miss sense side";

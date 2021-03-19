@@ -1,1 +1,1 @@
-var mnemonic = "luxury slide guard charge that resource moment detect fitness sustain tooth charge";
+var mnemonic = "potato either you mass orient verb chuckle adjust waste sight quiz flag";

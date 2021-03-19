@@ -1,1 +1,1 @@
-var mnemonic = "crystal scale click police smooth impulse angle frown industry wheat live fan";
+var mnemonic = "globe rubber travel arrange stuff climb monitor organ whale similar jeans ivory";

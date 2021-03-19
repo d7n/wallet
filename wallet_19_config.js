@@ -1,1 +1,1 @@
-var mnemonic = "cancel cactus knee voyage alert garment child funny fame inquiry indoor brick";
+var mnemonic = "village recipe cheap soldier solve wise cake shop crawl indicate occur relief";

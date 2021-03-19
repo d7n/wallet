@@ -1,1 +1,1 @@
-var mnemonic = "must gold welcome throw eight finish pupil skill banner wheat punch loop";
+var mnemonic = "predict bench distance destroy finger shy yard silly hungry swap tag armed";

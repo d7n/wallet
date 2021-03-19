@@ -1,1 +1,1 @@
-var mnemonic = "fabric grab park autumn upon neck predict protect team erode candy october";
+var mnemonic = "spatial canal skill foot random dust update hollow fiber wave rail ice";

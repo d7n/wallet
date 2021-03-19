@@ -1,1 +1,1 @@
-var mnemonic = "mansion butter across tower saddle plug title vocal merit area gospel broken";
+var mnemonic = "monitor loop speed maximum arm match crystal taxi describe ivory armed moment";

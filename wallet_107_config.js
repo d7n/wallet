@@ -1,1 +1,1 @@
-var mnemonic = "ugly suggest arrange puppy shoe loyal fresh olive profit struggle know matter";
+var mnemonic = "buddy drill local twenty describe merit later rib diet demise weapon wool";

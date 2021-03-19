@@ -1,1 +1,1 @@
-var mnemonic = "floor laugh paddle ketchup mango real ginger innocent must mother name pudding";
+var mnemonic = "season seat allow obvious swallow fury great boss gaze joy bid matter";

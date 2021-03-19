@@ -1,1 +1,1 @@
-var mnemonic = "enlist devote cannon argue program quick smooth split veteran like excite dance";
+var mnemonic = "double nut benefit wealth ship menu crazy outer despair example galaxy clip";

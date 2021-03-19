@@ -1,1 +1,1 @@
-var mnemonic = "future match syrup police autumn blanket organ process swing three script quality";
+var mnemonic = "depth rely happy cup gold beyond obscure arctic wet exile slot brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican viable pupil output letter beach capable myself laptop orphan weekend average";
+var mnemonic = "green turtle ugly taxi blame lend carry raccoon drop order board throw";

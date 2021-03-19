@@ -1,1 +1,1 @@
-var mnemonic = "success patient opera inside village phone bullet denial attitude echo antenna dynamic";
+var mnemonic = "egg fee never absent barely excess demand ordinary few family busy table";

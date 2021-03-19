@@ -1,1 +1,1 @@
-var mnemonic = "shiver tomorrow window license casual rain island rigid palace brief hand liquid";
+var mnemonic = "dignity fix acid table pitch vintage reflect inside cost album hen between";

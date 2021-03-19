@@ -1,1 +1,1 @@
-var mnemonic = "betray citizen gadget rifle fantasy save pig destroy heart castle rally neutral";
+var mnemonic = "fabric price hospital movie exact lunch around own elegant concert include material";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital since kick fashion wise piano canvas dizzy taxi neutral current subway";
+var mnemonic = "fork web educate theory alarm domain apple reflect exit retire iron coyote";

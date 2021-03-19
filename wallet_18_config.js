@@ -1,1 +1,1 @@
-var mnemonic = "vicious turn note emotion ladder cute result entry coil spin cream fragile";
+var mnemonic = "impact waste foil face brain snap stamp february property rhythm west merit";

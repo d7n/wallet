@@ -1,1 +1,1 @@
-var mnemonic = "alien large ecology icon list fabric never end pupil crime february kid";
+var mnemonic = "trophy crawl boy buddy fatal magic number clean voyage feed save cause";

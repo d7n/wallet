@@ -1,1 +1,1 @@
-var mnemonic = "village false slush party curious outer slow stand agent blood coil swap";
+var mnemonic = "fish youth brave shift front unique prize regret marble general accuse home";

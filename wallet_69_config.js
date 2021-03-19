@@ -1,1 +1,1 @@
-var mnemonic = "radar loan health time embody opinion dash sustain whisper autumn steak truly";
+var mnemonic = "grain spike salad chimney mansion rhythm wing faint exclude vague raccoon demand";

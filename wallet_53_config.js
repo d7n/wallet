@@ -1,1 +1,1 @@
-var mnemonic = "turkey siren grit sugar fitness reform upon run immune cluster receive burger";
+var mnemonic = "rose cruise wise curtain report iron flavor tuition soul manage supply pass";

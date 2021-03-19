@@ -1,1 +1,1 @@
-var mnemonic = "forget nut jeans borrow slight state airport flash dentist shuffle vital setup";
+var mnemonic = "hour rib invest glad deal key interest omit legal wrist library shadow";

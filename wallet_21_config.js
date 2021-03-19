@@ -1,1 +1,1 @@
-var mnemonic = "paddle depth attend exhibit pond bike live fit load next turkey pelican";
+var mnemonic = "asthma frozen goddess hamster found canal cash topic adjust oval energy flip";

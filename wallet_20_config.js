@@ -1,1 +1,1 @@
-var mnemonic = "since essay trade novel blade raven sphere remind invest stadium time bottom";
+var mnemonic = "valve avoid chronic shiver chronic day bunker gap civil dress slide amused";

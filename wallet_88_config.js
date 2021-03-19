@@ -1,1 +1,1 @@
-var mnemonic = "margin more praise clip category company later robust unusual sleep popular token";
+var mnemonic = "crash pilot ocean bless plug often duty bubble submit much inmate ramp";

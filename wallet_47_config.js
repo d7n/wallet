@@ -1,1 +1,1 @@
-var mnemonic = "soccer comic labor weather when rather odor express annual clump ladder tower";
+var mnemonic = "strategy avoid roof stuff grace connect crater brain math crisp garlic define";

@@ -1,1 +1,1 @@
-var mnemonic = "inch twin spoon transfer arrest promote tortoise nest noise rich gaze emerge";
+var mnemonic = "rescue rapid people relax domain object fruit click exhibit torch sibling wall";

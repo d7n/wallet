@@ -1,1 +1,1 @@
-var mnemonic = "congress dance match know donkey ticket useful lyrics increase radio cactus organ";
+var mnemonic = "dog erode drop pencil boost collect filter alarm innocent pole urge thought";

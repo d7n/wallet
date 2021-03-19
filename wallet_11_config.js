@@ -1,1 +1,1 @@
-var mnemonic = "rigid shed cruise combine field average stable traffic tattoo tobacco recall output";
+var mnemonic = "absent recipe rival wine original focus auto smile thumb agent predict sign";

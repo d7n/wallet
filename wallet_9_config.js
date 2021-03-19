@@ -1,1 +1,1 @@
-var mnemonic = "wing burst april invest warm tool primary mirror obtain life scare boss";
+var mnemonic = "excuse monitor prefer mesh cluster exotic route idle slow space humor effort";

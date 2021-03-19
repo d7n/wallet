@@ -1,1 +1,1 @@
-var mnemonic = "walk concert object orange photo capable knock cost curve depend initial episode";
+var mnemonic = "secret diesel memory swallow sauce course dial fetch vicious patch neither various";

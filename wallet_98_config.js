@@ -1,1 +1,1 @@
-var mnemonic = "blush drastic salad frame void flavor plastic marine base century flame broken";
+var mnemonic = "arrest bus capable best smoke addict canoe series forum beauty chaos flower";

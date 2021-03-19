@@ -1,1 +1,1 @@
-var mnemonic = "seek used swarm supply infant trial country shock balance apart talk scare";
+var mnemonic = "burden truck sheriff tourist laugh strong hybrid resource problem solid scrap parent";

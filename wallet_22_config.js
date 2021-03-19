@@ -1,1 +1,1 @@
-var mnemonic = "corn bachelor grant actress record clap six betray humor seven soccer mixture";
+var mnemonic = "wonder salute purity produce museum source cat degree soft where reflect expect";

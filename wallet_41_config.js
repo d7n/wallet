@@ -1,1 +1,1 @@
-var mnemonic = "orient chest brain blue board buzz record blood real bundle alley sense";
+var mnemonic = "vehicle eagle cloud dutch upset canvas uncle basic patch jewel member view";

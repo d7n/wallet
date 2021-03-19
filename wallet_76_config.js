@@ -1,1 +1,1 @@
-var mnemonic = "drift cry delay used settle avocado daring any model tail labor jaguar";
+var mnemonic = "diet shield virus work used enrich chuckle scene myself virtual health culture";

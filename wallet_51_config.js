@@ -1,1 +1,1 @@
-var mnemonic = "fix order coach absorb daughter jewel wrist swarm school ride clap estate";
+var mnemonic = "confirm pole april gorilla cherry course market certain return bless surprise demand";

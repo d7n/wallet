@@ -1,1 +1,1 @@
-var mnemonic = "address bright record bulb kid captain must buyer return arena pumpkin match";
+var mnemonic = "over dawn game woman stay silent design thing response more bright bonus";

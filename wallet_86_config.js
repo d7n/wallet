@@ -1,1 +1,1 @@
-var mnemonic = "promote cupboard chase easily resource cart later clog sail gas iron envelope";
+var mnemonic = "duck misery color ring envelope firm volcano slender toddler few strike pelican";

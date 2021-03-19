@@ -1,1 +1,1 @@
-var mnemonic = "speak stay clown reveal coral curve patrol conduct uncover small settle speak";
+var mnemonic = "wrestle cash panel leaf divorce fit trim pumpkin double stomach spirit indicate";

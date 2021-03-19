@@ -1,1 +1,1 @@
-var mnemonic = "fruit december dilemma nice short spoil cereal piano claw water material vehicle";
+var mnemonic = "egg sadness trap divide hockey expose drill problem keen robot motion history";

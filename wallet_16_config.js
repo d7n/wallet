@@ -1,1 +1,1 @@
-var mnemonic = "usual foam fancy type divide december lake swim photo memory keep garlic";
+var mnemonic = "marble upper gloom fix rail ranch alarm control area path celery health";

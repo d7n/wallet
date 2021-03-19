@@ -1,1 +1,1 @@
-var mnemonic = "reopen wink chalk know parrot buyer liar payment swift rapid quote learn";
+var mnemonic = "icon example index hard emotion point steel slab depart ill crop target";

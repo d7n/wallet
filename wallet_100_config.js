@@ -1,1 +1,1 @@
-var mnemonic = "calm ugly biology base best idle curve language taxi play song ketchup";
+var mnemonic = "office whisper drive topple distance sort bamboo among egg awkward accuse diesel";

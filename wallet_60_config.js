@@ -1,1 +1,1 @@
-var mnemonic = "talk lens bachelor auto flight spot fold spin swim rent twice nominee";
+var mnemonic = "hip say brass praise since tooth friend cradle student bronze huge power";

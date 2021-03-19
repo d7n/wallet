@@ -1,1 +1,1 @@
-var mnemonic = "sock unveil cream note dentist payment cause home gift bench suit extend";
+var mnemonic = "tunnel velvet wink globe rely shallow buffalo interest theory swarm have helmet";

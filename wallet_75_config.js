@@ -1,1 +1,1 @@
-var mnemonic = "inform foam ocean page since express never music nation orient artwork prefer";
+var mnemonic = "size person fever recipe universe mushroom staff acid waste census screen iron";

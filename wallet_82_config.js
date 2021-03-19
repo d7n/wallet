@@ -1,1 +1,1 @@
-var mnemonic = "holiday climb season hurdle bar actual dice forum clip worry mixture page";
+var mnemonic = "meadow more armor glass scan beyond busy surface crop slow yellow dinosaur";

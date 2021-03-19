@@ -1,1 +1,1 @@
-var mnemonic = "modify tackle pony buzz diet lazy consider drama puppy item remain isolate";
+var mnemonic = "essence scheme across must polar quit stay luxury casino fun thrive chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "salute arctic grain exotic invest domain gesture spare hockey victory problem naive";
+var mnemonic = "basket renew town thumb actor enrich undo asthma erode unfold squeeze finger";

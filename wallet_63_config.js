@@ -1,1 +1,1 @@
-var mnemonic = "captain farm focus iron theory rely once floor paper style story bullet";
+var mnemonic = "toddler donate square suspect dwarf rescue glimpse arena loud chicken favorite device";

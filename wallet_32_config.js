@@ -1,1 +1,1 @@
-var mnemonic = "leaf brisk secret cigar elevator soap wide sudden reduce great erode able";
+var mnemonic = "already winter horn artwork harbor badge weird spoil body able friend document";

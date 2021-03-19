@@ -1,1 +1,1 @@
-var mnemonic = "sort laptop fragile away rigid swap copy squirrel solution wonder ostrich merge";
+var mnemonic = "viable tourist display release liquid name twice carbon hybrid rural weapon head";

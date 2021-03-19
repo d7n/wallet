@@ -1,1 +1,1 @@
-var mnemonic = "indoor bleak sleep addict relief conduct board retire oak fun diamond journey";
+var mnemonic = "camera siren must expand figure dolphin rubber day luxury spatial stamp ostrich";

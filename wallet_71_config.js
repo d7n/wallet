@@ -1,1 +1,1 @@
-var mnemonic = "input control recycle federal stage donkey endless penalty journey torch tonight thought";
+var mnemonic = "rude pull vital pretty jump drink grab easy piano fantasy absent multiply";

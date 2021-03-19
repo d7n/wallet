@@ -1,1 +1,1 @@
-var mnemonic = "decorate street road security lawsuit marine vanish mountain monitor caution decide shoulder";
+var mnemonic = "describe milk asthma thunder sadness fine ship side reform convince twin other";

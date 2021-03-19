@@ -1,1 +1,1 @@
-var mnemonic = "duck canal weasel island weasel spoil cat bracket flat version weather knee";
+var mnemonic = "police major spot first chest column mobile relax dynamic mail machine million";

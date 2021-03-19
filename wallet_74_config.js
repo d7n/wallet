@@ -1,1 +1,1 @@
-var mnemonic = "inherit artwork soon flame virus umbrella chef material eager minimum boost wedding";
+var mnemonic = "uphold brown cargo tiger inner piece excess bridge kidney tumble defy clump";

@@ -1,1 +1,1 @@
-var mnemonic = "egg assault cruel suffer extend top purse peace bamboo skirt between rhythm";
+var mnemonic = "satisfy such turkey ostrich dress tail hobby snack filter brass process way";

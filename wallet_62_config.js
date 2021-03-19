@@ -1,1 +1,1 @@
-var mnemonic = "diagram stadium erase conduct estate mystery melt rocket bonus trade hope vote";
+var mnemonic = "icon test pitch want slim quote stadium teach seed noble tell success";

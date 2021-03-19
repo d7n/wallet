@@ -1,1 +1,1 @@
-var mnemonic = "welcome alley dismiss credit laptop ghost stereo attack oak earth arrange expand";
+var mnemonic = "anxiety message middle cancel glove truth scheme room lion reunion alley rack";

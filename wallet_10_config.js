@@ -1,1 +1,1 @@
-var mnemonic = "clog exist follow bus usage dwarf review wrist tree broom eyebrow swim";
+var mnemonic = "ribbon title trend trap shell fine gallery tired spray flee attitude slush";

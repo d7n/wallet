@@ -1,1 +1,1 @@
-var mnemonic = "settle about cupboard pink first between tribe result shallow hand alley narrow";
+var mnemonic = "dove cube lyrics similar credit chuckle way palm copper until turtle service";

@@ -1,1 +1,1 @@
-var mnemonic = "else crisp wage fashion quit winner luxury all lottery item wall topic";
+var mnemonic = "loop exact explain sausage ancient ugly claw release crowd indoor boat session";

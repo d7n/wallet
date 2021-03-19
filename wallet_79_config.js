@@ -1,1 +1,1 @@
-var mnemonic = "dance van alpha jaguar fiber puppy fence label width target park mixed";
+var mnemonic = "trust coil candy anxiety scorpion engage firm switch barely daughter pistol world";

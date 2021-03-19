@@ -1,1 +1,1 @@
-var mnemonic = "frozen myself major decorate sample cinnamon language result wrist rich live company";
+var mnemonic = "will alter before desk upon rotate museum paper zebra soldier swap bullet";

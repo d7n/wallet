@@ -1,1 +1,1 @@
-var mnemonic = "absurd enable unfold program cage term soul exhaust cabin ankle belt science";
+var mnemonic = "discover exchange cousin picture daughter reject sure also enhance cancel mail popular";

@@ -1,1 +1,1 @@
-var mnemonic = "matter sentence airport call right process fashion mean eight blossom blood napkin";
+var mnemonic = "frog trust aim skull party high jump kiwi point praise net room";

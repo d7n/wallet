@@ -1,1 +1,1 @@
-var mnemonic = "series accident hero argue equal fine auction jacket buffalo scan limb busy";
+var mnemonic = "advance tongue meadow waste organ destroy measure desk clarify arrow opera ordinary";

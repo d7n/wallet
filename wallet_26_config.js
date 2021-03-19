@@ -1,1 +1,1 @@
-var mnemonic = "pattern hover metal valid ketchup off real swallow afraid nasty join rocket";
+var mnemonic = "rigid cousin wrist armed bonus shoe elevator media differ mutual garlic clerk";

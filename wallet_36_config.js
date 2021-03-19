@@ -1,1 +1,1 @@
-var mnemonic = "acquire sweet just neck next answer cliff girl crime market armed deny";
+var mnemonic = "axis curtain day produce shaft cruel between payment inflict cotton world robust";

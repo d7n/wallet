@@ -1,1 +1,1 @@
-var mnemonic = "glow loan glimpse item spoon verify vapor account cereal chair safe stand";
+var mnemonic = "breeze olympic inherit sport please ensure balcony level current vocal police nut";

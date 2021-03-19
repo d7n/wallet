@@ -1,1 +1,1 @@
-var mnemonic = "siege ladder mystery fork bracket sort gain usual just hen case tourist";
+var mnemonic = "cup govern glue expand drill gossip leopard job barely extra door unable";

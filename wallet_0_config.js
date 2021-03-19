@@ -1,1 +1,1 @@
-var mnemonic = "transfer spring excuse embody alien pepper gift rubber exchange giggle shock sword";
+var mnemonic = "area spy panda taste head axis model choose agent winner afford welcome";

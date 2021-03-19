@@ -1,1 +1,1 @@
-var mnemonic = "village thumb common kidney jacket ramp core joke fuel produce coconut region";
+var mnemonic = "hospital wing scrap define bamboo coyote siege shift morning begin zebra cinnamon";

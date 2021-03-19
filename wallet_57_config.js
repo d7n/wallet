@@ -1,1 +1,1 @@
-var mnemonic = "write kangaroo family crack region dignity stock voyage elder jar eager host";
+var mnemonic = "cram mouse dolphin start pause bridge frog summer gaze office oval style";

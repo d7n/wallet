@@ -1,1 +1,1 @@
-var mnemonic = "govern ill similar transfer deliver naive moon move lobster potato vault marriage";
+var mnemonic = "demand scare grid pulp evil garbage debris switch wine define bag tank";

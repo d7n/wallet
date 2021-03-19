@@ -1,1 +1,1 @@
-var mnemonic = "plate have cupboard cruise educate soul shrimp point trash cost index become";
+var mnemonic = "weird magnet good gossip season demand all live guitar saddle hedgehog involve";

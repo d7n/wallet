@@ -1,1 +1,1 @@
-var mnemonic = "special fossil file minute wear battle frown renew now cousin bomb civil";
+var mnemonic = "enable pulp victory evoke bachelor matrix predict ignore impulse twelve creek seminar";

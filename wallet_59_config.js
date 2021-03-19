@@ -1,1 +1,1 @@
-var mnemonic = "work live mother crumble moment illness injury engage vibrant assist scene typical";
+var mnemonic = "feel claw farm segment fade shell fog electric canoe hero exchange film";

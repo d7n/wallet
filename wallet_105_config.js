@@ -1,1 +1,1 @@
-var mnemonic = "reflect couch void price hat ticket moment tired cat strike dutch local";
+var mnemonic = "office kangaroo call local hello execute raccoon stove mystery observe crowd dog";

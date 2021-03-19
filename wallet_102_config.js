@@ -1,1 +1,1 @@
-var mnemonic = "hill engage bread seven give crisp vocal oyster visit alert misery render";
+var mnemonic = "confirm hover weird mixture avoid seed quote bus stamp original result when";

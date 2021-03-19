@@ -1,1 +1,1 @@
-var mnemonic = "tide possible ivory submit voice often various female woman razor wise sketch";
+var mnemonic = "weapon crowd security noble measure fit wrist debate speed balance invest proud";

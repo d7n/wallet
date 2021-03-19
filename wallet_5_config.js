@@ -1,1 +1,1 @@
-var mnemonic = "rule gate again camera club elephant column web solid cluster author master";
+var mnemonic = "pottery reject remove brick crack diagram baby animal polar harsh size reveal";
