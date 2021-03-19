@@ -1,1 +1,1 @@
-var mnemonic = "sniff art water cotton vanish kick category inherit trip escape mention hockey";
+var mnemonic = "attract mother horror struggle eager sheriff palace annual rice basic item deputy";

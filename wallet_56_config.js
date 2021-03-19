@@ -1,1 +1,1 @@
-var mnemonic = "dad trial replace pyramid finish salmon keep army tuition payment laptop leopard";
+var mnemonic = "clerk sorry license park budget imitate daring park damp twenty era chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "food scorpion tennis galaxy breeze vehicle behave pet swim tray lawn embody";
+var mnemonic = "kite live object robust panic picture zone flip loop turn caution fold";

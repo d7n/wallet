@@ -1,1 +1,1 @@
-var mnemonic = "punch local meadow stomach produce dismiss rare range peasant across slender mistake";
+var mnemonic = "bronze final allow fabric program reflect own prize sense better immune voyage";

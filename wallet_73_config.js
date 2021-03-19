@@ -1,1 +1,1 @@
-var mnemonic = "globe insect dismiss diamond novel cattle fossil pilot shed squirrel subject hint";
+var mnemonic = "crowd fault paddle cancel enroll struggle eagle candy hub obtain kid bean";

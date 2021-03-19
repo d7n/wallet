@@ -1,1 +1,1 @@
-var mnemonic = "wine correct pull common pause step stand tissue session atom nature plunge";
+var mnemonic = "lab avocado often venture tattoo before dress super online guard suit amateur";

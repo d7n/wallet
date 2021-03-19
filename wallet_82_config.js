@@ -1,1 +1,1 @@
-var mnemonic = "grid faith orbit method plunge interest second sound sell athlete setup broccoli";
+var mnemonic = "indoor wave pyramid pulse logic lecture oxygen lounge giggle onion dirt poverty";

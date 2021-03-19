@@ -1,1 +1,1 @@
-var mnemonic = "impulse icon under tribe raccoon ramp history burger soon grocery remember grace";
+var mnemonic = "outside sausage source forward interest sound immense subject measure venue music include";

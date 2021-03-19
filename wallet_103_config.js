@@ -1,1 +1,1 @@
-var mnemonic = "advice between menu embrace teach penalty like solution animal tackle unknown rail";
+var mnemonic = "diesel lunar pill ridge episode tattoo regular museum cup fresh lava situate";

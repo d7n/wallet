@@ -1,1 +1,1 @@
-var mnemonic = "true nature oblige alter uncle then require trade mushroom two tank scissors";
+var mnemonic = "clever input educate melt need wet sad prosper leader express army gap";

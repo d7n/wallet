@@ -1,1 +1,1 @@
-var mnemonic = "absurd wagon transfer need solve destroy almost neglect athlete empty trumpet nothing";
+var mnemonic = "toy hill escape fox cream miracle torch foot foil stand wolf used";

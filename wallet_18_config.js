@@ -1,1 +1,1 @@
-var mnemonic = "enact defy idea list shrimp guitar warrior deliver gossip caution end oblige";
+var mnemonic = "exist ignore purity mobile fiber cluster copy merit carry scorpion cluster rail";

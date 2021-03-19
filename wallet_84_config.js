@@ -1,1 +1,1 @@
-var mnemonic = "route young uphold nature carpet faint month double hold wool very glad";
+var mnemonic = "laundry rail tragic school embrace analyst rabbit slide reveal file found wasp";

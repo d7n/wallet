@@ -1,1 +1,1 @@
-var mnemonic = "tissue pull balcony two join camp leaf side mix fiscal priority fit";
+var mnemonic = "drill address tunnel spring pledge rely prevent stone river dismiss section shaft";

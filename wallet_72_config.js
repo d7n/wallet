@@ -1,1 +1,1 @@
-var mnemonic = "random green oxygen knock ski custom crazy wife feature rabbit logic notice";
+var mnemonic = "twin speed local torch law behind tooth shift clown leaf hello lion";

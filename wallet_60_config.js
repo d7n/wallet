@@ -1,1 +1,1 @@
-var mnemonic = "fetch gasp model reopen secret fiscal gloom plug emotion curtain noodle sponsor";
+var mnemonic = "accuse fork forward culture grain wrong grape drift stumble shine true stone";

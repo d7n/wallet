@@ -1,1 +1,1 @@
-var mnemonic = "sight truck scale pencil prefer wall eyebrow surround will ability end enough";
+var mnemonic = "busy buddy citizen walk gravity inspire farm busy borrow tent fork unit";

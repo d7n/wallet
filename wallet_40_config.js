@@ -1,1 +1,1 @@
-var mnemonic = "success away crucial arch negative photo squirrel next pass weekend chief anxiety";
+var mnemonic = "picnic famous cloud patrol copy next accident autumn minute mail flip arrest";

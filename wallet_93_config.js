@@ -1,1 +1,1 @@
-var mnemonic = "marble onion practice wish duty raven twenty case guard used dice sauce";
+var mnemonic = "drama leopard cactus puppy source similar snap label square trap warm know";

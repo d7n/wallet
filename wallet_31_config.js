@@ -1,1 +1,1 @@
-var mnemonic = "earn six frame ensure pact zebra trick north rate country resource purse";
+var mnemonic = "innocent hire urge monster awake couple hobby sting antique humor sing rally";

@@ -1,1 +1,1 @@
-var mnemonic = "champion punch toe top black noble option wave scare absurd dizzy utility";
+var mnemonic = "menu afraid range property chronic tumble marine place west pepper dish vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito sting split grocery armor year tilt good spin parade uniform shy";
+var mnemonic = "about churn exile chair suggest stumble disagree treat outer please into possible";

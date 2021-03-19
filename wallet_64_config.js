@@ -1,1 +1,1 @@
-var mnemonic = "buddy payment raven give stereo forest viable smile toilet inform uphold local";
+var mnemonic = "stove load daughter hood fence radar sentence rely vocal pave arena guide";

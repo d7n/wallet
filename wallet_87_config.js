@@ -1,1 +1,1 @@
-var mnemonic = "pulse issue flash stool honey use spare net glimpse glory slot region";
+var mnemonic = "tip dirt ask begin nerve brick hint rigid enemy afraid amateur spice";

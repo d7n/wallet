@@ -1,1 +1,1 @@
-var mnemonic = "lava dragon nothing reflect assault clock style cash orient idea sand anxiety";
+var mnemonic = "address goat smoke educate patrol school cushion display quit park slam convince";

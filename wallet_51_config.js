@@ -1,1 +1,1 @@
-var mnemonic = "quote balance web sadness meadow what position arch neck pipe fold daughter";
+var mnemonic = "kidney outside word borrow execute rate escape duck spy push banner ivory";

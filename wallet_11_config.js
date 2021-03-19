@@ -1,1 +1,1 @@
-var mnemonic = "execute suit act blue market buyer chief return physical horror aware execute";
+var mnemonic = "save warrior adjust old slot congress drop once ski ranch protect defense";

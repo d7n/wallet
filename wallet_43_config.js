@@ -1,1 +1,1 @@
-var mnemonic = "fee river dutch normal burger modify trend float demise spread hello crop";
+var mnemonic = "liar zebra sketch jelly melt lumber suspect sample fence stove current pistol";

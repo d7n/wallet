@@ -1,1 +1,1 @@
-var mnemonic = "gospel adapt answer elite source junior royal useful appear dignity neglect need";
+var mnemonic = "type buffalo bargain cash rebuild upon chef route waste hurt feed raccoon";

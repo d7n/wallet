@@ -1,1 +1,1 @@
-var mnemonic = "street explain rare bulb potato whale squirrel scene seed produce gather rocket";
+var mnemonic = "mention auto borrow clerk neither toilet cement tobacco mule sound seed cousin";

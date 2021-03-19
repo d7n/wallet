@@ -1,1 +1,1 @@
-var mnemonic = "wall right dawn until neck boss match target grief energy deliver dismiss";
+var mnemonic = "all donkey awful combine slow disorder paddle burger can ramp lazy prepare";

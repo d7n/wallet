@@ -1,1 +1,1 @@
-var mnemonic = "foam zebra army sing injury sleep mirror final lady cream exercise castle";
+var mnemonic = "myth scrub twin cloth man sock frog hurt quality enroll rack undo";

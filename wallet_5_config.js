@@ -1,1 +1,1 @@
-var mnemonic = "allow ugly result cross soldier jaguar rely chase they whale squirrel retire";
+var mnemonic = "ostrich render reveal people decade talent derive nature direct devote master unable";

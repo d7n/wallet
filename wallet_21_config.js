@@ -1,1 +1,1 @@
-var mnemonic = "wise belt virtual glad girl common silent student divorce sphere oxygen maze";
+var mnemonic = "loud all panther rubber divert abandon ginger rebel dove supreme flight uncover";

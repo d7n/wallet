@@ -1,1 +1,1 @@
-var mnemonic = "access fever shrimp barrel face found island subject raw once radar tuition";
+var mnemonic = "hard add exact curtain market measure math patient evoke always give rubber";

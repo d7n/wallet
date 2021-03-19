@@ -1,1 +1,1 @@
-var mnemonic = "rebuild explain tail myth fit staff bike label bunker street spirit anchor";
+var mnemonic = "decorate notable plate output banana torch write arena enough one ostrich course";

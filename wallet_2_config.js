@@ -1,1 +1,1 @@
-var mnemonic = "armed hazard mansion party noodle bamboo slender problem balance boost square kind";
+var mnemonic = "property dragon rule whale sausage toilet bulb render keep anxiety whale risk";

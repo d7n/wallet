@@ -1,1 +1,1 @@
-var mnemonic = "art sing dolphin soap unusual success damp quote fun awful box critic";
+var mnemonic = "strong enemy alarm donkey bounce position common glimpse flash minimum turn return";

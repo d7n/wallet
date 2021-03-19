@@ -1,1 +1,1 @@
-var mnemonic = "hungry rib toward sea quick riot shed monster earn sketch only pattern";
+var mnemonic = "atom clever pole suit warrior over dance ahead canoe actress power shell";

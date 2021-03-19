@@ -1,1 +1,1 @@
-var mnemonic = "rare treat crumble donor dirt tail two syrup review wonder twin service";
+var mnemonic = "glimpse away spice hire demise wage slice bulb movie crunch water oxygen";

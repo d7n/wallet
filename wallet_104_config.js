@@ -1,1 +1,1 @@
-var mnemonic = "bonus crisp fit rude better case lamp abstract message fresh view skill";
+var mnemonic = "pull hole hill raise uniform often census plate security enlist remind badge";

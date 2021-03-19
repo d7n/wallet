@@ -1,1 +1,1 @@
-var mnemonic = "trend merry width coast spare say stock humble panda perfect eyebrow liar";
+var mnemonic = "category survey oven find park today trend giant share mechanic flower suspect";

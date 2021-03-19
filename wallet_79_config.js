@@ -1,1 +1,1 @@
-var mnemonic = "melody tattoo nephew elbow rack happy release vessel faint leg creek ivory";
+var mnemonic = "scout skirt method zoo change survey degree short voice shoulder crouch around";

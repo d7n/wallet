@@ -1,1 +1,1 @@
-var mnemonic = "need lady solution artefact dash alone throw tomato cupboard defense erosion phrase";
+var mnemonic = "submit merge famous battle fortune fetch shallow virtual snap mean trim private";

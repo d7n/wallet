@@ -1,1 +1,1 @@
-var mnemonic = "maze feel master treat build parrot essence sting all awkward slice finish";
+var mnemonic = "patrol arena cool dinosaur narrow test canyon rib volcano empty pilot more";

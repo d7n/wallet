@@ -1,1 +1,1 @@
-var mnemonic = "ecology lend title resemble more elbow strong alone pattern river total tiny";
+var mnemonic = "tragic remove proud need cousin lonely adult nose true list connect evolve";

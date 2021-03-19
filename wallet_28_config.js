@@ -1,1 +1,1 @@
-var mnemonic = "fitness debate gold dose frog pull dutch flight material pond yard scare";
+var mnemonic = "butter lion hazard slender lunch paper priority burst cabin position dove blind";

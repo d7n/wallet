@@ -1,1 +1,1 @@
-var mnemonic = "ride roast hub model squeeze castle raise sentence adult patch clarify stereo";
+var mnemonic = "badge employ tiny rely village amount skate march dilemma polar all denial";

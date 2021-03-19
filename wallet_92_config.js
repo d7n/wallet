@@ -1,1 +1,1 @@
-var mnemonic = "exact hungry above rule only stadium maximum coast fame before lady awkward";
+var mnemonic = "tape stand pigeon mammal moon employ when inch soap radar chuckle trick";

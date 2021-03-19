@@ -1,1 +1,1 @@
-var mnemonic = "imitate noise problem candy print mirror opinion autumn captain rural gadget stone";
+var mnemonic = "usual across attitude fatal pelican wood destroy palace fiber pair maze ivory";

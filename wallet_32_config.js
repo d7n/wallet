@@ -1,1 +1,1 @@
-var mnemonic = "disagree shed armed chronic offer deal whisper wide reveal pride board bonus";
+var mnemonic = "route small shy often hundred floor ski amazing ritual jelly fiction leaf";

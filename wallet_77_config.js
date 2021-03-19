@@ -1,1 +1,1 @@
-var mnemonic = "six circle tunnel absent size absent address weather joy detect ice brain";
+var mnemonic = "smart real spray later glory venture have raw matrix arrange below embody";

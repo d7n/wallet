@@ -1,1 +1,1 @@
-var mnemonic = "loyal globe gravity whale zero nature screen rude provide limit gallery try";
+var mnemonic = "wealth dirt audit strike opera blade three youth taxi glide rebuild crash";

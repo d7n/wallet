@@ -1,1 +1,1 @@
-var mnemonic = "recycle loud vast slim peasant know theory history mystery six deposit month";
+var mnemonic = "supply swift horse dune pull pretty apology worry maze shoot peace math";

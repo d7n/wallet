@@ -1,1 +1,1 @@
-var mnemonic = "replace walnut legend ski again plug film fiber flag unique sketch vanish";
+var mnemonic = "bird corn pave spoon drastic remember immense large breeze drip strike stuff";

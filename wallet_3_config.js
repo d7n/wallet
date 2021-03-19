@@ -1,1 +1,1 @@
-var mnemonic = "merit aisle marine gas genius trade canoe debris upper kiss bleak shuffle";
+var mnemonic = "wall profit lady crunch issue talent rose leisure object depth torch raven";

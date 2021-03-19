@@ -1,1 +1,1 @@
-var mnemonic = "series prize wife great web dice flavor toddler fuel wave pumpkin risk";
+var mnemonic = "fly dove section grace walnut around craft dial session robot purchase swing";

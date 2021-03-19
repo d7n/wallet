@@ -1,1 +1,1 @@
-var mnemonic = "coast grab gallery nest team heavy good boil velvet benefit argue combine";
+var mnemonic = "leaf music jungle vault follow pistol they garlic tired raven speed vibrant";

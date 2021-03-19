@@ -1,1 +1,1 @@
-var mnemonic = "online almost casual suggest stock enhance season reform trouble mammal fetch palm";
+var mnemonic = "omit amount yellow brother engine hire fish buzz employ ketchup pen evoke";

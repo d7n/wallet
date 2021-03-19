@@ -1,1 +1,1 @@
-var mnemonic = "media relax prison federal weekend degree member crime collect view fence cement";
+var mnemonic = "magnet lesson thumb float off soldier pool jacket body lounge auction brand";

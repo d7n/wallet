@@ -1,1 +1,1 @@
-var mnemonic = "fashion match dice pretty drip tattoo envelope other phone unusual swarm nation";
+var mnemonic = "minor rare type lake include pony catch library drift half smoke carry";

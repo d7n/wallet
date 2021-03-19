@@ -1,1 +1,1 @@
-var mnemonic = "undo fault girl heart win trip artwork frown scorpion question awake hunt";
+var mnemonic = "evil caution regular riot push armor extend resist coyote toy follow soft";

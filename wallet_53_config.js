@@ -1,1 +1,1 @@
-var mnemonic = "innocent prosper write gas more tonight village thunder absent hood orange token";
+var mnemonic = "float blanket coach yellow minor jewel bunker earth myself metal boss runway";

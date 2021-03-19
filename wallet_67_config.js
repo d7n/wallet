@@ -1,1 +1,1 @@
-var mnemonic = "brush morning alcohol isolate artwork remain car skull letter above moral gun";
+var mnemonic = "warfare october screen doctor dizzy bench call garage hybrid nerve lunar lemon";

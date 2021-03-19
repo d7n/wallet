@@ -1,1 +1,1 @@
-var mnemonic = "tuition wrong push walnut jelly cool small oil genuine magic must hip";
+var mnemonic = "bridge off pave slow tape balance filter pulse horse various marriage win";

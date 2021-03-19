@@ -1,1 +1,1 @@
-var mnemonic = "daring close size able deliver legal animal era silly human loud device";
+var mnemonic = "web inner inquiry when panther piano window traffic step panic isolate destroy";

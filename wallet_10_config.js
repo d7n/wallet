@@ -1,1 +1,1 @@
-var mnemonic = "confirm ivory initial bounce refuse second mail equip memory online magic grow";
+var mnemonic = "cactus balance emotion hip upon inflict space near beauty toss guard neglect";

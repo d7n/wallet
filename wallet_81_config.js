@@ -1,1 +1,1 @@
-var mnemonic = "primary satisfy boost flame basic spoon isolate shoot give clown bitter satisfy";
+var mnemonic = "bottom arm tornado humble best bachelor reason margin exotic clump grape security";

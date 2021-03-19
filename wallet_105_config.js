@@ -1,1 +1,1 @@
-var mnemonic = "help mixed fashion early neglect lady merge lake click plastic boy major";
+var mnemonic = "potato smooth drop top draw sample trade toast alter alert chronic dad";

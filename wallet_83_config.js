@@ -1,1 +1,1 @@
-var mnemonic = "vital ethics room march velvet analyst scrub piano orphan caution nose smoke";
+var mnemonic = "such clerk hire myth reflect angle figure school shoot shop fantasy retreat";

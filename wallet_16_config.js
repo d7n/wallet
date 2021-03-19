@@ -1,1 +1,1 @@
-var mnemonic = "flock echo fiscal weasel shell raw upper desert slot lumber balance member";
+var mnemonic = "entry torch indicate bounce mixture fly peace awesome riot fashion rare shell";

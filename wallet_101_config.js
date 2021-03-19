@@ -1,1 +1,1 @@
-var mnemonic = "insane sudden they remind cash release define mass unknown derive frown alarm";
+var mnemonic = "concert connect flame core style hub asthma gate reform fade discover song";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle often okay rack armed list erosion estate embark pluck merge sausage";
+var mnemonic = "sustain train arrange saddle bunker decade margin gadget regret ring churn sibling";

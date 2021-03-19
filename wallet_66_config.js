@@ -1,1 +1,1 @@
-var mnemonic = "creek reform health pause all crash burden coconut hazard witness ketchup spare";
+var mnemonic = "rule leisure donate palace master measure lift sunny merit palace sphere game";

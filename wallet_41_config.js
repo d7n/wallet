@@ -1,1 +1,1 @@
-var mnemonic = "clay morning connect cart asset usual gym city tongue wasp zebra urge";
+var mnemonic = "false puzzle satisfy admit will slice thunder puzzle tree cigar mad tiny";

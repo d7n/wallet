@@ -1,1 +1,1 @@
-var mnemonic = "stand marriage lazy dizzy vapor today monitor attack logic coral interest athlete";
+var mnemonic = "toe grunt hour shell say rigid gain clog method pudding basket exile";

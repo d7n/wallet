@@ -1,1 +1,1 @@
-var mnemonic = "quote wool drip wine kingdom accuse badge always sponsor tonight brave october";
+var mnemonic = "sock record ready edit virus pond wide flat heavy absorb spike divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "remember usual clock engine weird venture lucky surprise resource acoustic thought page";
+var mnemonic = "recipe arrive retreat juice nation crush pattern ribbon advance favorite universe viable";

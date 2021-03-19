@@ -1,1 +1,1 @@
-var mnemonic = "machine alone breeze because settle napkin yellow ginger bicycle female client stairs";
+var mnemonic = "filter slice measure mechanic element thought lottery recall vacuum raise ketchup shoot";

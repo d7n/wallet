@@ -1,1 +1,1 @@
-var mnemonic = "grant practice doll nose empty chapter tennis inspire victory reduce anchor tape";
+var mnemonic = "stay barrel region trim noodle scatter lonely glue critic rain circle tumble";

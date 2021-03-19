@@ -1,1 +1,1 @@
-var mnemonic = "debris aware capital gift leave brain wife again feature dance stove common";
+var mnemonic = "thought physical attack volume grant uncover weather inmate push side letter prize";

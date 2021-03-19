@@ -1,1 +1,1 @@
-var mnemonic = "arena swim drama dance fiscal expand profit devote dutch eagle language hungry";
+var mnemonic = "elder direct champion valid estate beauty quiz age observe fall candy crater";

@@ -1,1 +1,1 @@
-var mnemonic = "snack project monkey thumb supply embrace gather collect great crazy lemon morning";
+var mnemonic = "hood ostrich sister travel arrive room promote hood note fancy neutral cage";

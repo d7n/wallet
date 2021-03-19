@@ -1,1 +1,1 @@
-var mnemonic = "humble lemon hope quantum exist exist follow evoke antique butter control great";
+var mnemonic = "wonder sock original hen bamboo recall trouble matrix leader copper meadow club";

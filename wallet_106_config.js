@@ -1,1 +1,1 @@
-var mnemonic = "element rain cash obscure welcome media ethics raven cheap grow grace lady";
+var mnemonic = "math era album clever issue pluck model boss child resource math state";
