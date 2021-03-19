@@ -1,1 +1,1 @@
-var mnemonic = "man aspect cactus dilemma main sorry reduce shop dizzy enact edge gasp";
+var mnemonic = "hour useful pond process jaguar occur result hat correct couch city scout";

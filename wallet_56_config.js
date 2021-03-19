@@ -1,1 +1,1 @@
-var mnemonic = "wine meat course neither host myth review vault evolve better inspire barrel";
+var mnemonic = "puppy render clock inner giraffe example bulb range bridge merry divert need";

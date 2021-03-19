@@ -1,1 +1,1 @@
-var mnemonic = "book wolf slush power truth fox nature reflect always great sick move";
+var mnemonic = "smart crime hidden drift female draft way various town warfare need major";

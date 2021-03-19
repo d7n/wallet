@@ -1,1 +1,1 @@
-var mnemonic = "equal search trophy prefer setup toddler what cook lamp agent range treat";
+var mnemonic = "arrest carry oven flag false canvas achieve apart exhibit good case athlete";

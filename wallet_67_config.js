@@ -1,1 +1,1 @@
-var mnemonic = "stumble slice wave glimpse settle test thing indoor nerve wise problem fringe";
+var mnemonic = "wasp cute citizen produce eagle detect crunch unhappy express glass sniff journey";

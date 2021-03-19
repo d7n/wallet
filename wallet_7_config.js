@@ -1,1 +1,1 @@
-var mnemonic = "thunder load wasp benefit mistake dress smile waste logic sphere siege field";
+var mnemonic = "month enlist cruel chair aware slight credit fuel conduct current ketchup olympic";

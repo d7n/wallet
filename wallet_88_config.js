@@ -1,1 +1,1 @@
-var mnemonic = "canvas machine act name parrot celery right state receive draft theory come";
+var mnemonic = "pipe solution again point float van holiday trigger gas hello diary tattoo";

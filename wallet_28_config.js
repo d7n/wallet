@@ -1,1 +1,1 @@
-var mnemonic = "appear seek curtain jeans park dream rifle quality owner useless century what";
+var mnemonic = "year idle glue retreat rare sheriff just invite void drink cancel cause";

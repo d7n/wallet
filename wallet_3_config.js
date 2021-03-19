@@ -1,1 +1,1 @@
-var mnemonic = "master hat donate ankle crucial roast march easily spot general begin silent";
+var mnemonic = "resemble school fancy gym resist athlete visa service soap better quick stumble";

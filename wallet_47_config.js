@@ -1,1 +1,1 @@
-var mnemonic = "goddess truck install settle satoshi wisdom conduct gap hurry appear verify gap";
+var mnemonic = "gravity drill sheriff force peace lottery ticket fold illegal loud gain long";

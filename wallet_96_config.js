@@ -1,1 +1,1 @@
-var mnemonic = "palace hunt destroy asthma local decade scan skate duck clutch stool milk";
+var mnemonic = "goose pulp unfair table win nominee genius police library culture crystal forest";

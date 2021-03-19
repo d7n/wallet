@@ -1,1 +1,1 @@
-var mnemonic = "asset voice east escape live rocket desert devote simple replace off helmet";
+var mnemonic = "favorite taxi old oven color aunt isolate day lunch seek plug explain";

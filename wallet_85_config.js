@@ -1,1 +1,1 @@
-var mnemonic = "force sugar dismiss timber similar rural flag tray program wait oval void";
+var mnemonic = "alcohol eternal extend lunch yard suggest wage comfort infant dilemma action adjust";

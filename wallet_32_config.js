@@ -1,1 +1,1 @@
-var mnemonic = "hawk focus produce keep figure jealous stand runway address expose dress awkward";
+var mnemonic = "truly silent intact walk ripple burst amount flock auction pupil razor head";

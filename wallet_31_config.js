@@ -1,1 +1,1 @@
-var mnemonic = "balance between enlist since excite leaf harbor elephant soccer chalk jealous brave";
+var mnemonic = "whisper help team rather float during damp gown stumble memory maple guard";

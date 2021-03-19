@@ -1,1 +1,1 @@
-var mnemonic = "float caution security special bridge fresh detail audit spike burger report tail";
+var mnemonic = "sound senior high flame valve reduce earth help smooth good possible physical";

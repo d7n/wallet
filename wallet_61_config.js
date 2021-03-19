@@ -1,1 +1,1 @@
-var mnemonic = "atom surround hollow bench flame proof piece afford delay sure avocado receive";
+var mnemonic = "broken hurry ask off own blame jealous deputy slender sight admit agent";

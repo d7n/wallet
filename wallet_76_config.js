@@ -1,1 +1,1 @@
-var mnemonic = "sadness melody today minimum animal struggle ask faith latin fever giraffe seven";
+var mnemonic = "zone ride what boring exile atom lunch mother famous have diet guard";

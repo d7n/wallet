@@ -1,1 +1,1 @@
-var mnemonic = "beef early picnic slice siren festival mask trial survey dove diamond outer";
+var mnemonic = "awful economy start area wisdom unit tenant wood frame camera bike connect";

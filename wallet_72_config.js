@@ -1,1 +1,1 @@
-var mnemonic = "few clutch blade refuse shallow cactus seat diesel oval engine flash decade";
+var mnemonic = "whip patrol yard insect relax lecture feature luxury bind exhibit kangaroo goat";

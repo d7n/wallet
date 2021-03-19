@@ -1,1 +1,1 @@
-var mnemonic = "blast drum stick prepare typical damp purse diary thrive idea march property";
+var mnemonic = "situate away volcano crystal suffer always hover despair opinion start shine select";

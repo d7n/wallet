@@ -1,1 +1,1 @@
-var mnemonic = "shop suggest quarter gate sign brisk thing jump health omit deal negative";
+var mnemonic = "square gift school gun immense grow you imitate youth chat gas crystal";

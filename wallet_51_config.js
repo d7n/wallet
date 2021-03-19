@@ -1,1 +1,1 @@
-var mnemonic = "jar episode evidence victory depart join casino material situate common rely vendor";
+var mnemonic = "cook poverty base divide cross caught tornado circle deputy duck strike bird";

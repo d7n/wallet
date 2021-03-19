@@ -1,1 +1,1 @@
-var mnemonic = "pulse citizen pistol anchor book exclude news critic remind online settle desk";
+var mnemonic = "skate budget truck lock focus sponsor lyrics nothing type pottery reopen wink";

@@ -1,1 +1,1 @@
-var mnemonic = "lend sad tortoise coil panda chat always title spirit tool reduce metal";
+var mnemonic = "loud early uniform cereal place ignore honey phrase shuffle canvas under such";

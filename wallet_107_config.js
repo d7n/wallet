@@ -1,1 +1,1 @@
-var mnemonic = "wait palm token tape ridge coyote fish cry fan oppose skate net";
+var mnemonic = "junk lawsuit vicious pond torch taxi jungle knee chronic rain open vendor";

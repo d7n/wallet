@@ -1,1 +1,1 @@
-var mnemonic = "kingdom tree lamp offer good elder inmate scare chalk property tennis letter";
+var mnemonic = "forward fix range liquid alcohol success modify boring reason play behind indoor";

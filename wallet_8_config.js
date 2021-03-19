@@ -1,1 +1,1 @@
-var mnemonic = "skull jewel fault expire attend hover loyal charge horn pledge guess outdoor";
+var mnemonic = "laundry decrease security horse what identify general leopard oxygen top dilemma doll";

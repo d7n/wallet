@@ -1,1 +1,1 @@
-var mnemonic = "left patient prison finish ice exclude cushion fan differ where vendor clean";
+var mnemonic = "agent entry craft early pipe jar myth brand broom sight wet jazz";

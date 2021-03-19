@@ -1,1 +1,1 @@
-var mnemonic = "cupboard scatter illegal opinion seek coast embody example bachelor happy become fold";
+var mnemonic = "settle tiny advance marble pizza infant upset uncle tilt abandon reunion drip";

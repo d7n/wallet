@@ -1,1 +1,1 @@
-var mnemonic = "butter rookie trip young pill submit mean brick salon perfect arrow endless";
+var mnemonic = "fluid document spirit love juice unhappy hedgehog intact host glove uniform jazz";

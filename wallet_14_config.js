@@ -1,1 +1,1 @@
-var mnemonic = "tell endless narrow soon ivory eagle air remember impose shield car able";
+var mnemonic = "admit whale trust border problem van illness cheese toe dream trial party";

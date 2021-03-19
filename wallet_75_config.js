@@ -1,1 +1,1 @@
-var mnemonic = "result sound easily trust mixture avocado candy artist fiscal trap cheese absorb";
+var mnemonic = "curve response army demise frozen crime easily regret cry chef fly find";

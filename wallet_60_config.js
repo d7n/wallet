@@ -1,1 +1,1 @@
-var mnemonic = "piece harbor nose into match gravity stone fossil magic collect perfect thumb";
+var mnemonic = "tail impact citizen nest allow mean initial task install simple image raven";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow pair name approve marine journey glad slot best leave banana act";
+var mnemonic = "lava weekend rule nuclear crystal anchor boost cradle ring math allow erupt";

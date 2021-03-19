@@ -1,1 +1,1 @@
-var mnemonic = "harsh pact sweet stadium run rare summer because lake guide pyramid language";
+var mnemonic = "grant wise wedding result world hammer drastic movie slim buffalo tooth coin";

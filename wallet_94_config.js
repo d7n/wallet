@@ -1,1 +1,1 @@
-var mnemonic = "sight coyote veteran embark swear thrive demand glide film easy panel abandon";
+var mnemonic = "update must little pave uncle obscure battle pause apart aunt multiply same";

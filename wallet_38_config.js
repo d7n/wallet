@@ -1,1 +1,1 @@
-var mnemonic = "frame pulp polar define brass noble cost mind heart stone curve soup";
+var mnemonic = "movie wine twist main segment grape member smooth sight tent cabin together";

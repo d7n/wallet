@@ -1,1 +1,1 @@
-var mnemonic = "double mandate height winner meat elbow hen badge want quote century benefit";
+var mnemonic = "tail mechanic wrong patient penalty display company manual pole ostrich course quality";

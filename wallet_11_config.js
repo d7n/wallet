@@ -1,1 +1,1 @@
-var mnemonic = "canvas pattern print cupboard reunion rifle switch card thumb little feed churn";
+var mnemonic = "actual game south organ enact unfair silent good shoot draft flower choose";

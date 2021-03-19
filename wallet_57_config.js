@@ -1,1 +1,1 @@
-var mnemonic = "thunder step lake verb property era dial scissors one acid crouch state";
+var mnemonic = "summer blind cup promote tip reform chimney punch bamboo analyst mixture wish";

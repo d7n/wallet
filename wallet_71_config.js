@@ -1,1 +1,1 @@
-var mnemonic = "blast quality caution proud vibrant trip grant immune pave castle garbage erupt";
+var mnemonic = "will garlic omit primary random order seven chuckle better bachelor twin vapor";

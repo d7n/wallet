@@ -1,1 +1,1 @@
-var mnemonic = "claw south keen dentist limb key butter toy disorder candy field often";
+var mnemonic = "step accident quit idle powder decorate biology lounge spoil praise awake crane";

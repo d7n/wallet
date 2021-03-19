@@ -1,1 +1,1 @@
-var mnemonic = "often casino food lunch term glance oval student clown because unusual inflict";
+var mnemonic = "success harvest detect shield earth rich photo story abstract immune ritual summer";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze list profit arena plate whale today picture change charge occur foot";
+var mnemonic = "soldier cricket win craft tennis leopard farm oblige exchange drink decline arrest";

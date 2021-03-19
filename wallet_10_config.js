@@ -1,1 +1,1 @@
-var mnemonic = "health news carry fiscal approve material tag talk limit fish bulb globe";
+var mnemonic = "risk appear motor quarter shaft similar fat view vocal dizzy hybrid empty";

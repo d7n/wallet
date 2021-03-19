@@ -1,1 +1,1 @@
-var mnemonic = "chair border eagle convince quarter caught frame grow skull midnight burst double";
+var mnemonic = "lizard region smart gossip few since cover promote copy engine camera myself";

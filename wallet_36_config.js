@@ -1,1 +1,1 @@
-var mnemonic = "melt decline firm sell tragic one rich fatal sell lonely myself deer";
+var mnemonic = "consider key word taste buffalo ketchup bonus stove over wedding dignity myself";

@@ -1,1 +1,1 @@
-var mnemonic = "witness jeans story goose junior zebra patrol harsh scorpion dumb gauge jeans";
+var mnemonic = "expect chimney hope original pistol trash grab frost try fantasy border world";

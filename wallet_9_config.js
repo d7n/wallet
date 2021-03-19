@@ -1,1 +1,1 @@
-var mnemonic = "milk vote bid nuclear fold blast day orient track tragic maze neither";
+var mnemonic = "grab charge tobacco wine fade wagon kangaroo where joke rough change attend";

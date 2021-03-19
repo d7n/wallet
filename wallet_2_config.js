@@ -1,1 +1,1 @@
-var mnemonic = "wonder field nice story gorilla youth purchase close auto carbon slab nothing";
+var mnemonic = "smile need cinnamon kitchen quarter latin link wish lucky this fruit half";

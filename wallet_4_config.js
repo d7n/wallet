@@ -1,1 +1,1 @@
-var mnemonic = "melody slice almost orchard buzz busy nation pencil disagree hard alert bag";
+var mnemonic = "edit wisdom inside drip sick subject pilot oven ocean slide poem kind";

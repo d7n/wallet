@@ -1,1 +1,1 @@
-var mnemonic = "shaft option confirm later guide marine young harvest kick novel burst cotton";
+var mnemonic = "novel breeze vacant laugh core suit fly oven answer vintage adapt unfair";

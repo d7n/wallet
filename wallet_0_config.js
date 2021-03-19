@@ -1,1 +1,1 @@
-var mnemonic = "eagle abuse bag cream degree cave wolf page sense priority idle rug";
+var mnemonic = "verify ensure initial wrestle surround invest meat clay oyster model member grief";

@@ -1,1 +1,1 @@
-var mnemonic = "output razor spawn tube isolate apart actor business duck achieve detail denial";
+var mnemonic = "fury similar fold surface bronze cloth insane thing wealth riot joke early";

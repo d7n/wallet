@@ -1,1 +1,1 @@
-var mnemonic = "sniff clown hub ethics credit chimney hunt display aerobic solution matrix obtain";
+var mnemonic = "stem young law alcohol blush impose letter bicycle boring blanket accuse illness";

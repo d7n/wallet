@@ -1,1 +1,1 @@
-var mnemonic = "century physical depth foil suspect attitude filter bachelor tip media inform canal";
+var mnemonic = "attend host escape world measure dizzy extra saddle blast suspect good toward";

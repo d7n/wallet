@@ -1,1 +1,1 @@
-var mnemonic = "hole south swift minute day slide lunar fluid olympic kiss delay subject";
+var mnemonic = "arm carpet online trigger ostrich license brown hen fee grace service punch";

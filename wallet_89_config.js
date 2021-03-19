@@ -1,1 +1,1 @@
-var mnemonic = "element satisfy wedding idle industry enter curve awake slim diet diagram tragic";
+var mnemonic = "arrive legal ecology easily amazing stadium ancient library wide easily galaxy material";

@@ -1,1 +1,1 @@
-var mnemonic = "settle spend junior liberty stove hungry afraid rich doctor scene move nasty";
+var mnemonic = "popular bless fault tackle shell nephew orchard morning opera present salt wasp";

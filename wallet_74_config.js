@@ -1,1 +1,1 @@
-var mnemonic = "scissors type surge torch shaft slow will finger swarm toe isolate define";
+var mnemonic = "ensure miss advice gallery major hybrid party pig element predict office hip";

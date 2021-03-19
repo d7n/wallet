@@ -1,1 +1,1 @@
-var mnemonic = "want seat used wife join canal lift finger burger sell bulb actress";
+var mnemonic = "label bar host wagon install coconut brand piano tornado glory blossom soup";

@@ -1,1 +1,1 @@
-var mnemonic = "boil urban young celery decrease jazz chimney extra emerge device donor load";
+var mnemonic = "target grace series whisper teach chest tiger stereo essence inner rack fade";

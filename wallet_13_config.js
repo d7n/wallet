@@ -1,1 +1,1 @@
-var mnemonic = "wrap budget shoot mobile pioneer travel tornado genuine gauge artist cousin conduct";
+var mnemonic = "join sauce north indoor chapter ivory supreme entry receive ivory differ cluster";

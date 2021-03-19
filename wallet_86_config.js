@@ -1,1 +1,1 @@
-var mnemonic = "primary race tooth trade swap economy ten army blossom hover tool scheme";
+var mnemonic = "uncover high cycle now dog faint elevator response comic list trumpet forest";

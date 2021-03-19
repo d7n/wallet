@@ -1,1 +1,1 @@
-var mnemonic = "wife manage desert exercise venue later alert sniff trust exchange mystery invite";
+var mnemonic = "problem domain tape conduct art maximum fringe forward panel rebuild void subject";

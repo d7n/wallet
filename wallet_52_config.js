@@ -1,1 +1,1 @@
-var mnemonic = "gallery master tell dry guilt front primary illness wealth nominee patient cable";
+var mnemonic = "grape auction delay firm funny daughter wool shallow trick shell balance receive";

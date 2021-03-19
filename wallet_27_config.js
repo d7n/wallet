@@ -1,1 +1,1 @@
-var mnemonic = "tunnel rookie crucial renew virus kid second aware unaware angle then vacuum";
+var mnemonic = "bacon fix comic bubble cloth boss expect tuna object wreck figure drip";

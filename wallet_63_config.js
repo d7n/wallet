@@ -1,1 +1,1 @@
-var mnemonic = "large hip train reform father found slow short ring iron reason park";
+var mnemonic = "civil split share circle drive book pull shoe cheese capital sting toilet";

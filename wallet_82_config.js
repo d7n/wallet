@@ -1,1 +1,1 @@
-var mnemonic = "asthma promote depend plate hurt clinic drop attract spray canoe later laundry";
+var mnemonic = "predict lion ugly invest scissors possible comic vague consider proof suffer canal";

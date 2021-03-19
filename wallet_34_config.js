@@ -1,1 +1,1 @@
-var mnemonic = "ordinary embody sadness fiber afraid pattern blush bridge sea life erosion grain";
+var mnemonic = "tornado series chef arctic remind frown sister scan office hammer junk exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "apart session lawsuit waste benefit machine since spirit ritual ripple link move";
+var mnemonic = "refuse badge shoot room sorry edge early casual similar clutch prevent shoot";

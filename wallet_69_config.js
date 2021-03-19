@@ -1,1 +1,1 @@
-var mnemonic = "infant warrior ranch flower genuine clay avoid already film whisper choice reject";
+var mnemonic = "cluster chimney strike cousin spike police fiscal drastic spawn school begin two";

@@ -1,1 +1,1 @@
-var mnemonic = "office wrestle depend ignore nation clever mom bulb sketch athlete mix husband";
+var mnemonic = "tip era file poet liar runway jeans floor piano motor evidence ice";

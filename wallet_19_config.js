@@ -1,1 +1,1 @@
-var mnemonic = "jar slender green stable busy nerve plug forward false claw throw april";
+var mnemonic = "provide rose artefact day punch nuclear elevator pioneer tilt away service front";

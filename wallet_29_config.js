@@ -1,1 +1,1 @@
-var mnemonic = "venture grace elder theme grace force shed harbor firm ladder trend fringe";
+var mnemonic = "hair loan order little aunt wood essence affair disagree cube destroy elephant";

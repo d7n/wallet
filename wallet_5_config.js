@@ -1,1 +1,1 @@
-var mnemonic = "december lecture crane cage total leader arena seed game two find switch";
+var mnemonic = "ostrich bulb sustain true clerk interest sight december couch marriage fiction myself";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid dove saddle bright collect legal omit eager frog phrase choose pen";
+var mnemonic = "thunder cattle wish super east cinnamon link fiction ozone broom stool must";

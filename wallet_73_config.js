@@ -1,1 +1,1 @@
-var mnemonic = "focus galaxy nest easily decorate silk inner fog crystal figure battle more";
+var mnemonic = "truly quick faint burden notable foam dinosaur rural love birth young dismiss";

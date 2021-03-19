@@ -1,1 +1,1 @@
-var mnemonic = "issue crumble cloud urge neutral seed stand dawn genuine attack eternal assist";
+var mnemonic = "hockey will theme east end civil step wide buffalo found knock cage";

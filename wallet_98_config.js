@@ -1,1 +1,1 @@
-var mnemonic = "day mandate cement junior garlic champion high cotton level crazy poet critic";
+var mnemonic = "match daring song used inside question give quick skirt guitar clerk volcano";

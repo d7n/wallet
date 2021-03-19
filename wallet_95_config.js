@@ -1,1 +1,1 @@
-var mnemonic = "fit can day trip story fiber emerge rely night hover size carpet";
+var mnemonic = "film quit barrel stable note basic rail this answer economy burst unhappy";

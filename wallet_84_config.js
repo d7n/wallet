@@ -1,1 +1,1 @@
-var mnemonic = "fee spirit cry thought matter silver slogan casual nuclear fabric tourist arrest";
+var mnemonic = "shop cargo correct citizen prosper hungry use involve draw inmate arrange mushroom";

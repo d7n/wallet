@@ -1,1 +1,1 @@
-var mnemonic = "fuel lecture strategy congress scale flat clever toast coach feature project note";
+var mnemonic = "west brown pole taxi soon citizen emotion quarter destroy process sport follow";

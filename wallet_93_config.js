@@ -1,1 +1,1 @@
-var mnemonic = "solve someone ankle comfort wheel rose flat negative name accuse atom rule";
+var mnemonic = "bachelor worry work slender leopard allow private goddess mimic together common vapor";

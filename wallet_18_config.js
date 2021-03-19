@@ -1,1 +1,1 @@
-var mnemonic = "latin mind actual bounce minor valve exhaust easy time tired deposit valley";
+var mnemonic = "insane creek brother wagon inside swift picture page gasp awesome early alter";

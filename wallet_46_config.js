@@ -1,1 +1,1 @@
-var mnemonic = "gesture kiwi song never genius wagon hollow female vendor judge shop regret";
+var mnemonic = "valid treat tube term clever clay used purchase spirit mule diary six";
