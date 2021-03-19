@@ -1,1 +1,1 @@
-var mnemonic = "blind ready smart abstract lens wrist dress board shield hard fiscal first";
+var mnemonic = "struggle two intact uphold spend can pool rent flip feed burger alcohol";

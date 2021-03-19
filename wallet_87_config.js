@@ -1,1 +1,1 @@
-var mnemonic = "fossil crop omit purchase today corn crew icon month swarm rain spot";
+var mnemonic = "birth wage confirm leopard pave work flame engage hawk sauce above dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve find throw topple vapor moment dream twenty artefact lady apple dice";
+var mnemonic = "dove cloth lend domain absorb pony sound brain midnight exist tip digital";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry aisle menu fiber cycle wisdom alter valley shed trip upgrade magic";
+var mnemonic = "despair palm mom culture tribe poet rural mass morning reform paper soup";

@@ -1,1 +1,1 @@
-var mnemonic = "side chair remember wide adapt maple exist elegant clock dad fiction situate";
+var mnemonic = "hamster grab potato grape blind diamond cluster hair extra viable hurdle bone";

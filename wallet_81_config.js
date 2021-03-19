@@ -1,1 +1,1 @@
-var mnemonic = "rough demise blame rather female object scale pepper increase chaos decade apart";
+var mnemonic = "enter tower denial drama poverty lamp erode drive tired cash ketchup fan";

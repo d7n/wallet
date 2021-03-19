@@ -1,1 +1,1 @@
-var mnemonic = "zone spend produce midnight true stereo skin jar fun civil clarify dune";
+var mnemonic = "crash today fade sugar adjust hello ramp vanish rate journey radio fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "wink comfort hope delay dress donate amateur capital able vocal swap metal";
+var mnemonic = "ready regret survey elephant spare seat melt rice moral tail toddler mutual";

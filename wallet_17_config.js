@@ -1,1 +1,1 @@
-var mnemonic = "vanish cause capable hurry power menu antenna side treat salute this wealth";
+var mnemonic = "file audit clog smooth barely pluck congress cereal giggle come fame gold";

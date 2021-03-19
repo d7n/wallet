@@ -1,1 +1,1 @@
-var mnemonic = "nasty find across calm use cave hat donkey warfare garlic slim frame";
+var mnemonic = "degree tube equal decide danger brick bounce lava pitch february message repair";

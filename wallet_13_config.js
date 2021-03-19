@@ -1,1 +1,1 @@
-var mnemonic = "such gossip saddle small hint submit glass travel kidney lecture enrich trust";
+var mnemonic = "famous insect crunch stereo oxygen error advance artefact ozone only situate moon";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight man journey leg lottery common very feed hire win pottery tortoise";
+var mnemonic = "torch blue base motion ocean cake arctic share reunion drastic shrimp tone";

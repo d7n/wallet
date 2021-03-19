@@ -1,1 +1,1 @@
-var mnemonic = "ten shock tongue swear victory minute kit cheap stick present obey want";
+var mnemonic = "piece behave mimic shadow tragic copy salmon impulse salmon dirt giant state";

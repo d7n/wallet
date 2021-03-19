@@ -1,1 +1,1 @@
-var mnemonic = "letter acquire physical flip unable sleep skirt slight become mesh fit clap";
+var mnemonic = "mix scissors bargain naive region clip because shoot force project basic garment";

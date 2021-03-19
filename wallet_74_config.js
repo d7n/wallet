@@ -1,1 +1,1 @@
-var mnemonic = "tumble castle flag soul favorite thunder message nice picnic sell mushroom uphold";
+var mnemonic = "easy romance skirt affair axis sentence sauce slot there menu track club";

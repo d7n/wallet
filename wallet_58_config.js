@@ -1,1 +1,1 @@
-var mnemonic = "frown venue razor crisp model wire usual lift panther secret snow pistol";
+var mnemonic = "humble foster later rule jazz law village rifle sunny staff supply remain";

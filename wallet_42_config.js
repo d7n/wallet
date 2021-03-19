@@ -1,1 +1,1 @@
-var mnemonic = "tuna heart inmate sauce lecture paddle source capable bean magnet leopard birth";
+var mnemonic = "hip country assume artist demise very slender clump festival pilot focus skull";

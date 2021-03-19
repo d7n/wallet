@@ -1,1 +1,1 @@
-var mnemonic = "open patient globe stairs mother diet board until hungry clap gesture age";
+var mnemonic = "thumb real resemble furnace edge exit drip update action omit find gentle";

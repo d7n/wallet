@@ -1,1 +1,1 @@
-var mnemonic = "miss seek inherit stage claim dentist dog win vote team hidden cave";
+var mnemonic = "leisure fly siege offer absurd able invest poverty poverty spread pride awful";

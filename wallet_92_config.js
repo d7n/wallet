@@ -1,1 +1,1 @@
-var mnemonic = "pudding engage fabric video endorse hub gate type season length dose start";
+var mnemonic = "afford dumb stomach crush brief image frozen either erode auction hour tribe";

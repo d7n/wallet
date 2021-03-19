@@ -1,1 +1,1 @@
-var mnemonic = "crisp property unhappy ready gossip bless enable steel quality evil capital equip";
+var mnemonic = "ketchup cruel question utility proud catalog mystery frequent ecology pencil police exit";

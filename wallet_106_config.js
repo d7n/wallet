@@ -1,1 +1,1 @@
-var mnemonic = "burger mystery salon mention juice enroll cause ask rookie theory mask crack";
+var mnemonic = "field alone mango seven situate dutch fitness deer zero caught mammal step";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort seven know essence expire shallow unveil law elder bacon file champion";
+var mnemonic = "life segment bunker retire autumn loud rule trap burger until tomato cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "busy fashion symptom parent venue birth climb rotate wood wish slim inmate";
+var mnemonic = "wedding prosper ocean meat output violin easily key captain address learn plate";

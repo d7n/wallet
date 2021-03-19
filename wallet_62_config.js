@@ -1,1 +1,1 @@
-var mnemonic = "empty borrow fancy slice boat language reveal fever zone wall mother budget";
+var mnemonic = "afford become aisle suggest reason champion whale smart squirrel laptop all frequent";

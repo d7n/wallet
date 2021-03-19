@@ -1,1 +1,1 @@
-var mnemonic = "buddy host sea anchor ensure disagree often image wreck filter reject muffin";
+var mnemonic = "laundry guitar short furnace enforce ozone warfare crowd cream tonight deliver sibling";

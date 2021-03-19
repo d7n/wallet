@@ -1,1 +1,1 @@
-var mnemonic = "monster game stick connect slender mirror beef mirror trouble trip wink side";
+var mnemonic = "present clock stone visit light ancient crouch future recipe turtle figure indicate";

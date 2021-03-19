@@ -1,1 +1,1 @@
-var mnemonic = "method squeeze loop account away hunt penalty ship vanish layer announce vault";
+var mnemonic = "syrup place column bacon person urge long list rose noble follow find";

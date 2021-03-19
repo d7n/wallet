@@ -1,1 +1,1 @@
-var mnemonic = "leisure ugly require addict promote energy develop river swim glance affair tag";
+var mnemonic = "eye acid wasp rapid churn where best relax waste kitchen retire lumber";

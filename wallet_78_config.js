@@ -1,1 +1,1 @@
-var mnemonic = "female actor wood busy van forward fatigue economy couch ready drop dutch";
+var mnemonic = "furnace route slight census message craft pottery pledge critic hurt bonus museum";

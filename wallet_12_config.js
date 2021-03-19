@@ -1,1 +1,1 @@
-var mnemonic = "gospel humor winner argue pepper bus stairs tomato case wash laugh whisper";
+var mnemonic = "gain wage pole finish evil have casino radar trend surface inch enforce";

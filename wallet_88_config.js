@@ -1,1 +1,1 @@
-var mnemonic = "once debate pipe permit trade confirm rhythm uncover ranch unique maid taxi";
+var mnemonic = "donkey bind marble engine throw absent snack lumber roast smart audit twelve";

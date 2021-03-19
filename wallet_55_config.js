@@ -1,1 +1,1 @@
-var mnemonic = "laundry census mention belt tuition toe kite coin swear shaft you disorder";
+var mnemonic = "goose gauge fade stand inquiry enact ice slab train frequent protect plastic";

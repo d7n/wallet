@@ -1,1 +1,1 @@
-var mnemonic = "nature hamster island nurse make bless broken glove royal galaxy gravity attend";
+var mnemonic = "mobile flock design solution snow chuckle pudding kid cereal crisp tell dirt";

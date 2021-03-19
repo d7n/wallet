@@ -1,1 +1,1 @@
-var mnemonic = "blind note swing spirit viable forward sugar chaos ahead expose abuse sell";
+var mnemonic = "extend cycle travel initial pool relax skill talent divorce square attitude buzz";

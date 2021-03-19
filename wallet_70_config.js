@@ -1,1 +1,1 @@
-var mnemonic = "oven echo creek gas snow river pluck blast jealous gasp umbrella depart";
+var mnemonic = "slide voyage force vast toast midnight step process jungle off math capital";

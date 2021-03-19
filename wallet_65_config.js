@@ -1,1 +1,1 @@
-var mnemonic = "must phrase prevent scissors relax left beach frog exercise ghost install belt";
+var mnemonic = "accident outer dish runway slush drop sheriff argue promote bonus immune truth";

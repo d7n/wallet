@@ -1,1 +1,1 @@
-var mnemonic = "alpha envelope logic magnet cry leg gown reject question ten sister clay";
+var mnemonic = "useless trumpet pledge ask result unaware tortoise spare climb giggle salmon aim";

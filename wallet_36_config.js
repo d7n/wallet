@@ -1,1 +1,1 @@
-var mnemonic = "boring more crumble dove fabric scan valve quarter canvas whip grief congress";
+var mnemonic = "force together vocal amazing alley visual nothing lawn view crater cabin lyrics";

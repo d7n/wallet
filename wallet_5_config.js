@@ -1,1 +1,1 @@
-var mnemonic = "gaze step fabric child inhale mail spirit amount modify west utility throw";
+var mnemonic = "swing seek move there tenant venture weapon arrest deposit cash valid phone";

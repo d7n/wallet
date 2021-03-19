@@ -1,1 +1,1 @@
-var mnemonic = "target fresh bronze silver remind lesson canvas tooth history hen hub foam";
+var mnemonic = "ocean melt tiger brush donate future fortune nuclear maid aware humble fun";

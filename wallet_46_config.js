@@ -1,1 +1,1 @@
-var mnemonic = "february verb manage immune announce fold neither artefact income tip asthma physical";
+var mnemonic = "tiny unaware canoe shoot diamond pepper few toast quantum wink lottery kite";

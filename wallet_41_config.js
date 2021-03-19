@@ -1,1 +1,1 @@
-var mnemonic = "again news charge hybrid cotton satoshi finger boring honey noise invite topple";
+var mnemonic = "lumber priority century effort observe confirm firm spin acquire salmon guide eternal";

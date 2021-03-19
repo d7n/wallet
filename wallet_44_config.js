@@ -1,1 +1,1 @@
-var mnemonic = "speed decrease rent crew soda tower phrase mention soda valley entry volcano";
+var mnemonic = "job identify various reflect morning dust clarify learn oyster law flash battle";

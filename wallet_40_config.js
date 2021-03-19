@@ -1,1 +1,1 @@
-var mnemonic = "duty minor pyramid liar hip office fashion cry office bench promote fragile";
+var mnemonic = "cotton start toe vanish grant recall agree cat eye mass laugh equip";

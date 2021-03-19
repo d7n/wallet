@@ -1,1 +1,1 @@
-var mnemonic = "execute insect odor question more face ask monster include rude ball initial";
+var mnemonic = "scene weather evidence insect kitchen interest obtain result spot rotate remain hazard";

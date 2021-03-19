@@ -1,1 +1,1 @@
-var mnemonic = "nothing bind chicken hidden avoid then video blue first dial grab kitchen";
+var mnemonic = "tragic island harsh ordinary fold weird clay kite action float uniform scan";

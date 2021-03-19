@@ -1,1 +1,1 @@
-var mnemonic = "stone much embark dragon want amount assume film stick lawsuit success sustain";
+var mnemonic = "negative false unhappy margin economy find purpose grape syrup exist february where";

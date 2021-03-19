@@ -1,1 +1,1 @@
-var mnemonic = "result doll minor slot debate twin eternal orange sunny genius agent south";
+var mnemonic = "auto unique woman bunker exhibit cage jewel hold about leopard among account";

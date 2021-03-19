@@ -1,1 +1,1 @@
-var mnemonic = "cherry wing bless shoulder current artwork powder salon plastic random allow exhibit";
+var mnemonic = "wage cruel horse trend blossom bright arrive liberty slim change arm castle";

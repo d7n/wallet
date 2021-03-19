@@ -1,1 +1,1 @@
-var mnemonic = "clever still bird attack reveal custom cable female wait safe rabbit column";
+var mnemonic = "cross dismiss fall brand giggle water tape charge image jewel shiver farm";

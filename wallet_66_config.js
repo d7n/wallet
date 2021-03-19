@@ -1,1 +1,1 @@
-var mnemonic = "junk verify fury public manual gain sing donate flush believe exercise best";
+var mnemonic = "position town glide drive aspect island cabbage since random skin give exhaust";

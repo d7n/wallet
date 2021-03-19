@@ -1,1 +1,1 @@
-var mnemonic = "drip private appear spider proud snap chef confirm bag trust protect stone";
+var mnemonic = "shock top upper unaware loop art change aisle merit lazy engage ugly";

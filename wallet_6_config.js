@@ -1,1 +1,1 @@
-var mnemonic = "girl invest arrow ring diagram ghost swear pattern palace jazz tray narrow";
+var mnemonic = "lunch twin phone net supreme bounce industry unknown nose fabric column hard";

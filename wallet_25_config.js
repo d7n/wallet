@@ -1,1 +1,1 @@
-var mnemonic = "vault then nest home return employ drill explain toddler replace peasant twin";
+var mnemonic = "female fold luxury brick special view bacon write film cloud faculty jacket";

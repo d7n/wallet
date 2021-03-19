@@ -1,1 +1,1 @@
-var mnemonic = "hello false acquire exit unknown private unlock winner pyramid when media slush";
+var mnemonic = "shoe hen observe amateur stuff expose mystery student size gift love judge";

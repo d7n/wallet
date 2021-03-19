@@ -1,1 +1,1 @@
-var mnemonic = "leisure buffalo federal goose can reveal toward afford movie deny strategy thunder";
+var mnemonic = "crowd fabric rely end dose salt mechanic reopen hurry bone cement differ";

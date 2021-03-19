@@ -1,1 +1,1 @@
-var mnemonic = "flat tilt tongue duty pistol water relief gossip gauge bracket woman borrow";
+var mnemonic = "olive paper transfer avocado violin enough daring spoon enlist since grid unfold";

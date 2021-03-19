@@ -1,1 +1,1 @@
-var mnemonic = "among joy culture mechanic museum lunch mother loan essence home stock orbit";
+var mnemonic = "lucky six cabin among payment indoor coin salad notice easy fold sniff";

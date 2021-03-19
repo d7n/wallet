@@ -1,1 +1,1 @@
-var mnemonic = "strike crash tape media image next speak satisfy square thunder guess dial";
+var mnemonic = "teach furnace boost bounce abuse style earth manage table fence thank maze";

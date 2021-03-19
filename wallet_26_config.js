@@ -1,1 +1,1 @@
-var mnemonic = "pen hire voice leg fork awkward risk bubble limit brave control great";
+var mnemonic = "follow item pond horn emerge medal drink cake firm will turtle glare";

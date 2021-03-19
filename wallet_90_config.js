@@ -1,1 +1,1 @@
-var mnemonic = "mule brief arena link dwarf use choice ask flavor just avocado obtain";
+var mnemonic = "romance another bag where reward private topple physical despair fiction profit joke";

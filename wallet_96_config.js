@@ -1,1 +1,1 @@
-var mnemonic = "people ceiling idea outdoor embark brown inner school very vague grass matter";
+var mnemonic = "connect travel canvas rural claw enter kingdom industry alcohol tray proof cup";

@@ -1,1 +1,1 @@
-var mnemonic = "maze ignore wire sunny hen rude profit crop cinnamon club extra yard";
+var mnemonic = "people forget relief olive bird elephant chef hospital enact soccer bulk vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "upper bridge found veteran display flat service resource fan clever have tilt";
+var mnemonic = "stadium chat version suit crime swamp require wink song sketch decrease stay";

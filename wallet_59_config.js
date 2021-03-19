@@ -1,1 +1,1 @@
-var mnemonic = "hover bridge they found mercy clarify siege dignity family slender glove core";
+var mnemonic = "smooth evoke delay clip whale effort chuckle cliff sand kitten stamp three";

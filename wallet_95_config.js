@@ -1,1 +1,1 @@
-var mnemonic = "saddle common nephew sight equip similar valley disagree gym glory prosper rebuild";
+var mnemonic = "trigger steak sound horror assume noodle immune census section icon enhance sample";

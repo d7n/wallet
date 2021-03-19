@@ -1,1 +1,1 @@
-var mnemonic = "picnic ride version tattoo shell stick visit clump human tent resist write";
+var mnemonic = "pride orphan country error endless stumble south option panic input sponsor deputy";

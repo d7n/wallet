@@ -1,1 +1,1 @@
-var mnemonic = "moment flock oyster ugly mouse mosquito midnight disorder hockey eagle siren deliver";
+var mnemonic = "jaguar purse genre question face tumble project syrup quarter kind access giraffe";

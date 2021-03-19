@@ -1,1 +1,1 @@
-var mnemonic = "clip direct general chuckle document album jealous tide detail riot bonus camera";
+var mnemonic = "afford casual ramp spawn wish erode favorite letter scare thing bar fee";

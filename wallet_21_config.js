@@ -1,1 +1,1 @@
-var mnemonic = "amateur sausage lens seven risk school pencil scale sing beach work proud";
+var mnemonic = "earn net expire devote fall inform capital public gun school bracket model";

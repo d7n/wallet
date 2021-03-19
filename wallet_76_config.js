@@ -1,1 +1,1 @@
-var mnemonic = "obey obey review talent kite spray garment wet army transfer update diet";
+var mnemonic = "happy inherit crew cart impact vicious custom taxi magnet super iron state";

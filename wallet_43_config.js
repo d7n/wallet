@@ -1,1 +1,1 @@
-var mnemonic = "know surge inflict emerge auction leader use pretty finger grief web decrease";
+var mnemonic = "wealth someone hungry pink tomorrow twenty apology wheat mosquito insane winter rely";

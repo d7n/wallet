@@ -1,1 +1,1 @@
-var mnemonic = "turtle smooth wife sibling hub erase swallow thrive patient clarify still urge";
+var mnemonic = "purchase hint sand cannon dad lyrics simple comic mule south order aerobic";

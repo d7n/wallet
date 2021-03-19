@@ -1,1 +1,1 @@
-var mnemonic = "major pudding fish party chat viable material mansion hurt rural corn music";
+var mnemonic = "retire typical apple vivid orchard excuse eyebrow flee unknown bus absent water";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry celery enjoy rug hen material chest mother trim pluck settle clog";
+var mnemonic = "digital broom survey length orphan grunt merit wagon dizzy infant impact series";

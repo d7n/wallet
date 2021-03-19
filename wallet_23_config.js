@@ -1,1 +1,1 @@
-var mnemonic = "blouse wage dad artist bunker stock indicate gym midnight acoustic grunt differ";
+var mnemonic = "girl prosper match animal behind talent focus strong ladder scene lift behave";

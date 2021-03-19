@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog sport dentist humor notice citizen rug behind flight sentence armed suffer";
+var mnemonic = "awful wrist blood bundle off stuff topple cheap success original orchard coach";

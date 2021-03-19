@@ -1,1 +1,1 @@
-var mnemonic = "upon kid scissors define notice avocado harsh virtual wagon cloud true walnut";
+var mnemonic = "bring abandon cliff they task rib devote knife swing mule wreck defy";

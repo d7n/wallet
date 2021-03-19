@@ -1,1 +1,1 @@
-var mnemonic = "question answer creek blast amount curve rocket scale asthma object obvious erase";
+var mnemonic = "into shove stay parent traffic emotion marble scene raw shallow embody west";

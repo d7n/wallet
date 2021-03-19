@@ -1,1 +1,1 @@
-var mnemonic = "duty later forward sound day scout candy assume picnic island horse basic";
+var mnemonic = "price current east project genius valley dove easy joke endless unlock fiscal";

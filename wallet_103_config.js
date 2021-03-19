@@ -1,1 +1,1 @@
-var mnemonic = "rescue ball behind shoulder useful address approve silver lake below kiss crunch";
+var mnemonic = "blush letter alert cactus uniform organ learn neglect drastic firm soap stamp";

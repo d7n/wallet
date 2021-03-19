@@ -1,1 +1,1 @@
-var mnemonic = "injury health lawsuit since bachelor promote hungry vapor protect action own where";
+var mnemonic = "scene lawsuit divide normal super source usual clock differ never track delay";

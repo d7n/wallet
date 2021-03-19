@@ -1,1 +1,1 @@
-var mnemonic = "ginger title snow argue burger paddle police laptop fragile citizen pelican mercy";
+var mnemonic = "bone safe train giraffe pioneer mountain issue law object banana under reason";

@@ -1,1 +1,1 @@
-var mnemonic = "believe flock artefact border logic paddle title burger artefact alley stable virtual";
+var mnemonic = "bright track permit library velvet produce execute ancient mountain swift emerge melt";

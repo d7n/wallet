@@ -1,1 +1,1 @@
-var mnemonic = "aspect human tomato praise lonely nephew able subject physical kangaroo box rotate";
+var mnemonic = "below demise genuine prefer practice umbrella steel shop swap digital goose hen";

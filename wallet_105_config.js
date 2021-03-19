@@ -1,1 +1,1 @@
-var mnemonic = "govern escape blossom loop feel daughter shift midnight snow jelly half rely";
+var mnemonic = "innocent multiply myth caution voice actual prevent aisle obey pool give catalog";

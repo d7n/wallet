@@ -1,1 +1,1 @@
-var mnemonic = "evolve forest master alone below endless victory chimney favorite senior design asset";
+var mnemonic = "tape strike ginger build ladder execute problem very ahead unveil want lazy";

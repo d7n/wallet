@@ -1,1 +1,1 @@
-var mnemonic = "arm legal together inner muffin cliff eternal horse suggest health dash swap";
+var mnemonic = "adjust firm student tenant enroll tortoise youth taxi plastic sentence tornado badge";

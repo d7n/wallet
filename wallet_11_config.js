@@ -1,1 +1,1 @@
-var mnemonic = "boy bus reason enable series march matter combine scare melt engage bronze";
+var mnemonic = "theme error neglect blossom hand once hazard pony column add cage similar";

@@ -1,1 +1,1 @@
-var mnemonic = "myth plunge river reunion boat obey tourist kind chief drip gate domain";
+var mnemonic = "arena income blush engine tail unaware market uphold yellow siren birth patrol";

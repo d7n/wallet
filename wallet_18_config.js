@@ -1,1 +1,1 @@
-var mnemonic = "bless vicious jungle please focus ankle pole middle range vendor oven lady";
+var mnemonic = "chicken action loud ability arrange weather sad job biology bunker vessel time";

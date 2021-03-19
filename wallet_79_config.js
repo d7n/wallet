@@ -1,1 +1,1 @@
-var mnemonic = "ski pyramid stone nut mirror will culture music sausage skin measure miracle";
+var mnemonic = "awful domain aerobic person life pass cattle turtle silk coyote hole gift";
