@@ -1,1 +1,1 @@
-var mnemonic = "nice random blanket column solid round jungle left symptom employ cloth syrup";
+var mnemonic = "mandate require person man artefact napkin harbor car actor blast cricket design";

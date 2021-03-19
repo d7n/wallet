@@ -1,1 +1,1 @@
-var mnemonic = "crash call rule again aunt canal cruise club ripple silk office library";
+var mnemonic = "review dish plate throw hollow coffee vessel vivid piano must arm crush";

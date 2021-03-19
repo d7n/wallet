@@ -1,1 +1,1 @@
-var mnemonic = "canvas desk leave mad little any dawn capital essence lend join elephant";
+var mnemonic = "steel payment can simple base move motion series attack purpose device vanish";

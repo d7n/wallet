@@ -1,1 +1,1 @@
-var mnemonic = "fold undo fit atom silent welcome tribe verb vanish pipe ten famous";
+var mnemonic = "arrest virtual camp relief calm ginger hover submit oxygen assume tray sauce";

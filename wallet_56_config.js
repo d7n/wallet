@@ -1,1 +1,1 @@
-var mnemonic = "live civil limb parrot wrist garment weapon garage dove test maid youth";
+var mnemonic = "devote trim hub end host scrap type defense monster ice economy rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "doll trophy federal crazy inhale hungry fish maximum suffer disorder clog pair";
+var mnemonic = "mention betray cabin strike dust phrase twice borrow siren naive call answer";

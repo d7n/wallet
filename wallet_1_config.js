@@ -1,1 +1,1 @@
-var mnemonic = "company famous near index business hand already matrix toward frozen leisure smooth";
+var mnemonic = "miracle desert into foam suffer estate dawn during maze small pact object";

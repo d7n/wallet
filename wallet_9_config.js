@@ -1,1 +1,1 @@
-var mnemonic = "jealous sort cliff level fatal churn vanish around expand hamster minimum corn";
+var mnemonic = "old elder safe inject teach traffic loyal sure feature frog rhythm blue";

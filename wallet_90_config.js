@@ -1,1 +1,1 @@
-var mnemonic = "burden other much force kit together narrow breeze target until adjust small";
+var mnemonic = "canyon pole consider satoshi quiz noise minute fee enjoy fashion grunt relax";

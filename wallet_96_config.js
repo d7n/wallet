@@ -1,1 +1,1 @@
-var mnemonic = "scatter scissors rare outside either order chest ecology ethics cloth occur scatter";
+var mnemonic = "trial broccoli leisure human theme render market small vicious crowd rent employ";

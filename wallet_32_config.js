@@ -1,1 +1,1 @@
-var mnemonic = "month cement fish benefit ocean change bus host jelly edge ready cram";
+var mnemonic = "champion plunge type cycle prison motor eager broom oval admit tourist space";

@@ -1,1 +1,1 @@
-var mnemonic = "twice grunt noise potato just memory rib noise street essence endless promote";
+var mnemonic = "aisle dynamic wheat abandon chimney artefact canyon maid turn switch erupt neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "person design physical army citizen area tomorrow broken target embrace load defy";
+var mnemonic = "neglect guess orange huge any inch dance plate sting tiger nut galaxy";

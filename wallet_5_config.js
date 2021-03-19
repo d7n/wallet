@@ -1,1 +1,1 @@
-var mnemonic = "love chicken diary fine chest deliver extra physical primary despair worry cousin";
+var mnemonic = "wine wheat ethics club saddle solution smile morning rather unit awful elephant";

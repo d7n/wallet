@@ -1,1 +1,1 @@
-var mnemonic = "bargain close response lamp kiss have promote siege prison bind glance include";
+var mnemonic = "car gasp crazy inflict balance canoe bean health goat clock proud crop";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat quiz real reopen eagle pony bag pattern knife obscure pole either";
+var mnemonic = "evolve suggest word giraffe coil sight clinic toward lava program eagle random";

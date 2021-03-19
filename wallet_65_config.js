@@ -1,1 +1,1 @@
-var mnemonic = "finger split again tube author census earn ride anger dash bid avocado";
+var mnemonic = "over swift strike width cluster sweet egg only night bread rhythm off";

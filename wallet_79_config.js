@@ -1,1 +1,1 @@
-var mnemonic = "street float involve indoor tongue great opera december pulp dumb bottom castle";
+var mnemonic = "treat stove diet woman family prefer recipe tribe actual odor shallow leg";

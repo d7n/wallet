@@ -1,1 +1,1 @@
-var mnemonic = "copy reason bird wheat inherit chapter toddler gesture evidence glass moon palace";
+var mnemonic = "hire great ask hidden unusual traffic october slight visual duty sick cactus";

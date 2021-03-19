@@ -1,1 +1,1 @@
-var mnemonic = "river dress spice nut noise laugh either member pizza session hat bubble";
+var mnemonic = "network victory gaze cliff tribe price glare abstract pulp wide detail stock";

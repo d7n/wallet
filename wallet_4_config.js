@@ -1,1 +1,1 @@
-var mnemonic = "tenant rate join region rifle rich morning duty cluster often ozone clutch";
+var mnemonic = "affair warfare barely supply repair swear dune border auction arctic warm resemble";

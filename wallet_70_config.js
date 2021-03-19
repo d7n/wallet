@@ -1,1 +1,1 @@
-var mnemonic = "female twenty away focus rug float sick path leader avocado toward cycle";
+var mnemonic = "shop echo melt usual surprise post ginger work dance soul patient clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson bus theory bomb fiscal question spy prize vocal crumble license lend";
+var mnemonic = "term fence mercy buyer bird cotton express member warm wonder educate wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "early strike save rocket robust okay illness illegal buddy primary attend omit";
+var mnemonic = "opera pioneer faculty desert race seed scrap suggest worth park weekend inch";

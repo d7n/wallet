@@ -1,1 +1,1 @@
-var mnemonic = "cash labor purse reduce like wear when knife worth jelly vote service";
+var mnemonic = "possible edge admit mouse charge divide warm electric protect velvet seat inside";

@@ -1,1 +1,1 @@
-var mnemonic = "rather salad expand upon chronic bird scan bind fresh income width exit";
+var mnemonic = "insane deny domain pumpkin water silly protect turkey pole snap can drop";

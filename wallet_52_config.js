@@ -1,1 +1,1 @@
-var mnemonic = "vicious cereal solar fiscal wave arctic blood usage top survey word nest";
+var mnemonic = "switch wall agent sport primary favorite noise tilt fog interest earn hole";

@@ -1,1 +1,1 @@
-var mnemonic = "subject song concert outdoor debate hope crazy element truck just rescue cliff";
+var mnemonic = "welcome scrap infant crane option guard silly bulb bargain pride glare response";

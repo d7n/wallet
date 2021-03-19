@@ -1,1 +1,1 @@
-var mnemonic = "unknown success bright force unhappy amateur dove security inflict tumble hire minimum";
+var mnemonic = "zebra write spoil swap certain ritual ginger come junk collect differ floor";

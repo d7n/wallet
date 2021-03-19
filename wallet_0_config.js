@@ -1,1 +1,1 @@
-var mnemonic = "zoo merry ivory become snow spice corn twenty tribe hope license achieve";
+var mnemonic = "decorate private silk swamp road quantum vapor main coin speed truth omit";

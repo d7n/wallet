@@ -1,1 +1,1 @@
-var mnemonic = "found auction clock make blind emotion devote relax goat shock mad cushion";
+var mnemonic = "select reject jelly empty noise prepare since bread wine panel paddle club";

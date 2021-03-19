@@ -1,1 +1,1 @@
-var mnemonic = "night simple stamp panda anchor limb pull cinnamon tent clump armor arch";
+var mnemonic = "gap opera promote ceiling remove mango sustain thought pizza tank alley season";

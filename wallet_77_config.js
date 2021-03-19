@@ -1,1 +1,1 @@
-var mnemonic = "weird plug plastic club sign gravity echo suit skirt hammer million opera";
+var mnemonic = "release impact enhance train laptop scorpion mind bag leg swap cat jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter relax ankle diagram empty become violin dilemma quality pool orbit wheat";
+var mnemonic = "spirit express click width banner awkward need what prosper enemy patrol coin";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine sleep bone ecology broken page funny dynamic amused stairs thought still";
+var mnemonic = "actual cigar question work patrol average project describe music silent vessel piano";

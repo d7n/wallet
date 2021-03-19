@@ -1,1 +1,1 @@
-var mnemonic = "giraffe three horn lizard october explain aisle season acquire jeans refuse couple";
+var mnemonic = "useless disagree vital way turn nest track pool enhance cruise drop inject";

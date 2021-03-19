@@ -1,1 +1,1 @@
-var mnemonic = "ridge foil differ twist fan region cricket odor gain kangaroo reunion subject";
+var mnemonic = "sleep extend captain cliff feature link color can toss skin equal galaxy";

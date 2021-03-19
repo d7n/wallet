@@ -1,1 +1,1 @@
-var mnemonic = "fee expire jelly tackle woman estate guitar minimum noble peanut seat online";
+var mnemonic = "sock lunch nut desk stadium clip wise riot call fat leave then";

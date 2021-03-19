@@ -1,1 +1,1 @@
-var mnemonic = "love stem hawk amused fatigue crater expect steel barely ozone inhale rhythm";
+var mnemonic = "lens decide basic run brown mule child forward sister only gorilla dirt";

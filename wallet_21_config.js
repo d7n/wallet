@@ -1,1 +1,1 @@
-var mnemonic = "differ release release wool reunion blame casino proof sheriff retreat false pen";
+var mnemonic = "vivid depend clean nephew expect pistol safe solar fatigue now fitness width";

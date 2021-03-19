@@ -1,1 +1,1 @@
-var mnemonic = "neck ski weekend grow feel either distance crash swarm cost finish will";
+var mnemonic = "then idea clinic crisp urban fossil rabbit promote orchard fix drip gossip";

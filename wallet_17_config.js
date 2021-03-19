@@ -1,1 +1,1 @@
-var mnemonic = "city cricket idea game bonus change episode leave metal cotton risk tattoo";
+var mnemonic = "opera input cancel cloth fuel execute system leader crisp hold kit lizard";

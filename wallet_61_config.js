@@ -1,1 +1,1 @@
-var mnemonic = "media color invite scout student noble educate blossom eye all spot crane";
+var mnemonic = "hold hover negative essence identify ginger endorse cake distance scorpion emotion loop";

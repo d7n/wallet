@@ -1,1 +1,1 @@
-var mnemonic = "exchange awesome loyal chunk creek soft dirt seek coin advance lava edge";
+var mnemonic = "egg reward chalk source rate waste this hurdle ball sick sight split";

@@ -1,1 +1,1 @@
-var mnemonic = "habit sleep sniff limit stomach stick eagle tag carpet wire sock boss";
+var mnemonic = "squeeze small must strong impulse judge diamond silk unfold exist tide island";

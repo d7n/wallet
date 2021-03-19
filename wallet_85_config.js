@@ -1,1 +1,1 @@
-var mnemonic = "extend spice stuff symptom excess banner bone transfer flush lobster menu snow";
+var mnemonic = "skin margin stamp damage cup invest gloom dog private curtain share rebel";

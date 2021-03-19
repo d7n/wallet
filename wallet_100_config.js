@@ -1,1 +1,1 @@
-var mnemonic = "already beef learn home glow arena shop test curious obscure pretty risk";
+var mnemonic = "remind awkward nephew rice rent zone biology false indicate ticket fantasy glow";

@@ -1,1 +1,1 @@
-var mnemonic = "flash sniff raven result plunge exercise mixed bundle dial home trip surprise";
+var mnemonic = "wonder sense swamp soccer mango image polar awkward curve target any town";

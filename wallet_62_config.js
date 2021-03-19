@@ -1,1 +1,1 @@
-var mnemonic = "fresh glass desert glide chest release upon diary assault clip fuel area";
+var mnemonic = "popular boss later consider tail shrug purpose arrow brother ribbon way guide";

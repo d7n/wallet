@@ -1,1 +1,1 @@
-var mnemonic = "surprise skin tower syrup laundry garment goat sort web master entire shallow";
+var mnemonic = "vanish problem gain sight innocent play picture erupt glove open crash arm";

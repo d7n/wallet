@@ -1,1 +1,1 @@
-var mnemonic = "mouse illness flush hollow kiwi raven lazy ensure bunker useful kiss anxiety";
+var mnemonic = "deer secret virus sense crime cage thumb elder off chest punch tiny";

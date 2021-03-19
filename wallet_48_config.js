@@ -1,1 +1,1 @@
-var mnemonic = "depend analyst leader nominee school silly blossom mask harsh mom foot design";
+var mnemonic = "stick put differ grain chapter express vapor cargo ability depth absorb abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "hub solid bunker once leaf increase margin device emotion divert hundred galaxy";
+var mnemonic = "giggle hole sketch sock upset sea scissors mammal scheme chronic must deliver";

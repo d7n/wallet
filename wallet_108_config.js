@@ -1,1 +1,1 @@
-var mnemonic = "office medal gossip slam host possible turtle comfort frequent horror wet atom";
+var mnemonic = "custom rescue gate minor caught history sketch icon hire clinic tackle father";

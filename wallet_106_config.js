@@ -1,1 +1,1 @@
-var mnemonic = "depend sting anxiety element tomato aisle elite calm divert girl calm inside";
+var mnemonic = "arrive eyebrow odor neutral edit deny merit race drift fantasy route target";

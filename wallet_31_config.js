@@ -1,1 +1,1 @@
-var mnemonic = "very salmon announce upper exotic label victory echo rich diet sweet bag";
+var mnemonic = "dutch disagree caught device matter income media exchange resemble dry success off";

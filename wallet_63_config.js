@@ -1,1 +1,1 @@
-var mnemonic = "air hurry foil build pistol sight detect can divide nephew judge boil";
+var mnemonic = "intact hood hello festival silk carpet pony happy hidden canoe denial lecture";

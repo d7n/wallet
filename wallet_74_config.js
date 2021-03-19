@@ -1,1 +1,1 @@
-var mnemonic = "husband short favorite express quick desk rice long innocent napkin lawn loyal";
+var mnemonic = "decrease annual laptop rigid topic lizard swift barrel flush throw will carry";

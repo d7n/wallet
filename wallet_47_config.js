@@ -1,1 +1,1 @@
-var mnemonic = "banana mammal this flash hover when join vivid eight soup flame draft";
+var mnemonic = "girl analyst leave injury surface kiss shiver pond regret duty modify collect";

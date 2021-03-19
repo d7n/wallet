@@ -1,1 +1,1 @@
-var mnemonic = "antique fancy vehicle bargain furnace staff exile okay steak neglect hip gospel";
+var mnemonic = "key move awesome intact subway ketchup library shell virtual ice cattle arm";

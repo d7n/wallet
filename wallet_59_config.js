@@ -1,1 +1,1 @@
-var mnemonic = "august host column kite shrug together sketch grow tuna stamp when visa";
+var mnemonic = "mesh trick upon liquid cattle jacket stadium bleak tomato endorse number keen";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen crumble uphold success satisfy stool dog unfair ice develop duck stove";
+var mnemonic = "pupil crawl cactus cream wife tortoise near foster notice unit bless logic";

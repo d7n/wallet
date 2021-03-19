@@ -1,1 +1,1 @@
-var mnemonic = "medal finish parent turtle aim track knife blood identify captain exist appear";
+var mnemonic = "decorate raccoon police tail cheap leopard truly cute end sunset truly typical";

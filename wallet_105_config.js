@@ -1,1 +1,1 @@
-var mnemonic = "symbol rapid unknown cream wait draw trumpet sun filter aware coral speak";
+var mnemonic = "furnace virus youth another output palm glad ladder flock result acquire main";

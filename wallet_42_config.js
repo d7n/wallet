@@ -1,1 +1,1 @@
-var mnemonic = "tooth olympic panel luggage plug voyage truly purpose purpose spawn begin cinnamon";
+var mnemonic = "marble brush replace small mail physical blossom trip notice movie list throw";

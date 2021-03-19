@@ -1,1 +1,1 @@
-var mnemonic = "dwarf season gym prevent nose slush detect smile humble evoke jump frown";
+var mnemonic = "orient wine mother chuckle fun ghost emotion turn swamp adjust step bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity attack slush palm museum ivory bomb key fantasy hire sausage evidence";
+var mnemonic = "bargain surge opinion topic fluid box permit upset grow six candy phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "latin silly holiday blood note obey accuse excite grace skill field drum";
+var mnemonic = "dry morning then valley square light caution away ranch obvious quantum place";

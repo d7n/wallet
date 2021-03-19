@@ -1,1 +1,1 @@
-var mnemonic = "estate comic olive paddle until pact ketchup company primary meat mandate goose";
+var mnemonic = "glove tackle faint category alarm drive afford wasp announce nut survey thing";

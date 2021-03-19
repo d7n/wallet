@@ -1,1 +1,1 @@
-var mnemonic = "culture plunge guess only give tree copy squirrel grief cattle indicate beauty";
+var mnemonic = "year lawn talk mad fiscal cloud test lecture foot wheat stage sorry";

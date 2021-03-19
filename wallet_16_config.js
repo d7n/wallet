@@ -1,1 +1,1 @@
-var mnemonic = "borrow glare girl extra face midnight kangaroo corn injury drill drive romance";
+var mnemonic = "engage width cotton lumber aspect hip vote swamp canvas wire aerobic radio";

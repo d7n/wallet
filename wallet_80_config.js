@@ -1,1 +1,1 @@
-var mnemonic = "fall spy sail loyal cram topic calm rival file nuclear churn else";
+var mnemonic = "giggle wall wall outdoor end little flower ridge ten measure plunge lift";

@@ -1,1 +1,1 @@
-var mnemonic = "patient talent search spirit future element key vintage easy window obvious grit";
+var mnemonic = "jungle roast then hold sell soft leaf nominee cereal cool someone risk";

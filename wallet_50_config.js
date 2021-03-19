@@ -1,1 +1,1 @@
-var mnemonic = "clean say ability similar oblige apart flash easy lemon february gown rifle";
+var mnemonic = "glory easily develop capable spread slow option analyst proud kind close join";

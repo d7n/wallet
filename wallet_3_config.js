@@ -1,1 +1,1 @@
-var mnemonic = "enforce reject dawn ghost absurd wine era special foster quote capable tube";
+var mnemonic = "swamp height link wolf forum annual style embody point hint color jacket";

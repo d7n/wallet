@@ -1,1 +1,1 @@
-var mnemonic = "industry surprise meat run draw merge elephant tonight banner fold sign oxygen";
+var mnemonic = "village hip brass news promote thrive wrap topple tuna display fabric forum";

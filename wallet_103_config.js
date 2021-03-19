@@ -1,1 +1,1 @@
-var mnemonic = "secret obvious sadness floor smoke prosper puzzle enemy mix north own cry";
+var mnemonic = "require example truck bottom hobby combine baby again loop farm glow need";

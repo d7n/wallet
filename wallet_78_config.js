@@ -1,1 +1,1 @@
-var mnemonic = "focus image elegant soul movie organ lab brief heart faint able rifle";
+var mnemonic = "cup fine phrase exile cousin violin rose cause stay identify stairs torch";

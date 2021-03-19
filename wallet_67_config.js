@@ -1,1 +1,1 @@
-var mnemonic = "decorate dinner else tired assume fit deputy cute upon broken spare boost";
+var mnemonic = "shadow mistake like attract cute series cancel tone win sunny amateur oblige";

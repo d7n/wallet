@@ -1,1 +1,1 @@
-var mnemonic = "want purpose wasp urban glow future cannon pulp key defense decide puzzle";
+var mnemonic = "huge point slide wait vault phone fitness neither bitter involve solve success";

@@ -1,1 +1,1 @@
-var mnemonic = "safe together small deliver weird occur weird smile soft reward trial eye";
+var mnemonic = "ordinary life brisk lamp gold ridge parade spike lesson frog symptom foot";

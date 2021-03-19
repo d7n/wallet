@@ -1,1 +1,1 @@
-var mnemonic = "letter room walk disorder album problem project inform punch bike cement damp";
+var mnemonic = "south volcano barely boss snack talent hood decline bracket country shoot turn";

@@ -1,1 +1,1 @@
-var mnemonic = "logic edge afraid turkey merit lesson finish evidence orchard volcano execute crucial";
+var mnemonic = "maximum smooth below cheese essence loyal arena twist wonder knock general they";

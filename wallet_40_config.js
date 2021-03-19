@@ -1,1 +1,1 @@
-var mnemonic = "neck swallow foot notice sponsor glass scare milk grow lucky floor taste";
+var mnemonic = "salad trash embark adjust add blame example pony learn injury quiz airport";

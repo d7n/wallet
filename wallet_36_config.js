@@ -1,1 +1,1 @@
-var mnemonic = "blind dance among inflict moment dog chest jelly stool modify world bacon";
+var mnemonic = "group gravity mass edit march purpose rally kick face cigar pioneer topic";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato stumble replace copper toss alpha trick vanish lonely involve insect flight";
+var mnemonic = "zone flame venture oval whip urge group fatigue horn trade doll zero";

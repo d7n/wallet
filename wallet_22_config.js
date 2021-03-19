@@ -1,1 +1,1 @@
-var mnemonic = "ceiling riot leader tuna clutch bird toward cart rely response absent reason";
+var mnemonic = "music ugly gossip seek man symbol estate purchase sorry strong execute industry";

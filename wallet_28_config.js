@@ -1,1 +1,1 @@
-var mnemonic = "float orbit adult tobacco machine route river great slogan time ring fortune";
+var mnemonic = "humor only gym inflict coil april pond firm twenty about pitch glad";

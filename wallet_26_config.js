@@ -1,1 +1,1 @@
-var mnemonic = "raise borrow auction admit album lunar seat soldier shiver wine tone number";
+var mnemonic = "adjust resist column polar angle sorry whisper uncover noble exhibit razor episode";

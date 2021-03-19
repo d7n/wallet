@@ -1,1 +1,1 @@
-var mnemonic = "hurry siren quiz enrich shrug firm pen disagree hub multiply craft climb";
+var mnemonic = "battle room gadget dawn farm logic alarm hawk congress diesel soccer similar";
