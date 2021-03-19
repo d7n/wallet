@@ -1,1 +1,1 @@
-var mnemonic = "oxygen month report caution core divide tunnel hamster element jazz essay coffee";
+var mnemonic = "gown snap dial torch furnace verify cage between meat mail wide coil";

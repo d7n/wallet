@@ -1,1 +1,1 @@
-var mnemonic = "time cactus violin deal average balance drum unhappy huge curtain ignore gym";
+var mnemonic = "exit brand story sword evidence secret key novel foster bar push column";

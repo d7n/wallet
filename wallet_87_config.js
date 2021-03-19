@@ -1,1 +1,1 @@
-var mnemonic = "burden seed bus call hire hurdle neither walk crater speak piano balcony";
+var mnemonic = "logic meadow decorate indicate certain update either tip weasel mercy warrior color";

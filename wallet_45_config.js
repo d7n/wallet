@@ -1,1 +1,1 @@
-var mnemonic = "okay toward razor device must honey will edge bar pledge gift help";
+var mnemonic = "involve evolve item mistake word indicate busy creek baby nurse reveal marble";

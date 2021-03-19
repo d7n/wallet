@@ -1,1 +1,1 @@
-var mnemonic = "top satoshi noble try sail major outdoor follow flock decrease rookie utility";
+var mnemonic = "collect gas subway number toilet furnace deposit top business detail visa system";

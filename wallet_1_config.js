@@ -1,1 +1,1 @@
-var mnemonic = "bid pottery mom fluid mad camera wolf rose story author fluid improve";
+var mnemonic = "dice scale wall fashion keen top nurse code worth garage damp denial";

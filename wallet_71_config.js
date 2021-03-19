@@ -1,1 +1,1 @@
-var mnemonic = "crystal crucial clutch ski early stove milk answer joy vacuum spawn alter";
+var mnemonic = "pause gown mesh nothing safe warm divorce club pause scout asthma guess";

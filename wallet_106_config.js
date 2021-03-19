@@ -1,1 +1,1 @@
-var mnemonic = "escape cargo crime modify track parrot fortune axis window exercise often pioneer";
+var mnemonic = "movie glass bridge index donate reopen sadness ill avoid illness thumb ketchup";

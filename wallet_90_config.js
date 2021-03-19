@@ -1,1 +1,1 @@
-var mnemonic = "start blouse luggage make destroy select stick fit review tool say magnet";
+var mnemonic = "skate repair fiction resemble syrup paper repair treat indoor unique recipe tenant";

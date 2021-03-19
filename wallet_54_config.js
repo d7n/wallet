@@ -1,1 +1,1 @@
-var mnemonic = "truth whisper laugh spread advance phrase about sample able option submit whale";
+var mnemonic = "say entry cherry taxi saddle work immense install cupboard hub shuffle judge";

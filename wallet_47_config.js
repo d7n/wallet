@@ -1,1 +1,1 @@
-var mnemonic = "shell guide broken leader offer add bridge shoulder upper define surface certain";
+var mnemonic = "olive lend warm mesh genius ketchup avoid decide toddler curve mutual correct";

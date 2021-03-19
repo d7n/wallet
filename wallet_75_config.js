@@ -1,1 +1,1 @@
-var mnemonic = "deer creek elbow wagon brave depend stomach swallow category attend indoor job";
+var mnemonic = "genre noodle repair dinosaur project escape giant upgrade cart burst weapon inner";

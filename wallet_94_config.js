@@ -1,1 +1,1 @@
-var mnemonic = "oval topple maid people army divorce ribbon ring alien surround month now";
+var mnemonic = "athlete fine ankle park friend spirit vital novel coast curious peasant awkward";

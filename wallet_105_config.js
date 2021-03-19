@@ -1,1 +1,1 @@
-var mnemonic = "oil skin inner discover manual dinner gesture rib rigid because dad pledge";
+var mnemonic = "hurry all version state kitchen rail clock frozen swim broken illness aim";

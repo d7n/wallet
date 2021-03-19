@@ -1,1 +1,1 @@
-var mnemonic = "hint ugly alley wide word exhibit hamster monkey coyote sad soup style";
+var mnemonic = "primary delay plug tumble copy high can security refuse tomorrow response index";

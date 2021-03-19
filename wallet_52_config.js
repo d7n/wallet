@@ -1,1 +1,1 @@
-var mnemonic = "borrow shiver art kite wrist lumber clarify sister slide pause cry kite";
+var mnemonic = "ankle culture hire layer hurry note case credit skirt seminar ecology glance";

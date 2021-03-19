@@ -1,1 +1,1 @@
-var mnemonic = "uniform across ozone gorilla debate nice sponsor bridge inside hero void soldier";
+var mnemonic = "market shine habit tortoise suspect where address inspire mobile sample error artefact";

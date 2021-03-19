@@ -1,1 +1,1 @@
-var mnemonic = "slot affair force warm law chunk clever system topple duty skirt inner";
+var mnemonic = "grass caution basic hurt surround almost major now autumn smoke orient business";

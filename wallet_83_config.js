@@ -1,1 +1,1 @@
-var mnemonic = "during saddle ozone palm erode thank expose rent visual middle lava metal";
+var mnemonic = "execute census lumber perfect pattern infant teach foster rigid few hip wish";

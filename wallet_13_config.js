@@ -1,1 +1,1 @@
-var mnemonic = "insane cruel during write clap version label between split away vicious two";
+var mnemonic = "surprise empower twelve shuffle company embark identify surface since turtle ritual mesh";

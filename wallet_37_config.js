@@ -1,1 +1,1 @@
-var mnemonic = "try reunion worry anxiety dolphin typical tobacco silly filter various baby trial";
+var mnemonic = "local crouch pulp suggest toy oil fortune gold immense lounge slice tray";

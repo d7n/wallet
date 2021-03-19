@@ -1,1 +1,1 @@
-var mnemonic = "piece awkward melt copper roast parade around metal captain nature clip labor";
+var mnemonic = "expand nose team song document inform spice shaft harsh slight misery hurry";

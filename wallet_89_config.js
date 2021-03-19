@@ -1,1 +1,1 @@
-var mnemonic = "praise indicate split radar way sunset joy quality sing harbor soft donate";
+var mnemonic = "knife faculty split process boil legend hollow enrich people vibrant scale like";

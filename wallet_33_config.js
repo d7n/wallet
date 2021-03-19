@@ -1,1 +1,1 @@
-var mnemonic = "armor accident rural evoke confirm hurt evolve moon era hunt sausage senior";
+var mnemonic = "abuse perfect lava antique legend use survey small blur room bean sunset";

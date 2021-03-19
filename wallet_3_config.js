@@ -1,1 +1,1 @@
-var mnemonic = "cotton slogan rural position assist buddy inspire bring clarify jar fluid globe";
+var mnemonic = "anchor income hunt ketchup asthma hand around struggle carry regret trophy match";

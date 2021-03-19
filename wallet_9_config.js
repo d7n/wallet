@@ -1,1 +1,1 @@
-var mnemonic = "useful wide hedgehog person isolate upon brown midnight fatal tired used game";
+var mnemonic = "flip harsh gasp flip slice raise gorilla message atom leisure fantasy hurdle";

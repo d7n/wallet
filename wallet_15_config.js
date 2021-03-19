@@ -1,1 +1,1 @@
-var mnemonic = "apart sustain analyst legal soon pupil certain frozen height loud sure access";
+var mnemonic = "artefact hazard face camera uphold brass genre noodle wise royal congress update";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare pact middle lonely december split remember spread crane attack length long";
+var mnemonic = "useful snack cherry human phone balance unlock idea merry ghost mixture goddess";

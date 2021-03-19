@@ -1,1 +1,1 @@
-var mnemonic = "gun toss forward myth party airport exchange afraid chaos admit six quote";
+var mnemonic = "pen future minimum buffalo juice heavy biology shock regular lens cheese sea";

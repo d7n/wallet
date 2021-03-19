@@ -1,1 +1,1 @@
-var mnemonic = "key north step brisk search earth vessel humble anchor suspect blossom liberty";
+var mnemonic = "verify since friend entry mention hand symptom program enable blame bachelor hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle pledge evidence sphere table lonely soup crunch lake duck injury sniff";
+var mnemonic = "rocket resource minimum genius royal heavy approve razor weekend negative slight try";

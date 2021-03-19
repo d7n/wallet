@@ -1,1 +1,1 @@
-var mnemonic = "round sort execute brass once immune unfold process divorce stumble nerve ability";
+var mnemonic = "diamond trip tomato hungry sorry salute man monster plate embark blue delay";

@@ -1,1 +1,1 @@
-var mnemonic = "large snow chef magnet swing gas ethics face draw manage tennis banner";
+var mnemonic = "first slot pond wire allow fitness essence turtle coffee immense degree rival";

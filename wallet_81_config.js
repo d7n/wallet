@@ -1,1 +1,1 @@
-var mnemonic = "rule click hobby snack say print major inspire shop nation about dust";
+var mnemonic = "bottom priority river cattle soldier slender alone wife acquire around giraffe good";

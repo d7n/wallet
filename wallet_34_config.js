@@ -1,1 +1,1 @@
-var mnemonic = "witness cradle image oil alert task panda execute cage question certain update";
+var mnemonic = "track pink habit orange find sign trip enlist century media olympic any";

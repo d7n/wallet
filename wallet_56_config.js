@@ -1,1 +1,1 @@
-var mnemonic = "mechanic project agree aisle define hello ensure square cloud forget wool rally";
+var mnemonic = "robot minimum steak acid gesture throw ketchup between soft feature core yard";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy search adjust noise point strategy patrol fuel news scout bridge limit";
+var mnemonic = "glove save machine asthma romance nephew gym legal erosion vast cheap come";

@@ -1,1 +1,1 @@
-var mnemonic = "army inhale adapt you pulp enlist wreck flash salute aim seek shed";
+var mnemonic = "tackle three kiwi emotion engine lock question lava sad awake relax once";

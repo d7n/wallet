@@ -1,1 +1,1 @@
-var mnemonic = "syrup canal genuine cube tattoo please right unfold there impulse donor faint";
+var mnemonic = "remember coin rescue empower athlete shrug decline solution into achieve level crane";

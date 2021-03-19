@@ -1,1 +1,1 @@
-var mnemonic = "draw today cabin hold shoulder width medal mind never sample person refuse";
+var mnemonic = "message tuition original chief moon youth loop bar life culture august army";

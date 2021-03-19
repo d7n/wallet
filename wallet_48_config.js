@@ -1,1 +1,1 @@
-var mnemonic = "vehicle plastic wagon bright egg chalk news hospital word electric sting simple";
+var mnemonic = "solution fury middle system tomato correct power play report yellow lawsuit tragic";

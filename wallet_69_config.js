@@ -1,1 +1,1 @@
-var mnemonic = "timber news patch dilemma trip prize online offer brother speed uniform mirror";
+var mnemonic = "wasp orient mix vast glass easy lift acid much taxi forum outside";

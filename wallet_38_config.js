@@ -1,1 +1,1 @@
-var mnemonic = "raw rare state expand please daughter impact moral collect element soul material";
+var mnemonic = "desk regular change better swallow huge board loan run legend they rain";

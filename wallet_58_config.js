@@ -1,1 +1,1 @@
-var mnemonic = "napkin dawn evil plunge pledge phone picnic street vacuum toward neck quantum";
+var mnemonic = "fiscal collect city pact adult buddy mouse window leaf coyote cheese illegal";

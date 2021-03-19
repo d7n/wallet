@@ -1,1 +1,1 @@
-var mnemonic = "taste key story air sign give man midnight lumber sponsor seminar tonight";
+var mnemonic = "regular ice fluid bubble actual earn history arch resource path amateur check";

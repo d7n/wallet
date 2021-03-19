@@ -1,1 +1,1 @@
-var mnemonic = "soda neutral social grit manual reveal onion exit almost regret spawn review";
+var mnemonic = "bitter meat friend idle base dune inherit scrap car drive country split";

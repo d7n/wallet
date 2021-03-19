@@ -1,1 +1,1 @@
-var mnemonic = "canoe pioneer damp sea theory bread hip youth ring negative job make";
+var mnemonic = "inner scheme elegant corn pave unable vicious cradle solid bus debate cave";

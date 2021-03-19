@@ -1,1 +1,1 @@
-var mnemonic = "obey slam online trial elegant spell visual scrap clown sell wealth flash";
+var mnemonic = "bracket tilt duck year salt pattern pretty fat almost morning emotion summer";

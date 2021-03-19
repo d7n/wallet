@@ -1,1 +1,1 @@
-var mnemonic = "husband goat shoulder toddler spin elder alpha space slight verify fault dose";
+var mnemonic = "evoke fame scrub major fork maple soap turtle ready when armed chaos";

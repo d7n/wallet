@@ -1,1 +1,1 @@
-var mnemonic = "nominee boost price moon response era great orange garlic lock drastic cattle";
+var mnemonic = "have asset salad bunker identify under drink raw grid taste bundle chase";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch claw strategy broom stairs hobby fat melt blossom soft merge section";
+var mnemonic = "sad update deputy reveal ability join dawn switch wish guilt veteran there";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz chalk other essay ride era boss insect market oyster black hawk";
+var mnemonic = "core accuse skate one innocent butter hen color olympic swamp fossil effort";

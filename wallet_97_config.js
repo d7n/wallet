@@ -1,1 +1,1 @@
-var mnemonic = "ivory accuse blouse link eye senior erode twist flat sudden banner clay";
+var mnemonic = "fuel annual garbage miss blind minor pattern tape equip shine diary drift";

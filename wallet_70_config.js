@@ -1,1 +1,1 @@
-var mnemonic = "orphan mutual banner symptom slab impulse matter cheap quit segment spell unhappy";
+var mnemonic = "pencil jar banner genius nature defy stereo talk cinnamon chimney sand dwarf";

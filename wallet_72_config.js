@@ -1,1 +1,1 @@
-var mnemonic = "afraid damp east brave usual veteran unaware decrease thank sound crunch total";
+var mnemonic = "market tobacco sort another spot gesture ignore old desert taste cabbage assume";

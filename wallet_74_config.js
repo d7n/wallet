@@ -1,1 +1,1 @@
-var mnemonic = "dutch steel game forest image supreme battle grief mixed snack glance can";
+var mnemonic = "bar glow brisk swim isolate fluid universe talk diamond extra toddler toss";

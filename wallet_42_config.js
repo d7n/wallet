@@ -1,1 +1,1 @@
-var mnemonic = "teach exchange glare comfort another sword trick prefer horror stamp original laptop";
+var mnemonic = "lottery detect verb force field radio rifle wave side design lobster scorpion";

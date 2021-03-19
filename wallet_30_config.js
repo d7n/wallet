@@ -1,1 +1,1 @@
-var mnemonic = "nice culture warrior sweet sword viable eight vocal believe tourist tilt ordinary";
+var mnemonic = "oak urge bone tortoise orchard output essay horse lyrics alert page expect";

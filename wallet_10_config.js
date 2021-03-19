@@ -1,1 +1,1 @@
-var mnemonic = "original maple future firm stomach piece primary inject celery weasel snow make";
+var mnemonic = "casual transfer portion suffer table team wagon work soul great indicate immense";

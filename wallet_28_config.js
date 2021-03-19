@@ -1,1 +1,1 @@
-var mnemonic = "off scan actual leopard wrap random correct artist knock session sustain lazy";
+var mnemonic = "curtain fruit pioneer submit universe notable local token ladder junior foot dove";

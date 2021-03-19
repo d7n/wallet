@@ -1,1 +1,1 @@
-var mnemonic = "believe try fence minimum man purse truth rival purse meadow tobacco toddler";
+var mnemonic = "arrive boat public grape express stable bomb soldier palm famous diary mirror";

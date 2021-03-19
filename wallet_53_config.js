@@ -1,1 +1,1 @@
-var mnemonic = "skate mercy anxiety step discover scatter broom supply split either uphold one";
+var mnemonic = "unveil material old manual photo ill truck spend idea popular initial live";

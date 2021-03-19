@@ -1,1 +1,1 @@
-var mnemonic = "wrestle danger base kidney whisper april bonus laundry chimney crunch reduce supply";
+var mnemonic = "credit satoshi strong motion waste armed race zoo nice kitchen husband over";

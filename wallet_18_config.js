@@ -1,1 +1,1 @@
-var mnemonic = "struggle obey excuse unable dune fall chalk banner casual awful evidence diamond";
+var mnemonic = "inch gossip clown supply crazy battle entire outside cube outdoor hint deny";

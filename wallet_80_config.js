@@ -1,1 +1,1 @@
-var mnemonic = "prefer disagree jazz recycle escape tip orchard bamboo punch draw unit absorb";
+var mnemonic = "hammer cherry toward can useful reason fitness book uncover betray chunk hospital";

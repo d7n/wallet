@@ -1,1 +1,1 @@
-var mnemonic = "motor carry recall ecology bus trophy caution vapor sample hen valid similar";
+var mnemonic = "question prepare stamp pond bachelor lawsuit friend charge fatal clump wide goat";

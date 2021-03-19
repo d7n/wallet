@@ -1,1 +1,1 @@
-var mnemonic = "sure deputy scrap ordinary frog relief clip trumpet plunge crisp check unhappy";
+var mnemonic = "hidden chunk borrow dinosaur february maximum early tackle oven usual lounge few";

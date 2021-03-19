@@ -1,1 +1,1 @@
-var mnemonic = "front dolphin tuition match gloom horror flip duty penalty strike wonder portion";
+var mnemonic = "unit harvest stove category lesson announce deputy seed luxury annual hero mango";

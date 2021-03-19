@@ -1,1 +1,1 @@
-var mnemonic = "arctic friend rice dry river skill exercise pause pelican pull mass maple";
+var mnemonic = "have pole auto slot spend dismiss north moral happy volume render mixture";

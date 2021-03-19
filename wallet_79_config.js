@@ -1,1 +1,1 @@
-var mnemonic = "salute aspect heart joke stamp rather search wide party valid start december";
+var mnemonic = "green carpet cable negative rather pottery zone opinion remember fee own cross";

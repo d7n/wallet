@@ -1,1 +1,1 @@
-var mnemonic = "cable exchange burden mixed assist reason ready volume ask plunge weekend topple";
+var mnemonic = "light fringe donor army emotion width initial common lend lamp visual whisper";

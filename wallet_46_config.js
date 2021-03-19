@@ -1,1 +1,1 @@
-var mnemonic = "mother model humble ranch exhaust pretty nice black drop obscure nest chicken";
+var mnemonic = "private sting sun vanish emerge crucial agree tip another chicken lamp cave";

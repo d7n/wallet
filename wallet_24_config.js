@@ -1,1 +1,1 @@
-var mnemonic = "balance squeeze island crazy stool direct smile miracle twelve admit mosquito mercy";
+var mnemonic = "increase swear snow improve tortoise cigar quote comic orphan state bridge motion";

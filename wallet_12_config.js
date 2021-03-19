@@ -1,1 +1,1 @@
-var mnemonic = "report wife iron wink cushion throw base grape boost maze another rug";
+var mnemonic = "sort park solid fabric belt busy master cherry once swamp guess update";

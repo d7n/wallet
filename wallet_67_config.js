@@ -1,1 +1,1 @@
-var mnemonic = "nasty giraffe give require develop unhappy design burst shuffle noble deliver can";
+var mnemonic = "erupt fun chief alone parade deal around grid harvest skill hospital merge";

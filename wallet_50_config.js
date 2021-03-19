@@ -1,1 +1,1 @@
-var mnemonic = "meat evidence banana charge toilet jeans act grab taste meadow trash forget";
+var mnemonic = "shop uniform shock also injury emerge solve blue opinion face dutch any";

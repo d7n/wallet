@@ -1,1 +1,1 @@
-var mnemonic = "recall final walnut sheriff husband tag emerge dutch outer force hair property";
+var mnemonic = "thunder found spirit vessel sunny glimpse hedgehog ankle staff combine cat baby";

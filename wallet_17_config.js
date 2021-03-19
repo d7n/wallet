@@ -1,1 +1,1 @@
-var mnemonic = "bitter stand smooth oblige praise they grit reduce supply sibling cattle own";
+var mnemonic = "small exist cheese sure will size enlist remove portion large custom kiss";

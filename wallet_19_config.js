@@ -1,1 +1,1 @@
-var mnemonic = "borrow sustain drastic adapt battle tool raccoon used nuclear derive disease squirrel";
+var mnemonic = "spawn latin possible supply burden crazy enough brisk turkey apart injury december";

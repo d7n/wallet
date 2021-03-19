@@ -1,1 +1,1 @@
-var mnemonic = "behind cannon march service hospital combine narrow sign brother upper endless supreme";
+var mnemonic = "winner diet tree distance embrace pelican vendor suspect pair escape village stuff";

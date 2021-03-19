@@ -1,1 +1,1 @@
-var mnemonic = "whale uphold sister atom volume brand season remove present box hidden stay";
+var mnemonic = "gate defense since faculty draw alert private velvet wash neutral victory creek";

@@ -1,1 +1,1 @@
-var mnemonic = "viable finish barrel save cluster profit board web midnight exile among song";
+var mnemonic = "skate canvas action hill claim jungle engine tide winner husband honey stamp";

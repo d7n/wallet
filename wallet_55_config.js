@@ -1,1 +1,1 @@
-var mnemonic = "essence oppose nature kitchen borrow life injury chalk size approve upset rubber";
+var mnemonic = "family humor note convince replace west machine whip reform royal jaguar banner";
