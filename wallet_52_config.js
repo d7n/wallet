@@ -1,1 +1,1 @@
-var mnemonic = "arrange elbow spend eternal company enough boy minor where grunt narrow cactus";
+var mnemonic = "wage mammal view pattern blood estate interest gasp photo gain awkward whip";

@@ -1,1 +1,1 @@
-var mnemonic = "claim acquire long extra anchor badge bulb race vibrant key often cage";
+var mnemonic = "control hollow whale guilt custom fame jaguar repeat visit false tilt crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "grass wage custom chair fold edge tower fury pluck identify whale vibrant";
+var mnemonic = "act select arch repair mango orbit chest grocery sleep fine easily rally";

@@ -1,1 +1,1 @@
-var mnemonic = "box swap rose online machine mountain axis bachelor voice organ resist stick";
+var mnemonic = "sock depart capital person impact recipe enough neither gorilla distance deny physical";

@@ -1,1 +1,1 @@
-var mnemonic = "gift slot frown under receive raccoon dress vault enter man elevator visit";
+var mnemonic = "office total essay current myth enforce cereal dice consider primary marble metal";

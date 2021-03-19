@@ -1,1 +1,1 @@
-var mnemonic = "enlist reveal mad industry maze apart lady economy pulse kitchen result deal";
+var mnemonic = "robot silk patient onion glad wear naive problem ethics seven nice lamp";

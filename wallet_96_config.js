@@ -1,1 +1,1 @@
-var mnemonic = "oyster rule raven famous second space stadium pony flower ahead chalk acquire";
+var mnemonic = "baby faint visa tube random about rack mouse hard change snow vintage";

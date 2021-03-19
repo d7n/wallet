@@ -1,1 +1,1 @@
-var mnemonic = "circle choose favorite kit desert theme evil body news animal tilt story";
+var mnemonic = "cradle stumble zero remind sound average face come fly lobster pilot saddle";

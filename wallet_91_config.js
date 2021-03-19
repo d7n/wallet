@@ -1,1 +1,1 @@
-var mnemonic = "champion sentence upset chest bunker start beauty impulse cargo present mystery blast";
+var mnemonic = "symptom slice infant orchard boost gesture vicious weekend luxury ticket tunnel absorb";

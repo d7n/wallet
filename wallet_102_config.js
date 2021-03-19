@@ -1,1 +1,1 @@
-var mnemonic = "chest labor east brief toy brick subway topic wrist science dust cup";
+var mnemonic = "inflict decrease swamp best top blue rack thumb orange female fame trouble";

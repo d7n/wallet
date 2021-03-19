@@ -1,1 +1,1 @@
-var mnemonic = "fog uniform phone stumble come endless horn autumn film scare draw couch";
+var mnemonic = "saddle believe orphan ensure coral decade soap hello crane hover they oppose";

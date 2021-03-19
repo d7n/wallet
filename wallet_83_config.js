@@ -1,1 +1,1 @@
-var mnemonic = "notable decorate solid south crystal version pill vapor faith tip oak position";
+var mnemonic = "spoon excess office icon angry kite dentist arrow bridge situate width decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "valley brick battle phone tongue measure expire guilt license burden void million";
+var mnemonic = "imitate recall party sibling grape gate nerve flash donate chief peasant antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "tape exchange kitchen solar toast benefit post miss energy erosion crunch tiny";
+var mnemonic = "sweet occur skate strong hungry want tired bullet address defy high must";

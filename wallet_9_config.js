@@ -1,1 +1,1 @@
-var mnemonic = "critic skin vocal sausage curve law away cricket broccoli awake kitten popular";
+var mnemonic = "sense field coach air join brown exchange width banner ripple outside ritual";

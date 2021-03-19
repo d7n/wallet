@@ -1,1 +1,1 @@
-var mnemonic = "sausage swarm useful trophy satisfy job acid smile main uncover rose tiny";
+var mnemonic = "jewel daring model boy pattern aerobic shoulder clown winner artefact fancy illness";

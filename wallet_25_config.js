@@ -1,1 +1,1 @@
-var mnemonic = "disorder actual shaft stand flat sail early silver chimney firm chapter clap";
+var mnemonic = "donkey obscure peace basket post hurry antique gown fatigue exclude civil planet";

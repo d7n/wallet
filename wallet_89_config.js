@@ -1,1 +1,1 @@
-var mnemonic = "honey silent odor awkward bamboo uncover save define dilemma air push harvest";
+var mnemonic = "become expire toss episode report beauty fiber reveal during climb category ethics";

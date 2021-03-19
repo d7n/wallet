@@ -1,1 +1,1 @@
-var mnemonic = "art dawn nose control donor snap calm habit water capable border announce";
+var mnemonic = "code width alter congress doll usual flower joke taste ocean mandate glove";

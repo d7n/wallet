@@ -1,1 +1,1 @@
-var mnemonic = "pottery spin casual guilt quarter desert month beauty depart cabin winter fragile";
+var mnemonic = "crane impact undo addict carry ritual crazy lava leg comic brave curious";

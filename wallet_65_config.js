@@ -1,1 +1,1 @@
-var mnemonic = "six beef brain tip divorce enable stamp coconut festival vacant effort giant";
+var mnemonic = "garlic liar upper boy whip they surface edit will multiply cushion eager";

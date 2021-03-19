@@ -1,1 +1,1 @@
-var mnemonic = "quarter wing debris comfort carpet coin volume reduce kangaroo athlete connect melt";
+var mnemonic = "usage meat long reject system differ jump fuel hawk enrich husband canoe";

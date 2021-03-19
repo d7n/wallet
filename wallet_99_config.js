@@ -1,1 +1,1 @@
-var mnemonic = "deliver month tornado polar degree friend shop empower palm direct scout convince";
+var mnemonic = "demise lawsuit trip second luggage bench build tree hospital eager alcohol agent";

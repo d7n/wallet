@@ -1,1 +1,1 @@
-var mnemonic = "cradle sea little affair eyebrow shift limit token crouch dolphin betray business";
+var mnemonic = "hard course usage accuse inquiry daughter wood skull stand elevator pact receive";

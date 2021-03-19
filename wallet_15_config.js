@@ -1,1 +1,1 @@
-var mnemonic = "cluster fuel iron company meadow axis remove clip capable gesture rent office";
+var mnemonic = "fire opinion together oval picnic depart confirm tomato input edge fringe buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "foil sweet wise traffic lamp receive brand seat swamp token earth sell";
+var mnemonic = "brick warm need end swap around main mind jazz alert reopen success";

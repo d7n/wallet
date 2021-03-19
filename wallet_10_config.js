@@ -1,1 +1,1 @@
-var mnemonic = "fence wife cradle frog second enter copy marriage measure coil before bless";
+var mnemonic = "sure patient essay layer jealous place spot hair yard demise frown decrease";

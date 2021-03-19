@@ -1,1 +1,1 @@
-var mnemonic = "wrestle inmate nominee amazing solve inch morning random sleep domain because tooth";
+var mnemonic = "orient dice inform road illness romance angry arch delay month arctic draft";

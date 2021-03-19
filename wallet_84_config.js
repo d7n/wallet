@@ -1,1 +1,1 @@
-var mnemonic = "daughter replace girl seek amateur miss rocket culture nasty magic forward average";
+var mnemonic = "shrimp earn crowd typical slim decide belt rebuild friend panic gown turtle";

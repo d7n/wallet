@@ -1,1 +1,1 @@
-var mnemonic = "side control wreck orient obscure duck month effort profit awful question problem";
+var mnemonic = "chuckle market saddle zone crowd dolphin beef test spider wrestle danger copy";

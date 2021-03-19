@@ -1,1 +1,1 @@
-var mnemonic = "illness traffic ketchup surprise health collect agree sausage rely express nasty puzzle";
+var mnemonic = "quiz fashion talk slow size exhibit thrive advice monitor estate elegant desk";

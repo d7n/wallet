@@ -1,1 +1,1 @@
-var mnemonic = "leopard catalog pipe step task nose plug crawl airport distance lesson plunge";
+var mnemonic = "focus enhance almost recipe hover loud know possible copy color inmate electric";

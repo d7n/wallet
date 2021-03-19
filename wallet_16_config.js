@@ -1,1 +1,1 @@
-var mnemonic = "sugar trick negative course hour oval potato digital nephew legal announce cattle";
+var mnemonic = "junk taxi post grit alpha ozone index bitter hazard wisdom oyster moon";

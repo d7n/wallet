@@ -1,1 +1,1 @@
-var mnemonic = "expose coach uniform away until wolf glue skin write symbol pencil suspect";
+var mnemonic = "kitchen mountain fish urge raise suggest fit buffalo mobile insect priority abstract";

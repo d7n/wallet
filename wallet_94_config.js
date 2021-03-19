@@ -1,1 +1,1 @@
-var mnemonic = "taxi van just bring stage excess sibling gap goose demand ticket celery";
+var mnemonic = "owner orient border text invest install search position kite fame jeans invest";

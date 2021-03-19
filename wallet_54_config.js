@@ -1,1 +1,1 @@
-var mnemonic = "tube pencil tide artist slab fog two decide honey segment tent arrow";
+var mnemonic = "verify evoke motion wait wrong material force convince mule marriage require onion";

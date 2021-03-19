@@ -1,1 +1,1 @@
-var mnemonic = "hawk test main stove universe rose label inquiry budget day bamboo miracle";
+var mnemonic = "unhappy pact miss deal ritual text suffer witness weird change domain metal";

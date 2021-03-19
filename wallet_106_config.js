@@ -1,1 +1,1 @@
-var mnemonic = "emerge grace urge betray army castle game valley lunch six document receive";
+var mnemonic = "flash repair cabin father case unaware penalty stay corn celery expect stereo";

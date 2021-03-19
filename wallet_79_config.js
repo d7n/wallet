@@ -1,1 +1,1 @@
-var mnemonic = "chicken deal track sibling neck velvet escape fantasy amused dignity open eternal";
+var mnemonic = "music excite situate melody blanket love perfect tongue change swim gold forget";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey unique primary lumber tornado bar tennis tomato flock frost half skin";
+var mnemonic = "develop aspect flight wheat strong ill silent energy chat float lake fluid";

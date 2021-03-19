@@ -1,1 +1,1 @@
-var mnemonic = "benefit deposit mom minor trim illness foam online recall sudden teach follow";
+var mnemonic = "palace celery access rabbit dream local circle digital girl swallow toast wedding";

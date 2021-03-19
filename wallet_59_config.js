@@ -1,1 +1,1 @@
-var mnemonic = "top aware mirror best grief design april north nut swear tackle option";
+var mnemonic = "dizzy panel lesson lady wrestle wreck awesome husband sausage champion ready champion";

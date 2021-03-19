@@ -1,1 +1,1 @@
-var mnemonic = "buzz evil ethics jealous neglect brief install blossom blood lottery spin illness";
+var mnemonic = "ride bunker special reopen unable you cute dynamic lab pull salt crane";

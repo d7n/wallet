@@ -1,1 +1,1 @@
-var mnemonic = "cage omit better vital chimney limit squeeze uniform pumpkin guilt list duty";
+var mnemonic = "umbrella bamboo unable excite junk vital bright thing front attack among wing";

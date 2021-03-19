@@ -1,1 +1,1 @@
-var mnemonic = "wheel belt hollow truck nature blade judge worry around cage wreck phone";
+var mnemonic = "dinosaur resemble ready kid scrap lion young boring amazing danger trend scrap";

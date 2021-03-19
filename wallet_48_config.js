@@ -1,1 +1,1 @@
-var mnemonic = "indicate whale craft that melody evidence trophy gaze invite sudden travel pink";
+var mnemonic = "purchase use glove subway broom marine pair brand knock shed gun jeans";

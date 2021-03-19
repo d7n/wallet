@@ -1,1 +1,1 @@
-var mnemonic = "praise panther escape around desert fly fine sibling truly loop split wolf";
+var mnemonic = "kite enroll tired brick enable sing wedding attract seat sadness affair digital";

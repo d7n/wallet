@@ -1,1 +1,1 @@
-var mnemonic = "primary token trust awful ten since oblige balcony rule swallow ability kitchen";
+var mnemonic = "hole negative bridge elegant sphere visa provide popular path pencil warfare deny";

@@ -1,1 +1,1 @@
-var mnemonic = "visit where laundry image magnet trophy top cash bean subway prefer beyond";
+var mnemonic = "link ethics host magic also spike fringe combine raw candy slight shock";

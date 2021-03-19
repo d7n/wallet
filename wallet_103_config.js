@@ -1,1 +1,1 @@
-var mnemonic = "nation city quick inquiry carbon sentence sauce pool voyage grow mail average";
+var mnemonic = "tail box truly ten item next exact there merge bamboo grant gate";

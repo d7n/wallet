@@ -1,1 +1,1 @@
-var mnemonic = "join forward diet allow federal pool define dynamic stool lion view cause";
+var mnemonic = "horse almost identify pear coin jazz upgrade tattoo uphold waste client north";

@@ -1,1 +1,1 @@
-var mnemonic = "father empty tiny discover install brave hurdle erosion letter slight shell easily";
+var mnemonic = "prevent educate excuse goose pole scrub join engage hazard record there scan";

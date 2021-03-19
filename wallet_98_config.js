@@ -1,1 +1,1 @@
-var mnemonic = "actual cancel swift walnut visa normal outer boss remind weird wage doll";
+var mnemonic = "focus erase drum current scene strike round husband cannon regular addict spatial";

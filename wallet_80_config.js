@@ -1,1 +1,1 @@
-var mnemonic = "grit spread dragon catch seat wage error era review clean language appear";
+var mnemonic = "harvest night grunt jazz benefit fit provide resemble illegal frequent mango craft";

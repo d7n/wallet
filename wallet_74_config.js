@@ -1,1 +1,1 @@
-var mnemonic = "hospital inmate punch repair transfer canoe silly icon image tribe few silly";
+var mnemonic = "nerve inform upset project axis hungry grit wash labor explain lake pill";

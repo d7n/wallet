@@ -1,1 +1,1 @@
-var mnemonic = "demand stick cousin segment violin skate relief paddle hint appear desk okay";
+var mnemonic = "kitten there save rude upgrade bronze crouch pretty luxury royal boy right";

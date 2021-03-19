@@ -1,1 +1,1 @@
-var mnemonic = "asset pole lion radar peace cable almost demand scrub random pill street";
+var mnemonic = "hand gauge amused only cheap hurry annual job fury wave disease segment";

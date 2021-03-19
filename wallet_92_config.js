@@ -1,1 +1,1 @@
-var mnemonic = "rigid absorb bird sphere soul grid shed differ rate swap bundle transfer";
+var mnemonic = "cloud brand cloud where minimum tomato talk dance aim token effort eagle";

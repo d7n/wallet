@@ -1,1 +1,1 @@
-var mnemonic = "vapor fog tortoise often exile heart exclude chaos actor ramp donkey test";
+var mnemonic = "speak casino cement aunt mouse drop proud genuine inherit clerk luggage humble";

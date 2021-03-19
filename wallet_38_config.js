@@ -1,1 +1,1 @@
-var mnemonic = "around seek paper essence misery bread session embody run celery impulse credit";
+var mnemonic = "illness cover forest ostrich donkey clerk make crash buffalo unveil random foam";

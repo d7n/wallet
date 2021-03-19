@@ -1,1 +1,1 @@
-var mnemonic = "coil economy junior receive keen hundred thing proof easily jewel lounge check";
+var mnemonic = "energy zero direct stock later combine enlist detail tragic boost citizen power";

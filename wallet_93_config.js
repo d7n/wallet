@@ -1,1 +1,1 @@
-var mnemonic = "cancel invite alone spray wash boost assume awkward glide attract vacant blue";
+var mnemonic = "surround kiss timber razor day lake crowd opinion strategy answer brown pig";

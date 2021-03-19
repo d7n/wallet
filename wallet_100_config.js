@@ -1,1 +1,1 @@
-var mnemonic = "settle pizza husband media tone degree exchange night worry roast alley note";
+var mnemonic = "task canal stand evidence clay fury wait want sadness fish prison sphere";

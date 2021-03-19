@@ -1,1 +1,1 @@
-var mnemonic = "clean smooth beauty symptom artefact feel meat motion harsh select cruise height";
+var mnemonic = "orbit benefit lady cake royal advice scheme tattoo tone nature cycle coast";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid funny device lottery someone barely flight vendor crucial total kid yellow";
+var mnemonic = "pioneer toss catch deal grain mystery canoe toe cream notice sing will";

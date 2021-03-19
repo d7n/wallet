@@ -1,1 +1,1 @@
-var mnemonic = "oil obvious apple logic annual exclude beach describe renew bachelor wheel cherry";
+var mnemonic = "solve chicken stem runway off dance scorpion silent tower essence thank typical";

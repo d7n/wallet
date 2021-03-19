@@ -1,1 +1,1 @@
-var mnemonic = "race opinion recycle cost box unique will smoke table erosion option team";
+var mnemonic = "utility mechanic matter portion dwarf option hockey furnace tortoise into business jewel";

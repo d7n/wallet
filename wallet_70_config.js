@@ -1,1 +1,1 @@
-var mnemonic = "wedding above process put wool clip carry update gown that output meat";
+var mnemonic = "rebuild skin race switch exile broccoli equal enter prevent merry trumpet office";

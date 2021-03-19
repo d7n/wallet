@@ -1,1 +1,1 @@
-var mnemonic = "museum boat able field leader domain jelly tag express story carbon mechanic";
+var mnemonic = "garden weather alien earth auction shove shield culture seat office crowd coconut";

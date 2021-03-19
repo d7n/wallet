@@ -1,1 +1,1 @@
-var mnemonic = "image filter local lounge police pig news outer super atom pig awful";
+var mnemonic = "stereo winner file movie giggle what pole window planet song rent smoke";

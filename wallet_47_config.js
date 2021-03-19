@@ -1,1 +1,1 @@
-var mnemonic = "access guard board furnace eyebrow candy exhibit squeeze february quick clerk patrol";
+var mnemonic = "festival timber stay bacon love valid dove honey crack royal ritual what";

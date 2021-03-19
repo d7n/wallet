@@ -1,1 +1,1 @@
-var mnemonic = "tragic mom recall width broom island divorce draw interest tag horn slim";
+var mnemonic = "just castle demand erosion thank surprise ocean wealth link estate vintage target";

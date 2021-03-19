@@ -1,1 +1,1 @@
-var mnemonic = "energy twenty priority slide course smile address step rough crazy famous dirt";
+var mnemonic = "top alter candy repair ceiling renew gesture mimic movie inside faith theory";

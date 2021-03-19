@@ -1,1 +1,1 @@
-var mnemonic = "hazard require give snap cream ankle edge able caught public lend behave";
+var mnemonic = "license palm veteran exotic trial market simple cancel output drip wealth settle";

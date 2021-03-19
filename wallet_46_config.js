@@ -1,1 +1,1 @@
-var mnemonic = "soon fence review royal kite else axis loan poverty grass upon scrub";
+var mnemonic = "ivory donate reward because achieve target rotate drip brain blame domain forget";

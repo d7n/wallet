@@ -1,1 +1,1 @@
-var mnemonic = "emotion fit around mad federal table possible stage thrive cause again deposit";
+var mnemonic = "industry filter once flock nut thank actor insect smooth surge try infant";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow beyond stock light grow husband ticket keep fresh gospel simple remember";
+var mnemonic = "erosion adapt throw spider review affair shaft trial betray eternal clip act";

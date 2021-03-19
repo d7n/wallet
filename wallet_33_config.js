@@ -1,1 +1,1 @@
-var mnemonic = "comfort twenty useful hospital suspect normal town vicious immense cloth eyebrow bean";
+var mnemonic = "camera yellow million cheap rubber turkey bronze crunch muscle wrist artist census";

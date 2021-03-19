@@ -1,1 +1,1 @@
-var mnemonic = "loop february olympic dune salute convince drip swim uphold raven nuclear force";
+var mnemonic = "silly armed choice beef ship ribbon want music payment picture oblige garment";

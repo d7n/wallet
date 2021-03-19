@@ -1,1 +1,1 @@
-var mnemonic = "gown boring supreme adjust silent pioneer payment cycle legal increase confirm whisper";
+var mnemonic = "sad goat pipe curious reject orbit exercise bag iron episode depart cherry";

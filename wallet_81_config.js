@@ -1,1 +1,1 @@
-var mnemonic = "wire teach knife siege right cover film trigger patrol blame relief category";
+var mnemonic = "cross oval sentence emotion skirt amused allow rely release solve ankle fire";

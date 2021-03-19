@@ -1,1 +1,1 @@
-var mnemonic = "corn laugh allow album cotton crane tail library era uniform expire vital";
+var mnemonic = "vague talent hammer obtain cheap town toilet sample theory defy bench put";

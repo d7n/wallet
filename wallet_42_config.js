@@ -1,1 +1,1 @@
-var mnemonic = "just gravity income atom resource rather tray urge make hazard school indicate";
+var mnemonic = "smart industry fog monkey sea cattle allow health clog crack fog kind";
