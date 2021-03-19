@@ -1,1 +1,1 @@
-var mnemonic = "arm swift spot stereo hope ramp fold frequent faculty pool wrestle frog";
+var mnemonic = "occur coil option outer noodle onion enlist invest before agree assist wall";

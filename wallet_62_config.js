@@ -1,1 +1,1 @@
-var mnemonic = "reward accident rotate oyster round assist occur such relax frame often tone";
+var mnemonic = "bomb scissors supply taste promote put involve explain wheat theory purse cigar";

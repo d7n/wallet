@@ -1,1 +1,1 @@
-var mnemonic = "prevent reveal property aunt circle never drill behave also stool apart stove";
+var mnemonic = "flash sick fantasy aerobic van clean peanut enable cement soda congress mother";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale remind ensure joke inject dumb emotion response toy reason mountain alert";
+var mnemonic = "grief zoo three midnight arctic broken tree explain awful banner various glance";

@@ -1,1 +1,1 @@
-var mnemonic = "whip venue guess joy ocean explain address trim scheme close badge frozen";
+var mnemonic = "rifle horror energy more crew chalk arena voyage above vacant never reflect";

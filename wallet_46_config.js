@@ -1,1 +1,1 @@
-var mnemonic = "once quote margin elevator fame wear video glove century south ship adjust";
+var mnemonic = "cake seven furnace often task knock lock appear way soul pool ask";

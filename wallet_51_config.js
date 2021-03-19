@@ -1,1 +1,1 @@
-var mnemonic = "robot metal keen advance okay glow few royal trust cause affair able";
+var mnemonic = "lunch blade plunge better rare about fragile wheat peanut connect genuine lawsuit";

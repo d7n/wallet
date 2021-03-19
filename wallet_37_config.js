@@ -1,1 +1,1 @@
-var mnemonic = "embody world glance ladder chunk then setup device nation hire elbow promote";
+var mnemonic = "jar marriage course culture scan evolve bacon brass deer install feature thumb";

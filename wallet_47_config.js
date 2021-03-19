@@ -1,1 +1,1 @@
-var mnemonic = "jungle moral sure vague syrup parrot fury company creek leader crack poem";
+var mnemonic = "uncle bracket recall coyote tell oak hire tortoise course clown rude grant";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance account damage dial scrub hungry loop snap disagree wealth add label";
+var mnemonic = "citizen isolate young hollow company arena ride trim can orbit festival initial";

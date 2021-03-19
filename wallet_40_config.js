@@ -1,1 +1,1 @@
-var mnemonic = "uncover spawn border sauce cheap surprise survey fun moral slide kidney happy";
+var mnemonic = "brother stand cover pull hover furnace ginger hair report tattoo refuse spend";

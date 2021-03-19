@@ -1,1 +1,1 @@
-var mnemonic = "type ask click collect display deliver young silly deal donate spread alone";
+var mnemonic = "pony round tunnel come absorb grid half hire room pair penalty name";

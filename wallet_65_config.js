@@ -1,1 +1,1 @@
-var mnemonic = "tree father lemon social trick useless citizen hamster crawl swift sword spring";
+var mnemonic = "useful half gown capital thumb slogan genius bridge swallow crane shrimp dragon";

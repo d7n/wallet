@@ -1,1 +1,1 @@
-var mnemonic = "burden wagon broom hammer enrich bounce athlete tackle middle wreck blue region";
+var mnemonic = "ancient like monitor just blast all sudden then fever panda neutral atom";

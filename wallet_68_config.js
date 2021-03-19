@@ -1,1 +1,1 @@
-var mnemonic = "erase eager buddy repeat range opinion arrest shy habit panther trend hungry";
+var mnemonic = "split blush clap friend liar tilt crawl announce medal swallow also found";

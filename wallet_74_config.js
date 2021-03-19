@@ -1,1 +1,1 @@
-var mnemonic = "hero autumn silk transfer emotion system replace corn armed jelly pottery chair";
+var mnemonic = "coast divorce close owner hole unique raise early amused great dinner plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract token insane figure wall stick immune few erase prison brief lady";
+var mnemonic = "subject sad blame fox plunge negative morning six garage battle drastic digital";

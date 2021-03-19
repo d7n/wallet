@@ -1,1 +1,1 @@
-var mnemonic = "century bonus discover polar skate blood feature puppy display imitate beef plug";
+var mnemonic = "assume chapter purpose sponsor stock age myth thank toddler side dismiss broccoli";

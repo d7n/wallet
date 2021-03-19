@@ -1,1 +1,1 @@
-var mnemonic = "liberty voice churn margin produce habit report figure leisure canyon decrease tail";
+var mnemonic = "machine insane way ramp toilet sure west badge tilt fuel pride foam";

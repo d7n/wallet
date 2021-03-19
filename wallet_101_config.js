@@ -1,1 +1,1 @@
-var mnemonic = "orchard stock effort want popular apology stay tornado chest peasant zebra waste";
+var mnemonic = "jelly evidence average special claw inform wide remember increase bracket high double";

@@ -1,1 +1,1 @@
-var mnemonic = "toast monitor cactus salad breeze valve bronze boost cart motor behave draft";
+var mnemonic = "stamp pattern motor rather wage tunnel hero climb mushroom fun horror thrive";

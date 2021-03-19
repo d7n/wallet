@@ -1,1 +1,1 @@
-var mnemonic = "lottery tool fuel advice arrive hammer empower total gather cluster picture blush";
+var mnemonic = "festival frame hill list cake welcome large share impulse flat photo super";

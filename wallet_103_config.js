@@ -1,1 +1,1 @@
-var mnemonic = "student add aspect gallery goddess general blame usage obvious avoid table glance";
+var mnemonic = "ceiling theme injury team guard lazy gallery decrease attitude clerk budget legend";

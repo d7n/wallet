@@ -1,1 +1,1 @@
-var mnemonic = "secret ancient cushion dog trip fish lazy describe wolf penalty lift maid";
+var mnemonic = "army pupil law soft antenna kitten afraid casual pizza frozen time stick";

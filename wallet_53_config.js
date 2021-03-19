@@ -1,1 +1,1 @@
-var mnemonic = "domain liar silk fossil swallow filter artist bless river edge bachelor snow";
+var mnemonic = "prison weasel fashion soft busy trash struggle lens habit salute hour coconut";

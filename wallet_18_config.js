@@ -1,1 +1,1 @@
-var mnemonic = "famous insect devote coyote submit master until similar spoon marble employ fury";
+var mnemonic = "trip own split pitch coach life cradle vital motor dream increase pioneer";

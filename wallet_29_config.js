@@ -1,1 +1,1 @@
-var mnemonic = "duty elephant room trust forest fatal fox squirrel setup assault purpose frown";
+var mnemonic = "raccoon dad cushion come carpet ridge boss wonder maze cradle settle wage";

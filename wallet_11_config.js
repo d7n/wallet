@@ -1,1 +1,1 @@
-var mnemonic = "shoe note gift emotion mercy chat arrest burger smooth chef kangaroo achieve";
+var mnemonic = "derive cloud sudden disorder bacon satisfy fragile wealth suffer clinic arrow animal";

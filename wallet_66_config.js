@@ -1,1 +1,1 @@
-var mnemonic = "object bronze front album shiver rapid mad cart design ball step table";
+var mnemonic = "catch resist ghost music frozen fitness again conduct exercise bachelor regular neutral";

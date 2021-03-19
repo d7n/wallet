@@ -1,1 +1,1 @@
-var mnemonic = "exotic build hurt wasp mimic cream host coral tank fog myself nature";
+var mnemonic = "mirror pulp pistol lazy bid run ridge unfair grain road salt chuckle";

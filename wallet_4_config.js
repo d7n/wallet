@@ -1,1 +1,1 @@
-var mnemonic = "spray gasp detail grape index drop sorry seven globe inmate tribe find";
+var mnemonic = "ticket desk rug squeeze elevator require loop clerk act border spoil solution";

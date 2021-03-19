@@ -1,1 +1,1 @@
-var mnemonic = "rice scorpion inflict oppose taxi subject uphold grocery candy cattle choose giant";
+var mnemonic = "mean dash that dash ranch tackle series become cute heavy tonight ribbon";

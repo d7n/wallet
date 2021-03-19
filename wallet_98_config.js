@@ -1,1 +1,1 @@
-var mnemonic = "arrive mom doll very ill twist chuckle foot spray chief service party";
+var mnemonic = "pipe armor sick village puzzle clarify oven wrong tattoo secret dad nature";

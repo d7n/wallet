@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog cotton core gallery ketchup say trend nerve salad short weapon chat";
+var mnemonic = "doll thrive good chunk orphan foster reason minimum frame become acquire possible";

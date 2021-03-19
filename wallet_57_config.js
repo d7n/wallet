@@ -1,1 +1,1 @@
-var mnemonic = "glide hollow chef zero sketch evolve spread predict twin achieve belt spray";
+var mnemonic = "quality boy awful home kiss unhappy olive sniff pulse fame slot sound";

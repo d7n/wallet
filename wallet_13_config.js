@@ -1,1 +1,1 @@
-var mnemonic = "ramp bulk clutch wage please flush dinner joy virtual holiday click female";
+var mnemonic = "valley friend north swift paddle front leopard flush fog position cable grunt";

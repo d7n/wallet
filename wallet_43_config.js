@@ -1,1 +1,1 @@
-var mnemonic = "fault march radar gain bamboo ability leader problem pipe civil lens sweet";
+var mnemonic = "ability funny region voice caution jar since cigar rookie tumble proud rotate";

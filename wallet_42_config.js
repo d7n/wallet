@@ -1,1 +1,1 @@
-var mnemonic = "yard naive axis piece sail bird super asset smile atom apology vague";
+var mnemonic = "behave endless enhance face blind tooth size twelve design riot predict donor";

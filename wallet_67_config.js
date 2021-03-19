@@ -1,1 +1,1 @@
-var mnemonic = "proof hip latin film piece stick student will attitude spray cream sight";
+var mnemonic = "cross impulse fuel join lucky soft razor when throw oyster frozen flip";

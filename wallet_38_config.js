@@ -1,1 +1,1 @@
-var mnemonic = "bean bubble size holiday cram front bind brain repair rice conduct volume";
+var mnemonic = "cricket acquire blast mansion brush document immune swamp fame hybrid degree measure";

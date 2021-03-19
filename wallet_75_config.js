@@ -1,1 +1,1 @@
-var mnemonic = "regret limb confirm memory pond trouble lizard question sausage super trick title";
+var mnemonic = "immense panic merge tattoo elbow endorse alert ordinary grain chimney method couple";

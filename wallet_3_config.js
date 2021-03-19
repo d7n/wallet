@@ -1,1 +1,1 @@
-var mnemonic = "oxygen rubber museum theory relief steel winter flower lizard rent strike second";
+var mnemonic = "injury deny top comic cost split hamster width north push virtual hundred";

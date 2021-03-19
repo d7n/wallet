@@ -1,1 +1,1 @@
-var mnemonic = "twin advance inhale helmet deposit weasel title smoke half tornado metal aerobic";
+var mnemonic = "hood kid auction base circle sample satoshi net fuel ready million light";

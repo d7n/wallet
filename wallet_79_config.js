@@ -1,1 +1,1 @@
-var mnemonic = "fiscal pave kid auto ramp shell hour olympic future net embark ability";
+var mnemonic = "wage brand evidence middle midnight link wisdom they village noodle coil dash";

@@ -1,1 +1,1 @@
-var mnemonic = "material square fever grant mom become innocent night calm urban fix buddy";
+var mnemonic = "moment visit squirrel split hundred swift grass ball soft quote liquid number";

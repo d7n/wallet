@@ -1,1 +1,1 @@
-var mnemonic = "attract fame capable park street veteran warrior exit flash absent blood choose";
+var mnemonic = "arrow stable only worth upset zoo wagon dad load stomach degree sea";

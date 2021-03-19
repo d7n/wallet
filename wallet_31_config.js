@@ -1,1 +1,1 @@
-var mnemonic = "fuel foster govern library actor win despair occur crowd excess muffin thought";
+var mnemonic = "wood time second glass faint filter comic empower rare spice aerobic traffic";

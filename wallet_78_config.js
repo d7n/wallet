@@ -1,1 +1,1 @@
-var mnemonic = "clap client sniff laugh sadness argue diamond horror aim wedding eternal common";
+var mnemonic = "wet find poet river luxury cat aerobic flock circle example tunnel foster";

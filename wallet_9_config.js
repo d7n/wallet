@@ -1,1 +1,1 @@
-var mnemonic = "blade inside reason hunt secret menu symbol confirm embody novel aisle caution";
+var mnemonic = "glare horse exist visual naive title zebra label pool female alcohol clutch";

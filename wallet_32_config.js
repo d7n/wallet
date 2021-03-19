@@ -1,1 +1,1 @@
-var mnemonic = "human below casual sunny jelly disease critic fit soul uncle vocal talk";
+var mnemonic = "throw notable bachelor amateur artwork camera already basic person observe thank kid";

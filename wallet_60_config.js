@@ -1,1 +1,1 @@
-var mnemonic = "test husband bring soap grow purchase stem dial until power pull clean";
+var mnemonic = "reunion script clock journey lady reveal airport hotel manage silent key hard";

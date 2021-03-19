@@ -1,1 +1,1 @@
-var mnemonic = "engine lounge size amount burden cloth snow inform bean elbow glue correct";
+var mnemonic = "window town chicken list nuclear position jaguar river armed spot post provide";

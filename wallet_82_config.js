@@ -1,1 +1,1 @@
-var mnemonic = "noodle horror hobby inmate father coyote toilet traffic extend turtle cotton weekend";
+var mnemonic = "design seek broccoli input anger rely truck slot jungle reopen safe upgrade";

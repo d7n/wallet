@@ -1,1 +1,1 @@
-var mnemonic = "decide course shrimp abuse car price account three silly heavy machine swing";
+var mnemonic = "soccer pigeon hard talent stock rely actress mango web lobster fame input";

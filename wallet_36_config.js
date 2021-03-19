@@ -1,1 +1,1 @@
-var mnemonic = "huge hurt welcome call follow episode witness useless razor ankle eyebrow cage";
+var mnemonic = "under chat wave practice silk field member brother initial vessel march fragile";

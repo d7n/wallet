@@ -1,1 +1,1 @@
-var mnemonic = "rotate ticket decline eager crop rather trial require group comfort neck trophy";
+var mnemonic = "judge inmate grace inhale vendor vocal chapter sustain cross tide coast unknown";

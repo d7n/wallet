@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit arm please carpet brush original risk wife actor razor glass guess";
+var mnemonic = "target start blush jump pepper come alley exile stable quote daughter border";

@@ -1,1 +1,1 @@
-var mnemonic = "earth power identify turkey enrich envelope wash critic sadness biology swamp brand";
+var mnemonic = "because private iron trash shuffle voyage usual crash tent horn surround arrange";

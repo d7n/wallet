@@ -1,1 +1,1 @@
-var mnemonic = "barrel spread unique what can abuse law since mimic slab snap crane";
+var mnemonic = "poet similar upgrade emerge innocent inflict fog leopard aerobic history home whale";

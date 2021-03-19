@@ -1,1 +1,1 @@
-var mnemonic = "toast wonder uphold parrot close expose always pass clean pupil stomach angle";
+var mnemonic = "cradle program major music sorry much sad ranch click breeze tape lamp";

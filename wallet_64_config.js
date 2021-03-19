@@ -1,1 +1,1 @@
-var mnemonic = "trick sword dial attract ethics vessel middle engage tide dizzy chimney knock";
+var mnemonic = "sheriff remind drive kiss smile toy pumpkin hold glove resource fiscal van";

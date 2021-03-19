@@ -1,1 +1,1 @@
-var mnemonic = "supreme cabin trophy deal spirit fuel random diary dentist barely car youth";
+var mnemonic = "record skill mountain custom biology aspect robot swim dune body jelly caught";

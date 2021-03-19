@@ -1,1 +1,1 @@
-var mnemonic = "ski wall slush remind rigid recycle visit flower shaft gun arrange fuel";
+var mnemonic = "romance enjoy photo vendor trophy apart under margin join cactus quiz trend";

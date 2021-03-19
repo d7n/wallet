@@ -1,1 +1,1 @@
-var mnemonic = "inside wealth image citizen wish empty suggest guide obscure shaft pulse heart";
+var mnemonic = "onion pair math lens tortoise order same weekend best merge stock country";

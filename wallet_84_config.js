@@ -1,1 +1,1 @@
-var mnemonic = "dry elite purchase point vendor lift plate cave oppose group fiscal bus";
+var mnemonic = "success candy roof derive vapor welcome park borrow avocado health fade raccoon";

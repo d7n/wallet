@@ -1,1 +1,1 @@
-var mnemonic = "orient define private little hood debate february junior mean essay suffer fit";
+var mnemonic = "shoot regret pool rigid vague consider cabbage crack sand behind client process";

@@ -1,1 +1,1 @@
-var mnemonic = "apart glance gesture early country denial guilt team derive upper fox habit";
+var mnemonic = "jar above mosquito anger hub answer cactus fruit prepare quality benefit drill";

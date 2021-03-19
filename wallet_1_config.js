@@ -1,1 +1,1 @@
-var mnemonic = "comic spoon high dinner finger sheriff disorder width suit jazz reject vacant";
+var mnemonic = "zero goat swear hero road loyal slice enhance trumpet churn truck cycle";

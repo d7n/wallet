@@ -1,1 +1,1 @@
-var mnemonic = "tomato genre purity exhibit embark dwarf rather panel text tomato cherry great";
+var mnemonic = "material exhaust mask road boat broom wall boost animal furnace plunge panther";

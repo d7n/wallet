@@ -1,1 +1,1 @@
-var mnemonic = "thunder gold blame wolf busy point chaos smile rebel roast slogan tip";
+var mnemonic = "bring urge elegant oblige vehicle humble quick rural green second scheme input";

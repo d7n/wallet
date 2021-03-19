@@ -1,1 +1,1 @@
-var mnemonic = "picnic dirt step come eager bonus wage brave area cool clog essence";
+var mnemonic = "define spirit keen hurt invite kangaroo divert tag lunch multiply mixture scheme";

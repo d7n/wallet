@@ -1,1 +1,1 @@
-var mnemonic = "dizzy they ship early worry oval version naive congress void suggest kit";
+var mnemonic = "hobby you gold marriage tag else decrease bachelor midnight film soap useful";

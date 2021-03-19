@@ -1,1 +1,1 @@
-var mnemonic = "thrive another job news flat later between letter false cherry snake girl";
+var mnemonic = "liar update pretty usage wire leopard term weird nation exercise habit reopen";

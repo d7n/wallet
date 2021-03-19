@@ -1,1 +1,1 @@
-var mnemonic = "soda biology dinosaur chaos bright sustain breeze kidney wine forum primary dash";
+var mnemonic = "arrow fold list ignore sting clinic move dragon blossom bread muscle drip";

@@ -1,1 +1,1 @@
-var mnemonic = "wish dizzy hazard knock surround educate utility flash april logic top priority";
+var mnemonic = "bean prevent invite globe neither marriage afford tongue brief labor meat island";

@@ -1,1 +1,1 @@
-var mnemonic = "casual reduce frog account mouse parrot season million female relief crawl end";
+var mnemonic = "pig float upper once two roof rain base uncover eternal adjust muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "burden glory market vague monitor craft disorder interest nominee helmet silent wrap";
+var mnemonic = "demand faint fatigue expire follow flat inform unusual wagon nothing spirit bench";

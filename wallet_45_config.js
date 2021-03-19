@@ -1,1 +1,1 @@
-var mnemonic = "reveal suit robot dance seminar slim gaze normal razor initial tag since";
+var mnemonic = "grow gown puppy seat harvest square dash evil rare brush onion broken";

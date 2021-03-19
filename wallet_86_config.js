@@ -1,1 +1,1 @@
-var mnemonic = "brick spring mandate health diet afford extend lab trip blouse narrow fossil";
+var mnemonic = "deer illegal innocent wage head volcano jump manage budget abandon clump wife";

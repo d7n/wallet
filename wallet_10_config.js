@@ -1,1 +1,1 @@
-var mnemonic = "decide mail hand topic draft cargo frog busy switch angle develop write";
+var mnemonic = "immense clay film bubble luxury trust rent cement silly iron lab flock";

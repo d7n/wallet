@@ -1,1 +1,1 @@
-var mnemonic = "whisper ginger sample client dash bleak satoshi scare motor soft weird acquire";
+var mnemonic = "pair decade gas fit illness say fragile parent shrug nature squeeze word";

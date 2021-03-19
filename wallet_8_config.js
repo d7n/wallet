@@ -1,1 +1,1 @@
-var mnemonic = "blossom sleep speak acquire behave minor misery much genre corn room bike";
+var mnemonic = "achieve lawn spatial street erupt lesson diary uncle know sweet alcohol inch";

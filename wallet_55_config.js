@@ -1,1 +1,1 @@
-var mnemonic = "forum moment merry since hidden february peace squirrel false wrong apart give";
+var mnemonic = "term web print ugly void glad bean latin resemble source whale fire";

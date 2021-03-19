@@ -1,1 +1,1 @@
-var mnemonic = "emotion scare deliver jacket ride atom example bonus mansion clarify giant ignore";
+var mnemonic = "fever excess quarter buffalo crowd hair broccoli settle dial churn stool vast";

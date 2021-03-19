@@ -1,1 +1,1 @@
-var mnemonic = "puzzle grow hybrid choose lawn viable payment often holiday ostrich antique endorse";
+var mnemonic = "baby conduct belt move suffer render lion online inflict call grunt will";

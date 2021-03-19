@@ -1,1 +1,1 @@
-var mnemonic = "boil police finish shuffle bundle grocery until drum mom pledge drive trial";
+var mnemonic = "burst head door future rocket message uniform team bike parrot cost purpose";

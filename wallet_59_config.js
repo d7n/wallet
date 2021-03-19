@@ -1,1 +1,1 @@
-var mnemonic = "prize leisure powder input danger lumber chase final reunion gravity kidney elevator";
+var mnemonic = "bid pond scrub grape comfort magnet kind clay panda figure surge alley";

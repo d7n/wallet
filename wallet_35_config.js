@@ -1,1 +1,1 @@
-var mnemonic = "tree quarter clay bus sure produce pencil else mutual crouch scatter three";
+var mnemonic = "tunnel survey one desert review odor brush engage chalk rough chaos session";

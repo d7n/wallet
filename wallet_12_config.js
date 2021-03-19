@@ -1,1 +1,1 @@
-var mnemonic = "diagram proof loop baby friend slice song drive either identify since spray";
+var mnemonic = "oak vote lumber long either chunk food year mountain hammer city donate";

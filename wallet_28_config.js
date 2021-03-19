@@ -1,1 +1,1 @@
-var mnemonic = "hawk finger crystal myself next alert minute diagram into outside unveil sure";
+var mnemonic = "that frame approve bar entire good student extra connect cup cousin nuclear";

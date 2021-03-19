@@ -1,1 +1,1 @@
-var mnemonic = "flavor elevator boss angry output injury real seat admit cram goat bag";
+var mnemonic = "creek shallow daughter estate depth observe gesture enemy legal time food motion";
