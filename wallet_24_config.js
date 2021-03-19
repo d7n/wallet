@@ -1,1 +1,1 @@
-var mnemonic = "section attack brown staff dream cluster frown brush outside gap explain panda";
+var mnemonic = "orphan panic cry swarm enemy chief method traffic crawl future wise rebuild";

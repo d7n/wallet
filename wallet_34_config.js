@@ -1,1 +1,1 @@
-var mnemonic = "garbage solar asthma gravity assist fan direct hungry duty sunset matter good";
+var mnemonic = "affair gather such smile smoke avocado garment ski search birth autumn reflect";

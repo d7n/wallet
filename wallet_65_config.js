@@ -1,1 +1,1 @@
-var mnemonic = "woman puzzle nothing believe topic hotel polar measure shine mix height clip";
+var mnemonic = "copy twenty keen sight winter wealth develop firm damage joke easily social";

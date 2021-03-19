@@ -1,1 +1,1 @@
-var mnemonic = "leg account outer peasant bridge answer pig model enemy fashion canal trim";
+var mnemonic = "mystery club yellow acquire cash pill scene episode marriage make record transfer";

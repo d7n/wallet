@@ -1,1 +1,1 @@
-var mnemonic = "cook fever bomb crisp way valley monster jelly adult typical skin say";
+var mnemonic = "never human ranch patient chunk isolate skin amused dune disagree select file";

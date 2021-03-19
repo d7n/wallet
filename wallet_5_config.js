@@ -1,1 +1,1 @@
-var mnemonic = "insect blind plastic general talent range noise team coast hip mother account";
+var mnemonic = "horse someone magnet minimum shrug swallow amateur shadow metal brass recycle gallery";

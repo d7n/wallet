@@ -1,1 +1,1 @@
-var mnemonic = "cloud stage asthma phrase lobster fire damage drink sock faith occur into";
+var mnemonic = "manual noble nasty idle artwork nurse fun afraid village breeze bracket type";

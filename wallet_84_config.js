@@ -1,1 +1,1 @@
-var mnemonic = "prize polar child tomorrow innocent caution know left paper bunker reflect armor";
+var mnemonic = "diet harbor viable country lawsuit addict hotel oxygen slow post current bleak";

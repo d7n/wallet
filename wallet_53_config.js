@@ -1,1 +1,1 @@
-var mnemonic = "cradle pluck sing fuel else demise index either erosion dose arrange slush";
+var mnemonic = "lady chalk convince brisk major diesel hole powder inject wife ask double";

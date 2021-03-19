@@ -1,1 +1,1 @@
-var mnemonic = "rookie major often mad rally country gravity amazing essay buffalo toddler liar";
+var mnemonic = "young play cactus chunk second barrel possible bulk orient feel fatigue history";

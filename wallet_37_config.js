@@ -1,1 +1,1 @@
-var mnemonic = "confirm spend door curtain vote frog pool bottom frame author like cube";
+var mnemonic = "pelican update seed away chest salon library pistol gadget bundle olive damage";

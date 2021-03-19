@@ -1,1 +1,1 @@
-var mnemonic = "permit inherit rice chicken lobster blade can agree broccoli gauge century speak";
+var mnemonic = "border capital disagree across avocado knife young borrow hamster three fold weird";

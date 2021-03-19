@@ -1,1 +1,1 @@
-var mnemonic = "country bike eyebrow protect van they hotel accident village grass mammal whip";
+var mnemonic = "dirt alone galaxy wall hip assist horn wisdom almost bid gallery business";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas physical alter cheap afraid boost embody shallow deal text cereal cannon";
+var mnemonic = "yellow tilt science holiday empty fever disagree pigeon double absurd there erase";

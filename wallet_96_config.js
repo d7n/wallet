@@ -1,1 +1,1 @@
-var mnemonic = "elevator pitch uphold knee clinic pattern fitness chapter paper civil swing feel";
+var mnemonic = "blast cake prize across aunt object eyebrow person sand icon obtain onion";

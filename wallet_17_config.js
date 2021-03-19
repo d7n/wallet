@@ -1,1 +1,1 @@
-var mnemonic = "rug exact sausage warfare gaze glimpse junior predict science public antenna stand";
+var mnemonic = "river tortoise one awake wink price target skill hundred wash feed kidney";

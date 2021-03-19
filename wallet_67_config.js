@@ -1,1 +1,1 @@
-var mnemonic = "debris walnut master material wife giant hard sentence balance narrow lawn segment";
+var mnemonic = "desert decade first sentence frost sand figure else above ritual draw romance";

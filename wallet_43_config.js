@@ -1,1 +1,1 @@
-var mnemonic = "fancy hurry attitude filter endless deal humor air turn siege supreme sustain";
+var mnemonic = "jelly dutch cost isolate happy auction betray ostrich heavy nose scheme amused";

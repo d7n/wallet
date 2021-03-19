@@ -1,1 +1,1 @@
-var mnemonic = "key trip juice fuel order normal mixture between jacket youth market crowd";
+var mnemonic = "twist sorry album inquiry honey alert wolf decade maze common coffee calm";

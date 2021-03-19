@@ -1,1 +1,1 @@
-var mnemonic = "need accuse demise plastic rescue buddy paddle skull typical alter witness wine";
+var mnemonic = "solid border minor baby offer type load require ramp come ribbon adult";

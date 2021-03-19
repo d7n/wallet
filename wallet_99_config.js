@@ -1,1 +1,1 @@
-var mnemonic = "trust mutual miss figure winter couple boss advance model double square cat";
+var mnemonic = "spider matrix useless stairs measure drift accuse word heart gloom lazy gas";

@@ -1,1 +1,1 @@
-var mnemonic = "torch card miracle bag tomato home draft bless tenant melody expand until";
+var mnemonic = "magic file year stand sting quiz joy submit helmet violin school address";

@@ -1,1 +1,1 @@
-var mnemonic = "foster action garage denial sell neck dream shuffle element entire snack dismiss";
+var mnemonic = "nephew security depend world busy orphan indicate faith reason vendor common finger";

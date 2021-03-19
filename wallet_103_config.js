@@ -1,1 +1,1 @@
-var mnemonic = "park bike arch food slow dismiss spider female oval type trash project";
+var mnemonic = "monitor monitor you visit hidden guitar birth layer inherit okay chapter riot";

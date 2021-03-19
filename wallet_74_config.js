@@ -1,1 +1,1 @@
-var mnemonic = "swap ostrich pool juice lava library steel rain energy hospital lawsuit lady";
+var mnemonic = "asthma play clean consider certain whale swamp act theme cost repeat end";

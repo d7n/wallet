@@ -1,1 +1,1 @@
-var mnemonic = "royal lady human zoo mad join system organ reflect thing shuffle roast";
+var mnemonic = "echo gauge layer amateur mind soup roof blame turkey drill farm conduct";

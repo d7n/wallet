@@ -1,1 +1,1 @@
-var mnemonic = "trigger grape worry evolve replace muffin either annual unhappy coach library aware";
+var mnemonic = "remain wrap fiction rifle element toss moon prevent patient wall shell age";

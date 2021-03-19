@@ -1,1 +1,1 @@
-var mnemonic = "second suit remain flight throw unlock fit main morning success glare hunt";
+var mnemonic = "horn damp bomb state work unveil drip razor pave regular february suit";

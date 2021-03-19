@@ -1,1 +1,1 @@
-var mnemonic = "useful traffic eternal purchase cargo novel dilemma future version edge giant unveil";
+var mnemonic = "pass palm wrong destroy hint panic gate able local fetch render butter";

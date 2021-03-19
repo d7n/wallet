@@ -1,1 +1,1 @@
-var mnemonic = "level neutral short oxygen manual argue dog taste twenty super tail dragon";
+var mnemonic = "crime benefit dragon fiscal crazy mushroom hundred client hollow sing segment middle";

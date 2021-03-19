@@ -1,1 +1,1 @@
-var mnemonic = "spoon mutual utility wolf forward excess addict south race twelve tourist unusual";
+var mnemonic = "charge gown eternal virtual pull evil helmet cruise transfer celery entry goddess";

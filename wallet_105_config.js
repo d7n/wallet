@@ -1,1 +1,1 @@
-var mnemonic = "portion remember sense lamp history expire venture chaos radio fashion script raise";
+var mnemonic = "reopen toilet antique melt ribbon coral peace nest sustain audit pride flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "shift peasant eager modify swim involve dwarf stem robust joke fitness mechanic";
+var mnemonic = "found other erase loud ketchup ripple globe truly physical fetch inhale choose";

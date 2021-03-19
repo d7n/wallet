@@ -1,1 +1,1 @@
-var mnemonic = "recall syrup april cannon state unaware broccoli enact obvious rice nominee talent";
+var mnemonic = "found tool safe curtain exist attitude essay biology bean more kitten page";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo raise axis burger across lyrics crater nurse excite enable knee problem";
+var mnemonic = "charge mass sight stomach sting jazz camera limit vanish flower unfair special";

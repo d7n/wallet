@@ -1,1 +1,1 @@
-var mnemonic = "seed remove clog rookie cushion unique inspire narrow flip kangaroo evolve tuition";
+var mnemonic = "exercise walnut auction soap echo grape dizzy another oxygen section faint fluid";

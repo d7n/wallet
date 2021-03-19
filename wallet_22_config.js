@@ -1,1 +1,1 @@
-var mnemonic = "girl address virus agree foil accident purse sphere antenna rose method tribe";
+var mnemonic = "need tomato uncover ramp winner pulse embark faith symbol response absorb tennis";

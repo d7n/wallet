@@ -1,1 +1,1 @@
-var mnemonic = "sing text joy under regular gown math invest pulp cause piano glue";
+var mnemonic = "chimney tenant sword legend gap canyon stuff wave sentence spatial scissors woman";

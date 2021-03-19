@@ -1,1 +1,1 @@
-var mnemonic = "all tongue trial tenant dragon merge absent focus paper hazard case verb";
+var mnemonic = "multiply peace attract sketch body raise park riot donkey bench number match";

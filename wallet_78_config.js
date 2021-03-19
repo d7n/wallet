@@ -1,1 +1,1 @@
-var mnemonic = "ceiling type light ladder weird depart dune market bless iron prosper track";
+var mnemonic = "zone wage cushion birth damage section wrong loud utility net right diesel";

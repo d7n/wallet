@@ -1,1 +1,1 @@
-var mnemonic = "chef twice top sleep junior spatial begin account over confirm behind labor";
+var mnemonic = "subway bronze gown lawn pear exchange mad duty rail token alert whisper";

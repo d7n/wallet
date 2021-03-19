@@ -1,1 +1,1 @@
-var mnemonic = "baby filter speed version maximum betray gold ritual hat host member drip";
+var mnemonic = "ketchup hen unable science hat envelope phone flavor truck below ill bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold tattoo siren arm chief leave subject expect cannon genuine exact elite";
+var mnemonic = "bounce pyramid hope machine blanket churn saddle hospital gold tide grass inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "mind edit rather domain deal want measure umbrella maximum vault save muffin";
+var mnemonic = "buyer coach stand brass deny saddle ivory gospel social depth pigeon time";

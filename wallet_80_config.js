@@ -1,1 +1,1 @@
-var mnemonic = "rally drama quick galaxy grace theme sample fit pumpkin dolphin define since";
+var mnemonic = "gesture satoshi stick father path mother accuse because top gaze curtain nurse";

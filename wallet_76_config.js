@@ -1,1 +1,1 @@
-var mnemonic = "pudding crash donate design trust direct submit stadium addict resource elevator top";
+var mnemonic = "attend onion focus bamboo intact kitten cloth travel witness thrive cotton tomato";

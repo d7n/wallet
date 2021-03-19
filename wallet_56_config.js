@@ -1,1 +1,1 @@
-var mnemonic = "future butter express slam consider galaxy beauty mention margin six true hair";
+var mnemonic = "toss ketchup flock naive loyal tree exchange special father print eye nerve";

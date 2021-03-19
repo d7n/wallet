@@ -1,1 +1,1 @@
-var mnemonic = "police field basket trick october among gentle park powder blind network cliff";
+var mnemonic = "scale often ghost pottery web rebuild bulk twenty team one audit erode";

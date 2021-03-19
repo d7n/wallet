@@ -1,1 +1,1 @@
-var mnemonic = "gaze ginger bamboo play popular athlete improve pool kite need valley snake";
+var mnemonic = "away cram body object employ hip gesture govern light raw six agent";

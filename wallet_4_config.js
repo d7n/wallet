@@ -1,1 +1,1 @@
-var mnemonic = "armed deal float interest replace metal decrease tag sight ship female exact";
+var mnemonic = "garbage horse clown buyer sell capable elite message shift submit obey genuine";

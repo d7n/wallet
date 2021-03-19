@@ -1,1 +1,1 @@
-var mnemonic = "rate mule select table tone speed drastic tube insane wash add trap";
+var mnemonic = "oyster diary hat tape woman wrap vehicle try switch reunion tiger aunt";

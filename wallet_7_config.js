@@ -1,1 +1,1 @@
-var mnemonic = "analyst annual funny have monkey dune series budget flee moral asset jewel";
+var mnemonic = "under fit curtain hurry derive today goose flee cabbage sugar surface solid";

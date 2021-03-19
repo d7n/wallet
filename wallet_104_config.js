@@ -1,1 +1,1 @@
-var mnemonic = "vibrant mixture clump noodle kind quiz social step eye result seek survey";
+var mnemonic = "canal egg oval practice vintage message brass sea dust flavor family radar";

@@ -1,1 +1,1 @@
-var mnemonic = "onion tattoo absurd flock travel fox fire next mechanic sunny stable west";
+var mnemonic = "asthma parent ozone avocado chase match motor wagon guard amateur sketch about";

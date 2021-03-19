@@ -1,1 +1,1 @@
-var mnemonic = "palm action furnace bird word unveil nominee crop mix reduce method anchor";
+var mnemonic = "impact text tribe street delay print alien fashion immune fine palm image";

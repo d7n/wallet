@@ -1,1 +1,1 @@
-var mnemonic = "envelope welcome employ oil extra disease ski tobacco tattoo chimney tuition pulse";
+var mnemonic = "play input brain end flag volcano giraffe eternal marine mushroom first hobby";

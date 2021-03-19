@@ -1,1 +1,1 @@
-var mnemonic = "throw tube wire lake still happy visual gasp inner transfer surround define";
+var mnemonic = "gossip void release cash across human spread menu action defy valve tell";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard clap reunion taxi mutual hotel student derive hidden flash smooth erosion";
+var mnemonic = "earn exhaust funny retire veteran bracket consider buzz advance tuition donkey sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "scene believe mimic expect trigger sister bleak force lobster modify cliff remind";
+var mnemonic = "kitchen young anchor buzz credit harsh blush trade sort carry busy drip";

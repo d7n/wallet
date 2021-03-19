@@ -1,1 +1,1 @@
-var mnemonic = "nasty open little health custom amazing toy obscure drama unhappy tunnel weapon";
+var mnemonic = "produce involve toss coast dose robot cage water sight dismiss kingdom color";

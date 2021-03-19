@@ -1,1 +1,1 @@
-var mnemonic = "check blush rifle sort concert voice burden flip fossil usual forward wood";
+var mnemonic = "shine element main unlock hood phrase already left talk draft stamp glove";

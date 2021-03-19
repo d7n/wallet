@@ -1,1 +1,1 @@
-var mnemonic = "video buyer rib pull decade obvious emerge property decorate just column employ";
+var mnemonic = "grocery chunk smile current kid shiver gun drill bleak adult boat they";

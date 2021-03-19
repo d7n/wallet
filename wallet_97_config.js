@@ -1,1 +1,1 @@
-var mnemonic = "repeat capable require twist heart decrease alert state organ section foil autumn";
+var mnemonic = "depth august impulse area sugar park jungle eye belt steak food permit";

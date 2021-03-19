@@ -1,1 +1,1 @@
-var mnemonic = "link charge bag absurd define someone slab tonight giraffe rhythm security main";
+var mnemonic = "again panel resemble antenna talent tide elephant arctic verify elephant mango must";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf drive success nose vote stadium circle taxi sunny eyebrow express fiber";
+var mnemonic = "easily reopen clock plate hundred method illness resist ancient plastic dish purity";

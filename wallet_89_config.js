@@ -1,1 +1,1 @@
-var mnemonic = "ticket alone upset vacuum coconut custom whale because fire conduct beauty glass";
+var mnemonic = "pact dizzy alcohol random orphan nut path mass melt moment onion comfort";

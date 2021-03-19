@@ -1,1 +1,1 @@
-var mnemonic = "gap shed square dynamic across switch soap donkey leaf duck student daring";
+var mnemonic = "behind lava jealous super agent lemon coast spy illegal eight fit style";

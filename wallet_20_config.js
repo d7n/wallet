@@ -1,1 +1,1 @@
-var mnemonic = "pet ability seed episode blouse shrug lady royal swear quality leaf knife";
+var mnemonic = "pair topic vast angry sister tuition snack cotton boat fan treat thunder";

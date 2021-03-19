@@ -1,1 +1,1 @@
-var mnemonic = "inner meat vivid north reason fresh seek custom page enough december impulse";
+var mnemonic = "country undo palm sketch version shallow method spot assist message feed slide";

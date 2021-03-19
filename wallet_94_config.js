@@ -1,1 +1,1 @@
-var mnemonic = "flame brick discover live kite dutch visit dose cigar afford describe can";
+var mnemonic = "tomorrow outer provide gospel common rebuild way athlete foster hand gown hire";

@@ -1,1 +1,1 @@
-var mnemonic = "punch absorb field hand evil skin clinic amount muscle unaware oak citizen";
+var mnemonic = "element novel network horn unlock glance guilt black supply team approve sign";

@@ -1,1 +1,1 @@
-var mnemonic = "window denial gas tail push lucky chaos aunt dizzy inner still travel";
+var mnemonic = "item glove glare water clever obscure news mind please jar scene offer";

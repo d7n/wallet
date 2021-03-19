@@ -1,1 +1,1 @@
-var mnemonic = "person income inhale rely fault large urge biology demand poem record title";
+var mnemonic = "genius clump access eager volcano inject cost small own firm tumble arrow";

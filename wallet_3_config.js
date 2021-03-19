@@ -1,1 +1,1 @@
-var mnemonic = "rival opera vast enjoy vehicle panther gossip usage fatal word attitude photo";
+var mnemonic = "iron denial vacant balcony destroy benefit suffer clinic security power ladder exist";

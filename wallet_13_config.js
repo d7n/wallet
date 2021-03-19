@@ -1,1 +1,1 @@
-var mnemonic = "host box consider win trigger air layer sentence embody alpha funny actor";
+var mnemonic = "size panther impulse perfect parrot donate olympic layer price swift income invite";

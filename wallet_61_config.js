@@ -1,1 +1,1 @@
-var mnemonic = "day flip town else seek nose simple mimic question certain slight sport";
+var mnemonic = "off weapon license foster famous once crane isolate resist student park hard";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant remind piece dentist comic hurt canoe echo giraffe catch rebel noise";
+var mnemonic = "tray accident link jealous impact south custom attitude floor soft case gauge";

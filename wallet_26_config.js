@@ -1,1 +1,1 @@
-var mnemonic = "pledge vast face lift useful excuse cherry happy narrow earth wheel walk";
+var mnemonic = "sauce join clay pony dice jaguar mention figure round bacon absorb sort";

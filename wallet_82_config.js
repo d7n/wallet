@@ -1,1 +1,1 @@
-var mnemonic = "bag cake shock camera video melt plate art bar harvest tail denial";
+var mnemonic = "idle soul embrace phone front bubble park invest doll salute empty carpet";

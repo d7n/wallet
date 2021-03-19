@@ -1,1 +1,1 @@
-var mnemonic = "nest zero program mixture pottery remember anxiety mass garment neutral industry accuse";
+var mnemonic = "topple dentist sunny energy minor hip mention warfare foot enforce divide joy";

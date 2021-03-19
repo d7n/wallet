@@ -1,1 +1,1 @@
-var mnemonic = "original move useful pipe movie rose fragile draft all remain bomb theory";
+var mnemonic = "table level sound skate vote argue flat noodle pencil follow load rose";

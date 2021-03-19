@@ -1,1 +1,1 @@
-var mnemonic = "clog near field bone dismiss mistake donor dumb current jealous once resource";
+var mnemonic = "age quit face lion scene scale grit catalog success dish cushion home";

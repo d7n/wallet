@@ -1,1 +1,1 @@
-var mnemonic = "bracket evoke sugar zebra magnet captain way cage ticket cube expose tonight";
+var mnemonic = "typical frog verify family cook swift square delay school cook cost naive";

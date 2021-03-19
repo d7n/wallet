@@ -1,1 +1,1 @@
-var mnemonic = "rack embrace primary powder better arrive buffalo clown skin zoo tooth physical";
+var mnemonic = "question produce trumpet maze pitch depend bleak mountain control north castle genre";

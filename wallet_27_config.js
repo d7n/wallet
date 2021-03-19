@@ -1,1 +1,1 @@
-var mnemonic = "tail task lady enjoy people aerobic best horn olive urban absorb core";
+var mnemonic = "picnic cloth rural describe turkey soft require payment category illegal dance indicate";

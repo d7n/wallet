@@ -1,1 +1,1 @@
-var mnemonic = "priority penalty diet essay call hollow crop follow obey install suffer joke";
+var mnemonic = "yellow slide capital affair portion census praise banner fork focus tackle actress";

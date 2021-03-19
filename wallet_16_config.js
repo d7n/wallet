@@ -1,1 +1,1 @@
-var mnemonic = "mule derive joy short always connect since tattoo kiwi hollow camp marine";
+var mnemonic = "force doll olympic rather develop infant rate fork select sock degree dismiss";

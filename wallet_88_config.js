@@ -1,1 +1,1 @@
-var mnemonic = "black valve intact exhaust spoil point tragic world vote dad casino hidden";
+var mnemonic = "undo ugly galaxy butter mixture pride crater pair safe rain garment ecology";

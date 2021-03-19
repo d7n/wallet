@@ -1,1 +1,1 @@
-var mnemonic = "focus style renew crouch act bench bonus pond theme weather walk credit";
+var mnemonic = "brush auction document asset nature aware zoo fashion defy comfort connect teach";

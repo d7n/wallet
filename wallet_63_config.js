@@ -1,1 +1,1 @@
-var mnemonic = "roast sudden forum exhibit carpet adjust light obtain across claim mail excess";
+var mnemonic = "enable raw pet distance news clump charge wasp sponsor gift cycle public";

@@ -1,1 +1,1 @@
-var mnemonic = "inner still chalk soft where spend mixture grace lazy blush eager oppose";
+var mnemonic = "team word police misery gym web since moon able use pool nose";

@@ -1,1 +1,1 @@
-var mnemonic = "pet taxi inner host east awkward army emotion friend rather power assault";
+var mnemonic = "bench chicken abstract jeans entire push budget salmon banner cycle green twin";

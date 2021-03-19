@@ -1,1 +1,1 @@
-var mnemonic = "silent all wave depth clap reform cushion identify urban zebra obtain eye";
+var mnemonic = "gorilla dinner pride subway lizard slam agent kick gallery obtain brisk badge";

@@ -1,1 +1,1 @@
-var mnemonic = "valid evil loyal decade indoor fox advance ecology winter cinnamon surround again";
+var mnemonic = "state project chase tide chicken raven roast lunar mail polar wage sad";

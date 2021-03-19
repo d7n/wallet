@@ -1,1 +1,1 @@
-var mnemonic = "spin balcony river document marble music question vapor illness language knee fitness";
+var mnemonic = "episode inmate salmon reason life catch emerge wood tone light dwarf library";

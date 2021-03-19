@@ -1,1 +1,1 @@
-var mnemonic = "movie acid muffin salmon recycle easy pear devote weird drop pet lift";
+var mnemonic = "talent repair lawn brown ill road leader rule weather voyage youth pole";

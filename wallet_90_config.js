@@ -1,1 +1,1 @@
-var mnemonic = "hip cattle raise normal order caught marble weapon ocean phrase december vivid";
+var mnemonic = "climb scan country subway rail steak culture office fury cabbage safe person";
