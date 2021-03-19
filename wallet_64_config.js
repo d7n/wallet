@@ -1,1 +1,1 @@
-var mnemonic = "seed plug motion bonus below fog powder wine bargain increase tackle rescue";
+var mnemonic = "sudden certain lava know educate clarify portion cabin differ reveal poem toast";

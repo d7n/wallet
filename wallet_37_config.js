@@ -1,1 +1,1 @@
-var mnemonic = "occur forum future keen half birth letter cheese trip sunny noble snow";
+var mnemonic = "meat bless romance doctor potato ostrich amazing fantasy garment review proud feel";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect delay tissue shiver armor raise wife syrup hidden section sleep proud";
+var mnemonic = "mosquito like arrange effort success slim taxi muffin champion wage age giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet bunker age thank snap cradle crime mail cross dwarf cry recycle";
+var mnemonic = "provide frost million hidden obvious pony tide view churn version payment slide";

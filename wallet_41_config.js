@@ -1,1 +1,1 @@
-var mnemonic = "eagle license obey shiver people join ketchup match frost fury vessel citizen";
+var mnemonic = "pave grief ball memory verify custom tone electric brand recall jealous poverty";

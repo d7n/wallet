@@ -1,1 +1,1 @@
-var mnemonic = "answer airport initial trumpet monster unable scrap eye animal arch phrase party";
+var mnemonic = "kick steel hood reject net desk canyon soft enter believe vague coconut";

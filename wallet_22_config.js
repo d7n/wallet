@@ -1,1 +1,1 @@
-var mnemonic = "narrow hint debris tag write quarter other bar robot field moon fabric";
+var mnemonic = "reward filter excite above adjust lizard source veteran chapter usage hazard ritual";

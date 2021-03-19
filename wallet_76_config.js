@@ -1,1 +1,1 @@
-var mnemonic = "invest wish crunch child list must cram embrace phrase drama exhibit photo";
+var mnemonic = "cruise pond rally mention episode kite live meadow unlock toddler east romance";

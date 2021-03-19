@@ -1,1 +1,1 @@
-var mnemonic = "same view addict canoe fix win perfect ill rose theme lake sure";
+var mnemonic = "burden now social blush dawn essence furnace where subject ill trash tobacco";

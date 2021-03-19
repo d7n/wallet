@@ -1,1 +1,1 @@
-var mnemonic = "crush second method shuffle clog control spoon lazy liar option topic whip";
+var mnemonic = "ethics arrow seat head idea december tape explain village hurdle cheese crystal";

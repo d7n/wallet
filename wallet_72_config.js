@@ -1,1 +1,1 @@
-var mnemonic = "rebel mix monitor mother ivory tone fiscal manual stuff involve duty equal";
+var mnemonic = "obey brain margin feel sauce hazard adjust time doctor lucky vacuum aim";

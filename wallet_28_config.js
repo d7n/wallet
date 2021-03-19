@@ -1,1 +1,1 @@
-var mnemonic = "oak brush harsh slot nut possible middle today pride mention scorpion label";
+var mnemonic = "twin clip goat field sail spike ball apology mosquito chef miracle defense";

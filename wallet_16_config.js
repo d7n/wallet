@@ -1,1 +1,1 @@
-var mnemonic = "view arctic mushroom dad innocent giant keen you dirt sibling priority decade";
+var mnemonic = "story tooth choose wet tribe anxiety agent also say crash manage truck";

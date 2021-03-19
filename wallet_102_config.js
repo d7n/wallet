@@ -1,1 +1,1 @@
-var mnemonic = "dry inch favorite dune brisk alley gospel always wet story detail pair";
+var mnemonic = "lesson unknown aisle novel duty salmon lizard another above walk consider airport";

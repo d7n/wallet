@@ -1,1 +1,1 @@
-var mnemonic = "hurt noodle post holiday mom famous company charge wreck glance neglect sea";
+var mnemonic = "tube area correct rescue reform achieve stumble dragon tell convince renew knee";

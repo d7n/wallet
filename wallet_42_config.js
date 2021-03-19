@@ -1,1 +1,1 @@
-var mnemonic = "toddler disagree buddy wear jewel tobacco junior milk electric giraffe title swarm";
+var mnemonic = "avocado wheel basic smart economy denial tunnel subject donor easy knee giant";

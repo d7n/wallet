@@ -1,1 +1,1 @@
-var mnemonic = "spatial ship expose curtain gadget leader index echo ready amount will capital";
+var mnemonic = "face uniform teach amateur improve monkey text undo off toddler allow bleak";

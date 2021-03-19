@@ -1,1 +1,1 @@
-var mnemonic = "install biology fancy movie trust foil brick truly salt sport tired choice";
+var mnemonic = "copper device lake slender bread nose stock drop immense lift involve canvas";

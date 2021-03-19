@@ -1,1 +1,1 @@
-var mnemonic = "syrup cigar desk ancient behave wonder mushroom pet frog announce benefit butter";
+var mnemonic = "spawn pink margin decorate install license adjust guard accident industry bid latin";

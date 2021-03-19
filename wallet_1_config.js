@@ -1,1 +1,1 @@
-var mnemonic = "entire sauce find uphold fish hundred hover river street few suit menu";
+var mnemonic = "replace horse inmate gloom domain leisure sugar wash else juice length stem";

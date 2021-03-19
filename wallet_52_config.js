@@ -1,1 +1,1 @@
-var mnemonic = "harsh baby digital burst wisdom space plug urge cheese move box wise";
+var mnemonic = "organ iron horn danger noise bench stuff this meat fashion math size";

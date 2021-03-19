@@ -1,1 +1,1 @@
-var mnemonic = "tiger asset render subject torch crash atom donor hotel below actor onion";
+var mnemonic = "wash wreck timber collect diamond drastic enjoy rude kit era minimum about";

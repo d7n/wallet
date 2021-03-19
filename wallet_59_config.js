@@ -1,1 +1,1 @@
-var mnemonic = "elevator sudden tail response palm creek truck reward mad century voice ignore";
+var mnemonic = "exile ginger abuse athlete tissue minute usage month scorpion maid image stadium";

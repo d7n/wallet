@@ -1,1 +1,1 @@
-var mnemonic = "quarter wheel saddle slice skin leisure crack affair forest light error demand";
+var mnemonic = "elephant pipe method number tenant crumble pioneer insect sadness donor despair antique";

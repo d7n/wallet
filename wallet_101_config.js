@@ -1,1 +1,1 @@
-var mnemonic = "connect enrich lonely cement scrap economy ride engage guilt warrior wrestle faith";
+var mnemonic = "occur divide sea offer explain skull session theory armed rain resource rookie";

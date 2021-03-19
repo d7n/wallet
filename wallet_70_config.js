@@ -1,1 +1,1 @@
-var mnemonic = "nurse bomb office roof message observe remain kind breeze adjust wild sniff";
+var mnemonic = "fantasy chat echo phone cover sheriff abstract burden island remain traffic famous";

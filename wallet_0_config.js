@@ -1,1 +1,1 @@
-var mnemonic = "typical trust knee middle inform upset clinic drama crash select maple vibrant";
+var mnemonic = "dinosaur divorce rival danger grain warm rabbit mouse robot allow rug express";

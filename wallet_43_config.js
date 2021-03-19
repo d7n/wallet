@@ -1,1 +1,1 @@
-var mnemonic = "wear rotate chief soon school usual mix fashion fence keep update spirit";
+var mnemonic = "accuse note hotel idle alcohol sting rich poem scare odor security chase";

@@ -1,1 +1,1 @@
-var mnemonic = "enter kangaroo fold city butter someone record outside strike keen muffin smooth";
+var mnemonic = "venture health jelly minimum avocado hundred economy diamond clog reward poem rapid";

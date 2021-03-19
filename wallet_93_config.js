@@ -1,1 +1,1 @@
-var mnemonic = "hidden keen alien eight exact castle intact mobile slide monitor gym minor";
+var mnemonic = "series alien develop track fortune enact clip faint erosion cinnamon rent blue";

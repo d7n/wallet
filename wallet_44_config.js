@@ -1,1 +1,1 @@
-var mnemonic = "leg top journey sample gaze prefer weekend wear recipe arm egg happy";
+var mnemonic = "modify fuel cash correct hospital broccoli arm two regular live arrive treat";

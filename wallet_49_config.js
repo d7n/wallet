@@ -1,1 +1,1 @@
-var mnemonic = "alien broken code ocean damage hover bind dizzy crash hidden result stairs";
+var mnemonic = "maze clip original define supreme unknown welcome grit father panel nephew atom";

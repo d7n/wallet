@@ -1,1 +1,1 @@
-var mnemonic = "auto divert gym million run stay coil clog master suit lemon need";
+var mnemonic = "maid size wasp sponsor visual goose sense visit armor capital south firm";

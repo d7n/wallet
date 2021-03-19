@@ -1,1 +1,1 @@
-var mnemonic = "error patrol frown index hurry wreck visit receive spawn neither measure spray";
+var mnemonic = "device piano bargain plate claim rival coast clarify word knock fluid estate";

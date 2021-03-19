@@ -1,1 +1,1 @@
-var mnemonic = "pact autumn must dentist debris burst holiday confirm shed army dismiss deny";
+var mnemonic = "draw inflict humble layer horse slide lonely only room bench stove trip";

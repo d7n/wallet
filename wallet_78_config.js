@@ -1,1 +1,1 @@
-var mnemonic = "remember shoulder equal improve soft sheriff forum vendor silly force salmon devote";
+var mnemonic = "parade already family tool toy suit rescue aerobic soap buyer era guess";

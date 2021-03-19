@@ -1,1 +1,1 @@
-var mnemonic = "light syrup junk victory miss gesture element alley cluster brain document fantasy";
+var mnemonic = "draw goat monitor scheme race arctic glimpse stairs famous sure bicycle squeeze";

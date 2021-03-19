@@ -1,1 +1,1 @@
-var mnemonic = "avocado tide negative large hybrid veteran blue unusual idea all vocal wasp";
+var mnemonic = "forward switch raccoon scout polar lottery cake behave desk measure improve depth";

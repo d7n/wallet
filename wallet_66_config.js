@@ -1,1 +1,1 @@
-var mnemonic = "gauge window taste trick pull debate chunk melt mask insect oak bus";
+var mnemonic = "jaguar wolf daring column duty treat stumble slender critic inherit image sign";

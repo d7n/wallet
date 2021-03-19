@@ -1,1 +1,1 @@
-var mnemonic = "reflect tail knock awful drift bachelor tell pool trap gap alone ring";
+var mnemonic = "brain awful damage fold symbol family announce stuff physical update thing equal";

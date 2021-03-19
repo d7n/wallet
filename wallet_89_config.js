@@ -1,1 +1,1 @@
-var mnemonic = "once excite carbon enforce collect enforce ordinary palm type note priority option";
+var mnemonic = "glide fence river brave junior giraffe step cigar insane ring moral beef";

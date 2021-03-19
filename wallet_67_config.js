@@ -1,1 +1,1 @@
-var mnemonic = "daughter risk dress eagle nasty liar walnut visa pool salt student able";
+var mnemonic = "hobby trust orange prefer zoo extra tortoise salmon oven tray stand fault";

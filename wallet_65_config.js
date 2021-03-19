@@ -1,1 +1,1 @@
-var mnemonic = "rookie rough envelope immense vehicle off trim immune memory master morning light";
+var mnemonic = "goddess taxi enable anchor wear drama drop trumpet bleak exotic town action";

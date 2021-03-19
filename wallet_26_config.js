@@ -1,1 +1,1 @@
-var mnemonic = "repair mandate arrange rich program bacon mask census confirm real sting face";
+var mnemonic = "three install include flush concert dinner cram record holiday rocket taxi bone";

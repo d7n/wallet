@@ -1,1 +1,1 @@
-var mnemonic = "better case organ brave more unfair involve employ outside common hedgehog kitchen";
+var mnemonic = "beyond later region flat fix verb office select negative child consider furnace";

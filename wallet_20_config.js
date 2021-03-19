@@ -1,1 +1,1 @@
-var mnemonic = "crack shoulder rule tackle avoid lucky quiz best zone unaware melt rally";
+var mnemonic = "hurry panda ecology board congress quote bubble nut provide grass code sun";

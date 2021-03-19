@@ -1,1 +1,1 @@
-var mnemonic = "actor good impulse morning sadness east gadget liar sweet athlete age foster";
+var mnemonic = "trash noodle twice dad open replace suffer vocal offer lava reform birth";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent shy expect tiny pave fine open ancient brief happy swap truth";
+var mnemonic = "woman strong among add lake finish crucial style nest ahead mesh negative";

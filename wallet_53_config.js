@@ -1,1 +1,1 @@
-var mnemonic = "jar second scrap music rival river cheese mountain blanket test end cloth";
+var mnemonic = "carbon viable feed loud diagram never fence dog chunk kiwi work napkin";

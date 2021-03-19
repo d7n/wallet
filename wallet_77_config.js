@@ -1,1 +1,1 @@
-var mnemonic = "danger number popular early identify beef logic transfer change symbol soul uniform";
+var mnemonic = "speak arm filter unlock fortune run impose business observe elbow decide boat";

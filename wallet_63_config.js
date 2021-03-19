@@ -1,1 +1,1 @@
-var mnemonic = "grocery link valley potato tide return fault just payment circle okay visual";
+var mnemonic = "tank rule gadget siren drastic feel echo swear flight ritual alarm idea";

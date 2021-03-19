@@ -1,1 +1,1 @@
-var mnemonic = "mandate alpha collect faith humble monitor urban dream coconut pyramid board smile";
+var mnemonic = "dinner exile gather provide this enact around exhibit other siren mammal group";

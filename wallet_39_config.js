@@ -1,1 +1,1 @@
-var mnemonic = "betray hour wild rude own thank theme carbon cement hat way execute";
+var mnemonic = "worry discover ripple grid essay door joke online spring guess faint route";

@@ -1,1 +1,1 @@
-var mnemonic = "coast option flush blur column raven brave tattoo motor scene fit ketchup";
+var mnemonic = "harvest pride divide margin height letter air arena column unknown list mobile";

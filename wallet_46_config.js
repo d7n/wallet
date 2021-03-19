@@ -1,1 +1,1 @@
-var mnemonic = "gesture addict camera hurry drum select require kid index payment upset embark";
+var mnemonic = "mesh host snake spider cart ivory stereo enlist twin slab decide diet";

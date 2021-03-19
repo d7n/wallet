@@ -1,1 +1,1 @@
-var mnemonic = "insane blame rabbit also high umbrella panda gym review video abuse cheese";
+var mnemonic = "refuse erosion enemy soda immune finger case rally amazing cart taste online";

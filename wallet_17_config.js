@@ -1,1 +1,1 @@
-var mnemonic = "deposit install poem slice until master shuffle diamond curtain zoo half season";
+var mnemonic = "execute breeze suffer about airport syrup analyst spike tourist humor sugar van";

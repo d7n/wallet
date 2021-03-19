@@ -1,1 +1,1 @@
-var mnemonic = "ethics age asset visit head buddy evidence rule valley mansion mention couple";
+var mnemonic = "demise develop knock hurry shell true bean confirm adapt fork useless hole";

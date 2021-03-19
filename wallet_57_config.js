@@ -1,1 +1,1 @@
-var mnemonic = "number hen funny scout sketch coral long sniff vocal long lunch truck";
+var mnemonic = "short clown myth fold tail taste price access kingdom sorry electric owner";

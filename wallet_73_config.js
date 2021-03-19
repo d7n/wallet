@@ -1,1 +1,1 @@
-var mnemonic = "can skill venue wait mosquito video current sound dash reduce frown absurd";
+var mnemonic = "uncover useful palace they seven buddy special arm ladder response judge elbow";

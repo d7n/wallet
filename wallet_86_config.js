@@ -1,1 +1,1 @@
-var mnemonic = "apart member sock turkey mimic envelope catch cliff cram brave diesel play";
+var mnemonic = "vacuum real cube dove educate luxury actual idea identify buyer right capital";

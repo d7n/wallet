@@ -1,1 +1,1 @@
-var mnemonic = "border deposit school day hunt foot merry rice original badge asthma sun";
+var mnemonic = "nut silent exact more insect attract gallery furnace stomach ice rigid hope";

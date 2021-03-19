@@ -1,1 +1,1 @@
-var mnemonic = "cruel else confirm pride menu crash border toe say easy execute fee";
+var mnemonic = "bus mom wrong discover message smile buffalo health weasel wine opera bonus";

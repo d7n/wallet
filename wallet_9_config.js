@@ -1,1 +1,1 @@
-var mnemonic = "vapor fan length enter fat speed town confirm lazy cycle clarify shock";
+var mnemonic = "slight nature praise pool quit auction become fold six hollow nice school";

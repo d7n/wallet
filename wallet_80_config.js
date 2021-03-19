@@ -1,1 +1,1 @@
-var mnemonic = "seat cargo burden detect local giant track claw estate assist wrist check";
+var mnemonic = "laptop quantum danger chunk remove song sheriff tomato speed february destroy like";

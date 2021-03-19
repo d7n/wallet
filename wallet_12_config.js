@@ -1,1 +1,1 @@
-var mnemonic = "glow dolphin win rib april cement vehicle punch spin song message unusual";
+var mnemonic = "agree silent drama alcohol era original traffic behind project repair surround emerge";

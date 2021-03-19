@@ -1,1 +1,1 @@
-var mnemonic = "ostrich bomb pyramid story gaze fluid stuff morning any table buyer various";
+var mnemonic = "record castle review enroll coin street observe artist drift average scene off";

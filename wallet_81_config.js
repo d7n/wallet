@@ -1,1 +1,1 @@
-var mnemonic = "peasant behind grace display parent program amazing industry romance lake actress video";
+var mnemonic = "demise humor excuse bundle hold harsh access picture ridge evoke supreme car";

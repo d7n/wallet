@@ -1,1 +1,1 @@
-var mnemonic = "task real motor pet boil hole style clown raise behave vague spoil";
+var mnemonic = "list immense wasp pole fruit ski defy exit install gate tag spoon";

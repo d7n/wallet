@@ -1,1 +1,1 @@
-var mnemonic = "goose maze receive fee aunt able above robust music love invest describe";
+var mnemonic = "uncle fetch plunge library science cable clarify vast head rain lazy harbor";

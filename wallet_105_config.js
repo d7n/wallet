@@ -1,1 +1,1 @@
-var mnemonic = "video panic cat recipe garden carry affair fit actual loop lab erase";
+var mnemonic = "small hope citizen avocado stomach voice exchange myself eight stone front will";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor ridge order neither sheriff patch rule width catalog wolf slight badge";
+var mnemonic = "shuffle embody vast pyramid carbon trip trick zoo enough enable twice camera";

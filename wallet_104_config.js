@@ -1,1 +1,1 @@
-var mnemonic = "cloud candy spread assault dynamic boring health raven eight oven latin moral";
+var mnemonic = "usage coin loop mimic follow soul swim rocket limb bone double poet";

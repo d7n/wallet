@@ -1,1 +1,1 @@
-var mnemonic = "check library bright return reopen taste lumber life truth demise market solve";
+var mnemonic = "crucial carpet wood defy canvas sight faculty tunnel syrup mystery thumb swallow";

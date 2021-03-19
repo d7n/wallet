@@ -1,1 +1,1 @@
-var mnemonic = "same keen gravity mouse ensure depend burst interest phone defense outside salon";
+var mnemonic = "casino destroy girl print like gold pink crack discover next nice athlete";

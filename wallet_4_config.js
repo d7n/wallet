@@ -1,1 +1,1 @@
-var mnemonic = "morning tiger robot hat correct risk develop chef mail royal zoo lazy";
+var mnemonic = "mix call behind close reject bracket rely toddler have charge stamp float";

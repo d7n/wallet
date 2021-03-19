@@ -1,1 +1,1 @@
-var mnemonic = "leave rice brass crazy song absorb enrich first engage nature humble seminar";
+var mnemonic = "company divorce month common kidney vicious album matrix great vault shine invite";

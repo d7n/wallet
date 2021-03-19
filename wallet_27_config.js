@@ -1,1 +1,1 @@
-var mnemonic = "vast vintage ten fatal impose sail hundred cluster enjoy dice absurd behind";
+var mnemonic = "grain beauty picnic embrace small eight pumpkin skull admit reform book danger";

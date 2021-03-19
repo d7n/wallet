@@ -1,1 +1,1 @@
-var mnemonic = "voice glue unaware junior gossip increase wage seed climb panther visa derive";
+var mnemonic = "alone symptom solid above debate delay crazy swap cream negative child shove";

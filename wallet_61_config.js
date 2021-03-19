@@ -1,1 +1,1 @@
-var mnemonic = "palace page ski payment insane organ sort pill bridge detail fault swing";
+var mnemonic = "almost mask mirror neither scene song tape labor figure smart capital strike";

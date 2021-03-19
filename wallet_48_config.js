@@ -1,1 +1,1 @@
-var mnemonic = "wrestle humble panic pulse noble kick road dream holiday stomach soldier exercise";
+var mnemonic = "shell list stumble sketch wrist lamp win monster profit review neck vehicle";

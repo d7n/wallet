@@ -1,1 +1,1 @@
-var mnemonic = "luxury among moment six mandate demand core anxiety until forum risk rabbit";
+var mnemonic = "loan fresh wall unit example sport awake pluck hard idea security wool";

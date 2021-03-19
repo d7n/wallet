@@ -1,1 +1,1 @@
-var mnemonic = "shift slide enlist void elder shift entry because flame document more job";
+var mnemonic = "turn sea guilt eight gather youth tomorrow rude bright repeat tenant lens";

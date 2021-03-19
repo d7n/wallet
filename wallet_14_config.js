@@ -1,1 +1,1 @@
-var mnemonic = "tank various rival program success pepper dignity taxi bless category stick wrist";
+var mnemonic = "swarm fatigue claim upset rare drink delay grief obtain wrap between relax";

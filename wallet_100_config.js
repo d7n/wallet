@@ -1,1 +1,1 @@
-var mnemonic = "initial sample flash nest else carry hospital shrug chief spoon liberty slab";
+var mnemonic = "drill donkey settle embrace skull undo abstract unusual battle salmon often vague";

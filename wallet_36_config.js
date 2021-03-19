@@ -1,1 +1,1 @@
-var mnemonic = "embody obey armed whisper hello reopen surge girl obtain poem vacant beef";
+var mnemonic = "rely kid jungle light survey burger fine kingdom funny make elephant harsh";

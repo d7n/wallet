@@ -1,1 +1,1 @@
-var mnemonic = "huge suggest unit carpet egg picnic device magic person taste world dolphin";
+var mnemonic = "pilot employ original nut diamond ring kite rug consider fruit chef twelve";

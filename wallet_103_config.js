@@ -1,1 +1,1 @@
-var mnemonic = "marriage network rapid negative fun calm funny soon combine habit sadness pumpkin";
+var mnemonic = "face surface feature sign possible shine snack type palace half arrow omit";

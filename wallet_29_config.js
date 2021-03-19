@@ -1,1 +1,1 @@
-var mnemonic = "breeze inch odor celery ticket milk elevator piece scout clutch speak chapter";
+var mnemonic = "fatigue huge spin rent venue shrimp guilt one unique inspire giraffe solar";

@@ -1,1 +1,1 @@
-var mnemonic = "name law win have end address fiscal hover best manage defense hire";
+var mnemonic = "client garden buyer perfect point paddle chuckle analyst stairs visa phrase visit";

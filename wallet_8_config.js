@@ -1,1 +1,1 @@
-var mnemonic = "trash act check mountain oblige aspect permit hand skin mad antenna expand";
+var mnemonic = "man chief sweet fly current plastic filter buyer few custom deer marine";

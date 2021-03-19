@@ -1,1 +1,1 @@
-var mnemonic = "flee obvious sibling divorce aunt puzzle keen master able grocery bundle shoe";
+var mnemonic = "drill citizen reject satisfy sudden bar uncle gadget monitor dance rare member";

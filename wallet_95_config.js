@@ -1,1 +1,1 @@
-var mnemonic = "common image guitar pave quantum immune velvet original wolf world transfer upper";
+var mnemonic = "bulk release predict insane want silly need heart doctor gravity industry century";
