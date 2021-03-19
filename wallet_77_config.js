@@ -1,1 +1,1 @@
-var mnemonic = "slender crew shadow trash brisk apology powder vacuum meat trumpet three increase";
+var mnemonic = "bubble dance bounce brand shoot range comfort main diesel because floor stomach";

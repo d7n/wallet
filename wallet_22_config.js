@@ -1,1 +1,1 @@
-var mnemonic = "rule season follow power reason ranch cabbage wage learn frog artefact voice";
+var mnemonic = "fashion style unit twelve analyst fatal soda purity equal pledge head fence";

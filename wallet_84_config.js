@@ -1,1 +1,1 @@
-var mnemonic = "match obscure bottom vital topic front bird parent morning amazing claw process";
+var mnemonic = "cable soul nasty involve vapor marble wisdom type air clap abandon idle";

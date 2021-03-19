@@ -1,1 +1,1 @@
-var mnemonic = "library offer virtual cat lend discover leave scale damage bottom any mention";
+var mnemonic = "work before author people umbrella agree network find kind business antenna spot";

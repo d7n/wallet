@@ -1,1 +1,1 @@
-var mnemonic = "bridge long increase uncle dragon depend lunar gorilla clarify blame strike celery";
+var mnemonic = "park mosquito daughter spoil ride blood marine draft floor inside apology neglect";

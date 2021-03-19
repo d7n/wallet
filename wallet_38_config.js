@@ -1,1 +1,1 @@
-var mnemonic = "museum better conduct pipe scene wrestle phrase whale exile donkey attend glass";
+var mnemonic = "opera process object winter churn execute business setup ceiling catch side oak";

@@ -1,1 +1,1 @@
-var mnemonic = "useless bracket still club sea this mix audit unlock nut tribe blush";
+var mnemonic = "pledge basic essence lawsuit fold kiss rotate cause conduct culture usage behave";

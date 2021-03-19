@@ -1,1 +1,1 @@
-var mnemonic = "twin age maple gap virtual twin dance strategy lobster stage double spread";
+var mnemonic = "another acid evidence amateur file bronze climb dinosaur hen exit uphold course";

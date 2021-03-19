@@ -1,1 +1,1 @@
-var mnemonic = "just grocery satoshi purity brother alien biology team sport pride model salt";
+var mnemonic = "annual exotic height betray slim game rack cotton item park icon power";

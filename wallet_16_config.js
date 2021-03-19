@@ -1,1 +1,1 @@
-var mnemonic = "cart duck false cool priority panda scorpion marine term discover erupt real";
+var mnemonic = "call wet slot venture innocent crawl common switch belt cruise jeans morning";

@@ -1,1 +1,1 @@
-var mnemonic = "save invest vacuum disease fatigue stool skull always equal caught satoshi impact";
+var mnemonic = "punch long dial scare top march put cart more child know stock";

@@ -1,1 +1,1 @@
-var mnemonic = "calm theme beef south trial rude shift snack identify merry faint filter";
+var mnemonic = "shuffle walk sample control urban nurse desk yard shrug phone tank valley";

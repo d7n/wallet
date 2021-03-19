@@ -1,1 +1,1 @@
-var mnemonic = "forest excite champion soul domain flame spirit ordinary design act search river";
+var mnemonic = "gravity setup saddle narrow quantum swim tattoo unhappy vocal combine explain industry";

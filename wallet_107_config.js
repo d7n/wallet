@@ -1,1 +1,1 @@
-var mnemonic = "shrug kingdom join lonely upper bullet name skate doctor network swallow call";
+var mnemonic = "below quick glance decrease race chalk decrease suit hub harvest reopen trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "hint lake praise arrest dragon very derive hard recipe pen moral adapt";
+var mnemonic = "oyster earth reject brief dignity token keep foam father you direct noise";

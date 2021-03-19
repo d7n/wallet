@@ -1,1 +1,1 @@
-var mnemonic = "above length frequent guess clinic steak stumble material struggle all argue goose";
+var mnemonic = "erase case captain bone venue cupboard someone reflect clay enroll loop protect";

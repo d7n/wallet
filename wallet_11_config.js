@@ -1,1 +1,1 @@
-var mnemonic = "only toe cup shop present nurse island cereal bounce among grace fever";
+var mnemonic = "fever wool orchard inmate priority monkey aunt sunny sentence budget air humble";

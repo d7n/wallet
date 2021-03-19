@@ -1,1 +1,1 @@
-var mnemonic = "good mirror genius tomato olympic inquiry void december useful myth skate parent";
+var mnemonic = "issue chuckle draw document fatigue wish beauty wine library foil able abandon";

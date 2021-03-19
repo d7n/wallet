@@ -1,1 +1,1 @@
-var mnemonic = "obey honey stable manage flight adapt pole domain pattern system entire meadow";
+var mnemonic = "debate bring noble rule good patch soda inflict file ribbon ostrich average";

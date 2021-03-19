@@ -1,1 +1,1 @@
-var mnemonic = "eagle rent manage element dinner citizen sport resource humble young donkey volume";
+var mnemonic = "daughter vehicle either heavy rhythm trash work market hobby divert expire hen";

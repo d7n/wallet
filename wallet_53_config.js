@@ -1,1 +1,1 @@
-var mnemonic = "forest model tumble sketch tube flock enable monkey wool include bike seed";
+var mnemonic = "twenty replace addict exhaust security invite box display tiger quarter program theme";

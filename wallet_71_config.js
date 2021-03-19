@@ -1,1 +1,1 @@
-var mnemonic = "learn owner just chaos benefit crowd plunge actress glass comic crucial scout";
+var mnemonic = "spot trend hawk lesson remain disagree file bulb fancy provide cable alley";

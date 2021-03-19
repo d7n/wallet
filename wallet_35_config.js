@@ -1,1 +1,1 @@
-var mnemonic = "number task fortune demand fiction high agree you frog suggest curtain bunker";
+var mnemonic = "tuition viable cupboard buyer pumpkin cupboard load basic spray tackle obtain able";

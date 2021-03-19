@@ -1,1 +1,1 @@
-var mnemonic = "about short gap pause eagle shoulder empty come aim review sense hold";
+var mnemonic = "uncle ancient still logic behave grab tiny shiver team twist patrol document";

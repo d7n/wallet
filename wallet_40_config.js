@@ -1,1 +1,1 @@
-var mnemonic = "effort stock jump relax galaxy hair shuffle buzz cushion grab remind pass";
+var mnemonic = "engage token dutch junk measure drift grunt elbow foster actual depth chat";

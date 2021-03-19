@@ -1,1 +1,1 @@
-var mnemonic = "eye saddle require warm woman come virus quiz average basket crystal win";
+var mnemonic = "hazard grocery zoo eternal primary token sound maid prevent equal hair extra";

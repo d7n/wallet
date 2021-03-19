@@ -1,1 +1,1 @@
-var mnemonic = "vanish best thrive lyrics sand muscle vintage ask fruit stem differ swim";
+var mnemonic = "timber capital quarter sponsor prosper master trigger kick glance once you medal";

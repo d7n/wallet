@@ -1,1 +1,1 @@
-var mnemonic = "square order civil frame silver badge inquiry credit spoil prosper today scatter";
+var mnemonic = "return voice trouble nominee insect crowd gasp robust april unhappy truly will";

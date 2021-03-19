@@ -1,1 +1,1 @@
-var mnemonic = "delay style tonight organ gather spice list stage base visa cushion dove";
+var mnemonic = "excuse immune prepare canoe catalog stock math local odor surround swarm rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "ski bundle leg sister rent essay nothing green whisper miracle moon baby";
+var mnemonic = "limit radio sight purse lemon pattern hard minor universe winner issue clump";

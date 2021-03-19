@@ -1,1 +1,1 @@
-var mnemonic = "oppose suffer fringe enter language drink blush body aerobic toy gadget sort";
+var mnemonic = "web kingdom total pill debris borrow number level rose metal east weird";

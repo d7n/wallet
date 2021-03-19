@@ -1,1 +1,1 @@
-var mnemonic = "decorate brisk artist hollow fitness pet tower imitate speak elite gasp cousin";
+var mnemonic = "horn silly indoor series divorce magnet quit price provide rescue wrestle stable";

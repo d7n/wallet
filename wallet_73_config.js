@@ -1,1 +1,1 @@
-var mnemonic = "lazy clean chef guess impulse doll tennis minor fix impose eternal seven";
+var mnemonic = "brave fiscal army month cargo begin interest void equip neglect unfold drama";

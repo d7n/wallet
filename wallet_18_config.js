@@ -1,1 +1,1 @@
-var mnemonic = "heart like draw select leg neither any photo thing sock produce ocean";
+var mnemonic = "come ignore churn hungry father define solar loyal sleep genuine alcohol cement";

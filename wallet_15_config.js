@@ -1,1 +1,1 @@
-var mnemonic = "make diesel blouse drip come dune innocent wish exist evidence normal gaze";
+var mnemonic = "street series dismiss exotic mother uncover tent heart across endorse mad achieve";

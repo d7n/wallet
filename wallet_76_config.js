@@ -1,1 +1,1 @@
-var mnemonic = "wheat rescue reform nature dirt coin job congress surround science deputy ghost";
+var mnemonic = "truck clerk page buffalo bleak unhappy blossom grunt light occur shift orient";

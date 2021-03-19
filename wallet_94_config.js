@@ -1,1 +1,1 @@
-var mnemonic = "junior will bright blur ball liquid step miss donkey garden inform neither";
+var mnemonic = "ivory spin thing aisle bike hurdle whale leg lake neutral below disorder";

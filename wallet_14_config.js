@@ -1,1 +1,1 @@
-var mnemonic = "nuclear busy grab accident tomato example insane firm neglect section infant virus";
+var mnemonic = "situate tomato used spatial brisk foster easily cube palm web obtain drastic";

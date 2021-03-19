@@ -1,1 +1,1 @@
-var mnemonic = "heart country luggage quote mixed warfare arrive walk stable buffalo occur grunt";
+var mnemonic = "shallow system bounce enlist flag card dish cycle leaf shed text auto";

@@ -1,1 +1,1 @@
-var mnemonic = "region mobile banner source dizzy recycle test liberty wood evidence turkey satisfy";
+var mnemonic = "crucial reward half now donor spoon stem rocket more trip magic assist";

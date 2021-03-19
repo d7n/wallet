@@ -1,1 +1,1 @@
-var mnemonic = "bronze cart rib original glimpse decorate stable police panther coyote across any";
+var mnemonic = "weekend hamster recipe prison excite own steak humor miss eagle post tag";

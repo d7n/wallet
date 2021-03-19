@@ -1,1 +1,1 @@
-var mnemonic = "dish pause rose brass fault turkey police twice light wear guide bleak";
+var mnemonic = "visa knee slim couple sadness jealous plate quality since head grass ketchup";

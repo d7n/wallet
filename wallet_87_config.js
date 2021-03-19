@@ -1,1 +1,1 @@
-var mnemonic = "window auto intact adapt opinion need code lucky hire stumble dizzy pepper";
+var mnemonic = "portion expand slim budget square panda flight hedgehog piece knock remove pitch";

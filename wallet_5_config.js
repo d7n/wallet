@@ -1,1 +1,1 @@
-var mnemonic = "fame crime kiwi elephant reform leg later sausage nasty fossil turn wisdom";
+var mnemonic = "sponsor barely hobby giant fly winter virtual diamond update promote fame chuckle";

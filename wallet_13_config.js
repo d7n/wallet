@@ -1,1 +1,1 @@
-var mnemonic = "chaos skirt beyond fantasy crew sentence near discover vote raw moon wish";
+var mnemonic = "nephew worth into sibling raise sketch right hip october enact truth mechanic";

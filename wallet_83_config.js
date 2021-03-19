@@ -1,1 +1,1 @@
-var mnemonic = "mobile twelve green target suspect apart team deny spend waste inherit heavy";
+var mnemonic = "want fetch proud romance bubble media genre rubber twice coil animal solid";

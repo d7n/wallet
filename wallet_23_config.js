@@ -1,1 +1,1 @@
-var mnemonic = "extra large carpet proud equip scale magnet harvest tonight practice gather concert";
+var mnemonic = "enhance bridge armed tortoise explain drama cigar kind staff tuna plate remember";

@@ -1,1 +1,1 @@
-var mnemonic = "glow correct ginger enhance number artwork zoo someone usual maze father leader";
+var mnemonic = "diagram salt plug oak exchange soul gun over weather rather kitchen actress";

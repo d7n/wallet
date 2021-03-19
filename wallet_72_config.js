@@ -1,1 +1,1 @@
-var mnemonic = "fancy orbit glass want drive lock credit nut gas fossil unveil donkey";
+var mnemonic = "spirit baby thunder hover extend surround nominee decline earth liar soda mountain";

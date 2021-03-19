@@ -1,1 +1,1 @@
-var mnemonic = "pulp pave web sorry guitar educate hand ship spoon object great cheap";
+var mnemonic = "jungle spirit cost gain citizen pelican claim domain grape someone fault inner";

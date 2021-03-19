@@ -1,1 +1,1 @@
-var mnemonic = "enforce caught unveil maximum pyramid purity action discover runway phrase fall satisfy";
+var mnemonic = "rubber wreck seminar knock grant latin spirit arch clever total inhale tree";

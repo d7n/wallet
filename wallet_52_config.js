@@ -1,1 +1,1 @@
-var mnemonic = "depart stock guitar embrace phrase bring outside then rebel squeeze area stay";
+var mnemonic = "deliver enforce ill invite remember forum theory staff bind never token comic";

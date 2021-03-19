@@ -1,1 +1,1 @@
-var mnemonic = "moment faculty onion wife code soda echo harvest drop client hunt legal";
+var mnemonic = "enhance coast west sustain tribe evil mercy dirt wreck forward neglect pyramid";

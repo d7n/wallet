@@ -1,1 +1,1 @@
-var mnemonic = "elite atom travel panda strategy bulk report below truth cute car popular";
+var mnemonic = "grain wood foam click keen spend move assault debris blast taxi letter";

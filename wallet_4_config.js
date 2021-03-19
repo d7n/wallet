@@ -1,1 +1,1 @@
-var mnemonic = "vintage rather huge walk lab novel slush math buffalo below neutral naive";
+var mnemonic = "mango square faculty high pass mirror motor nut wait shoot zone brave";

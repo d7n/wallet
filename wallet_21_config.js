@@ -1,1 +1,1 @@
-var mnemonic = "buddy inmate surprise mosquito quit canoe fault unable turtle bachelor palace effort";
+var mnemonic = "strike lunar person mountain matrix tag very bright boat hire art indicate";

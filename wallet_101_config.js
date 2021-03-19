@@ -1,1 +1,1 @@
-var mnemonic = "daughter lawsuit harvest drift buyer lounge pulse visa mass ask flavor ski";
+var mnemonic = "pattern egg apart effort limb uniform venture lunar relief cabin just swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "erode alcohol top avoid shed eyebrow wish scheme code fork today bunker";
+var mnemonic = "regret enemy stuff make reason renew box short seven exotic gorilla mention";

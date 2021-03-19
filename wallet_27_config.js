@@ -1,1 +1,1 @@
-var mnemonic = "near human bridge lemon health ice cousin nice settle final chase pave";
+var mnemonic = "elder tissue expose pizza struggle pill accuse snow april vessel cruise umbrella";

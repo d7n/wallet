@@ -1,1 +1,1 @@
-var mnemonic = "visit casino grain wolf ivory october treat debate end drastic shed hammer";
+var mnemonic = "answer tip auto nurse steak slam poverty federal fatigue civil width purity";

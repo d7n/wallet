@@ -1,1 +1,1 @@
-var mnemonic = "alone egg vault strike credit naive helmet weapon april settle hedgehog term";
+var mnemonic = "dish skin fuel stumble weapon fun outdoor spy chase discover breeze jealous";

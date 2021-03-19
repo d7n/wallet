@@ -1,1 +1,1 @@
-var mnemonic = "pause update crash patch region recycle diary young auto river mix spy";
+var mnemonic = "mesh radar visit certain potato ill pencil panic limit lottery doll fault";

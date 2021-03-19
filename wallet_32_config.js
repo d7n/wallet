@@ -1,1 +1,1 @@
-var mnemonic = "slogan wild melt physical guide scatter image school riot wait wide meat";
+var mnemonic = "exist forum crunch pumpkin sea behind intact system organ bridge script curious";

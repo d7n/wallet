@@ -1,1 +1,1 @@
-var mnemonic = "wheel mutual impulse post apple mesh idle trophy earth elder fat acoustic";
+var mnemonic = "tide country exit void blind measure smile shadow second oppose offer salad";

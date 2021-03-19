@@ -1,1 +1,1 @@
-var mnemonic = "hobby peanut vivid chronic employ liberty bicycle degree fatigue inside announce ketchup";
+var mnemonic = "just give ankle immense claim answer stand gather chalk melt surge world";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery blame genuine either topic summer short office seat minor kit whale";
+var mnemonic = "front slide apple flight chimney oil relax rescue caution common mango option";

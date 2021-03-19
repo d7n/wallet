@@ -1,1 +1,1 @@
-var mnemonic = "valid try evil crane crunch blast south subject orphan lumber yard trust";
+var mnemonic = "wood bleak length once breeze dinner syrup author miss bicycle suit notice";

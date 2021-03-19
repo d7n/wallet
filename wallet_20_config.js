@@ -1,1 +1,1 @@
-var mnemonic = "noodle business material lamp voice fiscal angry draw crack catalog make hint";
+var mnemonic = "tenant like interest border sugar print balcony speed helmet acid memory build";

@@ -1,1 +1,1 @@
-var mnemonic = "marble page glass enemy subway online confirm nation aware margin ahead script";
+var mnemonic = "tilt pole walnut purse ethics category chapter hat forum fox punch lift";

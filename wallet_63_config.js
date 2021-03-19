@@ -1,1 +1,1 @@
-var mnemonic = "eagle expect climb opera snow frame light arch utility attract zone monitor";
+var mnemonic = "chaos various wage organ board exhaust element child cloud gloom citizen limit";

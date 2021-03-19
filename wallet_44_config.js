@@ -1,1 +1,1 @@
-var mnemonic = "easy hotel want ordinary radio catalog thing tunnel small sadness license enroll";
+var mnemonic = "open cage one swear reject canvas impact enable census tower volcano since";

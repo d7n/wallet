@@ -1,1 +1,1 @@
-var mnemonic = "sheriff ramp snack bitter tent include float tired draw nature walk narrow";
+var mnemonic = "pudding kid dish lava patrol twist frost clog dumb duty giggle oak";

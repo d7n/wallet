@@ -1,1 +1,1 @@
-var mnemonic = "code neutral glove short attitude wonder leisure crater skirt enjoy ensure expose";
+var mnemonic = "toilet drum ridge person royal cram outside icon alcohol extra mountain leg";

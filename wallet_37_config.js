@@ -1,1 +1,1 @@
-var mnemonic = "short jewel estate position protect noodle rate canyon circle hen solution decade";
+var mnemonic = "bounce subject retire inject olive sock holiday hood pistol provide ostrich convince";

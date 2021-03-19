@@ -1,1 +1,1 @@
-var mnemonic = "spoil panic harbor imitate practice tuna myth few switch pair misery project";
+var mnemonic = "hidden chaos sword across elevator extend few pumpkin perfect frost badge earn";

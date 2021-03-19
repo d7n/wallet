@@ -1,1 +1,1 @@
-var mnemonic = "pull swap mandate bulk disease joke pupil indoor type core puzzle turn";
+var mnemonic = "kick garment punch economy include frozen flat armor coach unhappy install maid";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale original occur tragic donkey gorilla father pyramid real peanut rabbit barely";
+var mnemonic = "blind crunch forest express length crawl siege fiction tag extra hover soda";

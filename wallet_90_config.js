@@ -1,1 +1,1 @@
-var mnemonic = "dragon hub submit crisp success puzzle toddler surface glide gun kitchen erase";
+var mnemonic = "place field angle illness reform much clerk boy reform lend acoustic balance";

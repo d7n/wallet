@@ -1,1 +1,1 @@
-var mnemonic = "cross float paper fall appear achieve phrase hover claim suit review such";
+var mnemonic = "metal inner olympic topple embody knee keep muffin stable cheese fury airport";

@@ -1,1 +1,1 @@
-var mnemonic = "audit decide doctor debate fabric scrub patrol wonder gloom cruise cruel eye";
+var mnemonic = "quick want oxygen blush alien dawn system marine conduct target tourist lonely";

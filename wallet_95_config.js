@@ -1,1 +1,1 @@
-var mnemonic = "isolate guitar priority flush few chicken prize tuna flash photo traffic stone";
+var mnemonic = "weasel quit nose join dumb hire dash chair mad capable potato memory";

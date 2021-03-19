@@ -1,1 +1,1 @@
-var mnemonic = "cousin limb lab order lawsuit blush cat hollow border second stomach wreck";
+var mnemonic = "join arrange excuse surface arrange wall bleak stone wife motion trumpet memory";

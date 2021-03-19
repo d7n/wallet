@@ -1,1 +1,1 @@
-var mnemonic = "safe drip scale erode spot kit pigeon family exclude absurd stairs antique";
+var mnemonic = "sadness comfort nerve quality ginger damp laptop ramp supply pact phone spike";

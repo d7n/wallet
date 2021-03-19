@@ -1,1 +1,1 @@
-var mnemonic = "alone heart ivory torch route sing mechanic easily grunt still man insane";
+var mnemonic = "absorb clay mule borrow month symbol purchase remember advance candy kid measure";

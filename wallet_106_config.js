@@ -1,1 +1,1 @@
-var mnemonic = "rescue month edge rhythm orchard repair arrow only milk boost lawsuit narrow";
+var mnemonic = "repair task clog annual verify outer blur chef firm tattoo knife mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "choice venture advice require shield host output unlock find habit steak filter";
+var mnemonic = "lucky antique program fame shiver neglect submit chuckle merit coil license ecology";

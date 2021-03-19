@@ -1,1 +1,1 @@
-var mnemonic = "bright kick replace peanut silver burst bulk bag shallow upset portion egg";
+var mnemonic = "reopen point favorite issue comic embody plug leopard point shift subway middle";

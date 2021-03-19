@@ -1,1 +1,1 @@
-var mnemonic = "ghost brick card ostrich approve retire attract invite control swallow make ill";
+var mnemonic = "random collect morning shove badge inherit tornado extra happy sell segment oil";
