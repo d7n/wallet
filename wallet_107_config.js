@@ -1,1 +1,1 @@
-var mnemonic = "cloud define virtual about bicycle copy guide core relief dismiss window physical";
+var mnemonic = "poverty scale senior share easy three firm absent slice verify tilt squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "second chef nothing method panel shock lunar arrange annual cloud lesson day";
+var mnemonic = "correct swap panel beauty conduct joke gap hurry true match rose window";

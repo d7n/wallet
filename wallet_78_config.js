@@ -1,1 +1,1 @@
-var mnemonic = "reveal sea piece buzz anchor message okay wolf syrup basket display beach";
+var mnemonic = "stool derive pottery fine focus bulk derive east diagram unveil screen pepper";

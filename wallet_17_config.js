@@ -1,1 +1,1 @@
-var mnemonic = "garment real cannon carbon caught diagram pledge another gather vehicle absorb bag";
+var mnemonic = "talent service puppy assist tattoo can crack saddle magnet matrix school vapor";

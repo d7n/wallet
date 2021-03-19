@@ -1,1 +1,1 @@
-var mnemonic = "parrot refuse raccoon museum arch until awake bottom prison pipe assume depend";
+var mnemonic = "minute display slow exotic matter outdoor human ride toss symbol electric merge";

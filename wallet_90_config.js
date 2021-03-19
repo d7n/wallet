@@ -1,1 +1,1 @@
-var mnemonic = "unique plunge midnight visa story summer game cradle evil gospel swap steel";
+var mnemonic = "slab trim casino eight super valley where cup mushroom inject junk wrap";

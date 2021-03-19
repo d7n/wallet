@@ -1,1 +1,1 @@
-var mnemonic = "runway depth jazz usual conduct smooth damage memory hockey ride shoulder damp";
+var mnemonic = "warm love envelope company icon please shy armed only distance donor want";

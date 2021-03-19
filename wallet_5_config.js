@@ -1,1 +1,1 @@
-var mnemonic = "blanket width credit defense disagree average belt trust creek hen basket that";
+var mnemonic = "adapt fun agree poem plate blouse donate agree wonder total act shop";

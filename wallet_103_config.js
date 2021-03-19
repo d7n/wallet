@@ -1,1 +1,1 @@
-var mnemonic = "day slow forget alley slam hip empower empower street save reform planet";
+var mnemonic = "fan apple horror regret goat tape supreme method unfair chimney version average";

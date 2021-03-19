@@ -1,1 +1,1 @@
-var mnemonic = "phrase idea awkward cable earn shoot cry oyster tank solution man skirt";
+var mnemonic = "planet agree smart tuna unaware attract evil jealous vanish reward brick cactus";

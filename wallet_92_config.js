@@ -1,1 +1,1 @@
-var mnemonic = "shaft lesson suffer lesson regret scrap tell journey replace outdoor banner retire";
+var mnemonic = "cup announce rather script lock motion blame divert range deal ladder chimney";

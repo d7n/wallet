@@ -1,1 +1,1 @@
-var mnemonic = "high inherit sick tongue hen aim elder long fit ride chimney fence";
+var mnemonic = "message error hire dynamic start dawn senior riot near flame finger cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "olive uphold catalog error visit steak cement token maple picnic release shell";
+var mnemonic = "afraid evoke abandon useless spirit pride soul pumpkin blue joy cross pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff runway bench sound rally mention point weird suspect trim situate rhythm";
+var mnemonic = "flat system sad meat twice bring machine cream few mouse camera sand";

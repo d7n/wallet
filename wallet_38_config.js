@@ -1,1 +1,1 @@
-var mnemonic = "obey aspect master produce west can assault faint soda private tribe picture";
+var mnemonic = "buyer fly endorse quality menu grid iron improve toe clog near economy";

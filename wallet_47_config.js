@@ -1,1 +1,1 @@
-var mnemonic = "extra curtain card ring sense express search hair banana hello coast diet";
+var mnemonic = "kiss venue horse safe mushroom rule jealous flat final zoo trade orient";

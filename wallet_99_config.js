@@ -1,1 +1,1 @@
-var mnemonic = "lock slim exchange casual hill raccoon eye certain cage foam viable person";
+var mnemonic = "share office egg logic bright spot inmate ostrich monster elevator sword stem";

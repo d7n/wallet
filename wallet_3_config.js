@@ -1,1 +1,1 @@
-var mnemonic = "jacket timber convince collect crouch power injury vacant merry book member fetch";
+var mnemonic = "resist volcano chef float rude example weird live rally tube inside city";

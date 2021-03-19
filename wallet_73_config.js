@@ -1,1 +1,1 @@
-var mnemonic = "away liberty person grunt suffer fancy multiply art clay thrive pulp runway";
+var mnemonic = "material play mango diamond tobacco buffalo lamp pause melt slam donate lucky";

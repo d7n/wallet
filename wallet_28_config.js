@@ -1,1 +1,1 @@
-var mnemonic = "easy split shift initial lift dance open screen trial drill leave omit";
+var mnemonic = "strike dose zebra nominee again broccoli day aim universe wrist thing try";

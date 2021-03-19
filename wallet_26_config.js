@@ -1,1 +1,1 @@
-var mnemonic = "print slogan floor foster frost session plug wheat dice confirm double waste";
+var mnemonic = "fall empower silver stage plastic camp cycle sort sunny dad reject wait";

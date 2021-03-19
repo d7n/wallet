@@ -1,1 +1,1 @@
-var mnemonic = "wash live grain maximum thunder choose hood expand upper filter proof only";
+var mnemonic = "spike enlist loan toss segment you cream hurt mandate swarm ahead plug";

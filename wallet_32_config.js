@@ -1,1 +1,1 @@
-var mnemonic = "excess debris tooth soup tortoise leopard plate frown analyst various length sudden";
+var mnemonic = "walnut real law element emerge tongue gold used fetch front visa stomach";

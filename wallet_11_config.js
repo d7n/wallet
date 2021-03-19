@@ -1,1 +1,1 @@
-var mnemonic = "afford wise supply convince globe laugh wave battle trend pitch business country";
+var mnemonic = "normal accuse donor frozen carpet patrol false keen puzzle mercy nose pilot";

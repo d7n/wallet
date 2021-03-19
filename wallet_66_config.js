@@ -1,1 +1,1 @@
-var mnemonic = "switch cancel put dial arm ill copper adult piece ranch track keep";
+var mnemonic = "cement chaos stereo entire service magnet used draw saddle amount shell lucky";

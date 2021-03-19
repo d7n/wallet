@@ -1,1 +1,1 @@
-var mnemonic = "seven shoulder ripple glow eyebrow labor organ desk leave share warrior priority";
+var mnemonic = "drift steak robust faith hen proof produce yard waste sting transfer census";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow alarm grant butter flock lottery hair forest faith symptom miss legend";
+var mnemonic = "lobster pitch olive airport inner near call busy muffin rabbit neither naive";

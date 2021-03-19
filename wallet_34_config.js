@@ -1,1 +1,1 @@
-var mnemonic = "betray alpha fade midnight yard inhale joy smooth eight write helmet reflect";
+var mnemonic = "credit tone combine carpet cat angle blanket sunset solve modify under recall";

@@ -1,1 +1,1 @@
-var mnemonic = "post window crane wage early unaware rotate grocery slight love damage agree";
+var mnemonic = "movie load inside cradle violin jelly maze find suspect select pause summer";

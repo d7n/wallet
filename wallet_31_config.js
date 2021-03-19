@@ -1,1 +1,1 @@
-var mnemonic = "smoke whisper manage canal amazing glory crisp target aspect paper genius helmet";
+var mnemonic = "mouse domain supply curious kidney cost adjust remind rookie absent gesture ankle";

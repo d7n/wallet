@@ -1,1 +1,1 @@
-var mnemonic = "glimpse kingdom heart slice bike prize unfair topic owner cart hat fever";
+var mnemonic = "small list collect real voice merry drum seven cannon property budget lock";

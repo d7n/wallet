@@ -1,1 +1,1 @@
-var mnemonic = "trend grocery tube reopen column bike found cry random smoke today stadium";
+var mnemonic = "can duck bulb clown echo switch provide vessel feature soccer goat prepare";

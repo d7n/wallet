@@ -1,1 +1,1 @@
-var mnemonic = "diesel crash vote basic atom claim mind art long stock trial reduce";
+var mnemonic = "biology knee genius gentle nephew derive cube judge raw require life topple";

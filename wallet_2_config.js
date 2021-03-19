@@ -1,1 +1,1 @@
-var mnemonic = "slender buddy lens plug plastic annual tiger slice load twenty peasant draft";
+var mnemonic = "cake ethics side butter inhale impulse frog clerk same canyon pluck act";

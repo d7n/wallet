@@ -1,1 +1,1 @@
-var mnemonic = "glass sphere aware frown offer stereo since field eyebrow doll flash oyster";
+var mnemonic = "stove ostrich toe ready nasty climb rare joke regular good print finish";

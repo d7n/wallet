@@ -1,1 +1,1 @@
-var mnemonic = "happy mail belt rigid elevator good thing enlist slam cricket void share";
+var mnemonic = "lift blade almost cheese cool trip range increase write coach fish yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz maze oak depth fish aerobic width deer sample injury wedding flower";
+var mnemonic = "twin peasant uncle chief tray topple evidence custom life sugar cream glare";

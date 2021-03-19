@@ -1,1 +1,1 @@
-var mnemonic = "ready famous tree cannon gown album resist shop weapon donor nature blouse";
+var mnemonic = "learn media blouse forget hold hover float clog pulse notable cricket net";

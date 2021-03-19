@@ -1,1 +1,1 @@
-var mnemonic = "minute seed guess assist pencil traffic effort rib april patch warfare salt";
+var mnemonic = "flip rookie shock roast judge galaxy pelican obtain myself crumble visit unique";

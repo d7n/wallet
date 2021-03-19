@@ -1,1 +1,1 @@
-var mnemonic = "violin churn sock next endless plunge deny hard cry palm bright cloth";
+var mnemonic = "cube gap boil cluster reject useful emerge book resist yard stone rug";

@@ -1,1 +1,1 @@
-var mnemonic = "chief family cement sphere two raccoon click barely aspect milk noble bitter";
+var mnemonic = "rescue decline frame undo carry swarm degree display kit drink term multiply";

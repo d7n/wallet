@@ -1,1 +1,1 @@
-var mnemonic = "yard flip sell pet ancient draw search amazing floor interest isolate tail";
+var mnemonic = "coral live transfer margin setup income talk divert fragile plastic lawsuit cheap";

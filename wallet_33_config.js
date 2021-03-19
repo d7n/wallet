@@ -1,1 +1,1 @@
-var mnemonic = "rib dose math game siren cannon sure father deputy van poem wisdom";
+var mnemonic = "moment physical turkey vivid maze shrimp gospel pupil divorce pink glance pilot";

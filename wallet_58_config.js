@@ -1,1 +1,1 @@
-var mnemonic = "glass fire confirm fetch goat sausage prosper weapon trophy transfer ring eager";
+var mnemonic = "surface perfect hawk smooth fiscal cactus animal clog gym machine square key";

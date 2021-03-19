@@ -1,1 +1,1 @@
-var mnemonic = "twin where grape slow stable sentence carbon fabric success please cousin wide";
+var mnemonic = "float radar humor adapt near grain stage clutch burst frequent credit earn";

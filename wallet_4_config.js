@@ -1,1 +1,1 @@
-var mnemonic = "wrong govern impact tree cross muscle okay bird trash wrestle swallow shy";
+var mnemonic = "nominee name useful surprise water double wealth indicate brush coast turn bamboo";

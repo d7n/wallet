@@ -1,1 +1,1 @@
-var mnemonic = "leader fade mercy push cheese glue humble spoil market raise clinic person";
+var mnemonic = "sure ignore quality gauge enlist square window burger account noble scorpion change";

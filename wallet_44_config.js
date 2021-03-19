@@ -1,1 +1,1 @@
-var mnemonic = "horn plug circle frame lyrics lawn exile between wink throw slot topic";
+var mnemonic = "skirt buyer easily clown august slogan pudding stamp desert art swallow museum";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster lawn robust athlete champion casual palm horse shy device spot kick";
+var mnemonic = "mansion abstract link body decorate elite scrap place spawn chicken sting online";

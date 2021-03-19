@@ -1,1 +1,1 @@
-var mnemonic = "crucial mechanic fix elegant dolphin obvious drink hammer leg favorite approve cradle";
+var mnemonic = "song gather bird moral yard skin exclude swap nut apology awake answer";

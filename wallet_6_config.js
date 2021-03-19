@@ -1,1 +1,1 @@
-var mnemonic = "prevent unique sugar lizard lift useful three donate original biology limit sell";
+var mnemonic = "arch powder want safe object return source retire weapon such bid pave";

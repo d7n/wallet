@@ -1,1 +1,1 @@
-var mnemonic = "stand journey clump more sea tissue neutral swear neglect adapt already meat";
+var mnemonic = "lift basket film ahead audit bulb direct firm interest food film produce";

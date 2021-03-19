@@ -1,1 +1,1 @@
-var mnemonic = "scheme carpet husband radio square youth blind magic fire filter confirm tiger";
+var mnemonic = "defy trim arrow family help drill blue author core bubble world coyote";

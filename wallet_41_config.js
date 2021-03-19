@@ -1,1 +1,1 @@
-var mnemonic = "clown venture spoil attitude shallow rival comfort refuse predict vibrant human fabric";
+var mnemonic = "resemble stone salmon century ready problem whale mimic tape purchase margin credit";

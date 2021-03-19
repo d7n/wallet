@@ -1,1 +1,1 @@
-var mnemonic = "casual game raise tip surround next history cushion pudding together crash disease";
+var mnemonic = "reform wet round predict fire genre word punch vanish cattle become glide";

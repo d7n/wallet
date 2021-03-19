@@ -1,1 +1,1 @@
-var mnemonic = "skill income crisp segment sentence over float upon lounge banner length invite";
+var mnemonic = "glance turn sleep hand okay asset news island month sad puzzle sense";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi spider kingdom property thought cycle aim upon satisfy hat prevent happy";
+var mnemonic = "trend cheap book squeeze harvest cup gadget reunion average false kitchen media";

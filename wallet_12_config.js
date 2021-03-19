@@ -1,1 +1,1 @@
-var mnemonic = "dress soccer open daring panda weekend cheap reform noodle glare release begin";
+var mnemonic = "bone rug excess upon bless genuine oak basic fire any rapid over";

@@ -1,1 +1,1 @@
-var mnemonic = "toss park icon govern magic amount cross capital oxygen violin cigar bargain";
+var mnemonic = "wish orient subway chair sure novel mix grow grain bar pause trust";

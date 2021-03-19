@@ -1,1 +1,1 @@
-var mnemonic = "chalk prevent powder adapt skull welcome update cute pave surge day electric";
+var mnemonic = "unknown ocean warm program business grocery banner raw ostrich balcony diary tortoise";

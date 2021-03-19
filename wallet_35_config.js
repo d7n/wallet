@@ -1,1 +1,1 @@
-var mnemonic = "cabin extra finger giggle treat spread people promote accident oval toy oyster";
+var mnemonic = "circle reward demand bar riot pole faith coil unfold reward mixture hedgehog";

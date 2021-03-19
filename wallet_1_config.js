@@ -1,1 +1,1 @@
-var mnemonic = "side flock coast build miracle rifle pause pull pole version file sketch";
+var mnemonic = "tuna mimic trip guilt parent weird company equal sure gown enroll put";

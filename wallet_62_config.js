@@ -1,1 +1,1 @@
-var mnemonic = "kiss try because shrimp novel ice monitor solar ladder arena feel capital";
+var mnemonic = "clerk hair build always alter common equal piece bottom crisp ritual tackle";

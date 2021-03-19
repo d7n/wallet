@@ -1,1 +1,1 @@
-var mnemonic = "pilot window fork logic track arrest region weather neutral repeat depend fee";
+var mnemonic = "test calm floor upset eager state cave siren border notice busy tragic";

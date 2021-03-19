@@ -1,1 +1,1 @@
-var mnemonic = "fix cruel tag clutch sleep prefer common dignity dust either giraffe domain";
+var mnemonic = "flavor execute total cable fall brain excite core achieve also balance emerge";

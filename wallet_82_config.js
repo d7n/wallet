@@ -1,1 +1,1 @@
-var mnemonic = "music frost wreck regular chronic manage ankle laptop mean hazard food north";
+var mnemonic = "pupil wasp indoor learn portion rotate improve zero please pumpkin prepare lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "topple blast series lend come parade jazz juice kangaroo then noodle donor";
+var mnemonic = "engine picnic practice couch sting fade supply reveal menu believe balance anger";

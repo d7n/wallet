@@ -1,1 +1,1 @@
-var mnemonic = "oil state grunt sight orchard topic seed void spring return brother bleak";
+var mnemonic = "explain group consider barrel boost wolf actress arctic own thrive swear hard";

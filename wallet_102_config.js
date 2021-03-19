@@ -1,1 +1,1 @@
-var mnemonic = "music left pottery genuine walnut acquire exile donate host dismiss humor setup";
+var mnemonic = "craft organ tired tiger aware quit rookie reduce tip demise guilt box";

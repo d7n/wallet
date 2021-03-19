@@ -1,1 +1,1 @@
-var mnemonic = "rebel burst lunar napkin rain dice hint decide action galaxy normal grape";
+var mnemonic = "front cancel aerobic supply carbon hidden hybrid bronze oppose resemble test silk";

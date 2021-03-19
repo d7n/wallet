@@ -1,1 +1,1 @@
-var mnemonic = "ship forum pencil come envelope despair large rough nice hire color snake";
+var mnemonic = "couch family search quiz ticket smoke agree fluid violin captain noodle can";

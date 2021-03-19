@@ -1,1 +1,1 @@
-var mnemonic = "laptop expand sudden oven problem oblige connect solve area place entire three";
+var mnemonic = "pigeon box ribbon fee around involve twist toddler success cupboard cereal coral";

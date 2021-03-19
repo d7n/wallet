@@ -1,1 +1,1 @@
-var mnemonic = "patrol material turtle turkey iron circle tongue dog exist trim mistake first";
+var mnemonic = "mandate soap lawsuit one seek crazy income total phrase relax album render";

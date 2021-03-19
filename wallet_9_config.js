@@ -1,1 +1,1 @@
-var mnemonic = "switch inside artist float garment despair pulp animal gather strike flight head";
+var mnemonic = "purse empty tragic beauty alter vocal sick glove cost banner slush custom";

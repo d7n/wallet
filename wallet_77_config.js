@@ -1,1 +1,1 @@
-var mnemonic = "major clap empty banner artefact draft deliver clump various nothing exercise vote";
+var mnemonic = "room anxiety wise rigid notice cherry steak motion call helmet pink alarm";

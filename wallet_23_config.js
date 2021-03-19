@@ -1,1 +1,1 @@
-var mnemonic = "poem worth brother giraffe drive concert name impact learn lecture major apology";
+var mnemonic = "summer success liquid hub cage keen tumble fiscal entry cable member kick";

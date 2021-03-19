@@ -1,1 +1,1 @@
-var mnemonic = "become uniform feed pluck crouch riot chase tag enhance lyrics wisdom radio";
+var mnemonic = "leopard rely toast target wear meadow stand hawk cupboard mule excuse elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "crush execute upper action dry uniform enable spatial layer amused town crash";
+var mnemonic = "awesome bird injury toast outer direct clever merit shell sentence boss crater";

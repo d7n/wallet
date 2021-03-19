@@ -1,1 +1,1 @@
-var mnemonic = "laugh inform effort lizard fiction pact faculty dream diesel meat dismiss silent";
+var mnemonic = "world another wrap crazy culture security film attack awful win link humble";

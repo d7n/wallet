@@ -1,1 +1,1 @@
-var mnemonic = "barely orient edge tape evolve confirm enjoy resist cry citizen dress chat";
+var mnemonic = "apology ask distance marriage ladder nose alter strike need churn cluster direct";

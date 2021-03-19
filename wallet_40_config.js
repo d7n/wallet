@@ -1,1 +1,1 @@
-var mnemonic = "blush grant search easily feel basic lonely figure wood swift clinic gaze";
+var mnemonic = "gun lake wild pig boost fat steak parent mask size cinnamon divert";

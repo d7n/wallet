@@ -1,1 +1,1 @@
-var mnemonic = "fetch unfair bundle antique mixed leader race artwork lady tell moment pink";
+var mnemonic = "join please dry helmet hammer credit book choose bomb elite amazing tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff into tone provide thunder exchange use velvet ridge airport home vendor";
+var mnemonic = "machine dream harbor achieve approve vibrant crack dolphin gain mouse mirror slim";

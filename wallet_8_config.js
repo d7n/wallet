@@ -1,1 +1,1 @@
-var mnemonic = "name humble decrease weekend fish design move rally trade horn thumb fly";
+var mnemonic = "property bottom knock cute follow omit present amazing olympic black able spell";

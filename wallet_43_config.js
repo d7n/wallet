@@ -1,1 +1,1 @@
-var mnemonic = "heavy air insect vague hair crowd impulse popular stamp trash vanish shine";
+var mnemonic = "tackle hope unusual obtain parade click fashion neither blade doctor chef fragile";

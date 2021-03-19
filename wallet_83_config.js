@@ -1,1 +1,1 @@
-var mnemonic = "figure case stable monster frame lunch earn champion erosion satoshi mass exotic";
+var mnemonic = "useful autumn diesel pepper sight wisdom tongue gather truth pretty hundred accuse";

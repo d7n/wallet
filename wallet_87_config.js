@@ -1,1 +1,1 @@
-var mnemonic = "supreme prosper age offer utility current install rug inquiry wine rookie horror";
+var mnemonic = "know whale bubble employ arrange punch list erode domain rebel canal razor";

@@ -1,1 +1,1 @@
-var mnemonic = "supply plunge final scatter sing check silk observe season around knife left";
+var mnemonic = "phone couple dish famous flat announce certain kidney abandon file camp modify";

@@ -1,1 +1,1 @@
-var mnemonic = "large traffic eye slush there once coral fashion weird regular sick witness";
+var mnemonic = "flower scrub cause pave bring crater aspect toss rural lava panda scene";
