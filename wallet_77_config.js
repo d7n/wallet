@@ -1,1 +1,1 @@
-var mnemonic = "top measure satisfy follow ship youth velvet poem orphan remain cage faculty";
+var mnemonic = "major clap empty banner artefact draft deliver clump various nothing exercise vote";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic beauty sleep transfer soft verify visa document hospital vivid thought reward";
+var mnemonic = "ship forum pencil come envelope despair large rough nice hire color snake";

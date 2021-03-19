@@ -1,1 +1,1 @@
-var mnemonic = "beyond chase proof wish alpha taste inquiry broccoli measure kangaroo hunt push";
+var mnemonic = "chief family cement sphere two raccoon click barely aspect milk noble bitter";

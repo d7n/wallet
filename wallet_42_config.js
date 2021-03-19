@@ -1,1 +1,1 @@
-var mnemonic = "divorce undo invite toss under because supply lawn flock cruel change baby";
+var mnemonic = "post window crane wage early unaware rotate grocery slight love damage agree";

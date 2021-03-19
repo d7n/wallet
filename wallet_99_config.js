@@ -1,1 +1,1 @@
-var mnemonic = "seminar example coil city keen motor build wet bike boy point cotton";
+var mnemonic = "lock slim exchange casual hill raccoon eye certain cage foam viable person";

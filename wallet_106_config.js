@@ -1,1 +1,1 @@
-var mnemonic = "absent turkey october silent shaft vote embark bacon soup tennis limb journey";
+var mnemonic = "can mask possible erupt pledge vessel jewel ozone put double fortune chapter";

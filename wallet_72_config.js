@@ -1,1 +1,1 @@
-var mnemonic = "sphere faculty mutual hurdle ring canal club shaft tornado expire physical baby";
+var mnemonic = "second chef nothing method panel shock lunar arrange annual cloud lesson day";

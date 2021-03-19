@@ -1,1 +1,1 @@
-var mnemonic = "image segment tissue venture until arena final busy river cage science resource";
+var mnemonic = "trend grocery tube reopen column bike found cry random smoke today stadium";

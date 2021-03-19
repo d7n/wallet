@@ -1,1 +1,1 @@
-var mnemonic = "ship boy educate fault sure flat idle outer crouch current evidence analyst";
+var mnemonic = "glass sphere aware frown offer stereo since field eyebrow doll flash oyster";

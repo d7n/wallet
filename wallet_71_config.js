@@ -1,1 +1,1 @@
-var mnemonic = "maple easy infant cash fold coyote umbrella seat seminar absurd kick pink";
+var mnemonic = "wash live grain maximum thunder choose hood expand upper filter proof only";

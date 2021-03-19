@@ -1,1 +1,1 @@
-var mnemonic = "rail suggest coin have stay fruit salad act pony diesel situate avoid";
+var mnemonic = "flee bench lyrics combine version report useful stove return panda fever cabin";

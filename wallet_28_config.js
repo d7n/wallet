@@ -1,1 +1,1 @@
-var mnemonic = "route team teach hint window cram orbit special fortune language pilot brown";
+var mnemonic = "easy split shift initial lift dance open screen trial drill leave omit";

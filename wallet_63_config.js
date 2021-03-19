@@ -1,1 +1,1 @@
-var mnemonic = "number cloth giggle dune web mom response mandate soap age zoo health";
+var mnemonic = "sign obscure fiction original silly mechanic hawk explain casino gospel exist certain";

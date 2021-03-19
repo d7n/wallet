@@ -1,1 +1,1 @@
-var mnemonic = "scene sniff calm original balance charge waste entry staff radar roast arch";
+var mnemonic = "cliff runway bench sound rally mention point weird suspect trim situate rhythm";

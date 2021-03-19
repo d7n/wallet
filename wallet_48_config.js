@@ -1,1 +1,1 @@
-var mnemonic = "fee mixture build valid bunker leave dance parrot seat dress mechanic road";
+var mnemonic = "phrase idea awkward cable earn shoot cry oyster tank solution man skirt";

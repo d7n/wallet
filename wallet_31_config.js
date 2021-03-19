@@ -1,1 +1,1 @@
-var mnemonic = "taxi equal cream adjust zero hint bright maze cluster holiday theme lady";
+var mnemonic = "smoke whisper manage canal amazing glory crisp target aspect paper genius helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "cry rug walnut man test afford oil crane output cycle ankle wall";
+var mnemonic = "reject public safe same slim excite layer plastic saddle give grant lend";

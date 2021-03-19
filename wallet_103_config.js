@@ -1,1 +1,1 @@
-var mnemonic = "milk gallery final nurse rib maze ice topic once luggage bronze lumber";
+var mnemonic = "day slow forget alley slam hip empower empower street save reform planet";

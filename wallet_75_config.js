@@ -1,1 +1,1 @@
-var mnemonic = "cake oyster hard input normal say faint spice timber shield business easily";
+var mnemonic = "sheriff into tone provide thunder exchange use velvet ridge airport home vendor";

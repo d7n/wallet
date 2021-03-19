@@ -1,1 +1,1 @@
-var mnemonic = "digital dinner have six inmate tape venue photo supreme honey stamp rookie";
+var mnemonic = "slender buddy lens plug plastic annual tiger slice load twenty peasant draft";

@@ -1,1 +1,1 @@
-var mnemonic = "mean stage pig flip force duck daughter crucial keen view giraffe salt";
+var mnemonic = "garment real cannon carbon caught diagram pledge another gather vehicle absorb bag";

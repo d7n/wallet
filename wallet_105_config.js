@@ -1,1 +1,1 @@
-var mnemonic = "multiply shop surface brisk city basket admit purchase asset pulp immense lunch";
+var mnemonic = "crucial mechanic fix elegant dolphin obvious drink hammer leg favorite approve cradle";

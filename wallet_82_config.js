@@ -1,1 +1,1 @@
-var mnemonic = "promote main pear midnight daring nose speed add artwork swim like indicate";
+var mnemonic = "music frost wreck regular chronic manage ankle laptop mean hazard food north";

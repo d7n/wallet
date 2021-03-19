@@ -1,1 +1,1 @@
-var mnemonic = "please essay uncle action asset fetch cage museum across update melt bulk";
+var mnemonic = "glimpse kingdom heart slice bike prize unfair topic owner cart hat fever";

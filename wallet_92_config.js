@@ -1,1 +1,1 @@
-var mnemonic = "blush apple roof doll river blouse miracle wrong lounge boat chef list";
+var mnemonic = "shaft lesson suffer lesson regret scrap tell journey replace outdoor banner retire";

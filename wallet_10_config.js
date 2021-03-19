@@ -1,1 +1,1 @@
-var mnemonic = "party flight rookie lottery ticket wave pond vital mean symptom panther water";
+var mnemonic = "million decide gap first unit juice elbow obey timber garlic sing oxygen";

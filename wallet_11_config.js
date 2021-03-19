@@ -1,1 +1,1 @@
-var mnemonic = "electric wrong brand arrange human now vocal veteran twenty below into canal";
+var mnemonic = "afford wise supply convince globe laugh wave battle trend pitch business country";

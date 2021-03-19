@@ -1,1 +1,1 @@
-var mnemonic = "swarm disease health such evil always math champion soup festival dinosaur daughter";
+var mnemonic = "floor utility drip bridge gain pool eye usual live immune tone truck";

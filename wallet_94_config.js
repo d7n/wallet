@@ -1,1 +1,1 @@
-var mnemonic = "owner inhale gesture law mule chaos velvet fly arm this flash connect";
+var mnemonic = "barely orient edge tape evolve confirm enjoy resist cry citizen dress chat";

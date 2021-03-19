@@ -1,1 +1,1 @@
-var mnemonic = "shrug canoe board address flee client aim blanket drink goddess rude bunker";
+var mnemonic = "minute seed guess assist pencil traffic effort rib april patch warfare salt";

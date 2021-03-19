@@ -1,1 +1,1 @@
-var mnemonic = "minimum point scare share hint above melody relax spoon drip tourist swift";
+var mnemonic = "name humble decrease weekend fish design move rally trade horn thumb fly";

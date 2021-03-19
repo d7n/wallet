@@ -1,1 +1,1 @@
-var mnemonic = "quick label priority woman obey chronic advice barrel once security boat pave";
+var mnemonic = "heavy air insect vague hair crowd impulse popular stamp trash vanish shine";

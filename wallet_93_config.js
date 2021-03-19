@@ -1,1 +1,1 @@
-var mnemonic = "ramp caution can romance feature cradle budget project pave dash dragon stable";
+var mnemonic = "chalk prevent powder adapt skull welcome update cute pave surge day electric";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust calm kick invest mushroom demand stairs pipe drama sunset type shed";
+var mnemonic = "airport annual nut walnut artefact oppose denial suggest hint life stem urban";

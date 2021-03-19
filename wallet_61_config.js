@@ -1,1 +1,1 @@
-var mnemonic = "bread tail depend tent modify hundred can devote board glass visit ball";
+var mnemonic = "olive uphold catalog error visit steak cement token maple picnic release shell";

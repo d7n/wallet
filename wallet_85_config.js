@@ -1,1 +1,1 @@
-var mnemonic = "badge inject canal obscure quick soccer deputy pig outside speak gown month";
+var mnemonic = "jaguar genuine print armed artwork reduce jewel forest finger subject shoe ribbon";

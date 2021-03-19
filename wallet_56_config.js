@@ -1,1 +1,1 @@
-var mnemonic = "fossil run couple suggest reflect observe rural popular matter together upon mind";
+var mnemonic = "crush execute upper action dry uniform enable spatial layer amused town crash";

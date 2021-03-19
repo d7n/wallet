@@ -1,1 +1,1 @@
-var mnemonic = "range shadow bonus peanut pledge firm clap subway oven list sell hurdle";
+var mnemonic = "topple blast series lend come parade jazz juice kangaroo then noodle donor";

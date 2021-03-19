@@ -1,1 +1,1 @@
-var mnemonic = "know feature whale pottery lake pelican tank wrist because awake expand trap";
+var mnemonic = "cluster lawn robust athlete champion casual palm horse shy device spot kick";

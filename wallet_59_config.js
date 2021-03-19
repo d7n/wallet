@@ -1,1 +1,1 @@
-var mnemonic = "grunt mention tonight gaze dad hip wolf success envelope borrow rate trust";
+var mnemonic = "ladder act scare receive cat trip crystal ordinary save copy wealth advance";

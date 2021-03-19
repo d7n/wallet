@@ -1,1 +1,1 @@
-var mnemonic = "add wine diagram tiny window dumb give toilet can similar squeeze luxury";
+var mnemonic = "wrong govern impact tree cross muscle okay bird trash wrestle swallow shy";

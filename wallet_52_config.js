@@ -1,1 +1,1 @@
-var mnemonic = "typical hair dawn floor plug robot couple achieve brick glow brother pudding";
+var mnemonic = "laugh inform effort lizard fiction pact faculty dream diesel meat dismiss silent";

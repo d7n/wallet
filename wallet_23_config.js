@@ -1,1 +1,1 @@
-var mnemonic = "cool draw want mixed judge web dumb wedding pear palace eternal mansion";
+var mnemonic = "poem worth brother giraffe drive concert name impact learn lecture major apology";

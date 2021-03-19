@@ -1,1 +1,1 @@
-var mnemonic = "try region long convince awful style teach diary leaf cost know what";
+var mnemonic = "betray alpha fade midnight yard inhale joy smooth eight write helmet reflect";

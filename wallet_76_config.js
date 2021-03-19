@@ -1,1 +1,1 @@
-var mnemonic = "tackle strike lift midnight girl autumn monitor celery volume bargain nominee silly";
+var mnemonic = "hawk vessel club attack stomach spot blush viable coin dynamic foil blush";

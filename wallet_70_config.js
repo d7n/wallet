@@ -1,1 +1,1 @@
-var mnemonic = "enroll century sibling identify senior power mirror ship gesture balance wire cotton";
+var mnemonic = "involve skate cable man immune climb toilet absorb birth squeeze embody bamboo";

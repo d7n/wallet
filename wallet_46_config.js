@@ -1,1 +1,1 @@
-var mnemonic = "interest dash above morning mystery solution ski absurd wrong zebra rough drink";
+var mnemonic = "volume cement dawn reject uncle catch clutch harvest kind aim member derive";

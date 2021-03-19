@@ -1,1 +1,1 @@
-var mnemonic = "ocean vapor document green exist course usage fashion young virus loan curtain";
+var mnemonic = "pilot window fork logic track arrest region weather neutral repeat depend fee";

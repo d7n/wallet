@@ -1,1 +1,1 @@
-var mnemonic = "fall carpet rebel patrol panda reunion place lock gap edit involve boat";
+var mnemonic = "rebel burst lunar napkin rain dice hint decide action galaxy normal grape";

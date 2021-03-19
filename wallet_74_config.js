@@ -1,1 +1,1 @@
-var mnemonic = "clean mistake push wreck love find episode quick before vacant sketch cash";
+var mnemonic = "hollow alarm grant butter flock lottery hair forest faith symptom miss legend";

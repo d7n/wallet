@@ -1,1 +1,1 @@
-var mnemonic = "sort sphere consider convince rather tiger feed sibling seminar rate spring candy";
+var mnemonic = "runway depth jazz usual conduct smooth damage memory hockey ride shoulder damp";

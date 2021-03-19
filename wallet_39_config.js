@@ -1,1 +1,1 @@
-var mnemonic = "slight present tumble biology enrich city fragile arrive height rent tired bind";
+var mnemonic = "laptop expand sudden oven problem oblige connect solve area place entire three";

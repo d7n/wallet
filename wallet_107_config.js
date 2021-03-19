@@ -1,1 +1,1 @@
-var mnemonic = "result truck spirit chunk foil surface sponsor divert social slot bright can";
+var mnemonic = "cloud define virtual about bicycle copy guide core relief dismiss window physical";

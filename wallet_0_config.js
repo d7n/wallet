@@ -1,1 +1,1 @@
-var mnemonic = "armor shy drastic horse approve merge blame sorry various cotton broom robust";
+var mnemonic = "twin where grape slow stable sentence carbon fabric success please cousin wide";

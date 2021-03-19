@@ -1,1 +1,1 @@
-var mnemonic = "recycle puzzle source slice method couple vacant entry witness movie boost survey";
+var mnemonic = "dress soccer open daring panda weekend cheap reform noodle glare release begin";

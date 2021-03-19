@@ -1,1 +1,1 @@
-var mnemonic = "code employ swear emotion bag canyon legal valley shed pony vital print";
+var mnemonic = "reveal sea piece buzz anchor message okay wolf syrup basket display beach";

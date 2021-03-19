@@ -1,1 +1,1 @@
-var mnemonic = "evolve blossom enforce element spoon travel library diesel crush foam spoil horn";
+var mnemonic = "prevent unique sugar lizard lift useful three donate original biology limit sell";

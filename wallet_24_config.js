@@ -1,1 +1,1 @@
-var mnemonic = "permit peanut island load price gate submit absurd stuff range world company";
+var mnemonic = "toss park icon govern magic amount cross capital oxygen violin cigar bargain";

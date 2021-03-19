@@ -1,1 +1,1 @@
-var mnemonic = "idea bracket label upgrade interest impose omit ahead brown salute couple silent";
+var mnemonic = "unique plunge midnight visa story summer game cradle evil gospel swap steel";

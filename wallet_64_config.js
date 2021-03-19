@@ -1,1 +1,1 @@
-var mnemonic = "visit dumb armed grass unfair pottery ten puppy pave lady lunch tuition";
+var mnemonic = "ready famous tree cannon gown album resist shop weapon donor nature blouse";

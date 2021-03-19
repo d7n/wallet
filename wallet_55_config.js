@@ -1,1 +1,1 @@
-var mnemonic = "dilemma guilt garlic sunset scrub broken soon machine bar monkey trigger where";
+var mnemonic = "doctor ability diamond size laugh march stairs ankle fun salmon upset physical";

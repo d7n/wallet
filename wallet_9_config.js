@@ -1,1 +1,1 @@
-var mnemonic = "armor voice arctic cotton retire general around spoil praise mixed sunset chronic";
+var mnemonic = "switch inside artist float garment despair pulp animal gather strike flight head";

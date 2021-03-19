@@ -1,1 +1,1 @@
-var mnemonic = "vibrant argue grape soft light museum soup vicious kitten chef bicycle winter";
+var mnemonic = "seven shoulder ripple glow eyebrow labor organ desk leave share warrior priority";

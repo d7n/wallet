@@ -1,1 +1,1 @@
-var mnemonic = "this wire boss traffic tobacco recall pizza rival divert salad squeeze calm";
+var mnemonic = "scheme carpet husband radio square youth blind magic fire filter confirm tiger";

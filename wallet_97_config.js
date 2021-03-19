@@ -1,1 +1,1 @@
-var mnemonic = "test age clog screen picnic short oval warrior six error priority wave";
+var mnemonic = "yard flip sell pet ancient draw search amazing floor interest isolate tail";

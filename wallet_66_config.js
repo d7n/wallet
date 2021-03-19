@@ -1,1 +1,1 @@
-var mnemonic = "now inherit slot grocery check soldier family enemy sustain wall robust cement";
+var mnemonic = "switch cancel put dial arm ill copper adult piece ranch track keep";

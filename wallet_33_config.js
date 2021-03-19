@@ -1,1 +1,1 @@
-var mnemonic = "drastic kid pave dismiss desert improve amused add zone cycle tired jump";
+var mnemonic = "rib dose math game siren cannon sure father deputy van poem wisdom";

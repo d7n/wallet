@@ -1,1 +1,1 @@
-var mnemonic = "toss universe uncle disorder save into beef they waste innocent pipe chicken";
+var mnemonic = "salute shallow permit script glimpse equal basic eager reopen old six steak";

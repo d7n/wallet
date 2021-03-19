@@ -1,1 +1,1 @@
-var mnemonic = "balance pull share skill muscle path judge dance glide carry garden trust";
+var mnemonic = "large traffic eye slush there once coral fashion weird regular sick witness";

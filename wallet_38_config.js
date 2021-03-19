@@ -1,1 +1,1 @@
-var mnemonic = "tunnel audit crouch vivid cabin lucky antenna team child palm hub avoid";
+var mnemonic = "obey aspect master produce west can assault faint soda private tribe picture";

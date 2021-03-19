@@ -1,1 +1,1 @@
-var mnemonic = "frog seek marriage type kidney sun game very brief push head tilt";
+var mnemonic = "hole survey enlist wing wolf receive such cook notable pear achieve useful";

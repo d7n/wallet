@@ -1,1 +1,1 @@
-var mnemonic = "scorpion together throw trust direct pitch amused black power fan total bridge";
+var mnemonic = "parrot refuse raccoon museum arch until awake bottom prison pipe assume depend";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy fantasy artist tuna loud digital want split swamp fish move artwork";
+var mnemonic = "amused sword cloud lion chest inhale bleak cave door describe axis loud";

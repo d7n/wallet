@@ -1,1 +1,1 @@
-var mnemonic = "recall crater lake hockey park lab antenna tornado tenant lamp valid valley";
+var mnemonic = "violin churn sock next endless plunge deny hard cry palm bright cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "claim canoe guard sniff angry tank silver artefact write toddler valley undo";
+var mnemonic = "supply plunge final scatter sing check silk observe season around knife left";

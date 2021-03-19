@@ -1,1 +1,1 @@
-var mnemonic = "adapt portion under cement ostrich van net super stand open pulp kiss";
+var mnemonic = "fix cruel tag clutch sleep prefer common dignity dust either giraffe domain";

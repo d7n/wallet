@@ -1,1 +1,1 @@
-var mnemonic = "cage relax much boil chimney kiss salute liar shoe abuse avoid uncover";
+var mnemonic = "horn plug circle frame lyrics lawn exile between wink throw slot topic";

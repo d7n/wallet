@@ -1,1 +1,1 @@
-var mnemonic = "sad table park suspect spend frown rely shadow feed upon client annual";
+var mnemonic = "kiss try because shrimp novel ice monitor solar ladder arena feel capital";

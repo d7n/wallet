@@ -1,1 +1,1 @@
-var mnemonic = "also news meadow name task worry radar elephant dwarf dismiss weird throw";
+var mnemonic = "high inherit sick tongue hen aim elder long fit ride chimney fence";

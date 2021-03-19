@@ -1,1 +1,1 @@
-var mnemonic = "stay clerk minimum cheese rocket life vast dignity twin engine zero diesel";
+var mnemonic = "clown venture spoil attitude shallow rival comfort refuse predict vibrant human fabric";

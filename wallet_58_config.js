@@ -1,1 +1,1 @@
-var mnemonic = "across later pear index swap choice insect valid hollow magic sibling city";
+var mnemonic = "glass fire confirm fetch goat sausage prosper weapon trophy transfer ring eager";

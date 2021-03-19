@@ -1,1 +1,1 @@
-var mnemonic = "open know tail sibling reduce speed wear debris ozone similar crawl coffee";
+var mnemonic = "jazz maze oak depth fish aerobic width deer sample injury wedding flower";

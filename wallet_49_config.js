@@ -1,1 +1,1 @@
-var mnemonic = "trap empower love rescue setup apple mirror potato topple erupt journey will";
+var mnemonic = "casual game raise tip surround next history cushion pudding together crash disease";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee vacuum yellow erode cabin pause leg elder mad that lecture shoulder";
+var mnemonic = "blush grant search easily feel basic lonely figure wood swift clinic gaze";

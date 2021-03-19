@@ -1,1 +1,1 @@
-var mnemonic = "carry stone kiwi stay bacon detail radio broccoli chalk spoon lesson sentence";
+var mnemonic = "blanket width credit defense disagree average belt trust creek hen basket that";

@@ -1,1 +1,1 @@
-var mnemonic = "soft fiscal title address damage profit fantasy plastic viable wide load tail";
+var mnemonic = "praise leader wealth spider hair autumn tiger muffin one maid stem enforce";

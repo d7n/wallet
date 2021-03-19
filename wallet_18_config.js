@@ -1,1 +1,1 @@
-var mnemonic = "ordinary omit exile phrase leaf heavy position shrimp broccoli grief since lava";
+var mnemonic = "tongue canal arctic lucky describe innocent mimic unusual release spy urge fork";

@@ -1,1 +1,1 @@
-var mnemonic = "hour movie seed brown suspect forget soul push buffalo ski seven doll";
+var mnemonic = "figure case stable monster frame lunch earn champion erosion satoshi mass exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "pair number census ask finish guitar section warrior upon crash actual beef";
+var mnemonic = "patrol material turtle turkey iron circle tongue dog exist trim mistake first";

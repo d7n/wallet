@@ -1,1 +1,1 @@
-var mnemonic = "practice message ripple devote gate poem narrow item size exercise this antique";
+var mnemonic = "skill income crisp segment sentence over float upon lounge banner length invite";
