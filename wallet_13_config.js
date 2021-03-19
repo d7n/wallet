@@ -1,1 +1,1 @@
-var mnemonic = "borrow bid combine opera toilet frown photo cruel lend prevent winter pink";
+var mnemonic = "tornado lemon theme change quality century pear vacuum cupboard cook purity guitar";

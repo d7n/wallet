@@ -1,1 +1,1 @@
-var mnemonic = "timber forest fork figure mountain asthma two inmate crack inspire stomach thunder";
+var mnemonic = "wasp monitor defense fitness rabbit jungle guilt amazing dwarf spare tuna sausage";

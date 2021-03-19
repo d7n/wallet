@@ -1,1 +1,1 @@
-var mnemonic = "garage peace rescue poem table visa coral this random chalk peace picture";
+var mnemonic = "woman else giraffe decade fiscal rack bring slight sort suggest scrub series";

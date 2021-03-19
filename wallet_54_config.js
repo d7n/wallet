@@ -1,1 +1,1 @@
-var mnemonic = "close cupboard borrow excuse hood bounce sell book patrol bracket width marine";
+var mnemonic = "ecology winter oven breeze sniff bamboo fashion noble decline spy fish holiday";

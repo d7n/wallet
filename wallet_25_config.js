@@ -1,1 +1,1 @@
-var mnemonic = "fine shield decline fancy summer jazz describe snack cool burden fossil small";
+var mnemonic = "rack season erode moral ready sting ugly rival oil bench burden woman";

@@ -1,1 +1,1 @@
-var mnemonic = "juice renew copper mouse ramp solid rare together drive system pelican deny";
+var mnemonic = "road aware damage hurt digital resist service basket battle length scissors then";

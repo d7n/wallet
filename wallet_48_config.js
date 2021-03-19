@@ -1,1 +1,1 @@
-var mnemonic = "elevator piece antique impulse media explain stumble oppose drastic garment radar talent";
+var mnemonic = "valve better photo merry potato depart vanish certain until text hair floor";

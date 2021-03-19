@@ -1,1 +1,1 @@
-var mnemonic = "royal good brass guard kit media custom doll train drift assault soft";
+var mnemonic = "write typical skull short coyote drink hybrid garden crew orphan dilemma reopen";

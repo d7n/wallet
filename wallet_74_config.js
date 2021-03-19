@@ -1,1 +1,1 @@
-var mnemonic = "frequent virus glove ribbon defy huge corn message music kiss gentle escape";
+var mnemonic = "artwork quote balance derive token sugar seven wrap siren wide beach eye";

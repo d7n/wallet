@@ -1,1 +1,1 @@
-var mnemonic = "survey sight vote inch charge mystery pen little ride loud vanish hello";
+var mnemonic = "clerk term tail family stumble sample want few weather kingdom angry blade";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff patrol bind final toddler antenna timber cry sugar payment cabbage injury";
+var mnemonic = "memory tenant vacuum royal lobster kitchen hero latin ripple cancel oval water";

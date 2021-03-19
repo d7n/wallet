@@ -1,1 +1,1 @@
-var mnemonic = "sound lens foot sunset wrist universe uncover ketchup ready despair plate angle";
+var mnemonic = "prevent alcohol mandate exit mind join crouch diagram own believe cereal trophy";

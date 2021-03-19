@@ -1,1 +1,1 @@
-var mnemonic = "cradle tired this rifle maple hour boring glass tree spy cattle gate";
+var mnemonic = "birth pledge garbage labor hamster nation rifle tone rocket tube fiscal field";

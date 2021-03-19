@@ -1,1 +1,1 @@
-var mnemonic = "school seek slot funny debate squirrel able kind maximum wagon maid ahead";
+var mnemonic = "leaf gauge hurt demand inmate daughter round need doctor grit choose pledge";

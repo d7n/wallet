@@ -1,1 +1,1 @@
-var mnemonic = "junior journey price zone cabin exchange when future identify grow useless unknown";
+var mnemonic = "baby road drama arm bicycle dumb trick salmon fortune relax planet indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "desk cart village tomato remain over pretty seat sibling matrix van laugh";
+var mnemonic = "window such gun oak general alcohol vapor cream gorilla good shoulder scrap";

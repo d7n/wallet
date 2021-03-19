@@ -1,1 +1,1 @@
-var mnemonic = "actress stock merge glide update enable melt uphold brick rice knife tobacco";
+var mnemonic = "bargain pelican again genuine neck crew trumpet oblige favorite rally celery march";

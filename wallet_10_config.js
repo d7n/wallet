@@ -1,1 +1,1 @@
-var mnemonic = "real dress easily account dilemma machine rule renew ugly reject okay bulb";
+var mnemonic = "worth rice tortoise place basket wing false blast wall ship verb panic";

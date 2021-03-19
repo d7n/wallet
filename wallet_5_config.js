@@ -1,1 +1,1 @@
-var mnemonic = "right panther sword pair keen promote tooth april lottery club onion stumble";
+var mnemonic = "banana blood nose matrix forum road orient vacuum unit chief clown usual";

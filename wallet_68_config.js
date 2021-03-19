@@ -1,1 +1,1 @@
-var mnemonic = "scan ghost latin figure isolate ozone actress fury vital unveil gun piece";
+var mnemonic = "into strike lift gather word setup reason knife where lawn practice obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "exact stamp slide omit fog opera concert recipe monitor believe peanut hero";
+var mnemonic = "dance provide mule flush quality forget work rich spirit asset cereal employ";

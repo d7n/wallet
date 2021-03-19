@@ -1,1 +1,1 @@
-var mnemonic = "drink skin century wedding burger iron science keen catalog knock nurse naive";
+var mnemonic = "echo devote load decrease mean fatal prefer imitate drink strong city shrug";

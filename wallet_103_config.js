@@ -1,1 +1,1 @@
-var mnemonic = "deny bamboo common small spawn morning green include settle giraffe dismiss utility";
+var mnemonic = "peasant wolf frame kitten novel liberty veteran damage pulp edge future dose";

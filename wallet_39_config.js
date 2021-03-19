@@ -1,1 +1,1 @@
-var mnemonic = "chronic grant quarter kite leg lawsuit misery goat warfare quiz consider cheap";
+var mnemonic = "chest rate ahead radio tissue glove seat produce burst question ensure drum";

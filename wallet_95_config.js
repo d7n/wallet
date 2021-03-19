@@ -1,1 +1,1 @@
-var mnemonic = "suffer section unit profit example myself sudden crowd tag amateur tissue stage";
+var mnemonic = "acid capital share blind party federal day learn laptop door fault lesson";

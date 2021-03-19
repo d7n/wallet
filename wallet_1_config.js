@@ -1,1 +1,1 @@
-var mnemonic = "scheme whale sniff opinion glimpse sock rely tenant harsh cover flip illness";
+var mnemonic = "air fork egg news casual lock reform dry antique behave elite bacon";

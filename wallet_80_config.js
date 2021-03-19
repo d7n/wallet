@@ -1,1 +1,1 @@
-var mnemonic = "assume cat zoo earth provide swallow road rare reveal base can quantum";
+var mnemonic = "resource immune pony laptop trade lawsuit biology burst initial hammer wood upset";

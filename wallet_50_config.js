@@ -1,1 +1,1 @@
-var mnemonic = "loop idea pause charge raven shy license above fossil play inhale sustain";
+var mnemonic = "thank twin major kite describe join clap hub tape spy gap gorilla";

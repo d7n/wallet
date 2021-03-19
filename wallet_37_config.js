@@ -1,1 +1,1 @@
-var mnemonic = "case awake music wrap language ancient hand noodle patient economy curtain mesh";
+var mnemonic = "offer save million board party banana panda find diesel cup timber foot";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme situate speak worth town taste vapor ghost tomorrow anxiety unique deputy";
+var mnemonic = "still apology trend open shiver industry orient narrow tiger trip mountain current";

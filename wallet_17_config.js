@@ -1,1 +1,1 @@
-var mnemonic = "tank remember occur animal program curve tail craft monkey bar win stamp";
+var mnemonic = "enjoy little chair forget seed elbow suggest analyst purpose bread remove exist";

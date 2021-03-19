@@ -1,1 +1,1 @@
-var mnemonic = "fee capital butter leisure differ panther matter sight awake north apart virus";
+var mnemonic = "foil fringe lemon length dirt pudding luggage mouse connect local garage vocal";

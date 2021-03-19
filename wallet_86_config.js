@@ -1,1 +1,1 @@
-var mnemonic = "gravity rare glory deal female once course stamp flag pull whip tiny";
+var mnemonic = "artist trade flag execute knee jaguar ketchup degree poverty eyebrow spatial recall";

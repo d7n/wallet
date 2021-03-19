@@ -1,1 +1,1 @@
-var mnemonic = "shoulder engage fiber mushroom army intact donate winter toward strong damp immense";
+var mnemonic = "allow nominee plate first diesel heavy enable faith hawk trim loop promote";

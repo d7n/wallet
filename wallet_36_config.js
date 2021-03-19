@@ -1,1 +1,1 @@
-var mnemonic = "eagle loud robot paddle innocent survey club feel above post plastic news";
+var mnemonic = "morning differ vivid member equal discover donkey keen proud brain chuckle oppose";

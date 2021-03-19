@@ -1,1 +1,1 @@
-var mnemonic = "swing help enact leaf glare spike fault social art length dance plug";
+var mnemonic = "outdoor embark obscure minimum cinnamon smoke trial pass empower pony sugar lumber";

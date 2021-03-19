@@ -1,1 +1,1 @@
-var mnemonic = "soft shed rifle measure play dismiss engage drastic neutral sustain puzzle disease";
+var mnemonic = "velvet ribbon fish over subway canvas garden remember until swap horn process";

@@ -1,1 +1,1 @@
-var mnemonic = "area speed sunny offer small reunion valley truly curious eye universe leg";
+var mnemonic = "casino robust dial festival embody myself pudding mail consider pill flavor episode";

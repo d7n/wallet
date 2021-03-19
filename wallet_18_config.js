@@ -1,1 +1,1 @@
-var mnemonic = "cream photo renew spin curtain dance bird execute dune post promote lend";
+var mnemonic = "excess scissors volume goat pole pride minimum useful knock random soul cable";

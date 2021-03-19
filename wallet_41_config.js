@@ -1,1 +1,1 @@
-var mnemonic = "fork sort supply review cherry vintage beach ski fluid magic solution elevator";
+var mnemonic = "wrong siege acoustic child anger tortoise wonder today chaos mouse mechanic submit";

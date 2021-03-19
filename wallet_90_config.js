@@ -1,1 +1,1 @@
-var mnemonic = "sphere gas please consider gun topic leopard now seek hip distance famous";
+var mnemonic = "evil tackle shrug edge drop memory true nuclear long buddy humor session";

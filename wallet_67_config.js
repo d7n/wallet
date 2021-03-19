@@ -1,1 +1,1 @@
-var mnemonic = "hope dismiss core surface focus course entry field artist expire guitar brother";
+var mnemonic = "suspect latin orchard broom ranch say supreme evidence bird swamp chef abandon";

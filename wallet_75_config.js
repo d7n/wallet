@@ -1,1 +1,1 @@
-var mnemonic = "tell private prize ghost minute inflict glow matrix dirt desk debris diamond";
+var mnemonic = "resist cover either accuse nerve stove top open estate pizza useless spare";

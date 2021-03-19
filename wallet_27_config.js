@@ -1,1 +1,1 @@
-var mnemonic = "great hero effort wife slogan mean galaxy sport jazz perfect ladder own";
+var mnemonic = "shrug error just beauty kiwi resource dose benefit asset gather welcome bright";

@@ -1,1 +1,1 @@
-var mnemonic = "betray decrease follow panther palace amazing have assault twelve board husband trigger";
+var mnemonic = "friend wrong chaos alley plate vapor cement setup addict bachelor nerve alien";

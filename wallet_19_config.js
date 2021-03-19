@@ -1,1 +1,1 @@
-var mnemonic = "cupboard loyal deposit town fan sugar winter burst spring puzzle fat sugar";
+var mnemonic = "until around giant pudding tomorrow lobster asthma slot depart vital sauce error";

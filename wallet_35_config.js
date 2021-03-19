@@ -1,1 +1,1 @@
-var mnemonic = "work town awful gap high tissue castle maple amateur pair woman oil";
+var mnemonic = "adult deer viable proud father enact wait approve sand twist gorilla pill";

@@ -1,1 +1,1 @@
-var mnemonic = "rose remember act desk punch spare donkey purity wonder choose stock salon";
+var mnemonic = "sign mixed bulk marble small thunder goose wine flush stuff eagle resource";

@@ -1,1 +1,1 @@
-var mnemonic = "inner grit village hub device kite travel concert pen history hamster cry";
+var mnemonic = "lonely clever poet few embody claim air bundle solar mad lift topic";

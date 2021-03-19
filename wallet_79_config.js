@@ -1,1 +1,1 @@
-var mnemonic = "typical toilet walnut exchange service skirt salad tooth wink knife merry ranch";
+var mnemonic = "favorite drum jungle naive tornado effort diamond drop buyer slush jump prefer";

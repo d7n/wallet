@@ -1,1 +1,1 @@
-var mnemonic = "village clarify daughter hotel merry spell duty luxury glare genius exhibit ranch";
+var mnemonic = "riot marble hunt rent unusual arm then renew envelope prefer disagree desert";

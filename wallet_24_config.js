@@ -1,1 +1,1 @@
-var mnemonic = "dignity brain soft lesson tuna noble era tell guess regret close three";
+var mnemonic = "raven eight obey piano ugly filter glow chalk atom steel one educate";

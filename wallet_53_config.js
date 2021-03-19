@@ -1,1 +1,1 @@
-var mnemonic = "square apology address bomb lobster paper avocado bless soldier border hard hotel";
+var mnemonic = "veteran dress glimpse any tenant essence sugar trash eternal coral round already";

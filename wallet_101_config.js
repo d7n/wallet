@@ -1,1 +1,1 @@
-var mnemonic = "amount matter slush gorilla penalty champion much post inside stick chief weasel";
+var mnemonic = "save dust define install rack young bulb toss ahead sea plunge foster";

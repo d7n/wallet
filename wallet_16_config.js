@@ -1,1 +1,1 @@
-var mnemonic = "advance never device funny party just glass fold surface roast cart license";
+var mnemonic = "broken globe castle old turn decide round around soccer scan height drill";

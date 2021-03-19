@@ -1,1 +1,1 @@
-var mnemonic = "bright spatial speed solid spring easily pole uphold clock sunny crystal affair";
+var mnemonic = "result double idle until beauty fuel spike point again build secret race";

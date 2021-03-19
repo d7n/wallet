@@ -1,1 +1,1 @@
-var mnemonic = "funny height cook flip hidden visual simple glove script fuel warfare practice";
+var mnemonic = "liberty accuse three topic cable thank weather zoo act gate ankle size";

@@ -1,1 +1,1 @@
-var mnemonic = "result section filter entire celery spawn observe worry inmate struggle jungle struggle";
+var mnemonic = "alter coral tree galaxy play wonder midnight prefer list clog guitar cute";

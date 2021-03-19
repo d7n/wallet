@@ -1,1 +1,1 @@
-var mnemonic = "satoshi system over easy mammal float endless boss sadness over employ noble";
+var mnemonic = "flat main ivory connect bike pink table that upset suspect vehicle cave";

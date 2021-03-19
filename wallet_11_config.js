@@ -1,1 +1,1 @@
-var mnemonic = "science volume miracle now include tilt donkey poet perfect crucial assist ritual";
+var mnemonic = "absurd prize announce clean that window swamp trip pizza cute vivid friend";

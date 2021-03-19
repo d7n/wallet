@@ -1,1 +1,1 @@
-var mnemonic = "brand arrow foam hungry glimpse zebra toss unaware busy leaf consider rifle";
+var mnemonic = "strike earn car crime ready render become mix wine crater right fortune";

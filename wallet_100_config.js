@@ -1,1 +1,1 @@
-var mnemonic = "claim crunch blind like nose genius gym will develop athlete brave cheap";
+var mnemonic = "repeat number know suit between nephew grab reduce sell parent whisper dwarf";

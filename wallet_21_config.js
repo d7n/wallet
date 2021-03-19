@@ -1,1 +1,1 @@
-var mnemonic = "access oblige genius deer scale render laundry improve scare swallow embrace execute";
+var mnemonic = "fiscal enable right wisdom fuel quarter curtain police neither coin gas wild";

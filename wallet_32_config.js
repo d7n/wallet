@@ -1,1 +1,1 @@
-var mnemonic = "essence token return spider plunge hazard range super artwork select find twin";
+var mnemonic = "great gospel spread tornado celery mushroom select sunny giant barely craft witness";

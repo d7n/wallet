@@ -1,1 +1,1 @@
-var mnemonic = "trip sand public water boss bargain legend crew trash tank upgrade predict";
+var mnemonic = "short frost announce fresh gauge topic wash use fancy include lion club";

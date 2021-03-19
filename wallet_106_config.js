@@ -1,1 +1,1 @@
-var mnemonic = "velvet parent vicious day dad burger tuition tornado young mass salon ready";
+var mnemonic = "muscle gown bronze cherry north people woman wood monitor barrel explain sun";

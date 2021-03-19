@@ -1,1 +1,1 @@
-var mnemonic = "recipe author milk confirm endorse smile voyage board snow monster shift dismiss";
+var mnemonic = "ensure famous pact neither phrase street advice impact slot kingdom marble casino";

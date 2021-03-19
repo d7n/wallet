@@ -1,1 +1,1 @@
-var mnemonic = "where assist scissors spirit bullet cattle pretty brush dirt hello nephew bright";
+var mnemonic = "brown eye miss order budget clerk curtain quiz gold citizen shell oyster";

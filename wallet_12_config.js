@@ -1,1 +1,1 @@
-var mnemonic = "goose penalty lemon chronic edge since culture kid naive cream entire face";
+var mnemonic = "surround begin neglect entire fabric amateur alien universe stamp shield worry small";

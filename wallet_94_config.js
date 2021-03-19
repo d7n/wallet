@@ -1,1 +1,1 @@
-var mnemonic = "option purpose person mystery tongue stomach junior eager ridge ghost wild trick";
+var mnemonic = "fee shed crunch midnight daring moon acquire cousin deputy reveal remove pill";

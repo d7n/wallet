@@ -1,1 +1,1 @@
-var mnemonic = "rural thank clever bridge soul grab agree paddle hire lab addict absurd";
+var mnemonic = "salt suggest monkey bulk neither cover business infant maximum impulse estate dune";

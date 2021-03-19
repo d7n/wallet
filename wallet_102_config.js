@@ -1,1 +1,1 @@
-var mnemonic = "call strategy limit casino nice tobacco puppy enhance toast glass blouse purity";
+var mnemonic = "welcome carpet joke episode drum ranch nest hobby citizen marble order divide";

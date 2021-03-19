@@ -1,1 +1,1 @@
-var mnemonic = "giggle chair invite enroll gentle guess awful rate fuel rapid canyon truck";
+var mnemonic = "siege prison tree deliver toe must dog april praise member pattern rapid";

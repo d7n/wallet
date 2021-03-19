@@ -1,1 +1,1 @@
-var mnemonic = "small fog width match write crime accident keep armed normal post pact";
+var mnemonic = "gasp sword angry cool during salt mail supply raccoon soda genuine weekend";

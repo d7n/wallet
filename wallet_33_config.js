@@ -1,1 +1,1 @@
-var mnemonic = "scheme foster brick pole scissors gallery mule walk tired leave drama stomach";
+var mnemonic = "differ gasp whisper approve language require dizzy rate arena until desk visit";

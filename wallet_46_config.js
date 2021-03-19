@@ -1,1 +1,1 @@
-var mnemonic = "carbon snow output air usage bitter pioneer little firm cream peace crunch";
+var mnemonic = "bridge genre west void speed hill fix caught fury olive tuna shoot";

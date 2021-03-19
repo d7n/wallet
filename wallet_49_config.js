@@ -1,1 +1,1 @@
-var mnemonic = "fancy coin flash slab board road vacuum trick case hidden laugh pigeon";
+var mnemonic = "inch eyebrow elegant annual nerve rookie devote next eight deputy leaf fish";

@@ -1,1 +1,1 @@
-var mnemonic = "detect rug light genius champion reflect damp meat hill barely find focus";
+var mnemonic = "pond embody practice napkin wear athlete wing practice replace arrow van two";

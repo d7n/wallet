@@ -1,1 +1,1 @@
-var mnemonic = "century cable wisdom employ joke zebra idea lottery science sad define toy";
+var mnemonic = "bamboo cause dream elephant true picture pond retreat clip visa bread obscure";

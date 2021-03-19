@@ -1,1 +1,1 @@
-var mnemonic = "ignore view slender share useful cube picnic reopen genre frown bird explain";
+var mnemonic = "symptom arctic strike short clip custom run educate orange wash quality chuckle";

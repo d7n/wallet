@@ -1,1 +1,1 @@
-var mnemonic = "steak allow sure odor bounce wish lake impact crucial unfair script royal";
+var mnemonic = "pyramid pet helmet funny loop stomach pink observe point erosion permit long";

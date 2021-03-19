@@ -1,1 +1,1 @@
-var mnemonic = "struggle spring soul doll asset give glory estate project pen uniform badge";
+var mnemonic = "earn fiction brick celery close page anger original cushion fork still avoid";

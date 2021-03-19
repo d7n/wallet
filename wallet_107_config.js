@@ -1,1 +1,1 @@
-var mnemonic = "wine display maple congress quote parade become fury praise cat unfair slush";
+var mnemonic = "owner avoid sausage fence sail pioneer knife congress glue hen estate bonus";

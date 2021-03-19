@@ -1,1 +1,1 @@
-var mnemonic = "define mention comic honey response early gown quiz nut leg rely seat";
+var mnemonic = "educate lock phone sweet security save found wild member crop erode someone";

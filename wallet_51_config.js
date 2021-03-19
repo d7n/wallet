@@ -1,1 +1,1 @@
-var mnemonic = "blur object describe will initial holiday gaze rare harvest mention amazing execute";
+var mnemonic = "depart pioneer model recall trial kid bird pitch sister hazard fury chimney";

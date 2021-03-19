@@ -1,1 +1,1 @@
-var mnemonic = "frost flush denial long banana armed glory tissue boss pudding acoustic supply";
+var mnemonic = "claw produce supreme thing busy alarm radio dial attend seven all purpose";

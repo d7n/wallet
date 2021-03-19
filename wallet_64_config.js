@@ -1,1 +1,1 @@
-var mnemonic = "only patch fluid same absent attack spread stamp harsh sad clutch slice";
+var mnemonic = "sing hammer kiss sentence point dinosaur tissue cherry flat camp ritual session";

@@ -1,1 +1,1 @@
-var mnemonic = "local key soap video debate fine magnet course clay mandate make close";
+var mnemonic = "other claw common split idle fruit side tortoise carpet acid scissors vast";

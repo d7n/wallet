@@ -1,1 +1,1 @@
-var mnemonic = "heavy page inform over reward surround wire pear hundred artefact front tape";
+var mnemonic = "art cliff knock mask cover task walk talk oyster pear pulp shoot";
