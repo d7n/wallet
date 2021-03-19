@@ -1,1 +1,1 @@
-var mnemonic = "smile garbage tuna dove august reject plastic misery detail manage poem insect";
+var mnemonic = "slender crew shadow trash brisk apology powder vacuum meat trumpet three increase";

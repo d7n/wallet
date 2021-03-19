@@ -1,1 +1,1 @@
-var mnemonic = "jelly dinner endorse arm theme vapor hybrid crowd atom surround velvet another";
+var mnemonic = "erode alcohol top avoid shed eyebrow wish scheme code fork today bunker";

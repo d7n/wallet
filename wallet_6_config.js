@@ -1,1 +1,1 @@
-var mnemonic = "skirt coconut good august art radar mystery day west nominee warm simple";
+var mnemonic = "bronze cart rib original glimpse decorate stable police panther coyote across any";

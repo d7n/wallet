@@ -1,1 +1,1 @@
-var mnemonic = "shield away undo shoe fresh around edge pass creek razor shove winner";
+var mnemonic = "onion wet upper arrange travel day gown aisle ripple trash avoid solve";

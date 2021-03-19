@@ -1,1 +1,1 @@
-var mnemonic = "hobby disorder smooth fine ski luggage switch either erosion isolate subway stay";
+var mnemonic = "twin age maple gap virtual twin dance strategy lobster stage double spread";

@@ -1,1 +1,1 @@
-var mnemonic = "deal episode destroy spell hope cattle october stuff galaxy mom begin heavy";
+var mnemonic = "eye saddle require warm woman come virus quiz average basket crystal win";

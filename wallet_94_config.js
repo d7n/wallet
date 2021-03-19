@@ -1,1 +1,1 @@
-var mnemonic = "muscle hold boil salad forum habit pitch duck post word energy bamboo";
+var mnemonic = "junior will bright blur ball liquid step miss donkey garden inform neither";

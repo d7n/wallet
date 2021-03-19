@@ -1,1 +1,1 @@
-var mnemonic = "inflict inject parrot boy ski donor monkey dolphin bench slot abandon motion";
+var mnemonic = "pause update crash patch region recycle diary young auto river mix spy";

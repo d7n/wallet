@@ -1,1 +1,1 @@
-var mnemonic = "cost young present bargain jazz mad author zero witness punch chief link";
+var mnemonic = "noodle business material lamp voice fiscal angry draw crack catalog make hint";

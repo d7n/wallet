@@ -1,1 +1,1 @@
-var mnemonic = "lift swap wise concert panther fat point frozen proof name federal pink";
+var mnemonic = "cousin limb lab order lawsuit blush cat hollow border second stomach wreck";

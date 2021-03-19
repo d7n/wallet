@@ -1,1 +1,1 @@
-var mnemonic = "three rescue slender wealth hotel artist venue army man silly plate grape";
+var mnemonic = "head buffalo when human busy legal sure next flock attend couch hire";

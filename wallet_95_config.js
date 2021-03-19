@@ -1,1 +1,1 @@
-var mnemonic = "leaf tourist jealous ill uncover venue field good smoke chef gospel equal";
+var mnemonic = "isolate guitar priority flush few chicken prize tuna flash photo traffic stone";

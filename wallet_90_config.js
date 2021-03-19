@@ -1,1 +1,1 @@
-var mnemonic = "bullet spray cotton tuna little lounge oval cook proof want badge print";
+var mnemonic = "dragon hub submit crisp success puzzle toddler surface glide gun kitchen erase";

@@ -1,1 +1,1 @@
-var mnemonic = "approve divorce better fame oak wrap off consider problem box weapon fade";
+var mnemonic = "depart stock guitar embrace phrase bring outside then rebel squeeze area stay";

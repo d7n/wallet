@@ -1,1 +1,1 @@
-var mnemonic = "fever fame tag denial impose profit bone wolf caught great cool marble";
+var mnemonic = "wheel mutual impulse post apple mesh idle trophy earth elder fat acoustic";

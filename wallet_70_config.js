@@ -1,1 +1,1 @@
-var mnemonic = "fix hamster fox choice very buddy silk side correct parade spot bone";
+var mnemonic = "observe curtain decrease behind praise busy horse wife joke awake kingdom memory";

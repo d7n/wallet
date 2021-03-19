@@ -1,1 +1,1 @@
-var mnemonic = "wrestle length swing edit option forum valid usage neutral universe must amused";
+var mnemonic = "hobby peanut vivid chronic employ liberty bicycle degree fatigue inside announce ketchup";

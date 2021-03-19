@@ -1,1 +1,1 @@
-var mnemonic = "century diary trumpet possible section federal liberty endorse trial ordinary nothing dove";
+var mnemonic = "fame crime kiwi elephant reform leg later sausage nasty fossil turn wisdom";

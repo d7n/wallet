@@ -1,1 +1,1 @@
-var mnemonic = "alcohol harsh govern basket unable fabric waste claw cannon perfect siege cause";
+var mnemonic = "alone egg vault strike credit naive helmet weapon april settle hedgehog term";

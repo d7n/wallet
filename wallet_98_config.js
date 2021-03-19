@@ -1,1 +1,1 @@
-var mnemonic = "exact expose spin crack little barely box knock vocal powder action choose";
+var mnemonic = "slide ginger degree situate input unknown horror other onion gesture often early";

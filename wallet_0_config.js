@@ -1,1 +1,1 @@
-var mnemonic = "chief oyster brave hub escape leopard ocean lunar online citizen torch urge";
+var mnemonic = "pull swap mandate bulk disease joke pupil indoor type core puzzle turn";

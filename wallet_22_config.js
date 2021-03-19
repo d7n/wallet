@@ -1,1 +1,1 @@
-var mnemonic = "food already dial engine lady payment census royal void cigar recall eyebrow";
+var mnemonic = "rule season follow power reason ranch cabbage wage learn frog artefact voice";

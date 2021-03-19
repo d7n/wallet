@@ -1,1 +1,1 @@
-var mnemonic = "harsh issue entire absent quote trial visa matter step noble bottom invest";
+var mnemonic = "heart kidney dance tilt canoe hammer comic among oval kidney demise found";

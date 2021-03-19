@@ -1,1 +1,1 @@
-var mnemonic = "neglect install safe swap feature rotate salmon denial exhaust maze parrot priority";
+var mnemonic = "vintage rather huge walk lab novel slush math buffalo below neutral naive";

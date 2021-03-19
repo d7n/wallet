@@ -1,1 +1,1 @@
-var mnemonic = "shield crystal this trial display pink federal pottery amount soup correct govern";
+var mnemonic = "gallery blame genuine either topic summer short office seat minor kit whale";

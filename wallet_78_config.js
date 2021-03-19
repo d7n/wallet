@@ -1,1 +1,1 @@
-var mnemonic = "because father cotton dish transfer inquiry always border guess hip arm sorry";
+var mnemonic = "glow correct ginger enhance number artwork zoo someone usual maze father leader";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom super throw exotic glove december bar media auction bronze hello endless";
+var mnemonic = "valid try evil crane crunch blast south subject orphan lumber yard trust";

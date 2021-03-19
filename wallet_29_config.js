@@ -1,1 +1,1 @@
-var mnemonic = "paper creek clip seven shaft rookie recall oxygen brief insane material museum";
+var mnemonic = "audit decide doctor debate fabric scrub patrol wonder gloom cruise cruel eye";

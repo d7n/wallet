@@ -1,1 +1,1 @@
-var mnemonic = "lift vacuum end fruit book fee bid oak casual resemble tip pencil";
+var mnemonic = "tomato jeans genre holiday grid cat office promote enroll jacket million mistake";

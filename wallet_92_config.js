@@ -1,1 +1,1 @@
-var mnemonic = "notable climb nothing exile fossil corn high twist way glove fit gesture";
+var mnemonic = "hen lava fatigue raccoon reduce settle oppose twenty usual ivory amount exhibit";

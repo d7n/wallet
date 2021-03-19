@@ -1,1 +1,1 @@
-var mnemonic = "document arrange travel resist asset manual joke rhythm labor sick garlic settle";
+var mnemonic = "gym blood cloth execute shiver wine panda pave try plastic youth raw";

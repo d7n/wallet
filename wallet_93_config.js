@@ -1,1 +1,1 @@
-var mnemonic = "era attack defense fancy radar creek lounge loud give trade like cube";
+var mnemonic = "romance puppy intact reunion extra credit milk symptom spider shine social entire";

@@ -1,1 +1,1 @@
-var mnemonic = "drift mind history gravity expose fatigue tattoo prosper turkey saddle enhance wedding";
+var mnemonic = "nuclear busy grab accident tomato example insane firm neglect section infant virus";

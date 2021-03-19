@@ -1,1 +1,1 @@
-var mnemonic = "latin message spray cigar vendor river turkey across burden behind resist kit";
+var mnemonic = "secret rabbit champion diamond sausage sister fame property token verb page economy";

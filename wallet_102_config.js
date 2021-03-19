@@ -1,1 +1,1 @@
-var mnemonic = "boil home help lava include aerobic hurry rather moment live visa old";
+var mnemonic = "bright kick replace peanut silver burst bulk bag shallow upset portion egg";

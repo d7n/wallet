@@ -1,1 +1,1 @@
-var mnemonic = "basic shoulder gown harbor input diet cancel present stick glass control slow";
+var mnemonic = "oppose suffer fringe enter language drink blush body aerobic toy gadget sort";

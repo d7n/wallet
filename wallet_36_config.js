@@ -1,1 +1,1 @@
-var mnemonic = "depth barrel animal mother very cattle purse hungry common creek segment food";
+var mnemonic = "about short gap pause eagle shoulder empty come aim review sense hold";

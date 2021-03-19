@@ -1,1 +1,1 @@
-var mnemonic = "joke point yard share ginger trust athlete frog crash oxygen scrap sing";
+var mnemonic = "above length frequent guess clinic steak stumble material struggle all argue goose";

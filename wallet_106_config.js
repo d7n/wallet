@@ -1,1 +1,1 @@
-var mnemonic = "pigeon evolve unknown permit cement hello place energy trap fox cradle park";
+var mnemonic = "rescue month edge rhythm orchard repair arrow only milk boost lawsuit narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "track feel aspect mammal couch scissors above tornado witness abstract oppose betray";
+var mnemonic = "daughter lawsuit harvest drift buyer lounge pulse visa mass ask flavor ski";

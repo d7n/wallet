@@ -1,1 +1,1 @@
-var mnemonic = "wolf rule alone wage sound theme attitude uphold marine van dwarf enter";
+var mnemonic = "mobile twelve green target suspect apart team deny spend waste inherit heavy";

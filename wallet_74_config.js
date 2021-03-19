@@ -1,1 +1,1 @@
-var mnemonic = "melody same brass where aware capital inquiry web emotion notice online catch";
+var mnemonic = "useless bracket still club sea this mix audit unlock nut tribe blush";

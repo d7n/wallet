@@ -1,1 +1,1 @@
-var mnemonic = "surge buddy stone air black rare analyst coconut cross appear solar pipe";
+var mnemonic = "sheriff ramp snack bitter tent include float tired draw nature walk narrow";

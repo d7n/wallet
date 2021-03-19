@@ -1,1 +1,1 @@
-var mnemonic = "angry eight gap renew act sphere hub purchase early aspect audit item";
+var mnemonic = "ghost brick card ostrich approve retire attract invite control swallow make ill";

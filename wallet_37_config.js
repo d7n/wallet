@@ -1,1 +1,1 @@
-var mnemonic = "power visual aunt fortune beyond tell forest now art warm reject solve";
+var mnemonic = "short jewel estate position protect noodle rate canyon circle hen solution decade";

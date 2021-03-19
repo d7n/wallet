@@ -1,1 +1,1 @@
-var mnemonic = "yellow actor remove garage addict sleep cricket coach axis electric false steak";
+var mnemonic = "buddy inmate surprise mosquito quit canoe fault unable turtle bachelor palace effort";

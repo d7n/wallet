@@ -1,1 +1,1 @@
-var mnemonic = "fat interest pledge inside picnic mind gadget rotate eager indicate sign wash";
+var mnemonic = "window auto intact adapt opinion need code lucky hire stumble dizzy pepper";

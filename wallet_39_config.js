@@ -1,1 +1,1 @@
-var mnemonic = "dolphin duty sunny tell trouble digital now warm success depth tip level";
+var mnemonic = "pulp pave web sorry guitar educate hand ship spoon object great cheap";

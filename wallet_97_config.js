@@ -1,1 +1,1 @@
-var mnemonic = "alter south give chef clinic alone unlock session reward market alpha hold";
+var mnemonic = "plastic remember keep shoulder pencil addict stick note parade thought inflict cream";

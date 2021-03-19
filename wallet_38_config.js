@@ -1,1 +1,1 @@
-var mnemonic = "script order project source silk mechanic close mechanic good room blush dinosaur";
+var mnemonic = "museum better conduct pipe scene wrestle phrase whale exile donkey attend glass";

@@ -1,1 +1,1 @@
-var mnemonic = "planet affair deny typical unusual diesel merry chat exclude fluid virus resemble";
+var mnemonic = "cross float paper fall appear achieve phrase hover claim suit review such";

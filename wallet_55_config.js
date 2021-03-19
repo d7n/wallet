@@ -1,1 +1,1 @@
-var mnemonic = "forget name chaos jump chunk ostrich turtle pattern error draw pelican emerge";
+var mnemonic = "alone heart ivory torch route sing mechanic easily grunt still man insane";

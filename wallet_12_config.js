@@ -1,1 +1,1 @@
-var mnemonic = "carry machine glass hair cost elephant soldier friend faith emotion zero lunch";
+var mnemonic = "calm theme beef south trial rude shift snack identify merry faint filter";

@@ -1,1 +1,1 @@
-var mnemonic = "soon topic city picture throw curtain shield battle tenant detail parent gadget";
+var mnemonic = "indoor treat giggle maximum know pelican random reduce judge mass wine thank";

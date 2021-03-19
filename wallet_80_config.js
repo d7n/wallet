@@ -1,1 +1,1 @@
-var mnemonic = "body injury mutual auction crucial once wash awkward estate alien city member";
+var mnemonic = "elite atom travel panda strategy bulk report below truth cute car popular";

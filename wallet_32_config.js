@@ -1,1 +1,1 @@
-var mnemonic = "circle axis glimpse cargo bubble pepper capital upgrade vote exit shell face";
+var mnemonic = "slogan wild melt physical guide scatter image school riot wait wide meat";

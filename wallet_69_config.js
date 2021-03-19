@@ -1,1 +1,1 @@
-var mnemonic = "warm vital multiply goat state diesel test gun habit mule west hotel";
+var mnemonic = "forest excite champion soul domain flame spirit ordinary design act search river";

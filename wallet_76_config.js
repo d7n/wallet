@@ -1,1 +1,1 @@
-var mnemonic = "drama ginger magic fabric polar ability ride focus appear damage repair coffee";
+var mnemonic = "wheat rescue reform nature dirt coin job congress surround science deputy ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble document slab poverty shock despair pigeon danger void syrup physical cheap";
+var mnemonic = "shield under island accident speak hurt thunder venue pupil mushroom stumble theme";

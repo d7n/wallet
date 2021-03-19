@@ -1,1 +1,1 @@
-var mnemonic = "various exact snake diesel body field decade citizen trial exchange attract six";
+var mnemonic = "shrug kingdom join lonely upper bullet name skate doctor network swallow call";

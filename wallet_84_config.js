@@ -1,1 +1,1 @@
-var mnemonic = "chapter pizza asthma broccoli under mass embody seed tired manual tornado category";
+var mnemonic = "match obscure bottom vital topic front bird parent morning amazing claw process";

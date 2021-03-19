@@ -1,1 +1,1 @@
-var mnemonic = "ticket deal nut reunion busy cry adult peanut diary space shrimp cactus";
+var mnemonic = "cart duck false cool priority panda scorpion marine term discover erupt real";

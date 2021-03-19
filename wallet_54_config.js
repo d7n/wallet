@@ -1,1 +1,1 @@
-var mnemonic = "tennis stem toe whale fossil kick hour decorate spoil human smoke palm";
+var mnemonic = "inhale original occur tragic donkey gorilla father pyramid real peanut rabbit barely";

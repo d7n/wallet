@@ -1,1 +1,1 @@
-var mnemonic = "patch soda amused middle oppose argue feed sausage panther swift outside exhaust";
+var mnemonic = "lazy clean chef guess impulse doll tennis minor fix impose eternal seven";

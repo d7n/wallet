@@ -1,1 +1,1 @@
-var mnemonic = "dinner uphold else hub jealous vehicle reunion crawl glue addict april miracle";
+var mnemonic = "marble page glass enemy subway online confirm nation aware margin ahead script";

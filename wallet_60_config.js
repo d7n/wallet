@@ -1,1 +1,1 @@
-var mnemonic = "sorry turtle govern basic awesome panther anger knee mango smile morning service";
+var mnemonic = "safe drip scale erode spot kit pigeon family exclude absurd stairs antique";

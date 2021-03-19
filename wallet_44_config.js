@@ -1,1 +1,1 @@
-var mnemonic = "sort any mom float minimum vendor blast april coyote verb option put";
+var mnemonic = "easy hotel want ordinary radio catalog thing tunnel small sadness license enroll";

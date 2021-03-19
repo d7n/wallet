@@ -1,1 +1,1 @@
-var mnemonic = "dinner school hello square because cereal hammer muffin glow will entry hobby";
+var mnemonic = "code neutral glove short attitude wonder leisure crater skirt enjoy ensure expose";

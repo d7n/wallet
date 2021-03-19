@@ -1,1 +1,1 @@
-var mnemonic = "ranch once charge meadow decorate wage waste exotic journey tower neck artefact";
+var mnemonic = "extra large carpet proud equip scale magnet harvest tonight practice gather concert";

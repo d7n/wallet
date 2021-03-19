@@ -1,1 +1,1 @@
-var mnemonic = "dove shallow fly fix label group mistake toddler dial tilt gate frequent";
+var mnemonic = "save invest vacuum disease fatigue stool skull always equal caught satoshi impact";

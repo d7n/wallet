@@ -1,1 +1,1 @@
-var mnemonic = "song health another weather father conduct later describe cost immense inside load";
+var mnemonic = "hint lake praise arrest dragon very derive hard recipe pen moral adapt";

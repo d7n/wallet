@@ -1,1 +1,1 @@
-var mnemonic = "awake wide time near olympic slim elite bag sunny tiger history such";
+var mnemonic = "visit casino grain wolf ivory october treat debate end drastic shed hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "flame almost umbrella uncover gate depend accuse attract finish ancient flavor agent";
+var mnemonic = "blanket journey feature scout token clinic fatal that delay gather book accuse";

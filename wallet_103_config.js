@@ -1,1 +1,1 @@
-var mnemonic = "resist river cross sort apple punch ignore interest gather hidden street tortoise";
+var mnemonic = "message iron spice wrong tuna elegant category attitude absent seven observe talk";

@@ -1,1 +1,1 @@
-var mnemonic = "mind typical injury venture scatter provide mystery arena swing grocery trash require";
+var mnemonic = "burger trap own page shaft cannon ride dice sail boil pottery gym";

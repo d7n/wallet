@@ -1,1 +1,1 @@
-var mnemonic = "month member one pioneer net buddy auction hero ivory yellow permit neutral";
+var mnemonic = "spoil panic harbor imitate practice tuna myth few switch pair misery project";

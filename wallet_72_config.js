@@ -1,1 +1,1 @@
-var mnemonic = "age consider boss wire logic verb trouble lecture tip million zone country";
+var mnemonic = "fancy orbit glass want drive lock credit nut gas fossil unveil donkey";

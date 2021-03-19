@@ -1,1 +1,1 @@
-var mnemonic = "innocent layer trash potato winter business inject ability clown shove dirt gold";
+var mnemonic = "heart country luggage quote mixed warfare arrive walk stable buffalo occur grunt";

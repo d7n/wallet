@@ -1,1 +1,1 @@
-var mnemonic = "saddle equal fuel wash anxiety just wolf hungry aerobic phone photo february";
+var mnemonic = "learn owner just chaos benefit crowd plunge actress glass comic crucial scout";

@@ -1,1 +1,1 @@
-var mnemonic = "clump crime father mother welcome aerobic immense moon distance neglect song success";
+var mnemonic = "enforce caught unveil maximum pyramid purity action discover runway phrase fall satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "oval limb diagram blind knee neck cart smoke derive mesh lemon sweet";
+var mnemonic = "job abandon help saddle oppose under motor they manual melt unveil avoid";

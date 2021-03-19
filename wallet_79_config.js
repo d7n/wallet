@@ -1,1 +1,1 @@
-var mnemonic = "grass demise decline math sniff habit anxiety baby home soup universe gather";
+var mnemonic = "dumb nothing feature pride item margin raven swamp lesson slide quote wave";

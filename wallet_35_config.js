@@ -1,1 +1,1 @@
-var mnemonic = "doctor analyst acoustic solid sentence blind achieve obscure glow embody know robot";
+var mnemonic = "number task fortune demand fiction high agree you frog suggest curtain bunker";

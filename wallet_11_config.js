@@ -1,1 +1,1 @@
-var mnemonic = "blind tomorrow mutual surge dish cake depth lemon follow they fuel hurry";
+var mnemonic = "only toe cup shop present nurse island cereal bounce among grace fever";

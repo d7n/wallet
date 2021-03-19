@@ -1,1 +1,1 @@
-var mnemonic = "solve mistake desert pioneer arrest total ritual lonely hard shield solid sort";
+var mnemonic = "dish pause rose brass fault turkey police twice light wear guide bleak";

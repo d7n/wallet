@@ -1,1 +1,1 @@
-var mnemonic = "region absent jeans icon neutral trust maid truly educate intact target trigger";
+var mnemonic = "bridge long increase uncle dragon depend lunar gorilla clarify blame strike celery";

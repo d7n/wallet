@@ -1,1 +1,1 @@
-var mnemonic = "way seed system session banana ozone decrease spy park bar engage easily";
+var mnemonic = "region mobile banner source dizzy recycle test liberty wood evidence turkey satisfy";
