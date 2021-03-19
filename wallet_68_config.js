@@ -1,1 +1,1 @@
-var mnemonic = "puzzle lazy giggle mistake sugar source mask clay symbol mandate aware denial";
+var mnemonic = "sick cat dry toe spawn day planet curve coil dumb sleep exercise";

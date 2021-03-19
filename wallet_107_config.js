@@ -1,1 +1,1 @@
-var mnemonic = "auction unknown all traffic scrap wood cloth page sing enable crater shield";
+var mnemonic = "table axis moral hawk miracle soccer junk question mansion inform napkin cousin";

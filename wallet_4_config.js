@@ -1,1 +1,1 @@
-var mnemonic = "farm similar reopen gate hen slab prize window ethics shiver pulp scare";
+var mnemonic = "surround soda advice tape food chase treat chicken special cloud noble region";

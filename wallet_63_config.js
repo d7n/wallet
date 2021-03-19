@@ -1,1 +1,1 @@
-var mnemonic = "rug blind code intact team anger mercy street solid nice name emerge";
+var mnemonic = "click awesome tomorrow winner rhythm vessel average adult castle safe depth august";

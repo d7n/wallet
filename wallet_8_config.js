@@ -1,1 +1,1 @@
-var mnemonic = "dragon wine about team pulse disease wet soda size indoor way smart";
+var mnemonic = "injury fat gold blossom burst uphold team industry relief kiwi hotel hedgehog";

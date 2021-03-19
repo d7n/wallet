@@ -1,1 +1,1 @@
-var mnemonic = "digital foil coin consider surround blame cable expose link onion hybrid boat";
+var mnemonic = "awesome make second vacuum future copy multiply parent solve entire atom fabric";

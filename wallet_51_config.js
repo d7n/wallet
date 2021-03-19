@@ -1,1 +1,1 @@
-var mnemonic = "rifle quarter shock avocado echo allow excuse kangaroo pledge off select wool";
+var mnemonic = "marriage make brain garage patch taste stone soap buyer you anxiety zone";

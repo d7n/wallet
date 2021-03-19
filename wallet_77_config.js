@@ -1,1 +1,1 @@
-var mnemonic = "survey confirm resource twin detect combine crisp define portion blur soap lawsuit";
+var mnemonic = "make fly number recipe lawsuit planet butter enrich scare topic local blossom";

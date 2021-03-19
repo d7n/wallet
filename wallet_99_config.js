@@ -1,1 +1,1 @@
-var mnemonic = "slender smooth motor erase address velvet cage physical switch best device shadow";
+var mnemonic = "lens process outer seat wagon strike front journey duck better panda unlock";

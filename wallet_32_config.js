@@ -1,1 +1,1 @@
-var mnemonic = "gown grant year inner ignore involve trouble dinner lottery come perfect squirrel";
+var mnemonic = "rude reveal reform link bundle awkward note sibling elder jealous session item";

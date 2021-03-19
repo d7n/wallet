@@ -1,1 +1,1 @@
-var mnemonic = "hurry else ordinary junk select reopen dismiss local subject interest primary embrace";
+var mnemonic = "carry race rough silly toilet obscure reopen maple profit sadness ozone release";

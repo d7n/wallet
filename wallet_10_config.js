@@ -1,1 +1,1 @@
-var mnemonic = "viable cause swift admit expire decrease vault bench return tool dinosaur cram";
+var mnemonic = "coach doctor web later school purpose deer improve link license turtle cupboard";

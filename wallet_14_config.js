@@ -1,1 +1,1 @@
-var mnemonic = "install market junior token sphere believe travel diary supreme give friend glad";
+var mnemonic = "riot tray crystal adult rare rocket chimney ill share base pen advice";

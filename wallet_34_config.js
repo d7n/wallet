@@ -1,1 +1,1 @@
-var mnemonic = "message weird trap cannon vocal stomach vehicle minimum virus dial dry visit";
+var mnemonic = "rigid mind zero employ game torch canyon oxygen horror develop course inch";

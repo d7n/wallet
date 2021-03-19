@@ -1,1 +1,1 @@
-var mnemonic = "grant way two kite virus section artefact figure foam since barely seed";
+var mnemonic = "attract define sight hub fox toe cook flower bargain gym slab worth";

@@ -1,1 +1,1 @@
-var mnemonic = "switch mechanic middle program exclude maple torch picture bracket bleak awkward number";
+var mnemonic = "runway soul decrease blade soup patch kid mule volcano input stock verb";

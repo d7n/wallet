@@ -1,1 +1,1 @@
-var mnemonic = "dutch toilet update agree gasp useful gesture credit emotion skull more usual";
+var mnemonic = "save choice brief category damp source exit exact guide affair what regret";

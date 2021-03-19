@@ -1,1 +1,1 @@
-var mnemonic = "motor save bracket hint verify measure track ill erupt flip guitar solid";
+var mnemonic = "glance host fox essay alien always shy original rare proof library clap";

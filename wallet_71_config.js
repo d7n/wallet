@@ -1,1 +1,1 @@
-var mnemonic = "size cash cotton control test half scout welcome nuclear release entire offer";
+var mnemonic = "file chalk artist stumble boost census giraffe embrace enough aware before opera";

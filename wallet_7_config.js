@@ -1,1 +1,1 @@
-var mnemonic = "ride cheap forum clarify taste ordinary client explain crystal screen degree bomb";
+var mnemonic = "child sugar cherry cross portion crawl patch edit whisper dash liar aisle";

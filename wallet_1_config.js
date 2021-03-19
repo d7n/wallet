@@ -1,1 +1,1 @@
-var mnemonic = "album usual van jar shiver book detect marble test scheme general harvest";
+var mnemonic = "delay egg label chimney evolve spawn pumpkin cigar please normal addict achieve";

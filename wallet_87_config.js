@@ -1,1 +1,1 @@
-var mnemonic = "adjust eagle weird void culture monitor connect among envelope letter desk move";
+var mnemonic = "ginger elevator leisure glare tilt equal banner achieve toe hazard market estate";

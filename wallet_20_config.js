@@ -1,1 +1,1 @@
-var mnemonic = "tell feature oval put sauce sing soft pause clarify because fat audit";
+var mnemonic = "primary will crane shift heavy street embody area smile increase inject fringe";

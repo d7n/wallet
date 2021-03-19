@@ -1,1 +1,1 @@
-var mnemonic = "type strong bamboo captain ankle neglect tail volcano pill crawl achieve teach";
+var mnemonic = "chapter blame describe picnic leg open liar spot motor language oppose stairs";

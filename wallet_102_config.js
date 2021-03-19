@@ -1,1 +1,1 @@
-var mnemonic = "limb garden demand actress trip harvest impulse music welcome planet uncle table";
+var mnemonic = "sure snap hospital tell oxygen fish baby ozone fame cry afford wool";

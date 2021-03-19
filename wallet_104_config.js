@@ -1,1 +1,1 @@
-var mnemonic = "marble damp taxi stable club obey coin guard call move twin exit";
+var mnemonic = "sail rose coast just argue dance spider bleak top slogan apple tower";

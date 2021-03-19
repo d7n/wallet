@@ -1,1 +1,1 @@
-var mnemonic = "domain ahead dynamic frost connect assault galaxy exercise suffer until logic scrub";
+var mnemonic = "labor utility task reduce wise deliver decrease miracle situate foster liar similar";

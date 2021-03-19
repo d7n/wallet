@@ -1,1 +1,1 @@
-var mnemonic = "impact neck brand typical trade friend next dog famous gadget mom edge";
+var mnemonic = "frog pride dismiss father response daughter skull unhappy phone treat try elite";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor nice hint better suit divide nothing ice jeans regular episode silver";
+var mnemonic = "kit boat adult arctic taxi few knock alert frozen debate pause change";

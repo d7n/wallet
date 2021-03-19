@@ -1,1 +1,1 @@
-var mnemonic = "vague music keep organ tumble oil blood game advance episode honey panda";
+var mnemonic = "seat slow copper casual mango slender scale vital inspire angry utility frost";

@@ -1,1 +1,1 @@
-var mnemonic = "venture awful usual come consider salt replace fee prefer regular keep solar";
+var mnemonic = "ability human float badge minor half slush robot husband ice dignity female";

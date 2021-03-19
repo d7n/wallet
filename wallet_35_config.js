@@ -1,1 +1,1 @@
-var mnemonic = "final north kid guilt nest praise expand issue churn prison real before";
+var mnemonic = "talk oil carpet vanish hood critic entry media flower issue calm width";

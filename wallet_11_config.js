@@ -1,1 +1,1 @@
-var mnemonic = "wink other husband sweet arrest adjust physical between art fold one bottom";
+var mnemonic = "visit unusual essay pilot nature cry shuffle letter edit half second satoshi";

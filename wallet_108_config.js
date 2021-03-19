@@ -1,1 +1,1 @@
-var mnemonic = "gate genre shed town flag solar paddle final horse inside found century";
+var mnemonic = "debate garage bubble glass flame fault make glue horse young draw lemon";

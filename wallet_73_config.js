@@ -1,1 +1,1 @@
-var mnemonic = "rival wreck pool vault mass grow tag conduct response hub slight such";
+var mnemonic = "garment adjust side kangaroo pigeon muscle damage call eagle crack ability garlic";

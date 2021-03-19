@@ -1,1 +1,1 @@
-var mnemonic = "hurdle nothing garbage topple innocent sauce pole one goddess soap youth pottery";
+var mnemonic = "blush frozen treat dust lunar craft tree spare undo group metal rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "tape hundred expect frame element later boss depart repeat turkey pair lock";
+var mnemonic = "enable together when trash please maid distance window cargo visa lecture pond";

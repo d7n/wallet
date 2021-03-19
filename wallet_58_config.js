@@ -1,1 +1,1 @@
-var mnemonic = "cool bracket feed tide budget vault movie object balance toss vault rough";
+var mnemonic = "cover side record rain grain enrich enough give planet meat jewel analyst";

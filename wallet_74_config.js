@@ -1,1 +1,1 @@
-var mnemonic = "wheat about possible spy sniff biology odor embark topple claw bargain copper";
+var mnemonic = "mail day wrap unveil mirror pill enter absorb omit denial defy visit";

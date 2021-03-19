@@ -1,1 +1,1 @@
-var mnemonic = "reveal online game tower enable possible insect spatial desert domain true student";
+var mnemonic = "section quick credit push ocean return unusual angry invite cube honey chuckle";

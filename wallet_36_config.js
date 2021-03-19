@@ -1,1 +1,1 @@
-var mnemonic = "gallery gravity pill meat hope access member off diesel dog float canyon";
+var mnemonic = "outdoor diesel hunt eyebrow advance ancient science material weird obvious struggle hammer";

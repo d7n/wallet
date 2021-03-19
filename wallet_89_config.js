@@ -1,1 +1,1 @@
-var mnemonic = "weapon broccoli morning output random ice category shield mango must glide heavy";
+var mnemonic = "carbon fee thumb shrimp cover pulse insane always general river thunder morning";

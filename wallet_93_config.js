@@ -1,1 +1,1 @@
-var mnemonic = "convince genuine begin foster equal carry keep nuclear believe beach wave avoid";
+var mnemonic = "kitchen decorate surround wire truly relax giggle shy purse cattle erupt coach";

@@ -1,1 +1,1 @@
-var mnemonic = "member column file hire then art divert barely cheap deliver chat just";
+var mnemonic = "feature expect love bid glass cry draft cradle example skill drama level";

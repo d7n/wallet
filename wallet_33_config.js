@@ -1,1 +1,1 @@
-var mnemonic = "hello cotton anxiety setup tank stumble spy comic few copper dust narrow";
+var mnemonic = "bulk want crucial alcohol poem upon recipe quote appear dash room proud";

@@ -1,1 +1,1 @@
-var mnemonic = "snow craft behind match ski patch heavy diagram vivid able promote man";
+var mnemonic = "sword solve emotion silent bar rigid obvious dune scan say margin grit";

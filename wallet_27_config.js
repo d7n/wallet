@@ -1,1 +1,1 @@
-var mnemonic = "genius reunion disorder pony hen hobby detail before much ordinary brass second";
+var mnemonic = "fee crash bamboo wolf history scout enhance biology else lounge clap pudding";

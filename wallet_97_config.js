@@ -1,1 +1,1 @@
-var mnemonic = "humble tuna zoo bridge creek promote joy salt spider swarm team priority";
+var mnemonic = "honey dismiss track hero favorite water wrong leaf normal one diesel trumpet";

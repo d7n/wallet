@@ -1,1 +1,1 @@
-var mnemonic = "iron require such shiver claw stamp pattern across bulb kangaroo awesome desk";
+var mnemonic = "captain cake rude often height crop because gospel gallery appear bubble acquire";

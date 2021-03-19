@@ -1,1 +1,1 @@
-var mnemonic = "suffer hard twelve license fresh chair claim east six spoon opinion purse";
+var mnemonic = "crouch donor road stock traffic dynamic eight victory endless shrug wild convince";

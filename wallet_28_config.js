@@ -1,1 +1,1 @@
-var mnemonic = "paddle daughter stone tip seek industry season twice example tag proof end";
+var mnemonic = "monkey oven rookie milk enhance vanish below expand nature flee toy comfort";

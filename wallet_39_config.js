@@ -1,1 +1,1 @@
-var mnemonic = "grid file gadget armed catch attend spend furnace leg tomorrow unusual ability";
+var mnemonic = "cruise space goddess robust better border shed build next share depend any";

@@ -1,1 +1,1 @@
-var mnemonic = "parade one rain shock upper version fence minor material begin head collect";
+var mnemonic = "medal fish exhibit general rate absurd cloud receive luxury glide capital air";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate hospital next screen tell basket because track other cram basic fame";
+var mnemonic = "before clog card park web resemble buzz task genius reason unique renew";

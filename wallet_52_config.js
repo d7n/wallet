@@ -1,1 +1,1 @@
-var mnemonic = "page fatigue slab nice chicken great autumn magnet fancy pupil absorb book";
+var mnemonic = "stairs bronze venture owner dad pistol sugar cover usage plug romance viable";

@@ -1,1 +1,1 @@
-var mnemonic = "escape wealth alert raw face coil easily initial wet mobile large penalty";
+var mnemonic = "benefit enact develop salad curious enemy learn orange fat advice father disorder";

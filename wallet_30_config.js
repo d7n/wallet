@@ -1,1 +1,1 @@
-var mnemonic = "poet rug unable fun style account obtain wet later discover execute market";
+var mnemonic = "blue one buffalo banana few dream found average canyon flee wise essay";

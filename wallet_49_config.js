@@ -1,1 +1,1 @@
-var mnemonic = "range afraid tenant intact faculty pupil trash jewel brother seek wrist demand";
+var mnemonic = "they use puzzle burst awake blanket popular fossil orient vanish hip pretty";

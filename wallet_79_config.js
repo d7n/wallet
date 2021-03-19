@@ -1,1 +1,1 @@
-var mnemonic = "deliver ship frost magic finish elephant height police cancel loyal modify media";
+var mnemonic = "float drift term ostrich jazz ticket bind pave tackle tiny time amount";

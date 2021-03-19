@@ -1,1 +1,1 @@
-var mnemonic = "goose scene trick merit picture rule keen public obtain dash govern olive";
+var mnemonic = "clip risk busy wolf crush abandon field author bind mule quote cage";

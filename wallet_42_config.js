@@ -1,1 +1,1 @@
-var mnemonic = "village audit pull sting jewel armor object spice limit mouse ocean author";
+var mnemonic = "wrap bronze speak swallow post horn entire mandate slot critic change always";

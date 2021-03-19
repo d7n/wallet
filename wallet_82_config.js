@@ -1,1 +1,1 @@
-var mnemonic = "loan farm simple father exact fine gauge family tackle talk bless little";
+var mnemonic = "season slight group final inquiry advice clean ritual verb weird fever soft";

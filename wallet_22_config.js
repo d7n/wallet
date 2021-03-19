@@ -1,1 +1,1 @@
-var mnemonic = "dirt inject foam solid fun nephew broken cheap estate demise project carpet";
+var mnemonic = "swing depth void balance peasant mutual crop quote also fringe clerk have";

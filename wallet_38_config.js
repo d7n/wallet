@@ -1,1 +1,1 @@
-var mnemonic = "skate arctic penalty rival horn juice unfair warfare program swing ribbon more";
+var mnemonic = "seek fantasy gun define clown picnic dog extra later ice health render";

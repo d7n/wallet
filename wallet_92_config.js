@@ -1,1 +1,1 @@
-var mnemonic = "demise settle chef promote burden elder spread feature outdoor need satisfy snack";
+var mnemonic = "client tumble dad artist then candy swap truly library ceiling million express";

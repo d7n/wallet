@@ -1,1 +1,1 @@
-var mnemonic = "empty allow enhance marine dinosaur vintage stock humble clip journey aisle enroll";
+var mnemonic = "chief trend alien hotel surge theme tube inner oppose rebel valley south";

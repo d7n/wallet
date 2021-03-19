@@ -1,1 +1,1 @@
-var mnemonic = "gallery suffer piano address impose ribbon warfare music mammal volcano jealous method";
+var mnemonic = "bleak blush when extra assault match tonight bitter clock cousin cat team";

@@ -1,1 +1,1 @@
-var mnemonic = "cram city price fitness chef lawn immense modify visual melt fall guilt";
+var mnemonic = "garage zero erase fancy high alone unlock embark genius vote cloud olympic";

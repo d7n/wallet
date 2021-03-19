@@ -1,1 +1,1 @@
-var mnemonic = "damp theme forget slow resist holiday pave display chaos ability replace town";
+var mnemonic = "uncover dance try pride devote employ text private pioneer organ jacket stamp";

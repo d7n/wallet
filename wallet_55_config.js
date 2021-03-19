@@ -1,1 +1,1 @@
-var mnemonic = "hotel this mistake copper day radio federal mammal matter current ribbon rose";
+var mnemonic = "shuffle upon kit visual echo sibling nasty vacuum father weekend negative knee";

@@ -1,1 +1,1 @@
-var mnemonic = "coral fringe welcome move feature dry video property kind praise brave maple";
+var mnemonic = "memory expire pyramid lab atom immense junk boring idea pony clap loyal";

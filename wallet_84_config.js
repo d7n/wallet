@@ -1,1 +1,1 @@
-var mnemonic = "father dumb auto couple agree mystery wink young skull culture subway shell";
+var mnemonic = "coil divorce ripple huge shove tree vote ball piece mask reward couple";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge bean three core return various update six perfect census gather long";
+var mnemonic = "pave canal average display swamp exotic loan derive remind doctor casual couple";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss exit often summer erase scan caught space paper universe off weird";
+var mnemonic = "swear nation damage sound people cool chaos west injury tilt ozone kitten";

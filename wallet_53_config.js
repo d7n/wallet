@@ -1,1 +1,1 @@
-var mnemonic = "release grit produce six news develop day weasel vague flag rack boil";
+var mnemonic = "soft network kiwi grape beach laugh amount pelican clown print addict find";

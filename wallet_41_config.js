@@ -1,1 +1,1 @@
-var mnemonic = "invest tobacco shoe rain poem income twin duty vacant lens reject accident";
+var mnemonic = "avocado equal manual mimic luxury check fence rotate process add can wool";

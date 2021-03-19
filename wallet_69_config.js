@@ -1,1 +1,1 @@
-var mnemonic = "matter garage reveal unable educate oyster cross general estate useless april pill";
+var mnemonic = "midnight warm town error fork maple physical hover donor marine isolate kitten";

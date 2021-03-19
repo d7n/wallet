@@ -1,1 +1,1 @@
-var mnemonic = "below sibling excess post member escape ability dove pause pull laptop list";
+var mnemonic = "purse retire endorse mercy wait scan process crystal giant employ vibrant step";

@@ -1,1 +1,1 @@
-var mnemonic = "ship soft always squeeze submit hunt bike goose talk weekend narrow sleep";
+var mnemonic = "absurd search list army require knife cram picnic animal stomach robot latin";

@@ -1,1 +1,1 @@
-var mnemonic = "biology pottery proud pulse balcony gesture size turkey rare budget prevent easy";
+var mnemonic = "garden license imitate assault coyote quote cruise enemy segment side benefit borrow";

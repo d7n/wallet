@@ -1,1 +1,1 @@
-var mnemonic = "always another grass isolate shed goat boil east ill gym young prevent";
+var mnemonic = "fashion outdoor quick anxiety myth romance excite rate equip cradle word rebuild";

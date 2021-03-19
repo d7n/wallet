@@ -1,1 +1,1 @@
-var mnemonic = "meat inflict bottom rabbit electric chef scale quick sadness despair lake twist";
+var mnemonic = "awake grow picnic eager faculty demise claim father shed milk noble destroy";

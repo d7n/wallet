@@ -1,1 +1,1 @@
-var mnemonic = "hood weird saddle unfold purse illegal worry bone scout bamboo catch duty";
+var mnemonic = "danger bottom negative ugly gauge east gloom elevator camp lonely gap dinosaur";

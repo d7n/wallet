@@ -1,1 +1,1 @@
-var mnemonic = "tower monster industry doll inside vault debate wisdom cram reopen soda kidney";
+var mnemonic = "vast pelican pool home diesel real vibrant cargo private uniform kick category";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny parade dash purity outside solve agree crunch patrol initial company shine";
+var mnemonic = "dial digital enough valley net maximum theme summer polar path zebra luxury";

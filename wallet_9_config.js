@@ -1,1 +1,1 @@
-var mnemonic = "body unfold plunge latin spring arena lunch blanket casual destroy dish mean";
+var mnemonic = "scheme city catalog arrive fatal float gauge stereo oven odor february lumber";

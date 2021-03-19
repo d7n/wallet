@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo next better inmate spray find hand price object private cousin tree";
+var mnemonic = "canvas strategy gift journey smart panda marriage warm school pole drum planet";

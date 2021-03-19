@@ -1,1 +1,1 @@
-var mnemonic = "gravity vanish heavy release duck derive trend enable saddle flame color maid";
+var mnemonic = "real fame diary measure page stomach long release culture limb decade bullet";

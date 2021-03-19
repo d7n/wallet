@@ -1,1 +1,1 @@
-var mnemonic = "hero make reunion crush achieve tunnel video envelope suggest metal unlock tone";
+var mnemonic = "pudding purpose mix exhaust meat candy age festival uncover goddess feature horse";

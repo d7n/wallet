@@ -1,1 +1,1 @@
-var mnemonic = "member neck acid maze ordinary rescue mother mango silver heavy chase bulk";
+var mnemonic = "joy expire segment you core angry burden follow language divert obvious waste";
