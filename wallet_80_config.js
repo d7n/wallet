@@ -1,1 +1,1 @@
-var mnemonic = "grief zoo three midnight arctic broken tree explain awful banner various glance";
+var mnemonic = "head dish depend butter ensure unknown panic ghost vocal quarter demise old";

@@ -1,1 +1,1 @@
-var mnemonic = "jar marriage course culture scan evolve bacon brass deer install feature thumb";
+var mnemonic = "nest powder question library kiss buffalo recipe solar crumble orphan dawn derive";

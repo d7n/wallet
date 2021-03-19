@@ -1,1 +1,1 @@
-var mnemonic = "festival frame hill list cake welcome large share impulse flat photo super";
+var mnemonic = "debate process lonely jaguar siege pattern original relief hip place vibrant provide";

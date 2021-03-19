@@ -1,1 +1,1 @@
-var mnemonic = "doll thrive good chunk orphan foster reason minimum frame become acquire possible";
+var mnemonic = "left draft motion essence job paddle fence gap like print cinnamon execute";

@@ -1,1 +1,1 @@
-var mnemonic = "demand faint fatigue expire follow flat inform unusual wagon nothing spirit bench";
+var mnemonic = "rough brief rabbit use split spice save cactus above hammer genuine hub";

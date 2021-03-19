@@ -1,1 +1,1 @@
-var mnemonic = "prison weasel fashion soft busy trash struggle lens habit salute hour coconut";
+var mnemonic = "begin home ocean notice resource prefer milk ahead true eager wide wait";

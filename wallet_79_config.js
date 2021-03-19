@@ -1,1 +1,1 @@
-var mnemonic = "wage brand evidence middle midnight link wisdom they village noodle coil dash";
+var mnemonic = "march mask alter flame rubber dutch spend ball poet cup waste august";

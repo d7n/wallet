@@ -1,1 +1,1 @@
-var mnemonic = "ten aspect brush whale route frown pipe holiday twelve emerge gold chronic";
+var mnemonic = "cigar refuse diet dawn enemy crack enlist tobacco parent they gate summer";

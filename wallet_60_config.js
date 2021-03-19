@@ -1,1 +1,1 @@
-var mnemonic = "reunion script clock journey lady reveal airport hotel manage silent key hard";
+var mnemonic = "pond blanket person lion guard anxiety close beach velvet detail exhibit two";

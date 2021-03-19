@@ -1,1 +1,1 @@
-var mnemonic = "hobby you gold marriage tag else decrease bachelor midnight film soap useful";
+var mnemonic = "various kingdom shy small pelican improve family paper parade boss miss garage";

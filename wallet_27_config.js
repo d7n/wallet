@@ -1,1 +1,1 @@
-var mnemonic = "material exhaust mask road boat broom wall boost animal furnace plunge panther";
+var mnemonic = "limb zero breeze call flag degree medal faculty firm wing cargo list";

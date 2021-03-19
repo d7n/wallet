@@ -1,1 +1,1 @@
-var mnemonic = "mean dash that dash ranch tackle series become cute heavy tonight ribbon";
+var mnemonic = "bullet bamboo surprise apple maid arch first harvest popular leg wink car";

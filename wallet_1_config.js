@@ -1,1 +1,1 @@
-var mnemonic = "zero goat swear hero road loyal slice enhance trumpet churn truck cycle";
+var mnemonic = "rotate attack amazing square sure craft miracle clog wage prevent jeans zoo";

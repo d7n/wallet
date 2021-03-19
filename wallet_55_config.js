@@ -1,1 +1,1 @@
-var mnemonic = "term web print ugly void glad bean latin resemble source whale fire";
+var mnemonic = "diet lounge pull bulb outer seminar one reject session guess gossip plastic";

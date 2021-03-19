@@ -1,1 +1,1 @@
-var mnemonic = "define spirit keen hurt invite kangaroo divert tag lunch multiply mixture scheme";
+var mnemonic = "hockey filter toss pilot baby fury weasel suit practice fossil news mouse";

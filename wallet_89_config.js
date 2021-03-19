@@ -1,1 +1,1 @@
-var mnemonic = "ancient like monitor just blast all sudden then fever panda neutral atom";
+var mnemonic = "hobby youth buddy grace patch cross age artwork pause trophy praise borrow";

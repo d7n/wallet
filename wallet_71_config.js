@@ -1,1 +1,1 @@
-var mnemonic = "baby conduct belt move suffer render lion online inflict call grunt will";
+var mnemonic = "collect shop furnace situate resist agent bread obtain road antenna wood inject";

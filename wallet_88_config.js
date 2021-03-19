@@ -1,1 +1,1 @@
-var mnemonic = "uncover century unfair course attract census uncle genuine silly term romance alarm";
+var mnemonic = "antenna bicycle enter pear hen smart scatter point fat toward scheme brother";

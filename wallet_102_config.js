@@ -1,1 +1,1 @@
-var mnemonic = "mirror pulp pistol lazy bid run ridge unfair grain road salt chuckle";
+var mnemonic = "peasant heart icon leave kingdom suspect buddy critic crane explain riot fossil";

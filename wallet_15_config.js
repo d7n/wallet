@@ -1,1 +1,1 @@
-var mnemonic = "bring urge elegant oblige vehicle humble quick rural green second scheme input";
+var mnemonic = "slam cargo mule piano airport absent latin question tumble skin shaft excite";

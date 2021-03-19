@@ -1,1 +1,1 @@
-var mnemonic = "wood time second glass faint filter comic empower rare spice aerobic traffic";
+var mnemonic = "cat primary flip ranch proud accident choice motion glare ripple slogan cause";

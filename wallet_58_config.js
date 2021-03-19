@@ -1,1 +1,1 @@
-var mnemonic = "judge inmate grace inhale vendor vocal chapter sustain cross tide coast unknown";
+var mnemonic = "antenna rival feed consider food shallow armor click just family upgrade arrest";

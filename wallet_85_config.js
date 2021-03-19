@@ -1,1 +1,1 @@
-var mnemonic = "zero field owner apology flush correct glide dirt now cancel nephew oyster";
+var mnemonic = "chalk damage toward double ask actress recall practice song short zebra maze";

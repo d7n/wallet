@@ -1,1 +1,1 @@
-var mnemonic = "cake seven furnace often task knock lock appear way soul pool ask";
+var mnemonic = "cradle mosquito tornado hawk chaos jar limb taxi human describe skate certain";

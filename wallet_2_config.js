@@ -1,1 +1,1 @@
-var mnemonic = "loan alcohol hybrid damage chunk tuna between purse hollow resource tree web";
+var mnemonic = "teach next pigeon length network sick marriage author federal sugar trap case";

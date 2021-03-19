@@ -1,1 +1,1 @@
-var mnemonic = "poet cattle convince until success stage fury space gentle tumble broken flat";
+var mnemonic = "edit crouch badge ripple palm verify voyage super bunker awful poet tube";

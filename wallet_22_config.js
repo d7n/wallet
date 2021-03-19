@@ -1,1 +1,1 @@
-var mnemonic = "poet similar upgrade emerge innocent inflict fog leopard aerobic history home whale";
+var mnemonic = "orange frozen arrive update cancel name bag treat bulb bone model verb";

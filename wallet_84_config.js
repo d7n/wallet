@@ -1,1 +1,1 @@
-var mnemonic = "success candy roof derive vapor welcome park borrow avocado health fade raccoon";
+var mnemonic = "conduct hood draft aspect unusual real ready easily shop shove various decrease";

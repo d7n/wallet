@@ -1,1 +1,1 @@
-var mnemonic = "immense clay film bubble luxury trust rent cement silly iron lab flock";
+var mnemonic = "palm ride plunge ready comic radio liberty trip south burst cable oxygen";

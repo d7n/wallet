@@ -1,1 +1,1 @@
-var mnemonic = "shrug jar iron sustain barely peace leisure badge door grid dune arrest";
+var mnemonic = "bonus wine mad disease crumble dentist position dawn street grant push tray";

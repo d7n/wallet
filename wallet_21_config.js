@@ -1,1 +1,1 @@
-var mnemonic = "inform notable festival spy dish carpet island tennis immense comic please exist";
+var mnemonic = "match crane harvest candy detect alert shop demand throw saddle save thrive";

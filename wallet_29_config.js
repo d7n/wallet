@@ -1,1 +1,1 @@
-var mnemonic = "raccoon dad cushion come carpet ridge boss wonder maze cradle settle wage";
+var mnemonic = "antenna history view orient sauce poem charge ugly black click shuffle daughter";

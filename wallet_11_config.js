@@ -1,1 +1,1 @@
-var mnemonic = "derive cloud sudden disorder bacon satisfy fragile wealth suffer clinic arrow animal";
+var mnemonic = "guitar push canal recycle mosquito banner universe tragic club total sand junior";

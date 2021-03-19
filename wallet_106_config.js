@@ -1,1 +1,1 @@
-var mnemonic = "romance enjoy photo vendor trophy apart under margin join cactus quiz trend";
+var mnemonic = "unusual seat horn very genuine offer end real praise happy nice egg";

@@ -1,1 +1,1 @@
-var mnemonic = "valley friend north swift paddle front leopard flush fog position cable grunt";
+var mnemonic = "bronze float upon moment theory cook slam sense tonight scrap federal autumn";

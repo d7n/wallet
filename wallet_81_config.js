@@ -1,1 +1,1 @@
-var mnemonic = "citizen isolate young hollow company arena ride trim can orbit festival initial";
+var mnemonic = "rather torch volume bleak letter collect useless team tube upon kite inject";

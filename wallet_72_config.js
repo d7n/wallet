@@ -1,1 +1,1 @@
-var mnemonic = "assume chapter purpose sponsor stock age myth thank toddler side dismiss broccoli";
+var mnemonic = "stone machine toddler garage gloom battle sleep leg left phrase arrange aware";

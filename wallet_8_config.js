@@ -1,1 +1,1 @@
-var mnemonic = "achieve lawn spatial street erupt lesson diary uncle know sweet alcohol inch";
+var mnemonic = "ask nothing mistake abuse dad stove eight shrug clutch shrug address ridge";

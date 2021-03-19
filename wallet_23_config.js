@@ -1,1 +1,1 @@
-var mnemonic = "arrow stable only worth upset zoo wagon dad load stomach degree sea";
+var mnemonic = "light cry bench mimic exotic jungle loan offer upgrade scrub typical glad";

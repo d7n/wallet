@@ -1,1 +1,1 @@
-var mnemonic = "wet find poet river luxury cat aerobic flock circle example tunnel foster";
+var mnemonic = "injury ghost useless decade expire load hold powder idle symbol tape rib";

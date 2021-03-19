@@ -1,1 +1,1 @@
-var mnemonic = "trip own split pitch coach life cradle vital motor dream increase pioneer";
+var mnemonic = "rigid jaguar carpet jacket brass exchange broccoli position travel festival visual chief";

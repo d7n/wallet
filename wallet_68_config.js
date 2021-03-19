@@ -1,1 +1,1 @@
-var mnemonic = "split blush clap friend liar tilt crawl announce medal swallow also found";
+var mnemonic = "tent write rather fiscal assume arm garbage uncle differ season admit butter";

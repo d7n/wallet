@@ -1,1 +1,1 @@
-var mnemonic = "occur coil option outer noodle onion enlist invest before agree assist wall";
+var mnemonic = "street tortoise six drastic obtain wheat common zero unlock chase major crawl";

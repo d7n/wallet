@@ -1,1 +1,1 @@
-var mnemonic = "cross impulse fuel join lucky soft razor when throw oyster frozen flip";
+var mnemonic = "sail gun warfare grow surge vague shoot method daughter stairs miracle very";

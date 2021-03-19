@@ -1,1 +1,1 @@
-var mnemonic = "quality boy awful home kiss unhappy olive sniff pulse fame slot sound";
+var mnemonic = "gospel enemy cigar achieve celery grit merge bitter select category hand envelope";

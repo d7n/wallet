@@ -1,1 +1,1 @@
-var mnemonic = "because private iron trash shuffle voyage usual crash tent horn surround arrange";
+var mnemonic = "speed spider belt stem height stem avocado ignore oblige task trim arrest";

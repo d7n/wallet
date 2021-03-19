@@ -1,1 +1,1 @@
-var mnemonic = "tunnel survey one desert review odor brush engage chalk rough chaos session";
+var mnemonic = "foil climb dad sport child boost game best logic hurdle pig benefit";

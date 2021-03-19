@@ -1,1 +1,1 @@
-var mnemonic = "immense panic merge tattoo elbow endorse alert ordinary grain chimney method couple";
+var mnemonic = "hawk decrease salmon business close gather hand much riot cave profit vibrant";

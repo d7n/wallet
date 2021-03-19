@@ -1,1 +1,1 @@
-var mnemonic = "stamp pattern motor rather wage tunnel hero climb mushroom fun horror thrive";
+var mnemonic = "approve apple license wild anchor shallow detail spring birth discover trip code";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly evidence average special claw inform wide remember increase bracket high double";
+var mnemonic = "pyramid butter afford fringe secret hospital siren sport nuclear vessel joy radar";

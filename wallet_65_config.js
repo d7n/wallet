@@ -1,1 +1,1 @@
-var mnemonic = "useful half gown capital thumb slogan genius bridge swallow crane shrimp dragon";
+var mnemonic = "chair vast message van thank guide put expire cute vapor evil cup";

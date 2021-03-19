@@ -1,1 +1,1 @@
-var mnemonic = "window town chicken list nuclear position jaguar river armed spot post provide";
+var mnemonic = "expect whip insect quit render parade net between proof hip sausage apology";

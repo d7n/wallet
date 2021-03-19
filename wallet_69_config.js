@@ -1,1 +1,1 @@
-var mnemonic = "pair decade gas fit illness say fragile parent shrug nature squeeze word";
+var mnemonic = "online noise force tuna labor cigar method receive birth forum question frown";

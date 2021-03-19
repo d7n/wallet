@@ -1,1 +1,1 @@
-var mnemonic = "throw notable bachelor amateur artwork camera already basic person observe thank kid";
+var mnemonic = "divide gasp submit pepper kitten soda undo crane retreat puppy horse castle";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer pigeon hard talent stock rely actress mango web lobster fame input";
+var mnemonic = "crouch hip impact put antenna rack grass knife visa seed report round";

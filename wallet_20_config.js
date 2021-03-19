@@ -1,1 +1,1 @@
-var mnemonic = "moment visit squirrel split hundred swift grass ball soft quote liquid number";
+var mnemonic = "picture angry release sport must circle ladder whip call coffee tank mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber kick boss crush fresh online addict gorilla agree vendor magnet correct";
+var mnemonic = "post bike sudden oval trip rhythm bomb flush trend film report desert";

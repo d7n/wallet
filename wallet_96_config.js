@@ -1,1 +1,1 @@
-var mnemonic = "shoot regret pool rigid vague consider cabbage crack sand behind client process";
+var mnemonic = "zoo profit grocery render garage business move virus right olive volcano tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb scissors supply taste promote put involve explain wheat theory purse cigar";
+var mnemonic = "donkey bacon jealous arch antenna glow despair steak private defense patch cricket";

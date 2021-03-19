@@ -1,1 +1,1 @@
-var mnemonic = "under chat wave practice silk field member brother initial vessel march fragile";
+var mnemonic = "alcohol cupboard rely middle cabbage palm jealous age verify arena copper region";

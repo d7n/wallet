@@ -1,1 +1,1 @@
-var mnemonic = "glare horse exist visual naive title zebra label pool female alcohol clutch";
+var mnemonic = "expose street swear essay immense lamp detail undo transfer bargain foster nation";

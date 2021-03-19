@@ -1,1 +1,1 @@
-var mnemonic = "that frame approve bar entire good student extra connect cup cousin nuclear";
+var mnemonic = "speed humble ozone spice cannon dolphin slight point music canvas middle base";

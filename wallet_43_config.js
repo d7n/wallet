@@ -1,1 +1,1 @@
-var mnemonic = "ability funny region voice caution jar since cigar rookie tumble proud rotate";
+var mnemonic = "vocal crush shield toy proof team public sleep soda person party major";

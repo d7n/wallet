@@ -1,1 +1,1 @@
-var mnemonic = "injury deny top comic cost split hamster width north push virtual hundred";
+var mnemonic = "feed camera volcano hood brain fever endorse defense there glass summer kind";

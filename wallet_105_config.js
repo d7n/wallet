@@ -1,1 +1,1 @@
-var mnemonic = "subject sad blame fox plunge negative morning six garage battle drastic digital";
+var mnemonic = "citizen slow erupt crisp inject aware wrap range input alarm shield amused";

@@ -1,1 +1,1 @@
-var mnemonic = "story web energy vacuum thought nominee divorce satisfy worry siege jelly nominee";
+var mnemonic = "mutual damage course file soul fee leader crush ship ticket country door";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling theme injury team guard lazy gallery decrease attitude clerk budget legend";
+var mnemonic = "bacon excite company choice balcony shell pulse demise sort jaguar rifle slush";

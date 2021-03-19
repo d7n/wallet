@@ -1,1 +1,1 @@
-var mnemonic = "liar update pretty usage wire leopard term weird nation exercise habit reopen";
+var mnemonic = "illness tragic typical kit ketchup abstract day usual minimum devote device game";

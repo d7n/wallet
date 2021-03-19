@@ -1,1 +1,1 @@
-var mnemonic = "bean prevent invite globe neither marriage afford tongue brief labor meat island";
+var mnemonic = "seat ignore clock usage gravity attack under canvas crystal item decrease lamp";

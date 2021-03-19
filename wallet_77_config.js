@@ -1,1 +1,1 @@
-var mnemonic = "target start blush jump pepper come alley exile stable quote daughter border";
+var mnemonic = "physical lobster athlete private public twenty inquiry post better destroy left harvest";

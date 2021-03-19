@@ -1,1 +1,1 @@
-var mnemonic = "sheriff remind drive kiss smile toy pumpkin hold glove resource fiscal van";
+var mnemonic = "apart annual pig clutch member brief music true away there twelve noodle";

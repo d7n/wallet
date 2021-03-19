@@ -1,1 +1,1 @@
-var mnemonic = "pipe armor sick village puzzle clarify oven wrong tattoo secret dad nature";
+var mnemonic = "enact balcony private initial vehicle frog claw high gallery volume sand milk";

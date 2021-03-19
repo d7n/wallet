@@ -1,1 +1,1 @@
-var mnemonic = "rookie ginger vehicle reward empty diary keep leg cotton used use that";
+var mnemonic = "snake dial raw timber forward velvet exist hurt list planet person crowd";

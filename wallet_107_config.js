@@ -1,1 +1,1 @@
-var mnemonic = "jar above mosquito anger hub answer cactus fruit prepare quality benefit drill";
+var mnemonic = "magic surge inmate flush grab peanut walk combine stock program pelican monkey";

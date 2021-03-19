@@ -1,1 +1,1 @@
-var mnemonic = "uncle bracket recall coyote tell oak hire tortoise course clown rude grant";
+var mnemonic = "seven message clean practice office dirt occur tuna spin guilt fiber bottom";

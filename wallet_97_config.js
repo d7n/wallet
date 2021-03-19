@@ -1,1 +1,1 @@
-var mnemonic = "pony round tunnel come absorb grid half hire room pair penalty name";
+var mnemonic = "salt legal yellow kiss fantasy loan royal zero fog avoid custom derive";

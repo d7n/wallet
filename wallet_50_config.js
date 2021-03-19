@@ -1,1 +1,1 @@
-var mnemonic = "arrow fold list ignore sting clinic move dragon blossom bread muscle drip";
+var mnemonic = "awake execute ribbon spring timber party bachelor suffer parade spirit already peace";

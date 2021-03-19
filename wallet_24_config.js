@@ -1,1 +1,1 @@
-var mnemonic = "clinic before useless blast zebra electric deer space worry undo above slow";
+var mnemonic = "ready pink buyer blossom conduct stamp grace husband much group space broken";

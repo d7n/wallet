@@ -1,1 +1,1 @@
-var mnemonic = "flash sick fantasy aerobic van clean peanut enable cement soda congress mother";
+var mnemonic = "movie purse pull brief milk calm spice drastic warrior response run slot";

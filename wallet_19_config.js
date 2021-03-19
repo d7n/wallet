@@ -1,1 +1,1 @@
-var mnemonic = "foster ice reward angry clay cave casino fence crystal lizard orphan afford";
+var mnemonic = "surge crunch street cream autumn you coral weapon demise federal grass choice";

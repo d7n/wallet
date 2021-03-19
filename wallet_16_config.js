@@ -1,1 +1,1 @@
-var mnemonic = "hood kid auction base circle sample satoshi net fuel ready million light";
+var mnemonic = "inhale circle harvest zebra depart already near undo undo client sport brother";

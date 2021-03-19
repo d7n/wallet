@@ -1,1 +1,1 @@
-var mnemonic = "coast divorce close owner hole unique raise early amused great dinner plastic";
+var mnemonic = "miracle approve seed pulp talk palace dutch alone gallery crystal waste attend";

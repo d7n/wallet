@@ -1,1 +1,1 @@
-var mnemonic = "pig float upper once two roof rain base uncover eternal adjust muffin";
+var mnemonic = "unfold coach empower industry slight quality warfare glare woman shove flame dolphin";

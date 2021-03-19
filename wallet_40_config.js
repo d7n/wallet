@@ -1,1 +1,1 @@
-var mnemonic = "brother stand cover pull hover furnace ginger hair report tattoo refuse spend";
+var mnemonic = "pizza viable rain wire boost panic speed february cart fresh slow warfare";

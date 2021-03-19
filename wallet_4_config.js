@@ -1,1 +1,1 @@
-var mnemonic = "ticket desk rug squeeze elevator require loop clerk act border spoil solution";
+var mnemonic = "baby glimpse universe fade great twelve core perfect luggage wagon begin panda";

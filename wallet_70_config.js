@@ -1,1 +1,1 @@
-var mnemonic = "rifle horror energy more crew chalk arena voyage above vacant never reflect";
+var mnemonic = "thrive matter you iron flash harvest come truly process alert stage satoshi";

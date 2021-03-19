@@ -1,1 +1,1 @@
-var mnemonic = "trade trust gap bike behave aspect sport word call truck lemon tissue";
+var mnemonic = "distance board tenant clump proud prosper patch enact regret bright accident truth";

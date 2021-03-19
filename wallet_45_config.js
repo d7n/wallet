@@ -1,1 +1,1 @@
-var mnemonic = "grow gown puppy seat harvest square dash evil rare brush onion broken";
+var mnemonic = "immune tank math opera dizzy basic very excite title become embark fee";

@@ -1,1 +1,1 @@
-var mnemonic = "behave endless enhance face blind tooth size twelve design riot predict donor";
+var mnemonic = "ridge soda bread expand boat journey medal acid duck battle mechanic baby";

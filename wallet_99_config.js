@@ -1,1 +1,1 @@
-var mnemonic = "record skill mountain custom biology aspect robot swim dune body jelly caught";
+var mnemonic = "bleak industry slice impulse mushroom rail motor danger basic genuine dirt exile";

@@ -1,1 +1,1 @@
-var mnemonic = "bid pond scrub grape comfort magnet kind clay panda figure surge alley";
+var mnemonic = "unhappy fork jelly wild fever inhale load whisper tape coyote strong tobacco";

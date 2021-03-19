@@ -1,1 +1,1 @@
-var mnemonic = "submit verify degree grape figure paddle topple power honey certain volcano shuffle";
+var mnemonic = "foil husband blind float ramp route season change feel pizza valid fault";

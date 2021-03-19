@@ -1,1 +1,1 @@
-var mnemonic = "onion pair math lens tortoise order same weekend best merge stock country";
+var mnemonic = "buddy laptop prefer clown cargo balance tuna apart work monitor arrive gate";
