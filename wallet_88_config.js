@@ -1,1 +1,1 @@
-var mnemonic = "under outdoor food mirror crush sugar waste auto leopard wage race market";
+var mnemonic = "raw library token arch kitchen credit opinion poet paper interest latin staff";

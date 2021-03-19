@@ -1,1 +1,1 @@
-var mnemonic = "erase pen around raven lemon window fork flavor march hawk flip label";
+var mnemonic = "swarm audit beef excess web badge culture tag organ biology have trade";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness harsh city slam divert horse just maple umbrella bullet eye era";
+var mnemonic = "park crouch raise enrich certain crumble urban panel pledge illness remind cart";

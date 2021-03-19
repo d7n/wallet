@@ -1,1 +1,1 @@
-var mnemonic = "armed palm inside index maximum skate sure clog weird hybrid glue manage";
+var mnemonic = "cabin trumpet task anger scheme major thumb result tide forest dynamic shaft";

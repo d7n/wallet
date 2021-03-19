@@ -1,1 +1,1 @@
-var mnemonic = "cute sock protect ostrich cement group photo own marble love bitter carry";
+var mnemonic = "crack drift settle draft fit shock major evolve garlic wreck across coil";

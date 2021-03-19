@@ -1,1 +1,1 @@
-var mnemonic = "earth aisle dentist maid metal receive vibrant need review exotic pill execute";
+var mnemonic = "lunar nasty panther royal earth album pet jeans vendor farm axis flower";

@@ -1,1 +1,1 @@
-var mnemonic = "state melt woman marine left pause scene obscure attend health update laugh";
+var mnemonic = "eye essence essence link lunar swallow thunder cattle vicious crucial easy steel";

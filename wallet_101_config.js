@@ -1,1 +1,1 @@
-var mnemonic = "problem unveil vessel sudden example express lock police turkey cash member staff";
+var mnemonic = "creek task end lunch seminar tell author tent lazy curtain buddy basket";

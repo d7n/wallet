@@ -1,1 +1,1 @@
-var mnemonic = "panther scale piano motion mimic beauty intact capable wave stone invest monster";
+var mnemonic = "equip pact arrive bonus risk evil multiply toy chicken pyramid scrub debris";

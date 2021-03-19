@@ -1,1 +1,1 @@
-var mnemonic = "outside april split polar frame explain trial jealous soap original pipe smile";
+var mnemonic = "shaft garment lamp wage cruise glove swap arrest hollow denial castle gap";

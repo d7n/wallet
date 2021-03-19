@@ -1,1 +1,1 @@
-var mnemonic = "twelve glimpse food cannon stick crew negative punch velvet van mimic refuse";
+var mnemonic = "addict burger lab flash verify student invite victory loan sort vocal reveal";

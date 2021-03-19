@@ -1,1 +1,1 @@
-var mnemonic = "improve giraffe furnace soft target trim already hollow soup base edge apart";
+var mnemonic = "skate cage crop relief cry brush century ostrich laugh curtain subject clever";

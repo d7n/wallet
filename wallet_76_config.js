@@ -1,1 +1,1 @@
-var mnemonic = "deputy blur excuse later debate feed fiction copper inherit night wild wrap";
+var mnemonic = "bike ugly section expand name rug dizzy student size silly loud parent";

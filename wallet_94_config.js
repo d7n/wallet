@@ -1,1 +1,1 @@
-var mnemonic = "inhale cat main design limit fuel auction such cost bounce benefit hole";
+var mnemonic = "sting kit october puppy knife collect chef dinner diary spider actress intact";

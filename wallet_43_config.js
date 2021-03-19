@@ -1,1 +1,1 @@
-var mnemonic = "smoke weasel term wear force wagon rabbit drum flock tongue fancy sea";
+var mnemonic = "fish light ancient dress loud paper tonight volume cry bleak seven lyrics";

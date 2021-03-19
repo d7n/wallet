@@ -1,1 +1,1 @@
-var mnemonic = "cupboard million bar defense ring amused enter popular fever engage harbor degree";
+var mnemonic = "pool steak gap insane hospital nation lottery junk embark grid defense cause";

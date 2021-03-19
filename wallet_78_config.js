@@ -1,1 +1,1 @@
-var mnemonic = "joy vital easily keen finger matrix comic fox local silk cement mimic";
+var mnemonic = "clip shallow want library hybrid gloom student damp lamp few balance attack";

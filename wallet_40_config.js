@@ -1,1 +1,1 @@
-var mnemonic = "garment forward legend purity exchange shock cart certain lunar swallow space pistol";
+var mnemonic = "cancel reunion sock island artwork weekend meat loop east issue protect allow";

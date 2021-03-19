@@ -1,1 +1,1 @@
-var mnemonic = "color enemy element senior special approve crime resist ordinary price heavy viable";
+var mnemonic = "hurt coach cluster broccoli age price imitate involve duck issue donate cash";

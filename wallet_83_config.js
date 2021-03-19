@@ -1,1 +1,1 @@
-var mnemonic = "shrug prison lounge call canyon crack token season where green brisk modify";
+var mnemonic = "hand symptom stool rebuild rule forest aerobic illegal host cannon sorry page";

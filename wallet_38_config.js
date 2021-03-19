@@ -1,1 +1,1 @@
-var mnemonic = "melt budget someone fence total wealth door aim pepper buffalo weird burger";
+var mnemonic = "funny entire fluid morning salon change crane abstract analyst file galaxy focus";

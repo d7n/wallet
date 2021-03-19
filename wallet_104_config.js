@@ -1,1 +1,1 @@
-var mnemonic = "symbol vivid avocado spider cause endless grain wage jealous soldier awful cruel";
+var mnemonic = "visual aspect run finger field parrot fragile glimpse maximum tragic fantasy notable";

@@ -1,1 +1,1 @@
-var mnemonic = "time strike render include bonus mom since keen ripple afford dynamic popular";
+var mnemonic = "armed lobster naive ozone attract surface mirror autumn dress consider today sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse must salmon smooth village desert soccer movie gather slam gift disorder";
+var mnemonic = "delay chuckle grunt swing fly snap dust wait shadow faint march trash";

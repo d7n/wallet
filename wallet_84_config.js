@@ -1,1 +1,1 @@
-var mnemonic = "limit hire depart victory birth loyal silly royal analyst grief radar empower";
+var mnemonic = "muffin grid egg small sense fiber stamp peasant family minute rug present";

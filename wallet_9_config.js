@@ -1,1 +1,1 @@
-var mnemonic = "always palm weekend patch neither unfold proof pear merge elegant object absorb";
+var mnemonic = "kit lens couple area acquire mistake inside squirrel educate corn yard skate";

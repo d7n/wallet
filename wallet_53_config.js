@@ -1,1 +1,1 @@
-var mnemonic = "later drive dragon risk board reunion intact legend digital absent hotel royal";
+var mnemonic = "subject guilt lend motion critic bachelor drift patrol industry mountain pave harbor";

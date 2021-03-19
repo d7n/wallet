@@ -1,1 +1,1 @@
-var mnemonic = "security chaos huge wonder arena speed mom tenant trim side mixed exhibit";
+var mnemonic = "skull limit attend exhaust recipe crack alien layer regular twelve garden figure";

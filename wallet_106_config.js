@@ -1,1 +1,1 @@
-var mnemonic = "win doll write zebra crucial fence road mansion certain squeeze benefit infant";
+var mnemonic = "pass depart depth tackle horn either goddess volcano chaos warm metal hobby";

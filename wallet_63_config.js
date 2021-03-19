@@ -1,1 +1,1 @@
-var mnemonic = "camp can mass market control wrist spawn amateur tip antenna cash prefer";
+var mnemonic = "chaos disease stamp chat trap brown enrich gate payment survey glove brand";

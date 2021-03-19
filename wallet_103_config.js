@@ -1,1 +1,1 @@
-var mnemonic = "all awake pink mountain turtle sand afford hurdle gossip shell cost tape";
+var mnemonic = "brother inner boost liquid hold snap boil door loud hint perfect before";

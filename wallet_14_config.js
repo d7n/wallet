@@ -1,1 +1,1 @@
-var mnemonic = "cabbage piano derive hole author family work memory phone rifle pumpkin fall";
+var mnemonic = "online mimic impose purpose train payment inform canal library cluster proof process";

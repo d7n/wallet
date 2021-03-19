@@ -1,1 +1,1 @@
-var mnemonic = "address clog nature crazy album night purchase fox fancy correct exile man";
+var mnemonic = "know slide minor flower super fossil volcano frame video outdoor verb utility";

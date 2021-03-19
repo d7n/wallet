@@ -1,1 +1,1 @@
-var mnemonic = "oblige gain deliver fury arrest hotel drill burden outside print drive indoor";
+var mnemonic = "account device crop swing guitar barely easily syrup where situate mercy auto";

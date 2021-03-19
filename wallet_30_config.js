@@ -1,1 +1,1 @@
-var mnemonic = "lunch rookie stand fury nasty van dog render auction brain fatigue slot";
+var mnemonic = "design season park still proof inject private gasp fox knock fantasy oak";

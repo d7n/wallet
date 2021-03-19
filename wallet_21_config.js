@@ -1,1 +1,1 @@
-var mnemonic = "february vendor climb excite enact side claw ball judge flame idea speak";
+var mnemonic = "track crack lounge feed field add define acid demand radar feature easily";

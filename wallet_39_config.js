@@ -1,1 +1,1 @@
-var mnemonic = "length machine orient calm always visa wing resource dinner say lab excite";
+var mnemonic = "ordinary cricket move fluid weekend scorpion lottery baby brown tool kiss stand";

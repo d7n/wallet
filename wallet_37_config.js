@@ -1,1 +1,1 @@
-var mnemonic = "hire stadium lawn cave lend stand apology rent industry airport penalty umbrella";
+var mnemonic = "park arena donor child laptop similar ability square envelope task plastic october";

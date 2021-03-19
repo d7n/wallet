@@ -1,1 +1,1 @@
-var mnemonic = "orphan clock since review kind regular use inch galaxy fame load curve";
+var mnemonic = "raise chaos fatal stay blush can air text urge exotic special sorry";

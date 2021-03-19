@@ -1,1 +1,1 @@
-var mnemonic = "tornado cause usual walk large intact unusual dizzy torch rib modify abandon";
+var mnemonic = "brown sting hello debris south hammer ugly carpet creek must season valid";

@@ -1,1 +1,1 @@
-var mnemonic = "risk accuse tide pond kit injury fire noodle office smart subject flower";
+var mnemonic = "crystal arrow retreat toddler foil avocado pepper knife fiction yard accuse believe";

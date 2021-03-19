@@ -1,1 +1,1 @@
-var mnemonic = "prefer grocery drive slot bacon divide sense dignity asset recall almost birth";
+var mnemonic = "hard welcome donor gold dish ethics beyond fun chair trick road essay";

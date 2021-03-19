@@ -1,1 +1,1 @@
-var mnemonic = "elite version squirrel fruit wood basic keep raccoon olympic escape pool unfold";
+var mnemonic = "dignity volcano glove road involve narrow display sponsor rib matrix tackle poverty";

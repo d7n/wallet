@@ -1,1 +1,1 @@
-var mnemonic = "accident child monster split ankle panther fence oval arrow evoke celery devote";
+var mnemonic = "horn orange say tape wing stumble end choice junk envelope rely true";

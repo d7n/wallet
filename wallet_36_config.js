@@ -1,1 +1,1 @@
-var mnemonic = "expose crane thought abandon repeat aspect sorry rough pipe hood carpet filter";
+var mnemonic = "chimney depth exist warrior arctic online kind wheel keen edge october kiss";

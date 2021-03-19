@@ -1,1 +1,1 @@
-var mnemonic = "say finish spread possible fresh frown metal novel brisk wave hard miracle";
+var mnemonic = "illegal picture silent issue reward subway turkey left echo inject veteran ladder";

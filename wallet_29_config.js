@@ -1,1 +1,1 @@
-var mnemonic = "annual demand dune type rude series close nominee lab also perfect february";
+var mnemonic = "typical reduce autumn nothing card essay rival cup lawn session ladder scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen then more cigar tank power fashion noble town cloth judge sibling";
+var mnemonic = "define shaft pull inside wood rude buzz worth car dial obtain chimney";

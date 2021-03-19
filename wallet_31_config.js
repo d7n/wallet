@@ -1,1 +1,1 @@
-var mnemonic = "tube project alien undo helmet search small harsh toy dance hospital ketchup";
+var mnemonic = "rotate outer slush gold canyon kitchen suspect planet sight above inherit kiwi";

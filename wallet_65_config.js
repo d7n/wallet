@@ -1,1 +1,1 @@
-var mnemonic = "remember shoulder dinner impact call rhythm misery snake animal web balcony ski";
+var mnemonic = "pizza obscure slender penalty easily address fine clock crane owner foot curious";

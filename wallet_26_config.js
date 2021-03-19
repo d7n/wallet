@@ -1,1 +1,1 @@
-var mnemonic = "spread actress random wet bless remove list horror dolphin music inmate panther";
+var mnemonic = "truck carbon cannon tumble advance hover arrange charge cliff flat slice case";

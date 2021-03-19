@@ -1,1 +1,1 @@
-var mnemonic = "flag unfair vehicle please load gesture famous dose orient join decide crisp";
+var mnemonic = "aisle tool notice feature match latin always wheat sustain scout nurse device";

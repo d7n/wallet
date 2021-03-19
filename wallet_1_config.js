@@ -1,1 +1,1 @@
-var mnemonic = "student tiger ten pumpkin return gain life payment circle common limb grain";
+var mnemonic = "private moment wet book agent judge hybrid seed firm creek client jar";

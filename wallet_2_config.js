@@ -1,1 +1,1 @@
-var mnemonic = "cancel spring warfare time wife soap develop trick plate cheese already unique";
+var mnemonic = "stone miss ship memory panel purse nothing equip animal grass target minor";

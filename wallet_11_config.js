@@ -1,1 +1,1 @@
-var mnemonic = "eagle loan wire bleak access tortoise raccoon valley daughter stairs admit angry";
+var mnemonic = "twin tattoo erupt eight slot viable acoustic believe inspire purpose elbow save";

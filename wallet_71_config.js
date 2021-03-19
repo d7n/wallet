@@ -1,1 +1,1 @@
-var mnemonic = "merry ahead deposit shaft ocean slam female punch comic dynamic funny report";
+var mnemonic = "best inside blur diary taste fashion review dog subject sugar silver fruit";

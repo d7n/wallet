@@ -1,1 +1,1 @@
-var mnemonic = "corn orchard sheriff twelve gentle wear staff large need crunch focus over";
+var mnemonic = "patient torch child window embrace track echo defense update area light local";

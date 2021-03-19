@@ -1,1 +1,1 @@
-var mnemonic = "push input multiply prize spread ring boat edge raw route switch romance";
+var mnemonic = "friend spend make color tonight bind worth grow gun food tube truth";

@@ -1,1 +1,1 @@
-var mnemonic = "chief future unusual edge wonder toe kiss ahead wolf shoot seat immune";
+var mnemonic = "already soul celery else foster student dwarf powder rack layer limit volume";

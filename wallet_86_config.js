@@ -1,1 +1,1 @@
-var mnemonic = "buyer same home father cube middle pact slide bone major pool sunny";
+var mnemonic = "goat plug busy license sort include tape rhythm head cricket clock minute";

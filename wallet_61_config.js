@@ -1,1 +1,1 @@
-var mnemonic = "draft romance raven wave size small whisper outdoor cry mechanic soon circle";
+var mnemonic = "urban nice major quick local post expire purchase spirit capable scissors desert";

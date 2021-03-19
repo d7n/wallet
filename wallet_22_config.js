@@ -1,1 +1,1 @@
-var mnemonic = "elder head balcony wage deliver robust cancel tone magic ride planet wink";
+var mnemonic = "improve vacant shop current above turtle milk story holiday head glass before";

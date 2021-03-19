@@ -1,1 +1,1 @@
-var mnemonic = "joy amazing other famous badge frown wonder icon capable search avocado coffee";
+var mnemonic = "buzz village mirror junior barrel crystal bid traffic sign joke forward side";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust ranch since tool regret resemble puzzle clip subject veteran recipe orphan";
+var mnemonic = "hover birth burger draw elder badge love medal bean bleak language better";

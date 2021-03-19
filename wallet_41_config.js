@@ -1,1 +1,1 @@
-var mnemonic = "wrong grief cupboard flame aisle dirt left uncover poem episode april mobile";
+var mnemonic = "lion photo hockey move bag uncle latin narrow fragile future hire sea";

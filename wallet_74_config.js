@@ -1,1 +1,1 @@
-var mnemonic = "nation group spread spread verify brother lock join remember strong fork sponsor";
+var mnemonic = "inner wolf ceiling can gas pond napkin photo weasel grape ethics nature";

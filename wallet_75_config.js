@@ -1,1 +1,1 @@
-var mnemonic = "pilot pizza tattoo kidney web palace face vivid into liquid hood reunion";
+var mnemonic = "disease vivid slide coffee wise plug pill jelly stick frame rather frequent";

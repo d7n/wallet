@@ -1,1 +1,1 @@
-var mnemonic = "release lab fix stand author cross live anger thank axis brief patrol";
+var mnemonic = "industry icon lawsuit flag joy knee honey color this spoon rely universe";

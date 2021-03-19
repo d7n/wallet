@@ -1,1 +1,1 @@
-var mnemonic = "save cream blue bullet river quit fatigue vendor decade tobacco capital pen";
+var mnemonic = "mixed toilet gossip merge envelope celery small order search note chat fire";

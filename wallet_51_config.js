@@ -1,1 +1,1 @@
-var mnemonic = "organ cattle defense choice flash opinion enable fashion thunder piece chef spy";
+var mnemonic = "fold entire lamp distance ready vast few wonder crew yellow airport wool";

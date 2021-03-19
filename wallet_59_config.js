@@ -1,1 +1,1 @@
-var mnemonic = "step smile bunker captain winner vacant nature grape couple position copy senior";
+var mnemonic = "vital report acid already avoid jeans follow glance cage rebuild mule season";

@@ -1,1 +1,1 @@
-var mnemonic = "culture subway come clog quote clown lumber present fringe link milk civil";
+var mnemonic = "alien reflect zebra shy neither time again quick regret brush relax olive";

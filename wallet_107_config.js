@@ -1,1 +1,1 @@
-var mnemonic = "divide audit wear gym embrace next exclude cricket clever hair make ostrich";
+var mnemonic = "reform town rubber special creek elder inflict army stay trick tent calm";

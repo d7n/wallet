@@ -1,1 +1,1 @@
-var mnemonic = "grid nuclear trend retreat wide sell find peanut any hurdle visual early";
+var mnemonic = "roof inmate begin table hope frequent deal fancy abstract describe matrix side";

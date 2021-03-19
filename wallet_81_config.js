@@ -1,1 +1,1 @@
-var mnemonic = "betray elevator vessel angle party steel affair dynamic moral frequent crack early";
+var mnemonic = "trap blossom erode north ice you outer local comfort peanut bulk ghost";

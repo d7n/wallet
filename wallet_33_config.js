@@ -1,1 +1,1 @@
-var mnemonic = "health vital pulse assault ripple song fluid pen split combine mammal hold";
+var mnemonic = "trick reward mesh west guess rigid ice half devote north gun sure";

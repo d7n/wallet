@@ -1,1 +1,1 @@
-var mnemonic = "win like damp cushion camera extra ability sick admit despair tunnel culture";
+var mnemonic = "spoil wool acoustic doctor pottery travel siren laundry biology jewel fiber void";

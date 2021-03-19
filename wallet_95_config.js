@@ -1,1 +1,1 @@
-var mnemonic = "sheriff indicate special yard shine elbow topple carbon smoke announce job meadow";
+var mnemonic = "equip sustain border turn hamster year wreck nephew turtle cannon cabin essay";

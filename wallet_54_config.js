@@ -1,1 +1,1 @@
-var mnemonic = "frozen clog then salmon rent hazard ritual file auction staff erode wasp";
+var mnemonic = "donor omit frown rain achieve pepper jealous pet ribbon subway stick vivid";

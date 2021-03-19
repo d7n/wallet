@@ -1,1 +1,1 @@
-var mnemonic = "country butter box shine hello slush swim attract cargo absurd slender blood";
+var mnemonic = "hair huge item cage jungle excess mask uncle purity desert clock family";

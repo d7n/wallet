@@ -1,1 +1,1 @@
-var mnemonic = "drink invite pig visa ordinary fish top mandate fashion day attitude drastic";
+var mnemonic = "grow wasp you broccoli solution film weird trade enforce morning draw october";

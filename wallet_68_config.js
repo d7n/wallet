@@ -1,1 +1,1 @@
-var mnemonic = "blanket peanut grid ordinary join spy advance title skirt bunker trust february";
+var mnemonic = "lyrics shell tunnel child chef tobacco era crime sun hold town wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "physical prefer naive lava polar unique news misery voyage physical novel puzzle";
+var mnemonic = "bottom another this rich control dinner exchange onion bronze rely nature custom";

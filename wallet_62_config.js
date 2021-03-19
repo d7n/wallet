@@ -1,1 +1,1 @@
-var mnemonic = "mimic equip fiscal estate height borrow sentence iron flight toilet include inform";
+var mnemonic = "link key approve toss struggle kid proud magnet grit hand direct more";

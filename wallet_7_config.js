@@ -1,1 +1,1 @@
-var mnemonic = "sun lift power fan woman clock bundle father nephew acquire together garlic";
+var mnemonic = "high setup carbon cluster grief ensure group sudden dice hub also prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence dish tissue quality august soft silly choice hold ring cactus lazy";
+var mnemonic = "maid napkin trust insane company cash slogan spot valve shell unaware ship";

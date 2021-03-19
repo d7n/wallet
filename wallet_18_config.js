@@ -1,1 +1,1 @@
-var mnemonic = "alarm glimpse balcony relief boy choose energy expire tuition knife exercise poet";
+var mnemonic = "orient today dutch deer urge glide drama ordinary area receive noise balance";

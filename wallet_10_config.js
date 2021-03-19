@@ -1,1 +1,1 @@
-var mnemonic = "venture episode orphan tag toss lounge fine warrior season asset once square";
+var mnemonic = "boy group hospital drink gauge ball kind party animal sudden shoot vapor";

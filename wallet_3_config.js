@@ -1,1 +1,1 @@
-var mnemonic = "bulk easily mix post ship ready acid plug small target fall vital";
+var mnemonic = "shy bone differ wreck venture response power check speed magic knock evidence";

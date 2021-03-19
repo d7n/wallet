@@ -1,1 +1,1 @@
-var mnemonic = "shoe grab identify fire twelve tag pluck task reason juice tattoo typical";
+var mnemonic = "cabin client exclude quote hour sudden bronze crystal inhale cotton trumpet matrix";

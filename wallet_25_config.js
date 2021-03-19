@@ -1,1 +1,1 @@
-var mnemonic = "produce auction fortune notable gaze skate problem crash brick thumb assault page";
+var mnemonic = "multiply jealous army member obvious genuine answer virus issue fetch flush dice";

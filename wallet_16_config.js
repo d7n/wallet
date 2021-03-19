@@ -1,1 +1,1 @@
-var mnemonic = "hero track what valley float situate roof friend marble famous response print";
+var mnemonic = "trend begin fine sing kingdom rocket owner voyage hockey walnut party system";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket diesel arch pig measure claw busy online coast type final bench";
+var mnemonic = "street hidden picnic shrimp display giraffe citizen blast bid fabric business rookie";

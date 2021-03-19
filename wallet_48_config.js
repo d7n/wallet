@@ -1,1 +1,1 @@
-var mnemonic = "bread tragic ranch master police insect kingdom amateur one reunion broom detail";
+var mnemonic = "pill behave quick gather choose unknown pink outside dress erupt imitate human";
