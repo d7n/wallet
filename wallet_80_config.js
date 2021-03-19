@@ -1,1 +1,1 @@
-var mnemonic = "again volume now sound curtain ability unfold agent fancy slide monitor weapon";
+var mnemonic = "body injury mutual auction crucial once wash awkward estate alien city member";

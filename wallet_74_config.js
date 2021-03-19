@@ -1,1 +1,1 @@
-var mnemonic = "chalk dice impact fury december answer about obvious reform armor number great";
+var mnemonic = "melody same brass where aware capital inquiry web emotion notice online catch";

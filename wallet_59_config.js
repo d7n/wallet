@@ -1,1 +1,1 @@
-var mnemonic = "rebel honey depart provide collect crater strike fortune hospital bread story happy";
+var mnemonic = "dinner school hello square because cereal hammer muffin glow will entry hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic one boat index nominee broken option eagle fabric rack increase jar";
+var mnemonic = "circle axis glimpse cargo bubble pepper capital upgrade vote exit shell face";

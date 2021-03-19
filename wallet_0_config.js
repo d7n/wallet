@@ -1,1 +1,1 @@
-var mnemonic = "borrow skirt input legal example loop layer party seed bullet title amazing";
+var mnemonic = "chief oyster brave hub escape leopard ocean lunar online citizen torch urge";

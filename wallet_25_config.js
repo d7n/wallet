@@ -1,1 +1,1 @@
-var mnemonic = "choose suggest weather blind dumb today lyrics farm alter pet trophy coil";
+var mnemonic = "mushroom super throw exotic glove december bar media auction bronze hello endless";

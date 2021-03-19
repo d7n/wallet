@@ -1,1 +1,1 @@
-var mnemonic = "cousin input child expire way home express upgrade giraffe sister lens gold";
+var mnemonic = "latin message spray cigar vendor river turkey across burden behind resist kit";

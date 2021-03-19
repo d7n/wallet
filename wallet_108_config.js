@@ -1,1 +1,1 @@
-var mnemonic = "waste robust female curious radio tilt media system stable glad boy alpha";
+var mnemonic = "solve mistake desert pioneer arrest total ritual lonely hard shield solid sort";

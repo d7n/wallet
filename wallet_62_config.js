@@ -1,1 +1,1 @@
-var mnemonic = "lava craft seven suggest prize release material hand pigeon observe slow toward";
+var mnemonic = "change analyst mandate video course team ritual shove chief quick search gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "dream cash wait culture practice radar decade head portion casino fix shaft";
+var mnemonic = "soon topic city picture throw curtain shield battle tenant detail parent gadget";

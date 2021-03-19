@@ -1,1 +1,1 @@
-var mnemonic = "whisper swallow illegal crawl damage top stairs exhaust shrug predict game super";
+var mnemonic = "era attack defense fancy radar creek lounge loud give trade like cube";

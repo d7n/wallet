@@ -1,1 +1,1 @@
-var mnemonic = "stereo plastic giraffe gap sure crop penalty mango candy bag manage deer";
+var mnemonic = "wolf rule alone wage sound theme attitude uphold marine van dwarf enter";

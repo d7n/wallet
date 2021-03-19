@@ -1,1 +1,1 @@
-var mnemonic = "clean connect mention dirt change very clog manage sentence adjust film giraffe";
+var mnemonic = "forget name chaos jump chunk ostrich turtle pattern error draw pelican emerge";

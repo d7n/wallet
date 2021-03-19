@@ -1,1 +1,1 @@
-var mnemonic = "wonder away pull crisp inflict wave hospital merit trick exit giant ticket";
+var mnemonic = "casual innocent lunar dice solution road knock change attack exist predict brief";

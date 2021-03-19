@@ -1,1 +1,1 @@
-var mnemonic = "mask sweet busy possible change enact grant pass weekend firm excuse august";
+var mnemonic = "patch soda amused middle oppose argue feed sausage panther swift outside exhaust";

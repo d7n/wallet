@@ -1,1 +1,1 @@
-var mnemonic = "crash object claw tube kick film artist cherry cement truth electric secret";
+var mnemonic = "battle decline skin borrow slender wonder rotate bid alien tragic mouse hundred";

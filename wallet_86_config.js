@@ -1,1 +1,1 @@
-var mnemonic = "waste multiply oak absurd surge program program wagon claw witness grunt own";
+var mnemonic = "question memory junk reopen safe modify express unhappy confirm three aunt aware";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty fold dragon pipe slot paper film broken rare payment duty number";
+var mnemonic = "surge buddy stone air black rare analyst coconut cross appear solar pipe";

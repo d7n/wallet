@@ -1,1 +1,1 @@
-var mnemonic = "entry wolf vapor virtual leopard harbor gas fiber risk ridge frown feature";
+var mnemonic = "fix hamster fox choice very buddy silk side correct parade spot bone";

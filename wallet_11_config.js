@@ -1,1 +1,1 @@
-var mnemonic = "huge name sample achieve doll visual oblige paper body office reveal family";
+var mnemonic = "blind tomorrow mutual surge dish cake depth lemon follow they fuel hurry";

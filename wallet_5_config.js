@@ -1,1 +1,1 @@
-var mnemonic = "embark winter layer ginger minimum enlist ethics regular school cactus enemy zero";
+var mnemonic = "century diary trumpet possible section federal liberty endorse trial ordinary nothing dove";

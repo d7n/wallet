@@ -1,1 +1,1 @@
-var mnemonic = "proof amused alien invest wink hello battle mixed giggle bird settle page";
+var mnemonic = "mind typical injury venture scatter provide mystery arena swing grocery trash require";

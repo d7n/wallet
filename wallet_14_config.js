@@ -1,1 +1,1 @@
-var mnemonic = "weasel crazy often inherit element left humor absent ginger explain can tag";
+var mnemonic = "drift mind history gravity expose fatigue tattoo prosper turkey saddle enhance wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "quote garbage pumpkin neutral sell bind achieve palm this cereal pride chest";
+var mnemonic = "exact expose spin crack little barely box knock vocal powder action choose";

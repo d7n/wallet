@@ -1,1 +1,1 @@
-var mnemonic = "silly club conduct hobby toward machine capital despair digital issue attract announce";
+var mnemonic = "doctor analyst acoustic solid sentence blind achieve obscure glow embody know robot";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar name thought tell all radar orient unlock warrior make tooth gain";
+var mnemonic = "way seed system session banana ozone decrease spy park bar engage easily";

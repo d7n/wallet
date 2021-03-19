@@ -1,1 +1,1 @@
-var mnemonic = "wide expand crane supply valley cheese exhibit curious hurt jelly elegant tribe";
+var mnemonic = "jelly dinner endorse arm theme vapor hybrid crowd atom surround velvet another";

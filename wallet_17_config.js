@@ -1,1 +1,1 @@
-var mnemonic = "dinner clog visual number east pudding sword evolve cage regular spring kid";
+var mnemonic = "another air clever lens goddess umbrella beach party undo income vocal expire";

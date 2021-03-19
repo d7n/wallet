@@ -1,1 +1,1 @@
-var mnemonic = "angry quick weather satoshi across absorb wisdom actual uncover spider record result";
+var mnemonic = "wrestle length swing edit option forum valid usage neutral universe must amused";

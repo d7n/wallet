@@ -1,1 +1,1 @@
-var mnemonic = "brand merry avocado ocean tape whale lake indoor super state poet father";
+var mnemonic = "flame almost umbrella uncover gate depend accuse attract finish ancient flavor agent";

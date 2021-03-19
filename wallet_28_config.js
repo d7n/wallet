@@ -1,1 +1,1 @@
-var mnemonic = "boy woman clever grain media simple lawsuit theory author unlock cool bracket";
+var mnemonic = "joke point yard share ginger trust athlete frog crash oxygen scrap sing";

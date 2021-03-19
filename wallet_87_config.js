@@ -1,1 +1,1 @@
-var mnemonic = "cash derive pear same topic left enrich before afford aerobic maple settle";
+var mnemonic = "fat interest pledge inside picnic mind gadget rotate eager indicate sign wash";

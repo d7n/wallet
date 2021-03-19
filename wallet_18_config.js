@@ -1,1 +1,1 @@
-var mnemonic = "column rose comic wise room bus stamp alley yard actual source about";
+var mnemonic = "castle cactus ocean rain filter neutral cloth round sister poem penalty soon";

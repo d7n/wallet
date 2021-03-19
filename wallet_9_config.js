@@ -1,1 +1,1 @@
-var mnemonic = "isolate cushion bulb glory bleak cave remember museum shuffle expose deposit divorce";
+var mnemonic = "song health another weather father conduct later describe cost immense inside load";

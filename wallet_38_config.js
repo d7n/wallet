@@ -1,1 +1,1 @@
-var mnemonic = "receive fit original woman mind behind fetch civil spawn ecology gold school";
+var mnemonic = "script order project source silk mechanic close mechanic good room blush dinosaur";

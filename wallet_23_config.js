@@ -1,1 +1,1 @@
-var mnemonic = "upset civil rigid satisfy spirit oppose clerk toss gown skate venue off";
+var mnemonic = "ranch once charge meadow decorate wage waste exotic journey tower neck artefact";

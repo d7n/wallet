@@ -1,1 +1,1 @@
-var mnemonic = "stairs over float metal swarm first metal rookie guilt fatal illness grace";
+var mnemonic = "dove shallow fly fix label group mistake toddler dial tilt gate frequent";

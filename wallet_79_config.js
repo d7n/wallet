@@ -1,1 +1,1 @@
-var mnemonic = "topple delay observe analyst lyrics blast regret glide journey jewel news anger";
+var mnemonic = "grass demise decline math sniff habit anxiety baby home soup universe gather";

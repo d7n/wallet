@@ -1,1 +1,1 @@
-var mnemonic = "exhaust garden blast moral wife today damage lion blind surface whisper swim";
+var mnemonic = "chapter pizza asthma broccoli under mass embody seed tired manual tornado category";

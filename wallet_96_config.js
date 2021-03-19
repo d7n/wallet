@@ -1,1 +1,1 @@
-var mnemonic = "chicken census umbrella tissue genuine detail marble differ panel become web grape";
+var mnemonic = "clump crime father mother welcome aerobic immense moon distance neglect song success";

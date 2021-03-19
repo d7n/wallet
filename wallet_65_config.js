@@ -1,1 +1,1 @@
-var mnemonic = "text sock shaft defy evolve surprise kick call grid other glue average";
+var mnemonic = "basic shoulder gown harbor input diet cancel present stick glass control slow";

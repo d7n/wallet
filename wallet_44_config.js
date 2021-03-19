@@ -1,1 +1,1 @@
-var mnemonic = "target gospel cycle tip exist orient sell vast chunk point brown digital";
+var mnemonic = "sort any mom float minimum vendor blast april coyote verb option put";

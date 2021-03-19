@@ -1,1 +1,1 @@
-var mnemonic = "success girl become wrestle exhaust run delay cake person damp crane toe";
+var mnemonic = "approve divorce better fame oak wrap off consider problem box weapon fade";

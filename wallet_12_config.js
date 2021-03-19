@@ -1,1 +1,1 @@
-var mnemonic = "prefer concert tomorrow explain few moment cheese sunset festival grit keen taste";
+var mnemonic = "carry machine glass hair cost elephant soldier friend faith emotion zero lunch";

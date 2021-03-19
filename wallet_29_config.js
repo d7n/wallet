@@ -1,1 +1,1 @@
-var mnemonic = "vapor second certain laundry feed melody enlist antenna crumble juice divide frown";
+var mnemonic = "paper creek clip seven shaft rookie recall oxygen brief insane material museum";

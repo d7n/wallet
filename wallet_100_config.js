@@ -1,1 +1,1 @@
-var mnemonic = "usage excuse rule century once hockey afford course awful april disorder version";
+var mnemonic = "shield away undo shoe fresh around edge pass creek razor shove winner";

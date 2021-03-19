@@ -1,1 +1,1 @@
-var mnemonic = "wrap slight vague fruit garbage mutual purity tobacco wrap zero walnut filter";
+var mnemonic = "region absent jeans icon neutral trust maid truly educate intact target trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "fish van misery festival digital loan wood hotel verify tape make brick";
+var mnemonic = "alcohol harsh govern basket unable fabric waste claw cannon perfect siege cause";

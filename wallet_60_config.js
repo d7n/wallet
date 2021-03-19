@@ -1,1 +1,1 @@
-var mnemonic = "sense fitness margin caution mass renew degree eagle hurry abandon sibling erode";
+var mnemonic = "sorry turtle govern basic awesome panther anger knee mango smile morning service";

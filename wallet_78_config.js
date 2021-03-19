@@ -1,1 +1,1 @@
-var mnemonic = "capable exchange witness bitter frost neglect absent identify robust drop tomato cricket";
+var mnemonic = "because father cotton dish transfer inquiry always border guess hip arm sorry";

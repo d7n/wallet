@@ -1,1 +1,1 @@
-var mnemonic = "hammer inflict awake term seek cancel prison predict load chunk enable curious";
+var mnemonic = "grass warm risk dentist joke neck despair electric brand pulse toss glove";

@@ -1,1 +1,1 @@
-var mnemonic = "rely arrive ribbon expand okay laptop ice replace shop drift matrix imitate";
+var mnemonic = "three rescue slender wealth hotel artist venue army man silly plate grape";

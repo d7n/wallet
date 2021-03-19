@@ -1,1 +1,1 @@
-var mnemonic = "people hat say fury lunar speak rent sphere stomach bomb anger rabbit";
+var mnemonic = "nature broom olive carpet swear rebuild story oak because base pilot hunt";

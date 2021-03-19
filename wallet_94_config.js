@@ -1,1 +1,1 @@
-var mnemonic = "opera heavy hybrid pilot choice direct sketch drama scorpion order summer squeeze";
+var mnemonic = "muscle hold boil salad forum habit pitch duck post word energy bamboo";

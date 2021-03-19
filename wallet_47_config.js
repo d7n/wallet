@@ -1,1 +1,1 @@
-var mnemonic = "route later furnace misery later fix regular awesome wonder robust horn sting";
+var mnemonic = "hobby disorder smooth fine ski luggage switch either erosion isolate subway stay";

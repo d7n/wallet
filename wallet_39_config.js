@@ -1,1 +1,1 @@
-var mnemonic = "either boss clarify panic rare liar enemy empower patch glory donor hurt";
+var mnemonic = "dolphin duty sunny tell trouble digital now warm success depth tip level";

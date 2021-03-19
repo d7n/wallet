@@ -1,1 +1,1 @@
-var mnemonic = "book october keen cute sick mystery pact math flat evil sure vocal";
+var mnemonic = "stumble document slab poverty shock despair pigeon danger void syrup physical cheap";

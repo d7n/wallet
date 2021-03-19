@@ -1,1 +1,1 @@
-var mnemonic = "phrase medal differ want corn dish library private upper peace river recipe";
+var mnemonic = "pigeon evolve unknown permit cement hello place energy trap fox cradle park";

@@ -1,1 +1,1 @@
-var mnemonic = "announce split glare screen rely amount prefer paper heavy envelope foil noodle";
+var mnemonic = "story citizen remove snap sound anchor issue shell voice mobile brick empty";

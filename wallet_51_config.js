@@ -1,1 +1,1 @@
-var mnemonic = "typical can scale half fluid kind mind found wild slot catalog vital";
+var mnemonic = "month member one pioneer net buddy auction hero ivory yellow permit neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "melody snack regret forward ignore salon balance save response trash finish hockey";
+var mnemonic = "process minute stem horn play cabin omit obscure detail dwarf brick vault";

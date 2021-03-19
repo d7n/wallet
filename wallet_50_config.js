@@ -1,1 +1,1 @@
-var mnemonic = "stereo behave another egg fossil december orchard secret marine execute pair return";
+var mnemonic = "river antenna paddle tiger modify alien nest oxygen rally crater donkey glimpse";

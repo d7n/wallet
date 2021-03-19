@@ -1,1 +1,1 @@
-var mnemonic = "crowd flip follow rabbit purity capital today rate obscure course upgrade man";
+var mnemonic = "wrap base knock shoot blood page weekend perfect just page loan cost";

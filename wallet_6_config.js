@@ -1,1 +1,1 @@
-var mnemonic = "sentence three gentle host foot exhaust summer cabbage boil brush birth panic";
+var mnemonic = "skirt coconut good august art radar mystery day west nominee warm simple";

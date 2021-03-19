@@ -1,1 +1,1 @@
-var mnemonic = "manual false harbor tiger tent budget dash supreme agree spatial ice orbit";
+var mnemonic = "swear file pepper panel bleak spatial crew license possible topic invest leader";

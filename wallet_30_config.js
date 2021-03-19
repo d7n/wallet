@@ -1,1 +1,1 @@
-var mnemonic = "come express future very gas cliff pony sail install liquid ensure skate";
+var mnemonic = "silly abuse dwarf spice screen secret knife calm ceiling alone ball simple";

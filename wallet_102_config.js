@@ -1,1 +1,1 @@
-var mnemonic = "velvet lunch develop crouch pulse egg hill castle lyrics cousin swarm foot";
+var mnemonic = "boil home help lava include aerobic hurry rather moment live visa old";

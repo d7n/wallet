@@ -1,1 +1,1 @@
-var mnemonic = "nut island air melody ski test brown bomb dwarf elbow pepper middle";
+var mnemonic = "various exact snake diesel body field decade citizen trial exchange attract six";

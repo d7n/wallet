@@ -1,1 +1,1 @@
-var mnemonic = "gather slide fire alien answer goose typical melody rail flag maple during";
+var mnemonic = "drama ginger magic fabric polar ability ride focus appear damage repair coffee";

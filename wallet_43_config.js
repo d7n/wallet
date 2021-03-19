@@ -1,1 +1,1 @@
-var mnemonic = "wide lumber hybrid sister ugly enact vintage west later uphold bind series";
+var mnemonic = "awake wide time near olympic slim elite bag sunny tiger history such";

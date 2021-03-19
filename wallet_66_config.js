@@ -1,1 +1,1 @@
-var mnemonic = "more rug average box chapter typical train anger gain toilet surprise stomach";
+var mnemonic = "autumn onion family track spider quick upset island retire hidden perfect faint";

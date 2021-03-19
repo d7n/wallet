@@ -1,1 +1,1 @@
-var mnemonic = "pig scrub medal keen small black kind firm person gadget impact permit";
+var mnemonic = "inflict inject parrot boy ski donor monkey dolphin bench slot abandon motion";

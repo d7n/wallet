@@ -1,1 +1,1 @@
-var mnemonic = "inner accuse merit shove push music orchard describe thought chuckle census rocket";
+var mnemonic = "dinner uphold else hub jealous vehicle reunion crawl glue addict april miracle";

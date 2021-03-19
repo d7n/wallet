@@ -1,1 +1,1 @@
-var mnemonic = "fiction original episode produce demise tower diamond melt beauty remind runway bitter";
+var mnemonic = "yellow actor remove garage addict sleep cricket coach axis electric false steak";

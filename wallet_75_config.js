@@ -1,1 +1,1 @@
-var mnemonic = "hazard easy either slush glue all digital cherry leave sphere rookie recall";
+var mnemonic = "fever fame tag denial impose profit bone wolf caught great cool marble";

@@ -1,1 +1,1 @@
-var mnemonic = "year quote bottom brave wife leaf interest question sorry picture umbrella entire";
+var mnemonic = "neglect install safe swap feature rotate salmon denial exhaust maze parrot priority";

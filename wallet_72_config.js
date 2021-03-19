@@ -1,1 +1,1 @@
-var mnemonic = "can busy tackle mirror sudden scissors differ clay pistol battle coral melt";
+var mnemonic = "age consider boss wire logic verb trouble lecture tip million zone country";

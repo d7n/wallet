@@ -1,1 +1,1 @@
-var mnemonic = "champion myth apple chaos junior shield shove green quit kingdom actress eternal";
+var mnemonic = "muffin silver anger upgrade govern general scan benefit polar movie normal congress";

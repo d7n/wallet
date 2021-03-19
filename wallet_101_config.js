@@ -1,1 +1,1 @@
-var mnemonic = "lend water judge fragile test wife region flag advice vast only animal";
+var mnemonic = "track feel aspect mammal couch scissors above tornado witness abstract oppose betray";

@@ -1,1 +1,1 @@
-var mnemonic = "shield dumb grid guess matrix castle odor often music connect image black";
+var mnemonic = "leaf tourist jealous ill uncover venue field good smoke chef gospel equal";

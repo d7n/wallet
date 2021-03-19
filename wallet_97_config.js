@@ -1,1 +1,1 @@
-var mnemonic = "alter layer another weekend trash three logic loan tornado trust suspect screen";
+var mnemonic = "alter south give chef clinic alone unlock session reward market alpha hold";

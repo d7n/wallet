@@ -1,1 +1,1 @@
-var mnemonic = "link major summer kite income sun rather unlock stone pig observe tone";
+var mnemonic = "food already dial engine lady payment census royal void cigar recall eyebrow";

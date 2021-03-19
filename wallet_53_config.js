@@ -1,1 +1,1 @@
-var mnemonic = "decline warfare steel cabbage crater guess check foot once crucial tomato certain";
+var mnemonic = "rich coral lesson seven spell wait draw guide quarter cluster midnight push";

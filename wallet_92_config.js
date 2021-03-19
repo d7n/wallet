@@ -1,1 +1,1 @@
-var mnemonic = "wild culture summer aim early lady reveal trim combine congress avoid apology";
+var mnemonic = "notable climb nothing exile fossil corn high twist way glove fit gesture";

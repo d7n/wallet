@@ -1,1 +1,1 @@
-var mnemonic = "equal among swear ensure cup harsh coffee flower explain found fox enrich";
+var mnemonic = "shield crystal this trial display pink federal pottery amount soup correct govern";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday visit diagram problem mouse uphold source fault faith winter olive friend";
+var mnemonic = "saddle equal fuel wash anxiety just wolf hungry aerobic phone photo february";

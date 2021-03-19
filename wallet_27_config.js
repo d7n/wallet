@@ -1,1 +1,1 @@
-var mnemonic = "coral enough merry another cliff capable beauty collect priority card donor theory";
+var mnemonic = "lunch stairs humor gospel inmate ramp rain gauge midnight neutral guitar glove";

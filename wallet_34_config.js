@@ -1,1 +1,1 @@
-var mnemonic = "solid volume setup bitter shoulder black arrive velvet sea energy broom disease";
+var mnemonic = "jacket method naive indicate minimum amused squeeze salmon lift frozen cake always";

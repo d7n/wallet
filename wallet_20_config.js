@@ -1,1 +1,1 @@
-var mnemonic = "story solid people tooth gas man baby awful remove napkin runway nose";
+var mnemonic = "cost young present bargain jazz mad author zero witness punch chief link";

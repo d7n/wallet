@@ -1,1 +1,1 @@
-var mnemonic = "zero myth tissue donor rent solve juice glass outside violin design reason";
+var mnemonic = "lift swap wise concert panther fat point frozen proof name federal pink";

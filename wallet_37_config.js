@@ -1,1 +1,1 @@
-var mnemonic = "craft kitten carry poverty tonight alter junk scout spy city symbol filter";
+var mnemonic = "power visual aunt fortune beyond tell forest now art warm reject solve";

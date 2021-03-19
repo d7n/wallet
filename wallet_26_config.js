@@ -1,1 +1,1 @@
-var mnemonic = "wave hair total run moral half pupil wolf sound mail gospel quiz";
+var mnemonic = "deal episode destroy spell hope cattle october stuff galaxy mom begin heavy";
