@@ -1,1 +1,1 @@
-var mnemonic = "below demise genuine prefer practice umbrella steel shop swap digital goose hen";
+var mnemonic = "deer creek elbow wagon brave depend stomach swallow category attend indoor job";

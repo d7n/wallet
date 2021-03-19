@@ -1,1 +1,1 @@
-var mnemonic = "lucky six cabin among payment indoor coin salad notice easy fold sniff";
+var mnemonic = "try reunion worry anxiety dolphin typical tobacco silly filter various baby trial";

@@ -1,1 +1,1 @@
-var mnemonic = "scene weather evidence insect kitchen interest obtain result spot rotate remain hazard";
+var mnemonic = "viable finish barrel save cluster profit board web midnight exile among song";

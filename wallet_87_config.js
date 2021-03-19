@@ -1,1 +1,1 @@
-var mnemonic = "birth wage confirm leopard pave work flame engage hawk sauce above dismiss";
+var mnemonic = "burden seed bus call hire hurdle neither walk crater speak piano balcony";

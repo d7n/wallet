@@ -1,1 +1,1 @@
-var mnemonic = "lunch twin phone net supreme bounce industry unknown nose fabric column hard";
+var mnemonic = "key north step brisk search earth vessel humble anchor suspect blossom liberty";

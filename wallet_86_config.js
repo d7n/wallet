@@ -1,1 +1,1 @@
-var mnemonic = "ready regret survey elephant spare seat melt rice moral tail toddler mutual";
+var mnemonic = "radio replace base exhaust rhythm genuine impose abuse teach ketchup mass weekend";

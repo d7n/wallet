@@ -1,1 +1,1 @@
-var mnemonic = "lumber priority century effort observe confirm firm spin acquire salmon guide eternal";
+var mnemonic = "army inhale adapt you pulp enlist wreck flash salute aim seek shed";

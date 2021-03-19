@@ -1,1 +1,1 @@
-var mnemonic = "stadium chat version suit crime swamp require wink song sketch decrease stay";
+var mnemonic = "nest polar visa furnace endless exotic hero bounce mammal age enjoy sting";

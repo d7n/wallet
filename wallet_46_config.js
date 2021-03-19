@@ -1,1 +1,1 @@
-var mnemonic = "tiny unaware canoe shoot diamond pepper few toast quantum wink lottery kite";
+var mnemonic = "mother model humble ranch exhaust pretty nice black drop obscure nest chicken";

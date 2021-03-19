@@ -1,1 +1,1 @@
-var mnemonic = "accident outer dish runway slush drop sheriff argue promote bonus immune truth";
+var mnemonic = "enroll fit drastic matrix gorilla broom aspect luggage pigeon eager amount report";

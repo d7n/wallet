@@ -1,1 +1,1 @@
-var mnemonic = "grow news bicycle virtual version head slam recall region kite strong discover";
+var mnemonic = "afraid damp east brave usual veteran unaware decrease thank sound crunch total";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup cruel question utility proud catalog mystery frequent ecology pencil police exit";
+var mnemonic = "off scan actual leopard wrap random correct artist knock session sustain lazy";

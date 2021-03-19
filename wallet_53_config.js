@@ -1,1 +1,1 @@
-var mnemonic = "mobile flock design solution snow chuckle pudding kid cereal crisp tell dirt";
+var mnemonic = "skate mercy anxiety step discover scatter broom supply split either uphold one";

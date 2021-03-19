@@ -1,1 +1,1 @@
-var mnemonic = "humble foster later rule jazz law village rifle sunny staff supply remain";
+var mnemonic = "napkin dawn evil plunge pledge phone picnic street vacuum toward neck quantum";

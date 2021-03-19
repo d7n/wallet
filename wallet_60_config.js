@@ -1,1 +1,1 @@
-var mnemonic = "panda job install police lucky spice code sustain sort liberty element habit";
+var mnemonic = "believe try fence minimum man purse truth rival purse meadow tobacco toddler";

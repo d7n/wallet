@@ -1,1 +1,1 @@
-var mnemonic = "bright track permit library velvet produce execute ancient mountain swift emerge melt";
+var mnemonic = "useful wide hedgehog person isolate upon brown midnight fatal tired used game";

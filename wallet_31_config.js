@@ -1,1 +1,1 @@
-var mnemonic = "despair palm mom culture tribe poet rural mass morning reform paper soup";
+var mnemonic = "top satoshi noble try sail major outdoor follow flock decrease rookie utility";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie admit marine dish include gift cluster relax potato exhibit any notice";
+var mnemonic = "trouble scare mask lift energy pilot dwarf blood legal entire oppose brand";

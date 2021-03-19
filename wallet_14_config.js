@@ -1,1 +1,1 @@
-var mnemonic = "auto unique woman bunker exhibit cage jewel hold about leopard among account";
+var mnemonic = "arctic friend rice dry river skill exercise pause pelican pull mass maple";

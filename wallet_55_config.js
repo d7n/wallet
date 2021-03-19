@@ -1,1 +1,1 @@
-var mnemonic = "goose gauge fade stand inquiry enact ice slab train frequent protect plastic";
+var mnemonic = "essence oppose nature kitchen borrow life injury chalk size approve upset rubber";

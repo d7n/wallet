@@ -1,1 +1,1 @@
-var mnemonic = "force together vocal amazing alley visual nothing lawn view crater cabin lyrics";
+var mnemonic = "helmet business general energy window noise between best quarter spread asthma motion";

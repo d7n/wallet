@@ -1,1 +1,1 @@
-var mnemonic = "dish column almost slab enrich claw page dog author toe target unfold";
+var mnemonic = "front dolphin tuition match gloom horror flip duty penalty strike wonder portion";

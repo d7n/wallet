@@ -1,1 +1,1 @@
-var mnemonic = "eye acid wasp rapid churn where best relax waste kitchen retire lumber";
+var mnemonic = "siren labor sad mimic wing tumble unfold guard various okay glimpse copy";

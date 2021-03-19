@@ -1,1 +1,1 @@
-var mnemonic = "fan display useful family reduce between gesture fiction there torch rescue novel";
+var mnemonic = "hint ugly alley wide word exhibit hamster monkey coyote sad soup style";

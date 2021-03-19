@@ -1,1 +1,1 @@
-var mnemonic = "people forget relief olive bird elephant chef hospital enact soccer bulk vendor";
+var mnemonic = "dutch claw strategy broom stairs hobby fat melt blossom soft merge section";

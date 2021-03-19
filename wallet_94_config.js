@@ -1,1 +1,1 @@
-var mnemonic = "retire typical apple vivid orchard excuse eyebrow flee unknown bus absent water";
+var mnemonic = "oval topple maid people army divorce ribbon ring alien surround month now";

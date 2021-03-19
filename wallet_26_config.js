@@ -1,1 +1,1 @@
-var mnemonic = "follow item pond horn emerge medal drink cake firm will turtle glare";
+var mnemonic = "taste key story air sign give man midnight lumber sponsor seminar tonight";

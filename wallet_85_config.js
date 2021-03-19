@@ -1,1 +1,1 @@
-var mnemonic = "present clock stone visit light ancient crouch future recipe turtle figure indicate";
+var mnemonic = "oval pond utility lottery remind switch meat lend purchase setup fly grow";

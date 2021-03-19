@@ -1,1 +1,1 @@
-var mnemonic = "life segment bunker retire autumn loud rule trap burger until tomato cattle";
+var mnemonic = "round sort execute brass once immune unfold process divorce stumble nerve ability";

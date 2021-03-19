@@ -1,1 +1,1 @@
-var mnemonic = "birth bottom damp symptom high protect spoon benefit federal mix peanut just";
+var mnemonic = "mechanic project agree aisle define hello ensure square cloud forget wool rally";

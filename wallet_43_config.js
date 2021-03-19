@@ -1,1 +1,1 @@
-var mnemonic = "wealth someone hungry pink tomorrow twenty apology wheat mosquito insane winter rely";
+var mnemonic = "chuckle elegant census coach topple narrow secret mixture acquire wash scorpion waste";

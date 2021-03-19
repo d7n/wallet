@@ -1,1 +1,1 @@
-var mnemonic = "extend cycle travel initial pool relax skill talent divorce square attitude buzz";
+var mnemonic = "arrive fade silly midnight advice radio follow citizen cushion play grunt float";

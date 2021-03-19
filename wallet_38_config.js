@@ -1,1 +1,1 @@
-var mnemonic = "marriage fossil input gasp rail second region cement science benefit fade accuse";
+var mnemonic = "raw rare state expand please daughter impact moral collect element soul material";

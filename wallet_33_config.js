@@ -1,1 +1,1 @@
-var mnemonic = "wage cruel horse trend blossom bright arrive liberty slim change arm castle";
+var mnemonic = "armor accident rural evoke confirm hurt evolve moon era hunt sausage senior";

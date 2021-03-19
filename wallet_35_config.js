@@ -1,1 +1,1 @@
-var mnemonic = "price current east project genius valley dove easy joke endless unlock fiscal";
+var mnemonic = "whale uphold sister atom volume brand season remove present box hidden stay";

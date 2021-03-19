@@ -1,1 +1,1 @@
-var mnemonic = "tragic island harsh ordinary fold weird clay kite action float uniform scan";
+var mnemonic = "cotton slogan rural position assist buddy inspire bring clarify jar fluid globe";

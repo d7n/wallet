@@ -1,1 +1,1 @@
-var mnemonic = "girl prosper match animal behind talent focus strong ladder scene lift behave";
+var mnemonic = "gun toss forward myth party airport exchange afraid chaos admit six quote";

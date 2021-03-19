@@ -1,1 +1,1 @@
-var mnemonic = "afford dumb stomach crush brief image frozen either erode auction hour tribe";
+var mnemonic = "motor carry recall ecology bus trophy caution vapor sample hen valid similar";

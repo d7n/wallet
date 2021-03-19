@@ -1,1 +1,1 @@
-var mnemonic = "female fold luxury brick special view bacon write film cloud faculty jacket";
+var mnemonic = "giggle grit gun way music equip sail type domain mosquito fan clerk";

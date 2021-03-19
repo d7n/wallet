@@ -1,1 +1,1 @@
-var mnemonic = "smooth evoke delay clip whale effort chuckle cliff sand kitten stamp three";
+var mnemonic = "excuse valid eight oak pill atom shoe below remain tent vicious alcohol";

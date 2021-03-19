@@ -1,1 +1,1 @@
-var mnemonic = "hip country assume artist demise very slender clump festival pilot focus skull";
+var mnemonic = "teach exchange glare comfort another sword trick prefer horror stamp original laptop";

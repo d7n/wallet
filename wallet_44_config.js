@@ -1,1 +1,1 @@
-var mnemonic = "job identify various reflect morning dust clarify learn oyster law flash battle";
+var mnemonic = "wrestle danger base kidney whisper april bonus laundry chimney crunch reduce supply";

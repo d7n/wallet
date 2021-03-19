@@ -1,1 +1,1 @@
-var mnemonic = "afford push quote elephant similar review plastic rely tired employ horse truth";
+var mnemonic = "timber news patch dilemma trip prize online offer brother speed uniform mirror";

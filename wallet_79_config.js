@@ -1,1 +1,1 @@
-var mnemonic = "awful domain aerobic person life pass cattle turtle silk coyote hole gift";
+var mnemonic = "salute aspect heart joke stamp rather search wide party valid start december";

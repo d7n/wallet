@@ -1,1 +1,1 @@
-var mnemonic = "bring abandon cliff they task rib devote knife swing mule wreck defy";
+var mnemonic = "nice culture warrior sweet sword viable eight vocal believe tourist tilt ordinary";

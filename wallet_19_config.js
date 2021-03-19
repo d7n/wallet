@@ -1,1 +1,1 @@
-var mnemonic = "mix scissors bargain naive region clip because shoot force project basic garment";
+var mnemonic = "borrow sustain drastic adapt battle tool raccoon used nuclear derive disease squirrel";

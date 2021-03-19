@@ -1,1 +1,1 @@
-var mnemonic = "struggle two intact uphold spend can pool rent flip feed burger alcohol";
+var mnemonic = "draw today cabin hold shoulder width medal mind never sample person refuse";

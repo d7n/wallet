@@ -1,1 +1,1 @@
-var mnemonic = "crash today fade sugar adjust hello ramp vanish rate journey radio fashion";
+var mnemonic = "kitten olive pole label approve vibrant arch snack place tray rotate gospel";

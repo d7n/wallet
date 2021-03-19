@@ -1,1 +1,1 @@
-var mnemonic = "hamster grab potato grape blind diamond cluster hair extra viable hurdle bone";
+var mnemonic = "recall final walnut sheriff husband tag emerge dutch outer force hair property";

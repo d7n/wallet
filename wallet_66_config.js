@@ -1,1 +1,1 @@
-var mnemonic = "position town glide drive aspect island cabbage since random skin give exhaust";
+var mnemonic = "rather convince welcome alpha asset entire adjust wait mercy reopen car know";

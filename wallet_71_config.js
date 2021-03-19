@@ -1,1 +1,1 @@
-var mnemonic = "scene lawsuit divide normal super source usual clock differ never track delay";
+var mnemonic = "crystal crucial clutch ski early stove milk answer joy vacuum spawn alter";

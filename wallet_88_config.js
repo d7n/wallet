@@ -1,1 +1,1 @@
-var mnemonic = "donkey bind marble engine throw absent snack lumber roast smart audit twelve";
+var mnemonic = "sphere other obvious sad focus leopard predict design opinion mixed warfare shell";

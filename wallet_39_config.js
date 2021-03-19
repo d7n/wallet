@@ -1,1 +1,1 @@
-var mnemonic = "leisure fly siege offer absurd able invest poverty poverty spread pride awful";
+var mnemonic = "large snow chef magnet swing gas ethics face draw manage tennis banner";

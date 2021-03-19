@@ -1,1 +1,1 @@
-var mnemonic = "arena income blush engine tail unaware market uphold yellow siren birth patrol";
+var mnemonic = "truth whisper laugh spread advance phrase about sample able option submit whale";

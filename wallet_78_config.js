@@ -1,1 +1,1 @@
-var mnemonic = "furnace route slight census message craft pottery pledge critic hurt bonus museum";
+var mnemonic = "syrup canal genuine cube tattoo please right unfold there impulse donor faint";

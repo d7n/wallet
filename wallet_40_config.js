@@ -1,1 +1,1 @@
-var mnemonic = "cotton start toe vanish grant recall agree cat eye mass laugh equip";
+var mnemonic = "husband goat shoulder toddler spin elder alpha space slight verify fault dose";

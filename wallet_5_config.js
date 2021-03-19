@@ -1,1 +1,1 @@
-var mnemonic = "swing seek move there tenant venture weapon arrest deposit cash valid phone";
+var mnemonic = "lock report winter fashion lab gauge legal squirrel address badge business frequent";

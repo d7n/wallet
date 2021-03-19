@@ -1,1 +1,1 @@
-var mnemonic = "blush letter alert cactus uniform organ learn neglect drastic firm soap stamp";
+var mnemonic = "time cactus violin deal average balance drum unhappy huge curtain ignore gym";

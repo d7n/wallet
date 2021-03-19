@@ -1,1 +1,1 @@
-var mnemonic = "piece behave mimic shadow tragic copy salmon impulse salmon dirt giant state";
+var mnemonic = "nasty giraffe give require develop unhappy design burst shuffle noble deliver can";

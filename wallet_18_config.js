@@ -1,1 +1,1 @@
-var mnemonic = "chicken action loud ability arrange weather sad job biology bunker vessel time";
+var mnemonic = "struggle obey excuse unable dune fall chalk banner casual awful evidence diamond";

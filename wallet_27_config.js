@@ -1,1 +1,1 @@
-var mnemonic = "ocean melt tiger brush donate future fortune nuclear maid aware humble fun";
+var mnemonic = "mouse alter damp december frost ticket gentle match cheap nurse exotic always";

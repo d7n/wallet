@@ -1,1 +1,1 @@
-var mnemonic = "shoe hen observe amateur stuff expose mystery student size gift love judge";
+var mnemonic = "vehicle plastic wagon bright egg chalk news hospital word electric sting simple";

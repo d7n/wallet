@@ -1,1 +1,1 @@
-var mnemonic = "field alone mango seven situate dutch fitness deer zero caught mammal step";
+var mnemonic = "escape cargo crime modify track parrot fortune axis window exercise often pioneer";

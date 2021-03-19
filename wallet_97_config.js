@@ -1,1 +1,1 @@
-var mnemonic = "tape strike ginger build ladder execute problem very ahead unveil want lazy";
+var mnemonic = "ivory accuse blouse link eye senior erode twist flat sudden banner clay";

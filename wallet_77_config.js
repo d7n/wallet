@@ -1,1 +1,1 @@
-var mnemonic = "bone safe train giraffe pioneer mountain issue law object banana under reason";
+var mnemonic = "tank illness hair frame quiz found slender sudden region breeze gym tell";

@@ -1,1 +1,1 @@
-var mnemonic = "famous insect crunch stereo oxygen error advance artefact ozone only situate moon";
+var mnemonic = "insane cruel during write clap version label between split away vicious two";

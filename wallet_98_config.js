@@ -1,1 +1,1 @@
-var mnemonic = "into shove stay parent traffic emotion marble scene raw shallow embody west";
+var mnemonic = "demand absorb reunion city keep brave artefact large garlic normal tongue fiber";

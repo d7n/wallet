@@ -1,1 +1,1 @@
-var mnemonic = "trigger steak sound horror assume noodle immune census section icon enhance sample";
+var mnemonic = "paddle pledge evidence sphere table lonely soup crunch lake duck injury sniff";

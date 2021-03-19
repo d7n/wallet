@@ -1,1 +1,1 @@
-var mnemonic = "pride orphan country error endless stumble south option panic input sponsor deputy";
+var mnemonic = "civil kidney chalk there devote raccoon mother orchard truly frown equal ankle";

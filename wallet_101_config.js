@@ -1,1 +1,1 @@
-var mnemonic = "purchase hint sand cannon dad lyrics simple comic mule south order aerobic";
+var mnemonic = "oxygen month report caution core divide tunnel hamster element jazz essay coffee";

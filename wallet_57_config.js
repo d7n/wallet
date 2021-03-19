@@ -1,1 +1,1 @@
-var mnemonic = "true update daughter pitch catch doctor pond depart ignore exact upgrade pattern";
+var mnemonic = "buzz chalk other essay ride era boss insect market oyster black hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "food shield nerve denial gentle civil dice side average shaft raccoon dinosaur";
+var mnemonic = "uniform across ozone gorilla debate nice sponsor bridge inside hero void soldier";

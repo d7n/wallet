@@ -1,1 +1,1 @@
-var mnemonic = "shock top upper unaware loop art change aisle merit lazy engage ugly";
+var mnemonic = "soda neutral social grit manual reveal onion exit almost regret spawn review";

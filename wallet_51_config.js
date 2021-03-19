@@ -1,1 +1,1 @@
-var mnemonic = "member scatter baby still lava salad wrong brain order rack thrive vast";
+var mnemonic = "require ensure fragile inquiry kid all humble brand orchard castle laptop point";

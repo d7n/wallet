@@ -1,1 +1,1 @@
-var mnemonic = "civil bullet unit quarter tennis artwork betray neutral skill human chimney message";
+var mnemonic = "satisfy search adjust noise point strategy patrol fuel news scout bridge limit";

@@ -1,1 +1,1 @@
-var mnemonic = "dove cloth lend domain absorb pony sound brain midnight exist tip digital";
+var mnemonic = "shell guide broken leader offer add bridge shoulder upper define surface certain";

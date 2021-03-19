@@ -1,1 +1,1 @@
-var mnemonic = "syrup place column bacon person urge long list rose noble follow find";
+var mnemonic = "borrow shiver art kite wrist lumber clarify sister slide pause cry kite";

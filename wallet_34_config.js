@@ -1,1 +1,1 @@
-var mnemonic = "roof sun delay defy afraid mushroom auto glance trash fiction rural vault";
+var mnemonic = "witness cradle image oil alert task panda execute cage question certain update";

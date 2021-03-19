@@ -1,1 +1,1 @@
-var mnemonic = "gain wage pole finish evil have casino radar trend surface inch enforce";
+var mnemonic = "report wife iron wink cushion throw base grape boost maze another rug";

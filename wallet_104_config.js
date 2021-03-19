@@ -1,1 +1,1 @@
-var mnemonic = "afford casual ramp spawn wish erode favorite letter scare thing bar fee";
+var mnemonic = "camp prosper genius faith pill patrol bridge enough kind shoulder kitchen visual";

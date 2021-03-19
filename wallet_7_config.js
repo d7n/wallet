@@ -1,1 +1,1 @@
-var mnemonic = "cross dismiss fall brand giggle water tape charge image jewel shiver farm";
+var mnemonic = "sure deputy scrap ordinary frog relief clip trumpet plunge crisp check unhappy";

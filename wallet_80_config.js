@@ -1,1 +1,1 @@
-var mnemonic = "teach furnace boost bounce abuse style earth manage table fence thank maze";
+var mnemonic = "prefer disagree jazz recycle escape tip orchard bamboo punch draw unit absorb";

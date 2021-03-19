@@ -1,1 +1,1 @@
-var mnemonic = "easy romance skirt affair axis sentence sauce slot there menu track club";
+var mnemonic = "dutch steel game forest image supreme battle grief mixed snack glance can";

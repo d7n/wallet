@@ -1,1 +1,1 @@
-var mnemonic = "connect travel canvas rural claw enter kingdom industry alcohol tray proof cup";
+var mnemonic = "piece awkward melt copper roast parade around metal captain nature clip labor";

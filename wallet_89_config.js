@@ -1,1 +1,1 @@
-var mnemonic = "useless trumpet pledge ask result unaware tortoise spare climb giggle salmon aim";
+var mnemonic = "praise indicate split radar way sunset joy quality sing harbor soft donate";

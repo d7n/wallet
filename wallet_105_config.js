@@ -1,1 +1,1 @@
-var mnemonic = "innocent multiply myth caution voice actual prevent aisle obey pool give catalog";
+var mnemonic = "oil skin inner discover manual dinner gesture rib rigid because dad pledge";

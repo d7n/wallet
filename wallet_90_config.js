@@ -1,1 +1,1 @@
-var mnemonic = "romance another bag where reward private topple physical despair fiction profit joke";
+var mnemonic = "start blouse luggage make destroy select stick fit review tool say magnet";

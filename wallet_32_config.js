@@ -1,1 +1,1 @@
-var mnemonic = "degree tube equal decide danger brick bounce lava pitch february message repair";
+var mnemonic = "obey slam online trial elegant spell visual scrap clown sell wealth flash";

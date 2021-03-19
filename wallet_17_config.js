@@ -1,1 +1,1 @@
-var mnemonic = "file audit clog smooth barely pluck congress cereal giggle come fame gold";
+var mnemonic = "bitter stand smooth oblige praise they grit reduce supply sibling cattle own";

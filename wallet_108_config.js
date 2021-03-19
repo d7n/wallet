@@ -1,1 +1,1 @@
-var mnemonic = "negative false unhappy margin economy find purpose grape syrup exist february where";
+var mnemonic = "wheat mandate spawn devote outside type jar nut gasp chair script donkey";

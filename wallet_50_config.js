@@ -1,1 +1,1 @@
-var mnemonic = "symptom shove recall sort cabin puppy since ankle churn expire conduct field";
+var mnemonic = "meat evidence banana charge toilet jeans act grab taste meadow trash forget";

@@ -1,1 +1,1 @@
-var mnemonic = "theme error neglect blossom hand once hazard pony column add cage similar";
+var mnemonic = "canoe pioneer damp sea theory bread hip youth ring negative job make";

@@ -1,1 +1,1 @@
-var mnemonic = "happy inherit crew cart impact vicious custom taxi magnet super iron state";
+var mnemonic = "hover music spot aim human gaze manage later gold vital various census";
