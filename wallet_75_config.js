@@ -1,1 +1,1 @@
-var mnemonic = "harvest excuse hood monitor betray glove lawn panther topple abuse curve follow";
+var mnemonic = "security glow night below barrel banner estate unlock regular spatial stock planet";

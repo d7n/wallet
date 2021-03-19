@@ -1,1 +1,1 @@
-var mnemonic = "blur peanut imitate this pencil dinner mystery credit ordinary large hedgehog bridge";
+var mnemonic = "service shield trim engage universe rather pulp girl figure raw kidney lion";

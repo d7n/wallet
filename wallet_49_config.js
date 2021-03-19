@@ -1,1 +1,1 @@
-var mnemonic = "satoshi path ranch labor mean gasp actress start wonder payment fish miracle";
+var mnemonic = "summer inch finger pepper sauce cabin dial screen spike faith general reflect";

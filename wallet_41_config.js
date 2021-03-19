@@ -1,1 +1,1 @@
-var mnemonic = "index fit charge parent trumpet group knee ketchup merry grocery nice emotion";
+var mnemonic = "guilt much such thunder trigger famous venue pepper lemon above pudding cage";

@@ -1,1 +1,1 @@
-var mnemonic = "melt caution ice invite plug equip pear bachelor drill coffee cash return";
+var mnemonic = "ridge damage meadow olive inquiry six wave monitor hat journey strategy symptom";

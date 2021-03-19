@@ -1,1 +1,1 @@
-var mnemonic = "anger piece logic crazy symbol consider old kangaroo rocket bag solar phone";
+var mnemonic = "donate voyage vacuum start tell runway swift humor uncover execute filter element";

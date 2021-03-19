@@ -1,1 +1,1 @@
-var mnemonic = "kitten library very sadness sentence safe endorse pull seminar release friend aspect";
+var mnemonic = "release post rookie cook dose buddy youth farm file basket cheese trick";

@@ -1,1 +1,1 @@
-var mnemonic = "knife ripple walnut milk crisp way viable long mango festival lounge ship";
+var mnemonic = "country screen mirror twice magic dinner sheriff luxury silly seven ensure prevent";

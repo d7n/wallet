@@ -1,1 +1,1 @@
-var mnemonic = "mosquito ask direct wealth mushroom gesture feature already west laptop extra box";
+var mnemonic = "surge leader screen marble congress blanket sister fringe original sea trigger any";

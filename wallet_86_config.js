@@ -1,1 +1,1 @@
-var mnemonic = "canvas flower earth rule skull wheel frequent art tissue mobile electric milk";
+var mnemonic = "manage coil present thought outer also scale pelican mouse portion into include";

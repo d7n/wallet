@@ -1,1 +1,1 @@
-var mnemonic = "meat rough nose lecture blood six apology shaft morning ability polar gloom";
+var mnemonic = "clarify text trade address enhance tired vibrant replace practice stool crash pet";

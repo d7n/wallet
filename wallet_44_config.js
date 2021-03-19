@@ -1,1 +1,1 @@
-var mnemonic = "lottery vehicle good mushroom clump over call nerve excess put glory tone";
+var mnemonic = "pulp yellow across then ticket network exclude impose boss frame alert angry";

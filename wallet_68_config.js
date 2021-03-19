@@ -1,1 +1,1 @@
-var mnemonic = "left copy relief brief parade cheap party blur dune obey destroy coast";
+var mnemonic = "spoil blame future hospital sport always problem purse junior void hazard spend";

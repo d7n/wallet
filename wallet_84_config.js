@@ -1,1 +1,1 @@
-var mnemonic = "carpet mother trap allow sphere minute spend rice panic perfect write alter";
+var mnemonic = "lonely client garlic tower frown palm token key daughter wheat pool liberty";

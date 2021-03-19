@@ -1,1 +1,1 @@
-var mnemonic = "crew ghost sign walk waste scatter escape proud settle gravity wonder gate";
+var mnemonic = "faint bird inner mansion fortune slow method pottery wall bargain same pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "possible wait build stay whale topple service inherit version prefer height ostrich";
+var mnemonic = "lift rapid edge grab spring ginger slice bulk solution enlist unveil stadium";

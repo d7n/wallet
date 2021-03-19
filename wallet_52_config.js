@@ -1,1 +1,1 @@
-var mnemonic = "because carry coil bounce globe three remain produce duck april guitar piece";
+var mnemonic = "fresh ceiling upgrade fade wage sketch plate deputy noodle relax clip spread";

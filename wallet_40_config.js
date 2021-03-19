@@ -1,1 +1,1 @@
-var mnemonic = "cricket awkward solid spread bulb afford matter yard funny truth soon produce";
+var mnemonic = "pole present spirit calm say shallow mechanic pluck current together stool model";

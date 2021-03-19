@@ -1,1 +1,1 @@
-var mnemonic = "hole inmate ketchup envelope develop lock sad patrol knee fine van disagree";
+var mnemonic = "cactus panda reflect worry gallery chef glimpse memory eager loan urge seed";

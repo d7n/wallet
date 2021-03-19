@@ -1,1 +1,1 @@
-var mnemonic = "outer gain radio general render soon rubber struggle rocket cream buffalo entire";
+var mnemonic = "sun cabin awake skill hair spray basic furnace stamp inch bench decade";

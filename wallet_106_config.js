@@ -1,1 +1,1 @@
-var mnemonic = "trust educate gas juice hour coral jazz tool birth they hat seat";
+var mnemonic = "sauce require short dutch defy fame glance atom sword divorce craft ill";

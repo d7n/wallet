@@ -1,1 +1,1 @@
-var mnemonic = "arrive dignity rain ripple office valley garage letter write owner twin hidden";
+var mnemonic = "question dove fever happy spread pulse pond acid habit stereo essay smoke";

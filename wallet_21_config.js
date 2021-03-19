@@ -1,1 +1,1 @@
-var mnemonic = "arctic dizzy bullet copper own demise bless near federal transfer nation catalog";
+var mnemonic = "vibrant tomato hole pilot lunch habit bulb grant recall garage cry burden";

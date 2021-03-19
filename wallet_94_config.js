@@ -1,1 +1,1 @@
-var mnemonic = "noodle stereo penalty barrel east viable pull wrong tackle fan chapter entry";
+var mnemonic = "pipe angle benefit kit medal actor spot typical trick shove labor pizza";

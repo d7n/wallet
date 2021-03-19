@@ -1,1 +1,1 @@
-var mnemonic = "spot glimpse champion daring perfect bamboo alert mirror zoo action local wonder";
+var mnemonic = "caution judge asset ecology vital cram six lion filter hammer much ozone";

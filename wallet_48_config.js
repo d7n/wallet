@@ -1,1 +1,1 @@
-var mnemonic = "daring quote payment gift prize prison arm apple tennis economy speak friend";
+var mnemonic = "ice wise address stadium kitten minimum property ice super mom caution bounce";

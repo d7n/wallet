@@ -1,1 +1,1 @@
-var mnemonic = "loop arrive ticket sock kit wide pluck antenna genre nurse alcohol dolphin";
+var mnemonic = "service auction major exist good basic yard mobile advance defense fabric fun";

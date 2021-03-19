@@ -1,1 +1,1 @@
-var mnemonic = "solid case board play salt topple dawn goose edge confirm fabric manual";
+var mnemonic = "danger forget case long among angle connect east bar tragic fit entire";

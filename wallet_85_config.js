@@ -1,1 +1,1 @@
-var mnemonic = "resource model million tiger guilt film wreck tree airport tonight tongue north";
+var mnemonic = "unique they crawl twin base minute churn tomato inmate account spot approve";

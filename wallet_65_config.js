@@ -1,1 +1,1 @@
-var mnemonic = "coil evil melt scare lake face tired oyster dawn hard correct table";
+var mnemonic = "spread fence exercise unable gain describe liar meat weather spot enter rifle";

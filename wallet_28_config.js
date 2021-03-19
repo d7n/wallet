@@ -1,1 +1,1 @@
-var mnemonic = "road wage hidden crater owner dinosaur unable nurse habit mask table dress";
+var mnemonic = "retire mind wheel mad nothing trouble century novel upper auto cradle put";

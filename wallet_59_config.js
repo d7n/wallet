@@ -1,1 +1,1 @@
-var mnemonic = "monkey damp nuclear pink donor letter you tank shine satisfy fork praise";
+var mnemonic = "fury entry resemble forest chunk blast habit wife catch swamp phone draw";

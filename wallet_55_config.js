@@ -1,1 +1,1 @@
-var mnemonic = "item pink visit funny pause under jungle spread before soap pudding desert";
+var mnemonic = "treat axis atom claim live curious embark exit dismiss live myself close";

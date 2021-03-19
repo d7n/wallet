@@ -1,1 +1,1 @@
-var mnemonic = "material slice rookie general guess hire control index guilt pact board recycle";
+var mnemonic = "april drop can junk delay bunker tribe taxi envelope salmon stadium model";

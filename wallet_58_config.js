@@ -1,1 +1,1 @@
-var mnemonic = "banana gap eagle connect hood soldier notice theory label shove sing barrel";
+var mnemonic = "matrix bacon sell fine state hungry frame hip fiction fetch trip library";

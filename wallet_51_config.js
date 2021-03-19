@@ -1,1 +1,1 @@
-var mnemonic = "month zoo cruise explain bright once insane junior cave cargo matrix march";
+var mnemonic = "balcony camera fitness curious movie voice enroll balcony moment help wash glide";

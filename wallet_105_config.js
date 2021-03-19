@@ -1,1 +1,1 @@
-var mnemonic = "ripple benefit runway excuse naive wish electric labor elbow organ inch hurt";
+var mnemonic = "hand mushroom sugar reveal second fix decrease stuff present wrong bench ask";

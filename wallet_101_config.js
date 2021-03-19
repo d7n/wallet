@@ -1,1 +1,1 @@
-var mnemonic = "spray bike slide already ability ivory tribe choose fragile crater salt panther";
+var mnemonic = "doll rocket purchase gate discover upon brain scissors address guard skin trust";

@@ -1,1 +1,1 @@
-var mnemonic = "type sand output drop endless reason alley neglect tide inflict normal boil";
+var mnemonic = "split favorite biology discover science toddler april youth coconut jaguar armed slim";

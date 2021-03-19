@@ -1,1 +1,1 @@
-var mnemonic = "brand fetch midnight solution increase win fall brand clump wonder drill truck";
+var mnemonic = "vague alarm oak deliver cotton scrub swap mixture furnace educate giraffe ability";

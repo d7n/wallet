@@ -1,1 +1,1 @@
-var mnemonic = "travel clever eager negative craft enemy sadness evidence try purity bottom swamp";
+var mnemonic = "vocal tomorrow guitar cargo sight define series word deposit clerk pluck afford";

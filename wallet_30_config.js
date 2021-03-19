@@ -1,1 +1,1 @@
-var mnemonic = "system alert allow spend bounce kind myself near volcano weather derive luxury";
+var mnemonic = "fresh tumble reduce chief police boil cross sniff text physical illegal amused";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary south earth orange feed soda base demand solid gospel genuine enough";
+var mnemonic = "sand seed shoulder boil club fantasy loyal unveil collect toilet sponsor utility";

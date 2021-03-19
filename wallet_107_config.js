@@ -1,1 +1,1 @@
-var mnemonic = "sock rail loud pink roof hen palm ripple nurse potato degree task";
+var mnemonic = "panic recall duck photo erode fiscal discover badge olive like local glide";

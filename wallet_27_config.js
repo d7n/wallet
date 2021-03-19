@@ -1,1 +1,1 @@
-var mnemonic = "share husband model render oxygen pledge afford napkin funny addict silly enable";
+var mnemonic = "genuine acquire guilt food cruel labor slender session unfair seed hawk upper";

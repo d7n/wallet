@@ -1,1 +1,1 @@
-var mnemonic = "danger latin crouch achieve alcohol museum burst hard hour tuition jewel snap";
+var mnemonic = "tank shuffle view voyage pyramid decline now palace assault yard tonight sea";

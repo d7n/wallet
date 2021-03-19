@@ -1,1 +1,1 @@
-var mnemonic = "behave expand drip tube session choose kiwi episode protect twelve remove evolve";
+var mnemonic = "intact hurt dune switch parade front series possible scatter suffer antique rebuild";

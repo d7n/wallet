@@ -1,1 +1,1 @@
-var mnemonic = "rug belt plastic smile tuna develop caught nephew champion light account eight";
+var mnemonic = "balance dirt rich early dish toy script blouse panel dynamic vibrant knock";

@@ -1,1 +1,1 @@
-var mnemonic = "average system couple know attract truck family artist van humor retreat modify";
+var mnemonic = "rookie audit front distance mail fence grunt alien put flight autumn place";

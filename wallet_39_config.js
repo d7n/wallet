@@ -1,1 +1,1 @@
-var mnemonic = "cheap cry road valley interest clarify duty scene shoulder winner try repair";
+var mnemonic = "impact boring cream trash spring list pumpkin regret occur cabbage turkey injury";

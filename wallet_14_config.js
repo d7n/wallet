@@ -1,1 +1,1 @@
-var mnemonic = "dad local profit magic little box window wage useful mimic infant gun";
+var mnemonic = "main put reflect draw solar wrap pave silver acoustic chuckle fold orange";

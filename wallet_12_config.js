@@ -1,1 +1,1 @@
-var mnemonic = "zebra express dwarf legend venture enhance embark suspect subject poem bus laptop";
+var mnemonic = "usual custom mansion search crash hire distance tell kite sunset unfold gravity";

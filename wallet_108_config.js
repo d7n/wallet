@@ -1,1 +1,1 @@
-var mnemonic = "run forget stereo describe slot join best april basic trial wheat dove";
+var mnemonic = "coconut pistol shell cool else success spoon chimney bubble image best damp";

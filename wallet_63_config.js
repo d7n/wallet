@@ -1,1 +1,1 @@
-var mnemonic = "tray oval funny term entry door fork hedgehog chunk fat mail practice";
+var mnemonic = "wreck token gesture sound antique swim appear monkey split fire edge bubble";

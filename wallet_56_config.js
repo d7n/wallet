@@ -1,1 +1,1 @@
-var mnemonic = "remember age second expire ability flee melt label clutch ozone evidence ritual";
+var mnemonic = "valid suffer early toward height exercise banana trick shy battle result mix";

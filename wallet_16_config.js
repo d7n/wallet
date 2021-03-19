@@ -1,1 +1,1 @@
-var mnemonic = "confirm match inflict total detect prison boss usage define color desert female";
+var mnemonic = "wolf normal hire muffin turn fall gate rug slight ritual glance miracle";

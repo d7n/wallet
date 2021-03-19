@@ -1,1 +1,1 @@
-var mnemonic = "orange put style control planet allow casino grant forward undo make version";
+var mnemonic = "quarter walnut diary wall hope across mistake they polar fun powder give";

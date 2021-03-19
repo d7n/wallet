@@ -1,1 +1,1 @@
-var mnemonic = "display little hill example soldier can habit sudden often waste only jungle";
+var mnemonic = "genuine almost borrow jealous express delay matter zero unknown hope dial clerk";

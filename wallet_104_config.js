@@ -1,1 +1,1 @@
-var mnemonic = "throw bread clean image recycle hint clean steak stage balance mouse draw";
+var mnemonic = "west box trigger exist pole spread mansion churn vibrant rural echo clap";

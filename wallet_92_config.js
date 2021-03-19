@@ -1,1 +1,1 @@
-var mnemonic = "real one agent spirit water vital book conduct announce gift weapon rigid";
+var mnemonic = "legend denial club day tumble gasp slow sound brown project bullet glare";

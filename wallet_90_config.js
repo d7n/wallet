@@ -1,1 +1,1 @@
-var mnemonic = "pink stable spoil drill draft fox share blur novel steak flee obscure";
+var mnemonic = "bottom electric table cycle exhaust gossip muffin escape net where knife soon";

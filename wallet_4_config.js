@@ -1,1 +1,1 @@
-var mnemonic = "west tower rather gown maze sustain pink million atom wealth mean kidney";
+var mnemonic = "frequent siege steak dream random mean amazing nephew viable decade sword long";

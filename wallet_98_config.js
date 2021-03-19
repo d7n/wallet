@@ -1,1 +1,1 @@
-var mnemonic = "board plug garment valid lecture world cluster express actor old night faculty";
+var mnemonic = "crop fat enroll code stage mother vicious tray tuna income room essence";

@@ -1,1 +1,1 @@
-var mnemonic = "fog forest salad coil spell aunt future slide leaf tail unit razor";
+var mnemonic = "output banner candy absurd afford spy general food adapt update view useful";

@@ -1,1 +1,1 @@
-var mnemonic = "identify police board kitten adult scout clean captain butter renew whale clock";
+var mnemonic = "zero night office mother release plastic target fix then clip argue grocery";

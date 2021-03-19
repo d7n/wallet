@@ -1,1 +1,1 @@
-var mnemonic = "already heart license puppy noodle relax sand army ivory disorder vivid suspect";
+var mnemonic = "stick label diamond soon insect easily cage milk today spawn oyster decide";

@@ -1,1 +1,1 @@
-var mnemonic = "bar absurd casino kite swear betray leader harbor afford unaware soup rally";
+var mnemonic = "range nerve vicious gadget hurdle paddle pig crumble inject fiber exit paper";

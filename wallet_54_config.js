@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit pass uncle six scale pepper pause hawk winter devote enemy victory";
+var mnemonic = "able pill shoot excite goose item bachelor course eye demise actress enroll";

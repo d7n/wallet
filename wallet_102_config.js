@@ -1,1 +1,1 @@
-var mnemonic = "pool confirm mutual damp position grace receive kidney idea used visa floor";
+var mnemonic = "marble equal danger thank walk female purchase steel arrange poet gun dose";

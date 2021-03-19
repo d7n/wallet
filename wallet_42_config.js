@@ -1,1 +1,1 @@
-var mnemonic = "laundry vehicle hawk blade key tattoo illegal bonus else success coyote family";
+var mnemonic = "expire gold draft put scale inside this verify dress aisle rifle post";

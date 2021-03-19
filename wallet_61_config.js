@@ -1,1 +1,1 @@
-var mnemonic = "scan suffer audit spin verify fancy remove copy brief raven goose tuna";
+var mnemonic = "unknown circle happy never decade hawk film split uphold word radar success";

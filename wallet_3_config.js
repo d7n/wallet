@@ -1,1 +1,1 @@
-var mnemonic = "possible size valve cube canyon super ball science auction garden empty program";
+var mnemonic = "airport video task practice other love shield certain film river innocent basic";

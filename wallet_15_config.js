@@ -1,1 +1,1 @@
-var mnemonic = "round provide concert insect negative hungry void amount sadness leopard citizen dinosaur";
+var mnemonic = "bamboo horror come fluid sentence rifle actress pond hospital kangaroo evoke future";

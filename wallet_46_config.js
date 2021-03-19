@@ -1,1 +1,1 @@
-var mnemonic = "habit chuckle cable garden sure bird lens sign novel tired defense health";
+var mnemonic = "rather air surge amateur skull fee calm adapt amazing biology offer frown";

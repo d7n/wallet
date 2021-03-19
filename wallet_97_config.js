@@ -1,1 +1,1 @@
-var mnemonic = "wisdom embrace idle primary shine tent tornado bring secret nurse combine alone";
+var mnemonic = "slogan produce wall mammal slim car empty smoke slogan prevent hammer enact";

@@ -1,1 +1,1 @@
-var mnemonic = "potato pave taxi stuff chicken basket achieve witness accuse payment hire pizza";
+var mnemonic = "hybrid reveal nerve dismiss dry worth monitor guide brass giggle auction truth";

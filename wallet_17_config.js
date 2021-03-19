@@ -1,1 +1,1 @@
-var mnemonic = "blood sausage stomach sketch still tuition silent brisk decorate cherry scorpion short";
+var mnemonic = "sad idle catch dynamic ring fish puppy adapt chef exile seven lizard";

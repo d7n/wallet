@@ -1,1 +1,1 @@
-var mnemonic = "add disagree system ten solve angle either broccoli smart favorite total service";
+var mnemonic = "blast gossip open truck damage usage relief vast derive galaxy van empty";

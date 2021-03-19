@@ -1,1 +1,1 @@
-var mnemonic = "chest teach retreat robot toast belt breeze gossip rural deposit purity mandate";
+var mnemonic = "shove sustain will brass add hollow sniff train grant only cupboard fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "visit make fun vendor mom because average parade sniff certain figure indicate";
+var mnemonic = "spin slim proud man merit matrix turn arctic sock expose city limit";

@@ -1,1 +1,1 @@
-var mnemonic = "update abstract build enable elder wool flee ripple vacant govern purity coffee";
+var mnemonic = "laugh potato frequent delay inch dirt law submit doctor pet enter expect";

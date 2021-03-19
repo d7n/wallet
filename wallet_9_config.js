@@ -1,1 +1,1 @@
-var mnemonic = "cushion crystal area invest shallow normal sail robust hamster violin small rabbit";
+var mnemonic = "head choose huge word crumble bean green brain spring gas very alien";

@@ -1,1 +1,1 @@
-var mnemonic = "select hurry dilemma eye rose custom square outer inherit pony walnut debate";
+var mnemonic = "above fat crater ankle almost kiwi topic wave occur board wash physical";

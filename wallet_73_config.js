@@ -1,1 +1,1 @@
-var mnemonic = "baby senior what discover hedgehog fever cabbage hero general story garden pony";
+var mnemonic = "valve collect inflict orphan truly brick hill demise rich gasp cradle balcony";

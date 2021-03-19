@@ -1,1 +1,1 @@
-var mnemonic = "voyage metal decorate small grunt pill square mean hill sudden alley breeze";
+var mnemonic = "stool claim maple normal hedgehog salute brave refuse tongue fun radio paper";

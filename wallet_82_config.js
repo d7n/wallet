@@ -1,1 +1,1 @@
-var mnemonic = "predict hero urban legend slogan glow member loan misery inquiry foil inquiry";
+var mnemonic = "web anger between track warfare soul stay frozen goat wink wedding neglect";

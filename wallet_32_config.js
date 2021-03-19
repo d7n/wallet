@@ -1,1 +1,1 @@
-var mnemonic = "animal tragic point economy fiscal coconut prize hospital alcohol grace can device";
+var mnemonic = "siege other size first claim test prepare gesture scrub tenant turkey attract";

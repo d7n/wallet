@@ -1,1 +1,1 @@
-var mnemonic = "trigger you fruit lonely flame stamp render immense economy market glow zoo";
+var mnemonic = "venue snack empower three blue demand business wheel exit female tobacco else";

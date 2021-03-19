@@ -1,1 +1,1 @@
-var mnemonic = "remain elbow cause common ready purity guard opinion fault amount category remember";
+var mnemonic = "veteran deer provide betray ugly wrist bundle okay strategy example spawn jelly";

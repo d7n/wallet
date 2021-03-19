@@ -1,1 +1,1 @@
-var mnemonic = "mystery maple option broccoli name vanish analyst ensure fresh better math nominee";
+var mnemonic = "genre owner stomach quick topic fabric present kind crazy winner security disagree";

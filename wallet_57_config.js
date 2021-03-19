@@ -1,1 +1,1 @@
-var mnemonic = "cycle cheese topic tag truly kick keep glue hidden there broccoli rib";
+var mnemonic = "hybrid tank audit almost badge possible language display wealth duck similar sister";
