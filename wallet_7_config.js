@@ -1,1 +1,1 @@
-var mnemonic = "flip rookie shock roast judge galaxy pelican obtain myself crumble visit unique";
+var mnemonic = "kitten wrestle wealth student oxygen total pipe stomach stove desert choose comfort";

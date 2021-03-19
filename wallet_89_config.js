@@ -1,1 +1,1 @@
-var mnemonic = "explain group consider barrel boost wolf actress arctic own thrive swear hard";
+var mnemonic = "ramp tube rural hood account lady permit soul inform lake inspire acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "arch powder want safe object return source retire weapon such bid pave";
+var mnemonic = "erode hollow dune way prevent scene uphold defy flight rookie dutch noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "share office egg logic bright spot inmate ostrich monster elevator sword stem";
+var mnemonic = "crime evolve police engage excess pear trend senior habit fluid castle spider";

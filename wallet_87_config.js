@@ -1,1 +1,1 @@
-var mnemonic = "know whale bubble employ arrange punch list erode domain rebel canal razor";
+var mnemonic = "liquid pulp vital strong twenty mouse coffee equip kitchen cereal deputy hungry";

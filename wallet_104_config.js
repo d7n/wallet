@@ -1,1 +1,1 @@
-var mnemonic = "eager volume hire kidney spike cherry orbit home purchase sheriff sketch size";
+var mnemonic = "observe moon unveil language firm prison giant couple melt abstract typical coin";

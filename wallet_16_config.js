@@ -1,1 +1,1 @@
-var mnemonic = "perfect spell simple save cart chef maple urban minimum winter library engine";
+var mnemonic = "misery skin lab rack flight drum staff drum vacant hedgehog sphere appear";

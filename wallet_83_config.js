@@ -1,1 +1,1 @@
-var mnemonic = "useful autumn diesel pepper sight wisdom tongue gather truth pretty hundred accuse";
+var mnemonic = "enter execute mixture allow kiwi sponsor job maple nerve elegant jazz recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown ocean warm program business grocery banner raw ostrich balcony diary tortoise";
+var mnemonic = "valve multiply earn endless board sort copy hill reopen sweet guard faith";

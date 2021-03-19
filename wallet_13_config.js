@@ -1,1 +1,1 @@
-var mnemonic = "cube gap boil cluster reject useful emerge book resist yard stone rug";
+var mnemonic = "puzzle winner like goddess ghost maximum equal sight sail bottom fortune spider";

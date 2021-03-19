@@ -1,1 +1,1 @@
-var mnemonic = "certain order plastic gallery glory kit attend dilemma emerge day choice enrich";
+var mnemonic = "glue just person cage ice winter woman minute wheel useless voice tower";

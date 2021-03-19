@@ -1,1 +1,1 @@
-var mnemonic = "lift basket film ahead audit bulb direct firm interest food film produce";
+var mnemonic = "hundred whisper oak hero school odor split orphan owner attack super silly";

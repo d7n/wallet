@@ -1,1 +1,1 @@
-var mnemonic = "nominee name useful surprise water double wealth indicate brush coast turn bamboo";
+var mnemonic = "speak stage umbrella leaf street glue dawn card same sport cause ship";

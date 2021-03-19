@@ -1,1 +1,1 @@
-var mnemonic = "bone rug excess upon bless genuine oak basic fire any rapid over";
+var mnemonic = "unfold differ much hen conduct theory traffic rural velvet protect metal they";

@@ -1,1 +1,1 @@
-var mnemonic = "diet pioneer hurt flock adapt prison symbol grant bargain industry angry zoo";
+var mnemonic = "pitch device now pelican jelly captain during pony crawl half sheriff husband";

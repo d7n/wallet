@@ -1,1 +1,1 @@
-var mnemonic = "message error hire dynamic start dawn senior riot near flame finger cigar";
+var mnemonic = "settle code excess grace convince false left hunt clip oil replace auto";

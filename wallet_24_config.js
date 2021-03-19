@@ -1,1 +1,1 @@
-var mnemonic = "wish orient subway chair sure novel mix grow grain bar pause trust";
+var mnemonic = "knife cloud primary media monitor joke ramp soup rib piece olympic door";

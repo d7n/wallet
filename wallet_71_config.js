@@ -1,1 +1,1 @@
-var mnemonic = "spike enlist loan toss segment you cream hurt mandate swarm ahead plug";
+var mnemonic = "hammer margin weekend illegal wagon pave impose trade farm paper misery lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "planet agree smart tuna unaware attract evil jealous vanish reward brick cactus";
+var mnemonic = "guitar result act betray evoke use candy rubber reduce begin debate gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion abstract link body decorate elite scrap place spawn chicken sting online";
+var mnemonic = "hope nut clinic sugar planet minor miracle sure term convince affair upset";

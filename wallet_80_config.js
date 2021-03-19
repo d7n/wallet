@@ -1,1 +1,1 @@
-var mnemonic = "defy trim arrow family help drill blue author core bubble world coyote";
+var mnemonic = "much mail body journey tunnel blame source afford cost summer rapid accuse";

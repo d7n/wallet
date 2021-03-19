@@ -1,1 +1,1 @@
-var mnemonic = "next inflict add leave upgrade giant ski end page client pistol pass";
+var mnemonic = "tooth account enter useless clip wire cool tiny salt tent home pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble stone salmon century ready problem whale mimic tape purchase margin credit";
+var mnemonic = "decide suffer milk pull sure jaguar magic super turn winner execute miss";

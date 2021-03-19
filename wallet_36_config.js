@@ -1,1 +1,1 @@
-var mnemonic = "trend cheap book squeeze harvest cup gadget reunion average false kitchen media";
+var mnemonic = "baby convince wide stuff response learn hen chase cinnamon pitch able exclude";

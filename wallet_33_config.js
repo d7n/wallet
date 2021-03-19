@@ -1,1 +1,1 @@
-var mnemonic = "moment physical turkey vivid maze shrimp gospel pupil divorce pink glance pilot";
+var mnemonic = "orient mirror elegant wolf clean employ damp ill cricket explain social august";

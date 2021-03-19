@@ -1,1 +1,1 @@
-var mnemonic = "learn media blouse forget hold hover float clog pulse notable cricket net";
+var mnemonic = "pink venue rough build urban better castle winter void bullet poem region";

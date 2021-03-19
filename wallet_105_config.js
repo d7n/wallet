@@ -1,1 +1,1 @@
-var mnemonic = "song gather bird moral yard skin exclude swap nut apology awake answer";
+var mnemonic = "dove identify off repeat whale summer matrix erosion invest purse august hunt";

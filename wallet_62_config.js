@@ -1,1 +1,1 @@
-var mnemonic = "clerk hair build always alter common equal piece bottom crisp ritual tackle";
+var mnemonic = "peanut goose broom increase repair caught update orchard leg spy sign riot";

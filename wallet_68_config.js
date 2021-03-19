@@ -1,1 +1,1 @@
-var mnemonic = "sure ignore quality gauge enlist square window burger account noble scorpion change";
+var mnemonic = "quote coast oil fantasy dog special apology improve retreat benefit turkey crazy";

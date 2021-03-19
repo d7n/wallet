@@ -1,1 +1,1 @@
-var mnemonic = "skate company pretty occur cruise foot hen pencil try gym erode ensure";
+var mnemonic = "rose scrub moon follow type autumn fancy poem vocal muffin shoe speak";

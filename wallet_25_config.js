@@ -1,1 +1,1 @@
-var mnemonic = "engine picnic practice couch sting fade supply reveal menu believe balance anger";
+var mnemonic = "answer apart drama machine hand rotate feed ask oven market alley borrow";

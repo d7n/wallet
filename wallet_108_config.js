@@ -1,1 +1,1 @@
-var mnemonic = "advance bring vote blame road mixed abstract among mimic drive wife sphere";
+var mnemonic = "turkey attend gain fish box clarify enhance egg call dress label capital";

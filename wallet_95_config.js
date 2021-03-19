@@ -1,1 +1,1 @@
-var mnemonic = "couch family search quiz ticket smoke agree fluid violin captain noodle can";
+var mnemonic = "royal stamp elevator perfect false tray deliver maze laptop adjust enjoy uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion sorry flip replace present title tube ostrich always ride broom bottom";
+var mnemonic = "soon hollow edge swallow road clever kidney analyst grunt wink hub volume";

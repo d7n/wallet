@@ -1,1 +1,1 @@
-var mnemonic = "material play mango diamond tobacco buffalo lamp pause melt slam donate lucky";
+var mnemonic = "square robot cube quality payment random useful arrange person link supreme change";

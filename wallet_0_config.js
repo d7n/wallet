@@ -1,1 +1,1 @@
-var mnemonic = "float radar humor adapt near grain stage clutch burst frequent credit earn";
+var mnemonic = "angle faith debris also empower leopard opera cover ahead derive decorate ability";

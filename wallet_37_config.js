@@ -1,1 +1,1 @@
-var mnemonic = "flower scrub cause pave bring crater aspect toss rural lava panda scene";
+var mnemonic = "ranch shaft devote divorce hand nice urban lazy ridge tail collect outdoor";

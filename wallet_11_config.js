@@ -1,1 +1,1 @@
-var mnemonic = "normal accuse donor frozen carpet patrol false keen puzzle mercy nose pilot";
+var mnemonic = "mimic exotic toilet depend ribbon picture present camera wet invite lemon quote";

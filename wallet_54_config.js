@@ -1,1 +1,1 @@
-var mnemonic = "lift blade almost cheese cool trip range increase write coach fish yellow";
+var mnemonic = "wisdom fame music stairs maximum quiz source detect then foster inner sure";

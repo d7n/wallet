@@ -1,1 +1,1 @@
-var mnemonic = "room anxiety wise rigid notice cherry steak motion call helmet pink alarm";
+var mnemonic = "gallery stool comic nasty still gift vivid mansion normal glue inch front";

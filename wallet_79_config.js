@@ -1,1 +1,1 @@
-var mnemonic = "minute display slow exotic matter outdoor human ride toss symbol electric merge";
+var mnemonic = "check crime copper timber verb food pupil cupboard index buffalo lucky cabin";

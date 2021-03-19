@@ -1,1 +1,1 @@
-var mnemonic = "credit tone combine carpet cat angle blanket sunset solve modify under recall";
+var mnemonic = "segment reject slam potato flush miracle tree sad impact drip draw relief";

@@ -1,1 +1,1 @@
-var mnemonic = "purse empty tragic beauty alter vocal sick glove cost banner slush custom";
+var mnemonic = "shock obey pyramid peanut ripple fame estate type machine cost found cliff";

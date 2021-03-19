@@ -1,1 +1,1 @@
-var mnemonic = "pigeon box ribbon fee around involve twist toddler success cupboard cereal coral";
+var mnemonic = "marriage grain miracle voyage talent powder panel small viable rural update abstract";

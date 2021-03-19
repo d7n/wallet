@@ -1,1 +1,1 @@
-var mnemonic = "inner cabin regret kiwi outside edge solid various sick morning income tell";
+var mnemonic = "misery minute apology laundry elevator course benefit beauty someone twist weekend feature";

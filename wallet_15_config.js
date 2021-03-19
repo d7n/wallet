@@ -1,1 +1,1 @@
-var mnemonic = "stove ostrich toe ready nasty climb rare joke regular good print finish";
+var mnemonic = "process labor coyote town enroll tuition thunder staff library nuclear gown buddy";

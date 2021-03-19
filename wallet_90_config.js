@@ -1,1 +1,1 @@
-var mnemonic = "slab trim casino eight super valley where cup mushroom inject junk wrap";
+var mnemonic = "long view angle ranch barrel scrub squirrel proof art clever casual domain";

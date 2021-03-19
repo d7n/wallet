@@ -1,1 +1,1 @@
-var mnemonic = "mandate soap lawsuit one seek crazy income total phrase relax album render";
+var mnemonic = "trap sausage soft found shoot special garage lawn father crop proof sketch";

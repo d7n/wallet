@@ -1,1 +1,1 @@
-var mnemonic = "one position man prepare favorite armed burst devote own beef stove leg";
+var mnemonic = "seek maple reason upper gallery guide solution adult similar payment book recall";

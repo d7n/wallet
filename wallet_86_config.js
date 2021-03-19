@@ -1,1 +1,1 @@
-var mnemonic = "repeat melt tissue raccoon settle host essence gym loud tumble budget congress";
+var mnemonic = "area donate illegal dash job mango multiply current decline gesture evoke rapid";

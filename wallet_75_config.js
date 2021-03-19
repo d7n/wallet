@@ -1,1 +1,1 @@
-var mnemonic = "machine dream harbor achieve approve vibrant crack dolphin gain mouse mirror slim";
+var mnemonic = "soda purse treat inform spider net swallow shaft sport unfair divorce sail";

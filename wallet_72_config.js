@@ -1,1 +1,1 @@
-var mnemonic = "correct swap panel beauty conduct joke gap hurry true match rose window";
+var mnemonic = "link about virtual silver member maid wasp style wrist tube real butter";

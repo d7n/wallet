@@ -1,1 +1,1 @@
-var mnemonic = "apology ask distance marriage ladder nose alter strike need churn cluster direct";
+var mnemonic = "giant place perfect scan enemy fox senior base memory bonus lens silly";

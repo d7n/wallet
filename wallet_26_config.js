@@ -1,1 +1,1 @@
-var mnemonic = "fall empower silver stage plastic camp cycle sort sunny dad reject wait";
+var mnemonic = "below fine start essence bread fury brown sweet scheme deliver favorite name";

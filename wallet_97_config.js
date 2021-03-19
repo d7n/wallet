@@ -1,1 +1,1 @@
-var mnemonic = "coral live transfer margin setup income talk divert fragile plastic lawsuit cheap";
+var mnemonic = "olympic post bird erode soup business skill pattern palm chunk radio vote";

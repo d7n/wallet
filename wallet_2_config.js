@@ -1,1 +1,1 @@
-var mnemonic = "cake ethics side butter inhale impulse frog clerk same canyon pluck act";
+var mnemonic = "banner help goddess trash couch veteran steak shop obtain believe fiction next";

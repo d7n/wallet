@@ -1,1 +1,1 @@
-var mnemonic = "only jungle review month imitate trip gadget usual duty crash angry large";
+var mnemonic = "connect wealth two place dilemma crawl know pair machine special dirt fiscal";

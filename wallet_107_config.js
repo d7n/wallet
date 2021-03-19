@@ -1,1 +1,1 @@
-var mnemonic = "poverty scale senior share easy three firm absent slice verify tilt squeeze";
+var mnemonic = "away illegal account avoid typical sea goose copy margin side breeze dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster pitch olive airport inner near call busy muffin rabbit neither naive";
+var mnemonic = "sign main manual fish wreck youth rude jazz away flat work eternal";

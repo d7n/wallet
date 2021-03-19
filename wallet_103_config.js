@@ -1,1 +1,1 @@
-var mnemonic = "fan apple horror regret goat tape supreme method unfair chimney version average";
+var mnemonic = "arrow tooth visit churn social stick seminar luggage question vintage expect cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "stool derive pottery fine focus bulk derive east diagram unveil screen pepper";
+var mnemonic = "flock improve already flush turkey eyebrow stay stand picture unit virtual increase";

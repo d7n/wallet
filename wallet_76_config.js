@@ -1,1 +1,1 @@
-var mnemonic = "clump stomach bench orient arrange apple mistake twelve green birth pond toy";
+var mnemonic = "novel comfort combine cry renew hybrid excite design sweet quick bonus again";

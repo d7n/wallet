@@ -1,1 +1,1 @@
-var mnemonic = "circle reward demand bar riot pole faith coil unfold reward mixture hedgehog";
+var mnemonic = "salon bone arch help easy vacant praise street leg tool blame wrestle";

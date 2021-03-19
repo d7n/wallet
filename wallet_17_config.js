@@ -1,1 +1,1 @@
-var mnemonic = "talent service puppy assist tattoo can crack saddle magnet matrix school vapor";
+var mnemonic = "jeans fluid burst horn color shy bright almost confirm supreme maid prison";

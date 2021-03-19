@@ -1,1 +1,1 @@
-var mnemonic = "leopard rely toast target wear meadow stand hawk cupboard mule excuse elevator";
+var mnemonic = "cream caught purity alarm pepper drip galaxy squeeze aerobic high embrace lonely";

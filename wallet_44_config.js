@@ -1,1 +1,1 @@
-var mnemonic = "skirt buyer easily clown august slogan pudding stamp desert art swallow museum";
+var mnemonic = "pave deposit aware letter secret reflect allow practice quality maze avocado seminar";

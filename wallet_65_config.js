@@ -1,1 +1,1 @@
-var mnemonic = "chest card page escape service elegant gym virtual office tooth tray drink";
+var mnemonic = "year swallow gasp toss tone mind grunt around toward milk unveil ancient";

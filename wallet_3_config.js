@@ -1,1 +1,1 @@
-var mnemonic = "resist volcano chef float rude example weird live rally tube inside city";
+var mnemonic = "session attend puppy project peanut peace inspire blame increase verify unit loan";

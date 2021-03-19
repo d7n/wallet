@@ -1,1 +1,1 @@
-var mnemonic = "flat system sad meat twice bring machine cream few mouse camera sand";
+var mnemonic = "blossom shadow relief wheat pluck dentist rug page talent awful mountain eye";

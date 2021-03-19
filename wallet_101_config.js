@@ -1,1 +1,1 @@
-var mnemonic = "can duck bulb clown echo switch provide vessel feature soccer goat prepare";
+var mnemonic = "siren vast scare couple best appear hair neck ancient uncle canvas iron";

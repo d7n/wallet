@@ -1,1 +1,1 @@
-var mnemonic = "meat wrestle size summer frozen useful minute kidney badge rely grass bind";
+var mnemonic = "shine move sorry life coin win humor patient head execute sick style";

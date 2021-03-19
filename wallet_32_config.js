@@ -1,1 +1,1 @@
-var mnemonic = "walnut real law element emerge tongue gold used fetch front visa stomach";
+var mnemonic = "double van volume antenna lawn swift exact foil acquire subject screen bitter";

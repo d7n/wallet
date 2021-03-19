@@ -1,1 +1,1 @@
-var mnemonic = "summer success liquid hub cage keen tumble fiscal entry cable member kick";
+var mnemonic = "girl boost burst manage street dignity ski flat whale off wisdom annual";

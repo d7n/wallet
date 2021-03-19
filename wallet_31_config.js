@@ -1,1 +1,1 @@
-var mnemonic = "mouse domain supply curious kidney cost adjust remind rookie absent gesture ankle";
+var mnemonic = "dress rebuild super spoon learn feel ramp average idea file tip when";

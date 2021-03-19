@@ -1,1 +1,1 @@
-var mnemonic = "world another wrap crazy culture security film attack awful win link humble";
+var mnemonic = "cry panda zebra stumble weird provide sample myself vibrant huge advance blind";

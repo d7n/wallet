@@ -1,1 +1,1 @@
-var mnemonic = "glance turn sleep hand okay asset news island month sad puzzle sense";
+var mnemonic = "cattle glide decide virus census response rare uniform suffer attack list sad";

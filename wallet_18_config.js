@@ -1,1 +1,1 @@
-var mnemonic = "clown blush thunder muffin solar nurse engine slice pledge brass oblige gym";
+var mnemonic = "basic hidden output what slow move month vocal lift gasp meadow inflict";

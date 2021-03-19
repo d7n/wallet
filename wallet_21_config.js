@@ -1,1 +1,1 @@
-var mnemonic = "join please dry helmet hammer credit book choose bomb elite amazing tackle";
+var mnemonic = "cart feature limit pole just ecology legal tackle short idle potato endorse";

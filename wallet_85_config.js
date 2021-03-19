@@ -1,1 +1,1 @@
-var mnemonic = "sudden black panther blade edit choice grocery club speed bean rice knee";
+var mnemonic = "mean fatigue fantasy include evil release empower imitate skate replace castle another";

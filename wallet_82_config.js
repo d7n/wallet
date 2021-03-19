@@ -1,1 +1,1 @@
-var mnemonic = "pupil wasp indoor learn portion rotate improve zero please pumpkin prepare lawsuit";
+var mnemonic = "clay vault rug asset trophy fossil fish cover about kiwi zero shallow";

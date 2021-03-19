@@ -1,1 +1,1 @@
-var mnemonic = "tuna mimic trip guilt parent weird company equal sure gown enroll put";
+var mnemonic = "burden mountain fetch wet unknown name arrive require key method source pass";

@@ -1,1 +1,1 @@
-var mnemonic = "twin peasant uncle chief tray topple evidence custom life sugar cream glare";
+var mnemonic = "cram cable reopen fatigue tourist matrix achieve report mix vapor zoo result";

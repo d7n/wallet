@@ -1,1 +1,1 @@
-var mnemonic = "virtual decline pepper swim fork romance ethics absurd dignity equal six crystal";
+var mnemonic = "lawsuit neutral flock burden media whisper admit usual file keep first ankle";

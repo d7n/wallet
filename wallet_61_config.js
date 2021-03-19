@@ -1,1 +1,1 @@
-var mnemonic = "afraid evoke abandon useless spirit pride soul pumpkin blue joy cross pistol";
+var mnemonic = "latin wheel knife leopard sausage cradle end hero boat enlist need habit";

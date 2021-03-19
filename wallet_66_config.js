@@ -1,1 +1,1 @@
-var mnemonic = "cement chaos stereo entire service magnet used draw saddle amount shell lucky";
+var mnemonic = "school swear squeeze double mutual middle torch client pole purse dry enough";

@@ -1,1 +1,1 @@
-var mnemonic = "front cancel aerobic supply carbon hidden hybrid bronze oppose resemble test silk";
+var mnemonic = "regret north embody traffic unknown fetch practice swamp bring access burger swallow";

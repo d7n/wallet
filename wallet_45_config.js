@@ -1,1 +1,1 @@
-var mnemonic = "drift steak robust faith hen proof produce yard waste sting transfer census";
+var mnemonic = "test hybrid diary moral blind category ritual sea come wheat apple exile";

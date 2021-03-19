@@ -1,1 +1,1 @@
-var mnemonic = "movie load inside cradle violin jelly maze find suspect select pause summer";
+var mnemonic = "market minor solve shock magic pepper scorpion walk transfer cover purpose opera";
