@@ -1,1 +1,1 @@
-var mnemonic = "process labor coyote town enroll tuition thunder staff library nuclear gown buddy";
+var mnemonic = "type strong bamboo captain ankle neglect tail volcano pill crawl achieve teach";

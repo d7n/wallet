@@ -1,1 +1,1 @@
-var mnemonic = "girl boost burst manage street dignity ski flat whale off wisdom annual";
+var mnemonic = "always another grass isolate shed goat boil east ill gym young prevent";

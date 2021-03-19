@@ -1,1 +1,1 @@
-var mnemonic = "misery minute apology laundry elevator course benefit beauty someone twist weekend feature";
+var mnemonic = "ship soft always squeeze submit hunt bike goose talk weekend narrow sleep";

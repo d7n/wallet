@@ -1,1 +1,1 @@
-var mnemonic = "ramp tube rural hood account lady permit soul inform lake inspire acoustic";
+var mnemonic = "weapon broccoli morning output random ice category shield mango must glide heavy";

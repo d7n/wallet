@@ -1,1 +1,1 @@
-var mnemonic = "quote coast oil fantasy dog special apology improve retreat benefit turkey crazy";
+var mnemonic = "puzzle lazy giggle mistake sugar source mask clay symbol mandate aware denial";

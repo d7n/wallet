@@ -1,1 +1,1 @@
-var mnemonic = "settle code excess grace convince false left hunt clip oil replace auto";
+var mnemonic = "reveal online game tower enable possible insect spatial desert domain true student";

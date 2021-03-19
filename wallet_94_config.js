@@ -1,1 +1,1 @@
-var mnemonic = "giant place perfect scan enemy fox senior base memory bonus lens silly";
+var mnemonic = "suffer hard twelve license fresh chair claim east six spoon opinion purse";

@@ -1,1 +1,1 @@
-var mnemonic = "novel comfort combine cry renew hybrid excite design sweet quick bonus again";
+var mnemonic = "crime donate stone flat mouse case used column target same unusual bleak";

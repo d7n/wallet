@@ -1,1 +1,1 @@
-var mnemonic = "hammer margin weekend illegal wagon pave impose trade farm paper misery lunar";
+var mnemonic = "size cash cotton control test half scout welcome nuclear release entire offer";

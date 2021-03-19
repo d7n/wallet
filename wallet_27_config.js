@@ -1,1 +1,1 @@
-var mnemonic = "beach useless legal thunder magnet crew fish metal monitor unknown truly injury";
+var mnemonic = "genius reunion disorder pony hen hobby detail before much ordinary brass second";

@@ -1,1 +1,1 @@
-var mnemonic = "shine move sorry life coin win humor patient head execute sick style";
+var mnemonic = "hurt autumn require utility solve pave supreme soup million exist private arrange";

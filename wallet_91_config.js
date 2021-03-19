@@ -1,1 +1,1 @@
-var mnemonic = "tooth account enter useless clip wire cool tiny salt tent home pumpkin";
+var mnemonic = "iron require such shiver claw stamp pattern across bulb kangaroo awesome desk";

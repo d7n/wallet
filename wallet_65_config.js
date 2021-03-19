@@ -1,1 +1,1 @@
-var mnemonic = "year swallow gasp toss tone mind grunt around toward milk unveil ancient";
+var mnemonic = "dismiss exit often summer erase scan caught space paper universe off weird";

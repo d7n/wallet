@@ -1,1 +1,1 @@
-var mnemonic = "hundred whisper oak hero school odor split orphan owner attack super silly";
+var mnemonic = "release grit produce six news develop day weasel vague flag rack boil";

@@ -1,1 +1,1 @@
-var mnemonic = "speak stage umbrella leaf street glue dawn card same sport cause ship";
+var mnemonic = "farm similar reopen gate hen slab prize window ethics shiver pulp scare";

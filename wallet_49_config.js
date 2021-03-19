@@ -1,1 +1,1 @@
-var mnemonic = "wide symbol usual again walk equal party canal item large flame duty";
+var mnemonic = "range afraid tenant intact faculty pupil trash jewel brother seek wrist demand";

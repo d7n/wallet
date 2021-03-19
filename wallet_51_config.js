@@ -1,1 +1,1 @@
-var mnemonic = "address ball help pencil armed travel earth brick diamond forest hello very";
+var mnemonic = "rifle quarter shock avocado echo allow excuse kangaroo pledge off select wool";

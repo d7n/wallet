@@ -1,1 +1,1 @@
-var mnemonic = "orient mirror elegant wolf clean employ damp ill cricket explain social august";
+var mnemonic = "hello cotton anxiety setup tank stumble spy comic few copper dust narrow";

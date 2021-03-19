@@ -1,1 +1,1 @@
-var mnemonic = "convince sense leisure rebel achieve profit drip pumpkin like size have shell";
+var mnemonic = "choice heart frog prison marble patient view bus idea kidney person food";

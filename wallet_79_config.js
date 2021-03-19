@@ -1,1 +1,1 @@
-var mnemonic = "check crime copper timber verb food pupil cupboard index buffalo lucky cabin";
+var mnemonic = "deliver ship frost magic finish elephant height police cancel loyal modify media";

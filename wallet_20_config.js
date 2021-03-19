@@ -1,1 +1,1 @@
-var mnemonic = "alien until front mail stadium nation emotion apology arrest traffic wing cabin";
+var mnemonic = "tell feature oval put sauce sing soft pause clarify because fat audit";

@@ -1,1 +1,1 @@
-var mnemonic = "stool enrich boss slam either black amateur horn advice motor beauty inmate";
+var mnemonic = "pole erupt level tray settle select gadget simple math garment swamp rail";

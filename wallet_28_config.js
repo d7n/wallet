@@ -1,1 +1,1 @@
-var mnemonic = "balcony buddy expect jump keep wisdom panel scorpion stamp like venue hero";
+var mnemonic = "paddle daughter stone tip seek industry season twice example tag proof end";

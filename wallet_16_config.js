@@ -1,1 +1,1 @@
-var mnemonic = "misery skin lab rack flight drum staff drum vacant hedgehog sphere appear";
+var mnemonic = "bounce million charge crunch course banana either list harbor renew write test";

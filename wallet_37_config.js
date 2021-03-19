@@ -1,1 +1,1 @@
-var mnemonic = "ranch shaft devote divorce hand nice urban lazy ridge tail collect outdoor";
+var mnemonic = "parade one rain shock upper version fence minor material begin head collect";

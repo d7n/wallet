@@ -1,1 +1,1 @@
-var mnemonic = "liquid pulp vital strong twenty mouse coffee equip kitchen cereal deputy hungry";
+var mnemonic = "adjust eagle weird void culture monitor connect among envelope letter desk move";

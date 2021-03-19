@@ -1,1 +1,1 @@
-var mnemonic = "answer apart drama machine hand rotate feed ask oven market alley borrow";
+var mnemonic = "hurdle nothing garbage topple innocent sauce pole one goddess soap youth pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "seek maple reason upper gallery guide solution adult similar payment book recall";
+var mnemonic = "hotel this mistake copper day radio federal mammal matter current ribbon rose";

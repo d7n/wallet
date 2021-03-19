@@ -1,1 +1,1 @@
-var mnemonic = "danger left layer very opera food fade slam wheel electric parrot frown";
+var mnemonic = "father dumb auto couple agree mystery wink young skull culture subway shell";

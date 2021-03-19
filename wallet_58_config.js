@@ -1,1 +1,1 @@
-var mnemonic = "sing pistol balcony riot mesh vacuum crunch upper candy monster spend stomach";
+var mnemonic = "cool bracket feed tide budget vault movie object balance toss vault rough";

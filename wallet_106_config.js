@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit neutral flock burden media whisper admit usual file keep first ankle";
+var mnemonic = "seat ahead wool logic polar mail famous afford kid trouble leaf around";

@@ -1,1 +1,1 @@
-var mnemonic = "valve multiply earn endless board sort copy hill reopen sweet guard faith";
+var mnemonic = "convince genuine begin foster equal carry keep nuclear believe beach wave avoid";

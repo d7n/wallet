@@ -1,1 +1,1 @@
-var mnemonic = "cream caught purity alarm pepper drip galaxy squeeze aerobic high embrace lonely";
+var mnemonic = "humor weird cube visa entire twelve false enable toast runway claw sock";

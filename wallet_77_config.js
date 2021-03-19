@@ -1,1 +1,1 @@
-var mnemonic = "gallery stool comic nasty still gift vivid mansion normal glue inch front";
+var mnemonic = "survey confirm resource twin detect combine crisp define portion blur soap lawsuit";

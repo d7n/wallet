@@ -1,1 +1,1 @@
-var mnemonic = "market minor solve shock magic pepper scorpion walk transfer cover purpose opera";
+var mnemonic = "village audit pull sting jewel armor object spice limit mouse ocean author";

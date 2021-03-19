@@ -1,1 +1,1 @@
-var mnemonic = "royal stamp elevator perfect false tray deliver maze laptop adjust enjoy uniform";
+var mnemonic = "leopard chuckle clay change uphold replace entire bleak electric siege spring sausage";

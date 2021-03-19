@@ -1,1 +1,1 @@
-var mnemonic = "pitch device now pelican jelly captain during pony crawl half sheriff husband";
+var mnemonic = "dutch toilet update agree gasp useful gesture credit emotion skull more usual";

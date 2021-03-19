@@ -1,1 +1,1 @@
-var mnemonic = "away illegal account avoid typical sea goose copy margin side breeze dilemma";
+var mnemonic = "auction unknown all traffic scrap wood cloth page sing enable crater shield";

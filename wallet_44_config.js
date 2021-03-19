@@ -1,1 +1,1 @@
-var mnemonic = "pave deposit aware letter secret reflect allow practice quality maze avocado seminar";
+var mnemonic = "tower monster industry doll inside vault debate wisdom cram reopen soda kidney";

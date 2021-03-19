@@ -1,1 +1,1 @@
-var mnemonic = "dress rebuild super spoon learn feel ramp average idea file tip when";
+var mnemonic = "teach guilt want raccoon deal focus recycle ignore fantasy despair myth genre";

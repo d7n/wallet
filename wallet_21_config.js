@@ -1,1 +1,1 @@
-var mnemonic = "cart feature limit pole just ecology legal tackle short idle potato endorse";
+var mnemonic = "sponsor slush room ridge snap above gentle bomb canvas lemon actor high";

@@ -1,1 +1,1 @@
-var mnemonic = "glue just person cage ice winter woman minute wheel useless voice tower";
+var mnemonic = "hood weird saddle unfold purse illegal worry bone scout bamboo catch duty";

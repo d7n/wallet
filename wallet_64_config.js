@@ -1,1 +1,1 @@
-var mnemonic = "pink venue rough build urban better castle winter void bullet poem region";
+var mnemonic = "member column file hire then art divert barely cheap deliver chat just";

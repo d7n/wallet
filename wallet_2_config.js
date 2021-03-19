@@ -1,1 +1,1 @@
-var mnemonic = "banner help goddess trash couch veteran steak shop obtain believe fiction next";
+var mnemonic = "empty allow enhance marine dinosaur vintage stock humble clip journey aisle enroll";

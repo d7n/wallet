@@ -1,1 +1,1 @@
-var mnemonic = "staff bleak hurry pizza horror attack unit alone addict milk pilot old";
+var mnemonic = "anchor nice hint better suit divide nothing ice jeans regular episode silver";

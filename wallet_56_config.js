@@ -1,1 +1,1 @@
-var mnemonic = "broken open police fence vanish brass modify slender among catch mobile embrace";
+var mnemonic = "coral fringe welcome move feature dry video property kind praise brave maple";

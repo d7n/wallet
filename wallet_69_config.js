@@ -1,1 +1,1 @@
-var mnemonic = "define defense cave census minimum iron fatal miracle girl muscle process decide";
+var mnemonic = "matter garage reveal unable educate oyster cross general estate useless april pill";

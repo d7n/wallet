@@ -1,1 +1,1 @@
-var mnemonic = "jeans fluid burst horn color shy bright almost confirm supreme maid prison";
+var mnemonic = "impact neck brand typical trade friend next dog famous gadget mom edge";

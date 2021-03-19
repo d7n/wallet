@@ -1,1 +1,1 @@
-var mnemonic = "mimic exotic toilet depend ribbon picture present camera wet invite lemon quote";
+var mnemonic = "wink other husband sweet arrest adjust physical between art fold one bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "grape concert save grit parrot decrease top only flame scan since wear";
+var mnemonic = "skate arctic penalty rival horn juice unfair warfare program swing ribbon more";

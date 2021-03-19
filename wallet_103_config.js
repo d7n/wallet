@@ -1,1 +1,1 @@
-var mnemonic = "arrow tooth visit churn social stick seminar luggage question vintage expect cereal";
+var mnemonic = "grant way two kite virus section artefact figure foam since barely seed";

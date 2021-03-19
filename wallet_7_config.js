@@ -1,1 +1,1 @@
-var mnemonic = "kitten wrestle wealth student oxygen total pipe stomach stove desert choose comfort";
+var mnemonic = "ride cheap forum clarify taste ordinary client explain crystal screen degree bomb";

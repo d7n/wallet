@@ -1,1 +1,1 @@
-var mnemonic = "observe moon unveil language firm prison giant couple melt abstract typical coin";
+var mnemonic = "marble damp taxi stable club obey coin guard call move twin exit";

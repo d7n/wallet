@@ -1,1 +1,1 @@
-var mnemonic = "cry panda zebra stumble weird provide sample myself vibrant huge advance blind";
+var mnemonic = "page fatigue slab nice chicken great autumn magnet fancy pupil absorb book";

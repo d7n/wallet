@@ -1,1 +1,1 @@
-var mnemonic = "old toast update syrup ship ancient entire dragon auto exchange raise shock";
+var mnemonic = "quarter pluck outer jeans surprise list easy label ankle hard swear join";

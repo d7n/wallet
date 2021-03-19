@@ -1,1 +1,1 @@
-var mnemonic = "guitar result act betray evoke use candy rubber reduce begin debate gloom";
+var mnemonic = "venture awful usual come consider salt replace fee prefer regular keep solar";

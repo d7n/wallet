@@ -1,1 +1,1 @@
-var mnemonic = "puzzle winner like goddess ghost maximum equal sight sail bottom fortune spider";
+var mnemonic = "member neck acid maze ordinary rescue mother mango silver heavy chase bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "clay vault rug asset trophy fossil fish cover about kiwi zero shallow";
+var mnemonic = "loan farm simple father exact fine gauge family tackle talk bless little";

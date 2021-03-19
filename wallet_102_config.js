@@ -1,1 +1,1 @@
-var mnemonic = "tissue barrel raw black panther patient camera blast view sister park trend";
+var mnemonic = "limb garden demand actress trip harvest impulse music welcome planet uncle table";

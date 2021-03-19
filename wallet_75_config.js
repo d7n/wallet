@@ -1,1 +1,1 @@
-var mnemonic = "soda purse treat inform spider net swallow shaft sport unfair divorce sail";
+var mnemonic = "snow craft behind match ski patch heavy diagram vivid able promote man";

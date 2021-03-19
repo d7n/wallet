@@ -1,1 +1,1 @@
-var mnemonic = "hope nut clinic sugar planet minor miracle sure term convince affair upset";
+var mnemonic = "poet rug unable fun style account obtain wet later discover execute market";

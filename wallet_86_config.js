@@ -1,1 +1,1 @@
-var mnemonic = "area donate illegal dash job mango multiply current decline gesture evoke rapid";
+var mnemonic = "fringe outdoor quarter planet soap fitness improve length sample lyrics dove course";

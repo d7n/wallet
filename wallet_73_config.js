@@ -1,1 +1,1 @@
-var mnemonic = "square robot cube quality payment random useful arrange person link supreme change";
+var mnemonic = "rival wreck pool vault mass grow tag conduct response hub slight such";

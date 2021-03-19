@@ -1,1 +1,1 @@
-var mnemonic = "cattle glide decide virus census response rare uniform suffer attack list sad";
+var mnemonic = "dirt inject foam solid fun nephew broken cheap estate demise project carpet";

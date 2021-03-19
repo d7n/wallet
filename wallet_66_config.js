@@ -1,1 +1,1 @@
-var mnemonic = "school swear squeeze double mutual middle torch client pole purse dry enough";
+var mnemonic = "fan fit always minimum hollow fatigue light foil melody heart drift rose";

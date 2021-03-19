@@ -1,1 +1,1 @@
-var mnemonic = "double van volume antenna lawn swift exact foil acquire subject screen bitter";
+var mnemonic = "gown grant year inner ignore involve trouble dinner lottery come perfect squirrel";

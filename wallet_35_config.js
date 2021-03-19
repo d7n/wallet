@@ -1,1 +1,1 @@
-var mnemonic = "salon bone arch help easy vacant praise street leg tool blame wrestle";
+var mnemonic = "final north kid guilt nest praise expand issue churn prison real before";

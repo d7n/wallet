@@ -1,1 +1,1 @@
-var mnemonic = "burden mountain fetch wet unknown name arrive require key method source pass";
+var mnemonic = "album usual van jar shiver book detect marble test scheme general harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic post bird erode soup business skill pattern palm chunk radio vote";
+var mnemonic = "humble tuna zoo bridge creek promote joy salt spider swarm team priority";

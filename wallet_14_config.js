@@ -1,1 +1,1 @@
-var mnemonic = "regret north embody traffic unknown fetch practice swamp bring access burger swallow";
+var mnemonic = "install market junior token sphere believe travel diary supreme give friend glad";

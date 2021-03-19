@@ -1,1 +1,1 @@
-var mnemonic = "skin vehicle leopard increase slab camp bracket shine rapid wreck enrich judge";
+var mnemonic = "demise settle chef promote burden elder spread feature outdoor need satisfy snack";

@@ -1,1 +1,1 @@
-var mnemonic = "category diamond trophy inch rigid tomato wreck monster sail virus bronze layer";
+var mnemonic = "dragon wine about team pulse disease wet soda size indoor way smart";

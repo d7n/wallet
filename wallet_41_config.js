@@ -1,1 +1,1 @@
-var mnemonic = "decide suffer milk pull sure jaguar magic super turn winner execute miss";
+var mnemonic = "invest tobacco shoe rain poem income twin duty vacant lens reject accident";

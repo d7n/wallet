@@ -1,1 +1,1 @@
-var mnemonic = "turkey attend gain fish box clarify enhance egg call dress label capital";
+var mnemonic = "gate genre shed town flag solar paddle final horse inside found century";

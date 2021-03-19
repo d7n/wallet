@@ -1,1 +1,1 @@
-var mnemonic = "flock improve already flush turkey eyebrow stay stand picture unit virtual increase";
+var mnemonic = "tape hundred expect frame element later boss depart repeat turkey pair lock";

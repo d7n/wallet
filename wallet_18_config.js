@@ -1,1 +1,1 @@
-var mnemonic = "basic hidden output what slow move month vocal lift gasp meadow inflict";
+var mnemonic = "below sibling excess post member escape ability dove pause pull laptop list";

@@ -1,1 +1,1 @@
-var mnemonic = "cram cable reopen fatigue tourist matrix achieve report mix vapor zoo result";
+var mnemonic = "surface clock crack rubber dial turn ketchup elbow six message tone huge";

@@ -1,1 +1,1 @@
-var mnemonic = "crime evolve police engage excess pear trend senior habit fluid castle spider";
+var mnemonic = "slender smooth motor erase address velvet cage physical switch best device shadow";

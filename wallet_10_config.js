@@ -1,1 +1,1 @@
-var mnemonic = "connect wealth two place dilemma crawl know pair machine special dirt fiscal";
+var mnemonic = "viable cause swift admit expire decrease vault bench return tool dinosaur cram";

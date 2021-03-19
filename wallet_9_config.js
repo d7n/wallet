@@ -1,1 +1,1 @@
-var mnemonic = "shock obey pyramid peanut ripple fame estate type machine cost found cliff";
+var mnemonic = "body unfold plunge latin spring arena lunch blanket casual destroy dish mean";

@@ -1,1 +1,1 @@
-var mnemonic = "test hybrid diary moral blind category ritual sea come wheat apple exile";
+var mnemonic = "alarm path quick agree saddle wool outdoor fury globe diamond pet upon";

@@ -1,1 +1,1 @@
-var mnemonic = "dove identify off repeat whale summer matrix erosion invest purse august hunt";
+var mnemonic = "vague music keep organ tumble oil blood game advance episode honey panda";

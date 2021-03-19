@@ -1,1 +1,1 @@
-var mnemonic = "siren vast scare couple best appear hair neck ancient uncle canvas iron";
+var mnemonic = "switch mechanic middle program exclude maple torch picture bracket bleak awkward number";

@@ -1,1 +1,1 @@
-var mnemonic = "erode hollow dune way prevent scene uphold defy flight rookie dutch noodle";
+var mnemonic = "inmate hospital next screen tell basket because track other cram basic fame";

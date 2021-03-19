@@ -1,1 +1,1 @@
-var mnemonic = "segment reject slam potato flush miracle tree sad impact drip draw relief";
+var mnemonic = "message weird trap cannon vocal stomach vehicle minimum virus dial dry visit";

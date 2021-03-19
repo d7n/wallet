@@ -1,1 +1,1 @@
-var mnemonic = "grief gown blade syrup finish cabin animal topic rack service ceiling crisp";
+var mnemonic = "escape wealth alert raw face coil easily initial wet mobile large penalty";

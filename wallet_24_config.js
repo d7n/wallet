@@ -1,1 +1,1 @@
-var mnemonic = "knife cloud primary media monitor joke ramp soup rib piece olympic door";
+var mnemonic = "damp theme forget slow resist holiday pave display chaos ability replace town";

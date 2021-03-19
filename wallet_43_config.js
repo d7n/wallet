@@ -1,1 +1,1 @@
-var mnemonic = "grow alley trust bonus drop genius eager armor ethics sauce assault snow";
+var mnemonic = "meat inflict bottom rabbit electric chef scale quick sadness despair lake twist";

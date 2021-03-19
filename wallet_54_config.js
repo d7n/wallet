@@ -1,1 +1,1 @@
-var mnemonic = "wisdom fame music stairs maximum quiz source detect then foster inner sure";
+var mnemonic = "hero make reunion crush achieve tunnel video envelope suggest metal unlock tone";

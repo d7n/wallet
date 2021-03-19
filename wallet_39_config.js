@@ -1,1 +1,1 @@
-var mnemonic = "marriage grain miracle voyage talent powder panel small viable rural update abstract";
+var mnemonic = "grid file gadget armed catch attend spend furnace leg tomorrow unusual ability";

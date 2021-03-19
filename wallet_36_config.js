@@ -1,1 +1,1 @@
-var mnemonic = "baby convince wide stuff response learn hen chase cinnamon pitch able exclude";
+var mnemonic = "gallery gravity pill meat hope access member off diesel dog float canyon";

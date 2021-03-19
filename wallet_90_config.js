@@ -1,1 +1,1 @@
-var mnemonic = "long view angle ranch barrel scrub squirrel proof art clever casual domain";
+var mnemonic = "kangaroo next better inmate spray find hand price object private cousin tree";

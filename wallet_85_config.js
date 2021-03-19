@@ -1,1 +1,1 @@
-var mnemonic = "mean fatigue fantasy include evil release empower imitate skate replace castle another";
+var mnemonic = "domain ahead dynamic frost connect assault galaxy exercise suffer until logic scrub";
