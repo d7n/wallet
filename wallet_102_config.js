@@ -1,1 +1,1 @@
-var mnemonic = "bracket say chalk tired violin shoulder model make elbow must ahead shuffle";
+var mnemonic = "code glimpse chimney switch punch process target steak sniff muffin follow try";

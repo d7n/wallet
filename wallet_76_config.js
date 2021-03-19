@@ -1,1 +1,1 @@
-var mnemonic = "holiday measure beach health torch pact achieve universe pizza toast kitten risk";
+var mnemonic = "below estate trend horse vessel clock copper family discover explain hub call";

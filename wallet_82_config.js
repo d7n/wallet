@@ -1,1 +1,1 @@
-var mnemonic = "cry urge help present gadget tired image element economy amount plate cycle";
+var mnemonic = "today code huge already brick wealth rural loud lobster phrase jump typical";

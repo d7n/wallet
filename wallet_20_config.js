@@ -1,1 +1,1 @@
-var mnemonic = "stem coin face wonder creek tuition ball pole sun report tourist echo";
+var mnemonic = "canal wet pass cricket cup zebra skull energy deal ostrich type make";

@@ -1,1 +1,1 @@
-var mnemonic = "proud nose second lady private guitar crack census sure enable future foil";
+var mnemonic = "satoshi citizen zebra stand hurry burger either mimic thrive flight cook lesson";

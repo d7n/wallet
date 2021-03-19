@@ -1,1 +1,1 @@
-var mnemonic = "abstract banana carry decide gun omit load stairs grain acoustic pepper current";
+var mnemonic = "road antenna scan butter aspect rib pulp chaos glory require drastic canoe";

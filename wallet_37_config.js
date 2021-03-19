@@ -1,1 +1,1 @@
-var mnemonic = "describe relief mention master laugh ecology dice entry example chair absurd allow";
+var mnemonic = "poverty limb alcohol become silly couple sleep rather february side modify scheme";

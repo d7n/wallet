@@ -1,1 +1,1 @@
-var mnemonic = "become wash biology frequent number ski fruit job oven excess bus quantum";
+var mnemonic = "slow twice brisk comic sister hollow invite stable invite amazing prepare walk";

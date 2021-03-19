@@ -1,1 +1,1 @@
-var mnemonic = "valley say grid spice ginger puppy release lecture grape elbow citizen omit";
+var mnemonic = "night cloud album choose smooth pig leader dove measure junior dwarf entry";

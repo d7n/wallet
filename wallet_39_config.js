@@ -1,1 +1,1 @@
-var mnemonic = "soon three kit there ill chat phrase menu kick rebuild alone plate";
+var mnemonic = "hand jaguar tiny argue digital tiger mirror rescue infant busy awesome before";

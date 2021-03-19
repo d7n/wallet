@@ -1,1 +1,1 @@
-var mnemonic = "receive job nuclear benefit ketchup spend suspect blouse will garden close inquiry";
+var mnemonic = "stuff carbon sentence rice sunny siren planet radar witness second pet prize";

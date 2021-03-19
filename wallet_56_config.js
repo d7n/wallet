@@ -1,1 +1,1 @@
-var mnemonic = "strong peace swear assume hair address canoe argue hint follow produce robust";
+var mnemonic = "fossil tornado library render quarter spawn exercise onion term inject feature melt";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge critic visit swarm emotion clarify cart world okay seed kangaroo blame";
+var mnemonic = "hello tourist powder actor venue goat wink thrive income nature strategy pause";

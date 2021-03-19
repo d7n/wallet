@@ -1,1 +1,1 @@
-var mnemonic = "media exotic wheel shock dish warm crater nothing decade wrong camera orchard";
+var mnemonic = "because client chuckle patrol naive select prepare three output body move buyer";

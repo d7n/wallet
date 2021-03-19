@@ -1,1 +1,1 @@
-var mnemonic = "rabbit entire solid model slender resource hotel behind result face behave odor";
+var mnemonic = "scale tattoo steak myth fantasy expand file picnic exit profit rather planet";

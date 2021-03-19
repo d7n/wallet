@@ -1,1 +1,1 @@
-var mnemonic = "rival notable topic crush cry vicious fame empower orphan empower give execute";
+var mnemonic = "uncle prize chuckle loop hundred pepper wife private eye fitness fiber narrow";

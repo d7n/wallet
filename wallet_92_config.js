@@ -1,1 +1,1 @@
-var mnemonic = "sheriff rebel false cover brief fun cage seven script say copper miss";
+var mnemonic = "flock oyster brief goose boss into loan fatigue spend pattern simple couch";

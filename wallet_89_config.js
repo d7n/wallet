@@ -1,1 +1,1 @@
-var mnemonic = "victory remove sheriff update arrange offer nose school intact treat sleep dismiss";
+var mnemonic = "field result bottom future video error orange agree winter icon quote history";

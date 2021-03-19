@@ -1,1 +1,1 @@
-var mnemonic = "dynamic salmon lunch involve faculty risk dove brain flat safe neutral install";
+var mnemonic = "chase equip theory announce magnet arrest immune flash pencil outside title hospital";

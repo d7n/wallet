@@ -1,1 +1,1 @@
-var mnemonic = "better quantum design leopard practice scheme funny path barrel list glory inflict";
+var mnemonic = "advance hill prevent fence subway stem chuckle effort wool move trouble dream";

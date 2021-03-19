@@ -1,1 +1,1 @@
-var mnemonic = "castle beauty deposit hole seed blanket rural sheriff eagle render size fly";
+var mnemonic = "off rhythm analyst impose quick jar naive dish face hollow organ spin";

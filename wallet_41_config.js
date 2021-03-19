@@ -1,1 +1,1 @@
-var mnemonic = "puzzle canvas just senior more process enforce observe match negative issue screen";
+var mnemonic = "inquiry unveil penalty fan limb moon neck soft dry stable often wisdom";

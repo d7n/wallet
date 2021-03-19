@@ -1,1 +1,1 @@
-var mnemonic = "bitter drive media ride chief auto help suffer off public tornado cat";
+var mnemonic = "path knock unique hub waste issue high movie soda wild grunt piano";

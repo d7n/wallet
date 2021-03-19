@@ -1,1 +1,1 @@
-var mnemonic = "page hamster perfect frost fade test that pole puppy random seminar visit";
+var mnemonic = "detect slow fence loyal entire tank category mask casino puzzle uncle work";

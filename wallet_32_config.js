@@ -1,1 +1,1 @@
-var mnemonic = "random powder distance fortune blame priority gain trash badge nice buffalo air";
+var mnemonic = "whale turn photo labor whisper language print wife script axis hero usage";

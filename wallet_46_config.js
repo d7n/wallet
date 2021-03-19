@@ -1,1 +1,1 @@
-var mnemonic = "leaf network special autumn swallow version avoid peace exotic quiz bonus age";
+var mnemonic = "boat bulk settle basket arena fee person violin ancient emerge omit sphere";

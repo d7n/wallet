@@ -1,1 +1,1 @@
-var mnemonic = "grid loyal pelican silent level soup tool tennis endorse bargain ice kid";
+var mnemonic = "tip actress marble wasp embody vacuum verb prosper metal fabric domain economy";

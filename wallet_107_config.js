@@ -1,1 +1,1 @@
-var mnemonic = "stamp proof canal item limit beef arm gauge tag trial love slab";
+var mnemonic = "barely dutch mom life clutch inside space bone kiss excite eight hello";

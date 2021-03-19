@@ -1,1 +1,1 @@
-var mnemonic = "mother supreme federal modify eternal awesome mirror letter ten situate blade system";
+var mnemonic = "enhance coffee obvious eight remain fiscal ten pig attack dignity device rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "keep math novel allow divide fan manual rapid nation online home buyer";
+var mnemonic = "gas motor okay acoustic rich car later draft spice library bicycle attack";

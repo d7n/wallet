@@ -1,1 +1,1 @@
-var mnemonic = "enhance seed brass price tail science zebra erase busy climb lunar garden";
+var mnemonic = "year weird luggage day term arena bronze swift festival physical stable frog";

@@ -1,1 +1,1 @@
-var mnemonic = "motor antenna garage swear what pear battle around depend mansion cricket argue";
+var mnemonic = "catch decrease unusual random ripple river dirt honey remember level type code";

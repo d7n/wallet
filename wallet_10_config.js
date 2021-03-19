@@ -1,1 +1,1 @@
-var mnemonic = "soul alpha three jungle inquiry pepper bird shock prepare treat trend burger";
+var mnemonic = "keep during fruit funny fossil pledge toe drum web miracle admit ceiling";

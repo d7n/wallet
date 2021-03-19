@@ -1,1 +1,1 @@
-var mnemonic = "orchard error arch tackle reward anxiety trip lake bracket jaguar youth birth";
+var mnemonic = "kid talent vocal forget foam lounge indicate wedding above obscure burger nephew";

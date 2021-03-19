@@ -1,1 +1,1 @@
-var mnemonic = "arrive tomorrow kiss output desert recipe morning purse ankle best supply budget";
+var mnemonic = "civil yellow infant build earth bus imitate another head draw immense sport";

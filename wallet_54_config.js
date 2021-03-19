@@ -1,1 +1,1 @@
-var mnemonic = "kitchen hover remind hockey awkward east exist merry over bench simple across";
+var mnemonic = "assist junior category slogan rack wire final cement possible olive bird patch";

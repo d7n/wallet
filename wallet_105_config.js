@@ -1,1 +1,1 @@
-var mnemonic = "payment assume hurdle guide robot ginger moon silver clip stone trend remind";
+var mnemonic = "swarm lonely satoshi trade ugly swear emerge fever holiday ice supply promote";

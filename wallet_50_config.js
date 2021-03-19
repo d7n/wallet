@@ -1,1 +1,1 @@
-var mnemonic = "pause trophy chicken stock silk feel bleak trigger torch space sponsor entry";
+var mnemonic = "veteran almost pass girl shield destroy august pink welcome people viable evil";

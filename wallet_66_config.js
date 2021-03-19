@@ -1,1 +1,1 @@
-var mnemonic = "wise urban trumpet faith pottery cake slight symbol quarter mad addict scissors";
+var mnemonic = "idle skate thank beyond renew cousin extend obscure era fall awful control";

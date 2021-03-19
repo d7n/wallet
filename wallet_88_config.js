@@ -1,1 +1,1 @@
-var mnemonic = "melody tumble jacket subject wagon forward real taste real lonely park quarter";
+var mnemonic = "water file anchor culture seed target enhance brother resist eternal industry night";

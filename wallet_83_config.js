@@ -1,1 +1,1 @@
-var mnemonic = "dentist soldier best shed hybrid gossip reason leopard deliver skill sight noodle";
+var mnemonic = "soul pair hair manual cradle ethics actual trust creek phone defy venture";

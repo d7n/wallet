@@ -1,1 +1,1 @@
-var mnemonic = "wheel west cheese candy area flee forward thunder differ gesture obtain wolf";
+var mnemonic = "issue crawl jelly bacon fault recycle cool alien absent refuse resemble exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "real dwarf innocent marriage west sheriff critic expand garbage high provide warfare";
+var mnemonic = "black slam toward apology cabin key nothing neglect prefer doll maze weekend";

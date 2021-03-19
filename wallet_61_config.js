@@ -1,1 +1,1 @@
-var mnemonic = "rebel spin setup zebra boy hedgehog clap subject cupboard scissors barrel estate";
+var mnemonic = "color security early nature elephant attack remember track visual uniform universe island";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus fruit uphold skate inquiry hen help lucky february that firm burst";
+var mnemonic = "dilemma hurdle sorry occur stone height cinnamon gun achieve coach copper address";

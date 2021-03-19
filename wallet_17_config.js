@@ -1,1 +1,1 @@
-var mnemonic = "ritual cloth interest dutch output wife object just salt monkey palace polar";
+var mnemonic = "banner glory region absent useful moon argue merge unusual poverty fortune snow";

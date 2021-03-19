@@ -1,1 +1,1 @@
-var mnemonic = "urge shaft feel layer soft index pear nest damp alley hat eager";
+var mnemonic = "sign describe city danger scrap point zoo fury excuse next outside coin";

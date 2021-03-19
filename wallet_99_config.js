@@ -1,1 +1,1 @@
-var mnemonic = "game conduct spawn define seek dust remain copper life result sausage when";
+var mnemonic = "garden army brother pizza cause fly hat machine ahead produce victory design";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage region nature ball cushion stove govern initial during noodle avocado force";
+var mnemonic = "cinnamon betray cricket awake orange until cereal awful talent toy fall rough";

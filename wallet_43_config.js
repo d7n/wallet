@@ -1,1 +1,1 @@
-var mnemonic = "confirm upon prepare scorpion liar onion grace transfer hover bone patrol garment";
+var mnemonic = "wife olive supply bright waste daughter boat endorse session chapter nuclear main";

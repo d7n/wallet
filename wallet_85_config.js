@@ -1,1 +1,1 @@
-var mnemonic = "during upgrade battle answer arrive cruise inherit space random boss cloth topple";
+var mnemonic = "despair burger other now sweet marriage beyond hold bike recipe reason scout";

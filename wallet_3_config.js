@@ -1,1 +1,1 @@
-var mnemonic = "flash skill flag toilet prosper mom liquid stomach inner exact sign wait";
+var mnemonic = "umbrella shove sea that toward model album spirit ivory shoot prize shift";

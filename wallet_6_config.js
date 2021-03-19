@@ -1,1 +1,1 @@
-var mnemonic = "good verb female deer suffer genuine boring solar naive arena legend auto";
+var mnemonic = "average rail bid cruise style weasel sniff that deposit stable glare cart";

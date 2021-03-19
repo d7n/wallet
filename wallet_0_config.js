@@ -1,1 +1,1 @@
-var mnemonic = "produce wire equip ball swing gossip picnic spend spatial verb about ride";
+var mnemonic = "whip dust exchange link author elegant release isolate travel width disagree table";

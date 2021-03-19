@@ -1,1 +1,1 @@
-var mnemonic = "fragile power card barely they poet gadget knock lecture message someone runway";
+var mnemonic = "recall harvest shock clean sick napkin toddler work rice grain imitate rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "atom better glance anchor allow ginger divorce stumble ripple student hour target";
+var mnemonic = "lemon tribe hurdle drama hockey profit rain cruel urge differ host shop";

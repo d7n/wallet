@@ -1,1 +1,1 @@
-var mnemonic = "race mosquito retreat rhythm impulse version allow purchase review grab champion goddess";
+var mnemonic = "nest all month image wheel north measure winter result club begin romance";

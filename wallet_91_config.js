@@ -1,1 +1,1 @@
-var mnemonic = "ice concert wild trick prefer flame coffee govern stool identify plug soldier";
+var mnemonic = "can tool buzz gallery guard uniform leopard space quick laptop slender expire";

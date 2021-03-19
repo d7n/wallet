@@ -1,1 +1,1 @@
-var mnemonic = "door tell morning trend ocean horse keen believe toy federal dove couch";
+var mnemonic = "isolate cloud celery upgrade stand gain away siren latin swift spin thing";

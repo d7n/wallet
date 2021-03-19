@@ -1,1 +1,1 @@
-var mnemonic = "ranch need modify body crumble catch mimic lounge affair finish retire evil";
+var mnemonic = "reform random adjust obscure snap disorder public tool hand size ready dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "slot head neither vicious weasel truly great cattle ahead farm pelican park";
+var mnemonic = "void issue risk real leaf brief kick flock stove one army stuff";

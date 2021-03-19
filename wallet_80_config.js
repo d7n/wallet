@@ -1,1 +1,1 @@
-var mnemonic = "flame fire belt capital south retreat leopard dirt nuclear wire river use";
+var mnemonic = "question climb salmon annual picnic opera urge pulse gasp impulse jeans cliff";

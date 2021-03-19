@@ -1,1 +1,1 @@
-var mnemonic = "harsh echo camera coach various sure slight moment raw quick horse wonder";
+var mnemonic = "throw supreme express mean dove carry wood brief estate mention east prize";

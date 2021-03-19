@@ -1,1 +1,1 @@
-var mnemonic = "neutral item segment word retire catalog pipe spider target adapt soon twice";
+var mnemonic = "long glimpse sign bronze lottery convince pretty enact drum tide beyond erase";

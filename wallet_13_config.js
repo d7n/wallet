@@ -1,1 +1,1 @@
-var mnemonic = "bus jaguar warm bulk vague chalk staff ecology bunker pool answer crush";
+var mnemonic = "snack display fix gun save toward chalk typical modify robot claw bronze";

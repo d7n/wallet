@@ -1,1 +1,1 @@
-var mnemonic = "enemy bleak spider fence clown journey absent illegal seat manual metal frog";
+var mnemonic = "toe fame rain punch giant tobacco bird basic vapor shuffle decorate human";

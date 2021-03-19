@@ -1,1 +1,1 @@
-var mnemonic = "congress witness range habit early great bind angry happy man release drum";
+var mnemonic = "debris globe sister domain loop invest twelve song pass ridge laugh tone";

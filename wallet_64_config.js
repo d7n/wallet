@@ -1,1 +1,1 @@
-var mnemonic = "code autumn tribe love more you wave agent custom animal chronic actress";
+var mnemonic = "conduct legal motor mango axis version same injury fiber rug insect text";

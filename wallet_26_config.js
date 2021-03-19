@@ -1,1 +1,1 @@
-var mnemonic = "present grain gift spread much undo bread thrive video sentence enrich device";
+var mnemonic = "coast normal battle predict auto insane sunny loyal crouch ramp family safe";

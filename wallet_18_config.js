@@ -1,1 +1,1 @@
-var mnemonic = "alcohol regular auto muffin leaf rapid volcano kingdom adjust very pony chimney";
+var mnemonic = "wolf gas wisdom drastic quick smoke borrow staff involve balcony announce gas";

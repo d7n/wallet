@@ -1,1 +1,1 @@
-var mnemonic = "ill believe siren tissue face chimney office seed what index hard meadow";
+var mnemonic = "just spirit maximum panel agree subway stumble lazy enroll boil renew proof";

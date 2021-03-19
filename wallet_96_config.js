@@ -1,1 +1,1 @@
-var mnemonic = "parade cruise forward skirt gorilla jungle crouch library nephew prepare nasty explain";
+var mnemonic = "demise then gloom alcohol artefact kiss dumb collect symptom toilet quality brand";

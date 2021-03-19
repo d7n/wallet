@@ -1,1 +1,1 @@
-var mnemonic = "earth doctor pride humor network genuine soup honey gospel omit shove arena";
+var mnemonic = "change laptop mobile flip tape birth noodle crater leaf swim just over";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel video grow phone bread stamp taxi enlist story unaware bind harsh";
+var mnemonic = "name hawk autumn useful walnut acquire wait stove word kiwi tone beef";

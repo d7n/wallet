@@ -1,1 +1,1 @@
-var mnemonic = "shock cabin hip sock exclude approve close sentence gather mountain balance middle";
+var mnemonic = "panda organ episode lumber pride slide night pony mystery funny vanish spirit";

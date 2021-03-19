@@ -1,1 +1,1 @@
-var mnemonic = "repeat bless way motion drill give trash consider use close weather deposit";
+var mnemonic = "elegant among wine arch boring trigger mammal toss brain fossil tongue what";

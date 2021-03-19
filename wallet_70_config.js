@@ -1,1 +1,1 @@
-var mnemonic = "depth nerve pioneer cigar trip huge avocado simple celery debris shield hub";
+var mnemonic = "owner hockey judge choose universe action average bridge security leave mask fade";

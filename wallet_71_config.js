@@ -1,1 +1,1 @@
-var mnemonic = "draw climb once stand clever very series table outer borrow dawn unfold";
+var mnemonic = "amount picnic quality laptop flat casino spoon fury furnace beef fatigue frog";

@@ -1,1 +1,1 @@
-var mnemonic = "rug snow tiger huge couch practice then run polar guard eye casual";
+var mnemonic = "next tornado couch merge course pledge pelican iron sleep sheriff hamster riot";

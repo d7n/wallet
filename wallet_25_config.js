@@ -1,1 +1,1 @@
-var mnemonic = "close scout example actress talk income spoil outer about violin lumber slim";
+var mnemonic = "shuffle verb rough bag work witness health coach smooth bounce question play";

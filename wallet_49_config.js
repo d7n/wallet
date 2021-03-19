@@ -1,1 +1,1 @@
-var mnemonic = "direct slush job frost climb area cloud sail brisk group desk swallow";
+var mnemonic = "orange drink globe blast kit type head dumb airport coconut loop slight";

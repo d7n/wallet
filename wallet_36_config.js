@@ -1,1 +1,1 @@
-var mnemonic = "olympic cotton ribbon motion clean chase foam craft since void grow transfer";
+var mnemonic = "burst notice armor purpose among theory twice obscure fortune treat pilot surface";

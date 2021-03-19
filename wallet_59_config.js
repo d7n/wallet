@@ -1,1 +1,1 @@
-var mnemonic = "rate velvet later luxury define lounge charge pipe candy menu derive version";
+var mnemonic = "surround firm patch stand vital inherit razor garden example place clap inner";

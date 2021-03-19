@@ -1,1 +1,1 @@
-var mnemonic = "close fiber floor volcano chimney flight edge grow discover lab language eye";
+var mnemonic = "fiction draft amazing damage path same virtual lens direct glide jeans message";

@@ -1,1 +1,1 @@
-var mnemonic = "combine human arctic magic tissue link extend hour ticket actor upset grid";
+var mnemonic = "napkin ramp magnet exit agent brother appear chalk tiger amused release second";

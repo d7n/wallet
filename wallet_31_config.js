@@ -1,1 +1,1 @@
-var mnemonic = "tank rural enough corn person drive cook load olympic tonight teach now";
+var mnemonic = "eight rather thumb hawk brain october risk trouble rely original wife release";

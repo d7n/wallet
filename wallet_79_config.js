@@ -1,1 +1,1 @@
-var mnemonic = "matrix wing east crack surface ivory exit kind garage milk wrap sun";
+var mnemonic = "jealous become mammal help night iron toast stadium carry game flame biology";

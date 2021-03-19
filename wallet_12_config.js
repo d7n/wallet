@@ -1,1 +1,1 @@
-var mnemonic = "pioneer under chunk young minimum tank field okay margin miss echo scan";
+var mnemonic = "round lounge absorb grid transfer fish express artist first sea alter maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "potato crater release arrow thought exhaust shock muffin door walnut dove brain";
+var mnemonic = "resemble anxiety loop present orange message sunset already harbor panther left normal";

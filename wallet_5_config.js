@@ -1,1 +1,1 @@
-var mnemonic = "top include era stand buzz cup upon hurt blast blouse round dune";
+var mnemonic = "topic wall arrest modify noodle powder enlist artefact satoshi rally zoo lesson";

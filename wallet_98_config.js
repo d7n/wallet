@@ -1,1 +1,1 @@
-var mnemonic = "burger nerve goddess volcano young earth reform transfer right twin come ugly";
+var mnemonic = "opinion enrich lake nice success mountain style sorry wait museum patient later";

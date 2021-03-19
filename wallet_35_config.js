@@ -1,1 +1,1 @@
-var mnemonic = "forget term embody brother soccer success shield mammal keep local welcome critic";
+var mnemonic = "correct liberty ridge antenna unit village bulb baby mushroom favorite figure blossom";

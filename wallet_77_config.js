@@ -1,1 +1,1 @@
-var mnemonic = "depth web frame suggest solid glance abuse liquid sauce twelve delay letter";
+var mnemonic = "tortoise honey interest rent find cage noble sheriff ostrich industry trap near";

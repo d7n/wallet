@@ -1,1 +1,1 @@
-var mnemonic = "clog nephew umbrella glad oppose divorce save noise focus second execute announce";
+var mnemonic = "dry veteran alpha delay album guitar consider baby vibrant shed gauge spider";

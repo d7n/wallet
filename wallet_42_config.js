@@ -1,1 +1,1 @@
-var mnemonic = "rather vivid party credit version caution neglect alley either net nuclear fashion";
+var mnemonic = "more walnut egg grit insane mutual measure measure face object west rally";

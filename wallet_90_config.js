@@ -1,1 +1,1 @@
-var mnemonic = "example toward portion castle mouse ramp leg person sting copper nation train";
+var mnemonic = "shield cannon erupt weekend clutch ginger quiz bundle wife monkey catch cash";
