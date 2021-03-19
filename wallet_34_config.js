@@ -1,1 +1,1 @@
-var mnemonic = "tornado series chef arctic remind frown sister scan office hammer junk exhaust";
+var mnemonic = "domain easily genre punch swamp hour disease drama trim cabin analyst trim";

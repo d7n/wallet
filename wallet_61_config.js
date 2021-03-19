@@ -1,1 +1,1 @@
-var mnemonic = "broken hurry ask off own blame jealous deputy slender sight admit agent";
+var mnemonic = "entry join talk casual blouse fog pave poem wreck pyramid leisure more";

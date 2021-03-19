@@ -1,1 +1,1 @@
-var mnemonic = "summer blind cup promote tip reform chimney punch bamboo analyst mixture wish";
+var mnemonic = "onion blue stadium autumn once observe trim enhance moment clock income clerk";

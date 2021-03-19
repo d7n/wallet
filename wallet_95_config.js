@@ -1,1 +1,1 @@
-var mnemonic = "film quit barrel stable note basic rail this answer economy burst unhappy";
+var mnemonic = "seminar orient rocket warm basket flower book lend robust review manual kid";

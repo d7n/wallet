@@ -1,1 +1,1 @@
-var mnemonic = "junk lawsuit vicious pond torch taxi jungle knee chronic rain open vendor";
+var mnemonic = "ripple rubber sell imitate mansion few wet brand bitter wheat trumpet moral";

@@ -1,1 +1,1 @@
-var mnemonic = "smart crime hidden drift female draft way various town warfare need major";
+var mnemonic = "toward divide catalog arm dice beef cost farm sense patrol humble crystal";

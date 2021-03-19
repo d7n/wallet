@@ -1,1 +1,1 @@
-var mnemonic = "tip era file poet liar runway jeans floor piano motor evidence ice";
+var mnemonic = "welcome pink column code cabin young barely force clip win napkin blush";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest carry oven flag false canvas achieve apart exhibit good case athlete";
+var mnemonic = "height borrow detail room kick work icon tunnel lend trip aspect increase";

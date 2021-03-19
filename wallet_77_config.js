@@ -1,1 +1,1 @@
-var mnemonic = "agent entry craft early pipe jar myth brand broom sight wet jazz";
+var mnemonic = "today endless spare runway account image cancel rapid page gesture race bacon";

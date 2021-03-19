@@ -1,1 +1,1 @@
-var mnemonic = "truly quick faint burden notable foam dinosaur rural love birth young dismiss";
+var mnemonic = "cross version spoon shop panic hero escape modify element time parade orange";

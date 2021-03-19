@@ -1,1 +1,1 @@
-var mnemonic = "risk appear motor quarter shaft similar fat view vocal dizzy hybrid empty";
+var mnemonic = "polar orphan flame decide wolf stomach swift avocado else curve stuff identify";

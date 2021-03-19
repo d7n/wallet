@@ -1,1 +1,1 @@
-var mnemonic = "valid treat tube term clever clay used purchase spirit mule diary six";
+var mnemonic = "number reunion cherry pig security giraffe pelican enemy link member worth slush";

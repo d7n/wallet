@@ -1,1 +1,1 @@
-var mnemonic = "sound senior high flame valve reduce earth help smooth good possible physical";
+var mnemonic = "tooth idea pair wine viable airport code raw chunk eagle profit hawk";

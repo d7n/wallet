@@ -1,1 +1,1 @@
-var mnemonic = "inner rare post system tree rally decorate lottery equal penalty agree march";
+var mnemonic = "marriage slot trend fog market series snake pumpkin master trap mind reveal";

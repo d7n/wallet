@@ -1,1 +1,1 @@
-var mnemonic = "brass holiday hotel bulk clown toward trash steak car solve tip together";
+var mnemonic = "brave lazy ice student price fire hood aisle hover top south dream";

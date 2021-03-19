@@ -1,1 +1,1 @@
-var mnemonic = "provide rose artefact day punch nuclear elevator pioneer tilt away service front";
+var mnemonic = "black exact surge burst reduce donkey guide army absurd minimum legal season";

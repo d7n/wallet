@@ -1,1 +1,1 @@
-var mnemonic = "better language minimum opera squeeze century often like coconut cigar length switch";
+var mnemonic = "lion artist test cement basket frozen awake home keen fish air bubble";

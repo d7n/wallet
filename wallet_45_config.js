@@ -1,1 +1,1 @@
-var mnemonic = "fury similar fold surface bronze cloth insane thing wealth riot joke early";
+var mnemonic = "kitchen debris stuff imitate urban surround destroy will load salmon rally act";

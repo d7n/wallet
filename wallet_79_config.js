@@ -1,1 +1,1 @@
-var mnemonic = "vanish humor fan bird congress infant rural satisfy monkey grape ugly elder";
+var mnemonic = "consider shoulder elevator still royal parrot shell fatal connect mutual wasp early";

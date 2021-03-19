@@ -1,1 +1,1 @@
-var mnemonic = "lava weekend rule nuclear crystal anchor boost cradle ring math allow erupt";
+var mnemonic = "beyond wave canal riot nominee scare radio manage clerk exchange ozone coyote";

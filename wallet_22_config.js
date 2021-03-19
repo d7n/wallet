@@ -1,1 +1,1 @@
-var mnemonic = "tail mechanic wrong patient penalty display company manual pole ostrich course quality";
+var mnemonic = "core barely penalty olive among object vehicle april siren private glory fatal";

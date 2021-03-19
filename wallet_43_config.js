@@ -1,1 +1,1 @@
-var mnemonic = "success harvest detect shield earth rich photo story abstract immune ritual summer";
+var mnemonic = "amateur siege immune window print consider drastic weather force script park vendor";

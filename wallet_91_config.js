@@ -1,1 +1,1 @@
-var mnemonic = "egg cereal exact virus accuse steel bicycle position crack spin venue bamboo";
+var mnemonic = "umbrella lazy vault garbage unaware true room lounge love rose tenant park";

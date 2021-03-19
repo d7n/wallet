@@ -1,1 +1,1 @@
-var mnemonic = "lizard region smart gossip few since cover promote copy engine camera myself";
+var mnemonic = "talent early volume purpose invest fault october digital garlic perfect tail patient";

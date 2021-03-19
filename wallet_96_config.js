@@ -1,1 +1,1 @@
-var mnemonic = "goose pulp unfair table win nominee genius police library culture crystal forest";
+var mnemonic = "kid moment base close intact swarm heart put lonely lottery school cattle";

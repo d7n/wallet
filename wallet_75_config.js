@@ -1,1 +1,1 @@
-var mnemonic = "curve response army demise frozen crime easily regret cry chef fly find";
+var mnemonic = "teach crush transfer ostrich tumble visit sauce lyrics eagle volume clinic duty";

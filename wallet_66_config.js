@@ -1,1 +1,1 @@
-var mnemonic = "hockey will theme east end civil step wide buffalo found knock cage";
+var mnemonic = "muffin please slice inner open permit equip rebel hundred off only predict";

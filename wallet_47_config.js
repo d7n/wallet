@@ -1,1 +1,1 @@
-var mnemonic = "gravity drill sheriff force peace lottery ticket fold illegal loud gain long";
+var mnemonic = "ceiling now midnight biology busy lottery twelve market man seek crash portion";

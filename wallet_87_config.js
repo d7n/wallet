@@ -1,1 +1,1 @@
-var mnemonic = "awful economy start area wisdom unit tenant wood frame camera bike connect";
+var mnemonic = "permit logic base boat shrimp force mutual spend soft move trade series";

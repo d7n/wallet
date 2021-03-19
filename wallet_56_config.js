@@ -1,1 +1,1 @@
-var mnemonic = "puppy render clock inner giraffe example bulb range bridge merry divert need";
+var mnemonic = "carpet legal average damp rebuild jeans dance session olympic border nothing real";

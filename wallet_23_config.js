@@ -1,1 +1,1 @@
-var mnemonic = "again fuel famous hub unique bulk carbon drama taste wrap dynamic habit";
+var mnemonic = "friend pudding vehicle wave meat inner stove sphere fun profit alcohol bring";

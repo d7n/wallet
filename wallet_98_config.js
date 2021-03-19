@@ -1,1 +1,1 @@
-var mnemonic = "match daring song used inside question give quick skirt guitar clerk volcano";
+var mnemonic = "caution fuel resource mix world joke omit pass item destroy vessel garbage";

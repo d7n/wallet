@@ -1,1 +1,1 @@
-var mnemonic = "grab charge tobacco wine fade wagon kangaroo where joke rough change attend";
+var mnemonic = "smart manage census forum sunset load cheese decorate analyst end tenant joy";

@@ -1,1 +1,1 @@
-var mnemonic = "stem young law alcohol blush impose letter bicycle boring blanket accuse illness";
+var mnemonic = "vicious color alcohol spoon employ piece bone doll practice initial indoor minute";

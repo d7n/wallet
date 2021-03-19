@@ -1,1 +1,1 @@
-var mnemonic = "hair loan order little aunt wood essence affair disagree cube destroy elephant";
+var mnemonic = "nurse timber session piece green energy dice sick point reunion bean fall";

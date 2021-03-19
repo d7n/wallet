@@ -1,1 +1,1 @@
-var mnemonic = "forward fix range liquid alcohol success modify boring reason play behind indoor";
+var mnemonic = "pen sand cable cluster tower jump situate talent brother pole eternal subway";

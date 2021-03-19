@@ -1,1 +1,1 @@
-var mnemonic = "update must little pave uncle obscure battle pause apart aunt multiply same";
+var mnemonic = "hover practice weird actor exhaust slam step dust draw drill skirt parade";

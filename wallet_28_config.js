@@ -1,1 +1,1 @@
-var mnemonic = "year idle glue retreat rare sheriff just invite void drink cancel cause";
+var mnemonic = "afford elite also two furnace skate misery must multiply space wage purity";

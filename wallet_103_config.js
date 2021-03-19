@@ -1,1 +1,1 @@
-var mnemonic = "problem domain tape conduct art maximum fringe forward panel rebuild void subject";
+var mnemonic = "consider near lecture oval cinnamon awake uniform better region until horn conduct";

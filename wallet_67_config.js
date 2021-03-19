@@ -1,1 +1,1 @@
-var mnemonic = "wasp cute citizen produce eagle detect crunch unhappy express glass sniff journey";
+var mnemonic = "swamp weasel bunker view bicycle actor vast system issue mask orbit people";

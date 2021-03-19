@@ -1,1 +1,1 @@
-var mnemonic = "memory peasant diet real mad sword unfair fringe host summer slush blur";
+var mnemonic = "top lawsuit sign fatal beef month exit stumble ready certain bachelor relief";

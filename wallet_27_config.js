@@ -1,1 +1,1 @@
-var mnemonic = "bacon fix comic bubble cloth boss expect tuna object wreck figure drip";
+var mnemonic = "found december pulp route blur bracket curtain bacon orient fever life boring";

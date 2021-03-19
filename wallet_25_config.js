@@ -1,1 +1,1 @@
-var mnemonic = "intact trash lunar execute coin mother small sight decade army follow pole";
+var mnemonic = "tell vintage ladder frequent faint icon belt fatal hamster ensure arrest dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive legal ecology easily amazing stadium ancient library wide easily galaxy material";
+var mnemonic = "output program result advice access develop shaft loan hurry virus shrimp economy";

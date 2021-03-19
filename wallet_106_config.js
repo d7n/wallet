@@ -1,1 +1,1 @@
-var mnemonic = "target grace series whisper teach chest tiger stereo essence inner rack fade";
+var mnemonic = "silent episode dutch pause sample dwarf purchase ginger observe sustain select inspire";

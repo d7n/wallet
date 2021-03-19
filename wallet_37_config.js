@@ -1,1 +1,1 @@
-var mnemonic = "artist poverty endorse ready census neutral unlock license rifle chuckle tattoo scan";
+var mnemonic = "cry symbol address viable unveil fog lens mad draft defy chronic crew";

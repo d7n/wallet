@@ -1,1 +1,1 @@
-var mnemonic = "refuse badge shoot room sorry edge early casual similar clutch prevent shoot";
+var mnemonic = "spawn text rain avoid leave bamboo kingdom engine penalty razor catch round";

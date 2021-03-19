@@ -1,1 +1,1 @@
-var mnemonic = "civil split share circle drive book pull shoe cheese capital sting toilet";
+var mnemonic = "motion child wood often three until artist relief cable manage outdoor coconut";

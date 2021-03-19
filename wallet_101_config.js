@@ -1,1 +1,1 @@
-var mnemonic = "luxury gold mask food noise will picture weapon poet later summer rely";
+var mnemonic = "wet abuse head rebel wolf human always twist buzz custom office unknown";

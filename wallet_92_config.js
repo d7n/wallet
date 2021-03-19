@@ -1,1 +1,1 @@
-var mnemonic = "label bar host wagon install coconut brand piano tornado glory blossom soup";
+var mnemonic = "lonely always climb kid defy winter crowd fever wrap stairs barrel frame";

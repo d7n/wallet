@@ -1,1 +1,1 @@
-var mnemonic = "forum amount above lunch symptom tackle hint dream night still grant matrix";
+var mnemonic = "moral lucky shield economy figure spring toe situate clog step moon purity";

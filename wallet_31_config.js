@@ -1,1 +1,1 @@
-var mnemonic = "whisper help team rather float during damp gown stumble memory maple guard";
+var mnemonic = "perfect rely notice mutual task ugly step sock hand kangaroo frog public";

@@ -1,1 +1,1 @@
-var mnemonic = "fade busy list tent plastic mercy wrong funny stumble giant voice fitness";
+var mnemonic = "primary voice benefit label orchard apple adapt dry casino reveal below pioneer";

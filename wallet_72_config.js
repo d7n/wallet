@@ -1,1 +1,1 @@
-var mnemonic = "whip patrol yard insect relax lecture feature luxury bind exhibit kangaroo goat";
+var mnemonic = "give benefit horse acid food soul monster flag reduce romance tennis voice";

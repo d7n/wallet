@@ -1,1 +1,1 @@
-var mnemonic = "alcohol eternal extend lunch yard suggest wage comfort infant dilemma action adjust";
+var mnemonic = "few team brief obey home wire connect twelve salad such engage robust";

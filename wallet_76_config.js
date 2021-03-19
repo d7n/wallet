@@ -1,1 +1,1 @@
-var mnemonic = "zone ride what boring exile atom lunch mother famous have diet guard";
+var mnemonic = "model brain occur top three keen illegal work surround skull nephew group";

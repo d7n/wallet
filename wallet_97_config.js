@@ -1,1 +1,1 @@
-var mnemonic = "outside bottom cause awkward fox joy act engine wheat gasp fly insane";
+var mnemonic = "barrel aspect bridge razor pull leave tourist asset crack puzzle scrub follow";

@@ -1,1 +1,1 @@
-var mnemonic = "truly silent intact walk ripple burst amount flock auction pupil razor head";
+var mnemonic = "build kick wisdom drive mushroom depth recipe pioneer agent surge review problem";

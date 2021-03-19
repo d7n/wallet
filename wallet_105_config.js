@@ -1,1 +1,1 @@
-var mnemonic = "thunder cattle wish super east cinnamon link fiction ozone broom stool must";
+var mnemonic = "rule chalk ready theme three craft educate attack loop bless chronic tragic";

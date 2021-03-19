@@ -1,1 +1,1 @@
-var mnemonic = "actual game south organ enact unfair silent good shoot draft flower choose";
+var mnemonic = "retire metal cage zoo poem message dragon kitten announce key insect net";

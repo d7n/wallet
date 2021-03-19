@@ -1,1 +1,1 @@
-var mnemonic = "loud early uniform cereal place ignore honey phrase shuffle canvas under such";
+var mnemonic = "reveal minimum lake tattoo cute athlete address fresh junk mistake antique popular";

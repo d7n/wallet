@@ -1,1 +1,1 @@
-var mnemonic = "rain cost around fossil cruise predict action gorilla moment picnic receive glory";
+var mnemonic = "dizzy famous harbor usage use item chief face catalog wasp keep donate";

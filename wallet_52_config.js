@@ -1,1 +1,1 @@
-var mnemonic = "grape auction delay firm funny daughter wool shallow trick shell balance receive";
+var mnemonic = "example few frequent buzz vehicle ask clap answer disagree crash change salmon";

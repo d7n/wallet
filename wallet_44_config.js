@@ -1,1 +1,1 @@
-var mnemonic = "square gift school gun immense grow you imitate youth chat gas crystal";
+var mnemonic = "wild lend judge clip pride risk then flee ability betray dove silent";

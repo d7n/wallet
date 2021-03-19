@@ -1,1 +1,1 @@
-var mnemonic = "wait lounge orange clerk scrub charge nurse artefact either length trial picnic";
+var mnemonic = "ancient hero ginger palm evolve brass excess drift crime capable cluster repeat";

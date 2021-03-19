@@ -1,1 +1,1 @@
-var mnemonic = "tail impact citizen nest allow mean initial task install simple image raven";
+var mnemonic = "sad wisdom wink labor very program regret innocent goddess inflict start meadow";

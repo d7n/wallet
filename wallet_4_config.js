@@ -1,1 +1,1 @@
-var mnemonic = "edit wisdom inside drip sick subject pilot oven ocean slide poem kind";
+var mnemonic = "win material raccoon picture myself brave dust match pet claw cargo horn";

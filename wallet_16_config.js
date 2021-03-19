@@ -1,1 +1,1 @@
-var mnemonic = "settle tiny advance marble pizza infant upset uncle tilt abandon reunion drip";
+var mnemonic = "artwork slow fish tent similar around pond bonus video clarify copy fault";

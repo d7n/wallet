@@ -1,1 +1,1 @@
-var mnemonic = "movie wine twist main segment grape member smooth sight tent cabin together";
+var mnemonic = "crouch brief core kidney mom thank improve mean region popular lake unfair";

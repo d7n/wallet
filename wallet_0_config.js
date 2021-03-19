@@ -1,1 +1,1 @@
-var mnemonic = "verify ensure initial wrestle surround invest meat clay oyster model member grief";
+var mnemonic = "swing welcome stamp suspect empower bleak echo seven hat current grow hedgehog";

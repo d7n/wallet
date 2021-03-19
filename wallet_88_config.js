@@ -1,1 +1,1 @@
-var mnemonic = "pipe solution again point float van holiday trigger gas hello diary tattoo";
+var mnemonic = "quantum quit unlock easy session absorb glare same tongue error vintage climb";

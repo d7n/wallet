@@ -1,1 +1,1 @@
-var mnemonic = "royal speak forward shove identify tomorrow vivid accident way unusual zero melody";
+var mnemonic = "stool foil once citizen violin code pen august planet various shallow expose";

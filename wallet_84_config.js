@@ -1,1 +1,1 @@
-var mnemonic = "shop cargo correct citizen prosper hungry use involve draw inmate arrange mushroom";
+var mnemonic = "forget please setup decade grass ask file strike feed problem govern initial";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry decrease security horse what identify general leopard oxygen top dilemma doll";
+var mnemonic = "escape neither accident fly patch erode sustain robot case negative eagle lady";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor worry work slender leopard allow private goddess mimic together common vapor";
+var mnemonic = "interest service valid repeat predict powder vibrant cradle deal aspect oven bird";

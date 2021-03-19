@@ -1,1 +1,1 @@
-var mnemonic = "ostrich bulb sustain true clerk interest sight december couch marriage fiction myself";
+var mnemonic = "castle symptom guide lounge dream trade great tortoise salon report potato spatial";

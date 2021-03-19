@@ -1,1 +1,1 @@
-var mnemonic = "west brown pole taxi soon citizen emotion quarter destroy process sport follow";
+var mnemonic = "twice error fog onion super sure sword strike army chuckle cheese book";

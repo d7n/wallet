@@ -1,1 +1,1 @@
-var mnemonic = "consider key word taste buffalo ketchup bonus stove over wedding dignity myself";
+var mnemonic = "tennis nothing episode frequent sign believe outside pulse debate wreck charge toilet";

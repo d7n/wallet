@@ -1,1 +1,1 @@
-var mnemonic = "ensure miss advice gallery major hybrid party pig element predict office hip";
+var mnemonic = "guide such fault rate outer join goat service slight album salon crime";

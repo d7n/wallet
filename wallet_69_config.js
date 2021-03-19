@@ -1,1 +1,1 @@
-var mnemonic = "cluster chimney strike cousin spike police fiscal drastic spawn school begin two";
+var mnemonic = "fruit element orient punch rescue room uphold rose base correct grunt margin";

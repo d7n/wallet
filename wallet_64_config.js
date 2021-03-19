@@ -1,1 +1,1 @@
-var mnemonic = "valve desert review beach mesh ignore erode start carry open stairs impact";
+var mnemonic = "donkey false movie grab priority science auction diary derive canyon mandate crater";

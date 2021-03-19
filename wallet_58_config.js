@@ -1,1 +1,1 @@
-var mnemonic = "novel breeze vacant laugh core suit fly oven answer vintage adapt unfair";
+var mnemonic = "push cat visit aspect novel danger unveil asthma voyage lyrics keen general";

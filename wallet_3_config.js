@@ -1,1 +1,1 @@
-var mnemonic = "resemble school fancy gym resist athlete visa service soap better quick stumble";
+var mnemonic = "call spell bulb grape endorse shrug tortoise exit play bacon fetch ethics";

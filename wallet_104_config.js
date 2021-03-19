@@ -1,1 +1,1 @@
-var mnemonic = "attend host escape world measure dizzy extra saddle blast suspect good toward";
+var mnemonic = "pair acid struggle rug return crew tiny spawn wrong story student stomach";

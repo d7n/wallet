@@ -1,1 +1,1 @@
-var mnemonic = "slab suspect inform income write goat sight van penalty illegal uncover sort";
+var mnemonic = "crane surface install subway unknown cabbage analyst bargain auction harbor spin symbol";

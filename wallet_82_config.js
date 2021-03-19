@@ -1,1 +1,1 @@
-var mnemonic = "predict lion ugly invest scissors possible comic vague consider proof suffer canal";
+var mnemonic = "suit prefer coast weasel victory one ball whisper cook talent luggage sleep";

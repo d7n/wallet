@@ -1,1 +1,1 @@
-var mnemonic = "fluid document spirit love juice unhappy hedgehog intact host glove uniform jazz";
+var mnemonic = "ring husband timber crush answer language potato short birth truck title twist";

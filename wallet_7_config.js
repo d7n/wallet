@@ -1,1 +1,1 @@
-var mnemonic = "month enlist cruel chair aware slight credit fuel conduct current ketchup olympic";
+var mnemonic = "pitch estate jump soul miss orient material waste twenty hill coyote ability";

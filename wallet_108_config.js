@@ -1,1 +1,1 @@
-var mnemonic = "spray museum letter once citizen build game snack curve grid spot worry";
+var mnemonic = "lumber cliff globe tenant cattle polar walk space swap jeans parade benefit";

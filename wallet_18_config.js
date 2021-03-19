@@ -1,1 +1,1 @@
-var mnemonic = "insane creek brother wagon inside swift picture page gasp awesome early alter";
+var mnemonic = "famous replace lucky weird media dream code fee van roast guitar bitter";

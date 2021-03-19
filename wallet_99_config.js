@@ -1,1 +1,1 @@
-var mnemonic = "skate budget truck lock focus sponsor lyrics nothing type pottery reopen wink";
+var mnemonic = "noble scan witness early frown soft army grain castle fee ankle donor";

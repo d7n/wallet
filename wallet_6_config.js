@@ -1,1 +1,1 @@
-var mnemonic = "grant wise wedding result world hammer drastic movie slim buffalo tooth coin";
+var mnemonic = "marriage blur next beach shield post arena naive gather episode cup favorite";

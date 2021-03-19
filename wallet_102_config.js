@@ -1,1 +1,1 @@
-var mnemonic = "situate away volcano crystal suffer always hover despair opinion start shine select";
+var mnemonic = "upgrade unaware link aisle empty speak valid gasp kiss paper turkey holiday";
