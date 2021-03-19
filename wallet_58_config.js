@@ -1,1 +1,1 @@
-var mnemonic = "talent accident erupt turkey exercise supreme panda example admit explain canal theory";
+var mnemonic = "shaft option confirm later guide marine young harvest kick novel burst cotton";

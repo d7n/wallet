@@ -1,1 +1,1 @@
-var mnemonic = "sorry onion other proud twice hunt goat opinion logic empower model walk";
+var mnemonic = "rigid dove saddle bright collect legal omit eager frog phrase choose pen";

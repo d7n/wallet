@@ -1,1 +1,1 @@
-var mnemonic = "fluid van silly fortune boss mule document round setup rabbit impose ritual";
+var mnemonic = "wait palm token tape ridge coyote fish cry fan oppose skate net";

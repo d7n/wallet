@@ -1,1 +1,1 @@
-var mnemonic = "shop vessel pulse menu swamp retreat cheese hub dynamic ill bounce dress";
+var mnemonic = "frame pulp polar define brass noble cost mind heart stone curve soup";

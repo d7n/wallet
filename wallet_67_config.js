@@ -1,1 +1,1 @@
-var mnemonic = "turn brave child social same rescue kiwi family armor giggle great fork";
+var mnemonic = "stumble slice wave glimpse settle test thing indoor nerve wise problem fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "melody history park agree library clay ostrich bronze broken ghost hazard surge";
+var mnemonic = "output razor spawn tube isolate apart actor business duck achieve detail denial";

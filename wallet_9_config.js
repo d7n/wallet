@@ -1,1 +1,1 @@
-var mnemonic = "mean gesture tuna funny crunch call street addict put wrist answer double";
+var mnemonic = "milk vote bid nuclear fold blast day orient track tragic maze neither";

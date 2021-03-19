@@ -1,1 +1,1 @@
-var mnemonic = "layer tuna unlock pioneer bacon mother exact setup choice danger buffalo earn";
+var mnemonic = "wonder field nice story gorilla youth purchase close auto carbon slab nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "science live yard left spend web cry property voyage wide below predict";
+var mnemonic = "inherit replace company truly scan dream pottery believe heavy sure life roast";

@@ -1,1 +1,1 @@
-var mnemonic = "pool canyon cruise egg radio wing arm robot omit walk faculty purse";
+var mnemonic = "goddess truck install settle satoshi wisdom conduct gap hurry appear verify gap";

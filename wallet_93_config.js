@@ -1,1 +1,1 @@
-var mnemonic = "surface rose victory jacket reward remain pupil pupil must live great frog";
+var mnemonic = "solve someone ankle comfort wheel rose flat negative name accuse atom rule";

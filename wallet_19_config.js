@@ -1,1 +1,1 @@
-var mnemonic = "fire nothing stage exchange region destroy garlic kitchen globe term soft floor";
+var mnemonic = "jar slender green stable busy nerve plug forward false claw throw april";

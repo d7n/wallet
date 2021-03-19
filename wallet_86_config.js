@@ -1,1 +1,1 @@
-var mnemonic = "stumble impose deliver grunt fee evoke oxygen tomorrow suit swim empty man";
+var mnemonic = "primary race tooth trade swap economy ten army blossom hover tool scheme";

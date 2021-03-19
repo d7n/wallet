@@ -1,1 +1,1 @@
-var mnemonic = "avocado lawsuit fluid physical rally furnace useful robust comfort orange sing canyon";
+var mnemonic = "witness jeans story goose junior zebra patrol harsh scorpion dumb gauge jeans";

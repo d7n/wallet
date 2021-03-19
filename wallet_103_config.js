@@ -1,1 +1,1 @@
-var mnemonic = "benefit record replace alone random giggle habit train naive grant soda kid";
+var mnemonic = "wife manage desert exercise venue later alert sniff trust exchange mystery invite";

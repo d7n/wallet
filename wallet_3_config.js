@@ -1,1 +1,1 @@
-var mnemonic = "buddy taste exotic rhythm hero estate enrich shop always egg cheese dream";
+var mnemonic = "master hat donate ankle crucial roast march easily spot general begin silent";

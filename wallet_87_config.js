@@ -1,1 +1,1 @@
-var mnemonic = "horn birth famous hotel rose glove faint media elevator pill slot adapt";
+var mnemonic = "beef early picnic slice siren festival mask trial survey dove diamond outer";

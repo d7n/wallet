@@ -1,1 +1,1 @@
-var mnemonic = "profit garbage issue wealth ask opera such indicate capable east forum joke";
+var mnemonic = "corn spend small company express garlic festival salt fit enter laptop bachelor";

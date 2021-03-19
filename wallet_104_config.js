@@ -1,1 +1,1 @@
-var mnemonic = "valley guard salt tired give steel film retire gun reform start sibling";
+var mnemonic = "century physical depth foil suspect attitude filter bachelor tip media inform canal";

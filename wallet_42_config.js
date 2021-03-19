@@ -1,1 +1,1 @@
-var mnemonic = "oblige gold exotic stage food spirit vault soap pink that salt state";
+var mnemonic = "lamp now grass huge apart similar exhibit chicken perfect hundred magic wonder";

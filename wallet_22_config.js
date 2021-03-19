@@ -1,1 +1,1 @@
-var mnemonic = "flavor small damp horn sausage detail space fuel cabbage unfold shuffle antique";
+var mnemonic = "double mandate height winner meat elbow hen badge want quote century benefit";

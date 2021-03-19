@@ -1,1 +1,1 @@
-var mnemonic = "key ramp unlock denial grass jewel swing outside certain onion scatter mother";
+var mnemonic = "sadness melody today minimum animal struggle ask faith latin fever giraffe seven";

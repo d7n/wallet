@@ -1,1 +1,1 @@
-var mnemonic = "afford jeans wet license dash jewel brain balance raw bike property shadow";
+var mnemonic = "jar episode evidence victory depart join casino material situate common rely vendor";

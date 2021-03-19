@@ -1,1 +1,1 @@
-var mnemonic = "inmate prosper only venture romance heavy urge achieve embrace heavy abstract office";
+var mnemonic = "wine meat course neither host myth review vault evolve better inspire barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "enable beach venture hero oppose tower observe image aim table ritual tomorrow";
+var mnemonic = "settle spend junior liberty stove hungry afraid rich doctor scene move nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown bench trick bright sorry hurry asthma rhythm pledge small advice right";
+var mnemonic = "claw south keen dentist limb key butter toy disorder candy field often";

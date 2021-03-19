@@ -1,1 +1,1 @@
-var mnemonic = "slice treat smoke weekend pass vapor sorry close thing broccoli green life";
+var mnemonic = "canvas machine act name parrot celery right state receive draft theory come";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse must winner tuna borrow ethics quality call option neck much fitness";
+var mnemonic = "chair border eagle convince quarter caught frame grow skull midnight burst double";

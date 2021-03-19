@@ -1,1 +1,1 @@
-var mnemonic = "accuse swear seven spoil border inmate snap boy loyal major still limb";
+var mnemonic = "result sound easily trust mixture avocado candy artist fiscal trap cheese absorb";

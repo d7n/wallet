@@ -1,1 +1,1 @@
-var mnemonic = "volume priority arrive program isolate enrich list army core ship seek parent";
+var mnemonic = "tunnel rookie crucial renew virus kid second aware unaware angle then vacuum";

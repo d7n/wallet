@@ -1,1 +1,1 @@
-var mnemonic = "pottery craft swear index wine view world uncle exile sick own visit";
+var mnemonic = "element satisfy wedding idle industry enter curve awake slim diet diagram tragic";

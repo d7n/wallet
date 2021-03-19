@@ -1,1 +1,1 @@
-var mnemonic = "always bottom pioneer dawn force tunnel embark hire lesson syrup velvet face";
+var mnemonic = "unable pretty excite novel edge someone weasel seat aunt faint street accident";

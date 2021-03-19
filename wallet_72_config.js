@@ -1,1 +1,1 @@
-var mnemonic = "annual dog equip surprise endorse truly shaft fabric jungle basket since bag";
+var mnemonic = "few clutch blade refuse shallow cactus seat diesel oval engine flash decade";

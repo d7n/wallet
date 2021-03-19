@@ -1,1 +1,1 @@
-var mnemonic = "calm unveil toast such guitar walnut favorite armed midnight smooth dice sphere";
+var mnemonic = "harsh pact sweet stadium run rare summer because lake guide pyramid language";

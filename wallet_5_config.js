@@ -1,1 +1,1 @@
-var mnemonic = "chef short trust coast mention erode task sing exotic add victory pumpkin";
+var mnemonic = "december lecture crane cage total leader arena seed game two find switch";

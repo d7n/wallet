@@ -1,1 +1,1 @@
-var mnemonic = "silent math ride vacuum atom eagle dismiss lobster odor train sting taste";
+var mnemonic = "blast quality caution proud vibrant trip grant immune pave castle garbage erupt";

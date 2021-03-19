@@ -1,1 +1,1 @@
-var mnemonic = "leaf strong question frame drill drum collect front runway excess unknown forward";
+var mnemonic = "apart session lawsuit waste benefit machine since spirit ritual ripple link move";

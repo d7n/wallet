@@ -1,1 +1,1 @@
-var mnemonic = "fancy that crazy math orange surprise one delay point legend shock sniff";
+var mnemonic = "issue crumble cloud urge neutral seed stand dawn genuine attack eternal assist";

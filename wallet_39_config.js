@@ -1,1 +1,1 @@
-var mnemonic = "van zoo horror pet waste opera dish language side symbol climb unable";
+var mnemonic = "disease mix wonder exact hero table range august festival art peanut estate";

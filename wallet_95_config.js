@@ -1,1 +1,1 @@
-var mnemonic = "employ teach chapter demise happy admit love chat obey pill end confirm";
+var mnemonic = "fit can day trip story fiber emerge rely night hover size carpet";

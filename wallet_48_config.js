@@ -1,1 +1,1 @@
-var mnemonic = "rapid visual sleep noodle mad delay purity stamp diamond sauce capable motion";
+var mnemonic = "describe web execute dutch settle tomato vague impose unveil soft afraid kind";

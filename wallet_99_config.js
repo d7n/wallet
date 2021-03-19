@@ -1,1 +1,1 @@
-var mnemonic = "globe aisle topic hint garlic flower damp nerve valley because easy rough";
+var mnemonic = "pulse citizen pistol anchor book exclude news critic remind online settle desk";

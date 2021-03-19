@@ -1,1 +1,1 @@
-var mnemonic = "lunar improve hotel monster sell surround tray wrist ecology artwork liberty mushroom";
+var mnemonic = "latin mind actual bounce minor valve exhaust easy time tired deposit valley";

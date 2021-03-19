@@ -1,1 +1,1 @@
-var mnemonic = "crew annual bless banner aware jacket civil chalk odor palm ugly claw";
+var mnemonic = "famous sniff photo turtle rough atom wrist deny demand mass color cram";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness clerk dial acquire head van diet imitate caught ask census save";
+var mnemonic = "hawk focus produce keep figure jealous stand runway address expose dress awkward";

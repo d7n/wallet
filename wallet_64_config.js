@@ -1,1 +1,1 @@
-var mnemonic = "pottery bomb funny crane already wonder barely impose concert seminar play mango";
+var mnemonic = "joy chat lonely news fine bacon metal accuse pigeon volume tongue total";

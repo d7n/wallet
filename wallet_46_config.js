@@ -1,1 +1,1 @@
-var mnemonic = "defense behind cake today end movie lens action carbon tattoo fresh gossip";
+var mnemonic = "gesture kiwi song never genius wagon hollow female vendor judge shop regret";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion license gain roof cover olympic recipe cinnamon kangaroo cargo mansion elegant";
+var mnemonic = "sniff clown hub ethics credit chimney hunt display aerobic solution matrix obtain";

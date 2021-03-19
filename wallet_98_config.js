@@ -1,1 +1,1 @@
-var mnemonic = "response blush category outer brass video fog thought farm chapter dish theory";
+var mnemonic = "day mandate cement junior garlic champion high cotton level crazy poet critic";

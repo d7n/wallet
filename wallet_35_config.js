@@ -1,1 +1,1 @@
-var mnemonic = "marine dynamic lion lens dice alpha dwarf fashion mosquito quit wet defy";
+var mnemonic = "fuel lecture strategy congress scale flat clever toast coach feature project note";

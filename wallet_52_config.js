@@ -1,1 +1,1 @@
-var mnemonic = "brother marble near near useful ceiling mutual illegal recycle math pitch index";
+var mnemonic = "gallery master tell dry guilt front primary illness wealth nominee patient cable";

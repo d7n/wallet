@@ -1,1 +1,1 @@
-var mnemonic = "puzzle quantum skull unlock fish ring chimney spare domain cigar robot friend";
+var mnemonic = "blast drum stick prepare typical damp purse diary thrive idea march property";

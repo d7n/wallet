@@ -1,1 +1,1 @@
-var mnemonic = "fall wall slight gossip scheme immense fatal prosper crowd horn riot system";
+var mnemonic = "often casino food lunch term glance oval student clown because unusual inflict";

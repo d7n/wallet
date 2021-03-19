@@ -1,1 +1,1 @@
-var mnemonic = "actual amateur talk news protect beyond pigeon unique mom august exchange toward";
+var mnemonic = "venture grace elder theme grace force shed harbor firm ladder trend fringe";

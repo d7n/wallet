@@ -1,1 +1,1 @@
-var mnemonic = "abandon admit utility damage climb wine hand skate agree metal among daughter";
+var mnemonic = "focus galaxy nest easily decorate silk inner fog crystal figure battle more";

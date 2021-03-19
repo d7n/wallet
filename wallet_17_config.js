@@ -1,1 +1,1 @@
-var mnemonic = "someone wash wine science audit enemy crucial exile fabric tail remain wine";
+var mnemonic = "float caution security special bridge fresh detail audit spike burger report tail";

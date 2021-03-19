@@ -1,1 +1,1 @@
-var mnemonic = "law sustain crush gasp insect knife envelope foot helmet walnut voice describe";
+var mnemonic = "piece harbor nose into match gravity stone fossil magic collect perfect thumb";

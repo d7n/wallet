@@ -1,1 +1,1 @@
-var mnemonic = "blanket differ panda asthma myth before attitude brisk veteran assume hawk claw";
+var mnemonic = "arch chase twice champion disagree risk foam region plug update joke boat";

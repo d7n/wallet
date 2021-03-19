@@ -1,1 +1,1 @@
-var mnemonic = "logic key rescue wonder clutch father abstract arch output science spider wide";
+var mnemonic = "force sugar dismiss timber similar rural flag tray program wait oval void";

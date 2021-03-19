@@ -1,1 +1,1 @@
-var mnemonic = "snack april please comic second stereo fetch warm middle state orbit approve";
+var mnemonic = "thunder step lake verb property era dial scissors one acid crouch state";

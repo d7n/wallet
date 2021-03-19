@@ -1,1 +1,1 @@
-var mnemonic = "canal walk tree clarify attack success pig right course kind agent affair";
+var mnemonic = "butter rookie trip young pill submit mean brick salon perfect arrow endless";

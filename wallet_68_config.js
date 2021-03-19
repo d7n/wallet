@@ -1,1 +1,1 @@
-var mnemonic = "ceiling stand clutch buffalo thank mixture move various cushion still gravity cluster";
+var mnemonic = "kingdom tree lamp offer good elder inmate scare chalk property tennis letter";

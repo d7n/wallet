@@ -1,1 +1,1 @@
-var mnemonic = "trial peanut power bean laptop weapon vivid element work museum master lion";
+var mnemonic = "hole south swift minute day slide lunar fluid olympic kiss delay subject";

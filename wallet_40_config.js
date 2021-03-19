@@ -1,1 +1,1 @@
-var mnemonic = "favorite slot train loud hello spider half leg small allow spare napkin";
+var mnemonic = "shop vocal path churn reveal entire cactus spirit assist unfair parade vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose soft puzzle magic ten shell close notice year novel wrap walk";
+var mnemonic = "eagle abuse bag cream degree cave wolf page sense priority idle rug";

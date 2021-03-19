@@ -1,1 +1,1 @@
-var mnemonic = "century tonight cancel battle celery room main change debris want front truck";
+var mnemonic = "shallow pair name approve marine journey glad slot best leave banana act";

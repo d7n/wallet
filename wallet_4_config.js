@@ -1,1 +1,1 @@
-var mnemonic = "budget throw soon host bullet reunion fuel kitten dignity wheel village clean";
+var mnemonic = "melody slice almost orchard buzz busy nation pencil disagree hard alert bag";

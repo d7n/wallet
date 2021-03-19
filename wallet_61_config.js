@@ -1,1 +1,1 @@
-var mnemonic = "model possible quick wage local popular token include opera fever clarify trend";
+var mnemonic = "atom surround hollow bench flame proof piece afford delay sure avocado receive";

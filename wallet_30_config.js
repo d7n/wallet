@@ -1,1 +1,1 @@
-var mnemonic = "diamond glass lottery essence degree gentle elite brain then giraffe again stock";
+var mnemonic = "lend sad tortoise coil panda chat always title spirit tool reduce metal";

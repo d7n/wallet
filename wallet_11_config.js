@@ -1,1 +1,1 @@
-var mnemonic = "pizza strategy swarm ensure zoo science toast gather zoo blind race reveal";
+var mnemonic = "canvas pattern print cupboard reunion rifle switch card thumb little feed churn";

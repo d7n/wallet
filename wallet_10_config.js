@@ -1,1 +1,1 @@
-var mnemonic = "expose depend rocket fan issue exchange aware obscure hello vast primary divorce";
+var mnemonic = "health news carry fiscal approve material tag talk limit fish bulb globe";

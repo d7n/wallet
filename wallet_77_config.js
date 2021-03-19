@@ -1,1 +1,1 @@
-var mnemonic = "glimpse pave dune woman select glory acid attend gloom breeze easily liberty";
+var mnemonic = "left patient prison finish ice exclude cushion fan differ where vendor clean";

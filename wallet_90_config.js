@@ -1,1 +1,1 @@
-var mnemonic = "spoon they column benefit easily sunset health crazy sleep intact situate frog";
+var mnemonic = "habit genuine nature easily isolate curtain slow voice rotate wife board farm";

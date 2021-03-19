@@ -1,1 +1,1 @@
-var mnemonic = "donor expire month include embrace leg fortune floor regular soon genuine captain";
+var mnemonic = "enough monster you place hello blossom cake special foot nurse allow consider";

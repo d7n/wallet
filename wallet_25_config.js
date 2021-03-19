@@ -1,1 +1,1 @@
-var mnemonic = "orphan embark general garbage gain limb begin phone view business jungle argue";
+var mnemonic = "elbow biology disease soda verify eyebrow stone abuse deny match goat thrive";

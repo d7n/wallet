@@ -1,1 +1,1 @@
-var mnemonic = "duty seminar cute weapon video fat void squeeze pass glare merge endorse";
+var mnemonic = "asset voice east escape live rocket desert devote simple replace off helmet";

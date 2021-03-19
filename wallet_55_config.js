@@ -1,1 +1,1 @@
-var mnemonic = "guide forget fossil vicious deer enter reason album tree danger area industry";
+var mnemonic = "vehicle slight dawn cycle gravity coral engage differ behind bag hour moon";

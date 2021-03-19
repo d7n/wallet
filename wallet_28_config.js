@@ -1,1 +1,1 @@
-var mnemonic = "ocean injury system speak wet control furnace blame snow gossip discover sick";
+var mnemonic = "appear seek curtain jeans park dream rifle quality owner useless century what";

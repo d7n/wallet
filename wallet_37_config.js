@@ -1,1 +1,1 @@
-var mnemonic = "snake party chuckle express luxury humble cat choice goat orange odor bounce";
+var mnemonic = "skin code indoor sphere include hover spray best sure stone report brisk";

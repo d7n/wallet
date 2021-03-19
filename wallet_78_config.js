@@ -1,1 +1,1 @@
-var mnemonic = "group vital cruise zone again call turtle gauge orient boy fine grid";
+var mnemonic = "equal search trophy prefer setup toddler what cook lamp agent range treat";

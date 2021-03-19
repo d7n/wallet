@@ -1,1 +1,1 @@
-var mnemonic = "canal soap pulp radar rib nurse member wrap wagon tide garden razor";
+var mnemonic = "scissors type surge torch shaft slow will finger swarm toe isolate define";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie message side pride fence favorite couch diagram grace palace father oil";
+var mnemonic = "ordinary embody sadness fiber afraid pattern blush bridge sea life erosion grain";

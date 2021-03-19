@@ -1,1 +1,1 @@
-var mnemonic = "spell sheriff monkey girl true butter analyst youth night humble used execute";
+var mnemonic = "tell endless narrow soon ivory eagle air remember impose shield car able";

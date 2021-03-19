@@ -1,1 +1,1 @@
-var mnemonic = "cook pet black permit vendor battle march smart leader evoke inherit remain";
+var mnemonic = "balance between enlist since excite leaf harbor elephant soccer chalk jealous brave";

@@ -1,1 +1,1 @@
-var mnemonic = "boost tag casual pill swing hybrid toilet one clutch connect project derive";
+var mnemonic = "pass monitor cricket love water crew upgrade unaware void reason negative farm";

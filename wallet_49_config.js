@@ -1,1 +1,1 @@
-var mnemonic = "flee blossom rookie capable then all mean weasel renew exhibit gain also";
+var mnemonic = "equip talent auto elevator impose occur ramp school jealous loyal garage improve";

@@ -1,1 +1,1 @@
-var mnemonic = "across scale mouse design plastic win resemble achieve dash stumble explain spider";
+var mnemonic = "large hip train reform father found slow short ring iron reason park";
