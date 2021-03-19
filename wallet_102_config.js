@@ -1,1 +1,1 @@
-var mnemonic = "wrestle orchard rebuild avocado welcome series oblige puzzle enough raven record stuff";
+var mnemonic = "sleep hobby plug stem report end sunny help sausage faculty language add";

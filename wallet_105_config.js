@@ -1,1 +1,1 @@
-var mnemonic = "sure sea rocket bacon arena walnut bachelor utility dial present warm endless";
+var mnemonic = "panther drink sunset venture virtual lonely index trim radio else rapid buzz";

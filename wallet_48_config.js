@@ -1,1 +1,1 @@
-var mnemonic = "solid language patient option bring crash track unhappy knee convince sing merge";
+var mnemonic = "rate police curtain spread scale trial wrist hint ranch tooth gift ticket";

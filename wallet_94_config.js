@@ -1,1 +1,1 @@
-var mnemonic = "camp desk rather silver negative broken jump kangaroo demand width enable throw";
+var mnemonic = "stick jaguar poem shadow shift list burst recycle useless shell hill stem";

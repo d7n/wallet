@@ -1,1 +1,1 @@
-var mnemonic = "squirrel cool industry dawn elevator expose rabbit ten thing valley faint lemon";
+var mnemonic = "rapid toward drift furnace length protect chicken census town nose manage sight";

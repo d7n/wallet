@@ -1,1 +1,1 @@
-var mnemonic = "aunt essay toe modify limb owner action hidden winter radio give know";
+var mnemonic = "armor comfort flock remove auction leisure music when coast what rural mix";

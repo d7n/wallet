@@ -1,1 +1,1 @@
-var mnemonic = "strategy claim capable force stadium fence trophy column acquire club ask rude";
+var mnemonic = "walk hidden wire humor globe differ local bonus foil bullet arch memory";

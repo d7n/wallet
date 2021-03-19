@@ -1,1 +1,1 @@
-var mnemonic = "fragile salon lottery squeeze enjoy have wide jelly front ice exist vault";
+var mnemonic = "release owner risk filter plate neither sure wage industry video edge accident";

@@ -1,1 +1,1 @@
-var mnemonic = "build swap fever spell lawn hurdle oven fabric brother rude all before";
+var mnemonic = "door horror mandate toast warm moral desk lucky middle original furnace false";

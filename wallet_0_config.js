@@ -1,1 +1,1 @@
-var mnemonic = "oblige rebel opinion other merge three copy clip field van potato bulb";
+var mnemonic = "attract version fever above trash proud board faculty immune permit match opera";

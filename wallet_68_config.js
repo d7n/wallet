@@ -1,1 +1,1 @@
-var mnemonic = "side dinner below hotel chaos elbow staff arch very risk symptom travel";
+var mnemonic = "memory disease flag siren tiger change energy raw federal friend foam chronic";

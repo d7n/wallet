@@ -1,1 +1,1 @@
-var mnemonic = "away picnic supreme remove curtain dinner machine disorder rose kid else travel";
+var mnemonic = "hello illegal fish yard nice wall road tomorrow symptom muffin garden gadget";

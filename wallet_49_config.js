@@ -1,1 +1,1 @@
-var mnemonic = "mass topple witness shiver width report current focus stable hello ginger shell";
+var mnemonic = "enough allow away churn athlete chunk month flat another repair cry unaware";

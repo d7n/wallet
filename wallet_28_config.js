@@ -1,1 +1,1 @@
-var mnemonic = "foil collect mistake laugh barely dose easily soft awake miss anger sponsor";
+var mnemonic = "vast swift brown brass fortune describe arch super evoke frozen moment like";

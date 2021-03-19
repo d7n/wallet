@@ -1,1 +1,1 @@
-var mnemonic = "square gospel brother bind discover select lab clerk culture gather memory route";
+var mnemonic = "credit bottom chase chef romance athlete sphere blossom extra tuition area sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "loud topple length learn supply drama clap elephant task ethics window hurt";
+var mnemonic = "milk eyebrow tray robust identify spin narrow stock field hotel sight cave";

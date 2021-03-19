@@ -1,1 +1,1 @@
-var mnemonic = "mom supreme myself shoot science cargo biology glide include people cactus galaxy";
+var mnemonic = "squeeze list credit matrix suspect what target dry neutral trash borrow jungle";

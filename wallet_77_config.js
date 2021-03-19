@@ -1,1 +1,1 @@
-var mnemonic = "can risk squeeze cattle provide right retire seek brown plastic able coast";
+var mnemonic = "rapid snake clown target multiply news vivid flat chimney galaxy culture echo";

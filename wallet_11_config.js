@@ -1,1 +1,1 @@
-var mnemonic = "private unveil term rhythm toe reward little noise smart venture feature leader";
+var mnemonic = "forward collect snake scorpion achieve lonely domain paper seek stage draw voice";

@@ -1,1 +1,1 @@
-var mnemonic = "security embody wrong harsh invest devote gate abuse unveil boss garbage second";
+var mnemonic = "used brave review forward student mesh unit seminar finger silk swing capable";

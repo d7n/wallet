@@ -1,1 +1,1 @@
-var mnemonic = "athlete struggle own social evil sign bench laundry entire spawn crash capital";
+var mnemonic = "clarify urge wonder roast half want select noise age motion veteran omit";

@@ -1,1 +1,1 @@
-var mnemonic = "discover fan tonight vendor equip giraffe thing camera bone obtain defense buffalo";
+var mnemonic = "furnace problem spawn involve symptom body globe metal orphan music expand cannon";

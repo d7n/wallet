@@ -1,1 +1,1 @@
-var mnemonic = "fortune dress lesson lock heavy language shiver shove wine mixture season bring";
+var mnemonic = "width prize color plastic sock chapter bless frame bar life frog tone";

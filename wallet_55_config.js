@@ -1,1 +1,1 @@
-var mnemonic = "comic pulp imitate fox coast absurd talk raccoon noise quantum congress food";
+var mnemonic = "decide hold resemble plastic swing timber spike anger curve person liquid safe";

@@ -1,1 +1,1 @@
-var mnemonic = "legend ugly lady try swamp creek hurt nasty tooth kidney defy judge";
+var mnemonic = "box chunk explain wave rail asset obvious slight uniform fossil upset chronic";

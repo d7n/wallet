@@ -1,1 +1,1 @@
-var mnemonic = "they bleak salmon avoid shock federal order smoke pilot beyond beyond beef";
+var mnemonic = "orphan rapid bike forest mail trophy cupboard salon offer tornado twelve chair";

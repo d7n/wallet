@@ -1,1 +1,1 @@
-var mnemonic = "kitten chest attitude hotel reunion puzzle rice code young disagree original inner";
+var mnemonic = "manage capital census wheel need arrive cushion neck solar brick impulse vanish";

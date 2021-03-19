@@ -1,1 +1,1 @@
-var mnemonic = "lecture hello finger jacket faculty first round leave borrow aerobic useless motion";
+var mnemonic = "property deer lizard space crane topple picnic verb gold achieve panel skull";

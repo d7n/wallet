@@ -1,1 +1,1 @@
-var mnemonic = "yellow govern evoke universe ethics then vicious hobby tobacco resemble wealth matter";
+var mnemonic = "gallery roast grant clinic cable busy order stomach eager blur lake tunnel";

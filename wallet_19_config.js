@@ -1,1 +1,1 @@
-var mnemonic = "awful blush elite circle mosquito word twenty enough brother north amount sick";
+var mnemonic = "ugly derive snack prefer gentle gorilla news crane vote submit ill illegal";

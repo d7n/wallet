@@ -1,1 +1,1 @@
-var mnemonic = "cargo equip blind cloud famous crawl verb donor disease select crack leave";
+var mnemonic = "robot blur jealous cricket salon adapt gallery merge inner soda easy angle";

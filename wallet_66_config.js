@@ -1,1 +1,1 @@
-var mnemonic = "essay hold canyon ostrich wedding seat welcome noble consider coral august winner";
+var mnemonic = "fiscal equal clutch picture spider reopen blush cereal bean romance measure quit";

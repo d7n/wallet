@@ -1,1 +1,1 @@
-var mnemonic = "surprise chase man crazy door topic margin outer reveal dawn tobacco vocal";
+var mnemonic = "draw woman sausage deer audit member solar universe distance hero grape liquid";

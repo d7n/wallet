@@ -1,1 +1,1 @@
-var mnemonic = "surround slab exotic spice bird cream chase uncle debris neglect tuna rural";
+var mnemonic = "alone actual profit mesh focus payment lunar solution try advance hammer argue";

@@ -1,1 +1,1 @@
-var mnemonic = "receive method tumble diesel cute avoid return resist practice mystery middle business";
+var mnemonic = "orchard debris history east dinner hole buffalo man doll elbow crumble ordinary";

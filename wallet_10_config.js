@@ -1,1 +1,1 @@
-var mnemonic = "load bulb blood lucky peasant tunnel snow iron slender shove empower power";
+var mnemonic = "barely program sunset there mistake junk coil ring thunder lemon trip friend";

@@ -1,1 +1,1 @@
-var mnemonic = "hen vapor raccoon usual panda paper firm swift sort true scan valley";
+var mnemonic = "trim topple clean alarm survey assume hundred immense language useless inmate helmet";

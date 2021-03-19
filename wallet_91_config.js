@@ -1,1 +1,1 @@
-var mnemonic = "slow essay morning tank occur drift truly adapt rebuild mushroom online enforce";
+var mnemonic = "zero doll sibling impose frozen film script wagon abuse fashion mule valley";

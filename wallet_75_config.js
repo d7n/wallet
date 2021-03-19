@@ -1,1 +1,1 @@
-var mnemonic = "replace deer ridge never laptop food school phone loyal slot athlete gauge";
+var mnemonic = "midnight couch foam someone hello fun despair imitate clown shaft poem patient";

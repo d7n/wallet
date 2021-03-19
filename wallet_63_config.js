@@ -1,1 +1,1 @@
-var mnemonic = "mixed wish blanket theory loan clog captain staff prepare gaze security race";
+var mnemonic = "scissors solar shift either under soccer witness hurt surface dune version region";

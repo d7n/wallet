@@ -1,1 +1,1 @@
-var mnemonic = "rather size charge assault avoid weird success client street industry speed nerve";
+var mnemonic = "champion donkey butter decrease breeze thank together purchase border trophy vote display";

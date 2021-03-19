@@ -1,1 +1,1 @@
-var mnemonic = "jacket pill frame arch egg labor hire flame spread rabbit famous name";
+var mnemonic = "square basic monster employ exit wink sketch hope desk prepare calm tape";

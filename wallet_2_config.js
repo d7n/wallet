@@ -1,1 +1,1 @@
-var mnemonic = "panda right inhale slide place judge define quiz debris blanket fan actress";
+var mnemonic = "train animal swim green board problem walk meat blossom harbor share struggle";

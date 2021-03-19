@@ -1,1 +1,1 @@
-var mnemonic = "clock toss gasp doll purchase amused visual grow oblige boss diet bone";
+var mnemonic = "plunge dilemma grab sound address hole blouse bridge fabric release squeeze toast";

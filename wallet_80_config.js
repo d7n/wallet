@@ -1,1 +1,1 @@
-var mnemonic = "live before dutch square comic stable minimum that better smoke grace tattoo";
+var mnemonic = "city myth rose cattle sunset vibrant ivory aunt connect cancel sweet gaze";

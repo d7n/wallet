@@ -1,1 +1,1 @@
-var mnemonic = "idea nut equal into quit woman ski decrease anger disease cousin notable";
+var mnemonic = "quantum desert innocent project blur pig correct ugly cereal enter task mix";

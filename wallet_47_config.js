@@ -1,1 +1,1 @@
-var mnemonic = "flower oppose mansion teach window peace front heavy meadow blind multiply father";
+var mnemonic = "room angle museum swarm possible coil also cage plunge deal pen already";

@@ -1,1 +1,1 @@
-var mnemonic = "grass super infant sauce outer route luggage tip youth puzzle sense floor";
+var mnemonic = "kidney choice network during struggle unfold hood fit notice certain hollow member";

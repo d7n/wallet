@@ -1,1 +1,1 @@
-var mnemonic = "trap omit sleep thank cruise vote ecology swift island wrestle charge pencil";
+var mnemonic = "olive flower physical false light juice gym cruel raven shop ready order";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf moon fire tortoise burden liquid stove anchor game adapt speak ritual";
+var mnemonic = "urge ecology boil lava erode project quantum apple biology program calm kingdom";

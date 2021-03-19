@@ -1,1 +1,1 @@
-var mnemonic = "horn exact typical medal lamp drum country atom tenant evoke science scorpion";
+var mnemonic = "smooth express bitter blanket random spread crumble lunar soap extend fun couch";

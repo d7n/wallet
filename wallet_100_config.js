@@ -1,1 +1,1 @@
-var mnemonic = "rebel iron knee scale usual memory dismiss spoon update boost fade skirt";
+var mnemonic = "meadow mystery grab income athlete leader plunge swarm crystal order crawl unfair";

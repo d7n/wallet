@@ -1,1 +1,1 @@
-var mnemonic = "home worth truck erosion hello race electric oil fish dumb clean radio";
+var mnemonic = "shallow knock carbon photo barrel fall swear win gallery artefact quick trim";

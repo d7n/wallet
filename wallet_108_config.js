@@ -1,1 +1,1 @@
-var mnemonic = "define reunion reflect consider enroll neither happy soccer bullet quit cigar other";
+var mnemonic = "chaos guard anchor hawk birth trade soccer spare parrot grow prize vocal";

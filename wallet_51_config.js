@@ -1,1 +1,1 @@
-var mnemonic = "curtain claw pool slice derive video autumn crush seven dragon magnet oval";
+var mnemonic = "rebel leaf vanish miss fire nominee utility cargo inquiry spend dune model";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate time extra olympic flash economy lab zero basket veteran open cube";
+var mnemonic = "kitten error stamp pluck cherry sister satisfy pioneer decade other assist latin";

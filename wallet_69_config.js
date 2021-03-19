@@ -1,1 +1,1 @@
-var mnemonic = "exact attitude labor sock engine saddle reduce ridge boring brand water test";
+var mnemonic = "arrange enlist engine glory empower ginger ostrich hockey still mother pigeon memory";

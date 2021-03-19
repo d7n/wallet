@@ -1,1 +1,1 @@
-var mnemonic = "magic toilet desert indicate dumb remove ensure pulse sand toe eight jungle";
+var mnemonic = "jazz symbol tuition craft drill juice giraffe chief movie control voice escape";

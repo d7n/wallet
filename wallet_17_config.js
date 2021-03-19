@@ -1,1 +1,1 @@
-var mnemonic = "token where file vintage brick reward grow double topic lens vacant lizard";
+var mnemonic = "pet various please medal heavy vapor discover frost metal sort excite hotel";

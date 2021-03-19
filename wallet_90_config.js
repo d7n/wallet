@@ -1,1 +1,1 @@
-var mnemonic = "wash minimum there protect flag visa oil struggle income height vehicle wide";
+var mnemonic = "visa coach mixed install talk sister lift hidden consider salon uncover wait";

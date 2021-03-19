@@ -1,1 +1,1 @@
-var mnemonic = "sister wash grunt odor cactus service deal improve drill drip express post";
+var mnemonic = "safe tool file jewel kick problem news elite proud inspire crane luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "moment device horn convince van defense top image air crystal sadness rug";
+var mnemonic = "hour road because eye blast okay organ begin token two orphan acquire";

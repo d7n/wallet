@@ -1,1 +1,1 @@
-var mnemonic = "bid myth under cram erupt twice ritual flight fiber badge output expire";
+var mnemonic = "shy nest clutch piano candy pig pudding car exit unfair jazz advance";

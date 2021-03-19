@@ -1,1 +1,1 @@
-var mnemonic = "head disorder image law session moment aim fabric candy aerobic quick state";
+var mnemonic = "asset unable unusual current focus umbrella brave fish exact demise rude always";

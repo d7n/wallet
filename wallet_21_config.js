@@ -1,1 +1,1 @@
-var mnemonic = "base love boss rack army patch tomato seminar army spring pill feel";
+var mnemonic = "appear ring blossom inhale day achieve close family sudden yellow industry awful";

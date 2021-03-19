@@ -1,1 +1,1 @@
-var mnemonic = "space foot bracket kiss text estate dust toddler kingdom desert also brand";
+var mnemonic = "involve busy cream universe luxury follow paddle loan sunny weasel crime mirror";

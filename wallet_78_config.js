@@ -1,1 +1,1 @@
-var mnemonic = "announce glide awful cruel half love stomach hole ride prepare sort eye";
+var mnemonic = "winner hobby cloud patient walk human lyrics angry scheme employ devote exile";

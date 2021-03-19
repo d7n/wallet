@@ -1,1 +1,1 @@
-var mnemonic = "clump state cup flash spot shoulder slim scene barrel pink flip mixture";
+var mnemonic = "prevent brisk food inspire rifle prison wage child category into term mansion";

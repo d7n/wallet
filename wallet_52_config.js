@@ -1,1 +1,1 @@
-var mnemonic = "this flush embrace convince rubber daring delay you pave only stuff runway";
+var mnemonic = "distance note decide mixed rather envelope chase coil fury physical turkey popular";

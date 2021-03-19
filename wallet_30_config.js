@@ -1,1 +1,1 @@
-var mnemonic = "base dinosaur brick shaft track canvas board crunch gain empty chat share";
+var mnemonic = "electric antenna eye output grow six country defy olive giraffe coil weather";

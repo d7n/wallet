@@ -1,1 +1,1 @@
-var mnemonic = "clay carry meadow primary steel dinosaur road muscle cave ridge way amused";
+var mnemonic = "baby over deny hobby woman combine amount foil door rack clinic push";

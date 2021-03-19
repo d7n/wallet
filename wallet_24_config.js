@@ -1,1 +1,1 @@
-var mnemonic = "virtual black minimum butter ranch gasp swarm topic fix vanish rice name";
+var mnemonic = "liar midnight ivory unfold guitar bacon outside give bottom remove peace conduct";

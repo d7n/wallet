@@ -1,1 +1,1 @@
-var mnemonic = "basket napkin flee ladder soccer tip fire knock venue clever area crew";
+var mnemonic = "bulb company fog speed journey wolf ghost spread notable tunnel suggest subject";

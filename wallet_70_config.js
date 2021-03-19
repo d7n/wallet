@@ -1,1 +1,1 @@
-var mnemonic = "advice vacant ability daughter spice exile prevent yellow proud cheap oil fiscal";
+var mnemonic = "soccer topic make goddess occur deliver emerge predict repeat setup scheme divert";

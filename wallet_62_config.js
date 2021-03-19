@@ -1,1 +1,1 @@
-var mnemonic = "donor fury shed couple elevator calm jump kid animal citizen ordinary job";
+var mnemonic = "fluid fine october shrug cousin embody cattle oyster enjoy better sea black";

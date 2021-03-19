@@ -1,1 +1,1 @@
-var mnemonic = "dice clock misery artwork stay pen bench mix inhale truly eyebrow swap";
+var mnemonic = "tree prize blouse crush drum pause upper rough salt give rate chalk";

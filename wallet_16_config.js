@@ -1,1 +1,1 @@
-var mnemonic = "screen shy furnace acoustic below analyst symbol remove warm tide risk code";
+var mnemonic = "final toast valid drive police crash erode squeeze member intact focus bullet";

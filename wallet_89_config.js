@@ -1,1 +1,1 @@
-var mnemonic = "dutch decline similar path zero paper hurt bid eight menu scale pool";
+var mnemonic = "awake solid odor sadness endorse artist sunny extra engage fiscal winter visa";

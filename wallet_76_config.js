@@ -1,1 +1,1 @@
-var mnemonic = "casual afraid vacant slow impact celery feed pumpkin cement extend educate tube";
+var mnemonic = "raven anxiety else pepper expand urge river join transfer hammer chief system";

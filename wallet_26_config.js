@@ -1,1 +1,1 @@
-var mnemonic = "choose office sort amazing maximum awful wool asthma fossil clog split version";
+var mnemonic = "eye deny dignity cruel oxygen arrow skate belt ivory rail fall torch";

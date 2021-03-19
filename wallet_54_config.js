@@ -1,1 +1,1 @@
-var mnemonic = "scorpion absorb valley veteran melody forward spoon worth oblige unique slot energy";
+var mnemonic = "home among attend symptom label wasp session sound fiction bar rebuild fitness";

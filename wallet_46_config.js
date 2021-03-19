@@ -1,1 +1,1 @@
-var mnemonic = "render copy noise afford holiday tube enter used slam mimic mandate want";
+var mnemonic = "try change floor wall tumble tongue frozen accident lunch crack aware shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "defy license slice sense false tilt repair upper pilot verify plug female";
+var mnemonic = "garment glimpse axis vendor tonight ribbon mixed near cover hair six goose";

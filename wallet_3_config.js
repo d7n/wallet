@@ -1,1 +1,1 @@
-var mnemonic = "boost blind food witness tilt gossip same tray palm speak quality liquid";
+var mnemonic = "roast lion price adult outdoor south liquid bulk often bundle art relax";

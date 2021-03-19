@@ -1,1 +1,1 @@
-var mnemonic = "bachelor click detail polar toddler erupt involve federal boring maximum surge execute";
+var mnemonic = "equal undo auction car impact wrist patch brand blur shuffle hockey size";

@@ -1,1 +1,1 @@
-var mnemonic = "group ritual glimpse tattoo style select slot leader tree shoe split jacket";
+var mnemonic = "guard borrow minor boss prize flight physical chapter earth citizen scale observe";

@@ -1,1 +1,1 @@
-var mnemonic = "enact away cabin fine double another mobile skin rather magic random asset";
+var mnemonic = "supreme dice vacuum hero joke awful timber october item normal bargain double";

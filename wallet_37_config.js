@@ -1,1 +1,1 @@
-var mnemonic = "fancy crew moon echo negative prepare fury crime brass impose album kangaroo";
+var mnemonic = "saddle hub lunch north frozen have garment tell mouse wine join denial";

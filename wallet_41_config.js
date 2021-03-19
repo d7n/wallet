@@ -1,1 +1,1 @@
-var mnemonic = "vault drop feel noble pattern appear night alone print nation pool antenna";
+var mnemonic = "anchor script boil float mutual measure parent arm photo exhaust connect dizzy";
