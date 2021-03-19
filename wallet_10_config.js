@@ -1,1 +1,1 @@
-var mnemonic = "coach doctor web later school purpose deer improve link license turtle cupboard";
+var mnemonic = "load bulb blood lucky peasant tunnel snow iron slender shove empower power";

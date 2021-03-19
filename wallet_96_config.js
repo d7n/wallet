@@ -1,1 +1,1 @@
-var mnemonic = "clip risk busy wolf crush abandon field author bind mule quote cage";
+var mnemonic = "moment device horn convince van defense top image air crystal sadness rug";

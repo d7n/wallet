@@ -1,1 +1,1 @@
-var mnemonic = "garment guitar moral fit sting better world exact rail screen merge second";
+var mnemonic = "grass super infant sauce outer route luggage tip youth puzzle sense floor";

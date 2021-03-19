@@ -1,1 +1,1 @@
-var mnemonic = "make fly number recipe lawsuit planet butter enrich scare topic local blossom";
+var mnemonic = "can risk squeeze cattle provide right retire seek brown plastic able coast";

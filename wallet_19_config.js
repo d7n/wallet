@@ -1,1 +1,1 @@
-var mnemonic = "carry race rough silly toilet obscure reopen maple profit sadness ozone release";
+var mnemonic = "awful blush elite circle mosquito word twenty enough brother north amount sick";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon fee thumb shrimp cover pulse insane always general river thunder morning";
+var mnemonic = "dutch decline similar path zero paper hurt bid eight menu scale pool";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage make brain garage patch taste stone soap buyer you anxiety zone";
+var mnemonic = "curtain claw pool slice derive video autumn crush seven dragon magnet oval";

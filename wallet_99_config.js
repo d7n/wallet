@@ -1,1 +1,1 @@
-var mnemonic = "lens process outer seat wagon strike front journey duck better panda unlock";
+var mnemonic = "poverty crowd congress razor hurry shrimp exchange during lecture ceiling celery host";

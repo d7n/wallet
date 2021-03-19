@@ -1,1 +1,1 @@
-var mnemonic = "awake grow picnic eager faculty demise claim father shed milk noble destroy";
+var mnemonic = "sister wash grunt odor cactus service deal improve drill drip express post";

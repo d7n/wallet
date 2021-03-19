@@ -1,1 +1,1 @@
-var mnemonic = "labor utility task reduce wise deliver decrease miracle situate foster liar similar";
+var mnemonic = "leaf moon fire tortoise burden liquid stove anchor game adapt speak ritual";

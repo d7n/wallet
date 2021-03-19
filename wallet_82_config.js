@@ -1,1 +1,1 @@
-var mnemonic = "season slight group final inquiry advice clean ritual verb weird fever soft";
+var mnemonic = "surprise chase man crazy door topic margin outer reveal dawn tobacco vocal";

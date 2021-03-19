@@ -1,1 +1,1 @@
-var mnemonic = "bulk want crucial alcohol poem upon recipe quote appear dash room proud";
+var mnemonic = "space foot bracket kiss text estate dust toddler kingdom desert also brand";

@@ -1,1 +1,1 @@
-var mnemonic = "kit boat adult arctic taxi few knock alert frozen debate pause change";
+var mnemonic = "inmate time extra olympic flash economy lab zero basket veteran open cube";

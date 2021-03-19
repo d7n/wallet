@@ -1,1 +1,1 @@
-var mnemonic = "glance host fox essay alien always shy original rare proof library clap";
+var mnemonic = "boost blind food witness tilt gossip same tray palm speak quality liquid";

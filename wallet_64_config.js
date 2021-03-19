@@ -1,1 +1,1 @@
-var mnemonic = "feature expect love bid glass cry draft cradle example skill drama level";
+var mnemonic = "yellow govern evoke universe ethics then vicious hobby tobacco resemble wealth matter";

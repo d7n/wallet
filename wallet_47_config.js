@@ -1,1 +1,1 @@
-var mnemonic = "disorder one source lock climb erosion grow morning clean genius strike brief";
+var mnemonic = "flower oppose mansion teach window peace front heavy meadow blind multiply father";

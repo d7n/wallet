@@ -1,1 +1,1 @@
-var mnemonic = "scheme city catalog arrive fatal float gauge stereo oven odor february lumber";
+var mnemonic = "discover fan tonight vendor equip giraffe thing camera bone obtain defense buffalo";

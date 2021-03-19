@@ -1,1 +1,1 @@
-var mnemonic = "coil divorce ripple huge shove tree vote ball piece mask reward couple";
+var mnemonic = "cargo equip blind cloud famous crawl verb donor disease select crack leave";

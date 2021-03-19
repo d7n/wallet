@@ -1,1 +1,1 @@
-var mnemonic = "blind report develop evil cage half father edge casino gesture inch web";
+var mnemonic = "kitten chest attitude hotel reunion puzzle rice code young disagree original inner";

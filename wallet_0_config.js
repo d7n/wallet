@@ -1,1 +1,1 @@
-var mnemonic = "outside slab light pledge auction switch luggage marriage dentist bridge swap slim";
+var mnemonic = "oblige rebel opinion other merge three copy clip field van potato bulb";

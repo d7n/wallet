@@ -1,1 +1,1 @@
-var mnemonic = "section quick credit push ocean return unusual angry invite cube honey chuckle";
+var mnemonic = "enact away cabin fine double another mobile skin rather magic random asset";

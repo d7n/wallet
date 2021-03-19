@@ -1,1 +1,1 @@
-var mnemonic = "mail day wrap unveil mirror pill enter absorb omit denial defy visit";
+var mnemonic = "jacket pill frame arch egg labor hire flame spread rabbit famous name";

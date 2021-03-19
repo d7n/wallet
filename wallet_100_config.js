@@ -1,1 +1,1 @@
-var mnemonic = "tube ten measure endless wrestle zoo lecture palm speed long option pen";
+var mnemonic = "rebel iron knee scale usual memory dismiss spoon update boost fade skirt";

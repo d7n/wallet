@@ -1,1 +1,1 @@
-var mnemonic = "danger bottom negative ugly gauge east gloom elevator camp lonely gap dinosaur";
+var mnemonic = "advice vacant ability daughter spice exile prevent yellow proud cheap oil fiscal";

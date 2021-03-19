@@ -1,1 +1,1 @@
-var mnemonic = "seat slow copper casual mango slender scale vital inspire angry utility frost";
+var mnemonic = "sure sea rocket bacon arena walnut bachelor utility dial present warm endless";

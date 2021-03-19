@@ -1,1 +1,1 @@
-var mnemonic = "aisle salon cycle stone fresh plate kind convince sell cycle decorate industry";
+var mnemonic = "base love boss rack army patch tomato seminar army spring pill feel";

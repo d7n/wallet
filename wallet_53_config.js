@@ -1,1 +1,1 @@
-var mnemonic = "soft network kiwi grape beach laugh amount pelican clown print addict find";
+var mnemonic = "security embody wrong harsh invest devote gate abuse unveil boss garbage second";

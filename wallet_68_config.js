@@ -1,1 +1,1 @@
-var mnemonic = "sick cat dry toe spawn day planet curve coil dumb sleep exercise";
+var mnemonic = "side dinner below hotel chaos elbow staff arch very risk symptom travel";

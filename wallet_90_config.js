@@ -1,1 +1,1 @@
-var mnemonic = "canvas strategy gift journey smart panda marriage warm school pole drum planet";
+var mnemonic = "wash minimum there protect flag visa oil struggle income height vehicle wide";

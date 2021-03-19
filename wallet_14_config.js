@@ -1,1 +1,1 @@
-var mnemonic = "riot tray crystal adult rare rocket chimney ill share base pen advice";
+var mnemonic = "build swap fever spell lawn hurdle oven fabric brother rude all before";

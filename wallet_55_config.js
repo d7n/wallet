@@ -1,1 +1,1 @@
-var mnemonic = "shuffle upon kit visual echo sibling nasty vacuum father weekend negative knee";
+var mnemonic = "comic pulp imitate fox coast absurd talk raccoon noise quantum congress food";

@@ -1,1 +1,1 @@
-var mnemonic = "garment adjust side kangaroo pigeon muscle damage call eagle crack ability garlic";
+var mnemonic = "aunt essay toe modify limb owner action hidden winter radio give know";

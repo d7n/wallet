@@ -1,1 +1,1 @@
-var mnemonic = "clown defy worry split core science unfair team profit pistol champion credit";
+var mnemonic = "close kick thrive couch sudden issue work sun comfort cause novel angry";

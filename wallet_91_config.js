@@ -1,1 +1,1 @@
-var mnemonic = "captain cake rude often height crop because gospel gallery appear bubble acquire";
+var mnemonic = "slow essay morning tank occur drift truly adapt rebuild mushroom online enforce";

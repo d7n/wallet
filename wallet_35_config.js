@@ -1,1 +1,1 @@
-var mnemonic = "talk oil carpet vanish hood critic entry media flower issue calm width";
+var mnemonic = "receive method tumble diesel cute avoid return resist practice mystery middle business";

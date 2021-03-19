@@ -1,1 +1,1 @@
-var mnemonic = "runway soul decrease blade soup patch kid mule volcano input stock verb";
+var mnemonic = "rural huge trigger table wagon cabin amateur vessel clog arch critic canal";

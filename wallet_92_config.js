@@ -1,1 +1,1 @@
-var mnemonic = "client tumble dad artist then candy swap truly library ceiling million express";
+var mnemonic = "indoor afford board salad strategy ring pizza mixed audit arctic urban happy";

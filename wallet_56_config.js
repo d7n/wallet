@@ -1,1 +1,1 @@
-var mnemonic = "memory expire pyramid lab atom immense junk boring idea pony clap loyal";
+var mnemonic = "clump state cup flash spot shoulder slim scene barrel pink flip mixture";

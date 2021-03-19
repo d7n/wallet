@@ -1,1 +1,1 @@
-var mnemonic = "child sugar cherry cross portion crawl patch edit whisper dash liar aisle";
+var mnemonic = "horn exact typical medal lamp drum country atom tenant evoke science scorpion";

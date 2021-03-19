@@ -1,1 +1,1 @@
-var mnemonic = "unknown social lyrics leisure dust allow venture scissors idea top table off";
+var mnemonic = "casual afraid vacant slow impact celery feed pumpkin cement extend educate tube";

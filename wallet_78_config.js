@@ -1,1 +1,1 @@
-var mnemonic = "enable together when trash please maid distance window cargo visa lecture pond";
+var mnemonic = "announce glide awful cruel half love stomach hole ride prepare sort eye";

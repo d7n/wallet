@@ -1,1 +1,1 @@
-var mnemonic = "seek fantasy gun define clown picnic dog extra later ice health render";
+var mnemonic = "group ritual glimpse tattoo style select slot leader tree shoe split jacket";

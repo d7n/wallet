@@ -1,1 +1,1 @@
-var mnemonic = "purse retire endorse mercy wait scan process crystal giant employ vibrant step";
+var mnemonic = "fragile salon lottery squeeze enjoy have wide jelly front ice exist vault";

@@ -1,1 +1,1 @@
-var mnemonic = "debate garage bubble glass flame fault make glue horse young draw lemon";
+var mnemonic = "define reunion reflect consider enroll neither happy soccer bullet quit cigar other";

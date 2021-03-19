@@ -1,1 +1,1 @@
-var mnemonic = "pudding purpose mix exhaust meat candy age festival uncover goddess feature horse";
+var mnemonic = "scorpion absorb valley veteran melody forward spoon worth oblige unique slot energy";

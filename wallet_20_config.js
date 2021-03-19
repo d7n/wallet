@@ -1,1 +1,1 @@
-var mnemonic = "primary will crane shift heavy street embody area smile increase inject fringe";
+var mnemonic = "flat wild soon monitor soul tag verify divorce fatigue reduce add twenty";

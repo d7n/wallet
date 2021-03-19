@@ -1,1 +1,1 @@
-var mnemonic = "table axis moral hawk miracle soccer junk question mansion inform napkin cousin";
+var mnemonic = "simple warrior palace swarm pact raise rely picture source coconut scale reunion";

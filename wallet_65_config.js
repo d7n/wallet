@@ -1,1 +1,1 @@
-var mnemonic = "swear nation damage sound people cool chaos west injury tilt ozone kitten";
+var mnemonic = "mom supreme myself shoot science cargo biology glide include people cactus galaxy";

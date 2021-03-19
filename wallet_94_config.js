@@ -1,1 +1,1 @@
-var mnemonic = "crouch donor road stock traffic dynamic eight victory endless shrug wild convince";
+var mnemonic = "camp desk rather silver negative broken jump kangaroo demand width enable throw";

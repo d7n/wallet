@@ -1,1 +1,1 @@
-var mnemonic = "cloud hen proud broccoli dolphin pig amazing solar unit grid wrong industry";
+var mnemonic = "screen shy furnace acoustic below analyst symbol remove warm tide risk code";

@@ -1,1 +1,1 @@
-var mnemonic = "blush frozen treat dust lunar craft tree spare undo group metal rifle";
+var mnemonic = "walnut project emerge trick dignity bone any near exhaust inhale ritual spend";

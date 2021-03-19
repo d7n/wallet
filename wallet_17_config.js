@@ -1,1 +1,1 @@
-var mnemonic = "frog pride dismiss father response daughter skull unhappy phone treat try elite";
+var mnemonic = "token where file vintage brick reward grow double topic lens vacant lizard";

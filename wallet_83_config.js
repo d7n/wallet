@@ -1,1 +1,1 @@
-var mnemonic = "dial digital enough valley net maximum theme summer polar path zebra luxury";
+var mnemonic = "clay carry meadow primary steel dinosaur road muscle cave ridge way amused";

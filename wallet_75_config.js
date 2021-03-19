@@ -1,1 +1,1 @@
-var mnemonic = "sword solve emotion silent bar rigid obvious dune scan say margin grit";
+var mnemonic = "replace deer ridge never laptop food school phone loyal slot athlete gauge";

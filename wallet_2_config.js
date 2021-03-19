@@ -1,1 +1,1 @@
-var mnemonic = "chief trend alien hotel surge theme tube inner oppose rebel valley south";
+var mnemonic = "panda right inhale slide place judge define quiz debris blanket fan actress";

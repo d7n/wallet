@@ -1,1 +1,1 @@
-var mnemonic = "they use puzzle burst awake blanket popular fossil orient vanish hip pretty";
+var mnemonic = "mass topple witness shiver width report current focus stable hello ginger shell";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid mind zero employ game torch canyon oxygen horror develop course inch";
+var mnemonic = "trap omit sleep thank cruise vote ecology swift island wrestle charge pencil";

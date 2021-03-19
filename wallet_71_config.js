@@ -1,1 +1,1 @@
-var mnemonic = "file chalk artist stumble boost census giraffe embrace enough aware before opera";
+var mnemonic = "trigger pole common usage anchor cycle habit unable march narrow guide margin";

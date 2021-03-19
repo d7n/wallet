@@ -1,1 +1,1 @@
-var mnemonic = "flavor ethics side horse demise vote oxygen coyote dust polar pioneer common";
+var mnemonic = "magic toilet desert indicate dumb remove ensure pulse sand toe eight jungle";

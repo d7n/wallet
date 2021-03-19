@@ -1,1 +1,1 @@
-var mnemonic = "dog state enough animal clever broccoli bench exile spike goose used make";
+var mnemonic = "defy license slice sense false tilt repair upper pilot verify plug female";

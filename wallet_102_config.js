@@ -1,1 +1,1 @@
-var mnemonic = "sure snap hospital tell oxygen fish baby ozone fame cry afford wool";
+var mnemonic = "wrestle orchard rebuild avocado welcome series oblige puzzle enough raven record stuff";

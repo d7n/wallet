@@ -1,1 +1,1 @@
-var mnemonic = "injury fat gold blossom burst uphold team industry relief kiwi hotel hedgehog";
+var mnemonic = "black give mango baby mule second write truth opera economy wool genuine";

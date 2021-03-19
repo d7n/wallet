@@ -1,1 +1,1 @@
-var mnemonic = "monkey oven rookie milk enhance vanish below expand nature flee toy comfort";
+var mnemonic = "foil collect mistake laugh barely dose easily soft awake miss anger sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "click awesome tomorrow winner rhythm vessel average adult castle safe depth august";
+var mnemonic = "mixed wish blanket theory loan clog captain staff prepare gaze security race";

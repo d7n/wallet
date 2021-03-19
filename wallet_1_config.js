@@ -1,1 +1,1 @@
-var mnemonic = "delay egg label chimney evolve spawn pumpkin cigar please normal addict achieve";
+var mnemonic = "bid myth under cram erupt twice ritual flight fiber badge output expire";

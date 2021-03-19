@@ -1,1 +1,1 @@
-var mnemonic = "cover side record rain grain enrich enough give planet meat jewel analyst";
+var mnemonic = "strategy claim capable force stadium fence trophy column acquire club ask rude";

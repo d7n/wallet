@@ -1,1 +1,1 @@
-var mnemonic = "garden license imitate assault coyote quote cruise enemy segment side benefit borrow";
+var mnemonic = "live before dutch square comic stable minimum that better smoke grace tattoo";

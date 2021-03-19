@@ -1,1 +1,1 @@
-var mnemonic = "honey dismiss track hero favorite water wrong leaf normal one diesel trumpet";
+var mnemonic = "square gospel brother bind discover select lab clerk culture gather memory route";

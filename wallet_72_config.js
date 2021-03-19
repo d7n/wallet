@@ -1,1 +1,1 @@
-var mnemonic = "solid walnut weasel battle famous faculty reason trumpet concert alert long bacon";
+var mnemonic = "athlete struggle own social evil sign bench laundry entire spawn crash capital";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome make second vacuum future copy multiply parent solve entire atom fabric";
+var mnemonic = "they bleak salmon avoid shock federal order smoke pilot beyond beyond beef";

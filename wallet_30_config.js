@@ -1,1 +1,1 @@
-var mnemonic = "blue one buffalo banana few dream found average canyon flee wise essay";
+var mnemonic = "base dinosaur brick shaft track canvas board crunch gain empty chat share";

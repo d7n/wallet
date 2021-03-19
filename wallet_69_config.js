@@ -1,1 +1,1 @@
-var mnemonic = "midnight warm town error fork maple physical hover donor marine isolate kitten";
+var mnemonic = "exact attitude labor sock engine saddle reduce ridge boring brand water test";

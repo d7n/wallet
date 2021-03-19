@@ -1,1 +1,1 @@
-var mnemonic = "hazard web domain reduce derive obtain combine vanish like lecture sing slim";
+var mnemonic = "mesh burden rather appear tiger clinic any test aim eternal axis page";

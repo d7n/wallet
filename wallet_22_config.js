@@ -1,1 +1,1 @@
-var mnemonic = "swing depth void balance peasant mutual crop quote also fringe clerk have";
+var mnemonic = "home worth truck erosion hello race electric oil fish dumb clean radio";

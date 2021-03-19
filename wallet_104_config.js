@@ -1,1 +1,1 @@
-var mnemonic = "sail rose coast just argue dance spider bleak top slogan apple tower";
+var mnemonic = "pilot emerge dolphin inmate nothing pilot climb today payment buyer shine laundry";

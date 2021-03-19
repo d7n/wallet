@@ -1,1 +1,1 @@
-var mnemonic = "save choice brief category damp source exit exact guide affair what regret";
+var mnemonic = "render copy noise afford holiday tube enter used slam mimic mandate want";

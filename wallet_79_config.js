@@ -1,1 +1,1 @@
-var mnemonic = "float drift term ostrich jazz ticket bind pave tackle tiny time amount";
+var mnemonic = "away picnic supreme remove curtain dinner machine disorder rose kid else travel";

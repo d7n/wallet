@@ -1,1 +1,1 @@
-var mnemonic = "pave canal average display swamp exotic loan derive remind doctor casual couple";
+var mnemonic = "surround slab exotic spice bird cream chase uncle debris neglect tuna rural";

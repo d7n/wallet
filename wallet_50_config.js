@@ -1,1 +1,1 @@
-var mnemonic = "benefit enact develop salad curious enemy learn orange fat advice father disorder";
+var mnemonic = "various zebra wagon shuffle lamp lab miracle float receive ill pelican bone";

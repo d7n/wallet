@@ -1,1 +1,1 @@
-var mnemonic = "goat trap mouse walnut robot flag glass hurt axis congress detail orbit";
+var mnemonic = "donor fury shed couple elevator calm jump kid animal citizen ordinary job";

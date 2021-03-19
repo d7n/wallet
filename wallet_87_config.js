@@ -1,1 +1,1 @@
-var mnemonic = "ginger elevator leisure glare tilt equal banner achieve toe hazard market estate";
+var mnemonic = "legend ugly lady try swamp creek hurt nasty tooth kidney defy judge";

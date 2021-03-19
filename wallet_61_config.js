@@ -1,1 +1,1 @@
-var mnemonic = "bleak blush when extra assault match tonight bitter clock cousin cat team";
+var mnemonic = "carry eye injury alpha regret day cloth spoil glass ice evoke possible";

@@ -1,1 +1,1 @@
-var mnemonic = "vast pelican pool home diesel real vibrant cargo private uniform kick category";
+var mnemonic = "pill nurse deputy region machine laptop argue super push confirm fork one";

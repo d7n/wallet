@@ -1,1 +1,1 @@
-var mnemonic = "kitchen decorate surround wire truly relax giggle shy purse cattle erupt coach";
+var mnemonic = "rather size charge assault avoid weird success client street industry speed nerve";

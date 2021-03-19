@@ -1,1 +1,1 @@
-var mnemonic = "attract define sight hub fox toe cook flower bargain gym slab worth";
+var mnemonic = "news sudden way vendor believe wonder brick bag hotel sustain forum tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd search list army require knife cram picnic animal stomach robot latin";
+var mnemonic = "basket napkin flee ladder soccer tip fire knock venue clever area crew";

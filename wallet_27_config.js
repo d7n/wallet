@@ -1,1 +1,1 @@
-var mnemonic = "fee crash bamboo wolf history scout enhance biology else lounge clap pudding";
+var mnemonic = "clock toss gasp doll purchase amused visual grow oblige boss diet bone";

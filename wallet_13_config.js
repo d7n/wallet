@@ -1,1 +1,1 @@
-var mnemonic = "joy expire segment you core angry burden follow language divert obvious waste";
+var mnemonic = "idle city hurry urban service sweet hat member bacon filter village card";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter blame describe picnic leg open liar spot motor language oppose stairs";
+var mnemonic = "idea nut equal into quit woman ski decrease anger disease cousin notable";
