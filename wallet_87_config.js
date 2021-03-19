@@ -1,1 +1,1 @@
-var mnemonic = "hybrid stadium horn record provide lounge lecture spare dentist high sense asthma";
+var mnemonic = "pumpkin what fresh pony success purse argue horror awkward club ship lawsuit";

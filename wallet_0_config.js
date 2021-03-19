@@ -1,1 +1,1 @@
-var mnemonic = "frown raven dove apology police vintage cover road rely muffin rack stomach";
+var mnemonic = "client cream bacon balcony cause slam parent rich taste lottery cry jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "long flee book quick lecture become seven trigger humble lesson buddy oxygen";
+var mnemonic = "wolf predict city myself mad license comfort time assist hockey steak title";

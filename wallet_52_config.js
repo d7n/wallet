@@ -1,1 +1,1 @@
-var mnemonic = "loud rule depth door remind motion chimney current shiver addict pattern coral";
+var mnemonic = "subway volcano scrap repeat figure ball candy believe resource embrace strike pistol";

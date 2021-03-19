@@ -1,1 +1,1 @@
-var mnemonic = "cover steel utility goose entry banner atom asthma sound celery seminar elder";
+var mnemonic = "act scout scissors grocery together van reject case secret never immune pizza";

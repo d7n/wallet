@@ -1,1 +1,1 @@
-var mnemonic = "dove heavy object real type arctic glare beach exist rent upgrade impact";
+var mnemonic = "little pen author during hamster zone toy alien bone banner narrow casual";

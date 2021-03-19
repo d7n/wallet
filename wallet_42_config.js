@@ -1,1 +1,1 @@
-var mnemonic = "flip shuffle version peace endorse churn gossip tool flame garden sad vintage";
+var mnemonic = "mass waste position shuffle surge nephew detect call liberty pigeon phone link";

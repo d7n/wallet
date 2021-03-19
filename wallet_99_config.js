@@ -1,1 +1,1 @@
-var mnemonic = "gauge jump key online lava success gym roof pencil inflict tooth push";
+var mnemonic = "shift adjust giraffe draw absorb army version expose furnace mammal lazy enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "sword siege switch wrap all force useless extra coral card bean devote";
+var mnemonic = "inform rookie wrong tube add opinion when bright soul swift reform rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur theory owner zebra insect key symbol glue bracket juice often mosquito";
+var mnemonic = "jealous latin cash hawk margin link blue repeat cream verify pudding comfort";

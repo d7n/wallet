@@ -1,1 +1,1 @@
-var mnemonic = "dad elephant curve client mask south fiction sniff exchange copy ahead chimney";
+var mnemonic = "family dirt jeans elbow name wagon have define alter repeat crush prosper";

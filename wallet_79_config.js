@@ -1,1 +1,1 @@
-var mnemonic = "soul curve trophy tuition mixture popular wrestle guitar answer often also employ";
+var mnemonic = "pink wagon gap strike private supreme canyon post chapter pipe thumb jazz";

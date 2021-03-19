@@ -1,1 +1,1 @@
-var mnemonic = "direct pulse token census three sense same monkey firm rhythm derive zebra";
+var mnemonic = "law alpha student legal rural wire village hollow essay panda sight drive";

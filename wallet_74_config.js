@@ -1,1 +1,1 @@
-var mnemonic = "poem antenna exercise brick gaze please river obvious tenant bus grid yellow";
+var mnemonic = "purpose novel champion upper mean oak setup dish glance home salt bean";

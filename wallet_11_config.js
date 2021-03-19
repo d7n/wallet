@@ -1,1 +1,1 @@
-var mnemonic = "success swamp clump inmate urban auto peasant weather loud hello blossom amused";
+var mnemonic = "keep grid print economy prefer angle balcony toy blur deliver yard vapor";

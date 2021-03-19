@@ -1,1 +1,1 @@
-var mnemonic = "stable naive message valley hammer ready vacant force since sister second still";
+var mnemonic = "ramp display hybrid swing scrub attack asset viable unlock loan state certain";

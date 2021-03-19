@@ -1,1 +1,1 @@
-var mnemonic = "behind firm pen tortoise leopard couch rice core castle bleak shoulder deer";
+var mnemonic = "century payment excuse simple mirror inject interest alert decade exhaust chunk garage";

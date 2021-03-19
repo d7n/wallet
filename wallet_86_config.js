@@ -1,1 +1,1 @@
-var mnemonic = "fat doll boring coffee prison chef vibrant dial patient couple arch wage";
+var mnemonic = "edge trash action artist unit conduct neck display beauty hurt system hip";

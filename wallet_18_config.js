@@ -1,1 +1,1 @@
-var mnemonic = "tunnel hobby dentist pistol source coast point spend loop alone prepare expire";
+var mnemonic = "narrow defy tenant choose find resource security face farm piano bundle blur";

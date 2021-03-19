@@ -1,1 +1,1 @@
-var mnemonic = "bulb absent stool palm long vast circle craft total poverty true crime";
+var mnemonic = "dose awful sail eternal soup lottery choice grocery half response merge goat";

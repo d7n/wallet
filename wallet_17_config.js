@@ -1,1 +1,1 @@
-var mnemonic = "spare coffee leave struggle glow truth tuna fiber magic company possible solution";
+var mnemonic = "poem universe winter title omit champion hazard frequent photo insect school grit";

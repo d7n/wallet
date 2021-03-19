@@ -1,1 +1,1 @@
-var mnemonic = "blame razor immense remind margin desk pioneer frown actual hole elder job";
+var mnemonic = "priority west olympic twist surprise gap weapon sustain vacant collect sound near";

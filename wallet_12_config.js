@@ -1,1 +1,1 @@
-var mnemonic = "science cradle devote champion regular dawn clarify ancient mesh pluck hero awkward";
+var mnemonic = "credit tank salmon staff require jeans average unfair age describe scheme paper";

@@ -1,1 +1,1 @@
-var mnemonic = "poet smoke pyramid drum forum wrap move fog immense capable family matter";
+var mnemonic = "garment soda sting sauce float will off budget genuine left chalk usual";

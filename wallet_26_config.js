@@ -1,1 +1,1 @@
-var mnemonic = "pair away prefer mountain minor shuffle slow hair food convince correct reduce";
+var mnemonic = "grow afford sudden away diary off nephew salad eagle battle blur prevent";

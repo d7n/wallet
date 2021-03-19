@@ -1,1 +1,1 @@
-var mnemonic = "sweet vast liberty hidden stool slender orange wealth final skill fortune air";
+var mnemonic = "couch choice toy broccoli crane work angry artwork claim whip coin warrior";

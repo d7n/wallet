@@ -1,1 +1,1 @@
-var mnemonic = "hockey winter step ritual gossip super hen juice tower flower spin segment";
+var mnemonic = "title dignity enact scene obscure clip ivory eyebrow favorite cabin boost tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "age pulp donate chef any find husband truly play youth level shaft";
+var mnemonic = "govern small memory measure pet city bird harvest draw behind tube today";

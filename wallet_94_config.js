@@ -1,1 +1,1 @@
-var mnemonic = "genuine then note sing voyage fork view manual sudden gorilla oppose feature";
+var mnemonic = "diagram pride world youth hood kind civil apart put spoon length current";

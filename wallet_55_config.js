@@ -1,1 +1,1 @@
-var mnemonic = "mirror fault age clog result salon find milk busy spell real hair";
+var mnemonic = "media goddess simple solution hamster foil reason coyote fetch safe choice crane";

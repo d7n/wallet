@@ -1,1 +1,1 @@
-var mnemonic = "giant then humble force advance shell lady off spray future discover general";
+var mnemonic = "rifle loyal coral split open battle galaxy world very globe gate sudden";

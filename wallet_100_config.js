@@ -1,1 +1,1 @@
-var mnemonic = "boring learn corn carry current kick spin ride canoe tumble say uniform";
+var mnemonic = "correct broom pink asthma awake bridge special inner nest bounce chest boil";

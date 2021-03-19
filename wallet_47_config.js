@@ -1,1 +1,1 @@
-var mnemonic = "little avoid anchor main kite clay that frequent nice clever obscure matrix";
+var mnemonic = "vacuum tribe key come kite north soon talk dwarf script snow stay";

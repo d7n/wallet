@@ -1,1 +1,1 @@
-var mnemonic = "moral critic evolve bomb solution actress twice pepper dynamic say autumn often";
+var mnemonic = "trust nasty dog demise impulse system sell sample crew fit carry relief";

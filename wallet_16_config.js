@@ -1,1 +1,1 @@
-var mnemonic = "speak shell load misery early quantum essence around exist capable phone august";
+var mnemonic = "sun accuse boost chat hurry enable leopard picture miracle panther reason indicate";

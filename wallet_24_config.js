@@ -1,1 +1,1 @@
-var mnemonic = "minor bread cannon alien inside grain merry people kitten wall sport company";
+var mnemonic = "public glass exit fiber decade tree bomb glue long audit slogan output";

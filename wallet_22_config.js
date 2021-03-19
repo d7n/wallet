@@ -1,1 +1,1 @@
-var mnemonic = "course supply quiz gain illness submit other cigar travel doctor trouble loop";
+var mnemonic = "room riot sibling whisper expire farm muffin major draft abstract purse crazy";

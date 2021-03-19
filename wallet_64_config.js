@@ -1,1 +1,1 @@
-var mnemonic = "eager open circle night capable truck budget decrease organ country melt pioneer";
+var mnemonic = "mandate song battle payment visit slim office merit mule team width behave";

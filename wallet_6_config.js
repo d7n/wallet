@@ -1,1 +1,1 @@
-var mnemonic = "donor soda advice escape auction favorite atom inside welcome island neglect flat";
+var mnemonic = "swift disorder marine also satisfy title arrive slam genius alone snow buzz";

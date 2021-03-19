@@ -1,1 +1,1 @@
-var mnemonic = "canvas step fuel legend benefit group debate elder thank guess owner party";
+var mnemonic = "please loyal wave obvious twelve decline special blossom woman ensure stick balance";

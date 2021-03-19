@@ -1,1 +1,1 @@
-var mnemonic = "betray purse during neither embrace room jeans drum three talent absent error";
+var mnemonic = "tiger pigeon museum lottery host install decorate organ heart memory slide pulse";

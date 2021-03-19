@@ -1,1 +1,1 @@
-var mnemonic = "color can prevent aim ribbon royal all diesel stove safe alley sorry";
+var mnemonic = "acid claim wish clock trust crush father degree primary twenty ocean crowd";

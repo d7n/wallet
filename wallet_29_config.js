@@ -1,1 +1,1 @@
-var mnemonic = "chronic pond rescue shell bubble join coral total clip comic turkey author";
+var mnemonic = "autumn lemon next festival elevator age bunker slender echo video surge razor";

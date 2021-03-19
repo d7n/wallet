@@ -1,1 +1,1 @@
-var mnemonic = "drift unusual unique indoor dune galaxy airport shove wonder organ monkey hedgehog";
+var mnemonic = "million scare language issue bean session sure sand pepper saddle entire fringe";

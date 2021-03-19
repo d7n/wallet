@@ -1,1 +1,1 @@
-var mnemonic = "sample absorb exile repair hamster upon art system brass guard title bid";
+var mnemonic = "rally fish slice unveil loud combine ski gift myth figure mountain august";

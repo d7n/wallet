@@ -1,1 +1,1 @@
-var mnemonic = "rail park lawn net effort shell dance lock group raise attract spawn";
+var mnemonic = "wear explain fiction jewel kick work earth toss path unusual thank load";

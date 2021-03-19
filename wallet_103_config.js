@@ -1,1 +1,1 @@
-var mnemonic = "unfair act execute space shallow castle grace post ancient aerobic skill umbrella";
+var mnemonic = "buzz blame mail lizard path mask door else print wrap cream shoulder";

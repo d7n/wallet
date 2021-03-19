@@ -1,1 +1,1 @@
-var mnemonic = "sell will father fox quote oven taste parade sphere grace monkey survey";
+var mnemonic = "badge water cluster vicious thank visual video crop escape obey term bacon";

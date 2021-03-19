@@ -1,1 +1,1 @@
-var mnemonic = "found torch digital lecture expand rice supreme slender cluster twelve better soda";
+var mnemonic = "guilt shoe sign impulse trim area outdoor ecology pyramid rely mirror black";

@@ -1,1 +1,1 @@
-var mnemonic = "burger where bright room skin cement rubber meadow execute decline young casino";
+var mnemonic = "wrist guard nuclear proud chapter label issue thrive snap man famous still";

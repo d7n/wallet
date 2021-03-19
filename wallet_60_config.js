@@ -1,1 +1,1 @@
-var mnemonic = "bone tower key tube merry mammal march excite puppy famous avoid soon";
+var mnemonic = "garden series renew resemble kitchen fresh siren ceiling wage category explain wish";

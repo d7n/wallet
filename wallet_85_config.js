@@ -1,1 +1,1 @@
-var mnemonic = "venture mean chest slush hurt zoo fine bargain cruel then crop tobacco";
+var mnemonic = "column belt exile upset defense eager middle chat pudding math enter vacuum";

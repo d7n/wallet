@@ -1,1 +1,1 @@
-var mnemonic = "dial champion blade minimum physical whip will radio strike void neck auto";
+var mnemonic = "spirit razor prison because peace deal about excite fragile wood surface member";

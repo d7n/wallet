@@ -1,1 +1,1 @@
-var mnemonic = "olive box twice often add noble famous pilot speak ceiling ride answer";
+var mnemonic = "exercise zoo tag host quiz drastic fee tenant alcohol staff enter dress";

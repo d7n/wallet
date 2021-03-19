@@ -1,1 +1,1 @@
-var mnemonic = "seek view buffalo make goat matter wide joy smooth sick until chat";
+var mnemonic = "open execute vivid hand away elite kingdom else bright provide toddler gun";

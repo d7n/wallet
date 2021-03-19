@@ -1,1 +1,1 @@
-var mnemonic = "detail brand build isolate kitchen oyster help book plug return woman island";
+var mnemonic = "erase again august section stand resource inhale horn middle only test when";

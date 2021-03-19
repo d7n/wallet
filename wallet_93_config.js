@@ -1,1 +1,1 @@
-var mnemonic = "soldier betray broken joy chronic comic cat betray office script hand omit";
+var mnemonic = "pitch card adjust over layer random defense mobile near stable reflect when";

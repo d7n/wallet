@@ -1,1 +1,1 @@
-var mnemonic = "praise arrest illness consider style gesture dream win orchard army wedding unable";
+var mnemonic = "cost winner unique such crumble roast bubble elder desert oil still flight";

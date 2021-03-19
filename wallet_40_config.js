@@ -1,1 +1,1 @@
-var mnemonic = "move park cancel usual adjust during skin invest inmate beyond news shoulder";
+var mnemonic = "monster income creek piano giant sausage rib thrive cake marriage office month";

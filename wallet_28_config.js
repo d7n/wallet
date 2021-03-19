@@ -1,1 +1,1 @@
-var mnemonic = "park junk amazing cabin bottom neutral perfect obvious enrich obscure coconut much";
+var mnemonic = "forum best turtle hair man coyote token observe august trip leave unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "fire where blur lend thing tag culture lobster teach traffic group either";
+var mnemonic = "bench fortune bridge diamond settle height select daughter depend swamp crush cloth";

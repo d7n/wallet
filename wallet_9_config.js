@@ -1,1 +1,1 @@
-var mnemonic = "desert alpha exact evoke dress oppose plug gallery stairs siren oval drill";
+var mnemonic = "farm sell meat mystery kiwi dentist prefer scorpion such solid spirit science";

@@ -1,1 +1,1 @@
-var mnemonic = "left island crowd base leg dial obey initial roast host talent toward";
+var mnemonic = "echo comic artwork broom give enable afraid planet skirt into draw bring";

@@ -1,1 +1,1 @@
-var mnemonic = "assault note chase west actor crack track ankle arm force soap appear";
+var mnemonic = "fatal eye master diesel refuse vocal between sign gasp candy gloom width";

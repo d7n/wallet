@@ -1,1 +1,1 @@
-var mnemonic = "spray rate erase speed cancel grid pair prison miracle sting gauge benefit";
+var mnemonic = "sibling fury banner echo misery entire random kick crisp zoo code frog";

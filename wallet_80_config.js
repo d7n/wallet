@@ -1,1 +1,1 @@
-var mnemonic = "typical episode latin absent execute offer game assist profit crime dolphin blade";
+var mnemonic = "wealth pigeon initial magnet attract toe arrow extend sketch member panther usual";

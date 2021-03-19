@@ -1,1 +1,1 @@
-var mnemonic = "turkey recycle crack script inch moral laundry twice nothing universe proud tortoise";
+var mnemonic = "critic thing cradle sorry symbol polar track speak change bus jump canoe";

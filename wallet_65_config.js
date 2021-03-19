@@ -1,1 +1,1 @@
-var mnemonic = "grow express glow idle luxury smart judge invest toddler embrace neglect identify";
+var mnemonic = "taste robust often answer sun gaze panda want village feature scorpion little";

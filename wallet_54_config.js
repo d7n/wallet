@@ -1,1 +1,1 @@
-var mnemonic = "all roof coin original dizzy submit acid siren flat ring obscure soccer";
+var mnemonic = "cherry remind parrot valid attract tuition include law gift velvet pluck neck";

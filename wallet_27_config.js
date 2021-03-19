@@ -1,1 +1,1 @@
-var mnemonic = "police stage garlic lemon hockey nasty soft strike surge skull fat enemy";
+var mnemonic = "brush leaf frequent rocket lady orange make pipe inner oak wife when";

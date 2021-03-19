@@ -1,1 +1,1 @@
-var mnemonic = "advice type aunt stereo render draft lucky butter warrior online town umbrella";
+var mnemonic = "depend scan cinnamon valve embody wink south jacket purchase raise practice denial";

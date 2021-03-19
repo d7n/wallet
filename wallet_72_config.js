@@ -1,1 +1,1 @@
-var mnemonic = "silly stay believe october funny blue rebel zoo sentence jump mother clap";
+var mnemonic = "describe high attitude tower electric goat lava leaf increase purpose enact quality";

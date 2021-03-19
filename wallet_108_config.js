@@ -1,1 +1,1 @@
-var mnemonic = "liquid crouch wage inject audit trigger atom hybrid bundle boy multiply host";
+var mnemonic = "shine egg drama click label mother evolve private clock matter luggage average";

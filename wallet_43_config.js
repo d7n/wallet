@@ -1,1 +1,1 @@
-var mnemonic = "diary shrug lunch arrow alpha web hobby exclude arm tomorrow robot day";
+var mnemonic = "magic cement van pear apology stove ship cattle frown ritual dog patrol";

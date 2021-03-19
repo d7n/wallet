@@ -1,1 +1,1 @@
-var mnemonic = "tuition material fever supreme rookie fashion gossip trend obey grunt loop milk";
+var mnemonic = "circle able crunch token noble hurry chief layer network light unveil must";

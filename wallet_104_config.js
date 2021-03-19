@@ -1,1 +1,1 @@
-var mnemonic = "quantum kit melt radar before goat cage ketchup cave exchange castle fence";
+var mnemonic = "start neglect blast another insect skirt blossom country pulp toy crawl cook";

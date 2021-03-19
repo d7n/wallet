@@ -1,1 +1,1 @@
-var mnemonic = "praise woman royal over like roast bacon actress swing version neglect time";
+var mnemonic = "raise glass goat trust reject social mushroom wheel liquid genre marine tribe";

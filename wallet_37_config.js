@@ -1,1 +1,1 @@
-var mnemonic = "category theme decide flush dash food marine peanut fancy picture such cabin";
+var mnemonic = "dust abuse into mesh minimum sausage kit figure hill uniform cherry wheel";

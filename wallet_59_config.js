@@ -1,1 +1,1 @@
-var mnemonic = "year answer magic life squeeze left design return flee fox develop owner";
+var mnemonic = "start ability west mom rally coconut demand clump forget purchase like speed";

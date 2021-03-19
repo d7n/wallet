@@ -1,1 +1,1 @@
-var mnemonic = "snow bitter lemon large arrange city cheese guess excess custom rich truly";
+var mnemonic = "logic lake jar employ airport smile village either wink chunk sister panel";

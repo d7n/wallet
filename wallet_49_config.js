@@ -1,1 +1,1 @@
-var mnemonic = "there asset involve insane vendor disease nice banner degree crisp skirt shove";
+var mnemonic = "rich sword royal essence hello beauty wish essence scare slow lift usual";

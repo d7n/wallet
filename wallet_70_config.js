@@ -1,1 +1,1 @@
-var mnemonic = "hockey calm venue quit alcohol march swamp flower average desert box effort";
+var mnemonic = "glow hedgehog below soul play crane exile company husband wealth reopen ghost";

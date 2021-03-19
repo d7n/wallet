@@ -1,1 +1,1 @@
-var mnemonic = "vendor wreck rough also foam usage person talent blanket illness brave message";
+var mnemonic = "head outdoor anchor early twist universe credit judge choose field audit blue";

@@ -1,1 +1,1 @@
-var mnemonic = "wet raccoon cute leave welcome echo either truck cheap parrot decrease acid";
+var mnemonic = "dentist capable clever vacuum add grow tobacco vehicle increase scrub fluid grit";

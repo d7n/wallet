@@ -1,1 +1,1 @@
-var mnemonic = "olive wrestle slush figure dentist kit carbon color kidney unknown bread snow";
+var mnemonic = "valve shadow drip fault prepare chunk nuclear test cushion harbor library plate";

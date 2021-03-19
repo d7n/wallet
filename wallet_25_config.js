@@ -1,1 +1,1 @@
-var mnemonic = "quick horn rigid soft cat first crime border end kick extra floor";
+var mnemonic = "unusual welcome boy zebra replace soldier home web mechanic secret three twin";

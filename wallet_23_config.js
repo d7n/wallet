@@ -1,1 +1,1 @@
-var mnemonic = "van drop whip gift agree inspire indicate turkey pattern other tone dirt";
+var mnemonic = "fury gain nuclear access sight slide review bottom uncover brisk own then";

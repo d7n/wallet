@@ -1,1 +1,1 @@
-var mnemonic = "human actress escape sudden violin sheriff property crowd talent magnet stove radio";
+var mnemonic = "jelly area enact canyon jar thing empower round tone bid phone agent";

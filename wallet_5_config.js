@@ -1,1 +1,1 @@
-var mnemonic = "myth dynamic scissors decorate give divide today topple quote slow farm fire";
+var mnemonic = "gather category flush boring arrest desk fury super truly artefact grant elite";

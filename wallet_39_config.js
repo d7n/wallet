@@ -1,1 +1,1 @@
-var mnemonic = "amused crush left pride dumb pulse diamond burger average fluid clip exclude";
+var mnemonic = "hidden valid settle decline sad click author remember bubble dust duck present";

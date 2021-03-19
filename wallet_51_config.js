@@ -1,1 +1,1 @@
-var mnemonic = "maze rich ostrich deer sword just ladder measure seek chapter hawk kidney";
+var mnemonic = "praise team shiver opinion alpha expose bomb common answer replace strong chicken";

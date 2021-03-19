@@ -1,1 +1,1 @@
-var mnemonic = "devote ritual category credit like device foil potato copy unfold safe castle";
+var mnemonic = "sugar jeans core else orchard birth proud icon debate reflect play opera";

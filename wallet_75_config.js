@@ -1,1 +1,1 @@
-var mnemonic = "web enlist dash three nerve velvet wish discover wreck evil sketch wild";
+var mnemonic = "impose clutch hip urban picture crater naive minimum together oven right exile";

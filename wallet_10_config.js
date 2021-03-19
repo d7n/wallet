@@ -1,1 +1,1 @@
-var mnemonic = "crazy defense brick rail guard amazing meadow vibrant penalty loud harvest wisdom";
+var mnemonic = "chronic piece fringe vacant oxygen resource theory ramp moment friend fresh book";

@@ -1,1 +1,1 @@
-var mnemonic = "useless future peace scrap pig raw faint toast below brisk pepper surround";
+var mnemonic = "bomb swarm stamp lunar typical saddle basket case squeeze first desk arctic";
