@@ -1,1 +1,1 @@
-var mnemonic = "mesh trick upon liquid cattle jacket stadium bleak tomato endorse number keen";
+var mnemonic = "access fever shrimp barrel face found island subject raw once radar tuition";

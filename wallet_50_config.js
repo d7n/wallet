@@ -1,1 +1,1 @@
-var mnemonic = "glory easily develop capable spread slow option analyst proud kind close join";
+var mnemonic = "tuition wrong push walnut jelly cool small oil genuine magic must hip";

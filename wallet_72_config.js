@@ -1,1 +1,1 @@
-var mnemonic = "egg reward chalk source rate waste this hurdle ball sick sight split";
+var mnemonic = "random green oxygen knock ski custom crazy wife feature rabbit logic notice";

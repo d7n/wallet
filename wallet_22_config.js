@@ -1,1 +1,1 @@
-var mnemonic = "music ugly gossip seek man symbol estate purchase sorry strong execute industry";
+var mnemonic = "strike bulk drink float fog runway boil unusual cram antique ostrich ability";

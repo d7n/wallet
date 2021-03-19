@@ -1,1 +1,1 @@
-var mnemonic = "arrive eyebrow odor neutral edit deny merit race drift fantasy route target";
+var mnemonic = "element rain cash obscure welcome media ethics raven cheap grow grace lady";

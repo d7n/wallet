@@ -1,1 +1,1 @@
-var mnemonic = "battle room gadget dawn farm logic alarm hawk congress diesel soccer similar";
+var mnemonic = "street explain rare bulb potato whale squirrel scene seed produce gather rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "hold hover negative essence identify ginger endorse cake distance scorpion emotion loop";
+var mnemonic = "humble lemon hope quantum exist exist follow evoke antique butter control great";

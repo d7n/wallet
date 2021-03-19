@@ -1,1 +1,1 @@
-var mnemonic = "brisk scout wink entire sugar title flip canal urge laugh desert key";
+var mnemonic = "surprise average neutral tool control cream asset ginger arrange worry retire oven";

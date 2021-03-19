@@ -1,1 +1,1 @@
-var mnemonic = "cup fine phrase exile cousin violin rose cause stay identify stairs torch";
+var mnemonic = "machine alone breeze because settle napkin yellow ginger bicycle female client stairs";

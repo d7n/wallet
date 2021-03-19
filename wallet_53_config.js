@@ -1,1 +1,1 @@
-var mnemonic = "mention betray cabin strike dust phrase twice borrow siren naive call answer";
+var mnemonic = "innocent prosper write gas more tonight village thunder absent hood orange token";

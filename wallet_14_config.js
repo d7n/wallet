@@ -1,1 +1,1 @@
-var mnemonic = "bargain surge opinion topic fluid box permit upset grow six candy phrase";
+var mnemonic = "tissue pull balcony two join camp leaf side mix fiscal priority fit";

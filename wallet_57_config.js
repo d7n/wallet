@@ -1,1 +1,1 @@
-var mnemonic = "orient wine mother chuckle fun ghost emotion turn swamp adjust step bracket";
+var mnemonic = "wine correct pull common pause step stand tissue session atom nature plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "keen dwarf invest garage panther exotic chapter canvas solar whip elite pistol";
+var mnemonic = "primary satisfy boost flame basic spoon isolate shoot give clown bitter satisfy";

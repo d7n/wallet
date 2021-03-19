@@ -1,1 +1,1 @@
-var mnemonic = "giggle wall wall outdoor end little flower ridge ten measure plunge lift";
+var mnemonic = "rebuild explain tail myth fit staff bike label bunker street spirit anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow mistake like attract cute series cancel tone win sunny amateur oblige";
+var mnemonic = "brush morning alcohol isolate artwork remain car skull letter above moral gun";

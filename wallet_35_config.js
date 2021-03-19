@@ -1,1 +1,1 @@
-var mnemonic = "year lawn talk mad fiscal cloud test lecture foot wheat stage sorry";
+var mnemonic = "lava dragon nothing reflect assault clock style cash orient idea sand anxiety";

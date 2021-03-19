@@ -1,1 +1,1 @@
-var mnemonic = "sock lunch nut desk stadium clip wise riot call fat leave then";
+var mnemonic = "coast grab gallery nest team heavy good boil velvet benefit argue combine";

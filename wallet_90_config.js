@@ -1,1 +1,1 @@
-var mnemonic = "canyon pole consider satoshi quiz noise minute fee enjoy fashion grunt relax";
+var mnemonic = "quote wool drip wine kingdom accuse badge always sponsor tonight brave october";

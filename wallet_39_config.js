@@ -1,1 +1,1 @@
-var mnemonic = "vanish problem gain sight innocent play picture erupt glove open crash arm";
+var mnemonic = "wall right dawn until neck boss match target grief energy deliver dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "intact hood hello festival silk carpet pony happy hidden canoe denial lecture";
+var mnemonic = "champion punch toe top black noble option wave scare absurd dizzy utility";

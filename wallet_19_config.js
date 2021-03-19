@@ -1,1 +1,1 @@
-var mnemonic = "arrest virtual camp relief calm ginger hover submit oxygen assume tray sauce";
+var mnemonic = "series prize wife great web dice flavor toddler fuel wave pumpkin risk";

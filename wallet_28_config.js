@@ -1,1 +1,1 @@
-var mnemonic = "humor only gym inflict coil april pond firm twenty about pitch glad";
+var mnemonic = "fitness debate gold dose frog pull dutch flight material pond yard scare";

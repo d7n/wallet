@@ -1,1 +1,1 @@
-var mnemonic = "deer secret virus sense crime cage thumb elder off chest punch tiny";
+var mnemonic = "mechanic noise course globe domain hero garden tiny torch price patient leaf";

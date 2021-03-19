@@ -1,1 +1,1 @@
-var mnemonic = "decorate private silk swamp road quantum vapor main coin speed truth omit";
+var mnemonic = "foam zebra army sing injury sleep mirror final lady cream exercise castle";

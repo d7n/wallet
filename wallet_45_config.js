@@ -1,1 +1,1 @@
-var mnemonic = "welcome scrap infant crane option guard silly bulb bargain pride glare response";
+var mnemonic = "art sing dolphin soap unusual success damp quote fun awful box critic";

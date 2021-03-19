@@ -1,1 +1,1 @@
-var mnemonic = "engage width cotton lumber aspect hip vote swamp canvas wire aerobic radio";
+var mnemonic = "flock echo fiscal weasel shell raw upper desert slot lumber balance member";

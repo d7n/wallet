@@ -1,1 +1,1 @@
-var mnemonic = "miracle desert into foam suffer estate dawn during maze small pact object";
+var mnemonic = "team crazy laugh water seek legend range inform frozen chalk bracket summer";

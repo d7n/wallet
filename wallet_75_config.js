@@ -1,1 +1,1 @@
-var mnemonic = "zone flame venture oval whip urge group fatigue horn trade doll zero";
+var mnemonic = "punch local meadow stomach produce dismiss rare range peasant across slender mistake";

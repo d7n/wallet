@@ -1,1 +1,1 @@
-var mnemonic = "require example truck bottom hobby combine baby again loop farm glow need";
+var mnemonic = "advice between menu embrace teach penalty like solution animal tackle unknown rail";

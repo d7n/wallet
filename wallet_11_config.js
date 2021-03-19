@@ -1,1 +1,1 @@
-var mnemonic = "people mother pole web cannon reopen permit crime pony only behind inquiry";
+var mnemonic = "execute suit act blue market buyer chief return physical horror aware execute";

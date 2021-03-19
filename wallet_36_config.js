@@ -1,1 +1,1 @@
-var mnemonic = "group gravity mass edit march purpose rally kick face cigar pioneer topic";
+var mnemonic = "gap resource gasp retire tool glimpse circle erode figure endorse slam family";

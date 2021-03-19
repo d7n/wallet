@@ -1,1 +1,1 @@
-var mnemonic = "steel payment can simple base move motion series attack purpose device vanish";
+var mnemonic = "love obvious become october giraffe element avoid indoor pole plug cage occur";

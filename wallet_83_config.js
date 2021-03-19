@@ -1,1 +1,1 @@
-var mnemonic = "boil timber ribbon tone lounge pledge invite still develop cute defense adult";
+var mnemonic = "vital ethics room march velvet analyst scrub piano orphan caution nose smoke";

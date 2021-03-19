@@ -1,1 +1,1 @@
-var mnemonic = "harbor soda amazing where bachelor capable design unaware ritual leaf resist found";
+var mnemonic = "pulse issue flash stool honey use spare net glimpse glory slot region";

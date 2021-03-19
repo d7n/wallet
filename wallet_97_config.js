@@ -1,1 +1,1 @@
-var mnemonic = "burden river soft cable attitude roof oyster reward pluck sudden glance surface";
+var mnemonic = "sight truck scale pencil prefer wall eyebrow surround will ability end enough";

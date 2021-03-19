@@ -1,1 +1,1 @@
-var mnemonic = "clump input mixed athlete accuse paddle observe announce multiply ice whisper mention";
+var mnemonic = "exact hungry above rule only stadium maximum coast fame before lady awkward";

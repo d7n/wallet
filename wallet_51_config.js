@@ -1,1 +1,1 @@
-var mnemonic = "drive shop ghost warm globe level network all salt three tackle grab";
+var mnemonic = "quote balance web sadness meadow what position arch neck pipe fold daughter";

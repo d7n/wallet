@@ -1,1 +1,1 @@
-var mnemonic = "ordinary life brisk lamp gold ridge parade spike lesson frog symptom foot";
+var mnemonic = "fetch gasp model reopen secret fiscal gloom plug emotion curtain noodle sponsor";

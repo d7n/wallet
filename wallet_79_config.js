@@ -1,1 +1,1 @@
-var mnemonic = "treat stove diet woman family prefer recipe tribe actual odor shallow leg";
+var mnemonic = "melody tattoo nephew elbow rack happy release vessel faint leg creek ivory";

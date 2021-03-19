@@ -1,1 +1,1 @@
-var mnemonic = "trial broccoli leisure human theme render market small vicious crowd rent employ";
+var mnemonic = "antique inmate rhythm local among pudding left gentle safe drift expect east";

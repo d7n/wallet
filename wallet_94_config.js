@@ -1,1 +1,1 @@
-var mnemonic = "gap opera promote ceiling remove mango sustain thought pizza tank alley season";
+var mnemonic = "stand marriage lazy dizzy vapor today monitor attack logic coral interest athlete";

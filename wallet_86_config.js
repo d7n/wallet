@@ -1,1 +1,1 @@
-var mnemonic = "decorate raccoon police tail cheap leopard truly cute end sunset truly typical";
+var mnemonic = "mistake school garden sister legal thunder heart mad sick hobby beef multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch disagree caught device matter income media exchange resemble dry success off";
+var mnemonic = "earn six frame ensure pact zebra trick north rate country resource purse";

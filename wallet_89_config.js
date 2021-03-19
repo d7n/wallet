@@ -1,1 +1,1 @@
-var mnemonic = "review dish plate throw hollow coffee vessel vivid piano must arm crush";
+var mnemonic = "plug divert novel actual eager alter raw nerve arrive amateur copy soon";

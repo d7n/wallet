@@ -1,1 +1,1 @@
-var mnemonic = "over swift strike width cluster sweet egg only night bread rhythm off";
+var mnemonic = "absurd wagon transfer need solve destroy almost neglect athlete empty trumpet nothing";

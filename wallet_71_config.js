@@ -1,1 +1,1 @@
-var mnemonic = "click shy ginger rate number super scheme alien wise stay gown arena";
+var mnemonic = "grant practice doll nose empty chapter tennis inspire victory reduce anchor tape";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum smooth below cheese essence loyal arena twist wonder knock general they";
+var mnemonic = "mosquito sting split grocery armor year tilt good spin parade uniform shy";

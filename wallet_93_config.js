@@ -1,1 +1,1 @@
-var mnemonic = "symbol medal omit update smile diesel cancel pattern total debate excuse antenna";
+var mnemonic = "marble onion practice wish duty raven twenty case guard used dice sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle roast then hold sell soft leaf nominee cereal cool someone risk";
+var mnemonic = "need lady solution artefact dash alone throw tomato cupboard defense erosion phrase";

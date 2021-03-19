@@ -1,1 +1,1 @@
-var mnemonic = "south volcano barely boss snack talent hood decline bracket country shoot turn";
+var mnemonic = "true nature oblige alter uncle then require trade mushroom two tank scissors";

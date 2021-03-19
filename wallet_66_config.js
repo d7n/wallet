@@ -1,1 +1,1 @@
-var mnemonic = "lens decide basic run brown mule child forward sister only gorilla dirt";
+var mnemonic = "creek reform health pause all crash burden coconut hazard witness ketchup spare";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease annual laptop rigid topic lizard swift barrel flush throw will carry";
+var mnemonic = "online almost casual suggest stock enhance season reform trouble mammal fetch palm";

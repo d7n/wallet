@@ -1,1 +1,1 @@
-var mnemonic = "sleep extend captain cliff feature link color can toss skin equal galaxy";
+var mnemonic = "armed hazard mansion party noodle bamboo slender problem balance boost square kind";

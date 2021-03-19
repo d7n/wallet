@@ -1,1 +1,1 @@
-var mnemonic = "key move awesome intact subway ketchup library shell virtual ice cattle arm";
+var mnemonic = "elder crop aerobic myth strong grunt nothing stereo crane risk spot fog";

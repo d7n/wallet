@@ -1,1 +1,1 @@
-var mnemonic = "copper sunny hat hazard gown pink shuffle ahead patient steak develop sniff";
+var mnemonic = "smart amount bitter raise wasp abandon noodle envelope holiday humble have frost";

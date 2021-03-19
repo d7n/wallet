@@ -1,1 +1,1 @@
-var mnemonic = "switch wall agent sport primary favorite noise tilt fog interest earn hole";
+var mnemonic = "debris aware capital gift leave brain wife again feature dance stove common";

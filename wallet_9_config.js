@@ -1,1 +1,1 @@
-var mnemonic = "old elder safe inject teach traffic loyal sure feature frog rhythm blue";
+var mnemonic = "tenant abandon prepare future essay gallery captain food romance already series strong";

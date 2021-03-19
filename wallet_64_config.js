@@ -1,1 +1,1 @@
-var mnemonic = "possible edge admit mouse charge divide warm electric protect velvet seat inside";
+var mnemonic = "buddy payment raven give stereo forest viable smile toilet inform uphold local";

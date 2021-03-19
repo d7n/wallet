@@ -1,1 +1,1 @@
-var mnemonic = "aisle dynamic wheat abandon chimney artefact canyon maid turn switch erupt neutral";
+var mnemonic = "grid faith orbit method plunge interest second sound sell athlete setup broccoli";

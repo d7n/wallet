@@ -1,1 +1,1 @@
-var mnemonic = "devote trim hub end host scrap type defense monster ice economy rotate";
+var mnemonic = "dad trial replace pyramid finish salmon keep army tuition payment laptop leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze small must strong impulse judge diamond silk unfold exist tide island";
+var mnemonic = "pet siege topple cave permit donate melt also sick trash punch gun";

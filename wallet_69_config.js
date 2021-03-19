@@ -1,1 +1,1 @@
-var mnemonic = "village hip brass news promote thrive wrap topple tuna display fabric forum";
+var mnemonic = "leg merit rocket install spray income neutral attitude act panic master pond";

@@ -1,1 +1,1 @@
-var mnemonic = "then idea clinic crisp urban fossil rabbit promote orchard fix drip gossip";
+var mnemonic = "enact defy idea list shrimp guitar warrior deliver gossip caution end oblige";

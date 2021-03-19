@@ -1,1 +1,1 @@
-var mnemonic = "enhance silk stool gown aerobic total inject hurdle future obvious maximum conduct";
+var mnemonic = "loyal under siege cross begin ripple talent assault ability ride supply above";

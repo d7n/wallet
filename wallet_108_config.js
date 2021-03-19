@@ -1,1 +1,1 @@
-var mnemonic = "custom rescue gate minor caught history sketch icon hire clinic tackle father";
+var mnemonic = "bundle often okay rack armed list erosion estate embark pluck merge sausage";

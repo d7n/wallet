@@ -1,1 +1,1 @@
-var mnemonic = "opera pioneer faculty desert race seed scrap suggest worth park weekend inch";
+var mnemonic = "insane sudden they remind cash release define mass unknown derive frown alarm";

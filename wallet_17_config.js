@@ -1,1 +1,1 @@
-var mnemonic = "opera input cancel cloth fuel execute system leader crisp hold kit lizard";
+var mnemonic = "replace walnut legend ski again plug film fiber flag unique sketch vanish";

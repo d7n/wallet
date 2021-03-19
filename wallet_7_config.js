@@ -1,1 +1,1 @@
-var mnemonic = "pupil crawl cactus cream wife tortoise near foster notice unit bless logic";
+var mnemonic = "gospel adapt answer elite source junior royal useful appear dignity neglect need";

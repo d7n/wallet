@@ -1,1 +1,1 @@
-var mnemonic = "shop echo melt usual surprise post ginger work dance soul patient clutch";
+var mnemonic = "daring close size able deliver legal animal era silly human loud device";

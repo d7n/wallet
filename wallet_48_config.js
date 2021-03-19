@@ -1,1 +1,1 @@
-var mnemonic = "stick put differ grain chapter express vapor cargo ability depth absorb abandon";
+var mnemonic = "imitate noise problem candy print mirror opinion autumn captain rural gadget stone";

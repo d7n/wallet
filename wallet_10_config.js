@@ -1,1 +1,1 @@
-var mnemonic = "glove tackle faint category alarm drive afford wasp announce nut survey thing";
+var mnemonic = "confirm ivory initial bounce refuse second mail equip memory online magic grow";

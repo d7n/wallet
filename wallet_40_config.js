@@ -1,1 +1,1 @@
-var mnemonic = "salad trash embark adjust add blame example pony learn injury quiz airport";
+var mnemonic = "success away crucial arch negative photo squirrel next pass weekend chief anxiety";

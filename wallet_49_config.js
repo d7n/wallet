@@ -1,1 +1,1 @@
-var mnemonic = "room shell dad hobby because depth carbon disease vacant swarm assist dismiss";
+var mnemonic = "sniff art water cotton vanish kick category inherit trip escape mention hockey";

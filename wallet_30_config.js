@@ -1,1 +1,1 @@
-var mnemonic = "giggle hole sketch sock upset sea scissors mammal scheme chronic must deliver";
+var mnemonic = "tilt reason merit degree doll case blur wonder attitude excess limb earth";

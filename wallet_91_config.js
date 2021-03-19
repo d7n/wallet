@@ -1,1 +1,1 @@
-var mnemonic = "spirit express click width banner awkward need what prosper enemy patrol coin";
+var mnemonic = "recycle loud vast slim peasant know theory history mystery six deposit month";

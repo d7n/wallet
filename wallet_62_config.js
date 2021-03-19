@@ -1,1 +1,1 @@
-var mnemonic = "popular boss later consider tail shrug purpose arrow brother ribbon way guide";
+var mnemonic = "loyal globe gravity whale zero nature screen rude provide limit gallery try";

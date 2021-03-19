@@ -1,1 +1,1 @@
-var mnemonic = "insane deny domain pumpkin water silly protect turkey pole snap can drop";
+var mnemonic = "media relax prison federal weekend degree member crime collect view fence cement";

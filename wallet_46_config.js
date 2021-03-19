@@ -1,1 +1,1 @@
-var mnemonic = "huge point slide wait vault phone fitness neither bitter involve solve success";
+var mnemonic = "arena swim drama dance fiscal expand profit devote dutch eagle language hungry";

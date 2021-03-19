@@ -1,1 +1,1 @@
-var mnemonic = "network victory gaze cliff tribe price glare abstract pulp wide detail stock";
+var mnemonic = "cycle infant remember unusual make crush will buddy drastic juice credit photo";

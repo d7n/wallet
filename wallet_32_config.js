@@ -1,1 +1,1 @@
-var mnemonic = "champion plunge type cycle prison motor eager broom oval admit tourist space";
+var mnemonic = "disagree shed armed chronic offer deal whisper wide reveal pride board bonus";

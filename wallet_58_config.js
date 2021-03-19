@@ -1,1 +1,1 @@
-var mnemonic = "ridge wonder era left energy suit affair shy alcohol walnut balcony trumpet";
+var mnemonic = "hungry rib toward sea quick riot shed monster earn sketch only pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "car gasp crazy inflict balance canoe bean health goat clock proud crop";
+var mnemonic = "globe insect dismiss diamond novel cattle fossil pilot shed squirrel subject hint";

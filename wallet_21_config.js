@@ -1,1 +1,1 @@
-var mnemonic = "vivid depend clean nephew expect pistol safe solar fatigue now fitness width";
+var mnemonic = "wise belt virtual glad girl common silent student divorce sphere oxygen maze";

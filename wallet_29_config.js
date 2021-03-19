@@ -1,1 +1,1 @@
-var mnemonic = "weapon large mule sing entire neutral control license acquire across chicken maximum";
+var mnemonic = "install disagree fiscal danger emerge rebuild dinosaur tortoise alone drastic eager alien";

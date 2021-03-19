@@ -1,1 +1,1 @@
-var mnemonic = "wonder sense swamp soccer mango image polar awkward curve target any town";
+var mnemonic = "maze feel master treat build parrot essence sting all awkward slice finish";

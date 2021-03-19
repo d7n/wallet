@@ -1,1 +1,1 @@
-var mnemonic = "dry morning then valley square light caution away ranch obvious quantum place";
+var mnemonic = "nurse gasp oval horse frost skate stay food crunch renew casino release";

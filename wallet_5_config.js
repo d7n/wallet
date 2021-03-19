@@ -1,1 +1,1 @@
-var mnemonic = "wine wheat ethics club saddle solution smile morning rather unit awful elephant";
+var mnemonic = "allow ugly result cross soldier jaguar rely chase they whale squirrel retire";

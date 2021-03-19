@@ -1,1 +1,1 @@
-var mnemonic = "affair warfare barely supply repair swear dune border auction arctic warm resemble";
+var mnemonic = "ecology lend title resemble more elbow strong alone pattern river total tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "hire great ask hidden unusual traffic october slight visual duty sick cactus";
+var mnemonic = "trend merry width coast spare say stock humble panda perfect eyebrow liar";

@@ -1,1 +1,1 @@
-var mnemonic = "boss suit upgrade text hundred ticket notable lucky keep pepper crumble jelly";
+var mnemonic = "route young uphold nature carpet faint month double hold wool very glad";
