@@ -1,1 +1,1 @@
-var mnemonic = "forward collect snake scorpion achieve lonely domain paper seek stage draw voice";
+var mnemonic = "future toddler awkward taxi genius uncover inhale height despair wreck leopard reason";

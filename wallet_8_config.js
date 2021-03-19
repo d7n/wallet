@@ -1,1 +1,1 @@
-var mnemonic = "west away fiscal apart display toddler dinosaur cluster destroy carbon used fork";
+var mnemonic = "nose close weird load then puzzle best save drill produce dad solution";

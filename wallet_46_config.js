@@ -1,1 +1,1 @@
-var mnemonic = "try change floor wall tumble tongue frozen accident lunch crack aware shrug";
+var mnemonic = "mimic mechanic vapor bag eye twenty uncover object hungry civil like fossil";

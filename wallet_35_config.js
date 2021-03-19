@@ -1,1 +1,1 @@
-var mnemonic = "orchard debris history east dinner hole buffalo man doll elbow crumble ordinary";
+var mnemonic = "buddy such melt flee kite stand like clump coconut oppose turn tunnel";

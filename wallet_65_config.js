@@ -1,1 +1,1 @@
-var mnemonic = "squeeze list credit matrix suspect what target dry neutral trash borrow jungle";
+var mnemonic = "talent boss swap voyage mass glance spoil glimpse useless legend field scrub";

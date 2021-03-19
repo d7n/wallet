@@ -1,1 +1,1 @@
-var mnemonic = "talk region best subject veteran exercise wife grit stove wife panda slam";
+var mnemonic = "hobby dream between unit cycle matrix frown hole any deer inject range";

@@ -1,1 +1,1 @@
-var mnemonic = "safe tool file jewel kick problem news elite proud inspire crane luggage";
+var mnemonic = "vacuum method giant employ matter mansion dust range fee erosion fantasy bargain";

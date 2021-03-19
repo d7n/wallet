@@ -1,1 +1,1 @@
-var mnemonic = "guard borrow minor boss prize flight physical chapter earth citizen scale observe";
+var mnemonic = "dress wife floor detail quality moment virtual learn horror render page spring";

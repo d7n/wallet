@@ -1,1 +1,1 @@
-var mnemonic = "olive flower physical false light juice gym cruel raven shop ready order";
+var mnemonic = "love pony broom steel suggest diagram again exotic ticket series myself embark";

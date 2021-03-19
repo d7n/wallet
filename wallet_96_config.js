@@ -1,1 +1,1 @@
-var mnemonic = "hour road because eye blast okay organ begin token two orphan acquire";
+var mnemonic = "suffer pull raw matrix urban supply fix photo whisper winter cruel around";

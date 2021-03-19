@@ -1,1 +1,1 @@
-var mnemonic = "property deer lizard space crane topple picnic verb gold achieve panel skull";
+var mnemonic = "detail dream clerk welcome jazz chaos fish entry then wagon imitate fatigue";

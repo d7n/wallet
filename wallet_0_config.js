@@ -1,1 +1,1 @@
-var mnemonic = "attract version fever above trash proud board faculty immune permit match opera";
+var mnemonic = "found silver boss husband amount match indoor trend excite worth busy chair";

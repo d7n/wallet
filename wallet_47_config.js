@@ -1,1 +1,1 @@
-var mnemonic = "room angle museum swarm possible coil also cage plunge deal pen already";
+var mnemonic = "develop tennis enact ridge tired future taxi sadness attack mountain labor manage";

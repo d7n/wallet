@@ -1,1 +1,1 @@
-var mnemonic = "awake solid odor sadness endorse artist sunny extra engage fiscal winter visa";
+var mnemonic = "tool tomato quit kidney horror flee permit script surprise chuckle purchase tide";

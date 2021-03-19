@@ -1,1 +1,1 @@
-var mnemonic = "amateur damage allow sell jelly open oak ski head orchard seminar quarter";
+var mnemonic = "borrow provide despair easily behave globe foil orphan opinion armor misery ability";

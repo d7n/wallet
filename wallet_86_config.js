@@ -1,1 +1,1 @@
-var mnemonic = "manage capital census wheel need arrive cushion neck solar brick impulse vanish";
+var mnemonic = "luxury you across ocean drill hip weekend reason stand brisk barely spoil";

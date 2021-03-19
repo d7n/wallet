@@ -1,1 +1,1 @@
-var mnemonic = "upon fly connect input joy please slam scrub piece traffic ride siren";
+var mnemonic = "awkward cruise can object frame ethics devote clump slogan illness provide nice";

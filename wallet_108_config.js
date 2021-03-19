@@ -1,1 +1,1 @@
-var mnemonic = "chaos guard anchor hawk birth trade soccer spare parrot grow prize vocal";
+var mnemonic = "people erase opinion fruit buffalo meadow differ festival calm secret bulb supply";

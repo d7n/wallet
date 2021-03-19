@@ -1,1 +1,1 @@
-var mnemonic = "square basic monster employ exit wink sketch hope desk prepare calm tape";
+var mnemonic = "steel isolate absurd receive noble roast estate giggle usual frog cage fortune";

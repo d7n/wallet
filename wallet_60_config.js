@@ -1,1 +1,1 @@
-var mnemonic = "alone actual profit mesh focus payment lunar solution try advance hammer argue";
+var mnemonic = "desk adult music destroy satisfy moral three apology eight credit donor unit";

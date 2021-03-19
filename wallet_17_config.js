@@ -1,1 +1,1 @@
-var mnemonic = "pet various please medal heavy vapor discover frost metal sort excite hotel";
+var mnemonic = "coyote knock acid invite strike what foster fancy funny drum book steel";

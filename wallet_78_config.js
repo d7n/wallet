@@ -1,1 +1,1 @@
-var mnemonic = "winner hobby cloud patient walk human lyrics angry scheme employ devote exile";
+var mnemonic = "legend fitness emerge include whip tool eternal host table tattoo edge grant";

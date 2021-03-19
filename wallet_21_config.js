@@ -1,1 +1,1 @@
-var mnemonic = "appear ring blossom inhale day achieve close family sudden yellow industry awful";
+var mnemonic = "table that magnet wheat noble steel opera noise undo enact yellow damp";

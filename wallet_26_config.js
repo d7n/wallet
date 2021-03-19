@@ -1,1 +1,1 @@
-var mnemonic = "eye deny dignity cruel oxygen arrow skate belt ivory rail fall torch";
+var mnemonic = "doctor bag buzz viable tired modify rely husband immune armed parade hole";

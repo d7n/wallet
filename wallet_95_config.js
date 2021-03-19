@@ -1,1 +1,1 @@
-var mnemonic = "jazz symbol tuition craft drill juice giraffe chief movie control voice escape";
+var mnemonic = "raccoon board rare hockey idea dumb entire combine ethics subject funny believe";

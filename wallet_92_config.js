@@ -1,1 +1,1 @@
-var mnemonic = "gallery secret guide crop produce tiger cricket motion aim mad street special";
+var mnemonic = "excuse fall knock wagon solution bridge lava element avoid catch avoid word";

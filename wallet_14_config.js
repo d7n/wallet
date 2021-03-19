@@ -1,1 +1,1 @@
-var mnemonic = "door horror mandate toast warm moral desk lucky middle original furnace false";
+var mnemonic = "rude indoor salad until giggle trip lemon crazy circle absorb youth cat";

@@ -1,1 +1,1 @@
-var mnemonic = "width prize color plastic sock chapter bless frame bar life frog tone";
+var mnemonic = "begin viable mutual trade page disorder goddess equip child pen flight cabin";

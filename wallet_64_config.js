@@ -1,1 +1,1 @@
-var mnemonic = "gallery roast grant clinic cable busy order stomach eager blur lake tunnel";
+var mnemonic = "crowd announce rapid era supreme silver bulb safe hair retire canal alpha";

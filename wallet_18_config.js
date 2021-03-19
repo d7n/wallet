@@ -1,1 +1,1 @@
-var mnemonic = "release owner risk filter plate neither sure wage industry video edge accident";
+var mnemonic = "satoshi enroll punch rude mimic extend song smooth elevator anxiety three invest";

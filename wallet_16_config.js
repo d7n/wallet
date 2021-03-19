@@ -1,1 +1,1 @@
-var mnemonic = "final toast valid drive police crash erode squeeze member intact focus bullet";
+var mnemonic = "family fade surprise obvious memory all hidden degree police morning rather shell";

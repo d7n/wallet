@@ -1,1 +1,1 @@
-var mnemonic = "rug renew response easy measure record magic lesson dog foot relax climb";
+var mnemonic = "speed vintage exhaust response item brown trap today art silk risk verify";

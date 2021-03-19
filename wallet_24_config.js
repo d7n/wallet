@@ -1,1 +1,1 @@
-var mnemonic = "liar midnight ivory unfold guitar bacon outside give bottom remove peace conduct";
+var mnemonic = "mushroom cake suggest dawn surprise spring glue angry travel tape solve grain";

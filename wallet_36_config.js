@@ -1,1 +1,1 @@
-var mnemonic = "rapid toward drift furnace length protect chicken census town nose manage sight";
+var mnemonic = "boss round shallow style curious acoustic volcano auction victory glue web always";

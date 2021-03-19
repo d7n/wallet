@@ -1,1 +1,1 @@
-var mnemonic = "walk hidden wire humor globe differ local bonus foil bullet arch memory";
+var mnemonic = "battle struggle buzz judge marine error story capital ankle response attract mean";

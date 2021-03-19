@@ -1,1 +1,1 @@
-var mnemonic = "chase gift attend miss inner long category miracle guitar coin siren now";
+var mnemonic = "feature betray brain scare scrap mesh stone carpet produce kiss extra acid";

@@ -1,1 +1,1 @@
-var mnemonic = "panther drink sunset venture virtual lonely index trim radio else rapid buzz";
+var mnemonic = "knock arrest tent ready blur employ brass drama smoke sibling diary old";

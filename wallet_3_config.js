@@ -1,1 +1,1 @@
-var mnemonic = "roast lion price adult outdoor south liquid bulk often bundle art relax";
+var mnemonic = "shine shuffle bounce series relief diamond runway weapon trophy punch team usual";

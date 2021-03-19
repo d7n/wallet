@@ -1,1 +1,1 @@
-var mnemonic = "furnace problem spawn involve symptom body globe metal orphan music expand cannon";
+var mnemonic = "jump case outer night enjoy surprise clock agree brief recycle stick nest";

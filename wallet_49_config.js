@@ -1,1 +1,1 @@
-var mnemonic = "enough allow away churn athlete chunk month flat another repair cry unaware";
+var mnemonic = "mirror nest baby save today october glue midnight oxygen waste oven you";

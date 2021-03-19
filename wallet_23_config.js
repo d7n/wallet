@@ -1,1 +1,1 @@
-var mnemonic = "wild member fame two bean raw intact industry level motion figure there";
+var mnemonic = "cake crop client adapt worth dwarf art utility measure anxiety screen debris";

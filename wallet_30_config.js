@@ -1,1 +1,1 @@
-var mnemonic = "electric antenna eye output grow six country defy olive giraffe coil weather";
+var mnemonic = "sure suffer mercy run federal host hat type buzz jar useless bind";

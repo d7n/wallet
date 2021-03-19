@@ -1,1 +1,1 @@
-var mnemonic = "shallow knock carbon photo barrel fall swear win gallery artefact quick trim";
+var mnemonic = "safe cool fabric spirit people alien velvet mosquito caught ill minimum sort";

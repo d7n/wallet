@@ -1,1 +1,1 @@
-var mnemonic = "memory disease flag siren tiger change energy raw federal friend foam chronic";
+var mnemonic = "point vague sunset swim lottery drastic wise burst panther crop army ozone";

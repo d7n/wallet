@@ -1,1 +1,1 @@
-var mnemonic = "used brave review forward student mesh unit seminar finger silk swing capable";
+var mnemonic = "measure trip unknown input school fuel female lawsuit update casual require crime";

@@ -1,1 +1,1 @@
-var mnemonic = "vast swift brown brass fortune describe arch super evoke frozen moment like";
+var mnemonic = "rice print letter car physical hotel run eager girl sleep card few";

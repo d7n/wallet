@@ -1,1 +1,1 @@
-var mnemonic = "trim topple clean alarm survey assume hundred immense language useless inmate helmet";
+var mnemonic = "rough deal write broccoli funny burst head visual city shell wagon beauty";

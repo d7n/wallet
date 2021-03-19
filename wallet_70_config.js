@@ -1,1 +1,1 @@
-var mnemonic = "soccer topic make goddess occur deliver emerge predict repeat setup scheme divert";
+var mnemonic = "bring wise series swim maple alert elephant lounge dove sugar immense canoe";

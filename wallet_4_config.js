@@ -1,1 +1,1 @@
-var mnemonic = "equal undo auction car impact wrist patch brand blur shuffle hockey size";
+var mnemonic = "object raw cash cart panther neither filter misery tennis name filter topic";

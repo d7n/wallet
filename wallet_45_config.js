@@ -1,1 +1,1 @@
-var mnemonic = "city matter step impact barrel poverty relax nation illegal burger raw frequent";
+var mnemonic = "stereo radio only picture earth work defy fault keep walk staff today";

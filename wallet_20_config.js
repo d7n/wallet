@@ -1,1 +1,1 @@
-var mnemonic = "sugar addict furnace artwork seed fence save toddler enforce fiber notable hockey";
+var mnemonic = "urge wife tomorrow alter ice bean exclude settle wise actress palm chef";

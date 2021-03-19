@@ -1,1 +1,1 @@
-var mnemonic = "tattoo glass half audit outside poem garbage tooth waste phrase snake total";
+var mnemonic = "ugly enhance moment duty various protect logic rocket clinic lemon rough spread";

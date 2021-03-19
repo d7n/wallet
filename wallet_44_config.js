@@ -1,1 +1,1 @@
-var mnemonic = "repair tent recall sick avocado hurry trigger short have series february account";
+var mnemonic = "double shuffle turtle milk rule tomorrow vintage twice code zone play view";

@@ -1,1 +1,1 @@
-var mnemonic = "box chunk explain wave rail asset obvious slight uniform fossil upset chronic";
+var mnemonic = "camp cart beach crater gadget never pond inform idea parent cube invite";

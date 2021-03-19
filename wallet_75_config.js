@@ -1,1 +1,1 @@
-var mnemonic = "midnight couch foam someone hello fun despair imitate clown shaft poem patient";
+var mnemonic = "various tiger party permit weasel fire square absent junior obtain curve globe";

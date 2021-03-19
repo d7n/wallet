@@ -1,1 +1,1 @@
-var mnemonic = "kidney choice network during struggle unfold hood fit notice certain hollow member";
+var mnemonic = "foil elite cube tenant van frame tuition vicious clutch valid ask dry";

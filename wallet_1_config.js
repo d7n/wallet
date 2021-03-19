@@ -1,1 +1,1 @@
-var mnemonic = "shy nest clutch piano candy pig pudding car exit unfair jazz advance";
+var mnemonic = "word three truly pattern volume zone anxiety subway census cruel timber essay";

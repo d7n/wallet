@@ -1,1 +1,1 @@
-var mnemonic = "urge ecology boil lava erode project quantum apple biology program calm kingdom";
+var mnemonic = "erosion blade slow globe skate biology odor sugar olympic helmet jar any";

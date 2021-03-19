@@ -1,1 +1,1 @@
-var mnemonic = "anchor script boil float mutual measure parent arm photo exhaust connect dizzy";
+var mnemonic = "solve aware view risk twin hazard champion rebuild obvious turkey antique token";

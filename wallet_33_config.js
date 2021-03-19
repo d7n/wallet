@@ -1,1 +1,1 @@
-var mnemonic = "involve busy cream universe luxury follow paddle loan sunny weasel crime mirror";
+var mnemonic = "mammal body install photo element purse this diesel limit rose top home";

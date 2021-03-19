@@ -1,1 +1,1 @@
-var mnemonic = "bulb company fog speed journey wolf ghost spread notable tunnel suggest subject";
+var mnemonic = "rent typical crunch clinic pole magnet airport mass dry impulse beach tuition";

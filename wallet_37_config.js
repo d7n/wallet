@@ -1,1 +1,1 @@
-var mnemonic = "saddle hub lunch north frozen have garment tell mouse wine join denial";
+var mnemonic = "leader act learn true rug hat neutral speed caught become quality few";

@@ -1,1 +1,1 @@
-var mnemonic = "hello illegal fish yard nice wall road tomorrow symptom muffin garden gadget";
+var mnemonic = "primary useless solid laundry typical hotel bottom autumn brush fragile evidence decide";

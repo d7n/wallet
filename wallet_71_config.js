@@ -1,1 +1,1 @@
-var mnemonic = "avocado indicate useful adult brush push company mosquito surface course prosper job";
+var mnemonic = "genius piano program rebel board uncover income desk vapor pizza crop few";

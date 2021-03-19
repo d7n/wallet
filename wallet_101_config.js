@@ -1,1 +1,1 @@
-var mnemonic = "cook shaft ring leisure acquire ball oil yellow soup venture scene erode";
+var mnemonic = "crucial obscure magnet evoke reject hunt radio pattern oval ask used must";

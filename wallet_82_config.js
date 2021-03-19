@@ -1,1 +1,1 @@
-var mnemonic = "draw woman sausage deer audit member solar universe distance hero grape liquid";
+var mnemonic = "frost embody parrot race mango cupboard above clump again fresh rebel myself";

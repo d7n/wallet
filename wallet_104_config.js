@@ -1,1 +1,1 @@
-var mnemonic = "music pyramid duck code velvet saddle popular remember slice rhythm hospital trial";
+var mnemonic = "pill door noodle valley grace have clutch violin fire economy solve cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue quick cycle reform try pet lunar avoid print vanish monster balance";
+var mnemonic = "viable mixture velvet swallow uncover fresh topic multiply square inform romance boil";

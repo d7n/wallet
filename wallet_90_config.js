@@ -1,1 +1,1 @@
-var mnemonic = "visa coach mixed install talk sister lift hidden consider salon uncover wait";
+var mnemonic = "excess outside penalty spell fiction estate boost voyage jelly connect engage grid";

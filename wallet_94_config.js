@@ -1,1 +1,1 @@
-var mnemonic = "stick jaguar poem shadow shift list burst recycle useless shell hill stem";
+var mnemonic = "cabbage end dutch damp flee run scale age fetch drama fade seek";

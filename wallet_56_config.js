@@ -1,1 +1,1 @@
-var mnemonic = "prevent brisk food inspire rifle prison wage child category into term mansion";
+var mnemonic = "arch crawl sun system sponsor hand credit output trigger bamboo firm anxiety";

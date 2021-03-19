@@ -1,1 +1,1 @@
-var mnemonic = "asset unable unusual current focus umbrella brave fish exact demise rude always";
+var mnemonic = "cover worry risk girl stay fantasy saddle upgrade task will ivory stamp";

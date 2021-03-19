@@ -1,1 +1,1 @@
-var mnemonic = "gift blossom render lion skill upset elevator electric diet move okay manage";
+var mnemonic = "awake tired column spice math assume destroy wheat tent betray report rhythm";

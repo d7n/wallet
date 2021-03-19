@@ -1,1 +1,1 @@
-var mnemonic = "ugly derive snack prefer gentle gorilla news crane vote submit ill illegal";
+var mnemonic = "into verify base shove run tribe food relax great left wave match";

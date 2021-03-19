@@ -1,1 +1,1 @@
-var mnemonic = "milk eyebrow tray robust identify spin narrow stock field hotel sight cave";
+var mnemonic = "robot estate age spoil mail ecology cute mammal shift price hero teach";

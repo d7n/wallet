@@ -1,1 +1,1 @@
-var mnemonic = "average genuine home oppose march ticket area section scale clerk blame find";
+var mnemonic = "swim party strike skin coyote pistol indicate crush image stadium romance foot";

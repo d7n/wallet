@@ -1,1 +1,1 @@
-var mnemonic = "smooth express bitter blanket random spread crumble lunar soap extend fun couch";
+var mnemonic = "road few benefit prosper fault pencil shrimp habit catalog end upper domain";

@@ -1,1 +1,1 @@
-var mnemonic = "garment glimpse axis vendor tonight ribbon mixed near cover hair six goose";
+var mnemonic = "humble verb snake help latin noise they extra blossom shy alter print";

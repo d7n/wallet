@@ -1,1 +1,1 @@
-var mnemonic = "tree prize blouse crush drum pause upper rough salt give rate chalk";
+var mnemonic = "crash live base evil answer must lobster grab toward boost pause fiction";

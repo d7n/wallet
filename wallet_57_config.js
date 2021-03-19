@@ -1,1 +1,1 @@
-var mnemonic = "supreme dice vacuum hero joke awful timber october item normal bargain double";
+var mnemonic = "dose science boring vital wife art image motion disorder purse interest plastic";

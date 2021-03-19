@@ -1,1 +1,1 @@
-var mnemonic = "city myth rose cattle sunset vibrant ivory aunt connect cancel sweet gaze";
+var mnemonic = "divide dust culture busy release tool easily winner duck end guitar black";

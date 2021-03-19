@@ -1,1 +1,1 @@
-var mnemonic = "train animal swim green board problem walk meat blossom harbor share struggle";
+var mnemonic = "mistake broom exit kitten notice agent flat merry palace vintage route tag";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep hobby plug stem report end sunny help sausage faculty language add";
+var mnemonic = "spirit desk clog shiver shuffle donkey opera steak tail liquid issue echo";

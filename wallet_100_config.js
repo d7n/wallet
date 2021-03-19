@@ -1,1 +1,1 @@
-var mnemonic = "meadow mystery grab income athlete leader plunge swarm crystal order crawl unfair";
+var mnemonic = "shrimp fitness silly civil destroy mercy only struggle once region lab chapter";

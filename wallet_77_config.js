@@ -1,1 +1,1 @@
-var mnemonic = "rapid snake clown target multiply news vivid flat chimney galaxy culture echo";
+var mnemonic = "glance cushion ginger dream bounce mystery window spatial risk monster loud ivory";

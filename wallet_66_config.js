@@ -1,1 +1,1 @@
-var mnemonic = "fiscal equal clutch picture spider reopen blush cereal bean romance measure quit";
+var mnemonic = "task traffic chunk taxi verify track evoke fish strike explain style early";

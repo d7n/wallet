@@ -1,1 +1,1 @@
-var mnemonic = "credit bottom chase chef romance athlete sphere blossom extra tuition area sniff";
+var mnemonic = "patrol thumb oblige brush visit option saddle shell media lion stool clump";

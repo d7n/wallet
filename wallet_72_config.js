@@ -1,1 +1,1 @@
-var mnemonic = "clarify urge wonder roast half want select noise age motion veteran omit";
+var mnemonic = "antenna chef violin undo aware coast desert cross prison simple plug destroy";

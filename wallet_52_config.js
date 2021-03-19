@@ -1,1 +1,1 @@
-var mnemonic = "distance note decide mixed rather envelope chase coil fury physical turkey popular";
+var mnemonic = "upper garbage card tattoo chase exercise anger advice sadness can column gospel";

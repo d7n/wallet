@@ -1,1 +1,1 @@
-var mnemonic = "fluid fine october shrug cousin embody cattle oyster enjoy better sea black";
+var mnemonic = "amazing obey grant indoor loop advance pupil bubble tonight announce fruit attend";

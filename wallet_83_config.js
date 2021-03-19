@@ -1,1 +1,1 @@
-var mnemonic = "baby over deny hobby woman combine amount foil door rack clinic push";
+var mnemonic = "toilet awesome board bench bridge gallery protect announce fan urban yard reform";

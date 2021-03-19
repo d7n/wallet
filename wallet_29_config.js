@@ -1,1 +1,1 @@
-var mnemonic = "kitten error stamp pluck cherry sister satisfy pioneer decade other assist latin";
+var mnemonic = "best start piano youth fluid offer best alpha liar tent raw capable";

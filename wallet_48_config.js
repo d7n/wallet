@@ -1,1 +1,1 @@
-var mnemonic = "rate police curtain spread scale trial wrist hint ranch tooth gift ticket";
+var mnemonic = "salute maze black maze suspect level razor pond utility glance salad wise";

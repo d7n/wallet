@@ -1,1 +1,1 @@
-var mnemonic = "armor comfort flock remove auction leisure music when coast what rural mix";
+var mnemonic = "report grace hope girl congress faculty dash ceiling home minute large wool";

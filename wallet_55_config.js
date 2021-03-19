@@ -1,1 +1,1 @@
-var mnemonic = "decide hold resemble plastic swing timber spike anger curve person liquid safe";
+var mnemonic = "pledge december way mistake next hero vintage subject trade cave audit caution";
