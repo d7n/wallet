@@ -1,1 +1,1 @@
-var mnemonic = "harvest night grunt jazz benefit fit provide resemble illegal frequent mango craft";
+var mnemonic = "element easy enhance oil way rebuild actress shoe check suspect mind orphan";

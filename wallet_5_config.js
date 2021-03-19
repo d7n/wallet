@@ -1,1 +1,1 @@
-var mnemonic = "orbit benefit lady cake royal advice scheme tattoo tone nature cycle coast";
+var mnemonic = "chef short trust coast mention erode task sing exotic add victory pumpkin";

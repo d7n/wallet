@@ -1,1 +1,1 @@
-var mnemonic = "erosion adapt throw spider review affair shaft trial betray eternal clip act";
+var mnemonic = "volume priority arrive program isolate enrich list army core ship seek parent";

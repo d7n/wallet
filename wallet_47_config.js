@@ -1,1 +1,1 @@
-var mnemonic = "festival timber stay bacon love valid dove honey crack royal ritual what";
+var mnemonic = "pool canyon cruise egg radio wing arm robot omit walk faculty purse";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn loan burst bacon common october shoot game cricket twenty evoke cram";
+var mnemonic = "fire nothing stage exchange region destroy garlic kitchen globe term soft floor";

@@ -1,1 +1,1 @@
-var mnemonic = "focus erase drum current scene strike round husband cannon regular addict spatial";
+var mnemonic = "response blush category outer brass video fog thought farm chapter dish theory";

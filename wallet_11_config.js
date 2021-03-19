@@ -1,1 +1,1 @@
-var mnemonic = "imitate recall party sibling grape gate nerve flash donate chief peasant antenna";
+var mnemonic = "pizza strategy swarm ensure zoo science toast gather zoo blind race reveal";

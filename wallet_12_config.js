@@ -1,1 +1,1 @@
-var mnemonic = "chuckle market saddle zone crowd dolphin beef test spider wrestle danger copy";
+var mnemonic = "smoke twelve loan turkey victory economy change system predict six frequent mechanic";

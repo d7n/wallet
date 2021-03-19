@@ -1,1 +1,1 @@
-var mnemonic = "hand gauge amused only cheap hurry annual job fury wave disease segment";
+var mnemonic = "employ teach chapter demise happy admit love chat obey pill end confirm";

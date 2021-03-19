@@ -1,1 +1,1 @@
-var mnemonic = "solution target purchase arrive gesture nose night solid build stone write echo";
+var mnemonic = "snake party chuckle express luxury humble cat choice goat orange odor bounce";

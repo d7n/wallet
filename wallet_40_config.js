@@ -1,1 +1,1 @@
-var mnemonic = "speak casino cement aunt mouse drop proud genuine inherit clerk luggage humble";
+var mnemonic = "favorite slot train loud hello spider half leg small allow spare napkin";

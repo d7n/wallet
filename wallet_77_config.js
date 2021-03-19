@@ -1,1 +1,1 @@
-var mnemonic = "visa latin grief vague primary trial harsh town problem nerve meadow nerve";
+var mnemonic = "glimpse pave dune woman select glory acid attend gloom breeze easily liberty";

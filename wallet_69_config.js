@@ -1,1 +1,1 @@
-var mnemonic = "link ethics host magic also spike fringe combine raw candy slight shock";
+var mnemonic = "ahead measure shaft bubble choice riot address mobile mass stool action modify";

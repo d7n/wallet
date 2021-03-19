@@ -1,1 +1,1 @@
-var mnemonic = "palace celery access rabbit dream local circle digital girl swallow toast wedding";
+var mnemonic = "turn brave child social same rescue kiwi family armor giggle great fork";

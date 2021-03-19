@@ -1,1 +1,1 @@
-var mnemonic = "address caught champion usual winter old world piece upon large vehicle brand";
+var mnemonic = "inmate prosper only venture romance heavy urge achieve embrace heavy abstract office";

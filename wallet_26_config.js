@@ -1,1 +1,1 @@
-var mnemonic = "teach rally baby again moon safe trim update achieve ensure vicious response";
+var mnemonic = "angry vessel kite guard ice permit price kidney exist stairs sleep blade";

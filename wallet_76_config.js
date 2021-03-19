@@ -1,1 +1,1 @@
-var mnemonic = "vague talent hammer obtain cheap town toilet sample theory defy bench put";
+var mnemonic = "key ramp unlock denial grass jewel swing outside certain onion scatter mother";

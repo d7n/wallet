@@ -1,1 +1,1 @@
-var mnemonic = "saddle believe orphan ensure coral decade soap hello crane hover they oppose";
+var mnemonic = "someone wash wine science audit enemy crucial exile fabric tail remain wine";

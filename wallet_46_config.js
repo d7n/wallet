@@ -1,1 +1,1 @@
-var mnemonic = "ivory donate reward because achieve target rotate drip brain blame domain forget";
+var mnemonic = "defense behind cake today end movie lens action carbon tattoo fresh gossip";

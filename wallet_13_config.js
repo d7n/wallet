@@ -1,1 +1,1 @@
-var mnemonic = "quiz fashion talk slow size exhibit thrive advice monitor estate elegant desk";
+var mnemonic = "venture lawsuit crunch witness hospital cube inflict uniform prosper chapter dignity sponsor";

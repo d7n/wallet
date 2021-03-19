@@ -1,1 +1,1 @@
-var mnemonic = "flash repair cabin father case unaware penalty stay corn celery expect stereo";
+var mnemonic = "intact member audit jungle fantasy tower again miss half cactus cattle fiction";

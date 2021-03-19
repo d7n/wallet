@@ -1,1 +1,1 @@
-var mnemonic = "garden weather alien earth auction shove shield culture seat office crowd coconut";
+var mnemonic = "guide forget fossil vicious deer enter reason album tree danger area industry";

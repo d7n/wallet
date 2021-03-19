@@ -1,1 +1,1 @@
-var mnemonic = "cradle stumble zero remind sound average face come fly lobster pilot saddle";
+var mnemonic = "spell sheriff monkey girl true butter analyst youth night humble used execute";

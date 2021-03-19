@@ -1,1 +1,1 @@
-var mnemonic = "jewel daring model boy pattern aerobic shoulder clown winner artefact fancy illness";
+var mnemonic = "boost tag casual pill swing hybrid toilet one clutch connect project derive";

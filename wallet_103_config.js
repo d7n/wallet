@@ -1,1 +1,1 @@
-var mnemonic = "tail box truly ten item next exact there merge bamboo grant gate";
+var mnemonic = "benefit record replace alone random giggle habit train naive grant soda kid";

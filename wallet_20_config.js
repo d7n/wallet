@@ -1,1 +1,1 @@
-var mnemonic = "top alter candy repair ceiling renew gesture mimic movie inside faith theory";
+var mnemonic = "enable beach venture hero oppose tower observe image aim table ritual tomorrow";

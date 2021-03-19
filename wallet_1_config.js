@@ -1,1 +1,1 @@
-var mnemonic = "hole negative bridge elegant sphere visa provide popular path pencil warfare deny";
+var mnemonic = "always bottom pioneer dawn force tunnel embark hire lesson syrup velvet face";

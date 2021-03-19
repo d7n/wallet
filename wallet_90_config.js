@@ -1,1 +1,1 @@
-var mnemonic = "focus enhance almost recipe hover loud know possible copy color inmate electric";
+var mnemonic = "spoon they column benefit easily sunset health crazy sleep intact situate frog";

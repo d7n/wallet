@@ -1,1 +1,1 @@
-var mnemonic = "office total essay current myth enforce cereal dice consider primary marble metal";
+var mnemonic = "range donate become advice emotion flip ethics output job very more science";

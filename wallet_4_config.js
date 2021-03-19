@@ -1,1 +1,1 @@
-var mnemonic = "act select arch repair mango orbit chest grocery sleep fine easily rally";
+var mnemonic = "budget throw soon host bullet reunion fuel kitten dignity wheel village clean";

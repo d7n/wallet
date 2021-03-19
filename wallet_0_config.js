@@ -1,1 +1,1 @@
-var mnemonic = "model relax feature warfare camera camera law domain behave gallery wave welcome";
+var mnemonic = "purpose soft puzzle magic ten shell close notice year novel wrap walk";

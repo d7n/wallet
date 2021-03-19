@@ -1,1 +1,1 @@
-var mnemonic = "change cake hole cruise craft salmon dawn exile various float move oxygen";
+var mnemonic = "proof float access switch garage tell worry soul price mammal pupil speed";

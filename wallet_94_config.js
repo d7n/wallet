@@ -1,1 +1,1 @@
-var mnemonic = "owner orient border text invest install search position kite fame jeans invest";
+var mnemonic = "wolf bridge cannon history snake elevator reveal illness possible material lottery recipe";

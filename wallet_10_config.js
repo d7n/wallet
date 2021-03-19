@@ -1,1 +1,1 @@
-var mnemonic = "sure patient essay layer jealous place spot hair yard demise frown decrease";
+var mnemonic = "expose depend rocket fan issue exchange aware obscure hello vast primary divorce";

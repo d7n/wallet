@@ -1,1 +1,1 @@
-var mnemonic = "silly armed choice beef ship ribbon want music payment picture oblige garment";
+var mnemonic = "calm unveil toast such guitar walnut favorite armed midnight smooth dice sphere";

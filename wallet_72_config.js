@@ -1,1 +1,1 @@
-var mnemonic = "model satoshi confirm original actor drink net second rifle aisle hill budget";
+var mnemonic = "annual dog equip surprise endorse truly shaft fabric jungle basket since bag";

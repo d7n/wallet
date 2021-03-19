@@ -1,1 +1,1 @@
-var mnemonic = "account door account unusual climb funny lemon cousin jealous identify chicken grace";
+var mnemonic = "stumble impose deliver grunt fee evoke oxygen tomorrow suit swim empty man";

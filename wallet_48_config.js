@@ -1,1 +1,1 @@
-var mnemonic = "purchase use glove subway broom marine pair brand knock shed gun jeans";
+var mnemonic = "rapid visual sleep noodle mad delay purity stamp diamond sauce capable motion";

@@ -1,1 +1,1 @@
-var mnemonic = "illness cover forest ostrich donkey clerk make crash buffalo unveil random foam";
+var mnemonic = "shop vessel pulse menu swamp retreat cheese hub dynamic ill bounce dress";

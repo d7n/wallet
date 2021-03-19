@@ -1,1 +1,1 @@
-var mnemonic = "wage mammal view pattern blood estate interest gasp photo gain awkward whip";
+var mnemonic = "brother marble near near useful ceiling mutual illegal recycle math pitch index";

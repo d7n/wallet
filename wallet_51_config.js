@@ -1,1 +1,1 @@
-var mnemonic = "robot silk patient onion glad wear naive problem ethics seven nice lamp";
+var mnemonic = "afford jeans wet license dash jewel brain balance raw bike property shadow";

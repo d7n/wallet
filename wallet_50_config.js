@@ -1,1 +1,1 @@
-var mnemonic = "ride bunker special reopen unable you cute dynamic lab pull salt crane";
+var mnemonic = "century tonight cancel battle celery room main change debris want front truck";

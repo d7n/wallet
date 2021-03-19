@@ -1,1 +1,1 @@
-var mnemonic = "camp symptom scout tell holiday glow marble wide average safe actor jacket";
+var mnemonic = "layer tuna unlock pioneer bacon mother exact setup choice danger buffalo earn";

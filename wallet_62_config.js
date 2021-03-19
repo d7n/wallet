@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur resemble ready kid scrap lion young boring amazing danger trend scrap";
+var mnemonic = "donor expire month include embrace leg fortune floor regular soon genuine captain";

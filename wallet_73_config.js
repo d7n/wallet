@@ -1,1 +1,1 @@
-var mnemonic = "kitchen mountain fish urge raise suggest fit buffalo mobile insect priority abstract";
+var mnemonic = "abandon admit utility damage climb wine hand skate agree metal among daughter";

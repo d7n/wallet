@@ -1,1 +1,1 @@
-var mnemonic = "kitten there save rude upgrade bronze crouch pretty luxury royal boy right";
+var mnemonic = "flee blossom rookie capable then all mean weasel renew exhibit gain also";

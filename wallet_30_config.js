@@ -1,1 +1,1 @@
-var mnemonic = "shadow salon mean holiday fringe limit upgrade same resist employ kiwi right";
+var mnemonic = "diamond glass lottery essence degree gentle elite brain then giraffe again stock";

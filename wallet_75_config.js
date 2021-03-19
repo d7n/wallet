@@ -1,1 +1,1 @@
-var mnemonic = "code width alter congress doll usual flower joke taste ocean mandate glove";
+var mnemonic = "accuse swear seven spoil border inmate snap boy loyal major still limb";

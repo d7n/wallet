@@ -1,1 +1,1 @@
-var mnemonic = "solve chicken stem runway off dance scorpion silent tower essence thank typical";
+var mnemonic = "kangaroo cradle budget rose boy nest two add talk ordinary seed phone";

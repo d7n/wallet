@@ -1,1 +1,1 @@
-var mnemonic = "stereo winner file movie giggle what pole window planet song rent smoke";
+var mnemonic = "delay region library maid few arrest sheriff elder case work damp what";

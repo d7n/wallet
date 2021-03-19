@@ -1,1 +1,1 @@
-var mnemonic = "just castle demand erosion thank surprise ocean wealth link estate vintage target";
+var mnemonic = "valley guard salt tired give steel film retire gun reform start sibling";

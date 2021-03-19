@@ -1,1 +1,1 @@
-var mnemonic = "inflict decrease swamp best top blue rack thumb orange female fame trouble";
+var mnemonic = "puzzle quantum skull unlock fish ring chimney spare domain cigar robot friend";

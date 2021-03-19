@@ -1,1 +1,1 @@
-var mnemonic = "baby faint visa tube random about rack mouse hard change snow vintage";
+var mnemonic = "shallow pet mad garbage light blur balcony confirm begin frequent seat surround";

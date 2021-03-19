@@ -1,1 +1,1 @@
-var mnemonic = "camera yellow million cheap rubber turkey bronze crunch muscle wrist artist census";
+var mnemonic = "opinion license gain roof cover olympic recipe cinnamon kangaroo cargo mansion elegant";

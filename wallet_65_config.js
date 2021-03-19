@@ -1,1 +1,1 @@
-var mnemonic = "garlic liar upper boy whip they surface edit will multiply cushion eager";
+var mnemonic = "trial peanut power bean laptop weapon vivid element work museum master lion";

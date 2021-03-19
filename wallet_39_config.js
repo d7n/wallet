@@ -1,1 +1,1 @@
-var mnemonic = "prosper film over advance hair sell party brain typical thumb vague negative";
+var mnemonic = "van zoo horror pet waste opera dish language side symbol climb unable";

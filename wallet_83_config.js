@@ -1,1 +1,1 @@
-var mnemonic = "spoon excess office icon angry kite dentist arrow bridge situate width decorate";
+var mnemonic = "duty seminar cute weapon video fat void squeeze pass glare merge endorse";

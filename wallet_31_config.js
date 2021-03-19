@@ -1,1 +1,1 @@
-var mnemonic = "crane impact undo addict carry ritual crazy lava leg comic brave curious";
+var mnemonic = "cook pet black permit vendor battle march smart leader evoke inherit remain";

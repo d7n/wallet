@@ -1,1 +1,1 @@
-var mnemonic = "series once man fantasy action welcome horror gorilla smoke office hollow message";
+var mnemonic = "ceiling stand clutch buffalo thank mixture move various cushion still gravity cluster";

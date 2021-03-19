@@ -1,1 +1,1 @@
-var mnemonic = "dilemma fortune toy ripple decline rigid palm during media disagree easily pool";
+var mnemonic = "pottery bomb funny crane already wonder barely impose concert seminar play mango";

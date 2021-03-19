@@ -1,1 +1,1 @@
-var mnemonic = "symptom slice infant orchard boost gesture vicious weekend luxury ticket tunnel absorb";
+var mnemonic = "slab embrace upper emerge bike riot dinner never crucial fat spend often";

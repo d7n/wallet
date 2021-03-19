@@ -1,1 +1,1 @@
-var mnemonic = "sock depart capital person impact recipe enough neither gorilla distance deny physical";
+var mnemonic = "sorry onion other proud twice hunt goat opinion logic empower model walk";

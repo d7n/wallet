@@ -1,1 +1,1 @@
-var mnemonic = "hard course usage accuse inquiry daughter wood skull stand elevator pact receive";
+var mnemonic = "affair flat promote giggle primary wreck ginger act conduct inquiry protect electric";

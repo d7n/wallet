@@ -1,1 +1,1 @@
-var mnemonic = "demise lawsuit trip second luggage bench build tree hospital eager alcohol agent";
+var mnemonic = "globe aisle topic hint garlic flower damp nerve valley because easy rough";

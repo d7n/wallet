@@ -1,1 +1,1 @@
-var mnemonic = "sheriff mirror icon pudding truth token captain siege laundry album stairs spring";
+var mnemonic = "unknown bench trick bright sorry hurry asthma rhythm pledge small advice right";

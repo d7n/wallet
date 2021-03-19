@@ -1,1 +1,1 @@
-var mnemonic = "shrimp earn crowd typical slim decide belt rebuild friend panic gown turtle";
+var mnemonic = "insect crime ice symbol rail monkey urge weasel protect anxiety tell juice";

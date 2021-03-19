@@ -1,1 +1,1 @@
-var mnemonic = "cross oval sentence emotion skirt amused allow rely release solve ankle fire";
+var mnemonic = "accuse must winner tuna borrow ethics quality call option neck much fitness";

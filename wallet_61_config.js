@@ -1,1 +1,1 @@
-var mnemonic = "license palm veteran exotic trial market simple cancel output drip wealth settle";
+var mnemonic = "model possible quick wage local popular token include opera fever clarify trend";

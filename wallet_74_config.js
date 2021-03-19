@@ -1,1 +1,1 @@
-var mnemonic = "nerve inform upset project axis hungry grit wash labor explain lake pill";
+var mnemonic = "canal soap pulp radar rib nurse member wrap wagon tide garden razor";

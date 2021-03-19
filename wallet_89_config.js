@@ -1,1 +1,1 @@
-var mnemonic = "become expire toss episode report beauty fiber reveal during climb category ethics";
+var mnemonic = "pottery craft swear index wine view world uncle exile sick own visit";

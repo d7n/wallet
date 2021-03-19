@@ -1,1 +1,1 @@
-var mnemonic = "energy zero direct stock later combine enlist detail tragic boost citizen power";
+var mnemonic = "actual amateur talk news protect beyond pigeon unique mom august exchange toward";

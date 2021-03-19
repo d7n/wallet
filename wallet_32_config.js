@@ -1,1 +1,1 @@
-var mnemonic = "control hollow whale guilt custom fame jaguar repeat visit false tilt crouch";
+var mnemonic = "sadness clerk dial acquire head van diet imitate caught ask census save";

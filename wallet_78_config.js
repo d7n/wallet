@@ -1,1 +1,1 @@
-var mnemonic = "industry filter once flock nut thank actor insect smooth surge try infant";
+var mnemonic = "group vital cruise zone again call turtle gauge orient boy fine grid";

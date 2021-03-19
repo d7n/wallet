@@ -1,1 +1,1 @@
-var mnemonic = "sweet occur skate strong hungry want tired bullet address defy high must";
+var mnemonic = "shine road gesture doll distance harbor slush bicycle exit pottery kind online";

@@ -1,1 +1,1 @@
-var mnemonic = "improve jealous enrich pudding quantum ridge welcome robot cinnamon apple pave coyote";
+var mnemonic = "earn arrest topple butter glue bean staff smoke client patrol diet rare";

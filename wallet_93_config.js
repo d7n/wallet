@@ -1,1 +1,1 @@
-var mnemonic = "surround kiss timber razor day lake crowd opinion strategy answer brown pig";
+var mnemonic = "surface rose victory jacket reward remain pupil pupil must live great frog";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle trouble risk omit online frown limit usual swear wisdom help truck";
+var mnemonic = "fancy that crazy math orange surprise one delay point legend shock sniff";

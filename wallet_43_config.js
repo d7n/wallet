@@ -1,1 +1,1 @@
-var mnemonic = "bulk water indicate suggest property yard airport power silent patch warm ribbon";
+var mnemonic = "fall wall slight gossip scheme immense fatal prosper crowd horn riot system";

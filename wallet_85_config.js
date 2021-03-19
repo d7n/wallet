@@ -1,1 +1,1 @@
-var mnemonic = "unhappy pact miss deal ritual text suffer witness weird change domain metal";
+var mnemonic = "logic key rescue wonder clutch father abstract arch output science spider wide";

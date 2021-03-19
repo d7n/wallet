@@ -1,1 +1,1 @@
-var mnemonic = "rebuild skin race switch exile broccoli equal enter prevent merry trumpet office";
+var mnemonic = "blanket differ panda asthma myth before attitude brisk veteran assume hawk claw";

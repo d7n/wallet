@@ -1,1 +1,1 @@
-var mnemonic = "orient dice inform road illness romance angry arch delay month arctic draft";
+var mnemonic = "horn birth famous hotel rose glove faint media elevator pill slot adapt";

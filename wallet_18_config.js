@@ -1,1 +1,1 @@
-var mnemonic = "piece chapter defense wrist just verb under biology milk program salmon shadow";
+var mnemonic = "lunar improve hotel monster sell surround tray wrist ecology artwork liberty mushroom";

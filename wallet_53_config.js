@@ -1,1 +1,1 @@
-var mnemonic = "sad goat pipe curious reject orbit exercise bag iron episode depart cherry";
+var mnemonic = "leaf strong question frame drill drum collect front runway excess unknown forward";

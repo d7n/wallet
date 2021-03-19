@@ -1,1 +1,1 @@
-var mnemonic = "kite enroll tired brick enable sing wedding attract seat sadness affair digital";
+var mnemonic = "fluid van silly fortune boss mule document round setup rabbit impose ritual";

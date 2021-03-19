@@ -1,1 +1,1 @@
-var mnemonic = "fire opinion together oval picnic depart confirm tomato input edge fringe buyer";
+var mnemonic = "crew annual bless banner aware jacket civil chalk odor palm ugly claw";

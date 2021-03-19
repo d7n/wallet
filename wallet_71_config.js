@@ -1,1 +1,1 @@
-var mnemonic = "pioneer toss catch deal grain mystery canoe toe cream notice sing will";
+var mnemonic = "silent math ride vacuum atom eagle dismiss lobster odor train sting taste";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey obscure peace basket post hurry antique gown fatigue exclude civil planet";
+var mnemonic = "orphan embark general garbage gain limb begin phone view business jungle argue";
