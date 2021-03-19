@@ -1,1 +1,1 @@
-var mnemonic = "wedding decide early cover tip orange spin wheat clean transfer fix gospel";
+var mnemonic = "aerobic any coyote diesel educate share slow fine popular valid myth retire";

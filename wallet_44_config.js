@@ -1,1 +1,1 @@
-var mnemonic = "modify fuel cash correct hospital broccoli arm two regular live arrive treat";
+var mnemonic = "solar gain wool noble lecture lava curve route museum chicken luggage blur";

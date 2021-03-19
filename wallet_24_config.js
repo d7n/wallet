@@ -1,1 +1,1 @@
-var mnemonic = "brain awful damage fold symbol family announce stuff physical update thing equal";
+var mnemonic = "blast extend engage curtain farm dinosaur mind illegal doll cave truck morning";

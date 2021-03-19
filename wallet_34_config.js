@@ -1,1 +1,1 @@
-var mnemonic = "dinner exile gather provide this enact around exhibit other siren mammal group";
+var mnemonic = "crystal scale click police smooth impulse angle frown industry wheat live fan";

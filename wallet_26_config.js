@@ -1,1 +1,1 @@
-var mnemonic = "three install include flush concert dinner cram record holiday rocket taxi bone";
+var mnemonic = "pattern hover metal valid ketchup off real swallow afraid nasty join rocket";

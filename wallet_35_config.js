@@ -1,1 +1,1 @@
-var mnemonic = "wash wreck timber collect diamond drastic enjoy rude kit era minimum about";
+var mnemonic = "also decline cabin beef govern raw question achieve long truth episode fat";

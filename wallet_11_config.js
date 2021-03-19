@@ -1,1 +1,1 @@
-var mnemonic = "shuffle embody vast pyramid carbon trip trick zoo enough enable twice camera";
+var mnemonic = "rigid shed cruise combine field average stable traffic tattoo tobacco recall output";

@@ -1,1 +1,1 @@
-var mnemonic = "agree silent drama alcohol era original traffic behind project repair surround emerge";
+var mnemonic = "mansion butter across tower saddle plug title vocal merit area gospel broken";

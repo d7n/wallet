@@ -1,1 +1,1 @@
-var mnemonic = "list immense wasp pole fruit ski defy exit install gate tag spoon";
+var mnemonic = "talk lens bachelor auto flight spot fold spin swim rent twice nominee";

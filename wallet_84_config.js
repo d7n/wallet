@@ -1,1 +1,1 @@
-var mnemonic = "imitate private rate must hospital clay quote release admit royal safe bonus";
+var mnemonic = "luxury slide guard charge that resource moment detect fitness sustain tooth charge";

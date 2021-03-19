@@ -1,1 +1,1 @@
-var mnemonic = "laptop quantum danger chunk remove song sheriff tomato speed february destroy like";
+var mnemonic = "matter sentence airport call right process fashion mean eight blossom blood napkin";

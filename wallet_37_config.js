@@ -1,1 +1,1 @@
-var mnemonic = "meat bless romance doctor potato ostrich amazing fantasy garment review proud feel";
+var mnemonic = "speak stay clown reveal coral curve patrol conduct uncover small settle speak";

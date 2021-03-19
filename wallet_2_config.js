@@ -1,1 +1,1 @@
-var mnemonic = "bus mom wrong discover message smile buffalo health weasel wine opera bonus";
+var mnemonic = "divorce hand among camp stumble sponsor document twist journey elder truck destroy";

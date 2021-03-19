@@ -1,1 +1,1 @@
-var mnemonic = "fatigue huge spin rent venue shrimp guilt one unique inspire giraffe solar";
+var mnemonic = "food business square twice very urban curious rib manage teach forget fun";

@@ -1,1 +1,1 @@
-var mnemonic = "usage coin loop mimic follow soul swim rocket limb bone double poet";
+var mnemonic = "ugly lens ancient leader ramp album bomb morning disagree north faith erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby trust orange prefer zoo extra tortoise salmon oven tray stand fault";
+var mnemonic = "else embody height need animal destroy umbrella dune own naive grab essay";

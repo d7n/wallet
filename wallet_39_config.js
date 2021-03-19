@@ -1,1 +1,1 @@
-var mnemonic = "worry discover ripple grid essay door joke online spring guess faint route";
+var mnemonic = "pelican viable pupil output letter beach capable myself laptop orphan weekend average";

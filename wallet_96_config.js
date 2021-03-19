@@ -1,1 +1,1 @@
-var mnemonic = "uncle fetch plunge library science cable clarify vast head rain lazy harbor";
+var mnemonic = "enlist devote cannon argue program quick smooth split veteran like excite dance";

@@ -1,1 +1,1 @@
-var mnemonic = "shell list stumble sketch wrist lamp win monster profit review neck vehicle";
+var mnemonic = "shiver tomorrow window license casual rain island rigid palace brief hand liquid";

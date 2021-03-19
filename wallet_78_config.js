@@ -1,1 +1,1 @@
-var mnemonic = "parade already family tool toy suit rescue aerobic soap buyer era guess";
+var mnemonic = "wisdom nice rely bullet kitten give ladder pride two foster surround silver";

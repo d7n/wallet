@@ -1,1 +1,1 @@
-var mnemonic = "collect crane burden matrix ghost gasp giggle garden rack zebra decorate lawsuit";
+var mnemonic = "clutch sheriff vibrant novel sunset uncover fetch train quit ancient fog jealous";

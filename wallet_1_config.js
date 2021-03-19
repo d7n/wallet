@@ -1,1 +1,1 @@
-var mnemonic = "replace horse inmate gloom domain leisure sugar wash else juice length stem";
+var mnemonic = "coil afford reveal long cheese ginger practice vivid delay fun vivid enjoy";

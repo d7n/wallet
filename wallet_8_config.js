@@ -1,1 +1,1 @@
-var mnemonic = "man chief sweet fly current plastic filter buyer few custom deer marine";
+var mnemonic = "success patient opera inside village phone bullet denial attitude echo antenna dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "client garden buyer perfect point paddle chuckle analyst stairs visa phrase visit";
+var mnemonic = "sentence actor price leisure fine tape demand capable vibrant easy actor sea";

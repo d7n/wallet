@@ -1,1 +1,1 @@
-var mnemonic = "short clown myth fold tail taste price access kingdom sorry electric owner";
+var mnemonic = "write kangaroo family crack region dignity stock voyage elder jar eager host";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum real cube dove educate luxury actual idea identify buyer right capital";
+var mnemonic = "promote cupboard chase easily resource cart later clog sail gas iron envelope";

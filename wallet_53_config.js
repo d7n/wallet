@@ -1,1 +1,1 @@
-var mnemonic = "carbon viable feed loud diagram never fence dog chunk kiwi work napkin";
+var mnemonic = "turkey siren grit sugar fitness reform upon run immune cluster receive burger";

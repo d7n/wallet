@@ -1,1 +1,1 @@
-var mnemonic = "woman strong among add lake finish crucial style nest ahead mesh negative";
+var mnemonic = "soccer comic labor weather when rather odor express annual clump ladder tower";

@@ -1,1 +1,1 @@
-var mnemonic = "pave grief ball memory verify custom tone electric brand recall jealous poverty";
+var mnemonic = "orient chest brain blue board buzz record blood real bundle alley sense";

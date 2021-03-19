@@ -1,1 +1,1 @@
-var mnemonic = "onion perfect pudding pet trouble food card toss drive leisure civil labor";
+var mnemonic = "lab attitude retreat loop use night match ramp border island rebuild cupboard";

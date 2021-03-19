@@ -1,1 +1,1 @@
-var mnemonic = "swarm fatigue claim upset rare drink delay grief obtain wrap between relax";
+var mnemonic = "congress dance match know donkey ticket useful lyrics increase radio cactus organ";

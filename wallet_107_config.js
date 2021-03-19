@@ -1,1 +1,1 @@
-var mnemonic = "harvest pride divide margin height letter air arena column unknown list mobile";
+var mnemonic = "ugly suggest arrange puppy shoe loyal fresh olive profit struggle know matter";

@@ -1,1 +1,1 @@
-var mnemonic = "rely kid jungle light survey burger fine kingdom funny make elephant harsh";
+var mnemonic = "acquire sweet just neck next answer cliff girl crime market armed deny";

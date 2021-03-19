@@ -1,1 +1,1 @@
-var mnemonic = "casino destroy girl print like gold pink crack discover next nice athlete";
+var mnemonic = "inherit artwork soon flame virus umbrella chef material eager minimum boost wedding";

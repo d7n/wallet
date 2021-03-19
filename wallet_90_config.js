@@ -1,1 +1,1 @@
-var mnemonic = "provide frost million hidden obvious pony tide view churn version payment slide";
+var mnemonic = "force chef black tone ladder tent spot afford race spread poet friend";

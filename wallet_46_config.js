@@ -1,1 +1,1 @@
-var mnemonic = "mesh host snake spider cart ivory stereo enlist twin slab decide diet";
+var mnemonic = "glow loan glimpse item spoon verify vapor account cereal chair safe stand";

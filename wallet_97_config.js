@@ -1,1 +1,1 @@
-var mnemonic = "connect bone water envelope blade area year upset maximum grid must pass";
+var mnemonic = "must gold welcome throw eight finish pupil skill banner wheat punch loop";

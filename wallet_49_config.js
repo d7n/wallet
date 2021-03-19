@@ -1,1 +1,1 @@
-var mnemonic = "maze clip original define supreme unknown welcome grit father panel nephew atom";
+var mnemonic = "add daughter earn boy hungry rug loud furnace scale fitness add deny";

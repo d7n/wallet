@@ -1,1 +1,1 @@
-var mnemonic = "ethics arrow seat head idea december tape explain village hurdle cheese crystal";
+var mnemonic = "radar loan health time embody opinion dash sustain whisper autumn steak truly";

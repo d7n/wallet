@@ -1,1 +1,1 @@
-var mnemonic = "reward filter excite above adjust lizard source veteran chapter usage hazard ritual";
+var mnemonic = "corn bachelor grant actress record clap six betray humor seven soccer mixture";

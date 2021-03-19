@@ -1,1 +1,1 @@
-var mnemonic = "story tooth choose wet tribe anxiety agent also say crash manage truck";
+var mnemonic = "usual foam fancy type divide december lake swim photo memory keep garlic";

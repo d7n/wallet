@@ -1,1 +1,1 @@
-var mnemonic = "mosquito like arrange effort success slim taxi muffin champion wage age giraffe";
+var mnemonic = "decorate street road security lawsuit marine vanish mountain monitor caution decide shoulder";

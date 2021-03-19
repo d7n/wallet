@@ -1,1 +1,1 @@
-var mnemonic = "fortune supply ritual maple sword spatial solution mountain jewel stuff repair wink";
+var mnemonic = "dance van alpha jaguar fiber puppy fence label width target park mixed";

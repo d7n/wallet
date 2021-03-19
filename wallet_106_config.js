@@ -1,1 +1,1 @@
-var mnemonic = "spawn pink margin decorate install license adjust guard accident industry bid latin";
+var mnemonic = "walk concert object orange photo capable knock cost curve depend initial episode";

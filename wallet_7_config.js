@@ -1,1 +1,1 @@
-var mnemonic = "tube area correct rescue reform achieve stumble dragon tell convince renew knee";
+var mnemonic = "hospital since kick fashion wise piano canvas dizzy taxi neutral current subway";

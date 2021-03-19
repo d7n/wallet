@@ -1,1 +1,1 @@
-var mnemonic = "hurry panda ecology board congress quote bubble nut provide grass code sun";
+var mnemonic = "since essay trade novel blade raven sphere remind invest stadium time bottom";

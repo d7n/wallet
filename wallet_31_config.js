@@ -1,1 +1,1 @@
-var mnemonic = "face uniform teach amateur improve monkey text undo off toddler allow bleak";
+var mnemonic = "seek used swarm supply infant trial country shock balance apart talk scare";

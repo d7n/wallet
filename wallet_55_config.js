@@ -1,1 +1,1 @@
-var mnemonic = "turn sea guilt eight gather youth tomorrow rude bright repeat tenant lens";
+var mnemonic = "cabbage unlock elder orchard ten prosper local police sing valve invite actress";

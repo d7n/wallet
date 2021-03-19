@@ -1,1 +1,1 @@
-var mnemonic = "drill citizen reject satisfy sudden bar uncle gadget monitor dance rare member";
+var mnemonic = "fabric grab park autumn upon neck predict protect team erode candy october";

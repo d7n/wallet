@@ -1,1 +1,1 @@
-var mnemonic = "twin clip goat field sail spike ball apology mosquito chef miracle defense";
+var mnemonic = "village thumb common kidney jacket ramp core joke fuel produce coconut region";

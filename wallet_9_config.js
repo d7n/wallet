@@ -1,1 +1,1 @@
-var mnemonic = "slight nature praise pool quit auction become fold six hollow nice school";
+var mnemonic = "wing burst april invest warm tool primary mirror obtain life scare boss";

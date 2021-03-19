@@ -1,1 +1,1 @@
-var mnemonic = "forward switch raccoon scout polar lottery cake behave desk measure improve depth";
+var mnemonic = "paddle depth attend exhibit pond bike live fit load next turkey pelican";

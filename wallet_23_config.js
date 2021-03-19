@@ -1,1 +1,1 @@
-var mnemonic = "refuse erosion enemy soda immune finger case rally amazing cart taste online";
+var mnemonic = "manual bike siren morning delay expire spawn north dry thunder among blouse";

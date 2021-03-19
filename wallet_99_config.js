@@ -1,1 +1,1 @@
-var mnemonic = "suit fire tourist eternal kiss kite flame robust move age laugh laptop";
+var mnemonic = "else crisp wage fashion quit winner luxury all lottery item wall topic";

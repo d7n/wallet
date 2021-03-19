@@ -1,1 +1,1 @@
-var mnemonic = "goddess taxi enable anchor wear drama drop trumpet bleak exotic town action";
+var mnemonic = "address bright record bulb kid captain must buyer return arena pumpkin match";

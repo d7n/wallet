@@ -1,1 +1,1 @@
-var mnemonic = "grain beauty picnic embrace small eight pumpkin skull admit reform book danger";
+var mnemonic = "fringe tackle stereo judge bamboo wonder duty pretty scale industry flat hunt";

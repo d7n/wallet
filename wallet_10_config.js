@@ -1,1 +1,1 @@
-var mnemonic = "record castle review enroll coin street observe artist drift average scene off";
+var mnemonic = "clog exist follow bus usage dwarf review wrist tree broom eyebrow swim";

@@ -1,1 +1,1 @@
-var mnemonic = "series alien develop track fortune enact clip faint erosion cinnamon rent blue";
+var mnemonic = "calm sign bar fuel million possible admit ivory report bag asset measure";

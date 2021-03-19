@@ -1,1 +1,1 @@
-var mnemonic = "bulk release predict insane want silly need heart doctor gravity industry century";
+var mnemonic = "twenty mixed phone card grocery cube raw coin soda badge unveil family";

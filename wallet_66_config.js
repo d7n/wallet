@@ -1,1 +1,1 @@
-var mnemonic = "jaguar wolf daring column duty treat stumble slender critic inherit image sign";
+var mnemonic = "modify tackle pony buzz diet lazy consider drama puppy item remain isolate";

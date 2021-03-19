@@ -1,1 +1,1 @@
-var mnemonic = "trash noodle twice dad open replace suffer vocal offer lava reform birth";
+var mnemonic = "inform foam ocean page since express never music nation orient artwork prefer";

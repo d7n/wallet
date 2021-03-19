@@ -1,1 +1,1 @@
-var mnemonic = "demise humor excuse bundle hold harsh access picture ridge evoke supreme car";
+var mnemonic = "siege ladder mystery fork bracket sort gain usual just hen case tourist";

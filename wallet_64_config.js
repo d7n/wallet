@@ -1,1 +1,1 @@
-var mnemonic = "sudden certain lava know educate clarify portion cabin differ reveal poem toast";
+var mnemonic = "special fossil file minute wear battle frown renew now cousin bomb civil";

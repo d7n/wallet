@@ -1,1 +1,1 @@
-var mnemonic = "maid size wasp sponsor visual goose sense visit armor capital south firm";
+var mnemonic = "future match syrup police autumn blanket organ process swing three script quality";

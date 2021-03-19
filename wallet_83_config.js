@@ -1,1 +1,1 @@
-var mnemonic = "outer advance best cave agree jungle renew photo seminar laundry space vibrant";
+var mnemonic = "duck canal weasel island weasel spoil cat bracket flat version weather knee";

@@ -1,1 +1,1 @@
-var mnemonic = "face surface feature sign possible shine snack type palace half arrow omit";
+var mnemonic = "govern ill similar transfer deliver naive moon move lobster potato vault marriage";

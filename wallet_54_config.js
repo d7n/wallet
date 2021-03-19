@@ -1,1 +1,1 @@
-var mnemonic = "kick steel hood reject net desk canyon soft enter believe vague coconut";
+var mnemonic = "betray citizen gadget rifle fantasy save pig destroy heart castle rally neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "speak arm filter unlock fortune run impose business observe elbow decide boat";
+var mnemonic = "frozen myself major decorate sample cinnamon language result wrist rich live company";

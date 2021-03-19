@@ -1,1 +1,1 @@
-var mnemonic = "copper device lake slender bread nose stock drop immense lift involve canvas";
+var mnemonic = "blush drastic salad frame void flavor plastic marine base century flame broken";

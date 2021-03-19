@@ -1,1 +1,1 @@
-var mnemonic = "fantasy chat echo phone cover sheriff abstract burden island remain traffic famous";
+var mnemonic = "indoor bleak sleep addict relief conduct board retire oak fun diamond journey";

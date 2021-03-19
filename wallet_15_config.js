@@ -1,1 +1,1 @@
-var mnemonic = "beyond later region flat fix verb office select negative child consider furnace";
+var mnemonic = "series accident hero argue equal fine auction jacket buffalo scan limb busy";

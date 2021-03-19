@@ -1,1 +1,1 @@
-var mnemonic = "demise develop knock hurry shell true bean confirm adapt fork useless hole";
+var mnemonic = "inch twin spoon transfer arrest promote tortoise nest noise rich gaze emerge";

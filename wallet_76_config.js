@@ -1,1 +1,1 @@
-var mnemonic = "cruise pond rally mention episode kite live meadow unlock toddler east romance";
+var mnemonic = "drift cry delay used settle avocado daring any model tail labor jaguar";

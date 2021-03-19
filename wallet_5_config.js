@@ -1,1 +1,1 @@
-var mnemonic = "media reason benefit unveil depth very fluid alert tone enter obvious rival";
+var mnemonic = "rule gate again camera club elephant column web solid cluster author master";

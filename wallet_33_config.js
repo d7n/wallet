@@ -1,1 +1,1 @@
-var mnemonic = "pilot employ original nut diamond ring kite rug consider fruit chef twelve";
+var mnemonic = "depth section blood miss fat plate vicious oak height slam tomato rail";

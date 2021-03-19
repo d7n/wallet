@@ -1,1 +1,1 @@
-var mnemonic = "venture health jelly minimum avocado hundred economy diamond clog reward poem rapid";
+var mnemonic = "acoustic wrist load inch exhaust brisk flame machine satoshi vacant metal promote";

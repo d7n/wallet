@@ -1,1 +1,1 @@
-var mnemonic = "uncover useful palace they seven buddy special arm ladder response judge elbow";
+var mnemonic = "welcome alley dismiss credit laptop ghost stereo attack oak earth arrange expand";

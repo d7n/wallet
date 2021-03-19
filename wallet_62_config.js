@@ -1,1 +1,1 @@
-var mnemonic = "draw inflict humble layer horse slide lonely only room bench stove trip";
+var mnemonic = "diagram stadium erase conduct estate mystery melt rocket bonus trade hope vote";

@@ -1,1 +1,1 @@
-var mnemonic = "mix call behind close reject bracket rely toddler have charge stamp float";
+var mnemonic = "reflect cup crew label faith gun enlist gravity tone report allow bag";

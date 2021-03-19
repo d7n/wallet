@@ -1,1 +1,1 @@
-var mnemonic = "glide fence river brave junior giraffe step cigar insane ring moral beef";
+var mnemonic = "egg assault cruel suffer extend top purse peace bamboo skirt between rhythm";

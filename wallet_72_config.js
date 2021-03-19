@@ -1,1 +1,1 @@
-var mnemonic = "obey brain margin feel sauce hazard adjust time doctor lucky vacuum aim";
+var mnemonic = "salute arctic grain exotic invest domain gesture spare hockey victory problem naive";

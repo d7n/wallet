@@ -1,1 +1,1 @@
-var mnemonic = "chase cancel magnet oblige pencil recycle need rely truth display annual stage";
+var mnemonic = "floor laugh paddle ketchup mango real ginger innocent must mother name pudding";

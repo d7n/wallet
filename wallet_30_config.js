@@ -1,1 +1,1 @@
-var mnemonic = "loan fresh wall unit example sport awake pluck hard idea security wool";
+var mnemonic = "sort laptop fragile away rigid swap copy squirrel solution wonder ostrich merge";

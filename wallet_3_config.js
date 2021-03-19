@@ -1,1 +1,1 @@
-var mnemonic = "author man meadow add visit icon leisure wage quarter blossom shaft select";
+var mnemonic = "plate have cupboard cruise educate soul shrimp point trash cost index become";

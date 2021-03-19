@@ -1,1 +1,1 @@
-var mnemonic = "exile ginger abuse athlete tissue minute usage month scorpion maid image stadium";
+var mnemonic = "work live mother crumble moment illness injury engage vibrant assist scene typical";

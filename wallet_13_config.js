@@ -1,1 +1,1 @@
-var mnemonic = "museum spread clay salt address shove organ drift enjoy cotton gun dry";
+var mnemonic = "reopen wink chalk know parrot buyer liar payment swift rapid quote learn";

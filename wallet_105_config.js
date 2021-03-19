@@ -1,1 +1,1 @@
-var mnemonic = "small hope citizen avocado stomach voice exchange myself eight stone front will";
+var mnemonic = "reflect couch void price hat ticket moment tired cat strike dutch local";

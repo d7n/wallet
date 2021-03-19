@@ -1,1 +1,1 @@
-var mnemonic = "crucial carpet wood defy canvas sight faculty tunnel syrup mystery thumb swallow";
+var mnemonic = "leaf brisk secret cigar elevator soap wide sudden reduce great erode able";

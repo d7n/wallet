@@ -1,1 +1,1 @@
-var mnemonic = "marriage civil until skin derive drama bachelor brick similar fork blossom amount";
+var mnemonic = "tide possible ivory submit voice often various female woman razor wise sketch";
