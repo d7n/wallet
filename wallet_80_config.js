@@ -1,1 +1,1 @@
-var mnemonic = "hammer cherry toward can useful reason fitness book uncover betray chunk hospital";
+var mnemonic = "fall spy sail loyal cram topic calm rival file nuclear churn else";

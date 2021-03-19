@@ -1,1 +1,1 @@
-var mnemonic = "arrive boat public grape express stable bomb soldier palm famous diary mirror";
+var mnemonic = "safe together small deliver weird occur weird smile soft reward trial eye";

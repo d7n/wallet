@@ -1,1 +1,1 @@
-var mnemonic = "movie glass bridge index donate reopen sadness ill avoid illness thumb ketchup";
+var mnemonic = "depend sting anxiety element tomato aisle elite calm divert girl calm inside";

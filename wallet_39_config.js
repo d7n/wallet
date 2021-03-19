@@ -1,1 +1,1 @@
-var mnemonic = "first slot pond wire allow fitness essence turtle coffee immense degree rival";
+var mnemonic = "surprise skin tower syrup laundry garment goat sort web master entire shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "solution fury middle system tomato correct power play report yellow lawsuit tragic";
+var mnemonic = "depend analyst leader nominee school silly blossom mask harsh mom foot design";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom priority river cattle soldier slender alone wife acquire around giraffe good";
+var mnemonic = "boring black lake distance dirt twelve limb expand kit sing trip enhance";

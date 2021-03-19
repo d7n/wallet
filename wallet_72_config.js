@@ -1,1 +1,1 @@
-var mnemonic = "market tobacco sort another spot gesture ignore old desert taste cabbage assume";
+var mnemonic = "exchange awesome loyal chunk creek soft dirt seek coin advance lava edge";

@@ -1,1 +1,1 @@
-var mnemonic = "gate defense since faculty draw alert private velvet wash neutral victory creek";
+var mnemonic = "culture plunge guess only give tree copy squirrel grief cattle indicate beauty";

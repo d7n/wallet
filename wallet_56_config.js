@@ -1,1 +1,1 @@
-var mnemonic = "robot minimum steak acid gesture throw ketchup between soft feature core yard";
+var mnemonic = "live civil limb parrot wrist garment weapon garage dove test maid youth";

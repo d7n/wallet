@@ -1,1 +1,1 @@
-var mnemonic = "lens win few mix hunt zebra satisfy caught steak science cat love";
+var mnemonic = "habit sleep sniff limit stomach stick eagle tag carpet wire sock boss";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise empower twelve shuffle company embark identify surface since turtle ritual mesh";
+var mnemonic = "rather salad expand upon chronic bird scan bind fresh income width exit";

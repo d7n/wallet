@@ -1,1 +1,1 @@
-var mnemonic = "immune material ask maze leg wolf garden announce capable identify judge piece";
+var mnemonic = "love chicken diary fine chest deliver extra physical primary despair worry cousin";

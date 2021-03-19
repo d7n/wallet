@@ -1,1 +1,1 @@
-var mnemonic = "sad update deputy reveal ability join dawn switch wish guilt veteran there";
+var mnemonic = "already beef learn home glow arena shop test curious obscure pretty risk";

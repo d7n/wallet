@@ -1,1 +1,1 @@
-var mnemonic = "useful snack cherry human phone balance unlock idea merry ghost mixture goddess";
+var mnemonic = "ridge foil differ twist fan region cricket odor gain kangaroo reunion subject";

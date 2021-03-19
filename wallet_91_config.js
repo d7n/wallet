@@ -1,1 +1,1 @@
-var mnemonic = "bitter meat friend idle base dune inherit scrap car drive country split";
+var mnemonic = "daughter relax ankle diagram empty become violin dilemma quality pool orbit wheat";

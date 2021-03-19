@@ -1,1 +1,1 @@
-var mnemonic = "curtain fruit pioneer submit universe notable local token ladder junior foot dove";
+var mnemonic = "float orbit adult tobacco machine route river great slogan time ring fortune";

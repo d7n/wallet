@@ -1,1 +1,1 @@
-var mnemonic = "fuel annual garbage miss blind minor pattern tape equip shine diary drift";
+var mnemonic = "cement police spawn dove miracle brave pupil achieve wasp possible dutch assist";

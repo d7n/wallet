@@ -1,1 +1,1 @@
-var mnemonic = "hidden chunk borrow dinosaur february maximum early tackle oven usual lounge few";
+var mnemonic = "citizen crumble uphold success satisfy stool dog unfair ice develop duck stove";

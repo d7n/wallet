@@ -1,1 +1,1 @@
-var mnemonic = "broccoli ability coin announce wolf please tide dynamic assume cannon live acid";
+var mnemonic = "pretty hole drive match minor aspect myth involve mistake panther junk clutch";

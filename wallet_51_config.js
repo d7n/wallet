@@ -1,1 +1,1 @@
-var mnemonic = "grape deliver episode lonely oblige stone tube quality wedding burst hen final";
+var mnemonic = "artefact gap speak lonely result price input suit firm rude toss letter";

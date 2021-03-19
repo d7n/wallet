@@ -1,1 +1,1 @@
-var mnemonic = "erupt fun chief alone parade deal around grid harvest skill hospital merge";
+var mnemonic = "decorate dinner else tired assume fit deputy cute upon broken spare boost";

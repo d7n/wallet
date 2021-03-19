@@ -1,1 +1,1 @@
-var mnemonic = "nation hawk much play subway brain street clay cherry warm eyebrow return";
+var mnemonic = "person design physical army citizen area tomorrow broken target embrace load defy";

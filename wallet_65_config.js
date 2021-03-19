@@ -1,1 +1,1 @@
-var mnemonic = "occur fiscal celery call correct pigeon stick good gap pear height autumn";
+var mnemonic = "finger split again tube author census earn ride anger dash bid avocado";

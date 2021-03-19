@@ -1,1 +1,1 @@
-var mnemonic = "wasp orient mix vast glass easy lift acid much taxi forum outside";
+var mnemonic = "industry surprise meat run draw merge elephant tonight banner fold sign oxygen";

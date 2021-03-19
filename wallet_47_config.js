@@ -1,1 +1,1 @@
-var mnemonic = "olive lend warm mesh genius ketchup avoid decide toddler curve mutual correct";
+var mnemonic = "banana mammal this flash hover when join vivid eight soup flame draft";

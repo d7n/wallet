@@ -1,1 +1,1 @@
-var mnemonic = "exhibit resist breeze result adult such pen isolate stock loop excuse chuckle";
+var mnemonic = "special say riot size cage embark arrow deputy click castle leg fetch";

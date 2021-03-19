@@ -1,1 +1,1 @@
-var mnemonic = "remember coin rescue empower athlete shrug decline solution into achieve level crane";
+var mnemonic = "focus image elegant soul movie organ lab brief heart faint able rifle";

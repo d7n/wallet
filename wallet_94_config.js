@@ -1,1 +1,1 @@
-var mnemonic = "athlete fine ankle park friend spirit vital novel coast curious peasant awkward";
+var mnemonic = "night simple stamp panda anchor limb pull cinnamon tent clump armor arch";

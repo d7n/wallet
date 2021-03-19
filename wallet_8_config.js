@@ -1,1 +1,1 @@
-var mnemonic = "scan flip cotton coyote torch bright renew tattoo wedding horn degree alpha";
+var mnemonic = "antique fancy vehicle bargain furnace staff exile okay steak neglect hip gospel";

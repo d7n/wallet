@@ -1,1 +1,1 @@
-var mnemonic = "fiscal collect city pact adult buddy mouse window leaf coyote cheese illegal";
+var mnemonic = "screen blame fury draft six practice lonely book twenty symbol fire tape";

@@ -1,1 +1,1 @@
-var mnemonic = "genre noodle repair dinosaur project escape giant upgrade cart burst weapon inner";
+var mnemonic = "tomato stumble replace copper toss alpha trick vanish lonely involve insect flight";

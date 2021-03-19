@@ -1,1 +1,1 @@
-var mnemonic = "unit harvest stove category lesson announce deputy seed luxury annual hero mango";
+var mnemonic = "twice grunt noise potato just memory rib noise street essence endless promote";

@@ -1,1 +1,1 @@
-var mnemonic = "skate canvas action hill claim jungle engine tide winner husband honey stamp";
+var mnemonic = "media color invite scout student noble educate blossom eye all spot crane";

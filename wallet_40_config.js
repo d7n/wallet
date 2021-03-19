@@ -1,1 +1,1 @@
-var mnemonic = "evoke fame scrub major fork maple soap turtle ready when armed chaos";
+var mnemonic = "neck swallow foot notice sponsor glass scare milk grow lucky floor taste";

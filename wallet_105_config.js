@@ -1,1 +1,1 @@
-var mnemonic = "hurry all version state kitchen rail clock frozen swim broken illness aim";
+var mnemonic = "symbol rapid unknown cream wait draw trumpet sun filter aware coral speak";

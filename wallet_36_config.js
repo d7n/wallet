@@ -1,1 +1,1 @@
-var mnemonic = "goose deposit repair parrot claim base drama unusual pumpkin pact result rain";
+var mnemonic = "blind dance among inflict moment dog chest jelly stool modify world bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp today canal obey relax retire tattoo junior govern transfer cancel void";
+var mnemonic = "giraffe three horn lizard october explain aisle season acquire jeans refuse couple";

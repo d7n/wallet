@@ -1,1 +1,1 @@
-var mnemonic = "anchor income hunt ketchup asthma hand around struggle carry regret trophy match";
+var mnemonic = "enforce reject dawn ghost absurd wine era special foster quote capable tube";

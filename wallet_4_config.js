@@ -1,1 +1,1 @@
-var mnemonic = "glove save machine asthma romance nephew gym legal erosion vast cheap come";
+var mnemonic = "tenant rate join region rifle rich morning duty cluster often ozone clutch";

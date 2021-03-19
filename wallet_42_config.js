@@ -1,1 +1,1 @@
-var mnemonic = "lottery detect verb force field radio rifle wave side design lobster scorpion";
+var mnemonic = "tooth olympic panel luggage plug voyage truly purpose purpose spawn begin cinnamon";

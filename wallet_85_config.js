@@ -1,1 +1,1 @@
-var mnemonic = "embrace custom riot wool tiny rotate maid fantasy subject negative chicken gospel";
+var mnemonic = "extend spice stuff symptom excess banner bone transfer flush lobster menu snow";

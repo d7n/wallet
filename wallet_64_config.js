@@ -1,1 +1,1 @@
-var mnemonic = "primary delay plug tumble copy high can security refuse tomorrow response index";
+var mnemonic = "cash labor purse reduce like wear when knife worth jelly vote service";

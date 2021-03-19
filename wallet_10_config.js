@@ -1,1 +1,1 @@
-var mnemonic = "casual transfer portion suffer table team wagon work soul great indicate immense";
+var mnemonic = "estate comic olive paddle until pact ketchup company primary meat mandate goose";

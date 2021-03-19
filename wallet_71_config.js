@@ -1,1 +1,1 @@
-var mnemonic = "pause gown mesh nothing safe warm divorce club pause scout asthma guess";
+var mnemonic = "shield fiscal used shrug tomorrow rocket cruel toe install embark cover pottery";

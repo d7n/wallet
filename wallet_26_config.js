@@ -1,1 +1,1 @@
-var mnemonic = "regular ice fluid bubble actual earn history arch resource path amateur check";
+var mnemonic = "raise borrow auction admit album lunar seat soldier shiver wine tone number";

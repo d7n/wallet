@@ -1,1 +1,1 @@
-var mnemonic = "artefact hazard face camera uphold brass genre noodle wise royal congress update";
+var mnemonic = "river dress spice nut noise laugh either member pizza session hat bubble";

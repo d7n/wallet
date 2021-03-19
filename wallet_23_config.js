@@ -1,1 +1,1 @@
-var mnemonic = "pen future minimum buffalo juice heavy biology shock regular lens cheese sea";
+var mnemonic = "latin silly holiday blood note obey accuse excite grace skill field drum";

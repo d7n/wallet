@@ -1,1 +1,1 @@
-var mnemonic = "winner diet tree distance embrace pelican vendor suspect pair escape village stuff";
+var mnemonic = "unknown success bright force unhappy amateur dove security inflict tumble hire minimum";

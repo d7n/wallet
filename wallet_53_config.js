@@ -1,1 +1,1 @@
-var mnemonic = "unveil material old manual photo ill truck spend idea popular initial live";
+var mnemonic = "doll trophy federal crazy inhale hungry fish maximum suffer disorder clog pair";

@@ -1,1 +1,1 @@
-var mnemonic = "exit brand story sword evidence secret key novel foster bar push column";
+var mnemonic = "secret obvious sadness floor smoke prosper puzzle enemy mix north own cry";

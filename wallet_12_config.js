@@ -1,1 +1,1 @@
-var mnemonic = "sort park solid fabric belt busy master cherry once swamp guess update";
+var mnemonic = "retreat quiz real reopen eagle pony bag pattern knife obscure pole either";

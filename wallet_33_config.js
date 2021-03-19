@@ -1,1 +1,1 @@
-var mnemonic = "abuse perfect lava antique legend use survey small blur room bean sunset";
+var mnemonic = "lesson bus theory bomb fiscal question spy prize vocal crumble license lend";

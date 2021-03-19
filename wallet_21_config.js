@@ -1,1 +1,1 @@
-var mnemonic = "picnic pulse shed hobby hero nut riot leisure animal candy seek west";
+var mnemonic = "differ release release wool reunion blame casino proof sheriff retreat false pen";

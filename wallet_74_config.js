@@ -1,1 +1,1 @@
-var mnemonic = "bar glow brisk swim isolate fluid universe talk diamond extra toddler toss";
+var mnemonic = "husband short favorite express quick desk rice long innocent napkin lawn loyal";

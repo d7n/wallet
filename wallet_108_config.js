@@ -1,1 +1,1 @@
-var mnemonic = "rapid panther furnace veteran radio steel design sister deputy huge give trial";
+var mnemonic = "office medal gossip slam host possible turtle comfort frequent horror wet atom";

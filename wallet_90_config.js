@@ -1,1 +1,1 @@
-var mnemonic = "skate repair fiction resemble syrup paper repair treat indoor unique recipe tenant";
+var mnemonic = "burden other much force kit together narrow breeze target until adjust small";

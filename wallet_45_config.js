@@ -1,1 +1,1 @@
-var mnemonic = "involve evolve item mistake word indicate busy creek baby nurse reveal marble";
+var mnemonic = "subject song concert outdoor debate hope crazy element truck just rescue cliff";

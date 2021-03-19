@@ -1,1 +1,1 @@
-var mnemonic = "gown snap dial torch furnace verify cage between meat mail wide coil";
+var mnemonic = "early strike save rocket robust okay illness illegal buddy primary attend omit";

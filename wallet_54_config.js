@@ -1,1 +1,1 @@
-var mnemonic = "say entry cherry taxi saddle work immense install cupboard hub shuffle judge";
+var mnemonic = "found auction clock make blind emotion devote relax goat shock mad cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "coach modify swift flash labor garage region family museum outer mother car";
+var mnemonic = "fee expire jelly tackle woman estate guitar minimum noble peanut seat online";

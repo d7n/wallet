@@ -1,1 +1,1 @@
-var mnemonic = "logic meadow decorate indicate certain update either tip weasel mercy warrior color";
+var mnemonic = "trophy toddler fresh mule alter elephant pizza stadium plate salon final goose";

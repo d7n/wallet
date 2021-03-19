@@ -1,1 +1,1 @@
-var mnemonic = "unhappy super fence balcony element say globe solve magic promote cruise pudding";
+var mnemonic = "august host column kite shrug together sketch grow tuna stamp when visa";

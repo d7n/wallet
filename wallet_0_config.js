@@ -1,1 +1,1 @@
-var mnemonic = "hello gaze unfold velvet focus category anchor history adjust hood bicycle trial";
+var mnemonic = "zoo merry ivory become snow spice corn twenty tribe hope license achieve";

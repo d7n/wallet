@@ -1,1 +1,1 @@
-var mnemonic = "collect gas subway number toilet furnace deposit top business detail visa system";
+var mnemonic = "very salmon announce upper exotic label victory echo rich diet sweet bag";

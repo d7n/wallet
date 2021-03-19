@@ -1,1 +1,1 @@
-var mnemonic = "exile quarter gallery amount summer burst barrel legend neglect satisfy plunge twice";
+var mnemonic = "coral powder mixture ivory version old sunset method identify lottery father antique";

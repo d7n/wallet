@@ -1,1 +1,1 @@
-var mnemonic = "credit satoshi strong motion waste armed race zoo nice kitchen husband over";
+var mnemonic = "logic edge afraid turkey merit lesson finish evidence orchard volcano execute crucial";

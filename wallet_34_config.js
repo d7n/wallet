@@ -1,1 +1,1 @@
-var mnemonic = "track pink habit orange find sign trip enlist century media olympic any";
+var mnemonic = "copy reason bird wheat inherit chapter toddler gesture evidence glass moon palace";

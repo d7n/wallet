@@ -1,1 +1,1 @@
-var mnemonic = "spoon funny stomach diesel theme quit cousin industry episode engage lab trophy";
+var mnemonic = "medal finish parent turtle aim track knife blood identify captain exist appear";

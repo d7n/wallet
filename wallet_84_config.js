@@ -1,1 +1,1 @@
-var mnemonic = "ice ride swift burst absurd trial illegal connect kick runway cereal panel";
+var mnemonic = "neutral mean master seven same rubber survey forward found detail midnight favorite";

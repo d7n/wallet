@@ -1,1 +1,1 @@
-var mnemonic = "core accuse skate one innocent butter hen color olympic swamp fossil effort";
+var mnemonic = "dwarf season gym prevent nose slush detect smile humble evoke jump frown";

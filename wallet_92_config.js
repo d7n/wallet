@@ -1,1 +1,1 @@
-var mnemonic = "question prepare stamp pond bachelor lawsuit friend charge fatal clump wide goat";
+var mnemonic = "celery catalog enroll erase bacon canoe patch original ancient else tag pass";

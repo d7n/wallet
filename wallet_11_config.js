@@ -1,1 +1,1 @@
-var mnemonic = "inner scheme elegant corn pave unable vicious cradle solid bus debate cave";
+var mnemonic = "suffer economy regret fruit tobacco eight hunt excess wood bird core struggle";

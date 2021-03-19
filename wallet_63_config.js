@@ -1,1 +1,1 @@
-var mnemonic = "message tuition original chief moon youth loop bar life culture august army";
+var mnemonic = "air hurry foil build pistol sight detect can divide nephew judge boil";

@@ -1,1 +1,1 @@
-var mnemonic = "verify since friend entry mention hand symptom program enable blame bachelor hobby";
+var mnemonic = "patient talent search spirit future element key vintage easy window obvious grit";

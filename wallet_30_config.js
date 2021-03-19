@@ -1,1 +1,1 @@
-var mnemonic = "oak urge bone tortoise orchard output essay horse lyrics alert page expect";
+var mnemonic = "hub solid bunker once leaf increase margin device emotion divert hundred galaxy";

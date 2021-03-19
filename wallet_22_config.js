@@ -1,1 +1,1 @@
-var mnemonic = "light fringe donor army emotion width initial common lend lamp visual whisper";
+var mnemonic = "ceiling riot leader tuna clutch bird toward cart rely response absent reason";

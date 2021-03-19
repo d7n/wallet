@@ -1,1 +1,1 @@
-var mnemonic = "ankle culture hire layer hurry note case credit skirt seminar ecology glance";
+var mnemonic = "vicious cereal solar fiscal wave arctic blood usage top survey word nest";

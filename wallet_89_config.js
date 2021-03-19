@@ -1,1 +1,1 @@
-var mnemonic = "knife faculty split process boil legend hollow enrich people vibrant scale like";
+var mnemonic = "crash call rule again aunt canal cruise club ripple silk office library";

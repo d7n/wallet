@@ -1,1 +1,1 @@
-var mnemonic = "flip harsh gasp flip slice raise gorilla message atom leisure fantasy hurdle";
+var mnemonic = "jealous sort cliff level fatal churn vanish around expand hamster minimum corn";

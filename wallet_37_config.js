@@ -1,1 +1,1 @@
-var mnemonic = "local crouch pulp suggest toy oil fortune gold immense lounge slice tray";
+var mnemonic = "suit chunk endorse crisp life buddy genuine library season comic install secret";

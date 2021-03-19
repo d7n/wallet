@@ -1,1 +1,1 @@
-var mnemonic = "small exist cheese sure will size enlist remove portion large custom kiss";
+var mnemonic = "city cricket idea game bonus change episode leave metal cotton risk tattoo";

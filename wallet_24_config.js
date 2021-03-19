@@ -1,1 +1,1 @@
-var mnemonic = "increase swear snow improve tortoise cigar quote comic orphan state bridge motion";
+var mnemonic = "gravity useless make decline fee van globe place economy brother popular moral";

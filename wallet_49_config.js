@@ -1,1 +1,1 @@
-var mnemonic = "thunder found spirit vessel sunny glimpse hedgehog ankle staff combine cat baby";
+var mnemonic = "blush thank cement often mechanic risk uphold adult name hand hurt fashion";

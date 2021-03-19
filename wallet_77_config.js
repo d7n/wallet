@@ -1,1 +1,1 @@
-var mnemonic = "again paper carpet tourist armed end salad moral alone bitter vast file";
+var mnemonic = "weird plug plastic club sign gravity echo suit skirt hammer million opera";

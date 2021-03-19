@@ -1,1 +1,1 @@
-var mnemonic = "family humor note convince replace west machine whip reform royal jaguar banner";
+var mnemonic = "large you heavy judge parade range never submit tortoise glad note trip";

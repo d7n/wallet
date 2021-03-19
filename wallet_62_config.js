@@ -1,1 +1,1 @@
-var mnemonic = "position hard face test half rapid fame angle mixed lion industry summer";
+var mnemonic = "fresh glass desert glide chest release upon diary assault clip fuel area";

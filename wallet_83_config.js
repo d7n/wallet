@@ -1,1 +1,1 @@
-var mnemonic = "execute census lumber perfect pattern infant teach foster rigid few hip wish";
+var mnemonic = "snow run cross patient vote walk arrange grief liar crucial sign repair";

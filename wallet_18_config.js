@@ -1,1 +1,1 @@
-var mnemonic = "inch gossip clown supply crazy battle entire outside cube outdoor hint deny";
+var mnemonic = "neck ski weekend grow feel either distance crash swarm cost finish will";

@@ -1,1 +1,1 @@
-var mnemonic = "version asthma science mind sound you prize flush basic already spike promote";
+var mnemonic = "love stem hawk amused fatigue crater expect steel barely ozone inhale rhythm";

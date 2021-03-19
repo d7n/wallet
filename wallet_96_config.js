@@ -1,1 +1,1 @@
-var mnemonic = "expand nose team song document inform spice shaft harsh slight misery hurry";
+var mnemonic = "scatter scissors rare outside either order chest ecology ethics cloth occur scatter";

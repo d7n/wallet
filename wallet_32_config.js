@@ -1,1 +1,1 @@
-var mnemonic = "bracket tilt duck year salt pattern pretty fat almost morning emotion summer";
+var mnemonic = "month cement fish benefit ocean change bus host jelly edge ready cram";

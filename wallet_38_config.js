@@ -1,1 +1,1 @@
-var mnemonic = "desk regular change better swallow huge board loan run legend they rain";
+var mnemonic = "canvas desk leave mad little any dawn capital essence lend join elephant";

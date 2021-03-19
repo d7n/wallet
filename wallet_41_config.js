@@ -1,1 +1,1 @@
-var mnemonic = "tackle three kiwi emotion engine lock question lava sad awake relax once";
+var mnemonic = "genuine sleep bone ecology broken page funny dynamic amused stairs thought still";
