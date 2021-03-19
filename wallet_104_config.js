@@ -1,1 +1,1 @@
-var mnemonic = "west box trigger exist pole spread mansion churn vibrant rural echo clap";
+var mnemonic = "arm swift spot stereo hope ramp fold frequent faculty pool wrestle frog";

@@ -1,1 +1,1 @@
-var mnemonic = "split favorite biology discover science toddler april youth coconut jaguar armed slim";
+var mnemonic = "acoustic unhappy latin jacket matrix cabin meadow tragic summer short page uniform";

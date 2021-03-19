@@ -1,1 +1,1 @@
-var mnemonic = "manage coil present thought outer also scale pelican mouse portion into include";
+var mnemonic = "brick spring mandate health diet afford extend lab trip blouse narrow fossil";

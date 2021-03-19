@@ -1,1 +1,1 @@
-var mnemonic = "clarify text trade address enhance tired vibrant replace practice stool crash pet";
+var mnemonic = "fiscal pave kid auto ramp shell hour olympic future net embark ability";

@@ -1,1 +1,1 @@
-var mnemonic = "rather air surge amateur skull fee calm adapt amazing biology offer frown";
+var mnemonic = "once quote margin elevator fame wear video glove century south ship adjust";

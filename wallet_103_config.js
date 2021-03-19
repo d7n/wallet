@@ -1,1 +1,1 @@
-var mnemonic = "rookie audit front distance mail fence grunt alien put flight autumn place";
+var mnemonic = "student add aspect gallery goddess general blame usage obvious avoid table glance";

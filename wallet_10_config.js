@@ -1,1 +1,1 @@
-var mnemonic = "stick label diamond soon insect easily cage milk today spawn oyster decide";
+var mnemonic = "decide mail hand topic draft cargo frog busy switch angle develop write";

@@ -1,1 +1,1 @@
-var mnemonic = "marble equal danger thank walk female purchase steel arrange poet gun dose";
+var mnemonic = "exotic build hurt wasp mimic cream host coral tank fog myself nature";

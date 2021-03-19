@@ -1,1 +1,1 @@
-var mnemonic = "unique they crawl twin base minute churn tomato inmate account spot approve";
+var mnemonic = "deposit judge alien exile mimic atom absurd acid shrug dad cruise phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "service auction major exist good basic yard mobile advance defense fabric fun";
+var mnemonic = "auction wish wife dragon master settle tunnel holiday holiday rule again theme";

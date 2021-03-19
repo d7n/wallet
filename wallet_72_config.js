@@ -1,1 +1,1 @@
-var mnemonic = "faint bird inner mansion fortune slow method pottery wall bargain same pencil";
+var mnemonic = "century bonus discover polar skate blood feature puppy display imitate beef plug";

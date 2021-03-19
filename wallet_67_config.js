@@ -1,1 +1,1 @@
-var mnemonic = "unique gravity talent warfare burden pair share soon catch all iron churn";
+var mnemonic = "proof hip latin film piece stick student will attitude spray cream sight";

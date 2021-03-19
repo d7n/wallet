@@ -1,1 +1,1 @@
-var mnemonic = "legend denial club day tumble gasp slow sound brown project bullet glare";
+var mnemonic = "inside wealth image citizen wish empty suggest guide obscure shaft pulse heart";

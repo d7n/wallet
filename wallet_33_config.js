@@ -1,1 +1,1 @@
-var mnemonic = "output banner candy absurd afford spy general food adapt update view useful";
+var mnemonic = "boil police finish shuffle bundle grocery until drum mom pledge drive trial";

@@ -1,1 +1,1 @@
-var mnemonic = "hand mushroom sugar reveal second fix decrease stuff present wrong bench ask";
+var mnemonic = "abstract token insane figure wall stick immune few erase prison brief lady";

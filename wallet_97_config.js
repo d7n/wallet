@@ -1,1 +1,1 @@
-var mnemonic = "slogan produce wall mammal slim car empty smoke slogan prevent hammer enact";
+var mnemonic = "type ask click collect display deliver young silly deal donate spread alone";

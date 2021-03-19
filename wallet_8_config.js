@@ -1,1 +1,1 @@
-var mnemonic = "isolate prefer village toss trust nut armor sea panel two tired spend";
+var mnemonic = "blossom sleep speak acquire behave minor misery much genre corn room bike";

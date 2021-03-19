@@ -1,1 +1,1 @@
-var mnemonic = "hybrid reveal nerve dismiss dry worth monitor guide brass giggle auction truth";
+var mnemonic = "whip venue guess joy ocean explain address trim scheme close badge frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "country screen mirror twice magic dinner sheriff luxury silly seven ensure prevent";
+var mnemonic = "duty elephant room trust forest fatal fox squirrel setup assault purpose frown";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom electric table cycle exhaust gossip muffin escape net where knife soon";
+var mnemonic = "dizzy they ship early worry oval version naive congress void suggest kit";

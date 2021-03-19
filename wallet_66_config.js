@@ -1,1 +1,1 @@
-var mnemonic = "horror wasp way flame mango treat excuse retreat garage conduct island rose";
+var mnemonic = "object bronze front album shiver rapid mad cart design ball step table";

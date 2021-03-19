@@ -1,1 +1,1 @@
-var mnemonic = "hold rifle shop script decorate street what observe chef almost educate glow";
+var mnemonic = "soda biology dinosaur chaos bright sustain breeze kidney wine forum primary dash";

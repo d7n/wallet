@@ -1,1 +1,1 @@
-var mnemonic = "guilt much such thunder trigger famous venue pepper lemon above pudding cage";
+var mnemonic = "decide course shrimp abuse car price account three silly heavy machine swing";

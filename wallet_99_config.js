@@ -1,1 +1,1 @@
-var mnemonic = "april drop can junk delay bunker tribe taxi envelope salmon stadium model";
+var mnemonic = "supreme cabin trophy deal spirit fuel random diary dentist barely car youth";

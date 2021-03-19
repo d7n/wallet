@@ -1,1 +1,1 @@
-var mnemonic = "frequent siege steak dream random mean amazing nephew viable decade sword long";
+var mnemonic = "spray gasp detail grape index drop sorry seven globe inmate tribe find";

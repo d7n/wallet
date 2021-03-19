@@ -1,1 +1,1 @@
-var mnemonic = "spin slim proud man merit matrix turn arctic sock expose city limit";
+var mnemonic = "enhance account damage dial scrub hungry loop snap disagree wealth add label";

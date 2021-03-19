@@ -1,1 +1,1 @@
-var mnemonic = "genuine acquire guilt food cruel labor slender session unfair seed hawk upper";
+var mnemonic = "tomato genre purity exhibit embark dwarf rather panel text tomato cherry great";

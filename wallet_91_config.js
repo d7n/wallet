@@ -1,1 +1,1 @@
-var mnemonic = "caution judge asset ecology vital cram six lion filter hammer much ozone";
+var mnemonic = "casual reduce frog account mouse parrot season million female relief crawl end";

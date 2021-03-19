@@ -1,1 +1,1 @@
-var mnemonic = "service shield trim engage universe rather pulp girl figure raw kidney lion";
+var mnemonic = "secret ancient cushion dog trip fish lazy describe wolf penalty lift maid";

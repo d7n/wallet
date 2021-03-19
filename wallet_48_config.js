@@ -1,1 +1,1 @@
-var mnemonic = "ice wise address stadium kitten minimum property ice super mom caution bounce";
+var mnemonic = "furnace cabin shine rare walnut cool disagree love flight index amount spare";

@@ -1,1 +1,1 @@
-var mnemonic = "engine excess day crack summer price medal bunker million fog child seed";
+var mnemonic = "present nature lunch wealth flag sample avoid waste pond similar enough inform";

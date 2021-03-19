@@ -1,1 +1,1 @@
-var mnemonic = "fresh ceiling upgrade fade wage sketch plate deputy noodle relax clip spread";
+var mnemonic = "tuna catch bread broccoli duty cotton element divorce calm cabbage spirit cable";

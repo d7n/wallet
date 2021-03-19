@@ -1,1 +1,1 @@
-var mnemonic = "valid suffer early toward height exercise banana trick shy battle result mix";
+var mnemonic = "perfect evil legend pact happy penalty hand combine parent oven kidney plug";

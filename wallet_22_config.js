@@ -1,1 +1,1 @@
-var mnemonic = "web siege tennis grit they lazy soft nose recipe unhappy maximum found";
+var mnemonic = "barrel spread unique what can abuse law since mimic slab snap crane";

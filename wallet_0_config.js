@@ -1,1 +1,1 @@
-var mnemonic = "exotic couch donor wool summer accuse park blush few blast range pulse";
+var mnemonic = "keen mimic umbrella ship mountain garment hen vapor until feel goose people";

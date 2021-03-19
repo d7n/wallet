@@ -1,1 +1,1 @@
-var mnemonic = "gate panic monkey protect nest jump net cancel dinosaur wheat truly broken";
+var mnemonic = "wish dizzy hazard knock surround educate utility flash april logic top priority";

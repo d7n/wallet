@@ -1,1 +1,1 @@
-var mnemonic = "surge leader screen marble congress blanket sister fringe original sea trigger any";
+var mnemonic = "whisper ginger sample client dash bleak satoshi scare motor soft weird acquire";

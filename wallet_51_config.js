@@ -1,1 +1,1 @@
-var mnemonic = "balcony camera fitness curious movie voice enroll balcony moment help wash glide";
+var mnemonic = "robot metal keen advance okay glow few royal trust cause affair able";

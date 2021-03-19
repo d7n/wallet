@@ -1,1 +1,1 @@
-var mnemonic = "vibrant tomato hole pilot lunch habit bulb grant recall garage cry burden";
+var mnemonic = "duty bicycle error mass south wash number range verify laundry absurd general";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh potato frequent delay inch dirt law submit doctor pet enter expect";
+var mnemonic = "famous insect devote coyote submit master until similar spoon marble employ fury";

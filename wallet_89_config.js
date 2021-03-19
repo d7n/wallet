@@ -1,1 +1,1 @@
-var mnemonic = "ridge damage meadow olive inquiry six wave monitor hat journey strategy symptom";
+var mnemonic = "burden wagon broom hammer enrich bounce athlete tackle middle wreck blue region";

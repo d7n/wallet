@@ -1,1 +1,1 @@
-var mnemonic = "tank shuffle view voyage pyramid decline now palace assault yard tonight sea";
+var mnemonic = "domain liar silk fossil swallow filter artist bless river edge bachelor snow";

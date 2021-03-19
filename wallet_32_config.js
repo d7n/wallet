@@ -1,1 +1,1 @@
-var mnemonic = "siege other size first claim test prepare gesture scrub tenant turkey attract";
+var mnemonic = "human below casual sunny jelly disease critic fit soul uncle vocal talk";

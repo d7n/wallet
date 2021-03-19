@@ -1,1 +1,1 @@
-var mnemonic = "pulp yellow across then ticket network exclude impose boss frame alert angry";
+var mnemonic = "toast monitor cactus salad breeze valve bronze boost cart motor behave draft";

@@ -1,1 +1,1 @@
-var mnemonic = "lend stool yellow rifle inside wing nice measure present focus panda friend";
+var mnemonic = "inhale remind ensure joke inject dumb emotion response toy reason mountain alert";

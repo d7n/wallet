@@ -1,1 +1,1 @@
-var mnemonic = "wolf normal hire muffin turn fall gate rug slight ritual glance miracle";
+var mnemonic = "twin advance inhale helmet deposit weasel title smoke half tornado metal aerobic";

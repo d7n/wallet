@@ -1,1 +1,1 @@
-var mnemonic = "doll rocket purchase gate discover upon brain scissors address guard skin trust";
+var mnemonic = "orchard stock effort want popular apology stay tornado chest peasant zebra waste";

@@ -1,1 +1,1 @@
-var mnemonic = "panic recall duck photo erode fiscal discover badge olive like local glide";
+var mnemonic = "apart glance gesture early country denial guilt team derive upper fox habit";

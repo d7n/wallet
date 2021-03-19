@@ -1,1 +1,1 @@
-var mnemonic = "summer inch finger pepper sauce cabin dial screen spike faith general reflect";
+var mnemonic = "prevent reveal property aunt circle never drill behave also stool apart stove";

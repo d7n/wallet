@@ -1,1 +1,1 @@
-var mnemonic = "lift rapid edge grab spring ginger slice bulk solution enlist unveil stadium";
+var mnemonic = "emotion scare deliver jacket ride atom example bonus mansion clarify giant ignore";

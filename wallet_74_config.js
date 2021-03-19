@@ -1,1 +1,1 @@
-var mnemonic = "picnic secret chat broccoli aunt either icon wire rib defense fly hub";
+var mnemonic = "hero autumn silk transfer emotion system replace corn armed jelly pottery chair";

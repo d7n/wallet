@@ -1,1 +1,1 @@
-var mnemonic = "treat axis atom claim live curious embark exit dismiss live myself close";
+var mnemonic = "forum moment merry since hidden february peace squirrel false wrong apart give";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe angle benefit kit medal actor spot typical trick shove labor pizza";
+var mnemonic = "unique degree used tag tuition spring poet seek cross burger observe project";

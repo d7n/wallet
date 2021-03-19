@@ -1,1 +1,1 @@
-var mnemonic = "donate voyage vacuum start tell runway swift humor uncover execute filter element";
+var mnemonic = "legal reunion absent runway accident promote transfer atom limb drop wise hybrid";

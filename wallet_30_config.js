@@ -1,1 +1,1 @@
-var mnemonic = "fresh tumble reduce chief police boil cross sniff text physical illegal amused";
+var mnemonic = "flavor elevator boss angry output injury real seat admit cram goat bag";

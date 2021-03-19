@@ -1,1 +1,1 @@
-var mnemonic = "canvas turtle birth barely solar dirt side century scissors become agree manual";
+var mnemonic = "upper royal unhappy grow marriage mechanic ski dune aerobic card morning sun";

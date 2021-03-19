@@ -1,1 +1,1 @@
-var mnemonic = "stool claim maple normal hedgehog salute brave refuse tongue fun radio paper";
+var mnemonic = "shallow nice cricket relax sight cloud famous art sign detail battle soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "pole present spirit calm say shallow mechanic pluck current together stool model";
+var mnemonic = "uncover spawn border sauce cheap surprise survey fun moral slide kidney happy";

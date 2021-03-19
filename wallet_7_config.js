@@ -1,1 +1,1 @@
-var mnemonic = "vocal tomorrow guitar cargo sight define series word deposit clerk pluck afford";
+var mnemonic = "thrive another job news flat later between letter false cherry snake girl";

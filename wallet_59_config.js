@@ -1,1 +1,1 @@
-var mnemonic = "fury entry resemble forest chunk blast habit wife catch swamp phone draw";
+var mnemonic = "prize leisure powder input danger lumber chase final reunion gravity kidney elevator";

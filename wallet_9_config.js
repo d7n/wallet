@@ -1,1 +1,1 @@
-var mnemonic = "head choose huge word crumble bean green brain spring gas very alien";
+var mnemonic = "blade inside reason hunt secret menu symbol confirm embody novel aisle caution";

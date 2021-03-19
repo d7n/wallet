@@ -1,1 +1,1 @@
-var mnemonic = "also snack seven exchange test feel grief oblige control coconut close lonely";
+var mnemonic = "trick sword dial attract ethics vessel middle engage tide dizzy chimney knock";

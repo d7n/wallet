@@ -1,1 +1,1 @@
-var mnemonic = "security glow night below barrel banner estate unlock regular spatial stock planet";
+var mnemonic = "regret limb confirm memory pond trouble lizard question sausage super trick title";

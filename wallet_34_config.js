@@ -1,1 +1,1 @@
-var mnemonic = "sun cabin awake skill hair spray basic furnace stamp inch bench decade";
+var mnemonic = "liberty voice churn margin produce habit report figure leisure canyon decrease tail";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus panda reflect worry gallery chef glimpse memory eager loan urge seed";
+var mnemonic = "engine lounge size amount burden cloth snow inform bean elbow glue correct";

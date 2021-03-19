@@ -1,1 +1,1 @@
-var mnemonic = "spread fence exercise unable gain describe liar meat weather spot enter rifle";
+var mnemonic = "tree father lemon social trick useless citizen hamster crawl swift sword spring";

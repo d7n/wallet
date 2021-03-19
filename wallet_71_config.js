@@ -1,1 +1,1 @@
-var mnemonic = "quarter walnut diary wall hope across mistake they polar fun powder give";
+var mnemonic = "puzzle grow hybrid choose lawn viable payment often holiday ostrich antique endorse";

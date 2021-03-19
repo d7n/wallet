@@ -1,1 +1,1 @@
-var mnemonic = "option tennis pretty female october vague practice used swap winter silk insect";
+var mnemonic = "shoe note gift emotion mercy chat arrest burger smooth chef kangaroo achieve";

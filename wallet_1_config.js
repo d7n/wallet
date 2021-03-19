@@ -1,1 +1,1 @@
-var mnemonic = "genuine almost borrow jealous express delay matter zero unknown hope dial clerk";
+var mnemonic = "comic spoon high dinner finger sheriff disorder width suit jazz reject vacant";

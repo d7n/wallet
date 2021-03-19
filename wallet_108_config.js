@@ -1,1 +1,1 @@
-var mnemonic = "coconut pistol shell cool else success spoon chimney bubble image best damp";
+var mnemonic = "earth power identify turkey enrich envelope wash critic sadness biology swamp brand";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid tank audit almost badge possible language display wealth duck similar sister";
+var mnemonic = "glide hollow chef zero sketch evolve spread predict twin achieve belt spray";

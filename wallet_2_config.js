@@ -1,1 +1,1 @@
-var mnemonic = "average recall pulse size grocery bulk student renew wrap print oven donate";
+var mnemonic = "verb prize page oven book give panther donate budget general box bicycle";

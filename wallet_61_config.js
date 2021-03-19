@@ -1,1 +1,1 @@
-var mnemonic = "unknown circle happy never decade hawk film split uphold word radar success";
+var mnemonic = "picnic dirt step come eager bonus wage brave area cool clog essence";

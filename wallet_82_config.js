@@ -1,1 +1,1 @@
-var mnemonic = "web anger between track warfare soul stay frozen goat wink wedding neglect";
+var mnemonic = "noodle horror hobby inmate father coyote toilet traffic extend turtle cotton weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "zero night office mother release plastic target fix then clip argue grocery";
+var mnemonic = "reward accident rotate oyster round assist occur such relax frame often tone";

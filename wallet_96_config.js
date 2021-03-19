@@ -1,1 +1,1 @@
-var mnemonic = "trend upgrade swamp kangaroo whip erosion donkey prize neglect surprise peasant average";
+var mnemonic = "orient define private little hood debate february junior mean essay suffer fit";

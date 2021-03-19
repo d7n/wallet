@@ -1,1 +1,1 @@
-var mnemonic = "sand seed shoulder boil club fantasy loyal unveil collect toilet sponsor utility";
+var mnemonic = "jungle moral sure vague syrup parrot fury company creek leader crack poem";

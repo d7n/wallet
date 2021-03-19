@@ -1,1 +1,1 @@
-var mnemonic = "able pill shoot excite goose item bachelor course eye demise actress enroll";
+var mnemonic = "drama debate series aerobic unhappy shoe fatigue mind future vehicle fiction teach";

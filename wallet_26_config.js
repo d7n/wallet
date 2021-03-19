@@ -1,1 +1,1 @@
-var mnemonic = "enjoy alcohol check bid aerobic behind want buddy trash lounge october drift";
+var mnemonic = "lottery tool fuel advice arrive hammer empower total gather cluster picture blush";

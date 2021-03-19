@@ -1,1 +1,1 @@
-var mnemonic = "blast gossip open truck damage usage relief vast derive galaxy van empty";
+var mnemonic = "clap client sniff laugh sadness argue diamond horror aim wedding eternal common";

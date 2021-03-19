@@ -1,1 +1,1 @@
-var mnemonic = "expire gold draft put scale inside this verify dress aisle rifle post";
+var mnemonic = "yard naive axis piece sail bird super asset smile atom apology vague";

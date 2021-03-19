@@ -1,1 +1,1 @@
-var mnemonic = "crop fat enroll code stage mother vicious tray tuna income room essence";
+var mnemonic = "arrive mom doll very ill twist chuckle foot spray chief service party";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix bacon sell fine state hungry frame hip fiction fetch trip library";
+var mnemonic = "rotate ticket decline eager crop rather trial require group comfort neck trophy";

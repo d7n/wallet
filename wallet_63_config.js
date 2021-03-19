@@ -1,1 +1,1 @@
-var mnemonic = "wreck token gesture sound antique swim appear monkey split fire edge bubble";
+var mnemonic = "hedgehog cotton core gallery ketchup say trend nerve salad short weapon chat";

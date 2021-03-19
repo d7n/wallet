@@ -1,1 +1,1 @@
-var mnemonic = "balance dirt rich early dish toy script blouse panel dynamic vibrant knock";
+var mnemonic = "bean bubble size holiday cram front bind brain repair rice conduct volume";

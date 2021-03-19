@@ -1,1 +1,1 @@
-var mnemonic = "lonely client garlic tower frown palm token key daughter wheat pool liberty";
+var mnemonic = "dry elite purchase point vendor lift plate cave oppose group fiscal bus";

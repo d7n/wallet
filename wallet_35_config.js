@@ -1,1 +1,1 @@
-var mnemonic = "intact hurt dune switch parade front series possible scatter suffer antique rebuild";
+var mnemonic = "tree quarter clay bus sure produce pencil else mutual crouch scatter three";
