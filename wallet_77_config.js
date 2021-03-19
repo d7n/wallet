@@ -1,1 +1,1 @@
-var mnemonic = "call garbage uphold noise wrong orphan erupt lottery farm rubber clap exercise";
+var mnemonic = "danger number popular early identify beef logic transfer change symbol soul uniform";

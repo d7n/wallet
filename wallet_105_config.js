@@ -1,1 +1,1 @@
-var mnemonic = "debris caution early spawn bomb cart arrive romance dizzy silly quick proud";
+var mnemonic = "video panic cat recipe garden carry affair fit actual loop lab erase";

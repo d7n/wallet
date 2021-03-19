@@ -1,1 +1,1 @@
-var mnemonic = "absorb roast journey famous clerk early voice blade police away vivid rocket";
+var mnemonic = "coast option flush blur column raven brave tattoo motor scene fit ketchup";

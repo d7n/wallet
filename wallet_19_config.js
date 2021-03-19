@@ -1,1 +1,1 @@
-var mnemonic = "diagram lonely expire outside birth female rug sad behind one leaf lend";
+var mnemonic = "leave rice brass crazy song absorb enrich first engage nature humble seminar";

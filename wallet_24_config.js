@@ -1,1 +1,1 @@
-var mnemonic = "one spread toss oppose piece tuna vessel capital betray lawsuit jump judge";
+var mnemonic = "reflect tail knock awful drift bachelor tell pool trap gap alone ring";

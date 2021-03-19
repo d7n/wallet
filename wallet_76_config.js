@@ -1,1 +1,1 @@
-var mnemonic = "sick horror seminar coast story pottery eagle lamp noodle hedgehog total usage";
+var mnemonic = "invest wish crunch child list must cram embrace phrase drama exhibit photo";

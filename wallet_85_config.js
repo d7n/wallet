@@ -1,1 +1,1 @@
-var mnemonic = "crawl comic patch used evil mistake grunt ask reopen lady stable spot";
+var mnemonic = "name law win have end address fiscal hover best manage defense hire";

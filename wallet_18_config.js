@@ -1,1 +1,1 @@
-var mnemonic = "stove vault sudden dog beach march embody cricket hip wreck method cradle";
+var mnemonic = "quarter wheel saddle slice skin leisure crack affair forest light error demand";

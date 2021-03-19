@@ -1,1 +1,1 @@
-var mnemonic = "foot spin soon cruel special unique half cluster window rural rocket scorpion";
+var mnemonic = "luxury among moment six mandate demand core anxiety until forum risk rabbit";

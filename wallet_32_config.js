@@ -1,1 +1,1 @@
-var mnemonic = "fever flash gauge heart subject install account film lounge estate camp job";
+var mnemonic = "check library bright return reopen taste lumber life truth demise market solve";

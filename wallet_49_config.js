@@ -1,1 +1,1 @@
-var mnemonic = "define century tilt gun canoe roof erase also trial window coconut box";
+var mnemonic = "alien broken code ocean damage hover bind dizzy crash hidden result stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "provide cheap sense delay stuff hurt grass stereo aerobic exact ecology before";
+var mnemonic = "goose maze receive fee aunt able above robust music love invest describe";

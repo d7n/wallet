@@ -1,1 +1,1 @@
-var mnemonic = "attitude control diagram motor holiday round beauty carry hire author now pistol";
+var mnemonic = "toddler disagree buddy wear jewel tobacco junior milk electric giraffe title swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "captain divide foster flush net day uniform liquid wide skill pig warm";
+var mnemonic = "ethics age asset visit head buddy evidence rule valley mansion mention couple";

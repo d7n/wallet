@@ -1,1 +1,1 @@
-var mnemonic = "arrive unable already genre room sauce side maid extend throw loop faith";
+var mnemonic = "elevator sudden tail response palm creek truck reward mad century voice ignore";

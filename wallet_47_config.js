@@ -1,1 +1,1 @@
-var mnemonic = "wire hat design bus bag guitar repeat peace gorilla medal party gesture";
+var mnemonic = "innocent shy expect tiny pave fine open ancient brief happy swap truth";

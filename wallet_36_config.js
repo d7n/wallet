@@ -1,1 +1,1 @@
-var mnemonic = "couch lizard knock renew monitor maximum manage famous easily mechanic pink plastic";
+var mnemonic = "embody obey armed whisper hello reopen surge girl obtain poem vacant beef";

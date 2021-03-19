@@ -1,1 +1,1 @@
-var mnemonic = "slender attract drip matter sustain limit board various monster radar rail equal";
+var mnemonic = "tobacco labor raven blade popular around address wave loud spoil again spoon";

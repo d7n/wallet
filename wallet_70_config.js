@@ -1,1 +1,1 @@
-var mnemonic = "clap buffalo scatter online burst movie base genuine message argue social awkward";
+var mnemonic = "nurse bomb office roof message observe remain kind breeze adjust wild sniff";

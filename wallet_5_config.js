@@ -1,1 +1,1 @@
-var mnemonic = "tooth innocent motion lyrics ice ahead rookie bird swarm auction rule human";
+var mnemonic = "hungry broken plastic salt element pause because layer style spice honey evoke";

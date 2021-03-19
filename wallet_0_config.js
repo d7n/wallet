@@ -1,1 +1,1 @@
-var mnemonic = "update property toilet sunset that swamp install antenna apology rude barrel initial";
+var mnemonic = "typical trust knee middle inform upset clinic drama crash select maple vibrant";

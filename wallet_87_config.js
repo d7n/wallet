@@ -1,1 +1,1 @@
-var mnemonic = "kingdom thunder pause pattern crawl fork school pole document frequent brick credit";
+var mnemonic = "flee obvious sibling divorce aunt puzzle keen master able grocery bundle shoe";

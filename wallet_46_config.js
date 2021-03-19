@@ -1,1 +1,1 @@
-var mnemonic = "thrive book now marine tonight main spread minute hour search tree hybrid";
+var mnemonic = "gesture addict camera hurry drum select require kid index payment upset embark";

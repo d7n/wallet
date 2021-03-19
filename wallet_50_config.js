@@ -1,1 +1,1 @@
-var mnemonic = "settle betray endorse price gold error busy lobster dial medal thumb caught";
+var mnemonic = "face indicate uphold danger audit area goddess aisle crew toddler bid route";

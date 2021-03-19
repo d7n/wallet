@@ -1,1 +1,1 @@
-var mnemonic = "put over dignity clutch galaxy tiger enroll despair entire achieve make act";
+var mnemonic = "number hen funny scout sketch coral long sniff vocal long lunch truck";

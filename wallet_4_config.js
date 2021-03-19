@@ -1,1 +1,1 @@
-var mnemonic = "pyramid renew hospital casual field giggle news route else glad estate field";
+var mnemonic = "morning tiger robot hat correct risk develop chef mail royal zoo lazy";

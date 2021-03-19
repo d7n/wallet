@@ -1,1 +1,1 @@
-var mnemonic = "chalk camera grow craft spy ankle video lazy pyramid curious head pitch";
+var mnemonic = "deposit install poem slice until master shuffle diamond curtain zoo half season";

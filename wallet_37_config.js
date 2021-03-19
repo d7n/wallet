@@ -1,1 +1,1 @@
-var mnemonic = "brush donate account surge share talent decade sure habit firm intact action";
+var mnemonic = "occur forum future keen half birth letter cheese trip sunny noble snow";

@@ -1,1 +1,1 @@
-var mnemonic = "horn gravity prison viable vessel suit track size say poem chapter play";
+var mnemonic = "breeze inch odor celery ticket milk elevator piece scout clutch speak chapter";

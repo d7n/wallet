@@ -1,1 +1,1 @@
-var mnemonic = "spot fat drastic latin always turn explain guilt language kit child romance";
+var mnemonic = "peasant behind grace display parent program amazing industry romance lake actress video";

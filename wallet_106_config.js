@@ -1,1 +1,1 @@
-var mnemonic = "dog desk spell mom diet cross pyramid neck elder stumble brief project";
+var mnemonic = "syrup cigar desk ancient behave wonder mushroom pet frog announce benefit butter";

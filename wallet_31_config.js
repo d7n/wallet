@@ -1,1 +1,1 @@
-var mnemonic = "erosion result delay exchange car cattle town side portion annual sample wait";
+var mnemonic = "spatial ship expose curtain gadget leader index echo ready amount will capital";

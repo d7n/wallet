@@ -1,1 +1,1 @@
-var mnemonic = "pink depth scout shell sibling pigeon beyond cigar rookie include athlete shrug";
+var mnemonic = "task real motor pet boil hole style clown raise behave vague spoil";

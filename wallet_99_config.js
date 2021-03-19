@@ -1,1 +1,1 @@
-var mnemonic = "duty beach cigar divert cost achieve coconut powder guide session track struggle";
+var mnemonic = "normal then ketchup violin vapor core regular village satisfy print portion february";

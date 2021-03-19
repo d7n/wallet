@@ -1,1 +1,1 @@
-var mnemonic = "found heavy camp urge tenant math rail enlist bridge omit salad distance";
+var mnemonic = "gauge window taste trick pull debate chunk melt mask insect oak bus";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket entire display tool diary boat pill junior bone follow document reunion";
+var mnemonic = "hint vessel scrap prize street cigar december stand wrist special once ladder";

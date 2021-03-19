@@ -1,1 +1,1 @@
-var mnemonic = "brave inherit sunny gauge brief nurse fit lonely repair skull buzz spoon";
+var mnemonic = "answer airport initial trumpet monster unable scrap eye animal arch phrase party";

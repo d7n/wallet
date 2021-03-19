@@ -1,1 +1,1 @@
-var mnemonic = "drop increase slender nest entry shop amused price juice ranch guard kingdom";
+var mnemonic = "cruel else confirm pride menu crash border toe say easy execute fee";

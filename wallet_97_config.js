@@ -1,1 +1,1 @@
-var mnemonic = "company unknown liar bronze feel pill tool smoke decline report hamster same";
+var mnemonic = "person parrot baby eagle crumble dog fault walk elephant gadget return water";

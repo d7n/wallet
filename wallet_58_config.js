@@ -1,1 +1,1 @@
-var mnemonic = "able shoulder blouse rigid lonely sausage width portion visual erupt aunt pigeon";
+var mnemonic = "border deposit school day hunt foot merry rice original badge asthma sun";

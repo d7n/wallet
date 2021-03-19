@@ -1,1 +1,1 @@
-var mnemonic = "bunker foot chef whisper butter myth swallow mixed lion actor delay loop";
+var mnemonic = "doctor ridge order neither sheriff patch rule width catalog wolf slight badge";

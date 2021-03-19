@@ -1,1 +1,1 @@
-var mnemonic = "couple plate fit bronze correct master acoustic turtle angry base gospel stairs";
+var mnemonic = "same view addict canoe fix win perfect ill rose theme lake sure";

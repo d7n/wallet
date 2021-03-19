@@ -1,1 +1,1 @@
-var mnemonic = "laugh provide decline payment produce offer rough always defense soccer begin suspect";
+var mnemonic = "hurt noodle post holiday mom famous company charge wreck glance neglect sea";

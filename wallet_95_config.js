@@ -1,1 +1,1 @@
-var mnemonic = "catalog pond immense rotate maximum cheap fluid choose pulp enforce network chaos";
+var mnemonic = "common image guitar pave quantum immune velvet original wolf world transfer upper";

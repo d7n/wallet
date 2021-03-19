@@ -1,1 +1,1 @@
-var mnemonic = "flash guess sing raccoon vote hamster caught sleep canal number vacuum tunnel";
+var mnemonic = "glow dolphin win rib april cement vehicle punch spin song message unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "cover fit proud kitchen music lounge reduce useful entry copy creek wet";
+var mnemonic = "once excite carbon enforce collect enforce ordinary palm type note priority option";

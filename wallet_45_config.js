@@ -1,1 +1,1 @@
-var mnemonic = "fox drip race good gossip plunge finish wage control kangaroo like antenna";
+var mnemonic = "license gym speak glass bamboo link marble prefer elevator razor file cool";

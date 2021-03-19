@@ -1,1 +1,1 @@
-var mnemonic = "pluck cross receive maple injury ozone attitude truly wool upgrade you actual";
+var mnemonic = "auto divert gym million run stay coil clog master suit lemon need";

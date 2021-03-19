@@ -1,1 +1,1 @@
-var mnemonic = "trap muffin robust permit winter deer thumb basic front rabbit zero leave";
+var mnemonic = "ostrich bomb pyramid story gaze fluid stuff morning any table buyer various";

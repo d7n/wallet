@@ -1,1 +1,1 @@
-var mnemonic = "limb quote chalk mirror cave pencil mimic current nerve ten smile nut";
+var mnemonic = "cloud candy spread assault dynamic boring health raven eight oven latin moral";

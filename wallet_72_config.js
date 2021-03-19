@@ -1,1 +1,1 @@
-var mnemonic = "asset sad old sign dinner extra right innocent erupt space gasp where";
+var mnemonic = "rebel mix monitor mother ivory tone fiscal manual stuff involve duty equal";

@@ -1,1 +1,1 @@
-var mnemonic = "denial couch pipe wall bus cabin royal shed analyst update creek usual";
+var mnemonic = "dry inch favorite dune brisk alley gospel always wet story detail pair";

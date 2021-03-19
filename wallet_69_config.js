@@ -1,1 +1,1 @@
-var mnemonic = "win web bind village describe ocean hub tower oppose lunar book extra";
+var mnemonic = "crush second method shuffle clog control spoon lazy liar option topic whip";

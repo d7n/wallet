@@ -1,1 +1,1 @@
-var mnemonic = "laundry chunk couple physical case tell eternal dish recall shuffle point egg";
+var mnemonic = "entire sauce find uphold fish hundred hover river street few suit menu";

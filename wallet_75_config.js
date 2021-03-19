@@ -1,1 +1,1 @@
-var mnemonic = "glass awake top either picture purpose blood nose bottom frequent accident step";
+var mnemonic = "actor good impulse morning sadness east gadget liar sweet athlete age foster";

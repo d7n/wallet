@@ -1,1 +1,1 @@
-var mnemonic = "half kitchen submit urban rely congress hair shock pass emotion coffee injury";
+var mnemonic = "trash act check mountain oblige aspect permit hand skin mad antenna expand";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean gain weekend lens canoe any device idle arena caught garden rubber";
+var mnemonic = "crack shoulder rule tackle avoid lucky quiz best zone unaware melt rally";

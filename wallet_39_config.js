@@ -1,1 +1,1 @@
-var mnemonic = "arrest movie throw lock play depart satoshi diagram bacon region worth enough";
+var mnemonic = "betray hour wild rude own thank theme carbon cement hat way execute";

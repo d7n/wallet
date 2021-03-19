@@ -1,1 +1,1 @@
-var mnemonic = "sword access other verify jaguar biology high song letter blind sniff father";
+var mnemonic = "language photo left subway subject remove hat saddle wreck habit focus fitness";

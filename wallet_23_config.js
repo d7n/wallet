@@ -1,1 +1,1 @@
-var mnemonic = "mom reunion deal author trap album draw aisle boy craft silent hungry";
+var mnemonic = "insane blame rabbit also high umbrella panda gym review video abuse cheese";

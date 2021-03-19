@@ -1,1 +1,1 @@
-var mnemonic = "pistol gym practice expire virtual embody obvious march quick device know trip";
+var mnemonic = "remember shoulder equal improve soft sheriff forum vendor silly force salmon devote";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion people adapt orange frequent pause sea flame someone wash obtain frozen";
+var mnemonic = "jar second scrap music rival river cheese mountain blanket test end cloth";

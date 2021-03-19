@@ -1,1 +1,1 @@
-var mnemonic = "firm youth century bomb slim legend leisure width sea evolve oblige cart";
+var mnemonic = "initial sample flash nest else carry hospital shrug chief spoon liberty slab";

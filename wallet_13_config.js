@@ -1,1 +1,1 @@
-var mnemonic = "repair reason betray engage world bicycle unit dilemma logic dance leave zone";
+var mnemonic = "diamond float gather style note item top flag insect crew era voice";

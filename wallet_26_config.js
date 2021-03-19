@@ -1,1 +1,1 @@
-var mnemonic = "swim few plastic math list pigeon practice addict radio student video decline";
+var mnemonic = "repair mandate arrange rich program bacon mask census confirm real sting face";

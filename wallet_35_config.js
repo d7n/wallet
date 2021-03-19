@@ -1,1 +1,1 @@
-var mnemonic = "world soup hub battle iron accuse salute room raven salmon nation tissue";
+var mnemonic = "tiger asset render subject torch crash atom donor hotel below actor onion";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk blood flip weather since club nice waste eyebrow final uncover lemon";
+var mnemonic = "shift slide enlist void elder shift entry because flame document more job";

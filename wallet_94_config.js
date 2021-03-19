@@ -1,1 +1,1 @@
-var mnemonic = "receive saddle wing such frost keep taste drip remain panther section loyal";
+var mnemonic = "perfect delay tissue shiver armor raise wife syrup hidden section sleep proud";

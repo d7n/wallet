@@ -1,1 +1,1 @@
-var mnemonic = "tired blanket can omit enhance discover few finish when manual away public";
+var mnemonic = "better case organ brave more unfair involve employ outside common hedgehog kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse job grid burger permit merry april gain foam day ride sail";
+var mnemonic = "all call volume morning accuse fossil draw truck park degree among erode";

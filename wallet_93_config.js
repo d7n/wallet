@@ -1,1 +1,1 @@
-var mnemonic = "garden food color public rival cotton news stand faint orient grit guilt";
+var mnemonic = "hidden keen alien eight exact castle intact mobile slide monitor gym minor";

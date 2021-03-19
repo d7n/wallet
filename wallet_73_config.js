@@ -1,1 +1,1 @@
-var mnemonic = "slice tongue ordinary sugar twenty table cushion muscle athlete urban endless silk";
+var mnemonic = "can skill venue wait mosquito video current sound dash reduce frown absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "hello anger exit into drive bless obvious try sponsor favorite addict coin";
+var mnemonic = "palace page ski payment insane organ sort pill bridge detail fault swing";

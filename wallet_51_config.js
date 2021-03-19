@@ -1,1 +1,1 @@
-var mnemonic = "scrap quit average casual nation garbage device monitor mail digital metal strong";
+var mnemonic = "december bubble village custom zoo student evidence must spawn lamp soup monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "pony seek pencil salute dolphin story glance awake sudden gap actress pistol";
+var mnemonic = "zebra success green sport ordinary across pigeon category major thumb sick seven";

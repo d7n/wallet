@@ -1,1 +1,1 @@
-var mnemonic = "crush bench gorilla slush giraffe game junior exile scrub clinic dinner lamp";
+var mnemonic = "tank various rival program success pepper dignity taxi bless category stick wrist";

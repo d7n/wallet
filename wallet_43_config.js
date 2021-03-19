@@ -1,1 +1,1 @@
-var mnemonic = "loud boss month truth lunar electric only denial kid snap ridge teach";
+var mnemonic = "wear rotate chief soon school usual mix fashion fence keep update spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness maze blossom more cheese farm boil arrive typical hawk abandon pulse";
+var mnemonic = "view arctic mushroom dad innocent giant keen you dirt sibling priority decade";

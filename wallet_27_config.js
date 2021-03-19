@@ -1,1 +1,1 @@
-var mnemonic = "adjust confirm dignity movie horror ridge soon myth claim mule guard tomorrow";
+var mnemonic = "vast vintage ten fatal impose sail hundred cluster enjoy dice absurd behind";

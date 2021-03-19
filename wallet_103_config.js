@@ -1,1 +1,1 @@
-var mnemonic = "park minute used record actor valid brave grief regular plastic system year";
+var mnemonic = "marriage network rapid negative fun calm funny soon combine habit sadness pumpkin";

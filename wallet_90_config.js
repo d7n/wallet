@@ -1,1 +1,1 @@
-var mnemonic = "gossip morning first before quiz exhaust mushroom goddess crane kiwi clerk diary";
+var mnemonic = "sweet bunker age thank snap cradle crime mail cross dwarf cry recycle";

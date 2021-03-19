@@ -1,1 +1,1 @@
-var mnemonic = "vehicle eternal earn injury tumble lens flag small combine pulp swift early";
+var mnemonic = "light syrup junk victory miss gesture element alley cluster brain document fantasy";

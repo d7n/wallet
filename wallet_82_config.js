@@ -1,1 +1,1 @@
-var mnemonic = "blue slogan document real jewel ability joy erase mother total cube index";
+var mnemonic = "voice glue unaware junior gossip increase wage seed climb panther visa derive";

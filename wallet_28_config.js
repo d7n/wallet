@@ -1,1 +1,1 @@
-var mnemonic = "foster prepare peace disease sample play smart visit damage fork vast erosion";
+var mnemonic = "oak brush harsh slot nut possible middle today pride mention scorpion label";

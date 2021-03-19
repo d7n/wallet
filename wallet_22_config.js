@@ -1,1 +1,1 @@
-var mnemonic = "oblige another race dog celery blanket rose cup eternal imitate buddy roof";
+var mnemonic = "narrow hint debris tag write quarter other bar robot field moon fabric";

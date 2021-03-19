@@ -1,1 +1,1 @@
-var mnemonic = "vintage dream near exotic measure auction blade ginger stable cradle seven clarify";
+var mnemonic = "seat cargo burden detect local giant track claw estate assist wrist check";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight this basket master annual spirit math buzz update pass joy chimney";
+var mnemonic = "seed plug motion bonus below fog powder wine bargain increase tackle rescue";

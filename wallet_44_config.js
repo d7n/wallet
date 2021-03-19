@@ -1,1 +1,1 @@
-var mnemonic = "amused wolf pledge sense zone world churn village move buzz absurd prepare";
+var mnemonic = "leg top journey sample gaze prefer weekend wear recipe arm egg happy";

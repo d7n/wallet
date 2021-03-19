@@ -1,1 +1,1 @@
-var mnemonic = "pig moment cheap advance clock napkin slab radio orient such rigid tail";
+var mnemonic = "apart member sock turkey mimic envelope catch cliff cram brave diesel play";

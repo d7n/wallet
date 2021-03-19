@@ -1,1 +1,1 @@
-var mnemonic = "balance random scene zoo occur wrap loan claim slush vibrant lady cancel";
+var mnemonic = "people blade indoor hill title dream divorce eager kind behave offer before";

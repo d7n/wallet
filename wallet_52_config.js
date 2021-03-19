@@ -1,1 +1,1 @@
-var mnemonic = "vast miracle skull bag adapt vacant lawsuit butter ancient plunge custom phone";
+var mnemonic = "harsh baby digital burst wisdom space plug urge cheese move box wise";

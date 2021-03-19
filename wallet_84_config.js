@@ -1,1 +1,1 @@
-var mnemonic = "vessel dentist object current talent father misery seek account table ensure away";
+var mnemonic = "divorce sell neglect wave path day abstract ordinary drift chair income scatter";

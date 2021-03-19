@@ -1,1 +1,1 @@
-var mnemonic = "sister choose robust praise prepare garden flip trip major surprise rubber dove";
+var mnemonic = "enter kangaroo fold city butter someone record outside strike keen muffin smooth";
