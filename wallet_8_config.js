@@ -1,1 +1,1 @@
-var mnemonic = "swamp various alpha usage inherit approve stable owner cruel wait hello venue";
+var mnemonic = "all tongue trial tenant dragon merge absent focus paper hazard case verb";

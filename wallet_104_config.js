@@ -1,1 +1,1 @@
-var mnemonic = "inmate inject pistol lens any desk exile address interest year already world";
+var mnemonic = "vibrant mixture clump noodle kind quiz social step eye result seek survey";

@@ -1,1 +1,1 @@
-var mnemonic = "metal lava execute hat easily wool avocado flag error music concert offer";
+var mnemonic = "title sauce erase tonight cart verify company wine border describe suspect tribe";

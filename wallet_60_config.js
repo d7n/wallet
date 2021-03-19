@@ -1,1 +1,1 @@
-var mnemonic = "sadness comfort nerve quality ginger damp laptop ramp supply pact phone spike";
+var mnemonic = "onion tattoo absurd flock travel fox fire next mechanic sunny stable west";

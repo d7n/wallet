@@ -1,1 +1,1 @@
-var mnemonic = "rubber wreck seminar knock grant latin spirit arch clever total inhale tree";
+var mnemonic = "elevator pitch uphold knee clinic pattern fitness chapter paper civil swing feel";

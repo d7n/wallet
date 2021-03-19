@@ -1,1 +1,1 @@
-var mnemonic = "kick garment punch economy include frozen flat armor coach unhappy install maid";
+var mnemonic = "second suit remain flight throw unlock fit main morning success glare hunt";

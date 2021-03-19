@@ -1,1 +1,1 @@
-var mnemonic = "answer tip auto nurse steak slam poverty federal fatigue civil width purity";
+var mnemonic = "fancy hurry attitude filter endless deal humor air turn siege supreme sustain";

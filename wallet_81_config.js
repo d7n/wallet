@@ -1,1 +1,1 @@
-var mnemonic = "mesh radar visit certain potato ill pencil panic limit lottery doll fault";
+var mnemonic = "shift peasant eager modify swim involve dwarf stem robust joke fitness mechanic";

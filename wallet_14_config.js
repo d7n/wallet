@@ -1,1 +1,1 @@
-var mnemonic = "situate tomato used spatial brisk foster easily cube palm web obtain drastic";
+var mnemonic = "check blush rifle sort concert voice burden flip fossil usual forward wood";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual admit yellow seed water bunker oyster hidden trophy large liquid spray";
+var mnemonic = "gaze ginger bamboo play popular athlete improve pool kite need valley snake";

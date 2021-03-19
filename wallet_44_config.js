@@ -1,1 +1,1 @@
-var mnemonic = "open cage one swear reject canvas impact enable census tower volcano since";
+var mnemonic = "video buyer rib pull decade obvious emerge property decorate just column employ";

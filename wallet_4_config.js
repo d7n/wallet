@@ -1,1 +1,1 @@
-var mnemonic = "mango square faculty high pass mirror motor nut wait shoot zone brave";
+var mnemonic = "armed deal float interest replace metal decrease tag sight ship female exact";

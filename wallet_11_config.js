@@ -1,1 +1,1 @@
-var mnemonic = "fever wool orchard inmate priority monkey aunt sunny sentence budget air humble";
+var mnemonic = "palm action furnace bird word unveil nominee crop mix reduce method anchor";

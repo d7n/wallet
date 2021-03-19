@@ -1,1 +1,1 @@
-var mnemonic = "spot trend hawk lesson remain disagree file bulb fancy provide cable alley";
+var mnemonic = "canvas physical alter cheap afraid boost embody shallow deal text cereal cannon";

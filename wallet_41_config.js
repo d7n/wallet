@@ -1,1 +1,1 @@
-var mnemonic = "pudding kid dish lava patrol twist frost clog dumb duty giggle oak";
+var mnemonic = "vacuum awful better permit match oyster pilot change lawn happy decide behind";

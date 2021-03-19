@@ -1,1 +1,1 @@
-var mnemonic = "excuse immune prepare canoe catalog stock math local odor surround swarm rapid";
+var mnemonic = "inner still chalk soft where spend mixture grace lazy blush eager oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "engage token dutch junk measure drift grunt elbow foster actual depth chat";
+var mnemonic = "pet taxi inner host east awkward army emotion friend rather power assault";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb clay mule borrow month symbol purchase remember advance candy kid measure";
+var mnemonic = "sing text joy under regular gown math invest pulp cause piano glue";

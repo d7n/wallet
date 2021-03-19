@@ -1,1 +1,1 @@
-var mnemonic = "punch long dial scare top march put cart more child know stock";
+var mnemonic = "day flip town else seek nose simple mimic question certain slight sport";

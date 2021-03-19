@@ -1,1 +1,1 @@
-var mnemonic = "enhance bridge armed tortoise explain drama cigar kind staff tuna plate remember";
+var mnemonic = "size select usual disorder diagram speed chuckle harvest museum dry crash skin";

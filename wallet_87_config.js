@@ -1,1 +1,1 @@
-var mnemonic = "portion expand slim budget square panda flight hedgehog piece knock remove pitch";
+var mnemonic = "link charge bag absurd define someone slab tonight giraffe rhythm security main";

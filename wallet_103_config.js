@@ -1,1 +1,1 @@
-var mnemonic = "oppose blanket token federal party camp item casual tiny indoor ramp color";
+var mnemonic = "park bike arch food slow dismiss spider female oval type trash project";

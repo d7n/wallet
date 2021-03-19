@@ -1,1 +1,1 @@
-var mnemonic = "pattern egg apart effort limb uniform venture lunar relief cabin just swallow";
+var mnemonic = "side broccoli actor thumb early lazy omit insane ketchup where purity salmon";

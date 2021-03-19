@@ -1,1 +1,1 @@
-var mnemonic = "daughter vehicle either heavy rhythm trash work market hobby divert expire hen";
+var mnemonic = "future butter express slam consider galaxy beauty mention margin six true hair";

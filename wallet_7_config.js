@@ -1,1 +1,1 @@
-var mnemonic = "issue chuckle draw document fatigue wish beauty wine library foil able abandon";
+var mnemonic = "analyst annual funny have monkey dune series budget flee moral asset jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity setup saddle narrow quantum swim tattoo unhappy vocal combine explain industry";
+var mnemonic = "gap shed square dynamic across switch soap donkey leaf duck student daring";

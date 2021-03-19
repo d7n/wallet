@@ -1,1 +1,1 @@
-var mnemonic = "bubble dance bounce brand shoot range comfort main diesel because floor stomach";
+var mnemonic = "country bike eyebrow protect van they hotel accident village grass mammal whip";

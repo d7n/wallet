@@ -1,1 +1,1 @@
-var mnemonic = "coin news village machine spend lounge tree tent hurt cherry purity script";
+var mnemonic = "person income inhale rely fault large urge biology demand poem record title";

@@ -1,1 +1,1 @@
-var mnemonic = "opera process object winter churn execute business setup ceiling catch side oak";
+var mnemonic = "dwarf drive success nose vote stadium circle taxi sunny eyebrow express fiber";

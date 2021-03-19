@@ -1,1 +1,1 @@
-var mnemonic = "fashion style unit twelve analyst fatal soda purity equal pledge head fence";
+var mnemonic = "girl address virus agree foil accident purse sphere antenna rose method tribe";

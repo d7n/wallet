@@ -1,1 +1,1 @@
-var mnemonic = "visa knee slim couple sadness jealous plate quality since head grass ketchup";
+var mnemonic = "rookie major often mad rally country gravity amazing essay buffalo toddler liar";

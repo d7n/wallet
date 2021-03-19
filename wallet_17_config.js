@@ -1,1 +1,1 @@
-var mnemonic = "adapt motor private young type goose govern split hill vital unusual leave";
+var mnemonic = "rug exact sausage warfare gaze glimpse junior predict science public antenna stand";

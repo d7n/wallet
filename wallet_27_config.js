@@ -1,1 +1,1 @@
-var mnemonic = "elder tissue expose pizza struggle pill accuse snow april vessel cruise umbrella";
+var mnemonic = "tail task lady enjoy people aerobic best horn olive urban absorb core";

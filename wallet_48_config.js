@@ -1,1 +1,1 @@
-var mnemonic = "lucky antique program fame shiver neglect submit chuckle merit coil license ecology";
+var mnemonic = "valid evil loyal decade indoor fox advance ecology winter cinnamon surround again";

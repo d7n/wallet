@@ -1,1 +1,1 @@
-var mnemonic = "metal inner olympic topple embody knee keep muffin stable cheese fury airport";
+var mnemonic = "portion remember sense lamp history expire venture chaos radio fashion script raise";

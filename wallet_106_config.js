@@ -1,1 +1,1 @@
-var mnemonic = "repair task clog annual verify outer blur chef firm tattoo knife mimic";
+var mnemonic = "another tuna aerobic field imitate craft kind uncover corn young carbon twice";

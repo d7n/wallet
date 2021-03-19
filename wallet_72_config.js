@@ -1,1 +1,1 @@
-var mnemonic = "spirit baby thunder hover extend surround nominee decline earth liar soda mountain";
+var mnemonic = "police field basket trick october among gentle park powder blind network cliff";

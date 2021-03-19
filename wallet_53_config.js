@@ -1,1 +1,1 @@
-var mnemonic = "twenty replace addict exhaust security invite box display tiger quarter program theme";
+var mnemonic = "cradle pluck sing fuel else demise index either erosion dose arrange slush";

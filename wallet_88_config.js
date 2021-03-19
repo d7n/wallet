@@ -1,1 +1,1 @@
-var mnemonic = "return voice trouble nominee insect crowd gasp robust april unhappy truly will";
+var mnemonic = "black valve intact exhaust spoil point tragic world vote dad casino hidden";

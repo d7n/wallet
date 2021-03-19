@@ -1,1 +1,1 @@
-var mnemonic = "deny initial inside thing flush morning sadness suit wealth claim execute punch";
+var mnemonic = "debris walnut master material wife giant hard sentence balance narrow lawn segment";

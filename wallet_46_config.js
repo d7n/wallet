@@ -1,1 +1,1 @@
-var mnemonic = "water swarm raven burst notable message chuckle basic slender then cotton night";
+var mnemonic = "clog near field bone dismiss mistake donor dumb current jealous once resource";

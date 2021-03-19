@@ -1,1 +1,1 @@
-var mnemonic = "sponsor barely hobby giant fly winter virtual diamond update promote fame chuckle";
+var mnemonic = "insect blind plastic general talent range noise team coast hip mother account";

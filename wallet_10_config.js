@@ -1,1 +1,1 @@
-var mnemonic = "park mosquito daughter spoil ride blood marine draft floor inside apology neglect";
+var mnemonic = "foster action garage denial sell neck dream shuffle element entire snack dismiss";

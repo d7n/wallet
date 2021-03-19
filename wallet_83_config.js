@@ -1,1 +1,1 @@
-var mnemonic = "want fetch proud romance bubble media genre rubber twice coil animal solid";
+var mnemonic = "cook fever bomb crisp way valley monster jelly adult typical skin say";

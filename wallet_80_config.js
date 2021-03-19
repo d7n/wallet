@@ -1,1 +1,1 @@
-var mnemonic = "grain wood foam click keen spend move assault debris blast taxi letter";
+var mnemonic = "rally drama quick galaxy grace theme sample fit pumpkin dolphin define since";

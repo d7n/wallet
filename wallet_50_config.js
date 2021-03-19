@@ -1,1 +1,1 @@
-var mnemonic = "horn silly indoor series divorce magnet quit price provide rescue wrestle stable";
+var mnemonic = "scene believe mimic expect trigger sister bleak force lobster modify cliff remind";

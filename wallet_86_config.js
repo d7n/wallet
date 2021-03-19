@@ -1,1 +1,1 @@
-var mnemonic = "work before author people umbrella agree network find kind business antenna spot";
+var mnemonic = "baby filter speed version maximum betray gold ritual hat host member drip";

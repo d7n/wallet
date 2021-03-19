@@ -1,1 +1,1 @@
-var mnemonic = "minor obscure across proud limit tenant sunset shoot network nest myth venture";
+var mnemonic = "rival opera vast enjoy vehicle panther gossip usage fatal word attitude photo";

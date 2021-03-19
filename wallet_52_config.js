@@ -1,1 +1,1 @@
-var mnemonic = "deliver enforce ill invite remember forum theory staff bind never token comic";
+var mnemonic = "laundry tell time health drive bicycle member day couple impact pony pelican";

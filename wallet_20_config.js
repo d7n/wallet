@@ -1,1 +1,1 @@
-var mnemonic = "tenant like interest border sugar print balcony speed helmet acid memory build";
+var mnemonic = "pet ability seed episode blouse shrug lady royal swear quality leaf knife";

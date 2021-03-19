@@ -1,1 +1,1 @@
-var mnemonic = "strike lunar person mountain matrix tag very bright boat hire art indicate";
+var mnemonic = "original move useful pipe movie rose fragile draft all remain bomb theory";

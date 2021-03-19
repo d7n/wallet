@@ -1,1 +1,1 @@
-var mnemonic = "reopen point favorite issue comic embody plug leopard point shift subway middle";
+var mnemonic = "detail clarify same earth satoshi ladder else hand crystal month shock jazz";

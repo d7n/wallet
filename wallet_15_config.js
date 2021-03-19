@@ -1,1 +1,1 @@
-var mnemonic = "street series dismiss exotic mother uncover tent heart across endorse mad achieve";
+var mnemonic = "inner meat vivid north reason fresh seek custom page enough december impulse";

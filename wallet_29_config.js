@@ -1,1 +1,1 @@
-var mnemonic = "quick want oxygen blush alien dawn system marine conduct target tourist lonely";
+var mnemonic = "nest zero program mixture pottery remember anxiety mass garment neutral industry accuse";

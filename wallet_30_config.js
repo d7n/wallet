@@ -1,1 +1,1 @@
-var mnemonic = "annual exotic height betray slim game rack cotton item park icon power";
+var mnemonic = "royal lady human zoo mad join system organ reflect thing shuffle roast";

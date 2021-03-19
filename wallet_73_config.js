@@ -1,1 +1,1 @@
-var mnemonic = "brave fiscal army month cargo begin interest void equip neglect unfold drama";
+var mnemonic = "cloud stage asthma phrase lobster fire damage drink sock faith occur into";

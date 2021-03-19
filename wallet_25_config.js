@@ -1,1 +1,1 @@
-var mnemonic = "wood bleak length once breeze dinner syrup author miss bicycle suit notice";
+var mnemonic = "silent all wave depth clap reform cushion identify urban zebra obtain eye";

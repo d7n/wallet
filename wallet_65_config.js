@@ -1,1 +1,1 @@
-var mnemonic = "web kingdom total pill debris borrow number level rose metal east weird";
+var mnemonic = "woman puzzle nothing believe topic hotel polar measure shine mix height clip";

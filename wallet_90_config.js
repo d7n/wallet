@@ -1,1 +1,1 @@
-var mnemonic = "place field angle illness reform much clerk boy reform lend acoustic balance";
+var mnemonic = "hip cattle raise normal order caught marble weapon ocean phrase december vivid";

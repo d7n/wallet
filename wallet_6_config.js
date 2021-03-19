@@ -1,1 +1,1 @@
-var mnemonic = "weekend hamster recipe prison excite own steak humor miss eagle post tag";
+var mnemonic = "limit menu satoshi atom lucky settle guide fossil produce daughter solution cloth";

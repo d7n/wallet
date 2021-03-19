@@ -1,1 +1,1 @@
-var mnemonic = "limit radio sight purse lemon pattern hard minor universe winner issue clump";
+var mnemonic = "priority penalty diet essay call hollow crop follow obey install suffer joke";

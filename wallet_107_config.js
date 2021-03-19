@@ -1,1 +1,1 @@
-var mnemonic = "below quick glance decrease race chalk decrease suit hub harvest reopen trophy";
+var mnemonic = "bracket evoke sugar zebra magnet captain way cage ticket cube expose tonight";

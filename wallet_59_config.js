@@ -1,1 +1,1 @@
-var mnemonic = "toilet drum ridge person royal cram outside icon alcohol extra mountain leg";
+var mnemonic = "level neutral short oxygen manual argue dog taste twenty super tail dragon";

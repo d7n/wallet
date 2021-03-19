@@ -1,1 +1,1 @@
-var mnemonic = "jungle spirit cost gain citizen pelican claim domain grape someone fault inner";
+var mnemonic = "leopard clap reunion taxi mutual hotel student derive hidden flash smooth erosion";

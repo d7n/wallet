@@ -1,1 +1,1 @@
-var mnemonic = "blind crunch forest express length crawl siege fiction tag extra hover soda";
+var mnemonic = "peasant remind piece dentist comic hurt canoe echo giraffe catch rebel noise";

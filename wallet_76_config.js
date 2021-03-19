@@ -1,1 +1,1 @@
-var mnemonic = "truck clerk page buffalo bleak unhappy blossom grunt light occur shift orient";
+var mnemonic = "pudding crash donate design trust direct submit stadium addict resource elevator top";

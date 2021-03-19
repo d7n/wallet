@@ -1,1 +1,1 @@
-var mnemonic = "timber capital quarter sponsor prosper master trigger kick glance once you medal";
+var mnemonic = "rate mule select table tone speed drastic tube insane wash add trap";

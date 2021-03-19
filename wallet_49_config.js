@@ -1,1 +1,1 @@
-var mnemonic = "gate motor hand cause reason strike define immense despair rather average august";
+var mnemonic = "torch card miracle bag tomato home draft bless tenant melody expand until";

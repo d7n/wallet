@@ -1,1 +1,1 @@
-var mnemonic = "come ignore churn hungry father define solar loyal sleep genuine alcohol cement";
+var mnemonic = "punch absorb field hand evil skin clinic amount muscle unaware oak citizen";

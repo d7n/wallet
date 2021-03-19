@@ -1,1 +1,1 @@
-var mnemonic = "another acid evidence amateur file bronze climb dinosaur hen exit uphold course";
+var mnemonic = "rack embrace primary powder better arrive buffalo clown skin zoo tooth physical";

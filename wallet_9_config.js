@@ -1,1 +1,1 @@
-var mnemonic = "oyster earth reject brief dignity token keep foam father you direct noise";
+var mnemonic = "movie acid muffin salmon recycle easy pear devote weird drop pet lift";

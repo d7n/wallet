@@ -1,1 +1,1 @@
-var mnemonic = "dish skin fuel stumble weapon fun outdoor spy chase discover breeze jealous";
+var mnemonic = "chef twice top sleep junior spatial begin account over confirm behind labor";

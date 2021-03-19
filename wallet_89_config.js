@@ -1,1 +1,1 @@
-var mnemonic = "regret enemy stuff make reason renew box short seven exotic gorilla mention";
+var mnemonic = "ticket alone upset vacuum coconut custom whale because fire conduct beauty glass";

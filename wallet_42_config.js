@@ -1,1 +1,1 @@
-var mnemonic = "shallow system bounce enlist flag card dish cycle leaf shed text auto";
+var mnemonic = "trigger grape worry evolve replace muffin either annual unhappy coach library aware";

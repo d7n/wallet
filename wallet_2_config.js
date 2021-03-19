@@ -1,1 +1,1 @@
-var mnemonic = "front slide apple flight chimney oil relax rescue caution common mango option";
+var mnemonic = "nasty open little health custom amazing toy obscure drama unhappy tunnel weapon";

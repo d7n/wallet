@@ -1,1 +1,1 @@
-var mnemonic = "uniform iron pet better accident pizza name pledge bracket dad hobby roof";
+var mnemonic = "stairs lumber panic jaguar bind faith crowd proud entry wire advice salad";

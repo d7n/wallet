@@ -1,1 +1,1 @@
-var mnemonic = "pledge basic essence lawsuit fold kiss rotate cause conduct culture usage behave";
+var mnemonic = "swap ostrich pool juice lava library steel rain energy hospital lawsuit lady";

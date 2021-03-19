@@ -1,1 +1,1 @@
-var mnemonic = "purpose token attend police salt sponsor entire rug genuine jungle mesh patient";
+var mnemonic = "educate cart debris resist model movie venue height wagon regret enroll gloom";

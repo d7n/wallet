@@ -1,1 +1,1 @@
-var mnemonic = "debate bring noble rule good patch soda inflict file ribbon ostrich average";
+var mnemonic = "garbage solar asthma gravity assist fan direct hungry duty sunset matter good";

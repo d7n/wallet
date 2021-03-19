@@ -1,1 +1,1 @@
-var mnemonic = "call wet slot venture innocent crawl common switch belt cruise jeans morning";
+var mnemonic = "mule derive joy short always connect since tattoo kiwi hollow camp marine";

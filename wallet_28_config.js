@@ -1,1 +1,1 @@
-var mnemonic = "erase case captain bone venue cupboard someone reflect clay enroll loop protect";
+var mnemonic = "seed remove clog rookie cushion unique inspire narrow flip kangaroo evolve tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce subject retire inject olive sock holiday hood pistol provide ostrich convince";
+var mnemonic = "confirm spend door curtain vote frog pool bottom frame author like cube";

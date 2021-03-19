@@ -1,1 +1,1 @@
-var mnemonic = "math weekend metal lock bulb vacuum idea recall hat hello kitten hammer";
+var mnemonic = "bargain govern appear patrol broom unaware blanket owner circle category siren faint";

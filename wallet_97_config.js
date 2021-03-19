@@ -1,1 +1,1 @@
-var mnemonic = "quarter surprise spare mercy comic puzzle attract spy radio ability weather boss";
+var mnemonic = "repeat capable require twist heart decrease alert state organ section foil autumn";

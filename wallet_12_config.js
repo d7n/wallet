@@ -1,1 +1,1 @@
-var mnemonic = "shuffle walk sample control urban nurse desk yard shrug phone tank valley";
+var mnemonic = "mind edit rather domain deal want measure umbrella maximum vault save muffin";

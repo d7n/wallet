@@ -1,1 +1,1 @@
-var mnemonic = "nephew worth into sibling raise sketch right hip october enact truth mechanic";
+var mnemonic = "host box consider win trigger air layer sentence embody alpha funny actor";

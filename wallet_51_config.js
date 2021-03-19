@@ -1,1 +1,1 @@
-var mnemonic = "hidden chaos sword across elevator extend few pumpkin perfect frost badge earn";
+var mnemonic = "permit inherit rice chicken lobster blade can agree broccoli gauge century speak";

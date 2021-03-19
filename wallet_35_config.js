@@ -1,1 +1,1 @@
-var mnemonic = "tuition viable cupboard buyer pumpkin cupboard load basic spray tackle obtain able";
+var mnemonic = "envelope welcome employ oil extra disease ski tobacco tattoo chimney tuition pulse";

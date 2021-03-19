@@ -1,1 +1,1 @@
-var mnemonic = "diagram salt plug oak exchange soul gun over weather rather kitchen actress";
+var mnemonic = "ceiling type light ladder weird depart dune market bless iron prosper track";
