@@ -1,1 +1,1 @@
-var mnemonic = "cross version spoon shop panic hero escape modify element time parade orange";
+var mnemonic = "rose remember act desk punch spare donkey purity wonder choose stock salon";

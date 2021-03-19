@@ -1,1 +1,1 @@
-var mnemonic = "crouch brief core kidney mom thank improve mean region popular lake unfair";
+var mnemonic = "wood caution artwork race deliver peace skate wasp farm parent snack palace";

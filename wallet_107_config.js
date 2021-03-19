@@ -1,1 +1,1 @@
-var mnemonic = "ripple rubber sell imitate mansion few wet brand bitter wheat trumpet moral";
+var mnemonic = "wine display maple congress quote parade become fury praise cat unfair slush";

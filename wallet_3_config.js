@@ -1,1 +1,1 @@
-var mnemonic = "call spell bulb grape endorse shrug tortoise exit play bacon fetch ethics";
+var mnemonic = "fee capital butter leisure differ panther matter sight awake north apart virus";

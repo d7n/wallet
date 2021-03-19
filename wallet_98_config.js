@@ -1,1 +1,1 @@
-var mnemonic = "caution fuel resource mix world joke omit pass item destroy vessel garbage";
+var mnemonic = "turtle wedding hold curtain coyote width vintage clerk carbon enemy address before";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin please slice inner open permit equip rebel hundred off only predict";
+var mnemonic = "heavy page inform over reward surround wire pear hundred artefact front tape";

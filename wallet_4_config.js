@@ -1,1 +1,1 @@
-var mnemonic = "win material raccoon picture myself brave dust match pet claw cargo horn";
+var mnemonic = "funny height cook flip hidden visual simple glove script fuel warfare practice";

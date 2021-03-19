@@ -1,1 +1,1 @@
-var mnemonic = "various airport search wish vibrant indicate column world ask like churn athlete";
+var mnemonic = "gravity rare glory deal female once course stamp flag pull whip tiny";

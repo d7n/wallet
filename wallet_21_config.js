@@ -1,1 +1,1 @@
-var mnemonic = "chicken rebuild rent ask bomb route business yellow equal denial canvas liar";
+var mnemonic = "access oblige genius deer scale render laundry improve scare swallow embrace execute";

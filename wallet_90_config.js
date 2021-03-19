@@ -1,1 +1,1 @@
-var mnemonic = "brave lazy ice student price fire hood aisle hover top south dream";
+var mnemonic = "sphere gas please consider gun topic leopard now seek hip distance famous";

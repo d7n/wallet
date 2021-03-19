@@ -1,1 +1,1 @@
-var mnemonic = "permit logic base boat shrimp force mutual spend soft move trade series";
+var mnemonic = "royal good brass guard kit media custom doll train drift assault soft";

@@ -1,1 +1,1 @@
-var mnemonic = "suit prefer coast weasel victory one ball whisper cook talent luggage sleep";
+var mnemonic = "giggle chair invite enroll gentle guess awful rate fuel rapid canyon truck";

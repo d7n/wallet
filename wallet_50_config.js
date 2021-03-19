@@ -1,1 +1,1 @@
-var mnemonic = "beyond wave canal riot nominee scare radio manage clerk exchange ozone coyote";
+var mnemonic = "loop idea pause charge raven shy license above fossil play inhale sustain";

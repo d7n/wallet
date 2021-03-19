@@ -1,1 +1,1 @@
-var mnemonic = "domain easily genre punch swamp hour disease drama trim cabin analyst trim";
+var mnemonic = "result section filter entire celery spawn observe worry inmate struggle jungle struggle";

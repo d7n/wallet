@@ -1,1 +1,1 @@
-var mnemonic = "pen sand cable cluster tower jump situate talent brother pole eternal subway";
+var mnemonic = "scan ghost latin figure isolate ozone actress fury vital unveil gun piece";

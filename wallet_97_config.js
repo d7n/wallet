@@ -1,1 +1,1 @@
-var mnemonic = "barrel aspect bridge razor pull leave tourist asset crack puzzle scrub follow";
+var mnemonic = "ignore view slender share useful cube picnic reopen genre frown bird explain";

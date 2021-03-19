@@ -1,1 +1,1 @@
-var mnemonic = "perfect rely notice mutual task ugly step sock hand kangaroo frog public";
+var mnemonic = "else oyster doll glue grit chuckle equip repair decide enemy bonus pizza";

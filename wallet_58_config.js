@@ -1,1 +1,1 @@
-var mnemonic = "push cat visit aspect novel danger unveil asthma voyage lyrics keen general";
+var mnemonic = "garage peace rescue poem table visa coral this random chalk peace picture";

@@ -1,1 +1,1 @@
-var mnemonic = "pair acid struggle rug return crew tiny spawn wrong story student stomach";
+var mnemonic = "school seek slot funny debate squirrel able kind maximum wagon maid ahead";

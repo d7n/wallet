@@ -1,1 +1,1 @@
-var mnemonic = "retire metal cage zoo poem message dragon kitten announce key insect net";
+var mnemonic = "science volume miracle now include tilt donkey poet perfect crucial assist ritual";

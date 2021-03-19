@@ -1,1 +1,1 @@
-var mnemonic = "tell vintage ladder frequent faint icon belt fatal hamster ensure arrest dentist";
+var mnemonic = "fine shield decline fancy summer jazz describe snack cool burden fossil small";

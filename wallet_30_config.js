@@ -1,1 +1,1 @@
-var mnemonic = "reveal minimum lake tattoo cute athlete address fresh junk mistake antique popular";
+var mnemonic = "scheme situate speak worth town taste vapor ghost tomorrow anxiety unique deputy";

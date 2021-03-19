@@ -1,1 +1,1 @@
-var mnemonic = "ceiling now midnight biology busy lottery twelve market man seek crash portion";
+var mnemonic = "illness report slab today across case shield country wrong woman found shine";

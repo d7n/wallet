@@ -1,1 +1,1 @@
-var mnemonic = "umbrella lazy vault garbage unaware true room lounge love rose tenant park";
+var mnemonic = "sound lens foot sunset wrist universe uncover ketchup ready despair plate angle";

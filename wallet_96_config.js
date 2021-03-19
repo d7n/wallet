@@ -1,1 +1,1 @@
-var mnemonic = "kid moment base close intact swarm heart put lonely lottery school cattle";
+var mnemonic = "inner grit village hub device kite travel concert pen history hamster cry";

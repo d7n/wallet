@@ -1,1 +1,1 @@
-var mnemonic = "clog theory glare solar brain rose they frozen rule stem frame grass";
+var mnemonic = "swing help enact leaf glare spike fault social art length dance plug";

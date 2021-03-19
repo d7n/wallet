@@ -1,1 +1,1 @@
-var mnemonic = "moral lucky shield economy figure spring toe situate clog step moon purity";
+var mnemonic = "elevator piece antique impulse media explain stumble oppose drastic garment radar talent";

@@ -1,1 +1,1 @@
-var mnemonic = "found december pulp route blur bracket curtain bacon orient fever life boring";
+var mnemonic = "great hero effort wife slogan mean galaxy sport jazz perfect ladder own";

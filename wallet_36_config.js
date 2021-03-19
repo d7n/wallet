@@ -1,1 +1,1 @@
-var mnemonic = "tennis nothing episode frequent sign believe outside pulse debate wreck charge toilet";
+var mnemonic = "eagle loud robot paddle innocent survey club feel above post plastic news";

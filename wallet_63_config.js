@@ -1,1 +1,1 @@
-var mnemonic = "motion child wood often three until artist relief cable manage outdoor coconut";
+var mnemonic = "struggle spring soul doll asset give glory estate project pen uniform badge";

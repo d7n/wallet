@@ -1,1 +1,1 @@
-var mnemonic = "ring husband timber crush answer language potato short birth truck title twist";
+var mnemonic = "close cupboard borrow excuse hood bounce sell book patrol bracket width marine";

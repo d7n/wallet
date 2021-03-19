@@ -1,1 +1,1 @@
-var mnemonic = "major topple artefact abuse ranch jewel afraid option again point second space";
+var mnemonic = "brand arrow foam hungry glimpse zebra toss unaware busy leaf consider rifle";

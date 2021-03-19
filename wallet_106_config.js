@@ -1,1 +1,1 @@
-var mnemonic = "silent episode dutch pause sample dwarf purchase ginger observe sustain select inspire";
+var mnemonic = "velvet parent vicious day dad burger tuition tornado young mass salon ready";

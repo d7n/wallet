@@ -1,1 +1,1 @@
-var mnemonic = "amateur siege immune window print consider drastic weather force script park vendor";
+var mnemonic = "garlic erode chef surprise return region hundred scheme moral error romance arrive";

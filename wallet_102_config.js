@@ -1,1 +1,1 @@
-var mnemonic = "upgrade unaware link aisle empty speak valid gasp kiss paper turkey holiday";
+var mnemonic = "call strategy limit casino nice tobacco puppy enhance toast glass blouse purity";

@@ -1,1 +1,1 @@
-var mnemonic = "sad wisdom wink labor very program regret innocent goddess inflict start meadow";
+var mnemonic = "local key soap video debate fine magnet course clay mandate make close";

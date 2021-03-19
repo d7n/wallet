@@ -1,1 +1,1 @@
-var mnemonic = "castle symptom guide lounge dream trade great tortoise salon report potato spatial";
+var mnemonic = "right panther sword pair keen promote tooth april lottery club onion stumble";

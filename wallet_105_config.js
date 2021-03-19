@@ -1,1 +1,1 @@
-var mnemonic = "rule chalk ready theme three craft educate attack loop bless chronic tragic";
+var mnemonic = "desk cart village tomato remain over pretty seat sibling matrix van laugh";

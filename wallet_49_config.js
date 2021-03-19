@@ -1,1 +1,1 @@
-var mnemonic = "crane surface install subway unknown cabbage analyst bargain auction harbor spin symbol";
+var mnemonic = "fancy coin flash slab board road vacuum trick case hidden laugh pigeon";

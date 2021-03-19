@@ -1,1 +1,1 @@
-var mnemonic = "twice error fog onion super sure sword strike army chuckle cheese book";
+var mnemonic = "work town awful gap high tissue castle maple amateur pair woman oil";

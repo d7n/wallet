@@ -1,1 +1,1 @@
-var mnemonic = "smart manage census forum sunset load cheese decorate analyst end tenant joy";
+var mnemonic = "cradle tired this rifle maple hour boring glass tree spy cattle gate";

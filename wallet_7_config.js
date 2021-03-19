@@ -1,1 +1,1 @@
-var mnemonic = "pitch estate jump soul miss orient material waste twenty hill coyote ability";
+var mnemonic = "betray decrease follow panther palace amazing have assault twelve board husband trigger";

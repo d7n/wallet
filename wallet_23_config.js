@@ -1,1 +1,1 @@
-var mnemonic = "friend pudding vehicle wave meat inner stove sphere fun profit alcohol bring";
+var mnemonic = "steak allow sure odor bounce wish lake impact crucial unfair script royal";

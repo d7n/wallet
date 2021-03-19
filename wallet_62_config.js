@@ -1,1 +1,1 @@
-var mnemonic = "stool foil once citizen violin code pen august planet various shallow expose";
+var mnemonic = "smoke priority raven borrow wrestle monster chat coach venture snake route title";

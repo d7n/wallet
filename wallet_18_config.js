@@ -1,1 +1,1 @@
-var mnemonic = "famous replace lucky weird media dream code fee van roast guitar bitter";
+var mnemonic = "cream photo renew spin curtain dance bird execute dune post promote lend";

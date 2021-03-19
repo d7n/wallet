@@ -1,1 +1,1 @@
-var mnemonic = "forget please setup decade grass ask file strike feed problem govern initial";
+var mnemonic = "actress stock merge glide update enable melt uphold brick rice knife tobacco";

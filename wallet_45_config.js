@@ -1,1 +1,1 @@
-var mnemonic = "kitchen debris stuff imitate urban surround destroy will load salmon rally act";
+var mnemonic = "satoshi system over easy mammal float endless boss sadness over employ noble";

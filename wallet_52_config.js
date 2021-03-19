@@ -1,1 +1,1 @@
-var mnemonic = "example few frequent buzz vehicle ask clap answer disagree crash change salmon";
+var mnemonic = "stable web toward manual render limb cigar smart grunt floor mind museum";

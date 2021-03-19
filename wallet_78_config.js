@@ -1,1 +1,1 @@
-var mnemonic = "height borrow detail room kick work icon tunnel lend trip aspect increase";
+var mnemonic = "recipe author milk confirm endorse smile voyage board snow monster shift dismiss";

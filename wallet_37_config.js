@@ -1,1 +1,1 @@
-var mnemonic = "cry symbol address viable unveil fog lens mad draft defy chronic crew";
+var mnemonic = "case awake music wrap language ancient hand noodle patient economy curtain mesh";

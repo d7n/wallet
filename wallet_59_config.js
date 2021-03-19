@@ -1,1 +1,1 @@
-var mnemonic = "enemy perfect chunk surge outer tenant silk easily unlock entire before update";
+var mnemonic = "soft shed rifle measure play dismiss engage drastic neutral sustain puzzle disease";

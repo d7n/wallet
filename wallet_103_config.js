@@ -1,1 +1,1 @@
-var mnemonic = "consider near lecture oval cinnamon awake uniform better region until horn conduct";
+var mnemonic = "deny bamboo common small spawn morning green include settle giraffe dismiss utility";

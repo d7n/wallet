@@ -1,1 +1,1 @@
-var mnemonic = "wild lend judge clip pride risk then flee ability betray dove silent";
+var mnemonic = "junior journey price zone cabin exchange when future identify grow useless unknown";

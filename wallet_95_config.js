@@ -1,1 +1,1 @@
-var mnemonic = "seminar orient rocket warm basket flower book lend robust review manual kid";
+var mnemonic = "suffer section unit profit example myself sudden crowd tag amateur tissue stage";

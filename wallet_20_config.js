@@ -1,1 +1,1 @@
-var mnemonic = "border funny emotion purse venue artwork access cycle want try strategy excess";
+var mnemonic = "area speed sunny offer small reunion valley truly curious eye universe leg";

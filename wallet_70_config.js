@@ -1,1 +1,1 @@
-var mnemonic = "dress claw student coyote zebra alcohol magnet cluster punch noise liar crew";
+var mnemonic = "timber forest fork figure mountain asthma two inmate crack inspire stomach thunder";

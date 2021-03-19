@@ -1,1 +1,1 @@
-var mnemonic = "carpet legal average damp rebuild jeans dance session olympic border nothing real";
+var mnemonic = "detect rug light genius champion reflect damp meat hill barely find focus";

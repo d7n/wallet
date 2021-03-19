@@ -1,1 +1,1 @@
-var mnemonic = "welcome pink column code cabin young barely force clip win napkin blush";
+var mnemonic = "dignity brain soft lesson tuna noble era tell guess regret close three";

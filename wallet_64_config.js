@@ -1,1 +1,1 @@
-var mnemonic = "donkey false movie grab priority science auction diary derive canyon mandate crater";
+var mnemonic = "only patch fluid same absent attack spread stamp harsh sad clutch slice";

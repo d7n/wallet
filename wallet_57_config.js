@@ -1,1 +1,1 @@
-var mnemonic = "onion blue stadium autumn once observe trim enhance moment clock income clerk";
+var mnemonic = "hint myth sport aim object ready awkward cement honey auto bridge extra";

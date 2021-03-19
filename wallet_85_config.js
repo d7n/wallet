@@ -1,1 +1,1 @@
-var mnemonic = "few team brief obey home wire connect twelve salad such engage robust";
+var mnemonic = "wool axis high praise differ issue bread consider admit weekend piano excite";

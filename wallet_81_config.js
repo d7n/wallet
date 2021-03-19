@@ -1,1 +1,1 @@
-var mnemonic = "talent early volume purpose invest fault october digital garlic perfect tail patient";
+var mnemonic = "bar cereal nice card track wide token economy cigar claw wheat morning";

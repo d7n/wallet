@@ -1,1 +1,1 @@
-var mnemonic = "escape neither accident fly patch erode sustain robot case negative eagle lady";
+var mnemonic = "fancy merge tourist lab clap must labor alarm shield issue grunt ethics";

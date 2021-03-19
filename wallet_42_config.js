@@ -1,1 +1,1 @@
-var mnemonic = "ancient hero ginger palm evolve brass excess drift crime capable cluster repeat";
+var mnemonic = "define mention comic honey response early gown quiz nut leg rely seat";

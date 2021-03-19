@@ -1,1 +1,1 @@
-var mnemonic = "black exact surge burst reduce donkey guide army absurd minimum legal season";
+var mnemonic = "cupboard loyal deposit town fan sugar winter burst spring puzzle fat sugar";

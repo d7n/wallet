@@ -1,1 +1,1 @@
-var mnemonic = "circle decrease joke umbrella flag large treat match unable dog hazard antenna";
+var mnemonic = "blur object describe will initial holiday gaze rare harvest mention amazing execute";

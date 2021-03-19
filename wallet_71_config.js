@@ -1,1 +1,1 @@
-var mnemonic = "fade ecology fun reason start brand shy sister bid scorpion traffic volume";
+var mnemonic = "village clarify daughter hotel merry spell duty luxury glare genius exhibit ranch";

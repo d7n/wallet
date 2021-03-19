@@ -1,1 +1,1 @@
-var mnemonic = "axis daughter vague write year notice never extra text nothing flag way";
+var mnemonic = "shoulder engage fiber mushroom army intact donate winter toward strong damp immense";

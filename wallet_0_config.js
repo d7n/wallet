@@ -1,1 +1,1 @@
-var mnemonic = "swing welcome stamp suspect empower bleak echo seven hat current grow hedgehog";
+var mnemonic = "juice renew copper mouse ramp solid rare together drive system pelican deny";

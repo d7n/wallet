@@ -1,1 +1,1 @@
-var mnemonic = "top lawsuit sign fatal beef month exit stumble ready certain bachelor relief";
+var mnemonic = "chronic grant quarter kite leg lawsuit misery goat warfare quiz consider cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn text rain avoid leave bamboo kingdom engine penalty razor catch round";
+var mnemonic = "square apology address bomb lobster paper avocado bless soldier border hard hotel";

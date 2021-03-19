@@ -1,1 +1,1 @@
-var mnemonic = "model brain occur top three keen illegal work surround skull nephew group";
+var mnemonic = "gadget protect wrist tooth detect roast orange zebra absent alpha brick worth";

@@ -1,1 +1,1 @@
-var mnemonic = "guide such fault rate outer join goat service slight album salon crime";
+var mnemonic = "frequent virus glove ribbon defy huge corn message music kiss gentle escape";

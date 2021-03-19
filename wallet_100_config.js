@@ -1,1 +1,1 @@
-var mnemonic = "appear unusual off muffin transfer gym raccoon antique glass uncle fringe creek";
+var mnemonic = "claim crunch blind like nose genius gym will develop athlete brave cheap";

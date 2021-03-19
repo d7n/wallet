@@ -1,1 +1,1 @@
-var mnemonic = "marriage blur next beach shield post arena naive gather episode cup favorite";
+var mnemonic = "like mutual tobacco route able sustain smooth cart ship woman exist install";

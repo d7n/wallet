@@ -1,1 +1,1 @@
-var mnemonic = "interest service valid repeat predict powder vibrant cradle deal aspect oven bird";
+var mnemonic = "myself caught virus broccoli extend rude denial antenna valid useless tent thought";

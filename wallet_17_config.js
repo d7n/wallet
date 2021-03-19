@@ -1,1 +1,1 @@
-var mnemonic = "tooth idea pair wine viable airport code raw chunk eagle profit hawk";
+var mnemonic = "tank remember occur animal program curve tail craft monkey bar win stamp";

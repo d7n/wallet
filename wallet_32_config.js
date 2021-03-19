@@ -1,1 +1,1 @@
-var mnemonic = "build kick wisdom drive mushroom depth recipe pioneer agent surge review problem";
+var mnemonic = "essence token return spider plunge hazard range super artwork select find twin";

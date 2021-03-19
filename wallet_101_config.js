@@ -1,1 +1,1 @@
-var mnemonic = "wet abuse head rebel wolf human always twist buzz custom office unknown";
+var mnemonic = "amount matter slush gorilla penalty champion much post inside stick chief weasel";

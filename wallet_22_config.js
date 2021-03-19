@@ -1,1 +1,1 @@
-var mnemonic = "core barely penalty olive among object vehicle april siren private glory fatal";
+var mnemonic = "rural thank clever bridge soul grab agree paddle hire lab addict absurd";

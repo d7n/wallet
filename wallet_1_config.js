@@ -1,1 +1,1 @@
-var mnemonic = "lion artist test cement basket frozen awake home keen fish air bubble";
+var mnemonic = "scheme whale sniff opinion glimpse sock rely tenant harsh cover flip illness";

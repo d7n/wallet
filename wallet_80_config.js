@@ -1,1 +1,1 @@
-var mnemonic = "box elder improve top nephew evil easily unable flat easily session sample";
+var mnemonic = "assume cat zoo earth provide swallow road rare reveal base can quantum";

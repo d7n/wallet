@@ -1,1 +1,1 @@
-var mnemonic = "marriage slot trend fog market series snake pumpkin master trap mind reveal";
+var mnemonic = "where assist scissors spirit bullet cattle pretty brush dirt hello nephew bright";

@@ -1,1 +1,1 @@
-var mnemonic = "hover practice weird actor exhaust slam step dust draw drill skirt parade";
+var mnemonic = "option purpose person mystery tongue stomach junior eager ridge ghost wild trick";

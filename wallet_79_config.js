@@ -1,1 +1,1 @@
-var mnemonic = "consider shoulder elevator still royal parrot shell fatal connect mutual wasp early";
+var mnemonic = "typical toilet walnut exchange service skirt salad tooth wink knife merry ranch";

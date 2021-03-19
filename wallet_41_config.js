@@ -1,1 +1,1 @@
-var mnemonic = "primary voice benefit label orchard apple adapt dry casino reveal below pioneer";
+var mnemonic = "fork sort supply review cherry vintage beach ski fluid magic solution elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "today endless spare runway account image cancel rapid page gesture race bacon";
+var mnemonic = "survey sight vote inch charge mystery pen little ride loud vanish hello";

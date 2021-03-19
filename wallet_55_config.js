@@ -1,1 +1,1 @@
-var mnemonic = "dizzy famous harbor usage use item chief face catalog wasp keep donate";
+var mnemonic = "loud since damage bulk target elephant cushion morning report spice either often";

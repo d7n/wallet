@@ -1,1 +1,1 @@
-var mnemonic = "noble scan witness early frown soft army grain castle fee ankle donor";
+var mnemonic = "frost flush denial long banana armed glory tissue boss pudding acoustic supply";
