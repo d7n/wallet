@@ -1,1 +1,1 @@
-var mnemonic = "hair huge item cage jungle excess mask uncle purity desert clock family";
+var mnemonic = "side control wreck orient obscure duck month effort profit awful question problem";

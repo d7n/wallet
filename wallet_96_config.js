@@ -1,1 +1,1 @@
-var mnemonic = "armed lobster naive ozone attract surface mirror autumn dress consider today sponsor";
+var mnemonic = "oyster rule raven famous second space stadium pony flower ahead chalk acquire";

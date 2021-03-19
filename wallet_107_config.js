@@ -1,1 +1,1 @@
-var mnemonic = "reform town rubber special creek elder inflict army stay trick tent calm";
+var mnemonic = "praise panther escape around desert fly fine sibling truly loop split wolf";

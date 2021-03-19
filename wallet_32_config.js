@@ -1,1 +1,1 @@
-var mnemonic = "bottom another this rich control dinner exchange onion bronze rely nature custom";
+var mnemonic = "claim acquire long extra anchor badge bulb race vibrant key often cage";

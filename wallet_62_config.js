@@ -1,1 +1,1 @@
-var mnemonic = "link key approve toss struggle kid proud magnet grit hand direct more";
+var mnemonic = "wheel belt hollow truck nature blade judge worry around cage wreck phone";

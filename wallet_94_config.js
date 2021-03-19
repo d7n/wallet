@@ -1,1 +1,1 @@
-var mnemonic = "sting kit october puppy knife collect chef dinner diary spider actress intact";
+var mnemonic = "taxi van just bring stage excess sibling gap goose demand ticket celery";

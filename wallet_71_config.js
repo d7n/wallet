@@ -1,1 +1,1 @@
-var mnemonic = "best inside blur diary taste fashion review dog subject sugar silver fruit";
+var mnemonic = "afraid funny device lottery someone barely flight vendor crucial total kid yellow";

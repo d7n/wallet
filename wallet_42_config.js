@@ -1,1 +1,1 @@
-var mnemonic = "street hidden picnic shrimp display giraffe citizen blast bid fabric business rookie";
+var mnemonic = "just gravity income atom resource rather tray urge make hazard school indicate";

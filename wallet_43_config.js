@@ -1,1 +1,1 @@
-var mnemonic = "fish light ancient dress loud paper tonight volume cry bleak seven lyrics";
+var mnemonic = "jump milk elder salad caution cruise tuna vault cage grab steel quarter";

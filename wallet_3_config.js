@@ -1,1 +1,1 @@
-var mnemonic = "shy bone differ wreck venture response power check speed magic knock evidence";
+var mnemonic = "donkey unique primary lumber tornado bar tennis tomato flock frost half skin";

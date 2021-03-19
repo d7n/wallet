@@ -1,1 +1,1 @@
-var mnemonic = "alien reflect zebra shy neither time again quick regret brush relax olive";
+var mnemonic = "wreck few knee option plug hamster deliver rigid pilot know winner monster";

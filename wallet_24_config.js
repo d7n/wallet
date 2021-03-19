@@ -1,1 +1,1 @@
-var mnemonic = "know slide minor flower super fossil volcano frame video outdoor verb utility";
+var mnemonic = "oil obvious apple logic annual exclude beach describe renew bachelor wheel cherry";

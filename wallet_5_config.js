@@ -1,1 +1,1 @@
-var mnemonic = "brown sting hello debris south hammer ugly carpet creek must season valid";
+var mnemonic = "clean smooth beauty symptom artefact feel meat motion harsh select cruise height";

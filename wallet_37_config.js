@@ -1,1 +1,1 @@
-var mnemonic = "park arena donor child laptop similar ability square envelope task plastic october";
+var mnemonic = "midnight dumb pen unit crowd tool vibrant brush match deer skin slice";

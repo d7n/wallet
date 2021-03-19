@@ -1,1 +1,1 @@
-var mnemonic = "skate cage crop relief cry brush century ostrich laugh curtain subject clever";
+var mnemonic = "access guard board furnace eyebrow candy exhibit squeeze february quick clerk patrol";

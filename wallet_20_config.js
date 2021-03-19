@@ -1,1 +1,1 @@
-var mnemonic = "aisle tool notice feature match latin always wheat sustain scout nurse device";
+var mnemonic = "energy twenty priority slide course smile address step rough crazy famous dirt";

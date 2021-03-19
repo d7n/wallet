@@ -1,1 +1,1 @@
-var mnemonic = "pill behave quick gather choose unknown pink outside dress erupt imitate human";
+var mnemonic = "indicate whale craft that melody evidence trophy gaze invite sudden travel pink";

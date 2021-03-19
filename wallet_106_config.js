@@ -1,1 +1,1 @@
-var mnemonic = "pass depart depth tackle horn either goddess volcano chaos warm metal hobby";
+var mnemonic = "emerge grace urge betray army castle game valley lunch six document receive";

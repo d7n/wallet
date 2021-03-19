@@ -1,1 +1,1 @@
-var mnemonic = "soup cupboard imitate figure vessel swap inhale review usage small table toe";
+var mnemonic = "wedding above process put wool clip carry update gown that output meat";

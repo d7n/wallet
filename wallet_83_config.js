@@ -1,1 +1,1 @@
-var mnemonic = "hand symptom stool rebuild rule forest aerobic illegal host cannon sorry page";
+var mnemonic = "notable decorate solid south crystal version pill vapor faith tip oak position";

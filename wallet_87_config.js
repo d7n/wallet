@@ -1,1 +1,1 @@
-var mnemonic = "leader ghost rare image bulb barrel fold employ drink zero admit uniform";
+var mnemonic = "wrestle inmate nominee amazing solve inch morning random sleep domain because tooth";

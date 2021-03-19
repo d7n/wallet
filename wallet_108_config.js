@@ -1,1 +1,1 @@
-var mnemonic = "crystal arrow retreat toddler foil avocado pepper knife fiction yard accuse believe";
+var mnemonic = "sense chalk coral injury carry sibling view erupt chapter cream wrong beach";

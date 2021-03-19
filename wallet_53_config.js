@@ -1,1 +1,1 @@
-var mnemonic = "subject guilt lend motion critic bachelor drift patrol industry mountain pave harbor";
+var mnemonic = "gown boring supreme adjust silent pioneer payment cycle legal increase confirm whisper";

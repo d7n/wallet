@@ -1,1 +1,1 @@
-var mnemonic = "design season park still proof inject private gasp fox knock fantasy oak";
+var mnemonic = "item game category network dutch disagree toddler fee sweet catch shoe clay";

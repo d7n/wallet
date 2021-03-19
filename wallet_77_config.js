@@ -1,1 +1,1 @@
-var mnemonic = "crack drift settle draft fit shock major evolve garlic wreck across coil";
+var mnemonic = "rain hunt goose enable minor liberty reform boy scene corn spend cinnamon";

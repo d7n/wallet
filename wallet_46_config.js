@@ -1,1 +1,1 @@
-var mnemonic = "equip pact arrive bonus risk evil multiply toy chicken pyramid scrub debris";
+var mnemonic = "soon fence review royal kite else axis loan poverty grass upon scrub";

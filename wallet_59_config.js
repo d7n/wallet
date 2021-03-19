@@ -1,1 +1,1 @@
-var mnemonic = "vital report acid already avoid jeans follow glance cage rebuild mule season";
+var mnemonic = "top aware mirror best grief design april north nut swear tackle option";

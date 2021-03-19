@@ -1,1 +1,1 @@
-var mnemonic = "inner wolf ceiling can gas pond napkin photo weasel grape ethics nature";
+var mnemonic = "hospital inmate punch repair transfer canoe silly icon image tribe few silly";

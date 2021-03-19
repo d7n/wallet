@@ -1,1 +1,1 @@
-var mnemonic = "grow wasp you broccoli solution film weird trade enforce morning draw october";
+var mnemonic = "honey silent odor awkward bamboo uncover save define dilemma air push harvest";

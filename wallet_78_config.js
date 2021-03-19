@@ -1,1 +1,1 @@
-var mnemonic = "clip shallow want library hybrid gloom student damp lamp few balance attack";
+var mnemonic = "emotion fit around mad federal table possible stage thrive cause again deposit";

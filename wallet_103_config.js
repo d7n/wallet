@@ -1,1 +1,1 @@
-var mnemonic = "brother inner boost liquid hold snap boil door loud hint perfect before";
+var mnemonic = "nation city quick inquiry carbon sentence sauce pool voyage grow mail average";

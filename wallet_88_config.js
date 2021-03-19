@@ -1,1 +1,1 @@
-var mnemonic = "raw library token arch kitchen credit opinion poet paper interest latin staff";
+var mnemonic = "father empty tiny discover install brave hurdle erosion letter slight shell easily";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos disease stamp chat trap brown enrich gate payment survey glove brand";
+var mnemonic = "join forward diet allow federal pool define dynamic stool lion view cause";

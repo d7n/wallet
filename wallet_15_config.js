@@ -1,1 +1,1 @@
-var mnemonic = "hurt coach cluster broccoli age price imitate involve duck issue donate cash";
+var mnemonic = "cluster fuel iron company meadow axis remove clip capable gesture rent office";

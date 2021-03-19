@@ -1,1 +1,1 @@
-var mnemonic = "century hard extra vanish garbage wheat glory jaguar fiscal awkward trend rude";
+var mnemonic = "benefit deposit mom minor trim illness foam online recall sudden teach follow";

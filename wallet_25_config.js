@@ -1,1 +1,1 @@
-var mnemonic = "multiply jealous army member obvious genuine answer virus issue fetch flush dice";
+var mnemonic = "disorder actual shaft stand flat sail early silver chimney firm chapter clap";

@@ -1,1 +1,1 @@
-var mnemonic = "trick reward mesh west guess rigid ice half devote north gun sure";
+var mnemonic = "comfort twenty useful hospital suspect normal town vicious immense cloth eyebrow bean";

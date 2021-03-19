@@ -1,1 +1,1 @@
-var mnemonic = "goat plug busy license sort include tape rhythm head cricket clock minute";
+var mnemonic = "menu add tackle knee enforce push vibrant shift apple notice history garlic";

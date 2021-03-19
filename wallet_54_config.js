@@ -1,1 +1,1 @@
-var mnemonic = "donor omit frown rain achieve pepper jealous pet ribbon subway stick vivid";
+var mnemonic = "tube pencil tide artist slab fog two decide honey segment tent arrow";

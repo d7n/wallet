@@ -1,1 +1,1 @@
-var mnemonic = "friend spend make color tonight bind worth grow gun food tube truth";
+var mnemonic = "hawk test main stove universe rose label inquiry budget day bamboo miracle";

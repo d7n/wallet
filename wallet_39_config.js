@@ -1,1 +1,1 @@
-var mnemonic = "ordinary cricket move fluid weekend scorpion lottery baby brown tool kiss stand";
+var mnemonic = "beach prosper among gesture electric prepare spare course atom tornado unfair quality";

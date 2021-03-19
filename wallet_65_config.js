@@ -1,1 +1,1 @@
-var mnemonic = "pizza obscure slender penalty easily address fine clock crane owner foot curious";
+var mnemonic = "six beef brain tip divorce enable stamp coconut festival vacant effort giant";

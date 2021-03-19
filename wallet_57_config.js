@@ -1,1 +1,1 @@
-var mnemonic = "patient torch child window embrace track echo defense update area light local";
+var mnemonic = "mother fee solution since air position make impose deputy achieve target fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil wool acoustic doctor pottery travel siren laundry biology jewel fiber void";
+var mnemonic = "visit where laundry image magnet trophy top cash bean subway prefer beyond";

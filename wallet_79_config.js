@@ -1,1 +1,1 @@
-var mnemonic = "hard welcome donor gold dish ethics beyond fun chair trick road essay";
+var mnemonic = "chicken deal track sibling neck velvet escape fantasy amused dignity open eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "maid napkin trust insane company cash slogan spot valve shell unaware ship";
+var mnemonic = "chest labor east brief toy brick subway topic wrist science dust cup";

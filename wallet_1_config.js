@@ -1,1 +1,1 @@
-var mnemonic = "private moment wet book agent judge hybrid seed firm creek client jar";
+var mnemonic = "primary token trust awful ten since oblige balcony rule swallow ability kitchen";

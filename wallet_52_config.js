@@ -1,1 +1,1 @@
-var mnemonic = "glimpse truth neglect actor poet punch rail gorilla civil weird adult fiction";
+var mnemonic = "arrange elbow spend eternal company enough boy minor where grunt narrow cactus";

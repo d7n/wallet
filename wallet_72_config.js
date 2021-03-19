@@ -1,1 +1,1 @@
-var mnemonic = "define shaft pull inside wood rude buzz worth car dial obtain chimney";
+var mnemonic = "inherit fat type choose blame hidden bridge below enemy girl lamp account";

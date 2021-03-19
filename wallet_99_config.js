@@ -1,1 +1,1 @@
-var mnemonic = "mixed toilet gossip merge envelope celery small order search note chat fire";
+var mnemonic = "deliver month tornado polar degree friend shop empower palm direct scout convince";

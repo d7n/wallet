@@ -1,1 +1,1 @@
-var mnemonic = "creek task end lunch seminar tell author tent lazy curtain buddy basket";
+var mnemonic = "ticket cloud glove estate subject grief someone lesson giraffe differ cement rescue";

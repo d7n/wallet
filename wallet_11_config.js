@@ -1,1 +1,1 @@
-var mnemonic = "twin tattoo erupt eight slot viable acoustic believe inspire purpose elbow save";
+var mnemonic = "valley brick battle phone tongue measure expire guilt license burden void million";

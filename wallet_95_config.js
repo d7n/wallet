@@ -1,1 +1,1 @@
-var mnemonic = "equip sustain border turn hamster year wreck nephew turtle cannon cabin essay";
+var mnemonic = "asset pole lion radar peace cable almost demand scrub random pill street";

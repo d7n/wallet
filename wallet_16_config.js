@@ -1,1 +1,1 @@
-var mnemonic = "trend begin fine sing kingdom rocket owner voyage hockey walnut party system";
+var mnemonic = "sugar trick negative course hour oval potato digital nephew legal announce cattle";

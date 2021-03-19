@@ -1,1 +1,1 @@
-var mnemonic = "high setup carbon cluster grief ensure group sudden dice hub also prevent";
+var mnemonic = "image filter local lounge police pig news outer super atom pig awful";

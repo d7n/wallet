@@ -1,1 +1,1 @@
-var mnemonic = "rotate outer slush gold canyon kitchen suspect planet sight above inherit kiwi";
+var mnemonic = "pottery spin casual guilt quarter desert month beauty depart cabin winter fragile";

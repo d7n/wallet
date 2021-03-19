@@ -1,1 +1,1 @@
-var mnemonic = "improve vacant shop current above turtle milk story holiday head glass before";
+var mnemonic = "race opinion recycle cost box unique will smoke table erosion option team";

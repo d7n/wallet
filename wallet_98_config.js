@@ -1,1 +1,1 @@
-var mnemonic = "swarm audit beef excess web badge culture tag organ biology have trade";
+var mnemonic = "actual cancel swift walnut visa normal outer boss remind weird wage doll";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar nasty panther royal earth album pet jeans vendor farm axis flower";
+var mnemonic = "foil sweet wise traffic lamp receive brand seat swamp token earth sell";

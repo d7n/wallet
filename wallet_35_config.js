@@ -1,1 +1,1 @@
-var mnemonic = "eye essence essence link lunar swallow thunder cattle vicious crucial easy steel";
+var mnemonic = "cage omit better vital chimney limit squeeze uniform pumpkin guilt list duty";

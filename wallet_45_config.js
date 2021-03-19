@@ -1,1 +1,1 @@
-var mnemonic = "pool steak gap insane hospital nation lottery junk embark grid defense cause";
+var mnemonic = "ticket win office wasp pilot addict exclude peace diagram fragile gate modify";

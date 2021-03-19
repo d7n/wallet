@@ -1,1 +1,1 @@
-var mnemonic = "crystal lazy attack invite harbor comic limb invite rug used nerve suspect";
+var mnemonic = "buzz evil ethics jealous neglect brief install blossom blood lottery spin illness";

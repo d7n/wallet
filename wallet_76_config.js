@@ -1,1 +1,1 @@
-var mnemonic = "bike ugly section expand name rug dizzy student size silly loud parent";
+var mnemonic = "corn laugh allow album cotton crane tail library era uniform expire vital";

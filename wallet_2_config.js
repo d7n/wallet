@@ -1,1 +1,1 @@
-var mnemonic = "stone miss ship memory panel purse nothing equip animal grass target minor";
+var mnemonic = "amused party crisp merry error satoshi nasty argue teach puzzle truth unusual";

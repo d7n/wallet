@@ -1,1 +1,1 @@
-var mnemonic = "visual aspect run finger field parrot fragile glimpse maximum tragic fantasy notable";
+var mnemonic = "tragic mom recall width broom island divorce draw interest tag horn slim";

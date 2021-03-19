@@ -1,1 +1,1 @@
-var mnemonic = "park crouch raise enrich certain crumble urban panel pledge illness remind cart";
+var mnemonic = "demand stick cousin segment violin skate relief paddle hint appear desk okay";

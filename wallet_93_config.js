@@ -1,1 +1,1 @@
-var mnemonic = "delay chuckle grunt swing fly snap dust wait shadow faint march trash";
+var mnemonic = "cancel invite alone spray wash boost assume awkward glide attract vacant blue";

@@ -1,1 +1,1 @@
-var mnemonic = "roof inmate begin table hope frequent deal fancy abstract describe matrix side";
+var mnemonic = "champion sentence upset chest bunker start beauty impulse cargo present mystery blast";

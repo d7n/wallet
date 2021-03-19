@@ -1,1 +1,1 @@
-var mnemonic = "horn orange say tape wing stumble end choice junk envelope rely true";
+var mnemonic = "copy debris impact coconut please melody gift fluid cinnamon void vote salad";

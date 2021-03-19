@@ -1,1 +1,1 @@
-var mnemonic = "hover birth burger draw elder badge love medal bean bleak language better";
+var mnemonic = "segment high power foil face slim earth story sadness toe type pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "already soul celery else foster student dwarf powder rack layer limit volume";
+var mnemonic = "grit spread dragon catch seat wage error era review clean language appear";

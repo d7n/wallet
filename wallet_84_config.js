@@ -1,1 +1,1 @@
-var mnemonic = "muffin grid egg small sense fiber stamp peasant family minute rug present";
+var mnemonic = "daughter replace girl seek amateur miss rocket culture nasty magic forward average";

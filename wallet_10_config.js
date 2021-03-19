@@ -1,1 +1,1 @@
-var mnemonic = "boy group hospital drink gauge ball kind party animal sudden shoot vapor";
+var mnemonic = "fence wife cradle frog second enter copy marriage measure coil before bless";

@@ -1,1 +1,1 @@
-var mnemonic = "kit lens couple area acquire mistake inside squirrel educate corn yard skate";
+var mnemonic = "critic skin vocal sausage curve law away cricket broccoli awake kitten popular";

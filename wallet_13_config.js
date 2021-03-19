@@ -1,1 +1,1 @@
-var mnemonic = "dignity volcano glove road involve narrow display sponsor rib matrix tackle poverty";
+var mnemonic = "illness traffic ketchup surprise health collect agree sausage rely express nasty puzzle";

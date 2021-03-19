@@ -1,1 +1,1 @@
-var mnemonic = "account device crop swing guitar barely easily syrup where situate mercy auto";
+var mnemonic = "gift slot frown under receive raccoon dress vault enter man elevator visit";

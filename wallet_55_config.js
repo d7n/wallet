@@ -1,1 +1,1 @@
-var mnemonic = "aware cable wasp nation soft notice fortune clump drink innocent drink fee";
+var mnemonic = "museum boat able field leader domain jelly tag express story carbon mechanic";

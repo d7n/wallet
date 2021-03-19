@@ -1,1 +1,1 @@
-var mnemonic = "online mimic impose purpose train payment inform canal library cluster proof process";
+var mnemonic = "circle choose favorite kit desert theme evil body news animal tilt story";

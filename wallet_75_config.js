@@ -1,1 +1,1 @@
-var mnemonic = "disease vivid slide coffee wise plug pill jelly stick frame rather frequent";
+var mnemonic = "art dawn nose control donor snap calm habit water capable border announce";

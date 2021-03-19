@@ -1,1 +1,1 @@
-var mnemonic = "argue album talk boost spin cupboard easily zero poverty dose sand unknown";
+var mnemonic = "adapt mutual stand search ability color easy conduct tuition record empty pitch";

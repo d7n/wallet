@@ -1,1 +1,1 @@
-var mnemonic = "claim assume click earn escape shove tell unfold chunk first inherit tool";
+var mnemonic = "supreme okay crumble elevator range accident lake define dignity surface raise symbol";

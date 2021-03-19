@@ -1,1 +1,1 @@
-var mnemonic = "cancel reunion sock island artwork weekend meat loop east issue protect allow";
+var mnemonic = "vapor fog tortoise often exile heart exclude chaos actor ramp donkey test";

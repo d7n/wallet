@@ -1,1 +1,1 @@
-var mnemonic = "north pause model exhibit happy demise puzzle virus asset profit surprise erode";
+var mnemonic = "cradle sea little affair eyebrow shift limit token crouch dolphin betray business";

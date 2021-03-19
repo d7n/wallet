@@ -1,1 +1,1 @@
-var mnemonic = "shaft garment lamp wage cruise glove swap arrest hollow denial castle gap";
+var mnemonic = "grass wage custom chair fold edge tower fury pluck identify whale vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "raise chaos fatal stay blush can air text urge exotic special sorry";
+var mnemonic = "borrow beyond stock light grow husband ticket keep fresh gospel simple remember";

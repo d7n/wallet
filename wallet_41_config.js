@@ -1,1 +1,1 @@
-var mnemonic = "lion photo hockey move bag uncle latin narrow fragile future hire sea";
+var mnemonic = "sausage swarm useful trophy satisfy job acid smile main uncover rose tiny";

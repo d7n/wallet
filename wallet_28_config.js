@@ -1,1 +1,1 @@
-var mnemonic = "illegal picture silent issue reward subway turkey left echo inject veteran ladder";
+var mnemonic = "either onion river skull display rebel daring morning piano now humble error";

@@ -1,1 +1,1 @@
-var mnemonic = "urban nice major quick local post expire purchase spirit capable scissors desert";
+var mnemonic = "hazard require give snap cream ankle edge able caught public lend behave";

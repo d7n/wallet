@@ -1,1 +1,1 @@
-var mnemonic = "egg chunk lady sense allow jealous student fade until polar stool palace";
+var mnemonic = "leopard catalog pipe step task nose plug crawl airport distance lesson plunge";

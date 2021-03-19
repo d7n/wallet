@@ -1,1 +1,1 @@
-var mnemonic = "industry icon lawsuit flag joy knee honey color this spoon rely universe";
+var mnemonic = "result result green across trial radar rather index cave winner benefit dance";

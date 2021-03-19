@@ -1,1 +1,1 @@
-var mnemonic = "chimney depth exist warrior arctic online kind wheel keen edge october kiss";
+var mnemonic = "tape exchange kitchen solar toast benefit post miss energy erosion crunch tiny";
