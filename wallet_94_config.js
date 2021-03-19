@@ -1,1 +1,1 @@
-var mnemonic = "describe milk asthma thunder sadness fine ship side reform convince twin other";
+var mnemonic = "move hood curtain element popular advice fault gym wood use pole swap";

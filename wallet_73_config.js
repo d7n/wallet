@@ -1,1 +1,1 @@
-var mnemonic = "anxiety message middle cancel glove truth scheme room lion reunion alley rack";
+var mnemonic = "rug banner arch connect spirit gap romance battle prepare endorse gauge amazing";

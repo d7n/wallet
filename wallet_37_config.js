@@ -1,1 +1,1 @@
-var mnemonic = "wrestle cash panel leaf divorce fit trim pumpkin double stomach spirit indicate";
+var mnemonic = "inch topic favorite goddess stamp viable move meadow picnic broken unique word";

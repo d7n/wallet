@@ -1,1 +1,1 @@
-var mnemonic = "demand scare grid pulp evil garbage debris switch wine define bag tank";
+var mnemonic = "sentence agent census donor soda file cart dismiss lyrics current rug feature";

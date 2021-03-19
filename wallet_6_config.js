@@ -1,1 +1,1 @@
-var mnemonic = "tunnel velvet wink globe rely shallow buffalo interest theory swarm have helmet";
+var mnemonic = "raccoon sunny float high regular dwarf topple culture disorder renew unable unit";

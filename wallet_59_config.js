@@ -1,1 +1,1 @@
-var mnemonic = "feel claw farm segment fade shell fog electric canoe hero exchange film";
+var mnemonic = "maple valve fence anchor ancient funny upon west original hood matrix gym";

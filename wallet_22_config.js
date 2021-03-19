@@ -1,1 +1,1 @@
-var mnemonic = "wonder salute purity produce museum source cat degree soft where reflect expect";
+var mnemonic = "render embark vibrant habit huge chat excuse subway believe dentist fall shield";

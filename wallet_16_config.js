@@ -1,1 +1,1 @@
-var mnemonic = "marble upper gloom fix rail ranch alarm control area path celery health";
+var mnemonic = "dose capital reform peace there spare custom follow action taste hen scout";

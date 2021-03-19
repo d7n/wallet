@@ -1,1 +1,1 @@
-var mnemonic = "ginger tower pet shift until cute eager giggle midnight swamp occur print";
+var mnemonic = "virtual mutual street easy grid multiply rent insect sugar extra phone rent";

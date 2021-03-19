@@ -1,1 +1,1 @@
-var mnemonic = "foot donate mosquito shine sad measure profit truck comfort frost frown cactus";
+var mnemonic = "under vibrant special sudden include device heart movie rapid crawl grit marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "hour rib invest glad deal key interest omit legal wrist library shadow";
+var mnemonic = "office garage time pride inch across patrol lawsuit execute tissue boss wrong";

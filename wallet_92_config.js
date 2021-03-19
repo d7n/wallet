@@ -1,1 +1,1 @@
-var mnemonic = "weapon crowd security noble measure fit wrist debate speed balance invest proud";
+var mnemonic = "buzz engage envelope buzz mix quick goddess horse hard tiger brief federal";

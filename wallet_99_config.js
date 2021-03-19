@@ -1,1 +1,1 @@
-var mnemonic = "loop exact explain sausage ancient ugly claw release crowd indoor boat session";
+var mnemonic = "salon grow airport milk ghost black derive canvas fantasy tragic kiwi fossil";

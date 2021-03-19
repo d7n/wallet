@@ -1,1 +1,1 @@
-var mnemonic = "frog trust aim skull party high jump kiwi point praise net room";
+var mnemonic = "option citizen early bar bomb choose over weasel hawk clock fee midnight";

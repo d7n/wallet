@@ -1,1 +1,1 @@
-var mnemonic = "office kangaroo call local hello execute raccoon stove mystery observe crowd dog";
+var mnemonic = "write wish stick embark cheap ripple key deputy butter genre push track";

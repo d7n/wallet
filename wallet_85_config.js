@@ -1,1 +1,1 @@
-var mnemonic = "wide clip luxury foster enjoy stage repeat label moral noodle budget learn";
+var mnemonic = "six omit voyage rifle accident hole minimum rely electric fix increase kangaroo";

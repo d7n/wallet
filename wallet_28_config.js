@@ -1,1 +1,1 @@
-var mnemonic = "hospital wing scrap define bamboo coyote siege shift morning begin zebra cinnamon";
+var mnemonic = "upgrade deputy people begin perfect cousin cliff flip yard borrow sibling dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "swim chaos first swift mention bring where aerobic quantum nerve prevent media";
+var mnemonic = "later churn lamp vast room attend miracle novel middle wheel foam math";

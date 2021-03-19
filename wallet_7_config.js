@@ -1,1 +1,1 @@
-var mnemonic = "fork web educate theory alarm domain apple reflect exit retire iron coyote";
+var mnemonic = "slice kit ramp minimum idle opinion firm gentle where lawsuit long absorb";

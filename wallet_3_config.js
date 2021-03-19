@@ -1,1 +1,1 @@
-var mnemonic = "weird magnet good gossip season demand all live guitar saddle hedgehog involve";
+var mnemonic = "please image local drum calm cube agree sure master culture escape earn";

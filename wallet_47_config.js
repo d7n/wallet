@@ -1,1 +1,1 @@
-var mnemonic = "strategy avoid roof stuff grace connect crater brain math crisp garlic define";
+var mnemonic = "neck ridge once burden frog boost voice menu walnut drip federal cigar";

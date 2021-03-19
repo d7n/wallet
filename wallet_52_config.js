@@ -1,1 +1,1 @@
-var mnemonic = "fish youth brave shift front unique prize regret marble general accuse home";
+var mnemonic = "cancel sponsor never clock leader where bring ranch script spread monster give";

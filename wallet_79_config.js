@@ -1,1 +1,1 @@
-var mnemonic = "trust coil candy anxiety scorpion engage firm switch barely daughter pistol world";
+var mnemonic = "nurse expose stereo debate wife menu ready legend wet student reveal jazz";

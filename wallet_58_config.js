@@ -1,1 +1,1 @@
-var mnemonic = "discover exchange cousin picture daughter reject sure also enhance cancel mail popular";
+var mnemonic = "okay apology uncle captain check hybrid carpet save uncover zoo various cannon";

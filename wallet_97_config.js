@@ -1,1 +1,1 @@
-var mnemonic = "predict bench distance destroy finger shy yard silly hungry swap tag armed";
+var mnemonic = "desert snack sorry found link hybrid help portion winter text mosquito mango";

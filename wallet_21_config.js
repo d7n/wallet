@@ -1,1 +1,1 @@
-var mnemonic = "asthma frozen goddess hamster found canal cash topic adjust oval energy flip";
+var mnemonic = "surprise meadow pause december twice piano ability blame deposit normal barrel pattern";

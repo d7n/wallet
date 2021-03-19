@@ -1,1 +1,1 @@
-var mnemonic = "remain midnight fortune protect remove stool remove escape enjoy wet volcano harvest";
+var mnemonic = "flash speak oblige latin topic chicken labor right erode rigid ship catch";

@@ -1,1 +1,1 @@
-var mnemonic = "mother spin ignore upon track genius empower uphold search blush clutch cloud";
+var mnemonic = "world connect advice food gap dolphin rhythm hen owner wool couch during";

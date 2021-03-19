@@ -1,1 +1,1 @@
-var mnemonic = "camera siren must expand figure dolphin rubber day luxury spatial stamp ostrich";
+var mnemonic = "gown toss daring citizen wise donor sword nature visual knee object genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery reject remove brick crack diagram baby animal polar harsh size reveal";
+var mnemonic = "potato blade error ignore silk boss course brand expand jewel deal mixture";

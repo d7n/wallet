@@ -1,1 +1,1 @@
-var mnemonic = "enable pulp victory evoke bachelor matrix predict ignore impulse twelve creek seminar";
+var mnemonic = "glide trip medal twist area labor situate couch chunk blood tank coil";

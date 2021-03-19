@@ -1,1 +1,1 @@
-var mnemonic = "village recipe cheap soldier solve wise cake shop crawl indicate occur relief";
+var mnemonic = "error castle now initial what naive empower change thrive cancel bitter involve";

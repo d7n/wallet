@@ -1,1 +1,1 @@
-var mnemonic = "shoulder detail aunt cricket hungry switch correct same jealous lab prefer dust";
+var mnemonic = "ivory vicious sound rhythm embody tenant crew excuse coral brisk use bitter";

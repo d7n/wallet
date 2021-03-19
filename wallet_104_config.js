@@ -1,1 +1,1 @@
-var mnemonic = "crouch adjust pool ethics organ purchase human guess trip fade banner soul";
+var mnemonic = "trim essay simple orphan spawn snap noble wish senior brick return opinion";

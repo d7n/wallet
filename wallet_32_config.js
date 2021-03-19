@@ -1,1 +1,1 @@
-var mnemonic = "already winter horn artwork harbor badge weird spoil body able friend document";
+var mnemonic = "thank nothing pigeon claw link click ball damage share sing fence inflict";

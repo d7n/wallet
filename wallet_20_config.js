@@ -1,1 +1,1 @@
-var mnemonic = "valve avoid chronic shiver chronic day bunker gap civil dress slide amused";
+var mnemonic = "shrimp honey silk arctic music term fragile van left maid column forward";

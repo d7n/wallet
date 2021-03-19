@@ -1,1 +1,1 @@
-var mnemonic = "breeze olympic inherit sport please ensure balcony level current vocal police nut";
+var mnemonic = "entry ketchup race famous attend member deliver uncle taste banana lend motor";

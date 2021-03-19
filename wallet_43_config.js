@@ -1,1 +1,1 @@
-var mnemonic = "trophy crawl boy buddy fatal magic number clean voyage feed save cause";
+var mnemonic = "license sick payment canoe remind gallery alley virtual sand wonder require empower";

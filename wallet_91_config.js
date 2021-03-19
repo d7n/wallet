@@ -1,1 +1,1 @@
-var mnemonic = "season seat allow obvious swallow fury great boss gaze joy bid matter";
+var mnemonic = "satoshi flip distance slab drift actor barely attract fatigue invite kingdom cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "dove cube lyrics similar credit chuckle way palm copper until turtle service";
+var mnemonic = "elegant journey link left crisp question trash weapon item allow bid off";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler donate square suspect dwarf rescue glimpse arena loud chicken favorite device";
+var mnemonic = "faith swing yellow dinosaur outside twelve mail pledge cat trick boost thunder";

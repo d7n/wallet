@@ -1,1 +1,1 @@
-var mnemonic = "essence scheme across must polar quit stay luxury casino fun thrive chaos";
+var mnemonic = "bottom define hub real bleak often hazard cliff decline town banner this";

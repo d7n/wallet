@@ -1,1 +1,1 @@
-var mnemonic = "away hard hockey flash bid axis regret april major chimney injury whisper";
+var mnemonic = "check person reward swarm antique brave laundry volume march seed salad antique";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue rapid people relax domain object fruit click exhibit torch sibling wall";
+var mnemonic = "feed gather sentence refuse brother fat zero wide amount puppy valve vibrant";

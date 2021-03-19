@@ -1,1 +1,1 @@
-var mnemonic = "axis curtain day produce shaft cruel between payment inflict cotton world robust";
+var mnemonic = "clay common salon orient exhaust faint noodle mountain midnight object beef easily";

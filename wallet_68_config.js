@@ -1,1 +1,1 @@
-var mnemonic = "spy opinion unhappy push machine rate buddy destroy tree miss sense side";
+var mnemonic = "organ salad version hood purity tourist young arrow object salmon chest goat";

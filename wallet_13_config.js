@@ -1,1 +1,1 @@
-var mnemonic = "icon example index hard emotion point steel slab depart ill crop target";
+var mnemonic = "blush hawk slide ostrich rally quarter warrior emotion keen route impose pig";

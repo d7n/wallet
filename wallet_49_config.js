@@ -1,1 +1,1 @@
-var mnemonic = "brand dog protect raccoon slot walk daring bulb say sell position fatigue";
+var mnemonic = "time scheme afford diet gossip bridge leaf drive silly friend kid guard";

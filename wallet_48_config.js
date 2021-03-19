@@ -1,1 +1,1 @@
-var mnemonic = "dignity fix acid table pitch vintage reflect inside cost album hen between";
+var mnemonic = "coral grant atom glove elder endless host shop gallery material tuition cup";

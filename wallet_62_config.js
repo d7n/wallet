@@ -1,1 +1,1 @@
-var mnemonic = "icon test pitch want slim quote stadium teach seed noble tell success";
+var mnemonic = "auction maid gun act comfort foot clay hawk wage excite inside frozen";

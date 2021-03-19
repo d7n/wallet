@@ -1,1 +1,1 @@
-var mnemonic = "muscle dust slot silver security mirror art burden file practice cargo wait";
+var mnemonic = "attract spice wall indoor churn cluster edit dune lock pool bronze describe";

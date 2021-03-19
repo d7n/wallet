@@ -1,1 +1,1 @@
-var mnemonic = "device volcano polar opinion foot snake panda question return impulse slow puzzle";
+var mnemonic = "cricket endorse lobster then guard nurse around iron isolate jealous eager chaos";

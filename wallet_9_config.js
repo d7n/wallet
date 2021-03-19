@@ -1,1 +1,1 @@
-var mnemonic = "excuse monitor prefer mesh cluster exotic route idle slow space humor effort";
+var mnemonic = "drink toe olive almost rely erode vacant bottom action daughter rookie tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "song pet debris afraid must mosquito crumble toast rocket true donkey truly";
+var mnemonic = "clinic assist husband inject affair thought service dial axis ocean promote rare";

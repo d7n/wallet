@@ -1,1 +1,1 @@
-var mnemonic = "ribbon title trend trap shell fine gallery tired spray flee attitude slush";
+var mnemonic = "worth intact convince crew merge live inject used whip forest wedding broccoli";

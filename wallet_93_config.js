@@ -1,1 +1,1 @@
-var mnemonic = "split poverty pattern juice satisfy palm animal dizzy one glide cloud vacant";
+var mnemonic = "between consider easily input release stairs iron patrol kick pencil matrix width";

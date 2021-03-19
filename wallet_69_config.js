@@ -1,1 +1,1 @@
-var mnemonic = "grain spike salad chimney mansion rhythm wing faint exclude vague raccoon demand";
+var mnemonic = "fiber coral blame duck dry avocado shell solar catalog must easy element";

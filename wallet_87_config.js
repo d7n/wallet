@@ -1,1 +1,1 @@
-var mnemonic = "spatial canal skill foot random dust update hollow fiber wave rail ice";
+var mnemonic = "breeze pole insect coast viable exercise water diesel ask stairs shallow alone";

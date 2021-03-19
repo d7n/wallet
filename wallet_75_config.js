@@ -1,1 +1,1 @@
-var mnemonic = "size person fever recipe universe mushroom staff acid waste census screen iron";
+var mnemonic = "mercy hospital life hazard marriage idea rice exclude title loyal nuclear liberty";

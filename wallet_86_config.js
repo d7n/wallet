@@ -1,1 +1,1 @@
-var mnemonic = "duck misery color ring envelope firm volcano slender toddler few strike pelican";
+var mnemonic = "act leaf consider already car upon upper motor unable ostrich diet one";

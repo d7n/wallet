@@ -1,1 +1,1 @@
-var mnemonic = "area spy panda taste head axis model choose agent winner afford welcome";
+var mnemonic = "enrich puppy pencil frame cool dizzy doctor offer ask video cream page";

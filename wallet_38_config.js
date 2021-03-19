@@ -1,1 +1,1 @@
-var mnemonic = "depth rely happy cup gold beyond obscure arctic wet exile slot brisk";
+var mnemonic = "problem length coil segment deal vast art march this jump rule jelly";

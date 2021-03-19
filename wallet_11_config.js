@@ -1,1 +1,1 @@
-var mnemonic = "absent recipe rival wine original focus auto smile thumb agent predict sign";
+var mnemonic = "maze logic camera basket group shop cancel initial agent void flag year";

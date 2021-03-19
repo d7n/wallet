@@ -1,1 +1,1 @@
-var mnemonic = "brother engage knife glue leg before whale acid social useful ski other";
+var mnemonic = "during indicate dress artist rapid start maple butter hen child tiny student";

@@ -1,1 +1,1 @@
-var mnemonic = "police major spot first chest column mobile relax dynamic mail machine million";
+var mnemonic = "robust bubble hole super hub creek slight strategy eye spoil question what";

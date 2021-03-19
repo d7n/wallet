@@ -1,1 +1,1 @@
-var mnemonic = "buddy drill local twenty describe merit later rib diet demise weapon wool";
+var mnemonic = "hurdle loyal canvas obvious nasty science method decide elite because credit south";

@@ -1,1 +1,1 @@
-var mnemonic = "advance tongue meadow waste organ destroy measure desk clarify arrow opera ordinary";
+var mnemonic = "ready dry find dilemma sweet auction vapor alarm toast burden end cannon";

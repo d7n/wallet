@@ -1,1 +1,1 @@
-var mnemonic = "meadow more armor glass scan beyond busy surface crop slow yellow dinosaur";
+var mnemonic = "jelly bacon daring shed employ health mercy material arrive equip beach foot";

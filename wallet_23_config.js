@@ -1,1 +1,1 @@
-var mnemonic = "ugly connect fiscal milk song humble belt odor connect regret turtle almost";
+var mnemonic = "monkey weekend poverty news mouse rail before message side bitter kid gain";

@@ -1,1 +1,1 @@
-var mnemonic = "cram mouse dolphin start pause bridge frog summer gaze office oval style";
+var mnemonic = "exit curve race ring brisk ladder chair song return luggage decide life";

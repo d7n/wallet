@@ -1,1 +1,1 @@
-var mnemonic = "sword elite give echo output live hundred dawn fruit buyer decorate flight";
+var mnemonic = "room oval pupil hobby load kick awake scissors couch mountain exact among";

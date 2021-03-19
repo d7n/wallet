@@ -1,1 +1,1 @@
-var mnemonic = "monitor loop speed maximum arm match crystal taxi describe ivory armed moment";
+var mnemonic = "multiply cage sniff skill second gown vague stuff inflict venture enforce panda";

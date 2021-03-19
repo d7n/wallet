@@ -1,1 +1,1 @@
-var mnemonic = "sentence possible alcohol curve chronic episode lazy snake word elite taste ginger";
+var mnemonic = "deposit lawn chest glare river unveil month fault fine jewel clock dance";

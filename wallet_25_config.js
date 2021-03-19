@@ -1,1 +1,1 @@
-var mnemonic = "jealous stove front nerve silver diary story panda tongue access margin possible";
+var mnemonic = "route theory rebel order require wheel true certain february lesson owner domain";

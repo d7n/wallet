@@ -1,1 +1,1 @@
-var mnemonic = "diet shield virus work used enrich chuckle scene myself virtual health culture";
+var mnemonic = "piano tortoise dash control manual elite census typical chaos two midnight obey";

@@ -1,1 +1,1 @@
-var mnemonic = "such hurry void moral charge reflect rent travel actor require develop true";
+var mnemonic = "lyrics hedgehog square friend section clown science risk patrol rookie umbrella symbol";

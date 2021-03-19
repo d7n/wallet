@@ -1,1 +1,1 @@
-var mnemonic = "egg sadness trap divide hockey expose drill problem keen robot motion history";
+var mnemonic = "rule cloth bench actress pulp wrestle review sausage diagram frog detect gift";

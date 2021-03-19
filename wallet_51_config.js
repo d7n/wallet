@@ -1,1 +1,1 @@
-var mnemonic = "confirm pole april gorilla cherry course market certain return bless surprise demand";
+var mnemonic = "movie silly legend spider deal ignore thought bless clip pony exist butter";

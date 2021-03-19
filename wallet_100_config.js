@@ -1,1 +1,1 @@
-var mnemonic = "office whisper drive topple distance sort bamboo among egg awkward accuse diesel";
+var mnemonic = "cannon cat answer dumb forum sea clog poet obtain autumn loan tissue";

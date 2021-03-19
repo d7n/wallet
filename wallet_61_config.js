@@ -1,1 +1,1 @@
-var mnemonic = "lion segment mixture muscle rural decide among pottery antique traffic ecology surround";
+var mnemonic = "arrow soda narrow rabbit sock unlock shrug cycle wine clever connect immense";

@@ -1,1 +1,1 @@
-var mnemonic = "rose cruise wise curtain report iron flavor tuition soul manage supply pass";
+var mnemonic = "pottery lucky crash mirror almost canoe identify twelve ecology sudden width vocal";

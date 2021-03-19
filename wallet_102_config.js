@@ -1,1 +1,1 @@
-var mnemonic = "confirm hover weird mixture avoid seed quote bus stamp original result when";
+var mnemonic = "slender foam pledge accuse risk input major music scorpion success hammer flush";

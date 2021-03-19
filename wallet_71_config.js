@@ -1,1 +1,1 @@
-var mnemonic = "rude pull vital pretty jump drink grab easy piano fantasy absent multiply";
+var mnemonic = "nature awkward excite train can describe gorilla gather prosper grunt bird mistake";

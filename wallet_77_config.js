@@ -1,1 +1,1 @@
-var mnemonic = "will alter before desk upon rotate museum paper zebra soldier swap bullet";
+var mnemonic = "silver economy squirrel thumb pulse rocket velvet penalty steak casino avoid shaft";

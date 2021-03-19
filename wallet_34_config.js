@@ -1,1 +1,1 @@
-var mnemonic = "globe rubber travel arrange stuff climb monitor organ whale similar jeans ivory";
+var mnemonic = "sea grass envelope addict leave remain wrestle believe broom leisure mixture camera";

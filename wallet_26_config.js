@@ -1,1 +1,1 @@
-var mnemonic = "rigid cousin wrist armed bonus shoe elevator media differ mutual garlic clerk";
+var mnemonic = "extend tattoo mixed pledge army mosquito wrap uphold rail then ugly admit";

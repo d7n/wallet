@@ -1,1 +1,1 @@
-var mnemonic = "wide kiwi climb loyal purpose argue name world throw render mountain mercy";
+var mnemonic = "nuclear south hip soul smoke mystery velvet door mask speak resist gasp";

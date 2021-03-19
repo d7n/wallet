@@ -1,1 +1,1 @@
-var mnemonic = "uphold brown cargo tiger inner piece excess bridge kidney tumble defy clump";
+var mnemonic = "bunker ladder muscle sample piece airport rally trouble arena end jaguar utility";
