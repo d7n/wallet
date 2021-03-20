@@ -1,1 +1,1 @@
-var mnemonic = "roof twenty business grain vault become indoor annual fabric pet express humble";
+var mnemonic = "grant daughter swamp summer vehicle echo key uncover ripple ivory brown caught";

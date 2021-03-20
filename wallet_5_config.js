@@ -1,1 +1,1 @@
-var mnemonic = "open tenant kiss balcony seek curious ladder biology cruel expose planet another";
+var mnemonic = "prepare mix try buyer increase useless monitor bench toe olympic prefer crane";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn error cruel peanut cabin forum shrug praise expand dismiss pen jaguar";
+var mnemonic = "exhibit biology tomato cigar tomorrow cute much hover kite outer weasel brother";

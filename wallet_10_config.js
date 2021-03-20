@@ -1,1 +1,1 @@
-var mnemonic = "settle van fly nice patient toast that else fiction century fault coil";
+var mnemonic = "sustain letter tortoise morning valley skull patrol bomb rigid bonus cool neglect";

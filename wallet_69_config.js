@@ -1,1 +1,1 @@
-var mnemonic = "guess boat want later wedding girl rifle manual normal icon book great";
+var mnemonic = "glass shield erupt gallery fringe isolate cool style chief moment exchange idea";

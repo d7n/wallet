@@ -1,1 +1,1 @@
-var mnemonic = "fitness hollow oxygen say steak use hospital typical unknown disorder math picture";
+var mnemonic = "process exit rookie float walnut glory flat siren hungry absent second alley";

@@ -1,1 +1,1 @@
-var mnemonic = "now vibrant anxiety figure kick eagle mirror just sugar feature affair lunar";
+var mnemonic = "join erase plunge garbage output wheel famous dawn elevator life veteran enlist";

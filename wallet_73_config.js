@@ -1,1 +1,1 @@
-var mnemonic = "indoor manage brisk sphere upset opinion poem easily option gain eager ignore";
+var mnemonic = "neither penalty giant attitude illness panda run tobacco slogan wish tooth grow";

@@ -1,1 +1,1 @@
-var mnemonic = "fish mango when grief build pilot village supreme story bicycle foster usage";
+var mnemonic = "day trick jungle tackle clerk similar govern usual machine walnut nominee upon";

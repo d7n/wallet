@@ -1,1 +1,1 @@
-var mnemonic = "expire amateur expire addict drill chapter better image course program void output";
+var mnemonic = "miss fold kind hotel lady shaft quick album tornado nuclear airport youth";

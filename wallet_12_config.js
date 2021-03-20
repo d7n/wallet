@@ -1,1 +1,1 @@
-var mnemonic = "master horse sport report boy swarm huge brief vacuum home mansion side";
+var mnemonic = "apology outer glare impact chuckle spawn police sun check rice monster adjust";

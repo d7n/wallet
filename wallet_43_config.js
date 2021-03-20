@@ -1,1 +1,1 @@
-var mnemonic = "label body proof sport display broom business sibling inject milk wink visual";
+var mnemonic = "notice abstract inch margin bus robust wrap name play gesture coil crucial";

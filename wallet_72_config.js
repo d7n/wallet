@@ -1,1 +1,1 @@
-var mnemonic = "shine kiss balcony neck staff latin oil night slush carpet document bounce";
+var mnemonic = "pig dish explain average accident approve harvest abandon space hammer wolf top";

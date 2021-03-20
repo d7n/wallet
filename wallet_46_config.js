@@ -1,1 +1,1 @@
-var mnemonic = "tornado narrow vote nation acid skirt common grid identify finish draft runway";
+var mnemonic = "diet bracket solution common impose cousin snake stomach force holiday chair laundry";

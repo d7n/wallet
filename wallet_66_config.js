@@ -1,1 +1,1 @@
-var mnemonic = "globe ready verify quarter jar garden foam begin swap future easily powder";
+var mnemonic = "connect face baby hospital exotic universe embrace drama crush moon brother heavy";

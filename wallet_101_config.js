@@ -1,1 +1,1 @@
-var mnemonic = "total piece problem panther celery neck endorse acoustic soldier deputy auto clown";
+var mnemonic = "lava walk response spike journey similar toward vault seminar gun leave remember";

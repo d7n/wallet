@@ -1,1 +1,1 @@
-var mnemonic = "script embrace crack mechanic ostrich text wet crush dinosaur puzzle wedding hello";
+var mnemonic = "skill traffic blast tube lumber warfare matter sniff reunion dilemma wine park";

@@ -1,1 +1,1 @@
-var mnemonic = "agent rib talk inflict recall trumpet tornado rain egg scan catch accident";
+var mnemonic = "will slim east basic member laptop fine snow pig total apart balcony";

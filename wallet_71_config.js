@@ -1,1 +1,1 @@
-var mnemonic = "cement disease potato wall gym beyond zone observe sketch supreme napkin drastic";
+var mnemonic = "deer monitor vacant adjust impose loyal bitter such melt dose arctic uphold";

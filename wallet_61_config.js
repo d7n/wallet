@@ -1,1 +1,1 @@
-var mnemonic = "scene vital trash cactus reward name unhappy supply isolate rack renew loyal";
+var mnemonic = "panic satisfy height stuff virus cruel major diet cable evoke inquiry major";

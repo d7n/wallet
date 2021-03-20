@@ -1,1 +1,1 @@
-var mnemonic = "usage you helmet grass decade annual father stick fame local gloom crack";
+var mnemonic = "rescue foil lunch oblige notable unfold panic connect chase club ice ski";

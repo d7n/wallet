@@ -1,1 +1,1 @@
-var mnemonic = "brass spoil multiply nuclear royal fragile evidence parrot tag room pyramid sugar";
+var mnemonic = "mistake menu display way shaft diet wealth heart potato old pass deputy";

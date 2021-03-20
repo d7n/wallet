@@ -1,1 +1,1 @@
-var mnemonic = "coconut motor female session reopen afford album slim steel okay affair three";
+var mnemonic = "cushion point run dad clean square earth unfair student pull bike poverty";

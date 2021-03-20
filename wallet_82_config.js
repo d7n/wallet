@@ -1,1 +1,1 @@
-var mnemonic = "catalog smile banner exchange arrange alley poem hungry sick another exit rug";
+var mnemonic = "depend either fabric trade innocent grant month wide price slot police science";

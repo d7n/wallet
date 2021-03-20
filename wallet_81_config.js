@@ -1,1 +1,1 @@
-var mnemonic = "movie put tissue near thing aunt mass congress trigger wool drop virus";
+var mnemonic = "chalk error shift about define false slow lens arch pond race gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion garlic matrix wire kite planet observe pledge age trap loop main";
+var mnemonic = "left knee silk march quality route march sure cherry defense stumble polar";

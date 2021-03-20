@@ -1,1 +1,1 @@
-var mnemonic = "burger benefit glory betray ginger rally alley fancy nephew matter chimney clutch";
+var mnemonic = "core upgrade rescue economy current airport biology solution elder raise episode point";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum goose globe bulk race collect doctor library abstract stand lemon cute";
+var mnemonic = "hobby sand convince daring make miracle dinosaur eternal bless exit access snack";

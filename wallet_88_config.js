@@ -1,1 +1,1 @@
-var mnemonic = "salon expire school curtain promote pattern father ugly wife lucky bar cruel";
+var mnemonic = "wife raven essence relief alien media era shift fault offer actor credit";

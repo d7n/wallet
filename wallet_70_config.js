@@ -1,1 +1,1 @@
-var mnemonic = "marriage today work grid stereo surround tape exit bus prevent unfair agree";
+var mnemonic = "fluid output original advice control invite scissors feel key kick truth pole";

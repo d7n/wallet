@@ -1,1 +1,1 @@
-var mnemonic = "body rebuild seat treat patch grief beyond aisle chef bamboo color snap";
+var mnemonic = "cave field number seek razor wrist rather vast crew sponsor muffin equip";

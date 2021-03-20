@@ -1,1 +1,1 @@
-var mnemonic = "wet original guilt sugar ankle drum among mushroom agent hedgehog thing pilot";
+var mnemonic = "drill gather universe exclude future lake depth any idea scan fan firm";

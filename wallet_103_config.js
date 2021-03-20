@@ -1,1 +1,1 @@
-var mnemonic = "motion warfare tongue alert cattle priority predict timber already echo lab resemble";
+var mnemonic = "pause radar alien gloom potato tennis nerve bitter today survey earth cherry";

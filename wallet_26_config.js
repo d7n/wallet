@@ -1,1 +1,1 @@
-var mnemonic = "fiscal pet fan expire shock brick shed magnet afraid bright black napkin";
+var mnemonic = "soda barrel riot chronic cannon deliver grace chef advance mule bleak layer";

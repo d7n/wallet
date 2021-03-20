@@ -1,1 +1,1 @@
-var mnemonic = "iron vacant fuel short dragon physical salmon never upon immense section fade";
+var mnemonic = "either bless globe pizza illegal genre sun judge typical learn green rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "empower stereo coach shy hammer frozen seven dose amazing ancient wool educate";
+var mnemonic = "sadness flat hawk elephant song lady mail measure fall credit observe ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "flush ostrich venture boring abstract region bike evidence good climb category wheel";
+var mnemonic = "flock palm spend shiver snack skirt post model garage awesome venue artwork";

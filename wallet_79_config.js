@@ -1,1 +1,1 @@
-var mnemonic = "primary price tumble industry nephew kingdom local focus poem topic error confirm";
+var mnemonic = "word door area crop issue little render animal around device mass lumber";

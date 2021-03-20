@@ -1,1 +1,1 @@
-var mnemonic = "portion appear sphere mule turkey disagree horse kick moment leisure cover path";
+var mnemonic = "scatter fruit pause use guard tackle drip caution trend vast resemble analyst";

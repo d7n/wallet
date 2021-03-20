@@ -1,1 +1,1 @@
-var mnemonic = "draft magnet oblige industry leave tell enrich original record whale open discover";
+var mnemonic = "topple portion melt budget pencil name blanket sail escape cancel prize crater";

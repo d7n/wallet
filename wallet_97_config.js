@@ -1,1 +1,1 @@
-var mnemonic = "response hour iron toward talent chunk good spread noble unveil hurt season";
+var mnemonic = "blade fame harbor brick hill confirm easily dish chronic ice oil wasp";

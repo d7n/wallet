@@ -1,1 +1,1 @@
-var mnemonic = "wonder floor party elevator vintage special edit twist panther crisp snap season";
+var mnemonic = "can axis room crash spike naive modify place dune curious rare reject";

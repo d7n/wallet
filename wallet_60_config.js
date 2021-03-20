@@ -1,1 +1,1 @@
-var mnemonic = "physical trade tortoise hen sure hockey antenna able deny alone safe legend";
+var mnemonic = "begin donkey solar surprise cluster honey chest city army unfair sunny again";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual enroll switch blouse chronic nephew program sibling alley you brief page";
+var mnemonic = "post globe rotate battle deal erode memory vessel awesome cry pact couch";

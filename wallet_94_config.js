@@ -1,1 +1,1 @@
-var mnemonic = "direct unlock pizza funny sweet boring cave duck drip govern jaguar bird";
+var mnemonic = "wagon rebuild cool two finger kiwi kiwi noise dove used cart member";

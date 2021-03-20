@@ -1,1 +1,1 @@
-var mnemonic = "aisle because home cinnamon master seed village scare write album circle boost";
+var mnemonic = "ticket author announce grit pumpkin wolf hover truth scare turtle dad ankle";

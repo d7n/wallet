@@ -1,1 +1,1 @@
-var mnemonic = "riot liquid absent exhaust grain purity involve chair canoe genius violin enter";
+var mnemonic = "seat canoe solve siege century cruise helmet bamboo scare forget slogan until";

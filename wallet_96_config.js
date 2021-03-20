@@ -1,1 +1,1 @@
-var mnemonic = "universe divert armor year history spy rail deal reduce amateur position giraffe";
+var mnemonic = "ugly cage aisle term brick above job brother judge liquid family crush";

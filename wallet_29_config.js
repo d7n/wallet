@@ -1,1 +1,1 @@
-var mnemonic = "diagram skirt fiscal admit original social creek animal syrup immense snake toy";
+var mnemonic = "sibling object code deposit rent detail mercy pact kitchen honey bulb around";

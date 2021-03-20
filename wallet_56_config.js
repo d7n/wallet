@@ -1,1 +1,1 @@
-var mnemonic = "output connect frame number design used cube bottom nest tool pact mosquito";
+var mnemonic = "unhappy echo another fruit swing apart bundle ugly cave require pill trust";

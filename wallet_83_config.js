@@ -1,1 +1,1 @@
-var mnemonic = "visa require grant hood ship want pool suspect service fashion defy mystery";
+var mnemonic = "smart rude bundle tiny pepper dog couch box assist shoot fever outside";

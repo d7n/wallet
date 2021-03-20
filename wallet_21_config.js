@@ -1,1 +1,1 @@
-var mnemonic = "blind nothing embrace luxury rhythm forget law armor spell market dentist monitor";
+var mnemonic = "above idle balcony able gold comfort already suggest buzz example heavy great";

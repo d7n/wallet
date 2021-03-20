@@ -1,1 +1,1 @@
-var mnemonic = "ticket once bike wink avocado frozen office unfold skate false final model";
+var mnemonic = "shift category hawk gorilla expose casino merge suspect memory parade enhance return";

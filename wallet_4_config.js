@@ -1,1 +1,1 @@
-var mnemonic = "select flock index glory wrap bird spray correct gym safe escape flavor";
+var mnemonic = "picnic pool voice grit route river mercy animal glove picnic lottery airport";

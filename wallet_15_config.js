@@ -1,1 +1,1 @@
-var mnemonic = "border pudding bargain fiction filter slab glare minimum chase shadow wisdom country";
+var mnemonic = "crash own traffic noodle card little afraid odor chest craft lunar daring";

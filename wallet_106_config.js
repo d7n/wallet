@@ -1,1 +1,1 @@
-var mnemonic = "slow cement sister fun dune betray angle kingdom option fiction canal idle";
+var mnemonic = "group gadget magnet tobacco add usage crater sense palace clerk half view";

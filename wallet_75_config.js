@@ -1,1 +1,1 @@
-var mnemonic = "immune acid half false garbage spatial annual absorb soccer enroll chest eager";
+var mnemonic = "fault grocery torch case height hurdle come armed thunder tuna idea earn";

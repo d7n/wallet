@@ -1,1 +1,1 @@
-var mnemonic = "tribe index dream crucial congress devote feature possible eye brand profit place";
+var mnemonic = "vintage cart zero baby behave desk adjust brave record foot praise steel";

@@ -1,1 +1,1 @@
-var mnemonic = "crater donate friend penalty maid label hundred movie rabbit replace always vast";
+var mnemonic = "reduce soup rhythm maximum trigger urban company peanut swing human dumb transfer";

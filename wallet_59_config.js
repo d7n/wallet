@@ -1,1 +1,1 @@
-var mnemonic = "embark similar stereo basket unusual spoil anchor share minor assume amused symbol";
+var mnemonic = "local camera truck ribbon typical soon provide pair under ceiling hotel mandate";

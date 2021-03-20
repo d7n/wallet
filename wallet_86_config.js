@@ -1,1 +1,1 @@
-var mnemonic = "tonight garbage pink erupt pulp cycle detail hidden easily waste kitten school";
+var mnemonic = "brass magnet loyal soul limb upgrade weasel diary rate owner garage myth";

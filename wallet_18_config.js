@@ -1,1 +1,1 @@
-var mnemonic = "west thrive salute bid abuse nephew easily anger confirm fury assume mandate";
+var mnemonic = "middle brisk one funny maid clutch dinner quote broccoli divide pulp tray";

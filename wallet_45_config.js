@@ -1,1 +1,1 @@
-var mnemonic = "catalog useless lady spare park save eagle flower coast scrub rescue south";
+var mnemonic = "near type twelve sick brush purpose feature ten rebel achieve devote sort";

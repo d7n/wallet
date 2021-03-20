@@ -1,1 +1,1 @@
-var mnemonic = "ivory page any feature team receive gravity culture black crumble swap suit";
+var mnemonic = "sight glimpse palace plug position turkey loud memory double ramp drama toy";

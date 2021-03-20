@@ -1,1 +1,1 @@
-var mnemonic = "mention stage high flip olympic catch refuse water nurse improve census water";
+var mnemonic = "win dignity now match trouble celery ten uniform enter cat debate squeeze";

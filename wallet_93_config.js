@@ -1,1 +1,1 @@
-var mnemonic = "rubber dwarf tool cart divide north paper gate raise maid bus upon";
+var mnemonic = "paper involve mosquito correct will ecology such repair sort more spend symptom";

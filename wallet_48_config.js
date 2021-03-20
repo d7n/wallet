@@ -1,1 +1,1 @@
-var mnemonic = "note flock rich cluster forget fall scrub verify review capital find vault";
+var mnemonic = "south entire liquid treat metal rocket coral ahead rule swamp iron relief";

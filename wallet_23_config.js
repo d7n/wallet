@@ -1,1 +1,1 @@
-var mnemonic = "waste gown fatigue home play fee same giraffe liar render advice north";
+var mnemonic = "know near good boat motor pass utility absorb helmet decline web disorder";

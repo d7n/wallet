@@ -1,1 +1,1 @@
-var mnemonic = "below brand empower grit rice science used acid come gentle inspire glance";
+var mnemonic = "ginger sound drop eagle online check ceiling canyon flush have power find";

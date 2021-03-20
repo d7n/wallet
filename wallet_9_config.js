@@ -1,1 +1,1 @@
-var mnemonic = "canoe early gadget bike victory avocado order slow sunset solar world acquire";
+var mnemonic = "device twice fog loud tell clutch frown tunnel stable wave flee foster";

@@ -1,1 +1,1 @@
-var mnemonic = "leader dignity swap put air funny bright play final very heavy bamboo";
+var mnemonic = "visual month switch fluid olympic salt cricket dance diary wagon climb rib";

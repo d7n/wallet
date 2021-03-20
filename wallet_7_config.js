@@ -1,1 +1,1 @@
-var mnemonic = "warm pet glare craft explain jar nominee steak chuckle member stamp real";
+var mnemonic = "smart coral undo silk gym retreat crash chat tonight resemble increase master";

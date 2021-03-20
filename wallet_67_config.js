@@ -1,1 +1,1 @@
-var mnemonic = "bachelor sport cook online picture fragile vast venue bracket attract visa key";
+var mnemonic = "kangaroo dress winner broccoli friend bus planet require invest wheel appear shoulder";

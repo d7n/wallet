@@ -1,1 +1,1 @@
-var mnemonic = "aware dash clean behave sword fetch voyage polar salmon pattern donkey tomorrow";
+var mnemonic = "skill approve clock clutch disease like wash clay dirt fun fossil settle";

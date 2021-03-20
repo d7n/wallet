@@ -1,1 +1,1 @@
-var mnemonic = "various winner off rural settle gap remind width check stool hair embark";
+var mnemonic = "remember thank clip dizzy puzzle flash slight library rich vacuum rapid another";

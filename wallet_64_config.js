@@ -1,1 +1,1 @@
-var mnemonic = "river minute feature confirm coconut upper project space patch cave turn route";
+var mnemonic = "obvious wise present vacant slot fault addict inform mandate today hundred scan";

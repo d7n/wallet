@@ -1,1 +1,1 @@
-var mnemonic = "since exist hair tourist night forget harsh organ myth doctor bulk team";
+var mnemonic = "plunge hope night remove perfect plastic save expect seat quit problem seed";

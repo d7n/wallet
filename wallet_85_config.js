@@ -1,1 +1,1 @@
-var mnemonic = "combine draft alter family weird ankle excite much ask trumpet liquid light";
+var mnemonic = "infant toe link calm labor plunge cart reward bean buffalo yellow brush";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere ice orbit sheriff canvas tent undo foot all tree illness fruit";
+var mnemonic = "hundred ocean weapon giant concert conduct indoor chunk release relax balance anxiety";

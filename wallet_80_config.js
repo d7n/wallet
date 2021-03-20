@@ -1,1 +1,1 @@
-var mnemonic = "ceiling early apple paddle umbrella always spike market alarm such outdoor assist";
+var mnemonic = "extra letter vicious volcano now dry aim drink flat jelly tattoo lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "issue pulp trick diesel lamp raise pigeon circle survey ceiling prison palace";
+var mnemonic = "tattoo farm layer cinnamon worry bacon antenna mercy view blouse swing runway";

@@ -1,1 +1,1 @@
-var mnemonic = "soon ten river usage enough throw pill corn doll hammer own proud";
+var mnemonic = "entire try mass oil veteran awesome push layer symbol property roof tooth";

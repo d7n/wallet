@@ -1,1 +1,1 @@
-var mnemonic = "suggest economy welcome can account view system cat cotton avocado early police";
+var mnemonic = "supply regret ivory shove brown mind clap attitude kite solid near village";

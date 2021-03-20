@@ -1,1 +1,1 @@
-var mnemonic = "slide mean little patient excess present dash situate evolve grass fence slender";
+var mnemonic = "trial plastic duck lawn citizen rely task check unhappy hybrid jaguar find";

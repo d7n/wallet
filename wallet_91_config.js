@@ -1,1 +1,1 @@
-var mnemonic = "toy trip swing ensure help glory animal click fossil ten know eager";
+var mnemonic = "chair hurdle ready reduce find choice luggage spirit elite fever detail real";

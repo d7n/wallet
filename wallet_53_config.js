@@ -1,1 +1,1 @@
-var mnemonic = "auto noble mushroom celery believe hurry tackle scale swing work advice wise";
+var mnemonic = "roast beauty turn loyal another plug intact cat harbor hobby ecology vehicle";

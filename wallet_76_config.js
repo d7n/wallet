@@ -1,1 +1,1 @@
-var mnemonic = "common victory shallow wife genius melt vast market original glove series six";
+var mnemonic = "army slogan spoil annual old action hint unlock describe humor fiber hand";

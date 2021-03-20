@@ -1,1 +1,1 @@
-var mnemonic = "sight draw rare divorce concert occur high goddess inner village process rubber";
+var mnemonic = "trend type sponsor fancy ring copy frown enhance estate chronic foster local";

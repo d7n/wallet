@@ -1,1 +1,1 @@
-var mnemonic = "pair north balcony twice river cream green notable page gas uncle theory";
+var mnemonic = "rack juice crash dwarf rare sphere gossip asset reason stomach kiwi target";

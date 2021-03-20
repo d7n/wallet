@@ -1,1 +1,1 @@
-var mnemonic = "fly come globe exchange grain silly trap age nothing cabbage toe crop";
+var mnemonic = "pen vote wrong zero viable inquiry bus chicken bike inject settle mimic";

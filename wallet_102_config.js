@@ -1,1 +1,1 @@
-var mnemonic = "smile soon amount all faculty vessel man inflict sausage lion lens grant";
+var mnemonic = "skull middle flip response rule february shy vault shaft chimney ordinary must";
