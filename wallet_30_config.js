@@ -1,1 +1,1 @@
-var mnemonic = "fence slam egg radio rice man license slab they token amused rigid";
+var mnemonic = "antique reopen grid people curtain sketch loud scan era cover balance receive";

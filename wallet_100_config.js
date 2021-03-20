@@ -1,1 +1,1 @@
-var mnemonic = "cycle virus forest secret waste air joy hundred crash drama wrestle sock";
+var mnemonic = "head stem absent define into october answer crane depend theory cart cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "super exclude void celery envelope flock trophy since toddler room renew winner";
+var mnemonic = "about window retreat afford skull hawk park analyst glow enough deal attack";

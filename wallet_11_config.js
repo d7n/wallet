@@ -1,1 +1,1 @@
-var mnemonic = "scheme govern grace bean skin noise donate power season raven step ball";
+var mnemonic = "bench rare album safe thunder comic logic hunt census arrive online fossil";

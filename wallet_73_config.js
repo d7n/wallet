@@ -1,1 +1,1 @@
-var mnemonic = "intact pulp effort insane long renew century settle drill warrior soldier cash";
+var mnemonic = "suggest lock sand remain antique announce cream planet match bottom crash trick";

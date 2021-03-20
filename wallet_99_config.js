@@ -1,1 +1,1 @@
-var mnemonic = "effort carry author onion wheel anger call nothing fatal alcohol say surface";
+var mnemonic = "denial permit town fun useless gorilla roof trigger easy sad heart mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm galaxy toilet phrase bulk equal parrot false alert melt shadow faith";
+var mnemonic = "deputy whisper ecology tell lawn wife ahead mystery client alert wisdom vast";

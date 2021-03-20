@@ -1,1 +1,1 @@
-var mnemonic = "time raven use innocent awful blur certain mixed frozen will man trophy";
+var mnemonic = "differ ball canyon hobby view intact year group nice erode today blossom";

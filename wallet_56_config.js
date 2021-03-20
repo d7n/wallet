@@ -1,1 +1,1 @@
-var mnemonic = "capital casual unfair frown comic pumpkin bar flame crawl room aisle minute";
+var mnemonic = "dry negative client wrestle carry bounce hockey reform asset civil regular feel";

@@ -1,1 +1,1 @@
-var mnemonic = "grid warfare lunar menu rally oak achieve evoke ramp general kite loyal";
+var mnemonic = "doll notable burden sleep supreme slender artist grow region manage oxygen silent";

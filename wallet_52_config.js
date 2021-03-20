@@ -1,1 +1,1 @@
-var mnemonic = "spoil climb ice army fever swim glimpse another train left obtain glimpse";
+var mnemonic = "fox apart outside scare stove giant neutral inspire hotel ask seat balance";

@@ -1,1 +1,1 @@
-var mnemonic = "entire fiction vault night code bleak valve situate crumble alcohol mix recall";
+var mnemonic = "surround noodle garden depart loud message large ugly lava mountain drum already";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic gossip adapt universe leader rack antique leisure remain joy pencil master";
+var mnemonic = "brief work nominee mansion arrest mistake wave champion mango bachelor because hidden";

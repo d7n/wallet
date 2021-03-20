@@ -1,1 +1,1 @@
-var mnemonic = "timber leopard stage vague reason diary option bright practice flame erase bright";
+var mnemonic = "this check cave consider neither asset average gaze harsh title evolve toddler";

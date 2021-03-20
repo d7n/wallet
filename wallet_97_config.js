@@ -1,1 +1,1 @@
-var mnemonic = "notable drive receive lounge journey index alert only over meat pottery answer";
+var mnemonic = "roof speed mobile resemble web essay glad dish argue wonder sword kiss";

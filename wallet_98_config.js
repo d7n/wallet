@@ -1,1 +1,1 @@
-var mnemonic = "pudding keen tomato town play pave web level hidden artist second wreck";
+var mnemonic = "reunion inspire actual kiwi garlic pioneer trouble slim enemy rescue extend hour";

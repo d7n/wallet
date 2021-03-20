@@ -1,1 +1,1 @@
-var mnemonic = "weird eagle foster silver drastic service escape canvas festival crucial fence prevent";
+var mnemonic = "peanut mobile ski win vicious budget maid noble sport wife educate split";

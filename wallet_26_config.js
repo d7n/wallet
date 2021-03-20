@@ -1,1 +1,1 @@
-var mnemonic = "hollow joy stamp useless voice brown lawsuit session gadget orchard habit steak";
+var mnemonic = "please scatter search ladder mail faculty mom climb simple club crash inmate";

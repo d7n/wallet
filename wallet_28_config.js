@@ -1,1 +1,1 @@
-var mnemonic = "donkey situate stool tide year wing slice media divert salute bulb thing";
+var mnemonic = "near derive panel thank occur involve found glue chaos field giraffe dust";

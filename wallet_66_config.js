@@ -1,1 +1,1 @@
-var mnemonic = "turn shield silly vintage food cement grab antique theme travel abandon chimney";
+var mnemonic = "wrong squeeze roof curtain zoo refuse guilt action assault swift trip describe";

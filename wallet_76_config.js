@@ -1,1 +1,1 @@
-var mnemonic = "yellow oppose smooth destroy unfair crack woman grow around cart eagle mother";
+var mnemonic = "april goat bench author hurry tennis neither nature outer place mouse fiction";

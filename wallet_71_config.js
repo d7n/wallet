@@ -1,1 +1,1 @@
-var mnemonic = "couple parent tongue push domain skirt will metal depart profit demise attitude";
+var mnemonic = "destroy often fence belt dumb provide spatial autumn forest cool clever topic";

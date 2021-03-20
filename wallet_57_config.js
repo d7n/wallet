@@ -1,1 +1,1 @@
-var mnemonic = "envelope token possible figure surround own lizard mercy hammer hill catalog myth";
+var mnemonic = "happy pen secret math visual grocery direct shoe shallow cave tooth spatial";

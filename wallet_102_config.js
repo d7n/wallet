@@ -1,1 +1,1 @@
-var mnemonic = "sadness robot horn bench give rapid become local useful friend print denial";
+var mnemonic = "brass oven unfair leisure tilt gift once gym science creek fiscal sing";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh hunt rigid mushroom wage burst learn text second oil return impact";
+var mnemonic = "sheriff arm magnet school anchor deal prefer donate dial sustain endorse tennis";

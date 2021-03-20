@@ -1,1 +1,1 @@
-var mnemonic = "forest antique mix hunt return carbon horror toast churn crane sphere picnic";
+var mnemonic = "main absorb wonder real own slice pond vapor apple stadium retreat accuse";

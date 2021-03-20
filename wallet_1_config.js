@@ -1,1 +1,1 @@
-var mnemonic = "dentist silk divorce plastic live car unhappy basic clutch elephant snow weekend";
+var mnemonic = "apart thought human upon learn occur cinnamon half entry setup crazy entry";

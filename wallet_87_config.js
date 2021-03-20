@@ -1,1 +1,1 @@
-var mnemonic = "pony wrap kidney paper series flash know venture wonder wait moon grocery";
+var mnemonic = "oven forest hard argue tell future party wage slogan law bottom before";

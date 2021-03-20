@@ -1,1 +1,1 @@
-var mnemonic = "park else episode million live rely orange walk slim merit turtle song";
+var mnemonic = "chief topic eyebrow target prosper skirt edge license reopen enemy slogan table";

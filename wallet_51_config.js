@@ -1,1 +1,1 @@
-var mnemonic = "easily model hungry doll paper put glove buyer sketch captain violin divide";
+var mnemonic = "attend lens olympic boy nephew slush liquid captain purity shallow eyebrow shoe";

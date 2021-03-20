@@ -1,1 +1,1 @@
-var mnemonic = "steak shrug vacant echo balcony lab food duty hood review phone park";
+var mnemonic = "scale profit sentence pistol matter clog shock beach job luxury please forward";

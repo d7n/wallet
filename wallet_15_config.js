@@ -1,1 +1,1 @@
-var mnemonic = "sad myself news cash oval wrist position palm host square main glad";
+var mnemonic = "roof pudding park sauce roast toss virus notice rough lounge calm cabbage";

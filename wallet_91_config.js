@@ -1,1 +1,1 @@
-var mnemonic = "century glance drink boring next stone excess world tortoise ugly scrap soon";
+var mnemonic = "math fuel fever link milk bronze bean wish muscle orange dutch flip";

@@ -1,1 +1,1 @@
-var mnemonic = "nest inject course tilt stand onion bounce brown echo select merry math";
+var mnemonic = "flavor key time color core purse farm river twin hour federal door";

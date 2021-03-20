@@ -1,1 +1,1 @@
-var mnemonic = "type problem element region settle doll ripple someone broom clutch nature view";
+var mnemonic = "breeze blossom local property always grape cinnamon seven unfold butter memory maze";

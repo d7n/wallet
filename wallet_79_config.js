@@ -1,1 +1,1 @@
-var mnemonic = "tape media drop pig fashion praise coach shrug punch first jump now";
+var mnemonic = "recall abstract bitter furnace print bullet hour piano close unfair scan teach";

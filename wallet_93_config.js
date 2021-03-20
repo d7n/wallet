@@ -1,1 +1,1 @@
-var mnemonic = "flame suffer erupt monitor matrix north transfer salmon juice tunnel item property";
+var mnemonic = "pupil tribe obtain acquire sleep lyrics celery van toe loud damp divorce";

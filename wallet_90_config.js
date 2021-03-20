@@ -1,1 +1,1 @@
-var mnemonic = "solar extend copy memory blanket company innocent vintage alley juice pair sick";
+var mnemonic = "inside kidney black divorce clown thumb oxygen clutch stage toe type ghost";

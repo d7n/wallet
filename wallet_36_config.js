@@ -1,1 +1,1 @@
-var mnemonic = "loyal journey swap dilemma sense unfold swarm public title gun saddle wire";
+var mnemonic = "tower away later stamp detail dragon couch zero damage wear ethics barrel";

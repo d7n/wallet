@@ -1,1 +1,1 @@
-var mnemonic = "spend order shrug harsh public behind noise plate dumb pledge mobile tip";
+var mnemonic = "stock purity plastic three item report cream lab great fan person excess";

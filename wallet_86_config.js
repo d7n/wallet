@@ -1,1 +1,1 @@
-var mnemonic = "pig fly swamp glory traffic ride opera sword current genre round public";
+var mnemonic = "version such private life ostrich buyer culture object village onion attack phrase";

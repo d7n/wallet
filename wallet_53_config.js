@@ -1,1 +1,1 @@
-var mnemonic = "spirit drum nominee blood isolate buffalo arrange view will torch work anchor";
+var mnemonic = "dinner beauty upper basket miracle person into trim critic use shock gospel";

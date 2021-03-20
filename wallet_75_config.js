@@ -1,1 +1,1 @@
-var mnemonic = "fence hurdle client frown hobby decade pepper ensure steel seven cherry audit";
+var mnemonic = "loyal coach rebel unlock table matter inform oval sight keep today next";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing problem black coyote donate stumble grief smart solar bamboo race best";
+var mnemonic = "cliff cycle approve caught catalog moon motion valve girl sense laundry spike";

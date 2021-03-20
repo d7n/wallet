@@ -1,1 +1,1 @@
-var mnemonic = "media draw setup good ask fuel sample tomato odor deer stock angle";
+var mnemonic = "material swing amused cook top crawl produce jelly myth steak alien plate";

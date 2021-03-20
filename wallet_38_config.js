@@ -1,1 +1,1 @@
-var mnemonic = "fish venture unknown inmate fringe lend skill garden thumb sugar basic deputy";
+var mnemonic = "scare patch company mean copper romance stadium brand neglect cute genuine enemy";

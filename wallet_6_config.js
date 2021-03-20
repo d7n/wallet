@@ -1,1 +1,1 @@
-var mnemonic = "scene quick taxi thrive action swallow make female neither eight coast absent";
+var mnemonic = "sibling teach aim calm stick clump true father patient forget grant business";

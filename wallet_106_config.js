@@ -1,1 +1,1 @@
-var mnemonic = "replace nest alien hollow bicycle cattle label illness toe essay monkey shove";
+var mnemonic = "gravity custom quote lecture height distance arrow umbrella trumpet put panic brain";

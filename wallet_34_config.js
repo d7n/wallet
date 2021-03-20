@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog index drastic unfold armor photo confirm index phrase glue physical also";
+var mnemonic = "excuse globe patrol remove dwarf divert twin pole twelve chunk impact soap";

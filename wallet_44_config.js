@@ -1,1 +1,1 @@
-var mnemonic = "blood type unusual inmate dignity rebuild farm light bulb define kitten student";
+var mnemonic = "weird swim quality spoil journey whale verb never primary century ensure select";

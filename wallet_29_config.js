@@ -1,1 +1,1 @@
-var mnemonic = "range tube hurt film treat absent among secret search daring cross thought";
+var mnemonic = "similar drill tuition demand floor elbow bubble motor fork february risk tent";

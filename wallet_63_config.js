@@ -1,1 +1,1 @@
-var mnemonic = "empty ten undo absurd refuse angry civil slice spike gentle orient market";
+var mnemonic = "brain spice over obtain rubber boil paddle govern card light approve afraid";

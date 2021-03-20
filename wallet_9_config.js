@@ -1,1 +1,1 @@
-var mnemonic = "board employ derive remind tumble rigid fork flight sport solar exclude mix";
+var mnemonic = "race spell couch tribe index square payment tool carry bullet pulse chunk";

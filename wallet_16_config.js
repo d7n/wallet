@@ -1,1 +1,1 @@
-var mnemonic = "promote alley rocket example essence involve meadow own boss army orchard sunset";
+var mnemonic = "banana dance way human early menu ahead hazard shiver card pioneer plate";

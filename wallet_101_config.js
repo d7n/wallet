@@ -1,1 +1,1 @@
-var mnemonic = "taste buffalo blast attract certain liar among butter talk sausage mammal game";
+var mnemonic = "age inside moral wave name dwarf soul divorce beef hazard mule virtual";

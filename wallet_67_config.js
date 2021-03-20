@@ -1,1 +1,1 @@
-var mnemonic = "cheap strong expand absurd settle chaos swamp success purity time canyon sustain";
+var mnemonic = "fork slight note reveal gadget fiber gate bracket snow gossip yard there";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese effort column blade garbage science chalk fiscal object inner solve provide";
+var mnemonic = "camp cost master next foil jungle turtle wall tent regret unveil volume";

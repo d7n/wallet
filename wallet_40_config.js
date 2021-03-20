@@ -1,1 +1,1 @@
-var mnemonic = "rifle fine easy turtle bus seat wrestle gift occur crater broken shadow";
+var mnemonic = "ready blanket pilot pull squirrel employ survey normal negative way photo tray";

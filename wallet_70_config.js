@@ -1,1 +1,1 @@
-var mnemonic = "frame account cement acid clinic canoe race debris danger soon across tower";
+var mnemonic = "autumn top border century screen sock employ actor into layer clean adult";

@@ -1,1 +1,1 @@
-var mnemonic = "call garlic quick eight pelican screen jeans grab document hat ocean text";
+var mnemonic = "social artist heavy rule tornado shed when exhaust suit moral silly true";

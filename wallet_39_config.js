@@ -1,1 +1,1 @@
-var mnemonic = "teach profit relax peanut swim cage shell hotel pull census use shy";
+var mnemonic = "slide helmet machine away ecology ceiling theme organ flock idle model saddle";

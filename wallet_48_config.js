@@ -1,1 +1,1 @@
-var mnemonic = "more deal area truly debate settle fatal ozone harsh first tobacco million";
+var mnemonic = "fire pelican grid plastic stool farm seven hello cheap rain kidney history";

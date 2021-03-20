@@ -1,1 +1,1 @@
-var mnemonic = "siren during welcome brick want scout glow arena fan page salt pyramid";
+var mnemonic = "ice response above silly cherry response stairs pluck horror horse kiss loan";

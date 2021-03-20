@@ -1,1 +1,1 @@
-var mnemonic = "estate front fence ridge front oak unfair twelve betray helmet worry east";
+var mnemonic = "jealous reflect orange quit rival seed today ghost salute belt abandon treat";

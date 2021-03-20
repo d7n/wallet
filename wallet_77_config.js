@@ -1,1 +1,1 @@
-var mnemonic = "crush sibling avoid april believe trophy spray nephew aware bunker case kid";
+var mnemonic = "enough aunt worry ready talent hobby depart dose deer gift all truck";

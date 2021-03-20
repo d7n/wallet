@@ -1,1 +1,1 @@
-var mnemonic = "license note public elephant unusual poet wagon benefit exile hold define cheap";
+var mnemonic = "top museum blur giraffe found lunch lunar ostrich breeze thrive chef eternal";

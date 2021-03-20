@@ -1,1 +1,1 @@
-var mnemonic = "fork bullet tired link admit rain hope shield miss song script main";
+var mnemonic = "senior suit ritual frost hope echo abuse view team canyon prosper fix";

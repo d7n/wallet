@@ -1,1 +1,1 @@
-var mnemonic = "nut spice private unable oppose about raise youth wide right valley chunk";
+var mnemonic = "base learn tooth blur thunder use release shop gospel witness coin where";

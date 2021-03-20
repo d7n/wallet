@@ -1,1 +1,1 @@
-var mnemonic = "make final this winter cause runway layer express call wink melt tongue";
+var mnemonic = "weird nose endless elephant chaos elevator carry humble neck unveil power grace";

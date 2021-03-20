@@ -1,1 +1,1 @@
-var mnemonic = "ask already camp never lens present resemble scrub great alone wheel fault";
+var mnemonic = "entry way armed work valid arrive lion tissue fortune family program stadium";

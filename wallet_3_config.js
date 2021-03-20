@@ -1,1 +1,1 @@
-var mnemonic = "test smooth episode add click pipe joy below knife faint slim plate";
+var mnemonic = "bus razor child giant lecture version enhance tank gloom material busy under";

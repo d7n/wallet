@@ -1,1 +1,1 @@
-var mnemonic = "hill use elder course portion shy swamp simple huge amused lens quote";
+var mnemonic = "select tip unaware burger decorate tank enforce phrase pumpkin derive aware anchor";

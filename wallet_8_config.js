@@ -1,1 +1,1 @@
-var mnemonic = "physical crowd lock hollow lobster upgrade embrace awkward hip loop innocent amused";
+var mnemonic = "farm pretty catch barely security enrich pause crop lunch tide mask twin";

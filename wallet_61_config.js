@@ -1,1 +1,1 @@
-var mnemonic = "wheel involve embody ribbon cement muffin foot badge steel slam symptom ancient";
+var mnemonic = "strong nut eager mammal order jewel culture oven link finish rifle box";

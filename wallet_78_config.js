@@ -1,1 +1,1 @@
-var mnemonic = "wise focus inch end caught become day weird idea weather quarter secret";
+var mnemonic = "once involve next top flee coconut tiny return exhaust color object shed";

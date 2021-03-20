@@ -1,1 +1,1 @@
-var mnemonic = "fame seven nuclear unveil flush satisfy narrow diagram mango arrest mom wish";
+var mnemonic = "crisp unable plate rescue material husband hip lava absent double measure put";

@@ -1,1 +1,1 @@
-var mnemonic = "leader palm float hospital short sniff input fly grab town belt garlic";
+var mnemonic = "cinnamon mosquito local forum relief one cigar borrow ecology awful dolphin fall";

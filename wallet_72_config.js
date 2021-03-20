@@ -1,1 +1,1 @@
-var mnemonic = "rapid spawn drill prefer race phone whisper connect impact fury text merry";
+var mnemonic = "desk remind symptom violin fall matter link glance quantum ethics diagram believe";

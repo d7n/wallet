@@ -1,1 +1,1 @@
-var mnemonic = "dove involve goddess tomato hockey angle claim vessel into impose yellow strike";
+var mnemonic = "cushion frame miracle twelve impulse forum birth strike around orchard weasel winner";

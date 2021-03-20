@@ -1,1 +1,1 @@
-var mnemonic = "tray poem audit rescue trap mother carbon upon erosion say luggage seat";
+var mnemonic = "damage actual genuine bonus current inflict cheap victory kite advice action learn";

@@ -1,1 +1,1 @@
-var mnemonic = "junk team chicken orange casino grocery heart trap wall crane knee brown";
+var mnemonic = "lecture galaxy summer artist project camera spare catalog boss island vehicle guess";

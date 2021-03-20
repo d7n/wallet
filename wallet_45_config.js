@@ -1,1 +1,1 @@
-var mnemonic = "service consider waste ivory route session belt cotton tumble system nephew joy";
+var mnemonic = "child shop payment pond upgrade vessel hard couple recipe kitten junior fossil";

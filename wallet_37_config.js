@@ -1,1 +1,1 @@
-var mnemonic = "draw hidden similar dawn curve torch consider grid giant girl feel process";
+var mnemonic = "void vital crew weekend derive mad envelope clerk virus inquiry anger cool";

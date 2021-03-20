@@ -1,1 +1,1 @@
-var mnemonic = "warm coconut front earn detail mesh vault rival sentence render suffer voyage";
+var mnemonic = "this spin tomorrow element monster edit cake arctic omit silly almost master";

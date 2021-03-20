@@ -1,1 +1,1 @@
-var mnemonic = "stadium casual gaze stamp action wing kidney picnic razor about moment chapter";
+var mnemonic = "proof earth hungry body swear job armed present allow deposit chimney biology";
