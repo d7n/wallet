@@ -1,1 +1,1 @@
-var mnemonic = "feel leaf concert smile supply parent motion area inmate lab endless end";
+var mnemonic = "clump keep air true better pepper forward napkin furnace feature lazy ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal fuel rubber fit blur alone sausage border coil ritual lake report";
+var mnemonic = "anger mosquito only fault vibrant satoshi novel help decorate typical solar intact";

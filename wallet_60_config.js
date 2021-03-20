@@ -1,1 +1,1 @@
-var mnemonic = "relief unique penalty enact solution build punch method drama method priority enrich";
+var mnemonic = "unique tongue salmon addict quote atom inmate charge blast lecture under firm";

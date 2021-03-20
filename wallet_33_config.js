@@ -1,1 +1,1 @@
-var mnemonic = "try immune omit bulb age drink secret verb cook ask version survey";
+var mnemonic = "tobacco drum olive clock truly away hero impact off gold original weather";

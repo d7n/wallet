@@ -1,1 +1,1 @@
-var mnemonic = "garbage injury trim electric peanut purse cereal addict claim worry message pause";
+var mnemonic = "mix denial struggle either blood violin piece airport oven praise black badge";

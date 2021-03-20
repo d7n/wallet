@@ -1,1 +1,1 @@
-var mnemonic = "cost tip fever urge rabbit hawk door people mean noise miracle prevent";
+var mnemonic = "verb warfare fence chapter unveil shoot blouse kite real about category atom";

@@ -1,1 +1,1 @@
-var mnemonic = "object symbol divert game violin wire carpet dwarf frequent kingdom floor dish";
+var mnemonic = "defense vessel response crew dolphin dog disorder urge seven shield mansion shoe";

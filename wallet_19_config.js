@@ -1,1 +1,1 @@
-var mnemonic = "century spider model bench subject nominee maze zebra surround enroll admit satisfy";
+var mnemonic = "relax exercise law render license want small tragic aisle allow deer bounce";

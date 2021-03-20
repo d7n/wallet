@@ -1,1 +1,1 @@
-var mnemonic = "economy breeze soon pull identify junk crystal obtain army whip secret reward";
+var mnemonic = "concert tag undo front casual range alone ripple cool example tent luggage";

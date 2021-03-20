@@ -1,1 +1,1 @@
-var mnemonic = "joy detail logic trick rough retreat exile visit frame photo stick endless";
+var mnemonic = "program beach civil flag monkey interest helmet tone present frame train please";

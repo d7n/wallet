@@ -1,1 +1,1 @@
-var mnemonic = "furnace raw matrix pelican unlock hotel will echo arena develop resemble smoke";
+var mnemonic = "inquiry cargo congress lab thank weasel now ability page coyote sting choose";

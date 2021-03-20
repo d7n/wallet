@@ -1,1 +1,1 @@
-var mnemonic = "offer top burger inform story heavy endless nut column project soup carpet";
+var mnemonic = "flower convince dial hub indicate pet lawsuit tragic prepare expose giggle average";

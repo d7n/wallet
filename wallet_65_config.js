@@ -1,1 +1,1 @@
-var mnemonic = "crash frown knife space category trigger expire mansion robot lizard taste pistol";
+var mnemonic = "promote wave gap learn kidney tree reflect ensure science belt iron weekend";

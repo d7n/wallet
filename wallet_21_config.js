@@ -1,1 +1,1 @@
-var mnemonic = "bread planet method fatal scheme deny draft puzzle pretty crisp hamster pink";
+var mnemonic = "giggle pilot bless own asset suffer marble almost chat birth edge latin";

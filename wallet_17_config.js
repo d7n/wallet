@@ -1,1 +1,1 @@
-var mnemonic = "common almost inside harsh more recall tattoo whale decade job island couch";
+var mnemonic = "trust life shell share bargain focus home loyal invite height slow jelly";

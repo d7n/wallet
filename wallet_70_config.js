@@ -1,1 +1,1 @@
-var mnemonic = "goddess pelican inject spy legend radar diesel rug mango asset blast blanket";
+var mnemonic = "wide uniform limit spoil recipe jazz tennis gas multiply marriage people day";

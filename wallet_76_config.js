@@ -1,1 +1,1 @@
-var mnemonic = "flee yard silver convince bring melt coin cousin purpose liar embody scare";
+var mnemonic = "social north omit settle manual engine trip pigeon east report pulp onion";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh dial tattoo mandate barrel quick flight bottom zero morning write upon";
+var mnemonic = "imitate anxiety margin mom state office crazy invite citizen powder method lyrics";

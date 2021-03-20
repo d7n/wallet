@@ -1,1 +1,1 @@
-var mnemonic = "icon galaxy marine genius embark uncover begin glance surge glue digital taxi";
+var mnemonic = "tackle weird mechanic leaf adjust region maid habit garbage awake correct because";

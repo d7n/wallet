@@ -1,1 +1,1 @@
-var mnemonic = "sure average human olympic anger access suspect stomach circle hover coil engine";
+var mnemonic = "soup poem mansion radio fuel range sausage cage goddess move firm clap";

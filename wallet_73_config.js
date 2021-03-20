@@ -1,1 +1,1 @@
-var mnemonic = "access elbow upgrade addict minimum letter move garbage olympic buffalo spoil lumber";
+var mnemonic = "wish advice purity satoshi bean icon siren salmon fame crew modify glimpse";

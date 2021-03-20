@@ -1,1 +1,1 @@
-var mnemonic = "glue animal tornado artefact blind fabric render pen radio resist parrot mesh";
+var mnemonic = "target emotion surprise high mansion state digital neck jungle tail photo unit";

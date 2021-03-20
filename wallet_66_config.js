@@ -1,1 +1,1 @@
-var mnemonic = "ramp crucial capital slide dry maze adapt deputy nose region try portion";
+var mnemonic = "worth front involve embody want bone feel gun section jealous man tape";

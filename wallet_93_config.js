@@ -1,1 +1,1 @@
-var mnemonic = "tribe casino fresh matter sight vicious ginger village unlock between march turkey";
+var mnemonic = "spray timber success grass public keep recipe dragon seek humble gate wheel";

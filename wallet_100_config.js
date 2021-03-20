@@ -1,1 +1,1 @@
-var mnemonic = "screen social reduce bubble onion utility copy limit century live awkward rough";
+var mnemonic = "robot velvet rate spoon clog april session craft best fuel relax angle";

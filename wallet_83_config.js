@@ -1,1 +1,1 @@
-var mnemonic = "genius filter session morning hunt rack usage reunion olive dance curtain marriage";
+var mnemonic = "auto diagram various industry thrive boss young tobacco amazing repeat metal enlist";

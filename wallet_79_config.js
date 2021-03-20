@@ -1,1 +1,1 @@
-var mnemonic = "prepare bulk dutch answer peanut pull head century teach volume tail girl";
+var mnemonic = "vacuum climb again grunt sunset design suffer dream novel train father obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "solution exercise expire apart depend hello fat leisure turtle trash tent device";
+var mnemonic = "sketch body gadget pet repeat nominee phone fish lumber child brick garment";

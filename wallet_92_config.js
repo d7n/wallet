@@ -1,1 +1,1 @@
-var mnemonic = "south neglect device family three rug thumb toddler today weird ethics type";
+var mnemonic = "couch share utility any predict elephant upset leaf primary ostrich during immune";

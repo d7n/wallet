@@ -1,1 +1,1 @@
-var mnemonic = "shield bubble mango mask goddess step mule van tomorrow mass train nuclear";
+var mnemonic = "duck fragile afraid buzz cabbage churn morning shove dress glass radar tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight entry service letter shine park main want museum manage rocket sign";
+var mnemonic = "add patient install fury north noise economy dutch also cigar same lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "health drink bullet invest news meat swift orient wild rack egg senior";
+var mnemonic = "elite version intact credit ordinary entire topple retire answer cover eagle pet";

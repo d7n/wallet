@@ -1,1 +1,1 @@
-var mnemonic = "trade amazing damp arrange else between logic alpha morning economy scare cage";
+var mnemonic = "camp design dial car egg blush patrol army bleak ketchup chair hidden";

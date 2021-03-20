@@ -1,1 +1,1 @@
-var mnemonic = "win auction divert exhibit talk word fancy blur appear juice screen make";
+var mnemonic = "cry hurt sentence rare rescue enforce match section gun story census mule";

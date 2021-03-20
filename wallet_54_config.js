@@ -1,1 +1,1 @@
-var mnemonic = "unaware depart first refuse immense select robot toss trouble trade orphan farm";
+var mnemonic = "design gate august thunder attend muscle tank notable finger path exchange approve";

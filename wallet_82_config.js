@@ -1,1 +1,1 @@
-var mnemonic = "ill cinnamon acquire siege ride safe brick stable trap mixed mountain model";
+var mnemonic = "grid visa people dragon crew wish desk little kangaroo marble kit net";

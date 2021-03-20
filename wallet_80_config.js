@@ -1,1 +1,1 @@
-var mnemonic = "horn machine trial egg gate play mixture genius hello bacon camera only";
+var mnemonic = "chuckle post wrong frost small bamboo chief document shrug security reveal relief";

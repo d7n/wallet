@@ -1,1 +1,1 @@
-var mnemonic = "congress job security outdoor scissors deposit gallery equal indicate lobster affair hamster";
+var mnemonic = "addict patrol say sword bacon ostrich someone bone advice describe infant catalog";

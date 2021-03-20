@@ -1,1 +1,1 @@
-var mnemonic = "nerve talk cricket boy robust raccoon ski happy either left flag atom";
+var mnemonic = "motion tilt gown avoid now brand peasant belt leader valve latin glass";

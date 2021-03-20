@@ -1,1 +1,1 @@
-var mnemonic = "card sight wrestle arrange crumble harbor caution twin tackle say senior mandate";
+var mnemonic = "liquid gap broccoli danger cement boy hurdle ginger member twelve roof tumble";

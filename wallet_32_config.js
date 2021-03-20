@@ -1,1 +1,1 @@
-var mnemonic = "detail example bubble analyst absurd rain useful close certain defy episode calm";
+var mnemonic = "second elder stem give leg hover hamster envelope mandate right online ensure";

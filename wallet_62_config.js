@@ -1,1 +1,1 @@
-var mnemonic = "rather expire sponsor quick brisk fan vital win blue actor mad exile";
+var mnemonic = "chapter satisfy illegal hundred pattern thing identify oil source slim valid survey";

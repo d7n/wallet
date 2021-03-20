@@ -1,1 +1,1 @@
-var mnemonic = "clarify essay marriage bulk acoustic ribbon since happy song asset project street";
+var mnemonic = "crowd hand language dice come grocery master chaos ship blossom vocal cousin";

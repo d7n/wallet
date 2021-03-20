@@ -1,1 +1,1 @@
-var mnemonic = "able cry blur industry debate wolf refuse dirt destroy label intact motion";
+var mnemonic = "reject auction plunge they smart scare more air often distance rescue fatigue";

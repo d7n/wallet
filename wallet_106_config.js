@@ -1,1 +1,1 @@
-var mnemonic = "vault april dignity switch twelve lemon cart upon march announce ill chest";
+var mnemonic = "deal carbon include topple reward wreck vital join gospel grow pistol crisp";

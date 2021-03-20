@@ -1,1 +1,1 @@
-var mnemonic = "action grape suspect fork rather fog manual remind box siege sudden hunt";
+var mnemonic = "mystery swamp trouble ready coin differ wise skirt hedgehog truck tobacco siege";

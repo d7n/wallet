@@ -1,1 +1,1 @@
-var mnemonic = "orchard citizen soon ostrich write pretty insane opera tiger smoke brass rocket";
+var mnemonic = "demise adapt power brown range tell garbage stem rifle horse axis city";

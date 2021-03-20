@@ -1,1 +1,1 @@
-var mnemonic = "abuse various advance prefer tumble dial approve feel gorilla alley deer reward";
+var mnemonic = "wagon exact valve valid annual hockey van common little antenna pioneer cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli alter door bright blossom order recipe sphere renew suspect taste penalty";
+var mnemonic = "poem ribbon life baby summer slow dune retreat entry depart taste thing";

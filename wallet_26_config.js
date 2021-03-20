@@ -1,1 +1,1 @@
-var mnemonic = "normal symptom loud ramp jar banner manual torch summer sand scorpion ancient";
+var mnemonic = "glass scare catch edit tray render group distance pottery armed proof magnet";

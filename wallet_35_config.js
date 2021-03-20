@@ -1,1 +1,1 @@
-var mnemonic = "crystal plate weird thunder tilt strategy conduct chronic proof conduct vague unique";
+var mnemonic = "raven valid crucial stay obscure inner suggest argue stem onion buzz silent";

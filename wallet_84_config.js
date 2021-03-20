@@ -1,1 +1,1 @@
-var mnemonic = "cat east wisdom educate sample quarter mammal note oyster country hawk harbor";
+var mnemonic = "essay false maximum december nerve diamond news hidden tomato wheat involve host";

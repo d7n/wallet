@@ -1,1 +1,1 @@
-var mnemonic = "fossil code digital match object boss estate art hour noise angry park";
+var mnemonic = "trap opera gauge improve couple right system private fantasy leader hover cabin";

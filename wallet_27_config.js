@@ -1,1 +1,1 @@
-var mnemonic = "tortoise also town invite adult orphan hybrid clock rural hybrid exercise cruise";
+var mnemonic = "soul useful page trip push violin shy arrive name toast blood faint";

@@ -1,1 +1,1 @@
-var mnemonic = "thing fall caught antique embody hammer leopard number then pretty merit write";
+var mnemonic = "enlist wise such coach cube hire decrease wisdom dolphin laptop green clay";

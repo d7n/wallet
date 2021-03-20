@@ -1,1 +1,1 @@
-var mnemonic = "notice analyst material culture shaft idea jazz soda novel kind sting police";
+var mnemonic = "abuse language present click diesel unhappy video monitor angry illness harsh cost";

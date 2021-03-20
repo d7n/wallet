@@ -1,1 +1,1 @@
-var mnemonic = "punch note trade private angle summer critic across depend bounce tag poverty";
+var mnemonic = "thank fury kid rule alone rain sausage agent casual floor glimpse dial";

@@ -1,1 +1,1 @@
-var mnemonic = "rare mom wreck fashion caught pact behave globe supreme kiss inch move";
+var mnemonic = "field magic expect leader hockey diesel grab entry scene pond close hello";

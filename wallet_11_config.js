@@ -1,1 +1,1 @@
-var mnemonic = "avocado plate oxygen grid fragile people air gown rebuild insane robust setup";
+var mnemonic = "bubble biology venture among excite element clever gasp spell fall afraid tennis";

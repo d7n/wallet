@@ -1,1 +1,1 @@
-var mnemonic = "visa lab volume portion climb own junior shield box pear segment hammer";
+var mnemonic = "cool must rule carpet proud mother gain cannon organ host magic crop";

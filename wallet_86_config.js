@@ -1,1 +1,1 @@
-var mnemonic = "answer book mosquito mystery similar useless project damp escape jealous hunt sell";
+var mnemonic = "someone recycle rich six lobster fox find tissue marine adjust blind allow";

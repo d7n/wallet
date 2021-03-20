@@ -1,1 +1,1 @@
-var mnemonic = "else rail increase buddy cry poet stomach become volume grace comic wrap";
+var mnemonic = "circle hole noodle diary portion forget dismiss finger cook erase female process";

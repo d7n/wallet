@@ -1,1 +1,1 @@
-var mnemonic = "replace match mobile scrub mass drill inhale margin connect grab miss door";
+var mnemonic = "impose price olympic sister tuition sting siege cupboard legal load number february";

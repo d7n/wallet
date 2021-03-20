@@ -1,1 +1,1 @@
-var mnemonic = "example outdoor verify road upon spoon tip fun banana wheat usage love";
+var mnemonic = "rhythm session woman liar basic awake actor gallery warm install pepper glove";

@@ -1,1 +1,1 @@
-var mnemonic = "wish tomorrow viable misery canvas seven toy list abandon walnut envelope loan";
+var mnemonic = "tackle sting chronic surge minor found used napkin shiver arena speak screen";

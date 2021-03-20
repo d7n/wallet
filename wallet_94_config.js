@@ -1,1 +1,1 @@
-var mnemonic = "author honey skirt utility balance escape observe bacon such bubble run lawn";
+var mnemonic = "price belt bread give notice inform impose valley apart cabbage salad panic";

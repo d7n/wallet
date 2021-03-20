@@ -1,1 +1,1 @@
-var mnemonic = "whip picture paddle oval chalk gossip weird muffin strike history dumb steel";
+var mnemonic = "couple agent tray age top sheriff depend balcony van pig force math";

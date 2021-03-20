@@ -1,1 +1,1 @@
-var mnemonic = "rescue fine smart shine dumb chicken figure journey kitchen betray shock snack";
+var mnemonic = "harbor enroll embark weather join parade inch spot resource spirit eye hard";

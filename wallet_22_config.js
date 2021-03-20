@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow frost rely patient horse raise fetch cupboard motion cry degree blur";
+var mnemonic = "spare net grid milk state fan little slight exchange wonder beauty gospel";

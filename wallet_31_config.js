@@ -1,1 +1,1 @@
-var mnemonic = "example labor copper ginger indoor pulse fragile cost cube dismiss apart amount";
+var mnemonic = "obey base gossip woman warfare short service sport cruel gold orphan swing";

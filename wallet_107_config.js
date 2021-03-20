@@ -1,1 +1,1 @@
-var mnemonic = "ridge protect wrist cement melody estate often razor topple jump side salmon";
+var mnemonic = "someone example nasty vehicle shiver input swap penalty code cart drift length";

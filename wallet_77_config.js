@@ -1,1 +1,1 @@
-var mnemonic = "mask private cake seek wing cannon endorse rigid melody steak report live";
+var mnemonic = "globe staff captain exit obvious lecture digital pretty duty imitate survey step";

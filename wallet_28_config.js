@@ -1,1 +1,1 @@
-var mnemonic = "coach skirt ride earth eight potato supply benefit student wheat arrive risk";
+var mnemonic = "turtle scatter loop local coral cloth actress purpose antique install ugly install";

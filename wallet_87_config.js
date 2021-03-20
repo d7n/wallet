@@ -1,1 +1,1 @@
-var mnemonic = "sustain have sustain unfold verb hazard peanut spin distance wash choose stadium";
+var mnemonic = "album enlist test fit card basket twice never river project tree smart";

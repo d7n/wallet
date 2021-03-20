@@ -1,1 +1,1 @@
-var mnemonic = "matrix bread bid couch best very age point ozone square name monster";
+var mnemonic = "knock skull fury defy pet faculty bind leisure melt despair about endless";

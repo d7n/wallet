@@ -1,1 +1,1 @@
-var mnemonic = "item live decade soda fire plunge sheriff quit dirt fluid neither cruise";
+var mnemonic = "lazy solve admit tired prison panther analyst float glass pioneer object sadness";

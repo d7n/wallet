@@ -1,1 +1,1 @@
-var mnemonic = "tell squeeze charge amount cattle olympic myth solution bubble visa torch people";
+var mnemonic = "topple increase fire security guess sister orient state hair zoo bus whip";

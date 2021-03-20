@@ -1,1 +1,1 @@
-var mnemonic = "lottery write theory cruise prevent cabin pause price gloom potato virtual correct";
+var mnemonic = "dinner forward rice ceiling patch hospital easy raven setup visual pet garlic";

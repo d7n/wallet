@@ -1,1 +1,1 @@
-var mnemonic = "pen have boil mouse taste cement sadness night cushion bird income kitten";
+var mnemonic = "liberty theme violin cabbage neither olympic key thrive voice ghost check faint";

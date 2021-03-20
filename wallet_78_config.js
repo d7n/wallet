@@ -1,1 +1,1 @@
-var mnemonic = "advance target twenty length item train pave album amazing split common all";
+var mnemonic = "tag baby chunk panic worth lunch swing latin fork only raise rely";

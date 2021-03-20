@@ -1,1 +1,1 @@
-var mnemonic = "various shove clarify voyage toward pluck two arctic tide mask fat sure";
+var mnemonic = "cannon satoshi cram length safe apology ship divert dose lunar mandate suit";

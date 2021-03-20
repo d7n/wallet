@@ -1,1 +1,1 @@
-var mnemonic = "volume debate box device ski say cannon rib moment brave habit lunch";
+var mnemonic = "junior advance fault boost trap cradle equal setup pyramid annual stone gown";

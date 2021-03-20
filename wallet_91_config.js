@@ -1,1 +1,1 @@
-var mnemonic = "soul useless basket genre scheme quick stumble orient degree rough same smart";
+var mnemonic = "bottom sphere easy erosion vague damage range friend lobster draw vehicle harvest";

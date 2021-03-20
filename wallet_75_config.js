@@ -1,1 +1,1 @@
-var mnemonic = "usual chicken brush pill copy pottery domain erupt lyrics indicate member inside";
+var mnemonic = "elder crouch now spoon give rescue friend once acid lemon elevator then";

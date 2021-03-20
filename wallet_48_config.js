@@ -1,1 +1,1 @@
-var mnemonic = "venture habit afraid gym one card squeeze clip chair mixed piano legend";
+var mnemonic = "scout vanish swift ketchup measure stem wasp cargo federal viable polar force";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery endorse infant biology alcohol airport country alcohol acquire cute grief need";
+var mnemonic = "panel supply ask hobby evil dolphin crash fragile rely onion field about";
