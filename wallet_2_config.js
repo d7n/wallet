@@ -1,1 +1,1 @@
-var mnemonic = "inject equal nurse violin innocent biology code stable share stock disease tank";
+var mnemonic = "right guard raw critic nut front ozone plastic pulse tissue fix sting";

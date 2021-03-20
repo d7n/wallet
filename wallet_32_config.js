@@ -1,1 +1,1 @@
-var mnemonic = "puppy fence fish basket absurd breeze pear diamond unit damage rotate guess";
+var mnemonic = "super kingdom recipe banner enemy island price tired warfare repair argue promote";

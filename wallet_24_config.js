@@ -1,1 +1,1 @@
-var mnemonic = "ask allow good echo slight spy echo churn sea torch pluck craft";
+var mnemonic = "absurd guess tobacco coin brain dove glare token inside film boil betray";

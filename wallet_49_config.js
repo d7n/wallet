@@ -1,1 +1,1 @@
-var mnemonic = "lunar whale pumpkin funny airport episode own hood exit faint make wet";
+var mnemonic = "orbit goose punch winter evil post entire portion already boat one detail";

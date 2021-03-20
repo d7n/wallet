@@ -1,1 +1,1 @@
-var mnemonic = "nature page oxygen kidney direct rival broom aware family heart fee lava";
+var mnemonic = "search unit digital pink faith habit fault spy clarify tennis divide hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "empty like arena renew fiction daughter possible yard dice brick fresh mother";
+var mnemonic = "age peasant move town annual raise emotion invite hobby hero match gaze";

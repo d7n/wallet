@@ -1,1 +1,1 @@
-var mnemonic = "artefact ginger school quick void supply debate help all local bag cherry";
+var mnemonic = "begin album carbon target security impulse thumb picture danger patch clog obscure";

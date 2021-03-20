@@ -1,1 +1,1 @@
-var mnemonic = "tuition cause melody walnut trade frown blood rubber powder joke tail learn";
+var mnemonic = "subject jeans offer exact spoon van tilt fit orbit weird mask page";

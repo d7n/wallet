@@ -1,1 +1,1 @@
-var mnemonic = "mobile beef argue snow upper embody history suggest special logic prevent bullet";
+var mnemonic = "summer believe memory crater clutch dismiss still river endorse parent stay blanket";

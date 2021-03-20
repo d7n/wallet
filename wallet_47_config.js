@@ -1,1 +1,1 @@
-var mnemonic = "suffer cave exile real toy photo refuse arch wide imitate build pizza";
+var mnemonic = "banana between deny logic elephant lucky use perfect remain tone cargo biology";

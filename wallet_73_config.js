@@ -1,1 +1,1 @@
-var mnemonic = "penalty amateur stomach fine bargain erupt helmet fabric debris identify van summer";
+var mnemonic = "artist repair afford inch toy average inhale debate way peanut label december";

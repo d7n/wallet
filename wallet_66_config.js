@@ -1,1 +1,1 @@
-var mnemonic = "jelly slim cable depart casual soul topic romance lyrics banner lawn fever";
+var mnemonic = "arrest disagree pulp female remove render wall treat section tribe game hollow";

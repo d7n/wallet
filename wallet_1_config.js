@@ -1,1 +1,1 @@
-var mnemonic = "drum bronze gentle keep model symptom trial machine wrap age depend tonight";
+var mnemonic = "squirrel dream diesel valve nose oak essay margin food license tone balance";

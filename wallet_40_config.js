@@ -1,1 +1,1 @@
-var mnemonic = "news letter size liquid crystal patch wasp reduce any pet table task";
+var mnemonic = "defense someone simple calm come slender season solid floor today green young";

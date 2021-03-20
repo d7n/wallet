@@ -1,1 +1,1 @@
-var mnemonic = "remind rigid put alarm circle pig river popular trash gorilla any popular";
+var mnemonic = "ankle they anchor peasant clip nerve portion silent uncle misery blood shaft";

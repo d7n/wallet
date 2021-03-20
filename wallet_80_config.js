@@ -1,1 +1,1 @@
-var mnemonic = "shock antenna wolf sample kid valley diamond young weird coin leaf brother";
+var mnemonic = "miracle meadow clarify hint lonely renew salt verb exotic banana lottery culture";

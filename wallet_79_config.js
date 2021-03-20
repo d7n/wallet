@@ -1,1 +1,1 @@
-var mnemonic = "next modify snow effort erase trigger suffer indicate sing mad cycle typical";
+var mnemonic = "play humble abstract puzzle can frost myself deny divert surround embark tribe";

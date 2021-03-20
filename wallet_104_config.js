@@ -1,1 +1,1 @@
-var mnemonic = "ritual joke please avocado actor green employ frog issue autumn above bench";
+var mnemonic = "spot used favorite myth action arch twin album tail this spice usual";

@@ -1,1 +1,1 @@
-var mnemonic = "point hood village gadget shoot tattoo offer vapor alcohol april vivid shell";
+var mnemonic = "win pluck sell mountain lend forget cricket bottom agent glue lobster fee";

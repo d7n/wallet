@@ -1,1 +1,1 @@
-var mnemonic = "crouch quit escape follow bitter affair equip torch bone summer denial wink";
+var mnemonic = "parrot awkward angle disease picnic replace glass tuna force nut powder lawn";

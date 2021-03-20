@@ -1,1 +1,1 @@
-var mnemonic = "vessel dolphin fiction clay cycle mother burden enhance service amount praise box";
+var mnemonic = "draft city uncle village wool opinion cross toy menu poverty own celery";

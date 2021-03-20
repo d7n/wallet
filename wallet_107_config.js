@@ -1,1 +1,1 @@
-var mnemonic = "session armed lawn chronic spin steel obvious trim rent emotion doll identify";
+var mnemonic = "fall door noble identify game leg valve hat link cruel file ready";

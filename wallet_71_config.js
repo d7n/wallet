@@ -1,1 +1,1 @@
-var mnemonic = "inmate change explain twelve quality adjust punch category good sweet material runway";
+var mnemonic = "what next bulb misery naive supreme clarify minimum spoil negative scissors that";

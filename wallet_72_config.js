@@ -1,1 +1,1 @@
-var mnemonic = "bitter awkward adult canvas miracle visa hedgehog spread void suit mutual thumb";
+var mnemonic = "merit guilt olive like process gaze because blood shrug now ivory face";

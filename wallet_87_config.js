@@ -1,1 +1,1 @@
-var mnemonic = "gaze latin blame catalog item lecture letter jelly cloud hamster elder carpet";
+var mnemonic = "extend pink foster stem staff slim screen kitchen forum pitch wise match";

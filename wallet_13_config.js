@@ -1,1 +1,1 @@
-var mnemonic = "solve embark sign wonder wet crunch electric unaware august sword either bitter";
+var mnemonic = "atom boring chicken stock enough man dutch gorilla material minute choose give";

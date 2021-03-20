@@ -1,1 +1,1 @@
-var mnemonic = "find crumble enter rabbit mother tumble return they model rent pelican syrup";
+var mnemonic = "enough ladder joke media tenant memory stool bike fee bullet crowd harvest";

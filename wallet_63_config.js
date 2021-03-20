@@ -1,1 +1,1 @@
-var mnemonic = "maple space obtain car gauge ask adjust deny since orchard develop spoon";
+var mnemonic = "inner honey satoshi actress just element bread curtain confirm dumb chuckle fade";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm wear fire monitor hire hope section milk crisp angry fabric minute";
+var mnemonic = "dolphin exercise popular frequent original polar awful quit derive clean giggle broccoli";

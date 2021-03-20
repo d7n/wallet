@@ -1,1 +1,1 @@
-var mnemonic = "jacket young grace solar voyage buddy burst pretty toy light measure shoot";
+var mnemonic = "term inspire narrow pipe alley clean whip limb physical enlist naive mixture";

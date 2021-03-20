@@ -1,1 +1,1 @@
-var mnemonic = "badge rely chef wreck coyote drip armed afraid cover old mixture range";
+var mnemonic = "meat diet issue target shadow beef spoil soda actual mad torch rug";

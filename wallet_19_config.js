@@ -1,1 +1,1 @@
-var mnemonic = "stumble base crowd monkey steak only sunset inner predict virtual bacon easy";
+var mnemonic = "absent tissue excess attack bean pear vapor sign strategy more olive menu";

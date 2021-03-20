@@ -1,1 +1,1 @@
-var mnemonic = "sad maximum off weapon catch gadget street sausage run maid patch rib";
+var mnemonic = "spread divorce empty century gorilla climb catalog stumble leader mom pause banner";

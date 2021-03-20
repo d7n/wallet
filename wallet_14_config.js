@@ -1,1 +1,1 @@
-var mnemonic = "blade excite soccer route salmon question scatter open artwork neither parrot winner";
+var mnemonic = "live enlist hair solution tunnel powder small amazing profit random service citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "version giant main idea aerobic cloth iron april inflict purchase rubber jazz";
+var mnemonic = "smoke appear few inhale when update disorder whisper pencil bullet bunker spend";

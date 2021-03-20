@@ -1,1 +1,1 @@
-var mnemonic = "bomb angry door loan window worth tired account noodle ensure nasty future";
+var mnemonic = "know much stumble box pass alert violin outside fury helmet noise process";

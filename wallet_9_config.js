@@ -1,1 +1,1 @@
-var mnemonic = "just insect clarify invest tone fence uphold fly capable inspire box afford";
+var mnemonic = "olympic cheese hen rubber foot piece token awesome emerge ladder bundle carry";

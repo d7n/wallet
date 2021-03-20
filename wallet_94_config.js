@@ -1,1 +1,1 @@
-var mnemonic = "rescue detail tribe conduct arrange stable farm swarm bullet tag effort melody";
+var mnemonic = "payment humor permit finger off citizen bitter advice universe post miracle security";

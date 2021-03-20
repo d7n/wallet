@@ -1,1 +1,1 @@
-var mnemonic = "february become blue custom hood rescue fork fat pond feature thumb certain";
+var mnemonic = "chalk hazard robust upset file ordinary decide rule sand cute color asthma";

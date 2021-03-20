@@ -1,1 +1,1 @@
-var mnemonic = "fog gadget surface coffee ready coach trap false wide lesson charge tooth";
+var mnemonic = "endless upper boy north chunk twelve fatal vanish quality enjoy twin polar";

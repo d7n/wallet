@@ -1,1 +1,1 @@
-var mnemonic = "slice paper mercy fiction walk rebel alter pyramid vibrant torch diamond blood";
+var mnemonic = "family arrow rose guess degree dish phone resist property topic arctic nature";

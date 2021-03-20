@@ -1,1 +1,1 @@
-var mnemonic = "aspect manage owner large globe ghost sorry gorilla basket able shoulder analyst";
+var mnemonic = "rude heavy scissors inform lemon benefit unique advice parrot butter ritual chest";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify alone rich sponsor lonely sting proud cereal volume sell leave shuffle";
+var mnemonic = "swallow organ sea sense clay rally flash brain describe illegal antenna width";

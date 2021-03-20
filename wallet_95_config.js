@@ -1,1 +1,1 @@
-var mnemonic = "kick vague help horse vault system urban brush cover rug pretty cradle";
+var mnemonic = "bean story brown stand across accident absorb museum egg viable flight black";

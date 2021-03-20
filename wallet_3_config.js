@@ -1,1 +1,1 @@
-var mnemonic = "science occur wagon card when bulk used slender bargain snake bag eternal";
+var mnemonic = "hospital inmate word sand simple chimney shrug humble glow melt lonely asset";

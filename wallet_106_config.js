@@ -1,1 +1,1 @@
-var mnemonic = "soda receive year infant blossom repeat cost report jazz digital shove throw";
+var mnemonic = "cross illness fog alley divorce alone office congress evolve valley mask praise";

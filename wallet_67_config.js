@@ -1,1 +1,1 @@
-var mnemonic = "olympic release mask spike spray predict truly canoe destroy already argue motor";
+var mnemonic = "potato address gospel worry cliff jelly alcohol smart school produce giant raven";

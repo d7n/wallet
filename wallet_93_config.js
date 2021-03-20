@@ -1,1 +1,1 @@
-var mnemonic = "ostrich drastic pluck today use black lunar section debate couple expect second";
+var mnemonic = "rigid buyer country atom apart finish penalty funny wheat angry admit walnut";

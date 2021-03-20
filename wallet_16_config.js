@@ -1,1 +1,1 @@
-var mnemonic = "flag poverty lift obey toast ask limit ranch slush local act tumble";
+var mnemonic = "lumber royal there culture action human summer diary hold swamp alcohol jealous";

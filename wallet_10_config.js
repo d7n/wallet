@@ -1,1 +1,1 @@
-var mnemonic = "van tilt unique fiber occur duty salon middle honey loyal march design";
+var mnemonic = "vote adult clinic butter when churn phrase endless couch off rude stereo";

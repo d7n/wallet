@@ -1,1 +1,1 @@
-var mnemonic = "open inject crop chat congress goat final lend tonight stock add shine";
+var mnemonic = "mixture void chair during season trend obscure whip enroll reunion mixture afraid";

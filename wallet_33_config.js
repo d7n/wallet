@@ -1,1 +1,1 @@
-var mnemonic = "hill ready turn curious donate hero swarm oxygen swim crystal chalk age";
+var mnemonic = "panda long dune chaos lesson flat blood eager clerk shuffle grain phrase";

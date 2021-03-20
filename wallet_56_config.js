@@ -1,1 +1,1 @@
-var mnemonic = "combine olive abstract cycle blush bargain toe farm rain inmate object source";
+var mnemonic = "couple execute put mind chapter column imitate capable chunk message oval chat";

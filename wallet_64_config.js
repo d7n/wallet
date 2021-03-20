@@ -1,1 +1,1 @@
-var mnemonic = "derive street cannon acquire crawl extend bacon draw limit accident dutch body";
+var mnemonic = "obtain dirt actress path faculty dash faculty vicious long game grape document";

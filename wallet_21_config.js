@@ -1,1 +1,1 @@
-var mnemonic = "concert hello toss item civil rebel glass flight gorilla tilt more panel";
+var mnemonic = "frost stock artist scrub empower ride leisure reveal flavor drift open another";

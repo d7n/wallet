@@ -1,1 +1,1 @@
-var mnemonic = "cancel ski elder bag siege before circle prosper sick tattoo fruit mix";
+var mnemonic = "nose paddle aim usual caution poet ginger favorite future radar remind baby";

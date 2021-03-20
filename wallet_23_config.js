@@ -1,1 +1,1 @@
-var mnemonic = "eight snap company put casual wrist front imitate write find tattoo love";
+var mnemonic = "vicious foil ordinary resource switch beyond achieve exist cabin ocean spin friend";

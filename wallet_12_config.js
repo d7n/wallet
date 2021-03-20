@@ -1,1 +1,1 @@
-var mnemonic = "loyal man ten turkey talk economy scan bid man disagree thunder predict";
+var mnemonic = "earn asset deny brief general business cinnamon inmate tattoo rally exhaust fame";

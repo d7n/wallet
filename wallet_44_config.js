@@ -1,1 +1,1 @@
-var mnemonic = "spy liberty ritual raven melody farm advance much tenant sibling issue wide";
+var mnemonic = "shrug motion dial boss fiction history myself zebra family limit purchase solid";

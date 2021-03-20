@@ -1,1 +1,1 @@
-var mnemonic = "update card tragic layer timber nation ahead immune raw physical alert water";
+var mnemonic = "episode hazard coffee neither melody delay flag garbage topic canal trick hedgehog";

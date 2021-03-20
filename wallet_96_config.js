@@ -1,1 +1,1 @@
-var mnemonic = "attract drum correct shrimp old output attitude view drum wild local toss";
+var mnemonic = "soda twist grant enrich regret tray empty garlic mimic comic still business";

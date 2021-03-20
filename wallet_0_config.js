@@ -1,1 +1,1 @@
-var mnemonic = "must immense split mistake shiver sick fit blame inhale tape notable stereo";
+var mnemonic = "until enough dad scout broom swim correct invest salmon wise cancel crunch";

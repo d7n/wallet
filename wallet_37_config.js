@@ -1,1 +1,1 @@
-var mnemonic = "runway forum pause virus kingdom dilemma arrive fence peace music file episode";
+var mnemonic = "mass rabbit pill churn flat song refuse pulse quote jealous paper ten";

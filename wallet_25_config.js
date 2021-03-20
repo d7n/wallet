@@ -1,1 +1,1 @@
-var mnemonic = "tobacco wage coffee mail noodle laugh speed arrange bus alert claim someone";
+var mnemonic = "member about allow pool draft frown pool coffee surge decide lens version";

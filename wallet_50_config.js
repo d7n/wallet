@@ -1,1 +1,1 @@
-var mnemonic = "paper play napkin laptop cargo parent mail life still stand mass tuna";
+var mnemonic = "garden quarter collect boost dust theory steel term march pink extra frame";

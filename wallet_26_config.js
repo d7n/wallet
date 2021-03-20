@@ -1,1 +1,1 @@
-var mnemonic = "mobile salad used group surround glove siren spider select piano badge idea";
+var mnemonic = "truth various box board grunt practice shock swarm air two shoe attract";

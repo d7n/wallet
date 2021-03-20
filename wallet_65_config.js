@@ -1,1 +1,1 @@
-var mnemonic = "yellow face script planet assist library hero true solve cannon crack panther";
+var mnemonic = "advice until shallow quantum puppy music attract practice unique peanut deny subway";

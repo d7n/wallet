@@ -1,1 +1,1 @@
-var mnemonic = "nice elite regular multiply toss sudden devote unveil resist inject digital canoe";
+var mnemonic = "usual siege remind brown tired rapid hungry fly slush donate toss cube";

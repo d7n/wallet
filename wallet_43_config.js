@@ -1,1 +1,1 @@
-var mnemonic = "body bachelor number addict call absurd digital plunge power paddle barely token";
+var mnemonic = "nut betray success negative little message audit observe monster culture degree nose";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist divide kid original hazard benefit mechanic enough purpose common wagon limb";
+var mnemonic = "easily symbol hollow session ozone snack monitor box unlock easily knife calm";

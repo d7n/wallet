@@ -1,1 +1,1 @@
-var mnemonic = "trumpet buyer dinosaur flip manage drill pull age yard one lonely call";
+var mnemonic = "panther negative knock require strong jealous ranch property lava carpet pistol appear";

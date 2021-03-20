@@ -1,1 +1,1 @@
-var mnemonic = "jaguar civil camp useless cushion outer joy cruel proud yellow tell either";
+var mnemonic = "glare top know inspire town prepare life record oblige magic coffee armed";

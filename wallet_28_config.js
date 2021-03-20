@@ -1,1 +1,1 @@
-var mnemonic = "arch butter describe avocado faculty camera toast leopard casino ocean promote region";
+var mnemonic = "renew reject smoke swallow damage bread master remove derive cash glad grant";

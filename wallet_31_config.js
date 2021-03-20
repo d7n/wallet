@@ -1,1 +1,1 @@
-var mnemonic = "three assist child illegal pear any shell negative two squirrel other gesture";
+var mnemonic = "glimpse eyebrow give process dirt cat board topple royal upgrade property viable";

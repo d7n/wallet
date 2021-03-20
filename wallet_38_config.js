@@ -1,1 +1,1 @@
-var mnemonic = "speed imitate minimum scare doll elbow hard school dwarf sadness cushion fresh";
+var mnemonic = "much luxury burden put enter embark whale asthma faint frog lend phrase";

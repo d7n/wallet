@@ -1,1 +1,1 @@
-var mnemonic = "lobster barely furnace season forget frame derive knife aunt tilt mean panic";
+var mnemonic = "false label ship zoo turtle unfold memory elephant you weekend pitch educate";

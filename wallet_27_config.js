@@ -1,1 +1,1 @@
-var mnemonic = "play such shed dose mango tobacco destroy salute embody wife era ahead";
+var mnemonic = "cabbage nice priority absorb remember shoe noise prefer rely session lobster doll";

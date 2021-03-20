@@ -1,1 +1,1 @@
-var mnemonic = "sad festival purpose humble jelly burger culture shoe casino artwork oven own";
+var mnemonic = "drift certain again color tired appear hollow middle surprise struggle gain space";

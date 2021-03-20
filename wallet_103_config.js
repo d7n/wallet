@@ -1,1 +1,1 @@
-var mnemonic = "shine latin distance arch orange pink rack culture weekend evil dinner rookie";
+var mnemonic = "online state office winner foil thought isolate tuition ghost wreck spawn hood";

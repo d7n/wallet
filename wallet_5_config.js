@@ -1,1 +1,1 @@
-var mnemonic = "scorpion hurt van very tone diet canoe humble energy zoo train dragon";
+var mnemonic = "exile absent trouble budget bleak round service clown surround steak today word";

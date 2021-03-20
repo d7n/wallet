@@ -1,1 +1,1 @@
-var mnemonic = "narrow spice rival throw reopen pony remember capital grunt fossil brisk boy";
+var mnemonic = "aerobic library icon behind million paper letter lamp describe ripple rare crater";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware benefit degree tower token open swear crystal pitch wave leaf museum";
+var mnemonic = "correct culture luxury empty creek vague slice square confirm giraffe program chase";

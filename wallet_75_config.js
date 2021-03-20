@@ -1,1 +1,1 @@
-var mnemonic = "axis trash office define tennis bonus fossil chicken know broom prepare release";
+var mnemonic = "female style answer duck patch dress once often film color grab youth";

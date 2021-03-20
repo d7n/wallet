@@ -1,1 +1,1 @@
-var mnemonic = "abstract round never virus budget cute ill silk hover nose hawk math";
+var mnemonic = "helmet thumb skill dish helmet display orange vehicle firm gossip latin guard";

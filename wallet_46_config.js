@@ -1,1 +1,1 @@
-var mnemonic = "palace budget divide injury old symptom rely help album dash craft picnic";
+var mnemonic = "trim moral genuine broken skirt enhance dial village remind early wrap mention";

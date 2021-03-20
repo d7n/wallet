@@ -1,1 +1,1 @@
-var mnemonic = "property room kitchen spoil art barrel tent again winter mean uncle north";
+var mnemonic = "phrase rubber reflect kidney wine author deer inform inhale tired lizard unique";

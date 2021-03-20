@@ -1,1 +1,1 @@
-var mnemonic = "moon you harsh mobile horse walnut cruel right prosper abuse code message";
+var mnemonic = "south nasty swim toward address dizzy carbon luggage glide enrich antenna cash";

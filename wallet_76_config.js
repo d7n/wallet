@@ -1,1 +1,1 @@
-var mnemonic = "worry cattle document man pepper glow raccoon napkin undo hospital undo cloth";
+var mnemonic = "silent art join stereo hybrid grass decline wear trophy story skate half";

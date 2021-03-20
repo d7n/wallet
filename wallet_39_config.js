@@ -1,1 +1,1 @@
-var mnemonic = "pen fabric found pond mind summer park cradle review essence latin enhance";
+var mnemonic = "differ rail power cattle buddy vehicle disease gap taxi rough naive bottom";

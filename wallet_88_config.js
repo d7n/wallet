@@ -1,1 +1,1 @@
-var mnemonic = "dwarf autumn boring clog connect few level guide path quick around cluster";
+var mnemonic = "desert write garden ticket chunk wagon boil twelve diagram match aisle monitor";

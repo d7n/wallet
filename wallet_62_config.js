@@ -1,1 +1,1 @@
-var mnemonic = "shallow beauty banana fortune utility problem scene horse opinion topple flock zoo";
+var mnemonic = "federal tool special recycle melody cereal recall sick fine burger purity boss";

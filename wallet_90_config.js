@@ -1,1 +1,1 @@
-var mnemonic = "below position spoon panda detail kitchen road current raccoon spy south calm";
+var mnemonic = "donkey diary prosper west bachelor system angle weasel pumpkin nominee chest scrap";

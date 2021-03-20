@@ -1,1 +1,1 @@
-var mnemonic = "ozone enforce father submit flock end shed run buffalo banner matter symptom";
+var mnemonic = "guess mountain speak verify coral wave culture peanut vague check wrong place";

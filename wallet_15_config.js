@@ -1,1 +1,1 @@
-var mnemonic = "source tuna bonus december glass jelly address garlic pear six torch girl";
+var mnemonic = "hub female dog round disease bracket topic believe direct minor dance certain";
