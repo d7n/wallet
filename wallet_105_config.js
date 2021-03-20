@@ -1,1 +1,1 @@
-var mnemonic = "prison foster pretty once isolate gossip festival change rain option blur hand";
+var mnemonic = "baby access parade fall news push famous ugly all equip guess come";

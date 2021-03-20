@@ -1,1 +1,1 @@
-var mnemonic = "kid front pistol game alarm rival strike vicious license aim choose universe";
+var mnemonic = "they joy endless circle have garbage early hire dice little disease expect";

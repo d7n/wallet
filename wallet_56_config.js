@@ -1,1 +1,1 @@
-var mnemonic = "jungle sheriff repair enjoy lesson manage spawn venture conduct pipe learn seed";
+var mnemonic = "tiger protect night valley search company select jewel brother spike spawn sail";

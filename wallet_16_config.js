@@ -1,1 +1,1 @@
-var mnemonic = "orphan tone reward penalty kit open couple inherit fan clip enjoy keen";
+var mnemonic = "east confirm assume amount wisdom price upper lizard comic prefer sorry skill";

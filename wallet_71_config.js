@@ -1,1 +1,1 @@
-var mnemonic = "super slender sight gift brown private present weasel tobacco library income elegant";
+var mnemonic = "indicate purity festival square increase thought rival crack position genius ancient bronze";

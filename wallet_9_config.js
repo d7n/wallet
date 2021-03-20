@@ -1,1 +1,1 @@
-var mnemonic = "satisfy virus pulp network ripple shoulder property orphan float crisp seed place";
+var mnemonic = "deer bright ladder infant receive length agent top fine enroll sheriff stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "correct unusual under hockey portion adult foster own south alpha leader warm";
+var mnemonic = "nominee elevator lecture ecology bid sort output royal dignity aim wine leaf";

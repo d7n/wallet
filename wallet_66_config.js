@@ -1,1 +1,1 @@
-var mnemonic = "assault climb tell city senior drama help street muffin derive recycle brief";
+var mnemonic = "mistake other cluster material iron garden crazy exclude slender dash message tattoo";

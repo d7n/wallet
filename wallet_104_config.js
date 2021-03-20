@@ -1,1 +1,1 @@
-var mnemonic = "shine climb index subject forward cheap forward leaf dance tribe budget upset";
+var mnemonic = "hotel smooth soul cycle evil uniform buffalo hero border north again fade";

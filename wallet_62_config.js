@@ -1,1 +1,1 @@
-var mnemonic = "visit become relief magnet cricket harsh daring argue solution hidden deer know";
+var mnemonic = "zone shiver dose regret fabric review nation loop suit grid fence speed";

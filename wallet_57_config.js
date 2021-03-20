@@ -1,1 +1,1 @@
-var mnemonic = "disease interest promote parade danger direct fragile achieve ladder speed canal initial";
+var mnemonic = "client dismiss until fame bind rely issue blind topic magnet seed cook";

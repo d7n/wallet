@@ -1,1 +1,1 @@
-var mnemonic = "critic innocent source bargain lab report witness boost comfort patch fan immense";
+var mnemonic = "situate winner head surface slab asthma slender quit judge unfold risk gap";

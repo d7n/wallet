@@ -1,1 +1,1 @@
-var mnemonic = "dirt snake job holiday subject more today blade young reduce flash awkward";
+var mnemonic = "ethics express disagree mimic around around will keen guitar sauce ready sense";

@@ -1,1 +1,1 @@
-var mnemonic = "drive season table festival scorpion dynamic park unusual equip proud demise tongue";
+var mnemonic = "crucial puppy expand toilet sail model develop twelve erosion cherry narrow impulse";

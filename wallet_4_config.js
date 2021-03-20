@@ -1,1 +1,1 @@
-var mnemonic = "rival region captain paddle butter biology segment nominee brief virtual hen power";
+var mnemonic = "dawn theory equal property december course still apart spirit program twenty hover";

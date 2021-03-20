@@ -1,1 +1,1 @@
-var mnemonic = "rude absent drink sign media guard carbon health such motion napkin search";
+var mnemonic = "smoke before essence category imitate merit merge large cushion solar beach icon";

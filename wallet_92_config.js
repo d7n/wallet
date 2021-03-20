@@ -1,1 +1,1 @@
-var mnemonic = "token museum popular later craft dirt bus neck raccoon increase bulk museum";
+var mnemonic = "draw runway enjoy neutral where fossil share exhibit actress inside couple lab";

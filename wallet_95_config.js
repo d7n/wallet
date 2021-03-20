@@ -1,1 +1,1 @@
-var mnemonic = "verify session tonight access hidden lunar glance hood budget forget voyage fringe";
+var mnemonic = "quit shadow pretty very toss bright bamboo liquid stamp aisle blast identify";

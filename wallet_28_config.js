@@ -1,1 +1,1 @@
-var mnemonic = "tiny soul shaft enemy effort gap success robot pledge old mistake awake";
+var mnemonic = "advice narrow love twin crawl broken decade sister slab boat toward involve";

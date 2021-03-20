@@ -1,1 +1,1 @@
-var mnemonic = "corn wise collect perfect pole hip wide bright weather soap camp fork";
+var mnemonic = "crater drive belt soul wild insect theme moment fossil trash match captain";

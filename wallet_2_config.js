@@ -1,1 +1,1 @@
-var mnemonic = "bounce obvious female valve expand donate praise question young valid cushion suspect";
+var mnemonic = "affair arm around civil frequent march palm season shift woman metal engine";

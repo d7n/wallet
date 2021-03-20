@@ -1,1 +1,1 @@
-var mnemonic = "series rate shed need desk seven assault depth champion casual ugly broken";
+var mnemonic = "picture donkey earth course escape student puppy metal uphold crawl balcony spawn";

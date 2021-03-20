@@ -1,1 +1,1 @@
-var mnemonic = "memory fee wrong hungry mango noble quantum bronze hobby claim idle cat";
+var mnemonic = "night pumpkin defy pumpkin debris steak wasp recipe inspire virtual journey symptom";

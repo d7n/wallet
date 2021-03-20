@@ -1,1 +1,1 @@
-var mnemonic = "income reopen unfair message secret stairs ocean unusual walnut expose assume laptop";
+var mnemonic = "raccoon twist panda frown juice pledge onion remind harsh virus fabric drop";

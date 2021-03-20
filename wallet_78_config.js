@@ -1,1 +1,1 @@
-var mnemonic = "rule between field fury subject suspect garden swim gesture army chaos demand";
+var mnemonic = "pupil edit quit license panel penalty enjoy torch cool clutch true flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot wish oak album favorite gauge firm blush truck surround cluster quiz";
+var mnemonic = "visa state canal short certain fever cousin laugh ripple muffin web between";

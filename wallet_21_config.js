@@ -1,1 +1,1 @@
-var mnemonic = "flush garment lawn kite evoke myth blur buffalo recipe one worth cash";
+var mnemonic = "purpose today source canal fire fence odor item slide seed sure need";

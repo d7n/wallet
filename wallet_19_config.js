@@ -1,1 +1,1 @@
-var mnemonic = "crisp saddle wife foil menu album floor alley garlic rich guard hurry";
+var mnemonic = "vehicle liberty sample soon tumble picture border scout wrap machine fish mechanic";

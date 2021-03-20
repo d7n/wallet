@@ -1,1 +1,1 @@
-var mnemonic = "sponsor orphan man recycle glance glove swarm aware afford invite slush lamp";
+var mnemonic = "total sustain fashion guess spray real cube before raccoon inner adult donkey";

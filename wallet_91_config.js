@@ -1,1 +1,1 @@
-var mnemonic = "doll shine era ordinary team prize front number manual crash iron beauty";
+var mnemonic = "swallow caught decade this sound kingdom old offer bike ensure stairs pulse";

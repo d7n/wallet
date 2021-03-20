@@ -1,1 +1,1 @@
-var mnemonic = "toward country render old east tray slam reduce warrior busy poem eager";
+var mnemonic = "offer sight enrich hover share mail viable joke wheel grape knee fan";

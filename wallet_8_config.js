@@ -1,1 +1,1 @@
-var mnemonic = "debris hood conduct illegal bus pass primary weather hole rough suit kangaroo";
+var mnemonic = "claim arrive section evoke defy crumble pause ten goat bunker uncover sentence";

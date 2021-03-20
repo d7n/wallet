@@ -1,1 +1,1 @@
-var mnemonic = "pole agree evil fuel pluck account boss evil win impose pudding cat";
+var mnemonic = "image birth obey region quality puzzle dumb merit journey door this belt";

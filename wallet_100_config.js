@@ -1,1 +1,1 @@
-var mnemonic = "mesh daring patient pull man rude clutch bar essay cause program duck";
+var mnemonic = "border entry cycle east puzzle cross satisfy valve subject supreme pulse double";

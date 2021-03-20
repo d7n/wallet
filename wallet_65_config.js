@@ -1,1 +1,1 @@
-var mnemonic = "card air fatal chaos left cotton private eagle three fiction cannon grain";
+var mnemonic = "caught salute faculty daring visa cruel smoke huge alley organ capable drum";

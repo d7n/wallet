@@ -1,1 +1,1 @@
-var mnemonic = "slab diet donor warm flip defense cream maple female silver february panther";
+var mnemonic = "asthma pond regret explain ostrich armed canoe ring armed impact renew admit";

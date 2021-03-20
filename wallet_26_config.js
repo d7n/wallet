@@ -1,1 +1,1 @@
-var mnemonic = "borrow feature venue front body trial umbrella market disorder bring art treat";
+var mnemonic = "victory parent town skull six kit nation warrior maze hard vault review";

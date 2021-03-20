@@ -1,1 +1,1 @@
-var mnemonic = "large inmate cloud carry animal garlic smart today add danger art party";
+var mnemonic = "wheel sauce siege vocal bunker apart struggle grow hover around decade trouble";

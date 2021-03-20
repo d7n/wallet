@@ -1,1 +1,1 @@
-var mnemonic = "safe fold any tool fat pause frequent magnet clump bulk erase bicycle";
+var mnemonic = "share result stool slogan misery gravity orchard expire office purity snake turn";

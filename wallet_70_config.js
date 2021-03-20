@@ -1,1 +1,1 @@
-var mnemonic = "boost rocket leisure ridge ordinary ankle master warrior educate spoil life fancy";
+var mnemonic = "awake strike choose jar crush today device dose insect bid melt camera";

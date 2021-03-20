@@ -1,1 +1,1 @@
-var mnemonic = "use problem leaf chalk forward hidden flight depth wonder loyal stool diesel";
+var mnemonic = "borrow when lock urban pink luggage truth near peasant man kitten cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "eight brisk client figure scare matter maze jeans axis stem valid during";
+var mnemonic = "garment broken amateur recall notable gallery category media metal sleep throw gain";

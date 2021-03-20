@@ -1,1 +1,1 @@
-var mnemonic = "goddess voyage hill feed damp hello have life mule shy engine festival";
+var mnemonic = "skirt dove soda cradle stadium harbor word head kid grid hedgehog tell";

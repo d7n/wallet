@@ -1,1 +1,1 @@
-var mnemonic = "soap camp truth habit physical card frog belt inspire wall mutual cement";
+var mnemonic = "few improve jelly text elder balance depart harsh galaxy join dignity warfare";

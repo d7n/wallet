@@ -1,1 +1,1 @@
-var mnemonic = "toward ramp delay hollow three limit ensure fiber large panther quarter absent";
+var mnemonic = "gas adjust adult travel connect tired busy decorate upset volcano once one";

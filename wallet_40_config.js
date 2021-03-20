@@ -1,1 +1,1 @@
-var mnemonic = "stay wage fiscal confirm square trigger gauge panic tape perfect skirt urge";
+var mnemonic = "staff topple learn happy deputy chapter broccoli view coil toy vault hawk";

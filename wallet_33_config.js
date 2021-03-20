@@ -1,1 +1,1 @@
-var mnemonic = "plate work abstract depend sentence mystery okay range pistol wide shed tray";
+var mnemonic = "hockey tree clever coffee fiction stomach upper silent story federal pudding powder";

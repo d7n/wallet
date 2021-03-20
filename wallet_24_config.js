@@ -1,1 +1,1 @@
-var mnemonic = "subway robust veteran dilemma slim arm team recall goose rally drive cry";
+var mnemonic = "cushion jazz kiss great carpet grab flight shoot ready inner group limit";

@@ -1,1 +1,1 @@
-var mnemonic = "angry will inmate enforce retire conduct cross usage license valley perfect egg";
+var mnemonic = "vanish screen define senior trick inch car hello estate worth divert false";

@@ -1,1 +1,1 @@
-var mnemonic = "depth hair mother adjust dynamic guide pair rug bean later room dinner";
+var mnemonic = "ready under service wheel piano forward tilt cliff planet proof spray win";

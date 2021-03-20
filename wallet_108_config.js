@@ -1,1 +1,1 @@
-var mnemonic = "more type onion movie news isolate come lady trouble green wasp degree";
+var mnemonic = "remain must era gasp account pigeon south eyebrow manual acoustic awkward spirit";

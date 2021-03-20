@@ -1,1 +1,1 @@
-var mnemonic = "prize fever right pond zebra badge together clarify pottery fever link behave";
+var mnemonic = "excess trouble chair hip jazz sweet display village road paper wood gold";

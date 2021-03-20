@@ -1,1 +1,1 @@
-var mnemonic = "color ethics animal slam immense they jazz ability stereo brass broom sheriff";
+var mnemonic = "current cushion talent theory address civil beach embark steak sauce disease cactus";

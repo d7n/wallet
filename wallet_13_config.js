@@ -1,1 +1,1 @@
-var mnemonic = "fetch link medal avoid coast special require slush mixed flame secret file";
+var mnemonic = "tide alien casino obtain festival recycle various method original purity sphere skill";

@@ -1,1 +1,1 @@
-var mnemonic = "arena arm dog return mimic rare crumble decade illegal unique length neutral";
+var mnemonic = "consider try tribe supreme catalog edge weird actress goddess hobby kind rose";

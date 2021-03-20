@@ -1,1 +1,1 @@
-var mnemonic = "hospital borrow key execute analyst myself enlist castle acid midnight entire struggle";
+var mnemonic = "trial glad design mansion drive zoo always category rescue member supply paper";

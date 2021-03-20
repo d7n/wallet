@@ -1,1 +1,1 @@
-var mnemonic = "face jungle coast ripple tiny afraid misery leg car sign length torch";
+var mnemonic = "retreat monkey mango fall neutral gold goose frequent enforce insane random olive";

@@ -1,1 +1,1 @@
-var mnemonic = "snack salute tag salmon recycle orange news abandon boat win wear move";
+var mnemonic = "ritual seat ghost false job woman festival pumpkin floor glance autumn close";

@@ -1,1 +1,1 @@
-var mnemonic = "always noise wasp twin hold lock remove guide tomato attack trip nephew";
+var mnemonic = "develop awesome budget family burger vehicle fiction dynamic essence gloom castle wolf";

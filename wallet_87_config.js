@@ -1,1 +1,1 @@
-var mnemonic = "brass tuition hybrid gate book item unfold spray exact profit warm exercise";
+var mnemonic = "injury crush same diesel rule bicycle blanket remind trouble face debate nurse";

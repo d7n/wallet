@@ -1,1 +1,1 @@
-var mnemonic = "strike material feature laugh shaft task chuckle place wing satisfy confirm away";
+var mnemonic = "puppy kind garlic try wheel armed basket blade brave action anger pact";

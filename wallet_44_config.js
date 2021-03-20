@@ -1,1 +1,1 @@
-var mnemonic = "trip congress bullet achieve crane narrow before fluid old impose bulk deal";
+var mnemonic = "coast move embody risk goddess north anxiety noodle crush debate page glass";

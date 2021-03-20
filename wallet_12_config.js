@@ -1,1 +1,1 @@
-var mnemonic = "latin roast profit orphan three purpose fluid ill crush custom muscle half";
+var mnemonic = "outside head toe manage control riot gun planet degree good eternal draft";

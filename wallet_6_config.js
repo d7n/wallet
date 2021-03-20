@@ -1,1 +1,1 @@
-var mnemonic = "only skirt alpha duck craft spoil pink snap clean expire amount decide";
+var mnemonic = "what neither sight destroy hard coin discover flower vote behave random major";

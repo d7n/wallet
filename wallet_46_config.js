@@ -1,1 +1,1 @@
-var mnemonic = "festival affair casual motion feed yellow build idle stove oval pole upgrade";
+var mnemonic = "ripple pony now cream top wink seven clean damage monitor upper price";

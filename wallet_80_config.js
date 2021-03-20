@@ -1,1 +1,1 @@
-var mnemonic = "pass radio cycle estate moon glad decide forget state enroll repair vocal";
+var mnemonic = "twin balcony anchor recipe risk sense pool symptom express blame design domain";

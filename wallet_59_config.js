@@ -1,1 +1,1 @@
-var mnemonic = "sadness venue once now park shock stone tragic report harsh into gym";
+var mnemonic = "ladder model twenty cat install click aim pill clerk table uphold prosper";

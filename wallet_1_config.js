@@ -1,1 +1,1 @@
-var mnemonic = "ritual piano volume isolate bid media rather tooth decide essence glow soft";
+var mnemonic = "monkey apart defense debate tourist follow face ginger aerobic trade rail flock";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder mule true release amount cable trial love sand solar economy voice";
+var mnemonic = "network gun figure heart that refuse business novel globe palm brass trash";

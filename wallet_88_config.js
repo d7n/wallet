@@ -1,1 +1,1 @@
-var mnemonic = "power usual hero hand dignity electric return review shuffle certain profit drive";
+var mnemonic = "adjust cover stock human resource shrug outside mixed cream end summer number";

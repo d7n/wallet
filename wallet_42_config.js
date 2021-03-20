@@ -1,1 +1,1 @@
-var mnemonic = "alone used suffer carry divorce obtain vintage caution print topic stool universe";
+var mnemonic = "mercy three stool donate same butter end clap shy unique hundred burst";

@@ -1,1 +1,1 @@
-var mnemonic = "bag network giraffe wild certain rib wolf summer miss response pilot venue";
+var mnemonic = "else toast copper pull bike opinion frozen mandate minute venue relief pudding";

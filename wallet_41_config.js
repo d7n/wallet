@@ -1,1 +1,1 @@
-var mnemonic = "sadness pool already also squeeze congress cradle sell arrow material choice basket";
+var mnemonic = "lend toss tooth electric flash toilet girl inject august scare range manual";

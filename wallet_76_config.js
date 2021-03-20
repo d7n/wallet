@@ -1,1 +1,1 @@
-var mnemonic = "dial express brand zoo carbon nuclear nothing open odor glory lizard hire";
+var mnemonic = "edit human good shoot position metal orient sunset suffer trick myth acid";

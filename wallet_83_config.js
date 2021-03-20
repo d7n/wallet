@@ -1,1 +1,1 @@
-var mnemonic = "step coach food stomach spare bonus verb frame bronze basic coyote custom";
+var mnemonic = "situate strategy subject rude boil insect oxygen inside spread element cluster behave";

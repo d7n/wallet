@@ -1,1 +1,1 @@
-var mnemonic = "sting sugar kid crack eight artist trim chat assist head discover lion";
+var mnemonic = "hawk program jar hold august body under ripple corn smooth purity rug";

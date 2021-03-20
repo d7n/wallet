@@ -1,1 +1,1 @@
-var mnemonic = "range enforce admit uniform artefact loud caution cement average affair man dish";
+var mnemonic = "toss domain topple describe hybrid lonely digital cash breeze method conduct glow";

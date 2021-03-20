@@ -1,1 +1,1 @@
-var mnemonic = "begin flock shaft joy clip vehicle bronze ramp front satisfy property push";
+var mnemonic = "drastic fragile keen fault like finger mass miss wait balcony guard random";

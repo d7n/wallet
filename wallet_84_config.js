@@ -1,1 +1,1 @@
-var mnemonic = "acquire seminar maid analyst flag almost impose solve recall prevent special essence";
+var mnemonic = "lens lyrics foil output collect palm mixture snack uncle gold glimpse surface";

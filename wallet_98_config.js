@@ -1,1 +1,1 @@
-var mnemonic = "mansion ring text lesson rent october wisdom audit orange glide silk federal";
+var mnemonic = "castle champion truly furnace brother topple struggle original short risk chair tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "grief key horn upper cabbage shell diamond any treat during humor blind";
+var mnemonic = "recycle fiction cactus avoid future gallery jazz panther vicious vapor breeze empty";

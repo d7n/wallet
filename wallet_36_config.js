@@ -1,1 +1,1 @@
-var mnemonic = "farm learn cargo thunder shrimp symptom govern bulk van unfair satisfy dial";
+var mnemonic = "exhaust also resist wasp arrive stem quit always essay dinner wall shift";

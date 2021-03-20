@@ -1,1 +1,1 @@
-var mnemonic = "uphold stage rather ladder correct soup fashion grab mystery kite find coral";
+var mnemonic = "leopard inform slide trick custom inch city purchase region engine stable forget";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety thumb gentle adjust enable must crack sleep bounce diesel water leopard";
+var mnemonic = "crisp state retire save false muscle any trust balcony law food seat";

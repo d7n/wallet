@@ -1,1 +1,1 @@
-var mnemonic = "joy name time hidden butter gravity punch edge father rack robust also";
+var mnemonic = "rude when eternal tube bulk measure million october cousin paddle ceiling setup";

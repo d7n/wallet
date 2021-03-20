@@ -1,1 +1,1 @@
-var mnemonic = "galaxy primary follow argue focus mystery switch pulse reopen figure detail network";
+var mnemonic = "much wear other future coconut reform grow more fish couple tumble flash";

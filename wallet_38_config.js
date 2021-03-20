@@ -1,1 +1,1 @@
-var mnemonic = "travel spirit uncover idle stool kit glare steel cloud immense funny blue";
+var mnemonic = "health blade game tilt improve crumble talent kid gadget mandate bench main";

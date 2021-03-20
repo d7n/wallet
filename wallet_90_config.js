@@ -1,1 +1,1 @@
-var mnemonic = "chest collect crisp chase soul shadow artist wonder come enter lucky person";
+var mnemonic = "kingdom cover whisper network moment more draft iron region ranch skate print";

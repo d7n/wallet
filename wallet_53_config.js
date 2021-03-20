@@ -1,1 +1,1 @@
-var mnemonic = "dove strike raw exile hello young shock goose upon south seat gossip";
+var mnemonic = "noodle trim crisp wagon render neck panel coral exchange cancel carry urban";

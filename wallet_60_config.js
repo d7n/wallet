@@ -1,1 +1,1 @@
-var mnemonic = "hurt title magic rain wage okay pink link expect wrestle ability trumpet";
+var mnemonic = "scare forward trip ritual clinic tragic nominee maid seven couple adjust swear";

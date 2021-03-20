@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit right metal village same describe panda crisp divert ceiling island rally";
+var mnemonic = "winner vivid wealth move romance where genre illegal two essence session brisk";

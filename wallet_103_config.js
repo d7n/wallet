@@ -1,1 +1,1 @@
-var mnemonic = "current text tiny excuse celery human drink indicate open toss group enough";
+var mnemonic = "soon village spare way board derive level person museum blood image sponsor";

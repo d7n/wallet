@@ -1,1 +1,1 @@
-var mnemonic = "sausage camera lion ecology winter ecology surge novel spring copy whale noise";
+var mnemonic = "syrup loud fork hidden move history guilt annual talent romance budget inform";

@@ -1,1 +1,1 @@
-var mnemonic = "net purchase motion mercy tell life attend rent auction entry burst anxiety";
+var mnemonic = "predict plastic garage rate victory hybrid biology puzzle street scheme cream party";
