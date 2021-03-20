@@ -1,1 +1,1 @@
-var mnemonic = "use awesome erase ski pledge layer clinic obvious used strong twist recycle";
+var mnemonic = "almost abandon bronze bitter spell picture addict panda vessel picture during onion";

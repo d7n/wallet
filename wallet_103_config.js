@@ -1,1 +1,1 @@
-var mnemonic = "exile flame asthma north cube noble change ghost bundle book protect scorpion";
+var mnemonic = "danger sight oppose stove buzz guilt urge ceiling domain taxi screen solid";

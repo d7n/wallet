@@ -1,1 +1,1 @@
-var mnemonic = "remain burst output occur ritual rely right address estate tag zebra reform";
+var mnemonic = "spray real settle actress gown false network robust audit prize speed replace";

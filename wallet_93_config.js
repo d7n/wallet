@@ -1,1 +1,1 @@
-var mnemonic = "dwarf vintage sniff simple amateur legal sketch birth play certain father garbage";
+var mnemonic = "develop arrest visual silent capital praise juice dish toe discover mixed cereal";

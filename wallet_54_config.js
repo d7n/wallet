@@ -1,1 +1,1 @@
-var mnemonic = "message badge until expect advice eight toss patrol analyst knife bubble describe";
+var mnemonic = "stuff genius level inch album nose print celery cool save inflict lunch";

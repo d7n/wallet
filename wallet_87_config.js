@@ -1,1 +1,1 @@
-var mnemonic = "fault machine left ethics museum sign say piano crucial food oblige sunny";
+var mnemonic = "nominee pull thing note burden romance present prison science promote another breeze";

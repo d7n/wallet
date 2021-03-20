@@ -1,1 +1,1 @@
-var mnemonic = "fluid ivory police super hollow dinosaur lecture resemble bread vocal tool fine";
+var mnemonic = "hotel melt quantum nation wrestle shadow today circle arrow rely truth island";

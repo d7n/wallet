@@ -1,1 +1,1 @@
-var mnemonic = "all delay latin vague student alarm metal east crash enrich wine way";
+var mnemonic = "broom blue eight connect illness same amused govern purchase buzz ketchup wash";

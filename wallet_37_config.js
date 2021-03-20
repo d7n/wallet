@@ -1,1 +1,1 @@
-var mnemonic = "remember afford tiger enact picnic wrist science medal soup caught life advance";
+var mnemonic = "cheap soon ski picture panic ethics thumb citizen close inmate seminar feed";

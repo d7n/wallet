@@ -1,1 +1,1 @@
-var mnemonic = "home prison degree fun vacuum island blanket blood inhale company tuition army";
+var mnemonic = "ribbon wolf sock alpha pause near nurse cousin pitch eagle drink exile";

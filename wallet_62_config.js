@@ -1,1 +1,1 @@
-var mnemonic = "convince jeans parent verify raw tiger bring attitude blossom craft bonus title";
+var mnemonic = "heavy sleep general decorate coconut steak motion tip dumb undo impose knife";

@@ -1,1 +1,1 @@
-var mnemonic = "lift impose other ugly boil awake school forum strike behave strike share";
+var mnemonic = "notice flush cook layer chair connect rail mystery board february fuel clog";

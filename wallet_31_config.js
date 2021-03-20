@@ -1,1 +1,1 @@
-var mnemonic = "door museum easy mutual barely concert cousin glory eternal pipe timber hole";
+var mnemonic = "legend security lizard dismiss obtain industry shuffle vapor fall total couch mouse";

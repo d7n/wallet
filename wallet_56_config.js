@@ -1,1 +1,1 @@
-var mnemonic = "slogan prison worth diary allow blind fruit nuclear ability pen toddler truth";
+var mnemonic = "sniff start you design air purchase shallow fault coil trap grant time";

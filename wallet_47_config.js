@@ -1,1 +1,1 @@
-var mnemonic = "gadget photo blame faint zero blur mouse finish urge lonely merit enact";
+var mnemonic = "material autumn love true roast mandate park return warm trigger opinion slab";

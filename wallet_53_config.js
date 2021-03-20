@@ -1,1 +1,1 @@
-var mnemonic = "control silk swing dinosaur sick system ring boost debate peanut layer matter";
+var mnemonic = "million pottery rate secret limb admit over false slice cream sense tunnel";

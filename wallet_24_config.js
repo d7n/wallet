@@ -1,1 +1,1 @@
-var mnemonic = "broken lucky loan certain police business market become nut year bonus dwarf";
+var mnemonic = "peasant absent napkin slender either grow earn dial runway flee baby arrest";

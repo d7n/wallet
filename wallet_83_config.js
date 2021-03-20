@@ -1,1 +1,1 @@
-var mnemonic = "answer same gloom present business smoke source report solution asthma raven surface";
+var mnemonic = "marine throw little also rice giraffe weasel confirm fit sister express slice";

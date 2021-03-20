@@ -1,1 +1,1 @@
-var mnemonic = "ranch lend circle basic buffalo kit direct detect real width lunch guitar";
+var mnemonic = "layer genuine keen element once salad endless false joy embody motor process";

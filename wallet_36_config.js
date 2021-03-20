@@ -1,1 +1,1 @@
-var mnemonic = "helmet husband brave token stand play autumn deny cup deliver gain adapt";
+var mnemonic = "camp beef profit twenty come drill zero fancy confirm smooth shift fame";

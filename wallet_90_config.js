@@ -1,1 +1,1 @@
-var mnemonic = "level damp echo myth dice duck thing crane sight exist spread submit";
+var mnemonic = "length media carbon involve tube orphan climb derive picnic palace thunder empower";

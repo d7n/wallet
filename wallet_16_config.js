@@ -1,1 +1,1 @@
-var mnemonic = "spirit market snack beach fall truck shine jazz glory beyond equip apart";
+var mnemonic = "anchor ivory cousin plunge cushion dawn right salon airport wreck glow west";

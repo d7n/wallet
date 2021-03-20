@@ -1,1 +1,1 @@
-var mnemonic = "rubber park fury episode tail tribe sign resource primary document demand mistake";
+var mnemonic = "extra slight rib finger note horror south grid proud gloom gallery design";

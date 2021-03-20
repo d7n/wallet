@@ -1,1 +1,1 @@
-var mnemonic = "real danger sort file indoor fatigue cloth fever reopen title ostrich spend";
+var mnemonic = "index govern rack follow wage two awake meat faculty ripple jelly income";

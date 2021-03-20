@@ -1,1 +1,1 @@
-var mnemonic = "wrap cover open ecology solid brother since shrimp tattoo bleak sweet token";
+var mnemonic = "picture muffin jar valve frog rely blossom silk express jar patrol chief";

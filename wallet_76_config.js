@@ -1,1 +1,1 @@
-var mnemonic = "donkey admit company piano spare obey morning coral oxygen idea nerve umbrella";
+var mnemonic = "creek vacuum consider luxury swallow boss route cool rent confirm identify robot";

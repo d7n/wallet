@@ -1,1 +1,1 @@
-var mnemonic = "crop kidney regular observe unit brave love veteran rebel oak green knee";
+var mnemonic = "portion sadness mimic leisure peasant asset entry hurt bleak six drum approve";

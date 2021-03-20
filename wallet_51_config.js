@@ -1,1 +1,1 @@
-var mnemonic = "cabin wide hawk pencil snow rice vault zebra exhaust brain roof job";
+var mnemonic = "lemon merry easy long sting rigid escape issue elegant yard lend involve";

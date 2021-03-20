@@ -1,1 +1,1 @@
-var mnemonic = "ensure begin also fashion shield chef hidden midnight bronze suit treat crane";
+var mnemonic = "chimney extra fee room hurdle any leaf child ticket park cool wool";

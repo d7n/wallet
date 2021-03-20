@@ -1,1 +1,1 @@
-var mnemonic = "long border boring pen heart flee pole kidney flush sudden bean monitor";
+var mnemonic = "dust only fantasy engage depart opinion lunch real feel stumble square neglect";

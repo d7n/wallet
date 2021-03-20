@@ -1,1 +1,1 @@
-var mnemonic = "device dinosaur bread ritual impulse aim fence drastic typical dignity muscle cute";
+var mnemonic = "arena clerk love victory lamp luggage napkin employ fantasy nothing skirt weird";

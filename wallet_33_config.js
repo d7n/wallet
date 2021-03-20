@@ -1,1 +1,1 @@
-var mnemonic = "inquiry hurdle muscle circle portion sad blade body glory grape immense devote";
+var mnemonic = "basket cousin tomorrow creek inherit mixed crater board boil token daughter again";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza clap aunt kitchen fish rare celery movie where student aim click";
+var mnemonic = "deny fox credit mobile easy cook elbow lobster nuclear flock manual minor";

@@ -1,1 +1,1 @@
-var mnemonic = "two jaguar expire hazard sentence key step square desk remind spawn work";
+var mnemonic = "weather uncle fresh grain ski outside degree devote swallow depart afford achieve";

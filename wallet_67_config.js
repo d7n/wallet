@@ -1,1 +1,1 @@
-var mnemonic = "food seven void merry student estate farm nothing twist giggle lamp heavy";
+var mnemonic = "used ranch nuclear people exclude burden essence business save snow roast fresh";

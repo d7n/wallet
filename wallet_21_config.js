@@ -1,1 +1,1 @@
-var mnemonic = "sample rich process benefit kiwi south dose segment walk december maple hold";
+var mnemonic = "dinosaur woman now theory video rifle thought high leaf hint text satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "myself filter scorpion pigeon trouble toward relief video scissors clump trash major";
+var mnemonic = "stairs afford candy dinner material dash slam fiction hen moment salon unique";

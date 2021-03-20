@@ -1,1 +1,1 @@
-var mnemonic = "apart garage ribbon hat company crucial afford bulk good element pink tissue";
+var mnemonic = "birth corn program sight potato laptop grit green what dynamic sunset derive";

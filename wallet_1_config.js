@@ -1,1 +1,1 @@
-var mnemonic = "flee subject sentence hour tide flag liberty shiver frame cherry never match";
+var mnemonic = "acid spread skill ten win polar female calm treat enrich provide fit";

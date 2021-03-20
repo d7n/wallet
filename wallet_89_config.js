@@ -1,1 +1,1 @@
-var mnemonic = "chaos arch subway message animal fruit minor tape green spring crime drift";
+var mnemonic = "drastic focus essence hint marble blouse neutral rifle pilot alpha maze usage";

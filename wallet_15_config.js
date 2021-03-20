@@ -1,1 +1,1 @@
-var mnemonic = "what intact spin priority good kitten misery execute aisle style use country";
+var mnemonic = "save journey purpose boil field olive window phrase music poem bus service";

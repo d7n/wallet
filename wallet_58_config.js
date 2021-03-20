@@ -1,1 +1,1 @@
-var mnemonic = "vessel drift ginger mule thrive carry core coyote false staff above tube";
+var mnemonic = "limit shadow rain output priority cruise permit flight mixed regular rate hurt";

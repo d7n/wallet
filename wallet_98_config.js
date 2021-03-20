@@ -1,1 +1,1 @@
-var mnemonic = "resource adjust grief debate brief museum shrug wrong wheat mountain profit maid";
+var mnemonic = "ketchup match kidney stadium thing capable deposit sense know session home yellow";

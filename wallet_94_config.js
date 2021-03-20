@@ -1,1 +1,1 @@
-var mnemonic = "margin emotion error fiction noble upper tunnel join kidney ivory address tumble";
+var mnemonic = "coyote skin toddler twelve frozen use ahead tag dismiss tilt shuffle orchard";

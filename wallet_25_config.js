@@ -1,1 +1,1 @@
-var mnemonic = "eight jacket blood beyond cannon olympic laugh aim shoulder ring valve crouch";
+var mnemonic = "develop glad address edge heart day alien youth pear deposit seminar okay";

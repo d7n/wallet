@@ -1,1 +1,1 @@
-var mnemonic = "strong prefer parade vacant actress future nature oyster fruit gadget jar close";
+var mnemonic = "tomorrow gold material city sister comfort discover floor mass quit tongue safe";

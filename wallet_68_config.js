@@ -1,1 +1,1 @@
-var mnemonic = "math that dose just gasp phrase clock blind social total unfold legend";
+var mnemonic = "crop else afford endless arch clay upset rocket require act visit strike";

@@ -1,1 +1,1 @@
-var mnemonic = "boss soda alert actress subject jelly require valid scrap upgrade scissors birth";
+var mnemonic = "violin tumble youth east galaxy hurry rather bicycle pair glare neither donkey";

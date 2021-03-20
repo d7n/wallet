@@ -1,1 +1,1 @@
-var mnemonic = "hat fence tenant unit force eyebrow eye black phrase coast penalty all";
+var mnemonic = "deal random satoshi broom trophy danger omit mercy abstract drum bubble nerve";

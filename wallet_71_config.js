@@ -1,1 +1,1 @@
-var mnemonic = "card found item engine absorb north edit leave hope rubber heart false";
+var mnemonic = "apology giggle viable palm identify trust hungry maid angle hobby raven champion";

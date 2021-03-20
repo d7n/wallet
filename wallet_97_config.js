@@ -1,1 +1,1 @@
-var mnemonic = "pilot rocket harsh chuckle gossip remove attack pill gym measure choice frown";
+var mnemonic = "chimney alien cereal resist juice priority east way quiz north process jelly";

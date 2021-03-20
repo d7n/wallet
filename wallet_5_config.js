@@ -1,1 +1,1 @@
-var mnemonic = "potato slow festival jelly buzz broccoli believe range yard glimpse prison mesh";
+var mnemonic = "power company apology size exhaust grass drill hard pigeon broom praise alter";

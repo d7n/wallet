@@ -1,1 +1,1 @@
-var mnemonic = "expire jacket fork solid arctic license height catch blossom where finger talk";
+var mnemonic = "reflect hunt moment adapt glimpse radio almost bubble scout hand merge oil";

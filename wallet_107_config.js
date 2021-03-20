@@ -1,1 +1,1 @@
-var mnemonic = "alert dizzy napkin quantum already armed advice error city lecture chase fatigue";
+var mnemonic = "true lobster uniform home want outdoor camp borrow daughter girl apology source";

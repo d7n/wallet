@@ -1,1 +1,1 @@
-var mnemonic = "angle spend kick pigeon real hint rude grow truth enrich cabbage decade";
+var mnemonic = "when spoil satisfy legal day find april option cruel bridge artist chief";

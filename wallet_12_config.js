@@ -1,1 +1,1 @@
-var mnemonic = "sheriff fluid believe goose dutch brick suffer rail century cram enlist couch";
+var mnemonic = "element toe pill repair veteran current also doctor accuse during gown car";

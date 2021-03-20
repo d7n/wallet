@@ -1,1 +1,1 @@
-var mnemonic = "drive amount owner moment usage flush team rotate bottom area mansion company";
+var mnemonic = "north key girl frozen when deal own govern borrow law salute disorder";

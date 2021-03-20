@@ -1,1 +1,1 @@
-var mnemonic = "chat indoor search trim invest canyon solution shallow tide wild scissors slot";
+var mnemonic = "negative bubble welcome element utility congress pride edge pumpkin spatial spatial strategy";

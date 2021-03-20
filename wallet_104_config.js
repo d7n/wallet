@@ -1,1 +1,1 @@
-var mnemonic = "still never panda black board oyster tortoise copy agent uncle usual appear";
+var mnemonic = "calm tired pony rent memory eight bread invest fix follow aspect tube";

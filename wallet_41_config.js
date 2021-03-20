@@ -1,1 +1,1 @@
-var mnemonic = "outer purpose awkward moon crumble system security enable bottom olympic tell prevent";
+var mnemonic = "use woman boy laugh art gloom search any tissue neck arrange sunny";

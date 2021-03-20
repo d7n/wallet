@@ -1,1 +1,1 @@
-var mnemonic = "cheese quantum first crisp damage poem vapor image mercy lonely zoo embody";
+var mnemonic = "type grab bus grocery forward unlock smooth crash galaxy matter tide hedgehog";

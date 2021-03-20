@@ -1,1 +1,1 @@
-var mnemonic = "coast seminar pill timber lucky tobacco text blouse wheel glad monitor depart";
+var mnemonic = "kitten chuckle hollow life oak type job marine still toe pear layer";

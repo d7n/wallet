@@ -1,1 +1,1 @@
-var mnemonic = "elder cargo skill disease steel december blue rebel surround globe strong false";
+var mnemonic = "royal prepare finger leisure divorce popular cricket success advice blossom kiss number";

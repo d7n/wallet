@@ -1,1 +1,1 @@
-var mnemonic = "law road large farm bacon lawn start parent absent remind range dress";
+var mnemonic = "session apart sand emerge news culture culture mirror own material parrot jazz";

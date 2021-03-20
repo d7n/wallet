@@ -1,1 +1,1 @@
-var mnemonic = "dinner search sail gown person skill wife mammal frequent umbrella crater glimpse";
+var mnemonic = "agree horror magnet invite spread ugly betray aim small frame try advance";

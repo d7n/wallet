@@ -1,1 +1,1 @@
-var mnemonic = "rhythm outer slot rough excite regular follow helmet window lunch opera snack";
+var mnemonic = "point lyrics palace nominee tip affair guess strategy term avocado husband east";

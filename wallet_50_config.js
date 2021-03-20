@@ -1,1 +1,1 @@
-var mnemonic = "tray squirrel report sea merry real pigeon hockey catch wine spike connect";
+var mnemonic = "grief group message shift subject above extend member achieve idle rocket label";

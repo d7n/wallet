@@ -1,1 +1,1 @@
-var mnemonic = "soldier worth life glimpse pipe uncle box manual accident ten spatial million";
+var mnemonic = "parade orphan model trim shaft fade net street focus ethics loud mad";

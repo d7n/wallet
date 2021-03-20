@@ -1,1 +1,1 @@
-var mnemonic = "arm used stuff brick elder flame pipe kangaroo pencil occur retreat myth";
+var mnemonic = "stay canyon park feel tag cupboard lyrics cover mother weekend laundry spoil";

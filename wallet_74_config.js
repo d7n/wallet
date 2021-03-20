@@ -1,1 +1,1 @@
-var mnemonic = "enjoy way light marble festival prevent evil mom room left surface because";
+var mnemonic = "claw deny pool fiscal again feed domain among spend menu cement potato";

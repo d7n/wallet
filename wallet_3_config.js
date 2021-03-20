@@ -1,1 +1,1 @@
-var mnemonic = "math method update paper mirror simple insect grain camera lounge boost domain";
+var mnemonic = "orient tissue paper orphan aerobic unaware chef short muscle orbit comic toward";

@@ -1,1 +1,1 @@
-var mnemonic = "area salmon angle shadow wish spray brief congress upset salt outdoor cage";
+var mnemonic = "bid dose weasel wall climb despair client spend air soup define hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "grow token rotate message pizza trash pull magic daring promote result transfer";
+var mnemonic = "muscle birth episode battle velvet job review extra merit coast post fantasy";

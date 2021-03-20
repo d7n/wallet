@@ -1,1 +1,1 @@
-var mnemonic = "joy immune exercise artist soup mix sun dog dirt text online ladder";
+var mnemonic = "sand smile pony deliver mom one exile flash swarm bus remind suit";

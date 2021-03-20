@@ -1,1 +1,1 @@
-var mnemonic = "canvas deposit extra donkey detect shoot myth lab young border lend public";
+var mnemonic = "turkey bubble grant artefact peace build donor unit dust toss accuse lamp";

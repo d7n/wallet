@@ -1,1 +1,1 @@
-var mnemonic = "loop middle shed position social predict depend able group world doctor damp";
+var mnemonic = "monster cancel end hybrid salt lazy quiz auction cross can purchase negative";

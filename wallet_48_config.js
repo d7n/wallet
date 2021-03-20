@@ -1,1 +1,1 @@
-var mnemonic = "depend burger stuff young alien vessel chat alien genuine example motion fun";
+var mnemonic = "bundle actress safe double level enemy stone vehicle toy make poet wrong";

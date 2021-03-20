@@ -1,1 +1,1 @@
-var mnemonic = "enter cloud pumpkin little disagree minimum museum vivid payment total know bright";
+var mnemonic = "cluster enforce local tree sign hard wonder cat circle sad error defy";

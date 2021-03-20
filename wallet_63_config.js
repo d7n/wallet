@@ -1,1 +1,1 @@
-var mnemonic = "magic silk play punch pause picnic sock edit visual race edge try";
+var mnemonic = "blossom just glue step drama helmet swarm coin silly wheat angry hamster";

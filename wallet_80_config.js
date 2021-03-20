@@ -1,1 +1,1 @@
-var mnemonic = "paddle region ride census train resource husband until improve talent nasty cute";
+var mnemonic = "quality very truck idea issue spoil danger such alien lava answer day";

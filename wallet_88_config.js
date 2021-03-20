@@ -1,1 +1,1 @@
-var mnemonic = "predict pencil vivid north cattle all must wage conduct prefer doll front";
+var mnemonic = "response element artwork exact vintage abandon west talent act soup canvas follow";

@@ -1,1 +1,1 @@
-var mnemonic = "purity surface dizzy humble satoshi farm rich culture speak review dish doll";
+var mnemonic = "honey deal dutch vicious subject wealth fiber goat toe fruit unlock corn";

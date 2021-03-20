@@ -1,1 +1,1 @@
-var mnemonic = "angry feed input spot girl unlock derive eager shy pipe awesome buyer";
+var mnemonic = "kick vital river april demise kiwi inmate artist piano few weird pumpkin";

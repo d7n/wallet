@@ -1,1 +1,1 @@
-var mnemonic = "shift voyage thought hazard oven path insect sun garlic spread grow squeeze";
+var mnemonic = "warrior empty work hybrid slam winter filter slide execute mother autumn summer";

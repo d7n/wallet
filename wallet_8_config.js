@@ -1,1 +1,1 @@
-var mnemonic = "mutual clip south bulk kitten deliver wolf friend solution swift puzzle milk";
+var mnemonic = "buffalo marble hollow fog jump sausage online kit bag pretty fan battle";

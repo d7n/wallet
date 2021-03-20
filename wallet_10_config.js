@@ -1,1 +1,1 @@
-var mnemonic = "bread drift artwork cannon story pitch hat exact display struggle someone now";
+var mnemonic = "phone nut surface engage sad push margin photo coil either alpha floor";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze tilt vote pond nose salute just bulb damp quantum daring just";
+var mnemonic = "pluck electric festival trip ribbon man release gossip envelope opera obtain work";

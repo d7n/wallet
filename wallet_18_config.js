@@ -1,1 +1,1 @@
-var mnemonic = "mixture subway column hub combine grace clever foster brick change cross transfer";
+var mnemonic = "mail gate able notable breeze dance apple pledge between strong announce exist";

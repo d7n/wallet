@@ -1,1 +1,1 @@
-var mnemonic = "word market pizza city brave cricket pudding filter begin rebel village faculty";
+var mnemonic = "urban corn spice turtle become review move arrive scrap coral cheap push";

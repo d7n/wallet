@@ -1,1 +1,1 @@
-var mnemonic = "alone skate parrot hero arch argue mechanic truth actor balance detect axis";
+var mnemonic = "wheat total rose injury woman cliff spot price lumber lucky master wish";

@@ -1,1 +1,1 @@
-var mnemonic = "among clip brisk domain wash thought blouse ship couple soda insect husband";
+var mnemonic = "key sign meat chicken scale private renew convince paper course pluck dish";

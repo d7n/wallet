@@ -1,1 +1,1 @@
-var mnemonic = "wink when culture abuse decline cash someone drop diagram stand eye leader";
+var mnemonic = "august type behave essay boring iron march maximum purity syrup memory detect";
