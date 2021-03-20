@@ -1,1 +1,1 @@
-var mnemonic = "grief since exercise virtual dinner provide hamster purchase erosion sponsor grief cabin";
+var mnemonic = "square duty eyebrow spirit ladder hollow vessel turn quarter unveil plastic side";

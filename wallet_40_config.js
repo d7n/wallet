@@ -1,1 +1,1 @@
-var mnemonic = "among switch absorb alien confirm amount cart like fetch glance universe parade";
+var mnemonic = "spray fit destroy stumble typical idea pudding burden donor noise vessel empower";

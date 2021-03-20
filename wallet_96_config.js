@@ -1,1 +1,1 @@
-var mnemonic = "across journey gadget during olive good judge marine december expect alien object";
+var mnemonic = "grain pair grit text remind people install addict annual shock caught science";

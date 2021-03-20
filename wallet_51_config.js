@@ -1,1 +1,1 @@
-var mnemonic = "elegant manage approve maze barrel happy hockey question outdoor amazing test rigid";
+var mnemonic = "push april maple black nerve ensure lumber error snow try follow permit";

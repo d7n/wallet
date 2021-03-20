@@ -1,1 +1,1 @@
-var mnemonic = "sense win leopard ship execute pattern enroll goat hundred inmate detail bleak";
+var mnemonic = "blush skate vault prosper fantasy boat people inject wait cherry develop acid";

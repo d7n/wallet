@@ -1,1 +1,1 @@
-var mnemonic = "caution tree warfare master list oxygen scout song expand sell scorpion mention";
+var mnemonic = "humble travel gym assault citizen benefit quiz thrive room sure pudding under";

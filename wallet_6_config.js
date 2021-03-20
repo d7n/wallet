@@ -1,1 +1,1 @@
-var mnemonic = "satisfy library humble uncle quick sorry trash entire toe basket explain tank";
+var mnemonic = "unfair dune rib shuffle fence judge river electric auto pipe ball arch";

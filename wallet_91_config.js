@@ -1,1 +1,1 @@
-var mnemonic = "puppy patient rent real elite garbage hollow supreme provide aisle wife since";
+var mnemonic = "animal similar seat impact hundred trim type rapid much glow swift earth";

@@ -1,1 +1,1 @@
-var mnemonic = "wall similar license flip steel embody robust urban enlist social mouse actress";
+var mnemonic = "sadness grass shell vendor hundred shove kiwi other void volume entry magic";

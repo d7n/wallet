@@ -1,1 +1,1 @@
-var mnemonic = "copper absent protect meadow youth identify science dwarf shaft chapter hub system";
+var mnemonic = "survey frost lake document high copper tray wrist risk neutral swim wisdom";

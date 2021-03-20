@@ -1,1 +1,1 @@
-var mnemonic = "rich dynamic attack spatial chef similar world analyst type denial undo satoshi";
+var mnemonic = "rabbit horror again dumb ridge force inside common empty region ritual boil";

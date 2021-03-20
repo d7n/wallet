@@ -1,1 +1,1 @@
-var mnemonic = "gate cattle cat yard dismiss canyon adapt name avocado portion hamster truly";
+var mnemonic = "harvest place weapon angry wisdom correct frown film parrot pelican rice concert";

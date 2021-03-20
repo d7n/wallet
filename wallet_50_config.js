@@ -1,1 +1,1 @@
-var mnemonic = "kidney wedding height shoe giant soon pencil stock glow solution swift junk";
+var mnemonic = "can oval mesh language business toward monitor two card boost opera please";

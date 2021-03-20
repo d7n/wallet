@@ -1,1 +1,1 @@
-var mnemonic = "meat stereo juice absorb across orient onion enroll tone mask figure marriage";
+var mnemonic = "lecture story second type city found attack evidence maximum grace drill order";

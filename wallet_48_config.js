@@ -1,1 +1,1 @@
-var mnemonic = "example north become fetch anxiety plunge answer tonight celery shrimp spawn nice";
+var mnemonic = "juice impulse recall old curtain vacuum govern work industry road fit scale";

@@ -1,1 +1,1 @@
-var mnemonic = "deer artefact vendor hello deal insane speed crawl misery vendor defy legend";
+var mnemonic = "finish cry exist juice raise radar spatial demand horror bitter winter budget";

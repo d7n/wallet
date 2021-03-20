@@ -1,1 +1,1 @@
-var mnemonic = "mushroom shuffle invite slide inhale price drink sport amount pulp speak flip";
+var mnemonic = "culture super explain powder imitate cake fringe offer metal glow organ pulp";

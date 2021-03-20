@@ -1,1 +1,1 @@
-var mnemonic = "law afford inside finish copper vintage van fiction blast antenna whisper weekend";
+var mnemonic = "reform panic chat match loyal opera nest walk swift heart gossip daring";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor verb clump snake hover burden carry side jar april brick main";
+var mnemonic = "pull health athlete mask green deliver help mix vocal legend tiger giraffe";

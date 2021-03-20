@@ -1,1 +1,1 @@
-var mnemonic = "impulse vapor certain clever focus shield fence dutch cabbage wool pet hard";
+var mnemonic = "animal pitch rack together swap skate super thrive clarify nose alley rose";

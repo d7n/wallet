@@ -1,1 +1,1 @@
-var mnemonic = "over zero govern guitar light view firm layer isolate pudding scrub clump";
+var mnemonic = "code list story trial garage clinic monitor parade decline green neither any";

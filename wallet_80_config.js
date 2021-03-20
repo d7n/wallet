@@ -1,1 +1,1 @@
-var mnemonic = "unique unusual still sister fiber cup bring broccoli silent cross urban mouse";
+var mnemonic = "two price sweet toast relax indoor return birth second deposit flash ivory";

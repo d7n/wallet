@@ -1,1 +1,1 @@
-var mnemonic = "list curve toward ill food memory deputy core picture know exercise armed";
+var mnemonic = "swap carbon main estate honey file primary enlist harvest history rude cloth";

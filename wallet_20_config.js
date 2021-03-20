@@ -1,1 +1,1 @@
-var mnemonic = "merge blur champion fashion life iron clarify liberty vendor stay space point";
+var mnemonic = "post capable shaft poverty blood cave clerk evidence table flush scale deny";

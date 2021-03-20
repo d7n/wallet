@@ -1,1 +1,1 @@
-var mnemonic = "extra language able summer income ozone call use shy address point myth";
+var mnemonic = "enact mask property car helmet garlic borrow scissors receive occur mercy glide";

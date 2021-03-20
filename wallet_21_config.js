@@ -1,1 +1,1 @@
-var mnemonic = "company cause document snap kit pair ignore cricket sort soon chair topple";
+var mnemonic = "panic cricket feed finger climb twist estate never loud ask margin public";

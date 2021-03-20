@@ -1,1 +1,1 @@
-var mnemonic = "leopard cheese vintage apology special deliver episode frost brand rug shadow tackle";
+var mnemonic = "pioneer blind lottery tissue they polar worth civil wine vanish crime bracket";

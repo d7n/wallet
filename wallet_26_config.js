@@ -1,1 +1,1 @@
-var mnemonic = "trouble number oxygen retreat virus grass melt sweet armed hotel deer opinion";
+var mnemonic = "title pattern trip banner unable unaware detect mystery crash coast enhance pride";

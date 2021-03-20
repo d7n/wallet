@@ -1,1 +1,1 @@
-var mnemonic = "behave arm gesture flag rose neutral eagle dance cool awful silly window";
+var mnemonic = "slice choice nasty eager daring key wife owner mask eager tornado dilemma";

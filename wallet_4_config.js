@@ -1,1 +1,1 @@
-var mnemonic = "defy quarter farm want regret promote panic actual topic aisle mistake visit";
+var mnemonic = "lonely work scatter spirit episode jelly system silly slim pistol page market";

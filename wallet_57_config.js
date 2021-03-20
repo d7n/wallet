@@ -1,1 +1,1 @@
-var mnemonic = "kid permit account jeans can lyrics plastic champion bronze digital hero left";
+var mnemonic = "bag supply gain beyond below cradle capable column trial cancel right federal";

@@ -1,1 +1,1 @@
-var mnemonic = "situate hamster draft unveil excite link confirm defy patrol squeeze share immune";
+var mnemonic = "obscure word input real later retire find dress embody jaguar album inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "ring enable sugar excess bean abandon annual spare patient measure detail sell";
+var mnemonic = "shallow enroll bone guide since guilt write aware injury network body write";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer wash guard hurt creek spring spell marble reunion stuff panda kit";
+var mnemonic = "century essence board elevator similar lens output dune cupboard sweet wave year";

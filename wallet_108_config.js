@@ -1,1 +1,1 @@
-var mnemonic = "build mad negative wisdom heavy taxi this refuse combine mean federal naive";
+var mnemonic = "model such great shiver domain define enjoy bottom fatigue evoke below middle";

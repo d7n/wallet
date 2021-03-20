@@ -1,1 +1,1 @@
-var mnemonic = "crop occur major voice echo deputy lunch hard plastic laptop main advice";
+var mnemonic = "sketch mad police gossip bag position cloth bleak huge ridge rubber shield";

@@ -1,1 +1,1 @@
-var mnemonic = "island east involve outside audit nation sponsor vanish engage advance before congress";
+var mnemonic = "test uncover fall club worry label gap alarm sister avocado hedgehog try";

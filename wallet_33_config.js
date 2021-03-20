@@ -1,1 +1,1 @@
-var mnemonic = "history undo large scrub already cloud airport innocent van grass rain second";
+var mnemonic = "speak head range oak share medal vote across curious assume token beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet vocal life online chase smoke soap enemy broccoli fluid culture pair";
+var mnemonic = "actual option near air there whip razor squeeze wreck victory fine tobacco";

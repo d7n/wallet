@@ -1,1 +1,1 @@
-var mnemonic = "inch vessel grant traffic silly tiny mosquito purpose install elite layer grit";
+var mnemonic = "repeat true multiply medal punch group firm today sketch glory coast notice";

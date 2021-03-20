@@ -1,1 +1,1 @@
-var mnemonic = "forward trumpet spike aisle usage glue trigger october scrub tape offer poet";
+var mnemonic = "rent mercy world draft vague loan web quick eager struggle yellow disorder";

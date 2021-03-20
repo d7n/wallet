@@ -1,1 +1,1 @@
-var mnemonic = "naive toward fit elder tide kind foil autumn six diary damp cover";
+var mnemonic = "evil sunny among head shift brick crash fly strong interest apology dose";

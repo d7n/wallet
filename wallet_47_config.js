@@ -1,1 +1,1 @@
-var mnemonic = "neither drop coyote galaxy you skill flush lend soft wool enemy yard";
+var mnemonic = "dilemma layer air young believe wild gym cook rally rescue tail crop";

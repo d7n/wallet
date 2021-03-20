@@ -1,1 +1,1 @@
-var mnemonic = "analyst chest nasty hub chronic keen club steak social race symptom brain";
+var mnemonic = "inside symptom insane young clerk escape effort beef kite eyebrow wing eyebrow";

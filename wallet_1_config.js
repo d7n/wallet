@@ -1,1 +1,1 @@
-var mnemonic = "joy rice conduct gasp crime right stairs amazing cash crack key blame";
+var mnemonic = "company reject trade dash always solid melody fame kick tomorrow symptom magic";

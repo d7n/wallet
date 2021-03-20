@@ -1,1 +1,1 @@
-var mnemonic = "problem flush spray feel public genius injury october tank galaxy despair stem";
+var mnemonic = "clerk frequent giggle bacon reason circle response south spider mixture pill suit";

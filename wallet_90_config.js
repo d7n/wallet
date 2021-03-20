@@ -1,1 +1,1 @@
-var mnemonic = "allow success afraid trial view spirit enact exclude moral dad stumble office";
+var mnemonic = "gloom patch prevent expand route school auction among neither test drastic leg";

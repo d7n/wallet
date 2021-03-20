@@ -1,1 +1,1 @@
-var mnemonic = "satoshi head brain fall panda attitude oak sure scene mouse light awesome";
+var mnemonic = "shallow concert advice when urge often picture voice sentence subway miracle nuclear";

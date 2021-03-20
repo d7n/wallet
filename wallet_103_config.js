@@ -1,1 +1,1 @@
-var mnemonic = "debris veteran logic lizard surprise dance noodle divide degree hammer able attract";
+var mnemonic = "knee crew raven bonus purse mother step plunge fantasy loop toast property";

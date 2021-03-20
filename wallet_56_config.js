@@ -1,1 +1,1 @@
-var mnemonic = "stool silk doll save ice manual couch east horn pioneer disagree switch";
+var mnemonic = "cherry video trouble industry sugar good deer hole loyal canal fever teach";

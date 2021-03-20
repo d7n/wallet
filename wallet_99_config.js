@@ -1,1 +1,1 @@
-var mnemonic = "honey amateur wild resource expand happy join angle mouse celery another endless";
+var mnemonic = "ship wide hover abandon scrap bamboo accuse whale design course charge thank";

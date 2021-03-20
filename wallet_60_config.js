@@ -1,1 +1,1 @@
-var mnemonic = "truly click impact apple cattle theory pistol common infant hip knock fresh";
+var mnemonic = "rude sea aisle exhaust visual scene depend raven case dune situate twist";

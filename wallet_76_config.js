@@ -1,1 +1,1 @@
-var mnemonic = "urban fuel world cotton pole false marine century coin access garden analyst";
+var mnemonic = "ignore success top record sleep genuine address resemble abuse yard welcome balcony";

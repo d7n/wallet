@@ -1,1 +1,1 @@
-var mnemonic = "club sting afford copper salad glad delay hurt year absent nice husband";
+var mnemonic = "whale pelican dove rely hero mouse energy grain busy pulp lab sentence";

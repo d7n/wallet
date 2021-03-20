@@ -1,1 +1,1 @@
-var mnemonic = "tent depart chaos crowd bubble you pulp immense clinic curve roast fat";
+var mnemonic = "penalty coconut peace chef drift fragile meadow sheriff level iron road addict";

@@ -1,1 +1,1 @@
-var mnemonic = "funny problem fever suggest urban drift shed mom suffer empower nominee jazz";
+var mnemonic = "mesh jealous belt tooth short wealth desert wedding olive unable gold bubble";

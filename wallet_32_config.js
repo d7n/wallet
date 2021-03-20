@@ -1,1 +1,1 @@
-var mnemonic = "safe multiply cube journey surge acquire cement invest hawk arch gift portion";
+var mnemonic = "mosquito wise school lake observe book donor pupil enough fire stool forget";

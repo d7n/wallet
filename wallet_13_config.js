@@ -1,1 +1,1 @@
-var mnemonic = "tunnel bring guard motion cool case shoe mesh critic summer stock seed";
+var mnemonic = "tourist narrow dolphin army harbor avocado race cluster win duck fish antenna";

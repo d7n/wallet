@@ -1,1 +1,1 @@
-var mnemonic = "because insane auction merry tail enemy super bitter paper car fun case";
+var mnemonic = "wealth circle mandate accuse next library omit lumber false gym easily eternal";

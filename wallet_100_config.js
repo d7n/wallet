@@ -1,1 +1,1 @@
-var mnemonic = "trend wheat ketchup ring kiwi slab deal conduct there simple visual alone";
+var mnemonic = "universe alley rotate love spoon rare scrub lawn ski begin tomorrow come";

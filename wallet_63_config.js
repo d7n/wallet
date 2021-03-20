@@ -1,1 +1,1 @@
-var mnemonic = "afford awkward bacon odor naive disease slice noise engage useful symptom distance";
+var mnemonic = "spray local link circle orchard weapon hockey weather cargo erase step zero";

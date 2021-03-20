@@ -1,1 +1,1 @@
-var mnemonic = "crush joke crater same animal magnet kangaroo club grain work panel knife";
+var mnemonic = "resist busy runway awesome combine easily double federal climb arrive vessel upper";

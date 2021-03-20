@@ -1,1 +1,1 @@
-var mnemonic = "purse mansion verb gate play spot purpose glide slender vote cart chimney";
+var mnemonic = "sick style angle oxygen warm raccoon load film van rocket crucial joy";

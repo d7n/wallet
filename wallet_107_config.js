@@ -1,1 +1,1 @@
-var mnemonic = "dilemma scene idle dolphin mother swift chest liquid opinion bone similar remind";
+var mnemonic = "believe filter female ethics few inform speak become prefer diagram divide link";

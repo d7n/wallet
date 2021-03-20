@@ -1,1 +1,1 @@
-var mnemonic = "home coral stage awake indoor notice crane length train kidney output trouble";
+var mnemonic = "model virus riot cruise eye current wage verify derive hole veteran still";

@@ -1,1 +1,1 @@
-var mnemonic = "tide cart sausage truck critic loyal usual tag retreat release leave letter";
+var mnemonic = "ribbon intact swamp simple general decorate staff still question proud deliver output";

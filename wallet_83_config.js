@@ -1,1 +1,1 @@
-var mnemonic = "rely giraffe cross diet correct eight live arrow biology carpet parrot enough";
+var mnemonic = "shield hollow kiwi include enlist pledge shuffle cream region doctor industry common";

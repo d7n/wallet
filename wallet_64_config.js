@@ -1,1 +1,1 @@
-var mnemonic = "sad believe kingdom curious rifle true universe cage island light tenant describe";
+var mnemonic = "daughter stomach feed grain inch inside camp keen salt page raise problem";

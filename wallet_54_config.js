@@ -1,1 +1,1 @@
-var mnemonic = "dress priority rifle circle weasel brass attack leave unusual earth story collect";
+var mnemonic = "orchard together injury come parade finish thing evolve bright bless whisper away";

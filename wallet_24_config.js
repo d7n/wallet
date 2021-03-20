@@ -1,1 +1,1 @@
-var mnemonic = "skill mammal odor inside frame various drastic together crawl bundle wave slim";
+var mnemonic = "blossom hour page dirt trust together what stone belt cliff question cluster";

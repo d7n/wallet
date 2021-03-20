@@ -1,1 +1,1 @@
-var mnemonic = "rocket fiscal fossil treat swap will cluster capable soft shock neutral click";
+var mnemonic = "top muffin region arctic road method history rookie recycle bind bless trash";

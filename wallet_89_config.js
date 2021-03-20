@@ -1,1 +1,1 @@
-var mnemonic = "taste divide prepare opinion august city twelve vocal sail tornado decrease advance";
+var mnemonic = "cross sock town kiwi oval upon open call private this between depth";

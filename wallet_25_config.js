@@ -1,1 +1,1 @@
-var mnemonic = "path wall nasty extra tobacco baby surface joy energy weather physical second";
+var mnemonic = "robust learn casino silk drop door scrap acid around category year repair";

@@ -1,1 +1,1 @@
-var mnemonic = "increase clump dutch company giggle skirt engine trigger keep wait family express";
+var mnemonic = "wage blanket earth shrimp special disease approve lecture swear board assist west";

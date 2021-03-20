@@ -1,1 +1,1 @@
-var mnemonic = "raven road cause whale nut draft heavy say planet chaos grab gold";
+var mnemonic = "pigeon example scout upgrade also field team poet tide journey proof pudding";

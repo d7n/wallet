@@ -1,1 +1,1 @@
-var mnemonic = "fox ahead cruel tornado bind guilt treat witness critic can chicken cry";
+var mnemonic = "above joke special bacon wear scout nice drip scissors drift pipe romance";

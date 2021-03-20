@@ -1,1 +1,1 @@
-var mnemonic = "peasant random bench know naive survey lamp robot become glory explain garment";
+var mnemonic = "service certain nose crucial size else expire crack snow tumble lumber vast";

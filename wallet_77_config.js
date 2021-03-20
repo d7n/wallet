@@ -1,1 +1,1 @@
-var mnemonic = "spice version shallow grass execute discover orphan glory trust chapter sound traffic";
+var mnemonic = "muscle disease glance cat diagram grab diamond camp spider bright club insane";

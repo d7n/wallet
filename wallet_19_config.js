@@ -1,1 +1,1 @@
-var mnemonic = "swim thought volcano coffee march lunar right have doctor merge ankle silver";
+var mnemonic = "kit dog ocean climb okay receive item aisle secret lunch talk inside";

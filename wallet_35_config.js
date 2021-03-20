@@ -1,1 +1,1 @@
-var mnemonic = "oak claim furnace sell option hope edit write body trap build giant";
+var mnemonic = "gold congress infant all lottery slot stove pioneer resist aerobic when diary";

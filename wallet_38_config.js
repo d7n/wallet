@@ -1,1 +1,1 @@
-var mnemonic = "unaware hobby lawsuit online section cigar track address cargo long panel bird";
+var mnemonic = "during catch chase print suspect position second dust glare popular dutch effort";

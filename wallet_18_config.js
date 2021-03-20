@@ -1,1 +1,1 @@
-var mnemonic = "wrestle skull idea future wine inflict clock perfect salute advice birth spot";
+var mnemonic = "journey grief ladder toward moral real record goat page advice segment leopard";

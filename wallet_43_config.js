@@ -1,1 +1,1 @@
-var mnemonic = "shop scene reopen scale raise feed doll water throw uncle ride almost";
+var mnemonic = "calm super number balcony almost success drink future sort slight bike child";

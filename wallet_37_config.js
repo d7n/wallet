@@ -1,1 +1,1 @@
-var mnemonic = "industry name festival tomato chimney use entry magnet actress lucky evil science";
+var mnemonic = "grape awesome purpose forward rule romance mosquito diary warm axis train huge";

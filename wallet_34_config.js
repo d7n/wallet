@@ -1,1 +1,1 @@
-var mnemonic = "razor food other tower provide swarm nut fresh squeeze wall bracket once";
+var mnemonic = "vacuum alpha subway swing run situate exact walnut series donkey habit bike";

@@ -1,1 +1,1 @@
-var mnemonic = "snack leopard poet estate link spend carry tourist sick secret relief dwarf";
+var mnemonic = "rather screen twice outer vicious artefact end cause decrease online cage piece";

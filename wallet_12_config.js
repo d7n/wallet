@@ -1,1 +1,1 @@
-var mnemonic = "south method virus camera uphold dream garage ceiling never defy remain acquire";
+var mnemonic = "extend luxury soup lemon state goose thrive copper funny essay zoo ship";
