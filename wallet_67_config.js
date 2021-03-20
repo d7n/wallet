@@ -1,1 +1,1 @@
-var mnemonic = "critic tiger grocery hotel voyage picture stove radio minor whisper harsh minor";
+var mnemonic = "thing fall caught antique embody hammer leopard number then pretty merit write";

@@ -1,1 +1,1 @@
-var mnemonic = "decade inspire evidence solid enter prize cousin border treat tragic inquiry clinic";
+var mnemonic = "notice analyst material culture shaft idea jazz soda novel kind sting police";

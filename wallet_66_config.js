@@ -1,1 +1,1 @@
-var mnemonic = "alter valid plunge dizzy about dad detect drum actual combine trash volcano";
+var mnemonic = "ramp crucial capital slide dry maze adapt deputy nose region try portion";

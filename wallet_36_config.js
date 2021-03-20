@@ -1,1 +1,1 @@
-var mnemonic = "title word puzzle term crash appear disease purchase share purity coach metal";
+var mnemonic = "midnight entry service letter shine park main want museum manage rocket sign";

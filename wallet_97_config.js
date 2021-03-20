@@ -1,1 +1,1 @@
-var mnemonic = "image tenant dirt net lion whip symbol helmet view describe blast ribbon";
+var mnemonic = "rescue fine smart shine dumb chicken figure journey kitchen betray shock snack";

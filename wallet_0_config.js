@@ -1,1 +1,1 @@
-var mnemonic = "gasp deposit dragon vendor index blame middle fee fun pencil soldier tuna";
+var mnemonic = "expire churn lazy trade reopen talent hair border night stove oblige army";

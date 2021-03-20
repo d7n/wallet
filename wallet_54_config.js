@@ -1,1 +1,1 @@
-var mnemonic = "between industry owner found modify seven chest sand among scissors engage rescue";
+var mnemonic = "unaware depart first refuse immense select robot toss trouble trade orphan farm";

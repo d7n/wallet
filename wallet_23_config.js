@@ -1,1 +1,1 @@
-var mnemonic = "alien tomato hidden review column error permit spring simple bottom brown process";
+var mnemonic = "enemy picnic amused purse apart rifle pencil pact suspect radar accident amateur";

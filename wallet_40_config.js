@@ -1,1 +1,1 @@
-var mnemonic = "ball swing false need south child weapon shy scissors finger old puppy";
+var mnemonic = "wisdom outside glide clutch blood regular limb lab urge account vivid acid";

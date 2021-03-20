@@ -1,1 +1,1 @@
-var mnemonic = "corn slice bulb sketch defense verify process virus embark child steel quit";
+var mnemonic = "fossil code digital match object boss estate art hour noise angry park";

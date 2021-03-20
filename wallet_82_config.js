@@ -1,1 +1,1 @@
-var mnemonic = "monkey dove simple blanket cry dragon erode crime inform enemy seed buzz";
+var mnemonic = "ill cinnamon acquire siege ride safe brick stable trap mixed mountain model";

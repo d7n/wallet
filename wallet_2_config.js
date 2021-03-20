@@ -1,1 +1,1 @@
-var mnemonic = "tumble absorb guitar wait surge spray sea logic venue little absent thought";
+var mnemonic = "rare mom wreck fashion caught pact behave globe supreme kiss inch move";

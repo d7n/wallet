@@ -1,1 +1,1 @@
-var mnemonic = "portion hammer flock twelve puppy illness bread armor local express unit cliff";
+var mnemonic = "talent announce track scare rely snack fatigue brass thing group purse sniff";

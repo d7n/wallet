@@ -1,1 +1,1 @@
-var mnemonic = "fossil stove riot machine negative economy orbit female brother nuclear awake advice";
+var mnemonic = "coach skirt ride earth eight potato supply benefit student wheat arrive risk";

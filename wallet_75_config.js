@@ -1,1 +1,1 @@
-var mnemonic = "case cool file equal crater father wine attitude weasel help pyramid vocal";
+var mnemonic = "usual chicken brush pill copy pottery domain erupt lyrics indicate member inside";

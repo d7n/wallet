@@ -1,1 +1,1 @@
-var mnemonic = "gravity become stool height glimpse extra beauty feed play exhaust enact evoke";
+var mnemonic = "avocado plate oxygen grid fragile people air gown rebuild insane robust setup";

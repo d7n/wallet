@@ -1,1 +1,1 @@
-var mnemonic = "fantasy game kidney album person series badge tattoo crop lottery jewel legal";
+var mnemonic = "century spider model bench subject nominee maze zebra surround enroll admit satisfy";

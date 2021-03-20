@@ -1,1 +1,1 @@
-var mnemonic = "embrace caution region cancel aerobic network chaos forget cart reject strike truck";
+var mnemonic = "cat east wisdom educate sample quarter mammal note oyster country hawk harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "romance hat spin until cactus fee stumble coast napkin buzz slide wrestle";
+var mnemonic = "matrix bread bid couch best very age point ozone square name monster";

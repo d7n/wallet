@@ -1,1 +1,1 @@
-var mnemonic = "erosion mother reject vote together spoon scheme nerve spell tortoise cancel bargain";
+var mnemonic = "furnace raw matrix pelican unlock hotel will echo arena develop resemble smoke";

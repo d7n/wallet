@@ -1,1 +1,1 @@
-var mnemonic = "puppy walk jar screen garment bomb humble else earth prison vintage actual";
+var mnemonic = "bread planet method fatal scheme deny draft puzzle pretty crisp hamster pink";

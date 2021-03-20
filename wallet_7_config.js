@@ -1,1 +1,1 @@
-var mnemonic = "pink swing exhaust couple usage install subway build enrich yellow viable draft";
+var mnemonic = "abuse various advance prefer tumble dial approve feel gorilla alley deer reward";

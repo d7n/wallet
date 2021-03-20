@@ -1,1 +1,1 @@
-var mnemonic = "heart tattoo gentle upgrade feature pulp else rotate liberty whisper drink census";
+var mnemonic = "glue animal tornado artefact blind fabric render pen radio resist parrot mesh";

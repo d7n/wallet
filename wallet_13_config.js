@@ -1,1 +1,1 @@
-var mnemonic = "onion sunny certain art mirror shaft artist dash armed skate helmet detail";
+var mnemonic = "claw prison insect lounge inquiry manage stage era protect subway drop city";

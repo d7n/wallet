@@ -1,1 +1,1 @@
-var mnemonic = "asthma cluster attitude syrup train rural grape saddle list outdoor easily pride";
+var mnemonic = "detail example bubble analyst absurd rain useful close certain defy episode calm";

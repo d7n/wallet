@@ -1,1 +1,1 @@
-var mnemonic = "supply eagle code dress weapon network review push rich tooth dice connect";
+var mnemonic = "piano twenty link squirrel magic refuse split brain tomorrow course chalk mouse";

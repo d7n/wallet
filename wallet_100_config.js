@@ -1,1 +1,1 @@
-var mnemonic = "arrange ten clarify tube travel adapt fantasy wrong output rice mouse account";
+var mnemonic = "screen social reduce bubble onion utility copy limit century live awkward rough";

@@ -1,1 +1,1 @@
-var mnemonic = "depend screen aerobic dirt memory whisper engage exit north mouse exclude assist";
+var mnemonic = "tribe casino fresh matter sight vicious ginger village unlock between march turkey";

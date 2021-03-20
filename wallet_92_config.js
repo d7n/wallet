@@ -1,1 +1,1 @@
-var mnemonic = "nothing affair crew churn library vacuum trouble bullet pupil goose nephew current";
+var mnemonic = "south neglect device family three rug thumb toddler today weird ethics type";

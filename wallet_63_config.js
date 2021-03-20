@@ -1,1 +1,1 @@
-var mnemonic = "jelly comfort old acid tooth grass body disease urge save return world";
+var mnemonic = "shine milk canoe correct emotion toilet once tail income stable sorry merit";

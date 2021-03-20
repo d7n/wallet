@@ -1,1 +1,1 @@
-var mnemonic = "kidney gym paddle pass funny neither rigid bean leg second scene barrel";
+var mnemonic = "solution exercise expire apart depend hello fat leisure turtle trash tent device";

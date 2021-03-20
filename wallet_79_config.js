@@ -1,1 +1,1 @@
-var mnemonic = "abuse rabbit romance loan pupil case hammer step december slush behave tank";
+var mnemonic = "prepare bulk dutch answer peanut pull head century teach volume tail girl";

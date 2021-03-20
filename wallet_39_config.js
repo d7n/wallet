@@ -1,1 +1,1 @@
-var mnemonic = "narrow news canal fade hire retreat bounce style shuffle ritual verb code";
+var mnemonic = "card ocean canvas zebra diagram silver absent wide avocado wheat bonus code";

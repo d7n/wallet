@@ -1,1 +1,1 @@
-var mnemonic = "forum cycle fury trigger final food they slam super joke mad mean";
+var mnemonic = "cram speed eagle joy account orchard dirt tobacco bomb clarify planet unit";

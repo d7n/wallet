@@ -1,1 +1,1 @@
-var mnemonic = "magnet announce above horror snack layer blood copy winter crucial drop clown";
+var mnemonic = "poverty seed know shock slide silver vital promote kitten shiver sleep game";

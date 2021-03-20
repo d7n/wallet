@@ -1,1 +1,1 @@
-var mnemonic = "hood peasant skill antique scheme service humble outside rich opera enjoy clown";
+var mnemonic = "eyebrow frost rely patient horse raise fetch cupboard motion cry degree blur";

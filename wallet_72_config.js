@@ -1,1 +1,1 @@
-var mnemonic = "spatial whale tumble shoe work gap citizen earn veteran topple because cricket";
+var mnemonic = "joy detail logic trick rough retreat exile visit frame photo stick endless";

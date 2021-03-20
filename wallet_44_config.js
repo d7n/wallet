@@ -1,1 +1,1 @@
-var mnemonic = "artist visa mixed hungry sheriff embrace prefer park blur report found medal";
+var mnemonic = "object symbol divert game violin wire carpet dwarf frequent kingdom floor dish";

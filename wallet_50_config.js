@@ -1,1 +1,1 @@
-var mnemonic = "twelve involve cat fancy fringe science gasp album hint draw shoulder auction";
+var mnemonic = "nerve talk cricket boy robust raccoon ski happy either left flag atom";

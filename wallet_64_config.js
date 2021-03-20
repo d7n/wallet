@@ -1,1 +1,1 @@
-var mnemonic = "foam hungry ghost poverty water exact leg combine damage pear hungry upset";
+var mnemonic = "clarify essay marriage bulk acoustic ribbon since happy song asset project street";

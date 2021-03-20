@@ -1,1 +1,1 @@
-var mnemonic = "spring century disorder hidden ecology execute matrix improve steak judge sugar gauge";
+var mnemonic = "icon galaxy marine genius embark uncover begin glance surge glue digital taxi";

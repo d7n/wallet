@@ -1,1 +1,1 @@
-var mnemonic = "blind scrub kitten gaze awful dismiss spatial puppy loyal increase adult drill";
+var mnemonic = "normal symptom loud ramp jar banner manual torch summer sand scorpion ancient";

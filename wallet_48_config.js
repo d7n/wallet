@@ -1,1 +1,1 @@
-var mnemonic = "crawl crucial pull life grant raccoon spoil index despair deal busy bid";
+var mnemonic = "venture habit afraid gym one card squeeze clip chair mixed piano legend";

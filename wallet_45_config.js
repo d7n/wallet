@@ -1,1 +1,1 @@
-var mnemonic = "endorse frozen tired army pulp smile present merge hospital gospel drastic citizen";
+var mnemonic = "congress job security outdoor scissors deposit gallery equal indicate lobster affair hamster";

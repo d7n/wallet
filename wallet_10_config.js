@@ -1,1 +1,1 @@
-var mnemonic = "chicken minimum inherit submit birth message expect increase shoe poverty twenty shock";
+var mnemonic = "feel leaf concert smile supply parent motion area inmate lab endless end";

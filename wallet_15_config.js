@@ -1,1 +1,1 @@
-var mnemonic = "soap vessel runway smart tilt prepare sniff sword wonder mystery shallow need";
+var mnemonic = "just travel lazy sea divert shoulder employ clever ancient relief when loan";

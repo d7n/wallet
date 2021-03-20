@@ -1,1 +1,1 @@
-var mnemonic = "era reopen arch old horn half enact awkward quarter search antenna debate";
+var mnemonic = "glide mercy hole decrease unveil analyst payment dove lava foam crowd repair";

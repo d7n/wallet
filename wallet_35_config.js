@@ -1,1 +1,1 @@
-var mnemonic = "chase fly grocery either citizen trial gift swamp coffee bring enact lawsuit";
+var mnemonic = "crystal plate weird thunder tilt strategy conduct chronic proof conduct vague unique";

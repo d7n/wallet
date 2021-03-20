@@ -1,1 +1,1 @@
-var mnemonic = "render deposit wheat one ignore cricket unknown fitness drift weasel into happy";
+var mnemonic = "famous humble crouch position creek nurse lens frame inner drama health volume";

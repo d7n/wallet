@@ -1,1 +1,1 @@
-var mnemonic = "catalog cruel zebra increase rural kidney since meadow bulb earth spend fringe";
+var mnemonic = "tortoise also town invite adult orphan hybrid clock rural hybrid exercise cruise";

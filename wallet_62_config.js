@@ -1,1 +1,1 @@
-var mnemonic = "pet anger gain federal bright estate eager girl must coconut enter unfair";
+var mnemonic = "rather expire sponsor quick brisk fan vital win blue actor mad exile";

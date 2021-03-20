@@ -1,1 +1,1 @@
-var mnemonic = "asset genre front hobby top garment frown wrap erode inject beach also";
+var mnemonic = "action grape suspect fork rather fog manual remind box siege sudden hunt";

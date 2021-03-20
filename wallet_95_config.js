@@ -1,1 +1,1 @@
-var mnemonic = "fit emotion service acid proud ripple clean throw expire panic maple turn";
+var mnemonic = "stone flame actress member favorite impact act thumb paddle chicken train year";

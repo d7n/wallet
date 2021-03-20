@@ -1,1 +1,1 @@
-var mnemonic = "convince hold people impulse actor toy confirm panic mouse staff action immense";
+var mnemonic = "pottery endorse infant biology alcohol airport country alcohol acquire cute grief need";

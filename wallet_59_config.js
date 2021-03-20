@@ -1,1 +1,1 @@
-var mnemonic = "then silent damp tree error wheel obtain fork scatter route sing motion";
+var mnemonic = "wish tomorrow viable misery canvas seven toy list abandon walnut envelope loan";

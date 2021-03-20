@@ -1,1 +1,1 @@
-var mnemonic = "pear exist clarify toast liquid inspire bridge enough artefact lock violin market";
+var mnemonic = "example labor copper ginger indoor pulse fragile cost cube dismiss apart amount";

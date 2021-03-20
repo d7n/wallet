@@ -1,1 +1,1 @@
-var mnemonic = "husband current denial magnet join become ripple anger canyon fault nation series";
+var mnemonic = "option stuff property fabric cool affair scale galaxy spend often report donor";

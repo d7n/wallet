@@ -1,1 +1,1 @@
-var mnemonic = "finger taxi right solution angle chapter yard job frame below acoustic razor";
+var mnemonic = "elephant stable devote age second reject plug physical swallow praise fitness pipe";

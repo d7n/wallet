@@ -1,1 +1,1 @@
-var mnemonic = "coil clerk cheap mention feature phone climb rent rib slam often dutch";
+var mnemonic = "shield bubble mango mask goddess step mule van tomorrow mass train nuclear";

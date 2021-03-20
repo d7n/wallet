@@ -1,1 +1,1 @@
-var mnemonic = "truth armor barrel laptop dwarf letter over above prosper curve crew punch";
+var mnemonic = "example outdoor verify road upon spoon tip fun banana wheat usage love";

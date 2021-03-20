@@ -1,1 +1,1 @@
-var mnemonic = "cross weasel grid place pioneer correct play marble web kangaroo fat vocal";
+var mnemonic = "lounge focus pool gain warrior dentist find giant rebel dish material trophy";

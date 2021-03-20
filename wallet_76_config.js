@@ -1,1 +1,1 @@
-var mnemonic = "hub write inspire limb shell chronic decrease envelope sea orphan steel best";
+var mnemonic = "flee yard silver convince bring melt coin cousin purpose liar embody scare";

@@ -1,1 +1,1 @@
-var mnemonic = "frost series peace crazy remove remember orchard clay vanish gather gift abuse";
+var mnemonic = "access elbow upgrade addict minimum letter move garbage olympic buffalo spoil lumber";

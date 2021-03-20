@@ -1,1 +1,1 @@
-var mnemonic = "joke typical cube vocal physical twin cabin wine short conduct flavor excess";
+var mnemonic = "swallow level turtle display dumb canoe diamond suspect regret cable curtain sort";

@@ -1,1 +1,1 @@
-var mnemonic = "net drop gun gospel faith owner broom shoulder garden urban better grain";
+var mnemonic = "imitate mistake paddle theme smoke tent useful mad rack knock brick genre";

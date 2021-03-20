@@ -1,1 +1,1 @@
-var mnemonic = "upgrade jar bar sure bullet dress derive bright fossil bring hotel assume";
+var mnemonic = "common almost inside harsh more recall tattoo whale decade job island couch";

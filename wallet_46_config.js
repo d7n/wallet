@@ -1,1 +1,1 @@
-var mnemonic = "school cannon twin mesh warfare stomach betray jealous action agent ladder post";
+var mnemonic = "various shove clarify voyage toward pluck two arctic tide mask fat sure";

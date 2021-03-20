@@ -1,1 +1,1 @@
-var mnemonic = "elegant virtual squirrel render exact lamp dance noise coin between grace nothing";
+var mnemonic = "sustain have sustain unfold verb hazard peanut spin distance wash choose stadium";

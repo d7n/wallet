@@ -1,1 +1,1 @@
-var mnemonic = "lamp blue solve misery radio say property pizza raise obey finger avoid";
+var mnemonic = "advance target twenty length item train pave album amazing split common all";

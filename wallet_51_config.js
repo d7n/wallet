@@ -1,1 +1,1 @@
-var mnemonic = "summer dial topic fatigue audit economy limb lobster exile appear face saddle";
+var mnemonic = "whip picture paddle oval chalk gossip weird muffin strike history dumb steel";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos radio wedding olympic enable odor game excite love nest hundred advice";
+var mnemonic = "vault april dignity switch twelve lemon cart upon march announce ill chest";

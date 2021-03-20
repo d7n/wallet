@@ -1,1 +1,1 @@
-var mnemonic = "asthma raise sure since there aunt time insect inquiry under island arrest";
+var mnemonic = "mesh dial tattoo mandate barrel quick flight bottom zero morning write upon";

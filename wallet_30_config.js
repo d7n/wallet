@@ -1,1 +1,1 @@
-var mnemonic = "squeeze expand hunt balcony can paper tube tattoo ginger universe habit garment";
+var mnemonic = "replace match mobile scrub mass drill inhale margin connect grab miss door";

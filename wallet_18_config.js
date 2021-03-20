@@ -1,1 +1,1 @@
-var mnemonic = "misery chest cost wagon tower female skill robust dinner beach lecture actual";
+var mnemonic = "economy breeze soon pull identify junk crystal obtain army whip secret reward";

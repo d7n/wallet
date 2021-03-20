@@ -1,1 +1,1 @@
-var mnemonic = "shop ignore involve achieve primary uphold spread tenant bargain main give attend";
+var mnemonic = "sure average human olympic anger access suspect stomach circle hover coil engine";

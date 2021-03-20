@@ -1,1 +1,1 @@
-var mnemonic = "upper ugly refuse shadow history obvious badge spawn maid design divide quantum";
+var mnemonic = "relief unique penalty enact solution build punch method drama method priority enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric easy cream wave force arena virus sound cat author fall jump";
+var mnemonic = "visa lab volume portion climb own junior shield box pear segment hammer";

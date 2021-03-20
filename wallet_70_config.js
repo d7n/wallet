@@ -1,1 +1,1 @@
-var mnemonic = "shoot main desk twenty slide utility captain work marine execute enemy brush";
+var mnemonic = "goddess pelican inject spy legend radar diesel rug mango asset blast blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor judge luxury sport movie acid cable exhaust media repair deposit expire";
+var mnemonic = "else rail increase buddy cry poet stomach become volume grace comic wrap";

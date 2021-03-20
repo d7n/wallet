@@ -1,1 +1,1 @@
-var mnemonic = "tiny cream modify virus joke drum chef myth gospel phrase stick undo";
+var mnemonic = "health drink bullet invest news meat swift orient wild rack egg senior";

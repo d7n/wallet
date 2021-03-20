@@ -1,1 +1,1 @@
-var mnemonic = "custom camp dolphin spot north sport void early forward transfer chuckle october";
+var mnemonic = "lottery write theory cruise prevent cabin pause price gloom potato virtual correct";

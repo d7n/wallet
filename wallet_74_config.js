@@ -1,1 +1,1 @@
-var mnemonic = "feel limit shoe cross torch swing add amazing energy charge patient throw";
+var mnemonic = "loyal fuel rubber fit blur alone sausage border coil ritual lake report";

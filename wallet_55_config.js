@@ -1,1 +1,1 @@
-var mnemonic = "match fun mimic liar scissors wage sick loyal damp frown dutch action";
+var mnemonic = "tell squeeze charge amount cattle olympic myth solution bubble visa torch people";

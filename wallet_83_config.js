@@ -1,1 +1,1 @@
-var mnemonic = "police stove shy link vital mystery sister unveil boost client lizard analyst";
+var mnemonic = "genius filter session morning hunt rack usage reunion olive dance curtain marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "economy cactus intact error gadget struggle beyond rude agent athlete sail talk";
+var mnemonic = "item live decade soda fire plunge sheriff quit dirt fluid neither cruise";

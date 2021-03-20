@@ -1,1 +1,1 @@
-var mnemonic = "dust decline enter upset relief feature left bus suffer candy more tomato";
+var mnemonic = "ridge protect wrist cement melody estate often razor topple jump side salmon";

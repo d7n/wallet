@@ -1,1 +1,1 @@
-var mnemonic = "wheel used train special able repair vital naive neither napkin open report";
+var mnemonic = "pen have boil mouse taste cement sadness night cushion bird income kitten";

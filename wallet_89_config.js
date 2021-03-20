@@ -1,1 +1,1 @@
-var mnemonic = "vacant buzz course law human inner require quarter witness cricket youth trigger";
+var mnemonic = "win auction divert exhibit talk word fancy blur appear juice screen make";

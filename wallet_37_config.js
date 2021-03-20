@@ -1,1 +1,1 @@
-var mnemonic = "alpha smart someone aerobic pudding green embrace security taxi miss ignore limb";
+var mnemonic = "volume debate box device ski say cannon rib moment brave habit lunch";

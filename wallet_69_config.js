@@ -1,1 +1,1 @@
-var mnemonic = "vapor donkey furnace slender agree hero despair talent bike best boat raise";
+var mnemonic = "punch note trade private angle summer critic across depend bounce tag poverty";

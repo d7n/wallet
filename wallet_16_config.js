@@ -1,1 +1,1 @@
-var mnemonic = "hobby lunar skill fun disagree economy fox post outdoor will wise timber";
+var mnemonic = "satisfy cloud paddle visa close census detect boy innocent doctor monkey veteran";

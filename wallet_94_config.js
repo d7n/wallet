@@ -1,1 +1,1 @@
-var mnemonic = "empower pony planet taste cancel seed stable throw never lunch imitate silver";
+var mnemonic = "author honey skirt utility balance escape observe bacon such bubble run lawn";

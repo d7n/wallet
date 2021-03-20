@@ -1,1 +1,1 @@
-var mnemonic = "badge day hollow stick just just wear face scheme narrow sure you";
+var mnemonic = "broccoli alter door bright blossom order recipe sphere renew suspect taste penalty";

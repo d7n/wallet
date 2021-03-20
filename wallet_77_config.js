@@ -1,1 +1,1 @@
-var mnemonic = "amount over obvious monitor place put primary race scissors churn host skirt";
+var mnemonic = "mask private cake seek wing cannon endorse rigid melody steak report live";

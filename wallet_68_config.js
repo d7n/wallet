@@ -1,1 +1,1 @@
-var mnemonic = "manage uphold rent tobacco cotton relief illegal attract disorder mad punch puzzle";
+var mnemonic = "able cry blur industry debate wolf refuse dirt destroy label intact motion";
