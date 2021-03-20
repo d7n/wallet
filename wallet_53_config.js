@@ -1,1 +1,1 @@
-var mnemonic = "deny current wink round caught left night risk sketch scrub sort junior";
+var mnemonic = "control silk swing dinosaur sick system ring boost debate peanut layer matter";

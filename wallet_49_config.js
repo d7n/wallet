@@ -1,1 +1,1 @@
-var mnemonic = "spawn flip nest author relief give debris blade peasant episode umbrella bread";
+var mnemonic = "area salmon angle shadow wish spray brief congress upset salt outdoor cage";

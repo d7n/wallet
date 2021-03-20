@@ -1,1 +1,1 @@
-var mnemonic = "radar clog audit youth midnight firm sweet fury wonder story fossil calm";
+var mnemonic = "tray squirrel report sea merry real pigeon hockey catch wine spike connect";

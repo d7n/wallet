@@ -1,1 +1,1 @@
-var mnemonic = "reflect assault bronze wrist deal neglect become coral gesture funny olympic call";
+var mnemonic = "strong prefer parade vacant actress future nature oyster fruit gadget jar close";

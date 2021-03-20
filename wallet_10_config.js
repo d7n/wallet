@@ -1,1 +1,1 @@
-var mnemonic = "share wolf great system system social industry between exit suggest explain fury";
+var mnemonic = "bread drift artwork cannon story pitch hat exact display struggle someone now";

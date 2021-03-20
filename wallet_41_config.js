@@ -1,1 +1,1 @@
-var mnemonic = "sort island absent category follow meadow rail mother oak visual cram shell";
+var mnemonic = "outer purpose awkward moon crumble system security enable bottom olympic tell prevent";

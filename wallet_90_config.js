@@ -1,1 +1,1 @@
-var mnemonic = "spot lunch story flavor kitten pear blossom glass reunion photo gain flight";
+var mnemonic = "level damp echo myth dice duck thing crane sight exist spread submit";

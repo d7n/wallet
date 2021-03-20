@@ -1,1 +1,1 @@
-var mnemonic = "sentence curious borrow ignore nice hybrid silk bullet improve awkward split pulse";
+var mnemonic = "magic silk play punch pause picnic sock edit visual race edge try";

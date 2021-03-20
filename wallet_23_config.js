@@ -1,1 +1,1 @@
-var mnemonic = "bag talk vapor mistake bus field indicate knee say swing innocent vault";
+var mnemonic = "apart garage ribbon hat company crucial afford bulk good element pink tissue";

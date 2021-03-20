@@ -1,1 +1,1 @@
-var mnemonic = "cushion drastic spoil curtain prize permit sport tube vault cause laundry economy";
+var mnemonic = "remain burst output occur ritual rely right address estate tag zebra reform";

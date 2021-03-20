@@ -1,1 +1,1 @@
-var mnemonic = "pigeon talent gravity near business adult render soda hazard answer delay column";
+var mnemonic = "angry feed input spot girl unlock derive eager shy pipe awesome buyer";

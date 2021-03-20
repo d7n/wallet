@@ -1,1 +1,1 @@
-var mnemonic = "ordinary cabin keen someone series tornado toy mouse supreme gloom finger engine";
+var mnemonic = "misery can tail tiny steel physical vague skirt helmet library coconut hope";

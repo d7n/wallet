@@ -1,1 +1,1 @@
-var mnemonic = "mention survey fatal rice solution flush yard giraffe weather sister worth endless";
+var mnemonic = "enjoy way light marble festival prevent evil mom room left surface because";

@@ -1,1 +1,1 @@
-var mnemonic = "salt sketch bulk candy magnet twenty public victory trumpet six sting celery";
+var mnemonic = "rhythm outer slot rough excite regular follow helmet window lunch opera snack";

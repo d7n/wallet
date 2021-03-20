@@ -1,1 +1,1 @@
-var mnemonic = "canyon chest denial ostrich path daring pattern cherry tank table voyage cross";
+var mnemonic = "real danger sort file indoor fatigue cloth fever reopen title ostrich spend";

@@ -1,1 +1,1 @@
-var mnemonic = "gift poet wide river pet already power anxiety frozen slam pole nephew";
+var mnemonic = "gospel reduce trust hint notable kiwi ignore sun plunge chaos symptom smooth";

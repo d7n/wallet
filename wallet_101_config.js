@@ -1,1 +1,1 @@
-var mnemonic = "owner illegal road illness north region delay order post ball shed matrix";
+var mnemonic = "home prison degree fun vacuum island blanket blood inhale company tuition army";

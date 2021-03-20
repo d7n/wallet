@@ -1,1 +1,1 @@
-var mnemonic = "unknown lunch okay angry concert december step phone symbol old ten final";
+var mnemonic = "alert dizzy napkin quantum already armed advice error city lecture chase fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "boost wink fence grant gasp aim law secret term gift oyster foam";
+var mnemonic = "elder cargo skill disease steel december blue rebel surround globe strong false";

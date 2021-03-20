@@ -1,1 +1,1 @@
-var mnemonic = "ordinary funny rifle object soon outdoor assume sphere type elder castle frown";
+var mnemonic = "crop kidney regular observe unit brave love veteran rebel oak green knee";

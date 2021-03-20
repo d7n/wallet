@@ -1,1 +1,1 @@
-var mnemonic = "ocean reflect unique flame learn vapor inform profit exclude blade birth apology";
+var mnemonic = "all delay latin vague student alarm metal east crash enrich wine way";

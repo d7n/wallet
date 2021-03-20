@@ -1,1 +1,1 @@
-var mnemonic = "near grow grab dice recall crouch holiday address inherit produce lunch awkward";
+var mnemonic = "rubber park fury episode tail tribe sign resource primary document demand mistake";

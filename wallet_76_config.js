@@ -1,1 +1,1 @@
-var mnemonic = "bleak library sad shrimp photo meat opinion expose absorb satoshi couple symbol";
+var mnemonic = "donkey admit company piano spare obey morning coral oxygen idea nerve umbrella";

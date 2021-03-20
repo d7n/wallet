@@ -1,1 +1,1 @@
-var mnemonic = "coyote frost miracle spoil used merit minimum burst achieve power sponsor card";
+var mnemonic = "message badge until expect advice eight toss patrol analyst knife bubble describe";

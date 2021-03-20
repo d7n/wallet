@@ -1,1 +1,1 @@
-var mnemonic = "bridge auction sail arrow stock seminar evoke connect script credit enlist hint";
+var mnemonic = "spirit false border weapon ask cargo pave south approve boss leisure fun";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie isolate purchase arrange purse pulp pony snake sword squeeze believe banner";
+var mnemonic = "door museum easy mutual barely concert cousin glory eternal pipe timber hole";

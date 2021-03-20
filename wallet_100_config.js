@@ -1,1 +1,1 @@
-var mnemonic = "south abstract similar appear fish judge student put bottom response viable dream";
+var mnemonic = "grow token rotate message pizza trash pull magic daring promote result transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "scene fit hybrid novel divert cradle island elegant valid bright mass peasant";
+var mnemonic = "mixture subway column hub combine grace clever foster brick change cross transfer";

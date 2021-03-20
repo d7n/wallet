@@ -1,1 +1,1 @@
-var mnemonic = "depth double rebuild school drastic destroy confirm chaos ginger return thumb recycle";
+var mnemonic = "pilot rocket harsh chuckle gossip remove attack pill gym measure choice frown";

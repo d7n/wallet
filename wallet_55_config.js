@@ -1,1 +1,1 @@
-var mnemonic = "receive model vapor swear scene unable recall logic member breeze adjust rookie";
+var mnemonic = "chat indoor search trim invest canyon solution shallow tide wild scissors slot";

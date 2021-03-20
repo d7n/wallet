@@ -1,1 +1,1 @@
-var mnemonic = "text display winner gun genre guilt spoil aunt length shed video ribbon";
+var mnemonic = "wrap cover open ecology solid brother since shrimp tattoo bleak sweet token";

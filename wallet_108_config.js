@@ -1,1 +1,1 @@
-var mnemonic = "cake decorate kangaroo letter pole runway crush merge balance menu orchard shuffle";
+var mnemonic = "pizza clap aunt kitchen fish rare celery movie where student aim click";

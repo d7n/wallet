@@ -1,1 +1,1 @@
-var mnemonic = "hard kind april stone glow bitter tackle hybrid enjoy essence unaware pluck";
+var mnemonic = "eight jacket blood beyond cannon olympic laugh aim shoulder ring valve crouch";

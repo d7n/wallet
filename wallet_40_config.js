@@ -1,1 +1,1 @@
-var mnemonic = "about flame stomach quote sugar shift coin blame casino glue grid position";
+var mnemonic = "two jaguar expire hazard sentence key step square desk remind spawn work";

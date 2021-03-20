@@ -1,1 +1,1 @@
-var mnemonic = "ribbon slide renew aim proud hospital father magnet theme vibrant devote idle";
+var mnemonic = "engine noodle link table myself decrease initial guide despair vast family twenty";

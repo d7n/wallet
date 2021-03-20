@@ -1,1 +1,1 @@
-var mnemonic = "play oyster agree gas thing extend clean height memory allow runway real";
+var mnemonic = "enter cloud pumpkin little disagree minimum museum vivid payment total know bright";

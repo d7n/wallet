@@ -1,1 +1,1 @@
-var mnemonic = "joke clown split muscle place truth place mask skin wrap chimney crash";
+var mnemonic = "still never panda black board oyster tortoise copy agent uncle usual appear";

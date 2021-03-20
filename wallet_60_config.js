@@ -1,1 +1,1 @@
-var mnemonic = "shrug fatigue focus fatal choose ocean search light neutral thunder lonely open";
+var mnemonic = "angle spend kick pigeon real hint rude grow truth enrich cabbage decade";

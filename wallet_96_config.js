@@ -1,1 +1,1 @@
-var mnemonic = "three dignity tragic anger industry tomato bean yard chapter once island solution";
+var mnemonic = "lake replace catalog struggle close quality actress vendor glue addict bicycle soon";

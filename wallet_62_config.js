@@ -1,1 +1,1 @@
-var mnemonic = "embrace exercise parrot invest order glue pizza attract wing size civil embody";
+var mnemonic = "convince jeans parent verify raw tiger bring attitude blossom craft bonus title";

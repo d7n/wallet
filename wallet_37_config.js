@@ -1,1 +1,1 @@
-var mnemonic = "congress nasty involve valve ecology service deny salad sketch wreck mass aim";
+var mnemonic = "remember afford tiger enact picnic wrist science medal soup caught life advance";

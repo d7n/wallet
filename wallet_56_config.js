@@ -1,1 +1,1 @@
-var mnemonic = "poverty jewel antenna garden alert want start siege teach scrub impact cloth";
+var mnemonic = "slogan prison worth diary allow blind fruit nuclear ability pen toddler truth";

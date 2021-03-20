@@ -1,1 +1,1 @@
-var mnemonic = "benefit hen assist live rural spider state nice window vanish inflict jeans";
+var mnemonic = "total effort place diary horse address want clerk dignity section festival fatal";

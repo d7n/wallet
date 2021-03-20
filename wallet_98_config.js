@@ -1,1 +1,1 @@
-var mnemonic = "rent tunnel hat afraid kit north ostrich member fit hedgehog best jacket";
+var mnemonic = "resource adjust grief debate brief museum shrug wrong wheat mountain profit maid";

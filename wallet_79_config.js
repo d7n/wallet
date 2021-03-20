@@ -1,1 +1,1 @@
-var mnemonic = "occur useful polar siege shock throw practice country glove entry puppy resist";
+var mnemonic = "wink when culture abuse decline cash someone drop diagram stand eye leader";

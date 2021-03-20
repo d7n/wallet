@@ -1,1 +1,1 @@
-var mnemonic = "interest empower glide glance song window sock topic annual produce elephant shift";
+var mnemonic = "oil dirt unusual gorilla nose vocal glimpse supply diamond shrug oppose torch";

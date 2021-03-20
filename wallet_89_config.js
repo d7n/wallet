@@ -1,1 +1,1 @@
-var mnemonic = "tomato custom foil estate diamond lecture trend sentence sad problem knife decide";
+var mnemonic = "chaos arch subway message animal fruit minor tape green spring crime drift";

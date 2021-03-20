@@ -1,1 +1,1 @@
-var mnemonic = "energy grief omit damp analyst gossip glimpse photo citizen festival decide joke";
+var mnemonic = "flee subject sentence hour tide flag liberty shiver frame cherry never match";

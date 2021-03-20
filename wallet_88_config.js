@@ -1,1 +1,1 @@
-var mnemonic = "what deer trigger obtain caught rotate shy side mom quote regret paper";
+var mnemonic = "predict pencil vivid north cattle all must wage conduct prefer doll front";

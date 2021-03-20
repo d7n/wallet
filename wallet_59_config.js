@@ -1,1 +1,1 @@
-var mnemonic = "much crucial ivory girl sunny tackle elephant used unlock honey elbow benefit";
+var mnemonic = "intact basic rude pumpkin differ child march brother merry nephew fork knock";

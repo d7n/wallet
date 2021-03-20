@@ -1,1 +1,1 @@
-var mnemonic = "build gospel harvest multiply style soul hour bargain board coyote because subway";
+var mnemonic = "lift impose other ugly boil awake school forum strike behave strike share";

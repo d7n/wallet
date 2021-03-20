@@ -1,1 +1,1 @@
-var mnemonic = "time mad cargo human stadium guilt sketch tuition humble battle lottery fade";
+var mnemonic = "fault machine left ethics museum sign say piano crucial food oblige sunny";

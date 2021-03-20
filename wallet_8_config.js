@@ -1,1 +1,1 @@
-var mnemonic = "helmet hard muscle swing party sail wedding hard hood medal brain loan";
+var mnemonic = "mutual clip south bulk kitten deliver wolf friend solution swift puzzle milk";

@@ -1,1 +1,1 @@
-var mnemonic = "couple quick rail choose mosquito fire artwork stem frost tail fossil negative";
+var mnemonic = "coast seminar pill timber lucky tobacco text blouse wheel glad monitor depart";

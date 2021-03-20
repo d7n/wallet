@@ -1,1 +1,1 @@
-var mnemonic = "group stick must super problem lobster inch eager bicycle long pink various";
+var mnemonic = "arm used stuff brick elder flame pipe kangaroo pencil occur retreat myth";

@@ -1,1 +1,1 @@
-var mnemonic = "patient stadium super push clap oppose belt excite regular liberty seminar normal";
+var mnemonic = "spirit market snack beach fall truck shine jazz glory beyond equip apart";

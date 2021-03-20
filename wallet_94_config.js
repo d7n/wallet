@@ -1,1 +1,1 @@
-var mnemonic = "exclude witness saddle zone deposit drill abstract cause asset winter mirror tattoo";
+var mnemonic = "margin emotion error fiction noble upper tunnel join kidney ivory address tumble";

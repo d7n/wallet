@@ -1,1 +1,1 @@
-var mnemonic = "elite item tube happy ask siege surge sense edge enforce skull candy";
+var mnemonic = "glare setup zebra loud must marble betray isolate famous copy over raw";

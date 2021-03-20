@@ -1,1 +1,1 @@
-var mnemonic = "diamond kind spoil birth banner electric pact weird hat decide vendor mind";
+var mnemonic = "gadget photo blame faint zero blur mouse finish urge lonely merit enact";

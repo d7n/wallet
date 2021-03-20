@@ -1,1 +1,1 @@
-var mnemonic = "drink current select tool love grass material quit dutch blade follow practice";
+var mnemonic = "boss soda alert actress subject jelly require valid scrap upgrade scissors birth";

@@ -1,1 +1,1 @@
-var mnemonic = "curious excite gold airport dwarf exact never earn grant cage pizza used";
+var mnemonic = "math method update paper mirror simple insect grain camera lounge boost domain";

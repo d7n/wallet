@@ -1,1 +1,1 @@
-var mnemonic = "medal twice ancient quantum glad pyramid blouse pull grow flag peasant add";
+var mnemonic = "cabin wide hawk pencil snow rice vault zebra exhaust brain roof job";

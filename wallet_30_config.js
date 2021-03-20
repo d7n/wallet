@@ -1,1 +1,1 @@
-var mnemonic = "apology steel brisk castle rhythm finish bag wire divert absorb page asthma";
+var mnemonic = "gaze tilt vote pond nose salute just bulb damp quantum daring just";

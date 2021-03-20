@@ -1,1 +1,1 @@
-var mnemonic = "depend gun base citizen orient edit cram tooth beach net absurd own";
+var mnemonic = "math that dose just gasp phrase clock blind social total unfold legend";

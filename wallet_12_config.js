@@ -1,1 +1,1 @@
-var mnemonic = "light reward head seven depth fun poem cabin finish also real fiscal";
+var mnemonic = "sheriff fluid believe goose dutch brick suffer rail century cram enlist couch";

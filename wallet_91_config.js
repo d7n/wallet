@@ -1,1 +1,1 @@
-var mnemonic = "december car potato bracket forum find light reject describe tower tooth inch";
+var mnemonic = "genuine jazz whale thunder metal twist blanket penalty express during bus pair";

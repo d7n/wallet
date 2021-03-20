@@ -1,1 +1,1 @@
-var mnemonic = "wink arrange under smart asthma tell exchange tunnel pole receive peanut remember";
+var mnemonic = "answer same gloom present business smoke source report solution asthma raven surface";

@@ -1,1 +1,1 @@
-var mnemonic = "start rare morning novel other surround quarter faith fringe strategy unhappy glance";
+var mnemonic = "card found item engine absorb north edit leave hope rubber heart false";

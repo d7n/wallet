@@ -1,1 +1,1 @@
-var mnemonic = "range annual priority pulse vivid swift ugly tongue mass sheriff swallow rate";
+var mnemonic = "shift voyage thought hazard oven path insect sun garlic spread grow squeeze";

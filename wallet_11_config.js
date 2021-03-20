@@ -1,1 +1,1 @@
-var mnemonic = "hire fee oval coil erupt ripple omit remind forum alien almost bring";
+var mnemonic = "health six average strategy scissors cake such brown exclude push useful palm";

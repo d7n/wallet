@@ -1,1 +1,1 @@
-var mnemonic = "column proud pair shallow push expire bronze violin hope deliver island survey";
+var mnemonic = "hat fence tenant unit force eyebrow eye black phrase coast penalty all";

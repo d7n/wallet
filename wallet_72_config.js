@@ -1,1 +1,1 @@
-var mnemonic = "gap hammer room provide rain profit empty shed stock exhaust pretty erupt";
+var mnemonic = "canvas deposit extra donkey detect shoot myth lab young border lend public";

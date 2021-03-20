@@ -1,1 +1,1 @@
-var mnemonic = "safe climb pause history cute raise ensure avocado oil ethics fish bachelor";
+var mnemonic = "cheese quantum first crisp damage poem vapor image mercy lonely zoo embody";

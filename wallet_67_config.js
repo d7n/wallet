@@ -1,1 +1,1 @@
-var mnemonic = "champion tumble fiscal dad cotton today camp camera hat early swear together";
+var mnemonic = "food seven void merry student estate farm nothing twist giggle lamp heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "service play token orange quick genuine child expose bubble feed raw adult";
+var mnemonic = "myself fiber observe shaft choice point pause dismiss involve cotton affair strike";

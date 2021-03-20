@@ -1,1 +1,1 @@
-var mnemonic = "brisk drama alone ranch choice tell morning sketch jealous wrist despair weather";
+var mnemonic = "loop middle shed position social predict depend able group world doctor damp";

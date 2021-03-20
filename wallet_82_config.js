@@ -1,1 +1,1 @@
-var mnemonic = "panther claim access ancient saddle bicycle pool phrase wife pink excess wreck";
+var mnemonic = "clog kitchen reward athlete later purpose advance vanish two warm pair deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "hip drift chicken legend bunker ready spot cool garlic soda brick glass";
+var mnemonic = "myself filter scorpion pigeon trouble toward relief video scissors clump trash major";

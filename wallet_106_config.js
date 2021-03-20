@@ -1,1 +1,1 @@
-var mnemonic = "lava labor acquire document bargain liar peasant brown record rough provide whisper";
+var mnemonic = "word market pizza city brave cricket pudding filter begin rebel village faculty";

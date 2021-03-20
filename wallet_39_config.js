@@ -1,1 +1,1 @@
-var mnemonic = "express lend habit vehicle crater toward soul voice sausage neither van stomach";
+var mnemonic = "purity surface dizzy humble satoshi farm rich culture speak review dish doll";

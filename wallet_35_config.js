@@ -1,1 +1,1 @@
-var mnemonic = "shoot mistake caution panda obscure young knee over two excite undo noble";
+var mnemonic = "joy immune exercise artist soup mix sun dog dirt text online ladder";

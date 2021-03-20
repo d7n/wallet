@@ -1,1 +1,1 @@
-var mnemonic = "muscle silver seminar devote board ostrich foster blast away salt yellow sock";
+var mnemonic = "dwarf vintage sniff simple amateur legal sketch birth play certain father garbage";

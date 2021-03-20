@@ -1,1 +1,1 @@
-var mnemonic = "neck sample quick dolphin left pretty airport remain raccoon talent drive vanish";
+var mnemonic = "expire jacket fork solid arctic license height catch blossom where finger talk";

@@ -1,1 +1,1 @@
-var mnemonic = "easy myself digital you author hen motion during notice tool wealth village";
+var mnemonic = "device dinosaur bread ritual impulse aim fence drastic typical dignity muscle cute";

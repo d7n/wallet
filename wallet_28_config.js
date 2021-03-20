@@ -1,1 +1,1 @@
-var mnemonic = "ignore spider toy merit tiger lock soap clever impact disease slot worth";
+var mnemonic = "use awesome erase ski pledge layer clinic obvious used strong twist recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal boil unhappy culture quarter shadow ethics photo blast alpha acid witness";
+var mnemonic = "alone skate parrot hero arch argue mechanic truth actor balance detect axis";

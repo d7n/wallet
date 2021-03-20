@@ -1,1 +1,1 @@
-var mnemonic = "boring loop cry daughter frozen erupt escape travel civil suspect poet urge";
+var mnemonic = "law road large farm bacon lawn start parent absent remind range dress";
