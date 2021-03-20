@@ -1,1 +1,1 @@
-var mnemonic = "hard dance icon prefer noise script below grief travel river figure inquiry";
+var mnemonic = "lady sea nation bridge broom shield whip reward blur dynamic hunt armed";

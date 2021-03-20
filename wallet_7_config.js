@@ -1,1 +1,1 @@
-var mnemonic = "play chef such purchase maid mom enjoy lucky worry wage amount grit";
+var mnemonic = "siege zone sustain style until sample fortune canal noodle borrow recipe patrol";

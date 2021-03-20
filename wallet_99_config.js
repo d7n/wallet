@@ -1,1 +1,1 @@
-var mnemonic = "stove romance defense print gallery equal range inflict suit mechanic napkin juice";
+var mnemonic = "armor radio pass dash zebra shield cloth million vague enjoy nephew dad";

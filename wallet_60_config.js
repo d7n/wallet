@@ -1,1 +1,1 @@
-var mnemonic = "lazy blame define base drive spoil clerk nature mom receive trophy party";
+var mnemonic = "aisle tiny display expire oak oyster blame tiny toe security knife deposit";

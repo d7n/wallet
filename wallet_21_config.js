@@ -1,1 +1,1 @@
-var mnemonic = "twice differ desk grace weapon major spoil minor orient always lemon area";
+var mnemonic = "lunch hammer pole quiz gasp claw attend front salute talent soup allow";

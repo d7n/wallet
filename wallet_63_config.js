@@ -1,1 +1,1 @@
-var mnemonic = "confirm minor frequent offer together property labor oval width vital nuclear right";
+var mnemonic = "busy range awful absurd spend enrich employ deliver bench skull hard assume";

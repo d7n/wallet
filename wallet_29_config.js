@@ -1,1 +1,1 @@
-var mnemonic = "believe illness vanish crack patch wage unfold toilet dismiss tank fatal inject";
+var mnemonic = "rain toy ranch pioneer chaos choice craft region enemy cruise pipe violin";

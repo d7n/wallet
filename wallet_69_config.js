@@ -1,1 +1,1 @@
-var mnemonic = "tilt quantum piece brass foot field myth antenna muscle fever wait circle";
+var mnemonic = "green exist where culture hobby cinnamon result web pear lucky domain hole";

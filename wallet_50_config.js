@@ -1,1 +1,1 @@
-var mnemonic = "twice detect atom wing sell pulp coast flush essence gauge upper swamp";
+var mnemonic = "citizen shift there critic know lecture outside major corn adjust swarm wet";

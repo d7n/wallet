@@ -1,1 +1,1 @@
-var mnemonic = "elbow occur glow canyon faculty announce alien again reunion false chef skull";
+var mnemonic = "ketchup chief only tortoise lawn fitness uncle language behind sense brick attend";

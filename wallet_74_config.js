@@ -1,1 +1,1 @@
-var mnemonic = "gift pill talent globe legend danger winter stool border oyster grape raccoon";
+var mnemonic = "gym element pony bounce donate normal major prosper fit face merge tired";

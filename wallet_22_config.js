@@ -1,1 +1,1 @@
-var mnemonic = "gate task erase come exhaust leader ensure nut cricket economy suit unfold";
+var mnemonic = "path text van raw enrich small recipe gaze mimic proof excuse carpet";

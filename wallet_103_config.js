@@ -1,1 +1,1 @@
-var mnemonic = "modify dog negative double remove ethics physical concert admit super exile false";
+var mnemonic = "able series episode jungle rally emotion speak chimney trap goat fold badge";

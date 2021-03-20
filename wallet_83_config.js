@@ -1,1 +1,1 @@
-var mnemonic = "rapid pond know adapt beach gloom spatial glue proud credit city document";
+var mnemonic = "shell capital naive swarm chuckle sure exercise laptop evidence media square middle";

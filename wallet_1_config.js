@@ -1,1 +1,1 @@
-var mnemonic = "civil kiwi used today stone water ball bunker bicycle coral bamboo round";
+var mnemonic = "joy drum absurd exercise shop jealous radar found caution outside bleak sample";

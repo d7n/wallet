@@ -1,1 +1,1 @@
-var mnemonic = "sunny improve miss token win able desk capable sorry lazy truck midnight";
+var mnemonic = "frame drip deliver weekend razor town scrap gain december cruel patient retire";

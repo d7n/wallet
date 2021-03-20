@@ -1,1 +1,1 @@
-var mnemonic = "slab album cinnamon damage stairs talk canal local butter always awkward slow";
+var mnemonic = "misery grace improve wish slow abandon knee congress live gesture emotion edit";

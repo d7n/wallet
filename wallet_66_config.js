@@ -1,1 +1,1 @@
-var mnemonic = "rapid soon figure pact modify just quality like road blame one goat";
+var mnemonic = "spatial bracket luggage aim wheat extend brand tomato toe holiday twice abstract";

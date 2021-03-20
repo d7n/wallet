@@ -1,1 +1,1 @@
-var mnemonic = "hospital release still sell shy luggage jump pool glass mistake enable expose";
+var mnemonic = "round code sadness task coyote daughter damp iron clog input shy whisper";

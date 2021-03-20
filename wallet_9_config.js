@@ -1,1 +1,1 @@
-var mnemonic = "capital sorry flight nest assault term absent stairs supreme mad river fish";
+var mnemonic = "stool power decide slide feel aware barely parrot wrong core steel clerk";

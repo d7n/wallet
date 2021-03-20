@@ -1,1 +1,1 @@
-var mnemonic = "fabric zone cross deer weapon scare country sample letter system imitate approve";
+var mnemonic = "session auto oblige duck coffee practice pet duty amused banner oppose sweet";

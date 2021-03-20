@@ -1,1 +1,1 @@
-var mnemonic = "book december habit knee glimpse curve shoot accuse property tower furnace syrup";
+var mnemonic = "six magnet weather churn common roof flight artwork yellow seek buyer faint";

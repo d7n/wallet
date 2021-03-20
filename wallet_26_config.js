@@ -1,1 +1,1 @@
-var mnemonic = "animal adjust rally inform grow antique hood story green brave detail result";
+var mnemonic = "power height pact source special sorry blind bamboo common fancy evolve turkey";

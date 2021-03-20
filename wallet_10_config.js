@@ -1,1 +1,1 @@
-var mnemonic = "apology steak marriage theory common make success indicate bacon buzz fox afford";
+var mnemonic = "control much twist feed accuse bid shoulder polar until movie shiver away";

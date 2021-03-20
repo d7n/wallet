@@ -1,1 +1,1 @@
-var mnemonic = "ladder impose flush scare forum blanket exclude man panther aisle hub key";
+var mnemonic = "opinion come blur canal easily chat word prize tree tomato post unusual";

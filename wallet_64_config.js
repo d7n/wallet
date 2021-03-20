@@ -1,1 +1,1 @@
-var mnemonic = "tomato duty hazard surround news artist jaguar young exile magnet vital leave";
+var mnemonic = "repair awkward urge scene camera wrong mistake like among cloud shuffle stock";

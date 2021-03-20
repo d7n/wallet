@@ -1,1 +1,1 @@
-var mnemonic = "omit federal exotic soup embody liquid ripple upon hockey false narrow glass";
+var mnemonic = "bone repair fatigue delay vote hockey into collect accuse anchor spoil hip";

@@ -1,1 +1,1 @@
-var mnemonic = "lion now hair tool easy tongue bundle celery argue accuse meat scheme";
+var mnemonic = "drift law pyramid sentence pool jump verify kitchen select across find wise";

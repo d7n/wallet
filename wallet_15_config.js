@@ -1,1 +1,1 @@
-var mnemonic = "enroll sketch winter hamster initial dad reveal trend fly radar fiscal attack";
+var mnemonic = "again vital wait record vote brown elbow sorry student talk differ match";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha onion solid denial photo trumpet grid urge solution swap material chuckle";
+var mnemonic = "sibling crisp fun fortune assault anxiety refuse clinic deliver fun lounge capital";

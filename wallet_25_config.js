@@ -1,1 +1,1 @@
-var mnemonic = "carpet horror trim muscle noodle refuse leave begin barrel finish supreme elder";
+var mnemonic = "chapter wink excuse guilt energy disagree lobster peanut acquire model boil bag";

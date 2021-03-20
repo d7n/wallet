@@ -1,1 +1,1 @@
-var mnemonic = "grape animal merit cream ghost artwork belt gym situate glance used erase";
+var mnemonic = "monitor december flip arch tip cry blue ginger opera math shell horror";

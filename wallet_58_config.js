@@ -1,1 +1,1 @@
-var mnemonic = "tongue table session connect basic dove barely cram light raccoon also forest";
+var mnemonic = "rail salon island corn brass recipe museum fan cannon leaf glide bind";

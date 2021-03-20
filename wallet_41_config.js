@@ -1,1 +1,1 @@
-var mnemonic = "frog derive assault swing state quality bless slight gloom dizzy one give";
+var mnemonic = "bread over honey junior lift tuition ice clump trust cement pill push";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt slush pepper dolphin chair empty pipe nuclear usage employ symptom eight";
+var mnemonic = "idle flat seat salt relax hat island case review twelve entry swamp";

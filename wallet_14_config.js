@@ -1,1 +1,1 @@
-var mnemonic = "ill easy slide cattle dutch spray excite wet bring base broccoli smooth";
+var mnemonic = "wish cream soda recipe ladder gather shiver thought work rate trend apology";

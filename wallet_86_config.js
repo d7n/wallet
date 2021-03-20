@@ -1,1 +1,1 @@
-var mnemonic = "cement genuine quit again repair churn cloud sea tennis chunk tornado license";
+var mnemonic = "anger ahead area replace recall spatial jungle evidence dragon truth knife marriage";

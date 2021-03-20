@@ -1,1 +1,1 @@
-var mnemonic = "effort purse unfair cushion enough ancient tower survey size slush syrup menu";
+var mnemonic = "salmon lemon mention body honey avoid bulb amazing usage indoor lab jeans";

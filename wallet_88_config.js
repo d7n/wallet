@@ -1,1 +1,1 @@
-var mnemonic = "broccoli trophy curtain any dragon puzzle narrow keep crazy rebuild law dose";
+var mnemonic = "doctor rice mom result fit deal auction mushroom scale ocean grass sadness";

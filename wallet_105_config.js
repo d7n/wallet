@@ -1,1 +1,1 @@
-var mnemonic = "brave slush own stone arrow prepare mechanic loyal fresh inquiry attend march";
+var mnemonic = "desert exotic genius thing scorpion choice normal outdoor caught connect genre cinnamon";

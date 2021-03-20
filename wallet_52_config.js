@@ -1,1 +1,1 @@
-var mnemonic = "have kitten bonus shrug trap opera mansion evoke vault inmate fee cigar";
+var mnemonic = "egg digital include melody canoe fog pelican churn tower visit asset must";

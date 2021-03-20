@@ -1,1 +1,1 @@
-var mnemonic = "knife thumb age peace hint unfair pass list mobile increase public will";
+var mnemonic = "top walk blast expire grief exile bulk crazy wife onion swarm crawl";

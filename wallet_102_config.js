@@ -1,1 +1,1 @@
-var mnemonic = "badge hundred cement busy sketch unit can frost tree crime detect elite";
+var mnemonic = "venue decide tail plastic noble dice offer pill nuclear raven ancient neither";

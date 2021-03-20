@@ -1,1 +1,1 @@
-var mnemonic = "arrest physical trial dice focus funny cost property bunker brick strike copy";
+var mnemonic = "end obtain club stem nephew elder pepper trash surface morning letter elegant";

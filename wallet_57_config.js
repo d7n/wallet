@@ -1,1 +1,1 @@
-var mnemonic = "melt aunt scene spin potato palace able million magic rural inner sorry";
+var mnemonic = "soft pledge paddle bronze reveal chapter test mystery rotate raccoon rally alcohol";

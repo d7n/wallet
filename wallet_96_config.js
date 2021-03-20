@@ -1,1 +1,1 @@
-var mnemonic = "more stuff twenty message gift dignity thank siren bike alone when vehicle";
+var mnemonic = "card thrive unlock misery couch diamond pelican again race pigeon describe spin";

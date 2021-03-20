@@ -1,1 +1,1 @@
-var mnemonic = "swallow exact news dwarf ozone tide axis farm black rare space entry";
+var mnemonic = "measure south topic bullet latin cruel female buyer tag sweet shoulder wild";

@@ -1,1 +1,1 @@
-var mnemonic = "attract achieve invest cluster venue enact liar sea symbol churn beach talent";
+var mnemonic = "airport music wrap enable forget peace excess angle insane nation master price";

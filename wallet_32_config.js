@@ -1,1 +1,1 @@
-var mnemonic = "cricket fetch barrel toddler tuition business moon attack swing edit magnet lady";
+var mnemonic = "evidence orchard dolphin job kiwi music subject rhythm prize shield tragic inhale";

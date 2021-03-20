@@ -1,1 +1,1 @@
-var mnemonic = "finish umbrella earn focus leisure govern know cricket stamp bicycle lyrics buzz";
+var mnemonic = "west toe marine boring warrior loyal upon doll champion uncle hint crunch";

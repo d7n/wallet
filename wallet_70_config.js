@@ -1,1 +1,1 @@
-var mnemonic = "cupboard exhaust nut recipe tomorrow dragon group witness awkward person lake cargo";
+var mnemonic = "crumble cheap leisure lyrics bubble dance denial credit bitter outside put behind";

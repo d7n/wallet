@@ -1,1 +1,1 @@
-var mnemonic = "crisp patch seat forest absent dish school ivory like cake fee above";
+var mnemonic = "ribbon tuition nature ostrich barely dry snake people shell school finish water";

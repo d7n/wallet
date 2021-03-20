@@ -1,1 +1,1 @@
-var mnemonic = "near universe vessel melody enter major tube blind solar stool vocal tomorrow";
+var mnemonic = "stick civil ethics velvet forum issue announce manual excess cash ethics uniform";

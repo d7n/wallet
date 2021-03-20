@@ -1,1 +1,1 @@
-var mnemonic = "scene snap treat abstract marble female mix surround flee universe margin call";
+var mnemonic = "online humor grace install swear dentist bleak airport entire holiday clap grocery";

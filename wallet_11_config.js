@@ -1,1 +1,1 @@
-var mnemonic = "test art net run quick awkward vapor crowd friend together cargo saddle";
+var mnemonic = "all furnace scissors skull sunny juice fantasy zone slender vague ordinary ivory";

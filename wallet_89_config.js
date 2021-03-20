@@ -1,1 +1,1 @@
-var mnemonic = "pipe grab east copper elbow helmet flash grocery tide school nation route";
+var mnemonic = "room lift breeze quarter kiss gold napkin furnace affair author despair derive";

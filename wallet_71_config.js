@@ -1,1 +1,1 @@
-var mnemonic = "abuse obscure morning wedding nothing frown wait exist volume record pepper donkey";
+var mnemonic = "below pride bacon walk brief arrive quote soon retreat erase floor snack";

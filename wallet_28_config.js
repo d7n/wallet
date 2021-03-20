@@ -1,1 +1,1 @@
-var mnemonic = "mule point country lock scare depart casual cheese annual mule forward buddy";
+var mnemonic = "vacant bind boost resemble transfer reward price fame prefer friend stage only";

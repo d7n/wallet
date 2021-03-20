@@ -1,1 +1,1 @@
-var mnemonic = "motor genuine crazy team car quiz airport uncle solar egg machine boring";
+var mnemonic = "lava shiver clip true fitness pulp bonus immense slight zero globe stomach";

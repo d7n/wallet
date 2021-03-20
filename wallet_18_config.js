@@ -1,1 +1,1 @@
-var mnemonic = "dismiss flower box net goat caution disorder chalk myth lawn unusual call";
+var mnemonic = "caught scissors item repair message follow option bounce illegal valve tag hollow";

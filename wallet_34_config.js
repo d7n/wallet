@@ -1,1 +1,1 @@
-var mnemonic = "hamster broom gap tide artwork tube need rough inhale cause cube staff";
+var mnemonic = "will drill regret hair base blur hurt smart actress club grace rude";

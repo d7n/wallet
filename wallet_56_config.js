@@ -1,1 +1,1 @@
-var mnemonic = "frown glad diamond abuse marble version upper circle loyal scout travel dwarf";
+var mnemonic = "budget barrel copy boy verify mad cable parent ticket advance escape spoon";

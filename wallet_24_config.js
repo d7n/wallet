@@ -1,1 +1,1 @@
-var mnemonic = "proud recipe leaf cancel person dumb blush test husband garage admit sleep";
+var mnemonic = "stomach divorce oblige void useless brass grace yard labor muscle slide book";

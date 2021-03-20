@@ -1,1 +1,1 @@
-var mnemonic = "truly try lab omit nature render tuition clock wise resist thing file";
+var mnemonic = "story benefit remind rack basket proud erode jacket stereo month boat aisle";

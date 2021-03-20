@@ -1,1 +1,1 @@
-var mnemonic = "letter inmate either detect setup slice primary rabbit unique acid club laptop";
+var mnemonic = "problem this lesson useful analyst fit cheap guitar pear undo burst couple";

@@ -1,1 +1,1 @@
-var mnemonic = "large plunge asset sentence ghost width borrow vintage split coast flower oak";
+var mnemonic = "address leave frame citizen icon easily echo connect mushroom ocean swamp smile";

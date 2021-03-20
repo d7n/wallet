@@ -1,1 +1,1 @@
-var mnemonic = "flock elephant lawn exhaust divert long vivid bamboo limb range catch orange";
+var mnemonic = "ranch riot broccoli describe tuna inquiry deny biology chalk palace make hospital";

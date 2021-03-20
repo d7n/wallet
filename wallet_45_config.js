@@ -1,1 +1,1 @@
-var mnemonic = "raise pyramid endless until diet motion oblige picture suffer token head above";
+var mnemonic = "give awkward crime fade glimpse horse reopen total vicious follow film flag";

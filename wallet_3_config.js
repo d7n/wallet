@@ -1,1 +1,1 @@
-var mnemonic = "rival detail list cross across venue coin leaf office hungry poverty plug";
+var mnemonic = "bunker jaguar what tone guilt faculty matter genius robot dwarf install tool";

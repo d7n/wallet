@@ -1,1 +1,1 @@
-var mnemonic = "dynamic disorder broken certain tackle leisure remove goose about parent gas aerobic";
+var mnemonic = "midnight hospital rural clap episode unfold two scrap mimic arch knee father";

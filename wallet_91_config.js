@@ -1,1 +1,1 @@
-var mnemonic = "spider drive leave faith laundry early remember nominee jar disease unique tree";
+var mnemonic = "devote merit party blouse grow inch want speak bicycle faith tape butter";

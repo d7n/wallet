@@ -1,1 +1,1 @@
-var mnemonic = "twenty engage small device behave spin nurse unfold tank guitar choose reject";
+var mnemonic = "slide era only ankle material actor captain hobby canyon disagree crowd same";

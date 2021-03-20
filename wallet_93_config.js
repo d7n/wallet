@@ -1,1 +1,1 @@
-var mnemonic = "rare economy twelve mimic pistol picnic sure torch hour world under title";
+var mnemonic = "fiber sunset danger student absurd state fury color snake require pear piano";

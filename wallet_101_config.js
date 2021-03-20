@@ -1,1 +1,1 @@
-var mnemonic = "brave visual degree history achieve nation notable flower hope vendor carry maple";
+var mnemonic = "harvest unlock core maximum where bind basket sight guard odor aunt deliver";

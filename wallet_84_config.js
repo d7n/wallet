@@ -1,1 +1,1 @@
-var mnemonic = "youth bring harvest sound trophy repair timber chase toddler ankle steel scrub";
+var mnemonic = "seven tilt margin creek mechanic pepper age electric absent federal habit diary";

@@ -1,1 +1,1 @@
-var mnemonic = "animal rapid raw cabbage blind scare portion spread history escape day shuffle";
+var mnemonic = "extra rural brass typical impact price cloth wonder awake between tide dolphin";

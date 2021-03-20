@@ -1,1 +1,1 @@
-var mnemonic = "unit tongue ribbon script polar dragon heavy elegant trash demise ski joy";
+var mnemonic = "mushroom evolve already trip citizen caution song plate seminar state coral blade";

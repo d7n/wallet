@@ -1,1 +1,1 @@
-var mnemonic = "enable ugly general draw stereo copper brain effort solve exchange frog spray";
+var mnemonic = "engage manual dumb engine afraid return click question shiver volcano remain mushroom";

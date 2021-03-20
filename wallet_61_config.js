@@ -1,1 +1,1 @@
-var mnemonic = "rib odor castle tribe must crop differ maple universe pudding purity popular";
+var mnemonic = "arch bike rug reveal section blind tip whale today genuine lobster jealous";

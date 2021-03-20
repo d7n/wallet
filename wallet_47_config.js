@@ -1,1 +1,1 @@
-var mnemonic = "document eternal nature machine scrap dilemma awful grow claim mixture spring sun";
+var mnemonic = "noble between type toddler eagle ranch crash juice firm cool cook clean";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb employ response exchange trim price pluck smile alley lobster open bicycle";
+var mnemonic = "mom theory metal wise hedgehog weird increase buddy leg crush hip moon";

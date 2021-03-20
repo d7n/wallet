@@ -1,1 +1,1 @@
-var mnemonic = "boy measure midnight vessel whip thought business regret various strategy pitch flash";
+var mnemonic = "crawl depth parrot grace figure budget casino oblige always snap fragile limb";

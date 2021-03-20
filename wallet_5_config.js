@@ -1,1 +1,1 @@
-var mnemonic = "situate mass mobile near tobacco spy engine abandon best intact roast body";
+var mnemonic = "year animal bread debate feed artefact split harbor father circle sign story";

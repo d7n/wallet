@@ -1,1 +1,1 @@
-var mnemonic = "bacon stable profit job buffalo abuse vague destroy renew copper life holiday";
+var mnemonic = "stereo shaft abuse west garbage pig fade glance dry odor lonely cram";

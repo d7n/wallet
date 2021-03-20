@@ -1,1 +1,1 @@
-var mnemonic = "lizard fan voyage unable chat swap cube reflect size shallow force angle";
+var mnemonic = "apple mercy grass raw mandate table orchard focus describe used basic donate";

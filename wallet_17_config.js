@@ -1,1 +1,1 @@
-var mnemonic = "parrot chicken wrong parade struggle scorpion tenant noodle ginger bulb place begin";
+var mnemonic = "endless shrimp remind asset nothing lady thing spring feel such doll crane";
