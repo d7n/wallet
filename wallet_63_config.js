@@ -1,1 +1,1 @@
-var mnemonic = "virtual naive spider average accident patrol already drift keen language steel black";
+var mnemonic = "champion year wife post mouse main pen light bundle easy slight patch";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend discover text slogan valve muffin example wage kingdom grid thank ticket";
+var mnemonic = "snow foster panda wave today sight question acoustic fall siege priority service";

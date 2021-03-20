@@ -1,1 +1,1 @@
-var mnemonic = "toe aspect rapid forum wall verb april thrive skin chest tell rack";
+var mnemonic = "average lawsuit fix poverty lunch fury possible pattern cheese orient analyst parade";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin unaware task panda tomorrow curve ivory share bargain yellow renew brush";
+var mnemonic = "major tree fetch situate ski celery educate hope chuckle bitter field onion";

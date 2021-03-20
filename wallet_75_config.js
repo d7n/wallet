@@ -1,1 +1,1 @@
-var mnemonic = "stay elbow tunnel maid answer siren quality liberty common foster bunker style";
+var mnemonic = "resemble hub kid slim witness teach melt reject ladder destroy ill conduct";

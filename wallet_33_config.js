@@ -1,1 +1,1 @@
-var mnemonic = "tissue sibling giant lounge desk stamp badge absurd they excite congress skate";
+var mnemonic = "fire rapid blossom mercy tunnel warm dutch stem cat raise script cruise";

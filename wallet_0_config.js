@@ -1,1 +1,1 @@
-var mnemonic = "either pyramid boat letter hybrid code joy today enemy kangaroo club glad";
+var mnemonic = "dance senior young rose crunch abandon sign relief company skate recipe region";

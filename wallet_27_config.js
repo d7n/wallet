@@ -1,1 +1,1 @@
-var mnemonic = "midnight pluck harbor zone siege clerk fall across manage car task urban";
+var mnemonic = "wedding govern divert pond afford noble just member tide noble aware garment";

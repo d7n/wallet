@@ -1,1 +1,1 @@
-var mnemonic = "boss stable name reveal stay liar cook dumb pig beef aerobic insect";
+var mnemonic = "finish coast ancient cage please raven ill post light bless repeat panel";

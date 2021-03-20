@@ -1,1 +1,1 @@
-var mnemonic = "library typical brown teach obscure ginger gather sick relax inherit tilt near";
+var mnemonic = "mutual rich start stable response lecture lunar phone tiny unfold result conduct";

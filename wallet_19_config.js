@@ -1,1 +1,1 @@
-var mnemonic = "midnight online dust genre curve reform piano butter garment consider fork miss";
+var mnemonic = "hollow stereo rose scout essence chuckle east air diary void upset insane";

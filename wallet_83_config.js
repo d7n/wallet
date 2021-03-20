@@ -1,1 +1,1 @@
-var mnemonic = "token enrich muscle voice online trouble autumn alert library drink aim fix";
+var mnemonic = "race point unknown fix love jeans before rally van flavor final exhaust";

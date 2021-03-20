@@ -1,1 +1,1 @@
-var mnemonic = "wagon rail exact process moral faculty dog real deposit fee hood rail";
+var mnemonic = "usual father struggle safe accident speak cage jealous essence snake fiction logic";

@@ -1,1 +1,1 @@
-var mnemonic = "wall address blue curve elbow aunt trumpet dumb sunset scare pet month";
+var mnemonic = "silk nurse grass scrub crisp town version this brown rare float unit";

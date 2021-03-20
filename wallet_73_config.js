@@ -1,1 +1,1 @@
-var mnemonic = "drop yard lonely gasp obvious name honey series raise answer fee shop";
+var mnemonic = "absorb negative august asset learn vapor insect convince ankle usage below choose";

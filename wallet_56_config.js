@@ -1,1 +1,1 @@
-var mnemonic = "cement update suffer law duty marine nose burst doll box capable poet";
+var mnemonic = "athlete mercy bachelor endless language suspect build orphan damp daughter ketchup polar";

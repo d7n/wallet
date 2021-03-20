@@ -1,1 +1,1 @@
-var mnemonic = "damage grant kiwi stick before puzzle relax live axis model discover inner";
+var mnemonic = "doctor media apology cloth swim apple balcony essay snow clip nation group";

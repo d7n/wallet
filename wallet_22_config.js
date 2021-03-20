@@ -1,1 +1,1 @@
-var mnemonic = "clog nothing lecture assist couple wasp word lock sample foam suffer setup";
+var mnemonic = "elite reopen cream thrive picnic load sell denial moon crucial fan settle";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid daring inform gap ramp mutual circle adjust oven purse online vast";
+var mnemonic = "coyote eternal switch two victory slight slide buddy term main social text";

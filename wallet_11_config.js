@@ -1,1 +1,1 @@
-var mnemonic = "oyster afford machine tray access metal daughter tongue imitate void mistake slot";
+var mnemonic = "region plug refuse illness oyster chief daring protect manage busy ostrich ecology";

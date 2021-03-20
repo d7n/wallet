@@ -1,1 +1,1 @@
-var mnemonic = "abstract lab idea casino program cry forum improve air sell glad deny";
+var mnemonic = "increase inject sibling similar still motion ask upon error force obey convince";

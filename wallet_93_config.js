@@ -1,1 +1,1 @@
-var mnemonic = "story path install hood hint orbit rigid cushion grass enrich know oak";
+var mnemonic = "combine round danger luggage what now drill limit breeze rival rack pave";

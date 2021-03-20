@@ -1,1 +1,1 @@
-var mnemonic = "rhythm wife able donor fork question alarm echo regret decline aisle offer";
+var mnemonic = "grant venture absurd endorse benefit minimum quiz require afraid stick term protect";

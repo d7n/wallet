@@ -1,1 +1,1 @@
-var mnemonic = "immune sail swarm harsh inflict series load undo soda fame radar cart";
+var mnemonic = "cram world pistol broken patient now gift husband cover year umbrella rail";

@@ -1,1 +1,1 @@
-var mnemonic = "action blind lens flag spray advice hungry ancient labor horse hero elite";
+var mnemonic = "spawn donkey under jaguar wrestle capital crystal town shaft tattoo supply tube";

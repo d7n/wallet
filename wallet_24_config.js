@@ -1,1 +1,1 @@
-var mnemonic = "remove table jewel spice note luggage hour tourist example clip offer artist";
+var mnemonic = "april perfect jeans border royal woman surprise attract clerk mistake venture cry";

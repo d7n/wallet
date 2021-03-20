@@ -1,1 +1,1 @@
-var mnemonic = "biology ahead pride pause bus defy decide gesture random wood check deer";
+var mnemonic = "diamond local gown meadow digital umbrella denial say soap pigeon trigger erupt";

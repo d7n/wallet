@@ -1,1 +1,1 @@
-var mnemonic = "universe exile leopard indicate book install sadness eight ensure waste connect lecture";
+var mnemonic = "cover more pulse doctor blame zebra grape subject turkey scorpion track palace";

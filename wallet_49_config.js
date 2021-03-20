@@ -1,1 +1,1 @@
-var mnemonic = "person energy waste then clean avocado gain dignity olive burger arena burden";
+var mnemonic = "that drill segment prevent song toe just end cargo neck own wool";

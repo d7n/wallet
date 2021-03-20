@@ -1,1 +1,1 @@
-var mnemonic = "attract like toward color salad famous economy sustain limb summer worth elite";
+var mnemonic = "muffin wolf wolf bless draw safe lava defy country gallery cluster sad";

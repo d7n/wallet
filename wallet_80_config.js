@@ -1,1 +1,1 @@
-var mnemonic = "scare typical access century collect illegal release fat brand actress sick address";
+var mnemonic = "define flavor nominee engine town sting visa upset symbol crew ski degree";

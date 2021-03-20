@@ -1,1 +1,1 @@
-var mnemonic = "winner service party gift hunt car alarm neck devote entry word distance";
+var mnemonic = "whip metal decorate rice mushroom identify camera guess furnace visual also dizzy";

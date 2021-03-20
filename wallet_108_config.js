@@ -1,1 +1,1 @@
-var mnemonic = "resist bike flower warrior include inspire neutral worry trap cool draw embrace";
+var mnemonic = "bridge process disagree crouch buffalo mansion ceiling odor close rather snow behind";

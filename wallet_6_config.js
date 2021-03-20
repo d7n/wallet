@@ -1,1 +1,1 @@
-var mnemonic = "opera travel toddler rug orient nothing indoor reveal blast turn ghost kit";
+var mnemonic = "era prison act obtain brisk crisp trigger float grocery hope attend about";

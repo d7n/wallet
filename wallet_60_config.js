@@ -1,1 +1,1 @@
-var mnemonic = "escape grid distance mother candy tomato young roof abandon lounge face hawk";
+var mnemonic = "burst immense exile series punch elite sun win spread enrich draft price";

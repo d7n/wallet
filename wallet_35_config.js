@@ -1,1 +1,1 @@
-var mnemonic = "youth ladder volcano potato enrich wisdom charge check common tape cage model";
+var mnemonic = "meat among tilt section electric shell random segment safe anxiety hawk warm";

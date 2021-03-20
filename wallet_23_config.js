@@ -1,1 +1,1 @@
-var mnemonic = "time improve spatial dice seven security message conduct trend egg skin indicate";
+var mnemonic = "science moral bike paddle grow wheel plate beef brush liar gap topic";

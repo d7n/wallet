@@ -1,1 +1,1 @@
-var mnemonic = "drink ability notice auto scale typical keep elder trip crop course cook";
+var mnemonic = "card address love pink body cricket better maximum earn loyal decade cry";

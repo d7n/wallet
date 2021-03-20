@@ -1,1 +1,1 @@
-var mnemonic = "tower typical copy onion once poet sauce scorpion frost group shrug planet";
+var mnemonic = "filter earth hope hill goose enact detect rude owner minute bomb expose";

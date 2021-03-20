@@ -1,1 +1,1 @@
-var mnemonic = "good truly wrong frog inner tide burden lonely find mountain story mistake";
+var mnemonic = "chimney plug emerge fall change icon room dutch cargo magnet devote rival";

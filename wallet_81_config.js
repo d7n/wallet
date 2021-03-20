@@ -1,1 +1,1 @@
-var mnemonic = "tooth comfort science junk smoke outer exclude notable runway merry guess seven";
+var mnemonic = "violin quiz federal acoustic pottery fetch lift index earth burst theme tent";

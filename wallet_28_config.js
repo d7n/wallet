@@ -1,1 +1,1 @@
-var mnemonic = "silver domain want helmet baby sample friend pistol crucial plate crisp enhance";
+var mnemonic = "grunt crazy brave jelly own bird body seven exist special result moral";

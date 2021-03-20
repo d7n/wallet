@@ -1,1 +1,1 @@
-var mnemonic = "pulse boy purchase begin tortoise tomorrow damp drill public portion useful exercise";
+var mnemonic = "embrace grace coffee goose usage cabbage identify average predict dry climb high";

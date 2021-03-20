@@ -1,1 +1,1 @@
-var mnemonic = "draft credit coral volume outside film what problem hip book parrot friend";
+var mnemonic = "rely arrive option harsh marble concert fat clay fog render picnic pink";

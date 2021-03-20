@@ -1,1 +1,1 @@
-var mnemonic = "van melody topple miss scrub above stove fancy bundle gate awkward grid";
+var mnemonic = "problem account nation artefact nothing toward bubble brass enemy provide remind glad";

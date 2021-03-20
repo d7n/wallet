@@ -1,1 +1,1 @@
-var mnemonic = "basket tunnel swift appear quote edit measure thing guide price trip fringe";
+var mnemonic = "peasant stick focus lyrics disorder gas live powder title april toy become";

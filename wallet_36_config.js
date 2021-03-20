@@ -1,1 +1,1 @@
-var mnemonic = "fit someone carbon april arch notable flavor diamond advance smooth mutual asthma";
+var mnemonic = "various rely render draw rhythm patch cover over tip cream fame pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "bid sword fiscal race arm curious join hobby often cry ordinary help";
+var mnemonic = "humor trade song rebel slim fetch tent current this business pass insect";

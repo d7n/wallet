@@ -1,1 +1,1 @@
-var mnemonic = "amount pond attack price energy insect girl pink love warrior admit force";
+var mnemonic = "race panther hand pig picture spider test accuse absorb soup ability party";

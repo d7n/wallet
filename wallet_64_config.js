@@ -1,1 +1,1 @@
-var mnemonic = "economy unhappy crowd legal dress flock apology defense talent royal inquiry typical";
+var mnemonic = "decrease escape obscure picnic ugly essay over train taxi crowd hover food";

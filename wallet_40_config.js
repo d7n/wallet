@@ -1,1 +1,1 @@
-var mnemonic = "bid scout visit cigar cruel bubble demise renew bargain salon couple ghost";
+var mnemonic = "depend mother dove control shop despair attend post anchor rose ceiling flame";

@@ -1,1 +1,1 @@
-var mnemonic = "grace pig ready zero door fetch bird high quarter trend sting health";
+var mnemonic = "pet tomato tool warm penalty garden photo base veteran sausage banana wage";

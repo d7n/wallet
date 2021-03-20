@@ -1,1 +1,1 @@
-var mnemonic = "desert daughter sun labor enlist milk later pride wrist polar slide print";
+var mnemonic = "harvest pizza lumber salt seat auction sugar forget olympic hedgehog barely whale";

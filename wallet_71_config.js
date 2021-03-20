@@ -1,1 +1,1 @@
-var mnemonic = "mad glimpse side canal artwork palace candy huge avoid keen paddle derive";
+var mnemonic = "gravity marine erase divide bargain leave wrap badge hospital glow canvas lucky";

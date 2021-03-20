@@ -1,1 +1,1 @@
-var mnemonic = "correct balcony fault student laugh frog much distance ancient jar three whale";
+var mnemonic = "brave canyon like there drop machine feed bottom claim weekend social stick";

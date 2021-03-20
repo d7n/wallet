@@ -1,1 +1,1 @@
-var mnemonic = "ribbon success dinner oil detect output perfect bulb cart hover fence bless";
+var mnemonic = "exact antique viable job olympic hood similar gesture bar onion argue begin";

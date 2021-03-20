@@ -1,1 +1,1 @@
-var mnemonic = "option kidney dilemma lottery fire wave nerve ticket virtual message retire share";
+var mnemonic = "settle genre loan author problem glimpse match pepper medal april short artefact";

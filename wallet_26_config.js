@@ -1,1 +1,1 @@
-var mnemonic = "cheese control illegal give deal swing wonder six calm modify foster staff";
+var mnemonic = "bullet later space balance toy laptop tide century mask zebra weather goose";

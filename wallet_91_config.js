@@ -1,1 +1,1 @@
-var mnemonic = "moon alpha very jeans bundle boat heavy major ripple crowd toddler unknown";
+var mnemonic = "shadow borrow young neutral month climb tattoo easily three produce damage pledge";

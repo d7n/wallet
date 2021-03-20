@@ -1,1 +1,1 @@
-var mnemonic = "such latin civil act visa near display guide festival clutch spend tip";
+var mnemonic = "salmon hungry begin fine key stamp session decide merge wrestle subject olympic";

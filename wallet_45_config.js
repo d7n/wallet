@@ -1,1 +1,1 @@
-var mnemonic = "often treat lobster scout afford loyal rich dutch lake hair frown hotel";
+var mnemonic = "casino hazard argue fold easy region menu quote shop state section project";

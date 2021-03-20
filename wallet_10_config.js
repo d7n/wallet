@@ -1,1 +1,1 @@
-var mnemonic = "release choice duty thunder transfer sphere wait donor desk theme enter upset";
+var mnemonic = "unknown wear tilt mouse shallow eight field concert system base stadium slush";

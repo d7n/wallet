@@ -1,1 +1,1 @@
-var mnemonic = "boring height spice receive foam swarm chief such quick tip test seek";
+var mnemonic = "corn train abstract promote hamster basic solution ice surge make witness catalog";

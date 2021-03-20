@@ -1,1 +1,1 @@
-var mnemonic = "refuse aim goose certain real ladder august host cloth piano situate august";
+var mnemonic = "room wisdom obtain april tiny when maid whip bronze year eight sustain";

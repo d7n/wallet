@@ -1,1 +1,1 @@
-var mnemonic = "addict sausage test pass unknown hazard size remain salad syrup method lemon";
+var mnemonic = "biology diagram embrace pulse middle column memory retreat very island hollow diesel";

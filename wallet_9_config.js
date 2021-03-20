@@ -1,1 +1,1 @@
-var mnemonic = "absurd admit will bind want disagree inquiry stone amazing jaguar stock brick";
+var mnemonic = "soup flush also reward success yard bird enter earn body income destroy";

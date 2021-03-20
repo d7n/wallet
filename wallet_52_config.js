@@ -1,1 +1,1 @@
-var mnemonic = "reason agent okay snake resist ranch endless spend worth east group old";
+var mnemonic = "hire hurt venue perfect cake pattern promote left addict crazy question strike";

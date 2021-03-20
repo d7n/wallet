@@ -1,1 +1,1 @@
-var mnemonic = "salon history emerge bag average way student firm brush swallow render flip";
+var mnemonic = "good tank opera avoid vapor rapid jacket flower size obvious album release";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle empty boring grow predict old trick when comfort tissue muscle spare";
+var mnemonic = "scene enlist beauty waste science anxiety two output region since joke test";

@@ -1,1 +1,1 @@
-var mnemonic = "thank dove switch citizen kitten home century broccoli agree when home pretty";
+var mnemonic = "inhale ride garbage vault truth ostrich egg humble adult torch park scrub";

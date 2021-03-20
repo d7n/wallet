@@ -1,1 +1,1 @@
-var mnemonic = "opera rack genuine mail future survey letter neglect truth gossip fragile price";
+var mnemonic = "observe clerk thank fruit skin december old soda version can outer soldier";

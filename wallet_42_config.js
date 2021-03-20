@@ -1,1 +1,1 @@
-var mnemonic = "little ketchup call unit canvas seek day beauty source hint room visa";
+var mnemonic = "almost blur network ridge gym rare honey release sibling quit lawsuit hedgehog";

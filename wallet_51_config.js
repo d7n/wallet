@@ -1,1 +1,1 @@
-var mnemonic = "target place tomato glide toward wrong result citizen wreck budget solar hat";
+var mnemonic = "core liberty fashion equip genius enter service cheap plunge lock token game";

@@ -1,1 +1,1 @@
-var mnemonic = "sting cattle spare invite rapid double slogan elbow emotion fragile eternal chief";
+var mnemonic = "senior shy focus camera over punch human hamster elevator brand heavy believe";

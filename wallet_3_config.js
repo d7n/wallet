@@ -1,1 +1,1 @@
-var mnemonic = "glory author myth exclude deposit doctor menu rabbit steel vendor process broom";
+var mnemonic = "auto village pull session dilemma mean hand talent royal veteran farm mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "wire cute strong inherit board eagle calm evolve before roast view author";
+var mnemonic = "clog truck number barrel recycle banner extend ticket wood faint word proud";

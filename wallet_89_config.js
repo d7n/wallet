@@ -1,1 +1,1 @@
-var mnemonic = "claim company easy spot provide soon marriage renew nurse humble vacuum hawk";
+var mnemonic = "illegal surface law unique basic goose pilot segment isolate mercy warm cattle";

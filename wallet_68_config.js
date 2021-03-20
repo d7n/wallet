@@ -1,1 +1,1 @@
-var mnemonic = "milk smile garage tattoo axis dawn orient devote right shift spirit chest";
+var mnemonic = "pepper drink collect eye clog ring dentist injury august law thought fever";

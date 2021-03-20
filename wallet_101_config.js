@@ -1,1 +1,1 @@
-var mnemonic = "transfer increase eyebrow flight raccoon camp pumpkin future enlist they best boat";
+var mnemonic = "van author title chest write october leopard marine vibrant draft version flip";

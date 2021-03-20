@@ -1,1 +1,1 @@
-var mnemonic = "benefit clown metal shallow small sand basic column prize donkey finish toss";
+var mnemonic = "inform pulse person connect admit horn silk tennis hamster sun spring decide";

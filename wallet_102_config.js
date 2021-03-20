@@ -1,1 +1,1 @@
-var mnemonic = "stem indicate sustain shy salt cruise kick erase web spell bean issue";
+var mnemonic = "battle snap security cram acid twenty trigger chapter question neutral play then";

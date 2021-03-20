@@ -1,1 +1,1 @@
-var mnemonic = "any else nephew this indoor cart host float river corn bounce manual";
+var mnemonic = "exhaust kiwi leopard squeeze become fat try arch cradle monkey wealth process";

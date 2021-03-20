@@ -1,1 +1,1 @@
-var mnemonic = "timber fuel enact shoot erosion key kiss allow love layer ladder indoor";
+var mnemonic = "divert weapon grocery zone umbrella renew chalk pattern together review slim bundle";

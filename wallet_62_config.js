@@ -1,1 +1,1 @@
-var mnemonic = "alert run cargo marine result board action suspect clump measure lemon kiss";
+var mnemonic = "eagle april dice gesture deal insect toward short twenty cannon globe beef";

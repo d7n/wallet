@@ -1,1 +1,1 @@
-var mnemonic = "very guilt enhance scatter document hen vote little math virus ethics one";
+var mnemonic = "asthma wire swear unique someone skill regret core eye awake sweet fall";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble stamp wedding cave heavy always script also nerve bag sister promote";
+var mnemonic = "tilt chicken tiny chief transfer around remind olive nominee powder sketch maid";

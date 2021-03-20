@@ -1,1 +1,1 @@
-var mnemonic = "another owner hybrid guess document crumble poet elbow else faint ship equal";
+var mnemonic = "peace abandon film meadow oppose will happy garlic urge parent bread lesson";

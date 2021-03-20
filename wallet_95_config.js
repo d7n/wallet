@@ -1,1 +1,1 @@
-var mnemonic = "nature slot hello movie boring soul practice pride rabbit sign slam million";
+var mnemonic = "version cushion wolf ankle soon desert drip noble royal beach duty excite";

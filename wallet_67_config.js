@@ -1,1 +1,1 @@
-var mnemonic = "frozen steak hour popular army will mean faint state immense street book";
+var mnemonic = "myth around eager together master october rate tooth live leader stereo like";

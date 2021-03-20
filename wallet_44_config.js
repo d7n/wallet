@@ -1,1 +1,1 @@
-var mnemonic = "snake ridge razor profit spirit betray region sea moment also shrug cliff";
+var mnemonic = "food expire mystery inflict twelve visit solve okay warfare process tell prevent";

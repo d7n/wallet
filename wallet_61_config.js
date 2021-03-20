@@ -1,1 +1,1 @@
-var mnemonic = "vanish practice join unique close paddle embody ghost link pave lounge push";
+var mnemonic = "predict middle release that deposit neither bunker common oyster sort expect raven";

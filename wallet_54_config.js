@@ -1,1 +1,1 @@
-var mnemonic = "warfare unveil venue fold august ankle angle pencil industry illness echo dose";
+var mnemonic = "search bid sleep negative gospel strategy what cancel february slow okay pair";

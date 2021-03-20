@@ -1,1 +1,1 @@
-var mnemonic = "surprise yellow neutral amused glow scatter marriage bracket cigar ocean bring place";
+var mnemonic = "announce fitness bunker enrich ritual crazy aisle welcome ozone win since entire";

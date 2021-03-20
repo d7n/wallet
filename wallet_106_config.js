@@ -1,1 +1,1 @@
-var mnemonic = "eternal patch donkey cigar distance problem purse youth snap misery fit guitar";
+var mnemonic = "crunch original outdoor wrong sausage forum quarter parent rival tide black power";
