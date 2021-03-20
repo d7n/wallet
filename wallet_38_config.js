@@ -1,1 +1,1 @@
-var mnemonic = "solution path ship bike outdoor scene utility meadow catch sail celery open";
+var mnemonic = "lecture angry shield damage guard tiger domain deliver cycle swim primary cruise";

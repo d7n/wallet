@@ -1,1 +1,1 @@
-var mnemonic = "term wagon apple flat excuse toward step cinnamon ghost canvas exchange damp";
+var mnemonic = "hello cat erupt vibrant rug trust base detail avocado bachelor law exchange";

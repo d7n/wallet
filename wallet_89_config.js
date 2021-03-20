@@ -1,1 +1,1 @@
-var mnemonic = "space border anchor gallery sea echo moment valley antenna ahead replace square";
+var mnemonic = "number unlock budget mercy lecture champion rubber nature speak link library soon";

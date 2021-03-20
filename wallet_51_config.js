@@ -1,1 +1,1 @@
-var mnemonic = "frown bullet right inch slim eager impose lyrics image glass alpha foster";
+var mnemonic = "depart box save offer design notice scrub receive noble fancy icon awake";

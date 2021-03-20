@@ -1,1 +1,1 @@
-var mnemonic = "strategy talk jealous heart seed know pledge illegal rival festival convince crawl";
+var mnemonic = "define next rigid dove average stand dice rather subway vivid hello clown";

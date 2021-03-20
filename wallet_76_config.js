@@ -1,1 +1,1 @@
-var mnemonic = "garage machine citizen gain dilemma wine smoke improve jump twice bracket vapor";
+var mnemonic = "nut want collect make believe still start salute hero across review ice";

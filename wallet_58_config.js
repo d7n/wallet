@@ -1,1 +1,1 @@
-var mnemonic = "fire apology identify absurd tired enough refuse venture return slide matter special";
+var mnemonic = "rather baby later jewel hidden evolve between sample phone three retire praise";

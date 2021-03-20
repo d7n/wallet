@@ -1,1 +1,1 @@
-var mnemonic = "demand effort payment horn maid syrup runway visual odor order know road";
+var mnemonic = "admit wink ahead volcano include wage entire wet final place obtain lift";

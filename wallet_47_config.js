@@ -1,1 +1,1 @@
-var mnemonic = "portion fetch mask scissors squeeze rather spend wise bright journey page trigger";
+var mnemonic = "debate adjust assume like silk jealous group nest fish honey endorse rural";

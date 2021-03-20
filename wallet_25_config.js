@@ -1,1 +1,1 @@
-var mnemonic = "image coast pill method evil drama clock biology trumpet ahead enhance blast";
+var mnemonic = "marriage mercy evidence food slot cruel medal inhale duck century spy artefact";

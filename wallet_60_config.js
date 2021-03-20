@@ -1,1 +1,1 @@
-var mnemonic = "master measure emotion wrist wall tilt wide addict output raccoon security wait";
+var mnemonic = "initial note crack snack radar mean obey ring floor shoot wasp polar";

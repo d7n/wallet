@@ -1,1 +1,1 @@
-var mnemonic = "shoulder earn alpha enforce monster loan govern express among summer fitness laundry";
+var mnemonic = "skill crystal north prepare radio magnet plate weapon flee shoe honey power";

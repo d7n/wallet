@@ -1,1 +1,1 @@
-var mnemonic = "short erase whip police garlic kidney zoo awkward distance front brief roof";
+var mnemonic = "assist wolf winter jungle pioneer loop gesture prize undo found dove intact";

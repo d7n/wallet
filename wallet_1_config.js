@@ -1,1 +1,1 @@
-var mnemonic = "ignore scrub reopen shrug cage bullet orange frozen misery weapon length legend";
+var mnemonic = "where toilet blush robust host pool industry grab feed cool exchange student";

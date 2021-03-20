@@ -1,1 +1,1 @@
-var mnemonic = "cup dress large harbor lens fitness great indoor option castle tomato asset";
+var mnemonic = "visual ladder present beauty unlock between soda erode person marine language casino";

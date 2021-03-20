@@ -1,1 +1,1 @@
-var mnemonic = "assault scan chair soccer uniform opera awake company collect devote unveil search";
+var mnemonic = "pelican logic deliver steel observe recycle outer range flip amount burger old";

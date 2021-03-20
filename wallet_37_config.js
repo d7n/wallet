@@ -1,1 +1,1 @@
-var mnemonic = "way stumble window season runway scan material ensure era reunion river satoshi";
+var mnemonic = "usage exist useless toward joy shine ketchup pride seek today naive session";

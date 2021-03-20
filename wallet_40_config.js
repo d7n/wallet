@@ -1,1 +1,1 @@
-var mnemonic = "sausage smart industry example nest moment owner army increase much spatial twice";
+var mnemonic = "elephant side outer purity venture armed come pyramid tunnel praise guitar this";

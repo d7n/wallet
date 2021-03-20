@@ -1,1 +1,1 @@
-var mnemonic = "vast fever income moon write sphere destroy energy awful coil gorilla payment";
+var mnemonic = "trap key smoke fence change reopen job peace fault rookie okay vapor";

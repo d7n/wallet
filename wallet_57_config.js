@@ -1,1 +1,1 @@
-var mnemonic = "essay staff sentence voice maze pull ostrich twin split praise later denial";
+var mnemonic = "document brief chest castle blouse glove erase remind play tag provide pulse";

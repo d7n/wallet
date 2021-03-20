@@ -1,1 +1,1 @@
-var mnemonic = "thumb chase eight robust cute spread feel frost age bronze chaos clown";
+var mnemonic = "expire federal hedgehog armed rent worry lobster arena recycle stage roof giraffe";

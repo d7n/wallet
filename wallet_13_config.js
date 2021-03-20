@@ -1,1 +1,1 @@
-var mnemonic = "giraffe wink ready usage cost ill army category weird fatal tray dish";
+var mnemonic = "crew current ankle very close time ten loop noodle sand unfair lamp";

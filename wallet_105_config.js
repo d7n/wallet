@@ -1,1 +1,1 @@
-var mnemonic = "dash throw maid mom column rich praise super wrap security squeeze away";
+var mnemonic = "obey claw project suggest code try click almost circle together crop party";

@@ -1,1 +1,1 @@
-var mnemonic = "host sadness demise stool bitter slush garment sure garment robot blast dwarf";
+var mnemonic = "crucial toilet fluid network scrub van work wife end focus easy risk";

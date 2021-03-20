@@ -1,1 +1,1 @@
-var mnemonic = "virus orphan attitude toy between scare path tape lawsuit brave describe cake";
+var mnemonic = "best exotic trap custom bless bag begin cat model mixed such silly";

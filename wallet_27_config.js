@@ -1,1 +1,1 @@
-var mnemonic = "wave follow hunt dutch direct ripple horse banner must frame identify love";
+var mnemonic = "choose betray tattoo celery captain quote ramp filter hill dawn ring drink";

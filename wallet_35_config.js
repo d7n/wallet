@@ -1,1 +1,1 @@
-var mnemonic = "say rib dash pudding hungry damage erode follow addict own analyst valve";
+var mnemonic = "illegal winter lazy tobacco roof brass you iron chunk business daughter arrange";

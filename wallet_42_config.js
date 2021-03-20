@@ -1,1 +1,1 @@
-var mnemonic = "liar normal still release screen fluid pitch stove dentist pause hint circle";
+var mnemonic = "surround garage gauge grit height student elder card echo tenant piano wise";

@@ -1,1 +1,1 @@
-var mnemonic = "dust scorpion artist tent near angry drama insane robust blame agree regret";
+var mnemonic = "open average have credit devote asset suspect olive output rent kingdom shell";

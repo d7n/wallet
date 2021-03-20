@@ -1,1 +1,1 @@
-var mnemonic = "earn witness history process decorate quantum super pattern silly other admit often";
+var mnemonic = "lab ability cancel evolve jar hobby kit resource music unhappy reduce increase";

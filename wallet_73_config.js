@@ -1,1 +1,1 @@
-var mnemonic = "pulse usual smoke coil razor excite life evolve symbol hawk feel below";
+var mnemonic = "robot artist mixture receive material urban clutch title million differ entry census";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk enact length boil total inquiry rubber wait fan wire volume correct";
+var mnemonic = "mixture fortune fragile soft hen foil old energy skirt shiver fold attend";

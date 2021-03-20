@@ -1,1 +1,1 @@
-var mnemonic = "basic unlock rifle picture issue chat excuse garden limb private bottom grass";
+var mnemonic = "ranch dentist sorry fly gloom trumpet math flash behind virus industry diary";

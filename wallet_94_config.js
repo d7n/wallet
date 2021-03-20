@@ -1,1 +1,1 @@
-var mnemonic = "blossom company must sweet other hotel awake access before cement fix divide";
+var mnemonic = "wink enable turn eagle universe arrange silent jaguar detect song wild mosquito";

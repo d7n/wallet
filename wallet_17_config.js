@@ -1,1 +1,1 @@
-var mnemonic = "nephew like toe uncle normal pink early predict siren grab section tribe";
+var mnemonic = "immense age anchor sausage age lyrics butter know exclude double bar flash";

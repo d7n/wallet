@@ -1,1 +1,1 @@
-var mnemonic = "boil response middle zebra double kick mechanic raise speak sight spider zoo";
+var mnemonic = "unit denial wild vault path banner glow blossom famous kitten spike hundred";

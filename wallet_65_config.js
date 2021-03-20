@@ -1,1 +1,1 @@
-var mnemonic = "supreme nuclear anxiety city universe grunt veteran update intact deny mad rib";
+var mnemonic = "please toddler pioneer mom wash such abstract morning provide kind genuine cook";

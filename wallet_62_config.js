@@ -1,1 +1,1 @@
-var mnemonic = "rhythm weird text card bread two jacket purity engine safe elder cluster";
+var mnemonic = "refuse margin bring match account tool owner voyage item fuel trim jar";

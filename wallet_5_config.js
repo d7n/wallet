@@ -1,1 +1,1 @@
-var mnemonic = "palace place photo sand melt margin leaf museum flavor alley saddle rely";
+var mnemonic = "duty cereal amount concert scrub manual fall gown net total roast jungle";

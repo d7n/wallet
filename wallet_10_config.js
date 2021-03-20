@@ -1,1 +1,1 @@
-var mnemonic = "wealth flavor grocery pass decide whip piano lumber helmet steel rack edge";
+var mnemonic = "initial debate sheriff belt crush decorate doctor saddle meadow mouse rookie man";

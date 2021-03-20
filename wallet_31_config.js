@@ -1,1 +1,1 @@
-var mnemonic = "clutch often nasty book paddle phrase gain crunch asset alcohol rely dolphin";
+var mnemonic = "grid output faith crouch topic avocado original coyote tooth anchor ceiling melody";

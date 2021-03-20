@@ -1,1 +1,1 @@
-var mnemonic = "steel siege frost crouch illness cluster panda tube gate reward twenty double";
+var mnemonic = "planet language tired safe dumb initial ginger squirrel capital earth kingdom network";

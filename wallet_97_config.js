@@ -1,1 +1,1 @@
-var mnemonic = "learn work approve unaware wasp lunch fitness jump mixture assault million cat";
+var mnemonic = "ill razor key diesel ribbon excite portion same melt double cabin game";

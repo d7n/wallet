@@ -1,1 +1,1 @@
-var mnemonic = "off all okay length name lumber together fuel slide today orange friend";
+var mnemonic = "rotate comfort crisp sick fossil purchase foot avocado vendor furnace work harbor";

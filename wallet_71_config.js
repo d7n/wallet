@@ -1,1 +1,1 @@
-var mnemonic = "shoe accident toddler venture path acoustic casino tobacco chaos pattern okay coast";
+var mnemonic = "embark foil worth dinner lion hover tray deer couple achieve athlete fancy";

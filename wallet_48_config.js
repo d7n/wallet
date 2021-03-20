@@ -1,1 +1,1 @@
-var mnemonic = "carbon another turn problem agent truck open blood image chapter turtle glad";
+var mnemonic = "strong nasty enlist hand verb diet joy physical guide enforce casino trend";

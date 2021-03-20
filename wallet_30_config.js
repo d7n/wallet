@@ -1,1 +1,1 @@
-var mnemonic = "tattoo strategy repeat clock dismiss favorite permit oak rich panic view broken";
+var mnemonic = "chicken tenant penalty object polar bamboo matter sunny flag share below depend";

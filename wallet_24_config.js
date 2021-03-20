@@ -1,1 +1,1 @@
-var mnemonic = "hollow siren empty wrist say close indicate demand nation green harvest major";
+var mnemonic = "captain dilemma mirror cute detail base shock helmet dutch obscure churn idea";

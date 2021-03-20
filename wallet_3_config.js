@@ -1,1 +1,1 @@
-var mnemonic = "layer session social leisure tuition host endless useful green diamond sausage room";
+var mnemonic = "head flee industry battle medal dose antenna exercise nation sweet lottery width";

@@ -1,1 +1,1 @@
-var mnemonic = "balance daring destroy island ghost know ranch popular alcohol palm hospital embody";
+var mnemonic = "gravity filter midnight deposit canoe rescue distance random mango slab around merit";

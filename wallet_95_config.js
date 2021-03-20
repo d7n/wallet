@@ -1,1 +1,1 @@
-var mnemonic = "topple amazing vacuum crumble castle benefit custom budget worry kid fitness until";
+var mnemonic = "portion forum betray garlic auto frequent silent demise please shell crush pull";

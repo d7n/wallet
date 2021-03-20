@@ -1,1 +1,1 @@
-var mnemonic = "attend treat attitude coyote moral west catch ankle pupil sketch dance pair";
+var mnemonic = "rescue rocket skirt trigger normal idle potato catalog random agree sad supreme";

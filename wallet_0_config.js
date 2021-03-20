@@ -1,1 +1,1 @@
-var mnemonic = "pull place bread ankle dice pond snake crash tobacco grape almost bronze";
+var mnemonic = "supply roast cool weekend happy panda exile elegant else curtain strong parade";

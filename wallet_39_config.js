@@ -1,1 +1,1 @@
-var mnemonic = "deposit behave unit final regular pelican frequent core alien sentence lens portion";
+var mnemonic = "shuffle develop provide two industry all surprise fog attack dry mixed indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic alcohol region arrest tray grant cigar unable situate boat payment pepper";
+var mnemonic = "tomato brown relax sauce mean giant draw kit radio supply hospital butter";

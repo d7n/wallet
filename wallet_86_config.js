@@ -1,1 +1,1 @@
-var mnemonic = "wear success rain start attend honey casino hire base ostrich guard never";
+var mnemonic = "ticket deal rally march zone sing hub oil flight borrow wisdom cash";

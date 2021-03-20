@@ -1,1 +1,1 @@
-var mnemonic = "orange mention calm divide device second logic delay eternal lava moment wheat";
+var mnemonic = "mosquito own immense daring sadness road cupboard gown walnut chimney bunker clutch";

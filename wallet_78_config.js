@@ -1,1 +1,1 @@
-var mnemonic = "receive judge file frown rich amount inmate typical forum when joy approve";
+var mnemonic = "hair focus bunker cram actual stem ill deny turtle provide cute blossom";

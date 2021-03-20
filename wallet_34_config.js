@@ -1,1 +1,1 @@
-var mnemonic = "ten powder abuse robust shift potato trophy leisure together economy label around";
+var mnemonic = "alone raw hip elite pet omit position nest wing retreat orange cute";

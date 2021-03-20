@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog stereo hotel blame moment immense sight grab run prevent fence canoe";
+var mnemonic = "viable miracle lesson river vast extend mistake yard vacant ability debate hood";

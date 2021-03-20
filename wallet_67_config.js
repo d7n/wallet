@@ -1,1 +1,1 @@
-var mnemonic = "engine illness link include north fade river mother neither bullet giraffe demand";
+var mnemonic = "goddess minute heavy alley abstract dragon series avoid vault paddle indicate flame";

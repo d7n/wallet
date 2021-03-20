@@ -1,1 +1,1 @@
-var mnemonic = "source blush icon same index salt brush trade action capable audit sadness";
+var mnemonic = "cluster crunch street purpose piece pond fan future rifle limit stone win";

@@ -1,1 +1,1 @@
-var mnemonic = "copper lazy humble runway among protect subject basic parent slender crime carry";
+var mnemonic = "sniff crash problem zero business unable fruit until author cinnamon merry person";

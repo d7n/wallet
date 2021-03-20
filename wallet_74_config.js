@@ -1,1 +1,1 @@
-var mnemonic = "pupil spring alarm fox exist wood mouse human loan interest fault shock";
+var mnemonic = "jacket canal chalk outer shell critic leader story sunny spike funny wheat";

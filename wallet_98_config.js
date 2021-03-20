@@ -1,1 +1,1 @@
-var mnemonic = "habit goat increase coach vocal type task business coyote degree when auction";
+var mnemonic = "reveal benefit hero crop render correct fat guess color phone labor figure";

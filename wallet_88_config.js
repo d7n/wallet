@@ -1,1 +1,1 @@
-var mnemonic = "minimum over swear absorb upgrade payment seat comfort bike shift where treat";
+var mnemonic = "happy unhappy diary pigeon daughter avoid genre demand puppy rug monkey ill";

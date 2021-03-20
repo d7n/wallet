@@ -1,1 +1,1 @@
-var mnemonic = "style almost toward honey stuff axis hen slam rib slot tumble hard";
+var mnemonic = "ensure panda sound obscure laundry present oxygen call vanish amount team stick";

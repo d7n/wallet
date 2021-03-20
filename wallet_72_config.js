@@ -1,1 +1,1 @@
-var mnemonic = "glide nut tuna pledge double labor can little helmet cliff prosper north";
+var mnemonic = "pencil bounce raccoon hospital inquiry identify suggest lab sorry sentence student check";

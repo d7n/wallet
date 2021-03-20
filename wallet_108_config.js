@@ -1,1 +1,1 @@
-var mnemonic = "arrange tip liar color broom steel blame knife tomorrow brain stool defy";
+var mnemonic = "wrap vast sheriff onion hungry throw hollow auto notable arrive caught fiscal";

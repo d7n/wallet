@@ -1,1 +1,1 @@
-var mnemonic = "amused airport state middle cricket replace feed join solve water evoke february";
+var mnemonic = "need fall version staff birth image income avoid report dizzy track biology";

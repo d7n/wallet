@@ -1,1 +1,1 @@
-var mnemonic = "taxi affair hammer since bring point knock ugly laptop popular antique analyst";
+var mnemonic = "soup fuel kiwi upset drop bitter pole game stock case raw science";

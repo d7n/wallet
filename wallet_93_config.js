@@ -1,1 +1,1 @@
-var mnemonic = "march swarm spot safe shine print federal disagree perfect eye permit surround";
+var mnemonic = "snow aware paddle steak shrimp vehicle hawk ten humble license board anger";

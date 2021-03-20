@@ -1,1 +1,1 @@
-var mnemonic = "plunge arch two banana ice save album slam hood that smoke slide";
+var mnemonic = "code delay push legend ranch donor calm filter flag cost small solution";

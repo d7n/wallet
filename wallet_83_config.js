@@ -1,1 +1,1 @@
-var mnemonic = "fashion payment miracle spice time try siren rocket aunt cigar space morning";
+var mnemonic = "cart garlic vital bronze entry marine tool rose disorder sunset rigid salmon";

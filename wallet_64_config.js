@@ -1,1 +1,1 @@
-var mnemonic = "spoon noble patrol upgrade thought lab dance unknown cross vapor final material";
+var mnemonic = "bring blue recall letter spice kind absurd atom float arrange estate seat";

@@ -1,1 +1,1 @@
-var mnemonic = "advice dutch jewel reason report legend kit click trouble settle dance pause";
+var mnemonic = "thing estate egg ask fit embody frost dial garden brain rely before";

@@ -1,1 +1,1 @@
-var mnemonic = "topple must egg december nature sadness wish build blur license slot hotel";
+var mnemonic = "injury bounce avoid hidden bracket battle bunker buyer embark run toe ripple";

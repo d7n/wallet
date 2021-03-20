@@ -1,1 +1,1 @@
-var mnemonic = "punch ranch swing identify describe sure notable logic soon evidence will six";
+var mnemonic = "bundle guard hero garden ancient green bonus choice oblige vapor vivid armor";

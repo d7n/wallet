@@ -1,1 +1,1 @@
-var mnemonic = "hub hidden satoshi possible seminar enable ozone absorb present chicken broken escape";
+var mnemonic = "move hope sound protect run mouse venue patrol harbor couch visa begin";

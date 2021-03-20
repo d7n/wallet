@@ -1,1 +1,1 @@
-var mnemonic = "village window avocado soldier legal unique forest hundred scatter ghost fresh chief";
+var mnemonic = "mom primary fragile cigar amateur fade wait actual resource faculty humor vicious";

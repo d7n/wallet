@@ -1,1 +1,1 @@
-var mnemonic = "legend high collect bring chat three clump exact swing urban reflect tattoo";
+var mnemonic = "code dolphin kiss small upgrade lucky spend erosion soul fatal toe develop";

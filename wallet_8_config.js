@@ -1,1 +1,1 @@
-var mnemonic = "box security actor unfold raccoon wine exhibit life festival approve clutch eternal";
+var mnemonic = "crater wreck comic naive fossil sword ginger doll elephant surge fault manual";

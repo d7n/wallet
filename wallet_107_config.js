@@ -1,1 +1,1 @@
-var mnemonic = "hold ill retire upper renew just museum apology theme raise strike mandate";
+var mnemonic = "cloth ethics symbol method office lake nice hover chuckle destroy hip panel";

@@ -1,1 +1,1 @@
-var mnemonic = "across system bamboo stem riot make exhibit faint prison butter control quit";
+var mnemonic = "pepper general gas sign pyramid income smart inflict phone hard sibling mystery";

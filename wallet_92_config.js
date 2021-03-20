@@ -1,1 +1,1 @@
-var mnemonic = "casual grid curtain hospital giraffe rug digital monster picture toe absent mother";
+var mnemonic = "road volcano annual picture online purpose tent flame neck fish curious rival";

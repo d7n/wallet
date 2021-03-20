@@ -1,1 +1,1 @@
-var mnemonic = "upon canyon butter embark service oblige feed peanut tray rural obscure predict";
+var mnemonic = "guitar panda odor bright deer short boy develop rival eyebrow devote crack";
