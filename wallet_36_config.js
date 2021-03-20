@@ -1,1 +1,1 @@
-var mnemonic = "genre lava hybrid execute home company gate blossom notice interest net hotel";
+var mnemonic = "dignity mixed stage road fluid ball fortune express captain club skull whip";

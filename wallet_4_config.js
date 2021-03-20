@@ -1,1 +1,1 @@
-var mnemonic = "electric already mango current nominee embrace certain shift shuffle silk end price";
+var mnemonic = "disease neglect purpose hair gas globe hip boy rotate host sweet begin";

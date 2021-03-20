@@ -1,1 +1,1 @@
-var mnemonic = "say ladder economy cousin tired ability robot duty weather gauge stable cook";
+var mnemonic = "embrace valve motion valve assist fitness like cinnamon fluid grid snake tortoise";

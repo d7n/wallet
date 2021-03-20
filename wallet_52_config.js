@@ -1,1 +1,1 @@
-var mnemonic = "crumble myself neutral stable cancel door waste meat click govern fossil whisper";
+var mnemonic = "laptop misery castle huge jazz woman select motor claw high eager radar";

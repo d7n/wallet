@@ -1,1 +1,1 @@
-var mnemonic = "peanut hand lesson cost boring miss check drastic relief tent loan brush";
+var mnemonic = "actress trick milk door demise canvas timber fold absent twice love nut";

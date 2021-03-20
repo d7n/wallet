@@ -1,1 +1,1 @@
-var mnemonic = "snake barely river bubble behave erosion one blanket column mandate scout mobile";
+var mnemonic = "faith dumb true mask glass hybrid collect illegal program bag scatter depart";

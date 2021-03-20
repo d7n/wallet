@@ -1,1 +1,1 @@
-var mnemonic = "risk write heart reward rack firm gas version lend fun degree arrest";
+var mnemonic = "magnet maze polar metal oven grunt gravity method comfort kidney weird garbage";

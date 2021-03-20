@@ -1,1 +1,1 @@
-var mnemonic = "patient amused leg target cloud upon cheap essay library thing lazy lecture";
+var mnemonic = "plunge again senior calm armor smoke advance torch riot spoil feed electric";

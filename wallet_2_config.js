@@ -1,1 +1,1 @@
-var mnemonic = "animal leg refuse cherry amazing list gentle salad thumb grow toy ring";
+var mnemonic = "token belt blood bacon rice front buyer ride copper toss hip acid";

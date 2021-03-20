@@ -1,1 +1,1 @@
-var mnemonic = "bicycle shoot patch foam suggest mammal duty december film marriage build bone";
+var mnemonic = "loan oblige multiply crew useless jump wrist hire then destroy despair round";

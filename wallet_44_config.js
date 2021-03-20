@@ -1,1 +1,1 @@
-var mnemonic = "ritual basket lazy bicycle shoot grit pact rice payment excess equal seat";
+var mnemonic = "giggle loud mystery iron garbage avoid gossip mango index grain park expire";

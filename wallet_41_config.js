@@ -1,1 +1,1 @@
-var mnemonic = "add copper seven response black erode denial viable absent payment fever daughter";
+var mnemonic = "chicken enjoy course wrist toilet ankle wild exercise awful mention second level";

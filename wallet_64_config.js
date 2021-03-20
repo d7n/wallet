@@ -1,1 +1,1 @@
-var mnemonic = "junk recall carbon company crush nominee remove vivid surge render picture you";
+var mnemonic = "wood october oak matter echo total umbrella mixed accident kitten gesture library";

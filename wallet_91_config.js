@@ -1,1 +1,1 @@
-var mnemonic = "begin cinnamon melt pledge lucky must style angle actual snow marriage spy";
+var mnemonic = "joy battle observe inflict regret busy ethics jump record shrug forest sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "gold seat nothing fury carry rhythm warrior very salute until head prefer";
+var mnemonic = "stairs sword shell rent brick today stable rally open ramp dirt salad";

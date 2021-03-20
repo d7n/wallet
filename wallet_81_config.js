@@ -1,1 +1,1 @@
-var mnemonic = "find enforce fun stool decide another shell come cliff win junk shop";
+var mnemonic = "face eagle report tail token traffic twice save memory talent regular island";

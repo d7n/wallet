@@ -1,1 +1,1 @@
-var mnemonic = "priority depart exhibit pitch remind exotic disorder stumble rabbit youth ginger interest";
+var mnemonic = "squirrel gasp team gate resist fiction bread share razor magnet soap stable";

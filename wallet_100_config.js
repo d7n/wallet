@@ -1,1 +1,1 @@
-var mnemonic = "goddess slender guilt lamp bulk awful economy raise interest ginger goat body";
+var mnemonic = "again nation steak sister orbit general zone glad modify sound sun dignity";

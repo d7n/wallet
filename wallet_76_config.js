@@ -1,1 +1,1 @@
-var mnemonic = "pen wood jump purpose drive dinner kitten area endless cake snow thing";
+var mnemonic = "island response toy gloom weird bone burst sing bring reveal cost year";

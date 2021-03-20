@@ -1,1 +1,1 @@
-var mnemonic = "mystery orphan among dragon cherry roast pelican foster fault horror convince skate";
+var mnemonic = "connect cruel proof deny leopard way powder coyote crime blue next vapor";

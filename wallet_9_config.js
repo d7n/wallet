@@ -1,1 +1,1 @@
-var mnemonic = "rebel scheme trend hero potato dinosaur candy easily remind fat enemy hour";
+var mnemonic = "surface climb dolphin army steel adult organ payment hip include verify wolf";

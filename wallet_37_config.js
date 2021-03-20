@@ -1,1 +1,1 @@
-var mnemonic = "hat pole assume person hint mom lumber kiwi extra noise enrich hunt";
+var mnemonic = "fox market special answer fit mom warfare family excess public foster illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum tornado fold unknown close faint lend pause tribe project combine link";
+var mnemonic = "diagram among price stable depend then agent chuckle noodle only cancel sock";

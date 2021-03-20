@@ -1,1 +1,1 @@
-var mnemonic = "gain another junk mimic settle helmet subject vanish develop pony permit youth";
+var mnemonic = "tobacco winter arch category capital piano million milk ordinary high shed audit";

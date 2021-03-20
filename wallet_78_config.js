@@ -1,1 +1,1 @@
-var mnemonic = "actual easy scout exercise kiss over snap dove lounge bulk bomb clay";
+var mnemonic = "clock tag wheel often level congress city anchor model piece huge tower";

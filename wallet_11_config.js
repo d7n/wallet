@@ -1,1 +1,1 @@
-var mnemonic = "wife castle order dentist kite cargo question tonight visit digital reflect swarm";
+var mnemonic = "pluck window you license shadow rule purity wealth dutch fetch woman rich";

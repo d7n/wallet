@@ -1,1 +1,1 @@
-var mnemonic = "lyrics sword copper duty hollow order squirrel clerk zoo taxi during buddy";
+var mnemonic = "cube banana fix weird wall accident fly canal basic network garbage buzz";

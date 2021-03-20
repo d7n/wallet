@@ -1,1 +1,1 @@
-var mnemonic = "hole float now myself rocket decade fault oil faculty sight grid cycle";
+var mnemonic = "enlist learn flower year nothing click vacant lake opera rug sound skirt";

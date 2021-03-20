@@ -1,1 +1,1 @@
-var mnemonic = "token wasp release order benefit risk near master toward rather grunt enjoy";
+var mnemonic = "slice wash fat bachelor media tunnel general sound round fine spoon copy";

@@ -1,1 +1,1 @@
-var mnemonic = "attract ticket ghost ocean gorilla below infant genuine cube suit barely draw";
+var mnemonic = "bounce voyage lab milk voice parent sign dinosaur wool upper silly tuna";

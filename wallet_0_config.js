@@ -1,1 +1,1 @@
-var mnemonic = "game police penalty setup faculty broken quote manage firm culture cherry eternal";
+var mnemonic = "prepare reward order apology rib door fee length nasty grid remember anxiety";

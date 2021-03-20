@@ -1,1 +1,1 @@
-var mnemonic = "proud waste perfect smart sense athlete help right they crack dolphin access";
+var mnemonic = "style fire double interest age curve ship nuclear world annual fabric raven";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect height issue cigar news ensure virus method harsh paper initial tunnel";
+var mnemonic = "nurse dry supply onion oil call tide capable pen axis position chest";

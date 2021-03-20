@@ -1,1 +1,1 @@
-var mnemonic = "pottery used knife thumb sort debris egg critic panic cost huge token";
+var mnemonic = "over inner stock song annual fortune stadium float series alert win blast";

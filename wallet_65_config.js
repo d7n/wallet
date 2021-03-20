@@ -1,1 +1,1 @@
-var mnemonic = "song gloom mystery jump job funny leisure old license soft tube inquiry";
+var mnemonic = "inhale coyote lazy glue void horror carpet globe snack weapon divert thought";

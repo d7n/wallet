@@ -1,1 +1,1 @@
-var mnemonic = "depend ginger shed connect arch cactus cube size cruel cushion federal oil";
+var mnemonic = "muffin addict trouble wood mango whip sketch artefact peasant rug little cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "number double harbor mutual absent chase wet link spike sadness tower car";
+var mnemonic = "wheat idea symptom snap clump damp pride artist magnet bicycle much sun";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic differ relief render okay ceiling oak enough dress sock deer mutual";
+var mnemonic = "indicate direct course auction like predict once above guess tunnel crew tuition";

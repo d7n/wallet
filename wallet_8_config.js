@@ -1,1 +1,1 @@
-var mnemonic = "first deliver ghost aim tobacco evidence about dog tower salon address exchange";
+var mnemonic = "robot ketchup album mirror goddess derive okay person mystery midnight unit kick";

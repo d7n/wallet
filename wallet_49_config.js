@@ -1,1 +1,1 @@
-var mnemonic = "grant upon text theory cycle void vanish lottery lesson grant promote interest";
+var mnemonic = "exist spread exact antique later rotate call payment burden clock chest runway";

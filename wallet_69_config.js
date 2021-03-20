@@ -1,1 +1,1 @@
-var mnemonic = "good like leisure upgrade decide second amused man elbow stay naive tilt";
+var mnemonic = "symptom donkey indoor spy melody shed drop vapor sauce garbage lava arena";

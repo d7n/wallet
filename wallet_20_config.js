@@ -1,1 +1,1 @@
-var mnemonic = "build era mistake potato fine section master dry target boost stamp digital";
+var mnemonic = "usage noodle situate brick limit social solve type process mushroom all sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "accident they interest gorilla picture farm act viable morning shop trust concert";
+var mnemonic = "daughter ancient soap runway industry faculty slide rude skill tuition great injury";

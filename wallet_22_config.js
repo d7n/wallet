@@ -1,1 +1,1 @@
-var mnemonic = "video silver similar diesel scrap insane legal focus social phone bitter capable";
+var mnemonic = "exhaust oxygen stamp spare record pioneer bridge bridge limit fiscal address cheap";

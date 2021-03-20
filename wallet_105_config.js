@@ -1,1 +1,1 @@
-var mnemonic = "cause mixed clog intact adult leopard subject alter fee fantasy truth trade";
+var mnemonic = "buffalo multiply coach vacant patient spread wife zoo object good winter traffic";

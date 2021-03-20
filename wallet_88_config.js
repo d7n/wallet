@@ -1,1 +1,1 @@
-var mnemonic = "small solid include high general sport soft pudding junk enroll base tobacco";
+var mnemonic = "panic arm brown trumpet wild nose olive scan hero library cloud jacket";

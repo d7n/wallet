@@ -1,1 +1,1 @@
-var mnemonic = "arrive during extra market nasty odor language half silent excite judge bargain";
+var mnemonic = "idle adjust search nation enforce purpose devote glad spring coin interest farm";

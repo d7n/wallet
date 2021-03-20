@@ -1,1 +1,1 @@
-var mnemonic = "decline cruel armed fish clutch convince swamp eagle foil tragic where gorilla";
+var mnemonic = "shrug cash mind save tuna monkey logic beauty trash donkey seed boil";

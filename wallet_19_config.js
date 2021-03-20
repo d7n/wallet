@@ -1,1 +1,1 @@
-var mnemonic = "bird sniff flip across birth ripple jealous slim antique tobacco bright whip";
+var mnemonic = "path mail bundle estate assume noodle neither notice daughter prefer answer trick";

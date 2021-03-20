@@ -1,1 +1,1 @@
-var mnemonic = "fold sting render federal grow lens conduct novel ozone waste decade observe";
+var mnemonic = "size mail govern report pepper barely explain section jungle meadow country curve";

@@ -1,1 +1,1 @@
-var mnemonic = "hub swamp churn glove length dragon curve slam usage fabric ill tell";
+var mnemonic = "steel what over donor giraffe canoe trend tag split fan novel edit";

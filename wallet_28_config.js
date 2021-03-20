@@ -1,1 +1,1 @@
-var mnemonic = "risk pizza gym ecology ability donkey fancy drama similar render tooth typical";
+var mnemonic = "penalty gentle seminar erode electric access ensure average horse paddle visual bomb";

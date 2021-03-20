@@ -1,1 +1,1 @@
-var mnemonic = "ginger dress bracket require truck blanket invite marble shrimp survey begin story";
+var mnemonic = "today net property cover fatal crack now kiss runway soul genius lock";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel metal harsh baby urban fun party physical chair claim panel acquire";
+var mnemonic = "lunar bright hire present lottery close phrase force enough swing better result";

@@ -1,1 +1,1 @@
-var mnemonic = "image expect educate offer unfair you bomb vivid budget upon rough turtle";
+var mnemonic = "renew tuition bottom club video horror space plate denial relax update crash";

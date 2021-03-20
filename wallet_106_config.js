@@ -1,1 +1,1 @@
-var mnemonic = "level edge rally local puzzle bronze evolve reform panel wolf crunch cart";
+var mnemonic = "tonight milk cheese vast beyond fire human rotate recycle bomb differ secret";

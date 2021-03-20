@@ -1,1 +1,1 @@
-var mnemonic = "girl uphold check clean orphan adult shed staff nest six reduce cave";
+var mnemonic = "quality crash surprise blood sheriff slow piece print undo plastic surface you";

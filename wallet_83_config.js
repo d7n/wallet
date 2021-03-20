@@ -1,1 +1,1 @@
-var mnemonic = "inflict desk spin rude drive warrior hunt crop diesel security pill illegal";
+var mnemonic = "ask muscle neither glory bargain obey frequent camera vivid faith vibrant imitate";

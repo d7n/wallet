@@ -1,1 +1,1 @@
-var mnemonic = "rely total grab affair trigger lake gain relax sell drastic still fringe";
+var mnemonic = "link crisp shallow front library cotton family minute exclude figure thank fee";

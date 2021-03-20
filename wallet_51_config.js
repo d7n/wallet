@@ -1,1 +1,1 @@
-var mnemonic = "work tooth rude horn identify galaxy spy time ensure ready flavor diamond";
+var mnemonic = "sell diamond direct eyebrow door below dismiss hold library mean urban olive";

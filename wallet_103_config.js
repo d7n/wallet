@@ -1,1 +1,1 @@
-var mnemonic = "observe scale puzzle current until explain evidence copper wife desk indicate door";
+var mnemonic = "argue road pupil segment win target announce situate moment only already oppose";

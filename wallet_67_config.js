@@ -1,1 +1,1 @@
-var mnemonic = "catch spice useful video solid clump hat pull spy mystery history direct";
+var mnemonic = "whale exact dolphin firm bike fence original quality pond helmet document admit";

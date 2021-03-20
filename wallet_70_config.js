@@ -1,1 +1,1 @@
-var mnemonic = "brush hedgehog vault next salt worth giggle trip people perfect local seek";
+var mnemonic = "sketch valley assist coconut session strong blouse jazz coin bus movie donkey";

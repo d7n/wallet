@@ -1,1 +1,1 @@
-var mnemonic = "coconut excess march stove limit guide unable way hundred innocent control apart";
+var mnemonic = "ball inform tortoise trim volume place tag dolphin chunk couch popular hair";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy retire rule clown actress mom occur above crack midnight swarm quality";
+var mnemonic = "develop apology naive fog dry pioneer faint save ostrich twice lawn fat";

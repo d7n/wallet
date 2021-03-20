@@ -1,1 +1,1 @@
-var mnemonic = "tide photo gospel zebra forget family arrow coach upset knee treat ball";
+var mnemonic = "music miss lounge artwork snake frame organ fetch regret antique mosquito mouse";

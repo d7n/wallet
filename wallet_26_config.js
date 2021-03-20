@@ -1,1 +1,1 @@
-var mnemonic = "intact crawl hamster ticket vicious tube few anger edit path trouble weekend";
+var mnemonic = "wait fine twenty stool fan great vote rug zone cat galaxy write";

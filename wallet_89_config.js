@@ -1,1 +1,1 @@
-var mnemonic = "frog hybrid raise click blade crush vacuum duty slim sausage together robust";
+var mnemonic = "wet economy web fun palace noise vote save strategy address post alley";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder rack peasant borrow blush fortune bid act flash sausage museum toast";
+var mnemonic = "unit level infant veteran bachelor rocket fatal code tobacco unable egg expect";

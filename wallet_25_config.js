@@ -1,1 +1,1 @@
-var mnemonic = "few peanut shy trophy track race edge elevator eager symptom half stairs";
+var mnemonic = "program access rail only blade bargain rather town curious eight move piece";

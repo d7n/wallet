@@ -1,1 +1,1 @@
-var mnemonic = "also minor night donate can enjoy boat grain dentist defense plunge jacket";
+var mnemonic = "either bunker rely bounce fantasy special license system execute answer success apart";

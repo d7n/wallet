@@ -1,1 +1,1 @@
-var mnemonic = "attack knee lyrics bounce cup basket fashion taste common body pause oxygen";
+var mnemonic = "tongue taxi apple gasp future crash flower step almost gesture spoil wreck";

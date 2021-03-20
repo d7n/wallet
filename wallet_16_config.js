@@ -1,1 +1,1 @@
-var mnemonic = "erosion photo copy zone praise sweet shift provide pass letter pear canal";
+var mnemonic = "actress egg thank coin learn future kick will boring lemon total ugly";

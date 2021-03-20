@@ -1,1 +1,1 @@
-var mnemonic = "walk safe tattoo cool clog allow sight crew sure shoot slab helmet";
+var mnemonic = "expire between donkey resist enough barrel fuel essay minute remember snack forest";

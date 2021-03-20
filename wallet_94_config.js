@@ -1,1 +1,1 @@
-var mnemonic = "leader cruel organ diary edge below squirrel forest pitch alone normal satisfy";
+var mnemonic = "express solid diary awful task phrase cart whale country gloom north connect";

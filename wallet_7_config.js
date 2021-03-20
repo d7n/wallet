@@ -1,1 +1,1 @@
-var mnemonic = "anger insane today miracle furnace festival flame over super various enlist spin";
+var mnemonic = "wisdom april edge chair dilemma gold fire viable broom spatial enter wave";

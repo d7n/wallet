@@ -1,1 +1,1 @@
-var mnemonic = "noble benefit office hour attitude broom weekend first equip stone occur when";
+var mnemonic = "aunt tiny purse ten combine frozen puppy sample face extra embark swing";

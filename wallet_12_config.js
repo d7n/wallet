@@ -1,1 +1,1 @@
-var mnemonic = "core train tuition erupt where banana emerge hurry process ancient blossom cargo";
+var mnemonic = "badge current lyrics region slam twin enlist pyramid raw ask direct boring";

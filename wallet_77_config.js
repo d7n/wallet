@@ -1,1 +1,1 @@
-var mnemonic = "more also feature account mechanic voice hollow rocket brand blind dance such";
+var mnemonic = "kiss car labor nice call left praise total buffalo crack reflect adjust";
