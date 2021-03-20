@@ -1,1 +1,1 @@
-var mnemonic = "virus kite author beyond viable trust assist brisk north behave sock city";
+var mnemonic = "license crash surround suggest sniff slim quick elevator issue move coffee ensure";

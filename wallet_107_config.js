@@ -1,1 +1,1 @@
-var mnemonic = "fog dutch quarter song wide clever extra machine pipe render tortoise over";
+var mnemonic = "fold theme myth fancy toward stone piece cheese exhaust black skill display";

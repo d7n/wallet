@@ -1,1 +1,1 @@
-var mnemonic = "degree tide asthma stone host embody egg empower system script duty build";
+var mnemonic = "unfold exclude mention enemy soul large idea open cute obey assist upon";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer rain judge outside taste matrix yellow resist you rug unfold upgrade";
+var mnemonic = "ride priority rural repair spawn snap gold scene maple enemy visual adjust";

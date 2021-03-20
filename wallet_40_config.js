@@ -1,1 +1,1 @@
-var mnemonic = "gate minimum camp often amount output comic sock cost heavy hawk tenant";
+var mnemonic = "measure mother dream provide labor follow derive celery keen cabin actress legal";

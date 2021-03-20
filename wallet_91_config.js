@@ -1,1 +1,1 @@
-var mnemonic = "this spring inspire consider jeans exchange also pass ceiling midnight actual race";
+var mnemonic = "zebra slot erase actual armor artefact unlock sail auto december whip refuse";

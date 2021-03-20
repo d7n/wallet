@@ -1,1 +1,1 @@
-var mnemonic = "airport dirt section crush can nasty spell action provide panda side owner";
+var mnemonic = "fatal minute hover topple clever divert day pretty green nation oil coin";

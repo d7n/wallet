@@ -1,1 +1,1 @@
-var mnemonic = "state monkey box also atom matrix ride pear feel joy truck fashion";
+var mnemonic = "pig cherry bargain grit debris alien plug hip ostrich ecology left develop";

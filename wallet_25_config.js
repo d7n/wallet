@@ -1,1 +1,1 @@
-var mnemonic = "ball where pelican life shy core tonight staff pill deer wait hotel";
+var mnemonic = "twist lift rug duck clock lens page crane license lab whale lab";

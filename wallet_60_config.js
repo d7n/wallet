@@ -1,1 +1,1 @@
-var mnemonic = "thumb zoo gossip tenant nice virtual hundred escape sad blade surprise throw";
+var mnemonic = "often siege brown scissors sail license diet cost olympic blood soft noise";

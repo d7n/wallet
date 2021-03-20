@@ -1,1 +1,1 @@
-var mnemonic = "west dilemma prosper comic bring supply proof moral royal index wrestle proof";
+var mnemonic = "drastic sell result lake young caution abandon salmon seven canal logic buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger nothing trash success ostrich sustain gloom fall wool prize clinic nominee";
+var mnemonic = "antenna require slam cake west penalty captain hazard item pizza tribe sign";

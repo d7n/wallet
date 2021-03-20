@@ -1,1 +1,1 @@
-var mnemonic = "found culture label pumpkin glow floor chicken bind april belt blood cannon";
+var mnemonic = "whisper love later theory able dolphin arrest about garden call sponsor bus";

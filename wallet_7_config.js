@@ -1,1 +1,1 @@
-var mnemonic = "vivid small eye pottery now pizza unusual already know tenant distance where";
+var mnemonic = "keen can ginger relax jaguar picture token vivid crew faith acid rescue";

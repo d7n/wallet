@@ -1,1 +1,1 @@
-var mnemonic = "pudding wear banana sand inside weird carpet wide icon danger guide print";
+var mnemonic = "diary arrest mobile nominee mouse setup narrow apple company come hen gadget";

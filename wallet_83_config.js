@@ -1,1 +1,1 @@
-var mnemonic = "accuse net kitten bamboo narrow jaguar olive replace inhale ring quantum odor";
+var mnemonic = "similar state park evidence anger summer ship space patient olympic plunge acquire";

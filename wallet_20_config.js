@@ -1,1 +1,1 @@
-var mnemonic = "absorb upset rhythm tag planet object swarm trigger soup citizen fog foam";
+var mnemonic = "miss canvas bid shrimp win open girl banana aspect acoustic barely target";

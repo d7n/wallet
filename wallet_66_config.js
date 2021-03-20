@@ -1,1 +1,1 @@
-var mnemonic = "section monkey panic design pepper syrup equal traffic video congress another perfect";
+var mnemonic = "guitar dwarf laugh onion slush brother topple beef novel reduce damp eagle";

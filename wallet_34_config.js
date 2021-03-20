@@ -1,1 +1,1 @@
-var mnemonic = "web boil fat toast civil gain phrase sword license junior rapid medal";
+var mnemonic = "liberty wine provide math fluid cherry rocket joy bring keep point tray";

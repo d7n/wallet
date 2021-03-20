@@ -1,1 +1,1 @@
-var mnemonic = "duck siege enact cheese obey worth pipe quick number donkey dilemma bundle";
+var mnemonic = "cry also time desk canoe lumber visual label aim wrist cycle dinner";

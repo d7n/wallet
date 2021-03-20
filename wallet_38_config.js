@@ -1,1 +1,1 @@
-var mnemonic = "cement document govern candy artist easy volume laundry abstract example remember movie";
+var mnemonic = "buyer connect fossil eagle permit usage clock trash news attract rose embark";

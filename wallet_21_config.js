@@ -1,1 +1,1 @@
-var mnemonic = "science early access cart pattern hunt flight type shiver mystery consider sniff";
+var mnemonic = "pink radio athlete word urban define subject chalk goddess day organ fall";

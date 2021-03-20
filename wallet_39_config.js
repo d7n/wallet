@@ -1,1 +1,1 @@
-var mnemonic = "student secret cool loop ill plate animal bomb garlic extra trip worry";
+var mnemonic = "like hole found math near cluster wheel strong wise despair spirit crazy";

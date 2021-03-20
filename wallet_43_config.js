@@ -1,1 +1,1 @@
-var mnemonic = "menu person catalog achieve genre invite sock peace busy fold theme gift";
+var mnemonic = "arch mail fish govern student island route deposit theme reason wrong snack";

@@ -1,1 +1,1 @@
-var mnemonic = "better tool town floor dragon coyote remember fiscal amount impose decorate document";
+var mnemonic = "spike mean jealous mule math audit pepper tip gold tooth jealous furnace";

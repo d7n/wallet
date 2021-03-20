@@ -1,1 +1,1 @@
-var mnemonic = "wet gas tank pause affair purpose pipe panda attend census obtain kitten";
+var mnemonic = "possible arm lift spring suffer mirror sign mushroom squeeze icon solid expose";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse raccoon atom monkey obtain doll animal logic estate domain spring emotion";
+var mnemonic = "keep arctic nation endorse promote ethics lesson spend planet cargo canal spider";

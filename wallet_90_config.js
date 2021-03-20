@@ -1,1 +1,1 @@
-var mnemonic = "energy now spice story top sand swarm video museum broccoli express soul";
+var mnemonic = "echo capital gather dirt gossip absurd settle intact universe snap myself auction";

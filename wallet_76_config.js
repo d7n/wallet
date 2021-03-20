@@ -1,1 +1,1 @@
-var mnemonic = "wagon bus flavor shadow crawl fantasy peasant avocado regular fade moon amateur";
+var mnemonic = "pause fury embrace burst deliver music buddy auto flat nasty humble imitate";

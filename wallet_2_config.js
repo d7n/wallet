@@ -1,1 +1,1 @@
-var mnemonic = "silly siren tail quit frown leopard saddle valve heavy scorpion radio ripple";
+var mnemonic = "point guess weekend lens just diagram sunny celery artefact ladder boss fix";

@@ -1,1 +1,1 @@
-var mnemonic = "final bottom mass genuine bright you arena body core mirror phone venue";
+var mnemonic = "trash element weasel universe eager giant fitness place panda wide clerk rate";

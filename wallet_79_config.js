@@ -1,1 +1,1 @@
-var mnemonic = "proof eight dust mutual wonder bus beyond essay tag chunk bubble catalog";
+var mnemonic = "wheat person jewel swarm front umbrella endless rural noodle age fringe romance";

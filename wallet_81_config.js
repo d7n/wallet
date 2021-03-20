@@ -1,1 +1,1 @@
-var mnemonic = "this same direct cluster slice refuse armor brief range student kangaroo extend";
+var mnemonic = "swarm total tray book embrace casual easy sustain load sight answer guess";

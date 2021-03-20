@@ -1,1 +1,1 @@
-var mnemonic = "correct undo cheap fiscal alert marriage drop evidence salt rate early floor";
+var mnemonic = "pause vessel sweet legend police resource cram purchase rescue critic toddler fire";

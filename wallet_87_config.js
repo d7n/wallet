@@ -1,1 +1,1 @@
-var mnemonic = "foot truth giant jelly ordinary season priority eyebrow trap crouch blast primary";
+var mnemonic = "raise nominee rocket video old glance child process upper trick slush solution";

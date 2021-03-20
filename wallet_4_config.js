@@ -1,1 +1,1 @@
-var mnemonic = "phone lab unique poem rare thank hockey jewel sort small library range";
+var mnemonic = "crystal crush acquire outside found carbon fan essence weird awake voice acquire";

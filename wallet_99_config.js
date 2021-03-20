@@ -1,1 +1,1 @@
-var mnemonic = "federal chicken pitch tone throw desk endless face crime cricket diamond shallow";
+var mnemonic = "census scare penalty lazy seminar damage hero stable feel hero album cross";

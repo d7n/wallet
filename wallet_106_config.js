@@ -1,1 +1,1 @@
-var mnemonic = "hint tail oak mammal photo twist congress dignity throw educate useless cost";
+var mnemonic = "ivory valid battle near fortune horse diesel huge much garden crime hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit tortoise price timber blade accuse salad now arrive stove liberty burden";
+var mnemonic = "blanket recall language merge shove dirt iron doll mechanic advance canoe upper";

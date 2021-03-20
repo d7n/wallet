@@ -1,1 +1,1 @@
-var mnemonic = "mango vast retire paddle frown cement balance spread garden only stone crime";
+var mnemonic = "sunset bounce permit tent file excuse wine enroll violin useless quiz usual";

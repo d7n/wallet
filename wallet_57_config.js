@@ -1,1 +1,1 @@
-var mnemonic = "dove stay march cruise coast design three thrive rescue leopard cross hospital";
+var mnemonic = "despair across able rain leopard december robust belt barely film mistake leaf";

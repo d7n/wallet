@@ -1,1 +1,1 @@
-var mnemonic = "lecture party mushroom fire other sheriff betray fall carry office bind duck";
+var mnemonic = "nasty protect autumn scan figure dentist across ring mom sell lyrics shoot";

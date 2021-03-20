@@ -1,1 +1,1 @@
-var mnemonic = "assist custom ensure volcano mass vicious crazy winner bless right air height";
+var mnemonic = "opera accuse economy peace saddle hire call street nature frost broken all";

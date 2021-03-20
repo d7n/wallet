@@ -1,1 +1,1 @@
-var mnemonic = "muffin leisure auction proof scare elite stool cactus endorse invite cabbage vicious";
+var mnemonic = "ignore unit reform genre chase practice control olympic guide poverty derive hunt";

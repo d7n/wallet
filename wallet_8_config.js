@@ -1,1 +1,1 @@
-var mnemonic = "start source sail little perfect panda jaguar canvas member style gallery cradle";
+var mnemonic = "february region husband skull page search mean three cash gentle pyramid convince";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel lemon trick cabbage sudden pupil horse beyond curious rotate odor iron";
+var mnemonic = "fringe blur lemon juice tennis master cute segment duck reunion entire purchase";

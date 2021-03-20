@@ -1,1 +1,1 @@
-var mnemonic = "crowd hurt axis file wheel provide inform blind useful three supply someone";
+var mnemonic = "brass frown mirror okay hurdle able sponsor shy naive toy nurse wrist";

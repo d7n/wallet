@@ -1,1 +1,1 @@
-var mnemonic = "possible champion hidden erosion build pig question extra leg narrow middle gentle";
+var mnemonic = "attract virus august fame shiver gate author sponsor claim bottom foil vessel";

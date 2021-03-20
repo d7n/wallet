@@ -1,1 +1,1 @@
-var mnemonic = "believe common fork happy sock roast refuse bulk height person east glare";
+var mnemonic = "when dismiss wine mercy label just matrix wise degree manual wet garment";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon sense oblige aspect laugh tornado normal cricket napkin orphan digital hidden";
+var mnemonic = "refuse burger script tray congress toast term bird champion jaguar congress bird";

@@ -1,1 +1,1 @@
-var mnemonic = "super front place artwork insect permit country staff pipe thumb runway twenty";
+var mnemonic = "coach erode moon fence sentence cabin exotic grape siren fancy future ladder";

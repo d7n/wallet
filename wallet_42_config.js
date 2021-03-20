@@ -1,1 +1,1 @@
-var mnemonic = "circle street arrive engage afford mansion ritual tone latin news unveil pen";
+var mnemonic = "north remove chronic identify net dwarf rescue amused fabric bring coyote foam";

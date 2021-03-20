@@ -1,1 +1,1 @@
-var mnemonic = "evoke orient surround must buyer bounce switch remove sail canvas person adult";
+var mnemonic = "across other goddess snake first sibling scheme walk plastic coral grid theory";

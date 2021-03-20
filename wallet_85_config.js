@@ -1,1 +1,1 @@
-var mnemonic = "broom action shift mercy comic few slush worth collect senior rally license";
+var mnemonic = "stock forum creek daughter elite please three section crazy obtain lunar eagle";

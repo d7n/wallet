@@ -1,1 +1,1 @@
-var mnemonic = "stand lucky weird embark token purity endorse cause rail cousin voice ability";
+var mnemonic = "pole appear dove proud have nuclear entry despair animal tip acoustic liquid";

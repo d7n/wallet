@@ -1,1 +1,1 @@
-var mnemonic = "arena drive thunder flip much envelope broken flight maple upon slender flight";
+var mnemonic = "blast small index icon length oil clutch dilemma frozen try tank obey";

@@ -1,1 +1,1 @@
-var mnemonic = "verify seven approve dish rare net improve insect wild maple cement pool";
+var mnemonic = "art coral estate swim warm old depend sound rhythm cushion borrow uniform";

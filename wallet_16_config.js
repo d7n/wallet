@@ -1,1 +1,1 @@
-var mnemonic = "tobacco luxury style grain remember dish amount alpha abstract upon genre giant";
+var mnemonic = "brick spy mansion about culture pelican produce remember know stand cannon pause";

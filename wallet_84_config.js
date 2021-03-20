@@ -1,1 +1,1 @@
-var mnemonic = "embody minute move project essence theme awkward plastic enhance flavor menu vivid";
+var mnemonic = "middle word edge pear vote sport deputy tackle music recall cash range";

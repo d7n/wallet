@@ -1,1 +1,1 @@
-var mnemonic = "layer two insane income air seek silver later disagree dragon magnet cage";
+var mnemonic = "window embody dinosaur oval thank people nation urge world hand develop knock";

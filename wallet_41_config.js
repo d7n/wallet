@@ -1,1 +1,1 @@
-var mnemonic = "they basket abandon milk van ill arena dutch ill reflect level ride";
+var mnemonic = "thumb city scare oak yellow series section field truth print exercise erode";

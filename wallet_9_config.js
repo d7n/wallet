@@ -1,1 +1,1 @@
-var mnemonic = "oval surround inhale turtle degree mandate crazy result shiver clutch exhaust image";
+var mnemonic = "summer field gap blade main lion judge ridge weasel humor perfect fire";

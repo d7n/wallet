@@ -1,1 +1,1 @@
-var mnemonic = "firm reject school capital fiction just congress mansion student fitness other bomb";
+var mnemonic = "vote impulse coral six invest load minimum pitch omit brave solid unknown";

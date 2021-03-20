@@ -1,1 +1,1 @@
-var mnemonic = "inmate donor tuna double ribbon despair memory execute solve exist isolate near";
+var mnemonic = "grid vague almost jar off blur equip dust where genius afraid derive";

@@ -1,1 +1,1 @@
-var mnemonic = "improve brick exotic march detail code cross lift open silk private talk";
+var mnemonic = "into sting equal oven blouse tornado teach divorce miracle idle gallery page";

@@ -1,1 +1,1 @@
-var mnemonic = "among frequent blush minimum blanket hurdle wave insane rotate exile garment lawsuit";
+var mnemonic = "vacuum garlic tuna give trade evil dirt glare love visit sing clever";

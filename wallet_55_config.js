@@ -1,1 +1,1 @@
-var mnemonic = "orphan kiwi mimic clarify rebuild barrel uncle half proud enable tribe fat";
+var mnemonic = "cube lecture immense solar coral submit bullet live flush jump add resource";

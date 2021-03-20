@@ -1,1 +1,1 @@
-var mnemonic = "ship have wood fog leaf frame legal clip garage giggle repeat giraffe";
+var mnemonic = "rebuild sketch bright share armed catalog photo helmet rice portion label cool";

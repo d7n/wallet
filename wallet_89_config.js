@@ -1,1 +1,1 @@
-var mnemonic = "quarter define prosper decide black green input barrel park broken stock solution";
+var mnemonic = "gallery lyrics august grocery toward rotate alpha opinion zebra hat zebra spirit";

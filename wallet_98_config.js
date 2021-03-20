@@ -1,1 +1,1 @@
-var mnemonic = "invest ski ice upon maze friend garden resist peace access peasant acoustic";
+var mnemonic = "light appear depth ring erupt grab flee grape talk recycle seat kiwi";

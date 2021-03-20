@@ -1,1 +1,1 @@
-var mnemonic = "music vapor lawsuit charge walk judge bid undo secret junior neutral lunch";
+var mnemonic = "wrong age push picnic wait oxygen weapon primary more pulp upgrade second";

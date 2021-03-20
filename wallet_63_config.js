@@ -1,1 +1,1 @@
-var mnemonic = "tray theory light pluck cargo blade radar wear develop mutual basic swear";
+var mnemonic = "save grain furnace resemble chase buzz giggle cloth gym skull debris ancient";

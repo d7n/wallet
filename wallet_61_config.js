@@ -1,1 +1,1 @@
-var mnemonic = "amused satisfy property danger blue skin loop polar cheap machine age federal";
+var mnemonic = "oyster hobby stadium cube start strong lake drill glass chunk diary clever";

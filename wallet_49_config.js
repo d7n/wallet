@@ -1,1 +1,1 @@
-var mnemonic = "ill alien hurt crowd rather moral glove execute vehicle symptom adapt often";
+var mnemonic = "ketchup sustain brain depth correct west coral welcome robot arctic require lobster";

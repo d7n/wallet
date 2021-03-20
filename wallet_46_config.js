@@ -1,1 +1,1 @@
-var mnemonic = "hybrid suspect impulse clap business leader october bargain pony oppose salon busy";
+var mnemonic = "narrow seven tobacco unveil royal laptop job rain track forward grief amazing";

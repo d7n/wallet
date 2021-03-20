@@ -1,1 +1,1 @@
-var mnemonic = "betray airport say breeze crouch confirm satoshi usage tortoise check ride sing";
+var mnemonic = "shell erupt share expect cute mechanic group method food close large absent";

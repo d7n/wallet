@@ -1,1 +1,1 @@
-var mnemonic = "clip asset reopen soup walk stereo identify barrel squeeze music one clerk";
+var mnemonic = "retire unfair catch fruit plate mechanic drift ticket joke pitch setup upon";

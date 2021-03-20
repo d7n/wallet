@@ -1,1 +1,1 @@
-var mnemonic = "orchard echo flip spend rigid discover island pond marble cigar velvet peasant";
+var mnemonic = "suit ship tooth silly solution ridge device stool wide faint decrease evolve";

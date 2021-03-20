@@ -1,1 +1,1 @@
-var mnemonic = "fuel trigger what pear trial pistol soccer crack tray acid skill sunset";
+var mnemonic = "vacant also burst guitar garbage game sun panther hollow ready cart elite";

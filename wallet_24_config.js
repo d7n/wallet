@@ -1,1 +1,1 @@
-var mnemonic = "media pilot arena steel face milk silly switch gas supreme teach helmet";
+var mnemonic = "virus wagon element cattle eye section ice sister elder stadium best blast";

@@ -1,1 +1,1 @@
-var mnemonic = "kind leg year seed monster captain horse beach ostrich fork trim include";
+var mnemonic = "edge swarm omit exact deer sugar list film once deal pill old";

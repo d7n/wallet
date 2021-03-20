@@ -1,1 +1,1 @@
-var mnemonic = "eagle swear silent hair digital arch second inspire over dumb target team";
+var mnemonic = "brief guitar image isolate assist suffer quantum check update kit hurry little";

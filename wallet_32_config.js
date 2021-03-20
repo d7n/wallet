@@ -1,1 +1,1 @@
-var mnemonic = "near into neck critic kit airport convince box easy initial device shine";
+var mnemonic = "escape toddler obtain prevent depend siege nephew regret amazing cattle brief enrich";
