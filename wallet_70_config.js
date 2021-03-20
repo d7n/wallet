@@ -1,1 +1,1 @@
-var mnemonic = "autumn top border century screen sock employ actor into layer clean adult";
+var mnemonic = "become flame force soft this swarm situate trim wood sick paper churn";

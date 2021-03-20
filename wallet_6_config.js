@@ -1,1 +1,1 @@
-var mnemonic = "sibling teach aim calm stick clump true father patient forget grant business";
+var mnemonic = "miracle tragic husband lawn fix ocean aspect strategy basic glass duty scan";

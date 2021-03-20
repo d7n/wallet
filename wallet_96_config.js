@@ -1,1 +1,1 @@
-var mnemonic = "sniff advance punch lion photo wrap donor saddle dream inquiry file horror";
+var mnemonic = "safe nuclear minimum connect youth dry mammal reflect fitness winter large fringe";

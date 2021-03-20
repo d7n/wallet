@@ -1,1 +1,1 @@
-var mnemonic = "select tip unaware burger decorate tank enforce phrase pumpkin derive aware anchor";
+var mnemonic = "hospital person auto allow december ancient gain monitor deliver nut panel divide";

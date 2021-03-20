@@ -1,1 +1,1 @@
-var mnemonic = "present million taxi old stand never gown toast letter any salt creek";
+var mnemonic = "trim trend dose whisper marriage vibrant churn mom answer deliver deliver menu";

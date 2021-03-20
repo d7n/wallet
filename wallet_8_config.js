@@ -1,1 +1,1 @@
-var mnemonic = "farm pretty catch barely security enrich pause crop lunch tide mask twin";
+var mnemonic = "proof final you similar animal limb cube horn oval bridge adjust era";

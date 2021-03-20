@@ -1,1 +1,1 @@
-var mnemonic = "recall abstract bitter furnace print bullet hour piano close unfair scan teach";
+var mnemonic = "jazz stem hero believe copper essay century silly dizzy high crowd toe";

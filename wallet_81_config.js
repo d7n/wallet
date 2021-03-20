@@ -1,1 +1,1 @@
-var mnemonic = "success misery skull frequent vanish grass final actor trend ring cigar make";
+var mnemonic = "once shoe erosion coral ordinary kid regret kangaroo focus table year only";

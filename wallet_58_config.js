@@ -1,1 +1,1 @@
-var mnemonic = "proof earth hungry body swear job armed present allow deposit chimney biology";
+var mnemonic = "glass purpose impulse hub electric media chair intact accuse enact panda armor";

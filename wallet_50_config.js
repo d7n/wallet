@@ -1,1 +1,1 @@
-var mnemonic = "jealous reflect orange quit rival seed today ghost salute belt abandon treat";
+var mnemonic = "canvas head plastic select buffalo adjust wasp onion climb hazard absent foil";

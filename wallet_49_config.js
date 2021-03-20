@@ -1,1 +1,1 @@
-var mnemonic = "arch entry crowd chicken sun piano muffin pattern inside moral cup begin";
+var mnemonic = "receive earth tennis bitter alone this moon write slow alter hotel address";

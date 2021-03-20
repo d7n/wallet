@@ -1,1 +1,1 @@
-var mnemonic = "math fuel fever link milk bronze bean wish muscle orange dutch flip";
+var mnemonic = "razor sheriff ahead muffin cherry tray monitor entire artwork coral promote spawn";

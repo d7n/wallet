@@ -1,1 +1,1 @@
-var mnemonic = "tonight involve amount culture bleak absorb tilt jeans shiver forget faint patient";
+var mnemonic = "purchase latin marriage screen bundle assist shift work ankle bullet math eyebrow";

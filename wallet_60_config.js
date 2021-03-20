@@ -1,1 +1,1 @@
-var mnemonic = "brief work nominee mansion arrest mistake wave champion mango bachelor because hidden";
+var mnemonic = "attract strike exchange until trade embrace adapt tumble below business sword ribbon";

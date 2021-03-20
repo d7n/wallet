@@ -1,1 +1,1 @@
-var mnemonic = "material swing amused cook top crawl produce jelly myth steak alien plate";
+var mnemonic = "robust destroy wrist onion hat olive feel category member royal noodle connect";

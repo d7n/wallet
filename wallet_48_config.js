@@ -1,1 +1,1 @@
-var mnemonic = "fire pelican grid plastic stool farm seven hello cheap rain kidney history";
+var mnemonic = "scale will virus rebel marine depart this quick exact surprise screen galaxy";

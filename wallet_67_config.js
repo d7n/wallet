@@ -1,1 +1,1 @@
-var mnemonic = "fork slight note reveal gadget fiber gate bracket snow gossip yard there";
+var mnemonic = "goose raise tomato wire cloth bike lend pioneer exclude gesture museum flame";

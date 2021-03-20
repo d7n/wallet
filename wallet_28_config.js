@@ -1,1 +1,1 @@
-var mnemonic = "near derive panel thank occur involve found glue chaos field giraffe dust";
+var mnemonic = "garbage planet critic small enrich surprise purse latin urban hint control identify";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong squeeze roof curtain zoo refuse guilt action assault swift trip describe";
+var mnemonic = "clump volcano enhance family amused error service purity domain song husband worth";

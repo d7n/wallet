@@ -1,1 +1,1 @@
-var mnemonic = "inside kidney black divorce clown thumb oxygen clutch stage toe type ghost";
+var mnemonic = "leader castle fame long morning feed review barrel veteran federal novel inherit";

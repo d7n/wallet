@@ -1,1 +1,1 @@
-var mnemonic = "coil select refuse three north report ghost stage river suit lobster topic";
+var mnemonic = "click hockey turtle neck hidden execute cram prepare wave worry run grunt";

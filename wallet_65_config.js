@@ -1,1 +1,1 @@
-var mnemonic = "february need clap divorce utility endorse young buyer frost lecture believe various";
+var mnemonic = "ride polar fossil abuse where tone target panel assist sock success wet";

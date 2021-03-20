@@ -1,1 +1,1 @@
-var mnemonic = "fringe estate expose churn proof shiver tourist bargain cable excuse demand wide";
+var mnemonic = "quiz proof abuse thumb universe grief bag rigid engine audit unaware interest";

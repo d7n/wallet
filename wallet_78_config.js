@@ -1,1 +1,1 @@
-var mnemonic = "once involve next top flee coconut tiny return exhaust color object shed";
+var mnemonic = "model resource travel cable venue current chef air champion salon crouch thought";

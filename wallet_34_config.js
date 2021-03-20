@@ -1,1 +1,1 @@
-var mnemonic = "excuse globe patrol remove dwarf divert twin pole twelve chunk impact soap";
+var mnemonic = "forget brand barrel come often harvest edit park street legal pottery dinosaur";

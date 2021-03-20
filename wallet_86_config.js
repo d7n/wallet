@@ -1,1 +1,1 @@
-var mnemonic = "version such private life ostrich buyer culture object village onion attack phrase";
+var mnemonic = "motion track pond recycle divide cram topple muffin kangaroo replace stone excite";

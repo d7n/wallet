@@ -1,1 +1,1 @@
-var mnemonic = "scale profit sentence pistol matter clog shock beach job luxury please forward";
+var mnemonic = "solar potato park enhance business degree meat runway stumble lens unit demise";

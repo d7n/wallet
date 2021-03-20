@@ -1,1 +1,1 @@
-var mnemonic = "this check cave consider neither asset average gaze harsh title evolve toddler";
+var mnemonic = "gorilla mountain away fade turtle brown action vital gun morning trouble rocket";

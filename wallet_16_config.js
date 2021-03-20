@@ -1,1 +1,1 @@
-var mnemonic = "banana dance way human early menu ahead hazard shiver card pioneer plate";
+var mnemonic = "because aerobic reflect museum tiger clerk void champion noise depart oak faint";

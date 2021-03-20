@@ -1,1 +1,1 @@
-var mnemonic = "deputy whisper ecology tell lawn wife ahead mystery client alert wisdom vast";
+var mnemonic = "actress game course settle cup flee wild route proud mother squirrel mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "slide helmet machine away ecology ceiling theme organ flock idle model saddle";
+var mnemonic = "toss bright middle gorilla slow guitar empower entry ecology trigger near very";

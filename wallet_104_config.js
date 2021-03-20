@@ -1,1 +1,1 @@
-var mnemonic = "armed dismiss brick physical adapt response tissue post witness tenant surge rotate";
+var mnemonic = "fiscal bachelor forget demand beyond dove refuse buffalo pink release radar lounge";

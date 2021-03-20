@@ -1,1 +1,1 @@
-var mnemonic = "desk remind symptom violin fall matter link glance quantum ethics diagram believe";
+var mnemonic = "rhythm dolphin tuna among aunt broom daring obey peanut arena wink couple";

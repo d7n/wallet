@@ -1,1 +1,1 @@
-var mnemonic = "crisp unable plate rescue material husband hip lava absent double measure put";
+var mnemonic = "blossom moment height problem coil brother assault domain become just erupt brisk";

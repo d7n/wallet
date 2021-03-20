@@ -1,1 +1,1 @@
-var mnemonic = "destroy often fence belt dumb provide spatial autumn forest cool clever topic";
+var mnemonic = "approve use evil glimpse together vibrant robust remind stamp hill skirt girl";

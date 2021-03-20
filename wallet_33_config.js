@@ -1,1 +1,1 @@
-var mnemonic = "about window retreat afford skull hawk park analyst glow enough deal attack";
+var mnemonic = "embody badge brown blush snap host giggle liquid obvious target palace keep";

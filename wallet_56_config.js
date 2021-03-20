@@ -1,1 +1,1 @@
-var mnemonic = "dry negative client wrestle carry bounce hockey reform asset civil regular feel";
+var mnemonic = "glory slush clap sure zero early nation eagle sea critic pride company";

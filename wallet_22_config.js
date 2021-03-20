@@ -1,1 +1,1 @@
-var mnemonic = "occur truth into stumble stand woman wash special fitness rapid crucial person";
+var mnemonic = "brief invest panic usage estate theory concert cage route erode sibling love";

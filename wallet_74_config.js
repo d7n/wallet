@@ -1,1 +1,1 @@
-var mnemonic = "main absorb wonder real own slice pond vapor apple stadium retreat accuse";
+var mnemonic = "update hazard lake spring slam scout crystal fatigue canvas kiwi foil foil";

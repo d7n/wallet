@@ -1,1 +1,1 @@
-var mnemonic = "bench rare album safe thunder comic logic hunt census arrive online fossil";
+var mnemonic = "cause glass claw tornado proud bridge lottery surface foster employ kangaroo magnet";

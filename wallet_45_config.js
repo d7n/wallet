@@ -1,1 +1,1 @@
-var mnemonic = "child shop payment pond upgrade vessel hard couple recipe kitten junior fossil";
+var mnemonic = "swap success thing devote leader barely rescue garlic shrimp shallow mother ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "apart thought human upon learn occur cinnamon half entry setup crazy entry";
+var mnemonic = "section large gym add wolf mouse guard yellow cheap help own settle";

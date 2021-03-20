@@ -1,1 +1,1 @@
-var mnemonic = "sea must autumn spoon tree favorite pony account gain left whale design";
+var mnemonic = "spot dizzy purse hedgehog rude puppy chief spatial clip legend occur basket";

@@ -1,1 +1,1 @@
-var mnemonic = "weird swim quality spoil journey whale verb never primary century ensure select";
+var mnemonic = "drama mercy dice rose wave gown bind enjoy sand melody clog drift";

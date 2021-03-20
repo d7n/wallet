@@ -1,1 +1,1 @@
-var mnemonic = "tower away later stamp detail dragon couch zero damage wear ethics barrel";
+var mnemonic = "royal edit april arctic genre flower inherit select album exist mutual wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "race spell couch tribe index square payment tool carry bullet pulse chunk";
+var mnemonic = "patient barrel cart marble birth trip dash december better train wrap noise";

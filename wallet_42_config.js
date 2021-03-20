@@ -1,1 +1,1 @@
-var mnemonic = "extra pony gauge happy develop skill arrest clean ramp whip glare expire";
+var mnemonic = "canal strike protect turtle price weird prefer duty garlic void adjust devote";

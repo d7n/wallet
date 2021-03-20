@@ -1,1 +1,1 @@
-var mnemonic = "attend lens olympic boy nephew slush liquid captain purity shallow eyebrow shoe";
+var mnemonic = "sleep youth nuclear trash tomato place kitchen mandate welcome finish verb neutral";

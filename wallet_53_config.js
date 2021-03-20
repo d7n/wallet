@@ -1,1 +1,1 @@
-var mnemonic = "dinner beauty upper basket miracle person into trim critic use shock gospel";
+var mnemonic = "bulk icon wedding cluster salmon trap thunder wash acoustic another bring brush";

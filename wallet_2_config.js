@@ -1,1 +1,1 @@
-var mnemonic = "cushion frame miracle twelve impulse forum birth strike around orchard weasel winner";
+var mnemonic = "magic match hour write glass actor undo glide gesture above fragile close";

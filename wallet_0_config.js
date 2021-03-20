@@ -1,1 +1,1 @@
-var mnemonic = "subway guard jazz bullet timber devote key coast wish lake tone call";
+var mnemonic = "aspect isolate mad spirit pair pull evolve iron seed demand weather ghost";

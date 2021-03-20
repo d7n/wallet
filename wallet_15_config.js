@@ -1,1 +1,1 @@
-var mnemonic = "roof pudding park sauce roast toss virus notice rough lounge calm cabbage";
+var mnemonic = "mammal lemon right clerk eight hobby wild joke toward tribe cry repeat";

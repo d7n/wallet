@@ -1,1 +1,1 @@
-var mnemonic = "lecture galaxy summer artist project camera spare catalog boss island vehicle guess";
+var mnemonic = "ability cannon general plug supreme fancy balance banner again valley meadow heart";

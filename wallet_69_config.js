@@ -1,1 +1,1 @@
-var mnemonic = "capable rubber someone dizzy avocado sound image put city language initial record";
+var mnemonic = "obey east goddess pupil gun consider output edit unit census remain shiver";

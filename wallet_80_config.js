@@ -1,1 +1,1 @@
-var mnemonic = "flavor key time color core purse farm river twin hour federal door";
+var mnemonic = "oxygen season cube prevent wheel document kite flash sign dilemma cycle round";

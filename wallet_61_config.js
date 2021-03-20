@@ -1,1 +1,1 @@
-var mnemonic = "strong nut eager mammal order jewel culture oven link finish rifle box";
+var mnemonic = "cheap bid conduct hand mass boost assist boss can donor summer amateur";

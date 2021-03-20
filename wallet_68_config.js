@@ -1,1 +1,1 @@
-var mnemonic = "breeze blossom local property always grape cinnamon seven unfold butter memory maze";
+var mnemonic = "donor nation diesel valley public omit type often pelican cloud victory essay";

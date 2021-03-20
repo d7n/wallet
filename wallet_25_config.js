@@ -1,1 +1,1 @@
-var mnemonic = "peanut mobile ski win vicious budget maid noble sport wife educate split";
+var mnemonic = "design gown elite raven response olive staff gesture empower brick physical hamster";

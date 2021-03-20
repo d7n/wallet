@@ -1,1 +1,1 @@
-var mnemonic = "this spin tomorrow element monster edit cake arctic omit silly almost master";
+var mnemonic = "mean nuclear crystal thought like vessel disagree funny toy noodle joke empower";

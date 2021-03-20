@@ -1,1 +1,1 @@
-var mnemonic = "head stem absent define into october answer crane depend theory cart cattle";
+var mnemonic = "arch leg spin electric traffic modify impose behind execute clarify clown chicken";

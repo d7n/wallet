@@ -1,1 +1,1 @@
-var mnemonic = "bamboo error wave sibling produce metal method system cigar breeze only rural";
+var mnemonic = "moon manage anchor poverty artist candy derive agree chat rent layer hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff cycle approve caught catalog moon motion valve girl sense laundry spike";
+var mnemonic = "alcohol ritual benefit family ticket great improve resist file fan strong clinic";

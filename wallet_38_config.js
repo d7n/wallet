@@ -1,1 +1,1 @@
-var mnemonic = "scare patch company mean copper romance stadium brand neglect cute genuine enemy";
+var mnemonic = "door brush alter magic ordinary humble trust shrug anger figure snack remember";

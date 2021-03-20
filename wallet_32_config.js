@@ -1,1 +1,1 @@
-var mnemonic = "illness tower bright animal ill buyer later when leader crash network soda";
+var mnemonic = "cart whisper frame circle model voyage only inmate army hamster write attend";

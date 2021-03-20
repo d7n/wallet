@@ -1,1 +1,1 @@
-var mnemonic = "expire dress slot step cement range gift clinic upon hire hair banana";
+var mnemonic = "cabin clip adult inner purpose virtual glide decline smooth sunset stay ignore";

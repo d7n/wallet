@@ -1,1 +1,1 @@
-var mnemonic = "social artist heavy rule tornado shed when exhaust suit moral silly true";
+var mnemonic = "wagon potato hero thought either glad sun hawk define donate few wire";

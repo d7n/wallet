@@ -1,1 +1,1 @@
-var mnemonic = "damage actual genuine bonus current inflict cheap victory kite advice action learn";
+var mnemonic = "end pelican purchase occur spoil food use turn position hammer gaze repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "waste enough table kiwi glare exact cook nuclear quit digital clever segment";
+var mnemonic = "total describe knock inner lawn digital link poverty steel exhaust economy regular";

@@ -1,1 +1,1 @@
-var mnemonic = "top museum blur giraffe found lunch lunar ostrich breeze thrive chef eternal";
+var mnemonic = "guess define alley adult offer drastic effort uniform bid transfer defy isolate";

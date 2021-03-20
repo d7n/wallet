@@ -1,1 +1,1 @@
-var mnemonic = "april goat bench author hurry tennis neither nature outer place mouse fiction";
+var mnemonic = "venue easily gap mosquito material aunt fitness autumn caution resemble kid tank";

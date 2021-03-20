@@ -1,1 +1,1 @@
-var mnemonic = "camp cost master next foil jungle turtle wall tent regret unveil volume";
+var mnemonic = "cupboard reject boy invest disorder ball task culture debate drive angle hundred";

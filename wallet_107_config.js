@@ -1,1 +1,1 @@
-var mnemonic = "sheriff arm magnet school anchor deal prefer donate dial sustain endorse tennis";
+var mnemonic = "protect fault coconut improve govern candy result easy inspire myth snake toilet";

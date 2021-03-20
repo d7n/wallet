@@ -1,1 +1,1 @@
-var mnemonic = "evoke someone pole lamp broken snake vacuum between more sunny title swear";
+var mnemonic = "number track reveal cinnamon volume vast journey bargain siege drum bright scan";

@@ -1,1 +1,1 @@
-var mnemonic = "similar drill tuition demand floor elbow bubble motor fork february risk tent";
+var mnemonic = "knee review become today bleak orange left scale disorder myself before develop";

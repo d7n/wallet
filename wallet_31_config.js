@@ -1,1 +1,1 @@
-var mnemonic = "sight black course obvious basic absurd trigger promote acid enhance cherry crisp";
+var mnemonic = "quit sell this pond athlete fence merry afraid police student quiz february";

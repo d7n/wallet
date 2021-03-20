@@ -1,1 +1,1 @@
-var mnemonic = "brass oven unfair leisure tilt gift once gym science creek fiscal sing";
+var mnemonic = "faint normal sauce priority shy illness candy credit trust crop judge neutral";

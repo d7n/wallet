@@ -1,1 +1,1 @@
-var mnemonic = "hospital suspect diagram rib today soldier similar barely bulk stool flower city";
+var mnemonic = "evoke acid good mule inner flame donkey merit there harvest donate series";

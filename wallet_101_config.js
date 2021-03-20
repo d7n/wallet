@@ -1,1 +1,1 @@
-var mnemonic = "age inside moral wave name dwarf soul divorce beef hazard mule virtual";
+var mnemonic = "social attitude curious behind supreme ecology bind key couple guide father rebuild";

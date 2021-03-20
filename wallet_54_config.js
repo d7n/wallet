@@ -1,1 +1,1 @@
-var mnemonic = "image rug opinion addict weather silk mirror consider rail feed because chef";
+var mnemonic = "arrive coin hurry trick width suggest verify trial stumble vibrant addict goose";

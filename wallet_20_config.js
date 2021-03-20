@@ -1,1 +1,1 @@
-var mnemonic = "autumn spy eye tattoo bring attack foot safe guard ticket dance universe";
+var mnemonic = "final clinic vague chronic promote soccer planet agree flower habit series gate";

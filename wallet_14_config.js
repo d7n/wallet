@@ -1,1 +1,1 @@
-var mnemonic = "settle fun genre film neglect thank nation major planet horn genius success";
+var mnemonic = "dawn you wish problem stuff strong image spell mail egg absent flock";

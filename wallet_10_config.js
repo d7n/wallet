@@ -1,1 +1,1 @@
-var mnemonic = "differ ball canyon hobby view intact year group nice erode today blossom";
+var mnemonic = "undo street travel hotel pass quantum electric inhale endorse pottery often board";

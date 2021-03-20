@@ -1,1 +1,1 @@
-var mnemonic = "roof speed mobile resemble web essay glad dish argue wonder sword kiss";
+var mnemonic = "capable heart zebra rebuild vapor sibling loan glimpse filter modify boil draw";

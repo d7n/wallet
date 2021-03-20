@@ -1,1 +1,1 @@
-var mnemonic = "antique reopen grid people curtain sketch loud scan era cover balance receive";
+var mnemonic = "family prepare exercise achieve walnut match pink blast gain organ napkin adult";
