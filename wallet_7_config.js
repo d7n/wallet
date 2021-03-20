@@ -1,1 +1,1 @@
-var mnemonic = "eight image music odor garbage jump crack right circle index ticket language";
+var mnemonic = "tomorrow perfect pigeon wheel naive canvas old useful away lake satoshi burst";

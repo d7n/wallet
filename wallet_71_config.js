@@ -1,1 +1,1 @@
-var mnemonic = "trade jacket shaft wink upon private emotion maid corn bracket enter squeeze";
+var mnemonic = "galaxy reflect liquid you cabin envelope future sword still enact slice sound";

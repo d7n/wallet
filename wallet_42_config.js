@@ -1,1 +1,1 @@
-var mnemonic = "mansion panther lens trust jaguar direct proof absorb cargo note project endorse";
+var mnemonic = "tomorrow giggle wait order intact candy uncover trend kiwi until close rug";

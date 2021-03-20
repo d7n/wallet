@@ -1,1 +1,1 @@
-var mnemonic = "million attitude strategy remember answer misery supreme twist clock few stove name";
+var mnemonic = "clump stadium carry lazy pilot position surface pull bitter proud deliver involve";

@@ -1,1 +1,1 @@
-var mnemonic = "grain offer apology box erase spy iron chunk split robot harbor explain";
+var mnemonic = "answer absorb rubber sand doll hamster volcano truck shop asset monster goddess";

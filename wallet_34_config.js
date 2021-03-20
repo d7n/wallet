@@ -1,1 +1,1 @@
-var mnemonic = "goat soap mystery replace future bike fluid kingdom album acquire slide giant";
+var mnemonic = "excite satisfy artefact rack digital fluid urge clog message behave weather chalk";

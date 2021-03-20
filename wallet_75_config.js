@@ -1,1 +1,1 @@
-var mnemonic = "giraffe capable true degree range gather size husband twice water supply bacon";
+var mnemonic = "book guide emotion wool easy visual pole pudding lady figure glove supreme";

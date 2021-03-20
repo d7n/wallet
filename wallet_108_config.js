@@ -1,1 +1,1 @@
-var mnemonic = "pulp shadow invite cake zoo suggest blue actress decline bind bomb chest";
+var mnemonic = "verify glance gym ramp limb maximum amount alarm close busy burst hire";

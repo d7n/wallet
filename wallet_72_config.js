@@ -1,1 +1,1 @@
-var mnemonic = "adapt accident lesson vanish scrap cotton tube job steak laundry slam genius";
+var mnemonic = "review stereo unusual gadget daring city foster venture first million tower hurt";

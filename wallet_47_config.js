@@ -1,1 +1,1 @@
-var mnemonic = "day neck color fee chronic ride situate enroll want donor mimic paper";
+var mnemonic = "mountain they tank insect isolate burden since hurry crack actual finish town";

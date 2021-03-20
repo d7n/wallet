@@ -1,1 +1,1 @@
-var mnemonic = "merry rabbit shy home reduce charge kingdom girl syrup jelly impose latin";
+var mnemonic = "drum potato palace float unaware junk tell broken cruel surprise defy fantasy";

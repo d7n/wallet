@@ -1,1 +1,1 @@
-var mnemonic = "wall tray empty aspect blood enrich wonder window laundry crack use chicken";
+var mnemonic = "alter music random bring lawsuit until mom retire category material match brown";

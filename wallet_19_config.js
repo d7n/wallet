@@ -1,1 +1,1 @@
-var mnemonic = "obtain pitch later round suspect decline bean laptop vague track topple accuse";
+var mnemonic = "cream swing system utility cat spider panther nerve scrap extra despair rice";

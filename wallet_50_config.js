@@ -1,1 +1,1 @@
-var mnemonic = "artwork pioneer giggle hole betray tissue wood gorilla upon pink enable drama";
+var mnemonic = "item six faint reduce that sign drink stone saddle ghost possible lunar";

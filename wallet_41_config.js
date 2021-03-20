@@ -1,1 +1,1 @@
-var mnemonic = "end best sun keen cat soap giant arrive stand gun chimney negative";
+var mnemonic = "diesel mixture skin major worth naive priority submit dilemma injury sunset steak";

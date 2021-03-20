@@ -1,1 +1,1 @@
-var mnemonic = "loan depth claw connect ensure language plug seek soap chief stage story";
+var mnemonic = "split glide mesh bacon clap door rib music share food tree avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "pear broom raven honey open harbor enjoy ketchup melt rain shallow lizard";
+var mnemonic = "census negative clown athlete noble hunt wagon cute manual frozen strike tone";

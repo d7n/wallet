@@ -1,1 +1,1 @@
-var mnemonic = "crawl motor gas force question awake chimney medal forward marriage dentist december";
+var mnemonic = "alley divorce soul response park vicious jewel evolve interest model fortune later";

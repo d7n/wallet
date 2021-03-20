@@ -1,1 +1,1 @@
-var mnemonic = "august income race tool bubble client glad include cost remain remove voice";
+var mnemonic = "excess range artwork answer genius armor fork plunge shell buyer enrich boy";

@@ -1,1 +1,1 @@
-var mnemonic = "six prevent afraid pool eye gold shrug hobby force alert apart use";
+var mnemonic = "chat shop sweet range mercy whale sister arrow type peasant raccoon aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree lend avocado spice sphere breeze flame question fork noodle fiber drill";
+var mnemonic = "minute position favorite moment initial season rate spice chapter tube caught antique";

@@ -1,1 +1,1 @@
-var mnemonic = "beach useful scale elbow flash rare original napkin chalk struggle three stool";
+var mnemonic = "oblige bind blood shell execute prison prepare ridge seven unfair dune right";

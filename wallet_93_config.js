@@ -1,1 +1,1 @@
-var mnemonic = "motor carry popular work physical grain proof essence strong supreme ship arm";
+var mnemonic = "crawl another stadium sound atom grace blood fault divorce dynamic tiny dash";

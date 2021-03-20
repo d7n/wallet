@@ -1,1 +1,1 @@
-var mnemonic = "movie glare quit helmet throw raven turkey unfair happy weasel arena disorder";
+var mnemonic = "tiny ship picture opera state vivid since drift cart carbon grape bamboo";

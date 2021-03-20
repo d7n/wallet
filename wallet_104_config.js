@@ -1,1 +1,1 @@
-var mnemonic = "casino elder fault enact swim robust yellow erode gate exclude grunt feature";
+var mnemonic = "absurd okay reflect deny bottom evidence fiber alert security sustain balcony female";

@@ -1,1 +1,1 @@
-var mnemonic = "blade venture deer marble bullet name spoon eight arch wood drum jar";
+var mnemonic = "kit bike minute current lounge dog amateur turtle cattle riot position kiwi";

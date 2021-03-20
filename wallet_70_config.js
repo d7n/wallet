@@ -1,1 +1,1 @@
-var mnemonic = "toss trumpet capital clown tube bleak person tortoise clever soldier base panther";
+var mnemonic = "mechanic reveal energy square reform legal emotion buyer devote allow predict cannon";

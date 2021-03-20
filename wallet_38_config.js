@@ -1,1 +1,1 @@
-var mnemonic = "follow mail step narrow equip trim wisdom enable piano mean possible rate";
+var mnemonic = "cherry office fatal exchange traffic frame sunny curious chest awkward admit festival";

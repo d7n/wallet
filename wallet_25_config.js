@@ -1,1 +1,1 @@
-var mnemonic = "note bid camp spawn faculty old chat kidney exotic coffee magic swift";
+var mnemonic = "core pumpkin virus print hunt orphan rely either unfair this once exhaust";

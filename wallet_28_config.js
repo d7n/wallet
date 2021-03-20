@@ -1,1 +1,1 @@
-var mnemonic = "company crunch glove echo ceiling check fortune manual cabbage silk cereal beyond";
+var mnemonic = "library fluid dwarf join usage public actor during advance model lonely wasp";

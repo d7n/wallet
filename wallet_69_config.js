@@ -1,1 +1,1 @@
-var mnemonic = "shoe trophy hollow curve tribe length matrix cancel first soft oblige relax";
+var mnemonic = "disorder regular fence eternal girl student fan fame else leg off vessel";

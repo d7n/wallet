@@ -1,1 +1,1 @@
-var mnemonic = "music drink luxury sudden prosper twin soda boost canyon neglect short impulse";
+var mnemonic = "onion weekend omit wrestle ceiling year funny kiwi tonight worth wash honey";

@@ -1,1 +1,1 @@
-var mnemonic = "extra cigar together trip already orbit quit once amount isolate tip please";
+var mnemonic = "cool flip pretty slam know reopen burst keen clog weasel ten still";

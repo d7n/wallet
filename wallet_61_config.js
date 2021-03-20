@@ -1,1 +1,1 @@
-var mnemonic = "staff useless try solid path second grab apart junk choose stick diet";
+var mnemonic = "outdoor pulse vintage tribe castle will stamp seek zebra assist sting ghost";

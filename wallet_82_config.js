@@ -1,1 +1,1 @@
-var mnemonic = "auto duck theme matrix industry ozone tank second trial abandon document father";
+var mnemonic = "muffin indicate proud hope shine aisle banner liberty trick island cigar mobile";

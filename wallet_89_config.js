@@ -1,1 +1,1 @@
-var mnemonic = "unhappy maple outside anxiety morning chapter disorder say original sudden tank scheme";
+var mnemonic = "picture manual game essence disease length neutral harvest private march frequent decade";

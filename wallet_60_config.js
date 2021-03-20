@@ -1,1 +1,1 @@
-var mnemonic = "visual moment pave orange differ gentle diary income company nerve horror flight";
+var mnemonic = "soul match truck tent buyer print release forum stage badge quarter gas";

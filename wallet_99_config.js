@@ -1,1 +1,1 @@
-var mnemonic = "proud toast benefit deposit found win casual topple infant shoe grit spoil";
+var mnemonic = "right enemy rent emerge together split tuna hamster habit wrong vivid return";

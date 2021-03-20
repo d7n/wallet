@@ -1,1 +1,1 @@
-var mnemonic = "suspect organ clip blouse bind rhythm point loyal happy river wreck finger";
+var mnemonic = "assist birth invite peace entry group crawl stay october problem flavor hurry";

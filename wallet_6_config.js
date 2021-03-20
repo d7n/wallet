@@ -1,1 +1,1 @@
-var mnemonic = "rail myth only connect sweet payment match almost letter toward photo bomb";
+var mnemonic = "cruel tiger client series economy leopard another latin ranch mistake appear harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork concert raw gain eagle dream since gadget act trigger wrap squirrel";
+var mnemonic = "coil pig weasel trial frame autumn sound engine input drive interest method";

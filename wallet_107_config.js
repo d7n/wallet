@@ -1,1 +1,1 @@
-var mnemonic = "hero warfare knife flavor snack practice spatial small help stone hat conduct";
+var mnemonic = "tragic business token finger make enroll jewel rough result track fatigue unaware";

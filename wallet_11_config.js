@@ -1,1 +1,1 @@
-var mnemonic = "coach fever school scene blossom lumber shy ski night april vocal abandon";
+var mnemonic = "fitness turkey seven music month found certain maze strike poem public warfare";

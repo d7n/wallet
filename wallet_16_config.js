@@ -1,1 +1,1 @@
-var mnemonic = "huge merry forest balcony curtain pair supreme fresh session pill exist able";
+var mnemonic = "behind doctor tourist emotion material shell piano degree track height recipe close";

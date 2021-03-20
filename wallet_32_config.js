@@ -1,1 +1,1 @@
-var mnemonic = "mountain pencil ensure sorry donor flock harvest sick wood company deliver find";
+var mnemonic = "when sudden physical blush where news aisle oil list ridge cram avoid";

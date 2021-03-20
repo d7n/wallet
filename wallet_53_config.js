@@ -1,1 +1,1 @@
-var mnemonic = "tail chimney wish goose oblige inform jewel april cliff vicious news object";
+var mnemonic = "fee regular spatial crime mean swift taxi cable super attack casino silk";

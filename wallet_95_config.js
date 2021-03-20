@@ -1,1 +1,1 @@
-var mnemonic = "nerve nut seek hawk poet grant news slide extra august style avoid";
+var mnemonic = "agent cousin spider wild oyster piano level tape sail stand seed guitar";

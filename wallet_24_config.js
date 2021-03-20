@@ -1,1 +1,1 @@
-var mnemonic = "entire index error put ship repeat note genuine girl unhappy flee ordinary";
+var mnemonic = "uncover decide shed logic reveal garden talent math weather daughter ready amount";

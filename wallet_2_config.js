@@ -1,1 +1,1 @@
-var mnemonic = "staff ball volume shrimp potato split reform nephew frozen verb behind cage";
+var mnemonic = "favorite mass yard accident hurry joke jungle warfare human tornado maximum merry";

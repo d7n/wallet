@@ -1,1 +1,1 @@
-var mnemonic = "gate muscle midnight subway fancy amazing spin dinosaur fog fitness cry often";
+var mnemonic = "fit achieve ship damp ethics damp discover explain text coconut move tissue";

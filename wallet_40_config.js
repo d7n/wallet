@@ -1,1 +1,1 @@
-var mnemonic = "cruise swarm anxiety combine coin cattle meadow ring eagle nurse vehicle extra";
+var mnemonic = "gossip laugh blood comic gas nation come diary aspect talent summer kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery dice predict session cup ribbon sorry stick usage lecture deal foster";
+var mnemonic = "stone stadium measure prosper two neutral soap enter wide holiday bounce puppy";

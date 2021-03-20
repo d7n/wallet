@@ -1,1 +1,1 @@
-var mnemonic = "general pear brown bike hero memory hold amateur collect father hover access";
+var mnemonic = "foil color sad wink sad pole shrug win clip circle man oxygen";

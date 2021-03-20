@@ -1,1 +1,1 @@
-var mnemonic = "brush obvious retreat used sting payment stock merry boil panic reveal tiger";
+var mnemonic = "journey laptop way range advice stay light update often stock clock combine";

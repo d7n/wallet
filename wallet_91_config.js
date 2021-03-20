@@ -1,1 +1,1 @@
-var mnemonic = "fly blue volume guess stable segment feel library film squirrel equip worry";
+var mnemonic = "blast axis genuine leisure silent immune joy lucky dash atom once door";

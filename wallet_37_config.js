@@ -1,1 +1,1 @@
-var mnemonic = "flat game assist refuse material task hour key ready oyster crawl van";
+var mnemonic = "kite bachelor next father window satisfy crop wild bubble slot high boil";

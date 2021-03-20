@@ -1,1 +1,1 @@
-var mnemonic = "fall crumble toast mule bread swap office donor square this choose weapon";
+var mnemonic = "retreat universe matter together fold risk define scare fun clap home fox";

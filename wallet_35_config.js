@@ -1,1 +1,1 @@
-var mnemonic = "impulse mail dentist pause life grocery bless nasty before neck pink lounge";
+var mnemonic = "ordinary case gain senior basic dash peace fall urge celery autumn favorite";

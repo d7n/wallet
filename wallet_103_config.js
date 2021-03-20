@@ -1,1 +1,1 @@
-var mnemonic = "custom suit inspire govern electric giggle badge base tag call ensure wrong";
+var mnemonic = "woman hotel flip orbit room estate joke solve share indoor junk assist";

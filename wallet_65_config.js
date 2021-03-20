@@ -1,1 +1,1 @@
-var mnemonic = "angry boring mind dinner cart drum volume regret soon source neither walk";
+var mnemonic = "goat eager festival purity force minimum round nation make quarter paddle piano";

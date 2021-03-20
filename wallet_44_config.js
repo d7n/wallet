@@ -1,1 +1,1 @@
-var mnemonic = "raw execute unaware pitch dress butter amount real twice lumber turkey comic";
+var mnemonic = "exist auto neither reopen rebuild ivory club labor harbor flock combine cover";

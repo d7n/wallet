@@ -1,1 +1,1 @@
-var mnemonic = "staff steel final fox clock slab clerk program liar tackle bag code";
+var mnemonic = "convince age tool tragic coconut reward much bounce vessel horn suit bread";

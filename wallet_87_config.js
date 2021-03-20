@@ -1,1 +1,1 @@
-var mnemonic = "make inflict mystery multiply end size grow north spoil syrup real loud";
+var mnemonic = "bicycle weekend demand library cabbage have benefit phone flash mammal volume answer";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle dust hedgehog plate hurt year shop kiss law mistake entire divide";
+var mnemonic = "couch fresh alarm casino shine nice pyramid case artefact injury inside price";

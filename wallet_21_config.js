@@ -1,1 +1,1 @@
-var mnemonic = "dumb rent flee cake lecture slim interest burden ramp cherry receive blood";
+var mnemonic = "want sentence say shrug access agent edge vote swear heart glimpse tent";

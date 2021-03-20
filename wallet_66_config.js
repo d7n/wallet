@@ -1,1 +1,1 @@
-var mnemonic = "print main odor hundred dinner priority bachelor stock banner home dragon ignore";
+var mnemonic = "embark mistake mirror sunny young wheat salon amazing gloom smoke next lobster";

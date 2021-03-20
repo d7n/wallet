@@ -1,1 +1,1 @@
-var mnemonic = "moment oil benefit wink doctor announce occur caution boat raven oblige vault";
+var mnemonic = "cattle section cradle sport tiny crater still baby song shoot ill bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "device lottery alley company kidney echo donor never expire canvas version word";
+var mnemonic = "cabbage travel fever cram original trade win real matter auction eight alter";

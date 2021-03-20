@@ -1,1 +1,1 @@
-var mnemonic = "noise feel about enforce despair sibling village wheel trim rich sun purchase";
+var mnemonic = "when program apart lazy pause bag test buffalo tray rally settle later";

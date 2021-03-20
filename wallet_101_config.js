@@ -1,1 +1,1 @@
-var mnemonic = "magic milk radar category print robust turkey use prize basket horn lift";
+var mnemonic = "disorder ship license smile bitter object match mango cute height umbrella tomato";

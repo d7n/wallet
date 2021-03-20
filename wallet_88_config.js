@@ -1,1 +1,1 @@
-var mnemonic = "exhibit speed chuckle leader injury online eight dress drink output whisper become";
+var mnemonic = "disorder twice ignore sweet tonight super cereal popular dial worry wear rail";

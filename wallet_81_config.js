@@ -1,1 +1,1 @@
-var mnemonic = "absent cover coffee orange ordinary human angry until climb impose skill polar";
+var mnemonic = "sign market female saddle mean zone industry august rely fit dry exit";

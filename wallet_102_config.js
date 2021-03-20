@@ -1,1 +1,1 @@
-var mnemonic = "above bike thank talent hint ladder evoke horse lobster frown antenna march";
+var mnemonic = "draw promote exercise oxygen hurt flight foot thumb melt blind vote stable";

@@ -1,1 +1,1 @@
-var mnemonic = "enable clap announce panda cake pact weather jump sea view enable globe";
+var mnemonic = "flame doctor celery impose exclude adult unique item vapor wing twice carbon";

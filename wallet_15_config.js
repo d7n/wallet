@@ -1,1 +1,1 @@
-var mnemonic = "tube away case peasant outside mom fury glance refuse firm discover tired";
+var mnemonic = "clip claim west broccoli jeans rely ready rely ugly wine end wife";

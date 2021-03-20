@@ -1,1 +1,1 @@
-var mnemonic = "island reward slide near today decade learn pupil cotton color hand roof";
+var mnemonic = "oyster sudden refuse coyote kitten announce few suggest current horn credit tomato";

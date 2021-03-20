@@ -1,1 +1,1 @@
-var mnemonic = "inflict stairs mango trouble upset gravity fiction poverty forest raven raise uncle";
+var mnemonic = "method access depart inch make foam scale ring catch first theme hockey";

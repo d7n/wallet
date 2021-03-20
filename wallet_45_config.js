@@ -1,1 +1,1 @@
-var mnemonic = "clerk mail cloth shiver tortoise observe program antenna trust seven favorite arm";
+var mnemonic = "dawn fan update ready improve economy torch news certain riot inspire brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "dress suit side allow female express extend frown work solution identify practice";
+var mnemonic = "cannon style nation club lonely section giggle hood lunar wage doll champion";

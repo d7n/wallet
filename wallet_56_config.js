@@ -1,1 +1,1 @@
-var mnemonic = "safe climb thought creek bubble snow round plate lizard material cinnamon margin";
+var mnemonic = "claw stumble deal visual employ spend industry orbit sugar list broom system";

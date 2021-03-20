@@ -1,1 +1,1 @@
-var mnemonic = "museum define elder sniff section biology wheat wish ten month vessel aware";
+var mnemonic = "vendor layer alert glimpse market wisdom bid soccer palace mirror suffer unknown";

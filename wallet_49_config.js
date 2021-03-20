@@ -1,1 +1,1 @@
-var mnemonic = "kit gas battle rifle call collect excess brother sort erase captain match";
+var mnemonic = "stick soldier average grunt gift axis donor powder space hammer talent cave";

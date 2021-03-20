@@ -1,1 +1,1 @@
-var mnemonic = "hour cinnamon example float physical notable increase okay mimic region zoo impact";
+var mnemonic = "color critic exist hair mail laundry mule save honey during book also";

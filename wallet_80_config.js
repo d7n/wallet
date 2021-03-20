@@ -1,1 +1,1 @@
-var mnemonic = "retire unhappy solve simple check rare wealth toy maid arrive truck age";
+var mnemonic = "wedding enemy love adjust behave nature cheap best focus spawn image ahead";

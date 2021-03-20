@@ -1,1 +1,1 @@
-var mnemonic = "vacuum equal bus sense inform elbow curtain leave month minor weapon romance";
+var mnemonic = "ski document battle shallow bulk shell wide then arch dolphin rose fury";

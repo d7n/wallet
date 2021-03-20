@@ -1,1 +1,1 @@
-var mnemonic = "wheel bunker hurry lyrics program duck vendor open film traffic chase flame";
+var mnemonic = "innocent together erosion chapter horse shadow audit keen need nest similar divorce";

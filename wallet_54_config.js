@@ -1,1 +1,1 @@
-var mnemonic = "diesel kiss camera seat buzz affair demise process kite liberty tissue label";
+var mnemonic = "have three tomato grass news cat bus stay above fury you robot";

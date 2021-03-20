@@ -1,1 +1,1 @@
-var mnemonic = "sleep bike snow abstract cancel cost digital melt script grid siege decide";
+var mnemonic = "erode abstract client novel absurd extend olive earth buyer attack pear another";

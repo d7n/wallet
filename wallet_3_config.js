@@ -1,1 +1,1 @@
-var mnemonic = "gaze start chalk since shaft flight garage over hello learn curious edge";
+var mnemonic = "lounge front enact impose icon pledge huge rookie rabbit eternal oval isolate";

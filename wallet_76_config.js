@@ -1,1 +1,1 @@
-var mnemonic = "equal fiber animal pear actor custom retire swim upgrade end lamp manage";
+var mnemonic = "input security blanket fitness humor sudden summer nephew negative load prevent over";

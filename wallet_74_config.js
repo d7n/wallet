@@ -1,1 +1,1 @@
-var mnemonic = "emotion purse type analyst ivory bottom proud truly type cruel movie hood";
+var mnemonic = "gallery salad cluster paper cash motor above pulse flavor close label category";

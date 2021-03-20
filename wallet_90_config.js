@@ -1,1 +1,1 @@
-var mnemonic = "elephant dose daughter monitor output undo confirm north fever marble annual zero";
+var mnemonic = "maid mandate blouse dance path tissue drive never decade bind sweet rate";

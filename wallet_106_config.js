@@ -1,1 +1,1 @@
-var mnemonic = "wear dash lecture skirt unlock decade slot item move almost neglect belt";
+var mnemonic = "usage resemble sword music cost member fancy draw team innocent march action";

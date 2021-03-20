@@ -1,1 +1,1 @@
-var mnemonic = "foam frown end ticket october onion access pigeon marine prison page wealth";
+var mnemonic = "dynamic sentence wrist foam canyon punch clarify another buyer visa electric december";
