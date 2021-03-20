@@ -1,1 +1,1 @@
-var mnemonic = "hawk panda eternal romance clarify copper clump topple drama despair goddess slice";
+var mnemonic = "heart ostrich dilemma menu faculty about neither drill grace isolate alert hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze surround about pupil sing census adapt lady mercy olive split pottery";
+var mnemonic = "urge pitch pair jaguar cause core useless pond awesome sugar same require";

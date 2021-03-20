@@ -1,1 +1,1 @@
-var mnemonic = "water swing damage broken entire insect raccoon inner vicious spike charge olympic";
+var mnemonic = "rack frog obvious addict hurt exhibit shine parent twenty welcome light damp";

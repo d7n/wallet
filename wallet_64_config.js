@@ -1,1 +1,1 @@
-var mnemonic = "search ecology master bitter cradle about disorder inject crater enact immune filter";
+var mnemonic = "work cheese raven length host bullet usual cradle rabbit shock slush solar";

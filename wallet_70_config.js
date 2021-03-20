@@ -1,1 +1,1 @@
-var mnemonic = "soccer pattern fatigue future leaf push evidence town pizza hen sick account";
+var mnemonic = "end enough between gun harvest daughter vocal rural amount step air ethics";

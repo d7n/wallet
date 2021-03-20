@@ -1,1 +1,1 @@
-var mnemonic = "advance surprise gaze ozone coach later dose column farm expire lawsuit want";
+var mnemonic = "lucky gallery decrease gauge drama critic order execute forest street volcano shop";

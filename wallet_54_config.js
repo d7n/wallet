@@ -1,1 +1,1 @@
-var mnemonic = "ghost art desert allow dad hollow nothing exchange season text grass two";
+var mnemonic = "page quarter offer network judge vanish family vanish fluid mind crouch pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle rifle alien chest echo inner scare inject supply december reject caught";
+var mnemonic = "trick gloom soon angle bonus dance river crush venture corn witness general";

@@ -1,1 +1,1 @@
-var mnemonic = "used chicken custom rural average wave valid rude quantum tissue economy eight";
+var mnemonic = "dog jealous general usage ivory decline foam jewel winter west creek addict";

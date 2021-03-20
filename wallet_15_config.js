@@ -1,1 +1,1 @@
-var mnemonic = "version slot physical benefit blood toward tool garden boring farm key badge";
+var mnemonic = "filter example town jump chaos sock twist trick fatal suspect rain garbage";

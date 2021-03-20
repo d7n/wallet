@@ -1,1 +1,1 @@
-var mnemonic = "tray tooth glove leave cheese art tree misery witness fluid blur scare";
+var mnemonic = "must rug dirt scheme media title vivid ignore movie destroy adapt caught";

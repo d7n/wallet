@@ -1,1 +1,1 @@
-var mnemonic = "stone sadness hood art real disorder popular avoid dynamic laundry course tree";
+var mnemonic = "polar usual cattle wedding monitor bomb toilet rich puzzle earn enlist coach";

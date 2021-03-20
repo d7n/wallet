@@ -1,1 +1,1 @@
-var mnemonic = "few tooth romance mean own trip recall impact exclude cricket forum object";
+var mnemonic = "faculty divide drift brave theme rib pioneer theory slim decade yellow matter";

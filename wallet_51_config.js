@@ -1,1 +1,1 @@
-var mnemonic = "empower truth doctor birth drive regular thank gasp valve tip tribe mercy";
+var mnemonic = "dice matrix shell owner spray hospital leave review zebra excess crack replace";

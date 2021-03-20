@@ -1,1 +1,1 @@
-var mnemonic = "find economy leg intact stick evolve vanish general cook valley absorb remember";
+var mnemonic = "screen expand arrange crop clever adult section cook toy misery across arrive";

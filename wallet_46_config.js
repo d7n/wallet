@@ -1,1 +1,1 @@
-var mnemonic = "dog tobacco crop shiver soldier mimic under feel boy retire culture burst";
+var mnemonic = "equip vacant hill punch black live coach evolve virus climb ridge nut";

@@ -1,1 +1,1 @@
-var mnemonic = "employ neglect album sponsor trigger decade exist harbor flip flavor cool burden";
+var mnemonic = "problem century denial goat appear develop copper sunset predict rough type budget";

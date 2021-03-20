@@ -1,1 +1,1 @@
-var mnemonic = "slot rebel yard jewel mistake enemy happy flower virtual property rich hurdle";
+var mnemonic = "push start post beach blind clap fashion lawsuit convince foot lesson hill";

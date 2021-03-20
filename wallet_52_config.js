@@ -1,1 +1,1 @@
-var mnemonic = "measure tone curious gossip upset easily media route valve wrestle prison canvas";
+var mnemonic = "drift bridge toilet pretty game jaguar gospel cabin rain debris learn scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "grit jelly dinosaur elevator edit enact tiny adjust quote siege object hazard";
+var mnemonic = "order victory crystal awful hover jelly crime fix minor inmate choice harvest";

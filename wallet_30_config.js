@@ -1,1 +1,1 @@
-var mnemonic = "gauge milk salmon unhappy token crawl section pond bench extra style damp";
+var mnemonic = "clap elite spirit profit oxygen praise someone summer feel olympic present chef";

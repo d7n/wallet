@@ -1,1 +1,1 @@
-var mnemonic = "cake bracket depend banner misery black unveil foil depth victory casino spray";
+var mnemonic = "author mouse they tribe solve receive boss fossil dizzy dash wise disagree";

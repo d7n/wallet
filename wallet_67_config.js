@@ -1,1 +1,1 @@
-var mnemonic = "gravity blanket onion evil purity floor return kingdom canoe ask traffic voice";
+var mnemonic = "hurry month risk seven once athlete verb awake frost river phone urge";

@@ -1,1 +1,1 @@
-var mnemonic = "ski elite drama expect filter taxi scale yellow lawsuit flush almost shove";
+var mnemonic = "engage clip wire talk bar brown vintage derive purchase state attend quit";

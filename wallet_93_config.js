@@ -1,1 +1,1 @@
-var mnemonic = "demise income start hub raw pigeon mercy broccoli crucial piano all elite";
+var mnemonic = "ability grace universe steel where battle gloom split pear omit rack first";

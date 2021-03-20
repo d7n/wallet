@@ -1,1 +1,1 @@
-var mnemonic = "play topic universe victory seminar ozone blind hill spy maximum chair artwork";
+var mnemonic = "throw accident phone sun beach clever inhale estate mother picnic cushion proof";

@@ -1,1 +1,1 @@
-var mnemonic = "stand hip unfair spy cheese tragic husband sister fury wheel detail fade";
+var mnemonic = "bright more humor switch tower focus eager scare myth torch december economy";

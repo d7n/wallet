@@ -1,1 +1,1 @@
-var mnemonic = "piano metal above kiss pave ginger differ flavor letter park desk differ";
+var mnemonic = "example half analyst leopard nice bacon sick cannon glare bicycle action trim";

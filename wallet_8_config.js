@@ -1,1 +1,1 @@
-var mnemonic = "inquiry acquire finger you injury brand another great place slow eight trophy";
+var mnemonic = "slender chef behave rural brother illegal mystery stem special silver between lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "sample slush caution sustain tip promote real must orphan wage open tuition";
+var mnemonic = "visa swim minimum gift worry hobby trick media they input hamster wine";

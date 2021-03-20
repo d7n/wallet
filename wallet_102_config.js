@@ -1,1 +1,1 @@
-var mnemonic = "uncover merge drastic wagon history inspire trophy life view burger wagon jacket";
+var mnemonic = "hospital stove chicken tank frown cinnamon minute wonder smooth dance error put";

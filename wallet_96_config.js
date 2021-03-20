@@ -1,1 +1,1 @@
-var mnemonic = "vast again swallow foster burden act slide abstract walk club olive jeans";
+var mnemonic = "fitness series vote path impose warfare east just improve wage final kitten";

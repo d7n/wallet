@@ -1,1 +1,1 @@
-var mnemonic = "crystal ticket cube glide decorate gentle pull sausage deposit rapid ankle grain";
+var mnemonic = "cluster run timber room ocean love know patient volcano protect amused photo";

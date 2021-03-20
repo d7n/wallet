@@ -1,1 +1,1 @@
-var mnemonic = "amused outdoor fatigue major dune unfold tank title rapid thunder wedding legend";
+var mnemonic = "hungry fiber dynamic glow home slush indicate flavor dignity narrow chase pioneer";

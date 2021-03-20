@@ -1,1 +1,1 @@
-var mnemonic = "core drip train ice palace visit entire actress teach enter hurt hill";
+var mnemonic = "broken toward type boss category design real piano salon scout panel pill";

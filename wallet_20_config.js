@@ -1,1 +1,1 @@
-var mnemonic = "genre scatter shuffle mountain real flee fabric trip future shine wage feel";
+var mnemonic = "soldier wolf tuna promote track unhappy plastic because confirm impulse punch surge";

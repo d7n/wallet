@@ -1,1 +1,1 @@
-var mnemonic = "lens scatter much memory hub brain stool original maple project avoid add";
+var mnemonic = "cruise armed cactus physical prize uphold erosion talent field staff nice much";

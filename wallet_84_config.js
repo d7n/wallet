@@ -1,1 +1,1 @@
-var mnemonic = "strategy plunge pepper unknown depth artwork reason despair chicken enter light subject";
+var mnemonic = "scare such hobby net strategy gold drink misery apart use pole adapt";

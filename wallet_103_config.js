@@ -1,1 +1,1 @@
-var mnemonic = "animal october follow move shy enroll dry quantum three volume end civil";
+var mnemonic = "spray chalk glad foot solve brisk traffic turkey combine switch scare major";

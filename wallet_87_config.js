@@ -1,1 +1,1 @@
-var mnemonic = "pistol rotate identify music reward steak initial ship crime kid liquid enrich";
+var mnemonic = "area wait task crop throw session punch assault urban leopard clever gossip";

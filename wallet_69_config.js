@@ -1,1 +1,1 @@
-var mnemonic = "popular pelican picture family calm inhale museum nice bread few ski flower";
+var mnemonic = "wink rent skin find romance visa legal liberty supply digital column sustain";

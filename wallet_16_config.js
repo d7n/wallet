@@ -1,1 +1,1 @@
-var mnemonic = "south valid have half army travel antique divert unit turkey balcony festival";
+var mnemonic = "program cry focus decline subway jealous guess kitten wish flat disagree horn";

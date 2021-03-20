@@ -1,1 +1,1 @@
-var mnemonic = "tooth crazy debate host gap blouse suffer swim cradle hawk eagle core";
+var mnemonic = "floor polar typical ostrich act maximum law toss foam faith unable cheese";

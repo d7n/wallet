@@ -1,1 +1,1 @@
-var mnemonic = "december field move fame wrist bring pride outdoor allow much easy immense";
+var mnemonic = "radio squirrel all surge nest crawl badge limb moon dose skill banner";

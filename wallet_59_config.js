@@ -1,1 +1,1 @@
-var mnemonic = "minimum tube orient balance seed piece cycle energy dynamic cave depth fiction";
+var mnemonic = "leave run soap empower loud advice deal guitar clay easy sponsor key";

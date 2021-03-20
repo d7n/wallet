@@ -1,1 +1,1 @@
-var mnemonic = "bag enforce walnut soup kitchen swarm elbow regular fox gorilla resemble try";
+var mnemonic = "priority meat twist oil record weasel only pluck sense forget three tired";

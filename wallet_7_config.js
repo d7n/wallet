@@ -1,1 +1,1 @@
-var mnemonic = "couch cousin scissors corn neither suggest canvas flat thank deer half bundle";
+var mnemonic = "invite ritual help hidden emotion toward enact sting bar sad witness tragic";

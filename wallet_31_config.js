@@ -1,1 +1,1 @@
-var mnemonic = "youth chapter report blast flower vendor dune power source guard describe nurse";
+var mnemonic = "aisle glad cigar mixed process release try wrist cry hover plate extra";

@@ -1,1 +1,1 @@
-var mnemonic = "often digital consider salmon will diesel style throw crush tower nice tower";
+var mnemonic = "quiz token know day put oil risk absent access sudden letter world";

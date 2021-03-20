@@ -1,1 +1,1 @@
-var mnemonic = "inch divorce unhappy goat sauce else alert ripple relief gadget lecture large";
+var mnemonic = "special dizzy bamboo other venue body void chase glory rice tissue thing";

@@ -1,1 +1,1 @@
-var mnemonic = "regular hair behind coffee ride tone vital garment one shadow double sense";
+var mnemonic = "document license afford among height amused dirt vast dry penalty pet wedding";

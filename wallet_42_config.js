@@ -1,1 +1,1 @@
-var mnemonic = "clip planet offer finish debate position spirit cute summer hungry recycle despair";
+var mnemonic = "pull merit pattern fall fine spot club club vanish regret horror wash";

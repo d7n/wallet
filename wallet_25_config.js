@@ -1,1 +1,1 @@
-var mnemonic = "tumble roof pudding skull design play media slot age obvious private wrong";
+var mnemonic = "acoustic mouse steak curve faculty interest file student record divert series mention";

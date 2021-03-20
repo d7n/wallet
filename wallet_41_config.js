@@ -1,1 +1,1 @@
-var mnemonic = "fox happy reform volcano amateur caution two segment board muscle cycle ship";
+var mnemonic = "retreat radar toss direct hazard inside curve surge marriage ignore rebel together";

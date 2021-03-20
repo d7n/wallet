@@ -1,1 +1,1 @@
-var mnemonic = "now together kiss taste together inflict key domain legal citizen build blame";
+var mnemonic = "enjoy future spy feed group nation adult uncover decide city edge fee";

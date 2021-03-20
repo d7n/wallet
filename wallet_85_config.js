@@ -1,1 +1,1 @@
-var mnemonic = "honey erupt indoor industry echo okay stick search spot inmate first little";
+var mnemonic = "bind nurse sight ginger electric tortoise planet kitchen hire lady bird suggest";

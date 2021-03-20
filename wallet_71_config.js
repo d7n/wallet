@@ -1,1 +1,1 @@
-var mnemonic = "breeze demand flip guitar heart skirt feed book strike swamp gap dwarf";
+var mnemonic = "hub own crop tennis wife unusual monster cake great blouse mixture latin";

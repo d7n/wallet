@@ -1,1 +1,1 @@
-var mnemonic = "goat give buyer fly loyal question bullet wave lazy wrong fine shuffle";
+var mnemonic = "record melt enough owner bench afraid tuna add animal early gown layer";

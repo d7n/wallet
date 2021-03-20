@@ -1,1 +1,1 @@
-var mnemonic = "balcony robust cram quality adapt truck pupil bicycle trap exit lunch useful";
+var mnemonic = "already globe smile search exercise slam quick matter wash capable fish liar";

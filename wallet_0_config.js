@@ -1,1 +1,1 @@
-var mnemonic = "debris pulse spawn fatigue case seed entire verify mean mask voyage retreat";
+var mnemonic = "include need reopen square retire juice reveal shoulder nurse stay roast office";

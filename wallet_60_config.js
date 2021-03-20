@@ -1,1 +1,1 @@
-var mnemonic = "color parrot people parade amazing scrap fun long level phrase panther arena";
+var mnemonic = "arrow frequent style noise finish oxygen pill ice suit nothing make since";

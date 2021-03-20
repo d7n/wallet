@@ -1,1 +1,1 @@
-var mnemonic = "puppy soft rug vendor session vapor salute chat cause item survey liquid";
+var mnemonic = "blind benefit drift lift gold distance slush intact only frog dawn cotton";

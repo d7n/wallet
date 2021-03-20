@@ -1,1 +1,1 @@
-var mnemonic = "cargo aim ship siege staff wash pulp hill charge unfold solid across";
+var mnemonic = "appear tide better trip attract pioneer wet another chest vanish display aunt";

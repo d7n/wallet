@@ -1,1 +1,1 @@
-var mnemonic = "fuel submit zero carry sock insane ozone blossom stick wine input dog";
+var mnemonic = "slice right belt olympic claw shop film emerge boring essence cup cook";

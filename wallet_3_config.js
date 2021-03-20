@@ -1,1 +1,1 @@
-var mnemonic = "edge rice creek burden runway rug december aunt reopen excuse coral debris";
+var mnemonic = "lemon visual bullet interest lizard remember frost yard letter tray nothing input";

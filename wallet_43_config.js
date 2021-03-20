@@ -1,1 +1,1 @@
-var mnemonic = "neglect asthma trap tongue rib fatigue shift dilemma gather twin fresh box";
+var mnemonic = "pulp ridge will endorse digital fade type shallow work general lemon popular";

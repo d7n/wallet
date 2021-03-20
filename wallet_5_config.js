@@ -1,1 +1,1 @@
-var mnemonic = "final visual legal daring owner sniff flock quantum crowd symbol patient coin";
+var mnemonic = "trumpet nasty flee drive napkin federal model crunch shadow oblige meat shrimp";

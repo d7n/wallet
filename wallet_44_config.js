@@ -1,1 +1,1 @@
-var mnemonic = "agent toe float paddle bitter witness antique gun dune relief rely melody";
+var mnemonic = "fog endorse pledge sudden version toddler shoulder degree sniff vapor impose square";

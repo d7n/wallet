@@ -1,1 +1,1 @@
-var mnemonic = "draft limb similar cake wheel teach pumpkin frown wisdom silent october blood";
+var mnemonic = "movie derive faculty antenna piece spoon example empower clarify web destroy roast";

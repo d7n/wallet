@@ -1,1 +1,1 @@
-var mnemonic = "ancient auction century gasp original lens purchase depth hover certain bus embrace";
+var mnemonic = "sure seminar eight logic rude sick clog avocado mind forward example acquire";

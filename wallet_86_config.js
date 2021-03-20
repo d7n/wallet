@@ -1,1 +1,1 @@
-var mnemonic = "melt enter surround muscle sell modify civil dolphin bulk kingdom field pumpkin";
+var mnemonic = "blue laugh ghost loyal describe dish anxiety clap million height coconut vital";

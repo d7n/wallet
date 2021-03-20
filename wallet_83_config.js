@@ -1,1 +1,1 @@
-var mnemonic = "feel earn amateur genre state screen rib manual banana night crop switch";
+var mnemonic = "try jealous impose audit engine toast essence session hen unaware cliff layer";

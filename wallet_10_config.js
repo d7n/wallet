@@ -1,1 +1,1 @@
-var mnemonic = "cabin swamp armed lawn ancient kick race west monkey typical truck bean";
+var mnemonic = "plastic glue giant zebra time chalk van van pair sport west sustain";

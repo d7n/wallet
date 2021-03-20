@@ -1,1 +1,1 @@
-var mnemonic = "never describe globe word humor under plug ski damp kick decorate off";
+var mnemonic = "actress goddess barrel omit boss media student sheriff consider math lucky stay";

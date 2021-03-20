@@ -1,1 +1,1 @@
-var mnemonic = "cloud butter hour city setup ridge steak balcony daughter matrix weird crane";
+var mnemonic = "salmon exercise thrive public merit salmon inherit peasant clump state prevent paddle";

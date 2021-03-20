@@ -1,1 +1,1 @@
-var mnemonic = "tail glance okay normal witness away deposit excess inquiry tackle simple chef";
+var mnemonic = "rib leave action world regular piece hint rice drama life fork ginger";

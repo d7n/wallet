@@ -1,1 +1,1 @@
-var mnemonic = "click surround favorite morning lion matter nuclear essay clutch need digital believe";
+var mnemonic = "ghost plug chalk enough soldier over drip slight bread talent mask spot";

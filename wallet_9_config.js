@@ -1,1 +1,1 @@
-var mnemonic = "normal divert cattle recall about lunar crowd arena dirt warrior mail butter";
+var mnemonic = "usage ahead twenty risk feature kite health motion detail matter enough gold";

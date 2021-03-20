@@ -1,1 +1,1 @@
-var mnemonic = "early desk lab scrap turn topic relax soon daring maze record view";
+var mnemonic = "place episode poet supreme just build february enforce swim monitor spare disease";

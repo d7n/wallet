@@ -1,1 +1,1 @@
-var mnemonic = "shell hospital pilot very mammal tobacco talk height vanish fat idea stomach";
+var mnemonic = "staff canoe buyer kingdom room absorb vacant curious repeat cart pole dove";

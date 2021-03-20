@@ -1,1 +1,1 @@
-var mnemonic = "angle weather across fruit water sketch hello radar blood syrup bread just";
+var mnemonic = "sniff milk will clarify rifle sniff thing stool resource fence swamp shiver";

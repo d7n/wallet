@@ -1,1 +1,1 @@
-var mnemonic = "scare jelly start toward spirit avoid wait badge tank lava pear march";
+var mnemonic = "catalog oyster holiday actress hip prosper such reveal type snap because extra";

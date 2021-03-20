@@ -1,1 +1,1 @@
-var mnemonic = "oxygen unlock capable glance decide game arctic mystery era unable spend already";
+var mnemonic = "grant jewel soft cushion prison few gorilla chicken clarify involve loyal cover";

@@ -1,1 +1,1 @@
-var mnemonic = "base pretty mosquito artefact earn note cereal sport mountain apology media away";
+var mnemonic = "burden strategy science misery tank million violin fatigue involve execute welcome media";

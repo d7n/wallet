@@ -1,1 +1,1 @@
-var mnemonic = "river model merge all garlic save warrior letter rice rescue motor silent";
+var mnemonic = "topple story isolate gap exclude dentist shell energy now control purpose fever";

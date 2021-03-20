@@ -1,1 +1,1 @@
-var mnemonic = "hip public hen tackle resemble dinosaur curtain wisdom gadget start all clarify";
+var mnemonic = "supply science use never idle tell clown exhaust maid install glue burger";

@@ -1,1 +1,1 @@
-var mnemonic = "nose tongue pet stereo hood either tuition stereo journey define stone kick";
+var mnemonic = "win deliver hair hour aspect hand visit ill blind ahead cook jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "service barely prepare guess idle sell unusual spawn panel toast scheme melody";
+var mnemonic = "strong across fluid stereo admit sketch number type loop unfair energy outside";

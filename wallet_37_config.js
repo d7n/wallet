@@ -1,1 +1,1 @@
-var mnemonic = "receive ethics club manage amateur final december found valve feel crawl lyrics";
+var mnemonic = "announce jeans filter report below review derive catalog crisp entry unfold unfold";

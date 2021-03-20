@@ -1,1 +1,1 @@
-var mnemonic = "elevator auction onion swap lock planet region pulse smile marble pudding cluster";
+var mnemonic = "camera easily tongue kiwi skate again network pluck dice peasant dust author";
