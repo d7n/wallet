@@ -1,1 +1,1 @@
-var mnemonic = "despair across able rain leopard december robust belt barely film mistake leaf";
+var mnemonic = "hub swamp churn glove length dragon curve slam usage fabric ill tell";

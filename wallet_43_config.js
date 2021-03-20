@@ -1,1 +1,1 @@
-var mnemonic = "arch mail fish govern student island route deposit theme reason wrong snack";
+var mnemonic = "attack knee lyrics bounce cup basket fashion taste common body pause oxygen";

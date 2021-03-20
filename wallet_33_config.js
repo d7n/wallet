@@ -1,1 +1,1 @@
-var mnemonic = "antenna require slam cake west penalty captain hazard item pizza tribe sign";
+var mnemonic = "quantum tornado fold unknown close faint lend pause tribe project combine link";

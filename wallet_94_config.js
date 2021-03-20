@@ -1,1 +1,1 @@
-var mnemonic = "drastic sell result lake young caution abandon salmon seven canal logic buzz";
+var mnemonic = "leader cruel organ diary edge below squirrel forest pitch alone normal satisfy";

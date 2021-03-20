@@ -1,1 +1,1 @@
-var mnemonic = "middle word edge pear vote sport deputy tackle music recall cash range";
+var mnemonic = "bicycle shoot patch foam suggest mammal duty december film marriage build bone";

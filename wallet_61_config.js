@@ -1,1 +1,1 @@
-var mnemonic = "oyster hobby stadium cube start strong lake drill glass chunk diary clever";
+var mnemonic = "one bone assault siren coin admit agent glue giant file scene razor";

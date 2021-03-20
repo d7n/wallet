@@ -1,1 +1,1 @@
-var mnemonic = "north remove chronic identify net dwarf rescue amused fabric bring coyote foam";
+var mnemonic = "hill come faculty onion fire mistake example worth keen pizza garment adjust";

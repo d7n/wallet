@@ -1,1 +1,1 @@
-var mnemonic = "buyer connect fossil eagle permit usage clock trash news attract rose embark";
+var mnemonic = "noble benefit office hour attitude broom weekend first equip stone occur when";

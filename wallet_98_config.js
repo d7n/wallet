@@ -1,1 +1,1 @@
-var mnemonic = "light appear depth ring erupt grab flee grape talk recycle seat kiwi";
+var mnemonic = "depend ginger shed connect arch cactus cube size cruel cushion federal oil";

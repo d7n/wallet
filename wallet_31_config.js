@@ -1,1 +1,1 @@
-var mnemonic = "refuse burger script tray congress toast term bird champion jaguar congress bird";
+var mnemonic = "clay solar region mouse tube salute clip jeans employ escape canal penalty";

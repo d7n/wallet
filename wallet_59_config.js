@@ -1,1 +1,1 @@
-var mnemonic = "mystery crack daughter shift correct blanket broccoli tray release witness plunge used";
+var mnemonic = "crunch cricket salute ticket primary essay belt brisk legal search sudden lens";

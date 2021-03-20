@@ -1,1 +1,1 @@
-var mnemonic = "thumb city scare oak yellow series section field truth print exercise erode";
+var mnemonic = "add copper seven response black erode denial viable absent payment fever daughter";

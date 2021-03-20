@@ -1,1 +1,1 @@
-var mnemonic = "point guess weekend lens just diagram sunny celery artefact ladder boss fix";
+var mnemonic = "animal leg refuse cherry amazing list gentle salad thumb grow toy ring";

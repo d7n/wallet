@@ -1,1 +1,1 @@
-var mnemonic = "blanket recall language merge shove dirt iron doll mechanic advance canoe upper";
+var mnemonic = "scare rocket indoor deer wreck mutual absorb close equip fox extra onion";

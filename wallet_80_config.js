@@ -1,1 +1,1 @@
-var mnemonic = "window embody dinosaur oval thank people nation urge world hand develop knock";
+var mnemonic = "walk safe tattoo cool clog allow sight crew sure shoot slab helmet";

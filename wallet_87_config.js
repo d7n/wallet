@@ -1,1 +1,1 @@
-var mnemonic = "raise nominee rocket video old glance child process upper trick slush solution";
+var mnemonic = "lyrics sword copper duty hollow order squirrel clerk zoo taxi during buddy";

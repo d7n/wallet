@@ -1,1 +1,1 @@
-var mnemonic = "diary arrest mobile nominee mouse setup narrow apple company come hen gadget";
+var mnemonic = "catch spice useful video solid clump hat pull spy mystery history direct";

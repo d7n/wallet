@@ -1,1 +1,1 @@
-var mnemonic = "ride priority rural repair spawn snap gold scene maple enemy visual adjust";
+var mnemonic = "rely total grab affair trigger lake gain relax sell drastic still fringe";

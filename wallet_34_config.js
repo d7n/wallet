@@ -1,1 +1,1 @@
-var mnemonic = "liberty wine provide math fluid cherry rocket joy bring keep point tray";
+var mnemonic = "leaf fatigue skill ridge small shaft exact april attack plug rough debate";

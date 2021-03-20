@@ -1,1 +1,1 @@
-var mnemonic = "ignore unit reform genre chase practice control olympic guide poverty derive hunt";
+var mnemonic = "thunder rack peasant borrow blush fortune bid act flash sausage museum toast";

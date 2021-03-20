@@ -1,1 +1,1 @@
-var mnemonic = "orbit smart salmon pear enjoy eagle betray midnight average narrow under library";
+var mnemonic = "amount subway dismiss useful cousin copy weasel picture master scan execute conduct";

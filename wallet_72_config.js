@@ -1,1 +1,1 @@
-var mnemonic = "true card whisper fit cover object scare engine thing patch salt metal";
+var mnemonic = "patient amused leg target cloud upon cheap essay library thing lazy lecture";

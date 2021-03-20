@@ -1,1 +1,1 @@
-var mnemonic = "worry cat believe swing spot head garden news float release liar spring";
+var mnemonic = "defy brand pond alone follow giggle have expire father slim country smooth";

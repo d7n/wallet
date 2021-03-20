@@ -1,1 +1,1 @@
-var mnemonic = "often siege brown scissors sail license diet cost olympic blood soft noise";
+var mnemonic = "one during blanket host replace power win spawn input echo champion lucky";

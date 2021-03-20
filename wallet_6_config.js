@@ -1,1 +1,1 @@
-var mnemonic = "scrub ozone skirt clinic rhythm maple they glance often kidney uncle rice";
+var mnemonic = "coconut excess march stove limit guide unable way hundred innocent control apart";

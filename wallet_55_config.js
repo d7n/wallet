@@ -1,1 +1,1 @@
-var mnemonic = "cube lecture immense solar coral submit bullet live flush jump add resource";
+var mnemonic = "air keep inner broccoli burger diagram goat swarm onion during spread point";

@@ -1,1 +1,1 @@
-var mnemonic = "escape toddler obtain prevent depend siege nephew regret amazing cattle brief enrich";
+var mnemonic = "suspect height issue cigar news ensure virus method harsh paper initial tunnel";

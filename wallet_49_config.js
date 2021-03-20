@@ -1,1 +1,1 @@
-var mnemonic = "ketchup sustain brain depth correct west coral welcome robot arctic require lobster";
+var mnemonic = "grant upon text theory cycle void vanish lottery lesson grant promote interest";

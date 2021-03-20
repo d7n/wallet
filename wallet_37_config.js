@@ -1,1 +1,1 @@
-var mnemonic = "remember trash present fat sock wisdom rib yellow rocket aerobic core number";
+var mnemonic = "hat pole assume person hint mom lumber kiwi extra noise enrich hunt";

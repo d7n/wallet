@@ -1,1 +1,1 @@
-var mnemonic = "nasty protect autumn scan figure dentist across ring mom sell lyrics shoot";
+var mnemonic = "priority depart exhibit pitch remind exotic disorder stumble rabbit youth ginger interest";

@@ -1,1 +1,1 @@
-var mnemonic = "pause vessel sweet legend police resource cram purchase rescue critic toddler fire";
+var mnemonic = "pottery used knife thumb sort debris egg critic panic cost huge token";

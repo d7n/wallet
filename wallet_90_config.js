@@ -1,1 +1,1 @@
-var mnemonic = "echo capital gather dirt gossip absurd settle intact universe snap myself auction";
+var mnemonic = "aerobic differ relief render okay ceiling oak enough dress sock deer mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "license crash surround suggest sniff slim quick elevator issue move coffee ensure";
+var mnemonic = "brush hedgehog vault next salt worth giggle trip people perfect local seek";

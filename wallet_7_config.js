@@ -1,1 +1,1 @@
-var mnemonic = "keen can ginger relax jaguar picture token vivid crew faith acid rescue";
+var mnemonic = "anger insane today miracle furnace festival flame over super various enlist spin";

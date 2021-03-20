@@ -1,1 +1,1 @@
-var mnemonic = "cloth seed advance barely pole surprise pride trick dignity bread material cricket";
+var mnemonic = "peanut hand lesson cost boring miss check drastic relief tent loan brush";

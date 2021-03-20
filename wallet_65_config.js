@@ -1,1 +1,1 @@
-var mnemonic = "blast small index icon length oil clutch dilemma frozen try tank obey";
+var mnemonic = "song gloom mystery jump job funny leisure old license soft tube inquiry";

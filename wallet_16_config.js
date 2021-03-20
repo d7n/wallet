@@ -1,1 +1,1 @@
-var mnemonic = "brick spy mansion about culture pelican produce remember know stand cannon pause";
+var mnemonic = "erosion photo copy zone praise sweet shift provide pass letter pear canal";

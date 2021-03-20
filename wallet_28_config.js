@@ -1,1 +1,1 @@
-var mnemonic = "present lottery roast carpet absent axis mixed fury embody purpose first pulse";
+var mnemonic = "risk pizza gym ecology ability donkey fancy drama similar render tooth typical";

@@ -1,1 +1,1 @@
-var mnemonic = "save grain furnace resemble chase buzz giggle cloth gym skull debris ancient";
+var mnemonic = "image expect educate offer unfair you bomb vivid budget upon rough turtle";

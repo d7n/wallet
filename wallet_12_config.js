@@ -1,1 +1,1 @@
-var mnemonic = "into sting equal oven blouse tornado teach divorce miracle idle gallery page";
+var mnemonic = "core train tuition erupt where banana emerge hurry process ancient blossom cargo";

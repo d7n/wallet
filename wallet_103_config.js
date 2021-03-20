@@ -1,1 +1,1 @@
-var mnemonic = "twist text judge scrub squirrel walk control sad radar fluid embark elephant";
+var mnemonic = "observe scale puzzle current until explain evidence copper wife desk indicate door";

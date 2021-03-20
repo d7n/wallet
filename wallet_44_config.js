@@ -1,1 +1,1 @@
-var mnemonic = "adapt brave work age brick useless sport burger humor basic height mystery";
+var mnemonic = "ritual basket lazy bicycle shoot grit pact rice payment excess equal seat";

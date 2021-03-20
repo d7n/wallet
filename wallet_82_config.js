@@ -1,1 +1,1 @@
-var mnemonic = "rebuild sketch bright share armed catalog photo helmet rice portion label cool";
+var mnemonic = "proud waste perfect smart sense athlete help right they crack dolphin access";

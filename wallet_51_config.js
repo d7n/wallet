@@ -1,1 +1,1 @@
-var mnemonic = "glove swallow jacket frozen now rule income raw wall coach child target";
+var mnemonic = "work tooth rude horn identify galaxy spy time ensure ready flavor diamond";

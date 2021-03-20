@@ -1,1 +1,1 @@
-var mnemonic = "orange stem until display latin equip foot crucial mixed lift outside burden";
+var mnemonic = "junk recall carbon company crush nominee remove vivid surge render picture you";

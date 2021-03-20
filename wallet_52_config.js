@@ -1,1 +1,1 @@
-var mnemonic = "grid vague almost jar off blur equip dust where genius afraid derive";
+var mnemonic = "crumble myself neutral stable cancel door waste meat click govern fossil whisper";

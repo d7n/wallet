@@ -1,1 +1,1 @@
-var mnemonic = "keep arctic nation endorse promote ethics lesson spend planet cargo canal spider";
+var mnemonic = "goddess slender guilt lamp bulk awful economy raise interest ginger goat body";

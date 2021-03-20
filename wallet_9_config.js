@@ -1,1 +1,1 @@
-var mnemonic = "summer field gap blade main lion judge ridge weasel humor perfect fire";
+var mnemonic = "rebel scheme trend hero potato dinosaur candy easily remind fat enemy hour";

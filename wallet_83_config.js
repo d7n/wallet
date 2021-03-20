@@ -1,1 +1,1 @@
-var mnemonic = "similar state park evidence anger summer ship space patient olympic plunge acquire";
+var mnemonic = "inflict desk spin rude drive warrior hunt crop diesel security pill illegal";

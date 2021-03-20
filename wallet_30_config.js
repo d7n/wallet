@@ -1,1 +1,1 @@
-var mnemonic = "pole appear dove proud have nuclear entry despair animal tip acoustic liquid";
+var mnemonic = "salad road twice conduct need shiver minute rescue aunt car clay quit";

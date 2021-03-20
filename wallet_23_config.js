@@ -1,1 +1,1 @@
-var mnemonic = "vacant also burst guitar garbage game sun panther hollow ready cart elite";
+var mnemonic = "rude shock media write uphold anger knife culture maple doctor toy gossip";

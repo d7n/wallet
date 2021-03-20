@@ -1,1 +1,1 @@
-var mnemonic = "february region husband skull page search mean three cash gentle pyramid convince";
+var mnemonic = "first deliver ghost aim tobacco evidence about dog tower salon address exchange";

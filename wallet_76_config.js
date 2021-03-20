@@ -1,1 +1,1 @@
-var mnemonic = "pause fury embrace burst deliver music buddy auto flat nasty humble imitate";
+var mnemonic = "pen wood jump purpose drive dinner kitten area endless cake snow thing";

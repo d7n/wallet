@@ -1,1 +1,1 @@
-var mnemonic = "pig cherry bargain grit debris alien plug hip ostrich ecology left develop";
+var mnemonic = "bird sniff flip across birth ripple jealous slim antique tobacco bright whip";

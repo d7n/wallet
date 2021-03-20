@@ -1,1 +1,1 @@
-var mnemonic = "brief guitar image isolate assist suffer quantum check update kit hurry little";
+var mnemonic = "fold sting render federal grow lens conduct novel ozone waste decade observe";

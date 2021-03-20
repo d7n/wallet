@@ -1,1 +1,1 @@
-var mnemonic = "trash element weasel universe eager giant fitness place panda wide clerk rate";
+var mnemonic = "snake barely river bubble behave erosion one blanket column mandate scout mobile";

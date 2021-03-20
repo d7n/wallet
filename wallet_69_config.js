@@ -1,1 +1,1 @@
-var mnemonic = "sunset bounce permit tent file excuse wine enroll violin useless quiz usual";
+var mnemonic = "good like leisure upgrade decide second amused man elbow stay naive tilt";

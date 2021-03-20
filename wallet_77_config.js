@@ -1,1 +1,1 @@
-var mnemonic = "art coral estate swim warm old depend sound rhythm cushion borrow uniform";
+var mnemonic = "more also feature account mechanic voice hollow rocket brand blind dance such";

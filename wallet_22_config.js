@@ -1,1 +1,1 @@
-var mnemonic = "survey razor nature stove soup artist coin brain cloth input grape foam";
+var mnemonic = "video silver similar diesel scrap insane legal focus social phone bitter capable";

@@ -1,1 +1,1 @@
-var mnemonic = "verb program method bleak donor crush page fox obey much absorb spoil";
+var mnemonic = "small solid include high general sport soft pudding junk enroll base tobacco";

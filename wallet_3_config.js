@@ -1,1 +1,1 @@
-var mnemonic = "vote impulse coral six invest load minimum pitch omit brave solid unknown";
+var mnemonic = "accident they interest gorilla picture farm act viable morning shop trust concert";

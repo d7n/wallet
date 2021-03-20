@@ -1,1 +1,1 @@
-var mnemonic = "monster museum inherit dice stay witness fever skull drastic energy fatal slot";
+var mnemonic = "ginger dress bracket require truck blanket invite marble shrimp survey begin story";

@@ -1,1 +1,1 @@
-var mnemonic = "census scare penalty lazy seminar damage hero stable feel hero album cross";
+var mnemonic = "number double harbor mutual absent chase wet link spike sadness tower car";

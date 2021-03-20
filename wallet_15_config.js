@@ -1,1 +1,1 @@
-var mnemonic = "brass frown mirror okay hurdle able sponsor shy naive toy nurse wrist";
+var mnemonic = "say ladder economy cousin tired ability robot duty weather gauge stable cook";

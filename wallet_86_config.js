@@ -1,1 +1,1 @@
-var mnemonic = "guide bitter excess depend purpose brisk ghost orange act width despair scout";
+var mnemonic = "hour switch pair cargo pave pudding token uncle ivory canyon say empty";

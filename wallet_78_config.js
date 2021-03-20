@@ -1,1 +1,1 @@
-var mnemonic = "snack forum depend heavy surface helmet resist change potato video grab size";
+var mnemonic = "actual easy scout exercise kiss over snap dove lounge bulk bomb clay";

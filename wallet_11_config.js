@@ -1,1 +1,1 @@
-var mnemonic = "whisper love later theory able dolphin arrest about garden call sponsor bus";
+var mnemonic = "wife castle order dentist kite cargo question tonight visit digital reflect swarm";

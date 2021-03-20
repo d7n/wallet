@@ -1,1 +1,1 @@
-var mnemonic = "over marine retire cart exhibit high sick potato film gas bone toast";
+var mnemonic = "nest cup invest brass wild cabin shell cute core energy shiver bring";

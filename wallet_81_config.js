@@ -1,1 +1,1 @@
-var mnemonic = "swarm total tray book embrace casual easy sustain load sight answer guess";
+var mnemonic = "find enforce fun stool decide another shell come cliff win junk shop";

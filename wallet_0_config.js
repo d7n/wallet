@@ -1,1 +1,1 @@
-var mnemonic = "shell erupt share expect cute mechanic group method food close large absent";
+var mnemonic = "game police penalty setup faculty broken quote manage firm culture cherry eternal";

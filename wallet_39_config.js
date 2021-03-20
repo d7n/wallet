@@ -1,1 +1,1 @@
-var mnemonic = "like hole found math near cluster wheel strong wise despair spirit crazy";
+var mnemonic = "again beauty jungle lizard sibling unique chair crack rapid magnet film salt";

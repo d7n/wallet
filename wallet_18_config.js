@@ -1,1 +1,1 @@
-var mnemonic = "spike mean jealous mule math audit pepper tip gold tooth jealous furnace";
+var mnemonic = "decline cruel armed fish clutch convince swamp eagle foil tragic where gorilla";

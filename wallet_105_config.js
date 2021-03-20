@@ -1,1 +1,1 @@
-var mnemonic = "across other goddess snake first sibling scheme walk plastic coral grid theory";
+var mnemonic = "cause mixed clog intact adult leopard subject alter fee fantasy truth trade";

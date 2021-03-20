@@ -1,1 +1,1 @@
-var mnemonic = "miss canvas bid shrimp win open girl banana aspect acoustic barely target";
+var mnemonic = "build era mistake potato fine section master dry target boost stamp digital";

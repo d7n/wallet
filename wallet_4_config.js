@@ -1,1 +1,1 @@
-var mnemonic = "crystal crush acquire outside found carbon fan essence weird awake voice acquire";
+var mnemonic = "electric already mango current nominee embrace certain shift shuffle silk end price";

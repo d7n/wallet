@@ -1,1 +1,1 @@
-var mnemonic = "wheat person jewel swarm front umbrella endless rural noodle age fringe romance";
+var mnemonic = "hammer image feature twelve predict mask odor visa bracket idle monster tonight";

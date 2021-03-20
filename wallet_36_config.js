@@ -1,1 +1,1 @@
-var mnemonic = "cry also time desk canoe lumber visual label aim wrist cycle dinner";
+var mnemonic = "genre lava hybrid execute home company gate blossom notice interest net hotel";

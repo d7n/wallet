@@ -1,1 +1,1 @@
-var mnemonic = "fringe blur lemon juice tennis master cute segment duck reunion entire purchase";
+var mnemonic = "also minor night donate can enjoy boat grain dentist defense plunge jacket";

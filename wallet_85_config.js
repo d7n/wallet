@@ -1,1 +1,1 @@
-var mnemonic = "stock forum creek daughter elite please three section crazy obtain lunar eagle";
+var mnemonic = "girl uphold check clean orphan adult shed staff nest six reduce cave";

@@ -1,1 +1,1 @@
-var mnemonic = "attract virus august fame shiver gate author sponsor claim bottom foil vessel";
+var mnemonic = "dust illegal silent wrong blade fall spell sail cloth flee review warfare";

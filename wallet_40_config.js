@@ -1,1 +1,1 @@
-var mnemonic = "measure mother dream provide labor follow derive celery keen cabin actress legal";
+var mnemonic = "era couple canvas neck fish entry duty dust adapt own life student";

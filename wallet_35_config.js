@@ -1,1 +1,1 @@
-var mnemonic = "when dismiss wine mercy label just matrix wise degree manual wet garment";
+var mnemonic = "strike remain brass wood media gold flavor tool maximum real throw choose";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow seven tobacco unveil royal laptop job rain track forward grief amazing";
+var mnemonic = "gold seat nothing fury carry rhythm warrior very salute until head prefer";
