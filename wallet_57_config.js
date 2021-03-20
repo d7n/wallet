@@ -1,1 +1,1 @@
-var mnemonic = "horn kit forum tragic orbit opinion evolve razor fruit hungry visa sword";
+var mnemonic = "retire flash picnic fold enlist lawsuit envelope girl taste stadium punch glove";

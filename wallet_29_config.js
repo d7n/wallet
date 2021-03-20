@@ -1,1 +1,1 @@
-var mnemonic = "object number flavor custom tongue recall use sentence forest visa action soup";
+var mnemonic = "child network bid ripple biology warfare now copper promote pioneer again skull";

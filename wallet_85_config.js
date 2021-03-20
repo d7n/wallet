@@ -1,1 +1,1 @@
-var mnemonic = "desk group sauce large junk battle cart real shove rather easy wrap";
+var mnemonic = "differ plate repair panther such save shine cement tube odor purpose spread";

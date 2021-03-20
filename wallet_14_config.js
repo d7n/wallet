@@ -1,1 +1,1 @@
-var mnemonic = "liar spring super wise idle mirror useful device emotion innocent parade mushroom";
+var mnemonic = "tag fresh link frog day grant giant quit bench settle list rural";

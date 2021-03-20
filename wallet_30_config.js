@@ -1,1 +1,1 @@
-var mnemonic = "category nasty only shine boss vendor hen blind object cross soda spin";
+var mnemonic = "fiber pizza cat victory asset vital team echo sorry human cruise super";

@@ -1,1 +1,1 @@
-var mnemonic = "flee idea fun stay elbow pottery diamond coin tent result innocent farm";
+var mnemonic = "cradle pole apple grace monitor gaze isolate romance snow clutch oven dolphin";

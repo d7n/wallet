@@ -1,1 +1,1 @@
-var mnemonic = "fortune spider fame young century crazy gravity lens flavor future toilet coral";
+var mnemonic = "heavy fine panel speak august obvious crack book decrease net false brave";

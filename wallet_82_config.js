@@ -1,1 +1,1 @@
-var mnemonic = "cute drum robot this man stay token second age fashion juice raise";
+var mnemonic = "paper time hurt battle dirt owner error victory marine area estate series";

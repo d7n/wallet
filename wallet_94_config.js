@@ -1,1 +1,1 @@
-var mnemonic = "ivory mango beyond trend smoke gentle ridge ship flat vocal message small";
+var mnemonic = "cliff false liberty window else shrug carry order bomb hill depart end";

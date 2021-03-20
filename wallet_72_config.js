@@ -1,1 +1,1 @@
-var mnemonic = "curve end tunnel brown firm lend rose where chair donkey fame banner";
+var mnemonic = "auto make planet scout apart mirror shift hazard govern height heavy tilt";

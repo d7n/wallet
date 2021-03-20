@@ -1,1 +1,1 @@
-var mnemonic = "decline anxiety target woman card danger neither smart panic message crouch idea";
+var mnemonic = "slab lesson fire hen argue disease nose present arch chronic menu ceiling";

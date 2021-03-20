@@ -1,1 +1,1 @@
-var mnemonic = "perfect pact pumpkin olympic jungle ready steak wrap pulp wagon mystery brother";
+var mnemonic = "cycle tumble dog ethics bike beef shield broken repair labor merry humble";

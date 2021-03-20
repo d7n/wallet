@@ -1,1 +1,1 @@
-var mnemonic = "stereo police employ dog strategy pottery obvious stand dismiss evil guilt knock";
+var mnemonic = "couch water sunny tone hidden trumpet beach concert half like nut void";

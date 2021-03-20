@@ -1,1 +1,1 @@
-var mnemonic = "blade business teach meadow mass throw birth brush begin enforce solution glad";
+var mnemonic = "rare tourist patrol enhance wire maple art current supply have orient raccoon";

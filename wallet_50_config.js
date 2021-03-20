@@ -1,1 +1,1 @@
-var mnemonic = "comic release ask toy teach emerge soldier shrimp wash little agree spread";
+var mnemonic = "cotton wasp holiday goat guilt resist aunt swift usage brain mind decorate";

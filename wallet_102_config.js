@@ -1,1 +1,1 @@
-var mnemonic = "chimney potato garage inject fringe random inform labor apart result filter figure";
+var mnemonic = "hobby gospel forward father icon dry useful parrot gain promote snake grain";

@@ -1,1 +1,1 @@
-var mnemonic = "guess vicious discover situate long brave defense certain myself snap mosquito globe";
+var mnemonic = "cloud biology soon nominee practice predict genuine salad foster network wear silent";

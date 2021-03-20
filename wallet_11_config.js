@@ -1,1 +1,1 @@
-var mnemonic = "clerk gauge media grab vicious extra peace pride original scheme team embrace";
+var mnemonic = "sword code wrap stock gold cruise increase permit aim flower regret genuine";

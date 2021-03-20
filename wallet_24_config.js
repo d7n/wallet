@@ -1,1 +1,1 @@
-var mnemonic = "six camera vivid renew world camera cigar square position maple slow icon";
+var mnemonic = "furnace imitate draw virus poet list empty harsh three border usual extend";

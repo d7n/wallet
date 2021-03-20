@@ -1,1 +1,1 @@
-var mnemonic = "vicious stereo vanish alien humble verb kick ride drip eager vocal agree";
+var mnemonic = "gentle pumpkin pattern caution twin dice young tongue depth local pill holiday";

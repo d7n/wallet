@@ -1,1 +1,1 @@
-var mnemonic = "curtain fiction misery damp sick oak right all sunny furnace layer peanut";
+var mnemonic = "mansion bag master portion romance amount forget kiwi under fever umbrella version";

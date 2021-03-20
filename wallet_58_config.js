@@ -1,1 +1,1 @@
-var mnemonic = "parade volume treat annual year huge improve fatigue glimpse awkward cement shrimp";
+var mnemonic = "skirt dash initial ghost then cherry animal pink detect language peanut hidden";

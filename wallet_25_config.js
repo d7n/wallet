@@ -1,1 +1,1 @@
-var mnemonic = "sketch angle tumble romance syrup observe owner cruise gather fat drama cupboard";
+var mnemonic = "one dish wine merge invite spike fancy menu high royal rubber dawn";

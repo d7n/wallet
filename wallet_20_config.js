@@ -1,1 +1,1 @@
-var mnemonic = "online moon dry resist game kitchen tiny sound post fragile fun leopard";
+var mnemonic = "ranch recipe wealth survey kitten race garlic brown orange occur glove clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing hazard retire paddle prefer sad love gate inherit escape clerk switch";
+var mnemonic = "sting appear plate uncover dolphin grain lawsuit isolate leaf minute urban vapor";

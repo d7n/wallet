@@ -1,1 +1,1 @@
-var mnemonic = "flag move witness smoke arrest ball photo animal remind episode rug divide";
+var mnemonic = "immense glue draft bundle blame banner talent slow knock term bike vibrant";

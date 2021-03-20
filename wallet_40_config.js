@@ -1,1 +1,1 @@
-var mnemonic = "body certain one camp humor rain cross panda cabin embrace derive family";
+var mnemonic = "wheat orange prepare close scatter alarm bronze laptop autumn lottery area master";

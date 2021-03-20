@@ -1,1 +1,1 @@
-var mnemonic = "slice release cup bridge human give target calm whisper stumble segment wait";
+var mnemonic = "cart walk update enlist relief doctor pair cement doll trust brush cattle";

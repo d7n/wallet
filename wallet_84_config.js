@@ -1,1 +1,1 @@
-var mnemonic = "shoot ginger seed mirror inner about venue clap network advance ecology bench";
+var mnemonic = "behind erosion try appear razor perfect omit surface surge inject tone elbow";

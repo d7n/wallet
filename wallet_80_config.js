@@ -1,1 +1,1 @@
-var mnemonic = "kid relax olympic taxi until throw wisdom foot truly humble car disagree";
+var mnemonic = "body limit parent joy usual broccoli crop client job outdoor dry rebel";

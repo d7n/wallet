@@ -1,1 +1,1 @@
-var mnemonic = "oyster truth dice trial scout cargo finger crack network wrong visual aim";
+var mnemonic = "engage airport one appear mirror snap dinner hold welcome monitor detail swarm";

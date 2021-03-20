@@ -1,1 +1,1 @@
-var mnemonic = "predict floor hunt host manage ten head network main security limit fossil";
+var mnemonic = "warrior diet mesh hello exchange dress ramp repeat tissue goat resist seven";

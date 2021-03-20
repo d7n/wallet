@@ -1,1 +1,1 @@
-var mnemonic = "inhale general indoor poverty female desert ask learn cereal member above enroll";
+var mnemonic = "rug fortune flip fatal cargo sniff kitchen human erupt arctic normal piece";

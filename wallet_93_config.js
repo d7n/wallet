@@ -1,1 +1,1 @@
-var mnemonic = "amused credit buzz cricket ice region camera fatigue enroll execute hundred green";
+var mnemonic = "achieve allow wild guitar tell crunch spare govern mosquito system master elder";

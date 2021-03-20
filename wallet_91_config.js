@@ -1,1 +1,1 @@
-var mnemonic = "draft enemy view pistol mention floor ripple juice step educate drift way";
+var mnemonic = "way yard prize rough melody tell jelly narrow label fix glory plug";

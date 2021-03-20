@@ -1,1 +1,1 @@
-var mnemonic = "cool valve arrow boring crane chaos must tube situate turtle boost auto";
+var mnemonic = "special eyebrow tornado wood able relief security recall pet banana unfair ketchup";

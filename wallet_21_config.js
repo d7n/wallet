@@ -1,1 +1,1 @@
-var mnemonic = "warfare innocent divorce clump oxygen ethics blouse sauce scare reject nerve excite";
+var mnemonic = "spider turtle level plunge else snack garlic wink explain game tiger strategy";

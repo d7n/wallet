@@ -1,1 +1,1 @@
-var mnemonic = "bulb begin interest deputy category once denial increase seven comfort pretty direct";
+var mnemonic = "art below brief case cry actress gold chief elevator brass abstract train";

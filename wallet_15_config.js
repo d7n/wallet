@@ -1,1 +1,1 @@
-var mnemonic = "clean smoke regret steak share foot aisle odor assist sniff river toast";
+var mnemonic = "common obvious blanket output ladder game normal either atom park tube lawsuit";

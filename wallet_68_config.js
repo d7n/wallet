@@ -1,1 +1,1 @@
-var mnemonic = "velvet cheese bullet praise melt window nest critic bullet length drill item";
+var mnemonic = "mandate neglect hill physical same emerge stand movie plate now quantum vanish";

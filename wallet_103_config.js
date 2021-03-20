@@ -1,1 +1,1 @@
-var mnemonic = "casino table cereal cousin void marriage great pulp punch clock awesome then";
+var mnemonic = "slot beef client soon derive retire punch when march inherit sketch casual";

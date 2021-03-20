@@ -1,1 +1,1 @@
-var mnemonic = "act vapor dynamic tunnel health hill icon spin cry lava gold length";
+var mnemonic = "battle exact voyage sea smooth girl sniff pencil soup snap clump blush";

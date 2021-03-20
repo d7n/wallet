@@ -1,1 +1,1 @@
-var mnemonic = "term little point ice physical multiply south wool cement gallery luxury endless";
+var mnemonic = "fuel jump drive slow either series strike coyote gun music dignity depend";

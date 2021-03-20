@@ -1,1 +1,1 @@
-var mnemonic = "risk cake recipe economy ceiling cool card slot neutral mansion artwork plastic";
+var mnemonic = "scan fever provide path whip sausage spare ethics town letter oven outdoor";

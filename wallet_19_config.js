@@ -1,1 +1,1 @@
-var mnemonic = "fresh hint pull parrot core safe frown ginger ready inject orange mom";
+var mnemonic = "drama faint knee stem pelican reflect enemy scissors multiply stone spare wall";

@@ -1,1 +1,1 @@
-var mnemonic = "dad pottery asset runway argue note truck phrase electric network nasty bachelor";
+var mnemonic = "spoon blind bulk sister wild coil seek candy autumn parent excess federal";

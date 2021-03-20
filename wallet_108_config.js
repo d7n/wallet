@@ -1,1 +1,1 @@
-var mnemonic = "garage dish party secret sun possible coast move public series post pond";
+var mnemonic = "inquiry multiply old asset category leaf fit position raise wet sample nice";

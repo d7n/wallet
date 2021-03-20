@@ -1,1 +1,1 @@
-var mnemonic = "treat throw question entire during dry fee skin ginger rose market soldier";
+var mnemonic = "absurd tackle afford advice ladder glow moment remove vague soccer dragon elder";

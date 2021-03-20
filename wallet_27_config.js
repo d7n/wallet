@@ -1,1 +1,1 @@
-var mnemonic = "hunt spider turtle camp eagle strike adjust park best begin error describe";
+var mnemonic = "square hidden range romance fork gun valley rather crawl van tag draw";

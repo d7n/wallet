@@ -1,1 +1,1 @@
-var mnemonic = "unit wheat ten unusual capital lecture essay action media lottery crater energy";
+var mnemonic = "blast occur bike defense that identify frost fragile bus curious describe extend";

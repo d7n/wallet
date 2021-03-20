@@ -1,1 +1,1 @@
-var mnemonic = "plug reward public obey curve help milk blind amount defense window tired";
+var mnemonic = "fruit engage blast dance mobile miss toward people attract portion close frog";

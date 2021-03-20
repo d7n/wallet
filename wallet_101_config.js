@@ -1,1 +1,1 @@
-var mnemonic = "target trumpet scrub impulse clock surround river blossom table gaze fluid divert";
+var mnemonic = "bid access curious wealth fatal slim bulk beyond stem boil piece endless";

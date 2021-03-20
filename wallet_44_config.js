@@ -1,1 +1,1 @@
-var mnemonic = "budget jealous model alpha fancy prosper elbow brick gorilla build about grow";
+var mnemonic = "accuse debate omit pipe kind chronic hazard advance physical edit defy online";

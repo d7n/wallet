@@ -1,1 +1,1 @@
-var mnemonic = "sail own zebra just brand change budget flag ranch glue comfort aspect";
+var mnemonic = "fix crop autumn clay impact educate gown rebel chimney slight time obvious";

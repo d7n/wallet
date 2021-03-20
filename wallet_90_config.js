@@ -1,1 +1,1 @@
-var mnemonic = "donor purchase excite parade blue sponsor awesome scheme soccer capital ceiling federal";
+var mnemonic = "upon shallow noise kind spot soap master coach metal carpet list apple";

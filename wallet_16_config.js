@@ -1,1 +1,1 @@
-var mnemonic = "badge nose puzzle solar bubble radar exhaust nurse mercy expire face trip";
+var mnemonic = "country input mother hole chapter predict trim dynamic anchor device draw task";

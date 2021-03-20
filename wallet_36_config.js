@@ -1,1 +1,1 @@
-var mnemonic = "scrub flame picture snake squeeze clump elite pass current taste club rack";
+var mnemonic = "margin suit gravity sure fall flame silent ability mango marine hedgehog borrow";

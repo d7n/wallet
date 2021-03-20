@@ -1,1 +1,1 @@
-var mnemonic = "other horn name oxygen good genuine inhale recall salon oven eager adult";
+var mnemonic = "baby innocent tattoo involve over envelope size forest fossil soul language speed";

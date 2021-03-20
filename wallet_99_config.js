@@ -1,1 +1,1 @@
-var mnemonic = "curtain floor spy fiscal indoor fragile dentist foster dune refuse salt angle";
+var mnemonic = "barrel fatigue mixed kind area turtle treat disagree slide second hire neutral";

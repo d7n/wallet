@@ -1,1 +1,1 @@
-var mnemonic = "holiday dove organ damage stand stone hedgehog merge recipe excuse opinion file";
+var mnemonic = "glare menu design idle decorate relax ostrich decide account ancient crouch loyal";

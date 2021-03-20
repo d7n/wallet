@@ -1,1 +1,1 @@
-var mnemonic = "real decade gravity eyebrow left behave random various witness lake faint memory";
+var mnemonic = "virtual veteran fatigue liberty thumb toss acid invite luggage hero mother sample";

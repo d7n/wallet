@@ -1,1 +1,1 @@
-var mnemonic = "process hurt embrace never day effort lab plunge kick order spider segment";
+var mnemonic = "rubber merit bitter fine brass girl age month tide gap oven poem";

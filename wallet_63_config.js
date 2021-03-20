@@ -1,1 +1,1 @@
-var mnemonic = "giraffe melt ostrich video oblige crisp become stage airport fury rule illness";
+var mnemonic = "acid swamp cram custom network pause wrong immune cram process transfer color";

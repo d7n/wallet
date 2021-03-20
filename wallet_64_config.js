@@ -1,1 +1,1 @@
-var mnemonic = "airport museum fish panda holiday patch logic occur visual pave smoke tennis";
+var mnemonic = "discover attend stand diesel bitter wet exotic scan sing feature dignity knife";

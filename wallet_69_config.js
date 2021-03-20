@@ -1,1 +1,1 @@
-var mnemonic = "maple dream where grief amateur chunk abuse pause august hover truck pet";
+var mnemonic = "pill release oblige lend offer pigeon dice mystery claim process violin hint";

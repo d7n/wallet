@@ -1,1 +1,1 @@
-var mnemonic = "guard buyer smile correct try grid primary thing work second ritual loan";
+var mnemonic = "photo degree material obey culture crowd olympic motion top axis insect exile";

@@ -1,1 +1,1 @@
-var mnemonic = "shy future ethics copper album boost fatigue crater vocal hill ritual truth";
+var mnemonic = "nerve six rural unfair hollow law divorce more volume meat raw sign";

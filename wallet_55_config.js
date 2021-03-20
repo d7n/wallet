@@ -1,1 +1,1 @@
-var mnemonic = "vault library debate gossip pull icon sister depth quiz extra hamster prefer";
+var mnemonic = "also duty woman injury drift ugly traffic gadget concert brain lady grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "forum weasel real magic wisdom mammal depend ready trap solution venue shuffle";
+var mnemonic = "afford raw paper kingdom sight raw verb kingdom conduct hip slow legal";

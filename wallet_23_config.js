@@ -1,1 +1,1 @@
-var mnemonic = "van ankle door tooth clog hood brother kingdom believe satoshi girl grant";
+var mnemonic = "record message dust follow where idea have deer carry turn impact innocent";

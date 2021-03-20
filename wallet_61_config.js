@@ -1,1 +1,1 @@
-var mnemonic = "jazz demand never cook around inquiry together hero catch fire prevent lemon";
+var mnemonic = "already cereal junk sun asthma guard frozen away daring brick hero rent";

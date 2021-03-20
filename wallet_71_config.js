@@ -1,1 +1,1 @@
-var mnemonic = "section dune minor agree hurt below loyal virus year dentist warfare quality";
+var mnemonic = "theory drama rice spin cost connect actual upper earn nuclear ranch clever";

@@ -1,1 +1,1 @@
-var mnemonic = "cost leopard oil fun moment choose evil perfect roast blouse word very";
+var mnemonic = "duty slogan cart electric audit top battle fitness jungle elite drum empty";

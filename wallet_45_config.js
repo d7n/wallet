@@ -1,1 +1,1 @@
-var mnemonic = "digital truth resource recycle vacant panic tennis bargain thumb omit call cricket";
+var mnemonic = "improve prize rose theme cheese sheriff three antenna wear parade enrich aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual saddle narrow mom head settle track exhibit poet knee tenant address";
+var mnemonic = "decline shaft refuse sunny sadness invest expire donate slender hole arrest jungle";

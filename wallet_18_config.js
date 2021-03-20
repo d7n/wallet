@@ -1,1 +1,1 @@
-var mnemonic = "remember afraid famous jacket emerge save hobby engage lawn elbow emerge swift";
+var mnemonic = "silent review marble liberty catch extra treat pact inquiry only runway tag";

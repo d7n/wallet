@@ -1,1 +1,1 @@
-var mnemonic = "dignity neglect midnight distance comfort guess spin arm spoon throw faint become";
+var mnemonic = "essence media update unfold relief funny basket duck focus feature city myth";

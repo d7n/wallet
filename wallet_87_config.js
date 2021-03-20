@@ -1,1 +1,1 @@
-var mnemonic = "fury relief regret rigid today crush improve cry traffic noble traffic enact";
+var mnemonic = "comfort mother movie stem know surprise rookie jump amazing fabric light same";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage control filter solar banner creek tail order thing panther mesh old";
+var mnemonic = "traffic umbrella nuclear ten drill window engine universe goose quick lawn board";

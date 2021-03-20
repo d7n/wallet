@@ -1,1 +1,1 @@
-var mnemonic = "smooth shop luggage alley surface keep yard teach critic slot deal pact";
+var mnemonic = "spoil citizen wrong funny input model velvet squeeze obscure wrong toilet wonder";

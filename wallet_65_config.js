@@ -1,1 +1,1 @@
-var mnemonic = "canyon okay wet dress weather lab anxiety mask primary girl voyage strategy";
+var mnemonic = "casino wink palace humor sting fossil giggle spare pulse whale grid add";

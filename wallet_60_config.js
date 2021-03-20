@@ -1,1 +1,1 @@
-var mnemonic = "sentence guide mom pepper fold hollow total sound garage laundry deputy uncle";
+var mnemonic = "board bamboo virus tool depth blur write strong alien dinosaur swear aspect";

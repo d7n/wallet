@@ -1,1 +1,1 @@
-var mnemonic = "yellow improve empty menu speak claim resemble topic night pill scheme arrest";
+var mnemonic = "scrap vibrant quick thank bitter silver lyrics slide resist amateur state helmet";

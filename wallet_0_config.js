@@ -1,1 +1,1 @@
-var mnemonic = "tape hold upgrade stadium ahead zoo wreck birth defense pitch laundry pattern";
+var mnemonic = "hunt hire unit whip practice exotic army fold cushion bomb trophy elephant";

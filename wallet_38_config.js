@@ -1,1 +1,1 @@
-var mnemonic = "infant apart crowd carry win notice muffin income clock window exhibit glue";
+var mnemonic = "shell control north miss armor speak easily pony soup have discover teach";

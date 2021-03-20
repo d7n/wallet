@@ -1,1 +1,1 @@
-var mnemonic = "rail risk father sick spot race addict quick gentle whisper bachelor student";
+var mnemonic = "ball task bacon undo hip father off spend steel tobacco only sudden";

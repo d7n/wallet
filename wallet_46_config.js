@@ -1,1 +1,1 @@
-var mnemonic = "attend ramp easily crumble arrange rotate talk hockey thought wheat ozone result";
+var mnemonic = "frozen vanish air mask across twenty prison entire basic balcony uncle dial";

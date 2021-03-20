@@ -1,1 +1,1 @@
-var mnemonic = "kind quiz level join anchor ancient sail cheese change oblige output barely";
+var mnemonic = "fold water accuse rocket tackle shock favorite size truck produce remember shine";

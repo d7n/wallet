@@ -1,1 +1,1 @@
-var mnemonic = "park kitchen cover impact sleep stomach civil expire future beauty section board";
+var mnemonic = "tobacco ticket banana day bomb panda picture pudding oxygen enact athlete pull";

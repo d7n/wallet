@@ -1,1 +1,1 @@
-var mnemonic = "design gather spoon spread alpha stumble door guide torch water riot extend";
+var mnemonic = "trigger cover useless segment kind size survey century resource denial piano popular";

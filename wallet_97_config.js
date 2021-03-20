@@ -1,1 +1,1 @@
-var mnemonic = "penalty essence space suspect faculty near prison panel lecture robust sword fitness";
+var mnemonic = "crash donor stable tube waste dose citizen weather admit fit toward dial";

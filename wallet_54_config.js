@@ -1,1 +1,1 @@
-var mnemonic = "fossil arrest loop business scatter exotic fiction below rebuild sudden twenty concert";
+var mnemonic = "midnight steel metal brave tomorrow public aim illegal broken cube orchard sentence";

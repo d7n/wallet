@@ -1,1 +1,1 @@
-var mnemonic = "day mention core reward army visual also spoon once fiber solid cannon";
+var mnemonic = "birth thing hunt carry march anxiety monster weapon sausage asthma chaos popular";

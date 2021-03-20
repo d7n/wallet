@@ -1,1 +1,1 @@
-var mnemonic = "green exact mystery reunion radio trap orchard fog obey timber uphold grass";
+var mnemonic = "game rough knife essence secret marriage torch enough nice daring grant slice";
