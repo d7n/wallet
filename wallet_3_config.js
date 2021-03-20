@@ -1,1 +1,1 @@
-var mnemonic = "tobacco ticket banana day bomb panda picture pudding oxygen enact athlete pull";
+var mnemonic = "firm reject school capital fiction just congress mansion student fitness other bomb";

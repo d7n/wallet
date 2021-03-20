@@ -1,1 +1,1 @@
-var mnemonic = "fiber pizza cat victory asset vital team echo sorry human cruise super";
+var mnemonic = "stand lucky weird embark token purity endorse cause rail cousin voice ability";

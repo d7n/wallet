@@ -1,1 +1,1 @@
-var mnemonic = "cat mom cry home donkey daughter must mammal quit couch document slam";
+var mnemonic = "romance patch unhappy tunnel wagon slice sponsor various robust client chaos number";

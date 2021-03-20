@@ -1,1 +1,1 @@
-var mnemonic = "trigger cover useless segment kind size survey century resource denial piano popular";
+var mnemonic = "hint tail oak mammal photo twist congress dignity throw educate useless cost";

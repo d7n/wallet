@@ -1,1 +1,1 @@
-var mnemonic = "also duty woman injury drift ugly traffic gadget concert brain lady grunt";
+var mnemonic = "orphan kiwi mimic clarify rebuild barrel uncle half proud enable tribe fat";

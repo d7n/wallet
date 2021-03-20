@@ -1,1 +1,1 @@
-var mnemonic = "rare tourist patrol enhance wire maple art current supply have orient raccoon";
+var mnemonic = "assist custom ensure volcano mass vicious crazy winner bless right air height";

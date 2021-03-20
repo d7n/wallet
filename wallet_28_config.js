@@ -1,1 +1,1 @@
-var mnemonic = "traffic umbrella nuclear ten drill window engine universe goose quick lawn board";
+var mnemonic = "zoo talk profit mandate lesson bracket toward animal issue artwork december term";

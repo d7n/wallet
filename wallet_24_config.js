@@ -1,1 +1,1 @@
-var mnemonic = "furnace imitate draw virus poet list empty harsh three border usual extend";
+var mnemonic = "media pilot arena steel face milk silly switch gas supreme teach helmet";

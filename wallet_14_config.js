@@ -1,1 +1,1 @@
-var mnemonic = "tag fresh link frog day grant giant quit bench settle list rural";
+var mnemonic = "rate unfair quiz birth print unaware two impact achieve culture genius napkin";

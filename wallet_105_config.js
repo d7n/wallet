@@ -1,1 +1,1 @@
-var mnemonic = "duty slogan cart electric audit top battle fitness jungle elite drum empty";
+var mnemonic = "evoke orient surround must buyer bounce switch remove sail canvas person adult";

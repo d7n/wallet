@@ -1,1 +1,1 @@
-var mnemonic = "comfort mother movie stem know surprise rookie jump amazing fabric light same";
+var mnemonic = "foot truth giant jelly ordinary season priority eyebrow trap crouch blast primary";

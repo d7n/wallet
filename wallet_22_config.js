@@ -1,1 +1,1 @@
-var mnemonic = "blast occur bike defense that identify frost fragile bus curious describe extend";
+var mnemonic = "exchange pepper often girl dutch sign finish stand since mountain document bone";

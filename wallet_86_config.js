@@ -1,1 +1,1 @@
-var mnemonic = "ball task bacon undo hip father off spend steel tobacco only sudden";
+var mnemonic = "hotel among dress impulse loan play stick foot blossom odor input swarm";

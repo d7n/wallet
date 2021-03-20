@@ -1,1 +1,1 @@
-var mnemonic = "battle exact voyage sea smooth girl sniff pencil soup snap clump blush";
+var mnemonic = "this same direct cluster slice refuse armor brief range student kangaroo extend";

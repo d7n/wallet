@@ -1,1 +1,1 @@
-var mnemonic = "margin suit gravity sure fall flame silent ability mango marine hedgehog borrow";
+var mnemonic = "duck siege enact cheese obey worth pipe quick number donkey dilemma bundle";

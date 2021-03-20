@@ -1,1 +1,1 @@
-var mnemonic = "country input mother hole chapter predict trim dynamic anchor device draw task";
+var mnemonic = "tobacco luxury style grain remember dish amount alpha abstract upon genre giant";

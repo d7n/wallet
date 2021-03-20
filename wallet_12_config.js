@@ -1,1 +1,1 @@
-var mnemonic = "raise admit question wave escape able joy gun build veteran unknown yellow";
+var mnemonic = "improve brick exotic march detail code cross lift open silk private talk";

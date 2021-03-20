@@ -1,1 +1,1 @@
-var mnemonic = "slab lesson fire hen argue disease nose present arch chronic menu ceiling";
+var mnemonic = "endorse walk renew genius ocean cricket myth talent razor dune kiwi crack";

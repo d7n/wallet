@@ -1,1 +1,1 @@
-var mnemonic = "erase inflict claim baby acid leisure green rose airport random fat exotic";
+var mnemonic = "virus kite author beyond viable trust assist brisk north behave sock city";

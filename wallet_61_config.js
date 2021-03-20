@@ -1,1 +1,1 @@
-var mnemonic = "already cereal junk sun asthma guard frozen away daring brick hero rent";
+var mnemonic = "amused satisfy property danger blue skin loop polar cheap machine age federal";

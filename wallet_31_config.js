@@ -1,1 +1,1 @@
-var mnemonic = "warrior diet mesh hello exchange dress ramp repeat tissue goat resist seven";
+var mnemonic = "raccoon sense oblige aspect laugh tornado normal cricket napkin orphan digital hidden";

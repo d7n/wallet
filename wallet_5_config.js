@@ -1,1 +1,1 @@
-var mnemonic = "scan fever provide path whip sausage spare ethics town letter oven outdoor";
+var mnemonic = "process rib convince flip stem cook rocket tape possible author luggage reward";

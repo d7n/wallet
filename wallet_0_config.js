@@ -1,1 +1,1 @@
-var mnemonic = "hunt hire unit whip practice exotic army fold cushion bomb trophy elephant";
+var mnemonic = "betray airport say breeze crouch confirm satoshi usage tortoise check ride sing";

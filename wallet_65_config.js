@@ -1,1 +1,1 @@
-var mnemonic = "casino wink palace humor sting fossil giggle spare pulse whale grid add";
+var mnemonic = "arena drive thunder flip much envelope broken flight maple upon slender flight";

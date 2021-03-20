@@ -1,1 +1,1 @@
-var mnemonic = "shallow expose alcohol champion cabin jeans custom page excuse cousin leg true";
+var mnemonic = "they basket abandon milk van ill arena dutch ill reflect level ride";

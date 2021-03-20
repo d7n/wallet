@@ -1,1 +1,1 @@
-var mnemonic = "scrap vibrant quick thank bitter silver lyrics slide resist amateur state helmet";
+var mnemonic = "suffer rain judge outside taste matrix yellow resist you rug unfold upgrade";

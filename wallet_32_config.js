@@ -1,1 +1,1 @@
-var mnemonic = "cycle tumble dog ethics bike beef shield broken repair labor merry humble";
+var mnemonic = "near into neck critic kit airport convince box easy initial device shine";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy fine panel speak august obvious crack book decrease net false brave";
+var mnemonic = "accuse net kitten bamboo narrow jaguar olive replace inhale ring quantum odor";

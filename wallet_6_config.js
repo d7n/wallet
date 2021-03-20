@@ -1,1 +1,1 @@
-var mnemonic = "essence media update unfold relief funny basket duck focus feature city myth";
+var mnemonic = "oven barrel abstract stadium buzz slot trophy process ability cook hybrid process";

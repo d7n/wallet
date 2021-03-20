@@ -1,1 +1,1 @@
-var mnemonic = "mandate neglect hill physical same emerge stand movie plate now quantum vanish";
+var mnemonic = "music vapor lawsuit charge walk judge bid undo secret junior neutral lunch";

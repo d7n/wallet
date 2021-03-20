@@ -1,1 +1,1 @@
-var mnemonic = "agent immune oil alien avoid half process hockey cover lift club illegal";
+var mnemonic = "voice emotion protect clerk curve castle enhance matrix argue denial easily pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle pumpkin pattern caution twin dice young tongue depth local pill holiday";
+var mnemonic = "degree tide asthma stone host embody egg empower system script duty build";

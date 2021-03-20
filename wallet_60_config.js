@@ -1,1 +1,1 @@
-var mnemonic = "board bamboo virus tool depth blur write strong alien dinosaur swear aspect";
+var mnemonic = "thumb zoo gossip tenant nice virtual hundred escape sad blade surprise throw";

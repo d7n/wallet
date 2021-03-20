@@ -1,1 +1,1 @@
-var mnemonic = "drama faint knee stem pelican reflect enemy scissors multiply stone spare wall";
+var mnemonic = "state monkey box also atom matrix ride pear feel joy truck fashion";

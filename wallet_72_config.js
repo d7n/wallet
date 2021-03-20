@@ -1,1 +1,1 @@
-var mnemonic = "auto make planet scout apart mirror shift hazard govern height heavy tilt";
+var mnemonic = "egg select point february margin second vacant title space offer social rigid";

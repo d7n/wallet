@@ -1,1 +1,1 @@
-var mnemonic = "ranch recipe wealth survey kitten race garlic brown orange occur glove clarify";
+var mnemonic = "absorb upset rhythm tag planet object swarm trigger soup citizen fog foam";

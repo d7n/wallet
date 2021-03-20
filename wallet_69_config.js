@@ -1,1 +1,1 @@
-var mnemonic = "pill release oblige lend offer pigeon dice mystery claim process violin hint";
+var mnemonic = "mango vast retire paddle frown cement balance spread garden only stone crime";

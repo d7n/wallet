@@ -1,1 +1,1 @@
-var mnemonic = "fruit engage blast dance mobile miss toward people attract portion close frog";
+var mnemonic = "inside mixture equip autumn foil fragile slot muscle minor bicycle betray detail";

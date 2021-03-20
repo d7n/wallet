@@ -1,1 +1,1 @@
-var mnemonic = "special eyebrow tornado wood able relief security recall pet banana unfair ketchup";
+var mnemonic = "inmate donor tuna double ribbon despair memory execute solve exist isolate near";

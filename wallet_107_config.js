@@ -1,1 +1,1 @@
-var mnemonic = "scale riot provide scrub social sleep senior olympic swamp all range pond";
+var mnemonic = "fog dutch quarter song wide clever extra machine pipe render tortoise over";

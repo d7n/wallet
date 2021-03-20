@@ -1,1 +1,1 @@
-var mnemonic = "fix crop autumn clay impact educate gown rebel chimney slight time obvious";
+var mnemonic = "airport dirt section crush can nasty spell action provide panda side owner";

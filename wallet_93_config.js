@@ -1,1 +1,1 @@
-var mnemonic = "achieve allow wild guitar tell crunch spare govern mosquito system master elder";
+var mnemonic = "orchard echo flip spend rigid discover island pond marble cigar velvet peasant";

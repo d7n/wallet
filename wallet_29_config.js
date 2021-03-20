@@ -1,1 +1,1 @@
-var mnemonic = "child network bid ripple biology warfare now copper promote pioneer again skull";
+var mnemonic = "muffin leisure auction proof scare elite stool cactus endorse invite cabbage vicious";

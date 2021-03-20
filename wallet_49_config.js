@@ -1,1 +1,1 @@
-var mnemonic = "afford raw paper kingdom sight raw verb kingdom conduct hip slow legal";
+var mnemonic = "ill alien hurt crowd rather moral glove execute vehicle symptom adapt often";

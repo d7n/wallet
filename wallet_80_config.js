@@ -1,1 +1,1 @@
-var mnemonic = "body limit parent joy usual broccoli crop client job outdoor dry rebel";
+var mnemonic = "layer two insane income air seek silver later disagree dragon magnet cage";

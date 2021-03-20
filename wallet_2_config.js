@@ -1,1 +1,1 @@
-var mnemonic = "nerve six rural unfair hollow law divorce more volume meat raw sign";
+var mnemonic = "silly siren tail quit frown leopard saddle valve heavy scorpion radio ripple";

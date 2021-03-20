@@ -1,1 +1,1 @@
-var mnemonic = "photo degree material obey culture crowd olympic motion top axis insect exile";
+var mnemonic = "possible champion hidden erosion build pig question extra leg narrow middle gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "cart walk update enlist relief doctor pair cement doll trust brush cattle";
+var mnemonic = "usual outdoor brush humor nuclear popular disorder drink sail razor young siege";

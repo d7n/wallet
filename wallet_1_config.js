@@ -1,1 +1,1 @@
-var mnemonic = "baby innocent tattoo involve over envelope size forest fossil soul language speed";
+var mnemonic = "debris belt neutral season cable fat forward donate adjust fee few angle";

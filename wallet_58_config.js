@@ -1,1 +1,1 @@
-var mnemonic = "skirt dash initial ghost then cherry animal pink detect language peanut hidden";
+var mnemonic = "correct undo cheap fiscal alert marriage drop evidence salt rate early floor";

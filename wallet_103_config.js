@@ -1,1 +1,1 @@
-var mnemonic = "slot beef client soon derive retire punch when march inherit sketch casual";
+var mnemonic = "gossip enjoy audit castle jungle tongue ghost brave say heavy weekend swear";

@@ -1,1 +1,1 @@
-var mnemonic = "promote custom canal vanish oval sniff crumble burden immense exhibit conduct when";
+var mnemonic = "circle street arrive engage afford mansion ritual tone latin news unveil pen";

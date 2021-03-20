@@ -1,1 +1,1 @@
-var mnemonic = "shell control north miss armor speak easily pony soup have discover teach";
+var mnemonic = "cement document govern candy artist easy volume laundry abstract example remember movie";

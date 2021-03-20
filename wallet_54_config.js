@@ -1,1 +1,1 @@
-var mnemonic = "midnight steel metal brave tomorrow public aim illegal broken cube orchard sentence";
+var mnemonic = "legal zebra energy title actual glimpse wonder utility purse secret eyebrow blind";

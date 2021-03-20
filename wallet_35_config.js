@@ -1,1 +1,1 @@
-var mnemonic = "mansion bag master portion romance amount forget kiwi under fever umbrella version";
+var mnemonic = "believe common fork happy sock roast refuse bulk height person east glare";

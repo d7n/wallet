@@ -1,1 +1,1 @@
-var mnemonic = "retire flash picnic fold enlist lawsuit envelope girl taste stadium punch glove";
+var mnemonic = "dove stay march cruise coast design three thrive rescue leopard cross hospital";

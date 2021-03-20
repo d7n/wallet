@@ -1,1 +1,1 @@
-var mnemonic = "birth thing hunt carry march anxiety monster weapon sausage asthma chaos popular";
+var mnemonic = "wagon bus flavor shadow crawl fantasy peasant avocado regular fade moon amateur";

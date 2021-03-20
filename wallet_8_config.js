@@ -1,1 +1,1 @@
-var mnemonic = "absurd tackle afford advice ladder glow moment remove vague soccer dragon elder";
+var mnemonic = "start source sail little perfect panda jaguar canvas member style gallery cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "upon shallow noise kind spot soap master coach metal carpet list apple";
+var mnemonic = "energy now spice story top sand swarm video museum broccoli express soul";

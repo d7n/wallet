@@ -1,1 +1,1 @@
-var mnemonic = "rug fortune flip fatal cargo sniff kitchen human erupt arctic normal piece";
+var mnemonic = "student secret cool loop ill plate animal bomb garlic extra trip worry";

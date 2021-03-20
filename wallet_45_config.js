@@ -1,1 +1,1 @@
-var mnemonic = "improve prize rose theme cheese sheriff three antenna wear parade enrich aerobic";
+var mnemonic = "lecture party mushroom fire other sheriff betray fall carry office bind duck";

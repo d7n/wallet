@@ -1,1 +1,1 @@
-var mnemonic = "virtual veteran fatigue liberty thumb toss acid invite luggage hero mother sample";
+var mnemonic = "capable film caution brand orphan pyramid neglect genius canvas awesome business curve";

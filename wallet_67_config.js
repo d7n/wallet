@@ -1,1 +1,1 @@
-var mnemonic = "frown wheel pulse glow often diet dinner post limb rib inhale uniform";
+var mnemonic = "pudding wear banana sand inside weird carpet wide icon danger guide print";

@@ -1,1 +1,1 @@
-var mnemonic = "square hidden range romance fork gun valley rather crawl van tag draw";
+var mnemonic = "promote truly spirit match tongue palace client near cherry guitar retire brown";

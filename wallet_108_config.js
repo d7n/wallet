@@ -1,1 +1,1 @@
-var mnemonic = "inquiry multiply old asset category leaf fit position raise wet sample nice";
+var mnemonic = "spread author unit bundle element clerk hidden couch divorce alpha banner final";

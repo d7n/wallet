@@ -1,1 +1,1 @@
-var mnemonic = "stay better bag credit you point struggle hard couch duty yellow weird";
+var mnemonic = "phone lab unique poem rare thank hockey jewel sort small library range";

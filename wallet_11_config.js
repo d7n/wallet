@@ -1,1 +1,1 @@
-var mnemonic = "sword code wrap stock gold cruise increase permit aim flower regret genuine";
+var mnemonic = "found culture label pumpkin glow floor chicken bind april belt blood cannon";

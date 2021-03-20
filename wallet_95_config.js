@@ -1,1 +1,1 @@
-var mnemonic = "couch water sunny tone hidden trumpet beach concert half like nut void";
+var mnemonic = "issue young virus run wasp word crew stone surface become boost easily";

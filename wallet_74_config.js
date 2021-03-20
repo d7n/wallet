@@ -1,1 +1,1 @@
-var mnemonic = "magic gloom when tunnel alley invest solid gift all plug album narrow";
+var mnemonic = "excite guess notice enemy room method top earn gasp firm suggest reform";

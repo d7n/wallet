@@ -1,1 +1,1 @@
-var mnemonic = "inmate change blade bamboo symbol coast obey noodle item run plastic host";
+var mnemonic = "refuse raccoon atom monkey obtain doll animal logic estate domain spring emotion";

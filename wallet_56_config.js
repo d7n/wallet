@@ -1,1 +1,1 @@
-var mnemonic = "fuel jump drive slow either series strike coyote gun music dignity depend";
+var mnemonic = "squirrel lemon trick cabbage sudden pupil horse beyond curious rotate odor iron";

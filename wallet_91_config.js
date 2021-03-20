@@ -1,1 +1,1 @@
-var mnemonic = "way yard prize rough melody tell jelly narrow label fix glory plug";
+var mnemonic = "this spring inspire consider jeans exchange also pass ceiling midnight actual race";

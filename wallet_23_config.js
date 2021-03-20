@@ -1,1 +1,1 @@
-var mnemonic = "record message dust follow where idea have deer carry turn impact innocent";
+var mnemonic = "fuel trigger what pear trial pistol soccer crack tray acid skill sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "spider turtle level plunge else snack garlic wink explain game tiger strategy";
+var mnemonic = "science early access cart pattern hunt flight type shiver mystery consider sniff";

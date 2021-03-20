@@ -1,1 +1,1 @@
-var mnemonic = "common obvious blanket output ladder game normal either atom park tube lawsuit";
+var mnemonic = "crowd hurt axis file wheel provide inform blind useful three supply someone";

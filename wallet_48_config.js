@@ -1,1 +1,1 @@
-var mnemonic = "drink ship harsh paddle ride during keep drum tattoo family movie stamp";
+var mnemonic = "lawsuit tortoise price timber blade accuse salad now arrive stove liberty burden";

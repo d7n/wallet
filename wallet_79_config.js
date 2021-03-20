@@ -1,1 +1,1 @@
-var mnemonic = "cloud biology soon nominee practice predict genuine salad foster network wear silent";
+var mnemonic = "proof eight dust mutual wonder bus beyond essay tag chunk bubble catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "decline shaft refuse sunny sadness invest expire donate slender hole arrest jungle";
+var mnemonic = "wet gas tank pause affair purpose pipe panda attend census obtain kitten";

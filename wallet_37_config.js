@@ -1,1 +1,1 @@
-var mnemonic = "spoil citizen wrong funny input model velvet squeeze obscure wrong toilet wonder";
+var mnemonic = "mistake trade ordinary portion alter sister swear cattle palm seat ethics swift";

@@ -1,1 +1,1 @@
-var mnemonic = "engage airport one appear mirror snap dinner hold welcome monitor detail swarm";
+var mnemonic = "web boil fat toast civil gain phrase sword license junior rapid medal";

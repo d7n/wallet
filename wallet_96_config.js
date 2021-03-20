@@ -1,1 +1,1 @@
-var mnemonic = "glare menu design idle decorate relax ostrich decide account ancient crouch loyal";
+var mnemonic = "super front place artwork insect permit country staff pipe thumb runway twenty";

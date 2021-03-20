@@ -1,1 +1,1 @@
-var mnemonic = "issue brick shift potato attack polar silly mail letter ring father pipe";
+var mnemonic = "oval surround inhale turtle degree mandate crazy result shiver clutch exhaust image";

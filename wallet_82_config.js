@@ -1,1 +1,1 @@
-var mnemonic = "paper time hurt battle dirt owner error victory marine area estate series";
+var mnemonic = "ship have wood fog leaf frame legal clip garage giggle repeat giraffe";

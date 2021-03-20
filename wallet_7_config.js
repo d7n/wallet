@@ -1,1 +1,1 @@
-var mnemonic = "sting appear plate uncover dolphin grain lawsuit isolate leaf minute urban vapor";
+var mnemonic = "vivid small eye pottery now pizza unusual already know tenant distance where";

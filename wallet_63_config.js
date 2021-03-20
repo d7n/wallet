@@ -1,1 +1,1 @@
-var mnemonic = "acid swamp cram custom network pause wrong immune cram process transfer color";
+var mnemonic = "tray theory light pluck cargo blade radar wear develop mutual basic swear";

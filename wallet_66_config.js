@@ -1,1 +1,1 @@
-var mnemonic = "spoon blind bulk sister wild coil seek candy autumn parent excess federal";
+var mnemonic = "section monkey panic design pepper syrup equal traffic video congress another perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber merit bitter fine brass girl age month tide gap oven poem";
+var mnemonic = "tiger nothing trash success ostrich sustain gloom fall wool prize clinic nominee";

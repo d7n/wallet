@@ -1,1 +1,1 @@
-var mnemonic = "accuse debate omit pipe kind chronic hazard advance physical edit defy online";
+var mnemonic = "write winner globe praise enact regular jaguar moral control artwork today people";

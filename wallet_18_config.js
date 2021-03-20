@@ -1,1 +1,1 @@
-var mnemonic = "silent review marble liberty catch extra treat pact inquiry only runway tag";
+var mnemonic = "better tool town floor dragon coyote remember fiscal amount impose decorate document";

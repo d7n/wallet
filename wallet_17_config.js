@@ -1,1 +1,1 @@
-var mnemonic = "immense glue draft bundle blame banner talent slow knock term bike vibrant";
+var mnemonic = "final bottom mass genuine bright you arena body core mirror phone venue";

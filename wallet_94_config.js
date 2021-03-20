@@ -1,1 +1,1 @@
-var mnemonic = "cliff false liberty window else shrug carry order bomb hill depart end";
+var mnemonic = "west dilemma prosper comic bring supply proof moral royal index wrestle proof";

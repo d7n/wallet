@@ -1,1 +1,1 @@
-var mnemonic = "bid access curious wealth fatal slim bulk beyond stem boil piece endless";
+var mnemonic = "among frequent blush minimum blanket hurdle wave insane rotate exile garment lawsuit";

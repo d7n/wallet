@@ -1,1 +1,1 @@
-var mnemonic = "one dish wine merge invite spike fancy menu high royal rubber dawn";
+var mnemonic = "ball where pelican life shy core tonight staff pill deer wait hotel";

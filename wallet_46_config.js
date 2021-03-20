@@ -1,1 +1,1 @@
-var mnemonic = "frozen vanish air mask across twenty prison entire basic balcony uncle dial";
+var mnemonic = "hybrid suspect impulse clap business leader october bargain pony oppose salon busy";
