@@ -1,1 +1,1 @@
-var mnemonic = "mixture fortune fragile soft hen foil old energy skirt shiver fold attend";
+var mnemonic = "fury relief regret rigid today crush improve cry traffic noble traffic enact";

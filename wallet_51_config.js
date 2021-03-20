@@ -1,1 +1,1 @@
-var mnemonic = "depart box save offer design notice scrub receive noble fancy icon awake";
+var mnemonic = "cable fever radar artist asthma energy title civil bid effort depart celery";

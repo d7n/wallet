@@ -1,1 +1,1 @@
-var mnemonic = "mosquito own immense daring sadness road cupboard gown walnut chimney bunker clutch";
+var mnemonic = "country file budget affair path goat slender lesson minor relief business feed";

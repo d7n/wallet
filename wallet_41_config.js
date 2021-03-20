@@ -1,1 +1,1 @@
-var mnemonic = "bundle guard hero garden ancient green bonus choice oblige vapor vivid armor";
+var mnemonic = "gap ignore punch holiday giggle arctic hobby garment strategy march bread matter";

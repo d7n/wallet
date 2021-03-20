@@ -1,1 +1,1 @@
-var mnemonic = "bring blue recall letter spice kind absurd atom float arrange estate seat";
+var mnemonic = "airport museum fish panda holiday patch logic occur visual pave smoke tennis";

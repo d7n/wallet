@@ -1,1 +1,1 @@
-var mnemonic = "cart garlic vital bronze entry marine tool rose disorder sunset rigid salmon";
+var mnemonic = "fortune spider fame young century crazy gravity lens flavor future toilet coral";

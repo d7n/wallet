@@ -1,1 +1,1 @@
-var mnemonic = "move hope sound protect run mouse venue patrol harbor couch visa begin";
+var mnemonic = "guess vicious discover situate long brave defense certain myself snap mosquito globe";

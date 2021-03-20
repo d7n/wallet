@@ -1,1 +1,1 @@
-var mnemonic = "skill crystal north prepare radio magnet plate weapon flee shoe honey power";
+var mnemonic = "blade business teach meadow mass throw birth brush begin enforce solution glad";

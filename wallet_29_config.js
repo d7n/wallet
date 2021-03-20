@@ -1,1 +1,1 @@
-var mnemonic = "humor fashion casino frog valid marine more tower media hunt hip repeat";
+var mnemonic = "object number flavor custom tongue recall use sentence forest visa action soup";

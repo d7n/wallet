@@ -1,1 +1,1 @@
-var mnemonic = "assist wolf winter jungle pioneer loop gesture prize undo found dove intact";
+var mnemonic = "clerk gauge media grab vicious extra peace pride original scheme team embrace";

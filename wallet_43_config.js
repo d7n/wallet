@@ -1,1 +1,1 @@
-var mnemonic = "planet language tired safe dumb initial ginger squirrel capital earth kingdom network";
+var mnemonic = "kind quiz level join anchor ancient sail cheese change oblige output barely";

@@ -1,1 +1,1 @@
-var mnemonic = "viable miracle lesson river vast extend mistake yard vacant ability debate hood";
+var mnemonic = "clean smoke regret steak share foot aisle odor assist sniff river toast";

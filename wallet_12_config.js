@@ -1,1 +1,1 @@
-var mnemonic = "blush pen inhale genuine feed illness trick hand fold property brown stumble";
+var mnemonic = "tank subject dash glad coin phone girl accident food music boring boost";

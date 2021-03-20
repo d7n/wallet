@@ -1,1 +1,1 @@
-var mnemonic = "define next rigid dove average stand dice rather subway vivid hello clown";
+var mnemonic = "fossil arrest loop business scatter exotic fiction below rebuild sudden twenty concert";

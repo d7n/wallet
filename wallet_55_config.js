@@ -1,1 +1,1 @@
-var mnemonic = "ranch dentist sorry fly gloom trumpet math flash behind virus industry diary";
+var mnemonic = "vault library debate gossip pull icon sister depth quiz extra hamster prefer";

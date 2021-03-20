@@ -1,1 +1,1 @@
-var mnemonic = "marriage mercy evidence food slot cruel medal inhale duck century spy artefact";
+var mnemonic = "sketch angle tumble romance syrup observe owner cruise gather fat drama cupboard";

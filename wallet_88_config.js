@@ -1,1 +1,1 @@
-var mnemonic = "happy unhappy diary pigeon daughter avoid genre demand puppy rug monkey ill";
+var mnemonic = "bulb begin interest deputy category once denial increase seven comfort pretty direct";

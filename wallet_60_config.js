@@ -1,1 +1,1 @@
-var mnemonic = "initial note crack snack radar mean obey ring floor shoot wasp polar";
+var mnemonic = "sentence guide mom pepper fold hollow total sound garage laundry deputy uncle";

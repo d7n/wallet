@@ -1,1 +1,1 @@
-var mnemonic = "robot artist mixture receive material urban clutch title million differ entry census";
+var mnemonic = "vicious stereo vanish alien humble verb kick ride drip eager vocal agree";

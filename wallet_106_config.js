@@ -1,1 +1,1 @@
-var mnemonic = "tomato brown relax sauce mean giant draw kit radio supply hospital butter";
+var mnemonic = "design gather spoon spread alpha stumble door guide torch water riot extend";

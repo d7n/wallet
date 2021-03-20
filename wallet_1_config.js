@@ -1,1 +1,1 @@
-var mnemonic = "where toilet blush robust host pool industry grab feed cool exchange student";
+var mnemonic = "other horn name oxygen good genuine inhale recall salon oven eager adult";

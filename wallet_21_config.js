@@ -1,1 +1,1 @@
-var mnemonic = "spot core donor trip flame boat carbon harvest dumb silk write second";
+var mnemonic = "warfare innocent divorce clump oxygen ethics blouse sauce scare reject nerve excite";

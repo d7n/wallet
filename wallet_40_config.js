@@ -1,1 +1,1 @@
-var mnemonic = "elephant side outer purity venture armed come pyramid tunnel praise guitar this";
+var mnemonic = "body certain one camp humor rain cross panda cabin embrace derive family";

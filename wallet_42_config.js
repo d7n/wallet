@@ -1,1 +1,1 @@
-var mnemonic = "surround garage gauge grit height student elder card echo tenant piano wise";
+var mnemonic = "fork valid buddy twenty ocean alone edge pony basic park olympic elephant";

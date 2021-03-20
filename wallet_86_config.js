@@ -1,1 +1,1 @@
-var mnemonic = "ticket deal rally march zone sing hub oil flight borrow wisdom cash";
+var mnemonic = "rail risk father sick spot race addict quick gentle whisper bachelor student";

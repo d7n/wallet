@@ -1,1 +1,1 @@
-var mnemonic = "best exotic trap custom bless bag begin cat model mixed such silly";
+var mnemonic = "sail own zebra just brand change budget flag ranch glue comfort aspect";

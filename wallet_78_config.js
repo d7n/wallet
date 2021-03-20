@@ -1,1 +1,1 @@
-var mnemonic = "hair focus bunker cram actual stem ill deny turtle provide cute blossom";
+var mnemonic = "decline anxiety target woman card danger neither smart panic message crouch idea";

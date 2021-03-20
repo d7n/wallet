@@ -1,1 +1,1 @@
-var mnemonic = "number unlock budget mercy lecture champion rubber nature speak link library soon";
+var mnemonic = "flee idea fun stay elbow pottery diamond coin tent result innocent farm";

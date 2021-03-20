@@ -1,1 +1,1 @@
-var mnemonic = "gravity filter midnight deposit canoe rescue distance random mango slab around merit";
+var mnemonic = "van ankle door tooth clog hood brother kingdom believe satoshi girl grant";

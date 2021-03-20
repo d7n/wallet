@@ -1,1 +1,1 @@
-var mnemonic = "need fall version staff birth image income avoid report dizzy track biology";
+var mnemonic = "desk group sauce large junk battle cart real shove rather easy wrap";

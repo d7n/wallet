@@ -1,1 +1,1 @@
-var mnemonic = "usage exist useless toward joy shine ketchup pride seek today naive session";
+var mnemonic = "smooth shop luggage alley surface keep yard teach critic slot deal pact";

@@ -1,1 +1,1 @@
-var mnemonic = "grid output faith crouch topic avocado original coyote tooth anchor ceiling melody";
+var mnemonic = "predict floor hunt host manage ten head network main security limit fossil";

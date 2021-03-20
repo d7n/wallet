@@ -1,1 +1,1 @@
-var mnemonic = "ill razor key diesel ribbon excite portion same melt double cabin game";
+var mnemonic = "penalty essence space suspect faculty near prison panel lecture robust sword fitness";

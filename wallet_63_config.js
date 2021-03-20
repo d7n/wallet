@@ -1,1 +1,1 @@
-var mnemonic = "obtain pitch ocean swarm expire noble hub decorate table frown stock major";
+var mnemonic = "giraffe melt ostrich video oblige crisp become stage airport fury rule illness";

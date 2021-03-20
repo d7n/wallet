@@ -1,1 +1,1 @@
-var mnemonic = "portion forum betray garlic auto frequent silent demise please shell crush pull";
+var mnemonic = "stereo police employ dog strategy pottery obvious stand dismiss evil guilt knock";

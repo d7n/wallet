@@ -1,1 +1,1 @@
-var mnemonic = "soup fuel kiwi upset drop bitter pole game stock case raw science";
+var mnemonic = "badge nose puzzle solar bubble radar exhaust nurse mercy expire face trip";

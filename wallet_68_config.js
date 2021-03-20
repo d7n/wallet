@@ -1,1 +1,1 @@
-var mnemonic = "code delay push legend ranch donor calm filter flag cost small solution";
+var mnemonic = "velvet cheese bullet praise melt window nest critic bullet length drill item";

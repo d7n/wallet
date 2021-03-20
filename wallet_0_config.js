@@ -1,1 +1,1 @@
-var mnemonic = "supply roast cool weekend happy panda exile elegant else curtain strong parade";
+var mnemonic = "tape hold upgrade stadium ahead zoo wreck birth defense pitch laundry pattern";

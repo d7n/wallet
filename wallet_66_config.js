@@ -1,1 +1,1 @@
-var mnemonic = "like appear exist polar glue rice daring alter shine crumble true source";
+var mnemonic = "dad pottery asset runway argue note truck phrase electric network nasty bachelor";

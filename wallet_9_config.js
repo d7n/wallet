@@ -1,1 +1,1 @@
-var mnemonic = "salute once embark train source safe cat drastic sentence loop nest gravity";
+var mnemonic = "tomorrow woman skill blind clip great weird pioneer hollow disorder ride what";

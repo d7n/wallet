@@ -1,1 +1,1 @@
-var mnemonic = "crew current ankle very close time ten loop noodle sand unfair lamp";
+var mnemonic = "oval sponsor rather riot gloom inform tomato atom present fruit catalog gain";

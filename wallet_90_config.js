@@ -1,1 +1,1 @@
-var mnemonic = "remove speak used upon defy waste suit rail craft swallow debate run";
+var mnemonic = "donor purchase excite parade blue sponsor awesome scheme soccer capital ceiling federal";

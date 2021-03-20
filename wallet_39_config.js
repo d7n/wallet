@@ -1,1 +1,1 @@
-var mnemonic = "shuffle develop provide two industry all surprise fog attack dry mixed indicate";
+var mnemonic = "inhale general indoor poverty female desert ask learn cereal member above enroll";

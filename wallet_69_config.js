@@ -1,1 +1,1 @@
-var mnemonic = "luggage fatal diary scheme trophy congress debris clay lonely harsh laugh tiny";
+var mnemonic = "maple dream where grief amateur chunk abuse pause august hover truck pet";

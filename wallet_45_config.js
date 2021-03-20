@@ -1,1 +1,1 @@
-var mnemonic = "lab ability cancel evolve jar hobby kit resource music unhappy reduce increase";
+var mnemonic = "digital truth resource recycle vacant panic tennis bargain thumb omit call cricket";

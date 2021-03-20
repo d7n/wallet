@@ -1,1 +1,1 @@
-var mnemonic = "plunge until hammer cactus local taxi deny chaos pave thrive slim such";
+var mnemonic = "cute drum robot this man stay token second age fashion juice raise";

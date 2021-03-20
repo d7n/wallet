@@ -1,1 +1,1 @@
-var mnemonic = "rotate comfort crisp sick fossil purchase foot avocado vendor furnace work harbor";
+var mnemonic = "marriage control filter solar banner creek tail order thing panther mesh old";

@@ -1,1 +1,1 @@
-var mnemonic = "thing estate egg ask fit embody frost dial garden brain rely before";
+var mnemonic = "budget jealous model alpha fancy prosper elbow brick gorilla build about grow";

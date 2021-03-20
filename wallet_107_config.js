@@ -1,1 +1,1 @@
-var mnemonic = "cloth ethics symbol method office lake nice hover chuckle destroy hip panel";
+var mnemonic = "brother weekend ozone better leopard unknown million shop tide shy rely raw";

@@ -1,1 +1,1 @@
-var mnemonic = "immense age anchor sausage age lyrics butter know exclude double bar flash";
+var mnemonic = "flag move witness smoke arrest ball photo animal remind episode rug divide";

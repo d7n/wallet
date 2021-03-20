@@ -1,1 +1,1 @@
-var mnemonic = "ensure panda sound obscure laundry present oxygen call vanish amount team stick";
+var mnemonic = "lion piano decade pluck jaguar carbon weapon chat program planet glove shrimp";

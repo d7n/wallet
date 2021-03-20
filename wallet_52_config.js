@@ -1,1 +1,1 @@
-var mnemonic = "injury bounce avoid hidden bracket battle bunker buyer embark run toe ripple";
+var mnemonic = "cool valve arrow boring crane chaos must tube situate turtle boost auto";

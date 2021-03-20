@@ -1,1 +1,1 @@
-var mnemonic = "sniff crash problem zero business unable fruit until author cinnamon merry person";
+var mnemonic = "process hurt embrace never day effort lab plunge kick order spider segment";

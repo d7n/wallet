@@ -1,1 +1,1 @@
-var mnemonic = "old pig differ sponsor raise budget bamboo until defy poet seven cross";
+var mnemonic = "target trumpet scrub impulse clock surround river blossom table gaze fluid divert";

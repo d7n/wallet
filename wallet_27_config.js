@@ -1,1 +1,1 @@
-var mnemonic = "choose betray tattoo celery captain quote ramp filter hill dawn ring drink";
+var mnemonic = "hunt spider turtle camp eagle strike adjust park best begin error describe";

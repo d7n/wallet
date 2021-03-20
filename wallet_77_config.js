@@ -1,1 +1,1 @@
-var mnemonic = "grain antique goat awkward sweet annual pupil valid soap scorpion ecology toddler";
+var mnemonic = "sample level pole tell hire stove cradle famous scorpion ill bamboo arrest";

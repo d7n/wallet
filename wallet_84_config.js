@@ -1,1 +1,1 @@
-var mnemonic = "rescue rocket skirt trigger normal idle potato catalog random agree sad supreme";
+var mnemonic = "shoot ginger seed mirror inner about venue clap network advance ecology bench";

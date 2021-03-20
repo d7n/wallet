@@ -1,1 +1,1 @@
-var mnemonic = "crater wreck comic naive fossil sword ginger doll elephant surge fault manual";
+var mnemonic = "treat throw question entire during dry fee skin ginger rose market soldier";

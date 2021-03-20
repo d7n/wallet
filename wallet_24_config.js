@@ -1,1 +1,1 @@
-var mnemonic = "captain dilemma mirror cute detail base shock helmet dutch obscure churn idea";
+var mnemonic = "six camera vivid renew world camera cigar square position maple slow icon";

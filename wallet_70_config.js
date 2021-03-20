@@ -1,1 +1,1 @@
-var mnemonic = "hazard polar announce escape front emotion lamp oil loyal initial ski urban";
+var mnemonic = "order rather umbrella erode claim palm animal enlist jacket display choose actress";

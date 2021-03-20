@@ -1,1 +1,1 @@
-var mnemonic = "unit denial wild vault path banner glow blossom famous kitten spike hundred";
+var mnemonic = "curtain floor spy fiscal indoor fragile dentist foster dune refuse salt angle";

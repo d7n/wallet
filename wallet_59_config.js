@@ -1,1 +1,1 @@
-var mnemonic = "hello cat erupt vibrant rug trust base detail avocado bachelor law exchange";
+var mnemonic = "plug reward public obey curve help milk blind amount defense window tired";

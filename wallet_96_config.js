@@ -1,1 +1,1 @@
-var mnemonic = "code dolphin kiss small upgrade lucky spend erosion soul fatal toe develop";
+var mnemonic = "holiday dove organ damage stand stone hedgehog merge recipe excuse opinion file";

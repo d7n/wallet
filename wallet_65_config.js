@@ -1,1 +1,1 @@
-var mnemonic = "please toddler pioneer mom wash such abstract morning provide kind genuine cook";
+var mnemonic = "canyon okay wet dress weather lab anxiety mask primary girl voyage strategy";

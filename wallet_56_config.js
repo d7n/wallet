@@ -1,1 +1,1 @@
-var mnemonic = "cluster crunch street purpose piece pond fan future rifle limit stone win";
+var mnemonic = "term little point ice physical multiply south wool cement gallery luxury endless";

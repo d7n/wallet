@@ -1,1 +1,1 @@
-var mnemonic = "guitar panda odor bright deer short boy develop rival eyebrow devote crack";
+var mnemonic = "comic release ask toy teach emerge soldier shrimp wash little agree spread";

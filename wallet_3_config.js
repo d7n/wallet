@@ -1,1 +1,1 @@
-var mnemonic = "head flee industry battle medal dose antenna exercise nation sweet lottery width";
+var mnemonic = "park kitchen cover impact sleep stomach civil expire future beauty section board";

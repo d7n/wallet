@@ -1,1 +1,1 @@
-var mnemonic = "lecture angry shield damage guard tiger domain deliver cycle swim primary cruise";
+var mnemonic = "infant apart crowd carry win notice muffin income clock window exhibit glue";

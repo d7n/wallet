@@ -1,1 +1,1 @@
-var mnemonic = "stick gown beach blush cluster that version weird anchor electric salt cannon";
+var mnemonic = "attend ramp easily crumble arrange rotate talk hockey thought wheat ozone result";

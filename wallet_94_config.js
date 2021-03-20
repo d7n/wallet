@@ -1,1 +1,1 @@
-var mnemonic = "wink enable turn eagle universe arrange silent jaguar detect song wild mosquito";
+var mnemonic = "ivory mango beyond trend smoke gentle ridge ship flat vocal message small";

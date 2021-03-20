@@ -1,1 +1,1 @@
-var mnemonic = "nut want collect make believe still start salute hero across review ice";
+var mnemonic = "day mention core reward army visual also spoon once fiber solid cannon";

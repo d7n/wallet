@@ -1,1 +1,1 @@
-var mnemonic = "chicken tenant penalty object polar bamboo matter sunny flag share below depend";
+var mnemonic = "category nasty only shine boss vendor hen blind object cross soda spin";

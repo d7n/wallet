@@ -1,1 +1,1 @@
-var mnemonic = "crucial toilet fluid network scrub van work wife end focus easy risk";
+var mnemonic = "guard buyer smile correct try grid primary thing work second ritual loan";

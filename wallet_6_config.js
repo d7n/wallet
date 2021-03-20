@@ -1,1 +1,1 @@
-var mnemonic = "behave phone market duty rib indicate laugh friend boss jar forum recipe";
+var mnemonic = "dignity neglect midnight distance comfort guess spin arm spoon throw faint become";

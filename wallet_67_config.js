@@ -1,1 +1,1 @@
-var mnemonic = "goddess minute heavy alley abstract dragon series avoid vault paddle indicate flame";
+var mnemonic = "parent purpose soap moment jar anxiety olive skirt useful coin filter travel";

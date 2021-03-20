@@ -1,1 +1,1 @@
-var mnemonic = "trap key smoke fence change reopen job peace fault rookie okay vapor";
+var mnemonic = "liar spring super wise idle mirror useful device emotion innocent parade mushroom";

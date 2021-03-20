@@ -1,1 +1,1 @@
-var mnemonic = "illegal winter lazy tobacco roof brass you iron chunk business daughter arrange";
+var mnemonic = "curtain fiction misery damp sick oak right all sunny furnace layer peanut";

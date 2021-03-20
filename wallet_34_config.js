@@ -1,1 +1,1 @@
-var mnemonic = "alone raw hip elite pet omit position nest wing retreat orange cute";
+var mnemonic = "oyster truth dice trial scout cargo finger crack network wrong visual aim";

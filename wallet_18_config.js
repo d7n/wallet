@@ -1,1 +1,1 @@
-var mnemonic = "win music leave must develop picnic music make blossom wire height cram";
+var mnemonic = "remember afraid famous jacket emerge save hobby engage lawn elbow emerge swift";

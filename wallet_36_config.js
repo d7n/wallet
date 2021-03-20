@@ -1,1 +1,1 @@
-var mnemonic = "endless party during abandon stable rookie lizard boss liquid accident tuna smooth";
+var mnemonic = "scrub flame picture snake squeeze clump elite pass current taste club rack";

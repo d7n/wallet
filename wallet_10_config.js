@@ -1,1 +1,1 @@
-var mnemonic = "initial debate sheriff belt crush decorate doctor saddle meadow mouse rookie man";
+var mnemonic = "real decade gravity eyebrow left behave random various witness lake faint memory";

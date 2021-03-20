@@ -1,1 +1,1 @@
-var mnemonic = "embark foil worth dinner lion hover tray deer couple achieve athlete fancy";
+var mnemonic = "section dune minor agree hurt below loyal virus year dentist warfare quality";

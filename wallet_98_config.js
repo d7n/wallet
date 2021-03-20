@@ -1,1 +1,1 @@
-var mnemonic = "reveal benefit hero crop render correct fat guess color phone labor figure";
+var mnemonic = "protect deal mystery exit very laugh leisure advance crawl talent memory sorry";

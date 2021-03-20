@@ -1,1 +1,1 @@
-var mnemonic = "admit wink ahead volcano include wage entire wet final place obtain lift";
+var mnemonic = "jazz demand never cook around inquiry together hero catch fire prevent lemon";

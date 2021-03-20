@@ -1,1 +1,1 @@
-var mnemonic = "refuse margin bring match account tool owner voyage item fuel trim jar";
+var mnemonic = "yellow improve empty menu speak claim resemble topic night pill scheme arrest";

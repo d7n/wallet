@@ -1,1 +1,1 @@
-var mnemonic = "dune immune visa tomorrow network rebel page shaft chronic embrace okay used";
+var mnemonic = "forum weasel real magic wisdom mammal depend ready trap solution venue shuffle";
