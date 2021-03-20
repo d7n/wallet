@@ -1,1 +1,1 @@
-var mnemonic = "inhale vendor eagle move labor apology ethics system casino guard maximum disease";
+var mnemonic = "cause region ice need injury pear joke fatal village potato check liberty";

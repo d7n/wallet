@@ -1,1 +1,1 @@
-var mnemonic = "enemy finger divorce cheap scissors amused soup snake hill sentence doll magnet";
+var mnemonic = "grab edge champion silly umbrella poverty capital person twenty wealth address soul";

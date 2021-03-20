@@ -1,1 +1,1 @@
-var mnemonic = "chuckle vintage electric dust letter wrestle gown anchor truck duck throw banana";
+var mnemonic = "cloth airport estate rally common audit winter august firm photo dawn adjust";

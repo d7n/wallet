@@ -1,1 +1,1 @@
-var mnemonic = "quit extend sample auction aim dinner meadow laptop anxiety argue approve payment";
+var mnemonic = "hip rain follow mean family acquire news expand smooth blanket cotton gain";

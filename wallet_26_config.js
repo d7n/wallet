@@ -1,1 +1,1 @@
-var mnemonic = "estate color focus coil rescue great twenty brass inflict local wheel depart";
+var mnemonic = "awkward purpose tilt popular sun common way rebuild wear sell base assume";

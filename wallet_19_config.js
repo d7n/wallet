@@ -1,1 +1,1 @@
-var mnemonic = "pilot canoe annual tape flush three miss bone tail ignore deny onion";
+var mnemonic = "clever advice refuse dizzy under claw entry scorpion hunt long town sea";

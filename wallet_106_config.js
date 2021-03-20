@@ -1,1 +1,1 @@
-var mnemonic = "twelve duty accident hybrid letter bench assume duty pretty sad over shell";
+var mnemonic = "cruise bid bean gravity message hamster dilemma distance script margin knife reflect";

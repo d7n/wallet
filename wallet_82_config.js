@@ -1,1 +1,1 @@
-var mnemonic = "purchase collect bracket hello owner ahead innocent match act sword acoustic citizen";
+var mnemonic = "glance exist inject curve crazy estate clog live lobster stuff galaxy tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital device toddler plunge zone alien claim blue reflect mobile chair history";
+var mnemonic = "govern stamp tonight umbrella hour hundred ring unfair derive reduce volume cement";

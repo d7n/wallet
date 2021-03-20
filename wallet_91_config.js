@@ -1,1 +1,1 @@
-var mnemonic = "icon mask finish tag eagle rocket magnet ecology purse system inform final";
+var mnemonic = "silent identify claw corn goat stamp raise idle hurry hero inside peanut";

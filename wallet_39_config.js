@@ -1,1 +1,1 @@
-var mnemonic = "spell multiply decade margin knife film emotion clean ill must search rug";
+var mnemonic = "family hint asthma trim domain vehicle wool few flip weird worth donate";

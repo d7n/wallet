@@ -1,1 +1,1 @@
-var mnemonic = "solution lunch prison large burger edge various about once pet output image";
+var mnemonic = "orient awful become cargo convince zero music minute cradle attend runway alien";

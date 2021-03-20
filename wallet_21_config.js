@@ -1,1 +1,1 @@
-var mnemonic = "twin ugly decrease toy mango width erode use insane pretty party federal";
+var mnemonic = "trip inflict slogan snap swear turkey simple iron source magnet finish chunk";

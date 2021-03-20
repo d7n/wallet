@@ -1,1 +1,1 @@
-var mnemonic = "lend culture income thrive trip wool stadium cluster night race grace stuff";
+var mnemonic = "equal omit banana square guitar rice custom love chest question egg accident";

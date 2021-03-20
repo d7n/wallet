@@ -1,1 +1,1 @@
-var mnemonic = "cloud journey umbrella tribe wool chunk tired cabin one purpose abuse switch";
+var mnemonic = "fuel split escape chronic supply volume piano match reflect often rail ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "memory shield rabbit pole example pool gravity desk wrestle basic castle near";
+var mnemonic = "uncle knock crew cave glide turtle success smile scene style idle nose";

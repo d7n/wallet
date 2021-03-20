@@ -1,1 +1,1 @@
-var mnemonic = "lunar teach prize claw snap train nuclear pumpkin angle crunch gift choice";
+var mnemonic = "topic issue glance harvest spin erosion traffic demand margin potato crew alcohol";

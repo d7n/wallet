@@ -1,1 +1,1 @@
-var mnemonic = "sniff slim that movie shadow race truck sing material casual select alcohol";
+var mnemonic = "recall ginger three furnace awesome tide cool slow domain float broccoli olive";

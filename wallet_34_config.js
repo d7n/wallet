@@ -1,1 +1,1 @@
-var mnemonic = "drama unknown pattern oxygen chair cancel indicate magnet barely bamboo culture trash";
+var mnemonic = "zero kingdom knock mixture metal hole increase biology fruit fever tower online";

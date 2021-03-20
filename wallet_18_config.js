@@ -1,1 +1,1 @@
-var mnemonic = "cave kick mansion faint cloth student hand float craft submit icon rice";
+var mnemonic = "nurse want robust kiss where deliver catch know essence puppy upgrade source";

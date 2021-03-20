@@ -1,1 +1,1 @@
-var mnemonic = "truth sun busy hundred man garage fitness scorpion control maple brave organ";
+var mnemonic = "melt crash spoon swap run office recall layer cradle traffic group panther";

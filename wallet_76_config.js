@@ -1,1 +1,1 @@
-var mnemonic = "course cradle time common smoke draw aware convince author alley view summer";
+var mnemonic = "impose print wagon glide gauge recycle cream open dinosaur vanish shaft bonus";

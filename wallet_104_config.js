@@ -1,1 +1,1 @@
-var mnemonic = "blast eyebrow miss ramp return uncle tourist text exist toast tank define";
+var mnemonic = "dog decrease kingdom remove despair edit shiver resemble popular lawsuit mimic okay";

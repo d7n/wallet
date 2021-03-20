@@ -1,1 +1,1 @@
-var mnemonic = "field tool jar tongue exchange voyage client bid fall strategy clock thunder";
+var mnemonic = "large loyal survey torch october repeat gravity drift believe artist intact jump";

@@ -1,1 +1,1 @@
-var mnemonic = "bag truck embark twelve garbage drink cube same maid badge exotic episode";
+var mnemonic = "news omit question deer diesel drive memory frost myth robot any vocal";

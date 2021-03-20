@@ -1,1 +1,1 @@
-var mnemonic = "mouse young slab auction miracle yellow egg transfer current art deliver dilemma";
+var mnemonic = "expose valley news ancient matter coyote left river silk race adjust squeeze";

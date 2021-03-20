@@ -1,1 +1,1 @@
-var mnemonic = "drum topple twelve hour dad situate attitude alarm horse wink twice satoshi";
+var mnemonic = "suit aunt property veteran trigger dynamic harbor renew corn cherry anxiety area";

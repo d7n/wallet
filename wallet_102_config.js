@@ -1,1 +1,1 @@
-var mnemonic = "salute scare worry display involve uncle pear vague slam age swallow rare";
+var mnemonic = "mango butter task major awake whip intact elbow stuff zone forward decorate";

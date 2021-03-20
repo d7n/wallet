@@ -1,1 +1,1 @@
-var mnemonic = "adapt snake present shrimp another type awkward welcome pigeon awake subject accident";
+var mnemonic = "melt icon flush salmon cotton floor grant fortune river flee dinosaur shrug";

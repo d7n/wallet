@@ -1,1 +1,1 @@
-var mnemonic = "range angle west carry often total gospel muscle orient relax spike neglect";
+var mnemonic = "aisle inmate shove play property pact grain fetch mango slam wheat little";

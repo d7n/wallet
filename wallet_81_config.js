@@ -1,1 +1,1 @@
-var mnemonic = "denial hunt govern salon ski daughter surface grab shove one person draw";
+var mnemonic = "school pelican zoo reopen method impact basic curious surface bundle pet diary";

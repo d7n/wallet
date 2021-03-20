@@ -1,1 +1,1 @@
-var mnemonic = "parrot fossil soldier unaware record cereal rate left census average forget soccer";
+var mnemonic = "myth love lion source option royal crystal also time hole parent extra";

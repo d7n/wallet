@@ -1,1 +1,1 @@
-var mnemonic = "moon alien confirm autumn coast injury moral hunt blanket inhale subject require";
+var mnemonic = "mushroom aspect admit company east square great female erosion barely ivory eyebrow";

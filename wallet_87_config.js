@@ -1,1 +1,1 @@
-var mnemonic = "scrap amount dry base pass wheat theory bracket wasp boring dream orphan";
+var mnemonic = "benefit pyramid valid duty upset opera blue before much glad lawn tilt";

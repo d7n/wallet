@@ -1,1 +1,1 @@
-var mnemonic = "witness casual copper stage detail future cause kitten glare orient prize panther";
+var mnemonic = "document valley flight interest plate chaos remember nurse unfold explain ability cross";

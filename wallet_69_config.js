@@ -1,1 +1,1 @@
-var mnemonic = "insect hole imitate border floor romance exile carpet mean stove desert permit";
+var mnemonic = "dry evoke loan grab better maximum scissors enter maze fitness truck pepper";

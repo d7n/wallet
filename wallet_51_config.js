@@ -1,1 +1,1 @@
-var mnemonic = "explain avocado dial stereo derive message syrup dismiss moral bless gossip zero";
+var mnemonic = "tennis exhibit duty head object galaxy wage enroll room axis deliver grain";

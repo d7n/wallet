@@ -1,1 +1,1 @@
-var mnemonic = "rookie equip pigeon begin buffalo army flight draft chef mean volume elephant";
+var mnemonic = "scrub repair famous reform air skate drama vapor dust purpose state cancel";

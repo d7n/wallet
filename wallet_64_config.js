@@ -1,1 +1,1 @@
-var mnemonic = "ladder game fringe put salad also hurt move actual increase little width";
+var mnemonic = "advance stairs hidden denial control crowd foster zone quit flag truck claw";

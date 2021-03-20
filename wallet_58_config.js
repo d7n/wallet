@@ -1,1 +1,1 @@
-var mnemonic = "fat rice zoo truly huge toss profit eager route elegant slab sand";
+var mnemonic = "mosquito kangaroo problem defy copy siege dust hire grab aisle chest general";

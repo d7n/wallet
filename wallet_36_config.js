@@ -1,1 +1,1 @@
-var mnemonic = "mask island deal stage inhale broken industry cloth loop uphold above liquid";
+var mnemonic = "item view tray become settle pistol churn awful jaguar ribbon ketchup cactus";

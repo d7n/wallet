@@ -1,1 +1,1 @@
-var mnemonic = "opinion live pigeon attend absorb blouse announce chat fluid street oval gaze";
+var mnemonic = "jungle panic tiger rather feature beyond zone silver farm section bicycle kitten";

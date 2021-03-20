@@ -1,1 +1,1 @@
-var mnemonic = "bargain refuse lunar master search hen evidence rotate cute tongue together magic";
+var mnemonic = "announce oven squirrel effort congress praise increase accident thing wear will credit";

@@ -1,1 +1,1 @@
-var mnemonic = "twice harvest snake random merry grass hair arctic unveil sort tiger viable";
+var mnemonic = "visa dynamic plastic journey fever bird track sick certain faith direct divorce";

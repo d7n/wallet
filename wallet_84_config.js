@@ -1,1 +1,1 @@
-var mnemonic = "step empower wild merit trial that intact robust vital radar budget goose";
+var mnemonic = "garment silly suspect correct credit melt cupboard patch car pepper puzzle logic";

@@ -1,1 +1,1 @@
-var mnemonic = "identify moral below talk remain three emerge guide salon bottom month other";
+var mnemonic = "brisk stand clap surge frost profit label model smooth antenna reward hat";

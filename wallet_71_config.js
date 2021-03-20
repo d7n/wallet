@@ -1,1 +1,1 @@
-var mnemonic = "paper lady basic next rotate sample method flash make today decorate coil";
+var mnemonic = "wish can mango move outside angle moral limb rival blood already castle";

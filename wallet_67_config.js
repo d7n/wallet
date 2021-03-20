@@ -1,1 +1,1 @@
-var mnemonic = "vibrant melt movie drama erase step verb easily box opinion mountain elder";
+var mnemonic = "media top lawn promote bunker vehicle rifle size skin accuse hobby maple";

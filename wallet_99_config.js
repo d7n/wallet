@@ -1,1 +1,1 @@
-var mnemonic = "mistake wait ozone swallow alley battle original repair humor nephew vocal nice";
+var mnemonic = "inmate tray rather garbage squeeze action essence mind artist century chuckle follow";

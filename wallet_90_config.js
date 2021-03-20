@@ -1,1 +1,1 @@
-var mnemonic = "bag there reason lesson effort year cable defy pipe random kiwi trash";
+var mnemonic = "wish device curious crater capital message index unfair flush shield legend inch";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid economy push can usual attitude just few skill spring screen require";
+var mnemonic = "habit brand candy obvious flight pitch fortune produce stereo warrior result ozone";

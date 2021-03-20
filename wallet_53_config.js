@@ -1,1 +1,1 @@
-var mnemonic = "mosquito butter multiply whip laugh live wild change assist patch actual shallow";
+var mnemonic = "vintage season wood unique twist gate win small stage caught this silly";

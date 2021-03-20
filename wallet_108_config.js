@@ -1,1 +1,1 @@
-var mnemonic = "fly jar another obtain black cave argue private paper divide spice clinic";
+var mnemonic = "when diet fresh chuckle raise spirit quarter swamp junior adapt dry door";

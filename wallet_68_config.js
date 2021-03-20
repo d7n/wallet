@@ -1,1 +1,1 @@
-var mnemonic = "endorse siren chimney tone blur athlete what love timber involve matrix boy";
+var mnemonic = "right weapon joke spoil wool asset siren rate lava myself flight van";

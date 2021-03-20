@@ -1,1 +1,1 @@
-var mnemonic = "second nation rival flavor arm ankle family pair shy dutch picture twelve";
+var mnemonic = "capital pistol chat chase bargain staff soda fat page session wood sugar";

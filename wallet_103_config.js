@@ -1,1 +1,1 @@
-var mnemonic = "grunt equal ivory round salmon normal huge level update monkey pill burden";
+var mnemonic = "quit scare arrest debris occur mesh museum cupboard used north output innocent";

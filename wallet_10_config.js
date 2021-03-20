@@ -1,1 +1,1 @@
-var mnemonic = "analyst lift minimum electric engine output similar review inquiry slab endorse solve";
+var mnemonic = "suggest couch gossip road whisper odor release egg tilt rely amused canyon";

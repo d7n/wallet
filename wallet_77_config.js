@@ -1,1 +1,1 @@
-var mnemonic = "gloom misery essence bubble athlete note possible easily invest boil pride risk";
+var mnemonic = "acid pull ship endorse riot name garbage aisle asthma split love wheat";

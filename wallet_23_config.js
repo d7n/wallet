@@ -1,1 +1,1 @@
-var mnemonic = "acoustic stone economy amateur vote drastic school diagram alter bitter fruit middle";
+var mnemonic = "pledge sport outer near track song capable wool claim fence movie scout";

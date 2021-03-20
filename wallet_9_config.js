@@ -1,1 +1,1 @@
-var mnemonic = "ghost acid menu love oxygen culture motor aisle mad reduce flag shadow";
+var mnemonic = "cover gossip code fade endorse soap ordinary sustain bunker define short debris";

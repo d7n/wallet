@@ -1,1 +1,1 @@
-var mnemonic = "harbor maximum merry loan stomach spell traffic subway combine pig butter brick";
+var mnemonic = "goddess crash junk doctor soft toward sketch language toss girl skin minute";

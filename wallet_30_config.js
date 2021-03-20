@@ -1,1 +1,1 @@
-var mnemonic = "imitate eternal mercy oblige undo portion polar zebra energy dragon radar melody";
+var mnemonic = "paper cook save acoustic hard cabbage elephant decorate network rely will heavy";

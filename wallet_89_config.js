@@ -1,1 +1,1 @@
-var mnemonic = "cushion argue news mother castle butter rice object tired suit home twist";
+var mnemonic = "unique crush exclude solar problem dial south together cliff indoor game tag";

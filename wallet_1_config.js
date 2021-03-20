@@ -1,1 +1,1 @@
-var mnemonic = "shoe envelope borrow alter runway board grief nephew bless page tone exercise";
+var mnemonic = "load local glue voice source gloom tree roast awful decade sing huge";

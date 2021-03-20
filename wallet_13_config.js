@@ -1,1 +1,1 @@
-var mnemonic = "diagram cook aim cancel sound castle velvet predict indoor inherit decorate text";
+var mnemonic = "alpha wet asthma prefer slender mechanic advice inform abstract swim wage rack";

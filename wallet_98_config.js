@@ -1,1 +1,1 @@
-var mnemonic = "rich syrup ripple crumble spread imitate produce please debate horror into hurry";
+var mnemonic = "victory owner outside seven ship found dutch any fault erase mesh sugar";

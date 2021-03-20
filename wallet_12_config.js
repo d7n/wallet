@@ -1,1 +1,1 @@
-var mnemonic = "doll document impose gown still smooth protect cube destroy cave check crazy";
+var mnemonic = "bean same dad flock urban arctic pride taxi cake focus way enemy";

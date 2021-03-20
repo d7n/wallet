@@ -1,1 +1,1 @@
-var mnemonic = "hidden seminar moment exit shrimp sausage fix saddle magnet hockey connect thumb";
+var mnemonic = "relief arrive reopen letter distance always screen loud insane example book strike";

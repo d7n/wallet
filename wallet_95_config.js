@@ -1,1 +1,1 @@
-var mnemonic = "cable bargain favorite myself three zero series snow salad whisper example lottery";
+var mnemonic = "syrup artwork place bring summer much rhythm clap cute age almost income";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle turkey shaft cage near sadness immense illegal beauty exact glory shift";
+var mnemonic = "enroll awkward away need ordinary nasty opinion turtle mountain zone faint office";

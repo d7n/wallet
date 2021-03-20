@@ -1,1 +1,1 @@
-var mnemonic = "canoe romance six renew lens vote mail practice emerge royal comic cigar";
+var mnemonic = "budget wing jungle morning vocal nephew repair zone siren kiss play slot";

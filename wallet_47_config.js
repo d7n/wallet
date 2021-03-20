@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog snap bamboo sail giant joke nice trigger calm marriage secret staff";
+var mnemonic = "opinion mutual believe mixture anxiety timber used remove mammal someone aware enter";

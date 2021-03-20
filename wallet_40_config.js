@@ -1,1 +1,1 @@
-var mnemonic = "accuse wreck original later service achieve hello slight this treat swamp wage";
+var mnemonic = "law gauge brief outdoor humor select crop fiber miss unaware approve buyer";

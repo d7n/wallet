@@ -1,1 +1,1 @@
-var mnemonic = "maple afford dolphin divert tuna economy capital curve chef subject utility fee";
+var mnemonic = "tackle situate mobile arctic appear syrup engine swamp member country glide unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit reform distance afraid uncover exercise fault banner curtain forget property fuel";
+var mnemonic = "program shy flame tip uniform defense grocery chalk misery lens brief ready";

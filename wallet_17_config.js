@@ -1,1 +1,1 @@
-var mnemonic = "derive scan forum fetch phone jungle oak lawsuit road pass uncle order";
+var mnemonic = "kick behind pool frequent tank piece suspect wrestle laptop twin holiday hold";

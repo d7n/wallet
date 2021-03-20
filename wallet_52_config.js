@@ -1,1 +1,1 @@
-var mnemonic = "equip duck denial strong owner antenna crater heart discover genuine debris beach";
+var mnemonic = "satisfy collect rely burger coral simple aerobic used hospital nominee payment scene";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy upgrade happy hub release inch gesture smoke try sell mimic blood";
+var mnemonic = "melody amateur obtain supply page catch sea exist cabin habit start also";

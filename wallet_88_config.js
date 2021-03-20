@@ -1,1 +1,1 @@
-var mnemonic = "trash girl organ vacuum village swarm this piano office allow ready anxiety";
+var mnemonic = "confirm message seek tube equal west lyrics act primary topic bachelor again";

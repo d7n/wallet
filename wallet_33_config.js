@@ -1,1 +1,1 @@
-var mnemonic = "umbrella oak parent brush kitchen fork install fall ensure lunar balcony desk";
+var mnemonic = "ring resist donor burden stage wing scare table viable property logic soup";

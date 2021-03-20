@@ -1,1 +1,1 @@
-var mnemonic = "vivid antique among shoulder car advice limb coyote poem credit husband aware";
+var mnemonic = "glide police caution govern adjust impulse use slice profit taxi risk very";

@@ -1,1 +1,1 @@
-var mnemonic = "alter spell juice industry envelope melody depth brick little swing luxury pool";
+var mnemonic = "uncle burden obey album biology saddle fetch debris dog autumn add bike";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth analyst cruise joy sausage despair ability around clock pupil armor bright";
+var mnemonic = "boost candy regret same since turtle clever bike icon gentle act shove";

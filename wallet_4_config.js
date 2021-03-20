@@ -1,1 +1,1 @@
-var mnemonic = "electric cancel misery angle combine busy normal benefit acquire one farm flock";
+var mnemonic = "sting correct hurt risk victory level very cake jeans rib spell cause";

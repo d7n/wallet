@@ -1,1 +1,1 @@
-var mnemonic = "lock devote tunnel dwarf protect lazy clock idle final expand fossil panel";
+var mnemonic = "ugly spell seat agent ensure blanket rebel skate earn faint achieve spring";

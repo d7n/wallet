@@ -1,1 +1,1 @@
-var mnemonic = "option wrestle old acquire ripple auction tired license speak echo smile dolphin";
+var mnemonic = "have electric timber expose barrel pilot shoe gate fuel sleep toilet movie";

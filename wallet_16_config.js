@@ -1,1 +1,1 @@
-var mnemonic = "urge light silent mango immense notable reflect emerge jewel limb mercy luggage";
+var mnemonic = "apology quiz basic fat wedding helmet grit lend sell math write summer";

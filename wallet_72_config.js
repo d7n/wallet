@@ -1,1 +1,1 @@
-var mnemonic = "want news art file settle farm warrior calm solve milk harvest marine";
+var mnemonic = "stove actress produce side flip east crumble clay phrase deer minute detect";
