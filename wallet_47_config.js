@@ -1,1 +1,1 @@
-var mnemonic = "opinion mutual believe mixture anxiety timber used remove mammal someone aware enter";
+var mnemonic = "elephant abuse judge genius apart stool crater estate foster wedding legend mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly spell seat agent ensure blanket rebel skate earn faint achieve spring";
+var mnemonic = "pulp cram oblige owner boil raw concert globe mesh amused march work";

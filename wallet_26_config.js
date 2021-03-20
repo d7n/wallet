@@ -1,1 +1,1 @@
-var mnemonic = "awkward purpose tilt popular sun common way rebuild wear sell base assume";
+var mnemonic = "swap camera dizzy mind grunt mail demise author reveal when nature true";

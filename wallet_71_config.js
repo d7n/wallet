@@ -1,1 +1,1 @@
-var mnemonic = "wish can mango move outside angle moral limb rival blood already castle";
+var mnemonic = "grant umbrella cereal replace belt motion angle length timber space before base";

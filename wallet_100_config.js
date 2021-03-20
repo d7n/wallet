@@ -1,1 +1,1 @@
-var mnemonic = "entire mad supreme lucky pear federal height average acquire marble kitten shed";
+var mnemonic = "belt traffic raccoon fee eager glide digital bright bench plastic access people";

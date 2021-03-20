@@ -1,1 +1,1 @@
-var mnemonic = "suit aunt property veteran trigger dynamic harbor renew corn cherry anxiety area";
+var mnemonic = "box ocean survey ceiling anxiety phone alarm media narrow relief flush spoon";

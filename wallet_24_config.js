@@ -1,1 +1,1 @@
-var mnemonic = "news omit question deer diesel drive memory frost myth robot any vocal";
+var mnemonic = "bitter grunt family dentist ripple mean token plug zero velvet alpha match";

@@ -1,1 +1,1 @@
-var mnemonic = "egg myth cement dream job lobster spice benefit talent rather census poverty";
+var mnemonic = "pledge tilt fossil silly ability image catch rural bus lift thrive stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle knock crew cave glide turtle success smile scene style idle nose";
+var mnemonic = "manual paper glory guide away motor hawk venture have dry pond truly";

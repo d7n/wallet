@@ -1,1 +1,1 @@
-var mnemonic = "cause region ice need injury pear joke fatal village potato check liberty";
+var mnemonic = "wheat horse rotate produce cluster aspect sting pluck spend negative market machine";

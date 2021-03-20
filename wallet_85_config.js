@@ -1,1 +1,1 @@
-var mnemonic = "large loyal survey torch october repeat gravity drift believe artist intact jump";
+var mnemonic = "cram fabric bubble seminar disagree beauty absurd stairs crazy female shine unable";

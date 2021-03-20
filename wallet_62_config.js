@@ -1,1 +1,1 @@
-var mnemonic = "tackle situate mobile arctic appear syrup engine swamp member country glide unaware";
+var mnemonic = "position clutch mule olive lake pyramid about endorse save goat atom congress";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit pyramid valid duty upset opera blue before much glad lawn tilt";
+var mnemonic = "gadget spoil swamp enlist situate equal remove satoshi garlic become verify era";

@@ -1,1 +1,1 @@
-var mnemonic = "glide police caution govern adjust impulse use slice profit taxi risk very";
+var mnemonic = "brick grab tornado consider cloud veteran melt public robot move element chase";

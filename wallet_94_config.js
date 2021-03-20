@@ -1,1 +1,1 @@
-var mnemonic = "mushroom aspect admit company east square great female erosion barely ivory eyebrow";
+var mnemonic = "engage wish happy figure language blush slogan mutual hold spice major jazz";

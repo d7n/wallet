@@ -1,1 +1,1 @@
-var mnemonic = "kick behind pool frequent tank piece suspect wrestle laptop twin holiday hold";
+var mnemonic = "regular flat milk region remain anger security gun thought devote fashion soap";

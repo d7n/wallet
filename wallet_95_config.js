@@ -1,1 +1,1 @@
-var mnemonic = "syrup artwork place bring summer much rhythm clap cute age almost income";
+var mnemonic = "laptop crop tower ring stumble smooth sibling aerobic concert again huge tribe";

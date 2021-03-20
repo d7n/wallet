@@ -1,1 +1,1 @@
-var mnemonic = "quit scare arrest debris occur mesh museum cupboard used north output innocent";
+var mnemonic = "gasp off range relax hawk more draft survey aerobic relief mutual drink";

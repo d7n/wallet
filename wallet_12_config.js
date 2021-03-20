@@ -1,1 +1,1 @@
-var mnemonic = "bean same dad flock urban arctic pride taxi cake focus way enemy";
+var mnemonic = "ask affair valve security suggest arctic prosper roof reason keep myth heart";

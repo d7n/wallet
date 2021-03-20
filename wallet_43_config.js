@@ -1,1 +1,1 @@
-var mnemonic = "enroll awkward away need ordinary nasty opinion turtle mountain zone faint office";
+var mnemonic = "blind speak transfer spider brick hill fiber company ordinary dignity shiver brave";

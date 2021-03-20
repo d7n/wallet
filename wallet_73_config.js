@@ -1,1 +1,1 @@
-var mnemonic = "document valley flight interest plate chaos remember nurse unfold explain ability cross";
+var mnemonic = "nothing purchase adult someone height execute engine certain tilt early agree lecture";

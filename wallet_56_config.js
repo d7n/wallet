@@ -1,1 +1,1 @@
-var mnemonic = "aisle inmate shove play property pact grain fetch mango slam wheat little";
+var mnemonic = "write sugar prosper total nurse detect elbow bounce aim appear ostrich bulb";

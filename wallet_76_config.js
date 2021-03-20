@@ -1,1 +1,1 @@
-var mnemonic = "impose print wagon glide gauge recycle cream open dinosaur vanish shaft bonus";
+var mnemonic = "convince legend deer silk good guitar silk ill decade supreme drama mom";

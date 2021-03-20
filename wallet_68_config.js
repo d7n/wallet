@@ -1,1 +1,1 @@
-var mnemonic = "right weapon joke spoil wool asset siren rate lava myself flight van";
+var mnemonic = "hazard cry fish piano shove practice virtual core age buffalo hockey neck";

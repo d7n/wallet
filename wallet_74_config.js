@@ -1,1 +1,1 @@
-var mnemonic = "culture hawk fog affair useful believe genre elephant walk device flower cram";
+var mnemonic = "desk filter crime spend drum sentence scheme ticket ten parrot marine net";

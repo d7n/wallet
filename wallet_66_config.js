@@ -1,1 +1,1 @@
-var mnemonic = "fuel split escape chronic supply volume piano match reflect often rail ridge";
+var mnemonic = "dance remove session stamp promote twin van rival cereal inmate antique all";

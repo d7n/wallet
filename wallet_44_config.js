@@ -1,1 +1,1 @@
-var mnemonic = "have electric timber expose barrel pilot shoe gate fuel sleep toilet movie";
+var mnemonic = "there smoke impose wild snake heavy dizzy camp engage satisfy youth metal";

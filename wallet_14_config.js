@@ -1,1 +1,1 @@
-var mnemonic = "relief arrive reopen letter distance always screen loud insane example book strike";
+var mnemonic = "castle mouse income enforce girl reduce ready elite saddle love shaft suffer";

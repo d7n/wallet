@@ -1,1 +1,1 @@
-var mnemonic = "jungle panic tiger rather feature beyond zone silver farm section bicycle kitten";
+var mnemonic = "solid exclude public divert course marriage play dismiss material elder property model";

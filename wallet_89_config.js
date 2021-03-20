@@ -1,1 +1,1 @@
-var mnemonic = "unique crush exclude solar problem dial south together cliff indoor game tag";
+var mnemonic = "wide cherry already raw jealous curve seek law music rescue valley open";

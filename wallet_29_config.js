@@ -1,1 +1,1 @@
-var mnemonic = "program shy flame tip uniform defense grocery chalk misery lens brief ready";
+var mnemonic = "minimum tattoo surge inflict waste resist street young mistake vintage maze reopen";

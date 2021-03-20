@@ -1,1 +1,1 @@
-var mnemonic = "click brisk change peanut venue exclude similar green club tornado enemy ordinary";
+var mnemonic = "lesson visual beyond supply smart assume material name museum please antique call";

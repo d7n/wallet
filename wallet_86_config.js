@@ -1,1 +1,1 @@
-var mnemonic = "loan risk climb sniff special forget fitness lend disease program media learn";
+var mnemonic = "skull tuition language mandate summer employ veteran vague tower intact sunset crawl";

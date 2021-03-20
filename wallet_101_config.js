@@ -1,1 +1,1 @@
-var mnemonic = "melt icon flush salmon cotton floor grant fortune river flee dinosaur shrug";
+var mnemonic = "divide code alley comic bronze mass unfair health lunar spider width romance";

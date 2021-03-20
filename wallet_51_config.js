@@ -1,1 +1,1 @@
-var mnemonic = "tennis exhibit duty head object galaxy wage enroll room axis deliver grain";
+var mnemonic = "sniff build sea leg army orbit lake spin riot dice treat hold";

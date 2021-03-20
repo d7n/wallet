@@ -1,1 +1,1 @@
-var mnemonic = "confirm message seek tube equal west lyrics act primary topic bachelor again";
+var mnemonic = "term loud snake aware enemy edit twenty meat circle another this fiber";

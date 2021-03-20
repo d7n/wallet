@@ -1,1 +1,1 @@
-var mnemonic = "pistol viable birth oyster celery isolate lion decorate veteran inmate hidden maple";
+var mnemonic = "analyst trouble turtle timber hood motor trip camp learn chat confirm organ";

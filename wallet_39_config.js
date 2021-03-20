@@ -1,1 +1,1 @@
-var mnemonic = "family hint asthma trim domain vehicle wool few flip weird worth donate";
+var mnemonic = "eye betray ticket book sugar skirt bean forward minute vessel mesh toss";

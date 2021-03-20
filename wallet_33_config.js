@@ -1,1 +1,1 @@
-var mnemonic = "ring resist donor burden stage wing scare table viable property logic soup";
+var mnemonic = "staff kangaroo market vast simple bless myself mutual stove bargain forest pink";

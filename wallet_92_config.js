@@ -1,1 +1,1 @@
-var mnemonic = "melody amateur obtain supply page catch sea exist cabin habit start also";
+var mnemonic = "gift smile oblige utility churn step observe gospel damp used panel turn";

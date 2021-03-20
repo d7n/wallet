@@ -1,1 +1,1 @@
-var mnemonic = "trip inflict slogan snap swear turkey simple iron source magnet finish chunk";
+var mnemonic = "clutch cricket resist today reason spatial horror inform cheese artefact crash priority";

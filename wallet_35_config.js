@@ -1,1 +1,1 @@
-var mnemonic = "topic issue glance harvest spin erosion traffic demand margin potato crew alcohol";
+var mnemonic = "release before yard rescue pigeon hammer lake future labor dance assist forget";

@@ -1,1 +1,1 @@
-var mnemonic = "glance exist inject curve crazy estate clog live lobster stuff galaxy tattoo";
+var mnemonic = "adjust solar since prosper cable whip west sell version jar coil garlic";

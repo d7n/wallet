@@ -1,1 +1,1 @@
-var mnemonic = "cover gossip code fade endorse soap ordinary sustain bunker define short debris";
+var mnemonic = "ketchup orange gesture across either smoke stick citizen citizen soon train endorse";

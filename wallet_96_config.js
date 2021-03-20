@@ -1,1 +1,1 @@
-var mnemonic = "lunch barrel typical degree return trouble east beach middle bag pig course";
+var mnemonic = "across mosquito radar include syrup icon year advance above gain mouse rule";

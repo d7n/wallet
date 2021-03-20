@@ -1,1 +1,1 @@
-var mnemonic = "point captain cannon north attend slow strategy check what say source observe";
+var mnemonic = "twice menu click symptom kid this erosion deny bind physical buyer smoke";

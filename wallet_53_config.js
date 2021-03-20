@@ -1,1 +1,1 @@
-var mnemonic = "vintage season wood unique twist gate win small stage caught this silly";
+var mnemonic = "dolphin modify brave damp suit program scatter panda enrich suspect include acid";

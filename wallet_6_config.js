@@ -1,1 +1,1 @@
-var mnemonic = "cousin able action various clown feature work together win virus anchor height";
+var mnemonic = "place damage hunt grief check picnic replace mixed manage above witness intact";

@@ -1,1 +1,1 @@
-var mnemonic = "rely infant wash enlist total law ride transfer social include vanish amateur";
+var mnemonic = "tide range wheel prize modify effort page flavor attack tube disorder cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "movie million garbage pledge song wedding trophy seven dust atom heart excite";
+var mnemonic = "horror cinnamon uniform accuse aisle concert talent flock gallery skirt color lottery";

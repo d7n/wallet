@@ -1,1 +1,1 @@
-var mnemonic = "pledge sport outer near track song capable wool claim fence movie scout";
+var mnemonic = "easily reward envelope couple surround control pond impulse segment culture trial aim";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse want robust kiss where deliver catch know essence puppy upgrade source";
+var mnemonic = "volcano rule unit trigger mimic wide tiny vicious above dream carry derive";

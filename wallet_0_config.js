@@ -1,1 +1,1 @@
-var mnemonic = "left manage easily rival once pass chunk special random base worth all";
+var mnemonic = "income brave carpet cup actress prosper six wrong worry sister media ride";

@@ -1,1 +1,1 @@
-var mnemonic = "sting correct hurt risk victory level very cake jeans rib spell cause";
+var mnemonic = "jar wolf bonus lobster lumber fault sugar you sense hawk potato admit";

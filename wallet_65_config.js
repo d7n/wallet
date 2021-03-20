@@ -1,1 +1,1 @@
-var mnemonic = "cloth airport estate rally common audit winter august firm photo dawn adjust";
+var mnemonic = "quiz subway guitar letter opinion fire squirrel noodle side monitor brand angle";

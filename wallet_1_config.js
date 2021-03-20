@@ -1,1 +1,1 @@
-var mnemonic = "load local glue voice source gloom tree roast awful decade sing huge";
+var mnemonic = "cost barrel all come bottom olympic honey pact catch hurdle month search";

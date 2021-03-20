@@ -1,1 +1,1 @@
-var mnemonic = "know auto write garage guide ribbon armor inquiry height pride broom guess";
+var mnemonic = "lady bargain endorse virtual dash harsh certain casino unfold float device bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "govern stamp tonight umbrella hour hundred ring unfair derive reduce volume cement";
+var mnemonic = "culture link junior december wrong express abstract cart urban seminar cross second";

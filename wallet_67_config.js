@@ -1,1 +1,1 @@
-var mnemonic = "media top lawn promote bunker vehicle rifle size skin accuse hobby maple";
+var mnemonic = "squirrel harvest salt lecture strike mask during lemon grid blush congress mix";

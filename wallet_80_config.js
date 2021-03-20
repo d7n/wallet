@@ -1,1 +1,1 @@
-var mnemonic = "equal omit banana square guitar rice custom love chest question egg accident";
+var mnemonic = "build hybrid jaguar empower hazard milk fog say birth salt fashion raw";

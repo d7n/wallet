@@ -1,1 +1,1 @@
-var mnemonic = "habit brand candy obvious flight pitch fortune produce stereo warrior result ozone";
+var mnemonic = "good cactus vivid banner accuse basket ranch curve evoke ensure divide monster";

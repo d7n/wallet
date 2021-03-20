@@ -1,1 +1,1 @@
-var mnemonic = "mosquito kangaroo problem defy copy siege dust hire grab aisle chest general";
+var mnemonic = "scissors lonely wave expand pond expect question door black between jeans digital";

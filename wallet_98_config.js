@@ -1,1 +1,1 @@
-var mnemonic = "victory owner outside seven ship found dutch any fault erase mesh sugar";
+var mnemonic = "release lesson practice allow dust oval debate hamster shoot home unhappy fetch";

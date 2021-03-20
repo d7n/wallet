@@ -1,1 +1,1 @@
-var mnemonic = "myth love lion source option royal crystal also time hole parent extra";
+var mnemonic = "movie cause knee sunny monkey basic crouch awful cloud mix protect soap";

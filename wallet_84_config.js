@@ -1,1 +1,1 @@
-var mnemonic = "garment silly suspect correct credit melt cupboard patch car pepper puzzle logic";
+var mnemonic = "stairs review nurse limb three tooth report effort staff brief animal vacuum";

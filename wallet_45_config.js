@@ -1,1 +1,1 @@
-var mnemonic = "hip rain follow mean family acquire news expand smooth blanket cotton gain";
+var mnemonic = "control disorder radar gather pudding chronic increase obey muffin net awake other";

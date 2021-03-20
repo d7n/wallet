@@ -1,1 +1,1 @@
-var mnemonic = "blood giraffe kingdom gold tenant age strategy genuine correct prize together square";
+var mnemonic = "choose fold clever hold chef super horror pretty exact solution draft man";

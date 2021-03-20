@@ -1,1 +1,1 @@
-var mnemonic = "silent identify claw corn goat stamp raise idle hurry hero inside peanut";
+var mnemonic = "tube tiger huge transfer reward fade pave inner bubble stuff wide harbor";

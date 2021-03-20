@@ -1,1 +1,1 @@
-var mnemonic = "suggest couch gossip road whisper odor release egg tilt rely amused canyon";
+var mnemonic = "student sheriff solve wood dog mosquito refuse adapt phrase find famous since";

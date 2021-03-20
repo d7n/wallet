@@ -1,1 +1,1 @@
-var mnemonic = "uncle burden obey album biology saddle fetch debris dog autumn add bike";
+var mnemonic = "loyal shadow enact cannon radio able document scout afford horse day wife";

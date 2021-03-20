@@ -1,1 +1,1 @@
-var mnemonic = "zero kingdom knock mixture metal hole increase biology fruit fever tower online";
+var mnemonic = "whisper sponsor sort opinion client amount afford poet shove dose twice detail";

@@ -1,1 +1,1 @@
-var mnemonic = "stove actress produce side flip east crumble clay phrase deer minute detect";
+var mnemonic = "raw tennis great exit need involve faint radar income april adapt hollow";

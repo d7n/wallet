@@ -1,1 +1,1 @@
-var mnemonic = "law gauge brief outdoor humor select crop fiber miss unaware approve buyer";
+var mnemonic = "town mixture reveal gallery chase panic pill around talent salt pizza elegant";

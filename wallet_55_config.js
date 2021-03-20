@@ -1,1 +1,1 @@
-var mnemonic = "genius lyrics appear praise flight control minor tuna crack guitar market spin";
+var mnemonic = "casual woman ridge flash ten penalty message stand wasp shaft pond best";

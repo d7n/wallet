@@ -1,1 +1,1 @@
-var mnemonic = "figure impact bench educate ensure another because maze mechanic lyrics pilot invest";
+var mnemonic = "dwarf gossip surround ridge aunt interest upgrade race setup shiver boat payment";

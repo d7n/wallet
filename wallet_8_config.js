@@ -1,1 +1,1 @@
-var mnemonic = "visa dynamic plastic journey fever bird track sick certain faith direct divorce";
+var mnemonic = "length brush buffalo champion tribe teach chief blanket race clap brass ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "melt crash spoon swap run office recall layer cradle traffic group panther";
+var mnemonic = "combine deliver huge open error identify mystery frost tone undo all draft";

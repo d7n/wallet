@@ -1,1 +1,1 @@
-var mnemonic = "dog decrease kingdom remove despair edit shiver resemble popular lawsuit mimic okay";
+var mnemonic = "soccer world opera auction forum detail alter coin strike price casino raven";

@@ -1,1 +1,1 @@
-var mnemonic = "wish device curious crater capital message index unfair flush shield legend inch";
+var mnemonic = "fantasy sea armor project blind inform cereal accuse puzzle kick high ginger";

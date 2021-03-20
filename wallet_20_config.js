@@ -1,1 +1,1 @@
-var mnemonic = "scrub repair famous reform air skate drama vapor dust purpose state cancel";
+var mnemonic = "remember cake rich narrow furnace source either electric merry spider spray find";

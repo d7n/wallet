@@ -1,1 +1,1 @@
-var mnemonic = "inmate tray rather garbage squeeze action essence mind artist century chuckle follow";
+var mnemonic = "step crater hurdle side apple core olympic nation narrow hurry describe photo";

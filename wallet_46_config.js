@@ -1,1 +1,1 @@
-var mnemonic = "announce oven squirrel effort congress praise increase accident thing wear will credit";
+var mnemonic = "august aunt three rough journey brief accuse hazard vast dose opera flat";

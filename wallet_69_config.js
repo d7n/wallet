@@ -1,1 +1,1 @@
-var mnemonic = "dry evoke loan grab better maximum scissors enter maze fitness truck pepper";
+var mnemonic = "ring girl what sketch slide sniff crack shock already exist jacket ginger";
