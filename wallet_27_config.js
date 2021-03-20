@@ -1,1 +1,1 @@
-var mnemonic = "wealth history cruise mistake bitter salad there evolve gun laptop ginger latin";
+var mnemonic = "heavy salt opinion jungle tomorrow hair cloth sauce inflict pattern burger ozone";

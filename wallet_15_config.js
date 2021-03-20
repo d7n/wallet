@@ -1,1 +1,1 @@
-var mnemonic = "embrace valve motion valve assist fitness like cinnamon fluid grid snake tortoise";
+var mnemonic = "memory shield rabbit pole example pool gravity desk wrestle basic castle near";

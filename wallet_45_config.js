@@ -1,1 +1,1 @@
-var mnemonic = "squirrel gasp team gate resist fiction bread share razor magnet soap stable";
+var mnemonic = "quit extend sample auction aim dinner meadow laptop anxiety argue approve payment";

@@ -1,1 +1,1 @@
-var mnemonic = "develop apology naive fog dry pioneer faint save ostrich twice lawn fat";
+var mnemonic = "gate damp illness electric debate lawn october quarter south flame dinosaur process";

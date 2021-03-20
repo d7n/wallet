@@ -1,1 +1,1 @@
-var mnemonic = "family ugly truck seed pill romance wish fat side menu green select";
+var mnemonic = "wealth analyst cruise joy sausage despair ability around clock pupil armor bright";

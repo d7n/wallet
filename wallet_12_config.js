@@ -1,1 +1,1 @@
-var mnemonic = "badge current lyrics region slam twin enlist pyramid raw ask direct boring";
+var mnemonic = "doll document impose gown still smooth protect cube destroy cave check crazy";

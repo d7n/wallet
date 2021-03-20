@@ -1,1 +1,1 @@
-var mnemonic = "laptop misery castle huge jazz woman select motor claw high eager radar";
+var mnemonic = "equip duck denial strong owner antenna crater heart discover genuine debris beach";

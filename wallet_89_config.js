@@ -1,1 +1,1 @@
-var mnemonic = "wet economy web fun palace noise vote save strategy address post alley";
+var mnemonic = "cushion argue news mother castle butter rice object tired suit home twist";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter ancient soap runway industry faculty slide rude skill tuition great injury";
+var mnemonic = "credit together crew exist envelope sample program brother boat unit shove village";

@@ -1,1 +1,1 @@
-var mnemonic = "belt depend skirt used ability inspire fiscal betray blood mercy price credit";
+var mnemonic = "region pink saddle maximum choice dawn pony dial moral economy law trigger";

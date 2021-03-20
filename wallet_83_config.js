@@ -1,1 +1,1 @@
-var mnemonic = "ask muscle neither glory bargain obey frequent camera vivid faith vibrant imitate";
+var mnemonic = "canoe romance six renew lens vote mail practice emerge royal comic cigar";

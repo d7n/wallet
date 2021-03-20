@@ -1,1 +1,1 @@
-var mnemonic = "sketch valley assist coconut session strong blouse jazz coin bus movie donkey";
+var mnemonic = "rare drink atom hurt jeans biology ahead mandate news lemon cigar clutch";

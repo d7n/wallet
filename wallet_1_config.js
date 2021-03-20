@@ -1,1 +1,1 @@
-var mnemonic = "actress trick milk door demise canvas timber fold absent twice love nut";
+var mnemonic = "shoe envelope borrow alter runway board grief nephew bless page tone exercise";

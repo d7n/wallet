@@ -1,1 +1,1 @@
-var mnemonic = "rate race clump tattoo artefact hurry cross sun alarm will unfold pause";
+var mnemonic = "demand receive vote combine horn nothing wave asthma awful rifle weasel imitate";

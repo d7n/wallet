@@ -1,1 +1,1 @@
-var mnemonic = "whale exact dolphin firm bike fence original quality pond helmet document admit";
+var mnemonic = "vibrant melt movie drama erase step verb easily box opinion mountain elder";

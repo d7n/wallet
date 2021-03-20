@@ -1,1 +1,1 @@
-var mnemonic = "argue road pupil segment win target announce situate moment only already oppose";
+var mnemonic = "grunt equal ivory round salmon normal huge level update monkey pill burden";

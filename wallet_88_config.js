@@ -1,1 +1,1 @@
-var mnemonic = "panic arm brown trumpet wild nose olive scan hero library cloud jacket";
+var mnemonic = "trash girl organ vacuum village swarm this piano office allow ready anxiety";

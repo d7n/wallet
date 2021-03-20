@@ -1,1 +1,1 @@
-var mnemonic = "enter anger shuffle faint game pencil melody vivid rebuild six pass broccoli";
+var mnemonic = "drama unknown pattern oxygen chair cancel indicate magnet barely bamboo culture trash";

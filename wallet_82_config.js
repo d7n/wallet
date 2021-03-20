@@ -1,1 +1,1 @@
-var mnemonic = "style fire double interest age curve ship nuclear world annual fabric raven";
+var mnemonic = "purchase collect bracket hello owner ahead innocent match act sword acoustic citizen";

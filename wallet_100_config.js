@@ -1,1 +1,1 @@
-var mnemonic = "again nation steak sister orbit general zone glad modify sound sun dignity";
+var mnemonic = "fan glass author idle they gossip project wrap embark pioneer pink host";

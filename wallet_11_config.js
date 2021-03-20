@@ -1,1 +1,1 @@
-var mnemonic = "pluck window you license shadow rule purity wealth dutch fetch woman rich";
+var mnemonic = "second nation rival flavor arm ankle family pair shy dutch picture twelve";

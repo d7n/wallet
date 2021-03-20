@@ -1,1 +1,1 @@
-var mnemonic = "usage noodle situate brick limit social solve type process mushroom all sauce";
+var mnemonic = "rookie equip pigeon begin buffalo army flight draft chef mean volume elephant";

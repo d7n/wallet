@@ -1,1 +1,1 @@
-var mnemonic = "head media behave income response feed tag observe among any visit chicken";
+var mnemonic = "diagram cook aim cancel sound castle velvet predict indoor inherit decorate text";

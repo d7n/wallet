@@ -1,1 +1,1 @@
-var mnemonic = "cover adult purpose average goat cable clown echo cradle then enjoy hire";
+var mnemonic = "acoustic stone economy amateur vote drastic school diagram alter bitter fruit middle";

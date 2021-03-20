@@ -1,1 +1,1 @@
-var mnemonic = "quality crash surprise blood sheriff slow piece print undo plastic surface you";
+var mnemonic = "field tool jar tongue exchange voyage client bid fall strategy clock thunder";

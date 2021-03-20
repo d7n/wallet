@@ -1,1 +1,1 @@
-var mnemonic = "either bunker rely bounce fantasy special license system execute answer success apart";
+var mnemonic = "range angle west carry often total gospel muscle orient relax spike neglect";

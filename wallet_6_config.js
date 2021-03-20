@@ -1,1 +1,1 @@
-var mnemonic = "ball inform tortoise trim volume place tag dolphin chunk couch popular hair";
+var mnemonic = "vintage local trim worth add pony ensure seek genre crime globe random";

@@ -1,1 +1,1 @@
-var mnemonic = "unit level infant veteran bachelor rocket fatal code tobacco unable egg expect";
+var mnemonic = "fruit reform distance afraid uncover exercise fault banner curtain forget property fuel";

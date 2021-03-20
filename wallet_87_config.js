@@ -1,1 +1,1 @@
-var mnemonic = "cube banana fix weird wall accident fly canal basic network garbage buzz";
+var mnemonic = "scrap amount dry base pass wheat theory bracket wasp boring dream orphan";

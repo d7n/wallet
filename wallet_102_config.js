@@ -1,1 +1,1 @@
-var mnemonic = "thought pyramid journey bring globe joy wet leaf come unfair gloom develop";
+var mnemonic = "salute scare worry display involve uncle pear vague slam age swallow rare";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt tiny purse ten combine frozen puppy sample face extra embark swing";
+var mnemonic = "alter spell juice industry envelope melody depth brick little swing luxury pool";

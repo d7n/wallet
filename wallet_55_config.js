@@ -1,1 +1,1 @@
-var mnemonic = "veteran any fall episode autumn heart roof train paper mean also sun";
+var mnemonic = "attend slow welcome mammal palace weather public guilt stereo mercy female draw";

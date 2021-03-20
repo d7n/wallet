@@ -1,1 +1,1 @@
-var mnemonic = "robot ketchup album mirror goddess derive okay person mystery midnight unit kick";
+var mnemonic = "twice harvest snake random merry grass hair arctic unveil sort tiger viable";

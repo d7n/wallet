@@ -1,1 +1,1 @@
-var mnemonic = "token belt blood bacon rice front buyer ride copper toss hip acid";
+var mnemonic = "vivid antique among shoulder car advice limb coyote poem credit husband aware";

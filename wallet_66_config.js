@@ -1,1 +1,1 @@
-var mnemonic = "magnet maze polar metal oven grunt gravity method comfort kidney weird garbage";
+var mnemonic = "cloud journey umbrella tribe wool chunk tired cabin one purpose abuse switch";

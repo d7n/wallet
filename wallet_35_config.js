@@ -1,1 +1,1 @@
-var mnemonic = "anxiety royal ridge talk describe cup bone ethics ethics motion shield quick";
+var mnemonic = "lunar teach prize claw snap train nuclear pumpkin angle crunch gift choice";

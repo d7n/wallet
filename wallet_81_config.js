@@ -1,1 +1,1 @@
-var mnemonic = "face eagle report tail token traffic twice save memory talent regular island";
+var mnemonic = "denial hunt govern salon ski daughter surface grab shove one person draw";

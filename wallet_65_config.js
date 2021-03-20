@@ -1,1 +1,1 @@
-var mnemonic = "inhale coyote lazy glue void horror carpet globe snack weapon divert thought";
+var mnemonic = "chuckle vintage electric dust letter wrestle gown anchor truck duck throw banana";

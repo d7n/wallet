@@ -1,1 +1,1 @@
-var mnemonic = "music miss lounge artwork snake frame organ fetch regret antique mosquito mouse";
+var mnemonic = "uncle affair emotion scout pass torch shy tree diamond large stone text";

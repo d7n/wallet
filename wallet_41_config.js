@@ -1,1 +1,1 @@
-var mnemonic = "chicken enjoy course wrist toilet ankle wild exercise awful mention second level";
+var mnemonic = "frown hazard occur wedding obscure clerk cash worry rookie entry vehicle tool";

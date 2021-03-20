@@ -1,1 +1,1 @@
-var mnemonic = "joy battle observe inflict regret busy ethics jump record shrug forest sniff";
+var mnemonic = "icon mask finish tag eagle rocket magnet ecology purse system inform final";

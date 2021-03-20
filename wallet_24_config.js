@@ -1,1 +1,1 @@
-var mnemonic = "course strike silent square humble plunge baby blush copy fun swear major";
+var mnemonic = "bag truck embark twelve garbage drink cube same maid badge exotic episode";

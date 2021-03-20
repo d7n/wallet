@@ -1,1 +1,1 @@
-var mnemonic = "crop bachelor address girl naive nurse airport pelican bean fall dream clip";
+var mnemonic = "mouse young slab auction miracle yellow egg transfer current art deliver dilemma";

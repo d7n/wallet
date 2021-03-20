@@ -1,1 +1,1 @@
-var mnemonic = "exist spread exact antique later rotate call payment burden clock chest runway";
+var mnemonic = "fine bike banana pistol act crucial mail easy bargain bone chapter summer";

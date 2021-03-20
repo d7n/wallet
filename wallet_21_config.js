@@ -1,1 +1,1 @@
-var mnemonic = "lunar bright hire present lottery close phrase force enough swing better result";
+var mnemonic = "twin ugly decrease toy mango width erode use insane pretty party federal";

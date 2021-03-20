@@ -1,1 +1,1 @@
-var mnemonic = "plunge again senior calm armor smoke advance torch riot spoil feed electric";
+var mnemonic = "want news art file settle farm warrior calm solve milk harvest marine";

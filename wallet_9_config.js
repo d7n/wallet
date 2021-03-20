@@ -1,1 +1,1 @@
-var mnemonic = "surface climb dolphin army steel adult organ payment hip include verify wolf";
+var mnemonic = "ghost acid menu love oxygen culture motor aisle mad reduce flag shadow";

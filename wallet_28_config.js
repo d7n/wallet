@@ -1,1 +1,1 @@
-var mnemonic = "penalty gentle seminar erode electric access ensure average horse paddle visual bomb";
+var mnemonic = "limb say ketchup emerge unaware pause sign pipe absurd margin van staff";

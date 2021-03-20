@@ -1,1 +1,1 @@
-var mnemonic = "bounce voyage lab milk voice parent sign dinosaur wool upper silly tuna";
+var mnemonic = "destroy upgrade happy hub release inch gesture smoke try sell mimic blood";

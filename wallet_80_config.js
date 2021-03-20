@@ -1,1 +1,1 @@
-var mnemonic = "expire between donkey resist enough barrel fuel essay minute remember snack forest";
+var mnemonic = "lend culture income thrive trip wool stadium cluster night race grace stuff";

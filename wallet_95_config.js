@@ -1,1 +1,1 @@
-var mnemonic = "slow torch athlete culture security milk motion ask shift happy call sand";
+var mnemonic = "cable bargain favorite myself three zero series snow salad whisper example lottery";

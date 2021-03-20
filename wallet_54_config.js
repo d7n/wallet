@@ -1,1 +1,1 @@
-var mnemonic = "law immune pitch immune hour tornado mandate affair portion common peanut trick";
+var mnemonic = "stone weekend motion violin grief target shuffle tiny video good champion soup";

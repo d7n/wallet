@@ -1,1 +1,1 @@
-var mnemonic = "program access rail only blade bargain rather town curious eight move piece";
+var mnemonic = "truth sun busy hundred man garage fitness scorpion control maple brave organ";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs sword shell rent brick today stable rally open ramp dirt salad";
+var mnemonic = "bargain refuse lunar master search hen evidence rotate cute tongue together magic";

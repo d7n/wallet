@@ -1,1 +1,1 @@
-var mnemonic = "into deal south valid runway film because hamster wine betray lion core";
+var mnemonic = "fluid economy push can usual attitude just few skill spring screen require";

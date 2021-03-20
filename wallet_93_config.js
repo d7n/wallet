@@ -1,1 +1,1 @@
-var mnemonic = "curtain slam ahead slam frequent bounce easy kangaroo notable kangaroo idea trap";
+var mnemonic = "vital chair tree census across connect cause wool correct lab bottom village";

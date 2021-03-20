@@ -1,1 +1,1 @@
-var mnemonic = "dirt twice pistol fade insane shuffle tuition post project general tornado aerobic";
+var mnemonic = "hedgehog snap bamboo sail giant joke nice trigger calm marriage secret staff";

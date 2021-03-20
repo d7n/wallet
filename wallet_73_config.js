@@ -1,1 +1,1 @@
-var mnemonic = "idle adjust search nation enforce purpose devote glad spring coin interest farm";
+var mnemonic = "witness casual copper stage detail future cause kitten glare orient prize panther";

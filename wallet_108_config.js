@@ -1,1 +1,1 @@
-var mnemonic = "enlist learn flower year nothing click vacant lake opera rug sound skirt";
+var mnemonic = "fly jar another obtain black cave argue private paper divide spice clinic";

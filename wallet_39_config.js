@@ -1,1 +1,1 @@
-var mnemonic = "oval normal valid wedding famous deputy small outdoor alert laugh slush abstract";
+var mnemonic = "spell multiply decade margin knife film emotion clean ill must search rug";

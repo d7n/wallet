@@ -1,1 +1,1 @@
-var mnemonic = "tongue taxi apple gasp future crash flower step almost gesture spoil wreck";
+var mnemonic = "wrestle turkey shaft cage near sadness immense illegal beauty exact glory shift";

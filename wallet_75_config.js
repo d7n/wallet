@@ -1,1 +1,1 @@
-var mnemonic = "merge cancel option lava welcome obtain brush witness legal over pull economy";
+var mnemonic = "wine weather oil regular engage deliver burst there pact coil park list";

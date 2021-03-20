@@ -1,1 +1,1 @@
-var mnemonic = "actress egg thank coin learn future kick will boring lemon total ugly";
+var mnemonic = "urge light silent mango immense notable reflect emerge jewel limb mercy luggage";

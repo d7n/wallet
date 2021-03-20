@@ -1,1 +1,1 @@
-var mnemonic = "express solid diary awful task phrase cart whale country gloom north connect";
+var mnemonic = "moon alien confirm autumn coast injury moral hunt blanket inhale subject require";

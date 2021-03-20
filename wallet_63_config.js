@@ -1,1 +1,1 @@
-var mnemonic = "renew tuition bottom club video horror space plate denial relax update crash";
+var mnemonic = "enemy finger divorce cheap scissors amused soup snake hill sentence doll magnet";

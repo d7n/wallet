@@ -1,1 +1,1 @@
-var mnemonic = "symptom donkey indoor spy melody shed drop vapor sauce garbage lava arena";
+var mnemonic = "insect hole imitate border floor romance exile carpet mean stove desert permit";

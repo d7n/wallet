@@ -1,1 +1,1 @@
-var mnemonic = "wood october oak matter echo total umbrella mixed accident kitten gesture library";
+var mnemonic = "ladder game fringe put salad also hurt move actual increase little width";

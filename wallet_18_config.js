@@ -1,1 +1,1 @@
-var mnemonic = "shrug cash mind save tuna monkey logic beauty trash donkey seed boil";
+var mnemonic = "cave kick mansion faint cloth student hand float craft submit icon rice";

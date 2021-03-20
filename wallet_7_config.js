@@ -1,1 +1,1 @@
-var mnemonic = "wisdom april edge chair dilemma gold fire viable broom spatial enter wave";
+var mnemonic = "spell attend relax ranch input siege tongue elbow twice blossom noise pencil";

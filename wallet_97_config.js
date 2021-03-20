@@ -1,1 +1,1 @@
-var mnemonic = "slice wash fat bachelor media tunnel general sound round fine spoon copy";
+var mnemonic = "opinion live pigeon attend absorb blouse announce chat fluid street oval gaze";

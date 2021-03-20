@@ -1,1 +1,1 @@
-var mnemonic = "over inner stock song annual fortune stadium float series alert win blast";
+var mnemonic = "fat rice zoo truly huge toss profit eager route elegant slab sand";

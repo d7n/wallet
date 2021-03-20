@@ -1,1 +1,1 @@
-var mnemonic = "exhaust oxygen stamp spare record pioneer bridge bridge limit fiscal address cheap";
+var mnemonic = "settle note kitchen toe butter return behave later fold swap wheel wool";

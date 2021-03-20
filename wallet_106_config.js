@@ -1,1 +1,1 @@
-var mnemonic = "tonight milk cheese vast beyond fire human rotate recycle bomb differ secret";
+var mnemonic = "twelve duty accident hybrid letter bench assume duty pretty sad over shell";

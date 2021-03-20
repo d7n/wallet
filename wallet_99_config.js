@@ -1,1 +1,1 @@
-var mnemonic = "wheat idea symptom snap clump damp pride artist magnet bicycle much sun";
+var mnemonic = "mistake wait ozone swallow alley battle original repair humor nephew vocal nice";

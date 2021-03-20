@@ -1,1 +1,1 @@
-var mnemonic = "diagram among price stable depend then agent chuckle noodle only cancel sock";
+var mnemonic = "umbrella oak parent brush kitchen fork install fall ensure lunar balcony desk";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin addict trouble wood mango whip sketch artefact peasant rug little cheese";
+var mnemonic = "rich syrup ripple crumble spread imitate produce please debate horror into hurry";

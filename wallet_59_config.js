@@ -1,1 +1,1 @@
-var mnemonic = "price bird cat term inner cradle layer peace segment thunder coconut six";
+var mnemonic = "harbor maximum merry loan stomach spell traffic subway combine pig butter brick";

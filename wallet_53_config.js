@@ -1,1 +1,1 @@
-var mnemonic = "rich alter organ pact border egg gold ensure climb vivid swamp narrow";
+var mnemonic = "mosquito butter multiply whip laugh live wild change assist patch actual shallow";

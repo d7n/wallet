@@ -1,1 +1,1 @@
-var mnemonic = "hire sort debris air tattoo turtle fury senior become penalty middle arrest";
+var mnemonic = "adapt snake present shrimp another type awkward welcome pigeon awake subject accident";

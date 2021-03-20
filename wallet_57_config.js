@@ -1,1 +1,1 @@
-var mnemonic = "steel what over donor giraffe canoe trend tag split fan novel edit";
+var mnemonic = "nose issue below zoo divide sport pass carpet devote sad switch tail";

@@ -1,1 +1,1 @@
-var mnemonic = "sell diamond direct eyebrow door below dismiss hold library mean urban olive";
+var mnemonic = "explain avocado dial stereo derive message syrup dismiss moral bless gossip zero";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle loud mystery iron garbage avoid gossip mango index grain park expire";
+var mnemonic = "option wrestle old acquire ripple auction tired license speak echo smile dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "shop chaos crater primary oblige melody buffalo mother jelly recipe quit empty";
+var mnemonic = "blast eyebrow miss ramp return uncle tourist text exist toast tank define";

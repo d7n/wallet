@@ -1,1 +1,1 @@
-var mnemonic = "tomato job minute uniform wrestle toast juice toast cable unfold rapid cash";
+var mnemonic = "endorse siren chimney tone blur athlete what love timber involve matrix boy";

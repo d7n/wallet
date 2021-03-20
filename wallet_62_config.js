@@ -1,1 +1,1 @@
-var mnemonic = "link crisp shallow front library cotton family minute exclude figure thank fee";
+var mnemonic = "maple afford dolphin divert tuna economy capital curve chef subject utility fee";

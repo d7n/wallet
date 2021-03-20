@@ -1,1 +1,1 @@
-var mnemonic = "nurse dry supply onion oil call tide capable pen axis position chest";
+var mnemonic = "inhale vendor eagle move labor apology ethics system casino guard maximum disease";

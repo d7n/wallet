@@ -1,1 +1,1 @@
-var mnemonic = "loan oblige multiply crew useless jump wrist hire then destroy despair round";
+var mnemonic = "step empower wild merit trial that intact robust vital radar budget goose";

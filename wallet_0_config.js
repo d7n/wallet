@@ -1,1 +1,1 @@
-var mnemonic = "prepare reward order apology rib door fee length nasty grid remember anxiety";
+var mnemonic = "bullet cousin define brisk harvest huge vendor asthma inject tower lecture hover";

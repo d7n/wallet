@@ -1,1 +1,1 @@
-var mnemonic = "island response toy gloom weird bone burst sing bring reveal cost year";
+var mnemonic = "course cradle time common smoke draw aware convince author alley view summer";

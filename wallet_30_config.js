@@ -1,1 +1,1 @@
-var mnemonic = "myself bird puppy suit laptop clog car satisfy output grant prosper quarter";
+var mnemonic = "imitate eternal mercy oblige undo portion polar zebra energy dragon radar melody";

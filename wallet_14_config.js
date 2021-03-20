@@ -1,1 +1,1 @@
-var mnemonic = "today net property cover fatal crack now kiss runway soul genius lock";
+var mnemonic = "hidden seminar moment exit shrimp sausage fix saddle magnet hockey connect thumb";

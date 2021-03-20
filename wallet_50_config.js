@@ -1,1 +1,1 @@
-var mnemonic = "size mail govern report pepper barely explain section jungle meadow country curve";
+var mnemonic = "lock devote tunnel dwarf protect lazy clock idle final expand fossil panel";

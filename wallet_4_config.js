@@ -1,1 +1,1 @@
-var mnemonic = "disease neglect purpose hair gas globe hip boy rotate host sweet begin";
+var mnemonic = "electric cancel misery angle combine busy normal benefit acquire one farm flock";

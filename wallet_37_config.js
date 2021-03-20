@@ -1,1 +1,1 @@
-var mnemonic = "fox market special answer fit mom warfare family excess public foster illegal";
+var mnemonic = "solution lunch prison large burger edge various about once pet output image";
