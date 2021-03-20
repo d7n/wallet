@@ -1,1 +1,1 @@
-var mnemonic = "hat original visit narrow crack hamster order toe shoulder bright six fish";
+var mnemonic = "fiscal pet fan expire shock brick shed magnet afraid bright black napkin";

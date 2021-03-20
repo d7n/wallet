@@ -1,1 +1,1 @@
-var mnemonic = "recall lawn final romance pole foster valid student accident segment town drop";
+var mnemonic = "below brand empower grit rice science used acid come gentle inspire glance";

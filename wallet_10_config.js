@@ -1,1 +1,1 @@
-var mnemonic = "goddess plug stove cluster talk reunion captain reveal marble adult anchor divide";
+var mnemonic = "settle van fly nice patient toast that else fiction century fault coil";

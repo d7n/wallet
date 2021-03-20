@@ -1,1 +1,1 @@
-var mnemonic = "antique lizard sauce trend cattle broccoli couch improve worry fatigue toast loop";
+var mnemonic = "select flock index glory wrap bird spray correct gym safe escape flavor";

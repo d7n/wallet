@@ -1,1 +1,1 @@
-var mnemonic = "error torch south super couch angle expand rent script shell assist embody";
+var mnemonic = "empower stereo coach shy hammer frozen seven dose amazing ancient wool educate";

@@ -1,1 +1,1 @@
-var mnemonic = "salon inquiry release shiver silent rigid prepare tape trial alert illness vessel";
+var mnemonic = "autumn error cruel peanut cabin forum shrug praise expand dismiss pen jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp uncover shove fortune spatial height mask feel track lava start depart";
+var mnemonic = "visa require grant hood ship want pool suspect service fashion defy mystery";

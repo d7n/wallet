@@ -1,1 +1,1 @@
-var mnemonic = "segment cannon action mean champion neck defense produce swamp ginger picnic card";
+var mnemonic = "pact arrange silk twenty vendor parent wasp prefer hood crime submit long";

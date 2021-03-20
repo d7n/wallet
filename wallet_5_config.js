@@ -1,1 +1,1 @@
-var mnemonic = "act bitter champion visa roof cat defy poem evil top lunar december";
+var mnemonic = "open tenant kiss balcony seek curious ladder biology cruel expose planet another";

@@ -1,1 +1,1 @@
-var mnemonic = "theme oven steel analyst into decide salt quantum uphold vague tenant region";
+var mnemonic = "render board blossom light ankle spawn siege mirror into stock little peanut";

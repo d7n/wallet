@@ -1,1 +1,1 @@
-var mnemonic = "topple surface joke novel unhappy flush initial spider tonight furnace just trumpet";
+var mnemonic = "scene vital trash cactus reward name unhappy supply isolate rack renew loyal";

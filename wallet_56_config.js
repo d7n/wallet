@@ -1,1 +1,1 @@
-var mnemonic = "sadness hood drip angry appear jump indoor admit proof august practice orbit";
+var mnemonic = "output connect frame number design used cube bottom nest tool pact mosquito";

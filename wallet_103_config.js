@@ -1,1 +1,1 @@
-var mnemonic = "any lend ready below diary tip wheat join neck enemy monitor tortoise";
+var mnemonic = "motion warfare tongue alert cattle priority predict timber already echo lab resemble";

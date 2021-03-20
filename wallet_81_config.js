@@ -1,1 +1,1 @@
-var mnemonic = "midnight repair filter object surround first gold camp about shallow install menu";
+var mnemonic = "movie put tissue near thing aunt mass congress trigger wool drop virus";

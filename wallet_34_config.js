@@ -1,1 +1,1 @@
-var mnemonic = "various waste law strike route conduct weekend adapt syrup genre stamp wolf";
+var mnemonic = "quantum patch six lunch boss lemon method final wet original oppose scheme";

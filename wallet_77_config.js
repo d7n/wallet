@@ -1,1 +1,1 @@
-var mnemonic = "sponsor welcome decade level trend opinion fox noodle eight youth stereo engine";
+var mnemonic = "body rebuild seat treat patch grief beyond aisle chef bamboo color snap";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing victory tomorrow under latin around column pass layer mail eagle dinosaur";
+var mnemonic = "brass spoil multiply nuclear royal fragile evidence parrot tag room pyramid sugar";

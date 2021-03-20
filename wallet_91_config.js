@@ -1,1 +1,1 @@
-var mnemonic = "route defense icon own wolf slush simple earth nuclear lion endless defy";
+var mnemonic = "toy trip swing ensure help glory animal click fossil ten know eager";

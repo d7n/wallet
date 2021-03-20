@@ -1,1 +1,1 @@
-var mnemonic = "control toilet voyage reform message plug remember pig thumb chalk increase dinner";
+var mnemonic = "fame license shine topple love flavor use slab vanish type replace actual";

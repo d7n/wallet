@@ -1,1 +1,1 @@
-var mnemonic = "borrow coconut matter scene trick fiction chair alley resemble quiz toddler smoke";
+var mnemonic = "common victory shallow wife genius melt vast market original glove series six";

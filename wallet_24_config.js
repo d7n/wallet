@@ -1,1 +1,1 @@
-var mnemonic = "okay double exclude harbor risk concert live isolate fox helmet knife sugar";
+var mnemonic = "virtual enroll switch blouse chronic nephew program sibling alley you brief page";

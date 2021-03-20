@@ -1,1 +1,1 @@
-var mnemonic = "practice able capital walnut what deer trial hammer address excite know bench";
+var mnemonic = "portion appear sphere mule turkey disagree horse kick moment leisure cover path";

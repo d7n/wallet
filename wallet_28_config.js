@@ -1,1 +1,1 @@
-var mnemonic = "permit open drip symbol motor call devote bullet admit vintage doctor bone";
+var mnemonic = "leader dignity swap put air funny bright play final very heavy bamboo";

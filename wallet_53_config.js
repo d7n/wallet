@@ -1,1 +1,1 @@
-var mnemonic = "sort obvious joy apology verb link worry laundry minor life bus other";
+var mnemonic = "auto noble mushroom celery believe hurry tackle scale swing work advice wise";

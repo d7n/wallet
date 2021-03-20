@@ -1,1 +1,1 @@
-var mnemonic = "weekend diamond select chair grab improve odor color merit segment trap east";
+var mnemonic = "catalog useless lady spare park save eagle flower coast scrub rescue south";

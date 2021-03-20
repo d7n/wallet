@@ -1,1 +1,1 @@
-var mnemonic = "harbor legal tonight void draft enjoy promote boring error able source vital";
+var mnemonic = "suggest economy welcome can account view system cat cotton avocado early police";

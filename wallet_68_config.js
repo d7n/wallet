@@ -1,1 +1,1 @@
-var mnemonic = "circle large family patch rude park inject romance absorb estate load country";
+var mnemonic = "coconut motor female session reopen afford album slim steel okay affair three";

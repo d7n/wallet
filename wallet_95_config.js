@@ -1,1 +1,1 @@
-var mnemonic = "pet attend pencil round tuna risk glow welcome dry club dentist exhibit";
+var mnemonic = "since exist hair tourist night forget harsh organ myth doctor bulk team";

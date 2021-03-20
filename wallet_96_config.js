@@ -1,1 +1,1 @@
-var mnemonic = "job diamond pen sibling teach mimic office have hurry uncover code feel";
+var mnemonic = "universe divert armor year history spy rail deal reduce amateur position giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology apple consider picnic coil lumber spawn grow enough want test ask";
+var mnemonic = "agent rib talk inflict recall trumpet tornado rain egg scan catch accident";

@@ -1,1 +1,1 @@
-var mnemonic = "include toy talk warm session quit deposit mammal famous box wisdom glow";
+var mnemonic = "fly come globe exchange grain silly trap age nothing cabbage toe crop";

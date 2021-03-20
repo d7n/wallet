@@ -1,1 +1,1 @@
-var mnemonic = "bless winner high pitch river possible blanket ripple clay idle seed license";
+var mnemonic = "canoe early gadget bike victory avocado order slow sunset solar world acquire";

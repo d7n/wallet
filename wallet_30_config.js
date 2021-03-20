@@ -1,1 +1,1 @@
-var mnemonic = "accident nature dune meadow party crew corn slight behind become crane castle";
+var mnemonic = "fitness hollow oxygen say steak use hospital typical unknown disorder math picture";

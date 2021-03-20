@@ -1,1 +1,1 @@
-var mnemonic = "cram simple honey once ribbon senior trim beyond broccoli brass spoil soda";
+var mnemonic = "border pudding bargain fiction filter slab glare minimum chase shadow wisdom country";

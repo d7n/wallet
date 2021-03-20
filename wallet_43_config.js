@@ -1,1 +1,1 @@
-var mnemonic = "health treat core expose food tuna old prison man job prize phrase";
+var mnemonic = "label body proof sport display broom business sibling inject milk wink visual";

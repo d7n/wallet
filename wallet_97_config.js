@@ -1,1 +1,1 @@
-var mnemonic = "guard tunnel slam answer pottery fresh unit half credit scare split spider";
+var mnemonic = "response hour iron toward talent chunk good spread noble unveil hurt season";

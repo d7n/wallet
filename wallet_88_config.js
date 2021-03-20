@@ -1,1 +1,1 @@
-var mnemonic = "describe fan when fashion diet stamp pride blanket damp half meat fatigue";
+var mnemonic = "salon expire school curtain promote pattern father ugly wife lucky bar cruel";

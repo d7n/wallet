@@ -1,1 +1,1 @@
-var mnemonic = "kite all machine action diet autumn basket notable myth napkin response wreck";
+var mnemonic = "burger benefit glory betray ginger rally alley fancy nephew matter chimney clutch";

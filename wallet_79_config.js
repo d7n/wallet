@@ -1,1 +1,1 @@
-var mnemonic = "future excite salon twenty spend exact economy fabric uniform hockey vintage body";
+var mnemonic = "primary price tumble industry nephew kingdom local focus poem topic error confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "end iron raise record aspect smile van sunset pole anchor frequent acid";
+var mnemonic = "tornado narrow vote nation acid skirt common grid identify finish draft runway";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle service light egg cabin margin island ordinary pretty level yard pottery";
+var mnemonic = "ticket once bike wink avocado frozen office unfold skate false final model";

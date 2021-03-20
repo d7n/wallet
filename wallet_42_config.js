@@ -1,1 +1,1 @@
-var mnemonic = "toast drastic amateur post visual rally icon social soul song jump assume";
+var mnemonic = "pair north balcony twice river cream green notable page gas uncle theory";

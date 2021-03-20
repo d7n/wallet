@@ -1,1 +1,1 @@
-var mnemonic = "cigar jelly dial ocean lounge husband able car human accuse toss bring";
+var mnemonic = "drastic orchard curtain horse cube earn round kit effort cry initial electric";

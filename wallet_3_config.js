@@ -1,1 +1,1 @@
-var mnemonic = "deal mammal salt buddy casual ivory road patrol spin invite wine model";
+var mnemonic = "sight draw rare divorce concert occur high goddess inner village process rubber";

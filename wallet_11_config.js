@@ -1,1 +1,1 @@
-var mnemonic = "soldier stem sphere soup flash obvious stone clay thought sheriff practice sniff";
+var mnemonic = "speak fall next wing law ladder close fantasy element rather thought coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "ask area field cheap unhappy proof glide spawn urban view soup hunt";
+var mnemonic = "fragile post jazz fun trade silly bacon exist type squirrel chuckle parade";

@@ -1,1 +1,1 @@
-var mnemonic = "modify seat any speak bottom tube distance another donor property blood wave";
+var mnemonic = "warm pet glare craft explain jar nominee steak chuckle member stamp real";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet possible opera retire total execute fragile pause famous idle damage evidence";
+var mnemonic = "aisle because home cinnamon master seed village scare write album circle boost";

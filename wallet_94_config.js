@@ -1,1 +1,1 @@
-var mnemonic = "category snack flower erode sauce quit eager secret magic budget summer retire";
+var mnemonic = "direct unlock pizza funny sweet boring cave duck drip govern jaguar bird";

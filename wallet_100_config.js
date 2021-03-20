@@ -1,1 +1,1 @@
-var mnemonic = "task century grit energy language announce glow cabin mask view garbage total";
+var mnemonic = "flush ostrich venture boring abstract region bike evidence good climb category wheel";

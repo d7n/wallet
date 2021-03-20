@@ -1,1 +1,1 @@
-var mnemonic = "fog very finger whisper put patrol bargain comic stone border box steak";
+var mnemonic = "other regular stamp fix guess afford point bone youth grid hard usual";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover torch turtle light evil chicken chunk ostrich direct conduct topic fold";
+var mnemonic = "palace maid cheese flip select fat summer grace cannon brush task buffalo";

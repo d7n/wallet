@@ -1,1 +1,1 @@
-var mnemonic = "calm vessel inch shoulder churn spread method ozone regular marble solar lady";
+var mnemonic = "main idle find radar fly ball impact boy enforce total civil nephew";

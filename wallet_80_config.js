@@ -1,1 +1,1 @@
-var mnemonic = "fortune goose edit thumb key sense hire auction type lizard neutral three";
+var mnemonic = "ceiling early apple paddle umbrella always spike market alarm such outdoor assist";

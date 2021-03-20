@@ -1,1 +1,1 @@
-var mnemonic = "bone garment exclude bicycle primary loud scare please license aspect model breeze";
+var mnemonic = "issue pulp trick diesel lamp raise pigeon circle survey ceiling prison palace";

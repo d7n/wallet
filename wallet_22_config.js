@@ -1,1 +1,1 @@
-var mnemonic = "fluid donate frost judge search topic fortune deny prosper glance defy bike";
+var mnemonic = "now vibrant anxiety figure kick eagle mirror just sugar feature affair lunar";

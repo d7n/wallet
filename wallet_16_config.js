@@ -1,1 +1,1 @@
-var mnemonic = "destroy this multiply craft normal grant half proud outside card obey chapter";
+var mnemonic = "mention stage high flip olympic catch refuse water nurse improve census water";

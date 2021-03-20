@@ -1,1 +1,1 @@
-var mnemonic = "flush inquiry twist parrot rely ozone address mango fluid surprise purse budget";
+var mnemonic = "note flock rich cluster forget fall scrub verify review capital find vault";

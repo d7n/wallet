@@ -1,1 +1,1 @@
-var mnemonic = "fringe rely coast enjoy spoil canyon relax dose control tobacco choice coffee";
+var mnemonic = "kiss kite stand cactus pepper path grab salt scare renew test innocent";

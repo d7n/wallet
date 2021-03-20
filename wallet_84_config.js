@@ -1,1 +1,1 @@
-var mnemonic = "problem critic crash impact depart pause limit suspect void guilt merit like";
+var mnemonic = "ivory page any feature team receive gravity culture black crumble swap suit";

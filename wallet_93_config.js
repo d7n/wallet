@@ -1,1 +1,1 @@
-var mnemonic = "fever hover mom impact sunny piece hockey patrol fan please huge antique";
+var mnemonic = "rubber dwarf tool cart divide north paper gate raise maid bus upon";

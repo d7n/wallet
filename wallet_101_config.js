@@ -1,1 +1,1 @@
-var mnemonic = "recall atom advance vintage achieve glad ceiling find author oak price report";
+var mnemonic = "total piece problem panther celery neck endorse acoustic soldier deputy auto clown";

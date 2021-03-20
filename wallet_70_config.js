@@ -1,1 +1,1 @@
-var mnemonic = "erase merge shove property sing warfare impose special abandon inquiry equal sweet";
+var mnemonic = "marriage today work grid stereo surround tape exit bus prevent unfair agree";

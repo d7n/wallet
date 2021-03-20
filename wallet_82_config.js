@@ -1,1 +1,1 @@
-var mnemonic = "globe owner change immense buyer give badge horror neutral coast target guard";
+var mnemonic = "catalog smile banner exchange arrange alley poem hungry sick another exit rug";

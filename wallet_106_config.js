@@ -1,1 +1,1 @@
-var mnemonic = "hollow consider avoid three coral second large truck olympic poverty amazing shoot";
+var mnemonic = "slow cement sister fun dune betray angle kingdom option fiction canal idle";

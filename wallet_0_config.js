@@ -1,1 +1,1 @@
-var mnemonic = "castle clutch rally rigid fiscal flat plunge lava today happy crane unique";
+var mnemonic = "draft magnet oblige industry leave tell enrich original record whale open discover";

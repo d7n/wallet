@@ -1,1 +1,1 @@
-var mnemonic = "guilt cattle tuition labor because tag crater case hawk hungry minute typical";
+var mnemonic = "crater donate friend penalty maid label hundred movie rabbit replace always vast";

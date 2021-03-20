@@ -1,1 +1,1 @@
-var mnemonic = "flock stay dirt autumn segment shell spend erode isolate inner hello chief";
+var mnemonic = "month warfare liar idle wool divorce gun wise eye knock gauge brain";

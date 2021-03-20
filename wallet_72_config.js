@@ -1,1 +1,1 @@
-var mnemonic = "abstract portion feed waste cloud obtain rapid tribe slogan beauty document car";
+var mnemonic = "shine kiss balcony neck staff latin oil night slush carpet document bounce";

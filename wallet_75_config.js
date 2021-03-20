@@ -1,1 +1,1 @@
-var mnemonic = "popular bean neither fury quote awesome catalog mean very vessel achieve pioneer";
+var mnemonic = "immune acid half false garbage spatial annual absorb soccer enroll chest eager";

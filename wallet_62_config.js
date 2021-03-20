@@ -1,1 +1,1 @@
-var mnemonic = "heart rib runway asthma rocket dutch alley rough switch join thank grace";
+var mnemonic = "maximum goose globe bulk race collect doctor library abstract stand lemon cute";

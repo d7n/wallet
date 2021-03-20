@@ -1,1 +1,1 @@
-var mnemonic = "hunt voice blame sure volume orchard crisp effort property raccoon item twelve";
+var mnemonic = "wet original guilt sugar ankle drum among mushroom agent hedgehog thing pilot";

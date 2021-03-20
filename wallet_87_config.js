@@ -1,1 +1,1 @@
-var mnemonic = "choose easily bonus piano inspire hollow gallery sunset wet twelve circle electric";
+var mnemonic = "sphere ice orbit sheriff canvas tent undo foot all tree illness fruit";

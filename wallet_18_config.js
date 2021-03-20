@@ -1,1 +1,1 @@
-var mnemonic = "matrix butter fossil broom industry happy what sorry glow sheriff problem yard";
+var mnemonic = "west thrive salute bid abuse nephew easily anger confirm fury assume mandate";

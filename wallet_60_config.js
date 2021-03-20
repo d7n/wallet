@@ -1,1 +1,1 @@
-var mnemonic = "transfer hire reduce road idle magic door expect evoke august accident silly";
+var mnemonic = "physical trade tortoise hen sure hockey antenna able deny alone safe legend";

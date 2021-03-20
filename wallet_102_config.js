@@ -1,1 +1,1 @@
-var mnemonic = "addict setup rival crew plug wheel smile marine drill mail since supreme";
+var mnemonic = "smile soon amount all faculty vessel man inflict sausage lion lens grant";

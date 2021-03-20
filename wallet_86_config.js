@@ -1,1 +1,1 @@
-var mnemonic = "stomach advice history gym profit target dish ocean weapon budget expect secret";
+var mnemonic = "tonight garbage pink erupt pulp cycle detail hidden easily waste kitten school";

@@ -1,1 +1,1 @@
-var mnemonic = "auto million option model jewel wheel bulk always endless frequent park defy";
+var mnemonic = "weather lobster pattern inquiry chapter danger primary intact hollow airport gauge poet";

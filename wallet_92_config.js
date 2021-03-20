@@ -1,1 +1,1 @@
-var mnemonic = "snack eagle mule illness quarter young amateur comic enemy slice couple drop";
+var mnemonic = "riot liquid absent exhaust grain purity involve chair canoe genius violin enter";

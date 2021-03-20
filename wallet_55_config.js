@@ -1,1 +1,1 @@
-var mnemonic = "zoo suspect artwork seek object correct illness crystal duck settle appear abuse";
+var mnemonic = "various winner off rural settle gap remind width check stool hair embark";

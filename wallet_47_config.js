@@ -1,1 +1,1 @@
-var mnemonic = "mother rotate loan void surprise ozone plastic tackle soda cup retreat raise";
+var mnemonic = "reunion garlic matrix wire kite planet observe pledge age trap loop main";

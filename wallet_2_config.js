@@ -1,1 +1,1 @@
-var mnemonic = "lobster gather slim hire increase damage acquire gossip theory elder grit vehicle";
+var mnemonic = "script embrace crack mechanic ostrich text wet crush dinosaur puzzle wedding hello";

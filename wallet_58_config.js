@@ -1,1 +1,1 @@
-var mnemonic = "usage north future average train harbor crunch crash indoor atom spawn movie";
+var mnemonic = "wonder floor party elevator vintage special edit twist panther crisp snap season";

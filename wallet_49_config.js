@@ -1,1 +1,1 @@
-var mnemonic = "soon assume collect lumber pepper reveal mesh notice shiver suit extra oxygen";
+var mnemonic = "iron vacant fuel short dragon physical salmon never upon immense section fade";

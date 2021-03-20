@@ -1,1 +1,1 @@
-var mnemonic = "reduce bubble fold jewel click dance library salon wave skirt enemy diary";
+var mnemonic = "olympic accuse open sweet brave rally isolate garage mind pass owner hub";

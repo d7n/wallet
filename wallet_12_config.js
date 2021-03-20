@@ -1,1 +1,1 @@
-var mnemonic = "day city income brief object cage truly economy cream upper bench horror";
+var mnemonic = "master horse sport report boy swarm huge brief vacuum home mansion side";

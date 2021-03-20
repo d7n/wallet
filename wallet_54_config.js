@@ -1,1 +1,1 @@
-var mnemonic = "lazy enhance amazing shallow amateur move camera lady breeze always initial device";
+var mnemonic = "prosper finger demand gravity glance network notice brush purity shop rose win";

@@ -1,1 +1,1 @@
-var mnemonic = "load angry slow eternal neither abuse vibrant dinner fault trade ghost general";
+var mnemonic = "usage you helmet grass decade annual father stick fame local gloom crack";

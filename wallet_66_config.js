@@ -1,1 +1,1 @@
-var mnemonic = "swarm light limb live eight lunar theme vacant foil alert beach jewel";
+var mnemonic = "globe ready verify quarter jar garden foam begin swap future easily powder";

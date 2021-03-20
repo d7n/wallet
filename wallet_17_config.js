@@ -1,1 +1,1 @@
-var mnemonic = "sibling speed inherit decline grow diamond teach struggle lonely wire awkward artwork";
+var mnemonic = "roof twenty business grain vault become indoor annual fabric pet express humble";

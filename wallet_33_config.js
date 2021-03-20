@@ -1,1 +1,1 @@
-var mnemonic = "wealth diet pet setup cushion snack wool like concert ocean club rapid";
+var mnemonic = "expire amateur expire addict drill chapter better image course program void output";
