@@ -1,1 +1,1 @@
-var mnemonic = "ozone pill excess empower blood nest evoke decade green burst observe plunge";
+var mnemonic = "swear naive item try bunker forward area rocket bunker victory guard include";

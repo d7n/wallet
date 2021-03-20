@@ -1,1 +1,1 @@
-var mnemonic = "castle mouse income enforce girl reduce ready elite saddle love shaft suffer";
+var mnemonic = "ill easy slide cattle dutch spray excite wet bring base broccoli smooth";

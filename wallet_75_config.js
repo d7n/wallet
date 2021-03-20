@@ -1,1 +1,1 @@
-var mnemonic = "horror cinnamon uniform accuse aisle concert talent flock gallery skirt color lottery";
+var mnemonic = "token swing awesome three glove place horror leopard length film blade blanket";

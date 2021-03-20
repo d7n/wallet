@@ -1,1 +1,1 @@
-var mnemonic = "marble pencil bottom kid dentist inhale poverty quantum window oblige ghost easy";
+var mnemonic = "hard dance icon prefer noise script below grief travel river figure inquiry";

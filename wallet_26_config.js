@@ -1,1 +1,1 @@
-var mnemonic = "swap camera dizzy mind grunt mail demise author reveal when nature true";
+var mnemonic = "animal adjust rally inform grow antique hood story green brave detail result";

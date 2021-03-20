@@ -1,1 +1,1 @@
-var mnemonic = "twice menu click symptom kid this erosion deny bind physical buyer smoke";
+var mnemonic = "start doctor one prison busy coyote venue tomato clever outdoor bus devote";

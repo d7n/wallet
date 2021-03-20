@@ -1,1 +1,1 @@
-var mnemonic = "cost barrel all come bottom olympic honey pact catch hurdle month search";
+var mnemonic = "civil kiwi used today stone water ball bunker bicycle coral bamboo round";

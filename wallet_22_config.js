@@ -1,1 +1,1 @@
-var mnemonic = "lady bargain endorse virtual dash harsh certain casino unfold float device bounce";
+var mnemonic = "gate task erase come exhaust leader ensure nut cricket economy suit unfold";

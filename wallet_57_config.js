@@ -1,1 +1,1 @@
-var mnemonic = "choose fold clever hold chef super horror pretty exact solution draft man";
+var mnemonic = "melt aunt scene spin potato palace able million magic rural inner sorry";

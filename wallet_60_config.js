@@ -1,1 +1,1 @@
-var mnemonic = "culture link junior december wrong express abstract cart urban seminar cross second";
+var mnemonic = "lazy blame define base drive spoil clerk nature mom receive trophy party";

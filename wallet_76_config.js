@@ -1,1 +1,1 @@
-var mnemonic = "convince legend deer silk good guitar silk ill decade supreme drama mom";
+var mnemonic = "crisp patch seat forest absent dish school ivory like cake fee above";

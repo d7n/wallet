@@ -1,1 +1,1 @@
-var mnemonic = "lesson visual beyond supply smart assume material name museum please antique call";
+var mnemonic = "play chef such purchase maid mom enjoy lucky worry wage amount grit";

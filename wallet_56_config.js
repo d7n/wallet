@@ -1,1 +1,1 @@
-var mnemonic = "write sugar prosper total nurse detect elbow bounce aim appear ostrich bulb";
+var mnemonic = "frown glad diamond abuse marble version upper circle loyal scout travel dwarf";

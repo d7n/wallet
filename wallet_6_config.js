@@ -1,1 +1,1 @@
-var mnemonic = "place damage hunt grief check picnic replace mixed manage above witness intact";
+var mnemonic = "attend choose undo confirm domain hockey zebra dress grant ginger among crime";

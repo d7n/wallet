@@ -1,1 +1,1 @@
-var mnemonic = "adjust solar since prosper cable whip west sell version jar coil garlic";
+var mnemonic = "among art become quit much elbow vanish grocery memory urban city churn";

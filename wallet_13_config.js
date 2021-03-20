@@ -1,1 +1,1 @@
-var mnemonic = "hazard dizzy shove primary anchor barrel side visual castle goat fan apology";
+var mnemonic = "lizard fan voyage unable chat swap cube reflect size shallow force angle";

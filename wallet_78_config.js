@@ -1,1 +1,1 @@
-var mnemonic = "movie cause knee sunny monkey basic crouch awful cloud mix protect soap";
+var mnemonic = "hospital release still sell shy luggage jump pool glass mistake enable expose";

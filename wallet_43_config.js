@@ -1,1 +1,1 @@
-var mnemonic = "blind speak transfer spider brick hill fiber company ordinary dignity shiver brave";
+var mnemonic = "animal rapid raw cabbage blind scare portion spread history escape day shuffle";

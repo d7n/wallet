@@ -1,1 +1,1 @@
-var mnemonic = "dwarf gossip surround ridge aunt interest upgrade race setup shiver boat payment";
+var mnemonic = "popular glare rack drum crawl orient similar arch image audit control again";

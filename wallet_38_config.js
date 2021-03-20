@@ -1,1 +1,1 @@
-var mnemonic = "loyal shadow enact cannon radio able document scout afford horse day wife";
+var mnemonic = "ladder impose flush scare forum blanket exclude man panther aisle hub key";

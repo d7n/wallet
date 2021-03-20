@@ -1,1 +1,1 @@
-var mnemonic = "build hybrid jaguar empower hazard milk fog say birth salt fashion raw";
+var mnemonic = "finish umbrella earn focus leisure govern know cricket stamp bicycle lyrics buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "noble eternal leg come busy wisdom sick mobile tip riot regular kid";
+var mnemonic = "fabric zone cross deer weapon scare country sample letter system imitate approve";

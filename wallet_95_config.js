@@ -1,1 +1,1 @@
-var mnemonic = "laptop crop tower ring stumble smooth sibling aerobic concert again huge tribe";
+var mnemonic = "slab album cinnamon damage stairs talk canal local butter always awkward slow";

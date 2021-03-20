@@ -1,1 +1,1 @@
-var mnemonic = "regular flat milk region remain anger security gun thought devote fashion soap";
+var mnemonic = "parrot chicken wrong parade struggle scorpion tenant noodle ginger bulb place begin";

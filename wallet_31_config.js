@@ -1,1 +1,1 @@
-var mnemonic = "good cactus vivid banner accuse basket ranch curve evoke ensure divide monster";
+var mnemonic = "bleak pyramid useless kiwi metal cause marble million fame curtain sibling half";

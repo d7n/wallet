@@ -1,1 +1,1 @@
-var mnemonic = "brick grab tornado consider cloud veteran melt public robot move element chase";
+var mnemonic = "motor genuine crazy team car quiz airport uncle solar egg machine boring";

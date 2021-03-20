@@ -1,1 +1,1 @@
-var mnemonic = "cheese tooth health pupil clip soda cable small subway island pass space";
+var mnemonic = "rival detail list cross across venue coin leaf office hungry poverty plug";

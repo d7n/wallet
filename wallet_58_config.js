@@ -1,1 +1,1 @@
-var mnemonic = "scissors lonely wave expand pond expect question door black between jeans digital";
+var mnemonic = "tongue table session connect basic dove barely cram light raccoon also forest";

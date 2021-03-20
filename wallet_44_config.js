@@ -1,1 +1,1 @@
-var mnemonic = "there smoke impose wild snake heavy dizzy camp engage satisfy youth metal";
+var mnemonic = "tilt slush pepper dolphin chair empty pipe nuclear usage employ symptom eight";

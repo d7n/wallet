@@ -1,1 +1,1 @@
-var mnemonic = "control disorder radar gather pudding chronic increase obey muffin net awake other";
+var mnemonic = "raise pyramid endless until diet motion oblige picture suffer token head above";

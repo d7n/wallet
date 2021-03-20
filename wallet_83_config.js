@@ -1,1 +1,1 @@
-var mnemonic = "blast wave endorse loyal actor version excuse scout gesture honey battle live";
+var mnemonic = "rapid pond know adapt beach gloom spatial glue proud credit city document";

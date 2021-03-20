@@ -1,1 +1,1 @@
-var mnemonic = "ring girl what sketch slide sniff crack shock already exist jacket ginger";
+var mnemonic = "tilt quantum piece brass foot field myth antenna muscle fever wait circle";

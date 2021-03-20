@@ -1,1 +1,1 @@
-var mnemonic = "volcano rule unit trigger mimic wide tiny vicious above dream carry derive";
+var mnemonic = "dismiss flower box net goat caution disorder chalk myth lawn unusual call";

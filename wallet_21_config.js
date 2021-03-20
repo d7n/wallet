@@ -1,1 +1,1 @@
-var mnemonic = "clutch cricket resist today reason spatial horror inform cheese artefact crash priority";
+var mnemonic = "twice differ desk grace weapon major spoil minor orient always lemon area";

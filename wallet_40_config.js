@@ -1,1 +1,1 @@
-var mnemonic = "town mixture reveal gallery chase panic pill around talent salt pizza elegant";
+var mnemonic = "affair stay rural slogan change slender student sunny bid elder grocery oval";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff build sea leg army orbit lake spin riot dice treat hold";
+var mnemonic = "flock elephant lawn exhaust divert long vivid bamboo limb range catch orange";

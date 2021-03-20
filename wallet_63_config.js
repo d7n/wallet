@@ -1,1 +1,1 @@
-var mnemonic = "crime smile caught faculty visa helmet symptom buyer coffee salmon end magic";
+var mnemonic = "confirm minor frequent offer together property labor oval width vital nuclear right";

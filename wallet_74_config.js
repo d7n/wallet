@@ -1,1 +1,1 @@
-var mnemonic = "desk filter crime spend drum sentence scheme ticket ten parrot marine net";
+var mnemonic = "gift pill talent globe legend danger winter stool border oyster grape raccoon";

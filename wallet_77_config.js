@@ -1,1 +1,1 @@
-var mnemonic = "cancel insane figure brief maze wood guess find street north yard arch";
+var mnemonic = "truly try lab omit nature render tuition clock wise resist thing file";

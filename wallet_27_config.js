@@ -1,1 +1,1 @@
-var mnemonic = "tide range wheel prize modify effort page flavor attack tube disorder cargo";
+var mnemonic = "scene snap treat abstract marble female mix surround flee universe margin call";

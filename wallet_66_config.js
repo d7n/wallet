@@ -1,1 +1,1 @@
-var mnemonic = "dance remove session stamp promote twin van rival cereal inmate antique all";
+var mnemonic = "rapid soon figure pact modify just quality like road blame one goat";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs review nurse limb three tooth report effort staff brief animal vacuum";
+var mnemonic = "youth bring harvest sound trophy repair timber chase toddler ankle steel scrub";

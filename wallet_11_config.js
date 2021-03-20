@@ -1,1 +1,1 @@
-var mnemonic = "dance cram outside either divorce crop start divert ancient slush wisdom salt";
+var mnemonic = "test art net run quick awkward vapor crowd friend together cargo saddle";

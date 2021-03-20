@@ -1,1 +1,1 @@
-var mnemonic = "release lesson practice allow dust oval debate hamster shoot home unhappy fetch";
+var mnemonic = "twenty engage small device behave spin nurse unfold tank guitar choose reject";

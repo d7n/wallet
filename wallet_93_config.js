@@ -1,1 +1,1 @@
-var mnemonic = "huge key coconut vacant salmon stage anchor crazy enact tennis grid venture";
+var mnemonic = "rare economy twelve mimic pistol picnic sure torch hour world under title";

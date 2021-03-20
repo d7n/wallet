@@ -1,1 +1,1 @@
-var mnemonic = "pulp cram oblige owner boil raw concert globe mesh amused march work";
+var mnemonic = "twice detect atom wing sell pulp coast flush essence gauge upper swamp";

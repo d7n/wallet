@@ -1,1 +1,1 @@
-var mnemonic = "student sheriff solve wood dog mosquito refuse adapt phrase find famous since";
+var mnemonic = "apology steak marriage theory common make success indicate bacon buzz fox afford";

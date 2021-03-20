@@ -1,1 +1,1 @@
-var mnemonic = "hockey police opera venue pumpkin submit trust behave mountain best cart cool";
+var mnemonic = "rib odor castle tribe must crop differ maple universe pudding purity popular";

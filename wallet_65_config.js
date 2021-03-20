@@ -1,1 +1,1 @@
-var mnemonic = "quiz subway guitar letter opinion fire squirrel noodle side monitor brand angle";
+var mnemonic = "dinosaur develop taxi year obey actual idea wait giraffe glove sense avocado";

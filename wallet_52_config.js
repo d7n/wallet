@@ -1,1 +1,1 @@
-var mnemonic = "chat orient snap segment usual actor segment height steel bird mom asthma";
+var mnemonic = "have kitten bonus shrug trap opera mansion evoke vault inmate fee cigar";

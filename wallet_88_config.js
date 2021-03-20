@@ -1,1 +1,1 @@
-var mnemonic = "term loud snake aware enemy edit twenty meat circle another this fiber";
+var mnemonic = "broccoli trophy curtain any dragon puzzle narrow keep crazy rebuild law dose";

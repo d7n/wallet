@@ -1,1 +1,1 @@
-var mnemonic = "position clutch mule olive lake pyramid about endorse save goat atom congress";
+var mnemonic = "amused portion yard detail test poverty woman idea spray motion soup van";

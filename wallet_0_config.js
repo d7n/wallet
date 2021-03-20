@@ -1,1 +1,1 @@
-var mnemonic = "income brave carpet cup actress prosper six wrong worry sister media ride";
+var mnemonic = "letter inmate either detect setup slice primary rabbit unique acid club laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "solid exclude public divert course marriage play dismiss material elder property model";
+var mnemonic = "vault walnut canoe slender smooth amazing egg bubble term elbow banner current";

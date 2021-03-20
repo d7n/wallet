@@ -1,1 +1,1 @@
-var mnemonic = "fantasy sea armor project blind inform cereal accuse puzzle kick high ginger";
+var mnemonic = "swallow exact news dwarf ozone tide axis farm black rare space entry";

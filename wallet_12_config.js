@@ -1,1 +1,1 @@
-var mnemonic = "ask affair valve security suggest arctic prosper roof reason keep myth heart";
+var mnemonic = "bulb employ response exchange trim price pluck smile alley lobster open bicycle";

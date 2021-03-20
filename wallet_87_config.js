@@ -1,1 +1,1 @@
-var mnemonic = "gadget spoil swamp enlist situate equal remove satoshi garlic become verify era";
+var mnemonic = "half mesh stick happy allow uniform panel license task release brisk sheriff";

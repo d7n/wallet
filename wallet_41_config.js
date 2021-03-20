@@ -1,1 +1,1 @@
-var mnemonic = "captain brush goddess fine wait they talk flush enforce infant author shoot";
+var mnemonic = "frog derive assault swing state quality bless slight gloom dizzy one give";

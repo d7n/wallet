@@ -1,1 +1,1 @@
-var mnemonic = "staff kangaroo market vast simple bless myself mutual stove bargain forest pink";
+var mnemonic = "arrest physical trial dice focus funny cost property bunker brick strike copy";

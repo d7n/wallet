@@ -1,1 +1,1 @@
-var mnemonic = "jar wolf bonus lobster lumber fault sugar you sense hawk potato admit";
+var mnemonic = "attract achieve invest cluster venue enact liar sea symbol churn beach talent";

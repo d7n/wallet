@@ -1,1 +1,1 @@
-var mnemonic = "manual paper glory guide away motor hawk venture have dry pond truly";
+var mnemonic = "enroll sketch winter hamster initial dad reveal trend fly radar fiscal attack";

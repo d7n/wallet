@@ -1,1 +1,1 @@
-var mnemonic = "skull tuition language mandate summer employ veteran vague tower intact sunset crawl";
+var mnemonic = "cement genuine quit again repair churn cloud sea tennis chunk tornado license";

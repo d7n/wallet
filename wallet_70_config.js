@@ -1,1 +1,1 @@
-var mnemonic = "half assume auction isolate party recall success degree drop candy vibrant vast";
+var mnemonic = "cupboard exhaust nut recipe tomorrow dragon group witness awkward person lake cargo";

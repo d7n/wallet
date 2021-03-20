@@ -1,1 +1,1 @@
-var mnemonic = "nothing purchase adult someone height execute engine certain tilt early agree lecture";
+var mnemonic = "wash quality inquiry blast aspect aspect odor marriage match faint arrow shoot";

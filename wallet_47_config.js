@@ -1,1 +1,1 @@
-var mnemonic = "elephant abuse judge genius apart stool crater estate foster wedding legend mixture";
+var mnemonic = "document eternal nature machine scrap dilemma awful grow claim mixture spring sun";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst trouble turtle timber hood motor trip camp learn chat confirm organ";
+var mnemonic = "situate mass mobile near tobacco spy engine abandon best intact roast body";

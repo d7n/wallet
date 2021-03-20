@@ -1,1 +1,1 @@
-var mnemonic = "autumn box shop seminar ketchup cage discover blush fog beef tomato sister";
+var mnemonic = "badge hundred cement busy sketch unit can frost tree crime detect elite";

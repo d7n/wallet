@@ -1,1 +1,1 @@
-var mnemonic = "belt traffic raccoon fee eager glide digital bright bench plastic access people";
+var mnemonic = "lion now hair tool easy tongue bundle celery argue accuse meat scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper sponsor sort opinion client amount afford poet shove dose twice detail";
+var mnemonic = "hamster broom gap tide artwork tube need rough inhale cause cube staff";

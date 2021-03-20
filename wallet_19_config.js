@@ -1,1 +1,1 @@
-var mnemonic = "find sea erode concert arm balcony fiber swift heavy impose energy present";
+var mnemonic = "broccoli width quick bulk utility trim mesh leaf sail famous seat spy";

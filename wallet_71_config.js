@@ -1,1 +1,1 @@
-var mnemonic = "grant umbrella cereal replace belt motion angle length timber space before base";
+var mnemonic = "abuse obscure morning wedding nothing frown wait exist volume record pepper donkey";

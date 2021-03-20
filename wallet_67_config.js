@@ -1,1 +1,1 @@
-var mnemonic = "squirrel harvest salt lecture strike mask during lemon grid blush congress mix";
+var mnemonic = "wisdom copper color kid proof what oval inspire pill sweet whisper ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle truck onion object bone grab recipe decorate actual peanut absorb patch";
+var mnemonic = "large plunge asset sentence ghost width borrow vintage split coast flower oak";

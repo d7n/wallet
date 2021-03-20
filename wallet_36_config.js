@@ -1,1 +1,1 @@
-var mnemonic = "pigeon spy rebel skill output damp fury address transfer sorry capable punch";
+var mnemonic = "sunny improve miss token win able desk capable sorry lazy truck midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "release before yard rescue pigeon hammer lake future labor dance assist forget";
+var mnemonic = "knife thumb age peace hint unfair pass list mobile increase public will";

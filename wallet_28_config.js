@@ -1,1 +1,1 @@
-var mnemonic = "venture garlic slush believe agree keen sausage series tiger coil wagon fire";
+var mnemonic = "mule point country lock scare depart casual cheese annual mule forward buddy";

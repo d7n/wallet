@@ -1,1 +1,1 @@
-var mnemonic = "ketchup orange gesture across either smoke stick citizen citizen soon train endorse";
+var mnemonic = "capital sorry flight nest assault term absent stairs supreme mad river fish";

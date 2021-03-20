@@ -1,1 +1,1 @@
-var mnemonic = "gasp off range relax hawk more draft survey aerobic relief mutual drink";
+var mnemonic = "modify dog negative double remove ethics physical concert admit super exile false";

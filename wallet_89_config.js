@@ -1,1 +1,1 @@
-var mnemonic = "wide cherry already raw jealous curve seek law music rescue valley open";
+var mnemonic = "pipe grab east copper elbow helmet flash grocery tide school nation route";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer world opera auction forum detail alter coin strike price casino raven";
+var mnemonic = "alpha onion solid denial photo trumpet grid urge solution swap material chuckle";

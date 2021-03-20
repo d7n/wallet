@@ -1,1 +1,1 @@
-var mnemonic = "easily reward envelope couple surround control pond impulse segment culture trial aim";
+var mnemonic = "effort purse unfair cushion enough ancient tower survey size slush syrup menu";

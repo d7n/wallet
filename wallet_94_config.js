@@ -1,1 +1,1 @@
-var mnemonic = "engage wish happy figure language blush slogan mutual hold spice major jazz";
+var mnemonic = "unit tongue ribbon script polar dragon heavy elegant trash demise ski joy";

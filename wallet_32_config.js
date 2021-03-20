@@ -1,1 +1,1 @@
-var mnemonic = "wheat horse rotate produce cluster aspect sting pluck spend negative market machine";
+var mnemonic = "cricket fetch barrel toddler tuition business moon attack swing edit magnet lady";

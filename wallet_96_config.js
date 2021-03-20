@@ -1,1 +1,1 @@
-var mnemonic = "across mosquito radar include syrup icon year advance above gain mouse rule";
+var mnemonic = "more stuff twenty message gift dignity thank siren bike alone when vehicle";

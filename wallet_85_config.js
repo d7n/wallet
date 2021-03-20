@@ -1,1 +1,1 @@
-var mnemonic = "cram fabric bubble seminar disagree beauty absurd stairs crazy female shine unable";
+var mnemonic = "planet hollow heavy sunset snap call unusual right sell brain glide submit";

@@ -1,1 +1,1 @@
-var mnemonic = "box ocean survey ceiling anxiety phone alarm media narrow relief flush spoon";
+var mnemonic = "brave slush own stone arrow prepare mechanic loyal fresh inquiry attend march";

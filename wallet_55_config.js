@@ -1,1 +1,1 @@
-var mnemonic = "casual woman ridge flash ten penalty message stand wasp shaft pond best";
+var mnemonic = "enable ugly general draw stereo copper brain effort solve exchange frog spray";

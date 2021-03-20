@@ -1,1 +1,1 @@
-var mnemonic = "age section quiz truth usage guard light table wood visa they enlist";
+var mnemonic = "book december habit knee glimpse curve shoot accuse property tower furnace syrup";

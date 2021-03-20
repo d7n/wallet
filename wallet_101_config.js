@@ -1,1 +1,1 @@
-var mnemonic = "divide code alley comic bronze mass unfair health lunar spider width romance";
+var mnemonic = "brave visual degree history achieve nation notable flower hope vendor carry maple";

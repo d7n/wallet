@@ -1,1 +1,1 @@
-var mnemonic = "length brush buffalo champion tribe teach chief blanket race clap brass ostrich";
+var mnemonic = "omit federal exotic soup embody liquid ripple upon hockey false narrow glass";

@@ -1,1 +1,1 @@
-var mnemonic = "august aunt three rough journey brief accuse hazard vast dose opera flat";
+var mnemonic = "buyer switch total survey brick wrong game banana artist minute disagree decade";
