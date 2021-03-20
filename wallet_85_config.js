@@ -1,1 +1,1 @@
-var mnemonic = "peace abandon film meadow oppose will happy garlic urge parent bread lesson";
+var mnemonic = "monkey life nominee bird hold jungle hard february cabin success stomach grape";

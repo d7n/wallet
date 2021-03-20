@@ -1,1 +1,1 @@
-var mnemonic = "wedding govern divert pond afford noble just member tide noble aware garment";
+var mnemonic = "use legal system total theory cushion tower noble fossil cattle exchange vast";

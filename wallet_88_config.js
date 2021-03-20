@@ -1,1 +1,1 @@
-var mnemonic = "juice dune extra glass arctic name symptom acquire section once wash update";
+var mnemonic = "skate drink agree write oak cactus chef humble job enroll tattoo stove";

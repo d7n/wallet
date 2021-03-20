@@ -1,1 +1,1 @@
-var mnemonic = "observe clerk thank fruit skin december old soda version can outer soldier";
+var mnemonic = "believe shadow gym vintage narrow hamster omit senior animal empty upset rate";

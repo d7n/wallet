@@ -1,1 +1,1 @@
-var mnemonic = "filter earth hope hill goose enact detect rude owner minute bomb expose";
+var mnemonic = "crucial leopard drink trumpet title one marble abandon window strong begin bus";

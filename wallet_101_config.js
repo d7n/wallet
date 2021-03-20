@@ -1,1 +1,1 @@
-var mnemonic = "van author title chest write october leopard marine vibrant draft version flip";
+var mnemonic = "capital submit switch sentence afraid lottery coffee area slender small void sun";

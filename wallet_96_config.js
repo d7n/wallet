@@ -1,1 +1,1 @@
-var mnemonic = "project gasp pitch violin million piece bullet nasty refuse uphold stage hover";
+var mnemonic = "palace bitter repeat print soft scheme group buzz income hamster rich holiday";

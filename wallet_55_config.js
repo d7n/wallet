@@ -1,1 +1,1 @@
-var mnemonic = "biology diagram embrace pulse middle column memory retreat very island hollow diesel";
+var mnemonic = "scale service obscure urban draft juice evoke brisk prosper carry mansion student";

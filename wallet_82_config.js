@@ -1,1 +1,1 @@
-var mnemonic = "settle genre loan author problem glimpse match pepper medal april short artefact";
+var mnemonic = "banana device ill okay oppose zoo under solve patient anchor champion will";

@@ -1,1 +1,1 @@
-var mnemonic = "divert weapon grocery zone umbrella renew chalk pattern together review slim bundle";
+var mnemonic = "know voice pilot cricket begin original shove total screen nation witness hundred";

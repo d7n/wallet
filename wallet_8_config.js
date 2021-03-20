@@ -1,1 +1,1 @@
-var mnemonic = "salmon hungry begin fine key stamp session decide merge wrestle subject olympic";
+var mnemonic = "luxury chunk come jewel yellow bracket flush energy bone cry jacket ocean";

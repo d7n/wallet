@@ -1,1 +1,1 @@
-var mnemonic = "poem baby vapor mistake music practice raise zone sorry mirror brain width";
+var mnemonic = "weapon quarter blue ride sustain still skate flash retire prevent ready try";

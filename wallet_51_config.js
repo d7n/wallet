@@ -1,1 +1,1 @@
-var mnemonic = "core liberty fashion equip genius enter service cheap plunge lock token game";
+var mnemonic = "kite already belt strike inject planet number tissue vessel dream update gain";

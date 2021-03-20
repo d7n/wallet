@@ -1,1 +1,1 @@
-var mnemonic = "race panther hand pig picture spider test accuse absorb soup ability party";
+var mnemonic = "purchase bronze wealth deer name ship reopen already salad unlock wagon forget";

@@ -1,1 +1,1 @@
-var mnemonic = "increase inject sibling similar still motion ask upon error force obey convince";
+var mnemonic = "jungle casual collect bachelor possible upper witness vocal thunder panther this follow";

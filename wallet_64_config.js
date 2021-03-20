@@ -1,1 +1,1 @@
-var mnemonic = "decrease escape obscure picnic ugly essay over train taxi crowd hover food";
+var mnemonic = "funny there flavor useful purity nose bitter ripple figure perfect bounce sail";

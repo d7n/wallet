@@ -1,1 +1,1 @@
-var mnemonic = "network grocery clutch page danger critic captain captain dawn risk keep kitten";
+var mnemonic = "destroy jewel flip vintage finish maid stay mushroom chicken spoil glimpse hard";

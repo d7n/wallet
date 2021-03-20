@@ -1,1 +1,1 @@
-var mnemonic = "card address love pink body cricket better maximum earn loyal decade cry";
+var mnemonic = "response expire river fuel umbrella element cost ivory knife east act pole";

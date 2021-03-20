@@ -1,1 +1,1 @@
-var mnemonic = "fire rapid blossom mercy tunnel warm dutch stem cat raise script cruise";
+var mnemonic = "comfort disagree special shove genuine knee fold answer anxiety bread level hobby";

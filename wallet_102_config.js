@@ -1,1 +1,1 @@
-var mnemonic = "battle snap security cram acid twenty trigger chapter question neutral play then";
+var mnemonic = "bundle fiction pig hello enter theory update nut mix build ordinary imitate";

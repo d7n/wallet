@@ -1,1 +1,1 @@
-var mnemonic = "good tank opera avoid vapor rapid jacket flower size obvious album release";
+var mnemonic = "weird reject drop relief spare dose rose uncover romance film harvest guess";

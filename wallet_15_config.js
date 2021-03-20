@@ -1,1 +1,1 @@
-var mnemonic = "exhaust kiwi leopard squeeze become fat try arch cradle monkey wealth process";
+var mnemonic = "artefact wave father defense limit boil roof then height curve lumber dumb";

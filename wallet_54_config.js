@@ -1,1 +1,1 @@
-var mnemonic = "search bid sleep negative gospel strategy what cancel february slow okay pair";
+var mnemonic = "side rain then paper test blur side tomato reunion wage where kind";

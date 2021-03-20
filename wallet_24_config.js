@@ -1,1 +1,1 @@
-var mnemonic = "april perfect jeans border royal woman surprise attract clerk mistake venture cry";
+var mnemonic = "rebel aunt fancy dash dynamic burger attend deputy vapor gasp melody bargain";

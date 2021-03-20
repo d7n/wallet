@@ -1,1 +1,1 @@
-var mnemonic = "casino hazard argue fold easy region menu quote shop state section project";
+var mnemonic = "organ spice join digital bus plate define story town target million super";

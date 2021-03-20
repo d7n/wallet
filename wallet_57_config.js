@@ -1,1 +1,1 @@
-var mnemonic = "drill keep baby stand sword era staff property return thrive purse acoustic";
+var mnemonic = "large vault danger lunar lake salad car crush route dignity account horror";

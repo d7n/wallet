@@ -1,1 +1,1 @@
-var mnemonic = "pepper drink collect eye clog ring dentist injury august law thought fever";
+var mnemonic = "dream word retreat remove scatter glow noble enough poet twist siren art";

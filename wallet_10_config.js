@@ -1,1 +1,1 @@
-var mnemonic = "unknown wear tilt mouse shallow eight field concert system base stadium slush";
+var mnemonic = "vague paddle elephant foot flag relax silver mule write win invite height";

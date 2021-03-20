@@ -1,1 +1,1 @@
-var mnemonic = "embrace grace coffee goose usage cabbage identify average predict dry climb high";
+var mnemonic = "title include polar switch park miracle hair tree umbrella october tooth square";

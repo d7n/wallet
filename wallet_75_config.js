@@ -1,1 +1,1 @@
-var mnemonic = "resemble hub kid slim witness teach melt reject ladder destroy ill conduct";
+var mnemonic = "place start shuffle interest spy sugar enter egg harsh own critic dirt";

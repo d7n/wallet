@@ -1,1 +1,1 @@
-var mnemonic = "rely arrive option harsh marble concert fat clay fog render picnic pink";
+var mnemonic = "mechanic myself stone ivory judge provide perfect glare dial wrap liquid festival";

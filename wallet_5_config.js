@@ -1,1 +1,1 @@
-var mnemonic = "collect bread pole quality ten diamond doctor jazz same find heavy very";
+var mnemonic = "person when ankle dose job mad raccoon among mesh history west thought";

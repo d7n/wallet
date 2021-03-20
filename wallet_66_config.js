@@ -1,1 +1,1 @@
-var mnemonic = "chimney plug emerge fall change icon room dutch cargo magnet devote rival";
+var mnemonic = "vibrant boss ivory dynamic gloom service matter soup candy define peace input";

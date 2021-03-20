@@ -1,1 +1,1 @@
-var mnemonic = "muffin wolf wolf bless draw safe lava defy country gallery cluster sad";
+var mnemonic = "salad wave brisk wrap pattern strike jealous blouse mouse modify kind disorder";

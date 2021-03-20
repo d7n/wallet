@@ -1,1 +1,1 @@
-var mnemonic = "cram world pistol broken patient now gift husband cover year umbrella rail";
+var mnemonic = "surface solution leopard parade angry essay magic paper cattle learn peasant machine";

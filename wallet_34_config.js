@@ -1,1 +1,1 @@
-var mnemonic = "average lawsuit fix poverty lunch fury possible pattern cheese orient analyst parade";
+var mnemonic = "tip drum charge assist access edit wall hazard joy load skill rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "tent blind among drum soft uncover vital genius anchor achieve priority fix";
+var mnemonic = "setup letter menu receive blanket skate attack cricket supply denial laptop penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "silk nurse grass scrub crisp town version this brown rare float unit";
+var mnemonic = "express rough mask also letter flag lake shiver ability veteran skill village";

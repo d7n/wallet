@@ -1,1 +1,1 @@
-var mnemonic = "finish coast ancient cage please raven ill post light bless repeat panel";
+var mnemonic = "analyst useless snow weasel brief trip feature club share parrot claim urge";

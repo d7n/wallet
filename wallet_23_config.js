@@ -1,1 +1,1 @@
-var mnemonic = "science moral bike paddle grow wheel plate beef brush liar gap topic";
+var mnemonic = "angle weasel license merge wedding tourist flip ginger want toe doctor prosper";

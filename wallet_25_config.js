@@ -1,1 +1,1 @@
-var mnemonic = "usual father struggle safe accident speak cage jealous essence snake fiction logic";
+var mnemonic = "chef skirt domain sugar weird panda kit decline tattoo swallow magnet twist";

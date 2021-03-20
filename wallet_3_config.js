@@ -1,1 +1,1 @@
-var mnemonic = "auto village pull session dilemma mean hand talent royal veteran farm mammal";
+var mnemonic = "sheriff quiz possible antique course maximum blur life half minute vote type";

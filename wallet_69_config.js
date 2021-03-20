@@ -1,1 +1,1 @@
-var mnemonic = "snow foster panda wave today sight question acoustic fall siege priority service";
+var mnemonic = "good nephew fossil lion cupboard crane ten toilet unlock local swap message";

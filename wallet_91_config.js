@@ -1,1 +1,1 @@
-var mnemonic = "shadow borrow young neutral month climb tattoo easily three produce damage pledge";
+var mnemonic = "average decade engine spread hover kid impose mass loan bridge stone siege";

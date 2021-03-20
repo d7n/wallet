@@ -1,1 +1,1 @@
-var mnemonic = "tilt chicken tiny chief transfer around remind olive nominee powder sketch maid";
+var mnemonic = "kit damp office innocent noise above wagon result tired path work radar";

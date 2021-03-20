@@ -1,1 +1,1 @@
-var mnemonic = "clog truck number barrel recycle banner extend ticket wood faint word proud";
+var mnemonic = "myth spy fun indicate engine immense awful crouch below aisle give call";

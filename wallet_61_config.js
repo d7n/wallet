@@ -1,1 +1,1 @@
-var mnemonic = "predict middle release that deposit neither bunker common oyster sort expect raven";
+var mnemonic = "relief catch gorilla sting panic stereo goddess whisper vocal elbow guard warm";

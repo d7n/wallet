@@ -1,1 +1,1 @@
-var mnemonic = "senior shy focus camera over punch human hamster elevator brand heavy believe";
+var mnemonic = "similar car insane cushion debris horn midnight dismiss series symptom birth empty";

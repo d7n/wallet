@@ -1,1 +1,1 @@
-var mnemonic = "diamond local gown meadow digital umbrella denial say soap pigeon trigger erupt";
+var mnemonic = "case true vault case hollow punch broken recall traffic avoid mask super";

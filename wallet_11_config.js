@@ -1,1 +1,1 @@
-var mnemonic = "region plug refuse illness oyster chief daring protect manage busy ostrich ecology";
+var mnemonic = "rally grit vicious prosper story option auction scout among peasant humor image";

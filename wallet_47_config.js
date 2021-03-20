@@ -1,1 +1,1 @@
-var mnemonic = "yellow toilet aware degree loop search nephew setup grunt layer celery happy";
+var mnemonic = "icon humor luggage clutch vintage traffic mushroom sock deposit royal deer eagle";

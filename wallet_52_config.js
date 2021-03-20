@@ -1,1 +1,1 @@
-var mnemonic = "hire hurt venue perfect cake pattern promote left addict crazy question strike";
+var mnemonic = "corn special hover identify again expect nasty tooth pig isolate flower layer";

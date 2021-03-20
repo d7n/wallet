@@ -1,1 +1,1 @@
-var mnemonic = "problem account nation artefact nothing toward bubble brass enemy provide remind glad";
+var mnemonic = "trust hockey jealous have chicken outside oppose champion baby atom roast symptom";

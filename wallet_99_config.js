@@ -1,1 +1,1 @@
-var mnemonic = "exact antique viable job olympic hood similar gesture bar onion argue begin";
+var mnemonic = "crowd exile exit peanut sand sport quit follow pluck neck alpha grid";

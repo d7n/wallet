@@ -1,1 +1,1 @@
-var mnemonic = "room wisdom obtain april tiny when maid whip bronze year eight sustain";
+var mnemonic = "mixed umbrella lens quantum knock pupil pyramid middle elephant novel bike bundle";

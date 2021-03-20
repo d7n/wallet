@@ -1,1 +1,1 @@
-var mnemonic = "major tree fetch situate ski celery educate hope chuckle bitter field onion";
+var mnemonic = "trick volume brain sniff team canoe soft boring drink oil kiss remove";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal surface law unique basic goose pilot segment isolate mercy warm cattle";
+var mnemonic = "wine enjoy access random metal element identify slot exotic like clay together";

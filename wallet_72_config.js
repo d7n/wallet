@@ -1,1 +1,1 @@
-var mnemonic = "humor trade song rebel slim fetch tent current this business pass insect";
+var mnemonic = "supreme ice usage half cool behind track shoulder taxi find consider ignore";

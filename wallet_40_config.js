@@ -1,1 +1,1 @@
-var mnemonic = "depend mother dove control shop despair attend post anchor rose ceiling flame";
+var mnemonic = "student wear embrace wasp grace flight coil cool scare team joke guard";

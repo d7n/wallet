@@ -1,1 +1,1 @@
-var mnemonic = "coyote eternal switch two victory slight slide buddy term main social text";
+var mnemonic = "unable fiscal kitten steak then ghost wife material dilemma blade finish box";

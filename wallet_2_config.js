@@ -1,1 +1,1 @@
-var mnemonic = "grant venture absurd endorse benefit minimum quiz require afraid stick term protect";
+var mnemonic = "twice mask amused achieve flash pave sting start point urban legal dilemma";

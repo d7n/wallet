@@ -1,1 +1,1 @@
-var mnemonic = "asthma wire swear unique someone skill regret core eye awake sweet fall";
+var mnemonic = "concert dutch opinion odor say galaxy sphere subway tribe stuff stumble aerobic";

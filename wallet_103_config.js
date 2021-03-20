@@ -1,1 +1,1 @@
-var mnemonic = "brave canyon like there drop machine feed bottom claim weekend social stick";
+var mnemonic = "spot crawl post moment segment donate foot equal wool near glove latin";

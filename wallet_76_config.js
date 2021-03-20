@@ -1,1 +1,1 @@
-var mnemonic = "cover more pulse doctor blame zebra grape subject turkey scorpion track palace";
+var mnemonic = "diamond embrace story exotic glad pig maid either gold refuse seat patient";

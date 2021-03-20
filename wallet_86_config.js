@@ -1,1 +1,1 @@
-var mnemonic = "inform pulse person connect admit horn silk tennis hamster sun spring decide";
+var mnemonic = "income opera reunion hat draw file leopard clarify soldier salt hurdle artwork";

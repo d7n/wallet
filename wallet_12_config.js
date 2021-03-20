@@ -1,1 +1,1 @@
-var mnemonic = "decorate unlock fashion planet crazy wink chest sort essay main mansion enrich";
+var mnemonic = "salt return capable badge weird volcano urge bachelor tilt fiscal reveal little";

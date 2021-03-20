@@ -1,1 +1,1 @@
-var mnemonic = "hollow stereo rose scout essence chuckle east air diary void upset insane";
+var mnemonic = "abandon disagree pitch shoulder huge service degree remove toddler fabric repair route";

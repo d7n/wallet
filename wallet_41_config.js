@@ -1,1 +1,1 @@
-var mnemonic = "village awesome fog regret gesture melody indicate salon hill come actor stone";
+var mnemonic = "domain thank blouse lawn core body horse badge present memory wealth stool";

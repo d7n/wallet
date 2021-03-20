@@ -1,1 +1,1 @@
-var mnemonic = "rain claim change history hover parent country celery test before large plastic";
+var mnemonic = "response chuckle hope much rubber corn urge vacuum blame reform fabric yellow";

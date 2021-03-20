@@ -1,1 +1,1 @@
-var mnemonic = "myth around eager together master october rate tooth live leader stereo like";
+var mnemonic = "bachelor sad coin fruit safe hill hub good host era whisper corn";

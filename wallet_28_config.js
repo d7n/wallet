@@ -1,1 +1,1 @@
-var mnemonic = "grunt crazy brave jelly own bird body seven exist special result moral";
+var mnemonic = "box blush fame dismiss stick saddle hand dentist negative amazing waste dove";

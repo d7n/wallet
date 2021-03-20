@@ -1,1 +1,1 @@
-var mnemonic = "dance senior young rose crunch abandon sign relief company skate recipe region";
+var mnemonic = "chicken ketchup endless nut art turtle poet frozen sight forum face dial";

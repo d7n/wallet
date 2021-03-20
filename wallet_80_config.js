@@ -1,1 +1,1 @@
-var mnemonic = "define flavor nominee engine town sting visa upset symbol crew ski degree";
+var mnemonic = "sell market army museum enter satoshi result tumble about bleak close victory";

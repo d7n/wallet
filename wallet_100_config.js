@@ -1,1 +1,1 @@
-var mnemonic = "pair fat rare never thunder smart total silly garage album city city";
+var mnemonic = "produce fork velvet leave frame melt wheat abandon leisure repair around step";

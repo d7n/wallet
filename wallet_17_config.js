@@ -1,1 +1,1 @@
-var mnemonic = "harvest pizza lumber salt seat auction sugar forget olympic hedgehog barely whale";
+var mnemonic = "amused hospital speak stone tortoise rail oblige ill dog shoulder time turkey";

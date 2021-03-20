@@ -1,1 +1,1 @@
-var mnemonic = "athlete mercy bachelor endless language suspect build orphan damp daughter ketchup polar";
+var mnemonic = "drive snake such educate rain warrior regret climb rubber dust hurdle curious";

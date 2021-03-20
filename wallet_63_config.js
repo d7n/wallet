@@ -1,1 +1,1 @@
-var mnemonic = "champion year wife post mouse main pen light bundle easy slight patch";
+var mnemonic = "miracle smooth candy border craft plastic enforce tide march process work cabin";

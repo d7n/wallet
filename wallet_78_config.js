@@ -1,1 +1,1 @@
-var mnemonic = "announce fitness bunker enrich ritual crazy aisle welcome ozone win since entire";
+var mnemonic = "client chaos emotion initial riot mammal addict mass camera pulse famous wink";

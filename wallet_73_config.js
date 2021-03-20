@@ -1,1 +1,1 @@
-var mnemonic = "absorb negative august asset learn vapor insect convince ankle usage below choose";
+var mnemonic = "breeze address predict title hen taste accuse equal catalog twice brain armor";

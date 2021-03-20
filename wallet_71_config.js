@@ -1,1 +1,1 @@
-var mnemonic = "gravity marine erase divide bargain leave wrap badge hospital glow canvas lucky";
+var mnemonic = "shrimp antique cart lemon aim exclude sunset drastic clutch number december educate";

@@ -1,1 +1,1 @@
-var mnemonic = "race point unknown fix love jeans before rally van flavor final exhaust";
+var mnemonic = "adjust emerge replace carbon squeeze rude desert vanish laundry argue core unique";

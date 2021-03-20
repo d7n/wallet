@@ -1,1 +1,1 @@
-var mnemonic = "mutual rich start stable response lecture lunar phone tiny unfold result conduct";
+var mnemonic = "glove bean fantasy moon dizzy awful put speak initial observe off alert";

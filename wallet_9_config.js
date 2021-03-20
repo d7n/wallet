@@ -1,1 +1,1 @@
-var mnemonic = "soup flush also reward success yard bird enter earn body income destroy";
+var mnemonic = "ensure panic person draft radio month decline cabbage desert wire flag fruit";

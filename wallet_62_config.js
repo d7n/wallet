@@ -1,1 +1,1 @@
-var mnemonic = "eagle april dice gesture deal insect toward short twenty cannon globe beef";
+var mnemonic = "coast erode regret pass fit camp mule drastic bag vital general hazard";

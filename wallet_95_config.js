@@ -1,1 +1,1 @@
-var mnemonic = "version cushion wolf ankle soon desert drip noble royal beach duty excite";
+var mnemonic = "thunder crop image solid please rail worth symbol vague burst display ice";

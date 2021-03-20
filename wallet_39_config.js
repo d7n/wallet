@@ -1,1 +1,1 @@
-var mnemonic = "peasant stick focus lyrics disorder gas live powder title april toy become";
+var mnemonic = "link fragile banner resemble document idle major media skin sibling search orbit";

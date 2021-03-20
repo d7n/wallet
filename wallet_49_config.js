@@ -1,1 +1,1 @@
-var mnemonic = "that drill segment prevent song toe just end cargo neck own wool";
+var mnemonic = "fit genius recycle kiwi park project unique menu inject emotion wrestle miracle";

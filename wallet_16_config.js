@@ -1,1 +1,1 @@
-var mnemonic = "spawn donkey under jaguar wrestle capital crystal town shaft tattoo supply tube";
+var mnemonic = "short eagle tourist glue junk river nation horn draft remind holiday love";

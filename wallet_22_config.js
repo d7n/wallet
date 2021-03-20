@@ -1,1 +1,1 @@
-var mnemonic = "elite reopen cream thrive picnic load sell denial moon crucial fan settle";
+var mnemonic = "garden public lottery chimney artefact frame cloud kit saddle awkward antique sugar";

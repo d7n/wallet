@@ -1,1 +1,1 @@
-var mnemonic = "pet tomato tool warm penalty garden photo base veteran sausage banana wage";
+var mnemonic = "maid memory feature right rival ignore clip pupil now wave idle quantum";
