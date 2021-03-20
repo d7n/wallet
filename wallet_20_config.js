@@ -1,1 +1,1 @@
-var mnemonic = "final clinic vague chronic promote soccer planet agree flower habit series gate";
+var mnemonic = "certain sort tiny garage baby erosion give token any regret person divert";

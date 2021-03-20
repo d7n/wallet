@@ -1,1 +1,1 @@
-var mnemonic = "bubble scrub mandate then essay mail peanut witness talk allow bunker dad";
+var mnemonic = "upset erosion river peace iron runway afraid session favorite help drama program";

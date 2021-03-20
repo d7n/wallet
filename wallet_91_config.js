@@ -1,1 +1,1 @@
-var mnemonic = "razor sheriff ahead muffin cherry tray monitor entire artwork coral promote spawn";
+var mnemonic = "caught salad prefer gallery secret fringe reject raise party faith heart tail";

@@ -1,1 +1,1 @@
-var mnemonic = "joke gym average dilemma deal describe member force chat term diagram weird";
+var mnemonic = "lawn quantum ugly practice glide alcohol symptom tragic cheese pledge outdoor addict";

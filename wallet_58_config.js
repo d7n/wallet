@@ -1,1 +1,1 @@
-var mnemonic = "glass purpose impulse hub electric media chair intact accuse enact panda armor";
+var mnemonic = "ceiling roof claim appear exotic quiz three fish cage behave sausage float";

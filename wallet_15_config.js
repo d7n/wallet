@@ -1,1 +1,1 @@
-var mnemonic = "mammal lemon right clerk eight hobby wild joke toward tribe cry repeat";
+var mnemonic = "dish paper until arrest field concert term youth wisdom feel isolate rifle";

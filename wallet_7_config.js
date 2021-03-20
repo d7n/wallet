@@ -1,1 +1,1 @@
-var mnemonic = "wagon potato hero thought either glad sun hawk define donate few wire";
+var mnemonic = "alcohol gravity fever kidney head orange coyote almost era snack pepper unveil";

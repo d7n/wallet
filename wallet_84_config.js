@@ -1,1 +1,1 @@
-var mnemonic = "alcohol ritual benefit family ticket great improve resist file fan strong clinic";
+var mnemonic = "twenty food latin over amazing animal laugh where dune current recycle wheat";

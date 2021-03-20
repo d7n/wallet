@@ -1,1 +1,1 @@
-var mnemonic = "design gown elite raven response olive staff gesture empower brick physical hamster";
+var mnemonic = "traffic mixed fit woman above hammer drive ripple another soldier hazard exotic";

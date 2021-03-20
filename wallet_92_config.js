@@ -1,1 +1,1 @@
-var mnemonic = "end pelican purchase occur spoil food use turn position hammer gaze repeat";
+var mnemonic = "pen fire odor plate alter tilt trash dose steel attract fancy file";

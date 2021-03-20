@@ -1,1 +1,1 @@
-var mnemonic = "fatigue cluster eagle mesh poet ice drink rack rescue marine response heart";
+var mnemonic = "harbor report write type aunt casual guess antique enough cake upon dose";

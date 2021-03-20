@@ -1,1 +1,1 @@
-var mnemonic = "approve use evil glimpse together vibrant robust remind stamp hill skirt girl";
+var mnemonic = "second river prepare traffic icon retire field trouble right finish push suit";

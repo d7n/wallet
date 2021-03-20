@@ -1,1 +1,1 @@
-var mnemonic = "garbage planet critic small enrich surprise purse latin urban hint control identify";
+var mnemonic = "move own elder appear want design taxi section begin cloth impose purity";

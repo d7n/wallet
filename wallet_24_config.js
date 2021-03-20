@@ -1,1 +1,1 @@
-var mnemonic = "nuclear tray surge avocado will travel initial today idea predict leopard festival";
+var mnemonic = "scissors hedgehog funny rebuild dynamic unknown green figure awkward negative enemy bar";

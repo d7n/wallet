@@ -1,1 +1,1 @@
-var mnemonic = "donate cart remember effort okay famous quarter urge ancient panic dolphin panda";
+var mnemonic = "race collect current noise churn arrive margin hurry decide degree logic spend";

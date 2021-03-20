@@ -1,1 +1,1 @@
-var mnemonic = "habit tribe seven confirm away echo fold oven always hen wall virtual";
+var mnemonic = "nose illegal dwarf high analyst castle ridge cake kid leg entry super";

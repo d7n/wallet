@@ -1,1 +1,1 @@
-var mnemonic = "purchase latin marriage screen bundle assist shift work ankle bullet math eyebrow";
+var mnemonic = "weapon stadium around detect seat mind scorpion antique range praise duty pill";

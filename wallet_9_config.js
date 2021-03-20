@@ -1,1 +1,1 @@
-var mnemonic = "patient barrel cart marble birth trip dash december better train wrap noise";
+var mnemonic = "fall frost oven peanut crop method odor gloom toss protect priority quantum";

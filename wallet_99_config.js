@@ -1,1 +1,1 @@
-var mnemonic = "pupil hawk vacant praise club sell term strategy grant fancy make gown";
+var mnemonic = "city coast silk swap lazy mix capital frozen warm observe despair reform";

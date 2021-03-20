@@ -1,1 +1,1 @@
-var mnemonic = "royal edit april arctic genre flower inherit select album exist mutual wreck";
+var mnemonic = "daughter teach empty august recycle voyage rice any corn vocal spare merry";

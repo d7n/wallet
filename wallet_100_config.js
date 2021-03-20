@@ -1,1 +1,1 @@
-var mnemonic = "arch leg spin electric traffic modify impose behind execute clarify clown chicken";
+var mnemonic = "buddy again jaguar rate thunder fall truck pill ride draw author riot";

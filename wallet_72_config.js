@@ -1,1 +1,1 @@
-var mnemonic = "rhythm dolphin tuna among aunt broom daring obey peanut arena wink couple";
+var mnemonic = "kind era vault hedgehog scrub shine citizen finish crop damp leaf chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "interest casino buyer million orient broom galaxy dice shoot push buzz correct";
+var mnemonic = "armed you torch good easy embody grant local among they engage task";

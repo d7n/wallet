@@ -1,1 +1,1 @@
-var mnemonic = "embody badge brown blush snap host giggle liquid obvious target palace keep";
+var mnemonic = "man rug peanut word emotion input label web accident also bike bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "faint normal sauce priority shy illness candy credit trust crop judge neutral";
+var mnemonic = "satisfy cost organ dirt retire neck innocent strike glove steak jazz replace";

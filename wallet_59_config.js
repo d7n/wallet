@@ -1,1 +1,1 @@
-var mnemonic = "normal bracket purpose pony exist term caught beyond ladder vanish bulk spice";
+var mnemonic = "few test spray ahead inhale observe elephant develop then dolphin thank daring";

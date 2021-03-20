@@ -1,1 +1,1 @@
-var mnemonic = "moon manage anchor poverty artist candy derive agree chat rent layer hurdle";
+var mnemonic = "jazz horn base imitate wing timber remember dentist install course trip display";

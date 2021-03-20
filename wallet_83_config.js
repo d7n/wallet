@@ -1,1 +1,1 @@
-var mnemonic = "click hockey turtle neck hidden execute cram prepare wave worry run grunt";
+var mnemonic = "upset cream cancel lucky globe purchase owner melt script stamp topic ice";

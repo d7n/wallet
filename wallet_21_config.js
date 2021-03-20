@@ -1,1 +1,1 @@
-var mnemonic = "off tunnel marble kangaroo market universe lounge friend clog merry vehicle budget";
+var mnemonic = "lake noodle another install village embrace wealth depend resist segment hundred nature";

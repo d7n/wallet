@@ -1,1 +1,1 @@
-var mnemonic = "venue easily gap mosquito material aunt fitness autumn caution resemble kid tank";
+var mnemonic = "lizard capable drama bounce bulk random wall warm pyramid wisdom size clarify";

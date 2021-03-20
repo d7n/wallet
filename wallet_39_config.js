@@ -1,1 +1,1 @@
-var mnemonic = "toss bright middle gorilla slow guitar empower entry ecology trigger near very";
+var mnemonic = "talent alcohol equip candy lunch power arrest buyer panther powder curtain recipe";

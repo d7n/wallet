@@ -1,1 +1,1 @@
-var mnemonic = "guilt hospital bus gorilla wise dinosaur butter apology shift brush aim fee";
+var mnemonic = "analyst warfare vapor able consider depart check sniff magnet shrimp december cheese";

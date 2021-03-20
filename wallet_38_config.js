@@ -1,1 +1,1 @@
-var mnemonic = "door brush alter magic ordinary humble trust shrug anger figure snack remember";
+var mnemonic = "critic pulse code gadget escape fork already initial select nerve lawsuit custom";

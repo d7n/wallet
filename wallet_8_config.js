@@ -1,1 +1,1 @@
-var mnemonic = "proof final you similar animal limb cube horn oval bridge adjust era";
+var mnemonic = "during chunk staff adapt bubble awkward mercy make sun bread debris spare";

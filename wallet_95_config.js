@@ -1,1 +1,1 @@
-var mnemonic = "hospital person auto allow december ancient gain monitor deliver nut panel divide";
+var mnemonic = "route topple excite sell solid learn control blood bring picnic swear sure";

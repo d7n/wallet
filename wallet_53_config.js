@@ -1,1 +1,1 @@
-var mnemonic = "bulk icon wedding cluster salmon trap thunder wash acoustic another bring brush";
+var mnemonic = "brass say remove vehicle olympic pretty journey crawl absent smooth treat tornado";

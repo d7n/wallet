@@ -1,1 +1,1 @@
-var mnemonic = "magic match hour write glass actor undo glide gesture above fragile close";
+var mnemonic = "comic zone rebuild dawn rare calm pupil crazy label donor bottom roast";

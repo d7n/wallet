@@ -1,1 +1,1 @@
-var mnemonic = "dust connect find elite learn weather include brown cannon author teach office";
+var mnemonic = "wave urban wheel east ocean menu purse media street once this jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz stem hero believe copper essay century silly dizzy high crowd toe";
+var mnemonic = "worth frozen artefact school hammer garment clog error bar bounce purpose planet";

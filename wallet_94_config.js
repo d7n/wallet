@@ -1,1 +1,1 @@
-var mnemonic = "blossom moment height problem coil brother assault domain become just erupt brisk";
+var mnemonic = "gasp loop impact embark woman device protect sweet evolve beach element destroy";

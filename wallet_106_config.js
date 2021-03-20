@@ -1,1 +1,1 @@
-var mnemonic = "theory index diamond furnace shed combine scrub hill surprise excess glance circle";
+var mnemonic = "walnut cattle weather shift injury bread cat garden oven control that law";

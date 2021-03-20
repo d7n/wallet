@@ -1,1 +1,1 @@
-var mnemonic = "cheap bid conduct hand mass boost assist boss can donor summer amateur";
+var mnemonic = "glare wood you margin expand neither veteran deny fine primary infant apology";

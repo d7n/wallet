@@ -1,1 +1,1 @@
-var mnemonic = "gorilla mountain away fade turtle brown action vital gun morning trouble rocket";
+var mnemonic = "put hurry way together boring donate salon youth common angle typical nurse";

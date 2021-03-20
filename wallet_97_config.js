@@ -1,1 +1,1 @@
-var mnemonic = "capable heart zebra rebuild vapor sibling loan glimpse filter modify boil draw";
+var mnemonic = "pudding armor taxi solar promote menu one expand slide risk canoe ring";

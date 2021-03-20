@@ -1,1 +1,1 @@
-var mnemonic = "mean nuclear crystal thought like vessel disagree funny toy noodle joke empower";
+var mnemonic = "retreat cat despair suffer voice hamster relief pig short key baby guitar";

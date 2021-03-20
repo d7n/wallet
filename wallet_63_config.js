@@ -1,1 +1,1 @@
-var mnemonic = "scissors host shrug satisfy point jump margin finger decade twelve mosquito announce";
+var mnemonic = "budget match crisp please silver year vague slender battle tent all today";

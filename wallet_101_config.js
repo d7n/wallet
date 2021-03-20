@@ -1,1 +1,1 @@
-var mnemonic = "social attitude curious behind supreme ecology bind key couple guide father rebuild";
+var mnemonic = "legal day exhaust duck nut peace bridge point lawsuit ripple act protect";

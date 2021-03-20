@@ -1,1 +1,1 @@
-var mnemonic = "leader castle fame long morning feed review barrel veteran federal novel inherit";
+var mnemonic = "right safe mask evolve excess actor fit wool cost initial cinnamon novel";

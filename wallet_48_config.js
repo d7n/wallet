@@ -1,1 +1,1 @@
-var mnemonic = "scale will virus rebel marine depart this quick exact surprise screen galaxy";
+var mnemonic = "stereo sense have drop guard silent spawn truly provide maid put scissors";

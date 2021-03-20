@@ -1,1 +1,1 @@
-var mnemonic = "firm retreat torch skull maid glue oak honey panda acid muscle feature";
+var mnemonic = "slight flee dash bamboo enter raise heart capital bottom violin prevent ocean";

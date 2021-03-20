@@ -1,1 +1,1 @@
-var mnemonic = "sponsor confirm casino snack bacon desk tuition pave middle dirt three judge";
+var mnemonic = "strong south auction smoke drive cat display culture impose wage mom jazz";

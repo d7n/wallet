@@ -1,1 +1,1 @@
-var mnemonic = "canal strike protect turtle price weird prefer duty garlic void adjust devote";
+var mnemonic = "fence copy belt argue survey ready census make tongue final hidden interest";

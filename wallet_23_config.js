@@ -1,1 +1,1 @@
-var mnemonic = "cupboard reject boy invest disorder ball task culture debate drive angle hundred";
+var mnemonic = "evil actor luggage sense rough abstract swing priority hidden odor erupt domain";

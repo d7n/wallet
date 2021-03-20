@@ -1,1 +1,1 @@
-var mnemonic = "undo street travel hotel pass quantum electric inhale endorse pottery often board";
+var mnemonic = "harsh once tone analyst scorpion prison ladder rich effort meat brief column";

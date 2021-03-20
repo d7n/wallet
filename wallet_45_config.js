@@ -1,1 +1,1 @@
-var mnemonic = "swap success thing devote leader barely rescue garlic shrimp shallow mother ivory";
+var mnemonic = "tourist topic soft isolate tank city mirror nut fly battle chicken door";

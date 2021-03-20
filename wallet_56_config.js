@@ -1,1 +1,1 @@
-var mnemonic = "glory slush clap sure zero early nation eagle sea critic pride company";
+var mnemonic = "much gospel tattoo summer either pole heavy toilet guilt thunder insane panel";

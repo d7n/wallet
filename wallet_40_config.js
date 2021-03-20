@@ -1,1 +1,1 @@
-var mnemonic = "verify horse only balcony wet quote bubble joy famous rookie spatial skull";
+var mnemonic = "alarm odor item farm image paddle symbol aisle lend always daughter scrap";

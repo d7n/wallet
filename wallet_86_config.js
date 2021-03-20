@@ -1,1 +1,1 @@
-var mnemonic = "motion track pond recycle divide cram topple muffin kangaroo replace stone excite";
+var mnemonic = "evoke pair vault ocean exit thumb humble local census boring spray garden";

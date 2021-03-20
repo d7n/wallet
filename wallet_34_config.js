@@ -1,1 +1,1 @@
-var mnemonic = "forget brand barrel come often harvest edit park street legal pottery dinosaur";
+var mnemonic = "impact moon amount kind vessel valley glass mystery energy pudding scrub valley";

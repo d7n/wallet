@@ -1,1 +1,1 @@
-var mnemonic = "guess define alley adult offer drastic effort uniform bid transfer defy isolate";
+var mnemonic = "remain theory excuse cliff snake mouse ten arrive kitchen express random return";

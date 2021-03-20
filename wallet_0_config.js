@@ -1,1 +1,1 @@
-var mnemonic = "aspect isolate mad spirit pair pull evolve iron seed demand weather ghost";
+var mnemonic = "absent stumble used truly gain solar awkward blue flush output jaguar fabric";

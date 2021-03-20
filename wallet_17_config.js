@@ -1,1 +1,1 @@
-var mnemonic = "spot dizzy purse hedgehog rude puppy chief spatial clip legend occur basket";
+var mnemonic = "shrug blade auction grid meat amount obey chaos pencil midnight concert arrest";

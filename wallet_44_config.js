@@ -1,1 +1,1 @@
-var mnemonic = "drama mercy dice rose wave gown bind enjoy sand melody clog drift";
+var mnemonic = "veteran couple relax journey push ahead metal board case filter deny live";

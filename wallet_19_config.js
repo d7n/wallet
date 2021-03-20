@@ -1,1 +1,1 @@
-var mnemonic = "evoke acid good mule inner flame donkey merit there harvest donate series";
+var mnemonic = "culture barrel assume kind voyage machine coyote art figure place lawn steel";

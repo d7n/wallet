@@ -1,1 +1,1 @@
-var mnemonic = "because aerobic reflect museum tiger clerk void champion noise depart oak faint";
+var mnemonic = "pool wrap upgrade away vital thrive vacuum federal muscle apology soap model";

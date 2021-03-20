@@ -1,1 +1,1 @@
-var mnemonic = "family prepare exercise achieve walnut match pink blast gain organ napkin adult";
+var mnemonic = "spin language belt account vital input damage cute wedding tooth hazard trust";

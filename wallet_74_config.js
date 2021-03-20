@@ -1,1 +1,1 @@
-var mnemonic = "update hazard lake spring slam scout crystal fatigue canvas kiwi foil foil";
+var mnemonic = "place grace pill harsh around piece squeeze van people token memory master";

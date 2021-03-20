@@ -1,1 +1,1 @@
-var mnemonic = "until help conduct current pepper jelly team goat pause invite crawl input";
+var mnemonic = "nothing bread always tray grape phrase urban soap reflect topple thunder diagram";

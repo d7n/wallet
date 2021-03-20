@@ -1,1 +1,1 @@
-var mnemonic = "cause glass claw tornado proud bridge lottery surface foster employ kangaroo magnet";
+var mnemonic = "fancy common obscure symptom pen account knife festival nation budget remind flip";

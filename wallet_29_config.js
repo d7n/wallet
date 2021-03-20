@@ -1,1 +1,1 @@
-var mnemonic = "knee review become today bleak orange left scale disorder myself before develop";
+var mnemonic = "improve shock cheap strong switch change twist sample glimpse increase catch swap";

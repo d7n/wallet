@@ -1,1 +1,1 @@
-var mnemonic = "safe nuclear minimum connect youth dry mammal reflect fitness winter large fringe";
+var mnemonic = "funny coast hunt speak orange romance lucky frame just knee net obtain";

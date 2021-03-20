@@ -1,1 +1,1 @@
-var mnemonic = "once shoe erosion coral ordinary kid regret kangaroo focus table year only";
+var mnemonic = "magic female page catch found nut country vehicle coast judge crew body";

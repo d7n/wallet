@@ -1,1 +1,1 @@
-var mnemonic = "donor nation diesel valley public omit type often pelican cloud victory essay";
+var mnemonic = "action swap hold wire emerge frame come whip reopen rate away company";

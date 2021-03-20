@@ -1,1 +1,1 @@
-var mnemonic = "trim trend dose whisper marriage vibrant churn mom answer deliver deliver menu";
+var mnemonic = "floor consider attitude about labor travel render traffic grass salon front solid";

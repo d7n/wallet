@@ -1,1 +1,1 @@
-var mnemonic = "crunch special bench excuse balance dance gather today issue jaguar science dish";
+var mnemonic = "taste axis tattoo dish token air basic hybrid leader retire say ancient";

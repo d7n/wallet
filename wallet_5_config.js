@@ -1,1 +1,1 @@
-var mnemonic = "total describe knock inner lawn digital link poverty steel exhaust economy regular";
+var mnemonic = "author more direct habit reject weasel alley guitar promote guilt middle wagon";

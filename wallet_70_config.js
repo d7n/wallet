@@ -1,1 +1,1 @@
-var mnemonic = "become flame force soft this swarm situate trim wood sick paper churn";
+var mnemonic = "owner myth utility want awkward health penalty betray faint crouch park lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "protect fault coconut improve govern candy result easy inspire myth snake toilet";
+var mnemonic = "build pact gown use slice arrange excite wagon flock alley insect penalty";

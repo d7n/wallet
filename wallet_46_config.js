@@ -1,1 +1,1 @@
-var mnemonic = "cabin clip adult inner purpose virtual glide decline smooth sunset stay ignore";
+var mnemonic = "decrease code bitter dash palm float sense tuna zoo plunge title amazing";

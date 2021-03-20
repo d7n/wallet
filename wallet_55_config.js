@@ -1,1 +1,1 @@
-var mnemonic = "trouble love boy room voice fuel want album mesh once cigar category";
+var mnemonic = "rule close fabric street canvas then divorce canoe make humble vague orbit";

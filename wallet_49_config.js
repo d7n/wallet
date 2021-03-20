@@ -1,1 +1,1 @@
-var mnemonic = "receive earth tennis bitter alone this moon write slow alter hotel address";
+var mnemonic = "typical begin zero right slow cushion scene puzzle adult voice garlic trigger";

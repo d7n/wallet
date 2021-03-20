@@ -1,1 +1,1 @@
-var mnemonic = "cart whisper frame circle model voyage only inmate army hamster write attend";
+var mnemonic = "crash green chronic blouse liar sauce peanut disagree clarify pull globe nest";

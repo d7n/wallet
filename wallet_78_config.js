@@ -1,1 +1,1 @@
-var mnemonic = "model resource travel cable venue current chef air champion salon crouch thought";
+var mnemonic = "hill inherit cube mom vibrant inside manage found mimic virtual planet garage";

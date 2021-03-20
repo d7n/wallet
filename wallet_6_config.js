@@ -1,1 +1,1 @@
-var mnemonic = "miracle tragic husband lawn fix ocean aspect strategy basic glass duty scan";
+var mnemonic = "tennis then agent explain debris rifle miracle benefit permit market endorse index";

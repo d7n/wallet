@@ -1,1 +1,1 @@
-var mnemonic = "goose raise tomato wire cloth bike lend pioneer exclude gesture museum flame";
+var mnemonic = "quarter derive need describe fire normal avoid scene monster open never leisure";

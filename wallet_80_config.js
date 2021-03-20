@@ -1,1 +1,1 @@
-var mnemonic = "oxygen season cube prevent wheel document kite flash sign dilemma cycle round";
+var mnemonic = "flip leader produce task renew scout abuse under labor deny warm absent";

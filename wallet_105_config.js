@@ -1,1 +1,1 @@
-var mnemonic = "forest figure shuffle hurt exist artefact phone park alpha indicate sustain verify";
+var mnemonic = "heavy column youth faith boring purse sweet library manage basket right click";

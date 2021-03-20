@@ -1,1 +1,1 @@
-var mnemonic = "ride polar fossil abuse where tone target panel assist sock success wet";
+var mnemonic = "away prefer dose mask blush reflect emerge angry cattle poet guess recipe";

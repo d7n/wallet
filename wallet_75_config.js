@@ -1,1 +1,1 @@
-var mnemonic = "where honey fence chuckle rocket cluster adjust private hair link embody leopard";
+var mnemonic = "clog enhance decrease short south negative reopen scale random dirt wood spread";

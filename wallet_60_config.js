@@ -1,1 +1,1 @@
-var mnemonic = "attract strike exchange until trade embrace adapt tumble below business sword ribbon";
+var mnemonic = "frog cement neglect ridge legal anger view portion tank jacket castle enable";

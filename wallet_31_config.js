@@ -1,1 +1,1 @@
-var mnemonic = "quit sell this pond athlete fence merry afraid police student quiz february";
+var mnemonic = "frozen invite rigid sample option absorb unit forum enlist wine pear shallow";

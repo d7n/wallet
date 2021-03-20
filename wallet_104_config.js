@@ -1,1 +1,1 @@
-var mnemonic = "fiscal bachelor forget demand beyond dove refuse buffalo pink release radar lounge";
+var mnemonic = "pigeon thrive window swim arrow donor menu float student chuckle exclude trip";

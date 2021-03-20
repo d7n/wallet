@@ -1,1 +1,1 @@
-var mnemonic = "brief invest panic usage estate theory concert cage route erode sibling love";
+var mnemonic = "silly syrup panic sport short honey course talent mail demand punch coyote";
