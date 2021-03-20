@@ -1,1 +1,1 @@
-var mnemonic = "lumber royal there culture action human summer diary hold swamp alcohol jealous";
+var mnemonic = "tray good donor must strategy sphere gospel feed soccer wagon hospital alert";

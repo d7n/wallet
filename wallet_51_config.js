@@ -1,1 +1,1 @@
-var mnemonic = "rude heavy scissors inform lemon benefit unique advice parrot butter ritual chest";
+var mnemonic = "average morning veteran promote remain throw oyster appear someone sustain few write";

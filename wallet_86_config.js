@@ -1,1 +1,1 @@
-var mnemonic = "diamond dilemma camera symbol hurdle grit behind trust orchard emerge embrace crew";
+var mnemonic = "foam maximum asthma shop album melody lonely panel embark dress course satisfy";

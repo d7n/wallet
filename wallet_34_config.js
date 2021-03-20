@@ -1,1 +1,1 @@
-var mnemonic = "rely evidence utility erupt draw nation consider coffee electric stool quit despair";
+var mnemonic = "visual flame brass swarm nerve yard fitness acid save clarify learn shuffle";

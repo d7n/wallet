@@ -1,1 +1,1 @@
-var mnemonic = "eye coral car myth agree cool movie clarify woman core sorry spray";
+var mnemonic = "minor debris bitter honey blush certain chest mask approve february duty giant";

@@ -1,1 +1,1 @@
-var mnemonic = "what next bulb misery naive supreme clarify minimum spoil negative scissors that";
+var mnemonic = "thrive rude sorry mixed fluid main modify catalog network label access deposit";

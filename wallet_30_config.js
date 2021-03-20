@@ -1,1 +1,1 @@
-var mnemonic = "parrot awkward angle disease picnic replace glass tuna force nut powder lawn";
+var mnemonic = "pact margin strike bird reunion crane alert mean machine gift echo remind";

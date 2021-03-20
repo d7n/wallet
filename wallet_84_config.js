@@ -1,1 +1,1 @@
-var mnemonic = "ankle they anchor peasant clip nerve portion silent uncle misery blood shaft";
+var mnemonic = "edit episode just wrestle husband lift achieve describe view print myself movie";

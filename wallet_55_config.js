@@ -1,1 +1,1 @@
-var mnemonic = "episode hazard coffee neither melody delay flag garbage topic canal trick hedgehog";
+var mnemonic = "fence police title nasty true response awful earn judge immense cotton jar";

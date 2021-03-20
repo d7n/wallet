@@ -1,1 +1,1 @@
-var mnemonic = "potato address gospel worry cliff jelly alcohol smart school produce giant raven";
+var mnemonic = "practice boost uncle arena soon song whip dune delay choice mesh explain";

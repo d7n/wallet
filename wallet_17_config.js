@@ -1,1 +1,1 @@
-var mnemonic = "never wolf feed soon chase rent shock black slam accident very harsh";
+var mnemonic = "sword second female struggle volume vicious wire gate roof pulp police bright";

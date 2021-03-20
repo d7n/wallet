@@ -1,1 +1,1 @@
-var mnemonic = "swallow organ sea sense clay rally flash brain describe illegal antenna width";
+var mnemonic = "spy deputy expire surge bullet size security jaguar session shock laugh key";

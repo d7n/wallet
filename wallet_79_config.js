@@ -1,1 +1,1 @@
-var mnemonic = "play humble abstract puzzle can frost myself deny divert surround embark tribe";
+var mnemonic = "box essay bean eagle truly party forum crowd trap capable lamp vehicle";

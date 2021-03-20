@@ -1,1 +1,1 @@
-var mnemonic = "phrase rubber reflect kidney wine author deer inform inhale tired lizard unique";
+var mnemonic = "tower brush web prepare luxury security treat enforce shed rifle fence cover";

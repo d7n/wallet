@@ -1,1 +1,1 @@
-var mnemonic = "cross illness fog alley divorce alone office congress evolve valley mask praise";
+var mnemonic = "unique embark exclude fork hamster weekend inhale sail urge pair face leader";

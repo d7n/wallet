@@ -1,1 +1,1 @@
-var mnemonic = "dolphin exercise popular frequent original polar awful quit derive clean giggle broccoli";
+var mnemonic = "cactus pig heavy retire cliff olive galaxy teach sibling cactus fiber burger";

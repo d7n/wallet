@@ -1,1 +1,1 @@
-var mnemonic = "desert write garden ticket chunk wagon boil twelve diagram match aisle monitor";
+var mnemonic = "front latin subject arrow side cross enhance small direct whip lift sing";

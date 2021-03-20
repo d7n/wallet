@@ -1,1 +1,1 @@
-var mnemonic = "term inspire narrow pipe alley clean whip limb physical enlist naive mixture";
+var mnemonic = "present march repeat pair say concert census segment nothing inflict step waste";

@@ -1,1 +1,1 @@
-var mnemonic = "banana between deny logic elephant lucky use perfect remain tone cargo biology";
+var mnemonic = "auction minimum reunion reveal earn suit dragon oil cream bunker power drop";

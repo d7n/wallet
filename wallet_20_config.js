@@ -1,1 +1,1 @@
-var mnemonic = "usual siege remind brown tired rapid hungry fly slush donate toss cube";
+var mnemonic = "total planet clarify receive shed mansion fluid use acquire urban mask vital";

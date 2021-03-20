@@ -1,1 +1,1 @@
-var mnemonic = "age peasant move town annual raise emotion invite hobby hero match gaze";
+var mnemonic = "sand purchase song quiz glove plunge object swing tongue scrub feed holiday";

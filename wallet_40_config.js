@@ -1,1 +1,1 @@
-var mnemonic = "defense someone simple calm come slender season solid floor today green young";
+var mnemonic = "clerk bronze damp timber flash gun task student genuine cluster general swift";

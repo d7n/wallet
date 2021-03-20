@@ -1,1 +1,1 @@
-var mnemonic = "garden quarter collect boost dust theory steel term march pink extra frame";
+var mnemonic = "city relief august grunt erosion siren diagram cake rookie try stove wet";

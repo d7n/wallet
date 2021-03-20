@@ -1,1 +1,1 @@
-var mnemonic = "illegal survey inform congress language vague sister question doctor picnic report mixture";
+var mnemonic = "rib mask retreat syrup fine forest palm green squeeze hire taxi sense";

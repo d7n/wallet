@@ -1,1 +1,1 @@
-var mnemonic = "online state office winner foil thought isolate tuition ghost wreck spawn hood";
+var mnemonic = "galaxy fossil swamp blind glimpse carbon jar purity spatial favorite meadow fade";

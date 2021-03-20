@@ -1,1 +1,1 @@
-var mnemonic = "advice until shallow quantum puppy music attract practice unique peanut deny subway";
+var mnemonic = "wool odor ocean rely virus pride siren name labor salon dust clerk";

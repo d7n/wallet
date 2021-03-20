@@ -1,1 +1,1 @@
-var mnemonic = "hub female dog round disease bracket topic believe direct minor dance certain";
+var mnemonic = "artefact notable perfect noise win vocal van post weapon drift light harbor";

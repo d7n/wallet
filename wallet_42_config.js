@@ -1,1 +1,1 @@
-var mnemonic = "summer believe memory crater clutch dismiss still river endorse parent stay blanket";
+var mnemonic = "ranch analyst bean stairs toddler express cotton turn chair elder photo feature";

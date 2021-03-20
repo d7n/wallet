@@ -1,1 +1,1 @@
-var mnemonic = "aerobic library icon behind million paper letter lamp describe ripple rare crater";
+var mnemonic = "charge any able pride replace sweet tree seminar agent bar tiger drill";

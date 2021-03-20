@@ -1,1 +1,1 @@
-var mnemonic = "cabbage nice priority absorb remember shoe noise prefer rely session lobster doll";
+var mnemonic = "hollow core letter giggle ghost million worry pen ceiling reopen dawn improve";

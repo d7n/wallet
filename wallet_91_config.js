@@ -1,1 +1,1 @@
-var mnemonic = "begin album carbon target security impulse thumb picture danger patch clog obscure";
+var mnemonic = "pottery slam praise hawk collect basket common demise rug glue clog body";

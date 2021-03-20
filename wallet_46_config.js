@@ -1,1 +1,1 @@
-var mnemonic = "trim moral genuine broken skirt enhance dial village remind early wrap mention";
+var mnemonic = "shield minor cup explain spray check urban spring trade onion maid multiply";

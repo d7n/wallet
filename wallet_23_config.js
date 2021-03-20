@@ -1,1 +1,1 @@
-var mnemonic = "vicious foil ordinary resource switch beyond achieve exist cabin ocean spin friend";
+var mnemonic = "mechanic lizard yard winter midnight response author large earn defense guitar express";

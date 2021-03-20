@@ -1,1 +1,1 @@
-var mnemonic = "fall door noble identify game leg valve hat link cruel file ready";
+var mnemonic = "soldier walnut eagle cry consider pulse outer march fitness elder minor bread";

@@ -1,1 +1,1 @@
-var mnemonic = "vote adult clinic butter when churn phrase endless couch off rude stereo";
+var mnemonic = "wife tobacco there afford wasp check better hand ivory razor rely junk";

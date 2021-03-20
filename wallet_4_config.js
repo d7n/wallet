@@ -1,1 +1,1 @@
-var mnemonic = "camera broccoli army amused vivid design industry faint grain loan guitar fold";
+var mnemonic = "bag student budget round alcohol shy someone expect feel deal today rate";

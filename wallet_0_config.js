@@ -1,1 +1,1 @@
-var mnemonic = "until enough dad scout broom swim correct invest salmon wise cancel crunch";
+var mnemonic = "curtain cupboard fatal make evil cause pipe diesel useless gauge ball trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "bean story brown stand across accident absorb museum egg viable flight black";
+var mnemonic = "story govern rose defense airport solid shrug stomach fossil orange liar rare";

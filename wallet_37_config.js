@@ -1,1 +1,1 @@
-var mnemonic = "mass rabbit pill churn flat song refuse pulse quote jealous paper ten";
+var mnemonic = "deliver bonus remind inner empower believe push squirrel music athlete vacuum grape";

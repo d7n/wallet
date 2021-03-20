@@ -1,1 +1,1 @@
-var mnemonic = "endless upper boy north chunk twelve fatal vanish quality enjoy twin polar";
+var mnemonic = "idea inherit hurt sleep rose damage borrow injury grit eye volcano vital";

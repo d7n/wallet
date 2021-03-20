@@ -1,1 +1,1 @@
-var mnemonic = "guide increase wish couch comfort rely giant crush nominee wage few level";
+var mnemonic = "ride bulk assist slide alarm sudden play divert trouble nature hunt trap";

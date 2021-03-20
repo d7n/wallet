@@ -1,1 +1,1 @@
-var mnemonic = "merit guilt olive like process gaze because blood shrug now ivory face";
+var mnemonic = "autumn before grief term learn age exclude image youth weekend where cube";

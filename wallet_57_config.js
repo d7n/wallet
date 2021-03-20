@@ -1,1 +1,1 @@
-var mnemonic = "south nasty swim toward address dizzy carbon luggage glide enrich antenna cash";
+var mnemonic = "trip zebra hungry erosion cargo speak swim ceiling rigid sting bone between";

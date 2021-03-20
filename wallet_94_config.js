@@ -1,1 +1,1 @@
-var mnemonic = "payment humor permit finger off citizen bitter advice universe post miracle security";
+var mnemonic = "super match plug disorder cushion cattle live labor pen rough jaguar general";

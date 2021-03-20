@@ -1,1 +1,1 @@
-var mnemonic = "chalk hazard robust upset file ordinary decide rule sand cute color asthma";
+var mnemonic = "world speed walk mad easy olive twenty fury decline clever broccoli remove";

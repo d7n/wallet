@@ -1,1 +1,1 @@
-var mnemonic = "family arrow rose guess degree dish phone resist property topic arctic nature";
+var mnemonic = "better globe guide feel slice quiz frown where modify fame enemy canyon";

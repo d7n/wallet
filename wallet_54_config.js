@@ -1,1 +1,1 @@
-var mnemonic = "enough ladder joke media tenant memory stool bike fee bullet crowd harvest";
+var mnemonic = "nature clarify fury satoshi vapor mosquito shock alter dismiss occur month humble";

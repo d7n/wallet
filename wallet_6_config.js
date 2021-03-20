@@ -1,1 +1,1 @@
-var mnemonic = "guess mountain speak verify coral wave culture peanut vague check wrong place";
+var mnemonic = "improve anger raw hire lemon hollow crack typical benefit fee wide farm";

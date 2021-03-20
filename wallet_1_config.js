@@ -1,1 +1,1 @@
-var mnemonic = "squirrel dream diesel valve nose oak essay margin food license tone balance";
+var mnemonic = "draw lumber dinosaur question wheat casual begin slab zero mixture dutch lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "exile absent trouble budget bleak round service clown surround steak today word";
+var mnemonic = "spare upset follow couch scan retire garbage bundle enable enroll blanket method";

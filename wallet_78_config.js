@@ -1,1 +1,1 @@
-var mnemonic = "myth stool apology achieve hole chase okay exclude false august tortoise banner";
+var mnemonic = "dice direct else valley case treat stick exotic charge story cry absorb";

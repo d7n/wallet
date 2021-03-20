@@ -1,1 +1,1 @@
-var mnemonic = "panda long dune chaos lesson flat blood eager clerk shuffle grain phrase";
+var mnemonic = "achieve regret brand pony meat warrior blame soda dragon captain slow sock";

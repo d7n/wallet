@@ -1,1 +1,1 @@
-var mnemonic = "drift certain again color tired appear hollow middle surprise struggle gain space";
+var mnemonic = "sunny churn nut scatter buffalo attend fragile raise river when skirt shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "atom boring chicken stock enough man dutch gorilla material minute choose give";
+var mnemonic = "coach square stand danger dry trend pause split chalk hair oval mistake";

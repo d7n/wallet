@@ -1,1 +1,1 @@
-var mnemonic = "spot used favorite myth action arch twin album tail this spice usual";
+var mnemonic = "demand final soda whisper shrug behave divide grape cotton play genre rare";

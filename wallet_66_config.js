@@ -1,1 +1,1 @@
-var mnemonic = "arrest disagree pulp female remove render wall treat section tribe game hollow";
+var mnemonic = "snake height fossil ahead embrace void cousin giggle pair close photo ivory";

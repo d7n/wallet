@@ -1,1 +1,1 @@
-var mnemonic = "glimpse eyebrow give process dirt cat board topple royal upgrade property viable";
+var mnemonic = "else border wheel city icon junk mammal table merit convince fold sugar";

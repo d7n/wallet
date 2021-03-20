@@ -1,1 +1,1 @@
-var mnemonic = "false label ship zoo turtle unfold memory elephant you weekend pitch educate";
+var mnemonic = "practice side smart blind merge room foam shy share bless brand actress";

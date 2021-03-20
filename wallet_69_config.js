@@ -1,1 +1,1 @@
-var mnemonic = "helmet thumb skill dish helmet display orange vehicle firm gossip latin guard";
+var mnemonic = "memory adapt sun water culture vicious kick wash faith bonus siege stumble";

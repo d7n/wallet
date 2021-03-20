@@ -1,1 +1,1 @@
-var mnemonic = "hospital inmate word sand simple chimney shrug humble glow melt lonely asset";
+var mnemonic = "apple power knife ring economy brisk portion breeze maze must nephew vital";

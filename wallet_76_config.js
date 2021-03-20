@@ -1,1 +1,1 @@
-var mnemonic = "silent art join stereo hybrid grass decline wear trophy story skate half";
+var mnemonic = "food august venture dismiss smoke pilot panda flag torch ticket maze talent";

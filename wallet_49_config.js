@@ -1,1 +1,1 @@
-var mnemonic = "orbit goose punch winter evil post entire portion already boat one detail";
+var mnemonic = "wink valve broken soap learn repair adjust craft fabric dragon gym pottery";

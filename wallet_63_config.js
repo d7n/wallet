@@ -1,1 +1,1 @@
-var mnemonic = "inner honey satoshi actress just element bread curtain confirm dumb chuckle fade";
+var mnemonic = "crazy spread model husband need fresh guess face mesh chaos nose blade";

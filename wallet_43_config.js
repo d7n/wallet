@@ -1,1 +1,1 @@
-var mnemonic = "nut betray success negative little message audit observe monster culture degree nose";
+var mnemonic = "rocket travel quarter require security mail almost dumb crouch narrow laundry basic";

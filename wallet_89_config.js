@@ -1,1 +1,1 @@
-var mnemonic = "know much stumble box pass alert violin outside fury helmet noise process";
+var mnemonic = "arrange round knock grape canyon despair segment mistake cross smooth pretty win";

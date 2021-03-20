@@ -1,1 +1,1 @@
-var mnemonic = "spread divorce empty century gorilla climb catalog stumble leader mom pause banner";
+var mnemonic = "now abuse charge october quote ghost proof excuse soda nose column clump";

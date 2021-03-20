@@ -1,1 +1,1 @@
-var mnemonic = "panther negative knock require strong jealous ranch property lava carpet pistol appear";
+var mnemonic = "win mean praise wise creek host pudding gas wash enact pitch wood";

@@ -1,1 +1,1 @@
-var mnemonic = "correct culture luxury empty creek vague slice square confirm giraffe program chase";
+var mnemonic = "figure lesson there faint copy beef evil taste traffic minute ask inmate";

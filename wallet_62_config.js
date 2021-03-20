@@ -1,1 +1,1 @@
-var mnemonic = "federal tool special recycle melody cereal recall sick fine burger purity boss";
+var mnemonic = "material screen oxygen unique piece curtain provide heart mom senior vocal collect";

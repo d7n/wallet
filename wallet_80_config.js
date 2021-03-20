@@ -1,1 +1,1 @@
-var mnemonic = "miracle meadow clarify hint lonely renew salt verb exotic banana lottery culture";
+var mnemonic = "winner jelly alert hill cost shaft abstract same shadow magic tissue flash";

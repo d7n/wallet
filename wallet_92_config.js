@@ -1,1 +1,1 @@
-var mnemonic = "search unit digital pink faith habit fault spy clarify tennis divide hamster";
+var mnemonic = "pudding melt hire aware inspire tumble pride orchard exile search program umbrella";

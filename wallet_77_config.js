@@ -1,1 +1,1 @@
-var mnemonic = "win pluck sell mountain lend forget cricket bottom agent glue lobster fee";
+var mnemonic = "miss issue lyrics aware child admit whale ghost sibling pattern false utility";

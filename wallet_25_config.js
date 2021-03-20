@@ -1,1 +1,1 @@
-var mnemonic = "member about allow pool draft frown pool coffee surge decide lens version";
+var mnemonic = "they jewel around ramp twist matrix good mirror essay silver fan degree";

@@ -1,1 +1,1 @@
-var mnemonic = "nose paddle aim usual caution poet ginger favorite future radar remind baby";
+var mnemonic = "tomato develop oyster open alpha stool they nest unique salon flavor dutch";

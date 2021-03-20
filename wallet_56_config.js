@@ -1,1 +1,1 @@
-var mnemonic = "couple execute put mind chapter column imitate capable chunk message oval chat";
+var mnemonic = "tent craft track medal differ regret junior sheriff solution armor noble net";

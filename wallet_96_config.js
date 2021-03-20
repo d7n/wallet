@@ -1,1 +1,1 @@
-var mnemonic = "soda twist grant enrich regret tray empty garlic mimic comic still business";
+var mnemonic = "step salmon roast certain oxygen illness lock tourist basket talent manage file";

@@ -1,1 +1,1 @@
-var mnemonic = "frost stock artist scrub empower ride leisure reveal flavor drift open another";
+var mnemonic = "swamp utility weapon try nothing match basket chicken quiz fever open room";

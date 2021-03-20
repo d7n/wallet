@@ -1,1 +1,1 @@
-var mnemonic = "obtain dirt actress path faculty dash faculty vicious long game grape document";
+var mnemonic = "test improve remove quiz cycle black decline coyote club regular voyage smooth";

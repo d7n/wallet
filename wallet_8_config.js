@@ -1,1 +1,1 @@
-var mnemonic = "meat diet issue target shadow beef spoil soda actual mad torch rug";
+var mnemonic = "kitchen morning talent fence party rude click detect alone motion length party";

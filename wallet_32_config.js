@@ -1,1 +1,1 @@
-var mnemonic = "super kingdom recipe banner enemy island price tired warfare repair argue promote";
+var mnemonic = "stereo congress humor rigid load fruit slide drill network spell tree symptom";

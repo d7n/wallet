@@ -1,1 +1,1 @@
-var mnemonic = "price nest trade help apology genuine jealous rubber fatigue cloud broccoli wink";
+var mnemonic = "popular found attend good chicken toast mad vivid dizzy nephew number spirit";

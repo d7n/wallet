@@ -1,1 +1,1 @@
-var mnemonic = "live enlist hair solution tunnel powder small amazing profit random service citizen";
+var mnemonic = "unique relax void state popular prevent soccer museum spy hope october copy";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic cheese hen rubber foot piece token awesome emerge ladder bundle carry";
+var mnemonic = "engine cactus elevator meat engine gadget below flavor seek force heart train";

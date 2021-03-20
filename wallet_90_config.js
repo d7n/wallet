@@ -1,1 +1,1 @@
-var mnemonic = "donkey diary prosper west bachelor system angle weasel pumpkin nominee chest scrap";
+var mnemonic = "weather slice two danger know hip dismiss exotic double spice direct siren";

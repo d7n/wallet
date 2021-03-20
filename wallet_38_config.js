@@ -1,1 +1,1 @@
-var mnemonic = "much luxury burden put enter embark whale asthma faint frog lend phrase";
+var mnemonic = "diesel aim engine number hospital gravity affair gospel mimic mad evolve celery";

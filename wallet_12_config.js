@@ -1,1 +1,1 @@
-var mnemonic = "earn asset deny brief general business cinnamon inmate tattoo rally exhaust fame";
+var mnemonic = "mind chest ahead eagle stool skin pilot almost bag barrel melody float";

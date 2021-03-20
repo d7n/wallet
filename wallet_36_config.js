@@ -1,1 +1,1 @@
-var mnemonic = "thought hazard cigar rail iron future disagree vicious farm like enter please";
+var mnemonic = "slender lottery behave snack frown knee become must acquire grief wagon enough";

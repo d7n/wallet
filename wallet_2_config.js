@@ -1,1 +1,1 @@
-var mnemonic = "right guard raw critic nut front ozone plastic pulse tissue fix sting";
+var mnemonic = "cupboard tree cause luxury banner sport faith sustain bottom knee peanut desk";

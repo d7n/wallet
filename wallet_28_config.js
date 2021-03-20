@@ -1,1 +1,1 @@
-var mnemonic = "renew reject smoke swallow damage bread master remove derive cash glad grant";
+var mnemonic = "shine order slim dolphin melody hero proof gain middle enforce snap teach";

@@ -1,1 +1,1 @@
-var mnemonic = "extend pink foster stem staff slim screen kitchen forum pitch wise match";
+var mnemonic = "put narrow wet gather boss mushroom arrest mixture wealth toy hover absent";

@@ -1,1 +1,1 @@
-var mnemonic = "differ rail power cattle buddy vehicle disease gap taxi rough naive bottom";
+var mnemonic = "mad hunt dash trumpet rib disease soon child spy damage public flower";

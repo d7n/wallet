@@ -1,1 +1,1 @@
-var mnemonic = "easily symbol hollow session ozone snack monitor box unlock easily knife calm";
+var mnemonic = "educate acoustic have basic view orient cannon scout inch dawn baby slot";
