@@ -1,1 +1,1 @@
-var mnemonic = "sense wash aspect steel purity mobile position siege arrive thrive frost wise";
+var mnemonic = "loyal man ten turkey talk economy scan bid man disagree thunder predict";

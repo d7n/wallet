@@ -1,1 +1,1 @@
-var mnemonic = "stereo heavy farm grow repeat coast author vast shrug save receive only";
+var mnemonic = "ostrich drastic pluck today use black lunar section debate couple expect second";

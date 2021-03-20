@@ -1,1 +1,1 @@
-var mnemonic = "super spray test level toast parade napkin legend also vapor report hair";
+var mnemonic = "decline clarify relief time copper ride render mesh excess volcano morning whale";

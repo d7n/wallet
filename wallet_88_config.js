@@ -1,1 +1,1 @@
-var mnemonic = "wonder boil best toy anger coach swarm program category question usage crush";
+var mnemonic = "dwarf autumn boring clog connect few level guide path quick around cluster";

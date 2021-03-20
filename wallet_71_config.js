@@ -1,1 +1,1 @@
-var mnemonic = "example child spend expand damp truck smoke sun island arrest sentence abandon";
+var mnemonic = "inmate change explain twelve quality adjust punch category good sweet material runway";

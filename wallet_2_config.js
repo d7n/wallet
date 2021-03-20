@@ -1,1 +1,1 @@
-var mnemonic = "crane junk parrot lizard tunnel autumn mail liberty kiwi rain bring execute";
+var mnemonic = "inject equal nurse violin innocent biology code stable share stock disease tank";

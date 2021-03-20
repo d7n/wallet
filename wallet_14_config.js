@@ -1,1 +1,1 @@
-var mnemonic = "recall asset finish sniff deposit noble start light stamp reopen maze silk";
+var mnemonic = "blade excite soccer route salmon question scatter open artwork neither parrot winner";

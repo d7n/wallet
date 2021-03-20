@@ -1,1 +1,1 @@
-var mnemonic = "arch slim gallery worth addict daughter biology share orient video rotate verb";
+var mnemonic = "ozone enforce father submit flock end shed run buffalo banner matter symptom";

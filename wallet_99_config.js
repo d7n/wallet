@@ -1,1 +1,1 @@
-var mnemonic = "eagle beauty pride neutral paper when lock sketch popular silk dust have";
+var mnemonic = "slice paper mercy fiction walk rebel alter pyramid vibrant torch diamond blood";

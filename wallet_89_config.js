@@ -1,1 +1,1 @@
-var mnemonic = "quantum salt ethics coil action hawk divide rare else buffalo before shed";
+var mnemonic = "bomb angry door loan window worth tired account noodle ensure nasty future";

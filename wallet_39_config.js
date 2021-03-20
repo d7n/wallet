@@ -1,1 +1,1 @@
-var mnemonic = "dust original install hint doll describe dwarf smooth slot initial ask sorry";
+var mnemonic = "pen fabric found pond mind summer park cradle review essence latin enhance";

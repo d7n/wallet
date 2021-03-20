@@ -1,1 +1,1 @@
-var mnemonic = "clip lens length found slogan similar invest eight abstract bless depart voyage";
+var mnemonic = "stumble base crowd monkey steak only sunset inner predict virtual bacon easy";

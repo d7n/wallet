@@ -1,1 +1,1 @@
-var mnemonic = "critic mass alpha gold race goat milk session sibling puzzle coach pioneer";
+var mnemonic = "badge rely chef wreck coyote drip armed afraid cover old mixture range";

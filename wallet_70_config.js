@@ -1,1 +1,1 @@
-var mnemonic = "knee chicken since tilt zoo pool neutral kingdom decline crunch afford before";
+var mnemonic = "unaware benefit degree tower token open swear crystal pitch wave leaf museum";

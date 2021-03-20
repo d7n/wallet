@@ -1,1 +1,1 @@
-var mnemonic = "payment spice payment kite fragile lunch auction field nephew apart balance salmon";
+var mnemonic = "yellow face script planet assist library hero true solve cannon crack panther";

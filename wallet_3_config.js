@@ -1,1 +1,1 @@
-var mnemonic = "tongue stairs off effort ostrich action else second mind flip subject latin";
+var mnemonic = "science occur wagon card when bulk used slender bargain snake bag eternal";

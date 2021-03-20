@@ -1,1 +1,1 @@
-var mnemonic = "north crawl elevator solid onion comfort spring layer proud cook bounce ranch";
+var mnemonic = "arrange then shock detail wrap bullet acid clever bless next focus leisure";

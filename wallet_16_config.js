@@ -1,1 +1,1 @@
-var mnemonic = "upset tongue humor banner invite cost liquid inherit game token camera govern";
+var mnemonic = "flag poverty lift obey toast ask limit ranch slush local act tumble";

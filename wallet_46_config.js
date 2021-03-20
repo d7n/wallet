@@ -1,1 +1,1 @@
-var mnemonic = "hub violin weekend galaxy sort boost slender crouch spell refuse donkey dream";
+var mnemonic = "palace budget divide injury old symptom rely help album dash craft picnic";

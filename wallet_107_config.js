@@ -1,1 +1,1 @@
-var mnemonic = "rabbit ankle test pistol flavor addict rather manage adjust sniff tunnel oak";
+var mnemonic = "session armed lawn chronic spin steel obvious trim rent emotion doll identify";

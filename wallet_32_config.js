@@ -1,1 +1,1 @@
-var mnemonic = "curve latin affair lazy distance friend kitchen style gift twenty enemy echo";
+var mnemonic = "puppy fence fish basket absurd breeze pear diamond unit damage rotate guess";

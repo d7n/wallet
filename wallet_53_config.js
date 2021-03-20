@@ -1,1 +1,1 @@
-var mnemonic = "exhaust pretty panic story faculty trouble faculty apple mutual remain dune where";
+var mnemonic = "siren fiction problem deposit material castle hotel okay very sunny abandon jealous";

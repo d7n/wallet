@@ -1,1 +1,1 @@
-var mnemonic = "brain battle flight smile burden group habit profit when slam column intact";
+var mnemonic = "update card tragic layer timber nation ahead immune raw physical alert water";

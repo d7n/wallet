@@ -1,1 +1,1 @@
-var mnemonic = "jelly mind ski insect office next quality grab cash pottery pattern arch";
+var mnemonic = "swarm wear fire monitor hire hope section milk crisp angry fabric minute";

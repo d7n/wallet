@@ -1,1 +1,1 @@
-var mnemonic = "cattle zoo clay shiver group syrup bullet empower pave sign one glove";
+var mnemonic = "solve embark sign wonder wet crunch electric unaware august sword either bitter";

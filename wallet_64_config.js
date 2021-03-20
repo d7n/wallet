@@ -1,1 +1,1 @@
-var mnemonic = "weekend secret snap blame slender liberty end country fall pyramid crack marine";
+var mnemonic = "derive street cannon acquire crawl extend bacon draw limit accident dutch body";

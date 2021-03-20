@@ -1,1 +1,1 @@
-var mnemonic = "siege struggle place coast damage chalk innocent gift clinic night turkey prize";
+var mnemonic = "abstract round never virus budget cute ill silk hover nose hawk math";

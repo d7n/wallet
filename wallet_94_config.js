@@ -1,1 +1,1 @@
-var mnemonic = "artist space clay weird convince ten ready vast abandon story powder science";
+var mnemonic = "rescue detail tribe conduct arrange stable farm swarm bullet tag effort melody";

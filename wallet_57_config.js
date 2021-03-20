@@ -1,1 +1,1 @@
-var mnemonic = "remind frozen fashion joy describe spin ugly episode cheap logic drama slot";
+var mnemonic = "moon you harsh mobile horse walnut cruel right prosper abuse code message";

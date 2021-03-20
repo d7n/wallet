@@ -1,1 +1,1 @@
-var mnemonic = "antenna lunch bar forest camera fabric tuna capital option wing door inject";
+var mnemonic = "jacket young grace solar voyage buddy burst pretty toy light measure shoot";

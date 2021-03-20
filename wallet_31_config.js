@@ -1,1 +1,1 @@
-var mnemonic = "fiscal morning shiver olympic timber truck submit monitor neglect arrive decade pill";
+var mnemonic = "three assist child illegal pear any shell negative two squirrel other gesture";

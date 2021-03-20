@@ -1,1 +1,1 @@
-var mnemonic = "truly rain spin cannon enrich pelican finger champion knee satisfy dust attack";
+var mnemonic = "nature page oxygen kidney direct rival broom aware family heart fee lava";

@@ -1,1 +1,1 @@
-var mnemonic = "also come loud gorilla ignore clean assist matter wisdom crane urban swift";
+var mnemonic = "aspect manage owner large globe ghost sorry gorilla basket able shoulder analyst";

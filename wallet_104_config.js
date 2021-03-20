@@ -1,1 +1,1 @@
-var mnemonic = "spoil topic champion share fog owner mother hybrid glad insane nerve subject";
+var mnemonic = "ritual joke please avocado actor green employ frog issue autumn above bench";

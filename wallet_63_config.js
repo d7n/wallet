@@ -1,1 +1,1 @@
-var mnemonic = "gather name service benefit jacket fragile together latin asset movie exile field";
+var mnemonic = "maple space obtain car gauge ask adjust deny since orchard develop spoon";

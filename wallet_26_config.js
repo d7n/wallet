@@ -1,1 +1,1 @@
-var mnemonic = "coconut found midnight federal crazy reduce meadow buzz company session half truly";
+var mnemonic = "mobile salad used group surround glove siren spider select piano badge idea";

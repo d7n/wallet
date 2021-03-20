@@ -1,1 +1,1 @@
-var mnemonic = "sad broken clay boil ozone segment artwork squeeze head awesome orient common";
+var mnemonic = "cancel ski elder bag siege before circle prosper sick tattoo fruit mix";

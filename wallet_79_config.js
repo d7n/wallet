@@ -1,1 +1,1 @@
-var mnemonic = "exclude push basic nasty traffic walk neutral demand sauce bright brand detail";
+var mnemonic = "next modify snow effort erase trigger suffer indicate sing mad cycle typical";

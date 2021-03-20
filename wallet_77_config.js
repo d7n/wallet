@@ -1,1 +1,1 @@
-var mnemonic = "cart deliver find crime where awkward hospital truly emerge student march amused";
+var mnemonic = "point hood village gadget shoot tattoo offer vapor alcohol april vivid shell";

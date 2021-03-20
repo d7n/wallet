@@ -1,1 +1,1 @@
-var mnemonic = "dilemma hand laundry future town please because antenna ketchup despair swamp shove";
+var mnemonic = "shallow beauty banana fortune utility problem scene horse opinion topple flock zoo";

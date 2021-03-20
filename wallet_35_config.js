@@ -1,1 +1,1 @@
-var mnemonic = "cabin flat fatal spare draft razor shoot dice hint mouse double avoid";
+var mnemonic = "vessel dolphin fiction clay cycle mother burden enhance service amount praise box";

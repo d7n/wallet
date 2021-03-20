@@ -1,1 +1,1 @@
-var mnemonic = "great box tonight daring hint churn amount soldier join indicate rifle delay";
+var mnemonic = "farm bid diesel mandate push high mention decrease pony another magic injury";

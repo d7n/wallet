@@ -1,1 +1,1 @@
-var mnemonic = "north cliff include review impulse reunion extend frequent poverty slab ready card";
+var mnemonic = "soda receive year infant blossom repeat cost report jazz digital shove throw";

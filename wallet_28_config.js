@@ -1,1 +1,1 @@
-var mnemonic = "fiction duty sign work outer aware video vault arrange artefact purpose orient";
+var mnemonic = "arch butter describe avocado faculty camera toast leopard casino ocean promote region";

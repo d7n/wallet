@@ -1,1 +1,1 @@
-var mnemonic = "donkey stumble trend people adjust vault side stable culture begin humor rent";
+var mnemonic = "empty like arena renew fiction daughter possible yard dice brick fresh mother";

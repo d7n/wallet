@@ -1,1 +1,1 @@
-var mnemonic = "happy saddle lift bulk glow error enter system very receive lesson face";
+var mnemonic = "mobile beef argue snow upper embody history suggest special logic prevent bullet";

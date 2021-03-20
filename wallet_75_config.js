@@ -1,1 +1,1 @@
-var mnemonic = "flush hole hunt empty beef fun salon drama foster foam mean flavor";
+var mnemonic = "axis trash office define tennis bonus fossil chicken know broom prepare release";

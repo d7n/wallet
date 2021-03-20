@@ -1,1 +1,1 @@
-var mnemonic = "work breeze repeat toss orchard ceiling draw size multiply wrestle curve torch";
+var mnemonic = "clarify alone rich sponsor lonely sting proud cereal volume sell leave shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "check enough garden current lion toward oyster breeze fork leaf hurry organ";
+var mnemonic = "eight snap company put casual wrist front imitate write find tattoo love";

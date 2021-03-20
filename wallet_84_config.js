@@ -1,1 +1,1 @@
-var mnemonic = "spawn arch morning olympic arena hope ball steak news share cricket travel";
+var mnemonic = "remind rigid put alarm circle pig river popular trash gorilla any popular";

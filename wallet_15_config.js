@@ -1,1 +1,1 @@
-var mnemonic = "acquire coconut piece accident daring trim mystery gas hawk fan art rate";
+var mnemonic = "source tuna bonus december glass jelly address garlic pear six torch girl";

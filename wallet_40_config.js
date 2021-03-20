@@ -1,1 +1,1 @@
-var mnemonic = "evoke fox focus total minute bird fan mimic wood scout quantum dune";
+var mnemonic = "news letter size liquid crystal patch wasp reduce any pet table task";

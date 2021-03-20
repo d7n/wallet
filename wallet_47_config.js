@@ -1,1 +1,1 @@
-var mnemonic = "cigar letter feature multiply slender mouse supply shaft price food voyage concert";
+var mnemonic = "suffer cave exile real toy photo refuse arch wide imitate build pizza";

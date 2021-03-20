@@ -1,1 +1,1 @@
-var mnemonic = "oyster omit leaf fatigue brand valve noise account abandon kidney maple option";
+var mnemonic = "find crumble enter rabbit mother tumble return they model rent pelican syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "utility car ahead law couch creek arctic hunt siege glimpse frown chief";
+var mnemonic = "kick vague help horse vault system urban brush cover rug pretty cradle";

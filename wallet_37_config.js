@@ -1,1 +1,1 @@
-var mnemonic = "crisp drop alpha property way hill oyster metal family bird emotion push";
+var mnemonic = "runway forum pause virus kingdom dilemma arrive fence peace music file episode";

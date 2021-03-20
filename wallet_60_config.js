@@ -1,1 +1,1 @@
-var mnemonic = "regular tunnel income senior focus error hurdle juice weird amazing swap number";
+var mnemonic = "trumpet buyer dinosaur flip manage drill pull age yard one lonely call";

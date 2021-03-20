@@ -1,1 +1,1 @@
-var mnemonic = "farm rally kiwi inquiry deputy autumn cake candy submit author access siren";
+var mnemonic = "spy liberty ritual raven melody farm advance much tenant sibling issue wide";

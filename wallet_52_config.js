@@ -1,1 +1,1 @@
-var mnemonic = "begin vote topic waste motion stay post endless stock knee asset pepper";
+var mnemonic = "february become blue custom hood rescue fork fat pond feature thumb certain";

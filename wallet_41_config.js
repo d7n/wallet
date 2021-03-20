@@ -1,1 +1,1 @@
-var mnemonic = "vote almost hospital ethics bitter fog long enrich minimum wide crumble awkward";
+var mnemonic = "loan mistake six lemon clutch only fragile have boat race leaf measure";

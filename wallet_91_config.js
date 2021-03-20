@@ -1,1 +1,1 @@
-var mnemonic = "leaf thank invite trouble devote elbow delay bachelor mercy march noise village";
+var mnemonic = "artefact ginger school quick void supply debate help all local bag cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "among sample nerve vital person satoshi alien chief cross fog screen nose";
+var mnemonic = "olympic release mask spike spray predict truly canoe destroy already argue motor";

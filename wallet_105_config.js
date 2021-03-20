@@ -1,1 +1,1 @@
-var mnemonic = "guess deal vote design neck connect gossip sweet toss output wish chat";
+var mnemonic = "jaguar civil camp useless cushion outer joy cruel proud yellow tell either";

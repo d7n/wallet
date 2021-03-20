@@ -1,1 +1,1 @@
-var mnemonic = "castle concert priority valley goat magnet cat tuition humor topic retreat energy";
+var mnemonic = "ladder auto island there over zero crisp toss recipe total model envelope";

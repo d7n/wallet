@@ -1,1 +1,1 @@
-var mnemonic = "news example keep phrase final math bicycle feature history razor collect appear";
+var mnemonic = "lunar whale pumpkin funny airport episode own hood exit faint make wet";

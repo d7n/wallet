@@ -1,1 +1,1 @@
-var mnemonic = "sugar upon ladder veteran ill purity goddess car rate access rifle amateur";
+var mnemonic = "worry cattle document man pepper glow raccoon napkin undo hospital undo cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie exchange verify fix segment bubble mixed bicycle sure error creek woman";
+var mnemonic = "fog gadget surface coffee ready coach trap false wide lesson charge tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "horn reflect rapid mosquito denial jealous decline erase coyote praise cube knife";
+var mnemonic = "tobacco wage coffee mail noodle laugh speed arrange bus alert claim someone";

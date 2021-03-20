@@ -1,1 +1,1 @@
-var mnemonic = "goose manual salon leaf guess bullet knock digital muscle hard modify then";
+var mnemonic = "jelly slim cable depart casual soul topic romance lyrics banner lawn fever";

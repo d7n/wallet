@@ -1,1 +1,1 @@
-var mnemonic = "front famous term novel pipe glad tribe razor human radar actor dice";
+var mnemonic = "ask allow good echo slight spy echo churn sea torch pluck craft";

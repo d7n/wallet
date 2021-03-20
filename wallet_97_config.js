@@ -1,1 +1,1 @@
-var mnemonic = "trend marriage pelican pet riot fire false diary february media flag public";
+var mnemonic = "sad festival purpose humble jelly burger culture shoe casino artwork oven own";

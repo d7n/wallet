@@ -1,1 +1,1 @@
-var mnemonic = "whale check hub flat rib lemon breeze joke differ sun enjoy oven";
+var mnemonic = "shine latin distance arch orange pink rack culture weekend evil dinner rookie";

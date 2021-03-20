@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow nasty text piece boss entry west basic over picnic subject silly";
+var mnemonic = "above zebra citizen gun capital must note insect obscure scene prefer tuition";

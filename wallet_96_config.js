@@ -1,1 +1,1 @@
-var mnemonic = "minute risk member wagon final garbage gorilla toddler success syrup peasant embark";
+var mnemonic = "attract drum correct shrimp old output attitude view drum wild local toss";

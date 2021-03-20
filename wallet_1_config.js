@@ -1,1 +1,1 @@
-var mnemonic = "come lucky kit medal virus crush mandate link uphold tail term harsh";
+var mnemonic = "drum bronze gentle keep model symptom trial machine wrap age depend tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "entire another fiscal rather flavor violin arctic social picnic tenant rain critic";
+var mnemonic = "penalty amateur stomach fine bargain erupt helmet fabric debris identify van summer";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone coil battle celery business awake gossip solve skull sting limb initial";
+var mnemonic = "safe day clump sure economy jump picture team category panda merry tone";

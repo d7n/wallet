@@ -1,1 +1,1 @@
-var mnemonic = "panel stumble cross oval much tomorrow tower afraid shine grief soccer change";
+var mnemonic = "narrow spice rival throw reopen pony remember capital grunt fossil brisk boy";

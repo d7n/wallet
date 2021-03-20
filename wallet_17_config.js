@@ -1,1 +1,1 @@
-var mnemonic = "emotion stay install scissors foil hand rural daughter cost exist stable peasant";
+var mnemonic = "wolf crime smooth material spike crop nerve harbor lawn order upset mobile";

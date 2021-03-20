@@ -1,1 +1,1 @@
-var mnemonic = "bracket slam swallow crash useless output sting huge smart inhale coach final";
+var mnemonic = "hill ready turn curious donate hero swarm oxygen swim crystal chalk age";

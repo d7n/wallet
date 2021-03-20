@@ -1,1 +1,1 @@
-var mnemonic = "senior sweet pattern gentle bronze hand such laugh utility frown test chronic";
+var mnemonic = "just insect clarify invest tone fence uphold fly capable inspire box afford";

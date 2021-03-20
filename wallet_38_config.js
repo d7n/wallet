@@ -1,1 +1,1 @@
-var mnemonic = "patient amount hair ability boring cotton abstract game exhibit repeat rare mammal";
+var mnemonic = "speed imitate minimum scare doll elbow hard school dwarf sadness cushion fresh";

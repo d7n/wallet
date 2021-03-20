@@ -1,1 +1,1 @@
-var mnemonic = "unlock lift main film pumpkin exhibit mandate black boring despair milk force";
+var mnemonic = "version giant main idea aerobic cloth iron april inflict purchase rubber jazz";

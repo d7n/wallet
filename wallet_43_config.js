@@ -1,1 +1,1 @@
-var mnemonic = "clog loud corn exchange doctor someone fire spoil sunny junk age cat";
+var mnemonic = "body bachelor number addict call absurd digital plunge power paddle barely token";
