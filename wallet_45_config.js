@@ -1,1 +1,1 @@
-var mnemonic = "organ spice join digital bus plate define story town target million super";
+var mnemonic = "sign protect wolf wire crane letter junk sketch account submit book exercise";

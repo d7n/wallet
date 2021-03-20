@@ -1,1 +1,1 @@
-var mnemonic = "analyst useless snow weasel brief trip feature club share parrot claim urge";
+var mnemonic = "festival toss life achieve clean wide flip intact around letter ladder word";

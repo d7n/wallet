@@ -1,1 +1,1 @@
-var mnemonic = "crowd exile exit peanut sand sport quit follow pluck neck alpha grid";
+var mnemonic = "spatial common control seven blur stone trophy bacon latin spare sadness kingdom";

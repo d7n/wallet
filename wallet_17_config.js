@@ -1,1 +1,1 @@
-var mnemonic = "amused hospital speak stone tortoise rail oblige ill dog shoulder time turkey";
+var mnemonic = "rain grow chronic submit hover fetch patch item chuckle okay slogan nominee";

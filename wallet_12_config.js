@@ -1,1 +1,1 @@
-var mnemonic = "salt return capable badge weird volcano urge bachelor tilt fiscal reveal little";
+var mnemonic = "scout blanket green chair age forget disagree shuffle discover link peanut spell";

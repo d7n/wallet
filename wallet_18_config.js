@@ -1,1 +1,1 @@
-var mnemonic = "surface solution leopard parade angry essay magic paper cattle learn peasant machine";
+var mnemonic = "praise furnace camera pony humor pudding drift patrol denial castle later creek";

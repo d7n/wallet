@@ -1,1 +1,1 @@
-var mnemonic = "myth spy fun indicate engine immense awful crouch below aisle give call";
+var mnemonic = "resemble stuff utility antenna rescue solar goat cherry local resist mobile snow";

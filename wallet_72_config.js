@@ -1,1 +1,1 @@
-var mnemonic = "supreme ice usage half cool behind track shoulder taxi find consider ignore";
+var mnemonic = "filter chase wet similar media liar spin baby flash wink heart mixed";

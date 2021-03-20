@@ -1,1 +1,1 @@
-var mnemonic = "bachelor sad coin fruit safe hill hub good host era whisper corn";
+var mnemonic = "giant escape dizzy flag census title recall vivid cabbage special pledge tray";

@@ -1,1 +1,1 @@
-var mnemonic = "spot crawl post moment segment donate foot equal wool near glove latin";
+var mnemonic = "minor orchard blood trigger display act rich already little atom pause canal";

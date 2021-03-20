@@ -1,1 +1,1 @@
-var mnemonic = "banana device ill okay oppose zoo under solve patient anchor champion will";
+var mnemonic = "joke near vacant amazing glad science device pulse prosper dynamic tooth primary";

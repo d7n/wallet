@@ -1,1 +1,1 @@
-var mnemonic = "box blush fame dismiss stick saddle hand dentist negative amazing waste dove";
+var mnemonic = "ship double edge circle portion region organ owner hero rice vacant clinic";

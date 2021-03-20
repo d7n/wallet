@@ -1,1 +1,1 @@
-var mnemonic = "short eagle tourist glue junk river nation horn draft remind holiday love";
+var mnemonic = "neutral hold eyebrow ceiling around rose creek park among cover trust clump";

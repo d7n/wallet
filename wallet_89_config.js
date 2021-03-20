@@ -1,1 +1,1 @@
-var mnemonic = "wine enjoy access random metal element identify slot exotic like clay together";
+var mnemonic = "chicken adult people circle sibling road ring decide capital luxury verb pulp";

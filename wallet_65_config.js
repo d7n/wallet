@@ -1,1 +1,1 @@
-var mnemonic = "elevator athlete raven among trigger attitude citizen resist theory capital future master";
+var mnemonic = "welcome test helmet fatigue sing dignity portion invite ocean stomach crane genre";

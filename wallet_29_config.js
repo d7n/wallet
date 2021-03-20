@@ -1,1 +1,1 @@
-var mnemonic = "cruel inmate speed rug inform pudding hospital fantasy letter corn such wear";
+var mnemonic = "film stereo casual amused cost banner roof bullet jeans wash uncle multiply";

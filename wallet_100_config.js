@@ -1,1 +1,1 @@
-var mnemonic = "produce fork velvet leave frame melt wheat abandon leisure repair around step";
+var mnemonic = "sting battle slim mind dream call stadium mean achieve swarm twenty load";

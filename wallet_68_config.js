@@ -1,1 +1,1 @@
-var mnemonic = "dream word retreat remove scatter glow noble enough poet twist siren art";
+var mnemonic = "siren saddle scatter alien cricket mandate clever huge favorite desert eager rifle";

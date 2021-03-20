@@ -1,1 +1,1 @@
-var mnemonic = "crucial leopard drink trumpet title one marble abandon window strong begin bus";
+var mnemonic = "hill cost bounce frequent delay head during extra phone usual second flash";

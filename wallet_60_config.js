@@ -1,1 +1,1 @@
-var mnemonic = "fall husband height junk torch oyster hurry pear alcohol reunion myth you";
+var mnemonic = "slam space final secret radio helmet foster wrestle seed cushion document knock";

@@ -1,1 +1,1 @@
-var mnemonic = "apology quality black model arctic use soul ask venture balance kid garlic";
+var mnemonic = "danger buddy permit frozen property grace chronic damage blush spread also daughter";

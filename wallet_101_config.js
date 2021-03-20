@@ -1,1 +1,1 @@
-var mnemonic = "capital submit switch sentence afraid lottery coffee area slender small void sun";
+var mnemonic = "educate spawn feature allow lucky subject snake daring valve imitate mule share";

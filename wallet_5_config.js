@@ -1,1 +1,1 @@
-var mnemonic = "person when ankle dose job mad raccoon among mesh history west thought";
+var mnemonic = "derive tone offer virtual alone law poverty brass pond soon barely inquiry";

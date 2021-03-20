@@ -1,1 +1,1 @@
-var mnemonic = "tip drum charge assist access edit wall hazard joy load skill rhythm";
+var mnemonic = "sock exotic junk wedding segment outer affair mansion extend wool alarm husband";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff quiz possible antique course maximum blur life half minute vote type";
+var mnemonic = "number crystal long sick tone fringe language dentist cricket knock apple wood";

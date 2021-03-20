@@ -1,1 +1,1 @@
-var mnemonic = "chicken ketchup endless nut art turtle poet frozen sight forum face dial";
+var mnemonic = "chunk nation ride boost cash current festival spread rain nuclear smooth actress";

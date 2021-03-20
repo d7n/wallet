@@ -1,1 +1,1 @@
-var mnemonic = "large vault danger lunar lake salad car crush route dignity account horror";
+var mnemonic = "cricket crucial armed ask zoo beyond subway picnic else win tilt mimic";

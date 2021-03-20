@@ -1,1 +1,1 @@
-var mnemonic = "concert dutch opinion odor say galaxy sphere subway tribe stuff stumble aerobic";
+var mnemonic = "now arrest box table convince recycle faculty mimic sister finish opera defense";

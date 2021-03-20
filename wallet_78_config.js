@@ -1,1 +1,1 @@
-var mnemonic = "client chaos emotion initial riot mammal addict mass camera pulse famous wink";
+var mnemonic = "great bird sock top trophy bring guilt horror replace balcony fire tongue";

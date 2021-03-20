@@ -1,1 +1,1 @@
-var mnemonic = "innocent hub crowd couple focus razor fury leisure treat cart width goddess";
+var mnemonic = "gravity mosquito motion south paper pluck kind seat combine remove camp flight";

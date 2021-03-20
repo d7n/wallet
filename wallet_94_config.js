@@ -1,1 +1,1 @@
-var mnemonic = "kit damp office innocent noise above wagon result tired path work radar";
+var mnemonic = "april live margin dash truck doll sick clown dice spend onion unfair";

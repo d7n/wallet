@@ -1,1 +1,1 @@
-var mnemonic = "place start shuffle interest spy sugar enter egg harsh own critic dirt";
+var mnemonic = "fiscal negative hurdle arrive garage address unit stadium improve own twist laugh";

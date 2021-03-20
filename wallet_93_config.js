@@ -1,1 +1,1 @@
-var mnemonic = "save crawl risk claim welcome east energy almost helmet canoe apple fluid";
+var mnemonic = "steel knife quit reward among wool dress cricket fire injury tobacco jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "similar car insane cushion debris horn midnight dismiss series symptom birth empty";
+var mnemonic = "electric bone marine energy harsh palace spoon connect chef myth stick effort";

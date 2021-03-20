@@ -1,1 +1,1 @@
-var mnemonic = "express rough mask also letter flag lake shiver ability veteran skill village";
+var mnemonic = "fitness corn april choice board weather little upper foster fatal seven castle";

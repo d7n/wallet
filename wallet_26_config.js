@@ -1,1 +1,1 @@
-var mnemonic = "matter board alcohol divide expire release receive lazy renew flight cross abuse";
+var mnemonic = "flower story ten march cancel barely trim olive awkward valley tone uphold";

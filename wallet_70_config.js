@@ -1,1 +1,1 @@
-var mnemonic = "maid memory feature right rival ignore clip pupil now wave idle quantum";
+var mnemonic = "radar atom ignore license grace myself margin ride penalty treat mimic nephew";

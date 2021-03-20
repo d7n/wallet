@@ -1,1 +1,1 @@
-var mnemonic = "mixed umbrella lens quantum knock pupil pyramid middle elephant novel bike bundle";
+var mnemonic = "fiber stamp wash convince aerobic thrive siren juice hard level swarm gap";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp antique cart lemon aim exclude sunset drastic clutch number december educate";
+var mnemonic = "treat blind wave barely alert neither hammer sibling kangaroo host charge gap";

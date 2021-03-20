@@ -1,1 +1,1 @@
-var mnemonic = "disorder violin blade act drink vendor great hero solid doll please cancel";
+var mnemonic = "water will involve frown forward dumb mule deer shoulder dream goose certain";

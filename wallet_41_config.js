@@ -1,1 +1,1 @@
-var mnemonic = "domain thank blouse lawn core body horse badge present memory wealth stool";
+var mnemonic = "guitar unaware peanut panel layer champion hotel unable surprise away front stay";

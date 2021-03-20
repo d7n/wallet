@@ -1,1 +1,1 @@
-var mnemonic = "twice mask amused achieve flash pave sting start point urban legal dilemma";
+var mnemonic = "elder clip win angle warrior reduce medal mechanic toilet first federal derive";

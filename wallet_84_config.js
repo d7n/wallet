@@ -1,1 +1,1 @@
-var mnemonic = "glove bean fantasy moon dizzy awful put speak initial observe off alert";
+var mnemonic = "caught vapor kidney rhythm mesh relax provide order seat wet path salute";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar error tiny hidden donate talent scissors jewel resemble amateur custom below";
+var mnemonic = "simple stage latin dinosaur region post post ripple tenant harvest problem verb";

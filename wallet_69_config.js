@@ -1,1 +1,1 @@
-var mnemonic = "good nephew fossil lion cupboard crane ten toilet unlock local swap message";
+var mnemonic = "mandate daring whisper easily warrior obey uncle spread bid knife fatigue wire";

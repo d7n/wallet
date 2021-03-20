@@ -1,1 +1,1 @@
-var mnemonic = "adjust emerge replace carbon squeeze rude desert vanish laundry argue core unique";
+var mnemonic = "sell item old diary master never snow prevent expand dry sound keen";

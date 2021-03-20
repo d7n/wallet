@@ -1,1 +1,1 @@
-var mnemonic = "luxury chunk come jewel yellow bracket flush energy bone cry jacket ocean";
+var mnemonic = "desert industry dust increase fox suggest sudden erode stem nerve charge myself";

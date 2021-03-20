@@ -1,1 +1,1 @@
-var mnemonic = "comfort disagree special shove genuine knee fold answer anxiety bread level hobby";
+var mnemonic = "cake seed supreme model impulse waste monitor fever antique school swamp nest";

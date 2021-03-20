@@ -1,1 +1,1 @@
-var mnemonic = "vibrant boss ivory dynamic gloom service matter soup candy define peace input";
+var mnemonic = "pole blue radio attend dizzy nose net outdoor crunch outside phrase layer";

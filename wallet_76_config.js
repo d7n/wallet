@@ -1,1 +1,1 @@
-var mnemonic = "diamond embrace story exotic glad pig maid either gold refuse seat patient";
+var mnemonic = "fashion anxiety hair couple eagle mother purity list stone speak birth catch";

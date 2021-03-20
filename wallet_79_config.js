@@ -1,1 +1,1 @@
-var mnemonic = "trust hockey jealous have chicken outside oppose champion baby atom roast symptom";
+var mnemonic = "spice toast place fresh garden hawk disagree bind swing test six deal";

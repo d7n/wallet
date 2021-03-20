@@ -1,1 +1,1 @@
-var mnemonic = "relief catch gorilla sting panic stereo goddess whisper vocal elbow guard warm";
+var mnemonic = "merit medal design filter spider february rocket orbit travel girl beach relief";

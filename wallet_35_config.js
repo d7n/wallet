@@ -1,1 +1,1 @@
-var mnemonic = "apart youth already flag pyramid wing alarm hurry tennis sport sure student";
+var mnemonic = "waste input winner sugar sad bench side toss air violin input spice";

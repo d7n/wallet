@@ -1,1 +1,1 @@
-var mnemonic = "kite already belt strike inject planet number tissue vessel dream update gain";
+var mnemonic = "better boring escape erupt youth burst list alarm glory minute brass federal";

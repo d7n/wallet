@@ -1,1 +1,1 @@
-var mnemonic = "weapon quarter blue ride sustain still skate flash retire prevent ready try";
+var mnemonic = "attitude citizen pioneer hurdle indicate chalk monitor invite drink cargo there virus";

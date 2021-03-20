@@ -1,1 +1,1 @@
-var mnemonic = "ensure panic person draft radio month decline cabbage desert wire flag fruit";
+var mnemonic = "clip melt client say manual weekend vibrant pond once ride slam dinner";

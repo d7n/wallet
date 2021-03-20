@@ -1,1 +1,1 @@
-var mnemonic = "angle weasel license merge wedding tourist flip ginger want toe doctor prosper";
+var mnemonic = "hello proud version curious inside hour coil bomb lava bonus veteran hope";

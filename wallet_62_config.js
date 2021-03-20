@@ -1,1 +1,1 @@
-var mnemonic = "coast erode regret pass fit camp mule drastic bag vital general hazard";
+var mnemonic = "claim eye robust tomorrow wave list ask photo advice liberty frame wing";

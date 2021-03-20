@@ -1,1 +1,1 @@
-var mnemonic = "miracle smooth candy border craft plastic enforce tide march process work cabin";
+var mnemonic = "able marble evidence animal sniff bomb silly fresh attend photo ignore hand";

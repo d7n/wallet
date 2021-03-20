@@ -1,1 +1,1 @@
-var mnemonic = "ship note repeat fork there salon jelly gorilla van eternal private below";
+var mnemonic = "glimpse false spin juice soda stumble slow cotton august flee spawn orchard";

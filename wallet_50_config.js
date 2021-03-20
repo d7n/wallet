@@ -1,1 +1,1 @@
-var mnemonic = "know voice pilot cricket begin original shove total screen nation witness hundred";
+var mnemonic = "artwork appear web actual describe heart fruit south river cattle insect engine";

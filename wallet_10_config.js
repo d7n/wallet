@@ -1,1 +1,1 @@
-var mnemonic = "vague paddle elephant foot flag relax silver mule write win invite height";
+var mnemonic = "ice fun display either spot know bulk rally lady hollow charge divide";

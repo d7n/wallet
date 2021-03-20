@@ -1,1 +1,1 @@
-var mnemonic = "material main eye draw comfort drop hunt eager fee already make wrong";
+var mnemonic = "stamp together burger file afraid strike table kite scorpion hub forum dose";

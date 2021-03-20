@@ -1,1 +1,1 @@
-var mnemonic = "destroy jewel flip vintage finish maid stay mushroom chicken spoil glimpse hard";
+var mnemonic = "voice critic path toast tongue what country claim dinner grief credit access";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle casual collect bachelor possible upper witness vocal thunder panther this follow";
+var mnemonic = "old cruel service style pony soup nut upgrade crane diet kangaroo depart";

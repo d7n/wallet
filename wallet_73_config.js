@@ -1,1 +1,1 @@
-var mnemonic = "breeze address predict title hen taste accuse equal catalog twice brain armor";
+var mnemonic = "gadget city consider misery copy cousin nest kitten poet flat diamond brisk";

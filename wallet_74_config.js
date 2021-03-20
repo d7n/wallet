@@ -1,1 +1,1 @@
-var mnemonic = "purchase bronze wealth deer name ship reopen already salad unlock wagon forget";
+var mnemonic = "enjoy pair such settle obey bone someone unique year screen screen purse";

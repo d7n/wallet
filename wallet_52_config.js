@@ -1,1 +1,1 @@
-var mnemonic = "corn special hover identify again expect nasty tooth pig isolate flower layer";
+var mnemonic = "price avocado fame shine rule pulp detect rent dog tag gallery real";

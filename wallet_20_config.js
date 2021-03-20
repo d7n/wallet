@@ -1,1 +1,1 @@
-var mnemonic = "response expire river fuel umbrella element cost ivory knife east act pole";
+var mnemonic = "kitchen first yard pink crisp right helmet discover denial become liberty notable";

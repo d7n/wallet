@@ -1,1 +1,1 @@
-var mnemonic = "use legal system total theory cushion tower noble fossil cattle exchange vast";
+var mnemonic = "seed energy group lunch text electric exit air immense rapid reward van";

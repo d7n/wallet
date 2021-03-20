@@ -1,1 +1,1 @@
-var mnemonic = "fit genius recycle kiwi park project unique menu inject emotion wrestle miracle";
+var mnemonic = "practice end state faith menu assault measure put person leg kiss wrist";

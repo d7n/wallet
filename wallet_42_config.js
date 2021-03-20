@@ -1,1 +1,1 @@
-var mnemonic = "section wide scrap hollow crisp category music ring exhaust jaguar panda staff";
+var mnemonic = "rug wing notice into edit beach among badge reflect vast garment wine";

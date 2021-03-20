@@ -1,1 +1,1 @@
-var mnemonic = "title include polar switch park miracle hair tree umbrella october tooth square";
+var mnemonic = "chronic color life north stumble license next donkey ancient remind under fruit";

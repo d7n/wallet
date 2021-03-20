@@ -1,1 +1,1 @@
-var mnemonic = "case true vault case hollow punch broken recall traffic avoid mask super";
+var mnemonic = "witness nasty truly goose try sort extra border meadow there divorce theme";

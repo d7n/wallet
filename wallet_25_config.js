@@ -1,1 +1,1 @@
-var mnemonic = "chef skirt domain sugar weird panda kit decline tattoo swallow magnet twist";
+var mnemonic = "region student topple theory rug flat truth fetch thumb gauge shoulder expand";

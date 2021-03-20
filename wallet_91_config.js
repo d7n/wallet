@@ -1,1 +1,1 @@
-var mnemonic = "average decade engine spread hover kid impose mass loan bridge stone siege";
+var mnemonic = "pony basket permit guard stamp angry online million shy comic foam cage";

@@ -1,1 +1,1 @@
-var mnemonic = "weird reject drop relief spare dose rose uncover romance film harvest guess";
+var mnemonic = "trip flavor chronic twist rhythm future couple upon apology bulk wealth city";

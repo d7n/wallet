@@ -1,1 +1,1 @@
-var mnemonic = "thunder crop image solid please rail worth symbol vague burst display ice";
+var mnemonic = "token oblige tattoo gauge brief unit wire glow bridge come ticket earn";

@@ -1,1 +1,1 @@
-var mnemonic = "icon humor luggage clutch vintage traffic mushroom sock deposit royal deer eagle";
+var mnemonic = "quote anger giggle weasel basic rule dream index cage normal tornado round";

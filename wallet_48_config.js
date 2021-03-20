@@ -1,1 +1,1 @@
-var mnemonic = "lend gloom above decline notice citizen dismiss fox response flash blur iron";
+var mnemonic = "destroy guilt feel mutual water hire little much fetch walnut sword vessel";

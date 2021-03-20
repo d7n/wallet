@@ -1,1 +1,1 @@
-var mnemonic = "skate drink agree write oak cactus chef humble job enroll tattoo stove";
+var mnemonic = "skill stadium blanket razor basic zone blossom strategy dilemma glad risk thought";

@@ -1,1 +1,1 @@
-var mnemonic = "setup letter menu receive blanket skate attack cricket supply denial laptop penalty";
+var mnemonic = "primary follow cable just distance soldier stairs neither winner purity blur loop";

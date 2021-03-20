@@ -1,1 +1,1 @@
-var mnemonic = "trick volume brain sniff team canoe soft boring drink oil kiss remove";
+var mnemonic = "avocado assume speed rural wheat chase find offer air absent age local";

@@ -1,1 +1,1 @@
-var mnemonic = "response chuckle hope much rubber corn urge vacuum blame reform fabric yellow";
+var mnemonic = "decorate shaft cross embrace outside merit year thank defense pottery embark seat";

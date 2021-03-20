@@ -1,1 +1,1 @@
-var mnemonic = "funny there flavor useful purity nose bitter ripple figure perfect bounce sail";
+var mnemonic = "work feature once whale tackle effort wonder wonder guitar pen detect wait";

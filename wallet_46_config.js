@@ -1,1 +1,1 @@
-var mnemonic = "salad wave brisk wrap pattern strike jealous blouse mouse modify kind disorder";
+var mnemonic = "milk measure usage carbon magnet swim medal party knife note update electric";

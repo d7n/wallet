@@ -1,1 +1,1 @@
-var mnemonic = "palace bitter repeat print soft scheme group buzz income hamster rich holiday";
+var mnemonic = "cloth music supply punch broken elder switch aware december slide planet desert";

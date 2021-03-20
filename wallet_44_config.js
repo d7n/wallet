@@ -1,1 +1,1 @@
-var mnemonic = "want tragic water elegant purity slot hamster voyage average develop adjust myself";
+var mnemonic = "violin blame vacant mercy happy front stand thumb mention silly chair spare";

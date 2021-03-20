@@ -1,1 +1,1 @@
-var mnemonic = "together lobster pizza increase banana fever gadget apart protect long banana draw";
+var mnemonic = "venue permit help need human apart famous account act planet armed daughter";

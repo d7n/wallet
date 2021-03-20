@@ -1,1 +1,1 @@
-var mnemonic = "rally grit vicious prosper story option auction scout among peasant humor image";
+var mnemonic = "uncle settle goddess park power regret chair sauce season muffin suit correct";
