@@ -1,1 +1,1 @@
-var mnemonic = "nothing bread always tray grape phrase urban soap reflect topple thunder diagram";
+var mnemonic = "write april repair crucial pipe clump ridge attract shield birth march advance";

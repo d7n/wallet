@@ -1,1 +1,1 @@
-var mnemonic = "buddy again jaguar rate thunder fall truck pill ride draw author riot";
+var mnemonic = "marine junk boss puppy carpet work slim rhythm tell vocal grant ball";

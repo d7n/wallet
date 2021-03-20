@@ -1,1 +1,1 @@
-var mnemonic = "silly syrup panic sport short honey course talent mail demand punch coyote";
+var mnemonic = "next follow surround crisp great neck rent sense divorce twice maid confirm";

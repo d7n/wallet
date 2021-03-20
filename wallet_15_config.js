@@ -1,1 +1,1 @@
-var mnemonic = "dish paper until arrest field concert term youth wisdom feel isolate rifle";
+var mnemonic = "funny jar army damage task slush now casual animal final health sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "route topple excite sell solid learn control blood bring picnic swear sure";
+var mnemonic = "snake brown hospital diagram immune solar join crouch misery day company history";

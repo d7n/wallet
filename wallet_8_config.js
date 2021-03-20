@@ -1,1 +1,1 @@
-var mnemonic = "during chunk staff adapt bubble awkward mercy make sun bread debris spare";
+var mnemonic = "brand mother harvest wet seven final camp knife gown fun plunge release";

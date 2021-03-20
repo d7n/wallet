@@ -1,1 +1,1 @@
-var mnemonic = "slight flee dash bamboo enter raise heart capital bottom violin prevent ocean";
+var mnemonic = "chronic myth shoot roast sweet enemy siren desk armed flag million clock";

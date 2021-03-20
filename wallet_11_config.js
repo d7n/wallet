@@ -1,1 +1,1 @@
-var mnemonic = "fancy common obscure symptom pen account knife festival nation budget remind flip";
+var mnemonic = "board photo fix black carpet observe access liberty record update hire outdoor";

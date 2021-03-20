@@ -1,1 +1,1 @@
-var mnemonic = "glare wood you margin expand neither veteran deny fine primary infant apology";
+var mnemonic = "clerk fabric report claw purity animal fix drift aerobic inject vicious fury";

@@ -1,1 +1,1 @@
-var mnemonic = "remain theory excuse cliff snake mouse ten arrive kitchen express random return";
+var mnemonic = "invite unlock lunch index poverty smoke execute glove jump leaf leaf cotton";

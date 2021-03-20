@@ -1,1 +1,1 @@
-var mnemonic = "critic pulse code gadget escape fork already initial select nerve lawsuit custom";
+var mnemonic = "come faith cactus play payment man random hybrid rigid doctor vintage various";

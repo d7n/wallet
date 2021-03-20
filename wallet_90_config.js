@@ -1,1 +1,1 @@
-var mnemonic = "right safe mask evolve excess actor fit wool cost initial cinnamon novel";
+var mnemonic = "shoe almost arm panel swallow walnut chicken black version stumble base egg";

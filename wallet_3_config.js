@@ -1,1 +1,1 @@
-var mnemonic = "upset erosion river peace iron runway afraid session favorite help drama program";
+var mnemonic = "peanut stable among hen mail novel primary trust method cereal corn blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "fall frost oven peanut crop method odor gloom toss protect priority quantum";
+var mnemonic = "island goose unique effort spoil mule steak catalog organ point daring switch";

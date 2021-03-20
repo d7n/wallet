@@ -1,1 +1,1 @@
-var mnemonic = "much gospel tattoo summer either pole heavy toilet guilt thunder insane panel";
+var mnemonic = "width shove nose party armed guitar moment exclude glance foil dad regret";

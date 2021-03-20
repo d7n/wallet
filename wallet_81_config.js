@@ -1,1 +1,1 @@
-var mnemonic = "magic female page catch found nut country vehicle coast judge crew body";
+var mnemonic = "resist model loyal door lucky depend frequent tortoise print field feel buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran couple relax journey push ahead metal board case filter deny live";
+var mnemonic = "jump media season cram frozen leisure huge bomb inspire quantum toilet noise";

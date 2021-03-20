@@ -1,1 +1,1 @@
-var mnemonic = "retreat cat despair suffer voice hamster relief pig short key baby guitar";
+var mnemonic = "energy seek render pool edge deputy jewel thank face village figure hurt";

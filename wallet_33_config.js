@@ -1,1 +1,1 @@
-var mnemonic = "man rug peanut word emotion input label web accident also bike bonus";
+var mnemonic = "rapid mansion oxygen situate home lava boy noise limb recipe vivid glove";

@@ -1,1 +1,1 @@
-var mnemonic = "move own elder appear want design taxi section begin cloth impose purity";
+var mnemonic = "find economy venture task ranch update typical direct genuine return oblige loud";

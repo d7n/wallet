@@ -1,1 +1,1 @@
-var mnemonic = "traffic mixed fit woman above hammer drive ripple another soldier hazard exotic";
+var mnemonic = "salmon remain retire wall boost hole priority subway town idle pizza project";

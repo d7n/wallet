@@ -1,1 +1,1 @@
-var mnemonic = "pool wrap upgrade away vital thrive vacuum federal muscle apology soap model";
+var mnemonic = "whale venue flavor actor young story worth angry right addict mask bomb";

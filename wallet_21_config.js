@@ -1,1 +1,1 @@
-var mnemonic = "lake noodle another install village embrace wealth depend resist segment hundred nature";
+var mnemonic = "boat energy crush forum section final buzz mercy child mammal happy taste";

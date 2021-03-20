@@ -1,1 +1,1 @@
-var mnemonic = "noodle uniform slide verb tail gentle fabric setup verb when immense all";
+var mnemonic = "voyage utility barely trash surface daring habit track garage glimpse canoe cannon";

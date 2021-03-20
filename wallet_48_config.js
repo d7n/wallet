@@ -1,1 +1,1 @@
-var mnemonic = "stereo sense have drop guard silent spawn truly provide maid put scissors";
+var mnemonic = "unaware joy differ dance omit lunar shoot spoon brown fiscal rebuild roast";

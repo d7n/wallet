@@ -1,1 +1,1 @@
-var mnemonic = "fence copy belt argue survey ready census make tongue final hidden interest";
+var mnemonic = "stick equal video vault egg miracle book submit banana umbrella barely age";

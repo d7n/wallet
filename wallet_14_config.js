@@ -1,1 +1,1 @@
-var mnemonic = "brief bunker luggage local fiscal error type will bus pen pupil sea";
+var mnemonic = "tonight miss muffin dose thank fiction slight dry pulse minute habit nose";

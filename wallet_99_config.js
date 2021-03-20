@@ -1,1 +1,1 @@
-var mnemonic = "city coast silk swap lazy mix capital frozen warm observe despair reform";
+var mnemonic = "awkward school inquiry program uncover candy broom inside weather second sugar possible";

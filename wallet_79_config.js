@@ -1,1 +1,1 @@
-var mnemonic = "worth frozen artefact school hammer garment clog error bar bounce purpose planet";
+var mnemonic = "slow amateur tunnel slab news journey fan good wonder excess license seat";

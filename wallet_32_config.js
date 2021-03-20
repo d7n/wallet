@@ -1,1 +1,1 @@
-var mnemonic = "crash green chronic blouse liar sauce peanut disagree clarify pull globe nest";
+var mnemonic = "vote tool orange slight promote opera sorry banana wage clown february horse";

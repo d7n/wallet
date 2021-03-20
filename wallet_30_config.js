@@ -1,1 +1,1 @@
-var mnemonic = "spin language belt account vital input damage cute wedding tooth hazard trust";
+var mnemonic = "garden gown warm border catch exhibit table bus need resemble mixture sunset";

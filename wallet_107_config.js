@@ -1,1 +1,1 @@
-var mnemonic = "build pact gown use slice arrange excite wagon flock alley insect penalty";
+var mnemonic = "gold wagon credit unfold soap salute creek pill drink regret connect inch";

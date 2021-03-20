@@ -1,1 +1,1 @@
-var mnemonic = "impact moon amount kind vessel valley glass mystery energy pudding scrub valley";
+var mnemonic = "sure pool ethics mountain letter fiction dog recipe logic pistol casual magnet";

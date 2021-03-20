@@ -1,1 +1,1 @@
-var mnemonic = "satisfy cost organ dirt retire neck innocent strike glove steak jazz replace";
+var mnemonic = "step offer fiction wolf chair exit arch demand dash valid dinosaur blue";

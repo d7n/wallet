@@ -1,1 +1,1 @@
-var mnemonic = "race collect current noise churn arrive margin hurry decide degree logic spend";
+var mnemonic = "essay latin author dawn mistake cause ritual coast embrace yard gauge ring";

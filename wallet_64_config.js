@@ -1,1 +1,1 @@
-var mnemonic = "young hour rich water toast display choose slot raccoon drill file acoustic";
+var mnemonic = "moral car famous evolve hill attract visit ketchup luggage accident layer celery";

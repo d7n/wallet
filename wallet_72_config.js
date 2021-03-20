@@ -1,1 +1,1 @@
-var mnemonic = "kind era vault hedgehog scrub shine citizen finish crop damp leaf chalk";
+var mnemonic = "charge sentence priority maximum rotate decide stamp liberty false pyramid draft era";

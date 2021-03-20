@@ -1,1 +1,1 @@
-var mnemonic = "nose illegal dwarf high analyst castle ridge cake kid leg entry super";
+var mnemonic = "spike strategy arrow claw churn child crack defy diesel argue unit mask";

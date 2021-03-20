@@ -1,1 +1,1 @@
-var mnemonic = "robust rate dilemma noise across promote then street switch group cement intact";
+var mnemonic = "grab radar budget alarm review say road island lamp join wide play";

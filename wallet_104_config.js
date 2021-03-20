@@ -1,1 +1,1 @@
-var mnemonic = "pigeon thrive window swim arrow donor menu float student chuckle exclude trip";
+var mnemonic = "client easily humor always coconut gospel enjoy insane smart split cool skate";

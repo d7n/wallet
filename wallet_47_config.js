@@ -1,1 +1,1 @@
-var mnemonic = "strong south auction smoke drive cat display culture impose wage mom jazz";
+var mnemonic = "fence wish finish grain impose lava time lend pulse chunk midnight link";

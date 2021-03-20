@@ -1,1 +1,1 @@
-var mnemonic = "tourist topic soft isolate tank city mirror nut fly battle chicken door";
+var mnemonic = "fiscal cliff collect donate anger peanut strategy gadget april raven giggle glare";

@@ -1,1 +1,1 @@
-var mnemonic = "clog enhance decrease short south negative reopen scale random dirt wood spread";
+var mnemonic = "field zebra menu level act february oval opera insect cannon trap maple";

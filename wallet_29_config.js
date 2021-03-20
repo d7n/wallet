@@ -1,1 +1,1 @@
-var mnemonic = "improve shock cheap strong switch change twist sample glimpse increase catch swap";
+var mnemonic = "kick hockey stand truth beyond inspire topic fine parrot card young enrich";

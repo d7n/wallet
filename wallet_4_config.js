@@ -1,1 +1,1 @@
-var mnemonic = "visit hundred worth lunar bounce gain shoot summer siege hidden lend dynamic";
+var mnemonic = "run sting genius popular desk ancient prize wrap pluck reopen rebuild wrestle";

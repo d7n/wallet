@@ -1,1 +1,1 @@
-var mnemonic = "walnut cattle weather shift injury bread cat garden oven control that law";
+var mnemonic = "blur recipe click soup apart scout scale system salt sign print grid";

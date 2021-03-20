@@ -1,1 +1,1 @@
-var mnemonic = "catalog gravity transfer pen found angry benefit symptom whale bicycle trial odor";
+var mnemonic = "trumpet aunt erosion chief anchor capital remind sadness knock waste execute proof";

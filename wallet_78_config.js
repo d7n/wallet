@@ -1,1 +1,1 @@
-var mnemonic = "hill inherit cube mom vibrant inside manage found mimic virtual planet garage";
+var mnemonic = "illness jewel upgrade person exhibit around door country cigar keen wealth blood";

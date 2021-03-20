@@ -1,1 +1,1 @@
-var mnemonic = "evoke pair vault ocean exit thumb humble local census boring spray garden";
+var mnemonic = "help senior material embrace front advance book until powder admit bring glance";

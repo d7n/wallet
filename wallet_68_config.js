@@ -1,1 +1,1 @@
-var mnemonic = "action swap hold wire emerge frame come whip reopen rate away company";
+var mnemonic = "tribe alert great satoshi today faith erode card region runway leisure annual";

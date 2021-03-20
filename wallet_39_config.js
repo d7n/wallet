@@ -1,1 +1,1 @@
-var mnemonic = "talent alcohol equip candy lunch power arrest buyer panther powder curtain recipe";
+var mnemonic = "quality diet point undo mean tape embody future apology obscure online swing";

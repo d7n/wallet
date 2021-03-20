@@ -1,1 +1,1 @@
-var mnemonic = "animal cat kit lamp slab human boat sport slight actress casino light";
+var mnemonic = "fee there monkey honey marine wife whale dish submit toward width vintage";

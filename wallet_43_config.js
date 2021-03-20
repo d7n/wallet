@@ -1,1 +1,1 @@
-var mnemonic = "floor consider attitude about labor travel render traffic grass salon front solid";
+var mnemonic = "edge define surround obscure stool blade proof impact oval forum symbol royal";

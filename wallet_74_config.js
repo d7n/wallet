@@ -1,1 +1,1 @@
-var mnemonic = "place grace pill harsh around piece squeeze van people token memory master";
+var mnemonic = "urge march giant digital basket alley wool piano unhappy daring barrel craft";

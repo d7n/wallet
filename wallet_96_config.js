@@ -1,1 +1,1 @@
-var mnemonic = "funny coast hunt speak orange romance lucky frame just knee net obtain";
+var mnemonic = "program metal witness engine dumb aisle tent harvest hedgehog dinosaur fly door";

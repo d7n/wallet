@@ -1,1 +1,1 @@
-var mnemonic = "gasp loop impact embark woman device protect sweet evolve beach element destroy";
+var mnemonic = "keep clown dream budget dirt eternal before cage snap float gesture major";

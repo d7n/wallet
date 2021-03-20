@@ -1,1 +1,1 @@
-var mnemonic = "absent stumble used truly gain solar awkward blue flush output jaguar fabric";
+var mnemonic = "walk vote execute girl attitude army grow chunk episode frost february anger";

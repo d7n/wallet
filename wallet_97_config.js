@@ -1,1 +1,1 @@
-var mnemonic = "pudding armor taxi solar promote menu one expand slide risk canoe ring";
+var mnemonic = "farm network edge category sphere mango fit guide goose reflect metal supply";

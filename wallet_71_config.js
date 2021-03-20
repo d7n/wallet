@@ -1,1 +1,1 @@
-var mnemonic = "second river prepare traffic icon retire field trouble right finish push suit";
+var mnemonic = "pattern hard tooth mass use defy size chimney bid answer jump book";

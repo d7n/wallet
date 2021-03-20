@@ -1,1 +1,1 @@
-var mnemonic = "tennis then agent explain debris rifle miracle benefit permit market endorse index";
+var mnemonic = "laptop damp base define gospel begin combine video bicycle clap absent also";

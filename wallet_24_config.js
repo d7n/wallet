@@ -1,1 +1,1 @@
-var mnemonic = "scissors hedgehog funny rebuild dynamic unknown green figure awkward negative enemy bar";
+var mnemonic = "sausage romance simple fade battle gallery consider dice wrap guitar advice grief";

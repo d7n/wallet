@@ -1,1 +1,1 @@
-var mnemonic = "upset cream cancel lucky globe purchase owner melt script stamp topic ice";
+var mnemonic = "tragic repair supreme tooth cart domain crop harvest cup fat museum ceiling";

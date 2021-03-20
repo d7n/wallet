@@ -1,1 +1,1 @@
-var mnemonic = "harsh once tone analyst scorpion prison ladder rich effort meat brief column";
+var mnemonic = "mesh sure just immense flip flash audit thumb ivory essay bid obscure";

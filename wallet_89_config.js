@@ -1,1 +1,1 @@
-var mnemonic = "jazz horn base imitate wing timber remember dentist install course trip display";
+var mnemonic = "media proud siege cheese pottery arrow recipe broom avocado age then nasty";

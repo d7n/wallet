@@ -1,1 +1,1 @@
-var mnemonic = "put hurry way together boring donate salon youth common angle typical nurse";
+var mnemonic = "caught antique peanut focus face mirror process surface best length return upper";

@@ -1,1 +1,1 @@
-var mnemonic = "caught salad prefer gallery secret fringe reject raise party faith heart tail";
+var mnemonic = "public hundred sketch final tumble exit load door example since usage penalty";

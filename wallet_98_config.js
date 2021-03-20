@@ -1,1 +1,1 @@
-var mnemonic = "virtual inside car draft skin north time hope bind stomach explain direct";
+var mnemonic = "enrich farm resist mixed enemy neck section shadow together short diamond sting";

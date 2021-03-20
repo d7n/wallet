@@ -1,1 +1,1 @@
-var mnemonic = "away prefer dose mask blush reflect emerge angry cattle poet guess recipe";
+var mnemonic = "twist outside choice sand turkey oxygen forest rural detail ankle across pluck";

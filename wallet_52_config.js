@@ -1,1 +1,1 @@
-var mnemonic = "armed you torch good easy embody grant local among they engage task";
+var mnemonic = "hungry cry victory attack eager orange moral usual material glide zone perfect";

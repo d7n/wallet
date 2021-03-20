@@ -1,1 +1,1 @@
-var mnemonic = "taste axis tattoo dish token air basic hybrid leader retire say ancient";
+var mnemonic = "tonight public very combine catalog shaft bottom fit rapid civil discover boil";

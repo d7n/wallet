@@ -1,1 +1,1 @@
-var mnemonic = "ceiling roof claim appear exotic quiz three fish cage behave sausage float";
+var mnemonic = "mass hip maid ancient enrich ranch monster security giant shrug loop fire";

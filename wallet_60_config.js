@@ -1,1 +1,1 @@
-var mnemonic = "frog cement neglect ridge legal anger view portion tank jacket castle enable";
+var mnemonic = "slot broken book adult tape recall hedgehog wasp advance permit uphold conduct";

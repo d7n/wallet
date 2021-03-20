@@ -1,1 +1,1 @@
-var mnemonic = "legal day exhaust duck nut peace bridge point lawsuit ripple act protect";
+var mnemonic = "bird mammal plunge invest punch flash cruise benefit air biology sing huge";

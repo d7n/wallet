@@ -1,1 +1,1 @@
-var mnemonic = "harbor report write type aunt casual guess antique enough cake upon dose";
+var mnemonic = "race sentence innocent depend again gloom resemble blue exact feel senior beauty";

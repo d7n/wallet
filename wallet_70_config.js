@@ -1,1 +1,1 @@
-var mnemonic = "owner myth utility want awkward health penalty betray faint crouch park lottery";
+var mnemonic = "country own cherry equip van gentle orient unaware salt claw produce bachelor";

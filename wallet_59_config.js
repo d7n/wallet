@@ -1,1 +1,1 @@
-var mnemonic = "few test spray ahead inhale observe elephant develop then dolphin thank daring";
+var mnemonic = "capable oyster opinion sunset tray museum expand wing fix beach square comic";

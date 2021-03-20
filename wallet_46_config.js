@@ -1,1 +1,1 @@
-var mnemonic = "decrease code bitter dash palm float sense tuna zoo plunge title amazing";
+var mnemonic = "divide avocado panic ready tool cabbage second silent differ oyster expire govern";

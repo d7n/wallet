@@ -1,1 +1,1 @@
-var mnemonic = "budget match crisp please silver year vague slender battle tent all today";
+var mnemonic = "poem page obscure ghost two walk ready symptom puppy engine never nerve";

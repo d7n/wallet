@@ -1,1 +1,1 @@
-var mnemonic = "embody broken casual plug romance element glove comfort february speak heavy lock";
+var mnemonic = "daughter grunt caution permit response river avocado grace neither hub exact stairs";

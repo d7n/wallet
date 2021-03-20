@@ -1,1 +1,1 @@
-var mnemonic = "blame option clever around adapt fox cube season peasant raccoon real cabin";
+var mnemonic = "say dial title rent industry cabbage eight rose alcohol genre boss sock";

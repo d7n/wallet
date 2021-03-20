@@ -1,1 +1,1 @@
-var mnemonic = "ritual attack piano mutual ensure daughter history scale burst tube rate garment";
+var mnemonic = "pilot siren call journey traffic topple measure dolphin blur cry order friend";

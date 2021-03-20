@@ -1,1 +1,1 @@
-var mnemonic = "evil actor luggage sense rough abstract swing priority hidden odor erupt domain";
+var mnemonic = "crack curious finger spawn parent spider skill inject special market regret lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "wave urban wheel east ocean menu purse media street once this jacket";
+var mnemonic = "truth security ankle crazy rough milk scheme math marine bonus welcome must";

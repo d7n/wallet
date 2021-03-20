@@ -1,1 +1,1 @@
-var mnemonic = "lizard capable drama bounce bulk random wall warm pyramid wisdom size clarify";
+var mnemonic = "foster when dolphin stadium win crunch sense danger zoo oxygen certain economy";

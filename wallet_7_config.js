@@ -1,1 +1,1 @@
-var mnemonic = "alcohol gravity fever kidney head orange coyote almost era snack pepper unveil";
+var mnemonic = "jewel onion test load adult average practice stool escape borrow engine worth";
