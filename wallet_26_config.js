@@ -1,1 +1,1 @@
-var mnemonic = "horn hockey coral thing verb flag height weird maple negative tube arrow";
+var mnemonic = "hollow joy stamp useless voice brown lawsuit session gadget orchard habit steak";

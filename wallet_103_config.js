@@ -1,1 +1,1 @@
-var mnemonic = "woman hotel flip orbit room estate joke solve share indoor junk assist";
+var mnemonic = "spend order shrug harsh public behind noise plate dumb pledge mobile tip";

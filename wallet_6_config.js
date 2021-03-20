@@ -1,1 +1,1 @@
-var mnemonic = "cruel tiger client series economy leopard another latin ranch mistake appear harvest";
+var mnemonic = "scene quick taxi thrive action swallow make female neither eight coast absent";

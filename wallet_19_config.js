@@ -1,1 +1,1 @@
-var mnemonic = "cream swing system utility cat spider panther nerve scrap extra despair rice";
+var mnemonic = "weekend deal carpet spice jazz zero distance staff fee absent option replace";

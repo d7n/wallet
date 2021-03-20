@@ -1,1 +1,1 @@
-var mnemonic = "retreat universe matter together fold risk define scare fun clap home fox";
+var mnemonic = "envelope token possible figure surround own lizard mercy hammer hill catalog myth";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry version present cheese bar garbage scheme acoustic burst approve pupil success";
+var mnemonic = "tape media drop pig fashion praise coach shrug punch first jump now";

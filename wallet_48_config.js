@@ -1,1 +1,1 @@
-var mnemonic = "drum potato palace float unaware junk tell broken cruel surprise defy fantasy";
+var mnemonic = "more deal area truly debate settle fatal ozone harsh first tobacco million";

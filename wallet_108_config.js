@@ -1,1 +1,1 @@
-var mnemonic = "verify glance gym ramp limb maximum amount alarm close busy burst hire";
+var mnemonic = "recipe fat city walk prefer satoshi middle brain blade illegal tackle mistake";

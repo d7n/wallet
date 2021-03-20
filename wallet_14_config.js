@@ -1,1 +1,1 @@
-var mnemonic = "assist birth invite peace entry group crawl stay october problem flavor hurry";
+var mnemonic = "regular upon table brother trim accident fatigue crater almost upon donate nurse";

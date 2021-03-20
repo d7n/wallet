@@ -1,1 +1,1 @@
-var mnemonic = "fee regular spatial crime mean swift taxi cable super attack casino silk";
+var mnemonic = "spirit drum nominee blood isolate buffalo arrange view will torch work anchor";

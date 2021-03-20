@@ -1,1 +1,1 @@
-var mnemonic = "kite bachelor next father window satisfy crop wild bubble slot high boil";
+var mnemonic = "draw hidden similar dawn curve torch consider grid giant girl feel process";

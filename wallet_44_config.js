@@ -1,1 +1,1 @@
-var mnemonic = "exist auto neither reopen rebuild ivory club labor harbor flock combine cover";
+var mnemonic = "blood type unusual inmate dignity rebuild farm light bulb define kitten student";

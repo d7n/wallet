@@ -1,1 +1,1 @@
-var mnemonic = "ski document battle shallow bulk shell wide then arch dolphin rose fury";
+var mnemonic = "wise focus inch end caught become day weird idea weather quarter secret";

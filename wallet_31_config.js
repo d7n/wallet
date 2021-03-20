@@ -1,1 +1,1 @@
-var mnemonic = "convince age tool tragic coconut reward much bounce vessel horn suit bread";
+var mnemonic = "case home chunk chimney captain web satoshi topic reopen miracle spoil soon";

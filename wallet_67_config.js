@@ -1,1 +1,1 @@
-var mnemonic = "clump stadium carry lazy pilot position surface pull bitter proud deliver involve";
+var mnemonic = "cheap strong expand absurd settle chaos swamp success purity time canyon sustain";

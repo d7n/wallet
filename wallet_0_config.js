@@ -1,1 +1,1 @@
-var mnemonic = "answer absorb rubber sand doll hamster volcano truck shop asset monster goddess";
+var mnemonic = "novel fatigue oil dove rule oak chair sausage illness galaxy exit hollow";

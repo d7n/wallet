@@ -1,1 +1,1 @@
-var mnemonic = "goat eager festival purity force minimum round nation make quarter paddle piano";
+var mnemonic = "cable ridge hope super recipe rhythm fold rotate canal head light day";

@@ -1,1 +1,1 @@
-var mnemonic = "clip claim west broccoli jeans rely ready rely ugly wine end wife";
+var mnemonic = "sad myself news cash oval wrist position palm host square main glad";

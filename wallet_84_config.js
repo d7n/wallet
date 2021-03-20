@@ -1,1 +1,1 @@
-var mnemonic = "stone stadium measure prosper two neutral soap enter wide holiday bounce puppy";
+var mnemonic = "nothing problem black coyote donate stumble grief smart solar bamboo race best";

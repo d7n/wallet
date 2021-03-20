@@ -1,1 +1,1 @@
-var mnemonic = "abandon review loop shove follow above unaware open artwork drama fringe rent";
+var mnemonic = "cycle virus forest secret waste air joy hundred crash drama wrestle sock";

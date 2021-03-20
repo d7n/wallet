@@ -1,1 +1,1 @@
-var mnemonic = "want sentence say shrug access agent edge vote swear heart glimpse tent";
+var mnemonic = "nut spice private unable oppose about raise youth wide right valley chunk";

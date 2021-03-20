@@ -1,1 +1,1 @@
-var mnemonic = "couch fresh alarm casino shine nice pyramid case artefact injury inside price";
+var mnemonic = "stadium casual gaze stamp action wing kidney picnic razor about moment chapter";

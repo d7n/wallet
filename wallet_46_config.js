@@ -1,1 +1,1 @@
-var mnemonic = "coil pig weasel trial frame autumn sound engine input drive interest method";
+var mnemonic = "duty escape garbage sure neutral black trust false point tip fan clerk";

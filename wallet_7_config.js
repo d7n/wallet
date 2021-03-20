@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow perfect pigeon wheel naive canvas old useful away lake satoshi burst";
+var mnemonic = "call garlic quick eight pelican screen jeans grab document hat ocean text";

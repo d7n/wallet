@@ -1,1 +1,1 @@
-var mnemonic = "core pumpkin virus print hunt orphan rely either unfair this once exhaust";
+var mnemonic = "weird eagle foster silver drastic service escape canvas festival crucial fence prevent";

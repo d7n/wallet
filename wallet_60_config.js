@@ -1,1 +1,1 @@
-var mnemonic = "soul match truck tent buyer print release forum stage badge quarter gas";
+var mnemonic = "plastic gossip adapt universe leader rack antique leisure remain joy pencil master";

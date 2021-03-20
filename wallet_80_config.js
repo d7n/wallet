@@ -1,1 +1,1 @@
-var mnemonic = "wedding enemy love adjust behave nature cheap best focus spawn image ahead";
+var mnemonic = "nest inject course tilt stand onion bounce brown echo select merry math";

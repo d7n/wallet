@@ -1,1 +1,1 @@
-var mnemonic = "dynamic sentence wrist foam canyon punch clarify another buyer visa electric december";
+var mnemonic = "time raven use innocent awful blur certain mixed frozen will man trophy";

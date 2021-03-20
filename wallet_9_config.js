@@ -1,1 +1,1 @@
-var mnemonic = "sausage lottery donor protect ecology palm icon hair depart laugh source mom";
+var mnemonic = "board employ derive remind tumble rigid fork flight sport solar exclude mix";

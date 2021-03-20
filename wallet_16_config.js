@@ -1,1 +1,1 @@
-var mnemonic = "behind doctor tourist emotion material shell piano degree track height recipe close";
+var mnemonic = "promote alley rocket example essence involve meadow own boss army orchard sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow giggle wait order intact candy uncover trend kiwi until close rug";
+var mnemonic = "company retreat start divide shiver soldier miracle silver riot pluck end tape";

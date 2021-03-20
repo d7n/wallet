@@ -1,1 +1,1 @@
-var mnemonic = "disorder ship license smile bitter object match mango cute height umbrella tomato";
+var mnemonic = "taste buffalo blast attract certain liar among butter talk sausage mammal game";

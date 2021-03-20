@@ -1,1 +1,1 @@
-var mnemonic = "noodle rail mammal morning just avoid cross near return repair talk gospel";
+var mnemonic = "physical crowd lock hollow lobster upgrade embrace awkward hip loop innocent amused";

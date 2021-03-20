@@ -1,1 +1,1 @@
-var mnemonic = "when program apart lazy pause bag test buffalo tray rally settle later";
+var mnemonic = "fame seven nuclear unveil flush satisfy narrow diagram mango arrest mom wish";

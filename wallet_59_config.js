@@ -1,1 +1,1 @@
-var mnemonic = "idea wave genius shine response flee misery drama jungle curve bronze unusual";
+var mnemonic = "entire fiction vault night code bleak valve situate crumble alcohol mix recall";

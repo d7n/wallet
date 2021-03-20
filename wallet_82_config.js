@@ -1,1 +1,1 @@
-var mnemonic = "muffin indicate proud hope shine aisle banner liberty trick island cigar mobile";
+var mnemonic = "timber leopard stage vague reason diary option bright practice flame erase bright";

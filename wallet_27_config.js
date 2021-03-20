@@ -1,1 +1,1 @@
-var mnemonic = "kit bike minute current lounge dog amateur turtle cattle riot position kiwi";
+var mnemonic = "make final this winter cause runway layer express call wink melt tongue";

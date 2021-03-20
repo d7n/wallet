@@ -1,1 +1,1 @@
-var mnemonic = "load cluster hope hotel couple purity sauce future airport near adjust artist";
+var mnemonic = "loyal journey swap dilemma sense unfold swarm public title gun saddle wire";

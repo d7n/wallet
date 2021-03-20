@@ -1,1 +1,1 @@
-var mnemonic = "mountain they tank insect isolate burden since hurry crack actual finish town";
+var mnemonic = "siren during welcome brick want scout glow arena fan page salt pyramid";

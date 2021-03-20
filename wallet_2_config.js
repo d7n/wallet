@@ -1,1 +1,1 @@
-var mnemonic = "favorite mass yard accident hurry joke jungle warfare human tornado maximum merry";
+var mnemonic = "dove involve goddess tomato hockey angle claim vessel into impose yellow strike";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny ship picture opera state vivid since drift cart carbon grape bamboo";
+var mnemonic = "response cactus rice marine question stove either debris twin dance execute catch";

@@ -1,1 +1,1 @@
-var mnemonic = "alter music random bring lawsuit until mom retire category material match brown";
+var mnemonic = "leader palm float hospital short sniff input fly grab town belt garlic";

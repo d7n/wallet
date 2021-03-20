@@ -1,1 +1,1 @@
-var mnemonic = "excess range artwork answer genius armor fork plunge shell buyer enrich boy";
+var mnemonic = "grid warfare lunar menu rally oak achieve evoke ramp general kite loyal";

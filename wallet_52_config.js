@@ -1,1 +1,1 @@
-var mnemonic = "under wing obscure shine power discover hotel digital cupboard point speak leisure";
+var mnemonic = "spoil climb ice army fever swim glimpse another train left obtain glimpse";

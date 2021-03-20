@@ -1,1 +1,1 @@
-var mnemonic = "review stereo unusual gadget daring city foster venture first million tower hurt";
+var mnemonic = "rapid spawn drill prefer race phone whisper connect impact fury text merry";

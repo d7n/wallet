@@ -1,1 +1,1 @@
-var mnemonic = "disorder twice ignore sweet tonight super cereal popular dial worry wear rail";
+var mnemonic = "warm coconut front earn detail mesh vault rival sentence render suffer voyage";

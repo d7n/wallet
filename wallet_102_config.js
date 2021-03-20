@@ -1,1 +1,1 @@
-var mnemonic = "draw promote exercise oxygen hurt flight foot thumb melt blind vote stable";
+var mnemonic = "sadness robot horn bench give rapid become local useful friend print denial";

@@ -1,1 +1,1 @@
-var mnemonic = "blast axis genuine leisure silent immune joy lucky dash atom once door";
+var mnemonic = "century glance drink boring next stone excess world tortoise ugly scrap soon";

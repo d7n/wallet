@@ -1,1 +1,1 @@
-var mnemonic = "sword damp length vital gallery dutch suffer drive crew canvas utility mad";
+var mnemonic = "steak shrug vacant echo balcony lab food duty hood review phone park";

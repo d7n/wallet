@@ -1,1 +1,1 @@
-var mnemonic = "erode abstract client novel absurd extend olive earth buyer attack pear another";
+var mnemonic = "dentist silk divorce plastic live car unhappy basic clutch elephant snow weekend";

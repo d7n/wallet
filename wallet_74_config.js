@@ -1,1 +1,1 @@
-var mnemonic = "gallery salad cluster paper cash motor above pulse flavor close label category";
+var mnemonic = "forest antique mix hunt return carbon horror toast churn crane sphere picnic";

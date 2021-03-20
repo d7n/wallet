@@ -1,1 +1,1 @@
-var mnemonic = "horse moral pride candy depend sponsor welcome metal curve toilet label gauge";
+var mnemonic = "range tube hurt film treat absent among secret search daring cross thought";

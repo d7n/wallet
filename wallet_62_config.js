@@ -1,1 +1,1 @@
-var mnemonic = "insect horror stock car huge garden slight happy cancel reunion lesson winter";
+var mnemonic = "fork bullet tired link admit rain hope shield miss song script main";

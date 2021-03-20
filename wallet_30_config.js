@@ -1,1 +1,1 @@
-var mnemonic = "journey laptop way range advice stay light update often stock clock combine";
+var mnemonic = "fence slam egg radio rice man license slab they token amused rigid";

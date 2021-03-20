@@ -1,1 +1,1 @@
-var mnemonic = "onion weekend omit wrestle ceiling year funny kiwi tonight worth wash honey";
+var mnemonic = "future brother few trash skill devote sport thought middle roast domain shoe";

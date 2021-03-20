@@ -1,1 +1,1 @@
-var mnemonic = "outdoor pulse vintage tribe castle will stamp seek zebra assist sting ghost";
+var mnemonic = "wheel involve embody ribbon cement muffin foot badge steel slam symptom ancient";

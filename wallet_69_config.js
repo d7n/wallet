@@ -1,1 +1,1 @@
-var mnemonic = "disorder regular fence eternal girl student fan fame else leg off vessel";
+var mnemonic = "valid mimic slab raw illegal blade quick mimic palace assume mesh enable";

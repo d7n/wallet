@@ -1,1 +1,1 @@
-var mnemonic = "ordinary case gain senior basic dash peace fall urge celery autumn favorite";
+var mnemonic = "license note public elephant unusual poet wagon benefit exile hold define cheap";

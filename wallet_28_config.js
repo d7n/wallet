@@ -1,1 +1,1 @@
-var mnemonic = "library fluid dwarf join usage public actor during advance model lonely wasp";
+var mnemonic = "donkey situate stool tide year wing slice media divert salute bulb thing";

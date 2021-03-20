@@ -1,1 +1,1 @@
-var mnemonic = "color critic exist hair mail laundry mule save honey during book also";
+var mnemonic = "intact pulp effort insane long renew century settle drill warrior soldier cash";

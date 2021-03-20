@@ -1,1 +1,1 @@
-var mnemonic = "gossip laugh blood comic gas nation come diary aspect talent summer kidney";
+var mnemonic = "rifle fine easy turtle bus seat wrestle gift occur crater broken shadow";

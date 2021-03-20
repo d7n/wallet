@@ -1,1 +1,1 @@
-var mnemonic = "cherry office fatal exchange traffic frame sunny curious chest awkward admit festival";
+var mnemonic = "fish venture unknown inmate fringe lend skill garden thumb sugar basic deputy";

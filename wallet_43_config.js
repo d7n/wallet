@@ -1,1 +1,1 @@
-var mnemonic = "split glide mesh bacon clap door rib music share food tree avocado";
+var mnemonic = "catalog apology liar clever exist security obtain cactus cargo subject issue side";

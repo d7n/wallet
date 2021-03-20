@@ -1,1 +1,1 @@
-var mnemonic = "when sudden physical blush where news aisle oil list ridge cram avoid";
+var mnemonic = "merit forget absurd cliff airport ribbon holiday poem series bubble horn clock";

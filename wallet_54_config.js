@@ -1,1 +1,1 @@
-var mnemonic = "have three tomato grass news cat bus stay above fury you robot";
+var mnemonic = "judge save boost amount eye neck pair unit pipe wealth mimic man";

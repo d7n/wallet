@@ -1,1 +1,1 @@
-var mnemonic = "elder priority glide betray upset diamond swing insect sport gather kid indicate";
+var mnemonic = "able lonely other rude control decrease park oval delay visa drive fashion";

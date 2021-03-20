@@ -1,1 +1,1 @@
-var mnemonic = "agent cousin spider wild oyster piano level tape sail stand seed guitar";
+var mnemonic = "hill use elder course portion shy swamp simple huge amused lens quote";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel mixture skin major worth naive priority submit dilemma injury sunset steak";
+var mnemonic = "junk team chicken orange casino grocery heart trap wall crane knee brown";

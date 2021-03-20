@@ -1,1 +1,1 @@
-var mnemonic = "usage resemble sword music cost member fancy draw team innocent march action";
+var mnemonic = "replace nest alien hollow bicycle cattle label illness toe essay monkey shove";

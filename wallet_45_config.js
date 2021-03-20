@@ -1,1 +1,1 @@
-var mnemonic = "dawn fan update ready improve economy torch news certain riot inspire brisk";
+var mnemonic = "service consider waste ivory route session belt cotton tumble system nephew joy";

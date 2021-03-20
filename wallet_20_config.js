@@ -1,1 +1,1 @@
-var mnemonic = "cabbage travel fever cram original trade win real matter auction eight alter";
+var mnemonic = "office elevator bicycle seat replace kitten great differ truly fat limb beyond";

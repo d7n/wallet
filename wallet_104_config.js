@@ -1,1 +1,1 @@
-var mnemonic = "absurd okay reflect deny bottom evidence fiber alert security sustain balcony female";
+var mnemonic = "social belt model garbage empty dog tray liquid section mammal opinion emerge";

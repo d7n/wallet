@@ -1,1 +1,1 @@
-var mnemonic = "vendor layer alert glimpse market wisdom bid soccer palace mirror suffer unknown";
+var mnemonic = "ask already camp never lens present resemble scrub great alone wheel fault";

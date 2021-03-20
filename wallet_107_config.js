@@ -1,1 +1,1 @@
-var mnemonic = "tragic business token finger make enroll jewel rough result track fatigue unaware";
+var mnemonic = "fresh hunt rigid mushroom wage burst learn text second oil return impact";

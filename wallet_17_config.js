@@ -1,1 +1,1 @@
-var mnemonic = "oblige bind blood shell execute prison prepare ridge seven unfair dune right";
+var mnemonic = "prize mountain field lumber want fortune glance cage movie boil bar public";

@@ -1,1 +1,1 @@
-var mnemonic = "foil color sad wink sad pole shrug win clip circle man oxygen";
+var mnemonic = "pig fly swamp glory traffic ride opera sword current genre round public";

@@ -1,1 +1,1 @@
-var mnemonic = "grain brass title below spin useful own perfect buddy rubber road stick";
+var mnemonic = "when bonus timber speak enable key can wasp adapt pencil hollow poverty";

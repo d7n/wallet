@@ -1,1 +1,1 @@
-var mnemonic = "cool flip pretty slam know reopen burst keen clog weasel ten still";
+var mnemonic = "notable drive receive lounge journey index alert only over meat pottery answer";

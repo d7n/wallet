@@ -1,1 +1,1 @@
-var mnemonic = "census negative clown athlete noble hunt wagon cute manual frozen strike tone";
+var mnemonic = "empty ten undo absurd refuse angry civil slice spike gentle orient market";

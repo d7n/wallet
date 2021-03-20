@@ -1,1 +1,1 @@
-var mnemonic = "item six faint reduce that sign drink stone saddle ghost possible lunar";
+var mnemonic = "estate front fence ridge front oak unfair twelve betray helmet worry east";

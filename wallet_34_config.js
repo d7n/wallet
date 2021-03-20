@@ -1,1 +1,1 @@
-var mnemonic = "excite satisfy artefact rack digital fluid urge clog message behave weather chalk";
+var mnemonic = "hedgehog index drastic unfold armor photo confirm index phrase glue physical also";

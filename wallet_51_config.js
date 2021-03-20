@@ -1,1 +1,1 @@
-var mnemonic = "cannon style nation club lonely section giggle hood lunar wage doll champion";
+var mnemonic = "easily model hungry doll paper put glove buyer sketch captain violin divide";

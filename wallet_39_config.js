@@ -1,1 +1,1 @@
-var mnemonic = "chat shop sweet range mercy whale sister arrow type peasant raccoon aerobic";
+var mnemonic = "teach profit relax peanut swim cage shell hotel pull census use shy";

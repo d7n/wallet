@@ -1,1 +1,1 @@
-var mnemonic = "mechanic reveal energy square reform legal emotion buyer devote allow predict cannon";
+var mnemonic = "frame account cement acid clinic canoe race debris danger soon across tower";

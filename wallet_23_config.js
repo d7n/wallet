@@ -1,1 +1,1 @@
-var mnemonic = "oyster sudden refuse coyote kitten announce few suggest current horn credit tomato";
+var mnemonic = "cheese effort column blade garbage science chalk fiscal object inner solve provide";
