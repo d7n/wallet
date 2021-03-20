@@ -1,1 +1,1 @@
-var mnemonic = "merit medal design filter spider february rocket orbit travel girl beach relief";
+var mnemonic = "demand effort payment horn maid syrup runway visual odor order know road";

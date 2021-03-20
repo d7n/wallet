@@ -1,1 +1,1 @@
-var mnemonic = "voice critic path toast tongue what country claim dinner grief credit access";
+var mnemonic = "term wagon apple flat excuse toward step cinnamon ghost canvas exchange damp";

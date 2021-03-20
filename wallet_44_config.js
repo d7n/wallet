@@ -1,1 +1,1 @@
-var mnemonic = "violin blame vacant mercy happy front stand thumb mention silly chair spare";
+var mnemonic = "advice dutch jewel reason report legend kit click trouble settle dance pause";

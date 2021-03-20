@@ -1,1 +1,1 @@
-var mnemonic = "resemble stuff utility antenna rescue solar goat cherry local resist mobile snow";
+var mnemonic = "steak begin coast unit dolphin search eyebrow mixture purpose field vague clinic";

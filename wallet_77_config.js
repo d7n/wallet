@@ -1,1 +1,1 @@
-var mnemonic = "fiber stamp wash convince aerobic thrive siren juice hard level swarm gap";
+var mnemonic = "sausage pave nothing rhythm ramp unhappy provide regret velvet lumber shoe mystery";

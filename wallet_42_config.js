@@ -1,1 +1,1 @@
-var mnemonic = "rug wing notice into edit beach among badge reflect vast garment wine";
+var mnemonic = "liar normal still release screen fluid pitch stove dentist pause hint circle";

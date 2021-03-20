@@ -1,1 +1,1 @@
-var mnemonic = "praise furnace camera pony humor pudding drift patrol denial castle later creek";
+var mnemonic = "climb movie camp salmon code father know chair antique uniform explain drill";

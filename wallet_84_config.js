@@ -1,1 +1,1 @@
-var mnemonic = "caught vapor kidney rhythm mesh relax provide order seat wet path salute";
+var mnemonic = "attend treat attitude coyote moral west catch ankle pupil sketch dance pair";

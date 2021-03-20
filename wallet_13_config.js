@@ -1,1 +1,1 @@
-var mnemonic = "squeeze duck decade interest wonder document seven actor weird draft nice vendor";
+var mnemonic = "giraffe wink ready usage cost ill army category weird fatal tray dish";

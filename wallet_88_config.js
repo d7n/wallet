@@ -1,1 +1,1 @@
-var mnemonic = "skill stadium blanket razor basic zone blossom strategy dilemma glad risk thought";
+var mnemonic = "minimum over swear absorb upgrade payment seat comfort bike shift where treat";

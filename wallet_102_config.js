@@ -1,1 +1,1 @@
-var mnemonic = "portion rubber special riot payment athlete mango naive junk stay slab omit";
+var mnemonic = "cup dress large harbor lens fitness great indoor option castle tomato asset";

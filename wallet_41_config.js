@@ -1,1 +1,1 @@
-var mnemonic = "guitar unaware peanut panel layer champion hotel unable surprise away front stay";
+var mnemonic = "punch ranch swing identify describe sure notable logic soon evidence will six";

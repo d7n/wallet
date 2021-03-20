@@ -1,1 +1,1 @@
-var mnemonic = "ice fun display either spot know bulk rally lady hollow charge divide";
+var mnemonic = "wealth flavor grocery pass decide whip piano lumber helmet steel rack edge";

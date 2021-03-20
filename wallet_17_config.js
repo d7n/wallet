@@ -1,1 +1,1 @@
-var mnemonic = "rain grow chronic submit hover fetch patch item chuckle okay slogan nominee";
+var mnemonic = "nephew like toe uncle normal pink early predict siren grab section tribe";

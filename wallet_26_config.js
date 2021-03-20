@@ -1,1 +1,1 @@
-var mnemonic = "flower story ten march cancel barely trim olive awkward valley tone uphold";
+var mnemonic = "icon mobile grow multiply mean viable near seven tongue common dinner time";

@@ -1,1 +1,1 @@
-var mnemonic = "quote anger giggle weasel basic rule dream index cage normal tornado round";
+var mnemonic = "portion fetch mask scissors squeeze rather spend wise bright journey page trigger";

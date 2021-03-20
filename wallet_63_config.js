@@ -1,1 +1,1 @@
-var mnemonic = "able marble evidence animal sniff bomb silly fresh attend photo ignore hand";
+var mnemonic = "fame model tuna error universe silk float lift spare diet speak choice";

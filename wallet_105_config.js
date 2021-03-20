@@ -1,1 +1,1 @@
-var mnemonic = "world always bleak rice day uphold brush meadow parrot friend clap core";
+var mnemonic = "dash throw maid mom column rich praise super wrap security squeeze away";

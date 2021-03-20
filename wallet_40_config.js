@@ -1,1 +1,1 @@
-var mnemonic = "notice spice upon penalty voyage measure guard hazard swing toy frequent slow";
+var mnemonic = "sausage smart industry example nest moment owner army increase much spatial twice";

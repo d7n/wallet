@@ -1,1 +1,1 @@
-var mnemonic = "kitchen first yard pink crisp right helmet discover denial become liberty notable";
+var mnemonic = "dust scorpion artist tent near angry drama insane robust blame agree regret";

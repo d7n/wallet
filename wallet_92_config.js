@@ -1,1 +1,1 @@
-var mnemonic = "stamp together burger file afraid strike table kite scorpion hub forum dose";
+var mnemonic = "casual grid curtain hospital giraffe rug digital monster picture toe absent mother";

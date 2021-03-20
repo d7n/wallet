@@ -1,1 +1,1 @@
-var mnemonic = "avocado assume speed rural wheat chase find offer air absent age local";
+var mnemonic = "host sadness demise stool bitter slush garment sure garment robot blast dwarf";

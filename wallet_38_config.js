@@ -1,1 +1,1 @@
-var mnemonic = "trip flavor chronic twist rhythm future couple upon apology bulk wealth city";
+var mnemonic = "solution path ship bike outdoor scene utility meadow catch sail celery open";

@@ -1,1 +1,1 @@
-var mnemonic = "sign protect wolf wire crane letter junk sketch account submit book exercise";
+var mnemonic = "earn witness history process decorate quantum super pattern silly other admit often";

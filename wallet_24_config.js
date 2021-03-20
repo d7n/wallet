@@ -1,1 +1,1 @@
-var mnemonic = "gasp vintage gather ivory dismiss when oven ahead nose exotic circle section";
+var mnemonic = "hollow siren empty wrist say close indicate demand nation green harvest major";

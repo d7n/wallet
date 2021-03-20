@@ -1,1 +1,1 @@
-var mnemonic = "scout blanket green chair age forget disagree shuffle discover link peanut spell";
+var mnemonic = "outside wrap mad master sea attend tone success occur ship rug virtual";

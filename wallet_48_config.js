@@ -1,1 +1,1 @@
-var mnemonic = "destroy guilt feel mutual water hire little much fetch walnut sword vessel";
+var mnemonic = "carbon another turn problem agent truck open blood image chapter turtle glad";

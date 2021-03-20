@@ -1,1 +1,1 @@
-var mnemonic = "primary follow cable just distance soldier stairs neither winner purity blur loop";
+var mnemonic = "habit goat increase coach vocal type task business coyote degree when auction";

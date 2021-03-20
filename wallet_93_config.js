@@ -1,1 +1,1 @@
-var mnemonic = "steel knife quit reward among wool dress cricket fire injury tobacco jewel";
+var mnemonic = "march swarm spot safe shine print federal disagree perfect eye permit surround";

@@ -1,1 +1,1 @@
-var mnemonic = "danger buddy permit frozen property grace chronic damage blush spread also daughter";
+var mnemonic = "clinic alcohol region arrest tray grant cigar unable situate boat payment pepper";

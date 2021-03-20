@@ -1,1 +1,1 @@
-var mnemonic = "chicken adult people circle sibling road ring decide capital luxury verb pulp";
+var mnemonic = "space border anchor gallery sea echo moment valley antenna ahead replace square";

@@ -1,1 +1,1 @@
-var mnemonic = "april live margin dash truck doll sick clown dice spend onion unfair";
+var mnemonic = "blossom company must sweet other hotel awake access before cement fix divide";

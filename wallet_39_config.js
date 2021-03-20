@@ -1,1 +1,1 @@
-var mnemonic = "unveil voyage crunch garment defense favorite supreme village penalty sadness evidence casual";
+var mnemonic = "deposit behave unit final regular pelican frequent core alien sentence lens portion";

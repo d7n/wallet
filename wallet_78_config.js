@@ -1,1 +1,1 @@
-var mnemonic = "great bird sock top trophy bring guilt horror replace balcony fire tongue";
+var mnemonic = "receive judge file frown rich amount inmate typical forum when joy approve";

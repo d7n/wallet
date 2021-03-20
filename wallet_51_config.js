@@ -1,1 +1,1 @@
-var mnemonic = "better boring escape erupt youth burst list alarm glory minute brass federal";
+var mnemonic = "frown bullet right inch slim eager impose lyrics image glass alpha foster";

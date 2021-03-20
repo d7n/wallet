@@ -1,1 +1,1 @@
-var mnemonic = "derive tone offer virtual alone law poverty brass pond soon barely inquiry";
+var mnemonic = "palace place photo sand melt margin leaf museum flavor alley saddle rely";

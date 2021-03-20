@@ -1,1 +1,1 @@
-var mnemonic = "slam space final secret radio helmet foster wrestle seed cushion document knock";
+var mnemonic = "master measure emotion wrist wall tilt wide addict output raccoon security wait";

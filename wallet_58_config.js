@@ -1,1 +1,1 @@
-var mnemonic = "chronic color life north stumble license next donkey ancient remind under fruit";
+var mnemonic = "fire apology identify absurd tired enough refuse venture return slide matter special";

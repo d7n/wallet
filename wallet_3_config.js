@@ -1,1 +1,1 @@
-var mnemonic = "number crystal long sick tone fringe language dentist cricket knock apple wood";
+var mnemonic = "layer session social leisure tuition host endless useful green diamond sausage room";

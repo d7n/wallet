@@ -1,1 +1,1 @@
-var mnemonic = "glimpse false spin juice soda stumble slow cotton august flee spawn orchard";
+var mnemonic = "across system bamboo stem riot make exhibit faint prison butter control quit";

@@ -1,1 +1,1 @@
-var mnemonic = "radar atom ignore license grace myself margin ride penalty treat mimic nephew";
+var mnemonic = "document harbor include curtain domain kitchen pet genuine ivory latin burger eyebrow";

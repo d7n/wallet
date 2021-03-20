@@ -1,1 +1,1 @@
-var mnemonic = "manual sheriff license lunar yard cushion area bonus nurse bulk announce click";
+var mnemonic = "basic unlock rifle picture issue chat excuse garden limb private bottom grass";

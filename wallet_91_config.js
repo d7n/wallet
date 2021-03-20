@@ -1,1 +1,1 @@
-var mnemonic = "pony basket permit guard stamp angry online million shy comic foam cage";
+var mnemonic = "bundle lyrics friend clay cancel frog soft various inquiry give knife join";

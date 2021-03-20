@@ -1,1 +1,1 @@
-var mnemonic = "waste input winner sugar sad bench side toss air violin input spice";
+var mnemonic = "say rib dash pudding hungry damage erode follow addict own analyst valve";

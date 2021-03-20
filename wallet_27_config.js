@@ -1,1 +1,1 @@
-var mnemonic = "seed energy group lunch text electric exit air immense rapid reward van";
+var mnemonic = "wave follow hunt dutch direct ripple horse banner must frame identify love";

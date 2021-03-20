@@ -1,1 +1,1 @@
-var mnemonic = "decorate shaft cross embrace outside merit year thank defense pottery embark seat";
+var mnemonic = "knock romance dress token where badge high flame toddler dream oyster just";

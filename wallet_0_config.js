@@ -1,1 +1,1 @@
-var mnemonic = "chunk nation ride boost cash current festival spread rain nuclear smooth actress";
+var mnemonic = "pull place bread ankle dice pond snake crash tobacco grape almost bronze";

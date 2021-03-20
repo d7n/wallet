@@ -1,1 +1,1 @@
-var mnemonic = "desert industry dust increase fox suggest sudden erode stem nerve charge myself";
+var mnemonic = "box security actor unfold raccoon wine exhibit life festival approve clutch eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral hold eyebrow ceiling around rose creek park among cover trust clump";
+var mnemonic = "taxi affair hammer since bring point knock ugly laptop popular antique analyst";

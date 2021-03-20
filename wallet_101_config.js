@@ -1,1 +1,1 @@
-var mnemonic = "educate spawn feature allow lucky subject snake daring valve imitate mule share";
+var mnemonic = "swim brush easily shrimp fat step galaxy normal mother fatigue gauge prevent";

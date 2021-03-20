@@ -1,1 +1,1 @@
-var mnemonic = "film stereo casual amused cost banner roof bullet jeans wash uncle multiply";
+var mnemonic = "price market boring order wait exit erase wonder chef kitten tattoo marine";

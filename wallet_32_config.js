@@ -1,1 +1,1 @@
-var mnemonic = "fitness corn april choice board weather little upper foster fatal seven castle";
+var mnemonic = "thumb chase eight robust cute spread feel frost age bronze chaos clown";

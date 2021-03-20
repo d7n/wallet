@@ -1,1 +1,1 @@
-var mnemonic = "venue permit help need human apart famous account act planet armed daughter";
+var mnemonic = "chunk enact length boil total inquiry rubber wait fan wire volume correct";

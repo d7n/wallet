@@ -1,1 +1,1 @@
-var mnemonic = "festival toss life achieve clean wide flip intact around letter ladder word";
+var mnemonic = "orange mention calm divide device second logic delay eternal lava moment wheat";

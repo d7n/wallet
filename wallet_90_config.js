@@ -1,1 +1,1 @@
-var mnemonic = "witness nasty truly goose try sort extra border meadow there divorce theme";
+var mnemonic = "easily element office sure lizard soft pistol promote accuse tone market lyrics";

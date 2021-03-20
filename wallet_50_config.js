@@ -1,1 +1,1 @@
-var mnemonic = "artwork appear web actual describe heart fruit south river cattle insect engine";
+var mnemonic = "upon canyon butter embark service oblige feed peanut tray rural obscure predict";

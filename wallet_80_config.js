@@ -1,1 +1,1 @@
-var mnemonic = "reveal human spare oil achieve pioneer arrive belt never summer whale pigeon";
+var mnemonic = "assault scan chair soccer uniform opera awake company collect devote unveil search";

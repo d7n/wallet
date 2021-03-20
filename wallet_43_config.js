@@ -1,1 +1,1 @@
-var mnemonic = "electric bone marine energy harsh palace spoon connect chef myth stick effort";
+var mnemonic = "steel siege frost crouch illness cluster panda tube gate reward twenty double";

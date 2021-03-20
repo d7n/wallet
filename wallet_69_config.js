@@ -1,1 +1,1 @@
-var mnemonic = "mandate daring whisper easily warrior obey uncle spread bid knife fatigue wire";
+var mnemonic = "token rubber view list scan make beach notable nature this craft throw";

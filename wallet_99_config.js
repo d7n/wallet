@@ -1,1 +1,1 @@
-var mnemonic = "spatial common control seven blur stone trophy bacon latin spare sadness kingdom";
+var mnemonic = "boil response middle zebra double kick mechanic raise speak sight spider zoo";

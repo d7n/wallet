@@ -1,1 +1,1 @@
-var mnemonic = "filter chase wet similar media liar spin baby flash wink heart mixed";
+var mnemonic = "glide nut tuna pledge double labor can little helmet cliff prosper north";

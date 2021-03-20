@@ -1,1 +1,1 @@
-var mnemonic = "minor orchard blood trigger display act rich already little atom pause canal";
+var mnemonic = "village window avocado soldier legal unique forest hundred scatter ghost fresh chief";

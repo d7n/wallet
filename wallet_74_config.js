@@ -1,1 +1,1 @@
-var mnemonic = "enjoy pair such settle obey bone someone unique year screen screen purse";
+var mnemonic = "pupil spring alarm fox exist wood mouse human loan interest fault shock";

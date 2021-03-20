@@ -1,1 +1,1 @@
-var mnemonic = "hill cost bounce frequent delay head during extra phone usual second flash";
+var mnemonic = "vast fever income moon write sphere destroy energy awful coil gorilla payment";

@@ -1,1 +1,1 @@
-var mnemonic = "price avocado fame shine rule pulp detect rent dog tag gallery real";
+var mnemonic = "topple must egg december nature sadness wish build blur license slot hotel";

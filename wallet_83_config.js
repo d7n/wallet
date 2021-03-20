@@ -1,1 +1,1 @@
-var mnemonic = "sell item old diary master never snow prevent expand dry sound keen";
+var mnemonic = "fashion payment miracle spice time try siren rocket aunt cigar space morning";

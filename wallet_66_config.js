@@ -1,1 +1,1 @@
-var mnemonic = "pole blue radio attend dizzy nose net outdoor crunch outside phrase layer";
+var mnemonic = "soon curve sniff tray street update taste detail ball thrive pattern village";

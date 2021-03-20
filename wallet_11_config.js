@@ -1,1 +1,1 @@
-var mnemonic = "uncle settle goddess park power regret chair sauce season muffin suit correct";
+var mnemonic = "short erase whip police garlic kidney zoo awkward distance front brief roof";

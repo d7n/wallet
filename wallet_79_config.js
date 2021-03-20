@@ -1,1 +1,1 @@
-var mnemonic = "spice toast place fresh garden hawk disagree bind swing test six deal";
+var mnemonic = "hub hidden satoshi possible seminar enable ozone absorb present chicken broken escape";

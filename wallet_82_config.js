@@ -1,1 +1,1 @@
-var mnemonic = "joke near vacant amazing glad science device pulse prosper dynamic tooth primary";
+var mnemonic = "wrong security agent display twice bar inmate action quiz dial swim mass";

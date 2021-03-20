@@ -1,1 +1,1 @@
-var mnemonic = "attitude citizen pioneer hurdle indicate chalk monitor invite drink cargo there virus";
+var mnemonic = "ignore scrub reopen shrug cage bullet orange frozen misery weapon length legend";

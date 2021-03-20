@@ -1,1 +1,1 @@
-var mnemonic = "old cruel service style pony soup nut upgrade crane diet kangaroo depart";
+var mnemonic = "clutch often nasty book paddle phrase gain crunch asset alcohol rely dolphin";

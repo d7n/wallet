@@ -1,1 +1,1 @@
-var mnemonic = "gravity mosquito motion south paper pluck kind seat combine remove camp flight";
+var mnemonic = "tattoo strategy repeat clock dismiss favorite permit oak rich panic view broken";

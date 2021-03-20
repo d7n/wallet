@@ -1,1 +1,1 @@
-var mnemonic = "treat blind wave barely alert neither hammer sibling kangaroo host charge gap";
+var mnemonic = "shoe accident toddler venture path acoustic casino tobacco chaos pattern okay coast";

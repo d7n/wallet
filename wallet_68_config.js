@@ -1,1 +1,1 @@
-var mnemonic = "siren saddle scatter alien cricket mandate clever huge favorite desert eager rifle";
+var mnemonic = "plunge arch two banana ice save album slam hood that smoke slide";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion anxiety hair couple eagle mother purity list stone speak birth catch";
+var mnemonic = "garage machine citizen gain dilemma wine smoke improve jump twice bracket vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "image soap silly dragon tag seed cancel night tip kitchen alarm toward";
+var mnemonic = "amused airport state middle cricket replace feed join solve water evoke february";

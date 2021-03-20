@@ -1,1 +1,1 @@
-var mnemonic = "wire front inside rough brisk abuse now address power mandate galaxy analyst";
+var mnemonic = "arrange tip liar color broom steel blame knife tomorrow brain stool defy";

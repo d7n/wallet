@@ -1,1 +1,1 @@
-var mnemonic = "stumble crouch confirm evidence area maximum turkey brush return grain true sunny";
+var mnemonic = "multiply company merit fun dish offer grace ability jelly genius only bubble";

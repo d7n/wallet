@@ -1,1 +1,1 @@
-var mnemonic = "fiscal negative hurdle arrive garage address unit stadium improve own twist laugh";
+var mnemonic = "shoulder earn alpha enforce monster loan govern express among summer fitness laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome test helmet fatigue sing dignity portion invite ocean stomach crane genre";
+var mnemonic = "supreme nuclear anxiety city universe grunt veteran update intact deny mad rib";

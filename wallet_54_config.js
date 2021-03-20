@@ -1,1 +1,1 @@
-var mnemonic = "diet dinner weather ostrich pupil defy amused pen daring devote topple sweet";
+var mnemonic = "strategy talk jealous heart seed know pledge illegal rival festival convince crawl";

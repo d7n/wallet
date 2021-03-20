@@ -1,1 +1,1 @@
-var mnemonic = "claim eye robust tomorrow wave list ask photo advice liberty frame wing";
+var mnemonic = "rhythm weird text card bread two jacket purity engine safe elder cluster";

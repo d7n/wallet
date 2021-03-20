@@ -1,1 +1,1 @@
-var mnemonic = "elder clip win angle warrior reduce medal mechanic toilet first federal derive";
+var mnemonic = "bacon predict rule limb seed sorry buzz desert mind erosion spray oval";

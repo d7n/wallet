@@ -1,1 +1,1 @@
-var mnemonic = "second asthma nurse gesture ribbon country ten denial puzzle account blanket arch";
+var mnemonic = "source blush icon same index salt brush trade action capable audit sadness";

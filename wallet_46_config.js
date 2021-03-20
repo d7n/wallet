@@ -1,1 +1,1 @@
-var mnemonic = "milk measure usage carbon magnet swim medal party knife note update electric";
+var mnemonic = "release stamp lunar alley knock east debate garlic ramp off leopard word";

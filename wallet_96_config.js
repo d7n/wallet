@@ -1,1 +1,1 @@
-var mnemonic = "cloth music supply punch broken elder switch aware december slide planet desert";
+var mnemonic = "legend high collect bring chat three clump exact swing urban reflect tattoo";

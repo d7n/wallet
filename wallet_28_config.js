@@ -1,1 +1,1 @@
-var mnemonic = "ship double edge circle portion region organ owner hero rice vacant clinic";
+var mnemonic = "off all okay length name lumber together fuel slide today orange friend";

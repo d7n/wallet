@@ -1,1 +1,1 @@
-var mnemonic = "sting battle slim mind dream call stadium mean achieve swarm twenty load";
+var mnemonic = "style almost toward honey stuff axis hen slam rib slot tumble hard";

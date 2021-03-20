@@ -1,1 +1,1 @@
-var mnemonic = "patrol mistake bracket often real notice bar various slogan kidney lounge suggest";
+var mnemonic = "learn work approve unaware wasp lunch fitness jump mixture assault million cat";
