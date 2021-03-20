@@ -1,1 +1,1 @@
-var mnemonic = "material screen oxygen unique piece curtain provide heart mom senior vocal collect";
+var mnemonic = "rich across affair adjust present pass winter entry fade whale melt field";

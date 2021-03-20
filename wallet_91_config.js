@@ -1,1 +1,1 @@
-var mnemonic = "pottery slam praise hawk collect basket common demise rug glue clog body";
+var mnemonic = "plunge armor mistake since sausage decade unfold capable armor dog trick squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "behind find quick view couch pizza cloud cradle cheap humble exhibit zone";
+var mnemonic = "arrow ridge evidence repeat barrel eagle spend unusual tenant diary advance tongue";

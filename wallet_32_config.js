@@ -1,1 +1,1 @@
-var mnemonic = "stereo congress humor rigid load fruit slide drill network spell tree symptom";
+var mnemonic = "fever fancy yellow wisdom enter lion dentist also coffee mobile west mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "win mean praise wise creek host pudding gas wash enact pitch wood";
+var mnemonic = "gym knock stem abuse toilet lend shop banner find tuition kit absent";

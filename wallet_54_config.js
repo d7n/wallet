@@ -1,1 +1,1 @@
-var mnemonic = "nature clarify fury satoshi vapor mosquito shock alter dismiss occur month humble";
+var mnemonic = "style laptop uphold flavor best bunker awesome choice organ silent neutral aerobic";

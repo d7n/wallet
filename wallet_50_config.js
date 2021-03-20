@@ -1,1 +1,1 @@
-var mnemonic = "city relief august grunt erosion siren diagram cake rookie try stove wet";
+var mnemonic = "scheme float apology ignore accident nut crumble jacket float find just awake";

@@ -1,1 +1,1 @@
-var mnemonic = "popular found attend good chicken toast mad vivid dizzy nephew number spirit";
+var mnemonic = "fiscal cricket dolphin dune tool pepper old sure amateur hurry ship airport";

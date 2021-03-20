@@ -1,1 +1,1 @@
-var mnemonic = "practice side smart blind merge room foam shy share bless brand actress";
+var mnemonic = "fashion embrace frame pole tennis biology faint check purity zone walnut plug";

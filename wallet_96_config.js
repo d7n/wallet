@@ -1,1 +1,1 @@
-var mnemonic = "step salmon roast certain oxygen illness lock tourist basket talent manage file";
+var mnemonic = "security obvious notice report survey saddle gaze remind stamp phone field tag";

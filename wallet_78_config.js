@@ -1,1 +1,1 @@
-var mnemonic = "dice direct else valley case treat stick exotic charge story cry absorb";
+var mnemonic = "atom nuclear banner hip bubble praise increase step situate sphere nest end";

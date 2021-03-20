@@ -1,1 +1,1 @@
-var mnemonic = "clerk bronze damp timber flash gun task student genuine cluster general swift";
+var mnemonic = "final cover retire culture total arm warrior taxi knock front seat canoe";

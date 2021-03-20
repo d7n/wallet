@@ -1,1 +1,1 @@
-var mnemonic = "print crack damage broken digital source state lucky early enable fly nothing";
+var mnemonic = "task come save dismiss soldier volcano robust elbow trap lunch between story";

@@ -1,1 +1,1 @@
-var mnemonic = "spy deputy expire surge bullet size security jaguar session shock laugh key";
+var mnemonic = "clay hire enable release defense robot bachelor fluid draw expose decrease thing";

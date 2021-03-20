@@ -1,1 +1,1 @@
-var mnemonic = "test improve remove quiz cycle black decline coyote club regular voyage smooth";
+var mnemonic = "search before weekend latin shield sunny amused egg flame license park view";

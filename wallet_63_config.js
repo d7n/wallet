@@ -1,1 +1,1 @@
-var mnemonic = "crazy spread model husband need fresh guess face mesh chaos nose blade";
+var mnemonic = "civil suspect fan vital cushion glow moon hazard swallow mask elder near";

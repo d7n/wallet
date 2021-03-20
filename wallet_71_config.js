@@ -1,1 +1,1 @@
-var mnemonic = "thrive rude sorry mixed fluid main modify catalog network label access deposit";
+var mnemonic = "praise vapor sleep metal pilot use dizzy unique alone yard about tank";

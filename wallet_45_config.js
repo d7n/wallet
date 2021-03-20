@@ -1,1 +1,1 @@
-var mnemonic = "know rice avocado general evolve stadium split turtle oppose fine globe universe";
+var mnemonic = "staff quit process actor believe guilt twin stairs slide humor never real";

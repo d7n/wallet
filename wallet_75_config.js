@@ -1,1 +1,1 @@
-var mnemonic = "hybrid rose reward game rug hen split protect soccer right already input";
+var mnemonic = "pause tube slush joy treat mango violin flash exchange cream illegal category";

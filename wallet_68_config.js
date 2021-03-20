@@ -1,1 +1,1 @@
-var mnemonic = "cactus pig heavy retire cliff olive galaxy teach sibling cactus fiber burger";
+var mnemonic = "mother material fortune furnace alpha pudding ripple moment nerve shift thumb style";

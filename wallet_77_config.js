@@ -1,1 +1,1 @@
-var mnemonic = "miss issue lyrics aware child admit whale ghost sibling pattern false utility";
+var mnemonic = "envelope glimpse tilt outer pool just mule away tongue common foil clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "wool odor ocean rely virus pride siren name labor salon dust clerk";
+var mnemonic = "slush uniform idle forum barely because fruit slight admit arrive measure jump";

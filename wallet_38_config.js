@@ -1,1 +1,1 @@
-var mnemonic = "diesel aim engine number hospital gravity affair gospel mimic mad evolve celery";
+var mnemonic = "day large bubble control script brave meat page airport duck raccoon stone";

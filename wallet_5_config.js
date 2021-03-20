@@ -1,1 +1,1 @@
-var mnemonic = "spare upset follow couch scan retire garbage bundle enable enroll blanket method";
+var mnemonic = "shed dry ankle faint genre extend lobster wheel ahead crew thing pig";

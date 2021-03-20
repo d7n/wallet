@@ -1,1 +1,1 @@
-var mnemonic = "educate acoustic have basic view orient cannon scout inch dawn baby slot";
+var mnemonic = "fantasy filter clinic menu horror rapid quick culture melody script field unit";

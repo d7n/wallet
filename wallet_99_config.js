@@ -1,1 +1,1 @@
-var mnemonic = "better globe guide feel slice quiz frown where modify fame enemy canyon";
+var mnemonic = "hurry okay today random lake injury magic midnight immune melt turtle ivory";

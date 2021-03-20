@@ -1,1 +1,1 @@
-var mnemonic = "poet strategy unfold pluck angle refuse huge safe code city fury asset";
+var mnemonic = "detail naive flag fatal benefit output section dog dash oyster perfect base";

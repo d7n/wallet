@@ -1,1 +1,1 @@
-var mnemonic = "tent craft track medal differ regret junior sheriff solution armor noble net";
+var mnemonic = "angry seek dad sign tobacco favorite top meat immune tray skate cannon";

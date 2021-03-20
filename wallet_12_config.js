@@ -1,1 +1,1 @@
-var mnemonic = "mind chest ahead eagle stool skin pilot almost bag barrel melody float";
+var mnemonic = "invest barely brush host immune tattoo edge dawn obvious board wonder wage";

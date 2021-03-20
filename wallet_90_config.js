@@ -1,1 +1,1 @@
-var mnemonic = "weather slice two danger know hip dismiss exotic double spice direct siren";
+var mnemonic = "rigid person control choice dinner doctor ritual solar because uncle system share";

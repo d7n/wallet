@@ -1,1 +1,1 @@
-var mnemonic = "autumn before grief term learn age exclude image youth weekend where cube";
+var mnemonic = "sport sad medal clip edit depart ahead okay peace couch famous ethics";

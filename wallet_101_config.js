@@ -1,1 +1,1 @@
-var mnemonic = "idea inherit hurt sleep rose damage borrow injury grit eye volcano vital";
+var mnemonic = "divert search globe blue march hundred grief dizzy cricket truck curtain bronze";

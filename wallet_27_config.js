@@ -1,1 +1,1 @@
-var mnemonic = "hollow core letter giggle ghost million worry pen ceiling reopen dawn improve";
+var mnemonic = "apple absurd security cruise science ring govern humor chapter clever cook spike";

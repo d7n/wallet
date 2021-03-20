@@ -1,1 +1,1 @@
-var mnemonic = "tomato develop oyster open alpha stool they nest unique salon flavor dutch";
+var mnemonic = "simple oxygen menu such dance media genius denial calm creek broom scissors";

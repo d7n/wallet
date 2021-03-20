@@ -1,1 +1,1 @@
-var mnemonic = "slab crack thank grocery make toilet know come above glad pride vacuum";
+var mnemonic = "blast volcano improve jeans slice weapon suggest arm umbrella design vital bunker";

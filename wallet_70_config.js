@@ -1,1 +1,1 @@
-var mnemonic = "figure lesson there faint copy beef evil taste traffic minute ask inmate";
+var mnemonic = "picnic receive wife inch scout wild smile barely escape timber glad horse";

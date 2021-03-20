@@ -1,1 +1,1 @@
-var mnemonic = "mad hunt dash trumpet rib disease soon child spy damage public flower";
+var mnemonic = "wave smart soup bomb senior basket asthma loan hundred diamond fan valid";

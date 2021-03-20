@@ -1,1 +1,1 @@
-var mnemonic = "fence police title nasty true response awful earn judge immense cotton jar";
+var mnemonic = "diary debate math pulse weasel orbit orient shrug old alert nurse violin";

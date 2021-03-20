@@ -1,1 +1,1 @@
-var mnemonic = "wife tobacco there afford wasp check better hand ivory razor rely junk";
+var mnemonic = "frown fatigue giggle grace grace bless inflict pupil borrow flat episode corn";

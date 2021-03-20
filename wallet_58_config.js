@@ -1,1 +1,1 @@
-var mnemonic = "now abuse charge october quote ghost proof excuse soda nose column clump";
+var mnemonic = "novel ecology begin category orient refuse shed inherit cave list impose frown";

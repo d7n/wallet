@@ -1,1 +1,1 @@
-var mnemonic = "coach square stand danger dry trend pause split chalk hair oval mistake";
+var mnemonic = "treat canvas focus fly list guitar cube detail follow pupil tomato sad";

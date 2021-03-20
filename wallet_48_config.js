@@ -1,1 +1,1 @@
-var mnemonic = "present march repeat pair say concert census segment nothing inflict step waste";
+var mnemonic = "thunder upgrade wood predict visit annual enemy fluid know base urge pond";

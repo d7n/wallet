@@ -1,1 +1,1 @@
-var mnemonic = "ranch analyst bean stairs toddler express cotton turn chair elder photo feature";
+var mnemonic = "battle female cousin switch teach undo drive nice below shuffle glue glory";

@@ -1,1 +1,1 @@
-var mnemonic = "later lawsuit lecture dynamic deal business unhappy nerve swim hammer mushroom napkin";
+var mnemonic = "modify burden smooth core knock panda inmate permit open model mom trap";

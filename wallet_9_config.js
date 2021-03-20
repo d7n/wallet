@@ -1,1 +1,1 @@
-var mnemonic = "engine cactus elevator meat engine gadget below flavor seek force heart train";
+var mnemonic = "also heart street kiwi year melt derive mad kitchen obscure ocean suffer";

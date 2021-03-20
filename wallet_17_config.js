@@ -1,1 +1,1 @@
-var mnemonic = "sword second female struggle volume vicious wire gate roof pulp police bright";
+var mnemonic = "bind minor pulp nephew trick knife vault enjoy violin impulse now trap";

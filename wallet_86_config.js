@@ -1,1 +1,1 @@
-var mnemonic = "foam maximum asthma shop album melody lonely panel embark dress course satisfy";
+var mnemonic = "kit enough average suggest orange hard city appear enough opera sword borrow";

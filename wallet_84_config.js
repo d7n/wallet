@@ -1,1 +1,1 @@
-var mnemonic = "edit episode just wrestle husband lift achieve describe view print myself movie";
+var mnemonic = "window define legal typical ensure brisk broom notice between nasty erupt lake";

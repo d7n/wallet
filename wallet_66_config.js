@@ -1,1 +1,1 @@
-var mnemonic = "snake height fossil ahead embrace void cousin giggle pair close photo ivory";
+var mnemonic = "actress faculty guide wood level critic sign forget milk grape resemble panel";

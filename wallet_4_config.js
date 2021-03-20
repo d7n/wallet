@@ -1,1 +1,1 @@
-var mnemonic = "bag student budget round alcohol shy someone expect feel deal today rate";
+var mnemonic = "artwork guard tiger elegant vehicle genius cost maximum visual vacuum elevator another";

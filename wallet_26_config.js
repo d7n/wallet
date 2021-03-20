@@ -1,1 +1,1 @@
-var mnemonic = "attitude month domain essence wide keep lion torch police analyst vocal assault";
+var mnemonic = "try hero expand alpha harsh salad sand jump special reward voice thought";

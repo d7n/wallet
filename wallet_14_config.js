@@ -1,1 +1,1 @@
-var mnemonic = "unique relax void state popular prevent soccer museum spy hope october copy";
+var mnemonic = "please federal enhance bacon slight front buddy civil album spin wine author";

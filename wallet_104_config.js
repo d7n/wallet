@@ -1,1 +1,1 @@
-var mnemonic = "demand final soda whisper shrug behave divide grape cotton play genre rare";
+var mnemonic = "position siren essay sketch act main member cruel loyal erosion auto spot";

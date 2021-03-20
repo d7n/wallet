@@ -1,1 +1,1 @@
-var mnemonic = "bargain duck balance hamster entire donor child tail wedding wool grace tonight";
+var mnemonic = "angle dress boss carbon million maze brain woman subway wagon viable section";

@@ -1,1 +1,1 @@
-var mnemonic = "total planet clarify receive shed mansion fluid use acquire urban mask vital";
+var mnemonic = "token hurry key old desert country lunar awake possible jewel bicycle gaze";

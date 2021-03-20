@@ -1,1 +1,1 @@
-var mnemonic = "shine order slim dolphin melody hero proof gain middle enforce snap teach";
+var mnemonic = "direct blade decline calm acid clog opera pig vacuum echo hundred dizzy";

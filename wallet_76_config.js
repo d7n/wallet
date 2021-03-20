@@ -1,1 +1,1 @@
-var mnemonic = "food august venture dismiss smoke pilot panda flag torch ticket maze talent";
+var mnemonic = "bachelor buffalo menu test logic almost very increase robust dish dial empty";

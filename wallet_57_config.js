@@ -1,1 +1,1 @@
-var mnemonic = "trip zebra hungry erosion cargo speak swim ceiling rigid sting bone between";
+var mnemonic = "naive thrive fix expire oblige abandon dress limit unique tumble boil flock";

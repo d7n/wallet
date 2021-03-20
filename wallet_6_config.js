@@ -1,1 +1,1 @@
-var mnemonic = "improve anger raw hire lemon hollow crack typical benefit fee wide farm";
+var mnemonic = "congress fresh front cradle atom scissors rural volume trap hammer bitter wide";

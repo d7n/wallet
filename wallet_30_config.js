@@ -1,1 +1,1 @@
-var mnemonic = "pact margin strike bird reunion crane alert mean machine gift echo remind";
+var mnemonic = "frown manage nest alone muscle absent cactus task cup need pencil hedgehog";

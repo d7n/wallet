@@ -1,1 +1,1 @@
-var mnemonic = "deliver bonus remind inner empower believe push squirrel music athlete vacuum grape";
+var mnemonic = "include solid monkey push student price assault typical enhance drip south object";

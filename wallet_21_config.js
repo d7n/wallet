@@ -1,1 +1,1 @@
-var mnemonic = "swamp utility weapon try nothing match basket chicken quiz fever open room";
+var mnemonic = "force frost work front bulk milk ranch bitter maze wear giraffe annual";

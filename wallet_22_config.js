@@ -1,1 +1,1 @@
-var mnemonic = "ride bulk assist slide alarm sudden play divert trouble nature hunt trap";
+var mnemonic = "flight draw car cancel comfort tilt decrease coin clump mountain secret casual";

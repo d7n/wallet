@@ -1,1 +1,1 @@
-var mnemonic = "connect embark great clock volcano dice forward prize dance trust near square";
+var mnemonic = "rule demand wide equip limb because beauty story day minor staff better";

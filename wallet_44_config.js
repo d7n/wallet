@@ -1,1 +1,1 @@
-var mnemonic = "under find inmate priority velvet rapid walnut admit wheel spray margin cross";
+var mnemonic = "spike program brush display invite impulse close provide above blood proud gossip";

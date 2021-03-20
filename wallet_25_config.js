@@ -1,1 +1,1 @@
-var mnemonic = "they jewel around ramp twist matrix good mirror essay silver fan degree";
+var mnemonic = "impact desert reason monkey hurdle false protect pair concert daughter vault twelve";

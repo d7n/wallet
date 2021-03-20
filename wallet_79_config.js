@@ -1,1 +1,1 @@
-var mnemonic = "box essay bean eagle truly party forum crowd trap capable lamp vehicle";
+var mnemonic = "universe magnet cruise crucial race control possible asset ethics balance glimpse cannon";

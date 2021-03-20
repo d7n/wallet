@@ -1,1 +1,1 @@
-var mnemonic = "minor debris bitter honey blush certain chest mask approve february duty giant";
+var mnemonic = "satoshi rare cattle one couple normal unaware permit sick twice cost trip";

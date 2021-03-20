@@ -1,1 +1,1 @@
-var mnemonic = "draw lumber dinosaur question wheat casual begin slab zero mixture dutch lawsuit";
+var mnemonic = "flip author movie replace illness muscle upgrade usual claw click puzzle meadow";

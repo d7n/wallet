@@ -1,1 +1,1 @@
-var mnemonic = "sand purchase song quiz glove plunge object swing tongue scrub feed holiday";
+var mnemonic = "drum mobile list lend audit twelve power title tobacco monitor chest stamp";

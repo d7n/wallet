@@ -1,1 +1,1 @@
-var mnemonic = "charge any able pride replace sweet tree seminar agent bar tiger drill";
+var mnemonic = "wire churn message unknown basic write check update select floor hurry harsh";

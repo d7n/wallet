@@ -1,1 +1,1 @@
-var mnemonic = "soldier walnut eagle cry consider pulse outer march fitness elder minor bread";
+var mnemonic = "magic patrol steak opera horn solution retire aim artist found wife erupt";

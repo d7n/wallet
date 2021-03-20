@@ -1,1 +1,1 @@
-var mnemonic = "possible divide silver zone thing evolve seat learn crack pair behind wild";
+var mnemonic = "vintage hundred lunar strategy flag silver arrive hint remove arrow juice olive";

@@ -1,1 +1,1 @@
-var mnemonic = "super match plug disorder cushion cattle live labor pen rough jaguar general";
+var mnemonic = "special true brain awesome chef december spell pumpkin equip unaware flag surprise";

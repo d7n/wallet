@@ -1,1 +1,1 @@
-var mnemonic = "tower brush web prepare luxury security treat enforce shed rifle fence cover";
+var mnemonic = "lumber give carbon barely sudden title flavor copy route desert own rocket";

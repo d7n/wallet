@@ -1,1 +1,1 @@
-var mnemonic = "mechanic lizard yard winter midnight response author large earn defense guitar express";
+var mnemonic = "above slogan wreck breeze what razor enact help victory mosquito vessel typical";

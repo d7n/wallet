@@ -1,1 +1,1 @@
-var mnemonic = "subway eternal ice verb general maximum faith round subway spray argue alert";
+var mnemonic = "usage nerve blouse aware blush gas bullet remain grace hobby sad fan";

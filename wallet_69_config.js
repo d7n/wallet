@@ -1,1 +1,1 @@
-var mnemonic = "memory adapt sun water culture vicious kick wash faith bonus siege stumble";
+var mnemonic = "spawn flush elevator hunt sun drill crane bike flush ribbon stick margin";

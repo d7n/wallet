@@ -1,1 +1,1 @@
-var mnemonic = "spatial viable morning they collect inform cherry crunch hurry vacant hill carbon";
+var mnemonic = "control favorite guitar wave lift report pluck history mistake lock code gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "story govern rose defense airport solid shrug stomach fossil orange liar rare";
+var mnemonic = "custom faculty link trick affair excite lazy harsh end first draft humble";

@@ -1,1 +1,1 @@
-var mnemonic = "shield minor cup explain spray check urban spring trade onion maid multiply";
+var mnemonic = "game wrong guess find inquiry force oyster absent guitar quick small badge";

@@ -1,1 +1,1 @@
-var mnemonic = "else border wheel city icon junk mammal table merit convince fold sugar";
+var mnemonic = "frost hair title height always stove tornado fault engage cinnamon close science";

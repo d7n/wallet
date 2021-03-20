@@ -1,1 +1,1 @@
-var mnemonic = "pudding melt hire aware inspire tumble pride orchard exile search program umbrella";
+var mnemonic = "plastic virus tenant pen club minimum bus bitter apology expire tower object";

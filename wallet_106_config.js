@@ -1,1 +1,1 @@
-var mnemonic = "unique embark exclude fork hamster weekend inhale sail urge pair face leader";
+var mnemonic = "art film dizzy banner try awake foster hen trash donor fee license";

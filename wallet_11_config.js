@@ -1,1 +1,1 @@
-var mnemonic = "display trouble outer seed faculty there carbon silly mass club rather west";
+var mnemonic = "liquid scene happy play praise absurd mimic civil velvet pencil hood divorce";

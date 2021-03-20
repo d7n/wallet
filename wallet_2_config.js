@@ -1,1 +1,1 @@
-var mnemonic = "cupboard tree cause luxury banner sport faith sustain bottom knee peanut desk";
+var mnemonic = "master olympic speak hurt sail feed buffalo little reward garlic old town";

@@ -1,1 +1,1 @@
-var mnemonic = "front latin subject arrow side cross enhance small direct whip lift sing";
+var mnemonic = "rural hand enemy metal mansion heart settle blind dragon satoshi culture midnight";

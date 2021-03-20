@@ -1,1 +1,1 @@
-var mnemonic = "arrange round knock grape canyon despair segment mistake cross smooth pretty win";
+var mnemonic = "idle mass hurry price horse mask quote sheriff tell journey repeat library";

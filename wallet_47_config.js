@@ -1,1 +1,1 @@
-var mnemonic = "auction minimum reunion reveal earn suit dragon oil cream bunker power drop";
+var mnemonic = "help lunch leg climb lottery away narrow kick female pact review cost";

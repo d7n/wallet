@@ -1,1 +1,1 @@
-var mnemonic = "rocket travel quarter require security mail almost dumb crouch narrow laundry basic";
+var mnemonic = "general common change slot brain capital gift magnet require entry vessel jealous";

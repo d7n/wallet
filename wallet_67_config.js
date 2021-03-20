@@ -1,1 +1,1 @@
-var mnemonic = "practice boost uncle arena soon song whip dune delay choice mesh explain";
+var mnemonic = "usual pottery inside rely lawn reopen half subject custom goose fashion tunnel";

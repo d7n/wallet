@@ -1,1 +1,1 @@
-var mnemonic = "involve attitude can elegant knee interest better maze relief session casino dice";
+var mnemonic = "cluster accuse derive boy bike toast country purity embark wrong enter butter";

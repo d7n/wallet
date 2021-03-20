@@ -1,1 +1,1 @@
-var mnemonic = "apple power knife ring economy brisk portion breeze maze must nephew vital";
+var mnemonic = "color praise circle purchase melody fly virus wrong pause sentence gossip little";

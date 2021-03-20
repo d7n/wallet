@@ -1,1 +1,1 @@
-var mnemonic = "sunny churn nut scatter buffalo attend fragile raise river when skirt shoe";
+var mnemonic = "humble vague bulb slight garage crunch reflect learn amateur cry february retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "slender lottery behave snack frown knee become must acquire grief wagon enough";
+var mnemonic = "exercise must panther brother between opera ability empower climb very release amateur";

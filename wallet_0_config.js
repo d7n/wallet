@@ -1,1 +1,1 @@
-var mnemonic = "curtain cupboard fatal make evil cause pipe diesel useless gauge ball trouble";
+var mnemonic = "dignity swamp trap cry eye element check hen increase erase matter knock";

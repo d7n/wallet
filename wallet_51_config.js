@@ -1,1 +1,1 @@
-var mnemonic = "average morning veteran promote remain throw oyster appear someone sustain few write";
+var mnemonic = "habit wife text piece jungle speed need setup empower refuse reopen mechanic";

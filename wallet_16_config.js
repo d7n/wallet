@@ -1,1 +1,1 @@
-var mnemonic = "tray good donor must strategy sphere gospel feed soccer wagon hospital alert";
+var mnemonic = "steak novel bless wire art clever census cart street decide income vacant";

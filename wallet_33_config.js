@@ -1,1 +1,1 @@
-var mnemonic = "achieve regret brand pony meat warrior blame soda dragon captain slow sock";
+var mnemonic = "ridge nice history fault clinic cost stick plastic brass hub enemy girl";
