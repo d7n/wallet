@@ -1,1 +1,1 @@
-var mnemonic = "fault estate utility this radar concert limb proof shaft vapor agent repair";
+var mnemonic = "universe know barrel draft elder visa stuff apple north rain half twin";

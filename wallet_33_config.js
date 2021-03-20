@@ -1,1 +1,1 @@
-var mnemonic = "fury fruit medal sugar tissue blame beach doctor magnet media tomorrow caution";
+var mnemonic = "lens scatter much memory hub brain stool original maple project avoid add";

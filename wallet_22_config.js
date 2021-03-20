@@ -1,1 +1,1 @@
-var mnemonic = "shove dress van jar steak make moon lock lab screen harsh hood";
+var mnemonic = "river model merge all garlic save warrior letter rice rescue motor silent";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel brick surface tenant express rapid mixed soul random combine access more";
+var mnemonic = "sample slush caution sustain tip promote real must orphan wage open tuition";

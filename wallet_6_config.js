@@ -1,1 +1,1 @@
-var mnemonic = "taxi expose egg sing travel artefact relax into kingdom vivid solution infant";
+var mnemonic = "ski elite drama expect filter taxi scale yellow lawsuit flush almost shove";

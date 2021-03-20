@@ -1,1 +1,1 @@
-var mnemonic = "wet this nut gift split high favorite discover lava own rough horror";
+var mnemonic = "strike mushroom mansion era economy canyon shrimp wage physical tiny license trial";

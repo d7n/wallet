@@ -1,1 +1,1 @@
-var mnemonic = "mule horse palm decline fire anxiety dragon author infant daring air marble";
+var mnemonic = "page royal salad multiply hidden train mandate boil over glimpse invest session";

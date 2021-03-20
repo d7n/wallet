@@ -1,1 +1,1 @@
-var mnemonic = "divert side dwarf disease stamp fetch current outdoor galaxy kangaroo clay staff";
+var mnemonic = "tumble roof pudding skull design play media slot age obvious private wrong";

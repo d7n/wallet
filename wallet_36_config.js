@@ -1,1 +1,1 @@
-var mnemonic = "earn ride great glide replace faculty sure market hole upset guilt bicycle";
+var mnemonic = "fuel submit zero carry sock insane ozone blossom stick wine input dog";

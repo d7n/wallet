@@ -1,1 +1,1 @@
-var mnemonic = "marine tobacco flee wolf reward cave decide list stuff trophy daring all";
+var mnemonic = "crystal purchase kick same asthma garbage bullet twenty wash left cricket solar";

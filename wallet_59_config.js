@@ -1,1 +1,1 @@
-var mnemonic = "twin toss rapid muffin garlic lake advance wisdom voyage analyst network dove";
+var mnemonic = "minimum tube orient balance seed piece cycle energy dynamic cave depth fiction";

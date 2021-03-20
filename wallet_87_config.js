@@ -1,1 +1,1 @@
-var mnemonic = "field miracle prepare shove anchor soccer first session lyrics zero joke endorse";
+var mnemonic = "pistol rotate identify music reward steak initial ship crime kid liquid enrich";

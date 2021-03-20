@@ -1,1 +1,1 @@
-var mnemonic = "clap raise mass item cube violin height sell royal gold day still";
+var mnemonic = "gauge milk salmon unhappy token crawl section pond bench extra style damp";

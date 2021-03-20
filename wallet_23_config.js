@@ -1,1 +1,1 @@
-var mnemonic = "review burger settle execute blush lecture base gold carpet tobacco camera garbage";
+var mnemonic = "advance surprise gaze ozone coach later dose column farm expire lawsuit want";

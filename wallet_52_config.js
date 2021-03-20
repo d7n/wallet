@@ -1,1 +1,1 @@
-var mnemonic = "phrase dirt barely rain naive forget cannon rude antenna walk witness skate";
+var mnemonic = "measure tone curious gossip upset easily media route valve wrestle prison canvas";

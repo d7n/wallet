@@ -1,1 +1,1 @@
-var mnemonic = "bring profit airport drink suit shy worry vacuum luggage music recall rigid";
+var mnemonic = "mail once fever this baby box knock position force public leg upper";

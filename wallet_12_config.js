@@ -1,1 +1,1 @@
-var mnemonic = "fee silent float uncover tattoo often pluck isolate amazing pudding artist raw";
+var mnemonic = "shell hospital pilot very mammal tobacco talk height vanish fat idea stomach";

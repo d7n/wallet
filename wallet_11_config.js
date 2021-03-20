@@ -1,1 +1,1 @@
-var mnemonic = "number health version success act bread black recall debate rebel argue ceiling";
+var mnemonic = "cloud butter hour city setup ridge steak balcony daughter matrix weird crane";

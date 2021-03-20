@@ -1,1 +1,1 @@
-var mnemonic = "faint action leave bottom impose want cotton achieve achieve mouse bar pool";
+var mnemonic = "desk mosquito route donkey draw together situate chunk abuse wink explain glad";

@@ -1,1 +1,1 @@
-var mnemonic = "pull axis dance woman coach lake glove soldier foil car strategy next";
+var mnemonic = "early desk lab scrap turn topic relax soon daring maze record view";

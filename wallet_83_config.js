@@ -1,1 +1,1 @@
-var mnemonic = "quick rural again core science person table welcome hen have burden goat";
+var mnemonic = "feel earn amateur genre state screen rib manual banana night crop switch";

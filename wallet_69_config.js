@@ -1,1 +1,1 @@
-var mnemonic = "dry egg harvest solar silent pepper vault help print vivid craft note";
+var mnemonic = "popular pelican picture family calm inhale museum nice bread few ski flower";

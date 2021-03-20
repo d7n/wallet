@@ -1,1 +1,1 @@
-var mnemonic = "cloth mixture pond flee menu able endorse tourist drop hero series own";
+var mnemonic = "water swing damage broken entire insect raccoon inner vicious spike charge olympic";

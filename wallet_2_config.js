@@ -1,1 +1,1 @@
-var mnemonic = "gadget surprise identify frown start cruel fee amazing room crash account comfort";
+var mnemonic = "service barely prepare guess idle sell unusual spawn panel toast scheme melody";

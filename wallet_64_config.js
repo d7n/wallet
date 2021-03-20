@@ -1,1 +1,1 @@
-var mnemonic = "screen theme soul doll tourist true photo anchor ethics weekend hurdle curtain";
+var mnemonic = "search ecology master bitter cradle about disorder inject crater enact immune filter";

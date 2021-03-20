@@ -1,1 +1,1 @@
-var mnemonic = "resist virus replace merit mandate odor bomb future pepper edit rare float";
+var mnemonic = "regular hair behind coffee ride tone vital garment one shadow double sense";

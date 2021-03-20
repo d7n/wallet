@@ -1,1 +1,1 @@
-var mnemonic = "nature gospel catalog flip song story twenty spring turtle diamond urban great";
+var mnemonic = "couch cousin scissors corn neither suggest canvas flat thank deer half bundle";

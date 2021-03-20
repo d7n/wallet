@@ -1,1 +1,1 @@
-var mnemonic = "betray dust tone gentle version walnut sibling nation light drip pigeon cement";
+var mnemonic = "scare jelly start toward spirit avoid wait badge tank lava pear march";

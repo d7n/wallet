@@ -1,1 +1,1 @@
-var mnemonic = "media prefer daring rebel arrow beyond enter rail brief explain match lend";
+var mnemonic = "slot rebel yard jewel mistake enemy happy flower virtual property rich hurdle";

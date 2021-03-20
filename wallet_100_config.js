@@ -1,1 +1,1 @@
-var mnemonic = "direct half sketch credit better scorpion narrow couple again borrow bulk alarm";
+var mnemonic = "december field move fame wrist bring pride outdoor allow much easy immense";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion soldier frequent syrup off orphan eagle nose river nerve cover column";
+var mnemonic = "stand hip unfair spy cheese tragic husband sister fury wheel detail fade";

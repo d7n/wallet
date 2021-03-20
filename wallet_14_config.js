@@ -1,1 +1,1 @@
-var mnemonic = "mammal worry brother hole awesome frozen only trash hand small meat element";
+var mnemonic = "tray tooth glove leave cheese art tree misery witness fluid blur scare";

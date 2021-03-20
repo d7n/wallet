@@ -1,1 +1,1 @@
-var mnemonic = "crystal scrap arrest second blur gown funny range region brick hungry indoor";
+var mnemonic = "hawk panda eternal romance clarify copper clump topple drama despair goddess slice";

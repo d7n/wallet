@@ -1,1 +1,1 @@
-var mnemonic = "crew skate injury journey flight ceiling collect base lion fatigue lens people";
+var mnemonic = "find economy leg intact stick evolve vanish general cook valley absorb remember";

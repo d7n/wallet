@@ -1,1 +1,1 @@
-var mnemonic = "end bid sudden plastic flush describe lift purse pilot siren hawk wasp";
+var mnemonic = "never describe globe word humor under plug ski damp kick decorate off";

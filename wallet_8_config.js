@@ -1,1 +1,1 @@
-var mnemonic = "egg giggle welcome require join next escape horror category they claim margin";
+var mnemonic = "inquiry acquire finger you injury brand another great place slow eight trophy";

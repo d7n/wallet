@@ -1,1 +1,1 @@
-var mnemonic = "maximum long use firm that dust thumb number lens frost youth vague";
+var mnemonic = "honey erupt indoor industry echo okay stick search spot inmate first little";

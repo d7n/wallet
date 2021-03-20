@@ -1,1 +1,1 @@
-var mnemonic = "bird vanish enjoy silly arctic key two future stool message noodle fine";
+var mnemonic = "draft limb similar cake wheel teach pumpkin frown wisdom silent october blood";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight express famous such vehicle letter permit fold priority become vote dry";
+var mnemonic = "build rally humor puppy predict focus more oppose suspect shock code mixed";

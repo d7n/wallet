@@ -1,1 +1,1 @@
-var mnemonic = "runway gospel exhibit innocent vivid mosquito eight antique purchase love sugar kind";
+var mnemonic = "employ neglect album sponsor trigger decade exist harbor flip flavor cool burden";

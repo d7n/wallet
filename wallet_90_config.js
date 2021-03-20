@@ -1,1 +1,1 @@
-var mnemonic = "cross sniff rate scrub spike pioneer share ritual wear service exercise clarify";
+var mnemonic = "addict report wool near ketchup dentist diary excuse canyon keen divide pudding";

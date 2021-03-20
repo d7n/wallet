@@ -1,1 +1,1 @@
-var mnemonic = "laugh abstract degree code stadium home develop vote chaos unknown system reopen";
+var mnemonic = "upon tower embody tragic fatal unfair museum pretty wing mixture jungle another";

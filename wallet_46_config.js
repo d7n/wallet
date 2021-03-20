@@ -1,1 +1,1 @@
-var mnemonic = "unfold outer fat jar name dignity include wear oil child six you";
+var mnemonic = "dog tobacco crop shiver soldier mimic under feel boy retire culture burst";

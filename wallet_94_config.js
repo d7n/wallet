@@ -1,1 +1,1 @@
-var mnemonic = "joy chronic meat guard retreat crystal drift genre garlic winter dentist post";
+var mnemonic = "angle weather across fruit water sketch hello radar blood syrup bread just";

@@ -1,1 +1,1 @@
-var mnemonic = "reward tower coast alley that palm globe canyon flock people coin enjoy";
+var mnemonic = "example helmet kangaroo together silk artwork one film rapid drum mention away";

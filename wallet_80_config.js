@@ -1,1 +1,1 @@
-var mnemonic = "ramp duck arch setup hover century cup one narrow guard excite laundry";
+var mnemonic = "summer basic engine park actual turkey north bachelor stem crystal fiber load";

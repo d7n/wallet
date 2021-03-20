@@ -1,1 +1,1 @@
-var mnemonic = "small erode october glimpse puzzle oak tattoo eagle paddle blur antenna seminar";
+var mnemonic = "soccer pattern fatigue future leaf push evidence town pizza hen sick account";

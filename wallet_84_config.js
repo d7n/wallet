@@ -1,1 +1,1 @@
-var mnemonic = "traffic gown execute essay use hover hospital primary youth waste birth bunker";
+var mnemonic = "strategy plunge pepper unknown depth artwork reason despair chicken enter light subject";

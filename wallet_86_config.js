@@ -1,1 +1,1 @@
-var mnemonic = "solution renew plate fork disorder shallow noise useful above drum help method";
+var mnemonic = "melt enter surround muscle sell modify civil dolphin bulk kingdom field pumpkin";

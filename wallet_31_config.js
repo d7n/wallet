@@ -1,1 +1,1 @@
-var mnemonic = "patrol vapor raise egg blur rookie move canal kangaroo rude snack physical";
+var mnemonic = "youth chapter report blast flower vendor dune power source guard describe nurse";

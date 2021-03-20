@@ -1,1 +1,1 @@
-var mnemonic = "eight music struggle moment hurt filter carbon bounce release scorpion local dune";
+var mnemonic = "nose tongue pet stereo hood either tuition stereo journey define stone kick";

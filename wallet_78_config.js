@@ -1,1 +1,1 @@
-var mnemonic = "water nurse emerge satisfy flee normal slot bulk found salmon badge tunnel";
+var mnemonic = "rose approve music coral crater clerk sudden life snack stairs shoulder rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom heart fatigue judge sample glow clap lizard hundred visa glad off";
+var mnemonic = "normal divert cattle recall about lunar crowd arena dirt warrior mail butter";

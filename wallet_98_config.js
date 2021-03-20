@@ -1,1 +1,1 @@
-var mnemonic = "repair radio ozone broken another baby wall ticket apple wave issue grass";
+var mnemonic = "barely desk develop devote science pitch true this surprise agent situate jelly";

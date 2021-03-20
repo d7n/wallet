@@ -1,1 +1,1 @@
-var mnemonic = "doctor pond club brush risk water credit puppy mad jeans ostrich column";
+var mnemonic = "balcony robust cram quality adapt truck pupil bicycle trap exit lunch useful";

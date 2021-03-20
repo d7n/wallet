@@ -1,1 +1,1 @@
-var mnemonic = "prepare crawl tenant silent afford fitness thrive now opera book scrub identify";
+var mnemonic = "ghost art desert allow dad hollow nothing exchange season text grass two";

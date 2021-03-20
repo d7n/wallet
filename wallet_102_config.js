@@ -1,1 +1,1 @@
-var mnemonic = "edit session able wall clown army fragile music shrug witness hurry north";
+var mnemonic = "uncover merge drastic wagon history inspire trophy life view burger wagon jacket";

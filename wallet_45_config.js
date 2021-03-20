@@ -1,1 +1,1 @@
-var mnemonic = "you bamboo obvious enact girl dish hover inject ugly face learn evidence";
+var mnemonic = "hip public hen tackle resemble dinosaur curtain wisdom gadget start all clarify";

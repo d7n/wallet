@@ -1,1 +1,1 @@
-var mnemonic = "lounge best panel escape insect name volcano piece swarm satoshi meadow mixed";
+var mnemonic = "squeeze surround about pupil sing census adapt lady mercy olive split pottery";

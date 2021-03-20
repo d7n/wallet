@@ -1,1 +1,1 @@
-var mnemonic = "only school story apart bid strategy elegant devote yellow chalk knife want";
+var mnemonic = "piano metal above kiss pave ginger differ flavor letter park desk differ";

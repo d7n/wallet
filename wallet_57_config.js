@@ -1,1 +1,1 @@
-var mnemonic = "inform rose slush series swallow promote oxygen fatigue mom hawk tomorrow return";
+var mnemonic = "ancient auction century gasp original lens purchase depth hover certain bus embrace";

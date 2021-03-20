@@ -1,1 +1,1 @@
-var mnemonic = "wheel half swing fashion duck message radio isolate throw youth worth grow";
+var mnemonic = "core drip train ice palace visit entire actress teach enter hurt hill";

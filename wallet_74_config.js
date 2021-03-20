@@ -1,1 +1,1 @@
-var mnemonic = "noise matter setup joy sound script scorpion enough brain sea slide casino";
+var mnemonic = "few tooth romance mean own trip recall impact exclude cricket forum object";

@@ -1,1 +1,1 @@
-var mnemonic = "robust diagram magnet jaguar daughter teach summer knife split guess host flavor";
+var mnemonic = "project old menu alert kingdom street crawl decline skin outside soul chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "brother human hazard trigger crop fault field garage share grain spoon true";
+var mnemonic = "tail glance okay normal witness away deposit excess inquiry tackle simple chef";

@@ -1,1 +1,1 @@
-var mnemonic = "sing march buzz venture daughter wrist suggest surround tomorrow win market build";
+var mnemonic = "ancient bind visit key visa stock blue chase fortune carry float blur";

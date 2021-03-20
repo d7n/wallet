@@ -1,1 +1,1 @@
-var mnemonic = "health body motion regular mystery edit margin battle humor ankle match artist";
+var mnemonic = "often digital consider salmon will diesel style throw crush tower nice tower";

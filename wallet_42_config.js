@@ -1,1 +1,1 @@
-var mnemonic = "cream security control two race force erase hair vehicle behave useful kidney";
+var mnemonic = "clip planet offer finish debate position spirit cute summer hungry recycle despair";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit distance rib coyote proof liquid choice infant cage card weather push";
+var mnemonic = "bag enforce walnut soup kitchen swarm elbow regular fox gorilla resemble try";

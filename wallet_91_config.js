@@ -1,1 +1,1 @@
-var mnemonic = "phone virus aware cinnamon hurdle jealous enter van exhaust shop elite ten";
+var mnemonic = "grit jelly dinosaur elevator edit enact tiny adjust quote siege object hazard";

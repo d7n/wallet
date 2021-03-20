@@ -1,1 +1,1 @@
-var mnemonic = "together deny write energy crazy eager fragile lumber reform feed prefer unlock";
+var mnemonic = "crystal ticket cube glide decorate gentle pull sausage deposit rapid ankle grain";

@@ -1,1 +1,1 @@
-var mnemonic = "burst game legend inside task region baby fringe primary park collect pool";
+var mnemonic = "cargo aim ship siege staff wash pulp hill charge unfold solid across";

@@ -1,1 +1,1 @@
-var mnemonic = "gun victory fox truly practice six region spell park nut live door";
+var mnemonic = "receive ethics club manage amateur final december found valve feel crawl lyrics";

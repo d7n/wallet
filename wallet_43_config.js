@@ -1,1 +1,1 @@
-var mnemonic = "silent scrap floor floor sketch absent elder force kingdom mixture will stage";
+var mnemonic = "neglect asthma trap tongue rib fatigue shift dilemma gather twin fresh box";

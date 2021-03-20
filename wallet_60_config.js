@@ -1,1 +1,1 @@
-var mnemonic = "pole profit beef across swift punch film stable gesture cover relief tiger";
+var mnemonic = "color parrot people parade amazing scrap fun long level phrase panther arena";

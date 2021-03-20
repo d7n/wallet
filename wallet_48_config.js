@@ -1,1 +1,1 @@
-var mnemonic = "angle sound moon jeans absorb predict aware sail sight eager sting purchase";
+var mnemonic = "elevator auction onion swap lock planet region pulse smile marble pudding cluster";

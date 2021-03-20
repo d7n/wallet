@@ -1,1 +1,1 @@
-var mnemonic = "whip place embark unit crowd piano genuine indoor space develop audit wild";
+var mnemonic = "vast again swallow foster burden act slide abstract walk club olive jeans";

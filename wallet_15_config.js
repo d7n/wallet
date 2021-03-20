@@ -1,1 +1,1 @@
-var mnemonic = "offer wish rescue layer purpose search fetch kind rescue infant poet easily";
+var mnemonic = "version slot physical benefit blood toward tool garden boring farm key badge";

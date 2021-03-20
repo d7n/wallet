@@ -1,1 +1,1 @@
-var mnemonic = "junk flee jewel assault lamp blur attract appear kit employ usual cupboard";
+var mnemonic = "animal october follow move shy enroll dry quantum three volume end civil";

@@ -1,1 +1,1 @@
-var mnemonic = "crew secret wedding box double height vendor swear combine wide foot harsh";
+var mnemonic = "frown cable resource ring where alter mix ten slide sadness excess frozen";

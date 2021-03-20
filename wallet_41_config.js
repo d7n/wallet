@@ -1,1 +1,1 @@
-var mnemonic = "side volume item ranch theme field cross differ unveil resource trial enforce";
+var mnemonic = "fox happy reform volcano amateur caution two segment board muscle cycle ship";

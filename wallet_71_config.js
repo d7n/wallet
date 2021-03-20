@@ -1,1 +1,1 @@
-var mnemonic = "rack picnic industry please grace jacket degree lottery mutual circle own initial";
+var mnemonic = "breeze demand flip guitar heart skirt feed book strike swamp gap dwarf";

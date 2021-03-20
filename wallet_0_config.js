@@ -1,1 +1,1 @@
-var mnemonic = "alone foot miracle crowd brass pull ladder rain sorry surround confirm floor";
+var mnemonic = "debris pulse spawn fatigue case seed entire verify mean mask voyage retreat";

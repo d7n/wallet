@@ -1,1 +1,1 @@
-var mnemonic = "pave timber shallow beef voyage junior spare once brick eternal age occur";
+var mnemonic = "math scrap spend very about peace inside enhance talent decorate shed service";

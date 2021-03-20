@@ -1,1 +1,1 @@
-var mnemonic = "cousin work summer blossom tuition season risk above velvet song beef only";
+var mnemonic = "genre scatter shuffle mountain real flee fabric trip future shine wage feel";

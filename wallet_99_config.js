@@ -1,1 +1,1 @@
-var mnemonic = "manage bulk cement dream course kangaroo dove afraid pave electric occur giraffe";
+var mnemonic = "digital humble clown wisdom ugly remove resemble slim female mushroom hawk repeat";

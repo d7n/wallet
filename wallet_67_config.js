@@ -1,1 +1,1 @@
-var mnemonic = "injury polar parade rival rude they wrestle casino aspect false enjoy lucky";
+var mnemonic = "gravity blanket onion evil purity floor return kingdom canoe ask traffic voice";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow health midnight photo critic firm axis faculty hungry airport repeat will";
+var mnemonic = "used chicken custom rural average wave valid rude quantum tissue economy eight";

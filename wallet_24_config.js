@@ -1,1 +1,1 @@
-var mnemonic = "meadow stairs toss seminar gasp sort april cannon creek math name private";
+var mnemonic = "base pretty mosquito artefact earn note cereal sport mountain apology media away";

@@ -1,1 +1,1 @@
-var mnemonic = "boss trash feature payment frozen across paddle fragile resist across pony ten";
+var mnemonic = "vehicle rifle alien chest echo inner scare inject supply december reject caught";

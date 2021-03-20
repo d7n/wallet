@@ -1,1 +1,1 @@
-var mnemonic = "release home thank pen promote carbon bounce cash among fatigue birth toddler";
+var mnemonic = "click surround favorite morning lion matter nuclear essay clutch need digital believe";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid diagram custom intact dumb pave original morning write grocery together virus";
+var mnemonic = "goat give buyer fly loyal question bullet wave lazy wrong fine shuffle";

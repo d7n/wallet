@@ -1,1 +1,1 @@
-var mnemonic = "machine ensure pluck unhappy spray same attract door suffer anchor rifle scene";
+var mnemonic = "inch divorce unhappy goat sauce else alert ripple relief gadget lecture large";
