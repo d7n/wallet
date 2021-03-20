@@ -1,1 +1,1 @@
-var mnemonic = "window wide usual holiday happy zone hint edit act please damp merry";
+var mnemonic = "tail chimney wish goose oblige inform jewel april cliff vicious news object";

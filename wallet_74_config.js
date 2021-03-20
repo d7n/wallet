@@ -1,1 +1,1 @@
-var mnemonic = "whale pelican dove rely hero mouse energy grain busy pulp lab sentence";
+var mnemonic = "emotion purse type analyst ivory bottom proud truly type cruel movie hood";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness grass shell vendor hundred shove kiwi other void volume entry magic";
+var mnemonic = "struggle dust hedgehog plate hurt year shop kiss law mistake entire divide";

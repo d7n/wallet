@@ -1,1 +1,1 @@
-var mnemonic = "juice impulse recall old curtain vacuum govern work industry road fit scale";
+var mnemonic = "merry rabbit shy home reduce charge kingdom girl syrup jelly impose latin";

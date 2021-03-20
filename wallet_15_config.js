@@ -1,1 +1,1 @@
-var mnemonic = "mosquito jacket bus brisk ride bottom spy chat better become suggest later";
+var mnemonic = "tube away case peasant outside mom fury glance refuse firm discover tired";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer blind lottery tissue they polar worth civil wine vanish crime bracket";
+var mnemonic = "huge merry forest balcony curtain pair supreme fresh session pill exist able";

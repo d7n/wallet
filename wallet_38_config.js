@@ -1,1 +1,1 @@
-var mnemonic = "during catch chase print suspect position second dust glare popular dutch effort";
+var mnemonic = "follow mail step narrow equip trim wisdom enable piano mean possible rate";

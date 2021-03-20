@@ -1,1 +1,1 @@
-var mnemonic = "rude sea aisle exhaust visual scene depend raven case dune situate twist";
+var mnemonic = "visual moment pave orange differ gentle diary income company nerve horror flight";

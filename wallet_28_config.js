@@ -1,1 +1,1 @@
-var mnemonic = "wage blanket earth shrimp special disease approve lecture swear board assist west";
+var mnemonic = "company crunch glove echo ceiling check fortune manual cabbage silk cereal beyond";

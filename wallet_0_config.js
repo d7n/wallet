@@ -1,1 +1,1 @@
-var mnemonic = "square duty eyebrow spirit ladder hollow vessel turn quarter unveil plastic side";
+var mnemonic = "grain offer apology box erase spy iron chunk split robot harbor explain";

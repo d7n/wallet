@@ -1,1 +1,1 @@
-var mnemonic = "animal cream donor bleak antique empower vendor end snake dignity panther surge";
+var mnemonic = "motor carry popular work physical grain proof essence strong supreme ship arm";

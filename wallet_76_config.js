@@ -1,1 +1,1 @@
-var mnemonic = "ignore success top record sleep genuine address resemble abuse yard welcome balcony";
+var mnemonic = "equal fiber animal pear actor custom retire swim upgrade end lamp manage";

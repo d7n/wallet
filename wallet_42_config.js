@@ -1,1 +1,1 @@
-var mnemonic = "inside symptom insane young clerk escape effort beef kite eyebrow wing eyebrow";
+var mnemonic = "mansion panther lens trust jaguar direct proof absorb cargo note project endorse";

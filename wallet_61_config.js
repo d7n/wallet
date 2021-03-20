@@ -1,1 +1,1 @@
-var mnemonic = "resist busy runway awesome combine easily double federal climb arrive vessel upper";
+var mnemonic = "staff useless try solid path second grab apart junk choose stick diet";

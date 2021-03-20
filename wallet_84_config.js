@@ -1,1 +1,1 @@
-var mnemonic = "lecture story second type city found attack evidence maximum grace drill order";
+var mnemonic = "grocery dice predict session cup ribbon sorry stick usage lecture deal foster";

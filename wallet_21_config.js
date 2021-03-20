@@ -1,1 +1,1 @@
-var mnemonic = "panic cricket feed finger climb twist estate never loud ask margin public";
+var mnemonic = "dumb rent flee cake lecture slim interest burden ramp cherry receive blood";

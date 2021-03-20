@@ -1,1 +1,1 @@
-var mnemonic = "route use power cute rhythm garbage diary escape planet jelly rare cement";
+var mnemonic = "above bike thank talent hint ladder evoke horse lobster frown antenna march";

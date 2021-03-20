@@ -1,1 +1,1 @@
-var mnemonic = "tourist narrow dolphin army harbor avocado race cluster win duck fish antenna";
+var mnemonic = "anxiety throw track chalk brass paper legal twice curious embrace guard finish";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh jealous belt tooth short wealth desert wedding olive unable gold bubble";
+var mnemonic = "old knife picture child arrange fold kid wine fork knife jar example";

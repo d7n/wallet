@@ -1,1 +1,1 @@
-var mnemonic = "dilemma layer air young believe wild gym cook rally rescue tail crop";
+var mnemonic = "day neck color fee chronic ride situate enroll want donor mimic paper";

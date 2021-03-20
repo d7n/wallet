@@ -1,1 +1,1 @@
-var mnemonic = "post capable shaft poverty blood cave clerk evidence table flush scale deny";
+var mnemonic = "device lottery alley company kidney echo donor never expire canvas version word";

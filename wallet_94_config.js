@@ -1,1 +1,1 @@
-var mnemonic = "exchange dad stumble simple noodle first link exchange fortune ancient borrow embody";
+var mnemonic = "noise feel about enforce despair sibling village wheel trim rich sun purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "kit dog ocean climb okay receive item aisle secret lunch talk inside";
+var mnemonic = "obtain pitch later round suspect decline bean laptop vague track topple accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow enroll bone guide since guilt write aware injury network body write";
+var mnemonic = "brush obvious retreat used sting payment stock merry boil panic reveal tiger";

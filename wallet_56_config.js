@@ -1,1 +1,1 @@
-var mnemonic = "cherry video trouble industry sugar good deer hole loyal canal fever teach";
+var mnemonic = "safe climb thought creek bubble snow round plate lizard material cinnamon margin";

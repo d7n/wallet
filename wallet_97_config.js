@@ -1,1 +1,1 @@
-var mnemonic = "glove leader good music push seek spawn bubble spray choice build ignore";
+var mnemonic = "extra cigar together trip already orbit quit once amount isolate tip please";

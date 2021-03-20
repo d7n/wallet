@@ -1,1 +1,1 @@
-var mnemonic = "model virus riot cruise eye current wage verify derive hole veteran still";
+var mnemonic = "artwork concert raw gain eagle dream since gadget act trigger wrap squirrel";

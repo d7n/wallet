@@ -1,1 +1,1 @@
-var mnemonic = "blush skate vault prosper fantasy boat people inject wait cherry develop acid";
+var mnemonic = "wear dash lecture skirt unlock decade slot item move almost neglect belt";

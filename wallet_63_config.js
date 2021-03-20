@@ -1,1 +1,1 @@
-var mnemonic = "spray local link circle orchard weapon hockey weather cargo erase step zero";
+var mnemonic = "pear broom raven honey open harbor enjoy ketchup melt rain shallow lizard";

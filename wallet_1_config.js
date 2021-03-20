@@ -1,1 +1,1 @@
-var mnemonic = "company reject trade dash always solid melody fame kick tomorrow symptom magic";
+var mnemonic = "sleep bike snow abstract cancel cost digital melt script grid siege decide";

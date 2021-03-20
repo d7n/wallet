@@ -1,1 +1,1 @@
-var mnemonic = "extend luxury soup lemon state goose thrive copper funny essay zoo ship";
+var mnemonic = "movie glare quit helmet throw raven turkey unfair happy weasel arena disorder";

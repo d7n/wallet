@@ -1,1 +1,1 @@
-var mnemonic = "unfair dune rib shuffle fence judge river electric auto pipe ball arch";
+var mnemonic = "rail myth only connect sweet payment match almost letter toward photo bomb";

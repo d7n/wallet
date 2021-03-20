@@ -1,1 +1,1 @@
-var mnemonic = "evil sunny among head shift brick crash fly strong interest apology dose";
+var mnemonic = "island reward slide near today decade learn pupil cotton color hand roof";

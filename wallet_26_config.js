@@ -1,1 +1,1 @@
-var mnemonic = "title pattern trip banner unable unaware detect mystery crash coast enhance pride";
+var mnemonic = "snap priority miracle river loyal pulse erupt virtual method pulse music assist";

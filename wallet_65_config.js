@@ -1,1 +1,1 @@
-var mnemonic = "rabbit horror again dumb ridge force inside common empty region ritual boil";
+var mnemonic = "angry boring mind dinner cart drum volume regret soon source neither walk";

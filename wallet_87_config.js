@@ -1,1 +1,1 @@
-var mnemonic = "direct zone space mansion bacon lens arrive shuffle hockey hood educate deal";
+var mnemonic = "make inflict mystery multiply end size grow north spoil syrup real loud";

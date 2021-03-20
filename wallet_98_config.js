@@ -1,1 +1,1 @@
-var mnemonic = "aerobic use harsh shop south crop derive black van field ring review";
+var mnemonic = "hold loyal iron medal decorate heart bone auto notable kid only lion";

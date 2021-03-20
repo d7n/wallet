@@ -1,1 +1,1 @@
-var mnemonic = "swap carbon main estate honey file primary enlist harvest history rude cloth";
+var mnemonic = "suspect organ clip blouse bind rhythm point loyal happy river wreck finger";

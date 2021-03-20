@@ -1,1 +1,1 @@
-var mnemonic = "critic broccoli hour duck later maid baby census shrimp plastic avocado hero";
+var mnemonic = "coach fever school scene blossom lumber shy ski night april vocal abandon";

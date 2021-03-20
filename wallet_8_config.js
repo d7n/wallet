@@ -1,1 +1,1 @@
-var mnemonic = "finish cry exist juice raise radar spatial demand horror bitter winter budget";
+var mnemonic = "warrior mind discover just glance enact crucial craft myth enact opera sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom hour page dirt trust together what stone belt cliff question cluster";
+var mnemonic = "entire index error put ship repeat note genuine girl unhappy flee ordinary";

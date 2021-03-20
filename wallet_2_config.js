@@ -1,1 +1,1 @@
-var mnemonic = "sea hedgehog pulse choose job nature truth pass banana sadness remain window";
+var mnemonic = "staff ball volume shrimp potato split reform nephew frozen verb behind cage";

@@ -1,1 +1,1 @@
-var mnemonic = "survey frost lake document high copper tray wrist risk neutral swim wisdom";
+var mnemonic = "unknown legend bacon man tower run space price torch decorate ramp remove";

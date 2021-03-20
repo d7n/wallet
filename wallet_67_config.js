@@ -1,1 +1,1 @@
-var mnemonic = "code list story trial garage clinic monitor parade decline green neither any";
+var mnemonic = "million attitude strategy remember answer misery supreme twist clock few stove name";

@@ -1,1 +1,1 @@
-var mnemonic = "rather screen twice outer vicious artefact end cause decrease online cage piece";
+var mnemonic = "absent cover coffee orange ordinary human angry until climb impose skill polar";

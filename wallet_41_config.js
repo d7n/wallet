@@ -1,1 +1,1 @@
-var mnemonic = "club unfair enroll air dinosaur weapon helmet route finger foster curtain purpose";
+var mnemonic = "end best sun keen cat soap giant arrive stand gun chimney negative";

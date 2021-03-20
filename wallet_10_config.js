@@ -1,1 +1,1 @@
-var mnemonic = "slice choice nasty eager daring key wife owner mask eager tornado dilemma";
+var mnemonic = "foam frown end ticket october onion access pigeon marine prison page wealth";

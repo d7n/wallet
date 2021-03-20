@@ -1,1 +1,1 @@
-var mnemonic = "pull health athlete mask green deliver help mix vocal legend tiger giraffe";
+var mnemonic = "trade jacket shaft wink upon private emotion maid corn bracket enter squeeze";

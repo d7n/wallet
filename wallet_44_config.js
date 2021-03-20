@@ -1,1 +1,1 @@
-var mnemonic = "pigeon example scout upgrade also field team poet tide journey proof pudding";
+var mnemonic = "raw execute unaware pitch dress butter amount real twice lumber turkey comic";

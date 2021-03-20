@@ -1,1 +1,1 @@
-var mnemonic = "shield hollow kiwi include enlist pledge shuffle cream region doctor industry common";
+var mnemonic = "wheel bunker hurry lyrics program duck vendor open film traffic chase flame";

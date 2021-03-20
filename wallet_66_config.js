@@ -1,1 +1,1 @@
-var mnemonic = "above joke special bacon wear scout nice drip scissors drift pipe romance";
+var mnemonic = "print main odor hundred dinner priority bachelor stock banner home dragon ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "rent mercy world draft vague loan web quick eager struggle yellow disorder";
+var mnemonic = "museum define elder sniff section biology wheat wish ten month vessel aware";

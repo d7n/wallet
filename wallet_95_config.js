@@ -1,1 +1,1 @@
-var mnemonic = "test uncover fall club worry label gap alarm sister avocado hedgehog try";
+var mnemonic = "nerve nut seek hawk poet grant news slide extra august style avoid";

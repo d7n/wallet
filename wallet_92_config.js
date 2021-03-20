@@ -1,1 +1,1 @@
-var mnemonic = "wealth circle mandate accuse next library omit lumber false gym easily eternal";
+var mnemonic = "crawl motor gas force question awake chimney medal forward marriage dentist december";

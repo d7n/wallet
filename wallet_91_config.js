@@ -1,1 +1,1 @@
-var mnemonic = "animal similar seat impact hundred trim type rapid much glow swift earth";
+var mnemonic = "fly blue volume guess stable segment feel library film squirrel equip worry";

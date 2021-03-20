@@ -1,1 +1,1 @@
-var mnemonic = "spray fit destroy stumble typical idea pudding burden donor noise vessel empower";
+var mnemonic = "cruise swarm anxiety combine coin cattle meadow ring eagle nurse vehicle extra";

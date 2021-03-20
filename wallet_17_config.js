@@ -1,1 +1,1 @@
-var mnemonic = "penalty coconut peace chef drift fragile meadow sheriff level iron road addict";
+var mnemonic = "beach useful scale elbow flash rare original napkin chalk struggle three stool";

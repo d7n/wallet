@@ -1,1 +1,1 @@
-var mnemonic = "can oval mesh language business toward monitor two card boost opera please";
+var mnemonic = "artwork pioneer giggle hole betray tissue wood gorilla upon pink enable drama";

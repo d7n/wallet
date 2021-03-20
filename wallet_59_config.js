@@ -1,1 +1,1 @@
-var mnemonic = "humble travel gym assault citizen benefit quiz thrive room sure pudding under";
+var mnemonic = "truth chair develop cloud captain kitten unveil claw slogan slogan pause mesh";

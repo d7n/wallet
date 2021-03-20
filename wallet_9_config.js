@@ -1,1 +1,1 @@
-var mnemonic = "obscure word input real later retire find dress embody jaguar album inherit";
+var mnemonic = "finish chalk okay water village pattern able praise fashion marble limit grace";

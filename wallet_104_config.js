@@ -1,1 +1,1 @@
-var mnemonic = "top muffin region arctic road method history rookie recycle bind bless trash";
+var mnemonic = "casino elder fault enact swim robust yellow erode gate exclude grunt feature";

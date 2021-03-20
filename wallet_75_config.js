@@ -1,1 +1,1 @@
-var mnemonic = "repeat true multiply medal punch group firm today sketch glory coast notice";
+var mnemonic = "giraffe capable true degree range gather size husband twice water supply bacon";

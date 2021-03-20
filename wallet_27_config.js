@@ -1,1 +1,1 @@
-var mnemonic = "ivory december divert only egg ketchup elder average utility junior cruise evil";
+var mnemonic = "blade venture deer marble bullet name spoon eight arch wood drum jar";

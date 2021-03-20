@@ -1,1 +1,1 @@
-var mnemonic = "universe alley rotate love spoon rare scrub lawn ski begin tomorrow come";
+var mnemonic = "squirrel orbit mistake slogan saddle busy tissue comfort tortoise allow screen hope";

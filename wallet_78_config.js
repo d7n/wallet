@@ -1,1 +1,1 @@
-var mnemonic = "loop trade occur tuna vital critic merry audit make cat rocket alert";
+var mnemonic = "vacuum equal bus sense inform elbow curtain leave month minor weapon romance";

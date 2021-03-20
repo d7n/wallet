@@ -1,1 +1,1 @@
-var mnemonic = "artwork spirit fiber happy core vast whip ankle select rebel detail fresh";
+var mnemonic = "auto duck theme matrix industry ozone tank second trial abandon document father";

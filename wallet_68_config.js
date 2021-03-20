@@ -1,1 +1,1 @@
-var mnemonic = "found say width update collect sick cargo fly capable target change verify";
+var mnemonic = "enable clap announce panda cake pact weather jump sea view enable globe";

@@ -1,1 +1,1 @@
-var mnemonic = "aware truth labor shed once mad oyster gadget junior guess once bracket";
+var mnemonic = "adapt accident lesson vanish scrap cotton tube job steak laundry slam genius";

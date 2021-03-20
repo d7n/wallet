@@ -1,1 +1,1 @@
-var mnemonic = "orchard together injury come parade finish thing evolve bright bless whisper away";
+var mnemonic = "diesel kiss camera seat buzz affair demise process kite liberty tissue label";

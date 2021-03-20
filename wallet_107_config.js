@@ -1,1 +1,1 @@
-var mnemonic = "believe filter female ethics few inform speak become prefer diagram divide link";
+var mnemonic = "hero warfare knife flavor snack practice spatial small help stone hat conduct";

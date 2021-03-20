@@ -1,1 +1,1 @@
-var mnemonic = "culture super explain powder imitate cake fringe offer metal glow organ pulp";
+var mnemonic = "spoon silk robot unhappy oxygen dune mean sing cruel slide husband also";

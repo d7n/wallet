@@ -1,1 +1,1 @@
-var mnemonic = "blur orphan vote venue mom monitor pepper roof damp smoke receive book";
+var mnemonic = "hour cinnamon example float physical notable increase okay mimic region zoo impact";

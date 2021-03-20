@@ -1,1 +1,1 @@
-var mnemonic = "clerk frequent giggle bacon reason circle response south spider mixture pill suit";
+var mnemonic = "road hip rebel theme model grow human shine genre nerve boy tiger";

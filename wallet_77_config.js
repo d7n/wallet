@@ -1,1 +1,1 @@
-var mnemonic = "muscle disease glance cat diagram grab diamond camp spider bright club insane";
+var mnemonic = "moment oil benefit wink doctor announce occur caution boat raven oblige vault";

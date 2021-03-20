@@ -1,1 +1,1 @@
-var mnemonic = "animal pitch rack together swap skate super thrive clarify nose alley rose";
+var mnemonic = "staff steel final fox clock slab clerk program liar tackle bag code";

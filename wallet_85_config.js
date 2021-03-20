@@ -1,1 +1,1 @@
-var mnemonic = "sick style angle oxygen warm raccoon load film van rocket crucial joy";
+var mnemonic = "wall tray empty aspect blood enrich wonder window laundry crack use chicken";

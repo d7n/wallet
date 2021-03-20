@@ -1,1 +1,1 @@
-var mnemonic = "shallow concert advice when urge often picture voice sentence subway miracle nuclear";
+var mnemonic = "shoe trophy hollow curve tribe length matrix cancel first soft oblige relax";

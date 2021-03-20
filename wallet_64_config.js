@@ -1,1 +1,1 @@
-var mnemonic = "daughter stomach feed grain inch inside camp keen salt page raise problem";
+var mnemonic = "gate muscle midnight subway fancy amazing spin dinosaur fog fitness cry often";

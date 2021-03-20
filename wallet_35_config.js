@@ -1,1 +1,1 @@
-var mnemonic = "gold congress infant all lottery slot stove pioneer resist aerobic when diary";
+var mnemonic = "impulse mail dentist pause life grocery bless nasty before neck pink lounge";

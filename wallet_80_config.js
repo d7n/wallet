@@ -1,1 +1,1 @@
-var mnemonic = "two price sweet toast relax indoor return birth second deposit flash ivory";
+var mnemonic = "retire unhappy solve simple check rare wealth toy maid arrive truck age";

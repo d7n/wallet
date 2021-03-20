@@ -1,1 +1,1 @@
-var mnemonic = "harvest place weapon angry wisdom correct frown film parrot pelican rice concert";
+var mnemonic = "general pear brown bike hero memory hold amateur collect father hover access";

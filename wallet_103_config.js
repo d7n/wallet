@@ -1,1 +1,1 @@
-var mnemonic = "knee crew raven bonus purse mother step plunge fantasy loop toast property";
+var mnemonic = "custom suit inspire govern electric giggle badge base tag call ensure wrong";

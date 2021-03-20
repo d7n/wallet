@@ -1,1 +1,1 @@
-var mnemonic = "develop answer tonight duck morning cabbage unable hurdle soldier unveil remove member";
+var mnemonic = "exhibit speed chuckle leader injury online eight dress drink output whisper become";

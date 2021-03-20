@@ -1,1 +1,1 @@
-var mnemonic = "ribbon intact swamp simple general decorate staff still question proud deliver output";
+var mnemonic = "magic milk radar category print robust turkey use prize basket horn lift";

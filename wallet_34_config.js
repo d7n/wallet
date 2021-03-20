@@ -1,1 +1,1 @@
-var mnemonic = "vacuum alpha subway swing run situate exact walnut series donkey habit bike";
+var mnemonic = "goat soap mystery replace future bike fluid kingdom album acquire slide giant";

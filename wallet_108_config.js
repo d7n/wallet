@@ -1,1 +1,1 @@
-var mnemonic = "model such great shiver domain define enjoy bottom fatigue evoke below middle";
+var mnemonic = "pulp shadow invite cake zoo suggest blue actress decline bind bomb chest";

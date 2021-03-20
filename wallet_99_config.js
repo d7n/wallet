@@ -1,1 +1,1 @@
-var mnemonic = "ship wide hover abandon scrap bamboo accuse whale design course charge thank";
+var mnemonic = "proud toast benefit deposit found win casual topple infant shoe grit spoil";
