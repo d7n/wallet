@@ -1,1 +1,1 @@
-var mnemonic = "denial cinnamon board rain write urban dad grape follow worth hockey boy";
+var mnemonic = "unaware hobby lawsuit online section cigar track address cargo long panel bird";

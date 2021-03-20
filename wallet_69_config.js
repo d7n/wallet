@@ -1,1 +1,1 @@
-var mnemonic = "wink rent skin find romance visa legal liberty supply digital column sustain";
+var mnemonic = "satoshi head brain fall panda attitude oak sure scene mouse light awesome";

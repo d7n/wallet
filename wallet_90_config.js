@@ -1,1 +1,1 @@
-var mnemonic = "feel foot wave blood long february lesson blossom brain congress elder wire";
+var mnemonic = "allow success afraid trial view spirit enact exclude moral dad stumble office";

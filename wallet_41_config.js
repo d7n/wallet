@@ -1,1 +1,1 @@
-var mnemonic = "retreat radar toss direct hazard inside curve surge marriage ignore rebel together";
+var mnemonic = "spawn old option despair balance flee chunk veteran water section insane figure";

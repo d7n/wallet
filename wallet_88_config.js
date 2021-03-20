@@ -1,1 +1,1 @@
-var mnemonic = "priority meat twist oil record weasel only pluck sense forget three tired";
+var mnemonic = "upgrade change prefer dish ocean toward section image market tool sense execute";

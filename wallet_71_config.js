@@ -1,1 +1,1 @@
-var mnemonic = "hub own crop tennis wife unusual monster cake great blouse mixture latin";
+var mnemonic = "sponsor verb clump snake hover burden carry side jar april brick main";

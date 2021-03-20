@@ -1,1 +1,1 @@
-var mnemonic = "polar usual cattle wedding monitor bomb toilet rich puzzle earn enlist coach";
+var mnemonic = "tunnel bring guard motion cool case shoe mesh critic summer stock seed";

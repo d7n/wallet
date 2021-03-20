@@ -1,1 +1,1 @@
-var mnemonic = "example half analyst leopard nice bacon sick cannon glare bicycle action trim";
+var mnemonic = "rich dynamic attack spatial chef similar world analyst type denial undo satoshi";

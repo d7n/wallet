@@ -1,1 +1,1 @@
-var mnemonic = "nephew shop park point alpha subway danger post tissue news dirt curtain";
+var mnemonic = "anchor funny tilt another cliff voice mean split stone leaf rule cattle";

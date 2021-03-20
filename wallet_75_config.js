@@ -1,1 +1,1 @@
-var mnemonic = "push start post beach blind clap fashion lawsuit convince foot lesson hill";
+var mnemonic = "inch vessel grant traffic silly tiny mosquito purpose install elite layer grit";

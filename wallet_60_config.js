@@ -1,1 +1,1 @@
-var mnemonic = "arrow frequent style noise finish oxygen pill ice suit nothing make since";
+var mnemonic = "truly click impact apple cattle theory pistol common infant hip knock fresh";

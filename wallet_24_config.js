@@ -1,1 +1,1 @@
-var mnemonic = "burden strategy science misery tank million violin fatigue involve execute welcome media";
+var mnemonic = "skill mammal odor inside frame various drastic together crawl bundle wave slim";

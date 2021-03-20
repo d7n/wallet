@@ -1,1 +1,1 @@
-var mnemonic = "filter example town jump chaos sock twist trick fatal suspect rain garbage";
+var mnemonic = "tiny negative credit income web lava buffalo scrub domain chase this push";

@@ -1,1 +1,1 @@
-var mnemonic = "engage clip wire talk bar brown vintage derive purchase state attend quit";
+var mnemonic = "satisfy library humble uncle quick sorry trash entire toe basket explain tank";

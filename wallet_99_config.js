@@ -1,1 +1,1 @@
-var mnemonic = "planet call then curtain afraid climb person crawl announce sword canal battle";
+var mnemonic = "honey amateur wild resource expand happy join angle mouse celery another endless";

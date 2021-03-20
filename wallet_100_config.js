@@ -1,1 +1,1 @@
-var mnemonic = "radio squirrel all surge nest crawl badge limb moon dose skill banner";
+var mnemonic = "trend wheat ketchup ring kiwi slab deal conduct there simple visual alone";

@@ -1,1 +1,1 @@
-var mnemonic = "need romance spawn term ozone size patient often derive alarm another intact";
+var mnemonic = "trouble number oxygen retreat virus grass melt sweet armed hotel deer opinion";

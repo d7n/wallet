@@ -1,1 +1,1 @@
-var mnemonic = "soldier wolf tuna promote track unhappy plastic because confirm impulse punch surge";
+var mnemonic = "merge blur champion fashion life iron clarify liberty vendor stay space point";

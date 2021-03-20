@@ -1,1 +1,1 @@
-var mnemonic = "grant jewel soft cushion prison few gorilla chicken clarify involve loyal cover";
+var mnemonic = "wrestle skull idea future wine inflict clock perfect salute advice birth spot";

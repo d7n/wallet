@@ -1,1 +1,1 @@
-var mnemonic = "spray chalk glad foot solve brisk traffic turkey combine switch scare major";
+var mnemonic = "debris veteran logic lizard surprise dance noodle divide degree hammer able attract";

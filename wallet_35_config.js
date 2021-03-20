@@ -1,1 +1,1 @@
-var mnemonic = "enjoy future spy feed group nation adult uncover decide city edge fee";
+var mnemonic = "oak claim furnace sell option hope edit write body trap build giant";

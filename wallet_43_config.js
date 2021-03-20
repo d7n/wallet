@@ -1,1 +1,1 @@
-var mnemonic = "pulp ridge will endorse digital fade type shallow work general lemon popular";
+var mnemonic = "shop scene reopen scale raise feed doll water throw uncle ride almost";

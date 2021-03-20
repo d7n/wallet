@@ -1,1 +1,1 @@
-var mnemonic = "strong across fluid stereo admit sketch number type loop unfair energy outside";
+var mnemonic = "hat guess item fish coast bid reopen inhale spice practice cup because";

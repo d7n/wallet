@@ -1,1 +1,1 @@
-var mnemonic = "hole banner spend menu grape humble coyote forget person series essence unfold";
+var mnemonic = "blush legend wheat before unfold patient innocent thumb merge escape wonder rapid";

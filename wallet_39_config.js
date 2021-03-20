@@ -1,1 +1,1 @@
-var mnemonic = "gain blanket myself exclude actor neck language organ sign stage trick pizza";
+var mnemonic = "trumpet vocal life online chase smoke soap enemy broccoli fluid culture pair";

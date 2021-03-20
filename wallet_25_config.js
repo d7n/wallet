@@ -1,1 +1,1 @@
-var mnemonic = "acoustic mouse steak curve faculty interest file student record divert series mention";
+var mnemonic = "path wall nasty extra tobacco baby surface joy energy weather physical second";

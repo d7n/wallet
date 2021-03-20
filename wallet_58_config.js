@@ -1,1 +1,1 @@
-var mnemonic = "spy name property kiwi canoe carbon diet sight corn joke drama wait";
+var mnemonic = "wall similar license flip steel embody robust urban enlist social mouse actress";

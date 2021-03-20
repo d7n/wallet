@@ -1,1 +1,1 @@
-var mnemonic = "already globe smile search exercise slam quick matter wash capable fish liar";
+var mnemonic = "tide cart sausage truck critic loyal usual tag retreat release leave letter";

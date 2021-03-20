@@ -1,1 +1,1 @@
-var mnemonic = "topple story isolate gap exclude dentist shell energy now control purpose fever";
+var mnemonic = "mushroom shuffle invite slide inhale price drink sport amount pulp speak flip";

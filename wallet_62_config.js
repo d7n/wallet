@@ -1,1 +1,1 @@
-var mnemonic = "record melt enough owner bench afraid tuna add animal early gown layer";
+var mnemonic = "copper absent protect meadow youth identify science dwarf shaft chapter hub system";

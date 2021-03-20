@@ -1,1 +1,1 @@
-var mnemonic = "sure seminar eight logic rude sick clog avocado mind forward example acquire";
+var mnemonic = "kid permit account jeans can lyrics plastic champion bronze digital hero left";

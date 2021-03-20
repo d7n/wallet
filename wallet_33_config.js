@@ -1,1 +1,1 @@
-var mnemonic = "cruise armed cactus physical prize uphold erosion talent field staff nice much";
+var mnemonic = "history undo large scrub already cloud airport innocent van grass rain second";

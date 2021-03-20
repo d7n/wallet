@@ -1,1 +1,1 @@
-var mnemonic = "order victory crystal awful hover jelly crime fix minor inmate choice harvest";
+var mnemonic = "puppy patient rent real elite garbage hollow supreme provide aisle wife since";

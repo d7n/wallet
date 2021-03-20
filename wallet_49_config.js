@@ -1,1 +1,1 @@
-var mnemonic = "catalog oyster holiday actress hip prosper such reveal type snap because extra";
+var mnemonic = "law afford inside finish copper vintage van fiction blast antenna whisper weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "page quarter offer network judge vanish family vanish fluid mind crouch pencil";
+var mnemonic = "dress priority rifle circle weasel brass attack leave unusual earth story collect";

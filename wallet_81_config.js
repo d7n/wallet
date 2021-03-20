@@ -1,1 +1,1 @@
-var mnemonic = "document license afford among height amused dirt vast dry penalty pet wedding";
+var mnemonic = "snack leopard poet estate link spend carry tourist sick secret relief dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "usage ahead twenty risk feature kite health motion detail matter enough gold";
+var mnemonic = "situate hamster draft unveil excite link confirm defy patrol squeeze share immune";

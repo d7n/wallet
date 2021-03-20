@@ -1,1 +1,1 @@
-var mnemonic = "want earn smooth often tray betray assault rhythm hybrid slight velvet indoor";
+var mnemonic = "fox ahead cruel tornado bind guilt treat witness critic can chicken cry";

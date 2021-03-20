@@ -1,1 +1,1 @@
-var mnemonic = "screen expand arrange crop clever adult section cook toy misery across arrive";
+var mnemonic = "require child special narrow boil common car truth desert ladder sign fancy";

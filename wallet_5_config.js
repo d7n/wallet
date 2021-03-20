@@ -1,1 +1,1 @@
-var mnemonic = "trumpet nasty flee drive napkin federal model crunch shadow oblige meat shrimp";
+var mnemonic = "soccer wash guard hurt creek spring spell marble reunion stuff panda kit";

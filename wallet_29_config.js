@@ -1,1 +1,1 @@
-var mnemonic = "blind benefit drift lift gold distance slush intact only frog dawn cotton";
+var mnemonic = "noble pattern across media journey rice long park volcano govern tragic switch";

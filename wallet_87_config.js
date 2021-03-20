@@ -1,1 +1,1 @@
-var mnemonic = "area wait task crop throw session punch assault urban leopard clever gossip";
+var mnemonic = "all make lion relax lake okay alien tackle bronze donor eyebrow rug";

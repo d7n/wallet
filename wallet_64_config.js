@@ -1,1 +1,1 @@
-var mnemonic = "work cheese raven length host bullet usual cradle rabbit shock slush solar";
+var mnemonic = "sad believe kingdom curious rifle true universe cage island light tenant describe";

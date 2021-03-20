@@ -1,1 +1,1 @@
-var mnemonic = "hospital stove chicken tank frown cinnamon minute wonder smooth dance error put";
+var mnemonic = "just green online cool cake sword staff life remember hold crush kite";

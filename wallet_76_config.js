@@ -1,1 +1,1 @@
-var mnemonic = "burger broccoli gossip world stereo west speed quarter drink candy blush know";
+var mnemonic = "urban fuel world cotton pole false marine century coin access garden analyst";

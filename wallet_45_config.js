@@ -1,1 +1,1 @@
-var mnemonic = "supply science use never idle tell clown exhaust maid install glue burger";
+var mnemonic = "extra language able summer income ozone call use shy address point myth";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle glad cigar mixed process release try wrist cry hover plate extra";
+var mnemonic = "impulse vapor certain clever focus shield fence dutch cabbage wool pet hard";

@@ -1,1 +1,1 @@
-var mnemonic = "dice matrix shell owner spray hospital leave review zebra excess crack replace";
+var mnemonic = "elegant manage approve maze barrel happy hockey question outdoor amazing test rigid";

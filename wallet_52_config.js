@@ -1,1 +1,1 @@
-var mnemonic = "drift bridge toilet pretty game jaguar gospel cabin rain debris learn scrub";
+var mnemonic = "crop occur major voice echo deputy lunch hard plastic laptop main advice";

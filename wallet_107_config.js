@@ -1,1 +1,1 @@
-var mnemonic = "floor polar typical ostrich act maximum law toss foam faith unable cheese";
+var mnemonic = "dilemma scene idle dolphin mother swift chest liquid opinion bone similar remind";

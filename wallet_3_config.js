@@ -1,1 +1,1 @@
-var mnemonic = "lemon visual bullet interest lizard remember frost yard letter tray nothing input";
+var mnemonic = "claw coin calm payment manual sweet convince much caution wool senior assume";

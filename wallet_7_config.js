@@ -1,1 +1,1 @@
-var mnemonic = "invite ritual help hidden emotion toward enact sting bar sad witness tragic";
+var mnemonic = "cliff soon employ coffee assume bone base stone float unfold mirror spice";

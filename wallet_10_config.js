@@ -1,1 +1,1 @@
-var mnemonic = "plastic glue giant zebra time chalk van van pair sport west sustain";
+var mnemonic = "behave arm gesture flag rose neutral eagle dance cool awful silly window";

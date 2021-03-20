@@ -1,1 +1,1 @@
-var mnemonic = "garbage neither random burst special bargain inherit teach same stay across example";
+var mnemonic = "afford awkward bacon odor naive disease slice noise engage useful symptom distance";

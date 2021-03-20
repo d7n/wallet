@@ -1,1 +1,1 @@
-var mnemonic = "cluster run timber room ocean love know patient volcano protect amused photo";
+var mnemonic = "swim thought volcano coffee march lunar right have doctor merge ankle silver";

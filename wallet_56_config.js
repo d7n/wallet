@@ -1,1 +1,1 @@
-var mnemonic = "problem century denial goat appear develop copper sunset predict rough type budget";
+var mnemonic = "stool silk doll save ice manual couch east horn pioneer disagree switch";

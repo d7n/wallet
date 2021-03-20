@@ -1,1 +1,1 @@
-var mnemonic = "ghost plug chalk enough soldier over drip slight bread talent mask spot";
+var mnemonic = "defy quarter farm want regret promote panic actual topic aisle mistake visit";

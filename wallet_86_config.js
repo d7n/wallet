@@ -1,1 +1,1 @@
-var mnemonic = "blue laugh ghost loyal describe dish anxiety clap million height coconut vital";
+var mnemonic = "gate cattle cat yard dismiss canyon adapt name avocado portion hamster truly";

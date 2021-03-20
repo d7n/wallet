@@ -1,1 +1,1 @@
-var mnemonic = "camera easily tongue kiwi skate again network pluck dice peasant dust author";
+var mnemonic = "example north become fetch anxiety plunge answer tonight celery shrimp spawn nice";

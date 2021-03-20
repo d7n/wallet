@@ -1,1 +1,1 @@
-var mnemonic = "author mouse they tribe solve receive boss fossil dizzy dash wise disagree";
+var mnemonic = "because insane auction merry tail enemy super bitter paper car fun case";

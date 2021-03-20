@@ -1,1 +1,1 @@
-var mnemonic = "special dizzy bamboo other venue body void chase glory rice tissue thing";
+var mnemonic = "crush joke crater same animal magnet kangaroo club grain work panel knife";

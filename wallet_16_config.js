@@ -1,1 +1,1 @@
-var mnemonic = "program cry focus decline subway jealous guess kitten wish flat disagree horn";
+var mnemonic = "leopard cheese vintage apology special deliver episode frost brand rug shadow tackle";

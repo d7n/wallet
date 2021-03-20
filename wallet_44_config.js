@@ -1,1 +1,1 @@
-var mnemonic = "fog endorse pledge sudden version toddler shoulder degree sniff vapor impose square";
+var mnemonic = "raven road cause whale nut draft heavy say planet chaos grab gold";

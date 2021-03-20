@@ -1,1 +1,1 @@
-var mnemonic = "announce jeans filter report below review derive catalog crisp entry unfold unfold";
+var mnemonic = "industry name festival tomato chimney use entry magnet actress lucky evil science";

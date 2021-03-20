@@ -1,1 +1,1 @@
-var mnemonic = "slender chef behave rural brother illegal mystery stem special silver between lyrics";
+var mnemonic = "deer artefact vendor hello deal insane speed crawl misery vendor defy legend";

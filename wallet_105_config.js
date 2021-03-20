@@ -1,1 +1,1 @@
-var mnemonic = "bright more humor switch tower focus eager scare myth torch december economy";
+var mnemonic = "peasant random bench know naive survey lamp robot become glory explain garment";

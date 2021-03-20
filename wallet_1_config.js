@@ -1,1 +1,1 @@
-var mnemonic = "broken toward type boss category design real piano salon scout panel pill";
+var mnemonic = "joy rice conduct gasp crime right stairs amazing cash crack key blame";

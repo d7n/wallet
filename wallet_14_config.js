@@ -1,1 +1,1 @@
-var mnemonic = "must rug dirt scheme media title vivid ignore movie destroy adapt caught";
+var mnemonic = "list curve toward ill food memory deputy core picture know exercise armed";

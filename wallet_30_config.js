@@ -1,1 +1,1 @@
-var mnemonic = "clap elite spirit profit oxygen praise someone summer feel olympic present chef";
+var mnemonic = "ring enable sugar excess bean abandon annual spare patient measure detail sell";

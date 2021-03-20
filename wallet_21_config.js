@@ -1,1 +1,1 @@
-var mnemonic = "carpet decrease found report hurdle weapon solar champion inspire bundle service uncle";
+var mnemonic = "company cause document snap kit pair ignore cricket sort soon chair topple";

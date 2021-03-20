@@ -1,1 +1,1 @@
-var mnemonic = "end enough between gun harvest daughter vocal rural amount step air ethics";
+var mnemonic = "december steel hockey spy position rug truly ceiling tower plastic simple sing";

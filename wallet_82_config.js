@@ -1,1 +1,1 @@
-var mnemonic = "visa swim minimum gift worry hobby trick media they input hamster wine";
+var mnemonic = "tower effort expect wood climb seven today onion tunnel jazz hockey pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky gallery decrease gauge drama critic order execute forest street volcano shop";
+var mnemonic = "naive toward fit elder tide kind foil autumn six diary damp cover";

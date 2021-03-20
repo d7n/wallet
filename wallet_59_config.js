@@ -1,1 +1,1 @@
-var mnemonic = "leave run soap empower loud advice deal guitar clay easy sponsor key";
+var mnemonic = "caution tree warfare master list oxygen scout song expand sell scorpion mention";

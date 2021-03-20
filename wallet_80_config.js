@@ -1,1 +1,1 @@
-var mnemonic = "produce sing gauge skin swing salmon swear gadget humble file endless orchard";
+var mnemonic = "unique unusual still sister fiber cup bring broccoli silent cross urban mouse";

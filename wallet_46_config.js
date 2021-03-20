@@ -1,1 +1,1 @@
-var mnemonic = "equip vacant hill punch black live coach evolve virus climb ridge nut";
+var mnemonic = "home coral stage awake indoor notice crane length train kidney output trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "century alpha confirm split learn initial robust custom frozen afraid scrub question";
+var mnemonic = "rocket fiscal fossil treat swap will cluster capable soft shock neutral click";

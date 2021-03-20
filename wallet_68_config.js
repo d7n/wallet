@@ -1,1 +1,1 @@
-var mnemonic = "win deliver hair hour aspect hand visit ill blind ahead cook jeans";
+var mnemonic = "bring maid soul cushion throw warfare safe alter balcony medal kit organ";

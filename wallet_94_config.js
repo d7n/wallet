@@ -1,1 +1,1 @@
-var mnemonic = "sniff milk will clarify rifle sniff thing stool resource fence swamp shiver";
+var mnemonic = "poverty spring soap panda another dance wonder add future muscle security struggle";

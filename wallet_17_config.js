@@ -1,1 +1,1 @@
-var mnemonic = "advice useless museum about hospital alpha grape crawl roast cricket small travel";
+var mnemonic = "tent depart chaos crowd bubble you pulp immense clinic curve roast fat";

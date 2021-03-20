@@ -1,1 +1,1 @@
-var mnemonic = "try jealous impose audit engine toast essence session hen unaware cliff layer";
+var mnemonic = "rely giraffe cross diet correct eight live arrow biology carpet parrot enough";

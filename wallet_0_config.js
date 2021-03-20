@@ -1,1 +1,1 @@
-var mnemonic = "include need reopen square retire juice reveal shoulder nurse stay roast office";
+var mnemonic = "grief since exercise virtual dinner provide hamster purchase erosion sponsor grief cabin";

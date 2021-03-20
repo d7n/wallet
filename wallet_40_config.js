@@ -1,1 +1,1 @@
-var mnemonic = "throw accident phone sun beach clever inhale estate mother picnic cushion proof";
+var mnemonic = "among switch absorb alien confirm amount cart like fetch glance universe parade";

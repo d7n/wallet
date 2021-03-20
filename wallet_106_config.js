@@ -1,1 +1,1 @@
-var mnemonic = "quiz token know day put oil risk absent access sudden letter world";
+var mnemonic = "sense win leopard ship execute pattern enroll goat hundred inmate detail bleak";

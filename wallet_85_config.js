@@ -1,1 +1,1 @@
-var mnemonic = "bind nurse sight ginger electric tortoise planet kitchen hire lady bird suggest";
+var mnemonic = "purse mansion verb gate play spot purpose glide slender vote cart chimney";

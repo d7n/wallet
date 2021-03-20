@@ -1,1 +1,1 @@
-var mnemonic = "faculty divide drift brave theme rib pioneer theory slim decade yellow matter";
+var mnemonic = "club sting afford copper salad glad delay hurt year absent nice husband";

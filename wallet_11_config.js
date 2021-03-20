@@ -1,1 +1,1 @@
-var mnemonic = "salmon exercise thrive public merit salmon inherit peasant clump state prevent paddle";
+var mnemonic = "drama net budget glare crew ostrich glow space sadness try nothing maple";

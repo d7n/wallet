@@ -1,1 +1,1 @@
-var mnemonic = "hungry fiber dynamic glow home slush indicate flavor dignity narrow chase pioneer";
+var mnemonic = "kidney wedding height shoe giant soon pencil stock glow solution swift junk";

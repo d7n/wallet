@@ -1,1 +1,1 @@
-var mnemonic = "pull merit pattern fall fine spot club club vanish regret horror wash";
+var mnemonic = "analyst chest nasty hub chronic keen club steak social race symptom brain";

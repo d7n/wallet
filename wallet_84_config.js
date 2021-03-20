@@ -1,1 +1,1 @@
-var mnemonic = "scare such hobby net strategy gold drink misery apart use pole adapt";
+var mnemonic = "meat stereo juice absorb across orient onion enroll tone mask figure marriage";
