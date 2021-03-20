@@ -1,1 +1,1 @@
-var mnemonic = "uncover melt pilot cost cube discover dust lawn upset plug sadness tilt";
+var mnemonic = "rule between field fury subject suspect garden swim gesture army chaos demand";

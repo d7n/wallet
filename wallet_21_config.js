@@ -1,1 +1,1 @@
-var mnemonic = "call upgrade small donkey nominee stick ring early quantum outdoor exercise fury";
+var mnemonic = "flush garment lawn kite evoke myth blur buffalo recipe one worth cash";

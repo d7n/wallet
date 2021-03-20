@@ -1,1 +1,1 @@
-var mnemonic = "dynamic garment coconut daring include clerk flag capital exit kitten section arm";
+var mnemonic = "current text tiny excuse celery human drink indicate open toss group enough";

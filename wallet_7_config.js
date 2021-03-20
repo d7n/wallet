@@ -1,1 +1,1 @@
-var mnemonic = "spell empower vital basket picture reason audit anger math weekend gain pitch";
+var mnemonic = "sting sugar kid crack eight artist trim chat assist head discover lion";

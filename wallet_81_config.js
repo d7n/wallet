@@ -1,1 +1,1 @@
-var mnemonic = "fatal know prepare possible meadow task guess boy hello twenty galaxy mango";
+var mnemonic = "use problem leaf chalk forward hidden flight depth wonder loyal stool diesel";

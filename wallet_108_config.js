@@ -1,1 +1,1 @@
-var mnemonic = "violin ripple price hidden cloud game uncle cycle warfare garage tray test";
+var mnemonic = "more type onion movie news isolate come lady trouble green wasp degree";

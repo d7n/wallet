@@ -1,1 +1,1 @@
-var mnemonic = "when march layer clean burst adapt mushroom juice door north account reward";
+var mnemonic = "goddess voyage hill feed damp hello have life mule shy engine festival";

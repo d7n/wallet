@@ -1,1 +1,1 @@
-var mnemonic = "excuse cricket tiny icon fix kind hungry squirrel fiscal frame refuse crazy";
+var mnemonic = "eight brisk client figure scare matter maze jeans axis stem valid during";

@@ -1,1 +1,1 @@
-var mnemonic = "record rug name orchard evidence federal point tape frequent nasty race flush";
+var mnemonic = "face jungle coast ripple tiny afraid misery leg car sign length torch";

@@ -1,1 +1,1 @@
-var mnemonic = "space film office stay steel dolphin clutch chair gym enforce bicycle cigar";
+var mnemonic = "memory fee wrong hungry mango noble quantum bronze hobby claim idle cat";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch since trial goat call blue mountain credit decrease hospital report arctic";
+var mnemonic = "major gentle vanish afford monkey potato shrug vocal token puzzle talent hundred";

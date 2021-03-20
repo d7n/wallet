@@ -1,1 +1,1 @@
-var mnemonic = "fine happy coil badge category garden smile drop maple square census easily";
+var mnemonic = "range enforce admit uniform artefact loud caution cement average affair man dish";

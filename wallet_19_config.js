@@ -1,1 +1,1 @@
-var mnemonic = "wage miracle tenant sunset mistake come imitate airport peace turtle appear nut";
+var mnemonic = "crisp saddle wife foil menu album floor alley garlic rich guard hurry";

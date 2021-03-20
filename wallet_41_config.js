@@ -1,1 +1,1 @@
-var mnemonic = "air soul device athlete rent cliff session cheap there hint notable oak";
+var mnemonic = "sadness pool already also squeeze congress cradle sell arrow material choice basket";

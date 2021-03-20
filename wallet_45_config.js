@@ -1,1 +1,1 @@
-var mnemonic = "cream endorse holiday ribbon decorate pioneer six deny budget topic attract frown";
+var mnemonic = "couple security unknown doctor wrestle case actress strike banner brass wage one";

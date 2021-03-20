@@ -1,1 +1,1 @@
-var mnemonic = "cradle walk agree vicious fun account asthma crunch hunt roast about intact";
+var mnemonic = "step coach food stomach spare bonus verb frame bronze basic coyote custom";

@@ -1,1 +1,1 @@
-var mnemonic = "crash tiny festival subway absent cute enemy reward kangaroo gallery pattern sibling";
+var mnemonic = "only skirt alpha duck craft spoil pink snap clean expire amount decide";

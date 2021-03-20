@@ -1,1 +1,1 @@
-var mnemonic = "blouse success risk reunion crash card pulse bronze walnut bring hero install";
+var mnemonic = "visit become relief magnet cricket harsh daring argue solution hidden deer know";

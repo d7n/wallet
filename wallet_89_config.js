@@ -1,1 +1,1 @@
-var mnemonic = "elbow fatal emotion angry loop harvest clerk mushroom tide brick issue ecology";
+var mnemonic = "man truck virus mobile result joy crush favorite sunny diamond duck replace";

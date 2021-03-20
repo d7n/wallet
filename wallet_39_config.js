@@ -1,1 +1,1 @@
-var mnemonic = "soul sick blue make promote mosquito cover defy envelope voice ramp ship";
+var mnemonic = "dinner supply fall egg wedding renew wrestle cook nominee useless ridge noise";

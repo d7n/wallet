@@ -1,1 +1,1 @@
-var mnemonic = "say census path oyster assume such warm enjoy film until spend crop";
+var mnemonic = "rude absent drink sign media guard carbon health such motion napkin search";

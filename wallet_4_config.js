@@ -1,1 +1,1 @@
-var mnemonic = "gather toy sunny amused denial cash since fantasy mountain timber proud member";
+var mnemonic = "rival region captain paddle butter biology segment nominee brief virtual hen power";

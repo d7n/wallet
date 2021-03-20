@@ -1,1 +1,1 @@
-var mnemonic = "slow believe secret old milk barrel annual hen clerk banana brother page";
+var mnemonic = "avocado acid cupboard video earn into panel segment away boss crazy uncover";

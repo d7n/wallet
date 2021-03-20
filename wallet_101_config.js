@@ -1,1 +1,1 @@
-var mnemonic = "crazy mushroom frame churn avocado ghost mother tuna sponsor fall tobacco together";
+var mnemonic = "anxiety thumb gentle adjust enable must crack sleep bounce diesel water leopard";

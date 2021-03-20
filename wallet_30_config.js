@@ -1,1 +1,1 @@
-var mnemonic = "door turtle inhale crop rival friend pistol finish satoshi exotic frown hint";
+var mnemonic = "slab diet donor warm flip defense cream maple female silver february panther";

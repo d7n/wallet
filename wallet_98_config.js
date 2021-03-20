@@ -1,1 +1,1 @@
-var mnemonic = "effort lift version labor rebel lecture flame property advance robot soft margin";
+var mnemonic = "mansion ring text lesson rent october wisdom audit orange glide silk federal";

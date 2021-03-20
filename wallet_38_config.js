@@ -1,1 +1,1 @@
-var mnemonic = "emotion roast reward nation tribe earth glare warm category write interest bottom";
+var mnemonic = "travel spirit uncover idle stool kit glare steel cloud immense funny blue";

@@ -1,1 +1,1 @@
-var mnemonic = "practice answer wrestle dirt couch salad area wealth west crime trip lounge";
+var mnemonic = "kid front pistol game alarm rival strike vicious license aim choose universe";

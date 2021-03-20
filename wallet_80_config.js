@@ -1,1 +1,1 @@
-var mnemonic = "seven frozen sweet autumn atom stomach midnight liberty axis wisdom shallow tongue";
+var mnemonic = "pass radio cycle estate moon glad decide forget state enroll repair vocal";

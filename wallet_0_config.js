@@ -1,1 +1,1 @@
-var mnemonic = "card upon scrap force night bird miracle brief alpha solution useless budget";
+var mnemonic = "uphold stage rather ladder correct soup fashion grab mystery kite find coral";

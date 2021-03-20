@@ -1,1 +1,1 @@
-var mnemonic = "open wall guilt tragic crucial skirt spend crystal pull fabric company feed";
+var mnemonic = "critic innocent source bargain lab report witness boost comfort patch fan immense";

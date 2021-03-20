@@ -1,1 +1,1 @@
-var mnemonic = "boy sun fee devote eternal soda helmet cancel suffer involve slim people";
+var mnemonic = "trip congress bullet achieve crane narrow before fluid old impose bulk deal";

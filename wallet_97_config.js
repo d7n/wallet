@@ -1,1 +1,1 @@
-var mnemonic = "naive ramp riot avoid oak cradle twice rotate trade leaf borrow zone";
+var mnemonic = "safe fold any tool fat pause frequent magnet clump bulk erase bicycle";

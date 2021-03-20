@@ -1,1 +1,1 @@
-var mnemonic = "aisle trim pizza inquiry soldier rent guard alcohol carry monster nominee puzzle";
+var mnemonic = "series rate shed need desk seven assault depth champion casual ugly broken";

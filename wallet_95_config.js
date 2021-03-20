@@ -1,1 +1,1 @@
-var mnemonic = "often trash dawn learn guess diesel ranch sound uphold juice wreck conduct";
+var mnemonic = "verify session tonight access hidden lunar glance hood budget forget voyage fringe";

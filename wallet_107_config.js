@@ -1,1 +1,1 @@
-var mnemonic = "recycle wife junior guess climb weapon easy humble around accuse victory eye";
+var mnemonic = "bargain kidney stage cabin swift snake silver ask convince stock because club";

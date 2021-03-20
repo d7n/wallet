@@ -1,1 +1,1 @@
-var mnemonic = "sorry inform echo spin private news increase dismiss riot example wall immense";
+var mnemonic = "toward country render old east tray slam reduce warrior busy poem eager";

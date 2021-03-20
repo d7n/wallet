@@ -1,1 +1,1 @@
-var mnemonic = "fancy scout outdoor middle forest rapid feature later shadow boss flee network";
+var mnemonic = "correct unusual under hockey portion adult foster own south alpha leader warm";

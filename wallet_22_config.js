@@ -1,1 +1,1 @@
-var mnemonic = "kidney bag gasp dutch marine supply expand screen pear give sick high";
+var mnemonic = "sponsor orphan man recycle glance glove swarm aware afford invite slush lamp";

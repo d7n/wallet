@@ -1,1 +1,1 @@
-var mnemonic = "remain person hungry few melt label concert abuse giggle wrestle winner connect";
+var mnemonic = "color ethics animal slam immense they jazz ability stereo brass broom sheriff";

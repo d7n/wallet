@@ -1,1 +1,1 @@
-var mnemonic = "mouse dutch crazy remember lecture entry give hedgehog bicycle enforce boil you";
+var mnemonic = "dirt snake job holiday subject more today blade young reduce flash awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "rally bench clean ranch nothing jacket truck captain key weather theme breeze";
+var mnemonic = "farm learn cargo thunder shrimp symptom govern bulk van unfair satisfy dial";

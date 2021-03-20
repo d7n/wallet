@@ -1,1 +1,1 @@
-var mnemonic = "valid super panel legend grant manage teach noble primary library alone task";
+var mnemonic = "order balcony jelly occur photo forget myself poverty worry stairs display rent";

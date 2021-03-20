@@ -1,1 +1,1 @@
-var mnemonic = "birth try siren effort idle inside rubber rescue faculty kiss destroy rate";
+var mnemonic = "joy name time hidden butter gravity punch edge father rack robust also";

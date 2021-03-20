@@ -1,1 +1,1 @@
-var mnemonic = "agent vendor weapon twist tooth novel broom drama van sand mind input";
+var mnemonic = "hospital borrow key execute analyst myself enlist castle acid midnight entire struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak master toward upon price perfect record student stay net woman behave";
+var mnemonic = "borrow feature venue front body trial umbrella market disorder bring art treat";

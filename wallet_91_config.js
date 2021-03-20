@@ -1,1 +1,1 @@
-var mnemonic = "hurdle found access genius canyon winter grape claw forward castle lab trend";
+var mnemonic = "doll shine era ordinary team prize front number manual crash iron beauty";

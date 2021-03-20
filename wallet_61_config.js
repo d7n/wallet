@@ -1,1 +1,1 @@
-var mnemonic = "royal stamp grape taxi sibling bar profit blossom refuse sound giant situate";
+var mnemonic = "corn wise collect perfect pole hip wide bright weather soap camp fork";

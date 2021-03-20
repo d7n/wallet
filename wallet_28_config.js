@@ -1,1 +1,1 @@
-var mnemonic = "grant hamster indicate sniff cloth spot solar south slim flame skill blur";
+var mnemonic = "tiny soul shaft enemy effort gap success robot pledge old mistake awake";

@@ -1,1 +1,1 @@
-var mnemonic = "crush enroll wise notice bullet floor melody clump wreck donor intact hedgehog";
+var mnemonic = "lawsuit right metal village same describe panda crisp divert ceiling island rally";

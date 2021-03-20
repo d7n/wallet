@@ -1,1 +1,1 @@
-var mnemonic = "memory grit power unaware repeat repair trend loud cycle ladder narrow biology";
+var mnemonic = "fetch link medal avoid coast special require slush mixed flame secret file";

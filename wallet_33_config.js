@@ -1,1 +1,1 @@
-var mnemonic = "uphold basic addict travel parent clerk scare rate universe bicycle snake year";
+var mnemonic = "plate work abstract depend sentence mystery okay range pistol wide shed tray";

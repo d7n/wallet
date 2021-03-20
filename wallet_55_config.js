@@ -1,1 +1,1 @@
-var mnemonic = "forum guitar future misery arrive lend swap all enhance dismiss gadget noodle";
+var mnemonic = "income reopen unfair message secret stairs ocean unusual walnut expose assume laptop";

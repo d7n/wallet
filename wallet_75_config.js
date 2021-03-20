@@ -1,1 +1,1 @@
-var mnemonic = "come trouble view picture element supreme immense try client slush august grab";
+var mnemonic = "net purchase motion mercy tell life attend rent auction entry burst anxiety";

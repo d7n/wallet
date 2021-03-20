@@ -1,1 +1,1 @@
-var mnemonic = "recycle script code elephant endless copper symptom kidney rose transfer language token";
+var mnemonic = "brass tuition hybrid gate book item unfold spray exact profit warm exercise";

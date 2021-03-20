@@ -1,1 +1,1 @@
-var mnemonic = "old powder sea lonely latin ship aisle spare close miracle sword place";
+var mnemonic = "acquire seminar maid analyst flag almost impose solve recall prevent special essence";

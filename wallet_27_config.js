@@ -1,1 +1,1 @@
-var mnemonic = "bike matrix era right destroy mobile afraid acquire fancy sort thing exile";
+var mnemonic = "strike material feature laugh shaft task chuckle place wing satisfy confirm away";

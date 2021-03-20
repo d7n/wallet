@@ -1,1 +1,1 @@
-var mnemonic = "mansion horse split bounce filter thunder iron faculty render ridge trick mystery";
+var mnemonic = "chest collect crisp chase soul shadow artist wonder come enter lucky person";

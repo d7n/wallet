@@ -1,1 +1,1 @@
-var mnemonic = "recall expire life display sunset office clock hollow reward vendor hope anchor";
+var mnemonic = "mesh daring patient pull man rude clutch bar essay cause program duck";

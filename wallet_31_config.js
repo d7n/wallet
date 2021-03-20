@@ -1,1 +1,1 @@
-var mnemonic = "trumpet dad junior observe enact loud alley ramp prison infant electric congress";
+var mnemonic = "state ranch father absurd steak razor require dolphin setup neither animal approve";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic inhale kidney shiver ask tragic trash orient business slide armed print";
+var mnemonic = "payment member garment proof nature grid chief tip brother warrior fringe hair";

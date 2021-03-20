@@ -1,1 +1,1 @@
-var mnemonic = "imitate hour rural chalk carry joy oval fine evidence disease cushion lucky";
+var mnemonic = "subway robust veteran dilemma slim arm team recall goose rally drive cry";

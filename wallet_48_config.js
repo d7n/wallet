@@ -1,1 +1,1 @@
-var mnemonic = "plastic spirit choose item have citizen brain live hybrid mechanic quick valve";
+var mnemonic = "pole agree evil fuel pluck account boss evil win impose pudding cat";

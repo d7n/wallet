@@ -1,1 +1,1 @@
-var mnemonic = "radar gloom young allow certain case review hawk cloth used shaft clock";
+var mnemonic = "large inmate cloud carry animal garlic smart today add danger art party";

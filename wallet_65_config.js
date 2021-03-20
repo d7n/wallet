@@ -1,1 +1,1 @@
-var mnemonic = "scan census feel decline casino frown have orient slice general hire paddle";
+var mnemonic = "card air fatal chaos left cotton private eagle three fiction cannon grain";

@@ -1,1 +1,1 @@
-var mnemonic = "game salt chief attract arm balcony pitch credit distance skill orphan unfold";
+var mnemonic = "galaxy primary follow argue focus mystery switch pulse reopen figure detail network";

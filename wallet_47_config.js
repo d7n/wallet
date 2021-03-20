@@ -1,1 +1,1 @@
-var mnemonic = "strategy blood helmet captain cruel credit exhaust victory cancel bleak emerge open";
+var mnemonic = "album lonely asset moral crowd powder audit claim pink divorce before mountain";

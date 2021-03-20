@@ -1,1 +1,1 @@
-var mnemonic = "armed drastic wild gesture priority unaware music athlete diesel salt grocery chat";
+var mnemonic = "prize fever right pond zebra badge together clarify pottery fever link behave";

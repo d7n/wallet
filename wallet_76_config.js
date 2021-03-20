@@ -1,1 +1,1 @@
-var mnemonic = "pond claw canvas twelve gallery notice foot stay cost shiver poverty erase";
+var mnemonic = "dial express brand zoo carbon nuclear nothing open odor glory lizard hire";

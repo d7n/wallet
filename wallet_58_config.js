@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon grass object face curtain swing rug air drum spatial midnight sudden";
+var mnemonic = "shoot wish oak album favorite gauge firm blush truck surround cluster quiz";

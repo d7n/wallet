@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit odor answer bitter today relax zoo sketch excite dynamic impose ginger";
+var mnemonic = "prison foster pretty once isolate gossip festival change rain option blur hand";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna badge service brain balance orbit blossom cereal original slogan possible amused";
+var mnemonic = "power usual hero hand dignity electric return review shuffle certain profit drive";

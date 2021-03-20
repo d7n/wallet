@@ -1,1 +1,1 @@
-var mnemonic = "rocket eyebrow summer merge skill taste weapon stone twice catch slam echo";
+var mnemonic = "bounce obvious female valve expand donate praise question young valid cushion suspect";

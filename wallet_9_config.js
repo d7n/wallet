@@ -1,1 +1,1 @@
-var mnemonic = "apart impose effort day unusual orchard ability enable pupil never swing north";
+var mnemonic = "satisfy virus pulp network ripple shoulder property orphan float crisp seed place";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange carry stable foam uncle east whip festival chief raise escape work";
+var mnemonic = "sausage camera lion ecology winter ecology surge novel spring copy whale noise";

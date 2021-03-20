@@ -1,1 +1,1 @@
-var mnemonic = "wrestle clap gossip wool they priority river return ball grab wire venture";
+var mnemonic = "bag network giraffe wild certain rib wolf summer miss response pilot venue";

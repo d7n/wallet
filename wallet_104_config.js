@@ -1,1 +1,1 @@
-var mnemonic = "derive shield stone carry lucky fitness skull minute hint salmon chalk ivory";
+var mnemonic = "shine climb index subject forward cheap forward leaf dance tribe budget upset";

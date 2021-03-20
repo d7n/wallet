@@ -1,1 +1,1 @@
-var mnemonic = "gold dizzy metal spice elbow face consider run sport scene joke girl";
+var mnemonic = "sadness venue once now park shock stone tragic report harsh into gym";

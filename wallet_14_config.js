@@ -1,1 +1,1 @@
-var mnemonic = "mixture upper smooth divorce used art holiday spin umbrella broom glimpse fine";
+var mnemonic = "soap camp truth habit physical card frog belt inspire wall mutual cement";

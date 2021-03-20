@@ -1,1 +1,1 @@
-var mnemonic = "ticket office deer equip steel jump panther proud slight educate track winter";
+var mnemonic = "arena arm dog return mimic rare crumble decade illegal unique length neutral";

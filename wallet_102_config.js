@@ -1,1 +1,1 @@
-var mnemonic = "rescue acoustic begin suit draw alert anchor profit pool recipe sustain clerk";
+var mnemonic = "drive season table festival scorpion dynamic park unusual equip proud demise tongue";

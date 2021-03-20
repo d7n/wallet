@@ -1,1 +1,1 @@
-var mnemonic = "shrimp state resist glow dirt amazing surprise river physical rebel resemble slender";
+var mnemonic = "hurt title magic rain wage okay pink link expect wrestle ability trumpet";

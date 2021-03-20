@@ -1,1 +1,1 @@
-var mnemonic = "virtual husband echo approve panel element air book leaf behind night modify";
+var mnemonic = "begin flock shaft joy clip vehicle bronze ramp front satisfy property push";

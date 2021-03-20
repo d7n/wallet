@@ -1,1 +1,1 @@
-var mnemonic = "seed world oblige glue motion dial omit soup shell cage glory renew";
+var mnemonic = "latin roast profit orphan three purpose fluid ill crush custom muscle half";
