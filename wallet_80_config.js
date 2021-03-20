@@ -1,1 +1,1 @@
-var mnemonic = "west toe marine boring warrior loyal upon doll champion uncle hint crunch";
+var mnemonic = "seven frozen sweet autumn atom stomach midnight liberty axis wisdom shallow tongue";

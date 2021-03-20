@@ -1,1 +1,1 @@
-var mnemonic = "rail salon island corn brass recipe museum fan cannon leaf glide bind";
+var mnemonic = "cinnamon grass object face curtain swing rug air drum spatial midnight sudden";

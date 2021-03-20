@@ -1,1 +1,1 @@
-var mnemonic = "solution twice educate rebuild roof silent excuse process input victory glove noble";
+var mnemonic = "avoid mind lottery bean gloom cross grass supreme second travel peace hamster";

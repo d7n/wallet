@@ -1,1 +1,1 @@
-var mnemonic = "clay joke spice gallery transfer crunch coconut region one potato avoid update";
+var mnemonic = "recycle script code elephant endless copper symptom kidney rose transfer language token";

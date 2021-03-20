@@ -1,1 +1,1 @@
-var mnemonic = "measure south topic bullet latin cruel female buyer tag sweet shoulder wild";
+var mnemonic = "mansion horse split bounce filter thunder iron faculty render ridge trick mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "tape find usual swear size party wait party inspire hidden alarm cycle";
+var mnemonic = "naive ramp riot avoid oak cradle twice rotate trade leaf borrow zone";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen shift there critic know lecture outside major corn adjust swarm wet";
+var mnemonic = "mouse dutch crazy remember lecture entry give hedgehog bicycle enforce boil you";

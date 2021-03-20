@@ -1,1 +1,1 @@
-var mnemonic = "couch silent style stairs neck view electric solve surge rail sphere master";
+var mnemonic = "scale hamster step embark strategy strong accident practice monster enter flavor liberty";

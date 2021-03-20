@@ -1,1 +1,1 @@
-var mnemonic = "online humor grace install swear dentist bleak airport entire holiday clap grocery";
+var mnemonic = "bike matrix era right destroy mobile afraid acquire fancy sort thing exile";

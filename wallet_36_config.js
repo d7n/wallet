@@ -1,1 +1,1 @@
-var mnemonic = "frame drip deliver weekend razor town scrap gain december cruel patient retire";
+var mnemonic = "rally bench clean ranch nothing jacket truck captain key weather theme breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight hospital rural clap episode unfold two scrap mimic arch knee father";
+var mnemonic = "bomb fork once move depend bright kick virus million find tourist horse";

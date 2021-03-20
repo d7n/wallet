@@ -1,1 +1,1 @@
-var mnemonic = "repair awkward urge scene camera wrong mistake like among cloud shuffle stock";
+var mnemonic = "coyote shoulder roof harbor lazy blouse mix beauty hero primary siege squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "notice fresh remind ketchup very winner news lock onion midnight sun erosion";
+var mnemonic = "come trouble view picture element supreme immense try client slush august grab";

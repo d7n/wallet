@@ -1,1 +1,1 @@
-var mnemonic = "lunch hammer pole quiz gasp claw attend front salute talent soup allow";
+var mnemonic = "call upgrade small donkey nominee stick ring early quantum outdoor exercise fury";

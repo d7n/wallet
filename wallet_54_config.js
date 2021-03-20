@@ -1,1 +1,1 @@
-var mnemonic = "cloth unable practice want uncover exact goddess special twin across fish stadium";
+var mnemonic = "lunch since trial goat call blue mountain credit decrease hospital report arctic";

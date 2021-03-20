@@ -1,1 +1,1 @@
-var mnemonic = "busy range awful absurd spend enrich employ deliver bench skull hard assume";
+var mnemonic = "wrestle clap gossip wool they priority river return ball grab wire venture";

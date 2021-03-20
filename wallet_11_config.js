@@ -1,1 +1,1 @@
-var mnemonic = "all furnace scissors skull sunny juice fantasy zone slender vague ordinary ivory";
+var mnemonic = "arrange carry stable foam uncle east whip festival chief raise escape work";

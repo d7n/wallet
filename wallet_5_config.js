@@ -1,1 +1,1 @@
-var mnemonic = "year animal bread debate feed artefact split harbor father circle sign story";
+var mnemonic = "fancy scout outdoor middle forest rapid feature later shadow boss flee network";

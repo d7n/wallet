@@ -1,1 +1,1 @@
-var mnemonic = "lava shiver clip true fitness pulp bonus immense slight zero globe stomach";
+var mnemonic = "rocket eyebrow summer merge skill taste weapon stone twice catch slam echo";

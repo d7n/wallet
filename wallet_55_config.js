@@ -1,1 +1,1 @@
-var mnemonic = "engage manual dumb engine afraid return click question shiver volcano remain mushroom";
+var mnemonic = "forum guitar future misery arrive lend swap all enhance dismiss gadget noodle";

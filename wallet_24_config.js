@@ -1,1 +1,1 @@
-var mnemonic = "stomach divorce oblige void useless brass grace yard labor muscle slide book";
+var mnemonic = "imitate hour rural chalk carry joy oval fine evidence disease cushion lucky";

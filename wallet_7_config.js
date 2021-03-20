@@ -1,1 +1,1 @@
-var mnemonic = "siege zone sustain style until sample fortune canal noodle borrow recipe patrol";
+var mnemonic = "spell empower vital basket picture reason audit anger math weekend gain pitch";

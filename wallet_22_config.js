@@ -1,1 +1,1 @@
-var mnemonic = "path text van raw enrich small recipe gaze mimic proof excuse carpet";
+var mnemonic = "kidney bag gasp dutch marine supply expand screen pear give sick high";

@@ -1,1 +1,1 @@
-var mnemonic = "need evoke business tonight apart narrow size spend safe grunt latin loop";
+var mnemonic = "blouse success risk reunion crash card pulse bronze walnut bring hero install";

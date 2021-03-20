@@ -1,1 +1,1 @@
-var mnemonic = "session auto oblige duck coffee practice pet duty amused banner oppose sweet";
+var mnemonic = "disorder put trust arrange canal silly deposit border install rough trumpet coyote";

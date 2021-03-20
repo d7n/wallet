@@ -1,1 +1,1 @@
-var mnemonic = "desert exotic genius thing scorpion choice normal outdoor caught connect genre cinnamon";
+var mnemonic = "lawsuit odor answer bitter today relax zoo sketch excite dynamic impose ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl depth parrot grace figure budget casino oblige always snap fragile limb";
+var mnemonic = "radar gloom young allow certain case review hawk cloth used shaft clock";

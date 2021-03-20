@@ -1,1 +1,1 @@
-var mnemonic = "arch bike rug reveal section blind tip whale today genuine lobster jealous";
+var mnemonic = "royal stamp grape taxi sibling bar profit blossom refuse sound giant situate";

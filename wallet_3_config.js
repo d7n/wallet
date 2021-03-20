@@ -1,1 +1,1 @@
-var mnemonic = "bunker jaguar what tone guilt faculty matter genius robot dwarf install tool";
+var mnemonic = "open wall guilt tragic crucial skirt spend crystal pull fabric company feed";

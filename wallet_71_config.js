@@ -1,1 +1,1 @@
-var mnemonic = "below pride bacon walk brief arrive quote soon retreat erase floor snack";
+var mnemonic = "credit turn inject frown puzzle genius sure cheap balcony until okay garbage";

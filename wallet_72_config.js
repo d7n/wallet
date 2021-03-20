@@ -1,1 +1,1 @@
-var mnemonic = "ketchup chief only tortoise lawn fitness uncle language behind sense brick attend";
+var mnemonic = "when march layer clean burst adapt mushroom juice door north account reward";

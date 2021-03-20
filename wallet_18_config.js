@@ -1,1 +1,1 @@
-var mnemonic = "caught scissors item repair message follow option bounce illegal valve tag hollow";
+var mnemonic = "valid super panel legend grant manage teach noble primary library alone task";

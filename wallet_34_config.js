@@ -1,1 +1,1 @@
-var mnemonic = "will drill regret hair base blur hurt smart actress club grace rude";
+var mnemonic = "excuse cricket tiny icon fix kind hungry squirrel fiscal frame refuse crazy";

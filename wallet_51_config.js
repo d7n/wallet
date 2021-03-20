@@ -1,1 +1,1 @@
-var mnemonic = "ranch riot broccoli describe tuna inquiry deny biology chalk palace make hospital";
+var mnemonic = "practice answer wrestle dirt couch salad area wealth west crime trip lounge";

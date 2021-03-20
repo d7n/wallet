@@ -1,1 +1,1 @@
-var mnemonic = "anger ahead area replace recall spatial jungle evidence dragon truth knife marriage";
+var mnemonic = "amateur suit peace nuclear sail country energy six long trial daughter swift";

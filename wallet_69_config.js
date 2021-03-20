@@ -1,1 +1,1 @@
-var mnemonic = "green exist where culture hobby cinnamon result web pear lucky domain hole";
+var mnemonic = "ritual learn theme chase unable tree dolphin bottom bounce icon offer pencil";

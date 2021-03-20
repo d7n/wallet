@@ -1,1 +1,1 @@
-var mnemonic = "misery grace improve wish slow abandon knee congress live gesture emotion edit";
+var mnemonic = "often trash dawn learn guess diesel ranch sound uphold juice wreck conduct";

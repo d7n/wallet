@@ -1,1 +1,1 @@
-var mnemonic = "crumble cheap leisure lyrics bubble dance denial credit bitter outside put behind";
+var mnemonic = "fame damp stumble grab canyon amount visual plate giggle comfort ceiling salon";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn piano print convince dry engine host empty trap zoo worry naive";
+var mnemonic = "original item make wagon delay lunch way empower random little noodle lesson";

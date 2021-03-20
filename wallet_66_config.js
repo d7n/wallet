@@ -1,1 +1,1 @@
-var mnemonic = "spatial bracket luggage aim wheat extend brand tomato toe holiday twice abstract";
+var mnemonic = "festival project moral control rescue blade trick daughter topple route turn knee";

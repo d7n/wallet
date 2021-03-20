@@ -1,1 +1,1 @@
-var mnemonic = "bone repair fatigue delay vote hockey into collect accuse anchor spoil hip";
+var mnemonic = "execute forum can cigar popular screen deny under science thank require robot";

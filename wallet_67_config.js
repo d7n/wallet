@@ -1,1 +1,1 @@
-var mnemonic = "security faculty tornado toast blouse frequent expire catalog size annual wasp want";
+var mnemonic = "ticket office deer equip steel jump panther proud slight educate track winter";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant bind boost resemble transfer reward price fame prefer friend stage only";
+var mnemonic = "grant hamster indicate sniff cloth spot solar south slim flame skill blur";

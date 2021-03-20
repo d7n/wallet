@@ -1,1 +1,1 @@
-var mnemonic = "address leave frame citizen icon easily echo connect mushroom ocean swamp smile";
+var mnemonic = "hamster allow honey fish bridge injury hair bubble minor erupt nose rug";

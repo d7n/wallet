@@ -1,1 +1,1 @@
-var mnemonic = "slide era only ankle material actor captain hobby canyon disagree crowd same";
+var mnemonic = "effort lift version labor rebel lecture flame property advance robot soft margin";

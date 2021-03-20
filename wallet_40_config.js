@@ -1,1 +1,1 @@
-var mnemonic = "sting jealous mean board worth response cable cactus pyramid copy layer enjoy";
+var mnemonic = "level mansion daring arctic disorder barrel afraid feed unique game nut frequent";

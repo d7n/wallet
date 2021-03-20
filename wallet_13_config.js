@@ -1,1 +1,1 @@
-var mnemonic = "apple mercy grass raw mandate table orchard focus describe used basic donate";
+var mnemonic = "memory grit power unaware repeat repair trend loud cycle ladder narrow biology";

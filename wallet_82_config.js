@@ -1,1 +1,1 @@
-var mnemonic = "ceiling dress broccoli correct place raise repair chaos volcano sauce sand river";
+var mnemonic = "traffic inhale kidney shiver ask tragic trash orient business slide armed print";

@@ -1,1 +1,1 @@
-var mnemonic = "stick civil ethics velvet forum issue announce manual excess cash ethics uniform";
+var mnemonic = "recycle wife junior guess climb weapon easy humble around accuse victory eye";

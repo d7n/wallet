@@ -1,1 +1,1 @@
-var mnemonic = "top walk blast expire grief exile bulk crazy wife onion swarm crawl";
+var mnemonic = "few prevent ozone super jealous hurt tail urge upgrade lucky slam gesture";

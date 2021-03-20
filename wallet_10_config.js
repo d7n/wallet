@@ -1,1 +1,1 @@
-var mnemonic = "control much twist feed accuse bid shoulder polar until movie shiver away";
+var mnemonic = "remain person hungry few melt label concert abuse giggle wrestle winner connect";

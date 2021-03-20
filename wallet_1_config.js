@@ -1,1 +1,1 @@
-var mnemonic = "joy drum absurd exercise shop jealous radar found caution outside bleak sample";
+var mnemonic = "loyal tip early happy nephew caught rice tray few mercy steak kind";

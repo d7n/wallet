@@ -1,1 +1,1 @@
-var mnemonic = "figure problem more below coin believe barrel okay awesome surprise explain thing";
+var mnemonic = "plastic spirit choose item have citizen brain live hybrid mechanic quick valve";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest unlock core maximum where bind basket sight guard odor aunt deliver";
+var mnemonic = "crazy mushroom frame churn avocado ghost mother tuna sponsor fall tobacco together";

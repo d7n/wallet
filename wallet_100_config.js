@@ -1,1 +1,1 @@
-var mnemonic = "drift law pyramid sentence pool jump verify kitchen select across find wise";
+var mnemonic = "recall expire life display sunset office clock hollow reward vendor hope anchor";

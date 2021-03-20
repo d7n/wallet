@@ -1,1 +1,1 @@
-var mnemonic = "power height pact source special sorry blind bamboo common fancy evolve turkey";
+var mnemonic = "bleak master toward upon price perfect record student stay net woman behave";

@@ -1,1 +1,1 @@
-var mnemonic = "rain toy ranch pioneer chaos choice craft region enemy cruise pipe violin";
+var mnemonic = "nation display skull whisper remind pause program outer industry luggage devote drive";

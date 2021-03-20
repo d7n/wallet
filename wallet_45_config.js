@@ -1,1 +1,1 @@
-var mnemonic = "give awkward crime fade glimpse horse reopen total vicious follow film flag";
+var mnemonic = "cream endorse holiday ribbon decorate pioneer six deny budget topic attract frown";

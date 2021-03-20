@@ -1,1 +1,1 @@
-var mnemonic = "orange expect aunt aerobic mango report hour naive save grunt arrest they";
+var mnemonic = "weather average pet adapt bicycle mutual easily wood tank collect shield welcome";

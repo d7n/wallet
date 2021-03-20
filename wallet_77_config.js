@@ -1,1 +1,1 @@
-var mnemonic = "story benefit remind rack basket proud erode jacket stereo month boat aisle";
+var mnemonic = "game salt chief attract arm balcony pitch credit distance skill orphan unfold";

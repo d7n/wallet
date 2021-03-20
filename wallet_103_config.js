@@ -1,1 +1,1 @@
-var mnemonic = "able series episode jungle rally emotion speak chimney trap goat fold badge";
+var mnemonic = "dynamic garment coconut daring include clerk flag capital exit kitten section arm";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling crisp fun fortune assault anxiety refuse clinic deliver fun lounge capital";
+var mnemonic = "derive shield stone carry lucky fitness skull minute hint salmon chalk ivory";

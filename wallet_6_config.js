@@ -1,1 +1,1 @@
-var mnemonic = "obtain fence pulp chimney soon cruel lunar leopard diary toy clever equip";
+var mnemonic = "crash tiny festival subway absent cute enemy reward kangaroo gallery pattern sibling";

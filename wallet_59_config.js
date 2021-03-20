@@ -1,1 +1,1 @@
-var mnemonic = "six magnet weather churn common roof flight artwork yellow seek buyer faint";
+var mnemonic = "gold dizzy metal spice elbow face consider run sport scene joke girl";

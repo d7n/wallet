@@ -1,1 +1,1 @@
-var mnemonic = "purchase orphan broccoli nature sort jaguar west reason regular pet faith salmon";
+var mnemonic = "fatal know prepare possible meadow task guess boy hello twenty galaxy mango";

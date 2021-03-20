@@ -1,1 +1,1 @@
-var mnemonic = "doctor rice mom result fit deal auction mushroom scale ocean grass sadness";
+var mnemonic = "tuna badge service brain balance orbit blossom cereal original slogan possible amused";

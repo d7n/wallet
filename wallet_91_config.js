@@ -1,1 +1,1 @@
-var mnemonic = "devote merit party blouse grow inch want speak bicycle faith tape butter";
+var mnemonic = "hurdle found access genius canyon winter grape claw forward castle lab trend";

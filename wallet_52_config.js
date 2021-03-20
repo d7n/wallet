@@ -1,1 +1,1 @@
-var mnemonic = "egg digital include melody canoe fog pelican churn tower visit asset must";
+var mnemonic = "sorry inform echo spin private news increase dismiss riot example wall immense";

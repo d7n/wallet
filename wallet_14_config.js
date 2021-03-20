@@ -1,1 +1,1 @@
-var mnemonic = "wish cream soda recipe ladder gather shiver thought work rate trend apology";
+var mnemonic = "mixture upper smooth divorce used art holiday spin umbrella broom glimpse fine";

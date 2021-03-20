@@ -1,1 +1,1 @@
-var mnemonic = "scene yard old maid scatter usage pitch shift media crumble render sausage";
+var mnemonic = "crush enroll wise notice bullet floor melody clump wreck donor intact hedgehog";

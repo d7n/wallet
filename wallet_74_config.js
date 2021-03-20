@@ -1,1 +1,1 @@
-var mnemonic = "gym element pony bounce donate normal major prosper fit face merge tired";
+var mnemonic = "slow believe secret old milk barrel annual hen clerk banana brother page";

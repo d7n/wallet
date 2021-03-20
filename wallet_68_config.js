@@ -1,1 +1,1 @@
-var mnemonic = "cement expand debris company legal wall wreck junior impact volume actual tomato";
+var mnemonic = "birth try siren effort idle inside rubber rescue faculty kiss destroy rate";

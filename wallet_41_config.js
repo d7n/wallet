@@ -1,1 +1,1 @@
-var mnemonic = "bread over honey junior lift tuition ice clump trust cement pill push";
+var mnemonic = "air soul device athlete rent cliff session cheap there hint notable oak";

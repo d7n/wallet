@@ -1,1 +1,1 @@
-var mnemonic = "armor radio pass dash zebra shield cloth million vague enjoy nephew dad";
+var mnemonic = "often velvet clerk reward float stadium enforce tomorrow cereal crime hybrid skill";

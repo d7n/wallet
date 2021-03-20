@@ -1,1 +1,1 @@
-var mnemonic = "stereo shaft abuse west garbage pig fade glance dry odor lonely cram";
+var mnemonic = "spin cloth camp produce frog divert crane fat tuna seven sad shop";

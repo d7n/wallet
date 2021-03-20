@@ -1,1 +1,1 @@
-var mnemonic = "salmon lemon mention body honey avoid bulb amazing usage indoor lab jeans";
+var mnemonic = "surge balance prison jelly palace tragic drop hill boy inch amateur child";

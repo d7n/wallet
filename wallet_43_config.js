@@ -1,1 +1,1 @@
-var mnemonic = "extra rural brass typical impact price cloth wonder awake between tide dolphin";
+var mnemonic = "fine happy coil badge category garden smile drop maple square census easily";

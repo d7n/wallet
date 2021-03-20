@@ -1,1 +1,1 @@
-var mnemonic = "opinion come blur canal easily chat word prize tree tomato post unusual";
+var mnemonic = "emotion roast reward nation tribe earth glare warm category write interest bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "airport music wrap enable forget peace excess angle insane nation master price";
+var mnemonic = "gather toy sunny amused denial cash since fantasy mountain timber proud member";

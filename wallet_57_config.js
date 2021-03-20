@@ -1,1 +1,1 @@
-var mnemonic = "soft pledge paddle bronze reveal chapter test mystery rotate raccoon rally alcohol";
+var mnemonic = "vacuum recipe web spike safe bar ivory poem hair weapon vocal mail";

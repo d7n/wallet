@@ -1,1 +1,1 @@
-var mnemonic = "mom theory metal wise hedgehog weird increase buddy leg crush hip moon";
+var mnemonic = "seed world oblige glue motion dial omit soup shell cage glory renew";

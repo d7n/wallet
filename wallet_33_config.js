@@ -1,1 +1,1 @@
-var mnemonic = "end obtain club stem nephew elder pepper trash surface morning letter elegant";
+var mnemonic = "uphold basic addict travel parent clerk scare rate universe bicycle snake year";

@@ -1,1 +1,1 @@
-var mnemonic = "idle flat seat salt relax hat island case review twelve entry swamp";
+var mnemonic = "boy sun fee devote eternal soda helmet cancel suffer involve slim people";

@@ -1,1 +1,1 @@
-var mnemonic = "room lift breeze quarter kiss gold napkin furnace affair author despair derive";
+var mnemonic = "elbow fatal emotion angry loop harvest clerk mushroom tide brick issue ecology";

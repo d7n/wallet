@@ -1,1 +1,1 @@
-var mnemonic = "card thrive unlock misery couch diamond pelican again race pigeon describe spin";
+var mnemonic = "aisle trim pizza inquiry soldier rent guard alcohol carry monster nominee puzzle";

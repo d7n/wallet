@@ -1,1 +1,1 @@
-var mnemonic = "evidence orchard dolphin job kiwi music subject rhythm prize shield tragic inhale";
+var mnemonic = "virtual husband echo approve panel element air book leaf behind night modify";

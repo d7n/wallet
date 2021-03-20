@@ -1,1 +1,1 @@
-var mnemonic = "noble between type toddler eagle ranch crash juice firm cool cook clean";
+var mnemonic = "strategy blood helmet captain cruel credit exhaust victory cancel bleak emerge open";

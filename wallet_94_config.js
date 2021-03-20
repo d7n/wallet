@@ -1,1 +1,1 @@
-var mnemonic = "mushroom evolve already trip citizen caution song plate seminar state coral blade";
+var mnemonic = "record rug name orchard evidence federal point tape frequent nasty race flush";

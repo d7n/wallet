@@ -1,1 +1,1 @@
-var mnemonic = "problem this lesson useful analyst fit cheap guitar pear undo burst couple";
+var mnemonic = "card upon scrap force night bird miracle brief alpha solution useless budget";

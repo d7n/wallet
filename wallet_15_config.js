@@ -1,1 +1,1 @@
-var mnemonic = "again vital wait record vote brown elbow sorry student talk differ match";
+var mnemonic = "exhaust ensure spy silly cattle elder lake auto custom second share banner";
