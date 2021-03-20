@@ -1,1 +1,1 @@
-var mnemonic = "fiscal cricket dolphin dune tool pepper old sure amateur hurry ship airport";
+var mnemonic = "forum cycle fury trigger final food they slam super joke mad mean";

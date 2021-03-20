@@ -1,1 +1,1 @@
-var mnemonic = "idle mass hurry price horse mask quote sheriff tell journey repeat library";
+var mnemonic = "vacant buzz course law human inner require quarter witness cricket youth trigger";

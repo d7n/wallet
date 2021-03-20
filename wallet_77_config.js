@@ -1,1 +1,1 @@
-var mnemonic = "envelope glimpse tilt outer pool just mule away tongue common foil clerk";
+var mnemonic = "amount over obvious monitor place put primary race scissors churn host skirt";

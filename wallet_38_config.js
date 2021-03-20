@@ -1,1 +1,1 @@
-var mnemonic = "day large bubble control script brave meat page airport duck raccoon stone";
+var mnemonic = "supply eagle code dress weapon network review push rich tooth dice connect";

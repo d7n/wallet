@@ -1,1 +1,1 @@
-var mnemonic = "rigid person control choice dinner doctor ritual solar because uncle system share";
+var mnemonic = "asset genre front hobby top garment frown wrap erode inject beach also";

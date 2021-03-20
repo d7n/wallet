@@ -1,1 +1,1 @@
-var mnemonic = "rich across affair adjust present pass winter entry fade whale melt field";
+var mnemonic = "pet anger gain federal bright estate eager girl must coconut enter unfair";

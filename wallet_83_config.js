@@ -1,1 +1,1 @@
-var mnemonic = "wire churn message unknown basic write check update select floor hurry harsh";
+var mnemonic = "police stove shy link vital mystery sister unveil boost client lizard analyst";

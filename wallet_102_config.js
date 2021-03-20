@@ -1,1 +1,1 @@
-var mnemonic = "control favorite guitar wave lift report pluck history mistake lock code gospel";
+var mnemonic = "sister shop edit letter quote weekend legend mechanic wisdom mistake learn fence";

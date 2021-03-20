@@ -1,1 +1,1 @@
-var mnemonic = "kit enough average suggest orange hard city appear enough opera sword borrow";
+var mnemonic = "estate dance economy boss nest total congress regret worry tackle fabric excess";

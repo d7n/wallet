@@ -1,1 +1,1 @@
-var mnemonic = "magic patrol steak opera horn solution retire aim artist found wife erupt";
+var mnemonic = "dust decline enter upset relief feature left bus suffer candy more tomato";

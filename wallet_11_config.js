@@ -1,1 +1,1 @@
-var mnemonic = "liquid scene happy play praise absurd mimic civil velvet pencil hood divorce";
+var mnemonic = "gravity become stool height glimpse extra beauty feed play exhaust enact evoke";

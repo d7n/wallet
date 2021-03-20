@@ -1,1 +1,1 @@
-var mnemonic = "modify burden smooth core knock panda inmate permit open model mom trap";
+var mnemonic = "frost series peace crazy remove remember orchard clay vanish gather gift abuse";

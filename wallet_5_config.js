@@ -1,1 +1,1 @@
-var mnemonic = "shed dry ankle faint genre extend lobster wheel ahead crew thing pig";
+var mnemonic = "corn slice bulb sketch defense verify process virus embark child steel quit";

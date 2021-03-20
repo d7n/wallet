@@ -1,1 +1,1 @@
-var mnemonic = "diary debate math pulse weasel orbit orient shrug old alert nurse violin";
+var mnemonic = "match fun mimic liar scissors wage sick loyal damp frown dutch action";

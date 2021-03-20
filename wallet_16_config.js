@@ -1,1 +1,1 @@
-var mnemonic = "steak novel bless wire art clever census cart street decide income vacant";
+var mnemonic = "hobby lunar skill fun disagree economy fox post outdoor will wise timber";

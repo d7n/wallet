@@ -1,1 +1,1 @@
-var mnemonic = "include solid monkey push student price assault typical enhance drip south object";
+var mnemonic = "alpha smart someone aerobic pudding green embrace security taxi miss ignore limb";

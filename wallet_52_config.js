@@ -1,1 +1,1 @@
-var mnemonic = "torch situate evil approve critic ladder sense relief dice region foam vague";
+var mnemonic = "romance hat spin until cactus fee stumble coast napkin buzz slide wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "banner rack silk surprise hour frown flock border life scorpion chaos course";
+var mnemonic = "monkey dove simple blanket cry dragon erode crime inform enemy seed buzz";

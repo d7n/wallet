@@ -1,1 +1,1 @@
-var mnemonic = "blast volcano improve jeans slice weapon suggest arm umbrella design vital bunker";
+var mnemonic = "then silent damp tree error wheel obtain fork scatter route sing motion";

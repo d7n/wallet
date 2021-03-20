@@ -1,1 +1,1 @@
-var mnemonic = "level original grain swallow dentist miracle snake enjoy absent pledge reflect catalog";
+var mnemonic = "elegant virtual squirrel render exact lamp dance noise coin between grace nothing";

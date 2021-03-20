@@ -1,1 +1,1 @@
-var mnemonic = "drum mobile list lend audit twelve power title tobacco monitor chest stamp";
+var mnemonic = "pink swing exhaust couple usage install subway build enrich yellow viable draft";

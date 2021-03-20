@@ -1,1 +1,1 @@
-var mnemonic = "frown manage nest alone muscle absent cactus task cup need pencil hedgehog";
+var mnemonic = "squeeze expand hunt balcony can paper tube tattoo ginger universe habit garment";

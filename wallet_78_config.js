@@ -1,1 +1,1 @@
-var mnemonic = "atom nuclear banner hip bubble praise increase step situate sphere nest end";
+var mnemonic = "lamp blue solve misery radio say property pizza raise obey finger avoid";

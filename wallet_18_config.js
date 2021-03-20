@@ -1,1 +1,1 @@
-var mnemonic = "fantasy filter clinic menu horror rapid quick culture melody script field unit";
+var mnemonic = "misery chest cost wagon tower female skill robust dinner beach lecture actual";

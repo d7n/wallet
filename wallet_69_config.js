@@ -1,1 +1,1 @@
-var mnemonic = "spawn flush elevator hunt sun drill crane bike flush ribbon stick margin";
+var mnemonic = "vapor donkey furnace slender agree hero despair talent bike best boat raise";

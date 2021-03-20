@@ -1,1 +1,1 @@
-var mnemonic = "spike program brush display invite impulse close provide above blood proud gossip";
+var mnemonic = "artist visa mixed hungry sheriff embrace prefer park blur report found medal";

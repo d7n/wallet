@@ -1,1 +1,1 @@
-var mnemonic = "clay hire enable release defense robot bachelor fluid draw expose decrease thing";
+var mnemonic = "harbor judge luxury sport movie acid cable exhaust media repair deposit expire";

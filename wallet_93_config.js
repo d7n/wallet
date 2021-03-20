@@ -1,1 +1,1 @@
-var mnemonic = "usage nerve blouse aware blush gas bullet remain grace hobby sad fan";
+var mnemonic = "depend screen aerobic dirt memory whisper engage exit north mouse exclude assist";

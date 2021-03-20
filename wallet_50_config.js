@@ -1,1 +1,1 @@
-var mnemonic = "scheme float apology ignore accident nut crumble jacket float find just awake";
+var mnemonic = "twelve involve cat fancy fringe science gasp album hint draw shoulder auction";

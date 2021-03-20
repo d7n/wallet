@@ -1,1 +1,1 @@
-var mnemonic = "gloom ten benefit pistol odor mom under law brick leaf hockey swim";
+var mnemonic = "erosion mother reject vote together spoon scheme nerve spell tortoise cancel bargain";

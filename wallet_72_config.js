@@ -1,1 +1,1 @@
-var mnemonic = "sport sad medal clip edit depart ahead okay peace couch famous ethics";
+var mnemonic = "spatial whale tumble shoe work gap citizen earn veteran topple because cricket";

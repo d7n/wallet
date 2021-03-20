@@ -1,1 +1,1 @@
-var mnemonic = "style laptop uphold flavor best bunker awesome choice organ silent neutral aerobic";
+var mnemonic = "between industry owner found modify seven chest sand among scissors engage rescue";

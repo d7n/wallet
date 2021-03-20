@@ -1,1 +1,1 @@
-var mnemonic = "general common change slot brain capital gift magnet require entry vessel jealous";
+var mnemonic = "coil clerk cheap mention feature phone climb rent rib slam often dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "game wrong guess find inquiry force oyster absent guitar quick small badge";
+var mnemonic = "school cannon twin mesh warfare stomach betray jealous action agent ladder post";

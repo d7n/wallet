@@ -1,1 +1,1 @@
-var mnemonic = "universe magnet cruise crucial race control possible asset ethics balance glimpse cannon";
+var mnemonic = "abuse rabbit romance loan pupil case hammer step december slush behave tank";

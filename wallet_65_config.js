@@ -1,1 +1,1 @@
-var mnemonic = "slush uniform idle forum barely because fruit slight admit arrive measure jump";
+var mnemonic = "discover police toddler hazard feed stay frown kite girl ship bachelor element";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster accuse derive boy bike toast country purity embark wrong enter butter";
+var mnemonic = "truth armor barrel laptop dwarf letter over above prosper curve crew punch";

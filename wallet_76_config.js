@@ -1,1 +1,1 @@
-var mnemonic = "bachelor buffalo menu test logic almost very increase robust dish dial empty";
+var mnemonic = "hub write inspire limb shell chronic decrease envelope sea orphan steel best";

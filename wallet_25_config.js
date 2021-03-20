@@ -1,1 +1,1 @@
-var mnemonic = "impact desert reason monkey hurdle false protect pair concert daughter vault twelve";
+var mnemonic = "era reopen arch old horn half enact awkward quarter search antenna debate";

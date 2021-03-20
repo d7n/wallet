@@ -1,1 +1,1 @@
-var mnemonic = "hurry okay today random lake injury magic midnight immune melt turtle ivory";
+var mnemonic = "spring century disorder hidden ecology execute matrix improve steak judge sugar gauge";

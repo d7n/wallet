@@ -1,1 +1,1 @@
-var mnemonic = "genre buffalo artwork win vague visual south teach vital bone burger session";
+var mnemonic = "mutual general soul mistake art verb evoke join roof seed symbol snake";

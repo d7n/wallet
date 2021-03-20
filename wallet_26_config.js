@@ -1,1 +1,1 @@
-var mnemonic = "try hero expand alpha harsh salad sand jump special reward voice thought";
+var mnemonic = "blind scrub kitten gaze awful dismiss spatial puppy loyal increase adult drill";

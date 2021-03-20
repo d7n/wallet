@@ -1,1 +1,1 @@
-var mnemonic = "security obvious notice report survey saddle gaze remind stamp phone field tag";
+var mnemonic = "sunset balcony other awkward predict quick spoil high race current benefit fluid";

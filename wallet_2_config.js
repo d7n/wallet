@@ -1,1 +1,1 @@
-var mnemonic = "master olympic speak hurt sail feed buffalo little reward garlic old town";
+var mnemonic = "tumble absorb guitar wait surge spray sea logic venue little absent thought";

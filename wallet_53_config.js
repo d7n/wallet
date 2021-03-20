@@ -1,1 +1,1 @@
-var mnemonic = "satoshi rare cattle one couple normal unaware permit sick twice cost trip";
+var mnemonic = "net drop gun gospel faith owner broom shoulder garden urban better grain";

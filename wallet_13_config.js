@@ -1,1 +1,1 @@
-var mnemonic = "treat canvas focus fly list guitar cube detail follow pupil tomato sad";
+var mnemonic = "onion sunny certain art mirror shaft artist dash armed skate helmet detail";

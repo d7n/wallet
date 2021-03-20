@@ -1,1 +1,1 @@
-var mnemonic = "invest barely brush host immune tattoo edge dawn obvious board wonder wage";
+var mnemonic = "call junior draw enter foster edit amount theory spot similar pig title";

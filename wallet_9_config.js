@@ -1,1 +1,1 @@
-var mnemonic = "also heart street kiwi year melt derive mad kitchen obscure ocean suffer";
+var mnemonic = "kidney gym paddle pass funny neither rigid bean leg second scene barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "angry seek dad sign tobacco favorite top meat immune tray skate cannon";
+var mnemonic = "fabric easy cream wave force arena virus sound cat author fall jump";

@@ -1,1 +1,1 @@
-var mnemonic = "wave smart soup bomb senior basket asthma loan hundred diamond fan valid";
+var mnemonic = "narrow news canal fade hire retreat bounce style shuffle ritual verb code";

@@ -1,1 +1,1 @@
-var mnemonic = "humble vague bulb slight garage crunch reflect learn amateur cry february retreat";
+var mnemonic = "image tenant dirt net lion whip symbol helmet view describe blast ribbon";

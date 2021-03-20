@@ -1,1 +1,1 @@
-var mnemonic = "frown fatigue giggle grace grace bless inflict pupil borrow flat episode corn";
+var mnemonic = "chicken minimum inherit submit birth message expect increase shoe poverty twenty shock";

@@ -1,1 +1,1 @@
-var mnemonic = "final cover retire culture total arm warrior taxi knock front seat canoe";
+var mnemonic = "ball swing false need south child weapon shy scissors finger old puppy";

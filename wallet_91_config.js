@@ -1,1 +1,1 @@
-var mnemonic = "plunge armor mistake since sausage decade unfold capable armor dog trick squirrel";
+var mnemonic = "still code fringe coin upset claim around crowd ripple carpet nice put";

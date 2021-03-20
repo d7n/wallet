@@ -1,1 +1,1 @@
-var mnemonic = "search before weekend latin shield sunny amused egg flame license park view";
+var mnemonic = "foam hungry ghost poverty water exact leg combine damage pear hungry upset";

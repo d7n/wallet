@@ -1,1 +1,1 @@
-var mnemonic = "divert search globe blue march hundred grief dizzy cricket truck curtain bronze";
+var mnemonic = "demand across deputy market agree prize warrior company wet prize copper ride";

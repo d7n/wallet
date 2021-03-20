@@ -1,1 +1,1 @@
-var mnemonic = "vintage hundred lunar strategy flag silver arrive hint remove arrow juice olive";
+var mnemonic = "magnet announce above horror snack layer blood copy winter crucial drop clown";

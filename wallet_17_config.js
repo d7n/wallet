@@ -1,1 +1,1 @@
-var mnemonic = "bind minor pulp nephew trick knife vault enjoy violin impulse now trap";
+var mnemonic = "upgrade jar bar sure bullet dress derive bright fossil bring hotel assume";

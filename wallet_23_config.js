@@ -1,1 +1,1 @@
-var mnemonic = "above slogan wreck breeze what razor enact help victory mosquito vessel typical";
+var mnemonic = "alien tomato hidden review column error permit spring simple bottom brown process";

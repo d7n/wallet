@@ -1,1 +1,1 @@
-var mnemonic = "accident zero mobile keen work venture permit valid entry case ocean ahead";
+var mnemonic = "soap vessel runway smart tilt prepare sniff sword wonder mystery shallow need";

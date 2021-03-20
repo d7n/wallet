@@ -1,1 +1,1 @@
-var mnemonic = "habit wife text piece jungle speed need setup empower refuse reopen mechanic";
+var mnemonic = "summer dial topic fatigue audit economy limb lobster exile appear face saddle";

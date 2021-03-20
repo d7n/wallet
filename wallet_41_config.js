@@ -1,1 +1,1 @@
-var mnemonic = "decade soft cradle monkey pen kid plug design cat seed fly crew";
+var mnemonic = "economy cactus intact error gadget struggle beyond rude agent athlete sail talk";

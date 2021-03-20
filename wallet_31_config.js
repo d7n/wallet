@@ -1,1 +1,1 @@
-var mnemonic = "frost hair title height always stove tornado fault engage cinnamon close science";
+var mnemonic = "pear exist clarify toast liquid inspire bridge enough artefact lock violin market";

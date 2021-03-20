@@ -1,1 +1,1 @@
-var mnemonic = "please federal enhance bacon slight front buddy civil album spin wine author";
+var mnemonic = "charge vast envelope wise road message fence job rude property wrong tilt";

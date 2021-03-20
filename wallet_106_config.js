@@ -1,1 +1,1 @@
-var mnemonic = "art film dizzy banner try awake foster hen trash donor fee license";
+var mnemonic = "chaos radio wedding olympic enable odor game excite love nest hundred advice";

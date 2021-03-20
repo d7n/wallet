@@ -1,1 +1,1 @@
-var mnemonic = "window define legal typical ensure brisk broom notice between nasty erupt lake";
+var mnemonic = "embrace caution region cancel aerobic network chaos forget cart reject strike truck";

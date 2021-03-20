@@ -1,1 +1,1 @@
-var mnemonic = "lumber give carbon barely sudden title flavor copy route desert own rocket";
+var mnemonic = "arrange ten clarify tube travel adapt fantasy wrong output rice mouse account";

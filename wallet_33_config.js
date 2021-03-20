@@ -1,1 +1,1 @@
-var mnemonic = "ridge nice history fault clinic cost stick plastic brass hub enemy girl";
+var mnemonic = "define choose excite original stereo crater extend horror stuff vicious stone harsh";

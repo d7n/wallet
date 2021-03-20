@@ -1,1 +1,1 @@
-var mnemonic = "simple oxygen menu such dance media genius denial calm creek broom scissors";
+var mnemonic = "heart tattoo gentle upgrade feature pulp else rotate liberty whisper drink census";

@@ -1,1 +1,1 @@
-var mnemonic = "pause tube slush joy treat mango violin flash exchange cream illegal category";
+var mnemonic = "case cool file equal crater father wine attitude weasel help pyramid vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "force frost work front bulk milk ranch bitter maze wear giraffe annual";
+var mnemonic = "puppy walk jar screen garment bomb humble else earth prison vintage actual";

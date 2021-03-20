@@ -1,1 +1,1 @@
-var mnemonic = "naive thrive fix expire oblige abandon dress limit unique tumble boil flock";
+var mnemonic = "cross weasel grid place pioneer correct play marble web kangaroo fat vocal";

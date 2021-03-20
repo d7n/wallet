@@ -1,1 +1,1 @@
-var mnemonic = "artwork guard tiger elegant vehicle genius cost maximum visual vacuum elevator another";
+var mnemonic = "shallow copy fortune jacket first east gasp life exit cloth shy patch";

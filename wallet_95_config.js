@@ -1,1 +1,1 @@
-var mnemonic = "custom faculty link trick affair excite lazy harsh end first draft humble";
+var mnemonic = "fit emotion service acid proud ripple clean throw expire panic maple turn";

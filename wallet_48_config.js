@@ -1,1 +1,1 @@
-var mnemonic = "thunder upgrade wood predict visit annual enemy fluid know base urge pond";
+var mnemonic = "crawl crucial pull life grant raccoon spoil index despair deal busy bid";

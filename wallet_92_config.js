@@ -1,1 +1,1 @@
-var mnemonic = "plastic virus tenant pen club minimum bus bitter apology expire tower object";
+var mnemonic = "nothing affair crew churn library vacuum trouble bullet pupil goose nephew current";

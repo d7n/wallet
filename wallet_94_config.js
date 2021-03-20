@@ -1,1 +1,1 @@
-var mnemonic = "special true brain awesome chef december spell pumpkin equip unaware flag surprise";
+var mnemonic = "empower pony planet taste cancel seed stable throw never lunch imitate silver";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty fatigue mix robust train click also trip craft claim example leisure";
+var mnemonic = "portion hammer flock twelve puppy illness bread armor local express unit cliff";

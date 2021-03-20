@@ -1,1 +1,1 @@
-var mnemonic = "color praise circle purchase melody fly virus wrong pause sentence gossip little";
+var mnemonic = "shop ignore involve achieve primary uphold spread tenant bargain main give attend";

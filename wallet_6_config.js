@@ -1,1 +1,1 @@
-var mnemonic = "congress fresh front cradle atom scissors rural volume trap hammer bitter wide";
+var mnemonic = "finger taxi right solution angle chapter yard job frame below acoustic razor";

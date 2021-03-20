@@ -1,1 +1,1 @@
-var mnemonic = "dignity swamp trap cry eye element check hen increase erase matter knock";
+var mnemonic = "gasp deposit dragon vendor index blame middle fee fun pencil soldier tuna";

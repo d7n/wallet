@@ -1,1 +1,1 @@
-var mnemonic = "task come save dismiss soldier volcano robust elbow trap lunch between story";
+var mnemonic = "chase fly grocery either citizen trial gift swamp coffee bring enact lawsuit";

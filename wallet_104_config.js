@@ -1,1 +1,1 @@
-var mnemonic = "position siren essay sketch act main member cruel loyal erosion auto spot";
+var mnemonic = "joke typical cube vocal physical twin cabin wine short conduct flavor excess";

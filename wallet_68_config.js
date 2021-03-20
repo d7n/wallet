@@ -1,1 +1,1 @@
-var mnemonic = "mother material fortune furnace alpha pudding ripple moment nerve shift thumb style";
+var mnemonic = "manage uphold rent tobacco cotton relief illegal attract disorder mad punch puzzle";

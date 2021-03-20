@@ -1,1 +1,1 @@
-var mnemonic = "detail naive flag fatal benefit output section dog dash oyster perfect base";
+var mnemonic = "husband current denial magnet join become ripple anger canyon fault nation series";

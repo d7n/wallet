@@ -1,1 +1,1 @@
-var mnemonic = "flight draw car cancel comfort tilt decrease coin clump mountain secret casual";
+var mnemonic = "hood peasant skill antique scheme service humble outside rich opera enjoy clown";

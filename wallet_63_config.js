@@ -1,1 +1,1 @@
-var mnemonic = "civil suspect fan vital cushion glow moon hazard swallow mask elder near";
+var mnemonic = "jelly comfort old acid tooth grass body disease urge save return world";

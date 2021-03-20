@@ -1,1 +1,1 @@
-var mnemonic = "usual pottery inside rely lawn reopen half subject custom goose fashion tunnel";
+var mnemonic = "critic tiger grocery hotel voyage picture stove radio minor whisper harsh minor";

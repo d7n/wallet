@@ -1,1 +1,1 @@
-var mnemonic = "exercise must panther brother between opera ability empower climb very release amateur";
+var mnemonic = "title word puzzle term crash appear disease purchase share purity coach metal";

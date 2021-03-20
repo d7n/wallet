@@ -1,1 +1,1 @@
-var mnemonic = "apple absurd security cruise science ring govern humor chapter clever cook spike";
+var mnemonic = "catalog cruel zebra increase rural kidney since meadow bulb earth spend fringe";

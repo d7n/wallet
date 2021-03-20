@@ -1,1 +1,1 @@
-var mnemonic = "praise vapor sleep metal pilot use dizzy unique alone yard about tank";
+var mnemonic = "wheel used train special able repair vital naive neither napkin open report";

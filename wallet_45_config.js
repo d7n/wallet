@@ -1,1 +1,1 @@
-var mnemonic = "staff quit process actor believe guilt twin stairs slide humor never real";
+var mnemonic = "endorse frozen tired army pulp smile present merge hospital gospel drastic citizen";

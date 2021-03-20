@@ -1,1 +1,1 @@
-var mnemonic = "fashion embrace frame pole tennis biology faint check purity zone walnut plug";
+var mnemonic = "feel limit shoe cross torch swing add amazing energy charge patient throw";

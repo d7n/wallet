@@ -1,1 +1,1 @@
-var mnemonic = "token hurry key old desert country lunar awake possible jewel bicycle gaze";
+var mnemonic = "badge day hollow stick just just wear face scheme narrow sure you";
