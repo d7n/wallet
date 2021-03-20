@@ -1,1 +1,1 @@
-var mnemonic = "begin donkey solar surprise cluster honey chest city army unfair sunny again";
+var mnemonic = "escape grid distance mother candy tomato young roof abandon lounge face hawk";

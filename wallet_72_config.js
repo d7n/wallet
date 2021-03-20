@@ -1,1 +1,1 @@
-var mnemonic = "pig dish explain average accident approve harvest abandon space hammer wolf top";
+var mnemonic = "bid sword fiscal race arm curious join hobby often cry ordinary help";

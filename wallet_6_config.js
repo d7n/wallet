@@ -1,1 +1,1 @@
-var mnemonic = "mistake menu display way shaft diet wealth heart potato old pass deputy";
+var mnemonic = "opera travel toddler rug orient nothing indoor reveal blast turn ghost kit";

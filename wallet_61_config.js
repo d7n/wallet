@@ -1,1 +1,1 @@
-var mnemonic = "panic satisfy height stuff virus cruel major diet cable evoke inquiry major";
+var mnemonic = "vanish practice join unique close paddle embody ghost link pave lounge push";

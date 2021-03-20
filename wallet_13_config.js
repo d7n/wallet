@@ -1,1 +1,1 @@
-var mnemonic = "ginger sound drop eagle online check ceiling canyon flush have power find";
+var mnemonic = "draft credit coral volume outside film what problem hip book parrot friend";

@@ -1,1 +1,1 @@
-var mnemonic = "roast beauty turn loyal another plug intact cat harbor hobby ecology vehicle";
+var mnemonic = "very guilt enhance scatter document hen vote little math virus ethics one";

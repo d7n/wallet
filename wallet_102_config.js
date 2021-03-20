@@ -1,1 +1,1 @@
-var mnemonic = "skull middle flip response rule february shy vault shaft chimney ordinary must";
+var mnemonic = "stem indicate sustain shy salt cruise kick erase web spell bean issue";

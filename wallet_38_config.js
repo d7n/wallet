@@ -1,1 +1,1 @@
-var mnemonic = "install rabbit ice army drum hammer phrase inform tragic chat mushroom merit";
+var mnemonic = "salon history emerge bag average way student firm brush swallow render flip";

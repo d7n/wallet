@@ -1,1 +1,1 @@
-var mnemonic = "wagon rebuild cool two finger kiwi kiwi noise dove used cart member";
+var mnemonic = "bubble stamp wedding cave heavy always script also nerve bag sister promote";

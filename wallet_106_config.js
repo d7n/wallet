@@ -1,1 +1,1 @@
-var mnemonic = "group gadget magnet tobacco add usage crater sense palace clerk half view";
+var mnemonic = "eternal patch donkey cigar distance problem purse youth snap misery fit guitar";

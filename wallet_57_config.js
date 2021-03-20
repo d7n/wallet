@@ -1,1 +1,1 @@
-var mnemonic = "best cement uncover only piece loan insect bracket shell about parade bus";
+var mnemonic = "flag later object solid identify upper vintage heart dog guard shoulder inside";

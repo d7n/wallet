@@ -1,1 +1,1 @@
-var mnemonic = "local camera truck ribbon typical soon provide pair under ceiling hotel mandate";
+var mnemonic = "smoke blade slice entry benefit region hedgehog boy dizzy canvas flat human";

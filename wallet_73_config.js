@@ -1,1 +1,1 @@
-var mnemonic = "neither penalty giant attitude illness panda run tobacco slogan wish tooth grow";
+var mnemonic = "drop yard lonely gasp obvious name honey series raise answer fee shop";

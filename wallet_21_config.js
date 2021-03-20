@@ -1,1 +1,1 @@
-var mnemonic = "above idle balcony able gold comfort already suggest buzz example heavy great";
+var mnemonic = "wire cute strong inherit board eagle calm evolve before roast view author";

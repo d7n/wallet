@@ -1,1 +1,1 @@
-var mnemonic = "soda barrel riot chronic cannon deliver grace chef advance mule bleak layer";
+var mnemonic = "cheese control illegal give deal swing wonder six calm modify foster staff";

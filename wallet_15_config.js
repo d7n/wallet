@@ -1,1 +1,1 @@
-var mnemonic = "crash own traffic noodle card little afraid odor chest craft lunar daring";
+var mnemonic = "any else nephew this indoor cart host float river corn bounce manual";

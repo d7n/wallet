@@ -1,1 +1,1 @@
-var mnemonic = "smart coral undo silk gym retreat crash chat tonight resemble increase master";
+var mnemonic = "borrow add fitness often obvious plug fossil taste guide vehicle fall eye";

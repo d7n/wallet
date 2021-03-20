@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo dress winner broccoli friend bus planet require invest wheel appear shoulder";
+var mnemonic = "frozen steak hour popular army will mean faint state immense street book";

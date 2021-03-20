@@ -1,1 +1,1 @@
-var mnemonic = "topple portion melt budget pencil name blanket sail escape cancel prize crater";
+var mnemonic = "either pyramid boat letter hybrid code joy today enemy kangaroo club glad";

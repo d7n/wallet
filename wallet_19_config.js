@@ -1,1 +1,1 @@
-var mnemonic = "shift category hawk gorilla expose casino merge suspect memory parade enhance return";
+var mnemonic = "midnight online dust genre curve reform piano butter garment consider fork miss";

@@ -1,1 +1,1 @@
-var mnemonic = "glass shield erupt gallery fringe isolate cool style chief moment exchange idea";
+var mnemonic = "weekend discover text slogan valve muffin example wage kingdom grid thank ticket";

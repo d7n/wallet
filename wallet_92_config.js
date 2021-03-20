@@ -1,1 +1,1 @@
-var mnemonic = "seat canoe solve siege century cruise helmet bamboo scare forget slogan until";
+var mnemonic = "rose mansion session hero shrimp off process session inquiry two dentist into";

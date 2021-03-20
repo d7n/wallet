@@ -1,1 +1,1 @@
-var mnemonic = "notice abstract inch margin bus robust wrap name play gesture coil crucial";
+var mnemonic = "sting cattle spare invite rapid double slogan elbow emotion fragile eternal chief";

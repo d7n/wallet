@@ -1,1 +1,1 @@
-var mnemonic = "brass magnet loyal soul limb upgrade weasel diary rate owner garage myth";
+var mnemonic = "benefit clown metal shallow small sand basic column prize donkey finish toss";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly cage aisle term brick above job brother judge liquid family crush";
+var mnemonic = "sunset spy version hen gadget unique deer cargo often wolf cheap salt";

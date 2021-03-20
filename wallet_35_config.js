@@ -1,1 +1,1 @@
-var mnemonic = "day trick jungle tackle clerk similar govern usual machine walnut nominee upon";
+var mnemonic = "youth ladder volcano potato enrich wisdom charge check common tape cage model";

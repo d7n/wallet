@@ -1,1 +1,1 @@
-var mnemonic = "win dignity now match trouble celery ten uniform enter cat debate squeeze";
+var mnemonic = "action blind lens flag spray advice hungry ancient labor horse hero elite";

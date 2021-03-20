@@ -1,1 +1,1 @@
-var mnemonic = "various actor wine original melt fabric blouse federal air solid hedgehog danger";
+var mnemonic = "claim company easy spot provide soon marriage renew nurse humble vacuum hawk";

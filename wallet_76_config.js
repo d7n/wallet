@@ -1,1 +1,1 @@
-var mnemonic = "army slogan spoil annual old action hint unlock describe humor fiber hand";
+var mnemonic = "universe exile leopard indicate book install sadness eight ensure waste connect lecture";

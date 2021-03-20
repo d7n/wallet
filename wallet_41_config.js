@@ -1,1 +1,1 @@
-var mnemonic = "ticket author announce grit pumpkin wolf hover truth scare turtle dad ankle";
+var mnemonic = "trap topple rally lunar oak dolphin holiday monkey frequent opinion wise candy";

@@ -1,1 +1,1 @@
-var mnemonic = "rack juice crash dwarf rare sphere gossip asset reason stomach kiwi target";
+var mnemonic = "little ketchup call unit canvas seek day beauty source hint room visa";

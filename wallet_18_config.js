@@ -1,1 +1,1 @@
-var mnemonic = "middle brisk one funny maid clutch dinner quote broccoli divide pulp tray";
+var mnemonic = "immune sail swarm harsh inflict series load undo soda fame radar cart";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion point run dad clean square earth unfair student pull bike poverty";
+var mnemonic = "milk smile garage tattoo axis dawn orient devote right shift spirit chest";

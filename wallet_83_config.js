@@ -1,1 +1,1 @@
-var mnemonic = "smart rude bundle tiny pepper dog couch box assist shoot fever outside";
+var mnemonic = "token enrich muscle voice online trouble autumn alert library drink aim fix";

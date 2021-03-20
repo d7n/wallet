@@ -1,1 +1,1 @@
-var mnemonic = "enlist ripple slide position stool gap adjust urban exhibit celery maid family";
+var mnemonic = "warfare unveil venue fold august ankle angle pencil industry illness echo dose";

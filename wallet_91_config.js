@@ -1,1 +1,1 @@
-var mnemonic = "chair hurdle ready reduce find choice luggage spirit elite fever detail real";
+var mnemonic = "moon alpha very jeans bundle boat heavy major ripple crowd toddler unknown";

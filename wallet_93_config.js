@@ -1,1 +1,1 @@
-var mnemonic = "paper involve mosquito correct will ecology such repair sort more spend symptom";
+var mnemonic = "story path install hood hint orbit rigid cushion grass enrich know oak";

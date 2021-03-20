@@ -1,1 +1,1 @@
-var mnemonic = "bounce glory spike crowd spice north argue business hybrid prefer junk volume";
+var mnemonic = "oyster afford machine tray access metal daughter tongue imitate void mistake slot";

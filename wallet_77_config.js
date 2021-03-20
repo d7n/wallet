@@ -1,1 +1,1 @@
-var mnemonic = "cave field number seek razor wrist rather vast crew sponsor muffin equip";
+var mnemonic = "refuse aim goose certain real ladder august host cloth piano situate august";

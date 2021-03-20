@@ -1,1 +1,1 @@
-var mnemonic = "pause radar alien gloom potato tennis nerve bitter today survey earth cherry";
+var mnemonic = "correct balcony fault student laugh frog much distance ancient jar three whale";

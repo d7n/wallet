@@ -1,1 +1,1 @@
-var mnemonic = "fault grocery torch case height hurdle come armed thunder tuna idea earn";
+var mnemonic = "stay elbow tunnel maid answer siren quality liberty common foster bunker style";

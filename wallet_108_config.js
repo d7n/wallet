@@ -1,1 +1,1 @@
-var mnemonic = "trial plastic duck lawn citizen rely task check unhappy hybrid jaguar find";
+var mnemonic = "resist bike flower warrior include inspire neutral worry trap cool draw embrace";

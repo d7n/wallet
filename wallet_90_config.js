@@ -1,1 +1,1 @@
-var mnemonic = "globe hotel jealous cousin pyramid title ticket inquiry chuckle lyrics latin ice";
+var mnemonic = "biology ahead pride pause bus defy decide gesture random wood check deer";

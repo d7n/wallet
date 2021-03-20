@@ -1,1 +1,1 @@
-var mnemonic = "skill approve clock clutch disease like wash clay dirt fun fossil settle";
+var mnemonic = "wall address blue curve elbow aunt trumpet dumb sunset scare pet month";

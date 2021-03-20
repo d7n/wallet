@@ -1,1 +1,1 @@
-var mnemonic = "connect face baby hospital exotic universe embrace drama crush moon brother heavy";
+var mnemonic = "good truly wrong frog inner tide burden lonely find mountain story mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "post globe rotate battle deal erode memory vessel awesome cry pact couch";
+var mnemonic = "remove table jewel spice note luggage hour tourist example clip offer artist";

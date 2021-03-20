@@ -1,1 +1,1 @@
-var mnemonic = "hundred ocean weapon giant concert conduct indoor chunk release relax balance anxiety";
+var mnemonic = "security metal hedgehog appear man fine slow slice garden negative blush trick";

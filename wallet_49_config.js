@@ -1,1 +1,1 @@
-var mnemonic = "either bless globe pizza illegal genre sun judge typical learn green rapid";
+var mnemonic = "person energy waste then clean avocado gain dignity olive burger arena burden";

@@ -1,1 +1,1 @@
-var mnemonic = "grant daughter swamp summer vehicle echo key uncover ripple ivory brown caught";
+var mnemonic = "desert daughter sun labor enlist milk later pride wrist polar slide print";

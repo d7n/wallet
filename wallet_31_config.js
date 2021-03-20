@@ -1,1 +1,1 @@
-var mnemonic = "entire try mass oil veteran awesome push layer symbol property roof tooth";
+var mnemonic = "abstract lab idea casino program cry forum improve air sell glad deny";

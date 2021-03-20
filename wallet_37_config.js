@@ -1,1 +1,1 @@
-var mnemonic = "liberty ship acid another people name math tribe swamp attitude catch winner";
+var mnemonic = "opera rack genuine mail future survey letter neglect truth gossip fragile price";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk error shift about define false slow lens arch pond race gorilla";
+var mnemonic = "tooth comfort science junk smoke outer exclude notable runway merry guess seven";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter fruit pause use guard tackle drip caution trend vast resemble analyst";
+var mnemonic = "basket tunnel swift appear quote edit measure thing guide price trip fringe";

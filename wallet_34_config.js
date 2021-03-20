@@ -1,1 +1,1 @@
-var mnemonic = "lift pattern merry dose kiwi flame walk ceiling whale snack oppose slight";
+var mnemonic = "toe aspect rapid forum wall verb april thrive skin chest tell rack";

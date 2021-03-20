@@ -1,1 +1,1 @@
-var mnemonic = "extra letter vicious volcano now dry aim drink flat jelly tattoo lawn";
+var mnemonic = "scare typical access century collect illegal release fat brand actress sick address";

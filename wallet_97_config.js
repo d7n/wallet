@@ -1,1 +1,1 @@
-var mnemonic = "blade fame harbor brick hill confirm easily dish chronic ice oil wasp";
+var mnemonic = "winner service party gift hunt car alarm neck devote entry word distance";

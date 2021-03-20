@@ -1,1 +1,1 @@
-var mnemonic = "cancel squirrel pair warm carry olympic sauce leg snow truth card next";
+var mnemonic = "ribbon success dinner oil detect output perfect bulb cart hover fence bless";

@@ -1,1 +1,1 @@
-var mnemonic = "left knee silk march quality route march sure cherry defense stumble polar";
+var mnemonic = "action typical system bargain sight solid cage anger defy sock casino later";

@@ -1,1 +1,1 @@
-var mnemonic = "horn egg fancy they frog nest train loyal right vacuum fashion name";
+var mnemonic = "amount pond attack price energy insect girl pink love warrior admit force";

@@ -1,1 +1,1 @@
-var mnemonic = "stove mixed intact camera lobster people edit inhale diet summer hidden below";
+var mnemonic = "virtual naive spider average accident patrol already drift keen language steel black";

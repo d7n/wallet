@@ -1,1 +1,1 @@
-var mnemonic = "unhappy echo another fruit swing apart bundle ugly cave require pill trust";
+var mnemonic = "cement update suffer law duty marine nose burst doll box capable poet";

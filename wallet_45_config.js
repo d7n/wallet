@@ -1,1 +1,1 @@
-var mnemonic = "near type twelve sick brush purpose feature ten rebel achieve devote sort";
+var mnemonic = "often treat lobster scout afford loyal rich dutch lake hair frown hotel";

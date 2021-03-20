@@ -1,1 +1,1 @@
-var mnemonic = "hobby sand convince daring make miracle dinosaur eternal bless exit access snack";
+var mnemonic = "alert run cargo marine result board action suspect clump measure lemon kiss";

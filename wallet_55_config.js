@@ -1,1 +1,1 @@
-var mnemonic = "remember thank clip dizzy puzzle flash slight library rich vacuum rapid another";
+var mnemonic = "addict sausage test pass unknown hazard size remain salad syrup method lemon";

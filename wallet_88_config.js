@@ -1,1 +1,1 @@
-var mnemonic = "wife raven essence relief alien media era shift fault offer actor credit";
+var mnemonic = "frozen into utility trust hurry peace input together credit castle negative multiply";

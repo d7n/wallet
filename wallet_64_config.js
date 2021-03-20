@@ -1,1 +1,1 @@
-var mnemonic = "obvious wise present vacant slot fault addict inform mandate today hundred scan";
+var mnemonic = "economy unhappy crowd legal dress flock apology defense talent royal inquiry typical";

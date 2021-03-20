@@ -1,1 +1,1 @@
-var mnemonic = "will slim east basic member laptop fine snow pig total apart balcony";
+var mnemonic = "surprise yellow neutral amused glow scatter marriage bracket cigar ocean bring place";

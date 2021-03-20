@@ -1,1 +1,1 @@
-var mnemonic = "process exit rookie float walnut glory flat siren hungry absent second alley";
+var mnemonic = "thank dove switch citizen kitten home century broccoli agree when home pretty";

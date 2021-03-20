@@ -1,1 +1,1 @@
-var mnemonic = "prepare mix try buyer increase useless monitor bench toe olympic prefer crane";
+var mnemonic = "blouse depart predict sting day ask field umbrella spy biology duck fruit";

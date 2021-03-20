@@ -1,1 +1,1 @@
-var mnemonic = "pen vote wrong zero viable inquiry bus chicken bike inject settle mimic";
+var mnemonic = "target place tomato glide toward wrong result citizen wreck budget solar hat";

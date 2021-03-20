@@ -1,1 +1,1 @@
-var mnemonic = "reduce soup rhythm maximum trigger urban company peanut swing human dumb transfer";
+var mnemonic = "such latin civil act visa near display guide festival clutch spend tip";

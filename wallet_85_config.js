@@ -1,1 +1,1 @@
-var mnemonic = "infant toe link calm labor plunge cart reward bean buffalo yellow brush";
+var mnemonic = "another owner hybrid guess document crumble poet elbow else faint ship equal";

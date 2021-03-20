@@ -1,1 +1,1 @@
-var mnemonic = "plunge hope night remove perfect plastic save expect seat quit problem seed";
+var mnemonic = "nature slot hello movie boring soul practice pride rabbit sign slam million";

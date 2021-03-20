@@ -1,1 +1,1 @@
-var mnemonic = "word door area crop issue little render animal around device mass lumber";
+var mnemonic = "van melody topple miss scrub above stove fancy bundle gate awkward grid";

@@ -1,1 +1,1 @@
-var mnemonic = "know near good boat motor pass utility absorb helmet decline web disorder";
+var mnemonic = "time improve spatial dice seven security message conduct trend egg skin indicate";

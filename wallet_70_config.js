@@ -1,1 +1,1 @@
-var mnemonic = "fluid output original advice control invite scissors feel key kick truth pole";
+var mnemonic = "grace pig ready zero door fetch bird high quarter trend sting health";

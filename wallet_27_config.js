@@ -1,1 +1,1 @@
-var mnemonic = "calm end secret tiny treat toilet damp kit hole mail obtain range";
+var mnemonic = "midnight pluck harbor zone siege clerk fall across manage car task urban";

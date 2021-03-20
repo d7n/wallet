@@ -1,1 +1,1 @@
-var mnemonic = "sight glimpse palace plug position turkey loud memory double ramp drama toy";
+var mnemonic = "library typical brown teach obscure ginger gather sick relax inherit tilt near";

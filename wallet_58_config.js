@@ -1,1 +1,1 @@
-var mnemonic = "can axis room crash spike naive modify place dune curious rare reject";
+var mnemonic = "pulse boy purchase begin tortoise tomorrow damp drill public portion useful exercise";

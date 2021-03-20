@@ -1,1 +1,1 @@
-var mnemonic = "vintage cart zero baby behave desk adjust brave record foot praise steel";
+var mnemonic = "drink ability notice auto scale typical keep elder trip crop course cook";

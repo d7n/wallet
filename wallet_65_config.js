@@ -1,1 +1,1 @@
-var mnemonic = "sadness flat hawk elephant song lady mail measure fall credit observe ketchup";
+var mnemonic = "boring height spice receive foam swarm chief such quick tip test seek";

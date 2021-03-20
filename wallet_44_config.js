@@ -1,1 +1,1 @@
-var mnemonic = "rail path amateur expect icon perfect imitate foam speed spring nerve season";
+var mnemonic = "snake ridge razor profit spirit betray region sea moment also shrug cliff";

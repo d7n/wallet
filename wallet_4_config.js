@@ -1,1 +1,1 @@
-var mnemonic = "picnic pool voice grit route river mercy animal glove picnic lottery airport";
+var mnemonic = "boss stable name reveal stay liar cook dumb pig beef aerobic insect";

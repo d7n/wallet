@@ -1,1 +1,1 @@
-var mnemonic = "way hedgehog page jewel balance ski salmon pilot indoor reunion absent mad";
+var mnemonic = "fit someone carbon april arch notable flavor diamond advance smooth mutual asthma";

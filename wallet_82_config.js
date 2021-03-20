@@ -1,1 +1,1 @@
-var mnemonic = "depend either fabric trade innocent grant month wide price slot police science";
+var mnemonic = "option kidney dilemma lottery fire wave nerve ticket virtual message retire share";

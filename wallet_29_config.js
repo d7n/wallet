@@ -1,1 +1,1 @@
-var mnemonic = "sibling object code deposit rent detail mercy pact kitchen honey bulb around";
+var mnemonic = "cheap program correct vote ankle degree fault beauty anchor rather bracket coil";

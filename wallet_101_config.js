@@ -1,1 +1,1 @@
-var mnemonic = "lava walk response spike journey similar toward vault seminar gun leave remember";
+var mnemonic = "transfer increase eyebrow flight raccoon camp pumpkin future enlist they best boat";

@@ -1,1 +1,1 @@
-var mnemonic = "device twice fog loud tell clutch frown tunnel stable wave flee foster";
+var mnemonic = "absurd admit will bind want disagree inquiry stone amazing jaguar stock brick";

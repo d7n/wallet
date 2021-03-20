@@ -1,1 +1,1 @@
-var mnemonic = "sustain letter tortoise morning valley skull patrol bomb rigid bonus cool neglect";
+var mnemonic = "release choice duty thunder transfer sphere wait donor desk theme enter upset";

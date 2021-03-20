@@ -1,1 +1,1 @@
-var mnemonic = "deer monitor vacant adjust impose loyal bitter such melt dose arctic uphold";
+var mnemonic = "mad glimpse side canal artwork palace candy huge avoid keen paddle derive";
