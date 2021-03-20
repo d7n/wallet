@@ -1,1 +1,1 @@
-var mnemonic = "cave symptom olive indoor wet cover unique autumn suggest rifle plunge drink";
+var mnemonic = "gap hammer room provide rain profit empty shed stock exhaust pretty erupt";

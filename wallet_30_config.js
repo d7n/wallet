@@ -1,1 +1,1 @@
-var mnemonic = "route monster squirrel tornado diamond furnace hawk sight wool bamboo coconut stone";
+var mnemonic = "apology steel brisk castle rhythm finish bag wire divert absorb page asthma";

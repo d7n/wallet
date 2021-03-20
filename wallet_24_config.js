@@ -1,1 +1,1 @@
-var mnemonic = "infant trade flee brief lady dune ship gain motion scene renew auto";
+var mnemonic = "price where lizard atom dumb inquiry news wrestle clay economy odor invite";

@@ -1,1 +1,1 @@
-var mnemonic = "spray circle essence jungle path denial badge equip vibrant mouse adult alert";
+var mnemonic = "diamond kind spoil birth banner electric pact weird hat decide vendor mind";

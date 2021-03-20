@@ -1,1 +1,1 @@
-var mnemonic = "joy buzz hidden shop carbon mango start flight title slogan step outer";
+var mnemonic = "ordinary funny rifle object soon outdoor assume sphere type elder castle frown";

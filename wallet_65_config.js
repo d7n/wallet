@@ -1,1 +1,1 @@
-var mnemonic = "attract client fork kidney divorce member dinner cause into enroll nephew enrich";
+var mnemonic = "range annual priority pulse vivid swift ugly tongue mass sheriff swallow rate";

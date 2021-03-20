@@ -1,1 +1,1 @@
-var mnemonic = "abstract assume erupt news motor rule twin smart plunge captain category multiply";
+var mnemonic = "curious excite gold airport dwarf exact never earn grant cage pizza used";

@@ -1,1 +1,1 @@
-var mnemonic = "park law reunion violin spice little glass west distance vendor asset sight";
+var mnemonic = "rubber merit among confirm comic define happy refuse upon culture anchor sword";

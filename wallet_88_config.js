@@ -1,1 +1,1 @@
-var mnemonic = "girl ship link beef smoke pilot bag stage load abandon valley lens";
+var mnemonic = "what deer trigger obtain caught rotate shy side mom quote regret paper";

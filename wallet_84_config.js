@@ -1,1 +1,1 @@
-var mnemonic = "invite unusual one crash arctic pistol hello name target replace reason stairs";
+var mnemonic = "boost wink fence grant gasp aim law secret term gift oyster foam";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic leave raw dinner upper olympic success iron inherit organ spell pluck";
+var mnemonic = "hip drift chicken legend bunker ready spot cool garlic soda brick glass";

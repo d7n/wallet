@@ -1,1 +1,1 @@
-var mnemonic = "soup dove average column despair enter absent baby leaf auction dry sea";
+var mnemonic = "doll depth lunar track accuse valley ripple gap student wear evolve achieve";

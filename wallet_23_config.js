@@ -1,1 +1,1 @@
-var mnemonic = "dumb swamp oxygen village topple radio traffic token weather twin void axis";
+var mnemonic = "bag talk vapor mistake bus field indicate knee say swing innocent vault";

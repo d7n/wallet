@@ -1,1 +1,1 @@
-var mnemonic = "pride reject act over kite busy success stuff true pretty profit warrior";
+var mnemonic = "play oyster agree gas thing extend clean height memory allow runway real";

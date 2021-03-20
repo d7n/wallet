@@ -1,1 +1,1 @@
-var mnemonic = "rent myself cabbage sword attend account razor quiz during random wedding confirm";
+var mnemonic = "share wolf great system system social industry between exit suggest explain fury";

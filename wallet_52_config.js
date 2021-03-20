@@ -1,1 +1,1 @@
-var mnemonic = "shield capable three first devote glue cry attend wrong myth fluid timber";
+var mnemonic = "column proud pair shallow push expire bronze violin hope deliver island survey";

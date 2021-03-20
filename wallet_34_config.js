@@ -1,1 +1,1 @@
-var mnemonic = "strike share snack hello magic insect round pioneer admit predict maximum jealous";
+var mnemonic = "boring loop cry daughter frozen erupt escape travel civil suspect poet urge";

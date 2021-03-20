@@ -1,1 +1,1 @@
-var mnemonic = "gas shoot uphold change surface forest level outer kitchen income divert transfer";
+var mnemonic = "rent tunnel hat afraid kit north ostrich member fit hedgehog best jacket";

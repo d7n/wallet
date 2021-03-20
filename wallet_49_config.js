@@ -1,1 +1,1 @@
-var mnemonic = "school bulb whale narrow month door sound exhaust spike catalog culture soup";
+var mnemonic = "spawn flip nest author relief give debris blade peasant episode umbrella bread";

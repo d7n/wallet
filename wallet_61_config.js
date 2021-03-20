@@ -1,1 +1,1 @@
-var mnemonic = "quality vivid duck salon expire sphere drift flame trim civil tired alone";
+var mnemonic = "safe climb pause history cute raise ensure avocado oil ethics fish bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "project sock vicious result vault notice aspect leisure panic before secret arrive";
+var mnemonic = "salt sketch bulk candy magnet twenty public victory trumpet six sting celery";

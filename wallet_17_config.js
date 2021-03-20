@@ -1,1 +1,1 @@
-var mnemonic = "expose video reflect ugly ethics main flash buyer unaware teach there knock";
+var mnemonic = "bird swing miss coffee biology expect true unfold pass brand shoulder hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "hour citizen flag vocal around half company bone attend goat truth cancel";
+var mnemonic = "bridge auction sail arrow stock seminar evoke connect script credit enlist hint";

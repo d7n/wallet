@@ -1,1 +1,1 @@
-var mnemonic = "foam guitar noble oval uphold tooth fragile work six collect execute custom";
+var mnemonic = "joke clown split muscle place truth place mask skin wrap chimney crash";

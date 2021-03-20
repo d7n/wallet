@@ -1,1 +1,1 @@
-var mnemonic = "donor couch wheel fit hidden leopard wine manage six harbor gate village";
+var mnemonic = "neck sample quick dolphin left pretty airport remain raccoon talent drive vanish";

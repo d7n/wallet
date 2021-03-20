@@ -1,1 +1,1 @@
-var mnemonic = "person rescue push image cause give program vacant ankle image scrub urban";
+var mnemonic = "december car potato bracket forum find light reject describe tower tooth inch";

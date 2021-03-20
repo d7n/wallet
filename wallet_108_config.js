@@ -1,1 +1,1 @@
-var mnemonic = "knee edit yard spoil wrap cabin city face loan ozone grit gym";
+var mnemonic = "cake decorate kangaroo letter pole runway crush merge balance menu orchard shuffle";

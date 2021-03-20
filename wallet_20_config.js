@@ -1,1 +1,1 @@
-var mnemonic = "wisdom elder security celery swap bulk glass wise found spend capable jump";
+var mnemonic = "ribbon slide renew aim proud hospital father magnet theme vibrant devote idle";

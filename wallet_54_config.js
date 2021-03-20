@@ -1,1 +1,1 @@
-var mnemonic = "grape tiger water message order arena edge depart ivory swim right state";
+var mnemonic = "coyote frost miracle spoil used merit minimum burst achieve power sponsor card";

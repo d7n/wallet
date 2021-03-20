@@ -1,1 +1,1 @@
-var mnemonic = "mix hood actor muffin pave knife way asthma sibling zero mixed grit";
+var mnemonic = "about flame stomach quote sugar shift coin blame casino glue grid position";

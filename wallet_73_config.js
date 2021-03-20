@@ -1,1 +1,1 @@
-var mnemonic = "olive lion tribe pair unfold nut cross lesson typical rubber thunder neither";
+var mnemonic = "box cart decade either stone coach sail team clap chaos snake purpose";

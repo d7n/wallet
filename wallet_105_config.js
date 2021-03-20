@@ -1,1 +1,1 @@
-var mnemonic = "defy tenant warfare device hand tag rapid oven card shaft visa arrive";
+var mnemonic = "cushion drastic spoil curtain prize permit sport tube vault cause laundry economy";

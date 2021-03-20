@@ -1,1 +1,1 @@
-var mnemonic = "squeeze cactus record symptom wrong clarify ghost fossil quality embody scissors oil";
+var mnemonic = "gift poet wide river pet already power anxiety frozen slam pole nephew";

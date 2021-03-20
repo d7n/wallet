@@ -1,1 +1,1 @@
-var mnemonic = "kitten loop demand voice bubble emerge bind chronic lawsuit force dust cousin";
+var mnemonic = "occur useful polar siege shock throw practice country glove entry puppy resist";

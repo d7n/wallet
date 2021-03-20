@@ -1,1 +1,1 @@
-var mnemonic = "million doctor ceiling wasp mobile usual bachelor abstract clay satisfy leisure climb";
+var mnemonic = "deny current wink round caught left night risk sketch scrub sort junior";

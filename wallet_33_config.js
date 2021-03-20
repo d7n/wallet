@@ -1,1 +1,1 @@
-var mnemonic = "pool nice crush maze vessel whale trumpet include shoe almost another current";
+var mnemonic = "depth possible recycle punch electric cycle gym immense cup start unfold salt";

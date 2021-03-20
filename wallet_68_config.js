@@ -1,1 +1,1 @@
-var mnemonic = "rack buzz gap speak thank harsh tool motion mirror remove monster nuclear";
+var mnemonic = "depend gun base citizen orient edit cram tooth beach net absurd own";

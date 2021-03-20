@@ -1,1 +1,1 @@
-var mnemonic = "collect mandate explain again pet outer bind dove minor cancel foil shrimp";
+var mnemonic = "hire fee oval coil erupt ripple omit remind forum alien almost bring";

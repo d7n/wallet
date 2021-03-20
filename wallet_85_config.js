@@ -1,1 +1,1 @@
-var mnemonic = "atom host betray hello flat claw east blanket embody scare dutch join";
+var mnemonic = "fox test seek uniform simple spring honey pet flat solar split odor";

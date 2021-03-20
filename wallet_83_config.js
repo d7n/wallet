@@ -1,1 +1,1 @@
-var mnemonic = "slam inherit embark produce seven metal tell media original air day draft";
+var mnemonic = "wink arrange under smart asthma tell exchange tunnel pole receive peanut remember";

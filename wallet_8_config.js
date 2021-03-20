@@ -1,1 +1,1 @@
-var mnemonic = "limb travel pig burger script album draw buzz shell observe mixed rather";
+var mnemonic = "helmet hard muscle swing party sail wedding hard hood medal brain loan";

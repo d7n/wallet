@@ -1,1 +1,1 @@
-var mnemonic = "buffalo delay deputy wool voice skull unaware certain label clay mosquito neutral";
+var mnemonic = "group stick must super problem lobster inch eager bicycle long pink various";

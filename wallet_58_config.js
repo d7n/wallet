@@ -1,1 +1,1 @@
-var mnemonic = "head eagle home village fragile lake radio spider wrestle square scale pulse";
+var mnemonic = "earth cause exact fitness setup parent knock field shiver crane labor arrow";

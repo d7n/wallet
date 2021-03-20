@@ -1,1 +1,1 @@
-var mnemonic = "farm simple add column fortune element group boost broom siege camp enact";
+var mnemonic = "bleak library sad shrimp photo meat opinion expose absorb satoshi couple symbol";

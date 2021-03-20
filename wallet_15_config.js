@@ -1,1 +1,1 @@
-var mnemonic = "wall setup whip army wink auction chuckle power already connect gorilla health";
+var mnemonic = "silver gasp save aware kangaroo shine index already wire habit unlock pilot";

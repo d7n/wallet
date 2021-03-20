@@ -1,1 +1,1 @@
-var mnemonic = "direct guess ankle suit relief teach drift lounge fashion industry style rookie";
+var mnemonic = "advice dash daughter spider explain expect drip civil bargain foil crumble mother";

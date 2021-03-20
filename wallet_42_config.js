@@ -1,1 +1,1 @@
-var mnemonic = "gain student abstract joy subway since bracket card tenant phrase dutch industry";
+var mnemonic = "build gospel harvest multiply style soul hour bargain board coyote because subway";

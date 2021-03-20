@@ -1,1 +1,1 @@
-var mnemonic = "coast fantasy first festival neck valid city culture immune access zoo birth";
+var mnemonic = "south abstract similar appear fish judge student put bottom response viable dream";

@@ -1,1 +1,1 @@
-var mnemonic = "shop second expire celery harbor tomorrow embody ride evidence session viable final";
+var mnemonic = "reveal boil unhappy culture quarter shadow ethics photo blast alpha acid witness";

@@ -1,1 +1,1 @@
-var mnemonic = "roast learn keep firm play help supreme have bulb sister basic pole";
+var mnemonic = "panther claim access ancient saddle bicycle pool phrase wife pink excess wreck";

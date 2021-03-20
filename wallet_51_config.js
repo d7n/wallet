@@ -1,1 +1,1 @@
-var mnemonic = "endorse spin pet lawn wet bulb wood agree copy prosper action armor";
+var mnemonic = "medal twice ancient quantum glad pyramid blouse pull grow flag peasant add";

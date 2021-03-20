@@ -1,1 +1,1 @@
-var mnemonic = "scrub visual force minimum churn melt ghost odor wagon improve speed clown";
+var mnemonic = "century rival reunion miss club virtual soccer pig ritual pony you head";

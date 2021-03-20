@@ -1,1 +1,1 @@
-var mnemonic = "live satoshi cart flag clown glad since floor army flee trick useful";
+var mnemonic = "scene fuel enhance level rocket thunder example circle belt release capital worry";

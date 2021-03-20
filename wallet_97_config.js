@@ -1,1 +1,1 @@
-var mnemonic = "sure bubble verb magnet hour staff proof mango truck virtual follow dose";
+var mnemonic = "depth double rebuild school drastic destroy confirm chaos ginger return thumb recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble middle mango broken lesson hint nature resist ribbon always shoulder august";
+var mnemonic = "much crucial ivory girl sunny tackle elephant used unlock honey elbow benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "winter lab believe bargain noble picture adult garment worth vault behave youth";
+var mnemonic = "pigeon talent gravity near business adult render soda hazard answer delay column";

@@ -1,1 +1,1 @@
-var mnemonic = "wide toss twenty detect chimney rapid purpose fancy tip turkey fish sign";
+var mnemonic = "text display winner gun genre guilt spoil aunt length shed video ribbon";

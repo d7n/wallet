@@ -1,1 +1,1 @@
-var mnemonic = "wrong private doll put web custom outdoor once wonder frog notice catch";
+var mnemonic = "owner illegal road illness north region delay order post ball shed matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan super buyer cry gown west unaware elegant kind citizen ladder equal";
+var mnemonic = "champion tumble fiscal dad cotton today camp camera hat early swear together";

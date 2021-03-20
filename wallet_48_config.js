@@ -1,1 +1,1 @@
-var mnemonic = "require endless since spider method rally accident kingdom filter slim identify soldier";
+var mnemonic = "work spell pact legend lyrics elder bubble broken order hero material bread";

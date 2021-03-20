@@ -1,1 +1,1 @@
-var mnemonic = "afraid thing clump cinnamon trophy aerobic target carbon renew mushroom super make";
+var mnemonic = "rookie isolate purchase arrange purse pulp pony snake sword squeeze believe banner";

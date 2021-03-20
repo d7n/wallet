@@ -1,1 +1,1 @@
-var mnemonic = "worry pill shallow saddle antenna curtain crater flush tonight bunker enough sausage";
+var mnemonic = "shoot mistake caution panda obscure young knee over two excite undo noble";

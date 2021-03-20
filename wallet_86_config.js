@@ -1,1 +1,1 @@
-var mnemonic = "hair outer excite city hollow problem village measure expose provide interest spoon";
+var mnemonic = "myself later only very economy jealous butter laptop verify ostrich lucky high";

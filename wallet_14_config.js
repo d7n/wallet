@@ -1,1 +1,1 @@
-var mnemonic = "gentle bracket oppose shove debris skull under abandon easily control bundle mean";
+var mnemonic = "reflect assault bronze wrist deal neglect become coral gesture funny olympic call";

@@ -1,1 +1,1 @@
-var mnemonic = "noise carry crunch purchase hill what blame alien kiwi name cheap just";
+var mnemonic = "sort island absent category follow meadow rail mother oak visual cram shell";

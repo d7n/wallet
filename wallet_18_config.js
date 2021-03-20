@@ -1,1 +1,1 @@
-var mnemonic = "enforce pledge later minute dinner maze crawl island setup sudden hungry lounge";
+var mnemonic = "scene fit hybrid novel divert cradle island elegant valid bright mass peasant";

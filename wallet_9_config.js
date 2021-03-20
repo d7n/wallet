@@ -1,1 +1,1 @@
-var mnemonic = "shell shrug orphan people joke helmet black rubber sort urge iron icon";
+var mnemonic = "brisk drama alone ranch choice tell morning sketch jealous wrist despair weather";

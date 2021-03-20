@@ -1,1 +1,1 @@
-var mnemonic = "ice quote town crack glare crazy brisk rose chat private rookie holiday";
+var mnemonic = "benefit hen assist live rural spider state nice window vanish inflict jeans";

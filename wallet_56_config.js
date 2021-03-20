@@ -1,1 +1,1 @@
-var mnemonic = "maze select disagree assist limit shock song casual flavor reform left blame";
+var mnemonic = "poverty jewel antenna garden alert want start siege teach scrub impact cloth";

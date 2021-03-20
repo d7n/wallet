@@ -1,1 +1,1 @@
-var mnemonic = "annual banner finger olive frozen lobster strategy chaos wreck educate dirt orange";
+var mnemonic = "start rare morning novel other surround quarter faith fringe strategy unhappy glance";

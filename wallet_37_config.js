@@ -1,1 +1,1 @@
-var mnemonic = "exit rocket cart disagree process assault address merit subject trumpet tip police";
+var mnemonic = "congress nasty involve valve ecology service deny salad sketch wreck mass aim";

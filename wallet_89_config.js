@@ -1,1 +1,1 @@
-var mnemonic = "foam benefit dynamic immune praise where giggle scrub put thumb glue huge";
+var mnemonic = "tomato custom foil estate diamond lecture trend sentence sad problem knife decide";

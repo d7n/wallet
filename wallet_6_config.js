@@ -1,1 +1,1 @@
-var mnemonic = "split lake palace girl eyebrow double slice cheap moon field large reform";
+var mnemonic = "doctor ozone act cigar summer okay piano pool tower bulb impulse fade";

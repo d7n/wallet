@@ -1,1 +1,1 @@
-var mnemonic = "often between alert silk tower athlete already file stamp fish carpet eternal";
+var mnemonic = "radar clog audit youth midnight firm sweet fury wonder story fossil calm";

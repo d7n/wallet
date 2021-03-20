@@ -1,1 +1,1 @@
-var mnemonic = "possible odor heavy exhibit kind certain buyer supreme roof hedgehog bean couch";
+var mnemonic = "patient stadium super push clap oppose belt excite regular liberty seminar normal";

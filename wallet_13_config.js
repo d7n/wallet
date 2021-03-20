@@ -1,1 +1,1 @@
-var mnemonic = "frog key analyst simple artwork hedgehog police buffalo orange swap leaf begin";
+var mnemonic = "interest empower glide glance song window sock topic annual produce elephant shift";

@@ -1,1 +1,1 @@
-var mnemonic = "industry marriage cat brand fuel sick scout grass series almost involve prison";
+var mnemonic = "shrug fatigue focus fatal choose ocean search light neutral thunder lonely open";

@@ -1,1 +1,1 @@
-var mnemonic = "winter mercy patrol candy silk exercise settle million planet later much isolate";
+var mnemonic = "canyon chest denial ostrich path daring pattern cherry tank table voyage cross";

@@ -1,1 +1,1 @@
-var mnemonic = "denial fit slam despair scheme chaos draft suspect miracle chicken six want";
+var mnemonic = "light reward head seven depth fun poem cabin finish also real fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "verify parade pride noise movie vessel viable black belt equal zero menu";
+var mnemonic = "abstract dish begin rare survey argue obtain room scrap spot category oppose";

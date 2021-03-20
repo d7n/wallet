@@ -1,1 +1,1 @@
-var mnemonic = "garment duty roof wonder script glory sure soccer crumble verify diamond slot";
+var mnemonic = "drink current select tool love grass material quit dutch blade follow practice";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme umbrella heart announce verb phone pattern surge twelve quiz syrup shoe";
+var mnemonic = "easy myself digital you author hen motion during notice tool wealth village";

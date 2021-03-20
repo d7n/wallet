@@ -1,1 +1,1 @@
-var mnemonic = "weapon addict crime ship rack video mixed elder clap curve soft depend";
+var mnemonic = "embrace exercise parrot invest order glue pizza attract wing size civil embody";

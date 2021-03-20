@@ -1,1 +1,1 @@
-var mnemonic = "distance ridge muffin multiply finger universe draft blood hope abandon answer roof";
+var mnemonic = "energy grief omit damp analyst gossip glimpse photo citizen festival decide joke";

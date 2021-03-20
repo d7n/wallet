@@ -1,1 +1,1 @@
-var mnemonic = "damp alley decline team agent stage captain mistake bus bounce spray cave";
+var mnemonic = "hard kind april stone glow bitter tackle hybrid enjoy essence unaware pluck";

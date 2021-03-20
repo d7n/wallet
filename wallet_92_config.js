@@ -1,1 +1,1 @@
-var mnemonic = "noise phone volcano option female fabric arctic judge million secret slide lady";
+var mnemonic = "service play token orange quick genuine child expose bubble feed raw adult";

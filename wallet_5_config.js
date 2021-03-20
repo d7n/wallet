@@ -1,1 +1,1 @@
-var mnemonic = "solid quarter hamster broom unaware defy omit cheap tomato tone debris dirt";
+var mnemonic = "pencil ghost daring finger foster act unlock enlist metal ridge shrug one";

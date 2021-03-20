@@ -1,1 +1,1 @@
-var mnemonic = "step impulse embody add cause kangaroo excess brother worry inner armor arrest";
+var mnemonic = "couple quick rail choose mosquito fire artwork stem frost tail fossil negative";

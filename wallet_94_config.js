@@ -1,1 +1,1 @@
-var mnemonic = "planet rocket cake ancient ozone rent fence fever category useful dream universe";
+var mnemonic = "exclude witness saddle zone deposit drill abstract cause asset winter mirror tattoo";

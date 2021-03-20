@@ -1,1 +1,1 @@
-var mnemonic = "accident cigar pool hint grape strong dash extra sure hidden resist attract";
+var mnemonic = "ignore spider toy merit tiger lock soap clever impact disease slot worth";

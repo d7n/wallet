@@ -1,1 +1,1 @@
-var mnemonic = "picnic cat caught reason core pear silk bubble wave bargain glide hour";
+var mnemonic = "express lend habit vehicle crater toward soul voice sausage neither van stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy smile useless hockey connect option fuel napkin junior sunny invite start";
+var mnemonic = "sentence curious borrow ignore nice hybrid silk bullet improve awkward split pulse";
