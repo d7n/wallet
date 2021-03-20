@@ -1,1 +1,1 @@
-var mnemonic = "program metal witness engine dumb aisle tent harvest hedgehog dinosaur fly door";
+var mnemonic = "minute risk member wagon final garbage gorilla toddler success syrup peasant embark";

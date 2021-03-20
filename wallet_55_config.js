@@ -1,1 +1,1 @@
-var mnemonic = "silk enact topic sustain flee midnight bounce cute benefit caution mule endorse";
+var mnemonic = "brain battle flight smile burden group habit profit when slam column intact";

@@ -1,1 +1,1 @@
-var mnemonic = "energy seek render pool edge deputy jewel thank face village figure hurt";
+var mnemonic = "wonder boil best toy anger coach swarm program category question usage crush";

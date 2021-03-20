@@ -1,1 +1,1 @@
-var mnemonic = "delay system slush army math paper zero cliff song lend domain cook";
+var mnemonic = "ozone coil battle celery business awake gossip solve skull sting limb initial";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle answer shell elder stone mouse business vacuum cousin belt poem arm";
+var mnemonic = "clever credit brave position basket brother transfer roof more broken talk good";

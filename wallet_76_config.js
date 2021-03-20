@@ -1,1 +1,1 @@
-var mnemonic = "foster when dolphin stadium win crunch sense danger zoo oxygen certain economy";
+var mnemonic = "sugar upon ladder veteran ill purity goddess car rate access rifle amateur";

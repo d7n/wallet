@@ -1,1 +1,1 @@
-var mnemonic = "come faith cactus play payment man random hybrid rigid doctor vintage various";
+var mnemonic = "patient amount hair ability boring cotton abstract game exhibit repeat rare mammal";

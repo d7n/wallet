@@ -1,1 +1,1 @@
-var mnemonic = "fence wish finish grain impose lava time lend pulse chunk midnight link";
+var mnemonic = "cigar letter feature multiply slender mouse supply shaft price food voyage concert";

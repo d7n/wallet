@@ -1,1 +1,1 @@
-var mnemonic = "urge march giant digital basket alley wool piano unhappy daring barrel craft";
+var mnemonic = "stick smile master symbol verb latin eager token kiss brisk nasty clap";

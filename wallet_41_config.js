@@ -1,1 +1,1 @@
-var mnemonic = "daughter grunt caution permit response river avocado grace neither hub exact stairs";
+var mnemonic = "vote almost hospital ethics bitter fog long enrich minimum wide crumble awkward";

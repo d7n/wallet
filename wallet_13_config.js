@@ -1,1 +1,1 @@
-var mnemonic = "voyage utility barely trash surface daring habit track garage glimpse canoe cannon";
+var mnemonic = "cattle zoo clay shiver group syrup bullet empower pave sign one glove";

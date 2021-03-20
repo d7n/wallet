@@ -1,1 +1,1 @@
-var mnemonic = "slot broken book adult tape recall hedgehog wasp advance permit uphold conduct";
+var mnemonic = "regular tunnel income senior focus error hurdle juice weird amazing swap number";

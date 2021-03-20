@@ -1,1 +1,1 @@
-var mnemonic = "pilot siren call journey traffic topple measure dolphin blur cry order friend";
+var mnemonic = "ankle south kick shrimp dose capital void city lucky devote labor away";

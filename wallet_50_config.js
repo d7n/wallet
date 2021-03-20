@@ -1,1 +1,1 @@
-var mnemonic = "item waste gather donor sketch toddler puzzle october thing swarm ten measure";
+var mnemonic = "denial few document vapor debris make double later eagle phrase blossom patient";

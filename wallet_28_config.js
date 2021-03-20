@@ -1,1 +1,1 @@
-var mnemonic = "find economy venture task ranch update typical direct genuine return oblige loud";
+var mnemonic = "fiction duty sign work outer aware video vault arrange artefact purpose orient";

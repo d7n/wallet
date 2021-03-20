@@ -1,1 +1,1 @@
-var mnemonic = "say dial title rent industry cabbage eight rose alcohol genre boss sock";
+var mnemonic = "goose manual salon leaf guess bullet knock digital muscle hard modify then";

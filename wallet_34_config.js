@@ -1,1 +1,1 @@
-var mnemonic = "sure pool ethics mountain letter fiction dog recipe logic pistol casual magnet";
+var mnemonic = "focus diesel pig saddle edge afford power airport caught where tribe betray";

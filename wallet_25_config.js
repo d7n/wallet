@@ -1,1 +1,1 @@
-var mnemonic = "salmon remain retire wall boost hole priority subway town idle pizza project";
+var mnemonic = "horn reflect rapid mosquito denial jealous decline erase coyote praise cube knife";

@@ -1,1 +1,1 @@
-var mnemonic = "joy save shy uniform share tourist order subway lunar animal gown patch";
+var mnemonic = "oyster omit leaf fatigue brand valve noise account abandon kidney maple option";

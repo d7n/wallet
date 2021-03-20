@@ -1,1 +1,1 @@
-var mnemonic = "essay latin author dawn mistake cause ritual coast embrace yard gauge ring";
+var mnemonic = "dilemma hand laundry future town please because antenna ketchup despair swamp shove";

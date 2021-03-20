@@ -1,1 +1,1 @@
-var mnemonic = "jar daughter tray recycle script evil oil curtain laundry only sail fly";
+var mnemonic = "evoke fox focus total minute bird fan mimic wood scout quantum dune";

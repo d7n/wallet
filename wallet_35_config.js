@@ -1,1 +1,1 @@
-var mnemonic = "invite unlock lunch index poverty smoke execute glove jump leaf leaf cotton";
+var mnemonic = "cabin flat fatal spare draft razor shoot dice hint mouse double avoid";

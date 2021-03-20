@@ -1,1 +1,1 @@
-var mnemonic = "tribe alert great satoshi today faith erode card region runway leisure annual";
+var mnemonic = "jelly mind ski insect office next quality grab cash pottery pattern arch";

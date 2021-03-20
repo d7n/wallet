@@ -1,1 +1,1 @@
-var mnemonic = "whale venue flavor actor young story worth angry right addict mask bomb";
+var mnemonic = "upset tongue humor banner invite cost liquid inherit game token camera govern";

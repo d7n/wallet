@@ -1,1 +1,1 @@
-var mnemonic = "illness jewel upgrade person exhibit around door country cigar keen wealth blood";
+var mnemonic = "drum spy girl letter cousin tiger rebuild verify goat dinner legend green";

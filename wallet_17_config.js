@@ -1,1 +1,1 @@
-var mnemonic = "brand industry safe leisure frost ice lift used payment actor margin maze";
+var mnemonic = "emotion stay install scissors foil hand rural daughter cost exist stable peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "road retire urge target siren case wash color music decide combine flush";
+var mnemonic = "unlock lift main film pumpkin exhibit mandate black boring despair milk force";

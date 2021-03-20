@@ -1,1 +1,1 @@
-var mnemonic = "capable oyster opinion sunset tray museum expand wing fix beach square comic";
+var mnemonic = "check erupt total champion novel unlock kitchen swim gesture alcohol adjust april";

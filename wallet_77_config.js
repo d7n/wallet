@@ -1,1 +1,1 @@
-var mnemonic = "trumpet aunt erosion chief anchor capital remind sadness knock waste execute proof";
+var mnemonic = "cart deliver find crime where awkward hospital truly emerge student march amused";

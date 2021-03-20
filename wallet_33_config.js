@@ -1,1 +1,1 @@
-var mnemonic = "rapid mansion oxygen situate home lava boy noise limb recipe vivid glove";
+var mnemonic = "bracket slam swallow crash useless output sting huge smart inhale coach final";

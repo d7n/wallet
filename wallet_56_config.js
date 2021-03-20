@@ -1,1 +1,1 @@
-var mnemonic = "width shove nose party armed guitar moment exclude glance foil dad regret";
+var mnemonic = "trial beauty jungle vibrant wonder question flash draw motion table umbrella ethics";

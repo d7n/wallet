@@ -1,1 +1,1 @@
-var mnemonic = "pattern hard tooth mass use defy size chimney bid answer jump book";
+var mnemonic = "example child spend expand damp truck smoke sun island arrest sentence abandon";

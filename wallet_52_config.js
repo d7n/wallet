@@ -1,1 +1,1 @@
-var mnemonic = "hungry cry victory attack eager orange moral usual material glide zone perfect";
+var mnemonic = "begin vote topic waste motion stay post endless stock knee asset pepper";

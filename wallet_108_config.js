@@ -1,1 +1,1 @@
-var mnemonic = "parrot knee army remain cancel midnight need various throw trigger poem shy";
+var mnemonic = "castle concert priority valley goat magnet cat tuition humor topic retreat energy";

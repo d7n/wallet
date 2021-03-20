@@ -1,1 +1,1 @@
-var mnemonic = "public hundred sketch final tumble exit load door example since usage penalty";
+var mnemonic = "leaf thank invite trouble devote elbow delay bachelor mercy march noise village";

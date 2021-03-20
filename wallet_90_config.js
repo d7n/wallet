@@ -1,1 +1,1 @@
-var mnemonic = "shoe almost arm panel swallow walnut chicken black version stumble base egg";
+var mnemonic = "rival nerve object sibling about casual follow off alpha spike behave first";

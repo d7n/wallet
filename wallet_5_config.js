@@ -1,1 +1,1 @@
-var mnemonic = "pulp fabric solar affair helmet empower weapon slow original beef lounge merit";
+var mnemonic = "quit maid elbow open noodle machine slice stove message stereo practice lady";

@@ -1,1 +1,1 @@
-var mnemonic = "divide avocado panic ready tool cabbage second silent differ oyster expire govern";
+var mnemonic = "hub violin weekend galaxy sort boost slender crouch spell refuse donkey dream";

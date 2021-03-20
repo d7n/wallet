@@ -1,1 +1,1 @@
-var mnemonic = "quality diet point undo mean tape embody future apology obscure online swing";
+var mnemonic = "dust original install hint doll describe dwarf smooth slot initial ask sorry";

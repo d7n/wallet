@@ -1,1 +1,1 @@
-var mnemonic = "field zebra menu level act february oval opera insect cannon trap maple";
+var mnemonic = "flush hole hunt empty beef fun salon drama foster foam mean flavor";

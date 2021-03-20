@@ -1,1 +1,1 @@
-var mnemonic = "nurse palm super vast pretty object stool renew history black cup suffer";
+var mnemonic = "fiscal morning shiver olympic timber truck submit monitor neglect arrive decade pill";

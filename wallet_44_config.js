@@ -1,1 +1,1 @@
-var mnemonic = "jump media season cram frozen leisure huge bomb inspire quantum toilet noise";
+var mnemonic = "farm rally kiwi inquiry deputy autumn cake candy submit author access siren";

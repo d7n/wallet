@@ -1,1 +1,1 @@
-var mnemonic = "enrich farm resist mixed enemy neck section shadow together short diamond sting";
+var mnemonic = "great box tonight daring hint churn amount soldier join indicate rifle delay";

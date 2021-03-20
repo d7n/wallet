@@ -1,1 +1,1 @@
-var mnemonic = "board photo fix black carpet observe access liberty record update hire outdoor";
+var mnemonic = "north crawl elevator solid onion comfort spring layer proud cook bounce ranch";

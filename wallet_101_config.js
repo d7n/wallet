@@ -1,1 +1,1 @@
-var mnemonic = "bird mammal plunge invest punch flash cruise benefit air biology sing huge";
+var mnemonic = "rookie exchange verify fix segment bubble mixed bicycle sure error creek woman";

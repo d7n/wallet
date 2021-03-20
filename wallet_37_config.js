@@ -1,1 +1,1 @@
-var mnemonic = "truth security ankle crazy rough milk scheme math marine bonus welcome must";
+var mnemonic = "crisp drop alpha property way hill oyster metal family bird emotion push";

@@ -1,1 +1,1 @@
-var mnemonic = "poem page obscure ghost two walk ready symptom puppy engine never nerve";
+var mnemonic = "gather name service benefit jacket fragile together latin asset movie exile field";

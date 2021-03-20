@@ -1,1 +1,1 @@
-var mnemonic = "marine junk boss puppy carpet work slim rhythm tell vocal grant ball";
+var mnemonic = "fine mimic fruit cheap dutch orphan cook front proof moral turkey fresh";

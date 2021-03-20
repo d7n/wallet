@@ -1,1 +1,1 @@
-var mnemonic = "funny jar army damage task slush now casual animal final health sauce";
+var mnemonic = "acquire coconut piece accident daring trim mystery gas hawk fan art rate";

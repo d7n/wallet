@@ -1,1 +1,1 @@
-var mnemonic = "rib raccoon sphere lyrics pilot happy truth combine donkey matrix nest ask";
+var mnemonic = "truly rain spin cannon enrich pelican finger champion knee satisfy dust attack";

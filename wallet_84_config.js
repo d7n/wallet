@@ -1,1 +1,1 @@
-var mnemonic = "shift approve morning assume chronic spirit scrub suit rain random observe cart";
+var mnemonic = "spawn arch morning olympic arena hope ball steak news share cricket travel";

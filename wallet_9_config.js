@@ -1,1 +1,1 @@
-var mnemonic = "island goose unique effort spoil mule steak catalog organ point daring switch";
+var mnemonic = "senior sweet pattern gentle bronze hand such laugh utility frown test chronic";

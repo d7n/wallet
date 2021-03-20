@@ -1,1 +1,1 @@
-var mnemonic = "ship zoo dilemma genius panic muffin inherit deposit rhythm ribbon pear pattern";
+var mnemonic = "come lucky kit medal virus crush mandate link uphold tail term harsh";

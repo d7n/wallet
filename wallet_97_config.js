@@ -1,1 +1,1 @@
-var mnemonic = "farm network edge category sphere mango fit guide goose reflect metal supply";
+var mnemonic = "trend marriage pelican pet riot fire false diary february media flag public";

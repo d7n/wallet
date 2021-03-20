@@ -1,1 +1,1 @@
-var mnemonic = "vote tool orange slight promote opera sorry banana wage clown february horse";
+var mnemonic = "curve latin affair lazy distance friend kitchen style gift twenty enemy echo";

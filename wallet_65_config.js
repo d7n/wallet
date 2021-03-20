@@ -1,1 +1,1 @@
-var mnemonic = "twist outside choice sand turkey oxygen forest rural detail ankle across pluck";
+var mnemonic = "payment spice payment kite fragile lunch auction field nephew apart balance salmon";

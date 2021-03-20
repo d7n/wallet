@@ -1,1 +1,1 @@
-var mnemonic = "mesh sure just immense flip flash audit thumb ivory essay bid obscure";
+var mnemonic = "region pencil setup solution pumpkin pipe walnut size twin thought dose prevent";

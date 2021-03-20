@@ -1,1 +1,1 @@
-var mnemonic = "snake brown hospital diagram immune solar join crouch misery day company history";
+var mnemonic = "utility car ahead law couch creek arctic hunt siege glimpse frown chief";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight miss muffin dose thank fiction slight dry pulse minute habit nose";
+var mnemonic = "recall asset finish sniff deposit noble start light stamp reopen maze silk";

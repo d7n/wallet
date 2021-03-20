@@ -1,1 +1,1 @@
-var mnemonic = "run sting genius popular desk ancient prize wrap pluck reopen rebuild wrestle";
+var mnemonic = "fringe noise dose area cactus march aerobic weekend million pretty cart talent";

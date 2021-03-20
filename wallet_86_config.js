@@ -1,1 +1,1 @@
-var mnemonic = "help senior material embrace front advance book until powder admit bring glance";
+var mnemonic = "dinosaur clip vintage family audit gospel resource excite frog apology garlic reward";

@@ -1,1 +1,1 @@
-var mnemonic = "stick equal video vault egg miracle book submit banana umbrella barely age";
+var mnemonic = "happy saddle lift bulk glow error enter system very receive lesson face";

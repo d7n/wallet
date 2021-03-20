@@ -1,1 +1,1 @@
-var mnemonic = "resist model loyal door lucky depend frequent tortoise print field feel buzz";
+var mnemonic = "eyebrow nasty text piece boss entry west basic over picnic subject silly";

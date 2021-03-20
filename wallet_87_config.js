@@ -1,1 +1,1 @@
-var mnemonic = "tonight public very combine catalog shaft bottom fit rapid civil discover boil";
+var mnemonic = "embrace sign donkey agent grunt trim hero suit file craft camera target";

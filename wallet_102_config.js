@@ -1,1 +1,1 @@
-var mnemonic = "step offer fiction wolf chair exit arch demand dash valid dinosaur blue";
+var mnemonic = "elbow oval exist calm envelope asset arrive melody middle slice order wine";

@@ -1,1 +1,1 @@
-var mnemonic = "mass hip maid ancient enrich ranch monster security giant shrug loop fire";
+var mnemonic = "question put spatial atom lift pause ivory soon pony process bulk runway";

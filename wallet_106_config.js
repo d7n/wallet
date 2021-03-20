@@ -1,1 +1,1 @@
-var mnemonic = "blur recipe click soup apart scout scale system salt sign print grid";
+var mnemonic = "north cliff include review impulse reunion extend frequent poverty slab ready card";

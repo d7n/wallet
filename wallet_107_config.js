@@ -1,1 +1,1 @@
-var mnemonic = "gold wagon credit unfold soap salute creek pill drink regret connect inch";
+var mnemonic = "rabbit ankle test pistol flavor addict rather manage adjust sniff tunnel oak";

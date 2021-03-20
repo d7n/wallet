@@ -1,1 +1,1 @@
-var mnemonic = "country own cherry equip van gentle orient unaware salt claw produce bachelor";
+var mnemonic = "knee chicken since tilt zoo pool neutral kingdom decline crunch afford before";

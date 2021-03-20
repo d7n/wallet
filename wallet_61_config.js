@@ -1,1 +1,1 @@
-var mnemonic = "clerk fabric report claw purity animal fix drift aerobic inject vicious fury";
+var mnemonic = "work breeze repeat toss orchard ceiling draw size multiply wrestle curve torch";

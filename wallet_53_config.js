@@ -1,1 +1,1 @@
-var mnemonic = "sun random armed smile flock harbor relax leisure deny move cave power";
+var mnemonic = "exhaust pretty panic story faculty trouble faculty apple mutual remain dune where";

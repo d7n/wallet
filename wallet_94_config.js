@@ -1,1 +1,1 @@
-var mnemonic = "keep clown dream budget dirt eternal before cage snap float gesture major";
+var mnemonic = "artist space clay weird convince ten ready vast abandon story powder science";

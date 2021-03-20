@@ -1,1 +1,1 @@
-var mnemonic = "next follow surround crisp great neck rent sense divorce twice maid confirm";
+var mnemonic = "super spray test level toast parade napkin legend also vapor report hair";

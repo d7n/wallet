@@ -1,1 +1,1 @@
-var mnemonic = "slow amateur tunnel slab news journey fan good wonder excess license seat";
+var mnemonic = "exclude push basic nasty traffic walk neutral demand sauce bright brand detail";

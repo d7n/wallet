@@ -1,1 +1,1 @@
-var mnemonic = "edge define surround obscure stool blade proof impact oval forum symbol royal";
+var mnemonic = "clog loud corn exchange doctor someone fire spoil sunny junk age cat";

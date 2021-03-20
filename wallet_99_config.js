@@ -1,1 +1,1 @@
-var mnemonic = "awkward school inquiry program uncover candy broom inside weather second sugar possible";
+var mnemonic = "eagle beauty pride neutral paper when lock sketch popular silk dust have";

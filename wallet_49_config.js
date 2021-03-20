@@ -1,1 +1,1 @@
-var mnemonic = "style snake angle quality other lunar focus category matter sick noise version";
+var mnemonic = "news example keep phrase final math bicycle feature history razor collect appear";

@@ -1,1 +1,1 @@
-var mnemonic = "client easily humor always coconut gospel enjoy insane smart split cool skate";
+var mnemonic = "spoil topic champion share fog owner mother hybrid glad insane nerve subject";

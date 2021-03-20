@@ -1,1 +1,1 @@
-var mnemonic = "race sentence innocent depend again gloom resemble blue exact feel senior beauty";
+var mnemonic = "coconut found midnight federal crazy reduce meadow buzz company session half truly";

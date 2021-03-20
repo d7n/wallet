@@ -1,1 +1,1 @@
-var mnemonic = "spike strategy arrow claw churn child crack defy diesel argue unit mask";
+var mnemonic = "entire another fiscal rather flavor violin arctic social picnic tenant rain critic";

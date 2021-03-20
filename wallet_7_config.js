@@ -1,1 +1,1 @@
-var mnemonic = "jewel onion test load adult average practice stool escape borrow engine worth";
+var mnemonic = "donkey stumble trend people adjust vault side stable culture begin humor rent";

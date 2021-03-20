@@ -1,1 +1,1 @@
-var mnemonic = "garden gown warm border catch exhibit table bus need resemble mixture sunset";
+var mnemonic = "frown interest siege fit team sausage mercy fold measure pioneer nature wish";

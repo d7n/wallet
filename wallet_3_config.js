@@ -1,1 +1,1 @@
-var mnemonic = "peanut stable among hen mail novel primary trust method cereal corn blouse";
+var mnemonic = "tongue stairs off effort ostrich action else second mind flip subject latin";

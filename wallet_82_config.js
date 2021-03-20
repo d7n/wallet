@@ -1,1 +1,1 @@
-var mnemonic = "caught antique peanut focus face mirror process surface best length return upper";
+var mnemonic = "treat invest sail flag rib slender fog badge cruise beyond gap toast";

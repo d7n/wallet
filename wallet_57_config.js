@@ -1,1 +1,1 @@
-var mnemonic = "chronic myth shoot roast sweet enemy siren desk armed flag million clock";
+var mnemonic = "remind frozen fashion joy describe spin ugly episode cheap logic drama slot";

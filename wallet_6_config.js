@@ -1,1 +1,1 @@
-var mnemonic = "laptop damp base define gospel begin combine video bicycle clap absent also";
+var mnemonic = "arch slim gallery worth addict daughter biology share orient video rotate verb";

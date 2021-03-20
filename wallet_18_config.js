@@ -1,1 +1,1 @@
-var mnemonic = "fee there monkey honey marine wife whale dish submit toward width vintage";
+var mnemonic = "kick say orphan light assume stereo swarm canoe clip remind trend phone";

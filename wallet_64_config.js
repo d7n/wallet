@@ -1,1 +1,1 @@
-var mnemonic = "moral car famous evolve hill attract visit ketchup luggage accident layer celery";
+var mnemonic = "weekend secret snap blame slender liberty end country fall pyramid crack marine";
