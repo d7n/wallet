@@ -1,1 +1,1 @@
-var mnemonic = "lemon merry easy long sting rigid escape issue elegant yard lend involve";
+var mnemonic = "include toy talk warm session quit deposit mammal famous box wisdom glow";

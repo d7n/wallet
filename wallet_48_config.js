@@ -1,1 +1,1 @@
-var mnemonic = "bundle actress safe double level enemy stone vehicle toy make poet wrong";
+var mnemonic = "flush inquiry twist parrot rely ozone address mango fluid surprise purse budget";

@@ -1,1 +1,1 @@
-var mnemonic = "picture muffin jar valve frog rely blossom silk express jar patrol chief";
+var mnemonic = "weekend diamond select chair grab improve odor color merit segment trap east";

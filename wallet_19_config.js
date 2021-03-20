@@ -1,1 +1,1 @@
-var mnemonic = "because garden junior museum more identify put sorry myth obey skirt wrong";
+var mnemonic = "eagle service light egg cabin margin island ordinary pretty level yard pottery";

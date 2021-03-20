@@ -1,1 +1,1 @@
-var mnemonic = "warrior empty work hybrid slam winter filter slide execute mother autumn summer";
+var mnemonic = "error torch south super couch angle expand rent script shell assist embody";

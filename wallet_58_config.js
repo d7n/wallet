@@ -1,1 +1,1 @@
-var mnemonic = "limit shadow rain output priority cruise permit flight mixed regular rate hurt";
+var mnemonic = "usage north future average train harbor crunch crash indoor atom spawn movie";

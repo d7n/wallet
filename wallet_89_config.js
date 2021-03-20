@@ -1,1 +1,1 @@
-var mnemonic = "drastic focus essence hint marble blouse neutral rifle pilot alpha maze usage";
+var mnemonic = "swap still strategy among dilemma flee again alert jacket pill private bounce";

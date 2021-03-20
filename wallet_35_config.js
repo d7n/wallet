@@ -1,1 +1,1 @@
-var mnemonic = "sand smile pony deliver mom one exile flash swarm bus remind suit";
+var mnemonic = "afraid cross guilt monkey object view strategy mind escape quit column half";

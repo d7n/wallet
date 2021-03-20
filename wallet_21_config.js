@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur woman now theory video rifle thought high leaf hint text satisfy";
+var mnemonic = "forum feel sentence reject crew valley thought citizen fetch today horn arrest";

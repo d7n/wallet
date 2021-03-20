@@ -1,1 +1,1 @@
-var mnemonic = "arena clerk love victory lamp luggage napkin employ fantasy nothing skirt weird";
+var mnemonic = "erase merge shove property sing warfare impose special abandon inquiry equal sweet";

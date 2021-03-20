@@ -1,1 +1,1 @@
-var mnemonic = "save journey purpose boil field olive window phrase music poem bus service";
+var mnemonic = "cram simple honey once ribbon senior trim beyond broccoli brass spoil soda";

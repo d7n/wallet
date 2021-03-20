@@ -1,1 +1,1 @@
-var mnemonic = "marine throw little also rice giraffe weasel confirm fit sister express slice";
+var mnemonic = "stamp uncover shove fortune spatial height mask feel track lava start depart";

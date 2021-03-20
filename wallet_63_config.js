@@ -1,1 +1,1 @@
-var mnemonic = "blossom just glue step drama helmet swarm coin silly wheat angry hamster";
+var mnemonic = "control toilet voyage reform message plug remember pig thumb chalk increase dinner";

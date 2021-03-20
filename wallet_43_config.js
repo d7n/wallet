@@ -1,1 +1,1 @@
-var mnemonic = "reflect hunt moment adapt glimpse radio almost bubble scout hand merge oil";
+var mnemonic = "health treat core expose food tuna old prison man job prize phrase";

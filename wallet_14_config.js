@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow gold material city sister comfort discover floor mass quit tongue safe";
+var mnemonic = "segment cannon action mean champion neck defense produce swamp ginger picnic card";

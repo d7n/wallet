@@ -1,1 +1,1 @@
-var mnemonic = "coyote skin toddler twelve frozen use ahead tag dismiss tilt shuffle orchard";
+var mnemonic = "category snack flower erode sauce quit eager secret magic budget summer retire";

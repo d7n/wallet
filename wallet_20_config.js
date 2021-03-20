@@ -1,1 +1,1 @@
-var mnemonic = "stem predict volcano valid depth rebel custom interest grocery guess nut broom";
+var mnemonic = "own cook reunion almost panic embark aim open bring strategy brave donkey";

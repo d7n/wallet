@@ -1,1 +1,1 @@
-var mnemonic = "mail gate able notable breeze dance apple pledge between strong announce exist";
+var mnemonic = "matrix butter fossil broom industry happy what sorry glow sheriff problem yard";

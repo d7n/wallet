@@ -1,1 +1,1 @@
-var mnemonic = "muscle birth episode battle velvet job review extra merit coast post fantasy";
+var mnemonic = "task century grit energy language announce glow cabin mask view garbage total";

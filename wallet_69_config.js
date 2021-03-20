@@ -1,1 +1,1 @@
-var mnemonic = "stairs afford candy dinner material dash slam fiction hen moment salon unique";
+var mnemonic = "other then drastic dilemma genius slight stuff twin obtain blame enact melody";

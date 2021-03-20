@@ -1,1 +1,1 @@
-var mnemonic = "apology giggle viable palm identify trust hungry maid angle hobby raven champion";
+var mnemonic = "soup pool earth arch hammer canal choose digital mango wreck assist nature";

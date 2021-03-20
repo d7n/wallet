@@ -1,1 +1,1 @@
-var mnemonic = "negative bubble welcome element utility congress pride edge pumpkin spatial spatial strategy";
+var mnemonic = "zoo suspect artwork seek object correct illness crystal duck settle appear abuse";

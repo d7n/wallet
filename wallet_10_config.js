@@ -1,1 +1,1 @@
-var mnemonic = "phone nut surface engage sad push margin photo coil either alpha floor";
+var mnemonic = "goddess plug stove cluster talk reunion captain reveal marble adult anchor divide";

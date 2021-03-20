@@ -1,1 +1,1 @@
-var mnemonic = "almost abandon bronze bitter spell picture addict panda vessel picture during onion";
+var mnemonic = "permit open drip symbol motor call devote bullet admit vintage doctor bone";

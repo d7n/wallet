@@ -1,1 +1,1 @@
-var mnemonic = "camp beef profit twenty come drill zero fancy confirm smooth shift fame";
+var mnemonic = "flock stay dirt autumn segment shell spend erode isolate inner hello chief";

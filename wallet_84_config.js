@@ -1,1 +1,1 @@
-var mnemonic = "royal prepare finger leisure divorce popular cricket success advice blossom kiss number";
+var mnemonic = "problem critic crash impact depart pause limit suspect void guilt merit like";

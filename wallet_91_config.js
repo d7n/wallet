@@ -1,1 +1,1 @@
-var mnemonic = "balance clerk birth biology hamster wing run vote lesson hub right bachelor";
+var mnemonic = "route defense icon own wolf slush simple earth nuclear lion endless defy";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap soon ski picture panic ethics thumb citizen close inmate seminar feed";
+var mnemonic = "gravity stone fiber inch live canoe piece float garage license million uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon wolf sock alpha pause near nurse cousin pitch eagle drink exile";
+var mnemonic = "recall atom advance vintage achieve glad ceiling find author oak price report";

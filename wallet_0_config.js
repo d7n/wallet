@@ -1,1 +1,1 @@
-var mnemonic = "broom blue eight connect illness same amused govern purchase buzz ketchup wash";
+var mnemonic = "castle clutch rally rigid fiscal flat plunge lava today happy crane unique";

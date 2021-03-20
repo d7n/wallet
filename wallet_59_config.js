@@ -1,1 +1,1 @@
-var mnemonic = "nothing jealous narrow chef brass hedgehog harvest arena belt impulse hope auto";
+var mnemonic = "fix very faculty cloth festival rice ignore eyebrow differ oil where remind";

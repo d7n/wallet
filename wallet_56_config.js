@@ -1,1 +1,1 @@
-var mnemonic = "sniff start you design air purchase shallow fault coil trap grant time";
+var mnemonic = "sadness hood drip angry appear jump indoor admit proof august practice orbit";

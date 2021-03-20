@@ -1,1 +1,1 @@
-var mnemonic = "length media carbon involve tube orphan climb derive picnic palace thunder empower";
+var mnemonic = "reduce bubble fold jewel click dance library salon wave skirt enemy diary";

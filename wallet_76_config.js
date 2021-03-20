@@ -1,1 +1,1 @@
-var mnemonic = "creek vacuum consider luxury swallow boss route cool rent confirm identify robot";
+var mnemonic = "borrow coconut matter scene trick fiction chair alley resemble quiz toddler smoke";

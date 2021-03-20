@@ -1,1 +1,1 @@
-var mnemonic = "element toe pill repair veteran current also doctor accuse during gown car";
+var mnemonic = "day city income brief object cage truly economy cream upper bench horror";

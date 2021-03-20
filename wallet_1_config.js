@@ -1,1 +1,1 @@
-var mnemonic = "acid spread skill ten win polar female calm treat enrich provide fit";
+var mnemonic = "kite all machine action diet autumn basket notable myth napkin response wreck";

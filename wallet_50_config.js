@@ -1,1 +1,1 @@
-var mnemonic = "grief group message shift subject above extend member achieve idle rocket label";
+var mnemonic = "load angry slow eternal neither abuse vibrant dinner fault trade ghost general";

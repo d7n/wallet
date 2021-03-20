@@ -1,1 +1,1 @@
-var mnemonic = "orient tissue paper orphan aerobic unaware chef short muscle orbit comic toward";
+var mnemonic = "deal mammal salt buddy casual ivory road patrol spin invite wine model";

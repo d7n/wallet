@@ -1,1 +1,1 @@
-var mnemonic = "nominee pull thing note burden romance present prison science promote another breeze";
+var mnemonic = "choose easily bonus piano inspire hollow gallery sunset wet twelve circle electric";

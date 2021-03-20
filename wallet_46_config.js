@@ -1,1 +1,1 @@
-var mnemonic = "extra slight rib finger note horror south grid proud gloom gallery design";
+var mnemonic = "end iron raise record aspect smile van sunset pole anchor frequent acid";

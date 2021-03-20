@@ -1,1 +1,1 @@
-var mnemonic = "index govern rack follow wage two awake meat faculty ripple jelly income";
+var mnemonic = "uncover torch turtle light evil chicken chunk ostrich direct conduct topic fold";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza flag upgrade purity weasel green imitate gadget fabric carry fiction across";
+var mnemonic = "amazing victory tomorrow under latin around column pass layer mail eagle dinosaur";

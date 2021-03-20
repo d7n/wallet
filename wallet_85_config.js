@@ -1,1 +1,1 @@
-var mnemonic = "key sign meat chicken scale private renew convince paper course pluck dish";
+var mnemonic = "need blossom depth sort coffee transfer fence exchange retire hotel fury frog";

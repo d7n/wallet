@@ -1,1 +1,1 @@
-var mnemonic = "ketchup match kidney stadium thing capable deposit sense know session home yellow";
+var mnemonic = "harbor legal tonight void draft enjoy promote boring error able source vital";

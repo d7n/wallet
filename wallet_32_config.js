@@ -1,1 +1,1 @@
-var mnemonic = "stay canyon park feel tag cupboard lyrics cover mother weekend laundry spoil";
+var mnemonic = "harvest outdoor umbrella point question season still fall term income inspire various";

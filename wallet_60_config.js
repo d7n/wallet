@@ -1,1 +1,1 @@
-var mnemonic = "when spoil satisfy legal day find april option cruel bridge artist chief";
+var mnemonic = "transfer hire reduce road idle magic door expect evoke august accident silly";

@@ -1,1 +1,1 @@
-var mnemonic = "rival update kite speak man viable shove race myself weather page unknown";
+var mnemonic = "globe owner change immense buyer give badge horror neutral coast target guard";

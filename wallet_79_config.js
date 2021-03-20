@@ -1,1 +1,1 @@
-var mnemonic = "august type behave essay boring iron march maximum purity syrup memory detect";
+var mnemonic = "future excite salon twenty spend exact economy fabric uniform hockey vintage body";

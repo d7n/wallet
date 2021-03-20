@@ -1,1 +1,1 @@
-var mnemonic = "calm tired pony rent memory eight bread invest fix follow aspect tube";
+var mnemonic = "bone garment exclude bicycle primary loud scare please license aspect model breeze";

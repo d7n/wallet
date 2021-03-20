@@ -1,1 +1,1 @@
-var mnemonic = "deal random satoshi broom trophy danger omit mercy abstract drum bubble nerve";
+var mnemonic = "minute february frequent matrix burger hungry render chalk switch coffee kit only";

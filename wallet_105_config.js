@@ -1,1 +1,1 @@
-var mnemonic = "spray real settle actress gown false network robust audit prize speed replace";
+var mnemonic = "cigar jelly dial ocean lounge husband able car human accuse toss bring";

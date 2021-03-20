@@ -1,1 +1,1 @@
-var mnemonic = "anchor ivory cousin plunge cushion dawn right salon airport wreck glow west";
+var mnemonic = "destroy this multiply craft normal grant half proud outside card obey chapter";

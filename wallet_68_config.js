@@ -1,1 +1,1 @@
-var mnemonic = "crop else afford endless arch clay upset rocket require act visit strike";
+var mnemonic = "circle large family patch rude park inject romance absorb estate load country";

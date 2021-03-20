@@ -1,1 +1,1 @@
-var mnemonic = "birth corn program sight potato laptop grit green what dynamic sunset derive";
+var mnemonic = "scrap nice hidden reason member misery tiger already live narrow boy social";

@@ -1,1 +1,1 @@
-var mnemonic = "kind craft powder huge hurry display walk glove planet cute space more";
+var mnemonic = "auto million option model jewel wheel bulk always endless frequent park defy";

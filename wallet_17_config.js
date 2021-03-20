@@ -1,1 +1,1 @@
-var mnemonic = "parade orphan model trim shaft fade net street focus ethics loud mad";
+var mnemonic = "sibling speed inherit decline grow diamond teach struggle lonely wire awkward artwork";

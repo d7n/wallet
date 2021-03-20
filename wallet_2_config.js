@@ -1,1 +1,1 @@
-var mnemonic = "airport space cricket custom puppy three ritual heavy brick track giant hunt";
+var mnemonic = "lobster gather slim hire increase damage acquire gossip theory elder grit vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat total rose injury woman cliff spot price lumber lucky master wish";
+var mnemonic = "addict setup rival crew plug wheel smile marine drill mail since supreme";

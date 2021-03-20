@@ -1,1 +1,1 @@
-var mnemonic = "power company apology size exhaust grass drill hard pigeon broom praise alter";
+var mnemonic = "act bitter champion visa roof cat defy poem evil top lunar december";

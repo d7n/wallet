@@ -1,1 +1,1 @@
-var mnemonic = "chimney extra fee room hurdle any leaf child ticket park cool wool";
+var mnemonic = "theme oven steel analyst into decide salt quantum uphold vague tenant region";

@@ -1,1 +1,1 @@
-var mnemonic = "develop arrest visual silent capital praise juice dish toe discover mixed cereal";
+var mnemonic = "fever hover mom impact sunny piece hockey patrol fan please huge antique";

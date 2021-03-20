@@ -1,1 +1,1 @@
-var mnemonic = "chimney alien cereal resist juice priority east way quiz north process jelly";
+var mnemonic = "guard tunnel slam answer pottery fresh unit half credit scare split spider";

@@ -1,1 +1,1 @@
-var mnemonic = "agree horror magnet invite spread ugly betray aim small frame try advance";
+var mnemonic = "swarm light limb live eight lunar theme vacant foil alert beach jewel";

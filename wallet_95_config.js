@@ -1,1 +1,1 @@
-var mnemonic = "kitten chuckle hollow life oak type job marine still toe pear layer";
+var mnemonic = "pet attend pencil round tuna risk glow welcome dry club dentist exhibit";

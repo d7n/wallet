@@ -1,1 +1,1 @@
-var mnemonic = "stuff genius level inch album nose print celery cool save inflict lunch";
+var mnemonic = "lazy enhance amazing shallow amateur move camera lady breeze always initial device";

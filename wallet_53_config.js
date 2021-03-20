@@ -1,1 +1,1 @@
-var mnemonic = "million pottery rate secret limb admit over false slice cream sense tunnel";
+var mnemonic = "sort obvious joy apology verb link worry laundry minor life bus other";

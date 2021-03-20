@@ -1,1 +1,1 @@
-var mnemonic = "used ranch nuclear people exclude burden essence business save snow roast fresh";
+var mnemonic = "sign time budget army found please unique dance emerge oblige help major";

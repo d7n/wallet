@@ -1,1 +1,1 @@
-var mnemonic = "deny fox credit mobile easy cook elbow lobster nuclear flock manual minor";
+var mnemonic = "jump bargain explain cancel foam produce until rhythm satoshi afford party raise";

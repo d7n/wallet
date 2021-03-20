@@ -1,1 +1,1 @@
-var mnemonic = "setup toy enjoy busy turkey castle october omit consider famous universe crucial";
+var mnemonic = "siren clump index plug cake main switch squeeze number industry work narrow";

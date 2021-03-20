@@ -1,1 +1,1 @@
-var mnemonic = "heavy sleep general decorate coconut steak motion tip dumb undo impose knife";
+var mnemonic = "heart rib runway asthma rocket dutch alley rough switch join thank grace";

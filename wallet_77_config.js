@@ -1,1 +1,1 @@
-var mnemonic = "warrior tortoise woman electric drive earn limit course hip donate give cherry";
+var mnemonic = "sponsor welcome decade level trend opinion fox noodle eight youth stereo engine";

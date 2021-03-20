@@ -1,1 +1,1 @@
-var mnemonic = "weather uncle fresh grain ski outside degree devote swallow depart afford achieve";
+var mnemonic = "hunt voice blame sure volume orchard crisp effort property raccoon item twelve";

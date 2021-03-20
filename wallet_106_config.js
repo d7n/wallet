@@ -1,1 +1,1 @@
-var mnemonic = "urban corn spice turtle become review move arrive scrap coral cheap push";
+var mnemonic = "hollow consider avoid three coral second large truck olympic poverty amazing shoot";

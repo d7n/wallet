@@ -1,1 +1,1 @@
-var mnemonic = "violin tumble youth east galaxy hurry rather bicycle pair glare neither donkey";
+var mnemonic = "midnight repair filter object surround first gold camp about shallow install menu";

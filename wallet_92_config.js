@@ -1,1 +1,1 @@
-var mnemonic = "income flavor cement leaf ice cute exhaust upgrade legend team nut prosper";
+var mnemonic = "snack eagle mule illness quarter young amateur comic enemy slice couple drop";

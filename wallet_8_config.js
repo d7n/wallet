@@ -1,1 +1,1 @@
-var mnemonic = "buffalo marble hollow fog jump sausage online kit bag pretty fan battle";
+var mnemonic = "guilt cattle tuition labor because tag crater case hawk hungry minute typical";

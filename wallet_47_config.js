@@ -1,1 +1,1 @@
-var mnemonic = "material autumn love true roast mandate park return warm trigger opinion slab";
+var mnemonic = "mother rotate loan void surprise ozone plastic tackle soda cup retreat raise";

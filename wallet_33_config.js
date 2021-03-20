@@ -1,1 +1,1 @@
-var mnemonic = "basket cousin tomorrow creek inherit mixed crater board boil token daughter again";
+var mnemonic = "wealth diet pet setup cushion snack wool like concert ocean club rapid";

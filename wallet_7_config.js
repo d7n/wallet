@@ -1,1 +1,1 @@
-var mnemonic = "layer genuine keen element once salad endless false joy embody motor process";
+var mnemonic = "modify seat any speak bottom tube distance another donor property blood wave";

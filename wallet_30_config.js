@@ -1,1 +1,1 @@
-var mnemonic = "pluck electric festival trip ribbon man release gossip envelope opera obtain work";
+var mnemonic = "accident nature dune meadow party crew corn slight behind become crane castle";

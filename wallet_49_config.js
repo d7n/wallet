@@ -1,1 +1,1 @@
-var mnemonic = "bid dose weasel wall climb despair client spend air soup define hybrid";
+var mnemonic = "soon assume collect lumber pepper reveal mesh notice shiver suit extra oxygen";

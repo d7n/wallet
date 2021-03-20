@@ -1,1 +1,1 @@
-var mnemonic = "dust only fantasy engage depart opinion lunch real feel stumble square neglect";
+var mnemonic = "upset orange tomato video beach hub all catch tooth disease skill pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "quality very truck idea issue spoil danger such alien lava answer day";
+var mnemonic = "fortune goose edit thumb key sense hire auction type lizard neutral three";

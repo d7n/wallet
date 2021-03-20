@@ -1,1 +1,1 @@
-var mnemonic = "notice flush cook layer chair connect rail mystery board february fuel clog";
+var mnemonic = "toast drastic amateur post visual rally icon social soul song jump assume";

@@ -1,1 +1,1 @@
-var mnemonic = "north key girl frozen when deal own govern borrow law salute disorder";
+var mnemonic = "antique lizard sauce trend cattle broccoli couch improve worry fatigue toast loop";

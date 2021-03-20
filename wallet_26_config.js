@@ -1,1 +1,1 @@
-var mnemonic = "inside group pistol body foil rural quit pink poet jaguar gauge soccer";
+var mnemonic = "hat original visit narrow crack hamster order toe shoulder bright six fish";

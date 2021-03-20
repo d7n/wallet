@@ -1,1 +1,1 @@
-var mnemonic = "peasant absent napkin slender either grow earn dial runway flee baby arrest";
+var mnemonic = "okay double exclude harbor risk concert live isolate fox helmet knife sugar";

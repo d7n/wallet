@@ -1,1 +1,1 @@
-var mnemonic = "portion sadness mimic leisure peasant asset entry hurt bleak six drum approve";
+var mnemonic = "fringe rely coast enjoy spoil canyon relax dose control tobacco choice coffee";

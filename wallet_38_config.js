@@ -1,1 +1,1 @@
-var mnemonic = "point lyrics palace nominee tip affair guess strategy term avocado husband east";
+var mnemonic = "ask area field cheap unhappy proof glide spawn urban view soup hunt";

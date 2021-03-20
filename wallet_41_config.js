@@ -1,1 +1,1 @@
-var mnemonic = "use woman boy laugh art gloom search any tissue neck arrange sunny";
+var mnemonic = "helmet possible opera retire total execute fragile pause famous idle damage evidence";
