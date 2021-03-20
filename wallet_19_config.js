@@ -1,1 +1,1 @@
-var mnemonic = "relax exercise law render license want small tragic aisle allow deer bounce";
+var mnemonic = "scrub visual force minimum churn melt ghost odor wagon improve speed clown";

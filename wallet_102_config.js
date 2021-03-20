@@ -1,1 +1,1 @@
-var mnemonic = "verb warfare fence chapter unveil shoot blouse kite real about category atom";
+var mnemonic = "shop second expire celery harbor tomorrow embody ride evidence session viable final";

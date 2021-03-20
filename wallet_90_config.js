@@ -1,1 +1,1 @@
-var mnemonic = "mystery swamp trouble ready coin differ wise skirt hedgehog truck tobacco siege";
+var mnemonic = "spread license normal sand frame fame brass remain cheese husband cliff upset";

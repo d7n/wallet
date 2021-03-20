@@ -1,1 +1,1 @@
-var mnemonic = "harbor enroll embark weather join parade inch spot resource spirit eye hard";
+var mnemonic = "sure bubble verb magnet hour staff proof mango truck virtual follow dose";

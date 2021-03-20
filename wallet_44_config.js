@@ -1,1 +1,1 @@
-var mnemonic = "defense vessel response crew dolphin dog disorder urge seven shield mansion shoe";
+var mnemonic = "hour citizen flag vocal around half company bone attend goat truth cancel";

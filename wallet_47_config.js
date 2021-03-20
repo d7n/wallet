@@ -1,1 +1,1 @@
-var mnemonic = "abuse language present click diesel unhappy video monitor angry illness harsh cost";
+var mnemonic = "spray circle essence jungle path denial badge equip vibrant mouse adult alert";

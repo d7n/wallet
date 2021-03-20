@@ -1,1 +1,1 @@
-var mnemonic = "enlist wise such coach cube hire decrease wisdom dolphin laptop green clay";
+var mnemonic = "orphan super buyer cry gown west unaware elegant kind citizen ladder equal";

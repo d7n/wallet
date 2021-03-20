@@ -1,1 +1,1 @@
-var mnemonic = "air focus raccoon lyrics shoot parrot proof quarter eternal series swap pond";
+var mnemonic = "gentle bracket oppose shove debris skull under abandon easily control bundle mean";

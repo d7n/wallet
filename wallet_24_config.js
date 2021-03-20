@@ -1,1 +1,1 @@
-var mnemonic = "elite version intact credit ordinary entire topple retire answer cover eagle pet";
+var mnemonic = "infant trade flee brief lady dune ship gain motion scene renew auto";

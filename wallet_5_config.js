@@ -1,1 +1,1 @@
-var mnemonic = "trap opera gauge improve couple right system private fantasy leader hover cabin";
+var mnemonic = "solid quarter hamster broom unaware defy omit cheap tomato tone debris dirt";

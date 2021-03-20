@@ -1,1 +1,1 @@
-var mnemonic = "hockey symptom pioneer burger undo thunder apology execute escape adult start memory";
+var mnemonic = "defy tenant warfare device hand tag rapid oven card shaft visa arrive";

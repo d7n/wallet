@@ -1,1 +1,1 @@
-var mnemonic = "demise adapt power brown range tell garbage stem rifle horse axis city";
+var mnemonic = "panther section segment cycle wrap then leaf evidence scrub dizzy woman move";

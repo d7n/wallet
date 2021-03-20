@@ -1,1 +1,1 @@
-var mnemonic = "vacuum climb again grunt sunset design suffer dream novel train father obvious";
+var mnemonic = "kitten loop demand voice bubble emerge bind chronic lawsuit force dust cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "amused lend tragic unfold robot track lab kangaroo film grief fog orbit";
+var mnemonic = "winter mercy patrol candy silk exercise settle million planet later much isolate";

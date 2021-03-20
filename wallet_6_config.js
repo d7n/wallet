@@ -1,1 +1,1 @@
-var mnemonic = "judge plunge plunge cigar grit disorder clutch burst goose puppy wine teach";
+var mnemonic = "split lake palace girl eyebrow double slice cheap moon field large reform";

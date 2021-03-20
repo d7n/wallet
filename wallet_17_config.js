@@ -1,1 +1,1 @@
-var mnemonic = "trust life shell share bargain focus home loyal invite height slow jelly";
+var mnemonic = "expose video reflect ugly ethics main flash buyer unaware teach there knock";

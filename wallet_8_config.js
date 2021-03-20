@@ -1,1 +1,1 @@
-var mnemonic = "enter work leave super tag jar select obvious used any number despair";
+var mnemonic = "limb travel pig burger script album draw buzz shell observe mixed rather";

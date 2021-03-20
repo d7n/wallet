@@ -1,1 +1,1 @@
-var mnemonic = "imitate anxiety margin mom state office crazy invite citizen powder method lyrics";
+var mnemonic = "school bulb whale narrow month door sound exhaust spike catalog culture soup";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon exact valve valid annual hockey van common little antenna pioneer cruel";
+var mnemonic = "soup dove average column despair enter absent baby leaf auction dry sea";

@@ -1,1 +1,1 @@
-var mnemonic = "essay false maximum december nerve diamond news hidden tomato wheat involve host";
+var mnemonic = "invite unusual one crash arctic pistol hello name target replace reason stairs";

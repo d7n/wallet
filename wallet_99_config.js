@@ -1,1 +1,1 @@
-var mnemonic = "tackle weird mechanic leaf adjust region maid habit garbage awake correct because";
+var mnemonic = "joy buzz hidden shop carbon mango start flight title slogan step outer";

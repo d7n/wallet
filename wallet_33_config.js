@@ -1,1 +1,1 @@
-var mnemonic = "tobacco drum olive clock truly away hero impact off gold original weather";
+var mnemonic = "pool nice crush maze vessel whale trumpet include shoe almost another current";

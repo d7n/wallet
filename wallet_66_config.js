@@ -1,1 +1,1 @@
-var mnemonic = "worth front involve embody want bone feel gun section jealous man tape";
+var mnemonic = "live satoshi cart flag clown glad since floor army flee trick useful";

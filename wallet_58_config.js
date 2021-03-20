@@ -1,1 +1,1 @@
-var mnemonic = "soup heavy furnace two quality refuse uncover scrap window ensure reward hub";
+var mnemonic = "head eagle home village fragile lake radio spider wrestle square scale pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy pottery outdoor robot lens border brick ecology smooth verify paddle top";
+var mnemonic = "foam guitar noble oval uphold tooth fragile work six collect execute custom";

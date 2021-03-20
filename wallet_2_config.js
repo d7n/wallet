@@ -1,1 +1,1 @@
-var mnemonic = "field magic expect leader hockey diesel grab entry scene pond close hello";
+var mnemonic = "squeeze cactus record symptom wrong clarify ghost fossil quality embody scissors oil";

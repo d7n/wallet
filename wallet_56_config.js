@@ -1,1 +1,1 @@
-var mnemonic = "cool must rule carpet proud mother gain cannon organ host magic crop";
+var mnemonic = "maze select disagree assist limit shock song casual flavor reform left blame";

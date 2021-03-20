@@ -1,1 +1,1 @@
-var mnemonic = "soup poem mansion radio fuel range sausage cage goddess move firm clap";
+var mnemonic = "abstract assume erupt news motor rule twin smart plunge captain category multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "space fragile zero vintage gain illness effort share army gather traffic peasant";
+var mnemonic = "million doctor ceiling wasp mobile usual bachelor abstract clay satisfy leisure climb";

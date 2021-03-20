@@ -1,1 +1,1 @@
-var mnemonic = "tackle sting chronic surge minor found used napkin shiver arena speak screen";
+var mnemonic = "bubble middle mango broken lesson hint nature resist ribbon always shoulder august";

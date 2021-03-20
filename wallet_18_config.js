@@ -1,1 +1,1 @@
-var mnemonic = "concert tag undo front casual range alone ripple cool example tent luggage";
+var mnemonic = "enforce pledge later minute dinner maze crawl island setup sudden hungry lounge";

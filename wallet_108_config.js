@@ -1,1 +1,1 @@
-var mnemonic = "response drama escape denial tomato horror spot obey clog welcome fitness abandon";
+var mnemonic = "knee edit yard spoil wrap cabin city face loan ozone grit gym";

@@ -1,1 +1,1 @@
-var mnemonic = "wide uniform limit spoil recipe jazz tennis gas multiply marriage people day";
+var mnemonic = "supreme umbrella heart announce verb phone pattern surge twelve quiz syrup shoe";

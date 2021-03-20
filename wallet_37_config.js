@@ -1,1 +1,1 @@
-var mnemonic = "junior advance fault boost trap cradle equal setup pyramid annual stone gown";
+var mnemonic = "exit rocket cart disagree process assault address merit subject trumpet tip police";

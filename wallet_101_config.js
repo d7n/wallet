@@ -1,1 +1,1 @@
-var mnemonic = "mix denial struggle either blood violin piece airport oven praise black badge";
+var mnemonic = "wrong private doll put web custom outdoor once wonder frog notice catch";

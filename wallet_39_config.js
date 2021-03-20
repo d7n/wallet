@@ -1,1 +1,1 @@
-var mnemonic = "song blast luxury august fine ill puppy expect twin service relief grow";
+var mnemonic = "picnic cat caught reason core pear silk bubble wave bargain glide hour";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom sphere easy erosion vague damage range friend lobster draw vehicle harvest";
+var mnemonic = "person rescue push image cause give program vacant ankle image scrub urban";

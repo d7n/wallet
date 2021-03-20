@@ -1,1 +1,1 @@
-var mnemonic = "elder crouch now spoon give rescue friend once acid lemon elevator then";
+var mnemonic = "picnic beef often minimum vote want round narrow scan elephant obtain maze";

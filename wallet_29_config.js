@@ -1,1 +1,1 @@
-var mnemonic = "target emotion surprise high mansion state digital neck jungle tail photo unit";
+var mnemonic = "pride reject act over kite busy success stuff true pretty profit warrior";

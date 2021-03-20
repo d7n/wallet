@@ -1,1 +1,1 @@
-var mnemonic = "bubble biology venture among excite element clever gasp spell fall afraid tennis";
+var mnemonic = "collect mandate explain again pet outer bind dove minor cancel foil shrimp";

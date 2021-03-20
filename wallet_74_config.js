@@ -1,1 +1,1 @@
-var mnemonic = "anger mosquito only fault vibrant satoshi novel help decorate typical solar intact";
+var mnemonic = "valley tail salad bid morning mention arrive chat distance basket swarm route";

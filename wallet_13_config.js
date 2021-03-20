@@ -1,1 +1,1 @@
-var mnemonic = "erode camera knee shaft release lizard science warrior story sugar sock exit";
+var mnemonic = "frog key analyst simple artwork hedgehog police buffalo orange swap leaf begin";

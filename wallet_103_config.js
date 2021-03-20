@@ -1,1 +1,1 @@
-var mnemonic = "inquiry cargo congress lab thank weasel now ability page coyote sting choose";
+var mnemonic = "direct guess ankle suit relief teach drift lounge fashion industry style rookie";

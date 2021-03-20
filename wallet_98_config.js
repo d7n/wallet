@@ -1,1 +1,1 @@
-var mnemonic = "rhythm session woman liar basic awake actor gallery warm install pepper glove";
+var mnemonic = "gas shoot uphold change surface forest level outer kitchen income divert transfer";

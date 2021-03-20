@@ -1,1 +1,1 @@
-var mnemonic = "raven valid crucial stay obscure inner suggest argue stem onion buzz silent";
+var mnemonic = "worry pill shallow saddle antenna curtain crater flush tonight bunker enough sausage";

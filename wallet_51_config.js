@@ -1,1 +1,1 @@
-var mnemonic = "couple agent tray age top sheriff depend balcony van pig force math";
+var mnemonic = "endorse spin pet lawn wet bulb wood agree copy prosper action armor";

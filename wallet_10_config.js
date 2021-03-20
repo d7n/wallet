@@ -1,1 +1,1 @@
-var mnemonic = "clump keep air true better pepper forward napkin furnace feature lazy ancient";
+var mnemonic = "rent myself cabbage sword attend account razor quiz during random wedding confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "fold negative animal pepper lava fury tone jacket swing dry message era";
+var mnemonic = "inch away pyramid riot school elite catch pottery combine license predict defy";

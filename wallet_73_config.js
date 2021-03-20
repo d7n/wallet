@@ -1,1 +1,1 @@
-var mnemonic = "wish advice purity satoshi bean icon siren salmon fame crew modify glimpse";
+var mnemonic = "olive lion tribe pair unfold nut cross lesson typical rubber thunder neither";

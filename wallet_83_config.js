@@ -1,1 +1,1 @@
-var mnemonic = "auto diagram various industry thrive boss young tobacco amazing repeat metal enlist";
+var mnemonic = "slam inherit embark produce seven metal tell media original air day draft";

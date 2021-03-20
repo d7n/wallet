@@ -1,1 +1,1 @@
-var mnemonic = "duck fragile afraid buzz cabbage churn morning shove dress glass radar tenant";
+var mnemonic = "donor couch wheel fit hidden leopard wine manage six harbor gate village";

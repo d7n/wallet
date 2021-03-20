@@ -1,1 +1,1 @@
-var mnemonic = "add patient install fury north noise economy dutch also cigar same lecture";
+var mnemonic = "penalty home bottom same put motion float learn pause service thumb mango";

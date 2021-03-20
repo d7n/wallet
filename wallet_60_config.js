@@ -1,1 +1,1 @@
-var mnemonic = "unique tongue salmon addict quote atom inmate charge blast lecture under firm";
+var mnemonic = "industry marriage cat brand fuel sick scout grass series almost involve prison";

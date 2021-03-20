@@ -1,1 +1,1 @@
-var mnemonic = "social north omit settle manual engine trip pigeon east report pulp onion";
+var mnemonic = "farm simple add column fortune element group boost broom siege camp enact";

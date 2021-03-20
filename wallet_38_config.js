@@ -1,1 +1,1 @@
-var mnemonic = "marble true equal stereo peasant lunar delay defy orange valid gather knife";
+var mnemonic = "project sock vicious result vault notice aspect leisure panic before secret arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant depend funny apple doll invite joke eye hello hazard army flat";
+var mnemonic = "girl ship link beef smoke pilot bag stage load abandon valley lens";

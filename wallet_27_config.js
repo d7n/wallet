@@ -1,1 +1,1 @@
-var mnemonic = "soul useful page trip push violin shy arrive name toast blood faint";
+var mnemonic = "verify parade pride noise movie vessel viable black belt equal zero menu";

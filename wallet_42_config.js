@@ -1,1 +1,1 @@
-var mnemonic = "panel supply ask hobby evil dolphin crash fragile rely onion field about";
+var mnemonic = "gain student abstract joy subway since bracket card tenant phrase dutch industry";

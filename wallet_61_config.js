@@ -1,1 +1,1 @@
-var mnemonic = "circle hole noodle diary portion forget dismiss finger cook erase female process";
+var mnemonic = "quality vivid duck salon expire sphere drift flame trim civil tired alone";

@@ -1,1 +1,1 @@
-var mnemonic = "flower convince dial hub indicate pet lawsuit tragic prepare expose giggle average";
+var mnemonic = "denial fit slam despair scheme chaos draft suspect miracle chicken six want";

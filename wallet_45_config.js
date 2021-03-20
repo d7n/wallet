@@ -1,1 +1,1 @@
-var mnemonic = "addict patrol say sword bacon ostrich someone bone advice describe infant catalog";
+var mnemonic = "wide toss twenty detect chimney rapid purpose fancy tip turkey fish sign";

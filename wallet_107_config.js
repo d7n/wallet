@@ -1,1 +1,1 @@
-var mnemonic = "someone example nasty vehicle shiver input swap penalty code cart drift length";
+var mnemonic = "rhythm metal hurt deal nothing air chief pitch rare prize price voice";

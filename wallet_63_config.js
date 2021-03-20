@@ -1,1 +1,1 @@
-var mnemonic = "cruise crush slot toast fuel eternal adjust castle ozone rent december bullet";
+var mnemonic = "crazy smile useless hockey connect option fuel napkin junior sunny invite start";

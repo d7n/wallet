@@ -1,1 +1,1 @@
-var mnemonic = "design gate august thunder attend muscle tank notable finger path exchange approve";
+var mnemonic = "grape tiger water message order arena edge depart ivory swim right state";

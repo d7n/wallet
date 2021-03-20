@@ -1,1 +1,1 @@
-var mnemonic = "cry hurt sentence rare rescue enforce match section gun story census mule";
+var mnemonic = "foam benefit dynamic immune praise where giggle scrub put thumb glue huge";

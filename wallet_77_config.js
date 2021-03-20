@@ -1,1 +1,1 @@
-var mnemonic = "globe staff captain exit obvious lecture digital pretty duty imitate survey step";
+var mnemonic = "measure fuel winner segment primary coconut range fly census expand entry memory";

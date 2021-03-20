@@ -1,1 +1,1 @@
-var mnemonic = "dinner forward rice ceiling patch hospital easy raven setup visual pet garlic";
+var mnemonic = "strike share snack hello magic insect round pioneer admit predict maximum jealous";

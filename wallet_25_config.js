@@ -1,1 +1,1 @@
-var mnemonic = "purity leisure control pen suspect urban fiber illegal drum tongue basic clown";
+var mnemonic = "damp alley decline team agent stage captain mistake bus bounce spray cave";

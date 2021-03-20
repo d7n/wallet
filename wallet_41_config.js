@@ -1,1 +1,1 @@
-var mnemonic = "lazy solve admit tired prison panther analyst float glass pioneer object sadness";
+var mnemonic = "noise carry crunch purchase hill what blame alien kiwi name cheap just";

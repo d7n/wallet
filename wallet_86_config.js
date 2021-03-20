@@ -1,1 +1,1 @@
-var mnemonic = "someone recycle rich six lobster fox find tissue marine adjust blind allow";
+var mnemonic = "hair outer excite city hollow problem village measure expose provide interest spoon";

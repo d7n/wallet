@@ -1,1 +1,1 @@
-var mnemonic = "knock skull fury defy pet faculty bind leisure melt despair about endless";
+var mnemonic = "shield capable three first devote glue cry attend wrong myth fluid timber";

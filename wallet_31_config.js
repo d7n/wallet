@@ -1,1 +1,1 @@
-var mnemonic = "obey base gossip woman warfare short service sport cruel gold orphan swing";
+var mnemonic = "afraid thing clump cinnamon trophy aerobic target carbon renew mushroom super make";

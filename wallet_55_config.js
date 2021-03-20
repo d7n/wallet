@@ -1,1 +1,1 @@
-var mnemonic = "topple increase fire security guess sister orient state hair zoo bus whip";
+var mnemonic = "guess tree detect mistake country glide pave lava public vintage rib jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "couch share utility any predict elephant upset leaf primary ostrich during immune";
+var mnemonic = "noise phone volcano option female fabric arctic judge million secret slide lady";

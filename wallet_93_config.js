@@ -1,1 +1,1 @@
-var mnemonic = "spray timber success grass public keep recipe dragon seek humble gate wheel";
+var mnemonic = "town olive invest upgrade custom owner sand person certain apple disease drive";

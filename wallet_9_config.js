@@ -1,1 +1,1 @@
-var mnemonic = "sketch body gadget pet repeat nominee phone fish lumber child brick garment";
+var mnemonic = "shell shrug orphan people joke helmet black rubber sort urge iron icon";

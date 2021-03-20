@@ -1,1 +1,1 @@
-var mnemonic = "grid visa people dragon crew wish desk little kangaroo marble kit net";
+var mnemonic = "roast learn keep firm play help supreme have bulb sister basic pole";

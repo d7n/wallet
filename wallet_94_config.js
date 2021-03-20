@@ -1,1 +1,1 @@
-var mnemonic = "price belt bread give notice inform impose valley apart cabbage salad panic";
+var mnemonic = "planet rocket cake ancient ozone rent fence fever category useful dream universe";

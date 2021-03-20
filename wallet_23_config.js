@@ -1,1 +1,1 @@
-var mnemonic = "hand divert material junior frame control upset alert cage jump river woman";
+var mnemonic = "dumb swamp oxygen village topple radio traffic token weather twin void axis";

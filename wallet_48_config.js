@@ -1,1 +1,1 @@
-var mnemonic = "scout vanish swift ketchup measure stem wasp cargo federal viable polar force";
+var mnemonic = "require endless since spider method rally accident kingdom filter slim identify soldier";

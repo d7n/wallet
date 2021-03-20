@@ -1,1 +1,1 @@
-var mnemonic = "body print wheat gap talk isolate impact tool ordinary mistake century faith";
+var mnemonic = "wall setup whip army wink auction chuckle power already connect gorilla health";

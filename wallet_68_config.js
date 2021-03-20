@@ -1,1 +1,1 @@
-var mnemonic = "reject auction plunge they smart scare more air often distance rescue fatigue";
+var mnemonic = "rack buzz gap speak thank harsh tool motion mirror remove monster nuclear";

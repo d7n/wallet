@@ -1,1 +1,1 @@
-var mnemonic = "camp design dial car egg blush patrol army bleak ketchup chair hidden";
+var mnemonic = "distance ridge muffin multiply finger universe draft blood hope abandon answer roof";

@@ -1,1 +1,1 @@
-var mnemonic = "spare net grid milk state fan little slight exchange wonder beauty gospel";
+var mnemonic = "arrest sick ordinary warfare park rare arch still mansion hope always chicken";

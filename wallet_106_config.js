@@ -1,1 +1,1 @@
-var mnemonic = "deal carbon include topple reward wreck vital join gospel grow pistol crisp";
+var mnemonic = "iron knee bless runway scare give meadow service maze goose ugly gauge";

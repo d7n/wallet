@@ -1,1 +1,1 @@
-var mnemonic = "chapter satisfy illegal hundred pattern thing identify oil source slim valid survey";
+var mnemonic = "weapon addict crime ship rack video mixed elder clap curve soft depend";

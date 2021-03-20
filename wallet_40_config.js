@@ -1,1 +1,1 @@
-var mnemonic = "hundred cannon blouse silver inherit sniff mandate into embrace hobby height resource";
+var mnemonic = "mix hood actor muffin pave knife way asthma sibling zero mixed grit";

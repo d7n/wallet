@@ -1,1 +1,1 @@
-var mnemonic = "thank fury kid rule alone rain sausage agent casual floor glimpse dial";
+var mnemonic = "drastic leave raw dinner upper olympic success iron inherit organ spell pluck";

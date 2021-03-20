@@ -1,1 +1,1 @@
-var mnemonic = "crowd hand language dice come grocery master chaos ship blossom vocal cousin";
+var mnemonic = "case clutch retire neck ordinary provide dose female penalty culture catch board";

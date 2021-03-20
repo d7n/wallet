@@ -1,1 +1,1 @@
-var mnemonic = "poem ribbon life baby summer slow dune retreat entry depart taste thing";
+var mnemonic = "wisdom elder security celery swap bulk glass wise found spend capable jump";

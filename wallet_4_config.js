@@ -1,1 +1,1 @@
-var mnemonic = "liquid gap broccoli danger cement boy hurdle ginger member twelve roof tumble";
+var mnemonic = "infant devote zone sunny early ugly away pet parrot subway case athlete";

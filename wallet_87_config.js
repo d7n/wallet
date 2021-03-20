@@ -1,1 +1,1 @@
-var mnemonic = "album enlist test fit card basket twice never river project tree smart";
+var mnemonic = "either critic purchase system bar wet blind wool cruel boat math peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "glass scare catch edit tray render group distance pottery armed proof magnet";
+var mnemonic = "ice quote town crack glare crazy brisk rose chat private rookie holiday";

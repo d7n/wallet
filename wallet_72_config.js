@@ -1,1 +1,1 @@
-var mnemonic = "program beach civil flag monkey interest helmet tone present frame train please";
+var mnemonic = "cave symptom olive indoor wet cover unique autumn suggest rifle plunge drink";
