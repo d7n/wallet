@@ -1,1 +1,1 @@
-var mnemonic = "soap bone album setup actual amount siren hour accuse video blouse join";
+var mnemonic = "peace require jazz become loan sample confirm current shrug vicious table live";

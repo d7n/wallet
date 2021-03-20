@@ -1,1 +1,1 @@
-var mnemonic = "hotel smooth soul cycle evil uniform buffalo hero border north again fade";
+var mnemonic = "rough decrease topple promote sunset rose skull shuffle trial tenant material help";

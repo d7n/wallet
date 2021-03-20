@@ -1,1 +1,1 @@
-var mnemonic = "quit shadow pretty very toss bright bamboo liquid stamp aisle blast identify";
+var mnemonic = "size hurt kiss mercy frog network subject omit bleak give garage wage";

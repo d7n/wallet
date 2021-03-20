@@ -1,1 +1,1 @@
-var mnemonic = "visa state canal short certain fever cousin laugh ripple muffin web between";
+var mnemonic = "address suit craft royal banana point grunt eagle girl dune power soccer";

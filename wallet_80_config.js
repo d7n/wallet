@@ -1,1 +1,1 @@
-var mnemonic = "twin balcony anchor recipe risk sense pool symptom express blame design domain";
+var mnemonic = "busy pair anchor kitten doll anger chase tank decorate author insane basket";

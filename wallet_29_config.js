@@ -1,1 +1,1 @@
-var mnemonic = "dutch public easily labor cage news theory flight echo donor minor clerk";
+var mnemonic = "dinosaur empower sudden network slight ritual bulb tomato upper grass bunker enrich";

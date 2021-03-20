@@ -1,1 +1,1 @@
-var mnemonic = "borrow when lock urban pink luggage truth near peasant man kitten cluster";
+var mnemonic = "elbow note approve reopen analyst police catalog trigger pretty uphold venue silver";

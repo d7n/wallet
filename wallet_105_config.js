@@ -1,1 +1,1 @@
-var mnemonic = "baby access parade fall news push famous ugly all equip guess come";
+var mnemonic = "tool share old twist toward copper catch industry erode vapor accuse fire";

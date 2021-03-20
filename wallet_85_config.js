@@ -1,1 +1,1 @@
-var mnemonic = "smoke before essence category imitate merit merge large cushion solar beach icon";
+var mnemonic = "snow pioneer lucky start sheriff hockey gift type sphere capital genre smoke";

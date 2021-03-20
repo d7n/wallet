@@ -1,1 +1,1 @@
-var mnemonic = "drastic fragile keen fault like finger mass miss wait balcony guard random";
+var mnemonic = "entry license unusual myth panther world awesome topic club owner domain forum";

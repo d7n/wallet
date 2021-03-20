@@ -1,1 +1,1 @@
-var mnemonic = "toss domain topple describe hybrid lonely digital cash breeze method conduct glow";
+var mnemonic = "pyramid above tongue consider gospel minimum globe shed upon border door mouse";

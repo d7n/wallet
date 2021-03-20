@@ -1,1 +1,1 @@
-var mnemonic = "puppy kind garlic try wheel armed basket blade brave action anger pact";
+var mnemonic = "muscle lunch dirt inform already grief calm that dial tooth cake banner";

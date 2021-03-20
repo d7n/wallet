@@ -1,1 +1,1 @@
-var mnemonic = "paper magnet boost erosion struggle simple debate solution rule capital battle cigar";
+var mnemonic = "limit silly unknown kangaroo pluck rally train sing trim vendor raise repeat";

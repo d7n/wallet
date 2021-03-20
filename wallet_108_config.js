@@ -1,1 +1,1 @@
-var mnemonic = "remain must era gasp account pigeon south eyebrow manual acoustic awkward spirit";
+var mnemonic = "general hidden foot often laptop equal walk reunion refuse juice quick century";

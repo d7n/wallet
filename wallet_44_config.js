@@ -1,1 +1,1 @@
-var mnemonic = "coast move embody risk goddess north anxiety noodle crush debate page glass";
+var mnemonic = "tuition carry pluck gap deny globe negative average genre defy various large";

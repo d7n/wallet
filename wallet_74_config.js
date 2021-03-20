@@ -1,1 +1,1 @@
-var mnemonic = "dose oak cigar struggle version common pledge clarify around proof pulse sell";
+var mnemonic = "retreat expand erase text broken inch excuse kind zero dinner expire post";

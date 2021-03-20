@@ -1,1 +1,1 @@
-var mnemonic = "noodle trim crisp wagon render neck panel coral exchange cancel carry urban";
+var mnemonic = "neglect fame unknown sweet smart cargo ankle three pipe sphere monster enact";

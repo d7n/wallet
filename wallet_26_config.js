@@ -1,1 +1,1 @@
-var mnemonic = "victory parent town skull six kit nation warrior maze hard vault review";
+var mnemonic = "equal lobster tobacco critic tonight false antique earth coffee concert sibling manage";

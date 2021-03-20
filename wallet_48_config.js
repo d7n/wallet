@@ -1,1 +1,1 @@
-var mnemonic = "image birth obey region quality puzzle dumb merit journey door this belt";
+var mnemonic = "crawl dismiss endless hazard join chalk turkey river anchor ski cook wool";

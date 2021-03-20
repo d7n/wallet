@@ -1,1 +1,1 @@
-var mnemonic = "excess trouble chair hip jazz sweet display village road paper wood gold";
+var mnemonic = "term stand scale help affair wrist alert shallow refuse derive squirrel also";

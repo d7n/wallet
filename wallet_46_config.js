@@ -1,1 +1,1 @@
-var mnemonic = "ripple pony now cream top wink seven clean damage monitor upper price";
+var mnemonic = "desk frequent parent weasel female fancy sick appear topple code push oil";

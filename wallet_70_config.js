@@ -1,1 +1,1 @@
-var mnemonic = "awake strike choose jar crush today device dose insect bid melt camera";
+var mnemonic = "raw jungle neglect beach crew spread team patch pretty friend combine custom";

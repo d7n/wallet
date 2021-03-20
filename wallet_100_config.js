@@ -1,1 +1,1 @@
-var mnemonic = "border entry cycle east puzzle cross satisfy valve subject supreme pulse double";
+var mnemonic = "yard feel finger inch drill local bomb crop lift upper loan pupil";

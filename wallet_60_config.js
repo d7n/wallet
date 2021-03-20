@@ -1,1 +1,1 @@
-var mnemonic = "scare forward trip ritual clinic tragic nominee maid seven couple adjust swear";
+var mnemonic = "wet quote pupil picture repair case leisure slush forum desert broom cool";

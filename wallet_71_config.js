@@ -1,1 +1,1 @@
-var mnemonic = "indicate purity festival square increase thought rival crack position genius ancient bronze";
+var mnemonic = "steak system mimic business floor amused fox filter appear box bring music";

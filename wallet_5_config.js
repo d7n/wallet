@@ -1,1 +1,1 @@
-var mnemonic = "nominee elevator lecture ecology bid sort output royal dignity aim wine leaf";
+var mnemonic = "you top captain lumber album spider tag victory whisper chronic surge ostrich";

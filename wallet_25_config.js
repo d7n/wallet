@@ -1,1 +1,1 @@
-var mnemonic = "ready under service wheel piano forward tilt cliff planet proof spray win";
+var mnemonic = "enhance essay height under aerobic forest happy gloom mule concert increase swear";

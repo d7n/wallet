@@ -1,1 +1,1 @@
-var mnemonic = "trial glad design mansion drive zoo always category rescue member supply paper";
+var mnemonic = "moon nest bar rally film winner enhance wet matrix arm critic suggest";

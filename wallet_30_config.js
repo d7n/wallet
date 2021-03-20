@@ -1,1 +1,1 @@
-var mnemonic = "asthma pond regret explain ostrich armed canoe ring armed impact renew admit";
+var mnemonic = "fantasy decade approve evil elder face host autumn cash genuine truly jar";

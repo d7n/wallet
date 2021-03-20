@@ -1,1 +1,1 @@
-var mnemonic = "month plug phrase mix legal spy arrow true naive oven make mind";
+var mnemonic = "apology library carpet someone hole limit castle tonight royal peasant link waste";

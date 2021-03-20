@@ -1,1 +1,1 @@
-var mnemonic = "current cushion talent theory address civil beach embark steak sauce disease cactus";
+var mnemonic = "enact draw alert easily robot scatter random chair shop pipe nut opinion";

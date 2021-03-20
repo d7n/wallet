@@ -1,1 +1,1 @@
-var mnemonic = "ritual seat ghost false job woman festival pumpkin floor glance autumn close";
+var mnemonic = "asset peace meat mango lab hollow curtain bronze hold vicious they fortune";

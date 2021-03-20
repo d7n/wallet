@@ -1,1 +1,1 @@
-var mnemonic = "claim arrive section evoke defy crumble pause ten goat bunker uncover sentence";
+var mnemonic = "nurse stamp elder gold erupt chronic habit dynamic tomorrow good excuse when";

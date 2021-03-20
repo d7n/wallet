@@ -1,1 +1,1 @@
-var mnemonic = "offer sight enrich hover share mail viable joke wheel grape knee fan";
+var mnemonic = "between same harsh casual diagram utility wash bird enemy achieve unknown other";

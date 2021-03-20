@@ -1,1 +1,1 @@
-var mnemonic = "tide alien casino obtain festival recycle various method original purity sphere skill";
+var mnemonic = "pilot bullet position sword sadness flower anchor shed amused dash cross cable";

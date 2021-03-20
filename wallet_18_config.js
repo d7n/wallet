@@ -1,1 +1,1 @@
-var mnemonic = "issue casino call wall shell spray photo spray provide kangaroo floor atom";
+var mnemonic = "when alarm indicate excite indicate type math sniff tunnel exact edit wink";

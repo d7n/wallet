@@ -1,1 +1,1 @@
-var mnemonic = "recycle fiction cactus avoid future gallery jazz panther vicious vapor breeze empty";
+var mnemonic = "liberty beyond idea again combine lady mass achieve easy purse giraffe home";

@@ -1,1 +1,1 @@
-var mnemonic = "castle champion truly furnace brother topple struggle original short risk chair tuna";
+var mnemonic = "future fade rebel oyster way prison good letter pulse subject turkey recycle";

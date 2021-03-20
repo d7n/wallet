@@ -1,1 +1,1 @@
-var mnemonic = "exhaust also resist wasp arrive stem quit always essay dinner wall shift";
+var mnemonic = "couch where topple green method visual topic crisp aware main naive firm";

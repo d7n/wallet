@@ -1,1 +1,1 @@
-var mnemonic = "outside head toe manage control riot gun planet degree good eternal draft";
+var mnemonic = "feel unique normal flavor possible ask identify merge awesome bicycle holiday again";

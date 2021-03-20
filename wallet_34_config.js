@@ -1,1 +1,1 @@
-var mnemonic = "garment broken amateur recall notable gallery category media metal sleep throw gain";
+var mnemonic = "pyramid faculty frequent still ball lock fever name apart flame north april";

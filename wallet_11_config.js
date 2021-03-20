@@ -1,1 +1,1 @@
-var mnemonic = "syrup loud fork hidden move history guilt annual talent romance budget inform";
+var mnemonic = "about win obtain taste predict sense fork vicious boat bulb remove noodle";

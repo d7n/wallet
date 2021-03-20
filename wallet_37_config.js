@@ -1,1 +1,1 @@
-var mnemonic = "winner vivid wealth move romance where genre illegal two essence session brisk";
+var mnemonic = "kangaroo fancy violin party degree half tonight post fan trouble flight hen";

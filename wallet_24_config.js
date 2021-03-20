@@ -1,1 +1,1 @@
-var mnemonic = "cushion jazz kiss great carpet grab flight shoot ready inner group limit";
+var mnemonic = "now echo festival setup limb tobacco math now boil tribe cup draft";

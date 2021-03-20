@@ -1,1 +1,1 @@
-var mnemonic = "song decline luxury van maze kingdom twelve lumber advice timber sibling knife";
+var mnemonic = "party shift fit casino cloud eager great become rigid prevent nothing pioneer";

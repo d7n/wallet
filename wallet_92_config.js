@@ -1,1 +1,1 @@
-var mnemonic = "draw runway enjoy neutral where fossil share exhibit actress inside couple lab";
+var mnemonic = "donkey kitchen envelope farm veteran faculty pledge roof dose leaf topple turn";

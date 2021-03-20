@@ -1,1 +1,1 @@
-var mnemonic = "skirt dove soda cradle stadium harbor word head kid grid hedgehog tell";
+var mnemonic = "science true tiger whale foster horse exclude desert fortune divert dune educate";

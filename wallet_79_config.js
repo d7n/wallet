@@ -1,1 +1,1 @@
-var mnemonic = "jeans young essay disorder defy crawl man embrace type custom click aisle";
+var mnemonic = "fever pony legal snack zone dentist uncle replace mercy stumble comic range";

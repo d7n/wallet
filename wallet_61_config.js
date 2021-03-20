@@ -1,1 +1,1 @@
-var mnemonic = "crater drive belt soul wild insect theme moment fossil trash match captain";
+var mnemonic = "kind mixed true define mind sentence patient force family lab fee valid";

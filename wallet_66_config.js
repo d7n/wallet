@@ -1,1 +1,1 @@
-var mnemonic = "mistake other cluster material iron garden crazy exclude slender dash message tattoo";
+var mnemonic = "better enemy regular marble strong scale hospital cool pact hobby zero tape";

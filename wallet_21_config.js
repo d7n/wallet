@@ -1,1 +1,1 @@
-var mnemonic = "purpose today source canal fire fence odor item slide seed sure need";
+var mnemonic = "shy gym frog pilot brief stereo case betray kitchen proud pudding host";

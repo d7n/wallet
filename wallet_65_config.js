@@ -1,1 +1,1 @@
-var mnemonic = "caught salute faculty daring visa cruel smoke huge alley organ capable drum";
+var mnemonic = "drive math border jungle dad title attack october tomato water mule clap";

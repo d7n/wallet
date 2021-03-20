@@ -1,1 +1,1 @@
-var mnemonic = "crisp state retire save false muscle any trust balcony law food seat";
+var mnemonic = "travel rebuild mesh cake rose split kit maple wink casual tornado legal";

@@ -1,1 +1,1 @@
-var mnemonic = "develop awesome budget family burger vehicle fiction dynamic essence gloom castle wolf";
+var mnemonic = "dash dentist canvas web hurt wagon cereal power object interest start dirt";

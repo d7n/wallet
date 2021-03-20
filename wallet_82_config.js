@@ -1,1 +1,1 @@
-var mnemonic = "wash toss loud marine exact movie loyal carry lab wisdom quarter mass";
+var mnemonic = "awesome concert license december endless believe work learn dash tilt wrestle simple";

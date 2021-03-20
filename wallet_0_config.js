@@ -1,1 +1,1 @@
-var mnemonic = "leopard inform slide trick custom inch city purchase region engine stable forget";
+var mnemonic = "stairs sword wedding pupil security social future gasp cluster impose shove spare";

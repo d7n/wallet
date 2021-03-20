@@ -1,1 +1,1 @@
-var mnemonic = "situate winner head surface slab asthma slender quit judge unfold risk gap";
+var mnemonic = "gadget dress capital pistol better gesture example later page pupil fury inquiry";

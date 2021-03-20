@@ -1,1 +1,1 @@
-var mnemonic = "kingdom cover whisper network moment more draft iron region ranch skate print";
+var mnemonic = "pool pottery nut donor impulse raccoon nurse adult direct legend fuel pig";

@@ -1,1 +1,1 @@
-var mnemonic = "deer bright ladder infant receive length agent top fine enroll sheriff stairs";
+var mnemonic = "gossip pumpkin emerge today mammal comfort swap miracle catalog feature catalog ripple";

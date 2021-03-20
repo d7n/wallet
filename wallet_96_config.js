@@ -1,1 +1,1 @@
-var mnemonic = "picture donkey earth course escape student puppy metal uphold crawl balcony spawn";
+var mnemonic = "source tray spring learn use love goat outside common swarm guilt script";

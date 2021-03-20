@@ -1,1 +1,1 @@
-var mnemonic = "edit human good shoot position metal orient sunset suffer trick myth acid";
+var mnemonic = "ramp oppose jeans rebuild valley fly depth busy apple ready page furnace";

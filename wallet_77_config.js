@@ -1,1 +1,1 @@
-var mnemonic = "much wear other future coconut reform grow more fish couple tumble flash";
+var mnemonic = "busy travel skill tip stuff sniff aerobic step shop crowd crane assault";

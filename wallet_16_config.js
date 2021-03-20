@@ -1,1 +1,1 @@
-var mnemonic = "east confirm assume amount wisdom price upper lizard comic prefer sorry skill";
+var mnemonic = "current core comic monitor plastic visual enable escape horn trade mushroom flock";

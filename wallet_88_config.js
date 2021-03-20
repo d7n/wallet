@@ -1,1 +1,1 @@
-var mnemonic = "adjust cover stock human resource shrug outside mixed cream end summer number";
+var mnemonic = "scorpion antique regret congress box visit mail gospel salmon trumpet salad arena";

@@ -1,1 +1,1 @@
-var mnemonic = "what neither sight destroy hard coin discover flower vote behave random major";
+var mnemonic = "mechanic praise smile crisp warrior check midnight sun unhappy pilot loud puzzle";

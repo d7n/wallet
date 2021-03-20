@@ -1,1 +1,1 @@
-var mnemonic = "gas adjust adult travel connect tired busy decorate upset volcano once one";
+var mnemonic = "tip whip deer clean couple orchard brisk shield office hammer nose hammer";

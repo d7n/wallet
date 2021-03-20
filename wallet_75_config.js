@@ -1,1 +1,1 @@
-var mnemonic = "predict plastic garage rate victory hybrid biology puzzle street scheme cream party";
+var mnemonic = "melody infant sugar marriage rookie climb tray vanish excite chest client green";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat monkey mango fall neutral gold goose frequent enforce insane random olive";
+var mnemonic = "vote subject diagram pluck mirror canal main jazz congress indoor spot bottom";

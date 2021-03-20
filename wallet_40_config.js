@@ -1,1 +1,1 @@
-var mnemonic = "staff topple learn happy deputy chapter broccoli view coil toy vault hawk";
+var mnemonic = "yard submit faith actress kid trend cave way post crane junk bacon";

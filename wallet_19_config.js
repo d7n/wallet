@@ -1,1 +1,1 @@
-var mnemonic = "vehicle liberty sample soon tumble picture border scout wrap machine fish mechanic";
+var mnemonic = "board swift glow miss want input glance write gather tribe turn much";

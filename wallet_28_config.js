@@ -1,1 +1,1 @@
-var mnemonic = "advice narrow love twin crawl broken decade sister slab boat toward involve";
+var mnemonic = "throw hope easy hole rude approve journey shoulder exist clever mimic mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk program jar hold august body under ripple corn smooth purity rug";
+var mnemonic = "funny lyrics uncle square seed snake broom minimum wire lock olympic property";

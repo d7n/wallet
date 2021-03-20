@@ -1,1 +1,1 @@
-var mnemonic = "monkey apart defense debate tourist follow face ginger aerobic trade rail flock";
+var mnemonic = "bag loop predict slab rather leaf absurd dune mimic question board invest";

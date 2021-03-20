@@ -1,1 +1,1 @@
-var mnemonic = "share result stool slogan misery gravity orchard expire office purity snake turn";
+var mnemonic = "frequent crack topple evoke gospel frost cheap pottery other island embody fox";

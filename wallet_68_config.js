@@ -1,1 +1,1 @@
-var mnemonic = "rude when eternal tube bulk measure million october cousin paddle ceiling setup";
+var mnemonic = "large thing whale you hint drive egg brief couch pepper shift baby";

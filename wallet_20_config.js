@@ -1,1 +1,1 @@
-var mnemonic = "wheel sauce siege vocal bunker apart struggle grow hover around decade trouble";
+var mnemonic = "clown rocket rule quarter praise cause busy rack fork olympic old drink";

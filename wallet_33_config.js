@@ -1,1 +1,1 @@
-var mnemonic = "hockey tree clever coffee fiction stomach upper silent story federal pudding powder";
+var mnemonic = "steak trouble hybrid organ warrior lift casual spider say point reject similar";

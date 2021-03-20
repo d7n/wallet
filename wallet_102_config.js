@@ -1,1 +1,1 @@
-var mnemonic = "crucial puppy expand toilet sail model develop twelve erosion cherry narrow impulse";
+var mnemonic = "chat canoe tilt cool provide assault misery pause area rent guilt same";

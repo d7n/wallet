@@ -1,1 +1,1 @@
-var mnemonic = "liar noble abstract mouse weasel envelope guard order vehicle corn design cannon";
+var mnemonic = "leaf fuel satisfy humble purchase subject swarm extend column negative clap infant";

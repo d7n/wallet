@@ -1,1 +1,1 @@
-var mnemonic = "ethics express disagree mimic around around will keen guitar sauce ready sense";
+var mnemonic = "snake hamster olive hedgehog convince author fold circle trap unaware rule travel";

@@ -1,1 +1,1 @@
-var mnemonic = "client dismiss until fame bind rely issue blind topic magnet seed cook";
+var mnemonic = "patient notice endorse have rhythm uncover clog scout delay warrior indoor warfare";

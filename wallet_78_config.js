@@ -1,1 +1,1 @@
-var mnemonic = "pupil edit quit license panel penalty enjoy torch cool clutch true flavor";
+var mnemonic = "illness lift cute evil rose auto depend milk firm taxi process small";

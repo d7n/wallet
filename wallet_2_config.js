@@ -1,1 +1,1 @@
-var mnemonic = "affair arm around civil frequent march palm season shift woman metal engine";
+var mnemonic = "census palace force comic impose stick song yard offer finish almost prepare";

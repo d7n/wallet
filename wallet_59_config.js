@@ -1,1 +1,1 @@
-var mnemonic = "ladder model twenty cat install click aim pill clerk table uphold prosper";
+var mnemonic = "cheap trial state offer still material dress exile melody funny motion morning";

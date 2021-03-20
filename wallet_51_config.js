@@ -1,1 +1,1 @@
-var mnemonic = "they joy endless circle have garbage early hire dice little disease expect";
+var mnemonic = "chair mother surge ice myth fiction athlete bottom fog episode ceiling bonus";

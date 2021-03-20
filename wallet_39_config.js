@@ -1,1 +1,1 @@
-var mnemonic = "gallery square velvet today bottom where drift version lumber mystery alpha arch";
+var mnemonic = "spatial evolve laugh suspect version senior stem puppy vacant priority laundry trust";

@@ -1,1 +1,1 @@
-var mnemonic = "poem cargo umbrella reflect nest radar turtle clutch remember prefer wall obscure";
+var mnemonic = "protect false crunch code sheriff ivory midnight police comfort excite amused repair";

@@ -1,1 +1,1 @@
-var mnemonic = "total sustain fashion guess spray real cube before raccoon inner adult donkey";
+var mnemonic = "grit few resource child surprise galaxy honey wedding stool asthma proud daring";

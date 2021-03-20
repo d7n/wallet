@@ -1,1 +1,1 @@
-var mnemonic = "injury crush same diesel rule bicycle blanket remind trouble face debate nurse";
+var mnemonic = "cattle matter develop notable stay yellow saddle labor flush party embody snack";

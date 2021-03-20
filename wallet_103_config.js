@@ -1,1 +1,1 @@
-var mnemonic = "soon village spare way board derive level person museum blood image sponsor";
+var mnemonic = "music bacon warm walk hollow finger today kind breeze disorder orphan often";
