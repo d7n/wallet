@@ -1,1 +1,1 @@
-var mnemonic = "guilt shoe sign impulse trim area outdoor ecology pyramid rely mirror black";
+var mnemonic = "inform rose slush series swallow promote oxygen fatigue mom hawk tomorrow return";

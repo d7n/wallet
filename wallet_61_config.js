@@ -1,1 +1,1 @@
-var mnemonic = "praise bench ski blast broom feed boss garage gain elegant stem arrange";
+var mnemonic = "machine ensure pluck unhappy spray same attract door suffer anchor rifle scene";

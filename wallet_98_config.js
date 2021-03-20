@@ -1,1 +1,1 @@
-var mnemonic = "raise glass goat trust reject social mushroom wheel liquid genre marine tribe";
+var mnemonic = "repair radio ozone broken another baby wall ticket apple wave issue grass";

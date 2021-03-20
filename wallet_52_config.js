@@ -1,1 +1,1 @@
-var mnemonic = "subway volcano scrap repeat figure ball candy believe resource embrace strike pistol";
+var mnemonic = "phrase dirt barely rain naive forget cannon rude antenna walk witness skate";

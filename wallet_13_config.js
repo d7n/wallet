@@ -1,1 +1,1 @@
-var mnemonic = "wear explain fiction jewel kick work earth toss path unusual thank load";
+var mnemonic = "mind science tattoo two umbrella employ web mind bomb near strategy space";

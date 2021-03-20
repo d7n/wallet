@@ -1,1 +1,1 @@
-var mnemonic = "sun accuse boost chat hurry enable leopard picture miracle panther reason indicate";
+var mnemonic = "fuel knee cause erosion foil labor basic extend coral mask token portion";

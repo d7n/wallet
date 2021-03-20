@@ -1,1 +1,1 @@
-var mnemonic = "fatal eye master diesel refuse vocal between sign gasp candy gloom width";
+var mnemonic = "offer wish rescue layer purpose search fetch kind rescue infant poet easily";

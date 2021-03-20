@@ -1,1 +1,1 @@
-var mnemonic = "open execute vivid hand away elite kingdom else bright provide toddler gun";
+var mnemonic = "quick rural again core science person table welcome hen have burden goat";

@@ -1,1 +1,1 @@
-var mnemonic = "glow hedgehog below soul play crane exile company husband wealth reopen ghost";
+var mnemonic = "small erode october glimpse puzzle oak tattoo eagle paddle blur antenna seminar";

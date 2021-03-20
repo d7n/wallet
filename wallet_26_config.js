@@ -1,1 +1,1 @@
-var mnemonic = "grow afford sudden away diary off nephew salad eagle battle blur prevent";
+var mnemonic = "crew secret wedding box double height vendor swear combine wide foot harsh";

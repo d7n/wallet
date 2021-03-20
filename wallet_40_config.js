@@ -1,1 +1,1 @@
-var mnemonic = "monster income creek piano giant sausage rib thrive cake marriage office month";
+var mnemonic = "unique coconut poem chronic brush vessel edge plug mad surprise illness step";

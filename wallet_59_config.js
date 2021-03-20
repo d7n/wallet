@@ -1,1 +1,1 @@
-var mnemonic = "start ability west mom rally coconut demand clump forget purchase like speed";
+var mnemonic = "twin toss rapid muffin garlic lake advance wisdom voyage analyst network dove";

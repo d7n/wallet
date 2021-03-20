@@ -1,1 +1,1 @@
-var mnemonic = "shine egg drama click label mother evolve private clock matter luggage average";
+var mnemonic = "bird vanish enjoy silly arctic key two future stool message noodle fine";

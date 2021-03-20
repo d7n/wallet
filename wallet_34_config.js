@@ -1,1 +1,1 @@
-var mnemonic = "acid claim wish clock trust crush father degree primary twenty ocean crowd";
+var mnemonic = "lounge best panel escape insect name volcano piece swarm satoshi meadow mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "erase again august section stand resource inhale horn middle only test when";
+var mnemonic = "angle sound moon jeans absorb predict aware sail sight eager sting purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "act scout scissors grocery together van reject case secret never immune pizza";
+var mnemonic = "cross sniff rate scrub spike pioneer share ritual wear service exercise clarify";

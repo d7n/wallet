@@ -1,1 +1,1 @@
-var mnemonic = "exercise zoo tag host quiz drastic fee tenant alcohol staff enter dress";
+var mnemonic = "marine tobacco flee wolf reward cave decide list stuff trophy daring all";

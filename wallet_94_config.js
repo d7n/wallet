@@ -1,1 +1,1 @@
-var mnemonic = "diagram pride world youth hood kind civil apart put spoon length current";
+var mnemonic = "joy chronic meat guard retreat crystal drift genre garlic winter dentist post";

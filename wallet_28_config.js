@@ -1,1 +1,1 @@
-var mnemonic = "forum best turtle hair man coyote token observe august trip leave unknown";
+var mnemonic = "burst game legend inside task region baby fringe primary park collect pool";

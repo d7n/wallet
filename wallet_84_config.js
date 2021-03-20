@@ -1,1 +1,1 @@
-var mnemonic = "badge water cluster vicious thank visual video crop escape obey term bacon";
+var mnemonic = "traffic gown execute essay use hover hospital primary youth waste birth bunker";

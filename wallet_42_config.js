@@ -1,1 +1,1 @@
-var mnemonic = "mass waste position shuffle surge nephew detect call liberty pigeon phone link";
+var mnemonic = "cream security control two race force erase hair vehicle behave useful kidney";

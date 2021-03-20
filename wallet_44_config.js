@@ -1,1 +1,1 @@
-var mnemonic = "swap success dress fruit rhythm whale proof stage fatal chief upper crater";
+var mnemonic = "remove asset time motor distance hire dust grace tongue teach secret proud";

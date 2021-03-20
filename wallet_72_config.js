@@ -1,1 +1,1 @@
-var mnemonic = "describe high attitude tower electric goat lava leaf increase purpose enact quality";
+var mnemonic = "pave timber shallow beef voyage junior spare once brick eternal age occur";

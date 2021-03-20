@@ -1,1 +1,1 @@
-var mnemonic = "valve shadow drip fault prepare chunk nuclear test cushion harbor library plate";
+var mnemonic = "phone virus aware cinnamon hurdle jealous enter van exhaust shop elite ten";

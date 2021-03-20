@@ -1,1 +1,1 @@
-var mnemonic = "swift disorder marine also satisfy title arrive slam genius alone snow buzz";
+var mnemonic = "taxi expose egg sing travel artefact relax into kingdom vivid solution infant";

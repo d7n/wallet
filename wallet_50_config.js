@@ -1,1 +1,1 @@
-var mnemonic = "million scare language issue bean session sure sand pepper saddle entire fringe";
+var mnemonic = "area always armor skin caution ski screen alone future rail cricket shy";

@@ -1,1 +1,1 @@
-var mnemonic = "picture wing silk jacket memory game chimney jewel view attack yard left";
+var mnemonic = "injury polar parade rival rude they wrestle casino aspect false enjoy lucky";

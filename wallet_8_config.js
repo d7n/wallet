@@ -1,1 +1,1 @@
-var mnemonic = "holiday razor loan dawn wood mix arrange off congress neither mushroom curtain";
+var mnemonic = "egg giggle welcome require join next escape horror category they claim margin";

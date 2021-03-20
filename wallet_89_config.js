@@ -1,1 +1,1 @@
-var mnemonic = "bench fortune bridge diamond settle height select daughter depend swamp crush cloth";
+var mnemonic = "pull axis dance woman coach lake glove soldier foil car strategy next";

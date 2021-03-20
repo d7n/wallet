@@ -1,1 +1,1 @@
-var mnemonic = "column belt exile upset defense eager middle chat pudding math enter vacuum";
+var mnemonic = "maximum long use firm that dust thumb number lens frost youth vague";

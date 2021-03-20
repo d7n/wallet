@@ -1,1 +1,1 @@
-var mnemonic = "ramp display hybrid swing scrub attack asset viable unlock loan state certain";
+var mnemonic = "unfold outer fat jar name dignity include wear oil child six you";

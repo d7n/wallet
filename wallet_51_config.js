@@ -1,1 +1,1 @@
-var mnemonic = "praise team shiver opinion alpha expose bomb common answer replace strong chicken";
+var mnemonic = "prize person country sudden assault stick dial spirit umbrella decline process eyebrow";

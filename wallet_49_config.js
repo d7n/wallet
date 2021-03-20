@@ -1,1 +1,1 @@
-var mnemonic = "rich sword royal essence hello beauty wish essence scare slow lift usual";
+var mnemonic = "betray dust tone gentle version walnut sibling nation light drip pigeon cement";

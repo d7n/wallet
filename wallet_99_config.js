@@ -1,1 +1,1 @@
-var mnemonic = "shift adjust giraffe draw absorb army version expose furnace mammal lazy enroll";
+var mnemonic = "manage bulk cement dream course kangaroo dove afraid pave electric occur giraffe";

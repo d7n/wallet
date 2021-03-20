@@ -1,1 +1,1 @@
-var mnemonic = "priority west olympic twist surprise gap weapon sustain vacant collect sound near";
+var mnemonic = "earn ride great glide replace faculty sure market hole upset guilt bicycle";

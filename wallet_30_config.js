@@ -1,1 +1,1 @@
-var mnemonic = "century payment excuse simple mirror inject interest alert decade exhaust chunk garage";
+var mnemonic = "clap raise mass item cube violin height sell royal gold day still";

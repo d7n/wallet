@@ -1,1 +1,1 @@
-var mnemonic = "lyrics diagram invest mesh nut forget diary joy hammer fire lens stereo";
+var mnemonic = "patrol vapor raise egg blur rookie move canal kangaroo rude snack physical";

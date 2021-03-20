@@ -1,1 +1,1 @@
-var mnemonic = "credit tank salmon staff require jeans average unfair age describe scheme paper";
+var mnemonic = "fee silent float uncover tattoo often pluck isolate amazing pudding artist raw";

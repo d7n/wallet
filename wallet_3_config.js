@@ -1,1 +1,1 @@
-var mnemonic = "bomb swarm stamp lunar typical saddle basket case squeeze first desk arctic";
+var mnemonic = "amused unfold fruit guitar also point together segment noble bone venture symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch card adjust over layer random defense mobile near stable reflect when";
+var mnemonic = "curtain play desk west wing naive gas fox garment rocket loud humor";

@@ -1,1 +1,1 @@
-var mnemonic = "garment soda sting sauce float will off budget genuine left chalk usual";
+var mnemonic = "faint action leave bottom impose want cotton achieve achieve mouse bar pool";

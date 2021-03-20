@@ -1,1 +1,1 @@
-var mnemonic = "gather category flush boring arrest desk fury super truly artefact grant elite";
+var mnemonic = "miracle warrior loop autumn record topic load mean swap hero flight picture";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic piece fringe vacant oxygen resource theory ramp moment friend fresh book";
+var mnemonic = "satisfy monitor control input cactus three negative gasp rotate test toddler cost";

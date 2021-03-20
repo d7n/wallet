@@ -1,1 +1,1 @@
-var mnemonic = "family dirt jeans elbow name wagon have define alter repeat crush prosper";
+var mnemonic = "mammal worry brother hole awesome frozen only trash hand small meat element";

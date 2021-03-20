@@ -1,1 +1,1 @@
-var mnemonic = "correct broom pink asthma awake bridge special inner nest bounce chest boil";
+var mnemonic = "direct half sketch credit better scorpion narrow couple again borrow bulk alarm";

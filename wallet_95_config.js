@@ -1,1 +1,1 @@
-var mnemonic = "dose awful sail eternal soup lottery choice grocery half response merge goat";
+var mnemonic = "end bid sudden plastic flush describe lift purse pilot siren hawk wasp";

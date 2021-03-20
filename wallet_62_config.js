@@ -1,1 +1,1 @@
-var mnemonic = "erosion exclude inform order memory fringe oval blood fat pen employ object";
+var mnemonic = "hybrid diagram custom intact dumb pave original morning write grocery together virus";

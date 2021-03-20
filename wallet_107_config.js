@@ -1,1 +1,1 @@
-var mnemonic = "cost winner unique such crumble roast bubble elder desert oil still flight";
+var mnemonic = "permit duck safe inject profit chunk labor bench silver lock web rose";

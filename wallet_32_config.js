@@ -1,1 +1,1 @@
-var mnemonic = "jealous latin cash hawk margin link blue repeat cream verify pudding comfort";
+var mnemonic = "brother human hazard trigger crop fault field garage share grain spoon true";

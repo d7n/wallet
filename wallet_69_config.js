@@ -1,1 +1,1 @@
-var mnemonic = "circle able crunch token noble hurry chief layer network light unveil must";
+var mnemonic = "dry egg harvest solar silent pepper vault help print vivid craft note";

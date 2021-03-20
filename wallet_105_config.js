@@ -1,1 +1,1 @@
-var mnemonic = "rally fish slice unveil loud combine ski gift myth figure mountain august";
+var mnemonic = "erosion soldier frequent syrup off orphan eagle nose river nerve cover column";

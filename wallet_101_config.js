@@ -1,1 +1,1 @@
-var mnemonic = "dentist capable clever vacuum add grow tobacco vehicle increase scrub fluid grit";
+var mnemonic = "doctor pond club brush risk water credit puppy mad jeans ostrich column";

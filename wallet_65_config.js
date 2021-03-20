@@ -1,1 +1,1 @@
-var mnemonic = "taste robust often answer sun gaze panda want village feature scorpion little";
+var mnemonic = "only school story apart bid strategy elegant devote yellow chalk knife want";

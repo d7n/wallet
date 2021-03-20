@@ -1,1 +1,1 @@
-var mnemonic = "title dignity enact scene obscure clip ivory eyebrow favorite cabin boost tiny";
+var mnemonic = "together deny write energy crazy eager fragile lumber reform feed prefer unlock";

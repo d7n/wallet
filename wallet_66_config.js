@@ -1,1 +1,1 @@
-var mnemonic = "jelly area enact canyon jar thing empower round tone bid phone agent";
+var mnemonic = "reward tower coast alley that palm globe canyon flock people coin enjoy";

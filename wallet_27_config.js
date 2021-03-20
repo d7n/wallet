@@ -1,1 +1,1 @@
-var mnemonic = "brush leaf frequent rocket lady orange make pipe inner oak wife when";
+var mnemonic = "cloth mixture pond flee menu able endorse tourist drop hero series own";

@@ -1,1 +1,1 @@
-var mnemonic = "keep grid print economy prefer angle balcony toy blur deliver yard vapor";
+var mnemonic = "number health version success act bread black recall debate rebel argue ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon canyon pull across vessel announce fatal bread fence aisle undo hire";
+var mnemonic = "urban grain box magic divorce foam rent release remain tag north display";

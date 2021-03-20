@@ -1,1 +1,1 @@
-var mnemonic = "start neglect blast another insect skirt blossom country pulp toy crawl cook";
+var mnemonic = "wet this nut gift split high favorite discover lava own rough horror";

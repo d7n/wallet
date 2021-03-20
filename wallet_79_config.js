@@ -1,1 +1,1 @@
-var mnemonic = "pink wagon gap strike private supreme canyon post chapter pipe thumb jazz";
+var mnemonic = "crystal scrap arrest second blur gown funny range region brick hungry indoor";

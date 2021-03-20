@@ -1,1 +1,1 @@
-var mnemonic = "critic thing cradle sorry symbol polar track speak change bus jump canoe";
+var mnemonic = "runway gospel exhibit innocent vivid mosquito eight antique purchase love sugar kind";

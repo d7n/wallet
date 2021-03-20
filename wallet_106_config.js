@@ -1,1 +1,1 @@
-var mnemonic = "depend scan cinnamon valve embody wink south jacket purchase raise practice denial";
+var mnemonic = "health body motion regular mystery edit margin battle humor ankle match artist";

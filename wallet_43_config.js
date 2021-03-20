@@ -1,1 +1,1 @@
-var mnemonic = "magic cement van pear apology stove ship cattle frown ritual dog patrol";
+var mnemonic = "silent scrap floor floor sketch absent elder force kingdom mixture will stage";

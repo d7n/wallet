@@ -1,1 +1,1 @@
-var mnemonic = "tiger pigeon museum lottery host install decorate organ heart memory slide pulse";
+var mnemonic = "edit session able wall clown army fragile music shrug witness hurry north";

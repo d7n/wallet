@@ -1,1 +1,1 @@
-var mnemonic = "vacuum tribe key come kite north soon talk dwarf script snow stay";
+var mnemonic = "boss trash feature payment frozen across paddle fragile resist across pony ten";

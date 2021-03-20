@@ -1,1 +1,1 @@
-var mnemonic = "echo comic artwork broom give enable afraid planet skirt into draw bring";
+var mnemonic = "fault estate utility this radar concert limb proof shaft vapor agent repair";

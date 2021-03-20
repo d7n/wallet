@@ -1,1 +1,1 @@
-var mnemonic = "autumn lemon next festival elevator age bunker slender echo video surge razor";
+var mnemonic = "ill also donor chase great orphan kiwi spell fly furnace search calm";

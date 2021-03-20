@@ -1,1 +1,1 @@
-var mnemonic = "fury gain nuclear access sight slide review bottom uncover brisk own then";
+var mnemonic = "review burger settle execute blush lecture base gold carpet tobacco camera garbage";

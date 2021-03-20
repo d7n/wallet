@@ -1,1 +1,1 @@
-var mnemonic = "buzz blame mail lizard path mask door else print wrap cream shoulder";
+var mnemonic = "junk flee jewel assault lamp blur attract appear kit employ usual cupboard";

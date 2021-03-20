@@ -1,1 +1,1 @@
-var mnemonic = "inform rookie wrong tube add opinion when bright soul swift reform rubber";
+var mnemonic = "rack picnic industry please grace jacket degree lottery mutual circle own initial";

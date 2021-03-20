@@ -1,1 +1,1 @@
-var mnemonic = "poem universe winter title omit champion hazard frequent photo insect school grit";
+var mnemonic = "robust diagram magnet jaguar daughter teach summer knife split guess host flavor";

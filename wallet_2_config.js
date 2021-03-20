@@ -1,1 +1,1 @@
-var mnemonic = "logic lake jar employ airport smile village either wink chunk sister panel";
+var mnemonic = "gadget surprise identify frown start cruel fee amazing room crash account comfort";

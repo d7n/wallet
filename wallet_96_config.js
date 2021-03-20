@@ -1,1 +1,1 @@
-var mnemonic = "head outdoor anchor early twist universe credit judge choose field audit blue";
+var mnemonic = "whip place embark unit crowd piano genuine indoor space develop audit wild";

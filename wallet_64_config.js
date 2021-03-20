@@ -1,1 +1,1 @@
-var mnemonic = "mandate song battle payment visit slim office merit mule team width behave";
+var mnemonic = "screen theme soul doll tourist true photo anchor ethics weekend hurdle curtain";

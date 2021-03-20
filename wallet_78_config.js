@@ -1,1 +1,1 @@
-var mnemonic = "artwork depth adjust melody bottom gain differ witness ensure enact shell hybrid";
+var mnemonic = "water nurse emerge satisfy flee normal slot bulk found salmon badge tunnel";

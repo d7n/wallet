@@ -1,1 +1,1 @@
-var mnemonic = "divorce slam lab carpet swarm risk awkward dwarf grid gain green have";
+var mnemonic = "wheel half swing fashion duck message radio isolate throw youth worth grow";

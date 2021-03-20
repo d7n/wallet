@@ -1,1 +1,1 @@
-var mnemonic = "unusual welcome boy zebra replace soldier home web mechanic secret three twin";
+var mnemonic = "divert side dwarf disease stamp fetch current outdoor galaxy kangaroo clay staff";

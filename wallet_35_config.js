@@ -1,1 +1,1 @@
-var mnemonic = "couch choice toy broccoli crane work angry artwork claim whip coin warrior";
+var mnemonic = "pilot oppose almost erupt grace debate vault sign capital screen hint cheese";

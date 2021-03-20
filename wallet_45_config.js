@@ -1,1 +1,1 @@
-var mnemonic = "law alpha student legal rural wire village hollow essay panda sight drive";
+var mnemonic = "you bamboo obvious enact girl dish hover inject ugly face learn evidence";

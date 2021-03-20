@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin what fresh pony success purse argue horror awkward club ship lawsuit";
+var mnemonic = "field miracle prepare shove anchor soccer first session lyrics zero joke endorse";

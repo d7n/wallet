@@ -1,1 +1,1 @@
-var mnemonic = "salmon imitate useless canoe lake fun potato garment rate museum between chicken";
+var mnemonic = "nature gospel catalog flip song story twenty spring turtle diamond urban great";

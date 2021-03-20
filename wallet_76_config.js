@@ -1,1 +1,1 @@
-var mnemonic = "yellow total double thought train pole alien kingdom wide romance van fresh";
+var mnemonic = "uniform elevator current pumpkin six donkey mixture maximum ball creek curve siren";

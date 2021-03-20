@@ -1,1 +1,1 @@
-var mnemonic = "impose clutch hip urban picture crater naive minimum together oven right exile";
+var mnemonic = "media prefer daring rebel arrow beyond enter rail brief explain match lend";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose novel champion upper mean oak setup dish glance home salt bean";
+var mnemonic = "noise matter setup joy sound script scorpion enough brain sea slide casino";

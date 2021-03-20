@@ -1,1 +1,1 @@
-var mnemonic = "room riot sibling whisper expire farm muffin major draft abstract purse crazy";
+var mnemonic = "shove dress van jar steak make moon lock lab screen harsh hood";

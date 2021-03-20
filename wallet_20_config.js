@@ -1,1 +1,1 @@
-var mnemonic = "wolf predict city myself mad license comfort time assist hockey steak title";
+var mnemonic = "cousin work summer blossom tuition season risk above velvet song beef only";

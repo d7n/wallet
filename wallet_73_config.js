@@ -1,1 +1,1 @@
-var mnemonic = "property fade ignore shield thank net small voyage stage faint oyster fan";
+var mnemonic = "crew skate injury journey flight ceiling collect base lion fatigue lens people";

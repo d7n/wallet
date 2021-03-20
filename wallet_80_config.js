@@ -1,1 +1,1 @@
-var mnemonic = "wealth pigeon initial magnet attract toe arrow extend sketch member panther usual";
+var mnemonic = "ramp duck arch setup hover century cup one narrow guard excite laundry";

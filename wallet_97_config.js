@@ -1,1 +1,1 @@
-var mnemonic = "sibling fury banner echo misery entire random kick crisp zoo code frog";
+var mnemonic = "laugh abstract degree code stadium home develop vote chaos unknown system reopen";

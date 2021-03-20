@@ -1,1 +1,1 @@
-var mnemonic = "please loyal wave obvious twelve decline special blossom woman ensure stick balance";
+var mnemonic = "release home thank pen promote carbon bounce cash among fatigue birth toddler";
