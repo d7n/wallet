@@ -1,1 +1,1 @@
-var mnemonic = "banner core box review unveil uphold approve inhale oak ticket private pen";
+var mnemonic = "frozen mind enough dragon reason walk brave fetch eye zero machine response";

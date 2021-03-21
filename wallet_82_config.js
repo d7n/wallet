@@ -1,1 +1,1 @@
-var mnemonic = "daring essay carpet stay ceiling inquiry session virus deliver foil only swallow";
+var mnemonic = "bomb lunar breeze common evolve juice height super plug hawk goose deliver";

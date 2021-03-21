@@ -1,1 +1,1 @@
-var mnemonic = "card cancel toast physical rival frozen stable order sample truly myth joke";
+var mnemonic = "reward donor tonight file embark actress fee deal lock you alcohol amazing";

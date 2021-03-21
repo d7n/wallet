@@ -1,1 +1,1 @@
-var mnemonic = "solve brother unfair beef dragon credit march fatal virus pause isolate flee";
+var mnemonic = "divorce young hair penalty page phone captain sand interest transfer loop hurry";

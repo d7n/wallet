@@ -1,1 +1,1 @@
-var mnemonic = "stone fence basket physical hobby bring sting clog federal doctor captain labor";
+var mnemonic = "setup exhibit visit wear spot decline slim pave split obvious casino album";

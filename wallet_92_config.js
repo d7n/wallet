@@ -1,1 +1,1 @@
-var mnemonic = "sheriff social weapon hazard pet huge horn village dawn raw curious deposit";
+var mnemonic = "agent note execute twice tree trigger sample excite pipe abandon nest endless";

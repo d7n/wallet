@@ -1,1 +1,1 @@
-var mnemonic = "powder glimpse escape helmet unit catalog rubber nut dismiss gravity inmate timber";
+var mnemonic = "furnace table urban document guard winter ring crime fantasy glove october assume";

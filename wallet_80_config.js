@@ -1,1 +1,1 @@
-var mnemonic = "garden company review lumber couch rude boring scrap chapter urge benefit best";
+var mnemonic = "observe allow tortoise defy ethics electric employ success adapt emerge theme rude";

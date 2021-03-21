@@ -1,1 +1,1 @@
-var mnemonic = "polar elephant reunion dismiss cost real wet private view rail knock guitar";
+var mnemonic = "voyage husband relief mercy inflict place coffee object purse wheel minimum capable";

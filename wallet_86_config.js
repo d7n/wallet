@@ -1,1 +1,1 @@
-var mnemonic = "about blind sad high magic among surprise pole carry chaos rubber original";
+var mnemonic = "quarter swear grace elite armor tank hope cricket pigeon spider program distance";

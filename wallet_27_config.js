@@ -1,1 +1,1 @@
-var mnemonic = "attract labor crumble require cream shrug alpha swear daring grape vanish rose";
+var mnemonic = "test poet arrange company renew pond infant safe month crisp innocent strategy";

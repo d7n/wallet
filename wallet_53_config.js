@@ -1,1 +1,1 @@
-var mnemonic = "attend print ribbon vague item walnut health toast helmet glow just relax";
+var mnemonic = "inject behave stadium display retreat carbon size detect shiver pause swap brave";

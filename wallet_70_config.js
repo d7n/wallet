@@ -1,1 +1,1 @@
-var mnemonic = "hockey buzz crumble wood pigeon bronze ecology kangaroo hawk crater clutch they";
+var mnemonic = "foam inject waste give occur deer fat kangaroo until nation giraffe unaware";

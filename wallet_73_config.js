@@ -1,1 +1,1 @@
-var mnemonic = "say liberty picnic test fork rain sight dance axis aspect stove release";
+var mnemonic = "wonder indicate note car ranch exile flower hurt priority donate creek runway";

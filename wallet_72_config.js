@@ -1,1 +1,1 @@
-var mnemonic = "swear jewel blouse feed welcome inside sad leisure absurd margin rotate waste";
+var mnemonic = "acquire text slab enable face saddle material stadium canal imitate undo author";

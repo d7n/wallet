@@ -1,1 +1,1 @@
-var mnemonic = "similar forward camp sudden fame vague elegant twice beauty ranch rule drop";
+var mnemonic = "ability dynamic better sweet claw spider remember canyon remember drama pole raw";

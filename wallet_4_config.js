@@ -1,1 +1,1 @@
-var mnemonic = "ring few absorb frost elegant grace fortune baby stove bacon must process";
+var mnemonic = "welcome suit smooth cash rib uncle keep coral rescue catch alone error";

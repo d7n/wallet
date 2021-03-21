@@ -1,1 +1,1 @@
-var mnemonic = "must ketchup town neutral source dream slow torch margin main saddle edge";
+var mnemonic = "drip enrich genre soda volcano enter salute rug base clever dove install";

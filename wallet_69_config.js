@@ -1,1 +1,1 @@
-var mnemonic = "glance happy document hill practice outside guide skirt mom forward name very";
+var mnemonic = "youth kiss inflict side carry bargain panic night main glance image spray";

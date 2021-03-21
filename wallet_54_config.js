@@ -1,1 +1,1 @@
-var mnemonic = "symptom crystal super hurry season strong hybrid acid swallow marble onion finger";
+var mnemonic = "peace tooth movie soda bulk garlic series risk way insect control live";

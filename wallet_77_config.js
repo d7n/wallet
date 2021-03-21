@@ -1,1 +1,1 @@
-var mnemonic = "upset afford expire face foot risk kite fashion ready duck want dizzy";
+var mnemonic = "exclude find donor puzzle program connect crystal reward fluid time success hour";

@@ -1,1 +1,1 @@
-var mnemonic = "afford animal jar insect stick short door upon mule sad devote end";
+var mnemonic = "repair waste miss unknown fashion danger icon normal chair immense okay alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "theme regret guess force frozen enrich post just metal giggle absurd motor";
+var mnemonic = "wrap team vivid embrace faith raccoon sweet color give person cruise hockey";

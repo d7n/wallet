@@ -1,1 +1,1 @@
-var mnemonic = "pave job depend wrestle twelve animal stamp narrow scare snake girl plunge";
+var mnemonic = "laundry earth spare leg desk scorpion sight gloom wonder rib history holiday";

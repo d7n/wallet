@@ -1,1 +1,1 @@
-var mnemonic = "urban coyote luxury crush topic torch warrior shadow trial merge impulse milk";
+var mnemonic = "shine town cat oxygen vicious chimney mango pride nurse cross crack mask";

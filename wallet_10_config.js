@@ -1,1 +1,1 @@
-var mnemonic = "lock fury silk lawn mail umbrella cram unveil indoor seek business hurdle";
+var mnemonic = "grape hour join damp ramp aspect unit better canal ribbon alpha sorry";

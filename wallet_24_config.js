@@ -1,1 +1,1 @@
-var mnemonic = "borrow hobby level discover club cute hour kitten park exhaust cross struggle";
+var mnemonic = "submit steel hero sock wrap gold warrior unable angle accident system economy";

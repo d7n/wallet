@@ -1,1 +1,1 @@
-var mnemonic = "test gift income come foam about warfare pen lesson cross inmate gather";
+var mnemonic = "cruel slice remove dice inside index response congress empty fresh ankle bunker";

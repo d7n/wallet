@@ -1,1 +1,1 @@
-var mnemonic = "else pumpkin lens enough digital cram bicycle river want milk mandate bulk";
+var mnemonic = "fine diesel mandate wing crew shrug perfect wonder sport oil acquire flush";

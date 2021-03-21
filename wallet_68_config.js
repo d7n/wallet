@@ -1,1 +1,1 @@
-var mnemonic = "gold tribe chronic solution engage term luxury spy cattle uniform avocado hollow";
+var mnemonic = "pigeon enter equal explain popular uncle special program famous room lab battle";

@@ -1,1 +1,1 @@
-var mnemonic = "infant olive dune battle beauty chronic walnut horn antique dice curious inject";
+var mnemonic = "jump charge blur useless drive hurt happy notice country people gauge athlete";

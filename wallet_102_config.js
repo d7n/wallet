@@ -1,1 +1,1 @@
-var mnemonic = "cube piece vintage click around illegal survey easy rose hire issue income";
+var mnemonic = "moral major build jealous census vault enrich denial narrow bicycle tail sure";

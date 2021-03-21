@@ -1,1 +1,1 @@
-var mnemonic = "gallery shiver snap lunch equal track check describe join permit pigeon guide";
+var mnemonic = "hybrid volume below repair shaft rally coach giggle reunion timber search total";

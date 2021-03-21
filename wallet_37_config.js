@@ -1,1 +1,1 @@
-var mnemonic = "idea arrest giggle portion hurdle myth poem vital tortoise festival nephew vessel";
+var mnemonic = "track upon message list employ alley coffee bounce aim erase shed slush";

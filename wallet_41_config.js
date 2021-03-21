@@ -1,1 +1,1 @@
-var mnemonic = "sister anger maid jacket couple ancient cricket evil winner lady hidden permit";
+var mnemonic = "pink matrix room can sock tiger where marble other unit crane tackle";

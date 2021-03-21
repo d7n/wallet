@@ -1,1 +1,1 @@
-var mnemonic = "legal scissors detail settle curve anger wheel silly fortune trick candy powder";
+var mnemonic = "wage remove cabbage exotic protect pepper excite output tribe speak wonder quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "relax bicycle salt bounce yard mimic evoke nasty proof party canal apple";
+var mnemonic = "uncle group grass motor sadness bundle year false pulse cause virtual inhale";

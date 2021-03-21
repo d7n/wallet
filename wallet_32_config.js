@@ -1,1 +1,1 @@
-var mnemonic = "city mean coyote disorder robot hen clip indicate father segment buffalo dish";
+var mnemonic = "valley height suggest final clutch thrive noodle joke six canal uncover tooth";

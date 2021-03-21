@@ -1,1 +1,1 @@
-var mnemonic = "receive space duty love run grant symptom length metal decline exist orient";
+var mnemonic = "space wine neck wish coast explain call hungry father winter mountain hybrid";

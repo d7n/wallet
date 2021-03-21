@@ -1,1 +1,1 @@
-var mnemonic = "easily fringe length veteran stamp expose together tongue warfare submit salt shield";
+var mnemonic = "typical gentle burden warfare mechanic reason aim tray fringe pull unveil sphere";

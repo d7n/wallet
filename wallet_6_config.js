@@ -1,1 +1,1 @@
-var mnemonic = "harsh claw village shed panel polar sustain exercise tilt cruise merit marble";
+var mnemonic = "nasty around curtain image stomach peace immune shift toe glow misery vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue leisure obey great umbrella repair acid attack wall reunion matter scene";
+var mnemonic = "index swarm home shell barely unknown tomorrow pilot school thrive victory focus";

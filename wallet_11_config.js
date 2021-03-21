@@ -1,1 +1,1 @@
-var mnemonic = "fluid thank drama sibling piano ecology love hospital universe entire glory soon";
+var mnemonic = "ignore human bottom silly beef boss kiss library journey spell salute chase";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid demand annual alter ostrich science stable crawl few carpet couple island";
+var mnemonic = "start peanut three fitness option office piece tell dizzy swift canal honey";

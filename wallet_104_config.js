@@ -1,1 +1,1 @@
-var mnemonic = "fetch question oblige stock enforce broccoli absurd tortoise owner equal tonight soul";
+var mnemonic = "wealth hard appear trend rich walnut cliff cactus priority notable hour twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "cake slow swing ready nose grape fantasy stomach will yellow voice wet";
+var mnemonic = "impact yard sibling chimney category enroll burden rent survey secret pottery purpose";

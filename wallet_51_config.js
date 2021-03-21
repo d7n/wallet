@@ -1,1 +1,1 @@
-var mnemonic = "share hood process blouse honey razor tool shadow army zero divert explain";
+var mnemonic = "welcome distance tip proof hip veteran sugar rack stamp when blame unknown";

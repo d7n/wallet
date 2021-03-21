@@ -1,1 +1,1 @@
-var mnemonic = "pride better toss armed bulb notable glue globe eagle three surface hover";
+var mnemonic = "solution control isolate innocent apart fatal vague trophy insect recycle dune brother";

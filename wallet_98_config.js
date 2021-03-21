@@ -1,1 +1,1 @@
-var mnemonic = "crystal pond fortune moral roast apple frequent artwork grass tilt assault wisdom";
+var mnemonic = "father panther win maid flee desk electric echo repeat august endorse lawn";

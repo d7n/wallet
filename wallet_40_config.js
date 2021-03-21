@@ -1,1 +1,1 @@
-var mnemonic = "stone change hope movie forest motion actual payment change hobby stone muscle";
+var mnemonic = "oven clever addict better solid wisdom act anchor satisfy impact pave write";

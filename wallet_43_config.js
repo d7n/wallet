@@ -1,1 +1,1 @@
-var mnemonic = "happy tonight timber domain run stuff profit luxury action slender chair tattoo";
+var mnemonic = "long solar peasant mix arrow vibrant bleak either autumn renew sight smile";

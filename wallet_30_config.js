@@ -1,1 +1,1 @@
-var mnemonic = "initial breeze damage impose save prepare stairs pitch warrior require cry boring";
+var mnemonic = "science middle raw parrot label symbol observe grab wage call black laptop";

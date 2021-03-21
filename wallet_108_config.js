@@ -1,1 +1,1 @@
-var mnemonic = "bamboo memory mixed remember typical type lamp sand twelve mad just notable";
+var mnemonic = "breeze base pony chapter apart someone exclude horror build enact female peanut";

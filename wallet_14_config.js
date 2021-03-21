@@ -1,1 +1,1 @@
-var mnemonic = "vapor magic spread cereal define sing large side envelope connect object myself";
+var mnemonic = "master waste laundry flat certain art pull okay prison tackle magnet insect";

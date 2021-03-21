@@ -1,1 +1,1 @@
-var mnemonic = "divorce liquid lens leopard vague all hat exchange leg march silk depart";
+var mnemonic = "view quarter spirit novel library unknown aware net already nurse practice lottery";

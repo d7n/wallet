@@ -1,1 +1,1 @@
-var mnemonic = "circle trend section cargo guitar flee train silk symbol crowd ugly crowd";
+var mnemonic = "chef gap crawl inmate thunder sample derive warfare damp mansion essay review";

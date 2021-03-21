@@ -1,1 +1,1 @@
-var mnemonic = "layer monkey rally demise marriage pluck swing candy island harbor engage raven";
+var mnemonic = "barrel witness gaze base fatal tonight hurt balcony fee fold spirit stock";

@@ -1,1 +1,1 @@
-var mnemonic = "floor culture fatigue cabin wash van stock bleak brand farm bleak lesson";
+var mnemonic = "dress canyon neutral rally project caution blur scale raw course hotel knife";

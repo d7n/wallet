@@ -1,1 +1,1 @@
-var mnemonic = "satoshi chronic spider claw mind trophy confirm thing inmate female tilt lunch";
+var mnemonic = "way pony neck remove flush shove congress foam girl autumn lock vivid";

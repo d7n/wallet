@@ -1,1 +1,1 @@
-var mnemonic = "achieve laugh test glare vital exclude reunion mixed great pause exist lemon";
+var mnemonic = "ozone saddle twist target flag confirm soft horror guard medal danger crack";

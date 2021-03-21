@@ -1,1 +1,1 @@
-var mnemonic = "match visa squirrel giggle manual eight fatigue vehicle cross drum sibling employ";
+var mnemonic = "rebel mother prize banana improve among clown local gossip busy junk grass";

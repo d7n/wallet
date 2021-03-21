@@ -1,1 +1,1 @@
-var mnemonic = "boat lake mask butter budget diet report service panel true assist dose";
+var mnemonic = "anxiety concert marble hazard state wage autumn ball elbow pen category neutral";

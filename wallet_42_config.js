@@ -1,1 +1,1 @@
-var mnemonic = "twice total excite truth nephew loud boost cliff satisfy spend slush congress";
+var mnemonic = "client gesture crop frost phone elevator hockey paddle verify topic rate game";

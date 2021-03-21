@@ -1,1 +1,1 @@
-var mnemonic = "dizzy idle eight glory fix tooth snake differ balcony odor all slam";
+var mnemonic = "expect credit physical enact deny angry lady display symbol impose sight column";

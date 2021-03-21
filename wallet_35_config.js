@@ -1,1 +1,1 @@
-var mnemonic = "oil melody sorry biology nurse receive flavor drip scheme boil return tenant";
+var mnemonic = "fame runway voyage cricket bench trip comfort oven merge wise noble donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "drum express radar observe push globe typical loyal field whisper leaf cloud";
+var mnemonic = "zone wine acid original inmate clever quote strike tide trust august mention";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer throw state rice taste clump gossip coil master rice dragon recall";
+var mnemonic = "secret coffee flock nominee twin enemy such unveil dog execute split cat";

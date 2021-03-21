@@ -1,1 +1,1 @@
-var mnemonic = "skill soap media lumber ancient load beauty renew salt exotic marble quality";
+var mnemonic = "bunker firm awake spy certain tornado flavor conduct rich diamond ticket sphere";

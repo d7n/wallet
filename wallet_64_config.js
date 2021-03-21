@@ -1,1 +1,1 @@
-var mnemonic = "crunch wise tooth actual sausage crew essay scrub bitter defense borrow child";
+var mnemonic = "federal hold target muscle steak cat fiber join cotton train mushroom calm";

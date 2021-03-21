@@ -1,1 +1,1 @@
-var mnemonic = "hurry menu pilot fury gun rent address three best snow debate kingdom";
+var mnemonic = "raccoon medal wait affair torch ranch coast pipe grid board large yard";

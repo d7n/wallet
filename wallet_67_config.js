@@ -1,1 +1,1 @@
-var mnemonic = "lesson true olive lucky change era soft elephant expand dignity before gather";
+var mnemonic = "bargain all drip pond fence among crack custom shock cool pistol skin";

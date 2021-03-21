@@ -1,1 +1,1 @@
-var mnemonic = "equal hair scale friend assault narrow twist when involve man yard once";
+var mnemonic = "bright beef trumpet winter safe laptop expose leader viable image debate clump";

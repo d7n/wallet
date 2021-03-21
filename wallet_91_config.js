@@ -1,1 +1,1 @@
-var mnemonic = "siren upon track ask gift soldier travel melody metal stock onion spend";
+var mnemonic = "situate rely issue wheel local absorb force choose garden salad change entry";

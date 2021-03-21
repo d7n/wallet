@@ -1,1 +1,1 @@
-var mnemonic = "replace enhance dose car vote room old mango hold tonight snack friend";
+var mnemonic = "public faint gravity yard peanut hood grocery thumb blame garden sphere roof";

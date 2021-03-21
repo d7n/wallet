@@ -1,1 +1,1 @@
-var mnemonic = "wage barrel clinic remove hill legend useless forest local allow silly field";
+var mnemonic = "turn seven inquiry another burden best they era abandon bundle emotion seek";

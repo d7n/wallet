@@ -1,1 +1,1 @@
-var mnemonic = "vast fitness nation cave hurdle evoke news eternal sheriff bleak uncle noble";
+var mnemonic = "beef essay bronze sweet siren chat motion accident remove swamp chronic stay";

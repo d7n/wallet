@@ -1,1 +1,1 @@
-var mnemonic = "gift dismiss lunar act satoshi visa you artwork matter news imitate chaos";
+var mnemonic = "thought ski tail youth mass kidney clarify panic help panel spatial pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "glance fatigue exercise usage refuse surface diamond identify rough walnut place charge";
+var mnemonic = "scale wagon hover dog tilt absurd round city climb view adapt biology";

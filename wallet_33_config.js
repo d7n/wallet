@@ -1,1 +1,1 @@
-var mnemonic = "lazy sunset surge audit ecology vehicle decide vendor parrot priority mask survey";
+var mnemonic = "black script phone census eye design feature assault embark stand tip coach";

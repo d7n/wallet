@@ -1,1 +1,1 @@
-var mnemonic = "banner panel produce smart father crowd good regret crane critic shiver river";
+var mnemonic = "imitate drastic alcohol cycle alarm net chalk raven mammal sweet staff image";

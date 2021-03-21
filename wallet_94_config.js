@@ -1,1 +1,1 @@
-var mnemonic = "silly correct mushroom impact author change dignity dad swift erupt snow credit";
+var mnemonic = "garden praise endless term lunch vague cake banana occur theory mammal dolphin";

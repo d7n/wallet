@@ -1,1 +1,1 @@
-var mnemonic = "method fiscal bundle guard black sniff disagree idle egg illegal grab furnace";
+var mnemonic = "envelope wear question snap leaf relief pull cram mushroom bring wonder cable";

@@ -1,1 +1,1 @@
-var mnemonic = "law immense wood bicycle beauty embody skill abuse spare image steel flock";
+var mnemonic = "letter input party alarm jazz raccoon local fault midnight able hover hurdle";

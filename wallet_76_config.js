@@ -1,1 +1,1 @@
-var mnemonic = "sell jealous number buffalo expose test rich camera leisure glance tiger flush";
+var mnemonic = "where pool expose embark wear wink bean toss morning bitter siren drink";

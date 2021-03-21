@@ -1,1 +1,1 @@
-var mnemonic = "stem autumn green salmon proof stereo duck valid board help eight cry";
+var mnemonic = "shoe aerobic pigeon arrow surprise actress hazard opera credit lift crawl trial";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend pact forget genuine cigar finish search act patrol wrist light normal";
+var mnemonic = "early drip route worth label day captain wisdom stumble rare connect attend";

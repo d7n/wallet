@@ -1,1 +1,1 @@
-var mnemonic = "universe dove fluid develop current owner clock evolve sample desert sun dwarf";
+var mnemonic = "elephant country muscle kidney tube picnic lumber humor hunt lobster power end";

@@ -1,1 +1,1 @@
-var mnemonic = "cable detail useless fringe illegal gesture mountain bronze weird oyster source hour";
+var mnemonic = "industry bus slogan empower dune test invite praise flat chaos enact impact";

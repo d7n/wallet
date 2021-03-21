@@ -1,1 +1,1 @@
-var mnemonic = "project voyage mask opera cry portion prison tackle boy carry cluster phone";
+var mnemonic = "property spend profit slide later bean deny athlete giant asthma police polar";

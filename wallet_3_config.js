@@ -1,1 +1,1 @@
-var mnemonic = "sea upset type pudding sword someone become elephant fabric swim space hub";
+var mnemonic = "cabin bullet unaware cancel camera picnic issue scorpion wire cover plug toe";
