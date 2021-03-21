@@ -1,1 +1,1 @@
-var mnemonic = "pride isolate exit enter execute furnace tunnel price material deal honey jeans";
+var mnemonic = "fitness ankle surge profit mobile hold surprise surprise cross february cube balcony";

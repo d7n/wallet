@@ -1,1 +1,1 @@
-var mnemonic = "vapor hawk weather lyrics trip gaze drama alcohol cradle crazy hour muscle";
+var mnemonic = "slab spoon combine height half hub despair size spray talent print thumb";

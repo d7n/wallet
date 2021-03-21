@@ -1,1 +1,1 @@
-var mnemonic = "session doctor mix obvious marine ride stable fatigue door account camera castle";
+var mnemonic = "practice faith pony magic defense elbow place giggle erosion paper fox beach";

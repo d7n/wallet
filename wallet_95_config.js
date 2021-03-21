@@ -1,1 +1,1 @@
-var mnemonic = "foil family digital salon tonight gift actor add slogan emerge volcano museum";
+var mnemonic = "health satisfy expand erase this anchor property just confirm sibling chronic dragon";

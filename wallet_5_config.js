@@ -1,1 +1,1 @@
-var mnemonic = "field enlist summer venue atom lesson travel episode spawn grant airport element";
+var mnemonic = "special race stamp current enjoy mandate another device vote lift accuse impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "venue plastic only round solar error acoustic fury theory exhibit claw verify";
+var mnemonic = "opera place enlist direct brass uncover adjust pill faculty similar island step";

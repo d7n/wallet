@@ -1,1 +1,1 @@
-var mnemonic = "guide flee term lobster way sound salt casino spirit awful pepper humor";
+var mnemonic = "cover meadow loan roof moment sound jewel bleak spread behind destroy peace";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate prefer palace burst paddle vital siege ceiling copy panic deer crime";
+var mnemonic = "bunker mind pole romance blood tattoo vibrant control carbon seat blanket pretty";

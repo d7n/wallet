@@ -1,1 +1,1 @@
-var mnemonic = "toy peasant differ feel senior pig relief cover popular utility devote merge";
+var mnemonic = "come crucial account rice boss talk wall core popular unfold viable stable";

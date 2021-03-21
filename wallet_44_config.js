@@ -1,1 +1,1 @@
-var mnemonic = "indoor lumber egg nasty multiply tube quarter able senior curious patrol warrior";
+var mnemonic = "trophy garbage deny because december demand father chronic mandate twin turkey flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "extra witness age solution alien mistake repair inquiry hungry child input airport";
+var mnemonic = "love anchor dizzy goat move milk sense control engage meat ranch will";

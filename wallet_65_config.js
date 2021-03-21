@@ -1,1 +1,1 @@
-var mnemonic = "tribe satisfy wing cause story elegant settle position swing position cheap axis";
+var mnemonic = "wrestle slide case blue vanish arrow truth virtual section swim lamp coach";

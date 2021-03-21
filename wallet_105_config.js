@@ -1,1 +1,1 @@
-var mnemonic = "damp scare dove middle frost cradle scissors anger spawn group random shed";
+var mnemonic = "pause birth bounce panel proof honey sock juice large mouse tomorrow silent";

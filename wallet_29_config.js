@@ -1,1 +1,1 @@
-var mnemonic = "exile insane earn element anxiety year action awesome fever safe stomach fame";
+var mnemonic = "hammer vault insect pilot plate hungry correct mouse tail behave acoustic gaze";

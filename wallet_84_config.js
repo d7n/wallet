@@ -1,1 +1,1 @@
-var mnemonic = "satisfy civil milk same virus trial unveil salmon palm review kidney relief";
+var mnemonic = "slot budget myth primary curious chunk hidden bicycle logic style visit decline";

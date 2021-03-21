@@ -1,1 +1,1 @@
-var mnemonic = "cost sibling still asthma glove entire elbow point exact furnace rubber arm";
+var mnemonic = "lazy unfold nephew amateur elbow used oval state sphere outside summer because";

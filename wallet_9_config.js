@@ -1,1 +1,1 @@
-var mnemonic = "oak excuse chief dizzy chaos camp kangaroo material wool flash actual system";
+var mnemonic = "frozen uniform blast symptom warfare struggle frequent tattoo jewel absurd increase side";

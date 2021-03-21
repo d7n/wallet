@@ -1,1 +1,1 @@
-var mnemonic = "close call shoe athlete spray fortune silk fit ceiling cradle town asset";
+var mnemonic = "exhibit sauce this razor absurd infant decorate inhale guilt relax chase shadow";

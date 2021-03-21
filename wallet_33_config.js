@@ -1,1 +1,1 @@
-var mnemonic = "girl cool reward liar match wine bird dress wage bottom magnet sketch";
+var mnemonic = "want together excuse letter apart surge razor unlock income luggage cat category";

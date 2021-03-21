@@ -1,1 +1,1 @@
-var mnemonic = "amount rug motor hawk grape sound provide endless royal another oyster shed";
+var mnemonic = "survey umbrella alcohol vocal city canal fat wave ice riot entire carpet";

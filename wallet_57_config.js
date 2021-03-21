@@ -1,1 +1,1 @@
-var mnemonic = "legend web suffer supply cereal cup cost mobile guilt burger toward champion";
+var mnemonic = "amount inject parrot wait will shield supply wink chuckle sign alone super";

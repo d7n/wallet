@@ -1,1 +1,1 @@
-var mnemonic = "price despair maid lazy book abstract pill diary early bubble they exit";
+var mnemonic = "climb clump solve annual lift screen accident swap talent hello safe blast";

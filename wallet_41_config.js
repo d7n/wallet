@@ -1,1 +1,1 @@
-var mnemonic = "glory scare obtain umbrella view naive method cargo miracle butter prison vital";
+var mnemonic = "sun series foster tiny check umbrella nation shiver proof wagon minimum void";

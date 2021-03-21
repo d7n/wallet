@@ -1,1 +1,1 @@
-var mnemonic = "develop merry divert finger risk menu describe vintage file romance leopard ability";
+var mnemonic = "party rug fitness nuclear anchor wonder coast round wash asthma across sudden";

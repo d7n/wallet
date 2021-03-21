@@ -1,1 +1,1 @@
-var mnemonic = "away spoon man whip gold spread cliff neither scissors genius issue kidney";
+var mnemonic = "all tomorrow meat boat gauge fever stable much abandon mansion call heavy";

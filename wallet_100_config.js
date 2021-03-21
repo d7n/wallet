@@ -1,1 +1,1 @@
-var mnemonic = "like gallery action acid monkey change rival valid woman cart coconut globe";
+var mnemonic = "snake alert dial trouble cannon maid double easy dad rebuild tray hurt";

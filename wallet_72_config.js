@@ -1,1 +1,1 @@
-var mnemonic = "enter toss swear mystery bird similar require margin barrel emotion strong tomato";
+var mnemonic = "leader renew catch turtle fresh moral river later ten exercise output spray";

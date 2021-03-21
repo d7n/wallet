@@ -1,1 +1,1 @@
-var mnemonic = "version hat access today wife where impulse capable return script height exotic";
+var mnemonic = "educate protect acid salmon dry labor open ugly eagle ritual smart model";

@@ -1,1 +1,1 @@
-var mnemonic = "soap ordinary rocket shrimp safe tiger poem orbit affair marriage street pyramid";
+var mnemonic = "turkey odor equal glow cheap cable pink adult craft message rude hire";

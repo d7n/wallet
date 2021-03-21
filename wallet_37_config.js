@@ -1,1 +1,1 @@
-var mnemonic = "corn gloom nuclear world deputy again piano review inhale december child concert";
+var mnemonic = "solve riot spy enhance cousin nephew cruel village machine icon slice one";

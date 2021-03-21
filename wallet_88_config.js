@@ -1,1 +1,1 @@
-var mnemonic = "artefact pilot wet spike reward derive square cloth wire shop test spring";
+var mnemonic = "primary toe laundry sibling detail stadium milk exile tumble prison review ivory";

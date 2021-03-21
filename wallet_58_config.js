@@ -1,1 +1,1 @@
-var mnemonic = "few polar exercise barely evil blush whisper act cute parrot color retire";
+var mnemonic = "obey person ancient average clerk mercy acquire version insect action express planet";

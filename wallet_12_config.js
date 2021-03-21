@@ -1,1 +1,1 @@
-var mnemonic = "title battle coin power gossip fly frost syrup chalk gas slot around";
+var mnemonic = "effort remain light scare way evil mule evil atom abuse over domain";

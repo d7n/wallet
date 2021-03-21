@@ -1,1 +1,1 @@
-var mnemonic = "rural ketchup top eye foam raven solve vocal swift zoo globe hammer";
+var mnemonic = "portion call valid power pulp creek major eyebrow drift observe forget crew";

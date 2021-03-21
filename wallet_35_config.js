@@ -1,1 +1,1 @@
-var mnemonic = "base erosion medal country asset divide elevator disorder hungry cushion cart fold";
+var mnemonic = "column outside argue divorce you supply adult possible cannon skull honey enable";

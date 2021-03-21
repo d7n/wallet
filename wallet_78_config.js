@@ -1,1 +1,1 @@
-var mnemonic = "fortune found post upper stereo announce trim caution guard focus this grit";
+var mnemonic = "question violin attitude latin reduce tenant innocent cup asthma find home man";

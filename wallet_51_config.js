@@ -1,1 +1,1 @@
-var mnemonic = "worry mail accident put forget bag planet pipe report win owner velvet";
+var mnemonic = "talent twice venture cheap pass sign camp illness cushion debris spread today";

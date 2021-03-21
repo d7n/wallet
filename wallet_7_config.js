@@ -1,1 +1,1 @@
-var mnemonic = "toy pilot noise noodle zebra unfair armed cloth panther ice wheat park";
+var mnemonic = "stand section plug try hint safe cereal column carbon oyster act super";

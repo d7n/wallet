@@ -1,1 +1,1 @@
-var mnemonic = "six sausage account slice letter hundred setup coil eagle rely aim talk";
+var mnemonic = "monitor arch small win plastic taxi just gasp siren skirt either mind";

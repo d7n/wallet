@@ -1,1 +1,1 @@
-var mnemonic = "text attack normal resource project prefer icon piano note fuel motor casino";
+var mnemonic = "buddy soda urge badge outdoor coyote vote sound output crystal vault gift";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp question curve stamp useful close hero fork cart kiwi brief forward";
+var mnemonic = "water surge bind push fatal drill genius warrior until evolve raise debris";

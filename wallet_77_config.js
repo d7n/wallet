@@ -1,1 +1,1 @@
-var mnemonic = "gold dove sphere disorder cliff wood story maximum pave two segment spell";
+var mnemonic = "major tragic urge talk adjust satisfy orphan grab jungle mom better warrior";

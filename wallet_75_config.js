@@ -1,1 +1,1 @@
-var mnemonic = "fashion hockey decline energy acoustic transfer lizard friend retreat letter share health";
+var mnemonic = "bless beauty behind canoe fit gap winter casual grab enemy essence domain";

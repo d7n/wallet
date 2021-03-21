@@ -1,1 +1,1 @@
-var mnemonic = "siege cactus trigger reopen vault either october sibling flash language raven digital";
+var mnemonic = "decline math pride ginger leopard pioneer mansion useless valve sister analyst culture";

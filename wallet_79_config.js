@@ -1,1 +1,1 @@
-var mnemonic = "future target wrist one script pass abandon force club shrug immune abandon";
+var mnemonic = "bomb judge voice jeans scissors sheriff lizard slot risk rare soap kiss";

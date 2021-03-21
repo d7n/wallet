@@ -1,1 +1,1 @@
-var mnemonic = "tip globe across suspect eager puppy pipe shaft siren travel caught canoe";
+var mnemonic = "fantasy cost green few chronic bridge connect credit joy chronic when agree";

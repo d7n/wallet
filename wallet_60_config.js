@@ -1,1 +1,1 @@
-var mnemonic = "glare ball utility truck fringe crash barrel buzz leopard day pave lottery";
+var mnemonic = "future tone tell misery song tray brain pipe grain eternal clog meat";

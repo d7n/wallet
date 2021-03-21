@@ -1,1 +1,1 @@
-var mnemonic = "lens fat share front venue retreat merge fluid often sheriff select focus";
+var mnemonic = "thunder pigeon empty crime couch praise helmet hole thing sketch nephew junior";

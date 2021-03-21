@@ -1,1 +1,1 @@
-var mnemonic = "garment art clump later just burst bamboo manual garage resist velvet wine";
+var mnemonic = "foil smoke chest divorce holiday guitar agent wish opera frozen crack voice";

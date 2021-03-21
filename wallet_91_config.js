@@ -1,1 +1,1 @@
-var mnemonic = "curve scissors fancy attend water allow manual chef tragic club rubber blanket";
+var mnemonic = "honey kidney innocent box frame merit mango square senior aunt into cross";

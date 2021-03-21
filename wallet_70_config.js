@@ -1,1 +1,1 @@
-var mnemonic = "clock culture only love comfort ivory solution hard loud fatal airport husband";
+var mnemonic = "supreme cactus repair hat race quality stage bullet later leave push pilot";

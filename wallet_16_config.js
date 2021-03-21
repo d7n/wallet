@@ -1,1 +1,1 @@
-var mnemonic = "city rabbit observe barrel rose swear olympic armed result absorb segment erode";
+var mnemonic = "emotion huge column collect pudding sign harvest bulk suffer slender lecture hollow";

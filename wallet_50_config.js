@@ -1,1 +1,1 @@
-var mnemonic = "bomb borrow flush trash spread flag engage resist foil waste song spell";
+var mnemonic = "inherit siren teach weird spy rose turkey eyebrow junk repeat foot hazard";

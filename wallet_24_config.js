@@ -1,1 +1,1 @@
-var mnemonic = "fence meadow blind dinner purpose alter ozone tool castle tongue unveil mammal";
+var mnemonic = "loud evidence claim connect flock scorpion matter tell slender valley biology detail";

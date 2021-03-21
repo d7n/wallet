@@ -1,1 +1,1 @@
-var mnemonic = "ocean visit false ball title chief pen foot drastic around another culture";
+var mnemonic = "dwarf various nice youth space episode idea supreme avocado pen cactus oppose";

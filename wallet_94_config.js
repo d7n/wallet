@@ -1,1 +1,1 @@
-var mnemonic = "skill orange also rail elephant profit spray end spirit toward guitar fancy";
+var mnemonic = "emerge brand pulse spread foster useless depart cave trash door coyote fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "enable author share crouch process gun stage valley problem advice burst kidney";
+var mnemonic = "identify super snow concert resource valley shoulder road critic time raw problem";

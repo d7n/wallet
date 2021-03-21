@@ -1,1 +1,1 @@
-var mnemonic = "crater ticket embrace drink avoid barrel nature broccoli pizza field child tomorrow";
+var mnemonic = "pilot sun address access tunnel happy student crystal old small much snow";

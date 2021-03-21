@@ -1,1 +1,1 @@
-var mnemonic = "clever dove once purse aisle honey million wet add recycle now erupt";
+var mnemonic = "drift inquiry purse course deny multiply amount crash oven solution genre apple";

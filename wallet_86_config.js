@@ -1,1 +1,1 @@
-var mnemonic = "capital asthma now urban sight hamster truck plastic good climb ring dutch";
+var mnemonic = "hungry dog pet lawn piece tribe dad behave animal athlete pond bachelor";

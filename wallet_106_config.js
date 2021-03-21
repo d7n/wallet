@@ -1,1 +1,1 @@
-var mnemonic = "cluster crisp web parent lava sock reject disagree caught muffin rather champion";
+var mnemonic = "glance angry tonight announce skate seven safe grocery hill attend add segment";

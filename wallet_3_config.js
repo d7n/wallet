@@ -1,1 +1,1 @@
-var mnemonic = "dream entry clerk enemy behind pool ocean today jealous close like roast";
+var mnemonic = "rocket need spider super time woman produce myself sheriff hold also warfare";

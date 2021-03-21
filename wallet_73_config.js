@@ -1,1 +1,1 @@
-var mnemonic = "inform ice endless design worth retreat dial dinner river aisle horn volume";
+var mnemonic = "cannon test original curve lazy abandon song magnet reopen draft spy stone";

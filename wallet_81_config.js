@@ -1,1 +1,1 @@
-var mnemonic = "sick record entire find govern jump rice slot couple frost exchange tongue";
+var mnemonic = "volume pulse immense universe orange erupt defy liquid pizza energy pave discover";

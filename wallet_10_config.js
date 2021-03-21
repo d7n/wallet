@@ -1,1 +1,1 @@
-var mnemonic = "humble bicycle mean addict april refuse long frown harsh profit snack grace";
+var mnemonic = "inform jealous nothing jelly arrange copper onion assume rotate camera monitor bench";

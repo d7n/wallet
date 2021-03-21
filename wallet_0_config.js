@@ -1,1 +1,1 @@
-var mnemonic = "era tell beauty material example auto possible seek below tomorrow light noble";
+var mnemonic = "ramp arena useful connect script perfect era travel milk typical kid beach";

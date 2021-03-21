@@ -1,1 +1,1 @@
-var mnemonic = "wife ugly rubber virus edit seminar village want bulk velvet spy major";
+var mnemonic = "shiver stumble neither sudden craft surge transfer asthma supply dismiss penalty kit";

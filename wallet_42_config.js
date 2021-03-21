@@ -1,1 +1,1 @@
-var mnemonic = "hundred kangaroo film amount jealous hire powder follow inherit dwarf layer puzzle";
+var mnemonic = "loud boss naive shine defense jump roast garment vibrant deputy build adapt";

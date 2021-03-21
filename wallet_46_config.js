@@ -1,1 +1,1 @@
-var mnemonic = "history car practice just rule cotton anxiety grow crouch husband increase swift";
+var mnemonic = "silly open firm wage below floor unfair citizen pet candy expire valid";

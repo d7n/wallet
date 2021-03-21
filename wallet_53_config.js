@@ -1,1 +1,1 @@
-var mnemonic = "vocal flock true busy render private defy ice steak ten afraid flavor";
+var mnemonic = "remember type love illegal carbon tragic chef budget spy barely snow various";

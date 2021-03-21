@@ -1,1 +1,1 @@
-var mnemonic = "federal canvas caught food twin gas afraid wisdom dolphin cat sister ethics";
+var mnemonic = "cupboard remove melt tank insane sound donor crash negative globe tell arena";

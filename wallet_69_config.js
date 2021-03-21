@@ -1,1 +1,1 @@
-var mnemonic = "hurry margin another urban guitar main supreme valley among divide camp hurdle";
+var mnemonic = "surprise jacket cause material torch surround quit profit tired soon then dwarf";

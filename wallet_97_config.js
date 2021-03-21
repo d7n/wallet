@@ -1,1 +1,1 @@
-var mnemonic = "main estate supply also north hawk diary blast scatter glad raven fury";
+var mnemonic = "empty admit real virus myself twist mosquito session mean sniff athlete upper";

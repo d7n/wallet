@@ -1,1 +1,1 @@
-var mnemonic = "film pear afraid annual under report cactus galaxy grain vicious canal pig";
+var mnemonic = "task special clinic chuckle solution cherry practice valley divorce feature humble impact";

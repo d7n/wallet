@@ -1,1 +1,1 @@
-var mnemonic = "unfair wife tent rare bag romance mesh mystery public runway tone tongue";
+var mnemonic = "grow silent shoot scare total milk injury snap maze release tooth order";

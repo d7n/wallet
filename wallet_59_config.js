@@ -1,1 +1,1 @@
-var mnemonic = "donor aware say pink trash breeze uniform add major chest shove ancient";
+var mnemonic = "finish domain palace wait talent brown dose resource pig tobacco caught blue";

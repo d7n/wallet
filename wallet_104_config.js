@@ -1,1 +1,1 @@
-var mnemonic = "country office enhance blouse sing apple ostrich tired drop biology unable dream";
+var mnemonic = "write weapon fancy allow song slam jazz inspire jelly april replace decline";

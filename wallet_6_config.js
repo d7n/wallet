@@ -1,1 +1,1 @@
-var mnemonic = "potato viable prevent visit snake riot banner charge duty giant silent vendor";
+var mnemonic = "cradle range insect modify champion glad slim music impact forum travel child";

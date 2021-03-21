@@ -1,1 +1,1 @@
-var mnemonic = "scare penalty injury feed border thunder unique card must tool paper rate";
+var mnemonic = "now attack shoe valley lady choose general also flag shrimp reward boil";

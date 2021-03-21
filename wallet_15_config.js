@@ -1,1 +1,1 @@
-var mnemonic = "medal very foam secret scissors flock lizard small twenty squeeze menu option";
+var mnemonic = "diagram strike guard share clap stem case gate raw noble bonus dentist";

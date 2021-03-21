@@ -1,1 +1,1 @@
-var mnemonic = "double soda poem deputy answer toss pistol live myself black sing custom";
+var mnemonic = "glare retreat solar inherit inform raven sad join obey leopard cushion elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "today enemy visa frame nerve stairs hello blue weather staff phrase excuse";
+var mnemonic = "life moment price deliver pet scrap fluid adult embody small peasant canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "solar music page renew innocent caught kidney diet melody horn dish pond";
+var mnemonic = "fashion state raven diagram olympic solid ankle chronic donor shed glory unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "occur large syrup cherry train recall disease window wink behind sauce soccer";
+var mnemonic = "fog ticket clerk yellow panther reopen velvet drive oval ordinary gas tissue";

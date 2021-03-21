@@ -1,1 +1,1 @@
-var mnemonic = "boost leave width road profit wreck debris victory pretty give double valid";
+var mnemonic = "clutch duty crack fatal mention conduct danger search deer multiply breeze report";

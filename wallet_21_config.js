@@ -1,1 +1,1 @@
-var mnemonic = "gorilla bomb bread insect funny village join olympic lesson omit door pottery";
+var mnemonic = "advance awful planet track position unit cycle perfect unique fish congress arrow";

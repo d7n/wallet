@@ -1,1 +1,1 @@
-var mnemonic = "unfold fresh boss yard wait reflect drastic steak clever outside neglect force";
+var mnemonic = "long cradle dinner choose employ excess salon inherit nut wheat entire use";

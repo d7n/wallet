@@ -1,1 +1,1 @@
-var mnemonic = "season tonight area negative boss tired royal enforce anxiety faint mixture secret";
+var mnemonic = "mammal slush acquire feel tennis dress fiber police ankle tumble slush lock";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse phone scale dry forward early poet once twin link vital achieve";
+var mnemonic = "moment tank caution style found tired fatal pretty note cluster stuff argue";

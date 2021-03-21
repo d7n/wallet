@@ -1,1 +1,1 @@
-var mnemonic = "meat sheriff enough favorite edit swift section ranch frown inch dash gallery";
+var mnemonic = "solid bring client attitude patrol october round illegal viable convince flag biology";
