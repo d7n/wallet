@@ -1,1 +1,1 @@
-var mnemonic = "penalty tree repeat remind unfold whip nerve orbit surprise system fork column";
+var mnemonic = "play action inhale achieve love cargo body cheap history library under thought";

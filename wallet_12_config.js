@@ -1,1 +1,1 @@
-var mnemonic = "inherit cover wolf amused core achieve gift family disorder divorce wood uncover";
+var mnemonic = "swap mixed chef dynamic lamp brand cheese coconut used victory water final";

@@ -1,1 +1,1 @@
-var mnemonic = "ten letter arctic ball play undo uncle weird stem reward vacant same";
+var mnemonic = "key pink scissors runway perfect promote silver price moon into relief museum";

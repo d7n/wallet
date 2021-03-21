@@ -1,1 +1,1 @@
-var mnemonic = "ketchup dawn error kiwi cup flush mail filter balance turtle cream split";
+var mnemonic = "company tiger iron axis creek poem whip side gauge proof project inmate";

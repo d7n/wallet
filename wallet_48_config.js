@@ -1,1 +1,1 @@
-var mnemonic = "hockey arrow horror degree any mirror angle short stage swift frown belt";
+var mnemonic = "power ordinary visa gasp auto task december mobile argue save family pond";

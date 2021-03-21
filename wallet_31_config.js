@@ -1,1 +1,1 @@
-var mnemonic = "cheese author only soap medal happy shy dash wage cash metal aspect";
+var mnemonic = "recycle novel size cargo champion hole chronic document gather scrap make tackle";

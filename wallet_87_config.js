@@ -1,1 +1,1 @@
-var mnemonic = "twice seminar silver love ugly hurt leopard shoe wrist fluid force runway";
+var mnemonic = "gap rail laundry exhibit film north suggest cradle smile client idea stuff";

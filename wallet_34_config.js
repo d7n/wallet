@@ -1,1 +1,1 @@
-var mnemonic = "device pair grape muscle absorb parent copy daughter captain alpha screen always";
+var mnemonic = "exchange whisper melody obvious demand palace muffin welcome devote someone economy speed";

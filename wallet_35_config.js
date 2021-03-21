@@ -1,1 +1,1 @@
-var mnemonic = "erosion strike other sign gain mobile left fit scout cigar call garden";
+var mnemonic = "city crouch smart divert primary option bicycle theme pledge rather claim tissue";

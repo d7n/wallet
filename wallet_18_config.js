@@ -1,1 +1,1 @@
-var mnemonic = "bridge friend mad razor sudden guilt food level huge palm surround very";
+var mnemonic = "fresh remind talk use agree fold miss rapid twin finish inform produce";

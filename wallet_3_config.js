@@ -1,1 +1,1 @@
-var mnemonic = "mandate spirit depth camp usual glory uncover sun eagle seminar enjoy zoo";
+var mnemonic = "devote divert knife put print emotion seek lake such heart sudden arrive";

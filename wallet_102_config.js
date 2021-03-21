@@ -1,1 +1,1 @@
-var mnemonic = "bless spoil symptom become curious search hockey shoot brave waste below alcohol";
+var mnemonic = "misery matrix roast glow unable over topic fancy tobacco clever coil mango";

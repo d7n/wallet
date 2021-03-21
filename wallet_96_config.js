@@ -1,1 +1,1 @@
-var mnemonic = "praise grab type develop vague engage sudden company sad coyote wrestle royal";
+var mnemonic = "kiwi ski empty device drastic evoke hour story maximum combine actor raise";

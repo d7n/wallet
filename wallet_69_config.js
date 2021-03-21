@@ -1,1 +1,1 @@
-var mnemonic = "excuse any party nation time case style squeeze educate athlete minute attract";
+var mnemonic = "casino pistol crash rack rib lens empower pig other lounge swarm suggest";

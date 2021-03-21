@@ -1,1 +1,1 @@
-var mnemonic = "youth still stumble machine mesh merit social target economy curtain acoustic float";
+var mnemonic = "quarter change provide tired effort movie jeans lamp burger wife alpha session";

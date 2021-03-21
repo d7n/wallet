@@ -1,1 +1,1 @@
-var mnemonic = "saddle abandon gloom grass puzzle bunker cushion predict plug auction later close";
+var mnemonic = "bind moon quick hundred three mosquito board alarm early very giraffe first";

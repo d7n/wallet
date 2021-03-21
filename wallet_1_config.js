@@ -1,1 +1,1 @@
-var mnemonic = "camera square priority craft survey atom lamp midnight basic wreck indicate coil";
+var mnemonic = "turkey online wonder license bird vivid crush trust ugly begin anchor today";

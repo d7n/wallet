@@ -1,1 +1,1 @@
-var mnemonic = "rib distance one soda horse speak will primary grape obey ecology swift";
+var mnemonic = "clog stage mask buzz cancel mass embrace imitate fringe retire elbow home";

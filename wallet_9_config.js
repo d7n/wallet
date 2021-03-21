@@ -1,1 +1,1 @@
-var mnemonic = "hurry topic arrow tray ugly nasty buddy can urge claim dignity breeze";
+var mnemonic = "aware gold under cinnamon balcony enroll analyst capable melody main wing pelican";

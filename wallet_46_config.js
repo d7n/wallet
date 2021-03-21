@@ -1,1 +1,1 @@
-var mnemonic = "swim grant opinion heavy input flame script air sick stuff swamp armor";
+var mnemonic = "faint senior deal almost jelly catch uphold remove neutral boil poverty cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "valid toast merge game force hold frown slender angry flight bonus impact";
+var mnemonic = "honey right right boat random drama false laugh human aspect young bless";

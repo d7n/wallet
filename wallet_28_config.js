@@ -1,1 +1,1 @@
-var mnemonic = "secret outer carry ski enroll wood route clinic sort course stereo lucky";
+var mnemonic = "close high erase power always tray bamboo banner battle author weasel detail";

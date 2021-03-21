@@ -1,1 +1,1 @@
-var mnemonic = "grass faint topple pledge toddler current okay hobby total robot hand taxi";
+var mnemonic = "mimic flavor switch hurry security elite income twin evoke panic judge spoil";

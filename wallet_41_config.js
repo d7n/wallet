@@ -1,1 +1,1 @@
-var mnemonic = "primary category divert actual ridge video tube action quantum arm multiply payment";
+var mnemonic = "soon multiply vicious life jelly sibling fatal fold error immense note story";

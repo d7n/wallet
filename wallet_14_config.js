@@ -1,1 +1,1 @@
-var mnemonic = "love drink vanish suit mimic rubber setup awesome relax sing buddy skirt";
+var mnemonic = "gun design harbor next music enrich scene rule magnet jungle crumble eight";

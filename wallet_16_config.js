@@ -1,1 +1,1 @@
-var mnemonic = "travel drill shock situate volcano october gossip large rookie nominee half vessel";
+var mnemonic = "typical merit possible distance want cage suffer language message sail name shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "video great vibrant hire screen mansion attitude journey talk episode sun slow";
+var mnemonic = "height solid broken rose suggest spell burden sunset outdoor gallery forward satisfy";

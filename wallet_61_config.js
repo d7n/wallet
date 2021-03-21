@@ -1,1 +1,1 @@
-var mnemonic = "purity found kit cereal surface fragile crack short topic shrug such remind";
+var mnemonic = "renew gasp fix dad penalty purity rib kitten lawsuit practice slight decorate";

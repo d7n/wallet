@@ -1,1 +1,1 @@
-var mnemonic = "ethics gown digital organ flash layer alarm argue select praise okay frown";
+var mnemonic = "alpha tobacco embody point window bean amused just stock forum fatigue banner";

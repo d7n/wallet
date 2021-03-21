@@ -1,1 +1,1 @@
-var mnemonic = "dash march strategy wear bulk much fiscal pioneer dream apology unfair sun";
+var mnemonic = "vicious wrestle broom chief planet color vanish mix museum depend jungle convince";

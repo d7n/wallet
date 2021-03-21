@@ -1,1 +1,1 @@
-var mnemonic = "liberty coyote shaft hold young balcony curve dentist frog jaguar burden decrease";
+var mnemonic = "neck funny illegal ring fault fuel media proof mixture uncle question muffin";

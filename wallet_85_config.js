@@ -1,1 +1,1 @@
-var mnemonic = "weekend joke jaguar maze sibling pelican stuff account endless custom decorate scatter";
+var mnemonic = "erosion sick senior yard promote saddle decade immune acquire rude crisp fog";

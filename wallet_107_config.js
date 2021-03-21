@@ -1,1 +1,1 @@
-var mnemonic = "ancient gap buzz favorite pyramid side gate memory visit sword hedgehog casual";
+var mnemonic = "fetch apology immune permit hold cause section faint profit suspect betray describe";

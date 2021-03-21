@@ -1,1 +1,1 @@
-var mnemonic = "mesh invite nature rain crystal museum rough acquire exact cover symptom flame";
+var mnemonic = "chat animal romance combine wall submit crime trumpet raven comic salad try";

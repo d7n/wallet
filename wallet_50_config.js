@@ -1,1 +1,1 @@
-var mnemonic = "company trick trumpet latin into ice fault amused jewel easily beach cycle";
+var mnemonic = "reunion myth april reform thumb simple together essence voice model virus camp";

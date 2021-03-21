@@ -1,1 +1,1 @@
-var mnemonic = "business olive during giggle gravity other orphan clog galaxy edge safe solid";
+var mnemonic = "slide body cloud lesson amused element pear fiber wide funny joy hollow";

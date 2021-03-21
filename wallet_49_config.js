@@ -1,1 +1,1 @@
-var mnemonic = "reflect guess girl birth dinner maid valve until butter nephew rare fall";
+var mnemonic = "teach notable leg develop cousin dove concert equip spy friend laugh spy";

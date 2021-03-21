@@ -1,1 +1,1 @@
-var mnemonic = "smile hidden hello casual below dance laugh pet dawn gasp laugh glance";
+var mnemonic = "coffee asthma disagree cream scatter relax tobacco tunnel awesome burst exchange festival";

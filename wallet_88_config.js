@@ -1,1 +1,1 @@
-var mnemonic = "flag chalk culture flight notable expect just mimic outdoor shove decline evolve";
+var mnemonic = "toast drill write cattle robust any coconut method runway hope foil success";

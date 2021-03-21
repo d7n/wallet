@@ -1,1 +1,1 @@
-var mnemonic = "tilt table say hobby front appear mention diary walk used sad height";
+var mnemonic = "amount wool town tiny churn tumble comfort tackle elevator busy lunch bike";

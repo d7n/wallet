@@ -1,1 +1,1 @@
-var mnemonic = "kiss reopen erase view little hamster pony surge spider material verify today";
+var mnemonic = "border neglect divorce year animal fury camera unique vanish detect soul abstract";

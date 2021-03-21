@@ -1,1 +1,1 @@
-var mnemonic = "alert scissors earth bench coin rib one first balance when surge blind";
+var mnemonic = "damage pave domain elevator noise diamond such oak core tray absent slab";

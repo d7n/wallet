@@ -1,1 +1,1 @@
-var mnemonic = "room width ship come brick damage turn front mixed purse enrich record";
+var mnemonic = "copy south bright machine make grit guilt affair spend mystery wage mean";

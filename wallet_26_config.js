@@ -1,1 +1,1 @@
-var mnemonic = "spring mystery arch split trial issue creek labor voice street left shuffle";
+var mnemonic = "reunion cousin average symbol drive pass injury parent alcohol field bless refuse";

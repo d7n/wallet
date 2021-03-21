@@ -1,1 +1,1 @@
-var mnemonic = "loan salt young cliff almost vapor labor reject sudden upon gather permit";
+var mnemonic = "fabric flip enemy unique energy vicious minor soda fun pigeon account hamster";

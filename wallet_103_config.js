@@ -1,1 +1,1 @@
-var mnemonic = "naive comfort deny grocery prize crime depart device device uncover theme dog";
+var mnemonic = "fatal wife time theme where surround blanket hire edge little enroll slow";

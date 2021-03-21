@@ -1,1 +1,1 @@
-var mnemonic = "when horse guitar number dynamic dawn razor teach soda genuine cloth pear";
+var mnemonic = "jaguar kick goat cheese desk cart catalog figure account vacant fee exile";

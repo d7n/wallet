@@ -1,1 +1,1 @@
-var mnemonic = "sock swear crash pen craft arrest media attract choose ability brave immune";
+var mnemonic = "tattoo wreck broccoli person copper exchange unfold exclude skull mechanic frozen apology";

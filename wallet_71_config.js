@@ -1,1 +1,1 @@
-var mnemonic = "health model hold reunion naive breeze want stadium boring gravity swim symptom";
+var mnemonic = "emerge warm village scale about laptop pink blade layer table hobby draw";

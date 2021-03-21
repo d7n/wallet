@@ -1,1 +1,1 @@
-var mnemonic = "price window evoke father girl vacant plunge cross cram tackle fancy island";
+var mnemonic = "middle dish gadget beef label leg setup gasp adjust owner sphere robot";

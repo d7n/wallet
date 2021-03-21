@@ -1,1 +1,1 @@
-var mnemonic = "net machine blanket negative endless tribe subway wage tone view habit custom";
+var mnemonic = "various friend brown demand dream hollow canoe brush alert crane feel remind";

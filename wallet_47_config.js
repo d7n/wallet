@@ -1,1 +1,1 @@
-var mnemonic = "system face hood load lift current giant survey fix social quick job";
+var mnemonic = "ecology cancel ill consider atom galaxy donor gadget circle save slush poverty";

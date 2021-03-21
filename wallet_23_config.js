@@ -1,1 +1,1 @@
-var mnemonic = "siege green dose stumble obscure rescue leg venue bunker tackle need amateur";
+var mnemonic = "twice grass town girl broom acid celery else roast stereo paddle orphan";

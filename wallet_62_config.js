@@ -1,1 +1,1 @@
-var mnemonic = "piano indicate use wonder immune ethics snake flush work all diesel morning";
+var mnemonic = "few deny language now ice sure glare donate melt kitchen network guard";

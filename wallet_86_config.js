@@ -1,1 +1,1 @@
-var mnemonic = "receive galaxy affair catalog devote return true combine pride flat decrease sound";
+var mnemonic = "furnace water second top athlete consider trash pond reflect join trim category";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect feed inherit arrow main music almost wolf liberty long need close";
+var mnemonic = "wheel answer boost toast example fat repeat all assist symbol grace prepare";

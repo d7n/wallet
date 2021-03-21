@@ -1,1 +1,1 @@
-var mnemonic = "foster asthma near ranch thought deal trial once intact voyage brain bubble";
+var mnemonic = "arch real daughter clerk happy project mansion riot tenant area mushroom either";

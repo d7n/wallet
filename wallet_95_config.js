@@ -1,1 +1,1 @@
-var mnemonic = "abuse choose menu fiction dragon expand hedgehog ugly dolphin paper open kiwi";
+var mnemonic = "input dolphin iron upon resource nose ecology opera valid essay protect jeans";

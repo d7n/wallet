@@ -1,1 +1,1 @@
-var mnemonic = "enforce secret glide ridge strong wheat merit alley junior success edit electric";
+var mnemonic = "slab narrow shadow carry goose write lecture feature crouch soft rug pigeon";

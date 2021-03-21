@@ -1,1 +1,1 @@
-var mnemonic = "hill latin march pulp denial category size warm popular vapor faith battle";
+var mnemonic = "hill unknown luggage muffin suffer fall fine lawsuit violin strike cabin section";

@@ -1,1 +1,1 @@
-var mnemonic = "when trigger creek marine actor candy worth sleep cousin moral crew crater";
+var mnemonic = "seat mercy found excess manual umbrella wife orange love favorite bless parrot";

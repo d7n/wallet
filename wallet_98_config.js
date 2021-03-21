@@ -1,1 +1,1 @@
-var mnemonic = "gasp sail chalk hire symbol decline session carry lawn face purchase planet";
+var mnemonic = "ancient staff client favorite copper ketchup thought olympic blade mushroom drum guard";

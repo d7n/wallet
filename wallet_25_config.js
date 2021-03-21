@@ -1,1 +1,1 @@
-var mnemonic = "shell island birth right flight festival slender cinnamon sting flock vast purpose";
+var mnemonic = "loan patch vendor minor course mountain neglect sausage iron ten surprise diagram";

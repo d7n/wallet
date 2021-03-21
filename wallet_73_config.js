@@ -1,1 +1,1 @@
-var mnemonic = "warm impact control address nasty flush evidence juice gospel ozone sweet lens";
+var mnemonic = "excess praise try eight stable maximum tortoise setup midnight salmon pattern cotton";

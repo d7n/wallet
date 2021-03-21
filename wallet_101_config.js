@@ -1,1 +1,1 @@
-var mnemonic = "where document slogan carry animal unusual distance derive lend barrel inspire cruise";
+var mnemonic = "chat size cause hurry sister client galaxy cart mix faith adult benefit";

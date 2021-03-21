@@ -1,1 +1,1 @@
-var mnemonic = "indicate inform desk story wood minor gas lake home wreck taxi crowd";
+var mnemonic = "asset wolf urge push virtual bright amateur card tray custom fashion sugar";

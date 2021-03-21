@@ -1,1 +1,1 @@
-var mnemonic = "nuclear hip vendor vintage dynamic about wrap autumn series afford anxiety next";
+var mnemonic = "buffalo impulse arrive gain hero leg immense image blue cluster answer abuse";

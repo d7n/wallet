@@ -1,1 +1,1 @@
-var mnemonic = "actual young struggle proof ridge vital trigger advance buzz warrior buzz message";
+var mnemonic = "lend photo bless immune bubble tired athlete clown ivory wet heavy make";

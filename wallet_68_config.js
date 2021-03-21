@@ -1,1 +1,1 @@
-var mnemonic = "shallow soap saddle social voyage type lazy network vessel pull artefact pumpkin";
+var mnemonic = "brown fix subway estate address jazz culture exile avocado farm lava stock";

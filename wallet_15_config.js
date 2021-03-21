@@ -1,1 +1,1 @@
-var mnemonic = "steel kite cram biology vault junk earn burger zone fatal weather asthma";
+var mnemonic = "mandate supreme drive cage skull barely figure feature canal bicycle alien harbor";

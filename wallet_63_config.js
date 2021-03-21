@@ -1,1 +1,1 @@
-var mnemonic = "member easily glide metal slab barrel issue notable veteran casual void olive";
+var mnemonic = "board antenna genius coyote moral escape behave feature lunar mechanic skirt blue";

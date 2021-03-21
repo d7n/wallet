@@ -1,1 +1,1 @@
-var mnemonic = "fire struggle roast despair trend engine flower used high master bunker metal";
+var mnemonic = "work tube depart idle track use pull glove able cigar improve distance";

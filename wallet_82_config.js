@@ -1,1 +1,1 @@
-var mnemonic = "wrap lazy inspire gauge banner void live ketchup apart build illegal slab";
+var mnemonic = "slab intact rookie sting almost creek large quote stomach urban valve clown";

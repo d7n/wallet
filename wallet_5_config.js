@@ -1,1 +1,1 @@
-var mnemonic = "apology win cattle oak script about income rally maple dose wreck shift";
+var mnemonic = "slender detect battle symbol slight valley salt debate siren input upper maid";

@@ -1,1 +1,1 @@
-var mnemonic = "base order wide this picture tobacco uncle bread rotate negative shift damage";
+var mnemonic = "coin jewel nerve cube remove skate attract dial toy dust shoulder garment";

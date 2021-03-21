@@ -1,1 +1,1 @@
-var mnemonic = "raw mountain review okay peace engage afraid maze sponsor desk dinner crew";
+var mnemonic = "volume clump sponsor orange bless arch piano frame coil feature symptom alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "door choose stone cluster permit bench enroll gasp juice accident canal desk";
+var mnemonic = "wealth only indicate end time artwork meadow draw six silver pink grit";

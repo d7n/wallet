@@ -1,1 +1,1 @@
-var mnemonic = "catch liquid forest season sample hobby misery belt elbow control disease worry";
+var mnemonic = "guide beyond inside anchor ask river push price across tongue leader exotic";

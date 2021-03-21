@@ -1,1 +1,1 @@
-var mnemonic = "miss marble toward moon tattoo possible kiss asset banana nut dog flock";
+var mnemonic = "leave genre sentence cheese midnight health area round tail possible mind inside";

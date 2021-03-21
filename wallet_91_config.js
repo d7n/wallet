@@ -1,1 +1,1 @@
-var mnemonic = "absent meat lamp ill blouse feature broken seven consider because orbit rich";
+var mnemonic = "mother receive merge invite record miracle popular fiction reopen mutual false vivid";

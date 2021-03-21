@@ -1,1 +1,1 @@
-var mnemonic = "lock beach message submit soldier latin desk baby image define electric element";
+var mnemonic = "decide brain clock major economy abandon talent grace purse shock advance eternal";

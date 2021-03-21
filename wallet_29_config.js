@@ -1,1 +1,1 @@
-var mnemonic = "farm verb congress end pelican faculty future cloth friend gauge crack outdoor";
+var mnemonic = "pizza flat depth worry tunnel seven spread behave wash viable insane love";

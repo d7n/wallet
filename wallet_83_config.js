@@ -1,1 +1,1 @@
-var mnemonic = "same episode galaxy staff gesture regular drift holiday round brave master spirit";
+var mnemonic = "violin stomach problem ozone glory pride pipe squirrel real nuclear catalog jaguar";

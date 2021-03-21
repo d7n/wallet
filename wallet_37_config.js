@@ -1,1 +1,1 @@
-var mnemonic = "result gentle holiday noble crisp shine note fashion soon leopard tiger airport";
+var mnemonic = "clerk consider tourist letter member tape grief this design spare earth false";

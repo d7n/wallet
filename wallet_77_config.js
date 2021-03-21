@@ -1,1 +1,1 @@
-var mnemonic = "table marine hurry mixture sweet finger spoil habit twenty strategy what toward";
+var mnemonic = "series brief excess equal reopen worth ribbon fat purity horn collect heavy";

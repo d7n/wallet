@@ -1,1 +1,1 @@
-var mnemonic = "immune inner helmet impulse coral copper panel battle demise manage tuition grunt";
+var mnemonic = "good divide pepper sudden sibling naive night donate stem kidney hurdle during";

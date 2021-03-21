@@ -1,1 +1,1 @@
-var mnemonic = "flat style cigar emerge fiction expire question market swarm bacon indicate number";
+var mnemonic = "treat critic purchase clump rely gun depth piece trigger dial planet glimpse";

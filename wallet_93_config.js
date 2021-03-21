@@ -1,1 +1,1 @@
-var mnemonic = "foot demise hip achieve buyer memory spatial describe shy cat must receive";
+var mnemonic = "victory style whisper device nose voice cushion gate original require pledge practice";

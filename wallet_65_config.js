@@ -1,1 +1,1 @@
-var mnemonic = "noble burst skin whisper frozen favorite flower siege eight govern fit animal";
+var mnemonic = "pyramid veteran party nest theme earn truck airport cheese rescue crumble year";

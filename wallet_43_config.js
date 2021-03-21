@@ -1,1 +1,1 @@
-var mnemonic = "erupt member impose organ fiscal snow enemy belt wait certain enable wrestle";
+var mnemonic = "business either arctic parent speed cement punch neutral habit jealous lobster teach";

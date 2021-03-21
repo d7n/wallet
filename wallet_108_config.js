@@ -1,1 +1,1 @@
-var mnemonic = "brain sibling feed slight beef science topic vacant gauge awful dose grant";
+var mnemonic = "alley steel mosquito fish veteran bicycle gun disagree session atom easily walk";

@@ -1,1 +1,1 @@
-var mnemonic = "spend oval note century whisper theory warrior afford face rebuild identify leopard";
+var mnemonic = "pig black belt upgrade corn typical tonight artist script measure box material";

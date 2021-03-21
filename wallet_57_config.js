@@ -1,1 +1,1 @@
-var mnemonic = "rhythm vital mushroom swallow fresh wool enlist plastic capital vibrant knife cliff";
+var mnemonic = "differ chef carpet ski fancy apart alcohol office crisp sunset rain fine";
