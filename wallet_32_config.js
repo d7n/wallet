@@ -1,1 +1,1 @@
-var mnemonic = "hour hire develop gallery auction labor wheel foot method brass zebra cruise";
+var mnemonic = "horn infant matrix wrong service absent plastic imitate garage truly tree kit";

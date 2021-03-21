@@ -1,1 +1,1 @@
-var mnemonic = "lens favorite face client keen method silver angle steak honey ball museum";
+var mnemonic = "output foam load echo cost tonight fragile dutch cruise ordinary bridge cushion";

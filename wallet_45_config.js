@@ -1,1 +1,1 @@
-var mnemonic = "roof west february chase crater patch picnic champion shadow claim primary flash";
+var mnemonic = "multiply help naive junior afford concert nice much figure spend lecture pumpkin";

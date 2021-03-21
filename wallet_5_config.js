@@ -1,1 +1,1 @@
-var mnemonic = "gas faint spice north foam fancy runway switch about powder bullet case";
+var mnemonic = "ten afraid reunion noble myself two frame eye garlic harsh wrong neither";

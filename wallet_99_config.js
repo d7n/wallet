@@ -1,1 +1,1 @@
-var mnemonic = "public ugly resemble wisdom control receive remind pistol spoil season juice easy";
+var mnemonic = "amateur good raw bid shove acquire quality amount rail noble address close";

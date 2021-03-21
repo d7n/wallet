@@ -1,1 +1,1 @@
-var mnemonic = "pulp liquid display crime tattoo thrive poem idle large must pass update";
+var mnemonic = "series credit cloud museum cabin unusual hamster paddle avocado shine advice purity";

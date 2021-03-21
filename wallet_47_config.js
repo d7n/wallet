@@ -1,1 +1,1 @@
-var mnemonic = "program property client priority pink bless arena fade wrap little envelope rookie";
+var mnemonic = "cricket battle dash peasant civil cherry citizen shrimp chapter grab magnet better";

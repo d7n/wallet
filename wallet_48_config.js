@@ -1,1 +1,1 @@
-var mnemonic = "lyrics dirt leg index consider direct cash cup hamster sword misery robot";
+var mnemonic = "blur abandon enrich employ wait parent cabin cream rack much busy heart";

@@ -1,1 +1,1 @@
-var mnemonic = "code act candy august name raise place hurry bag mango cycle couple";
+var mnemonic = "exit admit protect tube arena endless enter allow hurdle blur wonder foil";

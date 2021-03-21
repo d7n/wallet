@@ -1,1 +1,1 @@
-var mnemonic = "fluid option face sugar owner rocket autumn best sugar regret palace hold";
+var mnemonic = "hamster barely attack breeze casual wire proof veteran oven jump duck now";

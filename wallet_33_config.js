@@ -1,1 +1,1 @@
-var mnemonic = "zebra enlist picnic guard wheel dilemma chair kitchen gain manage park yard";
+var mnemonic = "possible fetch desk wreck west pigeon onion safe despair pupil fetch fabric";

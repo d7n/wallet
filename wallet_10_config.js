@@ -1,1 +1,1 @@
-var mnemonic = "sing business cross chimney engine jeans shadow mimic motion that talk debate";
+var mnemonic = "occur cliff current appear slot fiber diary agent math hope neglect trash";

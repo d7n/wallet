@@ -1,1 +1,1 @@
-var mnemonic = "leader ketchup february liquid cement enforce warfare wave raven lecture hard chair";
+var mnemonic = "injury choose accident poem relief improve appear profit fun ostrich frown bronze";

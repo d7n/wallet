@@ -1,1 +1,1 @@
-var mnemonic = "noise unable tide ticket oppose clump transfer small blanket junior wait always";
+var mnemonic = "basket bind scorpion evidence blade pull hybrid sign rate art boost weekend";

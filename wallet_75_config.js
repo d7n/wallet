@@ -1,1 +1,1 @@
-var mnemonic = "crater version fortune traffic left give first truly sponsor ten mixed hold";
+var mnemonic = "together sentence worth pole youth clever field someone cheese endorse erupt weird";

@@ -1,1 +1,1 @@
-var mnemonic = "margin country earn crazy midnight help zoo auto glue absorb another minimum";
+var mnemonic = "theory setup pattern drift rib cave echo bar purse delay essay inmate";

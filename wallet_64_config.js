@@ -1,1 +1,1 @@
-var mnemonic = "response trip despair actor merit muscle hello crop toast abuse prison kidney";
+var mnemonic = "avocado shiver diagram salute head shallow delay spell person dress tackle such";

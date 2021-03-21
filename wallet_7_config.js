@@ -1,1 +1,1 @@
-var mnemonic = "cruel ski detect horse scout arrow scare smart diary supply town crouch";
+var mnemonic = "sound extra produce asthma ranch wagon glide brass eagle trigger fit mad";

@@ -1,1 +1,1 @@
-var mnemonic = "page cushion cream squeeze amount odor finish call library dune empty weather";
+var mnemonic = "stick flame awful blind twist cradle baby trick zoo advance divert assault";

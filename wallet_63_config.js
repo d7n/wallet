@@ -1,1 +1,1 @@
-var mnemonic = "group usage what just exchange unveil lunar shield reopen cinnamon decrease involve";
+var mnemonic = "solution vocal unlock trophy high token question trash weekend strong tonight record";

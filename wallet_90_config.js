@@ -1,1 +1,1 @@
-var mnemonic = "unusual outside switch price hub prefer feed day frame vanish fit champion";
+var mnemonic = "celery divert feel scheme fold evil crunch pudding column column thumb lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "solid small mandate detect doctor million noodle keen model weird dutch fresh";
+var mnemonic = "venue oyster learn mosquito floor audit lemon motor question seven amount imitate";

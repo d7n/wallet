@@ -1,1 +1,1 @@
-var mnemonic = "pledge gas face point drive bomb gadget peasant alcohol wrist badge away";
+var mnemonic = "ancient unique witness hunt humor suggest unit trip ankle fence glad warfare";

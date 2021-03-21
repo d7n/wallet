@@ -1,1 +1,1 @@
-var mnemonic = "silk report hill ranch attend yard poverty produce chair kangaroo crime sudden";
+var mnemonic = "hold february guilt picture demand hello urban advance curious guilt work offer";

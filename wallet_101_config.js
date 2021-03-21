@@ -1,1 +1,1 @@
-var mnemonic = "ostrich slide resist chimney index toast tent will inner huge camera index";
+var mnemonic = "enable shuffle current tooth rhythm robust sketch defense candy trick alone ecology";

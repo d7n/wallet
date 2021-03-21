@@ -1,1 +1,1 @@
-var mnemonic = "river client enact antenna feel census net hammer torch possible jungle dust";
+var mnemonic = "flight artwork galaxy hero absorb ranch lock fog art jewel credit mother";

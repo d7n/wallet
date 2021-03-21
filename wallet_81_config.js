@@ -1,1 +1,1 @@
-var mnemonic = "narrow coach tennis magic confirm doll spare uphold hundred glide bag three";
+var mnemonic = "arena pause cactus talent surge hurry essence inside ankle laptop quit able";

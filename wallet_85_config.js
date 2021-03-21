@@ -1,1 +1,1 @@
-var mnemonic = "stuff puzzle please grid trim negative cream fuel category license business hollow";
+var mnemonic = "fossil bubble mail loyal sting obvious chat affair stock primary harsh float";

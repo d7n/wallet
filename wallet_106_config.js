@@ -1,1 +1,1 @@
-var mnemonic = "under paddle pretty cake omit table virtual knock attitude range bulk faint";
+var mnemonic = "virtual vault era naive social hedgehog twelve discover nuclear ethics disease junk";

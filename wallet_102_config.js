@@ -1,1 +1,1 @@
-var mnemonic = "jar sad similar paper cattle impact radio glide couch aerobic fruit hunt";
+var mnemonic = "ceiling border brass dice begin dignity merit knock action assume path label";

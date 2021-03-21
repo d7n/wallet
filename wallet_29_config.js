@@ -1,1 +1,1 @@
-var mnemonic = "amazing veteran large december suit captain wide vapor reduce sleep magic swallow";
+var mnemonic = "chuckle flush clay hurt route alarm save basic royal exhaust nation eye";

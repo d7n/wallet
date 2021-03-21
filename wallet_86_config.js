@@ -1,1 +1,1 @@
-var mnemonic = "cool live inmate spot arena split opinion identify modify brother junior science";
+var mnemonic = "crater physical wait discover theme fiber sand flame kidney garden inquiry exist";

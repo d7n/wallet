@@ -1,1 +1,1 @@
-var mnemonic = "auto lounge ready hint extend poverty churn twenty two figure jealous girl";
+var mnemonic = "useful actor tiny climb govern again patrol cross flavor level will arm";

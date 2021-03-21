@@ -1,1 +1,1 @@
-var mnemonic = "morning zero buyer feed salon defense stone swim bag liquid air enter";
+var mnemonic = "shrug friend various vast valley shrimp legend marine domain maid cabin picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "connect blouse aisle glad doll pave lunch size curtain lucky outside ivory";
+var mnemonic = "payment multiply stereo toss marble unaware humor salmon unit clip easy hour";

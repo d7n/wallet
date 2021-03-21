@@ -1,1 +1,1 @@
-var mnemonic = "canoe nerve unfold attitude comic member north problem story few tape sea";
+var mnemonic = "milk aware junior flip glue match theme since broccoli stable beef execute";

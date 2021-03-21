@@ -1,1 +1,1 @@
-var mnemonic = "dolphin peasant dry merry clean bonus target margin coil skin exact render";
+var mnemonic = "maple ability ring gospel climb sand awkward mention mask obscure bone engage";

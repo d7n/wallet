@@ -1,1 +1,1 @@
-var mnemonic = "filter chase clarify style cloth custom begin ice clown okay want soldier";
+var mnemonic = "frost spawn empty motion birth melody pave salon catch range music admit";

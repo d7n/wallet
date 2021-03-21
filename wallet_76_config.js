@@ -1,1 +1,1 @@
-var mnemonic = "marriage work warm permit potato undo planet sibling become obscure team mountain";
+var mnemonic = "indoor despair wise board edit name menu speed gold rotate minimum accuse";

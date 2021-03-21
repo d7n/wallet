@@ -1,1 +1,1 @@
-var mnemonic = "tourist retreat midnight two kick bounce capable story burst hockey top runway";
+var mnemonic = "wonder sample honey pig faint water fetch warm captain scatter away mimic";

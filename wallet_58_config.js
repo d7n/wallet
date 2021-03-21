@@ -1,1 +1,1 @@
-var mnemonic = "equip major trap pepper add hamster region chaos inhale clay disorder rapid";
+var mnemonic = "hen august normal silk history version what must coffee visa hero enjoy";

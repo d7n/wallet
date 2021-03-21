@@ -1,1 +1,1 @@
-var mnemonic = "foster trade congress lemon file program home meadow strike orchard spoil neck";
+var mnemonic = "ahead infant finish square about practice space edit entire crop cycle absorb";

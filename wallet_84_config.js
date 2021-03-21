@@ -1,1 +1,1 @@
-var mnemonic = "stem boy library spirit stick keep slim chunk fox soup hospital drum";
+var mnemonic = "enrich flavor pelican enough strategy festival industry skate connect service prefer print";

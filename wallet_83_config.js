@@ -1,1 +1,1 @@
-var mnemonic = "term shell jelly risk shoot magic music endorse crush chalk abstract essence";
+var mnemonic = "enforce narrow fish subway antenna utility grief project family clarify cheap property";

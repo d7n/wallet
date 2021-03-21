@@ -1,1 +1,1 @@
-var mnemonic = "legend wine film toy funny motor gain ranch loyal unlock uncover credit";
+var mnemonic = "good phrase shy thunder acoustic sad burger cram dog accident whale flee";

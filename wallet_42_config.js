@@ -1,1 +1,1 @@
-var mnemonic = "olive hard now veteran shove law immense strike write turn family gate";
+var mnemonic = "blouse scrub excite garlic olive mention aware basket indoor main combine code";

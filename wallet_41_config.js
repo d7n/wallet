@@ -1,1 +1,1 @@
-var mnemonic = "door tattoo boost medal kick scheme jealous uncle actress home assist tomato";
+var mnemonic = "hedgehog wall enact nephew jacket obscure inch social group galaxy casino element";

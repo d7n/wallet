@@ -1,1 +1,1 @@
-var mnemonic = "vocal piano spot blood fee govern east aim satoshi century speak grow";
+var mnemonic = "winner decline wash today issue future bird hollow hope reform crumble shrug";

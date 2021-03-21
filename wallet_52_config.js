@@ -1,1 +1,1 @@
-var mnemonic = "gospel frog grit milk wonder shoulder transfer arena suit decrease regular connect";
+var mnemonic = "cushion bread theory outer ribbon pool lamp fame voyage often firm spike";

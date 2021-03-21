@@ -1,1 +1,1 @@
-var mnemonic = "twice hard during sing reopen despair jaguar tomorrow air victory fine true";
+var mnemonic = "gravity journey bamboo admit street minute sand pluck special horn hamster nice";

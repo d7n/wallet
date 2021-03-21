@@ -1,1 +1,1 @@
-var mnemonic = "base grunt female cliff old sign rocket nerve coin scrub beach blur";
+var mnemonic = "top actress observe output pole valve library foot bundle emerge clump all";

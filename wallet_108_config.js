@@ -1,1 +1,1 @@
-var mnemonic = "leader evidence safe torch hold cause panic result special junior either spot";
+var mnemonic = "cheap venue lawn obey west lock review enforce diary hole cargo fatigue";

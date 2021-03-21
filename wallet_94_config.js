@@ -1,1 +1,1 @@
-var mnemonic = "trap ecology ozone method fly ecology turtle school sun crush silk physical";
+var mnemonic = "focus buyer arrest twin acquire pulse layer vanish popular quit month juice";

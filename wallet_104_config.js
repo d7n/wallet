@@ -1,1 +1,1 @@
-var mnemonic = "rack pelican arrest breeze save hover butter need net mobile december cross";
+var mnemonic = "lab bid snap stick position boy oven oxygen north oxygen salute medal";

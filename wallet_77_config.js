@@ -1,1 +1,1 @@
-var mnemonic = "crouch figure frame boring glue again student evolve flock bring lend add";
+var mnemonic = "digital rabbit motor east ridge purchase used thing family cable relief anger";

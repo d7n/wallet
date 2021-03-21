@@ -1,1 +1,1 @@
-var mnemonic = "become stomach harbor version security wear correct treat dignity legend key tube";
+var mnemonic = "bargain mind post priority tell nasty gravity carpet room situate dismiss world";

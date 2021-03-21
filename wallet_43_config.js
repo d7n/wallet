@@ -1,1 +1,1 @@
-var mnemonic = "burger quantum damage tobacco main electric spell level sound biology vacant kiwi";
+var mnemonic = "trumpet source warfare nice lock issue finger unique spoon immense win disease";

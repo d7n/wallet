@@ -1,1 +1,1 @@
-var mnemonic = "emotion tongue drive certain stamp castle toast pet aware occur destroy swear";
+var mnemonic = "divorce alpha visit zero kiss alter disorder tide six misery hundred relax";

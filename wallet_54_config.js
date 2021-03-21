@@ -1,1 +1,1 @@
-var mnemonic = "divide debris fabric car involve exhaust leave tube pipe industry sand armor";
+var mnemonic = "trick cash green quote champion account swing very cannon example sibling dinosaur";

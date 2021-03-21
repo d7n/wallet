@@ -1,1 +1,1 @@
-var mnemonic = "ribbon nothing ice stairs recipe mixture front planet holiday shallow economy movie";
+var mnemonic = "wall dinner accuse eyebrow fiscal hour wave swallow unable artwork network round";

@@ -1,1 +1,1 @@
-var mnemonic = "usage remember ritual dolphin kingdom practice other today expose liquid enable dice";
+var mnemonic = "receive denial swift pizza glide skin rhythm cattle among insane mercy chief";

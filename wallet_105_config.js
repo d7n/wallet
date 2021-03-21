@@ -1,1 +1,1 @@
-var mnemonic = "romance section peasant approve slender mystery order mention pulse tackle devote street";
+var mnemonic = "diet viable effort another wreck spell vote food hint test swarm wrap";

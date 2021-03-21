@@ -1,1 +1,1 @@
-var mnemonic = "undo alert juice orbit alone chase patient assist loud dress hotel jealous";
+var mnemonic = "page reward upon industry combine sniff surround upset heavy derive canvas winter";

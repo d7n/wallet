@@ -1,1 +1,1 @@
-var mnemonic = "cost survey either clever rather donate border spread sample enough risk sentence";
+var mnemonic = "expire genre follow slab farm share detail mom olympic alone finger forest";

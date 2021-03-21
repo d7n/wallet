@@ -1,1 +1,1 @@
-var mnemonic = "pet undo ozone usual harbor forum nut fork moment hub flash museum";
+var mnemonic = "assault envelope border copper follow supreme remind fiscal obey broom skill enlist";

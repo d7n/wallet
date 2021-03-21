@@ -1,1 +1,1 @@
-var mnemonic = "pool sister west floor nature primary meadow feature atom thing equip swap";
+var mnemonic = "noise health where miss actress venture liberty use tray slam rally bless";

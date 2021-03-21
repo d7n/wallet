@@ -1,1 +1,1 @@
-var mnemonic = "section dose banana erosion captain motor artwork follow muscle calm answer salute";
+var mnemonic = "camp true viable uncle duck imitate mean attract small blast liar artefact";

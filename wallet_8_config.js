@@ -1,1 +1,1 @@
-var mnemonic = "pride stick pizza copy click physical nephew match gesture you fruit hello";
+var mnemonic = "vast miracle inquiry reason shine unfold spray injury lift economy company dose";

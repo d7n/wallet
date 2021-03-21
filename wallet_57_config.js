@@ -1,1 +1,1 @@
-var mnemonic = "mushroom bridge order father frown correct ripple hazard infant disorder ugly umbrella";
+var mnemonic = "piece link anxiety fix web retire survey ball room about six gravity";

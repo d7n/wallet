@@ -1,1 +1,1 @@
-var mnemonic = "sea comfort fortune hello please company bundle still anger wish siren loop";
+var mnemonic = "junk window rain clock fall over trumpet egg stick vicious fringe lazy";

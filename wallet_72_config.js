@@ -1,1 +1,1 @@
-var mnemonic = "sunset disorder refuse dumb citizen cruise quote pair category knee okay have";
+var mnemonic = "ramp property jaguar donate grace month short half dust soap salad depend";

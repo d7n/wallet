@@ -1,1 +1,1 @@
-var mnemonic = "pencil crucial quarter trumpet salute unhappy obscure estate brass announce fetch matrix";
+var mnemonic = "easy express fitness fury brush enjoy swallow subway million rare inch tent";

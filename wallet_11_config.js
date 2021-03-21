@@ -1,1 +1,1 @@
-var mnemonic = "donkey pass derive replace art shell light clinic dice weird brisk border";
+var mnemonic = "mouse stool curtain master task soap dose improve wrap mail table lift";

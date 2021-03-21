@@ -1,1 +1,1 @@
-var mnemonic = "peasant shove transfer final sun speak toilet helmet all reveal old water";
+var mnemonic = "access village witness weekend hip mixture test avocado artwork robust degree shield";

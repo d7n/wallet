@@ -1,1 +1,1 @@
-var mnemonic = "meat above marriage tuition drive drill carry old earth frequent hunt priority";
+var mnemonic = "tobacco smoke farm warm taste slice burden frequent warfare kiss service collect";

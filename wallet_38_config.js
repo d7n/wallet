@@ -1,1 +1,1 @@
-var mnemonic = "rain expect talk drill defy craft ginger luxury cheap inherit deny tumble";
+var mnemonic = "impact car raise close asthma garage crunch adapt vivid party laptop business";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce edit nuclear wall front auction radio wonder puppy barely grab chicken";
+var mnemonic = "copper rice barely have piece eager slide tissue shoe push clarify job";

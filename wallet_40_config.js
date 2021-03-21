@@ -1,1 +1,1 @@
-var mnemonic = "creek pull stick truly very switch charge alcohol twist stock kingdom actress";
+var mnemonic = "wealth degree snack work cause vague swear earth auto senior candy truth";

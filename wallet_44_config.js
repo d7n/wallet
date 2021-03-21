@@ -1,1 +1,1 @@
-var mnemonic = "sick arrest diet hybrid age attract crack bless art item evolve slot";
+var mnemonic = "focus divorce crop donkey giant traffic flag ripple gossip pigeon dismiss forget";

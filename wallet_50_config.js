@@ -1,1 +1,1 @@
-var mnemonic = "measure album divorce describe private nut forget title start law popular fade";
+var mnemonic = "group soccer chair east hair kiss vacant add flush spray zero near";

@@ -1,1 +1,1 @@
-var mnemonic = "typical orchard inquiry panther behind inner sniff squirrel knife decline adult private";
+var mnemonic = "deer else someone stem dentist little pair apology survey unaware coast fault";

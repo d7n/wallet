@@ -1,1 +1,1 @@
-var mnemonic = "goddess divide govern increase monitor cupboard away purity nature second humble solar";
+var mnemonic = "spatial rifle test adapt hurry chimney mercy lyrics light omit square badge";

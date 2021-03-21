@@ -1,1 +1,1 @@
-var mnemonic = "canal race board wrist want entry giant syrup december gap stay valid";
+var mnemonic = "whip elegant almost amateur poverty excuse melody glad shield category order apart";

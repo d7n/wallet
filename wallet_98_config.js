@@ -1,1 +1,1 @@
-var mnemonic = "choice pitch illegal chat convince palace access write year move alien bronze";
+var mnemonic = "crouch father repeat prefer unusual thing tail hard jazz action same clock";

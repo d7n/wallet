@@ -1,1 +1,1 @@
-var mnemonic = "doll laundry spot echo system domain woman spread layer season step foam";
+var mnemonic = "alter clay zero fancy clever alter skill novel mechanic fish index maximum";

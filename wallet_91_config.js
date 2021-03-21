@@ -1,1 +1,1 @@
-var mnemonic = "arena first stand shine stem mad cloud primary scrap steak salute century";
+var mnemonic = "anchor surround bundle dash town network employ wine clutch turn school distance";

@@ -1,1 +1,1 @@
-var mnemonic = "pool festival submit replace melt output shove wire surge jungle radio slab";
+var mnemonic = "scale brand sure surround ankle sauce control abandon cause blame pepper twenty";

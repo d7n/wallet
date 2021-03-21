@@ -1,1 +1,1 @@
-var mnemonic = "make robot critic face panda medal tower patch inner grow afraid marine";
+var mnemonic = "echo insane wing hundred staff prevent can clog shuffle vintage praise cook";

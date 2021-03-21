@@ -1,1 +1,1 @@
-var mnemonic = "banner naive size snake shove tail brand clean tongue art neglect champion";
+var mnemonic = "floor good best click asset vessel grace reward poverty hurdle wrestle ticket";

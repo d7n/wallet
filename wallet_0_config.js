@@ -1,1 +1,1 @@
-var mnemonic = "initial shock galaxy cart document frog harbor apology buddy add gather stairs";
+var mnemonic = "meadow once special shadow require resemble wood check emotion aerobic rain garment";

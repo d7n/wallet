@@ -1,1 +1,1 @@
-var mnemonic = "night lock gospel beach theory team kit hockey alert minute surround cactus";
+var mnemonic = "pelican hazard rough burst cheap radar inspire name country kingdom make police";

@@ -1,1 +1,1 @@
-var mnemonic = "type guilt guitar vicious surface biology lunar hybrid robot poet palm field";
+var mnemonic = "update river panic cup prevent fantasy relief pistol capital stable process panther";

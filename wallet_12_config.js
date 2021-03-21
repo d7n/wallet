@@ -1,1 +1,1 @@
-var mnemonic = "shoe tornado usual panther pole useless spike spider popular actress impose credit";
+var mnemonic = "crawl ask august bunker call merit income illness decide six belt render";

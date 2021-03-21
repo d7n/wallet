@@ -1,1 +1,1 @@
-var mnemonic = "snake umbrella vocal bomb brown burst earth dilemma view power cliff latin";
+var mnemonic = "wine frozen reason shiver sense life vessel logic autumn clerk glory average";
