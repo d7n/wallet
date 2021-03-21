@@ -1,1 +1,1 @@
-var mnemonic = "claw rack borrow flavor quit custom april old loop virtual amount cube";
+var mnemonic = "enter naive silly teach claim mimic drama allow vault start type sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "empty switch unveil shop toddler guess venture lawn siren number east behind";
+var mnemonic = "differ cute turtle swim sausage rough goddess frequent view jaguar castle finger";

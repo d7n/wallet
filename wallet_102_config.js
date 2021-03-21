@@ -1,1 +1,1 @@
-var mnemonic = "welcome ski until include grain vague canvas enact oven walk burst wage";
+var mnemonic = "couch confirm select gown fluid citizen simple nuclear ramp moon river original";

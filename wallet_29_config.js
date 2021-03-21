@@ -1,1 +1,1 @@
-var mnemonic = "solar quarter patch hidden today vocal charge brave entry aerobic side angry";
+var mnemonic = "differ spice accident young elder midnight surge upgrade process cancel ready section";

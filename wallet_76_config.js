@@ -1,1 +1,1 @@
-var mnemonic = "describe brief silver sorry nurse employ body couple note fossil swear receive";
+var mnemonic = "chat output wild little coin father dream turn belt carpet police grain";

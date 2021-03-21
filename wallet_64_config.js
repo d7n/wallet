@@ -1,1 +1,1 @@
-var mnemonic = "lock crawl west resist mad exist weasel chronic shiver tomorrow annual urge";
+var mnemonic = "local vicious staff goddess dust easily spirit exotic evoke patch carry cost";

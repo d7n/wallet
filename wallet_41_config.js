@@ -1,1 +1,1 @@
-var mnemonic = "income around soda mosquito live able country earth evil trophy marble quit";
+var mnemonic = "make heart appear curtain ability van chef theory subway mammal cycle increase";

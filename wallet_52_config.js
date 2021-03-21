@@ -1,1 +1,1 @@
-var mnemonic = "joy dune bubble vault nut machine cash enable glass winter trigger joke";
+var mnemonic = "mention spider dinner mosquito measure design enlist next denial laundry defense say";

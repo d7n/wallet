@@ -1,1 +1,1 @@
-var mnemonic = "brave rebel festival start dune nerve quick insane lake season control mixture";
+var mnemonic = "toilet ball robust shed stool service echo appear question float whale silent";

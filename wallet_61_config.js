@@ -1,1 +1,1 @@
-var mnemonic = "brand exhibit borrow true such sand actor dial beyond panic satisfy bus";
+var mnemonic = "fly leopard layer vendor female hurdle color couple burden amused slogan satisfy";

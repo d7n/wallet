@@ -1,1 +1,1 @@
-var mnemonic = "usual tell guard mother worry loyal empty space ocean window cherry cabbage";
+var mnemonic = "roast alien edit latin gaze place coast pair forward obtain local fuel";

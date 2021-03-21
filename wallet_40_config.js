@@ -1,1 +1,1 @@
-var mnemonic = "proof upgrade menu squirrel bag orange give scare large cross afford twice";
+var mnemonic = "scrub glide wonder seat day patrol sea trial category cradle infant visit";

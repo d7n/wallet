@@ -1,1 +1,1 @@
-var mnemonic = "obtain sing giraffe weasel van sing man method monster accuse between foil";
+var mnemonic = "cloth toward slow debate spy slide tilt orchard strategy okay boss enhance";

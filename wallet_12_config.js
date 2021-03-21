@@ -1,1 +1,1 @@
-var mnemonic = "during method lottery race myth car impose bulb truck sweet december pride";
+var mnemonic = "token ticket silly post twelve era wrong deny cattle spoil coffee code";

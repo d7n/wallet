@@ -1,1 +1,1 @@
-var mnemonic = "chest banner calm cluster mask prepare enact present amount uniform animal convince";
+var mnemonic = "sign egg category agent airport wall drama scorpion cricket era sponsor endorse";

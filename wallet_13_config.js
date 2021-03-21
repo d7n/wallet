@@ -1,1 +1,1 @@
-var mnemonic = "strike hunt high test street wood situate ranch wood cliff drive dress";
+var mnemonic = "enable blush boring media useful code similar shop tumble arena pond differ";

@@ -1,1 +1,1 @@
-var mnemonic = "prison twice quantum service cruel purity joke front such total walnut ramp";
+var mnemonic = "weird dance blind maximum situate mimic paper silly armed cage follow album";

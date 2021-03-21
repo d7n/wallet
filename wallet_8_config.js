@@ -1,1 +1,1 @@
-var mnemonic = "error original solution eye main sad emerge upper calm nerve heavy cage";
+var mnemonic = "book grape odor industry sword devote stage rival relax industry direct echo";

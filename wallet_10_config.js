@@ -1,1 +1,1 @@
-var mnemonic = "drift pair brisk random size slab absent replace maple strong social drill";
+var mnemonic = "scissors amateur cradle beauty bunker athlete rival nominee remind shrug hybrid liquid";

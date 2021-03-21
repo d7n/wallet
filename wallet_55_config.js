@@ -1,1 +1,1 @@
-var mnemonic = "please cactus relax kingdom ugly click mixture robot acid famous gallery effort";
+var mnemonic = "search repeat defense solve scrub foil cycle aisle crisp logic easy knee";

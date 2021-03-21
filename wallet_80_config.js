@@ -1,1 +1,1 @@
-var mnemonic = "midnight december broccoli eagle creek top task pill airport vicious nothing romance";
+var mnemonic = "grant inform mercy tiny era gentle slab trap heavy crowd solve hybrid";

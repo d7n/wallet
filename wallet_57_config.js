@@ -1,1 +1,1 @@
-var mnemonic = "addict master open brown various salmon swarm pigeon flower magnet prevent asset";
+var mnemonic = "riot sad pencil vicious praise tube diet upper grid slab flag anxiety";

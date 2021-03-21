@@ -1,1 +1,1 @@
-var mnemonic = "tree image number tourist element recipe parrot once lunar jeans match thunder";
+var mnemonic = "giraffe engine taste industry solar pass token naive soap match saddle scene";

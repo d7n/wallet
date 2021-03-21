@@ -1,1 +1,1 @@
-var mnemonic = "injury clarify safe tackle govern fossil gospel physical auto cross galaxy box";
+var mnemonic = "dolphin help chalk board mammal glare bundle lift grape gather claw doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony basket source danger fluid fatal elevator ahead sustain unit glue regret";
+var mnemonic = "regret cash ceiling old text bronze blood vapor depart army junk dirt";

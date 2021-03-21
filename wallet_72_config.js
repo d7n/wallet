@@ -1,1 +1,1 @@
-var mnemonic = "switch gain furnace pumpkin trust finish million solid moment scare frost defense";
+var mnemonic = "upper degree own grace auction diamond sorry happy report vibrant cram remain";

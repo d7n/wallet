@@ -1,1 +1,1 @@
-var mnemonic = "okay brief start brief segment usual pig remain traffic monster fat galaxy";
+var mnemonic = "guide hurry bring rigid trigger lend crack wink call essay disease erosion";

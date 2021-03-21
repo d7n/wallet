@@ -1,1 +1,1 @@
-var mnemonic = "replace shock just bullet blame tongue immense balcony furnace program giraffe trophy";
+var mnemonic = "spin birth section cute catalog surround survey fan coast journey harbor slender";

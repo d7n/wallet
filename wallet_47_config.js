@@ -1,1 +1,1 @@
-var mnemonic = "disagree tunnel glance file start lake tip hybrid milk typical away kind";
+var mnemonic = "cool stock sample pudding snap entry cat combine crush hole muscle audit";

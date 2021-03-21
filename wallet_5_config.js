@@ -1,1 +1,1 @@
-var mnemonic = "boring mimic smooth rigid scale pause tomato glance lab profit blur virtual";
+var mnemonic = "figure engage adult pride correct unique emotion three science absurd alcohol seminar";

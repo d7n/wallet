@@ -1,1 +1,1 @@
-var mnemonic = "enough one protect flower side target castle abandon pupil file limb market";
+var mnemonic = "spatial accuse display talk fish dinosaur lift poverty shaft junior athlete kangaroo";

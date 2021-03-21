@@ -1,1 +1,1 @@
-var mnemonic = "spy ranch steak long ethics plunge lava ridge media tail raw mirror";
+var mnemonic = "sugar jewel search boring polar birth squirrel post violin regret kitten cube";

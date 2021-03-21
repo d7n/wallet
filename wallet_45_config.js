@@ -1,1 +1,1 @@
-var mnemonic = "section crystal please pudding lyrics property vanish curtain gallery visual caution fiction";
+var mnemonic = "humor method satisfy reason glow gasp develop prefer thunder liberty own trend";

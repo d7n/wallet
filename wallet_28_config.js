@@ -1,1 +1,1 @@
-var mnemonic = "alter carry into across used pig state loan aspect balance beach brush";
+var mnemonic = "inspire favorite seed average target neglect road group puzzle butter sign velvet";

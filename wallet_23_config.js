@@ -1,1 +1,1 @@
-var mnemonic = "brief achieve mouse away alarm disorder infant sweet attract shock fossil until";
+var mnemonic = "kit jar board father scrap icon busy casual second owner can spring";

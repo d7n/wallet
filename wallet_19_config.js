@@ -1,1 +1,1 @@
-var mnemonic = "omit put broccoli wedding page cliff carbon speak apology build jeans three";
+var mnemonic = "hybrid burst trap tunnel dinosaur urge bounce moment excess large pulse confirm";

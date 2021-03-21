@@ -1,1 +1,1 @@
-var mnemonic = "accident despair owner actor cage swap cruise tortoise garage slow tent fury";
+var mnemonic = "sniff base frost predict grass resist chief goose alpha dragon first very";

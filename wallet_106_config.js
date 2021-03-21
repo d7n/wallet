@@ -1,1 +1,1 @@
-var mnemonic = "scrap police where range educate culture quarter wrestle point action myself image";
+var mnemonic = "lounge lumber mouse entry bunker clown odor fluid flag science steak exile";

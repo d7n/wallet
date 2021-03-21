@@ -1,1 +1,1 @@
-var mnemonic = "amazing rice alert donor joy sentence boy mansion wealth among wood roast";
+var mnemonic = "erase labor palm area awesome atom mean nurse pioneer gold noble aisle";

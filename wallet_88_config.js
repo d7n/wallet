@@ -1,1 +1,1 @@
-var mnemonic = "enrich ice attitude genius any chat minute yellow can number calm tray";
+var mnemonic = "charge body mule sentence pink wish error spice addict odor talk trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard finger stuff else fiscal demand test accuse pink turkey repair avocado";
+var mnemonic = "fancy select indicate invest antique oak level siren enrich goddess you rabbit";

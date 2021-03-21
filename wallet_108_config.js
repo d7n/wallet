@@ -1,1 +1,1 @@
-var mnemonic = "blue employ erosion early busy region satoshi legend capable toilet foster clay";
+var mnemonic = "invest victory arctic dumb dinner rack caught tube remember winner asset maple";

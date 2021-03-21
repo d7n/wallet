@@ -1,1 +1,1 @@
-var mnemonic = "square session iron subway flush figure prosper margin puppy vibrant morning symbol";
+var mnemonic = "they grain coast need chest critic orchard south question custom harvest lemon";

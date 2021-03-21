@@ -1,1 +1,1 @@
-var mnemonic = "tiny soul fatigue tunnel have ill error shine thank glue follow okay";
+var mnemonic = "good amount lonely fancy update engage between upper unfair apart devote ripple";

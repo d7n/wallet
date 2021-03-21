@@ -1,1 +1,1 @@
-var mnemonic = "reopen toward merit notice combine mind present language search flat wedding brief";
+var mnemonic = "century buddy ahead level useless neither mistake gold similar lion crucial ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel guide story wave sand milk moon little win talk rookie exclude";
+var mnemonic = "festival mobile aisle evil half fence deposit citizen ranch salt armed soldier";

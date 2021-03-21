@@ -1,1 +1,1 @@
-var mnemonic = "arena comic rent tortoise collect wave youth retire mercy wise paddle sadness";
+var mnemonic = "maximum lake erupt tooth boil just laugh castle cabbage fish canyon museum";

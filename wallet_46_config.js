@@ -1,1 +1,1 @@
-var mnemonic = "teach injury lobster fantasy grain razor useful usage rebel soap code mask";
+var mnemonic = "satoshi vague stone mass field choose size travel trap opinion weasel shy";

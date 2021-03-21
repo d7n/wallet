@@ -1,1 +1,1 @@
-var mnemonic = "emerge denial blind point panel high nurse other trip flower grow obey";
+var mnemonic = "cradle skin unknown frame chair silly income kitchen tail vehicle awesome true";

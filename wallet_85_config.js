@@ -1,1 +1,1 @@
-var mnemonic = "put fold trash menu roof toy scan gown wide sunset jump tourist";
+var mnemonic = "prepare lab train cloth loop final maid nice sail impact thank fork";

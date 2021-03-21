@@ -1,1 +1,1 @@
-var mnemonic = "found hole bubble critic slender awesome ketchup island kitten veteran sister error";
+var mnemonic = "kit picnic primary cloth coffee warfare chicken hundred obey clump govern drill";

@@ -1,1 +1,1 @@
-var mnemonic = "assault forget where delay chronic pole blouse hurry rib ecology width click";
+var mnemonic = "already find pipe unveil razor stamp tribe middle tortoise lab fat inquiry";

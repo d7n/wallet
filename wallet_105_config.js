@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur moment marble pigeon bean old clog entire evidence fury undo exhibit";
+var mnemonic = "seminar logic search frequent rotate beauty hip electric unveil stairs rebuild dwarf";

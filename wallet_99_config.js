@@ -1,1 +1,1 @@
-var mnemonic = "spend pipe door arena destroy urban sphere clinic gain state chef book";
+var mnemonic = "bunker risk genius size make erode wet program treat record bag debate";

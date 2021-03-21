@@ -1,1 +1,1 @@
-var mnemonic = "crane culture december smart essay pitch around venue hair stone action canal";
+var mnemonic = "body space appear frown chief deny plunge volcano antique oxygen rhythm arm";

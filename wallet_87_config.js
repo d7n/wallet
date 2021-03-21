@@ -1,1 +1,1 @@
-var mnemonic = "welcome crack evidence cinnamon crisp fashion essence learn faint fetch sorry cushion";
+var mnemonic = "stone crawl praise alone wealth poverty sudden trend tape pole bus reform";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth eye gorilla round retire sweet wine cart often flee basket bean";
+var mnemonic = "cabbage mammal alarm diary bundle coach cattle damp shed pottery dismiss vault";

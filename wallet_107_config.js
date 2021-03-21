@@ -1,1 +1,1 @@
-var mnemonic = "reform size burger chase seek bunker trick couple typical coffee ginger evolve";
+var mnemonic = "luggage treat space shallow hair wait find alpha climb fish yellow immense";

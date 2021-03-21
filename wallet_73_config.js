@@ -1,1 +1,1 @@
-var mnemonic = "dizzy tribe art skill salute twice opinion midnight soap turtle scorpion own";
+var mnemonic = "over motion path little erase future hungry bless wire october extend venture";

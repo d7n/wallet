@@ -1,1 +1,1 @@
-var mnemonic = "develop short dry obscure team wagon despair onion clown ginger drama wrap";
+var mnemonic = "way scene link gentle input job avocado under pave ensure fabric lazy";

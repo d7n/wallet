@@ -1,1 +1,1 @@
-var mnemonic = "ozone join harvest crucial case pretty okay original weapon rather bicycle venue";
+var mnemonic = "acid drop laundry detect stable eager book universe margin forest fly spend";

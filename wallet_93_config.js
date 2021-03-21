@@ -1,1 +1,1 @@
-var mnemonic = "hobby motion clever hidden trip tribe humor nominee episode door hover stool";
+var mnemonic = "saddle gown lift define duck achieve mushroom wink typical quality dinner duck";

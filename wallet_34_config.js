@@ -1,1 +1,1 @@
-var mnemonic = "input symbol skate observe volcano desk sniff quote embrace load myself pair";
+var mnemonic = "elevator magnet honey unknown style dial carry symbol sister forward ball message";

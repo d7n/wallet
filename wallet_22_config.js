@@ -1,1 +1,1 @@
-var mnemonic = "wise illness file kitchen retreat decide zero narrow unusual sound guide patrol";
+var mnemonic = "pelican depend ride steel moral goose age tiny swarm asthma often enough";

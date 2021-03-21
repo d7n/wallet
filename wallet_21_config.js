@@ -1,1 +1,1 @@
-var mnemonic = "cluster doctor tip media menu cycle change hold steel ship opera ginger";
+var mnemonic = "health tuna nasty ski return shove else wealth gate stage broccoli glass";

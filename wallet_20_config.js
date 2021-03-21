@@ -1,1 +1,1 @@
-var mnemonic = "tiger term oak evolve hip into drip negative toss since soldier exile";
+var mnemonic = "sentence oil void laundry mother change gesture bicycle edge cement hungry bonus";

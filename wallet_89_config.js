@@ -1,1 +1,1 @@
-var mnemonic = "skin industry coast liar clump pulp armed menu plastic festival place exhibit";
+var mnemonic = "wash tongue bike area measure concert repair around female disease explain egg";

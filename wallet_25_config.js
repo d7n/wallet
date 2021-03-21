@@ -1,1 +1,1 @@
-var mnemonic = "window avocado sorry shoulder hub mother gallery spread neutral virus kingdom hat";
+var mnemonic = "figure thumb loop review mandate brass claim large swim useless salad shop";

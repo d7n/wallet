@@ -1,1 +1,1 @@
-var mnemonic = "aim auto miracle husband quote way feel gospel miracle kitten essay trade";
+var mnemonic = "cycle mass solid olympic electric bar fortune kiwi fade year correct joy";

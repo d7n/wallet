@@ -1,1 +1,1 @@
-var mnemonic = "current alcohol gown joke multiply tree cabbage track fatal lion vital pen";
+var mnemonic = "legal resource biology army friend crawl fiber tongue next december ladder debate";

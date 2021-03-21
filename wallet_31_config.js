@@ -1,1 +1,1 @@
-var mnemonic = "swim before picnic chuckle split cliff robot abstract giant evolve claw program";
+var mnemonic = "flush list diamond end want raven dial soap dial salt movie tent";

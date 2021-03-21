@@ -1,1 +1,1 @@
-var mnemonic = "provide where salt frequent curious journey exclude shaft must final inside party";
+var mnemonic = "garden crisp furnace disorder mango pair butter joy merry confirm hundred silk";

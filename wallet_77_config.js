@@ -1,1 +1,1 @@
-var mnemonic = "fly around gaze effort mask mammal rich foam annual like alert hero";
+var mnemonic = "state able census shrug force luxury swamp project float cart grace author";

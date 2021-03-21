@@ -1,1 +1,1 @@
-var mnemonic = "session pink history rebuild silk stadium trouble kite laundry holiday list pave";
+var mnemonic = "finish stand patrol reward artwork spy nurse ethics upper valve escape torch";

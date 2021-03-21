@@ -1,1 +1,1 @@
-var mnemonic = "load lumber risk egg goat volume accident circle siren outside foot quality";
+var mnemonic = "typical lonely whale despair match torch delay laugh crush embody fade shoulder";

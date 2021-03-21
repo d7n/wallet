@@ -1,1 +1,1 @@
-var mnemonic = "marble mesh suit slush apart approve absorb time view raw envelope measure";
+var mnemonic = "phrase kangaroo object essay still image deposit first permit weapon viable crumble";

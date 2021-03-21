@@ -1,1 +1,1 @@
-var mnemonic = "festival matter balance race square tonight grid yard vote change whip pair";
+var mnemonic = "sea caution another wing staff off uniform basic truth little visual lady";
