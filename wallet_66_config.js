@@ -1,1 +1,1 @@
-var mnemonic = "net argue canal edge common heavy screen lunch scrub color decade busy";
+var mnemonic = "purse found window inner butter suffer whisper sustain october check item lens";

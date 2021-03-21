@@ -1,1 +1,1 @@
-var mnemonic = "more isolate emerge reduce oyster match write exact spatial giggle approve buyer";
+var mnemonic = "income disorder output capable bar verb want employ crew catalog reject color";

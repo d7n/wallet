@@ -1,1 +1,1 @@
-var mnemonic = "ozone release orange guess still entire brass oak scrub correct hip humble";
+var mnemonic = "blood swallow luxury follow wink angry autumn appear glory earth field snake";

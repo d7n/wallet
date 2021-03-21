@@ -1,1 +1,1 @@
-var mnemonic = "dismiss shoulder require media east between combine benefit invite minor twenty hip";
+var mnemonic = "follow still honey leisure forward valid that flip spoil immense stamp atom";

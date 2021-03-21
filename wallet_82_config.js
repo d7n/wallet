@@ -1,1 +1,1 @@
-var mnemonic = "alarm lava minimum screen ecology foam option cook arrange soft device juice";
+var mnemonic = "diet choice own float square hip sauce abuse stock robust online blind";

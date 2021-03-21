@@ -1,1 +1,1 @@
-var mnemonic = "wrist poet cook spend road grace average master when famous winter water";
+var mnemonic = "wool cycle power reopen fame obvious obtain hat minute spy exotic genre";

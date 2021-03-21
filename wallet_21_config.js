@@ -1,1 +1,1 @@
-var mnemonic = "mammal utility tell swift track brief oblige dad have talent reopen reform";
+var mnemonic = "cradle cradle pet advice confirm swing place become ostrich hobby skull marble";

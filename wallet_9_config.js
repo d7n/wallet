@@ -1,1 +1,1 @@
-var mnemonic = "party moon choice glimpse lyrics barely rotate inform eye discover used gym";
+var mnemonic = "grain tool blur cheese hockey design swallow wife drastic later grant glide";

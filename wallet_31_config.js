@@ -1,1 +1,1 @@
-var mnemonic = "behave lion divert phone guide sock lemon shield three swing decide snow";
+var mnemonic = "virtual exhibit adapt game major hood maximum glass catch auto minor lonely";

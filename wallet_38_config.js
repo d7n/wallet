@@ -1,1 +1,1 @@
-var mnemonic = "acoustic rubber spike clock modify such oblige deposit turtle reveal survey humor";
+var mnemonic = "sunny logic polar rubber vote future upset loud matrix depend great crisp";

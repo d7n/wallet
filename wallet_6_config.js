@@ -1,1 +1,1 @@
-var mnemonic = "ladder logic second casual wild switch danger imitate coach hire divert nest";
+var mnemonic = "iron embark usual night lend awkward ticket mango party decide history hire";

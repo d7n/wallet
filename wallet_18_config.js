@@ -1,1 +1,1 @@
-var mnemonic = "smile endorse answer salon bachelor boring fresh insect list hen silly year";
+var mnemonic = "pudding saddle magic provide remember extend erase during height fox embark account";

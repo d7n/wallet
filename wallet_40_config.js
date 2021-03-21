@@ -1,1 +1,1 @@
-var mnemonic = "retreat tomato apple youth nothing success pipe use reform bike trade bind";
+var mnemonic = "circle diary slice episode teach rich tourist hockey crane fog portion reform";

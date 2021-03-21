@@ -1,1 +1,1 @@
-var mnemonic = "smooth picnic cute erupt friend violin animal lift update butter bone coin";
+var mnemonic = "pass human shoot pear inject around radio chaos pitch remember member organ";

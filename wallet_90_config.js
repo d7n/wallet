@@ -1,1 +1,1 @@
-var mnemonic = "ride ignore nerve service joke uphold basket park swamp wet document tail";
+var mnemonic = "normal cook admit smart matter industry media clock luggage salute pass reunion";

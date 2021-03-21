@@ -1,1 +1,1 @@
-var mnemonic = "castle prefer please lounge civil ugly prison silk lyrics human dog woman";
+var mnemonic = "fat spread desert patrol drop guilt script bread school glance switch useful";

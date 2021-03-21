@@ -1,1 +1,1 @@
-var mnemonic = "walnut shock police truth gold churn tissue picnic essence consider candy noodle";
+var mnemonic = "era insect fiber balcony vicious gather super broken force speed frog exercise";

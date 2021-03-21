@@ -1,1 +1,1 @@
-var mnemonic = "brisk search oxygen lamp chapter seek chapter ethics wage barely way click";
+var mnemonic = "spike issue element immense suggest speak beyond grace team organ angle apology";

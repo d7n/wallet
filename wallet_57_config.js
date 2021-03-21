@@ -1,1 +1,1 @@
-var mnemonic = "indicate athlete snap occur tuition govern lawsuit mistake lake proof barely cattle";
+var mnemonic = "social like list furnace shy amused knee patrol universe funny cute blanket";

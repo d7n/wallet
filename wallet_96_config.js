@@ -1,1 +1,1 @@
-var mnemonic = "soap will climb solid erosion drive birth tube treat document oil model";
+var mnemonic = "beef laptop festival stumble baby valve drill wall hope property stairs sorry";

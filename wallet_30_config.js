@@ -1,1 +1,1 @@
-var mnemonic = "write present transfer split later cube slab resource toss loop essence depend";
+var mnemonic = "camera clarify ten prize river tank home clock tragic extra mixed find";

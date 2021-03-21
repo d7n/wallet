@@ -1,1 +1,1 @@
-var mnemonic = "anxiety van pipe member include snack oyster safe panic immense slide teach";
+var mnemonic = "funny picture news smoke trend leaf alone weasel evolve toast like teach";

@@ -1,1 +1,1 @@
-var mnemonic = "science token stamp fold process tube fall bulb subway normal mix soldier";
+var mnemonic = "absorb useful slush blur math over box little become casual have tube";

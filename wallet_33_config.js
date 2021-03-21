@@ -1,1 +1,1 @@
-var mnemonic = "sentence rally gallery around trust kit leg invite salmon minor motion alter";
+var mnemonic = "act impact catalog essence exotic notice weasel also twist melt copper hello";

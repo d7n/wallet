@@ -1,1 +1,1 @@
-var mnemonic = "orient desk dust dawn disease shiver then venue west response trash deny";
+var mnemonic = "earn bonus helmet stove grief lobster convince tornado current skirt text program";

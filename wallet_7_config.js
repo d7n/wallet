@@ -1,1 +1,1 @@
-var mnemonic = "hour junk enough into fee foil pretty portion remain yellow castle cotton";
+var mnemonic = "rabbit ripple bulb away involve situate load crawl act grow romance apple";

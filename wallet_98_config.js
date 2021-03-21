@@ -1,1 +1,1 @@
-var mnemonic = "evil unusual photo breeze honey decide orange amazing fault tobacco utility vague";
+var mnemonic = "actress tiny mutual essay involve rotate lunar gesture hover there trumpet update";

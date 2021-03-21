@@ -1,1 +1,1 @@
-var mnemonic = "voyage message sight vicious shock myth verify say slight flock input garlic";
+var mnemonic = "section there science tone sadness gold learn protect poem morning enroll spike";

@@ -1,1 +1,1 @@
-var mnemonic = "angle insane grape among great cliff couple crew obtain run flight movie";
+var mnemonic = "wisdom sketch myth frog certain dismiss short mango alpha space accident nurse";

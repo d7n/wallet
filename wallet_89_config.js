@@ -1,1 +1,1 @@
-var mnemonic = "dolphin shiver follow loud amazing risk sing example dial pitch master wall";
+var mnemonic = "smile figure praise strike lucky nut link coconut royal joke knee better";

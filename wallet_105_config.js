@@ -1,1 +1,1 @@
-var mnemonic = "fan blame blouse frame budget spend timber include twelve spoil often velvet";
+var mnemonic = "order settle yard damp prefer theme manage market harvest prevent code corn";

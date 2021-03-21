@@ -1,1 +1,1 @@
-var mnemonic = "machine teach industry lawsuit judge never metal rotate very tuition title unfair";
+var mnemonic = "face crush connect nut eternal genius emerge cricket turtle embark travel memory";

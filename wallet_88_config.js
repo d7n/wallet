@@ -1,1 +1,1 @@
-var mnemonic = "vanish sport best hope fan toilet finish capable gold limb truth walnut";
+var mnemonic = "valley document caught exclude glue engage awful stuff skin hold square depth";

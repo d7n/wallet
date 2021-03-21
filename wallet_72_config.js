@@ -1,1 +1,1 @@
-var mnemonic = "enemy way trade hybrid clump mind special metal ankle nature scout purse";
+var mnemonic = "wasp connect sword cancel globe traffic laptop dawn risk bracket swear vote";

@@ -1,1 +1,1 @@
-var mnemonic = "wall sound chase evolve choose mention smooth airport mom silent desk lottery";
+var mnemonic = "popular valid adapt empower west family logic wait tuna mixed way mansion";

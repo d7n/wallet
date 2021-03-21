@@ -1,1 +1,1 @@
-var mnemonic = "crisp need kiwi achieve wood holiday arrive finger system harbor mimic faith";
+var mnemonic = "retreat pretty pink defy mom off upper thrive kitten swing document lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "doll velvet shine thing claw scrub casual second file armor young remove";
+var mnemonic = "believe demise disagree collect soap angry zero blossom curtain inflict shoot other";

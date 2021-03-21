@@ -1,1 +1,1 @@
-var mnemonic = "fury awkward typical wedding blossom hurt asset cube hurry borrow gas celery";
+var mnemonic = "robot effort normal tunnel awesome horror measure flower wreck rough diary weapon";

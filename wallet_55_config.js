@@ -1,1 +1,1 @@
-var mnemonic = "social wing glue love diet rural possible object unfair title exit educate";
+var mnemonic = "olympic absorb picnic idea sentence sister tenant axis science brain youth chair";

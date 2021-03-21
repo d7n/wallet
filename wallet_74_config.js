@@ -1,1 +1,1 @@
-var mnemonic = "true purchase bench fragile bench involve raise delay shallow math discover video";
+var mnemonic = "find half modify horn army oil sustain seminar lemon foot family neutral";

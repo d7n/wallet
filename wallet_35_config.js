@@ -1,1 +1,1 @@
-var mnemonic = "ankle response surround again range blame hill lottery involve story elevator about";
+var mnemonic = "sell near just write become run blind exercise liquid portion main enrich";

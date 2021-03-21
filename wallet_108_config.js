@@ -1,1 +1,1 @@
-var mnemonic = "skirt cool season north twelve total bag example solar sample chalk dolphin";
+var mnemonic = "alien intact jazz they aerobic space robot real embrace panic deliver goat";

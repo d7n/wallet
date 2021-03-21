@@ -1,1 +1,1 @@
-var mnemonic = "submit punch peace similar surprise uncover addict excess journey van treat spider";
+var mnemonic = "wink orient usual culture start pear ramp jungle pink air diary barrel";

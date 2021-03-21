@@ -1,1 +1,1 @@
-var mnemonic = "second radio damp pelican episode this orient equip box cheap soon pair";
+var mnemonic = "rude there sauce save erase health inform aunt ripple outer grit job";

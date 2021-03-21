@@ -1,1 +1,1 @@
-var mnemonic = "ripple spring siren people column spatial loud harbor normal coconut magic raw";
+var mnemonic = "junior stage garden expect echo half magnet visual hammer life flat average";

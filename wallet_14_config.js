@@ -1,1 +1,1 @@
-var mnemonic = "blanket timber proud sorry wife rail jelly keep base tornado wrong divert";
+var mnemonic = "portion pulse diet turtle sniff decline toy web stock icon warm govern";

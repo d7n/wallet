@@ -1,1 +1,1 @@
-var mnemonic = "electric canal notice deputy fit style private bicycle damage own donkey daughter";
+var mnemonic = "upon amateur concert leg thing choice obtain genre human chest shine spare";

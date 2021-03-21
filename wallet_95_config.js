@@ -1,1 +1,1 @@
-var mnemonic = "update style cause evolve retire good swear drive cart dust warm carpet";
+var mnemonic = "impact palm divert resource inquiry express park uncle wild will front split";

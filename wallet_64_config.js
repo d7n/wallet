@@ -1,1 +1,1 @@
-var mnemonic = "idle chase dilemma glove insect side verify physical recycle dragon online same";
+var mnemonic = "zero river sock thank fee crumble grape off jewel join message home";

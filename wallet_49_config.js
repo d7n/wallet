@@ -1,1 +1,1 @@
-var mnemonic = "topple interest color almost boring puppy shaft resist arch quarter dry shoot";
+var mnemonic = "vibrant toilet toss giant expect system soccer zebra slender six dynamic leaf";

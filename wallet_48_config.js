@@ -1,1 +1,1 @@
-var mnemonic = "arrive balance mango cash nature silver track below ski boss divert faith";
+var mnemonic = "maple weapon blur tonight case bitter cream amused omit embark hedgehog put";

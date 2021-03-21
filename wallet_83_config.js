@@ -1,1 +1,1 @@
-var mnemonic = "screen awake grunt concert fee pig toy oval wear people rain dilemma";
+var mnemonic = "movie camp young birth feature cook grant nose lion chunk fence spirit";

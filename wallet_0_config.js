@@ -1,1 +1,1 @@
-var mnemonic = "again someone century ahead home acquire derive powder august primary romance extend";
+var mnemonic = "maze forum jump antique credit earth execute dish cargo lens budget pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "reject nation accuse pepper column side skill spy online victory wave machine";
+var mnemonic = "short hazard key trophy multiply supreme noble faculty enact radar draft sign";

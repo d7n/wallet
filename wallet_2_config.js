@@ -1,1 +1,1 @@
-var mnemonic = "icon rookie addict forget unfold unaware fabric grit plunge earth into quality";
+var mnemonic = "virus cherry chase city depth client rug thing luggage sleep add stomach";

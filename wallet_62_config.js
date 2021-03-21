@@ -1,1 +1,1 @@
-var mnemonic = "popular float gain rural scrap bread obvious surge together afford figure swarm";
+var mnemonic = "today unhappy chase wrong evoke stomach interest citizen math cost fresh jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "tower raise helmet hundred room matrix people expect work abandon distance maze";
+var mnemonic = "job issue exercise stadium vacant cake erode cactus gossip suffer wheat rally";

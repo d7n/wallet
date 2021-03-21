@@ -1,1 +1,1 @@
-var mnemonic = "extend ceiling ridge rose enlist fluid advice couch develop antique mixed pet";
+var mnemonic = "aim genius jewel achieve parent tide case ivory hero boat enact wait";

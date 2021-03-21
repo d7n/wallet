@@ -1,1 +1,1 @@
-var mnemonic = "jealous stool frown napkin canoe notable sustain turn donate genre april wrestle";
+var mnemonic = "style drop sure pattern evoke spoon fitness jelly ball clay police old";

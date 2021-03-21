@@ -1,1 +1,1 @@
-var mnemonic = "soda horror earn token hire adapt hope lizard satisfy curious cram carpet";
+var mnemonic = "add bring medal surge move wasp believe loyal weasel recipe rubber summer";

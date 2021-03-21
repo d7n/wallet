@@ -1,1 +1,1 @@
-var mnemonic = "patch night wine shed truck inspire start rail chalk private combine brisk";
+var mnemonic = "mouse pair surprise noodle kit siren pioneer seven knife alert shop sibling";

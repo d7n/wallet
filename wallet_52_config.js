@@ -1,1 +1,1 @@
-var mnemonic = "escape need total wet awkward clinic answer rookie empty shed lunar profit";
+var mnemonic = "aim thrive use path scatter hammer then bomb tree shine exhaust push";

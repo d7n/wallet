@@ -1,1 +1,1 @@
-var mnemonic = "afford undo fix subway okay betray expose shuffle jump pudding amused allow";
+var mnemonic = "grape remove amused song skirt will refuse piano cycle air diesel enemy";

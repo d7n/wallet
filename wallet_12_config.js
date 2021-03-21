@@ -1,1 +1,1 @@
-var mnemonic = "taste coach work toast power frame idea marble lounge arm fabric exercise";
+var mnemonic = "gap school tired trim clutch guess setup news bleak fall skirt wash";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer rotate method oblige camera shiver arctic love flag east document trial";
+var mnemonic = "switch castle wrap age swap maid better step napkin obscure divorce remember";

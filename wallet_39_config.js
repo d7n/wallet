@@ -1,1 +1,1 @@
-var mnemonic = "thrive avocado dragon pretty shuffle increase edit crime program grocery runway treat";
+var mnemonic = "rabbit panther student song ball arm wasp essay gospel gasp brother high";

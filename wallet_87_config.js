@@ -1,1 +1,1 @@
-var mnemonic = "spider veteran forget palm margin elbow sample asset predict neutral same local";
+var mnemonic = "awkward hen ability evidence stage ordinary day ginger ill grocery neglect treat";

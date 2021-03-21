@@ -1,1 +1,1 @@
-var mnemonic = "emotion direct valid escape chunk require between robot capable rebuild picnic during";
+var mnemonic = "scorpion album afford acoustic cactus mammal nasty person purity knee confirm brass";

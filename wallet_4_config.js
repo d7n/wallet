@@ -1,1 +1,1 @@
-var mnemonic = "original page bargain okay april soul ripple twist body van expand whisper";
+var mnemonic = "enforce elevator minor recipe strike candy flower neck melt below reform dress";

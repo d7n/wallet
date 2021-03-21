@@ -1,1 +1,1 @@
-var mnemonic = "tattoo that crawl wedding onion web wolf uncover vessel later album vibrant";
+var mnemonic = "solid glance uphold amused hover sibling company cream intact upon arch price";

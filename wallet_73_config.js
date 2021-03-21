@@ -1,1 +1,1 @@
-var mnemonic = "resemble defense train focus about rain topple gospel seven solar actor later";
+var mnemonic = "cabbage nuclear six fossil matrix salad amateur surge note mystery agent dose";

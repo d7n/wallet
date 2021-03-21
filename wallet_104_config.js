@@ -1,1 +1,1 @@
-var mnemonic = "blind clump fitness wood dilemma entry tank onion dawn vicious bag taxi";
+var mnemonic = "genre reason end mother shell trust usage beef smoke knock celery occur";

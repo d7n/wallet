@@ -1,1 +1,1 @@
-var mnemonic = "picnic mobile leave orange own long extend maid duck student draw hand";
+var mnemonic = "verify awesome soul balcony sketch cart gadget assist broccoli violin absurd toddler";

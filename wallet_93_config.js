@@ -1,1 +1,1 @@
-var mnemonic = "ring stock nephew puzzle lawsuit siren ghost economy ribbon license alien utility";
+var mnemonic = "suffer pottery observe dress supreme excite cage hat harbor vanish usual swim";

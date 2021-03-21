@@ -1,1 +1,1 @@
-var mnemonic = "rack jealous sniff disorder wheat shaft depart crucial vintage forget bar ten";
+var mnemonic = "settle output mechanic bicycle wide minor measure exercise shiver scene rhythm snap";

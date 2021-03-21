@@ -1,1 +1,1 @@
-var mnemonic = "bring stand gas eager lawsuit potato abandon loop owner gospel patient knife";
+var mnemonic = "hat credit fresh royal erupt coil budget intact tobacco tattoo tone waste";

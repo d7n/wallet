@@ -1,1 +1,1 @@
-var mnemonic = "crawl thing end bid myth album announce earth jaguar option tomorrow shell";
+var mnemonic = "car such art tone cancel guide fold polar network credit replace perfect";

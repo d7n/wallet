@@ -1,1 +1,1 @@
-var mnemonic = "puzzle private flag better fun photo flock model profit domain artefact disagree";
+var mnemonic = "unaware table easy sausage proof key trim cement frown certain audit vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "once powder birth concert happy second tenant hungry trumpet swarm essay young";
+var mnemonic = "mango vote warrior problem amused govern damage bring oxygen novel oval plastic";

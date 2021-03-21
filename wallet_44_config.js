@@ -1,1 +1,1 @@
-var mnemonic = "avocado tongue autumn grant short into sand core range seek wage congress";
+var mnemonic = "wing enrich depart clog spread garment later brain warrior copy report frequent";

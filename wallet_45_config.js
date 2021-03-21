@@ -1,1 +1,1 @@
-var mnemonic = "much valve fruit win blur actual coil human educate habit timber blush";
+var mnemonic = "spice oil coral wine route limb target steel toy decade wild liar";

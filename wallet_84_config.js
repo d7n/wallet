@@ -1,1 +1,1 @@
-var mnemonic = "winter hip screen infant slow wine easily very peasant clump bid cattle";
+var mnemonic = "front ask kick foot thumb donor daring multiply end harvest wisdom motor";

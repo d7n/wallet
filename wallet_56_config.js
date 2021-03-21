@@ -1,1 +1,1 @@
-var mnemonic = "bounce trial flavor leave glass margin quote night aunt clever cargo scissors";
+var mnemonic = "barely seminar enroll keep cloth skirt swear tank foam risk symptom blouse";

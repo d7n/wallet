@@ -1,1 +1,1 @@
-var mnemonic = "jazz bar absurd output mind donate shift canal cheap loop hand grape";
+var mnemonic = "assist elder purpose brass leg oblige next pole shoulder session hawk crush";

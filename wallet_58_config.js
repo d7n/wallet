@@ -1,1 +1,1 @@
-var mnemonic = "control walk nest frog want wall hedgehog setup castle tourist scale orange";
+var mnemonic = "execute monkey liar fire pause syrup speed try barely south alien lab";

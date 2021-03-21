@@ -1,1 +1,1 @@
-var mnemonic = "grain oven vault enlist that half inflict drama limb mass jelly flavor";
+var mnemonic = "coach gentle change brick spoon author mandate ring ocean father despair derive";

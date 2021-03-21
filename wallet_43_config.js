@@ -1,1 +1,1 @@
-var mnemonic = "tone extra ready glance lizard legal destroy midnight error tell sign sing";
+var mnemonic = "glove lamp update medal spoil chaos certain desert convince depend ticket crunch";

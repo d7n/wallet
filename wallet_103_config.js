@@ -1,1 +1,1 @@
-var mnemonic = "calm input business rail morning vapor family allow beach scare custom edge";
+var mnemonic = "measure bid say dwarf very jar bitter note speed year movie inquiry";

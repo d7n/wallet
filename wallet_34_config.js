@@ -1,1 +1,1 @@
-var mnemonic = "solve hedgehog bulb margin judge grit market way dumb valve pilot damp";
+var mnemonic = "fine october search timber join theme evoke pen mobile gesture behave endless";

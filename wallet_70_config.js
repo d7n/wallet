@@ -1,1 +1,1 @@
-var mnemonic = "cabbage sign lizard gallery lemon water tag brown jungle shy guilt foam";
+var mnemonic = "drip decorate shuffle gesture floor law century fortune shuffle size cliff become";

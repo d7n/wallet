@@ -1,1 +1,1 @@
-var mnemonic = "image quantum foil potato online shy best blush normal frequent square mix";
+var mnemonic = "scissors jelly zone ranch enlist employ predict milk dynamic much clutch remove";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar physical shine used mouse silent teach spell clip record twist bicycle";
+var mnemonic = "analyst twice defense emerge inquiry black clog disease latin behave input canoe";

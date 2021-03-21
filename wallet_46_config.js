@@ -1,1 +1,1 @@
-var mnemonic = "truck cotton sell flush weird alley bargain nose lift luggage pen give";
+var mnemonic = "fat case arctic yard camp tortoise can shy body luggage clump fetch";
