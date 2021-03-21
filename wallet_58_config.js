@@ -1,1 +1,1 @@
-var mnemonic = "mule join perfect child orbit display release jewel stereo join cake provide";
+var mnemonic = "reveal vendor tide predict romance spread venture truth come fan cliff bridge";

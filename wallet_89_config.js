@@ -1,1 +1,1 @@
-var mnemonic = "leaf actual author habit lift rude exhibit stadium chunk cause farm shell";
+var mnemonic = "skin industry coast liar clump pulp armed menu plastic festival place exhibit";

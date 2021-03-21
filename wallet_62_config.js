@@ -1,1 +1,1 @@
-var mnemonic = "sniff poverty stuff urban spider wreck change grape crack proof fatigue because";
+var mnemonic = "congress off gospel section enable danger erupt flash response theme happy exile";

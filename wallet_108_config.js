@@ -1,1 +1,1 @@
-var mnemonic = "wood body garage tissue popular joy mushroom fold paddle side diamond street";
+var mnemonic = "blue employ erosion early busy region satoshi legend capable toilet foster clay";

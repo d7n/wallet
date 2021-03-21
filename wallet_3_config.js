@@ -1,1 +1,1 @@
-var mnemonic = "trophy dinner certain reduce decline clump giraffe inhale quiz trumpet truth cruise";
+var mnemonic = "load lumber risk egg goat volume accident circle siren outside foot quality";

@@ -1,1 +1,1 @@
-var mnemonic = "solar repair desert cluster thank joke upon radio office innocent limb child";
+var mnemonic = "enrich ice attitude genius any chat minute yellow can number calm tray";

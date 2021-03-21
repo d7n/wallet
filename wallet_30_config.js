@@ -1,1 +1,1 @@
-var mnemonic = "another food sick husband tomato exit measure frog kitten hat denial torch";
+var mnemonic = "festival matter balance race square tonight grid yard vote change whip pair";

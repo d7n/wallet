@@ -1,1 +1,1 @@
-var mnemonic = "initial wear pudding guitar bless spoil whisper umbrella limb green square sister";
+var mnemonic = "input symbol skate observe volcano desk sniff quote embrace load myself pair";

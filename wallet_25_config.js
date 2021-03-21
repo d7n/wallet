@@ -1,1 +1,1 @@
-var mnemonic = "hidden submit call secret wash other sheriff ordinary snow smile bicycle receive";
+var mnemonic = "window avocado sorry shoulder hub mother gallery spread neutral virus kingdom hat";

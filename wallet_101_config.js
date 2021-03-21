@@ -1,1 +1,1 @@
-var mnemonic = "champion hollow daughter transfer tomorrow stand egg bonus midnight melody gloom inhale";
+var mnemonic = "usual tell guard mother worry loyal empty space ocean window cherry cabbage";

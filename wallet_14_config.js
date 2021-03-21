@@ -1,1 +1,1 @@
-var mnemonic = "symbol mirror key kingdom begin drastic ranch ice fault deputy pool hospital";
+var mnemonic = "peanut wine deal more wool scorpion uncle brave giggle rebel bid cereal";

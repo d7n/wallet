@@ -1,1 +1,1 @@
-var mnemonic = "report economy cloud bitter design master ostrich host talent dismiss damage giant";
+var mnemonic = "brand exhibit borrow true such sand actor dial beyond panic satisfy bus";

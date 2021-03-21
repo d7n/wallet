@@ -1,1 +1,1 @@
-var mnemonic = "level jump beef naive ribbon jar page stay accuse recipe small price";
+var mnemonic = "over amateur muscle upon human physical now knife tonight earn dilemma eagle";

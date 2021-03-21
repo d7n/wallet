@@ -1,1 +1,1 @@
-var mnemonic = "script symptom picnic like yellow grid regret butter tackle pudding duty mercy";
+var mnemonic = "marble mesh suit slush apart approve absorb time view raw envelope measure";

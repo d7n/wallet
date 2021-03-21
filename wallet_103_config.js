@@ -1,1 +1,1 @@
-var mnemonic = "stumble build rent forum token choose wise chunk balance message sponsor affair";
+var mnemonic = "smooth eye gorilla round retire sweet wine cart often flee basket bean";

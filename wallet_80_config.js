@@ -1,1 +1,1 @@
-var mnemonic = "slam vital accuse hockey blossom spray seed immense broken link elegant erase";
+var mnemonic = "midnight december broccoli eagle creek top task pill airport vicious nothing romance";

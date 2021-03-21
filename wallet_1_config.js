@@ -1,1 +1,1 @@
-var mnemonic = "piece neck youth harvest mask rich churn panic cattle deputy report initial";
+var mnemonic = "afraid gun sun dance enroll father slice better betray plastic select have";

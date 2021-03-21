@@ -1,1 +1,1 @@
-var mnemonic = "airport hockey mushroom odor shallow warfare season peanut badge nothing season oak";
+var mnemonic = "clump bitter hollow assault village hunt ranch crew pony enhance chef coast";

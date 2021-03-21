@@ -1,1 +1,1 @@
-var mnemonic = "plate visual before salad wolf truth affair price wire ring woman tuition";
+var mnemonic = "balcony basket source danger fluid fatal elevator ahead sustain unit glue regret";

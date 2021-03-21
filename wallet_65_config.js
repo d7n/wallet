@@ -1,1 +1,1 @@
-var mnemonic = "onion another income type ginger equip chat bleak burden album flash crane";
+var mnemonic = "aim auto miracle husband quote way feel gospel miracle kitten essay trade";

@@ -1,1 +1,1 @@
-var mnemonic = "cube mother ozone celery purse possible verify coin truth height demand wall";
+var mnemonic = "symbol age sad shiver salad alarm hole general acid attend adult day";

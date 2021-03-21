@@ -1,1 +1,1 @@
-var mnemonic = "oyster session pink embrace sting mirror biology grab prosper coin absurd cause";
+var mnemonic = "dinosaur moment marble pigeon bean old clog entire evidence fury undo exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "twin judge more problem observe size purse fluid lecture impose scissors enforce";
+var mnemonic = "scrap police where range educate culture quarter wrestle point action myself image";

@@ -1,1 +1,1 @@
-var mnemonic = "cash trap jacket correct swallow relax actual goat buddy patch advice minimum";
+var mnemonic = "error original solution eye main sad emerge upper calm nerve heavy cage";

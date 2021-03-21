@@ -1,1 +1,1 @@
-var mnemonic = "fever critic case provide fox dance inside federal man arrest gap circle";
+var mnemonic = "strike hunt high test street wood situate ranch wood cliff drive dress";

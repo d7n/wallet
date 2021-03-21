@@ -1,1 +1,1 @@
-var mnemonic = "celery until argue maple under behind marble tongue object picnic civil air";
+var mnemonic = "assault forget where delay chronic pole blouse hurry rib ecology width click";

@@ -1,1 +1,1 @@
-var mnemonic = "ready february weather siren close picnic earth empower high north remember erosion";
+var mnemonic = "hungry tank faculty such nuclear awake chapter forward uncle soda practice icon";

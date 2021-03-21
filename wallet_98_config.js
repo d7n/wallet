@@ -1,1 +1,1 @@
-var mnemonic = "normal neither diesel winner husband copper oil struggle slot bottom major control";
+var mnemonic = "retire exclude express enhance foam mule bounce violin pistol express menu give";

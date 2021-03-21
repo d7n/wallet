@@ -1,1 +1,1 @@
-var mnemonic = "nasty hedgehog shy hybrid harbor pioneer toast violin broccoli crime stomach example";
+var mnemonic = "spawn twist wrestle muffin then member honey digital scare fog feel voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "cement leopard carry desert cricket main abuse spirit olympic shell toy truth";
+var mnemonic = "cruel guide story wave sand milk moon little win talk rookie exclude";

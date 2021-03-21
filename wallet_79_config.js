@@ -1,1 +1,1 @@
-var mnemonic = "often genre baby employ polar pretty miracle knock slush ladder rent good";
+var mnemonic = "reopen toward merit notice combine mind present language search flat wedding brief";

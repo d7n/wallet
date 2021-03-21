@@ -1,1 +1,1 @@
-var mnemonic = "praise theme ill weapon disagree kiss suggest skirt about miss coast cliff";
+var mnemonic = "motor copy key dynamic fabric scrap genius nasty early track better sphere";

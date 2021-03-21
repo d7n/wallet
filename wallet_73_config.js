@@ -1,1 +1,1 @@
-var mnemonic = "plunge cement grief quick pioneer boy tape nerve lizard burger grocery coin";
+var mnemonic = "dizzy tribe art skill salute twice opinion midnight soap turtle scorpion own";

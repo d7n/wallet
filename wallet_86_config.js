@@ -1,1 +1,1 @@
-var mnemonic = "oven auto famous concert clever march peasant liberty arctic whip cause plastic";
+var mnemonic = "brave rebel festival start dune nerve quick insane lake season control mixture";

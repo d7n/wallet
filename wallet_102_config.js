@@ -1,1 +1,1 @@
-var mnemonic = "print vacant palace snake stairs affair toast hole shadow mercy memory copy";
+var mnemonic = "welcome ski until include grain vague canvas enact oven walk burst wage";

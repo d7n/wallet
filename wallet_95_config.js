@@ -1,1 +1,1 @@
-var mnemonic = "electric reject peace elite canvas bargain shadow parrot fog uphold party pair";
+var mnemonic = "useless address buzz orphan skin congress degree sphere invest fury faith crush";

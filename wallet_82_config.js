@@ -1,1 +1,1 @@
-var mnemonic = "atom cash gasp index hazard enjoy evoke kitten retreat pelican tide twelve";
+var mnemonic = "emerge denial blind point panel high nurse other trip flower grow obey";

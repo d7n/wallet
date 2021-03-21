@@ -1,1 +1,1 @@
-var mnemonic = "divert wolf panic fish siren spring goat grief ask old world ugly";
+var mnemonic = "play market angle subway enhance cushion thank gold drip sentence stumble merry";

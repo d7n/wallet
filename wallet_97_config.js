@@ -1,1 +1,1 @@
-var mnemonic = "basket sell agent april grant print better leaf horn park letter crush";
+var mnemonic = "injury clarify safe tackle govern fossil gospel physical auto cross galaxy box";

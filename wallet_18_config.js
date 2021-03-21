@@ -1,1 +1,1 @@
-var mnemonic = "renew gap mandate vocal island culture artefact gossip thought sword unfold range";
+var mnemonic = "lizard finger stuff else fiscal demand test accuse pink turkey repair avocado";

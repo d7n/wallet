@@ -1,1 +1,1 @@
-var mnemonic = "fuel divorce purity spend loyal bracket hurt unknown rubber page reject vast";
+var mnemonic = "develop short dry obscure team wagon despair onion clown ginger drama wrap";

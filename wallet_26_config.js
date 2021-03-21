@@ -1,1 +1,1 @@
-var mnemonic = "execute crystal seat primary scrub diet deny run group person venue eight";
+var mnemonic = "fruit card march reveal lazy blue learn trust husband will law box";

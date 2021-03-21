@@ -1,1 +1,1 @@
-var mnemonic = "peanut identify ridge nephew million face awful pulse eight box scorpion stand";
+var mnemonic = "swim before picnic chuckle split cliff robot abstract giant evolve claw program";

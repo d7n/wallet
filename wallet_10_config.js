@@ -1,1 +1,1 @@
-var mnemonic = "promote crew october broom edit cloud february nest predict fresh maximum tennis";
+var mnemonic = "drift pair brisk random size slab absent replace maple strong social drill";

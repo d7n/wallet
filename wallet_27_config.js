@@ -1,1 +1,1 @@
-var mnemonic = "toy village parent suit bread body minute grant orphan fine true short";
+var mnemonic = "chest banner calm cluster mask prepare enact present amount uniform animal convince";

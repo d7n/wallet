@@ -1,1 +1,1 @@
-var mnemonic = "deer apple rice view borrow wisdom misery sphere steel cabbage meat fit";
+var mnemonic = "please cactus relax kingdom ugly click mixture robot acid famous gallery effort";

@@ -1,1 +1,1 @@
-var mnemonic = "leg walnut moral wasp brief level clerk boat aware suspect planet duty";
+var mnemonic = "prison twice quantum service cruel purity joke front such total walnut ramp";

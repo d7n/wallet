@@ -1,1 +1,1 @@
-var mnemonic = "book mandate increase purpose veteran belt member cheese core siege shrimp minimum";
+var mnemonic = "medal gossip emerge convince project hollow state math juice crack divorce advance";

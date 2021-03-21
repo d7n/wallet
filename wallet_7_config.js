@@ -1,1 +1,1 @@
-var mnemonic = "quality because silly sea olive result symbol clip huge doctor lawsuit humor";
+var mnemonic = "accident despair owner actor cage swap cruise tortoise garage slow tent fury";

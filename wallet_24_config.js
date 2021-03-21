@@ -1,1 +1,1 @@
-var mnemonic = "hamster arm turn shoot scrub monkey olive crowd possible reward half sense";
+var mnemonic = "square session iron subway flush figure prosper margin puppy vibrant morning symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "movie frozen soul ritual assume saddle disagree attitude rule network deposit company";
+var mnemonic = "lock crawl west resist mad exist weasel chronic shiver tomorrow annual urge";

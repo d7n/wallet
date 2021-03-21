@@ -1,1 +1,1 @@
-var mnemonic = "tool roast coffee scale ritual team weasel idle stock sample usual obey";
+var mnemonic = "addict master open brown various salmon swarm pigeon flower magnet prevent asset";

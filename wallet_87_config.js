@@ -1,1 +1,1 @@
-var mnemonic = "ordinary express staff paper icon early inner cabin blame still problem organ";
+var mnemonic = "welcome crack evidence cinnamon crisp fashion essence learn faint fetch sorry cushion";

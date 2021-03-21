@@ -1,1 +1,1 @@
-var mnemonic = "urge eagle reveal pause pull popular learn any cliff unusual orient submit";
+var mnemonic = "online tilt mimic fix path movie asthma impose wasp clown excuse manual";

@@ -1,1 +1,1 @@
-var mnemonic = "couch case motor glue world market sight grief garlic rug off border";
+var mnemonic = "spy ranch steak long ethics plunge lava ridge media tail raw mirror";

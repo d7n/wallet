@@ -1,1 +1,1 @@
-var mnemonic = "approve ginger slight ginger ship scorpion reveal inner table say army corn";
+var mnemonic = "section crystal please pudding lyrics property vanish curtain gallery visual caution fiction";

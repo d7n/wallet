@@ -1,1 +1,1 @@
-var mnemonic = "female monkey logic final glow ordinary cricket draft sweet patrol arctic belt";
+var mnemonic = "joy dune bubble vault nut machine cash enable glass winter trigger joke";

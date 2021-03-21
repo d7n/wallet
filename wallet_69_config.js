@@ -1,1 +1,1 @@
-var mnemonic = "project couple awake taste elbow wreck clown settle visual total december toy";
+var mnemonic = "session pink history rebuild silk stadium trouble kite laundry holiday list pave";

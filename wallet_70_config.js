@@ -1,1 +1,1 @@
-var mnemonic = "claim almost neck sun trick indicate size trust extend bread grass apology";
+var mnemonic = "found hole bubble critic slender awesome ketchup island kitten veteran sister error";

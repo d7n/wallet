@@ -1,1 +1,1 @@
-var mnemonic = "boat viable erosion seed hybrid cement equal horror trust fire calm demand";
+var mnemonic = "fly around gaze effort mask mammal rich foam annual like alert hero";

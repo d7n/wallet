@@ -1,1 +1,1 @@
-var mnemonic = "pull second robot twist shock ripple transfer avoid govern soap sentence crush";
+var mnemonic = "solar quarter patch hidden today vocal charge brave entry aerobic side angry";

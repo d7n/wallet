@@ -1,1 +1,1 @@
-var mnemonic = "system egg clay act bounce high album violin coast shock upset snake";
+var mnemonic = "describe brief silver sorry nurse employ body couple note fossil swear receive";

@@ -1,1 +1,1 @@
-var mnemonic = "glory pumpkin bicycle grow security abandon author invite provide all sudden claw";
+var mnemonic = "enough one protect flower side target castle abandon pupil file limb market";

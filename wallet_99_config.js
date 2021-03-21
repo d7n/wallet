@@ -1,1 +1,1 @@
-var mnemonic = "team tongue apology nominee emerge tumble weekend orbit indoor economy print cheap";
+var mnemonic = "spend pipe door arena destroy urban sphere clinic gain state chef book";

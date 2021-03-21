@@ -1,1 +1,1 @@
-var mnemonic = "crunch joke excite grain say exchange twin glide bird disease poet ginger";
+var mnemonic = "disagree tunnel glance file start lake tip hybrid milk typical away kind";

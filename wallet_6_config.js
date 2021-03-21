@@ -1,1 +1,1 @@
-var mnemonic = "vapor inflict room century audit present outside detect spot cheese virtual concert";
+var mnemonic = "arena comic rent tortoise collect wave youth retire mercy wise paddle sadness";

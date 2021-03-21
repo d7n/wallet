@@ -1,1 +1,1 @@
-var mnemonic = "visit demise scout oak attitude coast tank insane silk rough trial ball";
+var mnemonic = "mango measure slam glare body spawn lamp book unknown simple arm unknown";

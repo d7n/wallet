@@ -1,1 +1,1 @@
-var mnemonic = "wheel arrest pyramid mean edit shield benefit bar flame beach brush anchor";
+var mnemonic = "proof upgrade menu squirrel bag orange give scare large cross afford twice";

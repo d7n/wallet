@@ -1,1 +1,1 @@
-var mnemonic = "degree erase guard time obtain else bird shove name salute impulse inspire";
+var mnemonic = "income around soda mosquito live able country earth evil trophy marble quit";

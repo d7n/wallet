@@ -1,1 +1,1 @@
-var mnemonic = "boat bridge assist fiber shield unit reject risk slab style bid coach";
+var mnemonic = "wise illness file kitchen retreat decide zero narrow unusual sound guide patrol";

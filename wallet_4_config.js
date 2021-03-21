@@ -1,1 +1,1 @@
-var mnemonic = "cost quantum rich album dutch salt fence there three candy stem trend";
+var mnemonic = "cluster real desert zero alien sight mail cake exotic become moment hover";

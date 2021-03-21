@@ -1,1 +1,1 @@
-var mnemonic = "inside result spoil mansion athlete else have state security phrase six true";
+var mnemonic = "tiger term oak evolve hip into drip negative toss since soldier exile";

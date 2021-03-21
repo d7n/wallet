@@ -1,1 +1,1 @@
-var mnemonic = "just dinner behave dragon shed saddle alien chase fly waste brick wise";
+var mnemonic = "provide where salt frequent curious journey exclude shaft must final inside party";

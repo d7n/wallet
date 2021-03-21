@@ -1,1 +1,1 @@
-var mnemonic = "another have common vote drum skull achieve next false screen biology school";
+var mnemonic = "obtain sing giraffe weasel van sing man method monster accuse between foil";

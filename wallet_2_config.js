@@ -1,1 +1,1 @@
-var mnemonic = "umbrella access album grass retreat cheap rookie coach diamond document profit hungry";
+var mnemonic = "apple april age lion siege eagle ill clog early balcony marriage kid";

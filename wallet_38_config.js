@@ -1,1 +1,1 @@
-var mnemonic = "dwarf price divide ensure barrel treat when churn skull lens tool antenna";
+var mnemonic = "current alcohol gown joke multiply tree cabbage track fatal lion vital pen";

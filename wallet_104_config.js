@@ -1,1 +1,1 @@
-var mnemonic = "pet matrix manual wolf small meadow burst table miss desk rapid rigid";
+var mnemonic = "empty switch unveil shop toddler guess venture lawn siren number east behind";

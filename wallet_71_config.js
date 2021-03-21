@@ -1,1 +1,1 @@
-var mnemonic = "usage glide twist trouble horror wild eyebrow oyster seat speed surge employ";
+var mnemonic = "unfair absent novel steel blouse swallow sadness robot unusual achieve volume rather";

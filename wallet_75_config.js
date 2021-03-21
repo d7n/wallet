@@ -1,1 +1,1 @@
-var mnemonic = "wing space hour simple age crew acid step fine sausage zero anxiety";
+var mnemonic = "okay brief start brief segment usual pig remain traffic monster fat galaxy";

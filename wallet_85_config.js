@@ -1,1 +1,1 @@
-var mnemonic = "fiscal rifle regret spend split local bind goddess mushroom east cabbage display";
+var mnemonic = "put fold trash menu roof toy scan gown wide sunset jump tourist";

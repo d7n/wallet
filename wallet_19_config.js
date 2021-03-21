@@ -1,1 +1,1 @@
-var mnemonic = "turtle develop notable rely rebuild will betray rely control crazy pond distance";
+var mnemonic = "omit put broccoli wedding page cliff carbon speak apology build jeans three";

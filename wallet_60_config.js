@@ -1,1 +1,1 @@
-var mnemonic = "monster chat love cram maid spirit clutch thrive pride recipe require grass";
+var mnemonic = "obtain visa inflict assist move episode lift flee catch photo shaft scale";

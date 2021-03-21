@@ -1,1 +1,1 @@
-var mnemonic = "cream motor foster weapon cupboard will require unit atom control govern evil";
+var mnemonic = "rocket purse green tennis alter submit blast confirm tourist sister use secret";

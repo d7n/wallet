@@ -1,1 +1,1 @@
-var mnemonic = "blade sing winner old involve brick club clinic strong main sugar shoot";
+var mnemonic = "derive biology prison eagle weapon pottery engage rescue income sauce grocery design";

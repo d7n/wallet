@@ -1,1 +1,1 @@
-var mnemonic = "sheriff online gaze stomach hybrid science annual ostrich guilt grid amused carbon";
+var mnemonic = "symptom grain snack fatigue lift below announce style onion enable aunt grid";

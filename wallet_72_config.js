@@ -1,1 +1,1 @@
-var mnemonic = "measure clap fish orange play raccoon achieve excuse torch lunch thumb chaos";
+var mnemonic = "switch gain furnace pumpkin trust finish million solid moment scare frost defense";

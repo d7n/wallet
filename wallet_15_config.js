@@ -1,1 +1,1 @@
-var mnemonic = "bullet tip soon party siege pride minimum sorry dinner illness cradle mansion";
+var mnemonic = "claw rack borrow flavor quit custom april old loop virtual amount cube";

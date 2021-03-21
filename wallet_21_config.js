@@ -1,1 +1,1 @@
-var mnemonic = "student divorce silly manage state kick neutral latin situate this prison search";
+var mnemonic = "cluster doctor tip media menu cycle change hold steel ship opera ginger";

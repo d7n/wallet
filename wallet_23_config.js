@@ -1,1 +1,1 @@
-var mnemonic = "setup lab kidney club gauge bracket mobile spring survey install crime inner";
+var mnemonic = "brief achieve mouse away alarm disorder infant sweet attract shock fossil until";
