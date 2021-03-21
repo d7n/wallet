@@ -1,1 +1,1 @@
-var mnemonic = "have useful human face vicious embody thing fame kitten mushroom raw exclude";
+var mnemonic = "silk report hill ranch attend yard poverty produce chair kangaroo crime sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "wear rotate journey assault today meat promote amount combine zone lobster recipe";
+var mnemonic = "make robot critic face panda medal tower patch inner grow afraid marine";

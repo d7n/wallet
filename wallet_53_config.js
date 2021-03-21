@@ -1,1 +1,1 @@
-var mnemonic = "layer crazy river delay minimum prosper prevent slice imitate city also solution";
+var mnemonic = "pool festival submit replace melt output shove wire surge jungle radio slab";

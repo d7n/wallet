@@ -1,1 +1,1 @@
-var mnemonic = "hard lunch until glue fox hybrid sort return oxygen green cook pupil";
+var mnemonic = "ostrich slide resist chimney index toast tent will inner huge camera index";

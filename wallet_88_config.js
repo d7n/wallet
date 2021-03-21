@@ -1,1 +1,1 @@
-var mnemonic = "ranch accuse task okay diet high ritual parrot traffic museum ramp clump";
+var mnemonic = "pet undo ozone usual harbor forum nut fork moment hub flash museum";

@@ -1,1 +1,1 @@
-var mnemonic = "august copper torch address prepare saddle index celery gravity kiwi lamp orbit";
+var mnemonic = "rack pelican arrest breeze save hover butter need net mobile december cross";

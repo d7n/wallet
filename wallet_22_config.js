@@ -1,1 +1,1 @@
-var mnemonic = "pool brief lens cloth valley soccer relief camp pledge syrup random rough";
+var mnemonic = "pledge gas face point drive bomb gadget peasant alcohol wrist badge away";

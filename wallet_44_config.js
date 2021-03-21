@@ -1,1 +1,1 @@
-var mnemonic = "roast divorce symbol undo output coast public much hawk inform keen unfold";
+var mnemonic = "sick arrest diet hybrid age attract crack bless art item evolve slot";

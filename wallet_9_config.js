@@ -1,1 +1,1 @@
-var mnemonic = "end shove labor milk eagle crush hint speak arctic depend coral ketchup";
+var mnemonic = "cool prison pause exile social gift wine hint album vacuum panic dumb";

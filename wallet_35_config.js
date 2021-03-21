@@ -1,1 +1,1 @@
-var mnemonic = "upgrade stereo cliff planet inherit subway middle decorate category blur still skate";
+var mnemonic = "usage remember ritual dolphin kingdom practice other today expose liquid enable dice";

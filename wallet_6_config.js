@@ -1,1 +1,1 @@
-var mnemonic = "loan when stem mix below all buffalo express join dinner fruit abandon";
+var mnemonic = "snake umbrella vocal bomb brown burst earth dilemma view power cliff latin";

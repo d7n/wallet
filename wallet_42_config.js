@@ -1,1 +1,1 @@
-var mnemonic = "can stereo father language burger few custom horse announce fame ceiling flat";
+var mnemonic = "olive hard now veteran shove law immense strike write turn family gate";

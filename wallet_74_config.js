@@ -1,1 +1,1 @@
-var mnemonic = "file huge tag poet song total onion dog canal okay agent pink";
+var mnemonic = "banner naive size snake shove tail brand clean tongue art neglect champion";

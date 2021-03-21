@@ -1,1 +1,1 @@
-var mnemonic = "unique blast crush amount casual grocery prevent figure average search math depart";
+var mnemonic = "margin country earn crazy midnight help zoo auto glue absorb another minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk local faint reject okay suit garbage this dial luggage orient rubber";
+var mnemonic = "become stomach harbor version security wear correct treat dignity legend key tube";

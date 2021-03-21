@@ -1,1 +1,1 @@
-var mnemonic = "grab time trash stable sadness smooth hazard accident cream unknown forum popular";
+var mnemonic = "stem boy library spirit stick keep slim chunk fox soup hospital drum";

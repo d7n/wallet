@@ -1,1 +1,1 @@
-var mnemonic = "dentist subway crouch recall happy afford rare purchase jaguar town figure clown";
+var mnemonic = "term shell jelly risk shoot magic music endorse crush chalk abstract essence";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter only empty trap move abuse kid soda suggest cart custom vicious";
+var mnemonic = "glide fog blind insect labor educate sorry among together summer case draw";

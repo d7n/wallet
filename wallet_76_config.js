@@ -1,1 +1,1 @@
-var mnemonic = "impose clutch rally monitor off deny winter remove middle pig resource diesel";
+var mnemonic = "marriage work warm permit potato undo planet sibling become obscure team mountain";

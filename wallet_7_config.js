@@ -1,1 +1,1 @@
-var mnemonic = "winter alpha junk swing spoil record chalk gap endorse salad notice property";
+var mnemonic = "cruel ski detect horse scout arrow scare smart diary supply town crouch";

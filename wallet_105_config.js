@@ -1,1 +1,1 @@
-var mnemonic = "credit agree emerge faculty slice gown fix cereal swift science else confirm";
+var mnemonic = "romance section peasant approve slender mystery order mention pulse tackle devote street";

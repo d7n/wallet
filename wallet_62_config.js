@@ -1,1 +1,1 @@
-var mnemonic = "nasty guilt beach supply garage addict loan fury almost small uncle major";
+var mnemonic = "doll laundry spot echo system domain woman spread layer season step foam";

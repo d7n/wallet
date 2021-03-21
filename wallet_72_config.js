@@ -1,1 +1,1 @@
-var mnemonic = "twice tribe damp liquid expire special unaware surge man dilemma jewel expose";
+var mnemonic = "sunset disorder refuse dumb citizen cruise quote pair category knee okay have";

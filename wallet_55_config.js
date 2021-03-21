@@ -1,1 +1,1 @@
-var mnemonic = "square chuckle unveil lawsuit banana lizard aunt organ oak execute bundle vital";
+var mnemonic = "canoe nerve unfold attitude comic member north problem story few tape sea";

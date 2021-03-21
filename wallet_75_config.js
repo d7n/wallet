@@ -1,1 +1,1 @@
-var mnemonic = "column neglect van vague path balcony edge come prison metal purse misery";
+var mnemonic = "crater version fortune traffic left give first truly sponsor ten mixed hold";

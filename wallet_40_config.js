@@ -1,1 +1,1 @@
-var mnemonic = "pioneer loud birth practice finger abuse cruel rabbit enact subject local misery";
+var mnemonic = "creek pull stick truly very switch charge alcohol twist stock kingdom actress";

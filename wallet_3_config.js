@@ -1,1 +1,1 @@
-var mnemonic = "bachelor clock better anxiety immune dentist tenant excess juice false list surprise";
+var mnemonic = "noise unable tide ticket oppose clump transfer small blanket junior wait always";

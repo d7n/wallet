@@ -1,1 +1,1 @@
-var mnemonic = "puzzle drive giraffe tool sorry pact convince favorite exist action idea fitness";
+var mnemonic = "program property client priority pink bless arena fade wrap little envelope rookie";

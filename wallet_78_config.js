@@ -1,1 +1,1 @@
-var mnemonic = "awful lawn siege cram sauce craft forward delay learn prefer alpha ghost";
+var mnemonic = "pool sister west floor nature primary meadow feature atom thing equip swap";

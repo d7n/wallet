@@ -1,1 +1,1 @@
-var mnemonic = "potato clump betray update must wedding situate moment sauce shiver rate intact";
+var mnemonic = "cool live inmate spot arena split opinion identify modify brother junior science";

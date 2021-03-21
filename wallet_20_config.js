@@ -1,1 +1,1 @@
-var mnemonic = "isolate cattle feel vessel disorder tiger aunt vehicle noodle arctic canvas unfair";
+var mnemonic = "filter chase clarify style cloth custom begin ice clown okay want soldier";

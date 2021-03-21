@@ -1,1 +1,1 @@
-var mnemonic = "duty entire math apart pumpkin undo gadget share science upset gain sudden";
+var mnemonic = "page cushion cream squeeze amount odor finish call library dune empty weather";

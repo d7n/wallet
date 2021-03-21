@@ -1,1 +1,1 @@
-var mnemonic = "sister antique certain fee green pen fire health grain lazy pool fat";
+var mnemonic = "choice pitch illegal chat convince palace access write year move alien bronze";

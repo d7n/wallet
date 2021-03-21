@@ -1,1 +1,1 @@
-var mnemonic = "clown crazy weasel rule opinion step hard offer drift fall quality hero";
+var mnemonic = "beyond speed prevent worry obtain glow child left chest tenant bright decade";

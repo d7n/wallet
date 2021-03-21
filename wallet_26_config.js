@@ -1,1 +1,1 @@
-var mnemonic = "bone lizard please lobster rebel frozen report bacon faculty hire glimpse reunion";
+var mnemonic = "stereo tooth assault jealous health know grain decorate plug tornado ask genius";

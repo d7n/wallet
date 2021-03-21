@@ -1,1 +1,1 @@
-var mnemonic = "salt thunder rack access edit next bunker bag document wink case vast";
+var mnemonic = "twice hard during sing reopen despair jaguar tomorrow air victory fine true";

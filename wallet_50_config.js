@@ -1,1 +1,1 @@
-var mnemonic = "slogan hire island loyal common ceiling merry adjust music cloth october path";
+var mnemonic = "measure album divorce describe private nut forget title start law popular fade";

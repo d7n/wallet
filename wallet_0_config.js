@@ -1,1 +1,1 @@
-var mnemonic = "hotel drive liberty finish novel soldier cement buddy fine casino carpet together";
+var mnemonic = "initial shock galaxy cart document frog harbor apology buddy add gather stairs";

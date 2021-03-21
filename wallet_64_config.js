@@ -1,1 +1,1 @@
-var mnemonic = "rubber column wool aware curious result blur mimic sand retire between hour";
+var mnemonic = "response trip despair actor merit muscle hello crop toast abuse prison kidney";

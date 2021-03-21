@@ -1,1 +1,1 @@
-var mnemonic = "unfair setup pudding elegant carry hospital essay trim actor solve inhale clown";
+var mnemonic = "meat above marriage tuition drive drill carry old earth frequent hunt priority";

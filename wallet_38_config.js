@@ -1,1 +1,1 @@
-var mnemonic = "chaos wash jar sphere height fossil issue pole notice update swift future";
+var mnemonic = "rain expect talk drill defy craft ginger luxury cheap inherit deny tumble";

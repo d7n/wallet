@@ -1,1 +1,1 @@
-var mnemonic = "grocery blue sand call hard obscure october over favorite moral tackle equal";
+var mnemonic = "gas novel crumble deer define soon cupboard grunt shiver member slush front";

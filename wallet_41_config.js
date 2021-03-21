@@ -1,1 +1,1 @@
-var mnemonic = "wasp enter antique drum salmon have purity ill capital toast wood annual";
+var mnemonic = "door tattoo boost medal kick scheme jealous uncle actress home assist tomato";

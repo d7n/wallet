@@ -1,1 +1,1 @@
-var mnemonic = "verify hunt humble they discover note wing debate shrimp hint rebel produce";
+var mnemonic = "auto lounge ready hint extend poverty churn twenty two figure jealous girl";

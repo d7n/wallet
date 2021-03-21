@@ -1,1 +1,1 @@
-var mnemonic = "carry need royal torch onion wonder unable sea grid clap spoon romance";
+var mnemonic = "code act candy august name raise place hurry bag mango cycle couple";

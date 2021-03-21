@@ -1,1 +1,1 @@
-var mnemonic = "dash web enact orbit impose save leisure used silver brother nerve drink";
+var mnemonic = "pulp liquid display crime tattoo thrive poem idle large must pass update";

@@ -1,1 +1,1 @@
-var mnemonic = "oval trim shiver flower fine gentle gym neither grape debris then very";
+var mnemonic = "crouch figure frame boring glue again student evolve flock bring lend add";

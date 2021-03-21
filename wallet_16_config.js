@@ -1,1 +1,1 @@
-var mnemonic = "dinner echo canvas future debris nominee crash matrix clump crash useless float";
+var mnemonic = "stuff chaos chair carry clarify pizza wood second orchard unique boost female";

@@ -1,1 +1,1 @@
-var mnemonic = "film two insane retreat squeeze ritual gossip drama wall acquire dune attract";
+var mnemonic = "ribbon nothing ice stairs recipe mixture front planet holiday shallow economy movie";

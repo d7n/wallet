@@ -1,1 +1,1 @@
-var mnemonic = "leaf material safe field bring ancient only ecology finish silk else media";
+var mnemonic = "foster trade congress lemon file program home meadow strike orchard spoil neck";

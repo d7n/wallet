@@ -1,1 +1,1 @@
-var mnemonic = "iron link offer situate power chunk august stomach indicate carpet select famous";
+var mnemonic = "vocal piano spot blood fee govern east aim satoshi century speak grow";

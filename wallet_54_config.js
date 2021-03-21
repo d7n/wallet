@@ -1,1 +1,1 @@
-var mnemonic = "hazard rare uniform brick meadow faculty note better walk federal advice frown";
+var mnemonic = "divide debris fabric car involve exhaust leave tube pipe industry sand armor";

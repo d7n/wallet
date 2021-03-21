@@ -1,1 +1,1 @@
-var mnemonic = "deny relief peace people stumble occur machine tissue educate defy clinic flip";
+var mnemonic = "sea comfort fortune hello please company bundle still anger wish siren loop";

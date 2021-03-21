@@ -1,1 +1,1 @@
-var mnemonic = "bronze witness uphold long moon fringe nuclear problem weapon trust polar alarm";
+var mnemonic = "roof west february chase crater patch picnic champion shadow claim primary flash";

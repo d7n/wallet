@@ -1,1 +1,1 @@
-var mnemonic = "school feed tumble crazy deposit panther enhance peanut alley vacuum remain melt";
+var mnemonic = "fluid option face sugar owner rocket autumn best sugar regret palace hold";

@@ -1,1 +1,1 @@
-var mnemonic = "year bring wrap produce jar today buzz shy final suffer absorb employ";
+var mnemonic = "sing business cross chimney engine jeans shadow mimic motion that talk debate";

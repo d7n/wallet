@@ -1,1 +1,1 @@
-var mnemonic = "dream forward rocket bid talk clutch wish token federal output robot fire";
+var mnemonic = "trap ecology ozone method fly ecology turtle school sun crush silk physical";

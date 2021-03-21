@@ -1,1 +1,1 @@
-var mnemonic = "woman call cook cupboard rose nation gentle camera achieve ill reunion huge";
+var mnemonic = "hour cactus betray adult office metal thumb student deposit lock dust spend";

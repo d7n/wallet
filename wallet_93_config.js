@@ -1,1 +1,1 @@
-var mnemonic = "easily language between wonder stem flag finger youth giant dumb betray cruise";
+var mnemonic = "connect blouse aisle glad doll pave lunch size curtain lucky outside ivory";

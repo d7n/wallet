@@ -1,1 +1,1 @@
-var mnemonic = "poem cat deposit split nephew dad consider glance envelope junior session gentle";
+var mnemonic = "purpose quiz neither demand end consider appear envelope able deer immense during";

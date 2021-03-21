@@ -1,1 +1,1 @@
-var mnemonic = "add wealth tuna remain bulb powder excite valid render produce wisdom abandon";
+var mnemonic = "alpha glue ask agent essay youth wire hidden fatal rich diary muscle";

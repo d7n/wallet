@@ -1,1 +1,1 @@
-var mnemonic = "produce congress bundle little math increase chief boy ketchup earn frame culture";
+var mnemonic = "goddess divide govern increase monitor cupboard away purity nature second humble solar";

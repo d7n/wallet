@@ -1,1 +1,1 @@
-var mnemonic = "sustain mechanic tissue entire tool thing oven top tube swear barrel hockey";
+var mnemonic = "zebra enlist picnic guard wheel dilemma chair kitchen gain manage park yard";

@@ -1,1 +1,1 @@
-var mnemonic = "dash barely fish put opera force flip bread ecology coach curious youth";
+var mnemonic = "river client enact antenna feel census net hammer torch possible jungle dust";

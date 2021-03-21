@@ -1,1 +1,1 @@
-var mnemonic = "elephant renew robust custom kite scatter arrange suggest wire slab shallow sell";
+var mnemonic = "unusual outside switch price hub prefer feed day frame vanish fit champion";

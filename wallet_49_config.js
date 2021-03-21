@@ -1,1 +1,1 @@
-var mnemonic = "design hard note churn urge mammal sheriff remind arena purity suffer occur";
+var mnemonic = "type guilt guitar vicious surface biology lunar hybrid robot poet palm field";

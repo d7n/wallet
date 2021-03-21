@@ -1,1 +1,1 @@
-var mnemonic = "catch vapor moment van access census true doctor brush copper amused camp";
+var mnemonic = "base grunt female cliff old sign rocket nerve coin scrub beach blur";

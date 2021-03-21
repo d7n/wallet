@@ -1,1 +1,1 @@
-var mnemonic = "hungry fish strike egg shrug sting limit sail party sustain crew arm";
+var mnemonic = "section dose banana erosion captain motor artwork follow muscle calm answer salute";

@@ -1,1 +1,1 @@
-var mnemonic = "crush occur satoshi client monkey need negative lunar museum violin odor solution";
+var mnemonic = "stuff puzzle please grid trim negative cream fuel category license business hollow";

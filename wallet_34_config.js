@@ -1,1 +1,1 @@
-var mnemonic = "bitter under neutral swarm income catalog peasant lab raise silk erode bid";
+var mnemonic = "cost survey either clever rather donate border spread sample enough risk sentence";

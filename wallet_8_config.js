@@ -1,1 +1,1 @@
-var mnemonic = "art treat supreme answer sauce found output online priority garage faint jaguar";
+var mnemonic = "pride stick pizza copy click physical nephew match gesture you fruit hello";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon car inherit person protect sniff broccoli orient busy churn space reward";
+var mnemonic = "typical orchard inquiry panther behind inner sniff squirrel knife decline adult private";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate bar crawl sign replace program library toss pave expect bonus question";
+var mnemonic = "morning zero buyer feed salon defense stone swim bag liquid air enter";

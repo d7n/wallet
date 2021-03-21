@@ -1,1 +1,1 @@
-var mnemonic = "faculty bomb enemy income model fancy wisdom work anchor pear length cruel";
+var mnemonic = "enforce edit nuclear wall front auction radio wonder puppy barely grab chicken";

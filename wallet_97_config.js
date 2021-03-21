@@ -1,1 +1,1 @@
-var mnemonic = "rally crawl enjoy daring forget gun raven cost sunset daring laugh industry";
+var mnemonic = "dolphin peasant dry merry clean bonus target margin coil skin exact render";

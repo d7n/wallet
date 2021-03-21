@@ -1,1 +1,1 @@
-var mnemonic = "luggage idle combine globe pole fine rotate enjoy rescue weapon obvious food";
+var mnemonic = "emotion tongue drive certain stamp castle toast pet aware occur destroy swear";

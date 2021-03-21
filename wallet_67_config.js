@@ -1,1 +1,1 @@
-var mnemonic = "share inspire print pottery opera harvest bargain dream video goose insane daughter";
+var mnemonic = "border inspire veteran mosquito gospel scatter destroy afford melody lucky future north";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct grunt luggage situate crystal effort battle humor hungry motion mixed sail";
+var mnemonic = "entire broom defense exit ranch leaf boy forum vacuum mask stairs shoot";

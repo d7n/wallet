@@ -1,1 +1,1 @@
-var mnemonic = "eternal ready acid hammer evil swift enhance arrive distance bike album pistol";
+var mnemonic = "pencil crucial quarter trumpet salute unhappy obscure estate brass announce fetch matrix";

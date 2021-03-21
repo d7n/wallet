@@ -1,1 +1,1 @@
-var mnemonic = "best fan coconut involve cry frozen quote shadow debate alley cheap aware";
+var mnemonic = "leader ketchup february liquid cement enforce warfare wave raven lecture hard chair";

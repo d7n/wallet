@@ -1,1 +1,1 @@
-var mnemonic = "spider rural toward minimum repair prepare fragile flat write review potato shock";
+var mnemonic = "turn remain credit normal organ fire music inner monkey lens slam ice";

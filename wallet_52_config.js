@@ -1,1 +1,1 @@
-var mnemonic = "suspect keen injury number circle employ eight seven include worry weasel goddess";
+var mnemonic = "gospel frog grit milk wonder shoulder transfer arena suit decrease regular connect";

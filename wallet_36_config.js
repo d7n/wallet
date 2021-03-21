@@ -1,1 +1,1 @@
-var mnemonic = "turtle pony home rigid sense among predict seat saddle moment weird educate";
+var mnemonic = "real prefer destroy cousin safe bless daughter club convince wasp nothing actor";

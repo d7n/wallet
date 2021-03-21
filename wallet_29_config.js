@@ -1,1 +1,1 @@
-var mnemonic = "what way system pen gather finger index knock flower claim ball front";
+var mnemonic = "amazing veteran large december suit captain wide vapor reduce sleep magic swallow";

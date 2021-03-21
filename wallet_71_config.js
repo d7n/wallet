@@ -1,1 +1,1 @@
-var mnemonic = "unaware phrase village exit surround siege guitar worth impact minor medal apart";
+var mnemonic = "peasant shove transfer final sun speak toilet helmet all reveal old water";

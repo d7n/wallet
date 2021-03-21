@@ -1,1 +1,1 @@
-var mnemonic = "blanket dutch hedgehog agree flavor left eyebrow document slender rescue below style";
+var mnemonic = "shoe tornado usual panther pole useless spike spider popular actress impose credit";

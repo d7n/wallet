@@ -1,1 +1,1 @@
-var mnemonic = "upgrade verify bike beach net around become torch begin coyote short pottery";
+var mnemonic = "equip major trap pepper add hamster region chaos inhale clay disorder rapid";

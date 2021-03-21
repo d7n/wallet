@@ -1,1 +1,1 @@
-var mnemonic = "glass hold example similar surround kid liberty myth frame siren snow venture";
+var mnemonic = "lens favorite face client keen method silver angle steak honey ball museum";

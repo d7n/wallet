@@ -1,1 +1,1 @@
-var mnemonic = "hundred pond jump source void update bottom cloud spend thrive bullet quiz";
+var mnemonic = "public ugly resemble wisdom control receive remind pistol spoil season juice easy";

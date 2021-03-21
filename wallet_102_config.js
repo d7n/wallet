@@ -1,1 +1,1 @@
-var mnemonic = "obscure clown action present stadium mix balance stumble enter piece someone present";
+var mnemonic = "jar sad similar paper cattle impact radio glide couch aerobic fruit hunt";

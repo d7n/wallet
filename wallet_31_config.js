@@ -1,1 +1,1 @@
-var mnemonic = "add fun potato empty normal join alone one spin spider purpose sheriff";
+var mnemonic = "because income divert beef wall humble force there body obey behind toward";

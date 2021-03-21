@@ -1,1 +1,1 @@
-var mnemonic = "you stamp satoshi enrich glide upset sense sister miracle goat ribbon ivory";
+var mnemonic = "mushroom bridge order father frown correct ripple hazard infant disorder ugly umbrella";

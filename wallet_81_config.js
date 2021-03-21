@@ -1,1 +1,1 @@
-var mnemonic = "enlist menu drop census leopard account seek soon square word rent pool";
+var mnemonic = "narrow coach tennis magic confirm doll spare uphold hundred glide bag three";
