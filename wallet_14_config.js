@@ -1,1 +1,1 @@
-var mnemonic = "desk panda middle rotate sister process nerve remain gaze mango olympic heart";
+var mnemonic = "nose find pigeon object slow fog bird scheme powder sentence mail gesture";

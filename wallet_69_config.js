@@ -1,1 +1,1 @@
-var mnemonic = "puzzle shove room stone ball disease era discover worth cube cement inch";
+var mnemonic = "rib hood yellow patch oppose define prepare tiny hour capital syrup heavy";

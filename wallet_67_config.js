@@ -1,1 +1,1 @@
-var mnemonic = "sample hammer dizzy coin ridge garage weird engage assist claim rhythm element";
+var mnemonic = "check card swift slogan claw spoon slight alter parent chase brush reunion";

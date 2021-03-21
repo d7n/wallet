@@ -1,1 +1,1 @@
-var mnemonic = "right cabin antique rival attract service develop venue gesture country grape blade";
+var mnemonic = "melt fury vast transfer laundry board dignity asset minor supply south air";

@@ -1,1 +1,1 @@
-var mnemonic = "edge sun strong stairs club cup brief thunder margin pigeon you camp";
+var mnemonic = "ankle shine diet direct loyal arrest huge connect normal cactus mixed ice";

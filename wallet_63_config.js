@@ -1,1 +1,1 @@
-var mnemonic = "tiger consider volume system interest roof normal furnace nest salad crucial tomato";
+var mnemonic = "swing lion become puzzle upgrade angry tuition quiz engine draft next cargo";

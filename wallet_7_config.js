@@ -1,1 +1,1 @@
-var mnemonic = "stumble icon basic clap december rug around edge carpet curtain access similar";
+var mnemonic = "diesel disease hammer blind case figure layer scrub gentle carpet magic upper";

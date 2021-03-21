@@ -1,1 +1,1 @@
-var mnemonic = "easily heavy card casual drill mistake chicken kick inject rule damage nerve";
+var mnemonic = "sound radar rural bread patrol dream arena twin primary stadium slab carry";

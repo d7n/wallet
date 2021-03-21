@@ -1,1 +1,1 @@
-var mnemonic = "often few bargain goddess subject harvest model such twice display kiss laugh";
+var mnemonic = "vendor pledge misery monster tomato february song ability mountain cliff winner lion";

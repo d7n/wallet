@@ -1,1 +1,1 @@
-var mnemonic = "release also soon neutral height priority parent spray famous switch true rigid";
+var mnemonic = "old debris bus easily immense indicate matrix hill relax now vendor hungry";

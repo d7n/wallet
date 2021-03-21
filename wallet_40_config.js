@@ -1,1 +1,1 @@
-var mnemonic = "cram party feed beyond good angry swear armed shallow cook excess cloud";
+var mnemonic = "only blame success fresh toast victory squeeze girl behave craft soda diesel";

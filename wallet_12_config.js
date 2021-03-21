@@ -1,1 +1,1 @@
-var mnemonic = "gate despair trash fork pupil remain witness fashion urban gap exist labor";
+var mnemonic = "used sheriff slide trash autumn ranch design digital seek awful about beach";

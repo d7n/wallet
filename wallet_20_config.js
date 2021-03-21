@@ -1,1 +1,1 @@
-var mnemonic = "celery verb palace reunion powder palm foster shed rather mixture pepper smooth";
+var mnemonic = "dwarf tool approve economy remember utility tennis account rhythm front program human";

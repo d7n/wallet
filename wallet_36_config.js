@@ -1,1 +1,1 @@
-var mnemonic = "fat repeat burger enforce grocery clutch chronic guitar spot dawn science prefer";
+var mnemonic = "myth mutual cause water solid outdoor test forest arch october company trade";

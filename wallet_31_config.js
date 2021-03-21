@@ -1,1 +1,1 @@
-var mnemonic = "shuffle invest potato mouse casual miracle hidden call eagle demise toilet chunk";
+var mnemonic = "neutral ignore welcome dolphin coyote feel burger fall wonder deposit leisure rib";

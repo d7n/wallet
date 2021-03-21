@@ -1,1 +1,1 @@
-var mnemonic = "sock retire web mix garbage donkey snap urge uncle resemble bullet young";
+var mnemonic = "coach suggest defy thrive car risk aware equal give ice vacant impose";

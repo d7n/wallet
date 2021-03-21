@@ -1,1 +1,1 @@
-var mnemonic = "flee movie poet entry smile negative wire crazy wild gain assist knock";
+var mnemonic = "seven tank brief nut chef verify finish lion crater move earth exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh glare false island waste tragic office core wine useless april social";
+var mnemonic = "fox rigid erode letter easily craft snack roast lonely excite dawn steel";

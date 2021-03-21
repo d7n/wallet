@@ -1,1 +1,1 @@
-var mnemonic = "weasel purpose business swift antique column flush curve grape mask want spell";
+var mnemonic = "equip tag horror tell helmet include offer toy license flag seek sleep";

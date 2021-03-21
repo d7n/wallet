@@ -1,1 +1,1 @@
-var mnemonic = "slab student what truth census burden occur about column way repair odor";
+var mnemonic = "broom viable left labor paper play beach swallow despair exhaust episode disease";

@@ -1,1 +1,1 @@
-var mnemonic = "couple vehicle forest decline tenant captain strategy lab staff raise require olive";
+var mnemonic = "convince evoke baby problem length bamboo hood top own remain few blur";

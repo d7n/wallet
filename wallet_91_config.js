@@ -1,1 +1,1 @@
-var mnemonic = "error barrel direct movie beef region sibling undo glad guess sing unlock";
+var mnemonic = "purchase citizen kitchen height divert embark high demand trend genre month clay";

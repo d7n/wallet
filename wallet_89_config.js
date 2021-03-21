@@ -1,1 +1,1 @@
-var mnemonic = "purpose drop wing section they enroll sun tennis audit strategy draw escape";
+var mnemonic = "pluck cycle maple crouch crater outdoor prepare rather wash mother mass price";

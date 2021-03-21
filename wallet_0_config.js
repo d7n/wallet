@@ -1,1 +1,1 @@
-var mnemonic = "coast crash panel fiscal arena soccer during lonely keen nothing grunt trip";
+var mnemonic = "name author adapt hedgehog face august attack purchase boat keen magic ritual";

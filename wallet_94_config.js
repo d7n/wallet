@@ -1,1 +1,1 @@
-var mnemonic = "scorpion eye impact armor biology wink thought alarm cloud tube aerobic first";
+var mnemonic = "zone silver spoil surface spirit leg struggle car maple initial antique foot";

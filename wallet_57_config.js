@@ -1,1 +1,1 @@
-var mnemonic = "coyote bread hurry silent hidden exile whale innocent aunt cool night hunt";
+var mnemonic = "bamboo adjust inner penalty winter apology vote royal medal cash argue glory";

@@ -1,1 +1,1 @@
-var mnemonic = "cook play canoe faculty final damage drop sentence that town artwork fiction";
+var mnemonic = "kit motor copper second reveal nation suffer congress absorb beef legal idea";

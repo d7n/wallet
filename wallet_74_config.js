@@ -1,1 +1,1 @@
-var mnemonic = "shallow melody foam keep demand payment since barely notice lift rural expect";
+var mnemonic = "kite harsh grief dance vintage tennis bubble month boat crowd shoe access";

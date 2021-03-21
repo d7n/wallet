@@ -1,1 +1,1 @@
-var mnemonic = "old craft build move when health frequent cat menu picnic stove oblige";
+var mnemonic = "comfort remind trigger gorilla half eye middle humble extra glass lizard rent";

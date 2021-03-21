@@ -1,1 +1,1 @@
-var mnemonic = "glide ivory source expire steak hood edit cash gasp message acoustic fuel";
+var mnemonic = "silly car sunny aspect jazz immune lion prefer pact sauce saddle horn";

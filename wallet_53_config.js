@@ -1,1 +1,1 @@
-var mnemonic = "trigger shop dish panda vacuum outdoor limb rate assault quantum guitar case";
+var mnemonic = "buffalo business hurt narrow rail lab text select heart business lion flee";

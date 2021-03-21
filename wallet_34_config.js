@@ -1,1 +1,1 @@
-var mnemonic = "setup orange bitter abuse marble someone zoo artefact cart again inject wild";
+var mnemonic = "kind focus various mule dumb unable where van ensure night winner warfare";

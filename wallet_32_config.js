@@ -1,1 +1,1 @@
-var mnemonic = "dirt saddle lyrics column cat neither above cargo resemble chief symptom gain";
+var mnemonic = "wagon stereo again congress urban find penalty clinic strong head light december";

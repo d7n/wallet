@@ -1,1 +1,1 @@
-var mnemonic = "salad island addict fiscal cover rice color tobacco struggle trumpet insect glimpse";
+var mnemonic = "argue outdoor erode vintage vocal concert puppy high vehicle later rely youth";

@@ -1,1 +1,1 @@
-var mnemonic = "science message olive sausage casual insane fantasy copy either garlic require family";
+var mnemonic = "copper manual great foam wisdom segment very budget spend solve badge bid";

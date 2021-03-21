@@ -1,1 +1,1 @@
-var mnemonic = "follow filter turtle affair also layer tuition ritual pull toast clutch drip";
+var mnemonic = "clown match congress crane valve math melody clay track squeeze coral task";

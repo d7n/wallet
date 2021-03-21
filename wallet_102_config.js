@@ -1,1 +1,1 @@
-var mnemonic = "multiply abuse case alpha armed enjoy film rival convince worry off logic";
+var mnemonic = "stand jaguar order animal phone fence seek evidence sound shine alcohol screen";

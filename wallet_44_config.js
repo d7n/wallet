@@ -1,1 +1,1 @@
-var mnemonic = "situate sponsor pipe chicken bone property one wolf episode liar basket train";
+var mnemonic = "wink attract final remind minor you stay morning abuse sphere nest praise";

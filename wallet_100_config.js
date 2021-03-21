@@ -1,1 +1,1 @@
-var mnemonic = "fix valid brave toward trash day cube put pipe bread hungry flock";
+var mnemonic = "artist ranch unknown someone metal inherit make original roof lesson message despair";

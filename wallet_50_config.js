@@ -1,1 +1,1 @@
-var mnemonic = "sock patch jeans then void better weather globe tomato time muscle orbit";
+var mnemonic = "valid project way donor clever parent blast shrimp ask filter inform stool";

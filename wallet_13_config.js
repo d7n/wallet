@@ -1,1 +1,1 @@
-var mnemonic = "crack detect area thunder turn clinic settle equal vessel acquire any hair";
+var mnemonic = "acoustic drink rare local cupboard journey hen soup fancy risk swamp tank";

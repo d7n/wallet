@@ -1,1 +1,1 @@
-var mnemonic = "cabbage nothing asset chuckle shoot aerobic bullet spring reward rabbit thing decide";
+var mnemonic = "equal round silly enable squeeze good bone title noodle water jump female";

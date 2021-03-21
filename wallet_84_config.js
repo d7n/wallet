@@ -1,1 +1,1 @@
-var mnemonic = "sauce slogan ocean rug ridge payment valve drastic spatial verb salt artist";
+var mnemonic = "permit fade thumb door soft intact menu habit season census category curious";

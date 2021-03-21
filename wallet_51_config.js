@@ -1,1 +1,1 @@
-var mnemonic = "charge clip bunker guitar talk hurdle behave learn awesome enjoy lift mind";
+var mnemonic = "glide frequent happy basket elbow gain blur creek riot tag rare enrich";

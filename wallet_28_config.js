@@ -1,1 +1,1 @@
-var mnemonic = "old popular volume away salt voyage claw toss retreat bind soul achieve";
+var mnemonic = "segment wave awkward tomorrow pluck dice scheme hurdle tuition torch walnut labor";

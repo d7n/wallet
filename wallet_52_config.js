@@ -1,1 +1,1 @@
-var mnemonic = "blanket sustain excite fitness floor clog vanish barrel upgrade enrich noble tiger";
+var mnemonic = "fault fossil silver adult disorder release pole august search stuff pear pottery";

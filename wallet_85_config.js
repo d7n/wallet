@@ -1,1 +1,1 @@
-var mnemonic = "crack enable economy subway journey obvious nurse various apple update hair gossip";
+var mnemonic = "release divert ring then auction rail taxi resist drastic hamster style peace";

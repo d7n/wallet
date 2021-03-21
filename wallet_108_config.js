@@ -1,1 +1,1 @@
-var mnemonic = "order nuclear family library impose neutral improve grab divert glimpse museum detail";
+var mnemonic = "mystery side melt action aisle absent trigger popular battle gun velvet cloud";

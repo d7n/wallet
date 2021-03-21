@@ -1,1 +1,1 @@
-var mnemonic = "climb program loud easily example fee sword priority tiny actual zoo step";
+var mnemonic = "choose leisure search kit ten tunnel charge obscure combine mule giant involve";

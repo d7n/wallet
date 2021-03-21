@@ -1,1 +1,1 @@
-var mnemonic = "crime close memory twelve first humble okay emerge sniff quiz science category";
+var mnemonic = "hold twice pave army mushroom merit wolf rescue patch power squirrel foster";

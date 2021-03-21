@@ -1,1 +1,1 @@
-var mnemonic = "sad half square swap shoe dash else key vast baby suspect harvest";
+var mnemonic = "clown door voyage resource catalog copper sick river behind cereal verify enroll";

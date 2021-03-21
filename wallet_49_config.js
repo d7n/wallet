@@ -1,1 +1,1 @@
-var mnemonic = "naive jungle snap devote fabric review pudding initial connect ridge jaguar cost";
+var mnemonic = "kitchen visa crystal hole island tomato annual silver rocket edit artwork cannon";

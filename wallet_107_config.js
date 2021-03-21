@@ -1,1 +1,1 @@
-var mnemonic = "decide dance palm city casino echo march angry crumble blush myth narrow";
+var mnemonic = "inner orbit solar radio clean already husband round gate biology skill often";

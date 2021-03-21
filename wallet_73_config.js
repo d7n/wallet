@@ -1,1 +1,1 @@
-var mnemonic = "begin evidence proof ski advice dice calm food simple trouble seminar raven";
+var mnemonic = "cargo urge test mad doctor journey learn accident boost pipe gate pioneer";

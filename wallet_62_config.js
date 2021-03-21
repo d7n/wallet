@@ -1,1 +1,1 @@
-var mnemonic = "void valve boat indoor fan detect slogan rare satoshi insane frequent cash";
+var mnemonic = "weapon weekend height pitch onion search wasp transfer industry tool finish emerge";

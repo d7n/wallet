@@ -1,1 +1,1 @@
-var mnemonic = "near dinosaur olive bless return warrior beef practice panel doctor picnic custom";
+var mnemonic = "bright notice stadium quick energy phone material situate find trumpet mom tomato";

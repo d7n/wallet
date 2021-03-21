@@ -1,1 +1,1 @@
-var mnemonic = "argue repeat forward hand patient mix crowd confirm crawl series scare cup";
+var mnemonic = "tuna level disease flat door require sport shoe rival pool trick deputy";

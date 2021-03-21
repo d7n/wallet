@@ -1,1 +1,1 @@
-var mnemonic = "all imitate obtain surprise recycle write detail black label trouble betray scene";
+var mnemonic = "direct drive dream defy subway vital senior grain because only clip differ";

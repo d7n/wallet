@@ -1,1 +1,1 @@
-var mnemonic = "grab chimney forum oxygen wait engine net oven never ahead matter alter";
+var mnemonic = "theory leg february magnet smoke achieve drum snack female process way isolate";

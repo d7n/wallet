@@ -1,1 +1,1 @@
-var mnemonic = "fancy talent achieve master clown screen deal fashion pupil noble mixed flock";
+var mnemonic = "snap betray bar amount armed spend start despair police february all inherit";

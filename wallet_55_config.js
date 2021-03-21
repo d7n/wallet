@@ -1,1 +1,1 @@
-var mnemonic = "dwarf bread thumb bonus quick mouse mask pepper fabric spot damage tortoise";
+var mnemonic = "survey high liberty cover sunny bus ordinary visit marriage trophy either vessel";

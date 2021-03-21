@@ -1,1 +1,1 @@
-var mnemonic = "race luggage pluck near broom grace knock cat human leave tide swamp";
+var mnemonic = "average silver security duck borrow become similar tornado hour base sunny faith";

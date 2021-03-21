@@ -1,1 +1,1 @@
-var mnemonic = "buddy coyote dawn cross gentle head city copy increase bullet column involve";
+var mnemonic = "embark captain forget execute legal trigger satisfy pluck fit blast dad sun";

@@ -1,1 +1,1 @@
-var mnemonic = "legend involve print snap trophy delay candy drip bone harvest endless apology";
+var mnemonic = "define reduce kick note hybrid deputy crash collect exist shoot tongue metal";

@@ -1,1 +1,1 @@
-var mnemonic = "web coast nose maximum wing usual idle snow panic rice apology field";
+var mnemonic = "faith fork cluster actor judge still intact aisle harvest accident plate fever";

@@ -1,1 +1,1 @@
-var mnemonic = "crash artefact rule slim dawn toast prison panda express stock spray verb";
+var mnemonic = "metal arrive magic photo argue slab guess join entry ski welcome charge";

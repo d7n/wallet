@@ -1,1 +1,1 @@
-var mnemonic = "picnic hunt sort nation rule venue train digital clay acquire summer patrol";
+var mnemonic = "dance potato bronze dinosaur cat boil danger few shadow modify brand pole";

@@ -1,1 +1,1 @@
-var mnemonic = "hour doll valid cliff tackle snack thank knock wood oven neutral oppose";
+var mnemonic = "fall behind world humble ethics advice clock forum danger debris attack negative";

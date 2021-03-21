@@ -1,1 +1,1 @@
-var mnemonic = "appear paddle tide patrol crumble celery sand valley raccoon village tray actual";
+var mnemonic = "robust indicate manage monkey spell tag provide learn volume tumble clump universe";

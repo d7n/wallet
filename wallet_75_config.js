@@ -1,1 +1,1 @@
-var mnemonic = "body bird cricket perfect fossil police eternal reveal afraid deputy absent blouse";
+var mnemonic = "company across despair primary tumble carbon regret have legal best fade strategy";

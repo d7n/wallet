@@ -1,1 +1,1 @@
-var mnemonic = "train elegant canal marine secret fish follow burden exile welcome road noise";
+var mnemonic = "gospel damage like warfare alter illegal such daughter brand there laundry ask";

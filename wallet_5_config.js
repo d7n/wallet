@@ -1,1 +1,1 @@
-var mnemonic = "garden cable mind alter pride diary merry empty require slush shaft identify";
+var mnemonic = "scissors yard double name consider rich draft elite peasant double admit awake";

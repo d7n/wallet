@@ -1,1 +1,1 @@
-var mnemonic = "board cabbage damp pen palm agree expose clump action rose hollow island";
+var mnemonic = "seek desk chimney foil mom tackle scan critic call stadium slow initial";

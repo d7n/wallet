@@ -1,1 +1,1 @@
-var mnemonic = "guitar boss dust steel artist life indoor moon you doll order wave";
+var mnemonic = "cute problem flock word kid shrug brand grow unit blade shadow scare";

@@ -1,1 +1,1 @@
-var mnemonic = "guide fan ordinary churn into filter orphan online merge food business source";
+var mnemonic = "deliver fame patrol mass aisle caution garlic fit math welcome real zoo";

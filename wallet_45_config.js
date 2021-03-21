@@ -1,1 +1,1 @@
-var mnemonic = "frown clip give dust allow attend damp ready bulk curve behave deny";
+var mnemonic = "coral cook bar record about street worry eight rubber alpha betray sudden";

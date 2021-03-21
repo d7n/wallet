@@ -1,1 +1,1 @@
-var mnemonic = "jeans rhythm either parent young tape hurt permit bleak entire decrease dad";
+var mnemonic = "couple damage gentle bridge series vendor push cool ribbon buffalo inch senior";

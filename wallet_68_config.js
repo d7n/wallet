@@ -1,1 +1,1 @@
-var mnemonic = "close sound soft vehicle wild polar police extra blossom able come ability";
+var mnemonic = "aunt inhale sound bring hedgehog fever tongue relief armed one hidden tackle";

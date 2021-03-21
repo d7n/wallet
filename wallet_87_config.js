@@ -1,1 +1,1 @@
-var mnemonic = "own tree mushroom come merit lend gather lend erupt aisle require hub";
+var mnemonic = "spawn arena holiday wheat material tip arena burst pig labor rival return";

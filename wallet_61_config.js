@@ -1,1 +1,1 @@
-var mnemonic = "love safe fabric large harbor tray cute image engage session elegant owner";
+var mnemonic = "wine kick city banana brain luxury select emerge ketchup local season scout";

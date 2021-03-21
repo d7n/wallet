@@ -1,1 +1,1 @@
-var mnemonic = "wedding flag solar stage crouch stock put salon announce absurd hamster evolve";
+var mnemonic = "clinic dry result feed item practice cluster fence purity undo adjust basic";

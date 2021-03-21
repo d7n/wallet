@@ -1,1 +1,1 @@
-var mnemonic = "squeeze dice library picnic parrot theme canal impose ice welcome tiny place";
+var mnemonic = "multiply enforce guard derive doll typical cry math return badge grid divide";

@@ -1,1 +1,1 @@
-var mnemonic = "dose mask trust diet crew type victory cereal bread eyebrow evil economy";
+var mnemonic = "case tape garage layer then latin few team fine frame arctic swear";

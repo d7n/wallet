@@ -1,1 +1,1 @@
-var mnemonic = "urban pottery anxiety laptop wave alley spy switch fish atom symbol shallow";
+var mnemonic = "wool model risk peasant thing car taxi furnace cement lawsuit trash vague";

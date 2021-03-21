@@ -1,1 +1,1 @@
-var mnemonic = "honey torch tumble there galaxy addict address can company portion pen ignore";
+var mnemonic = "universe exchange satisfy kiwi lesson unusual spot urban motor weasel wrist extra";

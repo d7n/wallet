@@ -1,1 +1,1 @@
-var mnemonic = "color apple scheme bread fabric knock orange increase cover jeans issue dance";
+var mnemonic = "drip spring happy invest pig another reduce market analyst pond screen receive";
