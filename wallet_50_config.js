@@ -1,1 +1,1 @@
-var mnemonic = "bulk worry exile crowd final test return timber decorate couple mushroom demise";
+var mnemonic = "bomb borrow flush trash spread flag engage resist foil waste song spell";

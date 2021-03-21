@@ -1,1 +1,1 @@
-var mnemonic = "law cross never focus primary win penalty merry legend lens clean betray";
+var mnemonic = "lock palm romance large spread paddle object motion laugh patient remember follow";

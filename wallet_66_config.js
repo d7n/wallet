@@ -1,1 +1,1 @@
-var mnemonic = "help seminar trust circle differ gorilla engage possible salt obscure light pretty";
+var mnemonic = "nose this opinion hint square myth excess ready save ranch dune core";

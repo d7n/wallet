@@ -1,1 +1,1 @@
-var mnemonic = "rubber finish lens west swallow siege success place sorry hero phone camp";
+var mnemonic = "click prefer puppy sponsor pottery recall nice move critic hockey catalog moon";

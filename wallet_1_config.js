@@ -1,1 +1,1 @@
-var mnemonic = "purchase country indoor waste tiger shy throw sound forest bargain funny endless";
+var mnemonic = "lens fat share front venue retreat merge fluid often sheriff select focus";

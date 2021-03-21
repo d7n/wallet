@@ -1,1 +1,1 @@
-var mnemonic = "actual angry same viable curve game month valve stuff add entry problem";
+var mnemonic = "dream entry clerk enemy behind pool ocean today jealous close like roast";

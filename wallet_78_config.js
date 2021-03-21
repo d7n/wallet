@@ -1,1 +1,1 @@
-var mnemonic = "twenty genuine arrest close exile victory sword smoke smooth normal age senior";
+var mnemonic = "fortune found post upper stereo announce trim caution guard focus this grit";

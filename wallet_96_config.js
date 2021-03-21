@@ -1,1 +1,1 @@
-var mnemonic = "disorder latin worth reduce shell decline north talk viable note parrot net";
+var mnemonic = "siege cactus trigger reopen vault either october sibling flash language raven digital";

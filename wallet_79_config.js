@@ -1,1 +1,1 @@
-var mnemonic = "tone suspect certain green early sorry human clay notable snow silent palace";
+var mnemonic = "future target wrist one script pass abandon force club shrug immune abandon";

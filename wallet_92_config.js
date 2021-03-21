@@ -1,1 +1,1 @@
-var mnemonic = "shock insane social month host essence enjoy world pony result exile nice";
+var mnemonic = "casino shield dance wild round truth east tower reason pulp fetch arrange";

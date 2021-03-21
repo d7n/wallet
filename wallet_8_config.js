@@ -1,1 +1,1 @@
-var mnemonic = "city split benefit ranch leisure cannon crunch climb feature monitor door trim";
+var mnemonic = "accuse phone scale dry forward early poet once twin link vital achieve";

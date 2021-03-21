@@ -1,1 +1,1 @@
-var mnemonic = "horn small ritual crime sunset blue suggest super affair tunnel large what";
+var mnemonic = "glare ball utility truck fringe crash barrel buzz leopard day pave lottery";

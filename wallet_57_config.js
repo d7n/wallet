@@ -1,1 +1,1 @@
-var mnemonic = "monster palace rib find tortoise digital betray truth whisper liquid core prepare";
+var mnemonic = "legend web suffer supply cereal cup cost mobile guilt burger toward champion";

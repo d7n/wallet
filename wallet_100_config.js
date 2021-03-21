@@ -1,1 +1,1 @@
-var mnemonic = "pig vacant meat arrow dial use tape ecology remember join forget solid";
+var mnemonic = "like gallery action acid monkey change rival valid woman cart coconut globe";

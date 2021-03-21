@@ -1,1 +1,1 @@
-var mnemonic = "else nest piece spoon biology minor already weather search vault property vicious";
+var mnemonic = "inform ice endless design worth retreat dial dinner river aisle horn volume";

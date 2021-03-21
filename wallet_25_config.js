@@ -1,1 +1,1 @@
-var mnemonic = "clever basic wish robot close toilet office endless enhance news urge advice";
+var mnemonic = "federal canvas caught food twin gas afraid wisdom dolphin cat sister ethics";

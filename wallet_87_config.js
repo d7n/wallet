@@ -1,1 +1,1 @@
-var mnemonic = "legend pact fossil pigeon lion special boil gauge midnight clay still violin";
+var mnemonic = "soap ordinary rocket shrimp safe tiger poem orbit affair marriage street pyramid";

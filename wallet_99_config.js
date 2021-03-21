@@ -1,1 +1,1 @@
-var mnemonic = "artefact digital report suggest sugar wear parade enable program alone angry stamp";
+var mnemonic = "wife ugly rubber virus edit seminar village want bulk velvet spy major";

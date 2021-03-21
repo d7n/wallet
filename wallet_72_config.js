@@ -1,1 +1,1 @@
-var mnemonic = "foam infant surround round joy club crystal check sugar hurry banner giraffe";
+var mnemonic = "enter toss swear mystery bird similar require margin barrel emotion strong tomato";

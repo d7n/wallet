@@ -1,1 +1,1 @@
-var mnemonic = "mammal dinner stem alley major anger wide edge rule slam sample burst";
+var mnemonic = "skill orange also rail elephant profit spray end spirit toward guitar fancy";

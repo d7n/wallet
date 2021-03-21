@@ -1,1 +1,1 @@
-var mnemonic = "setup sense hip online style gap hurry fire iron sad street legend";
+var mnemonic = "foil family digital salon tonight gift actor add slogan emerge volcano museum";

@@ -1,1 +1,1 @@
-var mnemonic = "lion trial ocean behave fix wish jump smooth chronic cool aspect coach";
+var mnemonic = "amount rug motor hawk grape sound provide endless royal another oyster shed";

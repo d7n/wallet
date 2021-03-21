@@ -1,1 +1,1 @@
-var mnemonic = "isolate wall label hair unit parent connect deposit matrix tone panda inside";
+var mnemonic = "soccer rhythm genuine kidney keen nasty avoid come body patch ladder subject";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen magic segment scare elegant crouch glare pass easy story already edge";
+var mnemonic = "oak excuse chief dizzy chaos camp kangaroo material wool flash actual system";

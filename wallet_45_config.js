@@ -1,1 +1,1 @@
-var mnemonic = "kingdom organ ghost distance rival genuine correct solve artefact stuff fossil coil";
+var mnemonic = "clever dove once purse aisle honey million wet add recycle now erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "worth fuel thrive depend depend ozone hollow better night explain ensure drama";
+var mnemonic = "render lucky inch nation gain tank upper cup tomato execute pistol once";

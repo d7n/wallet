@@ -1,1 +1,1 @@
-var mnemonic = "fat gorilla wink govern purchase begin camera fiscal calm announce mammal review";
+var mnemonic = "vocal flock true busy render private defy ice steak ten afraid flavor";

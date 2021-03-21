@@ -1,1 +1,1 @@
-var mnemonic = "abstract gloom air ozone deputy hungry age rely pig boring table senior";
+var mnemonic = "country office enhance blouse sing apple ostrich tired drop biology unable dream";

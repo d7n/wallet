@@ -1,1 +1,1 @@
-var mnemonic = "enemy reform output buffalo style depend swamp change search sing laugh float";
+var mnemonic = "rotate prefer palace burst paddle vital siege ceiling copy panic deer crime";

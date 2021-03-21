@@ -1,1 +1,1 @@
-var mnemonic = "diet onion fiber diagram pluck taste lawsuit pottery wire boil comfort claw";
+var mnemonic = "shrimp question curve stamp useful close hero fork cart kiwi brief forward";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect token year radio turn armed feel fiction sunset session birth ride";
+var mnemonic = "indoor lumber egg nasty multiply tube quarter able senior curious patrol warrior";

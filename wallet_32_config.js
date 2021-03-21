@@ -1,1 +1,1 @@
-var mnemonic = "medal fever idea float run muscle tag noble reflect valid gasp minimum";
+var mnemonic = "excess drive kit video prison high monster east note much typical viable";

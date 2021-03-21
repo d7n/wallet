@@ -1,1 +1,1 @@
-var mnemonic = "swarm sister penalty voyage side sweet keen treat relief hard sleep limb";
+var mnemonic = "sick record entire find govern jump rice slot couple frost exchange tongue";

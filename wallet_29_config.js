@@ -1,1 +1,1 @@
-var mnemonic = "debris kiwi plug stone shed guitar banner bone vocal twelve hybrid lawn";
+var mnemonic = "exile insane earn element anxiety year action awesome fever safe stomach fame";

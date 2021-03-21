@@ -1,1 +1,1 @@
-var mnemonic = "design flush fetch cloth since list grab inmate alert category design barely";
+var mnemonic = "scare penalty injury feed border thunder unique card must tool paper rate";

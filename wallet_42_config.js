@@ -1,1 +1,1 @@
-var mnemonic = "hint laptop empty ceiling tool occur miss drive tuition voice victory alarm";
+var mnemonic = "hundred kangaroo film amount jealous hire powder follow inherit dwarf layer puzzle";

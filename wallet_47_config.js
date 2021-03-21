@@ -1,1 +1,1 @@
-var mnemonic = "finish alter guitar magic flock used option visual fuel ceiling liar wet";
+var mnemonic = "extra witness age solution alien mistake repair inquiry hungry child input airport";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue top high stone obvious forest blood water kite advice suggest stage";
+var mnemonic = "vapor hawk weather lyrics trip gaze drama alcohol cradle crazy hour muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "august color witness battle border filter crew habit memory image chef tortoise";
+var mnemonic = "ridge badge helmet burst hotel fantasy tape rich kangaroo dirt nothing quantum";

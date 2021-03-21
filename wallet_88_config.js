@@ -1,1 +1,1 @@
-var mnemonic = "play later you month protect brain jungle grocery stadium refuse kind virus";
+var mnemonic = "artefact pilot wet spike reward derive square cloth wire shop test spring";

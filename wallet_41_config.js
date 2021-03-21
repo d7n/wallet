@@ -1,1 +1,1 @@
-var mnemonic = "welcome always hood laugh note ill hospital possible will page bench salmon";
+var mnemonic = "glory scare obtain umbrella view naive method cargo miracle butter prison vital";

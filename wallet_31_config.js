@@ -1,1 +1,1 @@
-var mnemonic = "motor lawn pumpkin swim dinosaur child fortune acoustic spice foil income kitten";
+var mnemonic = "sword mean large owner primary fine outside airport urge bottom crumble meadow";

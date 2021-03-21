@@ -1,1 +1,1 @@
-var mnemonic = "pill palace already scissors assault special civil place sing attend duck resemble";
+var mnemonic = "enable author share crouch process gun stage valley problem advice burst kidney";

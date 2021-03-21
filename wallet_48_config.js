@@ -1,1 +1,1 @@
-var mnemonic = "minute sibling trash faculty music birth wrap welcome filter timber grunt garlic";
+var mnemonic = "dune brick canyon width harbor afraid what perfect pelican doll exhibit please";

@@ -1,1 +1,1 @@
-var mnemonic = "guard sword gentle cat math steel label trade insane crumble portion rotate";
+var mnemonic = "curve scissors fancy attend water allow manual chef tragic club rubber blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "rice gentle lizard math grunt early rotate opinion grid crane midnight gaze";
+var mnemonic = "fashion hockey decline energy acoustic transfer lizard friend retreat letter share health";

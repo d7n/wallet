@@ -1,1 +1,1 @@
-var mnemonic = "fall depart suit claim bar dirt neutral order science vast pepper river";
+var mnemonic = "version hat access today wife where impulse capable return script height exotic";

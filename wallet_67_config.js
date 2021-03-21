@@ -1,1 +1,1 @@
-var mnemonic = "execute very actual border market yellow fancy manual endless drama spider danger";
+var mnemonic = "venue plastic only round solar error acoustic fury theory exhibit claw verify";

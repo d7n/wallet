@@ -1,1 +1,1 @@
-var mnemonic = "benefit squirrel proof minute inflict behave elbow blouse track point bind aisle";
+var mnemonic = "gold dove sphere disorder cliff wood story maximum pave two segment spell";

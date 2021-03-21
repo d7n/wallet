@@ -1,1 +1,1 @@
-var mnemonic = "room cotton pear arctic crazy key possible sketch chimney submit debate prepare";
+var mnemonic = "unfold fresh boss yard wait reflect drastic steak clever outside neglect force";

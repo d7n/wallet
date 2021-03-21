@@ -1,1 +1,1 @@
-var mnemonic = "crazy fall survey such behave sister sadness blossom cactus when snow crumble";
+var mnemonic = "snap asset annual firm bulb volume boring drift bounce liberty refuse sorry";

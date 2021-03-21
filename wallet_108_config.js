@@ -1,1 +1,1 @@
-var mnemonic = "drum garment exhibit scene relief borrow act relief violin night label reward";
+var mnemonic = "parrot metal swear pole portion such repeat code text umbrella mule agent";

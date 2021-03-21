@@ -1,1 +1,1 @@
-var mnemonic = "airport sugar outdoor cat grass once fury play amateur visual arm promote";
+var mnemonic = "dust dawn honey rib friend believe wall pitch toilet phone syrup sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "festival fox supreme length frame relief split sustain tornado similar say drift";
+var mnemonic = "kid round web example expect ramp surprise ring involve tongue flush breeze";

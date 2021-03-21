@@ -1,1 +1,1 @@
-var mnemonic = "salmon february carpet dynamic soft mansion oyster chimney they patrol host runway";
+var mnemonic = "happy melt aerobic lake glare obscure baby diamond finish ceiling shrimp sort";

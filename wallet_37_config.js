@@ -1,1 +1,1 @@
-var mnemonic = "reunion school flame broom bread fish assault near business doll candy embark";
+var mnemonic = "corn gloom nuclear world deputy again piano review inhale december child concert";

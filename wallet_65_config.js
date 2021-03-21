@@ -1,1 +1,1 @@
-var mnemonic = "allow deposit edge include soup option flip pigeon clever behave beef cash";
+var mnemonic = "tribe satisfy wing cause story elegant settle position swing position cheap axis";

@@ -1,1 +1,1 @@
-var mnemonic = "thought slow ramp rebel onion mother sausage follow stage brick attend tongue";
+var mnemonic = "inflict delay skill pave screen machine scare frequent vehicle client dog kangaroo";

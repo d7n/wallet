@@ -1,1 +1,1 @@
-var mnemonic = "hen rain bubble december verb left what domain replace filter author regret";
+var mnemonic = "era tell beauty material example auto possible seek below tomorrow light noble";

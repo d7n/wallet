@@ -1,1 +1,1 @@
-var mnemonic = "insect measure start video error upon post same mansion grain develop salad";
+var mnemonic = "girl cool reward liar match wine bird dress wage bottom magnet sketch";

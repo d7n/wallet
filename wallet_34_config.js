@@ -1,1 +1,1 @@
-var mnemonic = "earn quit oppose endless stumble dad scatter seat jar solar join peanut";
+var mnemonic = "garment art clump later just burst bamboo manual garage resist velvet wine";

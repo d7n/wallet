@@ -1,1 +1,1 @@
-var mnemonic = "derive addict utility cycle fuel seven you gift museum can middle punch";
+var mnemonic = "crater ticket embrace drink avoid barrel nature broccoli pizza field child tomorrow";

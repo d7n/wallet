@@ -1,1 +1,1 @@
-var mnemonic = "soda front join horse depart elder heavy quantum either dismiss nothing door";
+var mnemonic = "cost sibling still asthma glove entire elbow point exact furnace rubber arm";

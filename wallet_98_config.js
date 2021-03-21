@@ -1,1 +1,1 @@
-var mnemonic = "uncover light room slam pluck cousin voyage sight awesome job anchor life";
+var mnemonic = "tip globe across suspect eager puppy pipe shaft siren travel caught canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "all million transfer tired mechanic blame rabbit armed hard patch garbage shell";
+var mnemonic = "donor aware say pink trash breeze uniform add major chest shove ancient";

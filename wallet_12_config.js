@@ -1,1 +1,1 @@
-var mnemonic = "educate chimney park spread sock play orphan retire panel observe midnight stone";
+var mnemonic = "title battle coin power gossip fly frost syrup chalk gas slot around";

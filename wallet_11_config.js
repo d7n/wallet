@@ -1,1 +1,1 @@
-var mnemonic = "able ice repair certain wide slender someone grunt potato sunny chair test";
+var mnemonic = "price despair maid lazy book abstract pill diary early bubble they exit";

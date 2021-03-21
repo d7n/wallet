@@ -1,1 +1,1 @@
-var mnemonic = "science lesson worth earth scheme earth harvest thunder accuse farm cement radio";
+var mnemonic = "cluster crisp web parent lava sock reject disagree caught muffin rather champion";

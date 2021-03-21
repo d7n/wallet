@@ -1,1 +1,1 @@
-var mnemonic = "view silk tattoo limb host voyage pride ramp acoustic admit learn insect";
+var mnemonic = "close call shoe athlete spray fortune silk fit ceiling cradle town asset";

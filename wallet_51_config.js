@@ -1,1 +1,1 @@
-var mnemonic = "skill front fence stumble window amazing allow skate hood hedgehog patch happy";
+var mnemonic = "worry mail accident put forget bag planet pipe report win owner velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "shift stock among tonight hobby humble charge recipe maple want pond airport";
+var mnemonic = "history car practice just rule cotton anxiety grow crouch husband increase swift";

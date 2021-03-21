@@ -1,1 +1,1 @@
-var mnemonic = "outdoor tourist naive champion season elbow shiver believe diagram oppose funny never";
+var mnemonic = "unfair wife tent rare bag romance mesh mystery public runway tone tongue";

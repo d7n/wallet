@@ -1,1 +1,1 @@
-var mnemonic = "giant wall pass umbrella sketch service ill crystal island pyramid indicate waste";
+var mnemonic = "vivid one jealous pupil fringe job convince extra bacon autumn grass fence";

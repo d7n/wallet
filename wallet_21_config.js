@@ -1,1 +1,1 @@
-var mnemonic = "insane book affair dolphin upper short still worry crop dash program team";
+var mnemonic = "gorilla bomb bread insect funny village join olympic lesson omit door pottery";

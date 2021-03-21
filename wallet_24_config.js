@@ -1,1 +1,1 @@
-var mnemonic = "weasel super despair quality sustain metal output hurt history sunny harbor figure";
+var mnemonic = "fence meadow blind dinner purpose alter ozone tool castle tongue unveil mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "focus cousin move board wife cliff between token once thunder number swing";
+var mnemonic = "meat sheriff enough favorite edit swift section ranch frown inch dash gallery";

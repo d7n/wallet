@@ -1,1 +1,1 @@
-var mnemonic = "flash shop sweet mind stairs critic disagree rhythm school skirt wife coil";
+var mnemonic = "season tonight area negative boss tired royal enforce anxiety faint mixture secret";

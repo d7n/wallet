@@ -1,1 +1,1 @@
-var mnemonic = "birth program seven royal village trash bright neutral rare patrol fox salmon";
+var mnemonic = "occur large syrup cherry train recall disease window wink behind sauce soccer";

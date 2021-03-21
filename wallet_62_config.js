@@ -1,1 +1,1 @@
-var mnemonic = "key present crucial define cabin law romance foam milk keep escape disease";
+var mnemonic = "text attack normal resource project prefer icon piano note fuel motor casino";

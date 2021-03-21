@@ -1,1 +1,1 @@
-var mnemonic = "innocent ride hub tone crouch kiss bus liar creek drop kiwi raccoon";
+var mnemonic = "initial lady cabbage coach museum gown minute clever science toilet unfold basic";

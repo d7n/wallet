@@ -1,1 +1,1 @@
-var mnemonic = "strategy reason kiwi actress retreat siren great burst process core nature drum";
+var mnemonic = "medal very foam secret scissors flock lizard small twenty squeeze menu option";
