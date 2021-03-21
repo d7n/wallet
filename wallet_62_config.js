@@ -1,1 +1,1 @@
-var mnemonic = "blast normal truly police elegant cupboard recycle audit dentist love tourist hold";
+var mnemonic = "stereo shoe icon law panel various adjust summer suggest wonder buddy style";

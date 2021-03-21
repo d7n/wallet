@@ -1,1 +1,1 @@
-var mnemonic = "garbage bunker document title trial dress sock foil maple tattoo tank end";
+var mnemonic = "inhale subject comic alert unlock weasel best buzz unlock meadow egg jazz";

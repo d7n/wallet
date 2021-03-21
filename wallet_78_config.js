@@ -1,1 +1,1 @@
-var mnemonic = "kidney noodle diagram tray always adult glow like prison primary pitch twelve";
+var mnemonic = "sponsor slot topic card fortune female usual secret all steak series monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "foot endorse grape cool note future urge reform tomorrow animal denial crawl";
+var mnemonic = "region penalty host rebel notice front decrease endorse legend bicycle churn survey";

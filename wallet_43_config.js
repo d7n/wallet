@@ -1,1 +1,1 @@
-var mnemonic = "slight sketch cupboard anchor fall intact gloom hedgehog cloud stomach life inspire";
+var mnemonic = "live chalk mean giant grit unlock inmate rack retire tail inhale south";

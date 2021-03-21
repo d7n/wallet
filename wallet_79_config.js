@@ -1,1 +1,1 @@
-var mnemonic = "hollow super fog nothing reason green ahead leader robot agree chair eagle";
+var mnemonic = "bless boy unhappy grape warm round found wait roast theory improve dinosaur";

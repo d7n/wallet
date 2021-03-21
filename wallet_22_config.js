@@ -1,1 +1,1 @@
-var mnemonic = "joke soldier make settle maid erosion blossom fashion allow detect junk winner";
+var mnemonic = "hamster ability anxiety decide dinosaur syrup oval corn margin dash nature glide";

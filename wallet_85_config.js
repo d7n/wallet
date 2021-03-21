@@ -1,1 +1,1 @@
-var mnemonic = "silver pet among inspire visual decade raven apple history adjust visit menu";
+var mnemonic = "knife hire option vessel subject culture aware begin figure under lion describe";

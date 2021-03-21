@@ -1,1 +1,1 @@
-var mnemonic = "taxi have lazy letter world trophy robust wheat sting emerge exist pipe";
+var mnemonic = "mosquito anxiety fat bulb ahead gauge own angry myself kite entire black";

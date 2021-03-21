@@ -1,1 +1,1 @@
-var mnemonic = "job pool wrong nice few reopen derive lens alter divide parent hold";
+var mnemonic = "project notable rally behave sad hybrid share object term echo more polar";

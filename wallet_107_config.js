@@ -1,1 +1,1 @@
-var mnemonic = "debate arrive myth pink right mule naive wolf recall label enrich grain";
+var mnemonic = "dose tenant measure possible autumn strategy world vacant exercise subway movie deer";

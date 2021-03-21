@@ -1,1 +1,1 @@
-var mnemonic = "day cram off lucky lab artefact put slender action memory hidden dress";
+var mnemonic = "mechanic bonus leaf panther soap cream much bless sign purpose father health";

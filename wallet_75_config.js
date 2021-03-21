@@ -1,1 +1,1 @@
-var mnemonic = "siren milk coil fantasy dinosaur robot roast stamp embark fiber plastic describe";
+var mnemonic = "fiber suggest fine ginger medal sorry flip long hair price depth spread";

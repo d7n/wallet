@@ -1,1 +1,1 @@
-var mnemonic = "beef profit cause letter latin session exile practice virtual inflict blame increase";
+var mnemonic = "rare easy mercy false daughter brass result despair protect boring main flush";

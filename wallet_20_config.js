@@ -1,1 +1,1 @@
-var mnemonic = "case charge grape flip tortoise tuna video attack dice coffee victory offer";
+var mnemonic = "birth rack future tired mule scrap taste jewel horse rather author defense";

@@ -1,1 +1,1 @@
-var mnemonic = "flock lesson intact kiss luxury loop three rebuild fatal tent boring shrug";
+var mnemonic = "ensure mixture guilt crane call vast love reopen window profit between lounge";

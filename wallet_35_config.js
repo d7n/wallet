@@ -1,1 +1,1 @@
-var mnemonic = "nuclear service green stadium kingdom prize grunt frog thing dirt outdoor crucial";
+var mnemonic = "capable tilt wet loop appear leisure woman worry lens spread soup wrist";

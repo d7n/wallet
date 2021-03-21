@@ -1,1 +1,1 @@
-var mnemonic = "trash else sweet vapor salmon quantum moment carbon host decline champion title";
+var mnemonic = "bird panel wing mask neutral vessel danger wedding rare rent piano saddle";

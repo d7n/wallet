@@ -1,1 +1,1 @@
-var mnemonic = "inject filter sniff regret time call layer method canvas disorder multiply dynamic";
+var mnemonic = "amount mesh foster prevent calm little lobster possible worry occur remind ensure";

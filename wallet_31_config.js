@@ -1,1 +1,1 @@
-var mnemonic = "lesson mask infant similar curve path abuse escape crash vault finish spider";
+var mnemonic = "decide black harvest guess hover behind alert predict flush vintage wage breeze";

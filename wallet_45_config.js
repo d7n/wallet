@@ -1,1 +1,1 @@
-var mnemonic = "force lawn key correct uncle uncover jar health page panther honey drink";
+var mnemonic = "peasant round anchor finish meadow worry resemble flash scale advance noble poverty";

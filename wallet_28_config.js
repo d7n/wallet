@@ -1,1 +1,1 @@
-var mnemonic = "tower divorce great hope cigar window relax rival glory anchor inside spoon";
+var mnemonic = "net entire transfer crunch typical merge mango frost panel valve sauce imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "because fatal silver snack under wood gauge spot icon oxygen tip action";
+var mnemonic = "multiply butter rabbit explain finish help little motion card pattern hybrid okay";

@@ -1,1 +1,1 @@
-var mnemonic = "embark age curve draw salon sadness swim trip brother merge term canoe";
+var mnemonic = "pencil gather deny morning sibling wife blue unit elite spread cart trip";

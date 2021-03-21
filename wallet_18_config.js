@@ -1,1 +1,1 @@
-var mnemonic = "melody enemy gown sheriff swarm quiz enrich awkward dove chuckle pass sort";
+var mnemonic = "add believe craft ready damage video segment prefer robot treat enrich bicycle";

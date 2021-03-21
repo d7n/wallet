@@ -1,1 +1,1 @@
-var mnemonic = "regular chest strong bounce horror sound awesome act company yard outdoor artwork";
+var mnemonic = "shadow sun creek click verb ugly menu pole spin trophy mosquito select";

@@ -1,1 +1,1 @@
-var mnemonic = "debris scheme atom animal sphere abuse eternal brisk cancel save kite antique";
+var mnemonic = "omit agent unit august dinner enrich lunch dolphin turtle bottom tenant purchase";

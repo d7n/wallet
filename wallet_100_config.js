@@ -1,1 +1,1 @@
-var mnemonic = "husband bamboo holiday tired slot night phrase argue plug omit aerobic tattoo";
+var mnemonic = "youth dog help unusual rough gospel spin cattle fringe latin camp horse";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel pact obvious level stage gauge boss situate obey oblige dinner always";
+var mnemonic = "tortoise cable hybrid pulp capable permit swim adult material bargain birth same";

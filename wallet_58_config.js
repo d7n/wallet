@@ -1,1 +1,1 @@
-var mnemonic = "language ozone ivory sweet exclude recycle chef expire range bag nation resist";
+var mnemonic = "glove view strong act quote onion crawl any above object brush grow";

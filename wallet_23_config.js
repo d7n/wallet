@@ -1,1 +1,1 @@
-var mnemonic = "wonder just arrow force wise immune demise liquid post absurd bless cactus";
+var mnemonic = "debris super distance invite slight survey busy flock orchard shock tomato parent";

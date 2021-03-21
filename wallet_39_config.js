@@ -1,1 +1,1 @@
-var mnemonic = "mango among rival vivid slogan biology wealth sail potato wife damage raven";
+var mnemonic = "target reward plate clay shrimp parade salmon deputy blossom axis profit cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "throw spell canoe tray erase royal fit soul blade stumble permit female";
+var mnemonic = "tourist worth enlist soul idle slim display tongue flag ride that castle";

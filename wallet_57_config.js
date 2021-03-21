@@ -1,1 +1,1 @@
-var mnemonic = "peasant romance earn until coach satoshi impose route blast trend hamster hair";
+var mnemonic = "whisper pupil west nice shock vast energy violin again donate bonus wet";

@@ -1,1 +1,1 @@
-var mnemonic = "blast canoe minimum powder clock area captain uniform replace butter shield stadium";
+var mnemonic = "poet twice clean express wonder lumber addict pizza there toe comfort pig";

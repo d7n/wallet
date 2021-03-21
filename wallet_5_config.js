@@ -1,1 +1,1 @@
-var mnemonic = "page lunar hard gas into now valve train already key ready police";
+var mnemonic = "jar program clap pattern shell panda federal chunk mom culture entry light";

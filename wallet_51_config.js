@@ -1,1 +1,1 @@
-var mnemonic = "grit client fame error month cook situate income arrive lamp maid increase";
+var mnemonic = "element muscle veteran purse riot staff actress start wear choose drill artist";

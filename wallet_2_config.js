@@ -1,1 +1,1 @@
-var mnemonic = "around agree sketch image problem same company pause delay swift basic claw";
+var mnemonic = "transfer pudding youth unveil mask face original core defy scrap unhappy hub";

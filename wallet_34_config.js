@@ -1,1 +1,1 @@
-var mnemonic = "urge fence tiny cute junior gift arrow lottery mind novel minimum sheriff";
+var mnemonic = "obvious owner lock alter genius problem sword demand better royal believe wasp";

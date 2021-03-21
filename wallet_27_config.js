@@ -1,1 +1,1 @@
-var mnemonic = "shy exchange dragon tree equal push ticket mother uphold unfair zone much";
+var mnemonic = "parade suspect glue churn twist raw develop note end grab forget help";

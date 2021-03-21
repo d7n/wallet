@@ -1,1 +1,1 @@
-var mnemonic = "inspire brief smart camp anger luxury approve rug sea help barely dress";
+var mnemonic = "helmet output hard gloom sauce decide vacuum enter buffalo eager ginger spring";

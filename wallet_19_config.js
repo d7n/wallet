@@ -1,1 +1,1 @@
-var mnemonic = "hen license truly camera primary voyage opera crucial marriage ignore dignity tray";
+var mnemonic = "liquid bacon capable tape health vacuum atom skin lounge twenty ice step";

@@ -1,1 +1,1 @@
-var mnemonic = "panic olympic remove manage below evil achieve leg tongue hood reveal energy";
+var mnemonic = "aunt canoe patient super spot seven rice common cost recycle giant gate";

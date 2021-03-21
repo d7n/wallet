@@ -1,1 +1,1 @@
-var mnemonic = "smile nasty cactus front limit leave fragile odor gravity winner crawl water";
+var mnemonic = "solid smart tip raw return piano plastic slice peasant neither address urge";

@@ -1,1 +1,1 @@
-var mnemonic = "shift smooth glass dawn deny visit rich damp kind feel half junk";
+var mnemonic = "current awful asthma rack edge whisper tobacco common invest wagon main year";

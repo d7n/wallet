@@ -1,1 +1,1 @@
-var mnemonic = "evidence hero accident wash travel strong wrestle session risk effort innocent spike";
+var mnemonic = "prepare weather sword fade daughter cheese door almost live flip chair bag";

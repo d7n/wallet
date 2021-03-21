@@ -1,1 +1,1 @@
-var mnemonic = "program actress sentence girl guitar garage unaware rabbit juice upgrade length burden";
+var mnemonic = "noodle flower swim shaft hockey swift supreme nest fire they chronic spy";

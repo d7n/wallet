@@ -1,1 +1,1 @@
-var mnemonic = "add belt same umbrella lady stone caution dress output primary rude word";
+var mnemonic = "session market gospel cargo delay inquiry puzzle anxiety team grief faith because";

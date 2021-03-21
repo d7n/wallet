@@ -1,1 +1,1 @@
-var mnemonic = "purchase model slice orange horse slogan actor error smooth congress say sketch";
+var mnemonic = "salon swear matter ecology demise truly tiny adult screen execute good iron";

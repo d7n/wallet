@@ -1,1 +1,1 @@
-var mnemonic = "brick monster boss glove before hollow measure setup boil gentle advance rug";
+var mnemonic = "turtle dust tragic stable wire phrase tumble photo cheap eagle clean rely";

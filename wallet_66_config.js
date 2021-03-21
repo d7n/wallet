@@ -1,1 +1,1 @@
-var mnemonic = "tongue aisle involve ecology pony cabbage prevent sign gasp hospital smart canal";
+var mnemonic = "student oil engine mad security page critic tragic day crew tourist razor";

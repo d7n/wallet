@@ -1,1 +1,1 @@
-var mnemonic = "climb actual print fashion tackle quarter off tonight identify panic cute vintage";
+var mnemonic = "fold work shoe labor cereal rate marble elevator banner best shuffle blouse";

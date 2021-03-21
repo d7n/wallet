@@ -1,1 +1,1 @@
-var mnemonic = "talent unit night portion swift once moon impose super trouble simple seminar";
+var mnemonic = "sponsor era save coil catch cage sword side invite tunnel mother fan";

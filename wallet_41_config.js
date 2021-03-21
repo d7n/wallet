@@ -1,1 +1,1 @@
-var mnemonic = "found repeat draw gravity bar effort agree chaos book fall ten odor";
+var mnemonic = "dance farm assault have master sun wife sort custom august unable shove";

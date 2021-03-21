@@ -1,1 +1,1 @@
-var mnemonic = "text buyer key blame never sting come avoid work bacon mass fiscal";
+var mnemonic = "garment chief exercise hotel okay rapid measure mean scene chimney depart enemy";

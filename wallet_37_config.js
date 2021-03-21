@@ -1,1 +1,1 @@
-var mnemonic = "issue vital upgrade unhappy prefer sea this traffic genre man term indicate";
+var mnemonic = "misery version reflect talk apple hedgehog comfort kitten dawn gift bamboo sad";

@@ -1,1 +1,1 @@
-var mnemonic = "behave better forum caught frame gather dial explain whip essence taxi coconut";
+var mnemonic = "wasp sibling mimic mind wink road cargo verify gasp embrace aunt nose";

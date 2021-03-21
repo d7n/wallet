@@ -1,1 +1,1 @@
-var mnemonic = "daring fog twice appear engine track tortoise midnight hope foam business link";
+var mnemonic = "hover chronic jealous seek song stay find differ travel certain frame shy";

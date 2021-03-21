@@ -1,1 +1,1 @@
-var mnemonic = "museum field shrimp found liar diet jeans prevent canoe pink truly inquiry";
+var mnemonic = "under fossil gossip arena current hard media tell public fat piece boy";

@@ -1,1 +1,1 @@
-var mnemonic = "half supreme seminar target render kind draft legal celery amount whip tide";
+var mnemonic = "shove loud private blue enroll almost estate current believe stem climb tuition";

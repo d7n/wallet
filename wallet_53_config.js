@@ -1,1 +1,1 @@
-var mnemonic = "canvas liberty employ few picture learn rebel year foot help spot goddess";
+var mnemonic = "carry invest sunset spawn friend use laptop glide inch denial card dry";

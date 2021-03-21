@@ -1,1 +1,1 @@
-var mnemonic = "taxi execute slow puppy wealth moon tobacco total appear grass connect end";
+var mnemonic = "float rescue eye cousin game act hood degree confirm math winter later";

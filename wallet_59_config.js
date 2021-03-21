@@ -1,1 +1,1 @@
-var mnemonic = "tackle federal luxury evidence recipe govern ring dose math bind resist hungry";
+var mnemonic = "until question rapid original wide vacuum canvas vital skirt trip version sort";

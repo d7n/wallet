@@ -1,1 +1,1 @@
-var mnemonic = "usual coffee curious ride snack hen juice rapid fly shed practice pony";
+var mnemonic = "clown reflect steak toward jealous cat crawl thought casino fatigue scorpion venture";

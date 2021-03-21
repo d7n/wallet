@@ -1,1 +1,1 @@
-var mnemonic = "project human then crisp about close client alpha avocado useful drama stone";
+var mnemonic = "future twelve inhale wasp document village furnace hat swallow fog mammal guard";

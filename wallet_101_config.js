@@ -1,1 +1,1 @@
-var mnemonic = "tenant walk shrug innocent bottom now attend assume record cash upon ghost";
+var mnemonic = "pen drastic canoe panther donor abuse trumpet two tooth nerve car awkward";

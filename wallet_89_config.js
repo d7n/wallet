@@ -1,1 +1,1 @@
-var mnemonic = "true cabbage give critic voice turkey prize tomato mystery glass fix busy";
+var mnemonic = "obscure knock civil jewel picture cluster surprise curve betray alley quiz faith";

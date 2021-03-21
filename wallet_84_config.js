@@ -1,1 +1,1 @@
-var mnemonic = "melody pear marble burden lonely ordinary apology goose heart uphold hurry result";
+var mnemonic = "library awkward harbor jaguar special rifle cup fire people mango price rookie";

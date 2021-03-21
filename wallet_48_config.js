@@ -1,1 +1,1 @@
-var mnemonic = "annual ahead cat clump husband carpet twenty pond push protect merit inquiry";
+var mnemonic = "hill around lizard battle vendor shuffle balcony purchase common midnight coyote pottery";

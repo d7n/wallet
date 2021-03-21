@@ -1,1 +1,1 @@
-var mnemonic = "series trial spend acoustic wonder regret frost remove never deer mention cart";
+var mnemonic = "sense napkin alert penalty off hamster attitude state quarter speak loyal lucky";

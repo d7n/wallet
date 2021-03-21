@@ -1,1 +1,1 @@
-var mnemonic = "pave cover antique license hockey kangaroo future cherry behind slab deliver cute";
+var mnemonic = "scene fever that disagree drama bleak pink summer second try solar glove";

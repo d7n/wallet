@@ -1,1 +1,1 @@
-var mnemonic = "double portion tobacco pen step option can truth margin shoot away taste";
+var mnemonic = "symptom picnic sauce deal asthma paddle action iron soft april chunk zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "expose zebra name gain wrong wise tobacco expire venue journey repair awesome";
+var mnemonic = "juice fly barrel oval acquire during dial whisper vacuum comfort answer any";

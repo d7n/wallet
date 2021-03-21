@@ -1,1 +1,1 @@
-var mnemonic = "alley blind become amused dune armed eager resemble fetch between rather liquid";
+var mnemonic = "crane barely village thumb donor jealous concert that theory length edge mystery";

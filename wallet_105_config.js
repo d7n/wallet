@@ -1,1 +1,1 @@
-var mnemonic = "wood inhale survey advice truly olive exile length between antique high favorite";
+var mnemonic = "six lemon pilot assault vessel calm small position reject glad proof attack";

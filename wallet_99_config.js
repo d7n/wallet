@@ -1,1 +1,1 @@
-var mnemonic = "banner kit race spring tortoise super erase damp energy ozone cactus electric";
+var mnemonic = "before repeat regular barrel again ketchup clutch ugly margin bird cream drill";

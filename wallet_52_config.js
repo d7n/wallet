@@ -1,1 +1,1 @@
-var mnemonic = "gun apple spin subway omit come exist daughter come vessel remain flame";
+var mnemonic = "camp school exchange sound whale canal enhance sense since giraffe together shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy leopard senior uncover blur pond fine awake leopard plunge gym easy";
+var mnemonic = "hole gorilla another sleep dilemma pupil voyage curious aerobic season honey anxiety";

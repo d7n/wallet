@@ -1,1 +1,1 @@
-var mnemonic = "caution boat enlist six topple clown laundry riot couple auto load above";
+var mnemonic = "yard dirt dizzy session crash image utility display fetch search rally ahead";

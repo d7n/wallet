@@ -1,1 +1,1 @@
-var mnemonic = "abuse story slice wild install main slice best blossom suit smart lottery";
+var mnemonic = "salon october term switch drastic south canyon guitar butter thing flush comfort";

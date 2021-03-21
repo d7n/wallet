@@ -1,1 +1,1 @@
-var mnemonic = "nuclear ankle raw moon bitter recall excuse angry crush reject usual banner";
+var mnemonic = "vehicle model mask cause fresh file people occur artwork range blast can";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise execute comic usage loop gift harvest dutch wrestle escape swamp combine";
+var mnemonic = "budget square tiny hint media item enable vibrant vintage tip time area";

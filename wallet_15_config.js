@@ -1,1 +1,1 @@
-var mnemonic = "police symbol surface earn scorpion swarm book target device reduce solid place";
+var mnemonic = "logic novel shadow ship output access blind ocean pave dog worth outdoor";

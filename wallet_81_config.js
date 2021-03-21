@@ -1,1 +1,1 @@
-var mnemonic = "change purchase calm lounge pill shrimp drive tooth spike ostrich stock column";
+var mnemonic = "detect vague include outside sunset warfare ignore april clarify person camp south";

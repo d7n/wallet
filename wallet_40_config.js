@@ -1,1 +1,1 @@
-var mnemonic = "pledge safe clown help box urge december summer devote imitate exercise stage";
+var mnemonic = "mixed flush skin rapid smooth garage light boss scheme motor math enroll";

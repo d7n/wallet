@@ -1,1 +1,1 @@
-var mnemonic = "switch chat brave erupt away birth motion stamp belt shrimp problem debris";
+var mnemonic = "portion sure captain end tired cost omit churn dilemma away suspect awful";

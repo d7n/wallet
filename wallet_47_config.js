@@ -1,1 +1,1 @@
-var mnemonic = "outdoor roast inspire ancient critic abuse twelve pelican work spell chicken bitter";
+var mnemonic = "crowd faint gap run shell maze visual gather inherit index thrive sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "vast treat race boat where exotic more shift wire suggest meat walnut";
+var mnemonic = "cereal differ eagle mechanic attend push monkey loyal shoe school cheese license";

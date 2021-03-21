@@ -1,1 +1,1 @@
-var mnemonic = "execute slab plate warrior motion desert damage pepper salon ugly until board";
+var mnemonic = "advance sure recall oil square victory warfare outside range include short mad";

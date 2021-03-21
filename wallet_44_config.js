@@ -1,1 +1,1 @@
-var mnemonic = "horror suspect level drift mobile tape start top bone hamster stock drum";
+var mnemonic = "evil vast model satoshi weather credit visa mango fame shield purse one";

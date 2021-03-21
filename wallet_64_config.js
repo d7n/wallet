@@ -1,1 +1,1 @@
-var mnemonic = "awkward east walk pioneer vacant finish learn now knock asset shell rely";
+var mnemonic = "lecture crew street recall viable then someone sock steel topic brother obtain";

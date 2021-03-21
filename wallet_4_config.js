@@ -1,1 +1,1 @@
-var mnemonic = "rookie ridge wheat cycle grass grid trim solution loop horror mobile six";
+var mnemonic = "when envelope volume bleak avoid prepare wear grass call chair toy shock";

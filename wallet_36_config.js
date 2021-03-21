@@ -1,1 +1,1 @@
-var mnemonic = "arena cabbage action vibrant bone caught stick victory monster unlock invite ice";
+var mnemonic = "that patch ignore pumpkin original expand coral ginger person hotel drop cabbage";
