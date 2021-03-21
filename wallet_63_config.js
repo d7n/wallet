@@ -1,1 +1,1 @@
-var mnemonic = "extend slow this recall trouble junior suit insane dirt analyst birth enable";
+var mnemonic = "monitor shy praise excuse trade wise whip top check color surprise segment";

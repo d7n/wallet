@@ -1,1 +1,1 @@
-var mnemonic = "apart meadow anger noise bronze mixture nature adapt olympic advice silk caution";
+var mnemonic = "boil climb guilt pottery ghost option school wrap antenna hover duty mention";

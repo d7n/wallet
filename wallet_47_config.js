@@ -1,1 +1,1 @@
-var mnemonic = "mail side risk exist faith trouble slot maid truly replace upgrade address";
+var mnemonic = "trophy pizza put umbrella virtual guard lake oxygen hip between dignity short";

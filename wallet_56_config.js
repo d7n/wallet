@@ -1,1 +1,1 @@
-var mnemonic = "unable company asthma powder teach oven across solar stool force monster snap";
+var mnemonic = "fault bone help crane hurdle wage twenty when shrimp manage asset essence";

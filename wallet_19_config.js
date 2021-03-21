@@ -1,1 +1,1 @@
-var mnemonic = "token crawl time silly panther rich mutual party canal real swim way";
+var mnemonic = "priority increase absurd earth decorate bridge sleep season peace they old parent";

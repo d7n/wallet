@@ -1,1 +1,1 @@
-var mnemonic = "hawk stuff void edge just flight human emotion choose action sweet title";
+var mnemonic = "letter woman improve unable inhale analyst note upgrade outdoor render daughter pig";

@@ -1,1 +1,1 @@
-var mnemonic = "fun mail just story enroll enable position eyebrow edge drop tennis utility";
+var mnemonic = "first tenant million run forum master ice lemon voyage rose nice retreat";

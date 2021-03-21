@@ -1,1 +1,1 @@
-var mnemonic = "snow infant very topic beef language cradle story response taxi field soon";
+var mnemonic = "abandon robot sight monster always exclude open differ lens either student exit";

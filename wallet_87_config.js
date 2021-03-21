@@ -1,1 +1,1 @@
-var mnemonic = "edit impact wolf salon viable jazz glimpse outdoor spike right unhappy abandon";
+var mnemonic = "approve glow denial outer what rare twist use airport remove clutch soda";

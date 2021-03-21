@@ -1,1 +1,1 @@
-var mnemonic = "plastic neck spoil topple voyage issue search vast video apart price scout";
+var mnemonic = "range supply lunch page elegant purse reward awesome garage neither chaos segment";

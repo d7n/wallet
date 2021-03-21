@@ -1,1 +1,1 @@
-var mnemonic = "evolve opinion shell spike upper negative theme lens alpha abuse nurse swap";
+var mnemonic = "ball hamster strong air tired spirit tuna wide inmate collect trade own";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn sense typical orchard first clown cry hire afford work laundry welcome";
+var mnemonic = "timber cream mother sibling bitter column found success banner spray pull pipe";

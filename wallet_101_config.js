@@ -1,1 +1,1 @@
-var mnemonic = "still carry chat gentle collect two grain certain achieve measure nasty mesh";
+var mnemonic = "million army super faint exact mango shove tackle good funny brave way";

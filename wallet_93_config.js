@@ -1,1 +1,1 @@
-var mnemonic = "insect climb grunt addict item team double ivory finish erupt attitude exact";
+var mnemonic = "aisle illness flock actress useless oppose wagon off year pull panther sausage";

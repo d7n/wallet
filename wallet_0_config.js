@@ -1,1 +1,1 @@
-var mnemonic = "pull true museum pigeon erase knee flower lawn detect radio blur dutch";
+var mnemonic = "under come dismiss move van cave banana creek bulk flight alarm hip";

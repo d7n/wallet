@@ -1,1 +1,1 @@
-var mnemonic = "final trigger record alley bamboo annual aunt assault essay lonely coast ticket";
+var mnemonic = "help cake library ten reward exhibit sock proud anger baby lunch echo";

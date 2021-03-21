@@ -1,1 +1,1 @@
-var mnemonic = "inquiry angry mushroom praise weapon extra crouch toast gloom kiwi favorite crack";
+var mnemonic = "mystery manage hello push artwork muscle wash ski charge between real weather";

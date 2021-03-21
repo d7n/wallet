@@ -1,1 +1,1 @@
-var mnemonic = "palm museum office thunder egg tooth cabbage cage clerk sudden delay comic";
+var mnemonic = "slim farm win end manage lumber produce poet happy improve spice armor";

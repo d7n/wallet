@@ -1,1 +1,1 @@
-var mnemonic = "anxiety wire hunt ice jazz gun pumpkin drink two giraffe master normal";
+var mnemonic = "ring tortoise check soul bonus rocket cheap comfort develop impact obscure wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "asset between author tired pact magnet brain first abuse pioneer rule thank";
+var mnemonic = "light viable stool forest blush nose bronze usage clay scrub art school";

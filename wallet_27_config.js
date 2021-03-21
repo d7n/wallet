@@ -1,1 +1,1 @@
-var mnemonic = "rebuild regret candy unfold boring panic damp position cat cart foil security";
+var mnemonic = "disorder illness upon roast nest tobacco member uphold rubber equal insect fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "road discover jungle rude tent fine bonus alien door theory noble hurt";
+var mnemonic = "number gain dove hole illegal crouch prevent art vault example fever approve";

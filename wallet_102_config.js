@@ -1,1 +1,1 @@
-var mnemonic = "long small soft worth wheat firm actor open cabbage elegant outdoor common";
+var mnemonic = "almost throw wear eyebrow top example ecology winner idea nut vanish point";

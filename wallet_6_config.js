@@ -1,1 +1,1 @@
-var mnemonic = "pistol decide suffer robust team mutual solid steel decade birth master shop";
+var mnemonic = "icon digital spoil battle trouble unveil habit rain blossom hand whip knock";

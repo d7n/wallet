@@ -1,1 +1,1 @@
-var mnemonic = "doctor person afford peanut try join page drive join final company wire";
+var mnemonic = "start market vivid trouble bomb earn garlic slim change near audit habit";

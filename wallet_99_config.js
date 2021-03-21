@@ -1,1 +1,1 @@
-var mnemonic = "receive response badge claim ahead sunny glow worry repeat lava punch special";
+var mnemonic = "infant envelope oblige monster hip canoe magnet series minimum monster fantasy globe";

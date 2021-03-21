@@ -1,1 +1,1 @@
-var mnemonic = "dress pair normal ignore build say goddess burst aspect cart trap coffee";
+var mnemonic = "stairs seat tribe away nut jealous friend danger cereal giraffe wreck explain";

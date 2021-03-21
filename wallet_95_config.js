@@ -1,1 +1,1 @@
-var mnemonic = "foster door light kit visit radio pave lady expect old broccoli penalty";
+var mnemonic = "destroy account eyebrow skill kiwi bleak goat giraffe across ability gaze federal";

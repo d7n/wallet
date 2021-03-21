@@ -1,1 +1,1 @@
-var mnemonic = "boss brisk practice spend hammer surge tape price client jazz mom surface";
+var mnemonic = "door pill frequent notable exclude become artwork hat pink wild chicken candy";

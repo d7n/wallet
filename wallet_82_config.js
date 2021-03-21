@@ -1,1 +1,1 @@
-var mnemonic = "sense alert apart upper fit render series attack solution simple local pond";
+var mnemonic = "exchange dentist toss right trumpet police main pen output awful draft faith";

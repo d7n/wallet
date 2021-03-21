@@ -1,1 +1,1 @@
-var mnemonic = "wave wish legal book shell grow debris remove absent theme gaze receive";
+var mnemonic = "reject party glance measure aim century busy vehicle casual winter curve company";

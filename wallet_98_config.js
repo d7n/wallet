@@ -1,1 +1,1 @@
-var mnemonic = "mystery coach gossip gather pet guide royal badge face bleak creek urban";
+var mnemonic = "security neither vivid ecology media drill ancient month eternal any auto famous";

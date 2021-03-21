@@ -1,1 +1,1 @@
-var mnemonic = "receive drama guilt annual suggest before cage grass gadget warfare person pear";
+var mnemonic = "main festival glory program service tube juice island spring pottery glare print";

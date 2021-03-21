@@ -1,1 +1,1 @@
-var mnemonic = "announce effort nominee decrease unaware dutch crouch wisdom hint amount elbow day";
+var mnemonic = "elder chuckle latin elder clever shield void absent ignore wine tobacco silver";

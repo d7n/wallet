@@ -1,1 +1,1 @@
-var mnemonic = "harbor unusual scare slow rare verb forest infant drill hurt walk equal";
+var mnemonic = "athlete double female portion riot drift month square crouch law fury grape";

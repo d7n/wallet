@@ -1,1 +1,1 @@
-var mnemonic = "uphold cigar leopard whale media hover dentist crystal engage cube umbrella viable";
+var mnemonic = "excuse poet oil ahead famous mind barely scatter spread gown hammer unlock";

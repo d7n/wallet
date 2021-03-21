@@ -1,1 +1,1 @@
-var mnemonic = "outer entry shiver upgrade cradle october punch galaxy elbow alone blur replace";
+var mnemonic = "glove cook bicycle jaguar twenty mansion long naive garbage next gasp broken";

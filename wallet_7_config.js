@@ -1,1 +1,1 @@
-var mnemonic = "tuition slice hollow hundred climb pony spell track fatal dutch humble dice";
+var mnemonic = "apart noble omit fever matter beyond logic only affair sadness sense enough";

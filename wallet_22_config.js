@@ -1,1 +1,1 @@
-var mnemonic = "bench syrup pass deer uphold give clay rigid shove east educate oval";
+var mnemonic = "cover daughter topple eyebrow begin electric token stomach sniff universe gloom symptom";

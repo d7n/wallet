@@ -1,1 +1,1 @@
-var mnemonic = "brick soldier absent patient among erode beef teach keen forget empty that";
+var mnemonic = "define when report autumn enlist wrist arch staff ripple lobster iron drive";

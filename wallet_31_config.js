@@ -1,1 +1,1 @@
-var mnemonic = "glove finish focus truck enforce example beef company yard wise tunnel rule";
+var mnemonic = "summer aim cycle float kiss inform educate army smart become journey bike";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget burst stamp cigar section invest situate order emotion bleak aisle charge";
+var mnemonic = "honey student hole essay document guitar walk beach legal better dad subject";

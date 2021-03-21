@@ -1,1 +1,1 @@
-var mnemonic = "abuse rain update surge pet peace strike able analyst slot hospital glow";
+var mnemonic = "derive final evil example long sunny pipe donate twice flag when half";

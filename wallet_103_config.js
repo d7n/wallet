@@ -1,1 +1,1 @@
-var mnemonic = "regret empower badge brain shield oak limit toy olympic fall gaze source";
+var mnemonic = "tennis ride practice heart apple end soccer miracle stomach denial obtain motion";

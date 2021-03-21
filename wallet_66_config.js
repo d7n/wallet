@@ -1,1 +1,1 @@
-var mnemonic = "post universe issue slight typical horror reason unhappy tourist combine away observe";
+var mnemonic = "deputy wagon paddle illness move figure relax next fork nephew trash aspect";

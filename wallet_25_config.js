@@ -1,1 +1,1 @@
-var mnemonic = "castle mother multiply field delay walnut evil picture adjust occur sea sunny";
+var mnemonic = "invite hundred major alien tuition female warm toe east romance follow copper";

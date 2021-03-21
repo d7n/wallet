@@ -1,1 +1,1 @@
-var mnemonic = "melody adult nature near shop cash mountain copper olive voyage useless cram";
+var mnemonic = "swarm kidney else damage knife size enroll curtain ripple material cannon remain";

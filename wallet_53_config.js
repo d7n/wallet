@@ -1,1 +1,1 @@
-var mnemonic = "acoustic eye lounge decline rotate crazy educate senior logic diet enjoy soccer";
+var mnemonic = "margin tooth click spirit fruit receive account slim dry twelve nice two";

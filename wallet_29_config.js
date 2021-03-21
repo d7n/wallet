@@ -1,1 +1,1 @@
-var mnemonic = "scatter real limit stove novel response plug tail fancy author basic page";
+var mnemonic = "excess trumpet there muffin chest eagle busy sell easy satoshi cube link";

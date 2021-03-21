@@ -1,1 +1,1 @@
-var mnemonic = "mirror leisure one method next zoo hover transfer fitness change divide stomach";
+var mnemonic = "vintage cluster travel once hat arrest lava great off burst actual brief";

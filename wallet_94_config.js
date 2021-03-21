@@ -1,1 +1,1 @@
-var mnemonic = "float weird hollow toddler abuse say blind clerk witness gym rhythm envelope";
+var mnemonic = "lucky demand exercise head invest scorpion honey denial surge dance mouse admit";

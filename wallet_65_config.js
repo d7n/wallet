@@ -1,1 +1,1 @@
-var mnemonic = "dynamic breeze pilot enter remain day huge void year accident fossil flower";
+var mnemonic = "comfort mobile matrix hello mention employ very fame wisdom medal dune kit";

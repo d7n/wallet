@@ -1,1 +1,1 @@
-var mnemonic = "cage way tribe struggle punch century bring unknown junior kit jazz note";
+var mnemonic = "toe defense cupboard order fix matrix voyage fantasy bus car come tone";

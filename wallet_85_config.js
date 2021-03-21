@@ -1,1 +1,1 @@
-var mnemonic = "useful alpha limb total clap bus canyon genuine powder truly defy wise";
+var mnemonic = "away together move drip multiply glue cart prison artefact bomb retreat inch";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage walk tooth mix ticket thing claw garden lift almost chronic habit";
+var mnemonic = "helmet hidden elder cross arrange all column depend vote giant infant original";

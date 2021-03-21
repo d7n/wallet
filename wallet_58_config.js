@@ -1,1 +1,1 @@
-var mnemonic = "system peace early dice proof convince recycle grit ranch mother grit budget";
+var mnemonic = "damage distance hammer vapor crack guess describe dwarf near water viable load";

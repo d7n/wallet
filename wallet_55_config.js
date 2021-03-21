@@ -1,1 +1,1 @@
-var mnemonic = "viable radio slush captain vacuum crystal can patrol spoon example simple toy";
+var mnemonic = "lunch hundred frozen rough symbol hidden provide ginger boost use toss vocal";

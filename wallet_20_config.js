@@ -1,1 +1,1 @@
-var mnemonic = "umbrella type toy hobby scrub figure clerk maid zero security plunge receive";
+var mnemonic = "doll original library exit hero bridge arena beyond ask talk yard essay";

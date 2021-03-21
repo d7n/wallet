@@ -1,1 +1,1 @@
-var mnemonic = "chase art jewel manual also purpose they iron churn undo glare meadow";
+var mnemonic = "cloud pretty direct document menu retire august talent oxygen usage teach door";

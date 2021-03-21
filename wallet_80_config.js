@@ -1,1 +1,1 @@
-var mnemonic = "wedding equip chief genuine fold wisdom move quarter pilot height resist blush";
+var mnemonic = "ghost enrich open teach electric lion heart awake eagle auto wrist aunt";

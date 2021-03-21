@@ -1,1 +1,1 @@
-var mnemonic = "arch royal edit nuclear student genuine link good about pupil marble nothing";
+var mnemonic = "index upper huge silly frequent cactus idea device nut network faint when";

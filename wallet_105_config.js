@@ -1,1 +1,1 @@
-var mnemonic = "inner ask soccer inspire witness clay donor smooth dance gather toss lab";
+var mnemonic = "notice mirror gospel blast surge jaguar dragon hover priority grape clinic lift";

@@ -1,1 +1,1 @@
-var mnemonic = "prison atom initial wheel seminar impulse differ napkin hello rhythm hazard phrase";
+var mnemonic = "mind club plunge guide runway wagon world unique apology program pistol speed";

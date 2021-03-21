@@ -1,1 +1,1 @@
-var mnemonic = "notable depth champion like adult indicate audit jealous young early cattle hood";
+var mnemonic = "frozen salute wall exhibit skull room churn valid naive casual ritual speak";

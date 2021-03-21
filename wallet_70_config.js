@@ -1,1 +1,1 @@
-var mnemonic = "vacuum either nerve empty pledge card elevator chronic sauce report melt doll";
+var mnemonic = "great term dawn click caught save sick eager earn card zero drop";

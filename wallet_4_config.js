@@ -1,1 +1,1 @@
-var mnemonic = "text make near bracket enough tent pass leader cancel regular avocado uniform";
+var mnemonic = "body poet radio tattoo creek relax recycle own gift cactus giant sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "stable scatter oven turkey guard vendor color lottery air mother pudding file";
+var mnemonic = "dumb amateur cousin swamp fancy state cherry rescue text level wink vocal";

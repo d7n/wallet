@@ -1,1 +1,1 @@
-var mnemonic = "scale supply above pumpkin need grain erosion forum reflect off fresh gas";
+var mnemonic = "extra original alter increase during audit gas noble grab siege wild link";

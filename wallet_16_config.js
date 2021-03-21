@@ -1,1 +1,1 @@
-var mnemonic = "diesel danger zero inform robot same super glimpse kind trash lizard outdoor";
+var mnemonic = "install museum awesome twist column drift radar mention tide hour focus entire";

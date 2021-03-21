@@ -1,1 +1,1 @@
-var mnemonic = "domain elephant life divide gasp banner trumpet piece leader picnic chalk reward";
+var mnemonic = "beauty awkward angle rural crisp age head knock amateur place search ivory";

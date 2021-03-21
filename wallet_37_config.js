@@ -1,1 +1,1 @@
-var mnemonic = "panda strong grow doll priority cable item logic thank puppy reduce exchange";
+var mnemonic = "race test latin mention seminar fatal measure quiz clinic author six what";

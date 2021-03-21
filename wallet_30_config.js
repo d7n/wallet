@@ -1,1 +1,1 @@
-var mnemonic = "inherit uncover vibrant great insect ocean sight thunder pause depart random assault";
+var mnemonic = "pride easily into silver liquid skate force fever priority patient industry clean";

@@ -1,1 +1,1 @@
-var mnemonic = "truck decline lottery victory tuna pattern top cancel grit first because boy";
+var mnemonic = "submit field express hood travel slot powder sing slender mountain goat erase";

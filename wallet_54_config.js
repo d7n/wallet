@@ -1,1 +1,1 @@
-var mnemonic = "ancient heart hard symptom buzz guard wise rug salute model drop account";
+var mnemonic = "method cliff rival shine problem amount danger morning merge axis company seek";

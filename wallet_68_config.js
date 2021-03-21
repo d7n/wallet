@@ -1,1 +1,1 @@
-var mnemonic = "potato category box blur average lunar payment dream top nominee solve art";
+var mnemonic = "girl bunker crunch delay desk box rate between eager depend boat narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "captain refuse again mention common arrange year word find dilemma sing suggest";
+var mnemonic = "bracket garlic profit harsh basic knock cram net hair extend dragon whisper";

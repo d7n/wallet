@@ -1,1 +1,1 @@
-var mnemonic = "top edge budget crowd arrive torch pattern apology rookie price inmate same";
+var mnemonic = "story equal torch hour basket giant pigeon black weekend once fee north";

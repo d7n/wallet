@@ -1,1 +1,1 @@
-var mnemonic = "away identify grid child flush neglect awake mobile indoor wealth parent party";
+var mnemonic = "initial upon parent amused kick menu liar torch program roast shiver brush";

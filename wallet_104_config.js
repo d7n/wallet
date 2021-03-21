@@ -1,1 +1,1 @@
-var mnemonic = "cliff toddler detail sun ankle jewel enrich aisle chimney source fragile talk";
+var mnemonic = "educate flame venue great hobby final require pumpkin hobby false ride drink";

@@ -1,1 +1,1 @@
-var mnemonic = "entry trick tonight poverty motor swim speed palm art pistol knee flip";
+var mnemonic = "bundle deal fox dragon damage nerve icon short level pig credit balance";

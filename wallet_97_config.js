@@ -1,1 +1,1 @@
-var mnemonic = "shell black jump sense myth wreck rebel address rural myth erosion hat";
+var mnemonic = "enjoy water tilt execute name normal card lava scare can save library";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty intact cart noodle exhaust audit purity lonely ribbon lobster basic stone";
+var mnemonic = "pupil force brush online suggest gun mention moral blush remove gain diary";

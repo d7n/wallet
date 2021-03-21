@@ -1,1 +1,1 @@
-var mnemonic = "dune taste dawn section arrest gas panther coconut wool clay cannon addict";
+var mnemonic = "squeeze helmet woman wrist cereal virtual deliver depth wage delay cancel actress";
