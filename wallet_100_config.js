@@ -1,1 +1,1 @@
-var mnemonic = "abstract nurse boy tissue salute wire oppose keen ask miracle kitten extend";
+var mnemonic = "ten letter arctic ball play undo uncle weird stem reward vacant same";

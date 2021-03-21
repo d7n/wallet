@@ -1,1 +1,1 @@
-var mnemonic = "reflect desk nothing gravity zebra cloth bargain lazy mango aerobic loud frost";
+var mnemonic = "farm verb congress end pelican faculty future cloth friend gauge crack outdoor";

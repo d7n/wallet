@@ -1,1 +1,1 @@
-var mnemonic = "wash uniform orphan shy lucky party pudding diesel ability urban plunge oval";
+var mnemonic = "gasp sail chalk hire symbol decline session carry lawn face purchase planet";

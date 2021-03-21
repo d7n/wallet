@@ -1,1 +1,1 @@
-var mnemonic = "orange bonus absorb protect wild buffalo major damage ticket stairs nuclear issue";
+var mnemonic = "grass faint topple pledge toddler current okay hobby total robot hand taxi";

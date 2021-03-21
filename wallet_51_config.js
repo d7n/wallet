@@ -1,1 +1,1 @@
-var mnemonic = "output rule drink drift salad chase catalog mail village club oyster nature";
+var mnemonic = "door choose stone cluster permit bench enroll gasp juice accident canal desk";

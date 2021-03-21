@@ -1,1 +1,1 @@
-var mnemonic = "team trend eternal demise jump neither pet clarify match piano minute rebel";
+var mnemonic = "net machine blanket negative endless tribe subway wage tone view habit custom";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp save exact meadow cake aspect bright magnet attitude miss own fluid";
+var mnemonic = "ethics gown digital organ flash layer alarm argue select praise okay frown";

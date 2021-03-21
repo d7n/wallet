@@ -1,1 +1,1 @@
-var mnemonic = "wrong depend beach hello mobile sadness grab live couch language bullet person";
+var mnemonic = "travel drill shock situate volcano october gossip large rookie nominee half vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "suit remove stuff transfer crunch pattern cradle column mercy language industry fox";
+var mnemonic = "penalty tree repeat remind unfold whip nerve orbit surprise system fork column";

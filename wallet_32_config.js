@@ -1,1 +1,1 @@
-var mnemonic = "rural reflect credit bacon unfair flock increase wagon idea history minute enough";
+var mnemonic = "business olive during giggle gravity other orphan clog galaxy edge safe solid";

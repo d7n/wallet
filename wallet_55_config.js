@@ -1,1 +1,1 @@
-var mnemonic = "opinion update oven sell mention grape deliver produce hockey metal member basic";
+var mnemonic = "sock swear crash pen craft arrest media attract choose ability brave immune";

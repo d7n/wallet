@@ -1,1 +1,1 @@
-var mnemonic = "marriage ritual what farm bonus swap front refuse cattle direct marine vintage";
+var mnemonic = "spring mystery arch split trial issue creek labor voice street left shuffle";

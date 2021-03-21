@@ -1,1 +1,1 @@
-var mnemonic = "isolate okay bitter raccoon model cruise hybrid noise devote dumb vehicle uncle";
+var mnemonic = "catch liquid forest season sample hobby misery belt elbow control disease worry";

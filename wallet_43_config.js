@@ -1,1 +1,1 @@
-var mnemonic = "about keep wave edit afford cute main supply young enlist warm between";
+var mnemonic = "erupt member impose organ fiscal snow enemy belt wait certain enable wrestle";

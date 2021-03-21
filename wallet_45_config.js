@@ -1,1 +1,1 @@
-var mnemonic = "holiday nation idea senior survey cover wool sphere oxygen fade attack strategy";
+var mnemonic = "flat style cigar emerge fiction expire question market swarm bacon indicate number";

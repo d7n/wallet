@@ -1,1 +1,1 @@
-var mnemonic = "obvious push bean crater silly luxury kangaroo spice coin word meadow maple";
+var mnemonic = "indicate inform desk story wood minor gas lake home wreck taxi crowd";

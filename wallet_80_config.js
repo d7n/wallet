@@ -1,1 +1,1 @@
-var mnemonic = "ability decrease cradle hour flame food enable blue off number throw nasty";
+var mnemonic = "video great vibrant hire screen mansion attitude journey talk episode sun slow";

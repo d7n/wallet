@@ -1,1 +1,1 @@
-var mnemonic = "cute battle soap nose crew wonder name size scheme exchange viable banana";
+var mnemonic = "miss marble toward moon tattoo possible kiss asset banana nut dog flock";

@@ -1,1 +1,1 @@
-var mnemonic = "old sausage giraffe during antenna bus episode zone master ride novel surface";
+var mnemonic = "turn chapter soup follow sauce swallow onion indicate true print favorite voyage";

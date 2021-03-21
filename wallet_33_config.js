@@ -1,1 +1,1 @@
-var mnemonic = "foil connect away proud firm symbol beauty purpose dynamic expire lake ask";
+var mnemonic = "liberty coyote shaft hold young balcony curve dentist frog jaguar burden decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "phone teach six coach pitch captain piano street perfect window vapor barely";
+var mnemonic = "flag chalk culture flight notable expect just mimic outdoor shove decline evolve";

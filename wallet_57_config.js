@@ -1,1 +1,1 @@
-var mnemonic = "frog helmet roast bag kind wait result anger gallery ethics claw total";
+var mnemonic = "rhythm vital mushroom swallow fresh wool enlist plastic capital vibrant knife cliff";

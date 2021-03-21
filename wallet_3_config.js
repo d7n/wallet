@@ -1,1 +1,1 @@
-var mnemonic = "cabin grocery marble cheap feature mix artist clarify hard angry pill mystery";
+var mnemonic = "mandate spirit depth camp usual glory uncover sun eagle seminar enjoy zoo";

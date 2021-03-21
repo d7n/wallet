@@ -1,1 +1,1 @@
-var mnemonic = "door market wagon alone defy bomb decrease survey action shrimp lift struggle";
+var mnemonic = "loan salt young cliff almost vapor labor reject sudden upon gather permit";

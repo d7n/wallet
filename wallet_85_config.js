@@ -1,1 +1,1 @@
-var mnemonic = "hundred sell opinion panther cruise strong hold uncover dial lady artwork bicycle";
+var mnemonic = "weekend joke jaguar maze sibling pelican stuff account endless custom decorate scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "cause quick mesh silly rigid phrase rubber behave wear always ritual job";
+var mnemonic = "noble burst skin whisper frozen favorite flower siege eight govern fit animal";

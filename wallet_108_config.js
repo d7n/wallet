@@ -1,1 +1,1 @@
-var mnemonic = "first west enlist blind focus horse result knock skill father goddess receive";
+var mnemonic = "brain sibling feed slight beef science topic vacant gauge awful dose grant";

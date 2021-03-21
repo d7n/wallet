@@ -1,1 +1,1 @@
-var mnemonic = "snow uncover slice hunt bullet nasty furnace suspect goddess elevator derive donkey";
+var mnemonic = "shell island birth right flight festival slender cinnamon sting flock vast purpose";

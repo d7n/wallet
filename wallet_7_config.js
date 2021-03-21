@@ -1,1 +1,1 @@
-var mnemonic = "mistake issue define grain nerve degree noise oven swift first disagree indicate";
+var mnemonic = "foster asthma near ranch thought deal trial once intact voyage brain bubble";

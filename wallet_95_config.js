@@ -1,1 +1,1 @@
-var mnemonic = "fee boss glass call suspect few ripple fiber panther lobster innocent address";
+var mnemonic = "abuse choose menu fiction dragon expand hedgehog ugly dolphin paper open kiwi";

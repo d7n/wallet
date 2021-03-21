@@ -1,1 +1,1 @@
-var mnemonic = "boil sketch theme oxygen beef topic scrub blossom grant vessel obvious client";
+var mnemonic = "siege green dose stumble obscure rescue leg venue bunker tackle need amateur";

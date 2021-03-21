@@ -1,1 +1,1 @@
-var mnemonic = "room poet main ecology enough pull clerk metal rain weather unknown rule";
+var mnemonic = "love drink vanish suit mimic rubber setup awesome relax sing buddy skirt";

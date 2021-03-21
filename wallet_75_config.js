@@ -1,1 +1,1 @@
-var mnemonic = "chuckle manage enough extend panel planet board immune sing angry undo lemon";
+var mnemonic = "immune inner helmet impulse coral copper panel battle demise manage tuition grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "sure embark harsh onion loop utility sure surface table faith monitor young";
+var mnemonic = "kiss reopen erase view little hamster pony surge spider material verify today";

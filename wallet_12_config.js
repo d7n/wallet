@@ -1,1 +1,1 @@
-var mnemonic = "reveal season exit initial edit swarm print defy install argue inject hard";
+var mnemonic = "inherit cover wolf amused core achieve gift family disorder divorce wood uncover";

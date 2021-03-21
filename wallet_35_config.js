@@ -1,1 +1,1 @@
-var mnemonic = "coconut farm exhibit shy foster cinnamon cabin shiver oak quiz good hair";
+var mnemonic = "erosion strike other sign gain mobile left fit scout cigar call garden";

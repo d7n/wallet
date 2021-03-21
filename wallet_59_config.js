@@ -1,1 +1,1 @@
-var mnemonic = "type midnight bacon cushion mistake hospital detail tone bone wall adjust blouse";
+var mnemonic = "rib distance one soda horse speak will primary grape obey ecology swift";

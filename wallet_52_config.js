@@ -1,1 +1,1 @@
-var mnemonic = "same abstract wink lizard shuffle verify alone carbon pond borrow rookie cruel";
+var mnemonic = "dash march strategy wear bulk much fiscal pioneer dream apology unfair sun";

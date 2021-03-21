@@ -1,1 +1,1 @@
-var mnemonic = "jealous gown increase situate lawsuit brass program nut laptop hollow library current";
+var mnemonic = "lock beach message submit soldier latin desk baby image define electric element";

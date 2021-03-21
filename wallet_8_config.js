@@ -1,1 +1,1 @@
-var mnemonic = "fault friend kangaroo rain quiz giraffe coral snap cash wasp average squeeze";
+var mnemonic = "raw mountain review okay peace engage afraid maze sponsor desk dinner crew";

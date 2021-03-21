@@ -1,1 +1,1 @@
-var mnemonic = "custom unique vague vibrant neck rhythm witness model shift junk comfort limit";
+var mnemonic = "mesh invite nature rain crystal museum rough acquire exact cover symptom flame";

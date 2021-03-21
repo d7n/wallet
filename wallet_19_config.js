@@ -1,1 +1,1 @@
-var mnemonic = "axis bitter pig option faculty seat thing ill age destroy topple horse";
+var mnemonic = "hill latin march pulp denial category size warm popular vapor faith battle";

@@ -1,1 +1,1 @@
-var mnemonic = "alley inherit suspect fee reason secret camp cost illness bread label second";
+var mnemonic = "naive comfort deny grocery prize crime depart device device uncover theme dog";

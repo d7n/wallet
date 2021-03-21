@@ -1,1 +1,1 @@
-var mnemonic = "unaware glass rocket clerk menu anxiety force bracket soon load eager quantum";
+var mnemonic = "excuse any party nation time case style squeeze educate athlete minute attract";

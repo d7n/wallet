@@ -1,1 +1,1 @@
-var mnemonic = "theory robust below path strike flee broccoli shoe until winner pulse manual";
+var mnemonic = "apology win cattle oak script about income rally maple dose wreck shift";

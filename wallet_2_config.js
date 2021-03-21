@@ -1,1 +1,1 @@
-var mnemonic = "any always genre interest phone praise exclude acid deposit coconut delay chuckle";
+var mnemonic = "divide good auto good demand sausage spell badge return state garment review";

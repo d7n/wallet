@@ -1,1 +1,1 @@
-var mnemonic = "exit wear easy forget echo car riot owner list muscle broom flower";
+var mnemonic = "praise grab type develop vague engage sudden company sad coyote wrestle royal";

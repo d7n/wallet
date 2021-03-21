@@ -1,1 +1,1 @@
-var mnemonic = "expect explain unlock confirm body gain spider milk slot enlist entire discover";
+var mnemonic = "camera square priority craft survey atom lamp midnight basic wreck indicate coil";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery tank dinosaur demise runway sand capable bacon bomb law alley nation";
+var mnemonic = "result gentle holiday noble crisp shine note fashion soon leopard tiger airport";

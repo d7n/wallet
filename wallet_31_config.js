@@ -1,1 +1,1 @@
-var mnemonic = "nasty clog syrup fuel violin coach monkey give rescue wear muffin long";
+var mnemonic = "cheese author only soap medal happy shy dash wage cash metal aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "better claw language shell captain filter push vacant destroy rapid output runway";
+var mnemonic = "company trick trumpet latin into ice fault amused jewel easily beach cycle";

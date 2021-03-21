@@ -1,1 +1,1 @@
-var mnemonic = "fabric among doctor farm veteran trade outer choice stone tool stable sleep";
+var mnemonic = "tilt table say hobby front appear mention diary walk used sad height";

@@ -1,1 +1,1 @@
-var mnemonic = "ill limb jaguar twelve nut orient topple garbage letter wreck mule admit";
+var mnemonic = "hockey arrow horror degree any mirror angle short stage swift frown belt";

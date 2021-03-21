@@ -1,1 +1,1 @@
-var mnemonic = "reject window electric scissors art object polar collect rescue wet tone twice";
+var mnemonic = "nuclear hip vendor vintage dynamic about wrap autumn series afford anxiety next";

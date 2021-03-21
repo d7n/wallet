@@ -1,1 +1,1 @@
-var mnemonic = "sweet draft need essay foam vessel apple person bubble chase shoot convince";
+var mnemonic = "health model hold reunion naive breeze want stadium boring gravity swim symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "post come sunny bicycle odor distance fox ivory response scale pudding betray";
+var mnemonic = "warm impact control address nasty flush evidence juice gospel ozone sweet lens";

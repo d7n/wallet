@@ -1,1 +1,1 @@
-var mnemonic = "voyage quiz road arena number inmate kitchen cruise youth ski sure economy";
+var mnemonic = "member easily glide metal slab barrel issue notable veteran casual void olive";

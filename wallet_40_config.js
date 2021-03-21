@@ -1,1 +1,1 @@
-var mnemonic = "omit uncover sad one cricket news update program daughter bomb ancient album";
+var mnemonic = "perfect feed inherit arrow main music almost wolf liberty long need close";

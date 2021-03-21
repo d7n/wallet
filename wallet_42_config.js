@@ -1,1 +1,1 @@
-var mnemonic = "whip viable inner cabin bless boat ball shine north cousin lift south";
+var mnemonic = "crime cage pave marriage since foam combine jealous grace note recycle sauce";

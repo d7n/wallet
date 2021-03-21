@@ -1,1 +1,1 @@
-var mnemonic = "fresh avocado jewel rude peanut quote produce family carpet note permit cup";
+var mnemonic = "bridge friend mad razor sudden guilt food level huge palm surround very";

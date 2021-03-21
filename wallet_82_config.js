@@ -1,1 +1,1 @@
-var mnemonic = "grape also across timber advice vehicle wealth pig canvas toast manage transfer";
+var mnemonic = "wrap lazy inspire gauge banner void live ketchup apart build illegal slab";

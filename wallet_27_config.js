@@ -1,1 +1,1 @@
-var mnemonic = "airport better figure exact sea knock concert august scrub just hill dynamic";
+var mnemonic = "base order wide this picture tobacco uncle bread rotate negative shift damage";

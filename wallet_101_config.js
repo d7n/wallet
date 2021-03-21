@@ -1,1 +1,1 @@
-var mnemonic = "pool custom dirt comfort tattoo party poet cloud ahead antique wrist wire";
+var mnemonic = "where document slogan carry animal unusual distance derive lend barrel inspire cruise";

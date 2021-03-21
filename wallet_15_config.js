@@ -1,1 +1,1 @@
-var mnemonic = "dilemma cage bind combine future diagram novel very fox stand glass powder";
+var mnemonic = "steel kite cram biology vault junk earn burger zone fatal weather asthma";

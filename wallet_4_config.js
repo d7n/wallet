@@ -1,1 +1,1 @@
-var mnemonic = "describe multiply bright piano couch panda pudding fence quantum cradle assault three";
+var mnemonic = "actual young struggle proof ridge vital trigger advance buzz warrior buzz message";

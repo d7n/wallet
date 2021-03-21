@@ -1,1 +1,1 @@
-var mnemonic = "energy staff educate excess shop empty tumble shove glove pole hover town";
+var mnemonic = "hurry topic arrow tray ugly nasty buddy can urge claim dignity breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "habit patch canal tool deer run tide adult million circle summer similar";
+var mnemonic = "receive galaxy affair catalog devote return true combine pride flat decrease sound";

@@ -1,1 +1,1 @@
-var mnemonic = "metal excite renew animal solar sorry exile wear orphan often ripple pepper";
+var mnemonic = "primary category divert actual ridge video tube action quantum arm multiply payment";

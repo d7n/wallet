@@ -1,1 +1,1 @@
-var mnemonic = "actor truck three bleak law eager reveal antenna fish play amused erosion";
+var mnemonic = "blush bind rotate dog seven tattoo review inside anger regret alley travel";

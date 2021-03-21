@@ -1,1 +1,1 @@
-var mnemonic = "across mandate work crazy silent marriage toy remind anchor super stumble orbit";
+var mnemonic = "enforce secret glide ridge strong wheat merit alley junior success edit electric";

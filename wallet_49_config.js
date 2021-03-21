@@ -1,1 +1,1 @@
-var mnemonic = "risk pupil bridge motion slim give reject brief meadow favorite evil author";
+var mnemonic = "reflect guess girl birth dinner maid valve until butter nephew rare fall";

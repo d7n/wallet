@@ -1,1 +1,1 @@
-var mnemonic = "sound slow dial medal nut toddler zero deliver math winner people few";
+var mnemonic = "foot demise hip achieve buyer memory spatial describe shy cat must receive";

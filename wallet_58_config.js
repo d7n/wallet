@@ -1,1 +1,1 @@
-var mnemonic = "someone purpose loop blanket science early alpha blanket bike consider leisure crawl";
+var mnemonic = "spend oval note century whisper theory warrior afford face rebuild identify leopard";

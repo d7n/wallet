@@ -1,1 +1,1 @@
-var mnemonic = "before exile pupil cliff spin skill present raccoon august topic cook weapon";
+var mnemonic = "device pair grape muscle absorb parent copy daughter captain alpha screen always";

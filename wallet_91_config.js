@@ -1,1 +1,1 @@
-var mnemonic = "coyote fury parrot toast glove switch exhaust tumble train shallow dirt evoke";
+var mnemonic = "absent meat lamp ill blouse feature broken seven consider because orbit rich";

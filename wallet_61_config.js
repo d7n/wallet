@@ -1,1 +1,1 @@
-var mnemonic = "typical image slow smooth loud valve work powder avoid refuse day bounce";
+var mnemonic = "purity found kit cereal surface fragile crack short topic shrug such remind";

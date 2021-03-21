@@ -1,1 +1,1 @@
-var mnemonic = "math save absorb carry switch taste original payment pony upon real cycle";
+var mnemonic = "twice seminar silver love ugly hurt leopard shoe wrist fluid force runway";

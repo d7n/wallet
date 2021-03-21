@@ -1,1 +1,1 @@
-var mnemonic = "bunker powder matter impulse tourist patrol upon bar credit useless junior general";
+var mnemonic = "when horse guitar number dynamic dawn razor teach soda genuine cloth pear";

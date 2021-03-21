@@ -1,1 +1,1 @@
-var mnemonic = "become glide margin theme field box twelve delay begin crane eager refuse";
+var mnemonic = "valid toast merge game force hold frown slender angry flight bonus impact";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen coach marriage fold evolve split pioneer aerobic spider bounce hood prevent";
+var mnemonic = "fire struggle roast despair trend engine flower used high master bunker metal";

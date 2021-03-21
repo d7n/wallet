@@ -1,1 +1,1 @@
-var mnemonic = "funny phone duty clarify pizza open eager fun grace zebra theme walk";
+var mnemonic = "smile hidden hello casual below dance laugh pet dawn gasp laugh glance";

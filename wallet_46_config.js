@@ -1,1 +1,1 @@
-var mnemonic = "act gasp across police burden receive among soap enough wealth bulk squeeze";
+var mnemonic = "swim grant opinion heavy input flame script air sick stuff swamp armor";

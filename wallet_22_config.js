@@ -1,1 +1,1 @@
-var mnemonic = "safe dragon evidence twist vanish uniform tomato intact oval angry essay opera";
+var mnemonic = "when trigger creek marine actor candy worth sleep cousin moral crew crater";
