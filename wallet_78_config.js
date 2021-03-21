@@ -1,1 +1,1 @@
-var mnemonic = "chef reform dance save chalk circle input amazing fluid blade width museum";
+var mnemonic = "gold rather enact saddle slam pizza gasp bone party predict cluster upset";

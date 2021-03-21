@@ -1,1 +1,1 @@
-var mnemonic = "win script raw live flavor asthma decade frown flee skill other travel";
+var mnemonic = "tuition upset various hurdle copy win home cross average crash muffin client";

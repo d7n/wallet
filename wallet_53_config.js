@@ -1,1 +1,1 @@
-var mnemonic = "input explain mass rally crystal dawn copy keen salad bonus tail project";
+var mnemonic = "alpha artefact flush scale struggle sugar vehicle deputy usual drift win cotton";

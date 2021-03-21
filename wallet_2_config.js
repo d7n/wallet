@@ -1,1 +1,1 @@
-var mnemonic = "devote shift best wife torch nurse atom brief mean ritual once town";
+var mnemonic = "lemon annual merit base rug used insane end wage much more hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse rich ivory property recall ethics bulb tag popular egg fire path";
+var mnemonic = "record potato carry weasel slab cupboard faint cabin cause normal summer fever";

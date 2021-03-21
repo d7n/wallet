@@ -1,1 +1,1 @@
-var mnemonic = "gauge burst female envelope list tide gorilla guard spirit inquiry assume hazard";
+var mnemonic = "shuffle chief need output shield image shy flash noise punch wet develop";

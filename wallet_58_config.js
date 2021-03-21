@@ -1,1 +1,1 @@
-var mnemonic = "lumber add nest remind flush excuse another street equip video legend tackle";
+var mnemonic = "damage bounce normal milk mansion artwork season bid fat journey beef soda";

@@ -1,1 +1,1 @@
-var mnemonic = "feed plunge great minor boring sleep surprise bus turtle leg electric ability";
+var mnemonic = "check language belt slight connect dentist solution dilemma burger modify state punch";

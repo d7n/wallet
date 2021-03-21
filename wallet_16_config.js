@@ -1,1 +1,1 @@
-var mnemonic = "make enrich egg stool hedgehog hammer spell hip garden act stove please";
+var mnemonic = "decade jaguar hard balcony orchard tourist park limb enable trial enough monster";

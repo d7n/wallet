@@ -1,1 +1,1 @@
-var mnemonic = "crash tip chapter leopard sea bounce frown flame ostrich crater chat spare";
+var mnemonic = "pulse immense ankle hurt hero chair reduce speed version actress ball tribe";

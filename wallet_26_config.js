@@ -1,1 +1,1 @@
-var mnemonic = "worth olympic knife royal sad pumpkin news element sausage erase absorb ice";
+var mnemonic = "dirt alien fetch salmon velvet jewel foil digital axis crunch impose damp";

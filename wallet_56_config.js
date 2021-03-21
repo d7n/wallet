@@ -1,1 +1,1 @@
-var mnemonic = "very improve text injury eager congress field wave toddler decide february upset";
+var mnemonic = "owner crystal often someone whale later pulse gate wreck used wagon number";

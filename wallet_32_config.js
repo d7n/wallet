@@ -1,1 +1,1 @@
-var mnemonic = "girl agent hungry nothing weird palace umbrella cricket above problem wear later";
+var mnemonic = "clog crash dutch sense club local hill mixed forward divert super equal";

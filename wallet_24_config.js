@@ -1,1 +1,1 @@
-var mnemonic = "range mobile retreat fever kidney bid horror raccoon faculty park speed profit";
+var mnemonic = "aunt devote stable duck forward winner cover anxiety rival wagon doll leave";

@@ -1,1 +1,1 @@
-var mnemonic = "gate solve delay reason maze best odor good stereo provide dentist keen";
+var mnemonic = "suspect swing maximum defy core glance guide month essence define sense parent";

@@ -1,1 +1,1 @@
-var mnemonic = "green change clock october reunion avoid rich hero wet daughter buzz margin";
+var mnemonic = "recipe achieve only basic pottery glimpse bring lobster amazing quality pluck fuel";

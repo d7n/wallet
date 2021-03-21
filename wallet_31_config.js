@@ -1,1 +1,1 @@
-var mnemonic = "universe venture round goddess curtain pigeon spike picture happy club off enact";
+var mnemonic = "kingdom base speed shock step spray renew shrug dust silly balance neglect";

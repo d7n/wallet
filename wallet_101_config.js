@@ -1,1 +1,1 @@
-var mnemonic = "belt surface gun dawn lamp normal ticket tattoo bridge gospel word slight";
+var mnemonic = "seek rule whale current company hero region dinosaur burden empower doll tank";

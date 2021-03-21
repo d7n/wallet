@@ -1,1 +1,1 @@
-var mnemonic = "dog ski inside poverty voyage ankle bicycle maximum moon salmon project knife";
+var mnemonic = "master twelve creek daughter vocal wool tool begin audit bullet nasty escape";

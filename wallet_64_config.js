@@ -1,1 +1,1 @@
-var mnemonic = "coffee path rich extra pyramid when coffee blanket another rebuild auto problem";
+var mnemonic = "help camera tiger current grant remember opera predict illness final right noise";

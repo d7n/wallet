@@ -1,1 +1,1 @@
-var mnemonic = "screen crisp actual spirit firm toe cross result length credit spin invest";
+var mnemonic = "fog wreck seat snap blue vanish skin friend amateur dash badge tape";

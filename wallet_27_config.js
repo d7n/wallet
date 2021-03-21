@@ -1,1 +1,1 @@
-var mnemonic = "task inhale plug mule lab magnet example leisure become mix regular spawn";
+var mnemonic = "hint occur peace essay wish approve result airport habit toy survey ancient";

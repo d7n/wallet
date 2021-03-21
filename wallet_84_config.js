@@ -1,1 +1,1 @@
-var mnemonic = "enrich dress oil gentle rate dismiss rotate announce wall claw fatigue vanish";
+var mnemonic = "spy indoor erase spin float menu alarm army fitness lava modify magic";

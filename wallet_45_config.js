@@ -1,1 +1,1 @@
-var mnemonic = "feed cream slush artwork castle absorb crack slim unable intact mutual silly";
+var mnemonic = "valley tortoise affair sure hire misery general exhaust debate sense teach dinner";

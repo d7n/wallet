@@ -1,1 +1,1 @@
-var mnemonic = "rough attend ginger sure expire donkey tired harsh asset transfer puzzle into";
+var mnemonic = "survey claim trim valve high horror fossil arrange brick silk regular garment";

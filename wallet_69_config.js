@@ -1,1 +1,1 @@
-var mnemonic = "item pilot sail episode limit remain finish reward upper swim fitness table";
+var mnemonic = "wire icon dose mind solve dust leave raw engine jewel hill below";

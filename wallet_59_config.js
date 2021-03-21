@@ -1,1 +1,1 @@
-var mnemonic = "art dry nephew nature useless sting fragile until parent atom click undo";
+var mnemonic = "post nominee shuffle estate blade destroy airport october present devote mystery design";

@@ -1,1 +1,1 @@
-var mnemonic = "view smart cheap nerve dog time donkey mesh common estate little they";
+var mnemonic = "pull island priority fever kiss absurd balcony bench average case minute guitar";

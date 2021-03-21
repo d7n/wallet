@@ -1,1 +1,1 @@
-var mnemonic = "hen ship siege scissors shoot poverty gasp cabbage race holiday mix brass";
+var mnemonic = "common point blast artist response celery awkward improve candy day dentist caution";

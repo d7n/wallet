@@ -1,1 +1,1 @@
-var mnemonic = "nose armed alter home exercise between unique theme wisdom recycle dismiss industry";
+var mnemonic = "item soap patch praise pass price firm plate bargain example prevent cloud";

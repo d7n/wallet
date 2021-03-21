@@ -1,1 +1,1 @@
-var mnemonic = "ski cheese sentence puzzle hundred alcohol mimic early collect approve illegal camera";
+var mnemonic = "job rigid fade level praise agree flavor weekend giggle theory garlic argue";

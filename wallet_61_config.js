@@ -1,1 +1,1 @@
-var mnemonic = "slim eight acoustic fragile lemon horn exile zero chase increase embark desk";
+var mnemonic = "chronic tortoise smooth abandon panel radar response gadget ugly insane basket trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "inch vacuum rich match moment source quality symptom problem board knife devote";
+var mnemonic = "fee give vintage illegal layer life virtual name tenant buddy couch wife";

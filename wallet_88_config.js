@@ -1,1 +1,1 @@
-var mnemonic = "program sun zone wire curtain when seat oil barrel glance gather tent";
+var mnemonic = "oil morning try measure adjust country custom expect average misery stand barely";

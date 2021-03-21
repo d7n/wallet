@@ -1,1 +1,1 @@
-var mnemonic = "awake rule magnet kid orbit bless disagree shop long toss toss post";
+var mnemonic = "long topic govern strike tomorrow umbrella this net naive royal fury lesson";

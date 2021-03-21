@@ -1,1 +1,1 @@
-var mnemonic = "visit glimpse scrap misery nasty second tissue hero walk limit wing domain";
+var mnemonic = "response marble embark wing mixture cage step coin genuine already normal menu";

@@ -1,1 +1,1 @@
-var mnemonic = "decade culture skill excuse october dog option crowd two symbol purse hazard";
+var mnemonic = "chunk sponsor bracket found galaxy pluck crouch group shoe floor camera vital";

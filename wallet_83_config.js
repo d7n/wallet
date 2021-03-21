@@ -1,1 +1,1 @@
-var mnemonic = "baby verb gas zebra rubber describe rotate bleak high service bronze depart";
+var mnemonic = "beach often leader story battle imitate robust online orange beauty annual lion";

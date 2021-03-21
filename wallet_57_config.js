@@ -1,1 +1,1 @@
-var mnemonic = "shock motion winner leave lab swamp video float power anxiety island analyst";
+var mnemonic = "thumb flock sun fence core length govern result tuna paddle subject sense";

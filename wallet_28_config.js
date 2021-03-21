@@ -1,1 +1,1 @@
-var mnemonic = "debris illegal all embrace together find flash someone tube wrap session hollow";
+var mnemonic = "chief during call vast wedding ancient olive decide cradle erosion keen sponsor";

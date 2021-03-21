@@ -1,1 +1,1 @@
-var mnemonic = "junk cause enable loyal right shrug lobster uniform voice wedding little gasp";
+var mnemonic = "local hover note leopard smooth arctic able tube amount chimney club obscure";

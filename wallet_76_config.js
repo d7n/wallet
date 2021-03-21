@@ -1,1 +1,1 @@
-var mnemonic = "almost robust derive car state type mercy clean beef young happy object";
+var mnemonic = "estate text seek caught fatigue ranch area grow token happy fade boost";

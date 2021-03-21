@@ -1,1 +1,1 @@
-var mnemonic = "thank solution math bundle scare live capable vicious live pole grief hospital";
+var mnemonic = "vital drill tag snap mirror want acid pigeon excuse daring script pen";

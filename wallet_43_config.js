@@ -1,1 +1,1 @@
-var mnemonic = "review column engage person relief squirrel sadness canyon angry trend more onion";
+var mnemonic = "city level ugly patient recycle end recycle hill demise detail unable source";

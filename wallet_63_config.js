@@ -1,1 +1,1 @@
-var mnemonic = "address grunt sphere man obey elephant cement hole sniff print strike hover";
+var mnemonic = "mail vintage suspect voice welcome try reform vicious cereal tragic swarm flower";

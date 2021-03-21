@@ -1,1 +1,1 @@
-var mnemonic = "bottom grief name address distance latin allow round myth excess blast various";
+var mnemonic = "ripple scrap stomach culture fury junk onion unable mixture circle relief control";

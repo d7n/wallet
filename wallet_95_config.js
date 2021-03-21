@@ -1,1 +1,1 @@
-var mnemonic = "meadow talk wild identify divorce snow nature dwarf energy sibling refuse muffin";
+var mnemonic = "board damp blind renew pill hybrid random comfort smart hero ghost obtain";

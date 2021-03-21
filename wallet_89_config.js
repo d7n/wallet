@@ -1,1 +1,1 @@
-var mnemonic = "depart swamp result crawl simple business area lava donate arm expire coach";
+var mnemonic = "divorce wool list drama urban photo creek cream talk between book grain";

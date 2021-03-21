@@ -1,1 +1,1 @@
-var mnemonic = "age blossom jeans december whale devote test need into twenty dial talk";
+var mnemonic = "exotic company before dwarf ability finger swing exact loop lion dust conduct";

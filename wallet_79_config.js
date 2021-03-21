@@ -1,1 +1,1 @@
-var mnemonic = "breeze puzzle tomato wrong inmate blue muffin delay pair clay elbow nature";
+var mnemonic = "social aunt subway curve service vehicle radar flee list pottery verb crush";

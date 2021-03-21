@@ -1,1 +1,1 @@
-var mnemonic = "chapter wasp dolphin enhance fat thumb client across sunny risk load used";
+var mnemonic = "regret repair sausage ticket position hope ginger wash when tennis pistol exit";

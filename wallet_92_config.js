@@ -1,1 +1,1 @@
-var mnemonic = "quiz bacon garment public mechanic survey supply blush grape mirror cup smooth";
+var mnemonic = "transfer goat peanut spoil trip grit arena proof paddle mule need dust";

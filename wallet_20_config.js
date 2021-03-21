@@ -1,1 +1,1 @@
-var mnemonic = "pull charge turn mention certain very motor twelve crazy crane banner wonder";
+var mnemonic = "detect road try agree enough face segment screen course carbon remind hip";

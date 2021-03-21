@@ -1,1 +1,1 @@
-var mnemonic = "card ripple smart control target eight dutch muffin various unveil cigar topple";
+var mnemonic = "farm crop tiger easy viable veteran comic tag famous drastic square pave";

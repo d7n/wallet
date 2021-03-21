@@ -1,1 +1,1 @@
-var mnemonic = "join cause maximum post october inflict disorder attitude fit huge marble chunk";
+var mnemonic = "nuclear essay bird upgrade arrange pole myth virtual blossom stage spy piece";

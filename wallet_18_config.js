@@ -1,1 +1,1 @@
-var mnemonic = "select fish fragile dial nose nut hat unfair praise reform frozen message";
+var mnemonic = "exotic taxi already corn census phrase prepare artefact pencil endorse soldier slim";

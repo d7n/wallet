@@ -1,1 +1,1 @@
-var mnemonic = "accident daring mention lamp song stone recycle advice grab clarify project orphan";
+var mnemonic = "exhaust soft oven camp stove indicate ethics shove need room quality gossip";

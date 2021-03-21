@@ -1,1 +1,1 @@
-var mnemonic = "summer cave civil cool scan poet vanish letter slice elephant decade valley";
+var mnemonic = "dice popular joy cannon exhaust ill quick letter liar strong belt clinic";

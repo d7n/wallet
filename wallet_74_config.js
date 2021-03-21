@@ -1,1 +1,1 @@
-var mnemonic = "reunion frost square wrist green label file marble second steak able flock";
+var mnemonic = "crucial series pitch gospel involve caution scout grid either tonight stock kite";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere clerk green analyst sister spoon six admit become bus earth process";
+var mnemonic = "toe loop wide road genre chicken quote fan powder female tunnel pipe";

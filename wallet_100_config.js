@@ -1,1 +1,1 @@
-var mnemonic = "topic photo elder hip repeat grocery team island decrease trim grit differ";
+var mnemonic = "credit voice make prefer drill drip about visit victory symbol all lady";

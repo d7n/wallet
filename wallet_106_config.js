@@ -1,1 +1,1 @@
-var mnemonic = "kid panda dwarf force run fold across garbage dress palm search educate";
+var mnemonic = "then basket where daughter office crazy earn harsh often twist crew hotel";

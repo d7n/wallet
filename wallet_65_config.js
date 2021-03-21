@@ -1,1 +1,1 @@
-var mnemonic = "swing length lumber upon wedding announce trouble rabbit sentence remind recipe auction";
+var mnemonic = "grace rough slab kitchen begin crater collect then afraid weapon extend exotic";

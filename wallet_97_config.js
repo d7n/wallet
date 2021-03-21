@@ -1,1 +1,1 @@
-var mnemonic = "hen extend mixture prosper private very expire gas expire annual easily actress";
+var mnemonic = "blood picture balance hope total stadium canal twist order myth master nation";

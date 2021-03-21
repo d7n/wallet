@@ -1,1 +1,1 @@
-var mnemonic = "pattern okay tennis spend unlock orient tackle sort head chief confirm decorate";
+var mnemonic = "sword sand result repeat all bullet eager pupil system rely notice one";

@@ -1,1 +1,1 @@
-var mnemonic = "equal attack mother toast chunk increase tornado surge advice visa bulk shine";
+var mnemonic = "prison two elder hand steel upper pill artist record test bonus peace";

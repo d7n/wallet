@@ -1,1 +1,1 @@
-var mnemonic = "spatial slot punch hunt foot army assume voice improve loud destroy cargo";
+var mnemonic = "frozen possible situate room gauge salad mixed promote foster damp actress mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior siren loud say control bitter great convince dice receive tide engage";
+var mnemonic = "spatial front liquid promote glare element true false inmate mail quick analyst";

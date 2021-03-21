@@ -1,1 +1,1 @@
-var mnemonic = "convince surprise flame lumber farm crane prefer side dignity phrase winner crop";
+var mnemonic = "kit glue skill copy adult lock trip average until race lizard reopen";

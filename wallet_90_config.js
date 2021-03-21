@@ -1,1 +1,1 @@
-var mnemonic = "fork want gorilla lesson still crime net original finger agent mind delay";
+var mnemonic = "confirm patient quote naive correct kitchen armed slam afraid tool regular proud";

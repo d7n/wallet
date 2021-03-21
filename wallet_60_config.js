@@ -1,1 +1,1 @@
-var mnemonic = "van collect possible sense pen liar crack arch key just trumpet jar";
+var mnemonic = "onion elite quote comic blue edge favorite fresh remind fly script faith";

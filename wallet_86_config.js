@@ -1,1 +1,1 @@
-var mnemonic = "claw eagle elevator invite shed surround dwarf connect season diesel february two";
+var mnemonic = "inner leader mansion warrior flavor game horror make merge tomorrow sheriff mean";

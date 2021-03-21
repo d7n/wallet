@@ -1,1 +1,1 @@
-var mnemonic = "fresh luggage merge client swear visit material novel turkey slim mercy mechanic";
+var mnemonic = "embody index fish usage attack model tag crisp purse subject diary wing";

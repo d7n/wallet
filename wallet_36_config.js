@@ -1,1 +1,1 @@
-var mnemonic = "exile huge dynamic also piece vocal seminar quote keep aunt above comfort";
+var mnemonic = "buzz kidney forward fat primary retreat shrimp plug shock hidden endorse sea";

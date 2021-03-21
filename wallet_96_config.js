@@ -1,1 +1,1 @@
-var mnemonic = "gather earn danger you muffin attend effort dynamic stable swap all naive";
+var mnemonic = "employ neutral milk escape thank erosion ahead category private provide moment track";

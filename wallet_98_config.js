@@ -1,1 +1,1 @@
-var mnemonic = "traffic adjust tumble capital rack cost ship puppy hero verb type glide";
+var mnemonic = "myth meadow enroll aisle screen ignore comic roast gallery snow behind caution";

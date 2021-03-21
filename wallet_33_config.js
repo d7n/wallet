@@ -1,1 +1,1 @@
-var mnemonic = "leader frown plate wasp butter friend stay space huge depart draft tell";
+var mnemonic = "cycle vapor warfare stand armed grass kiwi retire pilot school knife number";

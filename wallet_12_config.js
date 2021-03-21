@@ -1,1 +1,1 @@
-var mnemonic = "they between lottery buyer better super outer black diary author daughter earth";
+var mnemonic = "poverty limit fox lizard fault crop knife struggle depart sail giant permit";

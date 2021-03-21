@@ -1,1 +1,1 @@
-var mnemonic = "bench journey sight cage miracle multiply receive erode pioneer divide sign wrist";
+var mnemonic = "fan empower dove betray globe thumb ivory grocery sauce valley good orphan";

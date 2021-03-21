@@ -1,1 +1,1 @@
-var mnemonic = "vehicle vendor lobster purse jacket supply scale scrap laugh slice combine earn";
+var mnemonic = "memory riot day scene best crucial wine excess tuna weather license explain";

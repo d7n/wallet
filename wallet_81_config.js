@@ -1,1 +1,1 @@
-var mnemonic = "lion price wild quote profit parent amount attend hello crowd farm layer";
+var mnemonic = "desert execute salon hotel arrive link update erode eagle chase grain fabric";

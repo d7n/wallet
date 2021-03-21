@@ -1,1 +1,1 @@
-var mnemonic = "resist cluster elephant alpha green helmet time rice remind forget coil session";
+var mnemonic = "tennis joke link solution estate harvest glue announce evolve swing enlist reason";

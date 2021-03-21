@@ -1,1 +1,1 @@
-var mnemonic = "green green desk grid solution moon proof winner nasty empower endless media";
+var mnemonic = "absorb satoshi notice extend start fall toilet feed slow sail polar market";

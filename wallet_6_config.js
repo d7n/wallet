@@ -1,1 +1,1 @@
-var mnemonic = "sponsor cup animal cute coyote comic lunar various clay broccoli february vacuum";
+var mnemonic = "piano assist advice fish jar also alpha machine opinion peasant rug labor";

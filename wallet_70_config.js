@@ -1,1 +1,1 @@
-var mnemonic = "dish host collect whisper first boat famous uniform quiz move rather tail";
+var mnemonic = "permit armor maze wise hope home color worth dolphin remain name cigar";

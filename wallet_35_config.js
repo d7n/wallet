@@ -1,1 +1,1 @@
-var mnemonic = "exchange add glove dignity try left off usage unable bomb drastic announce";
+var mnemonic = "toddler talent recycle enforce spoil injury joke barrel wedding parrot unknown gospel";

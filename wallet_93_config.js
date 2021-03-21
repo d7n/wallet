@@ -1,1 +1,1 @@
-var mnemonic = "spawn lift taste capable noodle scene flat drip ugly oxygen swap extend";
+var mnemonic = "inhale dash goat pole picture laundry uncover bullet unable pudding caution ski";

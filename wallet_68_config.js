@@ -1,1 +1,1 @@
-var mnemonic = "state throw glimpse express daughter adjust audit glare athlete together track pluck";
+var mnemonic = "keep collect impose group region diary spread collect heavy repeat floor love";

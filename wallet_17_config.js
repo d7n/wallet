@@ -1,1 +1,1 @@
-var mnemonic = "doll copy day robust subject wide toe blanket man coral medal cram";
+var mnemonic = "fever enable stage capable rug release whisper lizard smooth cover setup metal";

@@ -1,1 +1,1 @@
-var mnemonic = "steak bid finish toilet about clog adjust level demise pluck deny acid";
+var mnemonic = "amused prize point index topple width era submit stem police maid decade";

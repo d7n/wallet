@@ -1,1 +1,1 @@
-var mnemonic = "antique mail below comic chronic spike kitchen dentist busy gospel misery hurdle";
+var mnemonic = "uncover lunch plunge lake clutch virus claw horn pupil original broccoli inhale";

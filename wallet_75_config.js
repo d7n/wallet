@@ -1,1 +1,1 @@
-var mnemonic = "journey shallow narrow enact hockey pledge rail jungle lab link humble ignore";
+var mnemonic = "smooth armor pulse permit magnet image equip loyal stereo fiction security brick";

@@ -1,1 +1,1 @@
-var mnemonic = "clock day clap drastic eternal expose police kiwi oval history chronic symbol";
+var mnemonic = "lizard learn lonely insect monster aim make output waste elegant mom hunt";

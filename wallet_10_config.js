@@ -1,1 +1,1 @@
-var mnemonic = "forget soccer tuition spatial guess time gossip random recipe minimum snack talent";
+var mnemonic = "remove small race orbit odor sure urban mystery man ivory access merge";

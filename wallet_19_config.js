@@ -1,1 +1,1 @@
-var mnemonic = "carpet wide plastic source boat ugly high round reason rotate mystery hello";
+var mnemonic = "pudding oval three special carpet excuse alley security ivory sorry empty novel";

@@ -1,1 +1,1 @@
-var mnemonic = "camera intact tone defense hen matrix globe smart live fold small run";
+var mnemonic = "drum bind caution tray million project mother use purse green warm burger";

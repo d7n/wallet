@@ -1,1 +1,1 @@
-var mnemonic = "sad flavor acoustic meadow fragile bus path squirrel dentist case interest inflict";
+var mnemonic = "remove tomorrow solve success tired wife isolate little client spawn afford yard";

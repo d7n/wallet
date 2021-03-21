@@ -1,1 +1,1 @@
-var mnemonic = "bracket dignity divert cycle game say close blur razor cluster nice burden";
+var mnemonic = "junk stove struggle pupil execute disagree advance orbit antenna skull afford risk";
