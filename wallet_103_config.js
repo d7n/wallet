@@ -1,1 +1,1 @@
-var mnemonic = "teach dilemma promote sentence sausage senior nature patient strike wrestle better farm";
+var mnemonic = "circle trend section cargo guitar flee train silk symbol crowd ugly crowd";

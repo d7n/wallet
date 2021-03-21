@@ -1,1 +1,1 @@
-var mnemonic = "off gorilla annual arrow fortune frequent monitor breeze exchange expand remove riot";
+var mnemonic = "cube piece vintage click around illegal survey easy rose hire issue income";

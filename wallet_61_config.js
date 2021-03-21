@@ -1,1 +1,1 @@
-var mnemonic = "agree pact journey hammer begin envelope fiber rent trial man broken planet";
+var mnemonic = "penalty rude clump helmet blue follow warrior sketch despair divorce toward glance";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse kite rabbit vessel exchange door rail donkey forward sphere awful elegant";
+var mnemonic = "symptom crystal super hurry season strong hybrid acid swallow marble onion finger";

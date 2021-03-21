@@ -1,1 +1,1 @@
-var mnemonic = "extra limb tray two void grid reform over fog tissue box almost";
+var mnemonic = "cable detail useless fringe illegal gesture mountain bronze weird oyster source hour";

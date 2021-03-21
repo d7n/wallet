@@ -1,1 +1,1 @@
-var mnemonic = "radio dune frost age gentle parade father custom fox short spider visual";
+var mnemonic = "oil melody sorry biology nurse receive flavor drip scheme boil return tenant";

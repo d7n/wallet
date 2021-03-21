@@ -1,1 +1,1 @@
-var mnemonic = "phrase behave salute lens season core sphere attack sleep insane reject lonely";
+var mnemonic = "dizzy idle eight glory fix tooth snake differ balcony odor all slam";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery inspire menu chat member knock timber zone author crumble pilot citizen";
+var mnemonic = "drum express radar observe push globe typical loyal field whisper leaf cloud";

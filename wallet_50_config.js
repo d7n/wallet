@@ -1,1 +1,1 @@
-var mnemonic = "aisle same thought peanut burst road code victory air fatigue dwarf own";
+var mnemonic = "solve brother unfair beef dragon credit march fatal virus pause isolate flee";

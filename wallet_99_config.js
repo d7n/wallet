@@ -1,1 +1,1 @@
-var mnemonic = "believe brick admit toy planet speak render hole gain enhance napkin length";
+var mnemonic = "urban coyote luxury crush topic torch warrior shadow trial merge impulse milk";

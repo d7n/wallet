@@ -1,1 +1,1 @@
-var mnemonic = "broken sister common pistol taste brass regret few patrol supreme legend admit";
+var mnemonic = "lock fury silk lawn mail umbrella cram unveil indoor seek business hurdle";

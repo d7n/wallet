@@ -1,1 +1,1 @@
-var mnemonic = "brief alley nothing candy furnace assist post deer area beach dinosaur van";
+var mnemonic = "banner core box review unveil uphold approve inhale oak ticket private pen";

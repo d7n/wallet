@@ -1,1 +1,1 @@
-var mnemonic = "decide cute slow knock also evoke update stick relax flavor way snap";
+var mnemonic = "boat lake mask butter budget diet report service panel true assist dose";

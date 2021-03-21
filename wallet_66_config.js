@@ -1,1 +1,1 @@
-var mnemonic = "fatigue mammal movie pen naive crush junk patrol hair wild wet parent";
+var mnemonic = "satoshi chronic spider claw mind trophy confirm thing inmate female tilt lunch";

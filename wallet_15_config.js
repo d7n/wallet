@@ -1,1 +1,1 @@
-var mnemonic = "pet primary bronze engine coast nation elegant slim illness wage obtain comic";
+var mnemonic = "theme regret guess force frozen enrich post just metal giggle absurd motor";

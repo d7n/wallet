@@ -1,1 +1,1 @@
-var mnemonic = "country ship image banana stock cage lazy point rich ginger scene cat";
+var mnemonic = "method fiscal bundle guard black sniff disagree idle egg illegal grab furnace";

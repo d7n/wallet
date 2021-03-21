@@ -1,1 +1,1 @@
-var mnemonic = "math scare fury office acoustic release mimic online case reopen hood axis";
+var mnemonic = "list direct fitness wheat robust discover october churn patch dust upon taste";

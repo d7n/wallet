@@ -1,1 +1,1 @@
-var mnemonic = "midnight setup example search top tourist vanish patrol canal keen impose speak";
+var mnemonic = "law immense wood bicycle beauty embody skill abuse spare image steel flock";

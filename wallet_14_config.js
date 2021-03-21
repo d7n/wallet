@@ -1,1 +1,1 @@
-var mnemonic = "pretty scout enough sadness observe dinner route surround pupil market mistake length";
+var mnemonic = "vapor magic spread cereal define sing large side envelope connect object myself";

@@ -1,1 +1,1 @@
-var mnemonic = "price matter robot slush gun twin wrestle basket slender smoke captain easily";
+var mnemonic = "snake canyon install waste obtain clip abandon yard random finger bring brother";

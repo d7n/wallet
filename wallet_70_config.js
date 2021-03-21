@@ -1,1 +1,1 @@
-var mnemonic = "code lottery satisfy gloom thumb blossom immune dove fiber gorilla quantum kind";
+var mnemonic = "hockey buzz crumble wood pigeon bronze ecology kangaroo hawk crater clutch they";

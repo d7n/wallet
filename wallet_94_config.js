@@ -1,1 +1,1 @@
-var mnemonic = "legal box school network crop jazz vehicle author right dismiss champion assume";
+var mnemonic = "silly correct mushroom impact author change dignity dad swift erupt snow credit";

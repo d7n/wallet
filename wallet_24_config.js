@@ -1,1 +1,1 @@
-var mnemonic = "very genius nephew pause marine fury visual monitor coconut attack rail club";
+var mnemonic = "borrow hobby level discover club cute hour kitten park exhaust cross struggle";

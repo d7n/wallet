@@ -1,1 +1,1 @@
-var mnemonic = "switch dream off resist dream connect skirt august hole sleep bamboo novel";
+var mnemonic = "layer monkey rally demise marriage pluck swing candy island harbor engage raven";

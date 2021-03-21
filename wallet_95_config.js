@@ -1,1 +1,1 @@
-var mnemonic = "lazy verb toilet drastic world globe trade crush kite awesome display egg";
+var mnemonic = "answer settle empty core chunk parent april owner foil emotion slice flash";

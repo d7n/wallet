@@ -1,1 +1,1 @@
-var mnemonic = "enter enlist diagram cook happy quit fiscal turkey kind arrow armor mix";
+var mnemonic = "stem autumn green salmon proof stereo duck valid board help eight cry";

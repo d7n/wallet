@@ -1,1 +1,1 @@
-var mnemonic = "movie soccer panic tag cage sing muffin lab slot ride change elbow";
+var mnemonic = "cake slow swing ready nose grape fantasy stomach will yellow voice wet";

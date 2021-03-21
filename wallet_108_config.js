@@ -1,1 +1,1 @@
-var mnemonic = "road chapter jewel ignore result bench wear barrel sun capital runway burden";
+var mnemonic = "bamboo memory mixed remember typical type lamp sand twelve mad just notable";

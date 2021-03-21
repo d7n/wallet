@@ -1,1 +1,1 @@
-var mnemonic = "ethics have entry shoot video reveal diesel author congress fee muffin acid";
+var mnemonic = "attract labor crumble require cream shrug alpha swear daring grape vanish rose";

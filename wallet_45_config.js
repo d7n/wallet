@@ -1,1 +1,1 @@
-var mnemonic = "satisfy okay devote traffic impose ostrich enjoy divide alcohol pattern ocean gadget";
+var mnemonic = "elder digital notice clutch install illegal segment drill rubber link unit chair";

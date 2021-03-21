@@ -1,1 +1,1 @@
-var mnemonic = "magic grant memory farm expire strong record quarter pattern tenant drift gather";
+var mnemonic = "replace enhance dose car vote room old mango hold tonight snack friend";

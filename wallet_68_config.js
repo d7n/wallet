@@ -1,1 +1,1 @@
-var mnemonic = "gate often flock boy violin blush latin foot anchor keep virus sure";
+var mnemonic = "gold tribe chronic solution engage term luxury spy cattle uniform avocado hollow";

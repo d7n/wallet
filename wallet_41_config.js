@@ -1,1 +1,1 @@
-var mnemonic = "release sock long recipe little outside squirrel brisk cereal barrel tube battle";
+var mnemonic = "sister anger maid jacket couple ancient cricket evil winner lady hidden permit";

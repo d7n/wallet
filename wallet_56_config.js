@@ -1,1 +1,1 @@
-var mnemonic = "coffee file easy absorb art awkward biology nerve reopen visa social fatigue";
+var mnemonic = "banner panel produce smart father crowd good regret crane critic shiver river";

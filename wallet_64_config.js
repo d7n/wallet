@@ -1,1 +1,1 @@
-var mnemonic = "motion spend uphold youth history paper axis banner scrap blue amateur expand";
+var mnemonic = "crunch wise tooth actual sausage crew essay scrub bitter defense borrow child";

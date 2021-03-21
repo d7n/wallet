@@ -1,1 +1,1 @@
-var mnemonic = "head mechanic wisdom one topple above focus tape body hire fee light";
+var mnemonic = "vast fitness nation cave hurdle evoke news eternal sheriff bleak uncle noble";

@@ -1,1 +1,1 @@
-var mnemonic = "below derive extend merry hen avocado side cherry hurt advice wreck tongue";
+var mnemonic = "garden company review lumber couch rude boring scrap chapter urge benefit best";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo situate eight now glad topic awesome govern area harbor net either";
+var mnemonic = "powder glimpse escape helmet unit catalog rubber nut dismiss gravity inmate timber";

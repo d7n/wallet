@@ -1,1 +1,1 @@
-var mnemonic = "glide idea session equal view inherit odor rare onion praise eager identify";
+var mnemonic = "similar forward camp sudden fame vague elegant twice beauty ranch rule drop";

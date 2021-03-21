@@ -1,1 +1,1 @@
-var mnemonic = "melody need icon together destroy clay certain shadow blood reveal audit vibrant";
+var mnemonic = "stone change hope movie forest motion actual payment change hobby stone muscle";

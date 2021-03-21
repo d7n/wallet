@@ -1,1 +1,1 @@
-var mnemonic = "girl shock matter input pool glory outer gasp camera surround chase final";
+var mnemonic = "floor culture fatigue cabin wash van stock bleak brand farm bleak lesson";

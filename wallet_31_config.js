@@ -1,1 +1,1 @@
-var mnemonic = "social budget patient help symbol flee adult scrub misery slim soup occur";
+var mnemonic = "spoon hub leave sudden easily turtle sentence behave salt boost coconut steak";

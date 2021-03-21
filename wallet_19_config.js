@@ -1,1 +1,1 @@
-var mnemonic = "mean depend stumble practice lion nephew width suffer focus transfer version level";
+var mnemonic = "clown joy drop wealth nut misery glass proof index width top again";

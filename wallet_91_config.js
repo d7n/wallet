@@ -1,1 +1,1 @@
-var mnemonic = "ginger garage domain credit daughter spray tag fold movie narrow common fun";
+var mnemonic = "siren upon track ask gift soldier travel melody metal stock onion spend";

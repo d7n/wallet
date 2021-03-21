@@ -1,1 +1,1 @@
-var mnemonic = "into coin today dove seek can erode already rich issue harvest govern";
+var mnemonic = "equal hair scale friend assault narrow twist when involve man yard once";

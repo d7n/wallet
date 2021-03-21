@@ -1,1 +1,1 @@
-var mnemonic = "mixture drop increase assault wheat review join trick pill home rack neither";
+var mnemonic = "gallery shiver snap lunch equal track check describe join permit pigeon guide";

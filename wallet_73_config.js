@@ -1,1 +1,1 @@
-var mnemonic = "brown logic sweet hollow minor diagram crack hunt survey gown manage clump";
+var mnemonic = "say liberty picnic test fork rain sight dance axis aspect stove release";

@@ -1,1 +1,1 @@
-var mnemonic = "render hard renew school gap bone flight snack bridge sock labor immune";
+var mnemonic = "crystal pond fortune moral roast apple frequent artwork grass tilt assault wisdom";

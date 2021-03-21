@@ -1,1 +1,1 @@
-var mnemonic = "crater tuna fluid adjust guide few yard puzzle hand ribbon rich flower";
+var mnemonic = "lesson true olive lucky change era soft elephant expand dignity before gather";

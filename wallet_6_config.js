@@ -1,1 +1,1 @@
-var mnemonic = "omit can produce forget absorb adapt voice end wife jaguar staff girl";
+var mnemonic = "harsh claw village shed panel polar sustain exercise tilt cruise merit marble";

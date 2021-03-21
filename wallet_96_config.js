@@ -1,1 +1,1 @@
-var mnemonic = "piece move miracle extra junior private shaft turkey small fresh boat hero";
+var mnemonic = "loan give unfold impulse edit capital feel list season artefact shallow morning";

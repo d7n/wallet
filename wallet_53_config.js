@@ -1,1 +1,1 @@
-var mnemonic = "police wealth blast agree media canoe village sure power rubber woman off";
+var mnemonic = "attend print ribbon vague item walnut health toast helmet glow just relax";

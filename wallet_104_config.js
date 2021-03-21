@@ -1,1 +1,1 @@
-var mnemonic = "average bunker panel there auction behave shock regret paper pepper feel forward";
+var mnemonic = "fetch question oblige stock enforce broccoli absurd tortoise owner equal tonight soul";

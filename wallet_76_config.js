@@ -1,1 +1,1 @@
-var mnemonic = "whale category match skull pottery wall intact inherit race ill total song";
+var mnemonic = "sell jealous number buffalo expose test rich camera leisure glance tiger flush";

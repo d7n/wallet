@@ -1,1 +1,1 @@
-var mnemonic = "truly attack easily evolve phone unique this carry crouch spell forum depth";
+var mnemonic = "ring few absorb frost elegant grace fortune baby stove bacon must process";

@@ -1,1 +1,1 @@
-var mnemonic = "enact guide welcome basic version veteran useful logic alter enter sport health";
+var mnemonic = "glance happy document hill practice outside guide skirt mom forward name very";

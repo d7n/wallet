@@ -1,1 +1,1 @@
-var mnemonic = "man general pretty iron rich extend south pass steak addict napkin brain";
+var mnemonic = "sheriff social weapon hazard pet huge horn village dawn raw curious deposit";

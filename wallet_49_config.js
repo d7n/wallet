@@ -1,1 +1,1 @@
-var mnemonic = "rotate fringe chat village expose deny height sample truth lake case hurry";
+var mnemonic = "uncover defy aunt apology judge poet word great sausage lumber broken mixed";

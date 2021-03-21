@@ -1,1 +1,1 @@
-var mnemonic = "boss maze ask slogan rural project caught aunt salt drastic toast fine";
+var mnemonic = "pyramid demand annual alter ostrich science stable crawl few carpet couple island";

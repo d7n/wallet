@@ -1,1 +1,1 @@
-var mnemonic = "zone resource fee double milk river bulb unaware match sail amused session";
+var mnemonic = "project voyage mask opera cry portion prison tackle boy carry cluster phone";

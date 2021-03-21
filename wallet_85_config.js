@@ -1,1 +1,1 @@
-var mnemonic = "august salon differ program exile bird bomb deputy post either table despair";
+var mnemonic = "easily fringe length veteran stamp expose together tongue warfare submit salt shield";

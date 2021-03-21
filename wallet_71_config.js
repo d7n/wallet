@@ -1,1 +1,1 @@
-var mnemonic = "ranch use random course fiscal humor true orange kit melt together nest";
+var mnemonic = "else pumpkin lens enough digital cram bicycle river want milk mandate bulk";

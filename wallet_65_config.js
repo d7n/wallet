@@ -1,1 +1,1 @@
-var mnemonic = "upset pelican congress foot oyster pride twelve announce million divorce barrel electric";
+var mnemonic = "test gift income come foam about warfare pen lesson cross inmate gather";

@@ -1,1 +1,1 @@
-var mnemonic = "camera since search luxury agent moral water afford inhale warm various debris";
+var mnemonic = "limb purchase olive search mercy venture happy elevator shoot engage orange sustain";

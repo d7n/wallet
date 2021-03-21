@@ -1,1 +1,1 @@
-var mnemonic = "before settle hurt level mixed rebuild medal mad elephant iron supreme together";
+var mnemonic = "phone flower crunch mad domain coin flavor smart group jaguar piano clip";

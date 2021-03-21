@@ -1,1 +1,1 @@
-var mnemonic = "narrow cat dry term pencil false tongue knee broom ride off vivid";
+var mnemonic = "way adult kite emotion creek retreat magic seek smooth have day lizard";

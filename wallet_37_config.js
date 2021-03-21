@@ -1,1 +1,1 @@
-var mnemonic = "donor garlic tattoo else bicycle twist sand that any review desert render";
+var mnemonic = "idea arrest giggle portion hurdle myth poem vital tortoise festival nephew vessel";

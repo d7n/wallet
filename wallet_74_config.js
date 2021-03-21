@@ -1,1 +1,1 @@
-var mnemonic = "voice boss vendor cigar sample upgrade opera stairs flame dinosaur royal gasp";
+var mnemonic = "polar elephant reunion dismiss cost real wet private view rail knock guitar";

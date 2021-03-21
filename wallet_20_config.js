@@ -1,1 +1,1 @@
-var mnemonic = "track insane above monitor exhibit fall odor chicken city grant sea defy";
+var mnemonic = "infant olive dune battle beauty chronic walnut horn antique dice curious inject";

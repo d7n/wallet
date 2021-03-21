@@ -1,1 +1,1 @@
-var mnemonic = "skin salad enjoy cruise able raven palace dress scissors wrist festival visual";
+var mnemonic = "slim ride fit penalty soldier slow breeze object hair soccer pattern believe";

@@ -1,1 +1,1 @@
-var mnemonic = "drip cereal plunge town silent forest furnace vacuum dirt stumble relax apart";
+var mnemonic = "upset afford expire face foot risk kite fashion ready duck want dizzy";

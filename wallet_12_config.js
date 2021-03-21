@@ -1,1 +1,1 @@
-var mnemonic = "idea cinnamon work point marine bright concert seed smooth use start aware";
+var mnemonic = "afford animal jar insect stick short door upon mule sad devote end";

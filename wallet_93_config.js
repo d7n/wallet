@@ -1,1 +1,1 @@
-var mnemonic = "pulse master merry trick power silly valley foam explain mechanic hawk confirm";
+var mnemonic = "divorce liquid lens leopard vague all hat exchange leg march silk depart";

@@ -1,1 +1,1 @@
-var mnemonic = "three sport drift tackle april resist limit pretty firm pulp panic turtle";
+var mnemonic = "happy tonight timber domain run stuff profit luxury action slender chair tattoo";

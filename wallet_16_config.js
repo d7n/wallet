@@ -1,1 +1,1 @@
-var mnemonic = "punch fiscal window skirt diary month wood ritual clutch hill word snap";
+var mnemonic = "relax bicycle salt bounce yard mimic evoke nasty proof party canal apple";

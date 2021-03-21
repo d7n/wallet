@@ -1,1 +1,1 @@
-var mnemonic = "hill diesel occur oppose ramp prize mouse fatal toward want vote resemble";
+var mnemonic = "gift dismiss lunar act satoshi visa you artwork matter news imitate chaos";

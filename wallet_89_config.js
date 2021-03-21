@@ -1,1 +1,1 @@
-var mnemonic = "cycle occur twenty refuse autumn obscure favorite maid lawsuit shift doctor flock";
+var mnemonic = "achieve laugh test glare vital exclude reunion mixed great pause exist lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle perfect kick wagon pond arena bomb enlist unaware struggle blossom version";
+var mnemonic = "match visa squirrel giggle manual eight fatigue vehicle cross drum sibling employ";

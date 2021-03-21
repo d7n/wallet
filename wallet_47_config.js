@@ -1,1 +1,1 @@
-var mnemonic = "gadget ivory turtle scrub long eternal buddy crime host empower insect cool";
+var mnemonic = "pride better toss armed bulb notable glue globe eagle three surface hover";

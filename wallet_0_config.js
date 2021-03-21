@@ -1,1 +1,1 @@
-var mnemonic = "phone world chalk industry tent badge hurdle sick journey option surprise wing";
+var mnemonic = "wage barrel clinic remove hill legend useless forest local allow silly field";

@@ -1,1 +1,1 @@
-var mnemonic = "common hurdle zoo impose vast top problem unknown awful device fantasy panic";
+var mnemonic = "initial breeze damage impose save prepare stairs pitch warrior require cry boring";

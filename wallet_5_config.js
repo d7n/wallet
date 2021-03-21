@@ -1,1 +1,1 @@
-var mnemonic = "fiction decide lamp craft caught taxi exit garment ritual eye hurry ready";
+var mnemonic = "universe dove fluid develop current owner clock evolve sample desert sun dwarf";

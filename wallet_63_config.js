@@ -1,1 +1,1 @@
-var mnemonic = "extra soft athlete hurry video rigid chimney sound beauty grant improve afraid";
+var mnemonic = "legal scissors detail settle curve anger wheel silly fortune trick candy powder";

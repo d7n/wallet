@@ -1,1 +1,1 @@
-var mnemonic = "speed rare flight march math identify urban hedgehog next bulk siege puzzle";
+var mnemonic = "receive space duty love run grant symptom length metal decline exist orient";

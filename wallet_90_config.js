@@ -1,1 +1,1 @@
-var mnemonic = "crime dance divert fruit total betray travel battle length lemon cage biology";
+var mnemonic = "weekend pact forget genuine cigar finish search act patrol wrist light normal";

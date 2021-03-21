@@ -1,1 +1,1 @@
-var mnemonic = "water cheese feel meadow avoid south spell will disease milk fault find";
+var mnemonic = "depend review avocado liar husband core custom slam guitar brother differ curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "range answer menu face lonely six amused bleak nut nut vendor fun";
+var mnemonic = "lazy sunset surge audit ecology vehicle decide vendor parrot priority mask survey";

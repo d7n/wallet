@@ -1,1 +1,1 @@
-var mnemonic = "this valley suffer happy cake prepare myself mind include permit blue jealous";
+var mnemonic = "fluid thank drama sibling piano ecology love hospital universe entire glory soon";
