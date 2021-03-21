@@ -1,1 +1,1 @@
-var mnemonic = "chronic tortoise smooth abandon panel radar response gadget ugly insane basket trophy";
+var mnemonic = "weird trial genius doctor smooth turtle marriage elevator armor old path sport";

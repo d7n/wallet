@@ -1,1 +1,1 @@
-var mnemonic = "employ neutral milk escape thank erosion ahead category private provide moment track";
+var mnemonic = "cousin regular vanish enlist humble firm cradle silly script now indoor coach";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic taxi already corn census phrase prepare artefact pencil endorse soldier slim";
+var mnemonic = "diary giggle display number mosquito mimic measure just catch drive syrup aspect";

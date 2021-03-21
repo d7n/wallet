@@ -1,1 +1,1 @@
-var mnemonic = "recipe achieve only basic pottery glimpse bring lobster amazing quality pluck fuel";
+var mnemonic = "fury hire arrange frozen inquiry work kingdom same plug jazz struggle avoid";

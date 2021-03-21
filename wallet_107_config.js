@@ -1,1 +1,1 @@
-var mnemonic = "dice popular joy cannon exhaust ill quick letter liar strong belt clinic";
+var mnemonic = "release divide day need design case snake absorb test bar thunder lazy";

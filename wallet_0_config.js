@@ -1,1 +1,1 @@
-var mnemonic = "prison two elder hand steel upper pill artist record test bonus peace";
+var mnemonic = "brain rice frame pony minor icon dentist tenant goat mansion pretty ankle";

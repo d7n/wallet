@@ -1,1 +1,1 @@
-var mnemonic = "dirt alien fetch salmon velvet jewel foil digital axis crunch impose damp";
+var mnemonic = "safe labor off major wisdom that normal wheat sport camera truck camera";

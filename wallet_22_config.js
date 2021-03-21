@@ -1,1 +1,1 @@
-var mnemonic = "nuclear essay bird upgrade arrange pole myth virtual blossom stage spy piece";
+var mnemonic = "light female pony diesel mansion sting treat mango flash conduct bind attack";

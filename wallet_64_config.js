@@ -1,1 +1,1 @@
-var mnemonic = "help camera tiger current grant remember opera predict illness final right noise";
+var mnemonic = "undo aspect subject auto doctor number royal pretty effort draft elder shaft";

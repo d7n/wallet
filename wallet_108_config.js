@@ -1,1 +1,1 @@
-var mnemonic = "exotic company before dwarf ability finger swing exact loop lion dust conduct";
+var mnemonic = "short poverty page unfold relief banner remember explain enemy pulp squeeze august";

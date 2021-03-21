@@ -1,1 +1,1 @@
-var mnemonic = "frozen possible situate room gauge salad mixed promote foster damp actress mirror";
+var mnemonic = "fix flag portion air blouse jealous nut current chair effort enact clock";

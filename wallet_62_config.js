@@ -1,1 +1,1 @@
-var mnemonic = "fog wreck seat snap blue vanish skin friend amateur dash badge tape";
+var mnemonic = "hint eye refuse certain address force omit heavy milk outer comfort glory";

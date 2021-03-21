@@ -1,1 +1,1 @@
-var mnemonic = "toe loop wide road genre chicken quote fan powder female tunnel pipe";
+var mnemonic = "fox organ letter plate saddle film armed comic agree supreme liquid recall";

@@ -1,1 +1,1 @@
-var mnemonic = "network aspect guess pioneer enable simple milk panel update fix square front";
+var mnemonic = "track man degree mesh charge tongue whale history future comfort wear honey";

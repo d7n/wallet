@@ -1,1 +1,1 @@
-var mnemonic = "valley tortoise affair sure hire misery general exhaust debate sense teach dinner";
+var mnemonic = "grain artefact anxiety man bullet mechanic accuse robust afford refuse drama glove";

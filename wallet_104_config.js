@@ -1,1 +1,1 @@
-var mnemonic = "survey claim trim valve high horror fossil arrange brick silk regular garment";
+var mnemonic = "find fruit glory country original duck protect custom canal first harsh soul";

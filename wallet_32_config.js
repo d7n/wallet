@@ -1,1 +1,1 @@
-var mnemonic = "clog crash dutch sense club local hill mixed forward divert super equal";
+var mnemonic = "burger nurse sauce dynamic review total winter frost strategy stage asset find";

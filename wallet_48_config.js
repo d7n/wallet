@@ -1,1 +1,1 @@
-var mnemonic = "long topic govern strike tomorrow umbrella this net naive royal fury lesson";
+var mnemonic = "stage clip valve shoulder chunk guilt glow couch disagree erode that trade";

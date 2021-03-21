@@ -1,1 +1,1 @@
-var mnemonic = "post nominee shuffle estate blade destroy airport october present devote mystery design";
+var mnemonic = "fringe cabbage edge side paper basic erosion truck muscle artwork evidence rice";

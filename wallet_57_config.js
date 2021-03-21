@@ -1,1 +1,1 @@
-var mnemonic = "thumb flock sun fence core length govern result tuna paddle subject sense";
+var mnemonic = "physical slush portion above whip payment admit rotate gesture panther near side";

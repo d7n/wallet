@@ -1,1 +1,1 @@
-var mnemonic = "decade jaguar hard balcony orchard tourist park limb enable trial enough monster";
+var mnemonic = "wise home average pact consider cargo steak buffalo address tourist carbon exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "chief during call vast wedding ancient olive decide cradle erosion keen sponsor";
+var mnemonic = "lens north poem rally impose banana bless blossom train pipe dawn fall";

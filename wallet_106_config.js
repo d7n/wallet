@@ -1,1 +1,1 @@
-var mnemonic = "then basket where daughter office crazy earn harsh often twist crew hotel";
+var mnemonic = "skirt kit tube festival list group recipe shiver exit regret stable all";

@@ -1,1 +1,1 @@
-var mnemonic = "sword sand result repeat all bullet eager pupil system rely notice one";
+var mnemonic = "caution female joy victory child sock harbor daring stable october walnut sniff";

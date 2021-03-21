@@ -1,1 +1,1 @@
-var mnemonic = "poverty limit fox lizard fault crop knife struggle depart sail giant permit";
+var mnemonic = "skill sniff turkey suit gloom world govern air brass chunk lobster garbage";

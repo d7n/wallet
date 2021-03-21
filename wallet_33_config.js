@@ -1,1 +1,1 @@
-var mnemonic = "cycle vapor warfare stand armed grass kiwi retire pilot school knife number";
+var mnemonic = "sauce pen immense detect clump wait hungry sugar hip summer lucky wheat";

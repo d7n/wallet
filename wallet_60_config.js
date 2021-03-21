@@ -1,1 +1,1 @@
-var mnemonic = "onion elite quote comic blue edge favorite fresh remind fly script faith";
+var mnemonic = "umbrella refuse rebel town solution lesson resemble kangaroo asset globe bean dragon";

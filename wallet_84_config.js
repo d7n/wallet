@@ -1,1 +1,1 @@
-var mnemonic = "spy indoor erase spin float menu alarm army fitness lava modify magic";
+var mnemonic = "maximum autumn copper address bone stove length glad vehicle conduct wine bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle chief need output shield image shy flash noise punch wet develop";
+var mnemonic = "once sport mobile cost upset hungry allow lumber rate melody melt dash";

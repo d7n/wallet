@@ -1,1 +1,1 @@
-var mnemonic = "job rigid fade level praise agree flavor weekend giggle theory garlic argue";
+var mnemonic = "tiny shop still enroll lazy mobile autumn route foam accident street sun";

@@ -1,1 +1,1 @@
-var mnemonic = "myth meadow enroll aisle screen ignore comic roast gallery snow behind caution";
+var mnemonic = "toilet explain state outer coin cheese pipe output laundry pink uncle sibling";

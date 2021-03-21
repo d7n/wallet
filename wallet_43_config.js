@@ -1,1 +1,1 @@
-var mnemonic = "city level ugly patient recycle end recycle hill demise detail unable source";
+var mnemonic = "milk tide sugar burger surge cupboard nasty spatial return defense spell frozen";

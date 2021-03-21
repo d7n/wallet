@@ -1,1 +1,1 @@
-var mnemonic = "buzz kidney forward fat primary retreat shrimp plug shock hidden endorse sea";
+var mnemonic = "monkey mistake van blouse picnic tragic cream either fitness media gaze bag";

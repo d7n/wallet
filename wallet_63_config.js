@@ -1,1 +1,1 @@
-var mnemonic = "mail vintage suspect voice welcome try reform vicious cereal tragic swarm flower";
+var mnemonic = "win evolve oven auto usage end image innocent abuse famous utility satoshi";

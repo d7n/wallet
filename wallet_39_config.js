@@ -1,1 +1,1 @@
-var mnemonic = "radar melody coral cousin half impose olympic again drill spice sphere ship";
+var mnemonic = "much spring dash vintage income empty echo economy hollow cost wing paper";

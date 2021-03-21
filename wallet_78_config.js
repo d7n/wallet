@@ -1,1 +1,1 @@
-var mnemonic = "gold rather enact saddle slam pizza gasp bone party predict cluster upset";
+var mnemonic = "stumble cradle large will scatter lake involve wolf decade note rally owner";

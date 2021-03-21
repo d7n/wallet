@@ -1,1 +1,1 @@
-var mnemonic = "crucial series pitch gospel involve caution scout grid either tonight stock kite";
+var mnemonic = "secret agent grief orange coral dust glimpse swear pretty void domain middle";

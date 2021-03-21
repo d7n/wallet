@@ -1,1 +1,1 @@
-var mnemonic = "junk stove struggle pupil execute disagree advance orbit antenna skull afford risk";
+var mnemonic = "pill creek stuff glory return bench hurt pole mushroom security shield balance";

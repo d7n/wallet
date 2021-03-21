@@ -1,1 +1,1 @@
-var mnemonic = "tuition upset various hurdle copy win home cross average crash muffin client";
+var mnemonic = "resource couple rookie easily viable belt giggle moon rich example often hunt";

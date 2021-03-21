@@ -1,1 +1,1 @@
-var mnemonic = "piano assist advice fish jar also alpha machine opinion peasant rug labor";
+var mnemonic = "bar attend bitter artist coffee owner broken illness retreat dismiss census curious";

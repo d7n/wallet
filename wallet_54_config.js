@@ -1,1 +1,1 @@
-var mnemonic = "ripple scrap stomach culture fury junk onion unable mixture circle relief control";
+var mnemonic = "sea earn copy receive damp distance online arrest expire glimpse pole derive";

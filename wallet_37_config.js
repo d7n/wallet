@@ -1,1 +1,1 @@
-var mnemonic = "uncover lunch plunge lake clutch virus claw horn pupil original broccoli inhale";
+var mnemonic = "bag vital room table laugh consider ripple target inside palm relax father";

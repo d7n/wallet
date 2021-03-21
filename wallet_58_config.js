@@ -1,1 +1,1 @@
-var mnemonic = "damage bounce normal milk mansion artwork season bid fat journey beef soda";
+var mnemonic = "melt inside knock patrol fabric peace garment direct airport eight obscure flight";

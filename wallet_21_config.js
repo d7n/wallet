@@ -1,1 +1,1 @@
-var mnemonic = "audit soft label occur universe chat company true skirt swift source brick";
+var mnemonic = "fish evil nation ramp lobster divide undo sea injury bike major valley";

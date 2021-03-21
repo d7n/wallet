@@ -1,1 +1,1 @@
-var mnemonic = "response marble embark wing mixture cage step coin genuine already normal menu";
+var mnemonic = "hamster luggage plug pottery ability miss number witness bone end alcohol comic";

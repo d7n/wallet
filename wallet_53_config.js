@@ -1,1 +1,1 @@
-var mnemonic = "alpha artefact flush scale struggle sugar vehicle deputy usual drift win cotton";
+var mnemonic = "weird tent inquiry excite music pattern mention city laundry average wool unique";

@@ -1,1 +1,1 @@
-var mnemonic = "inner leader mansion warrior flavor game horror make merge tomorrow sheriff mean";
+var mnemonic = "cluster stumble romance gentle multiply ensure expect session confirm actual knock tomato";

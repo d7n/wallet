@@ -1,1 +1,1 @@
-var mnemonic = "local hover note leopard smooth arctic able tube amount chimney club obscure";
+var mnemonic = "blind steak suggest input clog pulp lonely enforce dawn lock seven minimum";

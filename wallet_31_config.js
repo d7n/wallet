@@ -1,1 +1,1 @@
-var mnemonic = "kingdom base speed shock step spray renew shrug dust silly balance neglect";
+var mnemonic = "fame squirrel tail adult capable village remain train mother level silent slight";

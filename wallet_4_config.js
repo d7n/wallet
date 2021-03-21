@@ -1,1 +1,1 @@
-var mnemonic = "pull island priority fever kiss absurd balcony bench average case minute guitar";
+var mnemonic = "dune notable salad link remove state puppy fade raven ramp subway victory";

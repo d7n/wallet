@@ -1,1 +1,1 @@
-var mnemonic = "exhaust soft oven camp stove indicate ethics shove need room quality gossip";
+var mnemonic = "unknown man much predict slot common deliver mimic soul nation sting main";

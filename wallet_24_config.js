@@ -1,1 +1,1 @@
-var mnemonic = "aunt devote stable duck forward winner cover anxiety rival wagon doll leave";
+var mnemonic = "inquiry neither bargain usual wrap civil cheap scan tip dolphin grief valve";

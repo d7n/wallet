@@ -1,1 +1,1 @@
-var mnemonic = "toddler talent recycle enforce spoil injury joke barrel wedding parrot unknown gospel";
+var mnemonic = "slow churn scrub jewel reform spare alarm inspire elder jar ready pass";

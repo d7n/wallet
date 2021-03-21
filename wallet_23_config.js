@@ -1,1 +1,1 @@
-var mnemonic = "fee give vintage illegal layer life virtual name tenant buddy couch wife";
+var mnemonic = "couple bamboo clean ability spread seminar obscure night clever save hunt rather";

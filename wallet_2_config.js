@@ -1,1 +1,1 @@
-var mnemonic = "lemon annual merit base rug used insane end wage much more hotel";
+var mnemonic = "summer sheriff vast clump lazy vanish false verb furnace flat despair lens";

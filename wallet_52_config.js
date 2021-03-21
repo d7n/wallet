@@ -1,1 +1,1 @@
-var mnemonic = "pulse immense ankle hurt hero chair reduce speed version actress ball tribe";
+var mnemonic = "sponsor rabbit famous praise puppy jungle fork kingdom frog duty dog much";

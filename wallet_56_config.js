@@ -1,1 +1,1 @@
-var mnemonic = "owner crystal often someone whale later pulse gate wreck used wagon number";
+var mnemonic = "intact water thrive immune first settle team tomorrow maid heavy spike pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "amused prize point index topple width era submit stem police maid decade";
+var mnemonic = "rose spatial dish casual impact syrup stock exercise night toe critic certain";

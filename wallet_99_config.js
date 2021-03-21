@@ -1,1 +1,1 @@
-var mnemonic = "regret repair sausage ticket position hope ginger wash when tennis pistol exit";
+var mnemonic = "school language ready domain tool indicate rebuild asthma era nice audit ride";

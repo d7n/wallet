@@ -1,1 +1,1 @@
-var mnemonic = "confirm patient quote naive correct kitchen armed slam afraid tool regular proud";
+var mnemonic = "bamboo recall rural floor double paddle radar maze hand gloom twice stay";

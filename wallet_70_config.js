@@ -1,1 +1,1 @@
-var mnemonic = "permit armor maze wise hope home color worth dolphin remain name cigar";
+var mnemonic = "floor indicate true oak winter put actress frost price foster clarify auction";

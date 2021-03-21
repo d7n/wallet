@@ -1,1 +1,1 @@
-var mnemonic = "suspect swing maximum defy core glance guide month essence define sense parent";
+var mnemonic = "vault decline eight endless clog unknown plug marriage vast cargo street fit";

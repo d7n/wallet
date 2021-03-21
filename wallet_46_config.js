@@ -1,1 +1,1 @@
-var mnemonic = "spatial front liquid promote glare element true false inmate mail quick analyst";
+var mnemonic = "key cargo pet cheese embark hollow suffer pyramid acid junior mystery romance";

@@ -1,1 +1,1 @@
-var mnemonic = "seek rule whale current company hero region dinosaur burden empower doll tank";
+var mnemonic = "brisk ignore helmet bounce rain veteran tilt oval catalog similar lunch peace";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb satoshi notice extend start fall toilet feed slow sail polar market";
+var mnemonic = "chief drum raw slight lava second artwork clay burden rib canvas dinner";

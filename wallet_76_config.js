@@ -1,1 +1,1 @@
-var mnemonic = "estate text seek caught fatigue ranch area grow token happy fade boost";
+var mnemonic = "total control fitness predict express bar crop sketch faculty wine kiwi possible";

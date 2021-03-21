@@ -1,1 +1,1 @@
-var mnemonic = "common point blast artist response celery awkward improve candy day dentist caution";
+var mnemonic = "property aim virus basket pudding easily identify pause rapid roast century neither";

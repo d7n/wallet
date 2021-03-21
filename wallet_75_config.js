@@ -1,1 +1,1 @@
-var mnemonic = "smooth armor pulse permit magnet image equip loyal stereo fiction security brick";
+var mnemonic = "outside theory current idle observe major describe napkin copper media hero public";

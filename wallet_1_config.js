@@ -1,1 +1,1 @@
-var mnemonic = "vital drill tag snap mirror want acid pigeon excuse daring script pen";
+var mnemonic = "symptom hospital year hamster hood banana any view audit meat unknown grape";

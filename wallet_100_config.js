@@ -1,1 +1,1 @@
-var mnemonic = "credit voice make prefer drill drip about visit victory symbol all lady";
+var mnemonic = "fantasy unknown eye canvas issue small tennis people answer monster heavy hole";

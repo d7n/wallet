@@ -1,1 +1,1 @@
-var mnemonic = "check language belt slight connect dentist solution dilemma burger modify state punch";
+var mnemonic = "frog middle dragon build wing clay urban school boost trade cushion receive";

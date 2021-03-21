@@ -1,1 +1,1 @@
-var mnemonic = "keep collect impose group region diary spread collect heavy repeat floor love";
+var mnemonic = "ketchup potato mention wave ribbon actress brass once oak rigid shed avoid";

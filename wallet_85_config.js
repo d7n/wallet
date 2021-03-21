@@ -1,1 +1,1 @@
-var mnemonic = "seed fiber voyage rescue this rail regular salute inflict report talent scatter";
+var mnemonic = "hint birth basket awake food decline hold blanket suffer slow rotate donate";

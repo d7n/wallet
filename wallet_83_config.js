@@ -1,1 +1,1 @@
-var mnemonic = "beach often leader story battle imitate robust online orange beauty annual lion";
+var mnemonic = "fit agent hood grief warrior stock season matter asthma fade trumpet remember";

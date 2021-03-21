@@ -1,1 +1,1 @@
-var mnemonic = "drum bind caution tray million project mother use purse green warm burger";
+var mnemonic = "pride brief tone security allow pepper loyal box doctor category begin moon";

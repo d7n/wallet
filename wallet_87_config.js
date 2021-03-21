@@ -1,1 +1,1 @@
-var mnemonic = "fatal dice able fiction party regret fluid peanut approve field bacon close";
+var mnemonic = "law sleep increase civil buffalo pink weather trophy emotion amazing candy marble";

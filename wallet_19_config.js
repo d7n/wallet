@@ -1,1 +1,1 @@
-var mnemonic = "pudding oval three special carpet excuse alley security ivory sorry empty novel";
+var mnemonic = "label evoke resist rare federal funny year door buddy result host detect";

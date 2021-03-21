@@ -1,1 +1,1 @@
-var mnemonic = "item soap patch praise pass price firm plate bargain example prevent cloud";
+var mnemonic = "end inner canoe essence mad rich miracle motor seek crunch trend skull";

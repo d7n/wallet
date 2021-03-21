@@ -1,1 +1,1 @@
-var mnemonic = "remove tomorrow solve success tired wife isolate little client spawn afford yard";
+var mnemonic = "debris learn budget bring matrix yard eagle timber amount layer toy stomach";

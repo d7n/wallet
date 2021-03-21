@@ -1,1 +1,1 @@
-var mnemonic = "inhale dash goat pole picture laundry uncover bullet unable pudding caution ski";
+var mnemonic = "tumble october pizza able stand voice menu diet crumble describe view total";

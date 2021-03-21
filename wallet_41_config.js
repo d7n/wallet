@@ -1,1 +1,1 @@
-var mnemonic = "tennis joke link solution estate harvest glue announce evolve swing enlist reason";
+var mnemonic = "festival welcome omit awful document paper cool coast minimum antenna refuse gadget";

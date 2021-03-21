@@ -1,1 +1,1 @@
-var mnemonic = "lizard learn lonely insect monster aim make output waste elegant mom hunt";
+var mnemonic = "calm all hole slight license satoshi castle relief anchor luggage filter undo";

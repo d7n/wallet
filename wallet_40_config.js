@@ -1,1 +1,1 @@
-var mnemonic = "wash merit write grant post emotion cry panel evoke embark ball indoor";
+var mnemonic = "loyal home sign image cattle raise produce scissors escape body remember joy";

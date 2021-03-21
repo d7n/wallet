@@ -1,1 +1,1 @@
-var mnemonic = "transfer goat peanut spoil trip grit arena proof paddle mule need dust";
+var mnemonic = "gentle calm tuna pizza inmate age armed giggle develop torch garment agent";

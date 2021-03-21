@@ -1,1 +1,1 @@
-var mnemonic = "remove small race orbit odor sure urban mystery man ivory access merge";
+var mnemonic = "love raise time life blossom wool build crouch local thumb focus they";

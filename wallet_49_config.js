@@ -1,1 +1,1 @@
-var mnemonic = "memory riot day scene best crucial wine excess tuna weather license explain";
+var mnemonic = "bitter whisper angle net oil sweet bid protect van piano lesson awkward";

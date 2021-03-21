@@ -1,1 +1,1 @@
-var mnemonic = "wire icon dose mind solve dust leave raw engine jewel hill below";
+var mnemonic = "ring window demand trick stage mention year clever spoon knock rather patrol";

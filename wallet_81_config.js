@@ -1,1 +1,1 @@
-var mnemonic = "desert execute salon hotel arrive link update erode eagle chase grain fabric";
+var mnemonic = "express clog athlete goose reunion spice nothing usual tenant bag cinnamon fall";

@@ -1,1 +1,1 @@
-var mnemonic = "kit glue skill copy adult lock trip average until race lizard reopen";
+var mnemonic = "shuffle destroy heavy wheat special destroy welcome onion early accident mansion crowd";
