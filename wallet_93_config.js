@@ -1,1 +1,1 @@
-var mnemonic = "misery clip tenant feel wonder cry athlete until decide laundry truck shock";
+var mnemonic = "leopard popular sister replace drift bar scatter scorpion drip code crunch moment";

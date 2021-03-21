@@ -1,1 +1,1 @@
-var mnemonic = "round sadness immense token dress hazard reunion outdoor truth wonder office pelican";
+var mnemonic = "confirm charge owner solution climb emotion decorate february insect citizen edit cousin";

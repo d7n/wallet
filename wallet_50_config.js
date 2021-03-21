@@ -1,1 +1,1 @@
-var mnemonic = "text review medal husband runway dizzy brave square feel double obey lesson";
+var mnemonic = "hybrid boost language action desk barely awake gown lonely evil clarify family";

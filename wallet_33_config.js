@@ -1,1 +1,1 @@
-var mnemonic = "collect legal answer mystery job hobby concert foam wait walnut code pear";
+var mnemonic = "entire evil country detect dad sure economy plunge also lunar priority bamboo";

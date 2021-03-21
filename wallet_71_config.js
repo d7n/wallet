@@ -1,1 +1,1 @@
-var mnemonic = "pill summer mushroom place poverty rookie sudden record nose because ripple lobster";
+var mnemonic = "lawsuit hip bright horn thrive flat need neutral cinnamon scheme close lend";

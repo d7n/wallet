@@ -1,1 +1,1 @@
-var mnemonic = "person legal novel abuse october sauce force shield forum decorate limit lecture";
+var mnemonic = "canal cradle float account cram circle method wolf tell narrow index bronze";

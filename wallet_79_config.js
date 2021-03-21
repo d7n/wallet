@@ -1,1 +1,1 @@
-var mnemonic = "verify glimpse market attend devote blood eight castle gold school canoe wrong";
+var mnemonic = "bird twist mean snow mechanic treat green script sand amateur mutual load";

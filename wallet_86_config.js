@@ -1,1 +1,1 @@
-var mnemonic = "file soccer kiwi reform law six crucial maple venture jewel case away";
+var mnemonic = "satisfy unfair grunt attitude remind screen rule boss punch index picnic cargo";

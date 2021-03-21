@@ -1,1 +1,1 @@
-var mnemonic = "master diamond small good own cheap time stand accident floor area salute";
+var mnemonic = "second whip spell strategy visual kind script use stuff slender royal hat";

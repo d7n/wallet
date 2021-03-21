@@ -1,1 +1,1 @@
-var mnemonic = "coyote recipe excess remind casino cross leaf style unknown bullet proof cage";
+var mnemonic = "faint prison bullet ceiling drum number scare unfair problem year birth cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "join entry angle congress mean ill occur resource arch loud fiber club";
+var mnemonic = "clay sadness car agent athlete still tuition cat reward now onion option";

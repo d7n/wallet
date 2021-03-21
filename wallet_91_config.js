@@ -1,1 +1,1 @@
-var mnemonic = "false hour require into job slam start ranch admit senior business autumn";
+var mnemonic = "idle index address claim grow transfer expose almost tilt tattoo accident flock";

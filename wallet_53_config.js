@@ -1,1 +1,1 @@
-var mnemonic = "purchase nature badge change glow pottery gold spring minimum depend there beef";
+var mnemonic = "bicycle smile path dress nest pen miracle truth very few rose bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus saddle genius inspire lamp hockey impulse owner salon unusual kingdom ski";
+var mnemonic = "come enter rude mechanic senior coil magnet deputy loyal pistol armor demise";

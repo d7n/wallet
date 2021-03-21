@@ -1,1 +1,1 @@
-var mnemonic = "tired video egg travel immune wolf census couple retreat general awful margin";
+var mnemonic = "circle shrimp drill burger motor loud reopen upgrade original account damage divert";

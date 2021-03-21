@@ -1,1 +1,1 @@
-var mnemonic = "maze churn tree science supply lonely noble hood nerve portion member sketch";
+var mnemonic = "lab cement capable order modify illegal flip mixed wedding salmon hedgehog athlete";

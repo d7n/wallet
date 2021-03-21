@@ -1,1 +1,1 @@
-var mnemonic = "memory jungle almost cement blade torch mention sign increase better tape labor";
+var mnemonic = "erode current fiber taxi alcohol electric december speak wait tone focus cluster";

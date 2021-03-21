@@ -1,1 +1,1 @@
-var mnemonic = "cool pizza hub unfair huge blouse frozen month shoulder foster reflect tower";
+var mnemonic = "direct beauty train program pig deputy better mention noise again soup acquire";

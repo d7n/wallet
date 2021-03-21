@@ -1,1 +1,1 @@
-var mnemonic = "day negative grow fire trim catch success short gallery undo whale normal";
+var mnemonic = "hollow slab example early okay swamp guess eyebrow imitate boost toe radio";

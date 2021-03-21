@@ -1,1 +1,1 @@
-var mnemonic = "have switch predict hunt moral ahead bubble cloth trick torch garden cage";
+var mnemonic = "razor orbit fish link ceiling aunt engage table repair divert behind smoke";

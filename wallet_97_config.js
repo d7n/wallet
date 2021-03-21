@@ -1,1 +1,1 @@
-var mnemonic = "truth mansion eyebrow misery range feature naive exotic mixture below admit rain";
+var mnemonic = "mask feature arch horse also more attitude awkward what spin day drink";

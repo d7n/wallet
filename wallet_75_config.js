@@ -1,1 +1,1 @@
-var mnemonic = "daughter cost endless pistol drill true until satoshi version approve mutual lock";
+var mnemonic = "glow laugh swamp hockey ordinary audit ivory tilt nerve ketchup great outside";

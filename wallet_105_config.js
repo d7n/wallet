@@ -1,1 +1,1 @@
-var mnemonic = "below funny reunion toe lesson traffic neck forward stamp deny devote limb";
+var mnemonic = "number domain stable clinic snake industry case stadium voyage picnic leisure random";

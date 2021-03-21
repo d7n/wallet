@@ -1,1 +1,1 @@
-var mnemonic = "genius day lemon dirt disorder run people snow pig juice real debate";
+var mnemonic = "obscure salmon match model book giraffe stereo bounce concert never shed gain";

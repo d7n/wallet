@@ -1,1 +1,1 @@
-var mnemonic = "sail pull congress mom before other chef business employ pair choice thought";
+var mnemonic = "local fuel cost mango vault shoe illegal vendor flee bring comic episode";

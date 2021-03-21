@@ -1,1 +1,1 @@
-var mnemonic = "hint feed unknown warfare away brain rally debate quit include fitness aspect";
+var mnemonic = "fan energy flush fancy energy maximum phone image system wall baby material";

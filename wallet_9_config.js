@@ -1,1 +1,1 @@
-var mnemonic = "essence shiver guilt organ that whip nasty damp since concert uncle skirt";
+var mnemonic = "thank forest intact people black text chest split true stool left cactus";

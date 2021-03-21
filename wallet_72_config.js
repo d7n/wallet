@@ -1,1 +1,1 @@
-var mnemonic = "salad liar holiday among room human box confirm there conduct put neutral";
+var mnemonic = "curious poet oil enjoy hand chat struggle icon target amount pet canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow tourist disorder push equip true rotate ivory kidney crack lemon drive";
+var mnemonic = "anger main urban sample able buffalo satoshi result intact bulb citizen fox";

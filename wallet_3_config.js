@@ -1,1 +1,1 @@
-var mnemonic = "fit forest slow jeans sign choose found write bamboo pretty calm music";
+var mnemonic = "subject very meat casual story reflect mansion actress beyond enhance ginger sorry";

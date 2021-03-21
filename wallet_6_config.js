@@ -1,1 +1,1 @@
-var mnemonic = "brush oxygen cotton state absorb bid crumble hold swear together lawsuit unknown";
+var mnemonic = "unaware visual page misery local flip giraffe march silent equal cement silly";

@@ -1,1 +1,1 @@
-var mnemonic = "expect season reward cradle party voice area miracle hammer scheme inspire puppy";
+var mnemonic = "solid slide month civil end horn cover apple spike execute math topple";

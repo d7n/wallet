@@ -1,1 +1,1 @@
-var mnemonic = "appear earn oxygen chair cash mammal alone what speak rally broccoli melt";
+var mnemonic = "drill uniform small cargo monster loud member pigeon label nice casual crash";

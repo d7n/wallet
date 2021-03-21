@@ -1,1 +1,1 @@
-var mnemonic = "issue nurse lecture sing arrive case diamond smile galaxy dash quick flame";
+var mnemonic = "borrow near deposit distance spare mass connect math ceiling hollow alone relief";

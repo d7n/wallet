@@ -1,1 +1,1 @@
-var mnemonic = "coil laptop avoid edge dawn educate vacant green neutral captain gorilla dance";
+var mnemonic = "ecology dune dizzy find indicate kitten east security under aware improve divorce";

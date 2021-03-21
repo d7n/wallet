@@ -1,1 +1,1 @@
-var mnemonic = "february holiday until rose post embark debris want manual biology maximum tree";
+var mnemonic = "limb bean stage license couple master involve burger invite boring deputy trick";

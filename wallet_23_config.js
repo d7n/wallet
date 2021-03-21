@@ -1,1 +1,1 @@
-var mnemonic = "pet amateur armed brown coral maple upper million category silver turn clip";
+var mnemonic = "cruel service robot awful enable jelly treat present rotate afraid fold illness";

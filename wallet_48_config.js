@@ -1,1 +1,1 @@
-var mnemonic = "hybrid same actress famous sphere before super output dream satoshi sunset wide";
+var mnemonic = "voyage impose issue such burger phrase dress tunnel orient catch member mutual";

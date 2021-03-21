@@ -1,1 +1,1 @@
-var mnemonic = "child logic dawn loyal sail there donate whisper high sing maid exercise";
+var mnemonic = "cannon derive key tape blade throw evidence humor link frame make engage";

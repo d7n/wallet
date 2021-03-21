@@ -1,1 +1,1 @@
-var mnemonic = "harbor bonus poet decade gossip average tree quality prevent airport army absurd";
+var mnemonic = "lock mistake stairs erupt pizza cause scale talk attack zoo local tissue";

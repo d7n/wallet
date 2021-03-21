@@ -1,1 +1,1 @@
-var mnemonic = "tree arrive virtual eager once grass urge around firm gaze air shrug";
+var mnemonic = "prefer able agent tribe trophy liar affair ranch rescue improve web wisdom";

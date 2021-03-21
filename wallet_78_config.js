@@ -1,1 +1,1 @@
-var mnemonic = "pear cruel ugly cattle concert glory blossom pistol salad view daring once";
+var mnemonic = "million again olive prefer tourist frequent among diamond unit worry fly save";

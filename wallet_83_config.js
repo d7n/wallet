@@ -1,1 +1,1 @@
-var mnemonic = "drive flame obtain can broom regret jungle real child science walnut brush";
+var mnemonic = "wet cute increase clerk usage paper wrong coin list tool burst wheel";

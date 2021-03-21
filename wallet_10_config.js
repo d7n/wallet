@@ -1,1 +1,1 @@
-var mnemonic = "play egg scare clever kangaroo exhaust immune scatter blouse chicken car swear";
+var mnemonic = "federal outside refuse coffee hello extend city certain elegant cabbage ginger law";

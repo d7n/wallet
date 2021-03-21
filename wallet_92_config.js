@@ -1,1 +1,1 @@
-var mnemonic = "step fault mercy impose gather crisp cry treat buzz typical trust proud";
+var mnemonic = "give broom parrot digital isolate aunt portion beef dream source inmate radio";

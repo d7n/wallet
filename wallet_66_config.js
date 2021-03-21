@@ -1,1 +1,1 @@
-var mnemonic = "little render tail leg latin coast accuse legend sibling rocket pride napkin";
+var mnemonic = "barely cricket promote piece balance media mobile ready stem coffee that gate";

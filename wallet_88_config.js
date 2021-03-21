@@ -1,1 +1,1 @@
-var mnemonic = "blush garlic demise athlete laptop slot they minor lecture biology eye magnet";
+var mnemonic = "skirt teach sting public crash permit veteran trial shock barrel labor waste";

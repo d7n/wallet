@@ -1,1 +1,1 @@
-var mnemonic = "tragic drum reopen liberty jelly plunge pen smart year street intact elevator";
+var mnemonic = "utility kit error bread cloud exotic forest injury bench bleak wreck fit";

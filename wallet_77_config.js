@@ -1,1 +1,1 @@
-var mnemonic = "discover tower near pizza please memory web private keep thank kick tumble";
+var mnemonic = "grab meadow panda avoid lesson flat cousin youth shiver remember must same";

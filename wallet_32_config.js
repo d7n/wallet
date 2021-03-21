@@ -1,1 +1,1 @@
-var mnemonic = "boil glow another praise dad segment tourist claw else furnace buddy gravity";
+var mnemonic = "ride dignity trim huge hedgehog chicken web enemy hamster arrive empower intact";

@@ -1,1 +1,1 @@
-var mnemonic = "copy shallow skirt lunch pudding amateur vehicle roof caught figure faith buffalo";
+var mnemonic = "stamp art mirror often exotic install arch robust dawn cable one royal";

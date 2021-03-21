@@ -1,1 +1,1 @@
-var mnemonic = "roof sweet link tell now pledge engage fatal rare hood rib token";
+var mnemonic = "elder cricket huge envelope betray demand leader dawn cactus scale gold filter";

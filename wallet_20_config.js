@@ -1,1 +1,1 @@
-var mnemonic = "mirror increase mechanic nothing crack flame sorry twelve correct damage fault fruit";
+var mnemonic = "fetch you album voyage neck giant this exhibit dress point captain absurd";

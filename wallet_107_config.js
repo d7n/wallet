@@ -1,1 +1,1 @@
-var mnemonic = "order group bag marriage arctic reopen drastic venue screen rather equal educate";
+var mnemonic = "social broom desk thing wrap atom final wolf true earth gap lunch";

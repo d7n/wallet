@@ -1,1 +1,1 @@
-var mnemonic = "caution plunge undo sight flame amount size invite hair month near daughter";
+var mnemonic = "second whip ordinary ketchup jump habit useless slight dwarf tonight man now";

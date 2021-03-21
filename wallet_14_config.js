@@ -1,1 +1,1 @@
-var mnemonic = "swamp nature tonight remain business own echo worry crush soldier just ask";
+var mnemonic = "travel gauge step wool hint inspire undo fiscal diamond excess spirit host";

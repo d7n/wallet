@@ -1,1 +1,1 @@
-var mnemonic = "define romance dove leave wing rubber work major item energy arena chronic";
+var mnemonic = "bright little kid void aunt bright aerobic labor april screen crack again";

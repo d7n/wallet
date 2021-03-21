@@ -1,1 +1,1 @@
-var mnemonic = "ticket member wolf bullet plastic citizen scissors give latin fault era smart";
+var mnemonic = "razor humble wrap salute token subject absent reflect remain match smoke inquiry";

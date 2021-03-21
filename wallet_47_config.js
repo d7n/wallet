@@ -1,1 +1,1 @@
-var mnemonic = "kind toilet funny hammer fashion fantasy culture task acid palace orbit play";
+var mnemonic = "hip tonight country middle glad suffer fiber zoo add lucky host index";

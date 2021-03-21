@@ -1,1 +1,1 @@
-var mnemonic = "tell supply flower upon badge adjust chronic ensure must galaxy awkward much";
+var mnemonic = "boil lock evil cloud hub cruise basic shiver practice taste relax solid";

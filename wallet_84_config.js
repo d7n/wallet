@@ -1,1 +1,1 @@
-var mnemonic = "ankle type quote blame mirror song ordinary orient metal crunch kingdom build";
+var mnemonic = "emerge glory video tilt fox rely elephant blossom park speed candy acoustic";

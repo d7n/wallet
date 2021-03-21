@@ -1,1 +1,1 @@
-var mnemonic = "gallery cradle tube wood oxygen opera ethics ticket foam iron churn hollow";
+var mnemonic = "security emotion kick fall advance casino joke icon elite fragile apology elder";

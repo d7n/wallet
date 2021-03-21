@@ -1,1 +1,1 @@
-var mnemonic = "moon gloom paddle crawl alarm cliff nuclear east charge field seed alpha";
+var mnemonic = "twist record barely file pill wage evidence taste assist filter wild viable";

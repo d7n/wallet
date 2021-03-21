@@ -1,1 +1,1 @@
-var mnemonic = "injury hand flush glory sort mandate brick danger apology wheel address divorce";
+var mnemonic = "junior fence song because short trigger grocery pepper slogan glide member spice";

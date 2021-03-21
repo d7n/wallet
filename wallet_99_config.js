@@ -1,1 +1,1 @@
-var mnemonic = "swear squeeze girl gown helmet maple alert basic shield correct demise envelope";
+var mnemonic = "awkward ladder crystal end virtual busy brass noodle feature when brain glory";

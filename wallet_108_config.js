@@ -1,1 +1,1 @@
-var mnemonic = "tackle smart process wink flash jaguar poet test bronze business render myself";
+var mnemonic = "barrel athlete clarify caution review twist chicken flip cloud escape power dismiss";

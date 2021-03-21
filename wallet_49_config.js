@@ -1,1 +1,1 @@
-var mnemonic = "prosper whale rather mention sample defy fluid fault task rose bubble cover";
+var mnemonic = "author divert soldier give fix disorder fly dress arm insect cement pact";

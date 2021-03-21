@@ -1,1 +1,1 @@
-var mnemonic = "present seat science merge fence forest math one gym image add pilot";
+var mnemonic = "will damage ensure stick sponsor open truly gym end modify bulb amount";

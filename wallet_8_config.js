@@ -1,1 +1,1 @@
-var mnemonic = "shine sunset pulse wood deliver annual lift author away lazy edit mesh";
+var mnemonic = "defense camp jump text whale inhale early film practice goddess silly soccer";

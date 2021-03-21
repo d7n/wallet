@@ -1,1 +1,1 @@
-var mnemonic = "divert front injury hazard gauge muffin early camera human drama joy crane";
+var mnemonic = "pretty interest obtain hurry symbol insane scatter crash gallery direct cactus stage";

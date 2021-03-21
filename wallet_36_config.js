@@ -1,1 +1,1 @@
-var mnemonic = "host office capable zero half anchor road century hundred arrow forest wrong";
+var mnemonic = "win oven rain quiz either squeeze salmon guide spike run decorate pattern";

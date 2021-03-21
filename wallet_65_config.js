@@ -1,1 +1,1 @@
-var mnemonic = "verb rapid about because critic envelope divorce praise wide pattern ranch cost";
+var mnemonic = "laptop medal dinosaur shy actress bulk same soccer wait addict together hen";

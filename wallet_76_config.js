@@ -1,1 +1,1 @@
-var mnemonic = "pass fat sting mom believe casual relax salute absent remove vast apart";
+var mnemonic = "witness exit dirt tumble exact salad shadow shine case sign sniff assist";

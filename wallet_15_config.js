@@ -1,1 +1,1 @@
-var mnemonic = "surge often motion asset room build zero bar jeans name recall random";
+var mnemonic = "foot gloom tank three blood theory voice raccoon fringe august beach success";

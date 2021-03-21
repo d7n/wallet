@@ -1,1 +1,1 @@
-var mnemonic = "tone risk mixed now total pelican pig fame base render hint surprise";
+var mnemonic = "carry reunion rice fantasy title first volume noodle winter blouse swift welcome";

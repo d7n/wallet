@@ -1,1 +1,1 @@
-var mnemonic = "used found woman royal stem flame coyote fury recall purity square above";
+var mnemonic = "photo clown evidence trouble detail check govern cry agent exercise laptop reward";

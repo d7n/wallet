@@ -1,1 +1,1 @@
-var mnemonic = "ancient wife blue bird item play myself drive reject team sketch tobacco";
+var mnemonic = "energy clean fade october magnet ramp coin bunker decade enhance hold hurt";

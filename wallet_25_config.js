@@ -1,1 +1,1 @@
-var mnemonic = "artefact iron powder own scale cherry sniff jewel praise swallow case grape";
+var mnemonic = "tortoise atom camp chef blood small defense usage zero dad can prepare";

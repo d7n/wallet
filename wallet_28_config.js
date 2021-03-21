@@ -1,1 +1,1 @@
-var mnemonic = "car method order group category cram error blossom life beyond wolf high";
+var mnemonic = "alien help minor state term increase merry stool sock pole guilt matter";

@@ -1,1 +1,1 @@
-var mnemonic = "december twice wreck attack where nurse royal option noodle tourist way liberty";
+var mnemonic = "law shell volcano glance blossom update lunch flash strike boy moon auto";

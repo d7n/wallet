@@ -1,1 +1,1 @@
-var mnemonic = "annual vapor patch erosion resist phone army medal upgrade video symbol nerve";
+var mnemonic = "when puzzle oppose present erode tooth faculty celery boat zoo limb december";

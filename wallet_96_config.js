@@ -1,1 +1,1 @@
-var mnemonic = "scheme mesh praise ceiling sunset stay argue taxi loyal upon joy duty";
+var mnemonic = "unlock enhance empower hat relax dream reform gloom copper flight athlete squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "already prosper bicycle rapid design fatal garden girl tortoise effort place mouse";
+var mnemonic = "awful business tool kangaroo amazing intact region exist laptop test sense useful";

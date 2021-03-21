@@ -1,1 +1,1 @@
-var mnemonic = "sunny aware miracle imitate engage sun usage joke razor track rotate monitor";
+var mnemonic = "vast sponsor movie observe make hedgehog wall glance syrup upset process aim";

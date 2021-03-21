@@ -1,1 +1,1 @@
-var mnemonic = "drive alter fly confirm crucial blind reunion over slam giant post label";
+var mnemonic = "provide drum finger cool gorilla gather cloth income toss bulk rain absent";

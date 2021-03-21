@@ -1,1 +1,1 @@
-var mnemonic = "stone special venture fee amused long beef vacant range leader stick puzzle";
+var mnemonic = "cause truth parade exist banana whip retire boat demand pioneer spy push";

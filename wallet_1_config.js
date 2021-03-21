@@ -1,1 +1,1 @@
-var mnemonic = "shoe diet slab morning ozone puppy traffic term force shove party acid";
+var mnemonic = "raccoon term dose column mesh judge reveal panda hurdle shield disagree upper";

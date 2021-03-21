@@ -1,1 +1,1 @@
-var mnemonic = "length short funny muffin caution plug assault thought route number immense color";
+var mnemonic = "flight public cabin timber already fun unfold cupboard quick obtain spring stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "shove snake army aim note age job sock pair divorce sort leaf";
+var mnemonic = "stage venue sniff boil annual alarm solid rail fluid skill hedgehog there";

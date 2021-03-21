@@ -1,1 +1,1 @@
-var mnemonic = "lunar gesture major budget ribbon guide goddess engine awkward lady labor mouse";
+var mnemonic = "sad entire area sight athlete raccoon delay flush mercy march base regular";

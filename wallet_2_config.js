@@ -1,1 +1,1 @@
-var mnemonic = "canvas follow document sound labor car cousin air midnight sad hotel quarter";
+var mnemonic = "breeze lift arch action reopen slender airport define gold lumber detect tiger";

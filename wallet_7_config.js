@@ -1,1 +1,1 @@
-var mnemonic = "diamond rural tumble private day valve mercy cook industry upset basket lottery";
+var mnemonic = "eager tiny evolve belt grid phrase remain wise orange urge moral keep";
