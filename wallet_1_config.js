@@ -1,1 +1,1 @@
-var mnemonic = "divorce tragic prevent bus tortoise sight rice puzzle capital dilemma damp observe";
+var mnemonic = "genre slide rib shoulder planet vicious school moral gravity jelly crash camera";

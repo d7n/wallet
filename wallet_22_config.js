@@ -1,1 +1,1 @@
-var mnemonic = "sport celery cherry street finger pact shoe verb tag window rely bus";
+var mnemonic = "home safe birth huge ivory sister spin mixture trend oyster grab easily";

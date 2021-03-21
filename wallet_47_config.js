@@ -1,1 +1,1 @@
-var mnemonic = "report theme rate kitchen guard sponsor bundle ribbon invite tent jacket sick";
+var mnemonic = "sunset festival loan warrior nephew aspect invite cactus young mammal lottery ride";

@@ -1,1 +1,1 @@
-var mnemonic = "crash utility stadium plastic trouble fee broken brain unusual length pass miracle";
+var mnemonic = "describe mixture oval two sense clever episode repair decorate rotate slight today";

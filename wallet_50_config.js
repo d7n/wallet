@@ -1,1 +1,1 @@
-var mnemonic = "high erosion come click main embark diary foot super devote govern lizard";
+var mnemonic = "squeeze detail increase retreat online cousin orange vacant cube boy balcony cost";

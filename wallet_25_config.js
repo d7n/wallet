@@ -1,1 +1,1 @@
-var mnemonic = "scheme priority wrist tennis cry acoustic dinner claw merit immune toast outdoor";
+var mnemonic = "echo funny void idle index echo gas earth legal year lion spice";

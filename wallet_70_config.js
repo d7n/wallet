@@ -1,1 +1,1 @@
-var mnemonic = "fatal couch summer add token cube act joy shiver sell frequent cliff";
+var mnemonic = "sport weasel bomb luxury fruit lonely lamp nominee month little ancient scissors";

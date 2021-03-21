@@ -1,1 +1,1 @@
-var mnemonic = "midnight border enough spider menu feature apart walnut neglect drama category chief";
+var mnemonic = "kite leisure danger figure park planet need note crunch rural surprise elevator";

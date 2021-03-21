@@ -1,1 +1,1 @@
-var mnemonic = "loan unlock illness leopard teach effort conduct fit verb try believe smoke";
+var mnemonic = "village orbit casual flock gentle clay frost child talent now helmet pair";

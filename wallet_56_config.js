@@ -1,1 +1,1 @@
-var mnemonic = "mosquito abstract bubble win treat age ripple grant change buyer piece timber";
+var mnemonic = "hawk sport reunion attract cram peanut choice they hold coil immune stock";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen liar foster series valve plug glance boss bracket click glow make";
+var mnemonic = "collect wink seminar front picnic weekend craft trim merit noble silent ridge";

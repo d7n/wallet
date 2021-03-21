@@ -1,1 +1,1 @@
-var mnemonic = "hero away defy earth balance smoke glow grow relief armed bachelor cushion";
+var mnemonic = "shoe ethics never border cinnamon need field piano insane identify aim feature";

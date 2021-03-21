@@ -1,1 +1,1 @@
-var mnemonic = "leader wage visual reveal project admit garlic almost length lift stereo divorce";
+var mnemonic = "bargain sword crisp furnace fabric exercise select anchor cause attitude photo cargo";

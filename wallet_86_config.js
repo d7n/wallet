@@ -1,1 +1,1 @@
-var mnemonic = "nice abstract cabin maximum west brush crazy goat meat tobacco lawn royal";
+var mnemonic = "slice proud reunion aerobic carbon face upset suspect salute verb spatial film";

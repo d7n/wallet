@@ -1,1 +1,1 @@
-var mnemonic = "velvet grocery labor heart student artefact remove rate actress protect young armor";
+var mnemonic = "evil song scrap obtain accident cradle cup salmon fluid seat border sound";

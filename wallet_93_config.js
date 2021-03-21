@@ -1,1 +1,1 @@
-var mnemonic = "subway tunnel rubber rural congress album stay amazing crew axis forward talk";
+var mnemonic = "position sword core hour taste nerve possible glue light surface damage corn";

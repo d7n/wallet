@@ -1,1 +1,1 @@
-var mnemonic = "minimum rose ecology switch trip canvas stand chalk stock field girl jar";
+var mnemonic = "rain hen valley before wide umbrella pride cereal crisp movie genuine river";

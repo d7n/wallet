@@ -1,1 +1,1 @@
-var mnemonic = "opera scrap blossom arctic process coyote among suspect strike vapor bracket manage";
+var mnemonic = "blanket away split effort pretty dust type people alert radio invite hen";

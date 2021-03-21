@@ -1,1 +1,1 @@
-var mnemonic = "spider stomach social cement puzzle network image stem discover taxi casual resemble";
+var mnemonic = "picture census menu weasel awful orient next chuckle ethics ring mutual antique";

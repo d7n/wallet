@@ -1,1 +1,1 @@
-var mnemonic = "orchard lecture render boring inject inherit six bench document cat observe slam";
+var mnemonic = "stereo spring settle practice argue remove lawsuit barely drink steak this evidence";

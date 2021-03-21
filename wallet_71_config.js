@@ -1,1 +1,1 @@
-var mnemonic = "fly erosion immune hub humble require decline firm blast parrot hedgehog large";
+var mnemonic = "now law stairs pyramid aware grid dilemma student stumble magnet exhaust put";

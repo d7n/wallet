@@ -1,1 +1,1 @@
-var mnemonic = "dilemma panda purchase height guilt nothing mother angle breeze keep twin word";
+var mnemonic = "oven wreck rude drum engine kangaroo web captain grunt hello accident equip";

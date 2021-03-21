@@ -1,1 +1,1 @@
-var mnemonic = "gorilla weird faint decide lazy quality tell all magnet mixed crew much";
+var mnemonic = "genre car around syrup render dust valley cigar hard hospital fox guide";

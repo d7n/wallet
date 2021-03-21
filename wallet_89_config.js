@@ -1,1 +1,1 @@
-var mnemonic = "main rule runway auto trumpet over gospel trick truth home install weather";
+var mnemonic = "imitate speed glare couch table gasp fashion slot orange ticket tennis lava";

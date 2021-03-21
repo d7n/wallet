@@ -1,1 +1,1 @@
-var mnemonic = "peanut hurry cabin silver sort detail three chapter force climb vote eyebrow";
+var mnemonic = "body first purse announce evil stereo limit acid aware nurse law clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "thing leg pipe repair warfare physical host collect lobster accuse funny where";
+var mnemonic = "square fence example diary dog fresh embark predict fruit expire blind heart";

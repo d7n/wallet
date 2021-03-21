@@ -1,1 +1,1 @@
-var mnemonic = "foil soft biology baby rescue ring hurt crater inject winner bean bid";
+var mnemonic = "style evoke tissue team cloth unfold dream now slush empower vast swing";

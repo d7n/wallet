@@ -1,1 +1,1 @@
-var mnemonic = "gain trouble always wet govern hip arctic toe excuse frozen woman glide";
+var mnemonic = "tube person purchase adult almost wisdom brief sick figure curve talent crouch";

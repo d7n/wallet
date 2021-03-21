@@ -1,1 +1,1 @@
-var mnemonic = "champion essence glance tenant script arrive note avocado wish zoo laundry depart";
+var mnemonic = "ball code shoot abandon tape salt vocal honey lava else combine uphold";

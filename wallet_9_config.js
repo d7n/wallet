@@ -1,1 +1,1 @@
-var mnemonic = "domain thing enlist hunt volume regret senior way scheme wisdom evil dignity";
+var mnemonic = "during rival stumble tennis lion melody auto asset another example view business";

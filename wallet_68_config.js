@@ -1,1 +1,1 @@
-var mnemonic = "feed imitate rib regret wheat shock smooth front lady wine echo cradle";
+var mnemonic = "awful gaze apart twin diary pulp medal romance arrest donor cage erase";

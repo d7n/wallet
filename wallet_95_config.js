@@ -1,1 +1,1 @@
-var mnemonic = "dog genre play favorite author because fat core struggle goose hold differ";
+var mnemonic = "sense picnic genre abstract else marble burst reflect kite rival update glue";

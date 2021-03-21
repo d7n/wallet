@@ -1,1 +1,1 @@
-var mnemonic = "like account reopen resemble point deputy audit elbow bounce behind orbit become";
+var mnemonic = "brown twin holiday visual wish deer feature dinner pulp fun among gorilla";

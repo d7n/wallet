@@ -1,1 +1,1 @@
-var mnemonic = "village mask meadow life silk donate better kitchen repair try industry sun";
+var mnemonic = "truly voyage boring prosper before maximum volume turkey around merge monkey phone";

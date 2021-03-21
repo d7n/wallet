@@ -1,1 +1,1 @@
-var mnemonic = "few smile report hotel claw elegant rebuild vacant rally run three bean";
+var mnemonic = "decide electric card planet tackle position walk okay brass tool subject weather";

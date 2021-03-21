@@ -1,1 +1,1 @@
-var mnemonic = "expect change fluid issue eight web recycle arrow regret game farm saddle";
+var mnemonic = "hole lab crumble option voice define ticket walk cannon general ridge river";

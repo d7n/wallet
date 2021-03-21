@@ -1,1 +1,1 @@
-var mnemonic = "insane evidence expose fee half normal shallow detect alley stick also end";
+var mnemonic = "enable shove blush sock throw surround gather candy sentence clown weasel craft";

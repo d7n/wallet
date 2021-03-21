@@ -1,1 +1,1 @@
-var mnemonic = "sadness ill observe mistake awful plate rotate chuckle fuel ready minimum second";
+var mnemonic = "voyage fix describe ethics mention tomato expose veteran squirrel whisper hover glove";

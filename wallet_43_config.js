@@ -1,1 +1,1 @@
-var mnemonic = "door wood fee distance bargain jump later army home merry pool deliver";
+var mnemonic = "youth family marble payment fire vintage install cruel twelve middle network below";

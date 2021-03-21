@@ -1,1 +1,1 @@
-var mnemonic = "pattern grocery solve elder lady program old fault curve shrug apart have";
+var mnemonic = "among time own alone where frost select bind announce intact destroy salon";

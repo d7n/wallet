@@ -1,1 +1,1 @@
-var mnemonic = "until become multiply grape jacket nephew return sand aunt light inch reopen";
+var mnemonic = "develop income claw chimney multiply life diagram system gain kick wing lucky";

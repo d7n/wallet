@@ -1,1 +1,1 @@
-var mnemonic = "split start swamp train room weapon exhaust bicycle message face gloom aspect";
+var mnemonic = "call toast certain symbol zone ridge require actress gift grief decrease female";

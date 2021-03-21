@@ -1,1 +1,1 @@
-var mnemonic = "brain front type recall grow harsh oil famous cream hair crystal slice";
+var mnemonic = "cradle budget trophy achieve index end venture early edit just click gather";

@@ -1,1 +1,1 @@
-var mnemonic = "battle hazard bid cruel music height bag water cabbage close tongue evil";
+var mnemonic = "shoot uncle jungle sing turn sun vast scissors nurse inspire rocket reform";

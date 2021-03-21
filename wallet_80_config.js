@@ -1,1 +1,1 @@
-var mnemonic = "eye orient theme poem pink shop taxi coil ceiling pelican please place";
+var mnemonic = "roast belt there weird almost slice disorder pitch unusual author summer multiply";

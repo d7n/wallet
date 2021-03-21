@@ -1,1 +1,1 @@
-var mnemonic = "fee real prison animal food cave runway crucial buzz mention cup spike";
+var mnemonic = "spoil luggage mouse hint initial high south rescue focus exchange camera afford";

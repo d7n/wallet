@@ -1,1 +1,1 @@
-var mnemonic = "rough gaze prison garage convince sort session pink alcohol large idea shiver";
+var mnemonic = "evoke now foil enemy bless fatal slight basket engage spoon poet repeat";

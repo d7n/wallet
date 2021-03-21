@@ -1,1 +1,1 @@
-var mnemonic = "caution sea rich wrestle copy message shift smoke famous obey film always";
+var mnemonic = "mesh great bind clock dentist episode hub race donkey scale good lawsuit";

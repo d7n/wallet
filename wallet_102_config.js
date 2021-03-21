@@ -1,1 +1,1 @@
-var mnemonic = "embark stomach plate install gadget denial aisle rib daughter dice peasant liar";
+var mnemonic = "switch ski sausage miss arctic similar search spray concert caution dizzy popular";

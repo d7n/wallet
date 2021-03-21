@@ -1,1 +1,1 @@
-var mnemonic = "mansion material rare romance dragon consider only black nose casino gown outer";
+var mnemonic = "pizza more legend just visual income frequent fine ride document busy crane";

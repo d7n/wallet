@@ -1,1 +1,1 @@
-var mnemonic = "chef helmet orchard hawk nurse lucky garage whale survey swamp skirt tone";
+var mnemonic = "stuff normal excite debris submit animal insane ramp slender absurd giant ice";

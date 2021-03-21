@@ -1,1 +1,1 @@
-var mnemonic = "knife coffee smooth armed travel april hope wait grace high matrix dwarf";
+var mnemonic = "frost quarter setup skate rhythm police helmet edge boat endorse chapter brave";

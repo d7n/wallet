@@ -1,1 +1,1 @@
-var mnemonic = "pitch subject plastic produce survey frog govern bomb online typical inquiry satisfy";
+var mnemonic = "drive fly correct series cotton joke ready table install sheriff march advice";

@@ -1,1 +1,1 @@
-var mnemonic = "kit crush embark crush melt unique very off surprise outdoor menu inflict";
+var mnemonic = "iron cat grace spider broken blanket brave finger april morning phrase fitness";

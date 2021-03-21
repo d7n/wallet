@@ -1,1 +1,1 @@
-var mnemonic = "fatal family town alpha hour execute upon rent kid elephant assist notice";
+var mnemonic = "movie use broken release crane fiction hint outside prison certain opera basket";

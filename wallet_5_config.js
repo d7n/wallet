@@ -1,1 +1,1 @@
-var mnemonic = "dune paddle health crack federal fever frost unveil paper knee august disorder";
+var mnemonic = "dad dish dune curve nothing language trade blade theme thumb open holiday";

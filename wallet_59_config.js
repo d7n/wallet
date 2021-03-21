@@ -1,1 +1,1 @@
-var mnemonic = "relief merge butter first galaxy notice whale toward pledge cereal sell talk";
+var mnemonic = "paddle rubber elite grow work spice jealous garlic wing dove super bulk";

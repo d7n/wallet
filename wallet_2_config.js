@@ -1,1 +1,1 @@
-var mnemonic = "flat farm online atom virus marriage favorite open skill column reform evoke";
+var mnemonic = "canoe argue label bone execute bounce journey shop gesture drill kid release";

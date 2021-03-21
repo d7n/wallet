@@ -1,1 +1,1 @@
-var mnemonic = "approve actress blame fury rain hold size base disease material flavor mom";
+var mnemonic = "bridge culture favorite jungle tissue abstract toddler success brass ability surface bitter";

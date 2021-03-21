@@ -1,1 +1,1 @@
-var mnemonic = "wage find kite nature wise pistol result great exclude suffer hair fragile";
+var mnemonic = "want say short jewel employ business kick mixture ghost orchard rival mimic";

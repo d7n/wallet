@@ -1,1 +1,1 @@
-var mnemonic = "library wide claim swamp age april camera couch confirm welcome sudden ugly";
+var mnemonic = "siege gesture craft steel enemy solve return wire blue cabbage casino ladder";

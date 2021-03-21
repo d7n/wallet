@@ -1,1 +1,1 @@
-var mnemonic = "milk sphere bless zero escape left home ghost setup shock liquid civil";
+var mnemonic = "usual buyer lumber loud avocado claw mass fall shed fit museum wait";

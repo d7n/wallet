@@ -1,1 +1,1 @@
-var mnemonic = "box kit distance vital actress december blanket cycle pink shiver base bridge";
+var mnemonic = "long taxi pioneer table noodle blossom adult stone timber join help grow";

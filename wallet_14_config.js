@@ -1,1 +1,1 @@
-var mnemonic = "lesson home fiber tilt bulk alcohol come side mesh cruel oppose alcohol";
+var mnemonic = "home derive people bubble involve royal gas song wait ramp flush inner";

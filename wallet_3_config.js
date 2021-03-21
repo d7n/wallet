@@ -1,1 +1,1 @@
-var mnemonic = "inherit expand ball syrup lake timber absurd genre pudding broken domain warm";
+var mnemonic = "limb purity boss twenty much outside egg text town enhance army jungle";

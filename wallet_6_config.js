@@ -1,1 +1,1 @@
-var mnemonic = "taste chest innocent popular hospital metal chase hover immune town sugar sausage";
+var mnemonic = "mom jar wagon category opera announce property stuff figure bean this donkey";

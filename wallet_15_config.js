@@ -1,1 +1,1 @@
-var mnemonic = "scatter prevent suffer try enact rain cushion apple park range ride call";
+var mnemonic = "session foil jump divide limit ordinary east happy blanket output pizza chimney";

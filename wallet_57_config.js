@@ -1,1 +1,1 @@
-var mnemonic = "account frown balance uncle margin truck middle latin figure put document pond";
+var mnemonic = "sense flock desk alert sea stay social number wrist cable image avoid";

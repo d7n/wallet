@@ -1,1 +1,1 @@
-var mnemonic = "kick obtain milk purse snake insane parade snack electric smile basket cabbage";
+var mnemonic = "program suffer census border able book giggle almost ancient unique modify floor";

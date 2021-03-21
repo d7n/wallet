@@ -1,1 +1,1 @@
-var mnemonic = "chief food away train jungle owner shell electric mobile swim cotton strong";
+var mnemonic = "green kit winter similar enroll love erosion churn length sight grape shield";

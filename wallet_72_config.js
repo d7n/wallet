@@ -1,1 +1,1 @@
-var mnemonic = "glow dress mystery wine stove devote jungle finger dawn decline grid limit";
+var mnemonic = "wage once admit proof science doll border fame junior warrior jazz profit";

@@ -1,1 +1,1 @@
-var mnemonic = "grow embody blast transfer slim night barely race wage swallow very cigar";
+var mnemonic = "oppose solve hip welcome riot trial bundle setup decade later state purse";

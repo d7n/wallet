@@ -1,1 +1,1 @@
-var mnemonic = "can position sample window weird head dragon place doll that sustain fortune";
+var mnemonic = "now genius express grow ethics journey power dilemma goddess pill glow royal";

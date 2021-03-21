@@ -1,1 +1,1 @@
-var mnemonic = "adjust virtual garbage slender whale capital soldier stage profit harbor stumble foam";
+var mnemonic = "leave donate device someone parade hockey job airport topic fossil yard balcony";

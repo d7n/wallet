@@ -1,1 +1,1 @@
-var mnemonic = "melt cupboard differ convince mesh deputy feed ocean cabbage shell fragile lyrics";
+var mnemonic = "faculty snow voyage crew artefact engine forest extra soul fun magnet rotate";

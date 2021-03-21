@@ -1,1 +1,1 @@
-var mnemonic = "unknown topic gospel wonder book hold glory jelly trouble isolate left simple";
+var mnemonic = "boring green hair pigeon sorry unit link lecture clerk seven now cloth";

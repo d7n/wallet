@@ -1,1 +1,1 @@
-var mnemonic = "mesh mask slender park notice random resemble fence enemy tiger shock century";
+var mnemonic = "fog leave attack lava century cargo warm foam design park defense tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "subject whisper become coin stable ankle donate extra better club ankle name";
+var mnemonic = "evil scrap young hungry bunker clog nut wrong bonus gas whale family";

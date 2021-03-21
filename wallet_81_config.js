@@ -1,1 +1,1 @@
-var mnemonic = "puppy harbor crystal hire slush ceiling penalty master depart desk under blue";
+var mnemonic = "river core purse come blossom faint spend attack host prison system door";

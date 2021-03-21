@@ -1,1 +1,1 @@
-var mnemonic = "media snap hockey student damp world agent snake tomato mixture endless enact";
+var mnemonic = "derive divide degree flower dignity street easily canal snow drink food water";

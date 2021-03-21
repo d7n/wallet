@@ -1,1 +1,1 @@
-var mnemonic = "couple harsh want joy chief learn year submit maple island achieve lab";
+var mnemonic = "ghost market person cute news flame taxi elite leave index rural field";

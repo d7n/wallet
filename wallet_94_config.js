@@ -1,1 +1,1 @@
-var mnemonic = "another noodle ramp logic illness today junior april aware carry grace into";
+var mnemonic = "bread relief allow amount final cannon enrich table what ketchup burst stick";

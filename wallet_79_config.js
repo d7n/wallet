@@ -1,1 +1,1 @@
-var mnemonic = "link letter goat swing actor owner patrol middle song blur pill toe";
+var mnemonic = "lamp mango frequent lucky vote hello royal nephew dignity post pupil spice";

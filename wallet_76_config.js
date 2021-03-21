@@ -1,1 +1,1 @@
-var mnemonic = "spoon color play hour ticket cram always clown embark spoon prepare endorse";
+var mnemonic = "fall attack broom dog build castle pigeon lucky grape cargo arm fault";

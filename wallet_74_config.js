@@ -1,1 +1,1 @@
-var mnemonic = "twice equal street meadow improve mind sadness aunt reward magic bubble notable";
+var mnemonic = "surge diesel foam silent prison coral candy oxygen define equip poem kit";

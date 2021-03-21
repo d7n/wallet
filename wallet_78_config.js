@@ -1,1 +1,1 @@
-var mnemonic = "nurse next elder repair moral talent twin bargain ancient duty island orchard";
+var mnemonic = "eager shiver educate plug wheel normal inspire private office similar flash logic";

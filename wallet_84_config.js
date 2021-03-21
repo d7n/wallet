@@ -1,1 +1,1 @@
-var mnemonic = "stock gas sight traffic coyote nerve fiber observe vicious card water swap";
+var mnemonic = "interest fork above around roof aim pulp catch minor roof grant level";

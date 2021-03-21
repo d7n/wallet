@@ -1,1 +1,1 @@
-var mnemonic = "actress century home more act gate extend coin valve fragile repeat awesome";
+var mnemonic = "village eyebrow prevent random zebra glare defy insect pyramid leaf alien true";

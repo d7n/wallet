@@ -1,1 +1,1 @@
-var mnemonic = "toe olympic able sibling give remind more weapon gown palace kiwi trial";
+var mnemonic = "hazard civil wrestle sketch lab palace almost during oppose jaguar bargain section";

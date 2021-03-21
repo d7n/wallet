@@ -1,1 +1,1 @@
-var mnemonic = "elite fury stamp check crystal page exotic elder useless gorilla behind section";
+var mnemonic = "erase stable veteran identify club floor thunder federal shoot tape glow earn";

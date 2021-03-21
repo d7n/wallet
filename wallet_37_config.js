@@ -1,1 +1,1 @@
-var mnemonic = "science quarter bag stuff junior river smooth tiny ill capital group tobacco";
+var mnemonic = "demise autumn solution tomato concert into chair pelican pelican submit limit empty";

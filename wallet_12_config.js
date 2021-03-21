@@ -1,1 +1,1 @@
-var mnemonic = "globe dirt chunk heart rabbit enemy birth guide spice brisk cradle news";
+var mnemonic = "effort actual unveil party nice please grit aim matrix exile surge year";

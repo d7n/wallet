@@ -1,1 +1,1 @@
-var mnemonic = "celery draw morning cat angle pear animal blood original walk response february";
+var mnemonic = "north street number idea order like monitor forward spawn hand aware tunnel";

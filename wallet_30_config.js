@@ -1,1 +1,1 @@
-var mnemonic = "hard border reveal tell energy erosion have alone alpha turn stand wet";
+var mnemonic = "coach flat snack oven mansion file fluid window kiwi mean purse guess";

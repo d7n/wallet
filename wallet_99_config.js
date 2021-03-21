@@ -1,1 +1,1 @@
-var mnemonic = "mandate ecology flat meadow weapon glimpse surprise digital ozone educate lamp space";
+var mnemonic = "worry lottery comfort upper swing pig victory soft again solar abandon arrest";

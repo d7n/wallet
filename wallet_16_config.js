@@ -1,1 +1,1 @@
-var mnemonic = "next candy mistake gallery opera stumble school toward fiscal few owner hidden";
+var mnemonic = "casual finger change select music hire solution sausage together agent convince face";

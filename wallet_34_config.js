@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog taste riot divert mom finish fly earn predict express enrich grit";
+var mnemonic = "ignore isolate neglect sauce smooth lawn scout excess aware erupt pepper slam";

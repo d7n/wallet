@@ -1,1 +1,1 @@
-var mnemonic = "eye glad burst remove shadow struggle matrix vault barrel begin snake maximum";
+var mnemonic = "ostrich edge key bachelor pottery element boost weapon muscle page shallow east";

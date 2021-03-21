@@ -1,1 +1,1 @@
-var mnemonic = "album spatial lyrics town dune option uniform yellow grit safe coyote plunge";
+var mnemonic = "curtain achieve useful eternal help craft grab check enjoy indoor duty hire";
