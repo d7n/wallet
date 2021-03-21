@@ -1,1 +1,1 @@
-var mnemonic = "rescue curious august media purse ceiling since real check board obey daughter";
+var mnemonic = "fatigue top high stone obvious forest blood water kite advice suggest stage";

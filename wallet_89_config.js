@@ -1,1 +1,1 @@
-var mnemonic = "venture sweet permit gym skull outdoor follow fresh blind veteran math vibrant";
+var mnemonic = "design flush fetch cloth since list grab inmate alert category design barely";

@@ -1,1 +1,1 @@
-var mnemonic = "toss cigar useless tray daring wise shoe ahead vendor ceiling spray pull";
+var mnemonic = "shift stock among tonight hobby humble charge recipe maple want pond airport";

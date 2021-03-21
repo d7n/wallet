@@ -1,1 +1,1 @@
-var mnemonic = "intact chief kitten marriage pony sudden jump sunny quote essence very flavor";
+var mnemonic = "monster palace rib find tortoise digital betray truth whisper liquid core prepare";

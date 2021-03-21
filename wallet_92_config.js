@@ -1,1 +1,1 @@
-var mnemonic = "cool pulp avocado essay deny pride angle entire stick again panda dentist";
+var mnemonic = "shock insane social month host essence enjoy world pony result exile nice";

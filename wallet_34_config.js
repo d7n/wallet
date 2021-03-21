@@ -1,1 +1,1 @@
-var mnemonic = "staff just long share armor place stairs wonder sister bounce skill entry";
+var mnemonic = "earn quit oppose endless stumble dad scatter seat jar solar join peanut";

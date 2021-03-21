@@ -1,1 +1,1 @@
-var mnemonic = "wrap direct result invite text disagree inflict jeans negative raven arrive best";
+var mnemonic = "educate chimney park spread sock play orphan retire panel observe midnight stone";

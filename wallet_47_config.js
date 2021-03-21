@@ -1,1 +1,1 @@
-var mnemonic = "oppose old math dash express frog wrestle dust kitten forward town canal";
+var mnemonic = "finish alter guitar magic flock used option visual fuel ceiling liar wet";

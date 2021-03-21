@@ -1,1 +1,1 @@
-var mnemonic = "atom census ribbon two film steak gravity charge remind brush muffin ready";
+var mnemonic = "birth program seven royal village trash bright neutral rare patrol fox salmon";

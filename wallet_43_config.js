@@ -1,1 +1,1 @@
-var mnemonic = "toy deputy ring food clown toy reunion orbit pond only skate advice";
+var mnemonic = "pill palace already scissors assault special civil place sing attend duck resemble";

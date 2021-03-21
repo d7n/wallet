@@ -1,1 +1,1 @@
-var mnemonic = "poem vault always evidence motor ill drum zebra exist health fun unlock";
+var mnemonic = "weasel super despair quality sustain metal output hurt history sunny harbor figure";

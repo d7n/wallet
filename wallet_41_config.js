@@ -1,1 +1,1 @@
-var mnemonic = "mirror match throw buyer style vanish eagle ancient uphold express sausage match";
+var mnemonic = "welcome always hood laugh note ill hospital possible will page bench salmon";

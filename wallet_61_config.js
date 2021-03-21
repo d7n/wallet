@@ -1,1 +1,1 @@
-var mnemonic = "produce velvet ball car time glow trade salad flag grunt mirror know";
+var mnemonic = "innocent ride hub tone crouch kiss bus liar creek drop kiwi raccoon";

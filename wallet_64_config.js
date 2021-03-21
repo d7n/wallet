@@ -1,1 +1,1 @@
-var mnemonic = "female friend office remove vehicle wall pet ill session absent route clinic";
+var mnemonic = "diet scout suspect provide catalog impact dwarf large put coffee rhythm earn";

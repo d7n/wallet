@@ -1,1 +1,1 @@
-var mnemonic = "retire actress just decide dice assault company skin region intact food extra";
+var mnemonic = "derive addict utility cycle fuel seven you gift museum can middle punch";

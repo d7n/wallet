@@ -1,1 +1,1 @@
-var mnemonic = "loan mesh jazz rude strike despair visual ancient story much zebra gloom";
+var mnemonic = "security dinner crowd swim trade price surprise wise sign eye accident sphere";

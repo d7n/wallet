@@ -1,1 +1,1 @@
-var mnemonic = "across into relief dismiss same brisk excuse sure inherit drill describe forest";
+var mnemonic = "help seminar trust circle differ gorilla engage possible salt obscure light pretty";

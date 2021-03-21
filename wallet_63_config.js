@@ -1,1 +1,1 @@
-var mnemonic = "bonus noodle exotic rural remove venue later memory butter husband jar rhythm";
+var mnemonic = "salmon february carpet dynamic soft mansion oyster chimney they patrol host runway";

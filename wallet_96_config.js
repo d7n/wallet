@@ -1,1 +1,1 @@
-var mnemonic = "strategy receive kangaroo march either clerk trap hire black cargo tonight fatal";
+var mnemonic = "disorder latin worth reduce shell decline north talk viable note parrot net";

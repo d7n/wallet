@@ -1,1 +1,1 @@
-var mnemonic = "bachelor hurt drama fancy case video surprise cradle run resource joke palm";
+var mnemonic = "rice gentle lizard math grunt early rotate opinion grid crane midnight gaze";

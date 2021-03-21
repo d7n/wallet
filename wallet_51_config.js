@@ -1,1 +1,1 @@
-var mnemonic = "small great innocent race fame miss duck shoulder boy wedding lecture security";
+var mnemonic = "skill front fence stumble window amazing allow skate hood hedgehog patch happy";

@@ -1,1 +1,1 @@
-var mnemonic = "add squeeze buyer sniff double denial now toilet blush dumb another tank";
+var mnemonic = "wild ride novel prevent before unhappy liar nuclear flag toilet universe hammer";

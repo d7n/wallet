@@ -1,1 +1,1 @@
-var mnemonic = "review trim weekend kiwi honey frame ugly inquiry innocent now blouse kiss";
+var mnemonic = "august color witness battle border filter crew habit memory image chef tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "summer eagle tool round mix cost guess warrior measure almost draft yard";
+var mnemonic = "rubber finish lens west swallow siege success place sorry hero phone camp";

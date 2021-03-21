@@ -1,1 +1,1 @@
-var mnemonic = "pattern between garbage addict couch clog galaxy atom company guess pull amused";
+var mnemonic = "cake citizen review tell athlete quantum grocery recipe hello gloom rough camera";

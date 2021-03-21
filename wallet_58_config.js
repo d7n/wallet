@@ -1,1 +1,1 @@
-var mnemonic = "spice sphere science once shop crush area tail carry raven shy offer";
+var mnemonic = "guide borrow impulse palm banana slender north enjoy ranch bargain elbow sword";

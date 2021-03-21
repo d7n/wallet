@@ -1,1 +1,1 @@
-var mnemonic = "fence concert member cage balcony arctic home lumber buffalo elegant robust light";
+var mnemonic = "motor lawn pumpkin swim dinosaur child fortune acoustic spice foil income kitten";

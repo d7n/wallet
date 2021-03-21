@@ -1,1 +1,1 @@
-var mnemonic = "theme whisper ozone gadget kingdom floor purse roast trouble million limb random";
+var mnemonic = "entire desk wrist pear illness sentence blouse salt thank sponsor rubber hidden";

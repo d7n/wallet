@@ -1,1 +1,1 @@
-var mnemonic = "session amused forward toss sustain wet have crowd group bubble drop summer";
+var mnemonic = "vote poem feel glow spatial cloud evil random love curve online will";

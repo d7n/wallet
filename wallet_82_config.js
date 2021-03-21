@@ -1,1 +1,1 @@
-var mnemonic = "hotel quote orient mammal disorder gold glide inquiry season daring coconut distance";
+var mnemonic = "sunset witness car deposit nominee alter turkey gas few neglect assume annual";

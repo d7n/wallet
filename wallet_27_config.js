@@ -1,1 +1,1 @@
-var mnemonic = "result damp elevator army jump fitness town sentence identify blouse noodle lounge";
+var mnemonic = "shift cigar document onion depend orchard surprise nerve vault oak entry affair";

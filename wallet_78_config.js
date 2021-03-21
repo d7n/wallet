@@ -1,1 +1,1 @@
-var mnemonic = "foam hockey patch burst have chase client below loud future noble artist";
+var mnemonic = "twenty genuine arrest close exile victory sword smoke smooth normal age senior";

@@ -1,1 +1,1 @@
-var mnemonic = "payment eyebrow eye drastic door rose range layer galaxy husband regret make";
+var mnemonic = "law cross never focus primary win penalty merry legend lens clean betray";

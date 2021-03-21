@@ -1,1 +1,1 @@
-var mnemonic = "family address infant follow decade below claim diet legend grief scheme stumble";
+var mnemonic = "legend pact fossil pigeon lion special boil gauge midnight clay still violin";

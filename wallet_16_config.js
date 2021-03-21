@@ -1,1 +1,1 @@
-var mnemonic = "sniff interest close drift mom mother gain rally toast dinner rain dose";
+var mnemonic = "cereal pottery melody produce novel emerge vibrant suffer brand mandate great yard";

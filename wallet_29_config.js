@@ -1,1 +1,1 @@
-var mnemonic = "plug frost rookie acquire ginger taxi right assume foot dizzy either warfare";
+var mnemonic = "debris kiwi plug stone shed guitar banner bone vocal twelve hybrid lawn";

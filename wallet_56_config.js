@@ -1,1 +1,1 @@
-var mnemonic = "actor much render verify collect tilt boss gun puzzle slow warm priority";
+var mnemonic = "soda front join horse depart elder heavy quantum either dismiss nothing door";

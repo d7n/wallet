@@ -1,1 +1,1 @@
-var mnemonic = "shield wheat belt shield label feed hotel castle fruit large gather math";
+var mnemonic = "minute sibling trash faculty music birth wrap welcome filter timber grunt garlic";

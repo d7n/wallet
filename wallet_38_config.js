@@ -1,1 +1,1 @@
-var mnemonic = "dune spirit balcony despair cram turkey machine heart glimpse tower space twist";
+var mnemonic = "worth fuel thrive depend depend ozone hollow better night explain ensure drama";

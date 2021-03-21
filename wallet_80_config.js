@@ -1,1 +1,1 @@
-var mnemonic = "into human hair quit jaguar spread put rocket pact lunar prison space";
+var mnemonic = "festival fox supreme length frame relief split sustain tornado similar say drift";

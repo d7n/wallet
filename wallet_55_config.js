@@ -1,1 +1,1 @@
-var mnemonic = "moment vibrant tennis success senior certain sock cherry firm jazz hamster change";
+var mnemonic = "room cotton pear arctic crazy key possible sketch chimney submit debate prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "lion organ ridge assault tourist embrace daughter theme cool town lobster mobile";
+var mnemonic = "isolate wall label hair unit parent connect deposit matrix tone panda inside";

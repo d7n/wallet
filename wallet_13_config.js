@@ -1,1 +1,1 @@
-var mnemonic = "mushroom main bullet foil champion gorilla machine layer dinosaur easily frown raven";
+var mnemonic = "enemy reform output buffalo style depend swamp change search sing laugh float";

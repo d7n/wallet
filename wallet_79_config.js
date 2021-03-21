@@ -1,1 +1,1 @@
-var mnemonic = "find source member dress fog avoid hamster place expect spare motor place";
+var mnemonic = "tone suspect certain green early sorry human clay notable snow silent palace";

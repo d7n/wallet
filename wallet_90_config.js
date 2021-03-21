@@ -1,1 +1,1 @@
-var mnemonic = "spot feature chaos citizen photo lounge order theory art evolve budget power";
+var mnemonic = "view silk tattoo limb host voyage pride ramp acoustic admit learn insect";

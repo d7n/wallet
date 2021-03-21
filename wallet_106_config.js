@@ -1,1 +1,1 @@
-var mnemonic = "dutch duty basket close phrase hidden castle engage bounce cupboard zone vast";
+var mnemonic = "science lesson worth earth scheme earth harvest thunder accuse farm cement radio";

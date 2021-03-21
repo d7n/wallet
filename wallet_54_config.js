@@ -1,1 +1,1 @@
-var mnemonic = "kick budget tilt salt harvest solve mango robot accuse omit nothing limb";
+var mnemonic = "fall depart suit claim bar dirt neutral order science vast pepper river";

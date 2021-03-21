@@ -1,1 +1,1 @@
-var mnemonic = "human chef error robot priority kid fiber federal tree dust advance project";
+var mnemonic = "focus cousin move board wife cliff between token once thunder number swing";

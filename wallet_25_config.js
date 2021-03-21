@@ -1,1 +1,1 @@
-var mnemonic = "creek fine knock deal hollow staff giggle salute punch remind pear aerobic";
+var mnemonic = "clever basic wish robot close toilet office endless enhance news urge advice";

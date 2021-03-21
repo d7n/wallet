@@ -1,1 +1,1 @@
-var mnemonic = "unfair abuse budget void man primary group ladder midnight junk all pink";
+var mnemonic = "shiver theme awake mechanic then brass tooth say skirt pulse weather noise";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster game rain member chalk scrub pulp bulk helmet witness same disagree";
+var mnemonic = "bulk worry exile crowd final test return timber decorate couple mushroom demise";

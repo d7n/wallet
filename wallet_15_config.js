@@ -1,1 +1,1 @@
-var mnemonic = "human verb congress okay elephant canyon inner letter eye bulk useless hope";
+var mnemonic = "strategy reason kiwi actress retreat siren great burst process core nature drum";

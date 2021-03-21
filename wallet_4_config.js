@@ -1,1 +1,1 @@
-var mnemonic = "defense plug combine adjust knife remain wage cabbage remain profit story spring";
+var mnemonic = "crazy fall survey such behave sister sadness blossom cactus when snow crumble";

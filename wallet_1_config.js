@@ -1,1 +1,1 @@
-var mnemonic = "trust crash usual eight maid tail diamond guess alley appear seven tide";
+var mnemonic = "purchase country indoor waste tiger shy throw sound forest bargain funny endless";

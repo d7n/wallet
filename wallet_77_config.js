@@ -1,1 +1,1 @@
-var mnemonic = "exercise deliver usual tank destroy rely wool throw patch noise lyrics appear";
+var mnemonic = "benefit squirrel proof minute inflict behave elbow blouse track point bind aisle";

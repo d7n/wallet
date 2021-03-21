@@ -1,1 +1,1 @@
-var mnemonic = "biology define such urban pitch tissue afraid firm fruit sibling absent pigeon";
+var mnemonic = "reunion school flame broom bread fish assault near business doll candy embark";

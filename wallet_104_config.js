@@ -1,1 +1,1 @@
-var mnemonic = "cave lava camera plate melody radio drum lab artefact barely armor laundry";
+var mnemonic = "abstract gloom air ozone deputy hungry age rely pig boring table senior";

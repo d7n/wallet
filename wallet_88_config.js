@@ -1,1 +1,1 @@
-var mnemonic = "gate pact kingdom panel where wage kiss garbage basic hidden satoshi ten";
+var mnemonic = "play later you month protect brain jungle grocery stadium refuse kind virus";

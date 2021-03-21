@@ -1,1 +1,1 @@
-var mnemonic = "renew conduct attack scheme slab trade know rib ski shy outer blade";
+var mnemonic = "hidden state force donor culture horn exotic chat royal satoshi pride gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "wet pole clock tail carry biology convince gaze coin enforce column frost";
+var mnemonic = "all million transfer tired mechanic blame rabbit armed hard patch garbage shell";

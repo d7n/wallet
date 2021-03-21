@@ -1,1 +1,1 @@
-var mnemonic = "behave mask hotel prosper join figure tragic melt chimney three gorilla powder";
+var mnemonic = "setup sense hip online style gap hurry fire iron sad street legend";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity bachelor spawn adapt connect exit solar gas skin grab frozen parrot";
+var mnemonic = "pig vacant meat arrow dial use tape ecology remember join forget solid";

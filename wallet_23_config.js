@@ -1,1 +1,1 @@
-var mnemonic = "frown recipe toddler distance chase lazy various merge surround episode fiction dutch";
+var mnemonic = "couch mask double artwork angry afraid gate gadget level bar swim olive";

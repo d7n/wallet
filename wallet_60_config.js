@@ -1,1 +1,1 @@
-var mnemonic = "initial invest sudden tomorrow liar topple okay unveil robot chat lecture tourist";
+var mnemonic = "horn small ritual crime sunset blue suggest super affair tunnel large what";

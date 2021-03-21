@@ -1,1 +1,1 @@
-var mnemonic = "snack match gym coconut walnut silk involve evil depth afford arctic hungry";
+var mnemonic = "drum garment exhibit scene relief borrow act relief violin night label reward";

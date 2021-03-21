@@ -1,1 +1,1 @@
-var mnemonic = "suggest force mosquito mixture hold orient punch hunt mask butter vibrant section";
+var mnemonic = "reopen magic segment scare elegant crouch glare pass easy story already edge";

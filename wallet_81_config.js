@@ -1,1 +1,1 @@
-var mnemonic = "gravity shallow wage stool core clog pass cat load ugly creek laugh";
+var mnemonic = "swarm sister penalty voyage side sweet keen treat relief hard sleep limb";

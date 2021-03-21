@@ -1,1 +1,1 @@
-var mnemonic = "current please play senior rally shield below knife oil fox sheriff climb";
+var mnemonic = "insane book affair dolphin upper short still worry crop dash program team";

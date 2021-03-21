@@ -1,1 +1,1 @@
-var mnemonic = "bike fork sport lady inch buddy crop velvet image hunt dog target";
+var mnemonic = "foam infant surround round joy club crystal check sugar hurry banner giraffe";

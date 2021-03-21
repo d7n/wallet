@@ -1,1 +1,1 @@
-var mnemonic = "expire umbrella south robot torch lock gauge sail warm myself comic topic";
+var mnemonic = "scare tennis mammal crater forum view brain trend three eagle gravity quote";

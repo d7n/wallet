@@ -1,1 +1,1 @@
-var mnemonic = "bread bubble toilet hour speak goddess around rely tennis man save mad";
+var mnemonic = "then salad arrange expire cross long admit sorry broken dragon domain horror";

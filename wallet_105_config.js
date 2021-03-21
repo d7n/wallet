@@ -1,1 +1,1 @@
-var mnemonic = "trigger crouch slogan tiny gossip blame left torch thought travel sword debate";
+var mnemonic = "soldier observe cake grief sell chimney unveil glance loyal outside basic balcony";

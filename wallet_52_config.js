@@ -1,1 +1,1 @@
-var mnemonic = "urge unveil sense layer stock long smoke worth crash melt ten glad";
+var mnemonic = "impact win degree injury dizzy online insane gentle umbrella close cargo wood";

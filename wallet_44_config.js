@@ -1,1 +1,1 @@
-var mnemonic = "calm where stuff talk attack napkin phone fox rather cherry ordinary rely";
+var mnemonic = "reflect token year radio turn armed feel fiction sunset session birth ride";

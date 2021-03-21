@@ -1,1 +1,1 @@
-var mnemonic = "view mouse comic machine inmate spell festival pioneer trap rely helmet faculty";
+var mnemonic = "able ice repair certain wide slender someone grunt potato sunny chair test";

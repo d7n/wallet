@@ -1,1 +1,1 @@
-var mnemonic = "motion knee leopard speak pistol olive amazing soft split village near bench";
+var mnemonic = "latin boil boring during pole absurd human crazy receive kiss forward shield";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut captain loyal cave accuse trigger vehicle save cluster travel jeans success";
+var mnemonic = "guard sword gentle cat math steel label trade insane crumble portion rotate";

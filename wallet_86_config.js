@@ -1,1 +1,1 @@
-var mnemonic = "pen true giant wine virtual speed actress kid scatter circle mansion clown";
+var mnemonic = "inhale trim choose august humor peanut air act flame custom riot blush";

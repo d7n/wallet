@@ -1,1 +1,1 @@
-var mnemonic = "pipe daring rug sense front region garage gravity fly eternal little forum";
+var mnemonic = "airport sugar outdoor cat grass once fury play amateur visual arm promote";

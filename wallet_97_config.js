@@ -1,1 +1,1 @@
-var mnemonic = "mushroom finger crisp injury trade skin high ring swap entry worry between";
+var mnemonic = "add minor depth bitter upon rare pull share trash virtual cycle add";

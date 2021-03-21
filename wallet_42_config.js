@@ -1,1 +1,1 @@
-var mnemonic = "online again rifle common gravity victory refuse today boy gift diagram receive";
+var mnemonic = "hint laptop empty ceiling tool occur miss drive tuition voice victory alarm";

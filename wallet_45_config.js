@@ -1,1 +1,1 @@
-var mnemonic = "local harbor vendor blind eagle double habit please silent furnace ceiling town";
+var mnemonic = "kingdom organ ghost distance rival genuine correct solve artefact stuff fossil coil";

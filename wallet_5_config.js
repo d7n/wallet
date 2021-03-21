@@ -1,1 +1,1 @@
-var mnemonic = "erosion thunder siren inmate silly history spend excess engage ill stable squeeze";
+var mnemonic = "obtain erosion funny device tired tragic evidence border order nut prefer soccer";

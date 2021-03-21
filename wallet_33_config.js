@@ -1,1 +1,1 @@
-var mnemonic = "gauge sound genre grace gain leave reveal oxygen budget carbon increase bus";
+var mnemonic = "insect measure start video error upon post same mansion grain develop salad";

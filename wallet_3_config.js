@@ -1,1 +1,1 @@
-var mnemonic = "name again swallow timber hard teach tired apology correct leaf beef remind";
+var mnemonic = "actual angry same viable curve game month valve stuff add entry problem";

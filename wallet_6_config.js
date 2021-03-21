@@ -1,1 +1,1 @@
-var mnemonic = "dance rhythm stuff merry flight alarm vapor pony skin code denial hazard";
+var mnemonic = "year fame eyebrow near leader onion cabbage transfer naive movie decide song";

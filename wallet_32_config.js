@@ -1,1 +1,1 @@
-var mnemonic = "clean amateur unveil maid shiver slim hair yard pink gossip food cradle";
+var mnemonic = "medal fever idea float run muscle tag noble reflect valid gasp minimum";

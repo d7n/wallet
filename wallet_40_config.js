@@ -1,1 +1,1 @@
-var mnemonic = "mystery amazing acquire buddy wisdom behave click tattoo frequent shrug ensure front";
+var mnemonic = "diet onion fiber diagram pluck taste lawsuit pottery wire boil comfort claw";
