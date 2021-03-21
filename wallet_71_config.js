@@ -1,1 +1,1 @@
-var mnemonic = "faith fork cluster actor judge still intact aisle harvest accident plate fever";
+var mnemonic = "volume nest tiny skin layer success penalty truth glue disorder issue right";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna level disease flat door require sport shoe rival pool trick deputy";
+var mnemonic = "assault portion spread utility awful like blame medal true obey ski menu";

@@ -1,1 +1,1 @@
-var mnemonic = "select velvet grocery wing useless guide someone decorate view spare coach expire";
+var mnemonic = "question congress usage bid dragon piece brown able holiday success milk exercise";

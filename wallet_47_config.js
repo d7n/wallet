@@ -1,1 +1,1 @@
-var mnemonic = "measure rebel draft figure task toward leisure sleep mother whale bullet shield";
+var mnemonic = "include coil grit whale detect service breeze fringe puppy promote gadget injury";

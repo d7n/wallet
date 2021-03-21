@@ -1,1 +1,1 @@
-var mnemonic = "inner orbit solar radio clean already husband round gate biology skill often";
+var mnemonic = "clerk peanut dynamic top bright valid nature explain tired tongue track roof";

@@ -1,1 +1,1 @@
-var mnemonic = "drip spring happy invest pig another reduce market analyst pond screen receive";
+var mnemonic = "ski exclude runway equip august fossil kiwi access rapid retire call heart";

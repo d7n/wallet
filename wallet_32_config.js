@@ -1,1 +1,1 @@
-var mnemonic = "wagon stereo again congress urban find penalty clinic strong head light december";
+var mnemonic = "decrease cover multiply hope swallow decorate ketchup toddler dust divorce elbow what";

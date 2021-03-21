@@ -1,1 +1,1 @@
-var mnemonic = "cargo urge test mad doctor journey learn accident boost pipe gate pioneer";
+var mnemonic = "opera army evolve jungle wash supreme begin nut correct federal sleep praise";

@@ -1,1 +1,1 @@
-var mnemonic = "copper manual great foam wisdom segment very budget spend solve badge bid";
+var mnemonic = "strategy assist act option measure airport warrior child medal giggle civil talk";

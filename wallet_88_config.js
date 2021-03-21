@@ -1,1 +1,1 @@
-var mnemonic = "wool model risk peasant thing car taxi furnace cement lawsuit trash vague";
+var mnemonic = "garden hollow retreat fever deny common hover target method airport flame inner";

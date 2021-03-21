@@ -1,1 +1,1 @@
-var mnemonic = "luxury soldier era cube ready give vehicle govern health slice sudden relief";
+var mnemonic = "giraffe weather surround planet oyster moon punch buddy raise eight silly divert";

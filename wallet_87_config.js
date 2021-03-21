@@ -1,1 +1,1 @@
-var mnemonic = "spawn arena holiday wheat material tip arena burst pig labor rival return";
+var mnemonic = "pitch liar license comfort audit kid sugar vicious hip orchard defy moment";

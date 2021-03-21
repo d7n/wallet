@@ -1,1 +1,1 @@
-var mnemonic = "fox rigid erode letter easily craft snack roast lonely excite dawn steel";
+var mnemonic = "space suit host van sight reopen situate slide buyer garment smart iron";

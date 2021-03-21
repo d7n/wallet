@@ -1,1 +1,1 @@
-var mnemonic = "scissors yard double name consider rich draft elite peasant double admit awake";
+var mnemonic = "embrace enforce coin diagram march rapid trouble cash kangaroo fruit attack easy";

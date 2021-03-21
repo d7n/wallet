@@ -1,1 +1,1 @@
-var mnemonic = "pluck cycle maple crouch crater outdoor prepare rather wash mother mass price";
+var mnemonic = "fire solid piano tank bulk warrior rebuild weather spike accuse suffer flush";

@@ -1,1 +1,1 @@
-var mnemonic = "convince evoke baby problem length bamboo hood top own remain few blur";
+var mnemonic = "wish artefact dawn mutual oak disease shell gun monitor midnight scheme deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "theory leg february magnet smoke achieve drum snack female process way isolate";
+var mnemonic = "ready drip body enforce lunch wait genius history weasel obtain wife light";

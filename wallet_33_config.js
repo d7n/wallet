@@ -1,1 +1,1 @@
-var mnemonic = "flower oblige brother theory cube congress miracle hobby cruise foil inflict banana";
+var mnemonic = "above reflect marriage person gap demise tell gadget stone off adjust reason";

@@ -1,1 +1,1 @@
-var mnemonic = "road hub pretty click cliff seminar bean public diagram bunker choose vehicle";
+var mnemonic = "yellow oyster album air flavor gas attend scale trophy pool fiction slush";

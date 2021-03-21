@@ -1,1 +1,1 @@
-var mnemonic = "pull reject bring mass charge grape ladder hybrid pass vendor core draft";
+var mnemonic = "post prison feel harbor bonus potato obtain stage judge finish carpet retire";

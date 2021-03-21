@@ -1,1 +1,1 @@
-var mnemonic = "segment wave awkward tomorrow pluck dice scheme hurdle tuition torch walnut labor";
+var mnemonic = "broom push damp oblige salute master genuine wife shift what hope purse";

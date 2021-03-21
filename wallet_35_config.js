@@ -1,1 +1,1 @@
-var mnemonic = "argue outdoor erode vintage vocal concert puppy high vehicle later rely youth";
+var mnemonic = "puzzle symptom umbrella license myth ten slide bind photo sell culture step";

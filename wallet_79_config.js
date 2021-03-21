@@ -1,1 +1,1 @@
-var mnemonic = "knife cruise tribe velvet coffee goose give ready duty mobile ugly friend";
+var mnemonic = "invite smooth roof work tortoise vanish worth animal leopard inch visa elder";

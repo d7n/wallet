@@ -1,1 +1,1 @@
-var mnemonic = "witness silk female use boss trend agree face relax boss betray enough";
+var mnemonic = "explain draw cricket figure modify host ship glad twin original segment convince";

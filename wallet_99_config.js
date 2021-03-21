@@ -1,1 +1,1 @@
-var mnemonic = "put heavy shrimp van volume fork early sentence verify awake shaft guitar";
+var mnemonic = "circle fall claw era humble steel vital organ rule urban expand card";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt inhale sound bring hedgehog fever tongue relief armed one hidden tackle";
+var mnemonic = "gym inch ghost fossil session area slab problem melt exact true hero";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic drink rare local cupboard journey hen soup fancy risk swamp tank";
+var mnemonic = "wrap float example rent answer bubble raven crane divert parade crowd party";

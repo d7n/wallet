@@ -1,1 +1,1 @@
-var mnemonic = "hold twice pave army mushroom merit wolf rescue patch power squirrel foster";
+var mnemonic = "abandon loud device entry dolphin elite recipe nose limit soldier notice height";

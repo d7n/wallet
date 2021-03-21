@@ -1,1 +1,1 @@
-var mnemonic = "dance potato bronze dinosaur cat boil danger few shadow modify brand pole";
+var mnemonic = "lava cart label basket pole hockey notice like idea hero hire venture";

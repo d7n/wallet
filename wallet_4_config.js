@@ -1,1 +1,1 @@
-var mnemonic = "luxury flee vacant two plunge mean pet canyon rebuild alarm myth bonus";
+var mnemonic = "bread knee original retire wish salt rubber inner imitate puppy educate flat";

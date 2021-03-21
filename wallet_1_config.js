@@ -1,1 +1,1 @@
-var mnemonic = "couple damage gentle bridge series vendor push cool ribbon buffalo inch senior";
+var mnemonic = "crouch absorb journey purchase various shoe boil real dust comic search eagle";

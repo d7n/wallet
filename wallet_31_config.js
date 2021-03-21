@@ -1,1 +1,1 @@
-var mnemonic = "neutral ignore welcome dolphin coyote feel burger fall wonder deposit leisure rib";
+var mnemonic = "fortune huge pact pulse alcohol wedding valley rain lens pet pass valid";

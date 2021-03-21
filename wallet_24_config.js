@@ -1,1 +1,1 @@
-var mnemonic = "average silver security duck borrow become similar tornado hour base sunny faith";
+var mnemonic = "emerge crawl any comic concert snow surround exotic elder pumpkin banana nice";

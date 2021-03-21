@@ -1,1 +1,1 @@
-var mnemonic = "seven tank brief nut chef verify finish lion crater move earth exclude";
+var mnemonic = "price provide knee truly brush anxiety valley whisper ten orient scan smooth";

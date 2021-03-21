@@ -1,1 +1,1 @@
-var mnemonic = "glide frequent happy basket elbow gain blur creek riot tag rare enrich";
+var mnemonic = "again help alarm rubber gadget update initial describe jungle physical path spatial";

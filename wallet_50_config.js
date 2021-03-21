@@ -1,1 +1,1 @@
-var mnemonic = "valid project way donor clever parent blast shrimp ask filter inform stool";
+var mnemonic = "finish hill cereal rifle retreat song inmate organ shy bomb veteran lobster";

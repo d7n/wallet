@@ -1,1 +1,1 @@
-var mnemonic = "choose leisure search kit ten tunnel charge obscure combine mule giant involve";
+var mnemonic = "convince miracle tell chapter protect because elite dignity task tag ocean fantasy";

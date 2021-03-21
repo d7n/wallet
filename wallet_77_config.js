@@ -1,1 +1,1 @@
-var mnemonic = "silly car sunny aspect jazz immune lion prefer pact sauce saddle horn";
+var mnemonic = "venue menu sphere milk coin ring veteran glance vehicle moment pink divorce";

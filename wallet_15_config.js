@@ -1,1 +1,1 @@
-var mnemonic = "deliver fame patrol mass aisle caution garlic fit math welcome real zoo";
+var mnemonic = "organ patrol town have material six choice walk surround raccoon region silent";

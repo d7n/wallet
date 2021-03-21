@@ -1,1 +1,1 @@
-var mnemonic = "myth mutual cause water solid outdoor test forest arch october company trade";
+var mnemonic = "figure scale cream muscle convince grocery crouch next alarm very action inspire";

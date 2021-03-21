@@ -1,1 +1,1 @@
-var mnemonic = "stand jaguar order animal phone fence seek evidence sound shine alcohol screen";
+var mnemonic = "turn thing exile exist this battle aunt later predict social alert movie";

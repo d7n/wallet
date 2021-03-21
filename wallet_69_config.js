@@ -1,1 +1,1 @@
-var mnemonic = "rib hood yellow patch oppose define prepare tiny hour capital syrup heavy";
+var mnemonic = "garage civil sock erosion spot evoke debate topic exhibit online crush address";

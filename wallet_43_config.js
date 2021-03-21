@@ -1,1 +1,1 @@
-var mnemonic = "coach suggest defy thrive car risk aware equal give ice vacant impose";
+var mnemonic = "top legal hello feel rabbit review material turtle fork puppy update pony";

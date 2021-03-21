@@ -1,1 +1,1 @@
-var mnemonic = "equal round silly enable squeeze good bone title noodle water jump female";
+var mnemonic = "awful omit permit input impact parrot crime album tomato confirm soft crush";

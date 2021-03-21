@@ -1,1 +1,1 @@
-var mnemonic = "mystery side melt action aisle absent trigger popular battle gun velvet cloud";
+var mnemonic = "march notice winter cousin trouble kite add whip section sunset castle dance";

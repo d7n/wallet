@@ -1,1 +1,1 @@
-var mnemonic = "multiply enforce guard derive doll typical cry math return badge grid divide";
+var mnemonic = "cable analyst desk install ready impact sun custom salad glide explain still";

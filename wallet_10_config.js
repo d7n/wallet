@@ -1,1 +1,1 @@
-var mnemonic = "armor robot torch scrap gossip devote clog predict mesh near aspect scout";
+var mnemonic = "stuff exist canoe mountain top fuel bicycle lizard parade opera border quit";

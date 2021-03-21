@@ -1,1 +1,1 @@
-var mnemonic = "release divert ring then auction rail taxi resist drastic hamster style peace";
+var mnemonic = "amount nation leisure mobile uphold chase axis kind gold glance vintage bundle";

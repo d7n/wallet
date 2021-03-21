@@ -1,1 +1,1 @@
-var mnemonic = "chalk only town gate whale measure table curtain fee switch logic dinner";
+var mnemonic = "game insane siege quality story emotion story unaware cabbage black film eager";

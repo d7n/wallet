@@ -1,1 +1,1 @@
-var mnemonic = "clinic dry result feed item practice cluster fence purity undo adjust basic";
+var mnemonic = "rice weird envelope process close design enough ostrich music drum park second";

@@ -1,1 +1,1 @@
-var mnemonic = "bright notice stadium quick energy phone material situate find trumpet mom tomato";
+var mnemonic = "pact slide option loyal elbow post season kitten rapid message together stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "clown match congress crane valve math melody clay track squeeze coral task";
+var mnemonic = "swap soccer cable cotton wild usual climb crunch thunder horror luxury route";

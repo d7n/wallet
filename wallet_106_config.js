@@ -1,1 +1,1 @@
-var mnemonic = "doll salt galaxy two plug reason wisdom aspect guide girl either any";
+var mnemonic = "switch luggage priority pause village dust silly polar embrace ridge timber prefer";

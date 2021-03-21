@@ -1,1 +1,1 @@
-var mnemonic = "kitchen visa crystal hole island tomato annual silver rocket edit artwork cannon";
+var mnemonic = "wheat plug cube jewel wreck sniff mind hint alone obscure curtain decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "only blame success fresh toast victory squeeze girl behave craft soda diesel";
+var mnemonic = "fall crew gossip gun tired trash broom dynamic nominee cupboard cannon flame";

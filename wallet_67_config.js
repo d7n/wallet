@@ -1,1 +1,1 @@
-var mnemonic = "check card swift slogan claw spoon slight alter parent chase brush reunion";
+var mnemonic = "poet provide defy critic rare middle tumble loyal boy useless faint disorder";

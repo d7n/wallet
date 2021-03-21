@@ -1,1 +1,1 @@
-var mnemonic = "canoe ancient drip noble smart normal nothing loop finish unknown fox insect";
+var mnemonic = "side position chase couch warrior practice actor hawk expose pretty broom pair";

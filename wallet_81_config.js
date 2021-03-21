@@ -1,1 +1,1 @@
-var mnemonic = "embark captain forget execute legal trigger satisfy pluck fit blast dad sun";
+var mnemonic = "aunt accuse fragile tape address essay prison tube blur erupt bronze fine";

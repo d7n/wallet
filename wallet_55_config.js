@@ -1,1 +1,1 @@
-var mnemonic = "survey high liberty cover sunny bus ordinary visit marriage trophy either vessel";
+var mnemonic = "panda onion supreme horn excess distance genre nature biology race lens ozone";

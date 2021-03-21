@@ -1,1 +1,1 @@
-var mnemonic = "metal arrive magic photo argue slab guess join entry ski welcome charge";
+var mnemonic = "injury employ opera border head cage maximum upper morning emerge enjoy exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic chapter void cute leave wet release assume poet monitor judge gold";
+var mnemonic = "display access skin nose sentence margin magic cattle ethics believe social rail";

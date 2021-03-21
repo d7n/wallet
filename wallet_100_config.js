@@ -1,1 +1,1 @@
-var mnemonic = "artist ranch unknown someone metal inherit make original roof lesson message despair";
+var mnemonic = "gossip glove educate damp casual present dune grace uniform print later write";

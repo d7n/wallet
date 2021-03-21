@@ -1,1 +1,1 @@
-var mnemonic = "robust indicate manage monkey spell tag provide learn volume tumble clump universe";
+var mnemonic = "speak smart genre siren rebuild segment seat state hollow admit donate one";

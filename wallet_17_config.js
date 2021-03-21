@@ -1,1 +1,1 @@
-var mnemonic = "vendor pledge misery monster tomato february song ability mountain cliff winner lion";
+var mnemonic = "arch blouse creek electric key sausage tragic expire body banana winner nature";

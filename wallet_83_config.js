@@ -1,1 +1,1 @@
-var mnemonic = "harsh dentist alter smile company latin clean any fiber board wagon recipe";
+var mnemonic = "great cement object club very color like second unfold vintage portion offer";

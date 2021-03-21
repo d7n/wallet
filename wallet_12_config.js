@@ -1,1 +1,1 @@
-var mnemonic = "used sheriff slide trash autumn ranch design digital seek awful about beach";
+var mnemonic = "claw gaze enjoy truly miss label penalty gun strike panda envelope wrap";

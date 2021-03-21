@@ -1,1 +1,1 @@
-var mnemonic = "nose find pigeon object slow fog bird scheme powder sentence mail gesture";
+var mnemonic = "orchard oppose above neither fury army clip ahead little abandon time seek";

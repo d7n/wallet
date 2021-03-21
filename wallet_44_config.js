@@ -1,1 +1,1 @@
-var mnemonic = "wink attract final remind minor you stay morning abuse sphere nest praise";
+var mnemonic = "violin excuse travel common track pet apology hope robust hire furnace member";

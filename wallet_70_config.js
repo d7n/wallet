@@ -1,1 +1,1 @@
-var mnemonic = "snap betray bar amount armed spend start despair police february all inherit";
+var mnemonic = "buffalo during foster produce odor drive record offer visa morning tilt track";

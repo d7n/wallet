@@ -1,1 +1,1 @@
-var mnemonic = "wine kick city banana brain luxury select emerge ketchup local season scout";
+var mnemonic = "noble dignity ensure vivid student perfect curious any online deal aim mirror";

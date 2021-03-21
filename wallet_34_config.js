@@ -1,1 +1,1 @@
-var mnemonic = "kind focus various mule dumb unable where van ensure night winner warfare";
+var mnemonic = "hole warrior hotel shoulder bubble rival weekend copy chalk average churn scissors";

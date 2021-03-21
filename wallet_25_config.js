@@ -1,1 +1,1 @@
-var mnemonic = "comfort remind trigger gorilla half eye middle humble extra glass lizard rent";
+var mnemonic = "boat blind ostrich wage slogan later high limit shy together recall crash";

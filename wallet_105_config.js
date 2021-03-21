@@ -1,1 +1,1 @@
-var mnemonic = "gospel damage like warfare alter illegal such daughter brand there laundry ask";
+var mnemonic = "material runway bargain trigger slow label elephant hawk hour hat finish sort";

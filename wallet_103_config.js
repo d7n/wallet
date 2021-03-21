@@ -1,1 +1,1 @@
-var mnemonic = "define reduce kick note hybrid deputy crash collect exist shoot tongue metal";
+var mnemonic = "owner cloth skirt field trend dynamic leg large stage weekend priority badge";

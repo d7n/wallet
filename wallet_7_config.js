@@ -1,1 +1,1 @@
-var mnemonic = "diesel disease hammer blind case figure layer scrub gentle carpet magic upper";
+var mnemonic = "property refuse jealous casual effort wasp logic antenna quiz ski silver lobster";

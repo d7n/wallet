@@ -1,1 +1,1 @@
-var mnemonic = "equip tag horror tell helmet include offer toy license flag seek sleep";
+var mnemonic = "hurry pistol order void punch chaos urban repeat palace chat enhance coyote";

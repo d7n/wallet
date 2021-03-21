@@ -1,1 +1,1 @@
-var mnemonic = "company across despair primary tumble carbon regret have legal best fade strategy";
+var mnemonic = "nothing dutch predict mesh swear enter reduce actual vehicle hen diagram banner";

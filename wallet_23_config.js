@@ -1,1 +1,1 @@
-var mnemonic = "fall behind world humble ethics advice clock forum danger debris attack negative";
+var mnemonic = "record bullet soul mushroom year width enact subway palace daughter trick velvet";

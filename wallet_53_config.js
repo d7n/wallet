@@ -1,1 +1,1 @@
-var mnemonic = "buffalo business hurt narrow rail lab text select heart business lion flee";
+var mnemonic = "summer mistake rose gloom marriage tomato fancy guard crazy depend quiz pull";

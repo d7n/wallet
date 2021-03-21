@@ -1,1 +1,1 @@
-var mnemonic = "clown door voyage resource catalog copper sick river behind cereal verify enroll";
+var mnemonic = "neutral shoulder shiver often bind mad source leaf fetch gold perfect fold";

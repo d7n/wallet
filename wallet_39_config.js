@@ -1,1 +1,1 @@
-var mnemonic = "digital drink field page label inspire file junior satisfy chaos exile bid";
+var mnemonic = "paddle diamond olympic double margin attend future acoustic tuition thank lens bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "direct drive dream defy subway vital senior grain because only clip differ";
+var mnemonic = "end second donor truly option jacket pause easy transfer cotton cupboard blame";

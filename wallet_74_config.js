@@ -1,1 +1,1 @@
-var mnemonic = "kite harsh grief dance vintage tennis bubble month boat crowd shoe access";
+var mnemonic = "latin cruel pluck age comic brand open common adjust around focus example";

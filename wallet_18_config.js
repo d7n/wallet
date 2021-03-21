@@ -1,1 +1,1 @@
-var mnemonic = "case tape garage layer then latin few team fine frame arctic swear";
+var mnemonic = "canal shine maple vicious sell gentle cross quantum seminar subway one strategy";

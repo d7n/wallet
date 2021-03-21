@@ -1,1 +1,1 @@
-var mnemonic = "culture repeat air shoot there faculty million room zone awake bubble play";
+var mnemonic = "attack theme sport deposit cash slogan pelican hub depart age document pool";

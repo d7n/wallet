@@ -1,1 +1,1 @@
-var mnemonic = "bamboo adjust inner penalty winter apology vote royal medal cash argue glory";
+var mnemonic = "olive obtain hint jazz market virtual dad media wing hybrid wear wolf";

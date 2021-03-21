@@ -1,1 +1,1 @@
-var mnemonic = "swing lion become puzzle upgrade angry tuition quiz engine draft next cargo";
+var mnemonic = "mushroom day ridge mountain soon yard asthma rural device auto awful soccer";

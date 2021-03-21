@@ -1,1 +1,1 @@
-var mnemonic = "legal daughter ask goat favorite coach jewel ignore hammer laugh skull nose";
+var mnemonic = "motion cannon edit smoke undo disorder task sing theory frozen volcano item";

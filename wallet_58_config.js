@@ -1,1 +1,1 @@
-var mnemonic = "cute problem flock word kid shrug brand grow unit blade shadow scare";
+var mnemonic = "enact pattern biology tiger cereal repeat exit resource slice news property drum";

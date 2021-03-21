@@ -1,1 +1,1 @@
-var mnemonic = "seek desk chimney foil mom tackle scan critic call stadium slow initial";
+var mnemonic = "wonder basic marble chief dizzy slice sustain approve garage orphan blanket ridge";

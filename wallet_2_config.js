@@ -1,1 +1,1 @@
-var mnemonic = "orchard hole canvas stem author cannon supply degree social switch glue confirm";
+var mnemonic = "destroy bonus glide firm blanket all flash wash end ordinary head echo";

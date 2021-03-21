@@ -1,1 +1,1 @@
-var mnemonic = "clip alcohol helmet build saddle old planet hungry plug soft film demand";
+var mnemonic = "ride display duck violin wait eight suffer coil nothing faculty destroy unable";

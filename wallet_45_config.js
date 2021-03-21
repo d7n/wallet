@@ -1,1 +1,1 @@
-var mnemonic = "coral cook bar record about street worry eight rubber alpha betray sudden";
+var mnemonic = "odor address strong swarm whale erupt slide exotic game blood excuse rescue";

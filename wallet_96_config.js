@@ -1,1 +1,1 @@
-var mnemonic = "sound radar rural bread patrol dream arena twin primary stadium slab carry";
+var mnemonic = "first uncle bread task agree hour steel detect install kitten demise clap";
