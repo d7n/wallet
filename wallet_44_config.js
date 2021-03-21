@@ -1,1 +1,1 @@
-var mnemonic = "tuition carry pluck gap deny globe negative average genre defy various large";
+var mnemonic = "radar monster process clog maximum junior demand donkey auction feed tent afford";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety latin front toast alley library include sibling else column auction walnut";
+var mnemonic = "sound net mother book winner monster august head afraid neither patch tortoise";

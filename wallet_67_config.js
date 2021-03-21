@@ -1,1 +1,1 @@
-var mnemonic = "diary marriage wood obtain tonight add talent increase repair wisdom crane convince";
+var mnemonic = "initial mechanic parade change coast false alarm forward gaze account fury miracle";

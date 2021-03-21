@@ -1,1 +1,1 @@
-var mnemonic = "stairs sword wedding pupil security social future gasp cluster impose shove spare";
+var mnemonic = "door market wagon alone defy bomb decrease survey action shrimp lift struggle";

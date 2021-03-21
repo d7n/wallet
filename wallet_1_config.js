@@ -1,1 +1,1 @@
-var mnemonic = "bag loop predict slab rather leaf absurd dune mimic question board invest";
+var mnemonic = "expect explain unlock confirm body gain spider milk slot enlist entire discover";

@@ -1,1 +1,1 @@
-var mnemonic = "illness lift cute evil rose auto depend milk firm taxi process small";
+var mnemonic = "behave venue salad morning toddler fossil speak banner cat labor history unaware";

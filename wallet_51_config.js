@@ -1,1 +1,1 @@
-var mnemonic = "chair mother surge ice myth fiction athlete bottom fog episode ceiling bonus";
+var mnemonic = "output rule drink drift salad chase catalog mail village club oyster nature";

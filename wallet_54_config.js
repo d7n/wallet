@@ -1,1 +1,1 @@
-var mnemonic = "apology library carpet someone hole limit castle tonight royal peasant link waste";
+var mnemonic = "pulp save exact meadow cake aspect bright magnet attitude miss own fluid";

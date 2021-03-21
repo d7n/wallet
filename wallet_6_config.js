@@ -1,1 +1,1 @@
-var mnemonic = "mechanic praise smile crisp warrior check midnight sun unhappy pilot loud puzzle";
+var mnemonic = "sure embark harsh onion loop utility sure surface table faith monitor young";

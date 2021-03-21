@@ -1,1 +1,1 @@
-var mnemonic = "you top captain lumber album spider tag victory whisper chronic surge ostrich";
+var mnemonic = "theory robust below path strike flee broccoli shoe until winner pulse manual";

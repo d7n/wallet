@@ -1,1 +1,1 @@
-var mnemonic = "tip whip deer clean couple orchard brisk shield office hammer nose hammer";
+var mnemonic = "boil sketch theme oxygen beef topic scrub blossom grant vessel obvious client";

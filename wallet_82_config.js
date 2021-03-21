@@ -1,1 +1,1 @@
-var mnemonic = "awesome concert license december endless believe work learn dash tilt wrestle simple";
+var mnemonic = "grape also across timber advice vehicle wealth pig canvas toast manage transfer";

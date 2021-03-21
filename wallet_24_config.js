@@ -1,1 +1,1 @@
-var mnemonic = "now echo festival setup limb tobacco math now boil tribe cup draft";
+var mnemonic = "orange bonus absorb protect wild buffalo major damage ticket stairs nuclear issue";

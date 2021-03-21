@@ -1,1 +1,1 @@
-var mnemonic = "donkey kitchen envelope farm veteran faculty pledge roof dose leaf topple turn";
+var mnemonic = "stage casual reopen guess pen busy zoo coffee swift mail artist stove";

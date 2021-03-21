@@ -1,1 +1,1 @@
-var mnemonic = "steak trouble hybrid organ warrior lift casual spider say point reject similar";
+var mnemonic = "foil connect away proud firm symbol beauty purpose dynamic expire lake ask";

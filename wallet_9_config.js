@@ -1,1 +1,1 @@
-var mnemonic = "gossip pumpkin emerge today mammal comfort swap miracle catalog feature catalog ripple";
+var mnemonic = "energy staff educate excess shop empty tumble shove glove pole hover town";

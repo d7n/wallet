@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur empower sudden network slight ritual bulb tomato upper grass bunker enrich";
+var mnemonic = "reflect desk nothing gravity zebra cloth bargain lazy mango aerobic loud frost";

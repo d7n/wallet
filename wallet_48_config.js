@@ -1,1 +1,1 @@
-var mnemonic = "crawl dismiss endless hazard join chalk turkey river anchor ski cook wool";
+var mnemonic = "ill limb jaguar twelve nut orient topple garbage letter wreck mule admit";

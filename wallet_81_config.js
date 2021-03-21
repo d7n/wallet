@@ -1,1 +1,1 @@
-var mnemonic = "elbow note approve reopen analyst police catalog trigger pretty uphold venue silver";
+var mnemonic = "across mandate work crazy silent marriage toy remind anchor super stumble orbit";

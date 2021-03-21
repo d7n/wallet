@@ -1,1 +1,1 @@
-var mnemonic = "source tray spring learn use love goat outside common swarm guilt script";
+var mnemonic = "exit wear easy forget echo car riot owner list muscle broom flower";

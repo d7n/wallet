@@ -1,1 +1,1 @@
-var mnemonic = "snake hamster olive hedgehog convince author fold circle trap unaware rule travel";
+var mnemonic = "better claw language shell captain filter push vacant destroy rapid output runway";

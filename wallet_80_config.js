@@ -1,1 +1,1 @@
-var mnemonic = "busy pair anchor kitten doll anger chase tank decorate author insane basket";
+var mnemonic = "ability decrease cradle hour flame food enable blue off number throw nasty";

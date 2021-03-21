@@ -1,1 +1,1 @@
-var mnemonic = "muscle lunch dirt inform already grief calm that dial tooth cake banner";
+var mnemonic = "airport better figure exact sea knock concert august scrub just hill dynamic";

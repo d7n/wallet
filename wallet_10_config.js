@@ -1,1 +1,1 @@
-var mnemonic = "enact draw alert easily robot scatter random chair shop pipe nut opinion";
+var mnemonic = "fabric among doctor farm veteran trade outer choice stone tool stable sleep";

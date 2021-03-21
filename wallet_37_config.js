@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo fancy violin party degree half tonight post fan trouble flight hen";
+var mnemonic = "mystery tank dinosaur demise runway sand capable bacon bomb law alley nation";

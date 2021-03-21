@@ -1,1 +1,1 @@
-var mnemonic = "lava add verify never curious roof travel state sudden knock venue rural";
+var mnemonic = "coyote fury parrot toast glove switch exhaust tumble train shallow dirt evoke";

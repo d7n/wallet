@@ -1,1 +1,1 @@
-var mnemonic = "loud plug fade profit fade imitate twist apart shop joke cousin empower";
+var mnemonic = "describe multiply bright piano couch panda pudding fence quantum cradle assault three";

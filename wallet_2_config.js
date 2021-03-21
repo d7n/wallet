@@ -1,1 +1,1 @@
-var mnemonic = "census palace force comic impose stick song yard offer finish almost prepare";
+var mnemonic = "any always genre interest phone praise exclude acid deposit coconut delay chuckle";

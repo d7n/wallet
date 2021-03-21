@@ -1,1 +1,1 @@
-var mnemonic = "leaf fuel satisfy humble purchase subject swarm extend column negative clap infant";
+var mnemonic = "nasty clog syrup fuel violin coach monkey give rescue wear muffin long";

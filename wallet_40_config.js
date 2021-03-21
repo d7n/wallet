@@ -1,1 +1,1 @@
-var mnemonic = "yard submit faith actress kid trend cave way post crane junk bacon";
+var mnemonic = "omit uncover sad one cricket news update program daughter bomb ancient album";

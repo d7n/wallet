@@ -1,1 +1,1 @@
-var mnemonic = "feel unique normal flavor possible ask identify merge awesome bicycle holiday again";
+var mnemonic = "reveal season exit initial edit swarm print defy install argue inject hard";

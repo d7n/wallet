@@ -1,1 +1,1 @@
-var mnemonic = "rough decrease topple promote sunset rose skull shuffle trial tenant material help";
+var mnemonic = "old sausage giraffe during antenna bus episode zone master ride novel surface";

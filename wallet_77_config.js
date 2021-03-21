@@ -1,1 +1,1 @@
-var mnemonic = "busy travel skill tip stuff sniff aerobic step shop crowd crane assault";
+var mnemonic = "boat oblige paper good daughter young milk arrow timber impact rude wire";

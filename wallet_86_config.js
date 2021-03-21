@@ -1,1 +1,1 @@
-var mnemonic = "limit silly unknown kangaroo pluck rally train sing trim vendor raise repeat";
+var mnemonic = "habit patch canal tool deer run tide adult million circle summer similar";

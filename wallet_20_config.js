@@ -1,1 +1,1 @@
-var mnemonic = "clown rocket rule quarter praise cause busy rack fork olympic old drink";
+var mnemonic = "typical power kind wet slam monitor pilot engine trust squirrel orbit polar";

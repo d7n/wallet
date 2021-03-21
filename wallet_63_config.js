@@ -1,1 +1,1 @@
-var mnemonic = "weekend hockey siege provide great sun try evil merge village enemy dolphin";
+var mnemonic = "voyage quiz road arena number inmate kitchen cruise youth ski sure economy";

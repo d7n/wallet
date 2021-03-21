@@ -1,1 +1,1 @@
-var mnemonic = "travel rebuild mesh cake rose split kit maple wink casual tornado legal";
+var mnemonic = "pool custom dirt comfort tattoo party poet cloud ahead antique wrist wire";

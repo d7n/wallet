@@ -1,1 +1,1 @@
-var mnemonic = "general hidden foot often laptop equal walk reunion refuse juice quick century";
+var mnemonic = "first west enlist blind focus horse result knock skill father goddess receive";

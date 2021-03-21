@@ -1,1 +1,1 @@
-var mnemonic = "nurse stamp elder gold erupt chronic habit dynamic tomorrow good excuse when";
+var mnemonic = "fault friend kangaroo rain quiz giraffe coral snap cash wasp average squeeze";

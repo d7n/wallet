@@ -1,1 +1,1 @@
-var mnemonic = "future fade rebel oyster way prison good letter pulse subject turkey recycle";
+var mnemonic = "wash uniform orphan shy lucky party pudding diesel ability urban plunge oval";

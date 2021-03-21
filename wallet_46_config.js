@@ -1,1 +1,1 @@
-var mnemonic = "desk frequent parent weasel female fancy sick appear topple code push oil";
+var mnemonic = "act gasp across police burden receive among soap enough wealth bulk squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid faculty frequent still ball lock fever name apart flame north april";
+var mnemonic = "before exile pupil cliff spin skill present raccoon august topic cook weapon";

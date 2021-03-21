@@ -1,1 +1,1 @@
-var mnemonic = "drive math border jungle dad title attack october tomato water mule clap";
+var mnemonic = "cause quick mesh silly rigid phrase rubber behave wear always ritual job";

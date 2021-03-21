@@ -1,1 +1,1 @@
-var mnemonic = "equal lobster tobacco critic tonight false antique earth coffee concert sibling manage";
+var mnemonic = "marriage ritual what farm bonus swap front refuse cattle direct marine vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "funny lyrics uncle square seed snake broom minimum wire lock olympic property";
+var mnemonic = "mistake issue define grain nerve degree noise oven swift first disagree indicate";

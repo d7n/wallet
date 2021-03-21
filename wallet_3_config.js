@@ -1,1 +1,1 @@
-var mnemonic = "gadget dress capital pistol better gesture example later page pupil fury inquiry";
+var mnemonic = "cabin grocery marble cheap feature mix artist clarify hard angry pill mystery";

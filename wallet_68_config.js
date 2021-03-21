@@ -1,1 +1,1 @@
-var mnemonic = "large thing whale you hint drive egg brief couch pepper shift baby";
+var mnemonic = "maze train ostrich bundle twin ill custom prevent gallery sheriff affair service";

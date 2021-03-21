@@ -1,1 +1,1 @@
-var mnemonic = "liberty beyond idea again combine lady mass achieve easy purse giraffe home";
+var mnemonic = "risk pupil bridge motion slim give reject brief meadow favorite evil author";

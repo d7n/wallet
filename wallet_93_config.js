@@ -1,1 +1,1 @@
-var mnemonic = "snack census unveil north dice tell inmate slight please devote setup age";
+var mnemonic = "sound slow dial medal nut toddler zero deliver math winner people few";

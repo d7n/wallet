@@ -1,1 +1,1 @@
-var mnemonic = "photo rich monkey double blouse view elevator keep feel razor great torch";
+var mnemonic = "metal excite renew animal solar sorry exile wear orphan often ripple pepper";

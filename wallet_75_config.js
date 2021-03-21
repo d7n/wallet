@@ -1,1 +1,1 @@
-var mnemonic = "melody infant sugar marriage rookie climb tray vanish excite chest client green";
+var mnemonic = "chuckle manage enough extend panel planet board immune sing angry undo lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk deal hawk hunt absurd present behind protect silk torch garlic front";
+var mnemonic = "room poet main ecology enough pull clerk metal rain weather unknown rule";

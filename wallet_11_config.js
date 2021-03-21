@@ -1,1 +1,1 @@
-var mnemonic = "about win obtain taste predict sense fork vicious boat bulb remove noodle";
+var mnemonic = "team trend eternal demise jump neither pet clarify match piano minute rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "vote subject diagram pluck mirror canal main jazz congress indoor spot bottom";
+var mnemonic = "oxygen coach marriage fold evolve split pioneer aerobic spider bounce hood prevent";

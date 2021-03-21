@@ -1,1 +1,1 @@
-var mnemonic = "inch wheel various trend aim insect hurdle pledge balance result fox shy";
+var mnemonic = "diary clutch leopard please worth ozone noble priority clarify dutch stay menu";

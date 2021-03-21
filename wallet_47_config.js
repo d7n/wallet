@@ -1,1 +1,1 @@
-var mnemonic = "february assault vacant plunge edit predict mouse dizzy suggest cherry best rough";
+var mnemonic = "domain cable crunch kid bulk fuel shallow impose web burst short marriage";

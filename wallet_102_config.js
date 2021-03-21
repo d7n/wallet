@@ -1,1 +1,1 @@
-var mnemonic = "chat canoe tilt cool provide assault misery pause area rent guilt same";
+var mnemonic = "primary survey deputy crew powder marriage wait crack pride survey ensure museum";

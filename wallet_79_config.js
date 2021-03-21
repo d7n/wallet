@@ -1,1 +1,1 @@
-var mnemonic = "fever pony legal snack zone dentist uncle replace mercy stumble comic range";
+var mnemonic = "obvious push bean crater silly luxury kangaroo spice coin word meadow maple";

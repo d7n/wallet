@@ -1,1 +1,1 @@
-var mnemonic = "enhance essay height under aerobic forest happy gloom mule concert increase swear";
+var mnemonic = "snow uncover slice hunt bullet nasty furnace suspect goddess elevator derive donkey";

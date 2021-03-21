@@ -1,1 +1,1 @@
-var mnemonic = "term stand scale help affair wrist alert shallow refuse derive squirrel also";
+var mnemonic = "post come sunny bicycle odor distance fox ivory response scale pudding betray";

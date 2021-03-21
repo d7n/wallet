@@ -1,1 +1,1 @@
-var mnemonic = "cheese cattle smile card meat jungle room shoot blood foot indoor ask";
+var mnemonic = "whip viable inner cabin bless boat ball shine north cousin lift south";

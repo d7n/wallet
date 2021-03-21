@@ -1,1 +1,1 @@
-var mnemonic = "couch where topple green method visual topic crisp aware main naive firm";
+var mnemonic = "actor truck three bleak law eager reveal antenna fish play amused erosion";

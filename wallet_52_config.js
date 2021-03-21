@@ -1,1 +1,1 @@
-var mnemonic = "between same harsh casual diagram utility wash bird enemy achieve unknown other";
+var mnemonic = "same abstract wink lizard shuffle verify alone carbon pond borrow rookie cruel";

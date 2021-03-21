@@ -1,1 +1,1 @@
-var mnemonic = "music bacon warm walk hollow finger today kind breeze disorder orphan often";
+var mnemonic = "alley inherit suspect fee reason secret camp cost illness bread label second";

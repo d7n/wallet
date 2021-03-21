@@ -1,1 +1,1 @@
-var mnemonic = "board swift glow miss want input glance write gather tribe turn much";
+var mnemonic = "axis bitter pig option faculty seat thing ill age destroy topple horse";

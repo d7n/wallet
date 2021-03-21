@@ -1,1 +1,1 @@
-var mnemonic = "shy gym frog pilot brief stereo case betray kitchen proud pudding host";
+var mnemonic = "jealous gown increase situate lawsuit brass program nut laptop hollow library current";

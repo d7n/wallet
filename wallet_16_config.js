@@ -1,1 +1,1 @@
-var mnemonic = "current core comic monitor plastic visual enable escape horn trade mushroom flock";
+var mnemonic = "wrong depend beach hello mobile sadness grab live couch language bullet person";

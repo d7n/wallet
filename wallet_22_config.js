@@ -1,1 +1,1 @@
-var mnemonic = "grit few resource child surprise galaxy honey wedding stool asthma proud daring";
+var mnemonic = "safe dragon evidence twist vanish uniform tomato intact oval angry essay opera";

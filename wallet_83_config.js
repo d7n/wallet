@@ -1,1 +1,1 @@
-var mnemonic = "gift clay adapt museum blue aim crash goat voice chaos forest example";
+var mnemonic = "sentence black settle boat palace tooth unique giraffe monster open wash emerge";

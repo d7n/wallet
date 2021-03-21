@@ -1,1 +1,1 @@
-var mnemonic = "entry license unusual myth panther world awesome topic club owner domain forum";
+var mnemonic = "rural reflect credit bacon unfair flock increase wagon idea history minute enough";

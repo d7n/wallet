@@ -1,1 +1,1 @@
-var mnemonic = "game ignore artefact apology prepare similar oven social spread yellow claw affair";
+var mnemonic = "dilemma cage bind combine future diagram novel very fox stand glass powder";

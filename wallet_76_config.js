@@ -1,1 +1,1 @@
-var mnemonic = "ramp oppose jeans rebuild valley fly depth busy apple ready page furnace";
+var mnemonic = "become glide margin theme field box twelve delay begin crane eager refuse";

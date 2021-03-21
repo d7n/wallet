@@ -1,1 +1,1 @@
-var mnemonic = "purity curve base outdoor lesson point wall style plastic fabric kiss system";
+var mnemonic = "unaware glass rocket clerk menu anxiety force bracket soon load eager quantum";

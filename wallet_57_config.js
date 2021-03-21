@@ -1,1 +1,1 @@
-var mnemonic = "patient notice endorse have rhythm uncover clog scout delay warrior indoor warfare";
+var mnemonic = "frog helmet roast bag kind wait result anger gallery ethics claw total";

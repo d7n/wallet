@@ -1,1 +1,1 @@
-var mnemonic = "pool pottery nut donor impulse raccoon nurse adult direct legend fuel pig";
+var mnemonic = "suit remove stuff transfer crunch pattern cradle column mercy language industry fox";

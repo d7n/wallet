@@ -1,1 +1,1 @@
-var mnemonic = "address suit craft royal banana point grunt eagle girl dune power soccer";
+var mnemonic = "someone purpose loop blanket science early alpha blanket bike consider leisure crawl";

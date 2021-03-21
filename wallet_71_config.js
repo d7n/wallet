@@ -1,1 +1,1 @@
-var mnemonic = "steak system mimic business floor amused fox filter appear box bring music";
+var mnemonic = "sweet draft need essay foam vessel apple person bubble chase shoot convince";

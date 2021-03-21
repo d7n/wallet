@@ -1,1 +1,1 @@
-var mnemonic = "moon nest bar rally film winner enhance wet matrix arm critic suggest";
+var mnemonic = "bunker powder matter impulse tourist patrol upon bar credit useless junior general";

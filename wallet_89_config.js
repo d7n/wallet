@@ -1,1 +1,1 @@
-var mnemonic = "protect false crunch code sheriff ivory midnight police comfort excite amused repair";
+var mnemonic = "custom unique vague vibrant neck rhythm witness model shift junk comfort limit";

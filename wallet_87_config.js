@@ -1,1 +1,1 @@
-var mnemonic = "cattle matter develop notable stay yellow saddle labor flush party embody snack";
+var mnemonic = "math save absorb carry switch taste original payment pony upon real cycle";

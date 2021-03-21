@@ -1,1 +1,1 @@
-var mnemonic = "token civil quote elevator gold tiny taxi attitude neglect mixed fat join";
+var mnemonic = "reject window electric scissors art object polar collect rescue wet tone twice";

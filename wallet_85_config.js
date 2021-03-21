@@ -1,1 +1,1 @@
-var mnemonic = "snow pioneer lucky start sheriff hockey gift type sphere capital genre smoke";
+var mnemonic = "hundred sell opinion panther cruise strong hold uncover dial lady artwork bicycle";

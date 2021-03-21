@@ -1,1 +1,1 @@
-var mnemonic = "mango inch indoor shell tooth nothing slab setup help square choose dove";
+var mnemonic = "isolate okay bitter raccoon model cruise hybrid noise devote dumb vehicle uncle";

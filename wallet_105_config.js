@@ -1,1 +1,1 @@
-var mnemonic = "tool share old twist toward copper catch industry erode vapor accuse fire";
+var mnemonic = "cute battle soap nose crew wonder name size scheme exchange viable banana";
