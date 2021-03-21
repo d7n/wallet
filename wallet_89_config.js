@@ -1,1 +1,1 @@
-var mnemonic = "jungle finish license attend dress base nature drive steak afraid true antenna";
+var mnemonic = "leaf actual author habit lift rude exhibit stadium chunk cause farm shell";

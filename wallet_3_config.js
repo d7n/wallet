@@ -1,1 +1,1 @@
-var mnemonic = "afford guess tail goose dial distance change shiver sketch route shiver job";
+var mnemonic = "trophy dinner certain reduce decline clump giraffe inhale quiz trumpet truth cruise";

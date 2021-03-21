@@ -1,1 +1,1 @@
-var mnemonic = "consider smart maximum song security spider crucial velvet spice virtual clever flag";
+var mnemonic = "cube mother ozone celery purse possible verify coin truth height demand wall";

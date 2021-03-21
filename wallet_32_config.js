@@ -1,1 +1,1 @@
-var mnemonic = "more forget tag sweet defy risk patient steel old future twenty property";
+var mnemonic = "orange income lion creek grace aerobic teach manual stomach nice vessel limb";

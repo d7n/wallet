@@ -1,1 +1,1 @@
-var mnemonic = "trophy pave caution symptom maximum gentle history evolve husband pet caught now";
+var mnemonic = "fiscal rifle regret spend split local bind goddess mushroom east cabbage display";

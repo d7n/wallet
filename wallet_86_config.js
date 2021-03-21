@@ -1,1 +1,1 @@
-var mnemonic = "hold primary forum wide wave common aerobic leg minute nation salmon waste";
+var mnemonic = "oven auto famous concert clever march peasant liberty arctic whip cause plastic";

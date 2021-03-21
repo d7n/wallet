@@ -1,1 +1,1 @@
-var mnemonic = "dizzy enjoy credit unable where run butter carpet jungle settle fix van";
+var mnemonic = "dwarf price divide ensure barrel treat when churn skull lens tool antenna";

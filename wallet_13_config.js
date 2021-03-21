@@ -1,1 +1,1 @@
-var mnemonic = "case leader head nominee choice much over fantasy invest tornado explain health";
+var mnemonic = "fever critic case provide fox dance inside federal man arrest gap circle";

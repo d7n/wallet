@@ -1,1 +1,1 @@
-var mnemonic = "snack recall must alone narrow cause father ozone stomach honey follow anxiety";
+var mnemonic = "deer apple rice view borrow wisdom misery sphere steel cabbage meat fit";

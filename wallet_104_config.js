@@ -1,1 +1,1 @@
-var mnemonic = "among minute secret soldier wink cousin viable oval gasp health first frost";
+var mnemonic = "pet matrix manual wolf small meadow burst table miss desk rapid rigid";

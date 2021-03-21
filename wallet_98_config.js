@@ -1,1 +1,1 @@
-var mnemonic = "dignity curve cry excite camp hollow pioneer razor roast trend name lizard";
+var mnemonic = "normal neither diesel winner husband copper oil struggle slot bottom major control";

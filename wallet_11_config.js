@@ -1,1 +1,1 @@
-var mnemonic = "ill remove party essence genuine cheap smooth satoshi foot warm cage table";
+var mnemonic = "level jump beef naive ribbon jar page stay accuse recipe small price";

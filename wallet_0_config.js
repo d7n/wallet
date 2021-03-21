@@ -1,1 +1,1 @@
-var mnemonic = "wolf inflict dizzy laugh loyal flame early auction task prize hip slim";
+var mnemonic = "just dinner behave dragon shed saddle alien chase fly waste brick wise";

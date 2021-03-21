@@ -1,1 +1,1 @@
-var mnemonic = "mesh acid occur gun diamond timber proof body easy borrow among depend";
+var mnemonic = "another food sick husband tomato exit measure frog kitten hat denial torch";

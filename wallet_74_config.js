@@ -1,1 +1,1 @@
-var mnemonic = "citizen rely autumn history scene ladder dose topple crucial useless direct idea";
+var mnemonic = "book mandate increase purpose veteran belt member cheese core siege shrimp minimum";

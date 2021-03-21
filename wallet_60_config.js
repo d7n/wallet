@@ -1,1 +1,1 @@
-var mnemonic = "morning recall task adapt gate bulk mountain crouch supply major lemon admit";
+var mnemonic = "monster chat love cram maid spirit clutch thrive pride recipe require grass";

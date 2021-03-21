@@ -1,1 +1,1 @@
-var mnemonic = "lend dice alone melt recycle unfold feel island seminar review olive leg";
+var mnemonic = "leg walnut moral wasp brief level clerk boat aware suspect planet duty";

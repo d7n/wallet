@@ -1,1 +1,1 @@
-var mnemonic = "burger state away casual parade first sleep bitter identify deal injury month";
+var mnemonic = "piece neck youth harvest mask rich churn panic cattle deputy report initial";

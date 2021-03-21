@@ -1,1 +1,1 @@
-var mnemonic = "feed early endless envelope deny supply destroy degree mention upset sort home";
+var mnemonic = "divert wolf panic fish siren spring goat grief ask old world ugly";

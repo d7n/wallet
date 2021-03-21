@@ -1,1 +1,1 @@
-var mnemonic = "spider grit unaware harvest dizzy middle service lake barely shrimp harbor evidence";
+var mnemonic = "airport hockey mushroom odor shallow warfare season peanut badge nothing season oak";

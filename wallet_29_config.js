@@ -1,1 +1,1 @@
-var mnemonic = "become path inherit away phone true lunch gun universe robot advance myself";
+var mnemonic = "pull second robot twist shock ripple transfer avoid govern soap sentence crush";

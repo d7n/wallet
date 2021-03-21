@@ -1,1 +1,1 @@
-var mnemonic = "brown arena gasp client jump because cattle atom drum silent below armor";
+var mnemonic = "youth crucial skill kick catalog spoil era zebra affair squirrel salon horror";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild work mirror course inmate short bag turkey dismiss become pigeon tattoo";
+var mnemonic = "often genre baby employ polar pretty miracle knock slush ladder rent good";

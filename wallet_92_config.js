@@ -1,1 +1,1 @@
-var mnemonic = "actress weekend wood sock mobile alcohol monkey select feed portion help leg";
+var mnemonic = "nasty hedgehog shy hybrid harbor pioneer toast violin broccoli crime stomach example";

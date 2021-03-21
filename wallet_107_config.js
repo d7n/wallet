@@ -1,1 +1,1 @@
-var mnemonic = "trade party place canvas poverty law wheat fee total glue mountain country";
+var mnemonic = "truck teach kit year tell place round crowd carpet pioneer chronic section";

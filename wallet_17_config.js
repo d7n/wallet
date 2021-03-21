@@ -1,1 +1,1 @@
-var mnemonic = "people main submit actor lobster own sleep spare net tonight door moment";
+var mnemonic = "hurdle joke cook balcony twist inch together senior survey stick virtual million";

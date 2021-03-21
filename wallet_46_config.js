@@ -1,1 +1,1 @@
-var mnemonic = "scorpion milk bread sphere cradle myself alarm hint aim hammer rough attitude";
+var mnemonic = "spot enlist ethics amount rack gun scrap ramp zebra spray advice remain";

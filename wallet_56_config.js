@@ -1,1 +1,1 @@
-var mnemonic = "grit grit accuse birth captain journey citizen farm assist genuine buzz lava";
+var mnemonic = "scan sing winner rifle grow float very grow endless battle music profit";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake clock prepare twenty uncle hurdle athlete afraid puppy verb critic clay";
+var mnemonic = "couch case motor glue world market sight grief garlic rug off border";

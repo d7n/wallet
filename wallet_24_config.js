@@ -1,1 +1,1 @@
-var mnemonic = "include inner bone boss chimney stumble wood road suggest slam decrease obey";
+var mnemonic = "hamster arm turn shoot scrub monkey olive crowd possible reward half sense";

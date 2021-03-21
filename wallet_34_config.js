@@ -1,1 +1,1 @@
-var mnemonic = "math front mesh shaft slim circle badge push omit fruit inhale letter";
+var mnemonic = "initial wear pudding guitar bless spoil whisper umbrella limb green square sister";

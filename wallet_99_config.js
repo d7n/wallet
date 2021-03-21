@@ -1,1 +1,1 @@
-var mnemonic = "broken humble assume choice kidney onion return key spy shine swim current";
+var mnemonic = "team tongue apology nominee emerge tumble weekend orbit indoor economy print cheap";

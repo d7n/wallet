@@ -1,1 +1,1 @@
-var mnemonic = "mirror reflect matrix feature alpha head click shield sketch orbit lunar brain";
+var mnemonic = "report economy cloud bitter design master ostrich host talent dismiss damage giant";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican lamp camp box imitate empower open limit cancel brick enact giggle";
+var mnemonic = "print vacant palace snake stairs affair toast hole shadow mercy memory copy";

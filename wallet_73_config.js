@@ -1,1 +1,1 @@
-var mnemonic = "meadow pledge pony chalk gaze home monkey earn learn film achieve blanket";
+var mnemonic = "plunge cement grief quick pioneer boy tape nerve lizard burger grocery coin";

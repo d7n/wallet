@@ -1,1 +1,1 @@
-var mnemonic = "much loud drive girl light job saddle wash hint region bread exchange";
+var mnemonic = "boat bridge assist fiber shield unit reject risk slab style bid coach";

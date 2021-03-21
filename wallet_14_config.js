@@ -1,1 +1,1 @@
-var mnemonic = "hurry whisper orient burden depend turkey long cart symbol mechanic myth legend";
+var mnemonic = "symbol mirror key kingdom begin drastic ranch ice fault deputy pool hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve purpose autumn industry buffalo bird stay grass fashion stamp barely sudden";
+var mnemonic = "oyster session pink embrace sting mirror biology grab prosper coin absurd cause";

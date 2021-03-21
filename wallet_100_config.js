@@ -1,1 +1,1 @@
-var mnemonic = "rather gather badge raw bulk pumpkin clean remain grid issue horse giggle";
+var mnemonic = "parrot pupil dwarf lady tortoise hood sorry average trouble green runway satoshi";

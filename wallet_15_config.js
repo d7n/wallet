@@ -1,1 +1,1 @@
-var mnemonic = "swallow what galaxy code detect bundle lava start library air ability apart";
+var mnemonic = "bullet tip soon party siege pride minimum sorry dinner illness cradle mansion";

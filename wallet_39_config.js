@@ -1,1 +1,1 @@
-var mnemonic = "gather robust tragic frozen artist huge fox disagree soup flag sting cluster";
+var mnemonic = "cement leopard carry desert cricket main abuse spirit olympic shell toy truth";

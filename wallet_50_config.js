@@ -1,1 +1,1 @@
-var mnemonic = "output robust pitch smoke dash vibrant banner giant empower valve ball supreme";
+var mnemonic = "glory pumpkin bicycle grow security abandon author invite provide all sudden claw";

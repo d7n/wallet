@@ -1,1 +1,1 @@
-var mnemonic = "mercy acoustic bike rich disease will answer pioneer crumble bind imitate ignore";
+var mnemonic = "female monkey logic final glow ordinary cricket draft sweet patrol arctic belt";

@@ -1,1 +1,1 @@
-var mnemonic = "almost never drop nation easily trade clinic happy peace stomach devote urge";
+var mnemonic = "twin judge more problem observe size purse fluid lecture impose scissors enforce";

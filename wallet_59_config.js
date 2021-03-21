@@ -1,1 +1,1 @@
-var mnemonic = "moon day law range carry differ marine blur accident transfer mushroom violin";
+var mnemonic = "praise theme ill weapon disagree kiss suggest skirt about miss coast cliff";

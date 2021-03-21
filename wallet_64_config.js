@@ -1,1 +1,1 @@
-var mnemonic = "sudden length rather wreck you vehicle mistake pencil faint gauge mule laundry";
+var mnemonic = "movie frozen soul ritual assume saddle disagree attitude rule network deposit company";

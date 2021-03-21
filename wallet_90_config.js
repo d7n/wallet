@@ -1,1 +1,1 @@
-var mnemonic = "aspect olive mutual music juice antenna finger sausage long remove grit shy";
+var mnemonic = "ice trim embark buzz cause census swallow feature mechanic retire bacon screen";

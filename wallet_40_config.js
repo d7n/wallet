@@ -1,1 +1,1 @@
-var mnemonic = "toward actor size cloud kind guess paper industry slam denial ordinary defense";
+var mnemonic = "wheel arrest pyramid mean edit shield benefit bar flame beach brush anchor";

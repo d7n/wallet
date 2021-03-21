@@ -1,1 +1,1 @@
-var mnemonic = "trophy enhance eternal glimpse congress example sting badge between reason cannon size";
+var mnemonic = "umbrella access album grass retreat cheap rookie coach diamond document profit hungry";

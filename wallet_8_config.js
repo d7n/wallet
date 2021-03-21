@@ -1,1 +1,1 @@
-var mnemonic = "near west attitude wire right outside tail provide fall mercy moral trophy";
+var mnemonic = "cash trap jacket correct swallow relax actual goat buddy patch advice minimum";

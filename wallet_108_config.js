@@ -1,1 +1,1 @@
-var mnemonic = "skill oak meadow vault exhaust stone rate february aware panic horse sting";
+var mnemonic = "wood body garage tissue popular joy mushroom fold paddle side diamond street";

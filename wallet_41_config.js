@@ -1,1 +1,1 @@
-var mnemonic = "spy shallow vessel attack exchange diet sister harbor husband belt annual lottery";
+var mnemonic = "degree erase guard time obtain else bird shove name salute impulse inspire";

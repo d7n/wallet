@@ -1,1 +1,1 @@
-var mnemonic = "dune wheel leave travel arrest frequent piano double effort swim switch grocery";
+var mnemonic = "twelve reject trumpet robust ecology beauty damp fog liar top breeze purchase";

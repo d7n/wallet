@@ -1,1 +1,1 @@
-var mnemonic = "twin weasel toe pulp spell hurt staff banner always settle disagree minimum";
+var mnemonic = "sheriff online gaze stomach hybrid science annual ostrich guilt grid amused carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "practice risk nut present install foil network hurdle burst degree innocent brass";
+var mnemonic = "ready february weather siren close picnic earth empower high north remember erosion";

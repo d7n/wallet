@@ -1,1 +1,1 @@
-var mnemonic = "skill aware sign anchor urge toddler april marble claim reunion muffin swap";
+var mnemonic = "mule join perfect child orbit display release jewel stereo join cake provide";

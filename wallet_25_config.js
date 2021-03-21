@@ -1,1 +1,1 @@
-var mnemonic = "essence birth sail road gown allow dish all choose powder creek battle";
+var mnemonic = "hidden submit call secret wash other sheriff ordinary snow smile bicycle receive";

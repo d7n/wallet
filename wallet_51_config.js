@@ -1,1 +1,1 @@
-var mnemonic = "trash basket energy canal asthma river ahead surprise glad south essence wild";
+var mnemonic = "blade sing winner old involve brick club clinic strong main sugar shoot";

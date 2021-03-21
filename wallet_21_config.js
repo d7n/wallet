@@ -1,1 +1,1 @@
-var mnemonic = "yard broccoli off pigeon material arch elite rail exit occur auto across";
+var mnemonic = "student divorce silly manage state kick neutral latin situate this prison search";

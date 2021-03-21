@@ -1,1 +1,1 @@
-var mnemonic = "drive behave large someone belt disease avocado round venue retreat length crawl";
+var mnemonic = "tool roast coffee scale ritual team weasel idle stock sample usual obey";

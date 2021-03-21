@@ -1,1 +1,1 @@
-var mnemonic = "table science pool crush brisk list gesture run giggle daughter master flush";
+var mnemonic = "join genre swear illegal object bonus sentence later twin pumpkin yellow evolve";

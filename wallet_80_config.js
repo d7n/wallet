@@ -1,1 +1,1 @@
-var mnemonic = "tube govern aerobic expect spike chapter uncover game extend element visit issue";
+var mnemonic = "slam vital accuse hockey blossom spray seed immense broken link elegant erase";

@@ -1,1 +1,1 @@
-var mnemonic = "secret off worth disease actor scale marriage uncle tail attitude super flip";
+var mnemonic = "sniff poverty stuff urban spider wreck change grape crack proof fatigue because";

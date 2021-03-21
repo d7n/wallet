@@ -1,1 +1,1 @@
-var mnemonic = "nephew opinion deny scrap valley ethics walnut guitar enroll snack divert check";
+var mnemonic = "basket sell agent april grant print better leaf horn park letter crush";

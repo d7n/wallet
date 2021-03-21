@@ -1,1 +1,1 @@
-var mnemonic = "animal ocean supreme arrive diary chase fly worth develop scan suffer upgrade";
+var mnemonic = "elephant tape amused boost lunar fluid gate replace ball miracle valid fatigue";

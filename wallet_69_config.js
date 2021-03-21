@@ -1,1 +1,1 @@
-var mnemonic = "nothing grow mushroom vital lift judge real trim random claim era hungry";
+var mnemonic = "project couple awake taste elbow wreck clown settle visual total december toy";

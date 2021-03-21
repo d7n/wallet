@@ -1,1 +1,1 @@
-var mnemonic = "body car round involve wash rookie dish goat indoor about nerve business";
+var mnemonic = "turtle develop notable rely rebuild will betray rely control crazy pond distance";

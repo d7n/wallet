@@ -1,1 +1,1 @@
-var mnemonic = "ostrich mouse rookie close side ribbon inch cousin wisdom butter time cart";
+var mnemonic = "setup lab kidney club gauge bracket mobile spring survey install crime inner";

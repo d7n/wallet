@@ -1,1 +1,1 @@
-var mnemonic = "remove kangaroo social crush list eternal village among remove coast breeze dignity";
+var mnemonic = "promote crew october broom edit cloud february nest predict fresh maximum tennis";

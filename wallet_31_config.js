@@ -1,1 +1,1 @@
-var mnemonic = "above october uncover across charge target trumpet october pupil lumber child east";
+var mnemonic = "peanut identify ridge nephew million face awful pulse eight box scorpion stand";

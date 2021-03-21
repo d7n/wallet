@@ -1,1 +1,1 @@
-var mnemonic = "assume coffee isolate turn day april egg virtual easily tone gentle raw";
+var mnemonic = "fuel divorce purity spend loyal bracket hurt unknown rubber page reject vast";

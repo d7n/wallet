@@ -1,1 +1,1 @@
-var mnemonic = "rifle roast home kiwi shrimp damage good dirt sign never cousin garbage";
+var mnemonic = "script symptom picnic like yellow grid regret butter tackle pudding duty mercy";

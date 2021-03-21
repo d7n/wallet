@@ -1,1 +1,1 @@
-var mnemonic = "caution outdoor puzzle pelican guilt spawn wire room fade accuse nephew swarm";
+var mnemonic = "execute crystal seat primary scrub diet deny run group person venue eight";

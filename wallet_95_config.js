@@ -1,1 +1,1 @@
-var mnemonic = "course stone aspect saddle help square stadium aerobic document yellow patient champion";
+var mnemonic = "electric reject peace elite canvas bargain shadow parrot fog uphold party pair";

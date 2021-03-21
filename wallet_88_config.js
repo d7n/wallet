@@ -1,1 +1,1 @@
-var mnemonic = "vintage chunk silk code minor peace mobile list attitude settle neck video";
+var mnemonic = "solar repair desert cluster thank joke upon radio office innocent limb child";

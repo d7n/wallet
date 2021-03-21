@@ -1,1 +1,1 @@
-var mnemonic = "poet slogan injury best elder space trust agree water buddy swamp dynamic";
+var mnemonic = "dynamic later potato laugh nephew general switch clap business cheese original eagle";

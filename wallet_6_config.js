@@ -1,1 +1,1 @@
-var mnemonic = "lucky check toilet immune bicycle radar limb scale admit special essence basic";
+var mnemonic = "vapor inflict room century audit present outside detect spot cheese virtual concert";

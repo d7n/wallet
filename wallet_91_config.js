@@ -1,1 +1,1 @@
-var mnemonic = "rude north voice daughter involve doctor cannon expand salute entry list item";
+var mnemonic = "celery until argue maple under behind marble tongue object picnic civil air";

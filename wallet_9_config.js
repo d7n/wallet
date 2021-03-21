@@ -1,1 +1,1 @@
-var mnemonic = "control indicate whale sing damp sphere gloom waste wheel fox decade brief";
+var mnemonic = "away loyal merge boy truck whip puppy way river math voyage cement";

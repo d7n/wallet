@@ -1,1 +1,1 @@
-var mnemonic = "normal seat carbon raw lonely panther harsh top school anger skin annual";
+var mnemonic = "visit demise scout oak attitude coast tank insane silk rough trial ball";

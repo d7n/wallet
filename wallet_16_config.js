@@ -1,1 +1,1 @@
-var mnemonic = "august puzzle seminar bargain cross diagram prefer indoor rubber battle enough purse";
+var mnemonic = "vicious onion shoulder unveil during ball boost casual insect embark enjoy place";

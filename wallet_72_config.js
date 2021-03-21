@@ -1,1 +1,1 @@
-var mnemonic = "pact survey front chunk fix camera alarm merry siege party corn trust";
+var mnemonic = "measure clap fish orange play raccoon achieve excuse torch lunch thumb chaos";

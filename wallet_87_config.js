@@ -1,1 +1,1 @@
-var mnemonic = "salute coconut lion episode clutch output they ivory cart clap stand leisure";
+var mnemonic = "ordinary express staff paper icon early inner cabin blame still problem organ";

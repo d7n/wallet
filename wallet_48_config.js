@@ -1,1 +1,1 @@
-var mnemonic = "assume weird detect pig giggle survey bamboo where use trip theory foam";
+var mnemonic = "another have common vote drum skull achieve next false screen biology school";

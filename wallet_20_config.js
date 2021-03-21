@@ -1,1 +1,1 @@
-var mnemonic = "staff aware unhappy erase debate banner square clip pelican month soup umbrella";
+var mnemonic = "inside result spoil mansion athlete else have state security phrase six true";

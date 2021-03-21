@@ -1,1 +1,1 @@
-var mnemonic = "enable pledge acoustic ivory exotic evolve stock seek woman convince style fine";
+var mnemonic = "quality because silly sea olive result symbol clip huge doctor lawsuit humor";

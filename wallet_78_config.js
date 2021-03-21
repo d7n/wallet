@@ -1,1 +1,1 @@
-var mnemonic = "company nose clean correct cinnamon galaxy error under hub stereo drastic relax";
+var mnemonic = "cream motor foster weapon cupboard will require unit atom control govern evil";

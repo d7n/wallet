@@ -1,1 +1,1 @@
-var mnemonic = "unable scout pact visual effort faint toss material mushroom tip end daring";
+var mnemonic = "onion another income type ginger equip chat bleak burden album flash crane";

@@ -1,1 +1,1 @@
-var mnemonic = "fly fruit twist method into flag lady orphan beauty identify own album";
+var mnemonic = "laptop seat pilot ocean check negative sudden tackle wasp address pizza job";

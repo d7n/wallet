@@ -1,1 +1,1 @@
-var mnemonic = "boss rack judge wear slight gas butter lizard erupt illness add brick";
+var mnemonic = "claim almost neck sun trick indicate size trust extend bread grass apology";

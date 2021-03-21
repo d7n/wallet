@@ -1,1 +1,1 @@
-var mnemonic = "dress steel spell amount roast place wedding inherit where luggage globe describe";
+var mnemonic = "system egg clay act bounce high album violin coast shock upset snake";
