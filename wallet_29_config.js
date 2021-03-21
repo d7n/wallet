@@ -1,1 +1,1 @@
-var mnemonic = "hammer vault insect pilot plate hungry correct mouse tail behave acoustic gaze";
+var mnemonic = "trip song sauce narrow vapor upon town when wash approve satisfy balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "glare retreat solar inherit inform raven sad join obey leopard cushion elbow";
+var mnemonic = "make clock bright elite light canyon cactus dawn soft dutch fever slow";

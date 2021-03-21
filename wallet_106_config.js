@@ -1,1 +1,1 @@
-var mnemonic = "glance angry tonight announce skate seven safe grocery hill attend add segment";
+var mnemonic = "wing order insect also better jacket hire rigid parrot grant door sell";

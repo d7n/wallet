@@ -1,1 +1,1 @@
-var mnemonic = "supreme cactus repair hat race quality stage bullet later leave push pilot";
+var mnemonic = "town able rice stuff moment easily matter risk rebuild boost welcome trim";

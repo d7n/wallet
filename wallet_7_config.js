@@ -1,1 +1,1 @@
-var mnemonic = "stand section plug try hint safe cereal column carbon oyster act super";
+var mnemonic = "stadium nothing rival firm increase critic width rare cigar undo addict seven";

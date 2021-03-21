@@ -1,1 +1,1 @@
-var mnemonic = "foil smoke chest divorce holiday guitar agent wish opera frozen crack voice";
+var mnemonic = "end couch venue idle agent crazy bulk tackle globe horse sorry crunch";

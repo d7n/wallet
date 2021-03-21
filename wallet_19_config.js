@@ -1,1 +1,1 @@
-var mnemonic = "grow silent shoot scare total milk injury snap maze release tooth order";
+var mnemonic = "laptop saddle core coin library juice foot medal card praise online march";

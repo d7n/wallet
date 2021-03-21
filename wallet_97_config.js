@@ -1,1 +1,1 @@
-var mnemonic = "empty admit real virus myself twist mosquito session mean sniff athlete upper";
+var mnemonic = "foot vintage excite stick vicious recycle garden west blush focus merit orbit";

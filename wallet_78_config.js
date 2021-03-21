@@ -1,1 +1,1 @@
-var mnemonic = "question violin attitude latin reduce tenant innocent cup asthma find home man";
+var mnemonic = "velvet west all release drum dolphin become other enough exist fetch mixed";

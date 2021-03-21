@@ -1,1 +1,1 @@
-var mnemonic = "fashion state raven diagram olympic solid ankle chronic donor shed glory unusual";
+var mnemonic = "pool fat phrase fabric glass girl submit swear hobby guitar trend clerk";

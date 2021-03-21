@@ -1,1 +1,1 @@
-var mnemonic = "all tomorrow meat boat gauge fever stable much abandon mansion call heavy";
+var mnemonic = "dizzy company monitor bunker easy script evolve noodle eagle stadium discover fiber";

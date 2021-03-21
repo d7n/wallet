@@ -1,1 +1,1 @@
-var mnemonic = "manage kick grace dog snow region message eyebrow permit dinner match runway";
+var mnemonic = "adult birth rhythm fit live eager that much usual worry hollow hello";

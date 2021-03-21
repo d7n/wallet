@@ -1,1 +1,1 @@
-var mnemonic = "account betray unaware nerve hidden trial member gesture fence tenant scale carry";
+var mnemonic = "tail recycle fancy ship addict wrestle seat reward choice symptom card brief";

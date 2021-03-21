@@ -1,1 +1,1 @@
-var mnemonic = "talent twice venture cheap pass sign camp illness cushion debris spread today";
+var mnemonic = "output duck short patch panther clerk powder glory twice flat special open";

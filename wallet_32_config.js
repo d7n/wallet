@@ -1,1 +1,1 @@
-var mnemonic = "connect access dilemma gift melody opera grit mushroom million hand enroll sight";
+var mnemonic = "own position remove vacant wrong green clap trade wonder umbrella steel frost";

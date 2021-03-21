@@ -1,1 +1,1 @@
-var mnemonic = "solve riot spy enhance cousin nephew cruel village machine icon slice one";
+var mnemonic = "blue sing gown mammal license profit eight crush noodle card merge combine";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy unfold nephew amateur elbow used oval state sphere outside summer because";
+var mnemonic = "rich mansion ghost abuse atom pencil result grace cake guess torch virtual";

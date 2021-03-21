@@ -1,1 +1,1 @@
-var mnemonic = "party rug fitness nuclear anchor wonder coast round wash asthma across sudden";
+var mnemonic = "rapid response label critic salmon accident zoo screen spirit decrease help fish";

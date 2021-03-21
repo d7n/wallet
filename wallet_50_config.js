@@ -1,1 +1,1 @@
-var mnemonic = "inherit siren teach weird spy rose turkey eyebrow junk repeat foot hazard";
+var mnemonic = "either hole drink boost crisp meat tower equal action brave urban recycle";

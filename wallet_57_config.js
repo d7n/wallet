@@ -1,1 +1,1 @@
-var mnemonic = "amount inject parrot wait will shield supply wink chuckle sign alone super";
+var mnemonic = "large limb busy bubble report sick tackle spot project extra where social";

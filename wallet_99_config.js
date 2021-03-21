@@ -1,1 +1,1 @@
-var mnemonic = "shiver stumble neither sudden craft surge transfer asthma supply dismiss penalty kit";
+var mnemonic = "dignity invite sight fan spot lend lava paddle citizen copy couple velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry dog pet lawn piece tribe dad behave animal athlete pond bachelor";
+var mnemonic = "panda favorite fault wing rally fog visa sure cruise mention oven winner";

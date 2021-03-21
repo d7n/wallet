@@ -1,1 +1,1 @@
-var mnemonic = "now attack shoe valley lady choose general also flag shrimp reward boil";
+var mnemonic = "tank horror mansion else credit beyond treat panic solve dose goose lava";

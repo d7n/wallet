@@ -1,1 +1,1 @@
-var mnemonic = "advance awful planet track position unit cycle perfect unique fish congress arrow";
+var mnemonic = "figure sleep twice sauce swing attend unfold pattern wash deal report bone";

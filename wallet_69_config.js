@@ -1,1 +1,1 @@
-var mnemonic = "surprise jacket cause material torch surround quit profit tired soon then dwarf";
+var mnemonic = "endorse fitness ethics praise chaos method rough shuffle salmon march thunder stem";

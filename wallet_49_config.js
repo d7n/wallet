@@ -1,1 +1,1 @@
-var mnemonic = "dwarf various nice youth space episode idea supreme avocado pen cactus oppose";
+var mnemonic = "asset trust people spell lobster charge ladder ski tackle logic jump earn";

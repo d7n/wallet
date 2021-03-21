@@ -1,1 +1,1 @@
-var mnemonic = "frozen uniform blast symptom warfare struggle frequent tattoo jewel absurd increase side";
+var mnemonic = "garden hire adult acquire typical assume vote ball want badge robust practice";

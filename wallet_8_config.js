@@ -1,1 +1,1 @@
-var mnemonic = "moment tank caution style found tired fatal pretty note cluster stuff argue";
+var mnemonic = "have night injury agent save daughter autumn retreat move ensure mystery guess";

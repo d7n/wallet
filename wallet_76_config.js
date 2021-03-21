@@ -1,1 +1,1 @@
-var mnemonic = "climb fame game travel before mirror forward agree canvas lunch pilot snow";
+var mnemonic = "blood cave window frame spell beach protect awkward olive thunder danger lizard";

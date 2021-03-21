@@ -1,1 +1,1 @@
-var mnemonic = "ramp arena useful connect script perfect era travel milk typical kid beach";
+var mnemonic = "glory hard hint logic frog decorate acquire orchard net network riot embrace";

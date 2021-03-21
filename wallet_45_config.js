@@ -1,1 +1,1 @@
-var mnemonic = "drift inquiry purse course deny multiply amount crash oven solution genre apple";
+var mnemonic = "any congress once script evidence region police victory game potato name tomorrow";

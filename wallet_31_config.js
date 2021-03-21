@@ -1,1 +1,1 @@
-var mnemonic = "effort frost twin tourist issue rubber length laundry gossip beef solid venue";
+var mnemonic = "nasty orphan burst park alpha embrace collect heavy current gauge excite mean";

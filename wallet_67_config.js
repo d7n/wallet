@@ -1,1 +1,1 @@
-var mnemonic = "opera place enlist direct brass uncover adjust pill faculty similar island step";
+var mnemonic = "faculty expire soldier birth usage horse select poet pave jelly neglect maze";

@@ -1,1 +1,1 @@
-var mnemonic = "special race stamp current enjoy mandate another device vote lift accuse impulse";
+var mnemonic = "coin digital basic embrace resemble toe home season mule list castle loop";

@@ -1,1 +1,1 @@
-var mnemonic = "water surge bind push fatal drill genius warrior until evolve raise debris";
+var mnemonic = "blanket soup hedgehog search upper indoor tunnel elegant cinnamon fault when trap";

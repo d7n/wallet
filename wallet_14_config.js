@@ -1,1 +1,1 @@
-var mnemonic = "task special clinic chuckle solution cherry practice valley divorce feature humble impact";
+var mnemonic = "theme inmate moment model kick bundle test divide champion chair holiday trial";

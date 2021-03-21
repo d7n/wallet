@@ -1,1 +1,1 @@
-var mnemonic = "wrestle slide case blue vanish arrow truth virtual section swim lamp coach";
+var mnemonic = "fire page notable smooth play proud one whisper clean piano spare online";

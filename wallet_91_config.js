@@ -1,1 +1,1 @@
-var mnemonic = "honey kidney innocent box frame merit mango square senior aunt into cross";
+var mnemonic = "arrow jungle buffalo buyer horror roast recycle disagree inch orphan young dance";

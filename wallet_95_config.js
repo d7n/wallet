@@ -1,1 +1,1 @@
-var mnemonic = "health satisfy expand erase this anchor property just confirm sibling chronic dragon";
+var mnemonic = "tenant increase despair indicate divide hockey canyon share turtle summer cake room";

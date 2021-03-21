@@ -1,1 +1,1 @@
-var mnemonic = "column outside argue divorce you supply adult possible cannon skull honey enable";
+var mnemonic = "hollow pepper drum science degree neither hand country document fury insect lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "train climb turtle motor earth comfort kite vanish glance grain such stage";
+var mnemonic = "twice hole loan dune luggage friend armor message sound planet wolf domain";

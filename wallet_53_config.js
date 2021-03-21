@@ -1,1 +1,1 @@
-var mnemonic = "remember type love illegal carbon tragic chef budget spy barely snow various";
+var mnemonic = "dawn region local blush good category mystery picnic curious ghost attract desert";

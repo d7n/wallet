@@ -1,1 +1,1 @@
-var mnemonic = "thunder pigeon empty crime couch praise helmet hole thing sketch nephew junior";
+var mnemonic = "clarify card pet allow member collect first forward symptom lens melt worry";

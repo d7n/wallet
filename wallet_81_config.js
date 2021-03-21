@@ -1,1 +1,1 @@
-var mnemonic = "volume pulse immense universe orange erupt defy liquid pizza energy pave discover";
+var mnemonic = "inject fresh ordinary gauge work click leaf engine wealth burst language guide";

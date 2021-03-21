@@ -1,1 +1,1 @@
-var mnemonic = "long cradle dinner choose employ excess salon inherit nut wheat entire use";
+var mnemonic = "answer because just empower ranch network federal device valve royal silver eager";

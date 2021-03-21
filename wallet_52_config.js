@@ -1,1 +1,1 @@
-var mnemonic = "horror elevator subject undo solve heavy divide tank artist foster pilot turn";
+var mnemonic = "feature head fat police uncle fiscal roof inspire toast amazing sail diesel";

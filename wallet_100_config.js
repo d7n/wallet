@@ -1,1 +1,1 @@
-var mnemonic = "snake alert dial trouble cannon maid double easy dad rebuild tray hurt";
+var mnemonic = "exit wheel notice orphan apple basic anxiety fossil popular account raw cram";

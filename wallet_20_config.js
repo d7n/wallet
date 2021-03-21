@@ -1,1 +1,1 @@
-var mnemonic = "office vehicle mass train host token rich danger almost armed deal theory";
+var mnemonic = "trigger spider file jazz wheel nut truck crystal abuse modify simple observe";

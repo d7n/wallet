@@ -1,1 +1,1 @@
-var mnemonic = "buddy soda urge badge outdoor coyote vote sound output crystal vault gift";
+var mnemonic = "busy unfold thumb tilt narrow outer hip piano dizzy noodle clown fatal";

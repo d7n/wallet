@@ -1,1 +1,1 @@
-var mnemonic = "decline math pride ginger leopard pioneer mansion useless valve sister analyst culture";
+var mnemonic = "coral final solid apology similar alley fever apple ritual actual skate taxi";

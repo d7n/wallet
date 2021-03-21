@@ -1,1 +1,1 @@
-var mnemonic = "loud evidence claim connect flock scorpion matter tell slender valley biology detail";
+var mnemonic = "elephant ladder cube fashion neither kingdom gas speak canvas vibrant zoo daughter";

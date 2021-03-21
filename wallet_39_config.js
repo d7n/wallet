@@ -1,1 +1,1 @@
-var mnemonic = "cheese escape medal relax pave bounce stadium always change doctor squirrel ghost";
+var mnemonic = "island initial card arctic legal episode raven cotton prefer effort frown oval";

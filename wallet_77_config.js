@@ -1,1 +1,1 @@
-var mnemonic = "major tragic urge talk adjust satisfy orphan grab jungle mom better warrior";
+var mnemonic = "suffer raccoon egg walk moral obtain love recall occur neglect property toss";

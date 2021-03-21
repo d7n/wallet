@@ -1,1 +1,1 @@
-var mnemonic = "solid bring client attitude patrol october round illegal viable convince flag biology";
+var mnemonic = "beauty walnut peasant witness actor journey blossom screen move about about major";

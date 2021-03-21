@@ -1,1 +1,1 @@
-var mnemonic = "obey person ancient average clerk mercy acquire version insect action express planet";
+var mnemonic = "layer measure amateur clean parrot correct fabric brisk mystery fold render vacant";

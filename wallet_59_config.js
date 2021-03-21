@@ -1,1 +1,1 @@
-var mnemonic = "finish domain palace wait talent brown dose resource pig tobacco caught blue";
+var mnemonic = "inside vast foam scorpion wagon congress inspire flip until awake gospel comic";

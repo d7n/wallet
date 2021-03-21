@@ -1,1 +1,1 @@
-var mnemonic = "love anchor dizzy goat move milk sense control engage meat ranch will";
+var mnemonic = "pond mother banana close cream lion craft witness cargo fetch trim arrest";

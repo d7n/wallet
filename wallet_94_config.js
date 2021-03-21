@@ -1,1 +1,1 @@
-var mnemonic = "emerge brand pulse spread foster useless depart cave trash door coyote fiscal";
+var mnemonic = "breeze humble lava solution rookie galaxy baby stadium powder erode critic spy";

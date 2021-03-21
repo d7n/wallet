@@ -1,1 +1,1 @@
-var mnemonic = "life moment price deliver pet scrap fluid adult embody small peasant canvas";
+var mnemonic = "tank auto clever deny fee fun bronze diary food kidney regret city";

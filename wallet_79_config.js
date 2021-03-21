@@ -1,1 +1,1 @@
-var mnemonic = "bomb judge voice jeans scissors sheriff lizard slot risk rare soap kiss";
+var mnemonic = "congress sister tape speed swamp unique goddess opera box discover joy race";

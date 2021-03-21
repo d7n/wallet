@@ -1,1 +1,1 @@
-var mnemonic = "vessel frown fuel junk patch decide prevent cycle size fee area quality";
+var mnemonic = "drift harsh shuffle noodle arctic dumb remind dragon flag atom buyer grit";

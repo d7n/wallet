@@ -1,1 +1,1 @@
-var mnemonic = "bunker mind pole romance blood tattoo vibrant control carbon seat blanket pretty";
+var mnemonic = "strategy outer antique summer nephew east truck impulse stereo swap carpet system";

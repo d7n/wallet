@@ -1,1 +1,1 @@
-var mnemonic = "portion call valid power pulp creek major eyebrow drift observe forget crew";
+var mnemonic = "fit approve also close entire champion age act asset quantum pole view";

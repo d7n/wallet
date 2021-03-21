@@ -1,1 +1,1 @@
-var mnemonic = "bless beauty behind canoe fit gap winter casual grab enemy essence domain";
+var mnemonic = "absorb craft spoil around stock debris gas fat area reopen buffalo club";

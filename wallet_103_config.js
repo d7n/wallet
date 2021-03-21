@@ -1,1 +1,1 @@
-var mnemonic = "survey umbrella alcohol vocal city canal fat wave ice riot entire carpet";
+var mnemonic = "icon daughter purity alter work spin business give govern grit start blood";

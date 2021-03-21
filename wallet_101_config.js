@@ -1,1 +1,1 @@
-var mnemonic = "mammal slush acquire feel tennis dress fiber police ankle tumble slush lock";
+var mnemonic = "exchange fetch essay february float aware chief bachelor later vendor company pencil";

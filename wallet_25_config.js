@@ -1,1 +1,1 @@
-var mnemonic = "cupboard remove melt tank insane sound donor crash negative globe tell arena";
+var mnemonic = "mountain garlic actress approve crop theory glimpse gate laugh avoid shift slam";

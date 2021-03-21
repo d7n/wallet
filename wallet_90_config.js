@@ -1,1 +1,1 @@
-var mnemonic = "exhibit sauce this razor absurd infant decorate inhale guilt relax chase shadow";
+var mnemonic = "shell artist tree elephant skirt subway subject common evil wreck act horror";

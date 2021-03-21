@@ -1,1 +1,1 @@
-var mnemonic = "clutch duty crack fatal mention conduct danger search deer multiply breeze report";
+var mnemonic = "chunk assume wood icon street impose tunnel grape grid kitchen aunt fold";

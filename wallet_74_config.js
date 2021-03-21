@@ -1,1 +1,1 @@
-var mnemonic = "provide neutral rotate huge discover ghost olive pottery tree firm use acid";
+var mnemonic = "consider solve able vendor abstract soap wasp wisdom shock debris nephew nuclear";

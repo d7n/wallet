@@ -1,1 +1,1 @@
-var mnemonic = "glory velvet animal kidney soup trust vivid gain sentence february spice around";
+var mnemonic = "airport remove concert common hip neutral camera entry stone quality snake peace";

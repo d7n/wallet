@@ -1,1 +1,1 @@
-var mnemonic = "slot budget myth primary curious chunk hidden bicycle logic style visit decline";
+var mnemonic = "drill pole deal income bring cliff elevator weapon sausage blouse dutch print";

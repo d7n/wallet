@@ -1,1 +1,1 @@
-var mnemonic = "write weapon fancy allow song slam jazz inspire jelly april replace decline";
+var mnemonic = "quiz nose such citizen trophy kitchen bacon scan primary engine outdoor bind";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey odor equal glow cheap cable pink adult craft message rude hire";
+var mnemonic = "rocket annual element flat sentence brave unusual lion net park vicious clog";

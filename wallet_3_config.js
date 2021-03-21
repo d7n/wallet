@@ -1,1 +1,1 @@
-var mnemonic = "rocket need spider super time woman produce myself sheriff hold also warfare";
+var mnemonic = "unusual level side discover mosquito shaft sauce parade budget leisure initial funny";

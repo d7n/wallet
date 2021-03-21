@@ -1,1 +1,1 @@
-var mnemonic = "pause birth bounce panel proof honey sock juice large mouse tomorrow silent";
+var mnemonic = "chunk glare just enable common excuse wine life access spatial nation proof";

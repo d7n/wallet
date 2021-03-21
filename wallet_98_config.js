@@ -1,1 +1,1 @@
-var mnemonic = "fantasy cost green few chronic bridge connect credit joy chronic when agree";
+var mnemonic = "bright pepper net onion flee rebuild insane enjoy hard finger spice pass";

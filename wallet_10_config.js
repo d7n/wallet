@@ -1,1 +1,1 @@
-var mnemonic = "inform jealous nothing jelly arrange copper onion assume rotate camera monitor bench";
+var mnemonic = "magic pause hawk milk carbon wire rigid trick car caution excuse just";

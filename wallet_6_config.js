@@ -1,1 +1,1 @@
-var mnemonic = "cradle range insect modify champion glad slim music impact forum travel child";
+var mnemonic = "lunch sock faculty pig broom price exotic ready perfect right acid memory";

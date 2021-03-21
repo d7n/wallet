@@ -1,1 +1,1 @@
-var mnemonic = "loud boss naive shine defense jump roast garment vibrant deputy build adapt";
+var mnemonic = "spend fabric chest talent receive exact swift hungry oven file radar grass";

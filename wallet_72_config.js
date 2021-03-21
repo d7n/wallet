@@ -1,1 +1,1 @@
-var mnemonic = "leader renew catch turtle fresh moral river later ten exercise output spray";
+var mnemonic = "fish coffee fresh spatial wolf wire dose party ordinary awesome cabbage dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "primary toe laundry sibling detail stadium milk exile tumble prison review ivory";
+var mnemonic = "garbage digital unusual rookie merge meat bus blast candy brief erupt soap";

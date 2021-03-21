@@ -1,1 +1,1 @@
-var mnemonic = "future tone tell misery song tray brain pipe grain eternal clog meat";
+var mnemonic = "scan castle tiger steak gesture fine pave evoke swarm sphere struggle shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "alley torch thrive elegant code song wedding list quick pigeon nuclear filter";
+var mnemonic = "helmet animal maze fringe rug cat enlist cupboard copy sadness forget vacuum";

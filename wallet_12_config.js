@@ -1,1 +1,1 @@
-var mnemonic = "effort remain light scare way evil mule evil atom abuse over domain";
+var mnemonic = "across human pear agree today check employ lyrics amateur thing mechanic pink";
