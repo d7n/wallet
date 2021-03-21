@@ -1,1 +1,1 @@
-var mnemonic = "end inner canoe essence mad rich miracle motor seek crunch trend skull";
+var mnemonic = "lion organ ridge assault tourist embrace daughter theme cool town lobster mobile";

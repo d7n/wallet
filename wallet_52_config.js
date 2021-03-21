@@ -1,1 +1,1 @@
-var mnemonic = "sponsor rabbit famous praise puppy jungle fork kingdom frog duty dog much";
+var mnemonic = "urge unveil sense layer stock long smoke worth crash melt ten glad";

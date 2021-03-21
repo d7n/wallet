@@ -1,1 +1,1 @@
-var mnemonic = "skirt kit tube festival list group recipe shiver exit regret stable all";
+var mnemonic = "dutch duty basket close phrase hidden castle engage bounce cupboard zone vast";

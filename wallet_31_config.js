@@ -1,1 +1,1 @@
-var mnemonic = "fame squirrel tail adult capable village remain train mother level silent slight";
+var mnemonic = "fence concert member cage balcony arctic home lumber buffalo elegant robust light";

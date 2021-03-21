@@ -1,1 +1,1 @@
-var mnemonic = "symptom hospital year hamster hood banana any view audit meat unknown grape";
+var mnemonic = "trust crash usual eight maid tail diamond guess alley appear seven tide";

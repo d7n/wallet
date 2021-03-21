@@ -1,1 +1,1 @@
-var mnemonic = "safe labor off major wisdom that normal wheat sport camera truck camera";
+var mnemonic = "social shop blossom slogan price behave frozen joy syrup travel fold hover";

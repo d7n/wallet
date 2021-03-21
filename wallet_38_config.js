@@ -1,1 +1,1 @@
-var mnemonic = "frog middle dragon build wing clay urban school boost trade cushion receive";
+var mnemonic = "dune spirit balcony despair cram turkey machine heart glimpse tower space twist";

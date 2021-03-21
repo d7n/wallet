@@ -1,1 +1,1 @@
-var mnemonic = "weird tent inquiry excite music pattern mention city laundry average wool unique";
+var mnemonic = "trim phone donor explain virus loud minute rifle degree quit cereal shiver";

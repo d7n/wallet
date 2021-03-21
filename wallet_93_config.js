@@ -1,1 +1,1 @@
-var mnemonic = "tumble october pizza able stand voice menu diet crumble describe view total";
+var mnemonic = "target mimic discover visit middle camp excess fiscal vote option measure lend";

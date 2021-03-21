@@ -1,1 +1,1 @@
-var mnemonic = "sea earn copy receive damp distance online arrest expire glimpse pole derive";
+var mnemonic = "kick budget tilt salt harvest solve mango robot accuse omit nothing limb";

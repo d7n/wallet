@@ -1,1 +1,1 @@
-var mnemonic = "key cargo pet cheese embark hollow suffer pyramid acid junior mystery romance";
+var mnemonic = "toss cigar useless tray daring wise shoe ahead vendor ceiling spray pull";

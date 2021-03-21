@@ -1,1 +1,1 @@
-var mnemonic = "fit agent hood grief warrior stock season matter asthma fade trumpet remember";
+var mnemonic = "unfair abuse budget void man primary group ladder midnight junk all pink";

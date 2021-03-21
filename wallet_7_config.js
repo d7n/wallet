@@ -1,1 +1,1 @@
-var mnemonic = "key gun occur find pilot target swift young rhythm quality luxury history";
+var mnemonic = "session amused forward toss sustain wet have crowd group bubble drop summer";

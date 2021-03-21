@@ -1,1 +1,1 @@
-var mnemonic = "win evolve oven auto usage end image innocent abuse famous utility satoshi";
+var mnemonic = "bonus noodle exotic rural remove venue later memory butter husband jar rhythm";

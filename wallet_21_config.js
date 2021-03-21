@@ -1,1 +1,1 @@
-var mnemonic = "fish evil nation ramp lobster divide undo sea injury bike major valley";
+var mnemonic = "current please play senior rally shield below knife oil fox sheriff climb";

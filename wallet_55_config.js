@@ -1,1 +1,1 @@
-var mnemonic = "question garlic lizard more hollow match today grain net dutch burden govern";
+var mnemonic = "moment vibrant tennis success senior certain sock cherry firm jazz hamster change";

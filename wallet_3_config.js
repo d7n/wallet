@@ -1,1 +1,1 @@
-var mnemonic = "pill creek stuff glory return bench hurt pole mushroom security shield balance";
+var mnemonic = "name again swallow timber hard teach tired apology correct leaf beef remind";

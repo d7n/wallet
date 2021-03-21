@@ -1,1 +1,1 @@
-var mnemonic = "resource couple rookie easily viable belt giggle moon rich example often hunt";
+var mnemonic = "exercise deliver usual tank destroy rely wool throw patch noise lyrics appear";

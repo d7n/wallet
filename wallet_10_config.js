@@ -1,1 +1,1 @@
-var mnemonic = "love raise time life blossom wool build crouch local thumb focus they";
+var mnemonic = "bread bubble toilet hour speak goddess around rely tennis man save mad";

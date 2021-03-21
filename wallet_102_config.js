@@ -1,1 +1,1 @@
-var mnemonic = "tiny shop still enroll lazy mobile autumn route foam accident street sun";
+var mnemonic = "cover aim depth expire negative equal question eight dry forget pelican firm";

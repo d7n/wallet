@@ -1,1 +1,1 @@
-var mnemonic = "alone earth have neutral smart sausage govern transfer border wrestle name borrow";
+var mnemonic = "review trim weekend kiwi honey frame ugly inquiry innocent now blouse kiss";

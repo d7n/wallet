@@ -1,1 +1,1 @@
-var mnemonic = "dilemma flip divide exhaust pulp dial search inform unit pact extend inhale";
+var mnemonic = "audit excite abandon lunch exercise crucial round canal soldier borrow bracket interest";

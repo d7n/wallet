@@ -1,1 +1,1 @@
-var mnemonic = "time aspect wood eternal ski tool illegal drill stock day lamp tent";
+var mnemonic = "creek fine knock deal hollow staff giggle salute punch remind pear aerobic";

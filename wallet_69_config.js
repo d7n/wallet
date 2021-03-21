@@ -1,1 +1,1 @@
-var mnemonic = "ring window demand trick stage mention year clever spoon knock rather patrol";
+var mnemonic = "car caution myth account final toddler leader melody double neck sweet slender";

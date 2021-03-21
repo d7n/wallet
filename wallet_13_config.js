@@ -1,1 +1,1 @@
-var mnemonic = "copy zoo report husband razor view away acquire alpha fork tomorrow gym";
+var mnemonic = "mushroom main bullet foil champion gorilla machine layer dinosaur easily frown raven";

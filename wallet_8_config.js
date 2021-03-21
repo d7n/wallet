@@ -1,1 +1,1 @@
-var mnemonic = "fury hire arrange frozen inquiry work kingdom same plug jazz struggle avoid";
+var mnemonic = "fire road paper neutral modify face wheel useless bronze when clog drink";

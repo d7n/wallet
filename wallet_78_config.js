@@ -1,1 +1,1 @@
-var mnemonic = "stumble cradle large will scatter lake involve wolf decade note rally owner";
+var mnemonic = "foam hockey patch burst have chase client below loud future noble artist";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster stumble romance gentle multiply ensure expect session confirm actual knock tomato";
+var mnemonic = "pen true giant wine virtual speed actress kid scatter circle mansion clown";

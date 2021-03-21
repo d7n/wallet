@@ -1,1 +1,1 @@
-var mnemonic = "label evoke resist rare federal funny year door buddy result host detect";
+var mnemonic = "shop enough romance friend cupboard bread shadow interest kind please drastic split";

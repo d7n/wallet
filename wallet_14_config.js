@@ -1,1 +1,1 @@
-var mnemonic = "drop stomach aspect shuffle book manage consider envelope emerge accuse allow ecology";
+var mnemonic = "renew conduct attack scheme slab trade know rib ski shy outer blade";

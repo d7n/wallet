@@ -1,1 +1,1 @@
-var mnemonic = "picture turtle path absurd someone stem text tube client wisdom grief wheat";
+var mnemonic = "result damp elevator army jump fitness town sentence identify blouse noodle lounge";

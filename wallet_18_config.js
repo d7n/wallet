@@ -1,1 +1,1 @@
-var mnemonic = "diary giggle display number mosquito mimic measure just catch drive syrup aspect";
+var mnemonic = "motion knee leopard speak pistol olive amazing soft split village near bench";

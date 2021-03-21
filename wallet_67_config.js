@@ -1,1 +1,1 @@
-var mnemonic = "chief drum raw slight lava second artwork clay burden rib canvas dinner";
+var mnemonic = "mansion salad brush slush wheat congress achieve shield march portion fit search";

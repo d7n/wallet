@@ -1,1 +1,1 @@
-var mnemonic = "bamboo recall rural floor double paddle radar maze hand gloom twice stay";
+var mnemonic = "spot feature chaos citizen photo lounge order theory art evolve budget power";

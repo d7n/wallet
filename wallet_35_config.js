@@ -1,1 +1,1 @@
-var mnemonic = "slow churn scrub jewel reform spare alarm inspire elder jar ready pass";
+var mnemonic = "chef trial glass town hire cabin live neglect wrap will dirt zoo";

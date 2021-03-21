@@ -1,1 +1,1 @@
-var mnemonic = "find fruit glory country original duck protect custom canal first harsh soul";
+var mnemonic = "cave lava camera plate melody radio drum lab artefact barely armor laundry";

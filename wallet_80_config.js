@@ -1,1 +1,1 @@
-var mnemonic = "dutch plastic shoe meadow rigid smooth venue narrow they orchard giggle oyster";
+var mnemonic = "into human hair quit jaguar spread put rocket pact lunar prison space";

@@ -1,1 +1,1 @@
-var mnemonic = "bar attend bitter artist coffee owner broken illness retreat dismiss census curious";
+var mnemonic = "dance rhythm stuff merry flight alarm vapor pony skin code denial hazard";

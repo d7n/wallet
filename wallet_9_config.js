@@ -1,1 +1,1 @@
-var mnemonic = "once sport mobile cost upset hungry allow lumber rate melody melt dash";
+var mnemonic = "suggest force mosquito mixture hold orient punch hunt mask butter vibrant section";

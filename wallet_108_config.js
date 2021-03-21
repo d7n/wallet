@@ -1,1 +1,1 @@
-var mnemonic = "short poverty page unfold relief banner remember explain enemy pulp squeeze august";
+var mnemonic = "snack match gym coconut walnut silk involve evil depth afford arctic hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup potato mention wave ribbon actress brass once oak rigid shed avoid";
+var mnemonic = "theme whisper ozone gadget kingdom floor purse roast trouble million limb random";

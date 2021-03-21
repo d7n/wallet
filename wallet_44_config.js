@@ -1,1 +1,1 @@
-var mnemonic = "script easily pill rose end champion enrich urge drastic soldier satoshi night";
+var mnemonic = "calm where stuff talk attack napkin phone fox rather cherry ordinary rely";

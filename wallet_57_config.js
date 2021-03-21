@@ -1,1 +1,1 @@
-var mnemonic = "physical slush portion above whip payment admit rotate gesture panther near side";
+var mnemonic = "intact chief kitten marriage pony sudden jump sunny quote essence very flavor";

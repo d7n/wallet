@@ -1,1 +1,1 @@
-var mnemonic = "caution female joy victory child sock harbor daring stable october walnut sniff";
+var mnemonic = "across into relief dismiss same brisk excuse sure inherit drill describe forest";

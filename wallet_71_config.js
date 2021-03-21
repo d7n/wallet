@@ -1,1 +1,1 @@
-var mnemonic = "fox organ letter plate saddle film armed comic agree supreme liquid recall";
+var mnemonic = "expire umbrella south robot torch lock gauge sail warm myself comic topic";

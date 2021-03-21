@@ -1,1 +1,1 @@
-var mnemonic = "cousin regular vanish enlist humble firm cradle silly script now indoor coach";
+var mnemonic = "strategy receive kangaroo march either clerk trap hire black cargo tonight fatal";

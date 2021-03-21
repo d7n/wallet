@@ -1,1 +1,1 @@
-var mnemonic = "hint birth basket awake food decline hold blanket suffer slow rotate donate";
+var mnemonic = "loan mesh jazz rude strike despair visual ancient story much zebra gloom";

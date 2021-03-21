@@ -1,1 +1,1 @@
-var mnemonic = "endorse absent mansion angry just ticket cook leisure sudden once captain dolphin";
+var mnemonic = "gate pact kingdom panel where wage kiss garbage basic hidden satoshi ten";

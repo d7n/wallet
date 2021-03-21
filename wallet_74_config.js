@@ -1,1 +1,1 @@
-var mnemonic = "secret agent grief orange coral dust glimpse swear pretty void domain middle";
+var mnemonic = "social scene crawl base doctor shoulder tube forward alcohol cake floor little";

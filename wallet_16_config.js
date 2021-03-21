@@ -1,1 +1,1 @@
-var mnemonic = "wise home average pact consider cargo steak buffalo address tourist carbon exhibit";
+var mnemonic = "sniff interest close drift mom mother gain rally toast dinner rain dose";

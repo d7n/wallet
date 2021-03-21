@@ -1,1 +1,1 @@
-var mnemonic = "light female pony diesel mansion sting treat mango flash conduct bind attack";
+var mnemonic = "human chef error robot priority kid fiber federal tree dust advance project";

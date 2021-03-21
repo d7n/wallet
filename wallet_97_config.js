@@ -1,1 +1,1 @@
-var mnemonic = "hungry renew mechanic valve ship autumn before hour price benefit club occur";
+var mnemonic = "mushroom finger crisp injury trade skin high ring swap entry worry between";

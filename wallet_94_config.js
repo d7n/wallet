@@ -1,1 +1,1 @@
-var mnemonic = "track man degree mesh charge tongue whale history future comfort wear honey";
+var mnemonic = "sibling fatal tribe drip urban calm now purity detect search jeans cable";

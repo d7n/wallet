@@ -1,1 +1,1 @@
-var mnemonic = "maximum autumn copper address bone stove length glad vehicle conduct wine bronze";
+var mnemonic = "pattern between garbage addict couch clog galaxy atom company guess pull amused";

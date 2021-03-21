@@ -1,1 +1,1 @@
-var mnemonic = "blind steak suggest input clog pulp lonely enforce dawn lock seven minimum";
+var mnemonic = "human verb congress okay elephant canyon inner letter eye bulk useless hope";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown man much predict slot common deliver mimic soul nation sting main";
+var mnemonic = "oppose old math dash express frog wrestle dust kitten forward town canal";

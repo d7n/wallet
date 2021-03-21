@@ -1,1 +1,1 @@
-var mnemonic = "fantasy unknown eye canvas issue small tennis people answer monster heavy hole";
+var mnemonic = "gravity bachelor spawn adapt connect exit solar gas skin grab frozen parrot";

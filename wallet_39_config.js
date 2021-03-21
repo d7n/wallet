@@ -1,1 +1,1 @@
-var mnemonic = "much spring dash vintage income empty echo economy hollow cost wing paper";
+var mnemonic = "pipe daring rug sense front region garage gravity fly eternal little forum";

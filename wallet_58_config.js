@@ -1,1 +1,1 @@
-var mnemonic = "melt inside knock patrol fabric peace garment direct airport eight obscure flight";
+var mnemonic = "spice sphere science once shop crush area tail carry raven shy offer";

@@ -1,1 +1,1 @@
-var mnemonic = "stage clip valve shoulder chunk guilt glow couch disagree erode that trade";
+var mnemonic = "shield wheat belt shield label feed hotel castle fruit large gather math";

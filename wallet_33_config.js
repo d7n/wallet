@@ -1,1 +1,1 @@
-var mnemonic = "sauce pen immense detect clump wait hungry sugar hip summer lucky wheat";
+var mnemonic = "gauge sound genre grace gain leave reveal oxygen budget carbon increase bus";

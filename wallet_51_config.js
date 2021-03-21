@@ -1,1 +1,1 @@
-var mnemonic = "pride brief tone security allow pepper loyal box doctor category begin moon";
+var mnemonic = "small great innocent race fame miss duck shoulder boy wedding lecture security";

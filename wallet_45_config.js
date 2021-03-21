@@ -1,1 +1,1 @@
-var mnemonic = "grain artefact anxiety man bullet mechanic accuse robust afford refuse drama glove";
+var mnemonic = "local harbor vendor blind eagle double habit please silent furnace ceiling town";

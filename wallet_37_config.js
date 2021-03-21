@@ -1,1 +1,1 @@
-var mnemonic = "bag vital room table laugh consider ripple target inside palm relax father";
+var mnemonic = "biology define such urban pitch tissue afraid firm fruit sibling absent pigeon";

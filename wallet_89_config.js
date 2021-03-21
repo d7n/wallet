@@ -1,1 +1,1 @@
-var mnemonic = "jewel sheriff visual possible ten tourist silent area disease athlete vendor buffalo";
+var mnemonic = "venture sweet permit gym skull outdoor follow fresh blind veteran math vibrant";

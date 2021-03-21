@@ -1,1 +1,1 @@
-var mnemonic = "skill sniff turkey suit gloom world govern air brass chunk lobster garbage";
+var mnemonic = "wrap direct result invite text disagree inflict jeans negative raven arrive best";

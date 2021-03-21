@@ -1,1 +1,1 @@
-var mnemonic = "fix flag portion air blouse jealous nut current chair effort enact clock";
+var mnemonic = "bike fork sport lady inch buddy crop velvet image hunt dog target";

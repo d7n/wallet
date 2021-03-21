@@ -1,1 +1,1 @@
-var mnemonic = "brain rice frame pony minor icon dentist tenant goat mansion pretty ankle";
+var mnemonic = "fee praise culture learn pottery search entry extra buzz magic host hybrid";

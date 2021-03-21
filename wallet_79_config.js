@@ -1,1 +1,1 @@
-var mnemonic = "genius write caught couch moment thank door gold upper found shock endless";
+var mnemonic = "find source member dress fog avoid hamster place expect spare motor place";

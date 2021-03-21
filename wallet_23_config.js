@@ -1,1 +1,1 @@
-var mnemonic = "couple bamboo clean ability spread seminar obscure night clever save hunt rather";
+var mnemonic = "frown recipe toddler distance chase lazy various merge surround episode fiction dutch";

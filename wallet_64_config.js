@@ -1,1 +1,1 @@
-var mnemonic = "undo aspect subject auto doctor number royal pretty effort draft elder shaft";
+var mnemonic = "female friend office remove vehicle wall pet ill session absent route clinic";

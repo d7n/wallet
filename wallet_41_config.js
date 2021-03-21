@@ -1,1 +1,1 @@
-var mnemonic = "festival welcome omit awful document paper cool coast minimum antenna refuse gadget";
+var mnemonic = "mirror match throw buyer style vanish eagle ancient uphold express sausage match";

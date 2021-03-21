@@ -1,1 +1,1 @@
-var mnemonic = "fringe cabbage edge side paper basic erosion truck muscle artwork evidence rice";
+var mnemonic = "wet pole clock tail carry biology convince gaze coin enforce column frost";

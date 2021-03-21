@@ -1,1 +1,1 @@
-var mnemonic = "vault decline eight endless clog unknown plug marriage vast cargo street fit";
+var mnemonic = "online again rifle common gravity victory refuse today boy gift diagram receive";

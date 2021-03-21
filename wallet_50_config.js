@@ -1,1 +1,1 @@
-var mnemonic = "rose spatial dish casual impact syrup stock exercise night toe critic certain";
+var mnemonic = "oyster game rain member chalk scrub pulp bulk helmet witness same disagree";

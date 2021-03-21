@@ -1,1 +1,1 @@
-var mnemonic = "monkey mistake van blouse picnic tragic cream either fitness media gaze bag";
+var mnemonic = "retire actress just decide dice assault company skin region intact food extra";

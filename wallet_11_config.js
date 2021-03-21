@@ -1,1 +1,1 @@
-var mnemonic = "attend edit jump scrap rough fantasy nose useless marine amount lab mention";
+var mnemonic = "view mouse comic machine inmate spell festival pioneer trap rely helmet faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry neither bargain usual wrap civil cheap scan tip dolphin grief valve";
+var mnemonic = "poem vault always evidence motor ill drum zebra exist health fun unlock";

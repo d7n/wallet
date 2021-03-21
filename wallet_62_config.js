@@ -1,1 +1,1 @@
-var mnemonic = "hint eye refuse certain address force omit heavy milk outer comfort glory";
+var mnemonic = "basket already thumb rule flat language become erase awake swing list dash";

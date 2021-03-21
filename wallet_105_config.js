@@ -1,1 +1,1 @@
-var mnemonic = "property aim virus basket pudding easily identify pause rapid roast century neither";
+var mnemonic = "trigger crouch slogan tiny gossip blame left torch thought travel sword debate";

@@ -1,1 +1,1 @@
-var mnemonic = "dune notable salad link remove state puppy fade raven ramp subway victory";
+var mnemonic = "defense plug combine adjust knife remain wage cabbage remain profit story spring";

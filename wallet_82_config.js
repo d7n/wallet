@@ -1,1 +1,1 @@
-var mnemonic = "hamster luggage plug pottery ability miss number witness bone end alcohol comic";
+var mnemonic = "hotel quote orient mammal disorder gold glide inquiry season daring coconut distance";

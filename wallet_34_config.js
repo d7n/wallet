@@ -1,1 +1,1 @@
-var mnemonic = "calm all hole slight license satoshi castle relief anchor luggage filter undo";
+var mnemonic = "staff just long share armor place stairs wonder sister bounce skill entry";

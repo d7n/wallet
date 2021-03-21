@@ -1,1 +1,1 @@
-var mnemonic = "shuffle destroy heavy wheat special destroy welcome onion early accident mansion crowd";
+var mnemonic = "plug frost rookie acquire ginger taxi right assume foot dizzy either warfare";

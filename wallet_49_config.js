@@ -1,1 +1,1 @@
-var mnemonic = "bitter whisper angle net oil sweet bid protect van piano lesson awkward";
+var mnemonic = "live arrest town miracle left demise elite movie oak tray forest flash";

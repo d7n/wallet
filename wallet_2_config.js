@@ -1,1 +1,1 @@
-var mnemonic = "summer sheriff vast clump lazy vanish false verb furnace flat despair lens";
+var mnemonic = "rescue curious august media purse ceiling since real check board obey daughter";

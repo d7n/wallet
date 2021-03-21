@@ -1,1 +1,1 @@
-var mnemonic = "release divide day need design case snake absorb test bar thunder lazy";
+var mnemonic = "where orchard manage warfare spot since used soon barrel liquid sponsor pigeon";

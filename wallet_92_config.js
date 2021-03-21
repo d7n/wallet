@@ -1,1 +1,1 @@
-var mnemonic = "gentle calm tuna pizza inmate age armed giggle develop torch garment agent";
+var mnemonic = "cool pulp avocado essay deny pride angle entire stick again panda dentist";

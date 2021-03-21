@@ -1,1 +1,1 @@
-var mnemonic = "floor indicate true oak winter put actress frost price foster clarify auction";
+var mnemonic = "add squeeze buyer sniff double denial now toilet blush dumb another tank";

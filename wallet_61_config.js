@@ -1,1 +1,1 @@
-var mnemonic = "weird trial genius doctor smooth turtle marriage elevator armor old path sport";
+var mnemonic = "produce velvet ball car time glow trade salad flag grunt mirror know";

@@ -1,1 +1,1 @@
-var mnemonic = "milk tide sugar burger surge cupboard nasty spatial return defense spell frozen";
+var mnemonic = "toy deputy ring food clown toy reunion orbit pond only skate advice";

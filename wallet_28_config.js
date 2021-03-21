@@ -1,1 +1,1 @@
-var mnemonic = "lens north poem rally impose banana bless blossom train pipe dawn fall";
+var mnemonic = "atom census ribbon two film steak gravity charge remind brush muffin ready";

@@ -1,1 +1,1 @@
-var mnemonic = "school language ready domain tool indicate rebuild asthma era nice audit ride";
+var mnemonic = "walk stable include tuna observe stock orbit task victory repair awesome cement";

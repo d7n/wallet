@@ -1,1 +1,1 @@
-var mnemonic = "umbrella refuse rebel town solution lesson resemble kangaroo asset globe bean dragon";
+var mnemonic = "initial invest sudden tomorrow liar topple okay unveil robot chat lecture tourist";

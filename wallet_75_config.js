@@ -1,1 +1,1 @@
-var mnemonic = "outside theory current idle observe major describe napkin copper media hero public";
+var mnemonic = "bachelor hurt drama fancy case video surprise cradle run resource joke palm";

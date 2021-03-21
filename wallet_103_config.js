@@ -1,1 +1,1 @@
-var mnemonic = "debris learn budget bring matrix yard eagle timber amount layer toy stomach";
+var mnemonic = "verb south net improve physical curve grow move stuff year tube era";

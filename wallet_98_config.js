@@ -1,1 +1,1 @@
-var mnemonic = "toilet explain state outer coin cheese pipe output laundry pink uncle sibling";
+var mnemonic = "crime future about wire fatal sun comic title company duck wing asthma";

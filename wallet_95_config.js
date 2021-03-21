@@ -1,1 +1,1 @@
-var mnemonic = "cloud century item nuclear angle gain stable neck ladder song crater already";
+var mnemonic = "behave mask hotel prosper join figure tragic melt chimney three gorilla powder";
