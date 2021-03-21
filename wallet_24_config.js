@@ -1,1 +1,1 @@
-var mnemonic = "simple disease rail silk champion wife debris alpha orient clinic brick bean";
+var mnemonic = "frown soon firm pattern lucky hover add quarter achieve acid general patrol";

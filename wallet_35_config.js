@@ -1,1 +1,1 @@
-var mnemonic = "index save human enlist neglect sudden ensure quantum require reward banner toe";
+var mnemonic = "issue ride daring fortune trim curve source feature hold reject cruel leg";

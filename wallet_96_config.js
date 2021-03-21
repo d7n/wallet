@@ -1,1 +1,1 @@
-var mnemonic = "wild surround wide gentle stomach candy subject much lizard fitness easy grief";
+var mnemonic = "weasel hockey sample retreat century drive cash hole forest hover cool exclude";

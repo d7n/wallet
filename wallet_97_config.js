@@ -1,1 +1,1 @@
-var mnemonic = "cricket visa claim chat team wave magnet tiger excite when wide worth";
+var mnemonic = "valid raw sort fancy company ozone virtual like hero hotel negative exhaust";

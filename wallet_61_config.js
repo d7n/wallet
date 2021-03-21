@@ -1,1 +1,1 @@
-var mnemonic = "bench try phone what shuffle inform pencil keen fat soldier album goddess";
+var mnemonic = "famous mad range speed hurt develop ankle test view silver trade solid";

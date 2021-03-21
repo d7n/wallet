@@ -1,1 +1,1 @@
-var mnemonic = "guilt antique rival soul laundry vicious catch legal time rebuild trust thunder";
+var mnemonic = "toss hundred kick dice garage digital notable digital edge farm connect coin";

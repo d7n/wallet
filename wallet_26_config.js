@@ -1,1 +1,1 @@
-var mnemonic = "mercy sort bring stone pelican afraid course rhythm cloth cream movie pelican";
+var mnemonic = "confirm genuine steak exercise key reveal essence have flash actor erode sadness";

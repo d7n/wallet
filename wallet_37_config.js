@@ -1,1 +1,1 @@
-var mnemonic = "collect home axis bitter dog fault employ jelly spare outdoor employ front";
+var mnemonic = "orphan canvas hundred wrestle barrel invest panther trial clock cycle latin vital";

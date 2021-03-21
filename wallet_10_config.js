@@ -1,1 +1,1 @@
-var mnemonic = "gas ketchup bench humor urge yellow choice better hand gift ordinary once";
+var mnemonic = "field sister common muscle tattoo winter resemble write poverty sure hockey thumb";

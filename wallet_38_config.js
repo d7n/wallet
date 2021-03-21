@@ -1,1 +1,1 @@
-var mnemonic = "plunge method warfare frog suffer near party pair betray cabbage mesh debris";
+var mnemonic = "elite glance fashion essence man shed lyrics defense salute change lyrics immense";

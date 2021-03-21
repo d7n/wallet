@@ -1,1 +1,1 @@
-var mnemonic = "surge rookie humor bridge lumber assist satisfy actor toast manage mad plastic";
+var mnemonic = "relief kick window repair city citizen foil object pluck myself grit rough";

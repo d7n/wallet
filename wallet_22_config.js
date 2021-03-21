@@ -1,1 +1,1 @@
-var mnemonic = "file cereal neglect viable taxi few rural kiss exotic twenty page spatial";
+var mnemonic = "flee coast satisfy wear edge junior ice wish nephew lava next flight";

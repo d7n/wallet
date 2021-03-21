@@ -1,1 +1,1 @@
-var mnemonic = "panel siege blouse fame young library night color sense skin tag grant";
+var mnemonic = "milk ghost sustain identify employ bronze surround conduct start equip clock cargo";

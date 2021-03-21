@@ -1,1 +1,1 @@
-var mnemonic = "typical ankle exact gift harvest reason arrow park need icon glad involve";
+var mnemonic = "program ribbon baby ship artefact step embrace amused decade pledge crowd debris";

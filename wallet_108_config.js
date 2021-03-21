@@ -1,1 +1,1 @@
-var mnemonic = "deputy dress now swing below forget label holiday doll wine home donate";
+var mnemonic = "basket file stem detect science artist thumb drama six ethics nose faint";

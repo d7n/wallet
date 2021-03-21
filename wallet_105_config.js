@@ -1,1 +1,1 @@
-var mnemonic = "wage cabin gas mixed foil come cake proof zoo century honey soft";
+var mnemonic = "mean skill kiss throw exit huge away canvas human depth gravity tool";

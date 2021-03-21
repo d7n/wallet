@@ -1,1 +1,1 @@
-var mnemonic = "regret asthma hero solution furnace chest muffin spike caution useless nest flush";
+var mnemonic = "pitch scale dial grunt problem minor flash lamp question high velvet lecture";

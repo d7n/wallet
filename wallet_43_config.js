@@ -1,1 +1,1 @@
-var mnemonic = "blush spin faint mention rigid make voice recall dinosaur number shaft alcohol";
+var mnemonic = "charge rack leaf steel project right cream siege legend alter stage ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "notice rare mandate maple major observe settle barely hat latin captain strike";
+var mnemonic = "orphan critic segment above team crash outdoor turn portion loop fiber faint";

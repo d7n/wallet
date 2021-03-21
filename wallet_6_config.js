@@ -1,1 +1,1 @@
-var mnemonic = "kingdom capital daughter wink warfare tourist asthma coconut attitude early omit pink";
+var mnemonic = "coast seed quit zero few goat party concert skill galaxy coconut note";

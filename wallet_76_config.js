@@ -1,1 +1,1 @@
-var mnemonic = "turkey inquiry tennis fuel custom indoor aerobic copper mind build excess black";
+var mnemonic = "session kidney holiday seek work pair face mechanic rather inmate budget female";

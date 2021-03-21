@@ -1,1 +1,1 @@
-var mnemonic = "audit shock mixed owner relief daughter valley agent exclude master happy common";
+var mnemonic = "access rebuild topple wood fit best airport lounge laundry install wet magnet";

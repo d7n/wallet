@@ -1,1 +1,1 @@
-var mnemonic = "urban fatigue blouse uniform much alley gown thought donkey ketchup human logic";
+var mnemonic = "raise text warfare cool gate remove fossil category pledge creek vibrant this";

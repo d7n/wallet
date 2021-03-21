@@ -1,1 +1,1 @@
-var mnemonic = "success clap reveal off basic unveil thunder symptom wolf whip crisp review";
+var mnemonic = "cancel subway very pencil eagle lottery thunder crime earth moral hunt meadow";

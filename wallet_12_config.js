@@ -1,1 +1,1 @@
-var mnemonic = "path ten lawn school fame subway pulse exist sibling weekend candy charge";
+var mnemonic = "leopard display solve thrive pink quality welcome steak supply bike maid enlist";

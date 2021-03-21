@@ -1,1 +1,1 @@
-var mnemonic = "charge civil chimney elbow doll torch bounce taxi beauty sound music deputy";
+var mnemonic = "border term above boring gold armor pave vendor anger lesson announce unit";

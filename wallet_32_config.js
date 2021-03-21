@@ -1,1 +1,1 @@
-var mnemonic = "swift final phrase squirrel few lounge lemon sick pluck detail model entry";
+var mnemonic = "skill there local lion view series luggage isolate isolate rail brush inquiry";

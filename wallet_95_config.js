@@ -1,1 +1,1 @@
-var mnemonic = "trash party march youth mansion gather oppose ask style basic never huge";
+var mnemonic = "second jungle across path envelope pattern consider slight foam enrich junior absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling pool together dice message frost smart cash system mesh month tower";
+var mnemonic = "sorry eternal enhance drink cat mixed reflect system motion toilet leg violin";

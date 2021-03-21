@@ -1,1 +1,1 @@
-var mnemonic = "aunt federal chase scorpion donate language good concert casual garment barely mom";
+var mnemonic = "possible fetch segment river wild dial type industry grocery blur clay mechanic";

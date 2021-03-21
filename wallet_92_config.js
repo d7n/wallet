@@ -1,1 +1,1 @@
-var mnemonic = "wide cement ethics trap catch choice during setup angry term upper envelope";
+var mnemonic = "alley puppy harvest twin crater beef transfer ladder setup together gold achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "oak spend normal betray crunch obey fiber shiver minute upgrade swallow bring";
+var mnemonic = "ready prepare crush gas custom devote helmet noise observe settle hotel retire";

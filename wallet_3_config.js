@@ -1,1 +1,1 @@
-var mnemonic = "drip vacuum depth side whale anxiety detail tortoise afraid today south wrist";
+var mnemonic = "clump bracket head spring sweet ship jeans pave current cinnamon fee check";

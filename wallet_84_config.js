@@ -1,1 +1,1 @@
-var mnemonic = "hat approve forget assume enforce mutual run offer cable duty couch lift";
+var mnemonic = "spy critic text swing whip rocket steak question sting auto hover cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "round flash marine sock pilot purchase ketchup thunder avoid over cradle news";
+var mnemonic = "bless breeze annual morning brick such prison sense square bargain injury rotate";

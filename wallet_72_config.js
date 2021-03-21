@@ -1,1 +1,1 @@
-var mnemonic = "desert mixture twice upset legend pair ancient genuine pair habit strategy boss";
+var mnemonic = "toy dune supply shaft cart tank almost similar chalk under pulse typical";

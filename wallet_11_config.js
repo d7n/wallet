@@ -1,1 +1,1 @@
-var mnemonic = "expire rose dog scan early raise into elevator pen now shrimp ethics";
+var mnemonic = "account future explain betray maze critic grid tree spike clutch air among";

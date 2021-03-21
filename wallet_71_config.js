@@ -1,1 +1,1 @@
-var mnemonic = "gasp throw muffin snow inflict fashion absurd ripple bulb tragic sheriff liar";
+var mnemonic = "near appear voyage film harbor glad state twelve knee ivory liquid depth";

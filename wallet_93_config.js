@@ -1,1 +1,1 @@
-var mnemonic = "meadow reduce quality eagle tourist unique top razor lawsuit ivory sense hair";
+var mnemonic = "strike digital praise immune noble face romance tube brisk sister novel wage";

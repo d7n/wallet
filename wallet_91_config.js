@@ -1,1 +1,1 @@
-var mnemonic = "rapid charge hope cat leaf erupt impact slide fault virus possible tiny";
+var mnemonic = "venture donate absent cradle interest narrow carpet crumble know round hair brave";

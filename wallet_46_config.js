@@ -1,1 +1,1 @@
-var mnemonic = "already barely furnace fetch hawk midnight virus immune taxi armor noise tattoo";
+var mnemonic = "memory fault cancel section juice color report prosper width taste bridge tunnel";

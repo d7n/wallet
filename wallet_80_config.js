@@ -1,1 +1,1 @@
-var mnemonic = "sponsor clerk copper arch nut bullet hurt universe glue become people enable";
+var mnemonic = "crane pelican sell onion pass equip one arrest recycle onion decrease vacuum";

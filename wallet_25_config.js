@@ -1,1 +1,1 @@
-var mnemonic = "prize nose logic sausage fit jewel prize bitter cabbage net cook latin";
+var mnemonic = "spatial urban whale push distance script device fragile cupboard click net region";

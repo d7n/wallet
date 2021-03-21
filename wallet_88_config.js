@@ -1,1 +1,1 @@
-var mnemonic = "rule execute spoon doctor artist tonight movie link ski voice range ill";
+var mnemonic = "decline fragile parrot cinnamon solve name axis radio when chat dragon where";

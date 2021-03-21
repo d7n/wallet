@@ -1,1 +1,1 @@
-var mnemonic = "into project holiday cake busy deal select bird marine inmate glad defense";
+var mnemonic = "arrive easily company diet ribbon rather silk envelope puzzle chef miracle mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp cat song team anxiety mass custom glue brain differ jealous cruel";
+var mnemonic = "explain forget vocal hotel riot purse north scrap wood pact virus injury";

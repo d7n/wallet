@@ -1,1 +1,1 @@
-var mnemonic = "bicycle pink tiny cage attitude entire repair century aerobic refuse market clog";
+var mnemonic = "bronze foam lava vacant trend sleep inmate law rigid wrong stem retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover segment plunge issue couple antenna silly hunt best normal supply six";
+var mnemonic = "skull panther cotton friend improve minor intact sight inmate tide stool flag";

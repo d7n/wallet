@@ -1,1 +1,1 @@
-var mnemonic = "blind only rebel grow language bird render chat town brown devote endorse";
+var mnemonic = "vast notice dizzy large ethics energy good top mobile blind upper soap";

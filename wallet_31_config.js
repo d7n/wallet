@@ -1,1 +1,1 @@
-var mnemonic = "century want valley surprise census act grain capital misery combine grass mistake";
+var mnemonic = "lucky conduct shoot lock phone share table humor gate dress cup need";

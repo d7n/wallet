@@ -1,1 +1,1 @@
-var mnemonic = "potato gasp skirt praise ticket worry trophy settle place file type barrel";
+var mnemonic = "lobster slide border sort speak shy try violin fluid dad neither adult";

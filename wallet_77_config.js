@@ -1,1 +1,1 @@
-var mnemonic = "urge rail mimic excuse fiscal cheap forum define region robust prevent good";
+var mnemonic = "disorder radar rebuild prosper screen large myth green stand cat sketch spot";

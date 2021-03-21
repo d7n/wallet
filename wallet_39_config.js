@@ -1,1 +1,1 @@
-var mnemonic = "person ramp artist feature tissue expose stamp horror urban clever dad cradle";
+var mnemonic = "rely cheese cancel beach true educate liar bulk diamond close clip wedding";

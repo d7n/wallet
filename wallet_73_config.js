@@ -1,1 +1,1 @@
-var mnemonic = "endorse west suit gravity tortoise amount exclude shell reason push prize old";
+var mnemonic = "payment hour draw slender sure medal riot update erosion bird melt movie";

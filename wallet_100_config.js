@@ -1,1 +1,1 @@
-var mnemonic = "staff dolphin egg satisfy gaze sausage solution ship apple announce sail town";
+var mnemonic = "rare skull arrow cannon shadow venture alley gallery ranch slice emotion use";

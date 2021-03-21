@@ -1,1 +1,1 @@
-var mnemonic = "earth essay reward soft entire fabric video switch dish life champion neither";
+var mnemonic = "couch lazy total romance leisure cycle pink income second salad useful bus";

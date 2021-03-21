@@ -1,1 +1,1 @@
-var mnemonic = "garage wire innocent guilt orange vacuum celery foot ghost sure cycle beyond";
+var mnemonic = "ceiling faint smooth try ancient liquid thing prepare canoe buddy reform buffalo";

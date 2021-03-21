@@ -1,1 +1,1 @@
-var mnemonic = "army behind render youth brother pattern sentence lab flame phone payment attitude";
+var mnemonic = "page oblige tube pulse lawsuit margin sick light bird offer diary swing";

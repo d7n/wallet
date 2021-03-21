@@ -1,1 +1,1 @@
-var mnemonic = "voyage bus jealous inner dial ceiling tunnel ticket raccoon price planet icon";
+var mnemonic = "fame extend group speed alone sunny bless lawn jazz imitate water ketchup";

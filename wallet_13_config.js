@@ -1,1 +1,1 @@
-var mnemonic = "custom arena quick black property swear employ safe lake salon hotel juice";
+var mnemonic = "grant fossil pepper artist jealous net garden diesel panther industry submit oblige";

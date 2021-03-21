@@ -1,1 +1,1 @@
-var mnemonic = "park tackle small general rough begin wise turn stamp lesson curious shrimp";
+var mnemonic = "village dutch fever praise ethics heavy end heart dune hat already retire";

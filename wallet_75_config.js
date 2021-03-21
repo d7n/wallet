@@ -1,1 +1,1 @@
-var mnemonic = "parent kit scene hand cannon receive never cradle hurdle leaf garage priority";
+var mnemonic = "deposit ten sunset unaware subject urban glance inquiry current visa spray hill";

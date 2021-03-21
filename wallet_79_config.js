@@ -1,1 +1,1 @@
-var mnemonic = "exhaust prize treat trigger decrease correct clever sign donkey diesel trend miracle";
+var mnemonic = "budget cannon galaxy learn absent pony stadium help amateur deal give act";

@@ -1,1 +1,1 @@
-var mnemonic = "input oil feed trial badge verify page pet leopard process tissue speed";
+var mnemonic = "earth cute promote search office alter melt minimum cute mom exile brave";

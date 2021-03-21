@@ -1,1 +1,1 @@
-var mnemonic = "glad attack chunk buddy alter humor gather syrup often soda chalk lawsuit";
+var mnemonic = "kid right lens patient outside scene wisdom pelican basket safe moon top";

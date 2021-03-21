@@ -1,1 +1,1 @@
-var mnemonic = "sister fragile consider call glue local option snack rapid code hotel lend";
+var mnemonic = "chase present board grass toe print fitness gap moon gas history various";

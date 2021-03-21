@@ -1,1 +1,1 @@
-var mnemonic = "rotate solid favorite thought auto priority hotel sorry inquiry sauce noodle escape";
+var mnemonic = "enrich assault govern about canoe wash fire color unfold file firm skirt";

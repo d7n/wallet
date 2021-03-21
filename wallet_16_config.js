@@ -1,1 +1,1 @@
-var mnemonic = "hospital mountain raccoon practice trumpet illegal cabbage race document hybrid lonely venue";
+var mnemonic = "sign demand evidence rather naive bean initial enforce almost swallow use uncle";

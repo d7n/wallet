@@ -1,1 +1,1 @@
-var mnemonic = "cross frame bacon exchange text hungry power number dune maid junk gas";
+var mnemonic = "swim salad skate acid fun carpet nephew supreme volume spoon salon book";

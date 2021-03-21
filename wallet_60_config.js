@@ -1,1 +1,1 @@
-var mnemonic = "brand earn end flight column reform demand lab pass sugar above light";
+var mnemonic = "cluster glove like solve spider census service account label girl immune ahead";

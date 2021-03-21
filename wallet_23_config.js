@@ -1,1 +1,1 @@
-var mnemonic = "rabbit option marble first window insect insect unlock tourist renew announce heavy";
+var mnemonic = "father crumble future trash surprise fiction now scorpion program under left supply";

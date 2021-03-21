@@ -1,1 +1,1 @@
-var mnemonic = "kiwi economy laugh genius tag have gain lesson mystery number undo skull";
+var mnemonic = "hen impulse excuse lounge useful click punch humor bubble few bicycle add";

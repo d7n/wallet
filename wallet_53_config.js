@@ -1,1 +1,1 @@
-var mnemonic = "diesel embody library beyond thank race vanish siege better shine pole illness";
+var mnemonic = "lion butter museum elevator evil another fence release wrestle pattern laugh unlock";

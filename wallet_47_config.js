@@ -1,1 +1,1 @@
-var mnemonic = "burden point top brush stage trumpet hire jaguar put panther bunker silver";
+var mnemonic = "path surface crowd come mosquito sock word present pool advance immune access";

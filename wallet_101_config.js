@@ -1,1 +1,1 @@
-var mnemonic = "one powder stand argue exhibit cannon term buzz sight rough finish stone";
+var mnemonic = "bean cloud coral empty oak nothing interest nice link pigeon symbol tiny";

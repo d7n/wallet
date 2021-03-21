@@ -1,1 +1,1 @@
-var mnemonic = "caught close sketch wolf bargain boy entry cool include easy oxygen still";
+var mnemonic = "cry allow fire vast nurse panther ask this trust wild casino tuna";

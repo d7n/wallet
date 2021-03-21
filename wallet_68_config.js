@@ -1,1 +1,1 @@
-var mnemonic = "cute mammal illness right south leader fire danger orbit slide gravity emotion";
+var mnemonic = "attract coast arena perfect reopen fold arena media easy legend airport minute";

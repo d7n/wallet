@@ -1,1 +1,1 @@
-var mnemonic = "toy kiss exist unlock dinner olive face buffalo alley escape around dutch";
+var mnemonic = "evoke engine interest cross wrap pull aerobic base mechanic uncle cat discover";

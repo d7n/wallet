@@ -1,1 +1,1 @@
-var mnemonic = "inform kingdom bubble glimpse announce rebuild unknown odor copy film perfect win";
+var mnemonic = "circle chat girl dash laugh message cherry oxygen track network heart artefact";

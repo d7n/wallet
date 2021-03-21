@@ -1,1 +1,1 @@
-var mnemonic = "under stumble green hand humble fan toilet sustain head blood brown verb";
+var mnemonic = "company under over boat grit benefit pass month upset open space various";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver keen right winner police element utility story feature creek federal resource";
+var mnemonic = "remind sting lottery replace express marine body churn sure sugar puppy sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "regret chuckle air mechanic sock blush puzzle family spy detail submit agent";
+var mnemonic = "warm unique game elephant gold undo salon regret law swap helmet nature";

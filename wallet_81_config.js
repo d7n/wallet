@@ -1,1 +1,1 @@
-var mnemonic = "jazz garden torch whip wing shield people neither forest enroll denial luxury";
+var mnemonic = "secret input crime inquiry siren erosion cross vocal verb cycle happy bright";

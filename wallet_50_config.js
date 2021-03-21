@@ -1,1 +1,1 @@
-var mnemonic = "citizen tourist amount jelly notice teach agree source stock flavor peace brother";
+var mnemonic = "island myth cloud window trigger fork cable oil whale quantum about emotion";

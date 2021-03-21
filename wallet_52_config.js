@@ -1,1 +1,1 @@
-var mnemonic = "tired enroll journey vital differ either crawl piece orient dust sudden bitter";
+var mnemonic = "walk tower object actor vicious ride scheme solid uncle casual toward west";

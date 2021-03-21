@@ -1,1 +1,1 @@
-var mnemonic = "scatter silver document neutral evoke script rare stuff swap color photo crisp";
+var mnemonic = "arrive gain near sleep drop lift dial trick puzzle coconut bullet traffic";

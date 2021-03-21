@@ -1,1 +1,1 @@
-var mnemonic = "lava bulk leaf sample stone trigger copy swarm gospel park crumble voyage";
+var mnemonic = "recycle seek discover combine prefer insane glide phrase worth decade pink size";

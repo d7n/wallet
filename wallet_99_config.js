@@ -1,1 +1,1 @@
-var mnemonic = "harvest online ghost squeeze upon street hover hood seed hub march unique";
+var mnemonic = "decade carpet federal never section forward provide champion chest next artwork busy";

@@ -1,1 +1,1 @@
-var mnemonic = "grid famous avoid ten history coin diagram joy spatial news street exhaust";
+var mnemonic = "demise gospel wet skin series tourist novel appear deny fix code budget";
