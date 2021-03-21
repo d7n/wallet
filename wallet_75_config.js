@@ -1,1 +1,1 @@
-var mnemonic = "company embark pioneer inherit pause nest actress symptom meat globe abstract stereo";
+var mnemonic = "siren milk coil fantasy dinosaur robot roast stamp embark fiber plastic describe";

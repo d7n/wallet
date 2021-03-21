@@ -1,1 +1,1 @@
-var mnemonic = "noodle bullet nose crowd raise stone page absent pretty judge undo model";
+var mnemonic = "caution boat enlist six topple clown laundry riot couple auto load above";

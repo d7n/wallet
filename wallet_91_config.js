@@ -1,1 +1,1 @@
-var mnemonic = "fog space unfair effort extend short yellow knock mix phone number tobacco";
+var mnemonic = "blast canoe minimum powder clock area captain uniform replace butter shield stadium";

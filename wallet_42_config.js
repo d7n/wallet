@@ -1,1 +1,1 @@
-var mnemonic = "pioneer ill major tube broccoli erupt hair paper knee forward helmet soda";
+var mnemonic = "evidence hero accident wash travel strong wrestle session risk effort innocent spike";

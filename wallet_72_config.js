@@ -1,1 +1,1 @@
-var mnemonic = "hole swap trade hire fog awake health state bonus team weather book";
+var mnemonic = "vessel pact obvious level stage gauge boss situate obey oblige dinner always";

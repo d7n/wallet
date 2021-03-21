@@ -1,1 +1,1 @@
-var mnemonic = "park guitar over crash smooth rely soft sentence pole erupt belt buyer";
+var mnemonic = "wood inhale survey advice truly olive exile length between antique high favorite";

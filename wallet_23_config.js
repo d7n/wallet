@@ -1,1 +1,1 @@
-var mnemonic = "assist maze balcony fashion genre february actress flee end antenna pony creek";
+var mnemonic = "wonder just arrow force wise immune demise liquid post absurd bless cactus";

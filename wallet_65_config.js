@@ -1,1 +1,1 @@
-var mnemonic = "when rebel forum crawl wet airport south ill remove dismiss asset menu";
+var mnemonic = "talk rail essay into butter require impose cross dumb sample betray raise";

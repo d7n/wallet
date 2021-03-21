@@ -1,1 +1,1 @@
-var mnemonic = "paddle wire wide repeat spawn palace field output cluster claim pulp team";
+var mnemonic = "smile nasty cactus front limit leave fragile odor gravity winner crawl water";

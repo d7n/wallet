@@ -1,1 +1,1 @@
-var mnemonic = "solar blue december mesh pottery group apple atom clinic illness yellow ivory";
+var mnemonic = "embark age curve draw salon sadness swim trip brother merge term canoe";

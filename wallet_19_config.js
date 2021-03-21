@@ -1,1 +1,1 @@
-var mnemonic = "museum need devote bean useless peanut wish begin ice legal raise harsh";
+var mnemonic = "hen license truly camera primary voyage opera crucial marriage ignore dignity tray";

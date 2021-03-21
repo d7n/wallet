@@ -1,1 +1,1 @@
-var mnemonic = "short divorce monkey sweet sadness urge there yellow seek memory day seven";
+var mnemonic = "urge fence tiny cute junior gift arrow lottery mind novel minimum sheriff";

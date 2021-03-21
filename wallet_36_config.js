@@ -1,1 +1,1 @@
-var mnemonic = "flag error trend zebra sample tiger near isolate motor fox general patient";
+var mnemonic = "arena cabbage action vibrant bone caught stick victory monster unlock invite ice";

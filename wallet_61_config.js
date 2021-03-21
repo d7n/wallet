@@ -1,1 +1,1 @@
-var mnemonic = "slide because saddle stamp sell nice brave used option profit praise oyster";
+var mnemonic = "double portion tobacco pen step option can truth margin shoot away taste";

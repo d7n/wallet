@@ -1,1 +1,1 @@
-var mnemonic = "kite stove swear crush glove rent egg method multiply slush about lottery";
+var mnemonic = "tenant walk shrug innocent bottom now attend assume record cash upon ghost";

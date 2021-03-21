@@ -1,1 +1,1 @@
-var mnemonic = "virus volume rifle replace wear daring hamster cheap adjust never great amount";
+var mnemonic = "grit client fame error month cook situate income arrive lamp maid increase";

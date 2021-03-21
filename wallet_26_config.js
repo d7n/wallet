@@ -1,1 +1,1 @@
-var mnemonic = "despair appear beef estate arrest survey leopard evoke elite toilet stairs appear";
+var mnemonic = "switch chat brave erupt away birth motion stamp belt shrimp problem debris";

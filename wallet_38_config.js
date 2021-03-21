@@ -1,1 +1,1 @@
-var mnemonic = "fade already left destroy artwork forward repeat near bag okay around solid";
+var mnemonic = "day cram off lucky lab artefact put slender action memory hidden dress";

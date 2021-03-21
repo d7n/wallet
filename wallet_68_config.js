@@ -1,1 +1,1 @@
-var mnemonic = "any reward vault outside brother voyage dwarf topic dinner almost oblige few";
+var mnemonic = "purchase model slice orange horse slogan actor error smooth congress say sketch";

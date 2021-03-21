@@ -1,1 +1,1 @@
-var mnemonic = "mistake pudding sketch decrease riot gym fatal prevent genius upper tower auction";
+var mnemonic = "obtain rubber winter shrimp crawl economy sand retire screen regular course step";

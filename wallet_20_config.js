@@ -1,1 +1,1 @@
-var mnemonic = "culture alcohol check scorpion upgrade valley victory secret margin bulk cloth review";
+var mnemonic = "case charge grape flip tortoise tuna video attack dice coffee victory offer";

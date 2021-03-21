@@ -1,1 +1,1 @@
-var mnemonic = "bar wolf typical force bind forest prize bridge very blanket oven lunar";
+var mnemonic = "horror suspect level drift mobile tape start top bone hamster stock drum";

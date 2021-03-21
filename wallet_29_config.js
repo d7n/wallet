@@ -1,1 +1,1 @@
-var mnemonic = "tone giggle choice pattern hungry coyote fold coral crawl cram tower under";
+var mnemonic = "wild false hobby rack hobby debate indicate report maple elite hire extra";

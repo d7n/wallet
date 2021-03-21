@@ -1,1 +1,1 @@
-var mnemonic = "infant federal reduce space code put right describe place attack spatial open";
+var mnemonic = "tongue aisle involve ecology pony cabbage prevent sign gasp hospital smart canal";

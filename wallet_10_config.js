@@ -1,1 +1,1 @@
-var mnemonic = "topple inject any annual acoustic dream napkin rare happy accuse kangaroo foot";
+var mnemonic = "job pool wrong nice few reopen derive lens alter divide parent hold";

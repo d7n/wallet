@@ -1,1 +1,1 @@
-var mnemonic = "draft picnic chronic mandate decrease soft random message key bracket tilt donkey";
+var mnemonic = "melody enemy gown sheriff swarm quiz enrich awkward dove chuckle pass sort";

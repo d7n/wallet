@@ -1,1 +1,1 @@
-var mnemonic = "fever trouble wrap sand profit upgrade awful angle midnight echo budget clap";
+var mnemonic = "abuse story slice wild install main slice best blossom suit smart lottery";

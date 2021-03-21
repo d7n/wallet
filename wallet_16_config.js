@@ -1,1 +1,1 @@
-var mnemonic = "mom humor joke february brush lounge garbage hello drink umbrella put file";
+var mnemonic = "inject filter sniff regret time call layer method canvas disorder multiply dynamic";

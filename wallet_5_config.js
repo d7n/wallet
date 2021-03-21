@@ -1,1 +1,1 @@
-var mnemonic = "shrimp phrase soft woman debate memory decade enjoy demise tomato brass trip";
+var mnemonic = "page lunar hard gas into now valve train already key ready police";

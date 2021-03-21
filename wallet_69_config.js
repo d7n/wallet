@@ -1,1 +1,1 @@
-var mnemonic = "useful exchange ecology cabbage yellow hotel lumber episode vacant noodle sound season";
+var mnemonic = "inspire brief smart camp anger luxury approve rug sea help barely dress";

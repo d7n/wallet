@@ -1,1 +1,1 @@
-var mnemonic = "mule consider feature mosquito envelope amateur cube dish hope jelly diet blame";
+var mnemonic = "shy exchange dragon tree equal push ticket mother uphold unfair zone much";

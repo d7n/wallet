@@ -1,1 +1,1 @@
-var mnemonic = "weird domain drastic climb across dragon need fork voice skull lock solar";
+var mnemonic = "regular chest strong bounce horror sound awesome act company yard outdoor artwork";

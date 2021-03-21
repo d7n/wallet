@@ -1,1 +1,1 @@
-var mnemonic = "library correct body bunker disease captain candy before ancient cream grid upgrade";
+var mnemonic = "talent unit night portion swift once moon impose super trouble simple seminar";

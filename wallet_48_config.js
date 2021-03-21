@@ -1,1 +1,1 @@
-var mnemonic = "sport clutch utility oak kick physical circle disease symbol alone crash vehicle";
+var mnemonic = "annual ahead cat clump husband carpet twenty pond push protect merit inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "sure edit sudden tide issue ten calm village yellow prison sauce thumb";
+var mnemonic = "debate arrive myth pink right mule naive wolf recall label enrich grain";

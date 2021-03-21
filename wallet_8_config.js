@@ -1,1 +1,1 @@
-var mnemonic = "genre oak attack spy fit barrel sauce impose keen credit present cluster";
+var mnemonic = "shift smooth glass dawn deny visit rich damp kind feel half junk";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt nuclear fiber bulk few junk chronic solve diet food world unusual";
+var mnemonic = "police symbol surface earn scorpion swarm book target device reduce solid place";

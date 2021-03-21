@@ -1,1 +1,1 @@
-var mnemonic = "sort student diagram tissue call fabric ritual wrist cup powder you rival";
+var mnemonic = "pledge safe clown help box urge december summer devote imitate exercise stage";

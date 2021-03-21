@@ -1,1 +1,1 @@
-var mnemonic = "shine attract tennis long fury spoon black mushroom risk wife alter plastic";
+var mnemonic = "rookie ridge wheat cycle grass grid trim solution loop horror mobile six";

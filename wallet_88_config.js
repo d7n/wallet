@@ -1,1 +1,1 @@
-var mnemonic = "dwarf put clutch later palace begin someone diet champion excite giggle ocean";
+var mnemonic = "pave cover antique license hockey kangaroo future cherry behind slab deliver cute";

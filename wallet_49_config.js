@@ -1,1 +1,1 @@
-var mnemonic = "appear pass exact ghost table rebuild fluid escape toss slice album second";
+var mnemonic = "program actress sentence girl guitar garage unaware rabbit juice upgrade length burden";

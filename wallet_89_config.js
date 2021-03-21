@@ -1,1 +1,1 @@
-var mnemonic = "amateur survey measure stadium know flower local awkward guilt attract horn biology";
+var mnemonic = "true cabbage give critic voice turkey prize tomato mystery glass fix busy";

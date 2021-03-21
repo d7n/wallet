@@ -1,1 +1,1 @@
-var mnemonic = "physical silver nerve scrub birth rifle pony unhappy snack cabin post neither";
+var mnemonic = "museum field shrimp found liar diet jeans prevent canoe pink truly inquiry";

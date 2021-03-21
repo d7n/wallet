@@ -1,1 +1,1 @@
-var mnemonic = "open month fee rack agent oak job oak mimic north height beyond";
+var mnemonic = "brick monster boss glove before hollow measure setup boil gentle advance rug";

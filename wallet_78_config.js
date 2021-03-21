@@ -1,1 +1,1 @@
-var mnemonic = "cycle dignity drastic brick soldier giggle legal cattle cram confirm moral entire";
+var mnemonic = "kidney noodle diagram tray always adult glow like prison primary pitch twelve";

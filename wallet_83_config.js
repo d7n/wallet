@@ -1,1 +1,1 @@
-var mnemonic = "cute note leader consider again bicycle cage current resist year three matter";
+var mnemonic = "throw spell canoe tray erase royal fit soul blade stumble permit female";

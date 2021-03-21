@@ -1,1 +1,1 @@
-var mnemonic = "decade spray drum dawn amateur hood favorite manage tray provide casual teach";
+var mnemonic = "blast normal truly police elegant cupboard recycle audit dentist love tourist hold";

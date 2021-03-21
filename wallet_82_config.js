@@ -1,1 +1,1 @@
-var mnemonic = "silk vast dove glove roast attitude ice course memory find weekend echo";
+var mnemonic = "error tobacco vivid ripple assume fix gravity fade fence tobacco december theory";

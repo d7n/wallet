@@ -1,1 +1,1 @@
-var mnemonic = "stick unique bamboo moment leave drip people blood noble arrow expect domain";
+var mnemonic = "legal meadow furnace addict water turn error assume note card walnut income";

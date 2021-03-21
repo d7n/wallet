@@ -1,1 +1,1 @@
-var mnemonic = "stumble gadget describe tenant female conduct project snack town spend panel trial";
+var mnemonic = "hollow super fog nothing reason green ahead leader robot agree chair eagle";

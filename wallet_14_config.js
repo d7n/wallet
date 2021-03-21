@@ -1,1 +1,1 @@
-var mnemonic = "frost february gift film hub book open fossil sport heavy liberty ribbon";
+var mnemonic = "nuclear ankle raw moon bitter recall excuse angry crush reject usual banner";

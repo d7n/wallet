@@ -1,1 +1,1 @@
-var mnemonic = "near auto course swallow snack never price resist thunder spin topic piece";
+var mnemonic = "swarm track praise satisfy feel swap muscle dust flock sail grain object";

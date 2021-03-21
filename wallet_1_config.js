@@ -1,1 +1,1 @@
-var mnemonic = "render bleak base hollow pull twelve hybrid poverty sweet memory nephew dismiss";
+var mnemonic = "usual coffee curious ride snack hen juice rapid fly shed practice pony";

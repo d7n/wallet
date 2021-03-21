@@ -1,1 +1,1 @@
-var mnemonic = "retreat vast coffee element mechanic pink wolf swift convince volume dress gate";
+var mnemonic = "climb actual print fashion tackle quarter off tonight identify panic cute vintage";

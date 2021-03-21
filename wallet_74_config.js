@@ -1,1 +1,1 @@
-var mnemonic = "word spend push project unlock witness donor quick dress ahead ugly switch";
+var mnemonic = "execute slab plate warrior motion desert damage pepper salon ugly until board";

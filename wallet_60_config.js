@@ -1,1 +1,1 @@
-var mnemonic = "outer rail maze invest razor adapt choose blossom eagle pistol swarm jelly";
+var mnemonic = "surprise execute comic usage loop gift harvest dutch wrestle escape swamp combine";

@@ -1,1 +1,1 @@
-var mnemonic = "permit stem muffin receive outside pumpkin online access latin whisper camp banner";
+var mnemonic = "banner kit race spring tortoise super erase damp energy ozone cactus electric";

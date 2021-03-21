@@ -1,1 +1,1 @@
-var mnemonic = "roof found path milk special horror diesel train stand lift already disagree";
+var mnemonic = "lesson mask infant similar curve path abuse escape crash vault finish spider";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise hollow weapon ocean amazing unveil only shield lift plug abstract dinosaur";
+var mnemonic = "garbage bunker document title trial dress sock foil maple tattoo tank end";

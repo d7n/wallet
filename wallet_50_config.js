@@ -1,1 +1,1 @@
-var mnemonic = "urban seminar mail hazard athlete alley exit cram bronze dial butter dose";
+var mnemonic = "eternal accident bamboo sure document champion total ramp bottom upper segment hold";

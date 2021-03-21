@@ -1,1 +1,1 @@
-var mnemonic = "jealous vintage develop wish trash indicate host zebra real soul borrow appear";
+var mnemonic = "melody pear marble burden lonely ordinary apology goose heart uphold hurry result";

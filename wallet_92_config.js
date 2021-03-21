@@ -1,1 +1,1 @@
-var mnemonic = "humble bench panic finger pave night tobacco club subway display nasty few";
+var mnemonic = "because fatal silver snack under wood gauge spot icon oxygen tip action";

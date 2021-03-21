@@ -1,1 +1,1 @@
-var mnemonic = "harbor churn leaf reason lab noble marriage victory law bag wine attract";
+var mnemonic = "behave better forum caught frame gather dial explain whip essence taxi coconut";

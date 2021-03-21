@@ -1,1 +1,1 @@
-var mnemonic = "myth corn apart code market flee survey between main world media spread";
+var mnemonic = "casual inquiry kiss cradle humor decline segment cause credit limb village liar";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid panda much unfair olive fortune patch must multiply winner earn sun";
+var mnemonic = "payment mixture upon coin leave snake traffic ability wonder pupil number solution";

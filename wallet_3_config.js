@@ -1,1 +1,1 @@
-var mnemonic = "near find glass limb jump someone thought final kidney toe token claim";
+var mnemonic = "custom visit combine onion bunker strong crazy advance skate movie away talk";

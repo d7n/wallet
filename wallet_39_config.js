@@ -1,1 +1,1 @@
-var mnemonic = "interest voice post mechanic welcome luxury disagree curve want vanish cousin first";
+var mnemonic = "mango among rival vivid slogan biology wealth sail potato wife damage raven";

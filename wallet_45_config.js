@@ -1,1 +1,1 @@
-var mnemonic = "glass company episode little leaf private claw pistol toilet fashion portion like";
+var mnemonic = "force lawn key correct uncle uncover jar health page panther honey drink";

@@ -1,1 +1,1 @@
-var mnemonic = "legal bus carpet leopard subject battle abstract top main spin chimney explain";
+var mnemonic = "favorite meadow raven afford ankle change shallow tattoo piece spoil hotel grass";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn rack still purse fuel symbol brain photo hold raccoon gap royal";
+var mnemonic = "series trial spend acoustic wonder regret frost remove never deer mention cart";

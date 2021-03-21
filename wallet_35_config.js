@@ -1,1 +1,1 @@
-var mnemonic = "tool sure hover wool current chicken van team violin arrive ensure special";
+var mnemonic = "nuclear service green stadium kingdom prize grunt frog thing dirt outdoor crucial";

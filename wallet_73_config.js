@@ -1,1 +1,1 @@
-var mnemonic = "result aim stone mention bleak goddess crisp tone degree rabbit myth fat";
+var mnemonic = "text buyer key blame never sting come avoid work bacon mass fiscal";

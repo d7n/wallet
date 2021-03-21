@@ -1,1 +1,1 @@
-var mnemonic = "service casino move hamster retreat electric stone also olympic panel strong where";
+var mnemonic = "peasant romance earn until coach satoshi impose route blast trend hamster hair";

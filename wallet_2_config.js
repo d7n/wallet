@@ -1,1 +1,1 @@
-var mnemonic = "wine sphere spike midnight you add latin venue glove filter shop ozone";
+var mnemonic = "around agree sketch image problem same company pause delay swift basic claw";

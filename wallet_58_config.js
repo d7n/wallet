@@ -1,1 +1,1 @@
-var mnemonic = "cloth rate fish zero fall seminar gesture poet plunge embark already category";
+var mnemonic = "language ozone ivory sweet exclude recycle chef expire range bag nation resist";

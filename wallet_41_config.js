@@ -1,1 +1,1 @@
-var mnemonic = "indoor buffalo lens spend remind issue bright pilot small truly habit direct";
+var mnemonic = "found repeat draw gravity bar effort agree chaos book fall ten odor";

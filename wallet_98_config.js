@@ -1,1 +1,1 @@
-var mnemonic = "sell struggle connect clutch mail upset chest brisk eternal arctic comic anxiety";
+var mnemonic = "half supreme seminar target render kind draft legal celery amount whip tide";

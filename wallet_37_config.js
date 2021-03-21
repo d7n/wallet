@@ -1,1 +1,1 @@
-var mnemonic = "sword intact region region eternal sentence energy lyrics split peace accident ocean";
+var mnemonic = "issue vital upgrade unhappy prefer sea this traffic genre man term indicate";

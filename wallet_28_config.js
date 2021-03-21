@@ -1,1 +1,1 @@
-var mnemonic = "degree also audit control neither balance crop zone define luxury purpose trash";
+var mnemonic = "tower divorce great hope cigar window relax rival glory anchor inside spoon";

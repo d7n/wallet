@@ -1,1 +1,1 @@
-var mnemonic = "cute letter forget legal chase finger tent liar net around public robot";
+var mnemonic = "foot endorse grape cool note future urge reform tomorrow animal denial crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "sell train alien borrow great carpet distance often govern jungle oil nose";
+var mnemonic = "change purchase calm lounge pill shrimp drive tooth spike ostrich stock column";

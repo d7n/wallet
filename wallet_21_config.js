@@ -1,1 +1,1 @@
-var mnemonic = "play horror then bird endorse tool social intact silk vacuum net this";
+var mnemonic = "expose zebra name gain wrong wise tobacco expire venue journey repair awesome";

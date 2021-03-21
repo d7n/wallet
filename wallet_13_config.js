@@ -1,1 +1,1 @@
-var mnemonic = "nice denial drip return census relax marriage alley nurse pear civil struggle";
+var mnemonic = "debris scheme atom animal sphere abuse eternal brisk cancel save kite antique";

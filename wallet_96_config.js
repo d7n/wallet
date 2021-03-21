@@ -1,1 +1,1 @@
-var mnemonic = "cupboard length ranch rebuild insect hurry elegant dance sure blood analyst crisp";
+var mnemonic = "portion guard lobster twist use churn become corn unable tornado jealous goat";

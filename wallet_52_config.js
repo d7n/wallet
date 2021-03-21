@@ -1,1 +1,1 @@
-var mnemonic = "pitch solve dust fiscal park clinic notable tray volcano mountain visit remind";
+var mnemonic = "gun apple spin subway omit come exist daughter come vessel remain flame";
