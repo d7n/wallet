@@ -1,1 +1,1 @@
-var mnemonic = "session kidney holiday seek work pair face mechanic rather inmate budget female";
+var mnemonic = "flash latin like crime benefit inch piece access era barrel tell loop";

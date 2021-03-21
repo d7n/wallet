@@ -1,1 +1,1 @@
-var mnemonic = "toy dune supply shaft cart tank almost similar chalk under pulse typical";
+var mnemonic = "demand castle saddle memory judge gallery salmon orchard patch daring skull lyrics";

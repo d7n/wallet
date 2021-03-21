@@ -1,1 +1,1 @@
-var mnemonic = "lion butter museum elevator evil another fence release wrestle pattern laugh unlock";
+var mnemonic = "vehicle that fix drastic embark hamster grid lamp grant wolf drift kite";

@@ -1,1 +1,1 @@
-var mnemonic = "island myth cloud window trigger fork cable oil whale quantum about emotion";
+var mnemonic = "point lamp practice wolf film wise bridge region pitch pause burst zoo";

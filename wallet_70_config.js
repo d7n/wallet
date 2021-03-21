@@ -1,1 +1,1 @@
-var mnemonic = "between notice bind company bomb raw canyon coral drill title worry tower";
+var mnemonic = "year twenty spy cargo talk now vacuum subject venture case vacant soap";

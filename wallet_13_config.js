@@ -1,1 +1,1 @@
-var mnemonic = "grant fossil pepper artist jealous net garden diesel panther industry submit oblige";
+var mnemonic = "divert basket animal minor dwarf average leisure soccer stool fame goddess rally";

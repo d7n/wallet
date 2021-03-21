@@ -1,1 +1,1 @@
-var mnemonic = "raise text warfare cool gate remove fossil category pledge creek vibrant this";
+var mnemonic = "note false length vanish idea improve kiwi month you monitor alert cloth";

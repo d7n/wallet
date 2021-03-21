@@ -1,1 +1,1 @@
-var mnemonic = "mean skill kiss throw exit huge away canvas human depth gravity tool";
+var mnemonic = "inject wish duty zoo tent cotton woman shrug bridge forget bacon butter";

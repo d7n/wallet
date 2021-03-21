@@ -1,1 +1,1 @@
-var mnemonic = "relief kick window repair city citizen foil object pluck myself grit rough";
+var mnemonic = "fine safe erosion blossom hub zero outer capital hope ecology glory census";

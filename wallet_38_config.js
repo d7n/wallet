@@ -1,1 +1,1 @@
-var mnemonic = "elite glance fashion essence man shed lyrics defense salute change lyrics immense";
+var mnemonic = "car chair state voyage vintage usual coach magnet captain soul boat follow";

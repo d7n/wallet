@@ -1,1 +1,1 @@
-var mnemonic = "remind sting lottery replace express marine body churn sure sugar puppy sunny";
+var mnemonic = "wrong craft exist inmate venue strategy doll cannon conduct pupil cancel tell";

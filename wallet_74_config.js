@@ -1,1 +1,1 @@
-var mnemonic = "differ strategy illness today violin cliff outer hub oven lecture letter stairs";
+var mnemonic = "visual junk peasant unusual valley rapid witness tool stove album daring vacant";

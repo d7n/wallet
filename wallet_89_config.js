@@ -1,1 +1,1 @@
-var mnemonic = "anchor hair scorpion dizzy hazard inject dad hurdle solution essay then caught";
+var mnemonic = "jeans foam mistake report bring thunder home hour virus team syrup vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp tumble clown pass lyrics ball cost banner until keep about auto";
+var mnemonic = "hospital laptop basic icon fury phrase chunk labor bacon cradle machine year";

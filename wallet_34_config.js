@@ -1,1 +1,1 @@
-var mnemonic = "diamond huge interest popular disorder question slab nuclear slab main aim media";
+var mnemonic = "meat helmet rifle truth category measure nature payment ketchup unable chunk trip";

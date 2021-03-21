@@ -1,1 +1,1 @@
-var mnemonic = "alley puppy harvest twin crater beef transfer ladder setup together gold achieve";
+var mnemonic = "quantum toy rocket brand iron bridge wall record assist letter vapor wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent light point glass club depth match cloud dwarf rose hope shiver";
+var mnemonic = "involve idea black balcony switch maple fetch federal mango bird memory grape";

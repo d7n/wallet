@@ -1,1 +1,1 @@
-var mnemonic = "cancel subway very pencil eagle lottery thunder crime earth moral hunt meadow";
+var mnemonic = "inch prevent daughter sphere motor quick nest apart belt uphold grape nephew";

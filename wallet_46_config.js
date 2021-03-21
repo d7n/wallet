@@ -1,1 +1,1 @@
-var mnemonic = "memory fault cancel section juice color report prosper width taste bridge tunnel";
+var mnemonic = "garment slush virtual mistake purchase zero family scene manual solar whale sting";

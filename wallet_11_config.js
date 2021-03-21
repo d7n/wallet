@@ -1,1 +1,1 @@
-var mnemonic = "account future explain betray maze critic grid tree spike clutch air among";
+var mnemonic = "identify concert together music long coconut language december word inform design popular";

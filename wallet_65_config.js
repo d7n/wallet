@@ -1,1 +1,1 @@
-var mnemonic = "orphan critic segment above team crash outdoor turn portion loop fiber faint";
+var mnemonic = "air flush tip barrel camp never ocean gadget increase memory beauty jacket";

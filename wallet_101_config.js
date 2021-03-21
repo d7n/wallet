@@ -1,1 +1,1 @@
-var mnemonic = "bean cloud coral empty oak nothing interest nice link pigeon symbol tiny";
+var mnemonic = "circle armor defy belt guess sense random correct under sort ladder anchor";

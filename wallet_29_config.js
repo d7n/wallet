@@ -1,1 +1,1 @@
-var mnemonic = "village dutch fever praise ethics heavy end heart dune hat already retire";
+var mnemonic = "blind chat egg milk carpet away pelican detail cliff melt simple either";

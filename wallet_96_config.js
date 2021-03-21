@@ -1,1 +1,1 @@
-var mnemonic = "weasel hockey sample retreat century drive cash hole forest hover cool exclude";
+var mnemonic = "radar rookie alcohol cloth foam ancient lawn law quit brief refuse share";

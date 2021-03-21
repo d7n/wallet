@@ -1,1 +1,1 @@
-var mnemonic = "disorder radar rebuild prosper screen large myth green stand cat sketch spot";
+var mnemonic = "soul survey grant typical dirt bubble twist arctic devote situate skirt fossil";

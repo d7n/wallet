@@ -1,1 +1,1 @@
-var mnemonic = "company under over boat grit benefit pass month upset open space various";
+var mnemonic = "mimic lonely divide success dilemma fiscal great solar surround infant mango axis";

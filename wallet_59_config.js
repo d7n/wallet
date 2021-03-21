@@ -1,1 +1,1 @@
-var mnemonic = "arrive gain near sleep drop lift dial trick puzzle coconut bullet traffic";
+var mnemonic = "garment scale vapor chimney club wreck frost illegal erase response traffic leg";

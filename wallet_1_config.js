@@ -1,1 +1,1 @@
-var mnemonic = "boat child daring outdoor crawl half kangaroo possible disease silent oppose paper";
+var mnemonic = "clutch pulse job allow monkey into knock burden obtain crowd parent this";

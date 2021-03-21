@@ -1,1 +1,1 @@
-var mnemonic = "age brother clog improve grain fat plunge swift ivory right advice stem";
+var mnemonic = "craft swallow toss cart settle canvas school damage puppy upgrade hero remember";

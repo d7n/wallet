@@ -1,1 +1,1 @@
-var mnemonic = "hen impulse excuse lounge useful click punch humor bubble few bicycle add";
+var mnemonic = "index around fork opera oven left wreck pull smoke remove check grid";

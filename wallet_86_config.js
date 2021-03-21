@@ -1,1 +1,1 @@
-var mnemonic = "explain forget vocal hotel riot purse north scrap wood pact virus injury";
+var mnemonic = "obtain pigeon under label junior dolphin attack intact brief goose now love";

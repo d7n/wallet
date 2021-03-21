@@ -1,1 +1,1 @@
-var mnemonic = "clump bracket head spring sweet ship jeans pave current cinnamon fee check";
+var mnemonic = "key used kidney kitchen senior sort also they arena planet army leaf";

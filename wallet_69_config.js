@@ -1,1 +1,1 @@
-var mnemonic = "earth cute promote search office alter melt minimum cute mom exile brave";
+var mnemonic = "tattoo curtain man absorb evidence asthma bacon fragile solution keen dash key";

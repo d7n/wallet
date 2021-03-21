@@ -1,1 +1,1 @@
-var mnemonic = "lobster slide border sort speak shy try violin fluid dad neither adult";
+var mnemonic = "pill wide gas cupboard slice spice stumble link detail lecture castle hunt";

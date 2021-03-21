@@ -1,1 +1,1 @@
-var mnemonic = "issue ride daring fortune trim curve source feature hold reject cruel leg";
+var mnemonic = "camp become own civil legal tip garlic vanish drive hammer what illness";

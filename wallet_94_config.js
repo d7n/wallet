@@ -1,1 +1,1 @@
-var mnemonic = "milk ghost sustain identify employ bronze surround conduct start equip clock cargo";
+var mnemonic = "tennis pink apple private leader roast confirm clap hand hurt worth avocado";

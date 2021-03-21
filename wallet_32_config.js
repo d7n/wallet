@@ -1,1 +1,1 @@
-var mnemonic = "skill there local lion view series luggage isolate isolate rail brush inquiry";
+var mnemonic = "fuel phone twenty fix cancel patient mother ostrich produce seminar goose indicate";

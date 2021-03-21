@@ -1,1 +1,1 @@
-var mnemonic = "kid right lens patient outside scene wisdom pelican basket safe moon top";
+var mnemonic = "unusual neither canyon surprise gap wrist online inflict stereo pupil drastic utility";

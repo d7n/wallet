@@ -1,1 +1,1 @@
-var mnemonic = "evoke engine interest cross wrap pull aerobic base mechanic uncle cat discover";
+var mnemonic = "dragon aware weird cook glue hour stock garden film raven message uphold";

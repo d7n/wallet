@@ -1,1 +1,1 @@
-var mnemonic = "brief coyote wait tooth nice cook hold swallow swap fork supply bounce";
+var mnemonic = "spin offer seed napkin office box boat harbor any biology energy spend";

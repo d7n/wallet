@@ -1,1 +1,1 @@
-var mnemonic = "end advice observe spell blood special logic actor state defy sadness solid";
+var mnemonic = "hawk bacon funny wheel large hello minor account local blame pen jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "strike digital praise immune noble face romance tube brisk sister novel wage";
+var mnemonic = "soldier ethics culture reject kick exhibit giraffe online salad marble design knock";

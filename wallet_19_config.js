@@ -1,1 +1,1 @@
-var mnemonic = "wood rebuild love next trouble lend ivory miracle book talk small wash";
+var mnemonic = "ten myth apology lazy wish abandon vivid digital snap bubble worry patient";

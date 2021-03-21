@@ -1,1 +1,1 @@
-var mnemonic = "pitch scale dial grunt problem minor flash lamp question high velvet lecture";
+var mnemonic = "burst arena mutual horse panic client tumble universe ski fitness upset figure";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit ten sunset unaware subject urban glance inquiry current visa spray hill";
+var mnemonic = "jar artist toy fox wasp bean rather tube dust village shiver goose";

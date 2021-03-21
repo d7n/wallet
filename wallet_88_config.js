@@ -1,1 +1,1 @@
-var mnemonic = "decline fragile parrot cinnamon solve name axis radio when chat dragon where";
+var mnemonic = "fox gas collect mobile federal coach curious naive sense meadow lamp cube";

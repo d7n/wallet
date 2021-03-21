@@ -1,1 +1,1 @@
-var mnemonic = "tackle noble long near retreat mammal mirror approve deputy stone apart sock";
+var mnemonic = "close whale cable resist because onion eye total shed space reflect submit";

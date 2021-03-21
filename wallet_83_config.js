@@ -1,1 +1,1 @@
-var mnemonic = "hidden doll drum little bring twelve fog matter motor animal innocent february";
+var mnemonic = "special salon private nothing screen suffer deputy lock type coconut dragon invest";

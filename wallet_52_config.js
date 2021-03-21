@@ -1,1 +1,1 @@
-var mnemonic = "walk tower object actor vicious ride scheme solid uncle casual toward west";
+var mnemonic = "slight sunny luxury pelican supply tape swear ketchup action someone load also";

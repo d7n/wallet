@@ -1,1 +1,1 @@
-var mnemonic = "skull panther cotton friend improve minor intact sight inmate tide stool flag";
+var mnemonic = "sun repair infant fault robot stomach farm mushroom invest predict venue midnight";

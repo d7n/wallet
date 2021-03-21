@@ -1,1 +1,1 @@
-var mnemonic = "fame extend group speed alone sunny bless lawn jazz imitate water ketchup";
+var mnemonic = "orbit visa sunset pottery bone column pretty bring mass glue famous two";

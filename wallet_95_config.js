@@ -1,1 +1,1 @@
-var mnemonic = "second jungle across path envelope pattern consider slight foam enrich junior absurd";
+var mnemonic = "pyramid divorce rigid attack base host guitar steak cart across post among";

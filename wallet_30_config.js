@@ -1,1 +1,1 @@
-var mnemonic = "bless breeze annual morning brick such prison sense square bargain injury rotate";
+var mnemonic = "thank flee cancel account exclude hockey shuffle column gloom bitter minute detect";

@@ -1,1 +1,1 @@
-var mnemonic = "circle chat girl dash laugh message cherry oxygen track network heart artefact";
+var mnemonic = "guard tennis family rough cloud hub display destroy drastic identify pipe during";

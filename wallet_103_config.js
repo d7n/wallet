@@ -1,1 +1,1 @@
-var mnemonic = "always lunch food cancel solar square abstract setup proof electric project gospel";
+var mnemonic = "author poet advice attract sentence dentist history youth mixture tragic charge kit";

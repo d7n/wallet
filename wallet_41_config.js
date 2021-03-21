@@ -1,1 +1,1 @@
-var mnemonic = "possible fetch segment river wild dial type industry grocery blur clay mechanic";
+var mnemonic = "piano learn foster thrive scene bachelor rude okay duck floor enter budget";

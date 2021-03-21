@@ -1,1 +1,1 @@
-var mnemonic = "access rebuild topple wood fit best airport lounge laundry install wet magnet";
+var mnemonic = "misery force merit orient stage poem crime flock debris wet version woman";

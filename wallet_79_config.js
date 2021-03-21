@@ -1,1 +1,1 @@
-var mnemonic = "budget cannon galaxy learn absent pony stadium help amateur deal give act";
+var mnemonic = "clinic update flee bronze dinosaur angle one apology twice praise march humble";

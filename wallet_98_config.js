@@ -1,1 +1,1 @@
-var mnemonic = "vast notice dizzy large ethics energy good top mobile blind upper soap";
+var mnemonic = "plug mango donor when eagle awkward hammer spin sell worry pool cry";

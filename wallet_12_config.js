@@ -1,1 +1,1 @@
-var mnemonic = "leopard display solve thrive pink quality welcome steak supply bike maid enlist";
+var mnemonic = "century wool doll crash wire replace enrich example today leave vacant urge";

@@ -1,1 +1,1 @@
-var mnemonic = "basket file stem detect science artist thumb drama six ethics nose faint";
+var mnemonic = "equip enhance resource other depend husband trim interest stadium toward resist inhale";

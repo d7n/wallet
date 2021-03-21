@@ -1,1 +1,1 @@
-var mnemonic = "cry allow fire vast nurse panther ask this trust wild casino tuna";
+var mnemonic = "siege patch cage digital element fluid cement together pave parent race wire";

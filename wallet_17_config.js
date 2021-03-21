@@ -1,1 +1,1 @@
-var mnemonic = "toss hundred kick dice garage digital notable digital edge farm connect coin";
+var mnemonic = "boring repair umbrella belt label lunch good rabbit ripple option quote reunion";

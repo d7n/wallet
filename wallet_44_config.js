@@ -1,1 +1,1 @@
-var mnemonic = "border term above boring gold armor pave vendor anger lesson announce unit";
+var mnemonic = "risk federal crane civil screen paper giant upper inform color suit crowd";

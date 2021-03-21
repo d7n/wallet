@@ -1,1 +1,1 @@
-var mnemonic = "evil oblige food much slush engine enact crowd admit better magic switch";
+var mnemonic = "virtual year solve bomb inspire category output boss pond emerge all chef";

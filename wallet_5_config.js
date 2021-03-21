@@ -1,1 +1,1 @@
-var mnemonic = "devote fee victory salad olive powder silver science basic ball good aim";
+var mnemonic = "forest spawn pass concert advance alpha foil raccoon pole side hurdle anchor";

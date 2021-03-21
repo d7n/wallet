@@ -1,1 +1,1 @@
-var mnemonic = "enrich assault govern about canoe wash fire color unfold file firm skirt";
+var mnemonic = "desk arrow maid only all twice ripple inform real life autumn autumn";

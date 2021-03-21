@@ -1,1 +1,1 @@
-var mnemonic = "near appear voyage film harbor glad state twelve knee ivory liquid depth";
+var mnemonic = "fuel often tuition dream suggest observe seminar move juice noodle crowd vivid";

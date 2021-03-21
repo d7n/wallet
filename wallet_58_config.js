@@ -1,1 +1,1 @@
-var mnemonic = "broom legal hair cage potato between melt genre bread require citizen leopard";
+var mnemonic = "alert knock rebel easily slim forum family arctic pool figure soda hotel";

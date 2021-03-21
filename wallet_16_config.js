@@ -1,1 +1,1 @@
-var mnemonic = "sign demand evidence rather naive bean initial enforce almost swallow use uncle";
+var mnemonic = "evoke skill cake joke illegal quantum below bacon stove engine denial aspect";

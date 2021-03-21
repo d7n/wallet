@@ -1,1 +1,1 @@
-var mnemonic = "recycle seek discover combine prefer insane glide phrase worth decade pink size";
+var mnemonic = "air chimney worth boost ice strong bulb giggle sad disorder simple surface";

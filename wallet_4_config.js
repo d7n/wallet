@@ -1,1 +1,1 @@
-var mnemonic = "program ribbon baby ship artefact step embrace amused decade pledge crowd debris";
+var mnemonic = "you melt antenna during pelican kick glad enrich spike forward safe flower";

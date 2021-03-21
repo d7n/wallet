@@ -1,1 +1,1 @@
-var mnemonic = "venture donate absent cradle interest narrow carpet crumble know round hair brave";
+var mnemonic = "adjust exotic morning like lesson pledge second helmet sure select gravity include";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm genuine steak exercise key reveal essence have flash actor erode sadness";
+var mnemonic = "father pipe follow core wise paddle kid want jump churn collect access";

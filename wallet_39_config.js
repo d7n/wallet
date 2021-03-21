@@ -1,1 +1,1 @@
-var mnemonic = "rely cheese cancel beach true educate liar bulk diamond close clip wedding";
+var mnemonic = "craft surprise inject try swallow genre hero tilt ritual ticket spider behave";

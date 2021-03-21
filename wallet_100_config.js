@@ -1,1 +1,1 @@
-var mnemonic = "rare skull arrow cannon shadow venture alley gallery ranch slice emotion use";
+var mnemonic = "sample mask endless car drink trash minute seed seek clog describe shuffle";

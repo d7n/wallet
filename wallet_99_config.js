@@ -1,1 +1,1 @@
-var mnemonic = "decade carpet federal never section forward provide champion chest next artwork busy";
+var mnemonic = "butter turtle chest edit enrich fresh acoustic endorse crunch embody tobacco infant";

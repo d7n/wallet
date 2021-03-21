@@ -1,1 +1,1 @@
-var mnemonic = "cluster glove like solve spider census service account label girl immune ahead";
+var mnemonic = "loyal lock initial silent venue test toy ocean baby prison become gadget";

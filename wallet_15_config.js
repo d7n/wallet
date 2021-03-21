@@ -1,1 +1,1 @@
-var mnemonic = "ready prepare crush gas custom devote helmet noise observe settle hotel retire";
+var mnemonic = "toast detect element vintage talk outer culture maple fold announce hair cage";

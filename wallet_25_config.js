@@ -1,1 +1,1 @@
-var mnemonic = "spatial urban whale push distance script device fragile cupboard click net region";
+var mnemonic = "update melt bounce awful wait donate sunset pistol card aerobic retire repair";

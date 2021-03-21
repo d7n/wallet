@@ -1,1 +1,1 @@
-var mnemonic = "frown soon firm pattern lucky hover add quarter achieve acid general patrol";
+var mnemonic = "neutral glory creek cricket love spot deny change movie soldier business what";

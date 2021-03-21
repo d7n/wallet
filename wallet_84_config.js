@@ -1,1 +1,1 @@
-var mnemonic = "spy critic text swing whip rocket steak question sting auto hover cargo";
+var mnemonic = "survey chest nothing easy rule badge energy arrive vapor sister increase barrel";

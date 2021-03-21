@@ -1,1 +1,1 @@
-var mnemonic = "demise gospel wet skin series tourist novel appear deny fix code budget";
+var mnemonic = "venue speak scale dutch sweet box symptom fix fee case oppose good";

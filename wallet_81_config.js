@@ -1,1 +1,1 @@
-var mnemonic = "secret input crime inquiry siren erosion cross vocal verb cycle happy bright";
+var mnemonic = "local stock aim animal summer glare canal action brick dragon cluster token";

@@ -1,1 +1,1 @@
-var mnemonic = "coast seed quit zero few goat party concert skill galaxy coconut note";
+var mnemonic = "acid club myth shield install dose breeze liar cliff armed subway limit";
