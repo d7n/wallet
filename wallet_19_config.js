@@ -1,1 +1,1 @@
-var mnemonic = "feature embrace enter spike pyramid mixed hope sail kind true spider rural";
+var mnemonic = "good way future gadget roast evidence evoke jungle cause coral vocal judge";

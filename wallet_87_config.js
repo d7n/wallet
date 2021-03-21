@@ -1,1 +1,1 @@
-var mnemonic = "own evoke game sketch green cloth arm seven fee wash ladder pill";
+var mnemonic = "parent inherit odor expand weird left doll depart seat vibrant right drink";

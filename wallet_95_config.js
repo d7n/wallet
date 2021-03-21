@@ -1,1 +1,1 @@
-var mnemonic = "auto fossil drift inner youth dentist vintage pledge kit picnic skin task";
+var mnemonic = "flip ticket sister clever critic provide identify era final extend canvas venture";

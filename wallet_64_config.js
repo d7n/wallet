@@ -1,1 +1,1 @@
-var mnemonic = "curtain visual artist genre where shadow space bird weather doll never reopen";
+var mnemonic = "pigeon voice flower surface scout chunk winner blame axis resource hip pen";

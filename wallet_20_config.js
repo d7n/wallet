@@ -1,1 +1,1 @@
-var mnemonic = "feel way earth trouble document teach shaft turtle juice crowd usual love";
+var mnemonic = "need bid despair mother only reward suggest egg attack onion oblige worry";

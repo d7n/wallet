@@ -1,1 +1,1 @@
-var mnemonic = "arrange witness mistake proud royal spread believe nature collect place surface vacuum";
+var mnemonic = "toilet original push lizard bless dad acoustic sustain beef cat ready potato";

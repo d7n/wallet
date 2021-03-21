@@ -1,1 +1,1 @@
-var mnemonic = "rescue camera category hood artefact wire duck stone kick gossip pill prosper";
+var mnemonic = "setup budget ticket once evolve pulp liquid island skin bacon dice trash";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito eyebrow minor deputy more speak jealous cruise furnace game require cram";
+var mnemonic = "absorb degree wolf poem safe escape matter absorb birth alpha crack surge";

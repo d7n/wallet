@@ -1,1 +1,1 @@
-var mnemonic = "blast dog sure oxygen expect absurd radio drum leisure arrive hold work";
+var mnemonic = "fall era cricket steak job void endless stuff hover belt more initial";

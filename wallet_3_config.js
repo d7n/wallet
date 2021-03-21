@@ -1,1 +1,1 @@
-var mnemonic = "sorry blame skull velvet promote lucky parade pipe prefer load hungry smoke";
+var mnemonic = "design size ugly degree left raccoon chicken apart theory panic paddle skin";

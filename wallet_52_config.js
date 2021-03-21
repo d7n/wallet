@@ -1,1 +1,1 @@
-var mnemonic = "monster multiply ivory seven amount cricket boring dad engage limit retreat kid";
+var mnemonic = "false again perfect tennis clump romance river helmet inform swamp track merge";

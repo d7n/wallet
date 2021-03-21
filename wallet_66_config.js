@@ -1,1 +1,1 @@
-var mnemonic = "defense sadness account one crush reason spin siren today amused draft federal";
+var mnemonic = "advice drift episode myself pull resist tape deputy tooth grain property type";

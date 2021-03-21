@@ -1,1 +1,1 @@
-var mnemonic = "luggage sea need card crack type flash emotion aware cotton twin fame";
+var mnemonic = "pupil patrol day panel benefit frown midnight solar ski inflict vicious media";

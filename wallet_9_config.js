@@ -1,1 +1,1 @@
-var mnemonic = "palace diamond blue also churn try purchase bread enable initial disagree extend";
+var mnemonic = "circle kidney suit parade unique artist pride shoot egg loop alarm update";

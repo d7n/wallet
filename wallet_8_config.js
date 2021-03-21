@@ -1,1 +1,1 @@
-var mnemonic = "become clip olive comic sweet produce turn tide day cinnamon rocket holiday";
+var mnemonic = "scrap sheriff popular author wash inform rack lottery october profit blue stomach";

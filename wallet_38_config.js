@@ -1,1 +1,1 @@
-var mnemonic = "palace arrive describe list correct cover timber mutual flame cliff issue august";
+var mnemonic = "stomach dance one frown okay dolphin raccoon whisper rubber soldier candy first";

@@ -1,1 +1,1 @@
-var mnemonic = "guess cake crop reopen nothing exile jaguar skate stock length since chef";
+var mnemonic = "brave word nasty fuel exhaust taste involve favorite actor essence pattern stool";

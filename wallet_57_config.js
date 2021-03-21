@@ -1,1 +1,1 @@
-var mnemonic = "electric tunnel outside mom source column curtain lamp focus twice drill cable";
+var mnemonic = "mechanic practice gospel final stem vague fresh citizen metal term mango rich";

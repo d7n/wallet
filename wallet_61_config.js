@@ -1,1 +1,1 @@
-var mnemonic = "know network panda excess faculty random vacuum sport aware sort swim urban";
+var mnemonic = "planet suggest ghost wall art neglect aware trick pelican artefact shoulder tennis";

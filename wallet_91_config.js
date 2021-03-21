@@ -1,1 +1,1 @@
-var mnemonic = "nut weasel electric inject cloth alarm coffee camp elder jazz shallow faith";
+var mnemonic = "jaguar version current table spread harsh prepare balance wagon all antique cheap";

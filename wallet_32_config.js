@@ -1,1 +1,1 @@
-var mnemonic = "huge glare now group mule please addict meat call pink hollow lemon";
+var mnemonic = "marine ahead denial train minute fork roof phrase skull nominee skull radio";

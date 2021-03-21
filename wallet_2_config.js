@@ -1,1 +1,1 @@
-var mnemonic = "gossip develop social various scorpion fog situate puzzle camera oval travel dice";
+var mnemonic = "strike adult sell chalk want envelope diesel enough vanish shadow alien harbor";

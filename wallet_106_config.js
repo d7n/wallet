@@ -1,1 +1,1 @@
-var mnemonic = "enemy prevent token cost say powder when cigar claim monkey crew into";
+var mnemonic = "item cluster trim iron poverty all lecture price hold obvious alley trend";

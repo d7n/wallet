@@ -1,1 +1,1 @@
-var mnemonic = "blast above birth decide vintage ladder spin baby yellow vacant vast flame";
+var mnemonic = "decorate lawsuit lazy shoe rebuild slush torch faint salad tenant name initial";

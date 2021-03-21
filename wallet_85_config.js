@@ -1,1 +1,1 @@
-var mnemonic = "emotion fiction planet ceiling mountain movie struggle pelican session addict extend spider";
+var mnemonic = "carpet material donate blur dignity outdoor addict sunset husband bubble joke elbow";

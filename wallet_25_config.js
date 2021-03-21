@@ -1,1 +1,1 @@
-var mnemonic = "cash advance music abuse easy define humble ranch tent trust addict reopen";
+var mnemonic = "valley fog battle perfect mom almost monitor interest float velvet cage purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer travel solar before jaguar solution today anxiety style man carpet never";
+var mnemonic = "close feature brief danger juice park lemon duck face hungry grocery crush";

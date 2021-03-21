@@ -1,1 +1,1 @@
-var mnemonic = "shallow flat lyrics decrease start huge dog youth main force length ask";
+var mnemonic = "potato sword food sustain start total wrestle couple orbit clump viable measure";

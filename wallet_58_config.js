@@ -1,1 +1,1 @@
-var mnemonic = "august pact body impose scissors volume science little basic obvious pencil expect";
+var mnemonic = "buzz great wheat auto endorse dune defy decrease arrest fox easily village";

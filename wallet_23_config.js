@@ -1,1 +1,1 @@
-var mnemonic = "omit stadium travel famous ceiling eight stone scare tag fatigue satoshi marriage";
+var mnemonic = "buyer sight antenna treat hood spring live lecture horse choose obey border";

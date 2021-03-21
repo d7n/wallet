@@ -1,1 +1,1 @@
-var mnemonic = "where place chase lecture saddle lobster skull make axis flight west about";
+var mnemonic = "disease wrist puzzle romance shrimp start kit myth whisper stable rubber volume";

@@ -1,1 +1,1 @@
-var mnemonic = "roast jewel marine kit bless awful black pupil sister actual index horse";
+var mnemonic = "junior various lizard parent zoo still embody culture year rival unhappy width";

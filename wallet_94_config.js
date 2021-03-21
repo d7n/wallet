@@ -1,1 +1,1 @@
-var mnemonic = "dumb hospital pupil trap bounce piano cake throw corn drop onion sand";
+var mnemonic = "favorite spare minimum cargo purity master arrange battle minor thing myself typical";

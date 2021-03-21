@@ -1,1 +1,1 @@
-var mnemonic = "average yellow swing lucky neglect orient curve will display resist buddy insane";
+var mnemonic = "fruit cup ceiling engage can enhance pepper unfold goose connect wild puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce horse melt spice luxury please design double camp rotate rally ice";
+var mnemonic = "puppy nuclear truck explain help come quit cry sound off animal mango";

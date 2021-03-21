@@ -1,1 +1,1 @@
-var mnemonic = "special mimic company strategy exhibit industry citizen middle trip win whale aware";
+var mnemonic = "horror gift photo vintage leader voice delay web come oblige ice stay";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble mandate banana inside design grab undo claim wash tiny across ripple";
+var mnemonic = "cram invest chapter luggage engage assume monster tide fitness shop unveil diet";

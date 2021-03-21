@@ -1,1 +1,1 @@
-var mnemonic = "vessel breeze borrow grab achieve blanket verb large dragon unveil curious ridge";
+var mnemonic = "curve wheat detect nation deer grid outer waste oil amazing mechanic card";

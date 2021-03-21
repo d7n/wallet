@@ -1,1 +1,1 @@
-var mnemonic = "bonus soon limb artwork seed exact frequent junk visual will alcohol bid";
+var mnemonic = "buyer believe relief wish sword traffic nothing dog thrive cliff vanish bone";

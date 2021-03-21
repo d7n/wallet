@@ -1,1 +1,1 @@
-var mnemonic = "job plate oak aware armed device uncover jazz dolphin unknown canyon undo";
+var mnemonic = "search ring mix laptop material hunt purpose urge member gold ginger drink";

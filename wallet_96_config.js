@@ -1,1 +1,1 @@
-var mnemonic = "drive invite inmate horse uphold once pond assume direct pave file order";
+var mnemonic = "enforce hurry atom magnet circle client toss drip tired knee borrow angry";

@@ -1,1 +1,1 @@
-var mnemonic = "miss mention express diet chef amount sniff armor measure fence search burst";
+var mnemonic = "chuckle icon tomato valley deputy sing refuse tornado damp mass october shed";

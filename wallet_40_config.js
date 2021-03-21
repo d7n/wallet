@@ -1,1 +1,1 @@
-var mnemonic = "satisfy begin marriage tiger audit birth job swing amazing ignore silent walk";
+var mnemonic = "thumb stumble pause safe lab twice wash goose urban fashion sadness middle";

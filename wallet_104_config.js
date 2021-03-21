@@ -1,1 +1,1 @@
-var mnemonic = "deposit juice champion under fame sauce artefact imitate modify spice cover riot";
+var mnemonic = "ensure pair giraffe claim autumn observe number shoulder solution orchard recycle alcohol";

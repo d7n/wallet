@@ -1,1 +1,1 @@
-var mnemonic = "harvest someone title shed anger match fog episode cloud inherit uncle assault";
+var mnemonic = "expect liquid action actual sell trip defy height cruel forget leisure crunch";

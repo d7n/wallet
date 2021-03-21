@@ -1,1 +1,1 @@
-var mnemonic = "party spoil news shed share salad crouch sight awful easily palace mechanic";
+var mnemonic = "second leisure plunge ignore pony alcohol stage shield tube trophy angry stadium";

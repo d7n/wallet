@@ -1,1 +1,1 @@
-var mnemonic = "spoon accuse sorry pelican symbol shield spy always auto spot best top";
+var mnemonic = "abstract slow sample museum donate record skill space wet boat nation make";

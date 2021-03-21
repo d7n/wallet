@@ -1,1 +1,1 @@
-var mnemonic = "polar gas bless someone window loud adapt head supreme destroy bulb voice";
+var mnemonic = "decade door unusual cannon void erupt train web memory venture spike paper";

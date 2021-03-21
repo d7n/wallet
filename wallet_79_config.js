@@ -1,1 +1,1 @@
-var mnemonic = "build tree normal over sure gown nephew trend gentle sponsor pelican sleep";
+var mnemonic = "forest toward case hollow muffin artefact okay wolf lift bike elite supply";

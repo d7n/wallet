@@ -1,1 +1,1 @@
-var mnemonic = "boat ski sketch asthma people mixed size brisk cream hawk kiss useless";
+var mnemonic = "genre bless clutch attract truck one sustain belt timber there illness love";

@@ -1,1 +1,1 @@
-var mnemonic = "great monitor junior gown hood tomorrow stamp purpose kitchen dish sample biology";
+var mnemonic = "august north combine innocent total legal rifle fog ketchup piece immune piece";

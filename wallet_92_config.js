@@ -1,1 +1,1 @@
-var mnemonic = "outside second cannon chicken forum audit portion thing edit verb promote orchard";
+var mnemonic = "brick near green connect differ judge region layer fantasy vote profit undo";

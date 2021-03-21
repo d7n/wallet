@@ -1,1 +1,1 @@
-var mnemonic = "umbrella duck egg mandate total left cupboard tackle sleep marine cause situate";
+var mnemonic = "escape jump abandon angry nice fold excess deputy life flavor picnic theory";

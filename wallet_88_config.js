@@ -1,1 +1,1 @@
-var mnemonic = "sorry blood among crime duck hand spatial impose pink agree crowd bring";
+var mnemonic = "beauty actor kick spike initial audit kiwi wisdom ethics volcano celery promote";

@@ -1,1 +1,1 @@
-var mnemonic = "skull around patient orchard jungle card horse kid scatter spell acid enough";
+var mnemonic = "erode spin wisdom stadium anger trim ethics maximum flash page they hover";

@@ -1,1 +1,1 @@
-var mnemonic = "flight lawsuit protect jar group want noise fun wash flee proud page";
+var mnemonic = "couple total edit bean poem soccer tornado planet diagram jeans diamond behind";

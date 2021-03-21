@@ -1,1 +1,1 @@
-var mnemonic = "farm ski antique foam ramp meat side this loop blanket easily lizard";
+var mnemonic = "once bar bar wheat negative cheap observe dish inject range dice payment";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow trash wall wave spirit fish extend profit output bounce leader sail";
+var mnemonic = "squeeze rice neglect deal run renew interest balance trend select addict between";

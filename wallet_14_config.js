@@ -1,1 +1,1 @@
-var mnemonic = "real mimic offer absorb resist cherry mushroom enrich toddler sentence demise fly";
+var mnemonic = "talent swift valid illness great return script safe poverty deer inflict major";

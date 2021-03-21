@@ -1,1 +1,1 @@
-var mnemonic = "join faith announce awkward high media body fatal draft motion begin heart";
+var mnemonic = "polar insect wrong provide valve run office news mail reward name damage";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling help clay album space breeze boost level jeans album feature notable";
+var mnemonic = "area seven mouse way view middle web position worth local other hat";

@@ -1,1 +1,1 @@
-var mnemonic = "border churn aisle food film moral polar choice volume document resist spell";
+var mnemonic = "kingdom add keen quit penalty oak that latin arrive diamond uncle wink";

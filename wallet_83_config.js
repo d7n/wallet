@@ -1,1 +1,1 @@
-var mnemonic = "green depart repeat punch unfair sign supply clutch grid place priority genius";
+var mnemonic = "rich diamond burger erosion street purity armor use require cup chimney paper";

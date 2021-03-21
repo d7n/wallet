@@ -1,1 +1,1 @@
-var mnemonic = "label jungle fine submit world shrug garbage split mountain crush kidney affair";
+var mnemonic = "chunk ramp below physical cram occur million renew like blue arrange slow";

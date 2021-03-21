@@ -1,1 +1,1 @@
-var mnemonic = "security harbor occur zero fat honey ghost next lounge east aspect stamp";
+var mnemonic = "vacuum dish govern exact alien decide crumble hint mass change fetch piece";

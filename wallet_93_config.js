@@ -1,1 +1,1 @@
-var mnemonic = "arrange fitness earth rice muffin wire unit kid canal attitude perfect coconut";
+var mnemonic = "vague tiger region water knife pulp board vanish tornado choice express two";

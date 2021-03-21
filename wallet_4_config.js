@@ -1,1 +1,1 @@
-var mnemonic = "live school digital piano joy acoustic still sand pulse private become awake";
+var mnemonic = "entry twenty exercise pole fade bind embrace poet cinnamon rate smoke review";

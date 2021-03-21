@@ -1,1 +1,1 @@
-var mnemonic = "lounge tip chef denial merry grant pumpkin install winner diet infant wage";
+var mnemonic = "balcony decide buddy vast weird drip predict wear motor inherit magic airport";

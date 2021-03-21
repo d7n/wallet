@@ -1,1 +1,1 @@
-var mnemonic = "south maid repair idea ramp friend purpose vacuum reflect reveal erosion crucial";
+var mnemonic = "orchard prepare scrub tongue letter silver nest elite push cup horn arrange";

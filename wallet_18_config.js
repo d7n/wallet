@@ -1,1 +1,1 @@
-var mnemonic = "garbage icon ecology genre suggest post about congress pilot initial agent jewel";
+var mnemonic = "decide cloud orient smile strike actor setup sorry trap cigar switch staff";

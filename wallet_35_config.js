@@ -1,1 +1,1 @@
-var mnemonic = "mention insect blush step morning prefer flip stomach unveil flag negative ahead";
+var mnemonic = "hurdle evoke silly target chair brush lemon laptop honey mind laundry kiwi";

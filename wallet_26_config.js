@@ -1,1 +1,1 @@
-var mnemonic = "multiply review slim culture choice excite bar afraid analyst orchard egg scale";
+var mnemonic = "alpha visit ensure satoshi capable fantasy health arctic october sweet typical project";

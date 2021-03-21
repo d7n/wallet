@@ -1,1 +1,1 @@
-var mnemonic = "pride digital pair major menu jeans business need canvas urge amazing pelican";
+var mnemonic = "glance broom orange satisfy country eyebrow beyond mobile toast attend twice magic";

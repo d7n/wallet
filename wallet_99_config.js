@@ -1,1 +1,1 @@
-var mnemonic = "shrimp echo curtain gate supply problem usage slice table rail ankle unlock";
+var mnemonic = "produce short machine truck cradle duck intact pull daring pool above later";

@@ -1,1 +1,1 @@
-var mnemonic = "feed february start rhythm answer harbor note museum skill wash giant reveal";
+var mnemonic = "verb zone melt pluck only uphold tray lesson rose inside inherit time";

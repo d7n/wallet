@@ -1,1 +1,1 @@
-var mnemonic = "until conduct honey chunk claw brain loud fashion layer follow flight chimney";
+var mnemonic = "acoustic woman slab gym office odor tide must interest memory mushroom damp";

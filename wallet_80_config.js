@@ -1,1 +1,1 @@
-var mnemonic = "bracket village miss prefer alarm debate coach ordinary walk venue ridge transfer";
+var mnemonic = "flock strike wire guess sun awkward remain dune swift deal play dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect elevator citizen fence surface panic pupil holiday child popular equal ranch";
+var mnemonic = "critic crunch harvest nest inner athlete click ball spawn exist shine grow";

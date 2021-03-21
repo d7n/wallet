@@ -1,1 +1,1 @@
-var mnemonic = "swallow journey again struggle question know practice anchor orphan frost orphan dignity";
+var mnemonic = "wait element narrow disease palm total know ocean quote beyond join define";

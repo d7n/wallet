@@ -1,1 +1,1 @@
-var mnemonic = "gather pool begin cat cream puzzle anxiety shoulder pride ball roast order";
+var mnemonic = "baby control until sun depend snack avocado expose pupil panda siren humor";

@@ -1,1 +1,1 @@
-var mnemonic = "ball prepare dance village tip actor marble boil ceiling member phrase cloth";
+var mnemonic = "kind ability whale power duty rare offer guilt repair wing museum search";

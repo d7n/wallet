@@ -1,1 +1,1 @@
-var mnemonic = "loyal potato hub fade cupboard coin orbit make frown buffalo digital card";
+var mnemonic = "scale stock muffin vivid almost secret history tip sausage thing intact reveal";

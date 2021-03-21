@@ -1,1 +1,1 @@
-var mnemonic = "parent own spring help lawn super cousin spot fortune asset play spirit";
+var mnemonic = "consider swear ask actual news enemy moment hair blast magic noodle able";

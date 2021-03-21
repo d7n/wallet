@@ -1,1 +1,1 @@
-var mnemonic = "one deer food coast assume talent swear monitor garbage rubber kiss cash";
+var mnemonic = "index walk must such hammer gloom enjoy nest fashion rural suit install";

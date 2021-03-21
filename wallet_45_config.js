@@ -1,1 +1,1 @@
-var mnemonic = "crane north change art hope family flee lizard away nice heart alter";
+var mnemonic = "impose major maid cram gown tackle rule reform cruel vague crazy turkey";

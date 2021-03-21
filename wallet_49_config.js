@@ -1,1 +1,1 @@
-var mnemonic = "hen produce yard album switch ahead weasel seminar cotton toddler morning fix";
+var mnemonic = "boring manual pole column blur differ veteran waste grid picture boost opinion";

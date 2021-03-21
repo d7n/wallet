@@ -1,1 +1,1 @@
-var mnemonic = "resemble garden wrist ginger draw beauty cram drop illegal tank decide easy";
+var mnemonic = "mask achieve hunt source cupboard employ fever twin strike inhale soul cereal";

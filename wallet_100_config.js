@@ -1,1 +1,1 @@
-var mnemonic = "artwork diary laundry stand grant cherry unique grab duty erosion fall stock";
+var mnemonic = "blur devote teach near call order slot talk similar wrong trip push";

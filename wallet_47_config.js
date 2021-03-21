@@ -1,1 +1,1 @@
-var mnemonic = "capable monkey sustain anger correct reveal oblige only long butter crime sustain";
+var mnemonic = "super syrup focus vocal youth brick reflect that age dilemma siege opera";
