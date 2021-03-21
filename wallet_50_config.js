@@ -1,1 +1,1 @@
-var mnemonic = "shine ivory sustain village brother march steel glue normal heart mandate panda";
+var mnemonic = "urban seminar mail hazard athlete alley exit cram bronze dial butter dose";

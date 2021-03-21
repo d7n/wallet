@@ -1,1 +1,1 @@
-var mnemonic = "file mouse host palm install cushion glance grant veteran fox salute broccoli";
+var mnemonic = "short divorce monkey sweet sadness urge there yellow seek memory day seven";

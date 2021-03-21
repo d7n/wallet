@@ -1,1 +1,1 @@
-var mnemonic = "few mom squeeze gift idle carry leaf style loan clever stereo share";
+var mnemonic = "bar wolf typical force bind forest prize bridge very blanket oven lunar";

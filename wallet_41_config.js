@@ -1,1 +1,1 @@
-var mnemonic = "sadness gentle open level flee focus render shed pledge grit now pluck";
+var mnemonic = "indoor buffalo lens spend remind issue bright pilot small truly habit direct";

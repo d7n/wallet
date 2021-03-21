@@ -1,1 +1,1 @@
-var mnemonic = "option spirit aisle day make fury spare ladder whale mistake stock aerobic";
+var mnemonic = "amateur survey measure stadium know flower local awkward guilt attract horn biology";

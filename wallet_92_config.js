@@ -1,1 +1,1 @@
-var mnemonic = "unfair buyer loop meat lend vintage hazard midnight call surround can neglect";
+var mnemonic = "humble bench panic finger pave night tobacco club subway display nasty few";

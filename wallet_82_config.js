@@ -1,1 +1,1 @@
-var mnemonic = "shy resemble honey nut neck genius flame setup cheese cabin wife mom";
+var mnemonic = "silk vast dove glove roast attitude ice course memory find weekend echo";

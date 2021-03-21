@@ -1,1 +1,1 @@
-var mnemonic = "timber defense apology economy march abandon gravity pigeon case funny reform title";
+var mnemonic = "when rebel forum crawl wet airport south ill remove dismiss asset menu";

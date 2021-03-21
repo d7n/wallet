@@ -1,1 +1,1 @@
-var mnemonic = "ask another wish blue because oxygen title mention hat bullet zoo install";
+var mnemonic = "interest voice post mechanic welcome luxury disagree curve want vanish cousin first";

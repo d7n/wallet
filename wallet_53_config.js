@@ -1,1 +1,1 @@
-var mnemonic = "aerobic dentist ladder vote buddy vocal addict air maple second police abuse";
+var mnemonic = "surge tribe talk dash poem liquid domain rally blast rival protect palace";

@@ -1,1 +1,1 @@
-var mnemonic = "road tobacco cluster chair tornado fringe educate tongue innocent portion delay own";
+var mnemonic = "hole swap trade hire fog awake health state bonus team weather book";

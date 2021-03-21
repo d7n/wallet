@@ -1,1 +1,1 @@
-var mnemonic = "cereal immune material shield okay verb prosper novel illegal resemble edit delay";
+var mnemonic = "fade already left destroy artwork forward repeat near bag okay around solid";

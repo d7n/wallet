@@ -1,1 +1,1 @@
-var mnemonic = "pottery usage bachelor fall absent impose cereal road able melody tornado enlist";
+var mnemonic = "chest retreat program success scare horn dad speed beach flat idle refuse";

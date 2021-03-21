@@ -1,1 +1,1 @@
-var mnemonic = "universe wolf fabric goat slim dog divide unique noodle enforce hungry lady";
+var mnemonic = "dwarf put clutch later palace begin someone diet champion excite giggle ocean";

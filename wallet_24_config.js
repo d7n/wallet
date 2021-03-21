@@ -1,1 +1,1 @@
-var mnemonic = "between key hood acoustic bunker win put useful delay spend hollow increase";
+var mnemonic = "cupboard galaxy enroll media grass obtain train pistol shine latin dignity isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon minimum use nest tell mesh labor area approve rather ginger tribe";
+var mnemonic = "reduce midnight bomb stadium hunt warm grape clinic render thing denial club";

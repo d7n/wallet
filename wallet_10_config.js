@@ -1,1 +1,1 @@
-var mnemonic = "property emerge senior father museum mobile chicken orphan under antenna habit hand";
+var mnemonic = "topple inject any annual acoustic dream napkin rare happy accuse kangaroo foot";

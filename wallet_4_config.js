@@ -1,1 +1,1 @@
-var mnemonic = "series follow velvet ginger lawsuit indicate infant top inside crack stone sister";
+var mnemonic = "shine attract tennis long fury spoon black mushroom risk wife alter plastic";

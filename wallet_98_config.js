@@ -1,1 +1,1 @@
-var mnemonic = "cook jazz predict boss above air purity two april arch nice salmon";
+var mnemonic = "sell struggle connect clutch mail upset chest brisk eternal arctic comic anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "advice public hip project drop top scan man garment account metal now";
+var mnemonic = "draft picnic chronic mandate decrease soft random message key bracket tilt donkey";

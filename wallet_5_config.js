@@ -1,1 +1,1 @@
-var mnemonic = "grow bonus orbit weapon decorate poem correct strong lady solar assault secret";
+var mnemonic = "shrimp phrase soft woman debate memory decade enjoy demise tomato brass trip";

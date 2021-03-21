@@ -1,1 +1,1 @@
-var mnemonic = "safe dish act inject bleak kick hub indoor unveil practice post april";
+var mnemonic = "rigid panda much unfair olive fortune patch must multiply winner earn sun";

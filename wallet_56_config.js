@@ -1,1 +1,1 @@
-var mnemonic = "moment treat lyrics circle certain plastic cost original shield harbor fine sleep";
+var mnemonic = "stand envelope hammer service thank margin tank escape rifle acoustic razor utility";

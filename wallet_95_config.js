@@ -1,1 +1,1 @@
-var mnemonic = "beef dream case before tennis early cinnamon auction cactus laundry dose finish";
+var mnemonic = "bird puppy leave digital level absorb this fantasy access loyal coil friend";

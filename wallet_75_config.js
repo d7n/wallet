@@ -1,1 +1,1 @@
-var mnemonic = "wave memory museum render giant antique spawn person welcome direct logic chimney";
+var mnemonic = "company embark pioneer inherit pause nest actress symptom meat globe abstract stereo";

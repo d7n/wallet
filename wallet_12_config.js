@@ -1,1 +1,1 @@
-var mnemonic = "scale fringe keen umbrella company solution file crunch obvious glove memory wheat";
+var mnemonic = "pen educate work disorder now ankle neutral title myth relief wet used";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna equip able oak smile capital skill veteran vacuum cabbage ocean ring";
+var mnemonic = "any reward vault outside brother voyage dwarf topic dinner almost oblige few";

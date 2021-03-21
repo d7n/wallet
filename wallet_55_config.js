@@ -1,1 +1,1 @@
-var mnemonic = "gentle enlist dust such awesome utility sentence outdoor powder city guard bamboo";
+var mnemonic = "cat install myself lady across thunder oyster brief clap elevator horror goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "below skirt plunge kingdom fancy civil own local trumpet father impulse strategy";
+var mnemonic = "harbor churn leaf reason lab noble marriage victory law bag wine attract";

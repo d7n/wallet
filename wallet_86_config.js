@@ -1,1 +1,1 @@
-var mnemonic = "please enter creek moral wonder sweet elbow amount endorse era recipe that";
+var mnemonic = "physical silver nerve scrub birth rifle pony unhappy snack cabin post neither";

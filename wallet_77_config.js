@@ -1,1 +1,1 @@
-var mnemonic = "stay tumble ski upon piece average symbol village paddle flash emotion absurd";
+var mnemonic = "retreat vast coffee element mechanic pink wolf swift convince volume dress gate";

@@ -1,1 +1,1 @@
-var mnemonic = "help figure custom employ inside badge aware nose airport public help enter";
+var mnemonic = "park guitar over crash smooth rely soft sentence pole erupt belt buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics network ranch history cable sheriff anger robust cross behave chimney lawn";
+var mnemonic = "virus volume rifle replace wear daring hamster cheap adjust never great amount";

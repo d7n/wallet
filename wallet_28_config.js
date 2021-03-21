@@ -1,1 +1,1 @@
-var mnemonic = "random life neglect spirit innocent shrug donate outdoor flower divide deliver twist";
+var mnemonic = "degree also audit control neither balance crop zone define luxury purpose trash";

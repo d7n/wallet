@@ -1,1 +1,1 @@
-var mnemonic = "april pig fitness deny piece canal mansion royal inside dignity next turn";
+var mnemonic = "permit stem muffin receive outside pumpkin online access latin whisper camp banner";

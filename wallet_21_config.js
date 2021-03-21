@@ -1,1 +1,1 @@
-var mnemonic = "bamboo net middle weasel click frost snap mass member brain cute season";
+var mnemonic = "play horror then bird endorse tool social intact silk vacuum net this";

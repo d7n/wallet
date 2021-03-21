@@ -1,1 +1,1 @@
-var mnemonic = "denial eye garment sea plug arm gravity layer coast price wear trophy";
+var mnemonic = "legal bus carpet leopard subject battle abstract top main spin chimney explain";

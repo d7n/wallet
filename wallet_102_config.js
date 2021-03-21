@@ -1,1 +1,1 @@
-var mnemonic = "absorb settle suspect wagon drink science weasel lobster tiger they pact more";
+var mnemonic = "cute letter forget legal chase finger tent liar net around public robot";

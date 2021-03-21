@@ -1,1 +1,1 @@
-var mnemonic = "disorder insane foot tongue fly palm faculty audit invite good zero major";
+var mnemonic = "wine sphere spike midnight you add latin venue glove filter shop ozone";

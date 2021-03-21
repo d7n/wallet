@@ -1,1 +1,1 @@
-var mnemonic = "that desk lend west regret movie trophy buddy spoil tree few bench";
+var mnemonic = "mom humor joke february brush lounge garbage hello drink umbrella put file";

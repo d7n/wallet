@@ -1,1 +1,1 @@
-var mnemonic = "enough thought clip cattle bar clock mixed require faint unique angle grab";
+var mnemonic = "main talk ramp charge camera mosquito east diesel shock mammal town pair";

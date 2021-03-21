@@ -1,1 +1,1 @@
-var mnemonic = "grape olive often parrot fitness fame boy resemble top acid destroy walk";
+var mnemonic = "tissue rule goose pencil scrub snake quiz trophy swear mind dance insect";

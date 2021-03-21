@@ -1,1 +1,1 @@
-var mnemonic = "peace model blossom save camp rotate memory insect project ensure depart force";
+var mnemonic = "myth corn apart code market flee survey between main world media spread";

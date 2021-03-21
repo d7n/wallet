@@ -1,1 +1,1 @@
-var mnemonic = "velvet ceiling price cage oyster agree buyer arrive target hammer dawn pony";
+var mnemonic = "despair appear beef estate arrest survey leopard evoke elite toilet stairs appear";

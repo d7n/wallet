@@ -1,1 +1,1 @@
-var mnemonic = "soft ghost high define when tip mosquito sword frown clog pause one";
+var mnemonic = "cloth rate fish zero fall seminar gesture poet plunge embark already category";

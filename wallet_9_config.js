@@ -1,1 +1,1 @@
-var mnemonic = "guilt market live appear leave month artist stairs quarter confirm furnace depth";
+var mnemonic = "mistake pudding sketch decrease riot gym fatal prevent genius upper tower auction";

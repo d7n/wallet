@@ -1,1 +1,1 @@
-var mnemonic = "chef machine behave enter strategy host youth mango rather trip canoe yellow";
+var mnemonic = "nice denial drip return census relax marriage alley nurse pear civil struggle";

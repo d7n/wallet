@@ -1,1 +1,1 @@
-var mnemonic = "worth artwork film dumb tourist pattern dice buffalo track step hockey basic";
+var mnemonic = "open month fee rack agent oak job oak mimic north height beyond";

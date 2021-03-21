@@ -1,1 +1,1 @@
-var mnemonic = "name medal today other ill outside seat direct nut idle search grow";
+var mnemonic = "mule consider feature mosquito envelope amateur cube dish hope jelly diet blame";

@@ -1,1 +1,1 @@
-var mnemonic = "clock cereal wreck brick inch frog shell vintage palm float fish sustain";
+var mnemonic = "museum need devote bean useless peanut wish begin ice legal raise harsh";

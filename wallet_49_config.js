@@ -1,1 +1,1 @@
-var mnemonic = "across drill bench vintage unaware corn scissors race search around pulse change";
+var mnemonic = "appear pass exact ghost table rebuild fluid escape toss slice album second";

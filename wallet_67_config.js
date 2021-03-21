@@ -1,1 +1,1 @@
-var mnemonic = "finger twenty shift must scare wagon dash gold hard weapon mammal moon";
+var mnemonic = "library correct body bunker disease captain candy before ancient cream grid upgrade";

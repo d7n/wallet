@@ -1,1 +1,1 @@
-var mnemonic = "nuclear crash disagree shop metal enough road stage swallow tissue profit imitate";
+var mnemonic = "nasty wedding dog render razor machine category library thrive crew apple clap";

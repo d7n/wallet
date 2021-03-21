@@ -1,1 +1,1 @@
-var mnemonic = "access aerobic sea employ junior original bird possible sure bulk hawk marriage";
+var mnemonic = "cute note leader consider again bicycle cage current resist year three matter";

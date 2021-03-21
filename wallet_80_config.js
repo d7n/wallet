@@ -1,1 +1,1 @@
-var mnemonic = "used receive used fox become denial income drip remember review cigar slight";
+var mnemonic = "stick unique bamboo moment leave drip people blood noble arrow expect domain";

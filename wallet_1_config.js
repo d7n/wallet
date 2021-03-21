@@ -1,1 +1,1 @@
-var mnemonic = "sleep pool unlock demise captain soldier fade razor lend hire muffin venue";
+var mnemonic = "render bleak base hollow pull twelve hybrid poverty sweet memory nephew dismiss";

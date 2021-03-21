@@ -1,1 +1,1 @@
-var mnemonic = "sketch pave raise execute shock employ claim goat police bus grass anger";
+var mnemonic = "result aim stone mention bleak goddess crisp tone degree rabbit myth fat";

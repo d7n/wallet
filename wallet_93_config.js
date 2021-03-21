@@ -1,1 +1,1 @@
-var mnemonic = "sausage pelican spawn measure cup slim lounge pond canal pond return panda";
+var mnemonic = "noodle bullet nose crowd raise stone page absent pretty judge undo model";

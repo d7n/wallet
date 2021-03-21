@@ -1,1 +1,1 @@
-var mnemonic = "chaos few first shuffle mother cupboard law garden dinosaur firm canoe media";
+var mnemonic = "focus sing desert need hunt bicycle door fantasy ecology lottery jacket bubble";

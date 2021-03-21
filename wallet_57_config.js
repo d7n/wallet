@@ -1,1 +1,1 @@
-var mnemonic = "alarm invest feed timber blanket involve push actress fit ready ordinary below";
+var mnemonic = "service casino move hamster retreat electric stone also olympic panel strong where";

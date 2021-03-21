@@ -1,1 +1,1 @@
-var mnemonic = "polar salon penalty aisle speak purity share stereo witness asset motion brass";
+var mnemonic = "outer rail maze invest razor adapt choose blossom eagle pistol swarm jelly";

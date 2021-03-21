@@ -1,1 +1,1 @@
-var mnemonic = "gentle office gallery visa number giant charge iron prevent sniff nominee ball";
+var mnemonic = "sword intact region region eternal sentence energy lyrics split peace accident ocean";

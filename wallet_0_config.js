@@ -1,1 +1,1 @@
-var mnemonic = "squeeze sorry island matrix unique remove trash angle unusual salute swap route";
+var mnemonic = "crane parade enroll eagle father ramp any potato window tell cannon square";

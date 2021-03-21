@@ -1,1 +1,1 @@
-var mnemonic = "surge draw height pelican glimpse garlic country network fossil toddler obvious daring";
+var mnemonic = "near auto course swallow snack never price resist thunder spin topic piece";

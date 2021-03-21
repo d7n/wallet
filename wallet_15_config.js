@@ -1,1 +1,1 @@
-var mnemonic = "bullet radar true parrot zebra pass picture image purse life august vintage";
+var mnemonic = "guilt nuclear fiber bulk few junk chronic solve diet food world unusual";

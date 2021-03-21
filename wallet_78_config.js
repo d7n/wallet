@@ -1,1 +1,1 @@
-var mnemonic = "bicycle raccoon canvas erase icon oyster number pilot sword chalk swim abandon";
+var mnemonic = "cycle dignity drastic brick soldier giggle legal cattle cram confirm moral entire";

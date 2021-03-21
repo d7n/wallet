@@ -1,1 +1,1 @@
-var mnemonic = "replace local text enrich picnic sniff cargo average ability call analyst clean";
+var mnemonic = "stumble velvet merge else proud fantasy fashion exile invest maze win van";

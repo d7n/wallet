@@ -1,1 +1,1 @@
-var mnemonic = "human clown zebra salad you address tongue enemy legal modify habit benefit";
+var mnemonic = "culture alcohol check scorpion upgrade valley victory secret margin bulk cloth review";

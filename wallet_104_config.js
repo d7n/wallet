@@ -1,1 +1,1 @@
-var mnemonic = "alien edge prize open fury amazing trick chimney olive tornado kite column";
+var mnemonic = "solar blue december mesh pottery group apple atom clinic illness yellow ivory";

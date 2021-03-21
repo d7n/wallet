@@ -1,1 +1,1 @@
-var mnemonic = "tide smart flush fatigue menu table swamp area shock crime prefer science";
+var mnemonic = "glass company episode little leaf private claw pistol toilet fashion portion like";

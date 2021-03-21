@@ -1,1 +1,1 @@
-var mnemonic = "spike bacon unable evoke jaguar magnet defense chicken fall curve identify banner";
+var mnemonic = "tone giggle choice pattern hungry coyote fold coral crawl cram tower under";

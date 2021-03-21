@@ -1,1 +1,1 @@
-var mnemonic = "off fire hand belt again staff mosquito ethics mosquito damp cross afraid";
+var mnemonic = "near find glass limb jump someone thought final kidney toe token claim";

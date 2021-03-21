@@ -1,1 +1,1 @@
-var mnemonic = "manage possible foot stomach erase slice palm short witness zone valve ribbon";
+var mnemonic = "pioneer ill major tube broccoli erupt hair paper knee forward helmet soda";

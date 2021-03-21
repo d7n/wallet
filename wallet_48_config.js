@@ -1,1 +1,1 @@
-var mnemonic = "absent sign electric enemy boring version letter useful shoe bulb avocado mixture";
+var mnemonic = "sport clutch utility oak kick physical circle disease symbol alone crash vehicle";

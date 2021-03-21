@@ -1,1 +1,1 @@
-var mnemonic = "victory enroll ill lion ahead huge liar library cloth click noble shrimp";
+var mnemonic = "cupboard length ranch rebuild insect hurry elegant dance sure blood analyst crisp";

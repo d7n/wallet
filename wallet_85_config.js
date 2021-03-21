@@ -1,1 +1,1 @@
-var mnemonic = "laundry orchard flash country stool mind blame cactus jar long swift whisper";
+var mnemonic = "unaware cool worry region viable idle derive habit major space tornado resemble";

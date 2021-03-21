@@ -1,1 +1,1 @@
-var mnemonic = "sound wood arena web main volcano crystal toast iron leave outdoor issue";
+var mnemonic = "roof found path milk special horror diesel train stand lift already disagree";

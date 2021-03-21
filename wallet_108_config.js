@@ -1,1 +1,1 @@
-var mnemonic = "congress box prison dish risk rookie lumber process trip oil mad outdoor";
+var mnemonic = "reward direct spell merry host mistake hurdle replace goat film wave brother";

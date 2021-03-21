@@ -1,1 +1,1 @@
-var mnemonic = "supreme cloud liquid panic save fame solve dragon dolphin lobster tank program";
+var mnemonic = "flag error trend zebra sample tiger near isolate motor fox general patient";

@@ -1,1 +1,1 @@
-var mnemonic = "spend can tennis define grab fuel float just master fruit fury sign";
+var mnemonic = "book scare mind tortoise shock system steel chuckle lecture keen poet again";

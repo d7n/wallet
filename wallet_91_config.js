@@ -1,1 +1,1 @@
-var mnemonic = "report error powder clever duty permit coral motion media maximum hub keen";
+var mnemonic = "fog space unfair effort extend short yellow knock mix phone number tobacco";

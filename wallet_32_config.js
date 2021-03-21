@@ -1,1 +1,1 @@
-var mnemonic = "goat bamboo crystal day shoe draft begin twist inner siege sign cloud";
+var mnemonic = "paddle wire wide repeat spawn palace field output cluster claim pulp team";

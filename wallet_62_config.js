@@ -1,1 +1,1 @@
-var mnemonic = "same already tip old movie aunt trophy carry usual run sweet then";
+var mnemonic = "decade spray drum dawn amateur hood favorite manage tray provide casual teach";

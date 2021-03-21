@@ -1,1 +1,1 @@
-var mnemonic = "pulse lemon oil clump erupt replace hood walnut disorder october patch raven";
+var mnemonic = "wedding fog very upon dentist pink small member festival ripple media supreme";

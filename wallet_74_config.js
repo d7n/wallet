@@ -1,1 +1,1 @@
-var mnemonic = "wink action sketch crack hard van section enact rare exhaust predict body";
+var mnemonic = "word spend push project unlock witness donor quick dress ahead ugly switch";

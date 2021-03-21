@@ -1,1 +1,1 @@
-var mnemonic = "force soldier chest ethics upper price side cart mechanic upon soda interest";
+var mnemonic = "strong sniff wet chief spend romance swim solve junior state interest notable";

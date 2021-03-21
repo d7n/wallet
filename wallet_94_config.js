@@ -1,1 +1,1 @@
-var mnemonic = "second author zone educate luggage custom action noise cruise social vibrant search";
+var mnemonic = "letter fame sudden vessel genius tonight legal quiz slogan run point during";

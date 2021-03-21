@@ -1,1 +1,1 @@
-var mnemonic = "music marriage tissue egg twin sister book deer replace bundle giggle state";
+var mnemonic = "weird domain drastic climb across dragon need fork voice skull lock solar";
