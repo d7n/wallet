@@ -1,1 +1,1 @@
-var mnemonic = "sponsor slot topic card fortune female usual secret all steak series monitor";
+var mnemonic = "scale truck tobacco south oxygen obvious snow card crumble deer latin fix";

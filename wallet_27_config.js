@@ -1,1 +1,1 @@
-var mnemonic = "parade suspect glue churn twist raw develop note end grab forget help";
+var mnemonic = "logic lion tribe column action will grass rally stem chimney upon exchange";

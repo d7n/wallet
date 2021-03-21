@@ -1,1 +1,1 @@
-var mnemonic = "yard dirt dizzy session crash image utility display fetch search rally ahead";
+var mnemonic = "abstract merry limb feel drama issue among damp bonus legend chef expire";

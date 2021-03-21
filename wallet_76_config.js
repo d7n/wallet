@@ -1,1 +1,1 @@
-var mnemonic = "future twelve inhale wasp document village furnace hat swallow fog mammal guard";
+var mnemonic = "work verb patrol flat muscle wire pilot coffee merge erosion flock screen";

@@ -1,1 +1,1 @@
-var mnemonic = "dance farm assault have master sun wife sort custom august unable shove";
+var mnemonic = "turtle never cross away render oak bread extend treat fiber note guitar";

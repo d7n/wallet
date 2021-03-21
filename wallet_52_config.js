@@ -1,1 +1,1 @@
-var mnemonic = "camp school exchange sound whale canal enhance sense since giraffe together shoe";
+var mnemonic = "depend wheel royal must brown demise spell use pretty kitten toilet local";

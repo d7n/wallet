@@ -1,1 +1,1 @@
-var mnemonic = "obscure knock civil jewel picture cluster surprise curve betray alley quiz faith";
+var mnemonic = "win vessel belt slab thought alley creek local defense neglect novel pattern";

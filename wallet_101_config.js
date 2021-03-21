@@ -1,1 +1,1 @@
-var mnemonic = "pen drastic canoe panther donor abuse trumpet two tooth nerve car awkward";
+var mnemonic = "machine best segment melt cliff unusual frequent day bike suit wash pipe";

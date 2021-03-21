@@ -1,1 +1,1 @@
-var mnemonic = "under fossil gossip arena current hard media tell public fat piece boy";
+var mnemonic = "luxury ball wood praise physical mask kick deputy cry early either project";

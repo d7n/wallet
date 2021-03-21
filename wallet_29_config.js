@@ -1,1 +1,1 @@
-var mnemonic = "hold figure sugar govern lyrics sleep nuclear mountain cram adult evil regret";
+var mnemonic = "beauty cable chronic fresh wagon swap trash bitter laugh sound pattern girl";

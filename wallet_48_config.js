@@ -1,1 +1,1 @@
-var mnemonic = "hill around lizard battle vendor shuffle balcony purchase common midnight coyote pottery";
+var mnemonic = "retire prison photo vacant renew online myth blush announce expect eye assume";

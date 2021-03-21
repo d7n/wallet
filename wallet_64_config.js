@@ -1,1 +1,1 @@
-var mnemonic = "lecture crew street recall viable then someone sock steel topic brother obtain";
+var mnemonic = "black cupboard first empty genius embody during heart fiction globe coil type";

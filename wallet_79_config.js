@@ -1,1 +1,1 @@
-var mnemonic = "bless boy unhappy grape warm round found wait roast theory improve dinosaur";
+var mnemonic = "ancient camera nasty angle voyage business inmate mushroom family pen rent filter";

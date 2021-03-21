@@ -1,1 +1,1 @@
-var mnemonic = "crane barely village thumb donor jealous concert that theory length edge mystery";
+var mnemonic = "vague danger worth chunk baby post together enhance dress inch save basic";

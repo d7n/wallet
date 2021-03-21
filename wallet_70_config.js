@@ -1,1 +1,1 @@
-var mnemonic = "salon october term switch drastic south canyon guitar butter thing flush comfort";
+var mnemonic = "spider disorder divorce quiz emerge say genius expose produce sick orphan inject";

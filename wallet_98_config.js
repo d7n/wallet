@@ -1,1 +1,1 @@
-var mnemonic = "shove loud private blue enroll almost estate current believe stem climb tuition";
+var mnemonic = "myself tribe actress soul gasp basic bitter memory utility question stage crush";

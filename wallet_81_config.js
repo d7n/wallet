@@ -1,1 +1,1 @@
-var mnemonic = "detect vague include outside sunset warfare ignore april clarify person camp south";
+var mnemonic = "service body way payment arrange child song dawn flight bamboo square ice";

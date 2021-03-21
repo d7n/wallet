@@ -1,1 +1,1 @@
-var mnemonic = "prepare weather sword fade daughter cheese door almost live flip chair bag";
+var mnemonic = "medal hobby lock garage prevent tomorrow program defy carpet famous purchase glad";

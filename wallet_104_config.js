@@ -1,1 +1,1 @@
-var mnemonic = "pencil gather deny morning sibling wife blue unit elite spread cart trip";
+var mnemonic = "blame quote box mixed excess genre good rookie soccer tooth session ostrich";

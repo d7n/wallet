@@ -1,1 +1,1 @@
-var mnemonic = "salon swear matter ecology demise truly tiny adult screen execute good iron";
+var mnemonic = "title educate fitness mimic aim village faculty sight blast custom lesson retreat";

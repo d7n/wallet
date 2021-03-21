@@ -1,1 +1,1 @@
-var mnemonic = "inhale subject comic alert unlock weasel best buzz unlock meadow egg jazz";
+var mnemonic = "slice extra hole switch length alert capital test ignore trash dune defense";

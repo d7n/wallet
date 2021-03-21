@@ -1,1 +1,1 @@
-var mnemonic = "birth rack future tired mule scrap taste jewel horse rather author defense";
+var mnemonic = "mosquito regret kid avoid skull galaxy display promote hood access enable payment";

@@ -1,1 +1,1 @@
-var mnemonic = "float rescue eye cousin game act hood degree confirm math winter later";
+var mnemonic = "distance moment vote deer tribe youth dutch tank cluster electric truth matrix";

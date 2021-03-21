@@ -1,1 +1,1 @@
-var mnemonic = "element muscle veteran purse riot staff actress start wear choose drill artist";
+var mnemonic = "entry turn torch trim have motion feature step sniff put flame fall";

@@ -1,1 +1,1 @@
-var mnemonic = "decide black harvest guess hover behind alert predict flush vintage wage breeze";
+var mnemonic = "example beauty ozone flip peasant replace act manage absorb payment click razor";

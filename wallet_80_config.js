@@ -1,1 +1,1 @@
-var mnemonic = "actual fiscal cram fruit actor foot dance sibling price guitar pause fly";
+var mnemonic = "laugh transfer aware inner shove ball build nothing identify razor point voice";

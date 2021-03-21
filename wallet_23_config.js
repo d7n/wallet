@@ -1,1 +1,1 @@
-var mnemonic = "debris super distance invite slight survey busy flock orchard shock tomato parent";
+var mnemonic = "million devote party wing sustain lock youth employ pipe quarter welcome food";

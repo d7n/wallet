@@ -1,1 +1,1 @@
-var mnemonic = "capable tilt wet loop appear leisure woman worry lens spread soup wrist";
+var mnemonic = "quality easy own ketchup manage truth crowd spirit enjoy fault jar dance";

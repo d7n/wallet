@@ -1,1 +1,1 @@
-var mnemonic = "solid smart tip raw return piano plastic slice peasant neither address urge";
+var mnemonic = "admit kick gather upset copy waste engine maximum aspect mistake eagle lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise cable hybrid pulp capable permit swim adult material bargain birth same";
+var mnemonic = "web example ancient hen frown desert six small diary indoor achieve expand";

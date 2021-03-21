@@ -1,1 +1,1 @@
-var mnemonic = "juice fly barrel oval acquire during dial whisper vacuum comfort answer any";
+var mnemonic = "ensure buyer mistake ill mule where wrap there chalk holiday lucky ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "step series wing error melt toddler jazz toward change copy ensure abandon";
+var mnemonic = "lawn range wide maze gate indoor swap skull grab come spice huge";

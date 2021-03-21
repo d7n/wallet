@@ -1,1 +1,1 @@
-var mnemonic = "advance sure recall oil square victory warfare outside range include short mad";
+var mnemonic = "cube ticket cupboard cake warfare vocal cook bunker toilet student appear stable";

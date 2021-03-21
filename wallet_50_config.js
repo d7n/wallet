@@ -1,1 +1,1 @@
-var mnemonic = "display prosper hospital ozone vacuum original rude inject quantum acquire satoshi green";
+var mnemonic = "mean ribbon mention prize shiver thing crack giant slogan muffin clever tool";

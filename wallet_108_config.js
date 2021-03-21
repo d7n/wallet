@@ -1,1 +1,1 @@
-var mnemonic = "aunt canoe patient super spot seven rice common cost recycle giant gate";
+var mnemonic = "exile never awesome horror gossip connect ill turn goat slush fancy problem";

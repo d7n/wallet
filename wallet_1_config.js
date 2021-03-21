@@ -1,1 +1,1 @@
-var mnemonic = "clown reflect steak toward jealous cat crawl thought casino fatigue scorpion venture";
+var mnemonic = "that charge object match caution shop cable ride prefer decide young shoot";

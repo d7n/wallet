@@ -1,1 +1,1 @@
-var mnemonic = "step tip siege echo dynamic tuna canoe chimney fine head armor hip";
+var mnemonic = "pretty license gown hammer hope width monkey arctic refuse decide plunge insane";

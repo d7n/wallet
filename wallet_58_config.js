@@ -1,1 +1,1 @@
-var mnemonic = "glove view strong act quote onion crawl any above object brush grow";
+var mnemonic = "wheel cliff drama orange poet route rubber wealth wheel quarter helmet rain";

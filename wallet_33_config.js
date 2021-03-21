@@ -1,1 +1,1 @@
-var mnemonic = "session market gospel cargo delay inquiry puzzle anxiety team grief faith because";
+var mnemonic = "river topic puzzle water endless primary recycle loan tide horror champion vital";

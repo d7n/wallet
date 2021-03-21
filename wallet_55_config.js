@@ -1,1 +1,1 @@
-var mnemonic = "rare easy mercy false daughter brass result despair protect boring main flush";
+var mnemonic = "word wheel grab soul moral install dash matrix derive disease witness special";

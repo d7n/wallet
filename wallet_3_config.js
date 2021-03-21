@@ -1,1 +1,1 @@
-var mnemonic = "evidence hollow end cake feel gate dinosaur dune illegal crash hurry then";
+var mnemonic = "grow shell loyal pen annual zero height food emotion oxygen pledge return";

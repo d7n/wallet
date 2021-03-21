@@ -1,1 +1,1 @@
-var mnemonic = "portion sure captain end tired cost omit churn dilemma away suspect awful";
+var mnemonic = "swap degree enjoy zone junior myth tip agent arrive over word away";

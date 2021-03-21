@@ -1,1 +1,1 @@
-var mnemonic = "mad item update rotate black popular test tone ethics acoustic flee apology";
+var mnemonic = "library meat pig sound lady achieve umbrella latin inquiry stadium toe alone";

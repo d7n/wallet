@@ -1,1 +1,1 @@
-var mnemonic = "multiply butter rabbit explain finish help little motion card pattern hybrid okay";
+var mnemonic = "nice stone neglect refuse tackle shine truly rocket tourist shove minimum breeze";

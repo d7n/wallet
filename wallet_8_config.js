@@ -1,1 +1,1 @@
-var mnemonic = "current awful asthma rack edge whisper tobacco common invest wagon main year";
+var mnemonic = "kite increase point shove keen inner kidney venue tackle arrow cat that";

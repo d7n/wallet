@@ -1,1 +1,1 @@
-var mnemonic = "jar program clap pattern shell panda federal chunk mom culture entry light";
+var mnemonic = "lamp when science license robust pave kick soap happy sick provide glimpse";

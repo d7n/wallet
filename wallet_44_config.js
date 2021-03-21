@@ -1,1 +1,1 @@
-var mnemonic = "evil vast model satoshi weather credit visa mango fame shield purse one";
+var mnemonic = "message glue toy indoor all near you weasel satoshi kind cargo borrow";

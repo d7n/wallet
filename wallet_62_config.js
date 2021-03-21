@@ -1,1 +1,1 @@
-var mnemonic = "stereo shoe icon law panel various adjust summer suggest wonder buddy style";
+var mnemonic = "resist wash exist kitten used black caught season interest ostrich odor surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "fold work shoe labor cereal rate marble elevator banner best shuffle blouse";
+var mnemonic = "just aspect school remind damp judge source office thank uniform envelope gold";

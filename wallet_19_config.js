@@ -1,1 +1,1 @@
-var mnemonic = "liquid bacon capable tape health vacuum atom skin lounge twenty ice step";
+var mnemonic = "initial know buyer maze exit apart siege dash puppy cart hurry inch";

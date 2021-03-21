@@ -1,1 +1,1 @@
-var mnemonic = "target reward plate clay shrimp parade salmon deputy blossom axis profit cushion";
+var mnemonic = "domain embark route beauty flavor love already thing venue stadium black pen";

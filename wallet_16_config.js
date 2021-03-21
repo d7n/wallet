@@ -1,1 +1,1 @@
-var mnemonic = "amount mesh foster prevent calm little lobster possible worry occur remind ensure";
+var mnemonic = "advance crowd offer yellow runway regular night emotion light fatigue slight fitness";

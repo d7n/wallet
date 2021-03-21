@@ -1,1 +1,1 @@
-var mnemonic = "logic novel shadow ship output access blind ocean pave dog worth outdoor";
+var mnemonic = "give mercy dynamic pave ensure mystery auto soul hazard alley become fruit";

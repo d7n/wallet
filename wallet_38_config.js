@@ -1,1 +1,1 @@
-var mnemonic = "mechanic bonus leaf panther soap cream much bless sign purpose father health";
+var mnemonic = "clever loan disagree coffee tree mouse awful march hard chef expose borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious owner lock alter genius problem sword demand better royal believe wasp";
+var mnemonic = "foam used detail pluck when shell member episode waste diamond toy say";

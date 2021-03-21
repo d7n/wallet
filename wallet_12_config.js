@@ -1,1 +1,1 @@
-var mnemonic = "bird panel wing mask neutral vessel danger wedding rare rent piano saddle";
+var mnemonic = "end cash captain bachelor twist tattoo remember kind hamster dismiss skate derive";

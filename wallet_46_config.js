@@ -1,1 +1,1 @@
-var mnemonic = "banner donor transfer frequent radio spin travel found tomorrow movie wealth fragile";
+var mnemonic = "shaft dignity rare pilot stomach maid apart digital force holiday liberty spice";

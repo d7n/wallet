@@ -1,1 +1,1 @@
-var mnemonic = "library awkward harbor jaguar special rifle cup fire people mango price rookie";
+var mnemonic = "audit open liquid spike swallow leg field toe daughter bone know zebra";

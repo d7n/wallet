@@ -1,1 +1,1 @@
-var mnemonic = "whisper pupil west nice shock vast energy violin again donate bonus wet";
+var mnemonic = "elite mix couch eight find where atom ahead net spirit enroll helmet";

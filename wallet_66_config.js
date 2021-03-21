@@ -1,1 +1,1 @@
-var mnemonic = "student oil engine mad security page critic tragic day crew tourist razor";
+var mnemonic = "similar drama eye bid demand faculty range slide upon brave laptop lake";

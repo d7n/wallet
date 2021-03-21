@@ -1,1 +1,1 @@
-var mnemonic = "garment chief exercise hotel okay rapid measure mean scene chimney depart enemy";
+var mnemonic = "gentle cart more helmet stone trap eternal boring reduce immune easy hint";

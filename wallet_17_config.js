@@ -1,1 +1,1 @@
-var mnemonic = "shadow sun creek click verb ugly menu pole spin trophy mosquito select";
+var mnemonic = "loud once hospital minimum humor clerk minimum strike enemy meat cover diet";

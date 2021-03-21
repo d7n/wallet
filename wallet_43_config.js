@@ -1,1 +1,1 @@
-var mnemonic = "live chalk mean giant grit unlock inmate rack retire tail inhale south";
+var mnemonic = "deputy item diesel dose attack salute crush wage hidden lock meadow energy";

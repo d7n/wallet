@@ -1,1 +1,1 @@
-var mnemonic = "six lemon pilot assault vessel calm small position reject glad proof attack";
+var mnemonic = "moment grief october current analyst uphold between omit column wrap swallow ancient";

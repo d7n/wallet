@@ -1,1 +1,1 @@
-var mnemonic = "noodle flower swim shaft hockey swift supreme nest fire they chronic spy";
+var mnemonic = "face method setup disease amount surprise embark win you gaze away amount";

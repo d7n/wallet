@@ -1,1 +1,1 @@
-var mnemonic = "when envelope volume bleak avoid prepare wear grass call chair toy shock";
+var mnemonic = "denial issue foil attack follow luxury turkey bean wheat often online honey";

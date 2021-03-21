@@ -1,1 +1,1 @@
-var mnemonic = "yard century extra insect relief plug survey nature identify festival mention swamp";
+var mnemonic = "cake forward chimney sword morning sheriff snake robust time march same ice";

@@ -1,1 +1,1 @@
-var mnemonic = "like pelican radar allow switch mammal make moment trouble bind exit labor";
+var mnemonic = "drama similar abstract advice column replace great sunset toddler high lesson tape";

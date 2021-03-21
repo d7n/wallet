@@ -1,1 +1,1 @@
-var mnemonic = "project notable rally behave sad hybrid share object term echo more polar";
+var mnemonic = "language hotel clock snake joy trophy copy sort cycle spare equal fatal";

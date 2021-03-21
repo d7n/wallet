@@ -1,1 +1,1 @@
-var mnemonic = "net entire transfer crunch typical merge mango frost panel valve sauce imitate";
+var mnemonic = "canyon omit master catch run tortoise proud embark high any thumb analyst";

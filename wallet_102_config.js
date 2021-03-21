@@ -1,1 +1,1 @@
-var mnemonic = "region penalty host rebel notice front decrease endorse legend bicycle churn survey";
+var mnemonic = "boost just mom decade trade skirt pencil teach domain shock skate cattle";

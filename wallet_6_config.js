@@ -1,1 +1,1 @@
-var mnemonic = "baby cushion settle clarify setup essay orbit radio opinion join yard earth";
+var mnemonic = "wait window jewel dawn immense fatigue whip buddy little elbow ensure dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "inner floor indoor glide grace couple slab oppose only airport music improve";
+var mnemonic = "there chef account six milk believe syrup error clown bomb decline embark";

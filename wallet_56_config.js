@@ -1,1 +1,1 @@
-var mnemonic = "hover chronic jealous seek song stay find differ travel certain frame shy";
+var mnemonic = "talk huge earth dial stomach movie pill switch bid loop glare cluster";

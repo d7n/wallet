@@ -1,1 +1,1 @@
-var mnemonic = "helmet output hard gloom sauce decide vacuum enter buffalo eager ginger spring";
+var mnemonic = "robust pulp panel smart return weapon ordinary armor asset gun matrix unknown";

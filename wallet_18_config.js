@@ -1,1 +1,1 @@
-var mnemonic = "add believe craft ready damage video segment prefer robot treat enrich bicycle";
+var mnemonic = "piano stove this used foil weird edge flavor feature soda news tattoo";

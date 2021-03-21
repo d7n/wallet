@@ -1,1 +1,1 @@
-var mnemonic = "symptom picnic sauce deal asthma paddle action iron soft april chunk zoo";
+var mnemonic = "cupboard hunt amount adult video panda earth budget bicycle target kingdom tower";

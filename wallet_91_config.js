@@ -1,1 +1,1 @@
-var mnemonic = "poet twice clean express wonder lumber addict pizza there toe comfort pig";
+var mnemonic = "tank another segment kangaroo wheel rescue abandon offer distance lion cream chimney";

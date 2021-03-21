@@ -1,1 +1,1 @@
-var mnemonic = "rude result vague upset refuse rigid enroll edge belt earn animal air";
+var mnemonic = "hurry peanut scrap ticket hazard monitor artist dune fold proud smoke mention";

@@ -1,1 +1,1 @@
-var mnemonic = "carry invest sunset spawn friend use laptop glide inch denial card dry";
+var mnemonic = "consider smooth hint coffee cute pear view midnight wide habit pride manage";

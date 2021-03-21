@@ -1,1 +1,1 @@
-var mnemonic = "mosquito anxiety fat bulb ahead gauge own angry myself kite entire black";
+var mnemonic = "used price love junior master monitor eagle pear mushroom picnic drip hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "hole gorilla another sleep dilemma pupil voyage curious aerobic season honey anxiety";
+var mnemonic = "obvious purity gate metal turkey sign own choose predict tobacco pool double";

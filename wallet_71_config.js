@@ -1,1 +1,1 @@
-var mnemonic = "sense napkin alert penalty off hamster attitude state quarter speak loyal lucky";
+var mnemonic = "analyst deputy spatial agree surround enforce leopard matter fossil cannon benefit volume";

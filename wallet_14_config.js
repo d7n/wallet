@@ -1,1 +1,1 @@
-var mnemonic = "vehicle model mask cause fresh file people occur artwork range blast can";
+var mnemonic = "blur spatial aisle fabric gloom point test disease response current lens grass";

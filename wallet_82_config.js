@@ -1,1 +1,1 @@
-var mnemonic = "load angle reflect chronic awkward defy various kidney siege cram lake glory";
+var mnemonic = "strong depart wood regular decorate such pool sheriff again assault mutual shove";

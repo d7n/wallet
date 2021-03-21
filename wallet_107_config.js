@@ -1,1 +1,1 @@
-var mnemonic = "dose tenant measure possible autumn strategy world vacant exercise subway movie deer";
+var mnemonic = "viable gadget later era secret wonder glimpse occur piano tackle pet govern";

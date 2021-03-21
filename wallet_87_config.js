@@ -1,1 +1,1 @@
-var mnemonic = "cereal differ eagle mechanic attend push monkey loyal shoe school cheese license";
+var mnemonic = "sell abandon ankle remind enough frame tribe salute funny fat offer shock";

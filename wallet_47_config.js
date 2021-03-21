@@ -1,1 +1,1 @@
-var mnemonic = "crowd faint gap run shell maze visual gather inherit index thrive sorry";
+var mnemonic = "parent mail private squirrel oyster embrace kind visa baby coach infant music";

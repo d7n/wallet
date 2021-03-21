@@ -1,1 +1,1 @@
-var mnemonic = "wasp sibling mimic mind wink road cargo verify gasp embrace aunt nose";
+var mnemonic = "clock assist below work live grace buddy loud radar later whisper maid";

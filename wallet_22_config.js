@@ -1,1 +1,1 @@
-var mnemonic = "hamster ability anxiety decide dinosaur syrup oval corn margin dash nature glide";
+var mnemonic = "update boring frequent alcohol crouch add carpet poverty cry visual life embark";

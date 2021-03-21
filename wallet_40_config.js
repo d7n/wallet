@@ -1,1 +1,1 @@
-var mnemonic = "mixed flush skin rapid smooth garage light boss scheme motor math enroll";
+var mnemonic = "jump soup garlic walnut flag humble bullet canyon slice wood method glance";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor era save coil catch cage sword side invite tunnel mother fan";
+var mnemonic = "flame hammer fine bread enrich hidden account leg obtain convince provide year";
