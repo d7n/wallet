@@ -1,1 +1,1 @@
-var mnemonic = "evoke now foil enemy bless fatal slight basket engage spoon poet repeat";
+var mnemonic = "bronze witness uphold long moon fringe nuclear problem weapon trust polar alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp mango frequent lucky vote hello royal nephew dignity post pupil spice";
+var mnemonic = "eternal ready acid hammer evil swift enhance arrive distance bike album pistol";

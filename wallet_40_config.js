@@ -1,1 +1,1 @@
-var mnemonic = "village orbit casual flock gentle clay frost child talent now helmet pair";
+var mnemonic = "pioneer loud birth practice finger abuse cruel rabbit enact subject local misery";

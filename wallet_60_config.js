@@ -1,1 +1,1 @@
-var mnemonic = "blanket away split effort pretty dust type people alert radio invite hen";
+var mnemonic = "poem cat deposit split nephew dad consider glance envelope junior session gentle";

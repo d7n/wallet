@@ -1,1 +1,1 @@
-var mnemonic = "hole lab crumble option voice define ticket walk cannon general ridge river";
+var mnemonic = "drum find pet ranch aspect black slow void inhale trap topic rare";

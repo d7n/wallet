@@ -1,1 +1,1 @@
-var mnemonic = "hawk sport reunion attract cram peanut choice they hold coil immune stock";
+var mnemonic = "produce congress bundle little math increase chief boy ketchup earn frame culture";

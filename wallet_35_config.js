@@ -1,1 +1,1 @@
-var mnemonic = "evil song scrap obtain accident cradle cup salmon fluid seat border sound";
+var mnemonic = "upgrade stereo cliff planet inherit subway middle decorate category blur still skate";

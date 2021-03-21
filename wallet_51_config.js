@@ -1,1 +1,1 @@
-var mnemonic = "claim dragon cannon table sound scale afraid smoke page swamp odor heavy";
+var mnemonic = "luggage idle combine globe pole fine rotate enjoy rescue weapon obvious food";

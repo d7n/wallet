@@ -1,1 +1,1 @@
-var mnemonic = "ball code shoot abandon tape salt vocal honey lava else combine uphold";
+var mnemonic = "dash web enact orbit impose save leisure used silver brother nerve drink";

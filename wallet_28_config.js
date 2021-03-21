@@ -1,1 +1,1 @@
-var mnemonic = "brown twin holiday visual wish deer feature dinner pulp fun among gorilla";
+var mnemonic = "steak riot clutch device wage daring advance west scrap hidden solid say";

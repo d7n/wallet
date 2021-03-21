@@ -1,1 +1,1 @@
-var mnemonic = "echo funny void idle index echo gas earth legal year lion spice";
+var mnemonic = "verify hunt humble they discover note wing debate shrimp hint rebel produce";

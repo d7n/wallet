@@ -1,1 +1,1 @@
-var mnemonic = "oppose solve hip welcome riot trial bundle setup decade later state purse";
+var mnemonic = "design hard note churn urge mammal sheriff remind arena purity suffer occur";

@@ -1,1 +1,1 @@
-var mnemonic = "enable shove blush sock throw surround gather candy sentence clown weasel craft";
+var mnemonic = "sister antique certain fee green pen fire health grain lazy pool fat";

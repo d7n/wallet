@@ -1,1 +1,1 @@
-var mnemonic = "flash allow define eye sense mansion aware evil upper argue analyst oven";
+var mnemonic = "share inspire print pottery opera harvest bargain dream video goose insane daughter";

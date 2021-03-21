@@ -1,1 +1,1 @@
-var mnemonic = "pizza more legend just visual income frequent fine ride document busy crane";
+var mnemonic = "bone lizard please lobster rebel frozen report bacon faculty hire glimpse reunion";

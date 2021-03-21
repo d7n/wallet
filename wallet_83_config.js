@@ -1,1 +1,1 @@
-var mnemonic = "kite leisure danger figure park planet need note crunch rural surprise elevator";
+var mnemonic = "dentist subway crouch recall happy afford rare purchase jaguar town figure clown";

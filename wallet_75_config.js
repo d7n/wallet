@@ -1,1 +1,1 @@
-var mnemonic = "tomato client soldier collect load priority erode reveal tissue slot behave energy";
+var mnemonic = "column neglect van vague path balcony edge come prison metal purse misery";

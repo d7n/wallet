@@ -1,1 +1,1 @@
-var mnemonic = "session foil jump divide limit ordinary east happy blanket output pizza chimney";
+var mnemonic = "decorate bar crawl sign replace program library toss pave expect bonus question";

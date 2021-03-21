@@ -1,1 +1,1 @@
-var mnemonic = "rain hen valley before wide umbrella pride cereal crisp movie genuine river";
+var mnemonic = "august copper torch address prepare saddle index celery gravity kiwi lamp orbit";

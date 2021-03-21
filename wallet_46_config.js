@@ -1,1 +1,1 @@
-var mnemonic = "cradle budget trophy achieve index end venture early edit just click gather";
+var mnemonic = "wear rotate journey assault today meat promote amount combine zone lobster recipe";

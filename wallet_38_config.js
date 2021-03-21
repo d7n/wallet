@@ -1,1 +1,1 @@
-var mnemonic = "decide electric card planet tackle position walk okay brass tool subject weather";
+var mnemonic = "chaos wash jar sphere height fossil issue pole notice update swift future";

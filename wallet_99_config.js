@@ -1,1 +1,1 @@
-var mnemonic = "worry lottery comfort upper swing pig victory soft again solar abandon arrest";
+var mnemonic = "hundred pond jump source void update bottom cloud spend thrive bullet quiz";

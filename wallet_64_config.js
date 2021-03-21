@@ -1,1 +1,1 @@
-var mnemonic = "body first purse announce evil stereo limit acid aware nurse law clerk";
+var mnemonic = "rubber column wool aware curious result blur mimic sand retire between hour";

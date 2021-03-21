@@ -1,1 +1,1 @@
-var mnemonic = "bread relief allow amount final cannon enrich table what ketchup burst stick";
+var mnemonic = "dream forward rocket bid talk clutch wish token federal output robot fire";

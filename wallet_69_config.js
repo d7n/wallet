@@ -1,1 +1,1 @@
-var mnemonic = "valley feature fruit leopard blue curious cage spare edit small marine blast";
+var mnemonic = "word setup unknown group fuel suspect people know circle sight wine absent";

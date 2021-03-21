@@ -1,1 +1,1 @@
-var mnemonic = "squeeze detail increase retreat online cousin orange vacant cube boy balcony cost";
+var mnemonic = "slogan hire island loyal common ceiling merry adjust music cloth october path";

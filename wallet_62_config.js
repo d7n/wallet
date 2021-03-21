@@ -1,1 +1,1 @@
-var mnemonic = "derive divide degree flower dignity street easily canal snow drink food water";
+var mnemonic = "nasty guilt beach supply garage addict loan fury almost small uncle major";

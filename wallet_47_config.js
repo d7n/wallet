@@ -1,1 +1,1 @@
-var mnemonic = "sunset festival loan warrior nephew aspect invite cactus young mammal lottery ride";
+var mnemonic = "puzzle drive giraffe tool sorry pact convince favorite exist action idea fitness";

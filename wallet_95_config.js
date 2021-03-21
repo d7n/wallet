@@ -1,1 +1,1 @@
-var mnemonic = "sense picnic genre abstract else marble burst reflect kite rival update glue";
+var mnemonic = "quarter only empty trap move abuse kid soda suggest cart custom vicious";

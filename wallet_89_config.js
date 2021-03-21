@@ -1,1 +1,1 @@
-var mnemonic = "imitate speed glare couch table gasp fashion slot orange ticket tennis lava";
+var mnemonic = "clerk local faint reject okay suit garbage this dial luggage orient rubber";

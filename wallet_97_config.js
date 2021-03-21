@@ -1,1 +1,1 @@
-var mnemonic = "develop income claw chimney multiply life diagram system gain kick wing lucky";
+var mnemonic = "rally crawl enjoy daring forget gun raven cost sunset daring laugh industry";

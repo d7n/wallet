@@ -1,1 +1,1 @@
-var mnemonic = "curtain achieve useful eternal help craft grab check enjoy indoor duty hire";
+var mnemonic = "upgrade verify bike beach net around become torch begin coyote short pottery";

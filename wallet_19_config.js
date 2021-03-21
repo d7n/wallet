@@ -1,1 +1,1 @@
-var mnemonic = "stereo spring settle practice argue remove lawsuit barely drink steak this evidence";
+var mnemonic = "dragon car inherit person protect sniff broccoli orient busy churn space reward";

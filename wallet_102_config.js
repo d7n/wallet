@@ -1,1 +1,1 @@
-var mnemonic = "switch ski sausage miss arctic similar search spray concert caution dizzy popular";
+var mnemonic = "obscure clown action present stadium mix balance stumble enter piece someone present";

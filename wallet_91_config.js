@@ -1,1 +1,1 @@
-var mnemonic = "oven wreck rude drum engine kangaroo web captain grunt hello accident equip";
+var mnemonic = "lumber garbage report undo hold section agent fat harsh engine clip kiwi";

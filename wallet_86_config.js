@@ -1,1 +1,1 @@
-var mnemonic = "slice proud reunion aerobic carbon face upset suspect salute verb spatial film";
+var mnemonic = "potato clump betray update must wedding situate moment sauce shiver rate intact";

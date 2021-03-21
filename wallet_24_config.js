@@ -1,1 +1,1 @@
-var mnemonic = "leave donate device someone parade hockey job airport topic fossil yard balcony";
+var mnemonic = "salt thunder rack access edit next bunker bag document wink case vast";

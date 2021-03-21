@@ -1,1 +1,1 @@
-var mnemonic = "faculty snow voyage crew artefact engine forest extra soul fun magnet rotate";
+var mnemonic = "can stereo father language burger few custom horse announce fame ceiling flat";

@@ -1,1 +1,1 @@
-var mnemonic = "evil scrap young hungry bunker clog nut wrong bonus gas whale family";
+var mnemonic = "hazard rare uniform brick meadow faculty note better walk federal advice frown";

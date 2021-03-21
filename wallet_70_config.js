@@ -1,1 +1,1 @@
-var mnemonic = "sport weasel bomb luxury fruit lonely lamp nominee month little ancient scissors";
+var mnemonic = "woman call cook cupboard rose nation gentle camera achieve ill reunion huge";

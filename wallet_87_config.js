@@ -1,1 +1,1 @@
-var mnemonic = "style evoke tissue team cloth unfold dream now slush empower vast swing";
+var mnemonic = "have useful human face vicious embody thing fame kitten mushroom raw exclude";

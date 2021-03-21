@@ -1,1 +1,1 @@
-var mnemonic = "risk surge possible please joke tobacco fashion exist bacon hand route disorder";
+var mnemonic = "hotel drive liberty finish novel soldier cement buddy fine casino carpet together";

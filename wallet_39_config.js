@@ -1,1 +1,1 @@
-var mnemonic = "leopard small immune sing atom extend deer cable exile recall bronze stand";
+var mnemonic = "duty entire math apart pumpkin undo gadget share science upset gain sudden";

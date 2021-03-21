@@ -1,1 +1,1 @@
-var mnemonic = "fall attack broom dog build castle pigeon lucky grape cargo arm fault";
+var mnemonic = "impose clutch rally monitor off deny winter remove middle pig resource diesel";

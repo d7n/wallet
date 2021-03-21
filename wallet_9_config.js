@@ -1,1 +1,1 @@
-var mnemonic = "during rival stumble tennis lion melody auto asset another example view business";
+var mnemonic = "end shove labor milk eagle crush hint speak arctic depend coral ketchup";

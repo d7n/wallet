@@ -1,1 +1,1 @@
-var mnemonic = "describe mixture oval two sense clever episode repair decorate rotate slight today";
+var mnemonic = "add wealth tuna remain bulb powder excite valid render produce wisdom abandon";

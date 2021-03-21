@@ -1,1 +1,1 @@
-var mnemonic = "call toast certain symbol zone ridge require actress gift grief decrease female";
+var mnemonic = "best fan coconut involve cry frozen quote shadow debate alley cheap aware";

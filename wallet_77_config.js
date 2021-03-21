@@ -1,1 +1,1 @@
-var mnemonic = "genre car around syrup render dust valley cigar hard hospital fox guide";
+var mnemonic = "oval trim shiver flower fine gentle gym neither grape debris then very";

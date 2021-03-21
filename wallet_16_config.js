@@ -1,1 +1,1 @@
-var mnemonic = "casual finger change select music hire solution sausage together agent convince face";
+var mnemonic = "dinner echo canvas future debris nominee crash matrix clump crash useless float";

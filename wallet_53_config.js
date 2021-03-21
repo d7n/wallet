@@ -1,1 +1,1 @@
-var mnemonic = "drive fly correct series cotton joke ready table install sheriff march advice";
+var mnemonic = "layer crazy river delay minimum prosper prevent slice imitate city also solution";

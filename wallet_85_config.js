@@ -1,1 +1,1 @@
-var mnemonic = "picture census menu weasel awful orient next chuckle ethics ring mutual antique";
+var mnemonic = "crush occur satoshi client monkey need negative lunar museum violin odor solution";

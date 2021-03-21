@@ -1,1 +1,1 @@
-var mnemonic = "youth family marble payment fire vintage install cruel twelve middle network below";
+var mnemonic = "library cruise spike lake ensure picnic faculty shaft happy gun ticket rescue";

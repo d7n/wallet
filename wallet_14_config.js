@@ -1,1 +1,1 @@
-var mnemonic = "home derive people bubble involve royal gas song wait ramp flush inner";
+var mnemonic = "faculty bomb enemy income model fancy wisdom work anchor pear length cruel";

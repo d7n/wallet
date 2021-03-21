@@ -1,1 +1,1 @@
-var mnemonic = "mom jar wagon category opera announce property stuff figure bean this donkey";
+var mnemonic = "loan when stem mix below all buffalo express join dinner fruit abandon";

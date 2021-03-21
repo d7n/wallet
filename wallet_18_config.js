@@ -1,1 +1,1 @@
-var mnemonic = "frost quarter setup skate rhythm police helmet edge boat endorse chapter brave";
+var mnemonic = "unfair setup pudding elegant carry hospital essay trim actor solve inhale clown";

@@ -1,1 +1,1 @@
-var mnemonic = "green kit winter similar enroll love erosion churn length sight grape shield";
+var mnemonic = "turtle pony home rigid sense among predict seat saddle moment weird educate";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage fix describe ethics mention tomato expose veteran squirrel whisper hover glove";
+var mnemonic = "conduct grunt luggage situate crystal effort battle humor hungry motion mixed sail";

@@ -1,1 +1,1 @@
-var mnemonic = "river core purse come blossom faint spend attack host prison system door";
+var mnemonic = "enlist menu drop census leopard account seek soon square word rent pool";

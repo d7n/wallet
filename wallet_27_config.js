@@ -1,1 +1,1 @@
-var mnemonic = "hazard civil wrestle sketch lab palace almost during oppose jaguar bargain section";
+var mnemonic = "mom pen beauty idle again situate rural tower update insane quarter execute";

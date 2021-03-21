@@ -1,1 +1,1 @@
-var mnemonic = "eager shiver educate plug wheel normal inspire private office similar flash logic";
+var mnemonic = "awful lawn siege cram sauce craft forward delay learn prefer alpha ghost";

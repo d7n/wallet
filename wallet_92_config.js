@@ -1,1 +1,1 @@
-var mnemonic = "shoe ethics never border cinnamon need field piano insane identify aim feature";
+var mnemonic = "leaf material safe field bring ancient only ecology finish silk else media";

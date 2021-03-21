@@ -1,1 +1,1 @@
-var mnemonic = "erase stable veteran identify club floor thunder federal shoot tape glow earn";
+var mnemonic = "school feed tumble crazy deposit panther enhance peanut alley vacuum remain melt";

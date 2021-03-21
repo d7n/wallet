@@ -1,1 +1,1 @@
-var mnemonic = "usual buyer lumber loud avocado claw mass fall shed fit museum wait";
+var mnemonic = "unique blast crush amount casual grocery prevent figure average search math depart";

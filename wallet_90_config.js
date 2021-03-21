@@ -1,1 +1,1 @@
-var mnemonic = "police just grass salt disease crisp left long rate home exile monitor";
+var mnemonic = "elephant renew robust custom kite scatter arrange suggest wire slab shallow sell";

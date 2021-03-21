@@ -1,1 +1,1 @@
-var mnemonic = "stuff normal excite debris submit animal insane ramp slender absurd giant ice";
+var mnemonic = "ranch accuse task okay diet high ritual parrot traffic museum ramp clump";

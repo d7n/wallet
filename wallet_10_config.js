@@ -1,1 +1,1 @@
-var mnemonic = "want say short jewel employ business kick mixture ghost orchard rival mimic";
+var mnemonic = "year bring wrap produce jar today buzz shy final suffer absorb employ";

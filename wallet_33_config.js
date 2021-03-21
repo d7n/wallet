@@ -1,1 +1,1 @@
-var mnemonic = "spoil luggage mouse hint initial high south rescue focus exchange camera afford";
+var mnemonic = "sustain mechanic tissue entire tool thing oven top tube swear barrel hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "program suffer census border able book giggle almost ancient unique modify floor";
+var mnemonic = "fever forest defy between mirror fence rain hen unable convince motion simple";

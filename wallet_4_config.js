@@ -1,1 +1,1 @@
-var mnemonic = "long taxi pioneer table noodle blossom adult stone timber join help grow";
+var mnemonic = "catch vapor moment van access census true doctor brush copper amused camp";

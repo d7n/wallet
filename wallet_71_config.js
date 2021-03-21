@@ -1,1 +1,1 @@
-var mnemonic = "now law stairs pyramid aware grid dilemma student stumble magnet exhaust put";
+var mnemonic = "unaware phrase village exit surround siege guitar worth impact minor medal apart";

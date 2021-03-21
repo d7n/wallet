@@ -1,1 +1,1 @@
-var mnemonic = "ignore isolate neglect sauce smooth lawn scout excess aware erupt pepper slam";
+var mnemonic = "bitter under neutral swarm income catalog peasant lab raise silk erode bid";

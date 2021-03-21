@@ -1,1 +1,1 @@
-var mnemonic = "shoot uncle jungle sing turn sun vast scissors nurse inspire rocket reform";
+var mnemonic = "isolate cattle feel vessel disorder tiger aunt vehicle noodle arctic canvas unfair";

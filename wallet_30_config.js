@@ -1,1 +1,1 @@
-var mnemonic = "coach flat snack oven mansion file fluid window kiwi mean purse guess";
+var mnemonic = "grocery blue sand call hard obscure october over favorite moral tackle equal";

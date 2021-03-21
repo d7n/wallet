@@ -1,1 +1,1 @@
-var mnemonic = "roast belt there weird almost slice disorder pitch unusual author summer multiply";
+var mnemonic = "noodle erupt torch bounce amazing dutch pulse depart document prize copper buzz";

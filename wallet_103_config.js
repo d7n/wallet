@@ -1,1 +1,1 @@
-var mnemonic = "siege gesture craft steel enemy solve return wire blue cabbage casino ladder";
+var mnemonic = "hungry fish strike egg shrug sting limit sail party sustain crew arm";

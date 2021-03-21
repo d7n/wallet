@@ -1,1 +1,1 @@
-var mnemonic = "surge diesel foam silent prison coral candy oxygen define equip poem kit";
+var mnemonic = "file huge tag poet song total onion dog canal okay agent pink";

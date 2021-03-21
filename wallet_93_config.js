@@ -1,1 +1,1 @@
-var mnemonic = "position sword core hour taste nerve possible glue light surface damage corn";
+var mnemonic = "easily language between wonder stem flag finger youth giant dumb betray cruise";

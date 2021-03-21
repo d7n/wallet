@@ -1,1 +1,1 @@
-var mnemonic = "iron cat grace spider broken blanket brave finger april morning phrase fitness";
+var mnemonic = "guess weasel lady genre rubber thought ship gentle opinion announce clinic blind";

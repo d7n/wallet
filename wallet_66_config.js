@@ -1,1 +1,1 @@
-var mnemonic = "bargain sword crisp furnace fabric exercise select anchor cause attitude photo cargo";
+var mnemonic = "clown crazy weasel rule opinion step hard offer drift fall quality hero";

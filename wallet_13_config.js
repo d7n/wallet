@@ -1,1 +1,1 @@
-var mnemonic = "tube person purchase adult almost wisdom brief sick figure curve talent crouch";
+var mnemonic = "spider rural toward minimum repair prepare fragile flat write review potato shock";

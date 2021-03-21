@@ -1,1 +1,1 @@
-var mnemonic = "village eyebrow prevent random zebra glare defy insect pyramid leaf alien true";
+var mnemonic = "release journey educate tone mother coconut skill rice obtain illness impact decorate";

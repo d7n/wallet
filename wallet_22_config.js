@@ -1,1 +1,1 @@
-var mnemonic = "home safe birth huge ivory sister spin mixture trend oyster grab easily";
+var mnemonic = "pool brief lens cloth valley soccer relief camp pledge syrup random rough";

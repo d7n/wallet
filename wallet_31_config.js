@@ -1,1 +1,1 @@
-var mnemonic = "ghost market person cute news flame taxi elite leave index rural field";
+var mnemonic = "add fun potato empty normal join alone one spin spider purpose sheriff";

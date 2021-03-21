@@ -1,1 +1,1 @@
-var mnemonic = "truly voyage boring prosper before maximum volume turkey around merge monkey phone";
+var mnemonic = "suspect keen injury number circle employ eight seven include worry weasel goddess";

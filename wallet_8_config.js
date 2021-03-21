@@ -1,1 +1,1 @@
-var mnemonic = "square fence example diary dog fresh embark predict fruit expire blind heart";
+var mnemonic = "art treat supreme answer sauce found output online priority garage faint jaguar";

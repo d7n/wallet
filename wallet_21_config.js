@@ -1,1 +1,1 @@
-var mnemonic = "alter best envelope error drastic seed reward obey chicken mushroom curve illness";
+var mnemonic = "glass hold example similar surround kid liberty myth frame siren snow venture";
