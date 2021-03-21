@@ -1,1 +1,1 @@
-var mnemonic = "soldier ethics culture reject kick exhibit giraffe online salad marble design knock";
+var mnemonic = "say spring stock soon absurd riot daughter push multiply exhibit tooth trophy";

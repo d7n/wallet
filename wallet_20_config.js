@@ -1,1 +1,1 @@
-var mnemonic = "insane during dynamic maid public bulk rude wine moral nose about auto";
+var mnemonic = "three crucial usage network gospel lunch misery beyond window rescue toy blind";

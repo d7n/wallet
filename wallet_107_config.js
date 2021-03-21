@@ -1,1 +1,1 @@
-var mnemonic = "wrong craft exist inmate venue strategy doll cannon conduct pupil cancel tell";
+var mnemonic = "latin kiwi super credit merry still possible outdoor disease wrap render body";

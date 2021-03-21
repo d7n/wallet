@@ -1,1 +1,1 @@
-var mnemonic = "author poet advice attract sentence dentist history youth mixture tragic charge kit";
+var mnemonic = "exhaust word laptop sustain winner seven public fine weekend improve fury trumpet";

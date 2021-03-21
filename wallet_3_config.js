@@ -1,1 +1,1 @@
-var mnemonic = "key used kidney kitchen senior sort also they arena planet army leaf";
+var mnemonic = "color prefer torch ozone news rail spend ahead render hawk disorder pledge";

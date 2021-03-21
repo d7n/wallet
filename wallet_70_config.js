@@ -1,1 +1,1 @@
-var mnemonic = "year twenty spy cargo talk now vacuum subject venture case vacant soap";
+var mnemonic = "amazing charge also afford chest vicious example vault student risk season dish";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis pink apple private leader roast confirm clap hand hurt worth avocado";
+var mnemonic = "energy picnic learn will one primary engine volume marble pelican power solar";

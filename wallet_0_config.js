@@ -1,1 +1,1 @@
-var mnemonic = "index around fork opera oven left wreck pull smoke remove check grid";
+var mnemonic = "credit surprise addict grit supply evoke amount issue step scene payment blast";

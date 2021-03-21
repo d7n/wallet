@@ -1,1 +1,1 @@
-var mnemonic = "neutral glory creek cricket love spot deny change movie soldier business what";
+var mnemonic = "light cash dignity sniff report bleak furnace resource rifle quote brief receive";

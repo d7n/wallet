@@ -1,1 +1,1 @@
-var mnemonic = "inject wish duty zoo tent cotton woman shrug bridge forget bacon butter";
+var mnemonic = "wise chaos pretty forest vintage model destroy grid crime one tower horse";

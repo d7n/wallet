@@ -1,1 +1,1 @@
-var mnemonic = "acid club myth shield install dose breeze liar cliff armed subway limit";
+var mnemonic = "project swallow mammal make vicious fancy upset labor provide trumpet security motion";

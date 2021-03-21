@@ -1,1 +1,1 @@
-var mnemonic = "you melt antenna during pelican kick glad enrich spike forward safe flower";
+var mnemonic = "umbrella cable camera save such hammer toddler slab office truck remind decorate";

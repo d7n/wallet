@@ -1,1 +1,1 @@
-var mnemonic = "plug series miracle april area gadget like board appear movie alcohol nasty";
+var mnemonic = "loop erase notable swallow stadium among zero gold slender dose proof vacuum";

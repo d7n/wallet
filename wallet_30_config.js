@@ -1,1 +1,1 @@
-var mnemonic = "thank flee cancel account exclude hockey shuffle column gloom bitter minute detect";
+var mnemonic = "train spike notice maple cruel seat pledge settle must exchange name mixture";

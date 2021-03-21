@@ -1,1 +1,1 @@
-var mnemonic = "boring repair umbrella belt label lunch good rabbit ripple option quote reunion";
+var mnemonic = "ostrich raw depend celery ribbon genius artefact lava multiply crucial dash bundle";

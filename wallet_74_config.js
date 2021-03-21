@@ -1,1 +1,1 @@
-var mnemonic = "visual junk peasant unusual valley rapid witness tool stove album daring vacant";
+var mnemonic = "game middle fortune foam anchor image quarter flight alpha labor join stumble";

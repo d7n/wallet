@@ -1,1 +1,1 @@
-var mnemonic = "genuine cement city canvas like movie project regret stock wrong satoshi repair";
+var mnemonic = "connect grocery rice unfold slush indicate switch brisk choose dismiss view sell";

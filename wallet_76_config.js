@@ -1,1 +1,1 @@
-var mnemonic = "flash latin like crime benefit inch piece access era barrel tell loop";
+var mnemonic = "coconut lazy clarify punch weird mass inherit excite predict answer frame enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon aware weird cook glue hour stock garden film raven message uphold";
+var mnemonic = "congress claw guitar ridge slender rough absent elbow neglect thumb surface club";

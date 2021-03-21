@@ -1,1 +1,1 @@
-var mnemonic = "clinic update flee bronze dinosaur angle one apology twice praise march humble";
+var mnemonic = "season zero focus steak focus soup viable autumn elephant lawn kite swim";

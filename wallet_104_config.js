@@ -1,1 +1,1 @@
-var mnemonic = "tattoo sibling only boost priority rail glare duty unable loud salt style";
+var mnemonic = "opinion juice win craft figure lawn online interest just above will end";

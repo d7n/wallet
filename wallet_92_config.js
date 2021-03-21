@@ -1,1 +1,1 @@
-var mnemonic = "quantum toy rocket brand iron bridge wall record assist letter vapor wheel";
+var mnemonic = "road day grunt scale miracle regular equip accident primary aware someone main";

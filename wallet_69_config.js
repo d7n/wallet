@@ -1,1 +1,1 @@
-var mnemonic = "tattoo curtain man absorb evidence asthma bacon fragile solution keen dash key";
+var mnemonic = "unable else runway alarm visit squirrel girl behave steel example allow program";

@@ -1,1 +1,1 @@
-var mnemonic = "equip enhance resource other depend husband trim interest stadium toward resist inhale";
+var mnemonic = "shoulder door silk slush magnet example pepper timber gospel prize better try";

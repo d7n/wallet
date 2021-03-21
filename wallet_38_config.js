@@ -1,1 +1,1 @@
-var mnemonic = "car chair state voyage vintage usual coach magnet captain soul boat follow";
+var mnemonic = "couple ghost wagon pulp melt butter three issue great spoil right quiz";

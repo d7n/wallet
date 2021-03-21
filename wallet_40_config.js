@@ -1,1 +1,1 @@
-var mnemonic = "property jar reunion oil dilemma west sunny twenty donate mention hunt deny";
+var mnemonic = "twist around mail enable grape canvas mask also inch profit secret stick";

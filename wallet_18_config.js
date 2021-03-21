@@ -1,1 +1,1 @@
-var mnemonic = "spend expand sound reflect knife gossip gap ostrich fragile jump shaft load";
+var mnemonic = "envelope tennis sister erase truly maze exclude dial roast tobacco increase click";

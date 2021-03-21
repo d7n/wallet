@@ -1,1 +1,1 @@
-var mnemonic = "desk arrow maid only all twice ripple inform real life autumn autumn";
+var mnemonic = "flip desert air credit design mom tilt essay canal syrup light endless";

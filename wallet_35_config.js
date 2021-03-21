@@ -1,1 +1,1 @@
-var mnemonic = "camp become own civil legal tip garlic vanish drive hammer what illness";
+var mnemonic = "similar tiger puppy salt decide matter mixed still connect tool cake ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle once crunch tattoo visit pony file cash color over coral young";
+var mnemonic = "teach elder boss sad payment expand unit exact airport panther model fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient gun achieve hospital cereal poverty jar melody deal flag clock bright";
+var mnemonic = "input absent base castle scatter cinnamon soul mail satoshi notable virtual bus";

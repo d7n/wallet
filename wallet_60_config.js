@@ -1,1 +1,1 @@
-var mnemonic = "loyal lock initial silent venue test toy ocean baby prison become gadget";
+var mnemonic = "body alpha calm blood dog trade expect defense clutch cry bronze royal";

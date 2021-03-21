@@ -1,1 +1,1 @@
-var mnemonic = "science bomb evil dwarf economy cover nerve creek soap bread stone punch";
+var mnemonic = "tumble hungry harvest glove olive verify movie rich bounce trouble liquid fault";

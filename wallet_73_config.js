@@ -1,1 +1,1 @@
-var mnemonic = "admit also fix sausage educate effort orphan snack weasel used lemon helmet";
+var mnemonic = "canal chaos eternal sample crunch seek decorate bright path trip later speak";

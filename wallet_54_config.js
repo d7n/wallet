@@ -1,1 +1,1 @@
-var mnemonic = "ahead save turn injury estate fire flee embrace toy student autumn venture";
+var mnemonic = "ghost pull village turtle cram inch connect across obtain dentist basket assault";

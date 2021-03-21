@@ -1,1 +1,1 @@
-var mnemonic = "venue speak scale dutch sweet box symptom fix fee case oppose good";
+var mnemonic = "input curious urge illness final morning section spot alone student trip ethics";

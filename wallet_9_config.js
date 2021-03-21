@@ -1,1 +1,1 @@
-var mnemonic = "hospital laptop basic icon fury phrase chunk labor bacon cradle machine year";
+var mnemonic = "web mercy picnic planet victory brief mule weasel half series satoshi narrow";

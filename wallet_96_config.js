@@ -1,1 +1,1 @@
-var mnemonic = "radar rookie alcohol cloth foam ancient lawn law quit brief refuse share";
+var mnemonic = "festival include mean number protect ready like moment service left lottery helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust exotic morning like lesson pledge second helmet sure select gravity include";
+var mnemonic = "brave bright hood glare save eager hand fox antenna broken rigid mom";

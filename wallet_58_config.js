@@ -1,1 +1,1 @@
-var mnemonic = "alert knock rebel easily slim forum family arctic pool figure soda hotel";
+var mnemonic = "abstract soccer chimney science salt picnic lyrics law illness palm busy tray";

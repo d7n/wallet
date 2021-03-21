@@ -1,1 +1,1 @@
-var mnemonic = "meat helmet rifle truth category measure nature payment ketchup unable chunk trip";
+var mnemonic = "file anger human other again casino spy attack oblige method student cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk bacon funny wheel large hello minor account local blame pen jelly";
+var mnemonic = "valid lecture bench staff shove life naive cousin hint estate moon search";

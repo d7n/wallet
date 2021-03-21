@@ -1,1 +1,1 @@
-var mnemonic = "fuel often tuition dream suggest observe seminar move juice noodle crowd vivid";
+var mnemonic = "crop danger goddess wool credit car below nuclear obvious wife camp uphold";

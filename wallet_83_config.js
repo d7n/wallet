@@ -1,1 +1,1 @@
-var mnemonic = "special salon private nothing screen suffer deputy lock type coconut dragon invest";
+var mnemonic = "trumpet start betray army gorilla open mango arrive athlete bounce brisk shadow";

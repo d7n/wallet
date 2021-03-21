@@ -1,1 +1,1 @@
-var mnemonic = "century wool doll crash wire replace enrich example today leave vacant urge";
+var mnemonic = "acquire insect sample seek stem physical purchase across immune dawn ticket tunnel";

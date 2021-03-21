@@ -1,1 +1,1 @@
-var mnemonic = "spin offer seed napkin office box boat harbor any biology energy spend";
+var mnemonic = "salmon can debate dice equal front cash vault trust hood emotion trick";

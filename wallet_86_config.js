@@ -1,1 +1,1 @@
-var mnemonic = "obtain pigeon under label junior dolphin attack intact brief goose now love";
+var mnemonic = "velvet venture shoulder planet ask guitar guilt until improve quick behave february";

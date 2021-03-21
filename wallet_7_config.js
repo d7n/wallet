@@ -1,1 +1,1 @@
-var mnemonic = "orbit visa sunset pottery bone column pretty bring mass glue famous two";
+var mnemonic = "genius scrub arrange little promote knee toy crowd simple chapter debris paddle";

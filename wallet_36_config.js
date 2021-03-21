@@ -1,1 +1,1 @@
-var mnemonic = "burst arena mutual horse panic client tumble universe ski fitness upset figure";
+var mnemonic = "bind mixture echo rule divorce lady lift hidden place cheese blast grant";

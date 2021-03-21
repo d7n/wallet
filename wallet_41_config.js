@@ -1,1 +1,1 @@
-var mnemonic = "piano learn foster thrive scene bachelor rude okay duck floor enter budget";
+var mnemonic = "fetch mountain elephant panic detail topple together curve immune vacant pair grape";

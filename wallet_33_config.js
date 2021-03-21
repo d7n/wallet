@@ -1,1 +1,1 @@
-var mnemonic = "south cheese novel toast emotion violin boy whale innocent fossil oval alpha";
+var mnemonic = "gesture mix stairs security ripple whisper concert metal barrel oblige brass current";

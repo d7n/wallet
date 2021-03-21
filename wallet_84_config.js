@@ -1,1 +1,1 @@
-var mnemonic = "survey chest nothing easy rule badge energy arrive vapor sister increase barrel";
+var mnemonic = "joke input clean detail today notice spread sea please easy spirit pencil";

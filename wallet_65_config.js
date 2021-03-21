@@ -1,1 +1,1 @@
-var mnemonic = "air flush tip barrel camp never ocean gadget increase memory beauty jacket";
+var mnemonic = "chair viable fix excess tongue used cricket net just audit soccer silly";

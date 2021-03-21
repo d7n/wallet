@@ -1,1 +1,1 @@
-var mnemonic = "tube crisp panther proof glide zone luggage glue come virtual second surge";
+var mnemonic = "pause list also around detail vivid chef oven certain parent obscure chaos";

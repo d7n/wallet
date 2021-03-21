@@ -1,1 +1,1 @@
-var mnemonic = "jar artist toy fox wasp bean rather tube dust village shiver goose";
+var mnemonic = "bridge fitness remove torch south food marble skill surround notice below slight";

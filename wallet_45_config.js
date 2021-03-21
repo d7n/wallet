@@ -1,1 +1,1 @@
-var mnemonic = "involve idea black balcony switch maple fetch federal mango bird memory grape";
+var mnemonic = "day reward pigeon glad cannon great mimic rare liberty rather evoke body";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle mention barely guess cart grain wedding struggle happy dragon bulk coral";
+var mnemonic = "essay teach hurt token drum slice caught legal marriage wear obscure income";

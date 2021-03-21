@@ -1,1 +1,1 @@
-var mnemonic = "ten myth apology lazy wish abandon vivid digital snap bubble worry patient";
+var mnemonic = "travel fresh news auto shallow lion audit august lend feel make start";

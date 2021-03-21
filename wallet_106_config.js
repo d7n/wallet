@@ -1,1 +1,1 @@
-var mnemonic = "display immune season capital remind melody theory wink please shuffle essence sheriff";
+var mnemonic = "upset arrive comfort screen submit leader announce total busy spot flush review";

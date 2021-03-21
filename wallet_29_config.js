@@ -1,1 +1,1 @@
-var mnemonic = "blind chat egg milk carpet away pelican detail cliff melt simple either";
+var mnemonic = "tiny museum garment patient leopard evoke choice jaguar crunch opera casual neglect";

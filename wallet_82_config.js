@@ -1,1 +1,1 @@
-var mnemonic = "inch prevent daughter sphere motor quick nest apart belt uphold grape nephew";
+var mnemonic = "subject try cage guard toy pioneer reduce orbit wild future estate act";

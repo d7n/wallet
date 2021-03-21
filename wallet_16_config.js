@@ -1,1 +1,1 @@
-var mnemonic = "evoke skill cake joke illegal quantum below bacon stove engine denial aspect";
+var mnemonic = "lava manual patch cattle clerk present bone thought mandate north comfort cave";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans foam mistake report bring thunder home hour virus team syrup vacuum";
+var mnemonic = "same federal vacuum verify dwarf system joke warrior promote horse sword inspire";

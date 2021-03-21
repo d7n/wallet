@@ -1,1 +1,1 @@
-var mnemonic = "craft swallow toss cart settle canvas school damage puppy upgrade hero remember";
+var mnemonic = "hockey dumb lecture edge guard stay vague zero panel rice mandate rebuild";

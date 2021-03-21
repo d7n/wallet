@@ -1,1 +1,1 @@
-var mnemonic = "lucky survey fix page body still measure broccoli ahead volcano shuffle badge";
+var mnemonic = "orient excuse height snow promote wire element vehicle drill type blood feel";

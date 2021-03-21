@@ -1,1 +1,1 @@
-var mnemonic = "garment scale vapor chimney club wreck frost illegal erase response traffic leg";
+var mnemonic = "guilt payment example actor multiply priority burden reason orange bronze ski divide";

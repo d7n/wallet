@@ -1,1 +1,1 @@
-var mnemonic = "fox gas collect mobile federal coach curious naive sense meadow lamp cube";
+var mnemonic = "around buddy cave badge blue border miracle fantasy title math pig prevent";

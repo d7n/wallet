@@ -1,1 +1,1 @@
-var mnemonic = "dragon damp pilot tomato cabin crop beauty feel company baby ugly early";
+var mnemonic = "entire trouble minimum amateur hen often honey limb cabbage steel approve cargo";

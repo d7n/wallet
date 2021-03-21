@@ -1,1 +1,1 @@
-var mnemonic = "sample mask endless car drink trash minute seed seek clog describe shuffle";
+var mnemonic = "nerve soup more panther hard napkin ghost rebuild skirt since erupt truth";

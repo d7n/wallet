@@ -1,1 +1,1 @@
-var mnemonic = "update melt bounce awful wait donate sunset pistol card aerobic retire repair";
+var mnemonic = "vendor govern soft filter bachelor lobster close execute diet fat account private";

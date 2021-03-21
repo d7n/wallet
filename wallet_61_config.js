@@ -1,1 +1,1 @@
-var mnemonic = "myth live type annual over actual nest crush base skin seat raw";
+var mnemonic = "brisk utility swing company exhaust ride tiger farm embrace scale uniform damage";

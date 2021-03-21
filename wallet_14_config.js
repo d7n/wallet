@@ -1,1 +1,1 @@
-var mnemonic = "unusual neither canyon surprise gap wrist online inflict stereo pupil drastic utility";
+var mnemonic = "quote spoil estate hunt dial wing furnace hover medal fatal inherit betray";

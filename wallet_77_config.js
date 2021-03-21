@@ -1,1 +1,1 @@
-var mnemonic = "soul survey grant typical dirt bubble twist arctic devote situate skirt fossil";
+var mnemonic = "skin garden pulp occur search response vapor expand clown dry long strong";

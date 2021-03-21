@@ -1,1 +1,1 @@
-var mnemonic = "virtual year solve bomb inspire category output boss pond emerge all chef";
+var mnemonic = "repair leader fence harbor twin fire token broccoli person source toy million";

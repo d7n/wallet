@@ -1,1 +1,1 @@
-var mnemonic = "divert basket animal minor dwarf average leisure soccer stool fame goddess rally";
+var mnemonic = "sheriff ladder sign friend supply trigger deliver burger under news leopard wide";

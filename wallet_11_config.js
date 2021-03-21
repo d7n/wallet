@@ -1,1 +1,1 @@
-var mnemonic = "identify concert together music long coconut language december word inform design popular";
+var mnemonic = "kitten wash entire curtain broom wink motion hurt search bright torch rescue";

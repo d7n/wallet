@@ -1,1 +1,1 @@
-var mnemonic = "pill wide gas cupboard slice spice stumble link detail lecture castle hunt";
+var mnemonic = "project figure weasel body viable include list head sword olympic evoke express";

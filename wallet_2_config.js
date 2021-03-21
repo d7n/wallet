@@ -1,1 +1,1 @@
-var mnemonic = "misery force merit orient stage poem crime flock debris wet version woman";
+var mnemonic = "sea acid bulk possible series glide depend panther safe urge gun peace";

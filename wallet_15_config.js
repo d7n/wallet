@@ -1,1 +1,1 @@
-var mnemonic = "toast detect element vintage talk outer culture maple fold announce hair cage";
+var mnemonic = "member lawn avocado visual keen base wrestle permit muscle outer clump ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "risk federal crane civil screen paper giant upper inform color suit crowd";
+var mnemonic = "metal someone nest gift sausage note unusual shield midnight gift ozone come";

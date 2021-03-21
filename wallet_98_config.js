@@ -1,1 +1,1 @@
-var mnemonic = "plug mango donor when eagle awkward hammer spin sell worry pool cry";
+var mnemonic = "novel scatter imitate prison shell flash puzzle umbrella biology mercy casino three";

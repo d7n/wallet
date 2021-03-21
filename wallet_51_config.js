@@ -1,1 +1,1 @@
-var mnemonic = "close whale cable resist because onion eye total shed space reflect submit";
+var mnemonic = "dizzy next trouble shrimp scale bundle lamp resemble axis summer wire tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist expand behave depart brief side cupboard witness copy reduce category bean";
+var mnemonic = "clinic kitchen quarter pause phone lion issue april faculty blur debate deposit";

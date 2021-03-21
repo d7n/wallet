@@ -1,1 +1,1 @@
-var mnemonic = "vehicle that fix drastic embark hamster grid lamp grant wolf drift kite";
+var mnemonic = "note insect text trophy kind diesel turn glad debris slender scheme isolate";

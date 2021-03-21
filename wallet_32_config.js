@@ -1,1 +1,1 @@
-var mnemonic = "fuel phone twenty fix cancel patient mother ostrich produce seminar goose indicate";
+var mnemonic = "sunny praise section robot mom force unknown fit panic civil swamp protect";

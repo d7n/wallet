@@ -1,1 +1,1 @@
-var mnemonic = "father pipe follow core wise paddle kid want jump churn collect access";
+var mnemonic = "guard erupt winter drip lottery flavor report size bachelor forest midnight practice";

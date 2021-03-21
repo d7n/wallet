@@ -1,1 +1,1 @@
-var mnemonic = "blood elephant rookie exhaust bright moon ten liar good mosquito cloud basic";
+var mnemonic = "crane suspect wolf fall thing account school cable peasant maze fringe reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "note false length vanish idea improve kiwi month you monitor alert cloth";
+var mnemonic = "you protect champion radar novel fold host session rent blossom eye wheat";

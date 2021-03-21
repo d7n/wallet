@@ -1,1 +1,1 @@
-var mnemonic = "pulp buyer punch spider wedding market barrel letter crunch card yellow once";
+var mnemonic = "fruit erase fade action helmet ceiling shift ginger when learn friend famous";
