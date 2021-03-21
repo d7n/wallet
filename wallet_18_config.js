@@ -1,1 +1,1 @@
-var mnemonic = "wisdom erase warfare label share addict quarter phone whisper harsh hub globe";
+var mnemonic = "enter enlist diagram cook happy quit fiscal turkey kind arrow armor mix";

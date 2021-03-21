@@ -1,1 +1,1 @@
-var mnemonic = "salon allow grocery food stage verb wonder file jealous such brick upgrade";
+var mnemonic = "whale category match skull pottery wall intact inherit race ill total song";

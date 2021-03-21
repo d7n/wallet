@@ -1,1 +1,1 @@
-var mnemonic = "check rival input useful monster young since upset pelican sponsor mail potato";
+var mnemonic = "midnight setup example search top tourist vanish patrol canal keen impose speak";

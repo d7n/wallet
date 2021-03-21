@@ -1,1 +1,1 @@
-var mnemonic = "festival sphere forget either frequent general visual basic mystery crush error rural";
+var mnemonic = "humor steak blood hood jewel pupil toast steel thrive shoot vivid gap";

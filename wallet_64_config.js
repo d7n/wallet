@@ -1,1 +1,1 @@
-var mnemonic = "quit judge original extend curve island scrub tape key gun turtle banner";
+var mnemonic = "motion spend uphold youth history paper axis banner scrap blue amateur expand";

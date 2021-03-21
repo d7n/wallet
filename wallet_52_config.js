@@ -1,1 +1,1 @@
-var mnemonic = "favorite office soda pause stool enough next attitude impose citizen black school";
+var mnemonic = "mystery inspire menu chat member knock timber zone author crumble pilot citizen";

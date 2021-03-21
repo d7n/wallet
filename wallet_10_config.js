@@ -1,1 +1,1 @@
-var mnemonic = "antique rent cattle control crazy animal plate original canoe success beach scissors";
+var mnemonic = "broken sister common pistol taste brass regret few patrol supreme legend admit";

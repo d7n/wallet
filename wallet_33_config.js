@@ -1,1 +1,1 @@
-var mnemonic = "mobile artist wrist satoshi practice shiver dance embody frost december burger gentle";
+var mnemonic = "range answer menu face lonely six amused bleak nut nut vendor fun";

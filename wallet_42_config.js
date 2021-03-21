@@ -1,1 +1,1 @@
-var mnemonic = "mutual worth motor about fan true bench clutch demise churn produce flight";
+var mnemonic = "wet filter tree gain combine mind record clean announce view require board";

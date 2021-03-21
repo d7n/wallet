@@ -1,1 +1,1 @@
-var mnemonic = "try night artwork guide feed panda foil denial rival basket spike couple";
+var mnemonic = "narrow cat dry term pencil false tongue knee broom ride off vivid";

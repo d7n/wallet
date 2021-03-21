@@ -1,1 +1,1 @@
-var mnemonic = "album fragile mad middle middle beauty price husband rule write grit clever";
+var mnemonic = "ginger garage domain credit daughter spray tag fold movie narrow common fun";

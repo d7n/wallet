@@ -1,1 +1,1 @@
-var mnemonic = "mouse wrap employ search broom vendor couple benefit weekend royal thing smooth";
+var mnemonic = "legal box school network crop jazz vehicle author right dismiss champion assume";

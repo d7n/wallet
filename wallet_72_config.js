@@ -1,1 +1,1 @@
-var mnemonic = "evidence print idea blame account local squirrel heavy rack toss chicken slice";
+var mnemonic = "become sugar baby weapon sick reform repeat replace almost avoid slim derive";

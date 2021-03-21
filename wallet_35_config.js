@@ -1,1 +1,1 @@
-var mnemonic = "cover collect speed aim two chef riot clean toilet kiwi divert appear";
+var mnemonic = "radio dune frost age gentle parade father custom fox short spider visual";

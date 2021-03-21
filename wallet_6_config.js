@@ -1,1 +1,1 @@
-var mnemonic = "steel morning foot quality memory diamond pencil tattoo upper afford sad wire";
+var mnemonic = "omit can produce forget absorb adapt voice end wife jaguar staff girl";

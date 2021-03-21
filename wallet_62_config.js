@@ -1,1 +1,1 @@
-var mnemonic = "blade whisper mix maple famous truly elbow huge steak island alley dice";
+var mnemonic = "price matter robot slush gun twin wrestle basket slender smoke captain easily";

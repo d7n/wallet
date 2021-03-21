@@ -1,1 +1,1 @@
-var mnemonic = "owner rigid match survey weasel gate uncle airport dice smooth erase twist";
+var mnemonic = "rotate fringe chat village expose deny height sample truth lake case hurry";

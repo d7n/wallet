@@ -1,1 +1,1 @@
-var mnemonic = "voyage joy bamboo million pumpkin you ticket stadium jeans mouse asset diary";
+var mnemonic = "before settle hurt level mixed rebuild medal mad elephant iron supreme together";

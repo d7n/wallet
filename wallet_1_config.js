@@ -1,1 +1,1 @@
-var mnemonic = "same vast morning judge brain shoot woman coast quick belt kit ribbon";
+var mnemonic = "stone divide build yellow useless helmet velvet warm swap melt sleep pipe";

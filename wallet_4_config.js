@@ -1,1 +1,1 @@
-var mnemonic = "cement country rifle govern rapid victory brisk enroll task inflict lift nation";
+var mnemonic = "truly attack easily evolve phone unique this carry crouch spell forum depth";

@@ -1,1 +1,1 @@
-var mnemonic = "access drink health legal diesel capable beyond canal jar genuine sight axis";
+var mnemonic = "enjoy nut accuse install orange sample hollow fatal eight social home avoid";

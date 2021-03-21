@@ -1,1 +1,1 @@
-var mnemonic = "denial aerobic defy marine screen extra chronic change build shoulder trend assault";
+var mnemonic = "aisle same thought peanut burst road code victory air fatigue dwarf own";

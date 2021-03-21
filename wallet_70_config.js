@@ -1,1 +1,1 @@
-var mnemonic = "elite detail merry avoid analyst cousin bronze diary indicate faith company liar";
+var mnemonic = "code lottery satisfy gloom thumb blossom immune dove fiber gorilla quantum kind";

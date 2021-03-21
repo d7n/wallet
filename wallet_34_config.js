@@ -1,1 +1,1 @@
-var mnemonic = "maximum visual trap question cluster air coin fan rose slogan sea craft";
+var mnemonic = "magic grant memory farm expire strong record quarter pattern tenant drift gather";

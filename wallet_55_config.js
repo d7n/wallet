@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur planet trap estate mad surface omit live desk neglect allow siege";
+var mnemonic = "extra limb tray two void grid reform over fog tissue box almost";

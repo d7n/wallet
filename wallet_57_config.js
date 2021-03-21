@@ -1,1 +1,1 @@
-var mnemonic = "immense play bean donkey brisk unit bottom useless ordinary know female oval";
+var mnemonic = "trophy close verify segment glory battle pioneer sustain old marble crazy price";

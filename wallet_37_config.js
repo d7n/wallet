@@ -1,1 +1,1 @@
-var mnemonic = "program tornado tent nut agree fiscal frequent rubber silk embody knee zone";
+var mnemonic = "donor garlic tattoo else bicycle twist sand that any review desert render";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern another tenant history exile spike dial used skin narrow jar what";
+var mnemonic = "speed rare flight march math identify urban hedgehog next bulk siege puzzle";

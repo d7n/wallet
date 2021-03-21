@@ -1,1 +1,1 @@
-var mnemonic = "scrap afraid witness snack virtual brisk eager dignity palm area vintage wedding";
+var mnemonic = "faith atom raise tortoise expire supreme attract injury drastic initial pelican road";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle novel gentle protect cheap appear pitch wife pyramid lens pony various";
+var mnemonic = "glide idea session equal view inherit odor rare onion praise eager identify";

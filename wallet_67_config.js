@@ -1,1 +1,1 @@
-var mnemonic = "tennis begin desk slide laptop smart skin wheel almost ice notice rhythm";
+var mnemonic = "crater tuna fluid adjust guide few yard puzzle hand ribbon rich flower";

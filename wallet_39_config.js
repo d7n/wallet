@@ -1,1 +1,1 @@
-var mnemonic = "fire alarm kite scissors still bounce rug modify sibling safe oblige orient";
+var mnemonic = "movie soccer panic tag cage sing muffin lab slot ride change elbow";

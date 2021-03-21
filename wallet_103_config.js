@@ -1,1 +1,1 @@
-var mnemonic = "inhale dog dream blood recipe spray oil math need bottom core bright";
+var mnemonic = "teach dilemma promote sentence sausage senior nature patient strike wrestle better farm";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown organ country pottery zone balance annual ready install style ribbon vanish";
+var mnemonic = "lazy verb toilet drastic world globe trade crush kite awesome display egg";

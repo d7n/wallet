@@ -1,1 +1,1 @@
-var mnemonic = "attack tattoo hurt glimpse core business indoor family genius donkey own fix";
+var mnemonic = "phrase behave salute lens season core sphere attack sleep insane reject lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle boost enroll sugar prevent field curve nose brief remember million unfair";
+var mnemonic = "zone resource fee double milk river bulb unaware match sail amused session";

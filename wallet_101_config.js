@@ -1,1 +1,1 @@
-var mnemonic = "correct replace tonight love snack return wreck forum juice mouse yard phrase";
+var mnemonic = "decide cute slow knock also evoke update stick relax flavor way snap";

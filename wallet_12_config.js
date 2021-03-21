@@ -1,1 +1,1 @@
-var mnemonic = "intact cannon history elephant regret dry speed few stairs spring length grab";
+var mnemonic = "idea cinnamon work point marine bright concert seed smooth use start aware";

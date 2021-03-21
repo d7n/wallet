@@ -1,1 +1,1 @@
-var mnemonic = "hospital vehicle rough frog record exact spot cinnamon brave radio orange odor";
+var mnemonic = "life vital abandon novel spice stand ladder vendor exchange suit leave tuna";

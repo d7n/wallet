@@ -1,1 +1,1 @@
-var mnemonic = "betray depth caught amazing much blood spawn remind magnet figure theme today";
+var mnemonic = "gadget ivory turtle scrub long eternal buddy crime host empower insect cool";

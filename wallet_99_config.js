@@ -1,1 +1,1 @@
-var mnemonic = "blood target another sudden canyon office visa drift minor any history sustain";
+var mnemonic = "believe brick admit toy planet speak render hole gain enhance napkin length";

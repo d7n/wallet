@@ -1,1 +1,1 @@
-var mnemonic = "globe step smile hover rough sock feel dial scrub area carbon female";
+var mnemonic = "dial occur clerk repeat boil mother eyebrow snap vintage fruit gravity shoe";

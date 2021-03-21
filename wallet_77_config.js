@@ -1,1 +1,1 @@
-var mnemonic = "waste universe slot century web whisper arctic ticket universe divide loop chuckle";
+var mnemonic = "drip cereal plunge town silent forest furnace vacuum dirt stumble relax apart";

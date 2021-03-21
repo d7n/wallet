@@ -1,1 +1,1 @@
-var mnemonic = "visit fabric scheme shadow pig spy traffic place oil hat swift minimum";
+var mnemonic = "moral couple void easy fiscal apple finish laptop protect man orchard plate";

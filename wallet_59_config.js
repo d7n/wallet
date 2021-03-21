@@ -1,1 +1,1 @@
-var mnemonic = "virtual duty artist learn lawsuit want music imitate swing garment sunny clerk";
+var mnemonic = "girl shock matter input pool glory outer gasp camera surround chase final";

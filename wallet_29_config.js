@@ -1,1 +1,1 @@
-var mnemonic = "immune notice later phone trigger flight tape kiwi canvas clock arctic this";
+var mnemonic = "switch dream off resist dream connect skirt august hole sleep bamboo novel";

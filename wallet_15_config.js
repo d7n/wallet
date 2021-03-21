@@ -1,1 +1,1 @@
-var mnemonic = "boost color heavy beauty identify dinner boy fork cannon humble rail cook";
+var mnemonic = "pet primary bronze engine coast nation elegant slim illness wage obtain comic";

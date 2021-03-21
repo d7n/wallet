@@ -1,1 +1,1 @@
-var mnemonic = "decide skill cage stone license cruel calm kangaroo post emotion pink stay";
+var mnemonic = "boss maze ask slogan rural project caught aunt salt drastic toast fine";

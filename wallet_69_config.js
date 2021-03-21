@@ -1,1 +1,1 @@
-var mnemonic = "welcome antenna shift salad chair fiction lake produce market retire stable seminar";
+var mnemonic = "enact guide welcome basic version veteran useful logic alter enter sport health";

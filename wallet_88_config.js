@@ -1,1 +1,1 @@
-var mnemonic = "switch lecture collect fix biology drill chalk fork life source trigger tribe";
+var mnemonic = "head mechanic wisdom one topple above focus tape body hire fee light";

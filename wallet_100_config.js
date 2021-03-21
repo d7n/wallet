@@ -1,1 +1,1 @@
-var mnemonic = "purse rice foam glare true differ actor aim second degree bachelor seven";
+var mnemonic = "skin salad enjoy cruise able raven palace dress scissors wrist festival visual";

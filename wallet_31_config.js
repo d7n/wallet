@@ -1,1 +1,1 @@
-var mnemonic = "vicious horse aim eagle salute laundry now okay mutual bargain nice essence";
+var mnemonic = "social budget patient help symbol flee adult scrub misery slim soup occur";

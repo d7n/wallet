@@ -1,1 +1,1 @@
-var mnemonic = "mixture warfare brown awake trip vintage over dice salon modify page expect";
+var mnemonic = "drip bid park civil major butter absorb cake below cute remember quality";

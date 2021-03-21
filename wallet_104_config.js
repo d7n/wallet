@@ -1,1 +1,1 @@
-var mnemonic = "cigar excuse lens argue over type bronze there hidden vanish grief glad";
+var mnemonic = "average bunker panel there auction behave shock regret paper pepper feel forward";

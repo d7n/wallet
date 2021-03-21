@@ -1,1 +1,1 @@
-var mnemonic = "cactus organ dove rain future museum cliff situate crawl swear run mind";
+var mnemonic = "mixture drop increase assault wheat review join trick pill home rack neither";

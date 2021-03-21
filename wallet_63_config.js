@@ -1,1 +1,1 @@
-var mnemonic = "urge wait story tag trim cable fetch film episode jewel join devote";
+var mnemonic = "extra soft athlete hurry video rigid chimney sound beauty grant improve afraid";

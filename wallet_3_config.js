@@ -1,1 +1,1 @@
-var mnemonic = "anger fade dragon post master remember mention sudden light addict seat oil";
+var mnemonic = "any taste merit middle front leader uphold exclude upgrade exhibit loud wide";

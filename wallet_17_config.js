@@ -1,1 +1,1 @@
-var mnemonic = "slow hobby find finger kiss flag twist rent wealth limit drill rubber";
+var mnemonic = "copper own tool anxiety quarter embody gift math depth stereo please hair";

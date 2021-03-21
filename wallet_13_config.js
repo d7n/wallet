@@ -1,1 +1,1 @@
-var mnemonic = "virtual loud repeat guilt crop reopen fatal inflict walk taste foil giant";
+var mnemonic = "merry source nature diary penalty depend more since slender burden spring token";

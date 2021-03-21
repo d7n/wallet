@@ -1,1 +1,1 @@
-var mnemonic = "grid split virus clump stereo number doctor protect culture achieve antenna crane";
+var mnemonic = "police wealth blast agree media canoe village sure power rubber woman off";

@@ -1,1 +1,1 @@
-var mnemonic = "betray pause grow absent dwarf myself mushroom identify analyst sphere menu chief";
+var mnemonic = "crime dance divert fruit total betray travel battle length lemon cage biology";

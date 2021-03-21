@@ -1,1 +1,1 @@
-var mnemonic = "sleep inflict globe frog dance weird shoe area ghost token horror meadow";
+var mnemonic = "direct demand merit message close lamp whip diet flag funny morning duck";

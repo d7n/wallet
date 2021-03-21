@@ -1,1 +1,1 @@
-var mnemonic = "panther magic rigid harbor shed brush joy able rare jar wait mimic";
+var mnemonic = "road chapter jewel ignore result bench wear barrel sun capital runway burden";

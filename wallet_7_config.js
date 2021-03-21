@@ -1,1 +1,1 @@
-var mnemonic = "wonder corn pumpkin liquid tissue label used thunder motion team jeans short";
+var mnemonic = "into coin today dove seek can erode already rich issue harvest govern";

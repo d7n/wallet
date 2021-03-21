@@ -1,1 +1,1 @@
-var mnemonic = "laugh enter rather play budget village sleep feed season base update hybrid";
+var mnemonic = "release sock long recipe little outside squirrel brisk cereal barrel tube battle";

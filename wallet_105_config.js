@@ -1,1 +1,1 @@
-var mnemonic = "attitude squirrel quote churn cactus dream invest spawn you grant consider rough";
+var mnemonic = "hill diesel occur oppose ramp prize mouse fatal toward want vote resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "stone witness comfort curve despair photo civil unfold torch oak frequent expand";
+var mnemonic = "fatigue mammal movie pen naive crush junk patrol hair wild wet parent";

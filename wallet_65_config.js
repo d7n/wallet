@@ -1,1 +1,1 @@
-var mnemonic = "physical earn record dial utility update stage tragic unit shell omit among";
+var mnemonic = "upset pelican congress foot oyster pride twelve announce million divorce barrel electric";

@@ -1,1 +1,1 @@
-var mnemonic = "kid during stage legal employ vapor grab grid frequent obscure account offer";
+var mnemonic = "common hurdle zoo impose vast top problem unknown awful device fantasy panic";

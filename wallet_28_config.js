@@ -1,1 +1,1 @@
-var mnemonic = "snow guess feel delay voyage occur left verify north habit around coach";
+var mnemonic = "awkward crawl enforce fade bicycle across shy mule manage boil unfold badge";

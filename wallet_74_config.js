@@ -1,1 +1,1 @@
-var mnemonic = "reunion resist garden oblige liar wheel canvas climb melt ridge kiss huge";
+var mnemonic = "voice boss vendor cigar sample upgrade opera stairs flame dinosaur royal gasp";

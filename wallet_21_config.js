@@ -1,1 +1,1 @@
-var mnemonic = "asthma black total tobacco have recycle sadness budget angle winner monster obscure";
+var mnemonic = "camera since search luxury agent moral water afford inhale warm various debris";

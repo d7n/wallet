@@ -1,1 +1,1 @@
-var mnemonic = "gift myself shop angle cause giggle mandate carbon hen toddler embrace proof";
+var mnemonic = "below derive extend merry hen avocado side cherry hurt advice wreck tongue";

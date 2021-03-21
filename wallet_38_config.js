@@ -1,1 +1,1 @@
-var mnemonic = "license leave exercise fresh lady surprise inherit hurry promote rapid ramp detect";
+var mnemonic = "eagle perfect kick wagon pond arena bomb enlist unaware struggle blossom version";

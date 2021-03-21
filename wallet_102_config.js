@@ -1,1 +1,1 @@
-var mnemonic = "connect dismiss sentence comic sail often finish possible client cute album glare";
+var mnemonic = "off gorilla annual arrow fortune frequent monitor breeze exchange expand remove riot";

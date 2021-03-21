@@ -1,1 +1,1 @@
-var mnemonic = "sign tuition apple glance mercy share ensure useless kid argue piano immune";
+var mnemonic = "brown logic sweet hollow minor diagram crack hunt survey gown manage clump";

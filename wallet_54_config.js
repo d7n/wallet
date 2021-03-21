@@ -1,1 +1,1 @@
-var mnemonic = "problem habit reduce hunt wrestle also anxiety dilemma corn atom cage crew";
+var mnemonic = "excuse kite rabbit vessel exchange door rail donkey forward sphere awful elegant";

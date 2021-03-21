@@ -1,1 +1,1 @@
-var mnemonic = "put cinnamon punch already cable fiscal radio weapon reject initial muscle clog";
+var mnemonic = "render hard renew school gap bone flight snack bridge sock labor immune";

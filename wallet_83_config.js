@@ -1,1 +1,1 @@
-var mnemonic = "ancient sand before spawn badge stomach shock must catch syrup layer fresh";
+var mnemonic = "cricket plate merge sustain such knee vanish monitor tooth clerk inflict grocery";

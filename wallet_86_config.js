@@ -1,1 +1,1 @@
-var mnemonic = "common purpose amazing portion wall maximum snow ring brown survey creek thunder";
+var mnemonic = "broom frost foil fluid lemon gun coyote chalk source sponsor waste brief";

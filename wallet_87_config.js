@@ -1,1 +1,1 @@
-var mnemonic = "later wife knee total wrist soldier alien infant top connect mix exercise";
+var mnemonic = "math scare fury office acoustic release mimic online case reopen hood axis";

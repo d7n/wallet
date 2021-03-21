@@ -1,1 +1,1 @@
-var mnemonic = "index casual brisk hole oil salmon sight cruel grunt abuse aim virtual";
+var mnemonic = "coffee file easy absorb art awkward biology nerve reopen visa social fatigue";

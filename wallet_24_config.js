@@ -1,1 +1,1 @@
-var mnemonic = "lobster urban attract innocent umbrella elegant staff ethics loan dinner address suspect";
+var mnemonic = "very genius nephew pause marine fury visual monitor coconut attack rail club";

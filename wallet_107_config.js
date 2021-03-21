@@ -1,1 +1,1 @@
-var mnemonic = "track drama cactus bone mixed wheel office peace moral banana motion armor";
+var mnemonic = "brief alley nothing candy furnace assist post deer area beach dinosaur van";

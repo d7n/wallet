@@ -1,1 +1,1 @@
-var mnemonic = "future apology during hazard attack steel can cinnamon meadow hold account genius";
+var mnemonic = "country ship image banana stock cage lazy point rich ginger scene cat";

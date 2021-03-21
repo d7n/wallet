@@ -1,1 +1,1 @@
-var mnemonic = "home door club chase future stone alley bundle tonight thumb field manage";
+var mnemonic = "cycle occur twenty refuse autumn obscure favorite maid lawsuit shift doctor flock";

@@ -1,1 +1,1 @@
-var mnemonic = "modify kitchen account someone pipe cross gun orient world nuclear real replace";
+var mnemonic = "melody need icon together destroy clay certain shadow blood reveal audit vibrant";
