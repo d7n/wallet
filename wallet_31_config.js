@@ -1,1 +1,1 @@
-var mnemonic = "lobster drop shock gentle chronic unfold aim sick virtual erupt such swarm";
+var mnemonic = "behave lion divert phone guide sock lemon shield three swing decide snow";

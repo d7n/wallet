@@ -1,1 +1,1 @@
-var mnemonic = "repair leader fence harbor twin fire token broccoli person source toy million";
+var mnemonic = "bounce trial flavor leave glass margin quote night aunt clever cargo scissors";

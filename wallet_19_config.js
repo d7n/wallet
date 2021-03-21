@@ -1,1 +1,1 @@
-var mnemonic = "travel fresh news auto shallow lion audit august lend feel make start";
+var mnemonic = "patch night wine shed truck inspire start rail chalk private combine brisk";

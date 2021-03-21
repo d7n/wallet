@@ -1,1 +1,1 @@
-var mnemonic = "bind mixture echo rule divorce lady lift hidden place cheese blast grant";
+var mnemonic = "motor achieve rich tortoise garbage frog problem belt renew fee rare own";

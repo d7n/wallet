@@ -1,1 +1,1 @@
-var mnemonic = "bridge fitness remove torch south food marble skill surround notice below slight";
+var mnemonic = "castle prefer please lounge civil ugly prison silk lyrics human dog woman";

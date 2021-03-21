@@ -1,1 +1,1 @@
-var mnemonic = "member lawn avocado visual keen base wrestle permit muscle outer clump ketchup";
+var mnemonic = "smart hope lock taxi avocado airport olive pass urban bargain flip arch";

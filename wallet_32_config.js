@@ -1,1 +1,1 @@
-var mnemonic = "sunny praise section robot mom force unknown fit panic civil swamp protect";
+var mnemonic = "afford undo fix subway okay betray expose shuffle jump pudding amused allow";

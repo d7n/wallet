@@ -1,1 +1,1 @@
-var mnemonic = "input curious urge illness final morning section spot alone student trip ethics";
+var mnemonic = "sister truly auction mixture trip engage private sight domain buyer job nature";

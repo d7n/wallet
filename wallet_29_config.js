@@ -1,1 +1,1 @@
-var mnemonic = "tiny museum garment patient leopard evoke choice jaguar crunch opera casual neglect";
+var mnemonic = "voyage message sight vicious shock myth verify say slight flock input garlic";

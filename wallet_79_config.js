@@ -1,1 +1,1 @@
-var mnemonic = "season zero focus steak focus soup viable autumn elephant lawn kite swim";
+var mnemonic = "rack jealous sniff disorder wheat shaft depart crucial vintage forget bar ten";

@@ -1,1 +1,1 @@
-var mnemonic = "sea acid bulk possible series glide depend panther safe urge gun peace";
+var mnemonic = "icon rookie addict forget unfold unaware fabric grit plunge earth into quality";

@@ -1,1 +1,1 @@
-var mnemonic = "body alpha calm blood dog trade expect defense clutch cry bronze royal";
+var mnemonic = "style fix repeat whip stick leaf decrease rough sentence hover tuition bachelor";

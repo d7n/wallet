@@ -1,1 +1,1 @@
-var mnemonic = "idle rigid hero surface edit message blade helmet sell seek invite curious";
+var mnemonic = "emotion direct valid escape chunk require between robot capable rebuild picnic during";

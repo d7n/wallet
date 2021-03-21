@@ -1,1 +1,1 @@
-var mnemonic = "tray shoulder strategy south veteran first plate rude sight lucky water mimic";
+var mnemonic = "puzzle private flag better fun photo flock model profit domain artefact disagree";

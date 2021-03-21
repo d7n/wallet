@@ -1,1 +1,1 @@
-var mnemonic = "fruit erase fade action helmet ceiling shift ginger when learn friend famous";
+var mnemonic = "image quantum foil potato online shy best blush normal frequent square mix";

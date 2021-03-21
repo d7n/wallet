@@ -1,1 +1,1 @@
-var mnemonic = "file anger human other again casino spy attack oblige method student cheap";
+var mnemonic = "solve hedgehog bulb margin judge grit market way dumb valve pilot damp";

@@ -1,1 +1,1 @@
-var mnemonic = "pause list also around detail vivid chef oven certain parent obscure chaos";
+var mnemonic = "twelve evil youth pretty afford unhappy dizzy entry milk minor float suit";

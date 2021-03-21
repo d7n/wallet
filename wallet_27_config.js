@@ -1,1 +1,1 @@
-var mnemonic = "biology maid secret laundry that stay planet fatal oil card idle bean";
+var mnemonic = "angle insane grape among great cliff couple crew obtain run flight movie";

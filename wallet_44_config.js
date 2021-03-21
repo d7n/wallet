@@ -1,1 +1,1 @@
-var mnemonic = "metal someone nest gift sausage note unusual shield midnight gift ozone come";
+var mnemonic = "avocado tongue autumn grant short into sand core range seek wage congress";

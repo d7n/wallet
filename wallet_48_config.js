@@ -1,1 +1,1 @@
-var mnemonic = "tumble hungry harvest glove olive verify movie rich bounce trouble liquid fault";
+var mnemonic = "arrive balance mango cash nature silver track below ski boss divert faith";

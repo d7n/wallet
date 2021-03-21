@@ -1,1 +1,1 @@
-var mnemonic = "joke input clean detail today notice spread sea please easy spirit pencil";
+var mnemonic = "winter hip screen infant slow wine easily very peasant clump bid cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "couple ghost wagon pulp melt butter three issue great spoil right quiz";
+var mnemonic = "acoustic rubber spike clock modify such oblige deposit turtle reveal survey humor";

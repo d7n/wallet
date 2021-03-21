@@ -1,1 +1,1 @@
-var mnemonic = "globe acquire orchard rice decade load decorate buyer attitude trust debris surge";
+var mnemonic = "crisp need kiwi achieve wood holiday arrive finger system harbor mimic faith";

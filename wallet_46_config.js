@@ -1,1 +1,1 @@
-var mnemonic = "victory fat number parent wise good correct balcony chest exile fat lift";
+var mnemonic = "truck cotton sell flush weird alley bargain nose lift luggage pen give";

@@ -1,1 +1,1 @@
-var mnemonic = "upset arrive comfort screen submit leader announce total busy spot flush review";
+var mnemonic = "ripple spring siren people column spatial loud harbor normal coconut magic raw";

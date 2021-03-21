@@ -1,1 +1,1 @@
-var mnemonic = "salmon can debate dice equal front cash vault trust hood emotion trick";
+var mnemonic = "ozone release orange guess still entire brass oak scrub correct hip humble";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin resource narrow captain slice ribbon bulk lumber case lounge enact thunder";
+var mnemonic = "picnic mobile leave orange own long extend maid duck student draw hand";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet venture shoulder planet ask guitar guilt until improve quick behave february";
+var mnemonic = "cruise album goat alarm kick radar patrol melt chronic song family wagon";

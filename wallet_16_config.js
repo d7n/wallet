@@ -1,1 +1,1 @@
-var mnemonic = "lava manual patch cattle clerk present bone thought mandate north comfort cave";
+var mnemonic = "identify enhance captain dish chair mango tail swing clap taste unaware depart";

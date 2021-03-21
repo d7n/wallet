@@ -1,1 +1,1 @@
-var mnemonic = "color prefer torch ozone news rail spend ahead render hawk disorder pledge";
+var mnemonic = "second radio damp pelican episode this orient equip box cheap soon pair";

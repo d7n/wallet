@@ -1,1 +1,1 @@
-var mnemonic = "around buddy cave badge blue border miracle fantasy title math pig prevent";
+var mnemonic = "vanish sport best hope fan toilet finish capable gold limb truth walnut";

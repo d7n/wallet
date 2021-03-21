@@ -1,1 +1,1 @@
-var mnemonic = "gesture mix stairs security ripple whisper concert metal barrel oblige brass current";
+var mnemonic = "sentence rally gallery around trust kit leg invite salmon minor motion alter";

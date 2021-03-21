@@ -1,1 +1,1 @@
-var mnemonic = "vendor govern soft filter bachelor lobster close execute diet fat account private";
+var mnemonic = "fury awkward typical wedding blossom hurt asset cube hurry borrow gas celery";

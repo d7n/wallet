@@ -1,1 +1,1 @@
-var mnemonic = "clinic kitchen quarter pause phone lion issue april faculty blur debate deposit";
+var mnemonic = "walnut shock police truth gold churn tissue picnic essence consider candy noodle";

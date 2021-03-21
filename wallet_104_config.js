@@ -1,1 +1,1 @@
-var mnemonic = "opinion juice win craft figure lawn online interest just above will end";
+var mnemonic = "blind clump fitness wood dilemma entry tank onion dawn vicious bag taxi";

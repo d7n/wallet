@@ -1,1 +1,1 @@
-var mnemonic = "dizzy next trouble shrimp scale bundle lamp resemble axis summer wire tumble";
+var mnemonic = "absent engage marble sure way dish learn biology system affair until turtle";

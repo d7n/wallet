@@ -1,1 +1,1 @@
-var mnemonic = "day reward pigeon glad cannon great mimic rare liberty rather evoke body";
+var mnemonic = "much valve fruit win blur actual coil human educate habit timber blush";

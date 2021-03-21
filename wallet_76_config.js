@@ -1,1 +1,1 @@
-var mnemonic = "coconut lazy clarify punch weird mass inherit excite predict answer frame enlist";
+var mnemonic = "machine teach industry lawsuit judge never metal rotate very tuition title unfair";

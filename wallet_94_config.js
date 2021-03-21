@@ -1,1 +1,1 @@
-var mnemonic = "energy picnic learn will one primary engine volume marble pelican power solar";
+var mnemonic = "forget sign giraffe sell raise clock old viable aspect neglect manage peanut";

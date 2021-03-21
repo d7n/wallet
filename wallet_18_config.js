@@ -1,1 +1,1 @@
-var mnemonic = "envelope tennis sister erase truly maze exclude dial roast tobacco increase click";
+var mnemonic = "smile endorse answer salon bachelor boring fresh insect list hen silly year";

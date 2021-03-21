@@ -1,1 +1,1 @@
-var mnemonic = "flip desert air credit design mom tilt essay canal syrup light endless";
+var mnemonic = "social wing glue love diet rural possible object unfair title exit educate";

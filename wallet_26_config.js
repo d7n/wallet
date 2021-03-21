@@ -1,1 +1,1 @@
-var mnemonic = "guard erupt winter drip lottery flavor report size bachelor forest midnight practice";
+var mnemonic = "romance party toilet nose person baby reward verb alpha present mobile crush";

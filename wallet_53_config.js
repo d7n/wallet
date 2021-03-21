@@ -1,1 +1,1 @@
-var mnemonic = "note insect text trophy kind diesel turn glad debris slender scheme isolate";
+var mnemonic = "grain oven vault enlist that half inflict drama limb mass jelly flavor";

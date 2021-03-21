@@ -1,1 +1,1 @@
-var mnemonic = "project swallow mammal make vicious fancy upset labor provide trumpet security motion";
+var mnemonic = "ladder logic second casual wild switch danger imitate coach hire divert nest";

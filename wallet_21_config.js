@@ -1,1 +1,1 @@
-var mnemonic = "chat floor sick bone search ride discover uncover wheat library lemon garage";
+var mnemonic = "mammal utility tell swift track brief oblige dad have talent reopen reform";

@@ -1,1 +1,1 @@
-var mnemonic = "genius scrub arrange little promote knee toy crowd simple chapter debris paddle";
+var mnemonic = "hour junk enough into fee foil pretty portion remain yellow castle cotton";

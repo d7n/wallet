@@ -1,1 +1,1 @@
-var mnemonic = "orient excuse height snow promote wire element vehicle drill type blood feel";
+var mnemonic = "crawl thing end bid myth album announce earth jaguar option tomorrow shell";

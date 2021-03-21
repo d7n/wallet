@@ -1,1 +1,1 @@
-var mnemonic = "amazing charge also afford chest vicious example vault student risk season dish";
+var mnemonic = "cabbage sign lizard gallery lemon water tag brown jungle shy guilt foam";

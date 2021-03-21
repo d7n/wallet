@@ -1,1 +1,1 @@
-var mnemonic = "ostrich raw depend celery ribbon genius artefact lava multiply crucial dash bundle";
+var mnemonic = "soda horror earn token hire adapt hope lizard satisfy curious cram carpet";

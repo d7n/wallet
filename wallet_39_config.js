@@ -1,1 +1,1 @@
-var mnemonic = "bind miracle angle just point ethics mistake innocent silly debris horse attack";
+var mnemonic = "thrive avocado dragon pretty shuffle increase edit crime program grocery runway treat";

@@ -1,1 +1,1 @@
-var mnemonic = "quote spoil estate hunt dial wing furnace hover medal fatal inherit betray";
+var mnemonic = "blanket timber proud sorry wife rail jelly keep base tornado wrong divert";

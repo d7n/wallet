@@ -1,1 +1,1 @@
-var mnemonic = "east dog sport sauce junk orange account normal parrot fire brain gift";
+var mnemonic = "update style cause evolve retire good swear drive cart dust warm carpet";

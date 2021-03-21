@@ -1,1 +1,1 @@
-var mnemonic = "crop verb lion avoid knock oval search trade solid worth quality smile";
+var mnemonic = "escape need total wet awkward clinic answer rookie empty shed lunar profit";

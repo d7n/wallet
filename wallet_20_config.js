@@ -1,1 +1,1 @@
-var mnemonic = "three crucial usage network gospel lunch misery beyond window rescue toy blind";
+var mnemonic = "van occur husband inside lyrics crack cool equal crawl picture rather orbit";

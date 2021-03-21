@@ -1,1 +1,1 @@
-var mnemonic = "trumpet start betray army gorilla open mango arrive athlete bounce brisk shadow";
+var mnemonic = "screen awake grunt concert fee pig toy oval wear people rain dilemma";

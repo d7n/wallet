@@ -1,1 +1,1 @@
-var mnemonic = "similar tiger puppy salt decide matter mixed still connect tool cake ozone";
+var mnemonic = "ankle response surround again range blame hill lottery involve story elevator about";

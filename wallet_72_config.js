@@ -1,1 +1,1 @@
-var mnemonic = "mosquito smart aunt lonely breeze pony settle adapt base vendor funny bean";
+var mnemonic = "enemy way trade hybrid clump mind special metal ankle nature scout purse";

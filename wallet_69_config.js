@@ -1,1 +1,1 @@
-var mnemonic = "unable else runway alarm visit squirrel girl behave steel example allow program";
+var mnemonic = "extend ceiling ridge rose enlist fluid advice couch develop antique mixed pet";

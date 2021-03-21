@@ -1,1 +1,1 @@
-var mnemonic = "loop erase notable swallow stadium among zero gold slender dose proof vacuum";
+var mnemonic = "library obtain mind guard egg ripple clown sponsor home soda claim picnic";

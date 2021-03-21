@@ -1,1 +1,1 @@
-var mnemonic = "skin garden pulp occur search response vapor expand clown dry long strong";
+var mnemonic = "once powder birth concert happy second tenant hungry trumpet swarm essay young";

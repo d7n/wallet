@@ -1,1 +1,1 @@
-var mnemonic = "festival include mean number protect ready like moment service left lottery helmet";
+var mnemonic = "soap will climb solid erosion drive birth tube treat document oil model";

@@ -1,1 +1,1 @@
-var mnemonic = "teach elder boss sad payment expand unit exact airport panther model fresh";
+var mnemonic = "critic wage vague milk clump zoo soft clap cruise tag lobster clap";

@@ -1,1 +1,1 @@
-var mnemonic = "quit steel planet dress caught panel sister boost envelope surprise quiz potato";
+var mnemonic = "angry skirt deposit capable fade hobby grant pepper fame black raccoon hour";

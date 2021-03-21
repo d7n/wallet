@@ -1,1 +1,1 @@
-var mnemonic = "crop danger goddess wool credit car below nuclear obvious wife camp uphold";
+var mnemonic = "wrist poet cook spend road grace average master when famous winter water";

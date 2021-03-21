@@ -1,1 +1,1 @@
-var mnemonic = "umbrella cable camera save such hammer toddler slab office truck remind decorate";
+var mnemonic = "original page bargain okay april soul ripple twist body van expand whisper";

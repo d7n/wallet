@@ -1,1 +1,1 @@
-var mnemonic = "chair viable fix excess tongue used cricket net just audit soccer silly";
+var mnemonic = "under across warrior novel gentle furnace misery drift inquiry carbon army state";

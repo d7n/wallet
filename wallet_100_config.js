@@ -1,1 +1,1 @@
-var mnemonic = "nerve soup more panther hard napkin ghost rebuild skirt since erupt truth";
+var mnemonic = "wall sound chase evolve choose mention smooth airport mom silent desk lottery";

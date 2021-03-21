@@ -1,1 +1,1 @@
-var mnemonic = "train spike notice maple cruel seat pledge settle must exchange name mixture";
+var mnemonic = "write present transfer split later cube slab resource toss loop essence depend";

@@ -1,1 +1,1 @@
-var mnemonic = "web mercy picnic planet victory brief mule weasel half series satoshi narrow";
+var mnemonic = "party moon choice glimpse lyrics barely rotate inform eye discover used gym";

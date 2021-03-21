@@ -1,1 +1,1 @@
-var mnemonic = "say spring stock soon absurd riot daughter push multiply exhibit tooth trophy";
+var mnemonic = "ring stock nephew puzzle lawsuit siren ghost economy ribbon license alien utility";

@@ -1,1 +1,1 @@
-var mnemonic = "game middle fortune foam anchor image quarter flight alpha labor join stumble";
+var mnemonic = "true purchase bench fragile bench involve raise delay shallow math discover video";

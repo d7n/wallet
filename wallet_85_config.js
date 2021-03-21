@@ -1,1 +1,1 @@
-var mnemonic = "input absent base castle scatter cinnamon soul mail satoshi notable virtual bus";
+var mnemonic = "brisk search oxygen lamp chapter seek chapter ethics wage barely way click";

@@ -1,1 +1,1 @@
-var mnemonic = "you protect champion radar novel fold host session rent blossom eye wheat";
+var mnemonic = "popular float gain rural scrap bread obvious surge together afford figure swarm";

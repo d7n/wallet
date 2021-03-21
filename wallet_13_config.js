@@ -1,1 +1,1 @@
-var mnemonic = "sheriff ladder sign friend supply trigger deliver burger under news leopard wide";
+var mnemonic = "bring stand gas eager lawsuit potato abandon loop owner gospel patient knife";

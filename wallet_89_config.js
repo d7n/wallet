@@ -1,1 +1,1 @@
-var mnemonic = "same federal vacuum verify dwarf system joke warrior promote horse sword inspire";
+var mnemonic = "dolphin shiver follow loud amazing risk sing example dial pitch master wall";

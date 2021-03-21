@@ -1,1 +1,1 @@
-var mnemonic = "gate reduce better female legal drastic price almost chuckle bomb parade odor";
+var mnemonic = "topple interest color almost boring puppy shaft resist arch quarter dry shoot";

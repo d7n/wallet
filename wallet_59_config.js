@@ -1,1 +1,1 @@
-var mnemonic = "guilt payment example actor multiply priority burden reason orange bronze ski divide";
+var mnemonic = "tattoo that crawl wedding onion web wolf uncover vessel later album vibrant";

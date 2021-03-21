@@ -1,1 +1,1 @@
-var mnemonic = "twist around mail enable grape canvas mask also inch profit secret stick";
+var mnemonic = "retreat tomato apple youth nothing success pipe use reform bike trade bind";

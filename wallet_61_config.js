@@ -1,1 +1,1 @@
-var mnemonic = "brisk utility swing company exhaust ride tiger farm embrace scale uniform damage";
+var mnemonic = "jealous stool frown napkin canoe notable sustain turn donate genre april wrestle";

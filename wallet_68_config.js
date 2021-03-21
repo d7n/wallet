@@ -1,1 +1,1 @@
-var mnemonic = "crane suspect wolf fall thing account school cable peasant maze fringe reveal";
+var mnemonic = "submit punch peace similar surprise uncover addict excess journey van treat spider";

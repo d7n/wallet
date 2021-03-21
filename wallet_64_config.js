@@ -1,1 +1,1 @@
-var mnemonic = "essay teach hurt token drum slice caught legal marriage wear obscure income";
+var mnemonic = "idle chase dilemma glove insect side verify physical recycle dragon online same";

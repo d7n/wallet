@@ -1,1 +1,1 @@
-var mnemonic = "hundred pear similar over real history oil initial morning load cool cereal";
+var mnemonic = "net argue canal edge common heavy screen lunch scrub color decade busy";

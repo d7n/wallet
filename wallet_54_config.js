@@ -1,1 +1,1 @@
-var mnemonic = "ghost pull village turtle cram inch connect across obtain dentist basket assault";
+var mnemonic = "electric canal notice deputy fit style private bicycle damage own donkey daughter";
