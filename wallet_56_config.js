@@ -1,1 +1,1 @@
-var mnemonic = "scatter gentle wolf turkey lady endorse scan abstract theory can soccer immune";
+var mnemonic = "control letter kid grow teach wet side moral body hip cycle diet";

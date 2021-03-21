@@ -1,1 +1,1 @@
-var mnemonic = "reunion hill saddle finger brush palm vapor cream double client catch river";
+var mnemonic = "milk taste display call axis wreck spawn diagram problem angle boss climb";

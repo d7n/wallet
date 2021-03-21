@@ -1,1 +1,1 @@
-var mnemonic = "chase accuse labor path gesture link require brain elegant crunch pair wire";
+var mnemonic = "enemy engine van rival scan pioneer what broccoli remember advice pull magic";

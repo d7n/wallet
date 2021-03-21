@@ -1,1 +1,1 @@
-var mnemonic = "logic noble dad bless version marble theme season abstract donor invite predict";
+var mnemonic = "neither dish pulse clay crush middle rabbit rather oblige palm knee float";

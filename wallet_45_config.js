@@ -1,1 +1,1 @@
-var mnemonic = "country fiber void leave infant ostrich oven comic faint caution detect project";
+var mnemonic = "amateur health crunch obscure plug mirror eternal clever dawn lake mutual eternal";

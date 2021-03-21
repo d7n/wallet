@@ -1,1 +1,1 @@
-var mnemonic = "couple sting call connect seat sponsor coyote cage camera cable logic stamp";
+var mnemonic = "supreme position achieve come begin address impose erode crop bid month tent";

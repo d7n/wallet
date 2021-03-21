@@ -1,1 +1,1 @@
-var mnemonic = "sense weather ranch fee trust dish smile please question member woman follow";
+var mnemonic = "bargain wire ensure gown piano penalty fault void immense anchor tip edge";

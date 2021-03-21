@@ -1,1 +1,1 @@
-var mnemonic = "mask assist magic copy yellow robot beef that creek saddle faint bind";
+var mnemonic = "private exhibit aware south grocery genuine acoustic audit donor monster main venue";

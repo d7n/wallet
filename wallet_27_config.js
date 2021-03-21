@@ -1,1 +1,1 @@
-var mnemonic = "drip iron stick risk return okay prevent view collect exile zebra better";
+var mnemonic = "always gun claim always emerge fire soft surge tenant glass three abuse";

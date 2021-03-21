@@ -1,1 +1,1 @@
-var mnemonic = "frost tilt sword initial crane sing tip holiday faith attract advice entry";
+var mnemonic = "place obscure mistake major fitness away lounge furnace spare train copy describe";

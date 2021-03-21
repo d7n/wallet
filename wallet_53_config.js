@@ -1,1 +1,1 @@
-var mnemonic = "evoke ecology blind good raise abstract atom key consider skull radar inspire";
+var mnemonic = "cinnamon decrease battle parade female tide green swift bread observe glide fuel";

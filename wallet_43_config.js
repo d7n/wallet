@@ -1,1 +1,1 @@
-var mnemonic = "twice door great tell hedgehog celery dance control region tonight found jar";
+var mnemonic = "section switch express rebel sauce pelican outer flee naive lend brush insane";

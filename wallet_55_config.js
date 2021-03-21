@@ -1,1 +1,1 @@
-var mnemonic = "lawn lecture ranch during nuclear oblige arrange cigar mesh hip person regret";
+var mnemonic = "pair pudding diary inherit tattoo silly lava occur oval banner soul main";

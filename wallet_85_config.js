@@ -1,1 +1,1 @@
-var mnemonic = "birth view use creek peace outdoor pill armed coral west latin share";
+var mnemonic = "method polar vast pear city injury myth borrow math dentist credit place";

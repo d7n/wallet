@@ -1,1 +1,1 @@
-var mnemonic = "people hedgehog then purpose bring resist yard focus behave globe zoo economy";
+var mnemonic = "slot mystery burger joke flush book there elephant guide flee super sword";

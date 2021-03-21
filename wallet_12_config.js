@@ -1,1 +1,1 @@
-var mnemonic = "decade assume rapid beach shed lecture clerk patrol canal chuckle melt boost";
+var mnemonic = "burst vast elite hammer danger strike canal federal true you stone will";

@@ -1,1 +1,1 @@
-var mnemonic = "talent hazard accuse spirit rally muffin hint siege twelve festival middle gravity";
+var mnemonic = "task sure muscle charge moral furnace primary middle multiply cradle riot early";

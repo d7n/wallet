@@ -1,1 +1,1 @@
-var mnemonic = "never clever lunar skill category mass brown cherry injury benefit thumb fatigue";
+var mnemonic = "museum wheat empower door welcome cabbage add police damage toward brush dream";

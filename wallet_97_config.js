@@ -1,1 +1,1 @@
-var mnemonic = "grow glance once skill vapor indoor toilet broccoli happy thrive burger mirror";
+var mnemonic = "identify regret taste else color seat risk excess mimic skirt shoe skill";

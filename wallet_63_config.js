@@ -1,1 +1,1 @@
-var mnemonic = "apart cover egg pencil second uncle habit allow seat hair cheese exile";
+var mnemonic = "travel fantasy pause cushion song sibling tourist reunion vendor hedgehog voice price";

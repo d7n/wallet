@@ -1,1 +1,1 @@
-var mnemonic = "ostrich vibrant say rice moment ability exist promote survey task puppy fly";
+var mnemonic = "empty swap under suggest current spring train possible saddle film lens faculty";

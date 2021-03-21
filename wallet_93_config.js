@@ -1,1 +1,1 @@
-var mnemonic = "royal issue grab pipe tunnel explain bitter report ability model fiber solid";
+var mnemonic = "wet river annual multiply bike profit nest medal noodle outside vintage crater";

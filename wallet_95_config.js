@@ -1,1 +1,1 @@
-var mnemonic = "exclude hundred hover fitness net december inform shell satoshi salon rally cricket";
+var mnemonic = "carbon buzz recall equip remind group prosper swim crazy transfer tooth rhythm";

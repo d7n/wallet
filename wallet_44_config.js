@@ -1,1 +1,1 @@
-var mnemonic = "today faculty have skin shine giraffe weekend neglect seminar oak slim section";
+var mnemonic = "fault degree risk item film right else sign sister dress sugar hotel";

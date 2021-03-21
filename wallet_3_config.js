@@ -1,1 +1,1 @@
-var mnemonic = "always fan wrong thank novel harsh glove fresh enable hood notable model";
+var mnemonic = "young cheese include girl surface into apple draft palace manage suspect fatal";

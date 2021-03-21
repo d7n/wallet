@@ -1,1 +1,1 @@
-var mnemonic = "scare afford ghost taxi volcano artwork journey firm solid middle month dust";
+var mnemonic = "image weapon toddler mind fancy isolate atom engage century card deer evil";

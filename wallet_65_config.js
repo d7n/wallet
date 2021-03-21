@@ -1,1 +1,1 @@
-var mnemonic = "system obvious flag soul trick real salute ring nut toast slush lunch";
+var mnemonic = "truth alpha toe affair junior orange taste glass van install love recycle";

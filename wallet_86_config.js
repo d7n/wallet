@@ -1,1 +1,1 @@
-var mnemonic = "salad monitor skull maple judge twice ancient survey north gravity ordinary right";
+var mnemonic = "fork gospel champion crunch donor where burden swap soul crack tenant borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "sad hidden neglect since snake stage ridge actor guitar assume cigar live";
+var mnemonic = "harsh holiday someone grass rapid unable tragic crater aerobic immense kingdom census";

@@ -1,1 +1,1 @@
-var mnemonic = "spin exchange pill area fetch immune fence giraffe embrace sight deliver legal";
+var mnemonic = "member cancel crash doll coral staff prevent pumpkin latin easily love scrap";

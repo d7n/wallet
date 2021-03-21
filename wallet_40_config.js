@@ -1,1 +1,1 @@
-var mnemonic = "naive brain roof illegal spoil gaze friend damp glow strategy bag damp";
+var mnemonic = "total submit option tent dinosaur turtle lava ranch above tube cake vital";

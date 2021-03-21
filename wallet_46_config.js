@@ -1,1 +1,1 @@
-var mnemonic = "open damp forget prevent weasel cruise banana belt program dinner grain jacket";
+var mnemonic = "rack fly infant way tone undo cause often motor accident enact under";

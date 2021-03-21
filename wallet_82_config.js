@@ -1,1 +1,1 @@
-var mnemonic = "abuse carpet web noodle game wild tail alert ridge orbit bring taxi";
+var mnemonic = "awkward gift wheel foot nephew physical sketch warrior unfair labor orchard echo";

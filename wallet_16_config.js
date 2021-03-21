@@ -1,1 +1,1 @@
-var mnemonic = "belt knee squirrel cannon shove flee actress search sing decline dizzy pepper";
+var mnemonic = "glory roof rough capital divorce spy cream similar process clay rally learn";

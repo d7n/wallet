@@ -1,1 +1,1 @@
-var mnemonic = "brown rebel purpose transfer fold size orbit frame hair clever brick slogan";
+var mnemonic = "plastic tiny omit coconut happy attend put army switch sphere nut mango";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet moment excuse action window energy approve lucky alcohol picture suit ride";
+var mnemonic = "empty jazz delay fun property crime coconut upgrade reunion digital slight grit";

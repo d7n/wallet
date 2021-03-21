@@ -1,1 +1,1 @@
-var mnemonic = "fault push lawsuit ethics perfect net cloud duty motion switch where used";
+var mnemonic = "quarter network never surge lawn guilt mimic leaf caution harvest arrive welcome";

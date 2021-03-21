@@ -1,1 +1,1 @@
-var mnemonic = "way trade mango slight card aware solution recipe tilt behave crime must";
+var mnemonic = "clinic side huge wash pull crowd salad limb glow there inform flock";

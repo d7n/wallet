@@ -1,1 +1,1 @@
-var mnemonic = "dove mushroom middle close rifle hurry setup above faculty oppose husband cereal";
+var mnemonic = "pumpkin only chair oxygen pitch wife plate dinner depth agree dizzy spice";

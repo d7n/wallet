@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo dawn feed zoo coral detect dwarf cotton lobster lady luggage endorse";
+var mnemonic = "price circle sunset kid always infant pet slide grocery view coin clever";

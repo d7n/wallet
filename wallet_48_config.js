@@ -1,1 +1,1 @@
-var mnemonic = "vivid old flat drop simple also tray truth merge team antique easily";
+var mnemonic = "wire vintage census flower sketch throw stand include desk purchase chair skill";

@@ -1,1 +1,1 @@
-var mnemonic = "market material bring extra erupt execute transfer endorse boss glory vocal tree";
+var mnemonic = "brown barely gossip they diamond exotic census skirt teach stadium curve travel";

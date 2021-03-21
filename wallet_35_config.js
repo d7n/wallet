@@ -1,1 +1,1 @@
-var mnemonic = "document valid rib clay ring arrest castle art follow base bone stairs";
+var mnemonic = "casino wage fish morning another liquid black maple north devote fall blast";

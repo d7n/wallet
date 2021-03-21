@@ -1,1 +1,1 @@
-var mnemonic = "wing odor present hint hollow nice nasty film stone recycle extend fish";
+var mnemonic = "where expire today chaos patch shrug sauce flame knock total olive behave";

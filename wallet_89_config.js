@@ -1,1 +1,1 @@
-var mnemonic = "indicate tackle broccoli update course grunt debate rhythm nest cable have egg";
+var mnemonic = "coast marble ready brick remove wing couch there come aim iron lesson";

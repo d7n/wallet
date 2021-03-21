@@ -1,1 +1,1 @@
-var mnemonic = "shaft usage feature egg festival chase marble tube bulk club cupboard matter";
+var mnemonic = "fuel horn achieve black rich slight host north ritual dwarf become about";

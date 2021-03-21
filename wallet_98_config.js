@@ -1,1 +1,1 @@
-var mnemonic = "truly cricket walnut sorry advice spend olive over art lunar art there";
+var mnemonic = "nasty era process almost cheap safe sure flock social hybrid erupt credit";

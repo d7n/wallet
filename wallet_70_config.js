@@ -1,1 +1,1 @@
-var mnemonic = "fun pupil canal fit law reform mouse network tape hobby vehicle property";
+var mnemonic = "unaware spare grocery illness improve swear scissors soap cost citizen vicious struggle";

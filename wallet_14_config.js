@@ -1,1 +1,1 @@
-var mnemonic = "shed proud picture right piece seminar kitten wish mushroom giant receive universe";
+var mnemonic = "current item burger protect fiber blood loud surround food confirm valley fix";

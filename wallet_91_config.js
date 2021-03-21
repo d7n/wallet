@@ -1,1 +1,1 @@
-var mnemonic = "use capable lobster decrease warrior silent surprise assist gospel sample stomach rigid";
+var mnemonic = "any lazy peanut razor exit goose cart avoid tuition endless misery retire";

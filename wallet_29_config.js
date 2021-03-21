@@ -1,1 +1,1 @@
-var mnemonic = "cook shift middle alien buyer undo curve neutral matter improve copy female";
+var mnemonic = "pig cotton absent canvas season modify try sausage burst border grass hamster";

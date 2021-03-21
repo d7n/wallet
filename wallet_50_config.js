@@ -1,1 +1,1 @@
-var mnemonic = "purity pyramid length tackle argue bless turn jump nothing joke cover fun";
+var mnemonic = "cool winner marriage neglect daring abandon someone want burger expose aunt motor";

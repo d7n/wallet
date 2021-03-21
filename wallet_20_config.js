@@ -1,1 +1,1 @@
-var mnemonic = "bicycle peace pause student bacon mandate fox book later anger debris talk";
+var mnemonic = "pupil fringe bar canvas town voyage little force finish police melody dose";

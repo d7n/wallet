@@ -1,1 +1,1 @@
-var mnemonic = "doll two forget number usage rural wife later lizard wrist road asthma";
+var mnemonic = "coin bronze library bottom guard tornado crunch bacon dwarf scrap topic skin";

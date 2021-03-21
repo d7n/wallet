@@ -1,1 +1,1 @@
-var mnemonic = "risk little hammer upon upper clown machine legal alter anxiety little refuse";
+var mnemonic = "coral enough usage foster put gossip gown tunnel recall inhale brand guilt";

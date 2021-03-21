@@ -1,1 +1,1 @@
-var mnemonic = "face engine leopard knock twenty warm pumpkin comfort wet scale fetch laptop";
+var mnemonic = "ugly enjoy six between guitar army fossil home keen opera accident soap";

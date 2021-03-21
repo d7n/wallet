@@ -1,1 +1,1 @@
-var mnemonic = "slab basic since copper space swarm adapt truly among core dose chuckle";
+var mnemonic = "enact inherit drip hurry arrive assume monster morning anger zero arm ready";

@@ -1,1 +1,1 @@
-var mnemonic = "rice net cash truck photo purse home oxygen crater capital young correct";
+var mnemonic = "celery heart label spot walnut glide similar glance opinion fish genuine elephant";

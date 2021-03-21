@@ -1,1 +1,1 @@
-var mnemonic = "artwork ankle minute peasant weekend price mercy nation silent banana apple ensure";
+var mnemonic = "wool pudding secret hood escape top napkin click tackle pioneer winner jeans";

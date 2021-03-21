@@ -1,1 +1,1 @@
-var mnemonic = "auction elite awful satoshi huge pelican heavy dragon library humor win absurd";
+var mnemonic = "bright wish captain dinner empower vault child explain woman open task cave";

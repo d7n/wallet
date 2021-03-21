@@ -1,1 +1,1 @@
-var mnemonic = "palm trigger inner update spin version aim found key near laundry develop";
+var mnemonic = "village hover beyond chest flame faint kiss engine because fault bronze skull";

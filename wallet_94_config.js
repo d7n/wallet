@@ -1,1 +1,1 @@
-var mnemonic = "patient bomb pitch barrel deny anchor quarter jeans minor execute shove miss";
+var mnemonic = "media wisdom fruit clean syrup depth usage crisp eternal feel still sport";

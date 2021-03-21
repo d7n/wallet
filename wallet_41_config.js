@@ -1,1 +1,1 @@
-var mnemonic = "oak cement diet love ball reflect soldier price sell random knife lend";
+var mnemonic = "yard absent aim balance crucial cereal clay run surface dog carbon fruit";

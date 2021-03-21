@@ -1,1 +1,1 @@
-var mnemonic = "bind spare include solve ranch glance still doctor gather admit fabric artwork";
+var mnemonic = "erupt wink size search dune age interest village glove flight river quit";

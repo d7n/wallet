@@ -1,1 +1,1 @@
-var mnemonic = "bind sorry truck trial east enrich ladder diet menu wash truth enlist";
+var mnemonic = "donor hold banner evolve upset multiply valid inform side sudden tip guide";

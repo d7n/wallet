@@ -1,1 +1,1 @@
-var mnemonic = "speak pass large sweet space first like discover bottom derive indoor sight";
+var mnemonic = "enact local dream blue bargain title notice blouse repair rifle cycle silly";

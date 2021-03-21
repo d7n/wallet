@@ -1,1 +1,1 @@
-var mnemonic = "world two swallow card champion banana smart reward guitar alcohol carbon decade";
+var mnemonic = "draw like slide rose gauge ball city gentle boring essence affair tourist";

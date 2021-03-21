@@ -1,1 +1,1 @@
-var mnemonic = "city retreat goat minor transfer raccoon front lumber praise still burger luggage";
+var mnemonic = "speed tank merit hurdle luggage exit price veteran choice palm mimic robot";

@@ -1,1 +1,1 @@
-var mnemonic = "hen rate arena hat crisp mouse nominee tiny judge ignore initial crash";
+var mnemonic = "solution doctor oblige opinion season violin actual blush denial fiction street dry";

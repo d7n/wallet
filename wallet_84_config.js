@@ -1,1 +1,1 @@
-var mnemonic = "execute canvas oyster stand federal shy drop deny demise slight upgrade friend";
+var mnemonic = "doctor pencil vendor prison wild layer cereal friend wisdom marriage cabin wish";

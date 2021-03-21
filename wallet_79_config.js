@@ -1,1 +1,1 @@
-var mnemonic = "club water bridge above also art embrace various churn ivory kiss crack";
+var mnemonic = "athlete slice riot follow baby silly various diary gauge immense laptop all";

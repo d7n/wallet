@@ -1,1 +1,1 @@
-var mnemonic = "humor cup educate stomach width cotton soda jaguar endless sketch heart swallow";
+var mnemonic = "proud category enact alcohol snake unable game festival couple rail liquid embark";

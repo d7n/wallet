@@ -1,1 +1,1 @@
-var mnemonic = "cloth pudding female exotic pool swap mango rookie opinion multiply orange attend";
+var mnemonic = "opera middle bottom rack away limit please detail keep upgrade weasel rare";

@@ -1,1 +1,1 @@
-var mnemonic = "lab auction acoustic quote life rail fortune rude burden run antenna jar";
+var mnemonic = "level sugar junk arrive then answer used mango load art poem captain";

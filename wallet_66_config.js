@@ -1,1 +1,1 @@
-var mnemonic = "cactus endorse shine frost angry expose desert festival two illness emerge mass";
+var mnemonic = "mother sport bridge dwarf depth flag anger country century festival wood kit";

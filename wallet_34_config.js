@@ -1,1 +1,1 @@
-var mnemonic = "human noise tiny also orchard salmon magic diagram tiger cotton wrist base";
+var mnemonic = "usual crumble mandate april north detect steak city lion bread jacket nose";

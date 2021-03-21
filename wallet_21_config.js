@@ -1,1 +1,1 @@
-var mnemonic = "bunker foil they visual ship hold now police design eyebrow just zebra";
+var mnemonic = "magic frequent turn seminar zoo face lecture taste dance auction cake yellow";

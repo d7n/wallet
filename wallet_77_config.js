@@ -1,1 +1,1 @@
-var mnemonic = "amateur fade orbit wing alone actual slender rare arch hidden holiday essay";
+var mnemonic = "reflect army hollow flight amateur woman exclude check banner unhappy armed axis";

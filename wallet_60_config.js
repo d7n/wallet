@@ -1,1 +1,1 @@
-var mnemonic = "steel clever oblige subject tortoise deer clip evil master miracle soul polar";
+var mnemonic = "lift need half oblige cabbage symptom wisdom peasant dawn finish away exact";

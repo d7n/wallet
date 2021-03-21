@@ -1,1 +1,1 @@
-var mnemonic = "rough kingdom expand typical silent devote skirt tortoise unaware burden please present";
+var mnemonic = "soft bleak minute crop quarter sponsor indoor visa resist grab artwork rice";

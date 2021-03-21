@@ -1,1 +1,1 @@
-var mnemonic = "remain ready sort distance poem way deposit crazy frost fluid pudding tongue";
+var mnemonic = "link hole hello bacon liar among gesture digital laptop surprise habit approve";

@@ -1,1 +1,1 @@
-var mnemonic = "action guilt profit miss state size live tragic stick coyote exotic pulp";
+var mnemonic = "leaf jealous gorilla crunch bright ill wine video midnight hurry pig vacuum";

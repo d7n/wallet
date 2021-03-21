@@ -1,1 +1,1 @@
-var mnemonic = "collect long wheel skate disease carpet nice purse dance armed hire timber";
+var mnemonic = "fat stairs mother speed inquiry useless tornado stable world seat royal addict";

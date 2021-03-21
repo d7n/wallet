@@ -1,1 +1,1 @@
-var mnemonic = "buddy wing cabin panda work boil during jaguar business evil toss motion";
+var mnemonic = "poverty escape humble broken various coach art become attract sheriff million ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "improve discover pass all green clean year plate foster tank keep cattle";
+var mnemonic = "match real rib sail tiger squeeze poverty summer useful moon purse dove";

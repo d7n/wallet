@@ -1,1 +1,1 @@
-var mnemonic = "angry moral benefit sweet tool until heart midnight bunker tennis grape expand";
+var mnemonic = "spy slight circle satisfy false stomach airport inner neglect glue found cricket";

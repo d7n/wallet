@@ -1,1 +1,1 @@
-var mnemonic = "erupt ugly file august ensure retire embrace critic weird secret foil bullet";
+var mnemonic = "address boring bright garlic poet maximum solar joy purity duck cage sponsor";

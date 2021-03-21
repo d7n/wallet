@@ -1,1 +1,1 @@
-var mnemonic = "nominee club crystal session midnight glide hair ridge velvet twelve pretty leopard";
+var mnemonic = "credit drive flavor obscure angle ill quality obtain usual road talk license";

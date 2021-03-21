@@ -1,1 +1,1 @@
-var mnemonic = "market good news cart urge cushion industry benefit method company film vessel";
+var mnemonic = "hint sample vocal second tuna repeat hybrid draw advance humble find survey";

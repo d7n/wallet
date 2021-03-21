@@ -1,1 +1,1 @@
-var mnemonic = "between sing gauge nurse fold cotton toe loud similar age razor skull";
+var mnemonic = "solution elite topic stable hotel soft reason universe icon mechanic vendor slow";

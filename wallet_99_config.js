@@ -1,1 +1,1 @@
-var mnemonic = "mango easily permit speak drive steak business elevator tennis slow detect library";
+var mnemonic = "multiply fall exclude hen alarm armed very develop agree verify eight sauce";

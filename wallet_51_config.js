@@ -1,1 +1,1 @@
-var mnemonic = "chest position chalk phone suffer toy pumpkin donate camera mesh donate found";
+var mnemonic = "weather electric weekend start upgrade ready upon dune wave best squeeze soccer";
