@@ -1,1 +1,1 @@
-var mnemonic = "enable blush boring media useful code similar shop tumble arena pond differ";
+var mnemonic = "party spoil news shed share salad crouch sight awful easily palace mechanic";

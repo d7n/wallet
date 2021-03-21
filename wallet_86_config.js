@@ -1,1 +1,1 @@
-var mnemonic = "toilet ball robust shed stool service echo appear question float whale silent";
+var mnemonic = "blast dog sure oxygen expect absurd radio drum leisure arrive hold work";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat when siren gun aerobic decide spatial skate imitate voice filter quick";
+var mnemonic = "pride digital pair major menu jeans business need canvas urge amazing pelican";

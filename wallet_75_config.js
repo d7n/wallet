@@ -1,1 +1,1 @@
-var mnemonic = "guide hurry bring rigid trigger lend crack wink call essay disease erosion";
+var mnemonic = "try dolphin dignity scene crane summer cage guitar one arrange ketchup pink";

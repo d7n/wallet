@@ -1,1 +1,1 @@
-var mnemonic = "state able census shrug force luxury swamp project float cart grace author";
+var mnemonic = "youth prefer blush pepper rose behave company moral luggage unlock morning spatial";

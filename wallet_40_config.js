@@ -1,1 +1,1 @@
-var mnemonic = "scrub glide wonder seat day patrol sea trial category cradle infant visit";
+var mnemonic = "satisfy begin marriage tiger audit birth job swing amazing ignore silent walk";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase kangaroo object essay still image deposit first permit weapon viable crumble";
+var mnemonic = "green depart repeat punch unfair sign supply clutch grid place priority genius";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors amateur cradle beauty bunker athlete rival nominee remind shrug hybrid liquid";
+var mnemonic = "age enhance sustain tiny coast nature brush horn laundry execute school island";

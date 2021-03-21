@@ -1,1 +1,1 @@
-var mnemonic = "doll civil mansion avocado aspect bridge potato misery ensure prepare foot jungle";
+var mnemonic = "cattle tool run time venue iron crowd blade example add excuse return";

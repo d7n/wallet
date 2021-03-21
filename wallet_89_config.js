@@ -1,1 +1,1 @@
-var mnemonic = "wash tongue bike area measure concert repair around female disease explain egg";
+var mnemonic = "join faith announce awkward high media body fatal draft motion begin heart";

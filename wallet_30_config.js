@@ -1,1 +1,1 @@
-var mnemonic = "sea caution another wing staff off uniform basic truth little visual lady";
+var mnemonic = "feed february start rhythm answer harbor note museum skill wash giant reveal";

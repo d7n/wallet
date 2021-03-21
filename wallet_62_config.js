@@ -1,1 +1,1 @@
-var mnemonic = "episode hope danger infant opera solar blue gasp food coin stable trust";
+var mnemonic = "security harbor occur zero fat honey ghost next lounge east aspect stamp";

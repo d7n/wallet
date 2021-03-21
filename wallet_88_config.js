@@ -1,1 +1,1 @@
-var mnemonic = "charge body mule sentence pink wish error spice addict odor talk trumpet";
+var mnemonic = "sorry blood among crime duck hand spatial impose pink agree crowd bring";

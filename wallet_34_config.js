@@ -1,1 +1,1 @@
-var mnemonic = "elevator magnet honey unknown style dial carry symbol sister forward ball message";
+var mnemonic = "great monitor junior gown hood tomorrow stamp purpose kitchen dish sample biology";

@@ -1,1 +1,1 @@
-var mnemonic = "radar post season oven nominee great icon diamond wasp left cook together";
+var mnemonic = "mention insect blush step morning prefer flip stomach unveil flag negative ahead";

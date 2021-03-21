@@ -1,1 +1,1 @@
-var mnemonic = "fuel phrase clip mansion repair wave knock outer sentence keen program bench";
+var mnemonic = "where place chase lecture saddle lobster skull make axis flight west about";

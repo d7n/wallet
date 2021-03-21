@@ -1,1 +1,1 @@
-var mnemonic = "already find pipe unveil razor stamp tribe middle tortoise lab fat inquiry";
+var mnemonic = "nut weasel electric inject cloth alarm coffee camp elder jazz shallow faith";

@@ -1,1 +1,1 @@
-var mnemonic = "fly leopard layer vendor female hurdle color couple burden amused slogan satisfy";
+var mnemonic = "know network panda excess faculty random vacuum sport aware sort swim urban";

@@ -1,1 +1,1 @@
-var mnemonic = "net autumn olympic exchange unit tail shield collect cereal pledge gap assist";
+var mnemonic = "inherit remind raise cattle speak clip chest pig win used cushion sock";

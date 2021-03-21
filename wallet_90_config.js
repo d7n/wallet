@@ -1,1 +1,1 @@
-var mnemonic = "giraffe engine taste industry solar pass token naive soap match saddle scene";
+var mnemonic = "pool away analyst blossom sure error camera proof fun enjoy churn drill";

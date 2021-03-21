@@ -1,1 +1,1 @@
-var mnemonic = "way scene link gentle input job avocado under pave ensure fabric lazy";
+var mnemonic = "luggage sea need card crack type flash emotion aware cotton twin fame";

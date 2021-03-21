@@ -1,1 +1,1 @@
-var mnemonic = "saddle gown lift define duck achieve mushroom wink typical quality dinner duck";
+var mnemonic = "arrange fitness earth rice muffin wire unit kid canal attitude perfect coconut";

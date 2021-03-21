@@ -1,1 +1,1 @@
-var mnemonic = "blade syrup kitten aerobic uncle mom rib define rate tooth slot alarm";
+var mnemonic = "gossip develop social various scorpion fog situate puzzle camera oval travel dice";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire favorite seed average target neglect road group puzzle butter sign velvet";
+var mnemonic = "umbrella duck egg mandate total left cupboard tackle sleep marine cause situate";

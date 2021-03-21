@@ -1,1 +1,1 @@
-var mnemonic = "diamond liquid math faculty social cousin retreat away ritual exhaust bar buffalo";
+var mnemonic = "lend wide pluck velvet until sign narrow cancel rain video art shrimp";

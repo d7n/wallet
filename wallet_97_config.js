@@ -1,1 +1,1 @@
-var mnemonic = "dolphin help chalk board mammal glare bundle lift grape gather claw doctor";
+var mnemonic = "buyer travel solar before jaguar solution today anxiety style man carpet never";

@@ -1,1 +1,1 @@
-var mnemonic = "make heart appear curtain ability van chef theory subway mammal cycle increase";
+var mnemonic = "neglect elevator citizen fence surface panic pupil holiday child popular equal ranch";

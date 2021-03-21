@@ -1,1 +1,1 @@
-var mnemonic = "cool stock sample pudding snap entry cat combine crush hole muscle audit";
+var mnemonic = "capable monkey sustain anger correct reveal oblige only long butter crime sustain";

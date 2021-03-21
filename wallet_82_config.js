@@ -1,1 +1,1 @@
-var mnemonic = "cradle skin unknown frame chair silly income kitchen tail vehicle awesome true";
+var mnemonic = "job plate oak aware armed device uncover jazz dolphin unknown canyon undo";

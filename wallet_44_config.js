@@ -1,1 +1,1 @@
-var mnemonic = "weird dance blind maximum situate mimic paper silly armed cage follow album";
+var mnemonic = "skull around patient orchard jungle card horse kid scatter spell acid enough";

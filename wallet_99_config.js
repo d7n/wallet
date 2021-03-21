@@ -1,1 +1,1 @@
-var mnemonic = "bunker risk genius size make erode wet program treat record bag debate";
+var mnemonic = "shrimp echo curtain gate supply problem usage slice table rail ankle unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle mass solid olympic electric bar fortune kiwi fade year correct joy";
+var mnemonic = "average yellow swing lucky neglect orient curve will display resist buddy insane";

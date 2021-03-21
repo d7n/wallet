@@ -1,1 +1,1 @@
-var mnemonic = "maximum lake erupt tooth boil just laugh castle cabbage fish canyon museum";
+var mnemonic = "method foam execute focus debris endorse gorilla loyal gap barrel nerve cool";

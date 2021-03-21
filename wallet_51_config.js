@@ -1,1 +1,1 @@
-var mnemonic = "weekend mistake bus leave gentle flight behave emerge foil skirt quantum poet";
+var mnemonic = "vacuum pool metal guilt cycle wreck cup giggle stand heavy west high";

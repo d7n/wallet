@@ -1,1 +1,1 @@
-var mnemonic = "prepare lab train cloth loop final maid nice sail impact thank fork";
+var mnemonic = "emotion fiction planet ceiling mountain movie struggle pelican session addict extend spider";

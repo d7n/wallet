@@ -1,1 +1,1 @@
-var mnemonic = "riot sad pencil vicious praise tube diet upper grid slab flag anxiety";
+var mnemonic = "electric tunnel outside mom source column curtain lamp focus twice drill cable";

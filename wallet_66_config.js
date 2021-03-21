@@ -1,1 +1,1 @@
-var mnemonic = "write lonely rebel village since front road hazard world stick cloud blind";
+var mnemonic = "defense sadness account one crush reason spin siren today amused draft federal";

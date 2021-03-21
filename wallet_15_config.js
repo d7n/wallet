@@ -1,1 +1,1 @@
-var mnemonic = "enter naive silly teach claim mimic drama allow vault start type sugar";
+var mnemonic = "farm ski antique foam ramp meat side this loop blanket easily lizard";

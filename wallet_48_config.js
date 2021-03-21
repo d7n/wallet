@@ -1,1 +1,1 @@
-var mnemonic = "cloth toward slow debate spy slide tilt orchard strategy okay boss enhance";
+var mnemonic = "trouble mandate banana inside design grab undo claim wash tiny across ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage treat space shallow hair wait find alpha climb fish yellow immense";
+var mnemonic = "gather pool begin cat cream puzzle anxiety shoulder pride ball roast order";

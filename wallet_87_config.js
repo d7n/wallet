@@ -1,1 +1,1 @@
-var mnemonic = "stone crawl praise alone wealth poverty sudden trend tape pole bus reform";
+var mnemonic = "own evoke game sketch green cloth arm seven fee wash ladder pill";

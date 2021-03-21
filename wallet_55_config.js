@@ -1,1 +1,1 @@
-var mnemonic = "search repeat defense solve scrub foil cycle aisle crisp logic easy knee";
+var mnemonic = "drive small source idle sense inner bless federal road shy ensure mass";

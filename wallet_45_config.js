@@ -1,1 +1,1 @@
-var mnemonic = "humor method satisfy reason glow gasp develop prefer thunder liberty own trend";
+var mnemonic = "crane north change art hope family flee lizard away nice heart alter";

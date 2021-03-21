@@ -1,1 +1,1 @@
-var mnemonic = "child gasp nurse vessel side pioneer dilemma hedgehog squeeze have sweet swing";
+var mnemonic = "august pact body impose scissors volume science little basic obvious pencil expect";

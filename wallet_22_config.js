@@ -1,1 +1,1 @@
-var mnemonic = "pelican depend ride steel moral goose age tiny swarm asthma often enough";
+var mnemonic = "ranch oil grape dance wasp inflict yard federal romance bird diamond veteran";

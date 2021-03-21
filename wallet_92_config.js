@@ -1,1 +1,1 @@
-var mnemonic = "again other ready sport catch ghost noodle indicate certain erode budget love";
+var mnemonic = "outside second cannon chicken forum audit portion thing edit verb promote orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "acid drop laundry detect stable eager book universe margin forest fly spend";
+var mnemonic = "polar gas bless someone window loud adapt head supreme destroy bulb voice";

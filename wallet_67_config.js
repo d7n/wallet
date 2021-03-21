@@ -1,1 +1,1 @@
-var mnemonic = "system emerge fish around urge regular oxygen solution van labor input camera";
+var mnemonic = "hollow trash wall wave spirit fish extend profit output bounce leader sail";

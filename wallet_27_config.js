@@ -1,1 +1,1 @@
-var mnemonic = "sign egg category agent airport wall drama scorpion cricket era sponsor endorse";
+var mnemonic = "divorce horse melt spice luxury please design double camp rotate rally ice";

@@ -1,1 +1,1 @@
-var mnemonic = "figure thumb loop review mandate brass claim large swim useless salad shop";
+var mnemonic = "cash advance music abuse easy define humble ranch tent trust addict reopen";

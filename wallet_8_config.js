@@ -1,1 +1,1 @@
-var mnemonic = "book grape odor industry sword devote stage rival relax industry direct echo";
+var mnemonic = "become clip olive comic sweet produce turn tide day cinnamon rocket holiday";

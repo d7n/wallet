@@ -1,1 +1,1 @@
-var mnemonic = "right general kidney oval coral muffin harsh hunt exit acquire column unusual";
+var mnemonic = "auto fossil drift inner youth dentist vintage pledge kit picnic skin task";

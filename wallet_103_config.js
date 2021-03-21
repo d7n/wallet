@@ -1,1 +1,1 @@
-var mnemonic = "cabbage mammal alarm diary bundle coach cattle damp shed pottery dismiss vault";
+var mnemonic = "resemble garden wrist ginger draw beauty cram drop illegal tank decide easy";

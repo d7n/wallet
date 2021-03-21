@@ -1,1 +1,1 @@
-var mnemonic = "roast alien edit latin gaze place coast pair forward obtain local fuel";
+var mnemonic = "elite pony demise tattoo common denial vicious figure cash wisdom wine crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "they grain coast need chest critic orchard south question custom harvest lemon";
+var mnemonic = "deliver replace dolphin code envelope strong satisfy youth decorate mystery sauce defy";

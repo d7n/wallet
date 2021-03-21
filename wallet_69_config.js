@@ -1,1 +1,1 @@
-var mnemonic = "finish stand patrol reward artwork spy nurse ethics upper valve escape torch";
+var mnemonic = "shallow flat lyrics decrease start huge dog youth main force length ask";

@@ -1,1 +1,1 @@
-var mnemonic = "mention spider dinner mosquito measure design enlist next denial laundry defense say";
+var mnemonic = "monster multiply ivory seven amount cricket boring dad engage limit retreat kid";

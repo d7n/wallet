@@ -1,1 +1,1 @@
-var mnemonic = "metal inherit insect search dream sign hamster setup toast crowd skirt snake";
+var mnemonic = "guess cake crop reopen nothing exile jaguar skate stock length since chef";

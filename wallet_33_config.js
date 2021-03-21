@@ -1,1 +1,1 @@
-var mnemonic = "ranch news tooth goose media rain noodle public cigar state desk catch";
+var mnemonic = "mosquito eyebrow minor deputy more speak jealous cruise furnace game require cram";

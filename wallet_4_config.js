@@ -1,1 +1,1 @@
-var mnemonic = "flip cute zebra obscure question street seminar ribbon hill omit size desk";
+var mnemonic = "live school digital piano joy acoustic still sand pulse private become awake";

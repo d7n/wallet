@@ -1,1 +1,1 @@
-var mnemonic = "lounge lumber mouse entry bunker clown odor fluid flag science steak exile";
+var mnemonic = "enemy prevent token cost say powder when cigar claim monkey crew into";

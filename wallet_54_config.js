@@ -1,1 +1,1 @@
-var mnemonic = "crop armor lawn hazard cram enter observe chunk same castle omit omit";
+var mnemonic = "father submit upgrade report junior shrimp oblige boss sign dilemma catch extend";

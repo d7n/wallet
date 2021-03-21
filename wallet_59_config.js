@@ -1,1 +1,1 @@
-var mnemonic = "stamp chalk problem smart silly lock void matrix document seat latin giraffe";
+var mnemonic = "vessel breeze borrow grab achieve blanket verb large dragon unveil curious ridge";

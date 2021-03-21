@@ -1,1 +1,1 @@
-var mnemonic = "garden crisp furnace disorder mango pair butter joy merry confirm hundred silk";
+var mnemonic = "harvest someone title shed anger match fog episode cloud inherit uncle assault";

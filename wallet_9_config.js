@@ -1,1 +1,1 @@
-var mnemonic = "coral forum abstract hazard lady begin conduct approve apology fiscal license capable";
+var mnemonic = "palace diamond blue also churn try purchase bread enable initial disagree extend";

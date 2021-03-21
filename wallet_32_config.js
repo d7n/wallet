@@ -1,1 +1,1 @@
-var mnemonic = "good amount lonely fancy update engage between upper unfair apart devote ripple";
+var mnemonic = "huge glare now group mule please addict meat call pink hollow lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "differ cute turtle swim sausage rough goddess frequent view jaguar castle finger";
+var mnemonic = "deposit juice champion under fame sauce artefact imitate modify spice cover riot";

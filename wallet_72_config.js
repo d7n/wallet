@@ -1,1 +1,1 @@
-var mnemonic = "upper degree own grace auction diamond sorry happy report vibrant cram remain";
+var mnemonic = "lounge tip chef denial merry grant pumpkin install winner diet infant wage";

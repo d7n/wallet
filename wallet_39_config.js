@@ -1,1 +1,1 @@
-var mnemonic = "festival mobile aisle evil half fence deposit citizen ranch salt armed soldier";
+var mnemonic = "parent own spring help lawn super cousin spot fortune asset play spirit";

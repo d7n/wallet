@@ -1,1 +1,1 @@
-var mnemonic = "health tuna nasty ski return shove else wealth gate stage broccoli glass";
+var mnemonic = "swallow journey again struggle question know practice anchor orphan frost orphan dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "flush list diamond end want raven dial soap dial salt movie tent";
+var mnemonic = "arrange witness mistake proud royal spread believe nature collect place surface vacuum";

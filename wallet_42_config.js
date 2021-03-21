@@ -1,1 +1,1 @@
-var mnemonic = "fan thank install you end giant female coconut coconut skirt raise print";
+var mnemonic = "until conduct honey chunk claw brain loud fashion layer follow flight chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff prepare quote lava pitch melt diary pole october blade six filter";
+var mnemonic = "real mimic offer absorb resist cherry mushroom enrich toddler sentence demise fly";

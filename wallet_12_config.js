@@ -1,1 +1,1 @@
-var mnemonic = "token ticket silly post twelve era wrong deny cattle spoil coffee code";
+var mnemonic = "spoon accuse sorry pelican symbol shield spy always auto spot best top";

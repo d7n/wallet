@@ -1,1 +1,1 @@
-var mnemonic = "seminar logic search frequent rotate beauty hip electric unveil stairs rebuild dwarf";
+var mnemonic = "loyal potato hub fade cupboard coin orbit make frown buffalo digital card";

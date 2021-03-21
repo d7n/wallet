@@ -1,1 +1,1 @@
-var mnemonic = "execute boost spread lottery author window bundle crash tired flat viable panel";
+var mnemonic = "artwork diary laundry stand grant cherry unique grab duty erosion fall stock";

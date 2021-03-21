@@ -1,1 +1,1 @@
-var mnemonic = "vast tower mammal armed prosper unable calm thought noise wage length skate";
+var mnemonic = "blast above birth decide vintage ladder spin baby yellow vacant vast flame";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi vague stone mass field choose size travel trap opinion weasel shy";
+var mnemonic = "special mimic company strategy exhibit industry citizen middle trip win whale aware";

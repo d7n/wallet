@@ -1,1 +1,1 @@
-var mnemonic = "kit jar board father scrap icon busy casual second owner can spring";
+var mnemonic = "omit stadium travel famous ceiling eight stone scare tag fatigue satoshi marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "chat output wild little coin father dream turn belt carpet police grain";
+var mnemonic = "ceiling help clay album space breeze boost level jeans album feature notable";

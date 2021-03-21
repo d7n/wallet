@@ -1,1 +1,1 @@
-var mnemonic = "local vicious staff goddess dust easily spirit exotic evoke patch carry cost";
+var mnemonic = "curtain visual artist genre where shadow space bird weather doll never reopen";

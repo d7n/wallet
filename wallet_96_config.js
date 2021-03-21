@@ -1,1 +1,1 @@
-var mnemonic = "during make lottery impact frost ladder stock offer hero orange woman tenant";
+var mnemonic = "drive invite inmate horse uphold once pond assume direct pave file order";

@@ -1,1 +1,1 @@
-var mnemonic = "regret cash ceiling old text bronze blood vapor depart army junk dirt";
+var mnemonic = "hen produce yard album switch ahead weasel seminar cotton toddler morning fix";

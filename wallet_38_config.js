@@ -1,1 +1,1 @@
-var mnemonic = "legal resource biology army friend crawl fiber tongue next december ladder debate";
+var mnemonic = "palace arrive describe list correct cover timber mutual flame cliff issue august";

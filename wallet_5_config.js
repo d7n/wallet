@@ -1,1 +1,1 @@
-var mnemonic = "figure engage adult pride correct unique emotion three science absurd alcohol seminar";
+var mnemonic = "rescue camera category hood artefact wire duck stone kick gossip pill prosper";

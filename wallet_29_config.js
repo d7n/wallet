@@ -1,1 +1,1 @@
-var mnemonic = "differ spice accident young elder midnight surge upgrade process cancel ready section";
+var mnemonic = "miss mention express diet chef amount sniff armor measure fence search burst";

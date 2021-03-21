@@ -1,1 +1,1 @@
-var mnemonic = "hunt faculty trip grocery abuse retire board unlock story basic trash expire";
+var mnemonic = "gospel what cargo decorate zebra tomato shine taxi route tag buddy leader";

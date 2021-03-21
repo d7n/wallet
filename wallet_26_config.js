@@ -1,1 +1,1 @@
-var mnemonic = "cattle health wheat predict vault company history village rifle language human health";
+var mnemonic = "multiply review slim culture choice excite bar afraid analyst orchard egg scale";
