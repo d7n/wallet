@@ -1,1 +1,1 @@
-var mnemonic = "differ detail master silent caught obvious budget sunset will element tobacco also";
+var mnemonic = "case leader head nominee choice much over fantasy invest tornado explain health";

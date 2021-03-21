@@ -1,1 +1,1 @@
-var mnemonic = "bright clerk bamboo grain grace flavor hunt gallery minor swap describe creek";
+var mnemonic = "tube govern aerobic expect spike chapter uncover game extend element visit issue";

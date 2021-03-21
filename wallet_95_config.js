@@ -1,1 +1,1 @@
-var mnemonic = "kite relief civil cake knee roast arch tiny rabbit bar harvest drill";
+var mnemonic = "course stone aspect saddle help square stadium aerobic document yellow patient champion";

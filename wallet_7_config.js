@@ -1,1 +1,1 @@
-var mnemonic = "police project spread asthma bag turkey wolf boy logic safe trial angry";
+var mnemonic = "enable pledge acoustic ivory exotic evolve stock seek woman convince style fine";

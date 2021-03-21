@@ -1,1 +1,1 @@
-var mnemonic = "actual wealth volume disease sausage reform humble common check truly tornado old";
+var mnemonic = "soda adjust fun vast pet bachelor guard resource bike garlic run unveil";

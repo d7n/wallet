@@ -1,1 +1,1 @@
-var mnemonic = "page miracle question name industry endless plug topple soldier word away left";
+var mnemonic = "spell false damp wonder repair shrug tourist shallow wine lounge reunion pledge";

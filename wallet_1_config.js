@@ -1,1 +1,1 @@
-var mnemonic = "alone verify kite century sight pilot calm suggest puppy collect float measure";
+var mnemonic = "burger state away casual parade first sleep bitter identify deal injury month";

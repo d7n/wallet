@@ -1,1 +1,1 @@
-var mnemonic = "attract prevent sock play right gate cram leisure buyer left polar insect";
+var mnemonic = "near west attitude wire right outside tail provide fall mercy moral trophy";

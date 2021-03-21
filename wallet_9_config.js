@@ -1,1 +1,1 @@
-var mnemonic = "kick unlock snake sauce avocado tobacco prefer fire fine payment weekend throw";
+var mnemonic = "control indicate whale sing damp sphere gloom waste wheel fox decade brief";

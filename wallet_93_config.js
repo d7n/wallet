@@ -1,1 +1,1 @@
-var mnemonic = "slim culture open story correct above window pizza squeeze skirt wide couple";
+var mnemonic = "merry dog blue must shield cash tell quiz hire auto surprise step";

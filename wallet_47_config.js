@@ -1,1 +1,1 @@
-var mnemonic = "girl smooth method observe muffin stomach engage match myth goat ticket tourist";
+var mnemonic = "spike deny bird leisure march easy diet pass auction hobby pull broccoli";

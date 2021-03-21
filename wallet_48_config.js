@@ -1,1 +1,1 @@
-var mnemonic = "ill dry broom about settle toddler valid aspect among normal butter decide";
+var mnemonic = "assume weird detect pig giggle survey bamboo where use trip theory foam";

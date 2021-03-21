@@ -1,1 +1,1 @@
-var mnemonic = "destroy daughter abuse hurry portion senior congress curious chief universe october tongue";
+var mnemonic = "skill aware sign anchor urge toddler april marble claim reunion muffin swap";

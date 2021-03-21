@@ -1,1 +1,1 @@
-var mnemonic = "century review trouble allow lawn exhaust distance sock slender brass arrest sentence";
+var mnemonic = "rifle roast home kiwi shrimp damage good dirt sign never cousin garbage";

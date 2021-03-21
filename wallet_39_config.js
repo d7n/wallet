@@ -1,1 +1,1 @@
-var mnemonic = "jaguar cheap album scale negative source embark faith scheme drastic donor half";
+var mnemonic = "gather robust tragic frozen artist huge fox disagree soup flag sting cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "text giraffe coach disease canvas entire bind unique access erase cute reform";
+var mnemonic = "hurry whisper orient burden depend turkey long cart symbol mechanic myth legend";

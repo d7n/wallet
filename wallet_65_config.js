@@ -1,1 +1,1 @@
-var mnemonic = "table please include trick breeze sunset divert gold iron reform minimum near";
+var mnemonic = "unable scout pact visual effort faint toss material mushroom tip end daring";

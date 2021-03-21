@@ -1,1 +1,1 @@
-var mnemonic = "valley legend raise seed suit mesh vendor pledge fabric social code concert";
+var mnemonic = "mesh acid occur gun diamond timber proof body easy borrow among depend";

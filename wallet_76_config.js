@@ -1,1 +1,1 @@
-var mnemonic = "envelope ozone loan portion coin airport ask wool update shoulder shrimp hill";
+var mnemonic = "dress steel spell amount roast place wedding inherit where luggage globe describe";

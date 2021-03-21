@@ -1,1 +1,1 @@
-var mnemonic = "rare follow seek volcano parade credit island crucial expect senior beyond hundred";
+var mnemonic = "dune wheel leave travel arrest frequent piano double effort swim switch grocery";

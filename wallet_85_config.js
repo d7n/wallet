@@ -1,1 +1,1 @@
-var mnemonic = "ivory forward prosper nominee rural manual arrange group either student machine cattle";
+var mnemonic = "trophy pave caution symptom maximum gentle history evolve husband pet caught now";

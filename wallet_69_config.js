@@ -1,1 +1,1 @@
-var mnemonic = "similar frozen jelly naive genre suit witness catch waste embark immune artwork";
+var mnemonic = "nothing grow mushroom vital lift judge real trim random claim era hungry";

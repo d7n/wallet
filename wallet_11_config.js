@@ -1,1 +1,1 @@
-var mnemonic = "atom slush faculty want vital best sample regret idle race vehicle pizza";
+var mnemonic = "ill remove party essence genuine cheap smooth satoshi foot warm cage table";

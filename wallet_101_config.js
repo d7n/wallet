@@ -1,1 +1,1 @@
-var mnemonic = "reduce priority item tourist diagram column gallery bulk add rescue road dolphin";
+var mnemonic = "vessel spirit output desk talent scissors major ancient bridge rough avoid slab";

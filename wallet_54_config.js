@@ -1,1 +1,1 @@
-var mnemonic = "draw property cart erupt clutch miss process syrup artefact rather pottery appear";
+var mnemonic = "brown arena gasp client jump because cattle atom drum silent below armor";

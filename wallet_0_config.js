@@ -1,1 +1,1 @@
-var mnemonic = "dial merry daughter exchange puppy burst police casual trial rotate punch dash";
+var mnemonic = "wolf inflict dizzy laugh loyal flame early auction task prize hip slim";

@@ -1,1 +1,1 @@
-var mnemonic = "subject obtain ladder about sport music charge cheap muffin ensure universe budget";
+var mnemonic = "exercise ceiling benefit else canvas such task turtle siege hollow cereal tongue";

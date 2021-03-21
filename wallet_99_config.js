@@ -1,1 +1,1 @@
-var mnemonic = "proud believe crowd option outside issue spirit wheat shiver minimum frame say";
+var mnemonic = "broken humble assume choice kidney onion return key spy shine swim current";

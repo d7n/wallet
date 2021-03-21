@@ -1,1 +1,1 @@
-var mnemonic = "wealth glove next wedding recipe olympic rude silent polar drum cost leaf";
+var mnemonic = "lucky check toilet immune bicycle radar limb scale admit special essence basic";

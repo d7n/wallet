@@ -1,1 +1,1 @@
-var mnemonic = "echo measure water require elevator prefer outer bargain master leisure vibrant when";
+var mnemonic = "skill oak meadow vault exhaust stone rate february aware panic horse sting";

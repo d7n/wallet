@@ -1,1 +1,1 @@
-var mnemonic = "require lemon gauge very spray rare large law gossip hundred virus spring";
+var mnemonic = "practice risk nut present install foil network hurdle burst degree innocent brass";

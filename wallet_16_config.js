@@ -1,1 +1,1 @@
-var mnemonic = "sphere another grit hollow apple flag august cattle carry elevator confirm together";
+var mnemonic = "august puzzle seminar bargain cross diagram prefer indoor rubber battle enough purse";

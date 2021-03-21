@@ -1,1 +1,1 @@
-var mnemonic = "acquire make under unfair robust either like pony column spike number motor";
+var mnemonic = "hold primary forum wide wave common aerobic leg minute nation salmon waste";

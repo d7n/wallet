@@ -1,1 +1,1 @@
-var mnemonic = "video monkey dove throw rifle door benefit answer else problem actress love";
+var mnemonic = "become path inherit away phone true lunch gun universe robot advance myself";

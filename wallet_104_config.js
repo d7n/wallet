@@ -1,1 +1,1 @@
-var mnemonic = "citizen broken girl sound trip vault inch fat argue sad patrol enact";
+var mnemonic = "among minute secret soldier wink cousin viable oval gasp health first frost";

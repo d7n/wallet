@@ -1,1 +1,1 @@
-var mnemonic = "gauge glow learn fruit assault sleep skill clean stadium hurdle method cereal";
+var mnemonic = "aspect olive mutual music juice antenna finger sausage long remove grit shy";

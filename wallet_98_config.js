@@ -1,1 +1,1 @@
-var mnemonic = "sudden broccoli space result sunny uncle history shrug push drop maze finger";
+var mnemonic = "dignity curve cry excite camp hollow pioneer razor roast trend name lizard";

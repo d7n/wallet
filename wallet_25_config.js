@@ -1,1 +1,1 @@
-var mnemonic = "advance secret hold industry test loud valid feed betray iron worry unaware";
+var mnemonic = "essence birth sail road gown allow dish all choose powder creek battle";

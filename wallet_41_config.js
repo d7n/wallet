@@ -1,1 +1,1 @@
-var mnemonic = "timber identify very egg process airport myth caught feature concert garden begin";
+var mnemonic = "spy shallow vessel attack exchange diet sister harbor husband belt annual lottery";

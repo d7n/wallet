@@ -1,1 +1,1 @@
-var mnemonic = "scissors plastic move service energy old scene service galaxy elevator crop maple";
+var mnemonic = "latin era talk debate force again bone piece slow siege woman among";

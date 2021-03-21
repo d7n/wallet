@@ -1,1 +1,1 @@
-var mnemonic = "autumn page across disease minor will muscle warfare hungry second exit better";
+var mnemonic = "snack recall must alone narrow cause father ozone stomach honey follow anxiety";

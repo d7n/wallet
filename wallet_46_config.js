@@ -1,1 +1,1 @@
-var mnemonic = "swim detail race rule insect genre phrase spider female above seed false";
+var mnemonic = "scorpion milk bread sphere cradle myself alarm hint aim hammer rough attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "believe city frost sudden brief cheap patch code prevent dilemma quality soul";
+var mnemonic = "consider smart maximum song security spider crucial velvet spice virtual clever flag";

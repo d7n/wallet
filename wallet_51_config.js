@@ -1,1 +1,1 @@
-var mnemonic = "task blossom shoot raise chapter horror craft fragile shop online umbrella elder";
+var mnemonic = "trash basket energy canal asthma river ahead surprise glad south essence wild";

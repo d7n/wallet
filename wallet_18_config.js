@@ -1,1 +1,1 @@
-var mnemonic = "chapter erode forum collect upon such unit penalty this census into cart";
+var mnemonic = "public youth shell intact hope fiscal spin foil debate limit script pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "hover render believe brush dynamic auto pool voice issue lab beach endless";
+var mnemonic = "rebuild work mirror course inmate short bag turkey dismiss become pigeon tattoo";

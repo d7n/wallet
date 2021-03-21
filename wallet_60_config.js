@@ -1,1 +1,1 @@
-var mnemonic = "sock luggage luggage desk quarter salt equal captain trim route sick cradle";
+var mnemonic = "morning recall task adapt gate bulk mountain crouch supply major lemon admit";

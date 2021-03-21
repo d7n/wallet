@@ -1,1 +1,1 @@
-var mnemonic = "indoor minimum census fault orient daughter solution response cushion stumble brush maze";
+var mnemonic = "salute coconut lion episode clutch output they ivory cart clap stand leisure";

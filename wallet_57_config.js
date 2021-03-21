@@ -1,1 +1,1 @@
-var mnemonic = "garage master online bulk suffer fine rough move virtual spoil insect inspire";
+var mnemonic = "drive behave large someone belt disease avocado round venue retreat length crawl";

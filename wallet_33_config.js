@@ -1,1 +1,1 @@
-var mnemonic = "decade brother october possible world traffic minor way close lift brief harsh";
+var mnemonic = "normal seat carbon raw lonely panther harsh top school anger skin annual";

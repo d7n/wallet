@@ -1,1 +1,1 @@
-var mnemonic = "say fresh nice erode hazard average engine sword style weather day torch";
+var mnemonic = "actress weekend wood sock mobile alcohol monkey select feed portion help leg";

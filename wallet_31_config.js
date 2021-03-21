@@ -1,1 +1,1 @@
-var mnemonic = "antenna bargain trade ivory fix sponsor only exact emerge rack uncover wash";
+var mnemonic = "above october uncover across charge target trumpet october pupil lumber child east";

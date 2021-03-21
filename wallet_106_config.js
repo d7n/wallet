@@ -1,1 +1,1 @@
-var mnemonic = "creek trap visa tourist symptom picture sudden chase aisle student system property";
+var mnemonic = "almost never drop nation easily trade clinic happy peace stomach devote urge";

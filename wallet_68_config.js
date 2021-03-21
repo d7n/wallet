@@ -1,1 +1,1 @@
-var mnemonic = "badge valley romance either wisdom ask plate emerge number rookie liberty deny";
+var mnemonic = "assume coffee isolate turn day april egg virtual easily tone gentle raw";

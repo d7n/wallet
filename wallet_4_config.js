@@ -1,1 +1,1 @@
-var mnemonic = "warm autumn genuine token tomato kind hurry seek improve shy lounge rescue";
+var mnemonic = "square pudding naive sing ignore observe alien alley rude glimpse box insane";

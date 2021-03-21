@@ -1,1 +1,1 @@
-var mnemonic = "shine dance great ostrich ladder pool any victory alien motor book famous";
+var mnemonic = "more forget tag sweet defy risk patient steel old future twenty property";

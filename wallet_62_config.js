@@ -1,1 +1,1 @@
-var mnemonic = "woman laundry symptom voyage major august zero smile excuse width prison cat";
+var mnemonic = "secret off worth disease actor scale marriage uncle tail attitude super flip";

@@ -1,1 +1,1 @@
-var mnemonic = "dance fame faith found jar oblige cover urge razor payment sniff broccoli";
+var mnemonic = "march rhythm cause summer quit private tell purpose rail basket either good";

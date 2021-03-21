@@ -1,1 +1,1 @@
-var mnemonic = "distance envelope leader also story review walnut dumb repeat merry twin fat";
+var mnemonic = "include inner bone boss chimney stumble wood road suggest slam decrease obey";

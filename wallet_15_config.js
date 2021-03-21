@@ -1,1 +1,1 @@
-var mnemonic = "refuse swing badge office clerk betray acid scare home buzz witness pond";
+var mnemonic = "swallow what galaxy code detect bundle lava start library air ability apart";

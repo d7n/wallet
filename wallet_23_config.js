@@ -1,1 +1,1 @@
-var mnemonic = "bid wealth useful worry aunt tank pretty decline diesel increase slogan brisk";
+var mnemonic = "ostrich mouse rookie close side ribbon inch cousin wisdom butter time cart";

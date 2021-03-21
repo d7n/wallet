@@ -1,1 +1,1 @@
-var mnemonic = "keep snow point future present retire connect refuse play spend welcome core";
+var mnemonic = "animal ocean supreme arrive diary chase fly worth develop scan suffer upgrade";

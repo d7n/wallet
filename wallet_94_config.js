@@ -1,1 +1,1 @@
-var mnemonic = "logic panther yard clinic rhythm future inject secret grass axis risk usage";
+var mnemonic = "poet slogan injury best elder space trust agree water buddy swamp dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "differ wonder soap tunnel runway fee bridge draft nose choice cute alcohol";
+var mnemonic = "boss rack judge wear slight gas butter lizard erupt illness add brick";

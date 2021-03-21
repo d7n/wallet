@@ -1,1 +1,1 @@
-var mnemonic = "cloud cotton settle drastic skate nest prepare bitter valley mosquito rate monster";
+var mnemonic = "much loud drive girl light job saddle wash hint region bread exchange";

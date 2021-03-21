@@ -1,1 +1,1 @@
-var mnemonic = "dice useful apple stomach check test defy repeat spawn zoo evidence sugar";
+var mnemonic = "dizzy enjoy credit unable where run butter carpet jungle settle fix van";

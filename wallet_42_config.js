@@ -1,1 +1,1 @@
-var mnemonic = "hockey pen immune merry obtain potato shove mind turn scatter harbor latin";
+var mnemonic = "twin weasel toe pulp spell hurt staff banner always settle disagree minimum";

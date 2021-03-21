@@ -1,1 +1,1 @@
-var mnemonic = "viable orbit snap cable swallow dance grid hurry cheese ahead poverty file";
+var mnemonic = "caution outdoor puzzle pelican guilt spawn wire room fade accuse nephew swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "cart search mushroom creek roast oppose book toward virus hammer legend exchange";
+var mnemonic = "rude north voice daughter involve doctor cannon expand salute entry list item";

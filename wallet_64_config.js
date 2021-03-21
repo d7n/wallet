@@ -1,1 +1,1 @@
-var mnemonic = "glad heart include target stable faculty hair jewel south nasty bracket north";
+var mnemonic = "sudden length rather wreck you vehicle mistake pencil faint gauge mule laundry";

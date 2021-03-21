@@ -1,1 +1,1 @@
-var mnemonic = "mother mutual ghost share make skate napkin kid rich worth method supreme";
+var mnemonic = "calm power guide search manual large kid room worry ripple aspect brief";

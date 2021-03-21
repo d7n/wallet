@@ -1,1 +1,1 @@
-var mnemonic = "jelly ball example ladder penalty diesel pig badge earth insect boy manage";
+var mnemonic = "meadow pledge pony chalk gaze home monkey earn learn film achieve blanket";

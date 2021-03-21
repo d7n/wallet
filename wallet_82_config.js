@@ -1,1 +1,1 @@
-var mnemonic = "sock shoot foam hybrid blast unknown around pair resource amused valve survey";
+var mnemonic = "soccer detect make other loud enroll damp ten supreme penalty avocado hard";

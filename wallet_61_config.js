@@ -1,1 +1,1 @@
-var mnemonic = "anger glove dutch erupt supply usage buddy olive stand base uncle enlist";
+var mnemonic = "mirror reflect matrix feature alpha head click shield sketch orbit lunar brain";

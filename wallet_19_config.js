@@ -1,1 +1,1 @@
-var mnemonic = "motion short rate immense grant rotate youth announce frame over exit sad";
+var mnemonic = "body car round involve wash rookie dish goat indoor about nerve business";

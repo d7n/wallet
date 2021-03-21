@@ -1,1 +1,1 @@
-var mnemonic = "swallow salad brain type gauge job uncover seminar cabin assume essay scale";
+var mnemonic = "toward actor size cloud kind guess paper industry slam denial ordinary defense";

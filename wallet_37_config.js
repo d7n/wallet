@@ -1,1 +1,1 @@
-var mnemonic = "bacon chalk pitch link wink click welcome behave announce blush gap slender";
+var mnemonic = "mistake clock prepare twenty uncle hurdle athlete afraid puppy verb critic clay";

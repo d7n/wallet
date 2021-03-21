@@ -1,1 +1,1 @@
-var mnemonic = "window business ritual knock midnight worth crack print display proud morning tomorrow";
+var mnemonic = "trophy enhance eternal glimpse congress example sting badge between reason cannon size";

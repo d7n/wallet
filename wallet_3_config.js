@@ -1,1 +1,1 @@
-var mnemonic = "edit cave chief asthma swear ritual sponsor million anchor organ what memory";
+var mnemonic = "afford guess tail goose dial distance change shiver sketch route shiver job";

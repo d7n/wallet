@@ -1,1 +1,1 @@
-var mnemonic = "fix nose planet unlock below reopen liberty lawn wood home funny nasty";
+var mnemonic = "jungle finish license attend dress base nature drive steak afraid true antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "layer wood isolate struggle build when what pet bright maid tag transfer";
+var mnemonic = "craft candy team joy monitor nephew web addict current album funny rally";

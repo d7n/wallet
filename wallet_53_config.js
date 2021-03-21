@@ -1,1 +1,1 @@
-var mnemonic = "cost toe veteran polar hour one language practice heavy verb primary pause";
+var mnemonic = "fly fruit twist method into flag lady orphan beauty identify own album";

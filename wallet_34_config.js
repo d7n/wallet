@@ -1,1 +1,1 @@
-var mnemonic = "service surround access eight fox gloom scene boost history nothing wasp sudden";
+var mnemonic = "math front mesh shaft slim circle badge push omit fruit inhale letter";

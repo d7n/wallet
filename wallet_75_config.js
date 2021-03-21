@@ -1,1 +1,1 @@
-var mnemonic = "about unaware powder twice will risk ready brass chicken orient air visual";
+var mnemonic = "heart elbow depart high staff wave skill door print antenna canvas casual";

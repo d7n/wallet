@@ -1,1 +1,1 @@
-var mnemonic = "guitar prize reject diamond sudden right evil skate profit canoe film split";
+var mnemonic = "evolve purpose autumn industry buffalo bird stay grass fashion stamp barely sudden";
