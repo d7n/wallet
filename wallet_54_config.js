@@ -1,1 +1,1 @@
-var mnemonic = "alpha tobacco embody point window bean amused just stock forum fatigue banner";
+var mnemonic = "ride skirt gas magic depart crawl use flash poem ripple vacant correct";

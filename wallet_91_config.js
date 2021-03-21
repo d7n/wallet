@@ -1,1 +1,1 @@
-var mnemonic = "mother receive merge invite record miracle popular fiction reopen mutual false vivid";
+var mnemonic = "excuse weekend three open universe pair mandate attract ribbon unhappy valve soldier";

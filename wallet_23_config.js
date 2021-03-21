@@ -1,1 +1,1 @@
-var mnemonic = "twice grass town girl broom acid celery else roast stereo paddle orphan";
+var mnemonic = "can bulb royal logic jaguar spy ten raw grit engage ginger lottery";

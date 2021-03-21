@@ -1,1 +1,1 @@
-var mnemonic = "teach notable leg develop cousin dove concert equip spy friend laugh spy";
+var mnemonic = "taste ginger lend aerobic april void style snack document loan breeze hedgehog";

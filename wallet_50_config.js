@@ -1,1 +1,1 @@
-var mnemonic = "reunion myth april reform thumb simple together essence voice model virus camp";
+var mnemonic = "oppose impose arrow slow giggle cross page obvious taxi isolate razor earth";

@@ -1,1 +1,1 @@
-var mnemonic = "amount wool town tiny churn tumble comfort tackle elevator busy lunch bike";
+var mnemonic = "giggle duty slam hood repair federal learn client behave seminar toe velvet";

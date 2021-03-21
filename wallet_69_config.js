@@ -1,1 +1,1 @@
-var mnemonic = "casino pistol crash rack rib lens empower pig other lounge swarm suggest";
+var mnemonic = "jelly pen urge shiver close merit begin siren stable figure apology helmet";

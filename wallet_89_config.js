@@ -1,1 +1,1 @@
-var mnemonic = "chat animal romance combine wall submit crime trumpet raven comic salad try";
+var mnemonic = "final device ride wealth catch pen flip leave pistol ecology world cannon";

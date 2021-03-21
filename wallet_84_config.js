@@ -1,1 +1,1 @@
-var mnemonic = "tide miss loud foam subway kangaroo bullet simple move segment exhibit segment";
+var mnemonic = "paddle vendor kitten deer jewel margin story pilot genuine often crowd shine";

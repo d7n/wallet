@@ -1,1 +1,1 @@
-var mnemonic = "devote divert knife put print emotion seek lake such heart sudden arrive";
+var mnemonic = "exhibit rice industry old sunny vintage figure renew kiwi mistake eternal strategy";

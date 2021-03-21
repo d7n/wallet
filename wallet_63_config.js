@@ -1,1 +1,1 @@
-var mnemonic = "board antenna genius coyote moral escape behave feature lunar mechanic skirt blue";
+var mnemonic = "hand valley reveal theory hill left cram paddle illegal stone hero kingdom";

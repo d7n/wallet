@@ -1,1 +1,1 @@
-var mnemonic = "detail frog purity vast jar eye inform relief deliver develop layer crime";
+var mnemonic = "you mix pulse key coyote energy box catalog video hockey orphan purse";

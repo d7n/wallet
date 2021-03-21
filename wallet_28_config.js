@@ -1,1 +1,1 @@
-var mnemonic = "close high erase power always tray bamboo banner battle author weasel detail";
+var mnemonic = "yellow road wealth idle use figure aim limb check wreck wise cactus";

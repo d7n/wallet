@@ -1,1 +1,1 @@
-var mnemonic = "clerk consider tourist letter member tape grief this design spare earth false";
+var mnemonic = "gallery wedding cement token chief miss space donate funny celery bunker deposit";

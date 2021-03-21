@@ -1,1 +1,1 @@
-var mnemonic = "buffalo impulse arrive gain hero leg immense image blue cluster answer abuse";
+var mnemonic = "prison moral pink carpet always pioneer beauty level alley hope antenna wash";

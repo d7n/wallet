@@ -1,1 +1,1 @@
-var mnemonic = "slab intact rookie sting almost creek large quote stomach urban valve clown";
+var mnemonic = "fork elephant wall fever island venture alone decide clap learn minor fox";

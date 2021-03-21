@@ -1,1 +1,1 @@
-var mnemonic = "panther glance twenty green happy enable menu note upset any cost uncle";
+var mnemonic = "hard swift jar hair follow scheme child vague sound bid duck health";

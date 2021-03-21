@@ -1,1 +1,1 @@
-var mnemonic = "wheel answer boost toast example fat repeat all assist symbol grace prepare";
+var mnemonic = "opinion ozone voice helmet theme cliff gown quarter just pass typical spider";

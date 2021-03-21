@@ -1,1 +1,1 @@
-var mnemonic = "fatal wife time theme where surround blanket hire edge little enroll slow";
+var mnemonic = "wine brisk seek tired urban culture enact throw nation maple wine artefact";

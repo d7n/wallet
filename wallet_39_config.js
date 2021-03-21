@@ -1,1 +1,1 @@
-var mnemonic = "copy south bright machine make grit guilt affair spend mystery wage mean";
+var mnemonic = "door goddess interest found rocket intact kangaroo crack train combine vivid try";

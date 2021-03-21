@@ -1,1 +1,1 @@
-var mnemonic = "suggest fan spray winter taste unveil aerobic act injury day walnut proof";
+var mnemonic = "typical guess write horse wheel girl acquire position slush soup monkey across";

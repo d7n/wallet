@@ -1,1 +1,1 @@
-var mnemonic = "pig black belt upgrade corn typical tonight artist script measure box material";
+var mnemonic = "elephant hope lounge spray symbol envelope party one carpet suspect chase obtain";

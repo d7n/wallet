@@ -1,1 +1,1 @@
-var mnemonic = "furnace water second top athlete consider trash pond reflect join trim category";
+var mnemonic = "spoil panther ticket circle parent liar border rebel pill damp flower fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "typical merit possible distance want cage suffer language message sail name shrimp";
+var mnemonic = "praise govern pink tag now token round shrimp salad service bean small";

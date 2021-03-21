@@ -1,1 +1,1 @@
-var mnemonic = "tattoo wreck broccoli person copper exchange unfold exclude skull mechanic frozen apology";
+var mnemonic = "blouse spare gloom action elephant venue crack breeze hire powder blame office";

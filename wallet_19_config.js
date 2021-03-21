@@ -1,1 +1,1 @@
-var mnemonic = "hill unknown luggage muffin suffer fall fine lawsuit violin strike cabin section";
+var mnemonic = "cram silent close layer shop crouch lyrics mercy forest supreme indoor pilot";

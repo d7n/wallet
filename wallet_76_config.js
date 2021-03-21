@@ -1,1 +1,1 @@
-var mnemonic = "honey right right boat random drama false laugh human aspect young bless";
+var mnemonic = "wood one swallow medal name sister dust start sketch confirm dismiss end";

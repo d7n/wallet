@@ -1,1 +1,1 @@
-var mnemonic = "laundry chase coral laugh spray riot cute canyon rebel market dizzy brass";
+var mnemonic = "popular venue extra sting mom grass picnic segment tackle owner parrot prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "coin jewel nerve cube remove skate attract dial toy dust shoulder garment";
+var mnemonic = "surface talk mixture grit actor nephew grape neck lens essence spoon image";

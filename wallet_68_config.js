@@ -1,1 +1,1 @@
-var mnemonic = "brown fix subway estate address jazz culture exile avocado farm lava stock";
+var mnemonic = "wedding faint rely tip arrive spot bleak common movie appear indicate kite";

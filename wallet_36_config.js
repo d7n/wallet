@@ -1,1 +1,1 @@
-var mnemonic = "total material day outer injury sniff own cheap own one host guard";
+var mnemonic = "quarter address believe force also develop frown twenty spring can melody version";

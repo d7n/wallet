@@ -1,1 +1,1 @@
-var mnemonic = "swap mixed chef dynamic lamp brand cheese coconut used victory water final";
+var mnemonic = "benefit amount glad engine quick monkey symbol turtle analyst random paper ensure";

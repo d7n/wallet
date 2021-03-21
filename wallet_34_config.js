@@ -1,1 +1,1 @@
-var mnemonic = "exchange whisper melody obvious demand palace muffin welcome devote someone economy speed";
+var mnemonic = "quick route bulb hedgehog era boss property purse need stairs elephant forward";

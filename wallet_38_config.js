@@ -1,1 +1,1 @@
-var mnemonic = "guide beyond inside anchor ask river push price across tongue leader exotic";
+var mnemonic = "struggle cactus struggle fuel pond nation autumn chuckle infant praise give nurse";

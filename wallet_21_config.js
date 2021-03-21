@@ -1,1 +1,1 @@
-var mnemonic = "decide brain clock major economy abandon talent grace purse shock advance eternal";
+var mnemonic = "cave fish dwarf smooth body dismiss inside bone express notice exit wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "damage pave domain elevator noise diamond such oak core tray absent slab";
+var mnemonic = "gadget enough during pet lady absent grid fatigue sea lava whip hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "excess praise try eight stable maximum tortoise setup midnight salmon pattern cotton";
+var mnemonic = "syrup cabin basic sample size glad arrest ghost learn course dizzy vague";

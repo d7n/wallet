@@ -1,1 +1,1 @@
-var mnemonic = "various friend brown demand dream hollow canoe brush alert crane feel remind";
+var mnemonic = "text eight tell shy document health sort act media joke nasty female";

@@ -1,1 +1,1 @@
-var mnemonic = "chat size cause hurry sister client galaxy cart mix faith adult benefit";
+var mnemonic = "absurd genius leader mammal business mutual soldier system goddess sadness fashion parade";

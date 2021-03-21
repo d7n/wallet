@@ -1,1 +1,1 @@
-var mnemonic = "misery matrix roast glow unable over topic fancy tobacco clever coil mango";
+var mnemonic = "ten gasp trigger tent amateur kit hotel clay core alien bleak wage";

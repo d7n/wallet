@@ -1,1 +1,1 @@
-var mnemonic = "fresh remind talk use agree fold miss rapid twin finish inform produce";
+var mnemonic = "soft protect axis figure sausage oil husband script record accident awkward patch";

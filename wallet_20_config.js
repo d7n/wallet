@@ -1,1 +1,1 @@
-var mnemonic = "tortoise dial segment glass toast river soda lawsuit music mobile quantum stuff";
+var mnemonic = "notable pair height spatial fine frog size sudden combine remain final away";

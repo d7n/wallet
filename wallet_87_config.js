@@ -1,1 +1,1 @@
-var mnemonic = "gap rail laundry exhibit film north suggest cradle smile client idea stuff";
+var mnemonic = "citizen mirror sibling steak pyramid bachelor tonight rail obtain love aisle ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "gun design harbor next music enrich scene rule magnet jungle crumble eight";
+var mnemonic = "sing laundry equip worth web vast square please limb dignity badge wide";

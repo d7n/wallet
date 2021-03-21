@@ -1,1 +1,1 @@
-var mnemonic = "page gadget struggle giraffe amount whip ask road require taxi erase pigeon";
+var mnemonic = "similar reopen baby elegant cruise supreme more dust anger kid minor calm";

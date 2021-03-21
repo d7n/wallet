@@ -1,1 +1,1 @@
-var mnemonic = "turkey online wonder license bird vivid crush trust ugly begin anchor today";
+var mnemonic = "life common scout cruise street fiber bacon mistake hire style judge arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "loan patch vendor minor course mountain neglect sausage iron ten surprise diagram";
+var mnemonic = "that nice raven source track asset friend gold lumber online eyebrow salmon";

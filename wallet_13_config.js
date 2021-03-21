@@ -1,1 +1,1 @@
-var mnemonic = "quarter change provide tired effort movie jeans lamp burger wife alpha session";
+var mnemonic = "figure display issue never garden nose later bubble buzz federal actor apple";

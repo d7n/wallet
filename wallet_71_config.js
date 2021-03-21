@@ -1,1 +1,1 @@
-var mnemonic = "emerge warm village scale about laptop pink blade layer table hobby draw";
+var mnemonic = "surround vague health heavy physical daring universe owner rough answer ski unable";

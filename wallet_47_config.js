@@ -1,1 +1,1 @@
-var mnemonic = "ecology cancel ill consider atom galaxy donor gadget circle save slush poverty";
+var mnemonic = "effort aim shaft capable total resource toddler arrange mercy spike cherry run";

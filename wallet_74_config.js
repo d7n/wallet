@@ -1,1 +1,1 @@
-var mnemonic = "dose board utility stereo clinic crucial cloth resource nature debate dynamic glory";
+var mnemonic = "science march animal cattle update analyst like agent fatigue joke execute hover";

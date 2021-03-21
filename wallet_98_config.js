@@ -1,1 +1,1 @@
-var mnemonic = "ancient staff client favorite copper ketchup thought olympic blade mushroom drum guard";
+var mnemonic = "artefact acoustic kiss gallery learn fix build journey angle pause bleak rapid";

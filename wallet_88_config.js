@@ -1,1 +1,1 @@
-var mnemonic = "toast drill write cattle robust any coconut method runway hope foil success";
+var mnemonic = "copy city garden tragic crouch disagree indicate frown hen canal moral horn";

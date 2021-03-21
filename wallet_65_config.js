@@ -1,1 +1,1 @@
-var mnemonic = "pyramid veteran party nest theme earn truck airport cheese rescue crumble year";
+var mnemonic = "addict blast rifle day body beyond neither arm saddle pipe maze shoot";

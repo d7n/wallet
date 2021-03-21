@@ -1,1 +1,1 @@
-var mnemonic = "few deny language now ice sure glare donate melt kitchen network guard";
+var mnemonic = "because life siren laundry table second profit finger wrong model slogan coil";

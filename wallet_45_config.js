@@ -1,1 +1,1 @@
-var mnemonic = "treat critic purchase clump rely gun depth piece trigger dial planet glimpse";
+var mnemonic = "race today farm smoke rocket pig early easily topple awkward key truly";

@@ -1,1 +1,1 @@
-var mnemonic = "seat mercy found excess manual umbrella wife orange love favorite bless parrot";
+var mnemonic = "aware giraffe leaf fade master about panda spray demand bunker animal pride";

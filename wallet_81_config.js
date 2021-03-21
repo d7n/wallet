@@ -1,1 +1,1 @@
-var mnemonic = "slab narrow shadow carry goose write lecture feature crouch soft rug pigeon";
+var mnemonic = "syrup broken sniff that lemon scissors rotate flat holiday bracket canoe exile";

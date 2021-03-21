@@ -1,1 +1,1 @@
-var mnemonic = "slender detect battle symbol slight valley salt debate siren input upper maid";
+var mnemonic = "list waste kangaroo list immune knock eyebrow icon walk health recycle law";

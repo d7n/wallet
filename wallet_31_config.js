@@ -1,1 +1,1 @@
-var mnemonic = "recycle novel size cargo champion hole chronic document gather scrap make tackle";
+var mnemonic = "multiply together breeze scan judge acoustic excess table best awake load ticket";

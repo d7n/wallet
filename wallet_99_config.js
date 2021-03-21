@@ -1,1 +1,1 @@
-var mnemonic = "coffee asthma disagree cream scatter relax tobacco tunnel awesome burst exchange festival";
+var mnemonic = "legend gap angry enhance orange warm search crumble ensure purse coil pair";

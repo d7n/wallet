@@ -1,1 +1,1 @@
-var mnemonic = "arch real daughter clerk happy project mansion riot tenant area mushroom either";
+var mnemonic = "runway brother paddle extra limit coach panic ranch hurdle empty among hood";

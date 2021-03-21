@@ -1,1 +1,1 @@
-var mnemonic = "play action inhale achieve love cargo body cheap history library under thought";
+var mnemonic = "repeat north glide sword amateur shiver party fossil media travel unit reason";

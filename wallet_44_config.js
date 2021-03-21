@@ -1,1 +1,1 @@
-var mnemonic = "company tiger iron axis creek poem whip side gauge proof project inmate";
+var mnemonic = "youth blur solid dwarf segment alien display leaf flee super perfect lab";

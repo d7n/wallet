@@ -1,1 +1,1 @@
-var mnemonic = "wealth only indicate end time artwork meadow draw six silver pink grit";
+var mnemonic = "suffer critic short silk room ship echo lift satisfy coach dress rent";

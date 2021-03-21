@@ -1,1 +1,1 @@
-var mnemonic = "height solid broken rose suggest spell burden sunset outdoor gallery forward satisfy";
+var mnemonic = "vital any polar route ceiling welcome school pair proud deputy doll spider";

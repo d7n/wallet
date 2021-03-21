@@ -1,1 +1,1 @@
-var mnemonic = "aware gold under cinnamon balcony enroll analyst capable melody main wing pelican";
+var mnemonic = "rather build beauty toward require genuine live valid fox sight scrap humble";

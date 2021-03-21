@@ -1,1 +1,1 @@
-var mnemonic = "violin stomach problem ozone glory pride pipe squirrel real nuclear catalog jaguar";
+var mnemonic = "spray fit bright code elder host wreck planet cross weird juice dune";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious wrestle broom chief planet color vanish mix museum depend jungle convince";
+var mnemonic = "prevent game water else bike frame poem inmate alter install grief combine";

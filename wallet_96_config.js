@@ -1,1 +1,1 @@
-var mnemonic = "kiwi ski empty device drastic evoke hour story maximum combine actor raise";
+var mnemonic = "okay believe evidence dizzy turtle clutch such exhaust cotton shy today tissue";

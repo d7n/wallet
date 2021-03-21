@@ -1,1 +1,1 @@
-var mnemonic = "give kidney junk build elephant govern smile pride message donor nest captain";
+var mnemonic = "duty total task comfort spice steak list library day quote innocent evil";

@@ -1,1 +1,1 @@
-var mnemonic = "key pink scissors runway perfect promote silver price moon into relief museum";
+var mnemonic = "fortune position unfair appear humor arena goat lawn opinion earth paddle fossil";

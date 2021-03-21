@@ -1,1 +1,1 @@
-var mnemonic = "lend photo bless immune bubble tired athlete clown ivory wet heavy make";
+var mnemonic = "nurse drip cry volume arrow mule hundred code steak eager ski noise";

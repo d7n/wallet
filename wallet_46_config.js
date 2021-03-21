@@ -1,1 +1,1 @@
-var mnemonic = "faint senior deal almost jelly catch uphold remove neutral boil poverty cliff";
+var mnemonic = "hazard clap rich anchor believe myth access visit actress invite promote shoulder";

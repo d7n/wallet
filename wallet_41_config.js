@@ -1,1 +1,1 @@
-var mnemonic = "soon multiply vicious life jelly sibling fatal fold error immense note story";
+var mnemonic = "bring reason arena dice season dish wet general leg reason iron cabin";

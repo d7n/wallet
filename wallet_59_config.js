@@ -1,1 +1,1 @@
-var mnemonic = "clog stage mask buzz cancel mass embrace imitate fringe retire elbow home";
+var mnemonic = "announce hole world clump medal flee stuff visa link avoid inhale reform";

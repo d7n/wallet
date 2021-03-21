@@ -1,1 +1,1 @@
-var mnemonic = "neck funny illegal ring fault fuel media proof mixture uncle question muffin";
+var mnemonic = "clinic reform adult cricket original right island coach wisdom intact purpose suit";

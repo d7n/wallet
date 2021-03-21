@@ -1,1 +1,1 @@
-var mnemonic = "asset wolf urge push virtual bright amateur card tray custom fashion sugar";
+var mnemonic = "fault element margin upset drill ill orient flight alarm october town young";

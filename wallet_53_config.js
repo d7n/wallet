@@ -1,1 +1,1 @@
-var mnemonic = "dress method gain cat wedding divorce treat auto cost garage predict crater";
+var mnemonic = "mail leg cattle reform desert visa moral absorb pupil trophy raccoon transfer";

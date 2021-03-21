@@ -1,1 +1,1 @@
-var mnemonic = "dress garage ranch paddle tomato crop diagram rival syrup next ten sibling";
+var mnemonic = "laundry fault traffic response curtain tomorrow shield online bless emerge quiz discover";

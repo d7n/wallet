@@ -1,1 +1,1 @@
-var mnemonic = "good divide pepper sudden sibling naive night donate stem kidney hurdle during";
+var mnemonic = "axis expect river maze client artist brand amused bonus brush shrimp plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza flat depth worry tunnel seven spread behave wash viable insane love";
+var mnemonic = "dynamic cheap letter foil adjust joy wing spring always torch carbon february";

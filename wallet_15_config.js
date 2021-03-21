@@ -1,1 +1,1 @@
-var mnemonic = "mandate supreme drive cage skull barely figure feature canal bicycle alien harbor";
+var mnemonic = "zoo lazy grunt squirrel filter crane fish position trial slogan food exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "border neglect divorce year animal fury camera unique vanish detect soul abstract";
+var mnemonic = "spy oven nuclear warfare slush angle wink erosion exile scrap luggage sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "series brief excess equal reopen worth ribbon fat purity horn collect heavy";
+var mnemonic = "planet coast web biology draw sample pole tooth gesture sustain sorry mushroom";

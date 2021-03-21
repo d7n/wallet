@@ -1,1 +1,1 @@
-var mnemonic = "jaguar kick goat cheese desk cart catalog figure account vacant fee exile";
+var mnemonic = "diagram spider business eagle light thunder problem tank minor note hip address";

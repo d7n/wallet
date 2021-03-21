@@ -1,1 +1,1 @@
-var mnemonic = "reunion cousin average symbol drive pass injury parent alcohol field bless refuse";
+var mnemonic = "skirt hub steak tank fragile flower media bicycle sea winner genius human";

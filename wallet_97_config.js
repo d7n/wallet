@@ -1,1 +1,1 @@
-var mnemonic = "raven arrange raw among oil jealous reunion okay fly wasp coffee medal";
+var mnemonic = "wine love medal weapon taste palace spy ancient age eyebrow welcome sport";

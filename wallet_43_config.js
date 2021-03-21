@@ -1,1 +1,1 @@
-var mnemonic = "business either arctic parent speed cement punch neutral habit jealous lobster teach";
+var mnemonic = "cute flat oppose host scorpion upon hour service addict endless traffic runway";

@@ -1,1 +1,1 @@
-var mnemonic = "bind moon quick hundred three mosquito board alarm early very giraffe first";
+var mnemonic = "say jar junk senior swap light march aisle equal bird chaos van";

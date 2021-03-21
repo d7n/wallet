@@ -1,1 +1,1 @@
-var mnemonic = "volume clump sponsor orange bless arch piano frame coil feature symptom alcohol";
+var mnemonic = "traffic athlete suit bless word child unaware zoo slice maximum better buddy";
