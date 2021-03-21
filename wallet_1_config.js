@@ -1,1 +1,1 @@
-var mnemonic = "extra original alter increase during audit gas noble grab siege wild link";
+var mnemonic = "divorce tragic prevent bus tortoise sight rice puzzle capital dilemma damp observe";

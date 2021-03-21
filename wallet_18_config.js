@@ -1,1 +1,1 @@
-var mnemonic = "mystery manage hello push artwork muscle wash ski charge between real weather";
+var mnemonic = "knife coffee smooth armed travel april hope wait grace high matrix dwarf";

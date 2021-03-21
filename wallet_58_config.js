@@ -1,1 +1,1 @@
-var mnemonic = "damage distance hammer vapor crack guess describe dwarf near water viable load";
+var mnemonic = "album spatial lyrics town dune option uniform yellow grit safe coyote plunge";

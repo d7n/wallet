@@ -1,1 +1,1 @@
-var mnemonic = "tank now bread shock champion twenty rotate myth rack increase combine cargo";
+var mnemonic = "puppy harbor crystal hire slush ceiling penalty master depart desk under blue";

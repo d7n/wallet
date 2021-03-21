@@ -1,1 +1,1 @@
-var mnemonic = "ball hamster strong air tired spirit tuna wide inmate collect trade own";
+var mnemonic = "kick obtain milk purse snake insane parade snack electric smile basket cabbage";

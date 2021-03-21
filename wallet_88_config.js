@@ -1,1 +1,1 @@
-var mnemonic = "dumb amateur cousin swamp fancy state cherry rescue text level wink vocal";
+var mnemonic = "chef helmet orchard hawk nurse lucky garage whale survey swamp skirt tone";

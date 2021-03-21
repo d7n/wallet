@@ -1,1 +1,1 @@
-var mnemonic = "security neither vivid ecology media drill ancient month eternal any auto famous";
+var mnemonic = "insane evidence expose fee half normal shallow detect alley stick also end";

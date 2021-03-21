@@ -1,1 +1,1 @@
-var mnemonic = "reject mix tuna armed decade alley remove add tree monkey police tomorrow";
+var mnemonic = "twice equal street meadow improve mind sadness aunt reward magic bubble notable";

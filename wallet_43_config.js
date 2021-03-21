@@ -1,1 +1,1 @@
-var mnemonic = "pool elite name truth resist unhappy few bundle doctor swallow minute conduct";
+var mnemonic = "door wood fee distance bargain jump later army home merry pool deliver";

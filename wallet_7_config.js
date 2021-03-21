@@ -1,1 +1,1 @@
-var mnemonic = "apart noble omit fever matter beyond logic only affair sadness sense enough";
+var mnemonic = "unknown topic gospel wonder book hold glory jelly trouble isolate left simple";

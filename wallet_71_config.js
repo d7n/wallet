@@ -1,1 +1,1 @@
-var mnemonic = "dune razor swamp cry jump safe maze harsh because deputy chapter arrow";
+var mnemonic = "fly erosion immune hub humble require decline firm blast parrot hedgehog large";

@@ -1,1 +1,1 @@
-var mnemonic = "cover barely toe real color quiz master chaos laptop exhaust coffee hover";
+var mnemonic = "celery draw morning cat angle pear animal blood original walk response february";

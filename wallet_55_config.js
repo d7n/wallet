@@ -1,1 +1,1 @@
-var mnemonic = "lunch hundred frozen rough symbol hidden provide ginger boost use toss vocal";
+var mnemonic = "can position sample window weird head dragon place doll that sustain fortune";

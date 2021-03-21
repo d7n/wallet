@@ -1,1 +1,1 @@
-var mnemonic = "invite hundred major alien tuition female warm toe east romance follow copper";
+var mnemonic = "scheme priority wrist tennis cry acoustic dinner claw merit immune toast outdoor";

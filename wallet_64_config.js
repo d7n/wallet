@@ -1,1 +1,1 @@
-var mnemonic = "excuse poet oil ahead famous mind barely scatter spread gown hammer unlock";
+var mnemonic = "peanut hurry cabin silver sort detail three chapter force climb vote eyebrow";

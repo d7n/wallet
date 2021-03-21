@@ -1,1 +1,1 @@
-var mnemonic = "guess tide voice wrist solid romance sister buffalo almost improve cannon village";
+var mnemonic = "crash utility stadium plastic trouble fee broken brain unusual length pass miracle";

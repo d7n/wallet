@@ -1,1 +1,1 @@
-var mnemonic = "honey student hole essay document guitar walk beach legal better dad subject";
+var mnemonic = "hedgehog taste riot divert mom finish fly earn predict express enrich grit";

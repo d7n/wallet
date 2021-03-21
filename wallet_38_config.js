@@ -1,1 +1,1 @@
-var mnemonic = "elder chuckle latin elder clever shield void absent ignore wine tobacco silver";
+var mnemonic = "few smile report hotel claw elegant rebuild vacant rally run three bean";

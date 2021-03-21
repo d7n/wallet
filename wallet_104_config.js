@@ -1,1 +1,1 @@
-var mnemonic = "educate flame venue great hobby final require pumpkin hobby false ride drink";
+var mnemonic = "minimum rose ecology switch trip canvas stand chalk stock field girl jar";

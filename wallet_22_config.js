@@ -1,1 +1,1 @@
-var mnemonic = "cover daughter topple eyebrow begin electric token stomach sniff universe gloom symptom";
+var mnemonic = "sport celery cherry street finger pact shoe verb tag window rely bus";

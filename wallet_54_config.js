@@ -1,1 +1,1 @@
-var mnemonic = "method cliff rival shine problem amount danger morning merge axis company seek";
+var mnemonic = "subject whisper become coin stable ankle donate extra better club ankle name";

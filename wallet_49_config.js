@@ -1,1 +1,1 @@
-var mnemonic = "helmet hidden elder cross arrange all column depend vote giant infant original";
+var mnemonic = "grow embody blast transfer slim night barely race wage swallow very cigar";

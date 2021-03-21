@@ -1,1 +1,1 @@
-var mnemonic = "index upper huge silly frequent cactus idea device nut network faint when";
+var mnemonic = "chat hawk over art verify moral once pipe favorite huge sister sell";

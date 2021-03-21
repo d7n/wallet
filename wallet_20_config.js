@@ -1,1 +1,1 @@
-var mnemonic = "doll original library exit hero bridge arena beyond ask talk yard essay";
+var mnemonic = "battle hazard bid cruel music height bag water cabbage close tongue evil";

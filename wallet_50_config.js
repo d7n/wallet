@@ -1,1 +1,1 @@
-var mnemonic = "abandon robot sight monster always exclude open differ lens either student exit";
+var mnemonic = "high erosion come click main embark diary foot super devote govern lizard";

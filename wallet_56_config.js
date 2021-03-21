@@ -1,1 +1,1 @@
-var mnemonic = "fault bone help crane hurdle wage twenty when shrimp manage asset essence";
+var mnemonic = "mosquito abstract bubble win treat age ripple grant change buyer piece timber";

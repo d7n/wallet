@@ -1,1 +1,1 @@
-var mnemonic = "race test latin mention seminar fatal measure quiz clinic author six what";
+var mnemonic = "science quarter bag stuff junior river smooth tiny ill capital group tobacco";

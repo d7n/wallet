@@ -1,1 +1,1 @@
-var mnemonic = "beauty awkward angle rural crisp age head knock amateur place search ivory";
+var mnemonic = "opera scrap blossom arctic process coyote among suspect strike vapor bracket manage";

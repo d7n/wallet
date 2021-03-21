@@ -1,1 +1,1 @@
-var mnemonic = "initial upon parent amused kick menu liar torch program roast shiver brush";
+var mnemonic = "loan unlock illness leopard teach effort conduct fit verb try believe smoke";

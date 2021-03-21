@@ -1,1 +1,1 @@
-var mnemonic = "obscure tilt possible rain gossip team anxiety paddle finish occur theme coffee";
+var mnemonic = "main rule runway auto trumpet over gospel trick truth home install weather";

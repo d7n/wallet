@@ -1,1 +1,1 @@
-var mnemonic = "glove cook bicycle jaguar twenty mansion long naive garbage next gasp broken";
+var mnemonic = "domain thing enlist hunt volume regret senior way scheme wisdom evil dignity";

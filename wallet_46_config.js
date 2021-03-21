@@ -1,1 +1,1 @@
-var mnemonic = "monster security feed level fee flag chunk skin ugly mixed plate point";
+var mnemonic = "brain front type recall grow harsh oil famous cream hair crystal slice";

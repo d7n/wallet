@@ -1,1 +1,1 @@
-var mnemonic = "light viable stool forest blush nose bronze usage clay scrub art school";
+var mnemonic = "another dice gossip copy strike blouse unlock enrich garlic broccoli tool face";

@@ -1,1 +1,1 @@
-var mnemonic = "reject party glance measure aim century busy vehicle casual winter curve company";
+var mnemonic = "split start swamp train room weapon exhaust bicycle message face gloom aspect";

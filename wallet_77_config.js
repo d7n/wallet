@@ -1,1 +1,1 @@
-var mnemonic = "timber cream mother sibling bitter column found success banner spray pull pipe";
+var mnemonic = "gorilla weird faint decide lazy quality tell all magnet mixed crew much";

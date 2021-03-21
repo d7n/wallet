@@ -1,1 +1,1 @@
-var mnemonic = "help cake library ten reward exhibit sock proud anger baby lunch echo";
+var mnemonic = "midnight border enough spider menu feature apart walnut neglect drama category chief";

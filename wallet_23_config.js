@@ -1,1 +1,1 @@
-var mnemonic = "door pill frequent notable exclude become artwork hat pink wild chicken candy";
+var mnemonic = "pattern grocery solve elder lady program old fault curve shrug apart have";

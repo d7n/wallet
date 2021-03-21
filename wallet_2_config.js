@@ -1,1 +1,1 @@
-var mnemonic = "camp chat hidden stable crack train direct bicycle erosion bright square gift";
+var mnemonic = "flat farm online atom virus marriage favorite open skill column reform evoke";

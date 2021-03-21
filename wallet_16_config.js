@@ -1,1 +1,1 @@
-var mnemonic = "install museum awesome twist column drift radar mention tide hour focus entire";
+var mnemonic = "next candy mistake gallery opera stumble school toward fiscal few owner hidden";

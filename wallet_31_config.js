@@ -1,1 +1,1 @@
-var mnemonic = "summer aim cycle float kiss inform educate army smart become journey bike";
+var mnemonic = "couple harsh want joy chief learn year submit maple island achieve lab";

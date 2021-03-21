@@ -1,1 +1,1 @@
-var mnemonic = "toe defense cupboard order fix matrix voyage fantasy bus car come tone";
+var mnemonic = "nice abstract cabin maximum west brush crazy goat meat tobacco lawn royal";

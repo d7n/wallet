@@ -1,1 +1,1 @@
-var mnemonic = "vintage cluster travel once hat arrest lava great off burst actual brief";
+var mnemonic = "chief food away train jungle owner shell electric mobile swim cotton strong";

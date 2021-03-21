@@ -1,1 +1,1 @@
-var mnemonic = "drive luggage angry rather surface element float elbow club panda industry behave";
+var mnemonic = "hero away defy earth balance smoke glow grow relief armed bachelor cushion";

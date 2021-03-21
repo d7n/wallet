@@ -1,1 +1,1 @@
-var mnemonic = "number gain dove hole illegal crouch prevent art vault example fever approve";
+var mnemonic = "fancy ceiling change chalk seven dad miracle actual interest quote sting sponsor";

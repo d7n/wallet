@@ -1,1 +1,1 @@
-var mnemonic = "aisle illness flock actress useless oppose wagon off year pull panther sausage";
+var mnemonic = "subway tunnel rubber rural congress album stay amazing crew axis forward talk";

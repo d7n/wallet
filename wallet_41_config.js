@@ -1,1 +1,1 @@
-var mnemonic = "frozen salute wall exhibit skull room churn valid naive casual ritual speak";
+var mnemonic = "fatal family town alpha hour execute upon rent kid elephant assist notice";

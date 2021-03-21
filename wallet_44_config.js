@@ -1,1 +1,1 @@
-var mnemonic = "bracket garlic profit harsh basic knock cram net hair extend dragon whisper";
+var mnemonic = "eye glad burst remove shadow struggle matrix vault barrel begin snake maximum";

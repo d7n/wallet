@@ -1,1 +1,1 @@
-var mnemonic = "excess trumpet there muffin chest eagle busy sell easy satoshi cube link";
+var mnemonic = "oxygen liar foster series valve plug glance boss bracket click glow make";

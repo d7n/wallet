@@ -1,1 +1,1 @@
-var mnemonic = "coach brain kingdom wash hammer tray pond sell grass report humor lucky";
+var mnemonic = "ancient carry escape execute blood green negative toddler fire borrow gain artefact";

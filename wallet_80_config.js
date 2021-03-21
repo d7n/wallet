@@ -1,1 +1,1 @@
-var mnemonic = "ghost enrich open teach electric lion heart awake eagle auto wrist aunt";
+var mnemonic = "eye orient theme poem pink shop taxi coil ceiling pelican please place";

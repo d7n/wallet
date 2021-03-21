@@ -1,1 +1,1 @@
-var mnemonic = "margin tooth click spirit fruit receive account slim dry twelve nice two";
+var mnemonic = "pitch subject plastic produce survey frog govern bomb online typical inquiry satisfy";

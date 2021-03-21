@@ -1,1 +1,1 @@
-var mnemonic = "favorite eyebrow clown fortune boss follow riot soul scatter property claw pact";
+var mnemonic = "champion essence glance tenant script arrive note avocado wish zoo laundry depart";

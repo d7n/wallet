@@ -1,1 +1,1 @@
-var mnemonic = "million army super faint exact mango shove tackle good funny brave way";
+var mnemonic = "pet bag wink curtain alter enroll thumb still task oak noble promote";

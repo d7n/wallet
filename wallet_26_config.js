@@ -1,1 +1,1 @@
-var mnemonic = "squeeze helmet woman wrist cereal virtual deliver depth wage delay cancel actress";
+var mnemonic = "mansion material rare romance dragon consider only black nose casino gown outer";

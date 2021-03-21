@@ -1,1 +1,1 @@
-var mnemonic = "antenna uphold path phrase sudden calm sustain limit sample useless harvest empower";
+var mnemonic = "globe dirt chunk heart rabbit enemy birth guide spice brisk cradle news";

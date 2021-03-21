@@ -1,1 +1,1 @@
-var mnemonic = "disorder illness upon roast nest tobacco member uphold rubber equal insect fantasy";
+var mnemonic = "toe olympic able sibling give remind more weapon gown palace kiwi trial";

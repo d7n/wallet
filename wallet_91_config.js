@@ -1,1 +1,1 @@
-var mnemonic = "stairs seat tribe away nut jealous friend danger cereal giraffe wreck explain";
+var mnemonic = "dilemma panda purchase height guilt nothing mother angle breeze keep twin word";

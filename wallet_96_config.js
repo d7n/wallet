@@ -1,1 +1,1 @@
-var mnemonic = "bright evidence zone sister patrol jeans alone multiply voyage unable matter ten";
+var mnemonic = "elite fury stamp check crystal page exotic elder useless gorilla behind section";

@@ -1,1 +1,1 @@
-var mnemonic = "boil climb guilt pottery ghost option school wrap antenna hover duty mention";
+var mnemonic = "lesson home fiber tilt bulk alcohol come side mesh cruel oppose alcohol";

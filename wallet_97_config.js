@@ -1,1 +1,1 @@
-var mnemonic = "enjoy water tilt execute name normal card lava scare can save library";
+var mnemonic = "until become multiply grape jacket nephew return sand aunt light inch reopen";

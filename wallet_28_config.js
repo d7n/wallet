@@ -1,1 +1,1 @@
-var mnemonic = "swarm kidney else damage knife size enroll curtain ripple material cannon remain";
+var mnemonic = "like account reopen resemble point deputy audit elbow bounce behind orbit become";

@@ -1,1 +1,1 @@
-var mnemonic = "assume youth wage van charge hero use drama resource plunge later conduct";
+var mnemonic = "dune paddle health crack federal fever frost unveil paper knee august disorder";

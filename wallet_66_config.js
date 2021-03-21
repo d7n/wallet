@@ -1,1 +1,1 @@
-var mnemonic = "deputy wagon paddle illness move figure relax next fork nephew trash aspect";
+var mnemonic = "leader wage visual reveal project admit garlic almost length lift stereo divorce";

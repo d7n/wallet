@@ -1,1 +1,1 @@
-var mnemonic = "muffin lend head accuse lake neutral divide exact sunset scene pelican copy";
+var mnemonic = "capital era jump long grunt mixture increase taxi pitch run account clap";

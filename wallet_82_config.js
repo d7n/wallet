@@ -1,1 +1,1 @@
-var mnemonic = "exchange dentist toss right trumpet police main pen output awful draft faith";
+var mnemonic = "kit crush embark crush melt unique very off surprise outdoor menu inflict";

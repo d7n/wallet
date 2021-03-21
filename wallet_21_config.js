@@ -1,1 +1,1 @@
-var mnemonic = "main festival glory program service tube juice island spring pottery glare print";
+var mnemonic = "magnet lab vacant junior daughter action yellow friend topple answer art slam";

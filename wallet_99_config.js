@@ -1,1 +1,1 @@
-var mnemonic = "infant envelope oblige monster hip canoe magnet series minimum monster fantasy globe";
+var mnemonic = "mandate ecology flat meadow weapon glimpse surprise digital ozone educate lamp space";

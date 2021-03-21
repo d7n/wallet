@@ -1,1 +1,1 @@
-var mnemonic = "loyal cycle pool desk impact narrow swarm spider rule found omit lottery";
+var mnemonic = "nurse next elder repair moral talent twin bargain ancient duty island orchard";

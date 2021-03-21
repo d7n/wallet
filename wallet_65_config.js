@@ -1,1 +1,1 @@
-var mnemonic = "comfort mobile matrix hello mention employ very fame wisdom medal dune kit";
+var mnemonic = "milk sphere bless zero escape left home ghost setup shock liquid civil";

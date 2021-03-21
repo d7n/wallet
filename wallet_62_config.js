@@ -1,1 +1,1 @@
-var mnemonic = "neither humor sting wine pottery poverty mom fold palm lawsuit punch census";
+var mnemonic = "media snap hockey student damp world agent snake tomato mixture endless enact";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy account eyebrow skill kiwi bleak goat giraffe across ability gaze federal";
+var mnemonic = "dog genre play favorite author because fat core struggle goose hold differ";

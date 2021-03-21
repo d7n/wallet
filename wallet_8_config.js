@@ -1,1 +1,1 @@
-var mnemonic = "slim farm win end manage lumber produce poet happy improve spice armor";
+var mnemonic = "thing leg pipe repair warfare physical host collect lobster accuse funny where";

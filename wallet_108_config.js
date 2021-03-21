@@ -1,1 +1,1 @@
-var mnemonic = "first tenant million run forum master ice lemon voyage rose nice retreat";
+var mnemonic = "actress century home more act gate extend coin valve fragile repeat awesome";

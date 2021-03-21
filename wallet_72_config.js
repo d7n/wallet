@@ -1,1 +1,1 @@
-var mnemonic = "submit field express hood travel slot powder sing slender mountain goat erase";
+var mnemonic = "glow dress mystery wine stove devote jungle finger dawn decline grid limit";

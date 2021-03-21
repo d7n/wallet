@@ -1,1 +1,1 @@
-var mnemonic = "absurd genius curious beyond venture eight harsh index drop sail spy valid";
+var mnemonic = "mesh mask slender park notice random resemble fence enemy tiger shock century";

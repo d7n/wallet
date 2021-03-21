@@ -1,1 +1,1 @@
-var mnemonic = "approve glow denial outer what rare twist use airport remove clutch soda";
+var mnemonic = "foil soft biology baby rescue ring hurt crater inject winner bean bid";

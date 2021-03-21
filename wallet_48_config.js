@@ -1,1 +1,1 @@
-var mnemonic = "pupil force brush online suggest gun mention moral blush remove gain diary";
+var mnemonic = "caution sea rich wrestle copy message shift smoke famous obey film always";

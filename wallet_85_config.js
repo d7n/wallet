@@ -1,1 +1,1 @@
-var mnemonic = "away together move drip multiply glue cart prison artefact bomb retreat inch";
+var mnemonic = "spider stomach social cement puzzle network image stem discover taxi casual resemble";

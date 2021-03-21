@@ -1,1 +1,1 @@
-var mnemonic = "quantum grass empower twist student system cabbage detect orphan appear twist february";
+var mnemonic = "account frown balance uncle margin truck middle latin figure put document pond";

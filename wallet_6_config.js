@@ -1,1 +1,1 @@
-var mnemonic = "icon digital spoil battle trouble unveil habit rain blossom hand whip knock";
+var mnemonic = "taste chest innocent popular hospital metal chase hover immune town sugar sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "almost throw wear eyebrow top example ecology winner idea nut vanish point";
+var mnemonic = "embark stomach plate install gadget denial aisle rib daughter dice peasant liar";

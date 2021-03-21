@@ -1,1 +1,1 @@
-var mnemonic = "define when report autumn enlist wrist arch staff ripple lobster iron drive";
+var mnemonic = "scatter prevent suffer try enact rain cushion apple park range ride call";

@@ -1,1 +1,1 @@
-var mnemonic = "identify east scrub bunker session student suit security asthma museum grace solar";
+var mnemonic = "relief merge butter first galaxy notice whale toward pledge cereal sell talk";

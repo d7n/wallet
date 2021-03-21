@@ -1,1 +1,1 @@
-var mnemonic = "letter woman improve unable inhale analyst note upgrade outdoor render daughter pig";
+var mnemonic = "injury bird unfair local pupil hidden agent pupil token gentle mesh cake";

@@ -1,1 +1,1 @@
-var mnemonic = "into panther castle elite tuna front guess ahead mother shaft conduct auction";
+var mnemonic = "village mask meadow life silk donate better kitchen repair try industry sun";

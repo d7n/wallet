@@ -1,1 +1,1 @@
-var mnemonic = "cloud pretty direct document menu retire august talent oxygen usage teach door";
+var mnemonic = "rough gaze prison garage convince sort session pink alcohol large idea shiver";

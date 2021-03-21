@@ -1,1 +1,1 @@
-var mnemonic = "half clutch rare trip bird shoe obscure cave unique surge cotton mask";
+var mnemonic = "spoon color play hour ticket cram always clown embark spoon prepare endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "range supply lunch page elegant purse reward awesome garage neither chaos segment";
+var mnemonic = "mad floor employ door typical regret news hunt dilemma butter runway cage";

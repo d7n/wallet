@@ -1,1 +1,1 @@
-var mnemonic = "march angle camp reveal accident real hard enable expire country music victory";
+var mnemonic = "link letter goat swing actor owner patrol middle song blur pill toe";

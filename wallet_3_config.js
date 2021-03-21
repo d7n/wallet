@@ -1,1 +1,1 @@
-var mnemonic = "genuine loan boy welcome skate regular powder bomb define rally marriage busy";
+var mnemonic = "inherit expand ball syrup lake timber absurd genre pudding broken domain warm";

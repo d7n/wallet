@@ -1,1 +1,1 @@
-var mnemonic = "pride easily into silver liquid skate force fever priority patient industry clean";
+var mnemonic = "hard border reveal tell energy erosion have alone alpha turn stand wet";

@@ -1,1 +1,1 @@
-var mnemonic = "mind club plunge guide runway wagon world unique apology program pistol speed";
+var mnemonic = "melt cupboard differ convince mesh deputy feed ocean cabbage shell fragile lyrics";
