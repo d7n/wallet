@@ -1,1 +1,1 @@
-var mnemonic = "that nice raven source track asset friend gold lumber online eyebrow salmon";
+var mnemonic = "city retreat goat minor transfer raccoon front lumber praise still burger luggage";

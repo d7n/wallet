@@ -1,1 +1,1 @@
-var mnemonic = "runway brother paddle extra limit coach panic ranch hurdle empty among hood";
+var mnemonic = "box utility animal easily zebra symbol innocent satisfy mystery scheme banana acid";

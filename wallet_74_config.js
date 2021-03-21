@@ -1,1 +1,1 @@
-var mnemonic = "science march animal cattle update analyst like agent fatigue joke execute hover";
+var mnemonic = "slow weekend cry solve gauge lens term alter south razor sun leave";

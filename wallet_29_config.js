@@ -1,1 +1,1 @@
-var mnemonic = "dynamic cheap letter foil adjust joy wing spring always torch carbon february";
+var mnemonic = "cook shift middle alien buyer undo curve neutral matter improve copy female";

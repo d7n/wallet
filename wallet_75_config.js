@@ -1,1 +1,1 @@
-var mnemonic = "axis expect river maze client artist brand amused bonus brush shrimp plastic";
+var mnemonic = "frost tilt sword initial crane sing tip holiday faith attract advice entry";

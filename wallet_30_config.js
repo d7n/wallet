@@ -1,1 +1,1 @@
-var mnemonic = "duty total task comfort spice steak list library day quote innocent evil";
+var mnemonic = "speak pass large sweet space first like discover bottom derive indoor sight";

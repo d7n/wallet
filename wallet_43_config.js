@@ -1,1 +1,1 @@
-var mnemonic = "cute flat oppose host scorpion upon hour service addict endless traffic runway";
+var mnemonic = "twice door great tell hedgehog celery dance control region tonight found jar";

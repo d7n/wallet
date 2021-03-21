@@ -1,1 +1,1 @@
-var mnemonic = "excuse weekend three open universe pair mandate attract ribbon unhappy valve soldier";
+var mnemonic = "use capable lobster decrease warrior silent surprise assist gospel sample stomach rigid";

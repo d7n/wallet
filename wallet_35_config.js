@@ -1,1 +1,1 @@
-var mnemonic = "wrist side mobile tenant group business razor select struggle cute bone manage";
+var mnemonic = "document valid rib clay ring arrest castle art follow base bone stairs";

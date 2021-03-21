@@ -1,1 +1,1 @@
-var mnemonic = "close acquire divert act nerve hill joke traffic tide congress final simple";
+var mnemonic = "world two swallow card champion banana smart reward guitar alcohol carbon decade";

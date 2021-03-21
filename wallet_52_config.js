@@ -1,1 +1,1 @@
-var mnemonic = "prevent game water else bike frame poem inmate alter install grief combine";
+var mnemonic = "rice net cash truck photo purse home oxygen crater capital young correct";

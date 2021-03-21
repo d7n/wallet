@@ -1,1 +1,1 @@
-var mnemonic = "trash aware unaware minimum raven kind powder unlock garden family response embrace";
+var mnemonic = "scatter gentle wolf turkey lady endorse scan abstract theory can soccer immune";

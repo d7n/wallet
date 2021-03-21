@@ -1,1 +1,1 @@
-var mnemonic = "text eight tell shy document health sort act media joke nasty female";
+var mnemonic = "action guilt profit miss state size live tragic stick coyote exotic pulp";

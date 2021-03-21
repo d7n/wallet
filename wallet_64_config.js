@@ -1,1 +1,1 @@
-var mnemonic = "prison moral pink carpet always pioneer beauty level alley hope antenna wash";
+var mnemonic = "abandon bean fence silver retreat glad payment catch case approve pet permit";

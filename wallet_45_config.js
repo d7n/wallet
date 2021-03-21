@@ -1,1 +1,1 @@
-var mnemonic = "race today farm smoke rocket pig early easily topple awkward key truly";
+var mnemonic = "country fiber void leave infant ostrich oven comic faint caution detect project";

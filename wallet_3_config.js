@@ -1,1 +1,1 @@
-var mnemonic = "exhibit rice industry old sunny vintage figure renew kiwi mistake eternal strategy";
+var mnemonic = "always fan wrong thank novel harsh glove fresh enable hood notable model";

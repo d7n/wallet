@@ -1,1 +1,1 @@
-var mnemonic = "say jar junk senior swap light march aisle equal bird chaos van";
+var mnemonic = "fun pupil canal fit law reform mouse network tape hobby vehicle property";

@@ -1,1 +1,1 @@
-var mnemonic = "youth blur solid dwarf segment alien display leaf flee super perfect lab";
+var mnemonic = "today faculty have skin shine giraffe weekend neglect seminar oak slim section";

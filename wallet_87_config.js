@@ -1,1 +1,1 @@
-var mnemonic = "citizen mirror sibling steak pyramid bachelor tonight rail obtain love aisle ginger";
+var mnemonic = "ostrich vibrant say rice moment ability exist promote survey task puppy fly";

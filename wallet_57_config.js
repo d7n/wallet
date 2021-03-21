@@ -1,1 +1,1 @@
-var mnemonic = "inhale cross during scout idea circle exclude sign brother minimum faculty hole";
+var mnemonic = "lab auction acoustic quote life rail fortune rude burden run antenna jar";

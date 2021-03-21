@@ -1,1 +1,1 @@
-var mnemonic = "onion floor current between second settle enrich pudding heavy danger bulb tunnel";
+var mnemonic = "royal issue grab pipe tunnel explain bitter report ability model fiber solid";

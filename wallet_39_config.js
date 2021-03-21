@@ -1,1 +1,1 @@
-var mnemonic = "door goddess interest found rocket intact kangaroo crack train combine vivid try";
+var mnemonic = "market good news cart urge cushion industry benefit method company film vessel";

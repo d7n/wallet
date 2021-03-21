@@ -1,1 +1,1 @@
-var mnemonic = "vital any polar route ceiling welcome school pair proud deputy doll spider";
+var mnemonic = "never clever lunar skill category mass brown cherry injury benefit thumb fatigue";

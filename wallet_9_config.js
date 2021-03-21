@@ -1,1 +1,1 @@
-var mnemonic = "rather build beauty toward require genuine live valid fox sight scrap humble";
+var mnemonic = "brown rebel purpose transfer fold size orbit frame hair clever brick slogan";

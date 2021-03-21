@@ -1,1 +1,1 @@
-var mnemonic = "quick route bulb hedgehog era boss property purse need stairs elephant forward";
+var mnemonic = "human noise tiny also orchard salmon magic diagram tiger cotton wrist base";

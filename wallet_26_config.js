@@ -1,1 +1,1 @@
-var mnemonic = "skirt hub steak tank fragile flower media bicycle sea winner genius human";
+var mnemonic = "doll two forget number usage rural wife later lizard wrist road asthma";

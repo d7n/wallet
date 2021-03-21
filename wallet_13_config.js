@@ -1,1 +1,1 @@
-var mnemonic = "figure display issue never garden nose later bubble buzz federal actor apple";
+var mnemonic = "auction elite awful satoshi huge pelican heavy dragon library humor win absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "flock symbol dry laundry drama exile canyon fantasy mass tourist talk public";
+var mnemonic = "reunion hill saddle finger brush palm vapor cream double client catch river";

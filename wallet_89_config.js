@@ -1,1 +1,1 @@
-var mnemonic = "final device ride wealth catch pen flip leave pistol ecology world cannon";
+var mnemonic = "indicate tackle broccoli update course grunt debate rhythm nest cable have egg";

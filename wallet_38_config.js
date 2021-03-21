@@ -1,1 +1,1 @@
-var mnemonic = "struggle cactus struggle fuel pond nation autumn chuckle infant praise give nurse";
+var mnemonic = "palm trigger inner update spin version aim found key near laundry develop";

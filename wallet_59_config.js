@@ -1,1 +1,1 @@
-var mnemonic = "announce hole world clump medal flee stuff visa link avoid inhale reform";
+var mnemonic = "scare afford ghost taxi volcano artwork journey firm solid middle month dust";

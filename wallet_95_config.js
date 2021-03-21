@@ -1,1 +1,1 @@
-var mnemonic = "surge ice phrase rocket fork balcony mail people brain caution people skirt";
+var mnemonic = "exclude hundred hover fitness net december inform shell satoshi salon rally cricket";

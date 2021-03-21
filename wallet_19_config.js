@@ -1,1 +1,1 @@
-var mnemonic = "cram silent close layer shop crouch lyrics mercy forest supreme indoor pilot";
+var mnemonic = "buddy wing cabin panda work boil during jaguar business evil toss motion";

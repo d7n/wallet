@@ -1,1 +1,1 @@
-var mnemonic = "naive power sunny obvious meat purse slam author mother suspect keen laugh";
+var mnemonic = "vivid old flat drop simple also tray truth merge team antique easily";

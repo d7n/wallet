@@ -1,1 +1,1 @@
-var mnemonic = "effort aim shaft capable total resource toddler arrange mercy spike cherry run";
+var mnemonic = "collect long wheel skate disease carpet nice purse dance armed hire timber";

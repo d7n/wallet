@@ -1,1 +1,1 @@
-var mnemonic = "wine brisk seek tired urban culture enact throw nation maple wine artefact";
+var mnemonic = "remain ready sort distance poem way deposit crazy frost fluid pudding tongue";

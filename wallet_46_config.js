@@ -1,1 +1,1 @@
-var mnemonic = "hazard clap rich anchor believe myth access visit actress invite promote shoulder";
+var mnemonic = "open damp forget prevent weasel cruise banana belt program dinner grain jacket";

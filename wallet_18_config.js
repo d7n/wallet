@@ -1,1 +1,1 @@
-var mnemonic = "soft protect axis figure sausage oil husband script record accident awkward patch";
+var mnemonic = "talent hazard accuse spirit rally muffin hint siege twelve festival middle gravity";

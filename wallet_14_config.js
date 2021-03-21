@@ -1,1 +1,1 @@
-var mnemonic = "sing laundry equip worth web vast square please limb dignity badge wide";
+var mnemonic = "shed proud picture right piece seminar kitten wish mushroom giant receive universe";

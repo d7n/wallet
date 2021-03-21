@@ -1,1 +1,1 @@
-var mnemonic = "can bulb royal logic jaguar spy ten raw grit engage ginger lottery";
+var mnemonic = "balance more bar scrub myself army plate concert casino canvas six begin";

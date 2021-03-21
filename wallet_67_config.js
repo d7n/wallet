@@ -1,1 +1,1 @@
-var mnemonic = "walnut party dash tonight horn deny sort boring frequent faint gesture version";
+var mnemonic = "skirt plastic wide tumble suit wrist runway shield champion party nerve acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "denial brief loop juice scrap mimic arch reunion pistol impulse ketchup corn";
+var mnemonic = "patient bomb pitch barrel deny anchor quarter jeans minor execute shove miss";

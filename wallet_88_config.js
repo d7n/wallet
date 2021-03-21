@@ -1,1 +1,1 @@
-var mnemonic = "copy city garden tragic crouch disagree indicate frown hen canal moral horn";
+var mnemonic = "way trade mango slight card aware solution recipe tilt behave crime must";

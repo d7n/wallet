@@ -1,1 +1,1 @@
-var mnemonic = "you mix pulse key coyote energy box catalog video hockey orphan purse";
+var mnemonic = "ride bounce inquiry where brown they napkin entry famous rubber melody submit";

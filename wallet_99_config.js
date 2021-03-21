@@ -1,1 +1,1 @@
-var mnemonic = "legend gap angry enhance orange warm search crumble ensure purse coil pair";
+var mnemonic = "mango easily permit speak drive steak business elevator tennis slow detect library";

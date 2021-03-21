@@ -1,1 +1,1 @@
-var mnemonic = "benefit amount glad engine quick monkey symbol turtle analyst random paper ensure";
+var mnemonic = "decade assume rapid beach shed lecture clerk patrol canal chuckle melt boost";

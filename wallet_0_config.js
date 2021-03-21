@@ -1,1 +1,1 @@
-var mnemonic = "mean swing tail dress sword echo ticket deposit animal sock often drastic";
+var mnemonic = "improve discover pass all green clean year plate foster tank keep cattle";

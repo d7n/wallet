@@ -1,1 +1,1 @@
-var mnemonic = "yellow road wealth idle use figure aim limb check wreck wise cactus";
+var mnemonic = "couple sting call connect seat sponsor coyote cage camera cable logic stamp";

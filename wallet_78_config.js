@@ -1,1 +1,1 @@
-var mnemonic = "kite relief kite edit eight wasp delay width ocean clog manual behave";
+var mnemonic = "bind sorry truck trial east enrich ladder diet menu wash truth enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "ten gasp trigger tent amateur kit hotel clay core alien bleak wage";
+var mnemonic = "upgrade jaguar fatigue believe call laundry young quality peanut trim sun raccoon";

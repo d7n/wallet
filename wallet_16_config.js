@@ -1,1 +1,1 @@
-var mnemonic = "praise govern pink tag now token round shrimp salad service bean small";
+var mnemonic = "belt knee squirrel cannon shove flee actress search sing decline dizzy pepper";

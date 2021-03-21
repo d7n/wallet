@@ -1,1 +1,1 @@
-var mnemonic = "jelly pen urge shiver close merit begin siren stable figure apology helmet";
+var mnemonic = "slab basic since copper space swarm adapt truly among core dose chuckle";

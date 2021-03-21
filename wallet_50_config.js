@@ -1,1 +1,1 @@
-var mnemonic = "oppose impose arrow slow giggle cross page obvious taxi isolate razor earth";
+var mnemonic = "purity pyramid length tackle argue bless turn jump nothing joke cover fun";

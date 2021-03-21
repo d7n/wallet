@@ -1,1 +1,1 @@
-var mnemonic = "okay believe evidence dizzy turtle clutch such exhaust cotton shy today tissue";
+var mnemonic = "cloth pudding female exotic pool swap mango rookie opinion multiply orange attend";

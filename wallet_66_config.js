@@ -1,1 +1,1 @@
-var mnemonic = "typical guess write horse wheel girl acquire position slush soup monkey across";
+var mnemonic = "cactus endorse shine frost angry expose desert festival two illness emerge mass";

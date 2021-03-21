@@ -1,1 +1,1 @@
-var mnemonic = "repeat north glide sword amateur shiver party fossil media travel unit reason";
+var mnemonic = "helmet moment excuse action window energy approve lucky alcohol picture suit ride";

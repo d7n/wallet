@@ -1,1 +1,1 @@
-var mnemonic = "wood one swallow medal name sister dust start sketch confirm dismiss end";
+var mnemonic = "file seat saddle police farm park side merry begin pipe wife manage";

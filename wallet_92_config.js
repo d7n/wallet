@@ -1,1 +1,1 @@
-var mnemonic = "gadget enough during pet lady absent grid fatigue sea lava whip hurdle";
+var mnemonic = "chase accuse labor path gesture link require brain elegant crunch pair wire";

@@ -1,1 +1,1 @@
-var mnemonic = "bring reason arena dice season dish wet general leg reason iron cabin";
+var mnemonic = "oak cement diet love ball reflect soldier price sell random knife lend";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery wedding cement token chief miss space donate funny celery bunker deposit";
+var mnemonic = "axis exotic when piece buyer mask future movie zoo hotel violin orient";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding faint rely tip arrive spot bleak common movie appear indicate kite";
+var mnemonic = "market material bring extra erupt execute transfer endorse boss glory vocal tree";

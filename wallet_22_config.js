@@ -1,1 +1,1 @@
-var mnemonic = "aware giraffe leaf fade master about panda spray demand bunker animal pride";
+var mnemonic = "rough kingdom expand typical silent devote skirt tortoise unaware burden please present";

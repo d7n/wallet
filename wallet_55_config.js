@@ -1,1 +1,1 @@
-var mnemonic = "blouse spare gloom action elephant venue crack breeze hire powder blame office";
+var mnemonic = "lawn lecture ranch during nuclear oblige arrange cigar mesh hip person regret";

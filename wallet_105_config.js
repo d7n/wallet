@@ -1,1 +1,1 @@
-var mnemonic = "solar have hair dinner job visit venue stomach slender obscure trick parent";
+var mnemonic = "satoshi myth razor sell safe monkey upgrade carry pluck mesh meadow perfect";

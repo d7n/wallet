@@ -1,1 +1,1 @@
-var mnemonic = "spoil panther ticket circle parent liar border rebel pill damp flower fantasy";
+var mnemonic = "salad monitor skull maple judge twice ancient survey north gravity ordinary right";

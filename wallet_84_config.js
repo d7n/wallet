@@ -1,1 +1,1 @@
-var mnemonic = "paddle vendor kitten deer jewel margin story pilot genuine often crowd shine";
+var mnemonic = "execute canvas oyster stand federal shy drop deny demise slight upgrade friend";

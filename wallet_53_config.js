@@ -1,1 +1,1 @@
-var mnemonic = "mail leg cattle reform desert visa moral absorb pupil trophy raccoon transfer";
+var mnemonic = "evoke ecology blind good raise abstract atom key consider skull radar inspire";

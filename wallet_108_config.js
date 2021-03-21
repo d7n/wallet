@@ -1,1 +1,1 @@
-var mnemonic = "match ramp trial copy soda chaos budget physical trouble dismiss neither garage";
+var mnemonic = "embody swift dash pair chronic palm lunar estate define grass bench discover";

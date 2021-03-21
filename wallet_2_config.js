@@ -1,1 +1,1 @@
-var mnemonic = "hard swift jar hair follow scheme child vague sound bid duck health";
+var mnemonic = "slice review average noodle agree budget topic job end trick tired burger";

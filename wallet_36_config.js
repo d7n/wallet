@@ -1,1 +1,1 @@
-var mnemonic = "quarter address believe force also develop frown twenty spring can melody version";
+var mnemonic = "spin exchange pill area fetch immune fence giraffe embrace sight deliver legal";

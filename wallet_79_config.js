@@ -1,1 +1,1 @@
-var mnemonic = "fault element margin upset drill ill orient flight alarm october town young";
+var mnemonic = "club water bridge above also art embrace various churn ivory kiss crack";

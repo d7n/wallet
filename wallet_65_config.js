@@ -1,1 +1,1 @@
-var mnemonic = "addict blast rifle day body beyond neither arm saddle pipe maze shoot";
+var mnemonic = "system obvious flag soul trick real salute ring nut toast slush lunch";

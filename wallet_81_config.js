@@ -1,1 +1,1 @@
-var mnemonic = "syrup broken sniff that lemon scissors rotate flat holiday bracket canoe exile";
+var mnemonic = "mask assist magic copy yellow robot beef that creek saddle faint bind";

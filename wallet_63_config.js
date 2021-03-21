@@ -1,1 +1,1 @@
-var mnemonic = "hand valley reveal theory hill left cram paddle illegal stone hero kingdom";
+var mnemonic = "apart cover egg pencil second uncle habit allow seat hair cheese exile";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet ignore direct audit general alter arrow false kit dwarf armor forest";
+var mnemonic = "page peasant lazy hat lecture educate loop capital play image amazing organ";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer critic short silk room ship echo lift satisfy coach dress rent";
+var mnemonic = "chest position chalk phone suffer toy pumpkin donate camera mesh donate found";

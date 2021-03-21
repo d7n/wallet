@@ -1,1 +1,1 @@
-var mnemonic = "wine love medal weapon taste palace spy ancient age eyebrow welcome sport";
+var mnemonic = "grow glance once skill vapor indoor toilet broccoli happy thrive burger mirror";

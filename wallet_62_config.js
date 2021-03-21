@@ -1,1 +1,1 @@
-var mnemonic = "because life siren laundry table second profit finger wrong model slogan coil";
+var mnemonic = "dry spring crew theory boring scare bomb proud syrup wrong tattoo clerk";

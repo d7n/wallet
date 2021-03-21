@@ -1,1 +1,1 @@
-var mnemonic = "multiply together breeze scan judge acoustic excess table best awake load ticket";
+var mnemonic = "people hedgehog then purpose bring resist yard focus behave globe zoo economy";

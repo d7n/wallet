@@ -1,1 +1,1 @@
-var mnemonic = "taste ginger lend aerobic april void style snack document loan breeze hedgehog";
+var mnemonic = "nominee club crystal session midnight glide hair ridge velvet twelve pretty leopard";

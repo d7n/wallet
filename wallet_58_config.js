@@ -1,1 +1,1 @@
-var mnemonic = "elephant hope lounge spray symbol envelope party one carpet suspect chase obtain";
+var mnemonic = "dove mushroom middle close rifle hurry setup above faculty oppose husband cereal";

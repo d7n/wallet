@@ -1,1 +1,1 @@
-var mnemonic = "spray fit bright code elder host wreck planet cross weird juice dune";
+var mnemonic = "bind spare include solve ranch glance still doctor gather admit fabric artwork";

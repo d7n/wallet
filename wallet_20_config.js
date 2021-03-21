@@ -1,1 +1,1 @@
-var mnemonic = "notable pair height spatial fine frog size sudden combine remain final away";
+var mnemonic = "bicycle peace pause student bacon mandate fox book later anger debris talk";

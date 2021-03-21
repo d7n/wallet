@@ -1,1 +1,1 @@
-var mnemonic = "surface talk mixture grit actor nephew grape neck lens essence spoon image";
+var mnemonic = "drip iron stick risk return okay prevent view collect exile zebra better";

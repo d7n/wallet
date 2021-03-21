@@ -1,1 +1,1 @@
-var mnemonic = "fork elephant wall fever island venture alone decide clap learn minor fox";
+var mnemonic = "abuse carpet web noodle game wild tail alert ridge orbit bring taxi";

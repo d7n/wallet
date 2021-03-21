@@ -1,1 +1,1 @@
-var mnemonic = "similar reopen baby elegant cruise supreme more dust anger kid minor calm";
+var mnemonic = "steel clever oblige subject tortoise deer clip evil master miracle soul polar";

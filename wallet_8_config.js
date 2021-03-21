@@ -1,1 +1,1 @@
-var mnemonic = "traffic athlete suit bless word child unaware zoo slice maximum better buddy";
+var mnemonic = "angry moral benefit sweet tool until heart midnight bunker tennis grape expand";

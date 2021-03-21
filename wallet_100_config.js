@@ -1,1 +1,1 @@
-var mnemonic = "fortune position unfair appear humor arena goat lawn opinion earth paddle fossil";
+var mnemonic = "erupt ugly file august ensure retire embrace critic weird secret foil bullet";

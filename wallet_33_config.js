@@ -1,1 +1,1 @@
-var mnemonic = "clinic reform adult cricket original right island coach wisdom intact purpose suit";
+var mnemonic = "hen rate arena hat crisp mouse nominee tiny judge ignore initial crash";
