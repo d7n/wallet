@@ -1,1 +1,1 @@
-var mnemonic = "race ahead term net village taxi awkward glue cross rebel medal language";
+var mnemonic = "maze churn tree science supply lonely noble hood nerve portion member sketch";

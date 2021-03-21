@@ -1,1 +1,1 @@
-var mnemonic = "refuse solid subject siren sentence forget raven soon sphere flock shallow media";
+var mnemonic = "hint feed unknown warfare away brain rally debate quit include fitness aspect";

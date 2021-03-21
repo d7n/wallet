@@ -1,1 +1,1 @@
-var mnemonic = "fame runway voyage cricket bench trip comfort oven merge wise noble donkey";
+var mnemonic = "stone special venture fee amused long beef vacant range leader stick puzzle";

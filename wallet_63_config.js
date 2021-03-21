@@ -1,1 +1,1 @@
-var mnemonic = "wage remove cabbage exotic protect pepper excite output tribe speak wonder quarter";
+var mnemonic = "issue nurse lecture sing arrive case diamond smile galaxy dash quick flame";

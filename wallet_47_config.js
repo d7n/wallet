@@ -1,1 +1,1 @@
-var mnemonic = "solution control isolate innocent apart fatal vague trophy insect recycle dune brother";
+var mnemonic = "kind toilet funny hammer fashion fantasy culture task acid palace orbit play";

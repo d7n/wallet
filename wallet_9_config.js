@@ -1,1 +1,1 @@
-var mnemonic = "letter input party alarm jazz raccoon local fault midnight able hover hurdle";
+var mnemonic = "essence shiver guilt organ that whip nasty damp since concert uncle skirt";

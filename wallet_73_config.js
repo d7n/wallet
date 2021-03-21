@@ -1,1 +1,1 @@
-var mnemonic = "wonder indicate note car ranch exile flower hurt priority donate creek runway";
+var mnemonic = "shove snake army aim note age job sock pair divorce sort leaf";

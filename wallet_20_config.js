@@ -1,1 +1,1 @@
-var mnemonic = "jump charge blur useless drive hurt happy notice country people gauge athlete";
+var mnemonic = "mirror increase mechanic nothing crack flame sorry twelve correct damage fault fruit";

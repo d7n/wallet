@@ -1,1 +1,1 @@
-var mnemonic = "nasty around curtain image stomach peace immune shift toe glow misery vocal";
+var mnemonic = "brush oxygen cotton state absorb bid crumble hold swear together lawsuit unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "setup exhibit visit wear spot decline slim pave split obvious casino album";
+var mnemonic = "daughter cost endless pistol drill true until satoshi version approve mutual lock";

@@ -1,1 +1,1 @@
-var mnemonic = "view quarter spirit novel library unknown aware net already nurse practice lottery";
+var mnemonic = "misery clip tenant feel wonder cry athlete until decide laundry truck shock";

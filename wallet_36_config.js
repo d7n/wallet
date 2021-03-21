@@ -1,1 +1,1 @@
-var mnemonic = "special topple fantasy chief skull begin diet attend possible hair disagree salmon";
+var mnemonic = "host office capable zero half anchor road century hundred arrow forest wrong";

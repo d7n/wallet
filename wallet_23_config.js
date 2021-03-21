@@ -1,1 +1,1 @@
-var mnemonic = "space wine neck wish coast explain call hungry father winter mountain hybrid";
+var mnemonic = "pet amateur armed brown coral maple upper million category silver turn clip";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude find donor puzzle program connect crystal reward fluid time success hour";
+var mnemonic = "discover tower near pizza please memory web private keep thank kick tumble";

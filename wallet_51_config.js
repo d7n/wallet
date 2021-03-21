@@ -1,1 +1,1 @@
-var mnemonic = "welcome distance tip proof hip veteran sugar rack stamp when blame unknown";
+var mnemonic = "roof sweet link tell now pledge engage fatal rare hood rib token";

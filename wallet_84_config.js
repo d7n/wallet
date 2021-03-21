@@ -1,1 +1,1 @@
-var mnemonic = "ability dynamic better sweet claw spider remember canyon remember drama pole raw";
+var mnemonic = "ankle type quote blame mirror song ordinary orient metal crunch kingdom build";

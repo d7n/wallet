@@ -1,1 +1,1 @@
-var mnemonic = "test poet arrange company renew pond infant safe month crisp innocent strategy";
+var mnemonic = "gallery cradle tube wood oxygen opera ethics ticket foam iron churn hollow";

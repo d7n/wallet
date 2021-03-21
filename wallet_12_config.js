@@ -1,1 +1,1 @@
-var mnemonic = "repair waste miss unknown fashion danger icon normal chair immense okay alarm";
+var mnemonic = "round sadness immense token dress hazard reunion outdoor truth wonder office pelican";

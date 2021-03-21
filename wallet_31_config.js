@@ -1,1 +1,1 @@
-var mnemonic = "best length staff barrel mind utility neglect brand teach profit donate float";
+var mnemonic = "image horror assault agree mean acid climb ladder loan dentist version rigid";

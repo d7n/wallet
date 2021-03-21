@@ -1,1 +1,1 @@
-var mnemonic = "wrap team vivid embrace faith raccoon sweet color give person cruise hockey";
+var mnemonic = "surge often motion asset room build zero bar jeans name recall random";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry earth spare leg desk scorpion sight gloom wonder rib history holiday";
+var mnemonic = "cool pizza hub unfair huge blouse frozen month shoulder foster reflect tower";

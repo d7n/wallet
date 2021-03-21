@@ -1,1 +1,1 @@
-var mnemonic = "hen hour rug leopard enforce north wish regret limit mean skill rescue";
+var mnemonic = "shallow tourist disorder push equip true rotate ivory kidney crack lemon drive";

@@ -1,1 +1,1 @@
-var mnemonic = "toast enforce draw else maid feel potato embrace nominee thunder never little";
+var mnemonic = "person legal novel abuse october sauce force shield forum decorate limit lecture";

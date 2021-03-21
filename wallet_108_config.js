@@ -1,1 +1,1 @@
-var mnemonic = "breeze base pony chapter apart someone exclude horror build enact female peanut";
+var mnemonic = "tackle smart process wink flash jaguar poet test bronze business render myself";

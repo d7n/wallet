@@ -1,1 +1,1 @@
-var mnemonic = "bargain all drip pond fence among crack custom shock cool pistol skin";
+var mnemonic = "annual vapor patch erosion resist phone army medal upgrade video symbol nerve";

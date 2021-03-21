@@ -1,1 +1,1 @@
-var mnemonic = "thought ski tail youth mass kidney clarify panic help panel spatial pyramid";
+var mnemonic = "below funny reunion toe lesson traffic neck forward stamp deny devote limb";

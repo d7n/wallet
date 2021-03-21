@@ -1,1 +1,1 @@
-var mnemonic = "typical gentle burden warfare mechanic reason aim tray fringe pull unveil sphere";
+var mnemonic = "moon gloom paddle crawl alarm cliff nuclear east charge field seed alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter swear grace elite armor tank hope cricket pigeon spider program distance";
+var mnemonic = "file soccer kiwi reform law six crucial maple venture jewel case away";

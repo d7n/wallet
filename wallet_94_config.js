@@ -1,1 +1,1 @@
-var mnemonic = "garden praise endless term lunch vague cake banana occur theory mammal dolphin";
+var mnemonic = "used found woman royal stem flame coyote fury recall purity square above";

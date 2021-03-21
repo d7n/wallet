@@ -1,1 +1,1 @@
-var mnemonic = "wealth hard appear trend rich walnut cliff cactus priority notable hour twenty";
+var mnemonic = "expect season reward cradle party voice area miracle hammer scheme inspire puppy";

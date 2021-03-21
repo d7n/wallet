@@ -1,1 +1,1 @@
-var mnemonic = "order base step police timber age atom come liberty current hobby piece";
+var mnemonic = "caution plunge undo sight flame amount size invite hair month near daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "index swarm home shell barely unknown tomorrow pilot school thrive victory focus";
+var mnemonic = "truth mansion eyebrow misery range feature naive exotic mixture below admit rain";

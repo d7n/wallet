@@ -1,1 +1,1 @@
-var mnemonic = "master waste laundry flat certain art pull okay prison tackle magnet insect";
+var mnemonic = "swamp nature tonight remain business own echo worry crush soldier just ask";

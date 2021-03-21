@@ -1,1 +1,1 @@
-var mnemonic = "zone wine acid original inmate clever quote strike tide trust august mention";
+var mnemonic = "damp recipe drink lava else thunder birth fun slide dice enemy close";

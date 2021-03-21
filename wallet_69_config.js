@@ -1,1 +1,1 @@
-var mnemonic = "youth kiss inflict side carry bargain panic night main glance image spray";
+var mnemonic = "grunt often oyster satisfy security era expose real harvest february bone enact";

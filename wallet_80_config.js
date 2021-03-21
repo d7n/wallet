@@ -1,1 +1,1 @@
-var mnemonic = "observe allow tortoise defy ethics electric employ success adapt emerge theme rude";
+var mnemonic = "present seat science merge fence forest math one gym image add pilot";

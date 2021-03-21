@@ -1,1 +1,1 @@
-var mnemonic = "turn seven inquiry another burden best they era abandon bundle emotion seek";
+var mnemonic = "notice party warfare venture fetch already gadget tape enemy fabric clinic scheme";

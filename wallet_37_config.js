@@ -1,1 +1,1 @@
-var mnemonic = "track upon message list employ alley coffee bounce aim erase shed slush";
+var mnemonic = "harbor bonus poet decade gossip average tree quality prevent airport army absurd";

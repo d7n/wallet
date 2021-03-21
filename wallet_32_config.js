@@ -1,1 +1,1 @@
-var mnemonic = "valley height suggest final clutch thrive noodle joke six canal uncover tooth";
+var mnemonic = "boil glow another praise dad segment tourist claw else furnace buddy gravity";

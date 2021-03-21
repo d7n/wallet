@@ -1,1 +1,1 @@
-var mnemonic = "expect credit physical enact deny angry lady display symbol impose sight column";
+var mnemonic = "have switch predict hunt moral ahead bubble cloth trick torch garden cage";

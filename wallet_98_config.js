@@ -1,1 +1,1 @@
-var mnemonic = "father panther win maid flee desk electric echo repeat august endorse lawn";
+var mnemonic = "divert front injury hazard gauge muffin early camera human drama joy crane";

@@ -1,1 +1,1 @@
-var mnemonic = "fee grit rebel brief spoil wool there auto theme work virus admit";
+var mnemonic = "tone risk mixed now total pelican pig fame base render hint surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "vital lake govern stone olympic thumb auction oval unaware little rebel mouse";
+var mnemonic = "shoe diet slab morning ozone puppy traffic term force shove party acid";

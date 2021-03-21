@@ -1,1 +1,1 @@
-var mnemonic = "ozone saddle twist target flag confirm soft horror guard medal danger crack";
+var mnemonic = "kiwi ocean stomach giggle cost cart transfer rookie shoot slight drum spy";

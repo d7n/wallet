@@ -1,1 +1,1 @@
-var mnemonic = "cabin bullet unaware cancel camera picnic issue scorpion wire cover plug toe";
+var mnemonic = "fit forest slow jeans sign choose found write bamboo pretty calm music";

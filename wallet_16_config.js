@@ -1,1 +1,1 @@
-var mnemonic = "uncle group grass motor sadness bundle year false pulse cause virtual inhale";
+var mnemonic = "coil laptop avoid edge dawn educate vacant green neutral captain gorilla dance";

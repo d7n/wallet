@@ -1,1 +1,1 @@
-var mnemonic = "pigeon enter equal explain popular uncle special program famous room lab battle";
+var mnemonic = "excuse forum enemy eternal sauce sorry soldier nurse capital phone inner decade";

@@ -1,1 +1,1 @@
-var mnemonic = "happy weird design snap mixture industry peace floor conduct raccoon kind gesture";
+var mnemonic = "genius day lemon dirt disorder run people snow pig juice real debate";

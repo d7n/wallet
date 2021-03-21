@@ -1,1 +1,1 @@
-var mnemonic = "ignore human bottom silly beef boss kiss library journey spell salute chase";
+var mnemonic = "already prosper bicycle rapid design fatal garden girl tortoise effort place mouse";

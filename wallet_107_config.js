@@ -1,1 +1,1 @@
-var mnemonic = "frozen mind enough dragon reason walk brave fetch eye zero machine response";
+var mnemonic = "order group bag marriage arctic reopen drastic venue screen rather equal educate";

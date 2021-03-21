@@ -1,1 +1,1 @@
-var mnemonic = "way pony neck remove flush shove congress foam girl autumn lock vivid";
+var mnemonic = "little render tail leg latin coast accuse legend sibling rocket pride napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome suit smooth cash rib uncle keep coral rescue catch alone error";
+var mnemonic = "today chunk crisp focus about start wine fresh act extend tail bring";

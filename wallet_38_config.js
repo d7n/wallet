@@ -1,1 +1,1 @@
-var mnemonic = "rebel mother prize banana improve among clown local gossip busy junk grass";
+var mnemonic = "appear earn oxygen chair cash mammal alone what speak rally broccoli melt";

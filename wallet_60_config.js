@@ -1,1 +1,1 @@
-var mnemonic = "drip enrich genre soda volcano enter salute rug base clever dove install";
+var mnemonic = "tell supply flower upon badge adjust chronic ensure must galaxy awkward much";

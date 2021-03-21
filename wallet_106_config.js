@@ -1,1 +1,1 @@
-var mnemonic = "envelope wear question snap leaf relief pull cram mushroom bring wonder cable";
+var mnemonic = "define romance dove leave wing rubber work major item energy arena chronic";

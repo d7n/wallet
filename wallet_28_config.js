@@ -1,1 +1,1 @@
-var mnemonic = "transfer chuckle wasp lonely they test vehicle valve unique apple baby valid";
+var mnemonic = "car method order group category cram error blossom life beyond wolf high";

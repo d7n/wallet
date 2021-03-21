@@ -1,1 +1,1 @@
-var mnemonic = "foam inject waste give occur deer fat kangaroo until nation giraffe unaware";
+var mnemonic = "tragic drum reopen liberty jelly plunge pen smart year street intact elevator";

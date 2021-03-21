@@ -1,1 +1,1 @@
-var mnemonic = "grape hour join damp ramp aspect unit better canal ribbon alpha sorry";
+var mnemonic = "play egg scare clever kangaroo exhaust immune scatter blouse chicken car swear";

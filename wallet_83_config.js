@@ -1,1 +1,1 @@
-var mnemonic = "alert october spy decide charge online other reason swing tag cinnamon judge";
+var mnemonic = "drive flame obtain can broom regret jungle real child science walnut brush";

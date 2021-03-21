@@ -1,1 +1,1 @@
-var mnemonic = "voyage husband relief mercy inflict place coffee object purse wheel minimum capable";
+var mnemonic = "day negative grow fire trim catch success short gallery undo whale normal";

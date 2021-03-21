@@ -1,1 +1,1 @@
-var mnemonic = "early drip route worth label day captain wisdom stumble rare connect attend";
+var mnemonic = "route february one excess side update title chicken island rice kind believe";

@@ -1,1 +1,1 @@
-var mnemonic = "fine diesel mandate wing crew shrug perfect wonder sport oil acquire flush";
+var mnemonic = "pill summer mushroom place poverty rookie sudden record nose because ripple lobster";

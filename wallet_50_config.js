@@ -1,1 +1,1 @@
-var mnemonic = "divorce young hair penalty page phone captain sand interest transfer loop hurry";
+var mnemonic = "text review medal husband runway dizzy brave square feel double obey lesson";

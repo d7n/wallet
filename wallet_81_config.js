@@ -1,1 +1,1 @@
-var mnemonic = "furnace table urban document guard winter ring crime fantasy glove october assume";
+var mnemonic = "copy shallow skirt lunch pudding amateur vehicle roof caught figure faith buffalo";

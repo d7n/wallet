@@ -1,1 +1,1 @@
-var mnemonic = "shoe aerobic pigeon arrow surprise actress hazard opera credit lift crawl trial";
+var mnemonic = "injury hand flush glory sort mandate brick danger apology wheel address divorce";

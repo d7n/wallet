@@ -1,1 +1,1 @@
-var mnemonic = "dress canyon neutral rally project caution blur scale raw course hotel knife";
+var mnemonic = "cactus saddle genius inspire lamp hockey impulse owner salon unusual kingdom ski";

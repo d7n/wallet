@@ -1,1 +1,1 @@
-var mnemonic = "property spend profit slide later bean deny athlete giant asthma police polar";
+var mnemonic = "artefact iron powder own scale cherry sniff jewel praise swallow case grape";

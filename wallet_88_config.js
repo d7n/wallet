@@ -1,1 +1,1 @@
-var mnemonic = "beef essay bronze sweet siren chat motion accident remove swamp chronic stay";
+var mnemonic = "blush garlic demise athlete laptop slot they minor lecture biology eye magnet";

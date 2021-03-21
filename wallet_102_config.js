@@ -1,1 +1,1 @@
-var mnemonic = "moral major build jealous census vault enrich denial narrow bicycle tail sure";
+var mnemonic = "december twice wreck attack where nurse royal option noodle tourist way liberty";

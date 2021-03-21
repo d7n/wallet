@@ -1,1 +1,1 @@
-var mnemonic = "start peanut three fitness option office piece tell dizzy swift canal honey";
+var mnemonic = "coyote recipe excess remind casino cross leaf style unknown bullet proof cage";

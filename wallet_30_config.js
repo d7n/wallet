@@ -1,1 +1,1 @@
-var mnemonic = "science middle raw parrot label symbol observe grab wage call black laptop";
+var mnemonic = "sunny aware miracle imitate engage sun usage joke razor track rotate monitor";

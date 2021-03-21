@@ -1,1 +1,1 @@
-var mnemonic = "oven clever addict better solid wisdom act anchor satisfy impact pave write";
+var mnemonic = "memory jungle almost cement blade torch mention sign increase better tape labor";

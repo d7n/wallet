@@ -1,1 +1,1 @@
-var mnemonic = "pink matrix room can sock tiger where marble other unit crane tackle";
+var mnemonic = "ticket member wolf bullet plastic citizen scissors give latin fault era smart";

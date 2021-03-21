@@ -1,1 +1,1 @@
-var mnemonic = "secret coffee flock nominee twin enemy such unveil dog execute split cat";
+var mnemonic = "shine sunset pulse wood deliver annual lift author away lazy edit mesh";

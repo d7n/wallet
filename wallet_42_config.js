@@ -1,1 +1,1 @@
-var mnemonic = "client gesture crop frost phone elevator hockey paddle verify topic rate game";
+var mnemonic = "child logic dawn loyal sail there donate whisper high sing maid exercise";

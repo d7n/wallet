@@ -1,1 +1,1 @@
-var mnemonic = "chef gap crawl inmate thunder sample derive warfare damp mansion essay review";
+var mnemonic = "promote like loud twenty wear dilemma circle february favorite educate trial praise";

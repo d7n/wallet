@@ -1,1 +1,1 @@
-var mnemonic = "choose tornado trust chapter salon trouble another champion eagle fresh sponsor multiply";
+var mnemonic = "steel task worry orange bronze symbol sword silk cushion horse joke lava";

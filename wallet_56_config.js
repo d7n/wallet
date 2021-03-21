@@ -1,1 +1,1 @@
-var mnemonic = "imitate drastic alcohol cycle alarm net chalk raven mammal sweet staff image";
+var mnemonic = "danger dentist engage goat april magnet woman term trade edge topic tent";

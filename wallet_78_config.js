@@ -1,1 +1,1 @@
-var mnemonic = "couch exit gather expose code correct toss taste wise rough always tide";
+var mnemonic = "pear cruel ugly cattle concert glory blossom pistol salad view daring once";

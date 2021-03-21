@@ -1,1 +1,1 @@
-var mnemonic = "inject behave stadium display retreat carbon size detect shiver pause swap brave";
+var mnemonic = "purchase nature badge change glow pottery gold spring minimum depend there beef";

@@ -1,1 +1,1 @@
-var mnemonic = "cause traffic kidney topple labor glue steak december gadget size mask flush";
+var mnemonic = "master diamond small good own cheap time stand accident floor area salute";

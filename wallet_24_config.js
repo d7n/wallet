@@ -1,1 +1,1 @@
-var mnemonic = "submit steel hero sock wrap gold warrior unable angle accident system economy";
+var mnemonic = "join entry angle congress mean ill occur resource arch loud fiber club";

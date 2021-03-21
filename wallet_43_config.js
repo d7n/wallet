@@ -1,1 +1,1 @@
-var mnemonic = "long solar peasant mix arrow vibrant bleak either autumn renew sight smile";
+var mnemonic = "tired video egg travel immune wolf census couple retreat general awful margin";

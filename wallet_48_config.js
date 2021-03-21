@@ -1,1 +1,1 @@
-var mnemonic = "raccoon medal wait affair torch ranch coast pipe grid board large yard";
+var mnemonic = "hybrid same actress famous sphere before super output dream satoshi sunset wide";

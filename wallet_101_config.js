@@ -1,1 +1,1 @@
-var mnemonic = "anxiety concert marble hazard state wage autumn ball elbow pen category neutral";
+var mnemonic = "lunar gesture major budget ribbon guide goddess engine awkward lady labor mouse";

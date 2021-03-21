@@ -1,1 +1,1 @@
-var mnemonic = "nest slogan engine march analyst gospel drift lucky math lyrics opinion film";
+var mnemonic = "scheme mesh praise ceiling sunset stay argue taxi loyal upon joy duty";

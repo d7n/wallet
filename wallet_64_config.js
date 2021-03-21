@@ -1,1 +1,1 @@
-var mnemonic = "federal hold target muscle steak cat fiber join cotton train mushroom calm";
+var mnemonic = "cruel aerobic work already box wood buyer end solution flock badge sign";

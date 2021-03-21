@@ -1,1 +1,1 @@
-var mnemonic = "reward donor tonight file embark actress fee deal lock you alcohol amazing";
+var mnemonic = "verify glimpse market attend devote blood eight castle gold school canoe wrong";

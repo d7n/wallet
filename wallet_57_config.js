@@ -1,1 +1,1 @@
-var mnemonic = "bunker firm awake spy certain tornado flavor conduct rich diamond ticket sphere";
+var mnemonic = "liberty rate expire cattle voice media day garment review outside fog nut";

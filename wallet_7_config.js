@@ -1,1 +1,1 @@
-var mnemonic = "bright beef trumpet winter safe laptop expose leader viable image debate clump";
+var mnemonic = "diamond rural tumble private day valve mercy cook industry upset basket lottery";

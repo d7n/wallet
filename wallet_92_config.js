@@ -1,1 +1,1 @@
-var mnemonic = "agent note execute twice tree trigger sample excite pipe abandon nest endless";
+var mnemonic = "step fault mercy impose gather crisp cry treat buzz typical trust proud";

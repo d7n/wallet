@@ -1,1 +1,1 @@
-var mnemonic = "peace tooth movie soda bulk garlic series risk way insect control live";
+var mnemonic = "sail pull congress mom before other chef business employ pair choice thought";

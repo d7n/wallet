@@ -1,1 +1,1 @@
-var mnemonic = "elephant country muscle kidney tube picnic lumber humor hunt lobster power end";
+var mnemonic = "minute what entire timber meat bless cliff series crop sad ice sibling";

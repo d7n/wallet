@@ -1,1 +1,1 @@
-var mnemonic = "shine town cat oxygen vicious chimney mango pride nurse cross crack mask";
+var mnemonic = "swear squeeze girl gown helmet maple alert basic shield correct demise envelope";

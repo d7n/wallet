@@ -1,1 +1,1 @@
-var mnemonic = "large guard eternal runway film reason hen lobster lawsuit trash list add";
+var mnemonic = "length short funny muffin caution plug assault thought route number immense color";

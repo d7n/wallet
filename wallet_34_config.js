@@ -1,1 +1,1 @@
-var mnemonic = "public faint gravity yard peanut hood grocery thumb blame garden sphere roof";
+var mnemonic = "drive alter fly confirm crucial blind reunion over slam giant post label";

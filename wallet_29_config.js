@@ -1,1 +1,1 @@
-var mnemonic = "barrel witness gaze base fatal tonight hurt balcony fee fold spirit stock";
+var mnemonic = "february holiday until rose post embark debris want manual biology maximum tree";
