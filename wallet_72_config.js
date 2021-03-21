@@ -1,1 +1,1 @@
-var mnemonic = "fish coffee fresh spatial wolf wire dose party ordinary awesome cabbage dumb";
+var mnemonic = "evidence print idea blame account local squirrel heavy rack toss chicken slice";

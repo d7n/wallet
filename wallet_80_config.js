@@ -1,1 +1,1 @@
-var mnemonic = "round opinion feed custom vendor pudding skin mind moral combine door post";
+var mnemonic = "gift myself shop angle cause giggle mandate carbon hen toddler embrace proof";

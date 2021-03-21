@@ -1,1 +1,1 @@
-var mnemonic = "exchange fetch essay february float aware chief bachelor later vendor company pencil";
+var mnemonic = "correct replace tonight love snack return wreck forum juice mouse yard phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "roast tribe danger guess upgrade fatigue bind mandate six bridge caution oak";
+var mnemonic = "female object gossip together thing april horn habit path grief thumb demand";

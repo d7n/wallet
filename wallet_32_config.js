@@ -1,1 +1,1 @@
-var mnemonic = "own position remove vacant wrong green clap trade wonder umbrella steel frost";
+var mnemonic = "festival sphere forget either frequent general visual basic mystery crush error rural";

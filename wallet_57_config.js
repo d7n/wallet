@@ -1,1 +1,1 @@
-var mnemonic = "large limb busy bubble report sick tackle spot project extra where social";
+var mnemonic = "immense play bean donkey brisk unit bottom useless ordinary know female oval";

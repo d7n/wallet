@@ -1,1 +1,1 @@
-var mnemonic = "laptop saddle core coin library juice foot medal card praise online march";
+var mnemonic = "find reunion mirror virus hunt scare enough coffee toss verify gown hole";

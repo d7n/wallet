@@ -1,1 +1,1 @@
-var mnemonic = "nasty orphan burst park alpha embrace collect heavy current gauge excite mean";
+var mnemonic = "vicious horse aim eagle salute laundry now okay mutual bargain nice essence";

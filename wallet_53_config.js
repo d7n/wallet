@@ -1,1 +1,1 @@
-var mnemonic = "dawn region local blush good category mystery picnic curious ghost attract desert";
+var mnemonic = "grid split virus clump stereo number doctor protect culture achieve antenna crane";

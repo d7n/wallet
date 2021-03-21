@@ -1,1 +1,1 @@
-var mnemonic = "orchard blanket left bacon focus fun holiday boy drift adapt photo where";
+var mnemonic = "clip mechanic ability deal leg brush stage baby market ozone nasty topic";

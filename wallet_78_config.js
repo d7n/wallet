@@ -1,1 +1,1 @@
-var mnemonic = "velvet west all release drum dolphin become other enough exist fetch mixed";
+var mnemonic = "mixture warfare brown awake trip vintage over dice salon modify page expect";

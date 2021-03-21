@@ -1,1 +1,1 @@
-var mnemonic = "fire page notable smooth play proud one whisper clean piano spare online";
+var mnemonic = "physical earn record dial utility update stage tragic unit shell omit among";

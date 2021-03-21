@@ -1,1 +1,1 @@
-var mnemonic = "vague hub crisp mercy toilet embrace dog gossip cat draft want tiny";
+var mnemonic = "stone witness comfort curve despair photo civil unfold torch oak frequent expand";

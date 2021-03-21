@@ -1,1 +1,1 @@
-var mnemonic = "theme inmate moment model kick bundle test divide champion chair holiday trial";
+var mnemonic = "program shine correct awful trophy reunion width empty tilt lake tonight wreck";

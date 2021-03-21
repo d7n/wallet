@@ -1,1 +1,1 @@
-var mnemonic = "inside vast foam scorpion wagon congress inspire flip until awake gospel comic";
+var mnemonic = "virtual duty artist learn lawsuit want music imitate swing garment sunny clerk";

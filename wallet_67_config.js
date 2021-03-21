@@ -1,1 +1,1 @@
-var mnemonic = "faculty expire soldier birth usage horse select poet pave jelly neglect maze";
+var mnemonic = "tennis begin desk slide laptop smart skin wheel almost ice notice rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb craft spoil around stock debris gas fat area reopen buffalo club";
+var mnemonic = "globe step smile hover rough sock feel dial scrub area carbon female";

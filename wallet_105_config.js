@@ -1,1 +1,1 @@
-var mnemonic = "chunk glare just enable common excuse wine life access spatial nation proof";
+var mnemonic = "attitude squirrel quote churn cactus dream invest spawn you grant consider rough";

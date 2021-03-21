@@ -1,1 +1,1 @@
-var mnemonic = "asset trust people spell lobster charge ladder ski tackle logic jump earn";
+var mnemonic = "owner rigid match survey weasel gate uncle airport dice smooth erase twist";

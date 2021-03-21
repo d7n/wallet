@@ -1,1 +1,1 @@
-var mnemonic = "alone crop already medal real right bacon frown roast slim spice cream";
+var mnemonic = "wisdom erase warfare label share addict quarter phone whisper harsh hub globe";

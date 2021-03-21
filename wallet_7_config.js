@@ -1,1 +1,1 @@
-var mnemonic = "stadium nothing rival firm increase critic width rare cigar undo addict seven";
+var mnemonic = "wonder corn pumpkin liquid tissue label used thunder motion team jeans short";

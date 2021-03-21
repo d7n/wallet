@@ -1,1 +1,1 @@
-var mnemonic = "airport remove concert common hip neutral camera entry stone quality snake peace";
+var mnemonic = "urge wait story tag trim cable fetch film episode jewel join devote";

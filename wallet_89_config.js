@@ -1,1 +1,1 @@
-var mnemonic = "tank horror mansion else credit beyond treat panic solve dose goose lava";
+var mnemonic = "home door club chase future stone alley bundle tonight thumb field manage";

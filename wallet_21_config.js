@@ -1,1 +1,1 @@
-var mnemonic = "figure sleep twice sauce swing attend unfold pattern wash deal report bone";
+var mnemonic = "asthma black total tobacco have recycle sadness budget angle winner monster obscure";

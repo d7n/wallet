@@ -1,1 +1,1 @@
-var mnemonic = "rapid response label critic salmon accident zoo screen spirit decrease help fish";
+var mnemonic = "pattern another tenant history exile spike dial used skin narrow jar what";

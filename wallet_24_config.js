@@ -1,1 +1,1 @@
-var mnemonic = "elephant ladder cube fashion neither kingdom gas speak canvas vibrant zoo daughter";
+var mnemonic = "lobster urban attract innocent umbrella elegant staff ethics loan dinner address suspect";

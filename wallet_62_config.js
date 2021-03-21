@@ -1,1 +1,1 @@
-var mnemonic = "busy unfold thumb tilt narrow outer hip piano dizzy noodle clown fatal";
+var mnemonic = "blade whisper mix maple famous truly elbow huge steak island alley dice";

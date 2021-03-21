@@ -1,1 +1,1 @@
-var mnemonic = "tenant increase despair indicate divide hockey canyon share turtle summer cake room";
+var mnemonic = "unknown organ country pottery zone balance annual ready install style ribbon vanish";

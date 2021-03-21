@@ -1,1 +1,1 @@
-var mnemonic = "chunk assume wood icon street impose tunnel grape grid kitchen aunt fold";
+var mnemonic = "sleep inflict globe frog dance weird shoe area ghost token horror meadow";

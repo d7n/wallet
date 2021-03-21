@@ -1,1 +1,1 @@
-var mnemonic = "drift harsh shuffle noodle arctic dumb remind dragon flag atom buyer grit";
+var mnemonic = "connect dismiss sentence comic sail often finish possible client cute album glare";

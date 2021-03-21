@@ -1,1 +1,1 @@
-var mnemonic = "dignity invite sight fan spot lend lava paddle citizen copy couple velvet";
+var mnemonic = "blood target another sudden canyon office visa drift minor any history sustain";

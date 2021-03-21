@@ -1,1 +1,1 @@
-var mnemonic = "elephant short door banner security fatal reunion color process logic crumble remember";
+var mnemonic = "soul giraffe siren solid ten square palm soon easily build shallow win";

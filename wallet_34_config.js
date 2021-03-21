@@ -1,1 +1,1 @@
-var mnemonic = "end couch venue idle agent crazy bulk tackle globe horse sorry crunch";
+var mnemonic = "maximum visual trap question cluster air coin fan rose slogan sea craft";

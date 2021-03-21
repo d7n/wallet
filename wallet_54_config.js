@@ -1,1 +1,1 @@
-var mnemonic = "traffic shrimp range rather kiss come debris child utility dumb trash taste";
+var mnemonic = "problem habit reduce hunt wrestle also anxiety dilemma corn atom cage crew";

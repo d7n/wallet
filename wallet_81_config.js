@@ -1,1 +1,1 @@
-var mnemonic = "inject fresh ordinary gauge work click leaf engine wealth burst language guide";
+var mnemonic = "noise alone kit album economy speak glove become subject make toilet hair";

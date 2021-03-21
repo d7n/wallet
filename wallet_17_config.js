@@ -1,1 +1,1 @@
-var mnemonic = "grape traffic response rug expire skull warfare enable account argue useless smoke";
+var mnemonic = "slow hobby find finger kiss flag twist rent wealth limit drill rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy outer antique summer nephew east truck impulse stereo swap carpet system";
+var mnemonic = "virtual loud repeat guilt crop reopen fatal inflict walk taste foil giant";

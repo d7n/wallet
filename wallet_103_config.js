@@ -1,1 +1,1 @@
-var mnemonic = "icon daughter purity alter work spin business give govern grit start blood";
+var mnemonic = "inhale dog dream blood recipe spray oil math need bottom core bright";

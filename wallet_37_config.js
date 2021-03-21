@@ -1,1 +1,1 @@
-var mnemonic = "blue sing gown mammal license profit eight crush noodle card merge combine";
+var mnemonic = "program tornado tent nut agree fiscal frequent rubber silk embody knee zone";

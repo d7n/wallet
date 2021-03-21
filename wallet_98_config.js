@@ -1,1 +1,1 @@
-var mnemonic = "bright pepper net onion flee rebuild insane enjoy hard finger spice pass";
+var mnemonic = "put cinnamon punch already cable fiscal radio weapon reject initial muscle clog";

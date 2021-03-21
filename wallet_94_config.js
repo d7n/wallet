@@ -1,1 +1,1 @@
-var mnemonic = "breeze humble lava solution rookie galaxy baby stadium powder erode critic spy";
+var mnemonic = "mouse wrap employ search broom vendor couple benefit weekend royal thing smooth";

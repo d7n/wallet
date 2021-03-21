@@ -1,1 +1,1 @@
-var mnemonic = "suffer raccoon egg walk moral obtain love recall occur neglect property toss";
+var mnemonic = "waste universe slot century web whisper arctic ticket universe divide loop chuckle";

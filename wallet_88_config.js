@@ -1,1 +1,1 @@
-var mnemonic = "garbage digital unusual rookie merge meat bus blast candy brief erupt soap";
+var mnemonic = "switch lecture collect fix biology drill chalk fork life source trigger tribe";

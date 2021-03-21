@@ -1,1 +1,1 @@
-var mnemonic = "lunch sock faculty pig broom price exotic ready perfect right acid memory";
+var mnemonic = "steel morning foot quality memory diamond pencil tattoo upper afford sad wire";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow jungle buffalo buyer horror roast recycle disagree inch orphan young dance";
+var mnemonic = "album fragile mad middle middle beauty price husband rule write grit clever";

@@ -1,1 +1,1 @@
-var mnemonic = "grow lobster rifle atom rival vessel uniform return frost luggage stay gift";
+var mnemonic = "scissors peasant illegal wish warfare fever quantum stomach bone equal velvet orient";

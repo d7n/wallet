@@ -1,1 +1,1 @@
-var mnemonic = "pool fat phrase fabric glass girl submit swear hobby guitar trend clerk";
+var mnemonic = "ancient sand before spawn badge stomach shock must catch syrup layer fresh";

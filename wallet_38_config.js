@@ -1,1 +1,1 @@
-var mnemonic = "helmet animal maze fringe rug cat enlist cupboard copy sadness forget vacuum";
+var mnemonic = "license leave exercise fresh lady surprise inherit hurry promote rapid ramp detect";

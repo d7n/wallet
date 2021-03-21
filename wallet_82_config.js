@@ -1,1 +1,1 @@
-var mnemonic = "test ahead various want define call angry gasp holiday reform flush defense";
+var mnemonic = "vast venue planet name auction resemble vanish grief unlock sell plug wife";

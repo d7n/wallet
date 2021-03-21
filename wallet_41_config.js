@@ -1,1 +1,1 @@
-var mnemonic = "edge repair bar lunch delay large unknown you saddle prepare ensure lab";
+var mnemonic = "laugh enter rather play budget village sleep feed season base update hybrid";

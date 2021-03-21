@@ -1,1 +1,1 @@
-var mnemonic = "rich mansion ghost abuse atom pencil result grace cake guess torch virtual";
+var mnemonic = "index casual brisk hole oil salmon sight cruel grunt abuse aim virtual";

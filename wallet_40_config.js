@@ -1,1 +1,1 @@
-var mnemonic = "blanket soup hedgehog search upper indoor tunnel elegant cinnamon fault when trap";
+var mnemonic = "modify kitchen account someone pipe cross gun orient world nuclear real replace";

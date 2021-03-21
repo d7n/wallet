@@ -1,1 +1,1 @@
-var mnemonic = "tank auto clever deny fee fun bronze diary food kidney regret city";
+var mnemonic = "travel weasel ancient typical orbit brave occur sniff cancel relax fiber scheme";

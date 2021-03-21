@@ -1,1 +1,1 @@
-var mnemonic = "filter grab perfect average bring easily region army lawn entry old shuffle";
+var mnemonic = "scrap afraid witness snack virtual brisk eager dignity palm area vintage wedding";

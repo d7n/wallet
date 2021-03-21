@@ -1,1 +1,1 @@
-var mnemonic = "town able rice stuff moment easily matter risk rebuild boost welcome trim";
+var mnemonic = "elite detail merry avoid analyst cousin bronze diary indicate faith company liar";

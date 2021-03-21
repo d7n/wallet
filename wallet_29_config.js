@@ -1,1 +1,1 @@
-var mnemonic = "trip song sauce narrow vapor upon town when wash approve satisfy balcony";
+var mnemonic = "immune notice later phone trigger flight tape kiwi canvas clock arctic this";

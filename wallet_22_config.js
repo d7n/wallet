@@ -1,1 +1,1 @@
-var mnemonic = "beauty walnut peasant witness actor journey blossom screen move about about major";
+var mnemonic = "attack tattoo hurt glimpse core business indoor family genius donkey own fix";

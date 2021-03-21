@@ -1,1 +1,1 @@
-var mnemonic = "absorb eagle arrive concert woman soon parade prefer lucky music engine peace";
+var mnemonic = "erase citizen afford age noble fossil grace reason goose embrace tired copy";

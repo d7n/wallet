@@ -1,1 +1,1 @@
-var mnemonic = "island initial card arctic legal episode raven cotton prefer effort frown oval";
+var mnemonic = "fire alarm kite scissors still bounce rug modify sibling safe oblige orient";

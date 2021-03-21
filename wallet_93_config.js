@@ -1,1 +1,1 @@
-var mnemonic = "fit approve also close entire champion age act asset quantum pole view";
+var mnemonic = "style danger pioneer region rotate team echo patch funny slide patch pledge";

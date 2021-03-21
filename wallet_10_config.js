@@ -1,1 +1,1 @@
-var mnemonic = "magic pause hawk milk carbon wire rigid trick car caution excuse just";
+var mnemonic = "antique rent cattle control crazy animal plate original canoe success beach scissors";

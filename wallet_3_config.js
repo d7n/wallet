@@ -1,1 +1,1 @@
-var mnemonic = "unusual level side discover mosquito shaft sauce parade budget leisure initial funny";
+var mnemonic = "anger fade dragon post master remember mention sudden light addict seat oil";

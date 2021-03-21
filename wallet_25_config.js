@@ -1,1 +1,1 @@
-var mnemonic = "mountain garlic actress approve crop theory glimpse gate laugh avoid shift slam";
+var mnemonic = "jungle boost enroll sugar prevent field curve nose brief remember million unfair";

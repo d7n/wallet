@@ -1,1 +1,1 @@
-var mnemonic = "hollow pepper drum science degree neither hand country document fury insect lobster";
+var mnemonic = "cover collect speed aim two chef riot clean toilet kiwi divert appear";

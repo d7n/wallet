@@ -1,1 +1,1 @@
-var mnemonic = "coral final solid apology similar alley fever apple ritual actual skate taxi";
+var mnemonic = "tongue rack return labor february behave wheel gospel volcano hurdle treat kite";

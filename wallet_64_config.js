@@ -1,1 +1,1 @@
-var mnemonic = "all brush energy enforce pyramid fiber enter hope resist citizen legal radio";
+var mnemonic = "quit judge original extend curve island scrub tape key gun turtle banner";

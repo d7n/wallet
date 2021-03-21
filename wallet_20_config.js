@@ -1,1 +1,1 @@
-var mnemonic = "trigger spider file jazz wheel nut truck crystal abuse modify simple observe";
+var mnemonic = "sniff faith slot debris blush hood lazy prefer holiday one tongue cousin";

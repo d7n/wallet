@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin clinic mirror frown pluck pink diary shed clip divide cost fiscal";
+var mnemonic = "sign tuition apple glance mercy share ensure useless kid argue piano immune";

@@ -1,1 +1,1 @@
-var mnemonic = "spend fabric chest talent receive exact swift hungry oven file radar grass";
+var mnemonic = "mutual worth motor about fan true bench clutch demise churn produce flight";

@@ -1,1 +1,1 @@
-var mnemonic = "wing order insect also better jacket hire rigid parrot grant door sell";
+var mnemonic = "future apology during hazard attack steel can cinnamon meadow hold account genius";

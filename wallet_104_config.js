@@ -1,1 +1,1 @@
-var mnemonic = "quiz nose such citizen trophy kitchen bacon scan primary engine outdoor bind";
+var mnemonic = "cigar excuse lens argue over type bronze there hidden vanish grief glad";

@@ -1,1 +1,1 @@
-var mnemonic = "any congress once script evidence region police victory game potato name tomorrow";
+var mnemonic = "tuna move blame burger useless general allow false obscure female aunt pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "across human pear agree today check employ lyrics amateur thing mechanic pink";
+var mnemonic = "intact cannon history elephant regret dry speed few stairs spring length grab";

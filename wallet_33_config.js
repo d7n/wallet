@@ -1,1 +1,1 @@
-var mnemonic = "high common frown material adjust mail kingdom recall wink wife stay setup";
+var mnemonic = "mobile artist wrist satoshi practice shiver dance embody frost december burger gentle";

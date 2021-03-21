@@ -1,1 +1,1 @@
-var mnemonic = "twice hole loan dune luggage friend armor message sound planet wolf domain";
+var mnemonic = "kid during stage legal employ vapor grab grid frequent obscure account offer";

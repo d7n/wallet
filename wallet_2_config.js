@@ -1,1 +1,1 @@
-var mnemonic = "short inspire shrimp mechanic faculty wreck blur cover fitness weather roast predict";
+var mnemonic = "try night artwork guide feed panda foil denial rival basket spike couple";

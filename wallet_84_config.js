@@ -1,1 +1,1 @@
-var mnemonic = "drill pole deal income bring cliff elevator weapon sausage blouse dutch print";
+var mnemonic = "aisle novel gentle protect cheap appear pitch wife pyramid lens pony various";

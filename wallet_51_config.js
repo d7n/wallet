@@ -1,1 +1,1 @@
-var mnemonic = "output duck short patch panther clerk powder glory twice flat special open";
+var mnemonic = "purchase cream inflict swap digital save crash square insect tent claw cricket";

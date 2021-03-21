@@ -1,1 +1,1 @@
-var mnemonic = "pond mother banana close cream lion craft witness cargo fetch trim arrest";
+var mnemonic = "betray depth caught amazing much blood spawn remind magnet figure theme today";

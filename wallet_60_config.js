@@ -1,1 +1,1 @@
-var mnemonic = "scan castle tiger steak gesture fine pave evoke swarm sphere struggle shoulder";
+var mnemonic = "hospital vehicle rough frog record exact spot cinnamon brave radio orange odor";

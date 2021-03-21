@@ -1,1 +1,1 @@
-var mnemonic = "coin digital basic embrace resemble toe home season mule list castle loop";
+var mnemonic = "hour salute empty plastic pupil cake vehicle reform stereo about champion inner";

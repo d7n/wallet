@@ -1,1 +1,1 @@
-var mnemonic = "curve build gym main language cable business wash velvet emotion shoe earth";
+var mnemonic = "valid connect salon stove common rally ranch rookie roof hint gas animal";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse fitness ethics praise chaos method rough shuffle salmon march thunder stem";
+var mnemonic = "welcome antenna shift salad chair fiction lake produce market retire stable seminar";

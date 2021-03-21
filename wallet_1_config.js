@@ -1,1 +1,1 @@
-var mnemonic = "clarify card pet allow member collect first forward symptom lens melt worry";
+var mnemonic = "same vast morning judge brain shoot woman coast quick belt kit ribbon";

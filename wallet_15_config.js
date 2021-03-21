@@ -1,1 +1,1 @@
-var mnemonic = "catch author music floor also witness step predict beach summer power tool";
+var mnemonic = "boost color heavy beauty identify dinner boy fork cannon humble rail cook";

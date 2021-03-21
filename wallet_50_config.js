@@ -1,1 +1,1 @@
-var mnemonic = "either hole drink boost crisp meat tower equal action brave urban recycle";
+var mnemonic = "denial aerobic defy marine screen extra chronic change build shoulder trend assault";

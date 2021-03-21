@@ -1,1 +1,1 @@
-var mnemonic = "match system silent universe tomato eager nominee thing twenty image burden kingdom";
+var mnemonic = "cement country rifle govern rapid victory brisk enroll task inflict lift nation";

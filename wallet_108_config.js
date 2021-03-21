@@ -1,1 +1,1 @@
-var mnemonic = "tail recycle fancy ship addict wrestle seat reward choice symptom card brief";
+var mnemonic = "panther magic rigid harbor shed brush joy able rare jar wait mimic";

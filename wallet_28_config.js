@@ -1,1 +1,1 @@
-var mnemonic = "fox sibling rice endless become canoe sustain spell keep drastic filter volume";
+var mnemonic = "snow guess feel delay voyage occur left verify north habit around coach";

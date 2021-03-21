@@ -1,1 +1,1 @@
-var mnemonic = "rocket annual element flat sentence brave unusual lion net park vicious clog";
+var mnemonic = "later wife knee total wrist soldier alien infant top connect mix exercise";

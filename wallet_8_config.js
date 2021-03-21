@@ -1,1 +1,1 @@
-var mnemonic = "have night injury agent save daughter autumn retreat move ensure mystery guess";
+var mnemonic = "access drink health legal diesel capable beyond canal jar genuine sight axis";

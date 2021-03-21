@@ -1,1 +1,1 @@
-var mnemonic = "adult birth rhythm fit live eager that much usual worry hollow hello";
+var mnemonic = "maximum allow suspect glad opinion bronze bring talent owner tower loan adapt";

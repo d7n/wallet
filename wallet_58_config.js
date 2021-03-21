@@ -1,1 +1,1 @@
-var mnemonic = "layer measure amateur clean parrot correct fabric brisk mystery fold render vacant";
+var mnemonic = "decide skill cage stone license cruel calm kangaroo post emotion pink stay";

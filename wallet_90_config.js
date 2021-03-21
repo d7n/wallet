@@ -1,1 +1,1 @@
-var mnemonic = "shell artist tree elephant skirt subway subject common evil wreck act horror";
+var mnemonic = "betray pause grow absent dwarf myself mushroom identify analyst sphere menu chief";
