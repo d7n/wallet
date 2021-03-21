@@ -1,1 +1,1 @@
-var mnemonic = "draw like slide rose gauge ball city gentle boring essence affair tourist";
+var mnemonic = "distance envelope leader also story review walnut dumb repeat merry twin fat";

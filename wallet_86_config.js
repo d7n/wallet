@@ -1,1 +1,1 @@
-var mnemonic = "fork gospel champion crunch donor where burden swap soul crack tenant borrow";
+var mnemonic = "acquire make under unfair robust either like pony column spike number motor";

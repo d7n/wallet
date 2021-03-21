@@ -1,1 +1,1 @@
-var mnemonic = "weather electric weekend start upgrade ready upon dune wave best squeeze soccer";
+var mnemonic = "task blossom shoot raise chapter horror craft fragile shop online umbrella elder";

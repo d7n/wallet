@@ -1,1 +1,1 @@
-var mnemonic = "any lazy peanut razor exit goose cart avoid tuition endless misery retire";
+var mnemonic = "cart search mushroom creek roast oppose book toward virus hammer legend exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "donor hold banner evolve upset multiply valid inform side sudden tip guide";
+var mnemonic = "satoshi buzz barrel exercise rubber taxi december trumpet flee unhappy ribbon lock";

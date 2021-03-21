@@ -1,1 +1,1 @@
-var mnemonic = "media wisdom fruit clean syrup depth usage crisp eternal feel still sport";
+var mnemonic = "logic panther yard clinic rhythm future inject secret grass axis risk usage";

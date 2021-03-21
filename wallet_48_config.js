@@ -1,1 +1,1 @@
-var mnemonic = "wire vintage census flower sketch throw stand include desk purchase chair skill";
+var mnemonic = "ill dry broom about settle toddler valid aspect among normal butter decide";

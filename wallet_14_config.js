@@ -1,1 +1,1 @@
-var mnemonic = "current item burger protect fiber blood loud surround food confirm valley fix";
+var mnemonic = "text giraffe coach disease canvas entire bind unique access erase cute reform";

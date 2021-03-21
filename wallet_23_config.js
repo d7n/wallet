@@ -1,1 +1,1 @@
-var mnemonic = "eye equal six voice excuse cruise world apart vacuum slab artist frame";
+var mnemonic = "bid wealth useful worry aunt tank pretty decline diesel increase slogan brisk";

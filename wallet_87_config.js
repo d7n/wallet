@@ -1,1 +1,1 @@
-var mnemonic = "empty swap under suggest current spring train possible saddle film lens faculty";
+var mnemonic = "indoor minimum census fault orient daughter solution response cushion stumble brush maze";

@@ -1,1 +1,1 @@
-var mnemonic = "gather comfort quiz pottery cook tattoo melody limit invest tragic mandate decorate";
+var mnemonic = "fatigue help casino sentence vicious mobile snack lift spirit fetch open garlic";

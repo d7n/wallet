@@ -1,1 +1,1 @@
-var mnemonic = "usual crumble mandate april north detect steak city lion bread jacket nose";
+var mnemonic = "service surround access eight fox gloom scene boost history nothing wasp sudden";

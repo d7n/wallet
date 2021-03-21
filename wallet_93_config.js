@@ -1,1 +1,1 @@
-var mnemonic = "wet river annual multiply bike profit nest medal noodle outside vintage crater";
+var mnemonic = "slim culture open story correct above window pizza squeeze skirt wide couple";

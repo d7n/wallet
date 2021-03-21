@@ -1,1 +1,1 @@
-var mnemonic = "robust shallow endless soon desk unknown senior twice pistol lamp omit visa";
+var mnemonic = "alone verify kite century sight pilot calm suggest puppy collect float measure";

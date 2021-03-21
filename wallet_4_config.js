@@ -1,1 +1,1 @@
-var mnemonic = "solution elite topic stable hotel soft reason universe icon mechanic vendor slow";
+var mnemonic = "warm autumn genuine token tomato kind hurry seek improve shy lounge rescue";

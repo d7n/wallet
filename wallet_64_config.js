@@ -1,1 +1,1 @@
-var mnemonic = "employ ketchup drip time minor tattoo another habit estate unusual need doctor";
+var mnemonic = "glad heart include target stable faculty hair jewel south nasty bracket north";

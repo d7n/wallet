@@ -1,1 +1,1 @@
-var mnemonic = "pig cotton absent canvas season modify try sausage burst border grass hamster";
+var mnemonic = "video monkey dove throw rifle door benefit answer else problem actress love";

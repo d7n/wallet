@@ -1,1 +1,1 @@
-var mnemonic = "travel fantasy pause cushion song sibling tourist reunion vendor hedgehog voice price";
+var mnemonic = "rare follow seek volcano parade credit island crucial expect senior beyond hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin only chair oxygen pitch wife plate dinner depth agree dizzy spice";
+var mnemonic = "destroy daughter abuse hurry portion senior congress curious chief universe october tongue";

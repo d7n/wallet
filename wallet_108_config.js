@@ -1,1 +1,1 @@
-var mnemonic = "method lemon blur soap crisp quarter axis office limit correct awesome envelope";
+var mnemonic = "echo measure water require elevator prefer outer bargain master leisure vibrant when";

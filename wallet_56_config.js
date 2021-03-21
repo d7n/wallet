@@ -1,1 +1,1 @@
-var mnemonic = "control letter kid grow teach wet side moral body hip cycle diet";
+var mnemonic = "series join slow demand salmon again wonder width hybrid boy scissors whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "roof feed lizard jazz extend toss cruise april limb color want amount";
+var mnemonic = "woman laundry symptom voyage major august zero smile excuse width prison cat";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly enjoy six between guitar army fossil home keen opera accident soap";
+var mnemonic = "afraid match jar supreme increase sea hire warrior bus approve copper banana";

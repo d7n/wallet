@@ -1,1 +1,1 @@
-var mnemonic = "essay sign chuckle exhaust ill select stable swim relief tobacco remain tuition";
+var mnemonic = "position inner lab payment steel already speed seminar valley omit thought lift";

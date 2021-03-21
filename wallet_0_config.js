@@ -1,1 +1,1 @@
-var mnemonic = "match real rib sail tiger squeeze poverty summer useful moon purse dove";
+var mnemonic = "dial merry daughter exchange puppy burst police casual trial rotate punch dash";

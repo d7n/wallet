@@ -1,1 +1,1 @@
-var mnemonic = "coral enough usage foster put gossip gown tunnel recall inhale brand guilt";
+var mnemonic = "citizen broken girl sound trip vault inch fat argue sad patrol enact";

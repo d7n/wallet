@@ -1,1 +1,1 @@
-var mnemonic = "reform toss correct abandon infant ethics fox firm loan conduct point tone";
+var mnemonic = "window business ritual knock midnight worth crack print display proud morning tomorrow";

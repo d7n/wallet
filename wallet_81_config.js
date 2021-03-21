@@ -1,1 +1,1 @@
-var mnemonic = "private exhibit aware south grocery genuine acoustic audit donor monster main venue";
+var mnemonic = "observe bring combine file under nature embody destroy measure canal seed mansion";

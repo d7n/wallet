@@ -1,1 +1,1 @@
-var mnemonic = "poverty escape humble broken various coach art become attract sheriff million ceiling";
+var mnemonic = "motion short rate immense grant rotate youth announce frame over exit sad";

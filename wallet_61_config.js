@@ -1,1 +1,1 @@
-var mnemonic = "milk taste display call axis wreck spawn diagram problem angle boss climb";
+var mnemonic = "anger glove dutch erupt supply usage buddy olive stand base uncle enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "empty jazz delay fun property crime coconut upgrade reunion digital slight grit";
+var mnemonic = "gauge glow learn fruit assault sleep skill clean stadium hurdle method cereal";

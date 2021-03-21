@@ -1,1 +1,1 @@
-var mnemonic = "coin bronze library bottom guard tornado crunch bacon dwarf scrap topic skin";
+var mnemonic = "viable orbit snap cable swallow dance grid hurry cheese ahead poverty file";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward gift wheel foot nephew physical sketch warrior unfair labor orchard echo";
+var mnemonic = "sock shoot foam hybrid blast unknown around pair resource amused valve survey";

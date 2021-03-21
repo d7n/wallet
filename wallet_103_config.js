@@ -1,1 +1,1 @@
-var mnemonic = "link hole hello bacon liar among gesture digital laptop surprise habit approve";
+var mnemonic = "spider soul claw true enter ivory swim weasel bag repair domain inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "casino wage fish morning another liquid black maple north devote fall blast";
+var mnemonic = "slide champion legend sunny click inherit twenty stick display normal glare elite";

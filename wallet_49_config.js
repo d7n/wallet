@@ -1,1 +1,1 @@
-var mnemonic = "credit drive flavor obscure angle ill quality obtain usual road talk license";
+var mnemonic = "layer wood isolate struggle build when what pet bright maid tag transfer";

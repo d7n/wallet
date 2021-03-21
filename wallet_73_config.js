@@ -1,1 +1,1 @@
-var mnemonic = "radio parade naive reveal liberty own iron fancy arm drop wise coil";
+var mnemonic = "jelly ball example ladder penalty diesel pig badge earth insect boy manage";

@@ -1,1 +1,1 @@
-var mnemonic = "glory roof rough capital divorce spy cream similar process clay rally learn";
+var mnemonic = "sphere another grit hollow apple flag august cattle carry elevator confirm together";

@@ -1,1 +1,1 @@
-var mnemonic = "enact local dream blue bargain title notice blouse repair rifle cycle silly";
+var mnemonic = "valley legend raise seed suit mesh vendor pledge fabric social code concert";

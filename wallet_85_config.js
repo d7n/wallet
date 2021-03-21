@@ -1,1 +1,1 @@
-var mnemonic = "method polar vast pear city injury myth borrow math dentist credit place";
+var mnemonic = "ivory forward prosper nominee rural manual arrange group either student machine cattle";

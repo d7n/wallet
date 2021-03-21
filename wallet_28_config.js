@@ -1,1 +1,1 @@
-var mnemonic = "supreme position achieve come begin address impose erode crop bid month tent";
+var mnemonic = "misery embrace wood shell thrive code guess since glory army pattern maid";

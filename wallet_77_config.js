@@ -1,1 +1,1 @@
-var mnemonic = "reflect army hollow flight amateur woman exclude check banner unhappy armed axis";
+var mnemonic = "subject obtain ladder about sport music charge cheap muffin ensure universe budget";

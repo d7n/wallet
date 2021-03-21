@@ -1,1 +1,1 @@
-var mnemonic = "speed tank merit hurdle luggage exit price veteran choice palm mimic robot";
+var mnemonic = "advance secret hold industry test loud valid feed betray iron worry unaware";

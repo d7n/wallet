@@ -1,1 +1,1 @@
-var mnemonic = "toss sugar depend corn security room pony hybrid barely easily romance cotton";
+var mnemonic = "item top length regret music helmet fox burger claw gun portion metal";

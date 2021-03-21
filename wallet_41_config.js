@@ -1,1 +1,1 @@
-var mnemonic = "yard absent aim balance crucial cereal clay run surface dog carbon fruit";
+var mnemonic = "timber identify very egg process airport myth caught feature concert garden begin";

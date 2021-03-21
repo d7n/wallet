@@ -1,1 +1,1 @@
-var mnemonic = "fuel horn achieve black rich slight host north ritual dwarf become about";
+var mnemonic = "page miracle question name industry endless plug topple soldier word away left";

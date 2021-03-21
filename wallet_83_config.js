@@ -1,1 +1,1 @@
-var mnemonic = "erupt wink size search dune age interest village glove flight river quit";
+var mnemonic = "century review trouble allow lawn exhaust distance sock slender brass arrest sentence";

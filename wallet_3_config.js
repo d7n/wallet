@@ -1,1 +1,1 @@
-var mnemonic = "young cheese include girl surface into apple draft palace manage suspect fatal";
+var mnemonic = "edit cave chief asthma swear ritual sponsor million anchor organ what memory";

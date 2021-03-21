@@ -1,1 +1,1 @@
-var mnemonic = "burst vast elite hammer danger strike canal federal true you stone will";
+var mnemonic = "scissors plastic move service energy old scene service galaxy elevator crop maple";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor pencil vendor prison wild layer cereal friend wisdom marriage cabin wish";
+var mnemonic = "keep snow point future present retire connect refuse play spend welcome core";

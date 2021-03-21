@@ -1,1 +1,1 @@
-var mnemonic = "plastic tiny omit coconut happy attend put army switch sphere nut mango";
+var mnemonic = "kick unlock snake sauce avocado tobacco prefer fire fine payment weekend throw";

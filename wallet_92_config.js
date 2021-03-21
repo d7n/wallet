@@ -1,1 +1,1 @@
-var mnemonic = "enemy engine van rival scan pioneer what broccoli remember advice pull magic";
+var mnemonic = "say fresh nice erode hazard average engine sword style weather day torch";

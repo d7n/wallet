@@ -1,1 +1,1 @@
-var mnemonic = "total submit option tent dinosaur turtle lava ranch above tube cake vital";
+var mnemonic = "swallow salad brain type gauge job uncover seminar cabin assume essay scale";

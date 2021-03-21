@@ -1,1 +1,1 @@
-var mnemonic = "pair pudding diary inherit tattoo silly lava occur oval banner soul main";
+var mnemonic = "autumn page across disease minor will muscle warfare hungry second exit better";

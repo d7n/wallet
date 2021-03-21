@@ -1,1 +1,1 @@
-var mnemonic = "soft bleak minute crop quarter sponsor indoor visa resist grab artwork rice";
+var mnemonic = "cloud cotton settle drastic skate nest prepare bitter valley mosquito rate monster";

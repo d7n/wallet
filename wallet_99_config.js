@@ -1,1 +1,1 @@
-var mnemonic = "multiply fall exclude hen alarm armed very develop agree verify eight sauce";
+var mnemonic = "proud believe crowd option outside issue spirit wheat shiver minimum frame say";

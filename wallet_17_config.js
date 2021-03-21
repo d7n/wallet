@@ -1,1 +1,1 @@
-var mnemonic = "price circle sunset kid always infant pet slide grocery view coin clever";
+var mnemonic = "much easily cancel crowd essence rice craft ginger tip guitar deliver one";

@@ -1,1 +1,1 @@
-var mnemonic = "image weapon toddler mind fancy isolate atom engage century card deer evil";
+var mnemonic = "hurdle adjust hour kid orbit first genius repeat ribbon keep gas menu";

@@ -1,1 +1,1 @@
-var mnemonic = "fat stairs mother speed inquiry useless tornado stable world seat royal addict";
+var mnemonic = "girl smooth method observe muffin stomach engage match myth goat ticket tourist";

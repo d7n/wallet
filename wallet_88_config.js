@@ -1,1 +1,1 @@
-var mnemonic = "clinic side huge wash pull crowd salad limb glow there inform flock";
+var mnemonic = "twice confirm solar promote grit blade used ketchup actual outside furnace dolphin";

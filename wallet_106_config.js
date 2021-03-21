@@ -1,1 +1,1 @@
-var mnemonic = "harsh holiday someone grass rapid unable tragic crater aerobic immense kingdom census";
+var mnemonic = "creek trap visa tourist symptom picture sudden chase aisle student system property";

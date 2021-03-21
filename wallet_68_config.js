@@ -1,1 +1,1 @@
-var mnemonic = "brown barely gossip they diamond exotic census skirt teach stadium curve travel";
+var mnemonic = "badge valley romance either wisdom ask plate emerge number rookie liberty deny";

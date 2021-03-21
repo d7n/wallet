@@ -1,1 +1,1 @@
-var mnemonic = "section switch express rebel sauce pelican outer flee naive lend brush insane";
+var mnemonic = "actual wealth volume disease sausage reform humble common check truly tornado old";

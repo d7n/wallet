@@ -1,1 +1,1 @@
-var mnemonic = "enact inherit drip hurry arrive assume monster morning anger zero arm ready";
+var mnemonic = "similar frozen jelly naive genre suit witness catch waste embark immune artwork";

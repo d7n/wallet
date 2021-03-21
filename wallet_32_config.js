@@ -1,1 +1,1 @@
-var mnemonic = "neither dish pulse clay crush middle rabbit rather oblige palm knee float";
+var mnemonic = "shine dance great ostrich ladder pool any victory alien motor book famous";

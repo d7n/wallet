@@ -1,1 +1,1 @@
-var mnemonic = "whale risk proof close cereal way wear conduct theory survey aunt either";
+var mnemonic = "bacon chalk pitch link wink click welcome behave announce blush gap slender";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware spare grocery illness improve swear scissors soap cost citizen vicious struggle";
+var mnemonic = "differ wonder soap tunnel runway fee bridge draft nose choice cute alcohol";

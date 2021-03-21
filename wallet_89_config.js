@@ -1,1 +1,1 @@
-var mnemonic = "coast marble ready brick remove wing couch there come aim iron lesson";
+var mnemonic = "fix nose planet unlock below reopen liberty lawn wood home funny nasty";

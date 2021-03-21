@@ -1,1 +1,1 @@
-var mnemonic = "always gun claim always emerge fire soft surge tenant glass three abuse";
+var mnemonic = "mother mutual ghost share make skate napkin kid rich worth method supreme";

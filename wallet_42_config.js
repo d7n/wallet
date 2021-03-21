@@ -1,1 +1,1 @@
-var mnemonic = "fever film rain crowd bunker bring exotic unveil another journey abstract warfare";
+var mnemonic = "hockey pen immune merry obtain potato shove mind turn scatter harbor latin";

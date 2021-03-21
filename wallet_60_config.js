@@ -1,1 +1,1 @@
-var mnemonic = "lift need half oblige cabbage symptom wisdom peasant dawn finish away exact";
+var mnemonic = "sock luggage luggage desk quarter salt equal captain trim route sick cradle";

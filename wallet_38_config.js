@@ -1,1 +1,1 @@
-var mnemonic = "village hover beyond chest flame faint kiss engine because fault bronze skull";
+var mnemonic = "dice useful apple stomach check test defy repeat spawn zoo evidence sugar";

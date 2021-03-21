@@ -1,1 +1,1 @@
-var mnemonic = "identify regret taste else color seat risk excess mimic skirt shoe skill";
+var mnemonic = "road grunt attack steel tooth umbrella donate shoe jaguar ride pigeon shallow";

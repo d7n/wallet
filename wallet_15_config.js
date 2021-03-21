@@ -1,1 +1,1 @@
-var mnemonic = "proud category enact alcohol snake unable game festival couple rail liquid embark";
+var mnemonic = "refuse swing badge office clerk betray acid scare home buzz witness pond";

@@ -1,1 +1,1 @@
-var mnemonic = "member cancel crash doll coral staff prevent pumpkin latin easily love scrap";
+var mnemonic = "believe city frost sudden brief cheap patch code prevent dilemma quality soul";

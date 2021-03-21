@@ -1,1 +1,1 @@
-var mnemonic = "pupil fringe bar canvas town voyage little force finish police melody dose";
+var mnemonic = "weekend monkey sorry mix fiction left news assume apology update scout high";

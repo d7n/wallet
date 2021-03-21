@@ -1,1 +1,1 @@
-var mnemonic = "carbon buzz recall equip remind group prosper swim crazy transfer tooth rhythm";
+var mnemonic = "kite relief civil cake knee roast arch tiny rabbit bar harvest drill";

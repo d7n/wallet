@@ -1,1 +1,1 @@
-var mnemonic = "mother sport bridge dwarf depth flag anger country century festival wood kit";
+var mnemonic = "require lemon gauge very spray rare large law gossip hundred virus spring";

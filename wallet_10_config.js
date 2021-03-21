@@ -1,1 +1,1 @@
-var mnemonic = "wool pudding secret hood escape top napkin click tackle pioneer winner jeans";
+var mnemonic = "fix number elevator badge column because volcano surround minimum diagram design beach";

@@ -1,1 +1,1 @@
-var mnemonic = "solution doctor oblige opinion season violin actual blush denial fiction street dry";
+var mnemonic = "decade brother october possible world traffic minor way close lift brief harsh";

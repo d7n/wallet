@@ -1,1 +1,1 @@
-var mnemonic = "hint sample vocal second tuna repeat hybrid draw advance humble find survey";
+var mnemonic = "jaguar cheap album scale negative source embark faith scheme drastic donor half";

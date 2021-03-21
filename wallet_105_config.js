@@ -1,1 +1,1 @@
-var mnemonic = "minute arm camp foot pencil praise network call denial choose between wear";
+var mnemonic = "guitar prize reject diamond sudden right evil skate profit canoe film split";

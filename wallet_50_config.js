@@ -1,1 +1,1 @@
-var mnemonic = "cool winner marriage neglect daring abandon someone want burger expose aunt motor";
+var mnemonic = "crack universe duck forward again empty cherry media elephant thank priority magnet";

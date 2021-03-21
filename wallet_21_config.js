@@ -1,1 +1,1 @@
-var mnemonic = "magic frequent turn seminar zoo face lecture taste dance auction cake yellow";
+var mnemonic = "daring develop piano dismiss pencil ill school shove foil organ still report";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter network never surge lawn guilt mimic leaf caution harvest arrive welcome";
+var mnemonic = "option upgrade offer bread eyebrow festival sort solve three absent federal swear";

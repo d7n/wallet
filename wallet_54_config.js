@@ -1,1 +1,1 @@
-var mnemonic = "bargain wire ensure gown piano penalty fault void immense anchor tip edge";
+var mnemonic = "draw property cart erupt clutch miss process syrup artefact rather pottery appear";

@@ -1,1 +1,1 @@
-var mnemonic = "where expire today chaos patch shrug sauce flame knock total olive behave";
+var mnemonic = "reduce priority item tourist diagram column gallery bulk add rescue road dolphin";

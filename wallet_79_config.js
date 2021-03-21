@@ -1,1 +1,1 @@
-var mnemonic = "athlete slice riot follow baby silly various diary gauge immense laptop all";
+var mnemonic = "hover render believe brush dynamic auto pool voice issue lab beach endless";

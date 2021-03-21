@@ -1,1 +1,1 @@
-var mnemonic = "level sugar junk arrive then answer used mango load art poem captain";
+var mnemonic = "garage master online bulk suffer fine rough move virtual spoil insect inspire";
