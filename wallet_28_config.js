@@ -1,1 +1,1 @@
-var mnemonic = "switch castle wrap age swap maid better step napkin obscure divorce remember";
+var mnemonic = "melody adult nature near shop cash mountain copper olive voyage useless cram";

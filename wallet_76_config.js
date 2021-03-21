@@ -1,1 +1,1 @@
-var mnemonic = "face crush connect nut eternal genius emerge cricket turtle embark travel memory";
+var mnemonic = "fragile depart obvious invite key hole soap soldier impact symbol view pledge";

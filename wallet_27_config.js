@@ -1,1 +1,1 @@
-var mnemonic = "wisdom sketch myth frog certain dismiss short mango alpha space accident nurse";
+var mnemonic = "rebuild regret candy unfold boring panic damp position cat cart foil security";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit panther student song ball arm wasp essay gospel gasp brother high";
+var mnemonic = "arch royal edit nuclear student genuine link good about pupil marble nothing";

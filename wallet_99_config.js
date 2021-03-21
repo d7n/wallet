@@ -1,1 +1,1 @@
-var mnemonic = "analyst twice defense emerge inquiry black clog disease latin behave input canoe";
+var mnemonic = "receive response badge claim ahead sunny glow worry repeat lava punch special";

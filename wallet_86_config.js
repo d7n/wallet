@@ -1,1 +1,1 @@
-var mnemonic = "parade rent decide pact staff salt answer wrong arrow pipe potato forget";
+var mnemonic = "cage way tribe struggle punch century bring unknown junior kit jazz note";

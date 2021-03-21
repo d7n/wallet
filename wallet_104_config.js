@@ -1,1 +1,1 @@
-var mnemonic = "genre reason end mother shell trust usage beef smoke knock celery occur";
+var mnemonic = "cliff toddler detail sun ankle jewel enrich aisle chimney source fragile talk";

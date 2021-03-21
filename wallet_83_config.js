@@ -1,1 +1,1 @@
-var mnemonic = "movie camp young birth feature cook grant nose lion chunk fence spirit";
+var mnemonic = "final trigger record alley bamboo annual aunt assault essay lonely coast ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse pair surprise noodle kit siren pioneer seven knife alert shop sibling";
+var mnemonic = "token crawl time silly panther rich mutual party canal real swim way";

@@ -1,1 +1,1 @@
-var mnemonic = "impact palm divert resource inquiry express park uncle wild will front split";
+var mnemonic = "foster door light kit visit radio pave lady expect old broccoli penalty";

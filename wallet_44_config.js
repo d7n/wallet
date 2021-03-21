@@ -1,1 +1,1 @@
-var mnemonic = "wing enrich depart clog spread garment later brain warrior copy report frequent";
+var mnemonic = "captain refuse again mention common arrange year word find dilemma sing suggest";

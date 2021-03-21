@@ -1,1 +1,1 @@
-var mnemonic = "believe demise disagree collect soap angry zero blossom curtain inflict shoot other";
+var mnemonic = "nest gallery produce captain veteran cube dress loud target couch sunny shaft";

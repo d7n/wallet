@@ -1,1 +1,1 @@
-var mnemonic = "job issue exercise stadium vacant cake erode cactus gossip suffer wheat rally";
+var mnemonic = "harbor unusual scare slow rare verb forest infant drill hurt walk equal";

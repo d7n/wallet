@@ -1,1 +1,1 @@
-var mnemonic = "pudding saddle magic provide remember extend erase during height fox embark account";
+var mnemonic = "inquiry angry mushroom praise weapon extra crouch toast gloom kiwi favorite crack";

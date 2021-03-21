@@ -1,1 +1,1 @@
-var mnemonic = "virtual exhibit adapt game major hood maximum glass catch auto minor lonely";
+var mnemonic = "glove finish focus truck enforce example beef company yard wise tunnel rule";

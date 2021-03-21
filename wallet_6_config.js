@@ -1,1 +1,1 @@
-var mnemonic = "iron embark usual night lend awkward ticket mango party decide history hire";
+var mnemonic = "pistol decide suffer robust team mutual solid steel decade birth master shop";

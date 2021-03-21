@@ -1,1 +1,1 @@
-var mnemonic = "coach gentle change brick spoon author mandate ring ocean father despair derive";
+var mnemonic = "acoustic eye lounge decline rotate crazy educate senior logic diet enjoy soccer";

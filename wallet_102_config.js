@@ -1,1 +1,1 @@
-var mnemonic = "clay thunder choice buffalo quote purse hill sibling slogan process follow smoke";
+var mnemonic = "long small soft worth wheat firm actor open cabbage elegant outdoor common";

@@ -1,1 +1,1 @@
-var mnemonic = "measure bid say dwarf very jar bitter note speed year movie inquiry";
+var mnemonic = "regret empower badge brain shield oak limit toy olympic fall gaze source";

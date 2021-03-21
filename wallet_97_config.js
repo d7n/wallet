@@ -1,1 +1,1 @@
-var mnemonic = "round mix belt ginger degree bind ankle reward similar olympic weasel palace";
+var mnemonic = "shell black jump sense myth wreck rebel address rural myth erosion hat";

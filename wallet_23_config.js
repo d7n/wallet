@@ -1,1 +1,1 @@
-var mnemonic = "pass human shoot pear inject around radio chaos pitch remember member organ";
+var mnemonic = "boss brisk practice spend hammer surge tape price client jazz mom surface";

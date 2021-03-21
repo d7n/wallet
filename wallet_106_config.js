@@ -1,1 +1,1 @@
-var mnemonic = "junior stage garden expect echo half magnet visual hammer life flat average";
+var mnemonic = "evolve opinion shell spike upper negative theme lens alpha abuse nurse swap";

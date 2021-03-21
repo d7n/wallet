@@ -1,1 +1,1 @@
-var mnemonic = "execute monkey liar fire pause syrup speed try barely south alien lab";
+var mnemonic = "system peace early dice proof convince recycle grit ranch mother grit budget";

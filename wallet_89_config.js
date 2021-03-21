@@ -1,1 +1,1 @@
-var mnemonic = "smile figure praise strike lucky nut link coconut royal joke knee better";
+var mnemonic = "blame husband eight clean sausage shallow romance fire fiber mom pumpkin this";

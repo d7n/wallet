@@ -1,1 +1,1 @@
-var mnemonic = "barely seminar enroll keep cloth skirt swear tank foam risk symptom blouse";
+var mnemonic = "unable company asthma powder teach oven across solar stool force monster snap";

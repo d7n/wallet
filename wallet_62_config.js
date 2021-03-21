@@ -1,1 +1,1 @@
-var mnemonic = "today unhappy chase wrong evoke stomach interest citizen math cost fresh jeans";
+var mnemonic = "exile utility prize panther gun consider eye spoon immune pave riot brave";

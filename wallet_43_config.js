@@ -1,1 +1,1 @@
-var mnemonic = "glove lamp update medal spoil chaos certain desert convince depend ticket crunch";
+var mnemonic = "stereo foot arrow marine leisure laptop limit butter patrol trial immense pilot";

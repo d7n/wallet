@@ -1,1 +1,1 @@
-var mnemonic = "verify awesome soul balcony sketch cart gadget assist broccoli violin absurd toddler";
+var mnemonic = "still carry chat gentle collect two grain certain achieve measure nasty mesh";

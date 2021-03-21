@@ -1,1 +1,1 @@
-var mnemonic = "olympic absorb picnic idea sentence sister tenant axis science brain youth chair";
+var mnemonic = "viable radio slush captain vacuum crystal can patrol spoon example simple toy";

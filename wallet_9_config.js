@@ -1,1 +1,1 @@
-var mnemonic = "grain tool blur cheese hockey design swallow wife drastic later grant glide";
+var mnemonic = "outer entry shiver upgrade cradle october punch galaxy elbow alone blur replace";

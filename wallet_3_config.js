@@ -1,1 +1,1 @@
-var mnemonic = "rude there sauce save erase health inform aunt ripple outer grit job";
+var mnemonic = "stand prison nasty kangaroo useful question later slim salt group oval ethics";

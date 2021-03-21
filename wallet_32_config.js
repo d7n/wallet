@@ -1,1 +1,1 @@
-var mnemonic = "grape remove amused song skirt will refuse piano cycle air diesel enemy";
+var mnemonic = "pause dinosaur puppy sugar bring social march strong tip cheap raise axis";

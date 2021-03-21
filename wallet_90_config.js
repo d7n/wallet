@@ -1,1 +1,1 @@
-var mnemonic = "normal cook admit smart matter industry media clock luggage salute pass reunion";
+var mnemonic = "plastic neck spoil topple voyage issue search vast video apart price scout";

@@ -1,1 +1,1 @@
-var mnemonic = "social like list furnace shy amused knee patrol universe funny cute blanket";
+var mnemonic = "ball nothing junk rough cook attract phrase cash dinner mixed drum load";

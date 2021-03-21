@@ -1,1 +1,1 @@
-var mnemonic = "diet choice own float square hip sauce abuse stock robust online blind";
+var mnemonic = "sense alert apart upper fit render series attack solution simple local pond";

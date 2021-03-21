@@ -1,1 +1,1 @@
-var mnemonic = "wasp connect sword cancel globe traffic laptop dawn risk bracket swear vote";
+var mnemonic = "truck decline lottery victory tuna pattern top cancel grit first because boy";

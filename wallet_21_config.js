@@ -1,1 +1,1 @@
-var mnemonic = "cradle cradle pet advice confirm swing place become ostrich hobby skull marble";
+var mnemonic = "receive drama guilt annual suggest before cage grass gadget warfare person pear";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware table easy sausage proof key trim cement frown certain audit vacant";
+var mnemonic = "woman planet trap flat strategy blanket basket luggage original marble oval mystery";

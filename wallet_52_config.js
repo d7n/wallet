@@ -1,1 +1,1 @@
-var mnemonic = "aim thrive use path scatter hammer then bomb tree shine exhaust push";
+var mnemonic = "child curve leader combine lunar wait cable stomach portion step modify faculty";

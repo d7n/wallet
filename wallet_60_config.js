@@ -1,1 +1,1 @@
-var mnemonic = "pass health private joy vapor fork neutral portion isolate turtle match piano";
+var mnemonic = "domain elephant life divide gasp banner trumpet piece leader picnic chalk reward";

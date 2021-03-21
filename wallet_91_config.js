@@ -1,1 +1,1 @@
-var mnemonic = "income disorder output capable bar verb want employ crew catalog reject color";
+var mnemonic = "dress pair normal ignore build say goddess burst aspect cart trap coffee";

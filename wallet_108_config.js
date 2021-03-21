@@ -1,1 +1,1 @@
-var mnemonic = "alien intact jazz they aerobic space robot real embrace panic deliver goat";
+var mnemonic = "fun mail just story enroll enable position eyebrow edge drop tennis utility";

@@ -1,1 +1,1 @@
-var mnemonic = "fat spread desert patrol drop guilt script bread school glance switch useful";
+var mnemonic = "asset between author tired pact magnet brain first abuse pioneer rule thank";

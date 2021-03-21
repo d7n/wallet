@@ -1,1 +1,1 @@
-var mnemonic = "era insect fiber balcony vicious gather super broken force speed frog exercise";
+var mnemonic = "panda strong grow doll priority cable item logic thank puppy reduce exchange";

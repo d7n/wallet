@@ -1,1 +1,1 @@
-var mnemonic = "style drop sure pattern evoke spoon fitness jelly ball clay police old";
+var mnemonic = "anxiety wire hunt ice jazz gun pumpkin drink two giraffe master normal";

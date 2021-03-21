@@ -1,1 +1,1 @@
-var mnemonic = "zero river sock thank fee crumble grape off jewel join message home";
+var mnemonic = "uphold cigar leopard whale media hover dentist crystal engage cube umbrella viable";

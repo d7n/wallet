@@ -1,1 +1,1 @@
-var mnemonic = "rabbit ripple bulb away involve situate load crawl act grow romance apple";
+var mnemonic = "tuition slice hollow hundred climb pony spell track fatal dutch humble dice";

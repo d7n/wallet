@@ -1,1 +1,1 @@
-var mnemonic = "upon amateur concert leg thing choice obtain genre human chest shine spare";
+var mnemonic = "ancient heart hard symptom buzz guard wise rug salute model drop account";

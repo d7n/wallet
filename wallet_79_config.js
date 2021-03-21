@@ -1,1 +1,1 @@
-var mnemonic = "settle output mechanic bicycle wide minor measure exercise shiver scene rhythm snap";
+var mnemonic = "net carry pride until antique acquire cousin curtain predict employ frozen exclude";

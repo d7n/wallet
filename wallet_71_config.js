@@ -1,1 +1,1 @@
-var mnemonic = "wool cycle power reopen fame obvious obtain hat minute spy exotic genre";
+var mnemonic = "kit frozen helmet fever ridge elder noble embody orchard post giraffe address";

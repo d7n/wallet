@@ -1,1 +1,1 @@
-var mnemonic = "wink orient usual culture start pear ramp jungle pink air diary barrel";
+var mnemonic = "potato category box blur average lunar payment dream top nominee solve art";

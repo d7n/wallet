@@ -1,1 +1,1 @@
-var mnemonic = "boost lucky fault empower habit mixed march wrong track close humble coral";
+var mnemonic = "dynamic breeze pilot enter remain day huge void year accident fossil flower";

@@ -1,1 +1,1 @@
-var mnemonic = "keep husband install fiction cream picture ring demise proof guide shallow cart";
+var mnemonic = "umbrella type toy hobby scrub figure clerk maid zero security plunge receive";

@@ -1,1 +1,1 @@
-var mnemonic = "spice oil coral wine route limb target steel toy decade wild liar";
+var mnemonic = "chase art jewel manual also purpose they iron churn undo glare meadow";

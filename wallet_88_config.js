@@ -1,1 +1,1 @@
-var mnemonic = "valley document caught exclude glue engage awful stuff skin hold square depth";
+var mnemonic = "stable scatter oven turkey guard vendor color lottery air mother pudding file";

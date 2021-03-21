@@ -1,1 +1,1 @@
-var mnemonic = "short hazard key trophy multiply supreme noble faculty enact radar draft sign";
+var mnemonic = "extend slow this recall trouble junior suit insane dirt analyst birth enable";

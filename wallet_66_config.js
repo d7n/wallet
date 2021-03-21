@@ -1,1 +1,1 @@
-var mnemonic = "purse found window inner butter suffer whisper sustain october check item lens";
+var mnemonic = "post universe issue slight typical horror reason unhappy tourist combine away observe";

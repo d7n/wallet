@@ -1,1 +1,1 @@
-var mnemonic = "camera clarify ten prize river tank home clock tragic extra mixed find";
+var mnemonic = "inherit uncover vibrant great insect ocean sight thunder pause depart random assault";

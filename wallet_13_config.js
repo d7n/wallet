@@ -1,1 +1,1 @@
-var mnemonic = "hat credit fresh royal erupt coil budget intact tobacco tattoo tone waste";
+var mnemonic = "entry trick tonight poverty motor swim speed palm art pistol knee flip";

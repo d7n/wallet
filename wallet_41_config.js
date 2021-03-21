@@ -1,1 +1,1 @@
-var mnemonic = "trophy derive buzz auction budget inquiry midnight blanket grow evil usage renew";
+var mnemonic = "notable depth champion like adult indicate audit jealous young early cattle hood";

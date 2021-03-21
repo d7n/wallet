@@ -1,1 +1,1 @@
-var mnemonic = "effort draw blanket harsh advice federal party uniform effort harsh inflict virus";
+var mnemonic = "mirror leisure one method next zoo hover transfer fitness change divide stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "front ask kick foot thumb donor daring multiply end harvest wisdom motor";
+var mnemonic = "crazy course second menu sphere planet bleak bomb mean shadow airport pass";

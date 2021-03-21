@@ -1,1 +1,1 @@
-var mnemonic = "copper jazz barely balance more life lemon govern eagle interest sing shock";
+var mnemonic = "dune taste dawn section arrest gas panther coconut wool clay cannon addict";

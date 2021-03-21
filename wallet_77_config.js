@@ -1,1 +1,1 @@
-var mnemonic = "mango vote warrior problem amused govern damage bring oxygen novel oval plastic";
+var mnemonic = "spawn sense typical orchard first clown cry hire afford work laundry welcome";

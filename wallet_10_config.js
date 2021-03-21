@@ -1,1 +1,1 @@
-var mnemonic = "car such art tone cancel guide fold polar network credit replace perfect";
+var mnemonic = "abuse rain update surge pet peace strike able analyst slot hospital glow";

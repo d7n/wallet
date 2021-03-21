@@ -1,1 +1,1 @@
-var mnemonic = "absorb useful slush blur math over box little become casual have tube";
+var mnemonic = "vendor rely spring hope approve hobby blame cotton wish pitch scissors stay";

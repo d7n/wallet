@@ -1,1 +1,1 @@
-var mnemonic = "suffer pottery observe dress supreme excite cage hat harbor vanish usual swim";
+var mnemonic = "insect climb grunt addict item team double ivory finish erupt attitude exact";

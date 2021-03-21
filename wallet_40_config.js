@@ -1,1 +1,1 @@
-var mnemonic = "circle diary slice episode teach rich tourist hockey crane fog portion reform";
+var mnemonic = "away identify grid child flush neglect awake mobile indoor wealth parent party";

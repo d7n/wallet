@@ -1,1 +1,1 @@
-var mnemonic = "order settle yard damp prefer theme manage market harvest prevent code corn";
+var mnemonic = "inner ask soccer inspire witness clay donor smooth dance gather toss lab";

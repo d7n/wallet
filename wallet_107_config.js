@@ -1,1 +1,1 @@
-var mnemonic = "earn bonus helmet stove grief lobster convince tornado current skirt text program";
+var mnemonic = "stage orbit devote title waste suggest kite fossil diesel crazy skin impact";

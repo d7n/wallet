@@ -1,1 +1,1 @@
-var mnemonic = "funny picture news smoke trend leaf alone weasel evolve toast like teach";
+var mnemonic = "mail side risk exist faith trouble slot maid truly replace upgrade address";

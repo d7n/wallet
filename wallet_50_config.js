@@ -1,1 +1,1 @@
-var mnemonic = "retreat pretty pink defy mom off upper thrive kitten swing document lawn";
+var mnemonic = "snow infant very topic beef language cradle story response taxi field soon";

@@ -1,1 +1,1 @@
-var mnemonic = "save garment leopard asset isolate crack trash skull board outdoor morning turn";
+var mnemonic = "palm museum office thunder egg tooth cabbage cage clerk sudden delay comic";

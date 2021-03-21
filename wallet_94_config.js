@@ -1,1 +1,1 @@
-var mnemonic = "pride slush cram penalty hidden exit thank student wink pen bicycle news";
+var mnemonic = "float weird hollow toddler abuse say blind clerk witness gym rhythm envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "aim genius jewel achieve parent tide case ivory hero boat enact wait";
+var mnemonic = "hawk stuff void edge just flight human emotion choose action sweet title";

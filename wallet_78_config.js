@@ -1,1 +1,1 @@
-var mnemonic = "blood swallow luxury follow wink angry autumn appear glory earth field snake";
+var mnemonic = "chair mask benefit draw speed weird stool dilemma rent crucial real addict";

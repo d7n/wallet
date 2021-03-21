@@ -1,1 +1,1 @@
-var mnemonic = "robot effort normal tunnel awesome horror measure flower wreck rough diary weapon";
+var mnemonic = "castle mother multiply field delay walnut evil picture adjust occur sea sunny";

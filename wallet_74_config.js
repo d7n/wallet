@@ -1,1 +1,1 @@
-var mnemonic = "find half modify horn army oil sustain seminar lemon foot family neutral";
+var mnemonic = "hedgehog huge method fan car narrow rigid picnic cube review image exhibit";

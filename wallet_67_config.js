@@ -1,1 +1,1 @@
-var mnemonic = "follow still honey leisure forward valid that flip spoil immense stamp atom";
+var mnemonic = "road discover jungle rude tent fine bonus alien door theory noble hurt";

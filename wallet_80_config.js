@@ -1,1 +1,1 @@
-var mnemonic = "worth box capital company kitchen cloth action large tank ethics lion rice";
+var mnemonic = "wedding equip chief genuine fold wisdom move quarter pilot height resist blush";

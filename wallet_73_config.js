@@ -1,1 +1,1 @@
-var mnemonic = "cabbage nuclear six fossil matrix salad amateur surge note mystery agent dose";
+var mnemonic = "wave wish legal book shell grow debris remove absent theme gaze receive";

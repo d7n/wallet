@@ -1,1 +1,1 @@
-var mnemonic = "solid glance uphold amused hover sibling company cream intact upon arch price";
+var mnemonic = "exclude pioneer despair toy divorce rival fruit process push hawk shaft tissue";

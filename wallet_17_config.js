@@ -1,1 +1,1 @@
-var mnemonic = "add bring medal surge move wasp believe loyal weasel recipe rubber summer";
+var mnemonic = "globe silk drop roof cave neck never solution sleep bullet avoid example";

@@ -1,1 +1,1 @@
-var mnemonic = "popular valid adapt empower west family logic wait tuna mixed way mansion";
+var mnemonic = "polar sample play double drama mercy tumble silly reason drill harsh fury";

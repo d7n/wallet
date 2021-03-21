@@ -1,1 +1,1 @@
-var mnemonic = "drip decorate shuffle gesture floor law century fortune shuffle size cliff become";
+var mnemonic = "vacuum either nerve empty pledge card elevator chronic sauce report melt doll";

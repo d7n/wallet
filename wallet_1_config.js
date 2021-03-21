@@ -1,1 +1,1 @@
-var mnemonic = "census boring egg hurdle hip move enable ignore hold sunny fault belt";
+var mnemonic = "scale supply above pumpkin need grain erosion forum reflect off fresh gas";

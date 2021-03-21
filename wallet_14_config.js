@@ -1,1 +1,1 @@
-var mnemonic = "portion pulse diet turtle sniff decline toy web stock icon warm govern";
+var mnemonic = "apart meadow anger noise bronze mixture nature adapt olympic advice silk caution";

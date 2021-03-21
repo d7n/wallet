@@ -1,1 +1,1 @@
-var mnemonic = "fat case arctic yard camp tortoise can shy body luggage clump fetch";
+var mnemonic = "fruit enforce ghost convince trade dream comfort sorry opera vacant account balcony";

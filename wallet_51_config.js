@@ -1,1 +1,1 @@
-var mnemonic = "empower cherry dutch swap black setup pave very idea hill worth achieve";
+var mnemonic = "match east proud chunk rare core there allow power acquire stage garlic";

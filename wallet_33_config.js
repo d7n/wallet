@@ -1,1 +1,1 @@
-var mnemonic = "act impact catalog essence exotic notice weasel also twist melt copper hello";
+var mnemonic = "top edge budget crowd arrive torch pattern apology rookie price inmate same";
