@@ -1,1 +1,1 @@
-var mnemonic = "divorce alpha visit zero kiss alter disorder tide six misery hundred relax";
+var mnemonic = "charge clip bunker guitar talk hurdle behave learn awesome enjoy lift mind";

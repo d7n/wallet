@@ -1,1 +1,1 @@
-var mnemonic = "cute ivory huge flush mushroom select bundle woman hunt near mercy gospel";
+var mnemonic = "fat repeat burger enforce grocery clutch chronic guitar spot dawn science prefer";

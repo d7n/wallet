@@ -1,1 +1,1 @@
-var mnemonic = "wall dinner accuse eyebrow fiscal hour wave swallow unable artwork network round";
+var mnemonic = "primary champion panic theme consider prefer birth forest economy hidden outside demand";

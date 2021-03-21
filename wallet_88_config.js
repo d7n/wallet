@@ -1,1 +1,1 @@
-var mnemonic = "assault envelope border copper follow supreme remind fiscal obey broom skill enlist";
+var mnemonic = "urban pottery anxiety laptop wave alley spy switch fish atom symbol shallow";

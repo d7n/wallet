@@ -1,1 +1,1 @@
-var mnemonic = "hen august normal silk history version what must coffee visa hero enjoy";
+var mnemonic = "guitar boss dust steel artist life indoor moon you doll order wave";

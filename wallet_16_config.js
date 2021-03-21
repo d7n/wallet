@@ -1,1 +1,1 @@
-var mnemonic = "avocado bid inch black shuffle lake unique already eye interest wrestle open";
+var mnemonic = "rotate tomato draft poverty trigger lawn lady snow crater jazz uncover stomach";

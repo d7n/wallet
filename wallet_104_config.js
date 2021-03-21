@@ -1,1 +1,1 @@
-var mnemonic = "lab bid snap stick position boy oven oxygen north oxygen salute medal";
+var mnemonic = "grab chimney forum oxygen wait engine net oven never ahead matter alter";

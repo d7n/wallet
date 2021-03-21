@@ -1,1 +1,1 @@
-var mnemonic = "expire genre follow slab farm share detail mom olympic alone finger forest";
+var mnemonic = "setup orange bitter abuse marble someone zoo artefact cart again inject wild";

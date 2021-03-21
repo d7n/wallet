@@ -1,1 +1,1 @@
-var mnemonic = "arena pause cactus talent surge hurry essence inside ankle laptop quit able";
+var mnemonic = "buddy coyote dawn cross gentle head city copy increase bullet column involve";

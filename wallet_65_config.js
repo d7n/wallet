@@ -1,1 +1,1 @@
-var mnemonic = "theory setup pattern drift rib cave echo bar purse delay essay inmate";
+var mnemonic = "weasel purpose business swift antique column flush curve grape mask want spell";

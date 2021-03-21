@@ -1,1 +1,1 @@
-var mnemonic = "ramp property jaguar donate grace month short half dust soap salad depend";
+var mnemonic = "crash artefact rule slim dawn toast prison panda express stock spray verb";

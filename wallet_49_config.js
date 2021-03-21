@@ -1,1 +1,1 @@
-var mnemonic = "update river panic cup prevent fantasy relief pistol capital stable process panther";
+var mnemonic = "naive jungle snap devote fabric review pudding initial connect ridge jaguar cost";

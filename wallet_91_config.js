@@ -1,1 +1,1 @@
-var mnemonic = "anchor surround bundle dash town network employ wine clutch turn school distance";
+var mnemonic = "error barrel direct movie beef region sibling undo glad guess sing unlock";

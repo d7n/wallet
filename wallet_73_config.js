@@ -1,1 +1,1 @@
-var mnemonic = "injury choose accident poem relief improve appear profit fun ostrich frown bronze";
+var mnemonic = "begin evidence proof ski advice dice calm food simple trouble seminar raven";

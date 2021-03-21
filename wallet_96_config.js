@@ -1,1 +1,1 @@
-var mnemonic = "hamster barely attack breeze casual wire proof veteran oven jump duck now";
+var mnemonic = "easily heavy card casual drill mistake chicken kick inject rule damage nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "blur abandon enrich employ wait parent cabin cream rack much busy heart";
+var mnemonic = "earn can ask chest mobile tortoise purse board tourist kiwi exist digital";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich flavor pelican enough strategy festival industry skate connect service prefer print";
+var mnemonic = "sauce slogan ocean rug ridge payment valve drastic spatial verb salt artist";

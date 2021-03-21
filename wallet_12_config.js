@@ -1,1 +1,1 @@
-var mnemonic = "crawl ask august bunker call merit income illness decide six belt render";
+var mnemonic = "gate despair trash fork pupil remain witness fashion urban gap exist labor";

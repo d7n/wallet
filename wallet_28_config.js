@@ -1,1 +1,1 @@
-var mnemonic = "wonder sample honey pig faint water fetch warm captain scatter away mimic";
+var mnemonic = "old popular volume away salt voyage claw toss retreat bind soul achieve";

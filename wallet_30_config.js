@@ -1,1 +1,1 @@
-var mnemonic = "truck liar prefer radar buyer virtual night fan wise rough birth team";
+var mnemonic = "cook play canoe faculty final damage drop sentence that town artwork fiction";

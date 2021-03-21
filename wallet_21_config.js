@@ -1,1 +1,1 @@
-var mnemonic = "output foam load echo cost tonight fragile dutch cruise ordinary bridge cushion";
+var mnemonic = "elite exact spawn hour such refuse true loan twist wide ready dish";

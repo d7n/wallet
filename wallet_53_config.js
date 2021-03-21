@@ -1,1 +1,1 @@
-var mnemonic = "scale brand sure surround ankle sauce control abandon cause blame pepper twenty";
+var mnemonic = "trigger shop dish panda vacuum outdoor limb rate assault quantum guitar case";

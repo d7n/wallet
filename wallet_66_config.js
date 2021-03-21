@@ -1,1 +1,1 @@
-var mnemonic = "keep orchard style raw tissue help supply finger swap annual echo silly";
+var mnemonic = "wedding flag solar stage crouch stock put salon announce absurd hamster evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "receive denial swift pizza glide skin rhythm cattle among insane mercy chief";
+var mnemonic = "salad island addict fiscal cover rice color tobacco struggle trumpet insect glimpse";

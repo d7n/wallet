@@ -1,1 +1,1 @@
-var mnemonic = "cheap venue lawn obey west lock review enforce diary hole cargo fatigue";
+var mnemonic = "order nuclear family library impose neutral improve grab divert glimpse museum detail";

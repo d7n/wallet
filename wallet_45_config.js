@@ -1,1 +1,1 @@
-var mnemonic = "multiply help naive junior afford concert nice much figure spend lecture pumpkin";
+var mnemonic = "frown clip give dust allow attend damp ready bulk curve behave deny";

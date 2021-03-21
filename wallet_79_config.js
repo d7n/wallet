@@ -1,1 +1,1 @@
-var mnemonic = "easy express fitness fury brush enjoy swallow subway million rare inch tent";
+var mnemonic = "dance child century near license gorilla inject neck scrap ball home gift";

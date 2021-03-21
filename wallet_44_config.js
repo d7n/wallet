@@ -1,1 +1,1 @@
-var mnemonic = "focus divorce crop donkey giant traffic flag ripple gossip pigeon dismiss forget";
+var mnemonic = "situate sponsor pipe chicken bone property one wolf episode liar basket train";

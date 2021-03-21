@@ -1,1 +1,1 @@
-var mnemonic = "shrug friend various vast valley shrimp legend marine domain maid cabin picnic";
+var mnemonic = "guide fan ordinary churn into filter orphan online merge food business source";

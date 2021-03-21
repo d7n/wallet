@@ -1,1 +1,1 @@
-var mnemonic = "celery divert feel scheme fold evil crunch pudding column column thumb lesson";
+var mnemonic = "major income limit luxury kingdom jungle nurse spice eye air member crime";

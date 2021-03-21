@@ -1,1 +1,1 @@
-var mnemonic = "wealth degree snack work cause vague swear earth auto senior candy truth";
+var mnemonic = "cram party feed beyond good angry swear armed shallow cook excess cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse stool curtain master task soap dose improve wrap mail table lift";
+var mnemonic = "laugh glare false island waste tragic office core wine useless april social";

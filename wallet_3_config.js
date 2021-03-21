@@ -1,1 +1,1 @@
-var mnemonic = "basket bind scorpion evidence blade pull hybrid sign rate art boost weekend";
+var mnemonic = "near dinosaur olive bless return warrior beef practice panel doctor picnic custom";

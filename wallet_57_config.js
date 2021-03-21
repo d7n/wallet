@@ -1,1 +1,1 @@
-var mnemonic = "piece link anxiety fix web retire survey ball room about six gravity";
+var mnemonic = "coyote bread hurry silent hidden exile whale innocent aunt cool night hunt";

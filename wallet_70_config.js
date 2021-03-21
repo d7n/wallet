@@ -1,1 +1,1 @@
-var mnemonic = "shiver review shine neck lobster tool bunker shed huge business smart ball";
+var mnemonic = "fancy talent achieve master clown screen deal fashion pupil noble mixed flock";

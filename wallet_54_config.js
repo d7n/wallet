@@ -1,1 +1,1 @@
-var mnemonic = "trick cash green quote champion account swing very cannon example sibling dinosaur";
+var mnemonic = "release also soon neutral height priority parent spray famous switch true rigid";

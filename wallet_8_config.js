@@ -1,1 +1,1 @@
-var mnemonic = "vast miracle inquiry reason shine unfold spray injury lift economy company dose";
+var mnemonic = "appear paddle tide patrol crumble celery sand valley raccoon village tray actual";

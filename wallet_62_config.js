@@ -1,1 +1,1 @@
-var mnemonic = "alter clay zero fancy clever alter skill novel mechanic fish index maximum";
+var mnemonic = "void valve boat indoor fan detect slogan rare satoshi insane frequent cash";

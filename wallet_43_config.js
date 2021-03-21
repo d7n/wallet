@@ -1,1 +1,1 @@
-var mnemonic = "trumpet source warfare nice lock issue finger unique spoon immense win disease";
+var mnemonic = "sock retire web mix garbage donkey snap urge uncle resemble bullet young";

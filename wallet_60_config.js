@@ -1,1 +1,1 @@
-var mnemonic = "hurt cat net spare rice follow round video exact fog winner shaft";
+var mnemonic = "find correct viable supply idle honey upgrade eight edit huge recipe you";

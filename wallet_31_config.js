@@ -1,1 +1,1 @@
-var mnemonic = "pupil enroll under element response repair cliff domain bind kid street lawn";
+var mnemonic = "shuffle invest potato mouse casual miracle hidden call eagle demise toilet chunk";

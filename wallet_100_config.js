@@ -1,1 +1,1 @@
-var mnemonic = "flight artwork galaxy hero absorb ranch lock fog art jewel credit mother";
+var mnemonic = "fix valid brave toward trash day cube put pipe bread hungry flock";

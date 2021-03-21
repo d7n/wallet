@@ -1,1 +1,1 @@
-var mnemonic = "meadow once special shadow require resemble wood check emotion aerobic rain garment";
+var mnemonic = "coast crash panel fiscal arena soccer during lonely keen nothing grunt trip";

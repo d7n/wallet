@@ -1,1 +1,1 @@
-var mnemonic = "fossil bubble mail loyal sting obvious chat affair stock primary harsh float";
+var mnemonic = "crack enable economy subway journey obvious nurse various apple update hair gossip";

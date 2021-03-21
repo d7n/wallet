@@ -1,1 +1,1 @@
-var mnemonic = "avocado shiver diagram salute head shallow delay spell person dress tackle such";
+var mnemonic = "edge sun strong stairs club cup brief thunder margin pigeon you camp";

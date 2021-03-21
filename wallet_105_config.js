@@ -1,1 +1,1 @@
-var mnemonic = "diet viable effort another wreck spell vote food hint test swarm wrap";
+var mnemonic = "train elegant canal marine secret fish follow burden exile welcome road noise";

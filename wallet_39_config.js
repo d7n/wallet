@@ -1,1 +1,1 @@
-var mnemonic = "stick flame awful blind twist cradle baby trick zoo advance divert assault";
+var mnemonic = "dice lawsuit model rule mother hover onion scrap amazing combine stove slow";

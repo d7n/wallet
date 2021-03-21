@@ -1,1 +1,1 @@
-var mnemonic = "page reward upon industry combine sniff surround upset heavy derive canvas winter";
+var mnemonic = "jeans rhythm either parent young tape hurt permit bleak entire decrease dad";

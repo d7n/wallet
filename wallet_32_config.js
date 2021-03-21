@@ -1,1 +1,1 @@
-var mnemonic = "horn infant matrix wrong service absent plastic imitate garage truly tree kit";
+var mnemonic = "dirt saddle lyrics column cat neither above cargo resemble chief symptom gain";

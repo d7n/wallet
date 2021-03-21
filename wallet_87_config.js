@@ -1,1 +1,1 @@
-var mnemonic = "hold february guilt picture demand hello urban advance curious guilt work offer";
+var mnemonic = "own tree mushroom come merit lend gather lend erupt aisle require hub";

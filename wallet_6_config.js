@@ -1,1 +1,1 @@
-var mnemonic = "wine frozen reason shiver sense life vessel logic autumn clerk glory average";
+var mnemonic = "sausage find bubble clown angry glass near umbrella opera pony engine cart";

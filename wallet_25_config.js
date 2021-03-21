@@ -1,1 +1,1 @@
-var mnemonic = "useful actor tiny climb govern again patrol cross flavor level will arm";
+var mnemonic = "old craft build move when health frequent cat menu picnic stove oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual vault era naive social hedgehog twelve discover nuclear ethics disease junk";
+var mnemonic = "visa slow price wrap fly provide home place someone work afraid answer";

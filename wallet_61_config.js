@@ -1,1 +1,1 @@
-var mnemonic = "mixture unfair salon bright illegal legal sister during then rack weasel side";
+var mnemonic = "love safe fabric large harbor tray cute image engage session elegant owner";

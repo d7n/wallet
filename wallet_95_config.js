@@ -1,1 +1,1 @@
-var mnemonic = "diagram pupil radio purpose frog around song million coconut rose view squeeze";
+var mnemonic = "right cabin antique rival attract service develop venue gesture country grape blade";

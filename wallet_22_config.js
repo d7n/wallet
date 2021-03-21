@@ -1,1 +1,1 @@
-var mnemonic = "ancient unique witness hunt humor suggest unit trip ankle fence glad warfare";
+var mnemonic = "board cabbage damp pen palm agree expose clump action rose hollow island";

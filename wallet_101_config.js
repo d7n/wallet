@@ -1,1 +1,1 @@
-var mnemonic = "enable shuffle current tooth rhythm robust sketch defense candy trick alone ecology";
+var mnemonic = "nephew winner gloom check dose daring damage course squeeze easy keep sun";

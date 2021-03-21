@@ -1,1 +1,1 @@
-var mnemonic = "whip elegant almost amateur poverty excuse melody glad shield category order apart";
+var mnemonic = "science message olive sausage casual insane fantasy copy either garlic require family";

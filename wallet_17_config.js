@@ -1,1 +1,1 @@
-var mnemonic = "series credit cloud museum cabin unusual hamster paddle avocado shine advice purity";
+var mnemonic = "often few bargain goddess subject harvest model such twice display kiss laugh";

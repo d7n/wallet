@@ -1,1 +1,1 @@
-var mnemonic = "chuckle flush clay hurt route alarm save basic royal exhaust nation eye";
+var mnemonic = "honey torch tumble there galaxy addict address can company portion pen ignore";

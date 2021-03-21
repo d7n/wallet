@@ -1,1 +1,1 @@
-var mnemonic = "dial barely vicious text emerge say feature labor siren music river actual";
+var mnemonic = "crack detect area thunder turn clinic settle equal vessel acquire any hair";

@@ -1,1 +1,1 @@
-var mnemonic = "together sentence worth pole youth clever field someone cheese endorse erupt weird";
+var mnemonic = "body bird cricket perfect fossil police eternal reveal afraid deputy absent blouse";

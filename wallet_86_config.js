@@ -1,1 +1,1 @@
-var mnemonic = "crater physical wait discover theme fiber sand flame kidney garden inquiry exist";
+var mnemonic = "fade gym dish eagle doctor shield coin inform wall twenty produce zebra";

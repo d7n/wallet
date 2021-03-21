@@ -1,1 +1,1 @@
-var mnemonic = "impact car raise close asthma garage crunch adapt vivid party laptop business";
+var mnemonic = "climb couch muffin blouse stereo flat bunker upper squeeze print steel canal";

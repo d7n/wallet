@@ -1,1 +1,1 @@
-var mnemonic = "ahead infant finish square about practice space edit entire crop cycle absorb";
+var mnemonic = "flee movie poet entry smile negative wire crazy wild gain assist knock";

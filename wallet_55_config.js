@@ -1,1 +1,1 @@
-var mnemonic = "milk aware junior flip glue match theme since broccoli stable beef execute";
+var mnemonic = "dwarf bread thumb bonus quick mouse mask pepper fabric spot damage tortoise";

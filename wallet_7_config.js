@@ -1,1 +1,1 @@
-var mnemonic = "sound extra produce asthma ranch wagon glide brass eagle trigger fit mad";
+var mnemonic = "stumble icon basic clap december rug around edge carpet curtain access similar";

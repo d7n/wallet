@@ -1,1 +1,1 @@
-var mnemonic = "group soccer chair east hair kiss vacant add flush spray zero near";
+var mnemonic = "sock patch jeans then void better weather globe tomato time muscle orbit";

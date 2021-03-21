@@ -1,1 +1,1 @@
-var mnemonic = "blouse scrub excite garlic olive mention aware basket indoor main combine code";
+var mnemonic = "couple vehicle forest decline tenant captain strategy lab staff raise require olive";

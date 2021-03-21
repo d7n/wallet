@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog wall enact nephew jacket obscure inch social group galaxy casino element";
+var mnemonic = "all imitate obtain surprise recycle write detail black label trouble betray scene";

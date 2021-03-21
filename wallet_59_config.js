@@ -1,1 +1,1 @@
-var mnemonic = "exit admit protect tube arena endless enter allow hurdle blur wonder foil";
+var mnemonic = "climb program loud easily example fee sword priority tiny actual zoo step";

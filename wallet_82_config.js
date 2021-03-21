@@ -1,1 +1,1 @@
-var mnemonic = "good phrase shy thunder acoustic sad burger cram dog accident whale flee";
+var mnemonic = "picnic hunt sort nation rule venue train digital clay acquire summer patrol";

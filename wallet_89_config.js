@@ -1,1 +1,1 @@
-var mnemonic = "bargain mind post priority tell nasty gravity carpet room situate dismiss world";
+var mnemonic = "purpose drop wing section they enroll sun tennis audit strategy draw escape";

@@ -1,1 +1,1 @@
-var mnemonic = "solution vocal unlock trophy high token question trash weekend strong tonight record";
+var mnemonic = "tiger consider volume system interest roof normal furnace nest salad crucial tomato";

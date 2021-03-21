@@ -1,1 +1,1 @@
-var mnemonic = "occur cliff current appear slot fiber diary agent math hope neglect trash";
+var mnemonic = "property actual ugly omit lift debate skirt museum surge daughter any pattern";

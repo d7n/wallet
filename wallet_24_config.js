@@ -1,1 +1,1 @@
-var mnemonic = "gravity journey bamboo admit street minute sand pluck special horn hamster nice";
+var mnemonic = "race luggage pluck near broom grace knock cat human leave tide swamp";

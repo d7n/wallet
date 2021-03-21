@@ -1,1 +1,1 @@
-var mnemonic = "top actress observe output pole valve library foot bundle emerge clump all";
+var mnemonic = "rabbit capable maze vital fly tape knife wealth movie blame perfect project";

@@ -1,1 +1,1 @@
-var mnemonic = "payment multiply stereo toss marble unaware humor salmon unit clip easy hour";
+var mnemonic = "cloud bottom summer force dress aerobic decline equal surround snow old reveal";

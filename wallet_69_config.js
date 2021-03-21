@@ -1,1 +1,1 @@
-var mnemonic = "fog uniform inner safe ecology cargo churn surface envelope either pumpkin unaware";
+var mnemonic = "puzzle shove room stone ball disease era discover worth cube cement inch";

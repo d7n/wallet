@@ -1,1 +1,1 @@
-var mnemonic = "camp true viable uncle duck imitate mean attract small blast liar artefact";
+var mnemonic = "legend involve print snap trophy delay candy drip bone harvest endless apology";

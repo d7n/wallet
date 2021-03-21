@@ -1,1 +1,1 @@
-var mnemonic = "pelican hazard rough burst cheap radar inspire name country kingdom make police";
+var mnemonic = "close sound soft vehicle wild polar police extra blossom able come ability";

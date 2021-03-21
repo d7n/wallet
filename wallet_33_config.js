@@ -1,1 +1,1 @@
-var mnemonic = "possible fetch desk wreck west pigeon onion safe despair pupil fetch fabric";
+var mnemonic = "argue click stuff bridge toe certain mind axis mother because often grunt";

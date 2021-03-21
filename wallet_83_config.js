@@ -1,1 +1,1 @@
-var mnemonic = "enforce narrow fish subway antenna utility grief project family clarify cheap property";
+var mnemonic = "bench potato blind grab fit believe bunker thunder shrimp claw rural old";

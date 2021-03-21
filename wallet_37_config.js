@@ -1,1 +1,1 @@
-var mnemonic = "junk window rain clock fall over trumpet egg stick vicious fringe lazy";
+var mnemonic = "argue repeat forward hand patient mix crowd confirm crawl series scare cup";

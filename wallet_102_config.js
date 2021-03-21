@@ -1,1 +1,1 @@
-var mnemonic = "ceiling border brass dice begin dignity merit knock action assume path label";
+var mnemonic = "multiply abuse case alpha armed enjoy film rival convince worry off logic";

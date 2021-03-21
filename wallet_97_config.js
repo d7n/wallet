@@ -1,1 +1,1 @@
-var mnemonic = "maple ability ring gospel climb sand awkward mention mask obscure bone engage";
+var mnemonic = "vault mansion oppose diamond opinion faith core punch immense beyond senior news";

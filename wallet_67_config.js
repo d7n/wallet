@@ -1,1 +1,1 @@
-var mnemonic = "have warm tonight morning diet dentist define tip opera flee simple cash";
+var mnemonic = "sample hammer dizzy coin ridge garage weird engage assist claim rhythm element";

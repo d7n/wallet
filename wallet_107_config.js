@@ -1,1 +1,1 @@
-var mnemonic = "stock upset kangaroo nominee lady pull you light grow find spoon front";
+var mnemonic = "decide dance palm city casino echo march angry crumble blush myth narrow";

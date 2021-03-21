@@ -1,1 +1,1 @@
-var mnemonic = "spatial rifle test adapt hurry chimney mercy lyrics light omit square badge";
+var mnemonic = "sad half square swap shoe dash else key vast baby suspect harvest";

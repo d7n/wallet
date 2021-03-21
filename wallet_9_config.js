@@ -1,1 +1,1 @@
-var mnemonic = "ahead attitude gown slide insane among online number lock mouse pottery sell";
+var mnemonic = "cabbage nothing asset chuckle shoot aerobic bullet spring reward rabbit thing decide";

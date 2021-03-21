@@ -1,1 +1,1 @@
-var mnemonic = "cricket battle dash peasant civil cherry citizen shrimp chapter grab magnet better";
+var mnemonic = "tent learn math trumpet since axis hollow essence slab alien warfare settle";

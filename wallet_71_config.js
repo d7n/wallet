@@ -1,1 +1,1 @@
-var mnemonic = "access village witness weekend hip mixture test avocado artwork robust degree shield";
+var mnemonic = "web coast nose maximum wing usual idle snow panic rice apology field";

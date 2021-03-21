@@ -1,1 +1,1 @@
-var mnemonic = "echo insane wing hundred staff prevent can clog shuffle vintage praise cook";
+var mnemonic = "squeeze dice library picnic parrot theme canal impose ice welcome tiny place";

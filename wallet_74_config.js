@@ -1,1 +1,1 @@
-var mnemonic = "floor good best click asset vessel grace reward poverty hurdle wrestle ticket";
+var mnemonic = "shallow melody foam keep demand payment since barely notice lift rural expect";

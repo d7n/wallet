@@ -1,1 +1,1 @@
-var mnemonic = "copper rice barely have piece eager slide tissue shoe push clarify job";
+var mnemonic = "desk panda middle rotate sister process nerve remain gaze mango olympic heart";

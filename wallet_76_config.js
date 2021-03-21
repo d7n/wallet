@@ -1,1 +1,1 @@
-var mnemonic = "indoor despair wise board edit name menu speed gold rotate minimum accuse";
+var mnemonic = "slab student what truth census burden occur about column way repair odor";

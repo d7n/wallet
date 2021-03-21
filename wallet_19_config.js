@@ -1,1 +1,1 @@
-var mnemonic = "deer else someone stem dentist little pair apology survey unaware coast fault";
+var mnemonic = "follow filter turtle affair also layer tuition ritual pull toast clutch drip";

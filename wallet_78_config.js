@@ -1,1 +1,1 @@
-var mnemonic = "noise health where miss actress venture liberty use tray slam rally bless";
+var mnemonic = "color apple scheme bread fabric knock orange increase cover jeans issue dance";

@@ -1,1 +1,1 @@
-var mnemonic = "problem soup hair rug speed era kind raccoon club pudding cupboard library";
+var mnemonic = "guard luxury guide melt cage wash salad cheap gospel crawl crop almost";

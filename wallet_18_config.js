@@ -1,1 +1,1 @@
-var mnemonic = "tobacco smoke farm warm taste slice burden frequent warfare kiss service collect";
+var mnemonic = "dose mask trust diet crew type victory cereal bread eyebrow evil economy";
