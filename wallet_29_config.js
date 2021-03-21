@@ -1,1 +1,1 @@
-var mnemonic = "chuckle icon tomato valley deputy sing refuse tornado damp mass october shed";
+var mnemonic = "spike bacon unable evoke jaguar magnet defense chicken fall curve identify banner";

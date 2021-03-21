@@ -1,1 +1,1 @@
-var mnemonic = "favorite spare minimum cargo purity master arrange battle minor thing myself typical";
+var mnemonic = "second author zone educate luggage custom action noise cruise social vibrant search";

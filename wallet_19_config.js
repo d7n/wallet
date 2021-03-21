@@ -1,1 +1,1 @@
-var mnemonic = "good way future gadget roast evidence evoke jungle cause coral vocal judge";
+var mnemonic = "clock cereal wreck brick inch frog shell vintage palm float fish sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "fall era cricket steak job void endless stuff hover belt more initial";
+var mnemonic = "please enter creek moral wonder sweet elbow amount endorse era recipe that";

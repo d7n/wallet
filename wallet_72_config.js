@@ -1,1 +1,1 @@
-var mnemonic = "balcony decide buddy vast weird drip predict wear motor inherit magic airport";
+var mnemonic = "road tobacco cluster chair tornado fringe educate tongue innocent portion delay own";

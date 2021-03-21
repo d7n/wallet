@@ -1,1 +1,1 @@
-var mnemonic = "carpet material donate blur dignity outdoor addict sunset husband bubble joke elbow";
+var mnemonic = "laundry orchard flash country stool mind blame cactus jar long swift whisper";

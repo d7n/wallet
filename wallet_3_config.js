@@ -1,1 +1,1 @@
-var mnemonic = "design size ugly degree left raccoon chicken apart theory panic paddle skin";
+var mnemonic = "off fire hand belt again staff mosquito ethics mosquito damp cross afraid";

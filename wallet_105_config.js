@@ -1,1 +1,1 @@
-var mnemonic = "scale stock muffin vivid almost secret history tip sausage thing intact reveal";
+var mnemonic = "help figure custom employ inside badge aware nose airport public help enter";

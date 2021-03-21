@@ -1,1 +1,1 @@
-var mnemonic = "fault pact increase prosper space case clean urge benefit snake cat tilt";
+var mnemonic = "between key hood acoustic bunker win put useful delay spend hollow increase";

@@ -1,1 +1,1 @@
-var mnemonic = "critic crunch harvest nest inner athlete click ball spawn exist shine grow";
+var mnemonic = "sadness gentle open level flee focus render shed pledge grit now pluck";

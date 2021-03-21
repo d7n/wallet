@@ -1,1 +1,1 @@
-var mnemonic = "hurdle evoke silly target chair brush lemon laptop honey mind laundry kiwi";
+var mnemonic = "attract clever beef cement unhappy demand beauty tooth truck slam hockey wine";

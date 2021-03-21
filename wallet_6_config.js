@@ -1,1 +1,1 @@
-var mnemonic = "steel garbage sunset cake net account alone cake dream kingdom unfold panel";
+var mnemonic = "grit receive grid flat castle flower act demand print banana view frequent";

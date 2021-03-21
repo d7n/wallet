@@ -1,1 +1,1 @@
-var mnemonic = "planet suggest ghost wall art neglect aware trick pelican artefact shoulder tennis";
+var mnemonic = "runway theme catalog canal color motion travel beyond parrot oak upset measure";

@@ -1,1 +1,1 @@
-var mnemonic = "junior various lizard parent zoo still embody culture year rival unhappy width";
+var mnemonic = "gentle office gallery visa number giant charge iron prevent sniff nominee ball";

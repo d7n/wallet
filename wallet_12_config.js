@@ -1,1 +1,1 @@
-var mnemonic = "abstract slow sample museum donate record skill space wet boat nation make";
+var mnemonic = "scale fringe keen umbrella company solution file crunch obvious glove memory wheat";

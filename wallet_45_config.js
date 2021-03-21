@@ -1,1 +1,1 @@
-var mnemonic = "impose major maid cram gown tackle rule reform cruel vague crazy turkey";
+var mnemonic = "tide smart flush fatigue menu table swamp area shock crime prefer science";

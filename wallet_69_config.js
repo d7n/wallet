@@ -1,1 +1,1 @@
-var mnemonic = "potato sword food sustain start total wrestle couple orbit clump viable measure";
+var mnemonic = "shell various behave borrow inhale brand track material egg denial between dune";

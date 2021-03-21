@@ -1,1 +1,1 @@
-var mnemonic = "advice drift episode myself pull resist tape deputy tooth grain property type";
+var mnemonic = "wagon gallery alarm search oppose blood segment mask dinner local mask analyst";

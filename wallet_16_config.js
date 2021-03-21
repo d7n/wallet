@@ -1,1 +1,1 @@
-var mnemonic = "decade door unusual cannon void erupt train web memory venture spike paper";
+var mnemonic = "that desk lend west regret movie trophy buddy spoil tree few bench";

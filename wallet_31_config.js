@@ -1,1 +1,1 @@
-var mnemonic = "toilet original push lizard bless dad acoustic sustain beef cat ready potato";
+var mnemonic = "sound wood arena web main volcano crystal toast iron leave outdoor issue";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate lawsuit lazy shoe rebuild slush torch faint salad tenant name initial";
+var mnemonic = "cook jazz predict boss above air purity two april arch nice salmon";

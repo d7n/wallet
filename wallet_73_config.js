@@ -1,1 +1,1 @@
-var mnemonic = "kind ability whale power duty rare offer guilt repair wing museum search";
+var mnemonic = "sketch pave raise execute shock employ claim goat police bus grass anger";

@@ -1,1 +1,1 @@
-var mnemonic = "spin rail great erosion coyote subject service patient detail prosper cattle video";
+var mnemonic = "property emerge senior father museum mobile chicken orphan under antenna habit hand";

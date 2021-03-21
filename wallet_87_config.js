@@ -1,1 +1,1 @@
-var mnemonic = "parent inherit odor expand weird left doll depart seat vibrant right drink";
+var mnemonic = "force soldier chest ethics upper price side cart mechanic upon soda interest";

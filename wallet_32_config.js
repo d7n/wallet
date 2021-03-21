@@ -1,1 +1,1 @@
-var mnemonic = "marine ahead denial train minute fork roof phrase skull nominee skull radio";
+var mnemonic = "goat bamboo crystal day shoe draft begin twist inner siege sign cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "expect liquid action actual sell trip defy height cruel forget leisure crunch";
+var mnemonic = "squeeze sorry island matrix unique remove trash angle unusual salute swap route";

@@ -1,1 +1,1 @@
-var mnemonic = "need bid despair mother only reward suggest egg attack onion oblige worry";
+var mnemonic = "human clown zebra salad you address tongue enemy legal modify habit benefit";

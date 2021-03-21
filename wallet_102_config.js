@@ -1,1 +1,1 @@
-var mnemonic = "couple total edit bean poem soccer tornado planet diagram jeans diamond behind";
+var mnemonic = "absorb settle suspect wagon drink science weasel lobster tiger they pact more";

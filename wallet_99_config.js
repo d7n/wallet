@@ -1,1 +1,1 @@
-var mnemonic = "produce short machine truck cradle duck intact pull daring pool above later";
+var mnemonic = "april pig fitness deny piece canal mansion royal inside dignity next turn";

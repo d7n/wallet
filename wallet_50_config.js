@@ -1,1 +1,1 @@
-var mnemonic = "monkey cave couple crew buzz visual rare awesome salad expand bundle actor";
+var mnemonic = "shine ivory sustain village brother march steel glue normal heart mandate panda";

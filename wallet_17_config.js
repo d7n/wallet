@@ -1,1 +1,1 @@
-var mnemonic = "embrace already cloud cloth raw hundred demand iron collect interest loyal trap";
+var mnemonic = "music marriage tissue egg twin sister book deer replace bundle giggle state";

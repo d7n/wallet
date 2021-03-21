@@ -1,1 +1,1 @@
-var mnemonic = "vacuum dish govern exact alien decide crumble hint mass change fetch piece";
+var mnemonic = "same already tip old movie aunt trophy carry usual run sweet then";

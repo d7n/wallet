@@ -1,1 +1,1 @@
-var mnemonic = "mad bid soul reform impact hollow member merit middle scissors cycle where";
+var mnemonic = "electric sausage aisle pilot will mobile inquiry bulb wrap fashion combine skate";

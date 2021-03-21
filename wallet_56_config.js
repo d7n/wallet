@@ -1,1 +1,1 @@
-var mnemonic = "index walk must such hammer gloom enjoy nest fashion rural suit install";
+var mnemonic = "moment treat lyrics circle certain plastic cost original shield harbor fine sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "army cruise choice horse text team cactus wheel cloud good song olive";
+var mnemonic = "pottery usage bachelor fall absent impose cereal road able melody tornado enlist";

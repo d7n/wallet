@@ -1,1 +1,1 @@
-var mnemonic = "curve wheat detect nation deer grid outer waste oil amazing mechanic card";
+var mnemonic = "prevent toddler section buddy fresh wrestle then upper limb budget please virtual";

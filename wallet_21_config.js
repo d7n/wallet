@@ -1,1 +1,1 @@
-var mnemonic = "wait element narrow disease palm total know ocean quote beyond join define";
+var mnemonic = "bamboo net middle weasel click frost snap mass member brain cute season";

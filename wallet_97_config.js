@@ -1,1 +1,1 @@
-var mnemonic = "close feature brief danger juice park lemon duck face hungry grocery crush";
+var mnemonic = "replace local text enrich picnic sniff cargo average ability call analyst clean";

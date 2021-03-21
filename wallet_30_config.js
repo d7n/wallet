@@ -1,1 +1,1 @@
-var mnemonic = "verb zone melt pluck only uphold tray lesson rose inside inherit time";
+var mnemonic = "method smooth glove drift season judge noodle bean raven pink north gauge";

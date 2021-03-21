@@ -1,1 +1,1 @@
-var mnemonic = "fruit cup ceiling engage can enhance pepper unfold goose connect wild puzzle";
+var mnemonic = "timber defense apology economy march abandon gravity pigeon case funny reform title";

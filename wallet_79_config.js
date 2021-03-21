@@ -1,1 +1,1 @@
-var mnemonic = "forest toward case hollow muffin artefact okay wolf lift bike elite supply";
+var mnemonic = "quit enhance grant mass odor gather silly exit tennis mystery oil dust";

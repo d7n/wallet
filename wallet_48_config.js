@@ -1,1 +1,1 @@
-var mnemonic = "cram invest chapter luggage engage assume monster tide fitness shop unveil diet";
+var mnemonic = "absent sign electric enemy boring version letter useful shoe bulb avocado mixture";

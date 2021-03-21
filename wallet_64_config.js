@@ -1,1 +1,1 @@
-var mnemonic = "pigeon voice flower surface scout chunk winner blame axis resource hip pen";
+var mnemonic = "nuclear crash disagree shop metal enough road stage swallow tissue profit imitate";

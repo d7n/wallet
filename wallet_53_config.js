@@ -1,1 +1,1 @@
-var mnemonic = "frequent monster brush outer clog paddle direct winner swarm swift core cattle";
+var mnemonic = "aerobic dentist ladder vote buddy vocal addict air maple second police abuse";

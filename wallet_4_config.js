@@ -1,1 +1,1 @@
-var mnemonic = "entry twenty exercise pole fade bind embrace poet cinnamon rate smoke review";
+var mnemonic = "series follow velvet ginger lawsuit indicate infant top inside crack stone sister";

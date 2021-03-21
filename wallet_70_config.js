@@ -1,1 +1,1 @@
-var mnemonic = "orchard prepare scrub tongue letter silver nest elite push cup horn arrange";
+var mnemonic = "coyote crater stamp crouch organ tragic rib idle virtual wrestle two theme";

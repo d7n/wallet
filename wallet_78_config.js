@@ -1,1 +1,1 @@
-var mnemonic = "brave word nasty fuel exhaust taste involve favorite actor essence pattern stool";
+var mnemonic = "bicycle raccoon canvas erase icon oyster number pilot sword chalk swim abandon";

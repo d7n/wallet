@@ -1,1 +1,1 @@
-var mnemonic = "dirt come kingdom obscure rug valley view plate pen idle figure dad";
+var mnemonic = "spring grace hub mask trouble purse slim sunny domain quarter walk stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "rich diamond burger erosion street purity armor use require cup chimney paper";
+var mnemonic = "access aerobic sea employ junior original bird possible sure bulk hawk marriage";

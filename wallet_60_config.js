@@ -1,1 +1,1 @@
-var mnemonic = "buyer believe relief wish sword traffic nothing dog thrive cliff vanish bone";
+var mnemonic = "polar salon penalty aisle speak purity share stereo witness asset motion brass";

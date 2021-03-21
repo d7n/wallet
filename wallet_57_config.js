@@ -1,1 +1,1 @@
-var mnemonic = "mechanic practice gospel final stem vague fresh citizen metal term mango rich";
+var mnemonic = "alarm invest feed timber blanket involve push actress fit ready ordinary below";

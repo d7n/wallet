@@ -1,1 +1,1 @@
-var mnemonic = "boring manual pole column blur differ veteran waste grid picture boost opinion";
+var mnemonic = "across drill bench vintage unaware corn scissors race search around pulse change";

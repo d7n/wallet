@@ -1,1 +1,1 @@
-var mnemonic = "alpha visit ensure satoshi capable fantasy health arctic october sweet typical project";
+var mnemonic = "velvet ceiling price cage oyster agree buyer arrive target hammer dawn pony";

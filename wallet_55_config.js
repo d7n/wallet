@@ -1,1 +1,1 @@
-var mnemonic = "kick diesel uphold treat success horn certain device divide nasty neither filter";
+var mnemonic = "gentle enlist dust such awesome utility sentence outdoor powder city guard bamboo";

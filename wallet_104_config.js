@@ -1,1 +1,1 @@
-var mnemonic = "ensure pair giraffe claim autumn observe number shoulder solution orchard recycle alcohol";
+var mnemonic = "alien edge prize open fury amazing trick chimney olive tornado kite column";

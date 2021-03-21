@@ -1,1 +1,1 @@
-var mnemonic = "beauty actor kick spike initial audit kiwi wisdom ethics volcano celery promote";
+var mnemonic = "universe wolf fabric goat slim dog divide unique noodle enforce hungry lady";

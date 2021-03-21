@@ -1,1 +1,1 @@
-var mnemonic = "pupil patrol day panel benefit frown midnight solar ski inflict vicious media";
+var mnemonic = "antenna equip able oak smile capital skill veteran vacuum cabbage ocean ring";

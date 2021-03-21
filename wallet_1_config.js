@@ -1,1 +1,1 @@
-var mnemonic = "kingdom add keen quit penalty oak that latin arrive diamond uncle wink";
+var mnemonic = "sleep pool unlock demise captain soldier fade razor lend hire muffin venue";

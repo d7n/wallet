@@ -1,1 +1,1 @@
-var mnemonic = "vague tiger region water knife pulp board vanish tornado choice express two";
+var mnemonic = "sausage pelican spawn measure cup slim lounge pond canal pond return panda";

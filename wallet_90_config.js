@@ -1,1 +1,1 @@
-var mnemonic = "monster shy panel term beach when road siege advice clap laundry city";
+var mnemonic = "denial eye garment sea plug arm gravity layer coast price wear trophy";

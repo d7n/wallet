@@ -1,1 +1,1 @@
-var mnemonic = "jaguar version current table spread harsh prepare balance wagon all antique cheap";
+var mnemonic = "report error powder clever duty permit coral motion media maximum hub keen";

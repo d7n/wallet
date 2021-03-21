@@ -1,1 +1,1 @@
-var mnemonic = "buyer sight antenna treat hood spring live lecture horse choose obey border";
+var mnemonic = "reduce mind obtain exotic room defy task mother joke census organ couch";

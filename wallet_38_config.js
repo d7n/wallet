@@ -1,1 +1,1 @@
-var mnemonic = "stomach dance one frown okay dolphin raccoon whisper rubber soldier candy first";
+var mnemonic = "cereal immune material shield okay verb prosper novel illegal resemble edit delay";

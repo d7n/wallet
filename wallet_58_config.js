@@ -1,1 +1,1 @@
-var mnemonic = "buzz great wheat auto endorse dune defy decrease arrest fox easily village";
+var mnemonic = "soft ghost high define when tip mosquito sword frown clog pause one";

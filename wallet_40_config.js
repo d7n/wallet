@@ -1,1 +1,1 @@
-var mnemonic = "thumb stumble pause safe lab twice wash goose urban fashion sadness middle";
+var mnemonic = "snack embrace flavor stool explain impose seek acoustic actor chunk grit provide";

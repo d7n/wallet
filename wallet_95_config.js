@@ -1,1 +1,1 @@
-var mnemonic = "flip ticket sister clever critic provide identify era final extend canvas venture";
+var mnemonic = "beef dream case before tennis early cinnamon auction cactus laundry dose finish";

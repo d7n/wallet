@@ -1,1 +1,1 @@
-var mnemonic = "glance broom orange satisfy country eyebrow beyond mobile toast attend twice magic";
+var mnemonic = "lemon minimum use nest tell mesh labor area approve rather ginger tribe";

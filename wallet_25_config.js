@@ -1,1 +1,1 @@
-var mnemonic = "valley fog battle perfect mom almost monitor interest float velvet cage purchase";
+var mnemonic = "peace model blossom save camp rotate memory insect project ensure depart force";

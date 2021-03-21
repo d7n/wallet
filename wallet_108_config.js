@@ -1,1 +1,1 @@
-var mnemonic = "direct chief dilemma point humble kiss car receive tape punch dawn monitor";
+var mnemonic = "congress box prison dish risk rookie lumber process trip oil mad outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce hurry atom magnet circle client toss drip tired knee borrow angry";
+var mnemonic = "victory enroll ill lion ahead huge liar library cloth click noble shrimp";

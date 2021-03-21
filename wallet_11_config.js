@@ -1,1 +1,1 @@
-var mnemonic = "gospel beauty skin person thought found lawsuit harvest drill picture endless work";
+var mnemonic = "bridge rail point crouch often keen leader baby also idea hair peasant";

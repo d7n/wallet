@@ -1,1 +1,1 @@
-var mnemonic = "squeeze rice neglect deal run renew interest balance trend select addict between";
+var mnemonic = "finger twenty shift must scare wagon dash gold hard weapon mammal moon";

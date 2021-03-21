@@ -1,1 +1,1 @@
-var mnemonic = "decide cloud orient smile strike actor setup sorry trap cigar switch staff";
+var mnemonic = "advice public hip project drop top scan man garment account metal now";

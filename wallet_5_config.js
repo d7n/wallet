@@ -1,1 +1,1 @@
-var mnemonic = "setup budget ticket once evolve pulp liquid island skin bacon dice trash";
+var mnemonic = "grow bonus orbit weapon decorate poem correct strong lady solar assault secret";

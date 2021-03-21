@@ -1,1 +1,1 @@
-var mnemonic = "horror gift photo vintage leader voice delay web come oblige ice stay";
+var mnemonic = "safe dish act inject bleak kick hub indoor unveil practice post april";

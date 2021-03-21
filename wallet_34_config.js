@@ -1,1 +1,1 @@
-var mnemonic = "august north combine innocent total legal rifle fog ketchup piece immune piece";
+var mnemonic = "file mouse host palm install cushion glance grant veteran fox salute broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi velvet east kick fashion crime shaft type essence health note clock";
+var mnemonic = "wink action sketch crack hard van section enact rare exhaust predict body";

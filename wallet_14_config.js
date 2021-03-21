@@ -1,1 +1,1 @@
-var mnemonic = "talent swift valid illness great return script safe poverty deer inflict major";
+var mnemonic = "gold sudden quiz guide nominee harvest scorpion question region basket harbor meat";

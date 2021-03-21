@@ -1,1 +1,1 @@
-var mnemonic = "flock strike wire guess sun awkward remain dune swift deal play dutch";
+var mnemonic = "used receive used fox become denial income drip remember review cigar slight";

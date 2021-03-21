@@ -1,1 +1,1 @@
-var mnemonic = "chunk ramp below physical cram occur million renew like blue arrange slow";
+var mnemonic = "ball dismiss convince over black hub fiber pause forget fetch family skull";

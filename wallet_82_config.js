@@ -1,1 +1,1 @@
-var mnemonic = "search ring mix laptop material hunt purpose urge member gold ginger drink";
+var mnemonic = "shy resemble honey nut neck genius flame setup cheese cabin wife mom";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic woman slab gym office odor tide must interest memory mushroom damp";
+var mnemonic = "manage possible foot stomach erase slice palm short witness zone valve ribbon";

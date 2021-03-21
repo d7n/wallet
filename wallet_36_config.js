@@ -1,1 +1,1 @@
-var mnemonic = "disease wrist puzzle romance shrimp start kit myth whisper stable rubber volume";
+var mnemonic = "supreme cloud liquid panic save fame solve dragon dolphin lobster tank program";

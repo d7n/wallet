@@ -1,1 +1,1 @@
-var mnemonic = "false again perfect tennis clump romance river helmet inform swamp track merge";
+var mnemonic = "model fat inform combine major wheel horn happy tank crater elbow blouse";
