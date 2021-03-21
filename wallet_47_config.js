@@ -1,1 +1,1 @@
-var mnemonic = "include coil grit whale detect service breeze fringe puppy promote gadget injury";
+var mnemonic = "accident daring mention lamp song stone recycle advice grab clarify project orphan";

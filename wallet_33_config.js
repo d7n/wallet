@@ -1,1 +1,1 @@
-var mnemonic = "above reflect marriage person gap demise tell gadget stone off adjust reason";
+var mnemonic = "leader frown plate wasp butter friend stay space huge depart draft tell";

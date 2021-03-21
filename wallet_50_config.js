@@ -1,1 +1,1 @@
-var mnemonic = "finish hill cereal rifle retreat song inmate organ shy bomb veteran lobster";
+var mnemonic = "steak bid finish toilet about clog adjust level demise pluck deny acid";

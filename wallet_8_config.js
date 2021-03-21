@@ -1,1 +1,1 @@
-var mnemonic = "speak smart genre siren rebuild segment seat state hollow admit donate one";
+var mnemonic = "green change clock october reunion avoid rich hero wet daughter buzz margin";

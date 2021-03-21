@@ -1,1 +1,1 @@
-var mnemonic = "buffalo during foster produce odor drive record offer visa morning tilt track";
+var mnemonic = "dish host collect whisper first boat famous uniform quiz move rather tail";

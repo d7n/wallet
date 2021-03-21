@@ -1,1 +1,1 @@
-var mnemonic = "giraffe weather surround planet oyster moon punch buddy raise eight silly divert";
+var mnemonic = "worth olympic knife royal sad pumpkin news element sausage erase absorb ice";

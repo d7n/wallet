@@ -1,1 +1,1 @@
-var mnemonic = "top legal hello feel rabbit review material turtle fork puppy update pony";
+var mnemonic = "review column engage person relief squirrel sadness canyon angry trend more onion";

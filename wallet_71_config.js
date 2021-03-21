@@ -1,1 +1,1 @@
-var mnemonic = "volume nest tiny skin layer success penalty truth glue disorder issue right";
+var mnemonic = "sphere clerk green analyst sister spoon six admit become bus earth process";

@@ -1,1 +1,1 @@
-var mnemonic = "enact pattern biology tiger cereal repeat exit resource slice news property drum";
+var mnemonic = "lumber add nest remind flush excuse another street equip video legend tackle";

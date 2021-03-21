@@ -1,1 +1,1 @@
-var mnemonic = "record bullet soul mushroom year width enact subway palace daughter trick velvet";
+var mnemonic = "inch vacuum rich match moment source quality symptom problem board knife devote";

@@ -1,1 +1,1 @@
-var mnemonic = "organ patrol town have material six choice walk surround raccoon region silent";
+var mnemonic = "junk cause enable loyal right shrug lobster uniform voice wedding little gasp";

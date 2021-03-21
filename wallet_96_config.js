@@ -1,1 +1,1 @@
-var mnemonic = "first uncle bread task agree hour steel detect install kitten demise clap";
+var mnemonic = "gather earn danger you muffin attend effort dynamic stable swap all naive";

@@ -1,1 +1,1 @@
-var mnemonic = "end second donor truly option jacket pause easy transfer cotton cupboard blame";
+var mnemonic = "resist cluster elephant alpha green helmet time rice remind forget coil session";

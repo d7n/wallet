@@ -1,1 +1,1 @@
-var mnemonic = "claw gaze enjoy truly miss label penalty gun strike panda envelope wrap";
+var mnemonic = "they between lottery buyer better super outer black diary author daughter earth";

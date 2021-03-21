@@ -1,1 +1,1 @@
-var mnemonic = "paddle diamond olympic double margin attend future acoustic tuition thank lens bleak";
+var mnemonic = "cry fuel sphere bench monster face list again badge excite clever jelly";

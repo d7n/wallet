@@ -1,1 +1,1 @@
-var mnemonic = "wonder basic marble chief dizzy slice sustain approve garage orphan blanket ridge";
+var mnemonic = "join cause maximum post october inflict disorder attitude fit huge marble chunk";

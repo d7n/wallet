@@ -1,1 +1,1 @@
-var mnemonic = "nothing dutch predict mesh swear enter reduce actual vehicle hen diagram banner";
+var mnemonic = "journey shallow narrow enact hockey pledge rail jungle lab link humble ignore";

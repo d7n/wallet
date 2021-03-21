@@ -1,1 +1,1 @@
-var mnemonic = "abandon loud device entry dolphin elite recipe nose limit soldier notice height";
+var mnemonic = "task inhale plug mule lab magnet example leisure become mix regular spawn";

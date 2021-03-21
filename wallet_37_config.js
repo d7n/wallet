@@ -1,1 +1,1 @@
-var mnemonic = "assault portion spread utility awful like blame medal true obey ski menu";
+var mnemonic = "antique mail below comic chronic spike kitchen dentist busy gospel misery hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "noise ancient reopen lift noble lizard faint riot chase butter jealous fruit";
+var mnemonic = "twenty enable frame theory pole upgrade day exotic debris talk glow lesson";

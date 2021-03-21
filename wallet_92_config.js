@@ -1,1 +1,1 @@
-var mnemonic = "price provide knee truly brush anxiety valley whisper ten orient scan smooth";
+var mnemonic = "quiz bacon garment public mechanic survey supply blush grape mirror cup smooth";

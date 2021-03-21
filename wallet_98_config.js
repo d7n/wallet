@@ -1,1 +1,1 @@
-var mnemonic = "post prison feel harbor bonus potato obtain stage judge finish carpet retire";
+var mnemonic = "traffic adjust tumble capital rack cost ship puppy hero verb type glide";

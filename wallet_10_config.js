@@ -1,1 +1,1 @@
-var mnemonic = "stuff exist canoe mountain top fuel bicycle lizard parade opera border quit";
+var mnemonic = "forget soccer tuition spatial guess time gossip random recipe minimum snack talent";

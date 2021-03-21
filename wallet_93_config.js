@@ -1,1 +1,1 @@
-var mnemonic = "amused movie blood member mother luggage can core interest huge toe weasel";
+var mnemonic = "spawn lift taste capable noodle scene flat drip ugly oxygen swap extend";

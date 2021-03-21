@@ -1,1 +1,1 @@
-var mnemonic = "giraffe group car inch swim audit dust slice puppy topic drum animal";
+var mnemonic = "meadow talk wild identify divorce snow nature dwarf energy sibling refuse muffin";

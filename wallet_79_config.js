@@ -1,1 +1,1 @@
-var mnemonic = "invite smooth roof work tortoise vanish worth animal leopard inch visa elder";
+var mnemonic = "breeze puzzle tomato wrong inmate blue muffin delay pair clay elbow nature";

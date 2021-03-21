@@ -1,1 +1,1 @@
-var mnemonic = "again help alarm rubber gadget update initial describe jungle physical path spatial";
+var mnemonic = "camera intact tone defense hen matrix globe smart live fold small run";

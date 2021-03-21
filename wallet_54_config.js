@@ -1,1 +1,1 @@
-var mnemonic = "below winter inch vacuum deposit stereo sound toilet garment online pink chest";
+var mnemonic = "bottom grief name address distance latin allow round myth excess blast various";

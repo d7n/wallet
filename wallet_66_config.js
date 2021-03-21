@@ -1,1 +1,1 @@
-var mnemonic = "rice weird envelope process close design enough ostrich music drum park second";
+var mnemonic = "pattern okay tennis spend unlock orient tackle sort head chief confirm decorate";

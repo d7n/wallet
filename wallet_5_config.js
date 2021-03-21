@@ -1,1 +1,1 @@
-var mnemonic = "embrace enforce coin diagram march rapid trouble cash kangaroo fruit attack easy";
+var mnemonic = "blouse rich ivory property recall ethics bulb tag popular egg fire path";

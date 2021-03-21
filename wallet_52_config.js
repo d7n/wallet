@@ -1,1 +1,1 @@
-var mnemonic = "creek arctic odor plunge suggest grape dry ketchup lady noise shock diesel";
+var mnemonic = "crash tip chapter leopard sea bounce frown flame ostrich crater chat spare";

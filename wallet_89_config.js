@@ -1,1 +1,1 @@
-var mnemonic = "fire solid piano tank bulk warrior rebuild weather spike accuse suffer flush";
+var mnemonic = "depart swamp result crawl simple business area lava donate arm expire coach";

@@ -1,1 +1,1 @@
-var mnemonic = "display access skin nose sentence margin magic cattle ethics believe social rail";
+var mnemonic = "van collect possible sense pen liar crack arch key just trumpet jar";

@@ -1,1 +1,1 @@
-var mnemonic = "chase journey route acid pass tool final address put fiscal accident convince";
+var mnemonic = "nose armed alter home exercise between unique theme wisdom recycle dismiss industry";

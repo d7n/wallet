@@ -1,1 +1,1 @@
-var mnemonic = "human obvious blur bar body still tuition shaft inflict arena path check";
+var mnemonic = "almost robust derive car state type mercy clean beef young happy object";

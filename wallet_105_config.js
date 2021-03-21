@@ -1,1 +1,1 @@
-var mnemonic = "material runway bargain trigger slow label elephant hawk hour hat finish sort";
+var mnemonic = "hen ship siege scissors shoot poverty gasp cabbage race holiday mix brass";

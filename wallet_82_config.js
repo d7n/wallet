@@ -1,1 +1,1 @@
-var mnemonic = "lava cart label basket pole hockey notice like idea hero hire venture";
+var mnemonic = "visit glimpse scrap misery nasty second tissue hero walk limit wing domain";

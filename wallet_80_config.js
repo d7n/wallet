@@ -1,1 +1,1 @@
-var mnemonic = "strategy assist act option measure airport warrior child medal giggle civil talk";
+var mnemonic = "gravity meat debris cream connect focus dance cherry mystery coyote awful thing";

@@ -1,1 +1,1 @@
-var mnemonic = "ride display duck violin wait eight suffer coil nothing faculty destroy unable";
+var mnemonic = "sponsor cup animal cute coyote comic lunar various clay broccoli february vacuum";

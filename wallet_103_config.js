@@ -1,1 +1,1 @@
-var mnemonic = "owner cloth skirt field trend dynamic leg large stage weekend priority badge";
+var mnemonic = "sad flavor acoustic meadow fragile bus path squirrel dentist case interest inflict";

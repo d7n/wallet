@@ -1,1 +1,1 @@
-var mnemonic = "demise gentle bird step special barely tilt horror fine sample omit just";
+var mnemonic = "coffee path rich extra pyramid when coffee blanket another rebuild auto problem";

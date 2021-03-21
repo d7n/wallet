@@ -1,1 +1,1 @@
-var mnemonic = "clerk peanut dynamic top bright valid nature explain tired tongue track roof";
+var mnemonic = "summer cave civil cool scan poet vanish letter slice elephant decade valley";

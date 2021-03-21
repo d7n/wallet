@@ -1,1 +1,1 @@
-var mnemonic = "garden hollow retreat fever deny common hover target method airport flame inner";
+var mnemonic = "program sun zone wire curtain when seat oil barrel glance gather tent";

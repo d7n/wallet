@@ -1,1 +1,1 @@
-var mnemonic = "wheat plug cube jewel wreck sniff mind hint alone obscure curtain decrease";
+var mnemonic = "vehicle vendor lobster purse jacket supply scale scrap laugh slice combine earn";

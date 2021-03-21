@@ -1,1 +1,1 @@
-var mnemonic = "energy banana shy dawn avocado clock execute repeat bus exchange opera final";
+var mnemonic = "convince surprise flame lumber farm crane prefer side dignity phrase winner crop";

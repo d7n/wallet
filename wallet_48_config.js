@@ -1,1 +1,1 @@
-var mnemonic = "game insane siege quality story emotion story unaware cabbage black film eager";
+var mnemonic = "awake rule magnet kid orbit bless disagree shop long toss toss post";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble front face cool flag cycle random feed discover push dismiss slight";
+var mnemonic = "equal attack mother toast chunk increase tornado surge advice visa bulk shine";

@@ -1,1 +1,1 @@
-var mnemonic = "attack theme sport deposit cash slogan pelican hub depart age document pool";
+var mnemonic = "boring hospital miracle field fork wisdom exchange hunt machine name jewel coin";

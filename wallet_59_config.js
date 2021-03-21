@@ -1,1 +1,1 @@
-var mnemonic = "convince miracle tell chapter protect because elite dignity task tag ocean fantasy";
+var mnemonic = "art dry nephew nature useless sting fragile until parent atom click undo";

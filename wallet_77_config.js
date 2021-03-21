@@ -1,1 +1,1 @@
-var mnemonic = "venue menu sphere milk coin ring veteran glance vehicle moment pink divorce";
+var mnemonic = "win script raw live flavor asthma decade frown flee skill other travel";

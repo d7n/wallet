@@ -1,1 +1,1 @@
-var mnemonic = "catch gold swamp junior bunker biology lyrics neglect vapor language salt process";
+var mnemonic = "mystery marble dinosaur brass profit velvet evoke used call blur camera shell";

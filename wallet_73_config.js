@@ -1,1 +1,1 @@
-var mnemonic = "opera army evolve jungle wash supreme begin nut correct federal sleep praise";
+var mnemonic = "decade culture skill excuse october dog option crowd two symbol purse hazard";

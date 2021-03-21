@@ -1,1 +1,1 @@
-var mnemonic = "holiday model key beef cube kick devote egg share angle brown tonight";
+var mnemonic = "screen crisp actual spirit firm toe cross result length credit spin invest";

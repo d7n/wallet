@@ -1,1 +1,1 @@
-var mnemonic = "cable analyst desk install ready impact sun custom salad glide explain still";
+var mnemonic = "warrior siren loud say control bitter great convince dice receive tide engage";

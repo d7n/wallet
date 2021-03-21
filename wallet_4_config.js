@@ -1,1 +1,1 @@
-var mnemonic = "bread knee original retire wish salt rubber inner imitate puppy educate flat";
+var mnemonic = "view smart cheap nerve dog time donkey mesh common estate little they";

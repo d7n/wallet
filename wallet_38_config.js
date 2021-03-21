@@ -1,1 +1,1 @@
-var mnemonic = "motion cannon edit smoke undo disorder task sing theory frozen volcano item";
+var mnemonic = "feed plunge great minor boring sleep surprise bus turtle leg electric ability";

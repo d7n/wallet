@@ -1,1 +1,1 @@
-var mnemonic = "orchard oppose above neither fury army clip ahead little abandon time seek";
+var mnemonic = "polar snack humor recipe buddy dance broom addict scare employ mad ginger";

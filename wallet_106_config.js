@@ -1,1 +1,1 @@
-var mnemonic = "switch luggage priority pause village dust silly polar embrace ridge timber prefer";
+var mnemonic = "kid panda dwarf force run fold across garbage dress palm search educate";

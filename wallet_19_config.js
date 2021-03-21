@@ -1,1 +1,1 @@
-var mnemonic = "swap soccer cable cotton wild usual climb crunch thunder horror luxury route";
+var mnemonic = "carpet wide plastic source boat ugly high round reason rotate mystery hello";

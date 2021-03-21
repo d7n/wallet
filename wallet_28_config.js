@@ -1,1 +1,1 @@
-var mnemonic = "broom push damp oblige salute master genuine wife shift what hope purse";
+var mnemonic = "debris illegal all embrace together find flash someone tube wrap session hollow";

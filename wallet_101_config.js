@@ -1,1 +1,1 @@
-var mnemonic = "question congress usage bid dragon piece brown able holiday success milk exercise";
+var mnemonic = "belt surface gun dawn lamp normal ticket tattoo bridge gospel word slight";

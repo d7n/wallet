@@ -1,1 +1,1 @@
-var mnemonic = "noble dignity ensure vivid student perfect curious any online deal aim mirror";
+var mnemonic = "slim eight acoustic fragile lemon horn exile zero chase increase embark desk";

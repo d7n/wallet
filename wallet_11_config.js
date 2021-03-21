@@ -1,1 +1,1 @@
-var mnemonic = "space suit host van sight reopen situate slide buyer garment smart iron";
+var mnemonic = "slush health poem often camera advance essence inherit bubble aunt sustain truck";

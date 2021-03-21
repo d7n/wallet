@@ -1,1 +1,1 @@
-var mnemonic = "amount nation leisure mobile uphold chase axis kind gold glance vintage bundle";
+var mnemonic = "frog couch mandate cave glove lunar wish thunder dynamic swap book tool";

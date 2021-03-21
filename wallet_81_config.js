@@ -1,1 +1,1 @@
-var mnemonic = "aunt accuse fragile tape address essay prison tube blur erupt bronze fine";
+var mnemonic = "lion price wild quote profit parent amount attend hello crowd farm layer";

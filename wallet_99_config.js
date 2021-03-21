@@ -1,1 +1,1 @@
-var mnemonic = "circle fall claw era humble steel vital organ rule urban expand card";
+var mnemonic = "chapter wasp dolphin enhance fat thumb client across sunny risk load used";

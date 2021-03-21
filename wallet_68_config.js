@@ -1,1 +1,1 @@
-var mnemonic = "gym inch ghost fossil session area slab problem melt exact true hero";
+var mnemonic = "state throw glimpse express daughter adjust audit glare athlete together track pluck";

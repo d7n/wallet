@@ -1,1 +1,1 @@
-var mnemonic = "hole warrior hotel shoulder bubble rival weekend copy chalk average churn scissors";
+var mnemonic = "clock day clap drastic eternal expose police kiwi oval history chronic symbol";

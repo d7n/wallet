@@ -1,1 +1,1 @@
-var mnemonic = "poet provide defy critic rare middle tumble loyal boy useless faint disorder";
+var mnemonic = "green green desk grid solution moon proof winner nasty empower endless media";

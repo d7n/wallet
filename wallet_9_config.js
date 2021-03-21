@@ -1,1 +1,1 @@
-var mnemonic = "awful omit permit input impact parrot crime album tomato confirm soft crush";
+var mnemonic = "gauge burst female envelope list tide gorilla guard spirit inquiry assume hazard";

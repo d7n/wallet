@@ -1,1 +1,1 @@
-var mnemonic = "boat blind ostrich wage slogan later high limit shy together recall crash";
+var mnemonic = "dog ski inside poverty voyage ankle bicycle maximum moon salmon project knife";

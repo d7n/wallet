@@ -1,1 +1,1 @@
-var mnemonic = "fortune huge pact pulse alcohol wedding valley rain lens pet pass valid";
+var mnemonic = "universe venture round goddess curtain pigeon spike picture happy club off enact";

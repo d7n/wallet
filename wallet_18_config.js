@@ -1,1 +1,1 @@
-var mnemonic = "canal shine maple vicious sell gentle cross quantum seminar subway one strategy";
+var mnemonic = "select fish fragile dial nose nut hat unfair praise reform frozen message";

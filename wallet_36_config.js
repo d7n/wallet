@@ -1,1 +1,1 @@
-var mnemonic = "figure scale cream muscle convince grocery crouch next alarm very action inspire";
+var mnemonic = "exile huge dynamic also piece vocal seminar quote keep aunt above comfort";

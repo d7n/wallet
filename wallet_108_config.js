@@ -1,1 +1,1 @@
-var mnemonic = "march notice winter cousin trouble kite add whip section sunset castle dance";
+var mnemonic = "age blossom jeans december whale devote test need into twenty dial talk";

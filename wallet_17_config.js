@@ -1,1 +1,1 @@
-var mnemonic = "arch blouse creek electric key sausage tragic expire body banana winner nature";
+var mnemonic = "doll copy day robust subject wide toe blanket man coral medal cram";

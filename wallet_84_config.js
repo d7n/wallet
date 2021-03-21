@@ -1,1 +1,1 @@
-var mnemonic = "amateur toy tornado silver flash century tribe cancel push suit notable certain";
+var mnemonic = "enrich dress oil gentle rate dismiss rotate announce wall claw fatigue vanish";

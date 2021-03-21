@@ -1,1 +1,1 @@
-var mnemonic = "latin cruel pluck age comic brand open common adjust around focus example";
+var mnemonic = "reunion frost square wrist green label file marble second steak able flock";

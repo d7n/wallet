@@ -1,1 +1,1 @@
-var mnemonic = "ready drip body enforce lunch wait genius history weasel obtain wife light";
+var mnemonic = "rough attend ginger sure expire donkey tired harsh asset transfer puzzle into";

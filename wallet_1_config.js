@@ -1,1 +1,1 @@
-var mnemonic = "crouch absorb journey purchase various shoe boil real dust comic search eagle";
+var mnemonic = "thank solution math bundle scare live capable vicious live pole grief hospital";

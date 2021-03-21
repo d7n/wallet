@@ -1,1 +1,1 @@
-var mnemonic = "wrap float example rent answer bubble raven crane divert parade crowd party";
+var mnemonic = "card ripple smart control target eight dutch muffin various unveil cigar topple";

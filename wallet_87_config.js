@@ -1,1 +1,1 @@
-var mnemonic = "pitch liar license comfort audit kid sugar vicious hip orchard defy moment";
+var mnemonic = "visual together salmon rapid bright field file never swallow gadget super grid";

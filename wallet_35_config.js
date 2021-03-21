@@ -1,1 +1,1 @@
-var mnemonic = "puzzle symptom umbrella license myth ten slide bind photo sell culture step";
+var mnemonic = "exchange add glove dignity try left off usage unable bomb drastic announce";

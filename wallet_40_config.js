@@ -1,1 +1,1 @@
-var mnemonic = "fall crew gossip gun tired trash broom dynamic nominee cupboard cannon flame";
+var mnemonic = "common token cotton spray only chef advance drama private minute artwork wife";

@@ -1,1 +1,1 @@
-var mnemonic = "garage civil sock erosion spot evoke debate topic exhibit online crush address";
+var mnemonic = "item pilot sail episode limit remain finish reward upper swim fitness table";

@@ -1,1 +1,1 @@
-var mnemonic = "odor address strong swarm whale erupt slide exotic game blood excuse rescue";
+var mnemonic = "feed cream slush artwork castle absorb crack slim unable intact mutual silly";

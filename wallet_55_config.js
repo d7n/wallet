@@ -1,1 +1,1 @@
-var mnemonic = "panda onion supreme horn excess distance genre nature biology race lens ozone";
+var mnemonic = "fresh luggage merge client swear visit material novel turkey slim mercy mechanic";

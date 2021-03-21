@@ -1,1 +1,1 @@
-var mnemonic = "side position chase couch warrior practice actor hawk expose pretty broom pair";
+var mnemonic = "claw eagle elevator invite shed surround dwarf connect season diesel february two";

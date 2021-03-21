@@ -1,1 +1,1 @@
-var mnemonic = "neutral shoulder shiver often bind mad source leaf fetch gold perfect fold";
+var mnemonic = "very improve text injury eager congress field wave toddler decide february upset";

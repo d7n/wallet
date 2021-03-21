@@ -1,1 +1,1 @@
-var mnemonic = "olive obtain hint jazz market virtual dad media wing hybrid wear wolf";
+var mnemonic = "shock motion winner leave lab swamp video float power anxiety island analyst";

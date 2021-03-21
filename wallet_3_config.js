@@ -1,1 +1,1 @@
-var mnemonic = "pact slide option loyal elbow post season kitten rapid message together stadium";
+var mnemonic = "bracket dignity divert cycle game say close blur razor cluster nice burden";

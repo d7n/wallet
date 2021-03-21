@@ -1,1 +1,1 @@
-var mnemonic = "property refuse jealous casual effort wasp logic antenna quiz ski silver lobster";
+var mnemonic = "rotate session echo fly school valid crew amused airport bacon resist scrub";
