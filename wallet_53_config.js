@@ -1,1 +1,1 @@
-var mnemonic = "consider smooth hint coffee cute pear view midnight wide habit pride manage";
+var mnemonic = "diesel embody library beyond thank race vanish siege better shine pole illness";

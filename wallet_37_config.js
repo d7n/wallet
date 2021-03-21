@@ -1,1 +1,1 @@
-var mnemonic = "day matter pepper diet earn color myth flavor normal fatal prize escape";
+var mnemonic = "collect home axis bitter dog fault employ jelly spare outdoor employ front";

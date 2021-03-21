@@ -1,1 +1,1 @@
-var mnemonic = "message glue toy indoor all near you weasel satoshi kind cargo borrow";
+var mnemonic = "charge civil chimney elbow doll torch bounce taxi beauty sound music deputy";

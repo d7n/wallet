@@ -1,1 +1,1 @@
-var mnemonic = "kite increase point shove keen inner kidney venue tackle arrow cat that";
+var mnemonic = "grid famous avoid ten history coin diagram joy spatial news street exhaust";

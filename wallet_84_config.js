@@ -1,1 +1,1 @@
-var mnemonic = "audit open liquid spike swallow leg field toe daughter bone know zebra";
+var mnemonic = "hat approve forget assume enforce mutual run offer cable duty couch lift";

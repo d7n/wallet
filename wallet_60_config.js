@@ -1,1 +1,1 @@
-var mnemonic = "cash crop evil cloud garment retreat abstract across couch merge boost border";
+var mnemonic = "brand earn end flight column reform demand lab pass sugar above light";

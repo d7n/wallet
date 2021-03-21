@@ -1,1 +1,1 @@
-var mnemonic = "parent mail private squirrel oyster embrace kind visa baby coach infant music";
+var mnemonic = "burden point top brush stage trumpet hire jaguar put panther bunker silver";

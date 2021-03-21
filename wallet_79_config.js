@@ -1,1 +1,1 @@
-var mnemonic = "ancient camera nasty angle voyage business inmate mushroom family pen rent filter";
+var mnemonic = "exhaust prize treat trigger decrease correct clever sign donkey diesel trend miracle";

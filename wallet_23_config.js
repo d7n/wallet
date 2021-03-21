@@ -1,1 +1,1 @@
-var mnemonic = "million devote party wing sustain lock youth employ pipe quarter welcome food";
+var mnemonic = "rabbit option marble first window insect insect unlock tourist renew announce heavy";

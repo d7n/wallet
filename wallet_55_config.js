@@ -1,1 +1,1 @@
-var mnemonic = "word wheel grab soul moral install dash matrix derive disease witness special";
+var mnemonic = "rotate solid favorite thought auto priority hotel sorry inquiry sauce noodle escape";

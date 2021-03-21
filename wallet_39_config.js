@@ -1,1 +1,1 @@
-var mnemonic = "domain embark route beauty flavor love already thing venue stadium black pen";
+var mnemonic = "person ramp artist feature tissue expose stamp horror urban clever dad cradle";

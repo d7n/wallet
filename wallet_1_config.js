@@ -1,1 +1,1 @@
-var mnemonic = "that charge object match caution shop cable ride prefer decide young shoot";
+var mnemonic = "photo mansion loan auto bamboo million ghost glue brave rate occur trap";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon omit master catch run tortoise proud embark high any thumb analyst";
+var mnemonic = "potato gasp skirt praise ticket worry trophy settle place file type barrel";

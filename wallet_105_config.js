@@ -1,1 +1,1 @@
-var mnemonic = "moment grief october current analyst uphold between omit column wrap swallow ancient";
+var mnemonic = "wage cabin gas mixed foil come cake proof zoo century honey soft";

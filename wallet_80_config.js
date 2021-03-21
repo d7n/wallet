@@ -1,1 +1,1 @@
-var mnemonic = "laugh transfer aware inner shove ball build nothing identify razor point voice";
+var mnemonic = "sponsor clerk copper arch nut bullet hurt universe glue become people enable";

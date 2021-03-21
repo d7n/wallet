@@ -1,1 +1,1 @@
-var mnemonic = "strong depart wood regular decorate such pool sheriff again assault mutual shove";
+var mnemonic = "success clap reveal off basic unveil thunder symptom wolf whip crisp review";

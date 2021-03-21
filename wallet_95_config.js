@@ -1,1 +1,1 @@
-var mnemonic = "obvious purity gate metal turkey sign own choose predict tobacco pool double";
+var mnemonic = "trash party march youth mansion gather oppose ask style basic never huge";

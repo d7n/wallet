@@ -1,1 +1,1 @@
-var mnemonic = "resist wash exist kitten used black caught season interest ostrich odor surprise";
+var mnemonic = "urban fatigue blouse uniform much alley gown thought donkey ketchup human logic";

@@ -1,1 +1,1 @@
-var mnemonic = "depend wheel royal must brown demise spell use pretty kitten toilet local";
+var mnemonic = "tired enroll journey vital differ either crawl piece orient dust sudden bitter";

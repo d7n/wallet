@@ -1,1 +1,1 @@
-var mnemonic = "analyst deputy spatial agree surround enforce leopard matter fossil cannon benefit volume";
+var mnemonic = "gasp throw muffin snow inflict fashion absurd ripple bulb tragic sheriff liar";

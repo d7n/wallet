@@ -1,1 +1,1 @@
-var mnemonic = "grow shell loyal pen annual zero height food emotion oxygen pledge return";
+var mnemonic = "drip vacuum depth side whale anxiety detail tortoise afraid today south wrist";

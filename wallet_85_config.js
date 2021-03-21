@@ -1,1 +1,1 @@
-var mnemonic = "whisper measure grace boring differ toss argue empty high ranch oil scheme";
+var mnemonic = "alley afraid salon stomach romance grunt outer glow hundred vast almost best";

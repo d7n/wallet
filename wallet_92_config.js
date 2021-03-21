@@ -1,1 +1,1 @@
-var mnemonic = "nice stone neglect refuse tackle shine truly rocket tourist shove minimum breeze";
+var mnemonic = "wide cement ethics trap catch choice during setup angry term upper envelope";

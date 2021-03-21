@@ -1,1 +1,1 @@
-var mnemonic = "boost just mom decade trade skirt pencil teach domain shock skate cattle";
+var mnemonic = "cross frame bacon exchange text hungry power number dune maid junk gas";

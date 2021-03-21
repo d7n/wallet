@@ -1,1 +1,1 @@
-var mnemonic = "tank another segment kangaroo wheel rescue abandon offer distance lion cream chimney";
+var mnemonic = "rapid charge hope cat leaf erupt impact slide fault virus possible tiny";

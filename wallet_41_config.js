@@ -1,1 +1,1 @@
-var mnemonic = "turtle never cross away render oak bread extend treat fiber note guitar";
+var mnemonic = "aunt federal chase scorpion donate language good concert casual garment barely mom";

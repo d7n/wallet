@@ -1,1 +1,1 @@
-var mnemonic = "lamp when science license robust pave kick soap happy sick provide glimpse";
+var mnemonic = "head subway knee humor whale debate claw impulse model mutual install mushroom";

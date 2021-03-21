@@ -1,1 +1,1 @@
-var mnemonic = "web example ancient hen frown desert six small diary indoor achieve expand";
+var mnemonic = "desert mixture twice upset legend pair ancient genuine pair habit strategy boss";

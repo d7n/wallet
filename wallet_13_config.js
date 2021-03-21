@@ -1,1 +1,1 @@
-var mnemonic = "vessel quantum canvas purpose horn baby huge future member era envelope food";
+var mnemonic = "custom arena quick black property swear employ safe lake salon hotel juice";

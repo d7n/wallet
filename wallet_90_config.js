@@ -1,1 +1,1 @@
-var mnemonic = "library meat pig sound lady achieve umbrella latin inquiry stadium toe alone";
+var mnemonic = "under stumble green hand humble fan toilet sustain head blood brown verb";

@@ -1,1 +1,1 @@
-var mnemonic = "woman dinosaur hero rapid evidence extend spot bench unknown grid fun neck";
+var mnemonic = "voyage bus jealous inner dial ceiling tunnel ticket raccoon price planet icon";

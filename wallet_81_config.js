@@ -1,1 +1,1 @@
-var mnemonic = "service body way payment arrange child song dawn flight bamboo square ice";
+var mnemonic = "jazz garden torch whip wing shield people neither forest enroll denial luxury";

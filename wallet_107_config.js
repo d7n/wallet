@@ -1,1 +1,1 @@
-var mnemonic = "viable gadget later era secret wonder glimpse occur piano tackle pet govern";
+var mnemonic = "deliver keen right winner police element utility story feature creek federal resource";

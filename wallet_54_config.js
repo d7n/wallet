@@ -1,1 +1,1 @@
-var mnemonic = "lawn range wide maze gate indoor swap skull grab come spice huge";
+var mnemonic = "ceiling pool together dice message frost smart cash system mesh month tower";

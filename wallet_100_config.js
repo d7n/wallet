@@ -1,1 +1,1 @@
-var mnemonic = "wall state general case illness piano screen forget paddle regret need inject";
+var mnemonic = "staff dolphin egg satisfy gaze sausage solution ship apple announce sail town";

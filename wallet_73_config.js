@@ -1,1 +1,1 @@
-var mnemonic = "gentle cart more helmet stone trap eternal boring reduce immune easy hint";
+var mnemonic = "endorse west suit gravity tortoise amount exclude shell reason push prize old";

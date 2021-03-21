@@ -1,1 +1,1 @@
-var mnemonic = "win vessel belt slab thought alley creek local defense neglect novel pattern";
+var mnemonic = "alley olive lottery learn chaos behind voice present diamond earn soup debate";

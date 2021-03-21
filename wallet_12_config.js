@@ -1,1 +1,1 @@
-var mnemonic = "end cash captain bachelor twist tattoo remember kind hamster dismiss skate derive";
+var mnemonic = "path ten lawn school fame subway pulse exist sibling weekend candy charge";

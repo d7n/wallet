@@ -1,1 +1,1 @@
-var mnemonic = "exile never awesome horror gossip connect ill turn goat slush fancy problem";
+var mnemonic = "deputy dress now swing below forget label holiday doll wine home donate";

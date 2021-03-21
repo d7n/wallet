@@ -1,1 +1,1 @@
-var mnemonic = "slice extra hole switch length alert capital test ignore trash dune defense";
+var mnemonic = "round flash marine sock pilot purchase ketchup thunder avoid over cradle news";

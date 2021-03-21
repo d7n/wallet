@@ -1,1 +1,1 @@
-var mnemonic = "retire prison photo vacant renew online myth blush announce expect eye assume";
+var mnemonic = "earth essay reward soft entire fabric video switch dish life champion neither";

@@ -1,1 +1,1 @@
-var mnemonic = "vague danger worth chunk baby post together enhance dress inch save basic";
+var mnemonic = "panel siege blouse fame young library night color sense skin tag grant";

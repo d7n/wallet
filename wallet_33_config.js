@@ -1,1 +1,1 @@
-var mnemonic = "river topic puzzle water endless primary recycle loan tide horror champion vital";
+var mnemonic = "bicycle pink tiny cage attitude entire repair century aerobic refuse market clog";

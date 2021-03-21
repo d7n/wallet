@@ -1,1 +1,1 @@
-var mnemonic = "entry turn torch trim have motion feature step sniff put flame fall";
+var mnemonic = "body bonus essay truly chicken maze nation satoshi bone vague march permit";

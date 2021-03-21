@@ -1,1 +1,1 @@
-var mnemonic = "gas oval wine can monkey shaft desk maid scrap again chapter few";
+var mnemonic = "harvest online ghost squeeze upon street hover hood seed hub march unique";

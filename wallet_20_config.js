@@ -1,1 +1,1 @@
-var mnemonic = "mosquito regret kid avoid skull galaxy display promote hood access enable payment";
+var mnemonic = "garage wire innocent guilt orange vacuum celery foot ghost sure cycle beyond";

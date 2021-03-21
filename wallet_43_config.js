@@ -1,1 +1,1 @@
-var mnemonic = "deputy item diesel dose attack salute crush wage hidden lock meadow energy";
+var mnemonic = "blush spin faint mention rigid make voice recall dinosaur number shaft alcohol";

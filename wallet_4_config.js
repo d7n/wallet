@@ -1,1 +1,1 @@
-var mnemonic = "denial issue foil attack follow luxury turkey bean wheat often online honey";
+var mnemonic = "typical ankle exact gift harvest reason arrow park need icon glad involve";

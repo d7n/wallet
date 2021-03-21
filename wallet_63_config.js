@@ -1,1 +1,1 @@
-var mnemonic = "distance moment vote deer tribe youth dutch tank cluster electric truth matrix";
+var mnemonic = "caught close sketch wolf bargain boy entry cool include easy oxygen still";

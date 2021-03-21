@@ -1,1 +1,1 @@
-var mnemonic = "medal hobby lock garage prevent tomorrow program defy carpet famous purchase glad";
+var mnemonic = "surge rookie humor bridge lumber assist satisfy actor toast manage mad plastic";

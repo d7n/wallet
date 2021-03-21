@@ -1,1 +1,1 @@
-var mnemonic = "pretty license gown hammer hope width monkey arctic refuse decide plunge insane";
+var mnemonic = "notice rare mandate maple major observe settle barely hat latin captain strike";

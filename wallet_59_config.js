@@ -1,1 +1,1 @@
-var mnemonic = "right indicate decade floor rigid master sport guitar eyebrow book extra bronze";
+var mnemonic = "scatter silver document neutral evoke script rare stuff swap color photo crisp";

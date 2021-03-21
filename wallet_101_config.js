@@ -1,1 +1,1 @@
-var mnemonic = "machine best segment melt cliff unusual frequent day bike suit wash pipe";
+var mnemonic = "one powder stand argue exhibit cannon term buzz sight rough finish stone";

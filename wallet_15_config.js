@@ -1,1 +1,1 @@
-var mnemonic = "give mercy dynamic pave ensure mystery auto soul hazard alley become fruit";
+var mnemonic = "oak spend normal betray crunch obey fiber shiver minute upgrade swallow bring";

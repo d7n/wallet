@@ -1,1 +1,1 @@
-var mnemonic = "luxury ball wood praise physical mask kick deputy cry early either project";
+var mnemonic = "swamp cat song team anxiety mass custom glue brain differ jealous cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "title educate fitness mimic aim village faculty sight blast custom lesson retreat";
+var mnemonic = "cute mammal illness right south leader fire danger orbit slide gravity emotion";

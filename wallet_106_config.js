@@ -1,1 +1,1 @@
-var mnemonic = "clock assist below work live grace buddy loud radar later whisper maid";
+var mnemonic = "regret chuckle air mechanic sock blush puzzle family spy detail submit agent";

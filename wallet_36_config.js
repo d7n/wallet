@@ -1,1 +1,1 @@
-var mnemonic = "ball reduce cheese permit tribe hurdle bacon motion bachelor alarm glance pyramid";
+var mnemonic = "regret asthma hero solution furnace chest muffin spike caution useless nest flush";

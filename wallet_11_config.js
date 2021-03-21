@@ -1,1 +1,1 @@
-var mnemonic = "used price love junior master monitor eagle pear mushroom picnic drip hidden";
+var mnemonic = "expire rose dog scan early raise into elevator pen now shrimp ethics";

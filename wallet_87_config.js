@@ -1,1 +1,1 @@
-var mnemonic = "sell abandon ankle remind enough frame tribe salute funny fat offer shock";
+var mnemonic = "race always toilet veteran involve crystal horror nerve grunt warrior anxiety force";

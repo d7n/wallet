@@ -1,1 +1,1 @@
-var mnemonic = "stage green loyal armed valley few solid forum trouble trip medal lumber";
+var mnemonic = "puppy leaf acoustic comfort blue reason trophy coach ramp borrow obvious grab";

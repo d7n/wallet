@@ -1,1 +1,1 @@
-var mnemonic = "loud once hospital minimum humor clerk minimum strike enemy meat cover diet";
+var mnemonic = "guilt antique rival soul laundry vicious catch legal time rebuild trust thunder";

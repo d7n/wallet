@@ -1,1 +1,1 @@
-var mnemonic = "ethics twenty annual swap anger brick tornado sentence where tornado bicycle visit";
+var mnemonic = "audit shock mixed owner relief daughter valley agent exclude master happy common";

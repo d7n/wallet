@@ -1,1 +1,1 @@
-var mnemonic = "elite mix couch eight find where atom ahead net spirit enroll helmet";
+var mnemonic = "ensure busy rail effort foam sample myself measure mouse congress core name";

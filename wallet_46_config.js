@@ -1,1 +1,1 @@
-var mnemonic = "shaft dignity rare pilot stomach maid apart digital force holiday liberty spice";
+var mnemonic = "already barely furnace fetch hawk midnight virus immune taxi armor noise tattoo";

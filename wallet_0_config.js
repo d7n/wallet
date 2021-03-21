@@ -1,1 +1,1 @@
-var mnemonic = "hurry peanut scrap ticket hazard monitor artist dune fold proud smoke mention";
+var mnemonic = "kiwi economy laugh genius tag have gain lesson mystery number undo skull";

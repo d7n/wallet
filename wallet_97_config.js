@@ -1,1 +1,1 @@
-var mnemonic = "drama similar abstract advice column replace great sunset toddler high lesson tape";
+var mnemonic = "cricket visa claim chat team wave magnet tiger excite when wide worth";

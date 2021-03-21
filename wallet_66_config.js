@@ -1,1 +1,1 @@
-var mnemonic = "similar drama eye bid demand faculty range slide upon brave laptop lake";
+var mnemonic = "inform kingdom bubble glimpse announce rebuild unknown odor copy film perfect win";

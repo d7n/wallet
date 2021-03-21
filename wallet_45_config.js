@@ -1,1 +1,1 @@
-var mnemonic = "pet develop oxygen flavor rent shiver permit rack hurt impulse wave aware";
+var mnemonic = "art basic oak hotel dance letter foster rich lyrics sniff wine scatter";

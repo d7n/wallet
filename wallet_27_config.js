@@ -1,1 +1,1 @@
-var mnemonic = "logic lion tribe column action will grass rally stem chimney upon exchange";
+var mnemonic = "army behind render youth brother pattern sentence lab flame phone payment attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "flame hammer fine bread enrich hidden account leg obtain convince provide year";
+var mnemonic = "toy kiss exist unlock dinner olive face buffalo alley escape around dutch";

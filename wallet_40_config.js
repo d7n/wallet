@@ -1,1 +1,1 @@
-var mnemonic = "jump soup garlic walnut flag humble bullet canyon slice wood method glance";
+var mnemonic = "into project holiday cake busy deal select bird marine inmate glad defense";

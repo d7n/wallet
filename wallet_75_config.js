@@ -1,1 +1,1 @@
-var mnemonic = "hungry meat ocean half seat general rather divert spot december pigeon face";
+var mnemonic = "parent kit scene hand cannon receive never cradle hurdle leaf garage priority";

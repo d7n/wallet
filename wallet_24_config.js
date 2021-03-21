@@ -1,1 +1,1 @@
-var mnemonic = "essence output celery camp three gun crime desk energy acoustic orient smoke";
+var mnemonic = "simple disease rail silk champion wife debris alpha orient clinic brick bean";

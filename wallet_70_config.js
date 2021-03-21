@@ -1,1 +1,1 @@
-var mnemonic = "spider disorder divorce quiz emerge say genius expose produce sick orphan inject";
+var mnemonic = "feel balcony sort subject verb shoe rely age acquire adult jelly outer";

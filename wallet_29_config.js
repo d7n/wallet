@@ -1,1 +1,1 @@
-var mnemonic = "beauty cable chronic fresh wagon swap trash bitter laugh sound pattern girl";
+var mnemonic = "park tackle small general rough begin wise turn stamp lesson curious shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "myself tribe actress soul gasp basic bitter memory utility question stage crush";
+var mnemonic = "blind only rebel grow language bird render chat town brown devote endorse";

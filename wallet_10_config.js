@@ -1,1 +1,1 @@
-var mnemonic = "language hotel clock snake joy trophy copy sort cycle spare equal fatal";
+var mnemonic = "gas ketchup bench humor urge yellow choice better hand gift ordinary once";

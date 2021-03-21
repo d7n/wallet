@@ -1,1 +1,1 @@
-var mnemonic = "there chef account six milk believe syrup error clown bomb decline embark";
+var mnemonic = "wild surround wide gentle stomach candy subject much lizard fitness easy grief";

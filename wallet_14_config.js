@@ -1,1 +1,1 @@
-var mnemonic = "blur spatial aisle fabric gloom point test disease response current lens grass";
+var mnemonic = "glad attack chunk buddy alter humor gather syrup often soda chalk lawsuit";

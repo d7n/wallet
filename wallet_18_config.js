@@ -1,1 +1,1 @@
-var mnemonic = "piano stove this used foil weird edge flavor feature soda news tattoo";
+var mnemonic = "sister fragile consider call glue local option snack rapid code hotel lend";

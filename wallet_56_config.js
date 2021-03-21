@@ -1,1 +1,1 @@
-var mnemonic = "talk huge earth dial stomach movie pill switch bid loop glare cluster";
+var mnemonic = "space before orbit butter visit tape radio ocean enact powder silk move";

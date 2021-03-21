@@ -1,1 +1,1 @@
-var mnemonic = "work verb patrol flat muscle wire pilot coffee merge erosion flock screen";
+var mnemonic = "turkey inquiry tennis fuel custom indoor aerobic copper mind build excess black";

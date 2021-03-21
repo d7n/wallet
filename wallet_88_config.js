@@ -1,1 +1,1 @@
-var mnemonic = "win finish exercise tribe always ranch scare quality park small moral swallow";
+var mnemonic = "rule execute spoon doctor artist tonight movie link ski voice range ill";

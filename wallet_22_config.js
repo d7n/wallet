@@ -1,1 +1,1 @@
-var mnemonic = "update boring frequent alcohol crouch add carpet poverty cry visual life embark";
+var mnemonic = "file cereal neglect viable taxi few rural kiss exotic twenty page spatial";

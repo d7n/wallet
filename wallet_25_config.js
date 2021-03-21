@@ -1,1 +1,1 @@
-var mnemonic = "cake forward chimney sword morning sheriff snake robust time march same ice";
+var mnemonic = "prize nose logic sausage fit jewel prize bitter cabbage net cook latin";

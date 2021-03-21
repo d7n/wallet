@@ -1,1 +1,1 @@
-var mnemonic = "example beauty ozone flip peasant replace act manage absorb payment click razor";
+var mnemonic = "century want valley surprise census act grain capital misery combine grass mistake";

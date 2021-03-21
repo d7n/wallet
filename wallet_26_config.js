@@ -1,1 +1,1 @@
-var mnemonic = "swap degree enjoy zone junior myth tip agent arrive over word away";
+var mnemonic = "mercy sort bring stone pelican afraid course rhythm cloth cream movie pelican";

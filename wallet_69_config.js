@@ -1,1 +1,1 @@
-var mnemonic = "robust pulp panel smart return weapon ordinary armor asset gun matrix unknown";
+var mnemonic = "input oil feed trial badge verify page pet leopard process tissue speed";

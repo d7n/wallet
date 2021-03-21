@@ -1,1 +1,1 @@
-var mnemonic = "blame quote box mixed excess genre good rookie soccer tooth session ostrich";
+var mnemonic = "exit deal quick pencil decade fashion they buyer female hobby own swap";
