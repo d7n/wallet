@@ -1,1 +1,1 @@
-var mnemonic = "voyage wolf coin eight plunge frozen album certain act exist system mixture";
+var mnemonic = "around inject frozen employ sand wealth reward palm found fish arrow wool";

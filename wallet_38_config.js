@@ -1,1 +1,1 @@
-var mnemonic = "hurdle bar spider inmate join symptom guard venture stay slogan veteran permit";
+var mnemonic = "luxury zone lemon chaos work circle spin jar early rain entry valley";

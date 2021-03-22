@@ -1,1 +1,1 @@
-var mnemonic = "about pioneer whip plunge thunder huge client release submit urge version loud";
+var mnemonic = "sign plug fade master prison artefact abandon obtain flight proof cluster enlist";

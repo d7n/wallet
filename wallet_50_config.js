@@ -1,1 +1,1 @@
-var mnemonic = "blind faith anxiety lizard mask sight fuel blood radio better hair trust";
+var mnemonic = "car tattoo drift cliff unveil panda fold prepare grunt remain adult layer";

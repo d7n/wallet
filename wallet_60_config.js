@@ -1,1 +1,1 @@
-var mnemonic = "point first patient swift busy dwarf know address enroll display distance torch";
+var mnemonic = "when nut kidney brush slogan clip parrot flight essay spray staff oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "poem lyrics farm rival unhappy wagon spider scare rule buzz account dog";
+var mnemonic = "diary eight biology glad problem lounge second media during adjust clock hub";

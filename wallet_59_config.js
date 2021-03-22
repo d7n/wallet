@@ -1,1 +1,1 @@
-var mnemonic = "dose blade roof topic echo luxury puppy find broken fragile ladder invite";
+var mnemonic = "fragile little earth joy unaware coffee calm urban pudding rally volume talk";

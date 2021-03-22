@@ -1,1 +1,1 @@
-var mnemonic = "slight page bike kidney minor minimum chunk donor novel laptop grit broccoli";
+var mnemonic = "olive leisure fade couch smooth grunt minute focus leisure miracle pact dinosaur";

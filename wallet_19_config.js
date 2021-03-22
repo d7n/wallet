@@ -1,1 +1,1 @@
-var mnemonic = "black vehicle eight tongue alpha crunch recycle load then follow sugar piano";
+var mnemonic = "three glance spray reduce energy trial grace census exhaust jazz nasty goose";

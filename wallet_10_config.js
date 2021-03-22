@@ -1,1 +1,1 @@
-var mnemonic = "gravity aerobic faith stick list satisfy potato test someone decline box despair";
+var mnemonic = "steak gun gravity carpet sadness twin ancient language stereo pave early please";

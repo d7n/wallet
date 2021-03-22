@@ -1,1 +1,1 @@
-var mnemonic = "raw tip fine damage police biology sauce victory crack inner author soup";
+var mnemonic = "involve vehicle sing student equal keen sweet artefact uphold cart want jar";

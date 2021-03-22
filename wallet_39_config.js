@@ -1,1 +1,1 @@
-var mnemonic = "flag spend use inhale claw grant rain like breeze outdoor holiday gloom";
+var mnemonic = "cute fold satisfy dad frost hundred subject engage lesson whale armed shock";

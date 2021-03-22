@@ -1,1 +1,1 @@
-var mnemonic = "code fit bonus cup small recycle bid reflect ship token video clip";
+var mnemonic = "second logic helmet coconut erosion interest situate pulse iron joke chapter good";

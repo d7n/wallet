@@ -1,1 +1,1 @@
-var mnemonic = "reason chest liquid always casual hammer right slice basic phrase burger tell";
+var mnemonic = "where opinion carbon arch horror sister umbrella person slow session tray three";

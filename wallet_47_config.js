@@ -1,1 +1,1 @@
-var mnemonic = "unlock shadow dizzy horse legal thing bulk found dial business pond ethics";
+var mnemonic = "cement pudding scan direct limb dwarf slender admit purity surround gain second";

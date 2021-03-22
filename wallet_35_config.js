@@ -1,1 +1,1 @@
-var mnemonic = "avocado climb office please milk forget element box father crazy midnight lab";
+var mnemonic = "detect control treat tag shop identify photo language sock armed hobby ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "mother remove master chronic parrot smooth clutch night harsh tackle gap saddle";
+var mnemonic = "deposit wet device note truly else pole pave afford crew swarm lift";

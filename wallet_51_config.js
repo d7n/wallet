@@ -1,1 +1,1 @@
-var mnemonic = "night cattle concert kit squirrel canal floor dilemma hawk song wisdom injury";
+var mnemonic = "chat shoulder demand sorry famous retire dial plug harsh say west forum";

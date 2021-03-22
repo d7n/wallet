@@ -1,1 +1,1 @@
-var mnemonic = "venture hint prepare glory undo interest soft awful peanut boat behave couple";
+var mnemonic = "jealous alone shop buyer proof odor price surface all quote news industry";

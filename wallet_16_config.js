@@ -1,1 +1,1 @@
-var mnemonic = "medal captain venue chest spring insect system evoke twice goddess update tired";
+var mnemonic = "inject sail volume decide suspect auction swear blue bind tonight atom inside";

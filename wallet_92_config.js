@@ -1,1 +1,1 @@
-var mnemonic = "eagle gospel license vicious slush horse inform notice certain mean file huge";
+var mnemonic = "country float elder drastic know left relief woman early frame install excess";

@@ -1,1 +1,1 @@
-var mnemonic = "false slush control cargo capable onion also vibrant half uphold organ dance";
+var mnemonic = "say roof foam kid mixed discover buddy entire exile tourist decorate deny";

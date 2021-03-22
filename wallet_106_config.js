@@ -1,1 +1,1 @@
-var mnemonic = "bless stock omit end antenna escape sugar reduce leisure rule elbow burger";
+var mnemonic = "erosion inch climb stairs tray sword human case bullet habit flag poet";

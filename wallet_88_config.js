@@ -1,1 +1,1 @@
-var mnemonic = "rent elevator track planet suit expire grief view dignity term winner spray";
+var mnemonic = "bachelor yellow safe immense twenty answer loan honey destroy swing load term";

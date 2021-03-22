@@ -1,1 +1,1 @@
-var mnemonic = "hollow cream north swear coil claim chase donor blush shrimp stomach menu";
+var mnemonic = "local purpose swap want fetch apple verb strategy umbrella purpose absurd absent";

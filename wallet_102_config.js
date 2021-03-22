@@ -1,1 +1,1 @@
-var mnemonic = "angle lava wish hospital crazy nasty agent hurdle disagree merge they learn";
+var mnemonic = "double castle teach medal word fury click smart scheme track rice surface";

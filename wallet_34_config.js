@@ -1,1 +1,1 @@
-var mnemonic = "gasp town access half planet amazing cereal survey school grow disorder boost";
+var mnemonic = "talk genre enhance vibrant bomb repair bench alcohol sustain tilt economy town";

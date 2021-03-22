@@ -1,1 +1,1 @@
-var mnemonic = "slight ice athlete fabric govern autumn age sure despair cycle smart swarm";
+var mnemonic = "concert absent artefact brush faculty hill palm slide index rely neutral memory";

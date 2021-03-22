@@ -1,1 +1,1 @@
-var mnemonic = "horse unveil rescue then situate video royal mirror kiss saddle tiny blast";
+var mnemonic = "couple please nurse student correct acquire canoe pelican calm pill roast horn";

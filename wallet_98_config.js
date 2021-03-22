@@ -1,1 +1,1 @@
-var mnemonic = "giggle stone hello gift hedgehog hungry drive modify prison cry group forest";
+var mnemonic = "slam ocean west old flip daring same marine stairs output sell chest";

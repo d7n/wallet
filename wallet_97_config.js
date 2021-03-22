@@ -1,1 +1,1 @@
-var mnemonic = "toilet base adapt camera upon potato waste arrive actress source banana rough";
+var mnemonic = "sing relax junior bird palace wheat monster gaze hazard car economy cake";

@@ -1,1 +1,1 @@
-var mnemonic = "bright pilot broccoli praise defense one whale category foster loop local dutch";
+var mnemonic = "visa tennis marble achieve rebuild flight excess poem math away edit crash";

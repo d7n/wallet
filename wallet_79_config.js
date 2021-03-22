@@ -1,1 +1,1 @@
-var mnemonic = "company bread pencil antique lazy senior goat chalk fit word exist put";
+var mnemonic = "drink intact normal rate have visit turtle staff sell either settle hill";

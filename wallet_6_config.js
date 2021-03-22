@@ -1,1 +1,1 @@
-var mnemonic = "add program country sunny cattle lucky cluster syrup total divert biology own";
+var mnemonic = "enemy choice want crouch emotion this script dwarf hockey cart elite south";

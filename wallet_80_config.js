@@ -1,1 +1,1 @@
-var mnemonic = "fatigue weasel field spawn sustain genre kidney strong clap across shop strategy";
+var mnemonic = "adjust bleak oblige barrel remain travel decorate energy toy dumb unique knock";

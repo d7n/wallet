@@ -1,1 +1,1 @@
-var mnemonic = "army stomach torch bicycle exercise easily chief awesome fuel lady physical they";
+var mnemonic = "property lab desert fish gorilla hold ahead knee tobacco metal property total";

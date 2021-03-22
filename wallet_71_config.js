@@ -1,1 +1,1 @@
-var mnemonic = "advice since alarm online ghost use nuclear curious wedding broom sketch siren";
+var mnemonic = "hair hungry outdoor glare vocal flush dream hedgehog busy fish now occur";

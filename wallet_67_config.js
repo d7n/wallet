@@ -1,1 +1,1 @@
-var mnemonic = "nut lizard hello canvas scheme matrix use soon put faith liberty tonight";
+var mnemonic = "metal damp drum chat damage erupt defy among flock cute upgrade essence";

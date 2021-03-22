@@ -1,1 +1,1 @@
-var mnemonic = "monitor order dash banner short dirt hockey spread gift weapon collect material";
+var mnemonic = "pluck ramp walk canoe charge honey gasp skirt object adult else doctor";

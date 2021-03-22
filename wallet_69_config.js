@@ -1,1 +1,1 @@
-var mnemonic = "turkey mesh exhaust chunk usage claw guitar consider lens congress viable mosquito";
+var mnemonic = "furnace clown matrix absurd cross betray runway among divert health copper federal";

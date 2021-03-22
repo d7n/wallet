@@ -1,1 +1,1 @@
-var mnemonic = "bind final image tornado novel admit type ozone magic chair exist arrow";
+var mnemonic = "card method rent hundred total round run practice lend used sketch exist";

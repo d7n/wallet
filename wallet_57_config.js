@@ -1,1 +1,1 @@
-var mnemonic = "void tray woman endorse lock priority pill outside disorder hip pattern pig";
+var mnemonic = "right escape glide rich gravity flip young fire foil update spray sail";

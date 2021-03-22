@@ -1,1 +1,1 @@
-var mnemonic = "enrich grab mind bracket mutual zero space solve trial sick mosquito female";
+var mnemonic = "width glimpse food trigger two husband spider sun joke raven major unhappy";

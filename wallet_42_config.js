@@ -1,1 +1,1 @@
-var mnemonic = "print common logic joy genuine audit announce oil box walk view jungle";
+var mnemonic = "great inmate improve sniff biology attitude couple this bone dial curve raven";

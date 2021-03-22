@@ -1,1 +1,1 @@
-var mnemonic = "occur already crisp obscure endless choose thought library silly annual multiply tell";
+var mnemonic = "defy dizzy dose ball royal syrup else spice later clock spray cart";

@@ -1,1 +1,1 @@
-var mnemonic = "gown coconut sign rely yard potato despair table shine salon glance girl";
+var mnemonic = "analyst large wealth trouble envelope purchase license asthma bundle police chicken regular";

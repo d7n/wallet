@@ -1,1 +1,1 @@
-var mnemonic = "artist envelope iron they slam able purity chair save aunt hire track";
+var mnemonic = "case sketch sniff item chest blame space total document wood quality toast";

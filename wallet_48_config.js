@@ -1,1 +1,1 @@
-var mnemonic = "weekend problem recycle pair pond walk fade neck puzzle online involve half";
+var mnemonic = "tool strike verb language tiny object equip ring type scrub few tube";

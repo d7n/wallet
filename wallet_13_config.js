@@ -1,1 +1,1 @@
-var mnemonic = "prison supply strong safe inner work breeze glass differ increase rate term";
+var mnemonic = "luxury palace list recall travel open inhale fiction effort garbage mammal broom";

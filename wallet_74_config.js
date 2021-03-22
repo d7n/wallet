@@ -1,1 +1,1 @@
-var mnemonic = "kiwi bind element fancy genuine claim rapid girl unveil lumber pink combine";
+var mnemonic = "spider hamster disorder potato clown skirt stereo actress betray stem witness museum";

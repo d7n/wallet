@@ -1,1 +1,1 @@
-var mnemonic = "prefer bread debris decrease priority cook bracket lumber clever balance result ketchup";
+var mnemonic = "layer saddle hen jar acquire guess dirt sketch action chuckle record canal";

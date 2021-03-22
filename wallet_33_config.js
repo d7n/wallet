@@ -1,1 +1,1 @@
-var mnemonic = "conduct bargain ladder coyote morning park illegal repeat view dilemma wage witness";
+var mnemonic = "toward drop peanut young shy already ribbon problem turkey misery move output";

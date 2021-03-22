@@ -1,1 +1,1 @@
-var mnemonic = "mesh section slab village away device crash risk neither insane utility polar";
+var mnemonic = "machine hover burger edit remove copper dinosaur volcano income hold once scout";

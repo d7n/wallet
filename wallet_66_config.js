@@ -1,1 +1,1 @@
-var mnemonic = "trap echo hello case undo proof hurt cargo flavor away inhale actor";
+var mnemonic = "knock farm basic broken verify dress gesture topple olive hole envelope climb";

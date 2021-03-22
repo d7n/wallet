@@ -1,1 +1,1 @@
-var mnemonic = "grace best myth rent predict female second firm target citizen canal until";
+var mnemonic = "claim alarm prepare leopard banana kangaroo whisper around symbol barely solar brave";

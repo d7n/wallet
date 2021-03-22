@@ -1,1 +1,1 @@
-var mnemonic = "differ fossil injury demand awake sketch surge auction toward depth fee vanish";
+var mnemonic = "tip loud census wall gold observe will know great green style mistake";

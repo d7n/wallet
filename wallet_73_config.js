@@ -1,1 +1,1 @@
-var mnemonic = "celery brand there funny sugar around nerve month shy opinion hill return";
+var mnemonic = "use walnut custom chuckle link walnut drop grant stereo smile mixed bomb";

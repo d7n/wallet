@@ -1,1 +1,1 @@
-var mnemonic = "spot clump nest liar stone sell exhibit team bone judge boat foil";
+var mnemonic = "hen member sound route penalty case salon reduce enact world tool gather";

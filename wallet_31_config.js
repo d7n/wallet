@@ -1,1 +1,1 @@
-var mnemonic = "chat torch comfort frame shop intact smile balcony ceiling minute faith aunt";
+var mnemonic = "oblige smoke tennis roast cross cotton alarm engage clean radio raw tissue";

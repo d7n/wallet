@@ -1,1 +1,1 @@
-var mnemonic = "best bring display tail banner layer step february rude wolf leader crawl";
+var mnemonic = "plunge item laugh purchase face pause either scatter manual barrel donate more";

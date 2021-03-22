@@ -1,1 +1,1 @@
-var mnemonic = "green choice sea wedding oil endless depend interest tobacco glare exhibit omit";
+var mnemonic = "sea primary aspect addict chalk syrup despair chronic topic army staff degree";

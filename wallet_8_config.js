@@ -1,1 +1,1 @@
-var mnemonic = "fade trend ice taste pistol opera pluck tattoo diamond special setup tip";
+var mnemonic = "destroy pink speed calm warm siege purse sword mesh stone tip universe";

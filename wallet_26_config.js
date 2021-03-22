@@ -1,1 +1,1 @@
-var mnemonic = "cousin wool scatter water brief aisle spirit parrot nominee tiger fetch embark";
+var mnemonic = "absurd timber spare isolate spatial tip blood toilet powder raw pattern fluid";

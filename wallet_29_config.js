@@ -1,1 +1,1 @@
-var mnemonic = "detail party canyon fatigue increase code unable joy violin artwork reason muffin";
+var mnemonic = "attitude lake baby strong coyote because assault inside seat adult muffin general";

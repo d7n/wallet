@@ -1,1 +1,1 @@
-var mnemonic = "domain soap recycle tuna evoke decide palace mass fly electric shuffle effort";
+var mnemonic = "worry poverty stumble involve birth vivid eyebrow destroy pet elite evolve tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "coach you charge transfer gauge buyer journey wonder poverty collect flight direct";
+var mnemonic = "job adult aim barrel step dumb income speed exchange stock stand insane";

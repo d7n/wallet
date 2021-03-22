@@ -1,1 +1,1 @@
-var mnemonic = "potato rescue bench uniform defense trumpet valid love lift bundle skill advice";
+var mnemonic = "rule useful truth thrive kidney real sample virus desk mixed upper fury";

@@ -1,1 +1,1 @@
-var mnemonic = "tank diary security only expect sweet organ broom impact kind ten diary";
+var mnemonic = "public oppose youth clog film common treat sphere wrestle hub swing index";

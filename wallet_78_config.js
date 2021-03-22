@@ -1,1 +1,1 @@
-var mnemonic = "crater you hub prefer draw admit process weather note pony scale soccer";
+var mnemonic = "solar toilet verify change cement penalty two cinnamon category ethics core ceiling";

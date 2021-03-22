@@ -1,1 +1,1 @@
-var mnemonic = "unfold bicycle thing hour gain duty casual awkward hidden glare beach make";
+var mnemonic = "deposit engage sniff target used crystal track deal food cart lecture punch";

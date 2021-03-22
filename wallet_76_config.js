@@ -1,1 +1,1 @@
-var mnemonic = "album evidence original doctor bike crazy guide juice cook limit fiscal sight";
+var mnemonic = "wave pet bean month upper clip embrace tackle found seek holiday muscle";

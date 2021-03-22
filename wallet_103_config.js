@@ -1,1 +1,1 @@
-var mnemonic = "pottery cherry bitter century web practice danger jump behind street same slight";
+var mnemonic = "attract distance broom afford sun subject before combine option sentence embrace feed";

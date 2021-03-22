@@ -1,1 +1,1 @@
-var mnemonic = "judge ramp saddle spare bid pumpkin long edit culture trap ripple slogan";
+var mnemonic = "tree broom laptop moral rail board arctic fortune medal among tape swallow";

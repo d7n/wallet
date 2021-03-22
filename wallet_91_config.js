@@ -1,1 +1,1 @@
-var mnemonic = "paper device window zebra tongue morning mother right print rifle produce eternal";
+var mnemonic = "photo return love discover eternal cradle ability auto skill someone term fresh";

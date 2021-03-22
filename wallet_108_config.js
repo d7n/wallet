@@ -1,1 +1,1 @@
-var mnemonic = "lion clay ritual response olympic awful spoon option credit lucky negative key";
+var mnemonic = "inner strike wealth post solar people friend noise fortune online nephew syrup";

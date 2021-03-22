@@ -1,1 +1,1 @@
-var mnemonic = "visa width you inflict endless begin sketch try when correct write fade";
+var mnemonic = "usage merit jaguar divide water picnic lyrics blossom royal zone light any";

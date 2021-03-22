@@ -1,1 +1,1 @@
-var mnemonic = "two soap hair broken damage rack kitten federal emerge paddle bike eager";
+var mnemonic = "cross label ladder kind fog solar sleep pistol remember predict dust stem";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic general cousin dismiss elite final upon acoustic gain ball unhappy twin";
+var mnemonic = "sentence bar talent beyond lazy life tomato maze copy code clog wear";

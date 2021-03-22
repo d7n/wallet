@@ -1,1 +1,1 @@
-var mnemonic = "hope security refuse prefer chat small jaguar rival quality note quick garment";
+var mnemonic = "vehicle oblige swap enable speed flash feed clarify come maximum space gentle";

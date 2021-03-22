@@ -1,1 +1,1 @@
-var mnemonic = "forum page wide grant extra disagree demand solid repair shiver dolphin inject";
+var mnemonic = "negative woman okay oppose wonder retreat slight easily team sadness knee pottery";

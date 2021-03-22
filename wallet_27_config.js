@@ -1,1 +1,1 @@
-var mnemonic = "crawl castle tonight scout jaguar heart trumpet tennis view assume turkey shop";
+var mnemonic = "fabric arrange exist bar debris canal express game embrace issue shoe acoustic";

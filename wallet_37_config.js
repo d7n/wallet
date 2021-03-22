@@ -1,1 +1,1 @@
-var mnemonic = "crucial area school harvest accident size romance velvet analyst grass arena live";
+var mnemonic = "average board lock mechanic farm direct rigid kite gorilla beach initial woman";

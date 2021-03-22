@@ -1,1 +1,1 @@
-var mnemonic = "enact destroy slogan vocal ribbon spawn slot monster key lounge warm above";
+var mnemonic = "clever thumb explain shiver subject dwarf elite civil engine notice bind foil";

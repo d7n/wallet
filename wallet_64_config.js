@@ -1,1 +1,1 @@
-var mnemonic = "color wine kind grace spell cabin edit swift april soon tattoo question";
+var mnemonic = "metal virus slow organ violin mimic pattern dream become crack velvet annual";

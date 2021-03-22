@@ -1,1 +1,1 @@
-var mnemonic = "blush sand auction home there castle canal melt industry cheap cushion differ";
+var mnemonic = "voice donor razor garbage survey left orchard crawl budget defense whale garbage";

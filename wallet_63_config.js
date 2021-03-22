@@ -1,1 +1,1 @@
-var mnemonic = "deputy squeeze practice tray suit unfair token exit desert connect begin check";
+var mnemonic = "close poem tiny sugar deliver fragile butter unlock unique father uphold inside";

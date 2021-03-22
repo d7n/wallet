@@ -1,1 +1,1 @@
-var mnemonic = "waste wrap rookie joy sorry session case real trigger loyal friend romance";
+var mnemonic = "tuna width scene tribe diary envelope admit swarm economy sting apart celery";

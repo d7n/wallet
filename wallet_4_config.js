@@ -1,1 +1,1 @@
-var mnemonic = "cup nasty yard old salmon useless between regret because shoot knee nuclear";
+var mnemonic = "fossil health fall subway bean various waste race kit fire true always";

@@ -1,1 +1,1 @@
-var mnemonic = "address super amount oppose digital tell empty release radio limb dry purse";
+var mnemonic = "tired million salon choose onion erupt blanket battle tiny excess away track";

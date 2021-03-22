@@ -1,1 +1,1 @@
-var mnemonic = "assist obey hold celery lounge demand cat indoor salad oxygen draft summer";
+var mnemonic = "royal rival seminar pig eternal drum vacant journey ancient load rare connect";

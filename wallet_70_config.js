@@ -1,1 +1,1 @@
-var mnemonic = "zebra resource hour brick final imitate butter quality grunt teach insane patrol";
+var mnemonic = "bike lyrics dignity earn total rely loan rug obey win wool square";

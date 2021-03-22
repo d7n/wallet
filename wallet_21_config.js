@@ -1,1 +1,1 @@
-var mnemonic = "ancient fantasy code bamboo bottom pact matter box knife fever cruel rural";
+var mnemonic = "deal absorb nothing vehicle caught column aerobic frozen skirt steak picnic involve";

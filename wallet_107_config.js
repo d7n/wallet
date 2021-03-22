@@ -1,1 +1,1 @@
-var mnemonic = "rail fiber fancy repair wear obey illegal accuse must black family foot";
+var mnemonic = "health ethics hole climb leg habit manage embody olympic spare main slide";

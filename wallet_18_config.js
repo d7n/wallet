@@ -1,1 +1,1 @@
-var mnemonic = "motor palace puzzle find reunion custom club idle diamond cupboard butter early";
+var mnemonic = "expand under walnut source know shoe one radio between casual access express";

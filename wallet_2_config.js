@@ -1,1 +1,1 @@
-var mnemonic = "fog clay guide entire tower brass cloud broccoli can stereo suffer young";
+var mnemonic = "pole bless broken concert lab still power web click lake book guilt";
