@@ -1,1 +1,1 @@
-var mnemonic = "ginger nephew insect reason huge mammal license describe convince consider world addict";
+var mnemonic = "patient ceiling fringe make wine skill earth nation tragic stairs song uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "air tobacco coral bridge carpet aim all castle upgrade budget fault spot";
+var mnemonic = "clump friend bubble false civil orange goat flame season skate neither atom";

@@ -1,1 +1,1 @@
-var mnemonic = "scout front valve coffee blossom obtain cluster tornado mom rate question pyramid";
+var mnemonic = "anchor stable pitch peanut fee control boat pig summer turtle once lesson";

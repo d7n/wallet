@@ -1,1 +1,1 @@
-var mnemonic = "hammer hood slogan envelope erase girl quantum obscure problem wolf clip around";
+var mnemonic = "capital example leg right describe reopen ivory bridge rookie summer cave beach";

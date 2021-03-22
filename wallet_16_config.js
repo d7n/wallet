@@ -1,1 +1,1 @@
-var mnemonic = "ship top tail update border weird athlete layer write capable vast wink";
+var mnemonic = "grunt earn ugly pig whisper tank spot panda culture inner basic debris";

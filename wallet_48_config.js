@@ -1,1 +1,1 @@
-var mnemonic = "situate fee era hand penalty welcome clip strong fossil cry city sad";
+var mnemonic = "file pony access orphan roof install remember pigeon doctor model until merry";

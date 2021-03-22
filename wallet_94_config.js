@@ -1,1 +1,1 @@
-var mnemonic = "ski vivid install extend file kingdom wheat toddler moon much affair curious";
+var mnemonic = "banner behind news milk force onion welcome music decade analyst man spatial";

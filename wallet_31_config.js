@@ -1,1 +1,1 @@
-var mnemonic = "morning travel ramp resemble grace loan choose bachelor title idea wall toward";
+var mnemonic = "million engage original alcohol task bundle bullet grab maze cheese name secret";

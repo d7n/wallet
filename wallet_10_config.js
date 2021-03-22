@@ -1,1 +1,1 @@
-var mnemonic = "select outer icon basic goat pepper gown episode lazy floor series output";
+var mnemonic = "decade six senior view cruel sock rabbit upset share whisper island kiss";

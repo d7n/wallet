@@ -1,1 +1,1 @@
-var mnemonic = "chimney tilt angry sugar million moral switch total giraffe lunch physical neglect";
+var mnemonic = "consider someone math trip blast pause trumpet drum enemy arrow talent ship";

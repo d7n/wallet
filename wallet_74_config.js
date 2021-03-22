@@ -1,1 +1,1 @@
-var mnemonic = "rent hard trade nest earn common avocado dry arrow alter alien local";
+var mnemonic = "when spring point divide duty clump duck tell vacant chuckle tunnel father";

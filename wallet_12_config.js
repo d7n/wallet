@@ -1,1 +1,1 @@
-var mnemonic = "figure gospel hurdle twelve goddess village can push submit dignity pony judge";
+var mnemonic = "absent sight creek nuclear history bright outside true high response oven slide";

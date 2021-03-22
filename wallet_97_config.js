@@ -1,1 +1,1 @@
-var mnemonic = "alarm chief gesture radar marriage whale add banana jacket cook economy ocean";
+var mnemonic = "oyster use cricket sleep illness order guilt salute mind emerge hospital resource";

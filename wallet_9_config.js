@@ -1,1 +1,1 @@
-var mnemonic = "decrease escape corn ceiling insane fringe gorilla six festival access sustain maximum";
+var mnemonic = "believe armor hole indicate ask sniff alone giant food behind trophy woman";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle explain sword relief secret mix arena doll mention liquid organ stick";
+var mnemonic = "scare avoid any body memory cereal street click inject winter lion minute";

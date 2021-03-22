@@ -1,1 +1,1 @@
-var mnemonic = "snap give wheel catalog process sea lion ill vapor person vacuum stone";
+var mnemonic = "brief initial october unit sport album hero planet image custom ripple lesson";

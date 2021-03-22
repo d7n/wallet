@@ -1,1 +1,1 @@
-var mnemonic = "pen chicken start name scale edit weekend robot suspect tail ridge sea";
+var mnemonic = "calm team question eternal enrich eagle scrub pencil moon symbol tube sweet";

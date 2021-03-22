@@ -1,1 +1,1 @@
-var mnemonic = "seminar curve under upset mystery roast indicate whisper bless orphan civil pave";
+var mnemonic = "eagle old wear ride derive sock army keep labor mother extend quantum";

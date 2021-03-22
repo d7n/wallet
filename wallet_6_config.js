@@ -1,1 +1,1 @@
-var mnemonic = "sentence tired permit render skin point tribe library salmon nurse slice humor";
+var mnemonic = "category movie fiscal depend zoo dynamic cement switch drive squeeze escape claim";

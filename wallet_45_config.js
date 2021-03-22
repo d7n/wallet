@@ -1,1 +1,1 @@
-var mnemonic = "setup tank huge tuition gap ability insect ranch satoshi arrange liar zoo";
+var mnemonic = "energy vendor deposit scene conduct goose rough current taxi enemy zone kitchen";

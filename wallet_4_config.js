@@ -1,1 +1,1 @@
-var mnemonic = "segment ladder eye drill practice human august stay color sight leopard unfair";
+var mnemonic = "rug damage make tomato mass attack expect click guide damp grab announce";

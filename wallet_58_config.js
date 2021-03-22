@@ -1,1 +1,1 @@
-var mnemonic = "seed later affair hope rough leaf section mad radar enforce rally forget";
+var mnemonic = "luxury feed style cart swallow suffer lyrics tell alarm night apart dawn";

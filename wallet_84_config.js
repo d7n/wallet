@@ -1,1 +1,1 @@
-var mnemonic = "harvest category tonight amused happy gate news expire fringe beyond weapon clinic";
+var mnemonic = "liberty course latin differ problem rib jewel seven sad drastic leaf island";

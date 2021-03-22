@@ -1,1 +1,1 @@
-var mnemonic = "pact cattle before journey reward worth cry tuition silent photo rapid toilet";
+var mnemonic = "nation blush cover camp retreat movie element gossip what snow torch goat";

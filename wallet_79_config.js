@@ -1,1 +1,1 @@
-var mnemonic = "purchase flavor acid arrest inside fitness page music stamp ask vanish purse";
+var mnemonic = "artefact voice quarter dream inject taxi diary shaft spot rabbit snack banana";

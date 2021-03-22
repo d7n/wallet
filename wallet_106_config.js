@@ -1,1 +1,1 @@
-var mnemonic = "bike swarm empty fantasy panther capital carry snow ridge manage whisper expose";
+var mnemonic = "wasp quantum marble elbow switch aisle position begin main horse cute jeans";

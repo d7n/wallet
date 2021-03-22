@@ -1,1 +1,1 @@
-var mnemonic = "dial betray soon panther twice ship eagle square sorry hello three math";
+var mnemonic = "collect game pudding edit pony bargain mention coffee ride like know witness";

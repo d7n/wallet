@@ -1,1 +1,1 @@
-var mnemonic = "author antenna lemon faculty birth live barrel define nephew coconut horror that";
+var mnemonic = "acoustic layer arrow text shoe oyster festival worth time roast pulp banana";

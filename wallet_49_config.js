@@ -1,1 +1,1 @@
-var mnemonic = "grape flag venture cupboard zone wet ugly fringe boat cream slim gap";
+var mnemonic = "want sign donor curve already more hold ladder fence stick hotel phone";

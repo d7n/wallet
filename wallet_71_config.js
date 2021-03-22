@@ -1,1 +1,1 @@
-var mnemonic = "buddy inch embark small royal scatter grit clog unit spread fluid license";
+var mnemonic = "future pet waste attack fiber sport neutral crash media point tilt timber";

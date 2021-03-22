@@ -1,1 +1,1 @@
-var mnemonic = "express hand alpha minimum fuel license wish furnace park call quantum twelve";
+var mnemonic = "alter crystal shell fury law trim either person bullet label scrub punch";

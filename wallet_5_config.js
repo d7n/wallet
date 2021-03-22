@@ -1,1 +1,1 @@
-var mnemonic = "when gun target arrest gate shove involve plug buyer adult grid common";
+var mnemonic = "clog flavor student armor front energy skate blouse casino honey teach fossil";

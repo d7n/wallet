@@ -1,1 +1,1 @@
-var mnemonic = "journey dawn same rice enable long occur cattle price wealth warrior muscle";
+var mnemonic = "always west client review attend captain nice kit organ swift grace bridge";

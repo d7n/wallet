@@ -1,1 +1,1 @@
-var mnemonic = "person impulse wisdom remember moment album order upset alarm oak knife carpet";
+var mnemonic = "rate normal bundle patrol liar sunny suspect claw define hazard couple impact";

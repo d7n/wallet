@@ -1,1 +1,1 @@
-var mnemonic = "climb cause vote tail ribbon square front gather drive muscle payment practice";
+var mnemonic = "original type gentle tank gun hurry bulb report quarter double subject unlock";

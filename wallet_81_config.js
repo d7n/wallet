@@ -1,1 +1,1 @@
-var mnemonic = "list knock ride chat oak excess market very program diagram abandon jar";
+var mnemonic = "know interest govern sort wave fame rescue noodle casino note jar space";

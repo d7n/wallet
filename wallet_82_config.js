@@ -1,1 +1,1 @@
-var mnemonic = "cloud mountain cage share salad regular two know open address detect critic";
+var mnemonic = "bag festival adapt foil industry rough kiss burger peasant man oppose hedgehog";

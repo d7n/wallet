@@ -1,1 +1,1 @@
-var mnemonic = "grocery blanket plug envelope captain pattern security cover basket lonely crime frog";
+var mnemonic = "nothing shiver scheme bronze light congress trap meat adapt view unit cloud";

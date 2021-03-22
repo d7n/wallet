@@ -1,1 +1,1 @@
-var mnemonic = "fabric rely slot birth smoke fix rose basic mystery total athlete gauge";
+var mnemonic = "beef allow where old diary gym maple gravity kick father hospital combine";

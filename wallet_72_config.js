@@ -1,1 +1,1 @@
-var mnemonic = "again kitten sport black pledge alter display stuff turtle minute option among";
+var mnemonic = "orchard amused chronic survey horror pupil ask marine fall review permit furnace";

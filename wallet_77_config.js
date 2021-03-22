@@ -1,1 +1,1 @@
-var mnemonic = "orphan finish month rabbit very sort blood welcome repeat daughter eager display";
+var mnemonic = "current under comic tackle circle alley purpose spread naive anger run knock";

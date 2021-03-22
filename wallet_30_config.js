@@ -1,1 +1,1 @@
-var mnemonic = "ten accident solid across myself black first victory annual limb shove host";
+var mnemonic = "believe glue couple egg wedding myth insect section attract tent inhale pill";

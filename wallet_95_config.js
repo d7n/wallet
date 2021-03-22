@@ -1,1 +1,1 @@
-var mnemonic = "harbor tilt humble remove metal run vault peanut transfer escape envelope tragic";
+var mnemonic = "donor tree razor empty cupboard exit rookie income fuel jewel mixed second";

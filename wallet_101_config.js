@@ -1,1 +1,1 @@
-var mnemonic = "recycle occur cable attend blame symptom season maximum reward concert stone erosion";
+var mnemonic = "make skin anger toddler nominee trick wheel render master town bid proud";

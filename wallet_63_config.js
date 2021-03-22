@@ -1,1 +1,1 @@
-var mnemonic = "cupboard point law raccoon medal assault game match domain response holiday element";
+var mnemonic = "tonight level pool harvest joke small manual sibling account catalog either exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "canal loan slam around salmon upper mesh pill since flame blur pole";
+var mnemonic = "domain outer nothing food toddler fashion scene invite rally peanut mountain convince";

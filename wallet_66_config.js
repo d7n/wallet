@@ -1,1 +1,1 @@
-var mnemonic = "road mammal keep little street cable carbon spare lamp crop confirm danger";
+var mnemonic = "jelly pistol kite tube blush repeat session profit crucial average same spread";

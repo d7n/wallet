@@ -1,1 +1,1 @@
-var mnemonic = "mesh inch nation random riot head ignore jeans confirm cushion spike flight";
+var mnemonic = "naive device sport size burst cute off chronic pig false wrap day";

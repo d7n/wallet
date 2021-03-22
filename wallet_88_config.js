@@ -1,1 +1,1 @@
-var mnemonic = "thought brother blast victory toy paddle defense slight expand abstract region absent";
+var mnemonic = "harsh believe evil garbage tunnel invest north swarm scissors speed garden example";

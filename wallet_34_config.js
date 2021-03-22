@@ -1,1 +1,1 @@
-var mnemonic = "either buddy range various pact use flip axis mystery vacant layer fox";
+var mnemonic = "luggage edit festival test final relief record flock foster kingdom unfold field";

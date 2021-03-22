@@ -1,1 +1,1 @@
-var mnemonic = "deal earth viable mouse board shove opera unable mind pledge sock apple";
+var mnemonic = "galaxy assume topple wagon record leader damp hedgehog month student harsh paddle";

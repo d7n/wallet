@@ -1,1 +1,1 @@
-var mnemonic = "ill review evolve palm gasp decline tennis merge armed ocean lunar shed";
+var mnemonic = "vault silent trial offer endless water genuine push solar dwarf cliff drill";

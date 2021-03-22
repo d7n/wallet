@@ -1,1 +1,1 @@
-var mnemonic = "record infant grant orient drama mule blush identify fine rookie view glare";
+var mnemonic = "clean push employ deny echo reunion cash call pen desert hedgehog blood";

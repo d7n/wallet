@@ -1,1 +1,1 @@
-var mnemonic = "credit melody nut movie exit wife jelly melt knock craft burden camera";
+var mnemonic = "midnight wool annual defy wool pig runway sorry column dream wrap step";

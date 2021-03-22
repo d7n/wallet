@@ -1,1 +1,1 @@
-var mnemonic = "jacket open violin tip define uniform choice wild arm scheme agree hidden";
+var mnemonic = "peanut tortoise joke remember office all eagle vote expire service shine shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "item two wife thing position myth black awful divide scene material enable";
+var mnemonic = "they twist wreck picnic lady pledge alley demise dove pilot arrow sphere";

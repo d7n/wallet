@@ -1,1 +1,1 @@
-var mnemonic = "dress latin fork increase scorpion silver level concert cabin dirt undo inform";
+var mnemonic = "squeeze scrap lecture whale damp beauty choice crew claim between catch blade";

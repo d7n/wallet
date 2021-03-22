@@ -1,1 +1,1 @@
-var mnemonic = "long popular husband emerge forum wagon apart void upset dog moment news";
+var mnemonic = "retire sunset orchard asthma fold fall paddle during inside soul oak fever";

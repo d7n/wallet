@@ -1,1 +1,1 @@
-var mnemonic = "unlock little physical pave teach palace buffalo chuckle section melody outside breeze";
+var mnemonic = "clean tell random spike quick more brave vague powder office canoe clinic";

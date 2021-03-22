@@ -1,1 +1,1 @@
-var mnemonic = "pepper garage impulse castle bid neglect evil coast federal radar orchard tourist";
+var mnemonic = "road jelly exclude silk crowd display gun library whale angry pipe rib";

@@ -1,1 +1,1 @@
-var mnemonic = "animal wrap arch help sugar force gasp gap glare process play anxiety";
+var mnemonic = "barely crush behind song boil online circle snap vibrant offer donor laugh";

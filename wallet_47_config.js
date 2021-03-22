@@ -1,1 +1,1 @@
-var mnemonic = "web dust wise umbrella timber oval utility luggage swift blush clap lucky";
+var mnemonic = "fabric brass frog return knife bachelor discover assume cargo gallery desk palm";

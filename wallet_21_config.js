@@ -1,1 +1,1 @@
-var mnemonic = "thrive canal blade write share twist wing cycle afford act govern hundred";
+var mnemonic = "scorpion cup fancy cupboard ensure message minimum finish office comfort spell buzz";

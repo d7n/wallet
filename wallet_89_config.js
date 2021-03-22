@@ -1,1 +1,1 @@
-var mnemonic = "prison clerk screen mercy pluck lesson tent oblige smile earn clown system";
+var mnemonic = "pulse come little trip prize entry identify fuel fuel high trash brass";

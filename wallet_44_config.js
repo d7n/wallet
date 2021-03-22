@@ -1,1 +1,1 @@
-var mnemonic = "food edit noodle industry exit exist hint convince burst weasel laptop tongue";
+var mnemonic = "frame ribbon industry step chase that quantum boy arena prefer demand certain";

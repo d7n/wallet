@@ -1,1 +1,1 @@
-var mnemonic = "reject damp animal crazy board oval modify fee awful once claw wall";
+var mnemonic = "spider aspect apology miracle prepare drift orphan rich path creek update chuckle";

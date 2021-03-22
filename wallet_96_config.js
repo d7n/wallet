@@ -1,1 +1,1 @@
-var mnemonic = "switch sun gift novel angry wine east nuclear neglect coconut brass floor";
+var mnemonic = "cloud fence divert shy desert volume seed dizzy swim team planet ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "legal magnet cluster loan ivory swap lonely digital unlock leisure hawk ceiling";
+var mnemonic = "bunker room flat toy absent cart toe turtle wife segment immense try";

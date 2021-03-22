@@ -1,1 +1,1 @@
-var mnemonic = "potato vessel learn rather grape cluster put base approve lake leisure toy";
+var mnemonic = "smoke candy gasp win area hamster exit knock already left learn potato";

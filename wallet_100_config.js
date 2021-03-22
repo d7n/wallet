@@ -1,1 +1,1 @@
-var mnemonic = "shock urge excite dose track dress common oppose require genius virus punch";
+var mnemonic = "offer eternal unit bitter chase voyage luxury fall number brand summer faith";

@@ -1,1 +1,1 @@
-var mnemonic = "change song myth simple echo flash quiz eyebrow expire length glare fine";
+var mnemonic = "whale tired foam cradle broken defy rate second cage blouse east liberty";

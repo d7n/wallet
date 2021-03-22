@@ -1,1 +1,1 @@
-var mnemonic = "tribe bar column slam able cute text water marriage deputy lecture swallow";
+var mnemonic = "rate agent believe hover sauce harvest know grief river toss pony slogan";

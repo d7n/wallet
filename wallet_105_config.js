@@ -1,1 +1,1 @@
-var mnemonic = "sock enact dilemma lady shop border swallow iron seven right matter seven";
+var mnemonic = "camp scale stage vault spare tilt cube burden hold minute buyer outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "survey design easy mind train mandate model side predict bid rigid east";
+var mnemonic = "vote canvas velvet humble claim mom movie mesh liberty ask bullet bacon";

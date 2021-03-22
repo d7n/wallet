@@ -1,1 +1,1 @@
-var mnemonic = "amazing favorite average ride banana help husband brother until inject sea boat";
+var mnemonic = "drip bread coffee sustain pottery huge crucial icon below derive soldier industry";

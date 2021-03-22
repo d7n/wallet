@@ -1,1 +1,1 @@
-var mnemonic = "antique sketch topple crisp ranch fashion myself upper glance alpha expire reunion";
+var mnemonic = "rhythm worth metal twist detail inner someone effort million dial oil cube";

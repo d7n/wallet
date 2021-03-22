@@ -1,1 +1,1 @@
-var mnemonic = "rocket prefer stool rival common mirror enemy face library tornado city alpha";
+var mnemonic = "puppy enrich monitor dentist dove response wrap table first thought vacuum bus";

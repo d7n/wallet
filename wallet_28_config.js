@@ -1,1 +1,1 @@
-var mnemonic = "toast put easily universe medal shrug pencil cost luxury fetch output pretty";
+var mnemonic = "burst rival traffic jewel fish exact punch habit diesel dragon car primary";

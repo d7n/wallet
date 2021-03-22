@@ -1,1 +1,1 @@
-var mnemonic = "lyrics sick mouse canyon clap early paddle hope cause van smoke virus";
+var mnemonic = "cost improve veteran enact sock skull planet absurd prefer battle fork supreme";

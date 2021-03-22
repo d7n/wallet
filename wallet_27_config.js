@@ -1,1 +1,1 @@
-var mnemonic = "sun gaze dumb level power camp bullet frog double bicycle silly leaf";
+var mnemonic = "avocado material animal absurd animal voice code can cousin filter evil voice";

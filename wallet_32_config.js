@@ -1,1 +1,1 @@
-var mnemonic = "pair sorry wait embrace habit way gossip target silent figure cigar lunar";
+var mnemonic = "believe produce found hope match return pipe scan rapid potato stick whale";

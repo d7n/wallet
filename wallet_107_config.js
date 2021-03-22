@@ -1,1 +1,1 @@
-var mnemonic = "cycle traffic invite kitchen menu surprise claim snap lens ripple enhance foil";
+var mnemonic = "else whale kick please casino stove cook suit comic snake rookie together";

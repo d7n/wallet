@@ -1,1 +1,1 @@
-var mnemonic = "when shoulder obvious attract near west dolphin setup aisle tell clip reject";
+var mnemonic = "misery emerge uncover entire wire ask wink test tool human gallery blur";

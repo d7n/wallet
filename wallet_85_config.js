@@ -1,1 +1,1 @@
-var mnemonic = "wasp tip off wash scrub stumble inner peasant egg mystery logic cinnamon";
+var mnemonic = "loan domain patrol arrange connect repeat today discover armed wedding canvas century";

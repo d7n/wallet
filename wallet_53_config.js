@@ -1,1 +1,1 @@
-var mnemonic = "borrow auction exotic laugh inside panel fever version iron gasp super hen";
+var mnemonic = "orbit regular yellow develop display family pair jar machine caught much cupboard";

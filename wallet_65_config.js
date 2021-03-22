@@ -1,1 +1,1 @@
-var mnemonic = "member old move arrange foil target ceiling pencil creek risk strategy sister";
+var mnemonic = "sure mercy police happy budget churn hole truth vast remember sauce ready";

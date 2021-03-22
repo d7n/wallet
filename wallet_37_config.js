@@ -1,1 +1,1 @@
-var mnemonic = "shift dentist neglect autumn renew six surge trial price swift diet arm";
+var mnemonic = "planet risk mesh depend park repair benefit have illness wild tray balance";

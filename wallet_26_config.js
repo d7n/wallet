@@ -1,1 +1,1 @@
-var mnemonic = "orient such phone fault calm crystal learn surprise empty task liar scheme";
+var mnemonic = "benefit buyer engage drip naive diary inject cupboard bean refuse rate arm";

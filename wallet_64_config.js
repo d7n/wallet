@@ -1,1 +1,1 @@
-var mnemonic = "syrup wagon enemy claw lawn chest law nurse marriage inner inner social";
+var mnemonic = "always nerve until hat fury cost swim taxi home setup elite polar";

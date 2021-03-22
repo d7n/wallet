@@ -1,1 +1,1 @@
-var mnemonic = "exotic meat ankle ridge hidden either lazy noodle lady bike burger canoe";
+var mnemonic = "lounge angry scrap fiscal forum pride protect light music nut eyebrow kiss";

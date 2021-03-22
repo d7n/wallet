@@ -1,1 +1,1 @@
-var mnemonic = "blossom mesh bacon rare someone distance lonely fortune only change escape morning";
+var mnemonic = "absorb interest unknown capital ugly staff sugar volume accident gold silk life";

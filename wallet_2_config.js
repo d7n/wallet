@@ -1,1 +1,1 @@
-var mnemonic = "service sunset away camera few intact sphere yard pottery common gasp burger";
+var mnemonic = "guide large oval visa elite nerve fossil double outdoor dish frost actor";

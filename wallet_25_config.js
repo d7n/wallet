@@ -1,1 +1,1 @@
-var mnemonic = "mirror cycle market buffalo shallow shoe outside bleak push piano practice draw";
+var mnemonic = "sing outside metal lottery print frame cluster negative fan family skate matter";
