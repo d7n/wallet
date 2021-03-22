@@ -1,1 +1,1 @@
-var mnemonic = "powder budget once love clinic person obvious begin allow convince enroll boring";
+var mnemonic = "kitchen margin seat order peanut poverty error nose waste lottery traffic hamster";

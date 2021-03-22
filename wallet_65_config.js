@@ -1,1 +1,1 @@
-var mnemonic = "mountain cute cabin vacuum dice beach anger pole drastic toss negative drama";
+var mnemonic = "giraffe scene nephew squeeze cheese present hair option special tired machine sister";

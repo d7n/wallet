@@ -1,1 +1,1 @@
-var mnemonic = "allow dune hood scrap air joke true solar enroll modify entry wedding";
+var mnemonic = "delay curve twelve parent reduce label behave outdoor soap tent rural flash";

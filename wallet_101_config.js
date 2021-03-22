@@ -1,1 +1,1 @@
-var mnemonic = "clock chicken latin seven emotion middle tank announce danger wheat gather little";
+var mnemonic = "harvest unfold cotton brush dad canoe bridge assist saddle version luggage educate";

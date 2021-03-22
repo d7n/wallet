@@ -1,1 +1,1 @@
-var mnemonic = "furnace armed license comic anxiety hotel search page aspect rapid lady enhance";
+var mnemonic = "flavor sort absurd monitor finish roast omit antenna fantasy minimum pupil frown";

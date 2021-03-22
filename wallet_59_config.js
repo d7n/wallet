@@ -1,1 +1,1 @@
-var mnemonic = "join tunnel staff ocean when sunny lizard until tell eyebrow ghost goose";
+var mnemonic = "cluster case misery trigger tell soccer imitate mixed list example tube leave";

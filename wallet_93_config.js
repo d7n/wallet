@@ -1,1 +1,1 @@
-var mnemonic = "envelope trap mesh stone naive scatter crop robot mistake special violin firm";
+var mnemonic = "frame robust knee lecture yellow axis path hobby photo input scout skate";

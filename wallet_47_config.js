@@ -1,1 +1,1 @@
-var mnemonic = "cry ancient high street opinion piece swim raise side race target matrix";
+var mnemonic = "ice cable soon carbon pill hybrid couch balcony pass learn tackle cost";

@@ -1,1 +1,1 @@
-var mnemonic = "element vessel stereo cat economy crash hood lemon spend above merit distance";
+var mnemonic = "corn gossip female buffalo oven people diagram kick mouse absurd lottery omit";

@@ -1,1 +1,1 @@
-var mnemonic = "high carbon zero mind rice such tired disagree easily witness thought already";
+var mnemonic = "notable float subway script bird mass deer train avoid grape day wealth";

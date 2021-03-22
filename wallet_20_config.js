@@ -1,1 +1,1 @@
-var mnemonic = "guitar plug regret biology coconut vessel behave segment crater vivid spoon alcohol";
+var mnemonic = "novel grass syrup cradle insane reform image refuse item anchor exhaust season";

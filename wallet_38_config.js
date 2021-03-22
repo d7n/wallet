@@ -1,1 +1,1 @@
-var mnemonic = "family subject avoid donor protect hello very dash unknown panic rigid frost";
+var mnemonic = "acoustic sword sound episode target ritual settle october lunar pulse average chapter";

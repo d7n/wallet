@@ -1,1 +1,1 @@
-var mnemonic = "retreat retreat harvest beyond outer panic narrow motor situate remember junior ocean";
+var mnemonic = "loop skull despair fork update horn garage suit filter claw anxiety wall";

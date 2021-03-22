@@ -1,1 +1,1 @@
-var mnemonic = "potato tank village accident crush course awake year walnut print faint supply";
+var mnemonic = "novel quiz tip foil wet sock pair access mobile farm radar unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "push three clinic copper fruit jealous image empower wink option range fat";
+var mnemonic = "warm eight inherit dose engine shiver rubber useful doctor cave message genius";

@@ -1,1 +1,1 @@
-var mnemonic = "oil excite under ignore noodle follow energy toddler dream tattoo fish identify";
+var mnemonic = "amateur matrix real grant drop super mix barely judge bike brother search";

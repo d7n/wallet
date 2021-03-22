@@ -1,1 +1,1 @@
-var mnemonic = "motor idle wrist dinosaur crew toward abandon gadget dash indicate monitor rescue";
+var mnemonic = "virus anxiety potato wash police track wink weasel draft find have click";

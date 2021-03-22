@@ -1,1 +1,1 @@
-var mnemonic = "young focus face step embark twelve final punch birth used across dawn";
+var mnemonic = "tube recall flee shock wise math upon claim maple name cry defy";

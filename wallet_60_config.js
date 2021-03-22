@@ -1,1 +1,1 @@
-var mnemonic = "move jungle clog treat hundred custom turn price rug enjoy they lawn";
+var mnemonic = "fringe tonight aware accident enter wealth surface utility situate bar hill quality";

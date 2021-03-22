@@ -1,1 +1,1 @@
-var mnemonic = "panic salmon knife impact fury uniform first pelican below peanut fabric session";
+var mnemonic = "snow express lawn cream whale venture melody ceiling volcano absurd tooth brand";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut rent alert feed infant mutual destroy make cat exotic orange enough";
+var mnemonic = "diesel bid oppose crush library midnight egg sail vote pledge cushion art";

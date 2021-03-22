@@ -1,1 +1,1 @@
-var mnemonic = "cupboard wash embark tail used wage dry begin brand trigger roast twelve";
+var mnemonic = "trash chief wolf water defy lend regular punch tell vehicle border venue";

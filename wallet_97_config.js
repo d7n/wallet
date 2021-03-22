@@ -1,1 +1,1 @@
-var mnemonic = "tower camera festival trust unveil sweet suffer common spray together few limit";
+var mnemonic = "humble prevent grant bleak purse judge bean foot entry below physical hour";

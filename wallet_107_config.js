@@ -1,1 +1,1 @@
-var mnemonic = "hero tree kind glance festival start knock deny upgrade switch other country";
+var mnemonic = "indicate field ketchup zone tray water key wire panel lock corn mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf daring despair physical creek thank million recall tired salad name pet";
+var mnemonic = "road fetch snack bracket whip current arrive empower winner narrow grace unlock";

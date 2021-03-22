@@ -1,1 +1,1 @@
-var mnemonic = "enough fork sing melody tunnel beyond wheel possible current wrestle dolphin reunion";
+var mnemonic = "unit kangaroo erosion snap deer mango uncover erosion adjust spatial frost squirrel";

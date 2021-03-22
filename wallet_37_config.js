@@ -1,1 +1,1 @@
-var mnemonic = "dial ski icon fruit rude stage fault catch insane pumpkin tomorrow tragic";
+var mnemonic = "device sibling smart sponsor stay lazy retreat page act decrease belt catch";

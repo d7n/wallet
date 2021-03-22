@@ -1,1 +1,1 @@
-var mnemonic = "draft peasant train spirit vivid worry weekend town call rely general yellow";
+var mnemonic = "crop alley youth text air aisle actual puppy gospel cute random license";

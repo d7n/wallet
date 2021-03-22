@@ -1,1 +1,1 @@
-var mnemonic = "turkey access evidence entire monster parent private enrich alien guilt time express";
+var mnemonic = "drink desk taste loop clerk elevator flush raccoon right cement vacant north";

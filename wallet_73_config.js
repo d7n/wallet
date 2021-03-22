@@ -1,1 +1,1 @@
-var mnemonic = "slide view very frame fire inspire city hint review pizza rapid survey";
+var mnemonic = "surround drum satisfy buddy lucky arrest endless glance mind clean skull sponsor";

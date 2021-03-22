@@ -1,1 +1,1 @@
-var mnemonic = "modify twice absorb permit fee they light club weird neither sail volcano";
+var mnemonic = "bread athlete shoe critic bacon soft miss educate patrol palm reveal equip";

@@ -1,1 +1,1 @@
-var mnemonic = "day private crawl shiver mad argue iron matrix across time govern maximum";
+var mnemonic = "advice vague eternal sight law episode moral give first setup boil side";

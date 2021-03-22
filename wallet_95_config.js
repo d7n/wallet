@@ -1,1 +1,1 @@
-var mnemonic = "step odor palace eternal total viable visit heavy goose goose scene ill";
+var mnemonic = "elevator kick focus agent accident excess journey asset wheat ocean ball sniff";

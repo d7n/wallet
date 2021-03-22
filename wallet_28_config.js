@@ -1,1 +1,1 @@
-var mnemonic = "exile artist canvas crime board stamp regret update flock gadget brass habit";
+var mnemonic = "normal north club exact valley yard dream exhibit visit shine subject warfare";

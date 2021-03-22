@@ -1,1 +1,1 @@
-var mnemonic = "series satoshi acquire cost fetch exist arrow autumn sick clean float grief";
+var mnemonic = "unfold verify spell pave ripple faith fall total where theme month clay";

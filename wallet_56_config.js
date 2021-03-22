@@ -1,1 +1,1 @@
-var mnemonic = "wasp congress siege right monster speed peace crawl gap tribe warm waste";
+var mnemonic = "false disorder feed ordinary weather risk human dial egg shed buffalo seek";

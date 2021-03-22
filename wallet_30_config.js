@@ -1,1 +1,1 @@
-var mnemonic = "dumb waste wolf parent erosion wrong wedding impulse excite shiver craft where";
+var mnemonic = "vote install sing quick fortune embody drama what recycle juice brick wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "response fancy unfair cannon stomach treat ketchup normal spare prize surface penalty";
+var mnemonic = "snack inflict decline history pond plate tobacco custom hello grain zebra laundry";

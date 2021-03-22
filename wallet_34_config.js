@@ -1,1 +1,1 @@
-var mnemonic = "useless bird blouse shove torch airport foil wool account hobby peace angle";
+var mnemonic = "nest taste miss bunker present slight enemy buzz tube cabin blade return";

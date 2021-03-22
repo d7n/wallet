@@ -1,1 +1,1 @@
-var mnemonic = "blouse account agree genius tattoo stand spell vanish green fame impulse super";
+var mnemonic = "ranch upon bubble repair index bomb hunt deputy agent enforce great fiscal";

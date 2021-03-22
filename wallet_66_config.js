@@ -1,1 +1,1 @@
-var mnemonic = "region mention erupt laptop boost caught segment pioneer motion theme naive borrow";
+var mnemonic = "wedding second weather skate stumble where script copper fame gas remember name";

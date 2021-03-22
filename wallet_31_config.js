@@ -1,1 +1,1 @@
-var mnemonic = "artwork swing evil number gas blush adult still about three logic weasel";
+var mnemonic = "bulk pass eternal idea shrug chalk turkey scan run network ski spell";

@@ -1,1 +1,1 @@
-var mnemonic = "glory fortune parent reform stuff trumpet fox fringe spell attend frequent brush";
+var mnemonic = "ship misery domain empower fossil neglect ankle nothing absorb will smile brisk";

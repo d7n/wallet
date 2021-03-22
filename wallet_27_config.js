@@ -1,1 +1,1 @@
-var mnemonic = "hurdle afraid salute mixed globe thought assault satoshi violin cram giant problem";
+var mnemonic = "loud lazy spirit visa hint apple episode spawn spike warrior holiday update";

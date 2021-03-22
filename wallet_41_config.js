@@ -1,1 +1,1 @@
-var mnemonic = "half tape title combine eternal brisk learn salmon foil fluid sample weather";
+var mnemonic = "define film brother found father diamond melody three give hollow fantasy job";

@@ -1,1 +1,1 @@
-var mnemonic = "medal broom turtle cinnamon sting universe next desk like used fitness record";
+var mnemonic = "enrich bomb gift rely fine tissue harbor payment van decide solve crouch";

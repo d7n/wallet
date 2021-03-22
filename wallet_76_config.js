@@ -1,1 +1,1 @@
-var mnemonic = "movie always input idle dwarf cost palm mask bitter lamp three coral";
+var mnemonic = "seminar all afraid pyramid tortoise girl black above fragile flower advance anger";

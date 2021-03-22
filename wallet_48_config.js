@@ -1,1 +1,1 @@
-var mnemonic = "humor laugh fruit nation mean turtle tube comic bamboo raise climb problem";
+var mnemonic = "lock shuffle tuna snack flame truck grid shell spy churn season among";

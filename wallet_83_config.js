@@ -1,1 +1,1 @@
-var mnemonic = "bind elegant can forest trigger grocery pass brief one grit street observe";
+var mnemonic = "bread pulse solid amazing trouble proof please nothing later crush laugh fan";

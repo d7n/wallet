@@ -1,1 +1,1 @@
-var mnemonic = "exchange cause snap measure achieve join twice effort hard race puppy embody";
+var mnemonic = "chuckle hammer country program sheriff assume orphan forest news business describe west";

@@ -1,1 +1,1 @@
-var mnemonic = "deer valid two toss know crater relax option museum desk slim thrive";
+var mnemonic = "still caution stem script absorb define rack used gift custom stuff body";

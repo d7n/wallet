@@ -1,1 +1,1 @@
-var mnemonic = "display oppose buffalo small crash enemy ranch jungle sorry image robust excess";
+var mnemonic = "auction pumpkin nature season demise smoke puzzle poverty elder hammer actress when";

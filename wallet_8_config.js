@@ -1,1 +1,1 @@
-var mnemonic = "rule outside pipe version brand wolf grape negative segment happy fruit bar";
+var mnemonic = "luxury slow train choose salad load fever endorse believe excuse suspect disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato legend melody loud photo control load pilot knife disease idea typical";
+var mnemonic = "forget clog holiday ask scheme carbon antenna drama outer impact unfold avoid";

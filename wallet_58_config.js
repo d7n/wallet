@@ -1,1 +1,1 @@
-var mnemonic = "slam axis scene paper street jacket crush power immense donor capable pony";
+var mnemonic = "act thumb awkward royal endless intact major mention future old lumber grocery";

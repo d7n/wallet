@@ -1,1 +1,1 @@
-var mnemonic = "safe sustain already candy paper smart kit canvas teach girl high town";
+var mnemonic = "exclude then road physical size brick outer faint skill bacon fringe orchard";

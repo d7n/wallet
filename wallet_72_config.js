@@ -1,1 +1,1 @@
-var mnemonic = "pluck diary enforce blame rotate barrel stem rescue carry hint laundry polar";
+var mnemonic = "fat hybrid swarm turkey ladder nice mad cabin also trust combine dish";

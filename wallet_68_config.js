@@ -1,1 +1,1 @@
-var mnemonic = "state rough jaguar detail arctic inherit fragile clip tag flame slam grocery";
+var mnemonic = "slogan avoid burst shrug saddle mosquito fiscal pause skill release taxi still";

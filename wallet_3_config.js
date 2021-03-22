@@ -1,1 +1,1 @@
-var mnemonic = "trip squeeze ahead train garden zoo minimum ladder success alcohol forward cheap";
+var mnemonic = "runway annual scheme melt buyer clerk source wise scatter token city kiwi";

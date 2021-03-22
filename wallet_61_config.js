@@ -1,1 +1,1 @@
-var mnemonic = "stick animal assume wear trial slim host wife object bright column chef";
+var mnemonic = "shift cactus party label mention distance lumber demise pause involve myth reveal";

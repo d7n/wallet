@@ -1,1 +1,1 @@
-var mnemonic = "hurry hazard chef army borrow armor agree gallery need unable seat book";
+var mnemonic = "estate infant pigeon allow rely banner myself detect basic apart drum deliver";

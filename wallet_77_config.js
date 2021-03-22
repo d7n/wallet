@@ -1,1 +1,1 @@
-var mnemonic = "claim skill eternal thought female nature trap symptom know stem upset boy";
+var mnemonic = "base dizzy budget across gossip tiger wire piano injury cheese settle town";

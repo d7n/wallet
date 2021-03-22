@@ -1,1 +1,1 @@
-var mnemonic = "amazing city frequent any danger weather best remain glove lazy mixture frozen";
+var mnemonic = "chaos angle relief tennis swing page ladder earth base dish wage force";

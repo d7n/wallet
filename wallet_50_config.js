@@ -1,1 +1,1 @@
-var mnemonic = "praise school demise industry fossil release cannon laugh wink bless clever angle";
+var mnemonic = "foster oxygen tribe onion occur trophy shrimp lounge dune blind fatigue silent";

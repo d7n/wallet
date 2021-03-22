@@ -1,1 +1,1 @@
-var mnemonic = "awkward dial fringe option sock cabbage regret unable file online borrow place";
+var mnemonic = "ethics provide income cattle wish swear replace drift weekend useless suspect uniform";

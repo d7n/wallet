@@ -1,1 +1,1 @@
-var mnemonic = "what lunar clean involve history glory round discover lawsuit real leg casino";
+var mnemonic = "output tortoise below one uphold bread pitch soda often tool riot frequent";

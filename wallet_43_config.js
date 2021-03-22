@@ -1,1 +1,1 @@
-var mnemonic = "suffer remain hundred pole truly syrup perfect stay nose jaguar fork drill";
+var mnemonic = "wash link wine ten lazy aisle hello jaguar toe release tomorrow evidence";

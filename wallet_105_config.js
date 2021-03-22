@@ -1,1 +1,1 @@
-var mnemonic = "hard kite fluid foam way learn claim physical intact faculty stone miracle";
+var mnemonic = "lock offer hawk eagle about initial amazing kid vendor pilot uniform medal";

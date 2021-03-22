@@ -1,1 +1,1 @@
-var mnemonic = "organ broccoli weather never idea egg next gallery defy harsh invite bamboo";
+var mnemonic = "bullet bulb vault subway short silk host wire private empty push bacon";

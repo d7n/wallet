@@ -1,1 +1,1 @@
-var mnemonic = "uphold oval offer evidence excite infant vendor convince input project junk nation";
+var mnemonic = "ordinary season conduct forum basic tornado decide frequent various find odor enable";

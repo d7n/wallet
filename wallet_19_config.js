@@ -1,1 +1,1 @@
-var mnemonic = "option icon shift magic learn once ethics steak collect ethics melt pull";
+var mnemonic = "uncover zero thunder arctic vote federal spell spend liquid hungry demise real";

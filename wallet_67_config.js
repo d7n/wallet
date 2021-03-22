@@ -1,1 +1,1 @@
-var mnemonic = "between edit light often plate collect try assist matter raise young vacant";
+var mnemonic = "monkey canoe side because joy detail love bacon future cause venue trick";

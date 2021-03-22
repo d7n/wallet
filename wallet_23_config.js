@@ -1,1 +1,1 @@
-var mnemonic = "baby mom fetch rose victory future ripple decrease steel mind smile network";
+var mnemonic = "inhale owner giggle unveil tonight awesome rapid top similar remove chair rabbit";

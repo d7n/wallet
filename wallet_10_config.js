@@ -1,1 +1,1 @@
-var mnemonic = "crouch hedgehog bronze domain smile club double orbit bless never autumn shift";
+var mnemonic = "exit dial dismiss diagram carpet jungle boat under antenna found panther unfair";

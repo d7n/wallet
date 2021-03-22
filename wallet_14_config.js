@@ -1,1 +1,1 @@
-var mnemonic = "hole excuse acoustic order width basic icon total belt team dawn song";
+var mnemonic = "supreme combine example taste work daring sail there salmon grocery patient crumble";

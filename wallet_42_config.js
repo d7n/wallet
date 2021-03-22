@@ -1,1 +1,1 @@
-var mnemonic = "outdoor bamboo year galaxy identify robust bulk doctor attend region label jar";
+var mnemonic = "suffer cereal nature cruise cycle spread silent weather insane warrior tool tortoise";

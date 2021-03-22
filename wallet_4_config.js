@@ -1,1 +1,1 @@
-var mnemonic = "narrow game draft couple mass arrange fantasy airport camera goddess burst eye";
+var mnemonic = "net general gorilla forest velvet guilt tone plunge plate fiscal charge nothing";

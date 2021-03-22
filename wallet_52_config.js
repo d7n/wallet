@@ -1,1 +1,1 @@
-var mnemonic = "indicate weasel wheel possible luggage join screen know you bounce olympic smooth";
+var mnemonic = "oblige phrase gap action melt charge treat exact witness together flame wool";

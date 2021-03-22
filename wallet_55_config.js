@@ -1,1 +1,1 @@
-var mnemonic = "badge gasp daughter peace about fame hospital sauce girl void proof wage";
+var mnemonic = "crystal fatal sphere rug grain key dutch ordinary dove slice urban gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "green glare trust shadow unveil bubble dance salad addict robust venture catch";
+var mnemonic = "family swallow path plug any ensure meat menu decorate slogan victory rule";

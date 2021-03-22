@@ -1,1 +1,1 @@
-var mnemonic = "middle define page trend brother crazy armor measure suit aim wrestle inform";
+var mnemonic = "lunar main agree word right waste section keen vanish crawl sphere school";

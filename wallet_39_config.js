@@ -1,1 +1,1 @@
-var mnemonic = "maximum math tip kitten nurse logic youth sail wide tourist deposit life";
+var mnemonic = "often canvas dawn elegant wall purity banana apart mention pudding moral still";

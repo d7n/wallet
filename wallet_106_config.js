@@ -1,1 +1,1 @@
-var mnemonic = "syrup exchange simple absurd achieve fossil cupboard phone loop near thing rival";
+var mnemonic = "spin blush income dilemma danger rail actor clay sand rocket seek one";

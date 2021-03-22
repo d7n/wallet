@@ -1,1 +1,1 @@
-var mnemonic = "elite surface inherit front crisp cement alien dust deputy shrug cross spread";
+var mnemonic = "grain usual old tone nuclear drip attitude happy penalty employ tomorrow pluck";

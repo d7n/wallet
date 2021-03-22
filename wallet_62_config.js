@@ -1,1 +1,1 @@
-var mnemonic = "theory orchard mystery fabric output volume monitor acoustic inhale network dizzy twist";
+var mnemonic = "wage behind grid image phone gasp gaze rebuild hospital lesson salon proud";

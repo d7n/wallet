@@ -1,1 +1,1 @@
-var mnemonic = "early fat spawn dynamic rescue cereal gain right seek forum hour spider";
+var mnemonic = "arch culture among firm eager escape stay ability erode artist chief garbage";

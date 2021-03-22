@@ -1,1 +1,1 @@
-var mnemonic = "forget season genius web craft volume lesson arrive violin check body elevator";
+var mnemonic = "lizard rigid junk wear tank exclude shrug shield vendor enable entry eye";

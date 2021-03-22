@@ -1,1 +1,1 @@
-var mnemonic = "winner quantum shine elevator word when cave ordinary cancel extend family wet";
+var mnemonic = "visual shuffle hair police because assume unfair addict ill gate unit couple";

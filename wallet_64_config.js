@@ -1,1 +1,1 @@
-var mnemonic = "harsh maid squirrel knife decide insane cute season peasant mind crack popular";
+var mnemonic = "mosquito travel patch wood decide cement lawsuit chicken link dilemma subway task";

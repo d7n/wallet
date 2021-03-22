@@ -1,1 +1,1 @@
-var mnemonic = "dish renew icon noise love vacant nephew quick wheel tiger crawl zebra";
+var mnemonic = "local sausage orange plate version gold arch alert ski shell bread artefact";

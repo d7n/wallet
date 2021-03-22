@@ -1,1 +1,1 @@
-var mnemonic = "paddle mirror tennis robust buzz wire vital leaf trust dignity bracket illegal";
+var mnemonic = "liberty purpose arrow sibling melody edge view exhaust utility decrease install maid";
