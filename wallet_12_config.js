@@ -1,1 +1,1 @@
-var mnemonic = "power sea bitter blame profit wear tongue legal call sting olympic grant";
+var mnemonic = "picture design hurdle unveil inflict park cotton help gap wolf minute main";

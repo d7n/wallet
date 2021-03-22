@@ -1,1 +1,1 @@
-var mnemonic = "picture divert dentist eyebrow diagram load wreck exotic jazz put wish dash";
+var mnemonic = "aunt ivory spend valley crew kitchen shove video riot marble deer mix";

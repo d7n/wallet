@@ -1,1 +1,1 @@
-var mnemonic = "dutch small position daring author area coffee decorate crew lab height alcohol";
+var mnemonic = "degree rely cry essence visual chat tumble husband nice bullet plunge save";

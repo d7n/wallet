@@ -1,1 +1,1 @@
-var mnemonic = "brush melt stuff suspect obvious unique slow evil sword eight recipe heart";
+var mnemonic = "kick verb jeans ladder taxi airport carry sand vapor tortoise latin ordinary";

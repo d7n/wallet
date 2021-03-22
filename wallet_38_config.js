@@ -1,1 +1,1 @@
-var mnemonic = "car outdoor beauty uncle rocket federal extend prevent bread shoe flash mix";
+var mnemonic = "alcohol design book lake display pond slide stove casino depend kiwi reject";

@@ -1,1 +1,1 @@
-var mnemonic = "try scale pretty source smoke depart zone master charge bean clip answer";
+var mnemonic = "music expire diamond stadium tip certain path wrist staff system empty cage";

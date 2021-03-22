@@ -1,1 +1,1 @@
-var mnemonic = "story van hire crime dilemma trust fox mail want rebel urban domain";
+var mnemonic = "access stamp sort worry soon engage harsh nephew sign unlock hidden mass";

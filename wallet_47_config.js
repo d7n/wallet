@@ -1,1 +1,1 @@
-var mnemonic = "gravity alarm amazing you common female avoid excite must country gadget nature";
+var mnemonic = "result glimpse grain issue name enough twist execute figure taxi service avoid";

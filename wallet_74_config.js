@@ -1,1 +1,1 @@
-var mnemonic = "moon vehicle doll local multiply before charge outside quality actual yard boss";
+var mnemonic = "join near come bid match unfair equal sound today beauty extra ladder";

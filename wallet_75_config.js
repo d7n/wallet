@@ -1,1 +1,1 @@
-var mnemonic = "skull exercise win refuse face comic caution sunset ocean picnic banana excite";
+var mnemonic = "despair behind wool govern initial beach hand fringe grain govern honey fiction";

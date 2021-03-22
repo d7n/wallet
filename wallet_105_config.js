@@ -1,1 +1,1 @@
-var mnemonic = "bitter shy toy snake sure base old cake grow cousin lonely year";
+var mnemonic = "limb clerk flower reform pumpkin sense cinnamon festival tilt message nasty peace";

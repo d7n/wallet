@@ -1,1 +1,1 @@
-var mnemonic = "large connect symbol misery acoustic bomb topple rotate brain robot pause symbol";
+var mnemonic = "drive belt oak discover brave surge crop include surge artist toward cross";

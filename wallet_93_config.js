@@ -1,1 +1,1 @@
-var mnemonic = "sing raise answer rule book velvet normal busy denial school feature capital";
+var mnemonic = "ostrich consider day avoid session rubber side moment dry rhythm antique piano";

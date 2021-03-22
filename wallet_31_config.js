@@ -1,1 +1,1 @@
-var mnemonic = "spin end fiscal margin wage nuclear choice endorse congress change position lizard";
+var mnemonic = "anxiety agent satisfy dice finger slam again various nose broken skin ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt camp employ draft history harvest shrimp divorce almost able excuse upper";
+var mnemonic = "track dove casual kingdom spike gown three arrest mom monster broken shy";

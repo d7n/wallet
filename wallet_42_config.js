@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow fiction position wing oblige swing antenna clay fiber caught pioneer sun";
+var mnemonic = "casino stamp edge rural flower ripple fashion wheel globe strike park pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "banner punch margin switch dentist govern number upon raw change design stove";
+var mnemonic = "panel brown blush gate mystery coral concert shift girl click fever apple";

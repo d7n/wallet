@@ -1,1 +1,1 @@
-var mnemonic = "gather slice swift muscle orchard hint wage shop blouse obvious develop stereo";
+var mnemonic = "beauty slide science rule ill purse setup govern critic fabric infant tube";

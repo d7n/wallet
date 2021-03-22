@@ -1,1 +1,1 @@
-var mnemonic = "burden clown polar cargo differ fold hurry seed gas boil crazy envelope";
+var mnemonic = "traffic worry lunar roof economy eyebrow rural call unusual fiscal mass mouse";

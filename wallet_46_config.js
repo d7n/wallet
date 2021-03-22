@@ -1,1 +1,1 @@
-var mnemonic = "ginger garlic inherit egg insect toy salon you pole check leaf embody";
+var mnemonic = "cactus trip such vault tackle forum river paper limit salt problem region";

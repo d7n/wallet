@@ -1,1 +1,1 @@
-var mnemonic = "false snap kiss silly despair impact donkey oval trend duty lounge female";
+var mnemonic = "shrimp guard method light duty link announce leader flock sight enhance title";

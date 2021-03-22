@@ -1,1 +1,1 @@
-var mnemonic = "cricket budget awesome remain coffee amount nation stock assist excuse ill approve";
+var mnemonic = "letter begin picture liberty meadow romance coast sadness employ immune head leave";

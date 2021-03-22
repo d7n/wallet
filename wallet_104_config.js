@@ -1,1 +1,1 @@
-var mnemonic = "develop dismiss stadium cannon business ice mistake type news bonus alone ability";
+var mnemonic = "keen undo cash keep civil giant worry moon once lucky riot equip";

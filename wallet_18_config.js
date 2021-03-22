@@ -1,1 +1,1 @@
-var mnemonic = "perfect safe minute early easy general cancel call horse brand explain below";
+var mnemonic = "limit few chaos where neutral voice visual addict will film during lunar";

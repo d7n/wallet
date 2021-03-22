@@ -1,1 +1,1 @@
-var mnemonic = "transfer mansion pet produce army local grief icon home wide garden machine";
+var mnemonic = "robot rule file abstract project during monitor gun execute wedding sibling ritual";

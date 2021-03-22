@@ -1,1 +1,1 @@
-var mnemonic = "pretty add soul rhythm nasty call junior mystery panel canoe mesh start";
+var mnemonic = "trumpet spot portion shallow link regular hockey icon hood margin embark rich";

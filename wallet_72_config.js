@@ -1,1 +1,1 @@
-var mnemonic = "tourist banner marriage misery broken found sustain shield nothing typical swing pumpkin";
+var mnemonic = "tunnel later output museum sorry badge ethics similar forward snake what loan";

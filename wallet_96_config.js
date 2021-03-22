@@ -1,1 +1,1 @@
-var mnemonic = "replace possible floor sad buddy swim pride smart hunt match fossil bind";
+var mnemonic = "enroll clown juice lizard alien reason radar oppose chuckle solve orange fold";

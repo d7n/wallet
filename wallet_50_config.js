@@ -1,1 +1,1 @@
-var mnemonic = "van cloth actor keep castle awesome melody wing apple dutch wash chat";
+var mnemonic = "bunker rude cactus divorce foam rough trophy elevator swap release alone trim";

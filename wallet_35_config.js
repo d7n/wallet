@@ -1,1 +1,1 @@
-var mnemonic = "mesh burst inch ankle best embody wink fox symptom blue kitchen farm";
+var mnemonic = "month crime assault cheese cabbage tag engage before travel shell crazy stage";

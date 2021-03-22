@@ -1,1 +1,1 @@
-var mnemonic = "castle rain dinosaur retreat pizza kite long display minor guess such banana";
+var mnemonic = "throw jump old march destroy almost execute family problem camp lumber left";

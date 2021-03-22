@@ -1,1 +1,1 @@
-var mnemonic = "frame soda winner industry naive rent muscle hello enroll leader nice child";
+var mnemonic = "purity lemon wisdom reopen private glance more verb torch crane siege lab";

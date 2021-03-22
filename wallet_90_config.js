@@ -1,1 +1,1 @@
-var mnemonic = "figure tent lava funny increase action step frown argue rabbit deposit clog";
+var mnemonic = "kangaroo dilemma title endless judge promote cement buffalo flat never rich expect";

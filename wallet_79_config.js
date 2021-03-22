@@ -1,1 +1,1 @@
-var mnemonic = "scatter stereo model fiscal frame engine spread gold giggle stove gentle sing";
+var mnemonic = "mystery volcano foster video result clever trouble brave cliff accident source zebra";

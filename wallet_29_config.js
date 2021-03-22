@@ -1,1 +1,1 @@
-var mnemonic = "bike cereal guitar sell skill sketch globe lunch differ ripple unfair grunt";
+var mnemonic = "whale clown mom mechanic miss coral matter rather brief shoot region ugly";

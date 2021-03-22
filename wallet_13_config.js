@@ -1,1 +1,1 @@
-var mnemonic = "wrong harsh indicate sock liar swallow cheap observe rather mouse eye defense";
+var mnemonic = "menu lobster grain grab number physical sudden shock avoid dove lemon segment";

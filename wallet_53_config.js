@@ -1,1 +1,1 @@
-var mnemonic = "shrimp fat apology syrup grow fury draw green future solid hero climb";
+var mnemonic = "check cricket tongue pull catch blouse lava travel diagram predict wire hurt";

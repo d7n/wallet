@@ -1,1 +1,1 @@
-var mnemonic = "coil clog motion angle famous envelope industry blanket insane suit drink elite";
+var mnemonic = "ostrich ride blame carpet vital man believe inmate bleak thrive only anchor";

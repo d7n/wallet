@@ -1,1 +1,1 @@
-var mnemonic = "fiscal phrase same brief slight garden absorb virus weather marine find man";
+var mnemonic = "flip tackle six picture sibling ignore shoot pupil tape play include entire";

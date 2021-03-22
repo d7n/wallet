@@ -1,1 +1,1 @@
-var mnemonic = "kid veteran display tattoo bitter brisk envelope bench approve robust company enough";
+var mnemonic = "shock island useless ticket fog kitchen novel witness fortune select renew open";

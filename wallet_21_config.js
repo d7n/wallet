@@ -1,1 +1,1 @@
-var mnemonic = "stay flush deputy sock point fish peasant acoustic nest eager select wave";
+var mnemonic = "evolve day same private sort gym expose write person asthma animal capital";

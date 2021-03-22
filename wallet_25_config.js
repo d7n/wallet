@@ -1,1 +1,1 @@
-var mnemonic = "renew crater unveil mountain town whale lens lawsuit stumble fuel nation pole";
+var mnemonic = "august task split fat twist total sugar oil number strategy twice club";

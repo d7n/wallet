@@ -1,1 +1,1 @@
-var mnemonic = "remind tourist video cargo arctic script lens hunt author deer under habit";
+var mnemonic = "melt shaft token velvet jealous course exit ship ethics dish small balance";

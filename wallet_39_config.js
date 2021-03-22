@@ -1,1 +1,1 @@
-var mnemonic = "into brain vehicle position caught mosquito absent token mandate bus chase dirt";
+var mnemonic = "original february melody gasp gun provide mutual lemon green worth wool crash";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken chicken goat world hover express upper barrel satisfy trade crush happy";
+var mnemonic = "youth coast angle vehicle harbor cash garden gallery tennis situate child flavor";

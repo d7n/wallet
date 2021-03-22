@@ -1,1 +1,1 @@
-var mnemonic = "broom clarify boy auto orient certain romance excess dose just tomorrow food";
+var mnemonic = "divorce argue state move sister left eagle puppy can yellow decrease basket";

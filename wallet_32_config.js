@@ -1,1 +1,1 @@
-var mnemonic = "top reform rug stay hawk mix pull endless bring purity yellow kind";
+var mnemonic = "brown jungle vault lion gun legal puppy sphere reflect increase select able";

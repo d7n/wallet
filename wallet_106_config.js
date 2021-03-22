@@ -1,1 +1,1 @@
-var mnemonic = "vintage exercise tomorrow admit skill chunk indicate basic eager finger episode shield";
+var mnemonic = "history actress armed liberty enforce corn cake country dream elegant sea frost";

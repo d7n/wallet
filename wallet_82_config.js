@@ -1,1 +1,1 @@
-var mnemonic = "tattoo birth knife topple good require sphere defense tongue organ expose loop";
+var mnemonic = "tone budget tag puzzle license iron valley elbow craft series island fox";

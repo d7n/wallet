@@ -1,1 +1,1 @@
-var mnemonic = "elite convince bright raw clean butter enter clever exile trumpet welcome tag";
+var mnemonic = "public recycle flag dutch embark feel word chat raise maze fringe deliver";

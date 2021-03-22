@@ -1,1 +1,1 @@
-var mnemonic = "fortune iron push remain place bright split play noodle guard runway taxi";
+var mnemonic = "arrest alcohol install motor world room turn afford frozen either pond drop";

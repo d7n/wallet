@@ -1,1 +1,1 @@
-var mnemonic = "elite awkward convince aerobic speed future board main large bring brown warm";
+var mnemonic = "hat forum design laugh cancel begin hurry faith fever aware hub uniform";

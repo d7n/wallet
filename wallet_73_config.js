@@ -1,1 +1,1 @@
-var mnemonic = "antenna either worth borrow select valve party measure shove lecture brush rent";
+var mnemonic = "plunge employ suspect reduce siren city hurt super embody icon tomorrow frost";

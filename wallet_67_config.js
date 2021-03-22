@@ -1,1 +1,1 @@
-var mnemonic = "fee clap visa flat crew hidden disagree sure sponsor kangaroo setup potato";
+var mnemonic = "brick armor great design ship number speed source gown obey celery wool";

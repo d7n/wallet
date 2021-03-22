@@ -1,1 +1,1 @@
-var mnemonic = "lecture kingdom suit card deer short casual ball police maid yard noise";
+var mnemonic = "degree salad access october blind tiny arrest fruit crowd attract main curtain";

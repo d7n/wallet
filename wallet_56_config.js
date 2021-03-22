@@ -1,1 +1,1 @@
-var mnemonic = "melt mean dry exclude unique elbow brief waste crumble screen favorite struggle";
+var mnemonic = "bar cruel siege recycle distance aerobic laugh razor top busy unhappy retire";

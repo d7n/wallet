@@ -1,1 +1,1 @@
-var mnemonic = "modify hole immune pizza usual milk gasp volume access people mechanic immense";
+var mnemonic = "proof vapor economy thrive drive waste glove angry monkey identify street settle";

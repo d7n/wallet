@@ -1,1 +1,1 @@
-var mnemonic = "leisure category woman wonder breeze nose enjoy travel target monkey usage sketch";
+var mnemonic = "net radar stamp zero core crew seed boss impulse advance hotel conduct";

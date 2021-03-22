@@ -1,1 +1,1 @@
-var mnemonic = "push mother soul kidney trick sand gym weird flee ocean live winner";
+var mnemonic = "sight upgrade finish busy kit fault circle frame jaguar miss stick nephew";

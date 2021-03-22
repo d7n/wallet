@@ -1,1 +1,1 @@
-var mnemonic = "chat minor link march assist hurdle hair drink allow tank require cheese";
+var mnemonic = "route unfair achieve rifle ceiling monster dolphin nasty bright fitness become ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle engage outer autumn shrimp bamboo gospel evil pink profit finger muscle";
+var mnemonic = "potato nest royal enrich inner marble enrich trophy detail patient gallery animal";

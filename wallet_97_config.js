@@ -1,1 +1,1 @@
-var mnemonic = "mean expose bamboo huge hurdle hospital soon mass history become across laugh";
+var mnemonic = "achieve focus pair athlete fade day wide split spare spring gasp cement";

@@ -1,1 +1,1 @@
-var mnemonic = "person okay time sick cherry distance cereal suggest defy wrist unusual trip";
+var mnemonic = "lawn strong practice lucky region machine gospel length coil math innocent elephant";

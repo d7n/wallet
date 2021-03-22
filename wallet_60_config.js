@@ -1,1 +1,1 @@
-var mnemonic = "critic language planet multiply ugly dune grief happy merit plug marine stand";
+var mnemonic = "among play disorder possible walnut today gasp boy clump child quit lazy";

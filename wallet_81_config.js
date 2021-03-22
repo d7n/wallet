@@ -1,1 +1,1 @@
-var mnemonic = "space stone trumpet flight curtain polar swallow salt mix layer gentle skate";
+var mnemonic = "gun impact spoil cannon benefit issue citizen worry chest nominee spider slogan";

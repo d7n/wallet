@@ -1,1 +1,1 @@
-var mnemonic = "width canal family party enforce skate inject exercise talent perfect lab news";
+var mnemonic = "case begin express crater bounce slab alien scan figure digital velvet frown";

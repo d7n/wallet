@@ -1,1 +1,1 @@
-var mnemonic = "soldier eight about scorpion measure rally script wedding lyrics moon attend tomato";
+var mnemonic = "phone hold valley novel enemy depart twice mercy alter crazy cancel pull";

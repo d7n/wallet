@@ -1,1 +1,1 @@
-var mnemonic = "net myself lawn sleep poem expose dizzy identify radar hockey cereal switch";
+var mnemonic = "replace oak off lake expect million morning weekend hill trash shrug believe";

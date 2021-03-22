@@ -1,1 +1,1 @@
-var mnemonic = "rabbit powder emotion verify resist letter today fitness already senior demise still";
+var mnemonic = "viable myth holiday mouse sting flavor wet hope stone ski drastic drip";

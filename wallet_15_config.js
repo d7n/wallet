@@ -1,1 +1,1 @@
-var mnemonic = "session bone crowd renew cloth trigger mandate skull dragon genius luggage shallow";
+var mnemonic = "daughter must baby brisk figure awkward emotion valve steel friend bike mix";

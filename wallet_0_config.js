@@ -1,1 +1,1 @@
-var mnemonic = "enough carbon celery tonight unhappy digital frame soap jealous thrive jacket unfold";
+var mnemonic = "someone amateur boost install vital broccoli genuine build chunk void tongue target";

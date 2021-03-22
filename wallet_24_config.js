@@ -1,1 +1,1 @@
-var mnemonic = "have vapor hedgehog embody modify scrap auction another trouble filter code hip";
+var mnemonic = "slogan you screen refuse fit metal naive flame bike tonight rival supply";

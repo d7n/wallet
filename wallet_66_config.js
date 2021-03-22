@@ -1,1 +1,1 @@
-var mnemonic = "nurse guard dwarf surround maximum cook next genius cement fog control insane";
+var mnemonic = "leisure royal bullet dawn best wear wish slow pull animal monkey burger";

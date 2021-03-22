@@ -1,1 +1,1 @@
-var mnemonic = "abandon obey pretty improve town run width pear tape vendor crisp learn";
+var mnemonic = "stem sing weird demand above electric quantum dose enable nut crash trick";

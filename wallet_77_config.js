@@ -1,1 +1,1 @@
-var mnemonic = "torch blur cousin into lawn ginger lobster bind grain clean smoke mimic";
+var mnemonic = "purchase wrist crucial blue liberty prefer mule embark hour lecture deputy orphan";

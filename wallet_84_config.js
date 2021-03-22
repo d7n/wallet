@@ -1,1 +1,1 @@
-var mnemonic = "tiny human trial twenty pink foot duck magnet oval betray caught tuna";
+var mnemonic = "crazy patient huge choose output they unhappy attitude midnight cage source shrimp";

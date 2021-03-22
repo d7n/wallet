@@ -1,1 +1,1 @@
-var mnemonic = "over twice glow gold orbit happy orient trash remain crunch undo tuna";
+var mnemonic = "sudden van announce ginger situate proud thought kangaroo claw enter assist trophy";

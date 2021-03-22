@@ -1,1 +1,1 @@
-var mnemonic = "hospital okay inside october scan behave demise fiscal ginger region trip chicken";
+var mnemonic = "have combine harbor arrow ghost wage sting future risk draw frozen worry";

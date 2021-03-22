@@ -1,1 +1,1 @@
-var mnemonic = "gather sport any vessel account report flag receive edge useful various time";
+var mnemonic = "cushion other chase glass vote retreat waste life flat forest violin sausage";

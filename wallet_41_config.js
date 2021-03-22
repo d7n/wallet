@@ -1,1 +1,1 @@
-var mnemonic = "move nominee budget flight alone cushion grain fortune fame omit aerobic exotic";
+var mnemonic = "scorpion disagree scout endless broccoli lake asset month differ phone sport annual";

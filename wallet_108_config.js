@@ -1,1 +1,1 @@
-var mnemonic = "imitate hole humor mandate soft promote salt width record toddler when spoon";
+var mnemonic = "demand october glass sing evil kitten month road strike recipe trial increase";

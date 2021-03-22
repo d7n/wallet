@@ -1,1 +1,1 @@
-var mnemonic = "spike uncle thought switch impact million lyrics retreat maid earth elbow loop";
+var mnemonic = "frost penalty add donor connect receive rule screen dash people because rebel";

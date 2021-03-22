@@ -1,1 +1,1 @@
-var mnemonic = "era faculty blur symptom pole era sister replace real despair forum gather";
+var mnemonic = "gown frequent grant unfair news truth later table potato grass praise ketchup";

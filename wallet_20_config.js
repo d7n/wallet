@@ -1,1 +1,1 @@
-var mnemonic = "boil conduct foil luxury joke job gold lottery run sight shield net";
+var mnemonic = "stage member benefit another gown tackle pink bitter jacket parent consider iron";

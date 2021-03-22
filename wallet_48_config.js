@@ -1,1 +1,1 @@
-var mnemonic = "only evolve indoor debate surround soap work attract print oven arena senior";
+var mnemonic = "mom general razor decide film hour elevator october explain little powder force";

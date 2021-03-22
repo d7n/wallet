@@ -1,1 +1,1 @@
-var mnemonic = "punch apology scout loyal shove zone express autumn box chief blossom toddler";
+var mnemonic = "dragon hard ridge electric nest timber priority devote old bus release october";

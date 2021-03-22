@@ -1,1 +1,1 @@
-var mnemonic = "animal shield screen loan wonder sibling lemon space used unlock system pretty";
+var mnemonic = "demand capital bag sand blast frown crane circle orient ten fine drive";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise chair wave melt predict demise choice kitten feed direct any inner";
+var mnemonic = "camp practice broccoli order divide merge legend response assault thought tourist warm";

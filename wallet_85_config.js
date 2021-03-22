@@ -1,1 +1,1 @@
-var mnemonic = "spice bomb force quantum oval account clever sea hood cigar fabric someone";
+var mnemonic = "someone either sustain joy frown assist opera wheat shop barely regular piano";

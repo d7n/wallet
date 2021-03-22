@@ -1,1 +1,1 @@
-var mnemonic = "useless real already fish despair puppy cereal cheese lyrics myself certain sponsor";
+var mnemonic = "secret seek tennis syrup stem crack gentle wrist rain ethics genuine advice";

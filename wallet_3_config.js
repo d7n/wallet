@@ -1,1 +1,1 @@
-var mnemonic = "explain lens more donor orchard hub tower flat glide cattle same coast";
+var mnemonic = "poem margin perfect lecture trust endorse display honey cabbage sleep clever common";
