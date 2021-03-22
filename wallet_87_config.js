@@ -1,1 +1,1 @@
-var mnemonic = "garden fence gloom cake indoor hungry bomb exercise afraid thumb choose wagon";
+var mnemonic = "immense gauge object boy decade sun road later notice actor duck crater";

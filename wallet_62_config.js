@@ -1,1 +1,1 @@
-var mnemonic = "betray album creek brave pulp battle often weasel fatigue leopard bicycle nasty";
+var mnemonic = "ripple warrior pipe weasel income raw crush arch pill naive exit predict";

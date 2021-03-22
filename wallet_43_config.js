@@ -1,1 +1,1 @@
-var mnemonic = "rail develop match govern inflict wish light awake elephant window collect grab";
+var mnemonic = "favorite ancient page easy tunnel scare owner switch indoor aunt trust shoot";

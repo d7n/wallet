@@ -1,1 +1,1 @@
-var mnemonic = "snack patch night recipe script find police furnace blood quantum hand uncle";
+var mnemonic = "three large raccoon acoustic weapon legend hockey obtain unit head fence omit";

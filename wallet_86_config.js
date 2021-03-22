@@ -1,1 +1,1 @@
-var mnemonic = "together butter bronze improve sand fiction despair social gasp canal apple spread";
+var mnemonic = "canyon cause fat equip afford immense motion volume solar increase vapor glass";

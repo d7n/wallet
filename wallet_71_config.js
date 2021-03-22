@@ -1,1 +1,1 @@
-var mnemonic = "vibrant exchange dutch exclude carpet nut clerk law ability kitchen coil urban";
+var mnemonic = "ride trick general regret budget eagle elephant cricket since distance harsh east";

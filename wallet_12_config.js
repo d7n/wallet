@@ -1,1 +1,1 @@
-var mnemonic = "tag help frog toast solution corn lake life artefact cigar rhythm unfold";
+var mnemonic = "feel resist story cluster auto process rescue march between bus grass sort";

@@ -1,1 +1,1 @@
-var mnemonic = "dry dynamic tiny pole forest undo exhibit insect left ripple treat spider";
+var mnemonic = "cake remain arrange slush bachelor catalog camp bean miracle flame chapter despair";

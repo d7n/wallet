@@ -1,1 +1,1 @@
-var mnemonic = "penalty recycle daring coach trouble move cool sausage mass lawn leg ankle";
+var mnemonic = "bicycle kiss image rabbit cook treat offer urban dismiss whip comic desk";

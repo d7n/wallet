@@ -1,1 +1,1 @@
-var mnemonic = "wash priority maid isolate click trial screen sibling any shed morning chalk";
+var mnemonic = "sing edge client blanket enact panda hour warfare impulse enjoy time crash";

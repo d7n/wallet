@@ -1,1 +1,1 @@
-var mnemonic = "exile bone cradle subject okay wide vague saddle interest rebuild simple strong";
+var mnemonic = "amateur inflict super noise miracle visual slab urban idle giant prevent marine";

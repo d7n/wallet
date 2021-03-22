@@ -1,1 +1,1 @@
-var mnemonic = "drill friend endless issue sell protect sand body scatter come pulse swap";
+var mnemonic = "evil fancy ticket once wheel milk knee orange empty staff park oval";

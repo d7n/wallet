@@ -1,1 +1,1 @@
-var mnemonic = "wing core thing barely tank chalk praise high hockey crane pottery frost";
+var mnemonic = "steel duck mention decide place pizza wheel impact recipe comic egg twice";

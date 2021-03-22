@@ -1,1 +1,1 @@
-var mnemonic = "disease cheap daughter addict mutual bitter also tunnel torch fancy gift cross";
+var mnemonic = "cable shield act weapon ability host rhythm frog differ profit despair boat";

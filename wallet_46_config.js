@@ -1,1 +1,1 @@
-var mnemonic = "breeze ice now elbow milk helmet cruel entire easy close path arctic";
+var mnemonic = "buffalo brother report famous egg album stumble admit broken spy metal cement";

@@ -1,1 +1,1 @@
-var mnemonic = "priority arrive soldier wild design rigid monkey black venue dolphin crane woman";
+var mnemonic = "slab case other around finger search else slender improve okay alone maximum";

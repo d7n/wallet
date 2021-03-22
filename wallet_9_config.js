@@ -1,1 +1,1 @@
-var mnemonic = "worry scrub gasp thrive simple layer that sword decorate uniform trade chimney";
+var mnemonic = "fabric during emerge armed detail bless dutch priority forget neutral morning element";

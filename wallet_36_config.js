@@ -1,1 +1,1 @@
-var mnemonic = "key journey civil venue dutch deputy proof grant process benefit obscure save";
+var mnemonic = "shed sport ring ten autumn extend iron tribe caution bronze number tiger";

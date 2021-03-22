@@ -1,1 +1,1 @@
-var mnemonic = "fetch voyage season major tenant network local aim embody school devote canyon";
+var mnemonic = "before summer before visual motor damp inside cheese banana silent panic waste";

@@ -1,1 +1,1 @@
-var mnemonic = "merge crew inmate soon joke renew next bus course level pulp flash";
+var mnemonic = "spare dial thrive recall area slight novel town tourist material social art";

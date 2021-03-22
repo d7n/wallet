@@ -1,1 +1,1 @@
-var mnemonic = "achieve loan pattern service ugly soon shell what oblige subject state shift";
+var mnemonic = "goose antenna happy frost lamp grace region valve muscle wrong devote distance";

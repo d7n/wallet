@@ -1,1 +1,1 @@
-var mnemonic = "stool clap very sponsor tourist trumpet coil armor nature easy flower floor";
+var mnemonic = "leisure soon shoe clinic truth truth skill river exhibit nasty relief design";

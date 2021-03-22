@@ -1,1 +1,1 @@
-var mnemonic = "casual neutral monitor beach click dune bridge violin fault antenna market inject";
+var mnemonic = "animal dinner wisdom original scissors hen celery shrug cloud fork result collect";

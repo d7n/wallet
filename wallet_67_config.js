@@ -1,1 +1,1 @@
-var mnemonic = "bind lonely depth budget desert affair old lend hospital beauty carbon armed";
+var mnemonic = "old mother seven beach dizzy reunion where merit glare illness point desert";

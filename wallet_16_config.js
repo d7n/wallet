@@ -1,1 +1,1 @@
-var mnemonic = "blouse fun sorry sunset model race tongue guide produce crush memory crowd";
+var mnemonic = "blind child hour include weapon butter toe december celery upon tuna post";

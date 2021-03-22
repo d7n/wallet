@@ -1,1 +1,1 @@
-var mnemonic = "print census loyal elder inmate review scan drink hidden there seat immune";
+var mnemonic = "pink treat love sock victory typical blush belt shy can danger curve";

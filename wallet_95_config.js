@@ -1,1 +1,1 @@
-var mnemonic = "guilt coin issue worth planet milk memory legend thrive enter side ignore";
+var mnemonic = "brisk armed true hello retreat depend stay cave mansion skirt click dentist";

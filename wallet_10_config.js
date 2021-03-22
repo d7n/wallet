@@ -1,1 +1,1 @@
-var mnemonic = "olympic despair silk vacuum unit height follow pilot explain chat flower village";
+var mnemonic = "provide smooth style action super lecture warrior despair people joy simple warm";

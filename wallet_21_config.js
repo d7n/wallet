@@ -1,1 +1,1 @@
-var mnemonic = "act latin weather tooth color guilt wisdom panther goose agree awful giant";
+var mnemonic = "where spot snake hunt illness pitch excess dad ring flash damp industry";

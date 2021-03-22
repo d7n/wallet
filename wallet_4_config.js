@@ -1,1 +1,1 @@
-var mnemonic = "wood valley ask palm real consider treat matrix phone page ridge fat";
+var mnemonic = "step bottom museum stool breeze pyramid imitate clump unveil suspect flip outer";

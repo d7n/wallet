@@ -1,1 +1,1 @@
-var mnemonic = "tumble market slice huge father garden deer curious gate fan swarm valid";
+var mnemonic = "napkin comfort mobile priority drill grid anxiety addict day more pole other";

@@ -1,1 +1,1 @@
-var mnemonic = "measure trigger spend blur list fiscal tomato document cream animal exercise hero";
+var mnemonic = "suspect zone first weather olive parrot girl verify vault winter together gorilla";

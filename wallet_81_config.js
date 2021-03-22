@@ -1,1 +1,1 @@
-var mnemonic = "pride dignity actual model found head refuse evidence across picnic cereal inner";
+var mnemonic = "valve erode grocery faint harvest ill wreck april dog knife pave verb";

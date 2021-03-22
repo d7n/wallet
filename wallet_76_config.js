@@ -1,1 +1,1 @@
-var mnemonic = "erosion never version silent hill fatal resource process inhale grief spider recall";
+var mnemonic = "pelican original creek giant mansion exclude sample hill usage wear day viable";

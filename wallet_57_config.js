@@ -1,1 +1,1 @@
-var mnemonic = "game battle awesome endorse hammer trigger amount entry orient clog cruel fragile";
+var mnemonic = "small bacon fabric random clay list pair horse firm tell slight allow";

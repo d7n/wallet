@@ -1,1 +1,1 @@
-var mnemonic = "sentence lumber key engine either spend offer jewel mushroom state proof movie";
+var mnemonic = "select theory author nation wing attract ostrich resemble fame ugly grain gold";

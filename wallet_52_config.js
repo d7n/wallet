@@ -1,1 +1,1 @@
-var mnemonic = "convince drastic lake effort timber box time pizza paper disagree audit item";
+var mnemonic = "pledge chicken tennis guitar satoshi amazing wrist explain deposit bulb recipe want";

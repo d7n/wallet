@@ -1,1 +1,1 @@
-var mnemonic = "about exhibit eager wool rail accident ability subject toilet pave stereo size";
+var mnemonic = "truck stuff catch aunt license reason note chuckle error term flip estate";

@@ -1,1 +1,1 @@
-var mnemonic = "general board access dawn layer decade brief travel business comic skin conduct";
+var mnemonic = "million say prize unique faculty scorpion drip stay foam peace trade wait";

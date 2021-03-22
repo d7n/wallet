@@ -1,1 +1,1 @@
-var mnemonic = "second bridge under eager series alter attend fork actual forest clarify goat";
+var mnemonic = "cause analyst account entry battle mention bacon canyon true hip adult useless";

@@ -1,1 +1,1 @@
-var mnemonic = "rely pole stand nothing pottery auction agent auction opinion finger move guard";
+var mnemonic = "divide waste artwork infant misery ankle camera usual pave circle unusual door";

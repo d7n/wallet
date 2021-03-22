@@ -1,1 +1,1 @@
-var mnemonic = "one danger suit castle twice chase unusual orbit tribe travel drift income";
+var mnemonic = "apology stove today unique volume vivid sadness hood decorate custom switch seminar";

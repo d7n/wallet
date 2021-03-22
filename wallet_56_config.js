@@ -1,1 +1,1 @@
-var mnemonic = "immune gloom stumble angle violin rebuild vicious agent silent dutch laptop risk";
+var mnemonic = "repair broccoli perfect obscure sketch adult afraid two upgrade organ tooth dynamic";

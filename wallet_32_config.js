@@ -1,1 +1,1 @@
-var mnemonic = "width argue chalk garment where deny purity excite dirt girl moment spider";
+var mnemonic = "dog cancel dinner culture target prize march maid ordinary equal bargain square";

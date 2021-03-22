@@ -1,1 +1,1 @@
-var mnemonic = "super demand behave hazard vocal battle cigar tiny upper render sorry spin";
+var mnemonic = "cage wall diary brass luggage reopen bid verify seed mechanic churn comic";

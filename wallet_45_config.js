@@ -1,1 +1,1 @@
-var mnemonic = "scrub shine body knee narrow soap orange bacon attack eagle cliff alpha";
+var mnemonic = "water letter robot opinion resist sick tilt office when chimney night fever";

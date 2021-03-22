@@ -1,1 +1,1 @@
-var mnemonic = "leave normal service trigger mobile believe inner certain merit subway planet crazy";
+var mnemonic = "session system tennis lumber custom turn royal cousin begin vague core coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile law siren awful purity indoor stock match document step lamp off";
+var mnemonic = "seminar undo vital record attend seek obey practice section pool mesh mushroom";

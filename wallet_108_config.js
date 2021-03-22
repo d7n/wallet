@@ -1,1 +1,1 @@
-var mnemonic = "fall evolve galaxy stable cry always stool lawsuit trust easy lady acoustic";
+var mnemonic = "entire hybrid undo avocado frozen describe alien success neither fan exhaust dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "into shy motor keen tobacco cycle myth vivid smile brand awful report";
+var mnemonic = "print cheap work struggle reflect endless again best moon stamp scare goat";

@@ -1,1 +1,1 @@
-var mnemonic = "digital twist predict clarify session payment someone sauce then main car repair";
+var mnemonic = "goose trend universe inside alarm dwarf grape table addict review come number";

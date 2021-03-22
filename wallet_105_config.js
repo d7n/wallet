@@ -1,1 +1,1 @@
-var mnemonic = "foster denial friend idea key glass whip indicate another rice dizzy mention";
+var mnemonic = "place riot universe leg gun net protect deputy bridge curve trim nuclear";

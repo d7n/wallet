@@ -1,1 +1,1 @@
-var mnemonic = "hurt clinic uncover deputy double mom mushroom win series affair always tonight";
+var mnemonic = "all broccoli toy under mountain other engage stool bonus tongue clog dawn";

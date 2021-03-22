@@ -1,1 +1,1 @@
-var mnemonic = "absent pioneer luggage midnight connect admit top write fix helmet biology pretty";
+var mnemonic = "horse aerobic weird broken shove patch margin skirt expose issue topple method";

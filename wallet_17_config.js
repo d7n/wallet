@@ -1,1 +1,1 @@
-var mnemonic = "tattoo motor zero beyond athlete dash broccoli runway media code tell next";
+var mnemonic = "raccoon area lounge miracle turtle banner canvas tribe drum wet fuel video";

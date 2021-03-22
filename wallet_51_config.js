@@ -1,1 +1,1 @@
-var mnemonic = "arrive memory route swift motor pear limb west captain crunch crack easy";
+var mnemonic = "sustain throw pig cattle since place catch rabbit height shift trophy wire";

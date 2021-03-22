@@ -1,1 +1,1 @@
-var mnemonic = "evoke twenty bullet ice crystal panic reform icon inhale gain found popular";
+var mnemonic = "edge leave curtain inside task nominee knife crazy movie plastic plunge donor";

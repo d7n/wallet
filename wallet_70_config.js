@@ -1,1 +1,1 @@
-var mnemonic = "weapon attend need vintage undo match agree february taxi erupt myself book";
+var mnemonic = "pond tail mix match forward health text bread dragon hollow erase gown";

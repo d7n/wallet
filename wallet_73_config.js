@@ -1,1 +1,1 @@
-var mnemonic = "hill exile belt demise unveil stock mesh mention opera top speed disease";
+var mnemonic = "victory real merit barely hotel weasel rocket recall various rail mind develop";

@@ -1,1 +1,1 @@
-var mnemonic = "claim birth label render garbage paddle access horse nominee that box next";
+var mnemonic = "drink artist derive lend broken toast park steel yellow fly ensure wait";

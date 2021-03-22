@@ -1,1 +1,1 @@
-var mnemonic = "position valve window horn stay kitten antenna heart forum real envelope recipe";
+var mnemonic = "setup have fly tool host basic anxiety element blouse ill tower joke";

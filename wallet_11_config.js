@@ -1,1 +1,1 @@
-var mnemonic = "winner book cup share color sample between exist sunset lift call slab";
+var mnemonic = "trip defense sister know crop develop dash miss adult month bitter exotic";

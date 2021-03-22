@@ -1,1 +1,1 @@
-var mnemonic = "inside unique shallow yellow sense rain jealous circle emerge view soon airport";
+var mnemonic = "grocery another run fish claw core gesture puzzle kind flame identify salad";

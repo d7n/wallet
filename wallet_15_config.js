@@ -1,1 +1,1 @@
-var mnemonic = "clutch service crowd inquiry logic depart wise champion jewel gain tone practice";
+var mnemonic = "match pear image term jazz pact buyer engine album else offer swift";

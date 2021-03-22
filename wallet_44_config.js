@@ -1,1 +1,1 @@
-var mnemonic = "venue circle across ivory double car misery cotton avocado above nation tomato";
+var mnemonic = "antenna humble typical eyebrow auto ship way venture alley journey social worry";

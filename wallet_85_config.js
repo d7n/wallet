@@ -1,1 +1,1 @@
-var mnemonic = "embody acid excess brave army merry artist utility dignity clerk onion oil";
+var mnemonic = "shove best rapid dry grid battle extra wife demise cabin nose actor";

@@ -1,1 +1,1 @@
-var mnemonic = "involve lunch tuition mirror mushroom other quantum found loyal round gossip close";
+var mnemonic = "furnace trust symptom hold brisk city bicycle neck mixture success ketchup walnut";

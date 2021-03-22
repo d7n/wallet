@@ -1,1 +1,1 @@
-var mnemonic = "veteran fun exercise trigger globe medal please industry real cloud front cigar";
+var mnemonic = "galaxy weasel panel jeans cat service humble sound loud noise joy attitude";

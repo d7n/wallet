@@ -1,1 +1,1 @@
-var mnemonic = "escape inhale photo first weapon urge jar juice cram broken unaware speed";
+var mnemonic = "lock aim unfair hockey height evolve always future raccoon awful dignity flag";

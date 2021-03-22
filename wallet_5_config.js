@@ -1,1 +1,1 @@
-var mnemonic = "capital list innocent addict absorb nest horse dignity sell whip draft say";
+var mnemonic = "puppy glide smooth exercise claim about mesh toe food left obscure matter";

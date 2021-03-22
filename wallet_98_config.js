@@ -1,1 +1,1 @@
-var mnemonic = "buzz violin glimpse ball awful crumble jewel organ gap image attitude observe";
+var mnemonic = "medal destroy purity fossil style apology fox dizzy donkey truly ritual such";

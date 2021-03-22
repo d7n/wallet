@@ -1,1 +1,1 @@
-var mnemonic = "juice riot gasp angry artefact cave current item ability click deny ready";
+var mnemonic = "scheme bullet satisfy school index receive find gift erupt spike mistake school";

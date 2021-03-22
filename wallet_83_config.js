@@ -1,1 +1,1 @@
-var mnemonic = "pair roof journey sun era tiger custom phone visa lumber abandon polar";
+var mnemonic = "shuffle midnight glass flag kit bid marble process city alpha close mass";

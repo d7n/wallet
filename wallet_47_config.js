@@ -1,1 +1,1 @@
-var mnemonic = "pole never ski scan ticket blush grant gaze coast grow olive wear";
+var mnemonic = "shop ready basic radar slow size repeat anxiety replace warrior tomato crop";

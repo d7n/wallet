@@ -1,1 +1,1 @@
-var mnemonic = "result problem royal despair face pottery audit payment warm embark olive payment";
+var mnemonic = "strike range hospital case clump rib fog educate bounce live clerk garlic";

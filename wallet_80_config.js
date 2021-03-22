@@ -1,1 +1,1 @@
-var mnemonic = "erupt protect breeze demise front finish gentle such stadium enter click vintage";
+var mnemonic = "staff pulse sure select fresh fence lyrics release price kick brick palace";

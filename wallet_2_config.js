@@ -1,1 +1,1 @@
-var mnemonic = "stuff gap battle fragile crop ritual rapid sell wheel motion rather clerk";
+var mnemonic = "welcome hollow title oblige draft stool menu fee protect cook dutch era";

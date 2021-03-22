@@ -1,1 +1,1 @@
-var mnemonic = "install answer outdoor foil wet midnight idle print liquid rack junk alone";
+var mnemonic = "expand hole summer lift local steel sorry civil case over apart spray";

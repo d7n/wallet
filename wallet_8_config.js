@@ -1,1 +1,1 @@
-var mnemonic = "step evil six survey forum blanket deal erosion human rebuild peasant axis";
+var mnemonic = "surge kitchen country super slide wrong dog purpose exact estate coffee thrive";

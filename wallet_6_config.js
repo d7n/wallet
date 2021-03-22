@@ -1,1 +1,1 @@
-var mnemonic = "educate scene yard figure clump possible century square virus heart game smart";
+var mnemonic = "wedding beach tape exact youth apart sadness force flee manage obvious awake";

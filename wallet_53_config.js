@@ -1,1 +1,1 @@
-var mnemonic = "intact logic try novel trophy own coach shy measure moon inquiry river";
+var mnemonic = "unique legend ribbon exile barrel fit trick sniff harvest safe mechanic misery";

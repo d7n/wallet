@@ -1,1 +1,1 @@
-var mnemonic = "jeans retreat thought shallow mountain kitchen few venture gym ask cost nation";
+var mnemonic = "female hotel smooth hospital fall rail aspect cute cotton abuse credit lucky";

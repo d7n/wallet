@@ -1,1 +1,1 @@
-var mnemonic = "jeans paddle stove present helmet proud script note royal ginger bonus simple";
+var mnemonic = "purchase live excess garlic raise sheriff pole silly fringe behind dizzy sun";

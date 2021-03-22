@@ -1,1 +1,1 @@
-var mnemonic = "inside door atom provide tomorrow merit elevator film dumb cake upgrade put";
+var mnemonic = "milk ignore garden action leg pretty afraid lab spider skirt certain pencil";

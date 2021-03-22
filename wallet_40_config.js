@@ -1,1 +1,1 @@
-var mnemonic = "call interest genius found taxi spy announce soccer memory cactus supreme absurd";
+var mnemonic = "rookie amateur sight service prosper move tone tackle chest hundred media liquid";

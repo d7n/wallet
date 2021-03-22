@@ -1,1 +1,1 @@
-var mnemonic = "fuel drink flock army gadget toward march weapon rich fence sort team";
+var mnemonic = "valley snow hobby drill polar wine august roast inspire section fat prize";

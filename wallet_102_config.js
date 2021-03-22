@@ -1,1 +1,1 @@
-var mnemonic = "twenty crane tragic spare artwork only tumble build spread lock morning bag";
+var mnemonic = "night jealous only room vanish chaos garment sniff verb advance ocean possible";

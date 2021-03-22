@@ -1,1 +1,1 @@
-var mnemonic = "lunar setup auto smile awesome desk garlic crawl admit lecture drum include";
+var mnemonic = "ghost father picnic empower patch ability machine direct exist best horror unique";

@@ -1,1 +1,1 @@
-var mnemonic = "glue matrix menu staff segment twin negative you parrot planet wish deputy";
+var mnemonic = "glad dance expand genre update beach game symbol rebel admit sock frost";

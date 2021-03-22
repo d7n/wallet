@@ -1,1 +1,1 @@
-var mnemonic = "radio pond such find web actual attitude bullet auction marine galaxy forest";
+var mnemonic = "slide hold inner liar buddy dawn become rug promote truly weird exist";

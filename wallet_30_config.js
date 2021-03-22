@@ -1,1 +1,1 @@
-var mnemonic = "wash legal science black ramp tiger unfold regret course fever exclude chuckle";
+var mnemonic = "tortoise regret check setup puppy please scout analyst become task uncover envelope";

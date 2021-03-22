@@ -1,1 +1,1 @@
-var mnemonic = "strike useful build ticket phrase jungle action cushion panel flower unknown any";
+var mnemonic = "present tool coast ensure boat price cave rigid endless hard lion sand";

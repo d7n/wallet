@@ -1,1 +1,1 @@
-var mnemonic = "globe system arrange doctor media dawn fancy humor rude area mention giraffe";
+var mnemonic = "wise nuclear raw six today token slight private orange seminar concert under";

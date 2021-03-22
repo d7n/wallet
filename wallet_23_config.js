@@ -1,1 +1,1 @@
-var mnemonic = "moment shuffle mass tired glove royal actor drift convince nephew pulp bachelor";
+var mnemonic = "upon rubber already female bleak stumble afraid ivory quit baby sausage either";

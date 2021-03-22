@@ -1,1 +1,1 @@
-var mnemonic = "priority harbor video cash strong dress there service destroy domain magnet reward";
+var mnemonic = "gallery draft climb olive degree raise myself slogan giant wage gap arrest";

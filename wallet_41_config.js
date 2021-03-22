@@ -1,1 +1,1 @@
-var mnemonic = "goose pass bone tragic luxury neglect net motion skin oven regret glue";
+var mnemonic = "champion result fatigue swim word fame clump need wing title anger carbon";
