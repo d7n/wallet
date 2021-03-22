@@ -1,1 +1,1 @@
-var mnemonic = "bright little kid void aunt bright aerobic labor april screen crack again";
+var mnemonic = "about payment excite neither term thunder spot book arena circle zoo cargo";

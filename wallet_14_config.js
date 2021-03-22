@@ -1,1 +1,1 @@
-var mnemonic = "travel gauge step wool hint inspire undo fiscal diamond excess spirit host";
+var mnemonic = "stomach trim eternal agree tilt balcony feature museum tank leave shed goose";

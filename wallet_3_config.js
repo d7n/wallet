@@ -1,1 +1,1 @@
-var mnemonic = "subject very meat casual story reflect mansion actress beyond enhance ginger sorry";
+var mnemonic = "catalog result toss where educate leader extra exclude unable write mule input";

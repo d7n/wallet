@@ -1,1 +1,1 @@
-var mnemonic = "elder cricket huge envelope betray demand leader dawn cactus scale gold filter";
+var mnemonic = "sight moon grass during area click system such duty kitten credit vivid";

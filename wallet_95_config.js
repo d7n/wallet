@@ -1,1 +1,1 @@
-var mnemonic = "canal cradle float account cram circle method wolf tell narrow index bronze";
+var mnemonic = "meat ladder amazing world believe excuse fade reform cradle bronze puppy spider";

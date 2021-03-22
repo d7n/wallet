@@ -1,1 +1,1 @@
-var mnemonic = "bicycle smile path dress nest pen miracle truth very few rose bitter";
+var mnemonic = "zoo sentence note tape thrive lift process angle dragon allow erase charge";

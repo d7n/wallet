@@ -1,1 +1,1 @@
-var mnemonic = "unaware visual page misery local flip giraffe march silent equal cement silly";
+var mnemonic = "diamond brush behave protect rib organ private toddler voyage cattle where assist";

@@ -1,1 +1,1 @@
-var mnemonic = "vast sponsor movie observe make hedgehog wall glance syrup upset process aim";
+var mnemonic = "bar usual excite chair rib receive oven essence clean muffin sorry decline";

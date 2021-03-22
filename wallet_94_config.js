@@ -1,1 +1,1 @@
-var mnemonic = "photo clown evidence trouble detail check govern cry agent exercise laptop reward";
+var mnemonic = "total soldier column trash diary silver door panther balcony bulb creek cement";

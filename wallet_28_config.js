@@ -1,1 +1,1 @@
-var mnemonic = "alien help minor state term increase merry stool sock pole guilt matter";
+var mnemonic = "lawsuit hire luxury tank copper furnace shallow ketchup vast fatigue shoe marine";

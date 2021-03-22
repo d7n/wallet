@@ -1,1 +1,1 @@
-var mnemonic = "cause truth parade exist banana whip retire boat demand pioneer spy push";
+var mnemonic = "return social seminar raw sign trade hello obey yard tribe dial left";

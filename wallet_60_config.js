@@ -1,1 +1,1 @@
-var mnemonic = "boil lock evil cloud hub cruise basic shiver practice taste relax solid";
+var mnemonic = "eternal boss stone method sad economy abuse educate crew main genuine drum";

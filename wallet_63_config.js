@@ -1,1 +1,1 @@
-var mnemonic = "borrow near deposit distance spare mass connect math ceiling hollow alone relief";
+var mnemonic = "fly nerve unhappy humor file lawn design reject nature impact clip marine";

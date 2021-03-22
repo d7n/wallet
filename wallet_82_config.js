@@ -1,1 +1,1 @@
-var mnemonic = "abstract cluster avocado dutch forest boil cloth wreck flower keep mimic before";
+var mnemonic = "scan dolphin ring agree pottery tattoo sibling review palm shrug pass medal";

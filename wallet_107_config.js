@@ -1,1 +1,1 @@
-var mnemonic = "social broom desk thing wrap atom final wolf true earth gap lunch";
+var mnemonic = "nose cool jaguar own slab level maple forward life advance ranch chunk";

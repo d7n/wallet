@@ -1,1 +1,1 @@
-var mnemonic = "awful business tool kangaroo amazing intact region exist laptop test sense useful";
+var mnemonic = "pen antique strong member style hip service couch jungle wood jazz nation";

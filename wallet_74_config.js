@@ -1,1 +1,1 @@
-var mnemonic = "hollow slab example early okay swamp guess eyebrow imitate boost toe radio";
+var mnemonic = "essence gift abstract ketchup cradle eagle rubber problem barrel flower whale tool";

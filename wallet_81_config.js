@@ -1,1 +1,1 @@
-var mnemonic = "stamp art mirror often exotic install arch robust dawn cable one royal";
+var mnemonic = "hurry bitter steel cupboard fall rather prepare goose chuckle dynamic spin gloom";

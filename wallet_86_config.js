@@ -1,1 +1,1 @@
-var mnemonic = "satisfy unfair grunt attitude remind screen rule boss punch index picnic cargo";
+var mnemonic = "stock romance auction tortoise small toddler argue avoid rhythm soldier forest crouch";

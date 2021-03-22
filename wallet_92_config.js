@@ -1,1 +1,1 @@
-var mnemonic = "give broom parrot digital isolate aunt portion beef dream source inmate radio";
+var mnemonic = "hour skate coral silk twenty vanish often proof admit economy success napkin";

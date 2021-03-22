@@ -1,1 +1,1 @@
-var mnemonic = "razor orbit fish link ceiling aunt engage table repair divert behind smoke";
+var mnemonic = "private cousin vapor visit matrix crawl drop tattoo family level spare sing";

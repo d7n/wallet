@@ -1,1 +1,1 @@
-var mnemonic = "grab meadow panda avoid lesson flat cousin youth shiver remember must same";
+var mnemonic = "fee zero trash various release hedgehog crawl motor penalty insane oval way";

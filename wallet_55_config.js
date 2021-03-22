@@ -1,1 +1,1 @@
-var mnemonic = "prefer able agent tribe trophy liar affair ranch rescue improve web wisdom";
+var mnemonic = "fiscal still recycle rotate milk switch claw caution name immune able identify";

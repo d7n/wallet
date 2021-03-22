@@ -1,1 +1,1 @@
-var mnemonic = "local fuel cost mango vault shoe illegal vendor flee bring comic episode";
+var mnemonic = "receive require patient warfare second crowd follow corn you pluck divorce change";

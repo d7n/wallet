@@ -1,1 +1,1 @@
-var mnemonic = "law shell volcano glance blossom update lunch flash strike boy moon auto";
+var mnemonic = "craft wolf clay recycle hollow protect dizzy fatal list slide rack predict";

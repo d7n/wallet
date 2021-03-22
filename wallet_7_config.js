@@ -1,1 +1,1 @@
-var mnemonic = "eager tiny evolve belt grid phrase remain wise orange urge moral keep";
+var mnemonic = "reveal model gate nothing perfect minute simple laundry account lunch notice mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "foot gloom tank three blood theory voice raccoon fringe august beach success";
+var mnemonic = "behind student oyster share opinion canyon uniform escape swallow trigger polar tail";

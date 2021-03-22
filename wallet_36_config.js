@@ -1,1 +1,1 @@
-var mnemonic = "win oven rain quiz either squeeze salmon guide spike run decorate pattern";
+var mnemonic = "scorpion meat cloth dolphin require volume silly tiny bird minute family birth";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology dune dizzy find indicate kitten east security under aware improve divorce";
+var mnemonic = "skate fine vessel deputy ginger lucky industry like proof toast main lonely";

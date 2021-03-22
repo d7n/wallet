@@ -1,1 +1,1 @@
-var mnemonic = "cannon derive key tape blade throw evidence humor link frame make engage";
+var mnemonic = "oppose fold argue dash arrow clown pilot trend abstract craft about author";

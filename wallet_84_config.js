@@ -1,1 +1,1 @@
-var mnemonic = "emerge glory video tilt fox rely elephant blossom park speed candy acoustic";
+var mnemonic = "wait tonight cook drill clay ritual shove gospel isolate ride dash clap";

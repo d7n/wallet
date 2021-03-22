@@ -1,1 +1,1 @@
-var mnemonic = "raccoon term dose column mesh judge reveal panda hurdle shield disagree upper";
+var mnemonic = "focus slow wise master convince canal news side shell oil fabric ask";

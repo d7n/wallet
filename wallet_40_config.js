@@ -1,1 +1,1 @@
-var mnemonic = "erode current fiber taxi alcohol electric december speak wait tone focus cluster";
+var mnemonic = "neutral yard among property lawsuit spoon garment shrug virus right turtle april";

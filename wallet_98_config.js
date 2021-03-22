@@ -1,1 +1,1 @@
-var mnemonic = "pretty interest obtain hurry symbol insane scatter crash gallery direct cactus stage";
+var mnemonic = "cricket often blood hub dish season name apple script vendor sure rail";

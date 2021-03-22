@@ -1,1 +1,1 @@
-var mnemonic = "act fog broom ramp hole want design unit gesture trash other arm";
+var mnemonic = "demand thing discover achieve episode else pudding pulp someone finger film super";

@@ -1,1 +1,1 @@
-var mnemonic = "entire evil country detect dad sure economy plunge also lunar priority bamboo";
+var mnemonic = "napkin swamp liar runway finger captain nominee grape tower van trade urban";

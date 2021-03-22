@@ -1,1 +1,1 @@
-var mnemonic = "second whip spell strategy visual kind script use stuff slender royal hat";
+var mnemonic = "skin kangaroo couch comic excite nuclear uniform spare champion high need sock";

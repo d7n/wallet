@@ -1,1 +1,1 @@
-var mnemonic = "twist record barely file pill wage evidence taste assist filter wild viable";
+var mnemonic = "deer ten fitness reunion vintage help also shift beef catalog stem address";

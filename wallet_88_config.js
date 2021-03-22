@@ -1,1 +1,1 @@
-var mnemonic = "skirt teach sting public crash permit veteran trial shock barrel labor waste";
+var mnemonic = "lawn save wet album enforce blur couple fine excess float edge dice";

@@ -1,1 +1,1 @@
-var mnemonic = "wet cute increase clerk usage paper wrong coin list tool burst wheel";
+var mnemonic = "race ocean kidney spice debris victory guard learn regret helmet thunder rabbit";

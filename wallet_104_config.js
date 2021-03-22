@@ -1,1 +1,1 @@
-var mnemonic = "solid slide month civil end horn cover apple spike execute math topple";
+var mnemonic = "public payment theory guilt dentist mass assist drift recycle team target dice";

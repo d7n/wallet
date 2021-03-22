@@ -1,1 +1,1 @@
-var mnemonic = "barely cricket promote piece balance media mobile ready stem coffee that gate";
+var mnemonic = "cover wonder pave artefact board observe expect sound fluid design scale twin";

@@ -1,1 +1,1 @@
-var mnemonic = "anger main urban sample able buffalo satoshi result intact bulb citizen fox";
+var mnemonic = "entire bean advance legend order ride brain run crack hub divert document";

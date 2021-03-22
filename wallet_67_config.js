@@ -1,1 +1,1 @@
-var mnemonic = "when puzzle oppose present erode tooth faculty celery boat zoo limb december";
+var mnemonic = "away solution sister business garage horse blossom good grain segment phone tumble";

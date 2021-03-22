@@ -1,1 +1,1 @@
-var mnemonic = "provide drum finger cool gorilla gather cloth income toss bulk rain absent";
+var mnemonic = "tail deliver turkey split wash step hood core soldier always inner priority";

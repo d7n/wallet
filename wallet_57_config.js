@@ -1,1 +1,1 @@
-var mnemonic = "shoot insect fat will captain nurse address comic shoe addict brief wish";
+var mnemonic = "will angry kiwi unit amazing skate receive you borrow grocery edit depth";

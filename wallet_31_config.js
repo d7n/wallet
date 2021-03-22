@@ -1,1 +1,1 @@
-var mnemonic = "sample nominee pole merit unusual wheel chat list tomorrow trade forum imitate";
+var mnemonic = "noise upper color key retire middle another crisp nurse crowd unit cargo";

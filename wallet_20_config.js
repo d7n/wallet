@@ -1,1 +1,1 @@
-var mnemonic = "fetch you album voyage neck giant this exhibit dress point captain absurd";
+var mnemonic = "zebra wrist alter empower north where copper chaos harsh useless venture animal";

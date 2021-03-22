@@ -1,1 +1,1 @@
-var mnemonic = "curious poet oil enjoy hand chat struggle icon target amount pet canyon";
+var mnemonic = "avocado online dose lady first unveil security scissors dash assist venture junior";

@@ -1,1 +1,1 @@
-var mnemonic = "security emotion kick fall advance casino joke icon elite fragile apology elder";
+var mnemonic = "dune body shuffle coyote coast category angry year plunge wheel hold hub";

@@ -1,1 +1,1 @@
-var mnemonic = "ride dignity trim huge hedgehog chicken web enemy hamster arrive empower intact";
+var mnemonic = "diamond between rather cart cruise illness journey antenna dragon neck eternal snack";

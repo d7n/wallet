@@ -1,1 +1,1 @@
-var mnemonic = "science series spell core eagle urban vapor design nation lamp expose antique";
+var mnemonic = "wagon river impulse stock carpet shed kitten charge seven follow obscure witness";

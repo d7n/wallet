@@ -1,1 +1,1 @@
-var mnemonic = "know reflect flat jaguar island else parrot entire opinion any door open";
+var mnemonic = "street faith drum problem design zebra trip glow candy team tumble bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon coil pass dial club great general wish social possible also brief";
+var mnemonic = "arctic mesh choice stable bundle garlic hair hungry shed unable evolve raccoon";

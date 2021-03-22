@@ -1,1 +1,1 @@
-var mnemonic = "hip tonight country middle glad suffer fiber zoo add lucky host index";
+var mnemonic = "dream vocal shed album initial deliver pear echo eight spot hour gas";

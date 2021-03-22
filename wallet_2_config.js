@@ -1,1 +1,1 @@
-var mnemonic = "breeze lift arch action reopen slender airport define gold lumber detect tiger";
+var mnemonic = "tenant can dinner weird since dose effort crush half woman stadium exotic";

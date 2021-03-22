@@ -1,1 +1,1 @@
-var mnemonic = "will damage ensure stick sponsor open truly gym end modify bulb amount";
+var mnemonic = "walnut damp antique address toward cool fold farm coin right menu beef";

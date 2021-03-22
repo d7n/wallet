@@ -1,1 +1,1 @@
-var mnemonic = "security idea describe float measure album trick casual isolate art dwarf together";
+var mnemonic = "isolate accident recipe bamboo carry random input proud luggage delay prison stable";

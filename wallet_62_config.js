@@ -1,1 +1,1 @@
-var mnemonic = "obscure salmon match model book giraffe stereo bounce concert never shed gain";
+var mnemonic = "december divert immense unaware proof doll element summer bronze code anchor property";

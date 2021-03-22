@@ -1,1 +1,1 @@
-var mnemonic = "junior fence song because short trigger grocery pepper slogan glide member spice";
+var mnemonic = "hope trend ancient spare toilet faculty achieve victory boost athlete cycle photo";

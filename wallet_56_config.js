@@ -1,1 +1,1 @@
-var mnemonic = "bronze border hover delay few sad vapor space rural shrimp quantum trash";
+var mnemonic = "rain fitness voyage gold view embark marble often mango wish tackle pitch";

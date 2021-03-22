@@ -1,1 +1,1 @@
-var mnemonic = "loud marble scan dance stem slide chaos route alter glory toddler judge";
+var mnemonic = "retire merge task pen must basic anger divide eight fashion payment material";

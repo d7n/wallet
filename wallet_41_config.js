@@ -1,1 +1,1 @@
-var mnemonic = "razor humble wrap salute token subject absent reflect remain match smoke inquiry";
+var mnemonic = "destroy syrup shock trade chair jelly ill theory ridge bench veteran similar";

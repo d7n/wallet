@@ -1,1 +1,1 @@
-var mnemonic = "faint prison bullet ceiling drum number scare unfair problem year birth cereal";
+var mnemonic = "child clinic today knife elephant burden struggle federal panda ride visual cake";

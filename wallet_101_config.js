@@ -1,1 +1,1 @@
-var mnemonic = "sad entire area sight athlete raccoon delay flush mercy march base regular";
+var mnemonic = "become zero pet slight track lock accuse captain defense unfold few spin";

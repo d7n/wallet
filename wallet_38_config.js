@@ -1,1 +1,1 @@
-var mnemonic = "drill uniform small cargo monster loud member pigeon label nice casual crash";
+var mnemonic = "cinnamon rain copper success payment coil refuse logic surround make rain sock";

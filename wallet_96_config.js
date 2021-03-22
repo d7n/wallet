@@ -1,1 +1,1 @@
-var mnemonic = "unlock enhance empower hat relax dream reform gloom copper flight athlete squeeze";
+var mnemonic = "saddle portion hawk noble erase border employ shy sense spend undo toward";

@@ -1,1 +1,1 @@
-var mnemonic = "all kitten pool follow creek siren indicate animal magic slight hammer vapor";
+var mnemonic = "ski frozen film race upon auto boost parade travel fragile call hair";

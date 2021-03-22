@@ -1,1 +1,1 @@
-var mnemonic = "fan energy flush fancy energy maximum phone image system wall baby material";
+var mnemonic = "uncover repeat mass dry cousin vibrant bus alpha laugh wing ranch city";

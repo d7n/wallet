@@ -1,1 +1,1 @@
-var mnemonic = "confirm charge owner solution climb emotion decorate february insect citizen edit cousin";
+var mnemonic = "image negative net sheriff business grocery pet olympic wrist street quick swim";

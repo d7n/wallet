@@ -1,1 +1,1 @@
-var mnemonic = "idle index address claim grow transfer expose almost tilt tattoo accident flock";
+var mnemonic = "track slender comic fox predict unaware upgrade apart proud buzz labor cave";

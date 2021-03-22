@@ -1,1 +1,1 @@
-var mnemonic = "utility kit error bread cloud exotic forest injury bench bleak wreck fit";
+var mnemonic = "rookie answer habit citizen hand speak frame size afford claim true funny";

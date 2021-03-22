@@ -1,1 +1,1 @@
-var mnemonic = "mask feature arch horse also more attitude awkward what spin day drink";
+var mnemonic = "cycle print orbit excess moral primary degree protect enhance box below olympic";

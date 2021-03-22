@@ -1,1 +1,1 @@
-var mnemonic = "glow laugh swamp hockey ordinary audit ivory tilt nerve ketchup great outside";
+var mnemonic = "swallow false express afford fever document autumn adapt benefit issue priority proof";

@@ -1,1 +1,1 @@
-var mnemonic = "stage venue sniff boil annual alarm solid rail fluid skill hedgehog there";
+var mnemonic = "noble toddler actor during pony buzz resemble train final snake tornado hazard";

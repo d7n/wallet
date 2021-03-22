@@ -1,1 +1,1 @@
-var mnemonic = "gold square pigeon intact magic reform smile mirror script month present sunset";
+var mnemonic = "upset traffic swing master always spawn between vast eternal concert gauge give";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise atom camp chef blood small defense usage zero dad can prepare";
+var mnemonic = "tumble domain isolate fancy broom village razor credit remain mountain alpha scissors";

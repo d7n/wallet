@@ -1,1 +1,1 @@
-var mnemonic = "lock mistake stairs erupt pizza cause scale talk attack zoo local tissue";
+var mnemonic = "recipe panda donkey flower unable rifle catch dust bunker recycle unhappy infant";

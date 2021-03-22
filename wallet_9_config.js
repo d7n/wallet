@@ -1,1 +1,1 @@
-var mnemonic = "thank forest intact people black text chest split true stool left cactus";
+var mnemonic = "arena aunt avoid happy effort bicycle accident hand whisper diary zone seven";

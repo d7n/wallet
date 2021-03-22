@@ -1,1 +1,1 @@
-var mnemonic = "second whip ordinary ketchup jump habit useless slight dwarf tonight man now";
+var mnemonic = "taste intact expire boring fringe video prepare fox prefer office wait reduce";

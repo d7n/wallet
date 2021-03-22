@@ -1,1 +1,1 @@
-var mnemonic = "carry reunion rice fantasy title first volume noodle winter blouse swift welcome";
+var mnemonic = "rally siren ten eye steak lawn ritual beach ring attitude debris pill";

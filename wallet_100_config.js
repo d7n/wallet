@@ -1,1 +1,1 @@
-var mnemonic = "flight public cabin timber already fun unfold cupboard quick obtain spring stairs";
+var mnemonic = "job emotion promote door usual dove early bundle shrimp clerk shield country";

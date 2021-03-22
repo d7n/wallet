@@ -1,1 +1,1 @@
-var mnemonic = "left impact scissors cushion menu song frequent hero imitate hood paper help";
+var mnemonic = "detect border rescue ignore habit remove attend forum square flavor exit flip";

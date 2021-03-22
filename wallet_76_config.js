@@ -1,1 +1,1 @@
-var mnemonic = "witness exit dirt tumble exact salad shadow shine case sign sniff assist";
+var mnemonic = "market tomato warfare luggage company citizen rocket pumpkin amused object sheriff oil";

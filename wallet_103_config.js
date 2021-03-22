@@ -1,1 +1,1 @@
-var mnemonic = "like iron gloom fan road thought health friend hybrid law reopen toss";
+var mnemonic = "tool gravity stamp power truth latin lonely youth virtual inherit olympic search";

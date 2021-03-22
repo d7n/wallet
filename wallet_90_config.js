@@ -1,1 +1,1 @@
-var mnemonic = "huge bundle exile feel float design panic dwarf bench rain pony cherry";
+var mnemonic = "kite waste master salt consider yellow crane throw siege voice good assume";

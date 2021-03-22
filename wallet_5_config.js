@@ -1,1 +1,1 @@
-var mnemonic = "plug crane prefer evil elite prepare fog write label mango amount target";
+var mnemonic = "become craft hybrid advice iron climb dice harbor acid cross similar group";

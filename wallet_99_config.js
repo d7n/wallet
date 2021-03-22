@@ -1,1 +1,1 @@
-var mnemonic = "awkward ladder crystal end virtual busy brass noodle feature when brain glory";
+var mnemonic = "series festival flat salute they use umbrella magnet trash trip couch call";

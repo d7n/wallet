@@ -1,1 +1,1 @@
-var mnemonic = "leopard popular sister replace drift bar scatter scorpion drip code crunch moment";
+var mnemonic = "grant shrug marine explain key jaguar camp umbrella tail apart stone clean";

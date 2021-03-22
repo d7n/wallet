@@ -1,1 +1,1 @@
-var mnemonic = "million again olive prefer tourist frequent among diamond unit worry fly save";
+var mnemonic = "relief sure shoe cancel prize perfect evidence fork output indicate teach axis";

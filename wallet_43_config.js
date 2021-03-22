@@ -1,1 +1,1 @@
-var mnemonic = "circle shrimp drill burger motor loud reopen upgrade original account damage divert";
+var mnemonic = "erosion fold essence ridge unlock hybrid amused gaze unable slow property energy";

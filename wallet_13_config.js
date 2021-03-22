@@ -1,1 +1,1 @@
-var mnemonic = "direct beauty train program pig deputy better mention noise again soup acquire";
+var mnemonic = "crumble olympic dumb fuel satisfy pass tip cruise ankle arena release struggle";

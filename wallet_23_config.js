@@ -1,1 +1,1 @@
-var mnemonic = "cruel service robot awful enable jelly treat present rotate afraid fold illness";
+var mnemonic = "sponsor ginger pencil clump card hurt quit advance detect future foot enrich";

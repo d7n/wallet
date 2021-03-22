@@ -1,1 +1,1 @@
-var mnemonic = "limb bean stage license couple master involve burger invite boring deputy trick";
+var mnemonic = "immense same comfort staff clog bag ghost tattoo expose mutual amused page";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage impose issue such burger phrase dress tunnel orient catch member mutual";
+var mnemonic = "essay tube invest various sing expect label stand grid unique list consider";
