@@ -1,1 +1,1 @@
-var mnemonic = "skate cruel hair that warrior limb style zone rural duck absorb clarify";
+var mnemonic = "cousin private base wet doctor live patrol worth nuclear message story hawk";

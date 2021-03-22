@@ -1,1 +1,1 @@
-var mnemonic = "fury concert waste noble snap wedding violin walk recipe divide cruel door";
+var mnemonic = "mango tired off quit eyebrow regular river alarm okay circle nose foot";

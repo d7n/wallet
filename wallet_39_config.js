@@ -1,1 +1,1 @@
-var mnemonic = "art emerge hen horse trumpet fly scene stamp napkin arch level attract";
+var mnemonic = "arrange snap crew fetch pelican crop matter cushion enemy trouble father brain";

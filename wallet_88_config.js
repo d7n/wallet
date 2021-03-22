@@ -1,1 +1,1 @@
-var mnemonic = "smoke joy hidden impulse little subject world cruel only force exile busy";
+var mnemonic = "bar nothing truth twin cycle term mirror caution miss chuckle odor anchor";

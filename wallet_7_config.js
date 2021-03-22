@@ -1,1 +1,1 @@
-var mnemonic = "opera tower toe voice derive cruise hockey donate sausage vessel session airport";
+var mnemonic = "wool suit proud enroll squirrel mesh long enough head bind bridge patrol";

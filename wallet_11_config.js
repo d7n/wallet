@@ -1,1 +1,1 @@
-var mnemonic = "exile million peasant load cross lazy choice hover galaxy mammal chicken cheap";
+var mnemonic = "maid demise medal border review truth emerge tell tide siren weather unaware";

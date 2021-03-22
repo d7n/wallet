@@ -1,1 +1,1 @@
-var mnemonic = "gap reunion fuel initial slush drum ritual farm grape portion lounge limb";
+var mnemonic = "still vote aisle core replace become excess alert actor piece crisp aerobic";

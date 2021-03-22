@@ -1,1 +1,1 @@
-var mnemonic = "improve speed custom luggage car enemy ivory butter feed whisper hockey kick";
+var mnemonic = "borrow design owner often advice raccoon strong dinner finish autumn foot wreck";

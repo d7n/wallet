@@ -1,1 +1,1 @@
-var mnemonic = "also fluid you eight logic giant silent nice monitor rice cause churn";
+var mnemonic = "huge goddess receive own category observe vital nut erosion pupil squeeze palm";

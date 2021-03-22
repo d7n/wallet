@@ -1,1 +1,1 @@
-var mnemonic = "ketchup dial assume much glow confirm fault pony boat claw globe rare";
+var mnemonic = "original prison muscle banana match outdoor frame leader tray protect limit spice";

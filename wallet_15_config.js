@@ -1,1 +1,1 @@
-var mnemonic = "erase sure tornado post winner wall uphold grunt nuclear dynamic twelve clinic";
+var mnemonic = "embark abstract cart glory palm idle decrease pause innocent drink estate witness";

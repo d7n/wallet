@@ -1,1 +1,1 @@
-var mnemonic = "moon mind wide rain practice general awesome grief cereal poverty response season";
+var mnemonic = "catalog hybrid sniff purpose coyote siren medal lumber truck source gauge merit";

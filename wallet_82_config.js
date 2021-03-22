@@ -1,1 +1,1 @@
-var mnemonic = "extend burger river focus scatter plate name oppose often idle faith chunk";
+var mnemonic = "across battle gorilla shiver actor disorder between tray force run spring apple";

@@ -1,1 +1,1 @@
-var mnemonic = "ship shy educate liar kiwi wasp baby skin arctic version lucky remember";
+var mnemonic = "trust where forum wrap silk potato tomato view rug lizard minor robot";

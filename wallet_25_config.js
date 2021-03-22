@@ -1,1 +1,1 @@
-var mnemonic = "start valid still bone soldier educate flavor arctic brick cupboard region maple";
+var mnemonic = "meadow loop reunion catalog insect situate they surface jacket divert bargain wing";

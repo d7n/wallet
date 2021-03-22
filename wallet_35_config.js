@@ -1,1 +1,1 @@
-var mnemonic = "casino network decorate lens song rabbit famous wise notice hello grocery prison";
+var mnemonic = "obtain tree bulb strategy lizard arrange nut armor mask vague age vessel";

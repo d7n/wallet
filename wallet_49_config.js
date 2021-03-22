@@ -1,1 +1,1 @@
-var mnemonic = "curtain puzzle bachelor forum tired dinner interest adjust gadget figure item tower";
+var mnemonic = "green ensure wave case trick else casino corn rich rude can doctor";

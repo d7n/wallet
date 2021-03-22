@@ -1,1 +1,1 @@
-var mnemonic = "load catalog cave wire muscle fancy sing shrug shell bright umbrella enrich";
+var mnemonic = "word defense bread valid resemble urge bridge shy seat wheat warrior comic";

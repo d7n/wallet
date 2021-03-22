@@ -1,1 +1,1 @@
-var mnemonic = "among expect toe trophy border battle busy industry strike road defy blanket";
+var mnemonic = "roof cute memory spirit roast sport town grocery section old twenty wine";

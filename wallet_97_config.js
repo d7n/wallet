@@ -1,1 +1,1 @@
-var mnemonic = "august beef carry cherry decrease shaft input girl keen moment proud adjust";
+var mnemonic = "laptop luxury flock omit lottery wealth during pole quarter kite patch goat";

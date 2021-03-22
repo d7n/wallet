@@ -1,1 +1,1 @@
-var mnemonic = "camp dove dose emotion ocean option doctor arm shoe fossil amateur jacket";
+var mnemonic = "noble timber slogan pet boat timber cook patrol two timber puzzle depth";

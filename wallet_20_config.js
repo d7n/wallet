@@ -1,1 +1,1 @@
-var mnemonic = "pretty paddle assume caution purse energy cream amateur million like setup hammer";
+var mnemonic = "father squeeze once document spare coffee festival park sugar snake fan decide";

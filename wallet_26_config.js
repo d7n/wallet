@@ -1,1 +1,1 @@
-var mnemonic = "artefact worth rigid depart egg forum supply agent need pipe mouse thrive";
+var mnemonic = "belt faculty camera three mechanic rich into child mutual hub margin proud";

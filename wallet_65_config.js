@@ -1,1 +1,1 @@
-var mnemonic = "stone embody twist napkin unaware knife expect admit right unable celery daring";
+var mnemonic = "deliver explain glimpse prosper apple wasp snack kid survey horror success company";

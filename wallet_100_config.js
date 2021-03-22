@@ -1,1 +1,1 @@
-var mnemonic = "rural toe oven vendor spare situate save caution impose upon rice hint";
+var mnemonic = "intact calm dragon fox twenty example ramp cotton peace silk carry stomach";

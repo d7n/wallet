@@ -1,1 +1,1 @@
-var mnemonic = "olive foot peace bounce gun rival next pact member dad illness rhythm";
+var mnemonic = "rate layer sphere food speed canoe actual autumn spring forward fantasy inflict";

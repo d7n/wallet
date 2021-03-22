@@ -1,1 +1,1 @@
-var mnemonic = "funny run valley click other party skin forget relax room economy luggage";
+var mnemonic = "bomb vicious script sample once view stool pioneer faith solve autumn post";

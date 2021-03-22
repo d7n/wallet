@@ -1,1 +1,1 @@
-var mnemonic = "nest same base right movie excuse apart company flush program various deliver";
+var mnemonic = "arctic govern vote master never lounge path swap coffee dress ski suffer";

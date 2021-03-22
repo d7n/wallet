@@ -1,1 +1,1 @@
-var mnemonic = "flat abuse alone coin spoil table seat benefit slogan elder protect ecology";
+var mnemonic = "used spirit hobby stand illegal salute display gym north warm tape fever";

@@ -1,1 +1,1 @@
-var mnemonic = "burger kick moral blanket seat eye buffalo review multiply wire dream ozone";
+var mnemonic = "normal second manual sorry inch flush concert fiber laugh attend allow moment";

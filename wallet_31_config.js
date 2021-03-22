@@ -1,1 +1,1 @@
-var mnemonic = "enlist tumble lion inquiry draw draft trouble shuffle own inject rose camp";
+var mnemonic = "orbit wall weekend question rescue bottom pigeon long emotion enemy hybrid leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup print flip benefit achieve pact elbow hope waste head dry viable";
+var mnemonic = "smoke mass truly share girl apology patch car gadget orange yard clerk";

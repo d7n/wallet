@@ -1,1 +1,1 @@
-var mnemonic = "cancel head profit have retreat dad attract tired possible feel cat flight";
+var mnemonic = "balance junior uphold inch fire exhibit host raw calm used present leaf";

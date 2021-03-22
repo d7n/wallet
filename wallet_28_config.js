@@ -1,1 +1,1 @@
-var mnemonic = "ignore math toward matrix elite sock modify supply sail maximum atom tragic";
+var mnemonic = "there scrap minimum fantasy update crater swallow off upgrade sound october ketchup";

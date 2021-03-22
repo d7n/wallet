@@ -1,1 +1,1 @@
-var mnemonic = "code pelican social library dilemma hammer marine speak nothing collect amused music";
+var mnemonic = "disease valley globe conduct soccer multiply stadium wonder mix genuine exact brain";

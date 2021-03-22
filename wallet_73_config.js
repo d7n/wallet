@@ -1,1 +1,1 @@
-var mnemonic = "hope idle great tide provide kind orange affair ecology suspect field bulk";
+var mnemonic = "noise quarter bind allow brain hunt mixture material cannon cross awkward use";

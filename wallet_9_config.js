@@ -1,1 +1,1 @@
-var mnemonic = "curve ability reason twenty cannon kingdom lift dragon goat erosion oil cheese";
+var mnemonic = "tilt write bacon spike stove thunder intact razor junior fiction bullet general";

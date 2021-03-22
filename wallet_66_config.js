@@ -1,1 +1,1 @@
-var mnemonic = "castle enter stereo good leader release dust pyramid rebuild myself radar move";
+var mnemonic = "avocado fat cargo minor tissue bright solution knee desert zone dutch soft";

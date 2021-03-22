@@ -1,1 +1,1 @@
-var mnemonic = "castle rabbit input rabbit secret violin cluster reason display safe asset release";
+var mnemonic = "comfort control south jacket horse use fetch empower current tortoise reopen rigid";

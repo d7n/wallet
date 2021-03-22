@@ -1,1 +1,1 @@
-var mnemonic = "memory rough witness robot elevator mention argue sport swallow present soup fall";
+var mnemonic = "tent shine swim rapid enlist fashion left bacon ticket wing leader wash";

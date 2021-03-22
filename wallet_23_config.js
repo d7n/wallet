@@ -1,1 +1,1 @@
-var mnemonic = "obtain festival hockey kind consider detail churn sadness lucky deposit bubble truly";
+var mnemonic = "trim entry adult profit van syrup remember cook plug capital buddy throw";

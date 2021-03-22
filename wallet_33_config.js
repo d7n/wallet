@@ -1,1 +1,1 @@
-var mnemonic = "couch genius rookie deer observe couple egg involve tongue holiday evil appear";
+var mnemonic = "neck rhythm detail maple just short lonely genuine reunion poverty grass remain";

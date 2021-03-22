@@ -1,1 +1,1 @@
-var mnemonic = "frozen bike gadget upper seminar donkey echo flame hotel custom oppose adjust";
+var mnemonic = "box dutch dove layer have guide success kit mirror monkey pause inmate";

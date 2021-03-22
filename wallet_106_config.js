@@ -1,1 +1,1 @@
-var mnemonic = "slim faint nice umbrella sting neutral pen praise foot video layer squeeze";
+var mnemonic = "invest avocado sun portion october shed loop slogan usual truly spirit phrase";

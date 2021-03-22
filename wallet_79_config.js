@@ -1,1 +1,1 @@
-var mnemonic = "label champion better analyst review ridge wedding gauge kit term street quick";
+var mnemonic = "liberty drill tail galaxy print surprise rug soccer traffic execute execute segment";

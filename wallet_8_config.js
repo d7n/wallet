@@ -1,1 +1,1 @@
-var mnemonic = "fitness unique response hundred tribe token various steak stem craft second attend";
+var mnemonic = "before echo mirror head grace cliff strike man defy vacuum height wing";

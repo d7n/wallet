@@ -1,1 +1,1 @@
-var mnemonic = "board hat hour copper clip weekend bamboo energy labor release wagon ramp";
+var mnemonic = "nest convince this shift angry want trend level spice bacon grid upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest total ladder enforce remain scorpion metal width push jeans actress gain";
+var mnemonic = "hurt bargain damage grunt crime swallow art talk mule gun absorb glove";

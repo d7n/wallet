@@ -1,1 +1,1 @@
-var mnemonic = "regret body tide announce convince add glory taxi paper vanish scatter treat";
+var mnemonic = "dumb film result actor dwarf blossom brass tell alone refuse gate attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "river brick give lonely silver energy make identify reform topic message typical";
+var mnemonic = "ahead leg random above walnut ocean vacuum anxiety abandon faith noise wide";

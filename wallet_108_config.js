@@ -1,1 +1,1 @@
-var mnemonic = "scare memory potato van achieve hammer zero rural answer approve donor major";
+var mnemonic = "bullet swarm canal item sun seven asthma crawl keep erupt enrich drive";

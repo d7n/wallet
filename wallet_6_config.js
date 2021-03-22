@@ -1,1 +1,1 @@
-var mnemonic = "urban hero nerve life lunch mean pudding inmate scatter talent town position";
+var mnemonic = "expose parent task click decide fly genre green heart state click ready";

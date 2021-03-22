@@ -1,1 +1,1 @@
-var mnemonic = "bird exist blush lunar give point they riot twelve nose tide oppose";
+var mnemonic = "afraid erode empower pulse outer garlic ripple pattern rose sauce club grunt";

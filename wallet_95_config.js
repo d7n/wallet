@@ -1,1 +1,1 @@
-var mnemonic = "nurse muscle enable child home visa almost visit middle flip range fiction";
+var mnemonic = "senior expand nation sense ball warm sort client giraffe boy park essay";

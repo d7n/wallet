@@ -1,1 +1,1 @@
-var mnemonic = "gate scheme shrug tuition write genuine only ready drift safe source buzz";
+var mnemonic = "spin range design year pass material daring curve arena venue boost bean";

@@ -1,1 +1,1 @@
-var mnemonic = "half thumb chicken vendor cradle lake solution regret agent salon renew theory";
+var mnemonic = "modify school pool length regular industry slam volume mansion unique skull usual";

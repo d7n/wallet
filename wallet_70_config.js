@@ -1,1 +1,1 @@
-var mnemonic = "strike magnet club virtual year diamond emotion write glare goose way another";
+var mnemonic = "enemy ensure fiction feed hospital city useful reason live left cube radio";

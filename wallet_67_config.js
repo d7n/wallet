@@ -1,1 +1,1 @@
-var mnemonic = "zone thing tomorrow stuff soon hub leave regret stumble lesson basket another";
+var mnemonic = "donate ankle dog visa wash rally public talent mobile coil tornado truth";

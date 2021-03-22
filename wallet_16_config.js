@@ -1,1 +1,1 @@
-var mnemonic = "issue post excess benefit still say album twelve place enact during march";
+var mnemonic = "wrap viable grape submit dismiss absorb tissue radio void volume absurd foil";

@@ -1,1 +1,1 @@
-var mnemonic = "tired chef tape tourist solid priority couch turtle clump wasp can renew";
+var mnemonic = "mass model machine help shy walnut energy human update evoke defy among";

@@ -1,1 +1,1 @@
-var mnemonic = "boss speed popular hundred agent program peanut envelope render duty mouse buffalo";
+var mnemonic = "color emotion hammer artwork they debate guilt pyramid knock wealth panic fragile";

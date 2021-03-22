@@ -1,1 +1,1 @@
-var mnemonic = "invite unknown unlock state giant angle crack leisure exclude waste slot file";
+var mnemonic = "surge network range speak afraid monitor mystery salt naive sudden industry cube";

@@ -1,1 +1,1 @@
-var mnemonic = "trick adult fitness below barely fragile photo sketch flower relax reflect discover";
+var mnemonic = "ecology wild trouble fossil scissors boil cable climb real autumn above muscle";

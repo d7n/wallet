@@ -1,1 +1,1 @@
-var mnemonic = "hurdle arrive okay dilemma fiscal space edge sadness enrich hockey print humor";
+var mnemonic = "inhale arrange repeat salmon minimum danger twenty summer steel evoke half jungle";

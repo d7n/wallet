@@ -1,1 +1,1 @@
-var mnemonic = "relief east click whisper burst hand atom bar solid verb yellow enhance";
+var mnemonic = "diesel legend lazy anxiety rule vapor shoulder talk zoo pull into scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "window risk grid proud into juice museum infant census divide quote high";
+var mnemonic = "easy demise fury sick lock cement orient acoustic purse elite gaze plug";

@@ -1,1 +1,1 @@
-var mnemonic = "jar dismiss industry scheme genuine oxygen fiction cry pipe absorb code select";
+var mnemonic = "ecology mimic gadget own mango hawk around income engine follow honey bargain";

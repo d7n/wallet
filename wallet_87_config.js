@@ -1,1 +1,1 @@
-var mnemonic = "afford away rebel boss color sibling marble rhythm festival pipe neck install";
+var mnemonic = "wood observe abuse case wall repeat true embrace bargain pretty raw donor";

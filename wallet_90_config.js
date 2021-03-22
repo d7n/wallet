@@ -1,1 +1,1 @@
-var mnemonic = "stereo purse symptom find piece miss base pause unknown stage enlist claw";
+var mnemonic = "object order kick observe pill energy pulse before pink child rather ladder";

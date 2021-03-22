@@ -1,1 +1,1 @@
-var mnemonic = "series add dog donkey castle lunar potato tiny gown dress west sock";
+var mnemonic = "tennis all vehicle false sustain dove arrive assist firm disease require edge";

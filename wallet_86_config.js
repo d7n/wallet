@@ -1,1 +1,1 @@
-var mnemonic = "table gloom profit profit wagon across load multiply pact host tell hill";
+var mnemonic = "pudding young topple trade vast next harbor roast tenant unable today must";

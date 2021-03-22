@@ -1,1 +1,1 @@
-var mnemonic = "net tonight gather retire clump obvious liberty come impose sad wrong myself";
+var mnemonic = "action grunt blast pipe bonus embark smile damage impulse admit coast stand";

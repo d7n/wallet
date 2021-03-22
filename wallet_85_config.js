@@ -1,1 +1,1 @@
-var mnemonic = "service bargain universe theory battle dream wrap clerk network general used rely";
+var mnemonic = "prison fitness feed panic helmet inhale few return dawn east crush ecology";

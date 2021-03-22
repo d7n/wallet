@@ -1,1 +1,1 @@
-var mnemonic = "leaf flower friend same inhale market arrow shoot whisper practice silent often";
+var mnemonic = "tackle poverty sauce nut scrub assume case aisle nuclear turn fine excess";

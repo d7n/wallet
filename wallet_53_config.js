@@ -1,1 +1,1 @@
-var mnemonic = "wreck region option few believe risk auto grace uphold proud student future";
+var mnemonic = "valve relax region afraid whale three buzz viable april degree absorb initial";

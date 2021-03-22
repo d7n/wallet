@@ -1,1 +1,1 @@
-var mnemonic = "bone seek burst twelve envelope alien crash debris cake coral pretty wreck";
+var mnemonic = "chest glory filter account gold lounge indicate rescue duck wise minute sibling";

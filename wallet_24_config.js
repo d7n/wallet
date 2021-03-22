@@ -1,1 +1,1 @@
-var mnemonic = "leg image dutch give panther stay reflect conduct message curious trade belt";
+var mnemonic = "lawsuit glance front drive cave matrix olive debate erode stick vendor chest";

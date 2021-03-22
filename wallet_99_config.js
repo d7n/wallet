@@ -1,1 +1,1 @@
-var mnemonic = "file toss tail spend marriage creek walnut pass close check wealth lounge";
+var mnemonic = "defy stomach slim suggest asset reopen budget dwarf tonight indicate labor cigar";

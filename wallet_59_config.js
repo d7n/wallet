@@ -1,1 +1,1 @@
-var mnemonic = "word aunt foam cushion lend local employ cry double bachelor panda point";
+var mnemonic = "garden party aspect luxury guilt acquire corn focus jaguar tank expire real";

@@ -1,1 +1,1 @@
-var mnemonic = "other junior viable gun maid captain analyst tragic humor prefer taxi stamp";
+var mnemonic = "mesh account pitch grace off ecology grape dance float metal enrich inquiry";

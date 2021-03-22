@@ -1,1 +1,1 @@
-var mnemonic = "lizard brother aware avocado february obscure bean sudden harvest lunch need hybrid";
+var mnemonic = "piano goddess tunnel dust grid tomorrow fossil snap century inhale road moon";

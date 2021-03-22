@@ -1,1 +1,1 @@
-var mnemonic = "air spring mandate siren mention menu recipe improve sweet inhale dove nose";
+var mnemonic = "fish undo buddy warfare zero engine veteran armor fiscal build shrimp basket";

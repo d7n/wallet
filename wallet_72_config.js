@@ -1,1 +1,1 @@
-var mnemonic = "extra pact north soup diesel rapid barrel erosion know brief shoulder timber";
+var mnemonic = "despair uncover toward debate critic clarify sing erase income strike retire actor";

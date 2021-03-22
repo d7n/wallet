@@ -1,1 +1,1 @@
-var mnemonic = "tornado hurt client more room empty pizza depend broken wave thumb cage";
+var mnemonic = "someone steak live toilet myself awful lazy twice senior banner eight mercy";
