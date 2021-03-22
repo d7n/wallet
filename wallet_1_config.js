@@ -1,1 +1,1 @@
-var mnemonic = "obscure foot person bulb hand web always churn cover merry click radar";
+var mnemonic = "planet aisle trophy sure clever original toe hen capital impose exotic hat";

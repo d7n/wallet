@@ -1,1 +1,1 @@
-var mnemonic = "furnace trust symptom hold brisk city bicycle neck mixture success ketchup walnut";
+var mnemonic = "receive radio space pattern sponsor ordinary unhappy sustain prison struggle picnic script";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican original creek giant mansion exclude sample hill usage wear day viable";
+var mnemonic = "joke butter match amused unveil decorate bronze limit stumble potato race slush";

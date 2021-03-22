@@ -1,1 +1,1 @@
-var mnemonic = "immense gauge object boy decade sun road later notice actor duck crater";
+var mnemonic = "find cannon owner arrange stairs loop before payment syrup hammer student govern";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase live excess garlic raise sheriff pole silly fringe behind dizzy sun";
+var mnemonic = "runway good defense rib letter dinosaur across staff hospital excess upon capable";

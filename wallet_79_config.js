@@ -1,1 +1,1 @@
-var mnemonic = "sport eternal stock west sense swing cycle error cigar notice gasp fold";
+var mnemonic = "balance anxiety man large inmate rich learn kidney awesome rate elegant rural";

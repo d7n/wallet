@@ -1,1 +1,1 @@
-var mnemonic = "puppy glide smooth exercise claim about mesh toe food left obscure matter";
+var mnemonic = "venue satisfy excite life remain village throw lawn agree alcohol quarter knee";

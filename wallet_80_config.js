@@ -1,1 +1,1 @@
-var mnemonic = "staff pulse sure select fresh fence lyrics release price kick brick palace";
+var mnemonic = "young segment ignore detect cluster crew spike virtual turtle exclude prefer affair";

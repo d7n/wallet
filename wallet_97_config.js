@@ -1,1 +1,1 @@
-var mnemonic = "glad dance expand genre update beach game symbol rebel admit sock frost";
+var mnemonic = "amazing denial alter screen pull example veteran piano cup frame just humble";

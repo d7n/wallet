@@ -1,1 +1,1 @@
-var mnemonic = "tape smart drink bread dutch win jacket water vacant sport turkey input";
+var mnemonic = "panda illness index dance erupt journey grid delay lamp protect close swim";

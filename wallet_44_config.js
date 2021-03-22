@@ -1,1 +1,1 @@
-var mnemonic = "antenna humble typical eyebrow auto ship way venture alley journey social worry";
+var mnemonic = "expire guitar faint capital surface brisk fix fun walnut rookie grace assume";

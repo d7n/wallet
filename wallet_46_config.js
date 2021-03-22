@@ -1,1 +1,1 @@
-var mnemonic = "buffalo brother report famous egg album stumble admit broken spy metal cement";
+var mnemonic = "typical frown swamp sphere steel craft gloom topple mercy nation bus cable";

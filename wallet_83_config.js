@@ -1,1 +1,1 @@
-var mnemonic = "shuffle midnight glass flag kit bid marble process city alpha close mass";
+var mnemonic = "motor vivid run desert square frog patch affair option timber gown soup";

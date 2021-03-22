@@ -1,1 +1,1 @@
-var mnemonic = "valley snow hobby drill polar wine august roast inspire section fat prize";
+var mnemonic = "fatigue sing drill eagle pilot foster fuel uncover fabric joke amused shine";

@@ -1,1 +1,1 @@
-var mnemonic = "steel duck mention decide place pizza wheel impact recipe comic egg twice";
+var mnemonic = "nice globe flight point flower layer shed game video amazing found prefer";

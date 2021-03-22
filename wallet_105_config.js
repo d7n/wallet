@@ -1,1 +1,1 @@
-var mnemonic = "place riot universe leg gun net protect deputy bridge curve trim nuclear";
+var mnemonic = "echo large conduct engage lift confirm mean eager custom suit start rely";

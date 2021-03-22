@@ -1,1 +1,1 @@
-var mnemonic = "ghost father picnic empower patch ability machine direct exist best horror unique";
+var mnemonic = "enlist exist review slush horn despair concert north finger flavor harsh artist";

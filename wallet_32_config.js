@@ -1,1 +1,1 @@
-var mnemonic = "dog cancel dinner culture target prize march maid ordinary equal bargain square";
+var mnemonic = "vintage duty arrest deputy neck hole party song glove tunnel easily garment";

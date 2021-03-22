@@ -1,1 +1,1 @@
-var mnemonic = "shop ready basic radar slow size repeat anxiety replace warrior tomato crop";
+var mnemonic = "swear evoke pioneer weather peace rack kiwi vote fetch robot volume tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "evil fancy ticket once wheel milk knee orange empty staff park oval";
+var mnemonic = "flag library ability more tank chalk entire motor flag candy fence autumn";

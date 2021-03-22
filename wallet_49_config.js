@@ -1,1 +1,1 @@
-var mnemonic = "pink treat love sock victory typical blush belt shy can danger curve";
+var mnemonic = "ketchup pact country fog lazy offer unit jaguar fix you range speed";

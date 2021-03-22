@@ -1,1 +1,1 @@
-var mnemonic = "goose antenna happy frost lamp grace region valve muscle wrong devote distance";
+var mnemonic = "evil spice deputy voice cart token genius soup joy crumble silent allow";

@@ -1,1 +1,1 @@
-var mnemonic = "all broccoli toy under mountain other engage stool bonus tongue clog dawn";
+var mnemonic = "stage duck slot dinner song virus attend receive general patient mouse cram";

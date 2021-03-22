@@ -1,1 +1,1 @@
-var mnemonic = "ripple warrior pipe weasel income raw crush arch pill naive exit predict";
+var mnemonic = "drill jelly sad expand topic diary depth fatal senior afraid artist lizard";

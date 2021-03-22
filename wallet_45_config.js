@@ -1,1 +1,1 @@
-var mnemonic = "water letter robot opinion resist sick tilt office when chimney night fever";
+var mnemonic = "twice great payment idea stool grab jewel opinion phrase vintage volume guess";

@@ -1,1 +1,1 @@
-var mnemonic = "shed sport ring ten autumn extend iron tribe caution bronze number tiger";
+var mnemonic = "puzzle exile hazard bleak soon airport crack boil reflect shadow impulse initial";

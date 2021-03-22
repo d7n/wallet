@@ -1,1 +1,1 @@
-var mnemonic = "rookie amateur sight service prosper move tone tackle chest hundred media liquid";
+var mnemonic = "inmate jump evidence aware giggle verb quiz nerve marble lonely color entire";

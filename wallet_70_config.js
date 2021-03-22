@@ -1,1 +1,1 @@
-var mnemonic = "pond tail mix match forward health text bread dragon hollow erase gown";
+var mnemonic = "word avoid topple whip prepare brown left funny gasp champion more diamond";

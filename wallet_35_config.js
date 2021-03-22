@@ -1,1 +1,1 @@
-var mnemonic = "truck eager dragon misery mimic hole cake scene chief rough useful this";
+var mnemonic = "veteran attend waste provide venture silly unusual attack law cloth area lady";

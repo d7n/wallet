@@ -1,1 +1,1 @@
-var mnemonic = "blind child hour include weapon butter toe december celery upon tuna post";
+var mnemonic = "below thumb educate silk setup kitchen inner sadness quit turn rely humble";

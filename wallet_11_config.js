@@ -1,1 +1,1 @@
-var mnemonic = "trip defense sister know crop develop dash miss adult month bitter exotic";
+var mnemonic = "vivid change grass rhythm angry balance arctic other fitness quick guilt police";

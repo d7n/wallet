@@ -1,1 +1,1 @@
-var mnemonic = "sing edge client blanket enact panda hour warfare impulse enjoy time crash";
+var mnemonic = "code legend usage until strong harsh onion method business hint electric public";

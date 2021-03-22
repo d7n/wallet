@@ -1,1 +1,1 @@
-var mnemonic = "spare dial thrive recall area slight novel town tourist material social art";
+var mnemonic = "weekend lava shaft cliff obtain era jaguar online correct raccoon tongue reflect";

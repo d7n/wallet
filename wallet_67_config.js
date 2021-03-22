@@ -1,1 +1,1 @@
-var mnemonic = "old mother seven beach dizzy reunion where merit glare illness point desert";
+var mnemonic = "plunge core major initial maple either speed favorite logic opinion oil swing";

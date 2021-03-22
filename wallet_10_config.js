@@ -1,1 +1,1 @@
-var mnemonic = "provide smooth style action super lecture warrior despair people joy simple warm";
+var mnemonic = "whale vacant weekend era across hedgehog issue pluck obtain delay relief renew";

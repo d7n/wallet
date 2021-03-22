@@ -1,1 +1,1 @@
-var mnemonic = "small bacon fabric random clay list pair horse firm tell slight allow";
+var mnemonic = "ivory animal spare source winner glimpse beef office inside soup pair project";

@@ -1,1 +1,1 @@
-var mnemonic = "expand hole summer lift local steel sorry civil case over apart spray";
+var mnemonic = "stereo eyebrow pupil club celery mimic spot demand inject inside accident tail";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect zone first weather olive parrot girl verify vault winter together gorilla";
+var mnemonic = "birth dust feel please choice chronic scheme floor aunt air summer frown";

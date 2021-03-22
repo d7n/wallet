@@ -1,1 +1,1 @@
-var mnemonic = "fabric during emerge armed detail bless dutch priority forget neutral morning element";
+var mnemonic = "elite barely trust prepare salon relax actual rigid device dragon security clarify";

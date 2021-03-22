@@ -1,1 +1,1 @@
-var mnemonic = "cause analyst account entry battle mention bacon canyon true hip adult useless";
+var mnemonic = "wrestle solar predict kiwi result neck spread person flavor siege oyster wisdom";

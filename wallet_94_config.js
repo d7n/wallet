@@ -1,1 +1,1 @@
-var mnemonic = "lock aim unfair hockey height evolve always future raccoon awful dignity flag";
+var mnemonic = "slice fossil crisp payment frozen wage suggest gun shell differ sustain diamond";

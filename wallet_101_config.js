@@ -1,1 +1,1 @@
-var mnemonic = "million say prize unique faculty scorpion drip stay foam peace trade wait";
+var mnemonic = "rebuild owner void moral crisp width pigeon explain cram attitude topic teach";

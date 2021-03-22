@@ -1,1 +1,1 @@
-var mnemonic = "amateur inflict super noise miracle visual slab urban idle giant prevent marine";
+var mnemonic = "fold word badge element awesome fortune size gaze scrub maze sadness category";

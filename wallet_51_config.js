@@ -1,1 +1,1 @@
-var mnemonic = "sustain throw pig cattle since place catch rabbit height shift trophy wire";
+var mnemonic = "detect another assault have mango dignity ancient diamond gravity another dentist surge";

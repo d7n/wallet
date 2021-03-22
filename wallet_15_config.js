@@ -1,1 +1,1 @@
-var mnemonic = "match pear image term jazz pact buyer engine album else offer swift";
+var mnemonic = "purchase limit insane bitter fitness gesture sketch lucky absurd elephant laptop error";

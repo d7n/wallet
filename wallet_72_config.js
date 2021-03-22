@@ -1,1 +1,1 @@
-var mnemonic = "three large raccoon acoustic weapon legend hockey obtain unit head fence omit";
+var mnemonic = "index protect peasant frequent connect insane actor wreck solution hair bachelor agree";

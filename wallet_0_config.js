@@ -1,1 +1,1 @@
-var mnemonic = "truck stuff catch aunt license reason note chuckle error term flip estate";
+var mnemonic = "pioneer divorce hero response cousin car excuse pretty verify retire eagle owner";

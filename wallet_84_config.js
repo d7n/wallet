@@ -1,1 +1,1 @@
-var mnemonic = "before summer before visual motor damp inside cheese banana silent panic waste";
+var mnemonic = "display hobby into bargain resemble find page can tooth surround draw rotate";

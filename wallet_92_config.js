@@ -1,1 +1,1 @@
-var mnemonic = "animal dinner wisdom original scissors hen celery shrug cloud fork result collect";
+var mnemonic = "twist device wedding talent kite robust trouble pretty main hazard stand winner";

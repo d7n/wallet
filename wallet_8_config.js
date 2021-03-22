@@ -1,1 +1,1 @@
-var mnemonic = "surge kitchen country super slide wrong dog purpose exact estate coffee thrive";
+var mnemonic = "panda add december orient crane half trip poet ticket great virtual chronic";

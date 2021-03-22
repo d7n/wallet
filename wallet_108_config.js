@@ -1,1 +1,1 @@
-var mnemonic = "entire hybrid undo avocado frozen describe alien success neither fan exhaust dismiss";
+var mnemonic = "walk hedgehog canyon prevent grab index wire unit simple cousin resemble father";

@@ -1,1 +1,1 @@
-var mnemonic = "process twenty puzzle will people gym there jazz favorite setup crew tent";
+var mnemonic = "present until oblige lunar vacuum mass typical quiz tiger bread city stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "medal destroy purity fossil style apology fox dizzy donkey truly ritual such";
+var mnemonic = "advance arrow flame lamp globe naive warrior pretty domain cruise vital radar";

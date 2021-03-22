@@ -1,1 +1,1 @@
-var mnemonic = "cage wall diary brass luggage reopen bid verify seed mechanic churn comic";
+var mnemonic = "rabbit regret cruel festival real wrong tilt room kick rigid ladder exercise";

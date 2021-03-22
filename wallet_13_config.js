@@ -1,1 +1,1 @@
-var mnemonic = "welcome goose walnut soap uniform column lunch foot glad hello fragile kit";
+var mnemonic = "fantasy bind fetch stick shadow box rocket exile lumber grape that volume";

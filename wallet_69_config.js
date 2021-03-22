@@ -1,1 +1,1 @@
-var mnemonic = "cable shield act weapon ability host rhythm frog differ profit despair boat";
+var mnemonic = "circle hire family depend spend easily whale kick decrease candy tone tongue";

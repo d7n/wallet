@@ -1,1 +1,1 @@
-var mnemonic = "repair broccoli perfect obscure sketch adult afraid two upgrade organ tooth dynamic";
+var mnemonic = "skull unit sting high model defy scene exclude mixed amateur lemon mother";

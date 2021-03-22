@@ -1,1 +1,1 @@
-var mnemonic = "swallow rent hazard blur radio trophy quick ceiling wisdom flush city tragic";
+var mnemonic = "sleep bulb upset tone embark agent raw language oxygen hat rocket divert";

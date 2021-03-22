@@ -1,1 +1,1 @@
-var mnemonic = "divide waste artwork infant misery ankle camera usual pave circle unusual door";
+var mnemonic = "urge wrestle unfair wire box kid glance demise system metal member marriage";

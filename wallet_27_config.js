@@ -1,1 +1,1 @@
-var mnemonic = "goose trend universe inside alarm dwarf grape table addict review come number";
+var mnemonic = "motor work question produce hair amount inherit disorder year robot stand wool";

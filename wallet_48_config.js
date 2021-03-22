@@ -1,1 +1,1 @@
-var mnemonic = "during home empty lamp uphold old impulse excite produce prosper eagle kite";
+var mnemonic = "inside tired unveil defy arrow raccoon reject mind know cream wave firm";

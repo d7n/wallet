@@ -1,1 +1,1 @@
-var mnemonic = "bicycle kiss image rabbit cook treat offer urban dismiss whip comic desk";
+var mnemonic = "then buzz multiply cargo beach kite cannon powder senior become rug scorpion";

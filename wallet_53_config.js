@@ -1,1 +1,1 @@
-var mnemonic = "unique legend ribbon exile barrel fit trick sniff harvest safe mechanic misery";
+var mnemonic = "lawn sentence taste armor catalog road pipe live hammer canoe spy sense";

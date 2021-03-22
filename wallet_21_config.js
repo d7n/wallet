@@ -1,1 +1,1 @@
-var mnemonic = "where spot snake hunt illness pitch excess dad ring flash damp industry";
+var mnemonic = "local frog rich sort occur capital combine volume sketch gravity long coach";

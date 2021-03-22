@@ -1,1 +1,1 @@
-var mnemonic = "session system tennis lumber custom turn royal cousin begin vague core coconut";
+var mnemonic = "cover rude quote right audit syrup bamboo agent payment alarm stool engage";

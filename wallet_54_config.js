@@ -1,1 +1,1 @@
-var mnemonic = "print cheap work struggle reflect endless again best moon stamp scare goat";
+var mnemonic = "table push review lunch believe doctor cycle settle practice mutual medal hub";

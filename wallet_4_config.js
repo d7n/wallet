@@ -1,1 +1,1 @@
-var mnemonic = "step bottom museum stool breeze pyramid imitate clump unveil suspect flip outer";
+var mnemonic = "spell dial crumble choose gain oxygen sword drastic pause eight crane divert";

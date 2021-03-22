@@ -1,1 +1,1 @@
-var mnemonic = "select theory author nation wing attract ostrich resemble fame ugly grain gold";
+var mnemonic = "twenty range galaxy marriage essay visa relief black tomorrow relax control immune";

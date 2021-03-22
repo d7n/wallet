@@ -1,1 +1,1 @@
-var mnemonic = "horse aerobic weird broken shove patch margin skirt expose issue topple method";
+var mnemonic = "auction clinic couch release debris strike skin segment off sting dinosaur real";

@@ -1,1 +1,1 @@
-var mnemonic = "slab case other around finger search else slender improve okay alone maximum";
+var mnemonic = "catalog elder utility wasp force start cupboard harsh total tomorrow tumble skate";

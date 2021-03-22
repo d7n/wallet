@@ -1,1 +1,1 @@
-var mnemonic = "champion result fatigue swim word fame clump need wing title anger carbon";
+var mnemonic = "heart tuition glad kit napkin inform receive nephew hello protect cannon next";

@@ -1,1 +1,1 @@
-var mnemonic = "feel resist story cluster auto process rescue march between bus grass sort";
+var mnemonic = "skate wrist fee dove rug space curtain share fit prosper produce toilet";

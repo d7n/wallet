@@ -1,1 +1,1 @@
-var mnemonic = "canyon cause fat equip afford immense motion volume solar increase vapor glass";
+var mnemonic = "prevent chef way push assault rescue estate digital enter ready job follow";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite ancient page easy tunnel scare owner switch indoor aunt trust shoot";
+var mnemonic = "decide such strategy pilot quick shoulder gun crew sheriff surface method apology";

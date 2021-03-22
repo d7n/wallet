@@ -1,1 +1,1 @@
-var mnemonic = "victory real merit barely hotel weasel rocket recall various rail mind develop";
+var mnemonic = "aim gesture peasant apart smoke today witness budget top absorb ignore strategy";

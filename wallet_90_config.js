@@ -1,1 +1,1 @@
-var mnemonic = "bless situate pact talent pass ripple taste humor coach donkey year vicious";
+var mnemonic = "kiss bird tiger visual wave pencil quit cream dance master web wrong";

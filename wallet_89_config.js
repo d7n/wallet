@@ -1,1 +1,1 @@
-var mnemonic = "present tool coast ensure boat price cave rigid endless hard lion sand";
+var mnemonic = "october large ramp trash nerve level strong forest assume bomb helmet actress";

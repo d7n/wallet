@@ -1,1 +1,1 @@
-var mnemonic = "female hotel smooth hospital fall rail aspect cute cotton abuse credit lucky";
+var mnemonic = "skirt target deliver agree front success private cereal ordinary merge conduct consider";

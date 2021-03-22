@@ -1,1 +1,1 @@
-var mnemonic = "seminar undo vital record attend seek obey practice section pool mesh mushroom";
+var mnemonic = "maid inner finger silk bottom obtain uncover capable spy wrestle gym kingdom";

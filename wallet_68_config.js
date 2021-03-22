@@ -1,1 +1,1 @@
-var mnemonic = "home oval fetch goddess lecture leaf addict cash profit good comfort tape";
+var mnemonic = "estate waste royal crane sail once sibling force admit learn beach couch";

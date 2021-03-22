@@ -1,1 +1,1 @@
-var mnemonic = "edge leave curtain inside task nominee knife crazy movie plastic plunge donor";
+var mnemonic = "lottery text age entry donor hover mushroom sketch enroll blood six pipe";

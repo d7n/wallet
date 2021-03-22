@@ -1,1 +1,1 @@
-var mnemonic = "upon rubber already female bleak stumble afraid ivory quit baby sausage either";
+var mnemonic = "grit coast ozone rebel dash express hunt learn pumpkin leave spatial bubble";

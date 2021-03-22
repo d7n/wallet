@@ -1,1 +1,1 @@
-var mnemonic = "setup have fly tool host basic anxiety element blouse ill tower joke";
+var mnemonic = "chaos stage female goddess adapt above soccer bleak text label leisure bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery draft climb olive degree raise myself slogan giant wage gap arrest";
+var mnemonic = "glad good illness install tenant tennis wreck immense shoot sport winter normal";

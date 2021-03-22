@@ -1,1 +1,1 @@
-var mnemonic = "wise nuclear raw six today token slight private orange seminar concert under";
+var mnemonic = "rapid reunion globe invite pelican fluid medal sense few field concert property";
