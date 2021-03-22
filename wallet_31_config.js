@@ -1,1 +1,1 @@
-var mnemonic = "fragile motor mansion uniform pair emerge fever pigeon approve blanket goose silk";
+var mnemonic = "jealous basic proof diamond bacon six human weapon lizard peasant ramp monkey";

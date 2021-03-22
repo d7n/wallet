@@ -1,1 +1,1 @@
-var mnemonic = "copy wave elegant indicate six effort sad vapor quality industry shaft tennis";
+var mnemonic = "worth label hunt ladder slow immense woman author fog stereo pact casual";

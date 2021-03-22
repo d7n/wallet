@@ -1,1 +1,1 @@
-var mnemonic = "blur area robot silent casino during drink scatter vendor escape couple whip";
+var mnemonic = "notice fiction frost genius creek menu frost top wisdom champion alpha oil";

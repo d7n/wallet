@@ -1,1 +1,1 @@
-var mnemonic = "flat journey shaft fever prison also spoil sorry mechanic hint lemon deliver";
+var mnemonic = "clap play mule conduct lava order hedgehog virtual island glue foil remove";

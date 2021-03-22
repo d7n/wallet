@@ -1,1 +1,1 @@
-var mnemonic = "sauce soccer wink notable argue tobacco inflict next path manage field dynamic";
+var mnemonic = "initial galaxy trap clarify state spider term vanish bless act shuffle omit";

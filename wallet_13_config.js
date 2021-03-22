@@ -1,1 +1,1 @@
-var mnemonic = "market vital doll alley dish crumble use powder road invite convince tortoise";
+var mnemonic = "fragile glue hood elbow uncle critic reform bunker report neck birth aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "parade fetch oven profit glide produce bundle jewel glass actual devote lab";
+var mnemonic = "trumpet best payment symbol venue crime aim feel pond small miracle raccoon";

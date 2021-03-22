@@ -1,1 +1,1 @@
-var mnemonic = "mystery pepper story mouse direct soup stairs return ensure mixed orphan shield";
+var mnemonic = "lamp side drastic lion tide farm young fox pond symbol bless marine";

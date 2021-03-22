@@ -1,1 +1,1 @@
-var mnemonic = "enforce already enlist throw burst girl assume only drum forest fluid legend";
+var mnemonic = "embody nest just expose coil snap palm over walk demand usage bulk";

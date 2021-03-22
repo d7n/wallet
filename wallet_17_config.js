@@ -1,1 +1,1 @@
-var mnemonic = "march alone unknown girl raw never erode hour stamp embark spell surge";
+var mnemonic = "sauce aspect noodle novel fabric layer receive brick route weekend carbon couch";

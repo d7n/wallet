@@ -1,1 +1,1 @@
-var mnemonic = "alien margin usage action film sock monitor flee awful plunge endless bronze";
+var mnemonic = "song script view cost husband flush genius neck image position math dolphin";

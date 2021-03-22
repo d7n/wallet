@@ -1,1 +1,1 @@
-var mnemonic = "master earn unique cereal market park lumber wage vital hungry rocket truth";
+var mnemonic = "decrease seminar around detect nose ancient order junk future attack order lumber";

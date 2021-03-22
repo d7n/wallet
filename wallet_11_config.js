@@ -1,1 +1,1 @@
-var mnemonic = "income loan island client replace key earn prefer all portion fortune crater";
+var mnemonic = "umbrella entry robust emerge decide coach despair olympic step clean six timber";

@@ -1,1 +1,1 @@
-var mnemonic = "cry fence brass oppose guard collect enemy achieve asthma pull ramp require";
+var mnemonic = "awkward reopen priority sketch ritual robot tongue width tree radar harvest boy";

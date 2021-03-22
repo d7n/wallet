@@ -1,1 +1,1 @@
-var mnemonic = "equal advance cable wood suffer spy nuclear breeze income treat element attend";
+var mnemonic = "champion width jealous thing connect clip scale style hard memory peanut remind";

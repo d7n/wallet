@@ -1,1 +1,1 @@
-var mnemonic = "hole lake month belt peanut copy process assume cupboard erosion green scene";
+var mnemonic = "gorilla ceiling will rice permit unveil pledge robot acoustic owner vault slice";

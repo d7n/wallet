@@ -1,1 +1,1 @@
-var mnemonic = "exist between enter educate elbow delay machine dish sport absent animal fresh";
+var mnemonic = "legal test sphere ecology siren eagle tornado skin media alarm between prepare";

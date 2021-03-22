@@ -1,1 +1,1 @@
-var mnemonic = "twist promote clump habit ski purse foil carry acquire immune jaguar lab";
+var mnemonic = "forward tennis dolphin clown client sting card strong arm cheap zone adult";

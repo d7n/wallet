@@ -1,1 +1,1 @@
-var mnemonic = "fatal sense delay divorce aerobic grape suggest ladder wash minute spot staff";
+var mnemonic = "shallow feel sad soup federal hip heavy salon soccer boil glue spell";

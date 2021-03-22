@@ -1,1 +1,1 @@
-var mnemonic = "canoe primary juice often plate camp shaft sell reward hand level kite";
+var mnemonic = "inspire twin target junk search valve equal palm arm purity armor ski";

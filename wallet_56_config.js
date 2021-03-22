@@ -1,1 +1,1 @@
-var mnemonic = "shoulder milk crack cotton half asset glue disorder jar grace execute remain";
+var mnemonic = "license half napkin leader improve thought inside favorite dune that post all";

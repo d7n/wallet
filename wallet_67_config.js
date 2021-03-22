@@ -1,1 +1,1 @@
-var mnemonic = "visa milk void submit useless spice swap issue taste mountain survey display";
+var mnemonic = "absent first license measure rifle salon diet planet course warm among pill";

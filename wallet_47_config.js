@@ -1,1 +1,1 @@
-var mnemonic = "casino inhale pupil eight warfare mail dawn grid gather inquiry spoil three";
+var mnemonic = "blossom surge because physical crouch museum crazy few elbow task layer unaware";

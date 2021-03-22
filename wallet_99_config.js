@@ -1,1 +1,1 @@
-var mnemonic = "anchor hour pistol evolve expect repair rug casino market sample quiz donor";
+var mnemonic = "safe grass velvet risk art faint guard brave aspect cage pair sell";

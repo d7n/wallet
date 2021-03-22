@@ -1,1 +1,1 @@
-var mnemonic = "fit differ ensure fade cause sea mix auto spatial predict upper ring";
+var mnemonic = "income caution lyrics diamond dream end expire identify midnight keep join gain";

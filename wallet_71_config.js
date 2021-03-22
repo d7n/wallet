@@ -1,1 +1,1 @@
-var mnemonic = "typical consider above crisp isolate blast before pizza steak goat promote labor";
+var mnemonic = "canvas any invite corn steel hawk disease wrist country wine wagon fluid";

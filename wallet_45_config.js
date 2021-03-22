@@ -1,1 +1,1 @@
-var mnemonic = "immune critic glide clump juice unable option essay offer couple yellow memory";
+var mnemonic = "ring point cute move pulp cost inflict ship soul credit armor cherry";

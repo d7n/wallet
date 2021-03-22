@@ -1,1 +1,1 @@
-var mnemonic = "equal liquid company drip agent fox idle fatigue traffic style bind charge";
+var mnemonic = "cereal vehicle casual meat camera island dry renew rookie anger husband woman";

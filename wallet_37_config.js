@@ -1,1 +1,1 @@
-var mnemonic = "scheme light result measure hammer give cube mixture urban super spoil stuff";
+var mnemonic = "together spike mimic tomorrow neither mosquito enforce inform cloth unique prefer shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "two dry disease text perfect nephew amused tone ensure great all profit";
+var mnemonic = "cancel harvest control feature exist mosquito oppose elder letter stable shoe fresh";

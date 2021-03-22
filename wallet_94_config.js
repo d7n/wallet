@@ -1,1 +1,1 @@
-var mnemonic = "castle fan coyote awake girl ketchup rule matter melody gate coconut legal";
+var mnemonic = "tilt double whale segment move start spare cattle nurse believe speed casino";

@@ -1,1 +1,1 @@
-var mnemonic = "right clap tribe super still soul town join concert excuse catalog attack";
+var mnemonic = "night shrug cigar bomb awesome grant canvas gauge fat rhythm report artefact";

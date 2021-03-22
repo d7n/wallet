@@ -1,1 +1,1 @@
-var mnemonic = "garbage embark laptop anxiety bless leg script together soldier hotel visa fiscal";
+var mnemonic = "model ball prosper total clutch subway embody reopen return element harsh practice";

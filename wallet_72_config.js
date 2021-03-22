@@ -1,1 +1,1 @@
-var mnemonic = "december skull deer remove leaf audit salt vessel goddess laugh patch casino";
+var mnemonic = "truly winter witness gasp bachelor sense absurd common crack bean forward robot";

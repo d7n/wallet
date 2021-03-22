@@ -1,1 +1,1 @@
-var mnemonic = "tool stove atom spend humble canvas dose bulk vanish scrap brother coffee";
+var mnemonic = "eagle right mobile cupboard pet ensure scrap gravity awesome nerve despair pig";

@@ -1,1 +1,1 @@
-var mnemonic = "success evoke chunk detect sentence find system upset force load control popular";
+var mnemonic = "denial that ability conduct regret dream sibling protect unaware have apart exact";

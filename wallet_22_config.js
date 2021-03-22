@@ -1,1 +1,1 @@
-var mnemonic = "music property blind bottom season confirm train pull expose zoo agree wool";
+var mnemonic = "garment ten drum earth rotate access column hunt record symbol want auction";

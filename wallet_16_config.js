@@ -1,1 +1,1 @@
-var mnemonic = "tree toilet absurd labor loud royal acid already dune insane also purse";
+var mnemonic = "invite topic run jewel creek tonight foster bulk task truck defense stage";

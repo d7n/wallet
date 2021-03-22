@@ -1,1 +1,1 @@
-var mnemonic = "reflect disorder lyrics traffic february path output bag bonus artwork lake rose";
+var mnemonic = "year above baby vapor glare nerve oppose exile exotic monster monkey amount";

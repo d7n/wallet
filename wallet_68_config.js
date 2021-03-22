@@ -1,1 +1,1 @@
-var mnemonic = "lens miracle confirm citizen agree sunset forget gospel real fortune layer soup";
+var mnemonic = "harbor junk either behave miracle noise salt proof climb fan churn fashion";

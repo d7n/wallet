@@ -1,1 +1,1 @@
-var mnemonic = "pause tooth noble force uniform album bottom notable artefact drama rude curtain";
+var mnemonic = "observe gift core van snake office put bonus short mule horse accident";

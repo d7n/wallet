@@ -1,1 +1,1 @@
-var mnemonic = "warfare soap maze spend pistol fragile twice trial awful ensure upgrade prosper";
+var mnemonic = "salt rescue away cousin crop pulp gun income army possible poet lab";

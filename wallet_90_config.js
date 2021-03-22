@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow walk improve pattern win earn record exist away abstract diet ketchup";
+var mnemonic = "success shuffle breeze enroll powder village ensure candy soap little tray average";

@@ -1,1 +1,1 @@
-var mnemonic = "rich they company series message earn teach vibrant wild open involve caution";
+var mnemonic = "opinion romance salon case skull grain citizen family opera parrot blue hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "plug gallery six naive mesh finger fatigue pig announce hunt carbon loud";
+var mnemonic = "direct tower guide exile butter science fork cake siege dignity rely vacant";

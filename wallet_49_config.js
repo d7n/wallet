@@ -1,1 +1,1 @@
-var mnemonic = "village close start dolphin guide twist this okay what cinnamon since concert";
+var mnemonic = "dizzy know trick foot curtain path imitate uncover false shy mother output";

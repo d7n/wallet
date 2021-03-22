@@ -1,1 +1,1 @@
-var mnemonic = "favorite kingdom cake slab oblige vast ride action aspect diagram month neutral";
+var mnemonic = "milk mystery bag silent print foil enroll gospel puppy rule choose sort";

@@ -1,1 +1,1 @@
-var mnemonic = "double ancient plastic casual awful tragic trim diamond nose despair lawn good";
+var mnemonic = "float extra sea bamboo vague rug awake forward master ask inside addict";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram thunder round chronic super upon oval sister siren drop sadness such";
+var mnemonic = "hedgehog caution hire square message federal churn humble toddler pioneer circle blossom";

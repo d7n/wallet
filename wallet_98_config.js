@@ -1,1 +1,1 @@
-var mnemonic = "suspect cash gravity picnic cause question ozone pattern speed dentist traffic grace";
+var mnemonic = "flip divide budget that siren vacuum sphere woman embark snack spider actor";

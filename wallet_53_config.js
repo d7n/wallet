@@ -1,1 +1,1 @@
-var mnemonic = "toddler author shuffle symbol deny spider top input cattle category cover expose";
+var mnemonic = "transfer language emotion mad sign bike soul oak grow basic wisdom bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll range father enact alien key true fancy atom arrive flee hunt";
+var mnemonic = "zero olympic advance ripple circle alarm mouse scale where arrow already snap";

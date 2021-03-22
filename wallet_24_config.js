@@ -1,1 +1,1 @@
-var mnemonic = "dismiss wing pride brisk social educate since era skull gasp diesel ugly";
+var mnemonic = "grab saddle napkin pony loyal rate harbor crash color busy swamp speak";

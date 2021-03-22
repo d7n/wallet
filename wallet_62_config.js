@@ -1,1 +1,1 @@
-var mnemonic = "fruit subject cream maple dumb opera cook build refuse card ribbon solar";
+var mnemonic = "script exotic oxygen grass upset move right update luxury surface soft cereal";

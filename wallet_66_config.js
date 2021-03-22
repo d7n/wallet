@@ -1,1 +1,1 @@
-var mnemonic = "say total cloth valve distance blade measure hawk element control kit spy";
+var mnemonic = "maze just gym scale palm cry shuffle grit liquid choose system grid";

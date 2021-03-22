@@ -1,1 +1,1 @@
-var mnemonic = "dynamic this write tent wave false culture drink quiz tobacco earn crucial";
+var mnemonic = "join room flash dawn mosquito total kit material parrot nose left author";

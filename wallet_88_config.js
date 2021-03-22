@@ -1,1 +1,1 @@
-var mnemonic = "shadow lake clap catalog stone track print round because winter category endless";
+var mnemonic = "perfect climb fabric patient element leaf cage shaft cradle blush swear master";

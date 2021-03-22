@@ -1,1 +1,1 @@
-var mnemonic = "wreck paddle bullet trick pipe weapon fork material allow meadow spin pottery";
+var mnemonic = "chronic envelope success shine crack result bike lecture abandon ocean polar flame";

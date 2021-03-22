@@ -1,1 +1,1 @@
-var mnemonic = "tissue bulk treat exclude oxygen grant impose veteran guilt swap trick letter";
+var mnemonic = "actor fork spare muffin olympic blouse gloom you meadow want blouse name";

@@ -1,1 +1,1 @@
-var mnemonic = "calm brief monkey thank exhaust soon dance tooth trap monster canal slow";
+var mnemonic = "sunny profit awful nut pave bargain umbrella cable history remove tobacco whip";

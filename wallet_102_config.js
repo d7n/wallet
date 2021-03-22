@@ -1,1 +1,1 @@
-var mnemonic = "mail shift deal ketchup achieve increase large bottom garden subject road arm";
+var mnemonic = "display scene swear patrol finish flavor alert insect example annual maze cannon";

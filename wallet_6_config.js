@@ -1,1 +1,1 @@
-var mnemonic = "any under stool argue surprise grunt hidden hair lock junior simple pull";
+var mnemonic = "frame misery twist vintage potato human stairs large unique lucky own room";

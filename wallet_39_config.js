@@ -1,1 +1,1 @@
-var mnemonic = "reason toilet asthma hub situate push liquid hat spider size deputy pencil";
+var mnemonic = "prevent glass brown creek then acquire pupil crew twice panda ticket road";

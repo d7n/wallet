@@ -1,1 +1,1 @@
-var mnemonic = "nut spoil mail type beyond since hammer level gospel witness suit smooth";
+var mnemonic = "fatal smart rich voice throw wine powder spot occur dry fiscal chuckle";

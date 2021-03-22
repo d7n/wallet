@@ -1,1 +1,1 @@
-var mnemonic = "clown blade pond warrior nose patrol ramp omit wood raise narrow lion";
+var mnemonic = "lecture process announce close item refuse swear destroy cliff shallow own venture";

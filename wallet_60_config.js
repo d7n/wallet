@@ -1,1 +1,1 @@
-var mnemonic = "embody fold rebuild aerobic tennis cute enough behave during job decrease miracle";
+var mnemonic = "lawsuit blood yard popular now word pair open bonus install tip toy";

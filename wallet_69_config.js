@@ -1,1 +1,1 @@
-var mnemonic = "design trend meat dwarf elephant vanish fly rubber gossip cheap eye business";
+var mnemonic = "round tape flower gift minute bounce travel quantum nurse wreck essence either";

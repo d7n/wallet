@@ -1,1 +1,1 @@
-var mnemonic = "keep race humble latin face energy depend reason dad link betray equal";
+var mnemonic = "student wife secret caution reason abstract bind insane noble glove almost picture";

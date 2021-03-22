@@ -1,1 +1,1 @@
-var mnemonic = "pole since bonus flavor fire drum theory animal sunset cruel struggle urban";
+var mnemonic = "siege rotate art document hand knife appear wall glimpse winter employ inform";

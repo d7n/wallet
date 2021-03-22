@@ -1,1 +1,1 @@
-var mnemonic = "outdoor trophy immense bless artist gain retreat segment window body theme couple";
+var mnemonic = "rally sing pave jazz fat use chef exclude sun minute spring quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "forest device topple gold relax twin purchase athlete run bounce sun search";
+var mnemonic = "eye rally digital tragic detail cart bread prison hover sting helmet witness";

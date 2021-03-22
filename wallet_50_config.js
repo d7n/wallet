@@ -1,1 +1,1 @@
-var mnemonic = "nothing disagree three danger until stereo monitor trouble wisdom trigger venue reduce";
+var mnemonic = "among lumber fiscal attack like subway melody man dolphin rigid situate position";

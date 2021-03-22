@@ -1,1 +1,1 @@
-var mnemonic = "clown pair woman blur gentle mix warfare kiss stuff return smooth dutch";
+var mnemonic = "blur drill repeat skill shrimp bleak cross occur jacket letter discover need";

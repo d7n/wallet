@@ -1,1 +1,1 @@
-var mnemonic = "permit satisfy always unable myth dice note social crash deer steak bag";
+var mnemonic = "before transfer celery pilot fold have floor bonus bone inhale naive during";

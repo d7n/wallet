@@ -1,1 +1,1 @@
-var mnemonic = "wire vacuum cattle boat panic season letter develop weather radio pyramid force";
+var mnemonic = "trophy lyrics auction hundred goddess blast measure expand myth cloud invest wide";

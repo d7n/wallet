@@ -1,1 +1,1 @@
-var mnemonic = "summer garbage pond ancient peasant position regular next sudden team then bone";
+var mnemonic = "praise dove rely whale render page senior lumber grain shoot film erosion";

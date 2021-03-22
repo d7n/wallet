@@ -1,1 +1,1 @@
-var mnemonic = "deal report feel disease wait load stumble dentist adapt nut general bus";
+var mnemonic = "shop crew dad fortune ski quiz speed will candy zoo above pond";

@@ -1,1 +1,1 @@
-var mnemonic = "such misery lake own addict tortoise lawn pole where unhappy unaware ethics";
+var mnemonic = "quote comfort depth across rare soda another invite dune judge loud client";

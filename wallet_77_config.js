@@ -1,1 +1,1 @@
-var mnemonic = "gasp ahead say drama sign swallow attend damp spell matrix base minimum";
+var mnemonic = "long slow mean ginger crop basket embrace east tongue sell ill hold";

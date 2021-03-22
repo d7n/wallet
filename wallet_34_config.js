@@ -1,1 +1,1 @@
-var mnemonic = "soccer much cigar enhance dust route orient pen circle beauty tone ribbon";
+var mnemonic = "dial explain panel stone adult enroll drastic bread slab remain yard solve";

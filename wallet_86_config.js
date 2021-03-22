@@ -1,1 +1,1 @@
-var mnemonic = "quality jar sentence garlic viable actress chunk minor hazard october wrap achieve";
+var mnemonic = "lend federal radar scout play digital unlock predict pig concert perfect casino";

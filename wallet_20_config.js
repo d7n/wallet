@@ -1,1 +1,1 @@
-var mnemonic = "tail quarter strategy fatal high fun scan novel flavor kick urban acquire";
+var mnemonic = "fault twin eyebrow whisper thing pigeon wrist ability rather olive paddle nominee";

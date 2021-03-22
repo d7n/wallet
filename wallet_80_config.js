@@ -1,1 +1,1 @@
-var mnemonic = "truly render drama jacket ghost trim where present jump bunker airport save";
+var mnemonic = "bargain arena sponsor truly coral whip taste agent sort citizen tomorrow pass";

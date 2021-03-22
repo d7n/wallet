@@ -1,1 +1,1 @@
-var mnemonic = "length share lemon raccoon crumble expect snow grass check drama judge fun";
+var mnemonic = "audit hold soul senior owner limit scrap laugh predict maple obscure evolve";

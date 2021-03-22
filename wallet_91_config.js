@@ -1,1 +1,1 @@
-var mnemonic = "relief wood thunder wet pupil six finger become dash wool uniform father";
+var mnemonic = "benefit primary door seven narrow position champion can artefact riot glad time";

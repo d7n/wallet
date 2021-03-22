@@ -1,1 +1,1 @@
-var mnemonic = "whisper captain logic defy slogan leader mother bone slim arch effort damp";
+var mnemonic = "search useless rapid balance screen loyal very pipe wheat girl lawsuit casino";

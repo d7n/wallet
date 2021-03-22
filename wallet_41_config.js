@@ -1,1 +1,1 @@
-var mnemonic = "picnic dish alpha actress host blood fix cigar erode wasp stand van";
+var mnemonic = "poem define loyal diesel excess muscle edit shuffle thumb kitten riot spoil";

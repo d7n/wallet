@@ -1,1 +1,1 @@
-var mnemonic = "assist purchase breeze skill trust action floor grab engine approve cancel main";
+var mnemonic = "zero door ice verify disease fortune quick exit float gas run harsh";

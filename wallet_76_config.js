@@ -1,1 +1,1 @@
-var mnemonic = "approve crash barrel visual warm harvest fatigue feel unique sorry session labor";
+var mnemonic = "select replace hire fence valve fortune fabric model check solution pledge space";

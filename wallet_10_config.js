@@ -1,1 +1,1 @@
-var mnemonic = "park rack sun pluck gentle surround trophy foil acoustic salon special chuckle";
+var mnemonic = "dignity fork matter van mind brisk victory issue dust giggle raise faint";

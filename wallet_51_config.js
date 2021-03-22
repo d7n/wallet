@@ -1,1 +1,1 @@
-var mnemonic = "column eye illness school dry photo shaft corn current battle middle day";
+var mnemonic = "cluster nuclear route oxygen sister flight cheap eternal cabbage fish this library";

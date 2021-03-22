@@ -1,1 +1,1 @@
-var mnemonic = "later bench large cupboard reject pipe hospital among soda ecology cycle gain";
+var mnemonic = "remove dash remain uniform chicken struggle immune female nerve pudding jaguar wink";

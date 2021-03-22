@@ -1,1 +1,1 @@
-var mnemonic = "ecology cliff color visa juice fault tube latin round left settle anchor";
+var mnemonic = "midnight donate strategy gravity next sustain above relief north merry small enlist";
