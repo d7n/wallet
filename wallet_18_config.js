@@ -1,1 +1,1 @@
-var mnemonic = "ensure car acid web cube december patrol coach feel rival mountain truly";
+var mnemonic = "call hood voyage table gauge orchard notable room milk planet powder dream";

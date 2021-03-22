@@ -1,1 +1,1 @@
-var mnemonic = "float ramp deer walnut defy race pole boring trouble topple soda snow";
+var mnemonic = "marriage monkey adult genre delay detect great awkward obscure prosper shock canoe";

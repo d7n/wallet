@@ -1,1 +1,1 @@
-var mnemonic = "stock plug veteran obvious ordinary mystery predict leave cabin clever toast sure";
+var mnemonic = "bus lyrics blood unfold render turkey forum end vote shadow sad canvas";

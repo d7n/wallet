@@ -1,1 +1,1 @@
-var mnemonic = "matter tortoise reveal calm spray soldier grid kiwi outdoor bunker tip glad";
+var mnemonic = "exhaust minute garage divide clutch behave chapter grid ladder rally slam next";

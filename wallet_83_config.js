@@ -1,1 +1,1 @@
-var mnemonic = "burger seven mandate blouse help soft truth vital visa absurd hire name";
+var mnemonic = "ski neck unfair screen action zone inner high dignity noise gasp ticket";

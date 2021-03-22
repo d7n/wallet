@@ -1,1 +1,1 @@
-var mnemonic = "soon derive mystery joy describe slice install domain pear garment teach desert";
+var mnemonic = "bag session goddess drama fatigue grape consider below palace upper never can";

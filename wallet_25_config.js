@@ -1,1 +1,1 @@
-var mnemonic = "salmon jump much sponsor catalog first reflect lyrics calm skill endless injury";
+var mnemonic = "virtual motor abstract cause three forum term rubber knee cook fat upgrade";

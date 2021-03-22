@@ -1,1 +1,1 @@
-var mnemonic = "rare chimney urge daring head attract aunt fade prepare clump sheriff fever";
+var mnemonic = "legal holiday marriage breeze deposit powder roof hurt cream frequent puppy endorse";

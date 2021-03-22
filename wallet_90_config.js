@@ -1,1 +1,1 @@
-var mnemonic = "often match woman merge critic atom jewel ten photo reopen almost ecology";
+var mnemonic = "future heavy wheel valid neck chuckle idea capital outer brush recipe announce";

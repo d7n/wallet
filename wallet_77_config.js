@@ -1,1 +1,1 @@
-var mnemonic = "retreat fog ketchup potato borrow ride super own piece stadium gadget attend";
+var mnemonic = "fun judge try stock range tray true oven escape lend sweet draft";

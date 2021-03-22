@@ -1,1 +1,1 @@
-var mnemonic = "runway ordinary inherit friend prepare amateur dwarf matrix battle sausage spot original";
+var mnemonic = "avoid cereal fire purse useless fit entire orphan grief hospital expect maximum";

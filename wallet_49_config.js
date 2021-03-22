@@ -1,1 +1,1 @@
-var mnemonic = "torch abandon dune yard finish castle violin cruel peasant boost venue fall";
+var mnemonic = "bracket shallow behind swarm zone beyond fat merge siege marriage orange tide";

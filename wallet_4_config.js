@@ -1,1 +1,1 @@
-var mnemonic = "license piece illness spray horn spoil exercise online inject venue royal fitness";
+var mnemonic = "other wheel eyebrow evoke enhance apart baby elevator clutch famous pool air";

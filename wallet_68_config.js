@@ -1,1 +1,1 @@
-var mnemonic = "abuse primary vault rack alert insane horn script gloom special hobby smooth";
+var mnemonic = "wine embark winter evolve zone peasant announce fancy country genius fall sadness";

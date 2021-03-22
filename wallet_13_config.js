@@ -1,1 +1,1 @@
-var mnemonic = "predict hedgehog clay hour egg zoo mention stuff identify twin panic shell";
+var mnemonic = "glance empty dentist various tomorrow flight across add fall later insane unaware";

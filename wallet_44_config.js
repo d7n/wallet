@@ -1,1 +1,1 @@
-var mnemonic = "enable until ice outside slight inflict prefer soft tongue ill service cricket";
+var mnemonic = "antique note river hire two until observe recipe idle wait begin crack";

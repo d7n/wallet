@@ -1,1 +1,1 @@
-var mnemonic = "boat middle domain car globe stairs high lake cluster much section ride";
+var mnemonic = "digital rack purpose gather dizzy useful price quit rocket source page gorilla";

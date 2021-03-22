@@ -1,1 +1,1 @@
-var mnemonic = "similar average gadget match endless gentle horse rhythm elder whisper glad grab";
+var mnemonic = "maple member system original enable remind jealous educate replace mom coil donate";

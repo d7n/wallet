@@ -1,1 +1,1 @@
-var mnemonic = "flush gun depart cruel crowd boost stuff hope cage receive flush yellow";
+var mnemonic = "balcony tell glad lady unfair inform antique brush camera clap ahead bacon";

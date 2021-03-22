@@ -1,1 +1,1 @@
-var mnemonic = "chunk venture evidence situate wheat swear below leaf symptom giraffe aisle total";
+var mnemonic = "source eagle return forum spoon claim auto fringe vacuum inhale elder multiply";

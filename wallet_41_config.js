@@ -1,1 +1,1 @@
-var mnemonic = "naive novel place pumpkin picture blue connect indoor nasty hover sniff guide";
+var mnemonic = "vessel avoid prize sense tide increase nominee pen stadium cream fold hip";

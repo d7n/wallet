@@ -1,1 +1,1 @@
-var mnemonic = "mobile arctic during oxygen army innocent drama indoor satisfy peasant move must";
+var mnemonic = "patch pill surface size palm embody drastic bar labor trim survey ensure";

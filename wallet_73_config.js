@@ -1,1 +1,1 @@
-var mnemonic = "leave circle prison banner turtle old discover field inch urban enroll blue";
+var mnemonic = "pluck twist athlete guess weather urge virtual beyond dose protect exercise essay";

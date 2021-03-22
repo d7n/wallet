@@ -1,1 +1,1 @@
-var mnemonic = "estate million rug aspect review cushion impulse drum govern scorpion minor debris";
+var mnemonic = "raccoon canvas general evoke amazing trip spot canyon vibrant palm recipe design";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic stereo analyst eagle muscle peace inflict control cheese sea shield engage";
+var mnemonic = "raw engage chaos leg click clap unveil early disagree eight mystery math";

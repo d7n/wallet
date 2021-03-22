@@ -1,1 +1,1 @@
-var mnemonic = "argue van faculty truck liar target relief atom cousin deposit blouse eternal";
+var mnemonic = "gossip trophy skull yard actress one rival profit artwork exit time casino";

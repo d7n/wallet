@@ -1,1 +1,1 @@
-var mnemonic = "ladder lawsuit vintage render fall sketch try attend retire dwarf chalk amused";
+var mnemonic = "heavy basket suspect armor denial number property anxiety ship about bus cheese";

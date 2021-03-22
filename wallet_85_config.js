@@ -1,1 +1,1 @@
-var mnemonic = "artist glory cup obey pizza artwork limit minor alpha crack orient excess";
+var mnemonic = "latin glove remove month recall behave eagle latin bone chalk grit reopen";

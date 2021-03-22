@@ -1,1 +1,1 @@
-var mnemonic = "aerobic wall grab huge ketchup swim tenant square virus toilet plastic payment";
+var mnemonic = "mention mule cross napkin basic spirit matrix dune elegant cancel fall mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "boss loan warfare enforce grab cry column crew since laundry rare math";
+var mnemonic = "subway reflect circle pear fancy inflict phrase immense park gorilla coach humor";

@@ -1,1 +1,1 @@
-var mnemonic = "inject bunker vacant silly horn discover cattle load come alarm wide hen";
+var mnemonic = "intact bracket bronze fetch vibrant family client spring clerk coconut omit grain";

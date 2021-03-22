@@ -1,1 +1,1 @@
-var mnemonic = "measure course change wood public orange conduct volume oyster plastic want wet";
+var mnemonic = "outer lawn bleak unable machine blue position rotate box neither abstract cause";

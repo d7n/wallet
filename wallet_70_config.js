@@ -1,1 +1,1 @@
-var mnemonic = "wear move scout sheriff police brown party omit urge word grab fitness";
+var mnemonic = "inject visit chef vanish public august concert gloom nation wear fine kingdom";

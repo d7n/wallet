@@ -1,1 +1,1 @@
-var mnemonic = "simple toddler garbage visual rotate consider urban exact rocket belt fish second";
+var mnemonic = "dolphin illegal proud excess sun record rookie rude staff employ ivory absurd";

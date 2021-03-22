@@ -1,1 +1,1 @@
-var mnemonic = "horn orient assault tail write roof winter column naive canal water husband";
+var mnemonic = "kitten matter remain town guard submit dream bottom image puppy dolphin monster";

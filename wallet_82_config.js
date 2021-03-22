@@ -1,1 +1,1 @@
-var mnemonic = "trouble online fit mother visit sure north tail rib please goat amused";
+var mnemonic = "because sense jungle option creek space aware topic people refuse report random";

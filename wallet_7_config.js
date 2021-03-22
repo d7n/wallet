@@ -1,1 +1,1 @@
-var mnemonic = "lounge smile lady lizard cousin night sort identify crime diary able abstract";
+var mnemonic = "holiday shock error pole flash tenant address garden ceiling quiz limb enhance";

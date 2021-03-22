@@ -1,1 +1,1 @@
-var mnemonic = "speed inhale pool fashion organ find kit multiply abstract outside bamboo pretty";
+var mnemonic = "advance ocean ancient curious install cinnamon animal ostrich arrow skirt hammer second";

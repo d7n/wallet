@@ -1,1 +1,1 @@
-var mnemonic = "three wife exclude elder truck soul interest carbon climb armor cement truly";
+var mnemonic = "general now raven rule drop hen monitor female keen print warrior ball";

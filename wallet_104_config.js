@@ -1,1 +1,1 @@
-var mnemonic = "neither chief hybrid meadow elevator rare nose horn crawl height slogan emerge";
+var mnemonic = "drill match hen welcome leader symbol urban gain wise chunk manage core";

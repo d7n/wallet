@@ -1,1 +1,1 @@
-var mnemonic = "warrior regular awkward arrow maid public scan unable solid mimic warfare useless";
+var mnemonic = "return cancel fork confirm dinner security dove fortune fortune decide manage outer";

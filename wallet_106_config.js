@@ -1,1 +1,1 @@
-var mnemonic = "syrup country flower first diet attitude refuse thumb lake parrot that cool";
+var mnemonic = "gesture permit boost recall great wash tumble pen blind tenant avoid offer";

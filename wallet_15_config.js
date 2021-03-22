@@ -1,1 +1,1 @@
-var mnemonic = "run rescue casino scrub provide scout address camera vague voyage help unknown";
+var mnemonic = "tongue jazz disease usage tomorrow artefact entry coast leg isolate future bachelor";

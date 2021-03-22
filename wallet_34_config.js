@@ -1,1 +1,1 @@
-var mnemonic = "security hat pistol inform tail hammer post library vacuum time fault barely";
+var mnemonic = "very bonus bean insane veteran insect place treat jewel narrow idea answer";

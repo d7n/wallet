@@ -1,1 +1,1 @@
-var mnemonic = "seven copper harvest push found only assist isolate bicycle predict crumble account";
+var mnemonic = "coconut boss place dice lounge onion slogan option disorder nephew chuckle ring";

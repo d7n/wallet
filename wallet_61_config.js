@@ -1,1 +1,1 @@
-var mnemonic = "repair stomach hip snap magnet surprise aware agree later earn morning bomb";
+var mnemonic = "audit render student segment satoshi random rich lizard scan absurd know unit";

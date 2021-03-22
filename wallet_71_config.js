@@ -1,1 +1,1 @@
-var mnemonic = "extra pumpkin flee solid surprise hundred february initial then nut mask acquire";
+var mnemonic = "little page lava country length clock mask sword relief lottery system sure";

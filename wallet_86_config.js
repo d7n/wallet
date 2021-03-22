@@ -1,1 +1,1 @@
-var mnemonic = "upgrade hurry animal loud clay toss push media gift lawn whale minimum";
+var mnemonic = "air oppose deposit parent present either deputy dynamic snack loop either year";

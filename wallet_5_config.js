@@ -1,1 +1,1 @@
-var mnemonic = "sphere divert track bird pride swarm flush crisp mango shuffle ride rally";
+var mnemonic = "produce keen ramp physical garden battle swear rich claim acquire genius thank";

@@ -1,1 +1,1 @@
-var mnemonic = "waste flame blind audit ignore lion next mail destroy pear ramp valid";
+var mnemonic = "vessel naive path ship ugly brass crumble rival avocado region into hollow";

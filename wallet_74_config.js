@@ -1,1 +1,1 @@
-var mnemonic = "limb wonder mountain night text broom crop sunset child bridge resemble grow";
+var mnemonic = "transfer powder attend spoon area first torch left opinion symptom scale slide";

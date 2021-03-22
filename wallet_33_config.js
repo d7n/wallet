@@ -1,1 +1,1 @@
-var mnemonic = "fiction grow family math carbon deposit denial slam improve rabbit uncover current";
+var mnemonic = "report twelve cup cruel jungle tooth noise humor toast load disagree seed";

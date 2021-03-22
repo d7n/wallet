@@ -1,1 +1,1 @@
-var mnemonic = "riot frog rule genuine olympic worth marine sure supreme raven vintage tennis";
+var mnemonic = "rally gold victory absent street buyer consider steel theme surface recipe goat";

@@ -1,1 +1,1 @@
-var mnemonic = "price sauce remove modify inmate step neither alley gospel language spring near";
+var mnemonic = "december weekend firm position dice mind club fatigue addict path warm sing";

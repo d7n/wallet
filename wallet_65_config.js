@@ -1,1 +1,1 @@
-var mnemonic = "correct rail paper mushroom call grace able dilemma around hungry witness mansion";
+var mnemonic = "amused number slide attitude this prison room popular segment long valid smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch master huge include kangaroo trade quote tuna either direct diamond ugly";
+var mnemonic = "decrease burst broccoli crazy ocean control like beef spirit dolphin garden loyal";

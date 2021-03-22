@@ -1,1 +1,1 @@
-var mnemonic = "attract theme snap brush little blade curve flat cancel state live profit";
+var mnemonic = "prevent sign will slush armed dirt stick entire curtain like anchor trumpet";

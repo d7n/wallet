@@ -1,1 +1,1 @@
-var mnemonic = "economy struggle wrist weird group detect announce giraffe thank panther pupil sun";
+var mnemonic = "clock boring solve diary perfect spoil because icon jealous outdoor method crumble";

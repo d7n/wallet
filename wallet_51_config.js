@@ -1,1 +1,1 @@
-var mnemonic = "soccer amazing force future laugh monkey banana escape panther version elbow change";
+var mnemonic = "toy budget twenty exile bundle antique search connect ahead hundred dial learn";

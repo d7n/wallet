@@ -1,1 +1,1 @@
-var mnemonic = "square cotton warrior lizard gallery differ derive embody cross barrel abstract innocent";
+var mnemonic = "parrot cream enter have father october pair retreat winner drop jacket abandon";

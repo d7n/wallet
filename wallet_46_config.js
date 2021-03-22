@@ -1,1 +1,1 @@
-var mnemonic = "route human drink morning unfold churn rebel kitchen fresh resist sentence hour";
+var mnemonic = "utility scheme inside seat rally hammer blouse same tuna elevator exhaust neck";

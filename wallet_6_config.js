@@ -1,1 +1,1 @@
-var mnemonic = "nest taxi april chicken someone garden honey animal bracket sword cruel trial";
+var mnemonic = "cherry mosquito business repair sniff tag merge penalty empty goddess drive dignity";

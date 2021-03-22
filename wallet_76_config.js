@@ -1,1 +1,1 @@
-var mnemonic = "virus miss record cost own dry luxury code muscle method embark health";
+var mnemonic = "result unable admit arrange wedding promote trip soul crane receive glad entry";

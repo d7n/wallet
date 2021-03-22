@@ -1,1 +1,1 @@
-var mnemonic = "lawn when carry about devote general kid fitness brush moral symptom amount";
+var mnemonic = "upset mistake obtain gaze cargo lock jewel tooth thought term tragic earn";

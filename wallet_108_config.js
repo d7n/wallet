@@ -1,1 +1,1 @@
-var mnemonic = "bike fix cousin staff employ blame boat burden seed enemy record amount";
+var mnemonic = "problem man follow economy pass liberty pottery village orchard rubber column dignity";

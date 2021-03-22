@@ -1,1 +1,1 @@
-var mnemonic = "slide high social staff sadness dilemma large pizza resist grow shoot provide";
+var mnemonic = "repair employ range engage select plastic common earn history veteran resource fiction";

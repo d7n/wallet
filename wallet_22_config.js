@@ -1,1 +1,1 @@
-var mnemonic = "spike page diary tooth harvest frequent vast fiscal affair health state subject";
+var mnemonic = "material strategy utility dress grass grass hotel baby isolate dust pause movie";

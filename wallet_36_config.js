@@ -1,1 +1,1 @@
-var mnemonic = "trial candy mobile color peace grocery amazing address hip discover object cattle";
+var mnemonic = "case avocado pupil lock slice catalog inject supply grid setup theme tuition";

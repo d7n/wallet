@@ -1,1 +1,1 @@
-var mnemonic = "ranch print public mobile mystery transfer balcony pulp ignore know neglect tunnel";
+var mnemonic = "busy range vibrant festival flock funny fine neglect tribe wish kingdom inhale";

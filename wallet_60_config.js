@@ -1,1 +1,1 @@
-var mnemonic = "wrestle blur flash hire pig equal differ unfold autumn emotion dinner group";
+var mnemonic = "kidney hurt where art glue orange blanket depart stool chat debris kind";

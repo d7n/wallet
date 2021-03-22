@@ -1,1 +1,1 @@
-var mnemonic = "please smile tip later toe wet comic planet tiny aisle nephew major";
+var mnemonic = "friend garage lounge achieve merit robot void alert brave margin term beyond";

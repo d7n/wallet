@@ -1,1 +1,1 @@
-var mnemonic = "finish select dog primary series margin erosion split poverty asthma mountain potato";
+var mnemonic = "unaware fine volcano quality awful ostrich toe office quantum fix news voice";

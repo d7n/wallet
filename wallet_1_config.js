@@ -1,1 +1,1 @@
-var mnemonic = "helmet what hundred pave member sudden amount doll live huge recipe benefit";
+var mnemonic = "figure wish castle degree hurdle snap until raccoon salmon leopard airport mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "pact simple lawsuit exclude similar lottery economy early reflect option certain hope";
+var mnemonic = "clock teach enrich science enhance wagon animal skill post solid escape kitten";

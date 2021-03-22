@@ -1,1 +1,1 @@
-var mnemonic = "boat snap wear slush cage salon birth attack buddy surface benefit twelve";
+var mnemonic = "skin photo celery adjust setup sail bike powder shove toddler napkin pass";

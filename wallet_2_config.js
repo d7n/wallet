@@ -1,1 +1,1 @@
-var mnemonic = "parent casual exact rubber pulse demise cause exist betray bird setup orbit";
+var mnemonic = "panel custom type swift front sustain lend census faculty craft group govern";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi vocal fly empty tank soul subway ticket chapter that market castle";
+var mnemonic = "minimum genuine fame fetch outdoor toy joke design prize cook plastic decade";

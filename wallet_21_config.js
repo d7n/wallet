@@ -1,1 +1,1 @@
-var mnemonic = "ankle agree leg roast crash airport move rare picture fork bench medal";
+var mnemonic = "grid canvas bottom bottom disagree replace metal bamboo dentist property inner lemon";

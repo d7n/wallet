@@ -1,1 +1,1 @@
-var mnemonic = "relief raven quantum chief lady usual judge easy bamboo pair limit dumb";
+var mnemonic = "together awesome note core flash used favorite clock capable early dice brain";

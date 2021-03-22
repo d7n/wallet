@@ -1,1 +1,1 @@
-var mnemonic = "traffic daring scheme stove quick misery boil sorry depart unfold actress quality";
+var mnemonic = "senior visual monster leader february strike someone mask letter gauge drip tomorrow";

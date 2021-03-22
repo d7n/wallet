@@ -1,1 +1,1 @@
-var mnemonic = "unique double sniff theme rifle cycle forest electric equip top age tube";
+var mnemonic = "leaf purse push hurry hidden wet glad pact system run egg limit";

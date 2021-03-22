@@ -1,1 +1,1 @@
-var mnemonic = "flash rely chase picnic letter equip venture connect mystery virtual famous balance";
+var mnemonic = "globe roast elite bright slow skull dial expect pepper team tank gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "skull minor nose impose submit speed human song sudden nuclear distance charge";
+var mnemonic = "dad cancel bachelor mom tree long note mad fat firm stairs online";

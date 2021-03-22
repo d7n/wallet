@@ -1,1 +1,1 @@
-var mnemonic = "palm range bread vivid merry rural globe dragon indoor pretty zoo live";
+var mnemonic = "slot doll grunt rapid soldier apology float special gossip subway snake future";

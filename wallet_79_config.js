@@ -1,1 +1,1 @@
-var mnemonic = "vessel middle delay boring reject reopen what leaf goddess mean this can";
+var mnemonic = "engine future baby cover champion attract wood october fence suspect upon ring";

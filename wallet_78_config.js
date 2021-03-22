@@ -1,1 +1,1 @@
-var mnemonic = "neutral riot they point soldier witness banana metal edit weapon glory room";
+var mnemonic = "bonus tomato share february attitude scout wreck forget achieve artist obscure cabbage";

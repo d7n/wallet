@@ -1,1 +1,1 @@
-var mnemonic = "merit sound west gaze renew decline goddess cotton hero drop relief effort";
+var mnemonic = "pulse faith ceiling damage potato guess faculty brief blast oval swallow machine";

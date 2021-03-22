@@ -1,1 +1,1 @@
-var mnemonic = "foster hobby solution exclude distance olive south sunset acid hello evoke language";
+var mnemonic = "main nasty demise family squeeze exercise invite odor eager nerve cat slight";

@@ -1,1 +1,1 @@
-var mnemonic = "art spice section observe diary comic mixture wild distance glass surge aerobic";
+var mnemonic = "custom slot stumble luggage slogan label voyage polar right autumn cabin vacant";

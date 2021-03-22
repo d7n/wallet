@@ -1,1 +1,1 @@
-var mnemonic = "motor that hole debris public crowd current level pride position forget october";
+var mnemonic = "sentence come stumble legend wet hint reflect huge shed sting jewel deal";
