@@ -1,1 +1,1 @@
-var mnemonic = "brick sugar humor rotate useless seminar stick sudden aware ramp salt core";
+var mnemonic = "apology hat grab entry toddler vicious labor spring acquire chase food jewel";

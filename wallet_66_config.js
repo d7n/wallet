@@ -1,1 +1,1 @@
-var mnemonic = "silk latin brief bless pledge finish aware motion write ramp clog sell";
+var mnemonic = "door coach autumn agent whale spike soda vehicle annual code frog assault";

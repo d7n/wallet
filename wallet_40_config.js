@@ -1,1 +1,1 @@
-var mnemonic = "elder ski tilt drastic share today distance industry fix bonus video afford";
+var mnemonic = "latin flock drama royal escape wide similar wool sail decorate belt metal";

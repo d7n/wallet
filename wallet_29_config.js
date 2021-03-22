@@ -1,1 +1,1 @@
-var mnemonic = "control cat defy segment satoshi water exit crew behave either resemble example";
+var mnemonic = "globe choose grape flush vessel assist soul lab hazard dinner afraid jewel";

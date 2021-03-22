@@ -1,1 +1,1 @@
-var mnemonic = "subway steak miracle staff impose coyote sweet twenty elite phrase beauty rival";
+var mnemonic = "meadow edit target verify inflict spare result occur nation arrow disagree view";

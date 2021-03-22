@@ -1,1 +1,1 @@
-var mnemonic = "tribe tattoo awesome write false sport oak again citizen wedding surround paper";
+var mnemonic = "arrest achieve poem coral midnight country staff latin chapter mercy judge slot";

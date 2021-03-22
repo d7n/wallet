@@ -1,1 +1,1 @@
-var mnemonic = "entry genius speak same display donkey hedgehog embark case power toilet measure";
+var mnemonic = "enable junk ice loyal episode wild priority razor whale food gasp visual";

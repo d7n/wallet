@@ -1,1 +1,1 @@
-var mnemonic = "best require fiber pupil enemy convince section siren write village evil shine";
+var mnemonic = "affair only swing clump wire million husband exit rapid ethics code attack";

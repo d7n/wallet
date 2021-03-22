@@ -1,1 +1,1 @@
-var mnemonic = "dinner conduct cool wool evil various shell thought volume same acquire tourist";
+var mnemonic = "glare hurt indicate vague ugly useless lawsuit sister mansion beach island ridge";

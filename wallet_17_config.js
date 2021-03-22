@@ -1,1 +1,1 @@
-var mnemonic = "rifle check winter unfold annual notable subway solar purse gain toast fetch";
+var mnemonic = "deer devote unlock umbrella frog suspect segment ice nose trade lion slight";

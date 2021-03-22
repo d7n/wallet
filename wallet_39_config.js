@@ -1,1 +1,1 @@
-var mnemonic = "over write move position panther you mixture nuclear weapon pony cannon what";
+var mnemonic = "nothing mistake poet armed obscure crime logic before tongue board family siege";

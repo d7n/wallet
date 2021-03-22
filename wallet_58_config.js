@@ -1,1 +1,1 @@
-var mnemonic = "leave electric rice limit power resource best run coyote sail enter erode";
+var mnemonic = "hollow face nut fall shoe grief era speak people ankle silent retire";

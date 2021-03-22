@@ -1,1 +1,1 @@
-var mnemonic = "ceiling grow damage refuse afford dwarf brief forward method report squeeze feel";
+var mnemonic = "taste across jungle giraffe awesome ostrich elevator orphan link grass divide survey";

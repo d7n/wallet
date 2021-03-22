@@ -1,1 +1,1 @@
-var mnemonic = "accident nerve language chaos phrase found icon either opinion lesson deer card";
+var mnemonic = "mask title alley reduce move float toddler sell begin scheme aunt useful";

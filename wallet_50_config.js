@@ -1,1 +1,1 @@
-var mnemonic = "fire inside collect ghost hope paddle margin orbit noise domain believe neglect";
+var mnemonic = "oxygen despair blanket path solid good trade chicken bird tank focus wolf";

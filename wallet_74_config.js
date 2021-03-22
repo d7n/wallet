@@ -1,1 +1,1 @@
-var mnemonic = "category inquiry weekend cousin wheat unveil heart gadget ripple hockey stereo owner";
+var mnemonic = "misery praise view express future taste message picnic absent entry census convince";

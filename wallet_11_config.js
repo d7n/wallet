@@ -1,1 +1,1 @@
-var mnemonic = "unable clutch dentist middle genre resemble silk unknown drip sure siren scene";
+var mnemonic = "shoot olive echo inner album spring child beyond domain model goddess check";

@@ -1,1 +1,1 @@
-var mnemonic = "label home bench dial example fancy angle shrug achieve level child top";
+var mnemonic = "lucky peace flat ceiling juice base innocent large reason jump tree cinnamon";

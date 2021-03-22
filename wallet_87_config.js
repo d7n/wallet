@@ -1,1 +1,1 @@
-var mnemonic = "skate dice shiver more upset random climb split flat about hat reopen";
+var mnemonic = "biology there aim few theme consider thunder right rigid merge ancient tide";

@@ -1,1 +1,1 @@
-var mnemonic = "history corn distance code slam brand rack squirrel useful lunch illness border";
+var mnemonic = "hand open hundred nurse birth swap license word middle easy witness position";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet skull balcony buzz now chef genuine finger roast depart medal defy";
+var mnemonic = "mechanic mimic grit ski seed jazz inch deliver claw popular sure parent";

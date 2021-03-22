@@ -1,1 +1,1 @@
-var mnemonic = "permit wild sniff grass episode cannon pool nut wire kite pipe color";
+var mnemonic = "gate someone blue fiction collect imitate million witness age village evoke uphold";

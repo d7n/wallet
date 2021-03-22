@@ -1,1 +1,1 @@
-var mnemonic = "album tank tobacco casino auto tunnel huge clinic travel spatial about execute";
+var mnemonic = "vendor essay sniff swap march absorb betray copper grow where neutral remain";

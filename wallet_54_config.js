@@ -1,1 +1,1 @@
-var mnemonic = "diet leaf tiger struggle assist hollow globe bus mistake ability knock ostrich";
+var mnemonic = "crazy famous abuse palm purse anger leader bus below gun biology wire";

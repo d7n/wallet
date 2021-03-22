@@ -1,1 +1,1 @@
-var mnemonic = "spider rhythm crater slow illness slam field then obey defy index old";
+var mnemonic = "airport nature century upset noodle crane december alien gesture outdoor fine stomach";

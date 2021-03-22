@@ -1,1 +1,1 @@
-var mnemonic = "age area step holiday style inspire surge vintage toddler clog warfare sweet";
+var mnemonic = "evil rigid visa example inside injury advice river wheat lottery bulb destroy";

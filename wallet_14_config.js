@@ -1,1 +1,1 @@
-var mnemonic = "disagree elegant riot palace cake rhythm improve dolphin capital celery butter bar";
+var mnemonic = "bike surround gun figure burst obtain genre forum match trip dolphin sadness";

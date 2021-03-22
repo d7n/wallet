@@ -1,1 +1,1 @@
-var mnemonic = "champion slush adapt interest initial food rigid identify shuffle frog hurry angry";
+var mnemonic = "proof swallow alpha current relief name ginger truly minor organ badge nation";

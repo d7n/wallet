@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur auto angle destroy purchase develop cloud situate brief ticket agent small";
+var mnemonic = "portion lobster drastic matter follow depend sure side omit make cube shoot";

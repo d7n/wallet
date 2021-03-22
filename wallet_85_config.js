@@ -1,1 +1,1 @@
-var mnemonic = "program click snake use own jealous maid uniform flash virtual myth canyon";
+var mnemonic = "long obvious filter trigger bullet clay remain artist airport seven ginger nature";

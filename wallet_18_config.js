@@ -1,1 +1,1 @@
-var mnemonic = "spell vital fix usage corn candy balance bulb control clever network slight";
+var mnemonic = "board twenty pigeon nothing party exist planet spike tag raven fatal rule";

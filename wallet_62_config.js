@@ -1,1 +1,1 @@
-var mnemonic = "detect visual office announce olive furnace bomb salon phone gym roof spice";
+var mnemonic = "file anchor verify manual rain lemon found equal improve hello champion home";

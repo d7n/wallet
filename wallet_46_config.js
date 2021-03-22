@@ -1,1 +1,1 @@
-var mnemonic = "next exercise solar chunk year basic topple address damage attack rain taste";
+var mnemonic = "carbon element carbon recycle sorry rifle ginger cigar cargo pony damp pizza";

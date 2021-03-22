@@ -1,1 +1,1 @@
-var mnemonic = "appear uniform man express record teach bracket about work picnic solution spike";
+var mnemonic = "nominee climb bar ignore poem swim warm shy mail host image casual";

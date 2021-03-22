@@ -1,1 +1,1 @@
-var mnemonic = "work fatal love engine crime damage view meadow flip drop rabbit lecture";
+var mnemonic = "author caution icon wife lucky middle penalty garment civil involve budget release";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon slice deputy page fabric upper vault notable when can series figure";
+var mnemonic = "blue gallery erode ramp about voice vocal feel hard catalog dress rookie";

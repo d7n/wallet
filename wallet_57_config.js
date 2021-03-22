@@ -1,1 +1,1 @@
-var mnemonic = "into chief together farm bundle fashion drip scissors broken horse turtle surge";
+var mnemonic = "turkey develop degree fabric venture reveal lesson cargo swallow choose credit flee";

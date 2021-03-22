@@ -1,1 +1,1 @@
-var mnemonic = "expose satisfy use salmon cactus differ lake mail income frame reopen foam";
+var mnemonic = "coast size ride under female toast neutral hundred drill wedding ring inch";

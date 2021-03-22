@@ -1,1 +1,1 @@
-var mnemonic = "marine estate bench donor outer huge twist ugly goose street private battle";
+var mnemonic = "actual expire ankle oblige derive life patch wrestle mixture ticket beauty increase";

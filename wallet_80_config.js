@@ -1,1 +1,1 @@
-var mnemonic = "habit lab cliff morning horror hat gas bus pepper also captain pizza";
+var mnemonic = "surge risk gas drum exclude spare retreat together theory pupil kingdom ramp";

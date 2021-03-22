@@ -1,1 +1,1 @@
-var mnemonic = "mandate weather arrive clean farm input hen evoke talent flight school custom";
+var mnemonic = "gasp square true output famous chat pulp rebel weasel flower kiss scorpion";

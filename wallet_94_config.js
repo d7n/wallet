@@ -1,1 +1,1 @@
-var mnemonic = "vanish also resist hybrid apology undo wall roast virus cattle bright firm";
+var mnemonic = "custom jaguar leisure scare secret orchard affair mountain bulb accident hedgehog wolf";

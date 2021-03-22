@@ -1,1 +1,1 @@
-var mnemonic = "shove faculty real garlic dumb plunge final ten brush fashion cream canoe";
+var mnemonic = "rural calm liar satoshi valid strike sweet oval spirit theme shield century";

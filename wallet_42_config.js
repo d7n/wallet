@@ -1,1 +1,1 @@
-var mnemonic = "material neglect print brisk expand coffee visa give scare task slot fantasy";
+var mnemonic = "paper put when bamboo rely rival want year armed blade casual patrol";

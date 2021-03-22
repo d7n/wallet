@@ -1,1 +1,1 @@
-var mnemonic = "exotic recall caution harsh vessel soccer hill uphold act will end figure";
+var mnemonic = "purse method regret find upgrade impact wrist meat shaft end boy piece";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead because pistol own match rack ridge coin charge fluid thing century";
+var mnemonic = "grid math message raise robust pole mean economy eternal unlock duck recycle";

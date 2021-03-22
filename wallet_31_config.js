@@ -1,1 +1,1 @@
-var mnemonic = "simple antique media melody space another guess estate club banana flee reward";
+var mnemonic = "negative level ketchup base theme finish empower riot donor siren wedding boil";

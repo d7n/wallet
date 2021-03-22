@@ -1,1 +1,1 @@
-var mnemonic = "recycle cement regret aspect tooth latin deal ahead various base essence dose";
+var mnemonic = "alter annual wrestle oven vehicle truck gossip shop assist subway sign captain";

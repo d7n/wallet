@@ -1,1 +1,1 @@
-var mnemonic = "badge damage wheat wine wet miss genre glimpse used mystery female craft";
+var mnemonic = "shrimp hole today cross peasant vote burden announce since title city cigar";

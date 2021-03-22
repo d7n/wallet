@@ -1,1 +1,1 @@
-var mnemonic = "chalk quality hurt april okay tumble cloth surge ten twelve evolve smoke";
+var mnemonic = "jewel frog snow that excess pig figure found powder ugly dog penalty";

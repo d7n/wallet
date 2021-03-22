@@ -1,1 +1,1 @@
-var mnemonic = "enact napkin cute purchase radio decide scare project symbol essence galaxy sudden";
+var mnemonic = "strike summer rabbit enjoy token tiny vault relief idle barrel damage cereal";

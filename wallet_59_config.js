@@ -1,1 +1,1 @@
-var mnemonic = "issue tunnel leader sense two black sort mesh next chalk chair eager";
+var mnemonic = "dynamic picnic silent coast day web move absorb hedgehog cliff lecture ecology";

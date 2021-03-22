@@ -1,1 +1,1 @@
-var mnemonic = "setup slight clay reason hire toddler slam fork club camp absurd pony";
+var mnemonic = "siren doll hurry friend drop man movie island steel lunch garbage project";

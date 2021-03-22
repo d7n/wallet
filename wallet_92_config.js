@@ -1,1 +1,1 @@
-var mnemonic = "orchard digital danger crater gadget cushion drift inquiry course wage slush ski";
+var mnemonic = "payment frown penalty merit solution chapter volume fiscal key hope borrow aerobic";

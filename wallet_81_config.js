@@ -1,1 +1,1 @@
-var mnemonic = "cotton negative leave can love mesh dismiss divert clutch diesel sting child";
+var mnemonic = "impulse junk civil point immune wait trial great minute trial arrest drive";

@@ -1,1 +1,1 @@
-var mnemonic = "feed twin vicious twist cable bullet cram foster maple debris coach planet";
+var mnemonic = "pink lock excuse label card lunar item evidence tone venture cabin deposit";

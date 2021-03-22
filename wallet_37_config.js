@@ -1,1 +1,1 @@
-var mnemonic = "emotion spirit enough ride nest domain diagram repeat indicate film price page";
+var mnemonic = "draft aerobic enough say menu there lady say dry smooth raw dust";

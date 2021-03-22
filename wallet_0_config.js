@@ -1,1 +1,1 @@
-var mnemonic = "crush essay stay crew maximum ozone end close impact often moral pact";
+var mnemonic = "already dwarf oyster pulp first member access spoon acquire radar loyal rate";

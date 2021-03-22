@@ -1,1 +1,1 @@
-var mnemonic = "country wing noodle enroll imitate civil sustain school expect real noise travel";
+var mnemonic = "tip fruit uncover useless sport hat remove hawk violin method follow hybrid";

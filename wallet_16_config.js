@@ -1,1 +1,1 @@
-var mnemonic = "royal cream cliff amused close absent galaxy wagon govern couch slam cruise";
+var mnemonic = "reject grass grow peasant spare spend rookie poem walnut maple random believe";

@@ -1,1 +1,1 @@
-var mnemonic = "forward oppose motion fork term enhance choose water illness aerobic clerk region";
+var mnemonic = "fluid supreme banner beyond heart subway devote net web shoe cabin two";

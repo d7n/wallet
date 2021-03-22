@@ -1,1 +1,1 @@
-var mnemonic = "acquire moon canyon spy assault police stadium disease robust dynamic prosper sword";
+var mnemonic = "soap attend vanish market injury popular pretty engine sleep jazz couch soul";

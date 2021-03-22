@@ -1,1 +1,1 @@
-var mnemonic = "ball lyrics father blouse member term genre melody trigger evoke banana nominee";
+var mnemonic = "flip cheese range buddy spice hat bitter agree bachelor plate miss hair";

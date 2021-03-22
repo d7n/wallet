@@ -1,1 +1,1 @@
-var mnemonic = "fancy either guilt defense click alone creek claw fault define faith announce";
+var mnemonic = "cruel agent dash budget fitness stem inner rabbit coach night polar flip";

@@ -1,1 +1,1 @@
-var mnemonic = "boy traffic panther forward thing grab air clever creek rapid cousin slight";
+var mnemonic = "arrange genius message public hint neck denial double turtle cube defy update";

@@ -1,1 +1,1 @@
-var mnemonic = "again love knee rural claw blind focus fatal powder trust dumb industry";
+var mnemonic = "suit volume excite cash mad awake define warrior exchange umbrella apple picnic";

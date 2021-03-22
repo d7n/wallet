@@ -1,1 +1,1 @@
-var mnemonic = "video all response divide strike pass endless envelope tissue ensure salute spell";
+var mnemonic = "approve delay robot razor festival abandon distance ivory what cattle muffin honey";

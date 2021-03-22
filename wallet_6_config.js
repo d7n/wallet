@@ -1,1 +1,1 @@
-var mnemonic = "ranch claw grass poverty token height mixed submit flush game network olive";
+var mnemonic = "weapon sport guide decide ski relax dirt axis journey plug degree lake";

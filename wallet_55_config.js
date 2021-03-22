@@ -1,1 +1,1 @@
-var mnemonic = "wasp arena base kid code example real banner citizen enact ball about";
+var mnemonic = "unusual tell sight jar swim confirm cliff goat person attend feel artist";

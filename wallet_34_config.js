@@ -1,1 +1,1 @@
-var mnemonic = "crucial cliff zebra left print door worth scissors dentist twelve marine chicken";
+var mnemonic = "eyebrow pink rather rhythm prefer one hobby just private cost mom moral";

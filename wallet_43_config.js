@@ -1,1 +1,1 @@
-var mnemonic = "dragon video author spike into behind sun myself seed armor welcome test";
+var mnemonic = "ghost hawk invite lumber adult bag screen panic arrive runway deposit wheat";

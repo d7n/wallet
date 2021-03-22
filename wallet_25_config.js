@@ -1,1 +1,1 @@
-var mnemonic = "slide evoke thunder vital ramp cross month project quiz twist enroll shell";
+var mnemonic = "what black space thing essay rebel goat avocado motion cart celery car";

@@ -1,1 +1,1 @@
-var mnemonic = "diary knife believe arch breeze sudden ancient deputy fence bracket fruit sorry";
+var mnemonic = "opera meat figure only shoe wall umbrella blade sausage defy cause ridge";

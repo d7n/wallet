@@ -1,1 +1,1 @@
-var mnemonic = "february twin fork trim control worry dash cycle bargain wealth blur acid";
+var mnemonic = "shadow jar carry other accident transfer regret admit cry error excuse april";

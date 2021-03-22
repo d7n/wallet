@@ -1,1 +1,1 @@
-var mnemonic = "illegal cereal library peasant eternal juice kingdom coyote kitten lake volcano damage";
+var mnemonic = "topic inhale soup organ toddler memory foot price perfect fever portion fan";

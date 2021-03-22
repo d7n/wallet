@@ -1,1 +1,1 @@
-var mnemonic = "office bread print future victory motion garbage laundry maximum dad flash spoon";
+var mnemonic = "pull icon chicken run bundle unaware wet forget arch ride crucial derive";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf cage worth banana bulb kingdom garage island globe sniff author edit";
+var mnemonic = "distance december divert write eyebrow rich capital sound snow multiply slim arctic";

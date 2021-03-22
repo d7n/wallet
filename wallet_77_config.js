@@ -1,1 +1,1 @@
-var mnemonic = "snow clog whale fortune quiz feel knee earth brisk bid bleak hybrid";
+var mnemonic = "fence estate will humor rain road stove drama once jar spatial jump";

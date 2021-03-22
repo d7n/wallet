@@ -1,1 +1,1 @@
-var mnemonic = "grape tackle excite bargain north useful labor honey olive train north clever";
+var mnemonic = "moon insane culture work upper bird unusual ocean easily speak ankle rifle";

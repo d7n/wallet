@@ -1,1 +1,1 @@
-var mnemonic = "turtle size cabbage radio violin giraffe rapid palace junior view annual erode";
+var mnemonic = "indicate keep address eight april number immune exhaust helmet license kick boy";

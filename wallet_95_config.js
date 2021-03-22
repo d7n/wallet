@@ -1,1 +1,1 @@
-var mnemonic = "scout region scrub novel gown moment fly defy refuse muffin fun side";
+var mnemonic = "badge spoon cinnamon hurt tonight knee forget aunt tip patrol view cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "fault seminar actress evoke equal label reflect sun stem fever gaze fox";
+var mnemonic = "spatial reflect cement coach smart right improve forest essence muffin art city";

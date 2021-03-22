@@ -1,1 +1,1 @@
-var mnemonic = "opera swamp gentle eight derive meat student ticket call pave copy wife";
+var mnemonic = "stage fox pet beef fine joke umbrella jewel myself lawsuit giraffe suggest";

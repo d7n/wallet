@@ -1,1 +1,1 @@
-var mnemonic = "network curtain voice ahead meadow surge august electric sausage demise appear stay";
+var mnemonic = "only riot gravity sister safe love diamond clog expand blanket party argue";

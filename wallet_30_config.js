@@ -1,1 +1,1 @@
-var mnemonic = "sad begin advance weather senior escape gather unable salad spoil yard club";
+var mnemonic = "wife acoustic math vanish object key boy blast decide cannon best fall";

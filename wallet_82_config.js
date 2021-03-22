@@ -1,1 +1,1 @@
-var mnemonic = "imitate horse reduce door laugh blanket type either shoot tone business crush";
+var mnemonic = "normal island advice minute powder release body stomach decline able jump core";

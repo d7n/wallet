@@ -1,1 +1,1 @@
-var mnemonic = "gaze joke box derive stool increase town furnace carry gym fortune palace";
+var mnemonic = "model pluck boat palace exclude unknown liar rough elbow joke crime grunt";

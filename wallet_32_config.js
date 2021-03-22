@@ -1,1 +1,1 @@
-var mnemonic = "mix door filter again glove secret try trumpet hollow shy poverty music";
+var mnemonic = "extra float creek seat tip soft meadow bar sentence image day table";

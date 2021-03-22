@@ -1,1 +1,1 @@
-var mnemonic = "lyrics deer science only climb must silver property useless round kiwi laundry";
+var mnemonic = "rubber rug edit situate vault modify intact learn dutch mask return enlist";
