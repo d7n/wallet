@@ -1,1 +1,1 @@
-var mnemonic = "believe armor hole indicate ask sniff alone giant food behind trophy woman";
+var mnemonic = "lamp ability town assault satisfy resource chest tornado buyer torch jacket second";

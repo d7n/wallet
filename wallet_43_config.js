@@ -1,1 +1,1 @@
-var mnemonic = "squeeze scrap lecture whale damp beauty choice crew claim between catch blade";
+var mnemonic = "moon all suffer craft gorilla cherry melody hint vacuum appear define sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "they twist wreck picnic lady pledge alley demise dove pilot arrow sphere";
+var mnemonic = "dose hold illness prize upgrade access elite snake business runway fiber settle";

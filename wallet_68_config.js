@@ -1,1 +1,1 @@
-var mnemonic = "alter crystal shell fury law trim either person bullet label scrub punch";
+var mnemonic = "firm sign dynamic dose carbon pill body snack salad require play bubble";

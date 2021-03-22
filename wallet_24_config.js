@@ -1,1 +1,1 @@
-var mnemonic = "naive device sport size burst cute off chronic pig false wrap day";
+var mnemonic = "type person water hard great space clerk thought donor call puzzle blast";

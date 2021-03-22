@@ -1,1 +1,1 @@
-var mnemonic = "stamp cradle panther episode pepper beef ahead film allow bundle apology punch";
+var mnemonic = "eyebrow state gloom inside notice minute concert glove bronze elder pelican loud";

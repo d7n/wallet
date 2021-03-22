@@ -1,1 +1,1 @@
-var mnemonic = "donor tree razor empty cupboard exit rookie income fuel jewel mixed second";
+var mnemonic = "vague already fuel artwork lawsuit lumber wedding legend oxygen zone rhythm share";

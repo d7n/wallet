@@ -1,1 +1,1 @@
-var mnemonic = "rate agent believe hover sauce harvest know grief river toss pony slogan";
+var mnemonic = "network beef notice round devote member lesson bottom fun flower moral usage";

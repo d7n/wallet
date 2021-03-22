@@ -1,1 +1,1 @@
-var mnemonic = "whale tired foam cradle broken defy rate second cage blouse east liberty";
+var mnemonic = "arena vocal enlist shine curve measure trade struggle reopen hotel hint bird";

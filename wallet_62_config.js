@@ -1,1 +1,1 @@
-var mnemonic = "acoustic layer arrow text shoe oyster festival worth time roast pulp banana";
+var mnemonic = "iron juice armed grief dust depth wish file illegal delay innocent engage";

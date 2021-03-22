@@ -1,1 +1,1 @@
-var mnemonic = "luggage edit festival test final relief record flock foster kingdom unfold field";
+var mnemonic = "sort social gym key gesture dumb assault label pet spike believe idle";

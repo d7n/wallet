@@ -1,1 +1,1 @@
-var mnemonic = "consider someone math trip blast pause trumpet drum enemy arrow talent ship";
+var mnemonic = "into assist owner pole club over net neutral sphere depart false shoot";

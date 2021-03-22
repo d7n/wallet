@@ -1,1 +1,1 @@
-var mnemonic = "rude year guess tray only divide local crouch craft awesome usage session";
+var mnemonic = "metal hen estate garden fine shiver order skull fancy announce sock panic";

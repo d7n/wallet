@@ -1,1 +1,1 @@
-var mnemonic = "brief initial october unit sport album hero planet image custom ripple lesson";
+var mnemonic = "dinosaur trap crack fuel lawn payment year ancient double oven divert olive";

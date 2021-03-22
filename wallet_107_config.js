@@ -1,1 +1,1 @@
-var mnemonic = "else whale kick please casino stove cook suit comic snake rookie together";
+var mnemonic = "little voice surprise purchase fish model joy private raccoon glide wash sauce";

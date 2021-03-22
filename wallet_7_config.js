@@ -1,1 +1,1 @@
-var mnemonic = "crop foot belt end cream promote admit seek quantum olive joy nation";
+var mnemonic = "pipe decade grief diesel craft six orbit carry major badge guilt antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "know interest govern sort wave fame rescue noodle casino note jar space";
+var mnemonic = "brother kitchen draw machine reduce position order bundle twenty pact afford assault";

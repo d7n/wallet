@@ -1,1 +1,1 @@
-var mnemonic = "puppy enrich monitor dentist dove response wrap table first thought vacuum bus";
+var mnemonic = "urban pill lift wedding trap rent fox doll pulse fancy segment remain";

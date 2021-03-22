@@ -1,1 +1,1 @@
-var mnemonic = "artefact voice quarter dream inject taxi diary shaft spot rabbit snack banana";
+var mnemonic = "conduct spawn obey hen baby satoshi meadow eager supply blast stick neck";

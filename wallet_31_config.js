@@ -1,1 +1,1 @@
-var mnemonic = "million engage original alcohol task bundle bullet grab maze cheese name secret";
+var mnemonic = "lava blossom capital three town rain infant liberty vibrant dwarf caught hat";

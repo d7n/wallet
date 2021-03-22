@@ -1,1 +1,1 @@
-var mnemonic = "jelly pistol kite tube blush repeat session profit crucial average same spread";
+var mnemonic = "close knee idle under area eagle surprise night dress talk episode flower";

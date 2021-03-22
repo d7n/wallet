@@ -1,1 +1,1 @@
-var mnemonic = "scare avoid any body memory cereal street click inject winter lion minute";
+var mnemonic = "fury next pause vacant verb fluid segment arm plug unfair law foam";

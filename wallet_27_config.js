@@ -1,1 +1,1 @@
-var mnemonic = "avocado material animal absurd animal voice code can cousin filter evil voice";
+var mnemonic = "current favorite mimic awful original under raw faint spawn skill rack price";

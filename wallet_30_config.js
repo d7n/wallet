@@ -1,1 +1,1 @@
-var mnemonic = "believe glue couple egg wedding myth insect section attract tent inhale pill";
+var mnemonic = "harvest hint butter spoon public blind purchase real refuse usage champion ozone";

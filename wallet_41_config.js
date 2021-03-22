@@ -1,1 +1,1 @@
-var mnemonic = "patient ceiling fringe make wine skill earth nation tragic stairs song uncover";
+var mnemonic = "pole raven panel property firm kitchen virus ugly crucial plunge situate essence";

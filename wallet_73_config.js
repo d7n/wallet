@@ -1,1 +1,1 @@
-var mnemonic = "peanut tortoise joke remember office all eagle vote expire service shine shoe";
+var mnemonic = "borrow purse twin resemble crisp bless swear rely inflict bomb taste cluster";

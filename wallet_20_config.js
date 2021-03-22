@@ -1,1 +1,1 @@
-var mnemonic = "calm team question eternal enrich eagle scrub pencil moon symbol tube sweet";
+var mnemonic = "annual hybrid orchard emotion jazz ball fashion elegant viable mutual blind advance";

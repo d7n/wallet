@@ -1,1 +1,1 @@
-var mnemonic = "category movie fiscal depend zoo dynamic cement switch drive squeeze escape claim";
+var mnemonic = "easily hungry flame purse truly salad moment absurd smile lab edit useful";

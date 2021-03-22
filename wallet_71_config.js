@@ -1,1 +1,1 @@
-var mnemonic = "future pet waste attack fiber sport neutral crash media point tilt timber";
+var mnemonic = "bacon point describe make fancy salon narrow blush boat consider ceiling umbrella";

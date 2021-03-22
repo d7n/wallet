@@ -1,1 +1,1 @@
-var mnemonic = "oyster use cricket sleep illness order guilt salute mind emerge hospital resource";
+var mnemonic = "pulse wisdom waste ketchup original young begin image bird mosquito stay seed";

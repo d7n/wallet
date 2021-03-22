@@ -1,1 +1,1 @@
-var mnemonic = "rug damage make tomato mass attack expect click guide damp grab announce";
+var mnemonic = "tent pupil subway garden screen party crime fashion tent trouble flag random";

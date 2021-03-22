@@ -1,1 +1,1 @@
-var mnemonic = "clean tell random spike quick more brave vague powder office canoe clinic";
+var mnemonic = "crop basket asset chimney stereo ritual rude unhappy lucky mad melody utility";

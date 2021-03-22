@@ -1,1 +1,1 @@
-var mnemonic = "grunt earn ugly pig whisper tank spot panda culture inner basic debris";
+var mnemonic = "satoshi rice recipe jar humble zone fatal crawl achieve staff alien radio";

@@ -1,1 +1,1 @@
-var mnemonic = "cost improve veteran enact sock skull planet absurd prefer battle fork supreme";
+var mnemonic = "pledge notice shallow put carbon social rocket panda thrive lobster citizen beef";

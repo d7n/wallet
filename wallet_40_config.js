@@ -1,1 +1,1 @@
-var mnemonic = "clean push employ deny echo reunion cash call pen desert hedgehog blood";
+var mnemonic = "bid panel sun dial deposit unfair oxygen define solid wall tower glide";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke candy gasp win area hamster exit knock already left learn potato";
+var mnemonic = "fabric open ghost crash cage earth rather tuna arctic angry tree creek";

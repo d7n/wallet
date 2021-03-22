@@ -1,1 +1,1 @@
-var mnemonic = "capital example leg right describe reopen ivory bridge rookie summer cave beach";
+var mnemonic = "three dove advance grant weapon message absorb expand enact speed survey dentist";

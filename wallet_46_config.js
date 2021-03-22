@@ -1,1 +1,1 @@
-var mnemonic = "kid humor polar room jewel modify lawn find crumble behind below pill";
+var mnemonic = "setup purse review edge finish install quote minimum vacuum diet curious assault";

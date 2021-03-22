@@ -1,1 +1,1 @@
-var mnemonic = "rhythm worth metal twist detail inner someone effort million dial oil cube";
+var mnemonic = "popular suffer thrive script final arctic cigar morning brand voyage april real";

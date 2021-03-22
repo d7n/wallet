@@ -1,1 +1,1 @@
-var mnemonic = "city weather coin sail abandon amateur below marriage sword cheese vault cube";
+var mnemonic = "eye say hawk owner bonus mom canyon stadium physical card issue long";

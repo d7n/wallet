@@ -1,1 +1,1 @@
-var mnemonic = "banner behind news milk force onion welcome music decade analyst man spatial";
+var mnemonic = "valley design dynamic blade icon tone dish cry media pistol recycle cactus";

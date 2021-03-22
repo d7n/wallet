@@ -1,1 +1,1 @@
-var mnemonic = "lounge angry scrap fiscal forum pride protect light music nut eyebrow kiss";
+var mnemonic = "replace clever foot property lyrics gas broom valve three task december cinnamon";

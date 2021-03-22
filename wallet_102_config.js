@@ -1,1 +1,1 @@
-var mnemonic = "original type gentle tank gun hurry bulb report quarter double subject unlock";
+var mnemonic = "lobster brain wait route mad game brush sense position wink mobile rescue";

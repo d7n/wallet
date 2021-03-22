@@ -1,1 +1,1 @@
-var mnemonic = "anchor stable pitch peanut fee control boat pig summer turtle once lesson";
+var mnemonic = "photo sample asthma phrase must march cloth trigger boat chimney orchard furnace";

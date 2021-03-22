@@ -1,1 +1,1 @@
-var mnemonic = "nation blush cover camp retreat movie element gossip what snow torch goat";
+var mnemonic = "mind easy just lens carpet present neutral network crash sock pulse surface";

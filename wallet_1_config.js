@@ -1,1 +1,1 @@
-var mnemonic = "absorb interest unknown capital ugly staff sugar volume accident gold silk life";
+var mnemonic = "whisper popular jelly example elephant trap match giggle link reveal jungle park";

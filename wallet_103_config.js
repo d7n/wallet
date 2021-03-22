@@ -1,1 +1,1 @@
-var mnemonic = "pole catch grit file cost supreme neck gauge early select token proof";
+var mnemonic = "place industry outside slush nephew train erode boost chuckle salt hamster tone";

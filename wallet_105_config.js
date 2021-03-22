@@ -1,1 +1,1 @@
-var mnemonic = "camp scale stage vault spare tilt cube burden hold minute buyer outdoor";
+var mnemonic = "mesh palace stand satoshi able elevator dash oven misery absorb morning such";

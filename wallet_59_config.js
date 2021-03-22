@@ -1,1 +1,1 @@
-var mnemonic = "retire sunset orchard asthma fold fall paddle during inside soul oak fever";
+var mnemonic = "decorate father someone bottom network book base beef bleak broken dumb reform";

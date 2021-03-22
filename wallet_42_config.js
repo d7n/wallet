@@ -1,1 +1,1 @@
-var mnemonic = "collect game pudding edit pony bargain mention coffee ride like know witness";
+var mnemonic = "cereal sunny acquire tide replace pioneer finish exclude report demand kangaroo wet";

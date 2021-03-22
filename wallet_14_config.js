@@ -1,1 +1,1 @@
-var mnemonic = "road jelly exclude silk crowd display gun library whale angry pipe rib";
+var mnemonic = "blade legend between refuse danger gallery include blade question sweet dawn alone";

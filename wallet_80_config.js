@@ -1,1 +1,1 @@
-var mnemonic = "bunker room flat toy absent cart toe turtle wife segment immense try";
+var mnemonic = "rail loyal goat web remain snow reason pear simple bubble special never";

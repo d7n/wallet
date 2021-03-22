@@ -1,1 +1,1 @@
-var mnemonic = "want sign donor curve already more hold ladder fence stick hotel phone";
+var mnemonic = "figure match appear water two tell menu quiz habit voice misery cannon";

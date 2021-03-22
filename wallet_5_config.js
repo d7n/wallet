@@ -1,1 +1,1 @@
-var mnemonic = "clog flavor student armor front energy skate blouse casino honey teach fossil";
+var mnemonic = "install shoot anxiety evil february day carbon pill lazy more raw spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle old wear ride derive sock army keep labor mother extend quantum";
+var mnemonic = "aerobic hole affair eight column language crash draw couple ready jeans repair";

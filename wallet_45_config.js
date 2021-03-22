@@ -1,1 +1,1 @@
-var mnemonic = "energy vendor deposit scene conduct goose rough current taxi enemy zone kitchen";
+var mnemonic = "wise carbon tongue judge lumber weasel about hungry excuse pen season shallow";

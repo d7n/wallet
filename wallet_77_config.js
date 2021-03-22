@@ -1,1 +1,1 @@
-var mnemonic = "current under comic tackle circle alley purpose spread naive anger run knock";
+var mnemonic = "unable ordinary robust year enable album riot wine omit ticket wedding stuff";

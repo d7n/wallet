@@ -1,1 +1,1 @@
-var mnemonic = "make skin anger toddler nominee trick wheel render master town bid proud";
+var mnemonic = "citizen atom width gaze essay leave talk industry found beyond car problem";

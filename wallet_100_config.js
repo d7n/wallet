@@ -1,1 +1,1 @@
-var mnemonic = "offer eternal unit bitter chase voyage luxury fall number brand summer faith";
+var mnemonic = "supply royal spoil explain plug payment hour axis crumble resist dutch mystery";

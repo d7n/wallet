@@ -1,1 +1,1 @@
-var mnemonic = "pottery mouse desert yellow rally deny enforce plunge abstract alien dune knife";
+var mnemonic = "service dwarf similar announce rally plug volcano furnace bag rifle veteran weapon";

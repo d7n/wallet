@@ -1,1 +1,1 @@
-var mnemonic = "always west client review attend captain nice kit organ swift grace bridge";
+var mnemonic = "time auction tourist tuna name donkey tuna task suffer above this mansion";

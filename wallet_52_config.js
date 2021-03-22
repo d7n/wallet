@@ -1,1 +1,1 @@
-var mnemonic = "domain outer nothing food toddler fashion scene invite rally peanut mountain convince";
+var mnemonic = "swift wool organ unfair curve drip resist small engine opinion host hazard";

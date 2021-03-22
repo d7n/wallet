@@ -1,1 +1,1 @@
-var mnemonic = "sing outside metal lottery print frame cluster negative fan family skate matter";
+var mnemonic = "rapid jeans limb debris spice mix castle garden side love season mimic";

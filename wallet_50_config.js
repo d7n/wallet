@@ -1,1 +1,1 @@
-var mnemonic = "mercy panel embody vanish anger appear receive bone silk best true dinosaur";
+var mnemonic = "glass toddler note actual age catalog trap link oven engage virus often";

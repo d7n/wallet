@@ -1,1 +1,1 @@
-var mnemonic = "rate normal bundle patrol liar sunny suspect claw define hazard couple impact";
+var mnemonic = "rain ticket style fancy kick provide island private jump page fiber ocean";

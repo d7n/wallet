@@ -1,1 +1,1 @@
-var mnemonic = "beef allow where old diary gym maple gravity kick father hospital combine";
+var mnemonic = "unfold fish suspect return maximum ten switch scissors charge wine junior firm";

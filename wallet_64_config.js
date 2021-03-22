@@ -1,1 +1,1 @@
-var mnemonic = "always nerve until hat fury cost swim taxi home setup elite polar";
+var mnemonic = "rack horn rich dumb merge wedding ritual filter client cabbage track minimum";

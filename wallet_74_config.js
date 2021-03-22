@@ -1,1 +1,1 @@
-var mnemonic = "when spring point divide duty clump duck tell vacant chuckle tunnel father";
+var mnemonic = "uncle left cram obvious burst struggle half spoil whale rate recycle dolphin";

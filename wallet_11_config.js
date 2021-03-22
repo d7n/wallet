@@ -1,1 +1,1 @@
-var mnemonic = "dish mosquito liberty blanket sail kingdom another popular stick trap coin foot";
+var mnemonic = "blame feel bacon ridge behind recipe usage tennis crane eyebrow hero job";

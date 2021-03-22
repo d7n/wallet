@@ -1,1 +1,1 @@
-var mnemonic = "galaxy assume topple wagon record leader damp hedgehog month student harsh paddle";
+var mnemonic = "record steel tortoise town cash pitch cable fault antenna asset similar toy";

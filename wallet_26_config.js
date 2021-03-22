@@ -1,1 +1,1 @@
-var mnemonic = "benefit buyer engage drip naive diary inject cupboard bean refuse rate arm";
+var mnemonic = "elephant law young nose trumpet season only poverty sugar intact toy illegal";

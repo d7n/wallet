@@ -1,1 +1,1 @@
-var mnemonic = "pulse come little trip prize entry identify fuel fuel high trash brass";
+var mnemonic = "quit kind atom crazy hour honey unfair horror spice able asset define";

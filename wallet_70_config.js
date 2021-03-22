@@ -1,1 +1,1 @@
-var mnemonic = "vault silent trial offer endless water genuine push solar dwarf cliff drill";
+var mnemonic = "record movie smooth bus tuition angle garment join horse method fan grape";

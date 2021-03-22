@@ -1,1 +1,1 @@
-var mnemonic = "luxury feed style cart swallow suffer lyrics tell alarm night apart dawn";
+var mnemonic = "style paper erosion museum menu absorb boring call dog section skull carbon";

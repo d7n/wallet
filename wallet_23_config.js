@@ -1,1 +1,1 @@
-var mnemonic = "truth section bulk brass letter wink upper tuition great august weapon panic";
+var mnemonic = "split hero picnic bird zone robust logic stay evidence electric depart vital";

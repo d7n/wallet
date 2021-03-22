@@ -1,1 +1,1 @@
-var mnemonic = "orbit regular yellow develop display family pair jar machine caught much cupboard";
+var mnemonic = "front blast reform pulse annual vehicle day high cliff fluid inform burst";

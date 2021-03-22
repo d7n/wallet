@@ -1,1 +1,1 @@
-var mnemonic = "burst rival traffic jewel fish exact punch habit diesel dragon car primary";
+var mnemonic = "exact sort endless fatigue stick oxygen pride open elite clock tragic enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "early misery duty success cart tumble buyer length admit faculty pony chalk";
+var mnemonic = "help busy produce discover uncle slow power era inherit output poet pledge";

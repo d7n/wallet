@@ -1,1 +1,1 @@
-var mnemonic = "loan domain patrol arrange connect repeat today discover armed wedding canvas century";
+var mnemonic = "away glare fog angry furnace dirt prevent mail tomato gadget voyage biology";

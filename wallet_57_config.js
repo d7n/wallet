@@ -1,1 +1,1 @@
-var mnemonic = "vote canvas velvet humble claim mom movie mesh liberty ask bullet bacon";
+var mnemonic = "swap venture stage stick damage hurdle spike employ novel lucky sister real";

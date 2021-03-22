@@ -1,1 +1,1 @@
-var mnemonic = "tonight level pool harvest joke small manual sibling account catalog either exclude";
+var mnemonic = "result gesture tenant mansion faint pigeon wall draft drum female apart jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "planet risk mesh depend park repair benefit have illness wild tray balance";
+var mnemonic = "truth strong write famous matter produce talk media else turkey inflict swarm";

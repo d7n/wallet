@@ -1,1 +1,1 @@
-var mnemonic = "file pony access orphan roof install remember pigeon doctor model until merry";
+var mnemonic = "annual mammal aunt cable exist knock peace side couple monkey dolphin topple";

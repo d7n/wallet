@@ -1,1 +1,1 @@
-var mnemonic = "clump friend bubble false civil orange goat flame season skate neither atom";
+var mnemonic = "arena always figure water rent base furnace salad then castle wealth welcome";

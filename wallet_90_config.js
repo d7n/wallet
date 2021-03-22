@@ -1,1 +1,1 @@
-var mnemonic = "nothing shiver scheme bronze light congress trap meat adapt view unit cloud";
+var mnemonic = "orchard race glance sausage result garment credit six hurdle blind physical bread";

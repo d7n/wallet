@@ -1,1 +1,1 @@
-var mnemonic = "drip bread coffee sustain pottery huge crucial icon below derive soldier industry";
+var mnemonic = "alpha link paper clerk top appear pig various nuclear priority order work";
