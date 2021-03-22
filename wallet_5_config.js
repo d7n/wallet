@@ -1,1 +1,1 @@
-var mnemonic = "end fold poverty cattle jaguar sibling purse cloth moral park essence drastic";
+var mnemonic = "flag siren nut clump rotate thrive assume slab curtain judge oblige pink";

@@ -1,1 +1,1 @@
-var mnemonic = "stick auction ecology loop special eager over dizzy volume chicken reflect secret";
+var mnemonic = "fabric document core catch model involve either ethics exercise fragile panda squeeze";

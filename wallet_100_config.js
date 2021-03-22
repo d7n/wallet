@@ -1,1 +1,1 @@
-var mnemonic = "useless slogan involve cage village mean notice frequent you this worry book";
+var mnemonic = "proud crew cave fat media immune vendor east fox grain kingdom guitar";

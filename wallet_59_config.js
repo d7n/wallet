@@ -1,1 +1,1 @@
-var mnemonic = "easily rough grief galaxy glide boost latin detect fire judge float walnut";
+var mnemonic = "push light fuel gaze stove orbit predict noble snake puppy rifle account";

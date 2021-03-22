@@ -1,1 +1,1 @@
-var mnemonic = "also great version praise actor obey easy dentist cage sleep purpose edit";
+var mnemonic = "witness van arm oven weather danger jump pelican seminar possible install much";

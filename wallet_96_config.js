@@ -1,1 +1,1 @@
-var mnemonic = "pig undo cable thunder manage make tonight collect social amazing retire page";
+var mnemonic = "leopard such warfare deliver useful vibrant vicious example club phrase scatter annual";

@@ -1,1 +1,1 @@
-var mnemonic = "then abandon sense offer denial tourist crucial throw barely bless cruise betray";
+var mnemonic = "zoo canvas differ one skull valid mistake enroll betray mountain another bright";

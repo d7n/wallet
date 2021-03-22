@@ -1,1 +1,1 @@
-var mnemonic = "special gown food inform write guilt liberty absent rhythm entry half modify";
+var mnemonic = "truck cable cotton top eye used talent bicycle color fall core mixed";

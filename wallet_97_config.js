@@ -1,1 +1,1 @@
-var mnemonic = "waste urge lottery return impulse mutual left century kitchen furnace chef error";
+var mnemonic = "hockey proud dentist artefact unfair fence alien asthma picnic drive witness mammal";

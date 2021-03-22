@@ -1,1 +1,1 @@
-var mnemonic = "soul what grass employ consider waste young subject exercise armed garden pottery";
+var mnemonic = "soap glad innocent ride grunt kit punch gravity veteran once share always";

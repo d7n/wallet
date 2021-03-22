@@ -1,1 +1,1 @@
-var mnemonic = "rib around mammal maximum wide rescue flavor copy black share inflict cheap";
+var mnemonic = "tackle shoulder van bus resemble input trap rapid during shrimp together myself";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch record very fence ritual rocket stomach enforce betray size skill cook";
+var mnemonic = "cargo average slide boil proof faith weasel issue elder verb kite barrel";

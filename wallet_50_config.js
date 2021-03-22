@@ -1,1 +1,1 @@
-var mnemonic = "verb zero rhythm couch absent surprise noodle anxiety direct media vicious credit";
+var mnemonic = "bar retire curve reduce collect imitate atom cage cancel hen thing team";

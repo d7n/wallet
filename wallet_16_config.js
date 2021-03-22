@@ -1,1 +1,1 @@
-var mnemonic = "toe place team actor pony wife rice sense write phrase client peace";
+var mnemonic = "ignore taste fiction pulse hollow friend coin diamond slogan photo near trap";

@@ -1,1 +1,1 @@
-var mnemonic = "life inform swap acquire force poet voyage review manage creek clever spirit";
+var mnemonic = "learn fault great improve cherry pass capital announce reform maze possible cattle";

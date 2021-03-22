@@ -1,1 +1,1 @@
-var mnemonic = "hard maid dwarf spend wife wasp interest eager hold stomach elevator team";
+var mnemonic = "hair panic hundred enforce very pumpkin price between universe rent episode arrive";

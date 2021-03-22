@@ -1,1 +1,1 @@
-var mnemonic = "width sense balance office slight lab ribbon fence lunch breeze bike table";
+var mnemonic = "tree segment security skirt start march keen desk crime tool dad right";

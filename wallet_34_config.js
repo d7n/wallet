@@ -1,1 +1,1 @@
-var mnemonic = "awesome blur such credit student chimney drift flip giant giant oak market";
+var mnemonic = "run method there between angle salad bracket real cave find icon forum";

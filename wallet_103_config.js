@@ -1,1 +1,1 @@
-var mnemonic = "ticket equal window oppose bar scissors family gasp defy kick know stereo";
+var mnemonic = "silk disorder start inspire bacon wave earth gentle skull toward border farm";

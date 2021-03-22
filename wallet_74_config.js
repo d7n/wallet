@@ -1,1 +1,1 @@
-var mnemonic = "tiger drastic fantasy feature comic indicate drink learn bid defense unveil detect";
+var mnemonic = "tennis pair candy rhythm neutral impulse saddle fog able false vast trap";

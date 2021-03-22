@@ -1,1 +1,1 @@
-var mnemonic = "repair tray net steel achieve drastic maximum culture soap same pluck share";
+var mnemonic = "trip north second bargain accident trade lonely license mean reopen soldier easy";

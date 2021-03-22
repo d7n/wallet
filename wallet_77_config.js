@@ -1,1 +1,1 @@
-var mnemonic = "hunt cat common wonder innocent gadget usage speak among believe treat square";
+var mnemonic = "kitchen wife mother raccoon month galaxy debris shoulder photo six trend boring";

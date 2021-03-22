@@ -1,1 +1,1 @@
-var mnemonic = "holiday erase poet female like cage earn slice reveal elite oak hero";
+var mnemonic = "comic olive inherit mammal they hero top inflict element cash asset river";

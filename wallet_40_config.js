@@ -1,1 +1,1 @@
-var mnemonic = "certain actress hope repeat bundle flower regret innocent name clump cost fluid";
+var mnemonic = "empty orient drastic resist strong true memory devote priority arrive bonus law";

@@ -1,1 +1,1 @@
-var mnemonic = "swing secret fee poem ability material join moment else minor finish three";
+var mnemonic = "parent air key steak scene exclude volcano mystery live margin safe valid";

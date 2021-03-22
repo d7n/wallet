@@ -1,1 +1,1 @@
-var mnemonic = "shrug trim enter praise alpha escape bulk away fiction payment term barrel";
+var mnemonic = "despair turtle neither net slogan antique pottery sing feed nice second raccoon";

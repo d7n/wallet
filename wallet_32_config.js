@@ -1,1 +1,1 @@
-var mnemonic = "monster sibling wide entry lawsuit way rude inquiry pole security dilemma left";
+var mnemonic = "relief version gossip cute unlock light metal pelican drive make entire gesture";

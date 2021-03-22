@@ -1,1 +1,1 @@
-var mnemonic = "bomb crouch angle debate nephew cupboard raven profit rough turkey sphere cactus";
+var mnemonic = "fan merit creek trap crawl powder shiver perfect law brown tourist gain";

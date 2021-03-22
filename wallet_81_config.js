@@ -1,1 +1,1 @@
-var mnemonic = "frown column kitchen pledge denial hammer cruel slim hip spray useful royal";
+var mnemonic = "melody bargain magnet creek poem wage ancient girl silent eyebrow able mesh";

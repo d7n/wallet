@@ -1,1 +1,1 @@
-var mnemonic = "buffalo cave banner spice kit shine room record raise bachelor member pepper";
+var mnemonic = "rare offer trouble hammer occur simple million museum disagree island glare cruise";

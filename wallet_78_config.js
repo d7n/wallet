@@ -1,1 +1,1 @@
-var mnemonic = "pluck key stem fly vocal laptop away agent find earth will direct";
+var mnemonic = "text equip chair negative time service fantasy notice flavor aspect better praise";

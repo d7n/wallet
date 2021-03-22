@@ -1,1 +1,1 @@
-var mnemonic = "artwork salon obscure void enlist clever cream brave sort open hour since";
+var mnemonic = "under used royal caught seat mouse minor yard head language neck survey";

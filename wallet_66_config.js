@@ -1,1 +1,1 @@
-var mnemonic = "latin clutch rather chief weather useless wrong toast chuckle hurry famous interest";
+var mnemonic = "general soap thrive sweet refuse chaos helmet note eager arrow able coral";

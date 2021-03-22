@@ -1,1 +1,1 @@
-var mnemonic = "secret grow depend theme shock labor someone express prefer tunnel strike observe";
+var mnemonic = "business attend hope heart twin manage wear absorb refuse try guilt fine";

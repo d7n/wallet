@@ -1,1 +1,1 @@
-var mnemonic = "view convince cycle boat beauty jeans talent define general panther material basket";
+var mnemonic = "recipe sustain speak memory employ notice possible medal castle open hammer treat";

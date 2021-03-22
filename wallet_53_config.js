@@ -1,1 +1,1 @@
-var mnemonic = "govern axis latin brown draw matter sausage reunion depart zone group gentle";
+var mnemonic = "possible tag screen skate wild safe crawl print amazing victory bless document";

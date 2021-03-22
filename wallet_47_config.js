@@ -1,1 +1,1 @@
-var mnemonic = "vote museum record mimic bamboo machine unlock awake photo release sustain spatial";
+var mnemonic = "police enrich various donate wreck tongue matter ocean craft cherry tomato luggage";

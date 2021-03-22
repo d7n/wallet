@@ -1,1 +1,1 @@
-var mnemonic = "toy yellow already force unfair code scrub input arch farm bean quote";
+var mnemonic = "spice scrub moon hole ski bus legal witness mention quarter escape apple";

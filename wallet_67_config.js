@@ -1,1 +1,1 @@
-var mnemonic = "punch razor adjust credit carpet control spider file develop phrase boat window";
+var mnemonic = "glue audit will afford despair acoustic gossip obscure more female nuclear captain";

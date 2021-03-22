@@ -1,1 +1,1 @@
-var mnemonic = "citizen slender that topic jump alien dutch real sorry junior once grocery";
+var mnemonic = "comfort avocado need require grab girl describe provide shrug critic damage tray";

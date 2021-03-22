@@ -1,1 +1,1 @@
-var mnemonic = "raven round rose flash uphold sibling heart amused manage amazing cook glove";
+var mnemonic = "rate way occur episode picture process arm movie gorilla sight muffin occur";

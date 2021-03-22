@@ -1,1 +1,1 @@
-var mnemonic = "surprise grocery emotion answer wagon flip morning retire team actor change vapor";
+var mnemonic = "length answer marine skull action verify click belt bone amused crowd category";

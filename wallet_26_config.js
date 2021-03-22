@@ -1,1 +1,1 @@
-var mnemonic = "great census apology game movie luxury edit opera novel canvas head broccoli";
+var mnemonic = "legal brief unlock autumn average glow range mom credit pass space away";

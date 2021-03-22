@@ -1,1 +1,1 @@
-var mnemonic = "marriage photo water charge canyon fuel orchard roast dice deputy tortoise afraid";
+var mnemonic = "arrow decrease advance violin limit curve oyster afraid couple civil off recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "mother first leisure wool puzzle relax filter once garden group great sock";
+var mnemonic = "wet athlete relax finish hair marriage problem truth veteran prosper better divert";

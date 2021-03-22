@@ -1,1 +1,1 @@
-var mnemonic = "simple scheme tree benefit sugar venue eye hollow boost win ankle dragon";
+var mnemonic = "deny viable anger daughter grunt seek crime senior final annual scrub dirt";

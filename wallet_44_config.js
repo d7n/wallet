@@ -1,1 +1,1 @@
-var mnemonic = "industry ivory slim empty patch inflict soap load journey skirt car rally";
+var mnemonic = "gorilla develop demand polar logic pepper always when credit urban armed tank";

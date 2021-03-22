@@ -1,1 +1,1 @@
-var mnemonic = "dentist isolate reveal speak rug pudding speak today polar visa act fruit";
+var mnemonic = "tongue shop trial amused river together slender shed shuffle interest sort limb";

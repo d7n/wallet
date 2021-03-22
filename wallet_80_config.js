@@ -1,1 +1,1 @@
-var mnemonic = "today injury one tired imitate digital garbage casual general town chalk index";
+var mnemonic = "cash outdoor purity south crane core program return fog burden frog level";

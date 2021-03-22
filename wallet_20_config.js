@@ -1,1 +1,1 @@
-var mnemonic = "crack lumber amount globe dismiss cause admit bag sustain govern file floor";
+var mnemonic = "infant security rate aware bubble minute lottery decade wire client hurt innocent";

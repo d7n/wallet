@@ -1,1 +1,1 @@
-var mnemonic = "become expand skin whale year copy raw sword month message eyebrow miracle";
+var mnemonic = "animal dinosaur half stamp subway forward broom message fantasy family wear milk";

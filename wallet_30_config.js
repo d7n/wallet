@@ -1,1 +1,1 @@
-var mnemonic = "canvas feature cricket grape bulb disagree surge over law better knife length";
+var mnemonic = "neutral love swamp flip wool unveil reflect agree output scissors ceiling egg";

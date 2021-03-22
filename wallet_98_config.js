@@ -1,1 +1,1 @@
-var mnemonic = "turn young print kid bullet state library scatter wrong minimum offer split";
+var mnemonic = "until toss topic pond detail decide improve topic stem injury first salute";

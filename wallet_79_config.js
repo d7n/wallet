@@ -1,1 +1,1 @@
-var mnemonic = "digital canyon bid perfect original wisdom wool parrot pulse engage tourist glare";
+var mnemonic = "quote chair dignity save dash final zoo armor damage enrich dinosaur radio";

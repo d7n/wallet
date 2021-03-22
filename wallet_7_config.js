@@ -1,1 +1,1 @@
-var mnemonic = "amused brave neglect strong machine peace crowd filter glare melt valve moral";
+var mnemonic = "faint sell office hobby bunker ribbon accident park carpet barrel good dumb";

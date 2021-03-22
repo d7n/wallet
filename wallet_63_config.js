@@ -1,1 +1,1 @@
-var mnemonic = "library salad dutch doll aim future oak glue feel green unknown orange";
+var mnemonic = "enroll hamster manage tiny photo view forward scorpion meadow provide stand melt";

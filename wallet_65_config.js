@@ -1,1 +1,1 @@
-var mnemonic = "reopen beyond subject pond pool lake mobile barely lyrics cream glad toss";
+var mnemonic = "know cry pretty solar civil capable online treat umbrella pitch alcohol lab";

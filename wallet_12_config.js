@@ -1,1 +1,1 @@
-var mnemonic = "detect audit abandon utility used relief hundred upper knock miss bonus casino";
+var mnemonic = "there cement note puzzle upgrade erosion seed settle jelly combine glue steel";

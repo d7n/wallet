@@ -1,1 +1,1 @@
-var mnemonic = "venture lava pass monitor useless sustain inform access pause eight kit empower";
+var mnemonic = "right juice tape steak predict slab wall huge coffee stool fire hunt";

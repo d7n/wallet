@@ -1,1 +1,1 @@
-var mnemonic = "pledge tower toe rice cloth travel urge own thrive curve cook fossil";
+var mnemonic = "staff valve breeze picture protect goddess donor explain result access spoil garden";

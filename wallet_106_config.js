@@ -1,1 +1,1 @@
-var mnemonic = "balcony weapon two similar naive found destroy prepare powder cycle absurd draw";
+var mnemonic = "mean nephew junior coast kid clutch little fish life midnight wave soccer";

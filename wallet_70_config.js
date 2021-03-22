@@ -1,1 +1,1 @@
-var mnemonic = "dinner dwarf bottom destroy demand joke supply dust warfare vast jealous nephew";
+var mnemonic = "visual rack inch merge plate shiver stand people vague start voice labor";

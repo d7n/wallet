@@ -1,1 +1,1 @@
-var mnemonic = "gauge monitor material alarm path open annual flee educate world girl hover";
+var mnemonic = "prize evolve lunar exhibit jewel fog tornado hamster laugh survey man immense";

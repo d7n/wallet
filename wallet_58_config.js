@@ -1,1 +1,1 @@
-var mnemonic = "float inflict lounge canyon marine act staff have since silent avoid multiply";
+var mnemonic = "soon jar skirt danger either until diary tired grief hawk surround produce";

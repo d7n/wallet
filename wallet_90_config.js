@@ -1,1 +1,1 @@
-var mnemonic = "culture angle million replace aunt enjoy debris walk arctic army state custom";
+var mnemonic = "police rack orchard age ten arrange accident entire luggage advice swim matter";

@@ -1,1 +1,1 @@
-var mnemonic = "december grow derive nephew athlete club elder burger supply exercise mansion better";
+var mnemonic = "slim gun eye crew element match source source rain owner riot wolf";

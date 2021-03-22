@@ -1,1 +1,1 @@
-var mnemonic = "mixture cross mirror save napkin verb metal news perfect lamp pattern survey";
+var mnemonic = "agent inhale usage dizzy candy point shallow hip split disagree sea six";

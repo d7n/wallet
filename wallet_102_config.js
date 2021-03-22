@@ -1,1 +1,1 @@
-var mnemonic = "awkward pistol culture payment border sight dizzy breeze remember weird benefit exact";
+var mnemonic = "liberty spice uphold enrich merit dove glad bunker wild rocket coconut buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "digital project sphere cash orchard crumble dance kind retire depth wheel lottery";
+var mnemonic = "monitor tattoo win hire measure wolf deer current naive tenant alarm toss";

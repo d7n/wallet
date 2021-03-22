@@ -1,1 +1,1 @@
-var mnemonic = "system also click ladder detail hip chicken ritual witness search online patient";
+var mnemonic = "swap act immune satisfy fortune already sign spatial message spray number raise";

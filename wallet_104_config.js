@@ -1,1 +1,1 @@
-var mnemonic = "issue alarm aim north cook gown viable spider man lizard net barely";
+var mnemonic = "sock eye slender behind jungle much cost key guard lobster holiday creek";

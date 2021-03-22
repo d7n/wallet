@@ -1,1 +1,1 @@
-var mnemonic = "razor arrive fire inmate stay witness ridge you home figure hour soccer";
+var mnemonic = "present public myself sound push local collect win wall split practice gold";

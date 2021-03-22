@@ -1,1 +1,1 @@
-var mnemonic = "explain together calm brass paddle robot effort order blood pitch enlist combine";
+var mnemonic = "mosquito diamond device music neither meadow era glimpse long post miss region";

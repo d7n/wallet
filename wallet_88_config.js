@@ -1,1 +1,1 @@
-var mnemonic = "fall bitter rail pet legend donkey exit trust tonight avocado obey mesh";
+var mnemonic = "side tobacco motion expand romance document minute donor please victory language cactus";

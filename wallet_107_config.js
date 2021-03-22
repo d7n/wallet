@@ -1,1 +1,1 @@
-var mnemonic = "success raw brief mandate wool fish catalog observe title drill pottery jazz";
+var mnemonic = "dawn check true image trial try prison color cheap blanket edit wait";

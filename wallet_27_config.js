@@ -1,1 +1,1 @@
-var mnemonic = "unknown real cliff three rescue garage rare guess tube zero steel casual";
+var mnemonic = "coin armor around razor sing basket fuel scorpion perfect kick small pelican";

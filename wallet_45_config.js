@@ -1,1 +1,1 @@
-var mnemonic = "fee sentence hurry confirm office hamster elegant network fossil lesson merit subway";
+var mnemonic = "hire panther tongue prison claim giggle merge magnet warrior day decrease pig";

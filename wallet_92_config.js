@@ -1,1 +1,1 @@
-var mnemonic = "clog blast business neck festival rescue citizen wonder decorate drum submit balance";
+var mnemonic = "radar dawn subway clump nut hole dirt motor law afford double dentist";

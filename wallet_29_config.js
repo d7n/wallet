@@ -1,1 +1,1 @@
-var mnemonic = "brother manual bonus young inch involve crystal trend vast drastic glare consider";
+var mnemonic = "honey source dilemma silly harbor clutch invite old awful genuine elevator reduce";

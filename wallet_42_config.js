@@ -1,1 +1,1 @@
-var mnemonic = "refuse shy wrong goat choice road fork motion mom onion then soda";
+var mnemonic = "credit alley group glue nothing sure jelly uniform emerge proud couple speak";

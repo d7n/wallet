@@ -1,1 +1,1 @@
-var mnemonic = "soap churn erode still harvest absent grow trap choice brother stairs bunker";
+var mnemonic = "snack lonely debate amateur change shrug amount traffic rhythm island until other";

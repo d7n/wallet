@@ -1,1 +1,1 @@
-var mnemonic = "giraffe dignity dial biology unique interest pen camera absorb matter sail machine";
+var mnemonic = "laptop title afraid debris reflect hungry police below face answer escape deer";

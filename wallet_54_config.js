@@ -1,1 +1,1 @@
-var mnemonic = "final cycle suspect theory fashion traffic item fetch neither motion exhaust rabbit";
+var mnemonic = "monitor list youth void champion aerobic below adapt jaguar roast lady gallery";

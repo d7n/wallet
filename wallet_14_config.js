@@ -1,1 +1,1 @@
-var mnemonic = "solar switch only assault december liberty escape six fine rough panel baby";
+var mnemonic = "fit usual there slam core coral drip east denial asthma size define";

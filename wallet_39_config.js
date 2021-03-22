@@ -1,1 +1,1 @@
-var mnemonic = "measure push liberty shoe neither polar luxury state tomato trouble horror night";
+var mnemonic = "gather method noise hazard credit raise shoe normal skill twist number priority";

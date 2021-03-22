@@ -1,1 +1,1 @@
-var mnemonic = "apart life trade paddle assume daughter recall message long cheap behave young";
+var mnemonic = "gesture civil shield venue kangaroo great furnace witness observe unusual polar later";

@@ -1,1 +1,1 @@
-var mnemonic = "own job special cute slight course art pudding fee hobby derive pulse";
+var mnemonic = "vocal license hospital mercy sight quarter cloud elegant aspect grain error keep";

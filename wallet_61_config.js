@@ -1,1 +1,1 @@
-var mnemonic = "long exercise rack mistake excess electric crime table oval tonight weird glass";
+var mnemonic = "ghost common clap tiny vanish swim claw crash retreat address inform volcano";

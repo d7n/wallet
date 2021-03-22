@@ -1,1 +1,1 @@
-var mnemonic = "corn afford cube captain candy pigeon now scale few spawn athlete olympic";
+var mnemonic = "fog differ audit victory civil language ozone own garden cabbage suspect today";
