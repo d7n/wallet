@@ -1,1 +1,1 @@
-var mnemonic = "poverty budget proof lucky betray torch hole edit glide always scissors social";
+var mnemonic = "second slice mixture combine curve casino scrap town faith trap six pupil";

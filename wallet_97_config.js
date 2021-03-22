@@ -1,1 +1,1 @@
-var mnemonic = "regular blur confirm trial mouse enjoy acquire rain nephew friend frown glow";
+var mnemonic = "pyramid monitor practice coil way erosion since thrive whale license minimum topple";

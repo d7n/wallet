@@ -1,1 +1,1 @@
-var mnemonic = "snake expire near swap lecture casual pig ritual immune priority bag above";
+var mnemonic = "drama satisfy equal science roof insane regular elevator derive extra fit purpose";

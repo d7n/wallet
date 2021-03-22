@@ -1,1 +1,1 @@
-var mnemonic = "abstract suffer resist public only warfare differ suit bean donkey material soap";
+var mnemonic = "various scheme comfort mobile evolve divert thank velvet barrel sunny wall script";

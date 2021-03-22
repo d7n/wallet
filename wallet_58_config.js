@@ -1,1 +1,1 @@
-var mnemonic = "infant alert domain note under tower twenty purse then off web layer";
+var mnemonic = "public urge spawn usage skill wage easy salon ugly south border weasel";

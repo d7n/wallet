@@ -1,1 +1,1 @@
-var mnemonic = "renew chalk world fox present scare heart visit garden grant best circle";
+var mnemonic = "exit almost boost base stem iron shed lift broken burden together crunch";

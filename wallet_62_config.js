@@ -1,1 +1,1 @@
-var mnemonic = "kick cable melody sketch fever spice receive paddle diet album patrol piece";
+var mnemonic = "gasp beach draw negative pottery decline hurt same unknown identify merge breeze";

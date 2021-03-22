@@ -1,1 +1,1 @@
-var mnemonic = "faith swallow split train mountain mobile announce inquiry empower track ghost pluck";
+var mnemonic = "glow silk dwarf fancy garage bright shove sugar method involve decrease loyal";

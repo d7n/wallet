@@ -1,1 +1,1 @@
-var mnemonic = "domain post royal absorb doctor pigeon cry pact real more cool nephew";
+var mnemonic = "fetch soap subject vital betray put infant dinner analyst tube ignore fresh";

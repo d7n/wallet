@@ -1,1 +1,1 @@
-var mnemonic = "diamond sell omit flower profit apology kid north always laugh unfair lonely";
+var mnemonic = "deposit hello tree once biology behind wonder grape easily cloth firm brave";

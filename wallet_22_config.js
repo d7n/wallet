@@ -1,1 +1,1 @@
-var mnemonic = "version invite crumble duck avocado salad either weather beyond season crater benefit";
+var mnemonic = "film also symbol click hollow hidden enough cruise endless winter palace scatter";

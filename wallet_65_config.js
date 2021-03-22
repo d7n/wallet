@@ -1,1 +1,1 @@
-var mnemonic = "melt eternal plastic payment host share found weekend metal relax claim gentle";
+var mnemonic = "tackle sausage mimic alert cheap profit need debate version symbol project quit";

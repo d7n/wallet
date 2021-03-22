@@ -1,1 +1,1 @@
-var mnemonic = "second flower profit cram tonight comfort hover spider make caught grow rich";
+var mnemonic = "produce round siren note adult clerk define jar isolate open expect ten";

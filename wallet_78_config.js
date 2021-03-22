@@ -1,1 +1,1 @@
-var mnemonic = "drill fence fever index bacon bottom satoshi start asset tilt rent laundry";
+var mnemonic = "negative seminar arrow track face walk duck theme gain onion test song";

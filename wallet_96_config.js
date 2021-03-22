@@ -1,1 +1,1 @@
-var mnemonic = "biology weird dignity bronze depend exile toe suffer diagram whisper usage frost";
+var mnemonic = "beef glass topic mouse flag surge scatter alley sure explain kitten innocent";

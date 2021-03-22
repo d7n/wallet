@@ -1,1 +1,1 @@
-var mnemonic = "inherit remind hub today equal kidney slow polar sausage tattoo century setup";
+var mnemonic = "laundry want machine lunch nuclear donate during bamboo clarify bulb wagon swarm";

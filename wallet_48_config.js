@@ -1,1 +1,1 @@
-var mnemonic = "snow puppy jungle garbage shed unlock ecology decorate giant gossip between original";
+var mnemonic = "pelican upon window simple few stumble coconut correct sport click device disease";

@@ -1,1 +1,1 @@
-var mnemonic = "end survey rent mesh edge harsh little vivid market raw parent quote";
+var mnemonic = "travel achieve fatal canvas fox embody please notice fly flight attract bonus";

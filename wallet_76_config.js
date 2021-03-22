@@ -1,1 +1,1 @@
-var mnemonic = "famous friend humble render reveal leg cat pigeon glad faint mix twice";
+var mnemonic = "fire boil ensure solar gain father rifle orbit vehicle bicycle series income";

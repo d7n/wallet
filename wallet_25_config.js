@@ -1,1 +1,1 @@
-var mnemonic = "achieve stereo regret blouse zero glare veteran proof unfold pumpkin verb victory";
+var mnemonic = "volume fiber then flame title tissue will feed observe swim case ahead";

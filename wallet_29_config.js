@@ -1,1 +1,1 @@
-var mnemonic = "grit warrior crumble rescue camera table pioneer pond noise upset cinnamon scheme";
+var mnemonic = "cart humble hire very despair saddle visit hollow section benefit unusual mosquito";

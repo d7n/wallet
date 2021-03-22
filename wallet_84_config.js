@@ -1,1 +1,1 @@
-var mnemonic = "walnut surprise globe level good caution gesture uphold capable brain series swap";
+var mnemonic = "coyote shrug chicken squirrel zoo cousin saddle snap squirrel marine fuel add";

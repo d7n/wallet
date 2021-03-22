@@ -1,1 +1,1 @@
-var mnemonic = "invest shine mean grid vicious admit involve flip huge universe home spot";
+var mnemonic = "urban chest play pizza stick rookie garbage crumble script absurd soccer useless";

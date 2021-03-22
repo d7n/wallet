@@ -1,1 +1,1 @@
-var mnemonic = "flavor monkey armed spend series decorate oxygen artist client staff type timber";
+var mnemonic = "ancient into gym blouse cost end deny pigeon dumb tonight crazy rotate";

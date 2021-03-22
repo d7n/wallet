@@ -1,1 +1,1 @@
-var mnemonic = "face brave worry admit reopen scatter toast resist top torch aim walnut";
+var mnemonic = "anchor globe lobster desk puzzle glare garment diesel tilt have nominee swarm";

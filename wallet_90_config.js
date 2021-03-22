@@ -1,1 +1,1 @@
-var mnemonic = "assault angle doll apart dirt antique nerve initial rent punch typical hello";
+var mnemonic = "drip ensure absurd seek meadow pigeon iron page vessel arrest tank enemy";

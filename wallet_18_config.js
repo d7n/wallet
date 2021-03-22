@@ -1,1 +1,1 @@
-var mnemonic = "window gorilla wet hold outdoor index harvest bid flag food elder power";
+var mnemonic = "behind combine agree cash assume seminar vital promote cinnamon congress toddler law";

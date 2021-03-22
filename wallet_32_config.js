@@ -1,1 +1,1 @@
-var mnemonic = "scrub connect lecture auto cargo junior pluck team agree aisle fever exchange";
+var mnemonic = "visit extend ask poet welcome evoke infant crumble drastic know marine solid";

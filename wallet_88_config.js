@@ -1,1 +1,1 @@
-var mnemonic = "topple violin bicycle bacon brick throw shallow cement scale exhibit swear acquire";
+var mnemonic = "try love slot game popular also garbage dream pigeon essence earn world";

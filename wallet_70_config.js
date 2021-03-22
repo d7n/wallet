@@ -1,1 +1,1 @@
-var mnemonic = "wild rifle capable please brain mushroom still chair miss allow price galaxy";
+var mnemonic = "car they outdoor blind visual surprise main pave effort trumpet raccoon skate";

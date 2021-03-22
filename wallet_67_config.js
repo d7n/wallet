@@ -1,1 +1,1 @@
-var mnemonic = "short cricket valve risk demand top observe devote perfect joke achieve scene";
+var mnemonic = "bind avoid urban category riot provide bomb ask alert author mix grab";

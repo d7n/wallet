@@ -1,1 +1,1 @@
-var mnemonic = "dumb palm pear future pottery thank thing silver topic crumble staff drastic";
+var mnemonic = "quarter pear script husband owner riot license rug mesh vendor tunnel refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "eager supply math antenna dose witness story kid project juice identify hero";
+var mnemonic = "pupil type harvest divorce enroll obvious jump guide novel suspect perfect olive";

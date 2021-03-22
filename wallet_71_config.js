@@ -1,1 +1,1 @@
-var mnemonic = "adapt joy quick shiver tenant jar other social knife left require timber";
+var mnemonic = "gown gather finish elder pilot tonight hamster wash march isolate century uniform";

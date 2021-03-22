@@ -1,1 +1,1 @@
-var mnemonic = "interest warrior adjust occur surround merit diary south feel riot scrub doctor";
+var mnemonic = "square man bid peasant word shield address select aim clay finger chief";

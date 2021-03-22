@@ -1,1 +1,1 @@
-var mnemonic = "electric elite depth dolphin gift mimic edit unusual method novel hurry draw";
+var mnemonic = "lion marble busy deliver isolate minimum aware number loud price hobby argue";

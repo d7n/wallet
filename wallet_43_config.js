@@ -1,1 +1,1 @@
-var mnemonic = "range already boy dragon aspect science visa cycle genuine plug unlock relief";
+var mnemonic = "brass patch ask mercy believe fold victory mother evil hazard saddle bottom";

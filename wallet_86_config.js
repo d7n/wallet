@@ -1,1 +1,1 @@
-var mnemonic = "strong poverty treat settle lounge upon avocado lamp fiber receive exclude diagram";
+var mnemonic = "habit veteran donate vibrant cluster rug code fog spirit cheap van hello";

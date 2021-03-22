@@ -1,1 +1,1 @@
-var mnemonic = "butter major amused impulse ridge leaf stone divert drill camera pull side";
+var mnemonic = "hurdle million solid melody wink raven bus lend grocery police boost royal";

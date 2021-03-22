@@ -1,1 +1,1 @@
-var mnemonic = "ugly salon soccer hold dirt ladder flat park board scorpion gaze assume";
+var mnemonic = "evoke jazz screen visit burger decline there bench spider truly high laundry";

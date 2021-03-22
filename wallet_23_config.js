@@ -1,1 +1,1 @@
-var mnemonic = "tuition victory maid fancy hammer token often face talk shuffle kit repeat";
+var mnemonic = "neglect shaft erupt bright few impose normal finger screen muscle anxiety fit";

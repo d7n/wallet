@@ -1,1 +1,1 @@
-var mnemonic = "fat elevator option pool hospital destroy knife check choose month armor true";
+var mnemonic = "cigar indicate empower change fuel salmon accuse vehicle bench unlock faint myself";

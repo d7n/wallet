@@ -1,1 +1,1 @@
-var mnemonic = "situate job much ostrich double reward enroll pistol abuse soda lady observe";
+var mnemonic = "clock divorce tonight walk close put fame lawsuit hint curtain excite glad";

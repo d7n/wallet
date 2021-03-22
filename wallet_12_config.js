@@ -1,1 +1,1 @@
-var mnemonic = "utility age fade omit fever chronic priority thrive frozen disagree wife require";
+var mnemonic = "upset cliff cereal health nurse ignore vague practice flash inquiry target close";

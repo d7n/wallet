@@ -1,1 +1,1 @@
-var mnemonic = "nephew bargain grant derive hole latin drive spot perfect retreat logic quiz";
+var mnemonic = "dumb duck animal chef tortoise now verify void broken table wise addict";

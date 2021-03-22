@@ -1,1 +1,1 @@
-var mnemonic = "flee squeeze shrug twice cover duty cigar market bench move rotate carry";
+var mnemonic = "tattoo gate kingdom funny taxi salad lounge fade track depend insect ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate student limit oval unusual jar boss satisfy recall raccoon that soccer";
+var mnemonic = "theory cup mother february afford renew frozen chef roof valve fatal bargain";

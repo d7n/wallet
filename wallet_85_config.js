@@ -1,1 +1,1 @@
-var mnemonic = "rule east catch squeeze master blue found upset leaf what blanket addict";
+var mnemonic = "quiz gold belt timber shadow lemon leisure invite random approve stuff never";

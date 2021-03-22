@@ -1,1 +1,1 @@
-var mnemonic = "ancient essence three rebuild surface slush worth roof boat orchard process choice";
+var mnemonic = "remember orient mule bottom crunch stomach peasant expose abstract immune agree wood";

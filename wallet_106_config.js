@@ -1,1 +1,1 @@
-var mnemonic = "humor income hard bag people cart mom drip elbow install arch proof";
+var mnemonic = "cluster produce moon because copper marriage brief toast prevent please novel sponsor";

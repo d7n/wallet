@@ -1,1 +1,1 @@
-var mnemonic = "shine dove theme grid farm rack bench black meadow limb word axis";
+var mnemonic = "dress opera waste measure lemon enact idle struggle bench timber hire defy";

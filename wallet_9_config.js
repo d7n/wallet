@@ -1,1 +1,1 @@
-var mnemonic = "cradle album rail fish exclude hero sunset rifle learn fortune stone solid";
+var mnemonic = "unfold inmate dilemma swamp acquire gaze east found raccoon danger toss pilot";

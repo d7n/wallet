@@ -1,1 +1,1 @@
-var mnemonic = "apart comic employ mammal output zero glimpse detail easy second please auction";
+var mnemonic = "base blossom interest dinosaur busy path you decrease cricket cancel glove twin";

@@ -1,1 +1,1 @@
-var mnemonic = "asset edit opera hidden carry burden initial february dice autumn toddler load";
+var mnemonic = "will inmate toilet elite soon wage essay balance exhibit budget relax under";

@@ -1,1 +1,1 @@
-var mnemonic = "track drama check ghost fall moral survey method remain palace grunt ball";
+var mnemonic = "sea keen twin stone surround service trend student avocado tower sunny habit";

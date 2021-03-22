@@ -1,1 +1,1 @@
-var mnemonic = "sense eternal thunder dirt frozen material opinion mixture junk raccoon noodle index";
+var mnemonic = "shadow before tonight broccoli wonder girl bamboo clap kiwi stuff rib afraid";

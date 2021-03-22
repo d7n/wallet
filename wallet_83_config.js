@@ -1,1 +1,1 @@
-var mnemonic = "vague reduce remind vocal round clown waste topple cake sniff front way";
+var mnemonic = "tenant innocent layer prevent vibrant practice pole airport voyage parrot flip daring";

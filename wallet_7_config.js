@@ -1,1 +1,1 @@
-var mnemonic = "must reveal miss mail tennis prison rescue quality speak produce quality alert";
+var mnemonic = "hello shell ride unlock assume few loop wise ethics screen baby donkey";

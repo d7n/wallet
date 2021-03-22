@@ -1,1 +1,1 @@
-var mnemonic = "water derive sure already width toilet wage asthma tribe motion swift more";
+var mnemonic = "wink trick art gold sea window lemon blast sorry cinnamon lounge travel";

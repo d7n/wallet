@@ -1,1 +1,1 @@
-var mnemonic = "sunny rigid broken mechanic remain patch lecture blue decide basic move dial";
+var mnemonic = "horn will message glue taste merry taste success black biology shop cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "one service liquid object album nose route parade forest logic amount raccoon";
+var mnemonic = "today omit music crime diamond opera mom choose morning island collect gospel";

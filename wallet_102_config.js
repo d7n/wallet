@@ -1,1 +1,1 @@
-var mnemonic = "unknown emotion market tiger pioneer vibrant forest car gather black ramp only";
+var mnemonic = "tragic liquid jewel analyst trophy crawl carbon chuckle solid like maid soccer";

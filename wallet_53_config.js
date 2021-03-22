@@ -1,1 +1,1 @@
-var mnemonic = "mirror wise garment unable dice common deputy depart pig parade ecology raw";
+var mnemonic = "credit usage carbon arm cup trip river alarm skin cover flat appear";

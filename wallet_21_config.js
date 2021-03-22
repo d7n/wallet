@@ -1,1 +1,1 @@
-var mnemonic = "average say small match south fog arch tray drip cannon off suffer";
+var mnemonic = "pony amused version color nose hard draw fault cereal best kangaroo tattoo";

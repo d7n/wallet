@@ -1,1 +1,1 @@
-var mnemonic = "ship stereo payment oblige cloud derive moment adjust stem account trap deposit";
+var mnemonic = "remove blast yellow surge quote glue autumn alert claw sweet odor network";

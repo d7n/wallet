@@ -1,1 +1,1 @@
-var mnemonic = "refuse drip awkward bring nominee easily pair loyal helmet can dirt own";
+var mnemonic = "region theory table praise repair tennis solve state ski final brave job";

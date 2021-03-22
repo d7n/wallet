@@ -1,1 +1,1 @@
-var mnemonic = "sea sketch defense seven genuine owner apart lens airport merry wasp bone";
+var mnemonic = "demise rate smooth camera mass fly bundle void lemon asthma language put";

@@ -1,1 +1,1 @@
-var mnemonic = "room nasty talk neck flock lounge stem cattle shrug dice prevent exchange";
+var mnemonic = "result march action mail unable suspect mean warfare twenty resource suffer want";

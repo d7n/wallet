@@ -1,1 +1,1 @@
-var mnemonic = "pigeon replace forest convince exchange doll fish enable admit eight occur alley";
+var mnemonic = "civil vague prefer summer bless payment violin reopen clean crazy power marine";

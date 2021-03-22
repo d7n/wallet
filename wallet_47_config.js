@@ -1,1 +1,1 @@
-var mnemonic = "salon immune crystal sun budget honey head cave bulb replace throw hire";
+var mnemonic = "chase vast stick oval sock tired sort sweet rigid deer more trigger";

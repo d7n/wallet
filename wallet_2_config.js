@@ -1,1 +1,1 @@
-var mnemonic = "practice bridge bone tone escape potato people range rose price stumble farm";
+var mnemonic = "spider ranch gentle churn that where labor club trip census segment hobby";

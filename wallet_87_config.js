@@ -1,1 +1,1 @@
-var mnemonic = "comfort useful perfect reflect excite slam figure animal turkey tail obscure man";
+var mnemonic = "north loop hover old exchange neglect penalty indoor crowd reopen doctor fringe";

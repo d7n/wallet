@@ -1,1 +1,1 @@
-var mnemonic = "enter rib such donor manual enhance knee develop enable route right govern";
+var mnemonic = "hip learn evidence sniff salute camp check fluid lawsuit cage park tourist";

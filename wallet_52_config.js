@@ -1,1 +1,1 @@
-var mnemonic = "update elbow prosper right exhaust moon nut draw sand crucial stove vessel";
+var mnemonic = "clutch muffin bone merit frame worry future attend spare picture wear tooth";

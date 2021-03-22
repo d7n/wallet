@@ -1,1 +1,1 @@
-var mnemonic = "grow peanut glue assist gaze plate horn fine price satisfy diesel moon";
+var mnemonic = "cherry lamp panel near palm vibrant current climb that predict barrel expand";

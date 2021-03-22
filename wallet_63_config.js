@@ -1,1 +1,1 @@
-var mnemonic = "crew vanish object say calm impact assist mask crumble must cinnamon allow";
+var mnemonic = "limit jump pause camp promote sport category gorilla wage patch horror mystery";

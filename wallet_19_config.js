@@ -1,1 +1,1 @@
-var mnemonic = "target night defense hundred film arena carbon outdoor require put critic reunion";
+var mnemonic = "program fish need drink verb rude tortoise gorilla imitate mother fall draft";

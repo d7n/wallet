@@ -1,1 +1,1 @@
-var mnemonic = "interest fly gate pilot unable acoustic inmate purity behave diamond spy stem";
+var mnemonic = "athlete gentle like sad chimney now brave minor orient champion license pave";

@@ -1,1 +1,1 @@
-var mnemonic = "debate brand essay circle urban noise vote error spike during leisure follow";
+var mnemonic = "convince erosion bounce swear live kite pink fresh lawsuit someone hurdle argue";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel argue era skull dune gauge fine try word you pole crunch";
+var mnemonic = "rather warrior rack then burger volcano gap smoke engage slim lake swift";

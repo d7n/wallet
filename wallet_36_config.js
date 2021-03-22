@@ -1,1 +1,1 @@
-var mnemonic = "lift immune ecology solution frozen trend term speed ecology undo review neither";
+var mnemonic = "dinosaur member table swim please blush broccoli hotel empower heart hello dice";

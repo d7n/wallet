@@ -1,1 +1,1 @@
-var mnemonic = "feature pulp arrive caution love syrup height window melody weather mistake add";
+var mnemonic = "action fever tenant they immune alert picnic sketch bag purse lunch violin";

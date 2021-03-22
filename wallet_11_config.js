@@ -1,1 +1,1 @@
-var mnemonic = "buyer earn motor dog pluck human bonus disagree false unfair oyster wise";
+var mnemonic = "cream scorpion noise sustain quality lizard hunt clown suspect phone vote blood";

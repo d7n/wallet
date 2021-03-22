@@ -1,1 +1,1 @@
-var mnemonic = "sheriff put budget heart business friend elegant coyote cherry genius tobacco hybrid";
+var mnemonic = "come spell faint net squirrel steak snow flash language pole focus creek";

@@ -1,1 +1,1 @@
-var mnemonic = "family choice angle repeat tank offer genre shift front deliver spend tonight";
+var mnemonic = "muscle number police laugh satoshi adult horror sting win work nest stone";

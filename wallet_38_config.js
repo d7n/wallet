@@ -1,1 +1,1 @@
-var mnemonic = "coast cycle taxi reject report quick merit cart need fitness belt shallow";
+var mnemonic = "harvest lecture rich enforce target sorry earn hood learn guilt pair boost";

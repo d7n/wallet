@@ -1,1 +1,1 @@
-var mnemonic = "bike slot police sketch kit twice suit physical inner zero guard borrow";
+var mnemonic = "detail repair multiply network shield autumn silk chief rotate sting chaos draft";

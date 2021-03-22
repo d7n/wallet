@@ -1,1 +1,1 @@
-var mnemonic = "number iron suit wash curtain menu faint inmate antique hat mystery valley";
+var mnemonic = "come share drill tape credit empower enemy response myth material attack cereal";

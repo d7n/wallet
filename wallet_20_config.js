@@ -1,1 +1,1 @@
-var mnemonic = "shaft strategy scheme husband across access cannon more outside negative deliver october";
+var mnemonic = "visa share exhibit kangaroo across culture parrot elegant roof siren common annual";

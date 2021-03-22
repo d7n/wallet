@@ -1,1 +1,1 @@
-var mnemonic = "guess stone balance link rack noble daring conduct payment energy curious fetch";
+var mnemonic = "obscure catalog exhaust twenty act foot culture toast isolate vanish lift ball";

@@ -1,1 +1,1 @@
-var mnemonic = "patient peace oven also swap please employ army moon trip brass arm";
+var mnemonic = "table medal tortoise pelican become gap excite climb notable ethics brisk scheme";
