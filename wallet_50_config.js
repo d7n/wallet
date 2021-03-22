@@ -1,1 +1,1 @@
-var mnemonic = "anchor erupt burst main thunder veteran south hotel polar long quiz program";
+var mnemonic = "resemble identify cinnamon obtain rival athlete cluster recipe sample accident flag regret";

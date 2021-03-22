@@ -1,1 +1,1 @@
-var mnemonic = "alert note boring plug harsh boy today save mosquito man peace caught";
+var mnemonic = "rubber hurry jealous wealth odor couple silk cram nerve warrior evil shine";

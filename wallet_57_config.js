@@ -1,1 +1,1 @@
-var mnemonic = "group network remove forest finish detect play runway fly divorce stable exhaust";
+var mnemonic = "shallow husband female nothing sheriff exclude swarm pistol clay immune airport endorse";

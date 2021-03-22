@@ -1,1 +1,1 @@
-var mnemonic = "reopen outer defense jump toss alone object unhappy network fancy comfort finish";
+var mnemonic = "address company modify receive craft senior horn scene embark december screen budget";

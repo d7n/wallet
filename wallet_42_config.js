@@ -1,1 +1,1 @@
-var mnemonic = "trade circle since sort cram impulse property evil coral hub uniform spell";
+var mnemonic = "birth prevent benefit hero quarter dignity vague sibling orphan stand give level";

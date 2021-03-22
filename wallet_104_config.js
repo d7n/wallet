@@ -1,1 +1,1 @@
-var mnemonic = "cross tool corn inhale okay machine ankle february regret pet combine fiscal";
+var mnemonic = "place ride lesson quick dirt super mimic assist goose web flower airport";

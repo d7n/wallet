@@ -1,1 +1,1 @@
-var mnemonic = "inflict galaxy smart under dog used hotel busy cliff equip window angle";
+var mnemonic = "share rural time rent hip predict rare long enjoy empty option bean";

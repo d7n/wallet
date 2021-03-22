@@ -1,1 +1,1 @@
-var mnemonic = "nurse flip alert drive choose panther upon spoon mother rhythm shed pilot";
+var mnemonic = "coast rebel lemon notice impact around uniform stamp absorb call live suit";

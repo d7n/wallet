@@ -1,1 +1,1 @@
-var mnemonic = "decade creek profit multiply author garage thought report cake game demise tonight";
+var mnemonic = "style festival screen near six swamp gravity valve service two master hour";

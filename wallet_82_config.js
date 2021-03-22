@@ -1,1 +1,1 @@
-var mnemonic = "harvest bomb crunch hockey wedding science inner inner involve biology cluster admit";
+var mnemonic = "term whip multiply oxygen connect squirrel young truck post lift extra fog";

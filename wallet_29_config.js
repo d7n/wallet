@@ -1,1 +1,1 @@
-var mnemonic = "vessel kitten similar small gesture rent maid symptom math super afraid convince";
+var mnemonic = "trash best awesome fetch wish bright mad vehicle loyal mail estate chimney";

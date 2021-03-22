@@ -1,1 +1,1 @@
-var mnemonic = "destroy define axis ill oblige fiscal live mosquito bless trend equip glass";
+var mnemonic = "asset tiger pull teach person legend analyst speed exact person feature parent";

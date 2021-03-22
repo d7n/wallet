@@ -1,1 +1,1 @@
-var mnemonic = "minor object unhappy spot eyebrow secret soft despair around wheel wink boat";
+var mnemonic = "mandate miracle dismiss vault gown giggle winter primary leader link industry family";

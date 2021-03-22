@@ -1,1 +1,1 @@
-var mnemonic = "dawn pyramid goat rather pupil craft stumble lab liar author catalog outside";
+var mnemonic = "oak pulp bracket grit wrong notable just tobacco sister edit fog yard";

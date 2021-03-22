@@ -1,1 +1,1 @@
-var mnemonic = "inch visual sad worth brisk frown firm double example enough bracket bleak";
+var mnemonic = "dwarf label derive alcohol sound leaf rebuild bacon collect arrow canyon erosion";

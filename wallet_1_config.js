@@ -1,1 +1,1 @@
-var mnemonic = "olympic honey depart duty foam gauge public hub donkey cluster account swing";
+var mnemonic = "area drum crew judge bronze nation office hurry hybrid garlic begin aim";

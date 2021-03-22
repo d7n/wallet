@@ -1,1 +1,1 @@
-var mnemonic = "notice fit desert soap drip wild camp machine strategy fortune sword final";
+var mnemonic = "fix link bridge nasty neck dry hip forum then myself proof duty";

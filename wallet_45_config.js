@@ -1,1 +1,1 @@
-var mnemonic = "curtain hard vacuum naive three planet wave elbow service common stumble strategy";
+var mnemonic = "source snap attend loyal powder galaxy search island salmon evidence raise six";

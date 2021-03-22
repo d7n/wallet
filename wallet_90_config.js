@@ -1,1 +1,1 @@
-var mnemonic = "drink crouch episode dash say air length design course say question poet";
+var mnemonic = "maid mutual middle under liar limb visit core lion broom lake awake";

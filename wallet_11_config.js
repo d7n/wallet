@@ -1,1 +1,1 @@
-var mnemonic = "silly cute pencil skate observe force small pitch tooth print two unique";
+var mnemonic = "clay tissue caution range sponsor fever then erase zone hope tell half";

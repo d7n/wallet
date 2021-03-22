@@ -1,1 +1,1 @@
-var mnemonic = "smoke suit noise elbow relax frost convince color false grief drill scorpion";
+var mnemonic = "can acquire lady concert urban type blood inherit session nut antique horse";

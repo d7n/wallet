@@ -1,1 +1,1 @@
-var mnemonic = "vanish style lake large pond report cart original palm anxiety crater situate";
+var mnemonic = "wagon hard parade hockey alpha flash scrub smooth behind push sauce tomorrow";

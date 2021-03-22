@@ -1,1 +1,1 @@
-var mnemonic = "faculty prevent spend lawsuit copy victory trend juice clever uphold scrub trouble";
+var mnemonic = "curious frown also sock grocery empty sense number vibrant attend hole metal";

@@ -1,1 +1,1 @@
-var mnemonic = "print prize together stem horror beauty cage cinnamon connect connect soap option";
+var mnemonic = "love gravity jewel exercise coconut fatal wish awake pill relief cousin vehicle";

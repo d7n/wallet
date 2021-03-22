@@ -1,1 +1,1 @@
-var mnemonic = "ugly evoke bar inch meadow curious journey gate dizzy wisdom spread hard";
+var mnemonic = "type floor wreck quarter wrong notice setup foster cricket section husband please";

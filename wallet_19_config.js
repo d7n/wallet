@@ -1,1 +1,1 @@
-var mnemonic = "spy select auto amount cherry purpose tourist olive glad coyote feel gap";
+var mnemonic = "interest butter cotton proud bomb order embrace forward tuition labor miss motion";

@@ -1,1 +1,1 @@
-var mnemonic = "brave humble reason orbit clerk bonus leader light maze strong sentence jewel";
+var mnemonic = "ladder grace before dial hat music present moral father scout dawn lion";

@@ -1,1 +1,1 @@
-var mnemonic = "twist modify artwork fan avoid business century beef amount neutral weapon name";
+var mnemonic = "avocado name bitter coast place remove area flush elephant buyer slab borrow";

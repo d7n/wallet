@@ -1,1 +1,1 @@
-var mnemonic = "wave mistake good cat celery seven general cliff life top drive ability";
+var mnemonic = "fortune garment sting core warfare pink finger faculty fee build depart illness";

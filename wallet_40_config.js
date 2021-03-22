@@ -1,1 +1,1 @@
-var mnemonic = "wave help stem pizza grain pool tent soft mutual light father lounge";
+var mnemonic = "harbor mad priority inch wage minute devote crew about enroll drastic solve";

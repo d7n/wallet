@@ -1,1 +1,1 @@
-var mnemonic = "length bargain subway square seek nurse federal phrase divide worth ball three";
+var mnemonic = "jeans jelly grocery father forward lamp sunset hospital test grass behave throw";

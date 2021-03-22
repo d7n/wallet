@@ -1,1 +1,1 @@
-var mnemonic = "medal census retreat pear tonight talk panel clump electric stick school floor";
+var mnemonic = "tunnel wait vague absorb duty fresh release arrow tape tribe average still";

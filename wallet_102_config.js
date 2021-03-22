@@ -1,1 +1,1 @@
-var mnemonic = "royal balance jelly liberty jeans popular identify climb suggest bargain fancy glove";
+var mnemonic = "peace airport forest indoor spider sand eye noise angry violin entry search";

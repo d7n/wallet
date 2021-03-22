@@ -1,1 +1,1 @@
-var mnemonic = "creek amateur oven hidden cherry nothing transfer access skirt inform used clap";
+var mnemonic = "amazing seven actor lady idea coast route planet fade legal need best";

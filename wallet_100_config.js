@@ -1,1 +1,1 @@
-var mnemonic = "fantasy trumpet blur age pepper upon arrange claim banana vague rude depend";
+var mnemonic = "extend decade boat provide vibrant high shine embark slim dream village attend";

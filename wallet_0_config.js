@@ -1,1 +1,1 @@
-var mnemonic = "address used step fall large flavor dog motion enemy speed shove theory";
+var mnemonic = "monster soccer category attack essence lounge month metal deposit example document stable";

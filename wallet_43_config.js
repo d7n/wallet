@@ -1,1 +1,1 @@
-var mnemonic = "crouch drum brain misery stock disorder cactus divide raw brass vital source";
+var mnemonic = "river mind cat stomach tank swap rubber room visual hybrid hammer trouble";

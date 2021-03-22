@@ -1,1 +1,1 @@
-var mnemonic = "typical usage blade load among glow lazy sand all doll screen prison";
+var mnemonic = "dune wolf peace panda medal ring layer wash life ethics flower pudding";

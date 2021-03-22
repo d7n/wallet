@@ -1,1 +1,1 @@
-var mnemonic = "picnic vault drill cat useful tuna guard renew portion rich curious pulse";
+var mnemonic = "ride grunt improve eight worry employ lamp mammal crack onion volume deliver";

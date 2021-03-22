@@ -1,1 +1,1 @@
-var mnemonic = "surface stone record tissue hundred net enhance spoil good kitchen popular drive";
+var mnemonic = "recall spell traffic answer certain float host curious copy zero ready bean";

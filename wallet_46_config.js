@@ -1,1 +1,1 @@
-var mnemonic = "ramp boy letter pole dash time sick west flavor chronic kitchen census";
+var mnemonic = "weather ensure satisfy method cake horn you pill govern broken submit olympic";

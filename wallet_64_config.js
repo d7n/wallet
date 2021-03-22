@@ -1,1 +1,1 @@
-var mnemonic = "eagle series project ahead mosquito slow awesome sail column tired soldier engine";
+var mnemonic = "dolphin aspect opinion engine proof route say zoo guard consider blur mixed";

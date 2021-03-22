@@ -1,1 +1,1 @@
-var mnemonic = "actor copy wise above grow point horse wheel village three suffer corn";
+var mnemonic = "tape swallow shoe capable chase regret tool sleep cricket melody pottery fence";

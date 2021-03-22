@@ -1,1 +1,1 @@
-var mnemonic = "tattoo tonight hunt sauce opinion brisk shell moral print must burst sword";
+var mnemonic = "vehicle actor bunker immense render cart bomb tornado find select glow two";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest call connect catch proof scrap gain record health ankle raw correct";
+var mnemonic = "dinner august sister gate cube repair ketchup wrestle magic life mix small";

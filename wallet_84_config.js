@@ -1,1 +1,1 @@
-var mnemonic = "belt diary one balcony topic ignore course gas error little twist awesome";
+var mnemonic = "media deposit myself hat boy giraffe blossom letter large differ venue rather";

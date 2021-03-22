@@ -1,1 +1,1 @@
-var mnemonic = "cost include filter public surprise ramp kind start million meadow dutch trap";
+var mnemonic = "grunt salmon carbon country decorate where tourist bean bulb legal food crew";

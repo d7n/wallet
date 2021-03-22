@@ -1,1 +1,1 @@
-var mnemonic = "victory priority best boring tenant hockey chaos over better ethics solar cream";
+var mnemonic = "fragile dance eye arch ketchup loop street sight sign miracle lend abandon";

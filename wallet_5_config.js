@@ -1,1 +1,1 @@
-var mnemonic = "blush course attack coast supply vessel dinosaur ghost sail ancient before fame";
+var mnemonic = "safe practice evidence roast citizen sound venture foam corn village dash menu";

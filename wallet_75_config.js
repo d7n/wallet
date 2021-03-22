@@ -1,1 +1,1 @@
-var mnemonic = "rate glow priority enroll general omit avocado first quick rural fix word";
+var mnemonic = "sweet pyramid great magic flush vast hole text van shrug joke north";

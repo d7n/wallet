@@ -1,1 +1,1 @@
-var mnemonic = "skate youth peasant hero monster barrel assault visa kiwi shadow essence dad";
+var mnemonic = "lizard smooth awkward team just nothing circle scale neck muffin time ripple";

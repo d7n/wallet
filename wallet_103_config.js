@@ -1,1 +1,1 @@
-var mnemonic = "mass image venture office clog learn kingdom letter window idea swamp motion";
+var mnemonic = "essence ticket forward ethics smooth buyer during give ahead judge bike spend";

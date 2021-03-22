@@ -1,1 +1,1 @@
-var mnemonic = "sound bitter milk belt wagon mercy imitate deliver curious typical loan increase";
+var mnemonic = "angry bachelor join velvet error moment gas output cinnamon wire sell resource";

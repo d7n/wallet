@@ -1,1 +1,1 @@
-var mnemonic = "horn myth remember expire lawsuit fitness security identify pelican battle endless trust";
+var mnemonic = "slab deny south verb build beyond security shallow burden rose vibrant common";

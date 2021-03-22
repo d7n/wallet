@@ -1,1 +1,1 @@
-var mnemonic = "spring divide story run cotton close cart govern city main negative crunch";
+var mnemonic = "spot enable inflict luggage aunt finish theory fit cheap there warm coffee";

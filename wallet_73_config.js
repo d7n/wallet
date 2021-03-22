@@ -1,1 +1,1 @@
-var mnemonic = "dignity stamp patch eager soul denial hurt purpose remind mistake ozone fat";
+var mnemonic = "evidence dance fresh slender rule oak ostrich tortoise odor rescue carbon scrub";

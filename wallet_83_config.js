@@ -1,1 +1,1 @@
-var mnemonic = "cereal medal document health island kid ginger assume tail usual labor oven";
+var mnemonic = "false gaze flower dutch poet ice clay plastic bicycle gold brush visit";

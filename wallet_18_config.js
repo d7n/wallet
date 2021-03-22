@@ -1,1 +1,1 @@
-var mnemonic = "obscure dutch logic extend thunder bunker author harvest million source favorite cheap";
+var mnemonic = "loan outer refuse derive three bitter hat hammer case cargo absorb arrest";

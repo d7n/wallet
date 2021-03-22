@@ -1,1 +1,1 @@
-var mnemonic = "debris bind bind travel ice alley inhale caught team desk goat pluck";
+var mnemonic = "tattoo drama lend trouble little desk pole yellow mean afford battle middle";

@@ -1,1 +1,1 @@
-var mnemonic = "trend snow boost pluck dutch rule tuna finger slab cement adjust horse";
+var mnemonic = "vessel bonus arm basket strike salon scale road own october ginger chicken";

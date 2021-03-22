@@ -1,1 +1,1 @@
-var mnemonic = "hybrid make adapt stadium purpose august text voyage plug upgrade endorse girl";
+var mnemonic = "device rocket major lesson around proof page company guide maze canyon pretty";

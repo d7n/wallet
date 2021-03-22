@@ -1,1 +1,1 @@
-var mnemonic = "denial element object metal laptop cycle panel turtle thunder cupboard helmet range";
+var mnemonic = "giraffe pause riot only question damage sudden unable slide model wreck quote";

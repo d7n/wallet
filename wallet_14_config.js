@@ -1,1 +1,1 @@
-var mnemonic = "sleep wheat beyond panel culture hazard toast cradle turn warm soon pet";
+var mnemonic = "month dutch onion page genius outdoor grain file annual permit east country";

@@ -1,1 +1,1 @@
-var mnemonic = "useful tree consider helmet term couch car asset afraid blade loud damp";
+var mnemonic = "orient seminar kick panther brass deal awkward when power artist exist lunar";

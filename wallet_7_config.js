@@ -1,1 +1,1 @@
-var mnemonic = "smooth cushion plug cheese arch domain vehicle joy degree era nut upgrade";
+var mnemonic = "debate island pass wing pact split worth soccer kid grunt slam merit";

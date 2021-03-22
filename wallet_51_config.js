@@ -1,1 +1,1 @@
-var mnemonic = "aunt faith alter argue submit peace exact return you gentle tank glad";
+var mnemonic = "vacant crunch wink rather poverty spirit foot wheat index fiber ghost tank";

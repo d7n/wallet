@@ -1,1 +1,1 @@
-var mnemonic = "sauce gospel beyond police actual trigger grant carpet insect ceiling sentence notice";
+var mnemonic = "pyramid ready mercy toe empower addict put ripple vital hen morning meadow";

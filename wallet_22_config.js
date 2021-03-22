@@ -1,1 +1,1 @@
-var mnemonic = "oven about one close purity mango oil bomb occur enter loud cube";
+var mnemonic = "seat dismiss nephew analyst carbon endorse furnace mirror dawn time expire stay";

@@ -1,1 +1,1 @@
-var mnemonic = "number armed claw spike song harvest execute desert work crucial rare jealous";
+var mnemonic = "wash verb bubble focus ring worth key kick label wife maximum guide";

@@ -1,1 +1,1 @@
-var mnemonic = "size mercy iron year chest unveil worth team ecology young hospital sudden";
+var mnemonic = "crater duck remain aerobic rule below secret admit flavor merit control enroll";

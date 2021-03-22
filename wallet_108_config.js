@@ -1,1 +1,1 @@
-var mnemonic = "sustain buffalo below surround shiver inside someone arrive width flash fatigue like";
+var mnemonic = "toe drink already image track anger load neither fantasy bleak hurt talent";

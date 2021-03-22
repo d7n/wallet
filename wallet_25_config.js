@@ -1,1 +1,1 @@
-var mnemonic = "live depart tiger invest illness wealth enemy debate exhibit arctic mention mother";
+var mnemonic = "length drill thing bike congress weekend rate sea obscure clown upgrade ethics";

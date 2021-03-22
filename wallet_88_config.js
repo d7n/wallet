@@ -1,1 +1,1 @@
-var mnemonic = "soft bird tumble phrase piano laugh sister believe dumb loan keep fun";
+var mnemonic = "citizen scorpion more emerge tuna fabric nature clever strike office social bus";

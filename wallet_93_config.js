@@ -1,1 +1,1 @@
-var mnemonic = "street verb during remember baby distance scare boat century person vacant cushion";
+var mnemonic = "network install method impose clown torch enable skin style owner proud stock";

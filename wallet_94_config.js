@@ -1,1 +1,1 @@
-var mnemonic = "amateur kitchen drill enrich gadget settle artefact expire stool emerge install stand";
+var mnemonic = "crazy seven negative west invite valve come shine feature pupil ridge minor";

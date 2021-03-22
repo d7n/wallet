@@ -1,1 +1,1 @@
-var mnemonic = "consider hat stomach puzzle finger enemy oak marble coconut area fury quality";
+var mnemonic = "scheme knife slice find review screen venture buffalo wing gown life arrest";

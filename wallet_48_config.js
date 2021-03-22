@@ -1,1 +1,1 @@
-var mnemonic = "trip talent hurdle staff plug relief adapt math atom kind april sure";
+var mnemonic = "legend dust stone giggle kid dragon cash develop way uniform permit juice";

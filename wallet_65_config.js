@@ -1,1 +1,1 @@
-var mnemonic = "very utility grid document blood mirror minute blossom essence goat doctor inspire";
+var mnemonic = "write cheese shuffle december blue pizza fetch rocket garbage choose fresh ice";

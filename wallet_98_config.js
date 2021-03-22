@@ -1,1 +1,1 @@
-var mnemonic = "shy enact gym cherry lunch frown hard win squirrel visa witness apart";
+var mnemonic = "valley cat sketch damage robust fiction answer just bonus hollow strike below";

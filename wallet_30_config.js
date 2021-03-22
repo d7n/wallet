@@ -1,1 +1,1 @@
-var mnemonic = "print stone good girl height roof snack nuclear smart cage switch fruit";
+var mnemonic = "violin quote caught bonus mixture whale shed page dog evoke order sense";

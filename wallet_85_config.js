@@ -1,1 +1,1 @@
-var mnemonic = "analyst aerobic change exile butter manual sponsor ski charge valve chair student";
+var mnemonic = "shove peasant leaf admit relief palace vintage coast brave kingdom joke era";

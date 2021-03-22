@@ -1,1 +1,1 @@
-var mnemonic = "shiver hurt funny juice width cheese unfair pause page trip sun repair";
+var mnemonic = "ability sausage wash cotton tool crucial picnic dignity slight quarter few gorilla";

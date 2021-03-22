@@ -1,1 +1,1 @@
-var mnemonic = "pill museum nasty gather chapter trial language worth round august cotton source";
+var mnemonic = "light basket stock chuckle pill donkey thank actor alien awful skirt million";

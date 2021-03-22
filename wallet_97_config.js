@@ -1,1 +1,1 @@
-var mnemonic = "parade found profit manual also narrow cliff surge skill celery plate pig";
+var mnemonic = "report exhibit hundred way analyst purity code hen source toward novel wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "copy success mutual cluster coral logic raw name journey random element embark";
+var mnemonic = "spike glory column rocket tissue change rain praise amount other innocent cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "around butter wink budget appear pony impact match coconut woman critic link";
+var mnemonic = "because weather cheap ribbon void alpha photo smile dizzy question layer provide";

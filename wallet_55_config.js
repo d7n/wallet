@@ -1,1 +1,1 @@
-var mnemonic = "seat special tape robot fun future invite aunt struggle tide glimpse already";
+var mnemonic = "pond cradle crunch image lawsuit cry tragic whisper easy split imitate wasp";

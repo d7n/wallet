@@ -1,1 +1,1 @@
-var mnemonic = "truck sense sure mind rice notice poverty kind despair file amused demand";
+var mnemonic = "initial top survey dizzy seek inform unknown fatal tunnel opinion fox drip";

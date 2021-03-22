@@ -1,1 +1,1 @@
-var mnemonic = "slide dizzy junk allow approve hat very upgrade kiss jelly maple modify";
+var mnemonic = "proof ancient school hole pride aerobic tourist paper night auto other alert";

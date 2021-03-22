@@ -1,1 +1,1 @@
-var mnemonic = "cloud deposit enough example tape umbrella awkward apology pull volume slam maid";
+var mnemonic = "nation clever join differ else churn mushroom cushion maze cabbage model clever";
