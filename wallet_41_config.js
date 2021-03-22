@@ -1,1 +1,1 @@
-var mnemonic = "heart tuition glad kit napkin inform receive nephew hello protect cannon next";
+var mnemonic = "half tape title combine eternal brisk learn salmon foil fluid sample weather";

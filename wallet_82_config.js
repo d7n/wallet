@@ -1,1 +1,1 @@
-var mnemonic = "auction clinic couch release debris strike skin segment off sting dinosaur real";
+var mnemonic = "retreat retreat harvest beyond outer panic narrow motor situate remember junior ocean";

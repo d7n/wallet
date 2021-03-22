@@ -1,1 +1,1 @@
-var mnemonic = "skull unit sting high model defy scene exclude mixed amateur lemon mother";
+var mnemonic = "wasp congress siege right monster speed peace crawl gap tribe warm waste";

@@ -1,1 +1,1 @@
-var mnemonic = "display hobby into bargain resemble find page can tooth surround draw rotate";
+var mnemonic = "paddle mirror tennis robust buzz wire vital leaf trust dignity bracket illegal";

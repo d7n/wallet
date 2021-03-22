@@ -1,1 +1,1 @@
-var mnemonic = "stage duck slot dinner song virus attend receive general patient mouse cram";
+var mnemonic = "guitar plug regret biology coconut vessel behave segment crater vivid spoon alcohol";

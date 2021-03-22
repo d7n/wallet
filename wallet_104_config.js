@@ -1,1 +1,1 @@
-var mnemonic = "code legend usage until strong harsh onion method business hint electric public";
+var mnemonic = "hurry hazard chef army borrow armor agree gallery need unable seat book";

@@ -1,1 +1,1 @@
-var mnemonic = "below thumb educate silk setup kitchen inner sadness quit turn rely humble";
+var mnemonic = "awkward dial fringe option sock cabbage regret unable file online borrow place";

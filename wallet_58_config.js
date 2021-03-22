@@ -1,1 +1,1 @@
-var mnemonic = "receive radio space pattern sponsor ordinary unhappy sustain prison struggle picnic script";
+var mnemonic = "slam axis scene paper street jacket crush power immense donor capable pony";

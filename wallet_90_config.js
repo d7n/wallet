@@ -1,1 +1,1 @@
-var mnemonic = "kiss bird tiger visual wave pencil quit cream dance master web wrong";
+var mnemonic = "what lunar clean involve history glory round discover lawsuit real leg casino";

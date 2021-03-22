@@ -1,1 +1,1 @@
-var mnemonic = "find cannon owner arrange stairs loop before payment syrup hammer student govern";
+var mnemonic = "glory fortune parent reform stuff trumpet fox fringe spell attend frequent brush";

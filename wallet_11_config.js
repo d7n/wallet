@@ -1,1 +1,1 @@
-var mnemonic = "vivid change grass rhythm angry balance arctic other fitness quick guilt police";
+var mnemonic = "element vessel stereo cat economy crash hood lemon spend above merit distance";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe diesel nurse pretty witness fire spirit invite put laptop special liberty";
+var mnemonic = "case garbage moon squirrel planet settle disorder execute solid urge stumble uncover";

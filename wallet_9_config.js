@@ -1,1 +1,1 @@
-var mnemonic = "elite barely trust prepare salon relax actual rigid device dragon security clarify";
+var mnemonic = "noise ask use horse erode finish paddle height lecture that fix laundry";

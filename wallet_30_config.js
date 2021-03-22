@@ -1,1 +1,1 @@
-var mnemonic = "harvest toward skull hero attack tongue hint predict rib gas regular robust";
+var mnemonic = "dumb waste wolf parent erosion wrong wedding impulse excite shiver craft where";

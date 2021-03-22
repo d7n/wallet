@@ -1,1 +1,1 @@
-var mnemonic = "trap ocean love hunt congress calm track fiscal clap hawk away attend";
+var mnemonic = "sketch bottom raw torch segment pave artist camera young rural general pudding";

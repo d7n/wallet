@@ -1,1 +1,1 @@
-var mnemonic = "harbor yellow obtain large pioneer gospel olive spell clap amateur scene bring";
+var mnemonic = "step odor palace eternal total viable visit heavy goose goose scene ill";

@@ -1,1 +1,1 @@
-var mnemonic = "motor vivid run desert square frog patch affair option timber gown soup";
+var mnemonic = "bind elegant can forest trigger grocery pass brief one grit street observe";

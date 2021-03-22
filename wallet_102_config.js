@@ -1,1 +1,1 @@
-var mnemonic = "canal timber basket discover essence usual exact project toss unhappy detect ranch";
+var mnemonic = "awake shoe frog visit wolf express radio switch dirt fog spin explain";

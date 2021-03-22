@@ -1,1 +1,1 @@
-var mnemonic = "rebuild owner void moral crisp width pigeon explain cram attitude topic teach";
+var mnemonic = "clock chicken latin seven emotion middle tank announce danger wheat gather little";

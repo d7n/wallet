@@ -1,1 +1,1 @@
-var mnemonic = "sock book gain engine then south please kiss tell exit brisk legal";
+var mnemonic = "artwork swing evil number gas blush adult still about three logic weasel";

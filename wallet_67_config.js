@@ -1,1 +1,1 @@
-var mnemonic = "plunge core major initial maple either speed favorite logic opinion oil swing";
+var mnemonic = "between edit light often plate collect try assist matter raise young vacant";

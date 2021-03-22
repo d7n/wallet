@@ -1,1 +1,1 @@
-var mnemonic = "ketchup pact country fog lazy offer unit jaguar fix you range speed";
+var mnemonic = "turkey access evidence entire monster parent private enrich alien guilt time express";

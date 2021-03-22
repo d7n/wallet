@@ -1,1 +1,1 @@
-var mnemonic = "twice great payment idea stool grab jewel opinion phrase vintage volume guess";
+var mnemonic = "immune bridge comic half swallow seminar seminar swear obscure wisdom element bean";

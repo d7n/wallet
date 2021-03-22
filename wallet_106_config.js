@@ -1,1 +1,1 @@
-var mnemonic = "obey first grid survey convince luxury opinion cloth bring rich survey open";
+var mnemonic = "syrup exchange simple absurd achieve fossil cupboard phone loop near thing rival";

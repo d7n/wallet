@@ -1,1 +1,1 @@
-var mnemonic = "prevent chef way push assault rescue estate digital enter ready job follow";
+var mnemonic = "high carbon zero mind rice such tired disagree easily witness thought already";

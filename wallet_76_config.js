@@ -1,1 +1,1 @@
-var mnemonic = "joke butter match amused unveil decorate bronze limit stumble potato race slush";
+var mnemonic = "movie always input idle dwarf cost palm mask bitter lamp three coral";

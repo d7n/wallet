@@ -1,1 +1,1 @@
-var mnemonic = "whale vacant weekend era across hedgehog issue pluck obtain delay relief renew";
+var mnemonic = "crouch hedgehog bronze domain smile club double orbit bless never autumn shift";

@@ -1,1 +1,1 @@
-var mnemonic = "present until oblige lunar vacuum mass typical quiz tiger bread city stadium";
+var mnemonic = "young focus face step embark twelve final punch birth used across dawn";

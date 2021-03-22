@@ -1,1 +1,1 @@
-var mnemonic = "infant erase syrup album pattern bamboo garbage innocent rose armed advice edit";
+var mnemonic = "day private crawl shiver mad argue iron matrix across time govern maximum";

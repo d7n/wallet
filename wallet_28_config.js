@@ -1,1 +1,1 @@
-var mnemonic = "skin burst meat rug shop record repeat shoulder grant item novel phone";
+var mnemonic = "exile artist canvas crime board stamp regret update flock gadget brass habit";

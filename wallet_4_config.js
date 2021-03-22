@@ -1,1 +1,1 @@
-var mnemonic = "spell dial crumble choose gain oxygen sword drastic pause eight crane divert";
+var mnemonic = "narrow game draft couple mass arrange fantasy airport camera goddess burst eye";

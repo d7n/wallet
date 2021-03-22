@@ -1,1 +1,1 @@
-var mnemonic = "veteran attend waste provide venture silly unusual attack law cloth area lady";
+var mnemonic = "motor idle wrist dinosaur crew toward abandon gadget dash indicate monitor rescue";

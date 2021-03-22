@@ -1,1 +1,1 @@
-var mnemonic = "decide such strategy pilot quick shoulder gun crew sheriff surface method apology";
+var mnemonic = "suffer remain hundred pole truly syrup perfect stay nose jaguar fork drill";

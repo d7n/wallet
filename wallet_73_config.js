@@ -1,1 +1,1 @@
-var mnemonic = "aim gesture peasant apart smoke today witness budget top absorb ignore strategy";
+var mnemonic = "slide view very frame fire inspire city hint review pizza rapid survey";

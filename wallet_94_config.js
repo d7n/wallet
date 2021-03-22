@@ -1,1 +1,1 @@
-var mnemonic = "slice fossil crisp payment frozen wage suggest gun shell differ sustain diamond";
+var mnemonic = "safe sustain already candy paper smart kit canvas teach girl high town";

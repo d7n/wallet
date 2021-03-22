@@ -1,1 +1,1 @@
-var mnemonic = "walk hedgehog canyon prevent grab index wire unit simple cousin resemble father";
+var mnemonic = "liar express apology kick hollow minute rabbit rice dumb heavy again chuckle";

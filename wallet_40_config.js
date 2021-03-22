@@ -1,1 +1,1 @@
-var mnemonic = "inmate jump evidence aware giggle verb quiz nerve marble lonely color entire";
+var mnemonic = "oil excite under ignore noodle follow energy toddler dream tattoo fish identify";

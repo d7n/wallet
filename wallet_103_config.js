@@ -1,1 +1,1 @@
-var mnemonic = "catalog elder utility wasp force start cupboard harsh total tomorrow tumble skate";
+var mnemonic = "furnace armed license comic anxiety hotel search page aspect rapid lady enhance";

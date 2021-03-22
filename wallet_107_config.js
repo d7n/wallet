@@ -1,1 +1,1 @@
-var mnemonic = "panda illness index dance erupt journey grid delay lamp protect close swim";
+var mnemonic = "hero tree kind glance festival start knock deny upgrade switch other country";

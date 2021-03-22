@@ -1,1 +1,1 @@
-var mnemonic = "upgrade length sight that fancy weather key during twenty turkey fortune similar";
+var mnemonic = "vast multiply race rifle kid swamp stock orange copper pipe give record";

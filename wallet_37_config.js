@@ -1,1 +1,1 @@
-var mnemonic = "flag library ability more tank chalk entire motor flag candy fence autumn";
+var mnemonic = "dial ski icon fruit rude stage fault catch insane pumpkin tomorrow tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase limit insane bitter fitness gesture sketch lucky absurd elephant laptop error";
+var mnemonic = "push three clinic copper fruit jealous image empower wink option range fat";

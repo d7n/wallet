@@ -1,1 +1,1 @@
-var mnemonic = "butter novel cat phrase ordinary curve easy control olympic steak height angry";
+var mnemonic = "amazing city frequent any danger weather best remain glove lazy mixture frozen";

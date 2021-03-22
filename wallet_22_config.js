@@ -1,1 +1,1 @@
-var mnemonic = "rabbit regret cruel festival real wrong tilt room kick rigid ladder exercise";
+var mnemonic = "cupboard wash embark tail used wage dry begin brand trigger roast twelve";

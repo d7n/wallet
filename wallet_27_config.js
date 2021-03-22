@@ -1,1 +1,1 @@
-var mnemonic = "motor work question produce hair amount inherit disorder year robot stand wool";
+var mnemonic = "hurdle afraid salute mixed globe thought assault satoshi violin cram giant problem";

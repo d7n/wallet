@@ -1,1 +1,1 @@
-var mnemonic = "vintage duty arrest deputy neck hole party song glove tunnel easily garment";
+var mnemonic = "allow dune hood scrap air joke true solar enroll modify entry wedding";

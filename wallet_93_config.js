@@ -1,1 +1,1 @@
-var mnemonic = "wrestle solar predict kiwi result neck spread person flavor siege oyster wisdom";
+var mnemonic = "envelope trap mesh stone naive scatter crop robot mistake special violin firm";

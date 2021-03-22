@@ -1,1 +1,1 @@
-var mnemonic = "grit coast ozone rebel dash express hunt learn pumpkin leave spatial bubble";
+var mnemonic = "baby mom fetch rose victory future ripple decrease steel mind smile network";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid reunion globe invite pelican fluid medal sense few field concert property";
+var mnemonic = "option icon shift magic learn once ethics steak collect ethics melt pull";

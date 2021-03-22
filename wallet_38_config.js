@@ -1,1 +1,1 @@
-var mnemonic = "symptom wait apart oval kidney print dice moon border ski alter decide";
+var mnemonic = "family subject avoid donor protect hello very dash unknown panic rigid frost";

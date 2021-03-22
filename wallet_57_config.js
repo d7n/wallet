@@ -1,1 +1,1 @@
-var mnemonic = "ivory animal spare source winner glimpse beef office inside soup pair project";
+var mnemonic = "deer valid two toss know crater relax option museum desk slim thrive";

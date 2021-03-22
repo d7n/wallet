@@ -1,1 +1,1 @@
-var mnemonic = "glad good illness install tenant tennis wreck immense shoot sport winter normal";
+var mnemonic = "forget season genius web craft volume lesson arrive violin check body elevator";

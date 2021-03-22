@@ -1,1 +1,1 @@
-var mnemonic = "young segment ignore detect cluster crew spike virtual turtle exclude prefer affair";
+var mnemonic = "title skull oxygen client bunker business scissors spring input sense outdoor marine";

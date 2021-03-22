@@ -1,1 +1,1 @@
-var mnemonic = "echo large conduct engage lift confirm mean eager custom suit start rely";
+var mnemonic = "hard kite fluid foam way learn claim physical intact faculty stone miracle";

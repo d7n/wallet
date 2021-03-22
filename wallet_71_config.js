@@ -1,1 +1,1 @@
-var mnemonic = "soon nest emotion loan stock aunt duty sting enhance seven erase little";
+var mnemonic = "consider gather bread cash leader sting scrap physical glue that curious despair";

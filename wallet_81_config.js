@@ -1,1 +1,1 @@
-var mnemonic = "awake admit economy banner laundry surge garbage minimum cheese monster reason maple";
+var mnemonic = "early fat spawn dynamic rescue cereal gain right seek forum hour spider";

@@ -1,1 +1,1 @@
-var mnemonic = "then buzz multiply cargo beach kite cannon powder senior become rug scorpion";
+var mnemonic = "powder budget once love clinic person obvious begin allow convince enroll boring";

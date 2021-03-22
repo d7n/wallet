@@ -1,1 +1,1 @@
-var mnemonic = "word avoid topple whip prepare brown left funny gasp champion more diamond";
+var mnemonic = "series satoshi acquire cost fetch exist arrow autumn sick clean float grief";

@@ -1,1 +1,1 @@
-var mnemonic = "maid inner finger silk bottom obtain uncover capable spy wrestle gym kingdom";
+var mnemonic = "tomato legend melody loud photo control load pilot knife disease idea typical";

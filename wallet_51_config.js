@@ -1,1 +1,1 @@
-var mnemonic = "detect another assault have mango dignity ancient diamond gravity another dentist surge";
+var mnemonic = "response fancy unfair cannon stomach treat ketchup normal spare prize surface penalty";

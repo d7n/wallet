@@ -1,1 +1,1 @@
-var mnemonic = "puzzle exile hazard bleak soon airport crack boil reflect shadow impulse initial";
+var mnemonic = "blouse account agree genius tattoo stand spell vanish green fame impulse super";

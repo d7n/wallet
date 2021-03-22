@@ -1,1 +1,1 @@
-var mnemonic = "estate waste royal crane sail once sibling force admit learn beach couch";
+var mnemonic = "state rough jaguar detail arctic inherit fragile clip tag flame slam grocery";

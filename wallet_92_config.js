@@ -1,1 +1,1 @@
-var mnemonic = "twist device wedding talent kite robust trouble pretty main hazard stand winner";
+var mnemonic = "top deposit accuse suffer walk drift normal head finger brief impulse bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon year vanish dune keep person indoor stumble excuse assault pluck noble";
+var mnemonic = "indicate weasel wheel possible luggage join screen know you bounce olympic smooth";

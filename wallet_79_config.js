@@ -1,1 +1,1 @@
-var mnemonic = "balance anxiety man large inmate rich learn kidney awesome rate elegant rural";
+var mnemonic = "panic salmon knife impact fury uniform first pelican below peanut fabric session";

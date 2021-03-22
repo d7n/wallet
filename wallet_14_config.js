@@ -1,1 +1,1 @@
-var mnemonic = "urge wrestle unfair wire box kid glance demise system metal member marriage";
+var mnemonic = "hole excuse acoustic order width basic icon total belt team dawn song";

@@ -1,1 +1,1 @@
-var mnemonic = "typical frown swamp sphere steel craft gloom topple mercy nation bus cable";
+var mnemonic = "exchange cause snap measure achieve join twice effort hard race puppy embody";

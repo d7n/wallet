@@ -1,1 +1,1 @@
-var mnemonic = "fold word badge element awesome fortune size gaze scrub maze sadness category";
+var mnemonic = "outdoor bamboo year galaxy identify robust bulk doctor attend region label jar";

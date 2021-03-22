@@ -1,1 +1,1 @@
-var mnemonic = "drill jelly sad expand topic diary depth fatal senior afraid artist lizard";
+var mnemonic = "theory orchard mystery fabric output volume monitor acoustic inhale network dizzy twist";

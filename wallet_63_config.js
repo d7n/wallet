@@ -1,1 +1,1 @@
-var mnemonic = "weekend lava shaft cliff obtain era jaguar online correct raccoon tongue reflect";
+var mnemonic = "glue tumble view dumb soap weapon latin jelly admit predict mail reject";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery text age entry donor hover mushroom sketch enroll blood six pipe";
+var mnemonic = "dish renew icon noise love vacant nephew quick wheel tiger crawl zebra";

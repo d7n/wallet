@@ -1,1 +1,1 @@
-var mnemonic = "panda add december orient crane half trip poet ticket great virtual chronic";
+var mnemonic = "rule outside pipe version brand wolf grape negative segment happy fruit bar";

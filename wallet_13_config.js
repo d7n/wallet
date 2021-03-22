@@ -1,1 +1,1 @@
-var mnemonic = "fantasy bind fetch stick shadow box rocket exile lumber grape that volume";
+var mnemonic = "green glare trust shadow unveil bubble dance salad addict robust venture catch";

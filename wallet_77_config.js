@@ -1,1 +1,1 @@
-var mnemonic = "stereo eyebrow pupil club celery mimic spot demand inject inside accident tail";
+var mnemonic = "claim skill eternal thought female nature trap symptom know stem upset boy";

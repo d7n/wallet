@@ -1,1 +1,1 @@
-var mnemonic = "evil spice deputy voice cart token genius soup joy crumble silent allow";
+var mnemonic = "civil that track december churn post wedding warm scare ensure symbol asthma";

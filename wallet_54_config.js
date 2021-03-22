@@ -1,1 +1,1 @@
-var mnemonic = "table push review lunch believe doctor cycle settle practice mutual medal hub";
+var mnemonic = "coconut rent alert feed infant mutual destroy make cat exotic orange enough";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos stage female goddess adapt above soccer bleak text label leisure bronze";
+var mnemonic = "stick animal assume wear trial slim host wife object bright column chef";

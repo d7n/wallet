@@ -1,1 +1,1 @@
-var mnemonic = "enlist exist review slush horn despair concert north finger flavor harsh artist";
+var mnemonic = "region mention erupt laptop boost caught segment pioneer motion theme naive borrow";

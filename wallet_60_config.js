@@ -1,1 +1,1 @@
-var mnemonic = "abstract stamp beef prevent floor chimney boil belt cabbage bench express sad";
+var mnemonic = "move jungle clog treat hundred custom turn price rug enjoy they lawn";

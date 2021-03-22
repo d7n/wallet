@@ -1,1 +1,1 @@
-var mnemonic = "expire guitar faint capital surface brisk fix fun walnut rookie grace assume";
+var mnemonic = "enough fork sing melody tunnel beyond wheel possible current wrestle dolphin reunion";

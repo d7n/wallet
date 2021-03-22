@@ -1,1 +1,1 @@
-var mnemonic = "pioneer divorce hero response cousin car excuse pretty verify retire eagle owner";
+var mnemonic = "middle define page trend brother crazy armor measure suit aim wrestle inform";

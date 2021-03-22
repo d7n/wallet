@@ -1,1 +1,1 @@
-var mnemonic = "local frog rich sort occur capital combine volume sketch gravity long coach";
+var mnemonic = "price select mountain reform wide vital park curious lady among mandate student";

@@ -1,1 +1,1 @@
-var mnemonic = "skate wrist fee dove rug space curtain share fit prosper produce toilet";
+var mnemonic = "medal broom turtle cinnamon sting universe next desk like used fitness record";

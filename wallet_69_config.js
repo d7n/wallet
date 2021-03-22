@@ -1,1 +1,1 @@
-var mnemonic = "circle hire family depend spend easily whale kick decrease candy tone tongue";
+var mnemonic = "modify twice absorb permit fee they light club weird neither sail volcano";

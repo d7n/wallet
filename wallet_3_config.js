@@ -1,1 +1,1 @@
-var mnemonic = "say butter peanut aware stem divide dentist agent link giraffe congress protect";
+var mnemonic = "trip squeeze ahead train garden zoo minimum ladder success alcohol forward cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty range galaxy marriage essay visa relief black tomorrow relax control immune";
+var mnemonic = "winner quantum shine elevator word when cave ordinary cancel extend family wet";

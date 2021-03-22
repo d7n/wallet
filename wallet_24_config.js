@@ -1,1 +1,1 @@
-var mnemonic = "member among before solution unfair segment hollow follow sentence purse then festival";
+var mnemonic = "organ broccoli weather never idea egg next gallery defy harsh invite bamboo";

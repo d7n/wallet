@@ -1,1 +1,1 @@
-var mnemonic = "globe arrive lumber coil journey arctic work shiver gaze gas athlete hill";
+var mnemonic = "leaf daring despair physical creek thank million recall tired salad name pet";

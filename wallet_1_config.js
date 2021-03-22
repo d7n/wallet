@@ -1,1 +1,1 @@
-var mnemonic = "planet aisle trophy sure clever original toe hen capital impose exotic hat";
+var mnemonic = "cradle intact fog lyrics inspire loud subway raccoon quiz table october pudding";

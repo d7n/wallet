@@ -1,1 +1,1 @@
-var mnemonic = "venue satisfy excite life remain village throw lawn agree alcohol quarter knee";
+var mnemonic = "useless already direct broom hawk kidney claim moon refuse image you spell";

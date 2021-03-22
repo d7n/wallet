@@ -1,1 +1,1 @@
-var mnemonic = "option where gate hotel traffic lava about lake reject latin stand inject";
+var mnemonic = "useless bird blouse shove torch airport foil wool account hobby peace angle";

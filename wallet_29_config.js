@@ -1,1 +1,1 @@
-var mnemonic = "strategy chuckle salute eye sibling squeeze panther pigeon cross ginger enroll fiction";
+var mnemonic = "gown silver crime humble hint remind gain scheme unhappy volume matter since";

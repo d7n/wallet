@@ -1,1 +1,1 @@
-var mnemonic = "index protect peasant frequent connect insane actor wreck solution hair bachelor agree";
+var mnemonic = "pluck diary enforce blame rotate barrel stem rescue carry hint laundry polar";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep bulb upset tone embark agent raw language oxygen hat rocket divert";
+var mnemonic = "harsh maid squirrel knife decide insane cute season peasant mind crack popular";

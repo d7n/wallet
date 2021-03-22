@@ -1,1 +1,1 @@
-var mnemonic = "advance arrow flame lamp globe naive warrior pretty domain cruise vital radar";
+var mnemonic = "potato tank village accident crush course awake year walnut print faint supply";

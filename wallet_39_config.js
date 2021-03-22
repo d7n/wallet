@@ -1,1 +1,1 @@
-var mnemonic = "nice globe flight point flower layer shed game video amazing found prefer";
+var mnemonic = "maximum math tip kitten nurse logic youth sail wide tourist deposit life";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt target deliver agree front success private cereal ordinary merge conduct consider";
+var mnemonic = "badge gasp daughter peace about fame hospital sauce girl void proof wage";
