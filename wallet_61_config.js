@@ -1,1 +1,1 @@
-var mnemonic = "occur member industry must dune ability hawk monitor belt venture route tube";
+var mnemonic = "food stand roof priority supply cousin pair typical veteran call coil nerve";

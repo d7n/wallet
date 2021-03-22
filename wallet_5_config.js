@@ -1,1 +1,1 @@
-var mnemonic = "ball moral lab write hard ignore dust ostrich remember neither duck symptom";
+var mnemonic = "meadow belt leave devote evidence iron width potato brisk actual great draw";

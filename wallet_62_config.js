@@ -1,1 +1,1 @@
-var mnemonic = "museum reveal jar phrase mule damp weasel enough cup ocean garlic quit";
+var mnemonic = "olive topple project pink artwork rack destroy leader shoe zoo inquiry nephew";

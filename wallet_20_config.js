@@ -1,1 +1,1 @@
-var mnemonic = "clown must outer angle avoid quit boss reunion derive tone truck sketch";
+var mnemonic = "hungry desk sun mail wish half swim brick fuel genius become hill";

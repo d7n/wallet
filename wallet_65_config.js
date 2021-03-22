@@ -1,1 +1,1 @@
-var mnemonic = "lucky guard enlist buddy entire coyote rebuild melody elephant broken evidence that";
+var mnemonic = "fee erase walk need pony dolphin crowd need glad neglect nice rug";

@@ -1,1 +1,1 @@
-var mnemonic = "cup twice advice camp damp reason awkward dog horror isolate photo menu";
+var mnemonic = "turn hybrid chimney man spot caught swamp poet tumble nominee enemy rifle";

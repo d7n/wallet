@@ -1,1 +1,1 @@
-var mnemonic = "version chase ice effort planet lunar kiss chair decade holiday surge tree";
+var mnemonic = "donor mention bracket memory limb sauce lobster sing video garden follow siren";

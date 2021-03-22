@@ -1,1 +1,1 @@
-var mnemonic = "beach dynamic despair home desk sing else sponsor jealous arrange under few";
+var mnemonic = "pulse purse pact armed calm goddess rely blouse inject prepare moral unlock";

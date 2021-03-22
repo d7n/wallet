@@ -1,1 +1,1 @@
-var mnemonic = "arch glad empty buyer extend price bar episode time humble trigger fire";
+var mnemonic = "also harsh office phrase scrub venue chat point fiscal doll fence police";

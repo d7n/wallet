@@ -1,1 +1,1 @@
-var mnemonic = "choice chaos luxury company useless honey destroy vacuum toddler minimum cheese cabbage";
+var mnemonic = "amazing final use runway above weird vocal pink stereo marble join come";

@@ -1,1 +1,1 @@
-var mnemonic = "have stable end ignore mosquito surprise paddle fatigue seminar laugh example draft";
+var mnemonic = "dish uncover supreme guard ripple oyster note acoustic sense cannon fly stay";

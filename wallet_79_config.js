@@ -1,1 +1,1 @@
-var mnemonic = "chapter bread ski open stable joke mutual evoke manage brief radio satisfy";
+var mnemonic = "oval advance valley mobile donor cancel annual dilemma betray false cinnamon custom";

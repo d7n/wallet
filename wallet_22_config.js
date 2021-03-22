@@ -1,1 +1,1 @@
-var mnemonic = "hold strategy convince nut entry abstract bike smooth dumb memory provide mushroom";
+var mnemonic = "kiwi area captain combine unit hungry reveal gravity delay height razor small";

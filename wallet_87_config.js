@@ -1,1 +1,1 @@
-var mnemonic = "tumble list find eternal put luggage smart stock gain orchard sunny fault";
+var mnemonic = "hurdle clinic figure match rally uniform world category supply page walk page";

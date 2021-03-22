@@ -1,1 +1,1 @@
-var mnemonic = "media cloth punch derive stomach decade fix dynamic canoe cake method wish";
+var mnemonic = "steel attract appear number siege suit identify spoon shoulder sea sudden tent";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug shy mention exclude job gorilla guilt shoe veteran cage bird toward";
+var mnemonic = "sock spring profit peasant mixed charge explain pluck enroll embody demise antique";

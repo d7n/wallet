@@ -1,1 +1,1 @@
-var mnemonic = "vapor wink stove flip ride theory embrace bronze fade arch million stable";
+var mnemonic = "public solution orchard adapt install remain outdoor hurt sing home dry tennis";

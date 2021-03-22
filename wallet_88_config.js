@@ -1,1 +1,1 @@
-var mnemonic = "thing dinosaur snack interest pelican add spice radar into rely mom ask";
+var mnemonic = "episode feature lunch task idle wisdom mansion worth hobby light camera wrestle";

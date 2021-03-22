@@ -1,1 +1,1 @@
-var mnemonic = "broccoli great wild harbor world slide better save enable net minor decade";
+var mnemonic = "bread science genre dust penalty when wink sort above punch finish foam";

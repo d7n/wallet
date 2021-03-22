@@ -1,1 +1,1 @@
-var mnemonic = "evoke innocent blanket carpet parent battle leopard inject genre news eight away";
+var mnemonic = "father inside hidden eager purity parent model bone giggle grief thumb inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "lift smile tuition base census slide cigar discover glove demise surround matrix";
+var mnemonic = "humor record denial melody promote claim improve security follow ten fatigue example";

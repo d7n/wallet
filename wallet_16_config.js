@@ -1,1 +1,1 @@
-var mnemonic = "short diamond shiver cherry review fog crucial need reason team sense shaft";
+var mnemonic = "monkey merit price cabin lion light pave stadium census swap honey side";

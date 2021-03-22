@@ -1,1 +1,1 @@
-var mnemonic = "piece cream pretty resist blue collect deny bottom online hour leader quarter";
+var mnemonic = "pave company habit ghost multiply baby regret oppose alpha capable grow begin";

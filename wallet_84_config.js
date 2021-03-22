@@ -1,1 +1,1 @@
-var mnemonic = "brother regular coin mule space price raise nose scheme beauty universe patient";
+var mnemonic = "connect rebuild recycle spray social judge kitchen tunnel imitate toward ethics neither";

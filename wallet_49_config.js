@@ -1,1 +1,1 @@
-var mnemonic = "pool copy naive hill write area below object recipe solution involve pact";
+var mnemonic = "judge organ buddy achieve small cherry neck never panda mask divert warm";

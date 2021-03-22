@@ -1,1 +1,1 @@
-var mnemonic = "expose pole flag net army repair eternal issue tuition word neither capital";
+var mnemonic = "child affair pass arm now cancel olympic party lock energy bracket spice";

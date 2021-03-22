@@ -1,1 +1,1 @@
-var mnemonic = "cotton stuff patch disorder pride tourist prevent piece opera repair notable unit";
+var mnemonic = "hub fatigue cruise gap spring device error glide brick question begin topple";

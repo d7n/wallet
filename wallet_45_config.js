@@ -1,1 +1,1 @@
-var mnemonic = "monkey slogan leisure cabin frost primary uncle grow uphold potato birth replace";
+var mnemonic = "rice upper version mutual unable eight exile immense car fee tooth can";

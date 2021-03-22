@@ -1,1 +1,1 @@
-var mnemonic = "disagree solid busy trophy pave nature hover near cherry clock program fossil";
+var mnemonic = "start advance mountain under jungle bundle female reveal under sorry despair cat";

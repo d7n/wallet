@@ -1,1 +1,1 @@
-var mnemonic = "slight road crush fancy shoulder cabin slogan gasp million brown blast glide";
+var mnemonic = "damage dream sorry reflect choose silly moment grass craft sing cereal admit";

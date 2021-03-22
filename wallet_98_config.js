@@ -1,1 +1,1 @@
-var mnemonic = "sunny suffer rate biology roast blind matrix snake camp miracle region liar";
+var mnemonic = "creek insect gloom raw reduce inhale pond token capable plug among ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "useless economy usage door artist jelly bar leave find minute bring blue";
+var mnemonic = "term swallow angry act long motion drift amused error call double issue";

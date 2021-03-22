@@ -1,1 +1,1 @@
-var mnemonic = "pencil avocado away burst repeat better video jar about bullet rabbit noise";
+var mnemonic = "powder autumn asset solution foster window remember offer pull juice fringe action";

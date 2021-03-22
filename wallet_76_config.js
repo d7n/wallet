@@ -1,1 +1,1 @@
-var mnemonic = "whip arctic bleak crazy trip cage duck fancy network suit anger never";
+var mnemonic = "glass pyramid group thrive pistol design grocery lawsuit monitor hedgehog tag snake";

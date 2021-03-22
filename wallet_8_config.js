@@ -1,1 +1,1 @@
-var mnemonic = "still decade milk olive drink mango minimum alter tuition toilet fork mimic";
+var mnemonic = "change oven rose use blur size lottery must tower habit cost nation";

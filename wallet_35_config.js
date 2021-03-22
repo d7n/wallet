@@ -1,1 +1,1 @@
-var mnemonic = "ceiling load shiver cushion bullet pass congress soccer ten town rich mandate";
+var mnemonic = "family jealous grid elite guide donate salute street fade sentence will adapt";

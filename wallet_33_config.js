@@ -1,1 +1,1 @@
-var mnemonic = "embrace raven mail script sell tree smile gentle faith usage reveal jungle";
+var mnemonic = "spare eager lens broken supreme crop course minute quiz forum walk goose";

@@ -1,1 +1,1 @@
-var mnemonic = "talk jaguar fever forest february sample option among property canvas because tilt";
+var mnemonic = "must girl deal example vital clutch gym rice food fatal similar place";

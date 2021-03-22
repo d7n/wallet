@@ -1,1 +1,1 @@
-var mnemonic = "antique message tip sniff awesome detail blame urge between blood fence veteran";
+var mnemonic = "collect panther slab episode genuine pen peace require sick put net fat";

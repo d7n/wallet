@@ -1,1 +1,1 @@
-var mnemonic = "spoon present warm utility pact twist harbor artist become air sadness october";
+var mnemonic = "tube busy about breeze claw sausage decide evidence mirror imitate rural noise";

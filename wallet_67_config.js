@@ -1,1 +1,1 @@
-var mnemonic = "bean flash pulse universe slush faint wrap filter bind grow cake piano";
+var mnemonic = "firm ticket when bar gaze wheel refuse right tortoise small near capital";

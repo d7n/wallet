@@ -1,1 +1,1 @@
-var mnemonic = "service deliver near chief upon winter tell mean office danger cradle nurse";
+var mnemonic = "violin logic edge fitness average odor elite salt quantum version mango obtain";

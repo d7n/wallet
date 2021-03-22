@@ -1,1 +1,1 @@
-var mnemonic = "master zero spawn oxygen couch deny churn jealous coach security gloom caution";
+var mnemonic = "enforce bridge general margin tip pioneer maple practice chase mango clap skin";

@@ -1,1 +1,1 @@
-var mnemonic = "drama panel satisfy drift rose leaf blade gallery nephew ride property woman";
+var mnemonic = "circle finish cable embark erase cream song buffalo process better nut rug";

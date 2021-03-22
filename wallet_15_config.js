@@ -1,1 +1,1 @@
-var mnemonic = "sign secret income recycle dress jaguar theory inherit stage flower bunker useless";
+var mnemonic = "alone index pattern base engine neutral decrease orient voyage patient electric give";

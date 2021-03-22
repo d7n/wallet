@@ -1,1 +1,1 @@
-var mnemonic = "area tackle devote clerk scale roast wear smooth dismiss kidney clump reveal";
+var mnemonic = "slide ugly minimum stay usual meat fancy flee jar gasp cotton leave";

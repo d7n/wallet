@@ -1,1 +1,1 @@
-var mnemonic = "ride toss oppose inherit account panel quiz eternal story brand anxiety clown";
+var mnemonic = "guard laugh ridge asthma budget riot top dumb more capable claw fury";

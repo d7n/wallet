@@ -1,1 +1,1 @@
-var mnemonic = "hockey harvest hundred already jealous auction apart repair run fresh half until";
+var mnemonic = "cave gym party speed midnight oval fire coin sugar young romance assault";

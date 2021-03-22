@@ -1,1 +1,1 @@
-var mnemonic = "aisle toilet leave juice now color frequent depth ketchup swamp nephew task";
+var mnemonic = "feel harbor kick dignity entire world unusual test cactus because crime sustain";

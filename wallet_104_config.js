@@ -1,1 +1,1 @@
-var mnemonic = "artefact swing stereo duty age trial unaware grace patch awesome expire nature";
+var mnemonic = "evil hedgehog claim bone dignity tennis amount draw dash paddle near dizzy";

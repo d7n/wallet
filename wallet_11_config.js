@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon cave shell deer tobacco must object slender narrow tool file address";
+var mnemonic = "slam water gallery valve metal upon setup write cry disorder make gesture";

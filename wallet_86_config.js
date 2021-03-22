@@ -1,1 +1,1 @@
-var mnemonic = "retreat task shoe flock smart useless crowd modify strategy basket weird ripple";
+var mnemonic = "tourist weapon garbage theme sponsor beach bomb lazy number radio autumn tennis";

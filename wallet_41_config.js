@@ -1,1 +1,1 @@
-var mnemonic = "jealous dignity sausage local view radio movie title attack olympic stomach tree";
+var mnemonic = "frog manage under yellow time trade middle guard vivid response maple cross";

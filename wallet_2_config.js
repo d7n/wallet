@@ -1,1 +1,1 @@
-var mnemonic = "promote ugly heavy void remember behave easily power voyage dish phrase forum";
+var mnemonic = "risk fruit assault repair cabbage polar glow crumble donor parrot best fun";

@@ -1,1 +1,1 @@
-var mnemonic = "dad ethics laundry wide shield average simple oxygen height mansion okay detect";
+var mnemonic = "forward party faculty firm era hour credit oil gossip seek sting just";

@@ -1,1 +1,1 @@
-var mnemonic = "desert section universe size twin pause bronze swing camera short soap rural";
+var mnemonic = "neck tag arrange reflect gun agent core pencil amazing mimic smart process";

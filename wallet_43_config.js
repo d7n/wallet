@@ -1,1 +1,1 @@
-var mnemonic = "aerobic fiscal zero dinner first cabbage jelly sheriff crane penalty year update";
+var mnemonic = "slide shadow mixed clock faint nest media pitch silk gold settle stove";

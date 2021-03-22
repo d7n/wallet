@@ -1,1 +1,1 @@
-var mnemonic = "success around myself fantasy stomach steak sibling exact tip bar security tourist";
+var mnemonic = "age blame three bounce fade seat slush fence clean shoe floor swing";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit oxygen swear awake steel dish roof antenna cube negative poem safe";
+var mnemonic = "cluster coffee sense huge route pave glare delay parrot hurt reform stable";

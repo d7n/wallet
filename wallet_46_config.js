@@ -1,1 +1,1 @@
-var mnemonic = "couple culture ability begin power atom topple illegal still long rural rescue";
+var mnemonic = "code better illegal summer divide lab oxygen spoon vital sniff drink heart";

@@ -1,1 +1,1 @@
-var mnemonic = "lab frequent sphere cabin thrive update maid blush hunt hurdle cloth toast";
+var mnemonic = "bus brain dream pool safe toilet equal clutch lunch other around quick";

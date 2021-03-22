@@ -1,1 +1,1 @@
-var mnemonic = "gain impose swap alley direct dream all stadium learn cave flower come";
+var mnemonic = "change side swap industry sort broken forest friend police copper truly guitar";

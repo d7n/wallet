@@ -1,1 +1,1 @@
-var mnemonic = "stable carpet island dust broom timber gather faint kitten omit between comic";
+var mnemonic = "shy cupboard talent episode furnace festival flat view mercy thrive pelican grid";

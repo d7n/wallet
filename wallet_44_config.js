@@ -1,1 +1,1 @@
-var mnemonic = "tent raven burst melt universe sense october staff kit top way happy";
+var mnemonic = "album cement total lift gain client ahead stick object quantum powder shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "leader sponsor paddle bridge brass subway million palm caution sauce beauty atom";
+var mnemonic = "morning stool brave flag maple program equip crowd provide news broken toy";

@@ -1,1 +1,1 @@
-var mnemonic = "argue pumpkin abstract between direct habit art spike know original twin match";
+var mnemonic = "culture traffic perfect nurse follow what path name chest item holiday mesh";

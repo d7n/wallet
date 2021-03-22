@@ -1,1 +1,1 @@
-var mnemonic = "force foam convince void absent script man hurry isolate grant wise smart";
+var mnemonic = "fade ocean opinion brain depth fetch awesome long club clean verify road";

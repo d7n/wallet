@@ -1,1 +1,1 @@
-var mnemonic = "puzzle gain chaos recycle misery pretty brick phrase muffin promote aware dismiss";
+var mnemonic = "rotate mansion shift knee genius this december journey shy inherit aim assault";

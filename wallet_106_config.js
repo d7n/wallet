@@ -1,1 +1,1 @@
-var mnemonic = "tape update punch trap acid happy tenant pistol hammer green pact rough";
+var mnemonic = "journey satisfy relax punch tool plate position section option broccoli recall derive";

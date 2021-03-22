@@ -1,1 +1,1 @@
-var mnemonic = "original fatal mesh innocent kidney find wrap weapon whale affair range bundle";
+var mnemonic = "okay deal image possible barrel twist jungle bus amateur want mix about";

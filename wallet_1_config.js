@@ -1,1 +1,1 @@
-var mnemonic = "arrange alien render second escape trophy inflict amazing fringe tribe today item";
+var mnemonic = "charge hole similar alcohol exhibit wealth lecture behind large distance month symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "runway ceiling round few young loop nasty trust differ dentist orange weasel";
+var mnemonic = "typical gadget dune analyst teach hood town stereo endorse exclude divert sweet";

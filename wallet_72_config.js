@@ -1,1 +1,1 @@
-var mnemonic = "dog you calm elite joy cool wreck outdoor capable picture extend volcano";
+var mnemonic = "mansion victory cool lens affair crew fly great purpose carry impulse limb";

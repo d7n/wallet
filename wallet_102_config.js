@@ -1,1 +1,1 @@
-var mnemonic = "finger fame stomach bomb security guard payment advance wing angle destroy science";
+var mnemonic = "hand journey sick trumpet kick salmon plunge dynamic that auto unfair amount";

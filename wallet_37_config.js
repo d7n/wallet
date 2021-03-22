@@ -1,1 +1,1 @@
-var mnemonic = "ribbon rich omit plunge cute first invite brisk need trend surface limit";
+var mnemonic = "wet ethics useful sell switch moon obvious age payment drop leaf room";

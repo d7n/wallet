@@ -1,1 +1,1 @@
-var mnemonic = "before catalog carpet walk faint trend sock fiction april pony undo predict";
+var mnemonic = "true enter arm anger cave put hazard half help beef foil black";

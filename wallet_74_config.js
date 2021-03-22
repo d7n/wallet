@@ -1,1 +1,1 @@
-var mnemonic = "fish furnace useless drip cliff among blouse shoot afford broom camp roof";
+var mnemonic = "elder seven climb twist true order ripple riot deliver trophy exile ship";

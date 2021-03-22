@@ -1,1 +1,1 @@
-var mnemonic = "caution input fly skull tray swim salute onion north wheel pulp green";
+var mnemonic = "ship danger prevent credit drink appear humble retreat holiday dinosaur delay lonely";

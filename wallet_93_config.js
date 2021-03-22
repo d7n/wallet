@@ -1,1 +1,1 @@
-var mnemonic = "invest veteran match major trust tail tray gap miracle plastic topple rack";
+var mnemonic = "attract moment various pistol reunion thought reduce false skin winter roof interest";

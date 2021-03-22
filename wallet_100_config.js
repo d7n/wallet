@@ -1,1 +1,1 @@
-var mnemonic = "disagree away sunny actor tired toast turkey stadium very adult bitter ensure";
+var mnemonic = "output increase dream unusual sand music divorce result sentence science easy accuse";

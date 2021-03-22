@@ -1,1 +1,1 @@
-var mnemonic = "silver cliff maple fold despair oyster gate pool better goat amazing clean";
+var mnemonic = "hybrid about tobacco village vivid asset tone wine replace leaf hub happy";

@@ -1,1 +1,1 @@
-var mnemonic = "forget code enroll fatal month exact music fossil cabbage addict august prepare";
+var mnemonic = "boring alcohol series ten cause add slam other silver indoor spice immense";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella face year this strong spice fringe hood test north frog abuse";
+var mnemonic = "radar carry celery novel tackle friend agent gym album session brave category";

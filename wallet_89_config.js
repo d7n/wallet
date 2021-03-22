@@ -1,1 +1,1 @@
-var mnemonic = "fatal tiny top water mouse denial crack cruise someone mercy news dentist";
+var mnemonic = "lend enact fine eternal damage leisure cradle foam differ express candy churn";

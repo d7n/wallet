@@ -1,1 +1,1 @@
-var mnemonic = "hospital end razor fatigue margin famous cycle amateur rhythm upgrade artwork table";
+var mnemonic = "crack glow business agree seminar canal educate woman real cheap busy light";

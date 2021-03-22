@@ -1,1 +1,1 @@
-var mnemonic = "school rail emotion lamp you stand split oppose next helmet brand pause";
+var mnemonic = "rain million seek bonus jungle patrol pond metal token tennis online gadget";

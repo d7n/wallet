@@ -1,1 +1,1 @@
-var mnemonic = "caught owner focus script carbon ready fiction meadow road guitar melody satisfy";
+var mnemonic = "abstract spy protect salad notice pair deer build faint gadget coconut today";
