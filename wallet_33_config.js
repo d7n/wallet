@@ -1,1 +1,1 @@
-var mnemonic = "blood holiday arrive tragic current notable solid audit ceiling sea correct coach";
+var mnemonic = "smoke suit noise elbow relax frost convince color false grief drill scorpion";

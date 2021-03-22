@@ -1,1 +1,1 @@
-var mnemonic = "cancel puzzle toilet glare project wheat fence vital bracket photo junior tonight";
+var mnemonic = "notice fit desert soap drip wild camp machine strategy fortune sword final";

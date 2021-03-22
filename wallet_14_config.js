@@ -1,1 +1,1 @@
-var mnemonic = "list noodle tree artist travel rather utility bounce cradle eye cloud tape";
+var mnemonic = "sleep wheat beyond panel culture hazard toast cradle turn warm soon pet";

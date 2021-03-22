@@ -1,1 +1,1 @@
-var mnemonic = "attract sting leaf enter receive during dismiss response harsh opinion clump stick";
+var mnemonic = "group network remove forest finish detect play runway fly divorce stable exhaust";

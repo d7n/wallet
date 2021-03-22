@@ -1,1 +1,1 @@
-var mnemonic = "cash they topple cup fortune chef plug smart spy office bike soap";
+var mnemonic = "picnic vault drill cat useful tuna guard renew portion rich curious pulse";

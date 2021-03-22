@@ -1,1 +1,1 @@
-var mnemonic = "consider insect crane end speak oxygen poverty sock mother pride fury giggle";
+var mnemonic = "alert note boring plug harsh boy today save mosquito man peace caught";

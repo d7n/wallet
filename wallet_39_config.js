@@ -1,1 +1,1 @@
-var mnemonic = "wool worry life drop attack scale flight real away iron life giraffe";
+var mnemonic = "decade creek profit multiply author garage thought report cake game demise tonight";

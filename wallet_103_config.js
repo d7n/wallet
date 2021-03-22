@@ -1,1 +1,1 @@
-var mnemonic = "upon fitness glad bridge just acquire naive play possible identify flag artefact";
+var mnemonic = "mass image venture office clog learn kingdom letter window idea swamp motion";

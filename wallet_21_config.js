@@ -1,1 +1,1 @@
-var mnemonic = "chunk cage hotel zoo always special grain visa brown mushroom volume edge";
+var mnemonic = "pill museum nasty gather chapter trial language worth round august cotton source";

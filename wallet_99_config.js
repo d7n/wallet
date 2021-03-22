@@ -1,1 +1,1 @@
-var mnemonic = "airport switch draw north radar today topple occur middle turtle ill piece";
+var mnemonic = "bird chimney celery lift original dial nurse office invite okay story razor";

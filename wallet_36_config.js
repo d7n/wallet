@@ -1,1 +1,1 @@
-var mnemonic = "position pave logic ozone pattern nurse spice hurdle such gentle skill version";
+var mnemonic = "number armed claw spike song harvest execute desert work crucial rare jealous";

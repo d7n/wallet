@@ -1,1 +1,1 @@
-var mnemonic = "term okay flower pledge fog used village job letter prosper sport lottery";
+var mnemonic = "eagle series project ahead mosquito slow awesome sail column tired soldier engine";

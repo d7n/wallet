@@ -1,1 +1,1 @@
-var mnemonic = "horse cotton enough member ketchup wheat project doll globe exclude scrub twice";
+var mnemonic = "trend snow boost pluck dutch rule tuna finger slab cement adjust horse";

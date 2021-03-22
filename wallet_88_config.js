@@ -1,1 +1,1 @@
-var mnemonic = "harbor tragic board fiction blame power help permit toward quiz grunt warrior";
+var mnemonic = "soft bird tumble phrase piano laugh sister believe dumb loan keep fun";

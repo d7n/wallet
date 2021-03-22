@@ -1,1 +1,1 @@
-var mnemonic = "culture tackle mountain correct until else powder spike now joke detail supreme";
+var mnemonic = "spring divide story run cotton close cart govern city main negative crunch";

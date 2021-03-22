@@ -1,1 +1,1 @@
-var mnemonic = "uniform prepare end prevent myself old bind chronic access human acoustic honey";
+var mnemonic = "inflict galaxy smart under dog used hotel busy cliff equip window angle";

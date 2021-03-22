@@ -1,1 +1,1 @@
-var mnemonic = "wing apple siren small exotic lecture buddy jewel unfold smooth taste occur";
+var mnemonic = "shy enact gym cherry lunch frown hard win squirrel visa witness apart";

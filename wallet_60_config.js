@@ -1,1 +1,1 @@
-var mnemonic = "garment burden curious reopen sport dice web comic drama series track mask";
+var mnemonic = "inch visual sad worth brisk frown firm double example enough bracket bleak";

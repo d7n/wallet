@@ -1,1 +1,1 @@
-var mnemonic = "ice soup distance stage turkey enjoy trial toddler famous film net fresh";
+var mnemonic = "typical usage blade load among glow lazy sand all doll screen prison";

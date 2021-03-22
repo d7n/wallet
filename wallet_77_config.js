@@ -1,1 +1,1 @@
-var mnemonic = "bullet useless tourist major soda correct silk miss screen table effort rifle";
+var mnemonic = "ski color pluck glide faculty coach twist execute upgrade motion culture salon";

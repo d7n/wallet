@@ -1,1 +1,1 @@
-var mnemonic = "wire lottery bamboo faint best rescue wheel mouse doll border oxygen between";
+var mnemonic = "rate glow priority enroll general omit avocado first quick rural fix word";

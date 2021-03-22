@@ -1,1 +1,1 @@
-var mnemonic = "same talent lyrics distance strike gold property recall indoor armor grunt say";
+var mnemonic = "dawn pyramid goat rather pupil craft stumble lab liar author catalog outside";

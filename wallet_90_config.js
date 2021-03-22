@@ -1,1 +1,1 @@
-var mnemonic = "lazy flame drill wave prosper swamp culture ticket plunge dutch obtain vacant";
+var mnemonic = "drink crouch episode dash say air length design course say question poet";

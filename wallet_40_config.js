@@ -1,1 +1,1 @@
-var mnemonic = "book enough zero window library glory lock health true street stock thrive";
+var mnemonic = "wave help stem pizza grain pool tent soft mutual light father lounge";

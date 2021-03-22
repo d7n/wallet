@@ -1,1 +1,1 @@
-var mnemonic = "jacket bench alarm wonder harbor panic clean warfare assume dilemma remove arch";
+var mnemonic = "tattoo tonight hunt sauce opinion brisk shell moral print must burst sword";

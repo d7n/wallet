@@ -1,1 +1,1 @@
-var mnemonic = "enable mobile post cluster atom outer wife fiber brain guide west cheap";
+var mnemonic = "curtain hard vacuum naive three planet wave elbow service common stumble strategy";

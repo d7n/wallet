@@ -1,1 +1,1 @@
-var mnemonic = "clock cherry health bunker zone kiwi never lonely virus omit walnut clarify";
+var mnemonic = "sound bitter milk belt wagon mercy imitate deliver curious typical loan increase";

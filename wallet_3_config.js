@@ -1,1 +1,1 @@
-var mnemonic = "magnet ranch true eager daring produce foot thing tank word nice poverty";
+var mnemonic = "family divert cook later struggle middle wise fault unfold crash demise range";

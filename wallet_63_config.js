@@ -1,1 +1,1 @@
-var mnemonic = "total tired merit danger protect ski arctic border practice spice food head";
+var mnemonic = "segment swarm path miss cat cry six nuclear monkey mass diamond cat";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate apple piece trap tunnel tomorrow satisfy collect shoulder arm glimpse fan";
+var mnemonic = "silly cute pencil skate observe force small pitch tooth print two unique";

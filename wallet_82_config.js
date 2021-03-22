@@ -1,1 +1,1 @@
-var mnemonic = "process zebra tissue dentist confirm sadness member throw east captain hazard auction";
+var mnemonic = "harvest bomb crunch hockey wedding science inner inner involve biology cluster admit";

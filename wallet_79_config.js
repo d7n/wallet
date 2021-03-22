@@ -1,1 +1,1 @@
-var mnemonic = "target engage nut muscle rubber speed gallery funny evil screen slam question";
+var mnemonic = "victory priority best boring tenant hockey chaos over better ethics solar cream";

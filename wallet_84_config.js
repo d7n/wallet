@@ -1,1 +1,1 @@
-var mnemonic = "top post deputy sunset suffer chair horror nephew grab wave input provide";
+var mnemonic = "belt diary one balcony topic ignore course gas error little twist awesome";

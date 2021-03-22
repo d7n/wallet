@@ -1,1 +1,1 @@
-var mnemonic = "wheel push travel great rotate oak tip oxygen tomato pulp cruise frozen";
+var mnemonic = "vessel kitten similar small gesture rent maid symptom math super afraid convince";

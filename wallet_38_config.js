@@ -1,1 +1,1 @@
-var mnemonic = "then soldier bulb embark vital gadget rib enrich exclude palace one horse";
+var mnemonic = "surface stone record tissue hundred net enhance spoil good kitchen popular drive";

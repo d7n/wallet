@@ -1,1 +1,1 @@
-var mnemonic = "auction upset mansion beach maple mobile seat praise lucky few label pen";
+var mnemonic = "copy success mutual cluster coral logic raw name journey random element embark";

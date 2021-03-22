@@ -1,1 +1,1 @@
-var mnemonic = "divert fashion accuse fine unaware moral supply raise hair wonder lyrics brass";
+var mnemonic = "trade circle since sort cram impulse property evil coral hub uniform spell";

@@ -1,1 +1,1 @@
-var mnemonic = "weather blossom glide hair embrace protect tourist ability enter pact drip release";
+var mnemonic = "spy select auto amount cherry purpose tourist olive glad coyote feel gap";

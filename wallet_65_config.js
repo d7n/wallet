@@ -1,1 +1,1 @@
-var mnemonic = "animal survey tourist glad party barrel spike shed script cigar young goat";
+var mnemonic = "very utility grid document blood mirror minute blossom essence goat doctor inspire";

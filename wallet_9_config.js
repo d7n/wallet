@@ -1,1 +1,1 @@
-var mnemonic = "child confirm arena text body slide legend brave donate empower core actor";
+var mnemonic = "size mercy iron year chest unveil worth team ecology young hospital sudden";

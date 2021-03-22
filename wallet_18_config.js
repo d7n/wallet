@@ -1,1 +1,1 @@
-var mnemonic = "wise sugar use morning chalk gossip dog budget motion detect act decline";
+var mnemonic = "obscure dutch logic extend thunder bunker author harvest million source favorite cheap";

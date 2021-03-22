@@ -1,1 +1,1 @@
-var mnemonic = "clinic dirt aware found survey food veteran height slide habit favorite that";
+var mnemonic = "truck sense sure mind rice notice poverty kind despair file amused demand";

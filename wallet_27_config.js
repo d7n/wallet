@@ -1,1 +1,1 @@
-var mnemonic = "churn program scare rebuild claw universe health genre kidney trouble base bronze";
+var mnemonic = "festival amazing degree voyage coach spy knife barrel path merit patch scatter";

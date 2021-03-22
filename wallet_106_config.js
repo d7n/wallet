@@ -1,1 +1,1 @@
-var mnemonic = "ceiling gate canal cat hero skirt tent stem action dry hello law";
+var mnemonic = "print prize together stem horror beauty cage cinnamon connect connect soap option";

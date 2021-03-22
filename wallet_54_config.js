@@ -1,1 +1,1 @@
-var mnemonic = "journey similar coach unaware couple physical riot march theory abandon fitness burden";
+var mnemonic = "debris hard exclude cover very toward wish world reduce south public tragic";

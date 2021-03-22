@@ -1,1 +1,1 @@
-var mnemonic = "fly photo repair beach prefer buzz zero olive episode gold inside build";
+var mnemonic = "museum stick wealth near gossip awake squirrel write bundle just giraffe quarter";

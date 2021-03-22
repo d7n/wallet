@@ -1,1 +1,1 @@
-var mnemonic = "rubber ivory enough fog gorilla better sense rookie approve concert day drink";
+var mnemonic = "loyal cause humble spell crane clay slight volume carbon chapter chicken sign";

@@ -1,1 +1,1 @@
-var mnemonic = "panther pilot story rapid road wrist find trap cart kitten custom moon";
+var mnemonic = "crouch drum brain misery stock disorder cactus divide raw brass vital source";

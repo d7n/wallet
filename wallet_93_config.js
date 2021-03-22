@@ -1,1 +1,1 @@
-var mnemonic = "seminar just basket exercise crawl sugar pumpkin dolphin awful change alien notice";
+var mnemonic = "street verb during remember baby distance scare boat century person vacant cushion";

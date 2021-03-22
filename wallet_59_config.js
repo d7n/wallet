@@ -1,1 +1,1 @@
-var mnemonic = "raven chair online bag visa vehicle barely always wall orbit sunny initial";
+var mnemonic = "brave humble reason orbit clerk bonus leader light maze strong sentence jewel";

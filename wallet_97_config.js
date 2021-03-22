@@ -1,1 +1,1 @@
-var mnemonic = "opera travel urge choose finish tornado fame social glove cause sleep enhance";
+var mnemonic = "parade found profit manual also narrow cliff surge skill celery plate pig";

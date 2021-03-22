@@ -1,1 +1,1 @@
-var mnemonic = "thought desert upgrade happy craft card junior reason fiscal film zone tissue";
+var mnemonic = "creek amateur oven hidden cherry nothing transfer access skirt inform used clap";

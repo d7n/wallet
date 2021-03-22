@@ -1,1 +1,1 @@
-var mnemonic = "end cook gas finger senior dice play acquire soul favorite brown later";
+var mnemonic = "nurse flip alert drive choose panther upon spoon mother rhythm shed pilot";

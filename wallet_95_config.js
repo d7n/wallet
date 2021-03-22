@@ -1,1 +1,1 @@
-var mnemonic = "venture message energy knock story clock shy rich wrist mask erosion wife";
+var mnemonic = "movie clap scrap dwarf actual any insect proof street sibling mom either";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb quiz diesel lobster salad polar flock husband assist trumpet invite ocean";
+var mnemonic = "twist modify artwork fan avoid business century beef amount neutral weapon name";

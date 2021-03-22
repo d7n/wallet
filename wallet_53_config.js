@@ -1,1 +1,1 @@
-var mnemonic = "finish bus ocean banana master abstract pole bleak decrease spy position range";
+var mnemonic = "actor copy wise above grow point horse wheel village three suffer corn";

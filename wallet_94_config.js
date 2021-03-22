@@ -1,1 +1,1 @@
-var mnemonic = "stay educate news whisper fold february motor marine foot document gloom cousin";
+var mnemonic = "amateur kitchen drill enrich gadget settle artefact expire stool emerge install stand";

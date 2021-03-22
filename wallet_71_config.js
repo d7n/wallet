@@ -1,1 +1,1 @@
-var mnemonic = "either rally bid convince reform aware song oven ability because adult silk";
+var mnemonic = "destroy define axis ill oblige fiscal live mosquito bless trend equip glass";

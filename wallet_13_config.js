@@ -1,1 +1,1 @@
-var mnemonic = "guess spell deny detect video equip accuse tuition shove fiber witness metal";
+var mnemonic = "level tobacco mechanic supreme just cheap fold gravity quote rotate script vessel";

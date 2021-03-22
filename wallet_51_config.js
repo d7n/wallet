@@ -1,1 +1,1 @@
-var mnemonic = "grit hospital slot false scene vapor material height marriage dial merge below";
+var mnemonic = "aunt faith alter argue submit peace exact return you gentle tank glad";

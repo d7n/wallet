@@ -1,1 +1,1 @@
-var mnemonic = "mask skate oxygen spirit belt cash erase supply pair purity elephant ankle";
+var mnemonic = "denial element object metal laptop cycle panel turtle thunder cupboard helmet range";

@@ -1,1 +1,1 @@
-var mnemonic = "picture motor dolphin enough crazy fly divorce rabbit across trophy juice thumb";
+var mnemonic = "ramp boy letter pole dash time sick west flavor chronic kitchen census";

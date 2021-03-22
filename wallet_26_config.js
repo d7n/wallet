@@ -1,1 +1,1 @@
-var mnemonic = "also cage dumb curve goose crime life body casual now wreck flat";
+var mnemonic = "tower come inherit island duck transfer metal novel income repair rug inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel order price item alley actress damp clarify forum orange degree either";
+var mnemonic = "prevent goddess private key cactus angle charge issue pioneer ivory thunder tortoise";

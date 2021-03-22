@@ -1,1 +1,1 @@
-var mnemonic = "assist saddle exist fatigue stone festival flock feel fuel exact cycle ecology";
+var mnemonic = "debris bind bind travel ice alley inhale caught team desk goat pluck";

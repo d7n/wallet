@@ -1,1 +1,1 @@
-var mnemonic = "useless cry return hat borrow symptom recycle cry science list casual affair";
+var mnemonic = "print stone good girl height roof snack nuclear smart cage switch fruit";

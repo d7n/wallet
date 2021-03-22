@@ -1,1 +1,1 @@
-var mnemonic = "cheese blur morning divert useless square cigar duck spawn monitor tattoo moon";
+var mnemonic = "turtle tattoo kind thrive rebel found moment dignity wise avocado machine mobile";

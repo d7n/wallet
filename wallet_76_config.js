@@ -1,1 +1,1 @@
-var mnemonic = "rotate service record crowd salad voice soft report walnut grow maximum manual";
+var mnemonic = "hybrid make adapt stadium purpose august text voyage plug upgrade endorse girl";

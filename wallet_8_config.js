@@ -1,1 +1,1 @@
-var mnemonic = "ship share rent traffic fluid predict dilemma horror tone female cotton coral";
+var mnemonic = "cloud deposit enough example tape umbrella awkward apology pull volume slam maid";

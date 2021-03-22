@@ -1,1 +1,1 @@
-var mnemonic = "expand unique weapon vapor sunny dawn team present taste sound vibrant repeat";
+var mnemonic = "faculty prevent spend lawsuit copy victory trend juice clever uphold scrub trouble";

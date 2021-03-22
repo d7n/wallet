@@ -1,1 +1,1 @@
-var mnemonic = "myself degree cancel bless clap assume merit erase boat unveil brief wedding";
+var mnemonic = "live depart tiger invest illness wealth enemy debate exhibit arctic mention mother";

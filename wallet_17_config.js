@@ -1,1 +1,1 @@
-var mnemonic = "rigid tissue waste badge defense sauce damp spread absorb hotel cry pole";
+var mnemonic = "shiver hurt funny juice width cheese unfair pause page trip sun repair";

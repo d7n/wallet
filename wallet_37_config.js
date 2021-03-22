@@ -1,1 +1,1 @@
-var mnemonic = "task canyon famous net man alter fitness dutch arrest stay fetch iron";
+var mnemonic = "reopen outer defense jump toss alone object unhappy network fancy comfort finish";

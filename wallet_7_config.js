@@ -1,1 +1,1 @@
-var mnemonic = "interest endorse sword thought more second weather priority armed aspect dog sketch";
+var mnemonic = "smooth cushion plug cheese arch domain vehicle joy degree era nut upgrade";

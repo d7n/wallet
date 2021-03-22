@@ -1,1 +1,1 @@
-var mnemonic = "inherit logic casual illegal art similar monitor toast liar copy obey struggle";
+var mnemonic = "extend brisk matrix casino dash screen palm ten gap cloud nice only";

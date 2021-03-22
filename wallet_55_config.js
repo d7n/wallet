@@ -1,1 +1,1 @@
-var mnemonic = "stone rug good balcony west exotic admit provide frog female squeeze express";
+var mnemonic = "seat special tape robot fun future invite aunt struggle tide glimpse already";

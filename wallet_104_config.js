@@ -1,1 +1,1 @@
-var mnemonic = "disagree pottery anxiety rack code toilet cube leave broom family snap source";
+var mnemonic = "cross tool corn inhale okay machine ankle february regret pet combine fiscal";

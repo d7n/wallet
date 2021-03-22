@@ -1,1 +1,1 @@
-var mnemonic = "gap wheat resource safe shy usage since dawn what damage miss kitten";
+var mnemonic = "ugly evoke bar inch meadow curious journey gate dizzy wisdom spread hard";

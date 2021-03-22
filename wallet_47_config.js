@@ -1,1 +1,1 @@
-var mnemonic = "stock runway matter ancient enroll govern high puzzle mirror social tower any";
+var mnemonic = "sibling cement again magic lecture tilt best media diamond merry yard blind";

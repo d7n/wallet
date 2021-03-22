@@ -1,1 +1,1 @@
-var mnemonic = "music boring exact toilet boring rice write veteran orphan fitness napkin unique";
+var mnemonic = "define disease scout sort height broom kite machine picnic globe hood comic";

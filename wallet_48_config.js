@@ -1,1 +1,1 @@
-var mnemonic = "faith bounce butter book brief tiger stick border speed van exit wealth";
+var mnemonic = "trip talent hurdle staff plug relief adapt math atom kind april sure";

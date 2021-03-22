@@ -1,1 +1,1 @@
-var mnemonic = "armed mix shield aspect battle badge retreat chapter apology menu pupil end";
+var mnemonic = "sauce gospel beyond police actual trigger grant carpet insect ceiling sentence notice";

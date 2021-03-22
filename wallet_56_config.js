@@ -1,1 +1,1 @@
-var mnemonic = "scene profit dune moon slam scan air stuff erase disagree plastic century";
+var mnemonic = "consider hat stomach puzzle finger enemy oak marble coconut area fury quality";

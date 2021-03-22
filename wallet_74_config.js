@@ -1,1 +1,1 @@
-var mnemonic = "expose curious expect now priority area boy beach jelly peace merit glad";
+var mnemonic = "skate youth peasant hero monster barrel assault visa kiwi shadow essence dad";

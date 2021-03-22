@@ -1,1 +1,1 @@
-var mnemonic = "envelope patient clarify audit long domain dismiss siren long violin cream broken";
+var mnemonic = "horn myth remember expire lawsuit fitness security identify pelican battle endless trust";

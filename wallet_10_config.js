@@ -1,1 +1,1 @@
-var mnemonic = "hat cruise meadow real lion pear runway timber similar hungry art right";
+var mnemonic = "length bargain subway square seek nurse federal phrase divide worth ball three";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch toss tilt must genre history cram chair vault coyote fade web";
+var mnemonic = "cost include filter public surprise ramp kind start million meadow dutch trap";

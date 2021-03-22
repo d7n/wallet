@@ -1,1 +1,1 @@
-var mnemonic = "elite zone table suffer copper force immense nice appear siege immune skin";
+var mnemonic = "around butter wink budget appear pony impact match coconut woman critic link";

@@ -1,1 +1,1 @@
-var mnemonic = "entry word flat display seed recall consider plate eyebrow humble damp sand";
+var mnemonic = "ranch light aerobic weekend inhale question will soon dream field ensure expire";

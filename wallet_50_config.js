@@ -1,1 +1,1 @@
-var mnemonic = "pencil leopard tissue person auto card notable tilt garment jealous coin civil";
+var mnemonic = "anchor erupt burst main thunder veteran south hotel polar long quiz program";

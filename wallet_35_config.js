@@ -1,1 +1,1 @@
-var mnemonic = "lens submit loop supply chaos weapon exhaust social love tomorrow ring undo";
+var mnemonic = "wave mistake good cat celery seven general cliff life top drive ability";
