@@ -1,1 +1,1 @@
-var mnemonic = "time torch earth pledge match gather burden course buffalo palace coffee style";
+var mnemonic = "leader sponsor paddle bridge brass subway million palm caution sauce beauty atom";

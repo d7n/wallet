@@ -1,1 +1,1 @@
-var mnemonic = "rabbit punch pottery cube motor pretty dignity drop pigeon beauty recall supreme";
+var mnemonic = "service deliver near chief upon winter tell mean office danger cradle nurse";

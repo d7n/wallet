@@ -1,1 +1,1 @@
-var mnemonic = "donate ankle dog visa wash rally public talent mobile coil tornado truth";
+var mnemonic = "bean flash pulse universe slush faint wrap filter bind grow cake piano";

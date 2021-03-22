@@ -1,1 +1,1 @@
-var mnemonic = "bar nothing truth twin cycle term mirror caution miss chuckle odor anchor";
+var mnemonic = "thing dinosaur snack interest pelican add spice radar into rely mom ask";

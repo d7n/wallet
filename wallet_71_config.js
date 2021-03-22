@@ -1,1 +1,1 @@
-var mnemonic = "disease valley globe conduct soccer multiply stadium wonder mix genuine exact brain";
+var mnemonic = "expose pole flag net army repair eternal issue tuition word neither capital";

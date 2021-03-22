@@ -1,1 +1,1 @@
-var mnemonic = "replace rug six lake crumble file close industry click balcony gasp network";
+var mnemonic = "caution input fly skull tray swim salute onion north wheel pulp green";

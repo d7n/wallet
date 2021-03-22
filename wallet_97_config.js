@@ -1,1 +1,1 @@
-var mnemonic = "laptop luxury flock omit lottery wealth during pole quarter kite patch goat";
+var mnemonic = "health caught during hammer hip where guide panic rhythm awkward speak ancient";

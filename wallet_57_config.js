@@ -1,1 +1,1 @@
-var mnemonic = "diesel legend lazy anxiety rule vapor shoulder talk zoo pull into scrap";
+var mnemonic = "lift smile tuition base census slide cigar discover glove demise surround matrix";

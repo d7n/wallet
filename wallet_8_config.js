@@ -1,1 +1,1 @@
-var mnemonic = "before echo mirror head grace cliff strike man defy vacuum height wing";
+var mnemonic = "still decade milk olive drink mango minimum alter tuition toilet fork mimic";

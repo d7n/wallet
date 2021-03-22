@@ -1,1 +1,1 @@
-var mnemonic = "green ensure wave case trick else casino corn rich rude can doctor";
+var mnemonic = "pool copy naive hill write area below object recipe solution involve pact";

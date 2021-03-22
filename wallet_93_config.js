@@ -1,1 +1,1 @@
-var mnemonic = "spoon inquiry glass buzz silver deposit question moral win pony tuition drop";
+var mnemonic = "invest veteran match major trust tail tray gap miracle plastic topple rack";

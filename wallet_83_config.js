@@ -1,1 +1,1 @@
-var mnemonic = "used spirit hobby stand illegal salute display gym north warm tape fever";
+var mnemonic = "force foam convince void absent script man hurry isolate grant wise smart";

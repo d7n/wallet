@@ -1,1 +1,1 @@
-var mnemonic = "attitude mouse hope wing sister online urge view click enforce cash rifle";
+var mnemonic = "sunny suffer rate biology roast blind matrix snake camp miracle region liar";

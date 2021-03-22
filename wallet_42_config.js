@@ -1,1 +1,1 @@
-var mnemonic = "ecology wild trouble fossil scissors boil cable climb real autumn above muscle";
+var mnemonic = "ignore trim cat cage symbol cover glimpse address safe rich jacket stadium";

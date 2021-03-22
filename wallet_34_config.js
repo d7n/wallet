@@ -1,1 +1,1 @@
-var mnemonic = "rate layer sphere food speed canoe actual autumn spring forward fantasy inflict";
+var mnemonic = "broccoli great wild harbor world slide better save enable net minor decade";

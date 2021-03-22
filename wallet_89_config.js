@@ -1,1 +1,1 @@
-var mnemonic = "balance junior uphold inch fire exhibit host raw calm used present leaf";
+var mnemonic = "fatal tiny top water mouse denial crack cruise someone mercy news dentist";

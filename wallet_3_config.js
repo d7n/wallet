@@ -1,1 +1,1 @@
-var mnemonic = "normal second manual sorry inch flush concert fiber laugh attend allow moment";
+var mnemonic = "useless economy usage door artist jelly bar leave find minute bring blue";

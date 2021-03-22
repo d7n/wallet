@@ -1,1 +1,1 @@
-var mnemonic = "sand hazard able diagram return mosquito liberty air code capital young sheriff";
+var mnemonic = "stable carpet island dust broom timber gather faint kitten omit between comic";

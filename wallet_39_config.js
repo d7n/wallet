@@ -1,1 +1,1 @@
-var mnemonic = "arrange snap crew fetch pelican crop matter cushion enemy trouble father brain";
+var mnemonic = "cup twice advice camp damp reason awkward dog horror isolate photo menu";

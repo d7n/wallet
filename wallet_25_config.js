@@ -1,1 +1,1 @@
-var mnemonic = "meadow loop reunion catalog insect situate they surface jacket divert bargain wing";
+var mnemonic = "butter entry toward have fresh culture invest proud isolate swim call salt";

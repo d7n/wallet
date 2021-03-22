@@ -1,1 +1,1 @@
-var mnemonic = "neck rhythm detail maple just short lonely genuine reunion poverty grass remain";
+var mnemonic = "embrace raven mail script sell tree smile gentle faith usage reveal jungle";

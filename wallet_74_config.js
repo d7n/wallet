@@ -1,1 +1,1 @@
-var mnemonic = "piano goddess tunnel dust grid tomorrow fossil snap century inhale road moon";
+var mnemonic = "fish furnace useless drip cliff among blouse shoot afford broom camp roof";

@@ -1,1 +1,1 @@
-var mnemonic = "easy demise fury sick lock cement orient acoustic purse elite gaze plug";
+var mnemonic = "piece cream pretty resist blue collect deny bottom online hour leader quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic govern vote master never lounge path swap coffee dress ski suffer";
+var mnemonic = "crumble sad eagle wheel bench april ribbon vocal jump cash develop suspect";

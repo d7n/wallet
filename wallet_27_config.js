@@ -1,1 +1,1 @@
-var mnemonic = "mango tired off quit eyebrow regular river alarm okay circle nose foot";
+var mnemonic = "bacon neutral rubber phone unhappy match gauge arena salt seven melody farm";

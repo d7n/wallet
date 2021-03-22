@@ -1,1 +1,1 @@
-var mnemonic = "valve relax region afraid whale three buzz viable april degree absorb initial";
+var mnemonic = "anxiety witness palace force hobby fence poverty powder job assume candy high";

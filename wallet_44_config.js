@@ -1,1 +1,1 @@
-var mnemonic = "disagree inch fine tag dose crane mutual range agree violin object ancient";
+var mnemonic = "tent raven burst melt universe sense october staff kit top way happy";

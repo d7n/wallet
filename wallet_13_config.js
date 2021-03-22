@@ -1,1 +1,1 @@
-var mnemonic = "fish undo buddy warfare zero engine veteran armor fiscal build shrimp basket";
+var mnemonic = "cousin glory faint obscure echo quantum airport mystery ladder horse resemble lottery";

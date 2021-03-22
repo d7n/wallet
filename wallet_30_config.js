@@ -1,1 +1,1 @@
-var mnemonic = "chest glory filter account gold lounge indicate rescue duck wise minute sibling";
+var mnemonic = "desert section universe size twin pause bronze swing camera short soap rural";

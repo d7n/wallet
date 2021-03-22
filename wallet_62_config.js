@@ -1,1 +1,1 @@
-var mnemonic = "roof cute memory spirit roast sport town grocery section old twenty wine";
+var mnemonic = "museum reveal jar phrase mule damp weasel enough cup ocean garlic quit";

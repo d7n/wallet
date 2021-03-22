@@ -1,1 +1,1 @@
-var mnemonic = "adult transfer heavy economy seven beyond miss toy design ankle use summer";
+var mnemonic = "ride toss oppose inherit account panel quiz eternal story brand anxiety clown";

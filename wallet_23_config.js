@@ -1,1 +1,1 @@
-var mnemonic = "trim entry adult profit van syrup remember cook plug capital buddy throw";
+var mnemonic = "hockey harvest hundred already jealous auction apart repair run fresh half until";

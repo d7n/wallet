@@ -1,1 +1,1 @@
-var mnemonic = "embark abstract cart glory palm idle decrease pause innocent drink estate witness";
+var mnemonic = "sign secret income recycle dress jaguar theory inherit stage flower bunker useless";

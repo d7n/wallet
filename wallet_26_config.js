@@ -1,1 +1,1 @@
-var mnemonic = "belt faculty camera three mechanic rich into child mutual hub margin proud";
+var mnemonic = "vapor wink stove flip ride theory embrace bronze fade arch million stable";

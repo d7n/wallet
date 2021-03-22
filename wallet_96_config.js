@@ -1,1 +1,1 @@
-var mnemonic = "modify school pool length regular industry slam volume mansion unique skull usual";
+var mnemonic = "strategy gift offer segment wine arrive update payment leader shrug glory health";

@@ -1,1 +1,1 @@
-var mnemonic = "prison fitness feed panic helmet inhale few return dawn east crush ecology";
+var mnemonic = "forget code enroll fatal month exact music fossil cabbage addict august prepare";

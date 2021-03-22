@@ -1,1 +1,1 @@
-var mnemonic = "trust where forum wrap silk potato tomato view rug lizard minor robot";
+var mnemonic = "hat segment three know little manage adult lens gallery roast loyal glory";

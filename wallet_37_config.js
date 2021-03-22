@@ -1,1 +1,1 @@
-var mnemonic = "ecology mimic gadget own mango hawk around income engine follow honey bargain";
+var mnemonic = "ribbon rich omit plunge cute first invite brisk need trend surface limit";

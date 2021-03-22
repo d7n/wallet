@@ -1,1 +1,1 @@
-var mnemonic = "despair uncover toward debate critic clarify sing erase income strike retire actor";
+var mnemonic = "dog you calm elite joy cool wreck outdoor capable picture extend volcano";

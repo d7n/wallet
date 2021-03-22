@@ -1,1 +1,1 @@
-var mnemonic = "wool suit proud enroll squirrel mesh long enough head bind bridge patrol";
+var mnemonic = "school rail emotion lamp you stand split oppose next helmet brand pause";

@@ -1,1 +1,1 @@
-var mnemonic = "defy stomach slim suggest asset reopen budget dwarf tonight indicate labor cigar";
+var mnemonic = "original fatal mesh innocent kidney find wrap weapon whale affair range bundle";

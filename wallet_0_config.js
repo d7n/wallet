@@ -1,1 +1,1 @@
-var mnemonic = "inhale arrange repeat salmon minimum danger twenty summer steel evoke half jungle";
+var mnemonic = "dad ethics laundry wide shield average simple oxygen height mansion okay detect";

@@ -1,1 +1,1 @@
-var mnemonic = "replace divorce chapter online street style month dad pride example brief busy";
+var mnemonic = "hold strategy convince nut entry abstract bike smooth dumb memory provide mushroom";

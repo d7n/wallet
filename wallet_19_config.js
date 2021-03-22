@@ -1,1 +1,1 @@
-var mnemonic = "figure drama sauce brass blanket vivid pause mimic latin milk loop patch";
+var mnemonic = "aisle toilet leave juice now color frequent depth ketchup swamp nephew task";

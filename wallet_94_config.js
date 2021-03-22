@@ -1,1 +1,1 @@
-var mnemonic = "security lion rely ticket logic stomach local ride pave address humble mouse";
+var mnemonic = "space moment ladder loud pencil suggest involve gadget scorpion tip assist blossom";

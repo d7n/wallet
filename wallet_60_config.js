@@ -1,1 +1,1 @@
-var mnemonic = "afraid erode empower pulse outer garlic ripple pattern rose sauce club grunt";
+var mnemonic = "drama panel satisfy drift rose leaf blade gallery nephew ride property woman";

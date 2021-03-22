@@ -1,1 +1,1 @@
-var mnemonic = "avocado fat cargo minor tissue bright solution knee desert zone dutch soft";
+var mnemonic = "spy only spell praise story sibling grit rely vocal lumber burger office";

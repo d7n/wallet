@@ -1,1 +1,1 @@
-var mnemonic = "catalog hybrid sniff purpose coyote siren medal lumber truck source gauge merit";
+var mnemonic = "stay disorder speak scheme trip update illness sand laugh name cup lizard";

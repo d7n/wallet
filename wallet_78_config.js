@@ -1,1 +1,1 @@
-var mnemonic = "crazy reopen attract jaguar birth cupboard fiscal fancy just report garment dog";
+var mnemonic = "lab frequent sphere cabin thrive update maid blush hunt hurdle cloth toast";

@@ -1,1 +1,1 @@
-var mnemonic = "senior expand nation sense ball warm sort client giraffe boy park essay";
+var mnemonic = "police reform lemon resemble segment worry identify attitude memory clever glad height";

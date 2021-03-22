@@ -1,1 +1,1 @@
-var mnemonic = "huge goddess receive own category observe vital nut erosion pupil squeeze palm";
+var mnemonic = "hospital end razor fatigue margin famous cycle amateur rhythm upgrade artwork table";

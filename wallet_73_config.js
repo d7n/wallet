@@ -1,1 +1,1 @@
-var mnemonic = "noise quarter bind allow brain hunt mixture material cannon cross awkward use";
+var mnemonic = "thumb ozone ghost blanket assume toss ski girl cheap decade advice wear";

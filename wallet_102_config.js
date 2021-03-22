@@ -1,1 +1,1 @@
-var mnemonic = "surge network range speak afraid monitor mystery salt naive sudden industry cube";
+var mnemonic = "finger fame stomach bomb security guard payment advance wing angle destroy science";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort control south jacket horse use fetch empower current tortoise reopen rigid";
+var mnemonic = "jealous dignity sausage local view radio movie title attack olympic stomach tree";

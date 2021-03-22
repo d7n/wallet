@@ -1,1 +1,1 @@
-var mnemonic = "invest avocado sun portion october shed loop slogan usual truly spirit phrase";
+var mnemonic = "tape update punch trap acid happy tenant pistol hammer green pact rough";

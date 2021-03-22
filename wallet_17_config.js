@@ -1,1 +1,1 @@
-var mnemonic = "mesh account pitch grace off ecology grape dance float metal enrich inquiry";
+var mnemonic = "have stable end ignore mosquito surprise paddle fatigue seminar laugh example draft";

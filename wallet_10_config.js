@@ -1,1 +1,1 @@
-var mnemonic = "word defense bread valid resemble urge bridge shy seat wheat warrior comic";
+var mnemonic = "silver cliff maple fold despair oyster gate pool better goat amazing clean";

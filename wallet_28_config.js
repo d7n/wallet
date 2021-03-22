@@ -1,1 +1,1 @@
-var mnemonic = "there scrap minimum fantasy update crater swallow off upgrade sound october ketchup";
+var mnemonic = "success around myself fantasy stomach steak sibling exact tip bar security tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow note judge kick ostrich genius congress business liberty hunt until matter";
+var mnemonic = "gloom nominee expire print acid manage bar jump catalog replace praise boy";

@@ -1,1 +1,1 @@
-var mnemonic = "nest convince this shift angry want trend level spice bacon grid upgrade";
+var mnemonic = "artefact swing stereo duty age trial unaware grace patch awesome expire nature";

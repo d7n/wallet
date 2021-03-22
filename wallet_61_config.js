@@ -1,1 +1,1 @@
-var mnemonic = "dumb film result actor dwarf blossom brass tell alone refuse gate attitude";
+var mnemonic = "occur member industry must dune ability hawk monitor belt venture route tube";

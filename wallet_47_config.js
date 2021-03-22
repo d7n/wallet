@@ -1,1 +1,1 @@
-var mnemonic = "someone steak live toilet myself awful lazy twice senior banner eight mercy";
+var mnemonic = "spoon present warm utility pact twist harbor artist become air sadness october";

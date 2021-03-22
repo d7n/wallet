@@ -1,1 +1,1 @@
-var mnemonic = "tent shine swim rapid enlist fashion left bacon ticket wing leader wash";
+var mnemonic = "whip arctic bleak crazy trip cage duck fancy network suit anger never";

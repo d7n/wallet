@@ -1,1 +1,1 @@
-var mnemonic = "ahead leg random above walnut ocean vacuum anxiety abandon faith noise wide";
+var mnemonic = "arrange alien render second escape trophy inflict amazing fringe tribe today item";

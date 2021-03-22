@@ -1,1 +1,1 @@
-var mnemonic = "liberty drill tail galaxy print surprise rug soccer traffic execute execute segment";
+var mnemonic = "chapter bread ski open stable joke mutual evoke manage brief radio satisfy";

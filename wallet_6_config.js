@@ -1,1 +1,1 @@
-var mnemonic = "expose parent task click decide fly genre green heart state click ready";
+var mnemonic = "puzzle gain chaos recycle misery pretty brick phrase muffin promote aware dismiss";

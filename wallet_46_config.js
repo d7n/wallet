@@ -1,1 +1,1 @@
-var mnemonic = "tackle poverty sauce nut scrub assume case aisle nuclear turn fine excess";
+var mnemonic = "couple culture ability begin power atom topple illegal still long rural rescue";

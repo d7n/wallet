@@ -1,1 +1,1 @@
-var mnemonic = "oyster snack joke cook lamp glass antique pitch aim humor park key";
+var mnemonic = "antique message tip sniff awesome detail blame urge between blood fence veteran";

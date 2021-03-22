@@ -1,1 +1,1 @@
-var mnemonic = "mean endorse speak slab earn ice gadget behave pill object divorce bread";
+var mnemonic = "gain impose swap alley direct dream all stadium learn cave flower come";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis all vehicle false sustain dove arrive assist firm disease require edge";
+var mnemonic = "banana company earn slam cotton action pair reflect smile quarter biology sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "wood observe abuse case wall repeat true embrace bargain pretty raw donor";
+var mnemonic = "tumble list find eternal put luggage smart stock gain orchard sunny fault";

@@ -1,1 +1,1 @@
-var mnemonic = "noble timber slogan pet boat timber cook patrol two timber puzzle depth";
+var mnemonic = "monkey slogan leisure cabin frost primary uncle grow uphold potato birth replace";

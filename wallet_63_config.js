@@ -1,1 +1,1 @@
-var mnemonic = "bomb vicious script sample once view stool pioneer faith solve autumn post";
+var mnemonic = "fit glimpse secret crouch summer glue stick kitten slush roof robust unique";

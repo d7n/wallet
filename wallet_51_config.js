@@ -1,1 +1,1 @@
-var mnemonic = "smoke mass truly share girl apology patch car gadget orange yard clerk";
+var mnemonic = "cotton stuff patch disorder pride tourist prevent piece opera repair notable unit";

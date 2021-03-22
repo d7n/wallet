@@ -1,1 +1,1 @@
-var mnemonic = "tilt write bacon spike stove thunder intact razor junior fiction bullet general";
+var mnemonic = "master zero spawn oxygen couch deny churn jealous coach security gloom caution";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain tree bulb strategy lizard arrange nut armor mask vague age vessel";
+var mnemonic = "ceiling load shiver cushion bullet pass congress soccer ten town rich mandate";

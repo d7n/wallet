@@ -1,1 +1,1 @@
-var mnemonic = "tobacco expose genius typical crouch kit satisfy lamp satoshi orient clarify bread";
+var mnemonic = "area tackle devote clerk scale roast wear smooth dismiss kidney clump reveal";

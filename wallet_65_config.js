@@ -1,1 +1,1 @@
-var mnemonic = "deliver explain glimpse prosper apple wasp snack kid survey horror success company";
+var mnemonic = "lucky guard enlist buddy entire coyote rebuild melody elephant broken evidence that";

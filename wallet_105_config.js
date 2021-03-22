@@ -1,1 +1,1 @@
-var mnemonic = "borrow design owner often advice raccoon strong dinner finish autumn foot wreck";
+var mnemonic = "arch glad empty buyer extend price bar episode time humble trigger fire";

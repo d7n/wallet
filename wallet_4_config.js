@@ -1,1 +1,1 @@
-var mnemonic = "box dutch dove layer have guide success kit mirror monkey pause inmate";
+var mnemonic = "argue pumpkin abstract between direct habit art spike know original twin match";

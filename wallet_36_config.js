@@ -1,1 +1,1 @@
-var mnemonic = "grocery end seek tribe combine industry turtle abuse inform marble decrease adjust";
+var mnemonic = "slight road crush fancy shoulder cabin slogan gasp million brown blast glide";

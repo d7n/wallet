@@ -1,1 +1,1 @@
-var mnemonic = "across battle gorilla shiver actor disorder between tray force run spring apple";
+var mnemonic = "version chase ice effort planet lunar kiss chair decade holiday surge tree";

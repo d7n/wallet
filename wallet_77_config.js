@@ -1,1 +1,1 @@
-var mnemonic = "hurt bargain damage grunt crime swallow art talk mule gun absorb glove";
+var mnemonic = "social toss use all fatal bean where forest bridge own oxygen fantasy";

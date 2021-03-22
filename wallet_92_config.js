@@ -1,1 +1,1 @@
-var mnemonic = "action grunt blast pipe bonus embark smile damage impulse admit coast stand";
+var mnemonic = "donor tenant slab shell stand expire tray tide banner artefact slice soon";

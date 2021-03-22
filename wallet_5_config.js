@@ -1,1 +1,1 @@
-var mnemonic = "hurry exist craft until pretty response cricket beauty wisdom audit animal boost";
+var mnemonic = "ball moral lab write hard ignore dust ostrich remember neither duck symptom";

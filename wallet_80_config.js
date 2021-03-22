@@ -1,1 +1,1 @@
-var mnemonic = "prefer crush drop flower warfare dawn manage miracle wonder search bike develop";
+var mnemonic = "runway ceiling round few young loop nasty trust differ dentist orange weasel";

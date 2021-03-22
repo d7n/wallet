@@ -1,1 +1,1 @@
-var mnemonic = "color emotion hammer artwork they debate guilt pyramid knock wealth panic fragile";
+var mnemonic = "media cloth punch derive stomach decade fix dynamic canoe cake method wish";

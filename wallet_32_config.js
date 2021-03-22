@@ -1,1 +1,1 @@
-var mnemonic = "doll weird code bring thought frequent space process build replace unhappy clean";
+var mnemonic = "evoke innocent blanket carpet parent battle leopard inject genre news eight away";
