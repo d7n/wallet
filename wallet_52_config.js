@@ -1,1 +1,1 @@
-var mnemonic = "visit labor depart excite size manual bubble poverty job december mandate never";
+var mnemonic = "twist promote clump habit ski purse foil carry acquire immune jaguar lab";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel fruit opinion allow van fortune own impulse bag host ask write";
+var mnemonic = "oil talk unfold diary often tattoo swap kitten peace gloom stage rain";

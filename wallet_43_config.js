@@ -1,1 +1,1 @@
-var mnemonic = "opinion apple panel valve priority panther sniff forest slight kitchen anxiety impulse";
+var mnemonic = "tool stove atom spend humble canvas dose bulk vanish scrap brother coffee";

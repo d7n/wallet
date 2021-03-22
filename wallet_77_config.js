@@ -1,1 +1,1 @@
-var mnemonic = "museum grocery ice circle street own ridge add coconut fitness october they";
+var mnemonic = "gasp ahead say drama sign swallow attend damp spell matrix base minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt kick afraid photo ranch blast trap select much benefit screen rapid";
+var mnemonic = "cry fence brass oppose guard collect enemy achieve asthma pull ramp require";

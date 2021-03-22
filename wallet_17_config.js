@@ -1,1 +1,1 @@
-var mnemonic = "security drama entire lift near finish peace online train soon unhappy client";
+var mnemonic = "march alone unknown girl raw never erode hour stamp embark spell surge";

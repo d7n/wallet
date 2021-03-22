@@ -1,1 +1,1 @@
-var mnemonic = "boil session morning nature buddy spoil surge desk plastic win shield box";
+var mnemonic = "visa milk void submit useless spice swap issue taste mountain survey display";

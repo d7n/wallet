@@ -1,1 +1,1 @@
-var mnemonic = "there deer private expose tragic gas margin kind unfair kite soldier smart";
+var mnemonic = "keep race humble latin face energy depend reason dad link betray equal";

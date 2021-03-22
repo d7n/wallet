@@ -1,1 +1,1 @@
-var mnemonic = "oyster prevent page transfer habit budget negative announce inside course like beef";
+var mnemonic = "picnic dish alpha actress host blood fix cigar erode wasp stand van";

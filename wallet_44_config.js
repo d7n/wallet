@@ -1,1 +1,1 @@
-var mnemonic = "spice aunt hard hold scale use alert scene brief wise appear local";
+var mnemonic = "fatal sense delay divorce aerobic grape suggest ladder wash minute spot staff";

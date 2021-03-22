@@ -1,1 +1,1 @@
-var mnemonic = "edge castle impact slow horse blast urban blood velvet basic lava average";
+var mnemonic = "sauce soccer wink notable argue tobacco inflict next path manage field dynamic";

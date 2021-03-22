@@ -1,1 +1,1 @@
-var mnemonic = "sword motion bicycle say indicate genuine novel forest stool treat seek access";
+var mnemonic = "relief wood thunder wet pupil six finger become dash wool uniform father";

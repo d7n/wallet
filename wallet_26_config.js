@@ -1,1 +1,1 @@
-var mnemonic = "forum cat summer offer erode train assault interest shine monkey world expect";
+var mnemonic = "summer garbage pond ancient peasant position regular next sudden team then bone";

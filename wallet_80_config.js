@@ -1,1 +1,1 @@
-var mnemonic = "retreat detail shoe exotic office marine holiday electric type when someone safe";
+var mnemonic = "truly render drama jacket ghost trim where present jump bunker airport save";

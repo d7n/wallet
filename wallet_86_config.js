@@ -1,1 +1,1 @@
-var mnemonic = "element bonus reason defy lift genius ship possible shell width you divert";
+var mnemonic = "quality jar sentence garlic viable actress chunk minor hazard october wrap achieve";

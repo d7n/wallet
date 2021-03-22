@@ -1,1 +1,1 @@
-var mnemonic = "world lift spread prepare air doctor produce release retire glare sort section";
+var mnemonic = "typical consider above crisp isolate blast before pizza steak goat promote labor";

@@ -1,1 +1,1 @@
-var mnemonic = "drift awkward onion cross payment immune inside mimic online foot agent ill";
+var mnemonic = "scheme light result measure hammer give cube mixture urban super spoil stuff";

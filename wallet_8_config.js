@@ -1,1 +1,1 @@
-var mnemonic = "flavor huge remove gift erosion prison pistol dragon fury gorilla trial swim";
+var mnemonic = "parade fetch oven profit glide produce bundle jewel glass actual devote lab";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen equip swift winter exotic twice nasty route walk settle fold law";
+var mnemonic = "tomorrow walk improve pattern win earn record exist away abstract diet ketchup";

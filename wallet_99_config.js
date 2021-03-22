@@ -1,1 +1,1 @@
-var mnemonic = "subway fantasy birth luxury holiday oven stay glory enhance inflict poem shy";
+var mnemonic = "anchor hour pistol evolve expect repair rug casino market sample quiz donor";

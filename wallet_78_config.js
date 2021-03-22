@@ -1,1 +1,1 @@
-var mnemonic = "trouble damage decorate ethics critic faculty valve noise vault health mimic guitar";
+var mnemonic = "wire vacuum cattle boat panic season letter develop weather radio pyramid force";

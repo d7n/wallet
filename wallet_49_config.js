@@ -1,1 +1,1 @@
-var mnemonic = "supreme taxi mother spare minute february track rug silk miracle gesture banner";
+var mnemonic = "village close start dolphin guide twist this okay what cinnamon since concert";

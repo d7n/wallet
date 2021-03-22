@@ -1,1 +1,1 @@
-var mnemonic = "crash token upon lock traffic find wave purity flip capital method suit";
+var mnemonic = "say total cloth valve distance blade measure hawk element control kit spy";

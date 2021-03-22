@@ -1,1 +1,1 @@
-var mnemonic = "gloom bone brown develop panther resist fix brown slide main priority employ";
+var mnemonic = "garbage embark laptop anxiety bless leg script together soldier hotel visa fiscal";

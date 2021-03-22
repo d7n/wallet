@@ -1,1 +1,1 @@
-var mnemonic = "various plunge trophy erase fame engage fox hungry hold speak chaos poet";
+var mnemonic = "double ancient plastic casual awful tragic trim diamond nose despair lawn good";

@@ -1,1 +1,1 @@
-var mnemonic = "forum verify pull ocean rule angle process mother eye viable nest blush";
+var mnemonic = "enforce already enlist throw burst girl assume only drum forest fluid legend";

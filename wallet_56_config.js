@@ -1,1 +1,1 @@
-var mnemonic = "blast below syrup city escape adjust seek feed broken poem tourist wave";
+var mnemonic = "shoulder milk crack cotton half asset glue disorder jar grace execute remain";

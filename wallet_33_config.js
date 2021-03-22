@@ -1,1 +1,1 @@
-var mnemonic = "ensure animal maze sorry gravity suffer twice truth rural vendor chalk swear";
+var mnemonic = "gravity original draft wheat gas crisp wrong island nephew galaxy silent eternal";

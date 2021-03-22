@@ -1,1 +1,1 @@
-var mnemonic = "ordinary solar course brown chronic dice isolate flavor parade steel target train";
+var mnemonic = "wish faculty lobster slow eight unaware erode table novel roast play spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "rally rent tattoo soup lawn staff keen body valley insect hedgehog medal";
+var mnemonic = "warfare soap maze spend pistol fragile twice trial awful ensure upgrade prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "space shuffle stumble girl glance female ordinary universe enough lunch source gas";
+var mnemonic = "canoe primary juice often plate camp shaft sell reward hand level kite";

@@ -1,1 +1,1 @@
-var mnemonic = "biology canoe narrow confirm cabin letter rule antique wrap sting giant grief";
+var mnemonic = "reason toilet asthma hub situate push liquid hat spider size deputy pencil";

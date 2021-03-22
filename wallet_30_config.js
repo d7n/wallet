@@ -1,1 +1,1 @@
-var mnemonic = "element dinosaur typical twin cattle alone patrol eight desert cactus hat fold";
+var mnemonic = "forest device topple gold relax twin purchase athlete run bounce sun search";

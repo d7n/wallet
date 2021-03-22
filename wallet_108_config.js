@@ -1,1 +1,1 @@
-var mnemonic = "glance common lunar angle share romance dish speed version fetch regret also";
+var mnemonic = "whisper captain logic defy slogan leader mother bone slim arch effort damp";

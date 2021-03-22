@@ -1,1 +1,1 @@
-var mnemonic = "matter biology into once clerk job polar veteran front vintage salad steel";
+var mnemonic = "hole lake month belt peanut copy process assume cupboard erosion green scene";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction milk vocal cactus orchard explain desert aspect hip night hammer light";
+var mnemonic = "fragile motor mansion uniform pair emerge fever pigeon approve blanket goose silk";

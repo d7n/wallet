@@ -1,1 +1,1 @@
-var mnemonic = "index flee spy town tomorrow zebra guitar hint cabin bike whale lock";
+var mnemonic = "mail shift deal ketchup achieve increase large bottom garden subject road arm";

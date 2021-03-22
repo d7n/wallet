@@ -1,1 +1,1 @@
-var mnemonic = "grief ten hill kitten spawn region there puzzle bone drift hedgehog enroll";
+var mnemonic = "ecology cliff color visa juice fault tube latin round left settle anchor";

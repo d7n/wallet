@@ -1,1 +1,1 @@
-var mnemonic = "resemble narrow daring patient park major human walnut divorce among useless satisfy";
+var mnemonic = "permit satisfy always unable myth dice note social crash deer steak bag";

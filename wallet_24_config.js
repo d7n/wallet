@@ -1,1 +1,1 @@
-var mnemonic = "girl success protect equal spring stable bag anxiety glide gorilla acquire space";
+var mnemonic = "dismiss wing pride brisk social educate since era skull gasp diesel ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt risk cost begin primary random usual pill question type desk misery";
+var mnemonic = "crumble play doll deer lion craft juice monkey cloth city purity solar";

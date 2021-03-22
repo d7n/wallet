@@ -1,1 +1,1 @@
-var mnemonic = "quit expose kite gadget shove wise vapor quiz erosion deposit reject sample";
+var mnemonic = "assist purchase breeze skill trust action floor grab engine approve cancel main";

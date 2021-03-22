@@ -1,1 +1,1 @@
-var mnemonic = "shield gentle hedgehog damage bench apology prevent segment super margin peanut smooth";
+var mnemonic = "forum problem there tongue scan hybrid hello test usual secret gadget reflect";

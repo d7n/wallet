@@ -1,1 +1,1 @@
-var mnemonic = "spirit possible senior ability add flat sister alcohol aerobic walnut sauce demise";
+var mnemonic = "tree toilet absurd labor loud royal acid already dune insane also purse";

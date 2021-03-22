@@ -1,1 +1,1 @@
-var mnemonic = "obscure evoke cause horse emotion attend spoon just shoe draw diet length";
+var mnemonic = "right clap tribe super still soul town join concert excuse catalog attack";

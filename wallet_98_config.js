@@ -1,1 +1,1 @@
-var mnemonic = "shed maple near soup swim add awake wage debate domain pluck execute";
+var mnemonic = "suspect cash gravity picnic cause question ozone pattern speed dentist traffic grace";

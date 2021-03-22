@@ -1,1 +1,1 @@
-var mnemonic = "border bike sadness sketch sort never umbrella term stereo sunset nothing tomorrow";
+var mnemonic = "column eye illness school dry photo shaft corn current battle middle day";

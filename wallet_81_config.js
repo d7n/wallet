@@ -1,1 +1,1 @@
-var mnemonic = "clock cotton mango silver cute purity rifle letter payment certain rose tomato";
+var mnemonic = "alien margin usage action film sock monitor flee awful plunge endless bronze";

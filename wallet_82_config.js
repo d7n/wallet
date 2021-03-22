@@ -1,1 +1,1 @@
-var mnemonic = "forest friend spend inmate better pumpkin sheriff escape pipe vacant alien harsh";
+var mnemonic = "deal report feel disease wait load stumble dentist adapt nut general bus";

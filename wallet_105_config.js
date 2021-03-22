@@ -1,1 +1,1 @@
-var mnemonic = "sphere index march ghost urge genuine city glue amount december document monster";
+var mnemonic = "tent enable action banana lake review express inquiry paddle jelly glass annual";

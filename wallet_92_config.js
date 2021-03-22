@@ -1,1 +1,1 @@
-var mnemonic = "hero vast undo ginger shiver recall crush tornado music juice photo come";
+var mnemonic = "equal advance cable wood suffer spy nuclear breeze income treat element attend";

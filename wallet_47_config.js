@@ -1,1 +1,1 @@
-var mnemonic = "parent glue off thunder above morning universe wear satisfy road cigar bread";
+var mnemonic = "casino inhale pupil eight warfare mail dawn grid gather inquiry spoil three";

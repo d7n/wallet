@@ -1,1 +1,1 @@
-var mnemonic = "bind tortoise evil model allow scale hunt convince auto pattern finish analyst";
+var mnemonic = "flat journey shaft fever prison also spoil sorry mechanic hint lemon deliver";

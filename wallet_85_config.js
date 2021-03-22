@@ -1,1 +1,1 @@
-var mnemonic = "custom holiday inch average aerobic tool raven goose shiver dose early convince";
+var mnemonic = "blur area robot silent casino during drink scatter vendor escape couple whip";

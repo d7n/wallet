@@ -1,1 +1,1 @@
-var mnemonic = "case section bargain peanut violin put auction scheme expand toy vintage labor";
+var mnemonic = "analyst attend crop type tide slot safe regular chicken hello device deny";

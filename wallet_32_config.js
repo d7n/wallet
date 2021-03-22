@@ -1,1 +1,1 @@
-var mnemonic = "color office claw chapter glare explain trim pudding city six property jungle";
+var mnemonic = "mystery pepper story mouse direct soup stairs return ensure mixed orphan shield";

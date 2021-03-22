@@ -1,1 +1,1 @@
-var mnemonic = "dust child viable main name tuition surge stadium barely remember blush crumble";
+var mnemonic = "dynamic this write tent wave false culture drink quiz tobacco earn crucial";

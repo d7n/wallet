@@ -1,1 +1,1 @@
-var mnemonic = "garage unveil solar mass apart cattle public toss broccoli together alarm drink";
+var mnemonic = "income loan island client replace key earn prefer all portion fortune crater";

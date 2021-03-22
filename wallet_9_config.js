@@ -1,1 +1,1 @@
-var mnemonic = "bird valley ivory slow later chaos impulse era approve napkin coach movie";
+var mnemonic = "rich they company series message earn teach vibrant wild open involve caution";

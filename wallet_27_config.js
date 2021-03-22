@@ -1,1 +1,1 @@
-var mnemonic = "nature six renew say damp piano tired lava connect private relief indoor";
+var mnemonic = "cable emotion silk tattoo elegant casual invite snack enforce best inside column";

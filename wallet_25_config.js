@@ -1,1 +1,1 @@
-var mnemonic = "layer tortoise pause lonely uncover grain estate suffer key oval monkey lobster";
+var mnemonic = "outdoor trophy immense bless artist gain retreat segment window body theme couple";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty whisper clean bus help baby fruit shoulder portion blur roof embrace";
+var mnemonic = "park rack sun pluck gentle surround trophy foil acoustic salon special chuckle";

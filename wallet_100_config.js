@@ -1,1 +1,1 @@
-var mnemonic = "doctor bracket fix into crouch educate weather hawk deliver mutual motor name";
+var mnemonic = "swarm theory lava gospel potato knife modify pudding reveal lawsuit person gasp";

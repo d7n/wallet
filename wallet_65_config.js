@@ -1,1 +1,1 @@
-var mnemonic = "cattle mass holiday network hurdle employ member hungry steak tuna hope tuna";
+var mnemonic = "favorite kingdom cake slab oblige vast ride action aspect diagram month neutral";

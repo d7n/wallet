@@ -1,1 +1,1 @@
-var mnemonic = "crystal clarify various ancient put rich explain ripple usual want sunny aim";
+var mnemonic = "clown pair woman blur gentle mix warfare kiss stuff return smooth dutch";

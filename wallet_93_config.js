@@ -1,1 +1,1 @@
-var mnemonic = "hard review maple already tomorrow artefact frequent gun fatigue jealous prepare wolf";
+var mnemonic = "enroll range father enact alien key true fancy atom arrive flee hunt";

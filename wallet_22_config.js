@@ -1,1 +1,1 @@
-var mnemonic = "very army mouse trade ancient mirror diet secret essence fame job jump";
+var mnemonic = "music property blind bottom season confirm train pull expose zoo agree wool";

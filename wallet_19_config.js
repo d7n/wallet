@@ -1,1 +1,1 @@
-var mnemonic = "tumble elegant ranch follow panther loyal visual fetch primary saddle action modify";
+var mnemonic = "tissue bulk treat exclude oxygen grant impose veteran guilt swap trick letter";

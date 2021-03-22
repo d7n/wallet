@@ -1,1 +1,1 @@
-var mnemonic = "brass slogan retire undo panic sign retire traffic citizen tunnel when scrub";
+var mnemonic = "clown blade pond warrior nose patrol ramp omit wood raise narrow lion";

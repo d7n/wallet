@@ -1,1 +1,1 @@
-var mnemonic = "problem guard design ketchup exhaust upset hard furnace tiger erase actual decorate";
+var mnemonic = "equal liquid company drip agent fox idle fatigue traffic style bind charge";

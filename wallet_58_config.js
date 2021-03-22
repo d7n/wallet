@@ -1,1 +1,1 @@
-var mnemonic = "unknown soft brass quote stage sudden enroll merry filter seed evoke whip";
+var mnemonic = "pole since bonus flavor fire drum theory animal sunset cruel struggle urban";

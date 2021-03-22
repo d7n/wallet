@@ -1,1 +1,1 @@
-var mnemonic = "where clean radar vote satoshi comfort congress any pony catalog olympic coyote";
+var mnemonic = "dragon exhibit dove open disorder fortune thrive duty moral nose soft tool";

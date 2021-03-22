@@ -1,1 +1,1 @@
-var mnemonic = "fluid welcome place quote race borrow wrist early city off attend route";
+var mnemonic = "copy wave elegant indicate six effort sad vapor quality industry shaft tennis";

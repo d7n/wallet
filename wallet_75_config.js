@@ -1,1 +1,1 @@
-var mnemonic = "oblige worth inquiry lava river aware expire town keen upgrade expect palm";
+var mnemonic = "cheese art attitude caught noble ethics tuition rough monkey barely twelve delay";

@@ -1,1 +1,1 @@
-var mnemonic = "pass sleep domain chief cave buzz define feature tiger parrot hero ramp";
+var mnemonic = "later bench large cupboard reject pipe hospital among soda ecology cycle gain";

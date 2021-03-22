@@ -1,1 +1,1 @@
-var mnemonic = "lion whip supply topple enable purity enough gold protect present act volume";
+var mnemonic = "diagram thunder round chronic super upon oval sister siren drop sadness such";

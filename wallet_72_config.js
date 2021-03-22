@@ -1,1 +1,1 @@
-var mnemonic = "play gravity awful gadget jump glow trend any pave harbor best evolve";
+var mnemonic = "december skull deer remove leaf audit salt vessel goddess laugh patch casino";

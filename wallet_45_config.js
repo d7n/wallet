@@ -1,1 +1,1 @@
-var mnemonic = "hole describe family cushion kidney kiwi kit energy cloud traffic master skate";
+var mnemonic = "immune critic glide clump juice unable option essay offer couple yellow memory";

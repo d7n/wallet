@@ -1,1 +1,1 @@
-var mnemonic = "giraffe patch despair idea express faith fringe fee ugly tired host version";
+var mnemonic = "toddler author shuffle symbol deny spider top input cattle category cover expose";

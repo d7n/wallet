@@ -1,1 +1,1 @@
-var mnemonic = "arena turtle sing vault local warm rib gun love magic mango dash";
+var mnemonic = "office outer pigeon toddler east anxiety glow ripple coral frozen phone dry";

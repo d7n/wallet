@@ -1,1 +1,1 @@
-var mnemonic = "purpose hotel amazing little velvet unveil reveal old kite news adult flat";
+var mnemonic = "shadow lake clap catalog stone track print round because winter category endless";

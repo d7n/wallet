@@ -1,1 +1,1 @@
-var mnemonic = "tiger good canyon shadow grant grid merry ancient balcony wife turtle loud";
+var mnemonic = "master earn unique cereal market park lumber wage vital hungry rocket truth";

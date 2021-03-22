@@ -1,1 +1,1 @@
-var mnemonic = "kingdom weird key energy drive two real sponsor shadow answer fix error";
+var mnemonic = "embody fold rebuild aerobic tennis cute enough behave during job decrease miracle";

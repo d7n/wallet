@@ -1,1 +1,1 @@
-var mnemonic = "female save sign mobile suspect region submit code turtle stereo market friend";
+var mnemonic = "length share lemon raccoon crumble expect snow grass check drama judge fun";

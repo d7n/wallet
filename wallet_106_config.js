@@ -1,1 +1,1 @@
-var mnemonic = "border similar dirt globe melody carry mansion surface spring cash burst speed";
+var mnemonic = "success evoke chunk detect sentence find system upset force load control popular";

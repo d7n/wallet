@@ -1,1 +1,1 @@
-var mnemonic = "annual similar celery pool unhappy month forward opinion satisfy subject type place";
+var mnemonic = "market vital doll alley dish crumble use powder road invite convince tortoise";

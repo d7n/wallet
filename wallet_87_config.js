@@ -1,1 +1,1 @@
-var mnemonic = "earth feed shoe galaxy first good panic rival pill math siren educate";
+var mnemonic = "exist between enter educate elbow delay machine dish sport absent animal fresh";

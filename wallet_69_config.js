@@ -1,1 +1,1 @@
-var mnemonic = "student enlist goat enrich angle tag lyrics stereo hero rookie used bracket";
+var mnemonic = "design trend meat dwarf elephant vanish fly rubber gossip cheap eye business";

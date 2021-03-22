@@ -1,1 +1,1 @@
-var mnemonic = "phrase bulb state title fresh neglect apart embark ability buffalo source panel";
+var mnemonic = "fruit subject cream maple dumb opera cook build refuse card ribbon solar";

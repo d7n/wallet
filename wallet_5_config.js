@@ -1,1 +1,1 @@
-var mnemonic = "chaos dolphin over snack picnic ivory odor script top future genuine defy";
+var mnemonic = "element uncle describe evoke jump staff sentence twin fashion thing critic absent";

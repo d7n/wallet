@@ -1,1 +1,1 @@
-var mnemonic = "exchange yellow produce shallow mention rate gesture grace jazz glide open develop";
+var mnemonic = "nothing disagree three danger until stereo monitor trouble wisdom trigger venue reduce";

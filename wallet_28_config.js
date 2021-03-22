@@ -1,1 +1,1 @@
-var mnemonic = "obey call solid month hobby sword estate hurdle allow measure source final";
+var mnemonic = "reflect disorder lyrics traffic february path output bag bonus artwork lake rose";

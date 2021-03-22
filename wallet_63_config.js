@@ -1,1 +1,1 @@
-var mnemonic = "nice siren ugly tide begin wagon arrange fiscal disagree chest elbow trade";
+var mnemonic = "taxi attitude protect treat mobile huge fatigue online raw future pause rifle";

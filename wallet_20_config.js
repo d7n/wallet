@@ -1,1 +1,1 @@
-var mnemonic = "mix increase junior patrol balance punch devote avoid era start orange umbrella";
+var mnemonic = "tail quarter strategy fatal high fun scan novel flavor kick urban acquire";

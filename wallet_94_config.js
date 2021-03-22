@@ -1,1 +1,1 @@
-var mnemonic = "daring dignity palm armed present profit quick ticket million industry stadium off";
+var mnemonic = "castle fan coyote awake girl ketchup rule matter melody gate coconut legal";

@@ -1,1 +1,1 @@
-var mnemonic = "evil bachelor hawk dentist photo squirrel van museum box matrix penalty couple";
+var mnemonic = "fit differ ensure fade cause sea mix auto spatial predict upper ring";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle voyage hole impose margin hero lesson forest parent panther express start";
+var mnemonic = "lens miracle confirm citizen agree sunset forget gospel real fortune layer soup";
