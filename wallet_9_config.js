@@ -1,1 +1,1 @@
-var mnemonic = "enforce bridge general margin tip pioneer maple practice chase mango clap skin";
+var mnemonic = "library alert genuine strike impose injury pattern ritual pole blush weasel rack";

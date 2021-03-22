@@ -1,1 +1,1 @@
-var mnemonic = "glass pyramid group thrive pistol design grocery lawsuit monitor hedgehog tag snake";
+var mnemonic = "mule mad junior agent unusual because excuse engage magnet unhappy rotate crash";

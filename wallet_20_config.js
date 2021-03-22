@@ -1,1 +1,1 @@
-var mnemonic = "hungry desk sun mail wish half swim brick fuel genius become hill";
+var mnemonic = "direct cool basic scheme electric elephant intact slight elbow elite decide soon";

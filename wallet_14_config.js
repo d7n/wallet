@@ -1,1 +1,1 @@
-var mnemonic = "merit mouse bargain ahead peace congress cycle asset cotton arrive chief flame";
+var mnemonic = "inhale alley path license human combine page fish awful cup dream own";

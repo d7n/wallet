@@ -1,1 +1,1 @@
-var mnemonic = "elder seven climb twist true order ripple riot deliver trophy exile ship";
+var mnemonic = "rebel banner affair regular maple alarm crisp brown notice allow defense rent";

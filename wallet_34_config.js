@@ -1,1 +1,1 @@
-var mnemonic = "bread science genre dust penalty when wink sort above punch finish foam";
+var mnemonic = "pepper parrot fetch wage duck tank lonely hello tunnel badge sad material";

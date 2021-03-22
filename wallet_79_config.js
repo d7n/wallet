@@ -1,1 +1,1 @@
-var mnemonic = "oval advance valley mobile donor cancel annual dilemma betray false cinnamon custom";
+var mnemonic = "trust insane regret poet collect tuna method frame cigar scatter swarm grass";

@@ -1,1 +1,1 @@
-var mnemonic = "culture traffic perfect nurse follow what path name chest item holiday mesh";
+var mnemonic = "stairs cake wait elder crop health flush plate hat typical trash can";

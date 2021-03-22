@@ -1,1 +1,1 @@
-var mnemonic = "pulse purse pact armed calm goddess rely blouse inject prepare moral unlock";
+var mnemonic = "bind alien derive detect exhaust zero debate false royal ball rare nurse";

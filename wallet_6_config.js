@@ -1,1 +1,1 @@
-var mnemonic = "rotate mansion shift knee genius this december journey shy inherit aim assault";
+var mnemonic = "buyer vintage dad enforce battle august ramp mango public lawn seat sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "attract moment various pistol reunion thought reduce false skin winter roof interest";
+var mnemonic = "obey cruise column hold piano wait critic sing dutch donate weasel mixture";

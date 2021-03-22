@@ -1,1 +1,1 @@
-var mnemonic = "creek insect gloom raw reduce inhale pond token capable plug among ghost";
+var mnemonic = "dice weather round asthma room skate help tent adjust leader jacket admit";

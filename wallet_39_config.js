@@ -1,1 +1,1 @@
-var mnemonic = "turn hybrid chimney man spot caught swamp poet tumble nominee enemy rifle";
+var mnemonic = "polar limit quarter okay clever diesel crater scorpion siren final action link";

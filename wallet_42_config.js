@@ -1,1 +1,1 @@
-var mnemonic = "about onion hospital emotion window twist fan steel wonder pass isolate kitten";
+var mnemonic = "subject obvious sell heart stomach sign april vague process romance use drive";

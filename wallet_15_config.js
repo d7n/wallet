@@ -1,1 +1,1 @@
-var mnemonic = "alone index pattern base engine neutral decrease orient voyage patient electric give";
+var mnemonic = "design fuel use balance success multiply life donkey purpose icon gold copy";

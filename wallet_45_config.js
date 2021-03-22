@@ -1,1 +1,1 @@
-var mnemonic = "rice upper version mutual unable eight exile immense car fee tooth can";
+var mnemonic = "stove tuna file very chronic danger crew erupt yellow yard phrase huge";

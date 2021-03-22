@@ -1,1 +1,1 @@
-var mnemonic = "slide shadow mixed clock faint nest media pitch silk gold settle stove";
+var mnemonic = "color organ vintage blur badge brief coast fish expose pilot current cave";

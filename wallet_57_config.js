@@ -1,1 +1,1 @@
-var mnemonic = "humor record denial melody promote claim improve security follow ten fatigue example";
+var mnemonic = "blanket service squeeze road mind usual garment wife property zero charge impose";

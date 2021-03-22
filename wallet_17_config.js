@@ -1,1 +1,1 @@
-var mnemonic = "dish uncover supreme guard ripple oyster note acoustic sense cannon fly stay";
+var mnemonic = "primary despair artefact nurse hip identify umbrella hurdle cricket horn fatigue west";

@@ -1,1 +1,1 @@
-var mnemonic = "food stand roof priority supply cousin pair typical veteran call coil nerve";
+var mnemonic = "gate decade plug total dinner update glance poem notable victory awake cancel";

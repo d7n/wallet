@@ -1,1 +1,1 @@
-var mnemonic = "crack glow business agree seminar canal educate woman real cheap busy light";
+var mnemonic = "inform spot walk sleep chief side account eternal surprise gorilla neutral flip";

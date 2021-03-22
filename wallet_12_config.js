@@ -1,1 +1,1 @@
-var mnemonic = "ensure unhappy sword speed stairs swap cage trend inherit swift wrist worth";
+var mnemonic = "panic mix survey spatial detail unable crouch potato toward above excite parade";

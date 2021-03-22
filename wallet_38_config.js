@@ -1,1 +1,1 @@
-var mnemonic = "ship danger prevent credit drink appear humble retreat holiday dinosaur delay lonely";
+var mnemonic = "enough cheese history shiver code drastic volume middle shield cool cup quarter";

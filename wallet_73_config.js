@@ -1,1 +1,1 @@
-var mnemonic = "verb lawsuit suspect limit message helmet hole perfect moon fee suffer visa";
+var mnemonic = "cherry use fiscal muffin agent rigid cushion test letter barely salon cherry";

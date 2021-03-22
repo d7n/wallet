@@ -1,1 +1,1 @@
-var mnemonic = "kiwi area captain combine unit hungry reveal gravity delay height razor small";
+var mnemonic = "admit again myth path scatter report feel praise remain farm panel bag";

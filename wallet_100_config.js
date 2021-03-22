@@ -1,1 +1,1 @@
-var mnemonic = "output increase dream unusual sand music divorce result sentence science easy accuse";
+var mnemonic = "tenant ribbon wine impact funny leg indoor lunar machine enjoy eye grace";

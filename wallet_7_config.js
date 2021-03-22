@@ -1,1 +1,1 @@
-var mnemonic = "rain million seek bonus jungle patrol pond metal token tennis online gadget";
+var mnemonic = "firm pudding strong favorite lazy hole menu tool duck flower melody bind";

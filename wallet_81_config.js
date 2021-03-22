@@ -1,1 +1,1 @@
-var mnemonic = "sock spring profit peasant mixed charge explain pluck enroll embody demise antique";
+var mnemonic = "tomato girl phrase oblige inmate oxygen comic organ basic latin decorate above";

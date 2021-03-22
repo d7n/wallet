@@ -1,1 +1,1 @@
-var mnemonic = "must girl deal example vital clutch gym rice food fatal similar place";
+var mnemonic = "hurdle midnight skin impulse easily exist essay mansion habit stable drift squirrel";

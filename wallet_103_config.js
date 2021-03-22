@@ -1,1 +1,1 @@
-var mnemonic = "morning stool brave flag maple program equip crowd provide news broken toy";
+var mnemonic = "bag deputy repair bottom crash then icon trip bid habit few plug";

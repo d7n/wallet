@@ -1,1 +1,1 @@
-var mnemonic = "wet ethics useful sell switch moon obvious age payment drop leaf room";
+var mnemonic = "manage congress medal fringe wild kitten used usage harvest lyrics glimpse lady";

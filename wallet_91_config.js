@@ -1,1 +1,1 @@
-var mnemonic = "flock scrub tissue dismiss leopard inform aware below shuffle around original kid";
+var mnemonic = "lottery power humble manual clutch wheat capable interest thank blossom lift mandate";

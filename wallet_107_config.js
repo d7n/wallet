@@ -1,1 +1,1 @@
-var mnemonic = "guard laugh ridge asthma budget riot top dumb more capable claw fury";
+var mnemonic = "physical mirror shed illegal sunny wrap major purpose lamp hunt modify master";

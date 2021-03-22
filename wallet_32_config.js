@@ -1,1 +1,1 @@
-var mnemonic = "father inside hidden eager purity parent model bone giggle grief thumb inherit";
+var mnemonic = "develop race essay normal useless must cheap parade cupboard despair smile goat";

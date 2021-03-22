@@ -1,1 +1,1 @@
-var mnemonic = "damage dream sorry reflect choose silly moment grass craft sing cereal admit";
+var mnemonic = "thrive report net episode lamp rare exit often provide accuse unique depend";

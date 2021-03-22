@@ -1,1 +1,1 @@
-var mnemonic = "donor mention bracket memory limb sauce lobster sing video garden follow siren";
+var mnemonic = "goose vanish ranch mandate enact custom property faith clown teach choice affair";

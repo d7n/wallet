@@ -1,1 +1,1 @@
-var mnemonic = "amazing final use runway above weird vocal pink stereo marble join come";
+var mnemonic = "dial inject price whisper comfort flash praise video couch silk endless like";

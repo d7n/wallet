@@ -1,1 +1,1 @@
-var mnemonic = "tourist weapon garbage theme sponsor beach bomb lazy number radio autumn tennis";
+var mnemonic = "bitter woman betray brown try violin dream balcony mirror glass pledge taste";

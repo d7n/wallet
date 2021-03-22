@@ -1,1 +1,1 @@
-var mnemonic = "journey satisfy relax punch tool plate position section option broccoli recall derive";
+var mnemonic = "pistol tank tomorrow cancel palace assault census panic noodle crime chair ready";

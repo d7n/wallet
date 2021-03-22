@@ -1,1 +1,1 @@
-var mnemonic = "swallow flush belt moon payment hotel outside allow leader alien return quality";
+var mnemonic = "decorate swift ship sell then universe drop title palace sing lumber ill";

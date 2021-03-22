@@ -1,1 +1,1 @@
-var mnemonic = "option eternal enact always roast own easily agent portion monkey piece jar";
+var mnemonic = "venture milk wait elephant cushion kite you lady caution wait patch icon";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep blame hand click gentle safe priority antique loan report lizard noble";
+var mnemonic = "feature absurd concert science depth nation goat toss silly initial meadow winter";

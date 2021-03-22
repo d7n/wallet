@@ -1,1 +1,1 @@
-var mnemonic = "hybrid about tobacco village vivid asset tone wine replace leaf hub happy";
+var mnemonic = "direct goat napkin drift shrimp quantum sunset toast sketch leader mirror forget";

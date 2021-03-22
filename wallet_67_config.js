@@ -1,1 +1,1 @@
-var mnemonic = "firm ticket when bar gaze wheel refuse right tortoise small near capital";
+var mnemonic = "news dry inner smooth keep limb system kid celery online absorb slot";

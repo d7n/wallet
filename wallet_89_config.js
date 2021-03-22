@@ -1,1 +1,1 @@
-var mnemonic = "lend enact fine eternal damage leisure cradle foam differ express candy churn";
+var mnemonic = "ranch category borrow then timber resist sudden session laugh leg alone exhaust";

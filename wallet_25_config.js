@@ -1,1 +1,1 @@
-var mnemonic = "educate stove east wrap laundry depth floor gas toward vivid bind produce";
+var mnemonic = "history radio million universe bar quality frame athlete game card cradle any";

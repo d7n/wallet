@@ -1,1 +1,1 @@
-var mnemonic = "boring alcohol series ten cause add slam other silver indoor spice immense";
+var mnemonic = "merit valley near frame spatial basic ladder become powder kiss orchard insect";

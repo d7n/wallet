@@ -1,1 +1,1 @@
-var mnemonic = "start advance mountain under jungle bundle female reveal under sorry despair cat";
+var mnemonic = "list august village state modify start pencil own later math quantum color";

@@ -1,1 +1,1 @@
-var mnemonic = "judge organ buddy achieve small cherry neck never panda mask divert warm";
+var mnemonic = "cattle fork code patch view business cactus win census gossip naive trim";

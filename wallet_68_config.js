@@ -1,1 +1,1 @@
-var mnemonic = "slide ugly minimum stay usual meat fancy flee jar gasp cotton leave";
+var mnemonic = "water unable runway home unit rent actual parade brain crawl reunion sauce";

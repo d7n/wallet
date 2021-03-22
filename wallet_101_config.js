@@ -1,1 +1,1 @@
-var mnemonic = "shy cupboard talent episode furnace festival flat view mercy thrive pelican grid";
+var mnemonic = "cash senior clip unable void book garden castle hazard boss cactus govern";

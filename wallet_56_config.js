@@ -1,1 +1,1 @@
-var mnemonic = "violin logic edge fitness average odor elite salt quantum version mango obtain";
+var mnemonic = "broccoli dinner tone cream crisp surface guilt reunion scan shadow whisper method";

@@ -1,1 +1,1 @@
-var mnemonic = "feel harbor kick dignity entire world unusual test cactus because crime sustain";
+var mnemonic = "popular wrap scare field motor now language subject vivid crop erosion lobster";

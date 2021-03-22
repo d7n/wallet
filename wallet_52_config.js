@@ -1,1 +1,1 @@
-var mnemonic = "main stereo urge kitten hard garden parrot reject echo typical trial web";
+var mnemonic = "genre slam purchase skull rich million stadium undo cycle material math bulb";

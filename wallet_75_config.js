@@ -1,1 +1,1 @@
-var mnemonic = "valve remember soup special design history vibrant sting carry yellow snake ordinary";
+var mnemonic = "nasty ahead brick obvious theory logic theory robust elevator tenant maid medal";

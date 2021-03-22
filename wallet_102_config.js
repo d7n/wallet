@@ -1,1 +1,1 @@
-var mnemonic = "hand journey sick trumpet kick salmon plunge dynamic that auto unfair amount";
+var mnemonic = "stone shed provide excess region detect often chicken spatial total put sense";

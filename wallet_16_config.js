@@ -1,1 +1,1 @@
-var mnemonic = "monkey merit price cabin lion light pave stadium census swap honey side";
+var mnemonic = "face giggle minute monster build real kitten vehicle august female pizza slab";

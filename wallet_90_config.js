@@ -1,1 +1,1 @@
-var mnemonic = "powder autumn asset solution foster window remember offer pull juice fringe action";
+var mnemonic = "inner ill spy hundred dial wine stomach grab hungry dog pink title";

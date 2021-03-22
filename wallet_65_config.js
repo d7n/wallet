@@ -1,1 +1,1 @@
-var mnemonic = "fee erase walk need pony dolphin crowd need glad neglect nice rug";
+var mnemonic = "smile advance cry bright caught claim custom fury magnet regret walnut unit";

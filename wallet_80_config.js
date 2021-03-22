@@ -1,1 +1,1 @@
-var mnemonic = "typical gadget dune analyst teach hood town stereo endorse exclude divert sweet";
+var mnemonic = "scale payment pepper bread actor device country sea kangaroo bubble away nuclear";

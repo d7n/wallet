@@ -1,1 +1,1 @@
-var mnemonic = "true enter arm anger cave put hazard half help beef foil black";
+var mnemonic = "arrive noodle caution embody slender motor jeans horror repair aunt crime resource";

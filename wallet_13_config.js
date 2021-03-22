@@ -1,1 +1,1 @@
-var mnemonic = "office civil mean fossil one resource bomb model candy vessel remain trend";
+var mnemonic = "senior method jar snow ritual steel young memory glare goat regret blast";

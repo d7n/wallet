@@ -1,1 +1,1 @@
-var mnemonic = "frog manage under yellow time trade middle guard vivid response maple cross";
+var mnemonic = "name eight divide attack resource rural fog there similar hold disagree input";

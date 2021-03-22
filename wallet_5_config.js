@@ -1,1 +1,1 @@
-var mnemonic = "meadow belt leave devote evidence iron width potato brisk actual great draw";
+var mnemonic = "license ski depend whip absent escape swallow expect rare venue arch chief";

@@ -1,1 +1,1 @@
-var mnemonic = "crack track chapter also myself inflict luxury drive public marble letter trumpet";
+var mnemonic = "merit talk ill drum assault fire effort resource coast myth behave message";

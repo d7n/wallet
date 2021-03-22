@@ -1,1 +1,1 @@
-var mnemonic = "term swallow angry act long motion drift amused error call double issue";
+var mnemonic = "cattle fortune menu awkward manual noble tray senior rabbit print claw job";

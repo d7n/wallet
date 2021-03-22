@@ -1,1 +1,1 @@
-var mnemonic = "neck tag arrange reflect gun agent core pencil amazing mimic smart process";
+var mnemonic = "marine bind sure axis skin pink until fortune material base often what";

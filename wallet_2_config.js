@@ -1,1 +1,1 @@
-var mnemonic = "risk fruit assault repair cabbage polar glow crumble donor parrot best fun";
+var mnemonic = "junior kingdom moral shed avocado click erode dwarf estate text history snack";

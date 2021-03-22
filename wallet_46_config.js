@@ -1,1 +1,1 @@
-var mnemonic = "code better illegal summer divide lab oxygen spoon vital sniff drink heart";
+var mnemonic = "cinnamon gloom park connect toss bullet card mesh chief combine trial control";

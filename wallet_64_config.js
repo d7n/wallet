@@ -1,1 +1,1 @@
-var mnemonic = "collect panther slab episode genuine pen peace require sick put net fat";
+var mnemonic = "meadow boat case cancel nothing dance off lava emerge boat differ capable";

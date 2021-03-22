@@ -1,1 +1,1 @@
-var mnemonic = "change side swap industry sort broken forest friend police copper truly guitar";
+var mnemonic = "oil concert train dose awake wall able couch prosper hungry garment chef";

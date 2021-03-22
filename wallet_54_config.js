@@ -1,1 +1,1 @@
-var mnemonic = "canvas embark general sort swing mixed heart weekend size mix prepare bottom";
+var mnemonic = "sauce cancel welcome aware little glare know orient leaf recycle dose wheat";

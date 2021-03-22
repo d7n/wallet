@@ -1,1 +1,1 @@
-var mnemonic = "change oven rose use blur size lottery must tower habit cost nation";
+var mnemonic = "neck much clever property occur giant situate slogan distance wine eye tell";

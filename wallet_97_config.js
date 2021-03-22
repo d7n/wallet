@@ -1,1 +1,1 @@
-var mnemonic = "can lawsuit biology photo frost vocal pudding valve toddler rural brand trade";
+var mnemonic = "close card mix curious twist bridge badge sheriff riot acoustic arm replace";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom knife future siege chief web fame west fan such brown twice";
+var mnemonic = "casino grid roof stereo pond mansion theme abuse endorse glove inner such";

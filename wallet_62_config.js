@@ -1,1 +1,1 @@
-var mnemonic = "olive topple project pink artwork rack destroy leader shoe zoo inquiry nephew";
+var mnemonic = "obvious vacant phone strategy fuel worth subject obey junior idea shell gown";

@@ -1,1 +1,1 @@
-var mnemonic = "current brush light unit patrol stable emotion million theory blue hip fork";
+var mnemonic = "decline harsh ribbon promote immense list poverty ritual retire taxi property harvest";

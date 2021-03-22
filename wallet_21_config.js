@@ -1,1 +1,1 @@
-var mnemonic = "abstract spy protect salad notice pair deer build faint gadget coconut today";
+var mnemonic = "ill shed grow enlist small wheat world under federal occur net cube";

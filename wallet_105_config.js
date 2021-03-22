@@ -1,1 +1,1 @@
-var mnemonic = "also harsh office phrase scrub venue chat point fiscal doll fence police";
+var mnemonic = "attract century already skin frame never treat goat render young coach ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "steel attract appear number siege suit identify spoon shoulder sea sudden tent";
+var mnemonic = "lab vicious depend pluck truth play joke artist share boring trumpet dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion victory cool lens affair crew fly great purpose carry impulse limb";
+var mnemonic = "coin board print rally plunge poem armor under museum actress month bamboo";

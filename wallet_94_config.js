@@ -1,1 +1,1 @@
-var mnemonic = "bamboo clerk potato predict light cruel dignity avocado grit disagree upon mansion";
+var mnemonic = "error such submit marine timber legend wagon comic leader lesson panel exist";

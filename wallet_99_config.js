@@ -1,1 +1,1 @@
-var mnemonic = "okay deal image possible barrel twist jungle bus amateur want mix about";
+var mnemonic = "deal speed neither uncle crazy eight junior aim club tumble total amazing";

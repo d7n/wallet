@@ -1,1 +1,1 @@
-var mnemonic = "charge hole similar alcohol exhibit wealth lecture behind large distance month symptom";
+var mnemonic = "avocado winner clock clump view voyage fence rabbit latin thank swap season";

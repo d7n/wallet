@@ -1,1 +1,1 @@
-var mnemonic = "episode feature lunch task idle wisdom mansion worth hobby light camera wrestle";
+var mnemonic = "lecture turtle year proof coach crucial pole inmate potato check thrive isolate";

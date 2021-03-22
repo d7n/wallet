@@ -1,1 +1,1 @@
-var mnemonic = "pave company habit ghost multiply baby regret oppose alpha capable grow begin";
+var mnemonic = "hand voice talent tooth autumn tiger poem pair valid ramp cupboard coyote";

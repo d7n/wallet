@@ -1,1 +1,1 @@
-var mnemonic = "cluster coffee sense huge route pave glare delay parrot hurt reform stable";
+var mnemonic = "rose walk million lunch ability find mom struggle above resist alter beauty";

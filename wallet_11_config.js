@@ -1,1 +1,1 @@
-var mnemonic = "slam water gallery valve metal upon setup write cry disorder make gesture";
+var mnemonic = "person nephew leave doctor cream stamp heavy garbage tower attend birth carbon";

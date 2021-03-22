@@ -1,1 +1,1 @@
-var mnemonic = "radar carry celery novel tackle friend agent gym album session brave category";
+var mnemonic = "stuff people tongue mixture strike energy evolve eagle jump canoe cross violin";

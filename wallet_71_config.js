@@ -1,1 +1,1 @@
-var mnemonic = "child affair pass arm now cancel olympic party lock energy bracket spice";
+var mnemonic = "iron inspire rabbit mind broken season quarter mixture spoon come custom crouch";
