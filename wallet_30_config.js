@@ -1,1 +1,1 @@
-var mnemonic = "violin quote caught bonus mixture whale shed page dog evoke order sense";
+var mnemonic = "sea sketch defense seven genuine owner apart lens airport merry wasp bone";

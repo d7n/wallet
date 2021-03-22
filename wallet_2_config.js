@@ -1,1 +1,1 @@
-var mnemonic = "slab deny south verb build beyond security shallow burden rose vibrant common";
+var mnemonic = "practice bridge bone tone escape potato people range rose price stumble farm";

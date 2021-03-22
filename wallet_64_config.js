@@ -1,1 +1,1 @@
-var mnemonic = "dolphin aspect opinion engine proof route say zoo guard consider blur mixed";
+var mnemonic = "inherit remind hub today equal kidney slow polar sausage tattoo century setup";

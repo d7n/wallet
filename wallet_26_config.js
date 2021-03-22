@@ -1,1 +1,1 @@
-var mnemonic = "acid festival dose pioneer payment arrive harsh wear expose stem arrive spy";
+var mnemonic = "interest warrior adjust occur surround merit diary south feel riot scrub doctor";

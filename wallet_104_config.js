@@ -1,1 +1,1 @@
-var mnemonic = "place ride lesson quick dirt super mimic assist goose web flower airport";
+var mnemonic = "day load glow jealous noodle merry empty buzz sun equal vault explain";

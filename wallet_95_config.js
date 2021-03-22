@@ -1,1 +1,1 @@
-var mnemonic = "simple okay walnut mystery peanut type attack pepper license quality laugh cry";
+var mnemonic = "find return beyond siren brick script glance voice trial sugar grocery false";

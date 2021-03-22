@@ -1,1 +1,1 @@
-var mnemonic = "oak pulp bracket grit wrong notable just tobacco sister edit fog yard";
+var mnemonic = "biology weird dignity bronze depend exile toe suffer diagram whisper usage frost";

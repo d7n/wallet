@@ -1,1 +1,1 @@
-var mnemonic = "use rather sound number exchange logic cliff cement ask flock assist answer";
+var mnemonic = "patient peace oven also swap please employ army moon trip brass arm";

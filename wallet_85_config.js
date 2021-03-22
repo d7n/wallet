@@ -1,1 +1,1 @@
-var mnemonic = "shove peasant leaf admit relief palace vintage coast brave kingdom joke era";
+var mnemonic = "rule east catch squeeze master blue found upset leaf what blanket addict";

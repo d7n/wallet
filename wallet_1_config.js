@@ -1,1 +1,1 @@
-var mnemonic = "area drum crew judge bronze nation office hurry hybrid garlic begin aim";
+var mnemonic = "poverty budget proof lucky betray torch hole edit glide always scissors social";

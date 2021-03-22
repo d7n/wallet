@@ -1,1 +1,1 @@
-var mnemonic = "angry bachelor join velvet error moment gas output cinnamon wire sell resource";
+var mnemonic = "drill fence fever index bacon bottom satoshi start asset tilt rent laundry";

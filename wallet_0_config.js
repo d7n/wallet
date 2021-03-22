@@ -1,1 +1,1 @@
-var mnemonic = "monster soccer category attack essence lounge month metal deposit example document stable";
+var mnemonic = "refuse drip awkward bring nominee easily pair loyal helmet can dirt own";

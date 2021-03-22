@@ -1,1 +1,1 @@
-var mnemonic = "tunnel wait vague absorb duty fresh release arrow tape tribe average still";
+var mnemonic = "utility age fade omit fever chronic priority thrive frozen disagree wife require";

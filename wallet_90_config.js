@@ -1,1 +1,1 @@
-var mnemonic = "maid mutual middle under liar limb visit core lion broom lake awake";
+var mnemonic = "assault angle doll apart dirt antique nerve initial rent punch typical hello";

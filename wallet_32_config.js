@@ -1,1 +1,1 @@
-var mnemonic = "ride grunt improve eight worry employ lamp mammal crack onion volume deliver";
+var mnemonic = "scrub connect lecture auto cargo junior pluck team agree aisle fever exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog gym tone suggest north tragic kiwi illness people dolphin canyon text";
+var mnemonic = "salon immune crystal sun budget honey head cave bulb replace throw hire";

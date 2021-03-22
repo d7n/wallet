@@ -1,1 +1,1 @@
-var mnemonic = "report exhibit hundred way analyst purity code hen source toward novel wonder";
+var mnemonic = "regular blur confirm trial mouse enjoy acquire rain nephew friend frown glow";

@@ -1,1 +1,1 @@
-var mnemonic = "over mobile smart kite soup soft exhibit burst ask subject illegal festival";
+var mnemonic = "absorb arctic final autumn rely flock win success asset harvest engine what";

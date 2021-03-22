@@ -1,1 +1,1 @@
-var mnemonic = "pond cradle crunch image lawsuit cry tragic whisper easy split imitate wasp";
+var mnemonic = "sunny rigid broken mechanic remain patch lecture blue decide basic move dial";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo drama lend trouble little desk pole yellow mean afford battle middle";
+var mnemonic = "feature pulp arrive caution love syrup height window melody weather mistake add";

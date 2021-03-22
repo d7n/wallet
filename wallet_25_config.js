@@ -1,1 +1,1 @@
-var mnemonic = "length drill thing bike congress weekend rate sea obscure clown upgrade ethics";
+var mnemonic = "achieve stereo regret blouse zero glare veteran proof unfold pumpkin verb victory";

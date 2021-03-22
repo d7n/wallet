@@ -1,1 +1,1 @@
-var mnemonic = "light basket stock chuckle pill donkey thank actor alien awful skirt million";
+var mnemonic = "average say small match south fog arch tray drip cannon off suffer";

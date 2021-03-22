@@ -1,1 +1,1 @@
-var mnemonic = "vacant crunch wink rather poverty spirit foot wheat index fiber ghost tank";
+var mnemonic = "family choice angle repeat tank offer genre shift front deliver spend tonight";

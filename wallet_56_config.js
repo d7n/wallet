@@ -1,1 +1,1 @@
-var mnemonic = "scheme knife slice find review screen venture buffalo wing gown life arrest";
+var mnemonic = "butter major amused impulse ridge leaf stone divert drill camera pull side";

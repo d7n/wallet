@@ -1,1 +1,1 @@
-var mnemonic = "vessel bonus arm basket strike salon scale road own october ginger chicken";
+var mnemonic = "pigeon replace forest convince exchange doll fish enable admit eight occur alley";

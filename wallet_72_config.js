@@ -1,1 +1,1 @@
-var mnemonic = "coast rebel lemon notice impact around uniform stamp absorb call live suit";
+var mnemonic = "faith swallow split train mountain mobile announce inquiry empower track ghost pluck";

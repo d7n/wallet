@@ -1,1 +1,1 @@
-var mnemonic = "extend decade boat provide vibrant high shine embark slim dream village attend";
+var mnemonic = "cruel argue era skull dune gauge fine try word you pole crunch";

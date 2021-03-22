@@ -1,1 +1,1 @@
-var mnemonic = "fix link bridge nasty neck dry hip forum then myself proof duty";
+var mnemonic = "bike slot police sketch kit twice suit physical inner zero guard borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "axis poem satoshi desk beach know start expose potato people town adult";
+var mnemonic = "room nasty talk neck flock lounge stem cattle shrug dice prevent exchange";

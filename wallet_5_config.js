@@ -1,1 +1,1 @@
-var mnemonic = "safe practice evidence roast citizen sound venture foam corn village dash menu";
+var mnemonic = "asset edit opera hidden carry burden initial february dice autumn toddler load";

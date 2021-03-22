@@ -1,1 +1,1 @@
-var mnemonic = "initial top survey dizzy seek inform unknown fatal tunnel opinion fox drip";
+var mnemonic = "renew chalk world fox present scare heart visit garden grant best circle";

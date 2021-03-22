@@ -1,1 +1,1 @@
-var mnemonic = "fragile dance eye arch ketchup loop street sight sign miracle lend abandon";
+var mnemonic = "enter rib such donor manual enhance knee develop enable route right govern";

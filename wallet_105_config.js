@@ -1,1 +1,1 @@
-var mnemonic = "unit black obscure jeans vivid sunny hurdle butter inquiry kind memory gate";
+var mnemonic = "main topic electric arrive riot stone green obey ride opera umbrella famous";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor mad priority inch wage minute devote crew about enroll drastic solve";
+var mnemonic = "goat firm control tomorrow pluck fringe embrace danger convince leopard goat fitness";

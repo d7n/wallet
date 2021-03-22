@@ -1,1 +1,1 @@
-var mnemonic = "avocado name bitter coast place remove area flush elephant buyer slab borrow";
+var mnemonic = "hub dial praise path sauce super veteran game typical doll diesel version";

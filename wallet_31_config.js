@@ -1,1 +1,1 @@
-var mnemonic = "achieve warfare jewel wrestle puzzle job digital chat remain donkey theory march";
+var mnemonic = "ticket vault alert level betray material stick heart shoulder depth there grass";

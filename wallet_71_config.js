@@ -1,1 +1,1 @@
-var mnemonic = "asset tiger pull teach person legend analyst speed exact person feature parent";
+var mnemonic = "adapt joy quick shiver tenant jar other social knife left require timber";

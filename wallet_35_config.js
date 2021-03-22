@@ -1,1 +1,1 @@
-var mnemonic = "fortune garment sting core warfare pink finger faculty fee build depart illness";
+var mnemonic = "insect choice roast ecology kiwi velvet pilot scrub divide ugly hen service";

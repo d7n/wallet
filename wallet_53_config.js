@@ -1,1 +1,1 @@
-var mnemonic = "tape swallow shoe capable chase regret tool sleep cricket melody pottery fence";
+var mnemonic = "mirror wise garment unable dice common deputy depart pig parade ecology raw";

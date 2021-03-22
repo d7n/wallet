@@ -1,1 +1,1 @@
-var mnemonic = "write cheese shuffle december blue pizza fetch rocket garbage choose fresh ice";
+var mnemonic = "melt eternal plastic payment host share found weekend metal relax claim gentle";

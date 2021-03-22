@@ -1,1 +1,1 @@
-var mnemonic = "wash verb bubble focus ring worth key kick label wife maximum guide";
+var mnemonic = "lift immune ecology solution frozen trend term speed ecology undo review neither";

@@ -1,1 +1,1 @@
-var mnemonic = "essence ticket forward ethics smooth buyer during give ahead judge bike spend";
+var mnemonic = "fat elevator option pool hospital destroy knife check choose month armor true";

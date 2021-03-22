@@ -1,1 +1,1 @@
-var mnemonic = "rubber hurry jealous wealth odor couple silk cram nerve warrior evil shine";
+var mnemonic = "jelly put pelican dutch valve ribbon pottery gain evoke promote source bargain";

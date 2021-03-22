@@ -1,1 +1,1 @@
-var mnemonic = "debate island pass wing pact split worth soccer kid grunt slam merit";
+var mnemonic = "must reveal miss mail tennis prison rescue quality speak produce quality alert";

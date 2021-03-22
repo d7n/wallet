@@ -1,1 +1,1 @@
-var mnemonic = "release crisp film dust mobile opinion skill depth biology void battle dune";
+var mnemonic = "wild rifle capable please brain mushroom still chair miss allow price galaxy";

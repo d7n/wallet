@@ -1,1 +1,1 @@
-var mnemonic = "spike glory column rocket tissue change rain praise amount other innocent cinnamon";
+var mnemonic = "grow peanut glue assist gaze plate horn fine price satisfy diesel moon";

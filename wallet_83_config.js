@@ -1,1 +1,1 @@
-var mnemonic = "false gaze flower dutch poet ice clay plastic bicycle gold brush visit";
+var mnemonic = "vague reduce remind vocal round clown waste topple cake sniff front way";

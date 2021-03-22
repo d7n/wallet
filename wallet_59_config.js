@@ -1,1 +1,1 @@
-var mnemonic = "ladder grace before dial hat music present moral father scout dawn lion";
+var mnemonic = "record pole diary either nothing burden wide swim angry carbon opinion upgrade";

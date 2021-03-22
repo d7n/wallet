@@ -1,1 +1,1 @@
-var mnemonic = "wagon hard parade hockey alpha flash scrub smooth behind push sauce tomorrow";
+var mnemonic = "sheriff put budget heart business friend elegant coyote cherry genius tobacco hybrid";

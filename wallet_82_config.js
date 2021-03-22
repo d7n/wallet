@@ -1,1 +1,1 @@
-var mnemonic = "term whip multiply oxygen connect squirrel young truck post lift extra fog";
+var mnemonic = "debate brand essay circle urban noise vote error spike during leisure follow";

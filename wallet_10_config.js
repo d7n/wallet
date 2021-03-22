@@ -1,1 +1,1 @@
-var mnemonic = "jeans jelly grocery father forward lamp sunset hospital test grass behave throw";
+var mnemonic = "shine dove theme grid farm rack bench black meadow limb word axis";

@@ -1,1 +1,1 @@
-var mnemonic = "media deposit myself hat boy giraffe blossom letter large differ venue rather";
+var mnemonic = "walnut surprise globe level good caution gesture uphold capable brain series swap";

@@ -1,1 +1,1 @@
-var mnemonic = "toe drink already image track anger load neither fantasy bleak hurt talent";
+var mnemonic = "tourist tower october tobacco private begin welcome recycle such purse panic elite";

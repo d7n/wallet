@@ -1,1 +1,1 @@
-var mnemonic = "yard jewel mix goat fan team you food blood license similar ritual";
+var mnemonic = "guess stone balance link rack noble daring conduct payment energy curious fetch";

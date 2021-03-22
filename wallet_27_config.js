@@ -1,1 +1,1 @@
-var mnemonic = "gospel pear clock bean green oil sorry year such blame theme absorb";
+var mnemonic = "upon crystal naive state employ vivid this wink usage cliff orphan vault";

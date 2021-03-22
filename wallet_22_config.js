@@ -1,1 +1,1 @@
-var mnemonic = "seat dismiss nephew analyst carbon endorse furnace mirror dawn time expire stay";
+var mnemonic = "version invite crumble duck avocado salad either weather beyond season crater benefit";

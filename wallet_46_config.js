@@ -1,1 +1,1 @@
-var mnemonic = "weather ensure satisfy method cake horn you pill govern broken submit olympic";
+var mnemonic = "apart comic employ mammal output zero glimpse detail easy second please auction";

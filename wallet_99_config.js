@@ -1,1 +1,1 @@
-var mnemonic = "sheriff joke trouble census pitch sustain term manual spatial cabin solve pole";
+var mnemonic = "dumb palm pear future pottery thank thing silver topic crumble staff drastic";

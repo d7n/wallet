@@ -1,1 +1,1 @@
-var mnemonic = "evidence dance fresh slender rule oak ostrich tortoise odor rescue carbon scrub";
+var mnemonic = "scout bean void give patch orphan response burst talent crazy dentist cover";

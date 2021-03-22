@@ -1,1 +1,1 @@
-var mnemonic = "session tobacco illegal amateur split mixed category obvious autumn deer degree beef";
+var mnemonic = "invest shine mean grid vicious admit involve flip huge universe home spot";

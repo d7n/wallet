@@ -1,1 +1,1 @@
-var mnemonic = "spot enable inflict luggage aunt finish theory fit cheap there warm coffee";
+var mnemonic = "tuition victory maid fancy hammer token often face talk shuffle kit repeat";

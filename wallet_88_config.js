@@ -1,1 +1,1 @@
-var mnemonic = "citizen scorpion more emerge tuna fabric nature clever strike office social bus";
+var mnemonic = "topple violin bicycle bacon brick throw shallow cement scale exhibit swear acquire";

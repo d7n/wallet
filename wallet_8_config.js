@@ -1,1 +1,1 @@
-var mnemonic = "nation clever join differ else churn mushroom cushion maze cabbage model clever";
+var mnemonic = "nephew bargain grant derive hole latin drive spot perfect retreat logic quiz";

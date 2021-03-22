@@ -1,1 +1,1 @@
-var mnemonic = "dinner august sister gate cube repair ketchup wrestle magic life mix small";
+var mnemonic = "update elbow prosper right exhaust moon nut draw sand crucial stove vessel";

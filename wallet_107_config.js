@@ -1,1 +1,1 @@
-var mnemonic = "vehicle actor bunker immense render cart bomb tornado find select glow two";
+var mnemonic = "situate job much ostrich double reward enroll pistol abuse soda lady observe";

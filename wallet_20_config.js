@@ -1,1 +1,1 @@
-var mnemonic = "amazing seven actor lady idea coast route planet fade legal need best";
+var mnemonic = "shaft strategy scheme husband across access cannon more outside negative deliver october";

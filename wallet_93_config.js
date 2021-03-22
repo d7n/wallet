@@ -1,1 +1,1 @@
-var mnemonic = "network install method impose clown torch enable skin style owner proud stock";
+var mnemonic = "track drama check ghost fall moral survey method remain palace grunt ball";

@@ -1,1 +1,1 @@
-var mnemonic = "share rural time rent hip predict rare long enjoy empty option bean";
+var mnemonic = "kick cable melody sketch fever spice receive paddle diet album patrol piece";

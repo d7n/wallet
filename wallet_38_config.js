@@ -1,1 +1,1 @@
-var mnemonic = "recall spell traffic answer certain float host curious copy zero ready bean";
+var mnemonic = "coast cycle taxi reject report quick merit cart need fitness belt shallow";

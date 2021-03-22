@@ -1,1 +1,1 @@
-var mnemonic = "sweet pyramid great magic flush vast hole text van shrug joke north";
+var mnemonic = "daring load attend invite narrow favorite motion garage rival grief adapt just";

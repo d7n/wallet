@@ -1,1 +1,1 @@
-var mnemonic = "proof ancient school hole pride aerobic tourist paper night auto other alert";
+var mnemonic = "decorate student limit oval unusual jar boss satisfy recall raccoon that soccer";

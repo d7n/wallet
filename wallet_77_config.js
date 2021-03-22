@@ -1,1 +1,1 @@
-var mnemonic = "already oil tenant hope example curtain bring silk zero stock chalk enough";
+var mnemonic = "number iron suit wash curtain menu faint inmate antique hat mystery valley";

@@ -1,1 +1,1 @@
-var mnemonic = "can acquire lady concert urban type blood inherit session nut antique horse";
+var mnemonic = "ugly salon soccer hold dirt ladder flat park board scorpion gaze assume";

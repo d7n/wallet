@@ -1,1 +1,1 @@
-var mnemonic = "curious frown also sock grocery empty sense number vibrant attend hole metal";
+var mnemonic = "infant alert domain note under tower twenty purse then off web layer";

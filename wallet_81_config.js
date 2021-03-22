@@ -1,1 +1,1 @@
-var mnemonic = "type floor wreck quarter wrong notice setup foster cricket section husband please";
+var mnemonic = "ship stereo payment oblige cloud derive moment adjust stem account trap deposit";

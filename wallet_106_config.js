@@ -1,1 +1,1 @@
-var mnemonic = "love gravity jewel exercise coconut fatal wish awake pill relief cousin vehicle";
+var mnemonic = "humor income hard bag people cart mom drip elbow install arch proof";

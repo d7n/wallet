@@ -1,1 +1,1 @@
-var mnemonic = "device rocket major lesson around proof page company guide maze canyon pretty";
+var mnemonic = "famous friend humble render reveal leg cat pigeon glad faint mix twice";

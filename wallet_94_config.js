@@ -1,1 +1,1 @@
-var mnemonic = "crazy seven negative west invite valve come shine feature pupil ridge minor";
+var mnemonic = "mobile asset enforce wife tone civil actress away dentist idea six envelope";

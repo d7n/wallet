@@ -1,1 +1,1 @@
-var mnemonic = "ability sausage wash cotton tool crucial picnic dignity slight quarter few gorilla";
+var mnemonic = "end survey rent mesh edge harsh little vivid market raw parent quote";

@@ -1,1 +1,1 @@
-var mnemonic = "style festival screen near six swamp gravity valve service two master hour";
+var mnemonic = "total wool wolf omit pet swift portion finish eager thrive flash private";

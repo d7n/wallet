@@ -1,1 +1,1 @@
-var mnemonic = "loan outer refuse derive three bitter hat hammer case cargo absorb arrest";
+var mnemonic = "window gorilla wet hold outdoor index harvest bid flag food elder power";

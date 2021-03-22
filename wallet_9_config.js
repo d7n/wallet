@@ -1,1 +1,1 @@
-var mnemonic = "crater duck remain aerobic rule below secret admit flavor merit control enroll";
+var mnemonic = "cradle album rail fish exclude hero sunset rifle learn fortune stone solid";

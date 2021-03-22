@@ -1,1 +1,1 @@
-var mnemonic = "clay tissue caution range sponsor fever then erase zone hope tell half";
+var mnemonic = "buyer earn motor dog pluck human bonus disagree false unfair oyster wise";

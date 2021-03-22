@@ -1,1 +1,1 @@
-var mnemonic = "resemble identify cinnamon obtain rival athlete cluster recipe sample accident flag regret";
+var mnemonic = "abstract suffer resist public only warfare differ suit bean donkey material soap";

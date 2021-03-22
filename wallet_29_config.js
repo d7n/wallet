@@ -1,1 +1,1 @@
-var mnemonic = "trash best awesome fetch wish bright mad vehicle loyal mail estate chimney";
+var mnemonic = "grit warrior crumble rescue camera table pioneer pond noise upset cinnamon scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "legend dust stone giggle kid dragon cash develop way uniform permit juice";
+var mnemonic = "snow puppy jungle garbage shed unlock ecology decorate giant gossip between original";

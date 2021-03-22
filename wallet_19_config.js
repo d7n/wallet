@@ -1,1 +1,1 @@
-var mnemonic = "interest butter cotton proud bomb order embrace forward tuition labor miss motion";
+var mnemonic = "target night defense hundred film arena carbon outdoor require put critic reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid ready mercy toe empower addict put ripple vital hen morning meadow";
+var mnemonic = "domain post royal absorb doctor pigeon cry pact real more cool nephew";

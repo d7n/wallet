@@ -1,1 +1,1 @@
-var mnemonic = "birth prevent benefit hero quarter dignity vague sibling orphan stand give level";
+var mnemonic = "snake expire near swap lecture casual pig ritual immune priority bag above";

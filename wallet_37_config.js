@@ -1,1 +1,1 @@
-var mnemonic = "address company modify receive craft senior horn scene embark december screen budget";
+var mnemonic = "electric elite depth dolphin gift mimic edit unusual method novel hurry draw";

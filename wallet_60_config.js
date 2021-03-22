@@ -1,1 +1,1 @@
-var mnemonic = "dwarf label derive alcohol sound leaf rebuild bacon collect arrow canyon erosion";
+var mnemonic = "lobster flush border prize drink afford extend dragon green salute burger arch";

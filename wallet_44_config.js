@@ -1,1 +1,1 @@
-var mnemonic = "dune wolf peace panda medal ring layer wash life ethics flower pudding";
+var mnemonic = "interest fly gate pilot unable acoustic inmate purity behave diamond spy stem";
