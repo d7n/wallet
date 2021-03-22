@@ -1,1 +1,1 @@
-var mnemonic = "skirt rookie shove august mass kiwi scan onion thumb click cupboard hold";
+var mnemonic = "able soda leaf fault silver detect hobby grape kind science pencil electric";

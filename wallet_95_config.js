@@ -1,1 +1,1 @@
-var mnemonic = "pipe inside olympic garlic sorry blade stomach purse bargain hedgehog kitten bus";
+var mnemonic = "during shallow oppose firm walk diesel smart state chicken girl blade empty";

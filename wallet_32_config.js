@@ -1,1 +1,1 @@
-var mnemonic = "focus rice culture act climb receive all second honey rifle fancy replace";
+var mnemonic = "inquiry obscure industry mind half inmate ordinary average elevator zone will yard";

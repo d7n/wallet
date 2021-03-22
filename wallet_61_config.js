@@ -1,1 +1,1 @@
-var mnemonic = "cabin whale dutch captain maid twin shoe outdoor canal point orbit material";
+var mnemonic = "sausage later when truck opera mail video razor input vault rescue elegant";

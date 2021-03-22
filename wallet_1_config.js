@@ -1,1 +1,1 @@
-var mnemonic = "labor drama tortoise engage minute snow inject whale spend wash amused describe";
+var mnemonic = "dust mass comic excite clutch wink weather panel business oppose bounce melt";

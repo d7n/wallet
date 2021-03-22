@@ -1,1 +1,1 @@
-var mnemonic = "wagon medal puppy famous spell tennis frame pen bracket response roof clown";
+var mnemonic = "evidence position dentist farm quick secret quantum artist canal clown student figure";

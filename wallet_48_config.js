@@ -1,1 +1,1 @@
-var mnemonic = "believe view palace artist toilet unable debris artist amateur mountain rural cradle";
+var mnemonic = "inmate sting divorce volcano lunar they mix once time execute satoshi cover";

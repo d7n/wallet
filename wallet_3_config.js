@@ -1,1 +1,1 @@
-var mnemonic = "mother salad sport story admit toss detect off fever beyond link turn";
+var mnemonic = "kick impact occur prepare remain leader inspire fence eagle mechanic swamp clerk";

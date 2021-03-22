@@ -1,1 +1,1 @@
-var mnemonic = "equal chaos light body monkey layer suggest myth venue hair sorry knock";
+var mnemonic = "ticket milk sure health patrol output army destroy fit fringe select leg";

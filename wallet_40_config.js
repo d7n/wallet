@@ -1,1 +1,1 @@
-var mnemonic = "banner raccoon key tuna render naive river opera this field weasel diagram";
+var mnemonic = "liquid phrase track audit beyond toss camp object brisk direct swap entry";

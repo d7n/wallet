@@ -1,1 +1,1 @@
-var mnemonic = "guard verb awkward canvas burst grass deposit opinion accuse hub spatial antenna";
+var mnemonic = "orient until bid laptop sting thing skin digital mother exercise isolate file";

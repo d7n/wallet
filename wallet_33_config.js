@@ -1,1 +1,1 @@
-var mnemonic = "month someone clinic opinion boring album trick trade olympic sting sort slight";
+var mnemonic = "famous phone west try hybrid rally mirror spray adjust artefact civil goose";

@@ -1,1 +1,1 @@
-var mnemonic = "film sibling adjust law wasp stomach orient net begin tornado latin craft";
+var mnemonic = "tag fresh project water shoot dismiss pencil inquiry leisure ghost cake inquiry";

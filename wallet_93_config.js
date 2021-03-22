@@ -1,1 +1,1 @@
-var mnemonic = "life rice romance globe panic edit fold own unfold unaware cereal box";
+var mnemonic = "cup crumble mobile cup sauce chicken wedding flat gesture misery erupt myth";

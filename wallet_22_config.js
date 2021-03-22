@@ -1,1 +1,1 @@
-var mnemonic = "later uncover end this oak balance erosion stand absorb company design bird";
+var mnemonic = "sport fire sign gospel coconut palace rotate actor basket abuse swing decorate";

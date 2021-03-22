@@ -1,1 +1,1 @@
-var mnemonic = "this brief taste lady olympic find right same wink loud mass second";
+var mnemonic = "jealous jealous saddle liquid morning embark welcome cover warm puzzle mimic invest";

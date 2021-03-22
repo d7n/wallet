@@ -1,1 +1,1 @@
-var mnemonic = "absurd robust weekend misery cross bacon object put sunny radio program sweet";
+var mnemonic = "knee invest network office toddler ghost version allow print toy rubber segment";

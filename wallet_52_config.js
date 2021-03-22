@@ -1,1 +1,1 @@
-var mnemonic = "gain win sun three sing field session venue define brave tooth cupboard";
+var mnemonic = "age merry dynamic vague broccoli sibling away ranch thrive unhappy swear pilot";

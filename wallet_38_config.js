@@ -1,1 +1,1 @@
-var mnemonic = "team analyst safe wage mail cigar glimpse card name toilet paper drift";
+var mnemonic = "nose round nice exhaust tonight warrior friend neutral news miss ribbon route";

@@ -1,1 +1,1 @@
-var mnemonic = "meat leopard wonder extra identify raw liberty hurt gossip hybrid danger priority";
+var mnemonic = "glory damp mouse assault plug eternal utility visual ordinary group success barely";

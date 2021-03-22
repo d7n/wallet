@@ -1,1 +1,1 @@
-var mnemonic = "demise screen roof lesson text drop destroy assault female whale century bachelor";
+var mnemonic = "panda exclude town plunge settle risk matter shoulder broccoli vapor baby orphan";

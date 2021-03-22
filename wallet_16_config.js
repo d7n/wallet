@@ -1,1 +1,1 @@
-var mnemonic = "injury kidney slogan bench blame attract elephant grocery proud start damp endless";
+var mnemonic = "length buzz green slide sustain squeeze critic inner want remind praise gorilla";

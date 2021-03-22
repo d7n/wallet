@@ -1,1 +1,1 @@
-var mnemonic = "state wedding rent corn civil clutch basket maid water solve tired convince";
+var mnemonic = "soap bird bounce domain wool color ensure join liquid young panic economy";

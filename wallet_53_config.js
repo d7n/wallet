@@ -1,1 +1,1 @@
-var mnemonic = "impact hurt trouble stamp detect unable model oval swift digital outer thumb";
+var mnemonic = "dragon zone dash attack lyrics lumber mix soft ethics wage exercise crowd";

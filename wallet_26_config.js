@@ -1,1 +1,1 @@
-var mnemonic = "spy process business bright blur judge saddle fly enough upgrade popular increase";
+var mnemonic = "property floor increase camera hurt mimic enter agree office clog peasant eternal";

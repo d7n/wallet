@@ -1,1 +1,1 @@
-var mnemonic = "age render champion piano cat planet festival near glow kind member toddler";
+var mnemonic = "ecology spring win renew sorry honey melody used hockey seek green north";

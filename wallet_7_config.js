@@ -1,1 +1,1 @@
-var mnemonic = "gadget swap bullet skate robot miracle useless atom cave maple distance frozen";
+var mnemonic = "entry damp rebel dragon disease belt weather soul cluster entry also credit";

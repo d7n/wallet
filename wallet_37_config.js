@@ -1,1 +1,1 @@
-var mnemonic = "swarm enact ramp method beef october bubble dentist veteran toe glow grief";
+var mnemonic = "acid curve gown unfold hip payment mule roof sudden bubble female rival";

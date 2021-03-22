@@ -1,1 +1,1 @@
-var mnemonic = "anxiety portion latin push deputy gun hunt fashion crunch spin genius squeeze";
+var mnemonic = "denial peasant ugly jewel shift journey sound regret enact group long side";

@@ -1,1 +1,1 @@
-var mnemonic = "state stairs toilet income clinic profit enlist squeeze sunny develop garden tragic";
+var mnemonic = "relax myth risk garlic fresh deny marine camp praise scene bomb leg";

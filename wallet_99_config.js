@@ -1,1 +1,1 @@
-var mnemonic = "walk swing survey siege payment service amazing chronic intact ritual creek sail";
+var mnemonic = "more grid snow donate follow inside ocean reunion property sentence toy tomato";

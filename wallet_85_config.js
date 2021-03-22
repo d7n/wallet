@@ -1,1 +1,1 @@
-var mnemonic = "submit fiscal crystal decrease current boring wrong main daring nut real valve";
+var mnemonic = "visit sense cloud clarify close steel child weasel onion order crowd plate";

@@ -1,1 +1,1 @@
-var mnemonic = "venture mean visual broccoli lunch then wear match memory under tennis critic";
+var mnemonic = "peasant social surface nerve maze auction yard elder network antenna furnace hold";

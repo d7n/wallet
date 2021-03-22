@@ -1,1 +1,1 @@
-var mnemonic = "fitness carbon rabbit just gain indicate exotic blood hour inherit sense mammal";
+var mnemonic = "pelican bus shiver tooth essence subway jewel enemy echo uncle cave ski";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha obscure excess acid boy increase horse sing lounge razor elbow nut";
+var mnemonic = "age gym page marriage obvious arrive dust occur educate favorite rural tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak album athlete survey tank impact comic person anger fatal frost law";
+var mnemonic = "fortune few ocean produce relief lock evolve dog involve real winter whale";

@@ -1,1 +1,1 @@
-var mnemonic = "basic arctic monkey concert seed cook seminar swear vehicle dentist enough vote";
+var mnemonic = "actress also camp bomb brother rose adult climb chuckle detect quote change";

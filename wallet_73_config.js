@@ -1,1 +1,1 @@
-var mnemonic = "mix quality success pledge negative man segment worry champion nice slush maze";
+var mnemonic = "lizard more purity host grit bicycle december party brief hotel cargo rookie";

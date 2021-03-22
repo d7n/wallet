@@ -1,1 +1,1 @@
-var mnemonic = "chronic coffee ship upset make jar settle polar expose melody program blur";
+var mnemonic = "once hire ozone vibrant mystery chat doll sort decide clarify trumpet illness";

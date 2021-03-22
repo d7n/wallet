@@ -1,1 +1,1 @@
-var mnemonic = "awake worry employ powder cream escape car domain until degree pull dismiss";
+var mnemonic = "parent job imitate coconut early dial mule receive ball regret pave cycle";

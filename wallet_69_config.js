@@ -1,1 +1,1 @@
-var mnemonic = "measure assume route jeans trial cool fresh soon gallery call cost uniform";
+var mnemonic = "vague lyrics brass wage prefer cup artwork summer manage add tortoise away";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp fresh toe raccoon smart genre neither rotate blame recall danger involve";
+var mnemonic = "deliver shoe jeans absorb office picnic course process shoot year silver link";

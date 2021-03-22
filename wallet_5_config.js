@@ -1,1 +1,1 @@
-var mnemonic = "hurry season thought virtual mesh illegal web stage soap mesh crack give";
+var mnemonic = "neutral display rose vicious naive state inside false injury soon loud creek";

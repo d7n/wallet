@@ -1,1 +1,1 @@
-var mnemonic = "drill reveal inflict call spring slice fabric critic sleep ticket mix runway";
+var mnemonic = "friend lunar car muffin hazard forward since struggle eagle lift team office";

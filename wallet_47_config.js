@@ -1,1 +1,1 @@
-var mnemonic = "grid client dentist gorilla sick cruise equip decline card evolve primary silly";
+var mnemonic = "distance earth enjoy kangaroo stem outdoor require monster silver craft security text";

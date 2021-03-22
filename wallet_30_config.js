@@ -1,1 +1,1 @@
-var mnemonic = "reunion pitch crazy orchard much hungry stage novel ankle memory disagree season";
+var mnemonic = "canyon half subway market post alley hill disorder lonely two novel talk";

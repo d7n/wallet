@@ -1,1 +1,1 @@
-var mnemonic = "wheat eagle course must shadow under unfold travel twelve media energy grunt";
+var mnemonic = "inform flush sock next toward hungry identify legend review toward jungle diary";

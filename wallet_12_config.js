@@ -1,1 +1,1 @@
-var mnemonic = "fragile forward scene shoot unaware shock machine couple enroll scare scrub column";
+var mnemonic = "lazy surge high shy pave gaze zone witness quiz usual tool pupil";

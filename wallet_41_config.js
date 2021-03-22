@@ -1,1 +1,1 @@
-var mnemonic = "fine sniff dignity sibling lonely trap pass poet trim old wrist swear";
+var mnemonic = "observe gain portion lobster skate genius extend kiss unit faith veteran gate";

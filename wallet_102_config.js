@@ -1,1 +1,1 @@
-var mnemonic = "note collect also beach yellow parade awesome february monster rebuild version correct";
+var mnemonic = "kidney bamboo immune marble patch deliver connect vessel adapt drive piece quote";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna jar arm found agent rhythm acquire heart maid upgrade butter parrot";
+var mnemonic = "sister grocery exchange head trip pencil bounce budget spider already tumble merit";

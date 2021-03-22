@@ -1,1 +1,1 @@
-var mnemonic = "hamster century speak love asthma wild screen include ostrich chunk pond purity";
+var mnemonic = "ethics grid nominee kiwi convince refuse letter diamond harsh close tortoise rubber";

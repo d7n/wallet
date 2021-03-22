@@ -1,1 +1,1 @@
-var mnemonic = "color sing impulse valley crunch enlist belt curious plate when person receive";
+var mnemonic = "toss almost title lady then cargo satisfy vast spider mango recipe vocal";

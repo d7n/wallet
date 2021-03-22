@@ -1,1 +1,1 @@
-var mnemonic = "wonder soldier faculty imitate immune solid conduct merge first write thought nose";
+var mnemonic = "remember ability skate cruel menu wild armed bubble tide lonely correct update";

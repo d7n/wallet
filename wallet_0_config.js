@@ -1,1 +1,1 @@
-var mnemonic = "lunar rookie clay bring match pumpkin ketchup trust gun much basic fringe";
+var mnemonic = "similar tired pyramid deer grocery useful verify truly tragic wage friend rail";

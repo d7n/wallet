@@ -1,1 +1,1 @@
-var mnemonic = "flavor egg blood quote retire main enter leader shoot farm senior viable";
+var mnemonic = "drastic concert tackle lazy carbon frog host thumb embark install wife gloom";

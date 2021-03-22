@@ -1,1 +1,1 @@
-var mnemonic = "frequent cost social novel web unable system multiply grunt actual modify learn";
+var mnemonic = "lawsuit since page media bronze appear length common lemon result option master";

@@ -1,1 +1,1 @@
-var mnemonic = "boring stool earth try scan honey capable enter divide question jump protect";
+var mnemonic = "consider project expand fatigue fruit agent craft erosion stadium can legal burden";

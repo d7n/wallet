@@ -1,1 +1,1 @@
-var mnemonic = "daring guilt response position goat beauty exhibit hammer holiday salt ten clown";
+var mnemonic = "type museum federal naive riot matter welcome blood figure know join bomb";

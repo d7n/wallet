@@ -1,1 +1,1 @@
-var mnemonic = "trade subway citizen refuse seven giant plastic obscure sniff tip village loyal";
+var mnemonic = "wine evolve hen retreat expand citizen drill reject name object coin shuffle";

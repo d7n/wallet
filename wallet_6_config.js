@@ -1,1 +1,1 @@
-var mnemonic = "clean thank latin mom pill dish twist tide guilt never human cram";
+var mnemonic = "pipe top upon shuffle muscle favorite mind master inner expose aware best";

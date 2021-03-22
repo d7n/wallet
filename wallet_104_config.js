@@ -1,1 +1,1 @@
-var mnemonic = "speed shove supreme pudding trim safe slogan jar screen awesome sudden guilt";
+var mnemonic = "sing tube luxury merge movie aware math rebuild stamp spider wreck shop";

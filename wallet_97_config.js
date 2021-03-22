@@ -1,1 +1,1 @@
-var mnemonic = "doctor brisk trim bread cute differ alert print mask govern mobile target";
+var mnemonic = "breeze please fossil rabbit badge spoil token item subject derive immense curious";

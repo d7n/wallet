@@ -1,1 +1,1 @@
-var mnemonic = "cruise grape return fetch doll inside laugh eyebrow awful cushion link stamp";
+var mnemonic = "utility blur when dash glove blur danger gain maximum pony seminar age";

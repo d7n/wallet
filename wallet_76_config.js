@@ -1,1 +1,1 @@
-var mnemonic = "afford vendor oven enrich later immense scrub plug upon enemy smooth buyer";
+var mnemonic = "peace dice one visa damage curious rival donkey clutch dolphin portion unhappy";

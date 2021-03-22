@@ -1,1 +1,1 @@
-var mnemonic = "winner fit spatial conduct arrow female grain diary night wheel balcony snake";
+var mnemonic = "lady tunnel convince lecture wreck mixture arm scout hospital youth wool spring";

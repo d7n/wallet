@@ -1,1 +1,1 @@
-var mnemonic = "first brick early destroy high loop humor volcano angle snap loyal artwork";
+var mnemonic = "stuff poverty tent jeans round proud gym device midnight number snake execute";

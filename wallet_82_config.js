@@ -1,1 +1,1 @@
-var mnemonic = "unknown armed tonight math hire craft path scout turtle plate bird spoil";
+var mnemonic = "robust direct setup brisk salute toss pride slow walk track atom salt";

@@ -1,1 +1,1 @@
-var mnemonic = "unique wagon stereo erase roof awkward little normal enough moment struggle umbrella";
+var mnemonic = "asset divide alone airport syrup horror grain creek face slow nice mom";

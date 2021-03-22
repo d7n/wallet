@@ -1,1 +1,1 @@
-var mnemonic = "luggage camera move post sausage coach high supreme screen remember faculty insect";
+var mnemonic = "strong crop bounce claim tennis film toilet chair unfold hungry column nation";

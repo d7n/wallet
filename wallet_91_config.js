@@ -1,1 +1,1 @@
-var mnemonic = "crash route bread novel wrist doctor easy snow park wolf member collect";
+var mnemonic = "any slice wide cup task blue glance brush differ arch type swift";

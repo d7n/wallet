@@ -1,1 +1,1 @@
-var mnemonic = "winter pilot someone differ betray amazing acid river okay worth hamster ice";
+var mnemonic = "anxiety melt skull shove mix oxygen arrest bird arrive mushroom battle label";

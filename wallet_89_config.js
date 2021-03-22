@@ -1,1 +1,1 @@
-var mnemonic = "best excess voice stick offer hip piece chalk figure alone element glue";
+var mnemonic = "fat explain witness riot aware shell shallow dwarf appear auction awful obey";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi sail veteran around vapor pond mutual milk before angry evil inmate";
+var mnemonic = "this educate trophy blame empower fever measure pelican fever adult bargain cloth";

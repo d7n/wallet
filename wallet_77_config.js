@@ -1,1 +1,1 @@
-var mnemonic = "sphere giant detect slot eye hover young marine pass fruit kingdom picture";
+var mnemonic = "scan orange bird erase force online struggle quote flash tone scan will";

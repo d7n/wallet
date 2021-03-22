@@ -1,1 +1,1 @@
-var mnemonic = "hint start slim document nation ride mother miracle depend category phone retire";
+var mnemonic = "traffic eagle pepper feed north combine bronze taxi best defense cannon gadget";

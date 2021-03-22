@@ -1,1 +1,1 @@
-var mnemonic = "grit noble dutch loop wealth lesson share liquid public truly hungry crop";
+var mnemonic = "youth fit park genre spirit elegant blame zoo resemble initial tape boring";

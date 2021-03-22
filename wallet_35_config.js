@@ -1,1 +1,1 @@
-var mnemonic = "nominee genuine dignity extra bench issue estate abuse stool girl detect frequent";
+var mnemonic = "bronze uphold insane scatter layer future soul tooth that ahead goddess alert";

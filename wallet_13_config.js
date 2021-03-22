@@ -1,1 +1,1 @@
-var mnemonic = "crime summer motor noble obey accident sting drop lizard message tone sense";
+var mnemonic = "copy figure marble light ensure drive bus share spray output olive universe";

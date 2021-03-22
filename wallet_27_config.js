@@ -1,1 +1,1 @@
-var mnemonic = "cancel museum sail danger awful scene more drill scare thank quit pride";
+var mnemonic = "jungle reform nice dish river cradle off issue sing uniform sail legal";

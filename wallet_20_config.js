@@ -1,1 +1,1 @@
-var mnemonic = "prosper provide asset tunnel silly empower curious logic happy lamp art runway";
+var mnemonic = "motion guilt vault toe chest rib correct battle cost display purpose chief";

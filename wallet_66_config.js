@@ -1,1 +1,1 @@
-var mnemonic = "brick flower purpose huge crunch enough castle banner venue bracket forest fury";
+var mnemonic = "fall grace foster noble hour movie protect measure indicate process beyond body";

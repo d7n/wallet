@@ -1,1 +1,1 @@
-var mnemonic = "gadget choose stock myself delay creek hour tent flee asset dutch street";
+var mnemonic = "receive foot recall arrive army program ahead ancient guard current flower digital";

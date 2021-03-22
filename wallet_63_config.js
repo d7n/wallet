@@ -1,1 +1,1 @@
-var mnemonic = "ensure moral sample antique inject deputy lunar pluck benefit level mountain audit";
+var mnemonic = "melody wrestle aim web blue engine episode roast absent pull number insane";

@@ -1,1 +1,1 @@
-var mnemonic = "chase collect vintage fluid route priority draw gate power kangaroo audit token";
+var mnemonic = "kingdom hollow snow monkey cereal dinosaur pupil acquire undo motion now lunch";

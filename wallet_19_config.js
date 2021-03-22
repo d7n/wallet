@@ -1,1 +1,1 @@
-var mnemonic = "danger country shield illness monitor sausage daughter stool copy approve siege clock";
+var mnemonic = "awake now foam layer churn mimic rent feature scheme simple sugar chunk";

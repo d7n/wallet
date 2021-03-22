@@ -1,1 +1,1 @@
-var mnemonic = "public blue ketchup trim strike churn walk orphan tool hurt twenty thank";
+var mnemonic = "iron express property genius high fog arm clever trumpet wrap animal escape";

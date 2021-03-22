@@ -1,1 +1,1 @@
-var mnemonic = "series prison verb report update december uphold lyrics crucial lunch soon glove";
+var mnemonic = "true uphold ball jeans melody beyond organ inquiry glare assault frown panda";

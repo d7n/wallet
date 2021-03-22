@@ -1,1 +1,1 @@
-var mnemonic = "fly twenty fix atom cancel tragic invest good subject man stick actress";
+var mnemonic = "lumber vehicle act glare chaos inmate remember room steak charge length monster";

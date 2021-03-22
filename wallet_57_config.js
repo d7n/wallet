@@ -1,1 +1,1 @@
-var mnemonic = "sponsor inform gaze sure mask arena mango hover quit blue birth pink";
+var mnemonic = "sign soda stamp immune pledge climb feature wasp section viable mail party";
