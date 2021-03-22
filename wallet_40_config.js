@@ -1,1 +1,1 @@
-var mnemonic = "amateur matrix real grant drop super mix barely judge bike brother search";
+var mnemonic = "pumpkin rare fade always vessel turkey copper avocado collect inside height entry";

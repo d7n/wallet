@@ -1,1 +1,1 @@
-var mnemonic = "lunar main agree word right waste section keen vanish crawl sphere school";
+var mnemonic = "enough carbon celery tonight unhappy digital frame soap jealous thrive jacket unfold";

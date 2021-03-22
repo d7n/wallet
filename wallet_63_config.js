@@ -1,1 +1,1 @@
-var mnemonic = "turn exist spare when area panda ready grape field electric win forward";
+var mnemonic = "castle rain dinosaur retreat pizza kite long display minor guess such banana";

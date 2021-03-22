@@ -1,1 +1,1 @@
-var mnemonic = "uncover zero thunder arctic vote federal spell spend liquid hungry demise real";
+var mnemonic = "chicken chicken goat world hover express upper barrel satisfy trade crush happy";

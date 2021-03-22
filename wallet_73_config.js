@@ -1,1 +1,1 @@
-var mnemonic = "surround drum satisfy buddy lucky arrest endless glance mind clean skull sponsor";
+var mnemonic = "antenna either worth borrow select valve party measure shove lecture brush rent";

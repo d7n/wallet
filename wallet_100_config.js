@@ -1,1 +1,1 @@
-var mnemonic = "sick waste pupil jelly laugh news cherry oak van dash hero daughter";
+var mnemonic = "over twice glow gold orbit happy orient trash remain crunch undo tuna";

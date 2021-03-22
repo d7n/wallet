@@ -1,1 +1,1 @@
-var mnemonic = "bread athlete shoe critic bacon soft miss educate patrol palm reveal equip";
+var mnemonic = "abandon obey pretty improve town run width pear tape vendor crisp learn";

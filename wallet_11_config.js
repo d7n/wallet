@@ -1,1 +1,1 @@
-var mnemonic = "corn gossip female buffalo oven people diagram kick mouse absurd lottery omit";
+var mnemonic = "banner punch margin switch dentist govern number upon raw change design stove";

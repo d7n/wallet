@@ -1,1 +1,1 @@
-var mnemonic = "real dance cover fortune science assume mutual only diary lift illegal thunder";
+var mnemonic = "occur file undo brush opera grow bicycle rival legend pencil napkin animal";

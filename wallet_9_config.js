@@ -1,1 +1,1 @@
-var mnemonic = "train bicycle gasp enact opera bid diet mind swarm cycle cancel insect";
+var mnemonic = "soldier eight about scorpion measure rally script wedding lyrics moon attend tomato";

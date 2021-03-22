@@ -1,1 +1,1 @@
-var mnemonic = "slogan avoid burst shrug saddle mosquito fiscal pause skill release taxi still";
+var mnemonic = "illness vivid garbage pool course you dawn office humor mixture dignity emotion";

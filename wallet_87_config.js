@@ -1,1 +1,1 @@
-var mnemonic = "ship misery domain empower fossil neglect ankle nothing absorb will smile brisk";
+var mnemonic = "cricket budget awesome remain coffee amount nation stock assist excuse ill approve";

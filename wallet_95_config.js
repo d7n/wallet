@@ -1,1 +1,1 @@
-var mnemonic = "elevator kick focus agent accident excess journey asset wheat ocean ball sniff";
+var mnemonic = "fly pupil barely need time old budget region now view quarter job";

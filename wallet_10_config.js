@@ -1,1 +1,1 @@
-var mnemonic = "exit dial dismiss diagram carpet jungle boat under antenna found panther unfair";
+var mnemonic = "punch apology scout loyal shove zone express autumn box chief blossom toddler";

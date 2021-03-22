@@ -1,1 +1,1 @@
-var mnemonic = "okay keen shine belt gaze myth dolphin reform park lounge lesson ski";
+var mnemonic = "large connect symbol misery acoustic bomb topple rotate brain robot pause symbol";

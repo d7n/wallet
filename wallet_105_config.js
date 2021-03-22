@@ -1,1 +1,1 @@
-var mnemonic = "lock offer hawk eagle about initial amazing kid vendor pilot uniform medal";
+var mnemonic = "bitter shy toy snake sure base old cake grow cousin lonely year";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest unfold cotton brush dad canoe bridge assist saddle version luggage educate";
+var mnemonic = "soon resist horse enough edit river end shallow okay guitar era kick";

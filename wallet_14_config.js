@@ -1,1 +1,1 @@
-var mnemonic = "supreme combine example taste work daring sail there salmon grocery patient crumble";
+var mnemonic = "story van hire crime dilemma trust fox mail want rebel urban domain";

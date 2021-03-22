@@ -1,1 +1,1 @@
-var mnemonic = "ethics provide income cattle wish swear replace drift weekend useless suspect uniform";
+var mnemonic = "lecture kingdom suit card deer short casual ball police maid yard noise";

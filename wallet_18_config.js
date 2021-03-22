@@ -1,1 +1,1 @@
-var mnemonic = "forget clog holiday ask scheme carbon antenna drama outer impact unfold avoid";
+var mnemonic = "perfect safe minute early easy general cancel call horse brand explain below";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk pass eternal idea shrug chalk turkey scan run network ski spell";
+var mnemonic = "spin end fiscal margin wage nuclear choice endorse congress change position lizard";

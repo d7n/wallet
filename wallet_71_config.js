@@ -1,1 +1,1 @@
-var mnemonic = "abuse wait quit affair brand path slogan bind false display steel expire";
+var mnemonic = "burden clown polar cargo differ fold hurry seed gas boil crazy envelope";

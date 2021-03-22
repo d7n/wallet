@@ -1,1 +1,1 @@
-var mnemonic = "estate infant pigeon allow rely banner myself detect basic apart drum deliver";
+var mnemonic = "develop dismiss stadium cannon business ice mistake type news bonus alone ability";

@@ -1,1 +1,1 @@
-var mnemonic = "pet erupt bulk blue expect inflict spy illegal party tent six large";
+var mnemonic = "stay flush deputy sock point fish peasant acoustic nest eager select wave";

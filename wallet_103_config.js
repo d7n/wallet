@@ -1,1 +1,1 @@
-var mnemonic = "flavor sort absurd monitor finish roast omit antenna fantasy minimum pupil frown";
+var mnemonic = "push mother soul kidney trick sand gym weird flee ocean live winner";

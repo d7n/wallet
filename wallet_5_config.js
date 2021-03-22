@@ -1,1 +1,1 @@
-var mnemonic = "dog prosper powder day flee royal salad aerobic crawl giant laundry lounge";
+var mnemonic = "fortune iron push remain place bright split play noodle guard runway taxi";

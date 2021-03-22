@@ -1,1 +1,1 @@
-var mnemonic = "fat hybrid swarm turkey ladder nice mad cabin also trust combine dish";
+var mnemonic = "tourist banner marriage misery broken found sustain shield nothing typical swing pumpkin";

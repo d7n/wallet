@@ -1,1 +1,1 @@
-var mnemonic = "net general gorilla forest velvet guilt tone plunge plate fiscal charge nothing";
+var mnemonic = "hospital okay inside october scan behave demise fiscal ginger region trip chicken";

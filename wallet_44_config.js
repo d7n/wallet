@@ -1,1 +1,1 @@
-var mnemonic = "unit kangaroo erosion snap deer mango uncover erosion adjust spatial frost squirrel";
+var mnemonic = "cup egg limb crowd shell document rotate ranch design entry umbrella fragile";

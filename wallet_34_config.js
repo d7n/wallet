@@ -1,1 +1,1 @@
-var mnemonic = "nest taste miss bunker present slight enemy buzz tube cabin blade return";
+var mnemonic = "proud reform ill light include leg exact fox much street pull corn";

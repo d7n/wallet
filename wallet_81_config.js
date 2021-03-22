@@ -1,1 +1,1 @@
-var mnemonic = "arch culture among firm eager escape stay ability erode artist chief garbage";
+var mnemonic = "space stone trumpet flight curtain polar swallow salt mix layer gentle skate";

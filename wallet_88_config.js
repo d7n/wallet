@@ -1,1 +1,1 @@
-var mnemonic = "kitchen margin seat order peanut poverty error nose waste lottery traffic hamster";
+var mnemonic = "false snap kiss silly despair impact donkey oval trend duty lounge female";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate field ketchup zone tray water key wire panel lock corn mercy";
+var mnemonic = "era faculty blur symptom pole era sister replace real despair forum gather";

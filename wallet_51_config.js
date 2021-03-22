@@ -1,1 +1,1 @@
-var mnemonic = "snack inflict decline history pond plate tobacco custom hello grain zebra laundry";
+var mnemonic = "modify hole immune pizza usual milk gasp volume access people mechanic immense";

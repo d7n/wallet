@@ -1,1 +1,1 @@
-var mnemonic = "shoulder general absent amateur bargain gorilla city calm grow paper path tent";
+var mnemonic = "imitate hole humor mandate soft promote salt width record toddler when spoon";

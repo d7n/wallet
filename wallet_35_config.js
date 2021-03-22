@@ -1,1 +1,1 @@
-var mnemonic = "virus anxiety potato wash police track wink weasel draft find have click";
+var mnemonic = "mesh burst inch ankle best embody wink fox symptom blue kitchen farm";

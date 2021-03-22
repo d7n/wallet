@@ -1,1 +1,1 @@
-var mnemonic = "chuckle hammer country program sheriff assume orphan forest news business describe west";
+var mnemonic = "ginger garlic inherit egg insect toy salon you pole check leaf embody";

@@ -1,1 +1,1 @@
-var mnemonic = "grit ahead whisper old hurdle twenty hunt public hub cattle brother width";
+var mnemonic = "chat minor link march assist hurdle hair drink allow tank require cheese";

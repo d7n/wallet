@@ -1,1 +1,1 @@
-var mnemonic = "delay curve twelve parent reduce label behave outdoor soap tent rural flash";
+var mnemonic = "top reform rug stay hawk mix pull endless bring purity yellow kind";

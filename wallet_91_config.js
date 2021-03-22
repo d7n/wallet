@@ -1,1 +1,1 @@
-var mnemonic = "visual shuffle hair police because assume unfair addict ill gate unit couple";
+var mnemonic = "loop hold apple adult virtual brown ride grant concert alley salad kitten";

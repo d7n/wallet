@@ -1,1 +1,1 @@
-var mnemonic = "giraffe scene nephew squeeze cheese present hair option special tired machine sister";
+var mnemonic = "match have youth option dismiss submit zoo scare maze talk tongue sound";

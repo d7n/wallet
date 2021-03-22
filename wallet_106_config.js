@@ -1,1 +1,1 @@
-var mnemonic = "spin blush income dilemma danger rail actor clay sand rocket seek one";
+var mnemonic = "vintage exercise tomorrow admit skill chunk indicate basic eager finger episode shield";

@@ -1,1 +1,1 @@
-var mnemonic = "family swallow path plug any ensure meat menu decorate slogan victory rule";
+var mnemonic = "wrong harsh indicate sock liar swallow cheap observe rather mouse eye defense";

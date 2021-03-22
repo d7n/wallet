@@ -1,1 +1,1 @@
-var mnemonic = "ordinary season conduct forum basic tornado decide frequent various find odor enable";
+var mnemonic = "skull exercise win refuse face comic caution sunset ocean picnic banana excite";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich bomb gift rely fine tissue harbor payment van decide solve crouch";
+var mnemonic = "power sea bitter blame profit wear tongue legal call sting olympic grant";

@@ -1,1 +1,1 @@
-var mnemonic = "define film brother found father diamond melody three give hollow fantasy job";
+var mnemonic = "move nominee budget flight alone cushion grain fortune fame omit aerobic exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "humble prevent grant bleak purse judge bean foot entry below physical hour";
+var mnemonic = "mean expose bamboo huge hurdle hospital soon mass history become across laugh";

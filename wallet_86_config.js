@@ -1,1 +1,1 @@
-var mnemonic = "notable float subway script bird mass deer train avoid grape day wealth";
+var mnemonic = "person okay time sick cherry distance cereal suggest defy wrist unusual trip";

@@ -1,1 +1,1 @@
-var mnemonic = "device sibling smart sponsor stay lazy retreat page act decrease belt catch";
+var mnemonic = "spike uncle thought switch impact million lyrics retreat maid earth elbow loop";

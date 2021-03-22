@@ -1,1 +1,1 @@
-var mnemonic = "snow express lawn cream whale venture melody ceiling volcano absurd tooth brand";
+var mnemonic = "scatter stereo model fiscal frame engine spread gold giggle stove gentle sing";

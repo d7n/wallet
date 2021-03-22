@@ -1,1 +1,1 @@
-var mnemonic = "cluster case misery trigger tell soccer imitate mixed list example tube leave";
+var mnemonic = "source glimpse kitchen song bean appear charge embody snake barrel roast lobster";

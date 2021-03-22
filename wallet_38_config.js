@@ -1,1 +1,1 @@
-var mnemonic = "acoustic sword sound episode target ritual settle october lunar pulse average chapter";
+var mnemonic = "car outdoor beauty uncle rocket federal extend prevent bread shoe flash mix";

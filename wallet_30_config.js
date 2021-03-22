@@ -1,1 +1,1 @@
-var mnemonic = "vote install sing quick fortune embody drama what recycle juice brick wealth";
+var mnemonic = "dutch small position daring author area coffee decorate crew lab height alcohol";

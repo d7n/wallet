@@ -1,1 +1,1 @@
-var mnemonic = "drink desk taste loop clerk elevator flush raccoon right cement vacant north";
+var mnemonic = "pretty add soul rhythm nasty call junior mystery panel canoe mesh start";

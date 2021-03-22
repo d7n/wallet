@@ -1,1 +1,1 @@
-var mnemonic = "auction pumpkin nature season demise smoke puzzle poverty elder hammer actress when";
+var mnemonic = "gather slice swift muscle orchard hint wage shop blouse obvious develop stereo";

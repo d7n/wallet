@@ -1,1 +1,1 @@
-var mnemonic = "crystal fatal sphere rug grain key dutch ordinary dove slice urban gasp";
+var mnemonic = "width canal family party enforce skate inject exercise talent perfect lab news";

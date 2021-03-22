@@ -1,1 +1,1 @@
-var mnemonic = "wash link wine ten lazy aisle hello jaguar toe release tomorrow evidence";
+var mnemonic = "lamp worry zone smooth model try cup mechanic salute pen way document";

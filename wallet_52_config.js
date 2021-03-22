@@ -1,1 +1,1 @@
-var mnemonic = "oblige phrase gap action melt charge treat exact witness together flame wool";
+var mnemonic = "gather sport any vessel account report flag receive edge useful various time";

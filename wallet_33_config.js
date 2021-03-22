@@ -1,1 +1,1 @@
-var mnemonic = "advice vague eternal sight law episode moral give first setup boil side";
+var mnemonic = "animal shield screen loan wonder sibling lemon space used unlock system pretty";

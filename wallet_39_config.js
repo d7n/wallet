@@ -1,1 +1,1 @@
-var mnemonic = "often canvas dawn elegant wall purity banana apart mention pudding moral still";
+var mnemonic = "into brain vehicle position caught mosquito absent token mandate bus chase dirt";

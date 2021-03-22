@@ -1,1 +1,1 @@
-var mnemonic = "trash chief wolf water defy lend regular punch tell vehicle border venue";
+var mnemonic = "actual coconut type above library high chimney meadow coast wealth trust field";

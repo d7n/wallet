@@ -1,1 +1,1 @@
-var mnemonic = "ice cable soon carbon pill hybrid couch balcony pass learn tackle cost";
+var mnemonic = "gravity alarm amazing you common female avoid excite must country gadget nature";

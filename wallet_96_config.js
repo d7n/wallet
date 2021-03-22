@@ -1,1 +1,1 @@
-var mnemonic = "crop alley youth text air aisle actual puppy gospel cute random license";
+var mnemonic = "replace possible floor sad buddy swim pride smart hunt match fossil bind";

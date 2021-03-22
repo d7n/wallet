@@ -1,1 +1,1 @@
-var mnemonic = "exclude then road physical size brick outer faint skill bacon fringe orchard";
+var mnemonic = "moment very fish icon school round core museum ice genuine wisdom warrior";

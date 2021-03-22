@@ -1,1 +1,1 @@
-var mnemonic = "frame robust knee lecture yellow axis path hobby photo input scout skate";
+var mnemonic = "sing raise answer rule book velvet normal busy denial school feature capital";

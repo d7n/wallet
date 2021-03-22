@@ -1,1 +1,1 @@
-var mnemonic = "seminar all afraid pyramid tortoise girl black above fragile flower advance anger";
+var mnemonic = "proud section seek slush desert produce check ladder apple scout have inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos angle relief tennis swing page ladder earth base dish wage force";
+var mnemonic = "spice bomb force quantum oval account clever sea hood cigar fabric someone";

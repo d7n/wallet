@@ -1,1 +1,1 @@
-var mnemonic = "grain usual old tone nuclear drip attitude happy penalty employ tomorrow pluck";
+var mnemonic = "dirt camp employ draft history harvest shrimp divorce almost able excuse upper";

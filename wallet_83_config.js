@@ -1,1 +1,1 @@
-var mnemonic = "bread pulse solid amazing trouble proof please nothing later crush laugh fan";
+var mnemonic = "kid veteran display tattoo bitter brisk envelope bench approve robust company enough";

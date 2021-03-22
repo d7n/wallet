@@ -1,1 +1,1 @@
-var mnemonic = "act thumb awkward royal endless intact major mention future old lumber grocery";
+var mnemonic = "try scale pretty source smoke depart zone master charge bean clip answer";

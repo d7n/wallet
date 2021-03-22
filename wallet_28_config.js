@@ -1,1 +1,1 @@
-var mnemonic = "normal north club exact valley yard dream exhibit visit shine subject warfare";
+var mnemonic = "picture divert dentist eyebrow diagram load wreck exotic jazz put wish dash";

@@ -1,1 +1,1 @@
-var mnemonic = "local sausage orange plate version gold arch alert ski shell bread artefact";
+var mnemonic = "worth ceiling merit inject then room axis crystal student rug ordinary tide";

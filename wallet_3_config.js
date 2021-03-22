@@ -1,1 +1,1 @@
-var mnemonic = "runway annual scheme melt buyer clerk source wise scatter token city kiwi";
+var mnemonic = "explain lens more donor orchard hub tower flat glide cattle same coast";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold verify spell pave ripple faith fall total where theme month clay";
+var mnemonic = "elite convince bright raw clean butter enter clever exile trumpet welcome tag";

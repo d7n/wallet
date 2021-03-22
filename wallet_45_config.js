@@ -1,1 +1,1 @@
-var mnemonic = "nut notable toe hotel hunt recipe cabin broken gravity frost auction label";
+var mnemonic = "elite awkward convince aerobic speed future board main large bring brown warm";

@@ -1,1 +1,1 @@
-var mnemonic = "loop skull despair fork update horn garage suit filter claw anxiety wall";
+var mnemonic = "tattoo birth knife topple good require sphere defense tongue organ expose loop";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding second weather skate stumble where script copper fame gas remember name";
+var mnemonic = "nurse guard dwarf surround maximum cook next genius cement fog control insane";

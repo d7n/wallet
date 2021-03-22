@@ -1,1 +1,1 @@
-var mnemonic = "inhale owner giggle unveil tonight awesome rapid top similar remove chair rabbit";
+var mnemonic = "rabbit powder emotion verify resist letter today fitness already senior demise still";

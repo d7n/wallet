@@ -1,1 +1,1 @@
-var mnemonic = "suffer cereal nature cruise cycle spread silent weather insane warrior tool tortoise";
+var mnemonic = "tomorrow fiction position wing oblige swing antenna clay fiber caught pioneer sun";

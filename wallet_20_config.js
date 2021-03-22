@@ -1,1 +1,1 @@
-var mnemonic = "novel grass syrup cradle insane reform image refuse item anchor exhaust season";
+var mnemonic = "boil conduct foil luxury joke job gold lottery run sight shield net";

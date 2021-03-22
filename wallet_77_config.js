@@ -1,1 +1,1 @@
-var mnemonic = "base dizzy budget across gossip tiger wire piano injury cheese settle town";
+var mnemonic = "torch blur cousin into lawn ginger lobster bind grain clean smoke mimic";

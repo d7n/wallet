@@ -1,1 +1,1 @@
-var mnemonic = "tube recall flee shock wise math upon claim maple name cry defy";
+var mnemonic = "moon vehicle doll local multiply before charge outside quality actual yard boss";

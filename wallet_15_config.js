@@ -1,1 +1,1 @@
-var mnemonic = "warm eight inherit dose engine shiver rubber useful doctor cave message genius";
+var mnemonic = "session bone crowd renew cloth trigger mandate skull dragon genius luggage shallow";

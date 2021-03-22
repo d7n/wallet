@@ -1,1 +1,1 @@
-var mnemonic = "diesel bid oppose crush library midnight egg sail vote pledge cushion art";
+var mnemonic = "broom clarify boy auto orient certain romance excess dose just tomorrow food";

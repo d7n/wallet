@@ -1,1 +1,1 @@
-var mnemonic = "wage behind grid image phone gasp gaze rebuild hospital lesson salon proud";
+var mnemonic = "rabbit ordinary spice bless only void cherry assume gown awake balance mandate";

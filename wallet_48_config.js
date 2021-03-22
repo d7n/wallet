@@ -1,1 +1,1 @@
-var mnemonic = "lock shuffle tuna snack flame truck grid shell spy churn season among";
+var mnemonic = "only evolve indoor debate surround soap work attract print oven arena senior";

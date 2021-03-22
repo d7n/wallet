@@ -1,1 +1,1 @@
-var mnemonic = "shift cactus party label mention distance lumber demise pause involve myth reveal";
+var mnemonic = "slide hat inherit glance still wife push pulp hedgehog fat hurdle approve";

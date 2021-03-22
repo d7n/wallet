@@ -1,1 +1,1 @@
-var mnemonic = "loud lazy spirit visa hint apple episode spawn spike warrior holiday update";
+var mnemonic = "net myself lawn sleep poem expose dizzy identify radar hockey cereal switch";

@@ -1,1 +1,1 @@
-var mnemonic = "foster oxygen tribe onion occur trophy shrimp lounge dune blind fatigue silent";
+var mnemonic = "van cloth actor keep castle awesome melody wing apple dutch wash chat";

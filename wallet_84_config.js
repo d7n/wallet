@@ -1,1 +1,1 @@
-var mnemonic = "liberty purpose arrow sibling melody edge view exhaust utility decrease install maid";
+var mnemonic = "tiny human trial twenty pink foot duck magnet oval betray caught tuna";

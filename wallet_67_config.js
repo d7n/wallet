@@ -1,1 +1,1 @@
-var mnemonic = "monkey canoe side because joy detail love bacon future cause venue trick";
+var mnemonic = "fee clap visa flat crew hidden disagree sure sponsor kangaroo setup potato";
