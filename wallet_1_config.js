@@ -1,1 +1,1 @@
-var mnemonic = "immense agree duty exist lava desert feel dash soul random term maid";
+var mnemonic = "peace oxygen tool rent divorce sail idle gather swarm derive attract female";

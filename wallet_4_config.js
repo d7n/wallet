@@ -1,1 +1,1 @@
-var mnemonic = "drum fiber grab grief wife person tragic assume clean this depth diary";
+var mnemonic = "absorb quiz diesel lobster salad polar flock husband assist trumpet invite ocean";

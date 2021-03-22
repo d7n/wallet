@@ -1,1 +1,1 @@
-var mnemonic = "shove unaware thumb denial volume sleep maze radio morning exact rural layer";
+var mnemonic = "cart young bar foam either great grunt route file hedgehog glass meadow";

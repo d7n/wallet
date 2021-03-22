@@ -1,1 +1,1 @@
-var mnemonic = "strong math nest cabbage bullet planet divide grow give pipe wash coil";
+var mnemonic = "prison quarter random grow result oval bacon creek tackle demand pluck robust";

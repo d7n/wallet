@@ -1,1 +1,1 @@
-var mnemonic = "race success crisp viable car abandon subject menu salt push spare hint";
+var mnemonic = "myself degree cancel bless clap assume merit erase boat unveil brief wedding";

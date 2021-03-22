@@ -1,1 +1,1 @@
-var mnemonic = "rocket carbon scout peanut occur cushion estate shop remind rifle space source";
+var mnemonic = "wool worry life drop attack scale flight real away iron life giraffe";

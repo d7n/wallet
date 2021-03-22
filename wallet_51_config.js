@@ -1,1 +1,1 @@
-var mnemonic = "family clog ready minute security snake mom glove stove fruit wagon unusual";
+var mnemonic = "grit hospital slot false scene vapor material height marriage dial merge below";

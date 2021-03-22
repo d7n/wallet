@@ -1,1 +1,1 @@
-var mnemonic = "alcohol gossip scare pass promote rally invite body supply observe teach pottery";
+var mnemonic = "carpet arrest enemy tell cat project later sell away photo enemy reason";

@@ -1,1 +1,1 @@
-var mnemonic = "beef life surface truly essence bread buffalo coach access price that grunt";
+var mnemonic = "magnet ranch true eager daring produce foot thing tank word nice poverty";

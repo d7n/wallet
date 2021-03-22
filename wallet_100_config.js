@@ -1,1 +1,1 @@
-var mnemonic = "caution impose until twin sting shrimp wine margin anxiety glove crucial steak";
+var mnemonic = "nest laugh describe lucky loud nose burden country nasty rally vocal apology";

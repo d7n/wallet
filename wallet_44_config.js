@@ -1,1 +1,1 @@
-var mnemonic = "pig smooth tiger twenty tornado come fiction combine dry idea fatal trouble";
+var mnemonic = "ice soup distance stage turkey enjoy trial toddler famous film net fresh";

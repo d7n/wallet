@@ -1,1 +1,1 @@
-var mnemonic = "pupil stem drink taste omit social party lunch axis video please hint";
+var mnemonic = "december affair monkey festival tent torch kitten under orbit polar detail cool";

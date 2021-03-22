@@ -1,1 +1,1 @@
-var mnemonic = "pencil provide latin skill pledge blind raw often secret work segment bread";
+var mnemonic = "gap wheat resource safe shy usage since dawn what damage miss kitten";

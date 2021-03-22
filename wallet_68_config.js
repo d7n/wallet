@@ -1,1 +1,1 @@
-var mnemonic = "physical dentist peanut capital broken stamp cause shield jacket lens cactus fatal";
+var mnemonic = "cancel puzzle toilet glare project wheat fence vital bracket photo junior tonight";

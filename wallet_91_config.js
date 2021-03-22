@@ -1,1 +1,1 @@
-var mnemonic = "poem rare erosion arm evidence black metal grace exhaust wolf sugar pupil";
+var mnemonic = "rubber ivory enough fog gorilla better sense rookie approve concert day drink";

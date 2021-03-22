@@ -1,1 +1,1 @@
-var mnemonic = "hidden air shadow knife confirm boost excuse task slow excess put cook";
+var mnemonic = "total tired merit danger protect ski arctic border practice spice food head";

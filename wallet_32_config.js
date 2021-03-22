@@ -1,1 +1,1 @@
-var mnemonic = "century palace angry field tooth tooth dolphin crisp crowd sport obtain upset";
+var mnemonic = "cash they topple cup fortune chef plug smart spy office bike soap";

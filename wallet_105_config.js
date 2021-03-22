@@ -1,1 +1,1 @@
-var mnemonic = "mean thank bind congress embark bronze illegal opinion shrimp country noodle minute";
+var mnemonic = "entry word flat display seed recall consider plate eyebrow humble damp sand";

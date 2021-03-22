@@ -1,1 +1,1 @@
-var mnemonic = "muscle wave various relief appear visual armed memory correct before play uniform";
+var mnemonic = "remove name dance coin enter join color scrub occur lion replace bamboo";

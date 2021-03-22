@@ -1,1 +1,1 @@
-var mnemonic = "tray senior giant bubble reflect true wire city song lamp indicate mandate";
+var mnemonic = "also cage dumb curve goose crime life body casual now wreck flat";

@@ -1,1 +1,1 @@
-var mnemonic = "immense october hybrid coral grid general fetch place safe size angle spell";
+var mnemonic = "expand unique weapon vapor sunny dawn team present taste sound vibrant repeat";

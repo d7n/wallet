@@ -1,1 +1,1 @@
-var mnemonic = "nose draft eternal habit parrot hair behind require allow fringe exact dolphin";
+var mnemonic = "useless cry return hat borrow symptom recycle cry science list casual affair";

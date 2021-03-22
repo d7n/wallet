@@ -1,1 +1,1 @@
-var mnemonic = "syrup cruise viable busy nation public artwork follow chuckle away frown call";
+var mnemonic = "airport switch draw north radar today topple occur middle turtle ill piece";

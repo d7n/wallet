@@ -1,1 +1,1 @@
-var mnemonic = "mushroom menu steak spider dress inch mad message scissors distance lucky gasp";
+var mnemonic = "music boring exact toilet boring rice write veteran orphan fitness napkin unique";

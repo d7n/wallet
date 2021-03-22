@@ -1,1 +1,1 @@
-var mnemonic = "option umbrella correct surround woman loan medal race verify harsh aspect wisdom";
+var mnemonic = "barrel order price item alley actress damp clarify forum orange degree either";

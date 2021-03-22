@@ -1,1 +1,1 @@
-var mnemonic = "success debris gloom pudding ketchup chimney weird certain release fit second exercise";
+var mnemonic = "seminar just basket exercise crawl sugar pumpkin dolphin awful change alien notice";

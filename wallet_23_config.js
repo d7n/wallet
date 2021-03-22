@@ -1,1 +1,1 @@
-var mnemonic = "wreck tumble leg rabbit diary earth potato lottery illness acoustic detect choose";
+var mnemonic = "culture tackle mountain correct until else powder spike now joke detail supreme";

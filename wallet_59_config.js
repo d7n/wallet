@@ -1,1 +1,1 @@
-var mnemonic = "sausage crane civil tongue include crew blind please slow vacuum clog hard";
+var mnemonic = "raven chair online bag visa vehicle barely always wall orbit sunny initial";

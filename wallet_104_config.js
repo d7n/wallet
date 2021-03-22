@@ -1,1 +1,1 @@
-var mnemonic = "blame figure foot sorry lake bubble ivory young couple mask vanish powder";
+var mnemonic = "disagree pottery anxiety rack code toilet cube leave broom family snap source";

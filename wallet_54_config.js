@@ -1,1 +1,1 @@
-var mnemonic = "toe elephant term town unit sorry engage moment age govern palace wood";
+var mnemonic = "journey similar coach unaware couple physical riot march theory abandon fitness burden";

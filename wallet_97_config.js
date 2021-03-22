@@ -1,1 +1,1 @@
-var mnemonic = "dumb quote enroll alcohol digital either lounge rigid glad oak able grape";
+var mnemonic = "opera travel urge choose finish tornado fame social glove cause sleep enhance";

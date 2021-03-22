@@ -1,1 +1,1 @@
-var mnemonic = "fragile pulp mixed object plunge picnic romance enforce fragile oak heart leaf";
+var mnemonic = "naive reopen region pistol pretty small marine tongue mystery half trumpet elephant";

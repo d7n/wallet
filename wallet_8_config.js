@@ -1,1 +1,1 @@
-var mnemonic = "ability beauty benefit depend frog grant void charge actor face steak atom";
+var mnemonic = "ship share rent traffic fluid predict dilemma horror tone female cotton coral";

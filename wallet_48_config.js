@@ -1,1 +1,1 @@
-var mnemonic = "lamp practice flip buffalo armor awful hawk bench atom barely force rice";
+var mnemonic = "faith bounce butter book brief tiger stick border speed van exit wealth";

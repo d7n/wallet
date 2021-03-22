@@ -1,1 +1,1 @@
-var mnemonic = "cherry trigger trophy approve crouch joke abuse flash upon trouble lonely outer";
+var mnemonic = "expose curious expect now priority area boy beach jelly peace merit glad";

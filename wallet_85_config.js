@@ -1,1 +1,1 @@
-var mnemonic = "blush style home occur admit battle kid among hollow odor arm latin";
+var mnemonic = "neutral moon census cloud field phone kitten involve laugh educate exist tattoo";

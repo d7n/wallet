@@ -1,1 +1,1 @@
-var mnemonic = "rug ten utility day flame odor labor inmate there orange sketch mutual";
+var mnemonic = "target engage nut muscle rubber speed gallery funny evil screen slam question";

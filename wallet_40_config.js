@@ -1,1 +1,1 @@
-var mnemonic = "seed avoid room dream story response kidney device pudding peasant flight news";
+var mnemonic = "book enough zero window library glory lock health true street stock thrive";

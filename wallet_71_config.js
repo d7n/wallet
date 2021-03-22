@@ -1,1 +1,1 @@
-var mnemonic = "spring spoon torch always absent harvest foil recall process crazy erase purchase";
+var mnemonic = "either rally bid convince reform aware song oven ability because adult silk";

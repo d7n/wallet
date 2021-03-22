@@ -1,1 +1,1 @@
-var mnemonic = "quit acoustic wear display slender lake useless pelican cool one medal parade";
+var mnemonic = "enable mobile post cluster atom outer wife fiber brain guide west cheap";

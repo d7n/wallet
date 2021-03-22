@@ -1,1 +1,1 @@
-var mnemonic = "social state legal crush pepper pizza bunker fun hire giggle hockey tackle";
+var mnemonic = "clock cherry health bunker zone kiwi never lonely virus omit walnut clarify";

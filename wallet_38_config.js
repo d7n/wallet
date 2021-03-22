@@ -1,1 +1,1 @@
-var mnemonic = "sell approve cycle shy orient cry bulb arrow urge bounce push judge";
+var mnemonic = "then soldier bulb embark vital gadget rib enrich exclude palace one horse";

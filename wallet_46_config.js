@@ -1,1 +1,1 @@
-var mnemonic = "clap fossil bring close wing juice skull private setup hint trial frown";
+var mnemonic = "picture motor dolphin enough crazy fly divorce rabbit across trophy juice thumb";

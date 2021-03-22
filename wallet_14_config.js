@@ -1,1 +1,1 @@
-var mnemonic = "explain run embark lizard situate water busy pioneer broom obey behave holiday";
+var mnemonic = "list noodle tree artist travel rather utility bounce cradle eye cloud tape";

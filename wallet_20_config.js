@@ -1,1 +1,1 @@
-var mnemonic = "unveil stadium calm awake front wool artefact acid stadium turkey funny initial";
+var mnemonic = "thought desert upgrade happy craft card junior reason fiscal film zone tissue";

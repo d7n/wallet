@@ -1,1 +1,1 @@
-var mnemonic = "dune similar theory exit ivory upper energy behave tower egg faint silent";
+var mnemonic = "weather blossom glide hair embrace protect tourist ability enter pact drip release";

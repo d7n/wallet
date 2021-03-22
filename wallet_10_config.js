@@ -1,1 +1,1 @@
-var mnemonic = "coyote noble pudding fabric laugh update nerve float shrug brain alpha betray";
+var mnemonic = "hat cruise meadow real lion pear runway timber similar hungry art right";

@@ -1,1 +1,1 @@
-var mnemonic = "order shell cushion tobacco embrace foam eager chapter famous acoustic margin size";
+var mnemonic = "assist saddle exist fatigue stone festival flock feel fuel exact cycle ecology";

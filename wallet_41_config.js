@@ -1,1 +1,1 @@
-var mnemonic = "myth torch category office tide walk spare bench release half online tragic";
+var mnemonic = "squirrel happy chaos jar bleak viable letter maid kangaroo media love resist";

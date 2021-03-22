@@ -1,1 +1,1 @@
-var mnemonic = "confirm clean draft bacon stove choose card walk wife rigid swallow front";
+var mnemonic = "consider insect crane end speak oxygen poverty sock mother pride fury giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "plate retire syrup abandon remain dirt divide world wall glad lemon heavy";
+var mnemonic = "people stomach bargain consider place enact aspect valid oblige accuse school ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "soap slow unit sister gym sick once jaguar hint raven purity rookie";
+var mnemonic = "same talent lyrics distance strike gold property recall indoor armor grunt say";

@@ -1,1 +1,1 @@
-var mnemonic = "concert rough tower material rose main lion century palm nation code fiction";
+var mnemonic = "calm warfare news poet buzz captain defense wash move senior end multiply";

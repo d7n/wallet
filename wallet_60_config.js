@@ -1,1 +1,1 @@
-var mnemonic = "memory roof light member frown stool age birth capable despair salute burden";
+var mnemonic = "garment burden curious reopen sport dice web comic drama series track mask";

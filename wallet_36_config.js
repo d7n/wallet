@@ -1,1 +1,1 @@
-var mnemonic = "inquiry slender claim nerve buddy illness hospital offer universe bronze approve surround";
+var mnemonic = "position pave logic ozone pattern nurse spice hurdle such gentle skill version";

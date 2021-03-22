@@ -1,1 +1,1 @@
-var mnemonic = "van dynamic stereo between gap ridge citizen delay mirror silent regret fabric";
+var mnemonic = "divert fashion accuse fine unaware moral supply raise hair wonder lyrics brass";

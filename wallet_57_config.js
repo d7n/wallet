@@ -1,1 +1,1 @@
-var mnemonic = "depart memory rapid eternal soup uniform mix strike wise sign author until";
+var mnemonic = "attract sting leaf enter receive during dismiss response harsh opinion clump stick";

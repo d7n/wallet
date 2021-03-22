@@ -1,1 +1,1 @@
-var mnemonic = "trap chaos memory vehicle august sad inform forum keen boss glory mouse";
+var mnemonic = "envelope patient clarify audit long domain dismiss siren long violin cream broken";

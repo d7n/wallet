@@ -1,1 +1,1 @@
-var mnemonic = "bacon eagle merit gallery stove scatter boring scatter chief hospital piano frame";
+var mnemonic = "fly photo repair beach prefer buzz zero olive episode gold inside build";

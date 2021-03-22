@@ -1,1 +1,1 @@
-var mnemonic = "involve sight run retire clean pet slight insect whip dove junior payment";
+var mnemonic = "churn program scare rebuild claw universe health genre kidney trouble base bronze";

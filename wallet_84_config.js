@@ -1,1 +1,1 @@
-var mnemonic = "odor blame next picnic motor jeans bike leader behave warrior replace distance";
+var mnemonic = "top post deputy sunset suffer chair horror nephew grab wave input provide";

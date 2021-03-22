@@ -1,1 +1,1 @@
-var mnemonic = "shy embody chimney summer farm bag chuckle soft elbow behave satoshi city";
+var mnemonic = "satoshi motor curious image glad blade cupboard enable van half opinion spoon";

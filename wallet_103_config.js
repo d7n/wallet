@@ -1,1 +1,1 @@
-var mnemonic = "march doctor useful force salmon razor slim awesome feel install island wet";
+var mnemonic = "upon fitness glad bridge just acquire naive play possible identify flag artefact";

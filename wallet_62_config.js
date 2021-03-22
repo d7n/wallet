@@ -1,1 +1,1 @@
-var mnemonic = "garlic february few angry forum harbor cushion lion clean inspire matter release";
+var mnemonic = "uniform prepare end prevent myself old bind chronic access human acoustic honey";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity nation hub review bonus scan ozone type help legend neutral resource";
+var mnemonic = "task canyon famous net man alter fitness dutch arrest stay fetch iron";

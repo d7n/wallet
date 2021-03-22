@@ -1,1 +1,1 @@
-var mnemonic = "jump spend wheat outer achieve green salute lake fade raven boss novel";
+var mnemonic = "auction upset mansion beach maple mobile seat praise lucky few label pen";

@@ -1,1 +1,1 @@
-var mnemonic = "focus glimpse fold fantasy impulse uncle bacon nasty taxi obey pupil obtain";
+var mnemonic = "end cook gas finger senior dice play acquire soul favorite brown later";

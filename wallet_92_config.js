@@ -1,1 +1,1 @@
-var mnemonic = "venture start source retreat fine allow select man call scrub myself path";
+var mnemonic = "horse cotton enough member ketchup wheat project doll globe exclude scrub twice";

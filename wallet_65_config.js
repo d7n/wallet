@@ -1,1 +1,1 @@
-var mnemonic = "farm hurt coral second edit start uphold smart throw label worth lunar";
+var mnemonic = "animal survey tourist glad party barrel spike shed script cigar young goat";

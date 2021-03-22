@@ -1,1 +1,1 @@
-var mnemonic = "leader bunker night private guitar shield beach special clog ice attend arrive";
+var mnemonic = "bullet useless tourist major soda correct silk miss screen table effort rifle";

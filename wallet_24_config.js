@@ -1,1 +1,1 @@
-var mnemonic = "garage leaf quit artist lottery health road novel scout elephant rice genre";
+var mnemonic = "mask skate oxygen spirit belt cash erase supply pair purity elephant ankle";

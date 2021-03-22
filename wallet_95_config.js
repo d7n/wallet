@@ -1,1 +1,1 @@
-var mnemonic = "general only hand wool couple post play debris orient have smile raw";
+var mnemonic = "venture message energy knock story clock shy rich wrist mask erosion wife";

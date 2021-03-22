@@ -1,1 +1,1 @@
-var mnemonic = "fiber speak space someone fringe meat guide wisdom luggage portion duck again";
+var mnemonic = "harbor tragic board fiction blame power help permit toward quiz grunt warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "address misery talk gift useless blind dragon desk forget make middle coffee";
+var mnemonic = "scene profit dune moon slam scan air stuff erase disagree plastic century";

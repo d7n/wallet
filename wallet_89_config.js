@@ -1,1 +1,1 @@
-var mnemonic = "print rough decide eager hold wait ecology radar quarter garage wool wrong";
+var mnemonic = "clinic dirt aware found survey food veteran height slide habit favorite that";

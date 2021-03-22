@@ -1,1 +1,1 @@
-var mnemonic = "song bone copy path cube lizard fat where pencil home law problem";
+var mnemonic = "chunk cage hotel zoo always special grain visa brown mushroom volume edge";

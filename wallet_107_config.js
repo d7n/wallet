@@ -1,1 +1,1 @@
-var mnemonic = "plate dice victory weird pencil phone arctic idle settle oppose nurse prefer";
+var mnemonic = "jacket bench alarm wonder harbor panic clean warfare assume dilemma remove arch";

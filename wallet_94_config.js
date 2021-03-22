@@ -1,1 +1,1 @@
-var mnemonic = "margin brain company aisle castle sister guitar reform network card vault remove";
+var mnemonic = "stay educate news whisper fold february motor marine foot document gloom cousin";

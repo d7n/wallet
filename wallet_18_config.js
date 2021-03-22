@@ -1,1 +1,1 @@
-var mnemonic = "obvious rough reflect alcohol youth glass exotic vessel film ivory hour mind";
+var mnemonic = "wise sugar use morning chalk gossip dog budget motion detect act decline";

@@ -1,1 +1,1 @@
-var mnemonic = "patch comic start rapid arch annual copy brush friend swallow easily cake";
+var mnemonic = "debris economy bar awful color hungry benefit law moral pride accident slab";

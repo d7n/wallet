@@ -1,1 +1,1 @@
-var mnemonic = "father blur strategy lab fame embark theme left awake agent stay humor";
+var mnemonic = "child confirm arena text body slide legend brave donate empower core actor";

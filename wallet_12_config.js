@@ -1,1 +1,1 @@
-var mnemonic = "own census drastic engage dynamic bachelor gown pipe domain once decade guitar";
+var mnemonic = "chaos frame adjust dynamic news dutch pulp keep finger online case repeat";

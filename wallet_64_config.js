@@ -1,1 +1,1 @@
-var mnemonic = "smart coil salt wet coach wool steel embrace potato genre knife aerobic";
+var mnemonic = "term okay flower pledge fog used village job letter prosper sport lottery";

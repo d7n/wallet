@@ -1,1 +1,1 @@
-var mnemonic = "tower nest tenant liquid ramp there sting wrap inhale laugh normal weasel";
+var mnemonic = "process zebra tissue dentist confirm sadness member throw east captain hazard auction";

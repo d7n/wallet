@@ -1,1 +1,1 @@
-var mnemonic = "chunk leg laundry already stage little rifle empower castle beach regular stamp";
+var mnemonic = "cheese blur morning divert useless square cigar duck spawn monitor tattoo moon";

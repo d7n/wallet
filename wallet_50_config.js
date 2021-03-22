@@ -1,1 +1,1 @@
-var mnemonic = "notice carry orange tired web achieve remember dwarf earth draft violin scrap";
+var mnemonic = "pencil leopard tissue person auto card notable tilt garment jealous coin civil";

@@ -1,1 +1,1 @@
-var mnemonic = "pair protect cargo enhance flavor laptop kangaroo now jealous solid vapor frequent";
+var mnemonic = "guess spell deny detect video equip accuse tuition shove fiber witness metal";

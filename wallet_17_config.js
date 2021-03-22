@@ -1,1 +1,1 @@
-var mnemonic = "void vintage crater excess tourist coyote grass pupil anxiety add anger poem";
+var mnemonic = "rigid tissue waste badge defense sauce damp spread absorb hotel cry pole";

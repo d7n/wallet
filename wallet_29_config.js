@@ -1,1 +1,1 @@
-var mnemonic = "mother matter side above actual problem narrow stick spirit identify embrace soft";
+var mnemonic = "wheel push travel great rotate oak tip oxygen tomato pulp cruise frozen";

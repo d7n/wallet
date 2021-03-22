@@ -1,1 +1,1 @@
-var mnemonic = "catalog audit neutral busy harsh acquire sentence raccoon venture now school battle";
+var mnemonic = "rotate service record crowd salad voice soft report walnut grow maximum manual";

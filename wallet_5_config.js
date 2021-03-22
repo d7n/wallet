@@ -1,1 +1,1 @@
-var mnemonic = "connect lock radio luxury smoke wild cloud crystal monster top emotion bomb";
+var mnemonic = "code attract miss cross safe pill drum paper there spin input excess";

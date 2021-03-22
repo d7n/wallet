@@ -1,1 +1,1 @@
-var mnemonic = "female stage wink mask spray series identify switch athlete clip course sniff";
+var mnemonic = "blood holiday arrive tragic current notable solid audit ceiling sea correct coach";
