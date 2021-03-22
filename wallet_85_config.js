@@ -1,1 +1,1 @@
-var mnemonic = "garbage place dice border kiwi soup public demise option scissors blue neck";
+var mnemonic = "snow crunch drip viable clinic inner ship rib trial raise meadow amount";

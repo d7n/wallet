@@ -1,1 +1,1 @@
-var mnemonic = "gun history season list appear immune horn develop spatial fun shrug fetch";
+var mnemonic = "victory victory siege furnace sphere choose iron indicate crowd lion carpet pudding";

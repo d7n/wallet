@@ -1,1 +1,1 @@
-var mnemonic = "cushion pizza nasty confirm stove wonder provide flavor canyon anger decline define";
+var mnemonic = "wish before mule cricket polar sea appear toast era broken rubber noodle";

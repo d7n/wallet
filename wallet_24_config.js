@@ -1,1 +1,1 @@
-var mnemonic = "trip rib remove index scale erode fatigue bread evidence scan property fat";
+var mnemonic = "machine cube express first tennis patch roast mass swarm toss elite amount";

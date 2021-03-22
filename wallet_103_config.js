@@ -1,1 +1,1 @@
-var mnemonic = "minimum combine cup venue era remind ten blur girl electric envelope uphold";
+var mnemonic = "caution science title tank law increase reward illness inner ask shoot decorate";

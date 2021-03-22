@@ -1,1 +1,1 @@
-var mnemonic = "gospel slender battle secret elegant bright accuse visa degree hole bamboo wheel";
+var mnemonic = "salad margin fatal ask brick ice hidden banana exotic uniform input theme";

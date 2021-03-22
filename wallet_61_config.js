@@ -1,1 +1,1 @@
-var mnemonic = "trick setup rate waste steak tilt knee tilt panda cousin west news";
+var mnemonic = "wild pupil truly crucial income outer memory you better park drama flip";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy life option deposit depth science attack gorilla vote comic purity love";
+var mnemonic = "style menu mixture humor island green ceiling twenty focus drastic fence join";

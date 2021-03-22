@@ -1,1 +1,1 @@
-var mnemonic = "account pulp dignity decorate episode muscle arrange wagon unlock into sense scrap";
+var mnemonic = "exclude armor fiber noble reveal soda stay invite agent enrich organ tenant";

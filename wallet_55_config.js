@@ -1,1 +1,1 @@
-var mnemonic = "stand lumber planet reflect size cheap host can sadness rug license citizen";
+var mnemonic = "idle rookie agree glance group since atom pudding million mask govern reveal";

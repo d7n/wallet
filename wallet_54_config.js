@@ -1,1 +1,1 @@
-var mnemonic = "decrease conduct yard sphere tongue grace truck chunk token pretty carbon stage";
+var mnemonic = "just small help puzzle smart demand soccer quantum magic merry isolate turkey";

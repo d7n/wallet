@@ -1,1 +1,1 @@
-var mnemonic = "general any middle argue cloud latin faint crumble tail guide curtain fruit";
+var mnemonic = "outside shoot little modify grass play road noise damp extra duck prefer";

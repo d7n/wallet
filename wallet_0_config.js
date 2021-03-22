@@ -1,1 +1,1 @@
-var mnemonic = "scrub someone grab cry excuse rule fiber reunion panel fish motor end";
+var mnemonic = "field hero various spy faith twelve casino glow pet flat bubble pen";

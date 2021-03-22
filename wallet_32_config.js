@@ -1,1 +1,1 @@
-var mnemonic = "baby minimum reason pride box color chimney donkey blind display heavy glue";
+var mnemonic = "charge recipe luggage favorite antenna street trial rabbit panda seminar easy busy";

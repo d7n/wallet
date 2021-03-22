@@ -1,1 +1,1 @@
-var mnemonic = "crawl wrist disorder deal lend tuition valve motion simple roast shoulder swap";
+var mnemonic = "illness frequent consider neither spoil guide radar fitness expire mention theory cricket";

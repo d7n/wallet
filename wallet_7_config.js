@@ -1,1 +1,1 @@
-var mnemonic = "fabric differ fantasy fancy apology decide hungry tone ritual barrel other river";
+var mnemonic = "now light rely powder smile tortoise blue trim foam furnace december celery";

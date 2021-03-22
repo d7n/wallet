@@ -1,1 +1,1 @@
-var mnemonic = "happy opera forward inspire session daring happy shed fame edit famous initial";
+var mnemonic = "dad lazy utility million swim imitate trust symptom float sausage myself bone";

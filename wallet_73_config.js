@@ -1,1 +1,1 @@
-var mnemonic = "style sustain exile huge promote asthma tube transfer ship combine sight flip";
+var mnemonic = "embrace theory interest emerge puppy wage allow river sniff raise spread tooth";

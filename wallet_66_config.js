@@ -1,1 +1,1 @@
-var mnemonic = "bright celery genius educate bean liquid craft supply festival broken warfare noise";
+var mnemonic = "lamp order gym claim scene select wash rain index science screen globe";

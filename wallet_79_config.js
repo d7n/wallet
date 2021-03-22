@@ -1,1 +1,1 @@
-var mnemonic = "raw rib smoke energy mystery drum orphan crop luxury proud travel pumpkin";
+var mnemonic = "tell armed over disorder wagon problem trash isolate favorite million tower wife";

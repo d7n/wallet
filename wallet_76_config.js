@@ -1,1 +1,1 @@
-var mnemonic = "bike have winner deny balance unaware bullet fox glory three off youth";
+var mnemonic = "nerve affair engage benefit neutral stand left carpet evolve dolphin fold supply";

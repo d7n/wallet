@@ -1,1 +1,1 @@
-var mnemonic = "crane frown ghost end decorate story sick acoustic chapter equip drama keep";
+var mnemonic = "enroll joy consider insane weird true copper rent design genre broken wire";

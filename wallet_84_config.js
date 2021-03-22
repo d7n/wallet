@@ -1,1 +1,1 @@
-var mnemonic = "deer window space gallery page become celery lemon art later apple uncle";
+var mnemonic = "vault artwork main guess impulse laugh bench album avocado check quantum rubber";

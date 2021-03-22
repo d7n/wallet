@@ -1,1 +1,1 @@
-var mnemonic = "seven similar because cushion elbow wise require believe base song talk pen";
+var mnemonic = "clog silver panic switch donor must tuition wine jungle write faint october";

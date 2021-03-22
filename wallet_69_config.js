@@ -1,1 +1,1 @@
-var mnemonic = "into seat parrot twenty clip tide save govern soul topic hole release";
+var mnemonic = "search much destroy drop spatial diary dinner weekend toe audit consider endless";

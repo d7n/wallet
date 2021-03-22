@@ -1,1 +1,1 @@
-var mnemonic = "daughter fault trumpet loud neck sick plate sand luxury oak oblige exile";
+var mnemonic = "corn stumble mixture absorb settle need canvas sport initial fatigue defense dwarf";

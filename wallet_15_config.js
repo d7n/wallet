@@ -1,1 +1,1 @@
-var mnemonic = "scan plunge absurd dilemma soldier trip crash swim fringe service impact weasel";
+var mnemonic = "lift round peace render deer giant mixture wagon all flush dumb potato";

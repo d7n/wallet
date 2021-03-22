@@ -1,1 +1,1 @@
-var mnemonic = "move slight eager wheat dad exit peasant gaze weasel snack capable strike";
+var mnemonic = "fortune fancy alone truth lucky carpet seed panda close shoot almost unveil";

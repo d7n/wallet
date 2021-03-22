@@ -1,1 +1,1 @@
-var mnemonic = "amateur forget repeat idea romance lion strike drift trip symptom trouble youth";
+var mnemonic = "list hotel donkey bottom beef security eight certain bicycle process famous wise";

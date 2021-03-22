@@ -1,1 +1,1 @@
-var mnemonic = "before pilot offer judge art scissors hint rifle expose hidden output practice";
+var mnemonic = "mechanic elevator alpha differ cactus bottom oblige capable unaware knife click alter";

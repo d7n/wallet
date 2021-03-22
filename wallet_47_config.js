@@ -1,1 +1,1 @@
-var mnemonic = "maximum picture urge wide unfair later gap merry hen desk leave web";
+var mnemonic = "position upgrade vacant observe liberty voice fall brown radio asthma advice expose";

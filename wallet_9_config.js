@@ -1,1 +1,1 @@
-var mnemonic = "ankle suffer mosquito prison peace summer genuine butter combine job uniform room";
+var mnemonic = "modify couch range anxiety mail hammer day twelve turn double garden define";

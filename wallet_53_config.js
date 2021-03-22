@@ -1,1 +1,1 @@
-var mnemonic = "domain right foster invest race alert bike hockey shoulder outer clog unusual";
+var mnemonic = "report peanut medal version myself prison turkey way vast drift boat knock";

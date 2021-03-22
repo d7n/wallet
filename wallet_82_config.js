@@ -1,1 +1,1 @@
-var mnemonic = "movie bicycle narrow balcony clarify improve alcohol dry man field embody under";
+var mnemonic = "phone conduct element middle rigid climb sport ready hurry emerge park follow";

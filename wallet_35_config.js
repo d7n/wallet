@@ -1,1 +1,1 @@
-var mnemonic = "suffer breeze catalog kitten frog bind soup second globe tenant glance pony";
+var mnemonic = "talent diet anxiety tuition waste fitness reveal forum loop funny casino call";

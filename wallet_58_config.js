@@ -1,1 +1,1 @@
-var mnemonic = "put face dentist inherit boring exact credit kick jungle during satoshi hospital";
+var mnemonic = "pill purity express crater artwork again mention special where escape turkey exist";

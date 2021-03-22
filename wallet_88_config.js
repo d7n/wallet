@@ -1,1 +1,1 @@
-var mnemonic = "fossil cost clump muffin board kiwi despair fox shock hazard sheriff affair";
+var mnemonic = "journey impact indicate crunch embody giant dial ahead relax sure cargo reform";

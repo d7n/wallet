@@ -1,1 +1,1 @@
-var mnemonic = "echo citizen sign mandate light capable satoshi any cave column rescue album";
+var mnemonic = "impose spell wire august once keen promote collect there index term multiply";

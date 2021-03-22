@@ -1,1 +1,1 @@
-var mnemonic = "melody tortoise away square erupt load lawn genuine travel dismiss artefact pride";
+var mnemonic = "rail man better wrist actress define input naive tongue awesome person rough";

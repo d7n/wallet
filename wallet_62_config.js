@@ -1,1 +1,1 @@
-var mnemonic = "abstract pretty nominee virtual goose liar shield story energy exhibit club undo";
+var mnemonic = "habit unveil blade fever topic moon bird sad shed unfold lazy hungry";

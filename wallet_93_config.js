@@ -1,1 +1,1 @@
-var mnemonic = "eagle hero cross father treat knee chimney clock ask south punch main";
+var mnemonic = "boost rapid slogan vacant arrange practice grace lend blouse fitness average song";

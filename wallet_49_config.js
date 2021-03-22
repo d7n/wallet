@@ -1,1 +1,1 @@
-var mnemonic = "disorder evil hint husband begin artefact raven palace theme taxi visit goat";
+var mnemonic = "inform crunch insane absorb antenna suit cook copper harbor call rain detail";

@@ -1,1 +1,1 @@
-var mnemonic = "machine knock remove ignore aspect melt waste record surface left leisure bargain";
+var mnemonic = "conduct edge demise hunt blur model move legal spread rain viable success";

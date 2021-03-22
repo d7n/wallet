@@ -1,1 +1,1 @@
-var mnemonic = "knife grief minute kick lazy write wish divide cover unlock split cradle";
+var mnemonic = "blanket tunnel move trial open icon skull clutch finger funny cup breeze";

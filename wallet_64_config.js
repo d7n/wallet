@@ -1,1 +1,1 @@
-var mnemonic = "resemble core edit cupboard evolve media spoon develop knife pink dinner mouse";
+var mnemonic = "hospital burden mango repeat load napkin name skate forward extra caution replace";

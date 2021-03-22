@@ -1,1 +1,1 @@
-var mnemonic = "text worry squeeze lend online victory segment blast book liquid brass subway";
+var mnemonic = "rebel abstract today absorb rough melt mail unable spare raven badge frame";

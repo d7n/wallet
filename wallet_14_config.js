@@ -1,1 +1,1 @@
-var mnemonic = "van stage enrich hope design polar property mountain point loop dance muscle";
+var mnemonic = "solar awesome joy begin salt country tiger quarter galaxy gasp vessel crime";

@@ -1,1 +1,1 @@
-var mnemonic = "will pyramid core cook gas apology buffalo plug match cradle nuclear laundry";
+var mnemonic = "tray sustain endorse round fan feature river gorilla mercy agent dog reunion";

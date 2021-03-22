@@ -1,1 +1,1 @@
-var mnemonic = "ten bean club when dove sauce surround opera cupboard head domain sustain";
+var mnemonic = "sound throw share announce trial double mom cage rice puppy okay impact";

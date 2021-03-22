@@ -1,1 +1,1 @@
-var mnemonic = "question relief correct afraid door nurse ski deposit gesture diesel sniff pass";
+var mnemonic = "such detail choice burger click wear hair gown resemble sheriff baby moon";

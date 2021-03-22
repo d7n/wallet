@@ -1,1 +1,1 @@
-var mnemonic = "recycle noodle race wise acquire post mutual fruit venue clock rose dignity";
+var mnemonic = "blanket harbor burger side roast host engine extra traffic virtual blade athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "add west filter decorate visual cram pole drift equal around erosion tone";
+var mnemonic = "fringe cake spread hybrid favorite glimpse notable junk crystal element grab toy";

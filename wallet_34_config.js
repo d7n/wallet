@@ -1,1 +1,1 @@
-var mnemonic = "barely damage give hungry snack taste drop bubble tonight garlic owner program";
+var mnemonic = "vague priority math run warrior boil giant year advice bridge deal shove";

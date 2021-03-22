@@ -1,1 +1,1 @@
-var mnemonic = "clever tide around cactus execute arrest demise identify they scare runway confirm";
+var mnemonic = "opera need wide basket reunion vital fuel water symbol nest mix silly";

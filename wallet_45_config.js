@@ -1,1 +1,1 @@
-var mnemonic = "fault winner system need snow pony debris census blouse stomach ancient ceiling";
+var mnemonic = "half fresh quick horse merry agent please total enough sword unfold razor";

@@ -1,1 +1,1 @@
-var mnemonic = "make cloth staff weasel hire public title deputy tattoo prevent nominee drama";
+var mnemonic = "denial action pretty will order siege glove ozone tuition trumpet unaware black";

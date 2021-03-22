@@ -1,1 +1,1 @@
-var mnemonic = "job razor rhythm hidden speak bachelor recipe squeeze mountain travel piece timber";
+var mnemonic = "depart muscle drastic dirt limb fire news refuse bunker unusual critic female";

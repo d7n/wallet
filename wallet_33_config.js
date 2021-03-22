@@ -1,1 +1,1 @@
-var mnemonic = "unknown galaxy drill cram layer crouch glow ecology patrol brother million season";
+var mnemonic = "august quote knock near day giraffe birth forget cactus present olive tone";

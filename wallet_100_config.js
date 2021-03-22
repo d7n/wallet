@@ -1,1 +1,1 @@
-var mnemonic = "confirm left betray man obey refuse prepare kit submit bargain uncle ramp";
+var mnemonic = "meat turkey link dune surge glove basket segment sustain winter guess hamster";

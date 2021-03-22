@@ -1,1 +1,1 @@
-var mnemonic = "fun tenant repeat flag story distance rent own order tuna return own";
+var mnemonic = "collect damage dog candy kit grass slam giant pool canoe glide lava";

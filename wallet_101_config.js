@@ -1,1 +1,1 @@
-var mnemonic = "rabbit blade corn comic arch width parrot truth tomato discover bread whip";
+var mnemonic = "rather fork cushion devote worry wall issue genre start ask powder cactus";

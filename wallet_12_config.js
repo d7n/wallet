@@ -1,1 +1,1 @@
-var mnemonic = "nasty word excite melt camp trumpet drum gauge rude moment cabbage toast";
+var mnemonic = "state intact shell fuel uncle steak guard sound use bird arena indoor";

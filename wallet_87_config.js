@@ -1,1 +1,1 @@
-var mnemonic = "spare caught chronic solve laugh forum crouch carpet bargain behave beyond vendor";
+var mnemonic = "boil cactus melt check zero tree affair bag push father find rule";

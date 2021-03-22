@@ -1,1 +1,1 @@
-var mnemonic = "park dash flat chaos horn among pony gauge filter boring casual raw";
+var mnemonic = "bullet stable benefit depart car helmet carpet fog ecology knock smoke song";

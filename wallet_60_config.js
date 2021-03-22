@@ -1,1 +1,1 @@
-var mnemonic = "ship immense episode birth more one crisp ginger file outer tragic bean";
+var mnemonic = "depart disorder actress disorder output hunt gesture palm security else lawsuit term";

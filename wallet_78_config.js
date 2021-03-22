@@ -1,1 +1,1 @@
-var mnemonic = "faith silly useless limb document dice fly horse abuse combine answer polar";
+var mnemonic = "trade area notice pole floor bicycle action volume shaft comfort shallow region";

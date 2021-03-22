@@ -1,1 +1,1 @@
-var mnemonic = "light desert street click knock flame fluid shrug skill venture real monitor";
+var mnemonic = "release hand file fly engage blouse spare trip choose perfect diary brown";

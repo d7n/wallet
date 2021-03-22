@@ -1,1 +1,1 @@
-var mnemonic = "dial large fancy erase avocado cousin initial slush sun broccoli emerge bunker";
+var mnemonic = "scrub become axis slush observe flat motor tourist tent onion gown enhance";

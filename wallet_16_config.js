@@ -1,1 +1,1 @@
-var mnemonic = "mirror ramp more veteran amused sure gadget puzzle rug budget violin zebra";
+var mnemonic = "mosquito swim fame dream record timber behave laptop air slush random fatal";

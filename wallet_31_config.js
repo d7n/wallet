@@ -1,1 +1,1 @@
-var mnemonic = "drop hen fluid three school push you order moral goddess main toilet";
+var mnemonic = "motion expose indicate father sail rookie subject thunder sudden spare stone slight";

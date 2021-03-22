@@ -1,1 +1,1 @@
-var mnemonic = "left arrest tobacco link analyst clip spare result never patch fringe option";
+var mnemonic = "can short cinnamon okay together despair hen garbage evoke carbon math relief";

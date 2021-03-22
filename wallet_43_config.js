@@ -1,1 +1,1 @@
-var mnemonic = "blue citizen rhythm hard wrap satoshi buffalo dolphin million erupt type broken";
+var mnemonic = "series borrow gym day butter board maze ill coyote front famous machine";

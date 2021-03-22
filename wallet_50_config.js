@@ -1,1 +1,1 @@
-var mnemonic = "tail memory swift rifle turtle oxygen barely zebra wash stay despair brick";
+var mnemonic = "innocent main iron raise quality hour infant kidney assault wood trial admit";

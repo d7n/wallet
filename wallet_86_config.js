@@ -1,1 +1,1 @@
-var mnemonic = "volcano staff session bottom scissors pluck supreme federal dish fantasy elevator crack";
+var mnemonic = "version spread drive below cause tired harvest seed access dad drill hour";

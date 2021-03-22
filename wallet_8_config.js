@@ -1,1 +1,1 @@
-var mnemonic = "goat junior prefer torch vault language snake craft jewel resist gold usual";
+var mnemonic = "remove wear wet swing buzz glory diagram pilot conduct fresh name view";

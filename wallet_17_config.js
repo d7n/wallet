@@ -1,1 +1,1 @@
-var mnemonic = "awkward asset right ghost guard raise entire isolate tray involve neither cherry";
+var mnemonic = "crime tenant conduct detail provide waste write ozone denial resemble nation seek";

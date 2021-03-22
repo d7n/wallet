@@ -1,1 +1,1 @@
-var mnemonic = "crystal stereo glow fortune effort soda sweet awful school top sing proud";
+var mnemonic = "blossom skate wave junk moon attitude quote comfort high peanut fortune tube";

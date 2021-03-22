@@ -1,1 +1,1 @@
-var mnemonic = "good acoustic crawl bleak soap trick goddess begin crumble assist can convince";
+var mnemonic = "liberty output fee debate magic angry when armor glue state path august";

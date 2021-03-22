@@ -1,1 +1,1 @@
-var mnemonic = "weather vacuum fall decrease attitude hollow matter assume dad album hill soft";
+var mnemonic = "faint dwarf deer away bring reveal gorilla tank crowd peasant loud patient";

@@ -1,1 +1,1 @@
-var mnemonic = "when garment civil best hero asset abuse merit reflect reject thank visual";
+var mnemonic = "noise feel funny inject remain regular blush crane foam balcony radar absorb";

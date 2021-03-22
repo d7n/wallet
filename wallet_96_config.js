@@ -1,1 +1,1 @@
-var mnemonic = "unknown omit medal guitar crystal immune peanut inner hawk raise snake melt";
+var mnemonic = "village fatal canoe used whisper alien sample promote auction earn indicate saddle";

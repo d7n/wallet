@@ -1,1 +1,1 @@
-var mnemonic = "famous mercy weather mystery tumble match resource roast middle wrong annual never";
+var mnemonic = "chef enlist magic please bubble capital talk horn ritual announce blood problem";

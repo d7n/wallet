@@ -1,1 +1,1 @@
-var mnemonic = "foster oak picnic manage unlock maximum thank vast spice tribe rich abuse";
+var mnemonic = "mimic predict soda small local now swallow maple cheese industry stick climb";

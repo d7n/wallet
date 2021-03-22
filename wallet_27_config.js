@@ -1,1 +1,1 @@
-var mnemonic = "shrug grid clump nuclear together photo staff angle insect brown leaf pride";
+var mnemonic = "hard spoil hat marriage measure august timber dwarf elbow cheese kangaroo inject";

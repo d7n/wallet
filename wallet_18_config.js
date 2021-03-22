@@ -1,1 +1,1 @@
-var mnemonic = "source judge can wasp fury member win honey tourist polar thunder coin";
+var mnemonic = "soap lobster loan slam address orange course run tattoo minor camp weapon";

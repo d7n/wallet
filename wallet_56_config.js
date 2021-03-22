@@ -1,1 +1,1 @@
-var mnemonic = "argue eagle wish reveal core wash organ stadium essay diamond choose when";
+var mnemonic = "smooth proud tooth maple toward blue pretty what front climb autumn aerobic";

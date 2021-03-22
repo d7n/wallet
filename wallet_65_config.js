@@ -1,1 +1,1 @@
-var mnemonic = "sustain casino uniform retire void error cloth cereal lend body lab great";
+var mnemonic = "ethics relax surround resist upon visa umbrella task nominee barely unaware stay";

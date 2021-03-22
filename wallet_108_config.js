@@ -1,1 +1,1 @@
-var mnemonic = "source sound become insect pool fold alcohol point minor kiss amount slide";
+var mnemonic = "energy push ostrich produce help drip cave affair ribbon joy only club";

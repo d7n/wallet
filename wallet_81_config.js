@@ -1,1 +1,1 @@
-var mnemonic = "almost law crazy outside embody mosquito rib accident album another breeze hedgehog";
+var mnemonic = "eagle trigger corn anchor scrub quote raise drive toast another gospel stove";

@@ -1,1 +1,1 @@
-var mnemonic = "cover sell tribe manage loud soccer zero mean what act phrase brown";
+var mnemonic = "private learn squirrel fatigue album nation fine mix guide income elite wash";
