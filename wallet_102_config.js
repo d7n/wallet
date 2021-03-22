@@ -1,1 +1,1 @@
-var mnemonic = "doll front steel guard stick addict appear top lonely holiday service disorder";
+var mnemonic = "deputy ghost amazing diesel angry credit math retreat slogan crunch large surge";

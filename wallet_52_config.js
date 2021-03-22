@@ -1,1 +1,1 @@
-var mnemonic = "off settle comfort title entry diagram myself envelope canoe nut eight edit";
+var mnemonic = "shuffle year depart body excite amazing usage reason cup ranch art forest";

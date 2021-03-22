@@ -1,1 +1,1 @@
-var mnemonic = "dolphin regular chase hat action treat rocket approve ten fold despair exchange";
+var mnemonic = "present useless property response notice best jealous because satisfy doctor assume stick";

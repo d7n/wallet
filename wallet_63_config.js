@@ -1,1 +1,1 @@
-var mnemonic = "oblige trade cover kite cupboard because smart dream quote toast spin fever";
+var mnemonic = "inquiry street punch session core pride vote apology enter trust favorite curious";

@@ -1,1 +1,1 @@
-var mnemonic = "thank dad draw oval fat excess caught book marriage save wedding exclude";
+var mnemonic = "task track sugar element zone visit river cry pause arrow accuse impulse";

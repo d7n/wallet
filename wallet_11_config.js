@@ -1,1 +1,1 @@
-var mnemonic = "asthma spice trigger black frown faint shaft report twin enjoy focus adult";
+var mnemonic = "entire level gym busy alcohol jazz dream burden eye december fire example";

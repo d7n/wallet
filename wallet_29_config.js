@@ -1,1 +1,1 @@
-var mnemonic = "onion vague grass census mutual loop alone point play cruise deer scheme";
+var mnemonic = "select field ten great voyage family horse nut tackle thumb grass season";

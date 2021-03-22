@@ -1,1 +1,1 @@
-var mnemonic = "view cheap tool order sudden kit tilt stadium time false cat raise";
+var mnemonic = "steak aisle human play margin salad settle strike excess law civil else";

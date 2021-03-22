@@ -1,1 +1,1 @@
-var mnemonic = "cheese father witness raccoon shoe neither fiction sand dizzy bounce ahead tool";
+var mnemonic = "biology tragic awful canvas layer crawl slight cereal critic space federal sorry";

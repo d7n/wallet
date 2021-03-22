@@ -1,1 +1,1 @@
-var mnemonic = "mean lock coyote open misery glove patient car know wood ignore border";
+var mnemonic = "brain expect plunge below mean auto airport admit arctic vivid vocal behave";

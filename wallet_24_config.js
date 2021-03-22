@@ -1,1 +1,1 @@
-var mnemonic = "addict awkward exist oblige bar omit twist width fetch hour flat brush";
+var mnemonic = "fan tornado track badge swing pool circle aware enter leopard health embody";

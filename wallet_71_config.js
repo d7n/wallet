@@ -1,1 +1,1 @@
-var mnemonic = "royal script buzz check liquid enough prefer decrease sketch rack bag magnet";
+var mnemonic = "scan patrol proud mimic mandate skull rice napkin blush trim velvet gap";

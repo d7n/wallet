@@ -1,1 +1,1 @@
-var mnemonic = "hood degree walk poverty until main weekend rural screen arrow upgrade energy";
+var mnemonic = "luxury brown lumber diesel scheme appear debris marine math matter forget beyond";

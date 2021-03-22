@@ -1,1 +1,1 @@
-var mnemonic = "trumpet panther real gospel plastic degree domain van cup agent just nephew";
+var mnemonic = "zone nuclear keep sand parade comic tobacco height sign citizen again pencil";

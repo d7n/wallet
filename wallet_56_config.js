@@ -1,1 +1,1 @@
-var mnemonic = "museum orient egg soda moral rival session field more street insane sound";
+var mnemonic = "wage tourist easy about jeans mistake fluid robust arrest blanket coffee intact";

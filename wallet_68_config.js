@@ -1,1 +1,1 @@
-var mnemonic = "crawl skull dry airport absorb finish panther festival upgrade hidden thought olympic";
+var mnemonic = "genius clump lens twelve dance army wall episode nation just access stem";

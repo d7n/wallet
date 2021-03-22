@@ -1,1 +1,1 @@
-var mnemonic = "heart arrive assault pair program way cart album wall pudding daring large";
+var mnemonic = "athlete hub uncle witness dust shadow morning century valve medal seat exotic";

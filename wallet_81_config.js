@@ -1,1 +1,1 @@
-var mnemonic = "fury pair shrug cabin roast isolate mouse soap cover metal aim must";
+var mnemonic = "speak feel gauge mask orbit angle giant rigid combine enlist orbit require";

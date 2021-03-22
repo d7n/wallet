@@ -1,1 +1,1 @@
-var mnemonic = "tide below student pig scene alert decide frozen swamp repeat resemble shed";
+var mnemonic = "sibling blanket usage lyrics tape happy crane load arena myth donor mansion";

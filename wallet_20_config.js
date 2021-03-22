@@ -1,1 +1,1 @@
-var mnemonic = "useful kangaroo gate mean help box claim gown shop crack knock endorse";
+var mnemonic = "sketch dragon wool abandon lizard defy wine abstract crazy void raven fuel";

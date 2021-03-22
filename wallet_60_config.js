@@ -1,1 +1,1 @@
-var mnemonic = "type decade cannon seek boring cash type purity hurry saddle fame movie";
+var mnemonic = "bulk unlock session honey weekend tide air capital hospital rain label omit";

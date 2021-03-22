@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow elder snack foster pilot praise decrease tornado dumb loop book tourist";
+var mnemonic = "salad flush napkin pattern nice autumn maid mom shove morning absurd boss";

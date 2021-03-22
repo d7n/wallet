@@ -1,1 +1,1 @@
-var mnemonic = "similar student sorry mansion urge divide captain age aisle isolate bleak dizzy";
+var mnemonic = "lamp public wreck medal camp rice fat eager cabin average fold wall";

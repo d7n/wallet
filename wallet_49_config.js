@@ -1,1 +1,1 @@
-var mnemonic = "child describe black auto catch original evil dinner identify ridge update castle";
+var mnemonic = "section impact frame confirm walnut assist spray example hamster impose neutral affair";

@@ -1,1 +1,1 @@
-var mnemonic = "flip jelly nuclear forest humor access fog bubble animal mammal until brush";
+var mnemonic = "clock large orbit buddy punch celery round upgrade cheap employ donate social";

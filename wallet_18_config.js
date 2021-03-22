@@ -1,1 +1,1 @@
-var mnemonic = "inmate curve fiscal select trophy roast number intact tone return black bright";
+var mnemonic = "wool shrug raven face explain phrase man easily carry copper spice alpha";

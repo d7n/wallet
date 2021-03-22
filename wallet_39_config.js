@@ -1,1 +1,1 @@
-var mnemonic = "will never gesture lonely element advance retire blast great hobby item elbow";
+var mnemonic = "cruise pool panel boil genre scorpion grunt symptom course jazz view funny";

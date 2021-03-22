@@ -1,1 +1,1 @@
-var mnemonic = "envelope certain deputy memory citizen own used divert hawk yard athlete burden";
+var mnemonic = "sausage language all keen sphere roof open cargo host negative shield iron";

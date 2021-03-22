@@ -1,1 +1,1 @@
-var mnemonic = "image choice extend monster control month climb olympic spirit rough beauty guard";
+var mnemonic = "people couple before crater swift conduct observe alarm tone lunar renew screen";

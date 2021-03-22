@@ -1,1 +1,1 @@
-var mnemonic = "steak jump eye mouse trip caught visit love hand aware soup fortune";
+var mnemonic = "want peasant crawl before family silly harbor limit december dish old uphold";

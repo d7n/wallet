@@ -1,1 +1,1 @@
-var mnemonic = "betray jump turn describe phone segment vanish copper wing mobile capital meat";
+var mnemonic = "enjoy damage item walk element memory oven keen unfair age leopard video";

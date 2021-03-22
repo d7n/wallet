@@ -1,1 +1,1 @@
-var mnemonic = "derive sentence yard clutch detect pioneer junk expose size cement orange analyst";
+var mnemonic = "fashion style arena gasp runway always notice nephew kind finish quality bring";

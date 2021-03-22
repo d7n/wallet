@@ -1,1 +1,1 @@
-var mnemonic = "sphere heart taste evil manage orphan profit tomorrow invest ball better lucky";
+var mnemonic = "truck ridge rough steak idea renew drop sight zoo bless odor noise";

@@ -1,1 +1,1 @@
-var mnemonic = "this noodle cabbage stage current assault method face muscle absorb clinic traffic";
+var mnemonic = "right pet old blind scare reform garbage solution wing normal embark modify";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh derive system fish goddess setup defy mail pave virtual initial doctor";
+var mnemonic = "charge unique vault amazing melt laundry picture scorpion right follow task kidney";

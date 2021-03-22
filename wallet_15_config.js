@@ -1,1 +1,1 @@
-var mnemonic = "wait race south vicious motion enroll isolate lion hidden twist machine vehicle";
+var mnemonic = "hole genius beach chicken clinic month stadium spend copper horse chicken cram";

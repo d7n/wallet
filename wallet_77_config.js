@@ -1,1 +1,1 @@
-var mnemonic = "title rabbit rib rabbit skate jungle gap scrub antique timber pepper very";
+var mnemonic = "income term sheriff trumpet elevator awesome develop long keep earth badge garbage";

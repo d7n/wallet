@@ -1,1 +1,1 @@
-var mnemonic = "gossip welcome wide bachelor popular clown prison supreme exclude dice cover duck";
+var mnemonic = "march raven private coach immense captain daring city human physical table bread";

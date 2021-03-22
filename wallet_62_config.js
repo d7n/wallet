@@ -1,1 +1,1 @@
-var mnemonic = "over coach wood people engine fame bachelor flock segment horror kingdom universe";
+var mnemonic = "omit vendor topple fruit casino scan pear produce else tuition brisk ripple";

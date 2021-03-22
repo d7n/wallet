@@ -1,1 +1,1 @@
-var mnemonic = "bacon grit never page champion latin wage kiwi skate mutual ancient basic";
+var mnemonic = "normal black require cliff unable immense tissue vessel castle exhibit leader stove";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar team vacant maple gorilla model snap primary vicious festival assume sadness";
+var mnemonic = "cute butter pumpkin job air muffin problem bottom coast proud assume slim";

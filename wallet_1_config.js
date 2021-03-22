@@ -1,1 +1,1 @@
-var mnemonic = "average perfect settle poet include blanket plunge under side digital clump obey";
+var mnemonic = "force captain measure gate globe blush blanket parade eagle public dinosaur birth";

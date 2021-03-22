@@ -1,1 +1,1 @@
-var mnemonic = "monitor sentence daughter vault vote swallow spell giant tomorrow home soup idle";
+var mnemonic = "error click dumb unfold volcano input fitness language raw shine conduct scare";

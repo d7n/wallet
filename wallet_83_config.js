@@ -1,1 +1,1 @@
-var mnemonic = "vacant goose access april canvas later daring major dinner calm buzz grunt";
+var mnemonic = "figure hello ahead color dinner bright nation vital text volume lift notable";

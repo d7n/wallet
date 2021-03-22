@@ -1,1 +1,1 @@
-var mnemonic = "sketch super word cotton flag honey rib news biology blood hungry harsh";
+var mnemonic = "run tired radio jazz voice old error must brown hello ceiling option";

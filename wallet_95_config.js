@@ -1,1 +1,1 @@
-var mnemonic = "note snap quantum enroll wrap hunt grass excite basic balcony soup ship";
+var mnemonic = "jacket voyage action one clay song pig risk real lunch visit wife";

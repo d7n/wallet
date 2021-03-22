@@ -1,1 +1,1 @@
-var mnemonic = "sketch code pink slide hidden crime rhythm thumb fiber talk ignore fragile";
+var mnemonic = "video stairs deal assist parade have spare spread festival tuna vanish middle";

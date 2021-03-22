@@ -1,1 +1,1 @@
-var mnemonic = "right guide clown glimpse tooth outer drama month october giraffe trust salad";
+var mnemonic = "hybrid jewel casual method wrist stomach crisp tone olive exhaust west credit";

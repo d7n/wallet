@@ -1,1 +1,1 @@
-var mnemonic = "acquire ladder flock online game piece total almost crater burger input tuition";
+var mnemonic = "corn scene normal yellow junk because monster emerge hand intact aerobic oak";

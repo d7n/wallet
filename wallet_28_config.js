@@ -1,1 +1,1 @@
-var mnemonic = "clown master cargo parrot green amateur conduct asset scheme transfer please urge";
+var mnemonic = "spot fossil choose lend wine analyst find eternal sibling yard twin ankle";

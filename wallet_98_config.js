@@ -1,1 +1,1 @@
-var mnemonic = "canvas gas broccoli range borrow also wonder fetch awkward plug host mechanic";
+var mnemonic = "thank bench cart piano one corn kit twenty ocean monitor canyon ribbon";

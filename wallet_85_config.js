@@ -1,1 +1,1 @@
-var mnemonic = "bacon cement meadow marriage million job sorry session pair neck label alert";
+var mnemonic = "measure kick foster save utility ring toy expire train liquid basket behind";

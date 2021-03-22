@@ -1,1 +1,1 @@
-var mnemonic = "keep horror notice special dentist page supply come online worth property exotic";
+var mnemonic = "denial rather hedgehog piece smoke hobby random evolve duck valley lens mask";

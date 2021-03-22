@@ -1,1 +1,1 @@
-var mnemonic = "dose address hope below foot dentist nurse kind wise custom razor list";
+var mnemonic = "display avocado mention have olive bubble fringe stadium weapon corn afford depend";

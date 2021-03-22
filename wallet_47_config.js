@@ -1,1 +1,1 @@
-var mnemonic = "sail general alter thing blanket quiz school tip gadget soccer over online";
+var mnemonic = "frog key woman ramp dune organ orange age ride weird near example";

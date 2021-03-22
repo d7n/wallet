@@ -1,1 +1,1 @@
-var mnemonic = "knock false globe feature exist aerobic liberty monkey banana purchase warrior position";
+var mnemonic = "melt drink prefer random glance unhappy wire paddle view profit yellow cute";

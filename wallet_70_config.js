@@ -1,1 +1,1 @@
-var mnemonic = "taste toe divide winner addict palm lucky piano worry zero valid olive";
+var mnemonic = "infant month cute army else finish auto pool require urge increase inside";

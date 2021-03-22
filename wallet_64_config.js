@@ -1,1 +1,1 @@
-var mnemonic = "room hood hood cruel sign alpha smile miss jelly wet final meadow";
+var mnemonic = "travel cup sister tray rule pudding dune fortune trip blade slow drama";

@@ -1,1 +1,1 @@
-var mnemonic = "trick crack donkey hour muffin box tree analyst fatal coin confirm valve";
+var mnemonic = "proof olympic mosquito cost magnet increase frown moment virtual buddy behave leave";

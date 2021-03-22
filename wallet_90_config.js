@@ -1,1 +1,1 @@
-var mnemonic = "hire zone asset magnet visit despair spare tribe february nest endless brown";
+var mnemonic = "wave syrup ten decline coin anchor duck rough tortoise guess maximum slender";

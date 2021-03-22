@@ -1,1 +1,1 @@
-var mnemonic = "phone noodle expect elephant finger arrow plunge detect night over math meadow";
+var mnemonic = "eight curious patient attack misery access wolf lemon holiday ordinary acid replace";

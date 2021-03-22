@@ -1,1 +1,1 @@
-var mnemonic = "book caught fortune inner fever laptop trust interest swamp egg erosion muscle";
+var mnemonic = "school flag slush usual ski harvest wish mind filter leave material sell";

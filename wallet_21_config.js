@@ -1,1 +1,1 @@
-var mnemonic = "rice moment census seek sting tooth bring daring clay steak upset gaze";
+var mnemonic = "genuine avocado expose charge turn spawn under inspire duty tongue puppy birth";

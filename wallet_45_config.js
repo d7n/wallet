@@ -1,1 +1,1 @@
-var mnemonic = "zoo creek pact antenna sad grace stay uncover lunar pulse unusual pencil";
+var mnemonic = "robust dad song end almost develop eager follow apology peace reflect paper";

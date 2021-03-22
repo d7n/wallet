@@ -1,1 +1,1 @@
-var mnemonic = "auction erosion dolphin situate during chair scheme inspire glad funny buffalo wear";
+var mnemonic = "indicate snow radio peace stadium image across also almost gadget lock day";

@@ -1,1 +1,1 @@
-var mnemonic = "second radio cement address poverty relief rifle ignore movie pigeon airport fabric";
+var mnemonic = "rude law toddler bottom motor discover dinner disorder fade cup rely danger";

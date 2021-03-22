@@ -1,1 +1,1 @@
-var mnemonic = "random home wheel they gift festival become auto card abstract fine draft";
+var mnemonic = "feature educate talent minute march tiger ladder uncover glare reason crush gallery";

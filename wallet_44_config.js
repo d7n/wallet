@@ -1,1 +1,1 @@
-var mnemonic = "steak velvet era quantum tomato actual canvas barely pride ordinary weird scorpion";
+var mnemonic = "winner chalk flavor father swing enact genius price clean pulp reform language";

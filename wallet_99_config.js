@@ -1,1 +1,1 @@
-var mnemonic = "wonder rain apart radio wisdom jeans consider stove antenna cover pen bright";
+var mnemonic = "tired arrive swap escape boss coin cycle mimic stereo chicken aspect alter";

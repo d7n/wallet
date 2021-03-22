@@ -1,1 +1,1 @@
-var mnemonic = "student sentence mistake layer bar wife license element script used require happy";
+var mnemonic = "improve entire sorry lake demand orient pencil torch usual clean gun hobby";

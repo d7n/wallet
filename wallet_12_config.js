@@ -1,1 +1,1 @@
-var mnemonic = "connect feed car hurdle solve mean grant brass fruit flame wrong word";
+var mnemonic = "venue agree where era rifle pudding edge empower hope quality love nation";

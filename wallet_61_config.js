@@ -1,1 +1,1 @@
-var mnemonic = "promote shove vault interest figure old promote ghost box attack mountain remind";
+var mnemonic = "logic october scout armor income notable home avoid hurdle border vivid magic";

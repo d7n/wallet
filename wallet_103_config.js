@@ -1,1 +1,1 @@
-var mnemonic = "recipe winner trust piece candy future human unfold scout zebra noise promote";
+var mnemonic = "girl invite hen spot claw crater hand blur energy coconut actress adult";

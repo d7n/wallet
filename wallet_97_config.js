@@ -1,1 +1,1 @@
-var mnemonic = "engage nephew unaware raw friend horse echo silver refuse subject token pave";
+var mnemonic = "rate reunion battle horror uncover album market east grid will level acoustic";

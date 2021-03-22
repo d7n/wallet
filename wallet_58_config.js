@@ -1,1 +1,1 @@
-var mnemonic = "guitar art crime involve when salt normal inhale retire lazy drop alone";
+var mnemonic = "enrich squeeze master all street april elevator vibrant ramp lunch win soul";

@@ -1,1 +1,1 @@
-var mnemonic = "open marriage innocent gravity govern vital vast other erase spice inflict night";
+var mnemonic = "say salute border purpose cave divide fuel combine fetch potato copy fix";

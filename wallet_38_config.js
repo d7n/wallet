@@ -1,1 +1,1 @@
-var mnemonic = "drill whisper midnight celery deputy bright disagree garment power auction scrub oil";
+var mnemonic = "fetch glimpse sketch office zone travel army there chronic float aspect thumb";

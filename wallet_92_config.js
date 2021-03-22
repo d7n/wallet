@@ -1,1 +1,1 @@
-var mnemonic = "drastic arrange between crater path among stem angry wage board yellow make";
+var mnemonic = "left visual hidden image habit mountain infant advice bulb very hundred cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "order depend spend drive field calm vicious lock devote uniform about suffer";
+var mnemonic = "river retire slow deny engine voyage eight target soft addict begin grocery";

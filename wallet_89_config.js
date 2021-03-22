@@ -1,1 +1,1 @@
-var mnemonic = "torch also farm save clutch hero cinnamon vacuum recycle material joke barrel";
+var mnemonic = "multiply fun estate tenant crouch that doctor chapter laugh unique absorb devote";

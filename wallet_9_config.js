@@ -1,1 +1,1 @@
-var mnemonic = "wash baby west kid toy high first heart sound slice switch vacant";
+var mnemonic = "wall hair peanut acid evidence daring work balcony health stereo toward unit";

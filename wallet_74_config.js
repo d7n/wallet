@@ -1,1 +1,1 @@
-var mnemonic = "clever convince answer glide wedding limit slow olive flush spoon crack latin";
+var mnemonic = "skate reduce surface maximum label wish delay reduce maze vast require primary";

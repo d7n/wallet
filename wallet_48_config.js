@@ -1,1 +1,1 @@
-var mnemonic = "essence crazy coyote seed immense blast scrub animal gain tongue resemble leopard";
+var mnemonic = "hurt toilet effort jacket unhappy travel art popular display piece one canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder liquid parent remember balance bless dumb paddle brisk example actual february";
+var mnemonic = "unique live race opera panel unique embark violin arrive degree reunion plate";

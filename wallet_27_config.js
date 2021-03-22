@@ -1,1 +1,1 @@
-var mnemonic = "summer company size travel first also have disagree grid edge flower scout";
+var mnemonic = "volcano mansion flee surprise remove mutual room spirit few parrot cost venue";

@@ -1,1 +1,1 @@
-var mnemonic = "area network degree weather exhaust window drama catalog gun give erupt grape";
+var mnemonic = "eternal six foil suit level ensure vessel pulp goat glad knee frame";

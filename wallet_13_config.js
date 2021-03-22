@@ -1,1 +1,1 @@
-var mnemonic = "tomato correct stick pool moment raven castle science day inner shine swallow";
+var mnemonic = "tragic agent venture cloud fit forget task indicate ancient puzzle order cousin";

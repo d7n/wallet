@@ -1,1 +1,1 @@
-var mnemonic = "author august festival height equip impact know toward wide motor imitate ocean";
+var mnemonic = "enhance merit trip myself flush nice lucky educate crime else exist blast";

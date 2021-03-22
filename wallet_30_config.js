@@ -1,1 +1,1 @@
-var mnemonic = "network sketch donate panic then endless menu analyst flip road tuna raven";
+var mnemonic = "student local impact settle liar enroll all output ozone abuse law armor";

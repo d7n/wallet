@@ -1,1 +1,1 @@
-var mnemonic = "club creek order melt flee finish there club draft stamp become observe";
+var mnemonic = "runway pulp lens escape fold fan abandon suggest super uncle floor inch";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue lesson idea eagle million settle ordinary member hobby course pill pistol";
+var mnemonic = "begin connect topple mouse security peasant turkey silk local thrive jungle double";

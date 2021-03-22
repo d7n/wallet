@@ -1,1 +1,1 @@
-var mnemonic = "tennis oblige end fuel olive today atom defense polar solar viable citizen";
+var mnemonic = "wall remember marriage vehicle output order connect course lounge remove cigar exotic";

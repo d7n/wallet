@@ -1,1 +1,1 @@
-var mnemonic = "reopen brief direct milk purchase funny south icon act iron warrior gallery";
+var mnemonic = "august script reunion mesh asthma guilt width leg hammer canyon dog fatigue";
