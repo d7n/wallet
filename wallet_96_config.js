@@ -1,1 +1,1 @@
-var mnemonic = "expand option tray coin fine pilot key garage woman pear such ramp";
+var mnemonic = "betray jump turn describe phone segment vanish copper wing mobile capital meat";

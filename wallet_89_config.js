@@ -1,1 +1,1 @@
-var mnemonic = "quit kind atom crazy hour honey unfair horror spice able asset define";
+var mnemonic = "torch also farm save clutch hero cinnamon vacuum recycle material joke barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "always spend cook menu valley razor mother coil quantum conduct drip pistol";
+var mnemonic = "term mansion fan card direct coyote word steel code neglect doll off";

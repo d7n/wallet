@@ -1,1 +1,1 @@
-var mnemonic = "truth strong write famous matter produce talk media else turkey inflict swarm";
+var mnemonic = "club creek order melt flee finish there club draft stamp become observe";

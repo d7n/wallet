@@ -1,1 +1,1 @@
-var mnemonic = "elephant law young nose trumpet season only poverty sugar intact toy illegal";
+var mnemonic = "thank dad draw oval fat excess caught book marriage save wedding exclude";

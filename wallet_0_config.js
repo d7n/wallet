@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow state gloom inside notice minute concert glove bronze elder pelican loud";
+var mnemonic = "author august festival height equip impact know toward wide motor imitate ocean";

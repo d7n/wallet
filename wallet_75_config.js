@@ -1,1 +1,1 @@
-var mnemonic = "glimpse team print disease unknown lab cross usage file wait kingdom section";
+var mnemonic = "right guide clown glimpse tooth outer drama month october giraffe trust salad";

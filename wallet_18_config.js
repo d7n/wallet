@@ -1,1 +1,1 @@
-var mnemonic = "replace clever foot property lyrics gas broom valve three task december cinnamon";
+var mnemonic = "inmate curve fiscal select trophy roast number intact tone return black bright";

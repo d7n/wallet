@@ -1,1 +1,1 @@
-var mnemonic = "exact sort endless fatigue stick oxygen pride open elite clock tragic enrich";
+var mnemonic = "clown master cargo parrot green amateur conduct asset scheme transfer please urge";

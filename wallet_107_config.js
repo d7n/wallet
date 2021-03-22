@@ -1,1 +1,1 @@
-var mnemonic = "little voice surprise purchase fish model joy private raccoon glide wash sauce";
+var mnemonic = "review trip book bleak project raise copy adult ramp ugly judge gaze";

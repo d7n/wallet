@@ -1,1 +1,1 @@
-var mnemonic = "photo sample asthma phrase must march cloth trigger boat chimney orchard furnace";
+var mnemonic = "derive sentence yard clutch detect pioneer junk expose size cement orange analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge notice shallow put carbon social rocket panda thrive lobster citizen beef";
+var mnemonic = "monitor sentence daughter vault vote swallow spell giant tomorrow home soup idle";

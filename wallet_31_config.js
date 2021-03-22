@@ -1,1 +1,1 @@
-var mnemonic = "lava blossom capital three town rain infant liberty vibrant dwarf caught hat";
+var mnemonic = "short inch raise fix catalog multiply garden vacant local enforce brand total";

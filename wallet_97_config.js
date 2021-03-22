@@ -1,1 +1,1 @@
-var mnemonic = "pulse wisdom waste ketchup original young begin image bird mosquito stay seed";
+var mnemonic = "engage nephew unaware raw friend horse echo silver refuse subject token pave";

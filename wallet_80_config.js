@@ -1,1 +1,1 @@
-var mnemonic = "rail loyal goat web remain snow reason pear simple bubble special never";
+var mnemonic = "bicycle urban citizen rapid stereo erase illness suffer egg light smile circle";

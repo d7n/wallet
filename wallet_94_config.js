@@ -1,1 +1,1 @@
-var mnemonic = "valley design dynamic blade icon tone dish cry media pistol recycle cactus";
+var mnemonic = "tissue lesson idea eagle million settle ordinary member hobby course pill pistol";

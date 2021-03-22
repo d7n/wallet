@@ -1,1 +1,1 @@
-var mnemonic = "orchard race glance sausage result garment credit six hurdle blind physical bread";
+var mnemonic = "hire zone asset magnet visit despair spare tribe february nest endless brown";

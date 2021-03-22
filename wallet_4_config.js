@@ -1,1 +1,1 @@
-var mnemonic = "tent pupil subway garden screen party crime fashion tent trouble flag random";
+var mnemonic = "electric citizen energy fragile obtain actor number sight fringe awesome crater breeze";

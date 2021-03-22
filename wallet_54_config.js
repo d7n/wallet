@@ -1,1 +1,1 @@
-var mnemonic = "alpha link paper clerk top appear pig various nuclear priority order work";
+var mnemonic = "open marriage innocent gravity govern vital vast other erase spice inflict night";

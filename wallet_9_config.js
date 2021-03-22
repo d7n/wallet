@@ -1,1 +1,1 @@
-var mnemonic = "lamp ability town assault satisfy resource chest tornado buyer torch jacket second";
+var mnemonic = "wash baby west kid toy high first heart sound slice switch vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "idea erupt bubble million coconut clump laptop feed mean please identify move";
+var mnemonic = "envelope certain deputy memory citizen own used divert hawk yard athlete burden";

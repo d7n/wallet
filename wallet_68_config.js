@@ -1,1 +1,1 @@
-var mnemonic = "firm sign dynamic dose carbon pill body snack salad require play bubble";
+var mnemonic = "crawl skull dry airport absorb finish panther festival upgrade hidden thought olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "bid panel sun dial deposit unfair oxygen define solid wall tower glide";
+var mnemonic = "acquire ladder flock online game piece total almost crater burger input tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate father someone bottom network book base beef bleak broken dumb reform";
+var mnemonic = "auction erosion dolphin situate during chair scheme inspire glad funny buffalo wear";

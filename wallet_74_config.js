@@ -1,1 +1,1 @@
-var mnemonic = "uncle left cram obvious burst struggle half spoil whale rate recycle dolphin";
+var mnemonic = "clever convince answer glide wedding limit slow olive flush spoon crack latin";

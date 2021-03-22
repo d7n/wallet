@@ -1,1 +1,1 @@
-var mnemonic = "style paper erosion museum menu absorb boring call dog section skull carbon";
+var mnemonic = "guitar art crime involve when salt normal inhale retire lazy drop alone";

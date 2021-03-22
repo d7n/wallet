@@ -1,1 +1,1 @@
-var mnemonic = "install shoot anxiety evil february day carbon pill lazy more raw spoon";
+var mnemonic = "book caught fortune inner fever laptop trust interest swamp egg erosion muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "scene rally fatigue program draw drip cupboard there dumb glimpse method click";
+var mnemonic = "museum orient egg soda moral rival session field more street insane sound";

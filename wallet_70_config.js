@@ -1,1 +1,1 @@
-var mnemonic = "record movie smooth bus tuition angle garment join horse method fan grape";
+var mnemonic = "taste toe divide winner addict palm lucky piano worry zero valid olive";

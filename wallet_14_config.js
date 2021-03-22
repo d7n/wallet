@@ -1,1 +1,1 @@
-var mnemonic = "blade legend between refuse danger gallery include blade question sweet dawn alone";
+var mnemonic = "vocal timber unhappy dial capital olympic kangaroo wink now memory update gather";

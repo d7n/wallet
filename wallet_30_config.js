@@ -1,1 +1,1 @@
-var mnemonic = "harvest hint butter spoon public blind purchase real refuse usage champion ozone";
+var mnemonic = "network sketch donate panic then endless menu analyst flip road tuna raven";

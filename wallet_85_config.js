@@ -1,1 +1,1 @@
-var mnemonic = "away glare fog angry furnace dirt prevent mail tomato gadget voyage biology";
+var mnemonic = "bacon cement meadow marriage million job sorry session pair neck label alert";

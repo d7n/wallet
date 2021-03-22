@@ -1,1 +1,1 @@
-var mnemonic = "swift wool organ unfair curve drip resist small engine opinion host hazard";
+var mnemonic = "off settle comfort title entry diagram myself envelope canoe nut eight edit";

@@ -1,1 +1,1 @@
-var mnemonic = "rack horn rich dumb merge wedding ritual filter client cabbage track minimum";
+var mnemonic = "room hood hood cruel sign alpha smile miss jelly wet final meadow";

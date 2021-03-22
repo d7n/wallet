@@ -1,1 +1,1 @@
-var mnemonic = "setup purse review edge finish install quote minimum vacuum diet curious assault";
+var mnemonic = "stick people someone option actual drive assault tower head theme tornado emotion";

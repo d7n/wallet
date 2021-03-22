@@ -1,1 +1,1 @@
-var mnemonic = "front blast reform pulse annual vehicle day high cliff fluid inform burst";
+var mnemonic = "knock false globe feature exist aerobic liberty monkey banana purchase warrior position";

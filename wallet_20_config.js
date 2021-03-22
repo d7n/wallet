@@ -1,1 +1,1 @@
-var mnemonic = "annual hybrid orchard emotion jazz ball fashion elegant viable mutual blind advance";
+var mnemonic = "useful kangaroo gate mean help box claim gown shop crack knock endorse";

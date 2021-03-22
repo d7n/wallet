@@ -1,1 +1,1 @@
-var mnemonic = "glass toddler note actual age catalog trap link oven engage virus often";
+var mnemonic = "flip jelly nuclear forest humor access fog bubble animal mammal until brush";

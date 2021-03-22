@@ -1,1 +1,1 @@
-var mnemonic = "bone glue hybrid job smooth belt logic ripple suspect rural august next";
+var mnemonic = "view cheap tool order sudden kit tilt stadium time false cat raise";

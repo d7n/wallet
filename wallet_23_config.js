@@ -1,1 +1,1 @@
-var mnemonic = "split hero picnic bird zone robust logic stay evidence electric depart vital";
+var mnemonic = "maze people that truth act defy monster kidney moral hat phone color";

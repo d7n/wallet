@@ -1,1 +1,1 @@
-var mnemonic = "cereal sunny acquire tide replace pioneer finish exclude report demand kangaroo wet";
+var mnemonic = "similar student sorry mansion urge divide captain age aisle isolate bleak dizzy";

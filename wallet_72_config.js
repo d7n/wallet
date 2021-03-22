@@ -1,1 +1,1 @@
-var mnemonic = "grocery glass script space screen rabbit assault divorce pet love elegant color";
+var mnemonic = "fox spatial retreat strong torch excuse number wild effort mansion inspire fish";

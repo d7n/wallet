@@ -1,1 +1,1 @@
-var mnemonic = "shrimp bus buzz dolphin shrug umbrella crush mimic marriage cargo perfect exercise";
+var mnemonic = "this noodle cabbage stage current assault method face muscle absorb clinic traffic";

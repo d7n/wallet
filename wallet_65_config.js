@@ -1,1 +1,1 @@
-var mnemonic = "quality maze toward start orchard old creek book account cover february rely";
+var mnemonic = "occur wide domain accuse liberty deal diamond squirrel finish host tilt innocent";

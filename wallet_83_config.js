@@ -1,1 +1,1 @@
-var mnemonic = "rifle swift woman west trap salmon mystery tuition swamp lemon future near";
+var mnemonic = "vacant goose access april canvas later daring major dinner calm buzz grunt";

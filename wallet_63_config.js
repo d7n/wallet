@@ -1,1 +1,1 @@
-var mnemonic = "result gesture tenant mansion faint pigeon wall draft drum female apart jeans";
+var mnemonic = "oblige trade cover kite cupboard because smart dream quote toast spin fever";

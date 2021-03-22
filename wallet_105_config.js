@@ -1,1 +1,1 @@
-var mnemonic = "mesh palace stand satoshi able elevator dash oven misery absorb morning such";
+var mnemonic = "mean lock coyote open misery glove patient car know wood ignore border";

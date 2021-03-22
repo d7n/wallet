@@ -1,1 +1,1 @@
-var mnemonic = "figure match appear water two tell menu quiz habit voice misery cannon";
+var mnemonic = "child describe black auto catch original evil dinner identify ridge update castle";

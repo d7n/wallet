@@ -1,1 +1,1 @@
-var mnemonic = "annual mammal aunt cable exist knock peace side couple monkey dolphin topple";
+var mnemonic = "essence crazy coyote seed immense blast scrub animal gain tongue resemble leopard";

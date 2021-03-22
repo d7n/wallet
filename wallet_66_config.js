@@ -1,1 +1,1 @@
-var mnemonic = "close knee idle under area eagle surprise night dress talk episode flower";
+var mnemonic = "exit pretty exhaust disagree small lawn spy truly still invest camp define";

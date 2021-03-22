@@ -1,1 +1,1 @@
-var mnemonic = "easily hungry flame purse truly salad moment absurd smile lab edit useful";
+var mnemonic = "second radio cement address poverty relief rifle ignore movie pigeon airport fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "current favorite mimic awful original under raw faint spawn skill rack price";
+var mnemonic = "summer company size travel first also have disagree grid edge flower scout";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster brain wait route mad game brush sense position wink mobile rescue";
+var mnemonic = "doll front steel guard stick addict appear top lonely holiday service disorder";

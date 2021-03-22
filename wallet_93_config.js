@@ -1,1 +1,1 @@
-var mnemonic = "record steel tortoise town cash pitch cable fault antenna asset similar toy";
+var mnemonic = "canoe version pluck canoe liquid atom pattern chuckle ring narrow sure donkey";

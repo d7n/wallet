@@ -1,1 +1,1 @@
-var mnemonic = "eye say hawk owner bonus mom canyon stadium physical card issue long";
+var mnemonic = "smart bundle wood diesel liberty skull admit click buffalo impose prison dizzy";

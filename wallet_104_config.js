@@ -1,1 +1,1 @@
-var mnemonic = "time auction tourist tuna name donkey tuna task suffer above this mansion";
+var mnemonic = "phone noodle expect elephant finger arrow plunge detect night over math meadow";

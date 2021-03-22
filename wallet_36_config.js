@@ -1,1 +1,1 @@
-var mnemonic = "urban pill lift wedding trap rent fox doll pulse fancy segment remain";
+var mnemonic = "gossip welcome wide bachelor popular clown prison supreme exclude dice cover duck";

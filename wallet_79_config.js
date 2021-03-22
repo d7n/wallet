@@ -1,1 +1,1 @@
-var mnemonic = "conduct spawn obey hen baby satoshi meadow eager supply blast stick neck";
+var mnemonic = "hood degree walk poverty until main weekend rural screen arrow upgrade energy";

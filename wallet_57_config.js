@@ -1,1 +1,1 @@
-var mnemonic = "swap venture stage stick damage hurdle spike employ novel lucky sister real";
+var mnemonic = "trumpet panther real gospel plastic degree domain van cup agent just nephew";

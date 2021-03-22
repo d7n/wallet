@@ -1,1 +1,1 @@
-var mnemonic = "supply royal spoil explain plug payment hour axis crumble resist dutch mystery";
+var mnemonic = "order depend spend drive field calm vicious lock devote uniform about suffer";

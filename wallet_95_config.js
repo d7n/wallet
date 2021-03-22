@@ -1,1 +1,1 @@
-var mnemonic = "vague already fuel artwork lawsuit lumber wedding legend oxygen zone rhythm share";
+var mnemonic = "note snap quantum enroll wrap hunt grass excite basic balcony soup ship";

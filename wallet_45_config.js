@@ -1,1 +1,1 @@
-var mnemonic = "wise carbon tongue judge lumber weasel about hungry excuse pen season shallow";
+var mnemonic = "zoo creek pact antenna sad grace stay uncover lunar pulse unusual pencil";

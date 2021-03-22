@@ -1,1 +1,1 @@
-var mnemonic = "iron juice armed grief dust depth wish file illegal delay innocent engage";
+var mnemonic = "over coach wood people engine fame bachelor flock segment horror kingdom universe";

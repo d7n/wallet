@@ -1,1 +1,1 @@
-var mnemonic = "bacon point describe make fancy salon narrow blush boat consider ceiling umbrella";
+var mnemonic = "royal script buzz check liquid enough prefer decrease sketch rack bag magnet";

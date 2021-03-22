@@ -1,1 +1,1 @@
-var mnemonic = "sustain heavy era humble wave motion focus good travel deal slice weekend";
+var mnemonic = "rice moment census seek sting tooth bring daring clay steak upset gaze";

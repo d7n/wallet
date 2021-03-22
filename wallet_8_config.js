@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur trap crack fuel lawn payment year ancient double oven divert olive";
+var mnemonic = "heart arrive assault pair program way cart album wall pudding daring large";

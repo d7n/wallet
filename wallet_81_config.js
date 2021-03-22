@@ -1,1 +1,1 @@
-var mnemonic = "brother kitchen draw machine reduce position order bundle twenty pact afford assault";
+var mnemonic = "fury pair shrug cabin roast isolate mouse soap cover metal aim must";

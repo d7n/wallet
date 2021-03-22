@@ -1,1 +1,1 @@
-var mnemonic = "blame feel bacon ridge behind recipe usage tennis crane eyebrow hero job";
+var mnemonic = "asthma spice trigger black frown faint shaft report twin enjoy focus adult";

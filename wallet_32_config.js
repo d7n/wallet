@@ -1,1 +1,1 @@
-var mnemonic = "soon album oyster vicious music shy trigger weekend embrace output thing loop";
+var mnemonic = "tomorrow elder snack foster pilot praise decrease tornado dumb loop book tourist";

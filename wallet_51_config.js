@@ -1,1 +1,1 @@
-var mnemonic = "scorpion account round knock idle supreme month little math hedgehog dismiss jealous";
+var mnemonic = "dolphin regular chase hat action treat rocket approve ten fold despair exchange";

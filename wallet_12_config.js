@@ -1,1 +1,1 @@
-var mnemonic = "devote zoo race try lemon rose shiver dice basket talk book reject";
+var mnemonic = "connect feed car hurdle solve mean grant brass fruit flame wrong word";

@@ -1,1 +1,1 @@
-var mnemonic = "unable ordinary robust year enable album riot wine omit ticket wedding stuff";
+var mnemonic = "title rabbit rib rabbit skate jungle gap scrub antique timber pepper very";

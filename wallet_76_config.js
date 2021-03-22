@@ -1,1 +1,1 @@
-var mnemonic = "arena always figure water rent base furnace salad then castle wealth welcome";
+var mnemonic = "bacon grit never page champion latin wage kiwi skate mutual ancient basic";

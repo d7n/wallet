@@ -1,1 +1,1 @@
-var mnemonic = "type person water hard great space clerk thought donor call puzzle blast";
+var mnemonic = "addict awkward exist oblige bar omit twist width fetch hour flat brush";

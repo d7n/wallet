@@ -1,1 +1,1 @@
-var mnemonic = "sort social gym key gesture dumb assault label pet spike believe idle";
+var mnemonic = "mesh derive system fish goddess setup defy mail pave virtual initial doctor";

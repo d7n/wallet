@@ -1,1 +1,1 @@
-var mnemonic = "tunnel need risk attack tunnel scare canvas butter roof leave arm syrup";
+var mnemonic = "sphere heart taste evil manage orphan profit tomorrow invest ball better lucky";

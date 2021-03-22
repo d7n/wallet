@@ -1,1 +1,1 @@
-var mnemonic = "service dwarf similar announce rally plug volcano furnace bag rifle veteran weapon";
+var mnemonic = "trick crack donkey hour muffin box tree analyst fatal coin confirm valve";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper popular jelly example elephant trap match giggle link reveal jungle park";
+var mnemonic = "average perfect settle poet include blanket plunge under side digital clump obey";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber ankle child level topple seat club coil victory talk noise language";
+var mnemonic = "dose address hope below foot dentist nurse kind wise custom razor list";

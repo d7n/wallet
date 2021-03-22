@@ -1,1 +1,1 @@
-var mnemonic = "popular suffer thrive script final arctic cigar morning brand voyage april real";
+var mnemonic = "tomato correct stick pool moment raven castle science day inner shine swallow";

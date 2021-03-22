@@ -1,1 +1,1 @@
-var mnemonic = "network beef notice round devote member lesson bottom fun flower moral usage";
+var mnemonic = "wonder rain apart radio wisdom jeans consider stove antenna cover pen bright";

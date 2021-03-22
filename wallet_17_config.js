@@ -1,1 +1,1 @@
-var mnemonic = "three dove advance grant weapon message absorb expand enact speed survey dentist";
+var mnemonic = "cheese father witness raccoon shoe neither fiction sand dizzy bounce ahead tool";

@@ -1,1 +1,1 @@
-var mnemonic = "erase crucial vehicle region aspect hammer normal quote quality cargo runway pill";
+var mnemonic = "wonder liquid parent remember balance bless dumb paddle brisk example actual february";

@@ -1,1 +1,1 @@
-var mnemonic = "help busy produce discover uncle slow power era inherit output poet pledge";
+var mnemonic = "student sentence mistake layer bar wife license element script used require happy";

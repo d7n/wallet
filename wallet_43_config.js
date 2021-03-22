@@ -1,1 +1,1 @@
-var mnemonic = "moon all suffer craft gorilla cherry melody hint vacuum appear define sheriff";
+var mnemonic = "cigar team vacant maple gorilla model snap primary vicious festival assume sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "rain ticket style fancy kick provide island private jump page fiber ocean";
+var mnemonic = "promote shove vault interest figure old promote ghost box attack mountain remind";

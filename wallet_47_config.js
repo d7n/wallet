@@ -1,1 +1,1 @@
-var mnemonic = "lumber man topple motor praise spot hat shell blanket spare juice rich";
+var mnemonic = "sail general alter thing blanket quiz school tip gadget soccer over online";

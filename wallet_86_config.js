@@ -1,1 +1,1 @@
-var mnemonic = "metal hen estate garden fine shiver order skull fancy announce sock panic";
+var mnemonic = "glove fly video fiber cabbage universe energy cycle away grow swing equal";

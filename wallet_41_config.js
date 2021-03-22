@@ -1,1 +1,1 @@
-var mnemonic = "pole raven panel property firm kitchen virus ugly crucial plunge situate essence";
+var mnemonic = "tennis oblige end fuel olive today atom defense polar solar viable citizen";
