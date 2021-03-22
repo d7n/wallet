@@ -1,1 +1,1 @@
-var mnemonic = "figure wish castle degree hurdle snap until raccoon salmon leopard airport mimic";
+var mnemonic = "great local civil inspire tooth lab life lady regret when burden hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "problem man follow economy pass liberty pottery village orchard rubber column dignity";
+var mnemonic = "strong foot spell magic wage estate layer hover paddle unfair wealth denial";

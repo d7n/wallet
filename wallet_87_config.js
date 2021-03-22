@@ -1,1 +1,1 @@
-var mnemonic = "digital rack purpose gather dizzy useful price quit rocket source page gorilla";
+var mnemonic = "ticket print bag subway raccoon south cluster satoshi excess fiber happy reward";

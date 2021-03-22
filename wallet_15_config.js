@@ -1,1 +1,1 @@
-var mnemonic = "tongue jazz disease usage tomorrow artefact entry coast leg isolate future bachelor";
+var mnemonic = "kitchen frame ranch fade genius memory post modify myself idle begin lend";

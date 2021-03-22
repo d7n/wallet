@@ -1,1 +1,1 @@
-var mnemonic = "people eight woman mirror woman arch august wheel panther cool easy target";
+var mnemonic = "left radio merry weather flag garlic earth giggle phone alarm choice dismiss";

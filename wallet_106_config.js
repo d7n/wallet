@@ -1,1 +1,1 @@
-var mnemonic = "gesture permit boost recall great wash tumble pen blind tenant avoid offer";
+var mnemonic = "cool maximum genuine during anger decrease cushion garlic story lend render tiger";

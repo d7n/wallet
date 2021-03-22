@@ -1,1 +1,1 @@
-var mnemonic = "wheat drink alert trim today embody waste change volume enact pink matter";
+var mnemonic = "prepare problem addict must cream stumble float miss bunker hammer pair salon";

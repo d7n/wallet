@@ -1,1 +1,1 @@
-var mnemonic = "ski neck unfair screen action zone inner high dignity noise gasp ticket";
+var mnemonic = "alpha february rocket element cruel suggest mixture error audit tired subject sick";

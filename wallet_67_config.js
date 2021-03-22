@@ -1,1 +1,1 @@
-var mnemonic = "busy range vibrant festival flock funny fine neglect tribe wish kingdom inhale";
+var mnemonic = "cook snack become clutch catch student excess abstract audit toilet garment box";

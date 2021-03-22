@@ -1,1 +1,1 @@
-var mnemonic = "engine future baby cover champion attract wood october fence suspect upon ring";
+var mnemonic = "diesel ugly razor piano solid humble game menu morning that social penalty";

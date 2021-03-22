@@ -1,1 +1,1 @@
-var mnemonic = "little page lava country length clock mask sword relief lottery system sure";
+var mnemonic = "since sustain report awkward vacuum thought skate critic merry actual junior liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket shallow behind swarm zone beyond fat merge siege marriage orange tide";
+var mnemonic = "grit woman slab truck very enemy zone oxygen object swap penalty copy";

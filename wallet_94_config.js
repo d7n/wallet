@@ -1,1 +1,1 @@
-var mnemonic = "coconut boss place dice lounge onion slogan option disorder nephew chuckle ring";
+var mnemonic = "suggest include wreck reward reform clap hurry oyster final apology eight crack";

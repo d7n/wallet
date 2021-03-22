@@ -1,1 +1,1 @@
-var mnemonic = "dad cancel bachelor mom tree long note mad fat firm stairs online";
+var mnemonic = "expect vast hurt improve recall minimum mass biology cause frequent ball sea";

@@ -1,1 +1,1 @@
-var mnemonic = "repair employ range engage select plastic common earn history veteran resource fiction";
+var mnemonic = "nest you enhance pitch awesome basket lucky possible title asthma lava net";

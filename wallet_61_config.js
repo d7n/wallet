@@ -1,1 +1,1 @@
-var mnemonic = "audit render student segment satoshi random rich lizard scan absurd know unit";
+var mnemonic = "room coyote twelve birth table cause hold exercise situate frame clap fringe";

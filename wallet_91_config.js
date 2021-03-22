@@ -1,1 +1,1 @@
-var mnemonic = "mention mule cross napkin basic spirit matrix dune elegant cancel fall mirror";
+var mnemonic = "sick winner raven please express stand belt soft assault sample wood release";

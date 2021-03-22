@@ -1,1 +1,1 @@
-var mnemonic = "produce keen ramp physical garden battle swear rich claim acquire genius thank";
+var mnemonic = "annual merit void battle flee boss order habit brother infant detect critic";

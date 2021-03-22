@@ -1,1 +1,1 @@
-var mnemonic = "rally gold victory absent street buyer consider steel theme surface recipe goat";
+var mnemonic = "jazz eye butter latin nice below rule aunt excess evoke brick unfair";

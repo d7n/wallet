@@ -1,1 +1,1 @@
-var mnemonic = "report twelve cup cruel jungle tooth noise humor toast load disagree seed";
+var mnemonic = "cousin story wise obscure aunt shock appear blur enroll jaguar west clutch";

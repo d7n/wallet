@@ -1,1 +1,1 @@
-var mnemonic = "inject visit chef vanish public august concert gloom nation wear fine kingdom";
+var mnemonic = "code yellow tube capital search sample ball elder abuse robust parent ritual";

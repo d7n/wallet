@@ -1,1 +1,1 @@
-var mnemonic = "demand culture burden cloth account sweet quality glare make stand jaguar drum";
+var mnemonic = "swamp wild reopen until similar below joke half cluster bamboo damage light";

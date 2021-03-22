@@ -1,1 +1,1 @@
-var mnemonic = "together awesome note core flash used favorite clock capable early dice brain";
+var mnemonic = "arch ignore argue erode start custom naive wedding mother swamp life cat";

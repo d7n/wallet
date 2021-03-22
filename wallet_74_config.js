@@ -1,1 +1,1 @@
-var mnemonic = "transfer powder attend spoon area first torch left opinion symptom scale slide";
+var mnemonic = "gym enemy digital vacuum relief kind move absurd couple ugly cake drastic";

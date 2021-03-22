@@ -1,1 +1,1 @@
-var mnemonic = "drill match hen welcome leader symbol urban gain wise chunk manage core";
+var mnemonic = "material settle relief lab art leopard amateur uncover aim cotton poem original";

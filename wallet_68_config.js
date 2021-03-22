@@ -1,1 +1,1 @@
-var mnemonic = "wine embark winter evolve zone peasant announce fancy country genius fall sadness";
+var mnemonic = "green long depth blouse outdoor sock measure duck brick swim hedgehog when";

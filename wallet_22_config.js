@@ -1,1 +1,1 @@
-var mnemonic = "material strategy utility dress grass grass hotel baby isolate dust pause movie";
+var mnemonic = "forest siren junior entry twenty unfair add start early stock share sadness";

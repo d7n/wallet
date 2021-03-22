@@ -1,1 +1,1 @@
-var mnemonic = "guilt glory virus truth lens school claim detect body garden project identify";
+var mnemonic = "hundred better crouch naive exist style trophy play live jaguar duck cool";

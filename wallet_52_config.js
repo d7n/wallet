@@ -1,1 +1,1 @@
-var mnemonic = "return cancel fork confirm dinner security dove fortune fortune decide manage outer";
+var mnemonic = "resource trap edit slush behave lunar couple valley prison pretty rifle web";

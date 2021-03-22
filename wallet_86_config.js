@@ -1,1 +1,1 @@
-var mnemonic = "air oppose deposit parent present either deputy dynamic snack loop either year";
+var mnemonic = "frame treat sponsor coffee squeeze insect copper sail jar gather rhythm celery";

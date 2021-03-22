@@ -1,1 +1,1 @@
-var mnemonic = "pluck twist athlete guess weather urge virtual beyond dose protect exercise essay";
+var mnemonic = "arrive youth tumble net base garage boring deputy spend subject write satisfy";

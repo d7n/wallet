@@ -1,1 +1,1 @@
-var mnemonic = "sentence come stumble legend wet hint reflect huge shed sting jewel deal";
+var mnemonic = "model ten cricket elevator slim width mail camera bronze duty seek truly";

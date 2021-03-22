@@ -1,1 +1,1 @@
-var mnemonic = "parrot cream enter have father october pair retreat winner drop jacket abandon";
+var mnemonic = "remember critic mansion marriage maze famous collect fresh forest senior monitor reward";

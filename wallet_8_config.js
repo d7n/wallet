@@ -1,1 +1,1 @@
-var mnemonic = "prevent sign will slush armed dirt stick entire curtain like anchor trumpet";
+var mnemonic = "beyond hammer young candy mango core lava stadium beach match social run";

@@ -1,1 +1,1 @@
-var mnemonic = "latin glove remove month recall behave eagle latin bone chalk grit reopen";
+var mnemonic = "brush crater peace foil glare pioneer develop saddle market tell kitchen tail";

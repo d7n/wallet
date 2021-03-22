@@ -1,1 +1,1 @@
-var mnemonic = "bracket laptop hobby start basket minimum economy october wisdom off slot total";
+var mnemonic = "confirm retreat estate unit rail drip dad joy insane tennis speed much";

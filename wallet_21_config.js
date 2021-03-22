@@ -1,1 +1,1 @@
-var mnemonic = "grid canvas bottom bottom disagree replace metal bamboo dentist property inner lemon";
+var mnemonic = "antique jelly like today peace lizard into emerge typical fatal accuse edge";

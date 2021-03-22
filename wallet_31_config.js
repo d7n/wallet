@@ -1,1 +1,1 @@
-var mnemonic = "immense differ olive vital embody history spot devote loop option trade spend";
+var mnemonic = "usual bag gadget pattern cover blue enforce vessel harsh ten scissors bread";

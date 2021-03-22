@@ -1,1 +1,1 @@
-var mnemonic = "skin photo celery adjust setup sail bike powder shove toddler napkin pass";
+var mnemonic = "task category rotate extra immune earth task strong shuffle elbow escape quote";

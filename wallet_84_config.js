@@ -1,1 +1,1 @@
-var mnemonic = "friend garage lounge achieve merit robot void alert brave margin term beyond";
+var mnemonic = "gown stamp scare mushroom eye inflict draft tragic employ wing then moral";

@@ -1,1 +1,1 @@
-var mnemonic = "bus lyrics blood unfold render turkey forum end vote shadow sad canvas";
+var mnemonic = "benefit camera margin veteran trick royal explain exercise repair column erupt mad";

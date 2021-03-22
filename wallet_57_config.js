@@ -1,1 +1,1 @@
-var mnemonic = "patch pill surface size palm embody drastic bar labor trim survey ensure";
+var mnemonic = "clean egg tent elevator test between inhale adult depart never ill summer";

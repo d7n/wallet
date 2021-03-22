@@ -1,1 +1,1 @@
-var mnemonic = "art cruise wash income danger photo truly body jeans essence latin agree";
+var mnemonic = "luggage soap like slight mind runway eternal claim emerge viable involve climb";

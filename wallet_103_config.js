@@ -1,1 +1,1 @@
-var mnemonic = "subway reflect circle pear fancy inflict phrase immense park gorilla coach humor";
+var mnemonic = "term pluck horn nominee swift verb ankle prepare romance obvious equal meat";

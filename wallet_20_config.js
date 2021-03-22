@@ -1,1 +1,1 @@
-var mnemonic = "leaf purse push hurry hidden wet glad pact system run egg limit";
+var mnemonic = "deal pet pig future educate clap deposit address have tape index surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "advance ocean ancient curious install cinnamon animal ostrich arrow skirt hammer second";
+var mnemonic = "rice add canyon modify exercise true minimum ocean multiply memory vessel firm";

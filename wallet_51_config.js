@@ -1,1 +1,1 @@
-var mnemonic = "toy budget twenty exile bundle antique search connect ahead hundred dial learn";
+var mnemonic = "edit bring pill fun rude air poverty author connect educate panel ask";

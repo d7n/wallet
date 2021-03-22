@@ -1,1 +1,1 @@
-var mnemonic = "fun judge try stock range tray true oven escape lend sweet draft";
+var mnemonic = "crouch patch cattle universe kit pen dolphin audit cave pepper minor vocal";

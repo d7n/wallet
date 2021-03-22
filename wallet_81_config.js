@@ -1,1 +1,1 @@
-var mnemonic = "main nasty demise family squeeze exercise invite odor eager nerve cat slight";
+var mnemonic = "shallow addict crumble toilet skill lyrics street coin bitter key inflict lazy";

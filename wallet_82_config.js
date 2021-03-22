@@ -1,1 +1,1 @@
-var mnemonic = "because sense jungle option creek space aware topic people refuse report random";
+var mnemonic = "mother carry setup record voyage panther drastic spin favorite demise blind borrow";

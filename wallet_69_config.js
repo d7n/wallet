@@ -1,1 +1,1 @@
-var mnemonic = "upset mistake obtain gaze cargo lock jewel tooth thought term tragic earn";
+var mnemonic = "common remind detect master exercise material trim ahead cloth entire ankle eye";

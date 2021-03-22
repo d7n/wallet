@@ -1,1 +1,1 @@
-var mnemonic = "winter dose shiver easily sock kangaroo inject frog emerge garage grow melt";
+var mnemonic = "injury marine chronic know blue document coffee delay organ employ truly magic";

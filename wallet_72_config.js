@@ -1,1 +1,1 @@
-var mnemonic = "heavy basket suspect armor denial number property anxiety ship about bus cheese";
+var mnemonic = "keep stamp used label pond celery outside corn august check cloud quick";

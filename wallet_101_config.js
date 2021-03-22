@@ -1,1 +1,1 @@
-var mnemonic = "kitten matter remain town guard submit dream bottom image puppy dolphin monster";
+var mnemonic = "fine rose chapter diet fancy scout flee divorce wonder discover century wine";

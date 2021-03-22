@@ -1,1 +1,1 @@
-var mnemonic = "outer lawn bleak unable machine blue position rotate box neither abstract cause";
+var mnemonic = "culture feel seed life spatial hire film dolphin like claw salon peasant";

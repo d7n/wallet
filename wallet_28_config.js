@@ -1,1 +1,1 @@
-var mnemonic = "brain depend mansion outdoor board depart gaze oyster copy hazard clay unfold";
+var mnemonic = "boil mother brush live keen venue metal river jaguar giant merry jealous";

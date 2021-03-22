@@ -1,1 +1,1 @@
-var mnemonic = "case avocado pupil lock slice catalog inject supply grid setup theme tuition";
+var mnemonic = "display check course summer fetch noodle rival vacant adult express soap real";

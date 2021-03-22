@@ -1,1 +1,1 @@
-var mnemonic = "pulse faith ceiling damage potato guess faculty brief blast oval swallow machine";
+var mnemonic = "flip mimic federal favorite nurse despair ghost sniff receive purity recycle physical";

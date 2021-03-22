@@ -1,1 +1,1 @@
-var mnemonic = "utility scheme inside seat rally hammer blouse same tuna elevator exhaust neck";
+var mnemonic = "twenty typical orange message trust answer glimpse kiss tag regret coil supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid cereal fire purse useless fit entire orphan grief hospital expect maximum";
+var mnemonic = "unknown cushion plastic forest food mobile sell state town sport fish more";

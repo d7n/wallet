@@ -1,1 +1,1 @@
-var mnemonic = "excess rude dance until bamboo slow owner idle hobby universe copy random";
+var mnemonic = "cat grief novel damp combine lucky symbol ship fit stadium symptom health";

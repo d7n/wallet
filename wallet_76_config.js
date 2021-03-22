@@ -1,1 +1,1 @@
-var mnemonic = "result unable admit arrange wedding promote trip soul crane receive glad entry";
+var mnemonic = "camera amount next damp tuition mechanic avoid insane morning runway dawn render";

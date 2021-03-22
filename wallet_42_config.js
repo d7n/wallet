@@ -1,1 +1,1 @@
-var mnemonic = "decrease burst broccoli crazy ocean control like beef spirit dolphin garden loyal";
+var mnemonic = "puzzle task fall display page noise picture enlist face myself local decrease";

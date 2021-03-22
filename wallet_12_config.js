@@ -1,1 +1,1 @@
-var mnemonic = "december weekend firm position dice mind club fatigue addict path warm sing";
+var mnemonic = "funny sun wrestle asthma music brush once claw flush desk ticket now";

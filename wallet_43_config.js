@@ -1,1 +1,1 @@
-var mnemonic = "raw engage chaos leg click clap unveil early disagree eight mystery math";
+var mnemonic = "timber aim improve loud evil thumb rude hammer attract shock open tunnel";

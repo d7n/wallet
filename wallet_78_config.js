@@ -1,1 +1,1 @@
-var mnemonic = "bonus tomato share february attitude scout wreck forget achieve artist obscure cabbage";
+var mnemonic = "saddle quick fiber solve whale foster rebuild awake sister lucky sibling bundle";

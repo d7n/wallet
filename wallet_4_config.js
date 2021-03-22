@@ -1,1 +1,1 @@
-var mnemonic = "other wheel eyebrow evoke enhance apart baby elevator clutch famous pool air";
+var mnemonic = "company time notable differ game height job burden duty volcano shrimp rather";

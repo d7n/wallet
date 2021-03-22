@@ -1,1 +1,1 @@
-var mnemonic = "holiday shock error pole flash tenant address garden ceiling quiz limb enhance";
+var mnemonic = "gap gorilla ecology fiscal toast mango panther emerge pitch weekend sphere name";

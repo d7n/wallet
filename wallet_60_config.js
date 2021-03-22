@@ -1,1 +1,1 @@
-var mnemonic = "kidney hurt where art glue orange blanket depart stool chat debris kind";
+var mnemonic = "wagon isolate lucky drop push theme misery woman subject meat domain clog";

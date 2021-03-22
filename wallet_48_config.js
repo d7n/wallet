@@ -1,1 +1,1 @@
-var mnemonic = "minimum genuine fame fetch outdoor toy joke design prize cook plastic decade";
+var mnemonic = "already giggle shell hole friend order stock just enemy pyramid glove palace";

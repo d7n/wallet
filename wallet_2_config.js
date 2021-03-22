@@ -1,1 +1,1 @@
-var mnemonic = "panel custom type swift front sustain lend census faculty craft group govern";
+var mnemonic = "bounce device mistake happy chuckle naive orange tuition total cheap injury fire";

@@ -1,1 +1,1 @@
-var mnemonic = "country kitten step salt sibling slender royal whale sound thrive prize envelope";
+var mnemonic = "kiwi review identify nut moon renew rigid face equal rebuild desert plate";

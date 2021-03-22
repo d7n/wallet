@@ -1,1 +1,1 @@
-var mnemonic = "source eagle return forum spoon claim auto fringe vacuum inhale elder multiply";
+var mnemonic = "upset assist avoid any gallery interest stand eight around until receive attend";

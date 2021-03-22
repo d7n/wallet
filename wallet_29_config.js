@@ -1,1 +1,1 @@
-var mnemonic = "audit tattoo idle rug drill settle social duck illegal adult thought alarm";
+var mnemonic = "divert impact fee tunnel current casual gospel exchange wealth reason shift bubble";

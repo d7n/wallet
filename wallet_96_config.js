@@ -1,1 +1,1 @@
-var mnemonic = "manage will behave pupil domain among next frog muscle brain chat switch";
+var mnemonic = "grant analyst recall neither goddess join virtual balcony concert umbrella pen tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "antique note river hire two until observe recipe idle wait begin crack";
+var mnemonic = "hello apple system scrap affair pond sock file canvas arrange sadness opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "glance empty dentist various tomorrow flight across add fall later insane unaware";
+var mnemonic = "bachelor insect media language arctic pluck hour double hammer announce join toss";

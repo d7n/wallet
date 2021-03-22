@@ -1,1 +1,1 @@
-var mnemonic = "taste test taxi magnet unknown olive purchase item rare crouch account bargain";
+var mnemonic = "fiction ball what clerk buffalo mean cricket blind pave worry enlist airport";

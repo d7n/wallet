@@ -1,1 +1,1 @@
-var mnemonic = "marriage monkey adult genre delay detect great awkward obscure prosper shock canoe";
+var mnemonic = "velvet genre pudding detect enjoy spin popular giraffe add arm truck because";

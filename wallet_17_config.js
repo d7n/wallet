@@ -1,1 +1,1 @@
-var mnemonic = "bag session goddess drama fatigue grape consider below palace upper never can";
+var mnemonic = "peasant harsh miracle sand grass such lamp disorder shoe similar east curious";

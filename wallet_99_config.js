@@ -1,1 +1,1 @@
-var mnemonic = "find ketchup any exist tortoise jelly cereal just system chair vapor confirm";
+var mnemonic = "middle garage flash weather drift upon culture float name galaxy manual large";

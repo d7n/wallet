@@ -1,1 +1,1 @@
-var mnemonic = "senior visual monster leader february strike someone mask letter gauge drip tomorrow";
+var mnemonic = "disease chase black plastic skill scene fragile fame mercy obscure payment you";

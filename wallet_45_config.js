@@ -1,1 +1,1 @@
-var mnemonic = "maple member system original enable remind jealous educate replace mom coil donate";
+var mnemonic = "lazy chuckle trend spring force require olive car story symbol pattern siren";

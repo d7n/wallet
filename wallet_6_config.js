@@ -1,1 +1,1 @@
-var mnemonic = "cherry mosquito business repair sniff tag merge penalty empty goddess drive dignity";
+var mnemonic = "desert kiwi then regular loan impact winner rude crater purchase major media";

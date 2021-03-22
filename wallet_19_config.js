@@ -1,1 +1,1 @@
-var mnemonic = "zoo undo crime sort room refuse copy program romance august hood cost";
+var mnemonic = "ghost above fence neutral innocent long spray fury lend detect hidden spider";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet tool entry autumn resource stem diamond switch width ladder endless track";
+var mnemonic = "pass suffer borrow fire boost oven seed ticket exclude glance avocado load";

@@ -1,1 +1,1 @@
-var mnemonic = "globe roast elite bright slow skull dial expect pepper team tank gospel";
+var mnemonic = "theme shield robust field fluid fury innocent apology food strong relax collect";

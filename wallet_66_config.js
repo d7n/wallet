@@ -1,1 +1,1 @@
-var mnemonic = "dolphin illegal proud excess sun record rookie rude staff employ ivory absurd";
+var mnemonic = "elbow scorpion ride club swarm ready quality hour few box quality clarify";

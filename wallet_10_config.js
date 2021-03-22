@@ -1,1 +1,1 @@
-var mnemonic = "unaware fine volcano quality awful ostrich toe office quantum fix news voice";
+var mnemonic = "search simple sail drop cross eye harbor electric strong nice green sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "call hood voyage table gauge orchard notable room milk planet powder dream";
+var mnemonic = "earn idea village loyal reject arrest soon twelve rack bread stadium hover";

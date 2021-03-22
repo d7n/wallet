@@ -1,1 +1,1 @@
-var mnemonic = "virtual motor abstract cause three forum term rubber knee cook fat upgrade";
+var mnemonic = "permit egg panel oil owner bachelor coyote verb divorce eight work case";

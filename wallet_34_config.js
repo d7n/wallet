@@ -1,1 +1,1 @@
-var mnemonic = "very bonus bean insane veteran insect place treat jewel narrow idea answer";
+var mnemonic = "true fat either exclude marriage roast blossom scatter absurd magic jeans scare";

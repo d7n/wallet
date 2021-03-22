@@ -1,1 +1,1 @@
-var mnemonic = "clock boring solve diary perfect spoil because icon jealous outdoor method crumble";
+var mnemonic = "fly stove execute sick trip win citizen soap resource face bless erupt";

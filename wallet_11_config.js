@@ -1,1 +1,1 @@
-var mnemonic = "gossip trophy skull yard actress one rival profit artwork exit time casino";
+var mnemonic = "debate equal vacant planet bike manage magic cool envelope salad humble tired";
