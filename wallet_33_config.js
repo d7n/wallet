@@ -1,1 +1,1 @@
-var mnemonic = "minimum impose arrive film soul stool crunch cluster traffic local elder rebuild";
+var mnemonic = "mother first leisure wool puzzle relax filter once garden group great sock";

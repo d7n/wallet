@@ -1,1 +1,1 @@
-var mnemonic = "chest choose horse veteran argue churn turkey second loan demise cable panic";
+var mnemonic = "clog blast business neck festival rescue citizen wonder decorate drum submit balance";

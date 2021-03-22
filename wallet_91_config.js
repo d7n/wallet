@@ -1,1 +1,1 @@
-var mnemonic = "matter student fun runway bamboo bacon alert oppose denial sight position advice";
+var mnemonic = "disagree animal season jazz alarm bean cheap kidney chronic sand swamp identify";

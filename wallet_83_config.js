@@ -1,1 +1,1 @@
-var mnemonic = "cart knife pencil neither enroll certain draft exist choose menu frame tackle";
+var mnemonic = "artwork salon obscure void enlist clever cream brave sort open hour since";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn flock ensure tissue notice swamp always silent mango exhibit unveil risk";
+var mnemonic = "then abandon sense offer denial tourist crucial throw barely bless cruise betray";

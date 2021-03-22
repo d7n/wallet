@@ -1,1 +1,1 @@
-var mnemonic = "place impose galaxy point peasant witness space success across tenant limit mother";
+var mnemonic = "simple scheme tree benefit sugar venue eye hollow boost win ankle dragon";

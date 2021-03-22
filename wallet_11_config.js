@@ -1,1 +1,1 @@
-var mnemonic = "stool ugly kit setup south voyage stage secret spread flame boost gauge";
+var mnemonic = "venture lava pass monitor useless sustain inform access pause eight kit empower";

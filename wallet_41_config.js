@@ -1,1 +1,1 @@
-var mnemonic = "gate arm junior this avocado waste fragile frequent antique force point about";
+var mnemonic = "explain together calm brass paddle robot effort order blood pitch enlist combine";

@@ -1,1 +1,1 @@
-var mnemonic = "hello soldier skirt cattle twenty tent run peace cover ecology winter tower";
+var mnemonic = "dinner dwarf bottom destroy demand joke supply dust warfare vast jealous nephew";

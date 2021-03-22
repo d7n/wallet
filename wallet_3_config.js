@@ -1,1 +1,1 @@
-var mnemonic = "vote better web abuse debris recycle tuition prefer jaguar slab room sword";
+var mnemonic = "become expand skin whale year copy raw sword month message eyebrow miracle";

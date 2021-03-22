@@ -1,1 +1,1 @@
-var mnemonic = "viable excuse crucial pioneer friend wrap smile coral attend hub fade gallery";
+var mnemonic = "life inform swap acquire force poet voyage review manage creek clever spirit";

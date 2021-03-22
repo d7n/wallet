@@ -1,1 +1,1 @@
-var mnemonic = "mandate client elevator gaze celery client position never cruel mesh sting side";
+var mnemonic = "spoil either flash defense mountain heavy warm captain width dice interest all";

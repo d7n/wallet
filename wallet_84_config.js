@@ -1,1 +1,1 @@
-var mnemonic = "door great eyebrow error inhale welcome pull vote exact icon more equal";
+var mnemonic = "toy yellow already force unfair code scrub input arch farm bean quote";

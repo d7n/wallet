@@ -1,1 +1,1 @@
-var mnemonic = "spin embrace project marine fancy device own labor sketch light carbon task";
+var mnemonic = "pluck key stem fly vocal laptop away agent find earth will direct";

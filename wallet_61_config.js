@@ -1,1 +1,1 @@
-var mnemonic = "short auction orient teach liberty gallery version gadget immune destroy sound fault";
+var mnemonic = "long exercise rack mistake excess electric crime table oval tonight weird glass";

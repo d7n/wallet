@@ -1,1 +1,1 @@
-var mnemonic = "april spot success million enemy smile one noodle loyal misery cream novel";
+var mnemonic = "float inflict lounge canyon marine act staff have since silent avoid multiply";

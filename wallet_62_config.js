@@ -1,1 +1,1 @@
-var mnemonic = "spawn better suit frozen marble install siege fine initial cash afraid other";
+var mnemonic = "system also click ladder detail hip chicken ritual witness search online patient";

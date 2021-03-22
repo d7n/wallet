@@ -1,1 +1,1 @@
-var mnemonic = "kiwi unhappy craft cute kit survey thank entry melt hire armed degree";
+var mnemonic = "hunt cat common wonder innocent gadget usage speak among believe treat square";

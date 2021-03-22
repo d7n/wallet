@@ -1,1 +1,1 @@
-var mnemonic = "case solid cause outer eternal speak outside vanish whip spoon sleep chalk";
+var mnemonic = "buffalo cave banner spice kit shine room record raise bachelor member pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic apple tell muscle squeeze wedding actress banana melody donate such abuse";
+var mnemonic = "turtle fat menu three wing arrive seminar clutch champion defy smooth select";

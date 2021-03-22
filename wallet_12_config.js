@@ -1,1 +1,1 @@
-var mnemonic = "also gauge error auto accident seat dignity march intact stadium guitar delay";
+var mnemonic = "detect audit abandon utility used relief hundred upper knock miss bonus casino";

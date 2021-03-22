@@ -1,1 +1,1 @@
-var mnemonic = "solution comfort glue habit disagree black define pill hotel bullet produce practice";
+var mnemonic = "lazy expand output ladder squeeze merit doctor motion solar april label express";

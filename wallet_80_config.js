@@ -1,1 +1,1 @@
-var mnemonic = "arctic ignore shallow submit net car enhance wall expire sister finish silent";
+var mnemonic = "today injury one tired imitate digital garbage casual general town chalk index";

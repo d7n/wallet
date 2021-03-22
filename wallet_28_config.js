@@ -1,1 +1,1 @@
-var mnemonic = "leader mask utility almost escape hip energy coffee leopard favorite fine skirt";
+var mnemonic = "sphere scatter donate ritual ceiling agree method sure unique guide strike spawn";

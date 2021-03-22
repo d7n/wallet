@@ -1,1 +1,1 @@
-var mnemonic = "breeze link ice mirror scrap gadget coral solution army rice tortoise person";
+var mnemonic = "amused brave neglect strong machine peace crowd filter glare melt valve moral";

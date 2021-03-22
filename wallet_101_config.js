@@ -1,1 +1,1 @@
-var mnemonic = "dilemma acid input hole erosion false candy life retire grass battle casino";
+var mnemonic = "mixture cross mirror save napkin verb metal news perfect lamp pattern survey";

@@ -1,1 +1,1 @@
-var mnemonic = "sock steak write pistol volcano cube exist regret key claw path retire";
+var mnemonic = "punch razor adjust credit carpet control spider file develop phrase boat window";

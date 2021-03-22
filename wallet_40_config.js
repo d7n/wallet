@@ -1,1 +1,1 @@
-var mnemonic = "snack uniform bubble script equip pill zebra day civil science crucial direct";
+var mnemonic = "certain actress hope repeat bundle flower regret innocent name clump cost fluid";

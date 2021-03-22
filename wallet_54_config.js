@@ -1,1 +1,1 @@
-var mnemonic = "robust escape believe stage when athlete glory expire steak concert convince quiz";
+var mnemonic = "final cycle suspect theory fashion traffic item fetch neither motion exhaust rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "tell squirrel fatigue carry during together gown illness club nurse script agree";
+var mnemonic = "balcony weapon two similar naive found destroy prepare powder cycle absurd draw";

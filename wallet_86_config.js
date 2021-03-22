@@ -1,1 +1,1 @@
-var mnemonic = "feed excite problem harsh farm witness lock cash senior shoulder boring kit";
+var mnemonic = "view convince cycle boat beauty jeans talent define general panther material basket";

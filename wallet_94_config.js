@@ -1,1 +1,1 @@
-var mnemonic = "much excess cheese table aspect birth fence say rescue document cart rug";
+var mnemonic = "pledge tower toe rice cloth travel urge own thrive curve cook fossil";

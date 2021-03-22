@@ -1,1 +1,1 @@
-var mnemonic = "wire fish thing option dynamic filter fish impulse abandon school pluck actress";
+var mnemonic = "success raw brief mandate wool fish catalog observe title drill pottery jazz";

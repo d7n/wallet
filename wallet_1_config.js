@@ -1,1 +1,1 @@
-var mnemonic = "lamp around grunt suggest payment width theme round knife kick wet bean";
+var mnemonic = "pretty blast element tackle hope original rescue trim enable ghost refuse bleak";

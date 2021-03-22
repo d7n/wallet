@@ -1,1 +1,1 @@
-var mnemonic = "million inner expose provide antenna oppose early skull unit move rural magnet";
+var mnemonic = "waste urge lottery return impulse mutual left century kitchen furnace chef error";

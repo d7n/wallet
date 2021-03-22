@@ -1,1 +1,1 @@
-var mnemonic = "oil like orphan between awake busy lion olive cheese detect board pelican";
+var mnemonic = "rally siege wealth neglect between guilt slab poverty gravity hedgehog meat tribe";

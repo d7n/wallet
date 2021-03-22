@@ -1,1 +1,1 @@
-var mnemonic = "vacuum ridge scissors when venture victory photo jelly van athlete right acquire";
+var mnemonic = "rib around mammal maximum wide rescue flavor copy black share inflict cheap";

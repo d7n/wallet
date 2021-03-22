@@ -1,1 +1,1 @@
-var mnemonic = "sketch desk enroll fine panther illness main august turkey crawl ridge reopen";
+var mnemonic = "issue alarm aim north cook gown viable spider man lizard net barely";

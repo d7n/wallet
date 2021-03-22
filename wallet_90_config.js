@@ -1,1 +1,1 @@
-var mnemonic = "cheese wagon parent number enable ethics hospital uphold awake person wheel square";
+var mnemonic = "culture angle million replace aunt enjoy debris walk arctic army state custom";

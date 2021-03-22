@@ -1,1 +1,1 @@
-var mnemonic = "type announce pepper quantum insect lawsuit cube topic blood grab concert spare";
+var mnemonic = "math select person staff tragic stumble remain pyramid mosquito cabbage share fault";

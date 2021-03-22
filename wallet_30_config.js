@@ -1,1 +1,1 @@
-var mnemonic = "gown enter artefact thank entry coffee any play treat paper elegant crazy";
+var mnemonic = "canvas feature cricket grape bulb disagree surge over law better knife length";

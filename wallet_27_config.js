@@ -1,1 +1,1 @@
-var mnemonic = "spin vital sausage renew saddle bless soap slim volcano palace upper coast";
+var mnemonic = "unknown real cliff three rescue garage rare guess tube zero steel casual";

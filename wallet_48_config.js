@@ -1,1 +1,1 @@
-var mnemonic = "grape huge icon inflict dwarf unable tape trend sunset indicate ancient cargo";
+var mnemonic = "fresh buzz oval blue uncle frog mammal obscure august then bless diary";

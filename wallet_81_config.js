@@ -1,1 +1,1 @@
-var mnemonic = "marriage nominee cloud addict scatter wish train obey dish hair often art";
+var mnemonic = "frown column kitchen pledge denial hammer cruel slim hip spray useful royal";

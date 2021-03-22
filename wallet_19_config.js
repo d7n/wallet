@@ -1,1 +1,1 @@
-var mnemonic = "interest blade language diesel hill second bone ecology van quit drip shed";
+var mnemonic = "bomb crouch angle debate nephew cupboard raven profit rough turkey sphere cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel credit wink scare dignity grid cup arm bird toast toilet aim";
+var mnemonic = "brother manual bonus young inch involve crystal trend vast drastic glare consider";

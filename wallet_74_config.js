@@ -1,1 +1,1 @@
-var mnemonic = "either promote erosion father stick valve ride actress awake cement curtain ticket";
+var mnemonic = "tiger drastic fantasy feature comic indicate drink learn bid defense unveil detect";

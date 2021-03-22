@@ -1,1 +1,1 @@
-var mnemonic = "nature shoulder drive excuse cost chest amount art rubber aim alley lounge";
+var mnemonic = "useless slogan involve cage village mean notice frequent you this worry book";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma atom okay setup apology wisdom salt april deer conduct wrist quote";
+var mnemonic = "razor arrive fire inmate stay witness ridge you home figure hour soccer";

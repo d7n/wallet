@@ -1,1 +1,1 @@
-var mnemonic = "work between length give naive actual consider route cotton evil trend tissue";
+var mnemonic = "dentist isolate reveal speak rug pudding speak today polar visa act fruit";

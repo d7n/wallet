@@ -1,1 +1,1 @@
-var mnemonic = "sure idle adapt ritual good shock museum drift bundle end train reward";
+var mnemonic = "tiny salt nothing alter home spy leg jungle loan sleep leopard hand";

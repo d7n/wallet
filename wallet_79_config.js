@@ -1,1 +1,1 @@
-var mnemonic = "stay false hill tank promote item trim satoshi lock combine castle fit";
+var mnemonic = "digital canyon bid perfect original wisdom wool parrot pulse engage tourist glare";

@@ -1,1 +1,1 @@
-var mnemonic = "motion notable scorpion equip shift coach frog fatal click adult must science";
+var mnemonic = "clutch record very fence ritual rocket stomach enforce betray size skill cook";

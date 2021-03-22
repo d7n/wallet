@@ -1,1 +1,1 @@
-var mnemonic = "pool outer asset float top large crop reflect ozone hollow long item";
+var mnemonic = "loan weird route dish inner fence burger saddle initial kitchen odor genius";

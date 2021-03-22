@@ -1,1 +1,1 @@
-var mnemonic = "member office shadow pole venture game cheap mushroom text napkin panel drift";
+var mnemonic = "vote museum record mimic bamboo machine unlock awake photo release sustain spatial";

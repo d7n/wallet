@@ -1,1 +1,1 @@
-var mnemonic = "apple nut square toast adapt kite blame marine apology inflict license hero";
+var mnemonic = "own job special cute slight course art pudding fee hobby derive pulse";

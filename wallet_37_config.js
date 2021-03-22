@@ -1,1 +1,1 @@
-var mnemonic = "moon climb add cat super client pattern head advance apple lumber rifle";
+var mnemonic = "special gown food inform write guilt liberty absent rhythm entry half modify";

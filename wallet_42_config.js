@@ -1,1 +1,1 @@
-var mnemonic = "sniff summer unit hungry urge misery tool awkward music output surround orchard";
+var mnemonic = "refuse shy wrong goat choice road fork motion mom onion then soda";

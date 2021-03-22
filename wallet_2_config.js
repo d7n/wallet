@@ -1,1 +1,1 @@
-var mnemonic = "video potato father fly chase beyond auction metal convince disorder symptom early";
+var mnemonic = "exhaust wealth rate term monster sea universe torch false hobby toe address";

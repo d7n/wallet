@@ -1,1 +1,1 @@
-var mnemonic = "ocean fortune modify situate fame rare never rich poet legend clap guide";
+var mnemonic = "clinic dilemma feel trade silent useful wrong junior step remember monitor camera";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder result few frozen drift below have behind divorce large finger theory";
+var mnemonic = "end fold poverty cattle jaguar sibling purse cloth moral park essence drastic";

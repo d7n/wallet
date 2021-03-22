@@ -1,1 +1,1 @@
-var mnemonic = "reopen margin peace clinic guilt dust inmate quality deliver furnace page paper";
+var mnemonic = "swing secret fee poem ability material join moment else minor finish three";

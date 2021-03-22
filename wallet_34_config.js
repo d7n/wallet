@@ -1,1 +1,1 @@
-var mnemonic = "distance output van pretty junior tag region cotton satoshi sing sun ice";
+var mnemonic = "awesome blur such credit student chimney drift flip giant giant oak market";

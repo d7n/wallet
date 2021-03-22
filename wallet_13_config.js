@@ -1,1 +1,1 @@
-var mnemonic = "enhance coach elegant orange dentist setup sing unique initial input deputy pitch";
+var mnemonic = "giraffe dignity dial biology unique interest pen camera absorb matter sail machine";

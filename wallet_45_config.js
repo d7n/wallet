@@ -1,1 +1,1 @@
-var mnemonic = "infant happy clap swear major drill hair blossom hurdle merry talent erosion";
+var mnemonic = "fee sentence hurry confirm office hamster elegant network fossil lesson merit subway";

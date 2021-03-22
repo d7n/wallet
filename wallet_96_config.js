@@ -1,1 +1,1 @@
-var mnemonic = "shed forward normal fox rare valve drop supply office fragile despair major";
+var mnemonic = "pig undo cable thunder manage make tonight collect social amazing retire page";

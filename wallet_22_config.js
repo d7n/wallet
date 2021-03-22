@@ -1,1 +1,1 @@
-var mnemonic = "repair case trip enhance neutral conduct mind tuition action melody oval card";
+var mnemonic = "elder pyramid dragon cousin document child corn wool piano element blood grain";

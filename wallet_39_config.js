@@ -1,1 +1,1 @@
-var mnemonic = "duty cancel major arrow virus monitor know dust pyramid purse nurse treat";
+var mnemonic = "measure push liberty shoe neither polar luxury state tomato trouble horror night";

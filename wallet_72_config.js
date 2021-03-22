@@ -1,1 +1,1 @@
-var mnemonic = "else off flock clinic farm fault view demand bag audit random drip";
+var mnemonic = "citizen slender that topic jump alien dutch real sorry junior once grocery";

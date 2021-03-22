@@ -1,1 +1,1 @@
-var mnemonic = "garbage nuclear ivory frog fan rare cry jacket noise science paper mesh";
+var mnemonic = "victory fun entry build potato finger quarter input video tube notice army";

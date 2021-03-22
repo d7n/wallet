@@ -1,1 +1,1 @@
-var mnemonic = "essay estate code debate friend wood double domain business brand yard cram";
+var mnemonic = "awkward pistol culture payment border sight dizzy breeze remember weird benefit exact";

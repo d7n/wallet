@@ -1,1 +1,1 @@
-var mnemonic = "ugly denial glove damage armor alert bamboo love mandate shift suggest giraffe";
+var mnemonic = "repair tray net steel achieve drastic maximum culture soap same pluck share";

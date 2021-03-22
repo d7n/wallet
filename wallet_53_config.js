@@ -1,1 +1,1 @@
-var mnemonic = "movie myth merge spot resource super diamond robust garlic census scene giant";
+var mnemonic = "govern axis latin brown draw matter sausage reunion depart zone group gentle";

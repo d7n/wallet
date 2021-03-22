@@ -1,1 +1,1 @@
-var mnemonic = "knock buzz shaft tilt nurse fiscal seven enough alpha seminar lobster tiny";
+var mnemonic = "december grow derive nephew athlete club elder burger supply exercise mansion better";

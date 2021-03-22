@@ -1,1 +1,1 @@
-var mnemonic = "resemble galaxy glove demise puppy absent lazy amazing unique rain fuel deliver";
+var mnemonic = "crack lumber amount globe dismiss cause admit bag sustain govern file floor";

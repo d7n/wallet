@@ -1,1 +1,1 @@
-var mnemonic = "piano false road sword shoulder corn rude depend soda must cannon reason";
+var mnemonic = "holiday erase poet female like cage earn slice reveal elite oak hero";

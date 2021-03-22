@@ -1,1 +1,1 @@
-var mnemonic = "life letter fault much double talk boring seat demand live sail come";
+var mnemonic = "hard maid dwarf spend wife wasp interest eager hold stomach elevator team";

@@ -1,1 +1,1 @@
-var mnemonic = "manage lunch detail pole shrug era cigar typical notice engine pool cruise";
+var mnemonic = "toe place team actor pony wife rice sense write phrase client peace";

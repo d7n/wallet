@@ -1,1 +1,1 @@
-var mnemonic = "humor crane life short process license toe twist fiber wife above town";
+var mnemonic = "stick auction ecology loop special eager over dizzy volume chicken reflect secret";

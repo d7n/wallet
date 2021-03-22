@@ -1,1 +1,1 @@
-var mnemonic = "spread output reflect grape quit warfare hamster music dutch dynamic naive cupboard";
+var mnemonic = "verb zero rhythm couch absent surprise noodle anxiety direct media vicious credit";

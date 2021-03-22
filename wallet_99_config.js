@@ -1,1 +1,1 @@
-var mnemonic = "cloud coconut pig huge coast brave middle air weekend just satisfy smile";
+var mnemonic = "soap churn erode still harvest absent grow trap choice brother stairs bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos grain slight pig teach border attack always delay verb police alter";
+var mnemonic = "pupil spin hire receive bonus tuna flush glad eager into family muffin";

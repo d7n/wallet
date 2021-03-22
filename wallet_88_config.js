@@ -1,1 +1,1 @@
-var mnemonic = "term tank silly salon gauge enemy isolate team burden royal drama hurt";
+var mnemonic = "fall bitter rail pet legend donkey exit trust tonight avocado obey mesh";

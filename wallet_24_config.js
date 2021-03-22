@@ -1,1 +1,1 @@
-var mnemonic = "electric market destroy immune remember speak violin whale crater shield solid latin";
+var mnemonic = "surprise grocery emotion answer wagon flip morning retire team actor change vapor";

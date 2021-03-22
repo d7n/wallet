@@ -1,1 +1,1 @@
-var mnemonic = "trigger lonely knife apology urban crane correct fiscal cancel mechanic love carbon";
+var mnemonic = "soul what grass employ consider waste young subject exercise armed garden pottery";

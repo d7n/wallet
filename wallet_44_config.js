@@ -1,1 +1,1 @@
-var mnemonic = "valley claim fashion found toilet fat casino flat razor mansion acoustic dose";
+var mnemonic = "industry ivory slim empty patch inflict soap load journey skirt car rally";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy noodle picnic leaf moment disagree guess ill marine myth sunny august";
+var mnemonic = "corn afford cube captain candy pigeon now scale few spawn athlete olympic";

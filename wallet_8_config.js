@@ -1,1 +1,1 @@
-var mnemonic = "busy increase oblige front story cost assist need switch frost lend bright";
+var mnemonic = "shrug trim enter praise alpha escape bulk away fiction payment term barrel";

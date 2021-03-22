@@ -1,1 +1,1 @@
-var mnemonic = "erode remove phrase define smooth sad spray section joke museum setup dress";
+var mnemonic = "marriage photo water charge canyon fuel orchard roast dice deputy tortoise afraid";

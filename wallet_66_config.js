@@ -1,1 +1,1 @@
-var mnemonic = "say manage yellow collect like gasp olympic mule world helmet ivory gain";
+var mnemonic = "latin clutch rather chief weather useless wrong toast chuckle hurry famous interest";

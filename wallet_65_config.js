@@ -1,1 +1,1 @@
-var mnemonic = "turkey coin tomorrow turkey rotate eager market comic coffee quarter ticket moment";
+var mnemonic = "reopen beyond subject pond pool lake mobile barely lyrics cream glad toss";

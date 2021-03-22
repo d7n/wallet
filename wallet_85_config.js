@@ -1,1 +1,1 @@
-var mnemonic = "phrase frame lunch focus photo siege venue fever bacon because modify doctor";
+var mnemonic = "gauge monitor material alarm path open annual flee educate world girl hover";

@@ -1,1 +1,1 @@
-var mnemonic = "because crumble inch call square expand travel junk unfold assault immense surprise";
+var mnemonic = "enable ahead alarm inhale expire hand tuna lamp fork rude dragon shoulder";

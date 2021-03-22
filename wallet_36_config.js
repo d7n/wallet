@@ -1,1 +1,1 @@
-var mnemonic = "crisp menu bundle bulk peanut infant derive speak else tongue dragon suit";
+var mnemonic = "secret grow depend theme shock labor someone express prefer tunnel strike observe";
