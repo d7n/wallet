@@ -1,1 +1,1 @@
-var mnemonic = "point tag mountain over obvious differ genuine few toward gather venture wreck";
+var mnemonic = "spy process business bright blur judge saddle fly enough upgrade popular increase";

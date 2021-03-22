@@ -1,1 +1,1 @@
-var mnemonic = "word video enter satoshi opera punch tortoise wet flat tide happy upon";
+var mnemonic = "pipe inside olympic garlic sorry blade stomach purse bargain hedgehog kitten bus";

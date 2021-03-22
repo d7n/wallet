@@ -1,1 +1,1 @@
-var mnemonic = "blossom glide lab organ grunt flag supply verify style cattle follow blue";
+var mnemonic = "winter pilot someone differ betray amazing acid river okay worth hamster ice";

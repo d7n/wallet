@@ -1,1 +1,1 @@
-var mnemonic = "copy plunge disorder leader else equal series obey buddy swim year stay";
+var mnemonic = "focus rice culture act climb receive all second honey rifle fancy replace";

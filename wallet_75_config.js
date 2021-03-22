@@ -1,1 +1,1 @@
-var mnemonic = "box shoe wise robust toddler month exile shove angle endorse acquire auto";
+var mnemonic = "venture mean visual broccoli lunch then wear match memory under tennis critic";

@@ -1,1 +1,1 @@
-var mnemonic = "wide lyrics candy raccoon jazz clinic upon pluck gather hospital orphan alarm";
+var mnemonic = "absurd robust weekend misery cross bacon object put sunny radio program sweet";

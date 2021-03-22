@@ -1,1 +1,1 @@
-var mnemonic = "almost leisure upset bunker merit company maid unit fringe bacon catalog proof";
+var mnemonic = "month someone clinic opinion boring album trick trade olympic sting sort slight";

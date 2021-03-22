@@ -1,1 +1,1 @@
-var mnemonic = "uncover spice raven angle venue canoe aware cause wrap uncle cabbage anger";
+var mnemonic = "craft accident prepare enact shine design alien try act sunset depend fringe";

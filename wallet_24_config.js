@@ -1,1 +1,1 @@
-var mnemonic = "myth soda chalk swing erode index order glare luxury keen design prison";
+var mnemonic = "flavor egg blood quote retire main enter leader shoot farm senior viable";

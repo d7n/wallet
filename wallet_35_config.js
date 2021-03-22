@@ -1,1 +1,1 @@
-var mnemonic = "wink indicate north rebel marble final crouch choice track baby morning stage";
+var mnemonic = "nominee genuine dignity extra bench issue estate abuse stool girl detect frequent";

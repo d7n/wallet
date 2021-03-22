@@ -1,1 +1,1 @@
-var mnemonic = "slab snow father jelly until butter misery snake struggle frame ocean pencil";
+var mnemonic = "fine sniff dignity sibling lonely trap pass poet trim old wrist swear";

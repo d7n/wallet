@@ -1,1 +1,1 @@
-var mnemonic = "square spoil tooth decline grocery area extend trim offer later man embody";
+var mnemonic = "anxiety portion latin push deputy gun hunt fashion crunch spin genius squeeze";

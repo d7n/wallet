@@ -1,1 +1,1 @@
-var mnemonic = "own swarm pelican amused traffic resource zebra satisfy elite rude electric horse";
+var mnemonic = "cabin whale dutch captain maid twin shoe outdoor canal point orbit material";

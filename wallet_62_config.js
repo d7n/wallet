@@ -1,1 +1,1 @@
-var mnemonic = "hub panda know scale ride pigeon into cause denial hen across spray";
+var mnemonic = "meat leopard wonder extra identify raw liberty hurt gossip hybrid danger priority";

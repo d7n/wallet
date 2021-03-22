@@ -1,1 +1,1 @@
-var mnemonic = "carbon space virtual craft crew physical code build still fade mistake method";
+var mnemonic = "demise screen roof lesson text drop destroy assault female whale century bachelor";

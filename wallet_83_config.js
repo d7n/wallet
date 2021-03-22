@@ -1,1 +1,1 @@
-var mnemonic = "feel urge awake garbage fruit art involve call limit pave topple advice";
+var mnemonic = "excuse seminar cereal erode valve maid meadow account sock kid plate road";

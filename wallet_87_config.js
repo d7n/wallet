@@ -1,1 +1,1 @@
-var mnemonic = "shy code mix sheriff intact harsh page remember desert cute motor course";
+var mnemonic = "film sibling adjust law wasp stomach orient net begin tornado latin craft";

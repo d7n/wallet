@@ -1,1 +1,1 @@
-var mnemonic = "hold olympic length pride patch wing fine virtual critic account wise layer";
+var mnemonic = "frequent cost social novel web unable system multiply grunt actual modify learn";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur blush anchor journey dance sibling artist broccoli ankle crawl swing choose";
+var mnemonic = "shiver diet swim antique fault holiday plunge truly undo copper current life";

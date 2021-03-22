@@ -1,1 +1,1 @@
-var mnemonic = "play creek stereo hybrid seek bless village hurdle hour problem cloud affair";
+var mnemonic = "fragile forward scene shoot unaware shock machine couple enroll scare scrub column";

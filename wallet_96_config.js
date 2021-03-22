@@ -1,1 +1,1 @@
-var mnemonic = "position inside eager illness process glory cube usual head either wisdom supreme";
+var mnemonic = "first brick early destroy high loop humor volcano angle snap loyal artwork";

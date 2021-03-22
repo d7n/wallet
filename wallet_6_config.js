@@ -1,1 +1,1 @@
-var mnemonic = "regret tuna flat before rookie pretty youth sword cereal warrior exact gauge";
+var mnemonic = "clean thank latin mom pill dish twist tide guilt never human cram";

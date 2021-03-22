@@ -1,1 +1,1 @@
-var mnemonic = "fix sugar enrich rotate guide remove hockey slender confirm dress powder treat";
+var mnemonic = "ignore bike medal curtain decrease fury tone foil capital tree talk crawl";

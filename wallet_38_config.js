@@ -1,1 +1,1 @@
-var mnemonic = "bid infant vibrant fish infant pill soon move extend penalty give patrol";
+var mnemonic = "team analyst safe wage mail cigar glimpse card name toilet paper drift";

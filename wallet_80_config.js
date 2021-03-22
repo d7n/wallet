@@ -1,1 +1,1 @@
-var mnemonic = "fan bulk mixture slim elite quarter harvest glance title hollow dumb walnut";
+var mnemonic = "cycle wave blouse inch heart aunt census nuclear regular syrup weasel pilot";

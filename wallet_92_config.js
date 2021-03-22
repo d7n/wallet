@@ -1,1 +1,1 @@
-var mnemonic = "panther alien mansion live rigid lumber hat fan gloom view explain high";
+var mnemonic = "trade subway citizen refuse seven giant plastic obscure sniff tip village loyal";

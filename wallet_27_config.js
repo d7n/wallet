@@ -1,1 +1,1 @@
-var mnemonic = "blind amazing betray gadget trade permit still early envelope jungle bridge town";
+var mnemonic = "cancel museum sail danger awful scene more drill scare thank quit pride";

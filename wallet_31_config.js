@@ -1,1 +1,1 @@
-var mnemonic = "fuel trim defense shy two easy hidden two eternal net sausage hello";
+var mnemonic = "pulp fresh toe raccoon smart genre neither rotate blame recall danger involve";

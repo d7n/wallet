@@ -1,1 +1,1 @@
-var mnemonic = "pyramid plunge enter unlock milk camp sense width leopard smile chief invest";
+var mnemonic = "best excess voice stick offer hip piece chalk figure alone element glue";

@@ -1,1 +1,1 @@
-var mnemonic = "shift brain tumble real suit discover toddler whip small park clever split";
+var mnemonic = "mother salad sport story admit toss detect off fever beyond link turn";

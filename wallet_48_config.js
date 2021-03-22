@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon artefact ripple razor boring noise scheme table thought hen leisure slide";
+var mnemonic = "believe view palace artist toilet unable debris artist amateur mountain rural cradle";

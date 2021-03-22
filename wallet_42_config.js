@@ -1,1 +1,1 @@
-var mnemonic = "worry crack erase foam tattoo sort rebuild observe chase echo pilot turkey";
+var mnemonic = "age render champion piano cat planet festival near glow kind member toddler";

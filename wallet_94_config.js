@@ -1,1 +1,1 @@
-var mnemonic = "decorate monkey hire daring fragile mass bleak chimney spider blind frequent thank";
+var mnemonic = "this brief taste lady olympic find right same wink loud mass second";

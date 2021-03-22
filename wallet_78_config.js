@@ -1,1 +1,1 @@
-var mnemonic = "differ response deposit balcony column sibling typical action opera minor also seat";
+var mnemonic = "crisp chicken change brother calm tribe magic grief tragic fox supreme raven";

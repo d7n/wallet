@@ -1,1 +1,1 @@
-var mnemonic = "waste sugar awake lion fringe deputy bounce brick path kite angry there";
+var mnemonic = "walk swing survey siege payment service amazing chronic intact ritual creek sail";

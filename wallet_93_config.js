@@ -1,1 +1,1 @@
-var mnemonic = "muscle knife season must orange ecology maze suffer invest require blade item";
+var mnemonic = "life rice romance globe panic edit fold own unfold unaware cereal box";

@@ -1,1 +1,1 @@
-var mnemonic = "path night number long chef news canyon sight risk bronze ten smooth";
+var mnemonic = "grid client dentist gorilla sick cruise equip decline card evolve primary silly";

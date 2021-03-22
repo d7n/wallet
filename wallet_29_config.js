@@ -1,1 +1,1 @@
-var mnemonic = "order stuff deer blind apology credit jazz warrior iron proof miss seven";
+var mnemonic = "state wedding rent corn civil clutch basket maid water solve tired convince";

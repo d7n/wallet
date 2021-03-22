@@ -1,1 +1,1 @@
-var mnemonic = "spawn dragon vanish gesture chair future analyst advance more cereal suffer please";
+var mnemonic = "coconut furnace baby antique accident spawn allow clay distance raccoon size choose";

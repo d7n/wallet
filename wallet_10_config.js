@@ -1,1 +1,1 @@
-var mnemonic = "used century lift forget fade chimney chest tool ladder wheel primary vacuum";
+var mnemonic = "network enjoy whip duty local diary sight north improve soon nothing bracket";

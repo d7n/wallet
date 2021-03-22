@@ -1,1 +1,1 @@
-var mnemonic = "sword essence puzzle kangaroo rebuild youth cabbage wool senior member carry cloud";
+var mnemonic = "sponsor inform gaze sure mask arena mango hover quit blue birth pink";

@@ -1,1 +1,1 @@
-var mnemonic = "estate timber dune rival push siren adapt habit buddy install afford electric";
+var mnemonic = "afford vendor oven enrich later immense scrub plug upon enemy smooth buyer";

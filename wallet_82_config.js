@@ -1,1 +1,1 @@
-var mnemonic = "famous market bronze nurse find lava patrol chicken nerve exercise sister camera";
+var mnemonic = "unknown armed tonight math hire craft path scout turtle plate bird spoil";

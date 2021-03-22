@@ -1,1 +1,1 @@
-var mnemonic = "gesture govern issue sadness iron tree drink chef vault loop census hobby";
+var mnemonic = "session lava duck prevent bid pride vapor ivory ahead carpet siege subject";

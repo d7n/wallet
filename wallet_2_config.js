@@ -1,1 +1,1 @@
-var mnemonic = "legal deposit merit resist series monitor much invite useless text topple gap";
+var mnemonic = "thunder kid truth impact camp maple glimpse fuel potato mean strategy primary";

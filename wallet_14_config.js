@@ -1,1 +1,1 @@
-var mnemonic = "desert tilt fog tiny shock bulk gaze office excite cycle okay glass";
+var mnemonic = "daring guilt response position goat beauty exhibit hammer holiday salt ten clown";

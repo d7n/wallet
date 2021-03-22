@@ -1,1 +1,1 @@
-var mnemonic = "maximum auto vapor valley produce found refuse near poet champion pool task";
+var mnemonic = "speed shove supreme pudding trim safe slogan jar screen awesome sudden guilt";

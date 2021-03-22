@@ -1,1 +1,1 @@
-var mnemonic = "table funny short isolate wrist sell puppy term almost present amount furnace";
+var mnemonic = "danger country shield illness monitor sausage daughter stool copy approve siege clock";

@@ -1,1 +1,1 @@
-var mnemonic = "bless april idea enrich goddess master vanish rain key dizzy sound coil";
+var mnemonic = "tuna jar arm found agent rhythm acquire heart maid upgrade butter parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella vicious special column talk edge farm vacuum baby square pool merge";
+var mnemonic = "prosper provide asset tunnel silly empower curious logic happy lamp art runway";

@@ -1,1 +1,1 @@
-var mnemonic = "update chase usage rude pupil room picnic struggle luggage grocery blue seed";
+var mnemonic = "swarm enact ramp method beef october bubble dentist veteran toe glow grief";

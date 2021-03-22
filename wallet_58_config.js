@@ -1,1 +1,1 @@
-var mnemonic = "steak tuna start panic tilt begin warrior spike ribbon cook tomato junior";
+var mnemonic = "wonder soldier faculty imitate immune solid conduct merge first write thought nose";

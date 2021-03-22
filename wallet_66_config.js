@@ -1,1 +1,1 @@
-var mnemonic = "half forward rural public deliver bike like across rude aisle item acid";
+var mnemonic = "brick flower purpose huge crunch enough castle banner venue bracket forest fury";

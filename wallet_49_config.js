@@ -1,1 +1,1 @@
-var mnemonic = "churn disorder change false social kangaroo margin thunder token truth million much";
+var mnemonic = "warfare wheat travel stock muscle trip junior denial eight crystal remove smooth";

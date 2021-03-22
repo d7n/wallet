@@ -1,1 +1,1 @@
-var mnemonic = "blast leisure pear flock object stomach brain fox skin account exhibit carry";
+var mnemonic = "crime summer motor noble obey accident sting drop lizard message tone sense";

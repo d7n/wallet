@@ -1,1 +1,1 @@
-var mnemonic = "hamster settle border orbit remove into police survey aim hungry train teach";
+var mnemonic = "near film prepare hammer inmate anchor check smooth buzz anchor raven abuse";

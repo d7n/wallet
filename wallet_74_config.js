@@ -1,1 +1,1 @@
-var mnemonic = "gate hope romance fantasy company fiber number ill video cancel protect ginger";
+var mnemonic = "gadget choose stock myself delay creek hour tent flee asset dutch street";

@@ -1,1 +1,1 @@
-var mnemonic = "settle vehicle rib please crime bacon destroy cost salmon royal acquire dress";
+var mnemonic = "wagon medal puppy famous spell tennis frame pen bracket response roof clown";

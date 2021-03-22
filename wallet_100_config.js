@@ -1,1 +1,1 @@
-var mnemonic = "lizard genre focus mule raw market road identify curtain thunder olive find";
+var mnemonic = "acquire unfold pigeon oak angle fit jar dumb shaft truth inch vessel";

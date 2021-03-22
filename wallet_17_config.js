@@ -1,1 +1,1 @@
-var mnemonic = "kiss proud belt rather fiction ridge cart noodle tissue direct pet canvas";
+var mnemonic = "boring stool earth try scan honey capable enter divide question jump protect";

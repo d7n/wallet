@@ -1,1 +1,1 @@
-var mnemonic = "this vault bottom damp oven upset elbow dial over other emerge topple";
+var mnemonic = "fly twenty fix atom cancel tragic invest good subject man stick actress";

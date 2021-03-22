@@ -1,1 +1,1 @@
-var mnemonic = "safe cupboard aerobic property enhance truly hundred comic fashion seminar vast state";
+var mnemonic = "crash route bread novel wrist doctor easy snow park wolf member collect";

@@ -1,1 +1,1 @@
-var mnemonic = "oak verify edit night weasel basket annual morning raise bullet orange involve";
+var mnemonic = "state stairs toilet income clinic profit enlist squeeze sunny develop garden tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital wash swift invite gap tragic gaze bind father release medal cycle";
+var mnemonic = "impact hurt trouble stamp detect unable model oval swift digital outer thumb";

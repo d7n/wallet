@@ -1,1 +1,1 @@
-var mnemonic = "labor mirror body sketch fatal clutch shadow exact clump ribbon replace gesture";
+var mnemonic = "guard verb awkward canvas burst grass deposit opinion accuse hub spatial antenna";

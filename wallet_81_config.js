@@ -1,1 +1,1 @@
-var mnemonic = "buddy item morning yard country exist similar gentle monitor weather always lift";
+var mnemonic = "hamster century speak love asthma wild screen include ostrich chunk pond purity";

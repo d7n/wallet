@@ -1,1 +1,1 @@
-var mnemonic = "ozone actual occur depth knock omit possible spring sunset caution allow cave";
+var mnemonic = "skirt rookie shove august mass kiwi scan onion thumb click cupboard hold";

@@ -1,1 +1,1 @@
-var mnemonic = "smart square damage giraffe early swing observe labor home worth mango cash";
+var mnemonic = "equal chaos light body monkey layer suggest myth venue hair sorry knock";

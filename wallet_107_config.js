@@ -1,1 +1,1 @@
-var mnemonic = "auto please act mercy foster page raven faith ketchup jewel close lend";
+var mnemonic = "fitness carbon rabbit just gain indicate exotic blood hour inherit sense mammal";

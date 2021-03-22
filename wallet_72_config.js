@@ -1,1 +1,1 @@
-var mnemonic = "police sting predict load spread rely nation silver dumb easy ill valley";
+var mnemonic = "chronic coffee ship upset make jar settle polar expose melody program blur";

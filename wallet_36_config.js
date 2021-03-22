@@ -1,1 +1,1 @@
-var mnemonic = "just climb valid interest milk crime drift junk pole power myself goat";
+var mnemonic = "bleak album athlete survey tank impact comic person anger fatal frost law";

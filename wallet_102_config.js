@@ -1,1 +1,1 @@
-var mnemonic = "lyrics session differ spawn museum pink cradle suffer practice live grab clump";
+var mnemonic = "note collect also beach yellow parade awesome february monster rebuild version correct";

@@ -1,1 +1,1 @@
-var mnemonic = "carry domain nothing digital company abandon cheese snap multiply piece fix choice";
+var mnemonic = "gadget swap bullet skate robot miracle useless atom cave maple distance frozen";

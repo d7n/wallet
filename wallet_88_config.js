@@ -1,1 +1,1 @@
-var mnemonic = "cake case debate hurt assist candy resemble truly april dolphin vendor settle";
+var mnemonic = "public blue ketchup trim strike churn walk orphan tool hurt twenty thank";

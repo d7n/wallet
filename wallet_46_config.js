@@ -1,1 +1,1 @@
-var mnemonic = "canal physical about photo upon daring mesh rookie image sustain monitor reason";
+var mnemonic = "basic arctic monkey concert seed cook seminar swear vehicle dentist enough vote";

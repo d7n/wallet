@@ -1,1 +1,1 @@
-var mnemonic = "client night mention wrist fade hidden wash pretty surge arrange grant juice";
+var mnemonic = "luggage camera move post sausage coach high supreme screen remember faculty insect";

@@ -1,1 +1,1 @@
-var mnemonic = "joy library sister neutral crush client please cousin whisper boring art marble";
+var mnemonic = "injury kidney slogan bench blame attract elephant grocery proud start damp endless";

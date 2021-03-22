@@ -1,1 +1,1 @@
-var mnemonic = "bid action arrest space street that title cable benefit advance update oil";
+var mnemonic = "later uncover end this oak balance erosion stand absorb company design bird";

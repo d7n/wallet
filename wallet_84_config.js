@@ -1,1 +1,1 @@
-var mnemonic = "copy salmon autumn purpose rent miss trash magnet piece unaware hello theme";
+var mnemonic = "pony mention pen small awake either fruit combine song combine lawn home";

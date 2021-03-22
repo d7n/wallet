@@ -1,1 +1,1 @@
-var mnemonic = "gain caught march snow prosper cabin rural silk bird solid suffer december";
+var mnemonic = "winner fit spatial conduct arrow female grain diary night wheel balcony snake";

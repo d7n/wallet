@@ -1,1 +1,1 @@
-var mnemonic = "enforce bag virus bench thunder mention junk girl account siren move audit";
+var mnemonic = "wash inject leave panic destroy salute sight below flight cushion wise obey";

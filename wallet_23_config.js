@@ -1,1 +1,1 @@
-var mnemonic = "field discover flag speak elite crisp income spike local aware hospital nose";
+var mnemonic = "breeze wait say width response upper blur add ivory liar unveil mean";

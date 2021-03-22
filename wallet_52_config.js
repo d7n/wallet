@@ -1,1 +1,1 @@
-var mnemonic = "helmet village eye bread pen diet will chuckle else blanket romance useless";
+var mnemonic = "gain win sun three sing field session venue define brave tooth cupboard";

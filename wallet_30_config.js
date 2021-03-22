@@ -1,1 +1,1 @@
-var mnemonic = "that mean surprise electric spirit ranch split patient false system patch sure";
+var mnemonic = "reunion pitch crazy orchard much hungry stage novel ankle memory disagree season";

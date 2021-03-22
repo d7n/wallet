@@ -1,1 +1,1 @@
-var mnemonic = "lunar public call where awkward satoshi mosquito want devote ribbon sheriff birth";
+var mnemonic = "lunar rookie clay bring match pumpkin ketchup trust gun much basic fringe";

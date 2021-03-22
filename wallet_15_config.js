@@ -1,1 +1,1 @@
-var mnemonic = "squirrel will lunar warm liquid stairs actual sponsor vivid recycle copper quality";
+var mnemonic = "wheel sleep dawn virtual example farm gym code want flush huge diesel";
