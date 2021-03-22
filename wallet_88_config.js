@@ -1,1 +1,1 @@
-var mnemonic = "business fox injury meadow link gentle width jelly shrimp private broken talk";
+var mnemonic = "inhale crystal dutch route else person any tenant enact stage oxygen eight";

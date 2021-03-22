@@ -1,1 +1,1 @@
-var mnemonic = "zebra gadget phone enter toss kick observe bless eternal broken access bar";
+var mnemonic = "vacuum brass twelve scale example loop wave until robot define where elite";

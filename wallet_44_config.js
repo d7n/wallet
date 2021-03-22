@@ -1,1 +1,1 @@
-var mnemonic = "dragon release lawn velvet village diagram bone shell permit carpet board uncover";
+var mnemonic = "spot addict cherry legal glimpse echo prosper menu edge client vibrant uncover";

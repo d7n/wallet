@@ -1,1 +1,1 @@
-var mnemonic = "tank brisk view curious valve cross hurdle fiscal control knee local pigeon";
+var mnemonic = "between water alone reveal orbit inner jeans movie current tank initial coyote";

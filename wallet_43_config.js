@@ -1,1 +1,1 @@
-var mnemonic = "elevator sketch tonight garage wreck insane gorilla round audit balance because genius";
+var mnemonic = "finger dust curious island flip need cute priority law inflict tenant rifle";

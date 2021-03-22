@@ -1,1 +1,1 @@
-var mnemonic = "reject female airport sell winner claw example patient detect term earn novel";
+var mnemonic = "avoid gauge night quarter copy certain glue prepare rebel garlic despair diamond";

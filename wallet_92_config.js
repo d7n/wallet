@@ -1,1 +1,1 @@
-var mnemonic = "glove monkey security victory phrase impulse spider antenna dragon mean shield step";
+var mnemonic = "burden place drift travel scheme powder digital honey bundle mystery tomorrow sing";

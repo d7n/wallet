@@ -1,1 +1,1 @@
-var mnemonic = "tube clean fantasy wasp address infant consider daring awful tennis chaos divert";
+var mnemonic = "ignore clarify network venue trip negative rate fitness rifle average opera fix";

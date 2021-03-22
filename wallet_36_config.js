@@ -1,1 +1,1 @@
-var mnemonic = "ensure diamond thought caution tennis coyote skull mesh heart champion lottery will";
+var mnemonic = "glow work frozen swallow oval genuine dry worth transfer brave dwarf nephew";

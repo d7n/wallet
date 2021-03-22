@@ -1,1 +1,1 @@
-var mnemonic = "describe kiwi carry shed another suit ozone census salt refuse must salad";
+var mnemonic = "photo visa animal inspire vast dash close dwarf target dynamic oil dismiss";

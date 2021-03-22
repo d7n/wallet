@@ -1,1 +1,1 @@
-var mnemonic = "patch empty sniff silly whip impact denial fan misery hybrid impact embody";
+var mnemonic = "crime claw bonus case skin firm across inflict summer crystal decrease leader";

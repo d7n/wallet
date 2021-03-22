@@ -1,1 +1,1 @@
-var mnemonic = "favorite act goose naive major violin false enroll admit type inner rib";
+var mnemonic = "soup oven wide impulse upgrade attract extend badge ridge deposit law risk";

@@ -1,1 +1,1 @@
-var mnemonic = "regular burst gossip bullet network scene expand main core gospel tag helmet";
+var mnemonic = "kite chronic mask address bronze daughter balcony hawk citizen afraid path sing";

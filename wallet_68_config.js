@@ -1,1 +1,1 @@
-var mnemonic = "piano join twelve room large window acquire weird silk biology prize wrong";
+var mnemonic = "scrap sense cancel problem great rare capable conduct wrist angle romance human";

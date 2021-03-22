@@ -1,1 +1,1 @@
-var mnemonic = "congress reduce must type basic source special crater royal velvet daring spray";
+var mnemonic = "unfair spring buddy mass high welcome airport nature item nothing room enroll";

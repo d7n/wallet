@@ -1,1 +1,1 @@
-var mnemonic = "profit fog people agree loud flame balcony accuse throw near galaxy escape";
+var mnemonic = "shoe cool web auction magic defy census abandon title athlete pyramid worth";

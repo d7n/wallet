@@ -1,1 +1,1 @@
-var mnemonic = "owner muffin close detect forest alarm stuff drum purpose inquiry photo chronic";
+var mnemonic = "impact decrease fiction trial matrix lecture always tackle horror crisp know dash";

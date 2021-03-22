@@ -1,1 +1,1 @@
-var mnemonic = "mail kitten web any shrug cave tattoo inner moon whisper slow never";
+var mnemonic = "language fee comfort this large luxury rigid oppose outdoor horror mail airport";

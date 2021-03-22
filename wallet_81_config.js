@@ -1,1 +1,1 @@
-var mnemonic = "pause ten spirit blur visit stick general purchase torch three mandate enemy";
+var mnemonic = "almost army fish segment salt hub voice valid document review notable marriage";

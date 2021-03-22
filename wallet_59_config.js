@@ -1,1 +1,1 @@
-var mnemonic = "guess execute fragile stand wash potato retreat trust paddle bamboo upgrade rare";
+var mnemonic = "island quit evil lumber like grain stairs desk captain place buddy destroy";

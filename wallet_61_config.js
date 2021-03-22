@@ -1,1 +1,1 @@
-var mnemonic = "power office surround dignity dawn burden clown they legal tip barrel key";
+var mnemonic = "radio belt venue picture cigar hospital negative soul friend guide mushroom mushroom";

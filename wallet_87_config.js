@@ -1,1 +1,1 @@
-var mnemonic = "believe step virtual milk airport flavor key zoo square expose rule reward";
+var mnemonic = "sort either deliver parrot mammal draft cube sock truck kind frequent grocery";

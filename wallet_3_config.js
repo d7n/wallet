@@ -1,1 +1,1 @@
-var mnemonic = "funny clump fan either evidence teach promote wear spoon annual bind stem";
+var mnemonic = "flavor orbit local smart ticket episode roof since practice gadget salon casino";

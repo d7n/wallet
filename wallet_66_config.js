@@ -1,1 +1,1 @@
-var mnemonic = "angry there message bunker wasp kid holiday alarm away print nice size";
+var mnemonic = "chief armor scrap negative regret lounge goat spray magnet meadow pigeon job";

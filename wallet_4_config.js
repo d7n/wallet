@@ -1,1 +1,1 @@
-var mnemonic = "riot utility bid forget devote gym tower hole kingdom again auction proof";
+var mnemonic = "danger resist forest august lift glimpse catalog mushroom gown sunny tank power";

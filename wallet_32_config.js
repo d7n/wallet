@@ -1,1 +1,1 @@
-var mnemonic = "soup loop enrich recycle neutral tape relax unhappy blast zebra blur dynamic";
+var mnemonic = "major sister poverty grain fantasy field youth bundle margin chat object van";

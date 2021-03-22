@@ -1,1 +1,1 @@
-var mnemonic = "trend desert outdoor boil picnic hire behind jealous radio tent speak state";
+var mnemonic = "behind glide fence man captain broom reason vivid surface cancel shaft resist";

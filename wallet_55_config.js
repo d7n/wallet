@@ -1,1 +1,1 @@
-var mnemonic = "already foot income bleak giant visual hospital train say mom dash almost";
+var mnemonic = "nurse ask around matrix loyal regular endorse volcano milk wealth later health";

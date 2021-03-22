@@ -1,1 +1,1 @@
-var mnemonic = "seat slow divorce gloom blanket always science dish machine elite virtual snap";
+var mnemonic = "hour stage fence private invest observe merge broccoli fragile furnace beef detail";

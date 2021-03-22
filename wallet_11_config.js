@@ -1,1 +1,1 @@
-var mnemonic = "term fatal sauce ticket chapter weather they ticket inmate icon chronic unknown";
+var mnemonic = "seek fault explain fashion unit simple cancel fog napkin air dizzy captain";

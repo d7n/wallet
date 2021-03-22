@@ -1,1 +1,1 @@
-var mnemonic = "office escape clarify perfect stock hammer addict poet goose dune dumb height";
+var mnemonic = "thumb stage spatial liquid clock subject fork pole speak crop rain mixture";

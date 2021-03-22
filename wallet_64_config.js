@@ -1,1 +1,1 @@
-var mnemonic = "repair wide mind glue magic travel misery argue proof silent cover kidney";
+var mnemonic = "sun screen forest transfer retreat runway recycle describe lion enter extend ensure";

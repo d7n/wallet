@@ -1,1 +1,1 @@
-var mnemonic = "mixture suffer early industry save tuition vault loop badge replace popular credit";
+var mnemonic = "runway digital blade claw nephew fuel siren cram turtle ritual throw entry";

@@ -1,1 +1,1 @@
-var mnemonic = "learn coil ready excuse oyster citizen slab cave young master canvas into";
+var mnemonic = "loud cat trick bronze dose lemon symptom wave renew dress random virtual";

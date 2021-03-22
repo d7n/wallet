@@ -1,1 +1,1 @@
-var mnemonic = "whisper economy ramp recycle gaze camera reunion shoulder strong nest conduct renew";
+var mnemonic = "nature weather novel eye december then pyramid shield crane quantum between rare";

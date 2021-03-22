@@ -1,1 +1,1 @@
-var mnemonic = "use piece sample stem half scan unit live spike high era clinic";
+var mnemonic = "street olive acquire toe mean found inside yard alcohol now leave stone";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal vast license taste scorpion pact chronic unusual element bid multiply soda";
+var mnemonic = "ritual notice green vast valve bench erupt insect dizzy repeat disorder actress";

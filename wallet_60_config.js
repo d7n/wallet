@@ -1,1 +1,1 @@
-var mnemonic = "sound vehicle useful village onion walk engine expand other accident impose parade";
+var mnemonic = "spin cherry cost motion swear dash age normal fun near head cotton";

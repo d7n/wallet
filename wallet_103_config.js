@@ -1,1 +1,1 @@
-var mnemonic = "one obey clinic fame island song figure sustain roast toward wool sign";
+var mnemonic = "pioneer wedding clever shiver submit weapon shield wheat inmate equal fabric rib";

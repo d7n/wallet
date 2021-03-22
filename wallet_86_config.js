@@ -1,1 +1,1 @@
-var mnemonic = "borrow mutual honey flower hair balance burden hundred type more cushion mimic";
+var mnemonic = "calm liquid fiber catalog medal keen fluid risk coyote frog volcano spike";

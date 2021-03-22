@@ -1,1 +1,1 @@
-var mnemonic = "axis neck office recall merge spray park medal clock phone chimney fabric";
+var mnemonic = "pond produce isolate cereal cliff amused much orient stay typical cinnamon check";

@@ -1,1 +1,1 @@
-var mnemonic = "differ kingdom jacket february uphold cousin foam hobby test vessel book only";
+var mnemonic = "same story plate rely toss escape arrange upon food flip bounce spare";

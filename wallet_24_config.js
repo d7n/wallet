@@ -1,1 +1,1 @@
-var mnemonic = "amazing insane dress liquid record outer click emotion mistake year grow supply";
+var mnemonic = "crowd use mansion silly unique anxiety side promote expire glimpse tide candy";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors alone banana immune stool axis still pudding subject now pull town";
+var mnemonic = "zone erupt panther lawsuit garage tower identify access glimpse hunt lounge mammal";

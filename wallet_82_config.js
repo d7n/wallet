@@ -1,1 +1,1 @@
-var mnemonic = "east depend mom body moon fly deposit prepare canoe auction adapt mix";
+var mnemonic = "dinner dizzy satoshi balcony trim shiver excess town uphold veteran staff ripple";

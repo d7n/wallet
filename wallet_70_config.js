@@ -1,1 +1,1 @@
-var mnemonic = "able tongue liar idle never boil suit indicate coyote expire parade advance";
+var mnemonic = "cross venture addict rabbit length garage embark hurt soul tray quarter demand";

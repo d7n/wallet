@@ -1,1 +1,1 @@
-var mnemonic = "lake awful follow pigeon oblige dance eye tip gasp party setup chunk";
+var mnemonic = "correct caution pony job admit output chest indicate horse bike sorry route";

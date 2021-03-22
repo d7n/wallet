@@ -1,1 +1,1 @@
-var mnemonic = "bounce trade open alarm word express rib jazz volume lock afford height";
+var mnemonic = "fence liquid symptom current spice useful client deputy decrease crunch jungle border";

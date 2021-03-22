@@ -1,1 +1,1 @@
-var mnemonic = "palace book surprise fancy angry protect waste logic suggest remove donkey sample";
+var mnemonic = "connect injury lazy assume palm host ecology twenty practice fever toss sustain";

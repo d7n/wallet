@@ -1,1 +1,1 @@
-var mnemonic = "render desert evil act puzzle table table month ordinary melody seminar steak";
+var mnemonic = "wisdom wonder omit wage scrap unhappy eagle end side strike gym bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "write hedgehog gadget income define camera level awake unusual gravity fame you";
+var mnemonic = "improve material loyal card habit figure paddle item rival swallow width shrimp";

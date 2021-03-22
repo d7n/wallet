@@ -1,1 +1,1 @@
-var mnemonic = "comfort anger icon uncover idle pumpkin drift vintage poverty gain avocado quantum";
+var mnemonic = "exclude correct shallow theme night cruise decide pizza laptop ridge holiday near";

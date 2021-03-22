@@ -1,1 +1,1 @@
-var mnemonic = "minor region scheme slim destroy visa habit crouch rice nothing stay birth";
+var mnemonic = "limit record profit illegal loan when witness secret riot robust roast disorder";

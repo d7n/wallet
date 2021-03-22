@@ -1,1 +1,1 @@
-var mnemonic = "famous bicycle dry shop old tortoise suffer record dove hobby view surround";
+var mnemonic = "strike spread world crucial galaxy eye avoid floor board illegal spike toy";

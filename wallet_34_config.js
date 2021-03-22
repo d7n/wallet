@@ -1,1 +1,1 @@
-var mnemonic = "sail when category amount quick settle broom manage garment vivid joke adjust";
+var mnemonic = "vicious skill yellow canoe tobacco furnace opinion report ball clown decrease clump";

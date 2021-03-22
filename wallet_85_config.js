@@ -1,1 +1,1 @@
-var mnemonic = "general license keep bargain spider stay asset one panic panel tornado trigger";
+var mnemonic = "borrow damp trim size birth pilot start matter sleep aware story rose";

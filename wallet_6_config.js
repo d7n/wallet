@@ -1,1 +1,1 @@
-var mnemonic = "ice moment utility blur soul custom smile human machine wine range peasant";
+var mnemonic = "expect require addict section slot private quote giant address blade net game";

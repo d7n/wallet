@@ -1,1 +1,1 @@
-var mnemonic = "pencil lend obtain acoustic liar bubble dynamic border convince space regular motor";
+var mnemonic = "dwarf travel discover scout stock differ salt around swap cable call recipe";

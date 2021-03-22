@@ -1,1 +1,1 @@
-var mnemonic = "pigeon frozen couch auction entry inform enact describe earth sure tide mad";
+var mnemonic = "gap media gold reform model chicken border spy pool dance catch flame";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare mix purse hurry color code clutch latin sunset east envelope album";
+var mnemonic = "found tattoo small deal design silk ice margin winter column theory raccoon";

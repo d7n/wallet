@@ -1,1 +1,1 @@
-var mnemonic = "pear unique cheese velvet trial slab child keep expand squirrel video grab";
+var mnemonic = "glimpse wonder side plate remind make draft barrel pair direct eagle fashion";

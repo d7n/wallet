@@ -1,1 +1,1 @@
-var mnemonic = "square salt ketchup uncover weekend area open student forget world nation child";
+var mnemonic = "cup crater globe route album violin foam company eagle panther expand glimpse";

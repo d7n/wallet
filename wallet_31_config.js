@@ -1,1 +1,1 @@
-var mnemonic = "lecture budget barely tree clever rate crowd act turkey develop elephant hire";
+var mnemonic = "club panic spike increase toe quiz wolf monitor express afraid film math";

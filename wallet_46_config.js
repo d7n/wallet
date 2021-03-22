@@ -1,1 +1,1 @@
-var mnemonic = "artwork magic orbit wait wear stand release pilot disorder drama off soup";
+var mnemonic = "entire boss busy waste boil medal gasp alert film jar filter dynamic";

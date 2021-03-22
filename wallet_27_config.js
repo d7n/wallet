@@ -1,1 +1,1 @@
-var mnemonic = "movie grass great buffalo flock trigger tone forward fork vacuum hold lawsuit";
+var mnemonic = "youth angry people slender eyebrow fiber invest answer beach tent mansion people";

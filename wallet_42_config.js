@@ -1,1 +1,1 @@
-var mnemonic = "defy vanish weather basic laptop dignity glimpse famous lunar regular limit opera";
+var mnemonic = "cheese invite sugar breeze taste warm federal jungle bottom spin spell claim";

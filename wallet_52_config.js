@@ -1,1 +1,1 @@
-var mnemonic = "again wrestle slender elder hurry behave media sketch bench evil hamster impose";
+var mnemonic = "snake castle roast express chalk reason pioneer skate nut acquire letter rude";

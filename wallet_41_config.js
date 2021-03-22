@@ -1,1 +1,1 @@
-var mnemonic = "inner warrior help inquiry cigar heavy believe neither raise web coin harbor";
+var mnemonic = "empower crush edge select civil seed vocal time old erupt inner ahead";

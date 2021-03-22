@@ -1,1 +1,1 @@
-var mnemonic = "also marriage job day ginger trophy swift broken diagram can deputy dawn";
+var mnemonic = "screen opinion bus foam cause able diary below core excuse step floor";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger brisk wild myself image rival current friend organ language glory hurt";
+var mnemonic = "grab disease absorb nature crater panda citizen unaware advice hole zoo frame";

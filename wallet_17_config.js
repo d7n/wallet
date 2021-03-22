@@ -1,1 +1,1 @@
-var mnemonic = "cement sustain unfair cricket lion response gesture color find scrap obvious act";
+var mnemonic = "diamond ritual blue limit category typical charge infant room drop gossip pair";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy saddle flat primary luxury alcohol theory crash normal tennis cactus window";
+var mnemonic = "glare achieve network iron resemble spread bench labor now cabin hidden cry";

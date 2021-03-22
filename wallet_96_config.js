@@ -1,1 +1,1 @@
-var mnemonic = "brand throw royal dream erase stone false veteran brush pink laugh enforce";
+var mnemonic = "accuse scorpion wrap hire letter tone kitten vote gym cruise change ramp";

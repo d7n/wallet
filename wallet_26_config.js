@@ -1,1 +1,1 @@
-var mnemonic = "tobacco super evolve attack robot raw number smile exercise fly wheat raccoon";
+var mnemonic = "oblige leader appear sniff behind wing wait honey increase text shadow child";

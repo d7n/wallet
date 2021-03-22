@@ -1,1 +1,1 @@
-var mnemonic = "napkin return brave broom target traffic rent mechanic pyramid tennis raccoon quote";
+var mnemonic = "friend naive swim female claim legal jazz hour smooth repeat chalk giant";

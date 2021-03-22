@@ -1,1 +1,1 @@
-var mnemonic = "leaf army brush history destroy orchard logic claim blood spin brick whisper";
+var mnemonic = "season combine owner kid snow great decide venue bulk capable stomach creek";

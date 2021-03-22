@@ -1,1 +1,1 @@
-var mnemonic = "cement gentle sister endorse target cat acoustic lounge try thank net party";
+var mnemonic = "thunder burden elegant start bright security faculty obtain grunt green divide struggle";

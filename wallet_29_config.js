@@ -1,1 +1,1 @@
-var mnemonic = "dragon leader predict paper mail exhaust member smile they fiber supreme age";
+var mnemonic = "elbow teach adjust defense minor gauge fabric coil polar bounce liberty victory";

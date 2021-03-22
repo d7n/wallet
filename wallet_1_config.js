@@ -1,1 +1,1 @@
-var mnemonic = "fee hat snow usage close actor dial tourist cost rubber strong jeans";
+var mnemonic = "false crowd fatal differ uncle clap door card post bachelor click unaware";

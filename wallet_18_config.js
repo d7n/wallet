@@ -1,1 +1,1 @@
-var mnemonic = "bleak drastic rifle tooth industry april crumble ivory leaf naive act cycle";
+var mnemonic = "maid hero receive nurse round cost shop kiwi cook spread that allow";

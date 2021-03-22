@@ -1,1 +1,1 @@
-var mnemonic = "popular dynamic long session prize oppose weird wisdom cage involve rubber crumble";
+var mnemonic = "hand march negative oven know prevent phone monkey dignity harsh master scrub";

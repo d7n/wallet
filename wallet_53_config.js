@@ -1,1 +1,1 @@
-var mnemonic = "thing mom panther acquire dune series radar echo bubble zebra frame matter";
+var mnemonic = "horror device puzzle electric display little climb crazy abuse unveil carry safe";

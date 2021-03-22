@@ -1,1 +1,1 @@
-var mnemonic = "library surprise bronze sudden empty increase ask cream powder razor cruise basket";
+var mnemonic = "brain common current laundry reform race steak enrich girl luxury ceiling ocean";

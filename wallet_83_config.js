@@ -1,1 +1,1 @@
-var mnemonic = "blood mercy museum decide describe female extra parade strong coral valley monkey";
+var mnemonic = "conduct trouble air caught powder moral mosquito peanut salute episode weasel chat";

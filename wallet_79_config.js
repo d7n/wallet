@@ -1,1 +1,1 @@
-var mnemonic = "unique armed tool price plastic oblige mail vanish accuse noble exist behind";
+var mnemonic = "wear pony slab amused voyage caution boy will smoke payment volume slice";

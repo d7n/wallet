@@ -1,1 +1,1 @@
-var mnemonic = "gravity scheme vicious whisper foil lemon satisfy route beauty air sea monkey";
+var mnemonic = "vanish helmet stuff retire slot shrimp nature gap vault kangaroo buffalo verify";

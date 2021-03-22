@@ -1,1 +1,1 @@
-var mnemonic = "burger tip tongue rack belt horse nut biology mixed magnet engage marine";
+var mnemonic = "east sibling snack layer kick harbor awesome zero mushroom fantasy exchange fetch";

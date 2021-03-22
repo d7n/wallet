@@ -1,1 +1,1 @@
-var mnemonic = "coral blue gossip resist just slab eight lava announce monkey cannon dismiss";
+var mnemonic = "include radio swap quantum cup crush smile beef loan luxury ridge quiz";

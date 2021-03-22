@@ -1,1 +1,1 @@
-var mnemonic = "hunt able climb solve wheel vacant bike discover yellow federal west minimum";
+var mnemonic = "address nut reject behave shift annual neglect casino panel fiction place marine";

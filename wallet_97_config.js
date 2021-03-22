@@ -1,1 +1,1 @@
-var mnemonic = "across movie rice library hungry pen ask must immune sort legend gravity";
+var mnemonic = "project dream base corn moon clip try wink bar when bonus depend";

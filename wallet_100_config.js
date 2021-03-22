@@ -1,1 +1,1 @@
-var mnemonic = "female oxygen peanut energy will scene cliff kingdom coast sort blade together";
+var mnemonic = "swim avocado cereal never burger liberty glad winter gorilla heavy blood spike";

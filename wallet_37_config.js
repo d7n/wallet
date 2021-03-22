@@ -1,1 +1,1 @@
-var mnemonic = "arena analyst crater canoe broom happy false stool super dial century coach";
+var mnemonic = "cram hip shoulder all gloom switch verify delay aerobic exile drama pull";

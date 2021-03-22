@@ -1,1 +1,1 @@
-var mnemonic = "tragic few figure scheme tongue entire baby prevent plate poverty farm juice";
+var mnemonic = "pool glide expect audit mask path crack bullet solution quiz thunder away";
