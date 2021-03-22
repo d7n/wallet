@@ -1,1 +1,1 @@
-var mnemonic = "rather warrior rack then burger volcano gap smoke engage slim lake swift";
+var mnemonic = "artwork kiwi junk barely evil outdoor noodle text mercy type asthma later";

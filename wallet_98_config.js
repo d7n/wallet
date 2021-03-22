@@ -1,1 +1,1 @@
-var mnemonic = "wink trick art gold sea window lemon blast sorry cinnamon lounge travel";
+var mnemonic = "suspect old account travel coast melt resist extend sail blush away autumn";

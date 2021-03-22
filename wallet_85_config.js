@@ -1,1 +1,1 @@
-var mnemonic = "quiz gold belt timber shadow lemon leisure invite random approve stuff never";
+var mnemonic = "frozen cook dwarf asset anchor drum flock this tuna bronze fresh wet";

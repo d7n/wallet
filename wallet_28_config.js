@@ -1,1 +1,1 @@
-var mnemonic = "theory cup mother february afford renew frozen chef roof valve fatal bargain";
+var mnemonic = "cover junk life modify perfect follow visit drama remind version friend sting";

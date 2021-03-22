@@ -1,1 +1,1 @@
-var mnemonic = "bind avoid urban category riot provide bomb ask alert author mix grab";
+var mnemonic = "brain gentle ball old virus recall gesture latin wing young place escape";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware vivid gorilla divorce remain meadow embark service badge fall make slow";
+var mnemonic = "circle metal amount slight slight method suspect deposit frame clarify gas brass";

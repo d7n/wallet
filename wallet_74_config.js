@@ -1,1 +1,1 @@
-var mnemonic = "shadow before tonight broccoli wonder girl bamboo clap kiwi stuff rib afraid";
+var mnemonic = "flower ketchup permit famous sadness cloth kit differ annual alien deputy anchor";

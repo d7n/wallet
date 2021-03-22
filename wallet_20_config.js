@@ -1,1 +1,1 @@
-var mnemonic = "visa share exhibit kangaroo across culture parrot elegant roof siren common annual";
+var mnemonic = "today rescue ladder crisp gas dish leg exhibit course body again grab";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry lamp panel near palm vibrant current climb that predict barrel expand";
+var mnemonic = "erase palm captain north hold wood wagon advance diesel mom return sustain";

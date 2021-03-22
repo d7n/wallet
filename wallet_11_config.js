@@ -1,1 +1,1 @@
-var mnemonic = "cream scorpion noise sustain quality lizard hunt clown suspect phone vote blood";
+var mnemonic = "when high eternal design deny catalog poem tortoise brave guitar casino genius";

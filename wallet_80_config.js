@@ -1,1 +1,1 @@
-var mnemonic = "face gentle arrange avoid stem harbor pulp rotate siege february evoke ill";
+var mnemonic = "simple people beef scout switch field physical output region room film winner";

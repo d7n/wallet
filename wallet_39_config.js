@@ -1,1 +1,1 @@
-var mnemonic = "adapt song daring sock object frown survey nerve negative street choice want";
+var mnemonic = "work step sound camera balcony salute hello scale bag provide dawn dutch";

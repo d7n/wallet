@@ -1,1 +1,1 @@
-var mnemonic = "pelican upon window simple few stumble coconut correct sport click device disease";
+var mnemonic = "mercy swear fever curious fever crazy around clump decline pipe catch symbol";

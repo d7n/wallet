@@ -1,1 +1,1 @@
-var mnemonic = "drip ensure absurd seek meadow pigeon iron page vessel arrest tank enemy";
+var mnemonic = "region start urge ostrich analyst victory spend final scale country cart moment";

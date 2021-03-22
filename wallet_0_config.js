@@ -1,1 +1,1 @@
-var mnemonic = "region theory table praise repair tennis solve state ski final brave job";
+var mnemonic = "river abuse name nice hedgehog domain novel tree release ignore lyrics daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch soap subject vital betray put infant dinner analyst tube ignore fresh";
+var mnemonic = "fault wise chalk black stuff envelope slow desert buyer kick language diet";

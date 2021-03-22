@@ -1,1 +1,1 @@
-var mnemonic = "laundry want machine lunch nuclear donate during bamboo clarify bulb wagon swarm";
+var mnemonic = "melt analyst resemble pizza wreck wisdom bread time truck impose museum original";

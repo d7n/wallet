@@ -1,1 +1,1 @@
-var mnemonic = "hello shell ride unlock assume few loop wise ethics screen baby donkey";
+var mnemonic = "tell express obtain modify sunset dilemma plate grass wrestle social cruise admit";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor globe lobster desk puzzle glare garment diesel tilt have nominee swarm";
+var mnemonic = "width glass fatigue vicious program foster valid fetch priority lady weather blouse";

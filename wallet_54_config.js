@@ -1,1 +1,1 @@
-var mnemonic = "table medal tortoise pelican become gap excite climb notable ethics brisk scheme";
+var mnemonic = "dwarf atom weather fury debate retreat brave sign equal element tenant stand";

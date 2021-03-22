@@ -1,1 +1,1 @@
-var mnemonic = "today omit music crime diamond opera mom choose morning island collect gospel";
+var mnemonic = "seek turkey easy fog hair veteran ugly early chimney duty random drink";

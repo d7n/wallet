@@ -1,1 +1,1 @@
-var mnemonic = "never delay plate orphan car order inch focus slot cargo armor grab";
+var mnemonic = "virtual shine cave around bridge crew hundred category hip food find square";

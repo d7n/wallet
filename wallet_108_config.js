@@ -1,1 +1,1 @@
-var mnemonic = "garbage ahead ozone poverty duck effort bus only leisure differ sock embody";
+var mnemonic = "cliff mind immune rose cotton century sand hidden clown inject cloth decide";

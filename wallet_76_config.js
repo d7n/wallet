@@ -1,1 +1,1 @@
-var mnemonic = "fire boil ensure solar gain father rifle orbit vehicle bicycle series income";
+var mnemonic = "planet joy forum wrong bean rubber sort opinion female alert they rally";

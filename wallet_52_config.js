@@ -1,1 +1,1 @@
-var mnemonic = "clutch muffin bone merit frame worry future attend spare picture wear tooth";
+var mnemonic = "move shuffle any vendor survey tent video clap club icon quality soldier";

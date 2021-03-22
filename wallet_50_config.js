@@ -1,1 +1,1 @@
-var mnemonic = "various scheme comfort mobile evolve divert thank velvet barrel sunny wall script";
+var mnemonic = "town phone orphan basket click initial tomorrow brave fox kick robot ring";

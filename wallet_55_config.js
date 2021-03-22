@@ -1,1 +1,1 @@
-var mnemonic = "horn will message glue taste merry taste success black biology shop cattle";
+var mnemonic = "zero sleep section motor provide scan grab bottom execute rival swift day";

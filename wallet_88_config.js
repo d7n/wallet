@@ -1,1 +1,1 @@
-var mnemonic = "try love slot game popular also garbage dream pigeon essence earn world";
+var mnemonic = "flush wild husband unaware sea silent ill permit veteran hundred false drive";

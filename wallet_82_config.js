@@ -1,1 +1,1 @@
-var mnemonic = "convince erosion bounce swear live kite pink fresh lawsuit someone hurdle argue";
+var mnemonic = "edit carpet text gloom return creek foam garment all picnic cross beyond";

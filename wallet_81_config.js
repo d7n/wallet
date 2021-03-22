@@ -1,1 +1,1 @@
-var mnemonic = "remove blast yellow surge quote glue autumn alert claw sweet odor network";
+var mnemonic = "dynamic cattle midnight roof dizzy burst kit fantasy item exhaust kiwi media";

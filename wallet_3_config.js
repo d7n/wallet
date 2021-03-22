@@ -1,1 +1,1 @@
-var mnemonic = "zoo skin fence battle impose afraid document crumble grant industry vocal cactus";
+var mnemonic = "token what list race type embody drift robust frame fluid effort relax";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant innocent layer prevent vibrant practice pole airport voyage parrot flip daring";
+var mnemonic = "wet apple vapor lazy rhythm squirrel bargain ocean parade tomorrow media mad";

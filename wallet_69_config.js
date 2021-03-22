@@ -1,1 +1,1 @@
-var mnemonic = "pupil type harvest divorce enroll obvious jump guide novel suspect perfect olive";
+var mnemonic = "inside shield must cabbage message mass lab fine short current dinner left";

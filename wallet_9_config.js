@@ -1,1 +1,1 @@
-var mnemonic = "unfold inmate dilemma swamp acquire gaze east found raccoon danger toss pilot";
+var mnemonic = "park nut foam frame blame casino crisp ecology pill visa coin sauce";

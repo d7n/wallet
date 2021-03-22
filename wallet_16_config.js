@@ -1,1 +1,1 @@
-var mnemonic = "urban chest play pizza stick rookie garbage crumble script absurd soccer useless";
+var mnemonic = "illness cram wrestle whisper jacket envelope judge food december excess hidden asthma";

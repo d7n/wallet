@@ -1,1 +1,1 @@
-var mnemonic = "chase vast stick oval sock tired sort sweet rigid deer more trigger";
+var mnemonic = "puppy hand divert friend sheriff match weapon void normal bag mystery team";

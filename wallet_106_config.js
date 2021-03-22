@@ -1,1 +1,1 @@
-var mnemonic = "cluster produce moon because copper marriage brief toast prevent please novel sponsor";
+var mnemonic = "apart wonder leaf toss easy dose illness farm quit chimney liquid scrub";

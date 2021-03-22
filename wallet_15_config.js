@@ -1,1 +1,1 @@
-var mnemonic = "obscure catalog exhaust twenty act foot culture toast isolate vanish lift ball";
+var mnemonic = "silk uphold already jungle proof second person blue major please smart draft";

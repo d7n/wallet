@@ -1,1 +1,1 @@
-var mnemonic = "cigar indicate empower change fuel salmon accuse vehicle bench unlock faint myself";
+var mnemonic = "smile conduct waste laptop when mixed awesome action behave couple bind type";

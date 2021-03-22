@@ -1,1 +1,1 @@
-var mnemonic = "marble supply royal shield answer climb crash humble delay merit minimum scrap";
+var mnemonic = "shed human close bench industry reveal virtual wash tattoo attack right session";

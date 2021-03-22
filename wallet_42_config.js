@@ -1,1 +1,1 @@
-var mnemonic = "drama satisfy equal science roof insane regular elevator derive extra fit purpose";
+var mnemonic = "fix nurse three maze control orbit satoshi mouse kidney soap learn squirrel";

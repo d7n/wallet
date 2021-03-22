@@ -1,1 +1,1 @@
-var mnemonic = "athlete gentle like sad chimney now brave minor orient champion license pave";
+var mnemonic = "exist jaguar parent caught true praise unaware defy humble bar mule angry";

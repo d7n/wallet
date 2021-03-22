@@ -1,1 +1,1 @@
-var mnemonic = "coyote shrug chicken squirrel zoo cousin saddle snap squirrel marine fuel add";
+var mnemonic = "buzz unfold neither victory vintage author comic hungry message pretty frost stuff";

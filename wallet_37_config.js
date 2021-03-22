@@ -1,1 +1,1 @@
-var mnemonic = "lion marble busy deliver isolate minimum aware number loud price hobby argue";
+var mnemonic = "decrease audit peasant lamp menu chicken tenant wave vital frog black whisper";

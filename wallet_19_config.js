@@ -1,1 +1,1 @@
-var mnemonic = "program fish need drink verb rude tortoise gorilla imitate mother fall draft";
+var mnemonic = "palm curtain owner market bunker waste drum coconut mean panic side correct";

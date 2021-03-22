@@ -1,1 +1,1 @@
-var mnemonic = "beef glass topic mouse flag surge scatter alley sure explain kitten innocent";
+var mnemonic = "abandon medal fly increase shallow fall own slim height other category gentle";

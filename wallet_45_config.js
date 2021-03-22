@@ -1,1 +1,1 @@
-var mnemonic = "ancient into gym blouse cost end deny pigeon dumb tonight crazy rotate";
+var mnemonic = "depart science viable voyage brief section keen daring smoke aerobic beach duty";

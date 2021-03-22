@@ -1,1 +1,1 @@
-var mnemonic = "film also symbol click hollow hidden enough cruise endless winter palace scatter";
+var mnemonic = "toe climb bird moment mention addict where exclude burst pudding rail arrive";

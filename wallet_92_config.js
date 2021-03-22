@@ -1,1 +1,1 @@
-var mnemonic = "civil vague prefer summer bless payment violin reopen clean crazy power marine";
+var mnemonic = "safe vessel alcohol door nation honey paddle aerobic runway there verify forget";

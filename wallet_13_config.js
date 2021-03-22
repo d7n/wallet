@@ -1,1 +1,1 @@
-var mnemonic = "absent fish torch caution cat degree square urge check mom loyal atom";
+var mnemonic = "bleak gasp fire estate journey cigar spray kid you marine hard slice";

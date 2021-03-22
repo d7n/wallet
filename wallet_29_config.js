@@ -1,1 +1,1 @@
-var mnemonic = "cart humble hire very despair saddle visit hollow section benefit unusual mosquito";
+var mnemonic = "ankle push harbor crucial sad become roof sound bright oblige recall diagram";

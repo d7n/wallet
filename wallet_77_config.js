@@ -1,1 +1,1 @@
-var mnemonic = "come share drill tape credit empower enemy response myth material attack cereal";
+var mnemonic = "cheap hero head release assume bird mechanic table echo alcohol derive session";

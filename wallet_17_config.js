@@ -1,1 +1,1 @@
-var mnemonic = "travel achieve fatal canvas fox embody please notice fly flight attract bonus";
+var mnemonic = "convince spoon wage bean mango anxiety vivid provide metal fork gold simple";

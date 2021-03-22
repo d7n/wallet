@@ -1,1 +1,1 @@
-var mnemonic = "style debate there cycle what pride timber animal execute brass verb accuse";
+var mnemonic = "fork fix toe sheriff decrease loyal cannon chase refuse cart marriage object";

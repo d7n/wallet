@@ -1,1 +1,1 @@
-var mnemonic = "harvest lecture rich enforce target sorry earn hood learn guilt pair boost";
+var mnemonic = "struggle genuine need cotton pull aerobic cart correct boy town kidney federal";

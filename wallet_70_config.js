@@ -1,1 +1,1 @@
-var mnemonic = "car they outdoor blind visual surprise main pave effort trumpet raccoon skate";
+var mnemonic = "cart left roast clown jacket stumble hockey lava skate buyer album update";

@@ -1,1 +1,1 @@
-var mnemonic = "come spell faint net squirrel steak snow flash language pole focus creek";
+var mnemonic = "flock use lawn surround second art pill aware toss dry divorce wasp";

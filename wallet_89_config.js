@@ -1,1 +1,1 @@
-var mnemonic = "exit almost boost base stem iron shed lift broken burden together crunch";
+var mnemonic = "move cupboard erupt bid cute clever shoulder term near must series insane";

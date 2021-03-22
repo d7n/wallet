@@ -1,1 +1,1 @@
-var mnemonic = "detail repair multiply network shield autumn silk chief rotate sting chaos draft";
+var mnemonic = "steel edit evoke swamp original bargain chat pet lecture process share genuine";

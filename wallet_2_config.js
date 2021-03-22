@@ -1,1 +1,1 @@
-var mnemonic = "spider ranch gentle churn that where labor club trip census segment hobby";
+var mnemonic = "when zoo slide awake over two armor pizza toss cricket snack shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "sea keen twin stone surround service trend student avocado tower sunny habit";
+var mnemonic = "fog finger enlist return vague price lunar detect salt tired travel diary";

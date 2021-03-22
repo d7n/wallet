@@ -1,1 +1,1 @@
-var mnemonic = "clock divorce tonight walk close put fame lawsuit hint curtain excite glad";
+var mnemonic = "fatigue online empty guitar betray spring cave ecology nasty weird regular manage";

@@ -1,1 +1,1 @@
-var mnemonic = "demise rate smooth camera mass fly bundle void lemon asthma language put";
+var mnemonic = "cube egg erase critic focus rather cactus hamster merry laugh cook response";

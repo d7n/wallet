@@ -1,1 +1,1 @@
-var mnemonic = "upset cliff cereal health nurse ignore vague practice flash inquiry target close";
+var mnemonic = "latin stuff rural repair spare relax tape animal dinner nasty consider planet";

@@ -1,1 +1,1 @@
-var mnemonic = "track carpet leopard warm verify mosquito hazard obvious borrow alert lunar sugar";
+var mnemonic = "type furnace afraid midnight exhaust blind tiny attitude moral robust shoulder unable";

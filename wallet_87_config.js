@@ -1,1 +1,1 @@
-var mnemonic = "north loop hover old exchange neglect penalty indoor crowd reopen doctor fringe";
+var mnemonic = "lock battle hurdle broccoli magnet tent topic isolate today expect brass uncover";

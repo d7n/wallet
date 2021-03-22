@@ -1,1 +1,1 @@
-var mnemonic = "action fever tenant they immune alert picnic sketch bag purse lunch violin";
+var mnemonic = "diagram anxiety boy wear giraffe title cannon regular dynamic nice snap affair";

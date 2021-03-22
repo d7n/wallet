@@ -1,1 +1,1 @@
-var mnemonic = "gasp beach draw negative pottery decline hurt same unknown identify merge breeze";
+var mnemonic = "indicate face picnic force circle hamster sing quiz curtain lady month swing";

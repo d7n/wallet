@@ -1,1 +1,1 @@
-var mnemonic = "volume fiber then flame title tissue will feed observe swim case ahead";
+var mnemonic = "dust insane random enact bubble fall unfold payment sheriff brief shine multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke jazz screen visit burger decline there bench spider truly high laundry";
+var mnemonic = "reward device woman visit grain wood deer family zebra mule hollow cup";

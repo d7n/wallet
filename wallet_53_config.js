@@ -1,1 +1,1 @@
-var mnemonic = "credit usage carbon arm cup trip river alarm skin cover flat appear";
+var mnemonic = "amazing winner issue grief battle ocean tired abuse shiver math skill nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "negative seminar arrow track face walk duck theme gain onion test song";
+var mnemonic = "actress diet such employ empower address initial car wrist lucky ring hawk";

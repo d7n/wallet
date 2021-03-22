@@ -1,1 +1,1 @@
-var mnemonic = "glow silk dwarf fancy garage bright shove sugar method involve decrease loyal";
+var mnemonic = "capital type cost display egg oak melt excess vanish matter slim upper";

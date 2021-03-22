@@ -1,1 +1,1 @@
-var mnemonic = "crash intact patch release vast modify husband scare crop material hub acoustic";
+var mnemonic = "april inflict shiver phrase fly pipe rookie gallery either garden social win";

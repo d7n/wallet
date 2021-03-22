@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur member table swim please blush broccoli hotel empower heart hello dice";
+var mnemonic = "pelican bitter beauty social forum entire title gadget tree farm love clever";

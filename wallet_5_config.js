@@ -1,1 +1,1 @@
-var mnemonic = "will inmate toilet elite soon wage essay balance exhibit budget relax under";
+var mnemonic = "travel retreat boil aisle iron cannon help cricket arena suggest slender quote";

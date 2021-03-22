@@ -1,1 +1,1 @@
-var mnemonic = "gown gather finish elder pilot tonight hamster wash march isolate century uniform";
+var mnemonic = "day flee injury indoor split evoke general high poem artefact car decorate";

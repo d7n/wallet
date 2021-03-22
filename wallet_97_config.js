@@ -1,1 +1,1 @@
-var mnemonic = "pyramid monitor practice coil way erosion since thrive whale license minimum topple";
+var mnemonic = "stadium barely cliff layer setup narrow pupil miracle coral ugly strike avocado";

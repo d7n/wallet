@@ -1,1 +1,1 @@
-var mnemonic = "base blossom interest dinosaur busy path you decrease cricket cancel glove twin";
+var mnemonic = "crane injury burger illegal wisdom join kid satoshi prize impulse degree other";

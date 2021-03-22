@@ -1,1 +1,1 @@
-var mnemonic = "seminar derive empower ocean mix cake matrix raw shrug clip frog scissors";
+var mnemonic = "post always fresh bring chunk thumb cattle resemble thought win opera truly";

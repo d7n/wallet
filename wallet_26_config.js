@@ -1,1 +1,1 @@
-var mnemonic = "square man bid peasant word shield address select aim clay finger chief";
+var mnemonic = "lecture admit hard easy length oppose behind earth tag olive shoulder deal";

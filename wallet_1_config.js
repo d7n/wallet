@@ -1,1 +1,1 @@
-var mnemonic = "second slice mixture combine curve casino scrap town faith trap six pupil";
+var mnemonic = "beyond swift client bone shine girl just click near shift industry identify";

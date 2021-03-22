@@ -1,1 +1,1 @@
-var mnemonic = "tragic liquid jewel analyst trophy crawl carbon chuckle solid like maid soccer";
+var mnemonic = "hotel night rack fly amused raven mango whale element cycle note face";

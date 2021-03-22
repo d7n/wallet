@@ -1,1 +1,1 @@
-var mnemonic = "dress opera waste measure lemon enact idle struggle bench timber hire defy";
+var mnemonic = "legal metal you remind police love east dune disease fever derive trend";

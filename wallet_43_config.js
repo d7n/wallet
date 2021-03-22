@@ -1,1 +1,1 @@
-var mnemonic = "brass patch ask mercy believe fold victory mother evil hazard saddle bottom";
+var mnemonic = "imitate clap denial tourist belt device magnet glad exile brand chair close";

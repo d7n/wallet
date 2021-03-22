@@ -1,1 +1,1 @@
-var mnemonic = "habit veteran donate vibrant cluster rug code fog spirit cheap van hello";
+var mnemonic = "size box wood twice shift various seven degree ethics today alley clever";
