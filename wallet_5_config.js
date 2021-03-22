@@ -1,1 +1,1 @@
-var mnemonic = "scissors fish elephant wheat beauty catalog link immune stomach cloud exercise loop";
+var mnemonic = "occur already crisp obscure endless choose thought library silly annual multiply tell";

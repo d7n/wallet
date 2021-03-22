@@ -1,1 +1,1 @@
-var mnemonic = "flip cheese range buddy spice hat bitter agree bachelor plate miss hair";
+var mnemonic = "conduct bargain ladder coyote morning park illegal repeat view dilemma wage witness";

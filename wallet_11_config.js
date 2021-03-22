@@ -1,1 +1,1 @@
-var mnemonic = "shoot olive echo inner album spring child beyond domain model goddess check";
+var mnemonic = "green choice sea wedding oil endless depend interest tobacco glare exhibit omit";

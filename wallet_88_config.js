@@ -1,1 +1,1 @@
-var mnemonic = "rural calm liar satoshi valid strike sweet oval spirit theme shield century";
+var mnemonic = "rent elevator track planet suit expire grief view dignity term winner spray";

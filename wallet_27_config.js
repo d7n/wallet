@@ -1,1 +1,1 @@
-var mnemonic = "actual expire ankle oblige derive life patch wrestle mixture ticket beauty increase";
+var mnemonic = "crawl castle tonight scout jaguar heart trumpet tennis view assume turkey shop";

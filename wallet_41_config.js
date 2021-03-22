@@ -1,1 +1,1 @@
-var mnemonic = "element river deposit easy flat drill casino saddle unique clown clown lion";
+var mnemonic = "junk want candy wrong fossil episode example casual cover lunar exhaust unfold";

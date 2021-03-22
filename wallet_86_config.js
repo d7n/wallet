@@ -1,1 +1,1 @@
-var mnemonic = "alter annual wrestle oven vehicle truck gossip shop assist subway sign captain";
+var mnemonic = "poem lyrics farm rival unhappy wagon spider scare rule buzz account dog";

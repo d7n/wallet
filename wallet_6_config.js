@@ -1,1 +1,1 @@
-var mnemonic = "weapon sport guide decide ski relax dirt axis journey plug degree lake";
+var mnemonic = "add program country sunny cattle lucky cluster syrup total divert biology own";

@@ -1,1 +1,1 @@
-var mnemonic = "whale jaguar ten bomb depart awesome control duck material avocado miracle million";
+var mnemonic = "hurdle bar spider inmate join symptom guard venture stay slogan veteran permit";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky peace flat ceiling juice base innocent large reason jump tree cinnamon";
+var mnemonic = "unlock shadow dizzy horse legal thing bulk found dial business pond ethics";

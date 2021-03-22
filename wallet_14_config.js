@@ -1,1 +1,1 @@
-var mnemonic = "bike surround gun figure burst obtain genre forum match trip dolphin sadness";
+var mnemonic = "false slush control cargo capable onion also vibrant half uphold organ dance";

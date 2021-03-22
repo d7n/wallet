@@ -1,1 +1,1 @@
-var mnemonic = "proof swallow alpha current relief name ginger truly minor organ badge nation";
+var mnemonic = "night cattle concert kit squirrel canal floor dilemma hawk song wisdom injury";

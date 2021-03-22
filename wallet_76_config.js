@@ -1,1 +1,1 @@
-var mnemonic = "glare hurt indicate vague ugly useless lawsuit sister mansion beach island ridge";
+var mnemonic = "album evidence original doctor bike crazy guide juice cook limit fiscal sight";

@@ -1,1 +1,1 @@
-var mnemonic = "grid math message raise robust pole mean economy eternal unlock duck recycle";
+var mnemonic = "deputy squeeze practice tray suit unfair token exit desert connect begin check";

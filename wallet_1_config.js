@@ -1,1 +1,1 @@
-var mnemonic = "mechanic mimic grit ski seed jazz inch deliver claw popular sure parent";
+var mnemonic = "hope security refuse prefer chat small jaguar rival quality note quick garment";

@@ -1,1 +1,1 @@
-var mnemonic = "siren doll hurry friend drop man movie island steel lunch garbage project";
+var mnemonic = "zebra resource hour brick final imitate butter quality grunt teach insane patrol";

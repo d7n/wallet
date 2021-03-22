@@ -1,1 +1,1 @@
-var mnemonic = "mask title alley reduce move float toddler sell begin scheme aunt useful";
+var mnemonic = "bless stock omit end antenna escape sugar reduce leisure rule elbow burger";

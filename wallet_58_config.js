@@ -1,1 +1,1 @@
-var mnemonic = "hollow face nut fall shoe grief era speak people ankle silent retire";
+var mnemonic = "voyage wolf coin eight plunge frozen album certain act exist system mixture";

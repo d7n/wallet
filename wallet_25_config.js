@@ -1,1 +1,1 @@
-var mnemonic = "what black space thing essay rebel goat avocado motion cart celery car";
+var mnemonic = "mesh section slab village away device crash risk neither insane utility polar";

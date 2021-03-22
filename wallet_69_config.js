@@ -1,1 +1,1 @@
-var mnemonic = "topic inhale soup organ toddler memory foot price perfect fever portion fan";
+var mnemonic = "turkey mesh exhaust chunk usage claw guitar consider lens congress viable mosquito";

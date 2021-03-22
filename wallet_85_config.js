@@ -1,1 +1,1 @@
-var mnemonic = "long obvious filter trigger bullet clay remain artist airport seven ginger nature";
+var mnemonic = "more notice artist rate brave approve pass honey amateur tomorrow runway capital";

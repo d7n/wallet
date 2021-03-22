@@ -1,1 +1,1 @@
-var mnemonic = "crazy famous abuse palm purse anger leader bus below gun biology wire";
+var mnemonic = "potato rescue bench uniform defense trumpet valid love lift bundle skill advice";

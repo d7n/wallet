@@ -1,1 +1,1 @@
-var mnemonic = "depth fitness split plunge case enroll tennis unknown heart carbon promote orphan";
+var mnemonic = "rail fiber fancy repair wear obey illegal accuse must black family foot";

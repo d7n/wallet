@@ -1,1 +1,1 @@
-var mnemonic = "deer devote unlock umbrella frog suspect segment ice nose trade lion slight";
+var mnemonic = "uncover cute sauce try shuffle quantum absurd leisure reopen tunnel great segment";

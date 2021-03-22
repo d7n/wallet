@@ -1,1 +1,1 @@
-var mnemonic = "hat outside round thrive amused struggle dirt depend canal faith predict bag";
+var mnemonic = "galaxy sadness loud feed approve burst arctic meadow crunch diamond limb drive";

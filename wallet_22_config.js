@@ -1,1 +1,1 @@
-var mnemonic = "wheel scout proof expose under vital cabbage vessel pupil dice dream dinner";
+var mnemonic = "major mobile panic vague diet gown capable damage baby level spring drum";

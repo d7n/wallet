@@ -1,1 +1,1 @@
-var mnemonic = "jewel frog snow that excess pig figure found powder ugly dog penalty";
+var mnemonic = "cousin wool scatter water brief aisle spirit parrot nominee tiger fetch embark";

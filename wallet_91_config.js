@@ -1,1 +1,1 @@
-var mnemonic = "author caution icon wife lucky middle penalty garment civil involve budget release";
+var mnemonic = "paper device window zebra tongue morning mother right print rifle produce eternal";

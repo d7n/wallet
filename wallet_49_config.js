@@ -1,1 +1,1 @@
-var mnemonic = "nominee climb bar ignore poem swim warm shy mail host image casual";
+var mnemonic = "differ fossil injury demand awake sketch surge auction toward depth fee vanish";

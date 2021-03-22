@@ -1,1 +1,1 @@
-var mnemonic = "evil rigid visa example inside injury advice river wheat lottery bulb destroy";
+var mnemonic = "point first patient swift busy dwarf know address enroll display distance torch";

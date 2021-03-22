@@ -1,1 +1,1 @@
-var mnemonic = "shrimp hole today cross peasant vote burden announce since title city cigar";
+var mnemonic = "nut lizard hello canvas scheme matrix use soon put faith liberty tonight";

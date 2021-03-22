@@ -1,1 +1,1 @@
-var mnemonic = "hand open hundred nurse birth swap license word middle easy witness position";
+var mnemonic = "enact destroy slogan vocal ribbon spawn slot monster key lounge warm above";

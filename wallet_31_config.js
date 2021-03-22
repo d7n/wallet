@@ -1,1 +1,1 @@
-var mnemonic = "negative level ketchup base theme finish empower riot donor siren wedding boil";
+var mnemonic = "chat torch comfort frame shop intact smile balcony ceiling minute faith aunt";

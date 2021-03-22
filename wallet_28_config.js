@@ -1,1 +1,1 @@
-var mnemonic = "purse method regret find upgrade impact wrist meat shaft end boy piece";
+var mnemonic = "venture hint prepare glory undo interest soft awful peanut boat behave couple";

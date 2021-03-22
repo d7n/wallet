@@ -1,1 +1,1 @@
-var mnemonic = "soap attend vanish market injury popular pretty engine sleep jazz couch soul";
+var mnemonic = "unfold bicycle thing hour gain duty casual awkward hidden glare beach make";

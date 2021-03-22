@@ -1,1 +1,1 @@
-var mnemonic = "vendor essay sniff swap march absorb betray copper grow where neutral remain";
+var mnemonic = "secret body pigeon ready trophy find bitter funny envelope siege small smoke";

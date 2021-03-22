@@ -1,1 +1,1 @@
-var mnemonic = "portion lobster drastic matter follow depend sure side omit make cube shoot";
+var mnemonic = "waste wrap rookie joy sorry session case real trigger loyal friend romance";

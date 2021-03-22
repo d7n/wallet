@@ -1,1 +1,1 @@
-var mnemonic = "rubber rug edit situate vault modify intact learn dutch mask return enlist";
+var mnemonic = "avocado climb office please milk forget element box father crazy midnight lab";

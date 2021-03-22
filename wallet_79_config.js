@@ -1,1 +1,1 @@
-var mnemonic = "pink lock excuse label card lunar item evidence tone venture cabin deposit";
+var mnemonic = "company bread pencil antique lazy senior goat chalk fit word exist put";

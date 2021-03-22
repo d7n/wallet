@@ -1,1 +1,1 @@
-var mnemonic = "ghost hawk invite lumber adult bag screen panic arrive runway deposit wheat";
+var mnemonic = "raw tip fine damage police biology sauce victory crack inner author soup";

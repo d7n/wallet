@@ -1,1 +1,1 @@
-var mnemonic = "blue gallery erode ramp about voice vocal feel hard catalog dress rookie";
+var mnemonic = "cup nasty yard old salmon useless between regret because shoot knee nuclear";

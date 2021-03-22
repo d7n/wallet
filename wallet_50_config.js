@@ -1,1 +1,1 @@
-var mnemonic = "oxygen despair blanket path solid good trade chicken bird tank focus wolf";
+var mnemonic = "blind faith anxiety lizard mask sight fuel blood radio better hair trust";

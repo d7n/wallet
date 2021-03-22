@@ -1,1 +1,1 @@
-var mnemonic = "cruel agent dash budget fitness stem inner rabbit coach night polar flip";
+var mnemonic = "pottery cherry bitter century web practice danger jump behind street same slight";

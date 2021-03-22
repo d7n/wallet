@@ -1,1 +1,1 @@
-var mnemonic = "enable junk ice loyal episode wild priority razor whale food gasp visual";
+var mnemonic = "code fit bonus cup small recycle bid reflect ship token video clip";

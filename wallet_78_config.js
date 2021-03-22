@@ -1,1 +1,1 @@
-var mnemonic = "million fault language woman siren beauty ceiling broccoli soldier spread primary empower";
+var mnemonic = "crater you hub prefer draw admit process weather note pony scale soccer";

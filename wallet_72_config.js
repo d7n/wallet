@@ -1,1 +1,1 @@
-var mnemonic = "coast size ride under female toast neutral hundred drill wedding ring inch";
+var mnemonic = "blush sand auction home there castle canal melt industry cheap cushion differ";

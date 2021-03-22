@@ -1,1 +1,1 @@
-var mnemonic = "modify miss pumpkin monitor cannon liquid peace odor quit margin load outer";
+var mnemonic = "about pioneer whip plunge thunder huge client release submit urge version loud";

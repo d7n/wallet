@@ -1,1 +1,1 @@
-var mnemonic = "turkey develop degree fabric venture reveal lesson cargo swallow choose credit flee";
+var mnemonic = "void tray woman endorse lock priority pill outside disorder hip pattern pig";

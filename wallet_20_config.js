@@ -1,1 +1,1 @@
-var mnemonic = "approve delay robot razor festival abandon distance ivory what cattle muffin honey";
+var mnemonic = "grace best myth rent predict female second firm target citizen canal until";

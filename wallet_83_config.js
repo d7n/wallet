@@ -1,1 +1,1 @@
-var mnemonic = "enforce already nose chase remain balance nature accident agree enable dash essence";
+var mnemonic = "horse unveil rescue then situate video royal mirror kiss saddle tiny blast";

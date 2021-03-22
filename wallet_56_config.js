@@ -1,1 +1,1 @@
-var mnemonic = "affair only swing clump wire million husband exit rapid ethics code attack";
+var mnemonic = "two soap hair broken damage rack kitten federal emerge paddle bike eager";

@@ -1,1 +1,1 @@
-var mnemonic = "badge spoon cinnamon hurt tonight knee forget aunt tip patrol view cloth";
+var mnemonic = "hollow cream north swear coil claim chase donor blush shrimp stomach menu";

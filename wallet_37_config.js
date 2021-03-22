@@ -1,1 +1,1 @@
-var mnemonic = "draft aerobic enough say menu there lady say dry smooth raw dust";
+var mnemonic = "crucial area school harvest accident size romance velvet analyst grass arena live";

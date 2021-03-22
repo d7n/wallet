@@ -1,1 +1,1 @@
-var mnemonic = "digital hood cattle razor sheriff mimic detail razor cruel risk news time";
+var mnemonic = "coach you charge transfer gauge buyer journey wonder poverty collect flight direct";

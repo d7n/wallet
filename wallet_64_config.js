@@ -1,1 +1,1 @@
-var mnemonic = "pull icon chicken run bundle unaware wet forget arch ride crucial derive";
+var mnemonic = "color wine kind grace spell cabin edit swift april soon tattoo question";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset cave pattern enter educate guide stuff token idle street trim trend";
+var mnemonic = "bind final image tornado novel admit type ozone magic chair exist arrow";

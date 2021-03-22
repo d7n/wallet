@@ -1,1 +1,1 @@
-var mnemonic = "carbon element carbon recycle sorry rifle ginger cigar cargo pony damp pizza";
+var mnemonic = "forum page wide grant extra disagree demand solid repair shiver dolphin inject";

@@ -1,1 +1,1 @@
-var mnemonic = "misery praise view express future taste message picnic absent entry census convince";
+var mnemonic = "kiwi bind element fancy genuine claim rapid girl unveil lumber pink combine";

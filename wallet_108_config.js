@@ -1,1 +1,1 @@
-var mnemonic = "sweet narrow version moon junk kind leg diary fringe hollow maid ignore";
+var mnemonic = "lion clay ritual response olympic awful spoon option credit lucky negative key";

@@ -1,1 +1,1 @@
-var mnemonic = "extra float creek seat tip soft meadow bar sentence image day table";
+var mnemonic = "flush double dog dress season acquire travel stone uncover good truly cook";

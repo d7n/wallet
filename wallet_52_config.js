@@ -1,1 +1,1 @@
-var mnemonic = "melody slight detect practice end prevent board cannon defy romance spoil idle";
+var mnemonic = "spot clump nest liar stone sell exhibit team bone judge boat foil";

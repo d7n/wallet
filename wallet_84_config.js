@@ -1,1 +1,1 @@
-var mnemonic = "fluid supreme banner beyond heart subway devote net web shoe cabin two";
+var mnemonic = "address super amount oppose digital tell empty release radio limb dry purse";

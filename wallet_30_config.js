@@ -1,1 +1,1 @@
-var mnemonic = "wife acoustic math vanish object key boy blast decide cannon best fall";
+var mnemonic = "journey park win joke steel alcohol subway nephew collect hen half image";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff senior robust beach basket pupil inspire shuffle comic foam leopard diamond";
+var mnemonic = "fog clay guide entire tower brass cloud broccoli can stereo suffer young";

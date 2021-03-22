@@ -1,1 +1,1 @@
-var mnemonic = "surge risk gas drum exclude spare retreat together theory pupil kingdom ramp";
+var mnemonic = "fatigue weasel field spawn sustain genre kidney strong clap across shop strategy";

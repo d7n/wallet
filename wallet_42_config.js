@@ -1,1 +1,1 @@
-var mnemonic = "paper put when bamboo rely rival want year armed blade casual patrol";
+var mnemonic = "print common logic joy genuine audit announce oil box walk view jungle";

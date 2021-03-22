@@ -1,1 +1,1 @@
-var mnemonic = "normal island advice minute powder release body stomach decline able jump core";
+var mnemonic = "monitor order dash banner short dirt hockey spread gift weapon collect material";

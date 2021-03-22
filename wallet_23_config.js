@@ -1,1 +1,1 @@
-var mnemonic = "educate lottery collect prefer tenant crumble giant muffin mushroom buyer admit cereal";
+var mnemonic = "visa width you inflict endless begin sketch try when correct write fade";

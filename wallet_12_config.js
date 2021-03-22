@@ -1,1 +1,1 @@
-var mnemonic = "indicate keep address eight april number immune exhaust helmet license kick boy";
+var mnemonic = "best bring display tail banner layer step february rude wolf leader crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "model pluck boat palace exclude unknown liar rough elbow joke crime grunt";
+var mnemonic = "advice since alarm online ghost use nuclear curious wedding broom sketch siren";

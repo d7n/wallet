@@ -1,1 +1,1 @@
-var mnemonic = "expire sadness actual fever leave hawk puppy stand lawsuit abstract fresh symbol";
+var mnemonic = "black vehicle eight tongue alpha crunch recycle load then follow sugar piano";

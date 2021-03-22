@@ -1,1 +1,1 @@
-var mnemonic = "opera meat figure only shoe wall umbrella blade sausage defy cause ridge";
+var mnemonic = "fade trend ice taste pistol opera pluck tattoo diamond special setup tip";

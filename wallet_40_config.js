@@ -1,1 +1,1 @@
-var mnemonic = "latin flock drama royal escape wide similar wool sail decorate belt metal";
+var mnemonic = "fiction first system endless win sentence panther confirm cram surprise entire eye";

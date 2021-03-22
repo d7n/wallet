@@ -1,1 +1,1 @@
-var mnemonic = "arrest achieve poem coral midnight country staff latin chapter mercy judge slot";
+var mnemonic = "slight ice athlete fabric govern autumn age sure despair cycle smart swarm";

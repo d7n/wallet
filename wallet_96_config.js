@@ -1,1 +1,1 @@
-var mnemonic = "suit volume excite cash mad awake define warrior exchange umbrella apple picnic";
+var mnemonic = "reason chest liquid always casual hammer right slice basic phrase burger tell";

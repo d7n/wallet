@@ -1,1 +1,1 @@
-var mnemonic = "already dwarf oyster pulp first member access spoon acquire radar loyal rate";
+var mnemonic = "gown coconut sign rely yard potato despair table shine salon glance girl";

@@ -1,1 +1,1 @@
-var mnemonic = "strike summer rabbit enjoy token tiny vault relief idle barrel damage cereal";
+var mnemonic = "assist obey hold celery lounge demand cat indoor salad oxygen draft summer";

@@ -1,1 +1,1 @@
-var mnemonic = "apology hat grab entry toddler vicious labor spring acquire chase food jewel";
+var mnemonic = "angle lava wish hospital crazy nasty agent hurdle disagree merge they learn";

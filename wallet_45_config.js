@@ -1,1 +1,1 @@
-var mnemonic = "home primary mountain side junk parent come eagle husband someone dentist dignity";
+var mnemonic = "domain soap recycle tuna evoke decide palace mass fly electric shuffle effort";

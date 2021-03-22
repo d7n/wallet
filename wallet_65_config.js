@@ -1,1 +1,1 @@
-var mnemonic = "stage fox pet beef fine joke umbrella jewel myself lawsuit giraffe suggest";
+var mnemonic = "orphan ostrich trigger nuclear athlete myth rose gold shop spot stone lamp";

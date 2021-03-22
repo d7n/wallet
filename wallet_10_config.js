@@ -1,1 +1,1 @@
-var mnemonic = "taste across jungle giraffe awesome ostrich elevator orphan link grass divide survey";
+var mnemonic = "gravity aerobic faith stick list satisfy potato test someone decline box despair";

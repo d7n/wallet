@@ -1,1 +1,1 @@
-var mnemonic = "biology there aim few theme consider thunder right rigid merge ancient tide";
+var mnemonic = "bright pilot broccoli praise defense one whale category foster loop local dutch";

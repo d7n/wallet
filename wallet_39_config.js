@@ -1,1 +1,1 @@
-var mnemonic = "nothing mistake poet armed obscure crime logic before tongue board family siege";
+var mnemonic = "flag spend use inhale claw grant rain like breeze outdoor holiday gloom";

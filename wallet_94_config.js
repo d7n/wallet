@@ -1,1 +1,1 @@
-var mnemonic = "custom jaguar leisure scare secret orchard affair mountain bulb accident hedgehog wolf";
+var mnemonic = "prefer bread debris decrease priority cook bracket lumber clever balance result ketchup";

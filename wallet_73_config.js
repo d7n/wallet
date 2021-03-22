@@ -1,1 +1,1 @@
-var mnemonic = "tip fruit uncover useless sport hat remove hawk violin method follow hybrid";
+var mnemonic = "celery brand there funny sugar around nerve month shy opinion hill return";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp square true output famous chat pulp rebel weasel flower kiss scorpion";
+var mnemonic = "bright pair coil blood cargo tomorrow disagree country radar you royal empower";

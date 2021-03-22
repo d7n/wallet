@@ -1,1 +1,1 @@
-var mnemonic = "gate someone blue fiction collect imitate million witness age village evoke uphold";
+var mnemonic = "artist envelope iron they slam able purity chair save aunt hire track";
