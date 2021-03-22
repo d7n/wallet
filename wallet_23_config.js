@@ -1,1 +1,1 @@
-var mnemonic = "ahead leave better drill home erupt demand voice brain screen economy three";
+var mnemonic = "twenty tower giraffe ketchup reform sponsor rely frown social detect worry squeeze";

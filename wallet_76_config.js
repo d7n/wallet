@@ -1,1 +1,1 @@
-var mnemonic = "normal black require cliff unable immense tissue vessel castle exhibit leader stove";
+var mnemonic = "raise coach grass aerobic shy today belt air oblige elite mad melt";

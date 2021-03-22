@@ -1,1 +1,1 @@
-var mnemonic = "task track sugar element zone visit river cry pause arrow accuse impulse";
+var mnemonic = "tobacco super evolve attack robot raw number smile exercise fly wheat raccoon";

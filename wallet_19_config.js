@@ -1,1 +1,1 @@
-var mnemonic = "unique live race opera panel unique embark violin arrive degree reunion plate";
+var mnemonic = "ginger brisk wild myself image rival current friend organ language glory hurt";

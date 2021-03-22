@@ -1,1 +1,1 @@
-var mnemonic = "girl invite hen spot claw crater hand blur energy coconut actress adult";
+var mnemonic = "one obey clinic fame island song figure sustain roast toward wool sign";

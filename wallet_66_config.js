@@ -1,1 +1,1 @@
-var mnemonic = "blade fall ski all knock arctic middle citizen word abuse damage flag";
+var mnemonic = "angry there message bunker wasp kid holiday alarm away print nice size";

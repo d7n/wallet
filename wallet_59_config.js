@@ -1,1 +1,1 @@
-var mnemonic = "indicate snow radio peace stadium image across also almost gadget lock day";
+var mnemonic = "guess execute fragile stand wash potato retreat trust paddle bamboo upgrade rare";

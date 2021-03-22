@@ -1,1 +1,1 @@
-var mnemonic = "volcano mansion flee surprise remove mutual room spirit few parrot cost venue";
+var mnemonic = "movie grass great buffalo flock trigger tone forward fork vacuum hold lawsuit";

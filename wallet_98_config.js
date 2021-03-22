@@ -1,1 +1,1 @@
-var mnemonic = "thank bench cart piano one corn kit twenty ocean monitor canyon ribbon";
+var mnemonic = "trend desert outdoor boil picnic hire behind jealous radio tent speak state";

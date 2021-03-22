@@ -1,1 +1,1 @@
-var mnemonic = "winner chalk flavor father swing enact genius price clean pulp reform language";
+var mnemonic = "dragon release lawn velvet village diagram bone shell permit carpet board uncover";

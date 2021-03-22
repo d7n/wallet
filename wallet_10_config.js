@@ -1,1 +1,1 @@
-var mnemonic = "section boat bronze desk hole whisper author cliff tone shadow woman agent";
+var mnemonic = "gentle any image wink recall diesel pen fence vendor hint pretty pull";

@@ -1,1 +1,1 @@
-var mnemonic = "infant month cute army else finish auto pool require urge increase inside";
+var mnemonic = "able tongue liar idle never boil suit indicate coyote expire parade advance";

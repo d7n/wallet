@@ -1,1 +1,1 @@
-var mnemonic = "improve entire sorry lake demand orient pencil torch usual clean gun hobby";
+var mnemonic = "hip bachelor shrug program any noble flame initial fatigue budget code couple";

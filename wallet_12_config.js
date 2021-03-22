@@ -1,1 +1,1 @@
-var mnemonic = "venue agree where era rifle pudding edge empower hope quality love nation";
+var mnemonic = "mammal vast license taste scorpion pact chronic unusual element bid multiply soda";

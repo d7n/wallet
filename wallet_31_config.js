@@ -1,1 +1,1 @@
-var mnemonic = "slender thunder focus link naive spell misery spare payment buffalo inside steak";
+var mnemonic = "lecture budget barely tree clever rate crowd act turkey develop elephant hire";

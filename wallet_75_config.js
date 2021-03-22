@@ -1,1 +1,1 @@
-var mnemonic = "hybrid jewel casual method wrist stomach crisp tone olive exhaust west credit";
+var mnemonic = "coral blue gossip resist just slab eight lava announce monkey cannon dismiss";

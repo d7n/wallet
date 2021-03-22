@@ -1,1 +1,1 @@
-var mnemonic = "wall hair peanut acid evidence daring work balcony health stereo toward unit";
+var mnemonic = "pear unique cheese velvet trial slab child keep expand squirrel video grab";

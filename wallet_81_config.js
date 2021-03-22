@@ -1,1 +1,1 @@
-var mnemonic = "speak feel gauge mask orbit angle giant rigid combine enlist orbit require";
+var mnemonic = "pause ten spirit blur visit stick general purchase torch three mandate enemy";

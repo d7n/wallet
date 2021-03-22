@@ -1,1 +1,1 @@
-var mnemonic = "student local impact settle liar enroll all output ozone abuse law armor";
+var mnemonic = "reject female airport sell winner claw example patient detect term earn novel";

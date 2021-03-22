@@ -1,1 +1,1 @@
-var mnemonic = "tragic agent venture cloud fit forget task indicate ancient puzzle order cousin";
+var mnemonic = "hunt able climb solve wheel vacant bike discover yellow federal west minimum";

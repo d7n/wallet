@@ -1,1 +1,1 @@
-var mnemonic = "shuffle year depart body excite amazing usage reason cup ranch art forest";
+var mnemonic = "again wrestle slender elder hurry behave media sketch bench evil hamster impose";

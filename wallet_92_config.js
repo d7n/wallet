@@ -1,1 +1,1 @@
-var mnemonic = "left visual hidden image habit mountain infant advice bulb very hundred cycle";
+var mnemonic = "glove monkey security victory phrase impulse spider antenna dragon mean shield step";

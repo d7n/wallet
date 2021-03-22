@@ -1,1 +1,1 @@
-var mnemonic = "believe good grit enhance panther speed disease access kid wing derive attend";
+var mnemonic = "borrow mutual honey flower hair balance burden hundred type more cushion mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "lava novel van worth arm slam wool city story inject crack narrow";
+var mnemonic = "tragic few figure scheme tongue entire baby prevent plate poverty farm juice";

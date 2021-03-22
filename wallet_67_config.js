@@ -1,1 +1,1 @@
-var mnemonic = "fashion style arena gasp runway always notice nephew kind finish quality bring";
+var mnemonic = "office escape clarify perfect stock hammer addict poet goose dune dumb height";

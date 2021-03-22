@@ -1,1 +1,1 @@
-var mnemonic = "begin connect topple mouse security peasant turkey silk local thrive jungle double";
+var mnemonic = "mixture suffer early industry save tuition vault loop badge replace popular credit";

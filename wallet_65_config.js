@@ -1,1 +1,1 @@
-var mnemonic = "rib repair scissors seed since regular start gospel excess decline welcome this";
+var mnemonic = "regular burst gossip bullet network scene expand main core gospel tag helmet";

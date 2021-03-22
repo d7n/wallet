@@ -1,1 +1,1 @@
-var mnemonic = "eternal six foil suit level ensure vessel pulp goat glad knee frame";
+var mnemonic = "already foot income bleak giant visual hospital train say mom dash almost";

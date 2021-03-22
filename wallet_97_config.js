@@ -1,1 +1,1 @@
-var mnemonic = "rate reunion battle horror uncover album market east grid will level acoustic";
+var mnemonic = "across movie rice library hungry pen ask must immune sort legend gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "cute butter pumpkin job air muffin problem bottom coast proud assume slim";
+var mnemonic = "elevator sketch tonight garage wreck insane gorilla round audit balance because genius";

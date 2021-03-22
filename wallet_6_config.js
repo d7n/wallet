@@ -1,1 +1,1 @@
-var mnemonic = "rude law toddler bottom motor discover dinner disorder fade cup rely danger";
+var mnemonic = "ice moment utility blur soul custom smile human machine wine range peasant";

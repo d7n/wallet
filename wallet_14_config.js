@@ -1,1 +1,1 @@
-var mnemonic = "resemble solar adult tool oxygen yard prosper keen carpet breeze dragon update";
+var mnemonic = "coast resource remain seat romance chicken baby between guitar rely lake warrior";

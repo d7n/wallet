@@ -1,1 +1,1 @@
-var mnemonic = "august script reunion mesh asthma guilt width leg hammer canyon dog fatigue";
+var mnemonic = "glare ill buyer spoon curious budget horror exclude finger client firm tree";

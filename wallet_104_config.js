@@ -1,1 +1,1 @@
-var mnemonic = "eight curious patient attack misery access wolf lemon holiday ordinary acid replace";
+var mnemonic = "napkin return brave broom target traffic rent mechanic pyramid tennis raccoon quote";

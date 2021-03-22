@@ -1,1 +1,1 @@
-var mnemonic = "bitter tent indoor palace useful file group mouse cave horror logic off";
+var mnemonic = "scissors alone banana immune stool axis still pudding subject now pull town";

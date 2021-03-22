@@ -1,1 +1,1 @@
-var mnemonic = "zone nuclear keep sand parade comic tobacco height sign citizen again pencil";
+var mnemonic = "minor region scheme slim destroy visa habit crouch rice nothing stay birth";

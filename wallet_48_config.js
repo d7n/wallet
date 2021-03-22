@@ -1,1 +1,1 @@
-var mnemonic = "hurt toilet effort jacket unhappy travel art popular display piece one canyon";
+var mnemonic = "patch empty sniff silly whip impact denial fan misery hybrid impact embody";

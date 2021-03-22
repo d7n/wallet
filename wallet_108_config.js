@@ -1,1 +1,1 @@
-var mnemonic = "maze way defense tunnel collect fortune essay circle pizza canvas cricket question";
+var mnemonic = "prepare mix purse hurry color code clutch latin sunset east envelope album";

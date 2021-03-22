@@ -1,1 +1,1 @@
-var mnemonic = "video stairs deal assist parade have spare spread festival tuna vanish middle";
+var mnemonic = "burger tip tongue rack belt horse nut biology mixed magnet engage marine";

@@ -1,1 +1,1 @@
-var mnemonic = "measure kick foster save utility ring toy expire train liquid basket behind";
+var mnemonic = "general license keep bargain spider stay asset one panic panel tornado trigger";

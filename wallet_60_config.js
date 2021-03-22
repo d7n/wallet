@@ -1,1 +1,1 @@
-var mnemonic = "bulk unlock session honey weekend tide air capital hospital rain label omit";
+var mnemonic = "sound vehicle useful village onion walk engine expand other accident impose parade";

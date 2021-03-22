@@ -1,1 +1,1 @@
-var mnemonic = "runway pulp lens escape fold fan abandon suggest super uncle floor inch";
+var mnemonic = "arena analyst crater canoe broom happy false stool super dial century coach";

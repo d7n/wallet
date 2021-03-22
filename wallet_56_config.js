@@ -1,1 +1,1 @@
-var mnemonic = "wage tourist easy about jeans mistake fluid robust arrest blanket coffee intact";
+var mnemonic = "popular dynamic long session prize oppose weird wisdom cage involve rubber crumble";

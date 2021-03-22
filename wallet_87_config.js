@@ -1,1 +1,1 @@
-var mnemonic = "people couple before crater swift conduct observe alarm tone lunar renew screen";
+var mnemonic = "believe step virtual milk airport flavor key zoo square expose rule reward";

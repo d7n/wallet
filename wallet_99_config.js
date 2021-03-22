@@ -1,1 +1,1 @@
-var mnemonic = "tired arrive swap escape boss coin cycle mimic stereo chicken aspect alter";
+var mnemonic = "cement gentle sister endorse target cat acoustic lounge try thank net party";

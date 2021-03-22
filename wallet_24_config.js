@@ -1,1 +1,1 @@
-var mnemonic = "fan tornado track badge swing pool circle aware enter leopard health embody";
+var mnemonic = "amazing insane dress liquid record outer click emotion mistake year grow supply";

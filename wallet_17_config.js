@@ -1,1 +1,1 @@
-var mnemonic = "biology tragic awful canvas layer crawl slight cereal critic space federal sorry";
+var mnemonic = "cement sustain unfair cricket lion response gesture color find scrap obvious act";

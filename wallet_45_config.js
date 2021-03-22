@@ -1,1 +1,1 @@
-var mnemonic = "robust dad song end almost develop eager follow apology peace reflect paper";
+var mnemonic = "library surprise bronze sudden empty increase ask cream powder razor cruise basket";

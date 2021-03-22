@@ -1,1 +1,1 @@
-var mnemonic = "river retire slow deny engine voyage eight target soft addict begin grocery";
+var mnemonic = "female oxygen peanut energy will scene cliff kingdom coast sort blade together";

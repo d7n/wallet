@@ -1,1 +1,1 @@
-var mnemonic = "reduce recipe grab uphold whip message pepper audit joy private lyrics must";
+var mnemonic = "artwork magic orbit wait wear stand release pilot disorder drama off soup";

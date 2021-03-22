@@ -1,1 +1,1 @@
-var mnemonic = "error click dumb unfold volcano input fitness language raw shine conduct scare";
+var mnemonic = "story skin claim resemble announce unfold snap little three denial venue taste";

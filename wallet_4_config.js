@@ -1,1 +1,1 @@
-var mnemonic = "giraffe scissors sort rough equal thank upset fetch seven ritual page injury";
+var mnemonic = "riot utility bid forget devote gym tower hole kingdom again auction proof";

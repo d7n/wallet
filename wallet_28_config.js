@@ -1,1 +1,1 @@
-var mnemonic = "spot fossil choose lend wine analyst find eternal sibling yard twin ankle";
+var mnemonic = "because category better staff void soon thrive creek already process endorse tide";

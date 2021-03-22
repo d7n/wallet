@@ -1,1 +1,1 @@
-var mnemonic = "sibling blanket usage lyrics tape happy crane load arena myth donor mansion";
+var mnemonic = "render desert evil act puzzle table table month ordinary melody seminar steak";

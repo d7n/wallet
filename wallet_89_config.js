@@ -1,1 +1,1 @@
-var mnemonic = "multiply fun estate tenant crouch that doctor chapter laugh unique absorb devote";
+var mnemonic = "axis neck office recall merge spray park medal clock phone chimney fabric";

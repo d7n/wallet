@@ -1,1 +1,1 @@
-var mnemonic = "melt drink prefer random glance unhappy wire paddle view profit yellow cute";
+var mnemonic = "thing mom panther acquire dune series radar echo bubble zebra frame matter";

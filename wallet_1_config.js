@@ -1,1 +1,1 @@
-var mnemonic = "force captain measure gate globe blush blanket parade eagle public dinosaur birth";
+var mnemonic = "fee hat snow usage close actor dial tourist cost rubber strong jeans";

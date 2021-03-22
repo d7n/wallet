@@ -1,1 +1,1 @@
-var mnemonic = "brain expect plunge below mean auto airport admit arctic vivid vocal behave";
+var mnemonic = "also marriage job day ginger trophy swift broken diagram can deputy dawn";

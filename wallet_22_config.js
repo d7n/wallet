@@ -1,1 +1,1 @@
-var mnemonic = "want peasant crawl before family silly harbor limit december dish old uphold";
+var mnemonic = "famous bicycle dry shop old tortoise suffer record dove hobby view surround";

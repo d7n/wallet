@@ -1,1 +1,1 @@
-var mnemonic = "right pet old blind scare reform garbage solution wing normal embark modify";
+var mnemonic = "tube clean fantasy wasp address infant consider daring awful tennis chaos divert";

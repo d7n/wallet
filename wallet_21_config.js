@@ -1,1 +1,1 @@
-var mnemonic = "genuine avocado expose charge turn spawn under inspire duty tongue puppy birth";
+var mnemonic = "leaf army brush history destroy orchard logic claim blood spin brick whisper";

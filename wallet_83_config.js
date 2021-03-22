@@ -1,1 +1,1 @@
-var mnemonic = "figure hello ahead color dinner bright nation vital text volume lift notable";
+var mnemonic = "blood mercy museum decide describe female extra parade strong coral valley monkey";

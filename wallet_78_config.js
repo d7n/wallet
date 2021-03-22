@@ -1,1 +1,1 @@
-var mnemonic = "sausage language all keen sphere roof open cargo host negative shield iron";
+var mnemonic = "disease myth myth toddler abandon today verb noodle target inform surprise moon";

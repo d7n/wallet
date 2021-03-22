@@ -1,1 +1,1 @@
-var mnemonic = "clock large orbit buddy punch celery round upgrade cheap employ donate social";
+var mnemonic = "square salt ketchup uncover weekend area open student forget world nation child";

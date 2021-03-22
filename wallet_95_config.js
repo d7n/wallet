@@ -1,1 +1,1 @@
-var mnemonic = "jacket voyage action one clay song pig risk real lunch visit wife";
+var mnemonic = "whisper economy ramp recycle gaze camera reunion shoulder strong nest conduct renew";

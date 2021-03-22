@@ -1,1 +1,1 @@
-var mnemonic = "wave syrup ten decline coin anchor duck rough tortoise guess maximum slender";
+var mnemonic = "subject tower sick shrug deliver runway blood permit meat thumb hand hub";

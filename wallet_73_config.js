@@ -1,1 +1,1 @@
-var mnemonic = "feature educate talent minute march tiger ladder uncover glare reason crush gallery";
+var mnemonic = "seat slow divorce gloom blanket always science dish machine elite virtual snap";

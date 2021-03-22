@@ -1,1 +1,1 @@
-var mnemonic = "run tired radio jazz voice old error must brown hello ceiling option";
+var mnemonic = "describe kiwi carry shed another suit ozone census salt refuse must salad";

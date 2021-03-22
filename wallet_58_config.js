@@ -1,1 +1,1 @@
-var mnemonic = "enrich squeeze master all street april elevator vibrant ramp lunch win soul";
+var mnemonic = "bounce trade open alarm word express rib jazz volume lock afford height";

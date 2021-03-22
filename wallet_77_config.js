@@ -1,1 +1,1 @@
-var mnemonic = "income term sheriff trumpet elevator awesome develop long keep earth badge garbage";
+var mnemonic = "comfort anger icon uncover idle pumpkin drift vintage poverty gain avocado quantum";

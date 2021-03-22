@@ -1,1 +1,1 @@
-var mnemonic = "genius clump lens twelve dance army wall episode nation just access stem";
+var mnemonic = "piano join twelve room large window acquire weird silk biology prize wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "young slush woman stick possible earth prefer radar planet aim scale club";
+var mnemonic = "gravity scheme vicious whisper foil lemon satisfy route beauty air sea monkey";

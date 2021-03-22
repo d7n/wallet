@@ -1,1 +1,1 @@
-var mnemonic = "enhance merit trip myself flush nice lucky educate crime else exist blast";
+var mnemonic = "owner muffin close detect forest alarm stuff drum purpose inquiry photo chronic";

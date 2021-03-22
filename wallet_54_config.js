@@ -1,1 +1,1 @@
-var mnemonic = "say salute border purpose cave divide fuel combine fetch potato copy fix";
+var mnemonic = "favorite act goose naive major violin false enroll admit type inner rib";

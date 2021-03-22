@@ -1,1 +1,1 @@
-var mnemonic = "select field ten great voyage family horse nut tackle thumb grass season";
+var mnemonic = "dragon leader predict paper mail exhaust member smile they fiber supreme age";

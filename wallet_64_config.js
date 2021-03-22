@@ -1,1 +1,1 @@
-var mnemonic = "travel cup sister tray rule pudding dune fortune trip blade slow drama";
+var mnemonic = "repair wide mind glue magic travel misery argue proof silent cover kidney";

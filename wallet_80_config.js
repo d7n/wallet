@@ -1,1 +1,1 @@
-var mnemonic = "wheat gate legend valley flag fat devote season cycle empty purchase magnet";
+var mnemonic = "mail kitten web any shrug cave tattoo inner moon whisper slow never";

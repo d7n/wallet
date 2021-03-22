@@ -1,1 +1,1 @@
-var mnemonic = "enjoy damage item walk element memory oven keen unfair age leopard video";
+var mnemonic = "brand throw royal dream erase stone false veteran brush pink laugh enforce";

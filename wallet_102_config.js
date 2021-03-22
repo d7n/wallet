@@ -1,1 +1,1 @@
-var mnemonic = "deputy ghost amazing diesel angry credit math retreat slogan crunch large surge";
+var mnemonic = "powder verify input jewel hole alien expire right civil undo pulse frown";

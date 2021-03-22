@@ -1,1 +1,1 @@
-var mnemonic = "wall remember marriage vehicle output order connect course lounge remove cigar exotic";
+var mnemonic = "inner warrior help inquiry cigar heavy believe neither raise web coin harbor";

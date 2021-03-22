@@ -1,1 +1,1 @@
-var mnemonic = "omit vendor topple fruit casino scan pear produce else tuition brisk ripple";
+var mnemonic = "lake awful follow pigeon oblige dance eye tip gasp party setup chunk";

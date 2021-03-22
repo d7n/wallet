@@ -1,1 +1,1 @@
-var mnemonic = "school flag slush usual ski harvest wish mind filter leave material sell";
+var mnemonic = "face voyage apart wing orange shoot inform drink theme celery involve turtle";

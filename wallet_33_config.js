@@ -1,1 +1,1 @@
-var mnemonic = "proof olympic mosquito cost magnet increase frown moment virtual buddy behave leave";
+var mnemonic = "make depend reopen decade young useful battle blossom keep festival hub vocal";

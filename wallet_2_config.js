@@ -1,1 +1,1 @@
-var mnemonic = "display avocado mention have olive bubble fringe stadium weapon corn afford depend";
+var mnemonic = "write hedgehog gadget income define camera level awake unusual gravity fame you";

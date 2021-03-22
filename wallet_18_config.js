@@ -1,1 +1,1 @@
-var mnemonic = "wool shrug raven face explain phrase man easily carry copper spice alpha";
+var mnemonic = "bleak drastic rifle tooth industry april crumble ivory leaf naive act cycle";

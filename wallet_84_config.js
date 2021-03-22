@@ -1,1 +1,1 @@
-var mnemonic = "steak aisle human play margin salad settle strike excess law civil else";
+var mnemonic = "congress reduce must type basic source special crater royal velvet daring spray";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury brown lumber diesel scheme appear debris marine math matter forget beyond";
+var mnemonic = "unique armed tool price plastic oblige mail vanish accuse noble exist behind";

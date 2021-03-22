@@ -1,1 +1,1 @@
-var mnemonic = "truck ridge rough steak idea renew drop sight zoo bless odor noise";
+var mnemonic = "business fox injury meadow link gentle width jelly shrimp private broken talk";
