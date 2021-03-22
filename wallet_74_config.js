@@ -1,1 +1,1 @@
-var mnemonic = "gym enemy digital vacuum relief kind move absurd couple ugly cake drastic";
+var mnemonic = "tank head walk venture ladder absorb jelly party amazing color wave change";

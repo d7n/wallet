@@ -1,1 +1,1 @@
-var mnemonic = "boil mother brush live keen venue metal river jaguar giant merry jealous";
+var mnemonic = "muffin dust cup quick wedding quality size cash profit face soldier swap";

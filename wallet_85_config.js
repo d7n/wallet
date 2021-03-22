@@ -1,1 +1,1 @@
-var mnemonic = "brush crater peace foil glare pioneer develop saddle market tell kitchen tail";
+var mnemonic = "myth tape trigger draft faculty phrase frequent need asthma inspire stay virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "common remind detect master exercise material trim ahead cloth entire ankle eye";
+var mnemonic = "current hamster what jump swing gloom skirt organ wheat one purse route";

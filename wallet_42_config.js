@@ -1,1 +1,1 @@
-var mnemonic = "puzzle task fall display page noise picture enlist face myself local decrease";
+var mnemonic = "glass similar message caught panel place sausage stomach arctic beach olive drama";

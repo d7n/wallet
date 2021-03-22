@@ -1,1 +1,1 @@
-var mnemonic = "unknown cushion plastic forest food mobile sell state town sport fish more";
+var mnemonic = "false rubber family often setup order artefact mask balance smile ball elder";

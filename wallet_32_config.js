@@ -1,1 +1,1 @@
-var mnemonic = "model ten cricket elevator slim width mail camera bronze duty seek truly";
+var mnemonic = "trick thought lift team ensure sadness goat churn advice wear juice slam";

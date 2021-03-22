@@ -1,1 +1,1 @@
-var mnemonic = "country caught shaft melody zebra grace autumn federal ill autumn rude talk";
+var mnemonic = "frozen cause repeat carpet advance cloud crisp nurse quality zebra intact retire";

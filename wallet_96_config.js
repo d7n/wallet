@@ -1,1 +1,1 @@
-var mnemonic = "grant analyst recall neither goddess join virtual balcony concert umbrella pen tumble";
+var mnemonic = "someone describe behind stock bitter finger promote expose economy position blame extend";

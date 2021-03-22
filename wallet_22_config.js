@@ -1,1 +1,1 @@
-var mnemonic = "forest siren junior entry twenty unfair add start early stock share sadness";
+var mnemonic = "oyster exhaust magnet observe divide ski doll among rose unusual gate scare";

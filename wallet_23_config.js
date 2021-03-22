@@ -1,1 +1,1 @@
-var mnemonic = "kiwi review identify nut moon renew rigid face equal rebuild desert plate";
+var mnemonic = "orient enforce sun bind fly animal december south glimpse skill need dilemma";

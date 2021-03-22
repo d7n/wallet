@@ -1,1 +1,1 @@
-var mnemonic = "gap gorilla ecology fiscal toast mango panther emerge pitch weekend sphere name";
+var mnemonic = "bounce above diagram sketch muffin project average point that media item broccoli";

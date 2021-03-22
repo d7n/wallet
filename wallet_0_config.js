@@ -1,1 +1,1 @@
-var mnemonic = "left radio merry weather flag garlic earth giggle phone alarm choice dismiss";
+var mnemonic = "trick glue clay exclude goat excite hint firm cook client vessel blood";

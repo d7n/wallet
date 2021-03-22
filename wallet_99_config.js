@@ -1,1 +1,1 @@
-var mnemonic = "middle garage flash weather drift upon culture float name galaxy manual large";
+var mnemonic = "trend lyrics joke destroy that fly govern attract novel protect lawsuit buffalo";

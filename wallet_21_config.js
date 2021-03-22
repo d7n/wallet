@@ -1,1 +1,1 @@
-var mnemonic = "antique jelly like today peace lizard into emerge typical fatal accuse edge";
+var mnemonic = "shell damp across client brown enter anxiety rookie ship people palm cement";

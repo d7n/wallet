@@ -1,1 +1,1 @@
-var mnemonic = "culture feel seed life spatial hire film dolphin like claw salon peasant";
+var mnemonic = "exact master human canvas true ranch bus neither wedding prison concert drama";

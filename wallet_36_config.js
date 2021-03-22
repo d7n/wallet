@@ -1,1 +1,1 @@
-var mnemonic = "display check course summer fetch noodle rival vacant adult express soap real";
+var mnemonic = "column bacon island girl entry foster modify jacket correct silk coral culture";

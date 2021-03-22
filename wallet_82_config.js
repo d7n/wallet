@@ -1,1 +1,1 @@
-var mnemonic = "mother carry setup record voyage panther drastic spin favorite demise blind borrow";
+var mnemonic = "slide fee ethics notable inside ask loan shiver say flower bullet twelve";

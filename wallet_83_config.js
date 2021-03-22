@@ -1,1 +1,1 @@
-var mnemonic = "alpha february rocket element cruel suggest mixture error audit tired subject sick";
+var mnemonic = "orbit mule hurry that answer power dilemma similar color rookie tomorrow leaf";

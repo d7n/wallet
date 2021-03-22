@@ -1,1 +1,1 @@
-var mnemonic = "cat grief novel damp combine lucky symbol ship fit stadium symptom health";
+var mnemonic = "proof myth glimpse large march render walnut tobacco can riot hello water";

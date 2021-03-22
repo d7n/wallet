@@ -1,1 +1,1 @@
-var mnemonic = "ring review visa thought top hotel chimney author lesson dad speak clinic";
+var mnemonic = "aim orchard athlete snake limb home clown habit gorilla example sing over";

@@ -1,1 +1,1 @@
-var mnemonic = "industry lunar green manage six alpha train dance demise name mule unable";
+var mnemonic = "message humble quit shoe love axis victory fix frequent depth chat zone";

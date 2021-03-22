@@ -1,1 +1,1 @@
-var mnemonic = "swamp wild reopen until similar below joke half cluster bamboo damage light";
+var mnemonic = "truck name mobile rescue throw invite race zebra nominee radio cruise health";

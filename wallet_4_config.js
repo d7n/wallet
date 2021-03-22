@@ -1,1 +1,1 @@
-var mnemonic = "company time notable differ game height job burden duty volcano shrimp rather";
+var mnemonic = "vivid step jacket payment volume veteran other head cushion federal range develop";

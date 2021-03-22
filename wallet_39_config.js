@@ -1,1 +1,1 @@
-var mnemonic = "arch ignore argue erode start custom naive wedding mother swamp life cat";
+var mnemonic = "image heavy lizard weird mansion stairs entire drill myth into dust offer";

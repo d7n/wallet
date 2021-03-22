@@ -1,1 +1,1 @@
-var mnemonic = "twenty typical orange message trust answer glimpse kiss tag regret coil supreme";
+var mnemonic = "image very season version tell reveal fantasy initial immune cabbage found palm";

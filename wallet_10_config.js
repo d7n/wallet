@@ -1,1 +1,1 @@
-var mnemonic = "search simple sail drop cross eye harbor electric strong nice green sniff";
+var mnemonic = "bone bird humor wait omit tube cruise stool ill ten example depart";

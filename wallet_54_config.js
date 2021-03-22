@@ -1,1 +1,1 @@
-var mnemonic = "confirm retreat estate unit rail drip dad joy insane tennis speed much";
+var mnemonic = "envelope betray wool resist crumble retire ocean virtual index display history pulse";

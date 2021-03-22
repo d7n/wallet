@@ -1,1 +1,1 @@
-var mnemonic = "since sustain report awkward vacuum thought skate critic merry actual junior liberty";
+var mnemonic = "torch thunder charge betray street nice alpha core letter change relief quantum";

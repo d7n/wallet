@@ -1,1 +1,1 @@
-var mnemonic = "green long depth blouse outdoor sock measure duck brick swim hedgehog when";
+var mnemonic = "awkward fiscal cross radio sphere inquiry laundry forward cause planet dust conduct";

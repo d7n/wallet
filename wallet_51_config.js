@@ -1,1 +1,1 @@
-var mnemonic = "edit bring pill fun rude air poverty author connect educate panel ask";
+var mnemonic = "supply benefit awake sniff moon total dawn report paddle brush ski design";

@@ -1,1 +1,1 @@
-var mnemonic = "desert kiwi then regular loan impact winner rude crater purchase major media";
+var mnemonic = "blind control park common borrow fancy believe slim all absent session guilt";

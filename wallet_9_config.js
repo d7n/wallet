@@ -1,1 +1,1 @@
-var mnemonic = "curve urban same genius tattoo early mention soul bridge alpha depend issue";
+var mnemonic = "table movie smile deer forum hill usual season begin crowd harvest brave";

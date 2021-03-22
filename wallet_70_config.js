@@ -1,1 +1,1 @@
-var mnemonic = "code yellow tube capital search sample ball elder abuse robust parent ritual";
+var mnemonic = "ship rib hurdle poverty vacant concert leader coconut stuff one winner abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon isolate lucky drop push theme misery woman subject meat domain clog";
+var mnemonic = "agree portion later area fade broken multiply draft frown medal toy coach";

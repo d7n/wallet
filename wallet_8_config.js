@@ -1,1 +1,1 @@
-var mnemonic = "beyond hammer young candy mango core lava stadium beach match social run";
+var mnemonic = "what vapor public gift clap civil salad sudden notable remain term buzz";

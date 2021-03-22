@@ -1,1 +1,1 @@
-var mnemonic = "glass usage run mistake merge eagle subway asthma slab bargain blade chuckle";
+var mnemonic = "theme tenant step salmon nice reunion detail skate swim gossip ring century";

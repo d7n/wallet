@@ -1,1 +1,1 @@
-var mnemonic = "hundred better crouch naive exist style trophy play live jaguar duck cool";
+var mnemonic = "rude satisfy arrest that cannon leader album mutual envelope strategy regular ordinary";

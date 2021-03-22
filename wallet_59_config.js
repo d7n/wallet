@@ -1,1 +1,1 @@
-var mnemonic = "sick taste country into depend damage home kidney tomato luxury eyebrow piano";
+var mnemonic = "chest thank ignore stumble turkey awkward evolve describe barrel umbrella cry cave";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant harsh miracle sand grass such lamp disorder shoe similar east curious";
+var mnemonic = "page genius ozone wisdom mom enroll shove zoo ankle cave sausage outside";

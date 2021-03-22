@@ -1,1 +1,1 @@
-var mnemonic = "room coyote twelve birth table cause hold exercise situate frame clap fringe";
+var mnemonic = "foil when defy can cliff strike pigeon object slow phone figure eager";

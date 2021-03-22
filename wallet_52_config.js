@@ -1,1 +1,1 @@
-var mnemonic = "resource trap edit slush behave lunar couple valley prison pretty rifle web";
+var mnemonic = "ship flush mammal unveil perfect become foster vault few area cable library";

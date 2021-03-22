@@ -1,1 +1,1 @@
-var mnemonic = "pottery test egg tomato hospital deposit wool start process calm assault convince";
+var mnemonic = "pig soup dune release casino elite bridge mix manage moon oblige pet";

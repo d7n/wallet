@@ -1,1 +1,1 @@
-var mnemonic = "strong foot spell magic wage estate layer hover paddle unfair wealth denial";
+var mnemonic = "fall cattle daughter play because today father ignore room cabbage category sphere";

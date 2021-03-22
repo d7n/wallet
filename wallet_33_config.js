@@ -1,1 +1,1 @@
-var mnemonic = "cousin story wise obscure aunt shock appear blur enroll jaguar west clutch";
+var mnemonic = "chair frozen twist bike reflect meat woman hen alter access sick north";

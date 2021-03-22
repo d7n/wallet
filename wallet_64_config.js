@@ -1,1 +1,1 @@
-var mnemonic = "else bicycle reject cinnamon ticket treat artefact village security clerk venture piece";
+var mnemonic = "true castle toward improve core team dinosaur type skin price security benefit";

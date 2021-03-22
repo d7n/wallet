@@ -1,1 +1,1 @@
-var mnemonic = "ghost above fence neutral innocent long spray fury lend detect hidden spider";
+var mnemonic = "raw peace book suggest senior forum decide garage board extend distance use";

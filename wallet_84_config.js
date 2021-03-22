@@ -1,1 +1,1 @@
-var mnemonic = "gown stamp scare mushroom eye inflict draft tragic employ wing then moral";
+var mnemonic = "push wide message wisdom garlic theory normal service shaft image where riot";

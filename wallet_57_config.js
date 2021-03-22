@@ -1,1 +1,1 @@
-var mnemonic = "clean egg tent elevator test between inhale adult depart never ill summer";
+var mnemonic = "punch pigeon finger ordinary author umbrella pitch nerve number walk rabbit hand";

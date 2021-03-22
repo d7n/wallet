@@ -1,1 +1,1 @@
-var mnemonic = "fiction ball what clerk buffalo mean cricket blind pave worry enlist airport";
+var mnemonic = "timber elite custom belt feature spot middle where general return kit glove";

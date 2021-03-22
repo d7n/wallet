@@ -1,1 +1,1 @@
-var mnemonic = "shallow addict crumble toilet skill lyrics street coin bitter key inflict lazy";
+var mnemonic = "write defy coral bag village choose brown someone logic shallow damage truck";

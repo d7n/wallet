@@ -1,1 +1,1 @@
-var mnemonic = "crouch patch cattle universe kit pen dolphin audit cave pepper minor vocal";
+var mnemonic = "echo reward burst when ostrich idea simple kick right paddle clap boil";

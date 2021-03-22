@@ -1,1 +1,1 @@
-var mnemonic = "timber aim improve loud evil thumb rude hammer attract shock open tunnel";
+var mnemonic = "drink wing pattern surge candy notable card butter slice rib original purchase";

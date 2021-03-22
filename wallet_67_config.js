@@ -1,1 +1,1 @@
-var mnemonic = "cook snack become clutch catch student excess abstract audit toilet garment box";
+var mnemonic = "critic wise eagle error stone half oblige hard claim blood panda champion";

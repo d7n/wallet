@@ -1,1 +1,1 @@
-var mnemonic = "remember critic mansion marriage maze famous collect fresh forest senior monitor reward";
+var mnemonic = "penalty coconut spot horn hunt young weasel develop people claw virtual very";

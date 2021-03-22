@@ -1,1 +1,1 @@
-var mnemonic = "diesel ugly razor piano solid humble game menu morning that social penalty";
+var mnemonic = "prevent vital witness wheel pencil swear hurdle fade royal accuse goddess ozone";

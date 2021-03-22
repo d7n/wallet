@@ -1,1 +1,1 @@
-var mnemonic = "supreme hope frequent prepare sunset olive shift one obscure thank forward bracket";
+var mnemonic = "predict hint ankle gold cement anxiety game mobile human wisdom error dragon";

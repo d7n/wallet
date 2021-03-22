@@ -1,1 +1,1 @@
-var mnemonic = "usual bag gadget pattern cover blue enforce vessel harsh ten scissors bread";
+var mnemonic = "rate fever table advice false animal walnut inmate surprise second correct farm";

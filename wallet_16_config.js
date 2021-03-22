@@ -1,1 +1,1 @@
-var mnemonic = "fiber giraffe outer prevent champion pattern nest display will regular grow denial";
+var mnemonic = "april ridge slab nominee arrange develop flee trade couch surge middle urban";

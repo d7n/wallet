@@ -1,1 +1,1 @@
-var mnemonic = "have rubber salon innocent deny parrot develop gravity dry cream wife trap";
+var mnemonic = "report weapon disagree gadget resource also maid banner nut erase equal fork";

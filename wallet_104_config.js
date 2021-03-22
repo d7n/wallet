@@ -1,1 +1,1 @@
-var mnemonic = "material settle relief lab art leopard amateur uncover aim cotton poem original";
+var mnemonic = "antique age never oil betray tuna tooth jeans token cattle trophy more";

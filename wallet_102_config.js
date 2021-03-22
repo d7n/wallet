@@ -1,1 +1,1 @@
-var mnemonic = "execute grid cover diamond bean conduct supreme blanket afraid gate again keep";
+var mnemonic = "captain limit achieve industry equal broom lizard drive resemble nothing rookie cave";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy chuckle trend spring force require olive car story symbol pattern siren";
+var mnemonic = "wool jealous aunt inch toilet ocean erosion hire conduct figure vanish orphan";

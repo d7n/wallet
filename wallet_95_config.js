@@ -1,1 +1,1 @@
-var mnemonic = "task category rotate extra immune earth task strong shuffle elbow escape quote";
+var mnemonic = "depend opinion raccoon unknown category bundle desert clean myself refuse sense warm";

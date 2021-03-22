@@ -1,1 +1,1 @@
-var mnemonic = "mean clay gap sail saddle south nothing correct own prepare board about";
+var mnemonic = "tissue island vicious bitter tongue huge forward holiday model bird coach vibrant";

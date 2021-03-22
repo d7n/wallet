@@ -1,1 +1,1 @@
-var mnemonic = "already giggle shell hole friend order stock just enemy pyramid glove palace";
+var mnemonic = "build shed suggest romance shine school flower pretty foam pool cake decline";

@@ -1,1 +1,1 @@
-var mnemonic = "frame treat sponsor coffee squeeze insect copper sail jar gather rhythm celery";
+var mnemonic = "garage float govern loud tool special rebuild sugar host burden manage home";

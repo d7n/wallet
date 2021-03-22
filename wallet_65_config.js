@@ -1,1 +1,1 @@
-var mnemonic = "veteran vendor plug joke fuel equal sauce behave midnight primary airport crack";
+var mnemonic = "urban fuel frame winner wild matter vanish fan away two learn multiply";

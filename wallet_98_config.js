@@ -1,1 +1,1 @@
-var mnemonic = "fly stove execute sick trip win citizen soap resource face bless erupt";
+var mnemonic = "dress fever youth voice spatial want silent grant account crack grocery metal";

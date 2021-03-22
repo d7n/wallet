@@ -1,1 +1,1 @@
-var mnemonic = "injury marine chronic know blue document coffee delay organ employ truly magic";
+var mnemonic = "crater view little pulp master enroll pigeon remind unusual whisper know steak";

@@ -1,1 +1,1 @@
-var mnemonic = "divert impact fee tunnel current casual gospel exchange wealth reason shift bubble";
+var mnemonic = "little whip wheel thank ill render gown curious wage man brother run";

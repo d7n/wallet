@@ -1,1 +1,1 @@
-var mnemonic = "flip mimic federal favorite nurse despair ghost sniff receive purity recycle physical";
+var mnemonic = "arch miss lunch rigid time post wrist worry behind car retire exhaust";

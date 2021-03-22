@@ -1,1 +1,1 @@
-var mnemonic = "nest you enhance pitch awesome basket lucky possible title asthma lava net";
+var mnemonic = "lake slush nice balcony ketchup caught guitar bonus kidney certain now patrol";

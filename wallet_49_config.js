@@ -1,1 +1,1 @@
-var mnemonic = "grit woman slab truck very enemy zone oxygen object swap penalty copy";
+var mnemonic = "emotion shuffle warfare sail stool image wish engine immense dial accuse myself";

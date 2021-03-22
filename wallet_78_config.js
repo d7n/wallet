@@ -1,1 +1,1 @@
-var mnemonic = "saddle quick fiber solve whale foster rebuild awake sister lucky sibling bundle";
+var mnemonic = "three fade royal enforce chair goat cigar mosquito witness eagle very latin";

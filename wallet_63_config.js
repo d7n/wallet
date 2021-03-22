@@ -1,1 +1,1 @@
-var mnemonic = "rice add canyon modify exercise true minimum ocean multiply memory vessel firm";
+var mnemonic = "rigid visual vapor motor afford identify post load sheriff minor sugar physical";

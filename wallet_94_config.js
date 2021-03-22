@@ -1,1 +1,1 @@
-var mnemonic = "suggest include wreck reward reform clap hurry oyster final apology eight crack";
+var mnemonic = "rose hamster nest problem actress knife until era toe sudden vote involve";

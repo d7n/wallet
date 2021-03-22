@@ -1,1 +1,1 @@
-var mnemonic = "sick winner raven please express stand belt soft assault sample wood release";
+var mnemonic = "favorite differ zoo employ avocado various churn awesome umbrella advance spend clean";

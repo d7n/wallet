@@ -1,1 +1,1 @@
-var mnemonic = "permit egg panel oil owner bachelor coyote verb divorce eight work case";
+var mnemonic = "gasp old want edge worry subject next sauce home brother absurd pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz eye butter latin nice below rule aunt excess evoke brick unfair";
+var mnemonic = "meadow dress sick clay travel wave pride entry pencil crunch laugh cheap";

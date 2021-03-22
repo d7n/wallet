@@ -1,1 +1,1 @@
-var mnemonic = "earn idea village loyal reject arrest soon twelve rack bread stadium hover";
+var mnemonic = "climb mango tomorrow edit logic faint suspect prefer clever ceiling injury capital";

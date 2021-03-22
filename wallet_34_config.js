@@ -1,1 +1,1 @@
-var mnemonic = "true fat either exclude marriage roast blossom scatter absurd magic jeans scare";
+var mnemonic = "reduce oil violin loyal guard exchange replace choose rule adult disagree celery";

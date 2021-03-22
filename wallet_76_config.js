@@ -1,1 +1,1 @@
-var mnemonic = "camera amount next damp tuition mechanic avoid insane morning runway dawn render";
+var mnemonic = "script sun prepare shoe drink logic liquid chronic bind point metal kiwi";

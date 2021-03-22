@@ -1,1 +1,1 @@
-var mnemonic = "great local civil inspire tooth lab life lady regret when burden hollow";
+var mnemonic = "asset tree dice adult legend connect gossip kid wheat kid trap hollow";
