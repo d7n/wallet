@@ -1,1 +1,1 @@
-var mnemonic = "nation pig room fly uphold random place vague number fatigue note tuna";
+var mnemonic = "legal magnet cluster loan ivory swap lonely digital unlock leisure hawk ceiling";

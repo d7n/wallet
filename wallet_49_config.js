@@ -1,1 +1,1 @@
-var mnemonic = "eager coin person link tired attract badge eyebrow cause bring keep climb";
+var mnemonic = "grape flag venture cupboard zone wet ugly fringe boat cream slim gap";

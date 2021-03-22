@@ -1,1 +1,1 @@
-var mnemonic = "famous phone west try hybrid rally mirror spray adjust artefact civil goose";
+var mnemonic = "panther pigeon mass planet left fluid verify lady useful deal acid sudden";

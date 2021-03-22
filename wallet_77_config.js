@@ -1,1 +1,1 @@
-var mnemonic = "scan orange bird erase force online struggle quote flash tone scan will";
+var mnemonic = "orphan finish month rabbit very sort blood welcome repeat daughter eager display";

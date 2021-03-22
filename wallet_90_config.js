@@ -1,1 +1,1 @@
-var mnemonic = "orient until bid laptop sting thing skin digital mother exercise isolate file";
+var mnemonic = "grocery blanket plug envelope captain pattern security cover basket lonely crime frog";

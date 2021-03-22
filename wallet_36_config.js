@@ -1,1 +1,1 @@
-var mnemonic = "fortune few ocean produce relief lock evolve dog involve real winter whale";
+var mnemonic = "rocket prefer stool rival common mirror enemy face library tornado city alpha";

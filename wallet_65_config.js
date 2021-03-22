@@ -1,1 +1,1 @@
-var mnemonic = "dawn title jar prevent vicious light usual wide sea fantasy ozone burst";
+var mnemonic = "member old move arrange foil target ceiling pencil creek risk strategy sister";

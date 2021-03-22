@@ -1,1 +1,1 @@
-var mnemonic = "panda exclude town plunge settle risk matter shoulder broccoli vapor baby orphan";
+var mnemonic = "snap give wheel catalog process sea lion ill vapor person vacuum stone";

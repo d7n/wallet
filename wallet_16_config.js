@@ -1,1 +1,1 @@
-var mnemonic = "length buzz green slide sustain squeeze critic inner want remind praise gorilla";
+var mnemonic = "ship top tail update border weird athlete layer write capable vast wink";

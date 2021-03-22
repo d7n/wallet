@@ -1,1 +1,1 @@
-var mnemonic = "age merry dynamic vague broccoli sibling away ranch thrive unhappy swear pilot";
+var mnemonic = "canal loan slam around salmon upper mesh pill since flame blur pole";

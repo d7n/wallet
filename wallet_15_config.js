@@ -1,1 +1,1 @@
-var mnemonic = "destroy unveil group toy absorb ladder circle sugar goddess ice thank alien";
+var mnemonic = "fabric rely slot birth smoke fix rose basic mystery total athlete gauge";

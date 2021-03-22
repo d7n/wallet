@@ -1,1 +1,1 @@
-var mnemonic = "iron express property genius high fog arm clever trumpet wrap animal escape";
+var mnemonic = "thought brother blast victory toy paddle defense slight expand abstract region absent";

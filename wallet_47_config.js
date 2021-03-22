@@ -1,1 +1,1 @@
-var mnemonic = "distance earth enjoy kangaroo stem outdoor require monster silver craft security text";
+var mnemonic = "web dust wise umbrella timber oval utility luggage swift blush clap lucky";

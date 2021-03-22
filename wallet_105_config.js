@@ -1,1 +1,1 @@
-var mnemonic = "true uphold ball jeans melody beyond organ inquiry glare assault frown panda";
+var mnemonic = "sock enact dilemma lady shop border swallow iron seven right matter seven";

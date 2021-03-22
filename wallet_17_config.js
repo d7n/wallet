@@ -1,1 +1,1 @@
-var mnemonic = "consider project expand fatigue fruit agent craft erosion stadium can legal burden";
+var mnemonic = "hammer hood slogan envelope erase girl quantum obscure problem wolf clip around";

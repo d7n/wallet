@@ -1,1 +1,1 @@
-var mnemonic = "actress also camp bomb brother rose adult climb chuckle detect quote change";
+var mnemonic = "rare green noble over lazy twist rookie friend uphold embrace grass shiver";

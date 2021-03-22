@@ -1,1 +1,1 @@
-var mnemonic = "trial gather flush bitter unique still nature dwarf sketch retreat gasp anchor";
+var mnemonic = "credit melody nut movie exit wife jelly melt knock craft burden camera";

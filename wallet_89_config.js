@@ -1,1 +1,1 @@
-var mnemonic = "fat explain witness riot aware shell shallow dwarf appear auction awful obey";
+var mnemonic = "prison clerk screen mercy pluck lesson tent oblige smile earn clown system";

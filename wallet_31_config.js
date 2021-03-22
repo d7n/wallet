@@ -1,1 +1,1 @@
-var mnemonic = "deliver shoe jeans absorb office picnic course process shoot year silver link";
+var mnemonic = "morning travel ramp resemble grace loan choose bachelor title idea wall toward";

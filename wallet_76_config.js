@@ -1,1 +1,1 @@
-var mnemonic = "peace dice one visa damage curious rival donkey clutch dolphin portion unhappy";
+var mnemonic = "air tobacco coral bridge carpet aim all castle upgrade budget fault spot";

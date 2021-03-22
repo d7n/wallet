@@ -1,1 +1,1 @@
-var mnemonic = "soap bird bounce domain wool color ensure join liquid young panic economy";
+var mnemonic = "eagle explain sword relief secret mix arena doll mention liquid organ stick";

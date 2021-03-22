@@ -1,1 +1,1 @@
-var mnemonic = "parent job imitate coconut early dial mule receive ball regret pave cycle";
+var mnemonic = "purchase flavor acid arrest inside fitness page music stamp ask vanish purse";

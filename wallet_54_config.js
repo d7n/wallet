@@ -1,1 +1,1 @@
-var mnemonic = "strong crop bounce claim tennis film toilet chair unfold hungry column nation";
+var mnemonic = "amazing favorite average ride banana help husband brother until inject sea boat";

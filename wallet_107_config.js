@@ -1,1 +1,1 @@
-var mnemonic = "pelican bus shiver tooth essence subway jewel enemy echo uncle cave ski";
+var mnemonic = "cycle traffic invite kitchen menu surprise claim snap lens ripple enhance foil";

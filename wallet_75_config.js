@@ -1,1 +1,1 @@
-var mnemonic = "peasant social surface nerve maze auction yard elder network antenna furnace hold";
+var mnemonic = "pelican artefact wreck pizza spoon cool power race tone exotic birth portion";

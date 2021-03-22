@@ -1,1 +1,1 @@
-var mnemonic = "lazy surge high shy pave gaze zone witness quiz usual tool pupil";
+var mnemonic = "figure gospel hurdle twelve goddess village can push submit dignity pony judge";

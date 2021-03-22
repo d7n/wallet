@@ -1,1 +1,1 @@
-var mnemonic = "any slice wide cup task blue glance brush differ arch type swift";
+var mnemonic = "wave time task earth grid parent broccoli baby wink medal between shell";

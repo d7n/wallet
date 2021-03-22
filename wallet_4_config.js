@@ -1,1 +1,1 @@
-var mnemonic = "asset divide alone airport syrup horror grain creek face slow nice mom";
+var mnemonic = "segment ladder eye drill practice human august stay color sight leopard unfair";

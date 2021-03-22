@@ -1,1 +1,1 @@
-var mnemonic = "during shallow oppose firm walk diesel smart state chicken girl blade empty";
+var mnemonic = "harbor tilt humble remove metal run vault peanut transfer escape envelope tragic";

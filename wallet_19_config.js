@@ -1,1 +1,1 @@
-var mnemonic = "awake now foam layer churn mimic rent feature scheme simple sugar chunk";
+var mnemonic = "cigar joy modify sense romance state oxygen disagree tonight sorry situate romance";

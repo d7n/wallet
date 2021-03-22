@@ -1,1 +1,1 @@
-var mnemonic = "sign soda stamp immune pledge climb feature wasp section viable mail party";
+var mnemonic = "survey design easy mind train mandate model side predict bid rigid east";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard more purity host grit bicycle december party brief hotel cargo rookie";
+var mnemonic = "jacket open violin tip define uniform choice wild arm scheme agree hidden";

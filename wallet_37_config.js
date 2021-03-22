@@ -1,1 +1,1 @@
-var mnemonic = "acid curve gown unfold hip payment mule roof sudden bubble female rival";
+var mnemonic = "shift dentist neglect autumn renew six surge trial price swift diet arm";

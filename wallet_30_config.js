@@ -1,1 +1,1 @@
-var mnemonic = "canyon half subway market post alley hill disorder lonely two novel talk";
+var mnemonic = "ten accident solid across myself black first victory annual limb shove host";

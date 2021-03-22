@@ -1,1 +1,1 @@
-var mnemonic = "observe gain portion lobster skate genius extend kiss unit faith veteran gate";
+var mnemonic = "ginger nephew insect reason huge mammal license describe convince consider world addict";

@@ -1,1 +1,1 @@
-var mnemonic = "clown amateur buddy about there man trouble twin news thought medal cherry";
+var mnemonic = "pact cattle before journey reward worth cry tuition silent photo rapid toilet";

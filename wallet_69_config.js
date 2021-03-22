@@ -1,1 +1,1 @@
-var mnemonic = "vague lyrics brass wage prefer cup artwork summer manage add tortoise away";
+var mnemonic = "lyrics sick mouse canyon clap early paddle hope cause van smoke virus";

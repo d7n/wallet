@@ -1,1 +1,1 @@
-var mnemonic = "glory damp mouse assault plug eternal utility visual ordinary group success barely";
+var mnemonic = "author antenna lemon faculty birth live barrel define nephew coconut horror that";

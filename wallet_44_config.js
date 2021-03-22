@@ -1,1 +1,1 @@
-var mnemonic = "sister grocery exchange head trip pencil bounce budget spider already tumble merit";
+var mnemonic = "food edit noodle industry exit exist hint convince burst weasel laptop tongue";

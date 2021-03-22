@@ -1,1 +1,1 @@
-var mnemonic = "sound luxury end vocal tell credit jazz bus only crystal liar update";
+var mnemonic = "bargain panda grid toast dutch hand prize vacuum intact allow report hawk";

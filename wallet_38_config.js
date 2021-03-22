@@ -1,1 +1,1 @@
-var mnemonic = "nose round nice exhaust tonight warrior friend neutral news miss ribbon route";
+var mnemonic = "chimney tilt angry sugar million moral switch total giraffe lunch physical neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "motion guilt vault toe chest rib correct battle cost display purpose chief";
+var mnemonic = "pen chicken start name scale edit weekend robot suspect tail ridge sea";

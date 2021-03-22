@@ -1,1 +1,1 @@
-var mnemonic = "friend lunar car muffin hazard forward since struggle eagle lift team office";
+var mnemonic = "setup tank huge tuition gap ability insect ranch satoshi arrange liar zoo";

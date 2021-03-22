@@ -1,1 +1,1 @@
-var mnemonic = "bronze uphold insane scatter layer future soul tooth that ahead goddess alert";
+var mnemonic = "body custom spirit enact banner mercy lizard nominee grain silly choose cactus";

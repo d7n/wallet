@@ -1,1 +1,1 @@
-var mnemonic = "jungle reform nice dish river cradle off issue sing uniform sail legal";
+var mnemonic = "sun gaze dumb level power camp bullet frog double bicycle silly leaf";

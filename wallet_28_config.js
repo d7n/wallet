@@ -1,1 +1,1 @@
-var mnemonic = "frown come spider crunch please luggage check next bamboo poverty cup differ";
+var mnemonic = "toast put easily universe medal shrug pencil cost luxury fetch output pretty";

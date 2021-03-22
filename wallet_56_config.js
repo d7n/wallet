@@ -1,1 +1,1 @@
-var mnemonic = "youth fit park genre spirit elegant blame zoo resemble initial tape boring";
+var mnemonic = "harsh frame sad banana hamster green bulk sock draw budget twenty possible";

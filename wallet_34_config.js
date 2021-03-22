@@ -1,1 +1,1 @@
-var mnemonic = "kingdom hollow snow monkey cereal dinosaur pupil acquire undo motion now lunch";
+var mnemonic = "either buddy range various pact use flip axis mystery vacant layer fox";

@@ -1,1 +1,1 @@
-var mnemonic = "able soda leaf fault silver detect hobby grape kind science pencil electric";
+var mnemonic = "mirror cycle market buffalo shallow shoe outside bleak push piano practice draw";

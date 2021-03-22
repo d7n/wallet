@@ -1,1 +1,1 @@
-var mnemonic = "breeze please fossil rabbit badge spoil token item subject derive immense curious";
+var mnemonic = "alarm chief gesture radar marriage whale add banana jacket cook economy ocean";

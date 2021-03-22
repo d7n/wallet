@@ -1,1 +1,1 @@
-var mnemonic = "border coyote bean fun correct snack praise puzzle divorce brand bridge card";
+var mnemonic = "service sunset away camera few intact sphere yard pottery common gasp burger";

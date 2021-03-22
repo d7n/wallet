@@ -1,1 +1,1 @@
-var mnemonic = "ladder cancel crunch entire opera push payment ride file drift violin wire";
+var mnemonic = "recycle occur cable attend blame symptom season maximum reward concert stone erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "knee invest network office toddler ghost version allow print toy rubber segment";
+var mnemonic = "long popular husband emerge forum wagon apart void upset dog moment news";

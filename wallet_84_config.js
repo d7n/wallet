@@ -1,1 +1,1 @@
-var mnemonic = "sun remember joke beef butter payment inspire puzzle sibling melt burden coach";
+var mnemonic = "harvest category tonight amused happy gate news expire fringe beyond weapon clinic";

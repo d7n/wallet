@@ -1,1 +1,1 @@
-var mnemonic = "ticket milk sure health patrol output army destroy fit fringe select leg";
+var mnemonic = "scout front valve coffee blossom obtain cluster tornado mom rate question pyramid";

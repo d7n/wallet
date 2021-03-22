@@ -1,1 +1,1 @@
-var mnemonic = "denial peasant ugly jewel shift journey sound regret enact group long side";
+var mnemonic = "seminar curve under upset mystery roast indicate whisper bless orphan civil pave";

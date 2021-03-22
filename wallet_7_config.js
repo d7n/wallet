@@ -1,1 +1,1 @@
-var mnemonic = "entry damp rebel dragon disease belt weather soul cluster entry also credit";
+var mnemonic = "hip obscure abstract faint battle verb rain cherry chapter tower legal love";

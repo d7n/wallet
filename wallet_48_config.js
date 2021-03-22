@@ -1,1 +1,1 @@
-var mnemonic = "inmate sting divorce volcano lunar they mix once time execute satoshi cover";
+var mnemonic = "situate fee era hand penalty welcome clip strong fossil cry city sad";

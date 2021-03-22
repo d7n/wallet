@@ -1,1 +1,1 @@
-var mnemonic = "sing tube luxury merge movie aware math rebuild stamp spider wreck shop";
+var mnemonic = "journey dawn same rice enable long occur cattle price wealth warrior muscle";

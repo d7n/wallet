@@ -1,1 +1,1 @@
-var mnemonic = "copy figure marble light ensure drive bus share spray output olive universe";
+var mnemonic = "antique sketch topple crisp ranch fashion myself upper glance alpha expire reunion";

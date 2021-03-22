@@ -1,1 +1,1 @@
-var mnemonic = "pipe top upon shuffle muscle favorite mind master inner expose aware best";
+var mnemonic = "sentence tired permit render skin point tribe library salmon nurse slice humor";

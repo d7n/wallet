@@ -1,1 +1,1 @@
-var mnemonic = "robust direct setup brisk salute toss pride slow walk track atom salt";
+var mnemonic = "cloud mountain cage share salad regular two know open address detect critic";

@@ -1,1 +1,1 @@
-var mnemonic = "receive foot recall arrive army program ahead ancient guard current flower digital";
+var mnemonic = "rent hard trade nest earn common avocado dry arrow alter alien local";

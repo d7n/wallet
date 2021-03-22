@@ -1,1 +1,1 @@
-var mnemonic = "smart sustain visit south bundle warrior earth actor resemble process speak leopard";
+var mnemonic = "change song myth simple echo flash quiz eyebrow expire length glare fine";

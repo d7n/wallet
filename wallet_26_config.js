@@ -1,1 +1,1 @@
-var mnemonic = "property floor increase camera hurt mimic enter agree office clog peasant eternal";
+var mnemonic = "orient such phone fault calm crystal learn surprise empty task liar scheme";

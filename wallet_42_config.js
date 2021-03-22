@@ -1,1 +1,1 @@
-var mnemonic = "ecology spring win renew sorry honey melody used hockey seek green north";
+var mnemonic = "dial betray soon panther twice ship eagle square sorry hello three math";

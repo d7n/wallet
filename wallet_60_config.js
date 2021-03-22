@@ -1,1 +1,1 @@
-var mnemonic = "burst black mixed behave anxiety arena drill faculty jewel unveil illegal robot";
+var mnemonic = "potato vessel learn rather grape cluster put base approve lake leisure toy";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon zone dash attack lyrics lumber mix soft ethics wage exercise crowd";
+var mnemonic = "borrow auction exotic laugh inside panel fever version iron gasp super hen";

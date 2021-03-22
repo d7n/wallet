@@ -1,1 +1,1 @@
-var mnemonic = "once hire ozone vibrant mystery chat doll sort decide clarify trumpet illness";
+var mnemonic = "again kitten sport black pledge alter display stuff turtle minute option among";

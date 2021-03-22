@@ -1,1 +1,1 @@
-var mnemonic = "similar tired pyramid deer grocery useful verify truly tragic wage friend rail";
+var mnemonic = "quarter answer lava ankle frame dose boy lion weather clutch illegal crowd";

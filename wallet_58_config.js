@@ -1,1 +1,1 @@
-var mnemonic = "remember ability skate cruel menu wild armed bubble tide lonely correct update";
+var mnemonic = "seed later affair hope rough leaf section mad radar enforce rally forget";

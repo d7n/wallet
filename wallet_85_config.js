@@ -1,1 +1,1 @@
-var mnemonic = "visit sense cloud clarify close steel child weasel onion order crowd plate";
+var mnemonic = "wasp tip off wash scrub stumble inner peasant egg mystery logic cinnamon";

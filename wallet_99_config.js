@@ -1,1 +1,1 @@
-var mnemonic = "more grid snow donate follow inside ocean reunion property sentence toy tomato";
+var mnemonic = "tribe bar column slam able cute text water marriage deputy lecture swallow";

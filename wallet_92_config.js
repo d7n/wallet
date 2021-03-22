@@ -1,1 +1,1 @@
-var mnemonic = "wine evolve hen retreat expand citizen drill reject name object coin shuffle";
+var mnemonic = "when shoulder obvious attract near west dolphin setup aisle tell clip reject";

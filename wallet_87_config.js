@@ -1,1 +1,1 @@
-var mnemonic = "tag fresh project water shoot dismiss pencil inquiry leisure ghost cake inquiry";
+var mnemonic = "animal wrap arch help sugar force gasp gap glare process play anxiety";

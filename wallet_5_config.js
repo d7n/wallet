@@ -1,1 +1,1 @@
-var mnemonic = "neutral display rose vicious naive state inside false injury soon loud creek";
+var mnemonic = "when gun target arrest gate shove involve plug buyer adult grid common";

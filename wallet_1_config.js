@@ -1,1 +1,1 @@
-var mnemonic = "dust mass comic excite clutch wink weather panel business oppose bounce melt";
+var mnemonic = "blossom mesh bacon rare someone distance lonely fortune only change escape morning";

@@ -1,1 +1,1 @@
-var mnemonic = "utility blur when dash glove blur danger gain maximum pony seminar age";
+var mnemonic = "express hand alpha minimum fuel license wish furnace park call quantum twelve";

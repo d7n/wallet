@@ -1,1 +1,1 @@
-var mnemonic = "cover video palm major skate spray impulse slush pet parade wrestle fox";
+var mnemonic = "invite drum harvest govern goddess kitten tool negative lawn lizard rent denial";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic eagle pepper feed north combine bronze taxi best defense cannon gadget";
+var mnemonic = "ill review evolve palm gasp decline tennis merge armed ocean lunar shed";

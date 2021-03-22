@@ -1,1 +1,1 @@
-var mnemonic = "hour absent broken leaf capable enhance roast six humble kitten grass develop";
+var mnemonic = "dress latin fork increase scorpion silver level concert cabin dirt undo inform";

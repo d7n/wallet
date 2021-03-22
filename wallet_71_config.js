@@ -1,1 +1,1 @@
-var mnemonic = "inform flush sock next toward hungry identify legend review toward jungle diary";
+var mnemonic = "buddy inch embark small royal scatter grit clog unit spread fluid license";

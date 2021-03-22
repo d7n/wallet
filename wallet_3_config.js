@@ -1,1 +1,1 @@
-var mnemonic = "kick impact occur prepare remain leader inspire fence eagle mechanic swamp clerk";
+var mnemonic = "unlock little physical pave teach palace buffalo chuckle section melody outside breeze";

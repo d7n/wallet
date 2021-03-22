@@ -1,1 +1,1 @@
-var mnemonic = "ladder potato ahead long ready surprise arrow rice black dose story thing";
+var mnemonic = "broom menu alter wool struggle switch move gauge host special glass eternal";

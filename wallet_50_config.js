@@ -1,1 +1,1 @@
-var mnemonic = "toss almost title lady then cargo satisfy vast spider mango recipe vocal";
+var mnemonic = "walk miracle gloom age isolate today clog other friend atom betray window";

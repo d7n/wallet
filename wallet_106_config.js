@@ -1,1 +1,1 @@
-var mnemonic = "lady tunnel convince lecture wreck mixture arm scout hospital youth wool spring";
+var mnemonic = "bike swarm empty fantasy panther capital carry snow ridge manage whisper expose";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff poverty tent jeans round proud gym device midnight number snake execute";
+var mnemonic = "switch sun gift novel angry wine east nuclear neglect coconut brass floor";

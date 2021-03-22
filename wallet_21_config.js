@@ -1,1 +1,1 @@
-var mnemonic = "relax myth risk garlic fresh deny marine camp praise scene bomb leg";
+var mnemonic = "thrive canal blade write share twist wing cycle afford act govern hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous jealous saddle liquid morning embark welcome cover warm puzzle mimic invest";
+var mnemonic = "ski vivid install extend file kingdom wheat toddler moon much affair curious";

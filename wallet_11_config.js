@@ -1,1 +1,1 @@
-var mnemonic = "anxiety melt skull shove mix oxygen arrest bird arrive mushroom battle label";
+var mnemonic = "glimpse frost chase evoke only library empty large ocean penalty rabbit brother";
