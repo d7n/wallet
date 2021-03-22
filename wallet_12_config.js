@@ -1,1 +1,1 @@
-var mnemonic = "image negative net sheriff business grocery pet olympic wrist street quick swim";
+var mnemonic = "price sauce remove modify inmate step neither alley gospel language spring near";

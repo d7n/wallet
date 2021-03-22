@@ -1,1 +1,1 @@
-var mnemonic = "walnut damp antique address toward cool fold farm coin right menu beef";
+var mnemonic = "inject bunker vacant silly horn discover cattle load come alarm wide hen";

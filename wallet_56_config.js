@@ -1,1 +1,1 @@
-var mnemonic = "rain fitness voyage gold view embark marble often mango wish tackle pitch";
+var mnemonic = "measure course change wood public orange conduct volume oyster plastic want wet";

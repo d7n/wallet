@@ -1,1 +1,1 @@
-var mnemonic = "behind student oyster share opinion canyon uniform escape swallow trigger polar tail";
+var mnemonic = "run rescue casino scrub provide scout address camera vague voyage help unknown";

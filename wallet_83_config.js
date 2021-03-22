@@ -1,1 +1,1 @@
-var mnemonic = "race ocean kidney spice debris victory guard learn regret helmet thunder rabbit";
+var mnemonic = "burger seven mandate blouse help soft truth vital visa absurd hire name";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond between rather cart cruise illness journey antenna dragon neck eternal snack";
+var mnemonic = "motor that hole debris public crowd current level pride position forget october";

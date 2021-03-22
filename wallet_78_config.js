@@ -1,1 +1,1 @@
-var mnemonic = "relief sure shoe cancel prize perfect evidence fork output indicate teach axis";
+var mnemonic = "neutral riot they point soldier witness banana metal edit weapon glory room";

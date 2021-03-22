@@ -1,1 +1,1 @@
-var mnemonic = "entire bean advance legend order ride brain run crack hub divert document";
+var mnemonic = "enable until ice outside slight inflict prefer soft tongue ill service cricket";

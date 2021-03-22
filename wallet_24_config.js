@@ -1,1 +1,1 @@
-var mnemonic = "clarify woman ticket gather track bunker law proof corn ketchup meadow auction";
+var mnemonic = "unhappy word dust aware tip apart peasant always hire daring genre harvest";

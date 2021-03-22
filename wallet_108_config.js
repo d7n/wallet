@@ -1,1 +1,1 @@
-var mnemonic = "doctor earth immense exclude muffin choose mass stomach maple clown faculty stove";
+var mnemonic = "bike fix cousin staff employ blame boat burden seed enemy record amount";

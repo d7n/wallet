@@ -1,1 +1,1 @@
-var mnemonic = "fee zero trash various release hedgehog crawl motor penalty insane oval way";
+var mnemonic = "retreat fog ketchup potato borrow ride super own piece stadium gadget attend";

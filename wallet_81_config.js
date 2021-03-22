@@ -1,1 +1,1 @@
-var mnemonic = "hurry bitter steel cupboard fall rather prepare goose chuckle dynamic spin gloom";
+var mnemonic = "foster hobby solution exclude distance olive south sunset acid hello evoke language";

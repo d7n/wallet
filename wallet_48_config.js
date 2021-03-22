@@ -1,1 +1,1 @@
-var mnemonic = "essay tube invest various sing expect label stand grid unique list consider";
+var mnemonic = "kiwi vocal fly empty tank soul subway ticket chapter that market castle";

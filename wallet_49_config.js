@@ -1,1 +1,1 @@
-var mnemonic = "rapid chronic rookie zoo cost pet bottom book between math feel castle";
+var mnemonic = "torch abandon dune yard finish castle violin cruel peasant boost venue fall";

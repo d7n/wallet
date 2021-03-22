@@ -1,1 +1,1 @@
-var mnemonic = "scan dolphin ring agree pottery tattoo sibling review palm shrug pass medal";
+var mnemonic = "trouble online fit mother visit sure north tail rib please goat amused";

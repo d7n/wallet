@@ -1,1 +1,1 @@
-var mnemonic = "series festival flat salute they use umbrella magnet trash trip couch call";
+var mnemonic = "donate garbage butter undo poem tennis impose garlic observe list lamp liar";

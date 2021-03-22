@@ -1,1 +1,1 @@
-var mnemonic = "meat ladder amazing world believe excuse fade reform cradle bronze puppy spider";
+var mnemonic = "boat snap wear slush cage salon birth attack buddy surface benefit twelve";

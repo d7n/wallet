@@ -1,1 +1,1 @@
-var mnemonic = "sponsor ginger pencil clump card hurt quit advance detect future foot enrich";
+var mnemonic = "cupboard assist father either rigid proud wheel spawn seat street fluid slender";

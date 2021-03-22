@@ -1,1 +1,1 @@
-var mnemonic = "fly nerve unhappy humor file lawn design reject nature impact clip marine";
+var mnemonic = "speed inhale pool fashion organ find kit multiply abstract outside bamboo pretty";

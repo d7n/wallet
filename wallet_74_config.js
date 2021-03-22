@@ -1,1 +1,1 @@
-var mnemonic = "essence gift abstract ketchup cradle eagle rubber problem barrel flower whale tool";
+var mnemonic = "limb wonder mountain night text broom crop sunset child bridge resemble grow";

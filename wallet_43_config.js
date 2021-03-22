@@ -1,1 +1,1 @@
-var mnemonic = "erosion fold essence ridge unlock hybrid amused gaze unable slow property energy";
+var mnemonic = "dynamic stereo analyst eagle muscle peace inflict control cheese sea shield engage";

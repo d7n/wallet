@@ -1,1 +1,1 @@
-var mnemonic = "napkin swamp liar runway finger captain nominee grape tower van trade urban";
+var mnemonic = "fiction grow family math carbon deposit denial slam improve rabbit uncover current";

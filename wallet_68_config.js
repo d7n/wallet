@@ -1,1 +1,1 @@
-var mnemonic = "wagon river impulse stock carpet shed kitten charge seven follow obscure witness";
+var mnemonic = "abuse primary vault rack alert insane horn script gloom special hobby smooth";

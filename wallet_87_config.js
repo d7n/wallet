@@ -1,1 +1,1 @@
-var mnemonic = "uncover repeat mass dry cousin vibrant bus alpha laugh wing ranch city";
+var mnemonic = "boat middle domain car globe stairs high lake cluster much section ride";

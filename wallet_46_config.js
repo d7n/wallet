@@ -1,1 +1,1 @@
-var mnemonic = "ski frozen film race upon auto boost parade travel fragile call hair";
+var mnemonic = "route human drink morning unfold churn rebel kitchen fresh resist sentence hour";

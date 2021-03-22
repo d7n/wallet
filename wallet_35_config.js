@@ -1,1 +1,1 @@
-var mnemonic = "return social seminar raw sign trade hello obey yard tribe dial left";
+var mnemonic = "tourist doctor vital twin lens void dove cat scatter dutch body weekend";

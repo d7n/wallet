@@ -1,1 +1,1 @@
-var mnemonic = "focus slow wise master convince canal news side shell oil fabric ask";
+var mnemonic = "helmet what hundred pave member sudden amount doll live huge recipe benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon rain copper success payment coil refuse logic surround make rain sock";
+var mnemonic = "palm range bread vivid merry rural globe dragon indoor pretty zoo live";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant can dinner weird since dose effort crush half woman stadium exotic";
+var mnemonic = "parent casual exact rubber pulse demise cause exist betray bird setup orbit";

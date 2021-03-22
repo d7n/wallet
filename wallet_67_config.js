@@ -1,1 +1,1 @@
-var mnemonic = "away solution sister business garage horse blossom good grain segment phone tumble";
+var mnemonic = "ranch print public mobile mystery transfer balcony pulp ignore know neglect tunnel";

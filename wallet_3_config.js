@@ -1,1 +1,1 @@
-var mnemonic = "catalog result toss where educate leader extra exclude unable write mule input";
+var mnemonic = "clutch shell divert casual actor limit sadness damage actress process shrug weather";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal model gate nothing perfect minute simple laundry account lunch notice mansion";
+var mnemonic = "lounge smile lady lizard cousin night sort identify crime diary able abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder inner prevent tool satisfy dutch bounce satisfy broken swarm sustain tray";
+var mnemonic = "matter tortoise reveal calm spray soldier grid kiwi outdoor bunker tip glad";

@@ -1,1 +1,1 @@
-var mnemonic = "public payment theory guilt dentist mass assist drift recycle team target dice";
+var mnemonic = "neither chief hybrid meadow elevator rare nose horn crawl height slogan emerge";

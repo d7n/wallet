@@ -1,1 +1,1 @@
-var mnemonic = "hour skate coral silk twenty vanish often proof admit economy success napkin";
+var mnemonic = "riot frog rule genuine olympic worth marine sure supreme raven vintage tennis";

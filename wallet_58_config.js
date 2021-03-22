@@ -1,1 +1,1 @@
-var mnemonic = "child clinic today knife elephant burden struggle federal panda ride visual cake";
+var mnemonic = "art spice section observe diary comic mixture wild distance glass surge aerobic";

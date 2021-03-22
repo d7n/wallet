@@ -1,1 +1,1 @@
-var mnemonic = "job emotion promote door usual dove early bundle shrimp clerk shield country";
+var mnemonic = "slide high social staff sadness dilemma large pizza resist grow shoot provide";

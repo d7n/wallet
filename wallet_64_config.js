@@ -1,1 +1,1 @@
-var mnemonic = "isolate accident recipe bamboo carry random input proud luggage delay prison stable";
+var mnemonic = "rare chimney urge daring head attract aunt fade prepare clump sheriff fever";

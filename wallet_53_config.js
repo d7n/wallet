@@ -1,1 +1,1 @@
-var mnemonic = "zoo sentence note tape thrive lift process angle dragon allow erase charge";
+var mnemonic = "chunk venture evidence situate wheat swear below leaf symptom giraffe aisle total";

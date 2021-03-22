@@ -1,1 +1,1 @@
-var mnemonic = "ethics crack merit kitten provide achieve bright air despair blade floor end";
+var mnemonic = "correct rail paper mushroom call grace able dilemma around hungry witness mansion";

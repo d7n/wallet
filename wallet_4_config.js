@@ -1,1 +1,1 @@
-var mnemonic = "upset traffic swing master always spawn between vast eternal concert gauge give";
+var mnemonic = "license piece illness spray horn spoil exercise online inject venue royal fitness";

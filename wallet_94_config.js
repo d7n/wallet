@@ -1,1 +1,1 @@
-var mnemonic = "total soldier column trash diary silver door panther balcony bulb creek cement";
+var mnemonic = "seven copper harvest push found only assist isolate bicycle predict crumble account";

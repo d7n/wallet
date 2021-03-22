@@ -1,1 +1,1 @@
-var mnemonic = "arctic mesh choice stable bundle garlic hair hungry shed unable evolve raccoon";
+var mnemonic = "similar average gadget match endless gentle horse rhythm elder whisper glad grab";

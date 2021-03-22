@@ -1,1 +1,1 @@
-var mnemonic = "author satoshi abstract royal monster recycle luxury truth front help glow globe";
+var mnemonic = "merit sound west gaze renew decline goddess cotton hero drop relief effort";

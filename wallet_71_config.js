@@ -1,1 +1,1 @@
-var mnemonic = "wage ostrich panel symptom december jealous east upper silly east approve churn";
+var mnemonic = "extra pumpkin flee solid surprise hundred february initial then nut mask acquire";

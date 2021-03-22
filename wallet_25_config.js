@@ -1,1 +1,1 @@
-var mnemonic = "tumble domain isolate fancy broom village razor credit remain mountain alpha scissors";
+var mnemonic = "salmon jump much sponsor catalog first reflect lyrics calm skill endless injury";

@@ -1,1 +1,1 @@
-var mnemonic = "become zero pet slight track lock accuse captain defense unfold few spin";
+var mnemonic = "horn orient assault tail write roof winter column naive canal water husband";

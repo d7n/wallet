@@ -1,1 +1,1 @@
-var mnemonic = "zebra wrist alter empower north where copper chaos harsh useless venture animal";
+var mnemonic = "unique double sniff theme rifle cycle forest electric equip top age tube";

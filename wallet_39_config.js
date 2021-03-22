@@ -1,1 +1,1 @@
-var mnemonic = "parent fog foster survey bus husband father sauce program venue joke custom";
+var mnemonic = "relief raven quantum chief lady usual judge easy bamboo pair limit dumb";

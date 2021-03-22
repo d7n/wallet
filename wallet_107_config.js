@@ -1,1 +1,1 @@
-var mnemonic = "nose cool jaguar own slab level maple forward life advance ranch chunk";
+var mnemonic = "stock plug veteran obvious ordinary mystery predict leave cabin clever toast sure";

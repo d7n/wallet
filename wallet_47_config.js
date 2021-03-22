@@ -1,1 +1,1 @@
-var mnemonic = "dream vocal shed album initial deliver pear echo eight spot hour gas";
+var mnemonic = "oblige lion danger cloth where flat fault mirror daughter boss minute shield";

@@ -1,1 +1,1 @@
-var mnemonic = "detect border rescue ignore habit remove attend forum square flavor exit flip";
+var mnemonic = "common achieve marine frown vacuum urge fancy fence mansion chaos dirt afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "immense same comfort staff clog bag ghost tattoo expose mutual amused page";
+var mnemonic = "puzzle kitchen private furnace hotel walnut page aspect future effort uncle excess";

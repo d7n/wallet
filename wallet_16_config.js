@@ -1,1 +1,1 @@
-var mnemonic = "skate fine vessel deputy ginger lucky industry like proof toast main lonely";
+var mnemonic = "bamboo arch curious correct swamp often board gather used ramp frequent negative";

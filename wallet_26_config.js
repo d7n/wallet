@@ -1,1 +1,1 @@
-var mnemonic = "rally siren ten eye steak lawn ritual beach ring attitude debris pill";
+var mnemonic = "flash rely chase picnic letter equip venture connect mystery virtual famous balance";

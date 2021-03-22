@@ -1,1 +1,1 @@
-var mnemonic = "myth juice infant ride adjust reveal measure defense drink mean coach salute";
+var mnemonic = "warrior regular awkward arrow maid public scan unable solid mimic warfare useless";

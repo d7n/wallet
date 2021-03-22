@@ -1,1 +1,1 @@
-var mnemonic = "bar usual excite chair rib receive oven essence clean muffin sorry decline";
+var mnemonic = "waste flame blind audit ignore lion next mail destroy pear ramp valid";

@@ -1,1 +1,1 @@
-var mnemonic = "taste intact expire boring fringe video prepare fox prefer office wait reduce";
+var mnemonic = "ankle agree leg roast crash airport move rare picture fork bench medal";

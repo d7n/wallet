@@ -1,1 +1,1 @@
-var mnemonic = "noise upper color key retire middle another crisp nurse crowd unit cargo";
+var mnemonic = "glass clerk judge rose shiver rabbit snow settle trust summer group castle";

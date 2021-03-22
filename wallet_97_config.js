@@ -1,1 +1,1 @@
-var mnemonic = "cycle print orbit excess moral primary degree protect enhance box below olympic";
+var mnemonic = "fossil legend donate profit airport brief cruise affair suffer kit sponsor slogan";

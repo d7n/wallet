@@ -1,1 +1,1 @@
-var mnemonic = "diamond brush behave protect rib organ private toddler voyage cattle where assist";
+var mnemonic = "nest taxi april chicken someone garden honey animal bracket sword cruel trial";

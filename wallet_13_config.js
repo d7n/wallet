@@ -1,1 +1,1 @@
-var mnemonic = "crumble olympic dumb fuel satisfy pass tip cruise ankle arena release struggle";
+var mnemonic = "predict hedgehog clay hour egg zoo mention stuff identify twin panic shell";

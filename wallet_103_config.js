@@ -1,1 +1,1 @@
-var mnemonic = "tool gravity stamp power truth latin lonely youth virtual inherit olympic search";
+var mnemonic = "boss loan warfare enforce grab cry column crew since laundry rare math";

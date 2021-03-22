@@ -1,1 +1,1 @@
-var mnemonic = "sight moon grass during area click system such duty kitten credit vivid";
+var mnemonic = "soccer amazing force future laugh monkey banana escape panther version elbow change";

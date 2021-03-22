@@ -1,1 +1,1 @@
-var mnemonic = "neutral yard among property lawsuit spoon garment shrug virus right turtle april";
+var mnemonic = "owner casino basket casino tone isolate outer dry quality salon common normal";

@@ -1,1 +1,1 @@
-var mnemonic = "scene peace tooth legend rookie cannon usage engine genius whip tree produce";
+var mnemonic = "vessel middle delay boring reject reopen what leaf goddess mean this can";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal boss stone method sad economy abuse educate crew main genuine drum";
+var mnemonic = "wrestle blur flash hire pig equal differ unfold autumn emotion dinner group";

@@ -1,1 +1,1 @@
-var mnemonic = "stock romance auction tortoise small toddler argue avoid rhythm soldier forest crouch";
+var mnemonic = "upgrade hurry animal loud clay toss push media gift lawn whale minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "grant shrug marine explain key jaguar camp umbrella tail apart stone clean";
+var mnemonic = "float ramp deer walnut defy race pole boring trouble topple soda snow";

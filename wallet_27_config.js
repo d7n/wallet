@@ -1,1 +1,1 @@
-var mnemonic = "dune body shuffle coyote coast category angry year plunge wheel hold hub";
+var mnemonic = "flush gun depart cruel crowd boost stuff hope cage receive flush yellow";

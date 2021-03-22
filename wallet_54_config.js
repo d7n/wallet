@@ -1,1 +1,1 @@
-var mnemonic = "receive require patient warfare second crowd follow corn you pluck divorce change";
+var mnemonic = "short arrange supreme define rebel deer theme alcohol network secret race check";

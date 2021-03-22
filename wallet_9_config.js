@@ -1,1 +1,1 @@
-var mnemonic = "arena aunt avoid happy effort bicycle accident hand whisper diary zone seven";
+var mnemonic = "estate million rug aspect review cushion impulse drum govern scorpion minor debris";

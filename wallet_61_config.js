@@ -1,1 +1,1 @@
-var mnemonic = "skin kangaroo couch comic excite nuclear uniform spare champion high need sock";
+var mnemonic = "repair stomach hip snap magnet surprise aware agree later earn morning bomb";

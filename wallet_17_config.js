@@ -1,1 +1,1 @@
-var mnemonic = "street faith drum problem design zebra trip glow candy team tumble bomb";
+var mnemonic = "soon derive mystery joy describe slice install domain pear garment teach desert";

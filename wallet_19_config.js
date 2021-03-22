@@ -1,1 +1,1 @@
-var mnemonic = "puppy kangaroo industry flower wedding sound paddle okay sell parrot coil credit";
+var mnemonic = "load plate debate bullet donkey sand armed pond winter cactus spend tag";

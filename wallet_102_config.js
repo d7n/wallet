@@ -1,1 +1,1 @@
-var mnemonic = "craft wolf clay recycle hollow protect dizzy fatal list slide rack predict";
+var mnemonic = "pact simple lawsuit exclude similar lottery economy early reflect option certain hope";

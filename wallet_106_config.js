@@ -1,1 +1,1 @@
-var mnemonic = "about payment excite neither term thunder spot book arena circle zoo cargo";
+var mnemonic = "syrup country flower first diet attitude refuse thumb lake parrot that cool";

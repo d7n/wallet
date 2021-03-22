@@ -1,1 +1,1 @@
-var mnemonic = "kite waste master salt consider yellow crane throw siege voice good assume";
+var mnemonic = "often match woman merge critic atom jewel ten photo reopen almost ecology";

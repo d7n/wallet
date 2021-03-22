@@ -1,1 +1,1 @@
-var mnemonic = "exercise worth winter blast chalk almost soul thank elbow mix brush leopard";
+var mnemonic = "finish select dog primary series margin erosion split poverty asthma mountain potato";

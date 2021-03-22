@@ -1,1 +1,1 @@
-var mnemonic = "oppose fold argue dash arrow clown pilot trend abstract craft about author";
+var mnemonic = "sketch master huge include kangaroo trade quote tuna either direct diamond ugly";

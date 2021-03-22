@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit hire luxury tank copper furnace shallow ketchup vast fatigue shoe marine";
+var mnemonic = "brand verify permit pluck join right time alarm that amount tube scrub";

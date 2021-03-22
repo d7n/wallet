@@ -1,1 +1,1 @@
-var mnemonic = "fiscal still recycle rotate milk switch claw caution name immune able identify";
+var mnemonic = "traffic daring scheme stove quick misery boil sorry depart unfold actress quality";

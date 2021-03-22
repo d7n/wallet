@@ -1,1 +1,1 @@
-var mnemonic = "lawn save wet album enforce blur couple fine excess float edge dice";
+var mnemonic = "three wife exclude elder truck soul interest carbon climb armor cement truly";

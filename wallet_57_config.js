@@ -1,1 +1,1 @@
-var mnemonic = "will angry kiwi unit amazing skate receive you borrow grocery edit depth";
+var mnemonic = "mobile arctic during oxygen army innocent drama indoor satisfy peasant move must";

@@ -1,1 +1,1 @@
-var mnemonic = "hope trend ancient spare toilet faculty achieve victory boost athlete cycle photo";
+var mnemonic = "ensure car acid web cube december patrol coach feel rival mountain truly";

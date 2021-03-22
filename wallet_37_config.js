@@ -1,1 +1,1 @@
-var mnemonic = "recipe panda donkey flower unable rifle catch dust bunker recycle unhappy infant";
+var mnemonic = "square cotton warrior lizard gallery differ derive embody cross barrel abstract innocent";

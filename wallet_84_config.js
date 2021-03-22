@@ -1,1 +1,1 @@
-var mnemonic = "wait tonight cook drill clay ritual shove gospel isolate ride dash clap";
+var mnemonic = "please smile tip later toe wet comic planet tiny aisle nephew major";

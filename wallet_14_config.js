@@ -1,1 +1,1 @@
-var mnemonic = "stomach trim eternal agree tilt balcony feature museum tank leave shed goose";
+var mnemonic = "skull minor nose impose submit speed human song sudden nuclear distance charge";

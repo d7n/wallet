@@ -1,1 +1,1 @@
-var mnemonic = "swallow false express afford fever document autumn adapt benefit issue priority proof";
+var mnemonic = "unhappy market castle shy frequent upset detect zoo grab manual review lens";

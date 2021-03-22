@@ -1,1 +1,1 @@
-var mnemonic = "destroy syrup shock trade chair jelly ill theory ridge bench veteran similar";
+var mnemonic = "naive novel place pumpkin picture blue connect indoor nasty hover sniff guide";
