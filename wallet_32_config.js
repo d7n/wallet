@@ -1,1 +1,1 @@
-var mnemonic = "major sister poverty grain fantasy field youth bundle margin chat object van";
+var mnemonic = "century palace angry field tooth tooth dolphin crisp crowd sport obtain upset";

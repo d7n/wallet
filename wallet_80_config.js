@@ -1,1 +1,1 @@
-var mnemonic = "language fee comfort this large luxury rigid oppose outdoor horror mail airport";
+var mnemonic = "confirm clean draft bacon stove choose card walk wife rigid swallow front";

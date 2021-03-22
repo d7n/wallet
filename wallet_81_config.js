@@ -1,1 +1,1 @@
-var mnemonic = "almost army fish segment salt hub voice valid document review notable marriage";
+var mnemonic = "pencil provide latin skill pledge blind raw often secret work segment bread";

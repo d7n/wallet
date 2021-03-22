@@ -1,1 +1,1 @@
-var mnemonic = "soup oven wide impulse upgrade attract extend badge ridge deposit law risk";
+var mnemonic = "toe elephant term town unit sorry engage moment age govern palace wood";

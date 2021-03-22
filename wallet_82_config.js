@@ -1,1 +1,1 @@
-var mnemonic = "dinner dizzy satoshi balcony trim shiver excess town uphold veteran staff ripple";
+var mnemonic = "tower nest tenant liquid ramp there sting wrap inhale laugh normal weasel";

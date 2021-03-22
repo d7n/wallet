@@ -1,1 +1,1 @@
-var mnemonic = "youth angry people slender eyebrow fiber invest answer beach tent mansion people";
+var mnemonic = "involve sight run retire clean pet slight insect whip dove junior payment";

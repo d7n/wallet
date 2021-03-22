@@ -1,1 +1,1 @@
-var mnemonic = "hour stage fence private invest observe merge broccoli fragile furnace beef detail";
+var mnemonic = "patch comic start rapid arch annual copy brush friend swallow easily cake";

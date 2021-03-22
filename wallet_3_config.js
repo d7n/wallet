@@ -1,1 +1,1 @@
-var mnemonic = "flavor orbit local smart ticket episode roof since practice gadget salon casino";
+var mnemonic = "beef life surface truly essence bread buffalo coach access price that grunt";

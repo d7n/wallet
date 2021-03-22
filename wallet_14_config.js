@@ -1,1 +1,1 @@
-var mnemonic = "clip flock space shell exact idle practice phone rug maze leg jacket";
+var mnemonic = "explain run embark lizard situate water busy pioneer broom obey behave holiday";

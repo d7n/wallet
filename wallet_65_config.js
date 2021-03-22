@@ -1,1 +1,1 @@
-var mnemonic = "kite chronic mask address bronze daughter balcony hawk citizen afraid path sing";
+var mnemonic = "farm hurt coral second edit start uphold smart throw label worth lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "season combine owner kid snow great decide venue bulk capable stomach creek";
+var mnemonic = "song bone copy path cube lizard fat where pencil home law problem";

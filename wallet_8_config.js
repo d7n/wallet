@@ -1,1 +1,1 @@
-var mnemonic = "loud cat trick bronze dose lemon symptom wave renew dress random virtual";
+var mnemonic = "ability beauty benefit depend frog grant void charge actor face steak atom";

@@ -1,1 +1,1 @@
-var mnemonic = "brain common current laundry reform race steak enrich girl luxury ceiling ocean";
+var mnemonic = "quit acoustic wear display slender lake useless pelican cool one medal parade";

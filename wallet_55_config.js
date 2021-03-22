@@ -1,1 +1,1 @@
-var mnemonic = "nurse ask around matrix loyal regular endorse volcano milk wealth later health";
+var mnemonic = "inform load live crumble impulse monster bridge control address quality suit evolve";

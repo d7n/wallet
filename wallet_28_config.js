@@ -1,1 +1,1 @@
-var mnemonic = "cool riot resist cover end field brisk item story wood flash stable";
+var mnemonic = "strong math nest cabbage bullet planet divide grow give pipe wash coil";

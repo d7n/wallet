@@ -1,1 +1,1 @@
-var mnemonic = "pond produce isolate cereal cliff amused much orient stay typical cinnamon check";
+var mnemonic = "print rough decide eager hold wait ecology radar quarter garage wool wrong";

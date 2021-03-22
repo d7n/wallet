@@ -1,1 +1,1 @@
-var mnemonic = "behind glide fence man captain broom reason vivid surface cancel shaft resist";
+var mnemonic = "remain erosion wash sure chest plastic aunt clip cross extend chapter journey";

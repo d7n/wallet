@@ -1,1 +1,1 @@
-var mnemonic = "pioneer wedding clever shiver submit weapon shield wheat inmate equal fabric rib";
+var mnemonic = "march doctor useful force salmon razor slim awesome feel install island wet";

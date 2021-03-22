@@ -1,1 +1,1 @@
-var mnemonic = "entire boss busy waste boil medal gasp alert film jar filter dynamic";
+var mnemonic = "clap fossil bring close wing juice skull private setup hint trial frown";

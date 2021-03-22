@@ -1,1 +1,1 @@
-var mnemonic = "spin cherry cost motion swear dash age normal fun near head cotton";
+var mnemonic = "memory roof light member frown stool age birth capable despair salute burden";

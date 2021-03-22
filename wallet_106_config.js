@@ -1,1 +1,1 @@
-var mnemonic = "vanish helmet stuff retire slot shrimp nature gap vault kangaroo buffalo verify";
+var mnemonic = "two salt ice volcano address noble worry health before ancient fruit strategy";

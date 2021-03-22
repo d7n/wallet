@@ -1,1 +1,1 @@
-var mnemonic = "assist dog jelly calm recall chair entry enemy treat joke chunk exist";
+var mnemonic = "coyote noble pudding fabric laugh update nerve float shrug brain alpha betray";

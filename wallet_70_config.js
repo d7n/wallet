@@ -1,1 +1,1 @@
-var mnemonic = "cross venture addict rabbit length garage embark hurt soul tray quarter demand";
+var mnemonic = "world example cloud side lottery another sniff bright glide poet bread person";

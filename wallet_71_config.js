@@ -1,1 +1,1 @@
-var mnemonic = "connect injury lazy assume palm host ecology twenty practice fever toss sustain";
+var mnemonic = "spring spoon torch always absent harvest foil recall process crazy erase purchase";

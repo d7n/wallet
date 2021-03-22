@@ -1,1 +1,1 @@
-var mnemonic = "snake castle roast express chalk reason pioneer skate nut acquire letter rude";
+var mnemonic = "shy embody chimney summer farm bag chuckle soft elbow behave satoshi city";

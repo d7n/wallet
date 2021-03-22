@@ -1,1 +1,1 @@
-var mnemonic = "maid hero receive nurse round cost shop kiwi cook spread that allow";
+var mnemonic = "obvious rough reflect alcohol youth glass exotic vessel film ivory hour mind";

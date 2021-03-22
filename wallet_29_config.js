@@ -1,1 +1,1 @@
-var mnemonic = "elbow teach adjust defense minor gauge fabric coil polar bounce liberty victory";
+var mnemonic = "mother matter side above actual problem narrow stick spirit identify embrace soft";

@@ -1,1 +1,1 @@
-var mnemonic = "street olive acquire toe mean found inside yard alcohol now leave stone";
+var mnemonic = "seed avoid room dream story response kidney device pudding peasant flight news";

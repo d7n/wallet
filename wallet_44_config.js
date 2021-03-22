@@ -1,1 +1,1 @@
-var mnemonic = "spot addict cherry legal glimpse echo prosper menu edge client vibrant uncover";
+var mnemonic = "pig smooth tiger twenty tornado come fiction combine dry idea fatal trouble";

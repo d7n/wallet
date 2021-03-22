@@ -1,1 +1,1 @@
-var mnemonic = "wear pony slab amused voyage caution boy will smoke payment volume slice";
+var mnemonic = "rug ten utility day flame odor labor inmate there orange sketch mutual";

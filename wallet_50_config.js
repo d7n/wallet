@@ -1,1 +1,1 @@
-var mnemonic = "cup crater globe route album violin foam company eagle panther expand glimpse";
+var mnemonic = "notice carry orange tired web achieve remember dwarf earth draft violin scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "finger dust curious island flip need cute priority law inflict tenant rifle";
+var mnemonic = "shy retire grab prefer dose crunch become panic evolve stomach come obvious";

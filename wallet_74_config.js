@@ -1,1 +1,1 @@
-var mnemonic = "same story plate rely toss escape arrange upon food flip bounce spare";
+var mnemonic = "cherry trigger trophy approve crouch joke abuse flash upon trouble lonely outer";

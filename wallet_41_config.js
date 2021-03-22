@@ -1,1 +1,1 @@
-var mnemonic = "empower crush edge select civil seed vocal time old erupt inner ahead";
+var mnemonic = "myth torch category office tide walk spare bench release half online tragic";

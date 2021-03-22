@@ -1,1 +1,1 @@
-var mnemonic = "east sibling snack layer kick harbor awesome zero mushroom fantasy exchange fetch";
+var mnemonic = "race success crisp viable car abandon subject menu salt push spare hint";

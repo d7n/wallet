@@ -1,1 +1,1 @@
-var mnemonic = "glare achieve network iron resemble spread bench labor now cabin hidden cry";
+var mnemonic = "family clog ready minute security snake mom glove stove fruit wagon unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "hand march negative oven know prevent phone monkey dignity harsh master scrub";
+var mnemonic = "address misery talk gift useless blind dragon desk forget make middle coffee";

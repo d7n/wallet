@@ -1,1 +1,1 @@
-var mnemonic = "before jeans confirm fog omit hip cup merit flip unable tower bread";
+var mnemonic = "social state legal crush pepper pizza bunker fun hire giggle hockey tackle";

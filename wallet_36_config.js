@@ -1,1 +1,1 @@
-var mnemonic = "glow work frozen swallow oval genuine dry worth transfer brave dwarf nephew";
+var mnemonic = "inquiry slender claim nerve buddy illness hospital offer universe bronze approve surround";

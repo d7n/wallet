@@ -1,1 +1,1 @@
-var mnemonic = "cheese invite sugar breeze taste warm federal jungle bottom spin spell claim";
+var mnemonic = "van dynamic stereo between gap ridge citizen delay mirror silent regret fabric";

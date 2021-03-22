@@ -1,1 +1,1 @@
-var mnemonic = "horror device puzzle electric display little climb crazy abuse unveil carry safe";
+var mnemonic = "poem upon scheme rich busy explain comfort gap gift flavor security weather";

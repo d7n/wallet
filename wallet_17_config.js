@@ -1,1 +1,1 @@
-var mnemonic = "diamond ritual blue limit category typical charge infant room drop gossip pair";
+var mnemonic = "void vintage crater excess tourist coyote grass pupil anxiety add anger poem";

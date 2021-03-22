@@ -1,1 +1,1 @@
-var mnemonic = "correct caution pony job admit output chest indicate horse bike sorry route";
+var mnemonic = "garlic february few angry forum harbor cushion lion clean inspire matter release";

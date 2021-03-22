@@ -1,1 +1,1 @@
-var mnemonic = "glimpse wonder side plate remind make draft barrel pair direct eagle fashion";
+var mnemonic = "father blur strategy lab fame embark theme left awake agent stay humor";

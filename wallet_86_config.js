@@ -1,1 +1,1 @@
-var mnemonic = "calm liquid fiber catalog medal keen fluid risk coyote frog volcano spike";
+var mnemonic = "fragile pulp mixed object plunge picnic romance enforce fragile oak heart leaf";

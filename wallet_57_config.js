@@ -1,1 +1,1 @@
-var mnemonic = "limit record profit illegal loan when witness secret riot robust roast disorder";
+var mnemonic = "depart memory rapid eternal soup uniform mix strike wise sign author until";

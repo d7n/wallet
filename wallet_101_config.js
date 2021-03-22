@@ -1,1 +1,1 @@
-var mnemonic = "photo visa animal inspire vast dash close dwarf target dynamic oil dismiss";
+var mnemonic = "fantasy labor private jazz give step level rubber easily need lyrics vapor";

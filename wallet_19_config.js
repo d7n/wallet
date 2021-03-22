@@ -1,1 +1,1 @@
-var mnemonic = "grab disease absorb nature crater panda citizen unaware advice hole zoo frame";
+var mnemonic = "dune similar theory exit ivory upper energy behave tower egg faint silent";

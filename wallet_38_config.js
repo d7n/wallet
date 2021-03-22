@@ -1,1 +1,1 @@
-var mnemonic = "vacuum brass twelve scale example loop wave until robot define where elite";
+var mnemonic = "sell approve cycle shy orient cry bulb arrow urge bounce push judge";

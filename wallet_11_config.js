@@ -1,1 +1,1 @@
-var mnemonic = "seek fault explain fashion unit simple cancel fog napkin air dizzy captain";
+var mnemonic = "laundry ability survey soccer abstract mask gate tuna nation thrive crane fresh";

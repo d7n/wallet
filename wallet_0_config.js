@@ -1,1 +1,1 @@
-var mnemonic = "impact decrease fiction trial matrix lecture always tackle horror crisp know dash";
+var mnemonic = "shove unaware thumb denial volume sleep maze radio morning exact rural layer";

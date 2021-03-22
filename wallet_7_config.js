@@ -1,1 +1,1 @@
-var mnemonic = "desert domain still buzz decline must earth eyebrow lawsuit truck spring mystery";
+var mnemonic = "miracle next shove element false fall survey pudding office butter honey derive";

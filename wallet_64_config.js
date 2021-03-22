@@ -1,1 +1,1 @@
-var mnemonic = "sun screen forest transfer retreat runway recycle describe lion enter extend ensure";
+var mnemonic = "smart coil salt wet coach wool steel embrace potato genre knife aerobic";

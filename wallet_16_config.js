@@ -1,1 +1,1 @@
-var mnemonic = "wisdom wonder omit wage scrap unhappy eagle end side strike gym bleak";
+var mnemonic = "bacon eagle merit gallery stove scatter boring scatter chief hospital piano frame";

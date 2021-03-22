@@ -1,1 +1,1 @@
-var mnemonic = "radio belt venue picture cigar hospital negative soul friend guide mushroom mushroom";
+var mnemonic = "order shell cushion tobacco embrace foam eager chapter famous acoustic margin size";

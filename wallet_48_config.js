@@ -1,1 +1,1 @@
-var mnemonic = "crime claw bonus case skin firm across inflict summer crystal decrease leader";
+var mnemonic = "lamp practice flip buffalo armor awful hawk bench atom barely force rice";

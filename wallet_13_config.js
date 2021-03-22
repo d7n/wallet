@@ -1,1 +1,1 @@
-var mnemonic = "address nut reject behave shift annual neglect casino panel fiction place marine";
+var mnemonic = "pair protect cargo enhance flavor laptop kangaroo now jealous solid vapor frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "friend naive swim female claim legal jazz hour smooth repeat chalk giant";
+var mnemonic = "blame figure foot sorry lake bubble ivory young couple mask vanish powder";

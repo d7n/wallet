@@ -1,1 +1,1 @@
-var mnemonic = "pool glide expect audit mask path crack bullet solution quiz thunder away";
+var mnemonic = "plate dice victory weird pencil phone arctic idle settle oppose nurse prefer";

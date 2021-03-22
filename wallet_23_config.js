@@ -1,1 +1,1 @@
-var mnemonic = "post profit carpet virtual plate estate ship fabric twice include income mad";
+var mnemonic = "wreck tumble leg rabbit diary earth potato lottery illness acoustic detect choose";

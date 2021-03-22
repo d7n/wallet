@@ -1,1 +1,1 @@
-var mnemonic = "burden place drift travel scheme powder digital honey bundle mystery tomorrow sing";
+var mnemonic = "venture start source retreat fine allow select man call scrub myself path";

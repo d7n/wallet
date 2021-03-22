@@ -1,1 +1,1 @@
-var mnemonic = "improve material loyal card habit figure paddle item rival swallow width shrimp";
+var mnemonic = "trap chaos memory vehicle august sad inform forum keen boss glory mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "west warm hair picnic amused reform fuel actor luggage filter host urban";
+var mnemonic = "success debris gloom pudding ketchup chimney weird certain release fit second exercise";

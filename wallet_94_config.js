@@ -1,1 +1,1 @@
-var mnemonic = "runway digital blade claw nephew fuel siren cram turtle ritual throw entry";
+var mnemonic = "margin brain company aisle castle sister guitar reform network card vault remove";

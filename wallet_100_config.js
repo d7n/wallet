@@ -1,1 +1,1 @@
-var mnemonic = "swim avocado cereal never burger liberty glad winter gorilla heavy blood spike";
+var mnemonic = "caution impose until twin sting shrimp wine margin anxiety glove crucial steak";

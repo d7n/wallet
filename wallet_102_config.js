@@ -1,1 +1,1 @@
-var mnemonic = "tenant power index rain empower midnight exact wool phrase retreat inherit tuition";
+var mnemonic = "plate retire syrup abandon remain dirt divide world wall glad lemon heavy";

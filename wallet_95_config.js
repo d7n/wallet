@@ -1,1 +1,1 @@
-var mnemonic = "nature weather novel eye december then pyramid shield crane quantum between rare";
+var mnemonic = "general only hand wool couple post play debris orient have smile raw";

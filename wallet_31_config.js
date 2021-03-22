@@ -1,1 +1,1 @@
-var mnemonic = "club panic spike increase toe quiz wolf monitor express afraid film math";
+var mnemonic = "chunk leg laundry already stage little rifle empower castle beach regular stamp";

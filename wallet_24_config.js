@@ -1,1 +1,1 @@
-var mnemonic = "crowd use mansion silly unique anxiety side promote expire glimpse tide candy";
+var mnemonic = "garage leaf quit artist lottery health road novel scout elephant rice genre";

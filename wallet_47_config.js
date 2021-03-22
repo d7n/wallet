@@ -1,1 +1,1 @@
-var mnemonic = "dwarf travel discover scout stock differ salt around swap cable call recipe";
+var mnemonic = "output struggle random cost shift protect dizzy fix wing empower world spread";

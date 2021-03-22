@@ -1,1 +1,1 @@
-var mnemonic = "gap media gold reform model chicken border spy pool dance catch flame";
+var mnemonic = "hidden air shadow knife confirm boost excuse task slow excess put cook";

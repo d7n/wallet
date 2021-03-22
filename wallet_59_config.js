@@ -1,1 +1,1 @@
-var mnemonic = "island quit evil lumber like grain stairs desk captain place buddy destroy";
+var mnemonic = "sausage crane civil tongue include crew blind please slow vacuum clog hard";

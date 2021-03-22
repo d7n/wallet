@@ -1,1 +1,1 @@
-var mnemonic = "screen opinion bus foam cause able diary below core excuse step floor";
+var mnemonic = "mean thank bind congress embark bronze illegal opinion shrimp country noodle minute";

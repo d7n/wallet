@@ -1,1 +1,1 @@
-var mnemonic = "fence liquid symptom current spice useful client deputy decrease crunch jungle border";
+var mnemonic = "immense october hybrid coral grid general fetch place safe size angle spell";

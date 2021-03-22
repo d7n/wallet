@@ -1,1 +1,1 @@
-var mnemonic = "cram hip shoulder all gloom switch verify delay aerobic exile drama pull";
+var mnemonic = "gravity nation hub review bonus scan ozone type help legend neutral resource";

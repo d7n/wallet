@@ -1,1 +1,1 @@
-var mnemonic = "false crowd fatal differ uncle clap door card post bachelor click unaware";
+var mnemonic = "immense agree duty exist lava desert feel dash soul random term maid";

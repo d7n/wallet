@@ -1,1 +1,1 @@
-var mnemonic = "accuse scorpion wrap hire letter tone kitten vote gym cruise change ramp";
+var mnemonic = "soap slow unit sister gym sick once jaguar hint raven purity rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "found tattoo small deal design silk ice margin winter column theory raccoon";
+var mnemonic = "alcohol gossip scare pass promote rally invite body supply observe teach pottery";

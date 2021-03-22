@@ -1,1 +1,1 @@
-var mnemonic = "fragile unfair blade argue until ritual blush sand impose joke leader basket";
+var mnemonic = "jump spend wheat outer achieve green salute lake fade raven boss novel";

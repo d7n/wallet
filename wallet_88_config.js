@@ -1,1 +1,1 @@
-var mnemonic = "inhale crystal dutch route else person any tenant enact stage oxygen eight";
+var mnemonic = "fiber speak space someone fringe meat guide wisdom luggage portion duck again";

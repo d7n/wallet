@@ -1,1 +1,1 @@
-var mnemonic = "chief armor scrap negative regret lounge goat spray magnet meadow pigeon job";
+var mnemonic = "mushroom menu steak spider dress inch mad message scissors distance lucky gasp";

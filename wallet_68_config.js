@@ -1,1 +1,1 @@
-var mnemonic = "scrap sense cancel problem great rare capable conduct wrist angle romance human";
+var mnemonic = "physical dentist peanut capital broken stamp cause shield jacket lens cactus fatal";

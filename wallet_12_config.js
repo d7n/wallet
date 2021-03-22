@@ -1,1 +1,1 @@
-var mnemonic = "ritual notice green vast valve bench erupt insect dizzy repeat disorder actress";
+var mnemonic = "own census drastic engage dynamic bachelor gown pipe domain once decade guitar";

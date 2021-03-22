@@ -1,1 +1,1 @@
-var mnemonic = "worry sister prefer fork bounce tiny burden drill stairs sibling own jungle";
+var mnemonic = "female stage wink mask spray series identify switch athlete clip course sniff";

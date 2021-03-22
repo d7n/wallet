@@ -1,1 +1,1 @@
-var mnemonic = "between water alone reveal orbit inner jeans movie current tank initial coyote";
+var mnemonic = "muscle wave various relief appear visual armed memory correct before play uniform";

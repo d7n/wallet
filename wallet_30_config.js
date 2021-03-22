@@ -1,1 +1,1 @@
-var mnemonic = "avoid gauge night quarter copy certain glue prepare rebel garlic despair diamond";
+var mnemonic = "nose draft eternal habit parrot hair behind require allow fringe exact dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "zone erupt panther lawsuit garage tower identify access glimpse hunt lounge mammal";
+var mnemonic = "focus glimpse fold fantasy impulse uncle bacon nasty taxi obey pupil obtain";
