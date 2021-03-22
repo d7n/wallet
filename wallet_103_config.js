@@ -1,1 +1,1 @@
-var mnemonic = "smile conduct waste laptop when mixed awesome action behave couple bind type";
+var mnemonic = "priority arrive soldier wild design rigid monkey black venue dolphin crane woman";

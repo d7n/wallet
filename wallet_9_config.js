@@ -1,1 +1,1 @@
-var mnemonic = "park nut foam frame blame casino crisp ecology pill visa coin sauce";
+var mnemonic = "worry scrub gasp thrive simple layer that sword decorate uniform trade chimney";

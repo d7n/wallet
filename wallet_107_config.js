@@ -1,1 +1,1 @@
-var mnemonic = "fatigue online empty guitar betray spring cave ecology nasty weird regular manage";
+var mnemonic = "taste firm frown badge bonus clip yard joke cancel provide general document";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic cattle midnight roof dizzy burst kit fantasy item exhaust kiwi media";
+var mnemonic = "pride dignity actual model found head refuse evidence across picnic cereal inner";

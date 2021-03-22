@@ -1,1 +1,1 @@
-var mnemonic = "lock battle hurdle broccoli magnet tent topic isolate today expect brass uncover";
+var mnemonic = "garden fence gloom cake indoor hungry bomb exercise afraid thumb choose wagon";

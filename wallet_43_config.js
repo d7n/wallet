@@ -1,1 +1,1 @@
-var mnemonic = "imitate clap denial tourist belt device magnet glad exile brand chair close";
+var mnemonic = "rail develop match govern inflict wish light awake elephant window collect grab";

@@ -1,1 +1,1 @@
-var mnemonic = "crane injury burger illegal wisdom join kid satoshi prize impulse degree other";
+var mnemonic = "breeze ice now elbow milk helmet cruel entire easy close path arctic";

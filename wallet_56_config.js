@@ -1,1 +1,1 @@
-var mnemonic = "better useless pride fresh profit visual priority trigger armed oven plastic useless";
+var mnemonic = "immune gloom stumble angle violin rebuild vicious agent silent dutch laptop risk";

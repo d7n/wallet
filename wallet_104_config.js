@@ -1,1 +1,1 @@
-var mnemonic = "circle metal amount slight slight method suspect deposit frame clarify gas brass";
+var mnemonic = "wash priority maid isolate click trial screen sibling any shed morning chalk";

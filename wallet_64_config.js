@@ -1,1 +1,1 @@
-var mnemonic = "melt analyst resemble pizza wreck wisdom bread time truck impose museum original";
+var mnemonic = "later depart beef ugly solid eight book brother clinic noble skate feature";

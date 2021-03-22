@@ -1,1 +1,1 @@
-var mnemonic = "salad stuff meadow afford tooth spot unfold reason stand subject cake desert";
+var mnemonic = "arrive memory route swift motor pear limb west captain crunch crack easy";

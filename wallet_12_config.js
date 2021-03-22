@@ -1,1 +1,1 @@
-var mnemonic = "latin stuff rural repair spare relax tape animal dinner nasty consider planet";
+var mnemonic = "tag help frog toast solution corn lake life artefact cigar rhythm unfold";

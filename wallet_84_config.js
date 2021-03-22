@@ -1,1 +1,1 @@
-var mnemonic = "buzz unfold neither victory vintage author comic hungry message pretty frost stuff";
+var mnemonic = "fetch voyage season major tenant network local aim embody school devote canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "armed forward order bench sense embody pride obscure cupboard video apple myself";
+var mnemonic = "act latin weather tooth color guilt wisdom panther goose agree awful giant";

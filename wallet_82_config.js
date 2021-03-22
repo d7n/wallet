@@ -1,1 +1,1 @@
-var mnemonic = "edit carpet text gloom return creek foam garment all picnic cross beyond";
+var mnemonic = "absent pioneer luggage midnight connect admit top write fix helmet biology pretty";

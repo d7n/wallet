@@ -1,1 +1,1 @@
-var mnemonic = "planet joy forum wrong bean rubber sort opinion female alert they rally";
+var mnemonic = "erosion never version silent hill fatal resource process inhale grief spider recall";

@@ -1,1 +1,1 @@
-var mnemonic = "fog finger enlist return vague price lunar detect salt tired travel diary";
+var mnemonic = "second bridge under eager series alter attend fork actual forest clarify goat";

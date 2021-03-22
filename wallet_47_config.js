@@ -1,1 +1,1 @@
-var mnemonic = "puppy hand divert friend sheriff match weapon void normal bag mystery team";
+var mnemonic = "pole never ski scan ticket blush grant gaze coast grow olive wear";

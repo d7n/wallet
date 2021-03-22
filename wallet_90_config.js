@@ -1,1 +1,1 @@
-var mnemonic = "region start urge ostrich analyst victory spend final scale country cart moment";
+var mnemonic = "inject insane upon tray topic half switch brass best exhaust steak wreck";

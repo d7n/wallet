@@ -1,1 +1,1 @@
-var mnemonic = "indicate face picnic force circle hamster sing quiz curtain lady month swing";
+var mnemonic = "betray album creek brave pulp battle often weasel fatigue leopard bicycle nasty";

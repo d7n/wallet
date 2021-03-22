@@ -1,1 +1,1 @@
-var mnemonic = "work step sound camera balcony salute hello scale bag provide dawn dutch";
+var mnemonic = "wing core thing barely tank chalk praise high hockey crane pottery frost";

@@ -1,1 +1,1 @@
-var mnemonic = "intact lock dutch fetch south magnet depth clump valid wisdom brown table";
+var mnemonic = "inside door atom provide tomorrow merit elevator film dumb cake upgrade put";

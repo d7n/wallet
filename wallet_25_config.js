@@ -1,1 +1,1 @@
-var mnemonic = "dust insane random enact bubble fall unfold payment sheriff brief shine multiply";
+var mnemonic = "jeans paddle stove present helmet proud script note royal ginger bonus simple";

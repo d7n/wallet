@@ -1,1 +1,1 @@
-var mnemonic = "token what list race type embody drift robust frame fluid effort relax";
+var mnemonic = "claim birth label render garbage paddle access horse nominee that box next";

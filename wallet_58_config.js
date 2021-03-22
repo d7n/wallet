@@ -1,1 +1,1 @@
-var mnemonic = "entry dizzy token like lonely monitor chest bean crouch crew sign vehicle";
+var mnemonic = "involve lunch tuition mirror mushroom other quantum found loyal round gossip close";

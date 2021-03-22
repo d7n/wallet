@@ -1,1 +1,1 @@
-var mnemonic = "shed human close bench industry reveal virtual wash tattoo attack right session";
+var mnemonic = "escape inhale photo first weapon urge jar juice cram broken unaware speed";

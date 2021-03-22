@@ -1,1 +1,1 @@
-var mnemonic = "cube egg erase critic focus rather cactus hamster merry laugh cook response";
+var mnemonic = "wash legal science black ramp tiger unfold regret course fever exclude chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle push harbor crucial sad become roof sound bright oblige recall diagram";
+var mnemonic = "dry dynamic tiny pole forest undo exhibit insect left ripple treat spider";

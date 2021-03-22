@@ -1,1 +1,1 @@
-var mnemonic = "fork fix toe sheriff decrease loyal cannon chase refuse cart marriage object";
+var mnemonic = "result problem royal despair face pottery audit payment warm embark olive payment";

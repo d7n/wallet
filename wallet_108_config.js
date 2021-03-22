@@ -1,1 +1,1 @@
-var mnemonic = "cliff mind immune rose cotton century sand hidden clown inject cloth decide";
+var mnemonic = "fall evolve galaxy stable cry always stool lawsuit trust easy lady acoustic";

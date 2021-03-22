@@ -1,1 +1,1 @@
-var mnemonic = "day flee injury indoor split evoke general high poem artefact car decorate";
+var mnemonic = "vibrant exchange dutch exclude carpet nut clerk law ability kitchen coil urban";

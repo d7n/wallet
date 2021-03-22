@@ -1,1 +1,1 @@
-var mnemonic = "when zoo slide awake over two armor pizza toss cricket snack shaft";
+var mnemonic = "stuff gap battle fragile crop ritual rapid sell wheel motion rather clerk";

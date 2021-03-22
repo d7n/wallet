@@ -1,1 +1,1 @@
-var mnemonic = "jealous enable rabbit source eager mirror pencil canoe silk mistake kitten eight";
+var mnemonic = "moment shuffle mass tired glove royal actor drift convince nephew pulp bachelor";

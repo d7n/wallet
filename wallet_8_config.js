@@ -1,1 +1,1 @@
-var mnemonic = "fury eye husband frost concert pizza item anger fluid bag august gospel";
+var mnemonic = "step evil six survey forum blanket deal erosion human rebuild peasant axis";

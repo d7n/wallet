@@ -1,1 +1,1 @@
-var mnemonic = "city tip hunt increase right scrap merit service enforce hazard heart strategy";
+var mnemonic = "width argue chalk garment where deny purity excite dirt girl moment spider";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap hero head release assume bird mechanic table echo alcohol derive session";
+var mnemonic = "install answer outdoor foil wet midnight idle print liquid rack junk alone";

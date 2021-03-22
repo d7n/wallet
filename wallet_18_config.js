@@ -1,1 +1,1 @@
-var mnemonic = "dismiss dinosaur cliff goddess theme apple cricket wheel stadium nominee glimpse verb";
+var mnemonic = "fragile law siren awful purity indoor stock match document step lamp off";

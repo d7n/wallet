@@ -1,1 +1,1 @@
-var mnemonic = "move shuffle any vendor survey tent video clap club icon quality soldier";
+var mnemonic = "convince drastic lake effort timber box time pizza paper disagree audit item";

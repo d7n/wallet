@@ -1,1 +1,1 @@
-var mnemonic = "town phone orphan basket click initial tomorrow brave fox kick robot ring";
+var mnemonic = "fuel drink flock army gadget toward march weapon rich fence sort team";

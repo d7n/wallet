@@ -1,1 +1,1 @@
-var mnemonic = "pelican bitter beauty social forum entire title gadget tree farm love clever";
+var mnemonic = "key journey civil venue dutch deputy proof grant process benefit obscure save";

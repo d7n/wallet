@@ -1,1 +1,1 @@
-var mnemonic = "spot mechanic salute work rival drive sure lemon section rail jeans about";
+var mnemonic = "stool clap very sponsor tourist trumpet coil armor nature easy flower floor";

@@ -1,1 +1,1 @@
-var mnemonic = "business plastic useful six cram grace rifle addict toss bundle priority vintage";
+var mnemonic = "merge crew inmate soon joke renew next bus course level pulp flash";

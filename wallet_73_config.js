@@ -1,1 +1,1 @@
-var mnemonic = "april inflict shiver phrase fly pipe rookie gallery either garden social win";
+var mnemonic = "hill exile belt demise unveil stock mesh mention opera top speed disease";

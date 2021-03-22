@@ -1,1 +1,1 @@
-var mnemonic = "bleak gasp fire estate journey cigar spray kid you marine hard slice";
+var mnemonic = "scorpion crunch miracle eternal unhappy fat stock same close faculty early position";

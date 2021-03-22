@@ -1,1 +1,1 @@
-var mnemonic = "diagram anxiety boy wear giraffe title cannon regular dynamic nice snap affair";
+var mnemonic = "position valve window horn stay kitten antenna heart forum real envelope recipe";

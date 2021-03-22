@@ -1,1 +1,1 @@
-var mnemonic = "width glass fatigue vicious program foster valid fetch priority lady weather blouse";
+var mnemonic = "rely pole stand nothing pottery auction agent auction opinion finger move guard";

@@ -1,1 +1,1 @@
-var mnemonic = "inside shield must cabbage message mass lab fine short current dinner left";
+var mnemonic = "disease cheap daughter addict mutual bitter also tunnel torch fancy gift cross";

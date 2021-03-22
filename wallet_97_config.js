@@ -1,1 +1,1 @@
-var mnemonic = "stadium barely cliff layer setup narrow pupil miracle coral ugly strike avocado";
+var mnemonic = "glue matrix menu staff segment twin negative you parrot planet wish deputy";

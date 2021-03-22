@@ -1,1 +1,1 @@
-var mnemonic = "simple people beef scout switch field physical output region room film winner";
+var mnemonic = "erupt protect breeze demise front finish gentle such stadium enter click vintage";

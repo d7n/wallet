@@ -1,1 +1,1 @@
-var mnemonic = "comic render bonus section lonely crawl law away sorry faint harbor apple";
+var mnemonic = "radio pond such find web actual attitude bullet auction marine galaxy forest";

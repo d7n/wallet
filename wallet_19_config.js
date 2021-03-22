@@ -1,1 +1,1 @@
-var mnemonic = "palm curtain owner market bunker waste drum coconut mean panic side correct";
+var mnemonic = "globe system arrange doctor media dawn fancy humor rude area mention giraffe";

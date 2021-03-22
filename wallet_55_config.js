@@ -1,1 +1,1 @@
-var mnemonic = "zero sleep section motor provide scan grab bottom execute rival swift day";
+var mnemonic = "jeans retreat thought shallow mountain kitchen few venture gym ask cost nation";

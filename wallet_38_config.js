@@ -1,1 +1,1 @@
-var mnemonic = "struggle genuine need cotton pull aerobic cart correct boy town kidney federal";
+var mnemonic = "tumble market slice huge father garden deer curious gate fan swarm valid";

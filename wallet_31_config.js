@@ -1,1 +1,1 @@
-var mnemonic = "virtual shine cave around bridge crew hundred category hip food find square";
+var mnemonic = "inside unique shallow yellow sense rain jealous circle emerge view soon airport";

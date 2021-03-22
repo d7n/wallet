@@ -1,1 +1,1 @@
-var mnemonic = "flock use lawn surround second art pill aware toss dry divorce wasp";
+var mnemonic = "educate scene yard figure clump possible century square virus heart game smart";

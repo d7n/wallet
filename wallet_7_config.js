@@ -1,1 +1,1 @@
-var mnemonic = "tell express obtain modify sunset dilemma plate grass wrestle social cruise admit";
+var mnemonic = "priority harbor video cash strong dress there service destroy domain magnet reward";

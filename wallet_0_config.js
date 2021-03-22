@@ -1,1 +1,1 @@
-var mnemonic = "river abuse name nice hedgehog domain novel tree release ignore lyrics daughter";
+var mnemonic = "about exhibit eager wool rail accident ability subject toilet pave stereo size";

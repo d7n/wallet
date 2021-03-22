@@ -1,1 +1,1 @@
-var mnemonic = "beyond swift client bone shine girl just click near shift industry identify";
+var mnemonic = "crew salmon purity flip enact primary dwarf powder usual test swim moment";

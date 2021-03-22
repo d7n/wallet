@@ -1,1 +1,1 @@
-var mnemonic = "flower ketchup permit famous sadness cloth kit differ annual alien deputy anchor";
+var mnemonic = "patient climb step never gate eagle print distance eyebrow card hazard click";

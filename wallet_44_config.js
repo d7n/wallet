@@ -1,1 +1,1 @@
-var mnemonic = "exist jaguar parent caught true praise unaware defy humble bar mule angry";
+var mnemonic = "venue circle across ivory double car misery cotton avocado above nation tomato";

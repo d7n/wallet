@@ -1,1 +1,1 @@
-var mnemonic = "when high eternal design deny catalog poem tortoise brave guitar casino genius";
+var mnemonic = "winner book cup share color sample between exist sunset lift call slab";

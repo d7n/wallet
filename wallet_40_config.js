@@ -1,1 +1,1 @@
-var mnemonic = "alarm daughter toss draw skull metal track used loyal million donor come";
+var mnemonic = "call interest genius found taxi spy announce soccer memory cactus supreme absurd";

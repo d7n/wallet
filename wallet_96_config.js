@@ -1,1 +1,1 @@
-var mnemonic = "abandon medal fly increase shallow fall own slim height other category gentle";
+var mnemonic = "lab woman open tiny door type jar desert track goddess alone steel";

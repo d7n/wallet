@@ -1,1 +1,1 @@
-var mnemonic = "toe climb bird moment mention addict where exclude burst pudding rail arrive";
+var mnemonic = "super demand behave hazard vocal battle cigar tiny upper render sorry spin";

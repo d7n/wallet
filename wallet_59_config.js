@@ -1,1 +1,1 @@
-var mnemonic = "element salon custom expand tip display impose tube shine hundred crop neglect";
+var mnemonic = "leave normal service trigger mobile believe inner certain merit subway planet crazy";

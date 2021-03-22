@@ -1,1 +1,1 @@
-var mnemonic = "today rescue ladder crisp gas dish leg exhibit course body again grab";
+var mnemonic = "hurt clinic uncover deputy double mom mushroom win series affair always tonight";

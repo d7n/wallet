@@ -1,1 +1,1 @@
-var mnemonic = "lecture admit hard easy length oppose behind earth tag olive shoulder deal";
+var mnemonic = "measure trigger spend blur list fiscal tomato document cream animal exercise hero";

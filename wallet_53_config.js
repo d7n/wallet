@@ -1,1 +1,1 @@
-var mnemonic = "amazing winner issue grief battle ocean tired abuse shiver math skill nothing";
+var mnemonic = "intact logic try novel trophy own coach shy measure moon inquiry river";

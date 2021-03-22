@@ -1,1 +1,1 @@
-var mnemonic = "robust obvious way december amount hurdle false dragon friend all elbow scheme";
+var mnemonic = "sentence lumber key engine either spend offer jewel mushroom state proof movie";

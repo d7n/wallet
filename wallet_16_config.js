@@ -1,1 +1,1 @@
-var mnemonic = "illness cram wrestle whisper jacket envelope judge food december excess hidden asthma";
+var mnemonic = "blouse fun sorry sunset model race tongue guide produce crush memory crowd";

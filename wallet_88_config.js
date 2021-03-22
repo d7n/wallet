@@ -1,1 +1,1 @@
-var mnemonic = "flush wild husband unaware sea silent ill permit veteran hundred false drive";
+var mnemonic = "penalty recycle daring coach trouble move cool sausage mass lawn leg ankle";

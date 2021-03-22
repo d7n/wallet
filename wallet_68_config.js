@@ -1,1 +1,1 @@
-var mnemonic = "steel edit evoke swamp original bargain chat pet lecture process share genuine";
+var mnemonic = "eight barrel ability you label fun ketchup volcano pledge title eagle long";

@@ -1,1 +1,1 @@
-var mnemonic = "chest give crack bundle drift gown cruel smile art slab into depth";
+var mnemonic = "juice riot gasp angry artefact cave current item ability click deny ready";

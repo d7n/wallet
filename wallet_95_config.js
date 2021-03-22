@@ -1,1 +1,1 @@
-var mnemonic = "fire job salt clerk chronic east repeat grape phrase screen notable sentence";
+var mnemonic = "guilt coin issue worth planet milk memory legend thrive enter side ignore";

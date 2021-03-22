@@ -1,1 +1,1 @@
-var mnemonic = "convince spoon wage bean mango anxiety vivid provide metal fork gold simple";
+var mnemonic = "tattoo motor zero beyond athlete dash broccoli runway media code tell next";

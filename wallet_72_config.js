@@ -1,1 +1,1 @@
-var mnemonic = "capital type cost display egg oak melt excess vanish matter slim upper";
+var mnemonic = "snack patch night recipe script find police furnace blood quantum hand uncle";

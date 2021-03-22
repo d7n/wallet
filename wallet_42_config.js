@@ -1,1 +1,1 @@
-var mnemonic = "fix nurse three maze control orbit satoshi mouse kidney soap learn squirrel";
+var mnemonic = "exile bone cradle subject okay wide vague saddle interest rebuild simple strong";

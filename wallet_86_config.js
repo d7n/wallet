@@ -1,1 +1,1 @@
-var mnemonic = "size box wood twice shift various seven degree ethics today alley clever";
+var mnemonic = "together butter bronze improve sand fiction despair social gasp canal apple spread";

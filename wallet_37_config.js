@@ -1,1 +1,1 @@
-var mnemonic = "decrease audit peasant lamp menu chicken tenant wave vital frog black whisper";
+var mnemonic = "drill friend endless issue sell protect sand body scatter come pulse swap";

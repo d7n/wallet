@@ -1,1 +1,1 @@
-var mnemonic = "true cruel reflect limit cloud gloom sick way window that below please";
+var mnemonic = "veteran fun exercise trigger globe medal please industry real cloud front cigar";

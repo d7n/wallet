@@ -1,1 +1,1 @@
-var mnemonic = "move cupboard erupt bid cute clever shoulder term near must series insane";
+var mnemonic = "strike useful build ticket phrase jungle action cushion panel flower unknown any";

@@ -1,1 +1,1 @@
-var mnemonic = "type furnace afraid midnight exhaust blind tiny attitude moral robust shoulder unable";
+var mnemonic = "wood valley ask palm real consider treat matrix phone page ridge fat";

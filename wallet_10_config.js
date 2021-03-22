@@ -1,1 +1,1 @@
-var mnemonic = "legal metal you remind police love east dune disease fever derive trend";
+var mnemonic = "olympic despair silk vacuum unit height follow pilot explain chat flower village";

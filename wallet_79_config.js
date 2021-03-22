@@ -1,1 +1,1 @@
-var mnemonic = "swarm witness outside era cloth dress digital sad cigar brain exercise blur";
+var mnemonic = "tattoo gown any fat theme oil certain spring response rose vote uniform";

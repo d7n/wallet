@@ -1,1 +1,1 @@
-var mnemonic = "erase palm captain north hold wood wagon advance diesel mom return sustain";
+var mnemonic = "print census loyal elder inmate review scan drink hidden there seat immune";

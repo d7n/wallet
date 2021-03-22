@@ -1,1 +1,1 @@
-var mnemonic = "victory carry busy mixture frozen stay garbage shrug reflect chaos morning pistol";
+var mnemonic = "digital twist predict clarify session payment someone sauce then main car repair";

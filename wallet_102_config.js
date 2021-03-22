@@ -1,1 +1,1 @@
-var mnemonic = "hotel night rack fly amused raven mango whale element cycle note face";
+var mnemonic = "twenty crane tragic spare artwork only tumble build spread lock morning bag";

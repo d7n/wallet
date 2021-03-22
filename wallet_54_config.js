@@ -1,1 +1,1 @@
-var mnemonic = "dwarf atom weather fury debate retreat brave sign equal element tenant stand";
+var mnemonic = "into shy motor keen tobacco cycle myth vivid smile brand awful report";

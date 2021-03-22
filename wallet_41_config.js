@@ -1,1 +1,1 @@
-var mnemonic = "either destroy response midnight prepare diary document myself confirm hire route garage";
+var mnemonic = "goose pass bone tragic luxury neglect net motion skin oven regret glue";

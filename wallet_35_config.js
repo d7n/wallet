@@ -1,1 +1,1 @@
-var mnemonic = "illness priority wave eagle inquiry pupil soup result fetch alcohol sister ten";
+var mnemonic = "fine flock high endorse soup fox city blast traffic decrease buzz document";

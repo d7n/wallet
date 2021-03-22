@@ -1,1 +1,1 @@
-var mnemonic = "silk uphold already jungle proof second person blue major please smart draft";
+var mnemonic = "clutch service crowd inquiry logic depart wise champion jewel gain tone practice";

@@ -1,1 +1,1 @@
-var mnemonic = "cart left roast clown jacket stumble hockey lava skate buyer album update";
+var mnemonic = "weapon attend need vintage undo match agree february taxi erupt myself book";

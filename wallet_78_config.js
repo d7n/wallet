@@ -1,1 +1,1 @@
-var mnemonic = "actress diet such employ empower address initial car wrist lucky ring hawk";
+var mnemonic = "evoke twenty bullet ice crystal panic reform icon inhale gain found popular";

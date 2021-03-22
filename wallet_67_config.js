@@ -1,1 +1,1 @@
-var mnemonic = "brain gentle ball old virus recall gesture latin wing young place escape";
+var mnemonic = "bind lonely depth budget desert affair old lend hospital beauty carbon armed";

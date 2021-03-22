@@ -1,1 +1,1 @@
-var mnemonic = "safe vessel alcohol door nation honey paddle aerobic runway there verify forget";
+var mnemonic = "casual neutral monitor beach click dune bridge violin fault antenna market inject";

@@ -1,1 +1,1 @@
-var mnemonic = "post always fresh bring chunk thumb cattle resemble thought win opera truly";
+var mnemonic = "foster denial friend idea key glass whip indicate another rice dizzy mention";
