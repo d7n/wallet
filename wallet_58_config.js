@@ -1,1 +1,1 @@
-var mnemonic = "soon jar skirt danger either until diary tired grief hawk surround produce";
+var mnemonic = "crowd frozen differ cabin rent income motor parrot bicycle actress lamp blade";

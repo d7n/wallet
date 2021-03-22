@@ -1,1 +1,1 @@
-var mnemonic = "arrow decrease advance violin limit curve oyster afraid couple civil off recipe";
+var mnemonic = "cushion roof vast resist brush live silk eager message chef alone permit";

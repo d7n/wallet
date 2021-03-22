@@ -1,1 +1,1 @@
-var mnemonic = "sell profit diesel pistol squeeze attitude suit orient remind bubble civil secret";
+var mnemonic = "desert slam hen pink industry melt kiwi one route skate lecture tribe";

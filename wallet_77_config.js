@@ -1,1 +1,1 @@
-var mnemonic = "kitchen wife mother raccoon month galaxy debris shoulder photo six trend boring";
+var mnemonic = "until air seat race humble chaos gentle material grid arrange action evidence";

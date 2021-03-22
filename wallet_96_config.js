@@ -1,1 +1,1 @@
-var mnemonic = "leopard such warfare deliver useful vibrant vicious example club phrase scatter annual";
+var mnemonic = "sense wise group winner decide have comic wide search mango salt food";

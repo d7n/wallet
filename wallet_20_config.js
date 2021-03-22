@@ -1,1 +1,1 @@
-var mnemonic = "infant security rate aware bubble minute lottery decade wire client hurt innocent";
+var mnemonic = "visa trophy pattern claim they final senior snow pause flag twin rural";

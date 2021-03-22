@@ -1,1 +1,1 @@
-var mnemonic = "fabric document core catch model involve either ethics exercise fragile panda squeeze";
+var mnemonic = "neck minute depend dust about milk expire tackle bamboo blossom luggage poet";

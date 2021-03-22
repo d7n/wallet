@@ -1,1 +1,1 @@
-var mnemonic = "mosquito diamond device music neither meadow era glimpse long post miss region";
+var mnemonic = "endorse input divide ugly again fabric trap concert vendor sing soda usual";

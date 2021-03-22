@@ -1,1 +1,1 @@
-var mnemonic = "wood about dawn salute will shaft tool voyage erase vote blue time";
+var mnemonic = "face creek aisle wire balance dutch deposit concert rabbit month good south";

@@ -1,1 +1,1 @@
-var mnemonic = "melody bargain magnet creek poem wage ancient girl silent eyebrow able mesh";
+var mnemonic = "veteran they tube kick boat fuel obey frog clarify vibrant exercise edge";

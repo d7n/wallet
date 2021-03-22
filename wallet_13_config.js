@@ -1,1 +1,1 @@
-var mnemonic = "laptop title afraid debris reflect hungry police below face answer escape deer";
+var mnemonic = "matrix level adapt apology bottom easily scorpion diagram spend disagree depend language";

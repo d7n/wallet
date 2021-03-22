@@ -1,1 +1,1 @@
-var mnemonic = "coin armor around razor sing basket fuel scorpion perfect kick small pelican";
+var mnemonic = "you trouble giraffe track noodle renew only chapter such volcano bronze swallow";

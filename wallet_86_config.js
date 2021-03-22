@@ -1,1 +1,1 @@
-var mnemonic = "recipe sustain speak memory employ notice possible medal castle open hammer treat";
+var mnemonic = "unlock antique marriage divorce choice worth hub churn merge frozen tunnel antique";

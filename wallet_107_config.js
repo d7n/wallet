@@ -1,1 +1,1 @@
-var mnemonic = "dawn check true image trial try prison color cheap blanket edit wait";
+var mnemonic = "tumble essay attitude various useless sheriff rare stick fit flock between steel";

@@ -1,1 +1,1 @@
-var mnemonic = "police enrich various donate wreck tongue matter ocean craft cherry tomato luggage";
+var mnemonic = "hungry wing gallery segment bid rack enroll mixed floor long damp modify";

@@ -1,1 +1,1 @@
-var mnemonic = "slim gun eye crew element match source source rain owner riot wolf";
+var mnemonic = "vicious web trip foster envelope twenty false blind blame clean hip upset";

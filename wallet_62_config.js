@@ -1,1 +1,1 @@
-var mnemonic = "swap act immune satisfy fortune already sign spatial message spray number raise";
+var mnemonic = "common portion power reveal kind dizzy project fine betray become baby balcony";

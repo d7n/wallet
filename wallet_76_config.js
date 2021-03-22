@@ -1,1 +1,1 @@
-var mnemonic = "junk use label pet cotton turn thought flag purchase female faculty cricket";
+var mnemonic = "whip chicken panther flush paddle vendor leave shuffle drill year hip drive";

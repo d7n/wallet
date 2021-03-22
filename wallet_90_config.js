@@ -1,1 +1,1 @@
-var mnemonic = "police rack orchard age ten arrange accident entire luggage advice swim matter";
+var mnemonic = "force shed feel foster edge sure sample into awake put page flat";

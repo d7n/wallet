@@ -1,1 +1,1 @@
-var mnemonic = "hockey proud dentist artefact unfair fence alien asthma picnic drive witness mammal";
+var mnemonic = "saddle razor valve cluster inhale enlist time denial romance near topic flower";

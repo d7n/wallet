@@ -1,1 +1,1 @@
-var mnemonic = "proud crew cave fat media immune vendor east fox grain kingdom guitar";
+var mnemonic = "siege above slogan able rabbit rude silly lawn double cigar float burger";

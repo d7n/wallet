@@ -1,1 +1,1 @@
-var mnemonic = "present public myself sound push local collect win wall split practice gold";
+var mnemonic = "symbol art fox vivid flip jaguar ostrich flock anxiety artwork mirror media";

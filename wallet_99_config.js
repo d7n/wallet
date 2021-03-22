@@ -1,1 +1,1 @@
-var mnemonic = "snack lonely debate amateur change shrug amount traffic rhythm island until other";
+var mnemonic = "decrease antique barrel judge flight donor eyebrow length meat away travel salad";

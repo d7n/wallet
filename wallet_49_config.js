@@ -1,1 +1,1 @@
-var mnemonic = "coin sentence blame shell mixture base easily duck ghost private hamster logic";
+var mnemonic = "change talent mango hero drama clock nurse veteran fluid frozen pole bring";

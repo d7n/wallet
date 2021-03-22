@@ -1,1 +1,1 @@
-var mnemonic = "zoo canvas differ one skull valid mistake enroll betray mountain another bright";
+var mnemonic = "gold damp question lamp genre car inner avocado prefer edit wait infant";

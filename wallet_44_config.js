@@ -1,1 +1,1 @@
-var mnemonic = "gorilla develop demand polar logic pepper always when credit urban armed tank";
+var mnemonic = "buddy flame beyond photo napkin delay bird amazing piano vivid dog effort";

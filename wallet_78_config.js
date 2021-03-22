@@ -1,1 +1,1 @@
-var mnemonic = "text equip chair negative time service fantasy notice flavor aspect better praise";
+var mnemonic = "bike science hip one bachelor slow shoot trigger endless easily crisp visual";

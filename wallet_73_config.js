@@ -1,1 +1,1 @@
-var mnemonic = "learn fault great improve cherry pass capital announce reform maze possible cattle";
+var mnemonic = "mobile suspect detect circle number offer recycle alarm teach depart drum fitness";

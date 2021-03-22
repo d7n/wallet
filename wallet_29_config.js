@@ -1,1 +1,1 @@
-var mnemonic = "honey source dilemma silly harbor clutch invite old awful genuine elevator reduce";
+var mnemonic = "apart memory casual talent genre ordinary champion soldier word gallery woman pulp";

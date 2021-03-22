@@ -1,1 +1,1 @@
-var mnemonic = "trip north second bargain accident trade lonely license mean reopen soldier easy";
+var mnemonic = "grass siege neglect manual mountain silly original solar dizzy again carry wisdom";

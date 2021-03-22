@@ -1,1 +1,1 @@
-var mnemonic = "despair turtle neither net slogan antique pottery sing feed nice second raccoon";
+var mnemonic = "ethics genuine school marble protect hazard speed theory require people say film";

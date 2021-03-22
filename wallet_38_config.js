@@ -1,1 +1,1 @@
-var mnemonic = "parent air key steak scene exclude volcano mystery live margin safe valid";
+var mnemonic = "say demand coffee neglect stone alley manage conduct level report crew source";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost common clap tiny vanish swim claw crash retreat address inform volcano";
+var mnemonic = "cushion shiver impulse office truly wear little bridge front ostrich width vessel";

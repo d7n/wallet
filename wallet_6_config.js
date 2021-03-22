@@ -1,1 +1,1 @@
-var mnemonic = "deny viable anger daughter grunt seek crime senior final annual scrub dirt";
+var mnemonic = "unit hidden ripple thank marine detect wire liberty dynamic cover knock trust";

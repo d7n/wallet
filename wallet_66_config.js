@@ -1,1 +1,1 @@
-var mnemonic = "general soap thrive sweet refuse chaos helmet note eager arrow able coral";
+var mnemonic = "mosquito orient ball message title pudding garden access until shoot portion liquid";

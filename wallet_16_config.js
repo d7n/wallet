@@ -1,1 +1,1 @@
-var mnemonic = "ignore taste fiction pulse hollow friend coin diamond slogan photo near trap";
+var mnemonic = "fall demand verb radio drama cousin salute logic myself grace together opera";

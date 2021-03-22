@@ -1,1 +1,1 @@
-var mnemonic = "comfort avocado need require grab girl describe provide shrug critic damage tray";
+var mnemonic = "ordinary silly marriage replace outside skill win tip wing arrive monitor release";

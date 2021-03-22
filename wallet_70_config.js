@@ -1,1 +1,1 @@
-var mnemonic = "visual rack inch merge plate shiver stand people vague start voice labor";
+var mnemonic = "imitate basic ensure theory hand drum orphan stable govern awkward light brick";

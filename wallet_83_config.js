@@ -1,1 +1,1 @@
-var mnemonic = "under used royal caught seat mouse minor yard head language neck survey";
+var mnemonic = "tenant expire pear goat income sister jeans jungle spy common wedding kingdom";

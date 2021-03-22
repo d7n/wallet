@@ -1,1 +1,1 @@
-var mnemonic = "prize evolve lunar exhibit jewel fog tornado hamster laugh survey man immense";
+var mnemonic = "copper common point glass define multiply area april sketch quote hire rocket";

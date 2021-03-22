@@ -1,1 +1,1 @@
-var mnemonic = "fit usual there slam core coral drip east denial asthma size define";
+var mnemonic = "jaguar hood race churn blanket moral depart eager into crush total town";

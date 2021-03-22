@@ -1,1 +1,1 @@
-var mnemonic = "neutral love swamp flip wool unveil reflect agree output scissors ceiling egg";
+var mnemonic = "mango universe lemon prize wink type fantasy entry burden gas surface prepare";

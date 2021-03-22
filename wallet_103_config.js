@@ -1,1 +1,1 @@
-var mnemonic = "silk disorder start inspire bacon wave earth gentle skull toward border farm";
+var mnemonic = "reject wheat lyrics exhaust social social please genius flame endless body document";

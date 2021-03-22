@@ -1,1 +1,1 @@
-var mnemonic = "spice scrub moon hole ski bus legal witness mention quarter escape apple";
+var mnemonic = "stuff assault volcano stove way very tattoo victory industry express struggle mimic";

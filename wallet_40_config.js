@@ -1,1 +1,1 @@
-var mnemonic = "empty orient drastic resist strong true memory devote priority arrive bonus law";
+var mnemonic = "hammer output rebel idea token rival also drama obscure onion domain ginger";

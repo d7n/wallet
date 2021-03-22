@@ -1,1 +1,1 @@
-var mnemonic = "edit grief embrace exit soon quantum dune token relief step abuse abstract";
+var mnemonic = "pyramid ramp stock off mixture excess deny strategy enjoy over antenna beef";

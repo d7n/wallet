@@ -1,1 +1,1 @@
-var mnemonic = "mean nephew junior coast kid clutch little fish life midnight wave soccer";
+var mnemonic = "beyond bomb monster bunker equip trust vehicle panther good oval typical fog";

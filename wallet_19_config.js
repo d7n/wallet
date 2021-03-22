@@ -1,1 +1,1 @@
-var mnemonic = "fan merit creek trap crawl powder shiver perfect law brown tourist gain";
+var mnemonic = "mad play dinosaur slim tomorrow phrase antique dance exclude divide state palm";

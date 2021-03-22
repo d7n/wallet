@@ -1,1 +1,1 @@
-var mnemonic = "until toss topic pond detail decide improve topic stem injury first salute";
+var mnemonic = "crunch energy harsh position proof random jacket wrong calm toddler muscle river";

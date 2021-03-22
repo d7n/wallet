@@ -1,1 +1,1 @@
-var mnemonic = "bar retire curve reduce collect imitate atom cage cancel hen thing team";
+var mnemonic = "tongue repair box island cash crouch bid load pelican boy choose remember";

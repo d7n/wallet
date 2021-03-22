@@ -1,1 +1,1 @@
-var mnemonic = "try pitch satoshi cancel vessel grunt seek icon cram alcohol afraid toddler";
+var mnemonic = "noble hill rotate double hero theme useless cave clutch dice broccoli calm";

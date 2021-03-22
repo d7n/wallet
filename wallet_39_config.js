@@ -1,1 +1,1 @@
-var mnemonic = "gather method noise hazard credit raise shoe normal skill twist number priority";
+var mnemonic = "half chuckle more push language wild impulse rare supreme spring topple palm";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis pair candy rhythm neutral impulse saddle fog able false vast trap";
+var mnemonic = "movie very palm clutch refuse enforce cash until shiver invest solution salon";

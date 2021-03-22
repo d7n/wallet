@@ -1,1 +1,1 @@
-var mnemonic = "radar dawn subway clump nut hole dirt motor law afford double dentist";
+var mnemonic = "blossom awful grow cheese lunar pony oak just run shell connect rigid";

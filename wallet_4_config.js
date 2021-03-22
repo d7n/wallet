@@ -1,1 +1,1 @@
-var mnemonic = "rare offer trouble hammer occur simple million museum disagree island glare cruise";
+var mnemonic = "name core radar tank tongue lyrics meadow fuel rail aerobic embody thrive";

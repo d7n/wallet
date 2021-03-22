@@ -1,1 +1,1 @@
-var mnemonic = "column mule always legal female kite observe movie current property walnut globe";
+var mnemonic = "happy donate lift melt found double record cannon twin just next public";

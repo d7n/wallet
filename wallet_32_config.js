@@ -1,1 +1,1 @@
-var mnemonic = "relief version gossip cute unlock light metal pelican drive make entire gesture";
+var mnemonic = "sketch wreck lobster essay also happy fortune taxi organ mean cricket coast";

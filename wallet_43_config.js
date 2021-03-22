@@ -1,1 +1,1 @@
-var mnemonic = "rate way occur episode picture process arm movie gorilla sight muffin occur";
+var mnemonic = "minimum gold need joy talk gather rate fossil high round armor marriage";

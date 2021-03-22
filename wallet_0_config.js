@@ -1,1 +1,1 @@
-var mnemonic = "monitor tattoo win hire measure wolf deer current naive tenant alarm toss";
+var mnemonic = "cheese pilot void stool sign noble vibrant dirt catalog episode gaze gun";

@@ -1,1 +1,1 @@
-var mnemonic = "wet athlete relax finish hair marriage problem truth veteran prosper better divert";
+var mnemonic = "master angry gaze other author film list trophy put pencil analyst galaxy";

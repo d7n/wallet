@@ -1,1 +1,1 @@
-var mnemonic = "credit alley group glue nothing sure jelly uniform emerge proud couple speak";
+var mnemonic = "sleep lizard lucky surround steel wrestle hotel name addict fit holiday swallow";

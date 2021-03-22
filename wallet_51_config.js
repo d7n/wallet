@@ -1,1 +1,1 @@
-var mnemonic = "dry deny much detect keep noise sausage lucky wing fat pact furnace";
+var mnemonic = "riot bench key uncover wing picnic people polar attack rely piano slab";

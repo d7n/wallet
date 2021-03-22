@@ -1,1 +1,1 @@
-var mnemonic = "tree segment security skirt start march keen desk crime tool dad right";
+var mnemonic = "ship exercise mask candy pave amount cause volume divert bonus improve helmet";

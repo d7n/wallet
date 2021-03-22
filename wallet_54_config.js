@@ -1,1 +1,1 @@
-var mnemonic = "monitor list youth void champion aerobic below adapt jaguar roast lady gallery";
+var mnemonic = "predict ankle kidney explain busy clump enter citizen melody team merit ghost";

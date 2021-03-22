@@ -1,1 +1,1 @@
-var mnemonic = "run method there between angle salad bracket real cave find icon forum";
+var mnemonic = "lizard road must arrange grid hood auto afraid order reunion essay shell";

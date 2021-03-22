@@ -1,1 +1,1 @@
-var mnemonic = "there cement note puzzle upgrade erosion seed settle jelly combine glue steel";
+var mnemonic = "engage shy whale win senior turn balcony share kiwi reunion arch window";

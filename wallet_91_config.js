@@ -1,1 +1,1 @@
-var mnemonic = "address town debris slight finger business age suspect decade payment swing tourist";
+var mnemonic = "suspect thunder enter either decade reduce cost immune expect consider reduce language";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose jungle void soldier ship canyon hunt fat female pet little ordinary";
+var mnemonic = "parent safe noise ring filter rebuild bless nature evil this plate lawn";

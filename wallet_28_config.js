@@ -1,1 +1,1 @@
-var mnemonic = "palm detect elegant category gravity wheel grocery suspect attitude reject interest jar";
+var mnemonic = "rural eager dilemma curve pink wire history used link fury estate phone";

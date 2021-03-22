@@ -1,1 +1,1 @@
-var mnemonic = "fog differ audit victory civil language ozone own garden cabbage suspect today";
+var mnemonic = "final true message fox health dash canoe possible tent arch swing south";

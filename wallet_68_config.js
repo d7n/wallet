@@ -1,1 +1,1 @@
-var mnemonic = "tongue shop trial amused river together slender shed shuffle interest sort limb";
+var mnemonic = "tackle pole life myself option town before tackle mad twice artist game";

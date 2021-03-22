@@ -1,1 +1,1 @@
-var mnemonic = "hair panic hundred enforce very pumpkin price between universe rent episode arrive";
+var mnemonic = "job blossom cute march local other history verb glass pride case caught";

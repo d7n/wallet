@@ -1,1 +1,1 @@
-var mnemonic = "mobile fluid then theory october silver donor cover critic horse flush latin";
+var mnemonic = "oblige treat ethics project insane captain vanish trouble army teach chimney long";

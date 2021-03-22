@@ -1,1 +1,1 @@
-var mnemonic = "comic olive inherit mammal they hero top inflict element cash asset river";
+var mnemonic = "carry metal cry quality clarify obey spike nest aerobic rule timber village";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture civil shield venue kangaroo great furnace witness observe unusual polar later";
+var mnemonic = "boring winner horn model liberty tattoo december castle tail token pet can";

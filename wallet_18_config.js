@@ -1,1 +1,1 @@
-var mnemonic = "soap glad innocent ride grunt kit punch gravity veteran once share always";
+var mnemonic = "fatal chalk excess pencil process hawk cushion evoke poem jealous rose youth";

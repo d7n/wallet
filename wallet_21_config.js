@@ -1,1 +1,1 @@
-var mnemonic = "defense size region similar guard already invest slow lucky half furnace pulp";
+var mnemonic = "very luggage angry arena happy minimum burst buzz meadow disease maple shy";

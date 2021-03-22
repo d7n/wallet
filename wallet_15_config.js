@@ -1,1 +1,1 @@
-var mnemonic = "search venture entry want plate immense endless funny jar ketchup used night";
+var mnemonic = "certain inform saddle comic produce fabric you suffer urge tag avoid text";

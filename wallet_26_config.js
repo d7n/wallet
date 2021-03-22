@@ -1,1 +1,1 @@
-var mnemonic = "legal brief unlock autumn average glow range mom credit pass space away";
+var mnemonic = "umbrella gain movie diesel ring clock image detect payment boss defense title";

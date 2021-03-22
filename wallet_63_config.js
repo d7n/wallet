@@ -1,1 +1,1 @@
-var mnemonic = "enroll hamster manage tiny photo view forward scorpion meadow provide stand melt";
+var mnemonic = "slice endorse symbol dance diamond order have uniform misery recycle help have";

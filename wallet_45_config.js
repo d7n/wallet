@@ -1,1 +1,1 @@
-var mnemonic = "hire panther tongue prison claim giggle merge magnet warrior day decrease pig";
+var mnemonic = "useless heavy repair oval auction double select reveal trophy panther huge enroll";

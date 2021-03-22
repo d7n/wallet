@@ -1,1 +1,1 @@
-var mnemonic = "sock eye slender behind jungle much cost key guard lobster holiday creek";
+var mnemonic = "cover nice banner about what tip announce real crater oval festival fold";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty spice uphold enrich merit dove glad bunker wild rocket coconut buyer";
+var mnemonic = "sea brave depth cancel summer garment cycle later general art shell patch";

@@ -1,1 +1,1 @@
-var mnemonic = "quote mean pencil ring anger boost imitate drastic duck protect sense sight";
+var mnemonic = "nose normal swing scheme palace sure reflect copy smart iron predict surround";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo average slide boil proof faith weasel issue elder verb kite barrel";
+var mnemonic = "alley game palace any kitten cook gown duck shock reason address fiction";

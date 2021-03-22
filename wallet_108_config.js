@@ -1,1 +1,1 @@
-var mnemonic = "slide distance harbor luxury flag trip track crane rose aunt vanish dawn";
+var mnemonic = "kiwi virtual pause practice language round fringe vivid unlock room profit during";

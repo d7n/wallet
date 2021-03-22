@@ -1,1 +1,1 @@
-var mnemonic = "animal dinosaur half stamp subway forward broom message fantasy family wear milk";
+var mnemonic = "brown rib other wood again glance muffin shell lounge better tiger riot";

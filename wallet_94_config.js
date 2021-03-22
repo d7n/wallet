@@ -1,1 +1,1 @@
-var mnemonic = "staff valve breeze picture protect goddess donor explain result access spoil garden";
+var mnemonic = "entire city cigar sword elder ostrich hotel eager found catalog error sail";

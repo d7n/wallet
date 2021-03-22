@@ -1,1 +1,1 @@
-var mnemonic = "vocal license hospital mercy sight quarter cloud elegant aspect grain error keep";
+var mnemonic = "media super name bachelor illegal satoshi couch genre fuel vacuum thank rookie";

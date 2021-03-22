@@ -1,1 +1,1 @@
-var mnemonic = "despair shock ball turn stamp embark green shock mesh symptom glory brief";
+var mnemonic = "stay buddy spider leaf caution minute forum wrong apple relax submit mind";
