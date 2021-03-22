@@ -1,1 +1,1 @@
-var mnemonic = "public recycle flag dutch embark feel word chat raise maze fringe deliver";
+var mnemonic = "reward boss intact pill mandate engage foster skirt number young night replace";

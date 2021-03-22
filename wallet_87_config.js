@@ -1,1 +1,1 @@
-var mnemonic = "letter begin picture liberty meadow romance coast sadness employ immune head leave";
+var mnemonic = "crazy invest hamster tongue honey spring spend side derive zoo time later";

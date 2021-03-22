@@ -1,1 +1,1 @@
-var mnemonic = "tunnel later output museum sorry badge ethics similar forward snake what loan";
+var mnemonic = "hope nose erosion math must awful oak anger merge quit swear process";

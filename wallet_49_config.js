@@ -1,1 +1,1 @@
-var mnemonic = "trumpet spot portion shallow link regular hockey icon hood margin embark rich";
+var mnemonic = "envelope mesh float deer witness select business north security index steak path";

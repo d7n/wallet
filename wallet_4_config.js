@@ -1,1 +1,1 @@
-var mnemonic = "have combine harbor arrow ghost wage sting future risk draw frozen worry";
+var mnemonic = "bring walk hammer inside like radar sort gift convince say artist exhibit";

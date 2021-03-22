@@ -1,1 +1,1 @@
-var mnemonic = "frost penalty add donor connect receive rule screen dash people because rebel";
+var mnemonic = "velvet zoo explain sunset dance airport winter goat mom ten lumber bicycle";

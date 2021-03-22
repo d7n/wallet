@@ -1,1 +1,1 @@
-var mnemonic = "achieve focus pair athlete fade day wide split spare spring gasp cement";
+var mnemonic = "plastic office common bitter village runway useful tortoise nurse release unaware false";

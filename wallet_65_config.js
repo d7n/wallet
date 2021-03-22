@@ -1,1 +1,1 @@
-var mnemonic = "hawk initial cat drive fat slab rude topple dynamic sample quantum shiver";
+var mnemonic = "oppose sad industry twin kitten jelly green secret team ten friend any";

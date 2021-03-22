@@ -1,1 +1,1 @@
-var mnemonic = "result glimpse grain issue name enough twist execute figure taxi service avoid";
+var mnemonic = "labor jar subject gadget skull forward attitude food better sound fatal nasty";

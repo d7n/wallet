@@ -1,1 +1,1 @@
-var mnemonic = "anxiety agent satisfy dice finger slam again various nose broken skin ramp";
+var mnemonic = "way outer owner direct release gossip fault rug mom engine clay monitor";

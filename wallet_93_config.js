@@ -1,1 +1,1 @@
-var mnemonic = "ostrich consider day avoid session rubber side moment dry rhythm antique piano";
+var mnemonic = "service cute hire divide relief interest bless observe monitor convince busy there";

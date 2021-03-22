@@ -1,1 +1,1 @@
-var mnemonic = "aunt ivory spend valley crew kitchen shove video riot marble deer mix";
+var mnemonic = "grab neutral proud box salad page plastic dose wealth jewel avoid lamp";

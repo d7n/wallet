@@ -1,1 +1,1 @@
-var mnemonic = "sight upgrade finish busy kit fault circle frame jaguar miss stick nephew";
+var mnemonic = "equal globe yard venue six strike coach quit aspect faint estate lunar";

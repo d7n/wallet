@@ -1,1 +1,1 @@
-var mnemonic = "about run recipe call comfort basic concert volcano open point pledge profit";
+var mnemonic = "will scout palm reduce great relief silk note work garment social can";

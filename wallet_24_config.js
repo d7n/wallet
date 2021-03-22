@@ -1,1 +1,1 @@
-var mnemonic = "slogan you screen refuse fit metal naive flame bike tonight rival supply";
+var mnemonic = "volume destroy utility call decrease breeze raw gentle ride harvest just cradle";

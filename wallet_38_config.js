@@ -1,1 +1,1 @@
-var mnemonic = "alcohol design book lake display pond slide stove casino depend kiwi reject";
+var mnemonic = "stumble nice napkin journey cage property volcano close sister ability insect evidence";

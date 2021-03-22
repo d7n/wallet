@@ -1,1 +1,1 @@
-var mnemonic = "mystery volcano foster video result clever trouble brave cliff accident source zebra";
+var mnemonic = "pencil raise pattern turn auction slide barrel toast blur outside round truly";

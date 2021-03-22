@@ -1,1 +1,1 @@
-var mnemonic = "casino stamp edge rural flower ripple fashion wheel globe strike park pulse";
+var mnemonic = "street base receive glory lend father replace file ticket bid spring neither";

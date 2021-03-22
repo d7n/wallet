@@ -1,1 +1,1 @@
-var mnemonic = "proof vapor economy thrive drive waste glove angry monkey identify street settle";
+var mnemonic = "fork bag ahead license six vanish town fence birth raven pet upset";

@@ -1,1 +1,1 @@
-var mnemonic = "melt shaft token velvet jealous course exit ship ethics dish small balance";
+var mnemonic = "apart zero year close under erupt always machine penalty crumble much shield";

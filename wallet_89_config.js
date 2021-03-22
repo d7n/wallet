@@ -1,1 +1,1 @@
-var mnemonic = "beauty slide science rule ill purse setup govern critic fabric infant tube";
+var mnemonic = "remember extra abuse wood clip acid perfect spend atom charge shoot faith";

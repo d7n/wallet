@@ -1,1 +1,1 @@
-var mnemonic = "despair behind wool govern initial beach hand fringe grain govern honey fiction";
+var mnemonic = "exercise real lonely decide discover maximum else primary lake autumn wasp lift";

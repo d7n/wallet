@@ -1,1 +1,1 @@
-var mnemonic = "brown jungle vault lion gun legal puppy sphere reflect increase select able";
+var mnemonic = "head capital loan fine among hurry side oblige grow van pattern tank";

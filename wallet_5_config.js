@@ -1,1 +1,1 @@
-var mnemonic = "arrest alcohol install motor world room turn afford frozen either pond drop";
+var mnemonic = "admit joke erode post term file pulp quote crush diamond debris quantum";

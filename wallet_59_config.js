@@ -1,1 +1,1 @@
-var mnemonic = "toy marble price globe much basket cage sketch elevator catch logic deposit";
+var mnemonic = "finish staff primary journey analyst trim stay smile aspect harvest mad member";

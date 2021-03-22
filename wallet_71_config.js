@@ -1,1 +1,1 @@
-var mnemonic = "traffic worry lunar roof economy eyebrow rural call unusual fiscal mass mouse";
+var mnemonic = "come squeeze broken snap boring can act fluid garden struggle ring faint";

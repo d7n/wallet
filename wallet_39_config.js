@@ -1,1 +1,1 @@
-var mnemonic = "original february melody gasp gun provide mutual lemon green worth wool crash";
+var mnemonic = "action anchor control hat tool choice useful feel grant inmate equip all";

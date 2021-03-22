@@ -1,1 +1,1 @@
-var mnemonic = "someone amateur boost install vital broccoli genuine build chunk void tongue target";
+var mnemonic = "twice purpose cool small slim excuse jazz pride scorpion three volume aisle";

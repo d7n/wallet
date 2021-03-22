@@ -1,1 +1,1 @@
-var mnemonic = "viable myth holiday mouse sting flavor wet hope stone ski drastic drip";
+var mnemonic = "wonder sweet dust wood teach museum inject dismiss story amateur fancy essence";

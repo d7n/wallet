@@ -1,1 +1,1 @@
-var mnemonic = "gown frequent grant unfair news truth later table potato grass praise ketchup";
+var mnemonic = "debris sleep stereo traffic embark road attract police equip unlock myth buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "limit few chaos where neutral voice visual addict will film during lunar";
+var mnemonic = "crack melt section era eyebrow doll chair way hope minute license vibrant";

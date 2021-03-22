@@ -1,1 +1,1 @@
-var mnemonic = "daughter must baby brisk figure awkward emotion valve steel friend bike mix";
+var mnemonic = "frozen conduct creek steak stomach vehicle north rare neck tuna level figure";

@@ -1,1 +1,1 @@
-var mnemonic = "scale squeeze share prepare armor claim loan hockey thank logic tuition bamboo";
+var mnemonic = "wild today salmon inhale orbit leg order actual join income proof boss";

@@ -1,1 +1,1 @@
-var mnemonic = "month crime assault cheese cabbage tag engage before travel shell crazy stage";
+var mnemonic = "void pipe skirt cycle frequent wheel few veteran bike menu object west";

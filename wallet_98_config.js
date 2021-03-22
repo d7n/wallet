@@ -1,1 +1,1 @@
-var mnemonic = "robot rule file abstract project during monitor gun execute wedding sibling ritual";
+var mnemonic = "damage rapid thought scheme age august useful pottery lawn uniform match grunt";

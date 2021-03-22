@@ -1,1 +1,1 @@
-var mnemonic = "divorce argue state move sister left eagle puppy can yellow decrease basket";
+var mnemonic = "avoid bring error safe input canyon doctor session rug clay garlic session";

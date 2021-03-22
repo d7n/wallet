@@ -1,1 +1,1 @@
-var mnemonic = "among play disorder possible walnut today gasp boy clump child quit lazy";
+var mnemonic = "city fun say lab moral rookie chicken various trouble little leg require";

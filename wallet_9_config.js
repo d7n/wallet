@@ -1,1 +1,1 @@
-var mnemonic = "phone hold valley novel enemy depart twice mercy alter crazy cancel pull";
+var mnemonic = "problem day picture response lab soda nature gather force cup jelly describe";

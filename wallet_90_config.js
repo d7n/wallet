@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo dilemma title endless judge promote cement buffalo flat never rich expect";
+var mnemonic = "draft strategy lawn liar wash angry remove skill fabric physical copper art";

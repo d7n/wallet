@@ -1,1 +1,1 @@
-var mnemonic = "evolve day same private sort gym expose write person asthma animal capital";
+var mnemonic = "grunt spin defense indoor pitch tone there occur hint volume average nephew";

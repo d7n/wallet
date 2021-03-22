@@ -1,1 +1,1 @@
-var mnemonic = "flip tackle six picture sibling ignore shoot pupil tape play include entire";
+var mnemonic = "canoe party life rate adjust bargain wish goat birth abandon want sauce";

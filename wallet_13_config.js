@@ -1,1 +1,1 @@
-var mnemonic = "menu lobster grain grab number physical sudden shock avoid dove lemon segment";
+var mnemonic = "bullet enjoy spin combine wink fold knock window empty someone budget question";

@@ -1,1 +1,1 @@
-var mnemonic = "picture design hurdle unveil inflict park cotton help gap wolf minute main";
+var mnemonic = "grass husband cool family shadow thrive anchor various total pledge peanut nurse";

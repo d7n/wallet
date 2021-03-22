@@ -1,1 +1,1 @@
-var mnemonic = "crazy patient huge choose output they unhappy attitude midnight cage source shrimp";
+var mnemonic = "build two lake duty kiss level plate reform diet family flee picture";

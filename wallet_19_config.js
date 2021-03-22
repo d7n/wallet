@@ -1,1 +1,1 @@
-var mnemonic = "youth coast angle vehicle harbor cash garden gallery tennis situate child flavor";
+var mnemonic = "cycle already bonus cost lizard party notice exist limit feed spell foam";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon write pigeon unveil donkey wise foster husband strong have brisk weekend";
+var mnemonic = "film sun saddle allow expand despair interest boss later glass leader action";

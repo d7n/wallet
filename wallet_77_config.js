@@ -1,1 +1,1 @@
-var mnemonic = "purchase wrist crucial blue liberty prefer mule embark hour lecture deputy orphan";
+var mnemonic = "palace garage elder budget picnic gap express drum until scrap chalk current";

@@ -1,1 +1,1 @@
-var mnemonic = "demand october glass sing evil kitten month road strike recipe trial increase";
+var mnemonic = "olympic dress usage broken magnet topic expand divide length bulb include idea";

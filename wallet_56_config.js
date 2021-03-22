@@ -1,1 +1,1 @@
-var mnemonic = "bar cruel siege recycle distance aerobic laugh razor top busy unhappy retire";
+var mnemonic = "any title fresh disagree style dress void hidden describe thrive route meat";

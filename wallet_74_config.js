@@ -1,1 +1,1 @@
-var mnemonic = "join near come bid match unfair equal sound today beauty extra ladder";
+var mnemonic = "certain hedgehog soda lecture galaxy fashion peanut skirt blind total item skin";

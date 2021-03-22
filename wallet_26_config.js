@@ -1,1 +1,1 @@
-var mnemonic = "track dove casual kingdom spike gown three arrest mom monster broken shy";
+var mnemonic = "tape endless vivid item auction glove knee blouse noise token eye second";

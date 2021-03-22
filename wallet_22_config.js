@@ -1,1 +1,1 @@
-var mnemonic = "evoke program daughter trial plug salute surge diagram tumble wrist phone genre";
+var mnemonic = "shoe give foot broom piano front runway wish slogan earth cradle gaze";

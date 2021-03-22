@@ -1,1 +1,1 @@
-var mnemonic = "tone budget tag puzzle license iron valley elbow craft series island fox";
+var mnemonic = "better canyon village slogan wheat flash object impulse badge enrich ball business";

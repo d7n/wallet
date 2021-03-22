@@ -1,1 +1,1 @@
-var mnemonic = "keen undo cash keep civil giant worry moon once lucky riot equip";
+var mnemonic = "mirror dragon turtle myth term reflect crisp wheat still valid disagree baby";

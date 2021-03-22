@@ -1,1 +1,1 @@
-var mnemonic = "leisure royal bullet dawn best wear wish slow pull animal monkey burger";
+var mnemonic = "edit feed gauge tomato receive flush trim purse supply anchor canyon raw";

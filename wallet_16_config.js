@@ -1,1 +1,1 @@
-var mnemonic = "degree salad access october blind tiny arrest fruit crowd attract main curtain";
+var mnemonic = "trigger license town wear save brown lumber speed spatial crumble youth future";

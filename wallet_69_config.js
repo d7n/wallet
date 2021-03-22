@@ -1,1 +1,1 @@
-var mnemonic = "stem sing weird demand above electric quantum dose enable nut crash trick";
+var mnemonic = "curtain duty easy update fall danger reform expect marriage file member toe";

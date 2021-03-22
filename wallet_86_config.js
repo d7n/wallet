@@ -1,1 +1,1 @@
-var mnemonic = "lawn strong practice lucky region machine gospel length coil math innocent elephant";
+var mnemonic = "crawl velvet direct just issue moment flame shell cushion tube flip fork";

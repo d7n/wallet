@@ -1,1 +1,1 @@
-var mnemonic = "whale clown mom mechanic miss coral matter rather brief shoot region ugly";
+var mnemonic = "swarm seed judge sweet plastic lonely nest bleak seek desert question mean";

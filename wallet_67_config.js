@@ -1,1 +1,1 @@
-var mnemonic = "brick armor great design ship number speed source gown obey celery wool";
+var mnemonic = "wrong audit air pill neck math mistake frog common crater wheel clarify";

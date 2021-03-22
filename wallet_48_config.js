@@ -1,1 +1,1 @@
-var mnemonic = "mom general razor decide film hour elevator october explain little powder force";
+var mnemonic = "must mom rice wool adapt tuition pave mammal silly joke doctor moral";

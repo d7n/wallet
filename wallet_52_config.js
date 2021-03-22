@@ -1,1 +1,1 @@
-var mnemonic = "cushion other chase glass vote retreat waste life flat forest violin sausage";
+var mnemonic = "kid body pole person dwarf year genius ostrich social output hamster radar";

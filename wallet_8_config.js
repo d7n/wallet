@@ -1,1 +1,1 @@
-var mnemonic = "secret seek tennis syrup stem crack gentle wrist rain ethics genuine advice";
+var mnemonic = "torch cage keen vicious roof impact hill disorder because polar text open";

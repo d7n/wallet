@@ -1,1 +1,1 @@
-var mnemonic = "wrap ignore gown pitch frost inch satoshi ancient verify until decline join";
+var mnemonic = "chaos jelly shell cabbage pyramid code movie garment album wash strike act";

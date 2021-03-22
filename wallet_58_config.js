@@ -1,1 +1,1 @@
-var mnemonic = "music expire diamond stadium tip certain path wrist staff system empty cage";
+var mnemonic = "away echo spirit sunset claw stock dash post carry endorse rival follow";

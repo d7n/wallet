@@ -1,1 +1,1 @@
-var mnemonic = "poem margin perfect lecture trust endorse display honey cabbage sleep clever common";
+var mnemonic = "elbow riot sword text medal ripple coach valley injury eternal ocean quarter";

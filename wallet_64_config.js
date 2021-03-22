@@ -1,1 +1,1 @@
-var mnemonic = "mechanic accuse unveil citizen demand donate ramp tone clutch lemon spray fluid";
+var mnemonic = "present hamster liberty twenty estate eye deliver shed luggage arrest oven cricket";

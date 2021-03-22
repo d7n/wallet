@@ -1,1 +1,1 @@
-var mnemonic = "panel brown blush gate mystery coral concert shift girl click fever apple";
+var mnemonic = "unique trick lava extend street try happy decide left mansion rich client";

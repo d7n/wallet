@@ -1,1 +1,1 @@
-var mnemonic = "shrimp guard method light duty link announce leader flock sight enhance title";
+var mnemonic = "call diary tunnel present book seven vendor sunset split coyote tomorrow mammal";

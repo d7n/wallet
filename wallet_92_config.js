@@ -1,1 +1,1 @@
-var mnemonic = "kick verb jeans ladder taxi airport carry sand vapor tortoise latin ordinary";
+var mnemonic = "glue merge sister fold sell monitor add all combine abuse multiply birth";

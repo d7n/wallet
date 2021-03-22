@@ -1,1 +1,1 @@
-var mnemonic = "gun impact spoil cannon benefit issue citizen worry chest nominee spider slogan";
+var mnemonic = "little shock element novel inflict sick quit embody bind able bitter impulse";

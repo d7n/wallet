@@ -1,1 +1,1 @@
-var mnemonic = "limb clerk flower reform pumpkin sense cinnamon festival tilt message nasty peace";
+var mnemonic = "audit slab brisk stuff clean place first insane erase balance spot brother";

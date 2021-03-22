@@ -1,1 +1,1 @@
-var mnemonic = "august task split fat twist total sugar oil number strategy twice club";
+var mnemonic = "current limit vapor destroy tip slender napkin vote give laugh fortune century";

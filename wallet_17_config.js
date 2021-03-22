@@ -1,1 +1,1 @@
-var mnemonic = "rain obscure learn large curve lake demand affair flight ready hockey over";
+var mnemonic = "salmon risk useful pattern street display ride belt media manual settle outdoor";

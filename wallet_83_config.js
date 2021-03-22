@@ -1,1 +1,1 @@
-var mnemonic = "shock island useless ticket fog kitchen novel witness fortune select renew open";
+var mnemonic = "obscure shiver catalog creek fabric amount drive broccoli scare achieve maze modify";

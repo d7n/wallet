@@ -1,1 +1,1 @@
-var mnemonic = "access stamp sort worry soon engage harsh nephew sign unlock hidden mass";
+var mnemonic = "clarify master potato dolphin you deputy vibrant very spoil extend quit strong";

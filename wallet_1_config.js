@@ -1,1 +1,1 @@
-var mnemonic = "drive belt oak discover brave surge crop include surge artist toward cross";
+var mnemonic = "rely move salad design water empower jelly kingdom tube wisdom edit error";

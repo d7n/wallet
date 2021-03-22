@@ -1,1 +1,1 @@
-var mnemonic = "case begin express crater bounce slab alien scan figure digital velvet frown";
+var mnemonic = "cage sausage odor bonus verb garage super smile mutual avoid urge frequent";

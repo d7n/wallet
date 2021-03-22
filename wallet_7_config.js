@@ -1,1 +1,1 @@
-var mnemonic = "purity lemon wisdom reopen private glance more verb torch crane siege lab";
+var mnemonic = "subway vast consider forget traffic drill grace wing crucial rescue torch dove";

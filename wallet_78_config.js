@@ -1,1 +1,1 @@
-var mnemonic = "scrub spike quantum bounce action swap year estate announce glad nerve foot";
+var mnemonic = "inner column end remove burger item style ketchup exile special public spot";

@@ -1,1 +1,1 @@
-var mnemonic = "hat forum design laugh cancel begin hurry faith fever aware hub uniform";
+var mnemonic = "saddle front nothing spin sail priority have speak garlic tuition traffic segment";

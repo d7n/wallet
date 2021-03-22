@@ -1,1 +1,1 @@
-var mnemonic = "potato nest royal enrich inner marble enrich trophy detail patient gallery animal";
+var mnemonic = "piano morning width limit share poet work quick ritual media absent evidence";

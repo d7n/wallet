@@ -1,1 +1,1 @@
-var mnemonic = "net radar stamp zero core crew seed boss impulse advance hotel conduct";
+var mnemonic = "hurt anxiety ribbon cover fancy suspect bread floor apology lucky monkey proud";

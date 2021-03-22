@@ -1,1 +1,1 @@
-var mnemonic = "ostrich ride blame carpet vital man believe inmate bleak thrive only anchor";
+var mnemonic = "sock kind follow gap phone purpose hour humble virtual carbon alone strategy";
