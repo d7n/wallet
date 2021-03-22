@@ -1,1 +1,1 @@
-var mnemonic = "dizzy nose tenant rhythm logic verb day muscle fatal night point egg";
+var mnemonic = "work fatal love engine crime damage view meadow flip drop rabbit lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "draft strategy lawn liar wash angry remove skill fabric physical copper art";
+var mnemonic = "entry genius speak same display donkey hedgehog embark case power toilet measure";

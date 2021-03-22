@@ -1,1 +1,1 @@
-var mnemonic = "crazy invest hamster tongue honey spring spend side derive zoo time later";
+var mnemonic = "skate dice shiver more upset random climb split flat about hat reopen";

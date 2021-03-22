@@ -1,1 +1,1 @@
-var mnemonic = "bone ankle laugh gesture segment nest there gain diet call fever uniform";
+var mnemonic = "dinosaur auto angle destroy purchase develop cloud situate brief ticket agent small";

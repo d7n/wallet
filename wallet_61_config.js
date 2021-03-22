@@ -1,1 +1,1 @@
-var mnemonic = "food way planet shiver force album almost harsh display evidence view fragile";
+var mnemonic = "enact napkin cute purchase radio decide scare project symbol essence galaxy sudden";

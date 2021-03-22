@@ -1,1 +1,1 @@
-var mnemonic = "piano morning width limit share poet work quick ritual media absent evidence";
+var mnemonic = "into chief together farm bundle fashion drip scissors broken horse turtle surge";

@@ -1,1 +1,1 @@
-var mnemonic = "divide trophy raise toilet brain glass device monkey noodle adjust resource stand";
+var mnemonic = "ceiling grow damage refuse afford dwarf brief forward method report squeeze feel";

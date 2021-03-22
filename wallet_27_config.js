@@ -1,1 +1,1 @@
-var mnemonic = "alien tuition produce input anger hurry million vapor file reason vehicle master";
+var mnemonic = "marine estate bench donor outer huge twist ugly goose street private battle";

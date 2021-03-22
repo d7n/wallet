@@ -1,1 +1,1 @@
-var mnemonic = "will scout palm reduce great relief silk note work garment social can";
+var mnemonic = "crucial cliff zebra left print door worth scissors dentist twelve marine chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "apart zero year close under erupt always machine penalty crumble much shield";
+var mnemonic = "brick sugar humor rotate useless seminar stick sudden aware ramp salt core";

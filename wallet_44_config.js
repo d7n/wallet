@@ -1,1 +1,1 @@
-var mnemonic = "chaos jelly shell cabbage pyramid code movie garment album wash strike act";
+var mnemonic = "talent reveal emotion choice canal history dignity poem cigar issue cover gallery";

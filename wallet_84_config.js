@@ -1,1 +1,1 @@
-var mnemonic = "build two lake duty kiss level plate reform diet family flee picture";
+var mnemonic = "forward oppose motion fork term enhance choose water illness aerobic clerk region";

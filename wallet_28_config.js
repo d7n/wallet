@@ -1,1 +1,1 @@
-var mnemonic = "grab neutral proud box salad page plastic dose wealth jewel avoid lamp";
+var mnemonic = "exotic recall caution harsh vessel soccer hill uphold act will end figure";

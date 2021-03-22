@@ -1,1 +1,1 @@
-var mnemonic = "current limit vapor destroy tip slender napkin vote give laugh fortune century";
+var mnemonic = "slide evoke thunder vital ramp cross month project quiz twist enroll shell";

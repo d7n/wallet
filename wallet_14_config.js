@@ -1,1 +1,1 @@
-var mnemonic = "clarify master potato dolphin you deputy vibrant very spoil extend quit strong";
+var mnemonic = "disagree elegant riot palace cake rhythm improve dolphin capital celery butter bar";

@@ -1,1 +1,1 @@
-var mnemonic = "kid body pole person dwarf year genius ostrich social output hamster radar";
+var mnemonic = "upgrade success state client tornado bottom pelican vintage luggage ribbon hedgehog ecology";

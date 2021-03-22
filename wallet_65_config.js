@@ -1,1 +1,1 @@
-var mnemonic = "oppose sad industry twin kitten jelly green secret team ten friend any";
+var mnemonic = "opera swamp gentle eight derive meat student ticket call pave copy wife";

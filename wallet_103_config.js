@@ -1,1 +1,1 @@
-var mnemonic = "equal globe yard venue six strike coach quit aspect faint estate lunar";
+var mnemonic = "fancy either guilt defense click alone creek claw fault define faith announce";

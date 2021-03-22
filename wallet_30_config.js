@@ -1,1 +1,1 @@
-var mnemonic = "leader spice silly puppy exchange city combine bind current prize water coyote";
+var mnemonic = "sad begin advance weather senior escape gather unable salad spoil yard club";

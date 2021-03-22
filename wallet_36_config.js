@@ -1,1 +1,1 @@
-var mnemonic = "uphold spread twelve produce imitate blossom globe infant flee shiver asset bullet";
+var mnemonic = "history corn distance code slam brand rack squirrel useful lunch illness border";

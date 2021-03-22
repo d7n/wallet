@@ -1,1 +1,1 @@
-var mnemonic = "little shock element novel inflict sick quit embody bind able bitter impulse";
+var mnemonic = "cotton negative leave can love mesh dismiss divert clutch diesel sting child";

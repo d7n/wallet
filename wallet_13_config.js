@@ -1,1 +1,1 @@
-var mnemonic = "bullet enjoy spin combine wink fold knock window empty someone budget question";
+var mnemonic = "grape tackle excite bargain north useful labor honey olive train north clever";

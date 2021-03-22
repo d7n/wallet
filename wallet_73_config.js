@@ -1,1 +1,1 @@
-var mnemonic = "limit slot brush joke flock marble joy size clog obvious vital weather";
+var mnemonic = "country wing noodle enroll imitate civil sustain school expect real noise travel";

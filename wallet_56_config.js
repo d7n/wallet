@@ -1,1 +1,1 @@
-var mnemonic = "any title fresh disagree style dress void hidden describe thrive route meat";
+var mnemonic = "best require fiber pupil enemy convince section siren write village evil shine";

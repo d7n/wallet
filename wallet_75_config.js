@@ -1,1 +1,1 @@
-var mnemonic = "exercise real lonely decide discover maximum else primary lake autumn wasp lift";
+var mnemonic = "member december lyrics plate industry boring curious device wolf blanket debris aisle";

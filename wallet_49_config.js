@@ -1,1 +1,1 @@
-var mnemonic = "envelope mesh float deer witness select business north security index steak path";
+var mnemonic = "appear uniform man express record teach bracket about work picnic solution spike";

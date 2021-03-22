@@ -1,1 +1,1 @@
-var mnemonic = "come squeeze broken snap boring can act fluid garden struggle ring faint";
+var mnemonic = "gaze joke box derive stool increase town furnace carry gym fortune palace";

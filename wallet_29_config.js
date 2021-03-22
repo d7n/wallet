@@ -1,1 +1,1 @@
-var mnemonic = "swarm seed judge sweet plastic lonely nest bleak seek desert question mean";
+var mnemonic = "control cat defy segment satoshi water exit crew behave either resemble example";

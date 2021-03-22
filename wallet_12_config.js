@@ -1,1 +1,1 @@
-var mnemonic = "grass husband cool family shadow thrive anchor various total pledge peanut nurse";
+var mnemonic = "turtle size cabbage radio violin giraffe rapid palace junior view annual erode";

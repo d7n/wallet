@@ -1,1 +1,1 @@
-var mnemonic = "hope nose erosion math must awful oak anger merge quit swear process";
+var mnemonic = "expose satisfy use salmon cactus differ lake mail income frame reopen foam";

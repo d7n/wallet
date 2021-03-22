@@ -1,1 +1,1 @@
-var mnemonic = "must mom rice wool adapt tuition pave mammal silly joke doctor moral";
+var mnemonic = "wolf cage worth banana bulb kingdom garage island globe sniff author edit";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil raise pattern turn auction slide barrel toast blur outside round truly";
+var mnemonic = "feed twin vicious twist cable bullet cram foster maple debris coach planet";

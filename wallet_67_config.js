@@ -1,1 +1,1 @@
-var mnemonic = "wrong audit air pill neck math mistake frog common crater wheel clarify";
+var mnemonic = "badge damage wheat wine wet miss genre glimpse used mystery female craft";

@@ -1,1 +1,1 @@
-var mnemonic = "page spring retire once speed volume distance name tackle enough space volcano";
+var mnemonic = "elder ski tilt drastic share today distance industry fix bonus video afford";

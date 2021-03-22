@@ -1,1 +1,1 @@
-var mnemonic = "hat power romance lens furnace yellow above cactus typical rural rough picture";
+var mnemonic = "eager sick spring tennis pizza mail top reflect giraffe monkey gaze pipe";

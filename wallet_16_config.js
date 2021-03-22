@@ -1,1 +1,1 @@
-var mnemonic = "trigger license town wear save brown lumber speed spatial crumble youth future";
+var mnemonic = "royal cream cliff amused close absent galaxy wagon govern couch slam cruise";

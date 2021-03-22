@@ -1,1 +1,1 @@
-var mnemonic = "glue merge sister fold sell monitor add all combine abuse multiply birth";
+var mnemonic = "orchard digital danger crater gadget cushion drift inquiry course wage slush ski";

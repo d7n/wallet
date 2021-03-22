@@ -1,1 +1,1 @@
-var mnemonic = "labor jar subject gadget skull forward attitude food better sound fatal nasty";
+var mnemonic = "label home bench dial example fancy angle shrug achieve level child top";

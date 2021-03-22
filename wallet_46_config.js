@@ -1,1 +1,1 @@
-var mnemonic = "venture shoot upgrade wreck magic undo silk erode bronze cry puppy segment";
+var mnemonic = "next exercise solar chunk year basic topple address damage attack rain taste";

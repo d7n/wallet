@@ -1,1 +1,1 @@
-var mnemonic = "rely move salad design water empower jelly kingdom tube wisdom edit error";
+var mnemonic = "toilet skull balcony buzz now chef genuine finger roast depart medal defy";

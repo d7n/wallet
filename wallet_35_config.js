@@ -1,1 +1,1 @@
-var mnemonic = "void pipe skirt cycle frequent wheel few veteran bike menu object west";
+var mnemonic = "lyrics deer science only climb must silver property useless round kiwi laundry";

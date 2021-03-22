@@ -1,1 +1,1 @@
-var mnemonic = "spoon robot hundred talent fold answer boil spike squeeze shock aisle cliff";
+var mnemonic = "monster possible cross often mention video scorpion sphere topple luggage cart tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic office common bitter village runway useful tortoise nurse release unaware false";
+var mnemonic = "airport jeans episode mystery cereal hint slab vacant speak reward cross glory";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe party life rate adjust bargain wish goat birth abandon want sauce";
+var mnemonic = "habit lab cliff morning horror hat gas bus pepper also captain pizza";

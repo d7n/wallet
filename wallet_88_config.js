@@ -1,1 +1,1 @@
-var mnemonic = "call diary tunnel present book seven vendor sunset split coyote tomorrow mammal";
+var mnemonic = "shove faculty real garlic dumb plunge final ten brush fashion cream canoe";

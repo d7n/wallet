@@ -1,1 +1,1 @@
-var mnemonic = "wonder sweet dust wood teach museum inject dismiss story amateur fancy essence";
+var mnemonic = "own quit render guard arrive cruel attitude illness ritual call satoshi couch";

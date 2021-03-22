@@ -1,1 +1,1 @@
-var mnemonic = "pigeon slam knee two stereo neck rescue design sugar now merit cram";
+var mnemonic = "vanish also resist hybrid apology undo wall roast virus cattle bright firm";

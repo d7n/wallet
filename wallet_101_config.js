@@ -1,1 +1,1 @@
-var mnemonic = "dolphin salt sheriff tuition trumpet tobacco diary amused liquid hungry virus marriage";
+var mnemonic = "mistake jacket shed chat crumble hero rookie sphere picnic favorite noble weird";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen conduct creek steak stomach vehicle north rare neck tuna level figure";
+var mnemonic = "mandate weather arrive clean farm input hen evoke talent flight school custom";

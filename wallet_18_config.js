@@ -1,1 +1,1 @@
-var mnemonic = "crack melt section era eyebrow doll chair way hope minute license vibrant";
+var mnemonic = "spell vital fix usage corn candy balance bulb control clever network slight";

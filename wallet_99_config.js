@@ -1,1 +1,1 @@
-var mnemonic = "sock kind follow gap phone purpose hour humble virtual carbon alone strategy";
+var mnemonic = "tribe tattoo awesome write false sport oak again citizen wedding surround paper";

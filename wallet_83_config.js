@@ -1,1 +1,1 @@
-var mnemonic = "obscure shiver catalog creek fabric amount drive broccoli scare achieve maze modify";
+var mnemonic = "marriage nasty lonely never segment isolate blur either excite nasty tuition swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "present hamster liberty twenty estate eye deliver shed luggage arrest oven cricket";
+var mnemonic = "office bread print future victory motion garbage laundry maximum dad flash spoon";

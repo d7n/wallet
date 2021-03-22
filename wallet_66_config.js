@@ -1,1 +1,1 @@
-var mnemonic = "edit feed gauge tomato receive flush trim purse supply anchor canyon raw";
+var mnemonic = "silk latin brief bless pledge finish aware motion write ramp clog sell";

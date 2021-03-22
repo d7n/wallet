@@ -1,1 +1,1 @@
-var mnemonic = "palace garage elder budget picnic gap express drum until scrap chalk current";
+var mnemonic = "snow clog whale fortune quiz feel knee earth brisk bid bleak hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "finish staff primary journey analyst trim stay smile aspect harvest mad member";
+var mnemonic = "issue tunnel leader sense two black sort mesh next chalk chair eager";

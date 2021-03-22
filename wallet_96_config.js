@@ -1,1 +1,1 @@
-var mnemonic = "act syrup apple tooth paper demand scare achieve addict hurt possible burger";
+var mnemonic = "again love knee rural claw blind focus fatal powder trust dumb industry";

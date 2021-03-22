@@ -1,1 +1,1 @@
-var mnemonic = "saddle front nothing spin sail priority have speak garlic tuition traffic segment";
+var mnemonic = "insect arctic urge divert term patient grace shine judge near oil inner";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker demand design cabin correct pupil swamp claim runway pipe credit swim";
+var mnemonic = "ball lyrics father blouse member term genre melody trigger evoke banana nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "volume destroy utility call decrease breeze raw gentle ride harvest just cradle";
+var mnemonic = "sign yellow add rough ice allow fit pupil entry little unusual era";

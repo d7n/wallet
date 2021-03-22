@@ -1,1 +1,1 @@
-var mnemonic = "admit joke erode post term file pulp quote crush diamond debris quantum";
+var mnemonic = "peasant begin demise window best brief recycle because kitten essay what duck";

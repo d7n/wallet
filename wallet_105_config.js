@@ -1,1 +1,1 @@
-var mnemonic = "audit slab brisk stuff clean place first insane erase balance spot brother";
+var mnemonic = "spider rhythm crater slow illness slam field then obey defy index old";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror dragon turtle myth term reflect crisp wheat still valid disagree baby";
+var mnemonic = "acquire moon canyon spy assault police stadium disease robust dynamic prosper sword";

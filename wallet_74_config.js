@@ -1,1 +1,1 @@
-var mnemonic = "certain hedgehog soda lecture galaxy fashion peanut skirt blind total item skin";
+var mnemonic = "category inquiry weekend cousin wheat unveil heart gadget ripple hockey stereo owner";

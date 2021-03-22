@@ -1,1 +1,1 @@
-var mnemonic = "service cute hire divide relief interest bless observe monitor convince busy there";
+var mnemonic = "album tank tobacco casino auto tunnel huge clinic travel spatial about execute";

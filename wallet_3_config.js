@@ -1,1 +1,1 @@
-var mnemonic = "elbow riot sword text medal ripple coach valley injury eternal ocean quarter";
+var mnemonic = "boy traffic panther forward thing grab air clever creek rapid cousin slight";

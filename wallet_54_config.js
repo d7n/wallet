@@ -1,1 +1,1 @@
-var mnemonic = "avoid bring error safe input canyon doctor session rug clay garlic session";
+var mnemonic = "diet leaf tiger struggle assist hollow globe bus mistake ability knock ostrich";

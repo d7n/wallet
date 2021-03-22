@@ -1,1 +1,1 @@
-var mnemonic = "property seed caught use clog turkey spatial urge prize deputy market capable";
+var mnemonic = "program click snake use own jealous maid uniform flash virtual myth canyon";

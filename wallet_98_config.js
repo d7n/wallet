@@ -1,1 +1,1 @@
-var mnemonic = "damage rapid thought scheme age august useful pottery lawn uniform match grunt";
+var mnemonic = "network curtain voice ahead meadow surge august electric sausage demise appear stay";

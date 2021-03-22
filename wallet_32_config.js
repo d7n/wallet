@@ -1,1 +1,1 @@
-var mnemonic = "head capital loan fine among hurry side oblige grow van pattern tank";
+var mnemonic = "mix door filter again glove secret try trumpet hollow shy poverty music";

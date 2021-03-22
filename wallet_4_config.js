@@ -1,1 +1,1 @@
-var mnemonic = "bring walk hammer inside like radar sort gift convince say artist exhibit";
+var mnemonic = "canyon slice deputy page fabric upper vault notable when can series figure";

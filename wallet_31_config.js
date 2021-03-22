@@ -1,1 +1,1 @@
-var mnemonic = "way outer owner direct release gossip fault rug mom engine clay monitor";
+var mnemonic = "simple antique media melody space another guess estate club banana flee reward";

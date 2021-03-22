@@ -1,1 +1,1 @@
-var mnemonic = "away echo spirit sunset claw stock dash post carry endorse rival follow";
+var mnemonic = "leave electric rice limit power resource best run coyote sail enter erode";

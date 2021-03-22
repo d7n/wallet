@@ -1,1 +1,1 @@
-var mnemonic = "better canyon village slogan wheat flash object impulse badge enrich ball business";
+var mnemonic = "imitate horse reduce door laugh blanket type either shoot tone business crush";

@@ -1,1 +1,1 @@
-var mnemonic = "action anchor control hat tool choice useful feel grant inmate equip all";
+var mnemonic = "over write move position panther you mixture nuclear weapon pony cannon what";

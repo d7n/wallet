@@ -1,1 +1,1 @@
-var mnemonic = "salmon risk useful pattern street display ride belt media manual settle outdoor";
+var mnemonic = "rifle check winter unfold annual notable subway solar purse gain toast fetch";

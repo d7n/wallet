@@ -1,1 +1,1 @@
-var mnemonic = "hurt anxiety ribbon cover fancy suspect bread floor apology lucky monkey proud";
+var mnemonic = "ranch claw grass poverty token height mixed submit flush game network olive";

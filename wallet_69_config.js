@@ -1,1 +1,1 @@
-var mnemonic = "curtain duty easy update fall danger reform expect marriage file member toe";
+var mnemonic = "illegal cereal library peasant eternal juice kingdom coyote kitten lake volcano damage";

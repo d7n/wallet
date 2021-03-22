@@ -1,1 +1,1 @@
-var mnemonic = "system present bounce gallery age matrix remove small penalty job blush found";
+var mnemonic = "ahead because pistol own match rack ridge coin charge fluid thing century";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic dress usage broken magnet topic expand divide length bulb include idea";
+var mnemonic = "convince witness deputy door box suffer lake seat hint later electric umbrella";

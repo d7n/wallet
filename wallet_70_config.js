@@ -1,1 +1,1 @@
-var mnemonic = "reward boss intact pill mandate engage foster skirt number young night replace";
+var mnemonic = "setup slight clay reason hire toddler slam fork club camp absurd pony";

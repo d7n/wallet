@@ -1,1 +1,1 @@
-var mnemonic = "client faith clerk work main pattern collect depart raw flash luxury leisure";
+var mnemonic = "detect visual office announce olive furnace bomb salon phone gym roof spice";

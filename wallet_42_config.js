@@ -1,1 +1,1 @@
-var mnemonic = "street base receive glory lend father replace file ticket bid spring neither";
+var mnemonic = "material neglect print brisk expand coffee visa give scare task slot fantasy";

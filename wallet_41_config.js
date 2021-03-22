@@ -1,1 +1,1 @@
-var mnemonic = "quarter pride okay wild future pledge snow toddler globe visual devote require";
+var mnemonic = "mobile gasp present rare wet indicate jazz thrive milk shine toe captain";

@@ -1,1 +1,1 @@
-var mnemonic = "film sun saddle allow expand despair interest boss later glass leader action";
+var mnemonic = "scout region scrub novel gown moment fly defy refuse muffin fun side";

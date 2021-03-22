@@ -1,1 +1,1 @@
-var mnemonic = "torch cage keen vicious roof impact hill disorder because polar text open";
+var mnemonic = "diary knife believe arch breeze sudden ancient deputy fence bracket fruit sorry";

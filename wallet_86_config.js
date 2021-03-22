@@ -1,1 +1,1 @@
-var mnemonic = "crawl velvet direct just issue moment flame shell cushion tube flip fork";
+var mnemonic = "recycle cement regret aspect tooth latin deal ahead various base essence dose";

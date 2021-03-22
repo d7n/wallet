@@ -1,1 +1,1 @@
-var mnemonic = "equal chat view current become clutch resource sleep index hotel square junior";
+var mnemonic = "accident nerve language chaos phrase found icon either opinion lesson deer card";
