@@ -1,1 +1,1 @@
-var mnemonic = "urban fuel frame winner wild matter vanish fan away two learn multiply";
+var mnemonic = "stone embody twist napkin unaware knife expect admit right unable celery daring";

@@ -1,1 +1,1 @@
-var mnemonic = "climb mango tomorrow edit logic faint suspect prefer clever ceiling injury capital";
+var mnemonic = "boss speed popular hundred agent program peanut envelope render duty mouse buffalo";

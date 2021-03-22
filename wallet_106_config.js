@@ -1,1 +1,1 @@
-var mnemonic = "armed desk busy bright hour state clap ride pass strong olympic sort";
+var mnemonic = "slim faint nice umbrella sting neutral pen praise foot video layer squeeze";

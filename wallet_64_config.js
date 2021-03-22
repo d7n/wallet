@@ -1,1 +1,1 @@
-var mnemonic = "true castle toward improve core team dinosaur type skin price security benefit";
+var mnemonic = "vacant clump nest gown beauty success arrive lens welcome smoke slush patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "drama car cherry phrase shield first pluck castle pizza speak unaware pizza";
+var mnemonic = "gap reunion fuel initial slush drum ritual farm grape portion lounge limb";

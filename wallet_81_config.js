@@ -1,1 +1,1 @@
-var mnemonic = "write defy coral bag village choose brown someone logic shallow damage truck";
+var mnemonic = "execute gun purity asset hub topic solution inflict wool deposit mad violin";

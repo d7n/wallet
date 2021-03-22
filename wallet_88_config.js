@@ -1,1 +1,1 @@
-var mnemonic = "tissue island vicious bitter tongue huge forward holiday model bird coach vibrant";
+var mnemonic = "smoke joy hidden impulse little subject world cruel only force exile busy";

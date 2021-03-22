@@ -1,1 +1,1 @@
-var mnemonic = "reduce oil violin loyal guard exchange replace choose rule adult disagree celery";
+var mnemonic = "olive foot peace bounce gun rival next pact member dad illness rhythm";

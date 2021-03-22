@@ -1,1 +1,1 @@
-var mnemonic = "frozen cause repeat carpet advance cloud crisp nurse quality zebra intact retire";
+var mnemonic = "congress drift radar later job argue boat sunset bargain swing rude enter";

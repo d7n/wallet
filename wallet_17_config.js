@@ -1,1 +1,1 @@
-var mnemonic = "page genius ozone wisdom mom enroll shove zoo ankle cave sausage outside";
+var mnemonic = "other junior viable gun maid captain analyst tragic humor prefer taxi stamp";

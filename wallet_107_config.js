@@ -1,1 +1,1 @@
-var mnemonic = "monkey truly liberty catch antenna unit blanket cake patrol cancel crucial ritual";
+var mnemonic = "daughter remember good knife connect state more become price column globe uphold";

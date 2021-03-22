@@ -1,1 +1,1 @@
-var mnemonic = "immune above affair brain text square oblige source fuel lucky scissors chief";
+var mnemonic = "festival such rotate monitor ritual coach liar example august dad unknown dumb";

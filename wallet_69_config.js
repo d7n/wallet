@@ -1,1 +1,1 @@
-var mnemonic = "current hamster what jump swing gloom skirt organ wheat one purse route";
+var mnemonic = "inquiry cabbage bomb evil great chuckle monkey drop copy spirit say object";

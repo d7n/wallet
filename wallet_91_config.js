@@ -1,1 +1,1 @@
-var mnemonic = "favorite differ zoo employ avocado various churn awesome umbrella advance spend clean";
+var mnemonic = "series add dog donkey castle lunar potato tiny gown dress west sock";

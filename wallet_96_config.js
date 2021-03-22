@@ -1,1 +1,1 @@
-var mnemonic = "someone describe behind stock bitter finger promote expose economy position blame extend";
+var mnemonic = "half thumb chicken vendor cradle lake solution regret agent salon renew theory";

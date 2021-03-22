@@ -1,1 +1,1 @@
-var mnemonic = "image heavy lizard weird mansion stairs entire drill myth into dust offer";
+var mnemonic = "art emerge hen horse trumpet fly scene stamp napkin arch level attract";

@@ -1,1 +1,1 @@
-var mnemonic = "wool jealous aunt inch toilet ocean erosion hire conduct figure vanish orphan";
+var mnemonic = "camp dove dose emotion ocean option doctor arm shoe fossil amateur jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "virus car glue hope forest month air survey target donkey amused shaft";
+var mnemonic = "comic matter rebel annual tone ketchup alarm glide boring picnic gate welcome";

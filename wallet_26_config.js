@@ -1,1 +1,1 @@
-var mnemonic = "section side inside robot want deputy denial jump course huge december increase";
+var mnemonic = "artefact worth rigid depart egg forum supply agent need pipe mouse thrive";

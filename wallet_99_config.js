@@ -1,1 +1,1 @@
-var mnemonic = "trend lyrics joke destroy that fly govern attract novel protect lawsuit buffalo";
+var mnemonic = "file toss tail spend marriage creek walnut pass close check wealth lounge";

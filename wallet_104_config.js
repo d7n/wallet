@@ -1,1 +1,1 @@
-var mnemonic = "antique age never oil betray tuna tooth jeans token cattle trophy more";
+var mnemonic = "board hat hour copper clip weekend bamboo energy labor release wagon ramp";

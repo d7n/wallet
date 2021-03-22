@@ -1,1 +1,1 @@
-var mnemonic = "table movie smile deer forum hill usual season begin crowd harvest brave";
+var mnemonic = "curve ability reason twenty cannon kingdom lift dragon goat erosion oil cheese";

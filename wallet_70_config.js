@@ -1,1 +1,1 @@
-var mnemonic = "ship rib hurdle poverty vacant concert leader coconut stuff one winner abuse";
+var mnemonic = "strike magnet club virtual year diamond emotion write glare goose way another";

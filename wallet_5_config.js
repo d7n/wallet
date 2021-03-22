@@ -1,1 +1,1 @@
-var mnemonic = "hurry potato hire decorate similar uniform beyond announce rib grow dismiss profit";
+var mnemonic = "dress live open amused view interest angry brain crop between load record";

@@ -1,1 +1,1 @@
-var mnemonic = "asset tree dice adult legend connect gossip kid wheat kid trap hollow";
+var mnemonic = "river brick give lonely silver energy make identify reform topic message typical";

@@ -1,1 +1,1 @@
-var mnemonic = "lake slush nice balcony ketchup caught guitar bonus kidney certain now patrol";
+var mnemonic = "rural toe oven vendor spare situate save caution impose upon rice hint";

@@ -1,1 +1,1 @@
-var mnemonic = "proof myth glimpse large march render walnut tobacco can riot hello water";
+var mnemonic = "casino network decorate lens song rabbit famous wise notice hello grocery prison";

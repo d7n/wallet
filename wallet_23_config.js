@@ -1,1 +1,1 @@
-var mnemonic = "orient enforce sun bind fly animal december south glimpse skill need dilemma";
+var mnemonic = "obtain festival hockey kind consider detail churn sadness lucky deposit bubble truly";

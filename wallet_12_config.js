@@ -1,1 +1,1 @@
-var mnemonic = "risk total drip vintage helmet outdoor account attitude pioneer boss muffin final";
+var mnemonic = "tired chef tape tourist solid priority couch turtle clump wasp can renew";

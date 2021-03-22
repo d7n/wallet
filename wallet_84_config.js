@@ -1,1 +1,1 @@
-var mnemonic = "push wide message wisdom garlic theory normal service shaft image where riot";
+var mnemonic = "shrug clay person analyst never festival proud march feel orient ginger wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "captain limit achieve industry equal broom lizard drive resemble nothing rookie cave";
+var mnemonic = "invite unknown unlock state giant angle crack leisure exclude waste slot file";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor series airport assist length alert deny sleep poverty armed effort marriage";
+var mnemonic = "gate scheme shrug tuition write genuine only ready drift safe source buzz";

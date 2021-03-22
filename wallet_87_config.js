@@ -1,1 +1,1 @@
-var mnemonic = "present orange dinosaur actor current close parrot similar prize virus model release";
+var mnemonic = "afford away rebel boss color sibling marble rhythm festival pipe neck install";

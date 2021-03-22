@@ -1,1 +1,1 @@
-var mnemonic = "arch miss lunch rigid time post wrist worry behind car retire exhaust";
+var mnemonic = "improve speed custom luggage car enemy ivory butter feed whisper hockey kick";

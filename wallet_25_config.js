@@ -1,1 +1,1 @@
-var mnemonic = "gasp old want edge worry subject next sauce home brother absurd pelican";
+var mnemonic = "start valid still bone soldier educate flavor arctic brick cupboard region maple";

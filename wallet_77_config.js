@@ -1,1 +1,1 @@
-var mnemonic = "echo reward burst when ostrich idea simple kick right paddle clap boil";
+var mnemonic = "arrest total ladder enforce remain scorpion metal width push jeans actress gain";

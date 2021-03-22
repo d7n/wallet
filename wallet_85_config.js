@@ -1,1 +1,1 @@
-var mnemonic = "myth tape trigger draft faculty phrase frequent need asthma inspire stay virtual";
+var mnemonic = "service bargain universe theory battle dream wrap clerk network general used rely";

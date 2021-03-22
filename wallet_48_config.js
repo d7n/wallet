@@ -1,1 +1,1 @@
-var mnemonic = "build shed suggest romance shine school flower pretty foam pool cake decline";
+var mnemonic = "window risk grid proud into juice museum infant census divide quote high";

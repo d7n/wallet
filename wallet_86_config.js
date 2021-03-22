@@ -1,1 +1,1 @@
-var mnemonic = "garage float govern loud tool special rebuild sugar host burden manage home";
+var mnemonic = "table gloom profit profit wagon across load multiply pact host tell hill";

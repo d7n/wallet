@@ -1,1 +1,1 @@
-var mnemonic = "blind control park common borrow fancy believe slim all absent session guilt";
+var mnemonic = "urban hero nerve life lunch mean pudding inmate scatter talent town position";

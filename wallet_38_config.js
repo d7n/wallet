@@ -1,1 +1,1 @@
-var mnemonic = "aim orchard athlete snake limb home clown habit gorilla example sing over";
+var mnemonic = "demise off rally drama lunar mule column hurdle drive share jazz object";

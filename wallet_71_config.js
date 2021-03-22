@@ -1,1 +1,1 @@
-var mnemonic = "torch thunder charge betray street nice alpha core letter change relief quantum";
+var mnemonic = "code pelican social library dilemma hammer marine speak nothing collect amused music";

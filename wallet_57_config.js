@@ -1,1 +1,1 @@
-var mnemonic = "punch pigeon finger ordinary author umbrella pitch nerve number walk rabbit hand";
+var mnemonic = "relief east click whisper burst hand atom bar solid verb yellow enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "flat rifle exile drum park tired winter warm truly sniff favorite credit";
+var mnemonic = "into grain rapid fortune soap time obey develop badge smile piece satoshi";

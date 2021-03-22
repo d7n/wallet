@@ -1,1 +1,1 @@
-var mnemonic = "mother fit keep art bench brisk genuine patient tool surprise need road";
+var mnemonic = "hope idle great tide provide kind orange affair ecology suspect field bulk";

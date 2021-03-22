@@ -1,1 +1,1 @@
-var mnemonic = "monkey device tortoise fun couch alert income wealth word neck rule name";
+var mnemonic = "august beef carry cherry decrease shaft input girl keen moment proud adjust";

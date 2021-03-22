@@ -1,1 +1,1 @@
-var mnemonic = "shell damp across client brown enter anxiety rookie ship people palm cement";
+var mnemonic = "ketchup dial assume much glow confirm fault pony boat claw globe rare";

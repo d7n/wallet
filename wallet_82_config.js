@@ -1,1 +1,1 @@
-var mnemonic = "slide fee ethics notable inside ask loan shiver say flower bullet twelve";
+var mnemonic = "extend burger river focus scatter plate name oppose often idle faith chunk";

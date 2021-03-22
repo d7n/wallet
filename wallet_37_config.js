@@ -1,1 +1,1 @@
-var mnemonic = "penalty coconut spot horn hunt young weasel develop people claw virtual very";
+var mnemonic = "jar dismiss industry scheme genuine oxygen fiction cry pipe absorb code select";

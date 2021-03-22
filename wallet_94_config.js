@@ -1,1 +1,1 @@
-var mnemonic = "rose hamster nest problem actress knife until era toe sudden vote involve";
+var mnemonic = "market online turn farm earn magic keep next miss fatigue core pattern";

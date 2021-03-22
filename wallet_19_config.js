@@ -1,1 +1,1 @@
-var mnemonic = "raw peace book suggest senior forum decide garage board extend distance use";
+var mnemonic = "clever when shoe waste mammal diamond artwork jazz cycle sniff drift box";

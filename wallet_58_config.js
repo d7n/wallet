@@ -1,1 +1,1 @@
-var mnemonic = "theme tenant step salmon nice reunion detail skate swim gossip ring century";
+var mnemonic = "moon mind wide rain practice general awesome grief cereal poverty response season";

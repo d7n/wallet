@@ -1,1 +1,1 @@
-var mnemonic = "lion leaf message cycle join argue rally always parent age crew era";
+var mnemonic = "rubber crouch forget lava buddy arrow wait kingdom mountain stairs east penalty";

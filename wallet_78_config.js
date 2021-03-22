@@ -1,1 +1,1 @@
-var mnemonic = "three fade royal enforce chair goat cigar mosquito witness eagle very latin";
+var mnemonic = "mistake march ring much horror angle tooth tree shield wrong fold ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "rude satisfy arrest that cannon leader album mutual envelope strategy regular ordinary";
+var mnemonic = "burger kick moral blanket seat eye buffalo review multiply wire dream ozone";

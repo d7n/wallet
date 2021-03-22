@@ -1,1 +1,1 @@
-var mnemonic = "awkward fiscal cross radio sphere inquiry laundry forward cause planet dust conduct";
+var mnemonic = "eye report bench appear build butter manage screen cup viable diet correct";

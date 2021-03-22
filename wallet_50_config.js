@@ -1,1 +1,1 @@
-var mnemonic = "false rubber family often setup order artefact mask balance smile ball elder";
+var mnemonic = "movie slide rocket shift meadow give biology pink master stomach dog unique";

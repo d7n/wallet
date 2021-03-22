@@ -1,1 +1,1 @@
-var mnemonic = "message humble quit shoe love axis victory fix frequent depth chat zone";
+var mnemonic = "fury concert waste noble snap wedding violin walk recipe divide cruel door";

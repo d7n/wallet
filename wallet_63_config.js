@@ -1,1 +1,1 @@
-var mnemonic = "rigid visual vapor motor afford identify post load sheriff minor sugar physical";
+var mnemonic = "funny run valley click other party skin forget relax room economy luggage";

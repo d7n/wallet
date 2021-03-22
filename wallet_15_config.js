@@ -1,1 +1,1 @@
-var mnemonic = "annual drip ancient future museum leaf nice flavor leg prevent garlic ridge";
+var mnemonic = "erase sure tornado post winner wall uphold grunt nuclear dynamic twelve clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope betray wool resist crumble retire ocean virtual index display history pulse";
+var mnemonic = "swear kitchen lyrics act route brief stool crisp carry puzzle vague habit";

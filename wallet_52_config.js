@@ -1,1 +1,1 @@
-var mnemonic = "ship flush mammal unveil perfect become foster vault few area cable library";
+var mnemonic = "nest same base right movie excuse apart company flush program various deliver";

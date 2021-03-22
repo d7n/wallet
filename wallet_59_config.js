@@ -1,1 +1,1 @@
-var mnemonic = "chest thank ignore stumble turkey awkward evolve describe barrel umbrella cry cave";
+var mnemonic = "word aunt foam cushion lend local employ cry double bachelor panda point";

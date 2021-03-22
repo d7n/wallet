@@ -1,1 +1,1 @@
-var mnemonic = "foil when defy can cliff strike pigeon object slow phone figure eager";
+var mnemonic = "regret body tide announce convince add glory taxi paper vanish scatter treat";

@@ -1,1 +1,1 @@
-var mnemonic = "solar inspire two mammal dismiss strategy drastic response lady merit code window";
+var mnemonic = "era raise voyage moral pupil scrub excite rent hire fluid salute tell";

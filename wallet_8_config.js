@@ -1,1 +1,1 @@
-var mnemonic = "what vapor public gift clap civil salad sudden notable remain term buzz";
+var mnemonic = "fitness unique response hundred tribe token various steak stem craft second attend";

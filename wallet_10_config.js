@@ -1,1 +1,1 @@
-var mnemonic = "bone bird humor wait omit tube cruise stool ill ten example depart";
+var mnemonic = "load catalog cave wire muscle fancy sing shrug shell bright umbrella enrich";

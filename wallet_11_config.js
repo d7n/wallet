@@ -1,1 +1,1 @@
-var mnemonic = "glimpse spare south baby spend door volume feed genuine feed survey sound";
+var mnemonic = "exile million peasant load cross lazy choice hover galaxy mammal chicken cheap";

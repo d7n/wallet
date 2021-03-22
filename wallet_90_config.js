@@ -1,1 +1,1 @@
-var mnemonic = "scale mobile sea wheel vessel sight trouble coach casual north recipe affair";
+var mnemonic = "stereo purse symptom find piece miss base pause unknown stage enlist claw";

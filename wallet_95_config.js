@@ -1,1 +1,1 @@
-var mnemonic = "depend opinion raccoon unknown category bundle desert clean myself refuse sense warm";
+var mnemonic = "nurse muscle enable child home visa almost visit middle flip range fiction";

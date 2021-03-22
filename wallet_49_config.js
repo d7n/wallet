@@ -1,1 +1,1 @@
-var mnemonic = "emotion shuffle warfare sail stool image wish engine immense dial accuse myself";
+var mnemonic = "curtain puzzle bachelor forum tired dinner interest adjust gadget figure item tower";

@@ -1,1 +1,1 @@
-var mnemonic = "crater view little pulp master enroll pigeon remind unusual whisper know steak";
+var mnemonic = "cancel head profit have retreat dad attract tired possible feel cat flight";

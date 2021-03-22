@@ -1,1 +1,1 @@
-var mnemonic = "critic wise eagle error stone half oblige hard claim blood panda champion";
+var mnemonic = "zone thing tomorrow stuff soon hub leave regret stumble lesson basket another";

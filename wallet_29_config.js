@@ -1,1 +1,1 @@
-var mnemonic = "little whip wheel thank ill render gown curious wage man brother run";
+var mnemonic = "also fluid you eight logic giant silent nice monitor rice cause churn";

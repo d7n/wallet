@@ -1,1 +1,1 @@
-var mnemonic = "report weapon disagree gadget resource also maid banner nut erase equal fork";
+var mnemonic = "tornado hurt client more room empty pizza depend broken wave thumb cage";

@@ -1,1 +1,1 @@
-var mnemonic = "fee manage essay hungry early oil enlist sustain goat blame liar early";
+var mnemonic = "illness kidney state celery alcohol bike amazing face vibrant salmon build innocent";

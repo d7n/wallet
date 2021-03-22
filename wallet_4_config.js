@@ -1,1 +1,1 @@
-var mnemonic = "vivid step jacket payment volume veteran other head cushion federal range develop";
+var mnemonic = "frozen bike gadget upper seminar donkey echo flame hotel custom oppose adjust";

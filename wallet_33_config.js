@@ -1,1 +1,1 @@
-var mnemonic = "chair frozen twist bike reflect meat woman hen alter access sick north";
+var mnemonic = "couch genius rookie deer observe couple egg involve tongue holiday evil appear";

@@ -1,1 +1,1 @@
-var mnemonic = "dress fever youth voice spatial want silent grant account crack grocery metal";
+var mnemonic = "vicious welcome school act charge pistol hurry alert oxygen paper unknown symptom";

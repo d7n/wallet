@@ -1,1 +1,1 @@
-var mnemonic = "timber elite custom belt feature spot middle where general return kit glove";
+var mnemonic = "ship shy educate liar kiwi wasp baby skin arctic version lucky remember";

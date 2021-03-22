@@ -1,1 +1,1 @@
-var mnemonic = "image very season version tell reveal fantasy initial immune cabbage found palm";
+var mnemonic = "leaf flower friend same inhale market arrow shoot whisper practice silent often";

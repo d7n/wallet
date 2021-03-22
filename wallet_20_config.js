@@ -1,1 +1,1 @@
-var mnemonic = "crime meat ribbon build report wheel method inch grace remain square salt";
+var mnemonic = "pretty paddle assume caution purse energy cream amateur million like setup hammer";

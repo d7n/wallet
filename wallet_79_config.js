@@ -1,1 +1,1 @@
-var mnemonic = "prevent vital witness wheel pencil swear hurdle fade royal accuse goddess ozone";
+var mnemonic = "label champion better analyst review ridge wedding gauge kit term street quick";

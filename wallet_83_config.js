@@ -1,1 +1,1 @@
-var mnemonic = "orbit mule hurry that answer power dilemma similar color rookie tomorrow leaf";
+var mnemonic = "flat abuse alone coin spoil table seat benefit slogan elder protect ecology";

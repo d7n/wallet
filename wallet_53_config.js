@@ -1,1 +1,1 @@
-var mnemonic = "crumble raven year walnut country caught caution lecture brush once fall merit";
+var mnemonic = "wreck region option few believe risk auto grace uphold proud student future";

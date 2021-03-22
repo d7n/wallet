@@ -1,1 +1,1 @@
-var mnemonic = "column bacon island girl entry foster modify jacket correct silk coral culture";
+var mnemonic = "upgrade veteran jewel divorce morning place assist glove heart tourist vacuum lonely";

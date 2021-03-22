@@ -1,1 +1,1 @@
-var mnemonic = "trick thought lift team ensure sadness goat churn advice wear juice slam";
+var mnemonic = "thrive violin flavor night humble develop panda clog cargo prevent sand drama";

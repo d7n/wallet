@@ -1,1 +1,1 @@
-var mnemonic = "rate fever table advice false animal walnut inmate surprise second correct farm";
+var mnemonic = "enlist tumble lion inquiry draw draft trouble shuffle own inject rose camp";

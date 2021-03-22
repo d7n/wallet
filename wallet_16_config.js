@@ -1,1 +1,1 @@
-var mnemonic = "april ridge slab nominee arrange develop flee trade couch surge middle urban";
+var mnemonic = "issue post excess benefit still say album twelve place enact during march";

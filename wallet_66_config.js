@@ -1,1 +1,1 @@
-var mnemonic = "empty swamp muffin north soon manual cliff cactus lion affair upgrade outdoor";
+var mnemonic = "castle enter stereo good leader release dust pyramid rebuild myself radar move";

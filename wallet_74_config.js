@@ -1,1 +1,1 @@
-var mnemonic = "tank head walk venture ladder absorb jelly party amazing color wave change";
+var mnemonic = "lizard brother aware avocado february obscure bean sudden harvest lunch need hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "drink wing pattern surge candy notable card butter slice rib original purchase";
+var mnemonic = "skate cruel hair that warrior limb style zone rural duck absorb clarify";

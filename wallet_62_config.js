@@ -1,1 +1,1 @@
-var mnemonic = "truck name mobile rescue throw invite race zebra nominee radio cruise health";
+var mnemonic = "among expect toe trophy border battle busy industry strike road defy blanket";

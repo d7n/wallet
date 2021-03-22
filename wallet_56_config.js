@@ -1,1 +1,1 @@
-var mnemonic = "exact master human canvas true ranch bus neither wedding prison concert drama";
+var mnemonic = "gain few depth undo cross raccoon dolphin waste market exclude trend lion";

@@ -1,1 +1,1 @@
-var mnemonic = "supply benefit awake sniff moon total dawn report paddle brush ski design";
+var mnemonic = "syrup print flip benefit achieve pact elbow hope waste head dry viable";
