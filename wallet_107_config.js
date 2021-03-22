@@ -1,1 +1,1 @@
-var mnemonic = "impose spell wire august once keen promote collect there index term multiply";
+var mnemonic = "grief ten hill kitten spawn region there puzzle bone drift hedgehog enroll";

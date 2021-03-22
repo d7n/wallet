@@ -1,1 +1,1 @@
-var mnemonic = "list hotel donkey bottom beef security eight certain bicycle process famous wise";
+var mnemonic = "ten decorate hollow sea rely fall question ozone onion parent despair attend";

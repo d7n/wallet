@@ -1,1 +1,1 @@
-var mnemonic = "salad margin fatal ask brick ice hidden banana exotic uniform input theme";
+var mnemonic = "daring dignity palm armed present profit quick ticket million industry stadium off";

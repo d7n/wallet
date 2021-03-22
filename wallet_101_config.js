@@ -1,1 +1,1 @@
-var mnemonic = "rather fork cushion devote worry wall issue genre start ask powder cactus";
+var mnemonic = "fluid welcome place quote race borrow wrist early city off attend route";

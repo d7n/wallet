@@ -1,1 +1,1 @@
-var mnemonic = "depart disorder actress disorder output hunt gesture palm security else lawsuit term";
+var mnemonic = "kingdom weird key energy drive two real sponsor shadow answer fix error";

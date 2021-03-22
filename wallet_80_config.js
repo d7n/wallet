@@ -1,1 +1,1 @@
-var mnemonic = "victory victory siege furnace sphere choose iron indicate crowd lion carpet pudding";
+var mnemonic = "retreat detail shoe exotic office marine holiday electric type when someone safe";

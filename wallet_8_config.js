@@ -1,1 +1,1 @@
-var mnemonic = "remove wear wet swing buzz glory diagram pilot conduct fresh name view";
+var mnemonic = "flavor huge remove gift erosion prison pistol dragon fury gorilla trial swim";

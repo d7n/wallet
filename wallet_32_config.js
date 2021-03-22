@@ -1,1 +1,1 @@
-var mnemonic = "charge recipe luggage favorite antenna street trial rabbit panda seminar easy busy";
+var mnemonic = "color office claw chapter glare explain trim pudding city six property jungle";

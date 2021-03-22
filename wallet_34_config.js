@@ -1,1 +1,1 @@
-var mnemonic = "vague priority math run warrior boil giant year advice bridge deal shove";
+var mnemonic = "bone people holiday garbage unveil learn heavy chimney spike shop dish suffer";

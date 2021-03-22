@@ -1,1 +1,1 @@
-var mnemonic = "wish before mule cricket polar sea appear toast era broken rubber noodle";
+var mnemonic = "work lucky coil joke neck hungry nature settle tiny alert door track";

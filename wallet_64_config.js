@@ -1,1 +1,1 @@
-var mnemonic = "hospital burden mango repeat load napkin name skate forward extra caution replace";
+var mnemonic = "grunt risk cost begin primary random usual pill question type desk misery";

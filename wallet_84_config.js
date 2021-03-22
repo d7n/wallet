@@ -1,1 +1,1 @@
-var mnemonic = "vault artwork main guess impulse laugh bench album avocado check quantum rubber";
+var mnemonic = "lion whip supply topple enable purity enough gold protect present act volume";

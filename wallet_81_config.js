@@ -1,1 +1,1 @@
-var mnemonic = "eagle trigger corn anchor scrub quote raise drive toast another gospel stove";
+var mnemonic = "clock cotton mango silver cute purity rifle letter payment certain rose tomato";

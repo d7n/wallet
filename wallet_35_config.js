@@ -1,1 +1,1 @@
-var mnemonic = "talent diet anxiety tuition waste fitness reveal forum loop funny casino call";
+var mnemonic = "dirt kick afraid photo ranch blast trap select much benefit screen rapid";

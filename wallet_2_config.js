@@ -1,1 +1,1 @@
-var mnemonic = "rebel abstract today absorb rough melt mail unable spare raven badge frame";
+var mnemonic = "there deer private expose tragic gas margin kind unfair kite soldier smart";

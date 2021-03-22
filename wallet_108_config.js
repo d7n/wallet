@@ -1,1 +1,1 @@
-var mnemonic = "energy push ostrich produce help drip cave affair ribbon joy only club";
+var mnemonic = "glance common lunar angle share romance dish speed version fetch regret also";

@@ -1,1 +1,1 @@
-var mnemonic = "dad lazy utility million swim imitate trust symptom float sausage myself bone";
+var mnemonic = "museum grocery ice circle street own ridge add coconut fitness october they";

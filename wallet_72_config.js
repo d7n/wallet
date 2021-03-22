@@ -1,1 +1,1 @@
-var mnemonic = "blossom skate wave junk moon attitude quote comfort high peanut fortune tube";
+var mnemonic = "play gravity awful gadget jump glow trend any pave harbor best evolve";

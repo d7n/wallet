@@ -1,1 +1,1 @@
-var mnemonic = "code rapid off arrow reject silk nurse drink risk dune rescue cinnamon";
+var mnemonic = "gloom bone brown develop panther resist fix brown slide main priority employ";

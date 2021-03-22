@@ -1,1 +1,1 @@
-var mnemonic = "just small help puzzle smart demand soccer quantum magic merry isolate turkey";
+var mnemonic = "pass sleep domain chief cave buzz define feature tiger parrot hero ramp";

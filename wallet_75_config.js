@@ -1,1 +1,1 @@
-var mnemonic = "rule good deputy boss oxygen shell visit action vocal wrestle unusual ladder";
+var mnemonic = "oblige worth inquiry lava river aware expire town keen upgrade expect palm";

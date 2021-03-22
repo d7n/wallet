@@ -1,1 +1,1 @@
-var mnemonic = "state intact shell fuel uncle steak guard sound use bird arena indoor";
+var mnemonic = "brass slogan retire undo panic sign retire traffic citizen tunnel when scrub";

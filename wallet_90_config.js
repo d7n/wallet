@@ -1,1 +1,1 @@
-var mnemonic = "liberty output fee debate magic angry when armor glue state path august";
+var mnemonic = "reopen equip swift winter exotic twice nasty route walk settle fold law";

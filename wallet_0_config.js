@@ -1,1 +1,1 @@
-var mnemonic = "field hero various spy faith twelve casino glow pet flat bubble pen";
+var mnemonic = "oppose supreme farm property valid crazy sun ladder urban know brand quick";

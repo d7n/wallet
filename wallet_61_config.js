@@ -1,1 +1,1 @@
-var mnemonic = "wild pupil truly crucial income outer memory you better park drama flip";
+var mnemonic = "edge castle impact slow horse blast urban blood velvet basic lava average";

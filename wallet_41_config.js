@@ -1,1 +1,1 @@
-var mnemonic = "noise feel funny inject remain regular blush crane foam balcony radar absorb";
+var mnemonic = "oyster prevent page transfer habit budget negative announce inside course like beef";

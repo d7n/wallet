@@ -1,1 +1,1 @@
-var mnemonic = "search much destroy drop spatial diary dinner weekend toe audit consider endless";
+var mnemonic = "student enlist goat enrich angle tag lyrics stereo hero rookie used bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "elite calm noble cannon indoor pet area denial strong time claw mosquito";
+var mnemonic = "where clean radar vote satoshi comfort congress any pony catalog olympic coyote";

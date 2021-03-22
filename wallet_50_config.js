@@ -1,1 +1,1 @@
-var mnemonic = "innocent main iron raise quality hour infant kidney assault wood trial admit";
+var mnemonic = "exchange yellow produce shallow mention rate gesture grace jazz glide open develop";

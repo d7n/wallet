@@ -1,1 +1,1 @@
-var mnemonic = "practice harvest cream ginger mechanic note dog obvious bid blanket glue garden";
+var mnemonic = "obscure evoke cause horse emotion attend spoon just shoe draw diet length";

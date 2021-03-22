@@ -1,1 +1,1 @@
-var mnemonic = "nerve affair engage benefit neutral stand left carpet evolve dolphin fold supply";
+var mnemonic = "occur announce lawn carry galaxy flee thing smart giant city piano trick";

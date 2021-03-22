@@ -1,1 +1,1 @@
-var mnemonic = "style menu mixture humor island green ceiling twenty focus drastic fence join";
+var mnemonic = "female save sign mobile suspect region submit code turtle stereo market friend";

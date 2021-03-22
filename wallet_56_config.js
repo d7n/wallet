@@ -1,1 +1,1 @@
-var mnemonic = "smooth proud tooth maple toward blue pretty what front climb autumn aerobic";
+var mnemonic = "blast below syrup city escape adjust seek feed broken poem tourist wave";

@@ -1,1 +1,1 @@
-var mnemonic = "snake menu hover olive dinosaur recycle home grief course sand found olympic";
+var mnemonic = "biology canoe narrow confirm cabin letter rule antique wrap sting giant grief";

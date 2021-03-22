@@ -1,1 +1,1 @@
-var mnemonic = "rail man better wrist actress define input naive tongue awesome person rough";
+var mnemonic = "problem guard design ketchup exhaust upset hard furnace tiger erase actual decorate";

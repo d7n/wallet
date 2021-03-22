@@ -1,1 +1,1 @@
-var mnemonic = "solar awesome joy begin salt country tiger quarter galaxy gasp vessel crime";
+var mnemonic = "arena turtle sing vault local warm rib gun love magic mango dash";

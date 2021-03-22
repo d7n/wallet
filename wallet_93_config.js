@@ -1,1 +1,1 @@
-var mnemonic = "boost rapid slogan vacant arrange practice grace lend blouse fitness average song";
+var mnemonic = "hard review maple already tomorrow artefact frequent gun fatigue jealous prepare wolf";

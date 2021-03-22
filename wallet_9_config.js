@@ -1,1 +1,1 @@
-var mnemonic = "modify couch range anxiety mail hammer day twelve turn double garden define";
+var mnemonic = "bird valley ivory slow later chaos impulse era approve napkin coach movie";

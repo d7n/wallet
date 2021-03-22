@@ -1,1 +1,1 @@
-var mnemonic = "mimic predict soda small local now swallow maple cheese industry stick climb";
+var mnemonic = "subway fantasy birth luxury holiday oven stay glory enhance inflict poem shy";

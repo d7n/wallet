@@ -1,1 +1,1 @@
-var mnemonic = "crater law crawl bid phrase reflect beach sock veteran endorse audit inflict";
+var mnemonic = "case section bargain peanut violin put auction scheme expand toy vintage labor";

@@ -1,1 +1,1 @@
-var mnemonic = "meat turkey link dune surge glove basket segment sustain winter guess hamster";
+var mnemonic = "doctor bracket fix into crouch educate weather hawk deliver mutual motor name";

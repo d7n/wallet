@@ -1,1 +1,1 @@
-var mnemonic = "conduct edge demise hunt blur model move legal spread rain viable success";
+var mnemonic = "shield gentle hedgehog damage bench apology prevent segment super margin peanut smooth";

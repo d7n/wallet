@@ -1,1 +1,1 @@
-var mnemonic = "worry also wasp wheel nation custom reason rescue spin thing hole broken";
+var mnemonic = "bind tortoise evil model allow scale hunt convince auto pattern finish analyst";

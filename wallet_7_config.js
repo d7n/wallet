@@ -1,1 +1,1 @@
-var mnemonic = "now light rely powder smile tortoise blue trim foam furnace december celery";
+var mnemonic = "rally rent tattoo soup lawn staff keen body valley insect hedgehog medal";

@@ -1,1 +1,1 @@
-var mnemonic = "series borrow gym day butter board maze ill coyote front famous machine";
+var mnemonic = "opinion apple panel valve priority panther sniff forest slight kitchen anxiety impulse";

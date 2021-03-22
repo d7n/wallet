@@ -1,1 +1,1 @@
-var mnemonic = "illness frequent consider neither spoil guide radar fitness expire mention theory cricket";
+var mnemonic = "index flee spy town tomorrow zebra guitar hint cabin bike whale lock";

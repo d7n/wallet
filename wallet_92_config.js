@@ -1,1 +1,1 @@
-var mnemonic = "bar city axis forest chimney hunt fork morning derive collect dinosaur produce";
+var mnemonic = "hero vast undo ginger shiver recall crush tornado music juice photo come";

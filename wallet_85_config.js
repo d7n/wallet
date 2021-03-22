@@ -1,1 +1,1 @@
-var mnemonic = "snow crunch drip viable clinic inner ship rib trial raise meadow amount";
+var mnemonic = "custom holiday inch average aerobic tool raven goose shiver dose early convince";

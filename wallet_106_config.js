@@ -1,1 +1,1 @@
-var mnemonic = "live chef sleep face unaware eyebrow nothing sting random weird squirrel south";
+var mnemonic = "border similar dirt globe melody carry mansion surface spring cash burst speed";

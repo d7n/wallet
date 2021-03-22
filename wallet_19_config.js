@@ -1,1 +1,1 @@
-var mnemonic = "clog silver panic switch donor must tuition wine jungle write faint october";
+var mnemonic = "tumble elegant ranch follow panther loyal visual fetch primary saddle action modify";

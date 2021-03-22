@@ -1,1 +1,1 @@
-var mnemonic = "version spread drive below cause tired harvest seed access dad drill hour";
+var mnemonic = "element bonus reason defy lift genius ship possible shell width you divert";

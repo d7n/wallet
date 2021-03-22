@@ -1,1 +1,1 @@
-var mnemonic = "fringe cake spread hybrid favorite glimpse notable junk crystal element grab toy";
+var mnemonic = "visit labor depart excite size manual bubble poverty job december mandate never";

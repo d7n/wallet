@@ -1,1 +1,1 @@
-var mnemonic = "depart muscle drastic dirt limb fire news refuse bunker unusual critic female";
+var mnemonic = "annual similar celery pool unhappy month forward opinion satisfy subject type place";

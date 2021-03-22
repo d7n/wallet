@@ -1,1 +1,1 @@
-var mnemonic = "sound throw share announce trial double mom cage rice puppy okay impact";
+var mnemonic = "obey call solid month hobby sword estate hurdle allow measure source final";

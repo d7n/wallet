@@ -1,1 +1,1 @@
-var mnemonic = "report peanut medal version myself prison turkey way vast drift boat knock";
+var mnemonic = "giraffe patch despair idea express faith fringe fee ugly tired host version";

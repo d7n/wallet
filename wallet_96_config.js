@@ -1,1 +1,1 @@
-var mnemonic = "village fatal canoe used whisper alien sample promote auction earn indicate saddle";
+var mnemonic = "various plunge trophy erase fame engage fox hungry hold speak chaos poet";

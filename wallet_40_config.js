@@ -1,1 +1,1 @@
-var mnemonic = "opera need wide basket reunion vital fuel water symbol nest mix silly";
+var mnemonic = "evil bachelor hawk dentist photo squirrel van museum box matrix penalty couple";

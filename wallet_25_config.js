@@ -1,1 +1,1 @@
-var mnemonic = "coil outside hire treat amazing know dawn blush upgrade miss depend offer";
+var mnemonic = "layer tortoise pause lonely uncover grain estate suffer key oval monkey lobster";

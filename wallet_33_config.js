@@ -1,1 +1,1 @@
-var mnemonic = "august quote knock near day giraffe birth forget cactus present olive tone";
+var mnemonic = "ensure animal maze sorry gravity suffer twice truth rural vendor chalk swear";

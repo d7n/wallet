@@ -1,1 +1,1 @@
-var mnemonic = "habit unveil blade fever topic moon bird sad shed unfold lazy hungry";
+var mnemonic = "phrase bulb state title fresh neglect apart embark ability buffalo source panel";

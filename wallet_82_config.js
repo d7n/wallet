@@ -1,1 +1,1 @@
-var mnemonic = "phone conduct element middle rigid climb sport ready hurry emerge park follow";
+var mnemonic = "forest friend spend inmate better pumpkin sheriff escape pipe vacant alien harsh";

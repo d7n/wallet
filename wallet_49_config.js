@@ -1,1 +1,1 @@
-var mnemonic = "inform crunch insane absorb antenna suit cook copper harbor call rain detail";
+var mnemonic = "supreme taxi mother spare minute february track rug silk miracle gesture banner";

@@ -1,1 +1,1 @@
-var mnemonic = "faint dwarf deer away bring reveal gorilla tank crowd peasant loud patient";
+var mnemonic = "sword motion bicycle say indicate genuine novel forest stool treat seek access";

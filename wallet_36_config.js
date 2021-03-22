@@ -1,1 +1,1 @@
-var mnemonic = "corn stumble mixture absorb settle need canvas sport initial fatigue defense dwarf";
+var mnemonic = "space shuffle stumble girl glance female ordinary universe enough lunch source gas";

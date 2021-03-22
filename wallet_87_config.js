@@ -1,1 +1,1 @@
-var mnemonic = "boil cactus melt check zero tree affair bag push father find rule";
+var mnemonic = "earth feed shoe galaxy first good panic rival pill math siren educate";

@@ -1,1 +1,1 @@
-var mnemonic = "tell armed over disorder wagon problem trash isolate favorite million tower wife";
+var mnemonic = "crystal clarify various ancient put rich explain ripple usual want sunny aim";

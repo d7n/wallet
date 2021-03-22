@@ -1,1 +1,1 @@
-var mnemonic = "blanket tunnel move trial open icon skull clutch finger funny cup breeze";
+var mnemonic = "beauty whisper clean bus help baby fruit shoulder portion blur roof embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "tray sustain endorse round fan feature river gorilla mercy agent dog reunion";
+var mnemonic = "mix increase junior patrol balance punch devote avoid era start orange umbrella";

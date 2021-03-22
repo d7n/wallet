@@ -1,1 +1,1 @@
-var mnemonic = "scrub become axis slush observe flat motor tourist tent onion gown enhance";
+var mnemonic = "border bike sadness sketch sort never umbrella term stereo sunset nothing tomorrow";

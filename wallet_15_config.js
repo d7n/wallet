@@ -1,1 +1,1 @@
-var mnemonic = "lift round peace render deer giant mixture wagon all flush dumb potato";
+var mnemonic = "strategy orchard lab address price general goddess they drop movie hole food";

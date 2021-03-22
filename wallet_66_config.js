@@ -1,1 +1,1 @@
-var mnemonic = "lamp order gym claim scene select wash rain index science screen globe";
+var mnemonic = "crash token upon lock traffic find wave purity flip capital method suit";

@@ -1,1 +1,1 @@
-var mnemonic = "budget rural text airport dynamic sort slot tilt wide deliver silent mutual";
+var mnemonic = "fancy token thought half ignore cloud detect arrive shrimp ripple skill conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune fancy alone truth lucky carpet seed panda close shoot almost unveil";
+var mnemonic = "boil session morning nature buddy spoil surge desk plastic win shield box";

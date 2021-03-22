@@ -1,1 +1,1 @@
-var mnemonic = "journey impact indicate crunch embody giant dial ahead relax sure cargo reform";
+var mnemonic = "purpose hotel amazing little velvet unveil reveal old kite news adult flat";

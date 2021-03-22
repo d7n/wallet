@@ -1,1 +1,1 @@
-var mnemonic = "mosquito swim fame dream record timber behave laptop air slush random fatal";
+var mnemonic = "spirit possible senior ability add flat sister alcohol aerobic walnut sauce demise";

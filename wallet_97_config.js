@@ -1,1 +1,1 @@
-var mnemonic = "chef enlist magic please bubble capital talk horn ritual announce blood problem";
+var mnemonic = "resemble narrow daring patient park major human walnut divorce among useless satisfy";

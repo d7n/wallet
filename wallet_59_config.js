@@ -1,1 +1,1 @@
-var mnemonic = "sugar again inner rocket swim slot desk glide auction midnight custom canvas";
+var mnemonic = "dust child viable main name tuition surge stadium barely remember blush crumble";

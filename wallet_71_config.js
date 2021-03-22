@@ -1,1 +1,1 @@
-var mnemonic = "script weather wolf lawn creek journey run during survey rigid season acquire";
+var mnemonic = "world lift spread prepare air doctor produce release retire glare sort section";

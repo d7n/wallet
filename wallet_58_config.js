@@ -1,1 +1,1 @@
-var mnemonic = "pill purity express crater artwork again mention special where escape turkey exist";
+var mnemonic = "unknown soft brass quote stage sudden enroll merry filter seed evoke whip";

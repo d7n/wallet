@@ -1,1 +1,1 @@
-var mnemonic = "trade area notice pole floor bicycle action volume shaft comfort shallow region";
+var mnemonic = "trouble damage decorate ethics critic faculty valve noise vault health mimic guitar";

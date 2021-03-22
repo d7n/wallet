@@ -1,1 +1,1 @@
-var mnemonic = "hard spoil hat marriage measure august timber dwarf elbow cheese kangaroo inject";
+var mnemonic = "nature six renew say damp piano tired lava connect private relief indoor";

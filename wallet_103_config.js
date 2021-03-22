@@ -1,1 +1,1 @@
-var mnemonic = "caution science title tank law increase reward illness inner ask shoot decorate";
+var mnemonic = "hotel fruit opinion allow van fortune own impulse bag host ask write";

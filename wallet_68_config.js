@@ -1,1 +1,1 @@
-var mnemonic = "crack install system coil stable wire decide diagram audit crystal cash decorate";
+var mnemonic = "vehicle voyage hole impose margin hero lesson forest parent panther express start";

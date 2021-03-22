@@ -1,1 +1,1 @@
-var mnemonic = "mechanic elevator alpha differ cactus bottom oblige capable unaware knife click alter";
+var mnemonic = "curve make october tennis color praise misery nerve giggle orphan prepare food";

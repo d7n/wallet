@@ -1,1 +1,1 @@
-var mnemonic = "found better eagle select suffer toy gravity risk stage print tourist word";
+var mnemonic = "sphere index march ghost urge genuine city glue amount december document monster";

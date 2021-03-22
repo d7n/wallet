@@ -1,1 +1,1 @@
-var mnemonic = "flash reform social sail good wheel banner float tide peace order glass";
+var mnemonic = "raw glass floor civil damp snake process sausage chair ready car deal";

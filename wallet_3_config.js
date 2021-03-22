@@ -1,1 +1,1 @@
-var mnemonic = "bullet stable benefit depart car helmet carpet fog ecology knock smoke song";
+var mnemonic = "matter biology into once clerk job polar veteran front vintage salad steel";

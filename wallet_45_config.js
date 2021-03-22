@@ -1,1 +1,1 @@
-var mnemonic = "half fresh quick horse merry agent please total enough sword unfold razor";
+var mnemonic = "hole describe family cushion kidney kiwi kit energy cloud traffic master skate";

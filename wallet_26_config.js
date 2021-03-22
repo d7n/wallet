@@ -1,1 +1,1 @@
-var mnemonic = "blanket harbor burger side roast host engine extra traffic virtual blade athlete";
+var mnemonic = "forum cat summer offer erode train assault interest shine monkey world expect";
