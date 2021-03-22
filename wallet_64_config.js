@@ -1,1 +1,1 @@
-var mnemonic = "boring winner horn model liberty tattoo december castle tail token pet can";
+var mnemonic = "butter couch still maze thank bronze flee kangaroo toy pattern stove also";

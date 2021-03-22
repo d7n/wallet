@@ -1,1 +1,1 @@
-var mnemonic = "force shed feel foster edge sure sample into awake put page flat";
+var mnemonic = "labor mirror body sketch fatal clutch shadow exact clump ribbon replace gesture";

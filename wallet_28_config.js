@@ -1,1 +1,1 @@
-var mnemonic = "rural eager dilemma curve pink wire history used link fury estate phone";
+var mnemonic = "dinosaur blush anchor journey dance sibling artist broccoli ankle crawl swing choose";

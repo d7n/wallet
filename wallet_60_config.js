@@ -1,1 +1,1 @@
-var mnemonic = "oppose distance flee very position liquid finger chronic nose spy narrow achieve";
+var mnemonic = "enforce bag virus bench thunder mention junk girl account siren move audit";

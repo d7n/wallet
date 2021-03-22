@@ -1,1 +1,1 @@
-var mnemonic = "sketch wreck lobster essay also happy fortune taxi organ mean cricket coast";
+var mnemonic = "copy plunge disorder leader else equal series obey buddy swim year stay";

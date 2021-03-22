@@ -1,1 +1,1 @@
-var mnemonic = "mango universe lemon prize wink type fantasy entry burden gas surface prepare";
+var mnemonic = "that mean surprise electric spirit ranch split patient false system patch sure";

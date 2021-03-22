@@ -1,1 +1,1 @@
-var mnemonic = "blossom awful grow cheese lunar pony oak just run shell connect rigid";
+var mnemonic = "panther alien mansion live rigid lumber hat fan gloom view explain high";

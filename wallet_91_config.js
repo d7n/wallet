@@ -1,1 +1,1 @@
-var mnemonic = "suspect thunder enter either decade reduce cost immune expect consider reduce language";
+var mnemonic = "safe cupboard aerobic property enhance truly hundred comic fashion seminar vast state";

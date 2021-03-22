@@ -1,1 +1,1 @@
-var mnemonic = "fall demand verb radio drama cousin salute logic myself grace together opera";
+var mnemonic = "joy library sister neutral crush client please cousin whisper boring art marble";

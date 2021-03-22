@@ -1,1 +1,1 @@
-var mnemonic = "parent safe noise ring filter rebuild bless nature evil this plate lawn";
+var mnemonic = "legal deposit merit resist series monitor much invite useless text topple gap";

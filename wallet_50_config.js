@@ -1,1 +1,1 @@
-var mnemonic = "tongue repair box island cash crouch bid load pelican boy choose remember";
+var mnemonic = "panic film caught exclude milk exercise slow please impulse remind rate doctor";

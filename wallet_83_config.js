@@ -1,1 +1,1 @@
-var mnemonic = "tenant expire pear goat income sister jeans jungle spy common wedding kingdom";
+var mnemonic = "feel urge awake garbage fruit art involve call limit pave topple advice";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano wolf test ordinary bleak fresh panic cross oven comfort patch settle";
+var mnemonic = "cinnamon artefact ripple razor boring noise scheme table thought hen leisure slide";

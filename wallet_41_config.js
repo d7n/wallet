@@ -1,1 +1,1 @@
-var mnemonic = "endorse input divide ugly again fabric trap concert vendor sing soda usual";
+var mnemonic = "slab snow father jelly until butter misery snake struggle frame ocean pencil";

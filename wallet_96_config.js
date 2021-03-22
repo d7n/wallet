@@ -1,1 +1,1 @@
-var mnemonic = "sense wise group winner decide have comic wide search mango salt food";
+var mnemonic = "position inside eager illness process glory cube usual head either wisdom supreme";

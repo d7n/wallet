@@ -1,1 +1,1 @@
-var mnemonic = "sleep lizard lucky surround steel wrestle hotel name addict fit holiday swallow";
+var mnemonic = "worry crack erase foam tattoo sort rebuild observe chase echo pilot turkey";

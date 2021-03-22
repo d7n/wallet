@@ -1,1 +1,1 @@
-var mnemonic = "crowd frozen differ cabin rent income motor parrot bicycle actress lamp blade";
+var mnemonic = "steak tuna start panic tilt begin warrior spike ribbon cook tomato junior";

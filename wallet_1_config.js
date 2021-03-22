@@ -1,1 +1,1 @@
-var mnemonic = "ugly clock choose vibrant carbon fee latin order lock right rigid model";
+var mnemonic = "farm fault raccoon figure glass topple relax intact leave time coyote obscure";

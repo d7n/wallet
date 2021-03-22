@@ -1,1 +1,1 @@
-var mnemonic = "mixed exact address clerk mango jazz blast crazy victory dose action nephew";
+var mnemonic = "stomach online enemy garlic era next turkey angry truth correct fog market";

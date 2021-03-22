@@ -1,1 +1,1 @@
-var mnemonic = "slice endorse symbol dance diamond order have uniform misery recycle help have";
+var mnemonic = "balance enlist car business salon erase foster patch history shield ceiling ranch";

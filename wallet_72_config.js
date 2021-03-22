@@ -1,1 +1,1 @@
-var mnemonic = "ordinary silly marriage replace outside skill win tip wing arrive monitor release";
+var mnemonic = "police sting predict load spread rely nation silver dumb easy ill valley";

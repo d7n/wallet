@@ -1,1 +1,1 @@
-var mnemonic = "media super name bachelor illegal satoshi couch genre fuel vacuum thank rookie";
+var mnemonic = "spawn dragon vanish gesture chair future analyst advance more cereal suffer please";

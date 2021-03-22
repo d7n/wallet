@@ -1,1 +1,1 @@
-var mnemonic = "unlock antique marriage divorce choice worth hub churn merge frozen tunnel antique";
+var mnemonic = "hamster settle border orbit remove into police survey aim hungry train teach";

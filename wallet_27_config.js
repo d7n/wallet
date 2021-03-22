@@ -1,1 +1,1 @@
-var mnemonic = "you trouble giraffe track noodle renew only chapter such volcano bronze swallow";
+var mnemonic = "blind amazing betray gadget trade permit still early envelope jungle bridge town";

@@ -1,1 +1,1 @@
-var mnemonic = "reject wheat lyrics exhaust social social please genius flame endless body document";
+var mnemonic = "column primary divide wrist people scrub lounge sheriff forum salmon wolf concert";

@@ -1,1 +1,1 @@
-var mnemonic = "sea brave depth cancel summer garment cycle later general art shell patch";
+var mnemonic = "lyrics session differ spawn museum pink cradle suffer practice live grab clump";

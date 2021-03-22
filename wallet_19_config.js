@@ -1,1 +1,1 @@
-var mnemonic = "mad play dinosaur slim tomorrow phrase antique dance exclude divide state palm";
+var mnemonic = "table funny short isolate wrist sell puppy term almost present amount furnace";

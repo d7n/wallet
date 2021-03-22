@@ -1,1 +1,1 @@
-var mnemonic = "master angry gaze other author film list trophy put pencil analyst galaxy";
+var mnemonic = "almost leisure upset bunker merit company maid unit fringe bacon catalog proof";

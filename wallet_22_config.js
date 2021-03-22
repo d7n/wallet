@@ -1,1 +1,1 @@
-var mnemonic = "oblige treat ethics project insane captain vanish trouble army teach chimney long";
+var mnemonic = "bid action arrest space street that title cable benefit advance update oil";

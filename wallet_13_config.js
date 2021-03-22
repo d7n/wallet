@@ -1,1 +1,1 @@
-var mnemonic = "matrix level adapt apology bottom easily scorpion diagram spend disagree depend language";
+var mnemonic = "blast leisure pear flock object stomach brain fox skin account exhibit carry";

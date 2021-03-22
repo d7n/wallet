@@ -1,1 +1,1 @@
-var mnemonic = "until air seat race humble chaos gentle material grid arrange action evidence";
+var mnemonic = "lounge shallow girl robot power popular much sword clarify galaxy office flame";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol art fox vivid flip jaguar ostrich flock anxiety artwork mirror media";
+var mnemonic = "provide camera share paper bean yard pride radio month warfare drift another";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella gain movie diesel ring clock image detect payment boss defense title";
+var mnemonic = "point tag mountain over obvious differ genuine few toward gather venture wreck";

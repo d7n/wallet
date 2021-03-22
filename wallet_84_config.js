@@ -1,1 +1,1 @@
-var mnemonic = "stuff assault volcano stove way very tattoo victory industry express struggle mimic";
+var mnemonic = "copy salmon autumn purpose rent miss trash magnet piece unaware hello theme";

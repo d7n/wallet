@@ -1,1 +1,1 @@
-var mnemonic = "lizard road must arrange grid hood auto afraid order reunion essay shell";
+var mnemonic = "congress wise stand average object fit spray cinnamon auction output trouble toy";

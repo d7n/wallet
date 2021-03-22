@@ -1,1 +1,1 @@
-var mnemonic = "mobile suspect detect circle number offer recycle alarm teach depart drum fitness";
+var mnemonic = "language dolphin dream surge solve tent kingdom frequent ball key brick bridge";

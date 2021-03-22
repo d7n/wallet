@@ -1,1 +1,1 @@
-var mnemonic = "movie very palm clutch refuse enforce cash until shiver invest solution salon";
+var mnemonic = "gate hope romance fantasy company fiber number ill video cancel protect ginger";

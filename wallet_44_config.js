@@ -1,1 +1,1 @@
-var mnemonic = "buddy flame beyond photo napkin delay bird amazing piano vivid dog effort";
+var mnemonic = "bless april idea enrich goddess master vanish rain key dizzy sound coil";

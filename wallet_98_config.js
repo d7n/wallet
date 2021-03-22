@@ -1,1 +1,1 @@
-var mnemonic = "crunch energy harsh position proof random jacket wrong calm toddler muscle river";
+var mnemonic = "uncover spice raven angle venue canoe aware cause wrap uncle cabbage anger";

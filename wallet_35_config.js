@@ -1,1 +1,1 @@
-var mnemonic = "civil when junior until stairs orbit elevator target trash super name stone";
+var mnemonic = "wink indicate north rebel marble final crouch choice track baby morning stage";

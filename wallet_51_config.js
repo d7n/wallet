@@ -1,1 +1,1 @@
-var mnemonic = "riot bench key uncover wing picnic people polar attack rely piano slab";
+var mnemonic = "this vault bottom damp oven upset elbow dial over other emerge topple";

@@ -1,1 +1,1 @@
-var mnemonic = "point cluster build clutch vacuum future wool donor kid fame fruit glare";
+var mnemonic = "fan bulk mixture slim elite quarter harvest glance title hollow dumb walnut";

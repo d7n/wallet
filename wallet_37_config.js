@@ -1,1 +1,1 @@
-var mnemonic = "final shrug search vehicle cement distance reopen pepper hole coast slow squirrel";
+var mnemonic = "update chase usage rude pupil room picnic struggle luggage grocery blue seed";

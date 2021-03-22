@@ -1,1 +1,1 @@
-var mnemonic = "woman analyst worry fish syrup service cherry donkey vehicle account lab lottery";
+var mnemonic = "donkey talk jacket electric blossom tonight curtain mountain begin margin salon fluid";

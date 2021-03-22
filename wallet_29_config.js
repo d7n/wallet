@@ -1,1 +1,1 @@
-var mnemonic = "apart memory casual talent genre ordinary champion soldier word gallery woman pulp";
+var mnemonic = "order stuff deer blind apology credit jazz warrior iron proof miss seven";

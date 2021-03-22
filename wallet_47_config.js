@@ -1,1 +1,1 @@
-var mnemonic = "hungry wing gallery segment bid rack enroll mixed floor long damp modify";
+var mnemonic = "path night number long chef news canyon sight risk bronze ten smooth";

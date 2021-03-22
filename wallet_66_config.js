@@ -1,1 +1,1 @@
-var mnemonic = "mosquito orient ball message title pudding garden access until shoot portion liquid";
+var mnemonic = "half forward rural public deliver bike like across rude aisle item acid";

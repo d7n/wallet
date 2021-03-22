@@ -1,1 +1,1 @@
-var mnemonic = "tortoise cabbage keen juice ability notice album man holiday mad remind staff";
+var mnemonic = "gesture govern issue sadness iron tree drink chef vault loop census hobby";

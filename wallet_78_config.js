@@ -1,1 +1,1 @@
-var mnemonic = "bike science hip one bachelor slow shoot trigger endless easily crisp visual";
+var mnemonic = "differ response deposit balcony column sibling typical action opera minor also seat";

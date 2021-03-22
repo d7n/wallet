@@ -1,1 +1,1 @@
-var mnemonic = "ship exercise mask candy pave amount cause volume divert bonus improve helmet";
+var mnemonic = "muscle knife season must orange ecology maze suffer invest require blade item";

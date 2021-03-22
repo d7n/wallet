@@ -1,1 +1,1 @@
-var mnemonic = "job blossom cute march local other history verb glass pride case caught";
+var mnemonic = "pyramid plunge enter unlock milk camp sense width leopard smile chief invest";

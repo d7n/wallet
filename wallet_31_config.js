@@ -1,1 +1,1 @@
-var mnemonic = "neck minute depend dust about milk expire tackle bamboo blossom luggage poet";
+var mnemonic = "fuel trim defense shy two easy hidden two eternal net sausage hello";

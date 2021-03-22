@@ -1,1 +1,1 @@
-var mnemonic = "jaguar hood race churn blanket moral depart eager into crush total town";
+var mnemonic = "desert tilt fog tiny shock bulk gaze office excite cycle okay glass";

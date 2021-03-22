@@ -1,1 +1,1 @@
-var mnemonic = "vicious web trip foster envelope twenty false blind blame clean hip upset";
+var mnemonic = "canal physical about photo upon daring mesh rookie image sustain monitor reason";

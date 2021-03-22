@@ -1,1 +1,1 @@
-var mnemonic = "name core radar tank tongue lyrics meadow fuel rail aerobic embody thrive";
+var mnemonic = "spatial agent prison parrot cereal liar actor crazy notice net swift nominee";

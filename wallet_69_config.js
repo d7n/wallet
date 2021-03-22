@@ -1,1 +1,1 @@
-var mnemonic = "desert slam hen pink industry melt kiwi one route skate lecture tribe";
+var mnemonic = "stadium fit solar taste marriage ugly race fury rose sure cactus idle";

@@ -1,1 +1,1 @@
-var mnemonic = "certain inform saddle comic produce fabric you suffer urge tag avoid text";
+var mnemonic = "squirrel will lunar warm liquid stairs actual sponsor vivid recycle copper quality";

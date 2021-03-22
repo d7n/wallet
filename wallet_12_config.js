@@ -1,1 +1,1 @@
-var mnemonic = "engage shy whale win senior turn balcony share kiwi reunion arch window";
+var mnemonic = "play creek stereo hybrid seek bless village hurdle hour problem cloud affair";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble essay attitude various useless sheriff rare stick fit flock between steel";
+var mnemonic = "auto please act mercy foster page raven faith ketchup jewel close lend";

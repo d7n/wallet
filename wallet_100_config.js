@@ -1,1 +1,1 @@
-var mnemonic = "siege above slogan able rabbit rude silly lawn double cigar float burger";
+var mnemonic = "lizard genre focus mule raw market road identify curtain thunder olive find";

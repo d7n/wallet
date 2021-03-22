@@ -1,1 +1,1 @@
-var mnemonic = "common portion power reveal kind dizzy project fine betray become baby balcony";
+var mnemonic = "hub panda know scale ride pigeon into cause denial hen across spray";

@@ -1,1 +1,1 @@
-var mnemonic = "brown rib other wood again glance muffin shell lounge better tiger riot";
+var mnemonic = "shift brain tumble real suit discover toddler whip small park clever split";

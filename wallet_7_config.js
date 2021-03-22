@@ -1,1 +1,1 @@
-var mnemonic = "salmon invite urban limb blouse ride crowd puppy plug write kangaroo fever";
+var mnemonic = "carry domain nothing digital company abandon cheese snap multiply piece fix choice";

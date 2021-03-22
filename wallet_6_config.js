@@ -1,1 +1,1 @@
-var mnemonic = "unit hidden ripple thank marine detect wire liberty dynamic cover knock trust";
+var mnemonic = "regret tuna flat before rookie pretty youth sword cereal warrior exact gauge";

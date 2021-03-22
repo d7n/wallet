@@ -1,1 +1,1 @@
-var mnemonic = "change talent mango hero drama clock nurse veteran fluid frozen pole bring";
+var mnemonic = "churn disorder change false social kangaroo margin thunder token truth million much";

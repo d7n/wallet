@@ -1,1 +1,1 @@
-var mnemonic = "escape accident replace maximum cactus frozen february fold once gun buzz allow";
+var mnemonic = "smart square damage giraffe early swing observe labor home worth mango cash";

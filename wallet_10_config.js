@@ -1,1 +1,1 @@
-var mnemonic = "final true message fox health dash canoe possible tent arch swing south";
+var mnemonic = "used century lift forget fade chimney chest tool ladder wheel primary vacuum";

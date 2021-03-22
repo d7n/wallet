@@ -1,1 +1,1 @@
-var mnemonic = "beyond bomb monster bunker equip trust vehicle panther good oval typical fog";
+var mnemonic = "gain caught march snow prosper cabin rural silk bird solid suffer december";

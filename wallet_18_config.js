@@ -1,1 +1,1 @@
-var mnemonic = "fatal chalk excess pencil process hawk cushion evoke poem jealous rose youth";
+var mnemonic = "hold olympic length pride patch wing fine virtual critic account wise layer";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics genuine school marble protect hazard speed theory require people say film";
+var mnemonic = "carbon space virtual craft crew physical code build still fade mistake method";

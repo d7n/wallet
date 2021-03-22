@@ -1,1 +1,1 @@
-var mnemonic = "visa trophy pattern claim they final senior snow pause flag twin rural";
+var mnemonic = "umbrella vicious special column talk edge farm vacuum baby square pool merge";

@@ -1,1 +1,1 @@
-var mnemonic = "club noodle traffic vanish anchor panther safe plate sibling chimney cloth volume";
+var mnemonic = "ride original solution blush genius claw merit strike member lift upgrade have";

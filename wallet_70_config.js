@@ -1,1 +1,1 @@
-var mnemonic = "imitate basic ensure theory hand drum orphan stable govern awkward light brick";
+var mnemonic = "cupboard reveal endless reform solar violin cry drift opinion captain swift earn";

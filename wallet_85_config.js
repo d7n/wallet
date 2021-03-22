@@ -1,1 +1,1 @@
-var mnemonic = "copper common point glass define multiply area april sketch quote hire rocket";
+var mnemonic = "woman rebel radar negative bar crop artefact tunnel online engine evil beach";

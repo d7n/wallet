@@ -1,1 +1,1 @@
-var mnemonic = "cushion roof vast resist brush live silk eager message chef alone permit";
+var mnemonic = "kiss proud belt rather fiction ridge cart noodle tissue direct pet canvas";

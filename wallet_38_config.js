@@ -1,1 +1,1 @@
-var mnemonic = "say demand coffee neglect stone alley manage conduct level report crew source";
+var mnemonic = "bid infant vibrant fish infant pill soon move extend penalty give patrol";

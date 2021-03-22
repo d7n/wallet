@@ -1,1 +1,1 @@
-var mnemonic = "useless heavy repair oval auction double select reveal trophy panther huge enroll";
+var mnemonic = "hen leave relax pet family crush lecture never tortoise pass oyster survey";

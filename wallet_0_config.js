@@ -1,1 +1,1 @@
-var mnemonic = "cheese pilot void stool sign noble vibrant dirt catalog episode gaze gun";
+var mnemonic = "lunar public call where awkward satoshi mosquito want devote ribbon sheriff birth";

@@ -1,1 +1,1 @@
-var mnemonic = "nose normal swing scheme palace sure reflect copy smart iron predict surround";
+var mnemonic = "box shoe wise robust toddler month exile shove angle endorse acquire auto";

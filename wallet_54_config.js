@@ -1,1 +1,1 @@
-var mnemonic = "predict ankle kidney explain busy clump enter citizen melody team merit ghost";
+var mnemonic = "client night mention wrist fade hidden wash pretty surge arrange grant juice";

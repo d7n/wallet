@@ -1,1 +1,1 @@
-var mnemonic = "noble hill rotate double hero theme useless cave clutch dice broccoli calm";
+var mnemonic = "ozone actual occur depth knock omit possible spring sunset caution allow cave";

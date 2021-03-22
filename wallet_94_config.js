@@ -1,1 +1,1 @@
-var mnemonic = "entire city cigar sword elder ostrich hotel eager found catalog error sail";
+var mnemonic = "decorate monkey hire daring fragile mass bleak chimney spider blind frequent thank";

@@ -1,1 +1,1 @@
-var mnemonic = "decade bundle axis bench book toast reunion knock shrimp oxygen drill develop";
+var mnemonic = "blossom glide lab organ grunt flag supply verify style cattle follow blue";

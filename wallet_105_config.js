@@ -1,1 +1,1 @@
-var mnemonic = "face creek aisle wire balance dutch deposit concert rabbit month good south";
+var mnemonic = "play husband salmon language loan garden neck judge silver similar satoshi art";

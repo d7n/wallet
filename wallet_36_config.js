@@ -1,1 +1,1 @@
-var mnemonic = "ginger purse shrimp tiny voyage happy boy moment cat oak lemon warrior";
+var mnemonic = "just climb valid interest milk crime drift junk pole power myself goat";

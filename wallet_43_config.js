@@ -1,1 +1,1 @@
-var mnemonic = "minimum gold need joy talk gather rate fossil high round armor marriage";
+var mnemonic = "exhaust hidden avocado rate prefer canyon pet cloth bicycle toilet mammal rug";

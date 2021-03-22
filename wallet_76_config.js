@@ -1,1 +1,1 @@
-var mnemonic = "whip chicken panther flush paddle vendor leave shuffle drill year hip drive";
+var mnemonic = "estate timber dune rival push siren adapt habit buddy install afford electric";

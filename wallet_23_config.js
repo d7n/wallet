@@ -1,1 +1,1 @@
-var mnemonic = "pyramid ramp stock off mixture excess deny strategy enjoy over antenna beef";
+var mnemonic = "field discover flag speak elite crisp income spike local aware hospital nose";

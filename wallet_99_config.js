@@ -1,1 +1,1 @@
-var mnemonic = "decrease antique barrel judge flight donor eyebrow length meat away travel salad";
+var mnemonic = "waste sugar awake lion fringe deputy bounce brick path kite angry there";

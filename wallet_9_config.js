@@ -1,1 +1,1 @@
-var mnemonic = "stay buddy spider leaf caution minute forum wrong apple relax submit mind";
+var mnemonic = "fix sugar enrich rotate guide remove hockey slender confirm dress powder treat";

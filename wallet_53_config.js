@@ -1,1 +1,1 @@
-var mnemonic = "canal labor giggle way anchor icon enhance garlic toilet chat raw toward";
+var mnemonic = "hospital wash swift invite gap tragic gaze bind father release medal cycle";
