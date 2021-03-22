@@ -1,1 +1,1 @@
-var mnemonic = "fault twin eyebrow whisper thing pigeon wrist ability rather olive paddle nominee";
+var mnemonic = "resemble galaxy glove demise puppy absent lazy amazing unique rain fuel deliver";

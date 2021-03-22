@@ -1,1 +1,1 @@
-var mnemonic = "absent first license measure rifle salon diet planet course warm among pill";
+var mnemonic = "sock steak write pistol volcano cube exist regret key claw path retire";

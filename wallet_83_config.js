@@ -1,1 +1,1 @@
-var mnemonic = "situate mouse matrix battle forward impact faith sign cry decorate they guess";
+var mnemonic = "cart knife pencil neither enroll certain draft exist choose menu frame tackle";

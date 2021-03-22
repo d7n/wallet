@@ -1,1 +1,1 @@
-var mnemonic = "eagle right mobile cupboard pet ensure scrap gravity awesome nerve despair pig";
+var mnemonic = "swim creek bench gas inhale clever unit sell wine hen humor direct";

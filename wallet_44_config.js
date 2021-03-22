@@ -1,1 +1,1 @@
-var mnemonic = "shallow feel sad soup federal hip heavy salon soccer boil glue spell";
+var mnemonic = "valley claim fashion found toilet fat casino flat razor mansion acoustic dose";

@@ -1,1 +1,1 @@
-var mnemonic = "together spike mimic tomorrow neither mosquito enforce inform cloth unique prefer shiver";
+var mnemonic = "moon climb add cat super client pattern head advance apple lumber rifle";

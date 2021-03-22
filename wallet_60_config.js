@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit blood yard popular now word pair open bonus install tip toy";
+var mnemonic = "vacuum ridge scissors when venture victory photo jelly van athlete right acquire";

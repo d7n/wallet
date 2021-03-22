@@ -1,1 +1,1 @@
-var mnemonic = "select replace hire fence valve fortune fabric model check solution pledge space";
+var mnemonic = "solution comfort glue habit disagree black define pill hotel bullet produce practice";

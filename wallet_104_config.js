@@ -1,1 +1,1 @@
-var mnemonic = "brown fabric gather upset limb return lend famous fury ready plate kidney";
+var mnemonic = "sketch desk enroll fine panther illness main august turkey crawl ridge reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "invite topic run jewel creek tonight foster bulk task truck defense stage";
+var mnemonic = "manage lunch detail pole shrug era cigar typical notice engine pool cruise";

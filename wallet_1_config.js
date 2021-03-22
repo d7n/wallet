@@ -1,1 +1,1 @@
-var mnemonic = "embody nest just expose coil snap palm over walk demand usage bulk";
+var mnemonic = "lamp around grunt suggest payment width theme round knife kick wet bean";

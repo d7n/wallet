@@ -1,1 +1,1 @@
-var mnemonic = "frame misery twist vintage potato human stairs large unique lucky own room";
+var mnemonic = "place impose galaxy point peasant witness space success across tenant limit mother";

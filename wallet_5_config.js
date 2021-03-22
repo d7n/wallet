@@ -1,1 +1,1 @@
-var mnemonic = "reveal upset bonus nuclear wheat notice yellow mandate push puzzle cram expand";
+var mnemonic = "ladder result few frozen drift below have behind divorce large finger theory";

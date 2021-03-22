@@ -1,1 +1,1 @@
-var mnemonic = "success shuffle breeze enroll powder village ensure candy soap little tray average";
+var mnemonic = "cheese wagon parent number enable ethics hospital uphold awake person wheel square";

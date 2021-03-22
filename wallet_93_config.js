@@ -1,1 +1,1 @@
-var mnemonic = "zero olympic advance ripple circle alarm mouse scale where arrow already snap";
+var mnemonic = "juice shallow theory account broken mule patch unit reopen school staff donate";

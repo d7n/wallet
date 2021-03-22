@@ -1,1 +1,1 @@
-var mnemonic = "shop crew dad fortune ski quiz speed will candy zoo above pond";
+var mnemonic = "piano false road sword shoulder corn rude depend soda must cannon reason";

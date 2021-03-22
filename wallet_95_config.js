@@ -1,1 +1,1 @@
-var mnemonic = "slide boost expire utility summer knock sunset upon wedding fox curve buddy";
+var mnemonic = "oil like orphan between awake busy lion olive cheese detect board pelican";

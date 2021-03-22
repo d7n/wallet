@@ -1,1 +1,1 @@
-var mnemonic = "lamp side drastic lion tide farm young fox pond symbol bless marine";
+var mnemonic = "century unlock imitate lens fatigue spend sight rack client wealth solar cave";

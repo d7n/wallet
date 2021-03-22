@@ -1,1 +1,1 @@
-var mnemonic = "tilt double whale segment move start spare cattle nurse believe speed casino";
+var mnemonic = "much excess cheese table aspect birth fence say rescue document cart rug";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent glass brown creek then acquire pupil crew twice panda ticket road";
+var mnemonic = "duty cancel major arrow virus monitor know dust pyramid purse nurse treat";

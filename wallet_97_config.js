@@ -1,1 +1,1 @@
-var mnemonic = "before transfer celery pilot fold have floor bonus bone inhale naive during";
+var mnemonic = "million inner expose provide antenna oppose early skull unit move rural magnet";

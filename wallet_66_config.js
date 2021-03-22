@@ -1,1 +1,1 @@
-var mnemonic = "maze just gym scale palm cry shuffle grit liquid choose system grid";
+var mnemonic = "say manage yellow collect like gasp olympic mule world helmet ivory gain";

@@ -1,1 +1,1 @@
-var mnemonic = "flip divide budget that siren vacuum sphere woman embark snack spider actor";
+var mnemonic = "family yard iron flip victory jungle cricket snap very muffin twelve wait";

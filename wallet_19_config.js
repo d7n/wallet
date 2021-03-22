@@ -1,1 +1,1 @@
-var mnemonic = "actor fork spare muffin olympic blouse gloom you meadow want blouse name";
+var mnemonic = "interest blade language diesel hill second bone ecology van quit drip shed";

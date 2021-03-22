@@ -1,1 +1,1 @@
-var mnemonic = "among lumber fiscal attack like subway melody man dolphin rigid situate position";
+var mnemonic = "spread output reflect grape quit warfare hamster music dutch dynamic naive cupboard";

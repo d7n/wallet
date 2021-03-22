@@ -1,1 +1,1 @@
-var mnemonic = "legal test sphere ecology siren eagle tornado skin media alarm between prepare";
+var mnemonic = "ugly denial glove damage armor alert bamboo love mandate shift suggest giraffe";

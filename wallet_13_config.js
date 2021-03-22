@@ -1,1 +1,1 @@
-var mnemonic = "fragile glue hood elbow uncle critic reform bunker report neck birth aspect";
+var mnemonic = "enhance coach elegant orange dentist setup sing unique initial input deputy pitch";

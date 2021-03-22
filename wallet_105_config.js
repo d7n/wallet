@@ -1,1 +1,1 @@
-var mnemonic = "switch satisfy execute bomb shock fluid tide letter sting zebra aunt sword";
+var mnemonic = "garbage nuclear ivory frog fan rare cry jacket noise science paper mesh";

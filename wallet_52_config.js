@@ -1,1 +1,1 @@
-var mnemonic = "forward tennis dolphin clown client sting card strong arm cheap zone adult";
+var mnemonic = "spawn flock ensure tissue notice swamp always silent mango exhibit unveil risk";

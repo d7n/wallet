@@ -1,1 +1,1 @@
-var mnemonic = "fall valid six arm resource hazard dinner differ arm book inquiry hair";
+var mnemonic = "trigger infant rice come again apple domain badge mosquito general lawn permit";

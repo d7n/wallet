@@ -1,1 +1,1 @@
-var mnemonic = "student wife secret caution reason abstract bind insane noble glove almost picture";
+var mnemonic = "video potato father fly chase beyond auction metal convince disorder symptom early";

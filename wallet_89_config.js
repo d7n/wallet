@@ -1,1 +1,1 @@
-var mnemonic = "audit hold soul senior owner limit scrap laugh predict maple obscure evolve";
+var mnemonic = "life letter fault much double talk boring seat demand live sail come";

@@ -1,1 +1,1 @@
-var mnemonic = "initial galaxy trap clarify state spider term vanish bless act shuffle omit";
+var mnemonic = "short auction orient teach liberty gallery version gadget immune destroy sound fault";

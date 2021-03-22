@@ -1,1 +1,1 @@
-var mnemonic = "jealous basic proof diamond bacon six human weapon lizard peasant ramp monkey";
+var mnemonic = "humor crane life short process license toe twist fiber wife above town";

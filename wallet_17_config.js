@@ -1,1 +1,1 @@
-var mnemonic = "sauce aspect noodle novel fabric layer receive brick route weekend carbon couch";
+var mnemonic = "erode remove phrase define smooth sad spray section joke museum setup dress";

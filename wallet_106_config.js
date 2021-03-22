@@ -1,1 +1,1 @@
-var mnemonic = "denial that ability conduct regret dream sibling protect unaware have apart exact";
+var mnemonic = "tell squirrel fatigue carry during together gown illness club nurse script agree";

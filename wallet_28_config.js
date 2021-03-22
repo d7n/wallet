@@ -1,1 +1,1 @@
-var mnemonic = "year above baby vapor glare nerve oppose exile exotic monster monkey amount";
+var mnemonic = "leader mask utility almost escape hip energy coffee leopard favorite fine skirt";

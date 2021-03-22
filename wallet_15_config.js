@@ -1,1 +1,1 @@
-var mnemonic = "chronic envelope success shine crack result bike lecture abandon ocean polar flame";
+var mnemonic = "because crumble inch call square expand travel junk unfold assault immense surprise";

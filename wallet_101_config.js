@@ -1,1 +1,1 @@
-var mnemonic = "worth label hunt ladder slow immense woman author fog stereo pact casual";
+var mnemonic = "dilemma acid input hole erosion false candy life retire grass battle casino";

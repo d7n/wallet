@@ -1,1 +1,1 @@
-var mnemonic = "garment ten drum earth rotate access column hunt record symbol want auction";
+var mnemonic = "repair case trip enhance neutral conduct mind tuition action melody oval card";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle blossom little nominee shine muffin advice mesh organ fix crisp glare";
+var mnemonic = "trigger lonely knife apology urban crane correct fiscal cancel mechanic love carbon";

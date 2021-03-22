@@ -1,1 +1,1 @@
-var mnemonic = "fatal smart rich voice throw wine powder spot occur dry fiscal chuckle";
+var mnemonic = "hello soldier skirt cattle twenty tent run peace cover ecology winter tower";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture process announce close item refuse swear destroy cliff shallow own venture";
+var mnemonic = "also gauge error auto accident seat dignity march intact stadium guitar delay";

@@ -1,1 +1,1 @@
-var mnemonic = "license half napkin leader improve thought inside favorite dune that post all";
+var mnemonic = "dilemma atom okay setup apology wisdom salt april deer conduct wrist quote";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb flash mixture tent fold quick cash wait slide danger clump leg";
+var mnemonic = "motion notable scorpion equip shift coach frog fatal click adult must science";

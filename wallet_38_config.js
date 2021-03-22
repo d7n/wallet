@@ -1,1 +1,1 @@
-var mnemonic = "model ball prosper total clutch subway embody reopen return element harsh practice";
+var mnemonic = "reopen margin peace clinic guilt dust inmate quality deliver furnace page paper";

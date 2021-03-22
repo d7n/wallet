@@ -1,1 +1,1 @@
-var mnemonic = "dignity fork matter van mind brisk victory issue dust giggle raise faint";
+var mnemonic = "fancy noodle picnic leaf moment disagree guess ill marine myth sunny august";

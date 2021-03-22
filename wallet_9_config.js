@@ -1,1 +1,1 @@
-var mnemonic = "opinion romance salon case skull grain citizen family opera parrot blue hybrid";
+var mnemonic = "sure idle adapt ritual good shock museum drift bundle end train reward";

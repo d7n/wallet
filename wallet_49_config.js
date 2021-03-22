@@ -1,1 +1,1 @@
-var mnemonic = "dizzy know trick foot curtain path imitate uncover false shy mother output";
+var mnemonic = "pool outer asset float top large crop reflect ozone hollow long item";

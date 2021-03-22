@@ -1,1 +1,1 @@
-var mnemonic = "prize radar disease welcome ankle excess demise drive guide maple lawsuit parent";
+var mnemonic = "grape huge icon inflict dwarf unable tape trend sunset indicate ancient cargo";

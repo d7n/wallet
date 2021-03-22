@@ -1,1 +1,1 @@
-var mnemonic = "midnight donate strategy gravity next sustain above relief north merry small enlist";
+var mnemonic = "wire fish thing option dynamic filter fish impulse abandon school pluck actress";

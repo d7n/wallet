@@ -1,1 +1,1 @@
-var mnemonic = "display scene swear patrol finish flavor alert insect example annual maze cannon";
+var mnemonic = "essay estate code debate friend wood double domain business brand yard cram";

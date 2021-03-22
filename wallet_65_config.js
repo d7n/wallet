@@ -1,1 +1,1 @@
-var mnemonic = "milk mystery bag silent print foil enroll gospel puppy rule choose sort";
+var mnemonic = "turkey coin tomorrow turkey rotate eager market comic coffee quarter ticket moment";

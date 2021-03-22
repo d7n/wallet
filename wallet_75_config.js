@@ -1,1 +1,1 @@
-var mnemonic = "noble candy upper token leopard prevent social isolate glue boring ecology island";
+var mnemonic = "arctic apple tell muscle squeeze wedding actress banana melody donate such abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "long slow mean ginger crop basket embrace east tongue sell ill hold";
+var mnemonic = "kiwi unhappy craft cute kit survey thank entry melt hire armed degree";

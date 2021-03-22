@@ -1,1 +1,1 @@
-var mnemonic = "sunny profit awful nut pave bargain umbrella cable history remove tobacco whip";
+var mnemonic = "knock buzz shaft tilt nurse fiscal seven enough alpha seminar lobster tiny";

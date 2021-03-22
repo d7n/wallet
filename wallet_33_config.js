@@ -1,1 +1,1 @@
-var mnemonic = "evidence build nice seed trial winter observe coconut tuition invest spring century";
+var mnemonic = "minimum impose arrive film soul stool crunch cluster traffic local elder rebuild";

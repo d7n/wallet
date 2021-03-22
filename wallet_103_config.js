@@ -1,1 +1,1 @@
-var mnemonic = "squirrel soda warfare turn sand resist stone lumber often lion dismiss math";
+var mnemonic = "vapor rose entry secret brown result way know grit segment truck motion";

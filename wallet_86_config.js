@@ -1,1 +1,1 @@
-var mnemonic = "lend federal radar scout play digital unlock predict pig concert perfect casino";
+var mnemonic = "feed excite problem harsh farm witness lock cash senior shoulder boring kit";

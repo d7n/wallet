@@ -1,1 +1,1 @@
-var mnemonic = "awkward reopen priority sketch ritual robot tongue width tree radar harvest boy";
+var mnemonic = "yard color size swear company shuffle city west protect announce avocado share";

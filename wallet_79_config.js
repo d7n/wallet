@@ -1,1 +1,1 @@
-var mnemonic = "blur drill repeat skill shrimp bleak cross occur jacket letter discover need";
+var mnemonic = "stay false hill tank promote item trim satoshi lock combine castle fit";

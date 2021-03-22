@@ -1,1 +1,1 @@
-var mnemonic = "dial explain panel stone adult enroll drastic bread slab remain yard solve";
+var mnemonic = "distance output van pretty junior tag region cotton satoshi sing sun ice";

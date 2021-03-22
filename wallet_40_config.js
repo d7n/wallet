@@ -1,1 +1,1 @@
-var mnemonic = "income caution lyrics diamond dream end expire identify midnight keep join gain";
+var mnemonic = "snack uniform bubble script equip pill zebra day civil science crucial direct";

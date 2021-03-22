@@ -1,1 +1,1 @@
-var mnemonic = "remove dash remain uniform chicken struggle immune female nerve pudding jaguar wink";
+var mnemonic = "robust escape believe stage when athlete glory expire steak concert convince quiz";

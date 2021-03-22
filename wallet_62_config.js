@@ -1,1 +1,1 @@
-var mnemonic = "script exotic oxygen grass upset move right update luxury surface soft cereal";
+var mnemonic = "spawn better suit frozen marble install siege fine initial cash afraid other";

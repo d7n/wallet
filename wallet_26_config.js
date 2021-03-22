@@ -1,1 +1,1 @@
-var mnemonic = "praise dove rely whale render page senior lumber grain shoot film erosion";
+var mnemonic = "chat polar neck thing february manage stamp guilt notable blast come tiger";

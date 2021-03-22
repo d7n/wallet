@@ -1,1 +1,1 @@
-var mnemonic = "decrease seminar around detect nose ancient order junk future attack order lumber";
+var mnemonic = "viable excuse crucial pioneer friend wrap smile coral attend hub fade gallery";

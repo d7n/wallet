@@ -1,1 +1,1 @@
-var mnemonic = "blossom surge because physical crouch museum crazy few elbow task layer unaware";
+var mnemonic = "member office shadow pole venture game cheap mushroom text napkin panel drift";

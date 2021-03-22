@@ -1,1 +1,1 @@
-var mnemonic = "canvas any invite corn steel hawk disease wrist country wine wagon fluid";
+var mnemonic = "mind crumble donkey garbage kiss security index float prefer ranch coffee village";

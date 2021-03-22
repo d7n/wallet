@@ -1,1 +1,1 @@
-var mnemonic = "cluster nuclear route oxygen sister flight cheap eternal cabbage fish this library";
+var mnemonic = "pool service thank sample melody weekend garbage again desk shock fox nation";

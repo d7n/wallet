@@ -1,1 +1,1 @@
-var mnemonic = "truly winter witness gasp bachelor sense absurd common crack bean forward robot";
+var mnemonic = "else off flock clinic farm fault view demand bag audit random drip";

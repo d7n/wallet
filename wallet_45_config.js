@@ -1,1 +1,1 @@
-var mnemonic = "ring point cute move pulp cost inflict ship soul credit armor cherry";
+var mnemonic = "infant happy clap swear major drill hair blossom hurdle merry talent erosion";

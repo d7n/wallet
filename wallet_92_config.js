@@ -1,1 +1,1 @@
-var mnemonic = "champion width jealous thing connect clip scale style hard memory peanut remind";
+var mnemonic = "chest choose horse veteran argue churn turkey second loan demise cable panic";

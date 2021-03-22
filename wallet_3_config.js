@@ -1,1 +1,1 @@
-var mnemonic = "gorilla ceiling will rice permit unveil pledge robot acoustic owner vault slice";
+var mnemonic = "vote better web abuse debris recycle tuition prefer jaguar slab room sword";

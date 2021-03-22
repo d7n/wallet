@@ -1,1 +1,1 @@
-var mnemonic = "perfect climb fabric patient element leaf cage shaft cradle blush swear master";
+var mnemonic = "term tank silly salon gauge enemy isolate team burden royal drama hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire twin target junk search valve equal palm arm purity armor ski";
+var mnemonic = "crisp menu bundle bulk peanut infant derive speak else tongue dragon suit";

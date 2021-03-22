@@ -1,1 +1,1 @@
-var mnemonic = "quote comfort depth across rare soda another invite dune judge loud client";
+var mnemonic = "chaos grain slight pig teach border attack always delay verb police alter";

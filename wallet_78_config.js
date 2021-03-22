@@ -1,1 +1,1 @@
-var mnemonic = "trophy lyrics auction hundred goddess blast measure expand myth cloud invest wide";
+var mnemonic = "spin embrace project marine fancy device own labor sketch light carbon task";

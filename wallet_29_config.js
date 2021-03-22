@@ -1,1 +1,1 @@
-var mnemonic = "cereal vehicle casual meat camera island dry renew rookie anger husband woman";
+var mnemonic = "squirrel credit wink scare dignity grid cup arm bird toast toilet aim";

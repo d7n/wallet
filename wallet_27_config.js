@@ -1,1 +1,1 @@
-var mnemonic = "bird avoid side degree oxygen base derive nominee super couple grunt antenna";
+var mnemonic = "spin vital sausage renew saddle bless soap slim volcano palace upper coast";

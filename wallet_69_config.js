@@ -1,1 +1,1 @@
-var mnemonic = "round tape flower gift minute bounce travel quantum nurse wreck essence either";
+var mnemonic = "mandate client elevator gaze celery client position never cruel mesh sting side";

@@ -1,1 +1,1 @@
-var mnemonic = "salt rescue away cousin crop pulp gun income army possible poet lab";
+var mnemonic = "breeze link ice mirror scrap gadget coral solution army rice tortoise person";

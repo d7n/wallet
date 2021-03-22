@@ -1,1 +1,1 @@
-var mnemonic = "page hurt aware coast river virtual night bitter avocado isolate arrow wet";
+var mnemonic = "uncover govern whisper member finish letter endorse toss quote soccer squirrel north";

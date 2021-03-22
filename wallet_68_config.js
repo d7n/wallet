@@ -1,1 +1,1 @@
-var mnemonic = "harbor junk either behave miracle noise salt proof climb fan churn fashion";
+var mnemonic = "work between length give naive actual consider route cotton evil trend tissue";

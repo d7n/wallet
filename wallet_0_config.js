@@ -1,1 +1,1 @@
-var mnemonic = "direct tower guide exile butter science fork cake siege dignity rely vacant";
+var mnemonic = "similar holiday price one intact moral leisure fiscal impulse repeat answer muffin";

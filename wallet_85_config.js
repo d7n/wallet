@@ -1,1 +1,1 @@
-var mnemonic = "notice fiction frost genius creek menu frost top wisdom champion alpha oil";
+var mnemonic = "phrase frame lunch focus photo siege venue fever bacon because modify doctor";

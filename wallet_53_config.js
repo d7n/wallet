@@ -1,1 +1,1 @@
-var mnemonic = "transfer language emotion mad sign bike soul oak grow basic wisdom bulb";
+var mnemonic = "movie myth merge spot resource super diamond robust garlic census scene giant";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub ginger custom sniff snack profit learn segment enrich dash recall exchange";
+var mnemonic = "nature shoulder drive excuse cost chest amount art rubber aim alley lounge";

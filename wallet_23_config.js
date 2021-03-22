@@ -1,1 +1,1 @@
-var mnemonic = "clap play mule conduct lava order hedgehog virtual island glue foil remove";
+var mnemonic = "ocean fortune modify situate fame rare never rich poet legend clap guide";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit primary door seven narrow position champion can artefact riot glad time";
+var mnemonic = "matter student fun runway bamboo bacon alert oppose denial sight position advice";
