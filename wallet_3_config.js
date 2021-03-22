@@ -1,1 +1,1 @@
-var mnemonic = "cattle fortune menu awkward manual noble tray senior rabbit print claw job";
+var mnemonic = "park dash flat chaos horn among pony gauge filter boring casual raw";

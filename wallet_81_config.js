@@ -1,1 +1,1 @@
-var mnemonic = "tomato girl phrase oblige inmate oxygen comic organ basic latin decorate above";
+var mnemonic = "almost law crazy outside embody mosquito rib accident album another breeze hedgehog";

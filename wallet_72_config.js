@@ -1,1 +1,1 @@
-var mnemonic = "coin board print rally plunge poem armor under museum actress month bamboo";
+var mnemonic = "crystal stereo glow fortune effort soda sweet awful school top sing proud";

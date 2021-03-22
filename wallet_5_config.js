@@ -1,1 +1,1 @@
-var mnemonic = "license ski depend whip absent escape swallow expect rare venue arch chief";
+var mnemonic = "left arrest tobacco link analyst clip spare result never patch fringe option";

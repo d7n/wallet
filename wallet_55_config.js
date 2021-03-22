@@ -1,1 +1,1 @@
-var mnemonic = "oil concert train dose awake wall able couch prosper hungry garment chef";
+var mnemonic = "stand lumber planet reflect size cheap host can sadness rug license citizen";

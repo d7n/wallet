@@ -1,1 +1,1 @@
-var mnemonic = "senior method jar snow ritual steel young memory glare goat regret blast";
+var mnemonic = "job razor rhythm hidden speak bachelor recipe squeeze mountain travel piece timber";

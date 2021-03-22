@@ -1,1 +1,1 @@
-var mnemonic = "feature absurd concert science depth nation goat toss silly initial meadow winter";
+var mnemonic = "tail memory swift rifle turtle oxygen barely zebra wash stay despair brick";

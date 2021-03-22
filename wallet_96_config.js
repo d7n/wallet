@@ -1,1 +1,1 @@
-var mnemonic = "merit talk ill drum assault fire effort resource coast myth behave message";
+var mnemonic = "unknown omit medal guitar crystal immune peanut inner hawk raise snake melt";

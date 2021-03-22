@@ -1,1 +1,1 @@
-var mnemonic = "inhale alley path license human combine page fish awful cup dream own";
+var mnemonic = "van stage enrich hope design polar property mountain point loop dance muscle";

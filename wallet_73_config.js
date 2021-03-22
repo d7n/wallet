@@ -1,1 +1,1 @@
-var mnemonic = "cherry use fiscal muffin agent rigid cushion test letter barely salon cherry";
+var mnemonic = "style sustain exile huge promote asthma tube transfer ship combine sight flip";

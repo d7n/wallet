@@ -1,1 +1,1 @@
-var mnemonic = "color organ vintage blur badge brief coast fish expose pilot current cave";
+var mnemonic = "blue citizen rhythm hard wrap satoshi buffalo dolphin million erupt type broken";

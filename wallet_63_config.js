@@ -1,1 +1,1 @@
-var mnemonic = "decline harsh ribbon promote immense list poverty ritual retire taxi property harvest";
+var mnemonic = "crane frown ghost end decorate story sick acoustic chapter equip drama keep";

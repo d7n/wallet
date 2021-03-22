@@ -1,1 +1,1 @@
-var mnemonic = "tide price high else silent lumber finish punch gasp wheel marriage airport";
+var mnemonic = "deer window space gallery page become celery lemon art later apple uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly tribe about harvest swift another swing pizza breeze tube allow number";
+var mnemonic = "dial large fancy erase avocado cousin initial slush sun broccoli emerge bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "merit valley near frame spatial basic ladder become powder kiss orchard insect";
+var mnemonic = "garbage place dice border kiwi soup public demise option scissors blue neck";

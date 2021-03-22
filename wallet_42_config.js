@@ -1,1 +1,1 @@
-var mnemonic = "subject obvious sell heart stomach sign april vague process romance use drive";
+var mnemonic = "amateur forget repeat idea romance lion strike drift trip symptom trouble youth";

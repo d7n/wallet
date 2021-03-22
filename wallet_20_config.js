@@ -1,1 +1,1 @@
-var mnemonic = "direct cool basic scheme electric elephant intact slight elbow elite decide soon";
+var mnemonic = "will pyramid core cook gas apology buffalo plug match cradle nuclear laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket service squeeze road mind usual garment wife property zero charge impose";
+var mnemonic = "time luggage author defense giant use slide excite kitten range father now";

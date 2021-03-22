@@ -1,1 +1,1 @@
-var mnemonic = "meadow boat case cancel nothing dance off lava emerge boat differ capable";
+var mnemonic = "resemble core edit cupboard evolve media spoon develop knife pink dinner mouse";

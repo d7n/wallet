@@ -1,1 +1,1 @@
-var mnemonic = "library alert genuine strike impose injury pattern ritual pole blush weasel rack";
+var mnemonic = "ankle suffer mosquito prison peace summer genuine butter combine job uniform room";

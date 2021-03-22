@@ -1,1 +1,1 @@
-var mnemonic = "above sting bean token exist tone learn shove hip unveil spare recall";
+var mnemonic = "fat talent artefact undo width oblige neck now chair split tail soda";

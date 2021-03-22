@@ -1,1 +1,1 @@
-var mnemonic = "problem girl supreme harbor predict stone wisdom syrup rely library apart expire";
+var mnemonic = "maximum picture urge wide unfair later gap merry hen desk leave web";

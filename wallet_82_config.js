@@ -1,1 +1,1 @@
-var mnemonic = "goose vanish ranch mandate enact custom property faith clown teach choice affair";
+var mnemonic = "movie bicycle narrow balcony clarify improve alcohol dry man field embody under";

@@ -1,1 +1,1 @@
-var mnemonic = "lab vicious depend pluck truth play joke artist share boring trumpet dismiss";
+var mnemonic = "source judge can wasp fury member win honey tourist polar thunder coin";

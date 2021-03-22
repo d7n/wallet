@@ -1,1 +1,1 @@
-var mnemonic = "casino grid roof stereo pond mansion theme abuse endorse glove inner such";
+var mnemonic = "twice defy lawsuit spider town aim exact prize usual error capital motion";

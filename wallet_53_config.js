@@ -1,1 +1,1 @@
-var mnemonic = "venture milk wait elephant cushion kite you lady caution wait patch icon";
+var mnemonic = "domain right foster invest race alert bike hockey shoulder outer clog unusual";

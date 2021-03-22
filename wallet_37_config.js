@@ -1,1 +1,1 @@
-var mnemonic = "manage congress medal fringe wild kitten used usage harvest lyrics glimpse lady";
+var mnemonic = "jump squeeze gaze wife quote reason cute marriage raise print empty truck";

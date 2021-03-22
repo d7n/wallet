@@ -1,1 +1,1 @@
-var mnemonic = "silent motor defense butter vocal predict tattoo total floor airport maple pizza";
+var mnemonic = "ship immense episode birth more one crisp ginger file outer tragic bean";

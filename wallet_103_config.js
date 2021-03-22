@@ -1,1 +1,1 @@
-var mnemonic = "bag deputy repair bottom crash then icon trip bid habit few plug";
+var mnemonic = "minimum combine cup venue era remind ten blur girl electric envelope uphold";

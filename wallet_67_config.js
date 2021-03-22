@@ -1,1 +1,1 @@
-var mnemonic = "news dry inner smooth keep limb system kid celery online absorb slot";
+var mnemonic = "move slight eager wheat dad exit peasant gaze weasel snack capable strike";

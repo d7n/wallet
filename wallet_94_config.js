@@ -1,1 +1,1 @@
-var mnemonic = "error such submit marine timber legend wagon comic leader lesson panel exist";
+var mnemonic = "gospel slender battle secret elegant bright accuse visa degree hole bamboo wheel";

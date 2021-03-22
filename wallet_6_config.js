@@ -1,1 +1,1 @@
-var mnemonic = "buyer vintage dad enforce battle august ramp mango public lawn seat sudden";
+var mnemonic = "smile coil jealous apple genius author sustain check dust equal bitter blush";

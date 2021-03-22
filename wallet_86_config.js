@@ -1,1 +1,1 @@
-var mnemonic = "bitter woman betray brown try violin dream balcony mirror glass pledge taste";
+var mnemonic = "volcano staff session bottom scissors pluck supreme federal dish fantasy elevator crack";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs cake wait elder crop health flush plate hat typical trash can";
+var mnemonic = "oblige cereal wet boss vocal round peanut trophy coconut apology live below";

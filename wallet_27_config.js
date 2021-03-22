@@ -1,1 +1,1 @@
-var mnemonic = "decorate swift ship sell then universe drop title palace sing lumber ill";
+var mnemonic = "shrug grid clump nuclear together photo staff angle insect brown leaf pride";

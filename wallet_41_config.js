@@ -1,1 +1,1 @@
-var mnemonic = "name eight divide attack resource rural fog there similar hold disagree input";
+var mnemonic = "when garment civil best hero asset abuse merit reflect reject thank visual";

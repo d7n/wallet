@@ -1,1 +1,1 @@
-var mnemonic = "arrive noodle caution embody slender motor jeans horror repair aunt crime resource";
+var mnemonic = "cook angry laugh burden bulk bean near that era prize camera bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "junior kingdom moral shed avocado click erode dwarf estate text history snack";
+var mnemonic = "text worry squeeze lend online victory segment blast book liquid brass subway";

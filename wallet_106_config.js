@@ -1,1 +1,1 @@
-var mnemonic = "pistol tank tomorrow cancel palace assault census panic noodle crime chair ready";
+var mnemonic = "east general vapor april rigid toward imitate toddler mother field company order";

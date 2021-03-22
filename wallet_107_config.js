@@ -1,1 +1,1 @@
-var mnemonic = "physical mirror shed illegal sunny wrap major purpose lamp hunt modify master";
+var mnemonic = "echo citizen sign mandate light capable satoshi any cave column rescue album";

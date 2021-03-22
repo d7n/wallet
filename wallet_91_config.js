@@ -1,1 +1,1 @@
-var mnemonic = "lottery power humble manual clutch wheat capable interest thank blossom lift mandate";
+var mnemonic = "weather vacuum fall decrease attitude hollow matter assume dad album hill soft";

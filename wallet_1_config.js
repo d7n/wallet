@@ -1,1 +1,1 @@
-var mnemonic = "avocado winner clock clump view voyage fence rabbit latin thank swap season";
+var mnemonic = "account pulp dignity decorate episode muscle arrange wagon unlock into sense scrap";

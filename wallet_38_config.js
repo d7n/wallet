@@ -1,1 +1,1 @@
-var mnemonic = "enough cheese history shiver code drastic volume middle shield cool cup quarter";
+var mnemonic = "lake smart brain twin like tide west base ill hover fee remove";

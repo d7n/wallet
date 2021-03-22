@@ -1,1 +1,1 @@
-var mnemonic = "cattle fork code patch view business cactus win census gossip naive trim";
+var mnemonic = "disorder evil hint husband begin artefact raven palace theme taxi visit goat";

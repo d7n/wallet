@@ -1,1 +1,1 @@
-var mnemonic = "close card mix curious twist bridge badge sheriff riot acoustic arm replace";
+var mnemonic = "famous mercy weather mystery tumble match resource roast middle wrong annual never";

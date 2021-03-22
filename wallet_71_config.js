@@ -1,1 +1,1 @@
-var mnemonic = "iron inspire rabbit mind broken season quarter mixture spoon come custom crouch";
+var mnemonic = "time scout soup build pause bind announce unable spin twenty fix sudden";

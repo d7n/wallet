@@ -1,1 +1,1 @@
-var mnemonic = "firm pudding strong favorite lazy hole menu tool duck flower melody bind";
+var mnemonic = "fabric differ fantasy fancy apology decide hungry tone ritual barrel other river";

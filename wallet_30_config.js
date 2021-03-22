@@ -1,1 +1,1 @@
-var mnemonic = "marine bind sure axis skin pink until fortune material base often what";
+var mnemonic = "light desert street click knock flame fluid shrug skill venture real monitor";

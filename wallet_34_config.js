@@ -1,1 +1,1 @@
-var mnemonic = "pepper parrot fetch wage duck tank lonely hello tunnel badge sad material";
+var mnemonic = "barely damage give hungry snack taste drop bubble tonight garlic owner program";

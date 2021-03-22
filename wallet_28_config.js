@@ -1,1 +1,1 @@
-var mnemonic = "wealth flock autumn vibrant barely excite rather fiction gasp chicken siege imitate";
+var mnemonic = "ten bean club when dove sauce surround opera cupboard head domain sustain";

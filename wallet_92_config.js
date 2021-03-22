@@ -1,1 +1,1 @@
-var mnemonic = "help screen beach fitness stage pulp crime upper sunny health gown mansion";
+var mnemonic = "tenant inject collect solution orchard picture chronic gospel resemble chalk dumb mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle success recall useful kid employ trust pen lawsuit edge elevator canyon";
+var mnemonic = "faith silly useless limb document dice fly horse abuse combine answer polar";

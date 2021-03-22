@@ -1,1 +1,1 @@
-var mnemonic = "rose walk million lunch ability find mom struggle above resist alter beauty";
+var mnemonic = "into seat parrot twenty clip tide save govern soul topic hole release";

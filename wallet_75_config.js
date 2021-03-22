@@ -1,1 +1,1 @@
-var mnemonic = "nasty ahead brick obvious theory logic theory robust elevator tenant maid medal";
+var mnemonic = "course rescue argue beef bleak staff police solid foster pig gun near";

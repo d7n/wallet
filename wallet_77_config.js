@@ -1,1 +1,1 @@
-var mnemonic = "lab crawl piece brave race fame advance eight alley icon behave disagree";
+var mnemonic = "happy opera forward inspire session daring happy shed fame edit famous initial";

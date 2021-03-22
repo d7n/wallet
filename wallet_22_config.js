@@ -1,1 +1,1 @@
-var mnemonic = "admit again myth path scatter report feel praise remain farm panel bag";
+var mnemonic = "general any middle argue cloud latin faint crumble tail guide curtain fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "obey cruise column hold piano wait critic sing dutch donate weasel mixture";
+var mnemonic = "eagle hero cross father treat knee chimney clock ask south punch main";

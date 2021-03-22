@@ -1,1 +1,1 @@
-var mnemonic = "spatial immune blossom vicious unit sauce salad wisdom curious boost bread split";
+var mnemonic = "unknown galaxy drill cram layer crouch glow ecology patrol brother million season";

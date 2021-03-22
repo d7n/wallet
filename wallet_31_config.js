@@ -1,1 +1,1 @@
-var mnemonic = "bind alien derive detect exhaust zero debate false royal ball rare nurse";
+var mnemonic = "drop hen fluid three school push you order moral goddess main toilet";

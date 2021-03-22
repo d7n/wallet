@@ -1,1 +1,1 @@
-var mnemonic = "arrow march oppose float tackle flag dove adapt turtle blind proud weapon";
+var mnemonic = "traffic camp someone close manage inch good ride hip reveal melody math";

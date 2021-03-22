@@ -1,1 +1,1 @@
-var mnemonic = "mule mad junior agent unusual because excuse engage magnet unhappy rotate crash";
+var mnemonic = "bike have winner deny balance unaware bullet fox glory three off youth";

@@ -1,1 +1,1 @@
-var mnemonic = "trust insane regret poet collect tuna method frame cigar scatter swarm grass";
+var mnemonic = "raw rib smoke energy mystery drum orphan crop luxury proud travel pumpkin";

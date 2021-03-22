@@ -1,1 +1,1 @@
-var mnemonic = "sauce cancel welcome aware little glare know orient leaf recycle dose wheat";
+var mnemonic = "decrease conduct yard sphere tongue grace truck chunk token pretty carbon stage";

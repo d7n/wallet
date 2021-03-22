@@ -1,1 +1,1 @@
-var mnemonic = "stuff people tongue mixture strike energy evolve eagle jump canoe cross violin";
+var mnemonic = "trip rib remove index scale erode fatigue bread evidence scan property fat";

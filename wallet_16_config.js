@@ -1,1 +1,1 @@
-var mnemonic = "face giggle minute monster build real kitten vehicle august female pizza slab";
+var mnemonic = "mirror ramp more veteran amused sure gadget puzzle rug budget violin zebra";

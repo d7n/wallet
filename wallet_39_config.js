@@ -1,1 +1,1 @@
-var mnemonic = "polar limit quarter okay clever diesel crater scorpion siren final action link";
+var mnemonic = "bleak harbor tooth gap begin stool just health symptom manual winner master";

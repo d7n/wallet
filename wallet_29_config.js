@@ -1,1 +1,1 @@
-var mnemonic = "inform spot walk sleep chief side account eternal surprise gorilla neutral flip";
+var mnemonic = "melody tortoise away square erupt load lawn genuine travel dismiss artefact pride";

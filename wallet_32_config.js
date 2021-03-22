@@ -1,1 +1,1 @@
-var mnemonic = "develop race essay normal useless must cheap parade cupboard despair smile goat";
+var mnemonic = "baby minimum reason pride box color chimney donkey blind display heavy glue";

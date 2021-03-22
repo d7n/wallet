@@ -1,1 +1,1 @@
-var mnemonic = "genre slam purchase skull rich million stadium undo cycle material math bulb";
+var mnemonic = "add west filter decorate visual cram pole drift equal around erosion tone";

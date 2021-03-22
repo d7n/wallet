@@ -1,1 +1,1 @@
-var mnemonic = "design fuel use balance success multiply life donkey purpose icon gold copy";
+var mnemonic = "scan plunge absurd dilemma soldier trip crash swim fringe service impact weasel";

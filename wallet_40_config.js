@@ -1,1 +1,1 @@
-var mnemonic = "dial inject price whisper comfort flash praise video couch silk endless like";
+var mnemonic = "clever tide around cactus execute arrest demise identify they scare runway confirm";

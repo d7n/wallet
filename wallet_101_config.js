@@ -1,1 +1,1 @@
-var mnemonic = "cash senior clip unable void book garden castle hazard boss cactus govern";
+var mnemonic = "rabbit blade corn comic arch width parrot truth tomato discover bread whip";

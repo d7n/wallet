@@ -1,1 +1,1 @@
-var mnemonic = "rebel banner affair regular maple alarm crisp brown notice allow defense rent";
+var mnemonic = "cat violin main fine club coil loyal actor tape nature believe rare";

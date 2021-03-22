@@ -1,1 +1,1 @@
-var mnemonic = "deal speed neither uncle crazy eight junior aim club tumble total amazing";
+var mnemonic = "foster oak picnic manage unlock maximum thank vast spice tribe rich abuse";

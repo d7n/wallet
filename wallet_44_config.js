@@ -1,1 +1,1 @@
-var mnemonic = "dwarf teach brother develop film woman garbage carry sail iron powder profit";
+var mnemonic = "question relief correct afraid door nurse ski deposit gesture diesel sniff pass";

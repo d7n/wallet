@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon gloom park connect toss bullet card mesh chief combine trial control";
+var mnemonic = "make cloth staff weasel hire public title deputy tattoo prevent nominee drama";

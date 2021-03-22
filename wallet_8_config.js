@@ -1,1 +1,1 @@
-var mnemonic = "neck much clever property occur giant situate slogan distance wine eye tell";
+var mnemonic = "goat junior prefer torch vault language snake craft jewel resist gold usual";

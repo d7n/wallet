@@ -1,1 +1,1 @@
-var mnemonic = "hobby three category excite panda cloth visit fork rhythm burst secret find";
+var mnemonic = "machine knock remove ignore aspect melt waste record surface left leisure bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "gate decade plug total dinner update glance poem notable victory awake cancel";
+var mnemonic = "trick setup rate waste steak tilt knee tilt panda cousin west news";

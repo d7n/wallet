@@ -1,1 +1,1 @@
-var mnemonic = "person nephew leave doctor cream stamp heavy garbage tower attend birth carbon";
+var mnemonic = "fun tenant repeat flag story distance rent own order tuna return own";

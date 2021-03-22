@@ -1,1 +1,1 @@
-var mnemonic = "ill shed grow enlist small wheat world under federal occur net cube";
+var mnemonic = "before pilot offer judge art scissors hint rifle expose hidden output practice";

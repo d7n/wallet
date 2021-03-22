@@ -1,1 +1,1 @@
-var mnemonic = "primary despair artefact nurse hip identify umbrella hurdle cricket horn fatigue west";
+var mnemonic = "awkward asset right ghost guard raise entire isolate tray involve neither cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch category borrow then timber resist sudden session laugh leg alone exhaust";
+var mnemonic = "satisfy life option deposit depth science attack gorilla vote comic purity love";

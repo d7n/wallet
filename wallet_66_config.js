@@ -1,1 +1,1 @@
-var mnemonic = "juice endless twin speak mammal sheriff accident comic bargain fat north gossip";
+var mnemonic = "bright celery genius educate bean liquid craft supply festival broken warfare noise";

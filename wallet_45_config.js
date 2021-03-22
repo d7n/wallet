@@ -1,1 +1,1 @@
-var mnemonic = "stove tuna file very chronic danger crew erupt yellow yard phrase huge";
+var mnemonic = "fault winner system need snow pony debris census blouse stomach ancient ceiling";

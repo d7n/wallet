@@ -1,1 +1,1 @@
-var mnemonic = "dice weather round asthma room skate help tent adjust leader jacket admit";
+var mnemonic = "cover sell tribe manage loud soccer zero mean what act phrase brown";

@@ -1,1 +1,1 @@
-var mnemonic = "history radio million universe bar quality frame athlete game card cradle any";
+var mnemonic = "helmet summer have baby grab fun organ festival tool velvet empty elite";

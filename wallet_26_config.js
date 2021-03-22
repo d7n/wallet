@@ -1,1 +1,1 @@
-var mnemonic = "robust empower sight number gadget potato ozone exhaust faculty spike rose neck";
+var mnemonic = "recycle noodle race wise acquire post mutual fruit venue clock rose dignity";

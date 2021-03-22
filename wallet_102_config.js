@@ -1,1 +1,1 @@
-var mnemonic = "stone shed provide excess region detect often chicken spatial total put sense";
+var mnemonic = "crawl wrist disorder deal lend tuition valve motion simple roast shoulder swap";
