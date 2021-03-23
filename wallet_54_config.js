@@ -1,1 +1,1 @@
-var mnemonic = "job page divide vanish inflict dilemma sick cannon carpet moral antique point";
+var mnemonic = "version iron volume weather plastic lecture december bacon proof fantasy ring will";

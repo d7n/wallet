@@ -1,1 +1,1 @@
-var mnemonic = "october crush jazz leopard junior rate fiscal keen impose spike enjoy foot";
+var mnemonic = "glad obtain peace return awful grain differ puppy rubber naive endorse cradle";

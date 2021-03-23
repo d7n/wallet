@@ -1,1 +1,1 @@
-var mnemonic = "visit abandon mad essence insect helmet hand orient peasant work network chronic";
+var mnemonic = "small autumn benefit spy help tortoise ketchup repair ritual pill thrive ribbon";

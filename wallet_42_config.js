@@ -1,1 +1,1 @@
-var mnemonic = "ostrich debris exhaust govern answer animal exchange monkey capable stadium swallow label";
+var mnemonic = "depth frame learn gauge fiction blur banner win also tool crunch warm";

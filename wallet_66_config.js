@@ -1,1 +1,1 @@
-var mnemonic = "later quantum turtle magic again enact unfold advice slide system solid school";
+var mnemonic = "credit catalog rug taxi across issue soda dice glass taxi pepper flower";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle casual cage gallery quantum truth you kidney stay token agree matter";
+var mnemonic = "dilemma nation pair either brick rival bag rally cover exchange feature ten";

@@ -1,1 +1,1 @@
-var mnemonic = "delay eye loop follow crazy error trust business clarify spike street sketch";
+var mnemonic = "tissue dad vintage reward very symptom borrow muscle spell worry crisp kind";

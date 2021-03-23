@@ -1,1 +1,1 @@
-var mnemonic = "also front suspect achieve unknown other shed scale shift grief trip hip";
+var mnemonic = "glow grant pole produce because material canyon rural birth page salad burst";

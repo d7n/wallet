@@ -1,1 +1,1 @@
-var mnemonic = "brief test chimney wink trim tenant long fragile rail armed lizard stereo";
+var mnemonic = "melody accuse subject man fortune payment between boring battle length swift cry";

@@ -1,1 +1,1 @@
-var mnemonic = "task asthma nothing club feel nice scissors release imitate lazy method chief";
+var mnemonic = "exile nephew monkey describe length matrix fabric attend bunker cabin square vivid";

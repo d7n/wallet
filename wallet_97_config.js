@@ -1,1 +1,1 @@
-var mnemonic = "drop coffee issue pink grass online category clog elite shallow north token";
+var mnemonic = "dad clump symbol short fence famous marine false child clinic truck family";

@@ -1,1 +1,1 @@
-var mnemonic = "season situate final survey run admit bind traffic head tired useful brief";
+var mnemonic = "foster strike angry breeze ski skill arctic obtain prize meadow wise pizza";

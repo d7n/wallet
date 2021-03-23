@@ -1,1 +1,1 @@
-var mnemonic = "suspect turkey scare kangaroo grit gap antenna build illegal develop donkey impose";
+var mnemonic = "cannon zone gown bamboo ride basket secret drum route repair install lyrics";

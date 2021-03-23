@@ -1,1 +1,1 @@
-var mnemonic = "hurdle mammal pen finger mercy aerobic onion kitten segment mountain drop hotel";
+var mnemonic = "wait advice wedding bike exercise situate priority project enemy spot notable tone";

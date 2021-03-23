@@ -1,1 +1,1 @@
-var mnemonic = "wrong sense reward moral defense moon exit improve excuse mouse follow bird";
+var mnemonic = "glimpse wrong screen priority catalog trick cabin gossip cat tuition solve ask";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella uncover leopard term rotate drill boat aim wedding couch fine dumb";
+var mnemonic = "jealous inspire welcome custom rigid uniform wasp excess faculty rose young spend";

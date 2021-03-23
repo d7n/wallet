@@ -1,1 +1,1 @@
-var mnemonic = "ridge rapid check spatial snack citizen into can label hurry cushion virus";
+var mnemonic = "mixed fall approve resist siren winter bullet sun velvet fly picnic embrace";

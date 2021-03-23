@@ -1,1 +1,1 @@
-var mnemonic = "fragile match quick turkey rocket air iron ill advice mail area elephant";
+var mnemonic = "edit involve volume release boil economy kiss snow cactus hospital solution melody";

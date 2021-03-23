@@ -1,1 +1,1 @@
-var mnemonic = "become topple pony scale oxygen prosper remain column luxury attack small carry";
+var mnemonic = "road enough long sting lava kangaroo glimpse wall vibrant aspect summer kind";

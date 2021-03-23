@@ -1,1 +1,1 @@
-var mnemonic = "garment such floor away slow isolate estate fiber dice aware large pepper";
+var mnemonic = "fiction timber slide join sing elite wrap farm make float flavor cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze clog short family embrace west drastic steel puzzle simple grab gold";
+var mnemonic = "deputy diet promote marble volume purse frequent embody critic rib become bomb";

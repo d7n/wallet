@@ -1,1 +1,1 @@
-var mnemonic = "hidden duck artwork comic surge door mountain start keen peace net desk";
+var mnemonic = "caught calm close steak story property elite company labor coral hard object";

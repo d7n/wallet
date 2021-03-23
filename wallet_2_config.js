@@ -1,1 +1,1 @@
-var mnemonic = "void soap pudding nuclear argue ability feed team gun weasel net quantum";
+var mnemonic = "misery denial tobacco achieve tunnel human rubber surround trend abuse twin family";

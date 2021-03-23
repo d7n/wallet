@@ -1,1 +1,1 @@
-var mnemonic = "horse category method robot marriage uncover clock foil chair flat clutch payment";
+var mnemonic = "oxygen shield lemon churn tank staff night history giant again wide borrow";

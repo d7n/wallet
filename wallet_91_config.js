@@ -1,1 +1,1 @@
-var mnemonic = "over dentist rather correct hand infant crime spy radio barely toss frog";
+var mnemonic = "nurse profit impose desert drastic dwarf describe average song mask scene silk";

@@ -1,1 +1,1 @@
-var mnemonic = "high flat idea dad solve ranch mansion ranch siren absent clinic fog";
+var mnemonic = "network canal giant hospital sting hundred dynamic tip spray fix prepare burst";

@@ -1,1 +1,1 @@
-var mnemonic = "actual lucky layer brush error canyon planet forget solar stem similar loud";
+var mnemonic = "alone ethics empty snow chief jelly dwarf multiply cover age bone obtain";

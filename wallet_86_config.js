@@ -1,1 +1,1 @@
-var mnemonic = "among coin kitten spare neglect index same affair undo pencil swamp husband";
+var mnemonic = "neglect awful forget doll cloth oppose child example meat either neck inject";

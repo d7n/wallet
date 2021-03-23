@@ -1,1 +1,1 @@
-var mnemonic = "fantasy team critic anxiety course common marriage river dolphin modify movie forget";
+var mnemonic = "swallow mixture million artist trophy aisle choose crop document local artwork sheriff";

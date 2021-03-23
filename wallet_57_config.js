@@ -1,1 +1,1 @@
-var mnemonic = "minimum acoustic slot talk parent believe hair win profit buddy famous age";
+var mnemonic = "sugar thunder menu fly round pilot theme spare party year clinic state";

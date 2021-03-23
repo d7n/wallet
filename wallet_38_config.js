@@ -1,1 +1,1 @@
-var mnemonic = "green east disorder jacket garbage emotion pumpkin tree near start slot debris";
+var mnemonic = "puzzle club chief defy switch idea cushion cover hold monster wash genius";

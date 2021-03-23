@@ -1,1 +1,1 @@
-var mnemonic = "top ketchup curve hammer they gossip funny square crash height offer perfect";
+var mnemonic = "timber child mercy science sunset hedgehog bridge govern produce tonight maple doctor";

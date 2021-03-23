@@ -1,1 +1,1 @@
-var mnemonic = "wrist wife walk hedgehog social worth rate blame bacon ugly happy kid";
+var mnemonic = "gown split spring shop crawl dumb trap laundry save possible first crash";

@@ -1,1 +1,1 @@
-var mnemonic = "enable album cabin soul original gate trip wish silent female wreck alpha";
+var mnemonic = "net bleak sea bar deer friend close infant grow baby camera gospel";

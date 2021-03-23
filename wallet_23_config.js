@@ -1,1 +1,1 @@
-var mnemonic = "gorilla hybrid parent relax dwarf system clever jealous remove provide guess resist";
+var mnemonic = "remain midnight minute final library photo slender erode boat reunion neutral viable";

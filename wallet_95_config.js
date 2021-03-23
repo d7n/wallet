@@ -1,1 +1,1 @@
-var mnemonic = "pyramid trash issue gun axis marine universe tiny attitude soup chimney hip";
+var mnemonic = "agent guard slush forest victory multiply run learn blossom blossom tone hill";

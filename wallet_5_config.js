@@ -1,1 +1,1 @@
-var mnemonic = "ask wish hybrid fever wall square item gain laugh jaguar poet skate";
+var mnemonic = "vintage broccoli right sister invest phone drill laundry neglect elder sentence fat";

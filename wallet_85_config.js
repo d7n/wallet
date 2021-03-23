@@ -1,1 +1,1 @@
-var mnemonic = "dream anger jeans catalog risk pond wink inject tent change boat oil";
+var mnemonic = "ready grocery ten mandate kangaroo found metal inherit wasp slide isolate stock";

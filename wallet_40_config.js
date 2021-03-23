@@ -1,1 +1,1 @@
-var mnemonic = "label genre practice gift plate glory globe endorse stand knee fiction merit";
+var mnemonic = "top volcano proud bread lonely render school hawk critic identify canyon join";

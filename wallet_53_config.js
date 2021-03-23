@@ -1,1 +1,1 @@
-var mnemonic = "subject secret humor random tomato confirm trophy gorilla eight ripple model foam";
+var mnemonic = "food oblige urban syrup early oven forward glimpse citizen tuna connect panel";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst piece enforce morning holiday shiver interest perfect riot flight poverty area";
+var mnemonic = "inner energy beach peanut fringe vacant idea slam apology grass survey hurry";

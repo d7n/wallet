@@ -1,1 +1,1 @@
-var mnemonic = "change exact cat scare rural debate saddle chest guess detail tongue until";
+var mnemonic = "uncover jeans zone already blouse age green lens remove chalk planet chalk";

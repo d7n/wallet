@@ -1,1 +1,1 @@
-var mnemonic = "meat spray harbor club season effort few destroy mask primary december first";
+var mnemonic = "barrel benefit employ defy clinic million beef afraid leaf castle judge comic";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf hamster review alarm pole mother clap oval cake festival noble element";
+var mnemonic = "depart library huge nice fish illegal gun crew already subway toast enhance";

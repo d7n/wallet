@@ -1,1 +1,1 @@
-var mnemonic = "series eagle sail guide various abandon wild wet beyond film carbon cigar";
+var mnemonic = "globe snack armor sun myth lottery fantasy minor gas advice day chalk";

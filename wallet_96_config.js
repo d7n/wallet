@@ -1,1 +1,1 @@
-var mnemonic = "install dolphin turn follow digital engine gift include three pretty dream curtain";
+var mnemonic = "run toe hotel clump dragon version broken crack tank cry vapor suffer";

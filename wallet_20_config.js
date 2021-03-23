@@ -1,1 +1,1 @@
-var mnemonic = "piano movie cousin rebuild fitness release tunnel humor mail robust kitchen main";
+var mnemonic = "enemy key swing home shrug wish chuckle slab affair circle good scrap";

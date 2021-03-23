@@ -1,1 +1,1 @@
-var mnemonic = "fortune mail tongue employ arrive spread swing ankle neither bid unique gold";
+var mnemonic = "shrug spell eyebrow sight buddy session nut safe mystery attract vessel kick";

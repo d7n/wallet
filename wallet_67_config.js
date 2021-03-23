@@ -1,1 +1,1 @@
-var mnemonic = "glimpse office burden nuclear dilemma cabin dish memory fruit smart motion spider";
+var mnemonic = "voice total badge focus frame live narrow bread alley easily found category";

@@ -1,1 +1,1 @@
-var mnemonic = "token laundry ring crash diesel patient hint cost blind push two galaxy";
+var mnemonic = "favorite neither dynamic air upper guess session notable primary outside accident logic";

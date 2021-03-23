@@ -1,1 +1,1 @@
-var mnemonic = "junior balcony prize tiny lady coin surprise lava mixture obey equip paddle";
+var mnemonic = "identify tide initial warrior cry letter thing mammal excite unhappy deny tennis";

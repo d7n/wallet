@@ -1,1 +1,1 @@
-var mnemonic = "endorse aisle attract length expose affair birth material culture improve snack method";
+var mnemonic = "hurdle soon victory reunion middle hand swarm woman strike strategy peanut magic";

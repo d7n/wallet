@@ -1,1 +1,1 @@
-var mnemonic = "hero maximum become eight artist abandon coconut degree bench saddle cake isolate";
+var mnemonic = "rural capable search pride soul purchase surge light document ship ski book";

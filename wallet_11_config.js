@@ -1,1 +1,1 @@
-var mnemonic = "excite cradle cool jewel punch name slush airport crumble anchor burger pumpkin";
+var mnemonic = "crunch maze jazz march number left name rail multiply visual solid tell";

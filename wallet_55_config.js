@@ -1,1 +1,1 @@
-var mnemonic = "dove arrow fashion woman cable switch kidney rival answer boring assault cinnamon";
+var mnemonic = "avocado blood boil hidden smoke junior copy about suspect annual immense expire";

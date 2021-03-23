@@ -1,1 +1,1 @@
-var mnemonic = "retreat abstract elite giant deer mother energy kitten balcony fancy salad decide";
+var mnemonic = "nest adult box betray cancel decade dog forget bunker coyote purchase evoke";

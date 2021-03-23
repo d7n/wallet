@@ -1,1 +1,1 @@
-var mnemonic = "tonight birth try popular inch night earn bag clerk property unveil sick";
+var mnemonic = "answer timber just fiction spice physical carry rural away busy decorate property";

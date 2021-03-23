@@ -1,1 +1,1 @@
-var mnemonic = "cigar people spoon mask one exotic wear crack scare length pencil abstract";
+var mnemonic = "face novel glass seed august start brother pottery circle help puzzle rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "return mesh symptom alone notice carpet sudden drastic actor still flee poet";
+var mnemonic = "depart laptop loop receive pig local volume okay equip history female ethics";

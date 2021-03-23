@@ -1,1 +1,1 @@
-var mnemonic = "purpose pepper aware joke upper fish move main artefact end pool vote";
+var mnemonic = "camera bracket pledge onion taxi shove age develop clock feel bomb junk";

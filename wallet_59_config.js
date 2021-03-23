@@ -1,1 +1,1 @@
-var mnemonic = "other forum involve badge scan lion dawn spray require honey victory muscle";
+var mnemonic = "ramp hungry february upset deny soldier twist robust brick spell submit high";

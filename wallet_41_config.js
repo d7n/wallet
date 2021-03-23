@@ -1,1 +1,1 @@
-var mnemonic = "neck save stuff original mushroom retire expire awesome sustain violin nut sister";
+var mnemonic = "truly illness example equal certain zebra elbow arrest fatal helmet foam page";

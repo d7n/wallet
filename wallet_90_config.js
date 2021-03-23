@@ -1,1 +1,1 @@
-var mnemonic = "enlist today search fit tent reunion fold cheap check piano invite appear";
+var mnemonic = "reward slot extra erupt gas useless still push avoid write sign hunt";

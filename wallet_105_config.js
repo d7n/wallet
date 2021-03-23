@@ -1,1 +1,1 @@
-var mnemonic = "grunt tribe monkey fiber cloud design taxi ecology budget sister umbrella letter";
+var mnemonic = "nice gentle hungry extra march ancient trend ridge foil reflect family section";

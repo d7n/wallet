@@ -1,1 +1,1 @@
-var mnemonic = "prefer amused fossil liberty small report viable rail depart rebel gift neglect";
+var mnemonic = "eight brisk iron intact together track crisp travel zoo art theme empty";

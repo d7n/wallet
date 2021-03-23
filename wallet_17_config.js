@@ -1,1 +1,1 @@
-var mnemonic = "tiny bounce because item funny owner cliff urban soda earth initial pupil";
+var mnemonic = "swing memory law such connect evoke tide soda nephew demand cherry engage";

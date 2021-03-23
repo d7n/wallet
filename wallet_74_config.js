@@ -1,1 +1,1 @@
-var mnemonic = "smooth rabbit whip dance sentence behave message bomb unit poverty taxi build";
+var mnemonic = "hunt beef buddy prefer satisfy girl air junk love equal vapor employ";

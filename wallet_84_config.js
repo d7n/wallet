@@ -1,1 +1,1 @@
-var mnemonic = "material hint awkward believe gain dice wash bean document fever bind gospel";
+var mnemonic = "minute help income much olive number enact illness aerobic expire bronze essence";

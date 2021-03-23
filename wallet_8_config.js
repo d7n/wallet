@@ -1,1 +1,1 @@
-var mnemonic = "arm thought barrel start suggest wisdom attract taxi neutral balcony gate print";
+var mnemonic = "cat slot another maid inside friend cart vital erosion teach point photo";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth choice tank black patch bring together ghost unable health cancel habit";
+var mnemonic = "oblige decrease joy sugar adjust gym census stairs flush brand furnace host";

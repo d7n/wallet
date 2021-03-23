@@ -1,1 +1,1 @@
-var mnemonic = "embrace item flight rain call range curtain decade still thought toward illness";
+var mnemonic = "erase prize topple upgrade youth ethics try repeat material hedgehog reflect finish";

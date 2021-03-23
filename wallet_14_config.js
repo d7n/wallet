@@ -1,1 +1,1 @@
-var mnemonic = "load vast lunar teach knife kidney betray decide runway welcome armor burst";
+var mnemonic = "prison dove toilet junior embody crash intact honey fan offer vendor video";

@@ -1,1 +1,1 @@
-var mnemonic = "claw crush brave entire employ sure elevator clever access best canal mixture";
+var mnemonic = "live shoot credit pool level poem resist satoshi spoon stool beauty spy";

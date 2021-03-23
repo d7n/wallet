@@ -1,1 +1,1 @@
-var mnemonic = "this wall dizzy brain clap liberty gap such grass height ability twin";
+var mnemonic = "annual truly token symptom crawl casual buffalo wheat evoke luggage endorse praise";

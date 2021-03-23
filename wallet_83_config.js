@@ -1,1 +1,1 @@
-var mnemonic = "nation dinosaur alien wool stove oak apple kiss survey salmon shadow track";
+var mnemonic = "soda ride present average wrist anger satoshi physical hat artefact squeeze maid";

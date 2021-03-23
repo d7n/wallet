@@ -1,1 +1,1 @@
-var mnemonic = "brush program bundle enact void waste mosquito quiz cloud waste faculty faint";
+var mnemonic = "spike finger run leaf make source scissors field pencil august awake kind";

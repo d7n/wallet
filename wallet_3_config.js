@@ -1,1 +1,1 @@
-var mnemonic = "rely runway divorce visit cupboard frame royal like year fold cousin will";
+var mnemonic = "cradle noise dice rally month that reunion skill divorce humble gauge involve";

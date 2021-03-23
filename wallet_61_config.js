@@ -1,1 +1,1 @@
-var mnemonic = "bronze jewel essence pupil pen jazz baby ride federal inform situate leader";
+var mnemonic = "tattoo jungle valid success toddler pond example already season barely zone rabbit";

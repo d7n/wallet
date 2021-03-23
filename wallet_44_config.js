@@ -1,1 +1,1 @@
-var mnemonic = "reflect vivid indicate better tilt state remember owner version dish account ghost";
+var mnemonic = "vanish crime family crack motor crack swing tongue begin stairs anger thought";

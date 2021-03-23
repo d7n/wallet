@@ -1,1 +1,1 @@
-var mnemonic = "siren brief hello funny robot autumn pole demise core inspire jealous obtain";
+var mnemonic = "solution celery sauce post path marble scene help lamp awful patch staff";

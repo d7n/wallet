@@ -1,1 +1,1 @@
-var mnemonic = "omit soon link neck decrease valley romance gun vanish property prefer flower";
+var mnemonic = "bleak tonight hammer hawk trade genre excuse wrist sunset finish another equip";

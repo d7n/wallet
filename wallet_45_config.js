@@ -1,1 +1,1 @@
-var mnemonic = "help hill erupt fluid foil copper shell horror build grief boost screen";
+var mnemonic = "glow divide purchase recipe extra cannon crime room appear indicate warfare shrimp";

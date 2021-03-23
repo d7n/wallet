@@ -1,1 +1,1 @@
-var mnemonic = "august awesome section shove train garden chimney gain pulp verb trophy virtual";
+var mnemonic = "prize fancy dolphin salt crater lawn victory copy leopard divert skirt velvet";

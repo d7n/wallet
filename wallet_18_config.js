@@ -1,1 +1,1 @@
-var mnemonic = "outside rubber case fiber onion tackle news wish tube orange mass various";
+var mnemonic = "skill broken tail deposit tree afford scrap eyebrow raw physical review cart";

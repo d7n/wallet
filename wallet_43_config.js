@@ -1,1 +1,1 @@
-var mnemonic = "space flag strong club connect apology place find hungry fuel inside spot";
+var mnemonic = "farm lumber tongue pond limb hazard document calm average hybrid toe novel";

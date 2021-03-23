@@ -1,1 +1,1 @@
-var mnemonic = "beach push media monitor rack pride skull humble spot sting loyal mad";
+var mnemonic = "open jeans clown clog shuffle tomorrow merit shield bar state advance amount";

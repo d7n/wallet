@@ -1,1 +1,1 @@
-var mnemonic = "almost crouch inform increase dad together globe clap ordinary champion apple endless";
+var mnemonic = "bridge recycle labor solution clarify dumb drink sheriff target eight aerobic west";

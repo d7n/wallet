@@ -1,1 +1,1 @@
-var mnemonic = "rack soldier foil similar net scout relax spice height learn uniform toss";
+var mnemonic = "air fatal trouble echo honey frost jazz honey moon cake dizzy slide";

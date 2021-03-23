@@ -1,1 +1,1 @@
-var mnemonic = "crouch face market diet close document major fruit scissors hat repeat burst";
+var mnemonic = "energy club immense intact engage edge gain essence friend pattern resist broken";

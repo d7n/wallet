@@ -1,1 +1,1 @@
-var mnemonic = "dutch cargo agree speed style bulk fall bid staff arctic injury useful";
+var mnemonic = "basket monitor mobile couple vacant fine hour entry found regret vanish question";

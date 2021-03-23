@@ -1,1 +1,1 @@
-var mnemonic = "eye credit elite organ boss venue warrior entire dune camp bonus jaguar";
+var mnemonic = "submit annual hold canyon adjust thumb neither turtle segment vacuum region year";

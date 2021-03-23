@@ -1,1 +1,1 @@
-var mnemonic = "crunch double above club hard clump acoustic gossip perfect inquiry stereo solve";
+var mnemonic = "skirt brisk blame eagle scare fuel sketch husband chief follow glass common";

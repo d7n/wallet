@@ -1,1 +1,1 @@
-var mnemonic = "embrace sponsor decrease current emerge rescue cute cook demand agree little remove";
+var mnemonic = "traffic taste decorate educate world album casino gospel width purchase decline fog";

@@ -1,1 +1,1 @@
-var mnemonic = "loud antique infant marble mistake broom extra replace strike practice cotton brain";
+var mnemonic = "deputy blouse slot welcome link scout base uncle can limb attend panther";

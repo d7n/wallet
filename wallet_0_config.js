@@ -1,1 +1,1 @@
-var mnemonic = "noodle innocent reform forget mango banana logic peasant fancy hotel smooth excuse";
+var mnemonic = "clinic maple spread way yard favorite image basic puzzle mad arrive saddle";

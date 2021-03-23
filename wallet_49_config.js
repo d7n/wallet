@@ -1,1 +1,1 @@
-var mnemonic = "inch already radar wave between link magnet barrel solar hello visit acoustic";
+var mnemonic = "grit frame witness urge awake gorilla result sunset bread music fresh trend";

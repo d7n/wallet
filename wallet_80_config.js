@@ -1,1 +1,1 @@
-var mnemonic = "path jungle lonely jazz confirm you glue spell inhale atom now grab";
+var mnemonic = "tower slide keep gate profit keen ship aerobic crunch legend parade inflict";
