@@ -1,1 +1,1 @@
-var mnemonic = "uncle hollow correct timber warfare earth give melody pink junk guitar better";
+var mnemonic = "fossil mention ranch pigeon stool ship frost regular fragile birth hour tube";

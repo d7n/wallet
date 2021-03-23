@@ -1,1 +1,1 @@
-var mnemonic = "box half large play bleak chimney guard click movie armor power celery";
+var mnemonic = "board space noise abandon abandon travel frame screen hope cash milk glare";

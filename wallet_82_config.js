@@ -1,1 +1,1 @@
-var mnemonic = "glass home own clump search allow heavy civil now they paddle symbol";
+var mnemonic = "level birth enrich replace okay inflict chicken gaze raven clip service drop";

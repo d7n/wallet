@@ -1,1 +1,1 @@
-var mnemonic = "just reunion awesome cute opinion raise maze whip screen envelope inquiry virus";
+var mnemonic = "true enforce eight brick assault pluck useful arrow diesel device mask floor";

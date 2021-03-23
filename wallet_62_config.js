@@ -1,1 +1,1 @@
-var mnemonic = "deer sentence birth until topple rather office scheme speak nothing carry daring";
+var mnemonic = "mom arrest half size cricket cube captain east enroll spawn glance turn";

@@ -1,1 +1,1 @@
-var mnemonic = "box erosion lion teach next jelly harbor resemble quote arrow protect hockey";
+var mnemonic = "tag cycle aspect burden lab lawn truth say degree reward hip future";

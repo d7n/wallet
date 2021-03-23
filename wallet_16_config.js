@@ -1,1 +1,1 @@
-var mnemonic = "craft tail early path swamp what stable traffic teach wash river rain";
+var mnemonic = "slam slush kangaroo any mean cannon large gravity banana alert engine artefact";

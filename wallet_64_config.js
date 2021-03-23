@@ -1,1 +1,1 @@
-var mnemonic = "lion seat anxiety tuna strong left express asthma fatigue tissue robust fabric";
+var mnemonic = "where detect behind proud another mind middle case upgrade little word turkey";

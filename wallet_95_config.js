@@ -1,1 +1,1 @@
-var mnemonic = "swing stick polar symbol link fat evil primary private tribe glass start";
+var mnemonic = "deliver tool network either inch nut upgrade green orphan tooth student water";

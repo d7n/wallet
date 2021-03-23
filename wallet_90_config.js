@@ -1,1 +1,1 @@
-var mnemonic = "galaxy total exclude guess hollow rival pigeon deliver pumpkin giraffe embark talk";
+var mnemonic = "common thought bulk yard retreat tribe plug popular liquid scene upper zoo";

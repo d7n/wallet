@@ -1,1 +1,1 @@
-var mnemonic = "morning believe tag awake snow dawn welcome trouble valid crunch sure crucial";
+var mnemonic = "prefer debris swing father organ frame desk lunar remain crack scorpion learn";

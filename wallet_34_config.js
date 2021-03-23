@@ -1,1 +1,1 @@
-var mnemonic = "blanket hard gasp garage ordinary poverty ripple scene undo library crew sand";
+var mnemonic = "chunk client thrive satoshi pumpkin magnet reward library surround tunnel tomato outside";

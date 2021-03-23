@@ -1,1 +1,1 @@
-var mnemonic = "boat input solution raw cash cricket subject shiver today review avocado hope";
+var mnemonic = "useless tone bring describe broken tuna food broom awful logic tongue please";

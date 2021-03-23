@@ -1,1 +1,1 @@
-var mnemonic = "slow stomach stone spell person wonder rifle legal soda pottery apology dad";
+var mnemonic = "mixture between mother grass intact evidence diesel place hello leisure song naive";

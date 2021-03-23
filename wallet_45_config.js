@@ -1,1 +1,1 @@
-var mnemonic = "express flight spider cloud oyster cart transfer scale broom spare frown spawn";
+var mnemonic = "advice walnut mix usual dress black manual federal sun close hour salt";

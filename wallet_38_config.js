@@ -1,1 +1,1 @@
-var mnemonic = "master hungry judge bitter warfare among debate click wear soft vintage concert";
+var mnemonic = "switch tuna enough void rabbit trust speak eagle shine disagree call cannon";

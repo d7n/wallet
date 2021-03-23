@@ -1,1 +1,1 @@
-var mnemonic = "sure notice swap ghost believe west style between office rib undo wire";
+var mnemonic = "image citizen mimic prize apple cradle trim region boss label like job";

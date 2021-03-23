@@ -1,1 +1,1 @@
-var mnemonic = "letter give wear push slim inquiry wrong slim dilemma raccoon road describe";
+var mnemonic = "cousin scrub typical silly oblige lamp rail industry unfold short harbor dwarf";

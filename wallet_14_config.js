@@ -1,1 +1,1 @@
-var mnemonic = "venture wheel lesson swallow defy attitude legal hello evoke message stamp piece";
+var mnemonic = "gesture property trap system bulb olive sick elephant cherry item sing melt";

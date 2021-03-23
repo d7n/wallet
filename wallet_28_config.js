@@ -1,1 +1,1 @@
-var mnemonic = "junk deliver jar blossom horse change pride will produce denial upper stool";
+var mnemonic = "paddle other fun leave shock table minor divert doctor pistol crane click";

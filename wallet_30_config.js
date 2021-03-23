@@ -1,1 +1,1 @@
-var mnemonic = "security system group chef luxury ski popular author hip popular kick minor";
+var mnemonic = "pen wreck meadow account lyrics depth marriage ensure pupil sponsor melody tag";

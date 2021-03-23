@@ -1,1 +1,1 @@
-var mnemonic = "walnut exotic toss diesel supply coconut evil net pistol near fork pledge";
+var mnemonic = "dad cage swap home pony recipe swallow torch suspect mushroom wire health";

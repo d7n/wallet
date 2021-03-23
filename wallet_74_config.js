@@ -1,1 +1,1 @@
-var mnemonic = "brother spin attract report vicious episode endless upon bunker speed arch collect";
+var mnemonic = "ski monkey tray also now beef blur prosper equal exist wash paddle";

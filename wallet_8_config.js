@@ -1,1 +1,1 @@
-var mnemonic = "nasty keen valve strategy blue jeans velvet pilot soap trophy castle various";
+var mnemonic = "trash fee wrist phrase crush spoil rebel portion federal please dress rally";

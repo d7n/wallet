@@ -1,1 +1,1 @@
-var mnemonic = "reveal payment innocent lock puzzle level sentence bundle click fault hero field";
+var mnemonic = "art endorse quality shop brand live inch hurdle dawn miss among forget";

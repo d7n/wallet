@@ -1,1 +1,1 @@
-var mnemonic = "forget hammer copy liquid cycle train grass warm void occur ribbon film";
+var mnemonic = "work current surge sport notice meat pizza high reform obvious family top";

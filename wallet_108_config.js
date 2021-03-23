@@ -1,1 +1,1 @@
-var mnemonic = "illegal roof hope word calm total smile alcohol nasty two math speed";
+var mnemonic = "crumble edge bronze come draw occur print social during sphere vessel solid";

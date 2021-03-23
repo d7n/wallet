@@ -1,1 +1,1 @@
-var mnemonic = "agree trophy raven joke pet off magnet remove erase public buffalo open";
+var mnemonic = "during hamster final bunker avoid ignore canoe govern hungry mention evoke tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "fork youth ocean become purity fortune gorilla water torch fee license exist";
+var mnemonic = "laundry surprise bicycle song refuse life repeat symptom inquiry bone frozen impact";

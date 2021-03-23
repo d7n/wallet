@@ -1,1 +1,1 @@
-var mnemonic = "brisk cause can black other level regular upon limb clap tent hair";
+var mnemonic = "nuclear together theme fresh want joy earth error between scrap voyage roast";

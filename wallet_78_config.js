@@ -1,1 +1,1 @@
-var mnemonic = "stairs bulk tonight photo load joy faculty wild deliver comic wrist mushroom";
+var mnemonic = "bulb jewel economy option luxury bless equal cheese behave furnace table enrich";

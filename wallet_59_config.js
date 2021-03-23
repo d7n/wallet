@@ -1,1 +1,1 @@
-var mnemonic = "impose slow actor upset device cradle invest tornado spatial sweet quick bright";
+var mnemonic = "office carry auction erase business defy grunt base desert aspect path figure";

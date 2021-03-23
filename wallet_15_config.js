@@ -1,1 +1,1 @@
-var mnemonic = "witness race glad option much over energy social indicate vague weird jewel";
+var mnemonic = "motor ketchup gasp gym key purchase trip crumble expand appear elder control";

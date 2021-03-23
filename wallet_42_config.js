@@ -1,1 +1,1 @@
-var mnemonic = "giggle enrich until absorb interest lawn service february evoke delay level skate";
+var mnemonic = "curious leopard infant turkey beach pact tired early gold sense useful soldier";

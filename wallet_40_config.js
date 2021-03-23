@@ -1,1 +1,1 @@
-var mnemonic = "adult heart loyal guitar outer grunt refuse caught base myself flash pottery";
+var mnemonic = "motion distance scatter real kind celery civil easy permit budget candy settle";

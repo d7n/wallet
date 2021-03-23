@@ -1,1 +1,1 @@
-var mnemonic = "wash matrix result since mail inner cycle immune swap wink call horn";
+var mnemonic = "combine forward chalk throw old enforce shadow volume energy hotel autumn exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "speed merry secret universe ski myth rigid slogan evoke decorate catch practice";
+var mnemonic = "uniform bounce figure provide possible identify panic error fall scheme sock cattle";

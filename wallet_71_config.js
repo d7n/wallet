@@ -1,1 +1,1 @@
-var mnemonic = "ghost air forest fiber menu option across bonus later hunt brief fortune";
+var mnemonic = "scene trouble vicious trick genuine once false salon rent limit mask deliver";

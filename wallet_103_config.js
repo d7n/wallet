@@ -1,1 +1,1 @@
-var mnemonic = "below era embrace bone heart butter come time ridge heavy good example";
+var mnemonic = "huge trash doll human index refuse mask gap issue close dance magnet";

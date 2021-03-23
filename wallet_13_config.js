@@ -1,1 +1,1 @@
-var mnemonic = "found chaos setup scorpion middle range about engage forum mule winter option";
+var mnemonic = "vacant truth merit garden cat wage share school income sunny solar assault";

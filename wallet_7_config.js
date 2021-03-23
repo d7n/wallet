@@ -1,1 +1,1 @@
-var mnemonic = "sorry kitten horn cloth topple sure race involve portion enough asthma section";
+var mnemonic = "february elite clump cart catalog radio cinnamon mean abuse weasel apology retire";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo mushroom leopard arrive egg across reject icon cost behind tail expire";
+var mnemonic = "diary source episode pepper frown tumble thing fat edge dog mean simple";

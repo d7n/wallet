@@ -1,1 +1,1 @@
-var mnemonic = "visual rally corn bicycle heart symbol suit soldier achieve wheel cupboard enforce";
+var mnemonic = "between pet screen target arrive avocado wood trophy polar salt arm rely";

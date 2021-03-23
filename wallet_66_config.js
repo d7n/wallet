@@ -1,1 +1,1 @@
-var mnemonic = "inner angle tissue add essay property spread grape autumn around genre unusual";
+var mnemonic = "tissue black render emotion jazz maid unusual bracket rival primary later unable";

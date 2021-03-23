@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon awkward recycle mail delay like impose any mix liquid galaxy chicken";
+var mnemonic = "pond bamboo wing pave wave fat toast labor lamp siren fee apple";

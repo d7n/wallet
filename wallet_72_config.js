@@ -1,1 +1,1 @@
-var mnemonic = "rapid steak wife pet style air engage empty hip dust predict betray";
+var mnemonic = "sell limit about critic crowd wire tribe sample mad token six west";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic fabric summer aisle pudding tape tornado radio surprise spike elephant false";
+var mnemonic = "stumble solid topic door prosper arrange frame pulse twist machine sound typical";

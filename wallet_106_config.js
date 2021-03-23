@@ -1,1 +1,1 @@
-var mnemonic = "brush engage health trigger estate okay where december border snake shell battle";
+var mnemonic = "off board raise rhythm small devote column wagon choose box desert ceiling";

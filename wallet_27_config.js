@@ -1,1 +1,1 @@
-var mnemonic = "monster monitor start hidden wet tape helmet illness throw unhappy fence super";
+var mnemonic = "zero rate notice identify unfold find budget sense live celery impulse sport";

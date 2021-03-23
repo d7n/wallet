@@ -1,1 +1,1 @@
-var mnemonic = "pilot box win claim fault owner misery pause income park picnic crew";
+var mnemonic = "common team among trust reunion carpet entry toward regret coyote child diary";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo sentence two reopen immune million food law fine town clarify fitness";
+var mnemonic = "trial very foot shove poem answer sunset cook scrub reform nest reform";

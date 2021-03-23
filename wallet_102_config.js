@@ -1,1 +1,1 @@
-var mnemonic = "drop crazy thank pride quarter filter economy immense must practice garbage liquid";
+var mnemonic = "involve wait alarm slender heavy renew trigger orchard gain suggest cheese swift";

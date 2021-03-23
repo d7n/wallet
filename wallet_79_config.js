@@ -1,1 +1,1 @@
-var mnemonic = "giant nation flight solid inherit mouse dawn brain rule pupil sword record";
+var mnemonic = "promote rose rabbit destroy what outer dinner worry confirm own announce add";

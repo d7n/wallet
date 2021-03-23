@@ -1,1 +1,1 @@
-var mnemonic = "silver midnight skin fee match flock aspect kidney height afraid thrive police";
+var mnemonic = "jump junk present fee bottom anxiety afraid depart shoulder fix donkey flavor";

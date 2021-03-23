@@ -1,1 +1,1 @@
-var mnemonic = "monkey goose rent appear doll olive prevent crazy addict east once matter";
+var mnemonic = "silly turn man bench vendor baby expect economy drill amount cattle involve";

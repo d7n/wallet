@@ -1,1 +1,1 @@
-var mnemonic = "tilt vanish giraffe mention license diesel state screen apple song rookie auto";
+var mnemonic = "twice attitude light duck knock neck flip penalty defy later name school";

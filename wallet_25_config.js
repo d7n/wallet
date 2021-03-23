@@ -1,1 +1,1 @@
-var mnemonic = "dove rug rough anxiety comic jewel brown grocery alien apology fork lens";
+var mnemonic = "absurd alien farm camera bulb layer economy error fancy obscure upon range";

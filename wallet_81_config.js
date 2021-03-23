@@ -1,1 +1,1 @@
-var mnemonic = "select close apology catalog embody crime impose march sniff fiber gentle hat";
+var mnemonic = "reason process loyal swim innocent unknown fatigue unusual faith salon bulk victory";

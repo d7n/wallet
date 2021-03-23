@@ -1,1 +1,1 @@
-var mnemonic = "mule coast process monkey joy item present abuse tongue supply skate matter";
+var mnemonic = "mention confirm vibrant there photo cause subject permit modify bounce rather popular";

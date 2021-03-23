@@ -1,1 +1,1 @@
-var mnemonic = "voice shuffle sponsor easily state popular strike doctor ability arrow need produce";
+var mnemonic = "multiply fine cute off state bag expose inner ahead plunge gather eye";

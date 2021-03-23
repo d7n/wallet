@@ -1,1 +1,1 @@
-var mnemonic = "cart street absorb evil pause chalk search awful alert high rather body";
+var mnemonic = "marble address deposit snake impact drink matter pizza tube attend verify jeans";

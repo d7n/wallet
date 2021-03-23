@@ -1,1 +1,1 @@
-var mnemonic = "core illness owner foil front clinic tilt venue focus foam slow ribbon";
+var mnemonic = "pumpkin subject hunt entry noble under width crowd minimum zoo message knife";

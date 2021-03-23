@@ -1,1 +1,1 @@
-var mnemonic = "emerge dog gospel business original drift music penalty cancel penalty drift pottery";
+var mnemonic = "joke flat marriage cross extend finish arrest laugh settle exit allow alcohol";

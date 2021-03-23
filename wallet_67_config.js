@@ -1,1 +1,1 @@
-var mnemonic = "polar female online gather brown sentence gloom title brand shy clock color";
+var mnemonic = "message sweet select traffic faint marriage boy anxiety theme sphere allow guess";

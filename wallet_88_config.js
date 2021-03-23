@@ -1,1 +1,1 @@
-var mnemonic = "mail nominee surge cross fluid learn luxury naive deny neck throw card";
+var mnemonic = "stomach else ticket lake carry panda board glue worry economy eight mule";

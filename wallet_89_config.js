@@ -1,1 +1,1 @@
-var mnemonic = "error electric cage aim tennis settle fashion wedding stage brother slam clap";
+var mnemonic = "tell noodle suit debate salad place melody cheese claim frequent fatigue wheat";

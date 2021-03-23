@@ -1,1 +1,1 @@
-var mnemonic = "valve term priority warfare grunt sugar laugh praise type wild arena powder";
+var mnemonic = "more twice sleep bless great balance forget alpha artefact web trick iron";

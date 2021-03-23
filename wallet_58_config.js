@@ -1,1 +1,1 @@
-var mnemonic = "series special saddle churn normal fat step cube find turtle doctor discover";
+var mnemonic = "post hurt finger december belt kit dignity short cruel miss ridge orphan";

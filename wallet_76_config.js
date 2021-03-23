@@ -1,1 +1,1 @@
-var mnemonic = "assault helmet frog smart around cause shy ensure enforce gym drill prosper";
+var mnemonic = "boost hawk shop fatigue trouble dumb agent bright chase million vehicle plate";

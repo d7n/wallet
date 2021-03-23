@@ -1,1 +1,1 @@
-var mnemonic = "tumble unlock rescue warm object leg erosion during eye foil priority perfect";
+var mnemonic = "bridge replace above pupil country uncover borrow helmet gesture box royal frost";

@@ -1,1 +1,1 @@
-var mnemonic = "basic enact hour resist juice planet wage vague flame color snap have";
+var mnemonic = "strike scout habit minor culture caution yard tray slim boil bag old";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff popular artist insect bicycle giraffe destroy lawn whip fit twenty action";
+var mnemonic = "boost lecture planet engage olympic grunt load evoke metal dash ride boy";

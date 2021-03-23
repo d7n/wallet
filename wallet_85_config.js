@@ -1,1 +1,1 @@
-var mnemonic = "laptop worth accuse forward ginger fiscal message speak venue orbit supreme remind";
+var mnemonic = "token foam space tube improve laugh obvious hurdle anger run emerge already";

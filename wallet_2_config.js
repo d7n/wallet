@@ -1,1 +1,1 @@
-var mnemonic = "plate miss wait rescue salad thank ridge maid foster inch wife whale";
+var mnemonic = "fold ticket visa style today pave rotate honey bag pipe hammer other";

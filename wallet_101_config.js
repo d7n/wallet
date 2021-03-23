@@ -1,1 +1,1 @@
-var mnemonic = "limb sentence amateur pause release lesson auction stage extend coil slot unfold";
+var mnemonic = "when rescue clap owner transfer improve morning code taste fiber enhance point";

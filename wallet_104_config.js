@@ -1,1 +1,1 @@
-var mnemonic = "october fix loyal chicken jaguar jacket warrior believe whale eagle version control";
+var mnemonic = "recipe until pyramid negative sunset lottery belt bring degree defy glad normal";

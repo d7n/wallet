@@ -1,1 +1,1 @@
-var mnemonic = "friend trim vital food maze physical answer outside brave balcony valley jaguar";
+var mnemonic = "grass empty grunt wisdom city romance dizzy file mask draw crop warfare";

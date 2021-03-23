@@ -1,1 +1,1 @@
-var mnemonic = "chicken pudding venue nut lawn adult hollow drip doctor safe skull hockey";
+var mnemonic = "twist vintage unfair success resemble power school silly install clutch forward repeat";

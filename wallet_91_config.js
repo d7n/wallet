@@ -1,1 +1,1 @@
-var mnemonic = "bird west flavor elite tuna utility nothing regular hurry start lonely snack";
+var mnemonic = "also coffee debris blind act income assault bitter element addict lens magnet";

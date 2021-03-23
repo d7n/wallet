@@ -1,1 +1,1 @@
-var mnemonic = "tilt drama fish midnight salt knife page spoil once dinosaur hip plastic";
+var mnemonic = "math hair aerobic invite stock unaware early globe message piece economy universe";

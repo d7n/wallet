@@ -1,1 +1,1 @@
-var mnemonic = "lounge cream human luggage conduct exotic predict text candy grass genre live";
+var mnemonic = "letter nation promote suggest skate harsh odor drastic pair math hard dinosaur";

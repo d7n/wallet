@@ -1,1 +1,1 @@
-var mnemonic = "elbow meadow glance drift minimum ethics pass innocent subway meadow farm seek";
+var mnemonic = "leader erase permit canvas oil quality other misery happy spend scrap fault";

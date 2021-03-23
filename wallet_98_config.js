@@ -1,1 +1,1 @@
-var mnemonic = "farm easy upgrade spawn control educate describe science advance asset unveil audit";
+var mnemonic = "exhibit people smoke tennis soccer soup stuff concert type boring elevator vacuum";

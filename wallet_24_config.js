@@ -1,1 +1,1 @@
-var mnemonic = "supply air region neither good electric mixed control draft oxygen carpet liberty";
+var mnemonic = "amateur winter current dismiss ring toss reunion calm pretty update season beef";

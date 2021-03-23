@@ -1,1 +1,1 @@
-var mnemonic = "lizard side level priority defy mercy hazard gorilla shoot frown chronic ugly";
+var mnemonic = "dust rifle dolphin obey dust luggage window ignore company badge always suffer";

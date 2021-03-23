@@ -1,1 +1,1 @@
-var mnemonic = "like evoke annual high elephant typical chat unit paper antique shaft update";
+var mnemonic = "gate tornado kick hockey luggage legend globe wrestle carpet garment flight salt";

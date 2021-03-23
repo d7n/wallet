@@ -1,1 +1,1 @@
-var mnemonic = "bridge win angle novel paper soldier color noise wish stuff company cricket";
+var mnemonic = "pistol lemon huge submit salad icon pool cactus maximum audit meat moon";

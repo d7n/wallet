@@ -1,1 +1,1 @@
-var mnemonic = "hub lonely note connect ball proof cash awful federal foster gas expire";
+var mnemonic = "bounce public shine general inner regret fine captain valley quick donor young";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic jazz slight multiply unlock volume room swing arena today magic cycle";
+var mnemonic = "pass coral mango mind act thank key fit toddler trial spoon funny";

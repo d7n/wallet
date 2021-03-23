@@ -1,1 +1,1 @@
-var mnemonic = "dance attack devote october bracket concert possible spray era dinosaur first funny";
+var mnemonic = "display bubble fortune radar damage divide limit cup balcony addict summer rally";
