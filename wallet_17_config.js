@@ -1,1 +1,1 @@
-var mnemonic = "fog crystal attract vessel exhaust thumb text group toe apart lawsuit recipe";
+var mnemonic = "chicken pudding venue nut lawn adult hollow drip doctor safe skull hockey";

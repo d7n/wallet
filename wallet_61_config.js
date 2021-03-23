@@ -1,1 +1,1 @@
-var mnemonic = "reveal subject melt session dream royal surprise salt seek transfer enlist conduct";
+var mnemonic = "tilt vanish giraffe mention license diesel state screen apple song rookie auto";

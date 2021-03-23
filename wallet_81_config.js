@@ -1,1 +1,1 @@
-var mnemonic = "call swear mom congress jealous style cushion medal sorry flame goose nerve";
+var mnemonic = "select close apology catalog embody crime impose march sniff fiber gentle hat";

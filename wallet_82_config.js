@@ -1,1 +1,1 @@
-var mnemonic = "essay friend correct motion supreme curtain aim melody control welcome jacket pledge";
+var mnemonic = "glass home own clump search allow heavy civil now they paddle symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "loop ball entire wonder abuse purpose behind list radio frown skirt acoustic";
+var mnemonic = "buffalo mushroom leopard arrive egg across reject icon cost behind tail expire";

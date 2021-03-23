@@ -1,1 +1,1 @@
-var mnemonic = "enter sick girl youth sunset hand general proud door electric liquid occur";
+var mnemonic = "brick legend farm airport quote tobacco unfold idle primary draw arctic smile";

@@ -1,1 +1,1 @@
-var mnemonic = "denial crop guitar mountain rack bird believe still exist tenant charge glory";
+var mnemonic = "stairs bulk tonight photo load joy faculty wild deliver comic wrist mushroom";

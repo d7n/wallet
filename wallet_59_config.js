@@ -1,1 +1,1 @@
-var mnemonic = "actor spider general three sadness swim gas dawn salon involve leg lamp";
+var mnemonic = "impose slow actor upset device cradle invest tornado spatial sweet quick bright";

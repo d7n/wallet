@@ -1,1 +1,1 @@
-var mnemonic = "hint virtual theory shadow huge code disagree mention undo rally sell add";
+var mnemonic = "error electric cage aim tennis settle fashion wedding stage brother slam clap";

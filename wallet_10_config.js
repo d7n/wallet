@@ -1,1 +1,1 @@
-var mnemonic = "tornado battle lottery slogan believe bicycle network priority round april obvious game";
+var mnemonic = "walnut exotic toss diesel supply coconut evil net pistol near fork pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "error input wood vibrant stock scene convince lift shrug monitor bleak grace";
+var mnemonic = "morning believe tag awake snow dawn welcome trouble valid crunch sure crucial";

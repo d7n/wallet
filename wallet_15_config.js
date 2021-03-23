@@ -1,1 +1,1 @@
-var mnemonic = "speed dad virus sun wife swarm ankle skull govern electric increase mix";
+var mnemonic = "witness race glad option much over energy social indicate vague weird jewel";

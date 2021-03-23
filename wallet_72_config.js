@@ -1,1 +1,1 @@
-var mnemonic = "desk shoe keep explain force ethics bring alcohol robust frame actress lizard";
+var mnemonic = "rapid steak wife pet style air engage empty hip dust predict betray";

@@ -1,1 +1,1 @@
-var mnemonic = "remind dance sound consider joke flower goose hybrid push injury vote guess";
+var mnemonic = "junk deliver jar blossom horse change pride will produce denial upper stool";

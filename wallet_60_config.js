@@ -1,1 +1,1 @@
-var mnemonic = "wrist rotate joke cabin avocado comic egg accident great camera scheme noise";
+var mnemonic = "box half large play bleak chimney guard click movie armor power celery";

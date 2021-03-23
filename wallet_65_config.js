@@ -1,1 +1,1 @@
-var mnemonic = "outside sketch mom all law rabbit symbol brother wrestle menu harbor defy";
+var mnemonic = "attitude flat model wide attract grant mule idle dismiss balance prefer mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "burst error mention artwork deal tape space magnet modify ethics fresh right";
+var mnemonic = "polar female online gather brown sentence gloom title brand shy clock color";

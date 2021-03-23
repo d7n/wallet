@@ -1,1 +1,1 @@
-var mnemonic = "cute borrow license dirt error decorate fruit trust culture define base quiz";
+var mnemonic = "tilt drama fish midnight salt knife page spoil once dinosaur hip plastic";

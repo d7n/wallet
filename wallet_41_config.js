@@ -1,1 +1,1 @@
-var mnemonic = "emotion camera melody record cream vapor trap plunge cash east asset hunt";
+var mnemonic = "uncle hollow correct timber warfare earth give melody pink junk guitar better";

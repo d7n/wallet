@@ -1,1 +1,1 @@
-var mnemonic = "spray broom side simple monitor grain bean baby farm jaguar common usual";
+var mnemonic = "aerobic jazz slight multiply unlock volume room swing arena today magic cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "inch radio celery again spoon fix gloom person puppy curtain march cable";
+var mnemonic = "tonight gauge cube spray front lawsuit guard try friend rally check entry";

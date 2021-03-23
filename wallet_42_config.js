@@ -1,1 +1,1 @@
-var mnemonic = "young discover verb fall famous file tuition pond wage forum head view";
+var mnemonic = "giggle enrich until absorb interest lawn service february evoke delay level skate";

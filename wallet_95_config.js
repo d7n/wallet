@@ -1,1 +1,1 @@
-var mnemonic = "law leopard balcony strategy horn ripple slim come horn purse ostrich marriage";
+var mnemonic = "swing stick polar symbol link fat evil primary private tribe glass start";

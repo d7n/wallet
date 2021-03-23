@@ -1,1 +1,1 @@
-var mnemonic = "master bubble boil ahead castle zero rigid tourist rain slab burst pledge";
+var mnemonic = "fork youth ocean become purity fortune gorilla water torch fee license exist";

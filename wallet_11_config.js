@@ -1,1 +1,1 @@
-var mnemonic = "balcony live dial define dinosaur shell soldier describe depth toilet favorite describe";
+var mnemonic = "mule coast process monkey joy item present abuse tongue supply skate matter";

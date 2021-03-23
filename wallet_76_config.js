@@ -1,1 +1,1 @@
-var mnemonic = "tissue prison toddler buddy pen picnic movie curve design noise violin bone";
+var mnemonic = "assault helmet frog smart around cause shy ensure enforce gym drill prosper";

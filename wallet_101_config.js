@@ -1,1 +1,1 @@
-var mnemonic = "sniff wool kingdom sketch fish long sister lawn box among runway below";
+var mnemonic = "limb sentence amateur pause release lesson auction stage extend coil slot unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "away mimic tuition pig creek knee tunnel list bless ketchup initial pizza";
+var mnemonic = "spy when hover sugar thing picnic survey cloth dolphin staff magnet lava";

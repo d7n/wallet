@@ -1,1 +1,1 @@
-var mnemonic = "thing arctic museum canal inch venue symbol metal vibrant phrase across priority";
+var mnemonic = "near drive day gravity pride dose wheel hero sphere pear harbor expire";

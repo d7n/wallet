@@ -1,1 +1,1 @@
-var mnemonic = "hard chimney hurry plate flee village hub result novel canvas direct wheat";
+var mnemonic = "box erosion lion teach next jelly harbor resemble quote arrow protect hockey";

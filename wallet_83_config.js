@@ -1,1 +1,1 @@
-var mnemonic = "ugly more ribbon pond usual rough scan fiction move recall wall away";
+var mnemonic = "acquire door blind prevent point scatter fog dinner faint chef cotton wage";

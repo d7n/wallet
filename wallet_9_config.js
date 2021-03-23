@@ -1,1 +1,1 @@
-var mnemonic = "uncle author endless bright place disagree lift hamster spice athlete clever shy";
+var mnemonic = "voice shuffle sponsor easily state popular strike doctor ability arrow need produce";

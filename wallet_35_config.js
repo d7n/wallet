@@ -1,1 +1,1 @@
-var mnemonic = "blouse sell wing bubble cram text extra ocean shy track skin curve";
+var mnemonic = "pilot box win claim fault owner misery pause income park picnic crew";

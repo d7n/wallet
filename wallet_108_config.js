@@ -1,1 +1,1 @@
-var mnemonic = "address enlist video siren rib demand cupboard depart ten describe craft away";
+var mnemonic = "illegal roof hope word calm total smile alcohol nasty two math speed";

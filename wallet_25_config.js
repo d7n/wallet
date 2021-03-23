@@ -1,1 +1,1 @@
-var mnemonic = "borrow jump bread pony this father jump festival heart man virtual erosion";
+var mnemonic = "dove rug rough anxiety comic jewel brown grocery alien apology fork lens";

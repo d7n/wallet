@@ -1,1 +1,1 @@
-var mnemonic = "permit target clay toe inform clown glad leader laundry indicate slice gallery";
+var mnemonic = "below era embrace bone heart butter come time ridge heavy good example";

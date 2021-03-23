@@ -1,1 +1,1 @@
-var mnemonic = "shiver powder engage bulb door unusual clown cabin churn jeans ramp clog";
+var mnemonic = "giant nation flight solid inherit mouse dawn brain rule pupil sword record";

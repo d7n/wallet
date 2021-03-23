@@ -1,1 +1,1 @@
-var mnemonic = "sustain expose mixed economy you aim shallow north envelope civil where strategy";
+var mnemonic = "laptop worth accuse forward ginger fiscal message speak venue orbit supreme remind";

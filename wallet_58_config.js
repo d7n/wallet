@@ -1,1 +1,1 @@
-var mnemonic = "foil pepper fee rely occur elevator suggest book cereal vivid talent source";
+var mnemonic = "series special saddle churn normal fat step cube find turtle doctor discover";

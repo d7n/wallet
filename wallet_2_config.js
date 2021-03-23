@@ -1,1 +1,1 @@
-var mnemonic = "wrestle tiger brisk noodle shop toddler shiver spot expose robust grid crack";
+var mnemonic = "plate miss wait rescue salad thank ridge maid foster inch wife whale";

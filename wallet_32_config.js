@@ -1,1 +1,1 @@
-var mnemonic = "impulse dumb recipe benefit entry near maple foil hammer crush situate spring";
+var mnemonic = "boat input solution raw cash cricket subject shiver today review avocado hope";

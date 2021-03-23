@@ -1,1 +1,1 @@
-var mnemonic = "acid hat ill disorder onion melt prefer fee all they gym tumble";
+var mnemonic = "forget hammer copy liquid cycle train grass warm void occur ribbon film";

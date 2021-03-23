@@ -1,1 +1,1 @@
-var mnemonic = "dirt cook amused word film narrow worry nothing water age cotton sunset";
+var mnemonic = "slow stomach stone spell person wonder rifle legal soda pottery apology dad";

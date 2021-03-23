@@ -1,1 +1,1 @@
-var mnemonic = "drip affair action topple client visa unaware trend receive squeeze mercy wine";
+var mnemonic = "soap fabric volume stereo brisk episode ladder valley sorry glance tape index";

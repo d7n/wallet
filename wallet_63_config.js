@@ -1,1 +1,1 @@
-var mnemonic = "balcony hospital claim gate blossom general feature flash direct cram sort height";
+var mnemonic = "friend trim vital food maze physical answer outside brave balcony valley jaguar";

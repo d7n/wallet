@@ -1,1 +1,1 @@
-var mnemonic = "boil ready table net member toss trial much slot parade valve enhance";
+var mnemonic = "fame patient digital develop fish can crop like taxi middle surge car";

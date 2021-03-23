@@ -1,1 +1,1 @@
-var mnemonic = "rally boil liberty earn merge enter stuff above auction street gadget tell";
+var mnemonic = "cart street absorb evil pause chalk search awful alert high rather body";

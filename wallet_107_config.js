@@ -1,1 +1,1 @@
-var mnemonic = "goat armed hero flock benefit ribbon monkey surround message already super thought";
+var mnemonic = "cinnamon awkward recycle mail delay like impose any mix liquid galaxy chicken";

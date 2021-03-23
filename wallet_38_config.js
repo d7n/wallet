@@ -1,1 +1,1 @@
-var mnemonic = "under lunar useful kiwi fence stem anger fun move depend lecture supreme";
+var mnemonic = "master hungry judge bitter warfare among debate click wear soft vintage concert";

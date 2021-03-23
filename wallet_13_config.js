@@ -1,1 +1,1 @@
-var mnemonic = "pond where fever wide receive glory review dumb vanish shock virtual diary";
+var mnemonic = "found chaos setup scorpion middle range about engage forum mule winter option";

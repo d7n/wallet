@@ -1,1 +1,1 @@
-var mnemonic = "adapt quote faith interest position extend lecture sunset replace tooth poverty client";
+var mnemonic = "lizard side level priority defy mercy hazard gorilla shoot frown chronic ugly";

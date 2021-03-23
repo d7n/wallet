@@ -1,1 +1,1 @@
-var mnemonic = "youth warrior share swallow spin torch shoulder ill put direct exotic fancy";
+var mnemonic = "sure notice swap ghost believe west style between office rib undo wire";

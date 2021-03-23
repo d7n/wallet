@@ -1,1 +1,1 @@
-var mnemonic = "alpha member barely stand win exotic woman final fashion knee stable grant";
+var mnemonic = "cargo sentence two reopen immune million food law fine town clarify fitness";

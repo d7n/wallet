@@ -1,1 +1,1 @@
-var mnemonic = "lawn strike love wrong parade arctic tissue extend bless bicycle cat arrange";
+var mnemonic = "silk clip coin only nature humor hair camera vibrant nephew process boring";

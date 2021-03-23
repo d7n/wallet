@@ -1,1 +1,1 @@
-var mnemonic = "ignore concert silver head divert myth castle tag tone matter ginger way";
+var mnemonic = "express flight spider cloud oyster cart transfer scale broom spare frown spawn";

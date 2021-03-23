@@ -1,1 +1,1 @@
-var mnemonic = "genius wrestle snack beyond tail shy calm lunar ensure girl motion fence";
+var mnemonic = "core illness owner foil front clinic tilt venue focus foam slow ribbon";

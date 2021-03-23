@@ -1,1 +1,1 @@
-var mnemonic = "useless vehicle agent jazz orchard acquire pelican elegant march aspect decline stay";
+var mnemonic = "october fix loyal chicken jaguar jacket warrior believe whale eagle version control";

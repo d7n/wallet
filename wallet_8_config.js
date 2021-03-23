@@ -1,1 +1,1 @@
-var mnemonic = "area fish execute follow monkey skirt coral lend scout grid shock flip";
+var mnemonic = "nasty keen valve strategy blue jeans velvet pilot soap trophy castle various";

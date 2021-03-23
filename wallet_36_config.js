@@ -1,1 +1,1 @@
-var mnemonic = "mutual appear patrol robust hammer toward uphold adjust tortoise company siren humble";
+var mnemonic = "stuff popular artist insect bicycle giraffe destroy lawn whip fit twenty action";

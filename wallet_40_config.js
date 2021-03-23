@@ -1,1 +1,1 @@
-var mnemonic = "melt science session can casual acoustic apple wine candy until surface choose";
+var mnemonic = "adult heart loyal guitar outer grunt refuse caught base myself flash pottery";

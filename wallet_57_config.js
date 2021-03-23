@@ -1,1 +1,1 @@
-var mnemonic = "bus bomb dumb december emerge erosion chuckle breeze supreme talent warrior wheel";
+var mnemonic = "valve term priority warfare grunt sugar laugh praise type wild arena powder";

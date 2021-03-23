@@ -1,1 +1,1 @@
-var mnemonic = "thumb parrot limit piece chef toss tag stable rebuild screen wisdom cigar";
+var mnemonic = "pair fruit remain educate crazy increase cricket jaguar enhance exit clinic short";

@@ -1,1 +1,1 @@
-var mnemonic = "february cloth permit panda canyon impact heart cement mushroom oak faculty option";
+var mnemonic = "monkey goose rent appear doll olive prevent crazy addict east once matter";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle they plunge size pig dance original angry cliff ball grit suffer";
+var mnemonic = "reveal payment innocent lock puzzle level sentence bundle click fault hero field";

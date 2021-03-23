@@ -1,1 +1,1 @@
-var mnemonic = "escape child describe cage security mansion insane salad adapt predict movie trumpet";
+var mnemonic = "visual rally corn bicycle heart symbol suit soldier achieve wheel cupboard enforce";

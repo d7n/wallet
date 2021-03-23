@@ -1,1 +1,1 @@
-var mnemonic = "obscure lava absurd pipe item author search blush innocent rely carbon soap";
+var mnemonic = "lounge cream human luggage conduct exotic predict text candy grass genre live";

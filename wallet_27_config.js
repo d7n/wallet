@@ -1,1 +1,1 @@
-var mnemonic = "chalk author panic desert member thing camp electric glow version ski cave";
+var mnemonic = "monster monitor start hidden wet tape helmet illness throw unhappy fence super";

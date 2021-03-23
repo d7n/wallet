@@ -1,1 +1,1 @@
-var mnemonic = "group volume excite remind person call fold credit slab team onion more";
+var mnemonic = "dance attack devote october bracket concert possible spray era dinosaur first funny";

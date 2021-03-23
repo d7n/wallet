@@ -1,1 +1,1 @@
-var mnemonic = "screen access toward skill miss teach seed crumble team attack oval suggest";
+var mnemonic = "brisk cause can black other level regular upon limb clap tent hair";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile common wrist pretty beyond material cousin also income decade artwork acquire";
+var mnemonic = "silver midnight skin fee match flock aspect kidney height afraid thrive police";

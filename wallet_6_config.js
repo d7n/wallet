@@ -1,1 +1,1 @@
-var mnemonic = "theme gauge hurdle enrich cushion scissors wonder inhale chat video vendor lounge";
+var mnemonic = "predict grow fringe process paddle drop high scale rain lens jealous wool";

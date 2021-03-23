@@ -1,1 +1,1 @@
-var mnemonic = "fit pave armor exact document need push garlic swear media organ kiwi";
+var mnemonic = "elbow meadow glance drift minimum ethics pass innocent subway meadow farm seek";

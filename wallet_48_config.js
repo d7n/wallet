@@ -1,1 +1,1 @@
-var mnemonic = "hood apart mansion gadget shallow aware wood tail pause bridge six decade";
+var mnemonic = "speed merry secret universe ski myth rigid slogan evoke decorate catch practice";

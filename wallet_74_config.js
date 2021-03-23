@@ -1,1 +1,1 @@
-var mnemonic = "soft drink venue toast there issue employ lobster sort lady once noble";
+var mnemonic = "brother spin attract report vicious episode endless upon bunker speed arch collect";

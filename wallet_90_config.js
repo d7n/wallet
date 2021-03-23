@@ -1,1 +1,1 @@
-var mnemonic = "half wrong door crystal shield reopen float journey slab milk screen october";
+var mnemonic = "galaxy total exclude guess hollow rival pigeon deliver pumpkin giraffe embark talk";

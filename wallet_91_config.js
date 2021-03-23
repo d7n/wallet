@@ -1,1 +1,1 @@
-var mnemonic = "acquire vital alien divert pair addict earth lunar pudding jelly match argue";
+var mnemonic = "bird west flavor elite tuna utility nothing regular hurry start lonely snack";

@@ -1,1 +1,1 @@
-var mnemonic = "share potato renew picture require one nothing essay violin hub similar concert";
+var mnemonic = "basic enact hour resist juice planet wage vague flame color snap have";

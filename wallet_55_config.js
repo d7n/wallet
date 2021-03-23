@@ -1,1 +1,1 @@
-var mnemonic = "control parrot cabbage install night innocent learn program advance filter crew gown";
+var mnemonic = "like palm false reunion leg spider sun lobster paddle music start legal";

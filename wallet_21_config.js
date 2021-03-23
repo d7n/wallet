@@ -1,1 +1,1 @@
-var mnemonic = "zone test grid unaware key forget fruit claw impose tip mountain true";
+var mnemonic = "spell chicken tissue lecture chair air glide talent goose section broom estate";

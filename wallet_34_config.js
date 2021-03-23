@@ -1,1 +1,1 @@
-var mnemonic = "curious comic fashion social sleep small palm abandon picture canvas swear figure";
+var mnemonic = "blanket hard gasp garage ordinary poverty ripple scene undo library crew sand";

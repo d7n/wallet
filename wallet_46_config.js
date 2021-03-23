@@ -1,1 +1,1 @@
-var mnemonic = "swift glue range profit shop friend december fossil absorb metal obey because";
+var mnemonic = "tumble unlock rescue warm object leg erosion during eye foil priority perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete verb satisfy cabin increase equal stuff sport relax home clog zero";
+var mnemonic = "extend wage ghost toast between spot whisper mean section that melt pyramid";

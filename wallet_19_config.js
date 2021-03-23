@@ -1,1 +1,1 @@
-var mnemonic = "deliver post pigeon chat tooth open faith same pumpkin rose treat involve";
+var mnemonic = "bridge win angle novel paper soldier color noise wish stuff company cricket";

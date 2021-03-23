@@ -1,1 +1,1 @@
-var mnemonic = "correct faith stereo rally chair visit still faculty click rubber gadget soul";
+var mnemonic = "farm easy upgrade spawn control educate describe science advance asset unveil audit";

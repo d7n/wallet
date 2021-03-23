@@ -1,1 +1,1 @@
-var mnemonic = "crime satisfy left valley pledge idea quiz maple frame wool goddess elbow";
+var mnemonic = "sorry kitten horn cloth topple sure race involve portion enough asthma section";

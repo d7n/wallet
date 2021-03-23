@@ -1,1 +1,1 @@
-var mnemonic = "escape beef goddess error cradle order evidence snack chunk century hammer unusual";
+var mnemonic = "hub lonely note connect ball proof cash awful federal foster gas expire";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy rack dune position what alter soda receive quarter brother perfect hamster";
+var mnemonic = "venture wheel lesson swallow defy attitude legal hello evoke message stamp piece";

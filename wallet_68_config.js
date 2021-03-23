@@ -1,1 +1,1 @@
-var mnemonic = "unique can observe display lake marine century bachelor during fragile attitude supply";
+var mnemonic = "tragic fabric summer aisle pudding tape tornado radio surprise spike elephant false";
