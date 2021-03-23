@@ -1,1 +1,1 @@
-var mnemonic = "choice topic charge brief aerobic draw gain wrist same buzz upset purchase";
+var mnemonic = "witness sponsor silent lock thunder soup size shield arrest input gap oven";

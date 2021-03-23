@@ -1,1 +1,1 @@
-var mnemonic = "cancel plug cannon clay payment vibrant artwork want coyote sand slim skin";
+var mnemonic = "once project dish forest health minor favorite bounce claim text promote ready";

@@ -1,1 +1,1 @@
-var mnemonic = "pave indoor require gauge depth place monkey report swap caught police foster";
+var mnemonic = "dwarf run opera pizza lamp certain logic swing balcony joy damage pool";

@@ -1,1 +1,1 @@
-var mnemonic = "gym snack melt ranch bar puppy vapor valid rail thrive side ozone";
+var mnemonic = "album collect rival chest knock call ketchup truth gravity dinner festival twin";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt comic vacant jelly again survey hope require identify humble decorate maximum";
+var mnemonic = "middle hamster donate maze panther mansion endless error distance bracket essay heart";

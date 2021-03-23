@@ -1,1 +1,1 @@
-var mnemonic = "spirit powder bargain honey license caught when blouse slogan boring flavor quote";
+var mnemonic = "scatter moral other home explain palace alien cube chest robot evoke miracle";

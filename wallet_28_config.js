@@ -1,1 +1,1 @@
-var mnemonic = "fluid coil together supply word jaguar fold become spread curve tragic play";
+var mnemonic = "field rescue kit average corn invite wheat middle credit donate habit cube";

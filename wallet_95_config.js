@@ -1,1 +1,1 @@
-var mnemonic = "wheat flip visual frog feed laptop cover mandate company transfer toward summer";
+var mnemonic = "key object success churn kick mushroom upgrade float wink artist space dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "foil fatigue slide divorce entire type pear gloom rent patient elephant carry";
+var mnemonic = "slim three cable strategy object bullet grid deal usage tell skirt castle";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel flag lift core sphere catalog real timber two harvest kind fashion";
+var mnemonic = "image include ginger orient cry theory cake sleep wash anxiety plastic journey";

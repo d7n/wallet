@@ -1,1 +1,1 @@
-var mnemonic = "illness patrol become ask stock green inherit snap luggage require kangaroo prison";
+var mnemonic = "toddler miracle escape thunder size live exhibit word fuel that strong around";

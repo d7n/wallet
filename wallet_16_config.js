@@ -1,1 +1,1 @@
-var mnemonic = "stick surface huge search share must opera return hunt wife fetch again";
+var mnemonic = "nice actress juice fitness erase parade stick bitter merry program genuine repeat";

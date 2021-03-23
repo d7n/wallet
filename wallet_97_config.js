@@ -1,1 +1,1 @@
-var mnemonic = "nasty meadow garbage despair cheese outside consider rude sting crisp service bottom";
+var mnemonic = "early friend distance life tower regular void wolf element peace winter beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden mushroom cash sibling cement blind suffer midnight law chicken tray blur";
+var mnemonic = "hill test flip vapor combine prize train together behave bunker forest found";

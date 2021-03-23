@@ -1,1 +1,1 @@
-var mnemonic = "thing recipe shiver stone add travel run cruel flee grab rookie raw";
+var mnemonic = "dragon cover poet six disorder pilot breeze call virtual wisdom wrestle base";

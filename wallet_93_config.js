@@ -1,1 +1,1 @@
-var mnemonic = "dust other manage boss laugh vintage path tray carpet genuine service dance";
+var mnemonic = "rice valid better squirrel idea chef balcony escape kind cruel logic lounge";

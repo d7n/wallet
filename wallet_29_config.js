@@ -1,1 +1,1 @@
-var mnemonic = "old curve patrol tilt chair thrive view raven chunk student trigger crane";
+var mnemonic = "lab crime tortoise permit note warrior salon explain perfect orchard clown unlock";

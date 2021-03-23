@@ -1,1 +1,1 @@
-var mnemonic = "educate fortune coach ice soccer truck route wear duty jeans educate upgrade";
+var mnemonic = "author logic flee film image knife meat burger hello early tuition wait";

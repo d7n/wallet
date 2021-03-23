@@ -1,1 +1,1 @@
-var mnemonic = "odor fancy ivory company walnut antenna pilot excite ranch donate easy yard";
+var mnemonic = "address food lizard match riot only pumpkin again library lend sell mind";

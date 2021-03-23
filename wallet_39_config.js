@@ -1,1 +1,1 @@
-var mnemonic = "drum fuel size secret narrow drill wall hope change tone term swarm";
+var mnemonic = "citizen trial dinosaur language danger gorilla evil umbrella divide awkward convince salmon";

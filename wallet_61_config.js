@@ -1,1 +1,1 @@
-var mnemonic = "pottery another report risk provide world hospital write bacon moment try prize";
+var mnemonic = "permit picnic cotton trip dry copy concert february moment ignore spring pigeon";

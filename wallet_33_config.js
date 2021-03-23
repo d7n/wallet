@@ -1,1 +1,1 @@
-var mnemonic = "little artefact average client thumb nice entire wisdom staff ticket seven minor";
+var mnemonic = "sentence drill spin change surge theme lounge ginger siren cruise fury snake";

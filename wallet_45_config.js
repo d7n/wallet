@@ -1,1 +1,1 @@
-var mnemonic = "foot uniform order uncle blossom promote thing hawk safe water talk aim";
+var mnemonic = "initial neck black cause elephant belt useless endorse credit gallery reopen frequent";

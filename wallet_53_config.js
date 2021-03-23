@@ -1,1 +1,1 @@
-var mnemonic = "near slender trend oxygen velvet foot ring genre cool wine flag custom";
+var mnemonic = "casino cool report soft leaf easily churn traffic hero time energy collect";

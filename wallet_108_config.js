@@ -1,1 +1,1 @@
-var mnemonic = "race fabric wheel school mule burst staff foster usual subway unfold erosion";
+var mnemonic = "donate lyrics ordinary leaf appear foil exclude because old city normal truck";

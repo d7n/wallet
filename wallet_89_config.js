@@ -1,1 +1,1 @@
-var mnemonic = "vintage pride unit giant excess sphere mask point coach two again intact";
+var mnemonic = "harvest obtain inquiry apart capital trophy april protect lion eyebrow define way";

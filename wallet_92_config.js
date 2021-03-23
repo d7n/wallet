@@ -1,1 +1,1 @@
-var mnemonic = "merry celery assist black lottery mind initial kidney reveal scorpion lunar fox";
+var mnemonic = "arrow shoulder special guilt wave benefit pumpkin sugar essence enrich water dune";

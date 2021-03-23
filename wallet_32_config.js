@@ -1,1 +1,1 @@
-var mnemonic = "charge deputy amused grunt inform tube pulp pass unhappy share okay paper";
+var mnemonic = "miracle doctor year rebuild tomorrow bubble you three lift mad avocado critic";

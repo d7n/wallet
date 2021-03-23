@@ -1,1 +1,1 @@
-var mnemonic = "trumpet thrive public scrap good dinner dance ball basket auction idea virus";
+var mnemonic = "enhance will coral inspire hard meadow green lend search actual library ready";

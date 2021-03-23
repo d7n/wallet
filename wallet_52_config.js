@@ -1,1 +1,1 @@
-var mnemonic = "tent fresh multiply slim paper gold normal dash dash school bitter donor";
+var mnemonic = "leave seed border toddler agree glass twin divide spawn sand display final";

@@ -1,1 +1,1 @@
-var mnemonic = "about nothing attack slush edit hole patch width glow raven this erase";
+var mnemonic = "aisle unfold scan tuna skate situate winner toe small jacket dilemma myth";

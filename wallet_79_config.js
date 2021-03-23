@@ -1,1 +1,1 @@
-var mnemonic = "stove offer syrup chef skate riot stick rotate jewel monkey index annual";
+var mnemonic = "action coach clay leisure good express mimic elder trigger gym tide mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract nature stomach quarter coffee tiny episode good symbol concert host gravity";
+var mnemonic = "spike corn brave asset visa grief seminar imitate render hold brain confirm";

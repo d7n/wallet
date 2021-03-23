@@ -1,1 +1,1 @@
-var mnemonic = "matter rigid party owner fatigue repeat exchange morning cattle youth vanish deputy";
+var mnemonic = "empower poem gravity slam husband tired water radar path finger sad remember";

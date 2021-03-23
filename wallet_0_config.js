@@ -1,1 +1,1 @@
-var mnemonic = "rent garlic pink purse entry sock tumble physical crime lucky impose horse";
+var mnemonic = "oppose cycle estate volume clap tennis shrimp like insane fragile mandate lecture";

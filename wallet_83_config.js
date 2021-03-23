@@ -1,1 +1,1 @@
-var mnemonic = "rough recycle adapt congress rate scan install panda interest butter mutual field";
+var mnemonic = "saddle upper camera vapor cement walnut toilet few portion trick silver creek";

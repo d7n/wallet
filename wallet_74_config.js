@@ -1,1 +1,1 @@
-var mnemonic = "client grow error love kid shoot ask december else surround example skate";
+var mnemonic = "dish ripple turtle finish dinosaur expect blur rate worth trouble parrot stable";

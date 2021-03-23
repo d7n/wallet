@@ -1,1 +1,1 @@
-var mnemonic = "gate profit ill ski amused bullet want cannon aim balance figure educate";
+var mnemonic = "material spirit evolve analyst risk abandon vibrant tortoise anger lucky credit simple";

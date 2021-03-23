@@ -1,1 +1,1 @@
-var mnemonic = "bubble range turtle photo cup attract castle phrase demise elephant dizzy path";
+var mnemonic = "old science begin tide mobile rough thing stumble answer clerk barely focus";

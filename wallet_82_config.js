@@ -1,1 +1,1 @@
-var mnemonic = "cattle blur midnight youth asset drive cigar arrange short lesson tattoo still";
+var mnemonic = "loyal impact very cloth hand swing awake wealth margin suggest west patrol";

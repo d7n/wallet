@@ -1,1 +1,1 @@
-var mnemonic = "lion winner eight frog glad kingdom waste relax between wait fluid innocent";
+var mnemonic = "evidence woman tissue cheese party fox uncover tip usual strategy lecture ostrich";

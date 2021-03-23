@@ -1,1 +1,1 @@
-var mnemonic = "enroll mouse sphere broccoli predict version roof blouse problem crater forest letter";
+var mnemonic = "draft galaxy ankle agree soon suit review father cute sign smooth skirt";

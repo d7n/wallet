@@ -1,1 +1,1 @@
-var mnemonic = "invite arrest finger claw miss yellow front virtual net addict canal spy";
+var mnemonic = "profit husband drive cloud rotate tuition join used avoid novel video lawn";

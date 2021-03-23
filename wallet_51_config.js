@@ -1,1 +1,1 @@
-var mnemonic = "giraffe rain filter project february beach vendor rain welcome fabric butter shield";
+var mnemonic = "marriage steak ostrich merit enroll pencil catch abstract segment seven local base";

@@ -1,1 +1,1 @@
-var mnemonic = "direct decide differ arrest negative pulse comic chunk mechanic dirt believe arrive";
+var mnemonic = "soda fade analyst airport entire humble couple century october hurry expose busy";

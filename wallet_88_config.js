@@ -1,1 +1,1 @@
-var mnemonic = "latin exile table erode bamboo leaf empower cherry night nurse dwarf violin";
+var mnemonic = "assist infant wheat ripple easy original add rebuild tonight truth flash idea";

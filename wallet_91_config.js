@@ -1,1 +1,1 @@
-var mnemonic = "ghost grunt anxiety web blame car nurse reward shock output bacon winter";
+var mnemonic = "differ oyster soul swallow much problem fluid unable menu sing million arena";

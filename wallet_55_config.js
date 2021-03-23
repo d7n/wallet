@@ -1,1 +1,1 @@
-var mnemonic = "animal excite indoor inquiry exclude tomato forget warfare legend soldier energy regular";
+var mnemonic = "quarter girl remember case lunar swift deal cluster web invest distance boy";

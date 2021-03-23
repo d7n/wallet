@@ -1,1 +1,1 @@
-var mnemonic = "settle earth fancy myth derive vehicle bring link medal bracket illegal palm";
+var mnemonic = "achieve magic pride since polar wrong know puppy female middle pilot olive";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage hover metal sock famous nasty fade excite twin scrap zone scale";
+var mnemonic = "remain damage van riot car rack wing brief degree inquiry meat chat";

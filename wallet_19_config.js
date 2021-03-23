@@ -1,1 +1,1 @@
-var mnemonic = "choose about mobile indicate tuna jeans other cook royal inspire scan keen";
+var mnemonic = "clarify ramp poet normal frequent deposit chicken crew maid clay absent home";

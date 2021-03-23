@@ -1,1 +1,1 @@
-var mnemonic = "author park afraid old below credit horror promote hold impose hollow wink";
+var mnemonic = "palace twenty float picture bunker quality number faith inform scare basket law";

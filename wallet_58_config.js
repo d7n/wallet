@@ -1,1 +1,1 @@
-var mnemonic = "direct charge token cabbage amazing pull flock swarm magnet claw whisper clinic";
+var mnemonic = "tragic mobile suit monster spoil asthma find embark sausage embody curve vocal";

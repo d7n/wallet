@@ -1,1 +1,1 @@
-var mnemonic = "rabbit chapter captain happy arrest meat artwork panel jewel fiction climb cave";
+var mnemonic = "exile rib cereal over ostrich drift palm dolphin obvious sunny beyond october";

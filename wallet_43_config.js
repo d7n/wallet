@@ -1,1 +1,1 @@
-var mnemonic = "agent ozone execute stock camera music oblige gadget patient head wrist horse";
+var mnemonic = "soup shoulder bright pen fee impose shop belt enrich jeans gospel siren";

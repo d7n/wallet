@@ -1,1 +1,1 @@
-var mnemonic = "deal hen clever buddy crater cruel season minor ostrich antique scissors trust";
+var mnemonic = "equip wet tent sail seminar garlic limit spike elevator south question add";

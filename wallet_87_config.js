@@ -1,1 +1,1 @@
-var mnemonic = "arena kitten sick rabbit armor pencil boat exhibit claw pencil home junior";
+var mnemonic = "half impact safe swift picnic social scare talk myself vague reopen undo";

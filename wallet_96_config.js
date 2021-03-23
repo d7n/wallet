@@ -1,1 +1,1 @@
-var mnemonic = "exchange rally need dial crunch april tank anchor barrel honey never only";
+var mnemonic = "fiscal volcano curve home size ankle check hollow phrase cactus dentist hockey";

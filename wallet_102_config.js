@@ -1,1 +1,1 @@
-var mnemonic = "glue puppy fish scan girl rain lend orphan toast grace avocado home";
+var mnemonic = "clap paddle coral account seminar crisp west ancient world display globe path";

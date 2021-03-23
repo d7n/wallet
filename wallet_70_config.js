@@ -1,1 +1,1 @@
-var mnemonic = "hidden vanish strong crop end vanish enter security bacon flash elevator quarter";
+var mnemonic = "ahead trigger spy elevator fresh ranch usage gate vicious cross frozen virus";

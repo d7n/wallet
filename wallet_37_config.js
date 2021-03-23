@@ -1,1 +1,1 @@
-var mnemonic = "taste stool measure usual orange blush involve announce endless flag credit barely";
+var mnemonic = "inhale mystery side empty what team stable sudden hurry above lesson miracle";

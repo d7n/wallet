@@ -1,1 +1,1 @@
-var mnemonic = "wrestle leaf daughter fire climb letter position calm wait modify park actress";
+var mnemonic = "pencil immense grant dentist response divorce method shoulder nut exercise hat dynamic";

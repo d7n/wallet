@@ -1,1 +1,1 @@
-var mnemonic = "possible banner ceiling police pole case post couple response purity news board";
+var mnemonic = "fold palm oblige history mountain fitness beef gym female seed input donor";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich inmate ankle trial toss lottery anger film pitch now relax knee";
+var mnemonic = "weird kingdom idea grunt three vocal industry normal concert scene work orient";

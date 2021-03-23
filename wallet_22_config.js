@@ -1,1 +1,1 @@
-var mnemonic = "dawn comfort file table high wish exact true scrap master skin brass";
+var mnemonic = "post property alien struggle mountain asset remember never muscle picnic prevent wrap";

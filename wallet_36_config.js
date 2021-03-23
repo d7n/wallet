@@ -1,1 +1,1 @@
-var mnemonic = "axis replace empty rule spike attack shop repair stamp people better mom";
+var mnemonic = "dolphin enhance tail just dilemma model network mesh history chair disorder actual";

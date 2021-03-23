@@ -1,1 +1,1 @@
-var mnemonic = "humble mule unfair add casual mind swift iron account mountain able quality";
+var mnemonic = "middle fire sausage jealous emotion recycle eager gossip then parade script satoshi";

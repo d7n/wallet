@@ -1,1 +1,1 @@
-var mnemonic = "crawl small worth dove apart video cousin economy blue stick wage together";
+var mnemonic = "road legend oxygen pelican start pear blush middle shaft nasty lucky author";

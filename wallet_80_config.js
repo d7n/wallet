@@ -1,1 +1,1 @@
-var mnemonic = "review vast amazing clever correct valley citizen bid chair left olympic flag";
+var mnemonic = "tilt silly off ball skill hair buzz acquire aim wink language disease";

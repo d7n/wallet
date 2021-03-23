@@ -1,1 +1,1 @@
-var mnemonic = "lecture enough live lizard brown abuse seminar shell trial gap toy pave";
+var mnemonic = "orange impose rack horn foot transfer beyond cabin fence spell faith coral";

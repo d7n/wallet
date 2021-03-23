@@ -1,1 +1,1 @@
-var mnemonic = "nest federal lady junk monkey asset square organ minor caught electric degree";
+var mnemonic = "debris bird you modify run script almost assist fee autumn fine hill";

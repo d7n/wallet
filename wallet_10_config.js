@@ -1,1 +1,1 @@
-var mnemonic = "shop family orbit kit cloud athlete pistol novel cover attitude stock proof";
+var mnemonic = "maze wear west crunch grid obey shoulder credit hazard camp enact menu";

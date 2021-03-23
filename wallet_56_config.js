@@ -1,1 +1,1 @@
-var mnemonic = "song dwarf broken twenty affair borrow napkin cart combine liquid film same";
+var mnemonic = "decade curtain viable jump rare glass slight beach tomato lawsuit slot october";

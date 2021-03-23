@@ -1,1 +1,1 @@
-var mnemonic = "immense squeeze because law spirit exotic solve awful iron napkin rule question";
+var mnemonic = "giggle hello client unknown favorite heavy glimpse actor zone direct panda school";

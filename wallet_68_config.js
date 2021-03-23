@@ -1,1 +1,1 @@
-var mnemonic = "hunt custom wash glove spatial top arrive much reflect scissors animal country";
+var mnemonic = "all shield major spawn neither enrich throw suggest cycle number they alter";

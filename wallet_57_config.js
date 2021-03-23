@@ -1,1 +1,1 @@
-var mnemonic = "empower where indicate crane shift divert hunt family cargo exclude diesel drum";
+var mnemonic = "visit like defense thank faculty jaguar panther upset hunt eye transfer click";

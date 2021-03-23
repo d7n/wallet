@@ -1,1 +1,1 @@
-var mnemonic = "bird agree speed pistol pepper machine equip worry error smile near climb";
+var mnemonic = "dress uniform squirrel blade chair shine lesson reason magic flag true cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge custom dog dynamic flee blur explain luxury vocal produce curtain left";
+var mnemonic = "fiction hat dream manual hire welcome illness insect miss select staff whip";

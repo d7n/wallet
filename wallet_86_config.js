@@ -1,1 +1,1 @@
-var mnemonic = "scrap order army idle abstract over forget leaf order square multiply arrive";
+var mnemonic = "sister curve popular evolve olympic drum hill sample expect rookie embark destroy";

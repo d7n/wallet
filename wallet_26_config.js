@@ -1,1 +1,1 @@
-var mnemonic = "october second arrange equip easy awesome clock confirm prison cricket undo game";
+var mnemonic = "crucial grunt vault nothing snack chuckle hybrid recall royal chicken method olive";

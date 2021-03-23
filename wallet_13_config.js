@@ -1,1 +1,1 @@
-var mnemonic = "keep urge hip grass purchase language stem dice wool black census glory";
+var mnemonic = "awake ask major umbrella pistol gas section unfair firm pulse exist unlock";

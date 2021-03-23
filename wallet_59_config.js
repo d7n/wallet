@@ -1,1 +1,1 @@
-var mnemonic = "capable taxi purchase remember salute bargain zebra belt detect man future crumble";
+var mnemonic = "try meadow prosper produce palace cloth mixture weird rack again found major";

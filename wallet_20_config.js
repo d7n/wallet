@@ -1,1 +1,1 @@
-var mnemonic = "plug spike private acid trash give invite sketch okay away job uncle";
+var mnemonic = "banner silver atom vacuum ice trumpet fire lawsuit earn nice canyon glimpse";

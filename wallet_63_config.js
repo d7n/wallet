@@ -1,1 +1,1 @@
-var mnemonic = "gun phone clog develop stove elite drip output test illegal seminar huge";
+var mnemonic = "hour kit foam kick truly bunker tool dinosaur purity crystal mimic foam";

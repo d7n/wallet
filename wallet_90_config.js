@@ -1,1 +1,1 @@
-var mnemonic = "bachelor define essence zero shallow crisp version sock squeeze across cloth prize";
+var mnemonic = "dizzy pony clock cradle nerve distance series fiction soup during liquid exist";

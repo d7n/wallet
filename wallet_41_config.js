@@ -1,1 +1,1 @@
-var mnemonic = "globe side ride lion inmate maid ritual grape usage wing divorce naive";
+var mnemonic = "patient taxi engage photo merge raise mixture bright escape hill slide gas";

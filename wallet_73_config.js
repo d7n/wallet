@@ -1,1 +1,1 @@
-var mnemonic = "visual olive among cube gap image matrix giggle thunder exhibit stumble frown";
+var mnemonic = "decide anchor story picnic very scrub convince battle say feature must around";

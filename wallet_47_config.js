@@ -1,1 +1,1 @@
-var mnemonic = "neither range false like educate room spider book arrest grocery girl wheat";
+var mnemonic = "column theory edge payment picnic identify call trash orbit certain jaguar inch";

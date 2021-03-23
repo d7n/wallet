@@ -1,1 +1,1 @@
-var mnemonic = "endless woman noise mimic humor scatter nation remain meat wild home cry";
+var mnemonic = "rapid plate lady circle tent slab physical blush hen divorce client obey";

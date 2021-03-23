@@ -1,1 +1,1 @@
-var mnemonic = "used drastic salad unfold jungle plate robot ritual deposit cushion load pumpkin";
+var mnemonic = "rigid dish audit host toe night blush tourist denial envelope rhythm goddess";

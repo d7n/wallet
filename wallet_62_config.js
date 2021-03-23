@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo salmon expire black present museum envelope craft much squeeze junk screen";
+var mnemonic = "corn profit taste subject chalk palm agent simple fitness rival human cabin";
