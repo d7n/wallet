@@ -1,1 +1,1 @@
-var mnemonic = "census access bubble solid ginger hour illness jacket fold whale nice emotion";
+var mnemonic = "myth sunset fortune device dad stadium option deer drama then adjust attend";

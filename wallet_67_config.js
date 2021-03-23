@@ -1,1 +1,1 @@
-var mnemonic = "asthma pepper ivory simple garage property sphere enact initial artist source gain";
+var mnemonic = "echo remember current exact novel expose apology lamp slide loyal struggle such";

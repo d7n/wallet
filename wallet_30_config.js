@@ -1,1 +1,1 @@
-var mnemonic = "notable finger pretty bounce panther corn walk spend confirm subject urban lawsuit";
+var mnemonic = "bonus misery office clarify thing turtle lecture whip horn shiver pencil gun";

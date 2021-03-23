@@ -1,1 +1,1 @@
-var mnemonic = "camera flip harvest dutch initial update maze kick mimic profit unable drive";
+var mnemonic = "organ ability begin frozen neglect utility miss conduct seat dismiss mirror oak";

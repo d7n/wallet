@@ -1,1 +1,1 @@
-var mnemonic = "broccoli hold absurd immune permit damp guide fire tiny window kitten post";
+var mnemonic = "sauce side twelve lab supreme load narrow victory kiwi base poet install";

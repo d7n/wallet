@@ -1,1 +1,1 @@
-var mnemonic = "hello cloth squirrel wife become rookie earn paddle rhythm south mushroom mother";
+var mnemonic = "review clay organ rural nose wall vast rocket birth usual kite awful";

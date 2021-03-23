@@ -1,1 +1,1 @@
-var mnemonic = "movie wave tag buddy boat script damage tool match silly when domain";
+var mnemonic = "image noble amused degree motor decline theme grit twist clog stable surprise";

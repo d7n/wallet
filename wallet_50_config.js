@@ -1,1 +1,1 @@
-var mnemonic = "paper pear puzzle cross general maze cook fever require way range worth";
+var mnemonic = "venture verify crystal height nut excess wife foil light flush number insect";

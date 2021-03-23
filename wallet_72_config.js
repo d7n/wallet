@@ -1,1 +1,1 @@
-var mnemonic = "vanish spare black like risk primary chair before device joke anxiety praise";
+var mnemonic = "nephew blood weird remove jungle void dust loyal sphere ice sense limit";

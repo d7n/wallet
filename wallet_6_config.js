@@ -1,1 +1,1 @@
-var mnemonic = "surge buddy trend auto possible clown scrap head barely village enter decide";
+var mnemonic = "reward cluster aware soldier cross core dragon hurdle hello twin win letter";

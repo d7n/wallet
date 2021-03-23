@@ -1,1 +1,1 @@
-var mnemonic = "black staff jealous frown size swap buzz glory zoo damage connect loop";
+var mnemonic = "happy soft subject ten hedgehog erase above hard dog bike ensure notice";

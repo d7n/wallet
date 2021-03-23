@@ -1,1 +1,1 @@
-var mnemonic = "relax skate regret elegant short day only found attitude gym mad sand";
+var mnemonic = "coyote reflect apple endless pear pig energy tuna another whale venue original";

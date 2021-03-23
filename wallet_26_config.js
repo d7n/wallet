@@ -1,1 +1,1 @@
-var mnemonic = "escape skill denial reveal thing express stereo way license together electric news";
+var mnemonic = "task lens indicate monster monitor purse merit plate giraffe search choice cream";

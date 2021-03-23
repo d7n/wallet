@@ -1,1 +1,1 @@
-var mnemonic = "swing innocent jar fault style reject timber crater invite arch bundle trial";
+var mnemonic = "dutch curious evil grocery nerve merit team mountain move random cloth inhale";

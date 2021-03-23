@@ -1,1 +1,1 @@
-var mnemonic = "sheriff pledge seat secret before polar assault front else artist cave fancy";
+var mnemonic = "repair settle wagon nephew deputy medal face crane track devote tilt title";

@@ -1,1 +1,1 @@
-var mnemonic = "this broom decrease marine voice category party machine chest urge trust satoshi";
+var mnemonic = "letter win drive slight limb thunder brush teach soon mushroom weird snack";

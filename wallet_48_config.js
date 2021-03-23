@@ -1,1 +1,1 @@
-var mnemonic = "love puzzle half accident season cigar flash glove mutual prepare flower layer";
+var mnemonic = "inner city estate forward prize fever saddle simple moral chicken gravity foster";

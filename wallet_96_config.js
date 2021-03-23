@@ -1,1 +1,1 @@
-var mnemonic = "brush learn bridge endorse color quiz degree pelican coach ten armed welcome";
+var mnemonic = "spend claim favorite excuse isolate modify lunch cool order target old cash";

@@ -1,1 +1,1 @@
-var mnemonic = "circle soap access camp label media wagon avoid unable little modify genre";
+var mnemonic = "observe tone wild script remind bicycle ozone ritual arctic kite critic blur";

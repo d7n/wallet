@@ -1,1 +1,1 @@
-var mnemonic = "involve force output group puzzle foot badge sound anger fever jungle tiny";
+var mnemonic = "foot sibling sign bacon black rhythm sadness sand grief mind orange zoo";

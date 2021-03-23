@@ -1,1 +1,1 @@
-var mnemonic = "unfair bonus boat elite color repeat glory input base frozen tilt poem";
+var mnemonic = "summer hospital tree boring awkward fence detect hat bamboo donor lyrics bind";

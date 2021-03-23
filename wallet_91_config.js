@@ -1,1 +1,1 @@
-var mnemonic = "nuclear exact brush spot pigeon divorce help style toward lava label fragile";
+var mnemonic = "secret seed pattern call luxury clip quiz angry blind tree arrange name";

@@ -1,1 +1,1 @@
-var mnemonic = "next sorry barely swing hill cliff net quality sugar focus monkey defense";
+var mnemonic = "elbow jaguar goat kite picture rotate message raven trophy catalog noodle bicycle";

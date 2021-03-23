@@ -1,1 +1,1 @@
-var mnemonic = "cart coast season august radio raise wise struggle swing hundred law never";
+var mnemonic = "response renew enjoy recipe wheat render question brain mimic rack song celery";

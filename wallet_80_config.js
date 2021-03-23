@@ -1,1 +1,1 @@
-var mnemonic = "announce couch only tenant someone acoustic put hungry noise roof noodle cup";
+var mnemonic = "slogan body notice topic piano broken patient reform anxiety core bonus bless";

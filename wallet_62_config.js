@@ -1,1 +1,1 @@
-var mnemonic = "immune charge rule garment extra leader crawl connect fit banana wage giraffe";
+var mnemonic = "stem service invest upgrade unit spatial catch bind accuse apart tissue hotel";

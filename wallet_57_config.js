@@ -1,1 +1,1 @@
-var mnemonic = "main valley fold trigger excite trap weather balcony decade turn ethics alarm";
+var mnemonic = "pause topic stool acquire melt utility all test pave infant dice abstract";

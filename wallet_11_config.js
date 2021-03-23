@@ -1,1 +1,1 @@
-var mnemonic = "obvious cloth bone soul parrot tool book youth panel turn tuition disorder";
+var mnemonic = "absurd hurdle dynamic cluster step utility elbow judge fine invest release husband";

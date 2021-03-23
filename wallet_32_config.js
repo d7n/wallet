@@ -1,1 +1,1 @@
-var mnemonic = "vessel jacket bubble chronic lemon scissors opera toward market myself swift shock";
+var mnemonic = "harvest plug equal vast choose market frequent venue evil guess hobby south";

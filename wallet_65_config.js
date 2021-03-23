@@ -1,1 +1,1 @@
-var mnemonic = "cat romance lunar hollow innocent tank lift chat silk illegal mandate speed";
+var mnemonic = "hamster metal art cupboard expose palm fancy joke give pear smart sauce";

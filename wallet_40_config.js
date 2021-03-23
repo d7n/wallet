@@ -1,1 +1,1 @@
-var mnemonic = "captain upset near joke fatal cage parade window critic render into recycle";
+var mnemonic = "impulse wagon soft tuition aware material peanut cattle jungle miracle moral labor";

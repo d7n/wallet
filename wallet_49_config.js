@@ -1,1 +1,1 @@
-var mnemonic = "question balcony price believe trigger twice act oxygen canvas own fortune tide";
+var mnemonic = "tortoise fatigue ready nurse garment catch enemy harbor census desert jungle sauce";

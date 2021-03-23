@@ -1,1 +1,1 @@
-var mnemonic = "fetch wet grass ostrich involve spike brick fragile lumber tiger sister winter";
+var mnemonic = "earth dash winter year pole lake jewel during disease sustain more vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft february chuckle weekend lab quit beyond true frequent farm purchase install";
+var mnemonic = "blood autumn color idle hamster town enable struggle road job ability repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "boring admit future bargain sample black deputy fantasy agent brown mosquito any";
+var mnemonic = "crush rural term theory inflict inject enact burger sock must siege elevator";

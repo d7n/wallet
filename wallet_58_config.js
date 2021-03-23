@@ -1,1 +1,1 @@
-var mnemonic = "junk ring recycle lava sea bracket engine meat arctic initial casual slice";
+var mnemonic = "pony proof machine usage remind island case evoke alpha begin security common";

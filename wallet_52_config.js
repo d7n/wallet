@@ -1,1 +1,1 @@
-var mnemonic = "street pigeon code ten finger very bridge neither valve omit vocal illness";
+var mnemonic = "truth educate glad talk lunar cherry zebra bone picnic melody dash animal";

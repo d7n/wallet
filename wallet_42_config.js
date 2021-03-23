@@ -1,1 +1,1 @@
-var mnemonic = "toss wood birth sudden entry vast stadium stay hunt keep tell crack";
+var mnemonic = "cram maple argue holiday find fiction tip scare step canvas beef burger";

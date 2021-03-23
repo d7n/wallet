@@ -1,1 +1,1 @@
-var mnemonic = "jealous drama angle organ oppose chalk december bless host caught dune admit";
+var mnemonic = "horse sting wear top bamboo fiction kiwi asthma wisdom glue indicate shrug";

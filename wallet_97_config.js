@@ -1,1 +1,1 @@
-var mnemonic = "medal series joy account balance denial maximum scorpion remove wreck luggage garbage";
+var mnemonic = "area all grunt planet mix liquid popular person slender bridge good whale";

@@ -1,1 +1,1 @@
-var mnemonic = "deal dentist fire fury remove squirrel leg vacant trial bargain barrel whale";
+var mnemonic = "cattle finish strategy luxury very tone honey spirit walnut away table now";

@@ -1,1 +1,1 @@
-var mnemonic = "sad heavy spread ketchup saddle indicate company exclude taxi strike leaf stadium";
+var mnemonic = "smart rifle bicycle tumble rose deputy tissue churn allow spider team glance";

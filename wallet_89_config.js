@@ -1,1 +1,1 @@
-var mnemonic = "have pluck shove vintage tunnel wall into scare humor vanish three boy";
+var mnemonic = "other love stadium banana pupil deposit potato dragon panther bridge exist room";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen fresh dragon cake seminar morning brick prize issue organ casual loan";
+var mnemonic = "much trigger pilot chimney okay brown local liquid ready truth word funny";

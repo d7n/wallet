@@ -1,1 +1,1 @@
-var mnemonic = "street solar voice sad sudden raccoon tonight diamond domain right uncover mixture";
+var mnemonic = "churn disease caution pumpkin gun maximum notable deposit crew debris lawn hill";

@@ -1,1 +1,1 @@
-var mnemonic = "topic still heavy december ahead addict neck loan pole keep cupboard vicious";
+var mnemonic = "peanut soul cruel liquid dry scare advice square autumn pride oxygen object";

@@ -1,1 +1,1 @@
-var mnemonic = "convince hotel series outdoor feel keep skull add citizen two liberty fiscal";
+var mnemonic = "misery lion pulse school arch arrow exact surprise powder perfect among congress";

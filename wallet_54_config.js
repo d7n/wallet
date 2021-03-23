@@ -1,1 +1,1 @@
-var mnemonic = "legend between bullet train praise area medal symbol diesel issue crime gospel";
+var mnemonic = "random admit occur sense industry birth unknown parrot myth shrug interest nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "affair build mad senior have rule police combine twenty business sample vessel";
+var mnemonic = "payment miracle year dignity scene enhance ancient obvious middle quantum sample refuse";

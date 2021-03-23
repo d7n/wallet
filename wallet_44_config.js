@@ -1,1 +1,1 @@
-var mnemonic = "like figure solve problem gasp glow island physical vessel october leisure produce";
+var mnemonic = "reject trust mask slush learn load picture crush combine library monitor garden";

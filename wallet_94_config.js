@@ -1,1 +1,1 @@
-var mnemonic = "sight indoor ketchup tunnel beach endorse sibling engage powder dove ethics drop";
+var mnemonic = "coil deal fever decide speak disease auto say photo clever entry hello";

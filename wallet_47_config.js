@@ -1,1 +1,1 @@
-var mnemonic = "already quick reject cliff assume ill cable idle slight addict flavor sail";
+var mnemonic = "around open guilt rebel spend sick gaze couch eyebrow pelican moon regret";

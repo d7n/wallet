@@ -1,1 +1,1 @@
-var mnemonic = "attract uncover tornado crawl because woman tortoise damage never crystal thunder elephant";
+var mnemonic = "live crash foil suffer daughter harvest cinnamon economy lumber engage jewel athlete";

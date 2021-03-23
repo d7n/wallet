@@ -1,1 +1,1 @@
-var mnemonic = "card strong million kite nurse network remember enter retreat enrich pill entry";
+var mnemonic = "opinion can cruise ball palace shaft panther tumble link quality muscle hunt";

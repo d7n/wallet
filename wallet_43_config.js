@@ -1,1 +1,1 @@
-var mnemonic = "artefact sense veteran rent august addict razor talk any undo black term";
+var mnemonic = "right wink road later doctor before flower length harbor spell pelican cup";

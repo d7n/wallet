@@ -1,1 +1,1 @@
-var mnemonic = "planet code web yard remove wild unlock type blush rural double canal";
+var mnemonic = "goddess embrace letter size beyond burden cause attract own youth reward hobby";

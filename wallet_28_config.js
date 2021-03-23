@@ -1,1 +1,1 @@
-var mnemonic = "onion marriage marriage crowd slab doll elevator assault midnight grass recipe celery";
+var mnemonic = "capable tank zero elevator humble episode task celery resource vocal bean possible";

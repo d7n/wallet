@@ -1,1 +1,1 @@
-var mnemonic = "patrol horror soul medal ketchup path mechanic infant inside badge carry keep";
+var mnemonic = "tail artist pilot maximum treat easy raise chief wood island prize tornado";

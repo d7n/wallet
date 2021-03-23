@@ -1,1 +1,1 @@
-var mnemonic = "dress match vicious open holiday describe afford dust wrestle catalog try genre";
+var mnemonic = "item virtual ball still prepare coach priority turtle version doll lunar category";

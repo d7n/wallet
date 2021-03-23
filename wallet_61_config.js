@@ -1,1 +1,1 @@
-var mnemonic = "door sudden biology harsh kiss that upper yellow bomb water explain weird";
+var mnemonic = "town bird shine shoulder floor issue abuse meat mystery monkey scrap honey";

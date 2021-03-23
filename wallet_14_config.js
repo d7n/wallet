@@ -1,1 +1,1 @@
-var mnemonic = "siren arch scrap festival crowd gaze toy pride ignore traffic cloud job";
+var mnemonic = "fury end melody school situate inch slush hair moral glance bread ring";

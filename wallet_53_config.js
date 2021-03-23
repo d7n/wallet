@@ -1,1 +1,1 @@
-var mnemonic = "monitor tennis sock mirror armed mule during toe creek orbit buffalo join";
+var mnemonic = "pulp zero orient private pigeon again shift truly worry fiscal leave run";

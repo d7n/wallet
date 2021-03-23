@@ -1,1 +1,1 @@
-var mnemonic = "certain match iron can melt cry curtain pattern shiver subway cross patch";
+var mnemonic = "satisfy harvest rocket round want laptop elephant shoot rifle mesh verb improve";

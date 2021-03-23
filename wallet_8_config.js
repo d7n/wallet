@@ -1,1 +1,1 @@
-var mnemonic = "civil tortoise settle dial car flush seed main between upgrade ski oak";
+var mnemonic = "spider vocal sweet list comic gold before veteran shed calm toy fortune";

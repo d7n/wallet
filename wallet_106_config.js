@@ -1,1 +1,1 @@
-var mnemonic = "rather leg south leaf bubble owner front regular leopard fit entry breeze";
+var mnemonic = "royal young corn matter leave upgrade strong unhappy spy toast extra orient";

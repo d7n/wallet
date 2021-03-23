@@ -1,1 +1,1 @@
-var mnemonic = "fancy spring demand defense praise vintage quote scan lamp wool noble maximum";
+var mnemonic = "raccoon finger invite lecture arctic visa cradle cradle moment swift fragile step";

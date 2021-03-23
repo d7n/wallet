@@ -1,1 +1,1 @@
-var mnemonic = "isolate check romance dice table mail mimic immune midnight useless shield van";
+var mnemonic = "material private explain balcony window judge math beyond wrong noble immense staff";

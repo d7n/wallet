@@ -1,1 +1,1 @@
-var mnemonic = "hospital point advance girl squirrel fame goat quote gauge repair effort stable";
+var mnemonic = "fluid write door sing fade music tonight tunnel want soap web put";

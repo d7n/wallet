@@ -1,1 +1,1 @@
-var mnemonic = "wrong bracket penalty position learn ask unable absurd spider cereal must worth";
+var mnemonic = "hole gentle inform alter knock turkey almost update endorse lucky rival receive";

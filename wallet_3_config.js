@@ -1,1 +1,1 @@
-var mnemonic = "subject favorite aim slow mesh laundry toddler hover one remain service crop";
+var mnemonic = "two tired edit aspect skin agree catch fault enroll fresh carry disease";

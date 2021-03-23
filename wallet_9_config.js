@@ -1,1 +1,1 @@
-var mnemonic = "stamp cover dad cliff nice hedgehog liar electric assume collect time enrich";
+var mnemonic = "sponsor morning like exhaust room razor inner note treat punch strategy meat";

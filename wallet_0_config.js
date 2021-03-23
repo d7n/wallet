@@ -1,1 +1,1 @@
-var mnemonic = "road curve cake hub elbow ozone scene shoulder convince alcohol school axis";
+var mnemonic = "sudden soul road fluid obvious stable quit benefit element squeeze faith excess";

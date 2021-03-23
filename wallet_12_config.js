@@ -1,1 +1,1 @@
-var mnemonic = "humor setup rigid liar decade dream drink great screen know agent fade";
+var mnemonic = "oven hockey glare rhythm tooth cluster sad mistake vivid public gorilla worth";

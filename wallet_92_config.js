@@ -1,1 +1,1 @@
-var mnemonic = "cancel choice detect call trouble animal machine rapid spike bean excite ghost";
+var mnemonic = "also worth glare symptom text senior modify fatal analyst million lazy barely";

@@ -1,1 +1,1 @@
-var mnemonic = "divide cute blind rate merry kangaroo illegal marriage local tobacco pizza ten";
+var mnemonic = "good flag apology cereal able differ choice rubber illegal burger lunch opinion";

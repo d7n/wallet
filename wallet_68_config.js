@@ -1,1 +1,1 @@
-var mnemonic = "mercy round same rich wage carpet peasant slide uncle icon wild aunt";
+var mnemonic = "parent dress betray frost build cup size hole sight mix sunset silly";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon usage kitten unveil retire talent still bike melt grab kiwi shield";
+var mnemonic = "liquid fatigue trust kiss axis second devote rent hip tuition lake joke";

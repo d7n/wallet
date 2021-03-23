@@ -1,1 +1,1 @@
-var mnemonic = "bind swallow hurry bottom picture confirm seek country perfect fitness invite target";
+var mnemonic = "alpha empty trend hollow treat say renew traffic true icon tourist penalty";

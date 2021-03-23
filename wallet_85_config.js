@@ -1,1 +1,1 @@
-var mnemonic = "recycle normal among upset caution ignore enough brown art predict gather giant";
+var mnemonic = "tongue wrist wage rhythm piano poem tiny affair message powder bicycle head";

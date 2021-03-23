@@ -1,1 +1,1 @@
-var mnemonic = "primary diamond forum adapt final slice city embody basic grab such embrace";
+var mnemonic = "gather hundred brain vast youth grunt penalty drastic often tent lyrics quarter";

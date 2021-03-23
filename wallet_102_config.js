@@ -1,1 +1,1 @@
-var mnemonic = "abandon album juice alone life drive agent dismiss repeat edge parent slow";
+var mnemonic = "announce pipe trouble sign cannon you fame public tortoise lift deal urge";

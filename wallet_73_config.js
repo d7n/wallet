@@ -1,1 +1,1 @@
-var mnemonic = "again gap flock pigeon weather dog cinnamon sample unknown assist glide era";
+var mnemonic = "need salon elephant silver field smoke purity gap royal protect faculty beef";

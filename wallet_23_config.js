@@ -1,1 +1,1 @@
-var mnemonic = "little attitude rookie course cupboard decade three cross cactus divorce purchase culture";
+var mnemonic = "language call remain surge coil always sure expire silly deal worry crouch";

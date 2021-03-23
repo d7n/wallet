@@ -1,1 +1,1 @@
-var mnemonic = "fade roast sadness hip mesh bench food file mandate guilt slush essence";
+var mnemonic = "depart egg used transfer dial census actress spend describe ranch review uncover";

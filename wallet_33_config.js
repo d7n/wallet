@@ -1,1 +1,1 @@
-var mnemonic = "peace olympic devote theme misery code kingdom soap session shove put curious";
+var mnemonic = "clarify message excess addict daring stick visual type clap stumble include deputy";

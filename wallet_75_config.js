@@ -1,1 +1,1 @@
-var mnemonic = "street soul truly category device curtain spring exchange mercy embrace feature salt";
+var mnemonic = "ice trophy core venue dash observe camp repeat puppy mistake match okay";

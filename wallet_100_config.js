@@ -1,1 +1,1 @@
-var mnemonic = "fiction asthma attack merge shoot peace napkin pigeon display riot dice mom";
+var mnemonic = "squeeze wrestle reveal shadow edge thumb actual raise change primary twin derive";

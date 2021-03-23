@@ -1,1 +1,1 @@
-var mnemonic = "burden street enable shoulder card renew grit tenant label harvest famous debate";
+var mnemonic = "tourist leave shadow alter giant demand mystery scheme endorse appear riot rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "later annual awake essay assault faculty arrest phrase cabin hold glare shell";
+var mnemonic = "truly best champion bread exhaust ceiling sponsor cruel type cook summer bird";

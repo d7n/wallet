@@ -1,1 +1,1 @@
-var mnemonic = "syrup print egg grunt bicycle tortoise grief appear same raw will defy";
+var mnemonic = "afraid blind wealth open zone wrestle silly neck chief puppy urge moral";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle profit clump leg canvas finish exotic grant blossom wrong chief picture";
+var mnemonic = "paper bone cage grass maximum police crime mean surge poverty sick open";
