@@ -1,1 +1,1 @@
-var mnemonic = "shell faith sustain price eight electric tank dog alert method twenty angle";
+var mnemonic = "brother enact symbol slush actual coil stock wash notice old lock case";

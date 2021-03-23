@@ -1,1 +1,1 @@
-var mnemonic = "peasant sudden perfect essay pause fluid buddy shed install flame paper museum";
+var mnemonic = "december island bottom pause scare lunch tower cruel night divorce clock answer";

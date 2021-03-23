@@ -1,1 +1,1 @@
-var mnemonic = "crash point right output shield only cause donkey scissors athlete lumber reward";
+var mnemonic = "tired marine type soldier pioneer paper addict avoid since hope ketchup stool";

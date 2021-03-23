@@ -1,1 +1,1 @@
-var mnemonic = "entire high slice grant behave squirrel echo coil chair boil friend dawn";
+var mnemonic = "lock embark assault rapid laundry hybrid common sense just drastic wife wait";

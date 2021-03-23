@@ -1,1 +1,1 @@
-var mnemonic = "hundred hire fortune online glare mistake dune brown twin sing child mosquito";
+var mnemonic = "poet result insect session turtle follow forum beef dentist zoo mandate bright";

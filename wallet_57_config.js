@@ -1,1 +1,1 @@
-var mnemonic = "wrestle celery wool cute tiny timber ice orange fox start seed hotel";
+var mnemonic = "pretty danger wool zero shallow insane kiss wool assist note obey video";

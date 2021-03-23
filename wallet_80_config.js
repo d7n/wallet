@@ -1,1 +1,1 @@
-var mnemonic = "pass session woman tell post fit lawn boy need rebuild execute genuine";
+var mnemonic = "invite screen limit muscle arrest skull mandate chuckle that hire hole beach";

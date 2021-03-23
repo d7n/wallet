@@ -1,1 +1,1 @@
-var mnemonic = "area baby skin gaze wife champion blast primary riot chuckle faint news";
+var mnemonic = "ankle giant icon day danger recipe bind giggle silent drive teach tunnel";

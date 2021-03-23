@@ -1,1 +1,1 @@
-var mnemonic = "shoulder basket window file fluid sun bus harsh grain axis roof bone";
+var mnemonic = "dizzy ring planet obtain then tell enact layer state nut solar banana";

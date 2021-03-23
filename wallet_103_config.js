@@ -1,1 +1,1 @@
-var mnemonic = "toss hamster solve metal script typical air urban snake sample cheese close";
+var mnemonic = "rescue machine broken much whisper mule whisper tired note strike funny vivid";

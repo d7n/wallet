@@ -1,1 +1,1 @@
-var mnemonic = "weapon loyal bus sad tennis emotion camp oppose enter cloth art main";
+var mnemonic = "soup chunk father pioneer economy pause battle wash click section small harsh";

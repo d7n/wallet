@@ -1,1 +1,1 @@
-var mnemonic = "sentence advance junior like inquiry dwarf remember erode express coral fan era";
+var mnemonic = "illegal spot fetch buzz zero planet supply observe wage save tobacco silent";

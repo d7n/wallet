@@ -1,1 +1,1 @@
-var mnemonic = "pulp celery lucky only carpet cradle unhappy produce rescue midnight monster ill";
+var mnemonic = "young design noodle picnic obvious sister discover salmon fringe fade come enter";

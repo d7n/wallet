@@ -1,1 +1,1 @@
-var mnemonic = "entire slam patient stereo rate garlic electric peanut then just gospel appear";
+var mnemonic = "crane reunion laugh obtain gadget immune tent must mix useful size census";

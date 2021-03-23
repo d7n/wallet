@@ -1,1 +1,1 @@
-var mnemonic = "reject world grid hint blue plastic fix stadium essay multiply occur stamp";
+var mnemonic = "decline forum strong naive much barrel bubble bike ladder urge voyage fork";

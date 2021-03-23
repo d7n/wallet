@@ -1,1 +1,1 @@
-var mnemonic = "speak wealth transfer emotion whip fiction mango core reopen glance kidney shoe";
+var mnemonic = "final crawl fall busy build broom repeat staff normal cabbage honey fragile";

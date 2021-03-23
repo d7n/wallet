@@ -1,1 +1,1 @@
-var mnemonic = "force lawn swamp enhance search dish sting advice story depth maid below";
+var mnemonic = "wing gospel yard supreme hospital kidney trust ozone crunch cluster pulse lunch";

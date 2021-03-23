@@ -1,1 +1,1 @@
-var mnemonic = "accuse mixture wine food drip hidden fragile violin tomorrow wolf about frog";
+var mnemonic = "social next engine orient one fox corn often sorry area behind try";

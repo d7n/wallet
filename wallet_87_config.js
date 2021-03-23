@@ -1,1 +1,1 @@
-var mnemonic = "version toy tourist betray praise tiny burden allow engage ring organ cousin";
+var mnemonic = "ranch oil happy ensure barely winter volcano talk parent quiz thank sense";

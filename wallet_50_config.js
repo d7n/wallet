@@ -1,1 +1,1 @@
-var mnemonic = "planet wood critic law fashion much spend alarm island country topic olympic";
+var mnemonic = "identify sock hospital predict guilt jar region alcohol cabin odor able reject";

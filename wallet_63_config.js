@@ -1,1 +1,1 @@
-var mnemonic = "actress wrestle access face royal culture future provide member virus immune wise";
+var mnemonic = "grass ticket bulb caught hip later barely subway crucial meat couple mention";

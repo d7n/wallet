@@ -1,1 +1,1 @@
-var mnemonic = "blush zoo reward envelope flee tail load faith valid copper cradle gain";
+var mnemonic = "ketchup frown vacant remove bulk odor invite tone horse try bottom attack";

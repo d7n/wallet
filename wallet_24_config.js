@@ -1,1 +1,1 @@
-var mnemonic = "east job prize artwork guitar issue black film place region submit wing";
+var mnemonic = "basket twelve wink swim wrestle bachelor skirt limit math give mixed hazard";

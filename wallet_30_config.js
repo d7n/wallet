@@ -1,1 +1,1 @@
-var mnemonic = "major sudden athlete mystery furnace execute friend glue illness forest pledge material";
+var mnemonic = "risk eye surge file rocket card potato proud gravity family unusual mule";

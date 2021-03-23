@@ -1,1 +1,1 @@
-var mnemonic = "surge dizzy calm add shell business jelly minute beauty rapid install slender";
+var mnemonic = "swallow similar twelve dry language duck force mean write capable drastic snap";

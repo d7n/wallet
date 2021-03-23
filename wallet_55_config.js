@@ -1,1 +1,1 @@
-var mnemonic = "unfold record bubble aspect elder increase pelican access bitter switch valve boring";
+var mnemonic = "scrap harvest able friend cheap adapt can bounce nurse grunt edge focus";

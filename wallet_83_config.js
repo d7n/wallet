@@ -1,1 +1,1 @@
-var mnemonic = "october worth symbol garden state example baby agent style bus general simple";
+var mnemonic = "maze lawsuit goddess secret reunion effort under stable merry tribe twist giraffe";

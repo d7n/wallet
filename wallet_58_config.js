@@ -1,1 +1,1 @@
-var mnemonic = "retire pride spirit palace woman indoor cart frog expand valid author situate";
+var mnemonic = "lock palm version build alpha together hello vacuum latin veteran urban lake";

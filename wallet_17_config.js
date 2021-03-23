@@ -1,1 +1,1 @@
-var mnemonic = "kind slow story unable someone brass gown reunion trouble snap donkey cable";
+var mnemonic = "range cactus olive sell lesson predict coconut control simple despair job vast";

@@ -1,1 +1,1 @@
-var mnemonic = "play hurdle lock evolve merge chunk shift luggage tackle iron message success";
+var mnemonic = "pet gossip remember city skill fan cycle gain rely obvious inspire sort";

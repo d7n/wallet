@@ -1,1 +1,1 @@
-var mnemonic = "book ritual pelican immense tiger own ritual hair dose census trap next";
+var mnemonic = "dust type slight pretty table response stamp fee payment hazard equip mandate";

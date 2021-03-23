@@ -1,1 +1,1 @@
-var mnemonic = "critic tilt undo live proud page warfare dirt wire build find lab";
+var mnemonic = "retire raise asset lamp wink inside sorry smile rule during buyer arena";

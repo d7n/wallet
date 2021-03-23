@@ -1,1 +1,1 @@
-var mnemonic = "galaxy seed volume ribbon nature garden gadget web original pumpkin brave hybrid";
+var mnemonic = "soccer knee vintage update coach knock excite promote indoor egg aware fit";

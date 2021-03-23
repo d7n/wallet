@@ -1,1 +1,1 @@
-var mnemonic = "collect skill sibling access sibling stand enhance claim female ticket below crack";
+var mnemonic = "install catch child isolate leopard leader wine false soda armor gym trade";

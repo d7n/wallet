@@ -1,1 +1,1 @@
-var mnemonic = "impact cushion allow decide code visit wolf tobacco creek flower antique blush";
+var mnemonic = "forward wool fantasy enter disorder amount napkin evil hybrid acid pair approve";

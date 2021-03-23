@@ -1,1 +1,1 @@
-var mnemonic = "error defy chunk tribe nothing year gain unveil state write loud effort";
+var mnemonic = "income vacuum sign flower identify cable ensure time goat bid brother pudding";

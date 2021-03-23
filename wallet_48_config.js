@@ -1,1 +1,1 @@
-var mnemonic = "spice cost ill spice motor mandate net tape husband weather champion endless";
+var mnemonic = "cradle wood version plate illegal convince essence coral movie sure muffin predict";

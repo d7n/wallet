@@ -1,1 +1,1 @@
-var mnemonic = "ocean airport bomb age mix clay squirrel identify pulse verify brisk repair";
+var mnemonic = "paddle bless lift indicate gun fix task century birth deposit vacant jaguar";

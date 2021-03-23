@@ -1,1 +1,1 @@
-var mnemonic = "wrestle offer choice north drum action dynamic title deposit grain flip supreme";
+var mnemonic = "bright such coast predict pilot unhappy father little raccoon bright sadness issue";

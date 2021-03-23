@@ -1,1 +1,1 @@
-var mnemonic = "length jazz swift vocal tonight provide any avoid genuine elite balcony merry";
+var mnemonic = "frequent control smoke minor slush harsh pattern dial hotel ranch usage melt";

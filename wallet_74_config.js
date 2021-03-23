@@ -1,1 +1,1 @@
-var mnemonic = "lend deliver father orchard indoor slight force seminar twenty reopen eye special";
+var mnemonic = "hen tail obtain gate creek submit biology leaf banner document unhappy taste";

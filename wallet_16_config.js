@@ -1,1 +1,1 @@
-var mnemonic = "bench lunch page nurse guess trip trip such need help palm shrimp";
+var mnemonic = "blade donate best junk screen vacuum bicycle lumber belt stomach holiday early";

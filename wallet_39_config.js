@@ -1,1 +1,1 @@
-var mnemonic = "artwork domain regular capital pledge prepare vintage ridge behind input weapon target";
+var mnemonic = "imitate inform nerve warm enroll ten drink wasp bulb deputy deal upset";

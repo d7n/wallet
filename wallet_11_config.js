@@ -1,1 +1,1 @@
-var mnemonic = "sort fine endless desk cube finger clinic resemble arrow access negative opinion";
+var mnemonic = "roast addict famous waste turtle autumn cinnamon common vault luggage guilt exchange";

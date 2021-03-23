@@ -1,1 +1,1 @@
-var mnemonic = "wisdom chunk trouble game sea device oppose flush penalty busy jeans under";
+var mnemonic = "claw hero favorite already solid assist fantasy pull when main bulb dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "cup deal laundry stand hamster daring speak exist axis swallow pen prevent";
+var mnemonic = "castle price pluck powder despair crack fix proof tell sad lens dove";

@@ -1,1 +1,1 @@
-var mnemonic = "rely figure expect hurdle airport radio vehicle cinnamon convince visa model error";
+var mnemonic = "quick brave sun travel hint awkward inner amused pizza source hello skirt";

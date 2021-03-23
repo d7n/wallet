@@ -1,1 +1,1 @@
-var mnemonic = "surprise move powder man lounge amazing dish raccoon mind talk small evidence";
+var mnemonic = "wine script globe cube cruise rare response trap swarm piece scare predict";

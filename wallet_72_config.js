@@ -1,1 +1,1 @@
-var mnemonic = "truth quality until roast occur puzzle midnight verify awesome open huge segment";
+var mnemonic = "one visual ankle race record fancy foam usual pair drop draft divorce";

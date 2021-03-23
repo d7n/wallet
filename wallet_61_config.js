@@ -1,1 +1,1 @@
-var mnemonic = "crucial once home captain random simple forward deny target token excess reform";
+var mnemonic = "matrix perfect journey rural benefit asthma bus blush agree daughter museum type";

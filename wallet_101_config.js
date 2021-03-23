@@ -1,1 +1,1 @@
-var mnemonic = "empty leg future phone illegal blood library foster siren donor skate enjoy";
+var mnemonic = "recall return supply runway carpet color blur ensure light attack pause absurd";

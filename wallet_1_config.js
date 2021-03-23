@@ -1,1 +1,1 @@
-var mnemonic = "gown oak evoke caught pledge thumb birth setup enact vanish glory gossip";
+var mnemonic = "sausage stand move dawn panda found evolve keen timber assume yard kiwi";

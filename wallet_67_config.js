@@ -1,1 +1,1 @@
-var mnemonic = "devote illness snake tissue wonder zoo try noodle obey ring exclude luxury";
+var mnemonic = "weasel mandate decline club price soap brain lend sample decorate genuine inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "group bulb divide nasty crystal access indicate love insect trip ancient divide";
+var mnemonic = "rely term debris process gown hello mad output eagle squeeze museum lecture";

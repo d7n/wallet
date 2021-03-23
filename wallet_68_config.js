@@ -1,1 +1,1 @@
-var mnemonic = "warfare express remind scan fury celery museum blossom giant bless common cannon";
+var mnemonic = "typical floor feature fiber hazard cargo patient spoon adult edge snap armed";

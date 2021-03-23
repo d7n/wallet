@@ -1,1 +1,1 @@
-var mnemonic = "almost thing dumb mountain two truck ignore capital assist perfect topic angry";
+var mnemonic = "list spawn gadget dwarf strike silk peace horror adult talk embody erase";

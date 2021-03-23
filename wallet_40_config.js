@@ -1,1 +1,1 @@
-var mnemonic = "senior genre young floor vote answer gauge panther chuckle business device media";
+var mnemonic = "recall round riot grant shell cart acquire olympic ball divert wrap quote";

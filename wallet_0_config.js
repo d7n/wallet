@@ -1,1 +1,1 @@
-var mnemonic = "custom mix season scheme harsh taste cream short behave awful identify disorder";
+var mnemonic = "service common tornado north know insect become kite expect humble indicate release";

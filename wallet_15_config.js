@@ -1,1 +1,1 @@
-var mnemonic = "true master kitten noise cushion gift people best mistake mention answer peasant";
+var mnemonic = "zoo mean crime matrix wave abandon easily unusual baby edit offer hope";

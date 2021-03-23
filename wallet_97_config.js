@@ -1,1 +1,1 @@
-var mnemonic = "spin hidden economy emotion drastic mouse level innocent toe average purpose bus";
+var mnemonic = "swim run dish castle truly giraffe inch dynamic turtle fossil timber scare";

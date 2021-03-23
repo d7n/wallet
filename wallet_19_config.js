@@ -1,1 +1,1 @@
-var mnemonic = "claw pretty word glad merry nephew cake jar mercy foot primary baby";
+var mnemonic = "decade travel tunnel small purse arctic device opera above neglect art school";

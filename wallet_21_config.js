@@ -1,1 +1,1 @@
-var mnemonic = "blur gallery stamp parent bargain coyote strong ordinary spoil nothing gown make";
+var mnemonic = "smart draw arm junior weekend draw absurd arm card fat attitude piano";

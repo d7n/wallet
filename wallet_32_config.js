@@ -1,1 +1,1 @@
-var mnemonic = "arrow account drum dress square photo decrease census light bread pipe member";
+var mnemonic = "tragic dress miracle power ceiling universe refuse shaft soft silent great nerve";

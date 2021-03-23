@@ -1,1 +1,1 @@
-var mnemonic = "normal merge beef tiny build shoe tenant document equal throw color quality";
+var mnemonic = "domain adapt brush auto bless magnet bright sunset viable swift amused maze";

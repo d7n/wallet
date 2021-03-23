@@ -1,1 +1,1 @@
-var mnemonic = "sudden wild cradle churn venue expand lift hire kitchen feed atom toast";
+var mnemonic = "dynamic enroll clown roof bag okay giggle hunt ocean equip tone radio";

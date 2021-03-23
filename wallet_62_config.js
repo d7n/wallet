@@ -1,1 +1,1 @@
-var mnemonic = "relief merge wink cable voyage setup science work course consider nephew pride";
+var mnemonic = "frost drum tilt across lunch ketchup provide coil strong decline only token";

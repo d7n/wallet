@@ -1,1 +1,1 @@
-var mnemonic = "consider bitter entry month document casual wonder bunker consider famous symptom flee";
+var mnemonic = "response blade task short lobster machine label room announce promote solution flower";

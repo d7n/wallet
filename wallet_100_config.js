@@ -1,1 +1,1 @@
-var mnemonic = "spend easily sweet radio arrive auto average surface october finish bean hard";
+var mnemonic = "sister time drama coral describe frog mass net grape then head release";

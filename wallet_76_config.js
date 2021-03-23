@@ -1,1 +1,1 @@
-var mnemonic = "three inspire cliff repair tooth security aware service gold pitch awful emotion";
+var mnemonic = "north safe angry copper pledge saddle endless permit author custom number future";

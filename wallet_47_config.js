@@ -1,1 +1,1 @@
-var mnemonic = "nominee blind copper company flight visa soap core pear neglect soft empower";
+var mnemonic = "music clock select total boss evil profit angry hockey same often calm";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding spice gallery craft reduce shed discover change clean actress tunnel label";
+var mnemonic = "divorce holiday gauge input ecology zero remain mistake oven weasel exhibit inner";

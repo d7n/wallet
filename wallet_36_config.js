@@ -1,1 +1,1 @@
-var mnemonic = "census junior find runway army divide satoshi because answer stone project point";
+var mnemonic = "cloud hard ability portion orphan guide space spot fruit initial master danger";

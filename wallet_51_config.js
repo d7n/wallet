@@ -1,1 +1,1 @@
-var mnemonic = "canvas start slide mosquito cost cream dilemma better illegal vital bicycle jewel";
+var mnemonic = "juice inform laugh home put prosper settle park exotic wealth cousin lecture";

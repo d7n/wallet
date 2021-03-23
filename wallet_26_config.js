@@ -1,1 +1,1 @@
-var mnemonic = "typical ecology liberty typical cereal love atom theme common relax danger favorite";
+var mnemonic = "acid olympic text expand artist athlete web fish gloom cake gospel barrel";

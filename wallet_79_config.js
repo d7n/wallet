@@ -1,1 +1,1 @@
-var mnemonic = "mail wheel gorilla plastic story tribe pen donkey element scan expand above";
+var mnemonic = "oppose again august soldier about wage science sentence jewel income charge retreat";

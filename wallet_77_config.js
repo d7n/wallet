@@ -1,1 +1,1 @@
-var mnemonic = "flight essence boss banner clock whale govern skull bread canoe mimic front";
+var mnemonic = "buddy glove young body ivory equal tail corn resemble benefit maximum omit";

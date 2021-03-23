@@ -1,1 +1,1 @@
-var mnemonic = "pony viable pink lake present boy evolve note match envelope fish diagram";
+var mnemonic = "oven pluck pool sand churn orient morning basic maximum world turtle sibling";

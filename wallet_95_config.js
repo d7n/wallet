@@ -1,1 +1,1 @@
-var mnemonic = "estate census inside sudden mention wrist simple expose close outdoor neither cabin";
+var mnemonic = "pig dry stage diet color away strategy maple stove flower column sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "grow grocery boil sunny game unfold still boy latin noise vote address";
+var mnemonic = "all help symptom weather path circle idea maple cruel candy common portion";

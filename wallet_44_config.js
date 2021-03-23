@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog civil foot cup change chalk romance blame element senior thunder response";
+var mnemonic = "animal obvious seat popular domain core frequent element nothing audit congress coyote";

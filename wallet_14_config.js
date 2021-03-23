@@ -1,1 +1,1 @@
-var mnemonic = "stairs speed bomb key day harvest lift shed radar obvious door globe";
+var mnemonic = "piece language give sphere tag kingdom sick cry entire stairs light vacant";

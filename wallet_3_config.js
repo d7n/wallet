@@ -1,1 +1,1 @@
-var mnemonic = "matrix occur energy pizza hungry staff canyon horror final book loan history";
+var mnemonic = "engine struggle brisk journey wall exchange give fatal among welcome riot vote";

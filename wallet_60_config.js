@@ -1,1 +1,1 @@
-var mnemonic = "camp addict license duck price because spawn liberty below cloth sun shoot";
+var mnemonic = "word ranch shine swear genre curve adapt foot monitor crash divorce dizzy";

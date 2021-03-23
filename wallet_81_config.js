@@ -1,1 +1,1 @@
-var mnemonic = "barrel sort actor organ wreck reflect agree health useless vapor agent click";
+var mnemonic = "elevator exact stuff bright party kid blouse job tell enrich siren uniform";

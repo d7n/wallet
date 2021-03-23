@@ -1,1 +1,1 @@
-var mnemonic = "extra depart student boil glide devote april barrel crime vibrant coin acquire";
+var mnemonic = "mix honey defy peace candy pear oven venue frozen initial embark patch";

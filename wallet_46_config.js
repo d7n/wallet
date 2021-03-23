@@ -1,1 +1,1 @@
-var mnemonic = "dynamic little box sock region man faculty fortune alien retire depend cross";
+var mnemonic = "equal mixed relax holiday guitar cinnamon actual drip surge sting cost quantum";

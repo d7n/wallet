@@ -1,1 +1,1 @@
-var mnemonic = "meadow junk frown acid try pet lock ice sauce bulb exclude energy";
+var mnemonic = "erode neutral perfect minor initial clap aisle grass uncle eyebrow apart public";
