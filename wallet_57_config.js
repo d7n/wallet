@@ -1,1 +1,1 @@
-var mnemonic = "crucial pumpkin glove lecture light broccoli fat split oblige price cook green";
+var mnemonic = "empower where indicate crane shift divert hunt family cargo exclude diesel drum";

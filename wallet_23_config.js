@@ -1,1 +1,1 @@
-var mnemonic = "stage detail movie endorse replace chair caution owner tumble habit motor ignore";
+var mnemonic = "minute lobster hobby citizen inch okay mistake hero steak wink idle burst";

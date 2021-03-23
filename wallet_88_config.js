@@ -1,1 +1,1 @@
-var mnemonic = "kiwi insane friend sudden fortune length side interest base wear caught pyramid";
+var mnemonic = "latin exile table erode bamboo leaf empower cherry night nurse dwarf violin";

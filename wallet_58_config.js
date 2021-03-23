@@ -1,1 +1,1 @@
-var mnemonic = "wine protect echo method radar pulse sorry festival senior dismiss easily uncover";
+var mnemonic = "direct charge token cabbage amazing pull flock swarm magnet claw whisper clinic";

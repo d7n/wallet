@@ -1,1 +1,1 @@
-var mnemonic = "brush flee economy snack wheat skill exchange organ sad scheme artwork wheat";
+var mnemonic = "reform human cute field concert actual guitar fury session tribe milk prosper";

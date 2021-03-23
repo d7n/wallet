@@ -1,1 +1,1 @@
-var mnemonic = "brave hello anxiety decide that detail night chaos demand develop acid address";
+var mnemonic = "client grow error love kid shoot ask december else surround example skate";

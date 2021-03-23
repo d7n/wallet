@@ -1,1 +1,1 @@
-var mnemonic = "silly grit sea spot circle ribbon divorce vibrant divide tenant hammer cart";
+var mnemonic = "crawl small worth dove apart video cousin economy blue stick wage together";

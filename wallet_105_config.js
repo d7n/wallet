@@ -1,1 +1,1 @@
-var mnemonic = "neutral husband juice decline wrist robot theme oblige uncover pitch image extra";
+var mnemonic = "drama tourist seed enter cabin clutch kick reunion mix lounge neither rule";

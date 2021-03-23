@@ -1,1 +1,1 @@
-var mnemonic = "sad trim mix swarm ozone rookie sport live erupt boring mention amused";
+var mnemonic = "thing recipe shiver stone add travel run cruel flee grab rookie raw";

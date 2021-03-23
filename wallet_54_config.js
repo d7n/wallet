@@ -1,1 +1,1 @@
-var mnemonic = "shed dress master wash alone glad exhaust jeans expose roof much creek";
+var mnemonic = "gym snack melt ranch bar puppy vapor valid rail thrive side ozone";

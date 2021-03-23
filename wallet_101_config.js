@@ -1,1 +1,1 @@
-var mnemonic = "choice joke peasant sure price over one because travel web divert sound";
+var mnemonic = "below acquire parent visual bright wolf laugh movie rescue magnet fiber clay";

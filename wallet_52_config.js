@@ -1,1 +1,1 @@
-var mnemonic = "clarify abstract primary illness kiss donor round inherit absurd liar zebra pulse";
+var mnemonic = "tent fresh multiply slim paper gold normal dash dash school bitter donor";

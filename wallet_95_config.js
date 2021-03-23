@@ -1,1 +1,1 @@
-var mnemonic = "learn target flag drink leave salad west suffer peanut tourist angry custom";
+var mnemonic = "wheat flip visual frog feed laptop cover mandate company transfer toward summer";

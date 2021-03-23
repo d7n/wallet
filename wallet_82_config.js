@@ -1,1 +1,1 @@
-var mnemonic = "trip pattern burden tonight chief aware ask fun awkward benefit help fantasy";
+var mnemonic = "cattle blur midnight youth asset drive cigar arrange short lesson tattoo still";

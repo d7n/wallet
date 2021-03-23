@@ -1,1 +1,1 @@
-var mnemonic = "stuff science analyst remind olive link deer side over truly ritual pause";
+var mnemonic = "fringe aisle accuse pencil enable spare canyon wheel adapt symptom amazing useful";

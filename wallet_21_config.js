@@ -1,1 +1,1 @@
-var mnemonic = "volcano ride shrimp vault laundry coyote innocent tilt spot suspect stand orbit";
+var mnemonic = "direct decide differ arrest negative pulse comic chunk mechanic dirt believe arrive";

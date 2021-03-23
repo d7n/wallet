@@ -1,1 +1,1 @@
-var mnemonic = "grit risk month shine sponsor tag also valley twist number barrel gaze";
+var mnemonic = "exchange rally need dial crunch april tank anchor barrel honey never only";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic lava delay subway replace crack bag enable agent hope throw people";
+var mnemonic = "gun phone clog develop stove elite drip output test illegal seminar huge";

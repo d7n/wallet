@@ -1,1 +1,1 @@
-var mnemonic = "fog family bag october luggage quantum project craft behave morning mimic fury";
+var mnemonic = "lion winner eight frog glad kingdom waste relax between wait fluid innocent";

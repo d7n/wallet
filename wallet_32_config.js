@@ -1,1 +1,1 @@
-var mnemonic = "minute shed address dog audit one dynamic traffic body rain humor ring";
+var mnemonic = "charge deputy amused grunt inform tube pulp pass unhappy share okay paper";

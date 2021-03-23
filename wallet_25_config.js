@@ -1,1 +1,1 @@
-var mnemonic = "live donate plate nation economy taste sadness width ignore spoil gold other";
+var mnemonic = "enroll mouse sphere broccoli predict version roof blouse problem crater forest letter";

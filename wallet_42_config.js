@@ -1,1 +1,1 @@
-var mnemonic = "grief motion sustain ranch act speak topple ahead reunion enact vintage city";
+var mnemonic = "pledge custom dog dynamic flee blur explain luxury vocal produce curtain left";

@@ -1,1 +1,1 @@
-var mnemonic = "label jealous over minimum case clutch estate day glove curtain across clip";
+var mnemonic = "wrestle leaf daughter fire climb letter position calm wait modify park actress";

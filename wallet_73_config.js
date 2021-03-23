@@ -1,1 +1,1 @@
-var mnemonic = "borrow open arctic tool usual mercy before wonder more invest salmon adult";
+var mnemonic = "visual olive among cube gap image matrix giggle thunder exhibit stumble frown";

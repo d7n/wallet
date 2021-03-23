@@ -1,1 +1,1 @@
-var mnemonic = "develop ordinary wood penalty that quiz knee holiday twist earn indicate armor";
+var mnemonic = "dust other manage boss laugh vintage path tray carpet genuine service dance";

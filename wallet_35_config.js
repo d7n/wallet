@@ -1,1 +1,1 @@
-var mnemonic = "library poem anger stool submit wagon occur color rabbit remember market expect";
+var mnemonic = "analyst plunge liar cheap snap reopen neither riot describe theme hurry math";

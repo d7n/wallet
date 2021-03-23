@@ -1,1 +1,1 @@
-var mnemonic = "rival salad frost hunt safe essence possible humble certain ship business curious";
+var mnemonic = "author park afraid old below credit horror promote hold impose hollow wink";

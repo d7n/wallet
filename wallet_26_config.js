@@ -1,1 +1,1 @@
-var mnemonic = "excess edit claw category buffalo ride symptom satisfy friend quote test sand";
+var mnemonic = "october second arrange equip easy awesome clock confirm prison cricket undo game";

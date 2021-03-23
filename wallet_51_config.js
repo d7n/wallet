@@ -1,1 +1,1 @@
-var mnemonic = "upon abuse series report number leg swim wet tuition toe dove roof";
+var mnemonic = "giraffe rain filter project february beach vendor rain welcome fabric butter shield";

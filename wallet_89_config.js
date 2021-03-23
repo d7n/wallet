@@ -1,1 +1,1 @@
-var mnemonic = "next comic engine two cause feed supreme degree hidden rigid present adult";
+var mnemonic = "vintage pride unit giant excess sphere mask point coach two again intact";

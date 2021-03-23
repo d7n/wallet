@@ -1,1 +1,1 @@
-var mnemonic = "fall trim blame hybrid oil case mosquito exhibit decade mushroom swarm bracket";
+var mnemonic = "client gap lazy remove slogan parrot divorce genuine rescue twin climb odor";

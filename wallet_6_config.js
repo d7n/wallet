@@ -1,1 +1,1 @@
-var mnemonic = "explain fit ozone purpose dinosaur area spy melt learn glory dwarf human";
+var mnemonic = "endless woman noise mimic humor scatter nation remain meat wild home cry";

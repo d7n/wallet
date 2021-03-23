@@ -1,1 +1,1 @@
-var mnemonic = "rug bounce number torch base error person fashion idle auction once eight";
+var mnemonic = "minimum abuse shaft mystery liberty seminar float father better high woman gentle";

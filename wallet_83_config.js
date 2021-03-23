@@ -1,1 +1,1 @@
-var mnemonic = "since erupt drama comfort clutch clay parade rare elegant choose october labor";
+var mnemonic = "rough recycle adapt congress rate scan install panda interest butter mutual field";

@@ -1,1 +1,1 @@
-var mnemonic = "police proud refuse goat picnic speak gas crunch kid cake dignity glass";
+var mnemonic = "hidden vanish strong crop end vanish enter security bacon flash elevator quarter";

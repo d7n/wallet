@@ -1,1 +1,1 @@
-var mnemonic = "orchard term fog chalk will sentence poem lunar shallow lecture trend ball";
+var mnemonic = "animal excite indoor inquiry exclude tomato forget warfare legend soldier energy regular";

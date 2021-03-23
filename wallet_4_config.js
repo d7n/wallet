@@ -1,1 +1,1 @@
-var mnemonic = "census awful entry wife sun butter excite behind catch section claw receive";
+var mnemonic = "choice topic charge brief aerobic draw gain wrist same buzz upset purchase";

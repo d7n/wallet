@@ -1,1 +1,1 @@
-var mnemonic = "toddler where ahead brain size future celery meat social record drive icon";
+var mnemonic = "abstract nature stomach quarter coffee tiny episode good symbol concert host gravity";

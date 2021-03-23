@@ -1,1 +1,1 @@
-var mnemonic = "prefer embrace muffin plug tennis water alien tuition volcano crane lift omit";
+var mnemonic = "stove offer syrup chef skate riot stick rotate jewel monkey index annual";

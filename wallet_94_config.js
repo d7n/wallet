@@ -1,1 +1,1 @@
-var mnemonic = "snake pink calm jump hire disagree hope used glimpse worry educate frame";
+var mnemonic = "pave indoor require gauge depth place monkey report swap caught police foster";

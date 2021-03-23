@@ -1,1 +1,1 @@
-var mnemonic = "spot mutual depend trash clown tank peanut shock gap hurry debate hotel";
+var mnemonic = "hunt custom wash glove spatial top arrive much reflect scissors animal country";

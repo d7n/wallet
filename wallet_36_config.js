@@ -1,1 +1,1 @@
-var mnemonic = "lend session dwarf rely leave gospel glance grow more aware festival beauty";
+var mnemonic = "axis replace empty rule spike attack shop repair stamp people better mom";

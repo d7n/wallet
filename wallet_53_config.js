@@ -1,1 +1,1 @@
-var mnemonic = "mask gravity build promote afraid ugly oil deposit cabbage accuse lucky above";
+var mnemonic = "near slender trend oxygen velvet foot ring genre cool wine flag custom";

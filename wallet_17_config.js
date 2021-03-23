@@ -1,1 +1,1 @@
-var mnemonic = "twin unhappy gift royal scare inflict artefact destroy adapt helmet notable option";
+var mnemonic = "imitate recipe try attract speak used rebuild basket artist design barrel seek";

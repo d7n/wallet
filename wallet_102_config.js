@@ -1,1 +1,1 @@
-var mnemonic = "aerobic media coconut coin drive pudding defy mercy tuna arch stem feel";
+var mnemonic = "glue puppy fish scan girl rain lend orphan toast grace avocado home";

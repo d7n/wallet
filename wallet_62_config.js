@@ -1,1 +1,1 @@
-var mnemonic = "nation begin shuffle danger tilt bitter turkey trick remove imitate axis sail";
+var mnemonic = "kangaroo salmon expire black present museum envelope craft much squeeze junk screen";

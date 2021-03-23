@@ -1,1 +1,1 @@
-var mnemonic = "flush slush receive sure snack actual idea hawk borrow lizard warm test";
+var mnemonic = "dawn comfort file table high wish exact true scrap master skin brass";

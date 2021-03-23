@@ -1,1 +1,1 @@
-var mnemonic = "demise gain celery satisfy nephew kick ensure stomach enforce sugar suspect task";
+var mnemonic = "possible banner ceiling police pole case post couple response purity news board";

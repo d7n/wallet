@@ -1,1 +1,1 @@
-var mnemonic = "saddle uniform dirt enough radar wise push first pig enrich smart better";
+var mnemonic = "rabbit chapter captain happy arrest meat artwork panel jewel fiction climb cave";

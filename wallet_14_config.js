@@ -1,1 +1,1 @@
-var mnemonic = "admit box fantasy exercise gospel twelve grocery surround situate reject credit sample";
+var mnemonic = "address until hockey solution account still choose stumble desk reason right dial";

@@ -1,1 +1,1 @@
-var mnemonic = "rice craft mother orphan replace distance weird fee sadness occur calm outdoor";
+var mnemonic = "matter rigid party owner fatigue repeat exchange morning cattle youth vanish deputy";

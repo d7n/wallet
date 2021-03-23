@@ -1,1 +1,1 @@
-var mnemonic = "sausage dry frown coast cigar inherit shove kitten chaos fringe design soccer";
+var mnemonic = "twenty twenty addict hub toilet garment have monkey dust drip trick derive";

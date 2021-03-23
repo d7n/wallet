@@ -1,1 +1,1 @@
-var mnemonic = "lava side plunge lab myth foil sad photo happy oval among control";
+var mnemonic = "ghost grunt anxiety web blame car nurse reward shock output bacon winter";

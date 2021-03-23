@@ -1,1 +1,1 @@
-var mnemonic = "sustain emerge display vapor fresh pitch aspect lend gadget essay name burden";
+var mnemonic = "little artefact average client thumb nice entire wisdom staff ticket seven minor";

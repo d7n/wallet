@@ -1,1 +1,1 @@
-var mnemonic = "initial hope siege decorate address planet any select regular clutch cram blame";
+var mnemonic = "invite arrest finger claw miss yellow front virtual net addict canal spy";

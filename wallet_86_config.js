@@ -1,1 +1,1 @@
-var mnemonic = "ribbon permit impulse conduct long brand conduct custom raise pitch keen switch";
+var mnemonic = "scrap order army idle abstract over forget leaf order square multiply arrive";

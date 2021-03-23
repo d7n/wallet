@@ -1,1 +1,1 @@
-var mnemonic = "together autumn amazing fortune fever pencil tumble when height wasp element reflect";
+var mnemonic = "grunt comic vacant jelly again survey hope require identify humble decorate maximum";

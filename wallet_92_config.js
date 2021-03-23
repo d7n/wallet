@@ -1,1 +1,1 @@
-var mnemonic = "wisdom spirit twin normal predict eyebrow join train crane piece relax make";
+var mnemonic = "merry celery assist black lottery mind initial kidney reveal scorpion lunar fox";

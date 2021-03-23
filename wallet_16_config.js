@@ -1,1 +1,1 @@
-var mnemonic = "survey observe taxi liberty antenna cost divide earth cousin raven manage warfare";
+var mnemonic = "stick surface huge search share must opera return hunt wife fetch again";

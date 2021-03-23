@@ -1,1 +1,1 @@
-var mnemonic = "front buffalo eight album museum oven city someone lamp tilt effort seed";
+var mnemonic = "foot uniform order uncle blossom promote thing hawk safe water talk aim";

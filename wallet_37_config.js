@@ -1,1 +1,1 @@
-var mnemonic = "sniff chief reduce brain behind enter fiction sadness solid rare arrange about";
+var mnemonic = "taste stool measure usual orange blush involve announce endless flag credit barely";

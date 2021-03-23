@@ -1,1 +1,1 @@
-var mnemonic = "host glow lake sunset thing erosion bag potato safe approve illegal toilet";
+var mnemonic = "cancel plug cannon clay payment vibrant artwork want coyote sand slim skin";

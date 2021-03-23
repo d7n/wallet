@@ -1,1 +1,1 @@
-var mnemonic = "unhappy observe picture puppy mother hollow champion unusual final method involve enforce";
+var mnemonic = "repeat chalk theory pull tattoo lava eyebrow suspect leaf labor flavor expand";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow wagon funny soul wagon gym pear frequent scatter become suggest gentle";
+var mnemonic = "bird agree speed pistol pepper machine equip worry error smile near climb";

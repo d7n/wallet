@@ -1,1 +1,1 @@
-var mnemonic = "jewel aunt click expire leave age cactus wall tiny exact wrist chicken";
+var mnemonic = "odor fancy ivory company walnut antenna pilot excite ranch donate easy yard";

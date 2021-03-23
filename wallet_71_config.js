@@ -1,1 +1,1 @@
-var mnemonic = "feel nest cruel snack capable slice skull empower raccoon interest panther unique";
+var mnemonic = "hidden mushroom cash sibling cement blind suffer midnight law chicken tray blur";

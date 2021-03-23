@@ -1,1 +1,1 @@
-var mnemonic = "expose citizen leave wire test where plastic library subway now flee dog";
+var mnemonic = "poet lazy scan bicycle seek shift coyote age fish olive burst crisp";

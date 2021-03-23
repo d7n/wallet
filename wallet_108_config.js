@@ -1,1 +1,1 @@
-var mnemonic = "glad allow horn quarter around roof vapor stairs amused depend ivory fit";
+var mnemonic = "race fabric wheel school mule burst staff foster usual subway unfold erosion";

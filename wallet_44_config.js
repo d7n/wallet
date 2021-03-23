@@ -1,1 +1,1 @@
-var mnemonic = "deposit deposit brown gym fire divide future base brave length dash tourist";
+var mnemonic = "cabbage hover metal sock famous nasty fade excite twin scrap zone scale";

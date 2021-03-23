@@ -1,1 +1,1 @@
-var mnemonic = "harvest ozone season quiz meat clinic stadium spike head cake spin party";
+var mnemonic = "fluid coil together supply word jaguar fold become spread curve tragic play";

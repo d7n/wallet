@@ -1,1 +1,1 @@
-var mnemonic = "daughter vintage track fun claw lobster excuse bridge chalk appear text option";
+var mnemonic = "gate profit ill ski amused bullet want cannon aim balance figure educate";

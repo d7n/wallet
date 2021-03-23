@@ -1,1 +1,1 @@
-var mnemonic = "bulk lucky song year jar feature there wrist tortoise episode trim erode";
+var mnemonic = "choose about mobile indicate tuna jeans other cook royal inspire scan keen";

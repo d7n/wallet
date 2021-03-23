@@ -1,1 +1,1 @@
-var mnemonic = "search verb city fish manual love rate advice library maze this only";
+var mnemonic = "neither range false like educate room spider book arrest grocery girl wheat";

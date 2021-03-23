@@ -1,1 +1,1 @@
-var mnemonic = "true clay genuine spider reveal trade hold immense rubber seat strategy blur";
+var mnemonic = "about nothing attack slush edit hole patch width glow raven this erase";

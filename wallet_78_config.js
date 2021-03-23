@@ -1,1 +1,1 @@
-var mnemonic = "orbit practice bicycle organ electric area rigid spoil hurry ozone turkey people";
+var mnemonic = "lecture enough live lizard brown abuse seminar shell trial gap toy pave";

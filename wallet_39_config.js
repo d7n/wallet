@@ -1,1 +1,1 @@
-var mnemonic = "bitter meat double shove scale chalk labor awesome debate radio fatigue response";
+var mnemonic = "drum fuel size secret narrow drill wall hope change tone term swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "swap area dad velvet nuclear pepper abandon soda general ozone rule surge";
+var mnemonic = "plug spike private acid trash give invite sketch okay away job uncle";

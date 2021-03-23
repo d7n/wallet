@@ -1,1 +1,1 @@
-var mnemonic = "chuckle pass betray edit summer child accuse jungle fluid canoe trigger bundle";
+var mnemonic = "agent ozone execute stock camera music oblige gadget patient head wrist horse";

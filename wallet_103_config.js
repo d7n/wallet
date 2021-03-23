@@ -1,1 +1,1 @@
-var mnemonic = "turtle garment hill arctic weird suit duty chase exhaust local clap step";
+var mnemonic = "trumpet thrive public scrap good dinner dance ball basket auction idea virus";

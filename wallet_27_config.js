@@ -1,1 +1,1 @@
-var mnemonic = "mail benefit mixture shift illegal prosper forum muscle pact idea velvet spray";
+var mnemonic = "used drastic salad unfold jungle plate robot ritual deposit cushion load pumpkin";

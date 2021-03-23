@@ -1,1 +1,1 @@
-var mnemonic = "end doll swear episode ridge clump rice ball vague shock flock lamp";
+var mnemonic = "immense squeeze because law spirit exotic solve awful iron napkin rule question";

@@ -1,1 +1,1 @@
-var mnemonic = "know anchor flag angle panda sister adult lecture gold indoor private sketch";
+var mnemonic = "link toast gather share extra giant rescue miss mountain champion van subject";

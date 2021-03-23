@@ -1,1 +1,1 @@
-var mnemonic = "wine trash other liberty clump end few arrest actor crime satisfy convince";
+var mnemonic = "bachelor define essence zero shallow crisp version sock squeeze across cloth prize";

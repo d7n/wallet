@@ -1,1 +1,1 @@
-var mnemonic = "citizen fresh diamond east maze uncover bless cable vanish above brass goat";
+var mnemonic = "nasty meadow garbage despair cheese outside consider rude sting crisp service bottom";

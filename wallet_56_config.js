@@ -1,1 +1,1 @@
-var mnemonic = "light beach shoot nut hammer hope other vast tree humor crowd inhale";
+var mnemonic = "song dwarf broken twenty affair borrow napkin cart combine liquid film same";

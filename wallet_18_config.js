@@ -1,1 +1,1 @@
-var mnemonic = "equal danger reunion box length frost wire follow relief autumn guard text";
+var mnemonic = "spirit powder bargain honey license caught when blouse slogan boring flavor quote";

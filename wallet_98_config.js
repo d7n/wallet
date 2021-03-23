@@ -1,1 +1,1 @@
-var mnemonic = "conduct cake swap advance shiver novel science steak coconut shop cactus address";
+var mnemonic = "bubble range turtle photo cup attract castle phrase demise elephant dizzy path";

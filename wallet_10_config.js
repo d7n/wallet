@@ -1,1 +1,1 @@
-var mnemonic = "waste during today clump embody lamp load foster uphold warm quality input";
+var mnemonic = "shop family orbit kit cloud athlete pistol novel cover attitude stock proof";

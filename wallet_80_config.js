@@ -1,1 +1,1 @@
-var mnemonic = "own uniform deputy couch sponsor glide trap stool speak useful become more";
+var mnemonic = "review vast amazing clever correct valley citizen bid chair left olympic flag";

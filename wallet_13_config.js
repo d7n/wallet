@@ -1,1 +1,1 @@
-var mnemonic = "zoo office object power flower enable erupt path pipe annual essence lunch";
+var mnemonic = "keep urge hip grass purchase language stem dice wool black census glory";

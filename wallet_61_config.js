@@ -1,1 +1,1 @@
-var mnemonic = "loan dune occur guitar rude extra foam can pitch wealth marble parrot";
+var mnemonic = "pottery another report risk provide world hospital write bacon moment try prize";

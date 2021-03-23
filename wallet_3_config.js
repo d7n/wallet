@@ -1,1 +1,1 @@
-var mnemonic = "spatial long carpet puppy base extra obscure latin exile inch save moon";
+var mnemonic = "humble mule unfair add casual mind swift iron account mountain able quality";

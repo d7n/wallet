@@ -1,1 +1,1 @@
-var mnemonic = "someone three palace wage useless polar poet arena oil lobster void recycle";
+var mnemonic = "idle uniform adjust chaos fantasy struggle wool quiz second pelican reunion fitness";
