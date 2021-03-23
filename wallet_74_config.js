@@ -1,1 +1,1 @@
-var mnemonic = "jump divert pilot poet actual acid earn captain mirror holiday drift feed";
+var mnemonic = "broccoli hold absurd immune permit damp guide fire tiny window kitten post";

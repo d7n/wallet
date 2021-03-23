@@ -1,1 +1,1 @@
-var mnemonic = "social amazing dizzy valley elite bundle enrich runway broken glide notable quick";
+var mnemonic = "involve force output group puzzle foot badge sound anger fever jungle tiny";

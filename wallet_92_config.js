@@ -1,1 +1,1 @@
-var mnemonic = "casino puppy program better food remain between warfare circle glove ritual patient";
+var mnemonic = "cancel choice detect call trouble animal machine rapid spike bean excite ghost";

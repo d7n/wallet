@@ -1,1 +1,1 @@
-var mnemonic = "stairs room vanish noise despair panther because hat park hundred injury receive";
+var mnemonic = "wrong bracket penalty position learn ask unable absurd spider cereal must worth";

@@ -1,1 +1,1 @@
-var mnemonic = "brief aerobic crop view awkward receive snake birth hand spider either humor";
+var mnemonic = "subject favorite aim slow mesh laundry toddler hover one remain service crop";

@@ -1,1 +1,1 @@
-var mnemonic = "feel goat sick barely kite frame isolate little stove record grain scissors";
+var mnemonic = "team flag card fever virtual boil mixture scrap cost either angry clean";

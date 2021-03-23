@@ -1,1 +1,1 @@
-var mnemonic = "crew sunset tomorrow cross cool ginger shadow mobile boring sustain orient quick";
+var mnemonic = "question balcony price believe trigger twice act oxygen canvas own fortune tide";

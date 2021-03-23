@@ -1,1 +1,1 @@
-var mnemonic = "slow cargo empower cushion wedding cat siege arm creek black census dirt";
+var mnemonic = "convince hotel series outdoor feel keep skull add citizen two liberty fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "blast basket door deer rebuild diesel keep elbow match guess cinnamon flower";
+var mnemonic = "cigar answer wet sail motor lawsuit minimum cannon kitchen assist above master";

@@ -1,1 +1,1 @@
-var mnemonic = "approve course cloud depend blind again inner opinion employ burger bubble tray";
+var mnemonic = "isolate check romance dice table mail mimic immune midnight useless shield van";

@@ -1,1 +1,1 @@
-var mnemonic = "keen wedding swift oil throw adult wool problem rocket where welcome correct";
+var mnemonic = "fade roast sadness hip mesh bench food file mandate guilt slush essence";

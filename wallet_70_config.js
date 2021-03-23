@@ -1,1 +1,1 @@
-var mnemonic = "message priority surface sad waste fabric alien neither rice shoe eye swing";
+var mnemonic = "swing innocent jar fault style reject timber crater invite arch bundle trial";

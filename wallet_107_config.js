@@ -1,1 +1,1 @@
-var mnemonic = "know verify wife steak razor fatigue punch mule cash upgrade office fragile";
+var mnemonic = "vehicle profit clump leg canvas finish exotic grant blossom wrong chief picture";

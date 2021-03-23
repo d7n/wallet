@@ -1,1 +1,1 @@
-var mnemonic = "conduct flush funny swear culture negative result home allow neck mystery inspire";
+var mnemonic = "road curve cake hub elbow ozone scene shoulder convince alcohol school axis";

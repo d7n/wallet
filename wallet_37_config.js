@@ -1,1 +1,1 @@
-var mnemonic = "exhaust garden success giant resource bullet affair congress just bracket scale advance";
+var mnemonic = "include limb hire kite brisk potato army steak ski cheap cliff also";

@@ -1,1 +1,1 @@
-var mnemonic = "soda fog survey charge lounge skin doctor solve opera hill cat media";
+var mnemonic = "circle soap access camp label media wagon avoid unable little modify genre";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic maximum trigger check scheme approve antique million deputy engage pioneer marble";
+var mnemonic = "street solar voice sad sudden raccoon tonight diamond domain right uncover mixture";

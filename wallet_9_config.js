@@ -1,1 +1,1 @@
-var mnemonic = "phrase grief cigar ride army lab receive bleak logic own display antenna";
+var mnemonic = "stamp cover dad cliff nice hedgehog liar electric assume collect time enrich";

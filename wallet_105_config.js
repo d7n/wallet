@@ -1,1 +1,1 @@
-var mnemonic = "high vocal deer across toss cable power vault pattern degree sweet finish";
+var mnemonic = "glad august skull season detail cattle usage heart ten engage sunset enrich";

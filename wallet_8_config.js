@@ -1,1 +1,1 @@
-var mnemonic = "small junior swallow emerge glove position range enhance holiday rubber where mean";
+var mnemonic = "civil tortoise settle dial car flush seed main between upgrade ski oak";

@@ -1,1 +1,1 @@
-var mnemonic = "gun powder neither cinnamon wear isolate actual scorpion pupil cotton bitter foil";
+var mnemonic = "asthma pepper ivory simple garage property sphere enact initial artist source gain";

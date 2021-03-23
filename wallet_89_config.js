@@ -1,1 +1,1 @@
-var mnemonic = "submit repair maid suspect year earn blur drift blind cradle canvas make";
+var mnemonic = "have pluck shove vintage tunnel wall into scare humor vanish three boy";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm close inside child little arrive parent adult hand virus kind penalty";
+var mnemonic = "result abstract play innocent wagon cricket energy subway lava begin hollow fat";

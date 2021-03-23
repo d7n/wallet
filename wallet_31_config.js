@@ -1,1 +1,1 @@
-var mnemonic = "verb upgrade track soup taxi wise thumb combine flag coconut draw horror";
+var mnemonic = "divide cute blind rate merry kangaroo illegal marriage local tobacco pizza ten";

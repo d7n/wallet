@@ -1,1 +1,1 @@
-var mnemonic = "top slice razor meat fitness admit zebra boss rough turtle review idle";
+var mnemonic = "captain upset near joke fatal cage parade window critic render into recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid survey public few design spike alter step ghost easily replace rhythm";
+var mnemonic = "syrup print egg grunt bicycle tortoise grief appear same raw will defy";

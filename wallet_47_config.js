@@ -1,1 +1,1 @@
-var mnemonic = "soccer maid range lady predict cart concert lemon camera ahead first expose";
+var mnemonic = "already quick reject cliff assume ill cable idle slight addict flavor sail";

@@ -1,1 +1,1 @@
-var mnemonic = "humble imitate palace wealth modify renew december under angry ahead maple choice";
+var mnemonic = "visit transfer lab congress mosquito elevator rabbit tip cause layer jaguar dismiss";

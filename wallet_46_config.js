@@ -1,1 +1,1 @@
-var mnemonic = "salad sustain noodle parent adult layer fortune punch olympic slice series device";
+var mnemonic = "affair build mad senior have rule police combine twenty business sample vessel";

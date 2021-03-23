@@ -1,1 +1,1 @@
-var mnemonic = "fetch fossil future person lunar antique lady gift law punch audit blush";
+var mnemonic = "hello cloth squirrel wife become rookie earn paddle rhythm south mushroom mother";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle misery earth elevator easy appear beauty together focus present cool test";
+var mnemonic = "later annual awake essay assault faculty arrest phrase cabin hold glare shell";

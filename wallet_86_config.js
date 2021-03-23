@@ -1,1 +1,1 @@
-var mnemonic = "cancel okay tower slight canal excess artist clutch orient traffic kiwi document";
+var mnemonic = "fetch wet grass ostrich involve spike brick fragile lumber tiger sister winter";

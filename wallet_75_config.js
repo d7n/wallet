@@ -1,1 +1,1 @@
-var mnemonic = "walk thunder slot cycle wish lyrics version turtle carbon decade fitness cube";
+var mnemonic = "street soul truly category device curtain spring exchange mercy embrace feature salt";

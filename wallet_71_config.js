@@ -1,1 +1,1 @@
-var mnemonic = "where lucky ostrich shop corn crawl angry tip charge nice anxiety reflect";
+var mnemonic = "tumble tennis trap dry stadium stairs alpha sport weekend memory trade advance";

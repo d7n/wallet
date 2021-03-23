@@ -1,1 +1,1 @@
-var mnemonic = "mountain betray impose rapid hospital mother renew garage equip column betray cause";
+var mnemonic = "notable finger pretty bounce panther corn walk spend confirm subject urban lawsuit";

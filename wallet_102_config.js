@@ -1,1 +1,1 @@
-var mnemonic = "humble traffic input system oil weather lava eyebrow stable boat episode much";
+var mnemonic = "abandon album juice alone life drive agent dismiss repeat edge parent slow";

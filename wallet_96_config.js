@@ -1,1 +1,1 @@
-var mnemonic = "elbow half trim joy entire hat silly mass frog tunnel inside stone";
+var mnemonic = "brush learn bridge endorse color quiz degree pelican coach ten armed welcome";

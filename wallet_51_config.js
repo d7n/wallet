@@ -1,1 +1,1 @@
-var mnemonic = "leopard imitate tissue desert chef swing monster enroll guitar nurse source apple";
+var mnemonic = "primary diamond forum adapt final slice city embody basic grab such embrace";

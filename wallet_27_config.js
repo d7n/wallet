@@ -1,1 +1,1 @@
-var mnemonic = "exchange country law matrix derive orient fortune course better tiny crew orange";
+var mnemonic = "black staff jealous frown size swap buzz glory zoo damage connect loop";

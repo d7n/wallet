@@ -1,1 +1,1 @@
-var mnemonic = "observe imitate worth panel deliver report cloud fine frequent garage sentence card";
+var mnemonic = "general magnet sadness village omit tissue cave capital couple glory rural lawsuit";

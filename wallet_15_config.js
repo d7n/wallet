@@ -1,1 +1,1 @@
-var mnemonic = "because liberty calm broccoli denial payment organ prosper middle between write december";
+var mnemonic = "certain match iron can melt cry curtain pattern shiver subway cross patch";

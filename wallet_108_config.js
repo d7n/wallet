@@ -1,1 +1,1 @@
-var mnemonic = "yard distance planet roast volume switch slim void vague lesson library cave";
+var mnemonic = "stumble deny eagle theory priority source behave shrug electric hole zone thumb";

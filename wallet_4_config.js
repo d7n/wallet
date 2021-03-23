@@ -1,1 +1,1 @@
-var mnemonic = "decline frown price clean kid humble assault before flame cluster marble broom";
+var mnemonic = "unfair bonus boat elite color repeat glory input base frozen tilt poem";

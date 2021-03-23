@@ -1,1 +1,1 @@
-var mnemonic = "room side vast track endless license canoe medal web weasel visual torch";
+var mnemonic = "deal dentist fire fury remove squirrel leg vacant trial bargain barrel whale";

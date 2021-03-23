@@ -1,1 +1,1 @@
-var mnemonic = "champion latin spray faith novel entire bacon heavy still reward crack final";
+var mnemonic = "artefact sense veteran rent august addict razor talk any undo black term";

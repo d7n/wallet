@@ -1,1 +1,1 @@
-var mnemonic = "hair argue business guess found text mandate into spend school edit crater";
+var mnemonic = "fiction asthma attack merge shoot peace napkin pigeon display riot dice mom";

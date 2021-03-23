@@ -1,1 +1,1 @@
-var mnemonic = "frost pluck either skin amateur bubble elder pioneer unaware equip sick october";
+var mnemonic = "sad heavy spread ketchup saddle indicate company exclude taxi strike leaf stadium";

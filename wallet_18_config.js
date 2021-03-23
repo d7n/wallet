@@ -1,1 +1,1 @@
-var mnemonic = "enforce crawl more limit biology write stove property cruel intact fuel cabbage";
+var mnemonic = "citizen fresh dragon cake seminar morning brick prize issue organ casual loan";

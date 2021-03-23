@@ -1,1 +1,1 @@
-var mnemonic = "claim rubber left breeze couple nephew dolphin cheap rough call tackle target";
+var mnemonic = "humor setup rigid liar decade dream drink great screen know agent fade";

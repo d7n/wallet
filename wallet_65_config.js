@@ -1,1 +1,1 @@
-var mnemonic = "spice pink runway perfect legend muscle nephew blind genre supply spring around";
+var mnemonic = "cat romance lunar hollow innocent tank lift chat silk illegal mandate speed";

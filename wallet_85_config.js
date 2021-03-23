@@ -1,1 +1,1 @@
-var mnemonic = "truth album maid orbit uncle genre panic pitch actor debris tray leaf";
+var mnemonic = "recycle normal among upset caution ignore enough brown art predict gather giant";

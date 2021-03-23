@@ -1,1 +1,1 @@
-var mnemonic = "fruit need face pause horse suit opinion mandate hero exit drill fame";
+var mnemonic = "planet code web yard remove wild unlock type blush rural double canal";

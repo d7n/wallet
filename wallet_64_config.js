@@ -1,1 +1,1 @@
-var mnemonic = "forward swim install guess aisle matter soul story oil joke twice young";
+var mnemonic = "relax skate regret elegant short day only found attitude gym mad sand";

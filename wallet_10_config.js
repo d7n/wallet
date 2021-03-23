@@ -1,1 +1,1 @@
-var mnemonic = "apple useful hello lock worth escape suspect gym snack fiction vague truth";
+var mnemonic = "patrol horror soul medal ketchup path mechanic infant inside badge carry keep";

@@ -1,1 +1,1 @@
-var mnemonic = "print orphan number silk tuition aware peasant rally consider reduce path tiny";
+var mnemonic = "little attitude rookie course cupboard decade three cross cactus divorce purchase culture";

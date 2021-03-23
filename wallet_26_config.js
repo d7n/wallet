@@ -1,1 +1,1 @@
-var mnemonic = "figure grocery keep adjust pill buddy million country top erupt doll fall";
+var mnemonic = "escape skill denial reveal thing express stereo way license together electric news";

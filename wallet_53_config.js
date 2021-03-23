@@ -1,1 +1,1 @@
-var mnemonic = "stock later share clerk rural spy sample view lounge volume engage vast";
+var mnemonic = "monitor tennis sock mirror armed mule during toe creek orbit buffalo join";

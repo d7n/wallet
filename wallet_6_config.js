@@ -1,1 +1,1 @@
-var mnemonic = "fringe one guard purse exit hour insect buyer deny laugh shield agent";
+var mnemonic = "surge buddy trend auto possible clown scrap head barely village enter decide";

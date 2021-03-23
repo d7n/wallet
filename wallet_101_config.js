@@ -1,1 +1,1 @@
-var mnemonic = "vicious lonely unveil pair snow trouble estate wait crime soccer dash various";
+var mnemonic = "next sorry barely swing hill cliff net quality sugar focus monkey defense";

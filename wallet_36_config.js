@@ -1,1 +1,1 @@
-var mnemonic = "gasp hollow main barely safe mountain swap color market fortune siege scout";
+var mnemonic = "dress match vicious open holiday describe afford dust wrestle catalog try genre";

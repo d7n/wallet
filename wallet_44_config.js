@@ -1,1 +1,1 @@
-var mnemonic = "fox suit exile bike come holiday ivory mutual nation various hero junk";
+var mnemonic = "like figure solve problem gasp glow island physical vessel october leisure produce";

@@ -1,1 +1,1 @@
-var mnemonic = "robust icon arch favorite black young spread wash vibrant inflict heart route";
+var mnemonic = "raccoon usage kitten unveil retire talent still bike melt grab kiwi shield";

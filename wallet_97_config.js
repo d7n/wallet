@@ -1,1 +1,1 @@
-var mnemonic = "drift tell view cook broccoli depth orbit maid foot culture cruel possible";
+var mnemonic = "medal series joy account balance denial maximum scorpion remove wreck luggage garbage";

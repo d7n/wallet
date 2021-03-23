@@ -1,1 +1,1 @@
-var mnemonic = "crash deer protect kit pond coil stomach success venture peanut local alien";
+var mnemonic = "rather leg south leaf bubble owner front regular leopard fit entry breeze";

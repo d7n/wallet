@@ -1,1 +1,1 @@
-var mnemonic = "occur autumn space game april day apart wood spawn cradle dust raise";
+var mnemonic = "peace olympic devote theme misery code kingdom soap session shove put curious";

@@ -1,1 +1,1 @@
-var mnemonic = "skull panic story exercise roast crush penalty private scale still curious squirrel";
+var mnemonic = "siren arch scrap festival crowd gaze toy pride ignore traffic cloud job";

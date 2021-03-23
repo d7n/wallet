@@ -1,1 +1,1 @@
-var mnemonic = "relief similar rapid then order pole return excuse stable hockey scare snap";
+var mnemonic = "card strong million kite nurse network remember enter retreat enrich pill entry";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge situate claw rescue usage awkward share three buyer mail exercise visual";
+var mnemonic = "junk ring recycle lava sea bracket engine meat arctic initial casual slice";

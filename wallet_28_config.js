@@ -1,1 +1,1 @@
-var mnemonic = "gauge copper faculty leave entry cluster chaos illegal crash turtle used aspect";
+var mnemonic = "onion marriage marriage crowd slab doll elevator assault midnight grass recipe celery";

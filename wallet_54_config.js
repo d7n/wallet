@@ -1,1 +1,1 @@
-var mnemonic = "stay favorite gossip power file view rug hero galaxy benefit trust there";
+var mnemonic = "legend between bullet train praise area medal symbol diesel issue crime gospel";

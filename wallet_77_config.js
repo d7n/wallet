@@ -1,1 +1,1 @@
-var mnemonic = "chat rotate buyer casino raccoon monitor accuse put muffin idle tonight roof";
+var mnemonic = "movie wave tag buddy boat script damage tool match silly when domain";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy uniform acid price equip test narrow odor parent denial absorb educate";
+var mnemonic = "jealous drama angle organ oppose chalk december bless host caught dune admit";

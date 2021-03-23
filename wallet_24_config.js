@@ -1,1 +1,1 @@
-var mnemonic = "chicken notice various skull van dismiss material express palace access universe final";
+var mnemonic = "cart coast season august radio raise wise struggle swing hundred law never";

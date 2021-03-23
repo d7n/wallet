@@ -1,1 +1,1 @@
-var mnemonic = "hope balance judge leopard perfect soon agree slender swift rabbit scan heavy";
+var mnemonic = "main valley fold trigger excite trap weather balcony decade turn ethics alarm";

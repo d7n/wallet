@@ -1,1 +1,1 @@
-var mnemonic = "dream soccer inhale trim zone buddy warm divert expect purity economy humor";
+var mnemonic = "near police affair vote visual convince seat hotel hard giggle congress eight";

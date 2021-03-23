@@ -1,1 +1,1 @@
-var mnemonic = "all misery pave easy swear solve move spin improve witness embrace code";
+var mnemonic = "boring admit future bargain sample black deputy fantasy agent brown mosquito any";

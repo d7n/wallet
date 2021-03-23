@@ -1,1 +1,1 @@
-var mnemonic = "glory consider bridge city goat coconut neither wave praise dawn school atom";
+var mnemonic = "bind swallow hurry bottom picture confirm seek country perfect fitness invite target";

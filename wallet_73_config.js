@@ -1,1 +1,1 @@
-var mnemonic = "loyal honey episode great nominee egg pupil mask knock student fly craft";
+var mnemonic = "again gap flock pigeon weather dog cinnamon sample unknown assist glide era";

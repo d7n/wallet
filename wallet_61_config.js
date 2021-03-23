@@ -1,1 +1,1 @@
-var mnemonic = "hat elephant demise develop attend huge marriage hurry common original era remain";
+var mnemonic = "door sudden biology harsh kiss that upper yellow bomb water explain weird";

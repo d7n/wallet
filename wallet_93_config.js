@@ -1,1 +1,1 @@
-var mnemonic = "hundred pencil marble slow throw lawsuit recall brain tuition match crouch yellow";
+var mnemonic = "census access bubble solid ginger hour illness jacket fold whale nice emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla rug tired upon play milk chuckle maximum wrist drink rate acid";
+var mnemonic = "this broom decrease marine voice category party machine chest urge trust satoshi";

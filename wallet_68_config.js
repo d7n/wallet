@@ -1,1 +1,1 @@
-var mnemonic = "creek satisfy allow quote girl picture outer script misery little select you";
+var mnemonic = "mercy round same rich wage carpet peasant slide uncle icon wild aunt";

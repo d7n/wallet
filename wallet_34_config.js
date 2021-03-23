@@ -1,1 +1,1 @@
-var mnemonic = "finger possible pudding expect symbol lounge flame warfare describe simple mimic farm";
+var mnemonic = "camera flip harvest dutch initial update maze kick mimic profit unable drive";

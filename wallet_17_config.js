@@ -1,1 +1,1 @@
-var mnemonic = "theme throw suspect insane ripple game real tiger other update horror above";
+var mnemonic = "fancy spring demand defense praise vintage quote scan lamp wool noble maximum";

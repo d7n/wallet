@@ -1,1 +1,1 @@
-var mnemonic = "minimum view grocery power toast opinion wise across profit motion life surface";
+var mnemonic = "such mobile economy index chest kingdom tomorrow whisper bean chef silver jelly";
