@@ -1,1 +1,1 @@
-var mnemonic = "invite exhibit receive nice they rural danger sniff trade narrow judge rural";
+var mnemonic = "cloth liar rice draft cargo runway document hub segment space inch delay";

@@ -1,1 +1,1 @@
-var mnemonic = "clock tower exchange resemble model guess fat run banner sketch impulse use";
+var mnemonic = "section scheme appear spider seat casual siren radio pulse city sock vanish";

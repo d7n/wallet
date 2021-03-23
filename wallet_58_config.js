@@ -1,1 +1,1 @@
-var mnemonic = "adjust connect cupboard accuse voyage fetch focus vicious alien eagle cigar desert";
+var mnemonic = "wedding slide sense often drill road away provide canyon venture hello pledge";

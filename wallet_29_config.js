@@ -1,1 +1,1 @@
-var mnemonic = "music primary eye bronze oyster ignore hunt edge obvious caution horn scrub";
+var mnemonic = "denial leave current decade original win cheap embrace slam cheap embark north";

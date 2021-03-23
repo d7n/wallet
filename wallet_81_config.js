@@ -1,1 +1,1 @@
-var mnemonic = "frozen gasp tired dinner candy pass west abuse behind rocket enforce joy";
+var mnemonic = "discover lion crumble picnic unfold exile blame gravity swear lava gain laundry";

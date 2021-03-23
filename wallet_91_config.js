@@ -1,1 +1,1 @@
-var mnemonic = "gorilla delay cup horn rhythm gossip topic arrest test van put rose";
+var mnemonic = "unit girl author result escape pole unveil protect limit spare plunge blast";

@@ -1,1 +1,1 @@
-var mnemonic = "crime success pride exhibit employ define keen riot doctor gym afraid obey";
+var mnemonic = "ladder frozen become oppose absurd enter company faint blue legal portion stool";

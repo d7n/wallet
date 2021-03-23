@@ -1,1 +1,1 @@
-var mnemonic = "settle march sketch miracle dice carry barrel basket long tongue have detect";
+var mnemonic = "trust dry pipe peasant science chair educate cross poverty bargain clap jump";

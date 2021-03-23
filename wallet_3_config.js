@@ -1,1 +1,1 @@
-var mnemonic = "cost fuel depend afford update budget oyster clip syrup super child quarter";
+var mnemonic = "note cute occur ship recycle rail quarter seek symptom vague record wall";

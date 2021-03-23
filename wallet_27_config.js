@@ -1,1 +1,1 @@
-var mnemonic = "skate comfort host grass trade sea dragon bicycle mountain time case wrestle";
+var mnemonic = "spray proud milk copper gas actual glide stick level mean way increase";

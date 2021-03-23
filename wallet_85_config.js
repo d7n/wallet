@@ -1,1 +1,1 @@
-var mnemonic = "grocery ready essence drastic pond hobby curious point digital hobby program rent";
+var mnemonic = "skill sure foster rain mean blade eye whisper lava honey blood shine";

@@ -1,1 +1,1 @@
-var mnemonic = "draft minute purchase copy crystal deputy sure inspire type eyebrow found chuckle";
+var mnemonic = "speak hunt inherit program crane add radio tackle chuckle hint taxi axis";

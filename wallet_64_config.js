@@ -1,1 +1,1 @@
-var mnemonic = "defense mystery early future online lab champion sun client divert warrior minor";
+var mnemonic = "pottery time return blur repair memory start undo table hat fury era";

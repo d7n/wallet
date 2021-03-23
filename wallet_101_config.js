@@ -1,1 +1,1 @@
-var mnemonic = "office eyebrow side elbow either avoid balance name attitude spend core cancel";
+var mnemonic = "rubber cook album disease debris upon find illegal genius cousin apple run";

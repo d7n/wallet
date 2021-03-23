@@ -1,1 +1,1 @@
-var mnemonic = "left drink dynamic bless gossip broom hour only term cloth disagree sock";
+var mnemonic = "space fault toddler hungry grunt fire settle patrol retire thank hard cover";

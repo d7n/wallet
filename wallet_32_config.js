@@ -1,1 +1,1 @@
-var mnemonic = "face inflict track despair blouse thank orbit weasel bulk west tunnel trouble";
+var mnemonic = "ahead pool three tuition drip tobacco call vicious position estate review rough";

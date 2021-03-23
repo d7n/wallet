@@ -1,1 +1,1 @@
-var mnemonic = "paper neutral lizard mesh winner amazing chapter pulp toss drive robot cage";
+var mnemonic = "emerge before anxiety spread abandon rice reunion suit pear capable force castle";

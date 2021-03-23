@@ -1,1 +1,1 @@
-var mnemonic = "water cancel image wealth pledge maid frog volume refuse sheriff cake believe";
+var mnemonic = "tongue idea tobacco pepper social fish industry harvest lab electric layer canvas";

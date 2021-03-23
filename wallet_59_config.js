@@ -1,1 +1,1 @@
-var mnemonic = "usage rain exit fan exhibit dirt remove weasel habit liar jungle phone";
+var mnemonic = "badge elite attract simple claw hood nature crazy vital sing weasel invite";

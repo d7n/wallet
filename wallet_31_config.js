@@ -1,1 +1,1 @@
-var mnemonic = "leave engine over awake soup ozone dose banana stumble club dream chalk";
+var mnemonic = "mobile ticket soldier page miracle talent shiver duty yellow parent define victory";

@@ -1,1 +1,1 @@
-var mnemonic = "replace area combine steak cabbage cousin gift crucial vendor enemy piano leisure";
+var mnemonic = "frozen where any calm smoke noise calm place solar vault region grass";

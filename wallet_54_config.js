@@ -1,1 +1,1 @@
-var mnemonic = "luxury cherry jacket tiny gauge zebra rapid decline reason garage crystal wife";
+var mnemonic = "embody problem solution melody tornado fossil admit cream swear enlist cram moon";

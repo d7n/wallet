@@ -1,1 +1,1 @@
-var mnemonic = "neglect stuff funny embody excuse fiber leader river fog shed great belt";
+var mnemonic = "entry boost wrong soft boss father wink stick squirrel jump tourist disease";

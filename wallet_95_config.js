@@ -1,1 +1,1 @@
-var mnemonic = "secret hip catch impact settle antenna clarify roof vapor letter output slab";
+var mnemonic = "clever client best result dragon whip drive cram error afraid coffee peace";

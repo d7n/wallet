@@ -1,1 +1,1 @@
-var mnemonic = "garbage approve infant toss grit file crawl virus march miss file basic";
+var mnemonic = "reduce return receive pill motion august fox dilemma such type immune insane";

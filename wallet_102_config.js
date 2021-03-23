@@ -1,1 +1,1 @@
-var mnemonic = "long domain room net woman shuffle shrug science spike gate mandate shed";
+var mnemonic = "chalk cruel mail must oak obvious ability jaguar planet employ enhance artwork";

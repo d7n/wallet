@@ -1,1 +1,1 @@
-var mnemonic = "inquiry noble broom you office critic giraffe hidden fitness student three crawl";
+var mnemonic = "afford soul battle soap mother drink tube notable lumber bone snake phone";

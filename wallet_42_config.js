@@ -1,1 +1,1 @@
-var mnemonic = "margin grid bacon phone result expect outdoor work primary exact little two";
+var mnemonic = "rebuild cube gown embrace team resist fever ranch palm luggage thing afford";

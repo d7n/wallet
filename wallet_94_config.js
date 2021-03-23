@@ -1,1 +1,1 @@
-var mnemonic = "fork mixture order visit sound notice write foil drip kick crane just";
+var mnemonic = "test argue light engage lizard metal inspire same tragic shrimp tone erode";

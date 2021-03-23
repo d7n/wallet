@@ -1,1 +1,1 @@
-var mnemonic = "lecture august behave position almost prepare degree include saddle coil winner awesome";
+var mnemonic = "permit leave across mention present script nation heavy valid ripple guilt pulp";

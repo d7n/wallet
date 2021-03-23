@@ -1,1 +1,1 @@
-var mnemonic = "feed tortoise wood upset plastic wagon shy festival meadow cigar make family";
+var mnemonic = "faith skin wisdom sunset wink sample town cake rally juice team logic";

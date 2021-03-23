@@ -1,1 +1,1 @@
-var mnemonic = "bulk estate inhale wrist mouse matrix merge tail congress assume motion muffin";
+var mnemonic = "tube narrow cinnamon corn wedding round absurd estate neglect problem canoe convince";

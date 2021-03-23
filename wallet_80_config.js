@@ -1,1 +1,1 @@
-var mnemonic = "rocket yard follow spell exact glare gallery duck prevent danger ranch diesel";
+var mnemonic = "phrase often liquid strong legend steak run occur rent tuition shift own";

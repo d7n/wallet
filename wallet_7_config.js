@@ -1,1 +1,1 @@
-var mnemonic = "situate viable suspect range harsh submit wrestle bird actress wool wool unique";
+var mnemonic = "outdoor solid calm agree hobby lawsuit spoil border uncle fat bonus social";

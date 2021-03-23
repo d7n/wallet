@@ -1,1 +1,1 @@
-var mnemonic = "miracle mandate organ swim denial arm train similar jaguar carpet cotton deliver";
+var mnemonic = "shine marble focus else neither ride surround about east pig party soccer";

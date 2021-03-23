@@ -1,1 +1,1 @@
-var mnemonic = "disease learn swing motor word two husband rate garage inflict voice nut";
+var mnemonic = "sing ostrich favorite furnace nest purchase ability spare purchase daring lesson amused";

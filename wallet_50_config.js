@@ -1,1 +1,1 @@
-var mnemonic = "taste enrich zebra luggage trip multiply thunder option story hurry flag wild";
+var mnemonic = "milk inherit convince night silly private bomb sea delay fiscal unable cave";

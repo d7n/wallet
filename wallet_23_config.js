@@ -1,1 +1,1 @@
-var mnemonic = "script wrap abstract crush ten donate crunch place teach rose egg oxygen";
+var mnemonic = "frown cloud slim helmet much horn end ugly pottery deputy mandate habit";

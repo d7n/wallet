@@ -1,1 +1,1 @@
-var mnemonic = "happy pluck champion fury seven strike alter smile avocado check hidden famous";
+var mnemonic = "panel will puppy idle music can mutual tissue alter movie doctor lady";

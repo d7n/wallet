@@ -1,1 +1,1 @@
-var mnemonic = "grape gravity sentence twelve three emotion myself flavor tiger crystal gym inside";
+var mnemonic = "inform jacket cradle wagon panther evoke north device depth enroll that ladder";

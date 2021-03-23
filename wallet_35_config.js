@@ -1,1 +1,1 @@
-var mnemonic = "gym vault club daughter antenna swift dirt shed apart eagle industry surge";
+var mnemonic = "bread result fluid name coach number december vibrant faith final gloom rib";

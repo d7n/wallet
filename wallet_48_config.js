@@ -1,1 +1,1 @@
-var mnemonic = "helmet veteran craft today adjust slam ketchup sponsor jar cart combine ask";
+var mnemonic = "artist nurse tomato brand wall melody drive material jar skate tribe embrace";

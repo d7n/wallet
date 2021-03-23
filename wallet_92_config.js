@@ -1,1 +1,1 @@
-var mnemonic = "connect swallow congress vault gossip minute satisfy abuse monitor legal oblige message";
+var mnemonic = "flavor bag false differ shadow always teach gospel transfer explain onion bring";

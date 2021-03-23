@@ -1,1 +1,1 @@
-var mnemonic = "major omit drama music cattle fog body reject federal gospel gasp unusual";
+var mnemonic = "rescue father blood idea scorpion enrich disease payment afford crop unveil movie";

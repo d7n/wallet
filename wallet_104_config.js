@@ -1,1 +1,1 @@
-var mnemonic = "angry actor hair holiday humor mean lunar super carry faith what adult";
+var mnemonic = "winter only patient orange kit nation total purchase crouch leave add tiger";

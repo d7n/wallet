@@ -1,1 +1,1 @@
-var mnemonic = "learn supreme high artefact main that slam ozone gossip life juice cage";
+var mnemonic = "spell year portion time pyramid spawn access bonus sea ritual better mountain";

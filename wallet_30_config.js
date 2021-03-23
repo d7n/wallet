@@ -1,1 +1,1 @@
-var mnemonic = "venture name reveal depart segment thought fall powder sauce rebel afford crazy";
+var mnemonic = "lawsuit squeeze pluck second enough history reject nature loop canoe author acid";

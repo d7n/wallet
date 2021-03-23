@@ -1,1 +1,1 @@
-var mnemonic = "drama donate bitter mask expand chimney goddess another patrol scout great great";
+var mnemonic = "black coil slush skate galaxy move grocery echo tired crouch stable gaze";

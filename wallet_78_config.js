@@ -1,1 +1,1 @@
-var mnemonic = "stem climb lizard boat grit sponsor main execute town over hamster glide";
+var mnemonic = "fox drift wasp detect sense lake rubber ring paddle crazy audit immense";

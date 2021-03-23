@@ -1,1 +1,1 @@
-var mnemonic = "lonely perfect grocery six airport empower remain brick tomorrow pulse scrap actual";
+var mnemonic = "dismiss butter daughter country modify maple ankle warfare dumb into arrow neutral";

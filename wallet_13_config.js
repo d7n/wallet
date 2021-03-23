@@ -1,1 +1,1 @@
-var mnemonic = "unusual crucial lawn tribe team fence window improve venture equip disagree soon";
+var mnemonic = "ghost witness scatter denial lawsuit earn day pattern act sail awesome hour";

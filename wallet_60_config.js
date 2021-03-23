@@ -1,1 +1,1 @@
-var mnemonic = "tattoo today special spatial jungle suggest erode mother card pluck pair old";
+var mnemonic = "adapt patrol mobile enforce toss attend critic bean plastic valve bulk clean";

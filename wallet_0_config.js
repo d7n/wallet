@@ -1,1 +1,1 @@
-var mnemonic = "ginger glory hospital eagle polar crew flower gallery axis address mammal behind";
+var mnemonic = "destroy initial tip rifle reason six invite theory hobby vivid marble document";

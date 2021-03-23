@@ -1,1 +1,1 @@
-var mnemonic = "marriage make blast ripple hard unveil early elder tree isolate hungry upon";
+var mnemonic = "borrow real spirit hint stereo awkward found foil soap soap logic mouse";

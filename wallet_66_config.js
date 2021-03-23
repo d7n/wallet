@@ -1,1 +1,1 @@
-var mnemonic = "winter army lend elder orchard cousin release federal replace hundred proof castle";
+var mnemonic = "duck slow leave ability pupil increase sweet supply sample afraid immune actor";

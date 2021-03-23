@@ -1,1 +1,1 @@
-var mnemonic = "rent price two pear couple wreck actual hawk worry magnet potato swap";
+var mnemonic = "plunge exit coast inch aerobic coin discover disagree help gorilla prosper similar";

@@ -1,1 +1,1 @@
-var mnemonic = "radar conduct this time truth year marble cactus hundred cactus night merit";
+var mnemonic = "drink trend caution dirt galaxy invest tent girl chapter catch poet squirrel";

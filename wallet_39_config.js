@@ -1,1 +1,1 @@
-var mnemonic = "sketch favorite morning undo leopard apology play library job caution awesome trigger";
+var mnemonic = "law flavor walk idle coral easy enact black wrong rhythm property swift";

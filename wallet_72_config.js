@@ -1,1 +1,1 @@
-var mnemonic = "view sphere warm genius link cake hint junk song ski piece enter";
+var mnemonic = "current flush road odor devote vanish card feature hurt ethics safe toe";

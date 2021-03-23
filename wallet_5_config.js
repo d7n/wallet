@@ -1,1 +1,1 @@
-var mnemonic = "essay panel nurse process announce mercy enrich foam sail seminar reform scrap";
+var mnemonic = "mobile output nest poet task click fluid pigeon stool symptom skin heart";

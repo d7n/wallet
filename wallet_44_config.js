@@ -1,1 +1,1 @@
-var mnemonic = "rifle ice public hero congress end choice smart gown silent nuclear mad";
+var mnemonic = "quiz rely prize crater curtain enjoy purse detail eyebrow include ability swarm";

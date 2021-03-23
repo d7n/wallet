@@ -1,1 +1,1 @@
-var mnemonic = "dial main piano arrest van ugly kitten toss wage fuel move recipe";
+var mnemonic = "travel inch trash hint pass dawn room uniform seven virtual derive cabbage";

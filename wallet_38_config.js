@@ -1,1 +1,1 @@
-var mnemonic = "fit kitchen enable fragile pair pause jacket rookie mad size deputy alien";
+var mnemonic = "corn bottom certain toe nice give lawsuit deal camp cupboard century subject";

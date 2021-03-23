@@ -1,1 +1,1 @@
-var mnemonic = "ancient image saddle mail catch alpha filter valid rose private junior eyebrow";
+var mnemonic = "fly lava exotic either lesson marble donor state nerve agent ivory praise";

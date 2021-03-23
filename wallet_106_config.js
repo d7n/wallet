@@ -1,1 +1,1 @@
-var mnemonic = "witness engage stable sight maple keen print poverty govern remind like green";
+var mnemonic = "father chair excess casino damp problem obtain motor tag unlock uphold elder";

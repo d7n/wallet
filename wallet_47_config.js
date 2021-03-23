@@ -1,1 +1,1 @@
-var mnemonic = "step robust romance boat gallery coyote wife between base license twelve song";
+var mnemonic = "shell divert act target lesson inherit dutch giggle board flavor kiwi absorb";

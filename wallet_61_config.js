@@ -1,1 +1,1 @@
-var mnemonic = "cry loan ladder movie laugh matter carbon post access exhibit sausage girl";
+var mnemonic = "scrub post library solar february mobile drastic moon drop call wing brown";

@@ -1,1 +1,1 @@
-var mnemonic = "much sport stamp visual task nut leopard omit tackle wear essence balcony";
+var mnemonic = "join miracle below ribbon pistol boost fetch answer tattoo wear quiz boss";

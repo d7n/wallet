@@ -1,1 +1,1 @@
-var mnemonic = "actress method want sure island story aunt thunder biology either nephew language";
+var mnemonic = "ozone barely jealous together rescue medal else measure sea exit draft remind";

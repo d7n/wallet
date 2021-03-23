@@ -1,1 +1,1 @@
-var mnemonic = "will bid crisp hotel screen agree affair taxi youth dinner flush page";
+var mnemonic = "floor fabric comic jazz success industry humble eagle soon table huge strategy";

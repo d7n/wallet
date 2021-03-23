@@ -1,1 +1,1 @@
-var mnemonic = "empty senior punch junior luxury index siren one similar orient beef artist";
+var mnemonic = "domain until shock parrot more random guess dynamic traffic hamster acquire doctor";

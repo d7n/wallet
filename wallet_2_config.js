@@ -1,1 +1,1 @@
-var mnemonic = "math story bind fatigue axis smart render wing viable palace film grass";
+var mnemonic = "radar make kick table finger flip vague eight great nerve spare duck";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce cup duck notice drip gadget laundry must advice click inmate mandate";
+var mnemonic = "fix struggle enough man lava hundred hybrid rain more opinion thunder antique";

@@ -1,1 +1,1 @@
-var mnemonic = "silly stumble theme repeat mutual tourist chase antique decrease approve dry winter";
+var mnemonic = "garment load pelican stove famous knock hammer task material quarter chaos stable";

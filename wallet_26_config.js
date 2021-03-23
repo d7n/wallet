@@ -1,1 +1,1 @@
-var mnemonic = "bundle jewel wood robust fix invest object punch moon grab peanut melt";
+var mnemonic = "answer inmate eyebrow file electric charge era table path board thought skirt";

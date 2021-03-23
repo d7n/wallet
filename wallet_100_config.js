@@ -1,1 +1,1 @@
-var mnemonic = "notable lucky enough elephant giggle switch old sword essay little select merry";
+var mnemonic = "mule van fee rhythm cricket later shell ocean learn spend render siren";

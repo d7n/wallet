@@ -1,1 +1,1 @@
-var mnemonic = "sting uncle afford teach humor stage group daring submit focus sense laugh";
+var mnemonic = "thunder execute art rocket plastic mango invite spice brain hollow street lion";

@@ -1,1 +1,1 @@
-var mnemonic = "label small fan antique sun coconut floor kitten ceiling roast junk provide";
+var mnemonic = "fork bridge matrix episode initial oppose letter few expand diagram join doctor";

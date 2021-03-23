@@ -1,1 +1,1 @@
-var mnemonic = "two narrow alarm best road motor solve boil kingdom pony depart kit";
+var mnemonic = "quick render marriage track else enhance shield glad master reduce already demand";

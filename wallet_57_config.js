@@ -1,1 +1,1 @@
-var mnemonic = "draw gadget ripple fever easy pride guide relax toast mirror laundry syrup";
+var mnemonic = "virtual run enact radar shoulder river trip entire ride judge endless senior";

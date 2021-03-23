@@ -1,1 +1,1 @@
-var mnemonic = "captain furnace game produce hub travel chicken sketch link butter woman dog";
+var mnemonic = "dismiss rack dove asthma black issue fresh portion jungle unhappy car sunny";

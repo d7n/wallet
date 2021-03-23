@@ -1,1 +1,1 @@
-var mnemonic = "banana noodle spot armor salon gap truck can garbage bag catalog bacon";
+var mnemonic = "access gentle chunk cancel group device lazy federal long high chuckle interest";

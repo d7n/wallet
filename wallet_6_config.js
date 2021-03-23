@@ -1,1 +1,1 @@
-var mnemonic = "pause card hammer oval hammer curious brush flower exhibit monster oxygen huge";
+var mnemonic = "sunset cupboard audit path steak disorder dinosaur guilt soul country match man";

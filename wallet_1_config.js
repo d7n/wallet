@@ -1,1 +1,1 @@
-var mnemonic = "ignore vicious awkward season web amused right want fan sunny badge rain";
+var mnemonic = "asthma indicate much lyrics amount name real sunset dragon embark lonely goose";

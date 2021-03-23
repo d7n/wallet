@@ -1,1 +1,1 @@
-var mnemonic = "group addict invest pizza broom friend raven soup liberty minor crowd sail";
+var mnemonic = "begin relief replace universe round essence hip harvest trash rigid pepper egg";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude spare shock birth velvet resource action lawsuit grit sound cream sudden";
+var mnemonic = "increase enroll afraid chief face chapter rabbit oil evil cannon swing carry";

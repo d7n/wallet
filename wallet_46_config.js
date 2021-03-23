@@ -1,1 +1,1 @@
-var mnemonic = "grab coil split speed material regret long retire rail august skill east";
+var mnemonic = "execute train gospel rude grid diet middle neutral session music cash help";

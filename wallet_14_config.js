@@ -1,1 +1,1 @@
-var mnemonic = "renew flock adapt license keen viable sing other top office scene few";
+var mnemonic = "process bubble step team deposit debate expect smile dose trade female expose";

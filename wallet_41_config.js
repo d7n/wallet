@@ -1,1 +1,1 @@
-var mnemonic = "reform pair motor junior craft amount moment snow battle wave rice reason";
+var mnemonic = "under quit print include tell zero acoustic you stable service staff ball";
