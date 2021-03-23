@@ -1,1 +1,1 @@
-var mnemonic = "uniform win nuclear tip typical pencil apology outdoor snow lecture lyrics family";
+var mnemonic = "olympic save wall stairs medal coast globe cave bind idle change inherit";

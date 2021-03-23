@@ -1,1 +1,1 @@
-var mnemonic = "glue olive film april forest supreme already method undo logic antique idle";
+var mnemonic = "coconut giant opera tissue high chuckle swamp lunch example approve cruise swamp";

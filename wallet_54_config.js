@@ -1,1 +1,1 @@
-var mnemonic = "rural session morning pistol barrel arctic swear sort token siege brief drum";
+var mnemonic = "quarter camp nasty rule blue scrub giraffe ribbon gas decorate guess half";

@@ -1,1 +1,1 @@
-var mnemonic = "gown diesel deputy work destroy whale route insect never clever verify immense";
+var mnemonic = "disease top bubble olive caught parade sample youth maximum surge pride unusual";

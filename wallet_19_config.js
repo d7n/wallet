@@ -1,1 +1,1 @@
-var mnemonic = "harsh unable theory dust sadness demand marble spend busy surround opinion immense";
+var mnemonic = "army drastic belt exhibit initial cliff food chief child that helmet jelly";

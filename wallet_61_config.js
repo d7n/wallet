@@ -1,1 +1,1 @@
-var mnemonic = "next occur hunt runway vacant mushroom life hold grass symbol ugly vanish";
+var mnemonic = "foster sell swim miracle law garlic right seat luxury law feed garbage";

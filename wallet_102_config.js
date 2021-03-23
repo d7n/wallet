@@ -1,1 +1,1 @@
-var mnemonic = "guess task rescue expect inject divorce observe auction alien level chief flee";
+var mnemonic = "slice pupil once torch weasel guess artefact deliver claim amazing inside truth";

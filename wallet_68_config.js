@@ -1,1 +1,1 @@
-var mnemonic = "era shop swear glow depend lawsuit mean salad cluster session way picture";
+var mnemonic = "organ purchase top maze pluck lift west bread drip okay spy wife";

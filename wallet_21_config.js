@@ -1,1 +1,1 @@
-var mnemonic = "talk super park stay happy vessel slice rather charge enough delay pluck";
+var mnemonic = "despair panther sentence vacuum interest cruise surge cause ahead suffer circle fiber";

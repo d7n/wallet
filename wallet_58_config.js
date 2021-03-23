@@ -1,1 +1,1 @@
-var mnemonic = "enroll detect inspire minimum flee rubber tomorrow can goddess must turn neutral";
+var mnemonic = "okay notice mango village adjust face price helmet mutual truck ginger rather";

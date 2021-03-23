@@ -1,1 +1,1 @@
-var mnemonic = "identify budget page prosper clinic frequent canal close right envelope talent solution";
+var mnemonic = "neutral near cart crew equip oval cruise accuse devote exhibit artwork ranch";

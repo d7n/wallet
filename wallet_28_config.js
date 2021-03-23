@@ -1,1 +1,1 @@
-var mnemonic = "invest erupt despair hello pioneer matrix super various pioneer gadget because supreme";
+var mnemonic = "mother cruise input shiver list embody program grain suit crack disorder surge";

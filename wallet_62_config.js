@@ -1,1 +1,1 @@
-var mnemonic = "style educate satoshi tape burger cereal aspect burger tag sweet east jaguar";
+var mnemonic = "expand interest spatial sorry virus bundle rice diagram morning seek protect neither";

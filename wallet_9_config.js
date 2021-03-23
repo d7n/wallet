@@ -1,1 +1,1 @@
-var mnemonic = "silent penalty suspect area prize embody exact tackle excite water pupil viable";
+var mnemonic = "catch gasp south victory crouch century love club mountain team heavy also";

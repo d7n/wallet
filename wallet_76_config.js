@@ -1,1 +1,1 @@
-var mnemonic = "inquiry top gossip royal network belt pulp person endorse alert cancel tent";
+var mnemonic = "gaze note clay gadget romance ritual vocal churn hand dirt rebel ankle";

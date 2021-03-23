@@ -1,1 +1,1 @@
-var mnemonic = "cover trim void quality divorce bundle spike fluid rival bean diet danger";
+var mnemonic = "trade unable keen expect balance scale stumble mad report flush potato foam";

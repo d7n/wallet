@@ -1,1 +1,1 @@
-var mnemonic = "twelve snake wealth patch valid define phone answer situate text loyal error";
+var mnemonic = "survey sphere neglect trip frequent defy return decide tray trend rally wild";

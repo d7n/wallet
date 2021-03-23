@@ -1,1 +1,1 @@
-var mnemonic = "story surprise wife leader mandate frozen brown square cream expand kangaroo chapter";
+var mnemonic = "sad auto like illegal large easy expire name among cushion isolate slim";

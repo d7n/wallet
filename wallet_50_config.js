@@ -1,1 +1,1 @@
-var mnemonic = "wood rent topple review drama proof carbon try check local divert you";
+var mnemonic = "crystal spot high border laundry view strong raise horn column impact yard";

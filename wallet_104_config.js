@@ -1,1 +1,1 @@
-var mnemonic = "margin message phone push truth tired giant ride usage story candy various";
+var mnemonic = "exclude blush safe snake unfold pyramid example roast airport pluck bulk head";

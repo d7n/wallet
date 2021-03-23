@@ -1,1 +1,1 @@
-var mnemonic = "pet mountain super target abandon hover crucial vehicle useful joke conduct lady";
+var mnemonic = "educate wing target other firm any witness exotic major connect clinic ancient";

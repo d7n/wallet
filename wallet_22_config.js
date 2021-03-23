@@ -1,1 +1,1 @@
-var mnemonic = "dinner couch horn surround drift orphan genius walnut lunar alley tenant risk";
+var mnemonic = "thrive denial various stereo ring connect pulp dust release scissors way judge";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil home water helmet hair unfair space pupil image push west grace";
+var mnemonic = "wrist airport bottom maze device next twelve reveal crash fine address blast";

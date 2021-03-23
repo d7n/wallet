@@ -1,1 +1,1 @@
-var mnemonic = "bulb fabric giggle spoil tiger army cluster jump common robust large pilot";
+var mnemonic = "possible horror voice milk sound region basic rival claim method casino noble";

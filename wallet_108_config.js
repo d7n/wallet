@@ -1,1 +1,1 @@
-var mnemonic = "elegant feed dwarf goose indicate regular razor goat omit trust plate lumber";
+var mnemonic = "toast palm round prosper valley kite rural favorite alien utility arrive tool";

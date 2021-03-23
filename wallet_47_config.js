@@ -1,1 +1,1 @@
-var mnemonic = "sell grab task kit nature network address poet seed planet tank rebel";
+var mnemonic = "vast night tumble vapor uncle luggage license abstract boring answer arctic dream";

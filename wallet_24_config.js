@@ -1,1 +1,1 @@
-var mnemonic = "believe you reward open west hole later hello dragon silk unfair level";
+var mnemonic = "loud holiday garlic idea apology reveal vicious fan need middle pipe category";

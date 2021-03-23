@@ -1,1 +1,1 @@
-var mnemonic = "express receive orphan maple truck chief enough section window reveal candy salute";
+var mnemonic = "pride clock cereal ribbon add ivory rebel off voice dolphin benefit orchard";

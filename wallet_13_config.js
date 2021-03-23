@@ -1,1 +1,1 @@
-var mnemonic = "bike sheriff sudden proud sight slim employ diesel tragic cabin teach inject";
+var mnemonic = "trash chair document drip book paper food ticket document indoor celery initial";

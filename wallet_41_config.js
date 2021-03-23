@@ -1,1 +1,1 @@
-var mnemonic = "spider witness swing humor hammer punch venture lawn marble minimum wood parade";
+var mnemonic = "run cave nature fine shrimp swear mail tonight milk abandon soldier usual";

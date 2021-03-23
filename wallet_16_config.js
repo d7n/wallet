@@ -1,1 +1,1 @@
-var mnemonic = "clap shrimp judge balcony motion cattle ahead hint excuse dutch pioneer edge";
+var mnemonic = "tip reduce execute forget bench kit blast observe arrive vehicle teach join";

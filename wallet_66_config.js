@@ -1,1 +1,1 @@
-var mnemonic = "among physical fall okay find meadow alpha fringe galaxy achieve end yellow";
+var mnemonic = "average that call denial hair enroll fetch smile regular rocket blood genius";

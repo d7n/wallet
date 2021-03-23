@@ -1,1 +1,1 @@
-var mnemonic = "goose wasp shallow digital annual coin nominee pond mean pepper junk print";
+var mnemonic = "level chronic document flight gasp keen voice crash pull shield cancel claim";

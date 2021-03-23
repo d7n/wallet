@@ -1,1 +1,1 @@
-var mnemonic = "category bid spawn enough satoshi minute faint team sorry coil attack argue";
+var mnemonic = "remember blossom diesel magnet mushroom adapt tiny hip lobster fat carpet idea";

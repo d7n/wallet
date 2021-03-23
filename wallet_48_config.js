@@ -1,1 +1,1 @@
-var mnemonic = "gloom kitten split method air cover duty short ready essay child novel";
+var mnemonic = "wing rose online trade attend awkward method estate case situate paper curtain";

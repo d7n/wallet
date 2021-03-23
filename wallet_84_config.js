@@ -1,1 +1,1 @@
-var mnemonic = "push expire legal frog lion avoid window vessel speak wet humble scan";
+var mnemonic = "toss suspect artefact deal town friend lunar blind eyebrow predict tiger lawsuit";

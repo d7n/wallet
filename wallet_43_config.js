@@ -1,1 +1,1 @@
-var mnemonic = "inherit screen cliff stable mind vault enough child unusual embody solve supreme";
+var mnemonic = "mind cotton wasp say depart onion remain artefact nominee inch royal obtain";

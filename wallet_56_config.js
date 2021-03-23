@@ -1,1 +1,1 @@
-var mnemonic = "couple stumble royal people music top long large true rug fruit sponsor";
+var mnemonic = "swamp fashion until cliff output corn farm amazing tray ready crack protect";

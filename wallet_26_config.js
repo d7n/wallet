@@ -1,1 +1,1 @@
-var mnemonic = "sure country elbow initial brief advance vault hockey usual good ecology devote";
+var mnemonic = "improve female humor ghost scrap artwork link clerk beauty view affair visual";

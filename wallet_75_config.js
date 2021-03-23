@@ -1,1 +1,1 @@
-var mnemonic = "alone general debate elevator scheme fish donor glare slot mass hockey elevator";
+var mnemonic = "kiwi flat heavy multiply reunion shuffle together east carry zone two doctor";

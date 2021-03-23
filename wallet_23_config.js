@@ -1,1 +1,1 @@
-var mnemonic = "write spoil enact fee wild peanut gun sea only risk sweet salute";
+var mnemonic = "remember street timber treat sick cushion benefit question permit alert sense supply";

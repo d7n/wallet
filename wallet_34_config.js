@@ -1,1 +1,1 @@
-var mnemonic = "apology wait voyage claim inch snake stock filter behave message useless shove";
+var mnemonic = "history spider black company crop one primary coin label unveil gadget tiger";

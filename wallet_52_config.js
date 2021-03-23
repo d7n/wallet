@@ -1,1 +1,1 @@
-var mnemonic = "odor mercy dawn lend lawsuit other claim save noble cry wash shoe";
+var mnemonic = "escape trick clarify text science avocado program attitude venue cannon february audit";

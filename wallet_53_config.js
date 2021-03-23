@@ -1,1 +1,1 @@
-var mnemonic = "impact mercy mechanic ecology local broccoli first you lounge dress prefer physical";
+var mnemonic = "adapt fatigue social egg blush celery inner page bird skirt business raise";

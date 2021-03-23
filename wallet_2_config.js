@@ -1,1 +1,1 @@
-var mnemonic = "reduce cool tomorrow recycle bullet turkey hollow brush risk response elevator genre";
+var mnemonic = "question account library exercise spin coral dumb image borrow oppose eye electric";

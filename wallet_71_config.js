@@ -1,1 +1,1 @@
-var mnemonic = "cash fiction phone relief become more ask observe stay juice cup chicken";
+var mnemonic = "combine record action lady guard fantasy genre annual alcohol project few sword";

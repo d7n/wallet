@@ -1,1 +1,1 @@
-var mnemonic = "fee oyster panic split pelican rack seven forest tennis knee laptop concert";
+var mnemonic = "happy toy couple earth honey van brain yard claw canyon abandon again";

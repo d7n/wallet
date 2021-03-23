@@ -1,1 +1,1 @@
-var mnemonic = "beach bind illegal pill nurse estate save boost foil convince ordinary snap";
+var mnemonic = "antenna credit scale state online machine food primary nephew tip artist eye";

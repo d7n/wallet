@@ -1,1 +1,1 @@
-var mnemonic = "isolate token cargo permit cause kid reflect pottery outside response original wolf";
+var mnemonic = "crouch focus scorpion expect include same speak toe flight valley envelope license";

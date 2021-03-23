@@ -1,1 +1,1 @@
-var mnemonic = "shiver vocal burden census force melt quit floor rely maid boring judge";
+var mnemonic = "solution ripple maze dose settle spin tourist bounce matter ranch still stand";

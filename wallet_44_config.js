@@ -1,1 +1,1 @@
-var mnemonic = "attack address party congress arctic account index keep sight wage plug renew";
+var mnemonic = "term vault maximum main cheap before drink social scorpion rapid display fall";

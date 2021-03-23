@@ -1,1 +1,1 @@
-var mnemonic = "fee solution prosper record system stick square index roof ghost inner child";
+var mnemonic = "purse pupil senior police food phrase symptom outdoor expand float pelican boost";

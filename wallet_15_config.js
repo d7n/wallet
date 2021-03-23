@@ -1,1 +1,1 @@
-var mnemonic = "drive rescue dinner choose area point light mail code legal outer soda";
+var mnemonic = "head level pretty gather pig nose latin giraffe host run cart behind";

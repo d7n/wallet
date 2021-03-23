@@ -1,1 +1,1 @@
-var mnemonic = "maple improve cliff science naive result record knock garlic pill glad system";
+var mnemonic = "ability elegant remove truly live unit moon tone chronic drill stand call";

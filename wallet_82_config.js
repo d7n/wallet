@@ -1,1 +1,1 @@
-var mnemonic = "awful raccoon tuition local slide lucky pig drink steel include west earn";
+var mnemonic = "list job ritual fatal modify pigeon arch trigger claim crash bunker snake";

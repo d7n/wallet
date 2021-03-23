@@ -1,1 +1,1 @@
-var mnemonic = "lady bus hurry report frozen scale lunar mistake wagon hawk system unfold";
+var mnemonic = "stone bubble govern ski rug scan private fringe gun flag rebuild aspect";

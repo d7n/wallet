@@ -1,1 +1,1 @@
-var mnemonic = "pattern shuffle alley bonus path grunt disease truly theory scheme furnace athlete";
+var mnemonic = "brave learn wrong bar stone illegal access frown pilot shallow track unhappy";

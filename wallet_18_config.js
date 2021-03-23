@@ -1,1 +1,1 @@
-var mnemonic = "radar umbrella battle horror crawl tide develop update rug slender lizard negative";
+var mnemonic = "goose vault idle poem luxury multiply slim garage impact dawn century finish";

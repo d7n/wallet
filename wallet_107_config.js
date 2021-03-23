@@ -1,1 +1,1 @@
-var mnemonic = "sketch junior target solution erupt federal excuse embrace south coyote believe ribbon";
+var mnemonic = "music slogan brick beef excuse tiger black train equip bullet hold elegant";

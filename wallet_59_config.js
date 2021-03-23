@@ -1,1 +1,1 @@
-var mnemonic = "alter puppy danger palace economy boil limb save point enable ghost pistol";
+var mnemonic = "keen text cram sheriff night neither moment cool chat unable seat trim";

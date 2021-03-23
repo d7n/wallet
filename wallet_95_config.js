@@ -1,1 +1,1 @@
-var mnemonic = "tomato put girl auction belt summer happy diagram pattern army grant rally";
+var mnemonic = "penalty help orbit junior inside raise cruise ride sausage list sugar relief";

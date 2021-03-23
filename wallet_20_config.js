@@ -1,1 +1,1 @@
-var mnemonic = "empower donor aunt clutch allow antenna false hollow eternal venture hollow gold";
+var mnemonic = "file insane upper cherry original door cotton river upset warrior fossil unable";

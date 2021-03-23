@@ -1,1 +1,1 @@
-var mnemonic = "another accuse pipe ranch margin park tree priority upper arch soon side";
+var mnemonic = "hello zoo file better town situate valley identify soda sustain equip dose";

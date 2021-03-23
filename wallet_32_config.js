@@ -1,1 +1,1 @@
-var mnemonic = "arena rule differ trigger eight latin egg frown detail casino match favorite";
+var mnemonic = "ladder dynamic praise fold shoot title drop drip hand move relax addict";

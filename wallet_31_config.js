@@ -1,1 +1,1 @@
-var mnemonic = "floor random upgrade grunt ozone clock property month file sick wrong quote";
+var mnemonic = "main write walnut cliff include custom piece join ticket tree predict funny";

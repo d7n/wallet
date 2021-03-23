@@ -1,1 +1,1 @@
-var mnemonic = "size quick shaft tip render toast venue width ready parrot front coast";
+var mnemonic = "case transfer rent inch donor donor timber walk pizza mix runway slam";

@@ -1,1 +1,1 @@
-var mnemonic = "true cube they castle treat ritual burger destroy fun mutual income champion";
+var mnemonic = "mercy border shop spirit agent stadium girl sample infant army glove various";

@@ -1,1 +1,1 @@
-var mnemonic = "polar symptom action transfer genuine jealous poet mansion section chronic defy first";
+var mnemonic = "print horror cash apology push thumb guitar rabbit wedding surface process toast";

@@ -1,1 +1,1 @@
-var mnemonic = "twice equal dolphin banner grant depth midnight yard globe obtain leader diamond";
+var mnemonic = "broccoli shuffle kidney lift cave slow crowd phrase tornado drum divorce opinion";

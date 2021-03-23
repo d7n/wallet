@@ -1,1 +1,1 @@
-var mnemonic = "swallow dad crumble sweet stove poem hint inner across mask awful fitness";
+var mnemonic = "jar more general notable average benefit diagram blood orphan false then double";

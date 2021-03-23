@@ -1,1 +1,1 @@
-var mnemonic = "host company law icon miss kidney obvious flame kick must myth planet";
+var mnemonic = "capital lawsuit now luggage call talent zebra sense grid midnight system grit";

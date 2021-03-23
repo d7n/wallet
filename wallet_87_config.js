@@ -1,1 +1,1 @@
-var mnemonic = "sentence enable strike couple coconut biology neck void couch rare carbon kiss";
+var mnemonic = "wage daring salt armor kidney bacon hand episode gadget law cake curious";

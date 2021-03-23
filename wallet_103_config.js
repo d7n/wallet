@@ -1,1 +1,1 @@
-var mnemonic = "kidney man culture mansion trouble mother possible pattern wisdom lens window another";
+var mnemonic = "wreck loop sense child unusual dress slab skin film address knife dynamic";

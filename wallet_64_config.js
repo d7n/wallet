@@ -1,1 +1,1 @@
-var mnemonic = "awful stairs cancel raven choice outdoor horn false clock grace gaze inject";
+var mnemonic = "attitude shoot abuse predict follow strategy talent cattle expect analyst soap permit";

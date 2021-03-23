@@ -1,1 +1,1 @@
-var mnemonic = "purity firm orbit cry snow net volume animal hope you problem thunder";
+var mnemonic = "clutch magnet damp crowd neglect brave attack danger season grow myth involve";

@@ -1,1 +1,1 @@
-var mnemonic = "fix shoot antenna about pretty call month oyster coil brown half appear";
+var mnemonic = "grab intact moon essay obtain runway voice tornado ensure client hill faculty";

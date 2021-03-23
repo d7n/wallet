@@ -1,1 +1,1 @@
-var mnemonic = "shove citizen dad kangaroo lab split mix alpha conduct maid foot drop";
+var mnemonic = "venture invest blast certain frost rescue mosquito all identify glare print recall";

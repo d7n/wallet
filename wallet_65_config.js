@@ -1,1 +1,1 @@
-var mnemonic = "mass orbit copper rather curious devote parade suit type fatigue fence warm";
+var mnemonic = "more engage alpha session key six always debris game oven bean where";

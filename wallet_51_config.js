@@ -1,1 +1,1 @@
-var mnemonic = "bullet frog mouse between invest breeze jump rhythm firm gas video movie";
+var mnemonic = "sugar simple aisle cable sail bridge envelope moral chronic weather wet elephant";

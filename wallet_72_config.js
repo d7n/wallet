@@ -1,1 +1,1 @@
-var mnemonic = "allow still prison umbrella squeeze lucky ride rabbit surface lake doll switch";
+var mnemonic = "kite artefact truth horror recipe monitor nerve auto narrow favorite river fabric";

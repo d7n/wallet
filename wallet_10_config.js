@@ -1,1 +1,1 @@
-var mnemonic = "shallow cupboard pencil hill keen near describe copper salt cat vocal blanket";
+var mnemonic = "about measure major prosper surge city desk praise adjust flash rent meadow";

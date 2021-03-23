@@ -1,1 +1,1 @@
-var mnemonic = "pupil stumble large hedgehog tumble type slow decide shift bulk rescue empty";
+var mnemonic = "noise obey lunar hundred crime survey siren cycle space romance tell boring";

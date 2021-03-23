@@ -1,1 +1,1 @@
-var mnemonic = "twenty alter stove cluster dash piece danger party sock valid hard concert";
+var mnemonic = "chunk analyst toe swamp velvet tourist rack boss space critic fat range";

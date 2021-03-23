@@ -1,1 +1,1 @@
-var mnemonic = "assault buddy sport torch wide sort wash theme fit lion weird wife";
+var mnemonic = "hybrid super usage nurse lonely differ mixture monkey bamboo mercy satoshi style";

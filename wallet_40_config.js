@@ -1,1 +1,1 @@
-var mnemonic = "market whisper roof number recall hybrid clump hamster comic token harvest top";
+var mnemonic = "risk year ostrich gift figure canoe scissors web write myth able fault";

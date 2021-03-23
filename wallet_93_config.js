@@ -1,1 +1,1 @@
-var mnemonic = "useful custom goose galaxy piece school dial extra usual neither garden human";
+var mnemonic = "rich rice critic ugly supreme trouble vital good prevent limit noodle danger";

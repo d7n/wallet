@@ -1,1 +1,1 @@
-var mnemonic = "slim second lucky lawn expire arrow easily grocery vivid prefer divide anxiety";
+var mnemonic = "jealous garage harbor video concert carry inmate lonely dry claim volume doctor";

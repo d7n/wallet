@@ -1,1 +1,1 @@
-var mnemonic = "cushion potato head couple open wealth bike salute group february proof parent";
+var mnemonic = "group zoo rate remove evoke quantum chronic found cheap inspire marriage sound";

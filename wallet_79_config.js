@@ -1,1 +1,1 @@
-var mnemonic = "misery match cargo creek extend legal loop mix expand nation sister review";
+var mnemonic = "grace expect require novel style must toast slab pizza catch symptom thunder";

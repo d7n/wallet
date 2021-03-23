@@ -1,1 +1,1 @@
-var mnemonic = "excite viable laptop viable ridge learn real pink banner hover wolf magnet";
+var mnemonic = "claw conduct more claim lesson sugar angry example anger mimic vendor list";

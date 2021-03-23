@@ -1,1 +1,1 @@
-var mnemonic = "boy absorb robot assist error alarm slogan column adapt park fan jaguar";
+var mnemonic = "one refuse left earth demand cram myth drill claim buffalo tornado inch";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware lamp torch visual garage organ arrive taste hard fruit elder column";
+var mnemonic = "inch boy sniff adult rich guitar brisk cost enact toy own ketchup";

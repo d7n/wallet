@@ -1,1 +1,1 @@
-var mnemonic = "churn ethics little digital pledge neglect spray bread example blood seek inherit";
+var mnemonic = "trumpet sand install urge apple solve divorce myself matrix clutch couch mixture";
