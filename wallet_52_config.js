@@ -1,1 +1,1 @@
-var mnemonic = "voice oblige earn rigid multiply solid resemble crunch salute happy will gate";
+var mnemonic = "term victory sign squeeze high medal attitude stamp tenant lemon outdoor stick";

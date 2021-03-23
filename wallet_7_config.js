@@ -1,1 +1,1 @@
-var mnemonic = "company type strong loyal elegant tissue carbon ridge sick bonus monkey defense";
+var mnemonic = "minimum treat wine repeat ranch inspire shrimp fitness defense over uniform title";

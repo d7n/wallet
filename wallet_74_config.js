@@ -1,1 +1,1 @@
-var mnemonic = "frog liquid grace bundle parent secret empower antenna hospital indoor shoe boost";
+var mnemonic = "seek rough bulb unlock urge lecture speed potato mansion pioneer phone country";

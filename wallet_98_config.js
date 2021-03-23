@@ -1,1 +1,1 @@
-var mnemonic = "guess portion planet swarm culture bronze core party trend shop book flame";
+var mnemonic = "sea security brave stem void lunch vast adapt coin desert dash accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "language nest ankle demise vapor fetch alarm occur else segment humble keen";
+var mnemonic = "throw salon shadow inside fabric punch buyer artwork also note limit spy";

@@ -1,1 +1,1 @@
-var mnemonic = "display extra runway top target crystal lab vacant imitate brick diesel ready";
+var mnemonic = "festival index first gossip best stairs fringe athlete flower inspire palace turn";

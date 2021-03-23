@@ -1,1 +1,1 @@
-var mnemonic = "diagram average voyage guilt violin good style edit story follow pride visual";
+var mnemonic = "scan suggest misery art spring sister flag farm build dance cereal shadow";

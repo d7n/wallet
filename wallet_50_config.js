@@ -1,1 +1,1 @@
-var mnemonic = "again domain tip garlic innocent old fire doll inquiry quality flip will";
+var mnemonic = "dash vital bubble obtain nature daughter rescue delay risk radar gentle silk";

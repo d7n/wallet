@@ -1,1 +1,1 @@
-var mnemonic = "outer atom decorate panther hawk hidden finger budget tank alien half unaware";
+var mnemonic = "sadness exit term proof smoke air acid economy hat letter cover divert";

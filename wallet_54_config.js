@@ -1,1 +1,1 @@
-var mnemonic = "destroy aunt blast become road dance gloom save marine bright six sustain";
+var mnemonic = "escape mixture brush favorite latin ripple bonus short police renew grace satisfy";

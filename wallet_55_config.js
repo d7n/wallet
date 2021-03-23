@@ -1,1 +1,1 @@
-var mnemonic = "woman machine boss quantum under afraid reason proud all carbon volume term";
+var mnemonic = "remain glass allow exact under antique soldier abandon sad sorry betray clean";

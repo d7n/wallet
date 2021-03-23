@@ -1,1 +1,1 @@
-var mnemonic = "remind grocery april spike fine husband radio evil exercise movie dolphin domain";
+var mnemonic = "female chapter one aunt effort steak smart spare move cabbage harsh silent";

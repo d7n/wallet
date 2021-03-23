@@ -1,1 +1,1 @@
-var mnemonic = "coconut license core disagree canal humble title chief melody load such adapt";
+var mnemonic = "bubble enrich faith this next fuel ordinary twist tent cause useless eager";

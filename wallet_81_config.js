@@ -1,1 +1,1 @@
-var mnemonic = "paddle pride satisfy fever asset enact rent phrase chief cupboard document wait";
+var mnemonic = "property expect party object enroll plug radar want busy gold page bless";

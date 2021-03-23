@@ -1,1 +1,1 @@
-var mnemonic = "pull security broom vacuum bicycle stadium toddler sniff mistake bless fancy dutch";
+var mnemonic = "picnic inch juice scheme method track fly accuse vacant cradle answer scissors";

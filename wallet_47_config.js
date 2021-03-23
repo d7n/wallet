@@ -1,1 +1,1 @@
-var mnemonic = "galaxy sock wine kiss orange potato develop decorate scorpion common wide august";
+var mnemonic = "size vacant nephew erase coral busy cake depart banana melody token loop";

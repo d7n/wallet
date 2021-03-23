@@ -1,1 +1,1 @@
-var mnemonic = "robust gorilla reward wisdom betray sail another diagram immune lock mountain task";
+var mnemonic = "taxi torch client among runway wonder firm spirit plate holiday section track";

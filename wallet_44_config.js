@@ -1,1 +1,1 @@
-var mnemonic = "vague lawn milk radar slogan misery elegant document mad twenty access girl";
+var mnemonic = "fitness evil gauge sponsor extend able yard lift hour narrow boring squirrel";

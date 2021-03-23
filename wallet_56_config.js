@@ -1,1 +1,1 @@
-var mnemonic = "social vessel update minor soul loan tackle culture domain blame vault caution";
+var mnemonic = "when detail climb voyage jaguar tragic champion laptop oyster sun tiger industry";

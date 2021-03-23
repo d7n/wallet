@@ -1,1 +1,1 @@
-var mnemonic = "verb cram kitten bachelor seven pizza mind exit churn visit help reveal";
+var mnemonic = "axis shell wish snap rib step tree relax dice omit antenna crater";

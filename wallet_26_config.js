@@ -1,1 +1,1 @@
-var mnemonic = "admit gold tackle bind fresh problem earth roast across spray fitness gain";
+var mnemonic = "bleak volcano soft another neck divide pig blame major attack coach boil";

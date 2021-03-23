@@ -1,1 +1,1 @@
-var mnemonic = "report original yellow pink shove save smooth salad wolf argue sun inflict";
+var mnemonic = "thunder garment seek sunset fun royal two resource ticket insane tobacco brand";

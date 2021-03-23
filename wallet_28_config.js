@@ -1,1 +1,1 @@
-var mnemonic = "invest foam elephant hold find draft boy science panel kidney seat practice";
+var mnemonic = "smile unfair witness flee ozone utility marble eager paddle like resist exhaust";

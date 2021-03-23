@@ -1,1 +1,1 @@
-var mnemonic = "practice drink know else stem unable mix legal own screen media subject";
+var mnemonic = "orange elbow accuse hotel suspect marine mixed trim essay mountain quarter cluster";

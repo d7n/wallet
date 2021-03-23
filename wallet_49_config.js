@@ -1,1 +1,1 @@
-var mnemonic = "flip romance flag critic paddle boat crew popular alcohol elbow valley purse";
+var mnemonic = "endless dad cinnamon play trophy version kit use stick benefit domain strategy";

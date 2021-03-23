@@ -1,1 +1,1 @@
-var mnemonic = "sausage salon oven great random basic acoustic rose fee library trial journey";
+var mnemonic = "hunt flash napkin guess carry crack raw cage inmate chimney oxygen situate";

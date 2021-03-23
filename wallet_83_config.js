@@ -1,1 +1,1 @@
-var mnemonic = "suit act purchase salon cabbage make lecture mutual pet tuna siren credit";
+var mnemonic = "kite they wagon engage job cancel suit melody conduct cluster warm earth";

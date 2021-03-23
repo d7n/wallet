@@ -1,1 +1,1 @@
-var mnemonic = "token whisper hood duty cave scheme outside ripple meat hollow hold spoil";
+var mnemonic = "sport attend print sphere ivory huge bind raven index prize please wave";

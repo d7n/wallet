@@ -1,1 +1,1 @@
-var mnemonic = "work shell pelican ability era blind vehicle rotate demand cruise gasp thank";
+var mnemonic = "rule avoid tired element ginger typical reopen replace process cherry ride barely";

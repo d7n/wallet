@@ -1,1 +1,1 @@
-var mnemonic = "orange curve stable engage various repeat inherit priority obey mention scene faint";
+var mnemonic = "sustain matter aim blush loop net federal window pudding lake hope uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "long pilot time romance butter trophy exclude detail nominee woman ring cupboard";
+var mnemonic = "lyrics veteran suspect lunch monitor monster fire lemon age admit tunnel robust";

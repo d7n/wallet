@@ -1,1 +1,1 @@
-var mnemonic = "ability express slight vehicle script salt hunt rough bracket powder million truth";
+var mnemonic = "stable paper perfect weapon cart obtain mirror tide anger peanut broken quote";

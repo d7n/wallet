@@ -1,1 +1,1 @@
-var mnemonic = "habit minute miss choose oblige mystery feel barely rug inquiry lawsuit analyst";
+var mnemonic = "shy essence keen comfort sister degree write aspect then wild woman hospital";

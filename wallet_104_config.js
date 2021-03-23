@@ -1,1 +1,1 @@
-var mnemonic = "come sword seven verify rebuild mandate helmet panel need raise grant fame";
+var mnemonic = "melt champion demise vapor quote moon print sure divide venue mouse boil";

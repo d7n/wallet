@@ -1,1 +1,1 @@
-var mnemonic = "turn lumber pull crumble copper cereal depend garment member spider jeans gallery";
+var mnemonic = "jar same debate country rely add weasel false spray erupt vast kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "connect daring involve resemble wait rare strategy orange popular sadness novel supreme";
+var mnemonic = "rent manage dignity state increase budget insane armor celery rifle east fog";

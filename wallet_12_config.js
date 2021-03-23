@@ -1,1 +1,1 @@
-var mnemonic = "pattern comfort learn heart noodle vehicle detail analyst youth side spot client";
+var mnemonic = "fly resist proud inform ticket bronze flavor energy radar hungry merge axis";

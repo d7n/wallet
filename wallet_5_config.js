@@ -1,1 +1,1 @@
-var mnemonic = "law evil health amazing leader spike deny bid noise satisfy annual upset";
+var mnemonic = "then seven bicycle candy choose attack season critic drum wet extra toe";

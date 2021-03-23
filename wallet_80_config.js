@@ -1,1 +1,1 @@
-var mnemonic = "practice rate reopen rather same tip file enact raven immense soup travel";
+var mnemonic = "offer fold arctic all nurse various better donate caught dad oppose door";

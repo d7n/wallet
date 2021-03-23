@@ -1,1 +1,1 @@
-var mnemonic = "enroll flavor enjoy physical game hand clock burden amused illegal stone review";
+var mnemonic = "submit asthma reflect mansion intact uniform aspect palm chapter like wagon pigeon";

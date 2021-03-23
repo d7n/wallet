@@ -1,1 +1,1 @@
-var mnemonic = "hard latin crunch write giggle clarify absorb ghost couple spoon art photo";
+var mnemonic = "bless horn south glad floor manage husband issue normal motor assume ocean";

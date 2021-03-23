@@ -1,1 +1,1 @@
-var mnemonic = "door depth urban merry network trade pipe since nurse awesome mass fan";
+var mnemonic = "blue blind disagree struggle song drink bless solar street thought erosion genre";

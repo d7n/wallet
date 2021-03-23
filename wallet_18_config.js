@@ -1,1 +1,1 @@
-var mnemonic = "project funny fiscal drip erase climb pilot diesel base matrix antenna great";
+var mnemonic = "book rabbit jungle cruise floor allow casual reunion merry mystery require normal";

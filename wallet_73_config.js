@@ -1,1 +1,1 @@
-var mnemonic = "mistake soup child impulse main glove alcohol expect beach best kidney message";
+var mnemonic = "sudden weekend verb limb prepare whisper image stairs horse lecture banana muffin";

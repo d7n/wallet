@@ -1,1 +1,1 @@
-var mnemonic = "dirt unaware output position state crowd orphan stomach still room enlist rack";
+var mnemonic = "husband amazing engine drive potato stadium test best camera husband initial cruel";

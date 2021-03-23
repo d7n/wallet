@@ -1,1 +1,1 @@
-var mnemonic = "vague letter rare faculty select bird test time jungle vault aim someone";
+var mnemonic = "secret first dirt broccoli toe require hat celery orbit census notable hungry";

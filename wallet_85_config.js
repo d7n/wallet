@@ -1,1 +1,1 @@
-var mnemonic = "bone curious this found until jungle snack useful decline produce warfare drink";
+var mnemonic = "rocket journey turn assist stool advance equip forget fever stumble machine stuff";

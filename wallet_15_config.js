@@ -1,1 +1,1 @@
-var mnemonic = "add river famous young method lecture emerge wheel million slush injury jaguar";
+var mnemonic = "boost love bulb tool around begin veteran police candy oblige ridge evil";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom nation awesome urge tray nose opera rifle advice broccoli tonight shoulder";
+var mnemonic = "close urge garlic country mimic surge only warm prepare rose awake rough";

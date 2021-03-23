@@ -1,1 +1,1 @@
-var mnemonic = "inch apology story story expire trumpet basic clown game truly swarm song";
+var mnemonic = "cargo oxygen strong sun like net price gravity know company amazing huge";

@@ -1,1 +1,1 @@
-var mnemonic = "kit toast tag minor address claw mobile right fork hope fluid clock";
+var mnemonic = "material junior dream meat undo steel resemble october prison prosper ability bag";

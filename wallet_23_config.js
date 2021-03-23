@@ -1,1 +1,1 @@
-var mnemonic = "muscle symbol warrior legend hat clerk isolate weasel trial repeat lobster bean";
+var mnemonic = "clap august carpet extend flash warfare soap robust lobster wagon kiwi assume";

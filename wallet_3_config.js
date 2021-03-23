@@ -1,1 +1,1 @@
-var mnemonic = "shine aspect deposit spray topic cloth sentence twice wonder clog winner lecture";
+var mnemonic = "someone train juice language mule have donor manual romance inflict human ocean";

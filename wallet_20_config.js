@@ -1,1 +1,1 @@
-var mnemonic = "glue power jazz siege exotic insect final tobacco office nature wet volcano";
+var mnemonic = "love possible laundry weather mass nothing elegant rocket deputy prize desert velvet";

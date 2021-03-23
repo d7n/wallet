@@ -1,1 +1,1 @@
-var mnemonic = "genuine churn swap basic decline prosper ball forest cruel mansion slab anxiety";
+var mnemonic = "buffalo satisfy tortoise affair pattern aspect gospel daughter satoshi gift thing sort";

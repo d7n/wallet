@@ -1,1 +1,1 @@
-var mnemonic = "pond common coin interest vehicle forget cave kidney remember void swift chief";
+var mnemonic = "future token immense devote frown other normal scale can soccer laptop fire";

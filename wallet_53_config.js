@@ -1,1 +1,1 @@
-var mnemonic = "soon senior forget lonely movie vendor shaft scissors apart correct slim kit";
+var mnemonic = "sister lesson purpose moon cattle weird radar fat giraffe decrease width canoe";

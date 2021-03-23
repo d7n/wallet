@@ -1,1 +1,1 @@
-var mnemonic = "road lava must frozen tail chunk lawn bunker cute chef birth favorite";
+var mnemonic = "dignity pilot blur uniform system erode level huge hunt dismiss mother grant";

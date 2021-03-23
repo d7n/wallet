@@ -1,1 +1,1 @@
-var mnemonic = "dove quiz sustain snap shadow thing bomb base sound connect unfair silly";
+var mnemonic = "journey spice doctor exclude limb ball joke wrestle snake limit garden east";

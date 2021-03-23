@@ -1,1 +1,1 @@
-var mnemonic = "regular farm action blind purse system bonus drift jaguar enemy tuna core";
+var mnemonic = "force tuition remain raw fabric tragic fence ticket ring chair prevent paddle";

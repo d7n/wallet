@@ -1,1 +1,1 @@
-var mnemonic = "oil payment gym reveal talk tobacco ill romance property acquire alert category";
+var mnemonic = "earth assist magic state memory snow valley acid lobster day trap buddy";

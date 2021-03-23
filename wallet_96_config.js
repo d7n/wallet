@@ -1,1 +1,1 @@
-var mnemonic = "marine devote teach change spike erupt air oval vote wild physical indicate";
+var mnemonic = "illness couch spot churn diary alley sunny inmate taxi best word say";

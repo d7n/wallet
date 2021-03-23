@@ -1,1 +1,1 @@
-var mnemonic = "spawn castle occur scout depend eagle spice wheat museum donkey jacket knife";
+var mnemonic = "come transfer guilt solar voyage into output vote plunge bleak oppose combine";

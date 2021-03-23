@@ -1,1 +1,1 @@
-var mnemonic = "force drama casual pride scissors chuckle analyst elite history unique top someone";
+var mnemonic = "funny grass visa now maximum equip song avocado receive relax sort impose";

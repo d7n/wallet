@@ -1,1 +1,1 @@
-var mnemonic = "gather author impose attract fever scare pizza alter salmon canal alcohol mask";
+var mnemonic = "tired bleak object keen divorce wagon often reunion faint job mixed bind";

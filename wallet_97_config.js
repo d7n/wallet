@@ -1,1 +1,1 @@
-var mnemonic = "initial width soda burden proof girl bleak slush humor teach dinosaur airport";
+var mnemonic = "humble run maximum primary wisdom flee essay problem planet velvet reject kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase long blood romance scan mule lawsuit harsh action fancy quality nut";
+var mnemonic = "yard phrase great garment faculty order misery night attend sure duck copy";

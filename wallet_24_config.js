@@ -1,1 +1,1 @@
-var mnemonic = "three claw velvet rather select luggage shaft sausage during raccoon subject juice";
+var mnemonic = "twin scan palm canvas youth boat note ten vault over market village";

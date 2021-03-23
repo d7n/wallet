@@ -1,1 +1,1 @@
-var mnemonic = "blade friend promote cash update ridge real almost galaxy useful ball cheap";
+var mnemonic = "august quote cheese fury make orbit bus cloth pear short subject leopard";

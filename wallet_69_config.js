@@ -1,1 +1,1 @@
-var mnemonic = "near quarter case merry bonus entry tourist idle tattoo pumpkin lens team";
+var mnemonic = "wise tackle impact struggle history twelve head cave attend fork hope task";

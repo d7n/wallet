@@ -1,1 +1,1 @@
-var mnemonic = "evolve relax airport usage race dance rice clarify awful crunch special inside";
+var mnemonic = "digital night limb violin clean equal shell van benefit bronze next skin";

@@ -1,1 +1,1 @@
-var mnemonic = "before deer act beauty month over replace poet rug friend clerk wedding";
+var mnemonic = "skate snow alien warfare truly rabbit carpet borrow doll bread much junior";

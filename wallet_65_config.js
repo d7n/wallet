@@ -1,1 +1,1 @@
-var mnemonic = "canyon tortoise human marriage moral job dutch buffalo rent earth outer phrase";
+var mnemonic = "guess unknown idea pepper frog erase crack pipe type option equip priority";

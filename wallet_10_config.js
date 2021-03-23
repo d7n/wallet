@@ -1,1 +1,1 @@
-var mnemonic = "scout gate divide script pen captain keep marble average timber arrange engine";
+var mnemonic = "vocal boat neck assist music match butter food portion spare fame hole";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor bundle select near lock pudding vacant sphere stage miss choice limb";
+var mnemonic = "ranch describe fit symbol chuckle never rocket entry approve cloud chaos notable";

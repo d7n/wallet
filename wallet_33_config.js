@@ -1,1 +1,1 @@
-var mnemonic = "offer issue goat mosquito feed lunch mobile range hover congress wolf keen";
+var mnemonic = "test dilemma rhythm heart velvet sunset fault crunch moral merit dismiss return";

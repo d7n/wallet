@@ -1,1 +1,1 @@
-var mnemonic = "chair select sound brain update parent green smoke announce lunch cinnamon chaos";
+var mnemonic = "today observe entry bulb conduct board treat plate island umbrella amused glue";

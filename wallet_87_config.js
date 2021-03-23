@@ -1,1 +1,1 @@
-var mnemonic = "whale flash bonus cook early youth system shiver position page inflict mystery";
+var mnemonic = "muscle vast fame logic muffin globe dynamic grace lawsuit region chat giggle";

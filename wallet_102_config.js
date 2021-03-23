@@ -1,1 +1,1 @@
-var mnemonic = "scrap payment until pet budget thunder humor fish avoid type pluck rookie";
+var mnemonic = "bean interest direct city scan dry luxury earth deputy gesture okay trend";

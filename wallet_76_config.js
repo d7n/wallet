@@ -1,1 +1,1 @@
-var mnemonic = "wheat remember net rude express check nurse coach diary animal okay dream";
+var mnemonic = "fringe okay deliver post punch jaguar bitter flight adult diet account bracket";

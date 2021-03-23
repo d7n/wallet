@@ -1,1 +1,1 @@
-var mnemonic = "outside result lunch asthma hybrid maximum staff act rebel oxygen december oxygen";
+var mnemonic = "engage vanish repeat blouse impulse bounce clutch verify verify monkey way jacket";

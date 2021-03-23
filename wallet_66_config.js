@@ -1,1 +1,1 @@
-var mnemonic = "people flame exercise type twist steel work salon egg copper typical act";
+var mnemonic = "donate service shock holiday craft region together they afford miracle unusual model";

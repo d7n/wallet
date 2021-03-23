@@ -1,1 +1,1 @@
-var mnemonic = "injury skin moment shift target know bench welcome option shaft swarm wagon";
+var mnemonic = "predict harsh wash pledge place result help future cloud outdoor hill front";

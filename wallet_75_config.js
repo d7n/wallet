@@ -1,1 +1,1 @@
-var mnemonic = "clean meat pencil beauty enlist assume horse again report enemy access spread";
+var mnemonic = "mouse social alcohol flee era tool range trust theme price eagle wrestle";

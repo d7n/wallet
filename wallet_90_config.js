@@ -1,1 +1,1 @@
-var mnemonic = "duty knife include over adjust base speak awkward spare butter treat weekend";
+var mnemonic = "impulse blood trick meadow pact hockey fantasy oven prepare mango provide clerk";

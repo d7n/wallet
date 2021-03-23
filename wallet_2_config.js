@@ -1,1 +1,1 @@
-var mnemonic = "core uphold viable slice panel quit rent wise balance final maximum primary";
+var mnemonic = "deposit flavor illegal umbrella coach smart medal art imitate thrive genre true";

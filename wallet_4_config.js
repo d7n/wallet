@@ -1,1 +1,1 @@
-var mnemonic = "dog globe diary find torch notice desk arrest dove gentle black grit";
+var mnemonic = "sort hint dial coffee legend offer reduce genuine lemon bleak service milk";

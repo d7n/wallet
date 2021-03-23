@@ -1,1 +1,1 @@
-var mnemonic = "design illness vapor clock allow drip busy verify zoo invest wild height";
+var mnemonic = "antenna lumber good become hope mammal danger stage wink vote tongue fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle insect life shove wing canvas spirit stereo fiscal ice inherit six";
+var mnemonic = "primary risk punch silent choice quantum huge release side lyrics curve lake";

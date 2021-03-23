@@ -1,1 +1,1 @@
-var mnemonic = "recall uncover gravity much sample federal labor moon select enjoy goat crucial";
+var mnemonic = "betray toward will stick uncle mandate grass trigger lion crack glad typical";

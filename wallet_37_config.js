@@ -1,1 +1,1 @@
-var mnemonic = "dash tobacco acid layer spatial among lunch indicate wonder tiny people submit";
+var mnemonic = "ignore eyebrow jaguar record castle agree next history reason judge knee mask";
