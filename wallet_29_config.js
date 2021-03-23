@@ -1,1 +1,1 @@
-var mnemonic = "van leaf rice skull nephew broken soul depend album embody wild wash";
+var mnemonic = "glare execute lounge wave dune peasant soccer ranch work because cotton explain";

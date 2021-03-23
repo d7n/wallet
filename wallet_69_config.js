@@ -1,1 +1,1 @@
-var mnemonic = "mansion belt asthma chalk top trick nest parent finish alarm napkin march";
+var mnemonic = "sound song nurse put sting public agree bike rude print tennis cruise";

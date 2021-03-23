@@ -1,1 +1,1 @@
-var mnemonic = "sail right emerge material try question object rookie moon lion ride silly";
+var mnemonic = "mass orbit copper rather curious devote parade suit type fatigue fence warm";

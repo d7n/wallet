@@ -1,1 +1,1 @@
-var mnemonic = "phrase also claim keep vacuum film flight boat reduce quit toilet army";
+var mnemonic = "enroll detect inspire minimum flee rubber tomorrow can goddess must turn neutral";

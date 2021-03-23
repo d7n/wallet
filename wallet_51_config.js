@@ -1,1 +1,1 @@
-var mnemonic = "cute monitor neglect sun thank fine stumble mystery oven recipe arm unlock";
+var mnemonic = "bullet frog mouse between invest breeze jump rhythm firm gas video movie";

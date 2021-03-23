@@ -1,1 +1,1 @@
-var mnemonic = "alone loyal grief ticket spin explain brick hire chair mail green thank";
+var mnemonic = "fossil home water helmet hair unfair space pupil image push west grace";

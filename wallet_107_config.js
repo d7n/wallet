@@ -1,1 +1,1 @@
-var mnemonic = "jump glad area disorder penalty move jewel armed enact nurse wonder grit";
+var mnemonic = "sketch junior target solution erupt federal excuse embrace south coyote believe ribbon";

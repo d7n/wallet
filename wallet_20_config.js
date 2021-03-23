@@ -1,1 +1,1 @@
-var mnemonic = "reveal flower cash bundle consider nothing verify hair keen shaft glance hat";
+var mnemonic = "empower donor aunt clutch allow antenna false hollow eternal venture hollow gold";

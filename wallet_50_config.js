@@ -1,1 +1,1 @@
-var mnemonic = "online gasp misery atom village flight okay coral problem divorce clog clog";
+var mnemonic = "wood rent topple review drama proof carbon try check local divert you";

@@ -1,1 +1,1 @@
-var mnemonic = "congress bunker miss deposit exercise answer local beyond season help model burger";
+var mnemonic = "unaware lamp torch visual garage organ arrive taste hard fruit elder column";

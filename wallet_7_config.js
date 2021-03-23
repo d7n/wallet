@@ -1,1 +1,1 @@
-var mnemonic = "bone impact walnut scan palace sunset include cause include appear bright alter";
+var mnemonic = "another accuse pipe ranch margin park tree priority upper arch soon side";

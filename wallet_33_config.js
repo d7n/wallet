@@ -1,1 +1,1 @@
-var mnemonic = "hole duck matter faith sister detect three pave hungry check kid dignity";
+var mnemonic = "fix shoot antenna about pretty call month oyster coil brown half appear";

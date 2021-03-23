@@ -1,1 +1,1 @@
-var mnemonic = "bird language oil pond lady approve twenty fire alarm dial sword exact";
+var mnemonic = "push expire legal frog lion avoid window vessel speak wet humble scan";

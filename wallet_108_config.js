@@ -1,1 +1,1 @@
-var mnemonic = "truck cherry control gentle rice depend share solution model empty tool spice";
+var mnemonic = "elegant feed dwarf goose indicate regular razor goat omit trust plate lumber";

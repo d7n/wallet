@@ -1,1 +1,1 @@
-var mnemonic = "minor update basic ensure judge possible near until capable angry nurse bring";
+var mnemonic = "cushion potato head couple open wealth bike salute group february proof parent";

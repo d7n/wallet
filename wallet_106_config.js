@@ -1,1 +1,1 @@
-var mnemonic = "scare develop tank fire ocean derive laugh credit bid gauge abandon announce";
+var mnemonic = "category bid spawn enough satoshi minute faint team sorry coil attack argue";

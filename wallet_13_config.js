@@ -1,1 +1,1 @@
-var mnemonic = "where other close pride guess divert syrup pumpkin remove turtle chase rescue";
+var mnemonic = "bike sheriff sudden proud sight slim employ diesel tragic cabin teach inject";

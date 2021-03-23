@@ -1,1 +1,1 @@
-var mnemonic = "rally release pole crush album immune lonely hover cover inner minimum trim";
+var mnemonic = "radar umbrella battle horror crawl tide develop update rug slender lizard negative";

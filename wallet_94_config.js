@@ -1,1 +1,1 @@
-var mnemonic = "ignore hidden time code load waste host mango garbage copy potato discover";
+var mnemonic = "put expand advice liquid floor exhibit cinnamon mention climb scrub tunnel anxiety";

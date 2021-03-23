@@ -1,1 +1,1 @@
-var mnemonic = "possible indoor local snake blur razor chapter human depth exclude loyal lazy";
+var mnemonic = "harsh unable theory dust sadness demand marble spend busy surround opinion immense";

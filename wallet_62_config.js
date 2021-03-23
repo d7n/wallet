@@ -1,1 +1,1 @@
-var mnemonic = "exchange aware pattern item raw body excite trigger mammal move kiwi arena";
+var mnemonic = "style educate satoshi tape burger cereal aspect burger tag sweet east jaguar";

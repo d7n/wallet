@@ -1,1 +1,1 @@
-var mnemonic = "nature verb swamp prosper enrich buffalo draft attitude finish hood bicycle book";
+var mnemonic = "uniform win nuclear tip typical pencil apology outdoor snow lecture lyrics family";

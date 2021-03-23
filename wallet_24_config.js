@@ -1,1 +1,1 @@
-var mnemonic = "fence boss jacket orbit attitude fat trap feature obtain input album check";
+var mnemonic = "believe you reward open west hole later hello dragon silk unfair level";

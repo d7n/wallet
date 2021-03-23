@@ -1,1 +1,1 @@
-var mnemonic = "tomato useful copper evolve soul hurdle stool skill mandate parrot labor arrive";
+var mnemonic = "true cube they castle treat ritual burger destroy fun mutual income champion";

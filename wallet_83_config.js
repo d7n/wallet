@@ -1,1 +1,1 @@
-var mnemonic = "apple decline until reveal deny pattern absorb stumble pulp pipe army romance";
+var mnemonic = "speak slam abstract buyer furnace pride budget holiday cross call come rug";

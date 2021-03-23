@@ -1,1 +1,1 @@
-var mnemonic = "all clinic crystal olympic better build grow point color range produce secret";
+var mnemonic = "sell grab task kit nature network address poet seed planet tank rebel";

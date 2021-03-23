@@ -1,1 +1,1 @@
-var mnemonic = "problem hawk festival harbor dynamic sibling wheat relax hint tongue odor cabbage";
+var mnemonic = "host company law icon miss kidney obvious flame kick must myth planet";

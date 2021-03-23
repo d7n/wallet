@@ -1,1 +1,1 @@
-var mnemonic = "gasp decide sudden advice lawsuit foot cake exotic model view evidence split";
+var mnemonic = "twice equal dolphin banner grant depth midnight yard globe obtain leader diamond";

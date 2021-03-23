@@ -1,1 +1,1 @@
-var mnemonic = "trend hill suffer curve dinosaur step eager recall expire collect sea cluster";
+var mnemonic = "market whisper roof number recall hybrid clump hamster comic token harvest top";

@@ -1,1 +1,1 @@
-var mnemonic = "able advice potato peasant foster screen glass side swim grant steak parrot";
+var mnemonic = "shiver vocal burden census force melt quit floor rely maid boring judge";

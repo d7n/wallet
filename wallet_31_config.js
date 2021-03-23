@@ -1,1 +1,1 @@
-var mnemonic = "radio double recall control culture dinosaur paddle hungry measure ribbon diary vote";
+var mnemonic = "floor random upgrade grunt ozone clock property month file sick wrong quote";

@@ -1,1 +1,1 @@
-var mnemonic = "memory congress favorite stumble control language collect raise all banana wealth utility";
+var mnemonic = "express receive orphan maple truck chief enough section window reveal candy salute";

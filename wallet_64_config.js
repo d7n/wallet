@@ -1,1 +1,1 @@
-var mnemonic = "curtain impose veteran account spell card fault diary text law below bamboo";
+var mnemonic = "awful stairs cancel raven choice outdoor horn false clock grace gaze inject";

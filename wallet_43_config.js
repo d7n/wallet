@@ -1,1 +1,1 @@
-var mnemonic = "simple riot bachelor result pink unhappy visual brave champion quote dance dial";
+var mnemonic = "inherit screen cliff stable mind vault enough child unusual embody solve supreme";

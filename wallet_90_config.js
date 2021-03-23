@@ -1,1 +1,1 @@
-var mnemonic = "feed typical course over gas vital cause move poem cargo cluster gun";
+var mnemonic = "identify budget page prosper clinic frequent canal close right envelope talent solution";

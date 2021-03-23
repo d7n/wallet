@@ -1,1 +1,1 @@
-var mnemonic = "jacket bench fluid magic alter lounge liquid slot this polar drill alpha";
+var mnemonic = "lady bus hurry report frozen scale lunar mistake wagon hawk system unfold";

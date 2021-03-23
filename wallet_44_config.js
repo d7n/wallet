@@ -1,1 +1,1 @@
-var mnemonic = "aerobic abuse capable flat produce spike rebel slot apology music hair omit";
+var mnemonic = "attack address party congress arctic account index keep sight wage plug renew";

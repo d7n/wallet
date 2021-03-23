@@ -1,1 +1,1 @@
-var mnemonic = "fatigue notice oil easy utility snake require squirrel metal arrest ribbon asthma";
+var mnemonic = "tomato put girl auction belt summer happy diagram pattern army grant rally";

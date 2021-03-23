@@ -1,1 +1,1 @@
-var mnemonic = "bicycle clay snack menu dream lunch assume wire open ordinary crane slot";
+var mnemonic = "extra ignore dove garlic churn toe delay matrix rule glow club six";

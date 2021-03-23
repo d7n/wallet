@@ -1,1 +1,1 @@
-var mnemonic = "umbrella spy palm hawk ball heavy way hint damp when friend orchard";
+var mnemonic = "assault buddy sport torch wide sort wash theme fit lion weird wife";

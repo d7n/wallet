@@ -1,1 +1,1 @@
-var mnemonic = "box reform body seed mail empty early wrist absent black limb mimic";
+var mnemonic = "fee solution prosper record system stick square index roof ghost inner child";

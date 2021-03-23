@@ -1,1 +1,1 @@
-var mnemonic = "logic tunnel bright host trigger wire program gadget ahead height beyond canvas";
+var mnemonic = "margin message phone push truth tired giant ride usage story candy various";

@@ -1,1 +1,1 @@
-var mnemonic = "change taste link service second heavy exhibit cook stem illness leaf broom";
+var mnemonic = "awful raccoon tuition local slide lucky pig drink steel include west earn";

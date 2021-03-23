@@ -1,1 +1,1 @@
-var mnemonic = "unhappy spin verify interest believe skill desk just blush rigid student text";
+var mnemonic = "maple improve cliff science naive result record knock garlic pill glad system";

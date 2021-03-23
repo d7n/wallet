@@ -1,1 +1,1 @@
-var mnemonic = "scrub edit weird three filter people climb ivory science face fix wall";
+var mnemonic = "denial cheese absurd bright suggest bread arrest fossil filter mouse shop source";

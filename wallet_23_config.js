@@ -1,1 +1,1 @@
-var mnemonic = "ecology horror case concert august chuckle exile year tuna coin romance craft";
+var mnemonic = "write spoil enact fee wild peanut gun sea only risk sweet salute";

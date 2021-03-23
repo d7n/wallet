@@ -1,1 +1,1 @@
-var mnemonic = "habit finger dignity opinion give income slight breeze toast spike genius brave";
+var mnemonic = "guess task rescue expect inject divorce observe auction alien level chief flee";

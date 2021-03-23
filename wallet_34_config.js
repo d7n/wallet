@@ -1,1 +1,1 @@
-var mnemonic = "rescue exhaust shrimp divide season view census student photo boat husband chaos";
+var mnemonic = "apology wait voyage claim inch snake stock filter behave message useless shove";

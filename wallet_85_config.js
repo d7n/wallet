@@ -1,1 +1,1 @@
-var mnemonic = "plate rookie used claw romance cabbage sustain color weird daughter wash tornado";
+var mnemonic = "decrease lamp swallow address behind head lecture noise toward twenty sure laptop";

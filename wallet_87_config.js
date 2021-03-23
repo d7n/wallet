@@ -1,1 +1,1 @@
-var mnemonic = "symptom shrimp habit pull gaze brave traffic expose jungle cruise match arm";
+var mnemonic = "sentence enable strike couple coconut biology neck void couch rare carbon kiss";

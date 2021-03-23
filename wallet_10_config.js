@@ -1,1 +1,1 @@
-var mnemonic = "kitchen size soda mean dignity west steak often exclude raven inherit laugh";
+var mnemonic = "shallow cupboard pencil hill keen near describe copper salt cat vocal blanket";

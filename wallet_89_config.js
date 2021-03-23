@@ -1,1 +1,1 @@
-var mnemonic = "shuffle property joy oyster shoot armor verb stand crunch warfare advance fault";
+var mnemonic = "goose wasp shallow digital annual coin nominee pond mean pepper junk print";

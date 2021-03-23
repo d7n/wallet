@@ -1,1 +1,1 @@
-var mnemonic = "cotton elder elder you drink evoke major regret cool garden poverty sponsor";
+var mnemonic = "next occur hunt runway vacant mushroom life hold grass symbol ugly vanish";

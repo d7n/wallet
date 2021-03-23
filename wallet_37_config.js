@@ -1,1 +1,1 @@
-var mnemonic = "anchor unusual truck brass cloud hundred hybrid ketchup raccoon cheese web hamster";
+var mnemonic = "polar symptom action transfer genuine jealous poet mansion section chronic defy first";

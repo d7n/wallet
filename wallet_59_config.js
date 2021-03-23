@@ -1,1 +1,1 @@
-var mnemonic = "permit moral scale similar fix ability quote broom when harbor maid orient";
+var mnemonic = "alter puppy danger palace economy boil limb save point enable ghost pistol";

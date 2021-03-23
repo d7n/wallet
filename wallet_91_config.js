@@ -1,1 +1,1 @@
-var mnemonic = "monitor affair zone robust drip citizen agent purse credit shock addict miracle";
+var mnemonic = "dash okay will woman body debris market intact dad taxi ranch more";

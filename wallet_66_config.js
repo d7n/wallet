@@ -1,1 +1,1 @@
-var mnemonic = "deputy buddy broken rain feel pair royal garment ginger knock lawn prefer";
+var mnemonic = "among physical fall okay find meadow alpha fringe galaxy achieve end yellow";

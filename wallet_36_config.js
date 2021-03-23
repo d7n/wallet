@@ -1,1 +1,1 @@
-var mnemonic = "sock enlist search shock casual illegal tiger pipe toilet chicken fit wear";
+var mnemonic = "boy absorb robot assist error alarm slogan column adapt park fan jaguar";

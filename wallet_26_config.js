@@ -1,1 +1,1 @@
-var mnemonic = "message legend unknown favorite same helmet wagon lyrics stay sentence razor culture";
+var mnemonic = "sure country elbow initial brief advance vault hockey usual good ecology devote";

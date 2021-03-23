@@ -1,1 +1,1 @@
-var mnemonic = "must put expand panther amused donkey alcohol current hello grocery reunion menu";
+var mnemonic = "size quick shaft tip render toast venue width ready parrot front coast";

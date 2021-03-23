@@ -1,1 +1,1 @@
-var mnemonic = "deny village defy nasty magnet clean ecology split media beach ski amazing";
+var mnemonic = "glue olive film april forest supreme already method undo logic antique idle";

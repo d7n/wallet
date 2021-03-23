@@ -1,1 +1,1 @@
-var mnemonic = "resemble slogan switch license castle yard tenant issue pledge adapt ritual monster";
+var mnemonic = "era shop swear glow depend lawsuit mean salad cluster session way picture";

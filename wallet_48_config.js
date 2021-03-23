@@ -1,1 +1,1 @@
-var mnemonic = "spray flavor table crowd rent blade dizzy judge trumpet maze cigar cereal";
+var mnemonic = "gloom kitten split method air cover duty short ready essay child novel";

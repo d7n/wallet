@@ -1,1 +1,1 @@
-var mnemonic = "decrease execute main record spatial bubble virtual long print unveil kid about";
+var mnemonic = "slim second lucky lawn expire arrow easily grocery vivid prefer divide anxiety";

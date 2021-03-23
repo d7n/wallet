@@ -1,1 +1,1 @@
-var mnemonic = "truck picture danger stamp eager typical mammal rule target badge suggest pig";
+var mnemonic = "impact mercy mechanic ecology local broccoli first you lounge dress prefer physical";

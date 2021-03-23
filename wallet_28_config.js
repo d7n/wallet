@@ -1,1 +1,1 @@
-var mnemonic = "capable neck script major praise leaf orchard depend tape liquid basket regret";
+var mnemonic = "invest erupt despair hello pioneer matrix super various pioneer gadget because supreme";

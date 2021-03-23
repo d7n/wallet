@@ -1,1 +1,1 @@
-var mnemonic = "theme dad neutral layer bean scrub cat crystal scene work soldier trophy";
+var mnemonic = "tiny butter kit fury company course emerge ketchup cradle such canal example";

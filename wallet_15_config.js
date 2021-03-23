@@ -1,1 +1,1 @@
-var mnemonic = "crime unknown bind elegant blanket repeat journey stone bread truly total speak";
+var mnemonic = "drive rescue dinner choose area point light mail code legal outer soda";

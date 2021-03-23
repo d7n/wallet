@@ -1,1 +1,1 @@
-var mnemonic = "annual jeans bomb busy myth carry train swing squeeze faith insect safe";
+var mnemonic = "dinner couch horn surround drift orphan genius walnut lunar alley tenant risk";

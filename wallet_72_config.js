@@ -1,1 +1,1 @@
-var mnemonic = "cool reflect fence box pass empower orbit leg enough alcohol card such";
+var mnemonic = "allow still prison umbrella squeeze lucky ride rabbit surface lake doll switch";

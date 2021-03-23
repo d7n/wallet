@@ -1,1 +1,1 @@
-var mnemonic = "inflict digital fly bless alarm park shock exhaust upon unveil mother claw";
+var mnemonic = "beach bind illegal pill nurse estate save boost foil convince ordinary snap";

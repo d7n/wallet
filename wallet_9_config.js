@@ -1,1 +1,1 @@
-var mnemonic = "couch hamster another escape merit engine there area identify perfect fault reunion";
+var mnemonic = "silent penalty suspect area prize embody exact tackle excite water pupil viable";

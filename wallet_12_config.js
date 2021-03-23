@@ -1,1 +1,1 @@
-var mnemonic = "feel dance gap volume blanket knee moral chief ankle point sock together";
+var mnemonic = "wise vast device satoshi party analyst shuffle jewel boss push prevent pelican";

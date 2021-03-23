@@ -1,1 +1,1 @@
-var mnemonic = "useless february side panel pepper nation bunker dog inherit latin elegant oxygen";
+var mnemonic = "gown diesel deputy work destroy whale route insect never clever verify immense";

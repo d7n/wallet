@@ -1,1 +1,1 @@
-var mnemonic = "blind leg dwarf close cloth saddle moment solar enlist cake search exit";
+var mnemonic = "isolate token cargo permit cause kid reflect pottery outside response original wolf";

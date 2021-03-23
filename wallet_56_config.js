@@ -1,1 +1,1 @@
-var mnemonic = "random forget coral loop correct fuel team dash rigid kiwi venue favorite";
+var mnemonic = "couple stumble royal people music top long large true rug fruit sponsor";

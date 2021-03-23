@@ -1,1 +1,1 @@
-var mnemonic = "ensure cradle indicate fly infant evolve measure power belt pond allow stay";
+var mnemonic = "excite viable laptop viable ridge learn real pink banner hover wolf magnet";

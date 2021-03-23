@@ -1,1 +1,1 @@
-var mnemonic = "ginger identify pool act anger prefer allow pig plug spend detail cattle";
+var mnemonic = "bulb fabric giggle spoil tiger army cluster jump common robust large pilot";

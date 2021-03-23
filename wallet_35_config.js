@@ -1,1 +1,1 @@
-var mnemonic = "useful chalk excess domain okay leg news beyond cry wheat latin tip";
+var mnemonic = "pupil stumble large hedgehog tumble type slow decide shift bulk rescue empty";

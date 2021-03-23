@@ -1,1 +1,1 @@
-var mnemonic = "ghost pipe flush artist essay light elder display renew stage diesel canyon";
+var mnemonic = "cash fiction phone relief become more ask observe stay juice cup chicken";

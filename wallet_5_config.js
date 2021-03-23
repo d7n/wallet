@@ -1,1 +1,1 @@
-var mnemonic = "mean brother equal someone glide crazy sample street frown service index duck";
+var mnemonic = "fee oyster panic split pelican rack seven forest tennis knee laptop concert";

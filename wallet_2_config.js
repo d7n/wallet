@@ -1,1 +1,1 @@
-var mnemonic = "coin dial knock ask virtual edge fat giant fire flash lift motor";
+var mnemonic = "reduce cool tomorrow recycle bullet turkey hollow brush risk response elevator genre";

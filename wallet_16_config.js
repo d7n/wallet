@@ -1,1 +1,1 @@
-var mnemonic = "evolve door extend disorder section curtain page milk wagon retreat pilot believe";
+var mnemonic = "clap shrimp judge balcony motion cattle ahead hint excuse dutch pioneer edge";

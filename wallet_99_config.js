@@ -1,1 +1,1 @@
-var mnemonic = "wire column sweet know notice agree amateur ostrich garment orient fragile office";
+var mnemonic = "shuffle eager embody fringe stomach virus steak start dirt bus pass similar";

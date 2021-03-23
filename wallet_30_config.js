@@ -1,1 +1,1 @@
-var mnemonic = "seat rent cliff cry equip you fiber minimum elegant kitchen pride ladder";
+var mnemonic = "purity firm orbit cry snow net volume animal hope you problem thunder";

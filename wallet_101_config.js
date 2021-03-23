@@ -1,1 +1,1 @@
-var mnemonic = "track theme acquire assist sausage steak mango error rib decorate filter pact";
+var mnemonic = "story surprise wife leader mandate frozen brown square cream expand kangaroo chapter";

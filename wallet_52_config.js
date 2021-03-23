@@ -1,1 +1,1 @@
-var mnemonic = "crucial round spike public smart garden hero father never leader rain enrich";
+var mnemonic = "odor mercy dawn lend lawsuit other claim save noble cry wash shoe";
