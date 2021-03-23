@@ -1,1 +1,1 @@
-var mnemonic = "minute help income much olive number enact illness aerobic expire bronze essence";
+var mnemonic = "public spot fall tent cream coyote narrow uncover syrup hair phone liar";

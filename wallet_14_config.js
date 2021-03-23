@@ -1,1 +1,1 @@
-var mnemonic = "prison dove toilet junior embody crash intact honey fan offer vendor video";
+var mnemonic = "skull panic story exercise roast crush penalty private scale still curious squirrel";

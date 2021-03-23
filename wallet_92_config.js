@@ -1,1 +1,1 @@
-var mnemonic = "eight brisk iron intact together track crisp travel zoo art theme empty";
+var mnemonic = "casino puppy program better food remain between warfare circle glove ritual patient";

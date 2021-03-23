@@ -1,1 +1,1 @@
-var mnemonic = "swallow mixture million artist trophy aisle choose crop document local artwork sheriff";
+var mnemonic = "rapid survey public few design spike alter step ghost easily replace rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "face novel glass seed august start brother pottery circle help puzzle rigid";
+var mnemonic = "picnic maximum trigger check scheme approve antique million deputy engage pioneer marble";

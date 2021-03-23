@@ -1,1 +1,1 @@
-var mnemonic = "bronze chuckle year worry genre mosquito coil depend stuff ladder join plate";
+var mnemonic = "robust icon arch favorite black young spread wash vibrant inflict heart route";

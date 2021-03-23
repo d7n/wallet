@@ -1,1 +1,1 @@
-var mnemonic = "network canal giant hospital sting hundred dynamic tip spray fix prepare burst";
+var mnemonic = "occur autumn space game april day apart wood spawn cradle dust raise";

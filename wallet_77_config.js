@@ -1,1 +1,1 @@
-var mnemonic = "wait advice wedding bike exercise situate priority project enemy spot notable tone";
+var mnemonic = "chat rotate buyer casino raccoon monitor accuse put muffin idle tonight roof";

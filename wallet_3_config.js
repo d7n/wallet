@@ -1,1 +1,1 @@
-var mnemonic = "cradle noise dice rally month that reunion skill divorce humble gauge involve";
+var mnemonic = "brief aerobic crop view awkward receive snake birth hand spider either humor";

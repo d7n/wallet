@@ -1,1 +1,1 @@
-var mnemonic = "nest adult box betray cancel decade dog forget bunker coyote purchase evoke";
+var mnemonic = "phrase grief cigar ride army lab receive bleak logic own display antenna";

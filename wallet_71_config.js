@@ -1,1 +1,1 @@
-var mnemonic = "glow grant pole produce because material canyon rural birth page salad burst";
+var mnemonic = "where lucky ostrich shop corn crawl angry tip charge nice anxiety reflect";

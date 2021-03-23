@@ -1,1 +1,1 @@
-var mnemonic = "hunt beef buddy prefer satisfy girl air junk love equal vapor employ";
+var mnemonic = "jump divert pilot poet actual acid earn captain mirror holiday drift feed";

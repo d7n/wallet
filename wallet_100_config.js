@@ -1,1 +1,1 @@
-var mnemonic = "deputy diet promote marble volume purse frequent embody critic rib become bomb";
+var mnemonic = "hair argue business guess found text mandate into spend school edit crater";

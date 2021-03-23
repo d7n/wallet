@@ -1,1 +1,1 @@
-var mnemonic = "grit frame witness urge awake gorilla result sunset bread music fresh trend";
+var mnemonic = "crew sunset tomorrow cross cool ginger shadow mobile boring sustain orient quick";

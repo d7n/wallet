@@ -1,1 +1,1 @@
-var mnemonic = "foster strike angry breeze ski skill arctic obtain prize meadow wise pizza";
+var mnemonic = "random ten nest produce you lecture grow egg weasel road asthma author";

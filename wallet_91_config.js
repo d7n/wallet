@@ -1,1 +1,1 @@
-var mnemonic = "nurse profit impose desert drastic dwarf describe average song mask scene silk";
+var mnemonic = "weekend coil misery like giggle want culture tiger inflict interest scale fluid";

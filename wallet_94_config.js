@@ -1,1 +1,1 @@
-var mnemonic = "energy club immense intact engage edge gain essence friend pattern resist broken";
+var mnemonic = "trim goose hedgehog crisp noble buzz describe coyote nose frown hidden attitude";

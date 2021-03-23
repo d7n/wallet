@@ -1,1 +1,1 @@
-var mnemonic = "swing memory law such connect evoke tide soda nephew demand cherry engage";
+var mnemonic = "theme throw suspect insane ripple game real tiger other update horror above";

@@ -1,1 +1,1 @@
-var mnemonic = "grief option unit invite excuse acoustic jeans entry drill hurdle reward market";
+var mnemonic = "claim rubber left breeze couple nephew dolphin cheap rough call tackle target";

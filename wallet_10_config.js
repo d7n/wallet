@@ -1,1 +1,1 @@
-var mnemonic = "melody accuse subject man fortune payment between boring battle length swift cry";
+var mnemonic = "apple useful hello lock worth escape suspect gym snack fiction vague truth";

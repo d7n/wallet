@@ -1,1 +1,1 @@
-var mnemonic = "depart laptop loop receive pig local volume okay equip history female ethics";
+var mnemonic = "message priority surface sad waste fabric alien neither rice shoe eye swing";

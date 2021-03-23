@@ -1,1 +1,1 @@
-var mnemonic = "fiction timber slide join sing elite wrap farm make float flavor cradle";
+var mnemonic = "adjust file stand robot fog snack attract perfect dish actor metal aware";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage broccoli right sister invest phone drill laundry neglect elder sentence fat";
+var mnemonic = "glory consider bridge city goat coconut neither wave praise dawn school atom";

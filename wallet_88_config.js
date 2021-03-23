@@ -1,1 +1,1 @@
-var mnemonic = "uncover jeans zone already blouse age green lens remove chalk planet chalk";
+var mnemonic = "soda fog survey charge lounge skin doctor solve opera hill cat media";

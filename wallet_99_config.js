@@ -1,1 +1,1 @@
-var mnemonic = "mixed fall approve resist siren winter bullet sun velvet fly picnic embrace";
+var mnemonic = "stairs room vanish noise despair panther because hat park hundred injury receive";

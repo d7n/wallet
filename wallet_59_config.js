@@ -1,1 +1,1 @@
-var mnemonic = "ramp hungry february upset deny soldier twist robust brick spell submit high";
+var mnemonic = "mansion miracle ticket coach cattle illegal zebra swallow jealous stay leader select";

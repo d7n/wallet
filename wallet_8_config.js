@@ -1,1 +1,1 @@
-var mnemonic = "cat slot another maid inside friend cart vital erosion teach point photo";
+var mnemonic = "small junior swallow emerge glove position range enhance holiday rubber where mean";

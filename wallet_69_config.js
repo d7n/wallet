@@ -1,1 +1,1 @@
-var mnemonic = "system sample floor winter maple shed zebra captain drastic spike spider dish";
+var mnemonic = "blast basket door deer rebuild diesel keep elbow match guess cinnamon flower";

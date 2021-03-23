@@ -1,1 +1,1 @@
-var mnemonic = "dad clump symbol short fence famous marine false child clinic truck family";
+var mnemonic = "drift tell view cook broccoli depth orbit maid foot culture cruel possible";

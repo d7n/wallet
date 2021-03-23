@@ -1,1 +1,1 @@
-var mnemonic = "soda ride present average wrist anger satoshi physical hat artefact squeeze maid";
+var mnemonic = "trouble vague laugh imitate media humble tower arm diet report shaft crunch";

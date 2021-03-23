@@ -1,1 +1,1 @@
-var mnemonic = "rural capable search pride soul purchase surge light document ship ski book";
+var mnemonic = "jacket gallery view gentle tourist solution match cruise east bomb defy crop";

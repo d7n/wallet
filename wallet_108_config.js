@@ -1,1 +1,1 @@
-var mnemonic = "dilemma nation pair either brick rival bag rally cover exchange feature ten";
+var mnemonic = "yard distance planet roast volume switch slim void vague lesson library cave";

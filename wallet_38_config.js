@@ -1,1 +1,1 @@
-var mnemonic = "puzzle club chief defy switch idea cushion cover hold monster wash genius";
+var mnemonic = "confirm close inside child little arrive parent adult hand virus kind penalty";

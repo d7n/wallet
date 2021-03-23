@@ -1,1 +1,1 @@
-var mnemonic = "alone ethics empty snow chief jelly dwarf multiply cover age bone obtain";
+var mnemonic = "radio give wool final awake wrist obtain prosper magic nothing near strike";

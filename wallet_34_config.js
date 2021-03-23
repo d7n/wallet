@@ -1,1 +1,1 @@
-var mnemonic = "basket monitor mobile couple vacant fine hour entry found regret vanish question";
+var mnemonic = "finger possible pudding expect symbol lounge flame warfare describe simple mimic farm";

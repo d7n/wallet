@@ -1,1 +1,1 @@
-var mnemonic = "reward slot extra erupt gas useless still push avoid write sign hunt";
+var mnemonic = "royal flag already flush lunar cloth paper injury beyond engage south balcony";

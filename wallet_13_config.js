@@ -1,1 +1,1 @@
-var mnemonic = "barrel benefit employ defy clinic million beef afraid leaf castle judge comic";
+var mnemonic = "slow cargo empower cushion wedding cat siege arm creek black census dirt";

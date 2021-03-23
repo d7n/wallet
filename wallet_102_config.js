@@ -1,1 +1,1 @@
-var mnemonic = "identify tide initial warrior cry letter thing mammal excite unhappy deny tennis";
+var mnemonic = "humble traffic input system oil weather lava eyebrow stable boat episode much";

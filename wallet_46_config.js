@@ -1,1 +1,1 @@
-var mnemonic = "monitor private wife dumb please wine input atom border spoil spice motion";
+var mnemonic = "salad sustain noodle parent adult layer fortune punch olympic slice series device";

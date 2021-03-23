@@ -1,1 +1,1 @@
-var mnemonic = "farm lumber tongue pond limb hazard document calm average hybrid toe novel";
+var mnemonic = "champion latin spray faith novel entire bacon heavy still reward crack final";

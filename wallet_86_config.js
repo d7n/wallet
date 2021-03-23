@@ -1,1 +1,1 @@
-var mnemonic = "neglect awful forget doll cloth oppose child example meat either neck inject";
+var mnemonic = "cancel okay tower slight canal excess artist clutch orient traffic kiwi document";

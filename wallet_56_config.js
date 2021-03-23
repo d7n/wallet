@@ -1,1 +1,1 @@
-var mnemonic = "open jeans clown clog shuffle tomorrow merit shield bar state advance amount";
+var mnemonic = "all misery pave easy swear solve move spin improve witness embrace code";

@@ -1,1 +1,1 @@
-var mnemonic = "answer timber just fiction spice physical carry rural away busy decorate property";
+var mnemonic = "gasp hollow main barely safe mountain swap color market fortune siege scout";

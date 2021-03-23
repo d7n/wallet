@@ -1,1 +1,1 @@
-var mnemonic = "tuition street hundred about client gadget addict chimney slender simple certain ancient";
+var mnemonic = "approve course cloud depend blind again inner opinion employ burger bubble tray";

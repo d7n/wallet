@@ -1,1 +1,1 @@
-var mnemonic = "credit catalog rug taxi across issue soda dice glass taxi pepper flower";
+var mnemonic = "wing all toward orbit cook predict turn quiz comfort involve corn easy";

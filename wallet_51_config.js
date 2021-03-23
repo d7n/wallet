@@ -1,1 +1,1 @@
-var mnemonic = "oxygen shield lemon churn tank staff night history giant again wide borrow";
+var mnemonic = "leopard imitate tissue desert chef swing monster enroll guitar nurse source apple";

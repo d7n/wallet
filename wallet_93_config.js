@@ -1,1 +1,1 @@
-var mnemonic = "globe snack armor sun myth lottery fantasy minor gas advice day chalk";
+var mnemonic = "hundred pencil marble slow throw lawsuit recall brain tuition match crouch yellow";

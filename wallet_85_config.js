@@ -1,1 +1,1 @@
-var mnemonic = "ready grocery ten mandate kangaroo found metal inherit wasp slide isolate stock";
+var mnemonic = "truth album maid orbit uncle genre panic pitch actor debris tray leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "glad obtain peace return awful grain differ puppy rubber naive endorse cradle";
+var mnemonic = "exchange country law matrix derive orient fortune course better tiny crew orange";

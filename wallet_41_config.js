@@ -1,1 +1,1 @@
-var mnemonic = "truly illness example equal certain zebra elbow arrest fatal helmet foam page";
+var mnemonic = "cycle misery earth elevator easy appear beauty together focus present cool test";

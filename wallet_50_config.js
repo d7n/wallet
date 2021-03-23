@@ -1,1 +1,1 @@
-var mnemonic = "tissue dad vintage reward very symptom borrow muscle spell worry crisp kind";
+var mnemonic = "digital silk tape need later fruit tree belt coin forward vital box";

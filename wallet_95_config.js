@@ -1,1 +1,1 @@
-var mnemonic = "agent guard slush forest victory multiply run learn blossom blossom tone hill";
+var mnemonic = "ramp neither number drop wheel label milk dentist whisper gossip carpet rhythm";

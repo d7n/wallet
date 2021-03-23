@@ -1,1 +1,1 @@
-var mnemonic = "annual truly token symptom crawl casual buffalo wheat evoke luggage endorse praise";
+var mnemonic = "inspire slogan maze author glare deposit scatter grape digital person matter ill";

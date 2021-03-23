@@ -1,1 +1,1 @@
-var mnemonic = "clinic maple spread way yard favorite image basic puzzle mad arrive saddle";
+var mnemonic = "conduct flush funny swear culture negative result home allow neck mystery inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "cry popular craft liberty puppy kid company yellow garage unlock blue badge";
+var mnemonic = "crash deer protect kit pond coil stomach success venture peanut local alien";

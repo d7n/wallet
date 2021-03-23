@@ -1,1 +1,1 @@
-var mnemonic = "essay art dismiss diet village dinner ball lunar drum pair robust expose";
+var mnemonic = "verb upgrade track soup taxi wise thumb combine flag coconut draw horror";

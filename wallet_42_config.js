@@ -1,1 +1,1 @@
-var mnemonic = "depth frame learn gauge fiction blur banner win also tool crunch warm";
+var mnemonic = "check gun season toss insect female empty learn quick scare crystal ask";

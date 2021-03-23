@@ -1,1 +1,1 @@
-var mnemonic = "exile nephew monkey describe length matrix fabric attend bunker cabin square vivid";
+var mnemonic = "walk thunder slot cycle wish lyrics version turtle carbon decade fitness cube";

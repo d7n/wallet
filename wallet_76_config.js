@@ -1,1 +1,1 @@
-var mnemonic = "edit involve volume release boil economy kiss snow cactus hospital solution melody";
+var mnemonic = "room side vast track endless license canoe medal web weasel visual torch";

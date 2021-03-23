@@ -1,1 +1,1 @@
-var mnemonic = "camera bracket pledge onion taxi shove age develop clock feel bomb junk";
+var mnemonic = "because liberty calm broccoli denial payment organ prosper middle between write december";

@@ -1,1 +1,1 @@
-var mnemonic = "inner energy beach peanut fringe vacant idea slam apology grass survey hurry";
+var mnemonic = "vicious lonely unveil pair snow trouble estate wait crime soccer dash various";

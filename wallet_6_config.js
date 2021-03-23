@@ -1,1 +1,1 @@
-var mnemonic = "warrior barely goddess almost cradle ensure super cactus truck human faint tribe";
+var mnemonic = "fringe one guard purse exit hour insect buyer deny laugh shield agent";

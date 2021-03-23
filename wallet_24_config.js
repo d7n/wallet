@@ -1,1 +1,1 @@
-var mnemonic = "submit annual hold canyon adjust thumb neither turtle segment vacuum region year";
+var mnemonic = "chicken notice various skull van dismiss material express palace access universe final";

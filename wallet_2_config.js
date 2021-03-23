@@ -1,1 +1,1 @@
-var mnemonic = "misery denial tobacco achieve tunnel human rubber surround trend abuse twin family";
+var mnemonic = "feel goat sick barely kite frame isolate little stove record grain scissors";

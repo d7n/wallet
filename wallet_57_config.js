@@ -1,1 +1,1 @@
-var mnemonic = "sugar thunder menu fly round pilot theme spare party year clinic state";
+var mnemonic = "hope balance judge leopard perfect soon agree slender swift rabbit scan heavy";

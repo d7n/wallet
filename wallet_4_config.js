@@ -1,1 +1,1 @@
-var mnemonic = "jealous inspire welcome custom rigid uniform wasp excess faculty rose young spend";
+var mnemonic = "decline frown price clean kid humble assault before flame cluster marble broom";

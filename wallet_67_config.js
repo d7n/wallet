@@ -1,1 +1,1 @@
-var mnemonic = "voice total badge focus frame live narrow bread alley easily found category";
+var mnemonic = "gun powder neither cinnamon wear isolate actual scorpion pupil cotton bitter foil";

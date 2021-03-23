@@ -1,1 +1,1 @@
-var mnemonic = "erase prize topple upgrade youth ethics try repeat material hedgehog reflect finish";
+var mnemonic = "keen wedding swift oil throw adult wool problem rocket where welcome correct";

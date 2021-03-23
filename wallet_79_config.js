@@ -1,1 +1,1 @@
-var mnemonic = "traffic taste decorate educate world album casino gospel width purchase decline fog";
+var mnemonic = "dream soccer inhale trim zone buddy warm divert expect purity economy humor";

@@ -1,1 +1,1 @@
-var mnemonic = "food oblige urban syrup early oven forward glimpse citizen tuna connect panel";
+var mnemonic = "stock later share clerk rural spy sample view lounge volume engage vast";

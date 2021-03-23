@@ -1,1 +1,1 @@
-var mnemonic = "spike finger run leaf make source scissors field pencil august awake kind";
+var mnemonic = "lounge situate claw rescue usage awkward share three buyer mail exercise visual";

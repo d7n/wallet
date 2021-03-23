@@ -1,1 +1,1 @@
-var mnemonic = "vanish crime family crack motor crack swing tongue begin stairs anger thought";
+var mnemonic = "fox suit exile bike come holiday ivory mutual nation various hero junk";

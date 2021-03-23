@@ -1,1 +1,1 @@
-var mnemonic = "tower slide keep gate profit keen ship aerobic crunch legend parade inflict";
+var mnemonic = "fiscal absent grid pencil language scatter true deliver peace try cube gauge";

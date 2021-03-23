@@ -1,1 +1,1 @@
-var mnemonic = "bridge recycle labor solution clarify dumb drink sheriff target eight aerobic west";
+var mnemonic = "chaos symptom junior frown mom main fiber jacket kiwi small opinion car";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle soon victory reunion middle hand swarm woman strike strategy peanut magic";
+var mnemonic = "know verify wife steak razor fatigue punch mule cash upgrade office fragile";

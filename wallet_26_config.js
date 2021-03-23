@@ -1,1 +1,1 @@
-var mnemonic = "oblige decrease joy sugar adjust gym census stairs flush brand furnace host";
+var mnemonic = "figure grocery keep adjust pill buddy million country top erupt doll fall";

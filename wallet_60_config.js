@@ -1,1 +1,1 @@
-var mnemonic = "solution celery sauce post path marble scene help lamp awful patch staff";
+var mnemonic = "humble imitate palace wealth modify renew december under angry ahead maple choice";

@@ -1,1 +1,1 @@
-var mnemonic = "gown split spring shop crawl dumb trap laundry save possible first crash";
+var mnemonic = "gorilla rug tired upon play milk chuckle maximum wrist drink rate acid";

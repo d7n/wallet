@@ -1,1 +1,1 @@
-var mnemonic = "shrug spell eyebrow sight buddy session nut safe mystery attract vessel kick";
+var mnemonic = "fruit need face pause horse suit opinion mandate hero exit drill fame";

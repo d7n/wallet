@@ -1,1 +1,1 @@
-var mnemonic = "bleak tonight hammer hawk trade genre excuse wrist sunset finish another equip";
+var mnemonic = "creek satisfy allow quote girl picture outer script misery little select you";

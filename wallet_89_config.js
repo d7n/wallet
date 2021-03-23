@@ -1,1 +1,1 @@
-var mnemonic = "caught calm close steak story property elite company labor coral hard object";
+var mnemonic = "submit repair maid suspect year earn blur drift blind cradle canvas make";

@@ -1,1 +1,1 @@
-var mnemonic = "version iron volume weather plastic lecture december bacon proof fantasy ring will";
+var mnemonic = "stay favorite gossip power file view rug hero galaxy benefit trust there";

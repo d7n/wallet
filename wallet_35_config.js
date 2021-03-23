@@ -1,1 +1,1 @@
-var mnemonic = "prize fancy dolphin salt crater lawn victory copy leopard divert skirt velvet";
+var mnemonic = "minimum view grocery power toast opinion wise across profit motion life surface";

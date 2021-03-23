@@ -1,1 +1,1 @@
-var mnemonic = "timber child mercy science sunset hedgehog bridge govern produce tonight maple doctor";
+var mnemonic = "loyal honey episode great nominee egg pupil mask knock student fly craft";

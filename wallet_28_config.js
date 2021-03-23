@@ -1,1 +1,1 @@
-var mnemonic = "road enough long sting lava kangaroo glimpse wall vibrant aspect summer kind";
+var mnemonic = "gauge copper faculty leave entry cluster chaos illegal crash turtle used aspect";

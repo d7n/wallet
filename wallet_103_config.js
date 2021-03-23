@@ -1,1 +1,1 @@
-var mnemonic = "enjoy round race glass either torch fossil way penalty lamp switch kingdom";
+var mnemonic = "present purity chuckle bracket gown excite cactus dog you surge cupboard matrix";

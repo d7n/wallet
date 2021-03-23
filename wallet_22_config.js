@@ -1,1 +1,1 @@
-var mnemonic = "glimpse wrong screen priority catalog trick cabin gossip cat tuition solve ask";
+var mnemonic = "immune eight popular dentist veteran brush hood ketchup deal mean select you";

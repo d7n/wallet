@@ -1,1 +1,1 @@
-var mnemonic = "nice gentle hungry extra march ancient trend ridge foil reflect family section";
+var mnemonic = "high vocal deer across toss cable power vault pattern degree sweet finish";

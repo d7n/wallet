@@ -1,1 +1,1 @@
-var mnemonic = "air fatal trouble echo honey frost jazz honey moon cake dizzy slide";
+var mnemonic = "spice pink runway perfect legend muscle nephew blind genre supply spring around";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch maze jazz march number left name rail multiply visual solid tell";
+var mnemonic = "imitate canal neither vacant pencil still legend cute apology cross problem muscle";

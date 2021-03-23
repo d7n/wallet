@@ -1,1 +1,1 @@
-var mnemonic = "small autumn benefit spy help tortoise ketchup repair ritual pill thrive ribbon";
+var mnemonic = "inherit network balcony dentist tank size galaxy trigger bitter chicken hamster local";
