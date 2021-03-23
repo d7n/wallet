@@ -1,1 +1,1 @@
-var mnemonic = "humor slab sister fade board trim myself scorpion immense mercy tube useless";
+var mnemonic = "topple dash kidney rocket stem two creek company engine maximum drip despair";

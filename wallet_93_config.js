@@ -1,1 +1,1 @@
-var mnemonic = "knee drive escape stone settle fine ripple shock share nurse rain lumber";
+var mnemonic = "bomb marble deputy sibling wisdom install episode city choose marriage maple mystery";

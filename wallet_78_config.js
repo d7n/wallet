@@ -1,1 +1,1 @@
-var mnemonic = "firm trophy flame drift siege rebel action laundry nothing cactus cheap gallery";
+var mnemonic = "filter common dwarf dash between ahead food cook cabin awake kitchen normal";

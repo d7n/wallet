@@ -1,1 +1,1 @@
-var mnemonic = "turkey pupil average dutch pluck enlist clip memory wood assist amazing grit";
+var mnemonic = "sight shuffle scatter brush helmet smart rival ride depend liberty law disorder";

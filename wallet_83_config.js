@@ -1,1 +1,1 @@
-var mnemonic = "peace slow brass isolate matrix battle depend foam bicycle tank banner warrior";
+var mnemonic = "twenty fee blood spider lawn wish weapon crazy echo gasp replace flee";

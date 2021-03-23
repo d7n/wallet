@@ -1,1 +1,1 @@
-var mnemonic = "casual follow during cheese obtain pole search click early toilet wild olive";
+var mnemonic = "term organ infant crowd erase blush champion error seed belt rent quick";

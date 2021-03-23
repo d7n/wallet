@@ -1,1 +1,1 @@
-var mnemonic = "vault prison fault pond oblige excite abuse like proud unaware sell stamp";
+var mnemonic = "dose repair cable cluster move number wheat finger atom pledge half glare";

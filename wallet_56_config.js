@@ -1,1 +1,1 @@
-var mnemonic = "width treat math stay orbit large steak wise about canvas wrong affair";
+var mnemonic = "way episode pigeon sing sheriff inch myself above prefer guitar danger stool";

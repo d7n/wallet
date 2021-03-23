@@ -1,1 +1,1 @@
-var mnemonic = "thank category novel soft swarm cousin cover rapid verify travel enter nature";
+var mnemonic = "hover venture boy noodle tenant consider then across indicate eager pulse basic";

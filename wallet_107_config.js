@@ -1,1 +1,1 @@
-var mnemonic = "essence stem evolve matrix rabbit cost sponsor elder obvious absent protect exit";
+var mnemonic = "ability ignore spring phone excite cycle brisk property canvas gloom that lottery";

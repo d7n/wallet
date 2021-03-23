@@ -1,1 +1,1 @@
-var mnemonic = "risk service when share priority tone crawl dilemma evoke broken dilemma ice";
+var mnemonic = "skirt student almost fatal float force stage example toddler fly lottery beyond";

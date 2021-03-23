@@ -1,1 +1,1 @@
-var mnemonic = "vault poet brass cradle rain potato corn beauty ceiling broom tragic enforce";
+var mnemonic = "despair equal canoe welcome congress scare noble street face edit comic aunt";

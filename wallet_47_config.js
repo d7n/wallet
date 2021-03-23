@@ -1,1 +1,1 @@
-var mnemonic = "rigid drill tortoise man fetch edge obscure shock globe index rapid weekend";
+var mnemonic = "problem tourist math local multiply airport fiction differ general step cotton minor";

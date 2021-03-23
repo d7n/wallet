@@ -1,1 +1,1 @@
-var mnemonic = "wolf garlic high turn follow weather address disease family danger adapt provide";
+var mnemonic = "weapon wagon deputy board humor recipe earth solution bulb nurse valley book";

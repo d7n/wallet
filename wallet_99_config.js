@@ -1,1 +1,1 @@
-var mnemonic = "icon tumble weather insect shove slush there list stamp choose cage undo";
+var mnemonic = "gas can urge arrive problem hazard boost flame abuse detail morning stick";

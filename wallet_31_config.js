@@ -1,1 +1,1 @@
-var mnemonic = "welcome comfort food language motion sphere punch crack push little destroy field";
+var mnemonic = "onion dad fruit topple hunt fortune bleak hammer smile lumber major music";

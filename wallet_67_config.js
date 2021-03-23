@@ -1,1 +1,1 @@
-var mnemonic = "critic atom manage make swamp dad hard clerk tortoise payment manage final";
+var mnemonic = "hurt gasp slender front join achieve dignity art arena goat cloud ostrich";

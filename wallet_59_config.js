@@ -1,1 +1,1 @@
-var mnemonic = "royal crater marine repair day width army worry slight bridge problem renew";
+var mnemonic = "myself material junk chase buyer bulb dolphin ready fix faith gift name";

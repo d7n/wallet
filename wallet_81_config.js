@@ -1,1 +1,1 @@
-var mnemonic = "source super jaguar lottery give index luxury length flat test cage industry";
+var mnemonic = "fetch edge film addict robot valley raw visit all quit female door";

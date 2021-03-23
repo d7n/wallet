@@ -1,1 +1,1 @@
-var mnemonic = "kid liar already vocal potato domain kitchen sport license pony empty lock";
+var mnemonic = "cat time balance when museum horror merit side bag genre gospel receive";

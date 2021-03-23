@@ -1,1 +1,1 @@
-var mnemonic = "dutch crash mesh thumb crack story core bar prison shine diet lecture";
+var mnemonic = "invest mystery between bid open oven obtain surprise jaguar sport donkey february";

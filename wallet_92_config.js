@@ -1,1 +1,1 @@
-var mnemonic = "high salad mango one raw school tenant kind common brief slot between";
+var mnemonic = "liar current route loyal cannon save travel menu busy assume spawn pink";

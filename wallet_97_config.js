@@ -1,1 +1,1 @@
-var mnemonic = "bind lyrics hero stool crisp upper ticket alien cart month pistol time";
+var mnemonic = "liar oven monitor praise robust skill cargo repair van purse clutch pluck";

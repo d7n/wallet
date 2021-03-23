@@ -1,1 +1,1 @@
-var mnemonic = "basket laptop leaf theory run gather speak immune midnight concert rack card";
+var mnemonic = "intact detail plunge comic used throw trend pledge say horror claw click";

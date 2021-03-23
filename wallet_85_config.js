@@ -1,1 +1,1 @@
-var mnemonic = "near garment snap catch soon tired monster wide industry catch bread pledge";
+var mnemonic = "extra property distance strong own stand dumb skate patch hurt giant tourist";

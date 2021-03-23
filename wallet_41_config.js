@@ -1,1 +1,1 @@
-var mnemonic = "lamp fatal gain bonus wealth panther borrow asthma poet picnic admit undo";
+var mnemonic = "wrist shift camera history depend kiss please column short legend climb pause";

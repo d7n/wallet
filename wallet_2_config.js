@@ -1,1 +1,1 @@
-var mnemonic = "crumble outdoor orchard own wrestle blind light pigeon frequent walnut effort answer";
+var mnemonic = "useful slice access nephew brick buyer harbor maid fruit volcano ribbon neither";

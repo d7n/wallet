@@ -1,1 +1,1 @@
-var mnemonic = "fever habit fold shaft gesture drill involve become whale ripple infant decide";
+var mnemonic = "axis horn rotate blush purchase behind token grain cotton hope steel wood";

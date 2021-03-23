@@ -1,1 +1,1 @@
-var mnemonic = "primary tide report carbon case lawn glue achieve fortune lecture music slender";
+var mnemonic = "erode cause secret museum spring universe mail time swap video time better";

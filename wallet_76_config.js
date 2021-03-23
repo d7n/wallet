@@ -1,1 +1,1 @@
-var mnemonic = "notable shield dentist crack toss viable oil brand oak hamster program feel";
+var mnemonic = "elevator smooth asset magnet debris before december alarm office tiny profit math";

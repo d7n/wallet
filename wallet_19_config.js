@@ -1,1 +1,1 @@
-var mnemonic = "tool movie scan cute decline awesome festival panel fog lab that struggle";
+var mnemonic = "night tennis win game strategy grief author drink naive foil repair curtain";

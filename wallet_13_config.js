@@ -1,1 +1,1 @@
-var mnemonic = "spoon beef eight thing about turn aware squeeze length focus high blood";
+var mnemonic = "ignore educate main result isolate lounge robot vivid blame book legend jealous";

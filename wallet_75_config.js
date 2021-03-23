@@ -1,1 +1,1 @@
-var mnemonic = "sick elegant lamp width artist wonder else tail coconut style few certain";
+var mnemonic = "purchase elegant dog input vehicle below autumn canyon climb wrist seminar nephew";

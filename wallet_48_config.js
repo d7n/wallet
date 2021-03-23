@@ -1,1 +1,1 @@
-var mnemonic = "amused honey wreck raccoon must risk monitor celery evidence gaze visual exclude";
+var mnemonic = "across hammer balance mail obscure bubble biology raven frost model receive absorb";

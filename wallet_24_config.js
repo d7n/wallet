@@ -1,1 +1,1 @@
-var mnemonic = "grid hole laugh slush luggage trophy infant menu middle midnight dune panel";
+var mnemonic = "guide estate twist decline scrap near aware pig devote donkey height provide";

@@ -1,1 +1,1 @@
-var mnemonic = "next truly peace crawl fault stadium large deal parent flower method trial";
+var mnemonic = "dolphin broccoli truth pizza senior thank van alley trash pipe brown enhance";

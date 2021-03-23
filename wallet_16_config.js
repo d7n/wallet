@@ -1,1 +1,1 @@
-var mnemonic = "couch wheat aim ice dish grace clown average practice tuition tomato divide";
+var mnemonic = "room athlete bright chef video screen omit spend radar bacon emotion message";

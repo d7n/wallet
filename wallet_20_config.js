@@ -1,1 +1,1 @@
-var mnemonic = "fame beach cargo effort spare pulse sound vote powder pull crawl style";
+var mnemonic = "alpha wing bless invite reduce swap wear huge master solve win guess";

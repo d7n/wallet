@@ -1,1 +1,1 @@
-var mnemonic = "tennis boat front accident twin zero accident cave tray switch tumble give";
+var mnemonic = "stool run bronze clerk trigger morning save source orient oak barely title";

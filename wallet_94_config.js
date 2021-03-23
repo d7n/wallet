@@ -1,1 +1,1 @@
-var mnemonic = "limb trip leisure cute pyramid summer cushion library humble enough leisure success";
+var mnemonic = "giraffe task female swing check useless raven zebra annual inform upset miracle";

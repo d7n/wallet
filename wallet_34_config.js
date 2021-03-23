@@ -1,1 +1,1 @@
-var mnemonic = "spend verify theory twin dance stool mesh weird raw sign since industry";
+var mnemonic = "margin talent image motion term inherit sample camp hurt giggle attack relax";

@@ -1,1 +1,1 @@
-var mnemonic = "private rebel creek ethics exile motor trophy canvas sign again fitness skate";
+var mnemonic = "enjoy demand useless focus silly reform slab craft humor intact speed trip";

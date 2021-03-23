@@ -1,1 +1,1 @@
-var mnemonic = "sample shield anchor mask olive beach oppose awful fade scrub lion perfect";
+var mnemonic = "trophy forget pioneer health wagon relief congress balance maximum neutral joke nominee";

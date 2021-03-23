@@ -1,1 +1,1 @@
-var mnemonic = "gown announce curious dinner unknown reopen vendor tiny student install share later";
+var mnemonic = "verb bottom chalk surge sad mention upgrade indicate avoid orbit you brief";

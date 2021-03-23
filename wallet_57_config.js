@@ -1,1 +1,1 @@
-var mnemonic = "exercise false execute early grass peasant busy laugh barrel solve stay piano";
+var mnemonic = "basic pigeon flat vague tackle chief nurse lend lock assault green strong";

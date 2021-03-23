@@ -1,1 +1,1 @@
-var mnemonic = "barely theme boil usual dress curtain program pitch ring veteran retire notable";
+var mnemonic = "inform resemble utility almost loyal donkey mouse tower broom soccer bean twin";

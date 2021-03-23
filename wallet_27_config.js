@@ -1,1 +1,1 @@
-var mnemonic = "smart arrange drama mimic brother illness client rib token table whip lesson";
+var mnemonic = "release deer bomb shuffle stem auto muffin ready put live fluid sign";

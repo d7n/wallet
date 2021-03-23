@@ -1,1 +1,1 @@
-var mnemonic = "oil real hint lift alcohol scatter public gym neck owner basic empty";
+var mnemonic = "topic front wonder promote degree steel image matter castle remain chest glide";

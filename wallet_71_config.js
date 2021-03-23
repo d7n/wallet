@@ -1,1 +1,1 @@
-var mnemonic = "magnet thumb gossip ankle utility silver pool affair autumn swallow harvest door";
+var mnemonic = "offer cost bomb choose rather sure huge embark ankle wasp when misery";

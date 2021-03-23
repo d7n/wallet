@@ -1,1 +1,1 @@
-var mnemonic = "adjust later surface airport fox tonight bicycle success carry noise radio cat";
+var mnemonic = "fruit piece before coyote symptom science cereal mom fortune method embark aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "motor intact panda achieve salon deal beach dial have exact divert reward";
+var mnemonic = "nephew apology napkin same pink elder silver pretty onion only deliver tilt";

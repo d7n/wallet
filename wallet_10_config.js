@@ -1,1 +1,1 @@
-var mnemonic = "capable audit shoe music budget produce exotic jelly punch about organ marine";
+var mnemonic = "frozen veteran amount catch evidence observe nut chat infant town meat noble";

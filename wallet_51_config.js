@@ -1,1 +1,1 @@
-var mnemonic = "used regret narrow bunker flush first creek misery despair leave build clock";
+var mnemonic = "drama warrior detail horse account garment scene more blush dwarf husband reunion";

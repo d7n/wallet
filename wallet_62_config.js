@@ -1,1 +1,1 @@
-var mnemonic = "sort very parade twist perfect dream ticket canvas air forget cotton exile";
+var mnemonic = "excuse wealth observe fuel together draft car banner alpha drift gap absorb";

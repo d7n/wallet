@@ -1,1 +1,1 @@
-var mnemonic = "say volcano loop east decline laugh tide roast mutual noise inspire twin";
+var mnemonic = "grit include hockey family feel just rug owner cry birth series way";

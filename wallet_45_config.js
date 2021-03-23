@@ -1,1 +1,1 @@
-var mnemonic = "tongue lazy chief wild better worth near buddy install stadium bone pyramid";
+var mnemonic = "goat service invite enhance include chapter shop violin wine rich galaxy humble";

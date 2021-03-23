@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo swarm spoil video left wagon hard monster type defy wool retire";
+var mnemonic = "paddle hundred flash trick ship road smoke infant day clump unfold famous";

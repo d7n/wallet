@@ -1,1 +1,1 @@
-var mnemonic = "hood finish payment owner home morning goddess celery risk correct useful monkey";
+var mnemonic = "swap require glory velvet tank frost tuition aunt veteran tip evil leg";

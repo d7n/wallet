@@ -1,1 +1,1 @@
-var mnemonic = "much bleak cancel panic trumpet patient rain net income giant clog unit";
+var mnemonic = "nature nurse steak rib casual hospital earn story oblige enrich carpet point";

@@ -1,1 +1,1 @@
-var mnemonic = "either potato frown grid twin private ozone unlock best ritual donkey toss";
+var mnemonic = "guitar round field labor affair crush skin enjoy rebuild sick melody sponsor";

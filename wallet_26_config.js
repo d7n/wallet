@@ -1,1 +1,1 @@
-var mnemonic = "hurt oak owner certain lucky topple tortoise north review buzz mixture crowd";
+var mnemonic = "can grocery toast claim idle chief ghost assault degree mixed torch hospital";

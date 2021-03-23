@@ -1,1 +1,1 @@
-var mnemonic = "slush more begin release interest mesh pipe group mammal mixed assume toss";
+var mnemonic = "clarify word giraffe system wave anchor still impulse unhappy unlock scale patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "brass define census mutual bless hollow helmet until lemon cup bone couch";
+var mnemonic = "phrase snap erosion post month chronic ready wine census multiply harvest appear";

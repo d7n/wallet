@@ -1,1 +1,1 @@
-var mnemonic = "rival slow remind upset kingdom profit much moment motion name survey change";
+var mnemonic = "achieve pony oyster oil act gate person salon axis impact dragon child";

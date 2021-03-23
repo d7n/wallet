@@ -1,1 +1,1 @@
-var mnemonic = "mango hamster gossip rival attack lecture hole grace truth country intact people";
+var mnemonic = "accuse canoe boy update elbow siren kit merry spirit habit mule gift";

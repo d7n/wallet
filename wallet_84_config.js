@@ -1,1 +1,1 @@
-var mnemonic = "trouble analyst walk recall fan depth involve person corn common believe similar";
+var mnemonic = "oppose tide reveal extra curtain bundle come area ask amount idea source";

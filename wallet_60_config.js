@@ -1,1 +1,1 @@
-var mnemonic = "science figure sweet reduce unknown word fade civil powder devote festival seminar";
+var mnemonic = "charge remember attend book boil plunge another cable vocal math draft myself";

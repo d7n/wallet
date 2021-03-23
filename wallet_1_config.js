@@ -1,1 +1,1 @@
-var mnemonic = "nose fault mistake define subject victory mind border shift lyrics will balance";
+var mnemonic = "siege visa dumb ice clay rival hungry gown task acid young follow";

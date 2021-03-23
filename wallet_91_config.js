@@ -1,1 +1,1 @@
-var mnemonic = "lonely nerve cruel two industry mandate stock love acquire trash zero wife";
+var mnemonic = "truck abandon evoke object license grab major polar you cushion ship metal";

@@ -1,1 +1,1 @@
-var mnemonic = "talk say make scrub mix calm people flavor key ranch stadium pond";
+var mnemonic = "reflect clown cake bless aerobic step elder release lunch doctor category metal";

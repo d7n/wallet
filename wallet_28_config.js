@@ -1,1 +1,1 @@
-var mnemonic = "assault maximum cake flock rocket ceiling ritual meadow they oppose quick cage";
+var mnemonic = "category toast enable path lock mask power infant prevent apple near layer";

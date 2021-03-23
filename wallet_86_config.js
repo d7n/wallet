@@ -1,1 +1,1 @@
-var mnemonic = "correct arrive outer hope fringe neutral common tooth right mystery nerve jewel";
+var mnemonic = "oxygen mercy stamp grain rural shrug south original vanish buffalo hour upon";

@@ -1,1 +1,1 @@
-var mnemonic = "public layer title jeans nice sort sleep guard surface emotion devote april";
+var mnemonic = "wish sock oil cart frown attack noble betray salon all luggage saddle";

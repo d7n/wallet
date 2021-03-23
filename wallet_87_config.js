@@ -1,1 +1,1 @@
-var mnemonic = "license chair attract legal ketchup toast together news boil vapor alone order";
+var mnemonic = "people pistol orient whisper eye rate potato shell lunch visa repeat churn";

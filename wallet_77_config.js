@@ -1,1 +1,1 @@
-var mnemonic = "rude dumb rabbit axis jaguar multiply good cactus bullet marine huge park";
+var mnemonic = "ready recall oil blade gravity same matter what bundle hazard stove prefer";

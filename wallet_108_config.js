@@ -1,1 +1,1 @@
-var mnemonic = "egg piano deer exchange service jacket rough salon media super reform card";
+var mnemonic = "cotton shield spatial frog excuse enlist cradle lunch punch cream very always";

@@ -1,1 +1,1 @@
-var mnemonic = "leg mushroom round stadium bacon damp decrease black list badge pen mercy";
+var mnemonic = "torch damage auto desert neither silly undo denial sauce faint lion version";

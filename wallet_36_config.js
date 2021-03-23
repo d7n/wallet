@@ -1,1 +1,1 @@
-var mnemonic = "pupil seek game grow anchor foam reform perfect glad jump draft visa";
+var mnemonic = "company design dutch claim similar shove art isolate blush clever cost craft";

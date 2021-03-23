@@ -1,1 +1,1 @@
-var mnemonic = "onion metal race menu shed excess plug surround body animal age inmate";
+var mnemonic = "box obtain vocal elder snack fire liberty exclude rifle rug juice dwarf";

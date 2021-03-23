@@ -1,1 +1,1 @@
-var mnemonic = "also dinosaur poem blush size shift egg glad desert bunker duck rack";
+var mnemonic = "radar endless deny juice moral pet gravity taste bread canal dizzy quarter";

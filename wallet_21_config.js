@@ -1,1 +1,1 @@
-var mnemonic = "hotel found review bicycle brick retire want govern special sleep spend history";
+var mnemonic = "limit moment paddle section disease social wise palace else carry riot mean";

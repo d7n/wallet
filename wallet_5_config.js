@@ -1,1 +1,1 @@
-var mnemonic = "awesome hip beach mushroom fantasy image flag idle unhappy uncover estate balance";
+var mnemonic = "image thank brain rain congress paper roast joke latin vault marriage oval";

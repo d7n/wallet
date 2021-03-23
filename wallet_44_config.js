@@ -1,1 +1,1 @@
-var mnemonic = "heart maximum junk book taste label account farm bronze proud alone rice";
+var mnemonic = "trick capable occur click library federal coast omit alcohol moment bird globe";

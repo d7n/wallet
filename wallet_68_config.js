@@ -1,1 +1,1 @@
-var mnemonic = "hollow run better become pen blouse soccer dog actual swap pledge punch";
+var mnemonic = "hat dial globe hip basic kangaroo reflect rigid logic jazz twist outside";
