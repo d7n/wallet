@@ -1,1 +1,1 @@
-var mnemonic = "cactus welcome dust language hospital zoo gate pizza fitness slab fortune confirm";
+var mnemonic = "job clump father filter teach bean habit valid way toe owner tube";

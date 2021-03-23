@@ -1,1 +1,1 @@
-var mnemonic = "hybrid client master person surge six fiber kite guide impact text ignore";
+var mnemonic = "slice pen mutual carbon wise blind twist atom dice tragic alone awake";

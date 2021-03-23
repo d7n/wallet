@@ -1,1 +1,1 @@
-var mnemonic = "fortune expand share warm monitor screen faculty choice allow family usual soldier";
+var mnemonic = "clever state zoo fix prevent busy robot smile vessel ridge genre habit";

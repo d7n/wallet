@@ -1,1 +1,1 @@
-var mnemonic = "destroy hundred jungle catch stick spread trigger flock spray job flight earth";
+var mnemonic = "absorb wire faculty model series badge near deer sunset brain smart ceiling";

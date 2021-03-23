@@ -1,1 +1,1 @@
-var mnemonic = "toilet stove torch hold volcano soup grow lion frost roof aerobic shift";
+var mnemonic = "assault winner scorpion math club reopen electric rare impose cry crew only";

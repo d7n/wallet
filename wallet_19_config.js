@@ -1,1 +1,1 @@
-var mnemonic = "limb annual buddy kiwi congress please giggle rotate vacuum garage math elegant";
+var mnemonic = "forum spare hat apology puzzle quick between reveal leader absurd unaware legend";

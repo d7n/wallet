@@ -1,1 +1,1 @@
-var mnemonic = "grab agree tip deer name tired festival very faint stem place rail";
+var mnemonic = "wonder marine cheese search cushion pair wrestle rude juice like dumb glove";

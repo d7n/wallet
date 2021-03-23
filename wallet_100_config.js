@@ -1,1 +1,1 @@
-var mnemonic = "topic shine warrior slide wedding moral cool marriage boil fox over elbow";
+var mnemonic = "spring relax luggage run never dish attack awake snow long relief assume";

@@ -1,1 +1,1 @@
-var mnemonic = "proof video figure razor banner damage legal matrix ancient silly tortoise midnight";
+var mnemonic = "royal rug fancy airport cupboard room elite series park flash matter lady";

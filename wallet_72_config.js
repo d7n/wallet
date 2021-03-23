@@ -1,1 +1,1 @@
-var mnemonic = "feed symbol brush holiday buyer scorpion sleep similar notice arctic better broom";
+var mnemonic = "short surprise spoon media license wash sudden vanish fall human journey sentence";

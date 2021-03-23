@@ -1,1 +1,1 @@
-var mnemonic = "enter list twenty grab jelly primary elite charge diesel pool excite item";
+var mnemonic = "stand raise exotic exit vehicle between kidney indoor nothing seek lazy famous";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom relief harbor vapor genius jewel key slide output vote iron clean";
+var mnemonic = "renew spare since embark hundred tissue dolphin muscle capable leaf visit clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "material dish bundle balcony better catch scan direct secret face actress level";
+var mnemonic = "remain pelican inside warm panda crisp conduct front nut alpha absorb fit";

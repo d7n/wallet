@@ -1,1 +1,1 @@
-var mnemonic = "gun vivid hockey voyage exist hand protect medal course cloud script elegant";
+var mnemonic = "hand comic shield lecture crack trial habit canvas maid choice stamp vote";

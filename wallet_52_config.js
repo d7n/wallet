@@ -1,1 +1,1 @@
-var mnemonic = "coach gym tower coil enlist come december evidence sweet stick old hungry";
+var mnemonic = "raise bonus salon motor chase script sword produce faint canoe typical canal";

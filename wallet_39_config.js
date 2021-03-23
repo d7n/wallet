@@ -1,1 +1,1 @@
-var mnemonic = "song casual extend step evolve detect match squirrel maze derive design version";
+var mnemonic = "federal aim barely law sunset wave kit innocent render battle around farm";

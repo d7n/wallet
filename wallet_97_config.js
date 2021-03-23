@@ -1,1 +1,1 @@
-var mnemonic = "distance inner slide that artwork artist topple able favorite fee language gown";
+var mnemonic = "ginger physical lift equal donor display negative present common all endorse symptom";

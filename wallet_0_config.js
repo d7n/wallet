@@ -1,1 +1,1 @@
-var mnemonic = "stomach practice list industry sister evil property reject member enable hockey ivory";
+var mnemonic = "pilot topple avocado gift endorse sentence claw van tube party chair vintage";

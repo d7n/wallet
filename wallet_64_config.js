@@ -1,1 +1,1 @@
-var mnemonic = "habit yellow member six pass egg bounce matrix brand marriage always orient";
+var mnemonic = "rail absorb flee settle mutual memory vintage cherry prison enable giggle festival";

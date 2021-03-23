@@ -1,1 +1,1 @@
-var mnemonic = "pole head ankle dress time ladder three burst allow avoid addict size";
+var mnemonic = "thing flock try say cover amount unfair describe crime very abandon inch";

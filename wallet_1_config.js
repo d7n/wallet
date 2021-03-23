@@ -1,1 +1,1 @@
-var mnemonic = "fatigue collect cluster swim allow buffalo divorce husband mix social gauge ride";
+var mnemonic = "huge extra bind give often hover canoe seminar system divert box bone";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble champion remove stumble avoid vapor collect inject enrich bench pizza organ";
+var mnemonic = "canal hard bronze increase review iron pig chair document start write check";

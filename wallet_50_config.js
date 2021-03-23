@@ -1,1 +1,1 @@
-var mnemonic = "comfort kitten old awake educate relief lamp tube undo slush salmon eye";
+var mnemonic = "obvious peasant drink test piano link leisure early mad merge mechanic chunk";

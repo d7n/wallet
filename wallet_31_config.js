@@ -1,1 +1,1 @@
-var mnemonic = "used turtle glow script fresh across biology try machine volcano ranch fever";
+var mnemonic = "wolf review advice liar actor mention arch right grass attack radio marriage";

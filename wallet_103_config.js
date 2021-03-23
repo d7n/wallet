@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit square ready exclude bulk absorb flat also oak venture cruel squeeze";
+var mnemonic = "material evoke legend clever believe impact rifle vicious code list diamond oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess fantasy track hollow truck above zone worry uphold cruise permit solar";
+var mnemonic = "lesson balcony theme replace aim sock gate sentence nose account eagle rack";

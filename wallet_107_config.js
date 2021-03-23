@@ -1,1 +1,1 @@
-var mnemonic = "endorse prefer have cattle accuse kitten topic opinion body scheme category must";
+var mnemonic = "guilt milk insect answer drive divide museum shrug child live win student";

@@ -1,1 +1,1 @@
-var mnemonic = "normal pelican expose great decorate tone develop gravity odor access neutral sure";
+var mnemonic = "boat tiny sure analyst special all plug join chest second push tide";

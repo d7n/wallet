@@ -1,1 +1,1 @@
-var mnemonic = "syrup rifle axis have sample mule help scale glad various donate alcohol";
+var mnemonic = "normal scatter horn derive demise relief afraid color tray pact camera fade";

@@ -1,1 +1,1 @@
-var mnemonic = "defense very poet goat puppy firm grass caught wagon impose expose such";
+var mnemonic = "safe undo alone lady act peace neglect kiss vote town net always";

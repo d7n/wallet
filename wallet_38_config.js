@@ -1,1 +1,1 @@
-var mnemonic = "sentence hurt popular gown abandon rotate pave win warfare impose raise stumble";
+var mnemonic = "float life mirror sound purpose oppose future mother orchard cabbage debate gold";

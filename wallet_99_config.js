@@ -1,1 +1,1 @@
-var mnemonic = "denial seat safe start kiss fabric dawn target expire blossom timber lemon";
+var mnemonic = "choice entry fox fragile use attract voyage weather drink wage review display";

@@ -1,1 +1,1 @@
-var mnemonic = "present youth debris capable unaware guilt invite minor demise veteran arm sport";
+var mnemonic = "draw corn turn vital service gloom misery fever place obey funny journey";

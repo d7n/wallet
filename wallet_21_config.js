@@ -1,1 +1,1 @@
-var mnemonic = "skate option naive happy ride path correct rebuild drive cattle puzzle blue";
+var mnemonic = "unit lava athlete order grit coconut brave frost describe nature correct sauce";

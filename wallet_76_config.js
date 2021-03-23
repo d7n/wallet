@@ -1,1 +1,1 @@
-var mnemonic = "similar bitter fantasy lift satisfy digital brave describe liquid puppy unit garage";
+var mnemonic = "attend lunar arena lunch access dash loud receive empty practice civil word";

@@ -1,1 +1,1 @@
-var mnemonic = "improve alpha random rival elegant arctic adapt various debris differ guilt story";
+var mnemonic = "help sniff practice word reveal below repeat mention hole strong base drastic";

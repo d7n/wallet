@@ -1,1 +1,1 @@
-var mnemonic = "luxury scorpion rib one trial urge cruel gym head effort betray recipe";
+var mnemonic = "amused march limb erosion license good velvet satoshi steak elite fringe couch";

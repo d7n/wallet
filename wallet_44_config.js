@@ -1,1 +1,1 @@
-var mnemonic = "cycle city cave learn access glass yard circle wage middle used grace";
+var mnemonic = "tobacco royal bounce kid powder museum process brain proud volcano december night";

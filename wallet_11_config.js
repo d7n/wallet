@@ -1,1 +1,1 @@
-var mnemonic = "defy monkey leader frown during raise step pride notice vehicle celery soda";
+var mnemonic = "sheriff bitter dust ski bid song rough trade pottery hungry grocery current";

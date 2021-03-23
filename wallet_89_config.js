@@ -1,1 +1,1 @@
-var mnemonic = "hammer apart sauce input retreat enrich upper kangaroo detail oblige nose camera";
+var mnemonic = "trim answer sunset cream gospel birth hero early pink diesel organ shoe";

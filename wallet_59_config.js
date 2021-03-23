@@ -1,1 +1,1 @@
-var mnemonic = "crawl vibrant budget sustain write garage attract canyon curve inspire digital together";
+var mnemonic = "error cheese profit search inhale already best all judge ripple someone champion";

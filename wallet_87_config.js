@@ -1,1 +1,1 @@
-var mnemonic = "slight repeat solve clerk pencil fetch twenty apple drip stone measure crop";
+var mnemonic = "scare recycle emotion cave attend merge neither lemon famous rug super awkward";

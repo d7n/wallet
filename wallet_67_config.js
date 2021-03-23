@@ -1,1 +1,1 @@
-var mnemonic = "scrub lawn leader maze table actual tobacco direct method describe process daring";
+var mnemonic = "twelve gauge ribbon bottom release absorb expand decorate meat leave dolphin salmon";

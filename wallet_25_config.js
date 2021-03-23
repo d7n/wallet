@@ -1,1 +1,1 @@
-var mnemonic = "noise problem grid tone base predict decline wolf supreme giant garage remove";
+var mnemonic = "blur citizen rare shed nurse allow asthma rate lyrics dwarf enable guard";

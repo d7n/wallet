@@ -1,1 +1,1 @@
-var mnemonic = "latin theme faith sell toss ivory catch trust index polar grid peanut";
+var mnemonic = "duck foot artist night slender pony unlock law swear delay blind lawn";

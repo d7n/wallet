@@ -1,1 +1,1 @@
-var mnemonic = "transfer scheme stool suit ranch matter female twice town buyer intact glare";
+var mnemonic = "bone fall risk whip soccer alley deposit today swamp worry bargain payment";

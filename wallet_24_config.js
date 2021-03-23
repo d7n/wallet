@@ -1,1 +1,1 @@
-var mnemonic = "east bamboo oyster envelope december violin royal van regret limb observe notable";
+var mnemonic = "order romance victory spot urban candy people pear person material fiction toss";

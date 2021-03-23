@@ -1,1 +1,1 @@
-var mnemonic = "predict twice solar cactus sting blast badge entire question quality library brown";
+var mnemonic = "truck pumpkin daughter siren dash already mouse medal later produce load balcony";

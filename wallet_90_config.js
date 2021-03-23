@@ -1,1 +1,1 @@
-var mnemonic = "load wool valley convince merge chunk soul force shrimp april coil slow";
+var mnemonic = "frog frog reason hungry cook census impose method group fiction motor skirt";

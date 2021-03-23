@@ -1,1 +1,1 @@
-var mnemonic = "blue bag deputy marriage decade amateur intact uncover hill resource region meat";
+var mnemonic = "kidney various sure load learn leisure robust dog dirt fee long spice";

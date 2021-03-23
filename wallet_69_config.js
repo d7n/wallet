@@ -1,1 +1,1 @@
-var mnemonic = "oblige wise observe deal radio scene virus sword tuition combine gossip keen";
+var mnemonic = "tuna subject hero shy biology roast warm million convince eye buyer mind";

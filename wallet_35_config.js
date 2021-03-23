@@ -1,1 +1,1 @@
-var mnemonic = "spring runway relax order spike brother release first latin squirrel roast number";
+var mnemonic = "voice eternal chuckle muscle owner jewel someone element pen shoe jacket spirit";

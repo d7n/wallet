@@ -1,1 +1,1 @@
-var mnemonic = "luxury advance option save shrug body isolate shock hungry minute sorry peasant";
+var mnemonic = "canoe switch misery skill repair supply issue hill pluck bird power cable";

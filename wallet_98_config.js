@@ -1,1 +1,1 @@
-var mnemonic = "vicious behind action whale click strong whip sure slab peace rookie cherry";
+var mnemonic = "layer illness top fancy license patrol vague list sock ostrich drop slice";

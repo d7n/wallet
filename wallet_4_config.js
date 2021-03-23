@@ -1,1 +1,1 @@
-var mnemonic = "leader push october use glide scrub lazy fold lion middle trip rigid";
+var mnemonic = "dismiss tooth giggle vital onion mad swim case describe guide sorry affair";

@@ -1,1 +1,1 @@
-var mnemonic = "federal will panda teach wise almost jewel judge stomach grant afraid candy";
+var mnemonic = "tape gap section evidence toe shiver absent vote toilet road dirt tell";

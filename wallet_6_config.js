@@ -1,1 +1,1 @@
-var mnemonic = "leave nasty analyst hip envelope tuition announce teach penalty east shallow dizzy";
+var mnemonic = "edit bag helmet churn lamp basic divert ranch attract coach label rigid";

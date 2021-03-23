@@ -1,1 +1,1 @@
-var mnemonic = "cup solution lounge chuckle airport water upset post victory motor valve jacket";
+var mnemonic = "humor practice asthma crowd twin edit setup nut caught crouch club rubber";

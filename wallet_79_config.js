@@ -1,1 +1,1 @@
-var mnemonic = "liberty trend rude pig youth tent before tackle voice obtain giggle total";
+var mnemonic = "twelve artwork manual hurt liar trade smooth punch luxury foot split story";

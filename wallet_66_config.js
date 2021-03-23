@@ -1,1 +1,1 @@
-var mnemonic = "bike goddess next cricket lunar media entire average motor crater library diary";
+var mnemonic = "bird skin size music cute island local arrow tuition vibrant inflict device";

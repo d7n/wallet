@@ -1,1 +1,1 @@
-var mnemonic = "connect swift humor estate expand pitch extend give raven best panic museum";
+var mnemonic = "hill escape pledge end valve stuff next coyote typical change enact funny";

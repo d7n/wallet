@@ -1,1 +1,1 @@
-var mnemonic = "eager chronic fun clerk betray betray iron nurse cattle paddle syrup profit";
+var mnemonic = "energy permit hockey deal return lucky old novel kidney coral pair present";

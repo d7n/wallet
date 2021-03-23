@@ -1,1 +1,1 @@
-var mnemonic = "column rival risk explain palm genius valve sick upset ready tobacco dignity";
+var mnemonic = "super tool universe banana destroy please bullet syrup team mobile diary mistake";

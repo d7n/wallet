@@ -1,1 +1,1 @@
-var mnemonic = "champion assault little pattern rescue beauty swallow position tattoo marriage medal logic";
+var mnemonic = "affair frown penalty mechanic gym banana brown smart fringe sweet north notable";

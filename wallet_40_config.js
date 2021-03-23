@@ -1,1 +1,1 @@
-var mnemonic = "swim puzzle treat stable salad ritual amateur drip swift female coffee transfer";
+var mnemonic = "because train fix copy chunk list quiz rhythm summer sense kangaroo idle";

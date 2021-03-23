@@ -1,1 +1,1 @@
-var mnemonic = "jelly vault scheme super exist kitten torch future where saddle author review";
+var mnemonic = "doctor network vote square inherit stove first vivid glue glimpse green boost";

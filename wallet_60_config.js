@@ -1,1 +1,1 @@
-var mnemonic = "cruise forward amazing student cupboard assault lounge option carpet expand unfair punch";
+var mnemonic = "wool earn chapter exclude fall art alarm series roast defense census globe";

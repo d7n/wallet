@@ -1,1 +1,1 @@
-var mnemonic = "gossip impact person item grab sorry scan already enemy fun road ankle";
+var mnemonic = "weather topple firm sketch prepare wet gossip consider year appear drive umbrella";

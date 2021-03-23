@@ -1,1 +1,1 @@
-var mnemonic = "pluck abuse flock impulse tattoo erase bunker curious example tunnel evidence clever";
+var mnemonic = "echo patient spider language stumble twist museum card obvious frame forum smart";

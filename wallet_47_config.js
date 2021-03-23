@@ -1,1 +1,1 @@
-var mnemonic = "voice enrich skill much mansion window hazard frost laundry effort planet tower";
+var mnemonic = "shine glance door lumber wheel melody fine add oblige arrow seminar lab";

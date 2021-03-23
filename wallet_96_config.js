@@ -1,1 +1,1 @@
-var mnemonic = "voice surprise maid carbon fish uncle bounce nephew inquiry enough envelope ranch";
+var mnemonic = "arrow work blade tower attack traffic penalty guess dizzy busy brand art";

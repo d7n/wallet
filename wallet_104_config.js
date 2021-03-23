@@ -1,1 +1,1 @@
-var mnemonic = "shoot coach hill diet diamond more lobster intact nice throw awkward armed";
+var mnemonic = "quote net tent illness runway vibrant border quantum sound already crane acid";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere priority hotel there patch there divert ripple universe job fine wing";
+var mnemonic = "drop valve worry end park confirm virtual paddle canvas seven attend crazy";

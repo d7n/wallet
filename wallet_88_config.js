@@ -1,1 +1,1 @@
-var mnemonic = "train bag match clever decade sketch neck card nephew arrive require observe";
+var mnemonic = "case eternal below radio error forget spatial vessel nothing family cat group";

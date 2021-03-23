@@ -1,1 +1,1 @@
-var mnemonic = "luggage range room ship taste piano bomb slim profit emotion marble simple";
+var mnemonic = "egg law disorder orient stadium budget about remember mosquito skin desert ceiling";

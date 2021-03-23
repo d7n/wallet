@@ -1,1 +1,1 @@
-var mnemonic = "midnight produce obey any merit hurry pill permit craft present better license";
+var mnemonic = "toe myself course swallow novel clock army rain accident heavy gorilla toward";

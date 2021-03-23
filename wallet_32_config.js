@@ -1,1 +1,1 @@
-var mnemonic = "design coil faculty spatial group unlock name suspect nut legend private thumb";
+var mnemonic = "measure lecture husband gaze one plug acquire cargo urban sea split edit";

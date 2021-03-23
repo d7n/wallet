@@ -1,1 +1,1 @@
-var mnemonic = "door fork jewel noise blind shoot together sunny income kitten twice confirm";
+var mnemonic = "weekend address eagle nephew address ivory involve brain foil chat garden elder";

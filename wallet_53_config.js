@@ -1,1 +1,1 @@
-var mnemonic = "result grow victory analyst bind gun aware draft neither travel orchard tip";
+var mnemonic = "pigeon project shoulder toddler lab extra wish behind science shoulder tone ginger";

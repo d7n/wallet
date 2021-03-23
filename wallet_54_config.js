@@ -1,1 +1,1 @@
-var mnemonic = "buzz range section ancient review giant ceiling any sense review oyster quick";
+var mnemonic = "upset crack debris air joke toe magnet depart grab shield fringe base";

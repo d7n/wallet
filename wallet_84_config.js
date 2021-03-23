@@ -1,1 +1,1 @@
-var mnemonic = "supreme drill today canvas return afraid bird lady satoshi course argue sausage";
+var mnemonic = "bargain equip round beyond floor pencil caution screen hard lawn suffer amused";

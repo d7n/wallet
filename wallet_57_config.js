@@ -1,1 +1,1 @@
-var mnemonic = "donate rib egg gap list true dove night sound day bless chef";
+var mnemonic = "broken crystal diet scissors betray note wolf genius flock winter state morning";

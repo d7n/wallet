@@ -1,1 +1,1 @@
-var mnemonic = "kingdom autumn extend move loop quality clinic depth harsh team sound since";
+var mnemonic = "kiss guilt future tackle young begin when wear mask post kiss goose";

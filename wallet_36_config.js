@@ -1,1 +1,1 @@
-var mnemonic = "glimpse sort profit desk you brief inform barrel trash forget canyon punch";
+var mnemonic = "about wood help pretty crush visual fruit sure town fuel tooth wise";

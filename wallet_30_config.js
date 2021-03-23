@@ -1,1 +1,1 @@
-var mnemonic = "tuition network resist bottom van champion breeze small cattle exotic either steel";
+var mnemonic = "puzzle castle grow habit air faculty panel tourist excess above play grant";

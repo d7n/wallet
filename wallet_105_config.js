@@ -1,1 +1,1 @@
-var mnemonic = "nice van able black very captain voyage gap over cool whale kidney";
+var mnemonic = "aisle clump one tooth gloom rent ten bean rebuild doctor pistol disagree";

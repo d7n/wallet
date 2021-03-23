@@ -1,1 +1,1 @@
-var mnemonic = "border truly alcohol matter ten follow enroll couple drill lift huge visa";
+var mnemonic = "fence fall such couch shove govern angle oppose insect carry remind fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "snow frequent lumber fatigue canal famous code tone couch follow drill expand";
+var mnemonic = "example field lawsuit aerobic else keen indicate marble wonder lend transfer then";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion grunt kingdom surface vacuum walnut winter joy skate nose pyramid end";
+var mnemonic = "offer motor joke web mad sheriff gun give pride song upgrade blood";

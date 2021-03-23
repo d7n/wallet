@@ -1,1 +1,1 @@
-var mnemonic = "gallery follow memory manage pencil exit tilt elder draw drive scissors hub";
+var mnemonic = "dream month exotic fox record fire extra build spoon leave rough average";

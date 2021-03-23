@@ -1,1 +1,1 @@
-var mnemonic = "kite main hand color useful nothing desert estate power torch canal circle";
+var mnemonic = "twelve visa sample pistol black silk ginger suggest glove taste behave globe";

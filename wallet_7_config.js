@@ -1,1 +1,1 @@
-var mnemonic = "demise range worry orphan claim subject round ensure top oppose extend hurt";
+var mnemonic = "curve question analyst cram enrich mountain fall spot garden feed toast table";

@@ -1,1 +1,1 @@
-var mnemonic = "purse silver into sweet swamp afraid clever bean unknown put crop cabin";
+var mnemonic = "inform section panel joy party bag science camp thunder camera comic busy";
