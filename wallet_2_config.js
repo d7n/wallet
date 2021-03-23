@@ -1,1 +1,1 @@
-var mnemonic = "acquire quote actual vicious pool shuffle hero bunker cheap garment wagon grant";
+var mnemonic = "rabbit ugly peace cat train seminar text universe device kick bitter orbit";

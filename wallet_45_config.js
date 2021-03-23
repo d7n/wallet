@@ -1,1 +1,1 @@
-var mnemonic = "own true cushion bright funny wood domain universe pull deal race rice";
+var mnemonic = "immune west train develop addict rain cinnamon kingdom permit kangaroo install vault";

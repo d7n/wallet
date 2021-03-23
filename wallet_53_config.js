@@ -1,1 +1,1 @@
-var mnemonic = "lyrics magnet gospel length corn scare stick youth roof average spice syrup";
+var mnemonic = "champion inspire seed town remember viable ghost put build surge paper alley";

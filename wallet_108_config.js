@@ -1,1 +1,1 @@
-var mnemonic = "butter crowd dress laugh pass vote marble bottom liquid gift dwarf regret";
+var mnemonic = "whisper absurd barrel scrub sugar keen tired account sure age fire boy";

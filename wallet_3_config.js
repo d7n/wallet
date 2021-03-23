@@ -1,1 +1,1 @@
-var mnemonic = "naive comfort glide capable end exact panther blood stadium gaze idea because";
+var mnemonic = "sun bottom giggle circle truth giraffe skin off magic tail wife apology";

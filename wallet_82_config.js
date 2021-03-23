@@ -1,1 +1,1 @@
-var mnemonic = "people fine unable coin pact elder tape like stay candy skate second";
+var mnemonic = "senior joke assault marble install upon also voyage shadow bounce wolf green";

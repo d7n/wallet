@@ -1,1 +1,1 @@
-var mnemonic = "wear above offer learn stadium park volcano baby online symbol someone shove";
+var mnemonic = "opera burst lunar number surface diamond lobster grow cluster skull track act";

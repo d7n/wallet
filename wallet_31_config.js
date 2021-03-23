@@ -1,1 +1,1 @@
-var mnemonic = "play marine involve door bread divide body senior inform blouse noodle plunge";
+var mnemonic = "census amused invite labor host business heavy speed match verb breeze notable";

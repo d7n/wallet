@@ -1,1 +1,1 @@
-var mnemonic = "divide sport electric canyon excuse exhibit steak always display account ticket fabric";
+var mnemonic = "mother siren intact proof cradle rely siren dove text garden pave alert";

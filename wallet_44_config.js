@@ -1,1 +1,1 @@
-var mnemonic = "actress remind slab chunk tonight aunt super theory corn grain board screen";
+var mnemonic = "wet rug expect bundle virus common piece panther toddler similar deer silk";

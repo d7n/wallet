@@ -1,1 +1,1 @@
-var mnemonic = "shed sentence case wedding style coral battle text neck solution settle riot";
+var mnemonic = "moment whale era mail idle asset endless ask pool flock angry race";

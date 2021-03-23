@@ -1,1 +1,1 @@
-var mnemonic = "mechanic sweet soccer deputy canvas pave canoe meadow repeat outside flat lesson";
+var mnemonic = "shuffle crouch topic topic luxury rally victory quit behind adapt hand supply";

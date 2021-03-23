@@ -1,1 +1,1 @@
-var mnemonic = "honey audit spell enrich mix oppose turn gather pumpkin mushroom modify hero";
+var mnemonic = "decide switch rebuild neck original virtual explain achieve faculty chicken nerve grit";

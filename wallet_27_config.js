@@ -1,1 +1,1 @@
-var mnemonic = "boring level rubber wedding gown canoe buddy lounge stuff melt absent awake";
+var mnemonic = "pass imitate crumble enemy dawn wage slide pony tell afford cream stumble";

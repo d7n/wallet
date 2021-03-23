@@ -1,1 +1,1 @@
-var mnemonic = "depart runway fuel brick pony length wise already motor satoshi shed ladder";
+var mnemonic = "indoor bulb barely exotic disorder gospel uncover fortune prize honey skill share";

@@ -1,1 +1,1 @@
-var mnemonic = "witness unfair nation employ kingdom hero sketch imitate garment report differ else";
+var mnemonic = "hero bulk raccoon pulp sort shock slim own candy truth depart hawk";

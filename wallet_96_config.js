@@ -1,1 +1,1 @@
-var mnemonic = "lamp enjoy relax since spider quote enjoy junior distance lunar valve absorb";
+var mnemonic = "alley bonus kiss gaze future wing person equal notice sauce paper tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "keep fluid piece summer subway dance few grape purpose option clock mimic";
+var mnemonic = "casual video debris group tuition clay rapid apology bronze hour stadium verb";

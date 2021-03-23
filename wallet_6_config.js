@@ -1,1 +1,1 @@
-var mnemonic = "state result mystery crime hover express ankle tank panther arctic dizzy amateur";
+var mnemonic = "depth stairs physical hard together vote enter iron clay divorce pizza cup";

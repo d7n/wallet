@@ -1,1 +1,1 @@
-var mnemonic = "tilt genre coconut ski deny elder coyote kidney craft way debate frame";
+var mnemonic = "blossom merit deer announce excite roast muffin alone into debris refuse educate";

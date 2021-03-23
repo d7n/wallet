@@ -1,1 +1,1 @@
-var mnemonic = "gym will exit size female shock come armor wild just exercise aisle";
+var mnemonic = "parent uncle young peanut believe chase pony renew oven member night leopard";

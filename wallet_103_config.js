@@ -1,1 +1,1 @@
-var mnemonic = "crawl blur social come seminar casual taste power once custom useless oxygen";
+var mnemonic = "candy vital motion soda cost until caution increase alter kiwi park ball";

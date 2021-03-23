@@ -1,1 +1,1 @@
-var mnemonic = "noble action undo diagram torch pool shadow giant omit absent expect hobby";
+var mnemonic = "coil pitch marine popular dilemma bargain exhibit wire direct wing denial oyster";

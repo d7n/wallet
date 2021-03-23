@@ -1,1 +1,1 @@
-var mnemonic = "topple prize decline garage cover cram vintage note tiny situate share hip";
+var mnemonic = "hunt enhance predict anger tube van matrix wealth citizen voice hope egg";

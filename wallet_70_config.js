@@ -1,1 +1,1 @@
-var mnemonic = "element nice stool drum thank answer budget inspire erode acquire claim donkey";
+var mnemonic = "august artist stumble web despair history sugar section chase frog soft advance";

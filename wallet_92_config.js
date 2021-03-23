@@ -1,1 +1,1 @@
-var mnemonic = "resource when write liquid choice invite struggle flower sustain ethics awesome swing";
+var mnemonic = "luggage outdoor cannon pitch speak gaze staff pig snake arena trade embody";

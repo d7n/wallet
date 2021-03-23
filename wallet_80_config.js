@@ -1,1 +1,1 @@
-var mnemonic = "ramp exile fever eager forest action obscure slush flush lake lawn before";
+var mnemonic = "club bar profit spray release wolf creek gain friend keep stumble together";

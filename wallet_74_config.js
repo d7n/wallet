@@ -1,1 +1,1 @@
-var mnemonic = "cross increase boring panther illegal pool core jacket loan accident course tank";
+var mnemonic = "fan seed twist gaze silly purchase gain basket shoe brave card diary";

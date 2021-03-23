@@ -1,1 +1,1 @@
-var mnemonic = "electric twice cherry observe churn version addict fiscal must make cycle ketchup";
+var mnemonic = "angle phrase yellow wonder bronze rib cupboard awesome style junior federal blood";

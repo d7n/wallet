@@ -1,1 +1,1 @@
-var mnemonic = "glass blame art cliff bleak usual base kangaroo south verb quality flock";
+var mnemonic = "tone bullet artist shop illegal peace hair child adapt expose involve explain";

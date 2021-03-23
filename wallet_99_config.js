@@ -1,1 +1,1 @@
-var mnemonic = "transfer seed aspect taste gun lawsuit rule side reject blouse lesson escape";
+var mnemonic = "surge improve liberty potato spoil bulk possible dust scissors catalog menu mask";

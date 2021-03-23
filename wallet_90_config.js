@@ -1,1 +1,1 @@
-var mnemonic = "flower sheriff point twin sadness weekend virus resource allow swarm pass surface";
+var mnemonic = "keen very allow loyal east popular option expire dice yellow spot gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "message suffer code dentist impulse sick there reunion thrive various among destroy";
+var mnemonic = "indoor shadow cinnamon hold this vague prepare alien never easy october car";

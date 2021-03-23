@@ -1,1 +1,1 @@
-var mnemonic = "degree hand funny problem vote renew clown advance tomorrow achieve excess sport";
+var mnemonic = "embrace insane maze give penalty drum net front axis agent theory mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "debate pumpkin hood omit wreck divert deal fee squeeze punch protect pill";
+var mnemonic = "topple slim myth define foam boy pact banana regret focus speak garlic";

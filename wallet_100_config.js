@@ -1,1 +1,1 @@
-var mnemonic = "deny shrimp elder used bubble emerge stool course wife code work hand";
+var mnemonic = "smart owner nothing slogan decide someone spend kind rude iron young steak";

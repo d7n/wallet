@@ -1,1 +1,1 @@
-var mnemonic = "empower group record mammal inherit youth year note voice law struggle shoot";
+var mnemonic = "before story veteran holiday tooth february educate venue devote identify permit crane";

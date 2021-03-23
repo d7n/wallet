@@ -1,1 +1,1 @@
-var mnemonic = "old wise lawsuit fantasy material catalog fiber wear pledge okay ill used";
+var mnemonic = "alter identify evoke breeze report acid crunch coconut garden wear foam pair";

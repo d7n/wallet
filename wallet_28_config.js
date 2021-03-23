@@ -1,1 +1,1 @@
-var mnemonic = "rule blur asset lunar ivory detail economy relief sunset jazz clap chest";
+var mnemonic = "couple arctic side panic much stay once fox link penalty plunge north";

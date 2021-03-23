@@ -1,1 +1,1 @@
-var mnemonic = "sweet fox output seek tribe pupil snake cry divert leave void average";
+var mnemonic = "price resist ill wild current system bright inner top jaguar region elephant";

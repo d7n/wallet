@@ -1,1 +1,1 @@
-var mnemonic = "knife test style film cool young bread exit humor wish elephant have";
+var mnemonic = "evolve slot negative grow genre recycle deposit rebuild actress tortoise churn novel";

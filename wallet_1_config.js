@@ -1,1 +1,1 @@
-var mnemonic = "inch bag name eager animal before under mad mountain helmet pyramid lobster";
+var mnemonic = "floor tiger rib slush lens cycle helmet ski danger dizzy improve jump";

@@ -1,1 +1,1 @@
-var mnemonic = "coral sea come asset tornado couple grain carpet dress leg remove develop";
+var mnemonic = "impulse subject tag good flight town royal liberty flower ten immense swallow";

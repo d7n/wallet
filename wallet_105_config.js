@@ -1,1 +1,1 @@
-var mnemonic = "art uncle replace weather satisfy uncle angry property swear gate extend fluid";
+var mnemonic = "setup mimic rug critic depend develop order impose cup life swamp photo";

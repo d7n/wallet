@@ -1,1 +1,1 @@
-var mnemonic = "found carbon forest regret found inch kit core wish carry advice deputy";
+var mnemonic = "case pottery burden knife famous attend arrow armed project view solid blue";

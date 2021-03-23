@@ -1,1 +1,1 @@
-var mnemonic = "enact capable wide faculty pulse web bus second culture clump lion hint";
+var mnemonic = "extra advance able palm invite vanish indicate motion vibrant veteran panic leaf";

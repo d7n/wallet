@@ -1,1 +1,1 @@
-var mnemonic = "toss west later burden crazy pet clump there thought hockey uncle bullet";
+var mnemonic = "panel picture pigeon indoor thunder private card chief man skull until winter";

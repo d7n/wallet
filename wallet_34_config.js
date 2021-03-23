@@ -1,1 +1,1 @@
-var mnemonic = "throw occur verify skull scrap wise word crouch say exist permit yard";
+var mnemonic = "risk diagram poem vault tool trust tape arrange rival husband silly fiction";

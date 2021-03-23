@@ -1,1 +1,1 @@
-var mnemonic = "silent lazy lock sound wrestle common gain drip answer throw pumpkin photo";
+var mnemonic = "harvest chunk actor deer inspire salt dinner hawk close cabin flat step";

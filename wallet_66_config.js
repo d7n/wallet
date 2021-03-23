@@ -1,1 +1,1 @@
-var mnemonic = "exotic radio actual inquiry trade heavy clump west turkey heart asset sting";
+var mnemonic = "dentist inmate mammal purchase whisper pizza hover deputy crunch lizard zone gap";

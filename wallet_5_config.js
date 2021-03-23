@@ -1,1 +1,1 @@
-var mnemonic = "chapter pumpkin junk wolf high confirm erupt duty smile fashion goose usage";
+var mnemonic = "discover deliver try tortoise ready divert profit soon shoot ticket right slight";

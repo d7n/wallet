@@ -1,1 +1,1 @@
-var mnemonic = "outside bulk hello always legal fiscal slice muffin road swim property day";
+var mnemonic = "true trust velvet program sleep fun tip tongue mom parade couch boil";

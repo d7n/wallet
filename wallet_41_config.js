@@ -1,1 +1,1 @@
-var mnemonic = "account clutch leader wide universe blanket remove twice high announce hover quality";
+var mnemonic = "collect onion tuition grunt illness syrup drift volcano balcony grain actual siege";

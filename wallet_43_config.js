@@ -1,1 +1,1 @@
-var mnemonic = "pattern satoshi daughter possible robot fall feed only noble volume west stereo";
+var mnemonic = "stone swear gown refuse love narrow nose pig utility phrase fluid gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger struggle tortoise fork steel high cereal search service city alcohol unhappy";
+var mnemonic = "boil live lobster oyster settle orient ceiling junk push elite jazz taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "until laptop cart fiscal stadium federal clay violin antique shuffle laugh couple";
+var mnemonic = "olive abuse drink bar dynamic faith grab amazing shrimp famous scale gauge";

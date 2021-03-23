@@ -1,1 +1,1 @@
-var mnemonic = "knock salon leaf rhythm bleak dentist survey shift foot morning inmate stem";
+var mnemonic = "help cool vessel tone patrol door cheap grunt apology scorpion tornado pole";

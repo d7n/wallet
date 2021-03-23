@@ -1,1 +1,1 @@
-var mnemonic = "rare fix cupboard stick fade suggest chair used okay subject ghost crumble";
+var mnemonic = "breeze foil knock cannon federal rich ten cover element sponsor almost viable";

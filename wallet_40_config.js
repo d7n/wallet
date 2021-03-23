@@ -1,1 +1,1 @@
-var mnemonic = "dice address say write try sport crane nephew fee aspect second catalog";
+var mnemonic = "regret alter parrot picnic aspect casual enforce admit rival weapon robot hollow";

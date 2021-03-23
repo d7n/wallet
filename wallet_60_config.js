@@ -1,1 +1,1 @@
-var mnemonic = "submit prevent firm open story tenant sock silent open carpet soap erode";
+var mnemonic = "glance legal fan weird sustain become comfort stay govern talent payment enter";

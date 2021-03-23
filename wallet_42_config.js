@@ -1,1 +1,1 @@
-var mnemonic = "update climb public diary pink guess black chef quote biology provide paper";
+var mnemonic = "cloud priority arrow fame diary census else guitar glass fall accuse fold";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory addict moon bar assault seminar silly talk radio truck armed practice";
+var mnemonic = "transfer morning indoor early one midnight repeat little matrix size stumble response";

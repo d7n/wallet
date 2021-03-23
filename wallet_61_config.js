@@ -1,1 +1,1 @@
-var mnemonic = "sand dice lend prison vanish oxygen labor clip bargain stuff spin garlic";
+var mnemonic = "mouse certain laptop doll spice message inject palm hen other amount alien";

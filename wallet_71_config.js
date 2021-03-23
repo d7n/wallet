@@ -1,1 +1,1 @@
-var mnemonic = "alcohol chronic judge friend lobster celery evoke maximum bulk window leader reward";
+var mnemonic = "awake blood forward fan horror differ monster curious hybrid skull hurt drink";

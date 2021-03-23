@@ -1,1 +1,1 @@
-var mnemonic = "quality aware panel hunt cook coin review accident shed gesture demise ostrich";
+var mnemonic = "approve brass vacuum crucial brown slot fence similar drive pudding gift humble";

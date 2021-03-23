@@ -1,1 +1,1 @@
-var mnemonic = "logic crumble wine thunder depth toast dune valve fetch senior napkin maple";
+var mnemonic = "vague original climb security woman decide armed vendor lonely adult slight fat";

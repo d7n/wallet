@@ -1,1 +1,1 @@
-var mnemonic = "want modify jaguar harsh antique music champion produce peanut regret riot blur";
+var mnemonic = "knee urban knock stove pigeon reduce spoon cactus design toilet reveal frozen";

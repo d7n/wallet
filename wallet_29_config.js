@@ -1,1 +1,1 @@
-var mnemonic = "bind hurdle below uncover friend vital salad spread survey orchard public sad";
+var mnemonic = "kingdom stereo about artist poet opinion domain bless social cushion dwarf letter";

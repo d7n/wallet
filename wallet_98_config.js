@@ -1,1 +1,1 @@
-var mnemonic = "tennis transfer photo always quiz choice swear before addict emotion senior resemble";
+var mnemonic = "baby priority grace crane trim series accident melt honey sadness meat wish";

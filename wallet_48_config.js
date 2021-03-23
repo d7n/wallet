@@ -1,1 +1,1 @@
-var mnemonic = "fresh december board eight width ecology they soon van below scan buzz";
+var mnemonic = "vault walnut chief awake fox cigar quiz reject satoshi sustain summer mixed";

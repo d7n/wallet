@@ -1,1 +1,1 @@
-var mnemonic = "solve catalog clip roof bunker process measure trust evil deer easily foil";
+var mnemonic = "certain direct abuse cactus hill moral novel night aware shock innocent exhibit";

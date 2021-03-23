@@ -1,1 +1,1 @@
-var mnemonic = "usage magnet crouch wolf hip life kite fame space grab inch large";
+var mnemonic = "mixture flush useless mad foster arrange bless upset nothing pool garlic inherit";

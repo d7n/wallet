@@ -1,1 +1,1 @@
-var mnemonic = "arrange pink panel absurd oppose ecology about kind ball skill crumble rib";
+var mnemonic = "dream capital oval media panic turn boss elder favorite issue chimney merry";

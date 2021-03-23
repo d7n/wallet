@@ -1,1 +1,1 @@
-var mnemonic = "music sustain crop people bracket pig snap prize scorpion tooth reflect once";
+var mnemonic = "metal shuffle race govern meat over atom brave bus vault undo february";

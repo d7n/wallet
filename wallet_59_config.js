@@ -1,1 +1,1 @@
-var mnemonic = "vanish box author night arrow junk legal hub hobby scale sheriff spoon";
+var mnemonic = "open pass across concert monitor settle vanish leave situate convince catch travel";

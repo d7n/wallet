@@ -1,1 +1,1 @@
-var mnemonic = "door office crouch sister debate master calm loop army friend deliver pave";
+var mnemonic = "silent warm egg library income chaos mad gap dirt party okay struggle";

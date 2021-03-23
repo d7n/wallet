@@ -1,1 +1,1 @@
-var mnemonic = "word wash bonus alarm crazy trouble scene jungle short salmon friend void";
+var mnemonic = "run lyrics acid faint earn giant blood echo flame huge foam economy";

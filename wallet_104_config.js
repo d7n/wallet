@@ -1,1 +1,1 @@
-var mnemonic = "either blouse remove front mule float blur jump vivid labor repair cluster";
+var mnemonic = "useless damp repair spoon gossip illegal talent swap spot fortune salmon device";

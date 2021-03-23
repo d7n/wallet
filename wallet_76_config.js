@@ -1,1 +1,1 @@
-var mnemonic = "six cream fox say spare swing excess harbor live science walk quarter";
+var mnemonic = "such fiscal soup betray become weasel blur replace memory grid fashion play";

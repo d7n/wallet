@@ -1,1 +1,1 @@
-var mnemonic = "distance foam stamp twist wife pave sudden leopard receive skin wing wait";
+var mnemonic = "manual afraid atom skill meadow baby develop flat crisp mechanic client mean";

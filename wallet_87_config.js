@@ -1,1 +1,1 @@
-var mnemonic = "lumber armor clinic impact ribbon vote any chat great melody unaware unit";
+var mnemonic = "net stool ethics wasp arrest chat parent rebuild sustain december tooth trip";

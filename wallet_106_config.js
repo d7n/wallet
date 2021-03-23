@@ -1,1 +1,1 @@
-var mnemonic = "rule beyond faith physical page chicken resemble margin victory stove call bread";
+var mnemonic = "abandon dune interest fault treat load decade brother century drip blur actress";

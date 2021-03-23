@@ -1,1 +1,1 @@
-var mnemonic = "similar thought weapon imitate chaos wink virus decrease host art ethics work";
+var mnemonic = "vacuum equip already ripple method crystal grass lecture february sell sock bleak";

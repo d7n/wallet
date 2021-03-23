@@ -1,1 +1,1 @@
-var mnemonic = "milk key jungle liar impulse reunion cupboard face error donate exotic moon";
+var mnemonic = "alley duty wave glue hope taste husband magic actual ensure image maid";

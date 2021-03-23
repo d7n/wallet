@@ -1,1 +1,1 @@
-var mnemonic = "stairs cat glow race hurry chuckle eight fringe pitch assume industry gap";
+var mnemonic = "permit absorb alcohol voice jeans riot limb oyster bind turtle grass vibrant";

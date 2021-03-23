@@ -1,1 +1,1 @@
-var mnemonic = "evil liquid chef outer kite dress asset assume frost bench repeat boy";
+var mnemonic = "elite flush coral romance census arrange retire viable dove joke frozen laugh";

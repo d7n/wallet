@@ -1,1 +1,1 @@
-var mnemonic = "thing easily result neglect scrap produce price unhappy bench snow divide track";
+var mnemonic = "winner step demise parade hover depart excess today latin fee best swim";

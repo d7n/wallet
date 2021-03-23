@@ -1,1 +1,1 @@
-var mnemonic = "solar speak spoon space maid install wisdom unhappy deny accident snake jeans";
+var mnemonic = "patient spatial coach inform original afford asthma project behind reduce abandon circle";

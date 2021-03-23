@@ -1,1 +1,1 @@
-var mnemonic = "merit fold snack always giant shed when enough motion small climb radio";
+var mnemonic = "device lab match coffee ask bounce salute give alcohol siren attract north";

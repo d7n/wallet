@@ -1,1 +1,1 @@
-var mnemonic = "worry enjoy brief rally happy myth lazy season solution noble oxygen link";
+var mnemonic = "can cheap north media diet hidden slush same final liar layer swamp";
