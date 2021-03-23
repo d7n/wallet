@@ -1,1 +1,1 @@
-var mnemonic = "method joke put essence sadness toss middle sudden whale unveil tower coast";
+var mnemonic = "object bicycle expire beyond lobster connect occur cabbage sail horn art illness";

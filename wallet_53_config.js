@@ -1,1 +1,1 @@
-var mnemonic = "furnace dial attend wait rare bicycle illness shoot inspire ribbon lava special";
+var mnemonic = "balance bless walnut box churn despair utility orbit ostrich unaware toy knife";

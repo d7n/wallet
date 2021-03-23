@@ -1,1 +1,1 @@
-var mnemonic = "exile report focus warrior sweet acoustic lesson oyster feed vivid oblige owner";
+var mnemonic = "prevent acquire tail local three call common amateur panic van canvas wish";

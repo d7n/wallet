@@ -1,1 +1,1 @@
-var mnemonic = "ostrich bright hollow adjust media recycle frequent buddy trial simple output rabbit";
+var mnemonic = "order industry flower violin scheme unhappy prepare pet brain basket tonight various";

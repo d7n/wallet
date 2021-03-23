@@ -1,1 +1,1 @@
-var mnemonic = "script setup tornado fashion bomb imitate student buddy fix patrol own advance";
+var mnemonic = "adjust morning ship utility vendor exact piano ivory seed captain syrup beef";

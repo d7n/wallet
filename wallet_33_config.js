@@ -1,1 +1,1 @@
-var mnemonic = "tumble bleak elite bonus cradle famous double delay spring shine left woman";
+var mnemonic = "hedgehog region cost dune middle stamp pipe company wasp mammal clean crash";

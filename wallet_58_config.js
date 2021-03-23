@@ -1,1 +1,1 @@
-var mnemonic = "believe either know cup avoid local foil once corn veteran flock actress";
+var mnemonic = "hen absurd limit orient birth pupil craft sister congress involve intact woman";

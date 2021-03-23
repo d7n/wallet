@@ -1,1 +1,1 @@
-var mnemonic = "estate throw proof fog author acquire cushion jelly garlic perfect cinnamon assault";
+var mnemonic = "accuse leaf feature trophy season music photo gospel road taste salt witness";

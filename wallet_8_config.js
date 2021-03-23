@@ -1,1 +1,1 @@
-var mnemonic = "payment patient water evil eagle kid come bless plate must ridge gloom";
+var mnemonic = "symbol hover nature casual fluid decorate unable author fee joy scrub like";

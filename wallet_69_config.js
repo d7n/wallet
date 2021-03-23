@@ -1,1 +1,1 @@
-var mnemonic = "enlist orphan license farm shy asset light loud fade initial armed critic";
+var mnemonic = "garlic winter possible submit resist side twenty army wedding castle track box";

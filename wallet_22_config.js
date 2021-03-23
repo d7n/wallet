@@ -1,1 +1,1 @@
-var mnemonic = "early achieve capital turkey series vivid main biology give mango happy oval";
+var mnemonic = "elbow obvious sudden orange quantum intact under cruise sunset manage deny special";

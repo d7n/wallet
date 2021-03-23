@@ -1,1 +1,1 @@
-var mnemonic = "nasty guitar until fox sell waste squeeze fault grit food travel catch";
+var mnemonic = "immune boring evoke tiger industry weapon turtle moral news earn stable remember";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain pigeon blade swing senior suffer first skate museum lumber essay develop";
+var mnemonic = "daughter exotic opera maze size fame air visit sell silk tornado negative";

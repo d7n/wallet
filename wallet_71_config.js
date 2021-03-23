@@ -1,1 +1,1 @@
-var mnemonic = "myself chicken can gown wreck fault wasp found rocket able spatial gloom";
+var mnemonic = "arrange atom coil sing barely thrive turkey apart soup verify dutch forest";

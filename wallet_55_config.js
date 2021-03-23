@@ -1,1 +1,1 @@
-var mnemonic = "lonely visual shadow gold refuse devote door monitor inherit hope deposit drum";
+var mnemonic = "awful sand six change health dream bunker vivid walnut limb clay lunar";

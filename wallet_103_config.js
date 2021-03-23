@@ -1,1 +1,1 @@
-var mnemonic = "bring poet column output dash decorate taxi vintage team pause rude biology";
+var mnemonic = "series dog nuclear sense pitch dress peanut source melt piano hurry cycle";

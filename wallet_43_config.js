@@ -1,1 +1,1 @@
-var mnemonic = "memory base devote profit slam chat badge eagle subway bulk push spend";
+var mnemonic = "bind essay march update upset abstract they faculty once author twenty couch";

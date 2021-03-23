@@ -1,1 +1,1 @@
-var mnemonic = "hair blade feed lazy cool label struggle velvet cube snow shoe insect";
+var mnemonic = "cute tuna grape hole choice fantasy stool first shield same fabric address";

@@ -1,1 +1,1 @@
-var mnemonic = "crush flat time consider rule brass sand zero nuclear symptom eight use";
+var mnemonic = "roof super world come stick insect slice address become stomach noodle sponsor";

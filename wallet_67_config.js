@@ -1,1 +1,1 @@
-var mnemonic = "chest grit client dream glove blouse diamond sauce match funny uphold face";
+var mnemonic = "thrive profit plate little nuclear grant seek rice skull arrange blur garbage";

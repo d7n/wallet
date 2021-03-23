@@ -1,1 +1,1 @@
-var mnemonic = "voyage scan theory become shaft outer dumb traffic eternal brief bind where";
+var mnemonic = "solar reform nest must dirt confirm dumb stereo gesture dial leg trend";

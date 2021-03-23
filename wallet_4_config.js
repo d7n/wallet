@@ -1,1 +1,1 @@
-var mnemonic = "remind mercy vanish labor color bonus argue caution speed remove panic soon";
+var mnemonic = "fetch easy green fringe jelly buddy people move online tank liar celery";

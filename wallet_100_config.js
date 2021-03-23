@@ -1,1 +1,1 @@
-var mnemonic = "forest usual glance sunny imitate trick social brave wet figure couch hover";
+var mnemonic = "deliver wall affair entire jump park inherit discover garden organ thought field";

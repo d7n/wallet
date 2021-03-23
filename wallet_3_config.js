@@ -1,1 +1,1 @@
-var mnemonic = "tackle salmon venture flee laugh ramp fox island audit uncover shine enough";
+var mnemonic = "ensure answer license dune guilt document trend hair behind ill shaft mystery";

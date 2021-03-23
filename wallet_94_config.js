@@ -1,1 +1,1 @@
-var mnemonic = "force truck fly address stable build behind robust february enter salmon first";
+var mnemonic = "drip affair future wave zero hole miracle crater ritual husband shrug short";

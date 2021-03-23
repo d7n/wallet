@@ -1,1 +1,1 @@
-var mnemonic = "over captain carpet bullet shuffle decade buzz cause shove spread liberty task";
+var mnemonic = "radio alcohol ride orphan pigeon crucial lemon miracle disagree hand sand hub";

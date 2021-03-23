@@ -1,1 +1,1 @@
-var mnemonic = "tackle raw vicious estate salad stairs minor sleep mystery talk today gun";
+var mnemonic = "auto firm ripple soap sunset crater glove uniform super cook pave trust";

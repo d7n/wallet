@@ -1,1 +1,1 @@
-var mnemonic = "lyrics escape common inquiry post lava example inspire shoot toe awkward access";
+var mnemonic = "prevent cram toilet tape whale circle dry fury scout pioneer federal have";

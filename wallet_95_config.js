@@ -1,1 +1,1 @@
-var mnemonic = "scorpion seed flat pond wage ridge time nature warfare since give gospel";
+var mnemonic = "cabbage occur control goose tuition wet click hedgehog village hand ordinary live";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit junior chef consider label link define ability click refuse buffalo audit";
+var mnemonic = "cake hub butter love wage film friend dinner narrow offer replace hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger chunk squirrel ugly target mass mobile ice keen silver deer fluid";
+var mnemonic = "merit phrase eagle express cube update grace nation skin accident body spell";

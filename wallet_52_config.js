@@ -1,1 +1,1 @@
-var mnemonic = "young cactus where flavor rally salt advance favorite letter speak grief page";
+var mnemonic = "vessel round slogan rough patient edit devote labor domain retreat wire april";

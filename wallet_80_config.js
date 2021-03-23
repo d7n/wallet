@@ -1,1 +1,1 @@
-var mnemonic = "poem gossip silly claw wolf pitch balcony sister enable series tray shuffle";
+var mnemonic = "meadow melt olympic night act behave prevent ball art glove account system";

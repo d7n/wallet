@@ -1,1 +1,1 @@
-var mnemonic = "involve wait large course disagree gift agent stairs believe laundry enter august";
+var mnemonic = "flush abstract movie describe worry eagle buffalo session chair have improve boring";

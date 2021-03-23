@@ -1,1 +1,1 @@
-var mnemonic = "primary winner museum response clog ticket hobby apple inflict example cruel keep";
+var mnemonic = "flower drama upon couple tuition brass drastic stairs rebel frown wink prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse eye obscure auto craft erupt exercise tray soda artist tortoise script";
+var mnemonic = "slush whisper festival dog time lazy high confirm share anger six script";

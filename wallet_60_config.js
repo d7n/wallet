@@ -1,1 +1,1 @@
-var mnemonic = "control friend motor travel nest gentle cement file spot frown defy because";
+var mnemonic = "vote confirm secret bus alert network siren lizard owner obtain excess knock";

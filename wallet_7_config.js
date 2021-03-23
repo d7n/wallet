@@ -1,1 +1,1 @@
-var mnemonic = "half vivid forest clinic bronze raven decade cinnamon pig member cinnamon skate";
+var mnemonic = "among wagon include giggle feel accuse finger dizzy survey woman blossom predict";

@@ -1,1 +1,1 @@
-var mnemonic = "winter fresh shoot bleak blue exact afraid speed absurd govern cup people";
+var mnemonic = "frown into manual spend turn load dignity close toy skill venue follow";

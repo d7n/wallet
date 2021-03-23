@@ -1,1 +1,1 @@
-var mnemonic = "maid talk type awkward rose child material memory axis doctor find enter";
+var mnemonic = "toast hotel donkey knock mango regret few tennis often wife angle report";

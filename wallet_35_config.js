@@ -1,1 +1,1 @@
-var mnemonic = "describe inmate tissue immune drama actor match chase much danger hazard stomach";
+var mnemonic = "medal burden hurry enemy carry legend barely bomb attract aim civil shy";

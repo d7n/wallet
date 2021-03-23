@@ -1,1 +1,1 @@
-var mnemonic = "potato best kangaroo donor task crazy adult own meat inherit velvet amateur";
+var mnemonic = "reflect soap afraid angry envelope essay eight course divert razor trick price";

@@ -1,1 +1,1 @@
-var mnemonic = "dad divide surprise flower arena suggest exit promote zone shoulder brisk repeat";
+var mnemonic = "coconut strategy fault fiscal receive duck upgrade soul agent web close typical";

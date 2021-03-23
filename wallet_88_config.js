@@ -1,1 +1,1 @@
-var mnemonic = "zebra that pattern result wrist gown disagree connect cry capital endorse relief";
+var mnemonic = "roast young tide stay off time chair discover bronze artist wage fox";

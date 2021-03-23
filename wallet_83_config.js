@@ -1,1 +1,1 @@
-var mnemonic = "eight host spice noble today approve fix attitude spawn raven scrap tired";
+var mnemonic = "actual trip random guard address high outside where gold segment release focus";

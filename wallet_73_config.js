@@ -1,1 +1,1 @@
-var mnemonic = "cook grow chief worry alcohol capital kind harvest approve assault tail lock";
+var mnemonic = "appear clutch lobster toilet company target evil team dignity raise vendor violin";

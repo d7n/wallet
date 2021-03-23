@@ -1,1 +1,1 @@
-var mnemonic = "cruise horn wash business razor deer strong crack finish foot robust lava";
+var mnemonic = "risk world effort hair ceiling crystal grain solid seed tissue moon swing";

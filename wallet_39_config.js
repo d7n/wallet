@@ -1,1 +1,1 @@
-var mnemonic = "pill rigid open common woman element fish phone network artwork pear oppose";
+var mnemonic = "sunset bulk approve topic junk carpet coral more pigeon bone burger eight";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit spatial main column leopard silent riot surprise baby island live profit";
+var mnemonic = "west smoke world cloth nut fall laundry cotton wool vapor pupil shrimp";

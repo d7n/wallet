@@ -1,1 +1,1 @@
-var mnemonic = "fruit open nuclear enable party script alert primary else enough kangaroo submit";
+var mnemonic = "limb road engine carpet awful thing update shed misery paper target coil";

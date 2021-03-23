@@ -1,1 +1,1 @@
-var mnemonic = "powder lab spy wisdom auto service network oppose acid bachelor wagon tank";
+var mnemonic = "agree blame aware uncover rebel sphere portion ask opera garden party flight";

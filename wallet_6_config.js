@@ -1,1 +1,1 @@
-var mnemonic = "apple clean employ camera parade expose gasp lamp because whip large crisp";
+var mnemonic = "aerobic interest detect element mammal upon glide brisk early usual husband defy";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll then aware nuclear joy twelve old accuse web ridge prize blanket";
+var mnemonic = "captain similar exist permit grain champion lumber talent slam endorse sentence inherit";

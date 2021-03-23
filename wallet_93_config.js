@@ -1,1 +1,1 @@
-var mnemonic = "flash fever dynamic supreme awful witness pole scrub beach coin enroll target";
+var mnemonic = "dust pear rough arrange magnet decade position change lyrics plate intact flee";

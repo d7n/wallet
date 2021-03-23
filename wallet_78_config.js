@@ -1,1 +1,1 @@
-var mnemonic = "evoke exhaust great like mask page metal elbow depth electric ticket knock";
+var mnemonic = "tissue that cousin crack nerve desk buffalo uniform custom antenna recycle uncle";

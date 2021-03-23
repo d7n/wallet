@@ -1,1 +1,1 @@
-var mnemonic = "dumb tribe butter shock cereal penalty west federal twist alter tourist mango";
+var mnemonic = "horn boil salad tissue soul issue correct name hobby use clutch club";

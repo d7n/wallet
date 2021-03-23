@@ -1,1 +1,1 @@
-var mnemonic = "million fork tag tip level ship strong wet stadium limit trade oblige";
+var mnemonic = "much because agree layer buddy original month host cotton win floor boil";

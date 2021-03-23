@@ -1,1 +1,1 @@
-var mnemonic = "boring upon visual unfair plunge clap churn follow witness welcome machine south";
+var mnemonic = "pet soon reward hundred oppose unit immune digital relax rocket fabric cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet review embark dignity expand debris perfect coil medal absent soul truly";
+var mnemonic = "renew goose airport culture physical ensure oak devote similar wife saddle history";

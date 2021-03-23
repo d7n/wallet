@@ -1,1 +1,1 @@
-var mnemonic = "mean flat valley patch puzzle police excess post weather episode timber tag";
+var mnemonic = "kit mirror fame laundry devote benefit time budget diamond little also dawn";

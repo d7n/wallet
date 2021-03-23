@@ -1,1 +1,1 @@
-var mnemonic = "decrease doll tilt shadow buddy wrap lizard glance intact link vapor gauge";
+var mnemonic = "monkey glance push fluid trick learn zebra tenant artefact you trend blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "universe summer cool lion inside first south auction fantasy turn vacant cool";
+var mnemonic = "access exist kit super federal brown neglect industry bomb produce brave below";

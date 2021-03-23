@@ -1,1 +1,1 @@
-var mnemonic = "trouble flower planet time suspect tackle elder omit blame cry random fabric";
+var mnemonic = "physical defense legal wink sure donate annual dinner tray celery typical siren";

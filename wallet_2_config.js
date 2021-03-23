@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow imitate save stand sting worry dragon trap uncle match air hold";
+var mnemonic = "accident series focus wear verify finish toss hurdle boring south donkey glory";

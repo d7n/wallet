@@ -1,1 +1,1 @@
-var mnemonic = "parade fatigue bone vessel flip royal shield change net bid stumble verb";
+var mnemonic = "scan ahead book broom company boat chest various moon sauce food little";

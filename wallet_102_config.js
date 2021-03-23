@@ -1,1 +1,1 @@
-var mnemonic = "pill keen object chef plastic say upgrade throw situate second skate visit";
+var mnemonic = "casual enemy turn mansion rely sunset match bonus shallow token crowd faculty";

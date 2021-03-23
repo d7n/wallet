@@ -1,1 +1,1 @@
-var mnemonic = "engine spirit image drift beyond upper august bomb category layer senior meadow";
+var mnemonic = "inject current trouble heavy input car maximum luxury two heavy tobacco swarm";

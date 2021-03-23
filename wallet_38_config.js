@@ -1,1 +1,1 @@
-var mnemonic = "claw trick weather defense stumble scare scan fatal prefer sweet comfort harvest";
+var mnemonic = "elegant double morning burst today unfold hammer unhappy donor mammal curve describe";

@@ -1,1 +1,1 @@
-var mnemonic = "ill tongue parent honey stomach amateur still device latin chalk bundle fancy";
+var mnemonic = "spider ask anxiety middle vicious age link cat praise cool ancient code";

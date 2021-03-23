@@ -1,1 +1,1 @@
-var mnemonic = "vendor spray medal universe ecology ride return wear attend ride doctor boss";
+var mnemonic = "raw absurd decide bubble output idle feature nerve tunnel pudding marine now";

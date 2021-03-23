@@ -1,1 +1,1 @@
-var mnemonic = "cattle path timber cactus rhythm avocado almost more sing mesh vehicle silver";
+var mnemonic = "rice reveal unable crew behave obey drip below meadow shoot image result";

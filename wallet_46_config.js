@@ -1,1 +1,1 @@
-var mnemonic = "satoshi online kitten slow much shove mesh update problem fee salmon hour";
+var mnemonic = "ghost butter bounce net depend frown tool frame gravity someone belt ticket";

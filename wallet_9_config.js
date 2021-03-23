@@ -1,1 +1,1 @@
-var mnemonic = "project green harvest castle asthma draft chef decrease office course size method";
+var mnemonic = "they custom tornado only where rice want bag able segment mad tilt";

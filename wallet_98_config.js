@@ -1,1 +1,1 @@
-var mnemonic = "feature able faint cigar patient monster umbrella cigar rifle sport talent access";
+var mnemonic = "thought famous chronic great apology nest crucial sense video expose excite beyond";

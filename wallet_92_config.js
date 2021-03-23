@@ -1,1 +1,1 @@
-var mnemonic = "spring witness sleep pudding patch dream riot find enlist fish envelope awesome";
+var mnemonic = "leg width hobby mixture remind casual split shallow lemon hard brisk else";

@@ -1,1 +1,1 @@
-var mnemonic = "reform sunny broccoli promote burger dry ring horse script easily action isolate";
+var mnemonic = "vague toss engine oval type census risk question thank cushion ozone same";

@@ -1,1 +1,1 @@
-var mnemonic = "figure finish velvet purpose human casual cluster zero pool uncle tell curve";
+var mnemonic = "segment endorse fish barrel fold floor donate father cigar van stomach tool";

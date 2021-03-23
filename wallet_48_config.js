@@ -1,1 +1,1 @@
-var mnemonic = "scheme suit hurt scan tobacco youth marriage fragile glance normal soccer before";
+var mnemonic = "burger outside world fancy wink congress fresh grid math into insect chase";

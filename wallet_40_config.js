@@ -1,1 +1,1 @@
-var mnemonic = "april rival normal use upset food receive foil family safe fringe casual";
+var mnemonic = "firm grape shadow visual recall oyster design bottom bulk chef pride index";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket day great debate bulk lobster behave swap visa pill lonely notice";
+var mnemonic = "predict credit giggle lyrics vendor old garage rug wear doctor broken dolphin";

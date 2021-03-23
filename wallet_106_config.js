@@ -1,1 +1,1 @@
-var mnemonic = "trust fitness ribbon suspect expect cargo crew select beyond egg elite option";
+var mnemonic = "dream huge must route drink unknown three impulse admit deal record together";

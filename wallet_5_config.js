@@ -1,1 +1,1 @@
-var mnemonic = "mushroom piano clever brave retire predict quiz boss obtain bulk vehicle pull";
+var mnemonic = "half wash educate gasp peanut mail intact fatigue social fan meadow bounce";

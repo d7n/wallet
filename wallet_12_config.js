@@ -1,1 +1,1 @@
-var mnemonic = "come thought trust alcohol razor unaware any claim grit seat shop credit";
+var mnemonic = "pattern trophy physical glue lady inch rubber wonder what run horror retire";

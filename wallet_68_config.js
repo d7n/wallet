@@ -1,1 +1,1 @@
-var mnemonic = "negative possible catalog someone cabin demise just metal lava palm walk cereal";
+var mnemonic = "year art milk twelve diagram never goat secret sample world stage vehicle";

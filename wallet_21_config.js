@@ -1,1 +1,1 @@
-var mnemonic = "machine autumn injury jelly axis easy kick tomato merry crumble source initial";
+var mnemonic = "sentence attract month prevent cause boss attend bread horse spider extra dry";

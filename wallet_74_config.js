@@ -1,1 +1,1 @@
-var mnemonic = "raise novel front faculty melody enemy worry easy tip chronic zebra company";
+var mnemonic = "first night give notice pact slide cluster maximum push opera roast where";

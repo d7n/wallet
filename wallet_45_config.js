@@ -1,1 +1,1 @@
-var mnemonic = "tone spice word coil vocal tourist morning maid helmet update uncle repair";
+var mnemonic = "exist series idea foot like snap tape mystery soul desk furnace welcome";
