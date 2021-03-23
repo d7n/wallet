@@ -1,1 +1,1 @@
-var mnemonic = "cheese cliff width robust melody infant claw violin fire tent range title";
+var mnemonic = "similar bitter fantasy lift satisfy digital brave describe liquid puppy unit garage";

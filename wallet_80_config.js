@@ -1,1 +1,1 @@
-var mnemonic = "force crazy rabbit wise marine indicate slab inside web emerge behave weather";
+var mnemonic = "connect swift humor estate expand pitch extend give raven best panic museum";

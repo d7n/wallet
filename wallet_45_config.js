@@ -1,1 +1,1 @@
-var mnemonic = "indoor public equip trade useless judge rubber pact pool nose load basic";
+var mnemonic = "push hub proud sister artwork armor aspect achieve sleep father wear radar";

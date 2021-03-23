@@ -1,1 +1,1 @@
-var mnemonic = "slush current art deposit battle furnace grape mountain pave cattle ahead million";
+var mnemonic = "liberty trend rude pig youth tent before tackle voice obtain giggle total";

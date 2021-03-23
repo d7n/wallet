@@ -1,1 +1,1 @@
-var mnemonic = "utility pig chest vicious into disorder better push crew hedgehog grape speak";
+var mnemonic = "depart view embrace income month teach soup truck brother rubber cube census";

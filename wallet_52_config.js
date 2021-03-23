@@ -1,1 +1,1 @@
-var mnemonic = "used voyage spring rebel welcome patient daring net connect bar museum salad";
+var mnemonic = "coach gym tower coil enlist come december evidence sweet stick old hungry";

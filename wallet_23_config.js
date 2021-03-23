@@ -1,1 +1,1 @@
-var mnemonic = "denial enter cave doll series captain narrow race power deal coil curtain";
+var mnemonic = "eager chronic fun clerk betray betray iron nurse cattle paddle syrup profit";

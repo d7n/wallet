@@ -1,1 +1,1 @@
-var mnemonic = "else salon security fire zero chat penalty section topic vanish together pole";
+var mnemonic = "nice van able black very captain voyage gap over cool whale kidney";

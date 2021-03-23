@@ -1,1 +1,1 @@
-var mnemonic = "echo tennis alarm pave erase interest crime inmate love black crop mind";
+var mnemonic = "skate option naive happy ride path correct rebuild drive cattle puzzle blue";

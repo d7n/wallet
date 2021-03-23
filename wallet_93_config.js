@@ -1,1 +1,1 @@
-var mnemonic = "museum tree problem bleak siren wrist oil left village void main shield";
+var mnemonic = "group apple uphold coffee web chaos that unfair mouse swear parrot access";

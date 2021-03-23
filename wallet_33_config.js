@@ -1,1 +1,1 @@
-var mnemonic = "awesome owner possible dove crush stomach castle album bacon forest talent daring";
+var mnemonic = "defense very poet goat puppy firm grass caught wagon impose expose such";

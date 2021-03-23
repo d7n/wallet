@@ -1,1 +1,1 @@
-var mnemonic = "just spot power neck inject pepper smile board orphan garlic skate loan";
+var mnemonic = "endorse prefer have cattle accuse kitten topic opinion body scheme category must";

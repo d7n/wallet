@@ -1,1 +1,1 @@
-var mnemonic = "expire test destroy document execute giant clump shine sunny muscle enable comfort";
+var mnemonic = "design coil faculty spatial group unlock name suspect nut legend private thumb";

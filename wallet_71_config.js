@@ -1,1 +1,1 @@
-var mnemonic = "despair gym tide idea can art spring fork phone elite perfect veteran";
+var mnemonic = "predict twice solar cactus sting blast badge entire question quality library brown";

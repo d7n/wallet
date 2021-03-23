@@ -1,1 +1,1 @@
-var mnemonic = "smooth tobacco memory bulk wild silent glare screen sun field sausage wood";
+var mnemonic = "glimpse sort profit desk you brief inform barrel trash forget canyon punch";

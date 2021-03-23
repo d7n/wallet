@@ -1,1 +1,1 @@
-var mnemonic = "stove garbage tape visit stool agree lumber approve oven chronic beyond coyote";
+var mnemonic = "cactus welcome dust language hospital zoo gate pizza fitness slab fortune confirm";

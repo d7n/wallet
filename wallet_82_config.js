@@ -1,1 +1,1 @@
-var mnemonic = "thumb moral ocean wife child young apart tissue fat pool awesome owner";
+var mnemonic = "burden what fatal body draft soldier school snap target warrior toe gauge";

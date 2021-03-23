@@ -1,1 +1,1 @@
-var mnemonic = "crowd rural vacuum interest salmon vintage control flight list journey desk ethics";
+var mnemonic = "raccoon original witness mystery price cabin dose bid mom smoke typical round";

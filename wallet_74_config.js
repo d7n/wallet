@@ -1,1 +1,1 @@
-var mnemonic = "violin spirit page room meat warrior garbage match rival essay peanut speak";
+var mnemonic = "gossip impact person item grab sorry scan already enemy fun road ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty ignore surge tuna disagree sphere possible taste brand eight canal blossom";
+var mnemonic = "border truly alcohol matter ten follow enroll couple drill lift huge visa";

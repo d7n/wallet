@@ -1,1 +1,1 @@
-var mnemonic = "census illegal artist render section birth isolate canvas audit around math economy";
+var mnemonic = "scrub lawn leader maze table actual tobacco direct method describe process daring";

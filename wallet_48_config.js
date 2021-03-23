@@ -1,1 +1,1 @@
-var mnemonic = "allow market page code alpha earn budget banana lab damage supreme other";
+var mnemonic = "deliver silk glow census liquid strong squirrel market exotic skirt tent hobby";

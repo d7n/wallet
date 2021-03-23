@@ -1,1 +1,1 @@
-var mnemonic = "flavor robot toy tongue promote olive split harvest people rough frozen okay";
+var mnemonic = "kite main hand color useful nothing desert estate power torch canal circle";

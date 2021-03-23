@@ -1,1 +1,1 @@
-var mnemonic = "cousin nurse myself flip food margin ask combine toss argue indicate banana";
+var mnemonic = "bike goddess next cricket lunar media entire average motor crater library diary";

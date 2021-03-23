@@ -1,1 +1,1 @@
-var mnemonic = "limit seven frog left peasant spider armed liar lemon letter shoe debate";
+var mnemonic = "feed symbol brush holiday buyer scorpion sleep similar notice arctic better broom";

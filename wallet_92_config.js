@@ -1,1 +1,1 @@
-var mnemonic = "sure pretty unlock attitude wheat can envelope script acquire shrimp palm bonus";
+var mnemonic = "luggage range room ship taste piano bomb slim profit emotion marble simple";

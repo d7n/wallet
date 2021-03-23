@@ -1,1 +1,1 @@
-var mnemonic = "sound fold front now jaguar stable soldier share engage verify fox educate";
+var mnemonic = "denial seat safe start kiss fabric dawn target expire blossom timber lemon";

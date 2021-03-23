@@ -1,1 +1,1 @@
-var mnemonic = "cry able estate select repeat omit agent much merit wrestle violin friend";
+var mnemonic = "comfort kitten old awake educate relief lamp tube undo slush salmon eye";

@@ -1,1 +1,1 @@
-var mnemonic = "genius cabbage fly have bench million dynamic before foster recipe food sword";
+var mnemonic = "habit yellow member six pass egg bounce matrix brand marriage always orient";

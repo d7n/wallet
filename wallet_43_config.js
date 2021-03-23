@@ -1,1 +1,1 @@
-var mnemonic = "spatial enable burst ensure nothing satoshi cube bomb bike predict armor notable";
+var mnemonic = "transfer scheme stool suit ranch matter female twice town buyer intact glare";

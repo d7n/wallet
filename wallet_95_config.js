@@ -1,1 +1,1 @@
-var mnemonic = "any day wear state trim debris other virtual spend orbit own section";
+var mnemonic = "latin theme faith sell toss ivory catch trust index polar grid peanut";

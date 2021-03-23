@@ -1,1 +1,1 @@
-var mnemonic = "dragon coil wide mean steak relax inject course service better carpet half";
+var mnemonic = "lawsuit square ready exclude bulk absorb flat also oak venture cruel squeeze";

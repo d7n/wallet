@@ -1,1 +1,1 @@
-var mnemonic = "ancient damage end holiday reflect leave recall trophy address purity someone evidence";
+var mnemonic = "train bag match clever decade sketch neck card nephew arrive require observe";

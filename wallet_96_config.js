@@ -1,1 +1,1 @@
-var mnemonic = "double resist lunar control print write wait history expect eye space make";
+var mnemonic = "voice surprise maid carbon fish uncle bounce nephew inquiry enough envelope ranch";

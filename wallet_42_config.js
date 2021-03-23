@@ -1,1 +1,1 @@
-var mnemonic = "cruise tobacco sting corn cross clutch box cancel almost depend devote day";
+var mnemonic = "jelly vault scheme super exist kitten torch future where saddle author review";

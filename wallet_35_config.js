@@ -1,1 +1,1 @@
-var mnemonic = "liquid luxury common eager time blush stem elevator melody legend hip couch";
+var mnemonic = "spring runway relax order spike brother release first latin squirrel roast number";

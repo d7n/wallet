@@ -1,1 +1,1 @@
-var mnemonic = "priority parade human rookie awkward ignore circle cake mixture narrow silk force";
+var mnemonic = "purse silver into sweet swamp afraid clever bean unknown put crop cabin";

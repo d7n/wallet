@@ -1,1 +1,1 @@
-var mnemonic = "anxiety nose girl index over pole project topic rent citizen bless crane";
+var mnemonic = "blue bag deputy marriage decade amateur intact uncover hill resource region meat";

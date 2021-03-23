@@ -1,1 +1,1 @@
-var mnemonic = "adult pave craft diamond lend annual choose alpha purchase stuff earn shed";
+var mnemonic = "fatigue collect cluster swim allow buffalo divorce husband mix social gauge ride";

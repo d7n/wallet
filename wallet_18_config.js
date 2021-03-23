@@ -1,1 +1,1 @@
-var mnemonic = "stage outside inspire boy delay betray yard few ceiling anxiety round install";
+var mnemonic = "snow frequent lumber fatigue canal famous code tone couch follow drill expand";

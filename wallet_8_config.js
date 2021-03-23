@@ -1,1 +1,1 @@
-var mnemonic = "able ability monkey swift correct wedding come elevator cushion remember stove flower";
+var mnemonic = "wing dice figure leopard exile virus drink key conduct bamboo stand call";

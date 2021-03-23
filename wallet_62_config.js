@@ -1,1 +1,1 @@
-var mnemonic = "pulse bonus nest mountain saddle arrest potato tube patient discover slim wisdom";
+var mnemonic = "column rival risk explain palm genius valve sick upset ready tobacco dignity";

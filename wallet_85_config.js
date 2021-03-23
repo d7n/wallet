@@ -1,1 +1,1 @@
-var mnemonic = "dial lyrics tired refuse accuse ripple alarm code figure slice bike sand";
+var mnemonic = "normal pelican expose great decorate tone develop gravity odor access neutral sure";

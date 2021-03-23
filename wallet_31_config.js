@@ -1,1 +1,1 @@
-var mnemonic = "strategy swing turn monitor garage analyst soccer pass cover resource can execute";
+var mnemonic = "used turtle glow script fresh across biology try machine volcano ranch fever";

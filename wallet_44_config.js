@@ -1,1 +1,1 @@
-var mnemonic = "pilot home grant one unveil network salute stool space decorate attitude pottery";
+var mnemonic = "cycle city cave learn access glass yard circle wage middle used grace";

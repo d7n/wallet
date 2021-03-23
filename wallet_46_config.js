@@ -1,1 +1,1 @@
-var mnemonic = "turkey save forward scatter sport gallery december oppose design future melody steak";
+var mnemonic = "present youth debris capable unaware guilt invite minor demise veteran arm sport";

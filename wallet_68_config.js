@@ -1,1 +1,1 @@
-var mnemonic = "grow another barely inhale soda inflict demand black cover promote strong plug";
+var mnemonic = "luxury advance option save shrug body isolate shock hungry minute sorry peasant";

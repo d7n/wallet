@@ -1,1 +1,1 @@
-var mnemonic = "repair squirrel imitate solution corn reflect west vacant mix space addict detect";
+var mnemonic = "song casual extend step evolve detect match squirrel maze derive design version";

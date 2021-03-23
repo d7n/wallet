@@ -1,1 +1,1 @@
-var mnemonic = "bone math design region surface say orbit october boat response such board";
+var mnemonic = "oblige wise observe deal radio scene virus sword tuition combine gossip keen";

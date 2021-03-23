@@ -1,1 +1,1 @@
-var mnemonic = "owner pond excuse leaf bundle cluster color light few zoo square spare";
+var mnemonic = "destroy hundred jungle catch stick spread trigger flock spray job flight earth";

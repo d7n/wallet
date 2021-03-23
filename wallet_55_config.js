@@ -1,1 +1,1 @@
-var mnemonic = "unique multiply nut opera delay grab marble clip right review rather exchange";
+var mnemonic = "cushion grunt kingdom surface vacuum walnut winter joy skate nose pyramid end";

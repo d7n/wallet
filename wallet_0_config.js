@@ -1,1 +1,1 @@
-var mnemonic = "health fiction age alley memory talent chair borrow notable tilt beef athlete";
+var mnemonic = "stomach practice list industry sister evil property reject member enable hockey ivory";

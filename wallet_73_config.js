@@ -1,1 +1,1 @@
-var mnemonic = "spoon slice key canal theme talent muffin ritual hawk wagon feel victory";
+var mnemonic = "improve alpha random rival elegant arctic adapt various debris differ guilt story";

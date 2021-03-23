@@ -1,1 +1,1 @@
-var mnemonic = "fruit moon copper color maze tissue mechanic main squeeze wife infant asthma";
+var mnemonic = "hammer apart sauce input retreat enrich upper kangaroo detail oblige nose camera";

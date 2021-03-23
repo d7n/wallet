@@ -1,1 +1,1 @@
-var mnemonic = "short blouse scrap crucial area pyramid spike manual stove siege sustain buyer";
+var mnemonic = "defy monkey leader frown during raise step pride notice vehicle celery soda";

@@ -1,1 +1,1 @@
-var mnemonic = "burst fine motor process marine cereal brain reason sugar glass book sell";
+var mnemonic = "kingdom autumn extend move loop quality clinic depth harsh team sound since";

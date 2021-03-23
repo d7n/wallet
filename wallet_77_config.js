@@ -1,1 +1,1 @@
-var mnemonic = "zone parrot flower gauge quit damage mom also actor become middle silver";
+var mnemonic = "fortune expand share warm monitor screen faculty choice allow family usual soldier";

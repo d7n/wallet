@@ -1,1 +1,1 @@
-var mnemonic = "table symbol grain eyebrow february address permit mention point truth green situate";
+var mnemonic = "result grow victory analyst bind gun aware draft neither travel orchard tip";

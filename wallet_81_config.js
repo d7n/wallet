@@ -1,1 +1,1 @@
-var mnemonic = "again august minor ask tip invest tide escape eye swamp knock coconut";
+var mnemonic = "champion assault little pattern rescue beauty swallow position tattoo marriage medal logic";

@@ -1,1 +1,1 @@
-var mnemonic = "fine prefer match echo orbit animal melody ecology width lottery segment arrest";
+var mnemonic = "category economy always neglect member vehicle theme cement beach achieve stove pact";

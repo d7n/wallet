@@ -1,1 +1,1 @@
-var mnemonic = "trade throw forum feature certain quit idle term base thrive neck differ";
+var mnemonic = "federal will panda teach wise almost jewel judge stomach grant afraid candy";

@@ -1,1 +1,1 @@
-var mnemonic = "rich heart target clutch census emerge sample else hint flat spell swear";
+var mnemonic = "buzz range section ancient review giant ceiling any sense review oyster quick";

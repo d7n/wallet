@@ -1,1 +1,1 @@
-var mnemonic = "light human scatter stadium void girl predict clerk letter analyst immune ring";
+var mnemonic = "load wool valley convince merge chunk soul force shrimp april coil slow";

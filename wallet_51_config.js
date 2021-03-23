@@ -1,1 +1,1 @@
-var mnemonic = "decrease scatter spend pride sketch typical art region budget tragic adjust auto";
+var mnemonic = "gallery follow memory manage pencil exit tilt elder draw drive scissors hub";

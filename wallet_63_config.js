@@ -1,1 +1,1 @@
-var mnemonic = "february kangaroo knife shaft insect change card ahead culture nothing grow march";
+var mnemonic = "grab agree tip deer name tired festival very faint stem place rail";

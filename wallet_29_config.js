@@ -1,1 +1,1 @@
-var mnemonic = "source scale direct tonight law patient public agent kingdom knee arrange holiday";
+var mnemonic = "luxury scorpion rib one trial urge cruel gym head effort betray recipe";

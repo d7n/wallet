@@ -1,1 +1,1 @@
-var mnemonic = "angry outside simple pear have casino order extra metal midnight essay crunch";
+var mnemonic = "cake govern obey flee faint village knock limb stem reveal brisk entry";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict canal wisdom social nest good forget orange fit gown stem steak";
+var mnemonic = "pluck abuse flock impulse tattoo erase bunker curious example tunnel evidence clever";

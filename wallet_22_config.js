@@ -1,1 +1,1 @@
-var mnemonic = "anxiety alarm earn sort have axis frozen motion worth aspect laundry magic";
+var mnemonic = "toilet stove torch hold volcano soup grow lion frost roof aerobic shift";

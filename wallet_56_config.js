@@ -1,1 +1,1 @@
-var mnemonic = "cycle couple photo much city lock tell title able next auction drill";
+var mnemonic = "anger idle air fiction rain negative wink license citizen night salon hero";

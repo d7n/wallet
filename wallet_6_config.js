@@ -1,1 +1,1 @@
-var mnemonic = "poet shove lesson fold brick idea deliver panther repeat shell symptom warrior";
+var mnemonic = "leave nasty analyst hip envelope tuition announce teach penalty east shallow dizzy";

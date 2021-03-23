@@ -1,1 +1,1 @@
-var mnemonic = "else video cry paper coconut spy forward extend list inspire eye park";
+var mnemonic = "voice enrich skill much mansion window hazard frost laundry effort planet tower";

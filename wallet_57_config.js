@@ -1,1 +1,1 @@
-var mnemonic = "clown taxi lyrics lady dice draw success flash throw burden setup ladder";
+var mnemonic = "donate rib egg gap list true dove night sound day bless chef";

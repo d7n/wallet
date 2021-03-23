@@ -1,1 +1,1 @@
-var mnemonic = "glue resource property explain move utility small cheese time exit saddle sock";
+var mnemonic = "proof video figure razor banner damage legal matrix ancient silly tortoise midnight";

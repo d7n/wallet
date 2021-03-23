@@ -1,1 +1,1 @@
-var mnemonic = "funny follow gentle before saddle key story collect acoustic quantum chef news";
+var mnemonic = "vicious behind action whale click strong whip sure slab peace rookie cherry";

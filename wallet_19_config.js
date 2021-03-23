@@ -1,1 +1,1 @@
-var mnemonic = "people kingdom token treat capable payment can comfort thumb little tribe student";
+var mnemonic = "limb annual buddy kiwi congress please giggle rotate vacuum garage math elegant";

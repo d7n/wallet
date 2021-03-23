@@ -1,1 +1,1 @@
-var mnemonic = "front fall unable enforce hidden lizard shuffle brush special obtain jaguar spatial";
+var mnemonic = "sphere priority hotel there patch there divert ripple universe job fine wing";

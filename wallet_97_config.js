@@ -1,1 +1,1 @@
-var mnemonic = "casual climb hybrid angle rely angry soap jump erupt story safe already";
+var mnemonic = "distance inner slide that artwork artist topple able favorite fee language gown";

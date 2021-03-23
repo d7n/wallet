@@ -1,1 +1,1 @@
-var mnemonic = "move normal spoon deal have skate initial swallow wealth edge era step";
+var mnemonic = "pole head ankle dress time ladder three burst allow avoid addict size";

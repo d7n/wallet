@@ -1,1 +1,1 @@
-var mnemonic = "clay early couple easy prosper bronze require then connect post wave city";
+var mnemonic = "material dish bundle balcony better catch scan direct secret face actress level";

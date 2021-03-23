@@ -1,1 +1,1 @@
-var mnemonic = "height slush solve give put rent solid near brisk senior dream source";
+var mnemonic = "blossom relief harbor vapor genius jewel key slide output vote iron clean";

@@ -1,1 +1,1 @@
-var mnemonic = "identify bag topple define fly pyramid wool wealth veteran chase much time";
+var mnemonic = "letter invite science harbor connect code skin blush aim cash height tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "south dial hold page start robot suit slab couch prepare faint cash";
+var mnemonic = "shoot coach hill diet diamond more lobster intact nice throw awkward armed";

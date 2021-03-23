@@ -1,1 +1,1 @@
-var mnemonic = "almost rice robust arena blur hungry august comfort tell weasel love sign";
+var mnemonic = "deal near clerk title key peasant pepper vendor renew school shoe code";

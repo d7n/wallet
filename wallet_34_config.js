@@ -1,1 +1,1 @@
-var mnemonic = "enable obtain humble galaxy wonder pottery anger produce avoid tonight depart leisure";
+var mnemonic = "bean enforce client opera drama idle response color crash truth today picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy jar garlic upset north post team wear thrive sick tiger vessel";
+var mnemonic = "demise range worry orphan claim subject round ensure top oppose extend hurt";

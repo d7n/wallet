@@ -1,1 +1,1 @@
-var mnemonic = "size spawn address tennis anxiety predict roof dismiss gather pelican doll basket";
+var mnemonic = "goddess fantasy track hollow truck above zone worry uphold cruise permit solar";

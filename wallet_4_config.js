@@ -1,1 +1,1 @@
-var mnemonic = "deer book struggle salt goat earth tourist victory twist code merge few";
+var mnemonic = "leader push october use glide scrub lazy fold lion middle trip rigid";
