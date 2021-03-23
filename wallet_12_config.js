@@ -1,1 +1,1 @@
-var mnemonic = "speak hunt inherit program crane add radio tackle chuckle hint taxi axis";
+var mnemonic = "identify pond develop buzz raven armed marble original few long diagram trash";

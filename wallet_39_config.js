@@ -1,1 +1,1 @@
-var mnemonic = "law flavor walk idle coral easy enact black wrong rhythm property swift";
+var mnemonic = "shield bus blossom print innocent indicate trick expose august daughter mobile solar";

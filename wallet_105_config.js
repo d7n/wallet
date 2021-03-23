@@ -1,1 +1,1 @@
-var mnemonic = "spell year portion time pyramid spawn access bonus sea ritual better mountain";
+var mnemonic = "concert primary sure parent elbow super noodle special shaft caution jump foam";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk bike magic recipe country winner alarm stage what scrap decade guard";
+var mnemonic = "young garage damp nephew seed sail fitness you ticket lens velvet wood";

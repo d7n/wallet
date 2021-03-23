@@ -1,1 +1,1 @@
-var mnemonic = "bread result fluid name coach number december vibrant faith final gloom rib";
+var mnemonic = "girl abandon transfer intact melt gain romance south imitate travel dwarf cannon";

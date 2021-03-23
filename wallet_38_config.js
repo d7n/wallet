@@ -1,1 +1,1 @@
-var mnemonic = "corn bottom certain toe nice give lawsuit deal camp cupboard century subject";
+var mnemonic = "nice income crumble apology point humor curve crumble curtain bring employ segment";

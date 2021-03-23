@@ -1,1 +1,1 @@
-var mnemonic = "phrase often liquid strong legend steak run occur rent tuition shift own";
+var mnemonic = "small clip finish stomach original idea index gauge rude helmet because stove";

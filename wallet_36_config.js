@@ -1,1 +1,1 @@
-var mnemonic = "tongue idea tobacco pepper social fish industry harvest lab electric layer canvas";
+var mnemonic = "cannon salt almost scatter rapid tape frozen brother fox control online lemon";

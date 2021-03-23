@@ -1,1 +1,1 @@
-var mnemonic = "acid hen glare bench nurse puppy energy series donkey apart demand fantasy";
+var mnemonic = "vehicle banana sustain choice vacuum frog winner attack decorate orbit daring hen";

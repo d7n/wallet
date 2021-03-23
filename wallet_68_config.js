@@ -1,1 +1,1 @@
-var mnemonic = "fatigue include when illegal humble spoon tunnel pelican must artwork razor match";
+var mnemonic = "hello chat infant crane liar globe opera acid toy slush uphold draft";

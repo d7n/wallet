@@ -1,1 +1,1 @@
-var mnemonic = "scrub post library solar february mobile drastic moon drop call wing brown";
+var mnemonic = "draw curve slogan kingdom wood distance bike detect domain toast fine wrist";

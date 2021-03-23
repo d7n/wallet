@@ -1,1 +1,1 @@
-var mnemonic = "ahead pool three tuition drip tobacco call vicious position estate review rough";
+var mnemonic = "wrestle clerk assault chase rubber journey delay voyage drill gesture age glad";

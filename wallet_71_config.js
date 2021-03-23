@@ -1,1 +1,1 @@
-var mnemonic = "travel inch trash hint pass dawn room uniform seven virtual derive cabbage";
+var mnemonic = "away book chair transfer hint flock ranch cable mushroom filter secret ability";

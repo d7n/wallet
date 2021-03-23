@@ -1,1 +1,1 @@
-var mnemonic = "join miracle below ribbon pistol boost fetch answer tattoo wear quiz boss";
+var mnemonic = "venue mushroom hair cargo flavor sketch peanut fiction disagree image myself broken";

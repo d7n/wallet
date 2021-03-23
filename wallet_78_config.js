@@ -1,1 +1,1 @@
-var mnemonic = "fox drift wasp detect sense lake rubber ring paddle crazy audit immense";
+var mnemonic = "burger kidney vapor program popular trick tuna riot borrow nature buddy horror";

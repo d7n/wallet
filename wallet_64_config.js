@@ -1,1 +1,1 @@
-var mnemonic = "pottery time return blur repair memory start undo table hat fury era";
+var mnemonic = "cave skin route shiver brick panda donkey anchor fabric card quarter heart";

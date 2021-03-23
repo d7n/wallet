@@ -1,1 +1,1 @@
-var mnemonic = "reduce return receive pill motion august fox dilemma such type immune insane";
+var mnemonic = "must normal battle odor indicate leaf supply fog couple give army riot";

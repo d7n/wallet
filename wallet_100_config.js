@@ -1,1 +1,1 @@
-var mnemonic = "mule van fee rhythm cricket later shell ocean learn spend render siren";
+var mnemonic = "inquiry buddy height special cheese ritual salon whip thrive injury onion enhance";

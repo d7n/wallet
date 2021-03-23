@@ -1,1 +1,1 @@
-var mnemonic = "current flush road odor devote vanish card feature hurt ethics safe toe";
+var mnemonic = "subway swarm pet gasp grain face eye mixture basic finger apology raw";

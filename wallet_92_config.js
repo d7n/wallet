@@ -1,1 +1,1 @@
-var mnemonic = "flavor bag false differ shadow always teach gospel transfer explain onion bring";
+var mnemonic = "clean select cancel install silver today pyramid smile project adult toddler knock";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile output nest poet task click fluid pigeon stool symptom skin heart";
+var mnemonic = "drink boy reject sun clerk clock crash hole bleak monkey juice range";

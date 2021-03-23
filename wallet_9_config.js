@@ -1,1 +1,1 @@
-var mnemonic = "tube narrow cinnamon corn wedding round absurd estate neglect problem canoe convince";
+var mnemonic = "tiny monkey bottom squeeze horn depart art ribbon develop night relax opera";

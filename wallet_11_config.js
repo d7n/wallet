@@ -1,1 +1,1 @@
-var mnemonic = "begin relief replace universe round essence hip harvest trash rigid pepper egg";
+var mnemonic = "rose anger credit hand beef eyebrow artwork axis urge cat wave sad";

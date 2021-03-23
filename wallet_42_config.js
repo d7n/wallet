@@ -1,1 +1,1 @@
-var mnemonic = "rebuild cube gown embrace team resist fever ranch palm luggage thing afford";
+var mnemonic = "harvest hollow task owner happy distance orphan rifle payment weasel bonus public";

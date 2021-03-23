@@ -1,1 +1,1 @@
-var mnemonic = "drink trend caution dirt galaxy invest tent girl chapter catch poet squirrel";
+var mnemonic = "crime answer tired charge resist desert tuna defense verb success edge around";

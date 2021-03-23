@@ -1,1 +1,1 @@
-var mnemonic = "virtual run enact radar shoulder river trip entire ride judge endless senior";
+var mnemonic = "guilt thunder era rival joke aerobic blouse blind knee gather suspect much";

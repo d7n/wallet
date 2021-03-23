@@ -1,1 +1,1 @@
-var mnemonic = "discover lion crumble picnic unfold exile blame gravity swear lava gain laundry";
+var mnemonic = "cube doll test purchase honey same afraid canyon kiwi carbon wreck perfect";

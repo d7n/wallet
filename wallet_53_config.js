@@ -1,1 +1,1 @@
-var mnemonic = "boy exhaust faith gym model panic surface balance young dolphin goose ball";
+var mnemonic = "injury much autumn camera actress light grab rate tray shop deposit fetch";

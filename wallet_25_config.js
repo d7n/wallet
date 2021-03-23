@@ -1,1 +1,1 @@
-var mnemonic = "black coil slush skate galaxy move grocery echo tired crouch stable gaze";
+var mnemonic = "nice pole begin entry penalty harvest position few flag sudden pet merge";

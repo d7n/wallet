@@ -1,1 +1,1 @@
-var mnemonic = "fly lava exotic either lesson marble donor state nerve agent ivory praise";
+var mnemonic = "panda void sword pride seat stem maximum strategy acid hour into base";

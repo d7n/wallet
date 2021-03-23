@@ -1,1 +1,1 @@
-var mnemonic = "floor fabric comic jazz success industry humble eagle soon table huge strategy";
+var mnemonic = "runway crowd bitter music mobile exclude deputy shuffle ill heart gap arm";

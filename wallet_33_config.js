@@ -1,1 +1,1 @@
-var mnemonic = "dismiss rack dove asthma black issue fresh portion jungle unhappy car sunny";
+var mnemonic = "plug diesel stomach congress act mammal video clog circle rely voyage friend";

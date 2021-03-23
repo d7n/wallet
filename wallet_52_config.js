@@ -1,1 +1,1 @@
-var mnemonic = "permit leave across mention present script nation heavy valid ripple guilt pulp";
+var mnemonic = "benefit conduct amount shrimp before group sea move shy false metal fatal";

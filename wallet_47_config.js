@@ -1,1 +1,1 @@
-var mnemonic = "shell divert act target lesson inherit dutch giggle board flavor kiwi absorb";
+var mnemonic = "cruise company office laptop cradle expand obey raccoon call outdoor fabric buyer";

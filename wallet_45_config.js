@@ -1,1 +1,1 @@
-var mnemonic = "knock clean vendor actress tank magnet grit number fever weather crucial sudden";
+var mnemonic = "sniff another grunt satisfy taxi envelope ritual next potato page airport salute";

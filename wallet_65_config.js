@@ -1,1 +1,1 @@
-var mnemonic = "panel will puppy idle music can mutual tissue alter movie doctor lady";
+var mnemonic = "very blood paddle you biology always velvet horror income cinnamon opinion quiz";

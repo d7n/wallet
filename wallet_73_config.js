@@ -1,1 +1,1 @@
-var mnemonic = "main upgrade camp marble such video drink miracle various point bench defense";
+var mnemonic = "daughter dizzy bottom toddler cause insect shove tray volcano path barely endless";

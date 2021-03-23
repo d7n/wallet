@@ -1,1 +1,1 @@
-var mnemonic = "history fame afraid assume connect rural tennis monkey voyage wet explain exit";
+var mnemonic = "cost upgrade combine acid tomato settle simple bridge entry first reopen tone";

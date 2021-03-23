@@ -1,1 +1,1 @@
-var mnemonic = "access gentle chunk cancel group device lazy federal long high chuckle interest";
+var mnemonic = "protect bullet goose cost chalk today comfort fish deputy timber ramp scene";

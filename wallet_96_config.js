@@ -1,1 +1,1 @@
-var mnemonic = "frost fluid six juice giggle library monster language animal hammer water liquid";
+var mnemonic = "double ridge ethics advance breeze version virus chunk defy tourist patrol nice";

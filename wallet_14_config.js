@@ -1,1 +1,1 @@
-var mnemonic = "process bubble step team deposit debate expect smile dose trade female expose";
+var mnemonic = "inside million saddle galaxy area ski quarter chief absorb unfair differ matter";

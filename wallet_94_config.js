@@ -1,1 +1,1 @@
-var mnemonic = "test argue light engage lizard metal inspire same tragic shrimp tone erode";
+var mnemonic = "crumble bike wink inside visa retreat space sign marble shoot arctic expand";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz rely prize crater curtain enjoy purse detail eyebrow include ability swarm";
+var mnemonic = "blue neutral gain sport outdoor outdoor boat rose update unique transfer become";

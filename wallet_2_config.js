@@ -1,1 +1,1 @@
-var mnemonic = "radar make kick table finger flip vague eight great nerve spare duck";
+var mnemonic = "aim pigeon okay deny dirt pill phone lumber silly word rally library";

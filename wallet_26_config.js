@@ -1,1 +1,1 @@
-var mnemonic = "answer inmate eyebrow file electric charge era table path board thought skirt";
+var mnemonic = "spoil cupboard pelican picnic only glass journey powder wisdom soul forum album";

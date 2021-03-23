@@ -1,1 +1,1 @@
-var mnemonic = "faith skin wisdom sunset wink sample town cake rally juice team logic";
+var mnemonic = "link sun arrest disagree cloud device network model dinner jungle image anger";

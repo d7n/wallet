@@ -1,1 +1,1 @@
-var mnemonic = "unit girl author result escape pole unveil protect limit spare plunge blast";
+var mnemonic = "tribe item goddess high marble start borrow brand theory pulp gown fit";

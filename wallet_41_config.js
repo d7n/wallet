@@ -1,1 +1,1 @@
-var mnemonic = "under quit print include tell zero acoustic you stable service staff ball";
+var mnemonic = "exchange radio search step taste improve parrot slot extend guilt shop vibrant";

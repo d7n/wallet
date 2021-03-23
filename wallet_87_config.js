@@ -1,1 +1,1 @@
-var mnemonic = "ozone barely jealous together rescue medal else measure sea exit draft remind";
+var mnemonic = "furnace urban obscure upgrade jeans company kingdom angry shrimp gown gospel observe";

@@ -1,1 +1,1 @@
-var mnemonic = "increase enroll afraid chief face chapter rabbit oil evil cannon swing carry";
+var mnemonic = "furnace artwork coin tackle worry swing yellow trade hip animal layer text";

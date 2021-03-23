@@ -1,1 +1,1 @@
-var mnemonic = "mobile ticket soldier page miracle talent shiver duty yellow parent define victory";
+var mnemonic = "ordinary jeans rail taxi waste inch rare wing pumpkin save unit tennis";

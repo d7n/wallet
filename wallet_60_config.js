@@ -1,1 +1,1 @@
-var mnemonic = "adapt patrol mobile enforce toss attend critic bean plastic valve bulk clean";
+var mnemonic = "creek lemon rigid proud language where rail grit comic finish rough car";

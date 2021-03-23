@@ -1,1 +1,1 @@
-var mnemonic = "emerge before anxiety spread abandon rice reunion suit pear capable force castle";
+var mnemonic = "afford wish palace kitchen sheriff into faculty dice deputy because hungry onion";

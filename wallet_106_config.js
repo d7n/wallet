@@ -1,1 +1,1 @@
-var mnemonic = "father chair excess casino damp problem obtain motor tag unlock uphold elder";
+var mnemonic = "frequent under escape useless worth piece airport there skull genius acid awesome";

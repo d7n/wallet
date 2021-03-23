@@ -1,1 +1,1 @@
-var mnemonic = "gift clean shaft bunker timber sauce govern moment salmon account suspect depth";
+var mnemonic = "phone unusual naive foot useless bird shove autumn where remain impose robot";

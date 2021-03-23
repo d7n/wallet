@@ -1,1 +1,1 @@
-var mnemonic = "shoe mystery shift grape beach still dutch they dad print clap near";
+var mnemonic = "faculty tide fortune robust ball decade cloth victory banner govern truly oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "embody problem solution melody tornado fossil admit cream swear enlist cram moon";
+var mnemonic = "coffee mesh lock elevator gas quantum pottery impose foster often permit extend";

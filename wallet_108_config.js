@@ -1,1 +1,1 @@
-var mnemonic = "ladder frozen become oppose absurd enter company faint blue legal portion stool";
+var mnemonic = "hat derive wool siren until tortoise employ pudding noble copper frost hip";

@@ -1,1 +1,1 @@
-var mnemonic = "volume melody kitten oven biology neutral detail bulk now summer exist awkward";
+var mnemonic = "remove rack account service false also wise outdoor rally inner anchor reject";

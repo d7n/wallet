@@ -1,1 +1,1 @@
-var mnemonic = "afford soul battle soap mother drink tube notable lumber bone snake phone";
+var mnemonic = "trophy found bless scout goose mind melody desert horror harsh seat travel";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean all bag lend actor wine man proof what board width install";
+var mnemonic = "bulb tunnel other pioneer length blame casual path dog neutral slight arrive";

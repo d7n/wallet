@@ -1,1 +1,1 @@
-var mnemonic = "fix struggle enough man lava hundred hybrid rain more opinion thunder antique";
+var mnemonic = "throw sell news detect rain option cycle swing soup near stem settle";

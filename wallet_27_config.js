@@ -1,1 +1,1 @@
-var mnemonic = "spray proud milk copper gas actual glide stick level mean way increase";
+var mnemonic = "hurdle output jelly hip abandon inherit neutral outdoor badge afraid purse push";

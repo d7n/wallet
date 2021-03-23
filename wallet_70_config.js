@@ -1,1 +1,1 @@
-var mnemonic = "arrest vicious grunt number shed lesson misery culture mushroom husband parade item";
+var mnemonic = "resist burst document pride push symbol desk fence attack open rabbit nation";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost witness scatter denial lawsuit earn day pattern act sail awesome hour";
+var mnemonic = "nest sad object damage devote trash left alley little puzzle melody head";

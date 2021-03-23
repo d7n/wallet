@@ -1,1 +1,1 @@
-var mnemonic = "trust dry pipe peasant science chair educate cross poverty bargain clap jump";
+var mnemonic = "either assist tumble loud ivory day middle bike gasp whisper suffer juice";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder execute art rocket plastic mango invite spice brain hollow street lion";
+var mnemonic = "useful sudden inquiry normal bargain expire interest dune chief salt balcony damage";

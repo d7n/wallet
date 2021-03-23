@@ -1,1 +1,1 @@
-var mnemonic = "skill sure foster rain mean blade eye whisper lava honey blood shine";
+var mnemonic = "relief crack south arrive lottery sound patch clay cannon frog mechanic town";

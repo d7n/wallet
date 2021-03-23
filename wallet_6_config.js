@@ -1,1 +1,1 @@
-var mnemonic = "sunset cupboard audit path steak disorder dinosaur guilt soul country match man";
+var mnemonic = "south depend market bunker thought admit snow rule prefer okay crater indicate";

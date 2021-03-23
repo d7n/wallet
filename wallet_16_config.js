@@ -1,1 +1,1 @@
-var mnemonic = "eight hockey excuse unit lend initial city pulse tool leopard clerk plastic";
+var mnemonic = "lizard moment mad fury able hill young misery wave jealous language prosper";

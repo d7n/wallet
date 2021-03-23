@@ -1,1 +1,1 @@
-var mnemonic = "artist nurse tomato brand wall melody drive material jar skate tribe embrace";
+var mnemonic = "chaos spawn citizen random double custom often neither tongue repeat stone shock";

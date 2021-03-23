@@ -1,1 +1,1 @@
-var mnemonic = "plunge exit coast inch aerobic coin discover disagree help gorilla prosper similar";
+var mnemonic = "tail session ill news female crane cricket kid error sadness replace leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "shine marble focus else neither ride surround about east pig party soccer";
+var mnemonic = "pole coast raw rookie today wood lounge mouse shift option stem dash";

@@ -1,1 +1,1 @@
-var mnemonic = "execute loan spice foot foam figure snow install miracle fault maid violin";
+var mnemonic = "spirit stool noble version fiscal grit assist divorce genre sweet reform panic";

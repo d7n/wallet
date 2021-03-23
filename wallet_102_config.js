@@ -1,1 +1,1 @@
-var mnemonic = "chalk cruel mail must oak obvious ability jaguar planet employ enhance artwork";
+var mnemonic = "spare glove utility climb plunge canyon risk absent razor mesh shaft casino";

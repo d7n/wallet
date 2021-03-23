@@ -1,1 +1,1 @@
-var mnemonic = "domain until shock parrot more random guess dynamic traffic hamster acquire doctor";
+var mnemonic = "insane remain client truck always ridge piano coconut illegal six kite road";

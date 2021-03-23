@@ -1,1 +1,1 @@
-var mnemonic = "frown cloud slim helmet much horn end ugly pottery deputy mandate habit";
+var mnemonic = "miracle make wife target wave talk museum target hover artwork early smoke";

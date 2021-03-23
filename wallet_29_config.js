@@ -1,1 +1,1 @@
-var mnemonic = "denial leave current decade original win cheap embrace slam cheap embark north";
+var mnemonic = "island buffalo siege current avocado grab soccer endless library reform acid nephew";

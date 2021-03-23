@@ -1,1 +1,1 @@
-var mnemonic = "space fault toddler hungry grunt fire settle patrol retire thank hard cover";
+var mnemonic = "sad alert drill please option palm tortoise myself fine regular shine curve";

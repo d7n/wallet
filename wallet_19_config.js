@@ -1,1 +1,1 @@
-var mnemonic = "quality citizen velvet priority excuse diet oppose hen climb diet own smart";
+var mnemonic = "chapter nut system disagree cannon heavy wink cable wool stairs message fatal";

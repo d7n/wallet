@@ -1,1 +1,1 @@
-var mnemonic = "frozen where any calm smoke noise calm place solar vault region grass";
+var mnemonic = "rely need retreat usage bundle win busy radio shiver crazy like exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue father blood idea scorpion enrich disease payment afford crop unveil movie";
+var mnemonic = "surge ankle salmon prefer card squeeze pact reunion pill patch item cruel";

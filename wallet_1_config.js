@@ -1,1 +1,1 @@
-var mnemonic = "asthma indicate much lyrics amount name real sunset dragon embark lonely goose";
+var mnemonic = "dry ritual measure practice spell crew west pyramid thumb deliver winter veteran";

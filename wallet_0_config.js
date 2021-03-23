@@ -1,1 +1,1 @@
-var mnemonic = "destroy initial tip rifle reason six invite theory hobby vivid marble document";
+var mnemonic = "sock earn hand add sick vicious vibrant uncover lunch pause popular birth";

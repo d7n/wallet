@@ -1,1 +1,1 @@
-var mnemonic = "borrow real spirit hint stereo awkward found foil soap soap logic mouse";
+var mnemonic = "cluster cup solve shoe good stand blossom wash wrist save equip carbon";

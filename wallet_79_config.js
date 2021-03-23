@@ -1,1 +1,1 @@
-var mnemonic = "fork bridge matrix episode initial oppose letter few expand diagram join doctor";
+var mnemonic = "health need isolate evolve arrive cube fringe broken illness float bridge human";

@@ -1,1 +1,1 @@
-var mnemonic = "note cute occur ship recycle rail quarter seek symptom vague record wall";
+var mnemonic = "captain combine snack devote heavy rabbit pulp else error manual table popular";

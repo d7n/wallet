@@ -1,1 +1,1 @@
-var mnemonic = "raw news output wet vital hood dinner material cat replace october pudding";
+var mnemonic = "punch arm mad addict initial organ tornado table provide foster sun monster";

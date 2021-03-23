@@ -1,1 +1,1 @@
-var mnemonic = "dismiss butter daughter country modify maple ankle warfare dumb into arrow neutral";
+var mnemonic = "tattoo parade episode there net match ship obscure shoe ghost margin acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "duck slow leave ability pupil increase sweet supply sample afraid immune actor";
+var mnemonic = "clock potato thank expire kidney maze nephew trick truly vault vacant false";

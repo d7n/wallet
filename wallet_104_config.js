@@ -1,1 +1,1 @@
-var mnemonic = "winter only patient orange kit nation total purchase crouch leave add tiger";
+var mnemonic = "fiscal rebel rough mouse nerve nice shaft hire convince expire expand digital";

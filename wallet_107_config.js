@@ -1,1 +1,1 @@
-var mnemonic = "inform jacket cradle wagon panther evoke north device depth enroll that ladder";
+var mnemonic = "arrest toe travel blush patrol stone next remove group toddler tongue net";

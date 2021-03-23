@@ -1,1 +1,1 @@
-var mnemonic = "wagon fortune seminar snake awful verb model dismiss jealous upgrade bus name";
+var mnemonic = "labor inhale polar educate brush body head patrol just about rent body";

@@ -1,1 +1,1 @@
-var mnemonic = "draw mesh hole lumber indoor admit decide picnic inform accuse fix tortoise";
+var mnemonic = "half clip eye actor mass inspire glide witness broccoli hospital cradle zero";

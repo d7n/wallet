@@ -1,1 +1,1 @@
-var mnemonic = "sing ostrich favorite furnace nest purchase ability spare purchase daring lesson amused";
+var mnemonic = "year flip risk scissors pudding food select dial initial sphere decline boss";
