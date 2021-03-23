@@ -1,1 +1,1 @@
-var mnemonic = "goddess embrace letter size beyond burden cause attract own youth reward hobby";
+var mnemonic = "hood stock bleak found acquire radio creek setup ride still equal decorate";

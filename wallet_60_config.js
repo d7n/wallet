@@ -1,1 +1,1 @@
-var mnemonic = "address spare flash pitch cave coral once stove expire until decide army";
+var mnemonic = "powder lend genuine chunk half school square once apart chase normal permit";

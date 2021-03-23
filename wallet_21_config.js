@@ -1,1 +1,1 @@
-var mnemonic = "letter win drive slight limb thunder brush teach soon mushroom weird snack";
+var mnemonic = "settle rack medal lazy fork manual armed trumpet example aim stairs confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "tail artist pilot maximum treat easy raise chief wood island prize tornado";
+var mnemonic = "anchor gentle pig basket zoo eye tortoise dwarf sketch scorpion regret stand";

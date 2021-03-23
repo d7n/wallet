@@ -1,1 +1,1 @@
-var mnemonic = "cattle finish strategy luxury very tone honey spirit walnut away table now";
+var mnemonic = "web horn large adjust disagree mutual brief mirror maze cabin subject portion";

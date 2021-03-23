@@ -1,1 +1,1 @@
-var mnemonic = "secret seed pattern call luxury clip quiz angry blind tree arrange name";
+var mnemonic = "piano emotion report identify puppy fantasy end fragile express street sight gallery";

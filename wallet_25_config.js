@@ -1,1 +1,1 @@
-var mnemonic = "bridge lake task hundred popular detail fetch portion accident nut canoe hotel";
+var mnemonic = "stick uphold shrimp major bubble alone gospel immense horse coast proud bicycle";

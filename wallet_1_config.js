@@ -1,1 +1,1 @@
-var mnemonic = "tourist leave shadow alter giant demand mystery scheme endorse appear riot rookie";
+var mnemonic = "forum want above magic alley salmon elite bachelor nerve language memory remain";

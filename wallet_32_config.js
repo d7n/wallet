@@ -1,1 +1,1 @@
-var mnemonic = "harvest plug equal vast choose market frequent venue evil guess hobby south";
+var mnemonic = "immense walnut profit wild monitor trick corn mad direct history mirror monkey";

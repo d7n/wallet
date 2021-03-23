@@ -1,1 +1,1 @@
-var mnemonic = "repair settle wagon nephew deputy medal face crane track devote tilt title";
+var mnemonic = "pull pencil double liberty home clown priority alcohol hedgehog mom pair vague";

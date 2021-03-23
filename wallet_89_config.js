@@ -1,1 +1,1 @@
-var mnemonic = "other love stadium banana pupil deposit potato dragon panther bridge exist room";
+var mnemonic = "garment shop expect hello mobile fortune heart million mom boost popular vital";

@@ -1,1 +1,1 @@
-var mnemonic = "pause topic stool acquire melt utility all test pave infant dice abstract";
+var mnemonic = "food book shrimp lounge search enroll depth social under spoil robot culture";

@@ -1,1 +1,1 @@
-var mnemonic = "observe tone wild script remind bicycle ozone ritual arctic kite critic blur";
+var mnemonic = "picnic reduce pact merry divide lizard decrease answer security citizen ready right";

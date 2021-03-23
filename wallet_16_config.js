@@ -1,1 +1,1 @@
-var mnemonic = "depart egg used transfer dial census actress spend describe ranch review uncover";
+var mnemonic = "other voyage pause gas calm huge loyal attitude goose alley decline street";

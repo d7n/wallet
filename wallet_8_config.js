@@ -1,1 +1,1 @@
-var mnemonic = "spider vocal sweet list comic gold before veteran shed calm toy fortune";
+var mnemonic = "shiver tennis subject guilt evolve tobacco awful lonely wreck bronze drop identify";

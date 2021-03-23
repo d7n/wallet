@@ -1,1 +1,1 @@
-var mnemonic = "stand stairs online hope easy vendor uniform canal clap style diagram enemy";
+var mnemonic = "camp hockey kiwi sound opinion recall damage oven brain alpha chunk discover";

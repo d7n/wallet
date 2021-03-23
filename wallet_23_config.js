@@ -1,1 +1,1 @@
-var mnemonic = "language call remain surge coil always sure expire silly deal worry crouch";
+var mnemonic = "chef neglect outer venue excuse infant olympic nerve exhibit rigid hill enhance";

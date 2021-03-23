@@ -1,1 +1,1 @@
-var mnemonic = "review clay organ rural nose wall vast rocket birth usual kite awful";
+var mnemonic = "sustain winner sword item transfer between soap embody beef fee right net";

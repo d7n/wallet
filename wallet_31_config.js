@@ -1,1 +1,1 @@
-var mnemonic = "good flag apology cereal able differ choice rubber illegal burger lunch opinion";
+var mnemonic = "regret denial banana code human real garment aerobic stove level split dog";

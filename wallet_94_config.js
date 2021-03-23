@@ -1,1 +1,1 @@
-var mnemonic = "coil deal fever decide speak disease auto say photo clever entry hello";
+var mnemonic = "rely enter suggest embody melody potato reject question glow reflect muffin blue";

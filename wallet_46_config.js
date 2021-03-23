@@ -1,1 +1,1 @@
-var mnemonic = "payment miracle year dignity scene enhance ancient obvious middle quantum sample refuse";
+var mnemonic = "bundle page amazing timber gentle special build evolve debate april huge special";

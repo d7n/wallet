@@ -1,1 +1,1 @@
-var mnemonic = "announce pipe trouble sign cannon you fame public tortoise lift deal urge";
+var mnemonic = "idea useful rough piano boil play slim broom have olympic obey link";

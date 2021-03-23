@@ -1,1 +1,1 @@
-var mnemonic = "organ ability begin frozen neglect utility miss conduct seat dismiss mirror oak";
+var mnemonic = "field exhaust high blush spread fly worth series clog chapter chief sad";

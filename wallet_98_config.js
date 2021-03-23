@@ -1,1 +1,1 @@
-var mnemonic = "churn disease caution pumpkin gun maximum notable deposit crew debris lawn hill";
+var mnemonic = "blossom quick shed fitness curve book idea slab cargo tumble fashion disagree";

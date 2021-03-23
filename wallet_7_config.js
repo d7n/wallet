@@ -1,1 +1,1 @@
-var mnemonic = "foot sibling sign bacon black rhythm sadness sand grief mind orange zoo";
+var mnemonic = "cable aerobic decade runway mobile thought client awake upset jewel kiwi cream";

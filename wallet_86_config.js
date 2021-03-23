@@ -1,1 +1,1 @@
-var mnemonic = "earth dash winter year pole lake jewel during disease sustain more vivid";
+var mnemonic = "allow ready remind invest cat they rough engage bus virtual odor glimpse";

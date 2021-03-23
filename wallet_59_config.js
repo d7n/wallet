@@ -1,1 +1,1 @@
-var mnemonic = "live crash foil suffer daughter harvest cinnamon economy lumber engage jewel athlete";
+var mnemonic = "thought fun item lecture shoulder inquiry swap damp ethics heavy fantasy letter";

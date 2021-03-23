@@ -1,1 +1,1 @@
-var mnemonic = "truly best champion bread exhaust ceiling sponsor cruel type cook summer bird";
+var mnemonic = "recycle awesome memory door chaos they near voyage change convince divorce crash";

@@ -1,1 +1,1 @@
-var mnemonic = "relief crunch celery warm orbit disagree deputy strategy off flower bike piano";
+var mnemonic = "junk decorate blur excite timber core diary snow skull bless tired match";

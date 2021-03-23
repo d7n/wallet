@@ -1,1 +1,1 @@
-var mnemonic = "item virtual ball still prepare coach priority turtle version doll lunar category";
+var mnemonic = "van toy false peace leg age print horror surge excuse clean endless";

@@ -1,1 +1,1 @@
-var mnemonic = "become swallow deny grief parade slot spring park before mercy together okay";
+var mnemonic = "slam rude tornado venture artefact wage beauty around brisk extend interest soap";

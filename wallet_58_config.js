@@ -1,1 +1,1 @@
-var mnemonic = "pony proof machine usage remind island case evoke alpha begin security common";
+var mnemonic = "there uniform fog girl happy once anchor million outside lyrics much initial";

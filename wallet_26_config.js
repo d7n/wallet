@@ -1,1 +1,1 @@
-var mnemonic = "task lens indicate monster monitor purse merit plate giraffe search choice cream";
+var mnemonic = "winter thank document smile another layer size they swamp bless suggest ignore";

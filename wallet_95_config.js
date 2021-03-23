@@ -1,1 +1,1 @@
-var mnemonic = "skull dice allow mad frozen also dog this barrel foster lawn glue";
+var mnemonic = "gift direct skirt script knee taxi maximum uphold coral toss version still";

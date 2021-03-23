@@ -1,1 +1,1 @@
-var mnemonic = "sudden soul road fluid obvious stable quit benefit element squeeze faith excess";
+var mnemonic = "theory throw swift small insane wedding stove access damage ride grit risk";

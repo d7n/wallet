@@ -1,1 +1,1 @@
-var mnemonic = "also worth glare symptom text senior modify fatal analyst million lazy barely";
+var mnemonic = "sugar minor medal print wing wave hub use badge list guess life";

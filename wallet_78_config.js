@@ -1,1 +1,1 @@
-var mnemonic = "vanish ensure trophy harsh exclude wish hammer border job hover vibrant blind";
+var mnemonic = "tribe muscle connect craft choice gauge degree admit pink suit transfer december";

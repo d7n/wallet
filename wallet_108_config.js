@@ -1,1 +1,1 @@
-var mnemonic = "universe sad cause ticket vintage level system retire educate library solar cook";
+var mnemonic = "fortune vital paper problem helmet domain tired tomato tower cash genius carry";

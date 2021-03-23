@@ -1,1 +1,1 @@
-var mnemonic = "capable tank zero elevator humble episode task celery resource vocal bean possible";
+var mnemonic = "deposit doctor soldier report wreck leaf fade parrot tell grab use satoshi";

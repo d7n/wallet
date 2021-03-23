@@ -1,1 +1,1 @@
-var mnemonic = "echo remember current exact novel expose apology lamp slide loyal struggle such";
+var mnemonic = "explain remember caution sunny giraffe comfort poverty quality rhythm coyote enable razor";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy harvest rocket round want laptop elephant shoot rifle mesh verb improve";
+var mnemonic = "draw filter century more neglect dial nature cave satisfy indicate essence royal";

@@ -1,1 +1,1 @@
-var mnemonic = "town bird shine shoulder floor issue abuse meat mystery monkey scrap honey";
+var mnemonic = "clean advice dinner discover surround borrow raven celery reject surface nation attract";

@@ -1,1 +1,1 @@
-var mnemonic = "hint wine force obscure labor diary cup session limit crawl bone potato";
+var mnemonic = "vacuum bamboo inhale mirror devote middle sail purse absorb visual true empty";

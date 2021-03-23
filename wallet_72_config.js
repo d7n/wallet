@@ -1,1 +1,1 @@
-var mnemonic = "nephew blood weird remove jungle void dust loyal sphere ice sense limit";
+var mnemonic = "debate primary pig guitar broccoli what tilt manage paddle wide claw hat";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan body notice topic piano broken patient reform anxiety core bonus bless";
+var mnemonic = "cool pride curtain arch lounge exhaust memory soft asset charge spoon sword";

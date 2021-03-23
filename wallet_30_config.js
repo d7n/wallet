@@ -1,1 +1,1 @@
-var mnemonic = "bonus misery office clarify thing turtle lecture whip horn shiver pencil gun";
+var mnemonic = "total eight virtual chapter amount flush night hero elegant tiger zebra erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise fatigue ready nurse garment catch enemy harbor census desert jungle sauce";
+var mnemonic = "output special crater lend chat sphere property mechanic right around frog loud";

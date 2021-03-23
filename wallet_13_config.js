@@ -1,1 +1,1 @@
-var mnemonic = "misery lion pulse school arch arrow exact surprise powder perfect among congress";
+var mnemonic = "refuse skin dynamic like woman prosper dilemma oak soldier gas put cousin";

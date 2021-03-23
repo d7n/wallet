@@ -1,1 +1,1 @@
-var mnemonic = "reward cluster aware soldier cross core dragon hurdle hello twin win letter";
+var mnemonic = "crew ready torch industry allow exist fog seek illegal dentist wing health";

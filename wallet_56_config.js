@@ -1,1 +1,1 @@
-var mnemonic = "crush rural term theory inflict inject enact burger sock must siege elevator";
+var mnemonic = "veteran treat away fault daughter idle ginger sponsor illegal hybrid attitude judge";

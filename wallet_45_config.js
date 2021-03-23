@@ -1,1 +1,1 @@
-var mnemonic = "smart rifle bicycle tumble rose deputy tissue churn allow spider team glance";
+var mnemonic = "bridge vicious wave squeeze evolve dentist gossip wasp soft until valley odor";

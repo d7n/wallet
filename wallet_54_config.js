@@ -1,1 +1,1 @@
-var mnemonic = "random admit occur sense industry birth unknown parrot myth shrug interest nerve";
+var mnemonic = "birth south youth army drink clog virus angle fan afraid devote theory";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow jaguar goat kite picture rotate message raven trophy catalog noodle bicycle";
+var mnemonic = "antique lobster cupboard consider milk frog enhance dance effort discover balance absent";

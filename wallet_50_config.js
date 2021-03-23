@@ -1,1 +1,1 @@
-var mnemonic = "venture verify crystal height nut excess wife foil light flush number insect";
+var mnemonic = "vocal spend turtle eagle weather disagree sniff odor switch vivid rude reject";

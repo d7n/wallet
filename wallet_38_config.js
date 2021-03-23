@@ -1,1 +1,1 @@
-var mnemonic = "sadness scheme spell parent control length surface aim bunker warrior remove hover";
+var mnemonic = "rocket know derive security sample sphere blame nuclear science armed million crucial";

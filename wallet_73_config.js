@@ -1,1 +1,1 @@
-var mnemonic = "need salon elephant silver field smoke purity gap royal protect faculty beef";
+var mnemonic = "title food peanut name ask position lazy frequent vocal food lens code";

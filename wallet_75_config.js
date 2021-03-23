@@ -1,1 +1,1 @@
-var mnemonic = "ice trophy core venue dash observe camp repeat puppy mistake match okay";
+var mnemonic = "best cousin marriage sausage hundred evil dizzy actress squirrel ignore guilt age";

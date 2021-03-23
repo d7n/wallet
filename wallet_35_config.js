@@ -1,1 +1,1 @@
-var mnemonic = "congress brisk peanut critic art endless enjoy eye urban stumble ball fog";
+var mnemonic = "similar grab govern autumn remind clean tattoo menu alert close avoid price";

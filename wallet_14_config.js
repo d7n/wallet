@@ -1,1 +1,1 @@
-var mnemonic = "fury end melody school situate inch slush hair moral glance bread ring";
+var mnemonic = "endorse crisp wish bless lock target resist favorite speed impose exit edge";

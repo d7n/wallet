@@ -1,1 +1,1 @@
-var mnemonic = "coyote reflect apple endless pear pig energy tuna another whale venue original";
+var mnemonic = "coil now exercise toast pioneer left truth beef glimpse glide chapter image";

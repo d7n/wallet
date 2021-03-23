@@ -1,1 +1,1 @@
-var mnemonic = "pulp zero orient private pigeon again shift truly worry fiscal leave run";
+var mnemonic = "march electric enforce session enrich bird artwork book force august retire actress";

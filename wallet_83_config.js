@@ -1,1 +1,1 @@
-var mnemonic = "peanut soul cruel liquid dry scare advice square autumn pride oxygen object";
+var mnemonic = "boat polar also render gloom puzzle vocal foster science keen april crisp";

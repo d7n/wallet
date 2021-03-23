@@ -1,1 +1,1 @@
-var mnemonic = "sponsor morning like exhaust room razor inner note treat punch strategy meat";
+var mnemonic = "tissue profit doll tilt useless bicycle pave execute alpha spend occur bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "never note rare year stay claw donkey version guide gap when excess";
+var mnemonic = "right chat local space clarify during tobacco eight omit bless safe fiscal";

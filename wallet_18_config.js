@@ -1,1 +1,1 @@
-var mnemonic = "much trigger pilot chimney okay brown local liquid ready truth word funny";
+var mnemonic = "month garden balcony truck comfort bottom butter end toilet syrup puzzle junior";

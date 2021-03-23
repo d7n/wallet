@@ -1,1 +1,1 @@
-var mnemonic = "oven hockey glare rhythm tooth cluster sad mistake vivid public gorilla worth";
+var mnemonic = "envelope script couple script timber task series observe type degree sauce language";

@@ -1,1 +1,1 @@
-var mnemonic = "right wink road later doctor before flower length harbor spell pelican cup";
+var mnemonic = "draft glow direct stool enemy spot win remind unlock evidence pool kidney";

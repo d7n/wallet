@@ -1,1 +1,1 @@
-var mnemonic = "happy soft subject ten hedgehog erase above hard dog bike ensure notice";
+var mnemonic = "stool song pluck cotton jungle present reason inmate fork misery hope error";

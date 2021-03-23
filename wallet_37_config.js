@@ -1,1 +1,1 @@
-var mnemonic = "disease donkey chapter silly mosquito license curve element tortoise draft leg relief";
+var mnemonic = "move large fun churn alpha frozen bottom once shop pattern nuclear twice";

@@ -1,1 +1,1 @@
-var mnemonic = "two tired edit aspect skin agree catch fault enroll fresh carry disease";
+var mnemonic = "section rug tongue appear peasant exile airport lamp dirt edit gate spawn";

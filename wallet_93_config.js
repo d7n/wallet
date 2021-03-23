@@ -1,1 +1,1 @@
-var mnemonic = "myth sunset fortune device dad stadium option deer drama then adjust attend";
+var mnemonic = "foam candy shiver cruel script glide mule daring lawn hurt funny olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "summer hospital tree boring awkward fence detect hat bamboo donor lyrics bind";
+var mnemonic = "three switch panic very bid mystery moon wash silly true fine black";

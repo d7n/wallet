@@ -1,1 +1,1 @@
-var mnemonic = "hole gentle inform alter knock turkey almost update endorse lucky rival receive";
+var mnemonic = "coin eternal still when actor grit nephew error cousin asset spawn wood";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon finger invite lecture arctic visa cradle cradle moment swift fragile step";
+var mnemonic = "fox else border inspire hunt tortoise tree profit file system egg other";

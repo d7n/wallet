@@ -1,1 +1,1 @@
-var mnemonic = "sauce side twelve lab supreme load narrow victory kiwi base poet install";
+var mnemonic = "cover now satisfy begin blind indoor hurry wagon walnut olympic dream fuel";

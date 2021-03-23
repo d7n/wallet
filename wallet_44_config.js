@@ -1,1 +1,1 @@
-var mnemonic = "reject trust mask slush learn load picture crush combine library monitor garden";
+var mnemonic = "card hidden define program devote forward hope squeeze novel mutual general tonight";

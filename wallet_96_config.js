@@ -1,1 +1,1 @@
-var mnemonic = "spend claim favorite excuse isolate modify lunch cool order target old cash";
+var mnemonic = "void outside history flock hand furnace female mouse learn anger argue nurse";

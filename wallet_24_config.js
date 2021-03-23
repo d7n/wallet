@@ -1,1 +1,1 @@
-var mnemonic = "response renew enjoy recipe wheat render question brain mimic rack song celery";
+var mnemonic = "bachelor bright melt trouble maple brown machine eight innocent wagon wonder priority";

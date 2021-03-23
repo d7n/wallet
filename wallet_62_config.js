@@ -1,1 +1,1 @@
-var mnemonic = "stem service invest upgrade unit spatial catch bind accuse apart tissue hotel";
+var mnemonic = "move seed swallow blossom evolve alien floor brick jealous shoe loan ozone";

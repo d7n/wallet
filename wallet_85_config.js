@@ -1,1 +1,1 @@
-var mnemonic = "tongue wrist wage rhythm piano poem tiny affair message powder bicycle head";
+var mnemonic = "shell couch tape barely rural quality brush material fantasy female oak quarter";

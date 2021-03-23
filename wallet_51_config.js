@@ -1,1 +1,1 @@
-var mnemonic = "gather hundred brain vast youth grunt penalty drastic often tent lyrics quarter";
+var mnemonic = "guilt accuse found vibrant liar ability profit slide tackle master verify shine";

@@ -1,1 +1,1 @@
-var mnemonic = "truth educate glad talk lunar cherry zebra bone picnic melody dash animal";
+var mnemonic = "crew grant jelly dad issue oven margin very robot use roof promote";

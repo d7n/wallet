@@ -1,1 +1,1 @@
-var mnemonic = "royal young corn matter leave upgrade strong unhappy spy toast extra orient";
+var mnemonic = "prosper better airport magic owner female result list impose blue apple faith";

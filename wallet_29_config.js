@@ -1,1 +1,1 @@
-var mnemonic = "liquid fatigue trust kiss axis second devote rent hip tuition lake joke";
+var mnemonic = "next width miss gain apple describe worth review suit army salad wrong";

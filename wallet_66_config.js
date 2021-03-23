@@ -1,1 +1,1 @@
-var mnemonic = "blood autumn color idle hamster town enable struggle road job ability repeat";
+var mnemonic = "universe bicycle photo wish spoon chase melt flag crime enlist cement finger";

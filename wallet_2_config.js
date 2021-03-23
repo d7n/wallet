@@ -1,1 +1,1 @@
-var mnemonic = "brass crime mosquito bring supreme danger oak peanut window coach lizard gown";
+var mnemonic = "diesel castle usage critic pretty assault world tower strike replace hat spread";

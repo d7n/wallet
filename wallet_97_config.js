@@ -1,1 +1,1 @@
-var mnemonic = "area all grunt planet mix liquid popular person slender bridge good whale";
+var mnemonic = "escape fancy arch occur kind away recipe person success fog faculty jump";

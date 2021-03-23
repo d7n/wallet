@@ -1,1 +1,1 @@
-var mnemonic = "marble will subway alarm tuition soul unique list scissors siren armed decline";
+var mnemonic = "fluid cat champion develop ordinary injury author nice visa spell romance inspire";

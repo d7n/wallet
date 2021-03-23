@@ -1,1 +1,1 @@
-var mnemonic = "opinion can cruise ball palace shaft panther tumble link quality muscle hunt";
+var mnemonic = "divorce gift tell shine lobster quality evolve knife suit sister festival barely";

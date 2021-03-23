@@ -1,1 +1,1 @@
-var mnemonic = "around open guilt rebel spend sick gaze couch eyebrow pelican moon regret";
+var mnemonic = "cricket field soda sudden eyebrow analyst approve usual inherit betray belt drift";

@@ -1,1 +1,1 @@
-var mnemonic = "material private explain balcony window judge math beyond wrong noble immense staff";
+var mnemonic = "pigeon ticket balcony cement session marriage file slim notable dismiss enact salute";
