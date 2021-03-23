@@ -1,1 +1,1 @@
-var mnemonic = "patrol climb guitar upset hour weird afraid couple flee engine survey audit";
+var mnemonic = "rebel giraffe venue insect brain banner bean concert coast artefact cool fault";

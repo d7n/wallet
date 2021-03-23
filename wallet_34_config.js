@@ -1,1 +1,1 @@
-var mnemonic = "field exhaust high blush spread fly worth series clog chapter chief sad";
+var mnemonic = "ethics bean fruit expect village glad grain badge clap goddess science slim";

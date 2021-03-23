@@ -1,1 +1,1 @@
-var mnemonic = "tissue profit doll tilt useless bicycle pave execute alpha spend occur bunker";
+var mnemonic = "jump virus medal solid reason remind slender intact confirm uphold used lady";

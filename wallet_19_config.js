@@ -1,1 +1,1 @@
-var mnemonic = "pigeon ticket balcony cement session marriage file slim notable dismiss enact salute";
+var mnemonic = "never thunder welcome pool girl fortune buffalo glare aspect frequent thank enact";

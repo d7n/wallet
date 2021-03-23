@@ -1,1 +1,1 @@
-var mnemonic = "prosper better airport magic owner female result list impose blue apple faith";
+var mnemonic = "again panic practice keen nominee ship farm remove mask hire hockey bus";

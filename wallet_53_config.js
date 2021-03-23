@@ -1,1 +1,1 @@
-var mnemonic = "march electric enforce session enrich bird artwork book force august retire actress";
+var mnemonic = "object ice dove illegal pause tornado hockey orchard shield focus gold balcony";

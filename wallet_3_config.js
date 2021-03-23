@@ -1,1 +1,1 @@
-var mnemonic = "section rug tongue appear peasant exile airport lamp dirt edit gate spawn";
+var mnemonic = "actress spy hammer gauge pair reveal bitter claim sausage fringe lemon luxury";

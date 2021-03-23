@@ -1,1 +1,1 @@
-var mnemonic = "spin shed volume warfare hospital slush tiger curtain example office adjust harsh";
+var mnemonic = "animal rocket real skirt spatial witness can keen utility arrive amateur hurt";

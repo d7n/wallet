@@ -1,1 +1,1 @@
-var mnemonic = "recycle awesome memory door chaos they near voyage change convince divorce crash";
+var mnemonic = "scrub scrap universe useful shoot champion this then potato ten script make";

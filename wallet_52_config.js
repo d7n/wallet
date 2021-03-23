@@ -1,1 +1,1 @@
-var mnemonic = "crew grant jelly dad issue oven margin very robot use roof promote";
+var mnemonic = "deliver loud net broccoli pizza plastic motor hair come figure resource say";

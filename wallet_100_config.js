@@ -1,1 +1,1 @@
-var mnemonic = "often noodle trick local poem tennis debate curve across allow mirror sheriff";
+var mnemonic = "pact steel citizen sadness token heart turn razor long peasant hope jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "there uniform fog girl happy once anchor million outside lyrics much initial";
+var mnemonic = "unique future wire can chuckle keen lyrics badge soul lake upper usual";

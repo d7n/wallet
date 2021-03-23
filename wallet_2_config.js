@@ -1,1 +1,1 @@
-var mnemonic = "diesel castle usage critic pretty assault world tower strike replace hat spread";
+var mnemonic = "fiscal isolate wedding often style manage river common coffee special hour wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt accuse found vibrant liar ability profit slide tackle master verify shine";
+var mnemonic = "coin hope olympic practice town fence clarify just muscle melody diet twice";

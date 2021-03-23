@@ -1,1 +1,1 @@
-var mnemonic = "forest swap stumble annual quarter rural huge cherry stove belt crouch under";
+var mnemonic = "spoil recipe salad among puzzle paddle unknown globe increase quarter attack monitor";

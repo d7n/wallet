@@ -1,1 +1,1 @@
-var mnemonic = "gift direct skirt script knee taxi maximum uphold coral toss version still";
+var mnemonic = "robot unlock stereo balance easily wreck captain roof lift side vintage shove";

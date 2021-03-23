@@ -1,1 +1,1 @@
-var mnemonic = "universe bicycle photo wish spoon chase melt flag crime enlist cement finger";
+var mnemonic = "episode hard horse uncover happy december cannon kit pledge angry feature essay";

@@ -1,1 +1,1 @@
-var mnemonic = "camp hockey kiwi sound opinion recall damage oven brain alpha chunk discover";
+var mnemonic = "deposit guard priority fold shift rib forget theory title vintage color nest";

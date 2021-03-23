@@ -1,1 +1,1 @@
-var mnemonic = "tribe muscle connect craft choice gauge degree admit pink suit transfer december";
+var mnemonic = "simple that box surround olympic entry text velvet fringe abuse sustain float";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune vital paper problem helmet domain tired tomato tower cash genius carry";
+var mnemonic = "hungry tide organ traffic magnet sock return laptop dilemma kangaroo aim fetch";

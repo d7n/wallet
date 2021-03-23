@@ -1,1 +1,1 @@
-var mnemonic = "theory throw swift small insane wedding stove access damage ride grit risk";
+var mnemonic = "insane seven virtual awful fine area flee fiction hybrid uphold ivory silly";

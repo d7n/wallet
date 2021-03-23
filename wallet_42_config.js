@@ -1,1 +1,1 @@
-var mnemonic = "timber quantum like grow horror open quit expire gauge hawk blur will";
+var mnemonic = "prevent camp image state craft route rose impact cluster divide exchange garden";

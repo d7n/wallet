@@ -1,1 +1,1 @@
-var mnemonic = "rely enter suggest embody melody potato reject question glow reflect muffin blue";
+var mnemonic = "combine name garden rough interest loan cereal toddler humble artist cushion soda";

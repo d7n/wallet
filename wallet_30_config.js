@@ -1,1 +1,1 @@
-var mnemonic = "total eight virtual chapter amount flush night hero elegant tiger zebra erosion";
+var mnemonic = "dizzy upset stuff more alley fun elder miss argue bachelor meadow kick";

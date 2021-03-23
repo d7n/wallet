@@ -1,1 +1,1 @@
-var mnemonic = "title food peanut name ask position lazy frequent vocal food lens code";
+var mnemonic = "work smoke slot arm human boy fine stool camp excuse bring drip";

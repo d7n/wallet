@@ -1,1 +1,1 @@
-var mnemonic = "margin main fence kangaroo remain slot special often situate marine main powder";
+var mnemonic = "joy cost twelve update hedgehog milk explain crater setup forget jelly aspect";

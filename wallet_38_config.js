@@ -1,1 +1,1 @@
-var mnemonic = "rocket know derive security sample sphere blame nuclear science armed million crucial";
+var mnemonic = "abuse rib fashion harbor myth brush satisfy goddess true absorb lens range";

@@ -1,1 +1,1 @@
-var mnemonic = "start six coconut run have asthma tenant poem opinion seat employ thought";
+var mnemonic = "news fire wheel entry crowd screen roof keep invest sense sea permit";

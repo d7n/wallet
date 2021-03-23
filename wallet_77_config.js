@@ -1,1 +1,1 @@
-var mnemonic = "friend layer embody awkward expire gloom potato share repair unusual grain number";
+var mnemonic = "alpha topple crystal evolve panel foil elbow flash sunny bench siren artefact";

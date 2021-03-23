@@ -1,1 +1,1 @@
-var mnemonic = "month garden balcony truck comfort bottom butter end toilet syrup puzzle junior";
+var mnemonic = "either ocean motor brand travel inner match alley filter before helmet mixed";

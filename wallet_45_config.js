@@ -1,1 +1,1 @@
-var mnemonic = "bridge vicious wave squeeze evolve dentist gossip wasp soft until valley odor";
+var mnemonic = "step urge witness seed oil wise solar mail cattle sense gloom fiscal";

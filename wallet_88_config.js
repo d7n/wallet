@@ -1,1 +1,1 @@
-var mnemonic = "picnic reduce pact merry divide lizard decrease answer security citizen ready right";
+var mnemonic = "rebel guess spring choose mesh arrange desert shed bulb coach order delay";

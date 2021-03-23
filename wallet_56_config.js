@@ -1,1 +1,1 @@
-var mnemonic = "veteran treat away fault daughter idle ginger sponsor illegal hybrid attitude judge";
+var mnemonic = "equal marble today fee card slow usual pride spot include remember ahead";

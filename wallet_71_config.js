@@ -1,1 +1,1 @@
-var mnemonic = "junk decorate blur excite timber core diary snow skull bless tired match";
+var mnemonic = "erase hidden pipe comic giggle space grace floor sad parrot shaft sweet";

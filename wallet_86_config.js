@@ -1,1 +1,1 @@
-var mnemonic = "allow ready remind invest cat they rough engage bus virtual odor glimpse";
+var mnemonic = "cave price pitch metal trophy learn prepare tribe hollow frozen frequent mammal";

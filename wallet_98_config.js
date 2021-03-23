@@ -1,1 +1,1 @@
-var mnemonic = "blossom quick shed fitness curve book idea slab cargo tumble fashion disagree";
+var mnemonic = "attend minor pole window school badge under step celery dash organ chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse crisp wish bless lock target resist favorite speed impose exit edge";
+var mnemonic = "stool there coyote comic maple fee reflect angry medal stomach panic seat";

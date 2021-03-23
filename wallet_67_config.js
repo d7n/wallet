@@ -1,1 +1,1 @@
-var mnemonic = "explain remember caution sunny giraffe comfort poverty quality rhythm coyote enable razor";
+var mnemonic = "enemy fog cook trial ethics rough cradle forward conduct fetch inject crush";

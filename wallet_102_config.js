@@ -1,1 +1,1 @@
-var mnemonic = "idea useful rough piano boil play slim broom have olympic obey link";
+var mnemonic = "jeans kite voice drop verify undo funny rack seek sense expire point";

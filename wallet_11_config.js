@@ -1,1 +1,1 @@
-var mnemonic = "bargain upgrade improve siege common win act kiss umbrella abandon excess expand";
+var mnemonic = "forward awful observe spoil strong group juice relax inherit scare nerve actor";

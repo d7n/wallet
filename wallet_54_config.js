@@ -1,1 +1,1 @@
-var mnemonic = "birth south youth army drink clog virus angle fan afraid devote theory";
+var mnemonic = "hurdle figure panda blue art tobacco link satisfy congress absent fetch move";

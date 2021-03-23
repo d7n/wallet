@@ -1,1 +1,1 @@
-var mnemonic = "best cousin marriage sausage hundred evil dizzy actress squirrel ignore guilt age";
+var mnemonic = "vote neck plate cheap spoil jaguar genre install critic inhale captain behave";

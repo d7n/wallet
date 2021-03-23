@@ -1,1 +1,1 @@
-var mnemonic = "hood stock bleak found acquire radio creek setup ride still equal decorate";
+var mnemonic = "mystery upon alien style toss habit bus pottery history body endless anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "pull pencil double liberty home clown priority alcohol hedgehog mom pair vague";
+var mnemonic = "design donor seminar knife cement flock mother six pledge core jacket enable";

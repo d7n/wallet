@@ -1,1 +1,1 @@
-var mnemonic = "forum want above magic alley salmon elite bachelor nerve language memory remain";
+var mnemonic = "fancy marriage dish month edit purpose vendor pair color wrist conduct scene";

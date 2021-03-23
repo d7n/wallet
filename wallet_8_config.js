@@ -1,1 +1,1 @@
-var mnemonic = "shiver tennis subject guilt evolve tobacco awful lonely wreck bronze drop identify";
+var mnemonic = "approve armed trash junk lawsuit left bike ostrich tackle cave flip stay";

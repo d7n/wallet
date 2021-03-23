@@ -1,1 +1,1 @@
-var mnemonic = "bachelor bright melt trouble maple brown machine eight innocent wagon wonder priority";
+var mnemonic = "add pistol aim search gift item cliff august inner woman shoe apple";

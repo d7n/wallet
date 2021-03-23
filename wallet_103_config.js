@@ -1,1 +1,1 @@
-var mnemonic = "ripple barely island replace possible silk present zebra home water anchor turn";
+var mnemonic = "bottom ill brain switch equal usage spring stove toward member you nut";

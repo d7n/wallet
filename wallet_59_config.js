@@ -1,1 +1,1 @@
-var mnemonic = "thought fun item lecture shoulder inquiry swap damp ethics heavy fantasy letter";
+var mnemonic = "run fantasy scale average stone move steak awful aunt phone trend hedgehog";

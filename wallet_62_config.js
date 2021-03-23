@@ -1,1 +1,1 @@
-var mnemonic = "move seed swallow blossom evolve alien floor brick jealous shoe loan ozone";
+var mnemonic = "expire game sense survey basket web inner install super heavy art brown";

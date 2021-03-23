@@ -1,1 +1,1 @@
-var mnemonic = "vocal spend turtle eagle weather disagree sniff odor switch vivid rude reject";
+var mnemonic = "photo about canoe nation naive canal coil fortune cause injury balance say";

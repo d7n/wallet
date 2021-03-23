@@ -1,1 +1,1 @@
-var mnemonic = "web horn large adjust disagree mutual brief mirror maze cabin subject portion";
+var mnemonic = "slight range bone civil begin noise spatial flash foil vault globe stereo";

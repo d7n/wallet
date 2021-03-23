@@ -1,1 +1,1 @@
-var mnemonic = "fox else border inspire hunt tortoise tree profit file system egg other";
+var mnemonic = "inch holiday casual dizzy silk amateur depend seminar theory bright off accuse";

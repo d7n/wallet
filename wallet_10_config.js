@@ -1,1 +1,1 @@
-var mnemonic = "anchor gentle pig basket zoo eye tortoise dwarf sketch scorpion regret stand";
+var mnemonic = "dignity arrive supreme upset goat satisfy foster mad bike bomb address bridge";

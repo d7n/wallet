@@ -1,1 +1,1 @@
-var mnemonic = "chef neglect outer venue excuse infant olympic nerve exhibit rigid hill enhance";
+var mnemonic = "good artefact adult grow rice float insect desk neck first siren vanish";

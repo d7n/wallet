@@ -1,1 +1,1 @@
-var mnemonic = "stick uphold shrimp major bubble alone gospel immense horse coast proud bicycle";
+var mnemonic = "merry street sick impose sense pitch correct this broken rebuild village tiger";

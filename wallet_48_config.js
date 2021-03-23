@@ -1,1 +1,1 @@
-var mnemonic = "comic situate abstract nurse hope rabbit alarm model salt snap mix embrace";
+var mnemonic = "pear result say target manage stay quick weird save miss gorilla angry";

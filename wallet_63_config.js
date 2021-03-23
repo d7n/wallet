@@ -1,1 +1,1 @@
-var mnemonic = "fluid cat champion develop ordinary injury author nice visa spell romance inspire";
+var mnemonic = "fringe toss wrap such obvious jeans kitchen orbit plunge omit sword novel";

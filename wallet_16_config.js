@@ -1,1 +1,1 @@
-var mnemonic = "other voyage pause gas calm huge loyal attitude goose alley decline street";
+var mnemonic = "document dog ghost galaxy try beach gain salt favorite follow top phone";

@@ -1,1 +1,1 @@
-var mnemonic = "powder lend genuine chunk half school square once apart chase normal permit";
+var mnemonic = "taxi filter survey left program critic casual toe pulp pink man fancy";

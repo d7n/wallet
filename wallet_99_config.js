@@ -1,1 +1,1 @@
-var mnemonic = "coin eternal still when actor grit nephew error cousin asset spawn wood";
+var mnemonic = "invest paddle fringe confirm firm else harsh square juice record quality gaze";

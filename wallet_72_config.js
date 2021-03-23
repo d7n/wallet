@@ -1,1 +1,1 @@
-var mnemonic = "debate primary pig guitar broccoli what tilt manage paddle wide claw hat";
+var mnemonic = "escape sample donkey result present mutual express dash view basic door race";

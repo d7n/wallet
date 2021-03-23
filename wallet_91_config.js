@@ -1,1 +1,1 @@
-var mnemonic = "piano emotion report identify puppy fantasy end fragile express street sight gallery";
+var mnemonic = "cruise finger type conduct salute cousin toe paper stable office refuse correct";

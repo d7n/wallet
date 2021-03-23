@@ -1,1 +1,1 @@
-var mnemonic = "right chat local space clarify during tobacco eight omit bless safe fiscal";
+var mnemonic = "lion bacon recipe job photo adapt infant unlock fabric whip receive swamp";

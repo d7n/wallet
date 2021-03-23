@@ -1,1 +1,1 @@
-var mnemonic = "stool song pluck cotton jungle present reason inmate fork misery hope error";
+var mnemonic = "movie dish bounce scene view empower minor cinnamon marriage course tired save";

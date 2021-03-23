@@ -1,1 +1,1 @@
-var mnemonic = "boat polar also render gloom puzzle vocal foster science keen april crisp";
+var mnemonic = "trigger struggle awesome catalog live dumb renew candy okay couple pass raw";

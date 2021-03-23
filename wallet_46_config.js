@@ -1,1 +1,1 @@
-var mnemonic = "bundle page amazing timber gentle special build evolve debate april huge special";
+var mnemonic = "dwarf later lobster okay shine attract interest oval rug vapor truth total";

@@ -1,1 +1,1 @@
-var mnemonic = "slam rude tornado venture artefact wage beauty around brisk extend interest soap";
+var mnemonic = "track squeeze scheme price fatigue prevent filter tuition pizza carpet change reflect";

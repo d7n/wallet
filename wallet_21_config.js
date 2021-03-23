@@ -1,1 +1,1 @@
-var mnemonic = "settle rack medal lazy fork manual armed trumpet example aim stairs confirm";
+var mnemonic = "door rare year warfare jungle school supply action suggest dad bridge kiwi";

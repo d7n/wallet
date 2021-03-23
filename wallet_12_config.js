@@ -1,1 +1,1 @@
-var mnemonic = "envelope script couple script timber task series observe type degree sauce language";
+var mnemonic = "bargain two agree color heart surround wide almost leave chuckle deer artefact";

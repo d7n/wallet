@@ -1,1 +1,1 @@
-var mnemonic = "winter thank document smile another layer size they swamp bless suggest ignore";
+var mnemonic = "medal noodle pole brief teach knee slogan garment nephew able scissors caution";

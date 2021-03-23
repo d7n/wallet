@@ -1,1 +1,1 @@
-var mnemonic = "draft glow direct stool enemy spot win remind unlock evidence pool kidney";
+var mnemonic = "midnight park organ night leisure sample vote blade drift general story release";

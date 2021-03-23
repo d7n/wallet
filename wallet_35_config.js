@@ -1,1 +1,1 @@
-var mnemonic = "similar grab govern autumn remind clean tattoo menu alert close avoid price";
+var mnemonic = "soldier success soap shield kitchen fantasy tiger attack spring tissue sentence omit";

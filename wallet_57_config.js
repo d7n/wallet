@@ -1,1 +1,1 @@
-var mnemonic = "food book shrimp lounge search enroll depth social under spoil robot culture";
+var mnemonic = "easy boring deposit uncle bicycle husband demise wrong cushion stomach runway print";

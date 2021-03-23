@@ -1,1 +1,1 @@
-var mnemonic = "sugar minor medal print wing wave hub use badge list guess life";
+var mnemonic = "add prosper feed victory muscle rice dry inherit cannon modify room ready";

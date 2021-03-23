@@ -1,1 +1,1 @@
-var mnemonic = "move large fun churn alpha frozen bottom once shop pattern nuclear twice";
+var mnemonic = "aisle mixed frozen brisk fruit logic suspect hurry follow travel clean anger";

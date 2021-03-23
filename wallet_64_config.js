@@ -1,1 +1,1 @@
-var mnemonic = "coil now exercise toast pioneer left truth beef glimpse glide chapter image";
+var mnemonic = "witness disorder quarter hollow suffer romance business arrange echo pyramid empty describe";

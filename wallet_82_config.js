@@ -1,1 +1,1 @@
-var mnemonic = "else borrow win spare beauty remove sting marble fantasy tomorrow powder sniff";
+var mnemonic = "people piece man toddler plunge cotton siren off toast broken divide cage";

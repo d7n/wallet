@@ -1,1 +1,1 @@
-var mnemonic = "cool pride curtain arch lounge exhaust memory soft asset charge spoon sword";
+var mnemonic = "shop enhance zone beyond gain satisfy february gun please club enter search";

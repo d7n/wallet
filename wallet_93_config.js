@@ -1,1 +1,1 @@
-var mnemonic = "foam candy shiver cruel script glide mule daring lawn hurt funny olympic";
+var mnemonic = "table angle sign lizard else cluster forest renew winner snake essence bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "endless business brief coral gold cancel mercy outdoor drink noise pencil pattern";
+var mnemonic = "earn various obey fragile army mosquito earth seminar main afford shadow find";

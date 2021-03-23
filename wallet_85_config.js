@@ -1,1 +1,1 @@
-var mnemonic = "shell couch tape barely rural quality brush material fantasy female oak quarter";
+var mnemonic = "caution barely cactus zero ostrich occur swallow hood pet apart charge describe";

@@ -1,1 +1,1 @@
-var mnemonic = "van toy false peace leg age print horror surge excuse clean endless";
+var mnemonic = "window struggle sort sign illness defense lumber beyond first above december execute";

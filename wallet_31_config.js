@@ -1,1 +1,1 @@
-var mnemonic = "regret denial banana code human real garment aerobic stove level split dog";
+var mnemonic = "build trap uncover thumb organ ramp dismiss kitten stool old guilt cup";

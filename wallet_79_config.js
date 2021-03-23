@@ -1,1 +1,1 @@
-var mnemonic = "vacuum bamboo inhale mirror devote middle sail purse absorb visual true empty";
+var mnemonic = "salmon return join fat scene finish office other shield enforce cereal luxury";

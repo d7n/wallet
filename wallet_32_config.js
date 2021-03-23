@@ -1,1 +1,1 @@
-var mnemonic = "immense walnut profit wild monitor trick corn mad direct history mirror monkey";
+var mnemonic = "hire good tray spice ladder where share vehicle explain entry special aware";

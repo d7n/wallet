@@ -1,1 +1,1 @@
-var mnemonic = "good service announce inject tilt banana legend blade mention test describe client";
+var mnemonic = "embrace apology calm squirrel rack roast multiply access bone bounce draw anchor";
