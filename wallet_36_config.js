@@ -1,1 +1,1 @@
-var mnemonic = "mixture special margin attitude embrace relief border knife oblige lamp thank asthma";
+var mnemonic = "motion tiny mimic goddess odor shrimp wear exit symptom salute ship never";

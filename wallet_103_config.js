@@ -1,1 +1,1 @@
-var mnemonic = "action curtain fold open auto naive orphan miracle busy guitar blame shuffle";
+var mnemonic = "captain drama focus write wire vital border dentist crunch plunge addict fiber";

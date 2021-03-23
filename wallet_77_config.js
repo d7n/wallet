@@ -1,1 +1,1 @@
-var mnemonic = "defense horn shoulder earn repair describe chicken velvet color involve clean enroll";
+var mnemonic = "antique keep wave learn inflict oxygen potato history arrest crush million amateur";

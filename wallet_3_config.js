@@ -1,1 +1,1 @@
-var mnemonic = "output else cupboard angle inner clip taxi enjoy business favorite amazing shrimp";
+var mnemonic = "job glove argue absurd design lend scrub agree enroll now beef panel";

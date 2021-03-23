@@ -1,1 +1,1 @@
-var mnemonic = "else can piece tent warm panther dress card input history toilet flame";
+var mnemonic = "desert around distance foam bitter eagle drum sniff turtle busy amused junior";

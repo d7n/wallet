@@ -1,1 +1,1 @@
-var mnemonic = "dress oblige poet glad margin aim badge guilt pumpkin august member rough";
+var mnemonic = "kitchen act unknown erupt access wagon below acoustic intact anxiety divorce lobster";

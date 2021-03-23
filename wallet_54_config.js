@@ -1,1 +1,1 @@
-var mnemonic = "issue can guilt snow museum asthma thumb goat fiber assist outdoor plug";
+var mnemonic = "mention envelope man visual erupt purse fault turkey already royal answer soon";

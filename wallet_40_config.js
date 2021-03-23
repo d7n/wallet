@@ -1,1 +1,1 @@
-var mnemonic = "connect news tunnel tongue comfort quit crucial off faith math catch pair";
+var mnemonic = "web dove moment able neutral quantum swarm mixed memory swap legend blood";

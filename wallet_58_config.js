@@ -1,1 +1,1 @@
-var mnemonic = "clutch sort celery harbor crawl settle special orchard inform bulb bar between";
+var mnemonic = "immune rocket royal other make canvas similar mango catalog hope gift mercy";

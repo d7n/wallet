@@ -1,1 +1,1 @@
-var mnemonic = "random exist address weird cable business little era boost century demise genuine";
+var mnemonic = "warm lady change various original usual muffin fluid tragic race together vehicle";

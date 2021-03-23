@@ -1,1 +1,1 @@
-var mnemonic = "ankle typical similar dumb protect doctor current female trick add south enlist";
+var mnemonic = "matrix frequent rib scare citizen label tumble rich report issue know crush";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage frog demand cupboard current element engine object arch fade essay enhance";
+var mnemonic = "age stage mother parent fold dry trip voice liar asset ask speed";

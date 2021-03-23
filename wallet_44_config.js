@@ -1,1 +1,1 @@
-var mnemonic = "answer bench congress biology rocket alcohol tonight shift stuff rice disorder scale";
+var mnemonic = "sausage arrow govern lawn august essence orbit magic sponsor dizzy hill parent";

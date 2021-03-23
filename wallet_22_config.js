@@ -1,1 +1,1 @@
-var mnemonic = "suspect adapt priority stairs crunch come giant coil laptop velvet cause rain";
+var mnemonic = "screen dutch you coin wasp cricket modify symbol item ethics lock avoid";

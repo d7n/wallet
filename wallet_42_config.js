@@ -1,1 +1,1 @@
-var mnemonic = "tank dad genre razor board work valid luxury affair end wonder math";
+var mnemonic = "help snack then response street rookie visit hawk aspect couple inherit olympic";

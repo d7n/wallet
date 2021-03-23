@@ -1,1 +1,1 @@
-var mnemonic = "zone update anxiety tone artefact double mind occur text twist choice cherry";
+var mnemonic = "differ rate radio hurdle critic expand lumber sock diagram protect bless lottery";

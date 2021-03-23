@@ -1,1 +1,1 @@
-var mnemonic = "brief coil winter inhale spawn dish dutch lucky frog domain weather sail";
+var mnemonic = "salad broccoli escape inspire royal exile clever fade anchor shoe only eagle";

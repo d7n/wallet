@@ -1,1 +1,1 @@
-var mnemonic = "okay risk soccer virtual exhaust ozone nothing aunt sphere mirror web suggest";
+var mnemonic = "spread body foot medal topic marble deputy miss prefer produce tumble connect";

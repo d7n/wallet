@@ -1,1 +1,1 @@
-var mnemonic = "solution maximum morning pepper behave dragon runway arena inch enlist involve off";
+var mnemonic = "winner wonder crazy agent crystal argue dizzy resource scare use begin habit";

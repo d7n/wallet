@@ -1,1 +1,1 @@
-var mnemonic = "dash gloom silk valve vacant conduct tell hunt ski bronze physical mango";
+var mnemonic = "believe real inside column roast glow column habit pulse goat ugly acoustic";

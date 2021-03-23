@@ -1,1 +1,1 @@
-var mnemonic = "festival stove anchor purpose patient tornado label coach initial rather venue daughter";
+var mnemonic = "orient claim wet evoke hello steel cushion cloth sock salon beauty alert";

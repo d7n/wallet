@@ -1,1 +1,1 @@
-var mnemonic = "gather atom unique worth bone pitch embody typical liberty answer primary august";
+var mnemonic = "museum share under hero dinosaur floor tackle link ethics fiscal own album";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum search equip best repair lock embrace raw divide nurse tilt magnet";
+var mnemonic = "wish special lunar sister country blur select kite local clip finger sketch";

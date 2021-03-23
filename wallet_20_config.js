@@ -1,1 +1,1 @@
-var mnemonic = "nominee junk achieve people share soft glad engine vocal misery isolate legend";
+var mnemonic = "essence boost entire fiction obtain define inquiry collect wet together onion exclude";

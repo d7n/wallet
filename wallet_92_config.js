@@ -1,1 +1,1 @@
-var mnemonic = "visual auction about basket cliff crane field ramp recycle party junior depth";
+var mnemonic = "arm sponsor replace fly gift melody lonely desert lecture knife spoon tragic";

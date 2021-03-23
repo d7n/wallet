@@ -1,1 +1,1 @@
-var mnemonic = "average gold mom deputy loop siege recipe rescue kidney cabbage mean bronze";
+var mnemonic = "afraid okay cargo material fame busy develop add run treat fatigue smart";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal again success drift capable reflect guard media flush claw vast drum";
+var mnemonic = "resist kick alert aerobic web news kidney duck educate produce twelve dial";

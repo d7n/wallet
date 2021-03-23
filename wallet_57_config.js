@@ -1,1 +1,1 @@
-var mnemonic = "prevent company armed decrease mistake hen gain crunch elegant rubber else youth";
+var mnemonic = "thrive promote fancy sleep region reason enrich ritual enable agree genre credit";

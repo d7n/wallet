@@ -1,1 +1,1 @@
-var mnemonic = "differ conduct horse winter board dish bachelor crouch page coast board spot";
+var mnemonic = "lecture sand maid vehicle toss album crew satisfy loyal fox fuel fury";

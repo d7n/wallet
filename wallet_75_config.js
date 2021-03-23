@@ -1,1 +1,1 @@
-var mnemonic = "theory vendor differ bottom hint arctic ill general barely plate cycle minute";
+var mnemonic = "humor gaze raw paddle wave kingdom name crouch document garlic happy hero";

@@ -1,1 +1,1 @@
-var mnemonic = "train ketchup toy furnace rug school love flee salute wrong since fluid";
+var mnemonic = "dove trigger amateur vicious hospital battle embody success ticket coast sugar pyramid";

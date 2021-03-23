@@ -1,1 +1,1 @@
-var mnemonic = "one tattoo leopard lizard uphold fault throw wealth blanket sad runway foil";
+var mnemonic = "garden auto resemble glow matter want bargain mammal brave spoon retreat awful";

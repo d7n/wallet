@@ -1,1 +1,1 @@
-var mnemonic = "infant rain night catalog brain goose dog love maid mass clip release";
+var mnemonic = "prison topic direct exile tide climb settle lens thumb merge since crater";

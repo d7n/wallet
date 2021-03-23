@@ -1,1 +1,1 @@
-var mnemonic = "phrase general stage uniform dust sail recall pottery mercy cruel flame limit";
+var mnemonic = "wheel lunch session truck ten benefit broccoli prepare parade animal spike kiwi";

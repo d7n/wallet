@@ -1,1 +1,1 @@
-var mnemonic = "loop eyebrow width pipe lounge basket goose happy main female increase produce";
+var mnemonic = "stamp hobby amused lesson alley private tape disease endless segment number mouse";

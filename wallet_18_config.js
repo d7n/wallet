@@ -1,1 +1,1 @@
-var mnemonic = "matter fix bracket casino small book tell capable tomorrow switch meadow sign";
+var mnemonic = "crowd legal damp radar busy ladder funny tank antique team army wish";

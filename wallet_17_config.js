@@ -1,1 +1,1 @@
-var mnemonic = "bunker fish nature divide caution victory library oak vault burst patrol easy";
+var mnemonic = "throw pottery garlic cram name exile recipe moon just peanut permit test";

@@ -1,1 +1,1 @@
-var mnemonic = "derive power maximum inherit knee salmon armor quick shallow cinnamon fat lemon";
+var mnemonic = "breeze ridge grab provide spend elephant thrive uniform visit text rib measure";

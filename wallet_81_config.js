@@ -1,1 +1,1 @@
-var mnemonic = "under vast edit steak accident rain swamp early merge spawn degree wing";
+var mnemonic = "box ill solution disagree fury twice buzz boy goose curious genre excess";

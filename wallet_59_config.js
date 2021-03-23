@@ -1,1 +1,1 @@
-var mnemonic = "shed sting symptom shell march blanket armor you cabbage fashion lounge grain";
+var mnemonic = "caution oblige planet detect tent calm aisle deal steel mammal main train";

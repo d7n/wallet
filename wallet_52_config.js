@@ -1,1 +1,1 @@
-var mnemonic = "frost primary excess job elegant orchard chalk faith shove concert broom define";
+var mnemonic = "car later talk silver exile squeeze ridge security about pistol lava desert";

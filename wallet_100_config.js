@@ -1,1 +1,1 @@
-var mnemonic = "beach nest search job rather nice inspire sea fresh surface kid snap";
+var mnemonic = "author hedgehog garbage item tomato end label call frog embody annual reject";

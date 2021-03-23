@@ -1,1 +1,1 @@
-var mnemonic = "hobby present shrug pupil elder regret patrol gift chest this crucial bottom";
+var mnemonic = "avocado blue grass chicken actor uncle maze hood input arrow worry hurt";

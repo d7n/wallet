@@ -1,1 +1,1 @@
-var mnemonic = "favorite salt relief shine cattle patient damp thought foam tone inquiry loop";
+var mnemonic = "clown wasp have wisdom gasp refuse horn joy source predict dismiss give";

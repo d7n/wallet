@@ -1,1 +1,1 @@
-var mnemonic = "rifle damage latin vessel barrel life dish cluster room tragic model become";
+var mnemonic = "cause evolve scout setup useless honey fresh travel gain guide fish tunnel";

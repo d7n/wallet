@@ -1,1 +1,1 @@
-var mnemonic = "survey across thrive reveal ladder forward trade capable artefact rice cloth license";
+var mnemonic = "solar embark steak victory uniform dirt dignity claim slot response hotel merry";

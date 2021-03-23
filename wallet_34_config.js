@@ -1,1 +1,1 @@
-var mnemonic = "broccoli field rough gravity reason step arena dune hill science size space";
+var mnemonic = "topple rely sell interest there female blush horror sand rude december wrist";

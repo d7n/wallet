@@ -1,1 +1,1 @@
-var mnemonic = "possible uphold dismiss clinic effort burden funny outside first resist wish debris";
+var mnemonic = "turn timber yard gauge victory cupboard ethics vault monster steak usage permit";

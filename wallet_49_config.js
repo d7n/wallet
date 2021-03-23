@@ -1,1 +1,1 @@
-var mnemonic = "tissue pyramid chef junk wisdom symptom critic repair stuff gesture fee finish";
+var mnemonic = "pretty galaxy town bird enable shadow camera essay proud camera staff stool";

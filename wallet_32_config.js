@@ -1,1 +1,1 @@
-var mnemonic = "tumble gym cram safe confirm grant ready tool ahead age sell pelican";
+var mnemonic = "ethics asset glory remove judge innocent egg enough neither destroy swing apology";

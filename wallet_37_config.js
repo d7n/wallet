@@ -1,1 +1,1 @@
-var mnemonic = "lizard tell trigger beef title delay bean roof climb resemble sound auction";
+var mnemonic = "wisdom glide trial armed congress traffic above catch bicycle control swift because";

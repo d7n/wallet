@@ -1,1 +1,1 @@
-var mnemonic = "drip ride ignore runway scorpion seat drastic wave acoustic country liar enough";
+var mnemonic = "deal drive forget street install behind build window kick pattern master equal";

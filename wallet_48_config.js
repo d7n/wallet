@@ -1,1 +1,1 @@
-var mnemonic = "pull praise hockey enough brother hunt venture fork cave diet diet room";
+var mnemonic = "demise crash blanket inmate sock disagree announce battle old enlist wrist kit";

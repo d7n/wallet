@@ -1,1 +1,1 @@
-var mnemonic = "blossom grit autumn pigeon leg scene soldier avoid earn wrestle auto gaze";
+var mnemonic = "laptop debris practice feel museum sting antique plug climb grocery engine become";

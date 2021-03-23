@@ -1,1 +1,1 @@
-var mnemonic = "way piano chronic elder bag sword subject public pill escape post punch";
+var mnemonic = "bleak find feel sudden pause fatigue jacket hero profit valid bacon open";

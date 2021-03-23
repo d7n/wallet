@@ -1,1 +1,1 @@
-var mnemonic = "breeze club latin merry decade level wide evolve party review worth grow";
+var mnemonic = "turn all junk ask kiwi shoulder romance fat decline illegal fringe fish";

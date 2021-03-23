@@ -1,1 +1,1 @@
-var mnemonic = "monster cream put latin hen plastic ten silver return left silver chair";
+var mnemonic = "ask fabric slot either chicken sport track invest dismiss message write expire";

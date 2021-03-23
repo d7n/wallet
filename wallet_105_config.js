@@ -1,1 +1,1 @@
-var mnemonic = "neither dizzy tackle harvest menu spring issue web wasp sheriff indoor world";
+var mnemonic = "two review spell umbrella surface flee disagree thunder spare wire festival roof";

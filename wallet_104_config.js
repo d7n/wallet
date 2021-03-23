@@ -1,1 +1,1 @@
-var mnemonic = "crowd pupil twist rocket dash various moral destroy despair custom donate august";
+var mnemonic = "tower maze move favorite alien bonus include climb imitate bubble museum know";

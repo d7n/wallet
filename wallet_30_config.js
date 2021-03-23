@@ -1,1 +1,1 @@
-var mnemonic = "glory must indoor rain athlete loyal net speed power odor picnic later";
+var mnemonic = "glance blind attract cost stadium poet only worry monitor uncover enemy asthma";

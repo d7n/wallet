@@ -1,1 +1,1 @@
-var mnemonic = "cushion rice that impact proof brick inside goat hospital bomb number aim";
+var mnemonic = "donkey profit icon gorilla glide race immense promote ancient asset tenant train";

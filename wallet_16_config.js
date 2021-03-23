@@ -1,1 +1,1 @@
-var mnemonic = "fix helmet drip embark east alcohol denial frost night note long case";
+var mnemonic = "shallow toddler hover pen comic surprise elbow east crime garbage annual must";

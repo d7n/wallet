@@ -1,1 +1,1 @@
-var mnemonic = "taxi midnight gift traffic organ style return air weather punch public arm";
+var mnemonic = "leopard cluster cluster capital wife tongue penalty replace matter marble rent elevator";

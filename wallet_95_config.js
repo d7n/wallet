@@ -1,1 +1,1 @@
-var mnemonic = "pattern estate history fitness argue remind sweet else advance trick slot slogan";
+var mnemonic = "wood increase menu mango credit pilot hub agree keen talent pelican wrestle";

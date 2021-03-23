@@ -1,1 +1,1 @@
-var mnemonic = "reason oak oppose grid evolve sand please until nurse pipe useless table";
+var mnemonic = "envelope insect ecology accuse grant market cave human admit horror horse stairs";

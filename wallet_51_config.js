@@ -1,1 +1,1 @@
-var mnemonic = "dose fiction fashion priority tennis hat tree portion sphere rabbit smooth obscure";
+var mnemonic = "decline fault chat extend lobster opinion report breeze title patch focus wear";

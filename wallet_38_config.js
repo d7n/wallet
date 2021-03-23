@@ -1,1 +1,1 @@
-var mnemonic = "system major puppy brother worry gossip live embark steak loan apart miracle";
+var mnemonic = "purity fork frost order muscle success bracket amount little warm abuse imitate";

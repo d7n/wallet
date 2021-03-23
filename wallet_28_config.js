@@ -1,1 +1,1 @@
-var mnemonic = "wrestle deal ugly often employ receive man kidney output spell review pyramid";
+var mnemonic = "shine curve pitch bracket ivory olive outdoor record barely quarter ostrich pyramid";

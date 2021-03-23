@@ -1,1 +1,1 @@
-var mnemonic = "canal kit athlete correct sample because organ pigeon jeans gain arrive weapon";
+var mnemonic = "tuna garage energy royal thank device half labor cradle age exit medal";

@@ -1,1 +1,1 @@
-var mnemonic = "blush height color lesson poem stand wall faculty update young nurse squeeze";
+var mnemonic = "case what physical two culture vessel lunch cube above awake wine alien";

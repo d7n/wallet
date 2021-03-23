@@ -1,1 +1,1 @@
-var mnemonic = "puzzle invite roast immune merry spy pull brother bird december mesh excite";
+var mnemonic = "symbol language senior inherit forward try exhibit decade jeans doll funny other";

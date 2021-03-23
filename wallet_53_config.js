@@ -1,1 +1,1 @@
-var mnemonic = "disease brief stadium taxi confirm absurd merry day antenna twin girl awake";
+var mnemonic = "age twist above lounge month shield stick guess clay video normal arch";

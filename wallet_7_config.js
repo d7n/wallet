@@ -1,1 +1,1 @@
-var mnemonic = "fly harsh arrest recall promote spring share donor husband neglect tennis message";
+var mnemonic = "sweet submit city salad like target usual enjoy grit blue device symptom";

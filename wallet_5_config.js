@@ -1,1 +1,1 @@
-var mnemonic = "evil agree output open easily shift clean flash float such quality elephant";
+var mnemonic = "eye first crazy side hen tilt message scheme taste shoot reveal museum";

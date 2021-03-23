@@ -1,1 +1,1 @@
-var mnemonic = "female fun demise victory lens midnight apple concert order umbrella void shell";
+var mnemonic = "fossil genius system venture eye color document merit frog excess pipe disagree";

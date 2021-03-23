@@ -1,1 +1,1 @@
-var mnemonic = "clog traffic salmon duty error remind duck require often describe flock knee";
+var mnemonic = "bachelor child vault card ridge coconut zebra jazz excess hobby drop pause";

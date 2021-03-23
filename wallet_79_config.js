@@ -1,1 +1,1 @@
-var mnemonic = "pelican inmate reward inflict anger few reform random sustain anchor scout share";
+var mnemonic = "chat beach walnut mansion ginger ecology argue laundry logic icon casual cost";

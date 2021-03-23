@@ -1,1 +1,1 @@
-var mnemonic = "boy now abstract home flee glory term body maid run other bone";
+var mnemonic = "drip layer hover collect maze monster amateur employ seek mix front east";

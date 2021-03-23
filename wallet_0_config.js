@@ -1,1 +1,1 @@
-var mnemonic = "genre hole mistake coyote recall sun birth parrot lumber wagon black hip";
+var mnemonic = "cash return grain guess shine good royal farm scene caution gloom loan";

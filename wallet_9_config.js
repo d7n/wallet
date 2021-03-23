@@ -1,1 +1,1 @@
-var mnemonic = "post local struggle net trial gather drill miracle crash lizard detect margin";
+var mnemonic = "morning cactus child favorite hawk pool write farm window hospital exist stone";

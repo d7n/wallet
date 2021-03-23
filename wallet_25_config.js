@@ -1,1 +1,1 @@
-var mnemonic = "purchase blouse cause transfer stove poet member artefact noise cattle fringe kidney";
+var mnemonic = "throw dad two enter exotic very develop cool supreme level clog account";

@@ -1,1 +1,1 @@
-var mnemonic = "silk change section hundred pet seed web dog wrestle eye legal allow";
+var mnemonic = "grow quick awake peasant armor prepare utility mind spring olive luggage capital";

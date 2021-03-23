@@ -1,1 +1,1 @@
-var mnemonic = "next syrup organ capable season market faint dose chimney rocket liar music";
+var mnemonic = "ridge fringe mean rebel domain car dry addict father fog express name";

@@ -1,1 +1,1 @@
-var mnemonic = "twin grab negative upset version wave best body sugar fresh silent check";
+var mnemonic = "grace observe rug lyrics million initial blind grocery alarm tag polar truth";

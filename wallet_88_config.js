@@ -1,1 +1,1 @@
-var mnemonic = "follow corn claw couch tone dial jelly mushroom waste olive toddler rent";
+var mnemonic = "motor yard gym story pond sword mail next paper taste vacuum sad";

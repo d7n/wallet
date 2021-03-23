@@ -1,1 +1,1 @@
-var mnemonic = "report pistol north rice power chest orbit game move search believe raise";
+var mnemonic = "grief family size grocery federal foam tray dry south change theory nasty";

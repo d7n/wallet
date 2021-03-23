@@ -1,1 +1,1 @@
-var mnemonic = "ritual music pond record exotic calm loan alone glance autumn useless prefer";
+var mnemonic = "comic hope weather tired payment still settle wealth hollow mistake scale clever";

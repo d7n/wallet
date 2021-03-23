@@ -1,1 +1,1 @@
-var mnemonic = "hint visit cable jelly zero control apart develop digital earth panic breeze";
+var mnemonic = "rely siren rent option kitten diesel roast voice trigger polar axis slam";

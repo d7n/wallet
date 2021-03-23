@@ -1,1 +1,1 @@
-var mnemonic = "fine document jeans solar shuffle sausage essence moon obtain lazy net crew";
+var mnemonic = "clever trap captain dentist eyebrow palm usual piece shoulder year chaos dad";

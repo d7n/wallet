@@ -1,1 +1,1 @@
-var mnemonic = "culture exile pitch clock type entire economy rally funny level sketch confirm";
+var mnemonic = "until book cash cannon firm armed burden mass twin chicken veteran issue";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano scorpion image kite twin bunker husband opera victory food quality truth";
+var mnemonic = "purse annual final rebel wine face embark secret general apple current day";

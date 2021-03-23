@@ -1,1 +1,1 @@
-var mnemonic = "body able machine between toe ritual jungle detect setup staff head pond";
+var mnemonic = "hockey digital olive plunge toss bar own search bubble egg loyal danger";

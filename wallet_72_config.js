@@ -1,1 +1,1 @@
-var mnemonic = "endless price table poverty neglect during bid expire junior parade such industry";
+var mnemonic = "pride alpha apology prevent intact alley erupt aim tennis tomato clay absent";

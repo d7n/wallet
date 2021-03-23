@@ -1,1 +1,1 @@
-var mnemonic = "drip garlic north lazy same absurd seminar trophy banana planet can verify";
+var mnemonic = "rapid obvious ancient engage surprise cancel elegant labor foot foster axis indoor";

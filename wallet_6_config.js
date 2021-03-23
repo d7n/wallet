@@ -1,1 +1,1 @@
-var mnemonic = "casual wolf invest test regret inmate nominee differ grow orbit affair lava";
+var mnemonic = "onion panda method tumble away grain detail next hamster lottery palm faith";

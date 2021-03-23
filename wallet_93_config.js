@@ -1,1 +1,1 @@
-var mnemonic = "fly tray amazing add legend actor loud silent napkin track crumble velvet";
+var mnemonic = "agree around mutual cook pupil pull trouble noise link toward flight enough";

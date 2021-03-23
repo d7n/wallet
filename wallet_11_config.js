@@ -1,1 +1,1 @@
-var mnemonic = "excess sleep winner library cliff message under charge exchange place unlock rose";
+var mnemonic = "grass trouble absorb legend yard shadow price scene female pitch aisle ugly";

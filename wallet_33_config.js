@@ -1,1 +1,1 @@
-var mnemonic = "rent provide lecture organ chunk great push measure rather monkey lottery dry";
+var mnemonic = "supply fat recall super hello must cream program better unable area uncover";
