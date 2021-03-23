@@ -1,1 +1,1 @@
-var mnemonic = "cute fold satisfy dad frost hundred subject engage lesson whale armed shock";
+var mnemonic = "arrest swing thumb remember because dad lion grape abuse glimpse chaos pelican";

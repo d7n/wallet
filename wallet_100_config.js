@@ -1,1 +1,1 @@
-var mnemonic = "sign plug fade master prison artefact abandon obtain flight proof cluster enlist";
+var mnemonic = "detail label silk nuclear evolve elephant iron swift safe inside company crew";

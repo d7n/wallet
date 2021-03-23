@@ -1,1 +1,1 @@
-var mnemonic = "erosion inch climb stairs tray sword human case bullet habit flag poet";
+var mnemonic = "beach receive system stable upset cruise album forest useful prize suspect frown";

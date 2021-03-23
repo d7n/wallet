@@ -1,1 +1,1 @@
-var mnemonic = "expand under walnut source know shoe one radio between casual access express";
+var mnemonic = "combine they biology leopard grab eternal then exotic mushroom rude bike tortoise";

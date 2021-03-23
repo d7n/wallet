@@ -1,1 +1,1 @@
-var mnemonic = "second logic helmet coconut erosion interest situate pulse iron joke chapter good";
+var mnemonic = "force goat review age gown casino curtain appear debris creek time actor";

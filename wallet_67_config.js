@@ -1,1 +1,1 @@
-var mnemonic = "metal damp drum chat damage erupt defy among flock cute upgrade essence";
+var mnemonic = "uncle festival wagon neither pause under avoid insane mind era fatigue estate";

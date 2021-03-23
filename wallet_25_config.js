@@ -1,1 +1,1 @@
-var mnemonic = "machine hover burger edit remove copper dinosaur volcano income hold once scout";
+var mnemonic = "amateur under talk more maple broom wage earth void blind chicken north";

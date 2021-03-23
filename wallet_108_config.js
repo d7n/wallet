@@ -1,1 +1,1 @@
-var mnemonic = "inner strike wealth post solar people friend noise fortune online nephew syrup";
+var mnemonic = "current swarm sphere dial arrest type charge brick hungry shield chest salon";

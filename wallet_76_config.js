@@ -1,1 +1,1 @@
-var mnemonic = "wave pet bean month upper clip embrace tackle found seek holiday muscle";
+var mnemonic = "immense firm walnut thumb invest twelve once section loud swarm honey kangaroo";

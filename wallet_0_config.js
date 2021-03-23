@@ -1,1 +1,1 @@
-var mnemonic = "analyst large wealth trouble envelope purchase license asthma bundle police chicken regular";
+var mnemonic = "real biology door kingdom duck repair frozen okay damp usage nature upset";

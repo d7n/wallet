@@ -1,1 +1,1 @@
-var mnemonic = "usage merit jaguar divide water picnic lyrics blossom royal zone light any";
+var mnemonic = "laugh unlock funny energy pencil diet surprise ugly click weasel acoustic cement";

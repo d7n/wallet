@@ -1,1 +1,1 @@
-var mnemonic = "hen member sound route penalty case salon reduce enact world tool gather";
+var mnemonic = "latin mammal paper talk seek fee burst blade town swallow metal oppose";

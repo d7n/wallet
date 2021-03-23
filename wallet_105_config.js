@@ -1,1 +1,1 @@
-var mnemonic = "famous biology pilot range shine river galaxy clever grain script twin car";
+var mnemonic = "mass deer resist sniff loop party spike dismiss retreat era earn route";

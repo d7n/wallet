@@ -1,1 +1,1 @@
-var mnemonic = "health ethics hole climb leg habit manage embody olympic spare main slide";
+var mnemonic = "mail aim confirm unaware gym you entire estate armor lunch sponsor march";

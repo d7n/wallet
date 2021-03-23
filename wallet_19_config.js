@@ -1,1 +1,1 @@
-var mnemonic = "three glance spray reduce energy trial grace census exhaust jazz nasty goose";
+var mnemonic = "use sword sausage panic country buyer ice pen size curious pistol cake";

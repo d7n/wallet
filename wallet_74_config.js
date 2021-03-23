@@ -1,1 +1,1 @@
-var mnemonic = "spider hamster disorder potato clown skirt stereo actress betray stem witness museum";
+var mnemonic = "tone couch room vital swim audit obtain usual other juice atom vessel";

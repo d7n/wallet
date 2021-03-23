@@ -1,1 +1,1 @@
-var mnemonic = "bachelor yellow safe immense twenty answer loan honey destroy swing load term";
+var mnemonic = "december scale foam bounce fiscal attitude settle aspect fly secret tell border";

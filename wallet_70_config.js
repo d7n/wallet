@@ -1,1 +1,1 @@
-var mnemonic = "bike lyrics dignity earn total rely loan rug obey win wool square";
+var mnemonic = "fresh gospel stay near enrich dry crystal kit convince midnight series silk";

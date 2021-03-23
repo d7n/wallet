@@ -1,1 +1,1 @@
-var mnemonic = "talk genre enhance vibrant bomb repair bench alcohol sustain tilt economy town";
+var mnemonic = "craft morning cause road airport extend amount else prevent merry poet deputy";

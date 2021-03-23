@@ -1,1 +1,1 @@
-var mnemonic = "tree broom laptop moral rail board arctic fortune medal among tape swallow";
+var mnemonic = "clever fault elephant permit axis walnut course salad goose allow exile slab";

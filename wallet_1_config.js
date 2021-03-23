@@ -1,1 +1,1 @@
-var mnemonic = "vehicle oblige swap enable speed flash feed clarify come maximum space gentle";
+var mnemonic = "bargain weather join cancel pyramid girl foot exercise electric normal glare net";

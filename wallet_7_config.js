@@ -1,1 +1,1 @@
-var mnemonic = "case sketch sniff item chest blame space total document wood quality toast";
+var mnemonic = "execute west elegant child version awesome toast cause drip marriage solar grow";

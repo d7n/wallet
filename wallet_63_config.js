@@ -1,1 +1,1 @@
-var mnemonic = "close poem tiny sugar deliver fragile butter unlock unique father uphold inside";
+var mnemonic = "top home champion void abandon section energy garment drip grid flight theme";

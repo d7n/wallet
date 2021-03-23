@@ -1,1 +1,1 @@
-var mnemonic = "attract distance broom afford sun subject before combine option sentence embrace feed";
+var mnemonic = "idea pyramid catalog nice cabbage ski decorate chase choice athlete teach pool";

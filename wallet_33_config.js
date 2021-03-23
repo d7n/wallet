@@ -1,1 +1,1 @@
-var mnemonic = "toward drop peanut young shy already ribbon problem turkey misery move output";
+var mnemonic = "talk bomb engage upset athlete exhaust joke view excite swallow tank hospital";

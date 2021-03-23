@@ -1,1 +1,1 @@
-var mnemonic = "olive leisure fade couch smooth grunt minute focus leisure miracle pact dinosaur";
+var mnemonic = "broccoli faint slight empty any ride reflect pulse leisure radar joy surface";

@@ -1,1 +1,1 @@
-var mnemonic = "solar toilet verify change cement penalty two cinnamon category ethics core ceiling";
+var mnemonic = "burst gossip roof actual permit diesel glad merry hint author midnight august";

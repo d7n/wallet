@@ -1,1 +1,1 @@
-var mnemonic = "knock farm basic broken verify dress gesture topple olive hole envelope climb";
+var mnemonic = "grab false math fatal sort mind toilet lake jeans solid public good";

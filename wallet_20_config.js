@@ -1,1 +1,1 @@
-var mnemonic = "claim alarm prepare leopard banana kangaroo whisper around symbol barely solar brave";
+var mnemonic = "blouse glare swim teach choice warm inside champion peace inform lizard radar";

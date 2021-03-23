@@ -1,1 +1,1 @@
-var mnemonic = "worry poverty stumble involve birth vivid eyebrow destroy pet elite evolve tourist";
+var mnemonic = "east author never company slight slam traffic exist warfare post visa advice";

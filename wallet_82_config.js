@@ -1,1 +1,1 @@
-var mnemonic = "pluck ramp walk canoe charge honey gasp skirt object adult else doctor";
+var mnemonic = "secret fruit valley across sort arrest humor sudden crane raven secret gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "double castle teach medal word fury click smart scheme track rice surface";
+var mnemonic = "symptom raw fitness timber mercy runway lamp unfold birth grape tenant leopard";

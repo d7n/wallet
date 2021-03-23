@@ -1,1 +1,1 @@
-var mnemonic = "public oppose youth clog film common treat sphere wrestle hub swing index";
+var mnemonic = "play swing come lazy security sweet evoke quick door budget damp square";

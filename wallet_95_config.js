@@ -1,1 +1,1 @@
-var mnemonic = "local purpose swap want fetch apple verb strategy umbrella purpose absurd absent";
+var mnemonic = "step fresh pear champion unhappy canoe give universe zebra cake oppose math";

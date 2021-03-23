@@ -1,1 +1,1 @@
-var mnemonic = "snap remind business omit moral lizard pistol skin voyage fade adapt return";
+var mnemonic = "surprise common audit cricket curve despair trash labor milk chapter check size";

@@ -1,1 +1,1 @@
-var mnemonic = "negative woman okay oppose wonder retreat slight easily team sadness knee pottery";
+var mnemonic = "unveil enlist hungry manage hedgehog bulb element immune miss dad way person";

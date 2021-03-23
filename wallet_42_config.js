@@ -1,1 +1,1 @@
-var mnemonic = "great inmate improve sniff biology attitude couple this bone dial curve raven";
+var mnemonic = "enough dream wheel embody silk review crush meadow turkey creek crop blade";

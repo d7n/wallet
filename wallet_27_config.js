@@ -1,1 +1,1 @@
-var mnemonic = "fabric arrange exist bar debris canal express game embrace issue shoe acoustic";
+var mnemonic = "state clinic thank message rare immense gun rude pupil sunny jump mail";

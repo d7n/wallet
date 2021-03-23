@@ -1,1 +1,1 @@
-var mnemonic = "inject sail volume decide suspect auction swear blue bind tonight atom inside";
+var mnemonic = "arrive hat chicken system pipe actor hint danger sound iron gauge number";

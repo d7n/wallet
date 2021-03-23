@@ -1,1 +1,1 @@
-var mnemonic = "cement pudding scan direct limb dwarf slender admit purity surround gain second";
+var mnemonic = "butter school device surround cherry liquid fortune gym pitch wide visa patch";

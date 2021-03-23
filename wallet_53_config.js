@@ -1,1 +1,1 @@
-var mnemonic = "tuna width scene tribe diary envelope admit swarm economy sting apart celery";
+var mnemonic = "goat silly hawk what soap hope kid comfort risk equal purchase grocery";

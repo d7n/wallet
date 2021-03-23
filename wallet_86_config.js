@@ -1,1 +1,1 @@
-var mnemonic = "diary eight biology glad problem lounge second media during adjust clock hub";
+var mnemonic = "honey fade fork protect plate eternal oppose fatal fox danger miracle rack";

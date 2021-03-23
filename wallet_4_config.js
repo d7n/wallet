@@ -1,1 +1,1 @@
-var mnemonic = "fossil health fall subway bean various waste race kit fire true always";
+var mnemonic = "resemble pig surprise member sock border easy sudden bamboo obvious private glide";

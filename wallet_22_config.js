@@ -1,1 +1,1 @@
-var mnemonic = "open forest congress quote speed resource advance endless paper vapor eyebrow regret";
+var mnemonic = "ensure fantasy record torch purchase summer renew pause under helmet misery latin";

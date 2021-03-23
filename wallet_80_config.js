@@ -1,1 +1,1 @@
-var mnemonic = "adjust bleak oblige barrel remain travel decorate energy toy dumb unique knock";
+var mnemonic = "simple cradle waste endorse demise clap sadness web swap acquire save wife";

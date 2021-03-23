@@ -1,1 +1,1 @@
-var mnemonic = "enemy choice want crouch emotion this script dwarf hockey cart elite south";
+var mnemonic = "sort combine dumb deputy wife rib state library relax debris benefit speak";

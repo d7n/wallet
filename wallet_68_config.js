@@ -1,1 +1,1 @@
-var mnemonic = "peace bridge enact cup fashion repeat tent club identify fancy glide engine";
+var mnemonic = "wing mango viable attack grid tone stool wing enroll walk green suggest";

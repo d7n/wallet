@@ -1,1 +1,1 @@
-var mnemonic = "royal rival seminar pig eternal drum vacant journey ancient load rare connect";
+var mnemonic = "skirt float sound spell output close hurdle climb unable achieve mosquito course";

@@ -1,1 +1,1 @@
-var mnemonic = "metal virus slow organ violin mimic pattern dream become crack velvet annual";
+var mnemonic = "normal sheriff cluster vivid evil error round universe scheme soap beyond animal";

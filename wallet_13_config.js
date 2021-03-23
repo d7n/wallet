@@ -1,1 +1,1 @@
-var mnemonic = "luxury palace list recall travel open inhale fiction effort garbage mammal broom";
+var mnemonic = "group violin blanket very wet praise like allow rural juice twelve suit";

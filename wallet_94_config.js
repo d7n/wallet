@@ -1,1 +1,1 @@
-var mnemonic = "layer saddle hen jar acquire guess dirt sketch action chuckle record canal";
+var mnemonic = "print target safe sun pipe guard spread leopard pulp digital elite slush";

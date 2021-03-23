@@ -1,1 +1,1 @@
-var mnemonic = "paddle chimney drastic shiver forum present daughter major glow example bright shove";
+var mnemonic = "resource direct coach young atom fat second oblige lava color kite capital";

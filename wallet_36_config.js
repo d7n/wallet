@@ -1,1 +1,1 @@
-var mnemonic = "clever thumb explain shiver subject dwarf elite civil engine notice bind foil";
+var mnemonic = "best stadium submit misery doctor smooth govern rhythm cat need loop river";

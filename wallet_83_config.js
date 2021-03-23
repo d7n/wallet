@@ -1,1 +1,1 @@
-var mnemonic = "couple please nurse student correct acquire canoe pelican calm pill roast horn";
+var mnemonic = "disagree visit purity sport library puzzle monitor private tenant bind endless wreck";

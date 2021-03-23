@@ -1,1 +1,1 @@
-var mnemonic = "oblige smoke tennis roast cross cotton alarm engage clean radio raw tissue";
+var mnemonic = "echo amazing inflict false appear east fatigue bind license chef oven spread";

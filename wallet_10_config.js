@@ -1,1 +1,1 @@
-var mnemonic = "steak gun gravity carpet sadness twin ancient language stereo pave early please";
+var mnemonic = "decide morning parrot wise duck fluid skill rail cloth evidence frozen birth";

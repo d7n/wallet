@@ -1,1 +1,1 @@
-var mnemonic = "when nut kidney brush slogan clip parrot flight essay spray staff oyster";
+var mnemonic = "supreme domain wing purchase then bargain where sad enable planet plastic critic";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy pink speed calm warm siege purse sword mesh stone tip universe";
+var mnemonic = "lady stick soda ball sunny slender dance busy retire speak road puzzle";

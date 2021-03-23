@@ -1,1 +1,1 @@
-var mnemonic = "tip loud census wall gold observe will know great green style mistake";
+var mnemonic = "wisdom situate snap icon ride grape become soul unable relief analyst tornado";

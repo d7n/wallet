@@ -1,1 +1,1 @@
-var mnemonic = "where opinion carbon arch horror sister umbrella person slow session tray three";
+var mnemonic = "refuse fold surface donate artwork pistol enhance slice burden enroll ability fog";

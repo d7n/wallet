@@ -1,1 +1,1 @@
-var mnemonic = "sing relax junior bird palace wheat monster gaze hazard car economy cake";
+var mnemonic = "pond group adjust carry actor labor puzzle icon tooth expose reopen figure";

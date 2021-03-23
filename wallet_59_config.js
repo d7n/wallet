@@ -1,1 +1,1 @@
-var mnemonic = "fragile little earth joy unaware coffee calm urban pudding rally volume talk";
+var mnemonic = "stone pyramid mesh swap limit salad sick exercise together raise wisdom auction";

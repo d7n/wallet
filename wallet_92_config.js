@@ -1,1 +1,1 @@
-var mnemonic = "country float elder drastic know left relief woman early frame install excess";
+var mnemonic = "explain math age hurry now distance outer cherry climb lab wave humble";

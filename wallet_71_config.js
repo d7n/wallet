@@ -1,1 +1,1 @@
-var mnemonic = "hair hungry outdoor glare vocal flush dream hedgehog busy fish now occur";
+var mnemonic = "nose grunt rigid brisk begin wolf song able holiday fiscal frog silent";

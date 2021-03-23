@@ -1,1 +1,1 @@
-var mnemonic = "situate own flip nuclear gather siren cabin coil they rug often photo";
+var mnemonic = "debate green purpose alien toss opinion devote noise address raise observe orchard";

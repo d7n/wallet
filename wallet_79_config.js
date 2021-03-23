@@ -1,1 +1,1 @@
-var mnemonic = "drink intact normal rate have visit turtle staff sell either settle hill";
+var mnemonic = "lawsuit together world arrange arrange palace chronic arena sign barrel often eager";

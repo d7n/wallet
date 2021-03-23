@@ -1,1 +1,1 @@
-var mnemonic = "width glimpse food trigger two husband spider sun joke raven major unhappy";
+var mnemonic = "alcohol regular guess pond name power knife fiber news wise tone foot";

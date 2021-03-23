@@ -1,1 +1,1 @@
-var mnemonic = "detect control treat tag shop identify photo language sock armed hobby ranch";
+var mnemonic = "increase put omit cave dynamic science else scrap surge sad modify cherry";

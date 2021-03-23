@@ -1,1 +1,1 @@
-var mnemonic = "steel alien brand ramp rubber trip payment kitten primary blush sock wing";
+var mnemonic = "tuna logic arrest disorder wide quiz front under focus jealous deal snow";

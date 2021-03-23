@@ -1,1 +1,1 @@
-var mnemonic = "sea primary aspect addict chalk syrup despair chronic topic army staff degree";
+var mnemonic = "phone goddess verb toe spring neglect relief ready element spin duck diagram";

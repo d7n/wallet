@@ -1,1 +1,1 @@
-var mnemonic = "involve vehicle sing student equal keen sweet artefact uphold cart want jar";
+var mnemonic = "brick face blind small dentist used group real agent left home explain";

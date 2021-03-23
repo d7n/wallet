@@ -1,1 +1,1 @@
-var mnemonic = "defy dizzy dose ball royal syrup else spice later clock spray cart";
+var mnemonic = "penalty glance weird ball tide type baby tuna kiwi crunch news view";

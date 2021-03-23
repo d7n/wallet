@@ -1,1 +1,1 @@
-var mnemonic = "popular horror hire tobacco salmon dentist dutch impulse screen legend explain nose";
+var mnemonic = "tobacco fortune core ridge foot lend genuine initial auto notable upper couch";

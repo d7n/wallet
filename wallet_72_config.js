@@ -1,1 +1,1 @@
-var mnemonic = "voice donor razor garbage survey left orchard crawl budget defense whale garbage";
+var mnemonic = "brain ability lounge shine armed dilemma simple marriage blame shaft offer can";

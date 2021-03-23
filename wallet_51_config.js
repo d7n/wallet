@@ -1,1 +1,1 @@
-var mnemonic = "chat shoulder demand sorry famous retire dial plug harsh say west forum";
+var mnemonic = "eyebrow own lake snow episode office valley virtual course donkey stumble machine";

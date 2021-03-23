@@ -1,1 +1,1 @@
-var mnemonic = "furnace clown matrix absurd cross betray runway among divert health copper federal";
+var mnemonic = "segment happy arch law gift tribe popular slim left juice jacket pottery";

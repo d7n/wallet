@@ -1,1 +1,1 @@
-var mnemonic = "pole bless broken concert lab still power web click lake book guilt";
+var mnemonic = "sight lyrics tide suspect expect wheel erode pelican avoid hurdle bridge angle";

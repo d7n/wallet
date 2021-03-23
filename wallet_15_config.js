@@ -1,1 +1,1 @@
-var mnemonic = "open orange manage when want issue autumn romance novel detect never perfect";
+var mnemonic = "whip estate similar faint wolf garment twin goat illness speed more effort";

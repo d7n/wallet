@@ -1,1 +1,1 @@
-var mnemonic = "tired million salon choose onion erupt blanket battle tiny excess away track";
+var mnemonic = "voyage copper spoon price prize almost actress crop april bird smile surface";

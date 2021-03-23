@@ -1,1 +1,1 @@
-var mnemonic = "car tattoo drift cliff unveil panda fold prepare grunt remain adult layer";
+var mnemonic = "antenna item rigid work delay name debate flame bullet major island tonight";

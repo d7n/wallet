@@ -1,1 +1,1 @@
-var mnemonic = "deposit wet device note truly else pole pave afford crew swarm lift";
+var mnemonic = "knife worry shed useful spare symptom door drift inflict cloth prefer arrow";

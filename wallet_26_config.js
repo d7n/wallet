@@ -1,1 +1,1 @@
-var mnemonic = "absurd timber spare isolate spatial tip blood toilet powder raw pattern fluid";
+var mnemonic = "table width music phrase rug twice abstract fatigue glass drum bonus wool";

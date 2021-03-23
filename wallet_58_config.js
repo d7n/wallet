@@ -1,1 +1,1 @@
-var mnemonic = "around inject frozen employ sand wealth reward palm found fish arrow wool";
+var mnemonic = "hire shiver they bullet bitter clerk road blame raven crash scrub vote";

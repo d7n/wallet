@@ -1,1 +1,1 @@
-var mnemonic = "deposit engage sniff target used crystal track deal food cart lecture punch";
+var mnemonic = "myth chef envelope rail fantasy army click patch then vocal such worth";

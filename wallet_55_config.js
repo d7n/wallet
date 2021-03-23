@@ -1,1 +1,1 @@
-var mnemonic = "property lab desert fish gorilla hold ahead knee tobacco metal property total";
+var mnemonic = "acid symbol tree ticket repair marble number pulse spot wheat upon fame";
