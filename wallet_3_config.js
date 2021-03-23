@@ -1,1 +1,1 @@
-var mnemonic = "sun bottom giggle circle truth giraffe skin off magic tail wife apology";
+var mnemonic = "cost fuel depend afford update budget oyster clip syrup super child quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "alter identify evoke breeze report acid crunch coconut garden wear foam pair";
+var mnemonic = "amateur output airport cliff acid knock tuition prosper bid badge school hurry";

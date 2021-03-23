@@ -1,1 +1,1 @@
-var mnemonic = "floor tiger rib slush lens cycle helmet ski danger dizzy improve jump";
+var mnemonic = "ignore vicious awkward season web amused right want fan sunny badge rain";

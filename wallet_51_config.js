@@ -1,1 +1,1 @@
-var mnemonic = "opera burst lunar number surface diamond lobster grow cluster skull track act";
+var mnemonic = "cloth lend solution else luggage super awkward twist amount start local laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "risk diagram poem vault tool trust tape arrange rival husband silly fiction";
+var mnemonic = "two narrow alarm best road motor solve boil kingdom pony depart kit";

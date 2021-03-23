@@ -1,1 +1,1 @@
-var mnemonic = "discover deliver try tortoise ready divert profit soon shoot ticket right slight";
+var mnemonic = "essay panel nurse process announce mercy enrich foam sail seminar reform scrap";

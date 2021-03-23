@@ -1,1 +1,1 @@
-var mnemonic = "window key kiss release round method recycle ugly real choose rocket fog";
+var mnemonic = "banana noodle spot armor salon gap truck can garbage bag catalog bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "approve brass vacuum crucial brown slot fence similar drive pudding gift humble";
+var mnemonic = "step robust romance boat gallery coyote wife between base license twelve song";

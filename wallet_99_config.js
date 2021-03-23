@@ -1,1 +1,1 @@
-var mnemonic = "surge improve liberty potato spoil bulk possible dust scissors catalog menu mask";
+var mnemonic = "neglect stuff funny embody excuse fiber leader river fog shed great belt";

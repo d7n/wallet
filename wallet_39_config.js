@@ -1,1 +1,1 @@
-var mnemonic = "spot fiscal bamboo talk shield because april skate vibrant process wasp trigger";
+var mnemonic = "sketch favorite morning undo leopard apology play library job caution awesome trigger";

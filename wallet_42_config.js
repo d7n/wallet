@@ -1,1 +1,1 @@
-var mnemonic = "cloud priority arrow fame diary census else guitar glass fall accuse fold";
+var mnemonic = "margin grid bacon phone result expect outdoor work primary exact little two";

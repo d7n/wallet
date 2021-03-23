@@ -1,1 +1,1 @@
-var mnemonic = "embrace insane maze give penalty drum net front axis agent theory mushroom";
+var mnemonic = "gym vault club daughter antenna swift dirt shed apart eagle industry surge";

@@ -1,1 +1,1 @@
-var mnemonic = "alley duty wave glue hope taste husband magic actual ensure image maid";
+var mnemonic = "situate viable suspect range harsh submit wrestle bird actress wool wool unique";

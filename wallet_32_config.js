@@ -1,1 +1,1 @@
-var mnemonic = "link dynamic remind raven farm banana empower build pond mail soap bean";
+var mnemonic = "face inflict track despair blouse thank orbit weasel bulk west tunnel trouble";

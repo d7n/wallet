@@ -1,1 +1,1 @@
-var mnemonic = "awake blood forward fan horror differ monster curious hybrid skull hurt drink";
+var mnemonic = "dial main piano arrest van ugly kitten toss wage fuel move recipe";

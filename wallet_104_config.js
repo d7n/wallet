@@ -1,1 +1,1 @@
-var mnemonic = "useless damp repair spoon gossip illegal talent swap spot fortune salmon device";
+var mnemonic = "angry actor hair holiday humor mean lunar super carry faith what adult";

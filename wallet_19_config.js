@@ -1,1 +1,1 @@
-var mnemonic = "decide switch rebuild neck original virtual explain achieve faculty chicken nerve grit";
+var mnemonic = "window doll portion column topic trumpet pistol oblige bracket kid cost foster";

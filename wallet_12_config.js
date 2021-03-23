@@ -1,1 +1,1 @@
-var mnemonic = "blossom merit deer announce excite roast muffin alone into debris refuse educate";
+var mnemonic = "draft minute purchase copy crystal deputy sure inspire type eyebrow found chuckle";

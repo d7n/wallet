@@ -1,1 +1,1 @@
-var mnemonic = "kingdom stereo about artist poet opinion domain bless social cushion dwarf letter";
+var mnemonic = "music primary eye bronze oyster ignore hunt edge obvious caution horn scrub";

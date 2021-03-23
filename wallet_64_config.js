@@ -1,1 +1,1 @@
-var mnemonic = "modify arrow subway hospital stable glory accuse annual drum office powder leg";
+var mnemonic = "defense mystery early future online lab champion sun client divert warrior minor";

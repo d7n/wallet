@@ -1,1 +1,1 @@
-var mnemonic = "collect onion tuition grunt illness syrup drift volcano balcony grain actual siege";
+var mnemonic = "reform pair motor junior craft amount moment snow battle wave rice reason";

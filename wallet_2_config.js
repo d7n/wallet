@@ -1,1 +1,1 @@
-var mnemonic = "rabbit ugly peace cat train seminar text universe device kick bitter orbit";
+var mnemonic = "math story bind fatigue axis smart render wing viable palace film grass";

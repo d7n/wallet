@@ -1,1 +1,1 @@
-var mnemonic = "topple slim myth define foam boy pact banana regret focus speak garlic";
+var mnemonic = "fork mixture order visit sound notice write foil drip kick crane just";

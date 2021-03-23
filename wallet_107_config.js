@@ -1,1 +1,1 @@
-var mnemonic = "help cool vessel tone patrol door cheap grunt apology scorpion tornado pole";
+var mnemonic = "grape gravity sentence twelve three emotion myself flavor tiger crystal gym inside";

@@ -1,1 +1,1 @@
-var mnemonic = "run lyrics acid faint earn giant blood echo flame huge foam economy";
+var mnemonic = "left drink dynamic bless gossip broom hour only term cloth disagree sock";

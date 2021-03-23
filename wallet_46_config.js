@@ -1,1 +1,1 @@
-var mnemonic = "manual afraid atom skill meadow baby develop flat crisp mechanic client mean";
+var mnemonic = "grab coil split speed material regret long retire rail august skill east";

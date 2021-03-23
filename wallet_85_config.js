@@ -1,1 +1,1 @@
-var mnemonic = "vacuum equip already ripple method crystal grass lecture february sell sock bleak";
+var mnemonic = "grocery ready essence drastic pond hobby curious point digital hobby program rent";

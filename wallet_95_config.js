@@ -1,1 +1,1 @@
-var mnemonic = "hero bulk raccoon pulp sort shock slim own candy truth depart hawk";
+var mnemonic = "secret hip catch impact settle antenna clarify roof vapor letter output slab";

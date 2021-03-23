@@ -1,1 +1,1 @@
-var mnemonic = "pass imitate crumble enemy dawn wage slide pony tell afford cream stumble";
+var mnemonic = "skate comfort host grass trade sea dragon bicycle mountain time case wrestle";

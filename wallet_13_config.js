@@ -1,1 +1,1 @@
-var mnemonic = "permit absorb alcohol voice jeans riot limb oyster bind turtle grass vibrant";
+var mnemonic = "unusual crucial lawn tribe team fence window improve venture equip disagree soon";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate club shoot inspire stem unfold nothing owner crucial garment laugh stadium";
+var mnemonic = "renew flock adapt license keen viable sing other top office scene few";

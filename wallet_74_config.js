@@ -1,1 +1,1 @@
-var mnemonic = "fan seed twist gaze silly purchase gain basket shoe brave card diary";
+var mnemonic = "settle march sketch miracle dice carry barrel basket long tongue have detect";

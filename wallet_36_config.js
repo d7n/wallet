@@ -1,1 +1,1 @@
-var mnemonic = "giggle crime festival rebel light flock tent limb pact physical cash rival";
+var mnemonic = "water cancel image wealth pledge maid frog volume refuse sheriff cake believe";

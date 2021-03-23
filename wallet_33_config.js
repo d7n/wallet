@@ -1,1 +1,1 @@
-var mnemonic = "category round sight six measure panther horror case room exercise sock social";
+var mnemonic = "captain furnace game produce hub travel chicken sketch link butter woman dog";

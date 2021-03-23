@@ -1,1 +1,1 @@
-var mnemonic = "hunt enhance predict anger tube van matrix wealth citizen voice hope egg";
+var mnemonic = "phone pool cupboard basic enact oxygen put apology alcohol absent surface nature";

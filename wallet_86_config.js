@@ -1,1 +1,1 @@
-var mnemonic = "mixture flush useless mad foster arrange bless upset nothing pool garlic inherit";
+var mnemonic = "roast type raw audit reduce price helmet flag donor fun swarm sugar";

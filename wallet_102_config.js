@@ -1,1 +1,1 @@
-var mnemonic = "mask machine cattle again priority trick tissue average toddler grow correct poem";
+var mnemonic = "long domain room net woman shuffle shrug science spike gate mandate shed";

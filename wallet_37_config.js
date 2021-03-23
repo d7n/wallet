@@ -1,1 +1,1 @@
-var mnemonic = "bright engage pipe other victory help weapon furnace trade lobster mom soap";
+var mnemonic = "invite exhibit receive nice they rural danger sniff trade narrow judge rural";

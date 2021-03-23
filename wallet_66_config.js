@@ -1,1 +1,1 @@
-var mnemonic = "dentist inmate mammal purchase whisper pizza hover deputy crunch lizard zone gap";
+var mnemonic = "winter army lend elder orchard cousin release federal replace hundred proof castle";

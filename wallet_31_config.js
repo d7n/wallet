@@ -1,1 +1,1 @@
-var mnemonic = "census amused invite labor host business heavy speed match verb breeze notable";
+var mnemonic = "leave engine over awake soup ozone dose banana stumble club dream chalk";

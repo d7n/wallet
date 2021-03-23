@@ -1,1 +1,1 @@
-var mnemonic = "smart owner nothing slogan decide someone spend kind rude iron young steak";
+var mnemonic = "notable lucky enough elephant giggle switch old sword essay little select merry";

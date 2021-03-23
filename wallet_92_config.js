@@ -1,1 +1,1 @@
-var mnemonic = "luggage outdoor cannon pitch speak gaze staff pig snake arena trade embody";
+var mnemonic = "connect swallow congress vault gossip minute satisfy abuse monitor legal oblige message";

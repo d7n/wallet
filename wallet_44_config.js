@@ -1,1 +1,1 @@
-var mnemonic = "wet rug expect bundle virus common piece panther toddler similar deer silk";
+var mnemonic = "rifle ice public hero congress end choice smart gown silent nuclear mad";

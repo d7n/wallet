@@ -1,1 +1,1 @@
-var mnemonic = "coil pitch marine popular dilemma bargain exhibit wire direct wing denial oyster";
+var mnemonic = "rigid advance universe cargo talent asthma amateur leave version icon bread together";

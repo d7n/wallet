@@ -1,1 +1,1 @@
-var mnemonic = "harvest chunk actor deer inspire salt dinner hawk close cabin flat step";
+var mnemonic = "office eyebrow side elbow either avoid balance name attitude spend core cancel";

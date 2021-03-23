@@ -1,1 +1,1 @@
-var mnemonic = "wool canvas dentist sheriff window country average weapon sight finger limb curtain";
+var mnemonic = "ancient image saddle mail catch alpha filter valid rose private junior eyebrow";

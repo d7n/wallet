@@ -1,1 +1,1 @@
-var mnemonic = "breeze foil knock cannon federal rich ten cover element sponsor almost viable";
+var mnemonic = "bundle jewel wood robust fix invest object punch moon grab peanut melt";

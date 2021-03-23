@@ -1,1 +1,1 @@
-var mnemonic = "dream capital oval media panic turn boss elder favorite issue chimney merry";
+var mnemonic = "venture name reveal depart segment thought fall powder sauce rebel afford crazy";

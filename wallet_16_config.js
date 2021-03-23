@@ -1,1 +1,1 @@
-var mnemonic = "metal shuffle race govern meat over atom brave bus vault undo february";
+var mnemonic = "impact mystery rebel fault pizza area nation aerobic ghost grief maximum decide";

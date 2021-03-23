@@ -1,1 +1,1 @@
-var mnemonic = "mouse certain laptop doll spice message inject palm hen other amount alien";
+var mnemonic = "cry loan ladder movie laugh matter carbon post access exhibit sausage girl";

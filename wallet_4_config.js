@@ -1,1 +1,1 @@
-var mnemonic = "parent uncle young peanut believe chase pony renew oven member night leopard";
+var mnemonic = "silly stumble theme repeat mutual tourist chase antique decrease approve dry winter";

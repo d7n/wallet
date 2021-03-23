@@ -1,1 +1,1 @@
-var mnemonic = "knee urban knock stove pigeon reduce spoon cactus design toilet reveal frozen";
+var mnemonic = "group addict invest pizza broom friend raven soup liberty minor crowd sail";

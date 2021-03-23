@@ -1,1 +1,1 @@
-var mnemonic = "deal kit disagree cost payment maximum clap bulb step assume flat fun";
+var mnemonic = "fit kitchen enable fragile pair pause jacket rookie mad size deputy alien";

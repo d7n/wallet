@@ -1,1 +1,1 @@
-var mnemonic = "essence tomorrow captain soda rice silk alpha cannon scorpion ramp eight wrist";
+var mnemonic = "major omit drama music cattle fog body reject federal gospel gasp unusual";

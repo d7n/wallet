@@ -1,1 +1,1 @@
-var mnemonic = "setup mimic rug critic depend develop order impose cup life swamp photo";
+var mnemonic = "learn supreme high artefact main that slam ozone gossip life juice cage";

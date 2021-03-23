@@ -1,1 +1,1 @@
-var mnemonic = "olive abuse drink bar dynamic faith grab amazing shrimp famous scale gauge";
+var mnemonic = "clock tower exchange resemble model guess fat run banner sketch impulse use";

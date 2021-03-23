@@ -1,1 +1,1 @@
-var mnemonic = "champion inspire seed town remember viable ghost put build surge paper alley";
+var mnemonic = "nerve brass age humor hotel build scrub magnet copper inquiry dune burden";

@@ -1,1 +1,1 @@
-var mnemonic = "true trust velvet program sleep fun tip tongue mom parade couch boil";
+var mnemonic = "sting uncle afford teach humor stage group daring submit focus sense laugh";

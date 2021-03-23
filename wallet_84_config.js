@@ -1,1 +1,1 @@
-var mnemonic = "mother siren intact proof cradle rely siren dove text garden pave alert";
+var mnemonic = "radar conduct this time truth year marble cactus hundred cactus night merit";

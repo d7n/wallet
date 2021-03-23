@@ -1,1 +1,1 @@
-var mnemonic = "shuffle crouch topic topic luxury rally victory quit behind adapt hand supply";
+var mnemonic = "drama donate bitter mask expand chimney goddess another patrol scout great great";

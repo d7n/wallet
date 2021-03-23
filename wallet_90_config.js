@@ -1,1 +1,1 @@
-var mnemonic = "keen very allow loyal east popular option expire dice yellow spot gossip";
+var mnemonic = "attitude spare shock birth velvet resource action lawsuit grit sound cream sudden";

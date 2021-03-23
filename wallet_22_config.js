@@ -1,1 +1,1 @@
-var mnemonic = "child awful multiply pact simple donate cinnamon saddle video spice palm coyote";
+var mnemonic = "disease learn swing motor word two husband rate garage inflict voice nut";

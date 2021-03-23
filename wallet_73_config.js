@@ -1,1 +1,1 @@
-var mnemonic = "moment whale era mail idle asset endless ask pool flock angry race";
+var mnemonic = "sweet genius height park table own tuition switch brand alcohol wide promote";

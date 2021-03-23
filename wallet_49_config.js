@@ -1,1 +1,1 @@
-var mnemonic = "boil live lobster oyster settle orient ceiling junk push elite jazz taxi";
+var mnemonic = "miracle mandate organ swim denial arm train similar jaguar carpet cotton deliver";

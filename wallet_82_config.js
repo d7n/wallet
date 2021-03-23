@@ -1,1 +1,1 @@
-var mnemonic = "senior joke assault marble install upon also voyage shadow bounce wolf green";
+var mnemonic = "much sport stamp visual task nut leopard omit tackle wear essence balcony";

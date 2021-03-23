@@ -1,1 +1,1 @@
-var mnemonic = "patient spatial coach inform original afford asthma project behind reduce abandon circle";
+var mnemonic = "lecture august behave position almost prepare degree include saddle coil winner awesome";

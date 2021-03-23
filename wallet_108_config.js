@@ -1,1 +1,1 @@
-var mnemonic = "whisper absurd barrel scrub sugar keen tired account sure age fire boy";
+var mnemonic = "crime success pride exhibit employ define keen riot doctor gym afraid obey";

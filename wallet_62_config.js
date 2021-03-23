@@ -1,1 +1,1 @@
-var mnemonic = "transfer morning indoor early one midnight repeat little matrix size stumble response";
+var mnemonic = "rose diesel joke injury faint miracle obvious possible duck syrup pond fossil";

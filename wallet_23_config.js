@@ -1,1 +1,1 @@
-var mnemonic = "panic doctor season range venture donor behave venture timber blush wear impose";
+var mnemonic = "script wrap abstract crush ten donate crunch place teach rose egg oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "couple arctic side panic much stay once fox link penalty plunge north";
+var mnemonic = "post anxiety dismiss toss sleep knock reason chaos tray derive funny clay";

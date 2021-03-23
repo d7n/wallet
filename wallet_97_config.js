@@ -1,1 +1,1 @@
-var mnemonic = "echo fee alien road boring miss era mention green skull forward essay";
+var mnemonic = "garbage approve infant toss grit file crawl virus march miss file basic";

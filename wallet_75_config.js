@@ -1,1 +1,1 @@
-var mnemonic = "there daughter tray milk fresh box addict absorb pencil defense annual truck";
+var mnemonic = "rent price two pear couple wreck actual hawk worry magnet potato swap";

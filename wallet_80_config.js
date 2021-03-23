@@ -1,1 +1,1 @@
-var mnemonic = "club bar profit spray release wolf creek gain friend keep stumble together";
+var mnemonic = "rocket yard follow spell exact glare gallery duck prevent danger ranch diesel";

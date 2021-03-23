@@ -1,1 +1,1 @@
-var mnemonic = "tone bullet artist shop illegal peace hair child adapt expose involve explain";
+var mnemonic = "fabric renew dial atom squeeze concert unknown apple recipe demand ahead cover";

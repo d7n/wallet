@@ -1,1 +1,1 @@
-var mnemonic = "baby priority grace crane trim series accident melt honey sadness meat wish";
+var mnemonic = "feed tortoise wood upset plastic wagon shy festival meadow cigar make family";

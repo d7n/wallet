@@ -1,1 +1,1 @@
-var mnemonic = "device lab match coffee ask bounce salute give alcohol siren attract north";
+var mnemonic = "evoke nose off harbor dragon episode claim ten resource another brush worry";

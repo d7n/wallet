@@ -1,1 +1,1 @@
-var mnemonic = "cart flat odor buddy when festival forget promote alcohol wool bread local";
+var mnemonic = "happy pluck champion fury seven strike alter smile avocado check hidden famous";

@@ -1,1 +1,1 @@
-var mnemonic = "net stool ethics wasp arrest chat parent rebuild sustain december tooth trip";
+var mnemonic = "actress method want sure island story aunt thunder biology either nephew language";

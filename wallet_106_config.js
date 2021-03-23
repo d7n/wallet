@@ -1,1 +1,1 @@
-var mnemonic = "abandon dune interest fault treat load decade brother century drip blur actress";
+var mnemonic = "witness engage stable sight maple keen print poverty govern remind like green";

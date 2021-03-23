@@ -1,1 +1,1 @@
-var mnemonic = "vault walnut chief awake fox cigar quiz reject satoshi sustain summer mixed";
+var mnemonic = "helmet veteran craft today adjust slam ketchup sponsor jar cart combine ask";

@@ -1,1 +1,1 @@
-var mnemonic = "silent warm egg library income chaos mad gap dirt party okay struggle";
+var mnemonic = "view sphere warm genius link cake hint junk song ski piece enter";

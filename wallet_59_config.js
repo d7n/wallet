@@ -1,1 +1,1 @@
-var mnemonic = "open pass across concert monitor settle vanish leave situate convince catch travel";
+var mnemonic = "usage rain exit fan exhibit dirt remove weasel habit liar jungle phone";

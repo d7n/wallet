@@ -1,1 +1,1 @@
-var mnemonic = "winner step demise parade hover depart excess today latin fee best swim";
+var mnemonic = "adjust connect cupboard accuse voyage fetch focus vicious alien eagle cigar desert";

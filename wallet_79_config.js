@@ -1,1 +1,1 @@
-var mnemonic = "extra advance able palm invite vanish indicate motion vibrant veteran panic leaf";
+var mnemonic = "label small fan antique sun coconut floor kitten ceiling roast junk provide";

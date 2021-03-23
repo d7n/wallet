@@ -1,1 +1,1 @@
-var mnemonic = "elite flush coral romance census arrange retire viable dove joke frozen laugh";
+var mnemonic = "tiger oppose wear deal dismiss bulb you recycle proud document regular milk";

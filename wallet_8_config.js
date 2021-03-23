@@ -1,1 +1,1 @@
-var mnemonic = "price resist ill wild current system bright inner top jaguar region elephant";
+var mnemonic = "marriage make blast ripple hard unveil early elder tree isolate hungry upon";

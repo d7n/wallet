@@ -1,1 +1,1 @@
-var mnemonic = "candy vital motion soda cost until caution increase alter kiwi park ball";
+var mnemonic = "will bid crisp hotel screen agree affair taxi youth dinner flush page";

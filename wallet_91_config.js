@@ -1,1 +1,1 @@
-var mnemonic = "impulse subject tag good flight town royal liberty flower ten immense swallow";
+var mnemonic = "gorilla delay cup horn rhythm gossip topic arrest test van put rose";

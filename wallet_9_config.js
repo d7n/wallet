@@ -1,1 +1,1 @@
-var mnemonic = "casual video debris group tuition clay rapid apology bronze hour stadium verb";
+var mnemonic = "bulk estate inhale wrist mouse matrix merge tail congress assume motion muffin";

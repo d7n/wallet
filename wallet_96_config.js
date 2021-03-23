@@ -1,1 +1,1 @@
-var mnemonic = "alley bonus kiss gaze future wing person equal notice sauce paper tiger";
+var mnemonic = "uniform before divert unveil submit furnace jungle cream van endorse they shield";

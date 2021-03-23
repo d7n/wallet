@@ -1,1 +1,1 @@
-var mnemonic = "immune west train develop addict rain cinnamon kingdom permit kangaroo install vault";
+var mnemonic = "table scrub negative receive produce cable exist test burger unhappy private stove";

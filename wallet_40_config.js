@@ -1,1 +1,1 @@
-var mnemonic = "regret alter parrot picnic aspect casual enforce admit rival weapon robot hollow";
+var mnemonic = "paper neutral lizard mesh winner amazing chapter pulp toss drive robot cage";
