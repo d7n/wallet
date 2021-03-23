@@ -1,1 +1,1 @@
-var mnemonic = "deliver loud net broccoli pizza plastic motor hair come figure resource say";
+var mnemonic = "lend curve cash rich talk sketch exotic zebra deposit exile shop side";

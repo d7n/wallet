@@ -1,1 +1,1 @@
-var mnemonic = "spoil recipe salad among puzzle paddle unknown globe increase quarter attack monitor";
+var mnemonic = "extra vault once piece matter tongue style build female saddle myth short";

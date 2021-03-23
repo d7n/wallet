@@ -1,1 +1,1 @@
-var mnemonic = "news fire wheel entry crowd screen roof keep invest sense sea permit";
+var mnemonic = "cabin leaf business silent defy lottery hard piece throw doll that guide";

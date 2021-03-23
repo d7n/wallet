@@ -1,1 +1,1 @@
-var mnemonic = "mystery upon alien style toss habit bus pottery history body endless anxiety";
+var mnemonic = "crowd glad milk accident slice winter spike alert morning tray build neither";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans kite voice drop verify undo funny rack seek sense expire point";
+var mnemonic = "green phrase scare laugh harbor bread current fiction return actual foot token";

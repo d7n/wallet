@@ -1,1 +1,1 @@
-var mnemonic = "pelican nurse warfare address maid brisk broom return shallow february weasel trigger";
+var mnemonic = "embark scorpion make pave small comfort jeans soldier card exclude brass year";

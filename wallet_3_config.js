@@ -1,1 +1,1 @@
-var mnemonic = "actress spy hammer gauge pair reveal bitter claim sausage fringe lemon luxury";
+var mnemonic = "private sunny raccoon upper advance goat praise maximum destroy apology public firm";

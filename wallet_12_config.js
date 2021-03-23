@@ -1,1 +1,1 @@
-var mnemonic = "bargain two agree color heart surround wide almost leave chuckle deer artefact";
+var mnemonic = "meat rack tape field fork pizza purpose shed jaguar cinnamon screen inform";

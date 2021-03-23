@@ -1,1 +1,1 @@
-var mnemonic = "attend minor pole window school badge under step celery dash organ chicken";
+var mnemonic = "turtle material pottery hub pudding describe secret jewel comfort practice mystery busy";

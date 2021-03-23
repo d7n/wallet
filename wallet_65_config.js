@@ -1,1 +1,1 @@
-var mnemonic = "lava cradle boil visit liberty come essence fitness discover any debris begin";
+var mnemonic = "similar mystery vehicle stuff despair smart obscure model dice able paddle food";

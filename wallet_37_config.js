@@ -1,1 +1,1 @@
-var mnemonic = "aisle mixed frozen brisk fruit logic suspect hurry follow travel clean anger";
+var mnemonic = "bacon gather arch soldier better achieve predict recycle property tank motor lamp";

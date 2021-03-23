@@ -1,1 +1,1 @@
-var mnemonic = "combine name garden rough interest loan cereal toddler humble artist cushion soda";
+var mnemonic = "trend fly icon air trade peasant steel trumpet square then page orphan";

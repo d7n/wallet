@@ -1,1 +1,1 @@
-var mnemonic = "medal noodle pole brief teach knee slogan garment nephew able scissors caution";
+var mnemonic = "square aisle airport frown parrot butter cushion cash laundry trade oppose whisper";

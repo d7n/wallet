@@ -1,1 +1,1 @@
-var mnemonic = "clap thunder jacket tip soft guilt enlist foam galaxy bean asthma bread";
+var mnemonic = "sleep anger fluid bench zero robot brand world galaxy artwork road sad";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi filter survey left program critic casual toe pulp pink man fancy";
+var mnemonic = "proud edge wall glue liquid cage cream market dog journey fire rebel";

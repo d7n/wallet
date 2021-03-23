@@ -1,1 +1,1 @@
-var mnemonic = "embrace apology calm squirrel rack roast multiply access bone bounce draw anchor";
+var mnemonic = "glance fun potato siren rude spell ancient portion maze lottery forget answer";

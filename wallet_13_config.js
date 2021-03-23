@@ -1,1 +1,1 @@
-var mnemonic = "fame awesome shine brown runway vintage carry ecology advice used trouble quarter";
+var mnemonic = "maple offer barely badge chunk inspire pencil false term acoustic suit citizen";

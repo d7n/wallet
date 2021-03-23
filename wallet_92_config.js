@@ -1,1 +1,1 @@
-var mnemonic = "add prosper feed victory muscle rice dry inherit cannon modify room ready";
+var mnemonic = "shallow panel shove fee account assume memory mechanic city bleak boy project";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight park organ night leisure sample vote blade drift general story release";
+var mnemonic = "claw napkin transfer crucial baby mosquito clap palm voyage pitch dress focus";

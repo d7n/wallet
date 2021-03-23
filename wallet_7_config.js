@@ -1,1 +1,1 @@
-var mnemonic = "marriage loop achieve cousin pledge apart pumpkin cute orphan provide culture rubber";
+var mnemonic = "document cannon casino neglect brave other industry stairs umbrella lottery lens nerve";

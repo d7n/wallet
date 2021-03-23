@@ -1,1 +1,1 @@
-var mnemonic = "step urge witness seed oil wise solar mail cattle sense gloom fiscal";
+var mnemonic = "soup end category build young pottery crunch bird uncover catalog border there";

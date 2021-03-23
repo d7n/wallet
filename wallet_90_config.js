@@ -1,1 +1,1 @@
-var mnemonic = "design donor seminar knife cement flock mother six pledge core jacket enable";
+var mnemonic = "pyramid table wrestle clog october clerk distance two dog whisper cactus heavy";

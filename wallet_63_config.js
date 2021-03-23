@@ -1,1 +1,1 @@
-var mnemonic = "fringe toss wrap such obvious jeans kitchen orbit plunge omit sword novel";
+var mnemonic = "marine term category glue eagle room sheriff hole wagon grain legal seven";

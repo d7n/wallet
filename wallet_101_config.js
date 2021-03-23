@@ -1,1 +1,1 @@
-var mnemonic = "gloom chest anxiety guess turtle pluck excite misery term cake sister crunch";
+var mnemonic = "quantum core eye inspire horror draw fringe blur cheese frog panda lion";

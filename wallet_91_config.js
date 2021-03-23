@@ -1,1 +1,1 @@
-var mnemonic = "cruise finger type conduct salute cousin toe paper stable office refuse correct";
+var mnemonic = "arena solar term silk audit nest name sentence alcohol manual tool exotic";

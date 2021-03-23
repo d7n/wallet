@@ -1,1 +1,1 @@
-var mnemonic = "hire good tray spice ladder where share vehicle explain entry special aware";
+var mnemonic = "wild common always victory obvious gravity window embody dentist tourist adult hospital";

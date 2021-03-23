@@ -1,1 +1,1 @@
-var mnemonic = "either ocean motor brand travel inner match alley filter before helmet mixed";
+var mnemonic = "van confirm that process matrix fun text little impact stuff manage cost";

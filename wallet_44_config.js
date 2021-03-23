@@ -1,1 +1,1 @@
-var mnemonic = "total chase shield order hamster artefact genius essay seminar music kid end";
+var mnemonic = "crane soldier hub kitchen dove estate number idle among best salute squirrel";

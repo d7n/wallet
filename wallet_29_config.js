@@ -1,1 +1,1 @@
-var mnemonic = "right dirt unaware letter vehicle noise ride provide enable limb solar sentence";
+var mnemonic = "also melt flash route whisper govern turkey cement build candy coil stand";

@@ -1,1 +1,1 @@
-var mnemonic = "merry street sick impose sense pitch correct this broken rebuild village tiger";
+var mnemonic = "bamboo noise cover total puzzle trash document horse festival scheme target response";

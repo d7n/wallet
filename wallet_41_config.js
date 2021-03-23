@@ -1,1 +1,1 @@
-var mnemonic = "scrub scrap universe useful shoot champion this then potato ten script make";
+var mnemonic = "mimic wait swim rate exotic hundred convince stomach million nasty brother loan";

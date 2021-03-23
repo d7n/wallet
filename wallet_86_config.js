@@ -1,1 +1,1 @@
-var mnemonic = "cave price pitch metal trophy learn prepare tribe hollow frozen frequent mammal";
+var mnemonic = "loyal alpha scrap repeat acid accident pigeon online apology taste upset ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "episode hard horse uncover happy december cannon kit pledge angry feature essay";
+var mnemonic = "ritual buyer pilot donkey special fly stove monitor give assume mail dust";

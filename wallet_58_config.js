@@ -1,1 +1,1 @@
-var mnemonic = "unique future wire can chuckle keen lyrics badge soul lake upper usual";
+var mnemonic = "remind tobacco iron adapt upper harbor giant stamp island business swear primary";

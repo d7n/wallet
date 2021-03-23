@@ -1,1 +1,1 @@
-var mnemonic = "coin hope olympic practice town fence clarify just muscle melody diet twice";
+var mnemonic = "attract lazy worth urban fox snack antique already hunt dumb cute found";

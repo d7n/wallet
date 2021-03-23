@@ -1,1 +1,1 @@
-var mnemonic = "work smoke slot arm human boy fine stool camp excuse bring drip";
+var mnemonic = "service quantum twelve deny adult tourist stadium crew hood hour expect forest";

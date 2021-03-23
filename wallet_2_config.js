@@ -1,1 +1,1 @@
-var mnemonic = "fiscal isolate wedding often style manage river common coffee special hour wrap";
+var mnemonic = "bird stadium shrimp quiz estate clown thumb swamp reason grit feed evolve";

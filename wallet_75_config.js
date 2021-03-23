@@ -1,1 +1,1 @@
-var mnemonic = "vote neck plate cheap spoil jaguar genre install critic inhale captain behave";
+var mnemonic = "athlete rabbit dilemma shift evolve joke town digital squirrel return end injury";

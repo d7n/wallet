@@ -1,1 +1,1 @@
-var mnemonic = "track squeeze scheme price fatigue prevent filter tuition pizza carpet change reflect";
+var mnemonic = "confirm logic syrup cotton duty ring clay peanut message private grit power";

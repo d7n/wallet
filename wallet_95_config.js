@@ -1,1 +1,1 @@
-var mnemonic = "robot unlock stereo balance easily wreck captain roof lift side vintage shove";
+var mnemonic = "runway subject unable mobile better afford rate brain until double update soul";

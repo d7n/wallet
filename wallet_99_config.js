@@ -1,1 +1,1 @@
-var mnemonic = "invest paddle fringe confirm firm else harsh square juice record quality gaze";
+var mnemonic = "piece route run average flock catalog sight pole broom once core deputy";

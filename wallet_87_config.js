@@ -1,1 +1,1 @@
-var mnemonic = "floor swamp question property wall load pyramid dust chase elegant turn clown";
+var mnemonic = "auction august twist clutch dawn country scheme purity day jump small humble";

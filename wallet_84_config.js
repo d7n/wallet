@@ -1,1 +1,1 @@
-var mnemonic = "deposit guard priority fold shift rib forget theory title vintage color nest";
+var mnemonic = "final garden feature minute rail rather lecture risk version pioneer spatial debate";

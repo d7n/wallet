@@ -1,1 +1,1 @@
-var mnemonic = "march north flavor sibling rescue huge afford bind chunk salad include spy";
+var mnemonic = "urge orange genius wire whisper pause trumpet trade mosquito awesome link scheme";

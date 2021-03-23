@@ -1,1 +1,1 @@
-var mnemonic = "dignity arrive supreme upset goat satisfy foster mad bike bomb address bridge";
+var mnemonic = "another glide video blade sell sunset favorite fade army round wet dismiss";

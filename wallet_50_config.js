@@ -1,1 +1,1 @@
-var mnemonic = "photo about canoe nation naive canal coil fortune cause injury balance say";
+var mnemonic = "husband twist sponsor mountain library grant jump drastic reason find bright effort";

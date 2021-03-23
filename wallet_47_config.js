@@ -1,1 +1,1 @@
-var mnemonic = "before draw crazy boy keep sting exercise poet coral quarter beyond hair";
+var mnemonic = "tank duck correct nest destroy flash entry welcome any invest spatial marriage";

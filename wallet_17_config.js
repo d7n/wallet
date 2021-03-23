@@ -1,1 +1,1 @@
-var mnemonic = "inch holiday casual dizzy silk amateur depend seminar theory bright off accuse";
+var mnemonic = "dream title chef man turtle soda upon project lizard staff bone park";

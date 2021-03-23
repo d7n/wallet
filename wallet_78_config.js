@@ -1,1 +1,1 @@
-var mnemonic = "simple that box surround olympic entry text velvet fringe abuse sustain float";
+var mnemonic = "code dignity danger tiny wife result captain often sadness figure melody quote";

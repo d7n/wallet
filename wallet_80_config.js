@@ -1,1 +1,1 @@
-var mnemonic = "shop enhance zone beyond gain satisfy february gun please club enter search";
+var mnemonic = "danger human fitness scare drum grant slim moon find inherit crop patrol";

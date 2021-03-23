@@ -1,1 +1,1 @@
-var mnemonic = "bottom ill brain switch equal usage spring stove toward member you nut";
+var mnemonic = "carpet talk where display fury space position sense foil ramp venture inflict";

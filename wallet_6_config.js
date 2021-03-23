@@ -1,1 +1,1 @@
-var mnemonic = "embark rocket poet merge balcony manage nice like unfold swim drama chief";
+var mnemonic = "notice sort when easy sea stand skin farm aunt wink energy anger";

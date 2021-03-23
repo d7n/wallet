@@ -1,1 +1,1 @@
-var mnemonic = "stool there coyote comic maple fee reflect angry medal stomach panic seat";
+var mnemonic = "effort orbit knee group feature recall october menu that abandon magic truth";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer butter liar frequent leg design husband mean place modify joy shed";
+var mnemonic = "reunion clock puzzle cry disagree post engage treat sugar giant hamster access";

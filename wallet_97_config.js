@@ -1,1 +1,1 @@
-var mnemonic = "situate faculty system hat olive unit season century exercise assist kingdom select";
+var mnemonic = "seven capable income surface furnace despair clever penalty airport three chaos agree";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon return join fat scene finish office other shield enforce cereal luxury";
+var mnemonic = "still annual gaze auto luxury shine mom pig sponsor vibrant gift heart";

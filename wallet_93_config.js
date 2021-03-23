@@ -1,1 +1,1 @@
-var mnemonic = "table angle sign lizard else cluster forest renew winner snake essence bamboo";
+var mnemonic = "amused soft addict fox split addict scheme appear initial grit atom expand";

@@ -1,1 +1,1 @@
-var mnemonic = "lion bacon recipe job photo adapt infant unlock fabric whip receive swamp";
+var mnemonic = "opinion oil mom member quit dash spare surface sorry urban very lake";

@@ -1,1 +1,1 @@
-var mnemonic = "approve armed trash junk lawsuit left bike ostrich tackle cave flip stay";
+var mnemonic = "ripple plunge naive six head juice faith faculty egg damp other cabbage";

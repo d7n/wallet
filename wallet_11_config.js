@@ -1,1 +1,1 @@
-var mnemonic = "forward awful observe spoil strong group juice relax inherit scare nerve actor";
+var mnemonic = "zebra fruit local spawn announce among cheese useful build insect lake already";

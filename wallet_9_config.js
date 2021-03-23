@@ -1,1 +1,1 @@
-var mnemonic = "jump virus medal solid reason remind slender intact confirm uphold used lady";
+var mnemonic = "found quantum spin refuse foot axis border drill yellow actor lake black";

@@ -1,1 +1,1 @@
-var mnemonic = "escape sample donkey result present mutual express dash view basic door race";
+var mnemonic = "very student prize ramp deny practice spell dream casino glory wood answer";

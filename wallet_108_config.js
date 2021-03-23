@@ -1,1 +1,1 @@
-var mnemonic = "hungry tide organ traffic magnet sock return laptop dilemma kangaroo aim fetch";
+var mnemonic = "sea curious december harvest agent need green begin erode tackle pledge depart";

@@ -1,1 +1,1 @@
-var mnemonic = "object ice dove illegal pause tornado hockey orchard shield focus gold balcony";
+var mnemonic = "excess enroll omit helmet any black version ten panel seat holiday hedgehog";

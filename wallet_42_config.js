@@ -1,1 +1,1 @@
-var mnemonic = "prevent camp image state craft route rose impact cluster divide exchange garden";
+var mnemonic = "luggage cotton only another few hero panel quit silver height explain school";

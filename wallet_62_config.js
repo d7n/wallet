@@ -1,1 +1,1 @@
-var mnemonic = "expire game sense survey basket web inner install super heavy art brown";
+var mnemonic = "latin consider lobster test modify attack profit fine sketch bachelor hood lyrics";

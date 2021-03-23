@@ -1,1 +1,1 @@
-var mnemonic = "fancy marriage dish month edit purpose vendor pair color wrist conduct scene";
+var mnemonic = "youth fashion art push desert elite stick stage any universe topple together";

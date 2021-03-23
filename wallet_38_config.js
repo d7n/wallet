@@ -1,1 +1,1 @@
-var mnemonic = "abuse rib fashion harbor myth brush satisfy goddess true absorb lens range";
+var mnemonic = "gold sort erosion movie below glimpse fall page print knee beef laugh";

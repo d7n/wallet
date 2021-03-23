@@ -1,1 +1,1 @@
-var mnemonic = "trigger struggle awesome catalog live dumb renew candy okay couple pass raw";
+var mnemonic = "fire walk focus emotion giant student nasty say surge auto own drift";

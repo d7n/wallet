@@ -1,1 +1,1 @@
-var mnemonic = "rebel guess spring choose mesh arrange desert shed bulb coach order delay";
+var mnemonic = "adult warfare pottery today offer attract oyster beef indicate glance health frozen";

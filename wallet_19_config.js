@@ -1,1 +1,1 @@
-var mnemonic = "never thunder welcome pool girl fortune buffalo glare aspect frequent thank enact";
+var mnemonic = "page panic juice boat circle essay head teach theory luxury secret claim";

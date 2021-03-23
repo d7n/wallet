@@ -1,1 +1,1 @@
-var mnemonic = "caution barely cactus zero ostrich occur swallow hood pet apart charge describe";
+var mnemonic = "episode drastic retire typical loan topple crowd monster actress question immune brain";

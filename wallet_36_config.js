@@ -1,1 +1,1 @@
-var mnemonic = "window struggle sort sign illness defense lumber beyond first above december execute";
+var mnemonic = "ugly cabin impact found spider laugh bind year venture cat balcony soul";

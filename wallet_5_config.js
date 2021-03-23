@@ -1,1 +1,1 @@
-var mnemonic = "animal rocket real skirt spatial witness can keen utility arrive amateur hurt";
+var mnemonic = "winter lumber path infant idle pulse gift panda toast soap stay siege";

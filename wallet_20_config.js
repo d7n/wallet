@@ -1,1 +1,1 @@
-var mnemonic = "joy cost twelve update hedgehog milk explain crater setup forget jelly aspect";
+var mnemonic = "wedding curve cloth imitate oblige loan dismiss sphere bar egg whisper cart";

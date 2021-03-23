@@ -1,1 +1,1 @@
-var mnemonic = "pear result say target manage stay quick weird save miss gorilla angry";
+var mnemonic = "velvet addict rebuild horse away limit lucky tourist flower pass spoon winner";

@@ -1,1 +1,1 @@
-var mnemonic = "adult strike machine must depth ignore enjoy music rookie mutual example zone";
+var mnemonic = "calm man begin bottom panel catch fan pen swallow crawl game correct";

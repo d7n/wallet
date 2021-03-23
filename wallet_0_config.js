@@ -1,1 +1,1 @@
-var mnemonic = "insane seven virtual awful fine area flee fiction hybrid uphold ivory silly";
+var mnemonic = "marriage inherit neglect kiss left have cool above cram joke egg claim";

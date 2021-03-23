@@ -1,1 +1,1 @@
-var mnemonic = "build trap uncover thumb organ ramp dismiss kitten stool old guilt cup";
+var mnemonic = "home bar garage blood prevent faith obtain motion admit trim jungle rubber";

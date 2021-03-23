@@ -1,1 +1,1 @@
-var mnemonic = "unfair mutual head fever humor pipe top enable dinosaur mail scorpion arena";
+var mnemonic = "aware sick addict approve orchard write margin tongue pigeon pull regular pear";

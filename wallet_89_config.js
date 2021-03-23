@@ -1,1 +1,1 @@
-var mnemonic = "monkey disagree state abandon please federal edit lend friend deposit crouch snow";
+var mnemonic = "say audit apple across alter twenty under build coach nut poet sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha topple crystal evolve panel foil elbow flash sunny bench siren artefact";
+var mnemonic = "chat drastic biology panther trim margin useless spin problem tortoise trend shrimp";

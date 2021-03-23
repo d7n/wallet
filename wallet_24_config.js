@@ -1,1 +1,1 @@
-var mnemonic = "add pistol aim search gift item cliff august inner woman shoe apple";
+var mnemonic = "cycle ugly rely address pencil normal cherry matrix enemy pink dinosaur pave";

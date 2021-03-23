@@ -1,1 +1,1 @@
-var mnemonic = "again panic practice keen nominee ship farm remove mask hire hockey bus";
+var mnemonic = "trial token balance cigar spawn rough glory seed van puzzle under narrow";

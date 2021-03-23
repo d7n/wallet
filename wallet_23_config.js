@@ -1,1 +1,1 @@
-var mnemonic = "good artefact adult grow rice float insect desk neck first siren vanish";
+var mnemonic = "repeat shield someone render ball mother oblige lunar vast minute gravity wagon";

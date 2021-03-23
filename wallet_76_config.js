@@ -1,1 +1,1 @@
-var mnemonic = "slight range bone civil begin noise spatial flash foil vault globe stereo";
+var mnemonic = "speak venue mosquito trim ask wolf solve wash spread beyond wait impose";

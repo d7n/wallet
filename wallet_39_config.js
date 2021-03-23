@@ -1,1 +1,1 @@
-var mnemonic = "rebel giraffe venue insect brain banner bean concert coast artefact cool fault";
+var mnemonic = "frequent corn opera claim pet hub turkey unhappy large garage half embark";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos capital burden image pitch apart exhibit merge venue man aim purpose";
+var mnemonic = "weird surprise lonely prevent raccoon lesson flat practice kangaroo speak struggle setup";

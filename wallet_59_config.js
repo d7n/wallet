@@ -1,1 +1,1 @@
-var mnemonic = "run fantasy scale average stone move steak awful aunt phone trend hedgehog";
+var mnemonic = "proof breeze town whale ocean lend divide decline wood hip train soldier";

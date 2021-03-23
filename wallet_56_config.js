@@ -1,1 +1,1 @@
-var mnemonic = "equal marble today fee card slow usual pride spot include remember ahead";
+var mnemonic = "near sample gain safe trial below wait argue arm lunch faculty north";

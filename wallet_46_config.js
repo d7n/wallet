@@ -1,1 +1,1 @@
-var mnemonic = "dwarf later lobster okay shine attract interest oval rug vapor truth total";
+var mnemonic = "van green correct taxi identify orange panda mango dad brush mushroom differ";

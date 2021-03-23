@@ -1,1 +1,1 @@
-var mnemonic = "large rotate auction power pitch veteran bone battle water gorilla veteran blanket";
+var mnemonic = "equip pupil note seed clap armor achieve travel fashion deposit erase fly";
