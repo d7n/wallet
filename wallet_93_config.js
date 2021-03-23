@@ -1,1 +1,1 @@
-var mnemonic = "oak flight arena penalty swear decade glue ticket bullet any payment fantasy";
+var mnemonic = "fly tray amazing add legend actor loud silent napkin track crumble velvet";

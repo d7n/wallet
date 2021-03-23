@@ -1,1 +1,1 @@
-var mnemonic = "flag silk grain voice enough stage explain estate cave sweet opinion pattern";
+var mnemonic = "disease brief stadium taxi confirm absurd merry day antenna twin girl awake";

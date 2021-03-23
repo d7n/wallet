@@ -1,1 +1,1 @@
-var mnemonic = "maid melt scatter arrange uncover hurt gesture crowd license roof unable anchor";
+var mnemonic = "action curtain fold open auto naive orphan miracle busy guitar blame shuffle";

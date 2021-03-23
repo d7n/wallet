@@ -1,1 +1,1 @@
-var mnemonic = "goat brave casual mango antique strategy grape attack duty hurt develop enforce";
+var mnemonic = "rifle damage latin vessel barrel life dish cluster room tragic model become";

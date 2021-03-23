@@ -1,1 +1,1 @@
-var mnemonic = "icon raccoon winter crew mind lab story stove raise ask among silver";
+var mnemonic = "clog traffic salmon duty error remind duck require often describe flock knee";

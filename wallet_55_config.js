@@ -1,1 +1,1 @@
-var mnemonic = "green used pumpkin topic confirm oxygen rare bring pill frown mechanic inspire";
+var mnemonic = "humor poet miss bottom maximum three rubber ocean nation fashion husband cycle";

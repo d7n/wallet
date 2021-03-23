@@ -1,1 +1,1 @@
-var mnemonic = "tiny manage gossip grass radio manage veteran kiss husband canoe square leader";
+var mnemonic = "endless price table poverty neglect during bid expire junior parade such industry";

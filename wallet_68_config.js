@@ -1,1 +1,1 @@
-var mnemonic = "goddess initial crop crew fiber bracket flush moon truck wild attack animal";
+var mnemonic = "blush height color lesson poem stand wall faculty update young nurse squeeze";

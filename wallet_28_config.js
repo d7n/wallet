@@ -1,1 +1,1 @@
-var mnemonic = "oyster damage inside crime rule chaos quit color clay gas lock sauce";
+var mnemonic = "wrestle deal ugly often employ receive man kidney output spell review pyramid";

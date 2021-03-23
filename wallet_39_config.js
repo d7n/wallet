@@ -1,1 +1,1 @@
-var mnemonic = "hip hospital grunt strong script post vast label manage fashion dream memory";
+var mnemonic = "okay risk soccer virtual exhaust ozone nothing aunt sphere mirror web suggest";

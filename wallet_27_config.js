@@ -1,1 +1,1 @@
-var mnemonic = "supreme valve use warfare champion decrease credit phrase decrease wasp squirrel next";
+var mnemonic = "festival stove anchor purpose patient tornado label coach initial rather venue daughter";

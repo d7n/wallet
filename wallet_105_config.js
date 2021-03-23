@@ -1,1 +1,1 @@
-var mnemonic = "original erosion gallery honey render palace nature stamp hope one keen solid";
+var mnemonic = "neither dizzy tackle harvest menu spring issue web wasp sheriff indoor world";

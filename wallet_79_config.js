@@ -1,1 +1,1 @@
-var mnemonic = "bacon kitchen similar float yellow property pioneer embrace bounce dragon tenant recycle";
+var mnemonic = "pelican inmate reward inflict anger few reform random sustain anchor scout share";

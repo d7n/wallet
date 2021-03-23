@@ -1,1 +1,1 @@
-var mnemonic = "matter innocent eternal cushion auto light evidence vivid potato lobster pink never";
+var mnemonic = "puzzle invite roast immune merry spy pull brother bird december mesh excite";

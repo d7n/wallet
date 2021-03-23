@@ -1,1 +1,1 @@
-var mnemonic = "mistake keen add innocent radio nose state picnic curtain income veteran finger";
+var mnemonic = "derive power maximum inherit knee salmon armor quick shallow cinnamon fat lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "skull together siren sunny uniform force camp fun all inject finish magnet";
+var mnemonic = "prevent company armed decrease mistake hen gain crunch elegant rubber else youth";

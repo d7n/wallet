@@ -1,1 +1,1 @@
-var mnemonic = "save absurd clip basic good anchor useless kiss nation own recipe label";
+var mnemonic = "average gold mom deputy loop siege recipe rescue kidney cabbage mean bronze";

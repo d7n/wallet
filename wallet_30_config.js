@@ -1,1 +1,1 @@
-var mnemonic = "erode whisper ship jar tenant bamboo actor enter coral weird celery middle";
+var mnemonic = "glory must indoor rain athlete loyal net speed power odor picnic later";

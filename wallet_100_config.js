@@ -1,1 +1,1 @@
-var mnemonic = "final outer inspire walk chef refuse above busy cattle minute online dirt";
+var mnemonic = "beach nest search job rather nice inspire sea fresh surface kid snap";

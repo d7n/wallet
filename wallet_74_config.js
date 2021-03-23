@@ -1,1 +1,1 @@
-var mnemonic = "palace review divorce harbor rail pond share rookie viable water essence sudden";
+var mnemonic = "gather atom unique worth bone pitch embody typical liberty answer primary august";

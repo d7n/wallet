@@ -1,1 +1,1 @@
-var mnemonic = "truly orbit receive love field bleak lobster seed win issue best odor";
+var mnemonic = "train ketchup toy furnace rug school love flee salute wrong since fluid";

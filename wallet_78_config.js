@@ -1,1 +1,1 @@
-var mnemonic = "address tower cover smooth victory alarm pistol diamond piece bounce leaf famous";
+var mnemonic = "hobby present shrug pupil elder regret patrol gift chest this crucial bottom";

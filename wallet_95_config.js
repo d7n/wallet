@@ -1,1 +1,1 @@
-var mnemonic = "zoo vault snack rather capital album lottery smart upset rare fiber weather";
+var mnemonic = "pattern estate history fitness argue remind sweet else advance trick slot slogan";

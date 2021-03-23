@@ -1,1 +1,1 @@
-var mnemonic = "pony paddle color together shift spot exchange coffee tribe trip test engine";
+var mnemonic = "fine document jeans solar shuffle sausage essence moon obtain lazy net crew";

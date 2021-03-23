@@ -1,1 +1,1 @@
-var mnemonic = "change public goose modify session suit engage desert worth cupboard devote gym";
+var mnemonic = "visual auction about basket cliff crane field ramp recycle party junior depth";

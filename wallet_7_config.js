@@ -1,1 +1,1 @@
-var mnemonic = "estate target joke borrow wasp sadness barely damage trigger shadow witness symbol";
+var mnemonic = "fly harsh arrest recall promote spring share donor husband neglect tennis message";

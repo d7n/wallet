@@ -1,1 +1,1 @@
-var mnemonic = "cousin artist reflect employ denial tongue play just law reason twenty solution";
+var mnemonic = "output else cupboard angle inner clip taxi enjoy business favorite amazing shrimp";

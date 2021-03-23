@@ -1,1 +1,1 @@
-var mnemonic = "clock cricket beef reunion topic crouch already middle atom pitch member inch";
+var mnemonic = "silk change section hundred pet seed web dog wrestle eye legal allow";

@@ -1,1 +1,1 @@
-var mnemonic = "board life orphan depend hope rookie nothing lesson symptom raven tortoise outer";
+var mnemonic = "next syrup organ capable season market faint dose chimney rocket liar music";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle forum kidney blouse insect assist airport bulk amateur box december robot";
+var mnemonic = "burger fade move force pretty mimic scheme voice much affair true observe";

@@ -1,1 +1,1 @@
-var mnemonic = "false walk divorce other acquire ticket arrange artefact pond any dune web";
+var mnemonic = "casual wolf invest test regret inmate nominee differ grow orbit affair lava";

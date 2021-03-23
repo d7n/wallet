@@ -1,1 +1,1 @@
-var mnemonic = "among random menu olive gold now visa fit duck fall brand snap";
+var mnemonic = "tissue pyramid chef junk wisdom symptom critic repair stuff gesture fee finish";

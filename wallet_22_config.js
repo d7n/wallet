@@ -1,1 +1,1 @@
-var mnemonic = "aisle decrease mammal audit wagon drill never casino add violin shiver hat";
+var mnemonic = "suspect adapt priority stairs crunch come giant coil laptop velvet cause rain";

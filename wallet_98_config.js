@@ -1,1 +1,1 @@
-var mnemonic = "dog proof vibrant congress edit galaxy carpet theme merge stadium blame firm";
+var mnemonic = "taxi midnight gift traffic organ style return air weather punch public arm";

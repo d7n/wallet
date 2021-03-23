@@ -1,1 +1,1 @@
-var mnemonic = "gloom plastic wife cruel journey cannon wheel escape size choice smart educate";
+var mnemonic = "expose pudding much yard mix nice giraffe strike genre vendor junk ability";

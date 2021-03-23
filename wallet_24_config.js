@@ -1,1 +1,1 @@
-var mnemonic = "liar dinosaur clarify eagle you load note six general inner inquiry physical";
+var mnemonic = "random exist address weird cable business little era boost century demise genuine";

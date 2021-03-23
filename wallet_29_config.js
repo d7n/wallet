@@ -1,1 +1,1 @@
-var mnemonic = "argue deer direct reopen remind heart exhaust direct fancy comfort notice path";
+var mnemonic = "virus salon latin praise civil frequent viable spell slot lend decline unaware";

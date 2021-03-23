@@ -1,1 +1,1 @@
-var mnemonic = "family isolate cannon certain rabbit copy purchase mouse index boil stereo coin";
+var mnemonic = "evil agree output open easily shift clean flash float such quality elephant";

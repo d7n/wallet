@@ -1,1 +1,1 @@
-var mnemonic = "ripple bachelor museum across antenna quick remove teach camera fence tent discover";
+var mnemonic = "shed sting symptom shell march blanket armor you cabbage fashion lounge grain";

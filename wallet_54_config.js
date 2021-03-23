@@ -1,1 +1,1 @@
-var mnemonic = "lecture volcano green typical area mammal memory wisdom sport ginger ozone crumble";
+var mnemonic = "issue can guilt snow museum asthma thumb goat fiber assist outdoor plug";

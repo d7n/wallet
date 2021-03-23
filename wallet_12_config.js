@@ -1,1 +1,1 @@
-var mnemonic = "stamp beyond frame draw gold trick rural issue birth proof grace crater";
+var mnemonic = "solution maximum morning pepper behave dragon runway arena inch enlist involve off";

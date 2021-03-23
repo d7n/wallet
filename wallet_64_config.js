@@ -1,1 +1,1 @@
-var mnemonic = "found lazy cabbage repeat expire equal select merit eight parade width scan";
+var mnemonic = "canal kit athlete correct sample because organ pigeon jeans gain arrive weapon";

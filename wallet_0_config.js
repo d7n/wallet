@@ -1,1 +1,1 @@
-var mnemonic = "guard setup genius town bullet enlist craft now profit wealth shuffle enhance";
+var mnemonic = "genre hole mistake coyote recall sun birth parrot lumber wagon black hip";

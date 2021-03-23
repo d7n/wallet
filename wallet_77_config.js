@@ -1,1 +1,1 @@
-var mnemonic = "plunge paddle prevent coffee dizzy hat rhythm knee deposit weird choose snack";
+var mnemonic = "defense horn shoulder earn repair describe chicken velvet color involve clean enroll";

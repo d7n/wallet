@@ -1,1 +1,1 @@
-var mnemonic = "present gun mixed false average donate van toy plunge hamster twist merge";
+var mnemonic = "hint visit cable jelly zero control apart develop digital earth panic breeze";

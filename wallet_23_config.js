@@ -1,1 +1,1 @@
-var mnemonic = "hammer slab number casual prefer mansion garden door broom steak toddler gown";
+var mnemonic = "force spoon limit cancel system enable champion few clip proud clutch divorce";

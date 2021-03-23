@@ -1,1 +1,1 @@
-var mnemonic = "mango stomach grass attend asset enjoy talent nice short claw fire firm";
+var mnemonic = "frost primary excess job elegant orchard chalk faith shove concert broom define";

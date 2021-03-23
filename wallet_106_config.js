@@ -1,1 +1,1 @@
-var mnemonic = "miracle noble sketch affair draft mention flee country purpose dolphin purse work";
+var mnemonic = "loop eyebrow width pipe lounge basket goose happy main female increase produce";

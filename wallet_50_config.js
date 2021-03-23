@@ -1,1 +1,1 @@
-var mnemonic = "bulk auto fruit near desk trophy guess pledge magnet sphere future hawk";
+var mnemonic = "dash gloom silk valve vacant conduct tell hunt ski bronze physical mango";

@@ -1,1 +1,1 @@
-var mnemonic = "hand merry cattle speak midnight return local twist glove potato welcome employ";
+var mnemonic = "boy ankle nuclear believe bonus meadow swamp among body priority human indoor";

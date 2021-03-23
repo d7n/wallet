@@ -1,1 +1,1 @@
-var mnemonic = "million vital hat vast quote outside permit shoe cover grit priority diet";
+var mnemonic = "matter fix bracket casino small book tell capable tomorrow switch meadow sign";

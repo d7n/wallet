@@ -1,1 +1,1 @@
-var mnemonic = "game height hill excite hope husband early reflect peace fury elbow loyal";
+var mnemonic = "favorite salt relief shine cattle patient damp thought foam tone inquiry loop";

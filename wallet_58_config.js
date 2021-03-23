@@ -1,1 +1,1 @@
-var mnemonic = "path service remove air two lock sell flame lens ten embark ritual";
+var mnemonic = "clutch sort celery harbor crawl settle special orchard inform bulb bar between";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle flat average mom apology vote make hire thrive follow vocal switch";
+var mnemonic = "drip ride ignore runway scorpion seat drastic wave acoustic country liar enough";

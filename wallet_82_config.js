@@ -1,1 +1,1 @@
-var mnemonic = "kick festival indoor jungle cruise gesture trial sad enough upset narrow romance";
+var mnemonic = "twin grab negative upset version wave best body sugar fresh silent check";

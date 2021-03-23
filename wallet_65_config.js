@@ -1,1 +1,1 @@
-var mnemonic = "mad dish field place treat manual explain major shoulder develop book narrow";
+var mnemonic = "ankle typical similar dumb protect doctor current female trick add south enlist";

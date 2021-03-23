@@ -1,1 +1,1 @@
-var mnemonic = "spot infant cereal clog visual give design ask gadget cactus rule ski";
+var mnemonic = "arrest rather satisfy body call conduct snow awake climb carbon fine come";

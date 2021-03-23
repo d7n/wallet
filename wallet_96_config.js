@@ -1,1 +1,1 @@
-var mnemonic = "tortoise double siren gospel abuse dash pigeon blade laundry glad ugly dog";
+var mnemonic = "body able machine between toe ritual jungle detect setup staff head pond";

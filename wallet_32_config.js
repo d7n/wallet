@@ -1,1 +1,1 @@
-var mnemonic = "garment wash bid own carpet loan earn crack hire birth close cheese";
+var mnemonic = "tumble gym cram safe confirm grant ready tool ahead age sell pelican";

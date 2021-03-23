@@ -1,1 +1,1 @@
-var mnemonic = "guide goose dragon spell era pistol retire this excess scan cabbage blanket";
+var mnemonic = "zone update anxiety tone artefact double mind occur text twist choice cherry";

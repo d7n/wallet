@@ -1,1 +1,1 @@
-var mnemonic = "dwarf enable seminar accident vault jewel enlist consider property gun chat apart";
+var mnemonic = "system major puppy brother worry gossip live embark steak loan apart miracle";

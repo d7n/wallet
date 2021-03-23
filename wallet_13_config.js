@@ -1,1 +1,1 @@
-var mnemonic = "apology essay garbage rival apology submit short tomato soap where spot broccoli";
+var mnemonic = "brief coil winter inhale spawn dish dutch lucky frog domain weather sail";

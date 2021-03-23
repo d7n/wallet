@@ -1,1 +1,1 @@
-var mnemonic = "easily point master twelve album cage sword tool glove enrich track ordinary";
+var mnemonic = "boy now abstract home flee glory term body maid run other bone";

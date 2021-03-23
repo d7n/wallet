@@ -1,1 +1,1 @@
-var mnemonic = "alert else morning alley wine tourist solution awesome capital diagram fly lazy";
+var mnemonic = "possible uphold dismiss clinic effort burden funny outside first resist wish debris";

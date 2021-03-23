@@ -1,1 +1,1 @@
-var mnemonic = "era cave wide side copy game explain frost hair short someone employ";
+var mnemonic = "elegant unveil tide march income jungle brush attack turn cargo save cash";

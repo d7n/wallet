@@ -1,1 +1,1 @@
-var mnemonic = "scrap arrow happy youth service asthma august shaft loud concert cigar brisk";
+var mnemonic = "broccoli field rough gravity reason step arena dune hill science size space";

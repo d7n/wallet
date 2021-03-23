@@ -1,1 +1,1 @@
-var mnemonic = "step decline couch grab kiss shine cook album much enjoy grab slam";
+var mnemonic = "tank dad genre razor board work valid luxury affair end wonder math";

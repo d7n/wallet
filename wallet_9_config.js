@@ -1,1 +1,1 @@
-var mnemonic = "green cactus liquid prize march fame burst home credit remove daughter hazard";
+var mnemonic = "post local struggle net trial gather drill miracle crash lizard detect margin";

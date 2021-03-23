@@ -1,1 +1,1 @@
-var mnemonic = "between pink control funny barely accuse curious grass file weather seed casual";
+var mnemonic = "crowd pupil twist rocket dash various moral destroy despair custom donate august";

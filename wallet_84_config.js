@@ -1,1 +1,1 @@
-var mnemonic = "road cute drill student cram audit agree enjoy puzzle round final farm";
+var mnemonic = "monster cream put latin hen plastic ten silver return left silver chair";

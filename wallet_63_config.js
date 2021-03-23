@@ -1,1 +1,1 @@
-var mnemonic = "ginger poverty fine mad magic lion stone moment fall token damage girl";
+var mnemonic = "quantum search equip best repair lock embrace raw divide nurse tilt magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "tone furnace three soda honey bus portion wreck volume tenant brown buffalo";
+var mnemonic = "answer bench congress biology rocket alcohol tonight shift stuff rice disorder scale";

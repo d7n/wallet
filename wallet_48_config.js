@@ -1,1 +1,1 @@
-var mnemonic = "large easy shop okay steak switch pave distance cry peace click boil";
+var mnemonic = "pull praise hockey enough brother hunt venture fork cave diet diet room";

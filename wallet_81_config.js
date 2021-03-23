@@ -1,1 +1,1 @@
-var mnemonic = "deputy hurdle doctor illness that nominee patch alone crucial stable zone just";
+var mnemonic = "under vast edit steak accident rain swamp early merge spawn degree wing";

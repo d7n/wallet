@@ -1,1 +1,1 @@
-var mnemonic = "gravity gaze need bench little insect hint clay pet destroy jaguar bacon";
+var mnemonic = "rent provide lecture organ chunk great push measure rather monkey lottery dry";

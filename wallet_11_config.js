@@ -1,1 +1,1 @@
-var mnemonic = "switch panic shiver build bag tribe short approve crew thank crack over";
+var mnemonic = "excess sleep winner library cliff message under charge exchange place unlock rose";

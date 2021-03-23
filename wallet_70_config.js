@@ -1,1 +1,1 @@
-var mnemonic = "limit allow else void combine morning found point boost diet pole add";
+var mnemonic = "eternal again success drift capable reflect guard media flush claw vast drum";

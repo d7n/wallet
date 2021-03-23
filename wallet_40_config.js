@@ -1,1 +1,1 @@
-var mnemonic = "swallow spawn stick apple rare urban oak cactus elegant proud valid butter";
+var mnemonic = "connect news tunnel tongue comfort quit crucial off faith math catch pair";

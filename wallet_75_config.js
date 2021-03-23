@@ -1,1 +1,1 @@
-var mnemonic = "shuffle laugh drum strong ticket elbow borrow toss area arena unique suspect";
+var mnemonic = "theory vendor differ bottom hint arctic ill general barely plate cycle minute";

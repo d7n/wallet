@@ -1,1 +1,1 @@
-var mnemonic = "ordinary hover room crash priority hawk emerge jaguar clarify fiber doctor age";
+var mnemonic = "surprise garment hedgehog jaguar cupboard short garment pattern alley butter brief hockey";

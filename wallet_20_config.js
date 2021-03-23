@@ -1,1 +1,1 @@
-var mnemonic = "coffee consider subway torch better skin hazard manage never garage planet hero";
+var mnemonic = "nominee junk achieve people share soft glad engine vocal misery isolate legend";

@@ -1,1 +1,1 @@
-var mnemonic = "debris maple range risk amount ready near level bread summer glimpse gadget";
+var mnemonic = "fix helmet drip embark east alcohol denial frost night note long case";

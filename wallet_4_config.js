@@ -1,1 +1,1 @@
-var mnemonic = "seminar ordinary elbow guard animal hurt identify desert someone else paddle rich";
+var mnemonic = "blossom grit autumn pigeon leg scene soldier avoid earn wrestle auto gaze";

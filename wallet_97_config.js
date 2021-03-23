@@ -1,1 +1,1 @@
-var mnemonic = "release prevent spike birth any behind one craft journey outer dove hamster";
+var mnemonic = "cushion rice that impact proof brick inside goat hospital bomb number aim";

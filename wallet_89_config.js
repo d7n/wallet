@@ -1,1 +1,1 @@
-var mnemonic = "rigid visual rain letter grape panda eternal claw piano canal outdoor able";
+var mnemonic = "phrase general stage uniform dust sail recall pottery mercy cruel flame limit";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage matrix layer pulp work margin box trap catch fragile tortoise nasty";
+var mnemonic = "dose fiction fashion priority tennis hat tree portion sphere rabbit smooth obscure";

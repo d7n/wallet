@@ -1,1 +1,1 @@
-var mnemonic = "lab enlist normal cheese merge urge winter recall holiday jungle company cotton";
+var mnemonic = "bunker fish nature divide caution victory library oak vault burst patrol easy";

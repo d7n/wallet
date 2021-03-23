@@ -1,1 +1,1 @@
-var mnemonic = "echo dolphin away december deal record album bike rural patch giggle siege";
+var mnemonic = "purchase blouse cause transfer stove poet member artefact noise cattle fringe kidney";

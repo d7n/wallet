@@ -1,1 +1,1 @@
-var mnemonic = "nut someone render year learn energy task broken drum filter screen that";
+var mnemonic = "culture exile pitch clock type entire economy rally funny level sketch confirm";
