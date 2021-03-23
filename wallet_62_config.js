@@ -1,1 +1,1 @@
-var mnemonic = "library extend alert zoo phone state mirror venture buffalo fish feed lizard";
+var mnemonic = "source vocal pear tray million pulse swim believe admit movie zebra canyon";

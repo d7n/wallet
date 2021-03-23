@@ -1,1 +1,1 @@
-var mnemonic = "bird focus fatal shoe change hawk object proof banner airport festival siege";
+var mnemonic = "charge vocal kidney access infant assault come evoke table please blur cloud";

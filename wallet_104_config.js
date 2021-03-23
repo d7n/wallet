@@ -1,1 +1,1 @@
-var mnemonic = "work awful strike narrow pact magnet damp swift bubble dignity thrive suggest";
+var mnemonic = "punch sight since cry casino chair possible ladder addict rebel skate pyramid";

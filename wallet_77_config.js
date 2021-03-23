@@ -1,1 +1,1 @@
-var mnemonic = "lion online borrow local disorder damage arrest omit deliver insane decrease arctic";
+var mnemonic = "spell bullet naive embrace pistol museum friend spray drift recipe mask wing";

@@ -1,1 +1,1 @@
-var mnemonic = "clever dream unable noise fiction joy dragon fuel enable family lazy gift";
+var mnemonic = "right street exercise organ squeeze fragile toddler ethics mystery naive version radar";

@@ -1,1 +1,1 @@
-var mnemonic = "clip topic drill hurry august where dilemma pulp like race fine borrow";
+var mnemonic = "six sketch crunch noodle hollow version plastic stamp economy cram wink fork";

@@ -1,1 +1,1 @@
-var mnemonic = "gun enrich expose between axis floor shaft basic forest situate much have";
+var mnemonic = "shrug slam fun orbit laptop toast curve month quality palace theme camera";

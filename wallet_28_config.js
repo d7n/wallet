@@ -1,1 +1,1 @@
-var mnemonic = "special surprise device place detail assault panda protect curtain guitar taxi swing";
+var mnemonic = "lottery spoon love situate empty alcohol deliver orphan west eyebrow mix false";

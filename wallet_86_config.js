@@ -1,1 +1,1 @@
-var mnemonic = "type deliver reopen when hood three ball sell artefact animal energy dust";
+var mnemonic = "trophy staff pave book dawn calm provide biology fury push orbit choice";

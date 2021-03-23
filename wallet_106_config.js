@@ -1,1 +1,1 @@
-var mnemonic = "disagree depend vivid tongue scorpion stamp push gather van memory stay monster";
+var mnemonic = "fiber coconut clinic endorse jelly army gospel elegant kiss achieve coyote mimic";

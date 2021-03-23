@@ -1,1 +1,1 @@
-var mnemonic = "uncover tomato nurse gloom absorb gauge excuse enact thunder card limit acid";
+var mnemonic = "moon zoo slice august ensure render interest valley vacant choose cradle visa";

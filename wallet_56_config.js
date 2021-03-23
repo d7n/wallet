@@ -1,1 +1,1 @@
-var mnemonic = "few guitar solid pony lobster balance catch waste infant stairs tube salon";
+var mnemonic = "accuse tell crawl organ piano liquid point injury barely pepper symptom quit";

@@ -1,1 +1,1 @@
-var mnemonic = "song forest satoshi donkey effort pulse bottom palace lonely offer large river";
+var mnemonic = "raw wave confirm easily atom stock agent board hood voyage assault puzzle";

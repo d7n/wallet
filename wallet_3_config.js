@@ -1,1 +1,1 @@
-var mnemonic = "gesture unable bottom digital slender parent genius old friend once ramp caught";
+var mnemonic = "main network lazy upgrade oyster equal security advice denial saddle pepper aerobic";

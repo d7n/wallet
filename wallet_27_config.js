@@ -1,1 +1,1 @@
-var mnemonic = "rocket cricket fold before goddess dinner bread piece once curious truly alien";
+var mnemonic = "hen city order inherit alien blouse amateur ranch cup capital opera lens";

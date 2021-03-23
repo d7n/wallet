@@ -1,1 +1,1 @@
-var mnemonic = "rack bright hood enforce thing stomach boring long rely sniff chair size";
+var mnemonic = "imitate about ignore illness leaf chicken old shove actress body human second";

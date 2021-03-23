@@ -1,1 +1,1 @@
-var mnemonic = "man much destroy glide alpha age gloom notable glue dilemma surge brisk";
+var mnemonic = "leave rural youth labor flower ski quiz insane night hospital zero walnut";

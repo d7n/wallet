@@ -1,1 +1,1 @@
-var mnemonic = "fancy accident fly grief category type beauty setup novel require boss hand";
+var mnemonic = "reform grit august allow mix picnic east glance diet aim bubble boil";

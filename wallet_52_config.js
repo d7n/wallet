@@ -1,1 +1,1 @@
-var mnemonic = "scare point fitness degree school radar cool narrow waste nest gallery flock";
+var mnemonic = "maple bomb flat blame boring news peasant cross athlete divert feature suit";

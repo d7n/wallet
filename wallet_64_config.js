@@ -1,1 +1,1 @@
-var mnemonic = "gaze salon topic safe lion title lift swallow flash flip chimney include";
+var mnemonic = "own discover ill there small favorite track series capable tiny strong embody";

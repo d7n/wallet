@@ -1,1 +1,1 @@
-var mnemonic = "bomb vacant arrow spoil oxygen normal want season bamboo half exist define";
+var mnemonic = "inherit tunnel mushroom plastic riot fee hero biology lion charge project catalog";

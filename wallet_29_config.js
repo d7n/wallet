@@ -1,1 +1,1 @@
-var mnemonic = "evidence hard year legal noble imitate guard vintage hurry wife fiscal need";
+var mnemonic = "cool wife loyal where clap primary hurdle catch child survey denial civil";

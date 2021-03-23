@@ -1,1 +1,1 @@
-var mnemonic = "vintage vast medal absurd pumpkin case edit net gym travel jealous mutual";
+var mnemonic = "boss grain riot minute build small pledge catalog glance squirrel book cave";

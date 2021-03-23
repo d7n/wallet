@@ -1,1 +1,1 @@
-var mnemonic = "ethics swamp practice skill rotate wrap unfold maze person soap salon mesh";
+var mnemonic = "razor observe pelican moral inmate hint trim predict aspect profit reject chalk";

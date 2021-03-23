@@ -1,1 +1,1 @@
-var mnemonic = "relief dismiss garbage dentist air sausage over long erosion decade bronze spare";
+var mnemonic = "pyramid close enter joke boss wheat auto wasp device capable believe predict";

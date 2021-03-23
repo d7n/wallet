@@ -1,1 +1,1 @@
-var mnemonic = "loud pupil journey furnace kit poet merry mask tower since cause axis";
+var mnemonic = "solve awful very embody extend bonus input reform sick record zero deposit";

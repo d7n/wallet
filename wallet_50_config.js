@@ -1,1 +1,1 @@
-var mnemonic = "select glare coil project toilet wild fiber tag awkward now gas verify";
+var mnemonic = "tenant uniform shoot glove defense rude twelve ladder prize fragile wedding desert";

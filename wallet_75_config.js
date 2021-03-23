@@ -1,1 +1,1 @@
-var mnemonic = "fantasy control cliff loyal lab harsh rebel soon victory truck tennis few";
+var mnemonic = "awkward note eye frequent above actress hollow impact biology donor south comfort";

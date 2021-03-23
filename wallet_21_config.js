@@ -1,1 +1,1 @@
-var mnemonic = "crunch minimum cable allow math hill sphere unique aware ribbon chimney story";
+var mnemonic = "tragic mesh wool erase remove struggle diet cargo mask alien cradle damage";

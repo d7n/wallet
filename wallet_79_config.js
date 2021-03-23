@@ -1,1 +1,1 @@
-var mnemonic = "party enhance flee regular conduct across multiply melt swing butter local rare";
+var mnemonic = "shop net element address radio drama can output orient oval deliver carpet";

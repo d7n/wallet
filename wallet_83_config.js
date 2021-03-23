@@ -1,1 +1,1 @@
-var mnemonic = "invest trend spoil again envelope actress bean debris feed split vehicle price";
+var mnemonic = "lift album express shoot raven warfare chat afford car master machine grant";

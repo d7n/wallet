@@ -1,1 +1,1 @@
-var mnemonic = "honey candy increase transfer fun swap note arch measure donkey virtual purse";
+var mnemonic = "super fit once estate woman property side prison response whisper game primary";

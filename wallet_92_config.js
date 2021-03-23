@@ -1,1 +1,1 @@
-var mnemonic = "craft concert image ball hospital surface over embark zebra envelope walk wedding";
+var mnemonic = "huge law rabbit liquid whisper language enroll return place truth torch album";

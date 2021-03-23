@@ -1,1 +1,1 @@
-var mnemonic = "reward truly desk praise wedding toast devote churn mule answer total oven";
+var mnemonic = "history income bridge rebuild fortune eye more number cream release monkey strike";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken remember journey ivory romance gesture trade dry rice mango combine buzz";
+var mnemonic = "penalty company easily taste cement claw weird permit camera build pitch prevent";

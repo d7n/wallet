@@ -1,1 +1,1 @@
-var mnemonic = "spread sun curtain awesome tennis myself river depend vessel mesh guard donor";
+var mnemonic = "width craft gate deny planet cat warfare author since fox mixed select";

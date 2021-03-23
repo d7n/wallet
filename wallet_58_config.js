@@ -1,1 +1,1 @@
-var mnemonic = "library essence gold stuff long birth cube upgrade summer juice tiny calm";
+var mnemonic = "envelope dress response trick own shrimp lucky virus armed foster unable trophy";

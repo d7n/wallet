@@ -1,1 +1,1 @@
-var mnemonic = "pill history absorb omit foot try actor render afford panda strong switch";
+var mnemonic = "analyst lift slow husband jeans hold gold woman they retire enroll fork";

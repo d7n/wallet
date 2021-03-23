@@ -1,1 +1,1 @@
-var mnemonic = "cancel together impose head body ginger nation civil sort capital file kick";
+var mnemonic = "require anchor business sphere garlic meadow bind hurry comfort planet weekend crew";

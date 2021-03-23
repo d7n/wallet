@@ -1,1 +1,1 @@
-var mnemonic = "peace rabbit surge inquiry large squirrel injury beauty shed spend impact rapid";
+var mnemonic = "foster face paddle blue pool host jar spider install sniff robust mask";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden glide civil three mistake father below famous debris deny sister engage";
+var mnemonic = "own victory cover toward donor label enhance save soup behind across ski";

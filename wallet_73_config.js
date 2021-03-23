@@ -1,1 +1,1 @@
-var mnemonic = "luggage erase treat oblige rude hundred genius carbon shop inner runway snake";
+var mnemonic = "link deer glance capital mother wrong document riot science miracle muscle struggle";

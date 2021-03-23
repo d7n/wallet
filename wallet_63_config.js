@@ -1,1 +1,1 @@
-var mnemonic = "system above oval apple quote tuition surprise tissue stuff vessel infant key";
+var mnemonic = "movie daring thank vanish link drastic false trigger sting grass citizen pulse";

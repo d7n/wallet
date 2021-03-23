@@ -1,1 +1,1 @@
-var mnemonic = "only pizza demise eight broken ship fame field budget truth invest story";
+var mnemonic = "hat enable unique depth allow govern battle design phrase pass onion hockey";

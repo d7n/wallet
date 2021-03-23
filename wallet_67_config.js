@@ -1,1 +1,1 @@
-var mnemonic = "apart hungry inherit differ robot hidden napkin ugly afraid diet top ill";
+var mnemonic = "tornado link infant file bundle abandon curtain diamond reduce hood okay explain";

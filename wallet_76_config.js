@@ -1,1 +1,1 @@
-var mnemonic = "awake math ivory behave humble movie right wheat truck magic judge unaware";
+var mnemonic = "quit fiscal jacket inject text cradle arm rebel fatigue fish include connect";

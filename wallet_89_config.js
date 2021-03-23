@@ -1,1 +1,1 @@
-var mnemonic = "cannon trust office target remain junior clever know fix cement follow acoustic";
+var mnemonic = "party bright miracle auto traffic ketchup inner job fan column kangaroo entry";

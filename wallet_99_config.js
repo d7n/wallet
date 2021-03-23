@@ -1,1 +1,1 @@
-var mnemonic = "push glare grunt bless direct violin salt wish fabric mansion lucky artefact";
+var mnemonic = "flash spring defy imitate hat inmate deal lady patrol dragon drastic danger";

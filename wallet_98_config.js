@@ -1,1 +1,1 @@
-var mnemonic = "artwork swarm file still teach gentle bomb gold depart impose pact barrel";
+var mnemonic = "tomato horror subject tuna rude eye moral cause laptop save rule shoot";

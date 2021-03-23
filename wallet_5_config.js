@@ -1,1 +1,1 @@
-var mnemonic = "embark forest seed annual access prize prepare loop produce grief custom inherit";
+var mnemonic = "bar insect swing injury rude turn flag divorce kite lake rebel concert";

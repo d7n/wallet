@@ -1,1 +1,1 @@
-var mnemonic = "enact ethics trend wire profit liar kind magnet expect logic bounce post";
+var mnemonic = "camera van flat marriage spot waste allow you roast kit miracle practice";

@@ -1,1 +1,1 @@
-var mnemonic = "attract armed bounce cabbage love panel gun recipe roof code train loyal";
+var mnemonic = "mandate tuition laptop mixture dutch cluster jungle story achieve mimic search solve";

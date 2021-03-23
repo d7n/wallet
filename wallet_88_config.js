@@ -1,1 +1,1 @@
-var mnemonic = "security book ridge tail bleak pipe apology auto accident hawk hotel knife";
+var mnemonic = "response cruise dentist segment satoshi during green correct mandate strong weekend flush";

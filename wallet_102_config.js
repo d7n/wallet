@@ -1,1 +1,1 @@
-var mnemonic = "tonight laugh media trend crack suffer oil proud tortoise face charge right";
+var mnemonic = "dinner unknown shed crystal feed shift alter know exercise great ozone mimic";

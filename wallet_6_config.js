@@ -1,1 +1,1 @@
-var mnemonic = "crash seed member syrup symbol advice crazy behave final know pledge keen";
+var mnemonic = "later object income grace afraid arrow journey method girl true language exile";

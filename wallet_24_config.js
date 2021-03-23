@@ -1,1 +1,1 @@
-var mnemonic = "help south funny imitate crash second frog noodle argue travel legal helmet";
+var mnemonic = "olympic viable door virtual top frown mean swamp organ round lucky marine";

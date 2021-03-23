@@ -1,1 +1,1 @@
-var mnemonic = "anger shoot supreme purpose slab action increase lion carpet spike glass amount";
+var mnemonic = "slot entire senior elbow hundred cool limit weekend find come abuse pair";

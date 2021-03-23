@@ -1,1 +1,1 @@
-var mnemonic = "nurse distance glance tornado cotton blanket knife heart icon priority they donate";
+var mnemonic = "blade trim word silly obscure glow ship define admit horror narrow card";

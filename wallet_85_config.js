@@ -1,1 +1,1 @@
-var mnemonic = "color bitter normal loyal equal trial girl dice load wing pepper equip";
+var mnemonic = "wear melt road audit route page dog term warm art grid begin";

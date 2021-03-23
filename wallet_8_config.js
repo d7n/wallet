@@ -1,1 +1,1 @@
-var mnemonic = "parade enforce innocent ship this wage salmon fringe vapor anxiety submit work";
+var mnemonic = "egg custom host simple afraid army fog someone shop win public arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty labor blossom young rhythm awful myself useless win bid easy mechanic";
+var mnemonic = "summer marriage curve local cheese snack prevent donate length ribbon fabric vote";

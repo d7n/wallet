@@ -1,1 +1,1 @@
-var mnemonic = "decide atom select poet annual ramp ivory display flash screen repeat whisper";
+var mnemonic = "cricket ridge turkey black lab green physical fix stomach discover very penalty";

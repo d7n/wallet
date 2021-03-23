@@ -1,1 +1,1 @@
-var mnemonic = "benefit correct hockey image universe citizen hover tail scale slam report toy";
+var mnemonic = "someone market bus blanket follow roast cave audit oblige sleep material peace";

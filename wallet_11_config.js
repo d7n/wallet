@@ -1,1 +1,1 @@
-var mnemonic = "goddess slot inflict obscure found churn exercise deliver crash slight trust narrow";
+var mnemonic = "furnace title stuff flame trouble fault cereal expire shop immune cigar category";

@@ -1,1 +1,1 @@
-var mnemonic = "flip strong tortoise husband close label blush evolve fashion toddler link area";
+var mnemonic = "move bounce basic upgrade moment bronze step merit fish sphere odor expose";

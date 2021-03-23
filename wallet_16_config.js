@@ -1,1 +1,1 @@
-var mnemonic = "quit spend stomach dad spider street speak clever room fiber hair sample";
+var mnemonic = "drift already false program blade myself message vibrant uncover twice mobile jaguar";

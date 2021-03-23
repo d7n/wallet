@@ -1,1 +1,1 @@
-var mnemonic = "fitness bind any claw ecology ocean zoo squirrel concert example blame recall";
+var mnemonic = "liar pave wet idea mushroom filter trouble spatial cheap awful sentence output";

@@ -1,1 +1,1 @@
-var mnemonic = "idea leader market sign short original detail prize hire sound simple swarm";
+var mnemonic = "retreat ankle deal plastic isolate possible leopard receive purity buddy provide icon";

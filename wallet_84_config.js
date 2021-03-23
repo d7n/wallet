@@ -1,1 +1,1 @@
-var mnemonic = "wasp canoe brick zebra flush twin icon match valve submit toast network";
+var mnemonic = "boat system raven mother nest gate blast used amazing east fashion october";

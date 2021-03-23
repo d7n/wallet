@@ -1,1 +1,1 @@
-var mnemonic = "rely sock then crunch any feed hybrid blade real exclude bulk diet";
+var mnemonic = "wrist fancy clinic that avoid pig sad safe angry hollow time sponsor";

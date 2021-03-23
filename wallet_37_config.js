@@ -1,1 +1,1 @@
-var mnemonic = "horn cup oven royal decrease worry fee slice garage poem clarify cost";
+var mnemonic = "once turtle axis shrug strike pole dog argue nation patrol evidence core";

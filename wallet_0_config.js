@@ -1,1 +1,1 @@
-var mnemonic = "then goat always monster stereo unknown there fix parent minor mother day";
+var mnemonic = "furnace guide viable domain tree junk around luxury spoon mention human blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "flee fish admit provide zone monkey violin craft visit kid lens lesson";
+var mnemonic = "wedding verify scale must mind sun thunder surround salon ensure dragon bone";

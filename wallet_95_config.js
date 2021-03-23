@@ -1,1 +1,1 @@
-var mnemonic = "rival attitude absorb idle equal fortune hard glass injury firm chuckle dream";
+var mnemonic = "prepare quit knee display delay knee donate strong reopen mandate core laundry";

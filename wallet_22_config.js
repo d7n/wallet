@@ -1,1 +1,1 @@
-var mnemonic = "insane economy million zoo kid crew dilemma sign noise nominee fancy organ";
+var mnemonic = "walk mosquito cat certain fly thrive surge effort tiger tackle ramp dice";

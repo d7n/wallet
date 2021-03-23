@@ -1,1 +1,1 @@
-var mnemonic = "review trophy bamboo maximum senior this major absurd neglect detail trouble mammal";
+var mnemonic = "duty junk buddy jazz mention noodle manual buffalo large couple hold income";

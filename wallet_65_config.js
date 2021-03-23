@@ -1,1 +1,1 @@
-var mnemonic = "gaze mind tiny glass town sunset valid admit until coin accident asset";
+var mnemonic = "idle emotion alter entire worth material vital outside disease captain inquiry ribbon";

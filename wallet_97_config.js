@@ -1,1 +1,1 @@
-var mnemonic = "token empty about advance awkward run bar know twenty choose color today";
+var mnemonic = "fetch close please tunnel tower venue tool toddler crash clarify web force";

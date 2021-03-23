@@ -1,1 +1,1 @@
-var mnemonic = "stumble fashion imitate stone flee random cactus derive crunch orphan pool honey";
+var mnemonic = "satoshi shoot lizard museum heavy save possible sail feature popular spoil soul";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet beach float zoo miracle debris ketchup unknown clinic ozone neglect trap";
+var mnemonic = "tortoise surge excite hurdle unfold harvest labor balcony turn stool liberty diary";

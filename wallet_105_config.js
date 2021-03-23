@@ -1,1 +1,1 @@
-var mnemonic = "math text leader slender forget dry slide smart moral enrich genuine hamster";
+var mnemonic = "misery area sad insect nest arrest dash actor alpha topple nuclear wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet message shuffle erase person assist risk cave diagram holiday bird raise";
+var mnemonic = "used deposit crew opera nephew tired impose private library divorce blade dance";

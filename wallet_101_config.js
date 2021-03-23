@@ -1,1 +1,1 @@
-var mnemonic = "nominee squeeze note timber beach major chicken kid mix settle model desert";
+var mnemonic = "impose rescue summer bar congress breeze stone cereal february ceiling token husband";

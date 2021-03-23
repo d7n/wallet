@@ -1,1 +1,1 @@
-var mnemonic = "very fade secret reduce execute rose slab wish vanish robot approve napkin";
+var mnemonic = "quantum multiply color bleak portion female junior explain begin cliff net turkey";

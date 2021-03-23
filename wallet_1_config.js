@@ -1,1 +1,1 @@
-var mnemonic = "fancy depend echo capital patch canal goat dry mandate swamp news child";
+var mnemonic = "life elder response have pink canvas dignity neither clay list zebra pet";
