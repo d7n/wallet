@@ -1,1 +1,1 @@
-var mnemonic = "grass trouble absorb legend yard shadow price scene female pitch aisle ugly";
+var mnemonic = "goddess slot inflict obscure found churn exercise deliver crash slight trust narrow";

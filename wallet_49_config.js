@@ -1,1 +1,1 @@
-var mnemonic = "pretty galaxy town bird enable shadow camera essay proud camera staff stool";
+var mnemonic = "squeeze bundle cereal claw spice mistake version ranch online canoe sail undo";

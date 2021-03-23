@@ -1,1 +1,1 @@
-var mnemonic = "ask fabric slot either chicken sport track invest dismiss message write expire";
+var mnemonic = "wasp canoe brick zebra flush twin icon match valve submit toast network";

@@ -1,1 +1,1 @@
-var mnemonic = "age stage mother parent fold dry trip voice liar asset ask speed";
+var mnemonic = "peace rabbit surge inquiry large squirrel injury beauty shed spend impact rapid";

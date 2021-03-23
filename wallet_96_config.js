@@ -1,1 +1,1 @@
-var mnemonic = "hockey digital olive plunge toss bar own search bubble egg loyal danger";
+var mnemonic = "loud pupil journey furnace kit poet merry mask tower since cause axis";

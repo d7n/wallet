@@ -1,1 +1,1 @@
-var mnemonic = "differ rate radio hurdle critic expand lumber sock diagram protect bless lottery";
+var mnemonic = "armed animal kid great reward stadium credit fine raccoon slam avoid regret";

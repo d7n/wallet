@@ -1,1 +1,1 @@
-var mnemonic = "throw dad two enter exotic very develop cool supreme level clog account";
+var mnemonic = "tiger vast animal hover curtain crime will asset image idea border galaxy";

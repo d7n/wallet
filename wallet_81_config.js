@@ -1,1 +1,1 @@
-var mnemonic = "box ill solution disagree fury twice buzz boy goose curious genre excess";
+var mnemonic = "clever dream unable noise fiction joy dragon fuel enable family lazy gift";

@@ -1,1 +1,1 @@
-var mnemonic = "throw pottery garlic cram name exile recipe moon just peanut permit test";
+var mnemonic = "stumble fashion imitate stone flee random cactus derive crunch orphan pool honey";

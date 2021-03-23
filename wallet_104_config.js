@@ -1,1 +1,1 @@
-var mnemonic = "tower maze move favorite alien bonus include climb imitate bubble museum know";
+var mnemonic = "work awful strike narrow pact magnet damp swift bubble dignity thrive suggest";

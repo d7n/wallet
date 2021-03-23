@@ -1,1 +1,1 @@
-var mnemonic = "winner wonder crazy agent crystal argue dizzy resource scare use begin habit";
+var mnemonic = "man much destroy glide alpha age gloom notable glue dilemma surge brisk";

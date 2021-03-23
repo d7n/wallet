@@ -1,1 +1,1 @@
-var mnemonic = "bachelor child vault card ridge coconut zebra jazz excess hobby drop pause";
+var mnemonic = "lens castle march dragon diesel clip nest enable wife curious false license";

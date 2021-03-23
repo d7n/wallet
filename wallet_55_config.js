@@ -1,1 +1,1 @@
-var mnemonic = "project tragic frog cute type bless fragile hat option swap tray solution";
+var mnemonic = "spawn evil claim narrow flower wrist captain actress captain flee item slush";

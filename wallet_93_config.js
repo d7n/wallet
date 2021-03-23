@@ -1,1 +1,1 @@
-var mnemonic = "agree around mutual cook pupil pull trouble noise link toward flight enough";
+var mnemonic = "uncover tomato nurse gloom absorb gauge excuse enact thunder card limit acid";

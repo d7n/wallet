@@ -1,1 +1,1 @@
-var mnemonic = "eye first crazy side hen tilt message scheme taste shoot reveal museum";
+var mnemonic = "embark forest seed annual access prize prepare loop produce grief custom inherit";

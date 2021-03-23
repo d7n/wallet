@@ -1,1 +1,1 @@
-var mnemonic = "mention envelope man visual erupt purse fault turkey already royal answer soon";
+var mnemonic = "vintage vast medal absurd pumpkin case edit net gym travel jealous mutual";

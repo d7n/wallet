@@ -1,1 +1,1 @@
-var mnemonic = "fossil genius system venture eye color document merit frog excess pipe disagree";
+var mnemonic = "apart hungry inherit differ robot hidden napkin ugly afraid diet top ill";

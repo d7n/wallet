@@ -1,1 +1,1 @@
-var mnemonic = "clever trap captain dentist eyebrow palm usual piece shoulder year chaos dad";
+var mnemonic = "bird focus fatal shoe change hawk object proof banner airport festival siege";

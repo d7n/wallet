@@ -1,1 +1,1 @@
-var mnemonic = "arm sponsor replace fly gift melody lonely desert lecture knife spoon tragic";
+var mnemonic = "craft concert image ball hospital surface over embark zebra envelope walk wedding";

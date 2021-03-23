@@ -1,1 +1,1 @@
-var mnemonic = "drip layer hover collect maze monster amateur employ seek mix front east";
+var mnemonic = "cancel together impose head body ginger nation civil sort capital file kick";

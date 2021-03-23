@@ -1,1 +1,1 @@
-var mnemonic = "abandon detect deliver police vanish soccer cage trim arctic cash vessel depth";
+var mnemonic = "luggage erase treat oblige rude hundred genius carbon shop inner runway snake";

@@ -1,1 +1,1 @@
-var mnemonic = "chat beach walnut mansion ginger ecology argue laundry logic icon casual cost";
+var mnemonic = "party enhance flee regular conduct across multiply melt swing butter local rare";

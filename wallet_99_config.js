@@ -1,1 +1,1 @@
-var mnemonic = "garden auto resemble glow matter want bargain mammal brave spoon retreat awful";
+var mnemonic = "push glare grunt bless direct violin salt wish fabric mansion lucky artefact";

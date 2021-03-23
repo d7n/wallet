@@ -1,1 +1,1 @@
-var mnemonic = "solar embark steak victory uniform dirt dignity claim slot response hotel merry";
+var mnemonic = "invest trend spoil again envelope actress bean debris feed split vehicle price";

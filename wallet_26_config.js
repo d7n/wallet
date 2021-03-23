@@ -1,1 +1,1 @@
-var mnemonic = "cause evolve scout setup useless honey fresh travel gain guide fish tunnel";
+var mnemonic = "decide atom select poet annual ramp ivory display flash screen repeat whisper";

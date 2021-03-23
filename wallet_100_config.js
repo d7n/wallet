@@ -1,1 +1,1 @@
-var mnemonic = "author hedgehog garbage item tomato end label call frog embody annual reject";
+var mnemonic = "faculty labor blossom young rhythm awful myself useless win bid easy mechanic";

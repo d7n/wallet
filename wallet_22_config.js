@@ -1,1 +1,1 @@
-var mnemonic = "screen dutch you coin wasp cricket modify symbol item ethics lock avoid";
+var mnemonic = "insane economy million zoo kid crew dilemma sign noise nominee fancy organ";

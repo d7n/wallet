@@ -1,1 +1,1 @@
-var mnemonic = "wheel lunch session truck ten benefit broccoli prepare parade animal spike kiwi";
+var mnemonic = "cannon trust office target remain junior clever know fix cement follow acoustic";

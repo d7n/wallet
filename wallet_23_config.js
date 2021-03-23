@@ -1,1 +1,1 @@
-var mnemonic = "pony trial knife coil rough shrimp abstract section scan suggest century garlic";
+var mnemonic = "burden hammer virus actress announce bird fan tiny tilt busy dial gap";

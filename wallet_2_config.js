@@ -1,1 +1,1 @@
-var mnemonic = "breeze ridge grab provide spend elephant thrive uniform visit text rib measure";
+var mnemonic = "bullet spy vanish spell argue pledge rib dune weekend polar present twist";

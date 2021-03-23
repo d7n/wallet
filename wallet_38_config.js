@@ -1,1 +1,1 @@
-var mnemonic = "purity fork frost order muscle success bracket amount little warm abuse imitate";
+var mnemonic = "review trophy bamboo maximum senior this major absurd neglect detail trouble mammal";

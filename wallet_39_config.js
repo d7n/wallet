@@ -1,1 +1,1 @@
-var mnemonic = "spread body foot medal topic marble deputy miss prefer produce tumble connect";
+var mnemonic = "stairs ramp any lock explain acid legal shadow chuckle destroy visit update";

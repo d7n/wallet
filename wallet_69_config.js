@@ -1,1 +1,1 @@
-var mnemonic = "bleak find feel sudden pause fatigue jacket hero profit valid bacon open";
+var mnemonic = "fitness bind any claw ecology ocean zoo squirrel concert example blame recall";

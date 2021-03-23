@@ -1,1 +1,1 @@
-var mnemonic = "tool proof differ cement siren good town modify glory symptom crater narrow";
+var mnemonic = "nurse distance glance tornado cotton blanket knife heart icon priority they donate";

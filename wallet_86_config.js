@@ -1,1 +1,1 @@
-var mnemonic = "rely siren rent option kitten diesel roast voice trigger polar axis slam";
+var mnemonic = "type deliver reopen when hood three ball sell artefact animal energy dust";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard cluster cluster capital wife tongue penalty replace matter marble rent elevator";
+var mnemonic = "artwork swarm file still teach gentle bomb gold depart impose pact barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "jump trim medal poverty dragon similar hat convince exercise order wall prevent";
+var mnemonic = "color bitter normal loyal equal trial girl dice load wing pepper equip";

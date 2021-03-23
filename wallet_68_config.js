@@ -1,1 +1,1 @@
-var mnemonic = "case what physical two culture vessel lunch cube above awake wine alien";
+var mnemonic = "blouse that innocent oval sea celery broom project wage auction wave smile";

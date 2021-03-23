@@ -1,1 +1,1 @@
-var mnemonic = "sweet submit city salad like target usual enjoy grit blue device symptom";
+var mnemonic = "suspect offer miss ring soldier similar grit vicious genius allow lava salad";

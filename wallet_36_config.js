@@ -1,1 +1,1 @@
-var mnemonic = "motion tiny mimic goddess odor shrimp wear exit symptom salute ship never";
+var mnemonic = "relief dismiss garbage dentist air sausage over long erosion decade bronze spare";

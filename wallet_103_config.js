@@ -1,1 +1,1 @@
-var mnemonic = "captain drama focus write wire vital border dentist crunch plunge addict fiber";
+var mnemonic = "employ arrest hungry casino promote length carbon expand sort holiday risk space";

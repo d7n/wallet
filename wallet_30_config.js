@@ -1,1 +1,1 @@
-var mnemonic = "glance blind attract cost stadium poet only worry monitor uncover enemy asthma";
+var mnemonic = "anger shoot supreme purpose slab action increase lion carpet spike glass amount";

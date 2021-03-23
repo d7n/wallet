@@ -1,1 +1,1 @@
-var mnemonic = "topple rely sell interest there female blush horror sand rude december wrist";
+var mnemonic = "burger boring window eight find melody vessel stick twenty boy quarter chief";

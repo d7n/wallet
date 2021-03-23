@@ -1,1 +1,1 @@
-var mnemonic = "avocado blue grass chicken actor uncle maze hood input arrow worry hurt";
+var mnemonic = "only pizza demise eight broken ship fame field budget truth invest story";

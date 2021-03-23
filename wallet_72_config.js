@@ -1,1 +1,1 @@
-var mnemonic = "pride alpha apology prevent intact alley erupt aim tennis tomato clay absent";
+var mnemonic = "flee fish admit provide zone monkey violin craft visit kid lens lesson";

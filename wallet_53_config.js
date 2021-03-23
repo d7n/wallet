@@ -1,1 +1,1 @@
-var mnemonic = "age twist above lounge month shield stick guess clay video normal arch";
+var mnemonic = "gun enrich expose between axis floor shaft basic forest situate much have";

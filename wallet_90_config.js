@@ -1,1 +1,1 @@
-var mnemonic = "turn timber yard gauge victory cupboard ethics vault monster steak usage permit";
+var mnemonic = "amateur decrease midnight scissors echo pig cake now lounge lonely lazy way";

@@ -1,1 +1,1 @@
-var mnemonic = "grace observe rug lyrics million initial blind grocery alarm tag polar truth";
+var mnemonic = "mail easily once lava nice arm glow divorce cricket banana place desert";

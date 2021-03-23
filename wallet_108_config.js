@@ -1,1 +1,1 @@
-var mnemonic = "turn all junk ask kiwi shoulder romance fat decline illegal fringe fish";
+var mnemonic = "bomb vacant arrow spoil oxygen normal want season bamboo half exist define";

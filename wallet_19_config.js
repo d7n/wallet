@@ -1,1 +1,1 @@
-var mnemonic = "symbol language senior inherit forward try exhibit decade jeans doll funny other";
+var mnemonic = "clip topic drill hurry august where dilemma pulp like race fine borrow";

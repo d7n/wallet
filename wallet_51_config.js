@@ -1,1 +1,1 @@
-var mnemonic = "decline fault chat extend lobster opinion report breeze title patch focus wear";
+var mnemonic = "other space ocean engage sphere embark enrich account pull bitter depart myth";

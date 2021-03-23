@@ -1,1 +1,1 @@
-var mnemonic = "wish special lunar sister country blur select kite local clip finger sketch";
+var mnemonic = "system above oval apple quote tuition surprise tissue stuff vessel infant key";

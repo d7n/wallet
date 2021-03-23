@@ -1,1 +1,1 @@
-var mnemonic = "ethics asset glory remove judge innocent egg enough neither destroy swing apology";
+var mnemonic = "indicate present potato fine target measure garden nut fit fantasy pull again";

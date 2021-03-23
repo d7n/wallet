@@ -1,1 +1,1 @@
-var mnemonic = "afraid okay cargo material fame busy develop add run treat fatigue smart";
+var mnemonic = "ethics swamp practice skill rotate wrap unfold maze person soap salon mesh";

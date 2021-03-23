@@ -1,1 +1,1 @@
-var mnemonic = "stamp hobby amused lesson alley private tape disease endless segment number mouse";
+var mnemonic = "disagree depend vivid tongue scorpion stamp push gather van memory stay monster";

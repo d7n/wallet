@@ -1,1 +1,1 @@
-var mnemonic = "ridge fringe mean rebel domain car dry addict father fog express name";
+var mnemonic = "honey candy increase transfer fun swap note arch measure donkey virtual purse";

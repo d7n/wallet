@@ -1,1 +1,1 @@
-var mnemonic = "resist kick alert aerobic web news kidney duck educate produce twelve dial";
+var mnemonic = "velvet beach float zoo miracle debris ketchup unknown clinic ozone neglect trap";

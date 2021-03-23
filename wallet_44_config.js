@@ -1,1 +1,1 @@
-var mnemonic = "sausage arrow govern lawn august essence orbit magic sponsor dizzy hill parent";
+var mnemonic = "reward truly desk praise wedding toast devote churn mule answer total oven";

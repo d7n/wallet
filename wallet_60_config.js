@@ -1,1 +1,1 @@
-var mnemonic = "grow quick awake peasant armor prepare utility mind spring olive luggage capital";
+var mnemonic = "slow example door survey minute ride disease replace assist buzz beauty certain";

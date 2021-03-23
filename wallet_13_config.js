@@ -1,1 +1,1 @@
-var mnemonic = "salad broccoli escape inspire royal exile clever fade anchor shoe only eagle";
+var mnemonic = "fancy accident fly grief category type beauty setup novel require boss hand";

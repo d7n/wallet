@@ -1,1 +1,1 @@
-var mnemonic = "lecture sand maid vehicle toss album crew satisfy loyal fox fuel fury";
+var mnemonic = "awake math ivory behave humble movie right wheat truck magic judge unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen act unknown erupt access wagon below acoustic intact anxiety divorce lobster";
+var mnemonic = "sudden glide civil three mistake father below famous debris deny sister engage";

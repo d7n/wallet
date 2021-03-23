@@ -1,1 +1,1 @@
-var mnemonic = "clown wasp have wisdom gasp refuse horn joy source predict dismiss give";
+var mnemonic = "piano worth winner spatial child monkey shrug invest age stem spray chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom glide trial armed congress traffic above catch bicycle control swift because";
+var mnemonic = "horn cup oven royal decrease worry fee slice garage poem clarify cost";

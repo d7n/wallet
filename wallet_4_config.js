@@ -1,1 +1,1 @@
-var mnemonic = "laptop debris practice feel museum sting antique plug climb grocery engine become";
+var mnemonic = "rely sock then crunch any feed hybrid blade real exclude bulk diet";

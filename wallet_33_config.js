@@ -1,1 +1,1 @@
-var mnemonic = "supply fat recall super hello must cream program better unable area uncover";
+var mnemonic = "trumpet message shuffle erase person assist risk cave diagram holiday bird raise";

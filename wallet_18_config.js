@@ -1,1 +1,1 @@
-var mnemonic = "crowd legal damp radar busy ladder funny tank antique team army wish";
+var mnemonic = "song forest satoshi donkey effort pulse bottom palace lonely offer large river";

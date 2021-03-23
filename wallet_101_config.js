@@ -1,1 +1,1 @@
-var mnemonic = "dove trigger amateur vicious hospital battle embody success ticket coast sugar pyramid";
+var mnemonic = "nominee squeeze note timber beach major chicken kid mix settle model desert";

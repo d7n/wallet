@@ -1,1 +1,1 @@
-var mnemonic = "caution oblige planet detect tent calm aisle deal steel mammal main train";
+var mnemonic = "reason disagree duck result today media vote lock seminar web sword floor";

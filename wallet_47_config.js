@@ -1,1 +1,1 @@
-var mnemonic = "across fatigue gather fruit depend trumpet cliff stem ball spend crisp believe";
+var mnemonic = "nice typical genius adapt join lumber team improve guess album wool tone";

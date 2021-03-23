@@ -1,1 +1,1 @@
-var mnemonic = "help snack then response street rookie visit hawk aspect couple inherit olympic";
+var mnemonic = "pill history absorb omit foot try actor render afford panda strong switch";

@@ -1,1 +1,1 @@
-var mnemonic = "comic hope weather tired payment still settle wealth hollow mistake scale clever";
+var mnemonic = "fancy depend echo capital patch canal goat dry mandate swamp news child";

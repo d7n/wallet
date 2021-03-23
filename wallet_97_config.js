@@ -1,1 +1,1 @@
-var mnemonic = "donkey profit icon gorilla glide race immense promote ancient asset tenant train";
+var mnemonic = "token empty about advance awkward run bar know twenty choose color today";

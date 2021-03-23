@@ -1,1 +1,1 @@
-var mnemonic = "desert around distance foam bitter eagle drum sniff turtle busy amused junior";
+var mnemonic = "spread sun curtain awesome tennis myself river depend vessel mesh guard donor";

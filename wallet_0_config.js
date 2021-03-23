@@ -1,1 +1,1 @@
-var mnemonic = "cash return grain guess shine good royal farm scene caution gloom loan";
+var mnemonic = "then goat always monster stereo unknown there fix parent minor mother day";

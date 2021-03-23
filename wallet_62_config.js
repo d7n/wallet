@@ -1,1 +1,1 @@
-var mnemonic = "purse annual final rebel wine face embark secret general apple current day";
+var mnemonic = "library extend alert zoo phone state mirror venture buffalo fish feed lizard";

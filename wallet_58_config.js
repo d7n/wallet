@@ -1,1 +1,1 @@
-var mnemonic = "immune rocket royal other make canvas similar mango catalog hope gift mercy";
+var mnemonic = "library essence gold stuff long birth cube upgrade summer juice tiny calm";

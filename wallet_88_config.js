@@ -1,1 +1,1 @@
-var mnemonic = "motor yard gym story pond sword mail next paper taste vacuum sad";
+var mnemonic = "security book ridge tail bleak pipe apology auto accident hawk hotel knife";

@@ -1,1 +1,1 @@
-var mnemonic = "warm lady change various original usual muffin fluid tragic race together vehicle";
+var mnemonic = "help south funny imitate crash second frog noodle argue travel legal helmet";

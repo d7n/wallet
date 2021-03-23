@@ -1,1 +1,1 @@
-var mnemonic = "tuna garage energy royal thank device half labor cradle age exit medal";
+var mnemonic = "gaze salon topic safe lion title lift swallow flash flip chimney include";

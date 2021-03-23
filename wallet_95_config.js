@@ -1,1 +1,1 @@
-var mnemonic = "wood increase menu mango credit pilot hub agree keen talent pelican wrestle";
+var mnemonic = "rival attitude absorb idle equal fortune hard glass injury firm chuckle dream";

@@ -1,1 +1,1 @@
-var mnemonic = "two review spell umbrella surface flee disagree thunder spare wire festival roof";
+var mnemonic = "math text leader slender forget dry slide smart moral enrich genuine hamster";

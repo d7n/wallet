@@ -1,1 +1,1 @@
-var mnemonic = "until book cash cannon firm armed burden mass twin chicken veteran issue";
+var mnemonic = "shadow boss miss tortoise crucial nature top acoustic bitter move remove empower";

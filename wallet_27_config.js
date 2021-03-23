@@ -1,1 +1,1 @@
-var mnemonic = "orient claim wet evoke hello steel cushion cloth sock salon beauty alert";
+var mnemonic = "rocket cricket fold before goddess dinner bread piece once curious truly alien";

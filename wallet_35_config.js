@@ -1,1 +1,1 @@
-var mnemonic = "grief family size grocery federal foam tray dry south change theory nasty";
+var mnemonic = "enact ethics trend wire profit liar kind magnet expect logic bounce post";

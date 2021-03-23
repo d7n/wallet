@@ -1,1 +1,1 @@
-var mnemonic = "humor gaze raw paddle wave kingdom name crouch document garlic happy hero";
+var mnemonic = "fantasy control cliff loyal lab harsh rebel soon victory truck tennis few";

@@ -1,1 +1,1 @@
-var mnemonic = "believe real inside column roast glow column habit pulse goat ugly acoustic";
+var mnemonic = "select glare coil project toilet wild fiber tag awkward now gas verify";

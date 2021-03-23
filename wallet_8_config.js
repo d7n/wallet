@@ -1,1 +1,1 @@
-var mnemonic = "rapid obvious ancient engage surprise cancel elegant labor foot foster axis indoor";
+var mnemonic = "parade enforce innocent ship this wage salmon fringe vapor anxiety submit work";
