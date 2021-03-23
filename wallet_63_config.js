@@ -1,1 +1,1 @@
-var mnemonic = "science year scatter ensure scorpion capital minor abstract oyster hair afford forward";
+var mnemonic = "loud antique infant marble mistake broom extra replace strike practice cotton brain";

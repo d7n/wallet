@@ -1,1 +1,1 @@
-var mnemonic = "cruel spread often camp cradle fiscal horse involve mother net fun silly";
+var mnemonic = "horse category method robot marriage uncover clock foil chair flat clutch payment";

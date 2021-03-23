@@ -1,1 +1,1 @@
-var mnemonic = "risk world effort hair ceiling crystal grain solid seed tissue moon swing";
+var mnemonic = "diagram wheel anxiety yard table moral book outer eye meat wrap sniff";

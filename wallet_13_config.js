@@ -1,1 +1,1 @@
-var mnemonic = "gaze address question cotton you noble prize insect fit increase garbage face";
+var mnemonic = "meat spray harbor club season effort few destroy mask primary december first";

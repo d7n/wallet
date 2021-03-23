@@ -1,1 +1,1 @@
-var mnemonic = "awake define cloth response nephew metal fetch shop guard use demand lunch";
+var mnemonic = "rack soldier foil similar net scout relax spice height learn uniform toss";

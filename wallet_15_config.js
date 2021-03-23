@@ -1,1 +1,1 @@
-var mnemonic = "renew goose airport culture physical ensure oak devote similar wife saddle history";
+var mnemonic = "purpose pepper aware joke upper fish move main artefact end pool vote";

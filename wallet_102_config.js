@@ -1,1 +1,1 @@
-var mnemonic = "casual enemy turn mansion rely sunset match bonus shallow token crowd faculty";
+var mnemonic = "junior balcony prize tiny lady coin surprise lava mixture obey equip paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "dust pear rough arrange magnet decade position change lyrics plate intact flee";
+var mnemonic = "series eagle sail guide various abandon wild wet beyond film carbon cigar";

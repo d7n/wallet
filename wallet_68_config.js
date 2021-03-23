@@ -1,1 +1,1 @@
-var mnemonic = "year art milk twelve diagram never goat secret sample world stage vehicle";
+var mnemonic = "omit soon link neck decrease valley romance gun vanish property prefer flower";

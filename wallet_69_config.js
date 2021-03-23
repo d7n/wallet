@@ -1,1 +1,1 @@
-var mnemonic = "garlic winter possible submit resist side twenty army wedding castle track box";
+var mnemonic = "cruel crane kind grace pride thunder clever bench hurdle actual umbrella rely";

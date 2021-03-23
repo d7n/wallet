@@ -1,1 +1,1 @@
-var mnemonic = "rice reveal unable crew behave obey drip below meadow shoot image result";
+var mnemonic = "minimum acoustic slot talk parent believe hair win profit buddy famous age";

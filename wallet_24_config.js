@@ -1,1 +1,1 @@
-var mnemonic = "agree blame aware uncover rebel sphere portion ask opera garden party flight";
+var mnemonic = "eye credit elite organ boss venue warrior entire dune camp bonus jaguar";

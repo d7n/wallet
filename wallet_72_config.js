@@ -1,1 +1,1 @@
-var mnemonic = "pulse spice season hard victory nut off focus spoon slush myself surround";
+var mnemonic = "enable album cabin soul original gate trip wish silent female wreck alpha";

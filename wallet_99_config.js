@@ -1,1 +1,1 @@
-var mnemonic = "accuse leaf feature trophy season music photo gospel road taste salt witness";
+var mnemonic = "ridge rapid check spatial snack citizen into can label hurry cushion virus";

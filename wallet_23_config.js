@@ -1,1 +1,1 @@
-var mnemonic = "prevent cram toilet tape whale circle dry fury scout pioneer federal have";
+var mnemonic = "gorilla hybrid parent relax dwarf system clever jealous remove provide guess resist";

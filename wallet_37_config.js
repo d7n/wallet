@@ -1,1 +1,1 @@
-var mnemonic = "much because agree layer buddy original month host cotton win floor boil";
+var mnemonic = "crunch double above club hard clump acoustic gossip perfect inquiry stereo solve";

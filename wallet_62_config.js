@@ -1,1 +1,1 @@
-var mnemonic = "daughter exotic opera maze size fame air visit sell silk tornado negative";
+var mnemonic = "this wall dizzy brain clap liberty gap such grass height ability twin";

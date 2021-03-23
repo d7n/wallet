@@ -1,1 +1,1 @@
-var mnemonic = "sad city rally announce sight dumb deliver seed when chest throw become";
+var mnemonic = "other forum involve badge scan lion dawn spray require honey victory muscle";

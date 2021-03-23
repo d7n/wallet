@@ -1,1 +1,1 @@
-var mnemonic = "roof super world come stick insect slice address become stomach noodle sponsor";
+var mnemonic = "hurdle mammal pen finger mercy aerobic onion kitten segment mountain drop hotel";

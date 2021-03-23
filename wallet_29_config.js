@@ -1,1 +1,1 @@
-var mnemonic = "pet soon reward hundred oppose unit immune digital relax rocket fabric cupboard";
+var mnemonic = "depart rebel cave latin borrow car know thank depart require taxi machine";

@@ -1,1 +1,1 @@
-var mnemonic = "segment endorse fish barrel fold floor donate father cigar van stomach tool";
+var mnemonic = "return mesh symptom alone notice carpet sudden drastic actor still flee poet";

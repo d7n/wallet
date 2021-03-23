@@ -1,1 +1,1 @@
-var mnemonic = "crack settle announce busy obey fruit carbon neutral barely chicken ice crop";
+var mnemonic = "hero maximum become eight artist abandon coconut degree bench saddle cake isolate";

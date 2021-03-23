@@ -1,1 +1,1 @@
-var mnemonic = "slush whisper festival dog time lazy high confirm share anger six script";
+var mnemonic = "ostrich debris exhaust govern answer animal exchange monkey capable stadium swallow label";

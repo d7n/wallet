@@ -1,1 +1,1 @@
-var mnemonic = "awful sand six change health dream bunker vivid walnut limb clay lunar";
+var mnemonic = "dove arrow fashion woman cable switch kidney rival answer boring assault cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "actual trip random guard address high outside where gold segment release focus";
+var mnemonic = "nation dinosaur alien wool stove oak apple kiss survey salmon shadow track";

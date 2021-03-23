@@ -1,1 +1,1 @@
-var mnemonic = "autumn utility worry supply mask three gap vehicle picnic word charge arena";
+var mnemonic = "leaf hamster review alarm pole mother clap oval cake festival noble element";

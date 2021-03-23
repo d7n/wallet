@@ -1,1 +1,1 @@
-var mnemonic = "able chef arm page pistol naive soccer unit segment beach suffer erode";
+var mnemonic = "endorse aisle attract length expose affair birth material culture improve snack method";

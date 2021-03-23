@@ -1,1 +1,1 @@
-var mnemonic = "medal burden hurry enemy carry legend barely bomb attract aim civil shy";
+var mnemonic = "august awesome section shove train garden chimney gain pulp verb trophy virtual";

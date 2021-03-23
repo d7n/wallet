@@ -1,1 +1,1 @@
-var mnemonic = "captain similar exist permit grain champion lumber talent slam endorse sentence inherit";
+var mnemonic = "tonight birth try popular inch night earn bag clerk property unveil sick";

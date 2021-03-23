@@ -1,1 +1,1 @@
-var mnemonic = "vessel round slogan rough patient edit devote labor domain retreat wire april";
+var mnemonic = "visit abandon mad essence insect helmet hand orient peasant work network chronic";

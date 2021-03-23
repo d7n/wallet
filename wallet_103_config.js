@@ -1,1 +1,1 @@
-var mnemonic = "series dog nuclear sense pitch dress peanut source melt piano hurry cycle";
+var mnemonic = "stool appear tent dust street accuse film skate torch such oven dance";

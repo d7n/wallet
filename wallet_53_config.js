@@ -1,1 +1,1 @@
-var mnemonic = "balance bless walnut box churn despair utility orbit ostrich unaware toy knife";
+var mnemonic = "subject secret humor random tomato confirm trophy gorilla eight ripple model foam";

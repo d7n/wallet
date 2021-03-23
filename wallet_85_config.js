@@ -1,1 +1,1 @@
-var mnemonic = "robust airport frown awful flock clump gold spice daring lake one pulp";
+var mnemonic = "dream anger jeans catalog risk pond wink inject tent change boat oil";

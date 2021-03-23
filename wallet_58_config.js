@@ -1,1 +1,1 @@
-var mnemonic = "hen absurd limit orient birth pupil craft sister congress involve intact woman";
+var mnemonic = "brush program bundle enact void waste mosquito quiz cloud waste faculty faint";

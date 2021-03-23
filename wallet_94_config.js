@@ -1,1 +1,1 @@
-var mnemonic = "drip affair future wave zero hole miracle crater ritual husband shrug short";
+var mnemonic = "crouch face market diet close document major fruit scissors hat repeat burst";

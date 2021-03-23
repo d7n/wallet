@@ -1,1 +1,1 @@
-var mnemonic = "cute tuna grape hole choice fantasy stool first shield same fabric address";
+var mnemonic = "job page divide vanish inflict dilemma sick cannon carpet moral antique point";

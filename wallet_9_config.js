@@ -1,1 +1,1 @@
-var mnemonic = "they custom tornado only where rice want bag able segment mad tilt";
+var mnemonic = "retreat abstract elite giant deer mother energy kitten balcony fancy salad decide";

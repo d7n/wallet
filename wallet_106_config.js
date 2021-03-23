@@ -1,1 +1,1 @@
-var mnemonic = "dream huge must route drink unknown three impulse admit deal record together";
+var mnemonic = "kiss minor sphere food tide tiny walnut curve fame drum fame imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "access exist kit super federal brown neglect industry bomb produce brave below";
+var mnemonic = "bronze jewel essence pupil pen jazz baby ride federal inform situate leader";

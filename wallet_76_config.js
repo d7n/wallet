@@ -1,1 +1,1 @@
-var mnemonic = "frown into manual spend turn load dignity close toy skill venue follow";
+var mnemonic = "fragile match quick turkey rocket air iron ill advice mail area elephant";

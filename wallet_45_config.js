@@ -1,1 +1,1 @@
-var mnemonic = "exist series idea foot like snap tape mystery soul desk furnace welcome";
+var mnemonic = "help hill erupt fluid foil copper shell horror build grief boost screen";

@@ -1,1 +1,1 @@
-var mnemonic = "appear clutch lobster toilet company target evil team dignity raise vendor violin";
+var mnemonic = "top ketchup curve hammer they gossip funny square crash height offer perfect";

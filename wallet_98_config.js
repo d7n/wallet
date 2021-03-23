@@ -1,1 +1,1 @@
-var mnemonic = "thought famous chronic great apology nest crucial sense video expose excite beyond";
+var mnemonic = "cigar people spoon mask one exotic wear crack scare length pencil abstract";

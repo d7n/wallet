@@ -1,1 +1,1 @@
-var mnemonic = "tissue that cousin crack nerve desk buffalo uniform custom antenna recycle uncle";
+var mnemonic = "copper come cheap pole sentence purse hunt glory veteran disease then defense";

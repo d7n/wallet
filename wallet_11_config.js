@@ -1,1 +1,1 @@
-var mnemonic = "wide exhaust mercy pistol attitude kangaroo detect jump stable key senior guard";
+var mnemonic = "excite cradle cool jewel punch name slush airport crumble anchor burger pumpkin";

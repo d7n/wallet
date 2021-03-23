@@ -1,1 +1,1 @@
-var mnemonic = "name pig matrix portion street solution machine during finger slogan tenant face";
+var mnemonic = "reflect vivid indicate better tilt state remember owner version dish account ghost";

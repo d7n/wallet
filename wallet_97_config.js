@@ -1,1 +1,1 @@
-var mnemonic = "lawn weapon false senior panel industry accident tell practice congress crack win";
+var mnemonic = "drop coffee issue pink grass online category clog elite shallow north token";

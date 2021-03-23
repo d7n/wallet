@@ -1,1 +1,1 @@
-var mnemonic = "object bicycle expire beyond lobster connect occur cabbage sail horn art illness";
+var mnemonic = "install dolphin turn follow digital engine gift include three pretty dream curtain";

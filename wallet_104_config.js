@@ -1,1 +1,1 @@
-var mnemonic = "raw absurd decide bubble output idle feature nerve tunnel pudding marine now";
+var mnemonic = "garment such floor away slow isolate estate fiber dice aware large pepper";

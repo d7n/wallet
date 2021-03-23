@@ -1,1 +1,1 @@
-var mnemonic = "immune boring evoke tiger industry weapon turtle moral news earn stable remember";
+var mnemonic = "piano movie cousin rebuild fitness release tunnel humor mail robust kitchen main";

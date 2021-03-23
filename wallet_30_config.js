@@ -1,1 +1,1 @@
-var mnemonic = "merit phrase eagle express cube update grace nation skin accident body spell";
+var mnemonic = "token laundry ring crash diesel patient hint cost blind push two galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "half wash educate gasp peanut mail intact fatigue social fan meadow bounce";
+var mnemonic = "ask wish hybrid fever wall square item gain laugh jaguar poet skate";

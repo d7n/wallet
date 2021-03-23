@@ -1,1 +1,1 @@
-var mnemonic = "spider ask anxiety middle vicious age link cat praise cool ancient code";
+var mnemonic = "hidden duck artwork comic surge door mountain start keen peace net desk";

@@ -1,1 +1,1 @@
-var mnemonic = "manage umbrella turtle shed device rifle promote globe found waste float web";
+var mnemonic = "dutch cargo agree speed style bulk fall bid staff arctic injury useful";

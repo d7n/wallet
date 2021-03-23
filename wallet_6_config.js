@@ -1,1 +1,1 @@
-var mnemonic = "aerobic interest detect element mammal upon glide brisk early usual husband defy";
+var mnemonic = "arrow park tower endorse prosper code student choice humble list stove shine";

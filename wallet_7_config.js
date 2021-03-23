@@ -1,1 +1,1 @@
-var mnemonic = "among wagon include giggle feel accuse finger dizzy survey woman blossom predict";
+var mnemonic = "suspect turkey scare kangaroo grit gap antenna build illegal develop donkey impose";

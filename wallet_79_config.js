@@ -1,1 +1,1 @@
-var mnemonic = "auto firm ripple soap sunset crater glove uniform super cook pave trust";
+var mnemonic = "embrace sponsor decrease current emerge rescue cute cook demand agree little remove";

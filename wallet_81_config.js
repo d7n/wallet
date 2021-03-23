@@ -1,1 +1,1 @@
-var mnemonic = "horn boil salad tissue soul issue correct name hobby use clutch club";
+var mnemonic = "fortune mail tongue employ arrive spread swing ankle neither bid unique gold";

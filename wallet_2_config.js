@@ -1,1 +1,1 @@
-var mnemonic = "accident series focus wear verify finish toss hurdle boring south donkey glory";
+var mnemonic = "void soap pudding nuclear argue ability feed team gun weasel net quantum";

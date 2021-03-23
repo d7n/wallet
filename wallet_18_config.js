@@ -1,1 +1,1 @@
-var mnemonic = "exhibit timber item umbrella buzz will lizard mask balance shine elder balance";
+var mnemonic = "outside rubber case fiber onion tackle news wish tube orange mass various";

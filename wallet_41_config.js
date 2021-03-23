@@ -1,1 +1,1 @@
-var mnemonic = "giraffe caution oblige arrange thumb during nothing okay twist grain stumble swing";
+var mnemonic = "neck save stuff original mushroom retire expire awesome sustain violin nut sister";

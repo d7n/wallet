@@ -1,1 +1,1 @@
-var mnemonic = "bind essay march update upset abstract they faculty once author twenty couch";
+var mnemonic = "space flag strong club connect apology place find hungry fuel inside spot";

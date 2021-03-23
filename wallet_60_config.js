@@ -1,1 +1,1 @@
-var mnemonic = "vote confirm secret bus alert network siren lizard owner obtain excess knock";
+var mnemonic = "siren brief hello funny robot autumn pole demise core inspire jealous obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "vague toss engine oval type census risk question thank cushion ozone same";
+var mnemonic = "tiny bounce because item funny owner cliff urban soda earth initial pupil";

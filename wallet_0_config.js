@@ -1,1 +1,1 @@
-var mnemonic = "west smoke world cloth nut fall laundry cotton wool vapor pupil shrimp";
+var mnemonic = "noodle innocent reform forget mango banana logic peasant fancy hotel smooth excuse";

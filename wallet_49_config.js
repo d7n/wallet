@@ -1,1 +1,1 @@
-var mnemonic = "solar reform nest must dirt confirm dumb stereo gesture dial leg trend";
+var mnemonic = "inch already radar wave between link magnet barrel solar hello visit acoustic";

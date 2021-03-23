@@ -1,1 +1,1 @@
-var mnemonic = "exercise cupboard tilt guilt noise believe cement crouch agree gate enough want";
+var mnemonic = "almost crouch inform increase dad together globe clap ordinary champion apple endless";

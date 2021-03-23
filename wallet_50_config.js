@@ -1,1 +1,1 @@
-var mnemonic = "practice spoil broom hospital job typical admit fog error crush pyramid gossip";
+var mnemonic = "delay eye loop follow crazy error trust business clarify spike street sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "scan ahead book broom company boat chest various moon sauce food little";
+var mnemonic = "embrace item flight rain call range curtain decade still thought toward illness";

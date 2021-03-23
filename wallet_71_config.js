@@ -1,1 +1,1 @@
-var mnemonic = "arrange atom coil sing barely thrive turkey apart soup verify dutch forest";
+var mnemonic = "also front suspect achieve unknown other shed scale shift grief trip hip";

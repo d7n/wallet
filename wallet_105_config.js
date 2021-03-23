@@ -1,1 +1,1 @@
-var mnemonic = "prevent acquire tail local three call common amateur panic van canvas wish";
+var mnemonic = "grunt tribe monkey fiber cloud design taxi ecology budget sister umbrella letter";

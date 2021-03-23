@@ -1,1 +1,1 @@
-var mnemonic = "monkey glance push fluid trick learn zebra tenant artefact you trend blanket";
+var mnemonic = "task asthma nothing club feel nice scissors release imitate lazy method chief";

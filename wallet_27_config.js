@@ -1,1 +1,1 @@
-var mnemonic = "receive other creek absurd october clock record spider deer horn resemble cake";
+var mnemonic = "october crush jazz leopard junior rate fiscal keen impose spike enjoy foot";

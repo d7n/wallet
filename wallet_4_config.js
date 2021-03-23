@@ -1,1 +1,1 @@
-var mnemonic = "fetch easy green fringe jelly buddy people move online tank liar celery";
+var mnemonic = "umbrella uncover leopard term rotate drill boat aim wedding couch fine dumb";

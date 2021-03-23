@@ -1,1 +1,1 @@
-var mnemonic = "town flee usage large escape vehicle butter rebel happy orange mail wheel";
+var mnemonic = "load vast lunar teach knife kidney betray decide runway welcome armor burst";

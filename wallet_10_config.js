@@ -1,1 +1,1 @@
-var mnemonic = "reflect soap afraid angry envelope essay eight course divert razor trick price";
+var mnemonic = "brief test chimney wink trim tenant long fragile rail armed lizard stereo";

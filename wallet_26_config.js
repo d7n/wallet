@@ -1,1 +1,1 @@
-var mnemonic = "physical defense legal wink sure donate annual dinner tray celery typical siren";
+var mnemonic = "tooth choice tank black patch bring together ghost unable health cancel habit";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver wall affair entire jump park inherit discover garden organ thought field";
+var mnemonic = "gaze clog short family embrace west drastic steel puzzle simple grab gold";

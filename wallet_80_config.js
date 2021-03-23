@@ -1,1 +1,1 @@
-var mnemonic = "meadow melt olympic night act behave prevent ball art glove account system";
+var mnemonic = "path jungle lonely jazz confirm you glue spell inhale atom now grab";

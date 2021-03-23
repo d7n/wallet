@@ -1,1 +1,1 @@
-var mnemonic = "cabbage occur control goose tuition wet click hedgehog village hand ordinary live";
+var mnemonic = "pyramid trash issue gun axis marine universe tiny attitude soup chimney hip";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive profit plate little nuclear grant seek rice skull arrange blur garbage";
+var mnemonic = "glimpse office burden nuclear dilemma cabin dish memory fruit smart motion spider";

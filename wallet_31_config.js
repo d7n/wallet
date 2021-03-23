@@ -1,1 +1,1 @@
-var mnemonic = "flower drama upon couple tuition brass drastic stairs rebel frown wink prevent";
+var mnemonic = "ensure camera year arch pond draw veteran faint nice glad vanish eagle";

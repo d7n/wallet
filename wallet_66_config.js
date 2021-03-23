@@ -1,1 +1,1 @@
-var mnemonic = "laundry you boy oyster neglect opera oval anxiety cram inside rhythm consider";
+var mnemonic = "later quantum turtle magic again enact unfold advice slide system solid school";

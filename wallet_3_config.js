@@ -1,1 +1,1 @@
-var mnemonic = "ensure answer license dune guilt document trend hair behind ill shaft mystery";
+var mnemonic = "rely runway divorce visit cupboard frame royal like year fold cousin will";

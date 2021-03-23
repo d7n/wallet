@@ -1,1 +1,1 @@
-var mnemonic = "cake hub butter love wage film friend dinner narrow offer replace hurry";
+var mnemonic = "muscle casual cage gallery quantum truth you kidney stay token agree matter";

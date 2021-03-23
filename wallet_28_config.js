@@ -1,1 +1,1 @@
-var mnemonic = "unique farm obtain matrix sibling join forest retire bracket then spot repeat";
+var mnemonic = "become topple pony scale oxygen prosper remain column luxury attack small carry";
