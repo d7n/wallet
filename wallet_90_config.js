@@ -1,1 +1,1 @@
-var mnemonic = "dizzy pony clock cradle nerve distance series fiction soup during liquid exist";
+var mnemonic = "half wrong door crystal shield reopen float journey slab milk screen october";

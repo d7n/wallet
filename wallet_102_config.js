@@ -1,1 +1,1 @@
-var mnemonic = "clap paddle coral account seminar crisp west ancient world display globe path";
+var mnemonic = "remain idea myself detect beauty pet window left breeze slot small business";

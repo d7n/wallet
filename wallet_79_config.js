@@ -1,1 +1,1 @@
-var mnemonic = "action coach clay leisure good express mimic elder trigger gym tide mountain";
+var mnemonic = "shiver powder engage bulb door unusual clown cabin churn jeans ramp clog";

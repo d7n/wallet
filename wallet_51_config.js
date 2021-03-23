@@ -1,1 +1,1 @@
-var mnemonic = "marriage steak ostrich merit enroll pencil catch abstract segment seven local base";
+var mnemonic = "robust obey suspect great gallery scheme region slush alcohol fire sausage ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "field rescue kit average corn invite wheat middle credit donate habit cube";
+var mnemonic = "remind dance sound consider joke flower goose hybrid push injury vote guess";

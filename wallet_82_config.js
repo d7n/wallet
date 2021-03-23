@@ -1,1 +1,1 @@
-var mnemonic = "loyal impact very cloth hand swing awake wealth margin suggest west patrol";
+var mnemonic = "essay friend correct motion supreme curtain aim melody control welcome jacket pledge";

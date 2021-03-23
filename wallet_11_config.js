@@ -1,1 +1,1 @@
-var mnemonic = "author logic flee film image knife meat burger hello early tuition wait";
+var mnemonic = "balcony live dial define dinosaur shell soldier describe depth toilet favorite describe";

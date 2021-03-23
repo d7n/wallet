@@ -1,1 +1,1 @@
-var mnemonic = "donate lyrics ordinary leaf appear foil exclude because old city normal truck";
+var mnemonic = "address enlist video siren rib demand cupboard depart ten describe craft away";

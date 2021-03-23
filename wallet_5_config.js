@@ -1,1 +1,1 @@
-var mnemonic = "equip wet tent sail seminar garlic limit spike elevator south question add";
+var mnemonic = "master bubble boil ahead castle zero rigid tourist rain slab burst pledge";

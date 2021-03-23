@@ -1,1 +1,1 @@
-var mnemonic = "crucial grunt vault nothing snack chuckle hybrid recall royal chicken method olive";
+var mnemonic = "purpose convince grief flee surprise myself settle match stereo traffic company habit";

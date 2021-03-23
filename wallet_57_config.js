@@ -1,1 +1,1 @@
-var mnemonic = "visit like defense thank faculty jaguar panther upset hunt eye transfer click";
+var mnemonic = "bus bomb dumb december emerge erosion chuckle breeze supreme talent warrior wheel";

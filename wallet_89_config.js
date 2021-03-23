@@ -1,1 +1,1 @@
-var mnemonic = "harvest obtain inquiry apart capital trophy april protect lion eyebrow define way";
+var mnemonic = "hint virtual theory shadow huge code disagree mention undo rally sell add";

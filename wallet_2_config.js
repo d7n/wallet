@@ -1,1 +1,1 @@
-var mnemonic = "delay hammer gallery near ankle hero boat equal bachelor help exclude ranch";
+var mnemonic = "wrestle tiger brisk noodle shop toddler shiver spot expose robust grid crack";

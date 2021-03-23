@@ -1,1 +1,1 @@
-var mnemonic = "empower poem gravity slam husband tired water radar path finger sad remember";
+var mnemonic = "screen access toward skill miss teach seed crumble team attack oval suggest";

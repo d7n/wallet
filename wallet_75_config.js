@@ -1,1 +1,1 @@
-var mnemonic = "fold palm oblige history mountain fitness beef gym female seed input donor";
+var mnemonic = "cute borrow license dirt error decorate fruit trust culture define base quiz";

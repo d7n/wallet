@@ -1,1 +1,1 @@
-var mnemonic = "orange impose rack horn foot transfer beyond cabin fence spell faith coral";
+var mnemonic = "denial crop guitar mountain rack bird believe still exist tenant charge glory";

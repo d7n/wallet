@@ -1,1 +1,1 @@
-var mnemonic = "motion govern autumn access rice asset describe card correct fitness since derive";
+var mnemonic = "alpha member barely stand win exotic woman final fashion knee stable grant";

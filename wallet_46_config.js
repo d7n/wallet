@@ -1,1 +1,1 @@
-var mnemonic = "achieve magic pride since polar wrong know puppy female middle pilot olive";
+var mnemonic = "swift glue range profit shop friend december fossil absorb metal obey because";

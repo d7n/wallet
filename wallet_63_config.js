@@ -1,1 +1,1 @@
-var mnemonic = "hour kit foam kick truly bunker tool dinosaur purity crystal mimic foam";
+var mnemonic = "balcony hospital claim gate blossom general feature flash direct cram sort height";

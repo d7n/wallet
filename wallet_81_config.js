@@ -1,1 +1,1 @@
-var mnemonic = "middle hamster donate maze panther mansion endless error distance bracket essay heart";
+var mnemonic = "call swear mom congress jealous style cushion medal sorry flame goose nerve";

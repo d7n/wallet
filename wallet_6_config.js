@@ -1,1 +1,1 @@
-var mnemonic = "rapid plate lady circle tent slab physical blush hen divorce client obey";
+var mnemonic = "theme gauge hurdle enrich cushion scissors wonder inhale chat video vendor lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt silly off ball skill hair buzz acquire aim wink language disease";
+var mnemonic = "shuffle they plunge size pig dance original angry cliff ball grit suffer";

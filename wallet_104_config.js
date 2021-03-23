@@ -1,1 +1,1 @@
-var mnemonic = "bulb intact two alien sun prefer add caution lizard clutch task age";
+var mnemonic = "useless vehicle agent jazz orchard acquire pelican elegant march aspect decline stay";

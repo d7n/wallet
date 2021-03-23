@@ -1,1 +1,1 @@
-var mnemonic = "clarify ramp poet normal frequent deposit chicken crew maid clay absent home";
+var mnemonic = "deliver post pigeon chat tooth open faith same pumpkin rose treat involve";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil immense grant dentist response divorce method shoulder nut exercise hat dynamic";
+var mnemonic = "burst error mention artwork deal tape space magnet modify ethics fresh right";

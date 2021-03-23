@@ -1,1 +1,1 @@
-var mnemonic = "saddle upper camera vapor cement walnut toilet few portion trick silver creek";
+var mnemonic = "ugly more ribbon pond usual rough scan fiction move recall wall away";

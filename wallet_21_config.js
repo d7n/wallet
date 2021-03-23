@@ -1,1 +1,1 @@
-var mnemonic = "soda fade analyst airport entire humble couple century october hurry expose busy";
+var mnemonic = "zone test grid unaware key forget fruit claw impose tip mountain true";

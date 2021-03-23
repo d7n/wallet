@@ -1,1 +1,1 @@
-var mnemonic = "dress uniform squirrel blade chair shine lesson reason magic flag true cloud";
+var mnemonic = "celery remove exhibit face finger fantasy humor room eager now kitchen sudden";

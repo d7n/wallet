@@ -1,1 +1,1 @@
-var mnemonic = "rice valid better squirrel idea chef balcony escape kind cruel logic lounge";
+var mnemonic = "enter sick girl youth sunset hand general proud door electric liquid occur";

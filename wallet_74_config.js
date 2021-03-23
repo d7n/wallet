@@ -1,1 +1,1 @@
-var mnemonic = "dish ripple turtle finish dinosaur expect blur rate worth trouble parrot stable";
+var mnemonic = "soft drink venue toast there issue employ lobster sort lady once noble";

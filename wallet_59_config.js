@@ -1,1 +1,1 @@
-var mnemonic = "try meadow prosper produce palace cloth mixture weird rack again found major";
+var mnemonic = "actor spider general three sadness swim gas dawn salon involve leg lamp";

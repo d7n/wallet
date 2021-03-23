@@ -1,1 +1,1 @@
-var mnemonic = "all shield major spawn neither enrich throw suggest cycle number they alter";
+var mnemonic = "unique can observe display lake marine century bachelor during fragile attitude supply";

@@ -1,1 +1,1 @@
-var mnemonic = "banner silver atom vacuum ice trumpet fire lawsuit earn nice canyon glimpse";
+var mnemonic = "rally boil liberty earn merge enter stuff above auction street gadget tell";

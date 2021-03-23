@@ -1,1 +1,1 @@
-var mnemonic = "dolphin enhance tail just dilemma model network mesh history chair disorder actual";
+var mnemonic = "mutual appear patrol robust hammer toward uphold adjust tortoise company siren humble";

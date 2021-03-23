@@ -1,1 +1,1 @@
-var mnemonic = "raven various secret banana add trumpet history tackle detect company spike wild";
+var mnemonic = "blouse sell wing bubble cram text extra ocean shy track skin curve";

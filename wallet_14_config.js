@@ -1,1 +1,1 @@
-var mnemonic = "tiger throw note color bracket month square deer stick ability kick jealous";
+var mnemonic = "heavy rack dune position what alter soda receive quarter brother perfect hamster";

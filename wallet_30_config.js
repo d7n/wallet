@@ -1,1 +1,1 @@
-var mnemonic = "weird kingdom idea grunt three vocal industry normal concert scene work orient";
+var mnemonic = "diamond flame sound staff vital nurse swim indoor hedgehog issue equal divide";

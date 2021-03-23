@@ -1,1 +1,1 @@
-var mnemonic = "patient taxi engage photo merge raise mixture bright escape hill slide gas";
+var mnemonic = "emotion camera melody record cream vapor trap plunge cash east asset hunt";

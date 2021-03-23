@@ -1,1 +1,1 @@
-var mnemonic = "hill test flip vapor combine prize train together behave bunker forest found";
+var mnemonic = "wheel script trend leg bomb pact cargo pencil grief uphold pig search";

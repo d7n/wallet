@@ -1,1 +1,1 @@
-var mnemonic = "brisk piece fish blanket mango unknown warfare between grit mouse digital robust";
+var mnemonic = "curious comic fashion social sleep small palm abandon picture canvas swear figure";

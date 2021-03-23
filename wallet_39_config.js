@@ -1,1 +1,1 @@
-var mnemonic = "citizen trial dinosaur language danger gorilla evil umbrella divide awkward convince salmon";
+var mnemonic = "genius wrestle snack beyond tail shy calm lunar ensure girl motion fence";

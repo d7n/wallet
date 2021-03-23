@@ -1,1 +1,1 @@
-var mnemonic = "post property alien struggle mountain asset remember never muscle picnic prevent wrap";
+var mnemonic = "thumb parrot limit piece chef toss tag stable rebuild screen wisdom cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic mobile suit monster spoil asthma find embark sausage embody curve vocal";
+var mnemonic = "foil pepper fee rely occur elevator suggest book cereal vivid talent source";

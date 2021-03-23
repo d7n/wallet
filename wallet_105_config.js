@@ -1,1 +1,1 @@
-var mnemonic = "sheriff deliver scale fat engage suffer cupboard mandate stomach shoot mansion flush";
+var mnemonic = "acid hat ill disorder onion melt prefer fee all they gym tumble";

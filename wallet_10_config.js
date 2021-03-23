@@ -1,1 +1,1 @@
-var mnemonic = "maze wear west crunch grid obey shoulder credit hazard camp enact menu";
+var mnemonic = "tornado battle lottery slogan believe bicycle network priority round april obvious game";

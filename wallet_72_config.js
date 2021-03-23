@@ -1,1 +1,1 @@
-var mnemonic = "once project dish forest health minor favorite bounce claim text promote ready";
+var mnemonic = "desk shoe keep explain force ethics bring alcohol robust frame actress lizard";

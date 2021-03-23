@@ -1,1 +1,1 @@
-var mnemonic = "cactus horn cloth category mixture hen mesh slam reduce witness visa state";
+var mnemonic = "escape beef goddess error cradle order evidence snack chunk century hammer unusual";

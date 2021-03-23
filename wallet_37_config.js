@@ -1,1 +1,1 @@
-var mnemonic = "inhale mystery side empty what team stable sudden hurry above lesson miracle";
+var mnemonic = "share potato renew picture require one nothing essay violin hub similar concert";

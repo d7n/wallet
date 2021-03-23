@@ -1,1 +1,1 @@
-var mnemonic = "giggle hello client unknown favorite heavy glimpse actor zone direct panda school";
+var mnemonic = "sustain expose mixed economy you aim shallow north envelope civil where strategy";

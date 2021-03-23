@@ -1,1 +1,1 @@
-var mnemonic = "draft galaxy ankle agree soon suit review father cute sign smooth skirt";
+var mnemonic = "borrow jump bread pony this father jump festival heart man virtual erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "sister curve popular evolve olympic drum hill sample expect rookie embark destroy";
+var mnemonic = "youth warrior share swallow spin torch shoulder ill put direct exotic fancy";

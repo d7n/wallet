@@ -1,1 +1,1 @@
-var mnemonic = "assist infant wheat ripple easy original add rebuild tonight truth flash idea";
+var mnemonic = "symbol offer bargain tobacco skirt leave swamp carry anxiety sketch taste wool";

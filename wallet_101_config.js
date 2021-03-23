@@ -1,1 +1,1 @@
-var mnemonic = "enable seek real zoo scale inside they stock pass kiwi fold bullet";
+var mnemonic = "sniff wool kingdom sketch fish long sister lawn box among runway below";

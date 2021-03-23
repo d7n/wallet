@@ -1,1 +1,1 @@
-var mnemonic = "leave seed border toddler agree glass twin divide spawn sand display final";
+var mnemonic = "drip affair action topple client visa unaware trend receive squeeze mercy wine";

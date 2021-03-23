@@ -1,1 +1,1 @@
-var mnemonic = "soup shoulder bright pen fee impose shop belt enrich jeans gospel siren";
+var mnemonic = "obscure lava absurd pipe item author search blush innocent rely carbon soap";

@@ -1,1 +1,1 @@
-var mnemonic = "material spirit evolve analyst risk abandon vibrant tortoise anger lucky credit simple";
+var mnemonic = "practice rival dentist own cherry brand onion swap mean wink small violin";

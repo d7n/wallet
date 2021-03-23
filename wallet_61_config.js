@@ -1,1 +1,1 @@
-var mnemonic = "permit picnic cotton trip dry copy concert february moment ignore spring pigeon";
+var mnemonic = "reveal subject melt session dream royal surprise salt seek transfer enlist conduct";

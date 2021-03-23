@@ -1,1 +1,1 @@
-var mnemonic = "aisle unfold scan tuna skate situate winner toe small jacket dilemma myth";
+var mnemonic = "wrist rotate joke cabin avocado comic egg accident great camera scheme noise";

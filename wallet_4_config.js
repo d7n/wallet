@@ -1,1 +1,1 @@
-var mnemonic = "witness sponsor silent lock thunder soup size shield arrest input gap oven";
+var mnemonic = "poet pepper basic involve cruel rigid evolve address sugar sugar profit select";

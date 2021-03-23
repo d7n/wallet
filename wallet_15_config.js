@@ -1,1 +1,1 @@
-var mnemonic = "spike corn brave asset visa grief seminar imitate render hold brain confirm";
+var mnemonic = "speed dad virus sun wife swarm ankle skull govern electric increase mix";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter girl remember case lunar swift deal cluster web invest distance boy";
+var mnemonic = "control parrot cabbage install night innocent learn program advance filter crew gown";

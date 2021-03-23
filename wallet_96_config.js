@@ -1,1 +1,1 @@
-var mnemonic = "fiscal volcano curve home size ankle check hollow phrase cactus dentist hockey";
+var mnemonic = "have seed raise early welcome ceiling garment pretty snack welcome enough tunnel";

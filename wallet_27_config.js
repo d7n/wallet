@@ -1,1 +1,1 @@
-var mnemonic = "rigid dish audit host toe night blush tourist denial envelope rhythm goddess";
+var mnemonic = "chalk author panic desert member thing camp electric glow version ski cave";

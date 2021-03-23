@@ -1,1 +1,1 @@
-var mnemonic = "album collect rival chest knock call ketchup truth gravity dinner festival twin";
+var mnemonic = "february cloth permit panda canyon impact heart cement mushroom oak faculty option";

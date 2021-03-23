@@ -1,1 +1,1 @@
-var mnemonic = "nice actress juice fitness erase parade stick bitter merry program genuine repeat";
+var mnemonic = "inject mass renew trend stereo cradle group snake come enjoy easily ostrich";

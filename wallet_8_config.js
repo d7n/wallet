@@ -1,1 +1,1 @@
-var mnemonic = "subway cupboard live execute student review elegant resist fashion arena dynamic erupt";
+var mnemonic = "area fish execute follow monkey skirt coral lend scout grid shock flip";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil stone thumb bottom outer scale bronze battle pulp close destroy second";
+var mnemonic = "loop ball entire wonder abuse purpose behind list radio frown skirt acoustic";

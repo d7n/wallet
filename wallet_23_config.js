@@ -1,1 +1,1 @@
-var mnemonic = "resemble door bulb river zoo brass exotic dune shove sure doctor supreme";
+var mnemonic = "adapt quote faith interest position extend lecture sunset replace tooth poverty client";

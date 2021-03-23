@@ -1,1 +1,1 @@
-var mnemonic = "address food lizard match riot only pumpkin again library lend sell mind";
+var mnemonic = "under lunar useful kiwi fence stem anger fun move depend lecture supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow shoulder special guilt wave benefit pumpkin sugar essence enrich water dune";
+var mnemonic = "boil ready table net member toss trial much slot parade valve enhance";

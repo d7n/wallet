@@ -1,1 +1,1 @@
-var mnemonic = "rough second math sail pyramid symptom village flavor fog identify fresh peasant";
+var mnemonic = "fragile common wrist pretty beyond material cousin also income decade artwork acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "half impact safe swift picnic social scare talk myself vague reopen undo";
+var mnemonic = "salon crop now rhythm surge goose bitter strike wing corn rich century";

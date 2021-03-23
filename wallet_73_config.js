@@ -1,1 +1,1 @@
-var mnemonic = "decide anchor story picnic very scrub convince battle say feature must around";
+var mnemonic = "cliff ocean enable core cart sound myself vibrant feel display slab genius";

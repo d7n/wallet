@@ -1,1 +1,1 @@
-var mnemonic = "road legend oxygen pelican start pear blush middle shaft nasty lucky author";
+var mnemonic = "dirt cook amused word film narrow worry nothing water age cotton sunset";

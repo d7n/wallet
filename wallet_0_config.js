@@ -1,1 +1,1 @@
-var mnemonic = "oppose cycle estate volume clap tennis shrimp like insane fragile mandate lecture";
+var mnemonic = "elegant rose hand near normal grow quick monster better same brave custom";

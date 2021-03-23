@@ -1,1 +1,1 @@
-var mnemonic = "remain damage van riot car rack wing brief degree inquiry meat chat";
+var mnemonic = "jump citizen birth crime capital safe dice dolphin whisper plate kidney cage";

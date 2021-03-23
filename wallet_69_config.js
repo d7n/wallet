@@ -1,1 +1,1 @@
-var mnemonic = "image include ginger orient cry theory cake sleep wash anxiety plastic journey";
+var mnemonic = "spray broom side simple monitor grain bean baby farm jaguar common usual";

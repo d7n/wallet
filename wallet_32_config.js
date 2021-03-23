@@ -1,1 +1,1 @@
-var mnemonic = "miracle doctor year rebuild tomorrow bubble you three lift mad avocado critic";
+var mnemonic = "impulse dumb recipe benefit entry near maple foil hammer crush situate spring";

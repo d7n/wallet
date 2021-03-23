@@ -1,1 +1,1 @@
-var mnemonic = "enhance will coral inspire hard meadow green lend search actual library ready";
+var mnemonic = "permit target clay toe inform clown glad leader laundry indicate slice gallery";

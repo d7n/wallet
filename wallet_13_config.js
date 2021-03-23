@@ -1,1 +1,1 @@
-var mnemonic = "awake ask major umbrella pistol gas section unfair firm pulse exist unlock";
+var mnemonic = "pond where fever wide receive glory review dumb vanish shock virtual diary";

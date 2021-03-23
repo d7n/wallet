@@ -1,1 +1,1 @@
-var mnemonic = "evidence woman tissue cheese party fox uncover tip usual strategy lecture ostrich";
+var mnemonic = "group volume excite remind person call fold credit slab team onion more";

@@ -1,1 +1,1 @@
-var mnemonic = "eight fortune crack cloud grain winner amazing dune taste toddler better reward";
+var mnemonic = "fog crystal attract vessel exhaust thumb text group toe apart lawsuit recipe";

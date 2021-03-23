@@ -1,1 +1,1 @@
-var mnemonic = "decade curtain viable jump rare glass slight beach tomato lawsuit slot october";
+var mnemonic = "sweet over stool reform helmet sibling shift snap foam wonder hair tube";

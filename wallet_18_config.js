@@ -1,1 +1,1 @@
-var mnemonic = "scatter moral other home explain palace alien cube chest robot evoke miracle";
+var mnemonic = "lawn strike love wrong parade arctic tissue extend bless bicycle cat arrange";

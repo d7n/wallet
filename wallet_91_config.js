@@ -1,1 +1,1 @@
-var mnemonic = "differ oyster soul swallow much problem fluid unable menu sing million arena";
+var mnemonic = "acquire vital alien divert pair addict earth lunar pudding jelly match argue";

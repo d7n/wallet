@@ -1,1 +1,1 @@
-var mnemonic = "ahead trigger spy elevator fresh ranch usage gate vicious cross frozen virus";
+var mnemonic = "fit pave armor exact document need push garlic swear media organ kiwi";

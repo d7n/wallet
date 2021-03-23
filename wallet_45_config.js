@@ -1,1 +1,1 @@
-var mnemonic = "initial neck black cause elephant belt useless endorse credit gallery reopen frequent";
+var mnemonic = "ignore concert silver head divert myth castle tag tone matter ginger way";

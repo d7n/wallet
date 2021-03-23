@@ -1,1 +1,1 @@
-var mnemonic = "casino cool report soft leaf easily churn traffic hero time energy collect";
+var mnemonic = "error input wood vibrant stock scene convince lift shrug monitor bleak grace";

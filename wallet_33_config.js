@@ -1,1 +1,1 @@
-var mnemonic = "sentence drill spin change surge theme lounge ginger siren cruise fury snake";
+var mnemonic = "cash mutual couch win mad early fee benefit inner dismiss before song";

@@ -1,1 +1,1 @@
-var mnemonic = "middle fire sausage jealous emotion recycle eager gossip then parade script satoshi";
+var mnemonic = "inch radio celery again spoon fix gloom person puppy curtain march cable";

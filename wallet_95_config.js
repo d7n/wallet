@@ -1,1 +1,1 @@
-var mnemonic = "key object success churn kick mushroom upgrade float wink artist space dignity";
+var mnemonic = "law leopard balcony strategy horn ripple slim come horn purse ostrich marriage";

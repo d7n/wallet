@@ -1,1 +1,1 @@
-var mnemonic = "improve earth usual recall hello pause silver attend vague arctic stereo decide";
+var mnemonic = "story labor sweet often spawn carry joy canoe crisp ghost jacket dignity";

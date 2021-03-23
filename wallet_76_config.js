@@ -1,1 +1,1 @@
-var mnemonic = "palace twenty float picture bunker quality number faith inform scare basket law";
+var mnemonic = "tissue prison toddler buddy pen picnic movie curve design noise violin bone";
