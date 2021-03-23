@@ -1,1 +1,1 @@
-var mnemonic = "swallow similar twelve dry language duck force mean write capable drastic snap";
+var mnemonic = "dress device girl virus gun forest keen kingdom wonder average kidney coconut";

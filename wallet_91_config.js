@@ -1,1 +1,1 @@
-var mnemonic = "leopard raccoon connect model flee expire bleak equal snap patch rural cart";
+var mnemonic = "velvet find record spend mutual smart castle month ugly sound march plastic";

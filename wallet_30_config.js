@@ -1,1 +1,1 @@
-var mnemonic = "risk eye surge file rocket card potato proud gravity family unusual mule";
+var mnemonic = "unaware mixed snow job extra unaware mix benefit salt female rabbit receive";

@@ -1,1 +1,1 @@
-var mnemonic = "final crawl fall busy build broom repeat staff normal cabbage honey fragile";
+var mnemonic = "rigid grape trip stuff noise alley prosper swap film company hold drop";

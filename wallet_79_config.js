@@ -1,1 +1,1 @@
-var mnemonic = "oppose again august soldier about wage science sentence jewel income charge retreat";
+var mnemonic = "bag husband able regular speak spoon doctor conduct chapter absurd patient real";

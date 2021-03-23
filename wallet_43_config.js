@@ -1,1 +1,1 @@
-var mnemonic = "amateur tonight nasty sentence buyer evidence rude heart quiz slender gravity clown";
+var mnemonic = "list enroll romance helmet busy adapt cruise travel chunk catch sunset vault";

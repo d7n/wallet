@@ -1,1 +1,1 @@
-var mnemonic = "castle price pluck powder despair crack fix proof tell sad lens dove";
+var mnemonic = "like wrist fresh electric drift remove canoe fork job hat coast asset";

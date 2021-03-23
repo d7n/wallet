@@ -1,1 +1,1 @@
-var mnemonic = "pet gossip remember city skill fan cycle gain rely obvious inspire sort";
+var mnemonic = "later elephant pool often tired pigeon print upper goose apple comic service";

@@ -1,1 +1,1 @@
-var mnemonic = "soup chunk father pioneer economy pause battle wash click section small harsh";
+var mnemonic = "remind prison resource immune inherit route seven ceiling filter fiber chicken profit";

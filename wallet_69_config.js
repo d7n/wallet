@@ -1,1 +1,1 @@
-var mnemonic = "poet result insect session turtle follow forum beef dentist zoo mandate bright";
+var mnemonic = "elegant once wrap find three found fury kid gravity insane vendor lion";

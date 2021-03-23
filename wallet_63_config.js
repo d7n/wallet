@@ -1,1 +1,1 @@
-var mnemonic = "grass ticket bulb caught hip later barely subway crucial meat couple mention";
+var mnemonic = "model basic have dog outer tiger ring muscle upset raven lottery multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy glove young body ivory equal tail corn resemble benefit maximum omit";
+var mnemonic = "danger hub pilot burden other click word double remove negative skull resemble";

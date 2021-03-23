@@ -1,1 +1,1 @@
-var mnemonic = "unhappy desk next weekend riot cinnamon mention praise infant exile rival fury";
+var mnemonic = "derive spike sting edge unique garment hair farm brand eye size spatial";

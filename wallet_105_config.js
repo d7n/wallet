@@ -1,1 +1,1 @@
-var mnemonic = "keen attract avocado mouse discover delay marble swap banner skin century since";
+var mnemonic = "armor elder prosper profit action proud avoid cliff toss special cable volcano";

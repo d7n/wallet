@@ -1,1 +1,1 @@
-var mnemonic = "tragic dress miracle power ceiling universe refuse shaft soft silent great nerve";
+var mnemonic = "sugar permit choice mule dumb also tired wink bleak broccoli floor general";

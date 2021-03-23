@@ -1,1 +1,1 @@
-var mnemonic = "sting curve wish dentist trick vital frozen since celery ribbon scorpion toss";
+var mnemonic = "detect civil unknown goose whip correct transfer logic jewel doctor coconut trial";

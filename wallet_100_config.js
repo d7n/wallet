@@ -1,1 +1,1 @@
-var mnemonic = "sister time drama coral describe frog mass net grape then head release";
+var mnemonic = "consider glide flower hen uphold banana boring salad suggest grass erase elegant";

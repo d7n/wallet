@@ -1,1 +1,1 @@
-var mnemonic = "oven pluck pool sand churn orient morning basic maximum world turtle sibling";
+var mnemonic = "mass essence oppose poem female divorce grace person sadness spend clay devote";

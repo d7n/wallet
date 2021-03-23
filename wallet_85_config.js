@@ -1,1 +1,1 @@
-var mnemonic = "bright such coast predict pilot unhappy father little raccoon bright sadness issue";
+var mnemonic = "tag duty canal riot isolate journey tomato entire universe umbrella claim pottery";

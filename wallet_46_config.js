@@ -1,1 +1,1 @@
-var mnemonic = "equal mixed relax holiday guitar cinnamon actual drip surge sting cost quantum";
+var mnemonic = "tag extend stem battle funny viable garbage kangaroo tray athlete blast idle";

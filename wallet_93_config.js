@@ -1,1 +1,1 @@
-var mnemonic = "swallow vapor labor pony tape alien primary remind crisp drill blush kiss";
+var mnemonic = "crouch illness position borrow pink surge goose caution twin owner taste popular";

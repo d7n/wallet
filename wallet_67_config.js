@@ -1,1 +1,1 @@
-var mnemonic = "weasel mandate decline club price soap brain lend sample decorate genuine inflict";
+var mnemonic = "aware cook photo pencil bonus quiz entire club timber allow cute brush";

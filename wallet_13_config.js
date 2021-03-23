@@ -1,1 +1,1 @@
-var mnemonic = "dizzy ring planet obtain then tell enact layer state nut solar banana";
+var mnemonic = "alien crawl method cry arrive crystal neither rule jump tenant legal basic";

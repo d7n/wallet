@@ -1,1 +1,1 @@
-var mnemonic = "decline forum strong naive much barrel bubble bike ladder urge voyage fork";
+var mnemonic = "work enlist giraffe correct icon point obvious way universe unable crime peace";

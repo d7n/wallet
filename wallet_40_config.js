@@ -1,1 +1,1 @@
-var mnemonic = "recall round riot grant shell cart acquire olympic ball divert wrap quote";
+var mnemonic = "hunt chaos skull intact stool corn crush cup actual load crumble snack";

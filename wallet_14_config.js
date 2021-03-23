@@ -1,1 +1,1 @@
-var mnemonic = "piece language give sphere tag kingdom sick cry entire stairs light vacant";
+var mnemonic = "oyster century oblige vibrant spell advance isolate wait roast valid account home";

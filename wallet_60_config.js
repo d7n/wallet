@@ -1,1 +1,1 @@
-var mnemonic = "word ranch shine swear genre curve adapt foot monitor crash divorce dizzy";
+var mnemonic = "flight size busy sand method razor helmet release move cute cabin diary";

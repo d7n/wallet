@@ -1,1 +1,1 @@
-var mnemonic = "list spawn gadget dwarf strike silk peace horror adult talk embody erase";
+var mnemonic = "impact nut smooth mix where still pulse midnight jar profit diet unlock";

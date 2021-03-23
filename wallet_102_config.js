@@ -1,1 +1,1 @@
-var mnemonic = "december island bottom pause scare lunch tower cruel night divorce clock answer";
+var mnemonic = "peace resource discover wife warm avocado delay pull obvious sure mother argue";

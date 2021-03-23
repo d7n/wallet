@@ -1,1 +1,1 @@
-var mnemonic = "wine script globe cube cruise rare response trap swarm piece scare predict";
+var mnemonic = "task public cherry phrase opera diet picnic cause match stadium elder chair";

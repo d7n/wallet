@@ -1,1 +1,1 @@
-var mnemonic = "dynamic enroll clown roof bag okay giggle hunt ocean equip tone radio";
+var mnemonic = "lyrics chronic join output below pudding canvas clog kiss dash subway device";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise soap deputy impulse name gas vacant swift fall symptom day speed";
+var mnemonic = "stable torch also era nothing spring wide tank gown adjust they chief";

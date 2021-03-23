@@ -1,1 +1,1 @@
-var mnemonic = "basket twelve wink swim wrestle bachelor skirt limit math give mixed hazard";
+var mnemonic = "valve field fire table female adapt combine strike unfold they win alcohol";

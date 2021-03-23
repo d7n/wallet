@@ -1,1 +1,1 @@
-var mnemonic = "dust type slight pretty table response stamp fee payment hazard equip mandate";
+var mnemonic = "blush solve clinic spend enrich gallery theme million public forum trick joy";

@@ -1,1 +1,1 @@
-var mnemonic = "north safe angry copper pledge saddle endless permit author custom number future";
+var mnemonic = "unfold state energy tide moon crane cook afford improve face snap alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "income vacuum sign flower identify cable ensure time goat bid brother pudding";
+var mnemonic = "pony leisure edge feed fever oyster duck slab reason circle excess cave";

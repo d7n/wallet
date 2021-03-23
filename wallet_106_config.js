@@ -1,1 +1,1 @@
-var mnemonic = "social next engine orient one fox corn often sorry area behind try";
+var mnemonic = "maple inquiry you unfold sorry grab citizen regular begin jewel dumb poet";

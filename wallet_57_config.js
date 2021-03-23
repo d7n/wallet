@@ -1,1 +1,1 @@
-var mnemonic = "pretty danger wool zero shallow insane kiss wool assist note obey video";
+var mnemonic = "clever gown ranch pair they script solid ridge lunar belt able logic";

@@ -1,1 +1,1 @@
-var mnemonic = "retire raise asset lamp wink inside sorry smile rule during buyer arena";
+var mnemonic = "canal toss salad menu couple cousin soul recycle fame donor execute inform";

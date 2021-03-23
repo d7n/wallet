@@ -1,1 +1,1 @@
-var mnemonic = "engine struggle brisk journey wall exchange give fatal among welcome riot vote";
+var mnemonic = "tell salon hammer barrel fatal broken cousin alley during satoshi dance extend";

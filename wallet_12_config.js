@@ -1,1 +1,1 @@
-var mnemonic = "soccer knee vintage update coach knock excite promote indoor egg aware fit";
+var mnemonic = "balance direct mention across ribbon funny shield tape appear stuff twenty script";

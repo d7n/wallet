@@ -1,1 +1,1 @@
-var mnemonic = "toss oppose bench mango install donate chef canoe auction cash inherit claim";
+var mnemonic = "fashion tumble alcohol rack solid time fresh door illness consider jump royal";

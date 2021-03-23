@@ -1,1 +1,1 @@
-var mnemonic = "frequent control smoke minor slush harsh pattern dial hotel ranch usage melt";
+var mnemonic = "enroll rookie prepare example romance skill season ecology rough cupboard arrow dry";

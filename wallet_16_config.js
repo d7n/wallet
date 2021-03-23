@@ -1,1 +1,1 @@
-var mnemonic = "blade donate best junk screen vacuum bicycle lumber belt stomach holiday early";
+var mnemonic = "crime saddle fly move olympic share section farm traffic twin play remain";

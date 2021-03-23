@@ -1,1 +1,1 @@
-var mnemonic = "domain adapt brush auto bless magnet bright sunset viable swift amused maze";
+var mnemonic = "prosper crop time second crater fruit already boring canal yellow review genuine";

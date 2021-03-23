@@ -1,1 +1,1 @@
-var mnemonic = "install catch child isolate leopard leader wine false soda armor gym trade";
+var mnemonic = "budget inspire run mango still unfold term parrot toy sheriff struggle huge";

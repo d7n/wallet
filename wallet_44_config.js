@@ -1,1 +1,1 @@
-var mnemonic = "animal obvious seat popular domain core frequent element nothing audit congress coyote";
+var mnemonic = "plate champion shield come state shaft betray drop shiver rival copy ready";

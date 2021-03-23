@@ -1,1 +1,1 @@
-var mnemonic = "one visual ankle race record fancy foam usual pair drop draft divorce";
+var mnemonic = "sand depart fat palace general example bridge chase category remind pipe foil";

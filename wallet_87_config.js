@@ -1,1 +1,1 @@
-var mnemonic = "ranch oil happy ensure barely winter volcano talk parent quiz thank sense";
+var mnemonic = "very pottery pause sketch electric diary frozen auction answer light monitor expire";

@@ -1,1 +1,1 @@
-var mnemonic = "wing gospel yard supreme hospital kidney trust ozone crunch cluster pulse lunch";
+var mnemonic = "typical tonight rubber gloom tape typical law require cave nice orbit tape";

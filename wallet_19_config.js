@@ -1,1 +1,1 @@
-var mnemonic = "decade travel tunnel small purse arctic device opera above neglect art school";
+var mnemonic = "riot embark abuse sister live vanish category indoor uncover tonight device citizen";

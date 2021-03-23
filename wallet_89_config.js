@@ -1,1 +1,1 @@
-var mnemonic = "goose lazy crowd alert praise depth gorilla town process eagle afford rain";
+var mnemonic = "trial rather meat museum month twelve strong slot below trigger display short";

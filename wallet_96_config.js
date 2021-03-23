@@ -1,1 +1,1 @@
-var mnemonic = "ankle giant icon day danger recipe bind giggle silent drive teach tunnel";
+var mnemonic = "convince gloom heavy leg walnut woman enhance move exit neither treat monkey";

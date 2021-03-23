@@ -1,1 +1,1 @@
-var mnemonic = "smart draw arm junior weekend draw absurd arm card fat attitude piano";
+var mnemonic = "kiss balcony energy list demand abandon sail educate frost blush thumb child";

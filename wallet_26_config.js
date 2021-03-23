@@ -1,1 +1,1 @@
-var mnemonic = "acid olympic text expand artist athlete web fish gloom cake gospel barrel";
+var mnemonic = "veteran theory climb innocent detect fox weasel pulp weather toss expose dolphin";

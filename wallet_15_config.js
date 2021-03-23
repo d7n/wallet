@@ -1,1 +1,1 @@
-var mnemonic = "zoo mean crime matrix wave abandon easily unusual baby edit offer hope";
+var mnemonic = "yellow merry pool token since olive three finish rifle uncover dawn agent";

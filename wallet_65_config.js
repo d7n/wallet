@@ -1,1 +1,1 @@
-var mnemonic = "young design noodle picnic obvious sister discover salmon fringe fade come enter";
+var mnemonic = "sting warm another praise autumn obscure remind fossil danger expect roof join";

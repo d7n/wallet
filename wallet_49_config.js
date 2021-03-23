@@ -1,1 +1,1 @@
-var mnemonic = "pole cinnamon any laundry build sand minor obvious prize coach smile hint";
+var mnemonic = "gospel peace claw melody strong fever desk essay inherit hip cloth warm";

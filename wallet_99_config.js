@@ -1,1 +1,1 @@
-var mnemonic = "brother enact symbol slush actual coil stock wash notice old lock case";
+var mnemonic = "tonight balcony receive poet opinion fan estate name rather praise asset father";

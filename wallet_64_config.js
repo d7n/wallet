@@ -1,1 +1,1 @@
-var mnemonic = "surface edge panther intact genius fetch divorce file glow search track advice";
+var mnemonic = "chuckle lemon tuition impose opinion lunch antenna ivory trash shock uncover gaze";

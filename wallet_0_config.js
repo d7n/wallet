@@ -1,1 +1,1 @@
-var mnemonic = "service common tornado north know insect become kite expect humble indicate release";
+var mnemonic = "vibrant brown harsh denial avoid lamp travel shrug junior vicious party boss";

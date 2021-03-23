@@ -1,1 +1,1 @@
-var mnemonic = "lock palm version build alpha together hello vacuum latin veteran urban lake";
+var mnemonic = "ahead under nest box tiny science wrestle skate high trophy tobacco arm";

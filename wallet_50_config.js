@@ -1,1 +1,1 @@
-var mnemonic = "identify sock hospital predict guilt jar region alcohol cabin odor able reject";
+var mnemonic = "tell envelope decrease light inch auction miracle swallow food addict grain result";

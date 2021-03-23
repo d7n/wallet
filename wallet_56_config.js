@@ -1,1 +1,1 @@
-var mnemonic = "finish rabbit above prison aisle season grocery exact quick permit motion unit";
+var mnemonic = "endless rug empty slender mansion produce great cannon any card other rare";

@@ -1,1 +1,1 @@
-var mnemonic = "crane reunion laugh obtain gadget immune tent must mix useful size census";
+var mnemonic = "quick shift wheat hobby valve drill excuse citizen recycle case favorite rail";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce holiday gauge input ecology zero remain mistake oven weasel exhibit inner";
+var mnemonic = "cost mix vapor decide jaguar charge key camera correct provide edge crush";

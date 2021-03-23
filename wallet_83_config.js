@@ -1,1 +1,1 @@
-var mnemonic = "maze lawsuit goddess secret reunion effort under stable merry tribe twist giraffe";
+var mnemonic = "step observe guard congress mule clock satisfy sleep rural goose excess manage";

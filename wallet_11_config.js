@@ -1,1 +1,1 @@
-var mnemonic = "roast addict famous waste turtle autumn cinnamon common vault luggage guilt exchange";
+var mnemonic = "elite flame scrub drill input hire hen leopard say luxury quarter helmet";

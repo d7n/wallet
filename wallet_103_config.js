@@ -1,1 +1,1 @@
-var mnemonic = "rescue machine broken much whisper mule whisper tired note strike funny vivid";
+var mnemonic = "roof maze voyage live put raccoon predict throw garage select mammal pigeon";

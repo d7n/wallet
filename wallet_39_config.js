@@ -1,1 +1,1 @@
-var mnemonic = "imitate inform nerve warm enroll ten drink wasp bulb deputy deal upset";
+var mnemonic = "borrow bundle armor orbit crane actual mother behind wonder below place milk";

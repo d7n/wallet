@@ -1,1 +1,1 @@
-var mnemonic = "frost drum tilt across lunch ketchup provide coil strong decline only token";
+var mnemonic = "travel stadium maple person audit habit dinosaur electric text gate defy radio";

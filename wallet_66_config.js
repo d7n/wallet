@@ -1,1 +1,1 @@
-var mnemonic = "like dolphin collect police expand elegant boss finish seven announce stamp under";
+var mnemonic = "where solar board assault video useless loop post clutch abuse laundry calm";

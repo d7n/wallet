@@ -1,1 +1,1 @@
-var mnemonic = "elevator exact stuff bright party kid blouse job tell enrich siren uniform";
+var mnemonic = "pony town flock nothing bulk auto topple diary broccoli oyster donkey mixture";

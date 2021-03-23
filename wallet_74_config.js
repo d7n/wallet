@@ -1,1 +1,1 @@
-var mnemonic = "hen tail obtain gate creek submit biology leaf banner document unhappy taste";
+var mnemonic = "brisk spoil else gold festival buddy segment lazy pupil draft cube element";

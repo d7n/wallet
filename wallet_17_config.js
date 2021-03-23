@@ -1,1 +1,1 @@
-var mnemonic = "range cactus olive sell lesson predict coconut control simple despair job vast";
+var mnemonic = "volume dolphin border okay fire ocean seminar typical bag betray fun rely";

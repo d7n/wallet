@@ -1,1 +1,1 @@
-var mnemonic = "music clock select total boss evil profit angry hockey same often calm";
+var mnemonic = "high essay trip senior divorce tone strong artist remind winner cigar antique";

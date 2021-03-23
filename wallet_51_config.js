@@ -1,1 +1,1 @@
-var mnemonic = "juice inform laugh home put prosper settle park exotic wealth cousin lecture";
+var mnemonic = "deliver leopard only man way little broken run liar ceiling first iron";

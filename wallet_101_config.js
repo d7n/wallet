@@ -1,1 +1,1 @@
-var mnemonic = "recall return supply runway carpet color blur ensure light attack pause absurd";
+var mnemonic = "perfect anchor now salad useful taxi cupboard number fade common top peanut";

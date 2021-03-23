@@ -1,1 +1,1 @@
-var mnemonic = "erode neutral perfect minor initial clap aisle grass uncle eyebrow apart public";
+var mnemonic = "embark balance frown cupboard wrap denial margin couple pistol conduct undo silk";

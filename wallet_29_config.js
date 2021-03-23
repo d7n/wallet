@@ -1,1 +1,1 @@
-var mnemonic = "forward wool fantasy enter disorder amount napkin evil hybrid acid pair approve";
+var mnemonic = "blur grain render chest myself ignore audit hammer solve master leader vital";

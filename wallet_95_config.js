@@ -1,1 +1,1 @@
-var mnemonic = "pig dry stage diet color away strategy maple stove flower column sustain";
+var mnemonic = "mango weird leaf worth artefact crunch delay recall royal expand shine critic";

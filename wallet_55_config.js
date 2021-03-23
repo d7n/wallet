@@ -1,1 +1,1 @@
-var mnemonic = "scrap harvest able friend cheap adapt can bounce nurse grunt edge focus";
+var mnemonic = "toddler grant make bone advance awful syrup day dilemma friend portion sponsor";

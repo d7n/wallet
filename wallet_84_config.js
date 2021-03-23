@@ -1,1 +1,1 @@
-var mnemonic = "paddle bless lift indicate gun fix task century birth deposit vacant jaguar";
+var mnemonic = "income afraid ramp air short solar caught burden supreme dutch among endorse";

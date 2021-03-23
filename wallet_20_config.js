@@ -1,1 +1,1 @@
-var mnemonic = "illegal spot fetch buzz zero planet supply observe wage save tobacco silent";
+var mnemonic = "case flavor inside main enforce rose resource rifle mango mass social peace";

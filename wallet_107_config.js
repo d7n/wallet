@@ -1,1 +1,1 @@
-var mnemonic = "eye sunny bottom spray cave reform universe fire physical include spell shop";
+var mnemonic = "industry screen bag audit find world solid cinnamon actual swarm bar unusual";

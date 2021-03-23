@@ -1,1 +1,1 @@
-var mnemonic = "dash tragic devote muffin setup notice acid awful edit foam ready figure";
+var mnemonic = "welcome sport mandate mail nice pause aspect level cherry lizard plug hero";

@@ -1,1 +1,1 @@
-var mnemonic = "entry zero anger bread gesture junior tuna athlete favorite rose demand case";
+var mnemonic = "small bounce must chicken stumble fly olive adult stand acid output wash";

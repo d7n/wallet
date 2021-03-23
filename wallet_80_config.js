@@ -1,1 +1,1 @@
-var mnemonic = "invite screen limit muscle arrest skull mandate chuckle that hire hole beach";
+var mnemonic = "enroll pond regret such dignity moral stove saddle endless february guilt salmon";
