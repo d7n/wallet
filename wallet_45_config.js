@@ -1,1 +1,1 @@
-var mnemonic = "sniff another grunt satisfy taxi envelope ritual next potato page airport salute";
+var mnemonic = "kidney foil extra input web guard small load track brand video method";

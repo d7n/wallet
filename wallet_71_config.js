@@ -1,1 +1,1 @@
-var mnemonic = "away book chair transfer hint flock ranch cable mushroom filter secret ability";
+var mnemonic = "normal arch talent prison action occur rich card flight excuse hungry electric";

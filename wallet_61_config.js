@@ -1,1 +1,1 @@
-var mnemonic = "draw curve slogan kingdom wood distance bike detect domain toast fine wrist";
+var mnemonic = "chair monitor surface fat skin clarify alarm better kite blur exist unit";

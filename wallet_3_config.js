@@ -1,1 +1,1 @@
-var mnemonic = "captain combine snack devote heavy rabbit pulp else error manual table popular";
+var mnemonic = "ahead okay rent desert smoke skirt sock sugar opera nature seek occur";

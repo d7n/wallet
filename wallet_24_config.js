@@ -1,1 +1,1 @@
-var mnemonic = "rely need retreat usage bundle win busy radio shiver crazy like exercise";
+var mnemonic = "height grape coach all give boil exile kick rice surface oxygen prevent";

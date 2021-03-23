@@ -1,1 +1,1 @@
-var mnemonic = "aim pigeon okay deny dirt pill phone lumber silly word rally library";
+var mnemonic = "door burden proud rib novel promote harsh loan series vocal index rural";

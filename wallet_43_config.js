@@ -1,1 +1,1 @@
-var mnemonic = "punch arm mad addict initial organ tornado table provide foster sun monster";
+var mnemonic = "guard saddle way soldier swim farm eager fever odor permit lesson coffee";

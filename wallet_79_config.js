@@ -1,1 +1,1 @@
-var mnemonic = "health need isolate evolve arrive cube fringe broken illness float bridge human";
+var mnemonic = "blur embrace trumpet kit bubble scale install holiday save fancy shoot suit";

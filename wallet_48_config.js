@@ -1,1 +1,1 @@
-var mnemonic = "chaos spawn citizen random double custom often neither tongue repeat stone shock";
+var mnemonic = "weapon problem toast zebra candy affair siren opera pill almost spoil parade";

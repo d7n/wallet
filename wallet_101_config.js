@@ -1,1 +1,1 @@
-var mnemonic = "embrace source innocent rabbit deputy orchard camp turn bid scheme thunder put";
+var mnemonic = "flip curious squeeze family awkward piano great write metal expect skin expire";

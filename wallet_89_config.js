@@ -1,1 +1,1 @@
-var mnemonic = "panda void sword pride seat stem maximum strategy acid hour into base";
+var mnemonic = "drift media moral oyster sword demise output current link reward job decide";

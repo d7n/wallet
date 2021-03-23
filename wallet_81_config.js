@@ -1,1 +1,1 @@
-var mnemonic = "cube doll test purchase honey same afraid canyon kiwi carbon wreck perfect";
+var mnemonic = "steak chair birth skate hurry erase crowd address embark race carpet sense";

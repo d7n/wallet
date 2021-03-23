@@ -1,1 +1,1 @@
-var mnemonic = "hurdle output jelly hip abandon inherit neutral outdoor badge afraid purse push";
+var mnemonic = "sausage funny kit that quick broccoli online divide banner either harsh fault";

@@ -1,1 +1,1 @@
-var mnemonic = "drink boy reject sun clerk clock crash hole bleak monkey juice range";
+var mnemonic = "dinosaur element elbow avoid blush recycle usage cake dial clarify aerobic bracket";

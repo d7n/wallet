@@ -1,1 +1,1 @@
-var mnemonic = "island buffalo siege current avocado grab soccer endless library reform acid nephew";
+var mnemonic = "response cliff ceiling jacket latin bring tide pact gorilla person horror predict";

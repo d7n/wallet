@@ -1,1 +1,1 @@
-var mnemonic = "spoil cupboard pelican picnic only glass journey powder wisdom soul forum album";
+var mnemonic = "seat exist spoil logic dog hobby math attract below goose frozen core";

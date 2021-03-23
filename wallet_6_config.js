@@ -1,1 +1,1 @@
-var mnemonic = "south depend market bunker thought admit snow rule prefer okay crater indicate";
+var mnemonic = "concert busy harvest reopen silly steel prevent special dry neglect aunt pride";

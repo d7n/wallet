@@ -1,1 +1,1 @@
-var mnemonic = "cannon salt almost scatter rapid tape frozen brother fox control online lemon";
+var mnemonic = "bar dove urban mobile donor useless swing require material motion creek dignity";

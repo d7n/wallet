@@ -1,1 +1,1 @@
-var mnemonic = "faculty tide fortune robust ball decade cloth victory banner govern truly oyster";
+var mnemonic = "history economy among style mimic label inside midnight carry bracket clip famous";

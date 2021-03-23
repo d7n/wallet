@@ -1,1 +1,1 @@
-var mnemonic = "tribe item goddess high marble start borrow brand theory pulp gown fit";
+var mnemonic = "accuse powder board method team math code grass gossip either hand uphold";

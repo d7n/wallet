@@ -1,1 +1,1 @@
-var mnemonic = "hello chat infant crane liar globe opera acid toy slush uphold draft";
+var mnemonic = "maple book common tragic okay when olive sound before vocal post extend";

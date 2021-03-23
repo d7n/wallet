@@ -1,1 +1,1 @@
-var mnemonic = "easily object hungry trap purse clarify catalog slogan wash tone garden clay";
+var mnemonic = "mansion gun hamster supreme cheese gather swift trust south view wine busy";

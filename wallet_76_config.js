@@ -1,1 +1,1 @@
-var mnemonic = "tattoo parade episode there net match ship obscure shoe ghost margin acquire";
+var mnemonic = "anxiety scissors flight spider floor also kiss cause submit farm praise total";

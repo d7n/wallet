@@ -1,1 +1,1 @@
-var mnemonic = "subway swarm pet gasp grain face eye mixture basic finger apology raw";
+var mnemonic = "clutch measure birth person truck job allow shaft taxi need average donor";

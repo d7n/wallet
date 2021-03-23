@@ -1,1 +1,1 @@
-var mnemonic = "spirit stool noble version fiscal grit assist divorce genre sweet reform panic";
+var mnemonic = "seminar invest gate among cactus orphan donor primary syrup neutral topple fix";

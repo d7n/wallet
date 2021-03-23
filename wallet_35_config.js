@@ -1,1 +1,1 @@
-var mnemonic = "girl abandon transfer intact melt gain romance south imitate travel dwarf cannon";
+var mnemonic = "reason mention nephew bless ritual despair busy simple state humble company ankle";

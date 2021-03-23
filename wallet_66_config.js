@@ -1,1 +1,1 @@
-var mnemonic = "clock potato thank expire kidney maze nephew trick truly vault vacant false";
+var mnemonic = "orange setup enjoy polar course subway rich rifle submit impose foster reform";

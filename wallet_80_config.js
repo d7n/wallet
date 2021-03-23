@@ -1,1 +1,1 @@
-var mnemonic = "small clip finish stomach original idea index gauge rude helmet because stove";
+var mnemonic = "crunch insect tomato hip betray child detail frost elegant educate cycle thrive";

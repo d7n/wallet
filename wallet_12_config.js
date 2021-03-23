@@ -1,1 +1,1 @@
-var mnemonic = "identify pond develop buzz raven armed marble original few long diagram trash";
+var mnemonic = "auto angry walk hour crew dutch later pen volcano album web turkey";

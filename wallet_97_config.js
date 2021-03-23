@@ -1,1 +1,1 @@
-var mnemonic = "must normal battle odor indicate leaf supply fog couple give army riot";
+var mnemonic = "develop parent soft expire forum there minute slide tunnel hard notable science";

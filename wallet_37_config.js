@@ -1,1 +1,1 @@
-var mnemonic = "enlist flower virtual cup equip patch midnight problem jar dream era auction";
+var mnemonic = "cheese border foot clock glad hurt spell rug vital unable conduct buffalo";

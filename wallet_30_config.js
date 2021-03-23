@@ -1,1 +1,1 @@
-var mnemonic = "enlist cabbage become fun sunny trip climb town drop legend ankle burst";
+var mnemonic = "keep casino idea frequent basic unit subject narrow birth common cruel radar";

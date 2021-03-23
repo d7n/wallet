@@ -1,1 +1,1 @@
-var mnemonic = "chapter nut system disagree cannon heavy wink cable wool stairs message fatal";
+var mnemonic = "iron eternal sense cash broccoli amount enlist link gate speak rent swift";

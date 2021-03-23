@@ -1,1 +1,1 @@
-var mnemonic = "runway crowd bitter music mobile exclude deputy shuffle ill heart gap arm";
+var mnemonic = "people slide fruit where curve way emotion tackle possible pretty advice fantasy";

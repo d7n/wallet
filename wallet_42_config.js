@@ -1,1 +1,1 @@
-var mnemonic = "harvest hollow task owner happy distance orphan rifle payment weasel bonus public";
+var mnemonic = "exchange pond nature idle demand display analyst surprise garage ability lobster release";

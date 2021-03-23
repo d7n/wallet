@@ -1,1 +1,1 @@
-var mnemonic = "concert primary sure parent elbow super noodle special shaft caution jump foam";
+var mnemonic = "program pudding demand castle quick desert trash equip word another inside dove";

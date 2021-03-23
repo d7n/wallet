@@ -1,1 +1,1 @@
-var mnemonic = "burger kidney vapor program popular trick tuna riot borrow nature buddy horror";
+var mnemonic = "pulp valley sheriff choice mystery glance hidden bubble sock record wagon badge";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster cup solve shoe good stand blossom wash wrist save equip carbon";
+var mnemonic = "razor mistake dilemma during kite sure cry awesome stomach mask certain salt";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble bike wink inside visa retreat space sign marble shoot arctic expand";
+var mnemonic = "speak insect knife immense target piano isolate logic vintage clarify few dad";

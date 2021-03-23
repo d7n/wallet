@@ -1,1 +1,1 @@
-var mnemonic = "shield bus blossom print innocent indicate trick expose august daughter mobile solar";
+var mnemonic = "taste swarm fold sound axis illness soup perfect slim oak walk february";

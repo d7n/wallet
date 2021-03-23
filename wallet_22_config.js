@@ -1,1 +1,1 @@
-var mnemonic = "year flip risk scissors pudding food select dial initial sphere decline boss";
+var mnemonic = "mention bridge flee tiny dish final decline harvest bicycle stairs try lab";

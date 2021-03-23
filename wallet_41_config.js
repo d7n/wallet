@@ -1,1 +1,1 @@
-var mnemonic = "exchange radio search step taste improve parrot slot extend guilt shop vibrant";
+var mnemonic = "thumb razor resemble become picnic danger omit control earn father vital bitter";

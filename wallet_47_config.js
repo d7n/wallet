@@ -1,1 +1,1 @@
-var mnemonic = "cruise company office laptop cradle expand obey raccoon call outdoor fabric buyer";
+var mnemonic = "dilemma rude surround page insane evil wife book educate elbow rebuild eight";

@@ -1,1 +1,1 @@
-var mnemonic = "spare glove utility climb plunge canyon risk absent razor mesh shaft casino";
+var mnemonic = "say car boost around resist object quantum usage festival update buzz treat";

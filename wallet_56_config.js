@@ -1,1 +1,1 @@
-var mnemonic = "labor inhale polar educate brush body head patrol just about rent body";
+var mnemonic = "runway mansion whale loan person hover cigar wish entry year crane erode";

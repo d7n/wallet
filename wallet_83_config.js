@@ -1,1 +1,1 @@
-var mnemonic = "insane remain client truck always ridge piano coconut illegal six kite road";
+var mnemonic = "welcome dinner jump float crater raccoon captain fortune evoke tone glory pulse";

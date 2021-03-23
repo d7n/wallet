@@ -1,1 +1,1 @@
-var mnemonic = "ordinary jeans rail taxi waste inch rare wing pumpkin save unit tennis";
+var mnemonic = "toilet sand possible hood engine destroy unfair among energy anchor swamp human";

@@ -1,1 +1,1 @@
-var mnemonic = "tail session ill news female crane cricket kid error sadness replace leisure";
+var mnemonic = "duck oppose season post wrong culture dizzy differ wash earth uncle rule";

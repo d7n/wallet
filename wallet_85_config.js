@@ -1,1 +1,1 @@
-var mnemonic = "relief crack south arrive lottery sound patch clay cannon frog mechanic town";
+var mnemonic = "result vendor slush broccoli session work make thank foster fine carry flat";

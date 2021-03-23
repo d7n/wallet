@@ -1,1 +1,1 @@
-var mnemonic = "furnace artwork coin tackle worry swing yellow trade hip animal layer text";
+var mnemonic = "spread age chase man push lesson habit hip forget village artwork sleep";

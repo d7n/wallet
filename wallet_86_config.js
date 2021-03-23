@@ -1,1 +1,1 @@
-var mnemonic = "half clip eye actor mass inspire glide witness broccoli hospital cradle zero";
+var mnemonic = "scare eager elbow fence awake deputy mention pond rough cash avoid combine";

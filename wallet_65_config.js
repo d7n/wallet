@@ -1,1 +1,1 @@
-var mnemonic = "very blood paddle you biology always velvet horror income cinnamon opinion quiz";
+var mnemonic = "rebuild glass liquid country sure hobby ask person repeat diamond tuition dress";

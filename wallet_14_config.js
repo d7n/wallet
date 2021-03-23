@@ -1,1 +1,1 @@
-var mnemonic = "inside million saddle galaxy area ski quarter chief absorb unfair differ matter";
+var mnemonic = "armor illegal action echo carbon spoil afford hand eagle wash range patrol";

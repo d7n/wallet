@@ -1,1 +1,1 @@
-var mnemonic = "injury much autumn camera actress light grab rate tray shop deposit fetch";
+var mnemonic = "document buddy arctic flight avocado number raw absurd alarm fruit forest assume";

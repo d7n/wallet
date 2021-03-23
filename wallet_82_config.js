@@ -1,1 +1,1 @@
-var mnemonic = "venue mushroom hair cargo flavor sketch peanut fiction disagree image myself broken";
+var mnemonic = "ignore various atom million stairs fee awkward eye unhappy buddy wet note";

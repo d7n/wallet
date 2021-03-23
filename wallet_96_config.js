@@ -1,1 +1,1 @@
-var mnemonic = "double ridge ethics advance breeze version virus chunk defy tourist patrol nice";
+var mnemonic = "make census crumble remove search crop illegal autumn service nominee ready unknown";

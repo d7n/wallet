@@ -1,1 +1,1 @@
-var mnemonic = "wrestle clerk assault chase rubber journey delay voyage drill gesture age glad";
+var mnemonic = "ice beach tail brief grass clinic monkey truck scatter ripple true tunnel";

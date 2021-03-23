@@ -1,1 +1,1 @@
-var mnemonic = "crime answer tired charge resist desert tuna defense verb success edge around";
+var mnemonic = "cream idle vehicle dignity fish green hero verb belt supreme boss hope";

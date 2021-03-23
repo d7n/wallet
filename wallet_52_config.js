@@ -1,1 +1,1 @@
-var mnemonic = "benefit conduct amount shrimp before group sea move shy false metal fatal";
+var mnemonic = "perfect notice pear shy ethics find motion receive allow mirror iron rescue";

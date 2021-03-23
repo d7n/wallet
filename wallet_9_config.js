@@ -1,1 +1,1 @@
-var mnemonic = "tiny monkey bottom squeeze horn depart art ribbon develop night relax opera";
+var mnemonic = "have cart erode rug atom boost pistol post pact blouse speak unusual";

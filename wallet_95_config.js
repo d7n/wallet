@@ -1,1 +1,1 @@
-var mnemonic = "dentist matter snake uphold stone shaft stuff sunny orange faith build juice";
+var mnemonic = "mixed forest manual inquiry glance witness gas convince electric frame insane become";

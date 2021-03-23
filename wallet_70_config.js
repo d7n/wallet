@@ -1,1 +1,1 @@
-var mnemonic = "resist burst document pride push symbol desk fence attack open rabbit nation";
+var mnemonic = "pupil chronic weird adjust purse ugly direct puppy vehicle level expect tennis";

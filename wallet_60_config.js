@@ -1,1 +1,1 @@
-var mnemonic = "creek lemon rigid proud language where rail grit comic finish rough car";
+var mnemonic = "stereo blossom express confirm comfort cook hundred erase doll rough topple job";

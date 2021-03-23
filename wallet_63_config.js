@@ -1,1 +1,1 @@
-var mnemonic = "letter toddler flush news slam pen pluck doctor chuckle middle obtain season";
+var mnemonic = "over broccoli monkey cave replace flat grunt dolphin kiwi sell interest raven";

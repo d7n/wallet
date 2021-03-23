@@ -1,1 +1,1 @@
-var mnemonic = "soccer icon opinion income vault invest unaware hunt choice only grant joke";
+var mnemonic = "rose story say skirt collect upgrade adapt account regular flat resist primary";

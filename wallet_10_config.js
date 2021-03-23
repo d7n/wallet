@@ -1,1 +1,1 @@
-var mnemonic = "surge ankle salmon prefer card squeeze pact reunion pill patch item cruel";
+var mnemonic = "deliver lecture slush twin taste knock jacket laugh imitate undo skin rule";

@@ -1,1 +1,1 @@
-var mnemonic = "absent net attend addict sense evidence quiz rescue idea kingdom weekend blind";
+var mnemonic = "educate twelve mimic endless surface undo nothing ugly volume whale owner tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "cost upgrade combine acid tomato settle simple bridge entry first reopen tone";
+var mnemonic = "cancel silly senior river picture final alter fall lemon source ready visit";

@@ -1,1 +1,1 @@
-var mnemonic = "plug diesel stomach congress act mammal video clog circle rely voyage friend";
+var mnemonic = "soap upper spirit recipe file south misery cattle empower animal web wall";

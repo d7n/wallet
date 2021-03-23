@@ -1,1 +1,1 @@
-var mnemonic = "nice pole begin entry penalty harvest position few flag sudden pet merge";
+var mnemonic = "wolf unhappy cricket fence debris spring radio coin evoke able lunch raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "cave skin route shiver brick panda donkey anchor fabric card quarter heart";
+var mnemonic = "proof prevent invest close blind electric emerge worry purse glance end session";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest toe travel blush patrol stone next remove group toddler tongue net";
+var mnemonic = "worry siege punch satisfy hurt type marble rude crystal rug need risk";

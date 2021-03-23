@@ -1,1 +1,1 @@
-var mnemonic = "daughter dizzy bottom toddler cause insect shove tray volcano path barely endless";
+var mnemonic = "warfare debate foot stone crush fashion certain swap ride bronze kingdom anger";

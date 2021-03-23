@@ -1,1 +1,1 @@
-var mnemonic = "link sun arrest disagree cloud device network model dinner jungle image anger";
+var mnemonic = "until flower assault amount soul hope improve share tribe bitter fresh hip";

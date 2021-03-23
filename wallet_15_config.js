@@ -1,1 +1,1 @@
-var mnemonic = "throw sell news detect rain option cycle swing soup near stem settle";
+var mnemonic = "unique emotion fruit behave setup slogan frost exit canoe tonight suit bundle";

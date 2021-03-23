@@ -1,1 +1,1 @@
-var mnemonic = "orchard canoe immense juice bicycle book cricket region liar spell forest inform";
+var mnemonic = "custom goat busy board suspect regret mutual west flush supreme shift enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "blue neutral gain sport outdoor outdoor boat rose update unique transfer become";
+var mnemonic = "curtain famous key advice legal survey lion tide sport slender keen push";

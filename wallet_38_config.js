@@ -1,1 +1,1 @@
-var mnemonic = "nice income crumble apology point humor curve crumble curtain bring employ segment";
+var mnemonic = "title creek shy dirt praise push sure movie car problem letter wealth";

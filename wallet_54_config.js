@@ -1,1 +1,1 @@
-var mnemonic = "coffee mesh lock elevator gas quantum pottery impose foster often permit extend";
+var mnemonic = "parrot effort cluster fitness relief movie pony airport pelican file resemble vault";

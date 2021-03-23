@@ -1,1 +1,1 @@
-var mnemonic = "fiscal rebel rough mouse nerve nice shaft hire convince expire expand digital";
+var mnemonic = "crush skin warrior glimpse banner word pulse wage aerobic dash carpet popular";

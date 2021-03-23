@@ -1,1 +1,1 @@
-var mnemonic = "phone unusual naive foot useless bird shove autumn where remain impose robot";
+var mnemonic = "trick panel unfair below razor bulb weekend cycle caught convince hunt identify";

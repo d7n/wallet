@@ -1,1 +1,1 @@
-var mnemonic = "hat derive wool siren until tortoise employ pudding noble copper frost hip";
+var mnemonic = "senior glass ten category august coin repeat patient elder cluster excess pond";

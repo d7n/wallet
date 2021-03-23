@@ -1,1 +1,1 @@
-var mnemonic = "describe wave blur lucky problem whip phrase barely estate ridge donor arena";
+var mnemonic = "average say alert apple canal chunk pride patch guide thought sunny fortune";

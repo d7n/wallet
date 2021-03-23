@@ -1,1 +1,1 @@
-var mnemonic = "protect bullet goose cost chalk today comfort fish deputy timber ramp scene";
+var mnemonic = "just castle salute orphan crash climb ethics clerk swing resist return excuse";

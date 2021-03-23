@@ -1,1 +1,1 @@
-var mnemonic = "inquiry buddy height special cheese ritual salon whip thrive injury onion enhance";
+var mnemonic = "arena forward audit else garden symbol awkward verify distance extra quote scale";

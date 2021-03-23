@@ -1,1 +1,1 @@
-var mnemonic = "trophy found bless scout goose mind melody desert horror harsh seat travel";
+var mnemonic = "dose flip upset finish wrap bracket cook ladder pupil home hurry party";

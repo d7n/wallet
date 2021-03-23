@@ -1,1 +1,1 @@
-var mnemonic = "rose anger credit hand beef eyebrow artwork axis urge cat wave sad";
+var mnemonic = "regular reveal divide arm express oyster vault finish talk heart net evoke";

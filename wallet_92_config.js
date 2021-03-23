@@ -1,1 +1,1 @@
-var mnemonic = "clean select cancel install silver today pyramid smile project adult toddler knock";
+var mnemonic = "various parrot chicken swap dynamic immense guilt write immune flame promote drip";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb tunnel other pioneer length blame casual path dog neutral slight arrive";
+var mnemonic = "charge afraid wear decline island rival eight income diamond robot spread proof";

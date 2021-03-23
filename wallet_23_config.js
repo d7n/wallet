@@ -1,1 +1,1 @@
-var mnemonic = "miracle make wife target wave talk museum target hover artwork early smoke";
+var mnemonic = "twenty cram jacket gallery expose unique ostrich hospital conduct monkey sunny lecture";

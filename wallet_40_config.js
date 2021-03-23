@@ -1,1 +1,1 @@
-var mnemonic = "afford wish palace kitchen sheriff into faculty dice deputy because hungry onion";
+var mnemonic = "earth physical example put crunch giraffe helmet oblige kick shrug recycle custom";

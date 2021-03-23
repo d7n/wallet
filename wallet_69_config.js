@@ -1,1 +1,1 @@
-var mnemonic = "useful sudden inquiry normal bargain expire interest dune chief salt balcony damage";
+var mnemonic = "intact index dawn strategy long over olive ticket crash clog gossip van";

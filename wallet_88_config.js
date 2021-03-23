@@ -1,1 +1,1 @@
-var mnemonic = "remove rack account service false also wise outdoor rally inner anchor reject";
+var mnemonic = "once eager coast nerve owner view ostrich regular water source drip burst";

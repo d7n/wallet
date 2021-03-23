@@ -1,1 +1,1 @@
-var mnemonic = "furnace urban obscure upgrade jeans company kingdom angry shrimp gown gospel observe";
+var mnemonic = "supply galaxy derive pluck galaxy crane effort lamp fit spirit year dust";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal pig sponsor dune brisk spatial uncle thing isolate apology true subject";
+var mnemonic = "stomach simple chef mind raven relief ill page world case rather enhance";

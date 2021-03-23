@@ -1,1 +1,1 @@
-var mnemonic = "loan holiday blanket script hammer essay clock express rely day wreck lady";
+var mnemonic = "jealous victory van question raw curious carbon normal chaos eyebrow carbon unlock";

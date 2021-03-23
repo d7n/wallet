@@ -1,1 +1,1 @@
-var mnemonic = "explain execute vivid about about tomorrow snow divert across gown evolve rent";
+var mnemonic = "nest casual lonely gorilla fury shed artist lyrics horn inflict novel short";

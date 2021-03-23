@@ -1,1 +1,1 @@
-var mnemonic = "sad alert drill please option palm tortoise myself fine regular shine curve";
+var mnemonic = "buffalo swamp right race soap become salad idle change worry season useless";
