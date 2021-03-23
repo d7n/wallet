@@ -1,1 +1,1 @@
-var mnemonic = "resource direct coach young atom fat second oblige lava color kite capital";
+var mnemonic = "that text piece hospital style year burst increase assault service enroll crumble";

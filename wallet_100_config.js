@@ -1,1 +1,1 @@
-var mnemonic = "detail label silk nuclear evolve elephant iron swift safe inside company crew";
+var mnemonic = "forest usual glance sunny imitate trick social brave wet figure couch hover";

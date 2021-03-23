@@ -1,1 +1,1 @@
-var mnemonic = "laugh unlock funny energy pencil diet surprise ugly click weasel acoustic cement";
+var mnemonic = "lyrics escape common inquiry post lava example inspire shoot toe awkward access";

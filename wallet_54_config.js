@@ -1,1 +1,1 @@
-var mnemonic = "ribbon route embrace cream lion jazz spoon chaos own attend inmate great";
+var mnemonic = "hair blade feed lazy cool label struggle velvet cube snow shoe insect";

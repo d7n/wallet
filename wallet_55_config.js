@@ -1,1 +1,1 @@
-var mnemonic = "acid symbol tree ticket repair marble number pulse spot wheat upon fame";
+var mnemonic = "lonely visual shadow gold refuse devote door monitor inherit hope deposit drum";

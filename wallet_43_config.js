@@ -1,1 +1,1 @@
-var mnemonic = "brick face blind small dentist used group real agent left home explain";
+var mnemonic = "memory base devote profit slam chat badge eagle subway bulk push spend";

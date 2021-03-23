@@ -1,1 +1,1 @@
-var mnemonic = "fresh gospel stay near enrich dry crystal kit convince midnight series silk";
+var mnemonic = "figure finish velvet purpose human casual cluster zero pool uncle tell curve";

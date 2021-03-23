@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow own lake snow episode office valley virtual course donkey stumble machine";
+var mnemonic = "sweet poem tube kid dynamic popular kitten provide voice major token friend";

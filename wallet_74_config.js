@@ -1,1 +1,1 @@
-var mnemonic = "tone couch room vital swim audit obtain usual other juice atom vessel";
+var mnemonic = "raise novel front faculty melody enemy worry easy tip chronic zebra company";

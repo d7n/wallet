@@ -1,1 +1,1 @@
-var mnemonic = "explain math age hurry now distance outer cherry climb lab wave humble";
+var mnemonic = "spring witness sleep pudding patch dream riot find enlist fish envelope awesome";

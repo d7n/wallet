@@ -1,1 +1,1 @@
-var mnemonic = "immense firm walnut thumb invest twelve once section loud swarm honey kangaroo";
+var mnemonic = "winter fresh shoot bleak blue exact afraid speed absurd govern cup people";

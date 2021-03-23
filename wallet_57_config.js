@@ -1,1 +1,1 @@
-var mnemonic = "sentence exile melt salon goddess pistol session urge grid purse remain amateur";
+var mnemonic = "cattle path timber cactus rhythm avocado almost more sing mesh vehicle silver";

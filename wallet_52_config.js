@@ -1,1 +1,1 @@
-var mnemonic = "latin mammal paper talk seek fee burst blade town swallow metal oppose";
+var mnemonic = "young cactus where flavor rally salt advance favorite letter speak grief page";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse fold surface donate artwork pistol enhance slice burden enroll ability fog";
+var mnemonic = "method joke put essence sadness toss middle sudden whale unveil tower coast";

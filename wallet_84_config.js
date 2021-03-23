@@ -1,1 +1,1 @@
-var mnemonic = "voyage copper spoon price prize almost actress crop april bird smile surface";
+var mnemonic = "script setup tornado fashion bomb imitate student buddy fix patrol own advance";

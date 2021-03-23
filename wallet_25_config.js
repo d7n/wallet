@@ -1,1 +1,1 @@
-var mnemonic = "amateur under talk more maple broom wage earth void blind chicken north";
+var mnemonic = "involve wait large course disagree gift agent stairs believe laundry enter august";

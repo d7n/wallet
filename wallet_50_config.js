@@ -1,1 +1,1 @@
-var mnemonic = "antenna item rigid work delay name debate flame bullet major island tonight";
+var mnemonic = "awkward scan segment open pupil milk wear rocket excuse main leg hat";

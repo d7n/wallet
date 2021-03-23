@@ -1,1 +1,1 @@
-var mnemonic = "honey fade fork protect plate eternal oppose fatal fox danger miracle rack";
+var mnemonic = "fruit open nuclear enable party script alert primary else enough kangaroo submit";

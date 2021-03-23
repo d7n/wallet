@@ -1,1 +1,1 @@
-var mnemonic = "bargain weather join cancel pyramid girl foot exercise electric normal glare net";
+var mnemonic = "base sleep jaguar tonight analyst tank lock wonder result cloud recycle solve";

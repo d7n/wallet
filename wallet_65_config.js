@@ -1,1 +1,1 @@
-var mnemonic = "math gap inform recall hole present mushroom decrease come rice notice slush";
+var mnemonic = "coast work gap ivory code knee gain peanut ice science sister spell";

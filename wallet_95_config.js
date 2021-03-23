@@ -1,1 +1,1 @@
-var mnemonic = "step fresh pear champion unhappy canoe give universe zebra cake oppose math";
+var mnemonic = "scorpion seed flat pond wage ridge time nature warfare since give gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "talk bomb engage upset athlete exhaust joke view excite swallow tank hospital";
+var mnemonic = "tumble bleak elite bonus cradle famous double delay spring shine left woman";

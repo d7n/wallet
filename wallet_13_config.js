@@ -1,1 +1,1 @@
-var mnemonic = "group violin blanket very wet praise like allow rural juice twelve suit";
+var mnemonic = "lyrics virtual concert great girl balance butter panda auction kite company galaxy";

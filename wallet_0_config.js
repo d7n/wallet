@@ -1,1 +1,1 @@
-var mnemonic = "real biology door kingdom duck repair frozen okay damp usage nature upset";
+var mnemonic = "benefit spatial main column leopard silent riot surprise baby island live profit";

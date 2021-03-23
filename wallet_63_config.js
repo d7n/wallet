@@ -1,1 +1,1 @@
-var mnemonic = "top home champion void abandon section energy garment drip grid flight theme";
+var mnemonic = "typical goat trip actress bonus denial jelly element eight file loop tomorrow";

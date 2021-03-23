@@ -1,1 +1,1 @@
-var mnemonic = "combine they biology leopard grab eternal then exotic mushroom rude bike tortoise";
+var mnemonic = "glide gorilla dragon gas resist know sudden power doctor clump ski giggle";

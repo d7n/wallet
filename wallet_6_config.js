@@ -1,1 +1,1 @@
-var mnemonic = "sort combine dumb deputy wife rib state library relax debris benefit speak";
+var mnemonic = "apple clean employ camera parade expose gasp lamp because whip large crisp";

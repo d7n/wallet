@@ -1,1 +1,1 @@
-var mnemonic = "skirt float sound spell output close hurdle climb unable achieve mosquito course";
+var mnemonic = "universe summer cool lion inside first south auction fantasy turn vacant cool";

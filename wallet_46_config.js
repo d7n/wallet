@@ -1,1 +1,1 @@
-var mnemonic = "unveil enlist hungry manage hedgehog bulb element immune miss dad way person";
+var mnemonic = "satoshi online kitten slow much shove mesh update problem fee salmon hour";

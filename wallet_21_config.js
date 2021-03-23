@@ -1,1 +1,1 @@
-var mnemonic = "siren motion fragile nature thing east warfare legal catalog aerobic blush either";
+var mnemonic = "machine autumn injury jelly axis easy kick tomato merry crumble source initial";

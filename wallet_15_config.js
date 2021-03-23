@@ -1,1 +1,1 @@
-var mnemonic = "whip estate similar faint wolf garment twin goat illness speed more effort";
+var mnemonic = "helmet review embark dignity expand debris perfect coil medal absent soul truly";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree visit purity sport library puzzle monitor private tenant bind endless wreck";
+var mnemonic = "eight host spice noble today approve fix attitude spawn raven scrap tired";

@@ -1,1 +1,1 @@
-var mnemonic = "play swing come lazy security sweet evoke quick door budget damp square";
+var mnemonic = "decrease doll tilt shadow buddy wrap lizard glance intact link vapor gauge";

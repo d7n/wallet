@@ -1,1 +1,1 @@
-var mnemonic = "tobacco fortune core ridge foot lend genuine initial auto notable upper couch";
+var mnemonic = "pizza pumpkin play art celery paddle company vanish tail pride frequent void";

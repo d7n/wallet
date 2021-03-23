@@ -1,1 +1,1 @@
-var mnemonic = "private light soldier perfect judge staff program emotion noodle own good gloom";
+var mnemonic = "ticket day great debate bulk lobster behave swap visa pill lonely notice";

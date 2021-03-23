@@ -1,1 +1,1 @@
-var mnemonic = "used payment used walk tube axis guard wreck waste dance acid usual";
+var mnemonic = "powder lab spy wisdom auto service network oppose acid bachelor wagon tank";

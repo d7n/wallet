@@ -1,1 +1,1 @@
-var mnemonic = "use sword sausage panic country buyer ice pen size curious pistol cake";
+var mnemonic = "mean flat valley patch puzzle police excess post weather episode timber tag";

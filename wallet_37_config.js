@@ -1,1 +1,1 @@
-var mnemonic = "penalty april prepare night rent observe brain morning panel snap primary derive";
+var mnemonic = "million fork tag tip level ship strong wet stadium limit trade oblige";

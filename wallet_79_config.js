@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit together world arrange arrange palace chronic arena sign barrel often eager";
+var mnemonic = "tackle raw vicious estate salad stairs minor sleep mystery talk today gun";

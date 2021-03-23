@@ -1,1 +1,1 @@
-var mnemonic = "lady stick soda ball sunny slender dance busy retire speak road puzzle";
+var mnemonic = "payment patient water evil eagle kid come bless plate must ridge gloom";

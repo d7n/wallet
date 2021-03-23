@@ -1,1 +1,1 @@
-var mnemonic = "december scale foam bounce fiscal attitude settle aspect fly secret tell border";
+var mnemonic = "zebra that pattern result wrist gown disagree connect cry capital endorse relief";

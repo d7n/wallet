@@ -1,1 +1,1 @@
-var mnemonic = "increase put omit cave dynamic science else scrap surge sad modify cherry";
+var mnemonic = "describe inmate tissue immune drama actor match chase much danger hazard stomach";

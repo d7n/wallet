@@ -1,1 +1,1 @@
-var mnemonic = "uncle festival wagon neither pause under avoid insane mind era fatigue estate";
+var mnemonic = "chest grit client dream glove blouse diamond sauce match funny uphold face";

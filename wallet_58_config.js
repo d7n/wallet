@@ -1,1 +1,1 @@
-var mnemonic = "hire shiver they bullet bitter clerk road blame raven crash scrub vote";
+var mnemonic = "believe either know cup avoid local foil once corn veteran flock actress";

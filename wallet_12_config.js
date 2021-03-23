@@ -1,1 +1,1 @@
-var mnemonic = "minor palm liar notice shoot shoulder good stay grace stable insane forest";
+var mnemonic = "come thought trust alcohol razor unaware any claim grit seat shop credit";

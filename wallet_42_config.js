@@ -1,1 +1,1 @@
-var mnemonic = "enough dream wheel embody silk review crush meadow turkey creek crop blade";
+var mnemonic = "nurse eye obscure auto craft erupt exercise tray soda artist tortoise script";

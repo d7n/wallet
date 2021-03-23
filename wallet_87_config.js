@@ -1,1 +1,1 @@
-var mnemonic = "milk borrow laugh gas travel lens bargain employ airport shed carry dinner";
+var mnemonic = "engine spirit image drift beyond upper august bomb category layer senior meadow";

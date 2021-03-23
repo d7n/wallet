@@ -1,1 +1,1 @@
-var mnemonic = "mass deer resist sniff loop party spike dismiss retreat era earn route";
+var mnemonic = "exile report focus warrior sweet acoustic lesson oyster feed vivid oblige owner";

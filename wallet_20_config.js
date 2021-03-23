@@ -1,1 +1,1 @@
-var mnemonic = "blouse glare swim teach choice warm inside champion peace inform lizard radar";
+var mnemonic = "nasty guitar until fox sell waste squeeze fault grit food travel catch";

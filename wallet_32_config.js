@@ -1,1 +1,1 @@
-var mnemonic = "gesture benefit trust surprise wheat urban evoke beach humor random swallow blind";
+var mnemonic = "affair expire hockey park submit brief outside repeat region solar flag define";

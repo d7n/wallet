@@ -1,1 +1,1 @@
-var mnemonic = "resemble pig surprise member sock border easy sudden bamboo obvious private glide";
+var mnemonic = "remind mercy vanish labor color bonus argue caution speed remove panic soon";

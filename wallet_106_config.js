@@ -1,1 +1,1 @@
-var mnemonic = "beach receive system stable upset cruise album forest useful prize suspect frown";
+var mnemonic = "trust fitness ribbon suspect expect cargo crew select beyond egg elite option";

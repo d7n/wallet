@@ -1,1 +1,1 @@
-var mnemonic = "clever fault elephant permit axis walnut course salad goose allow exile slab";
+var mnemonic = "mountain pigeon blade swing senior suffer first skate museum lumber essay develop";

@@ -1,1 +1,1 @@
-var mnemonic = "decide morning parrot wise duck fluid skill rail cloth evidence frozen birth";
+var mnemonic = "potato best kangaroo donor task crazy adult own meat inherit velvet amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "best stadium submit misery doctor smooth govern rhythm cat need loop river";
+var mnemonic = "enroll then aware nuclear joy twelve old accuse web ridge prize blanket";

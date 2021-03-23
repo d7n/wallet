@@ -1,1 +1,1 @@
-var mnemonic = "social enter protect fit design version brick enlist soon floor empty soft";
+var mnemonic = "feature able faint cigar patient monster umbrella cigar rifle sport talent access";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty glance weird ball tide type baby tuna kiwi crunch news view";
+var mnemonic = "mushroom piano clever brave retire predict quiz boss obtain bulk vehicle pull";

@@ -1,1 +1,1 @@
-var mnemonic = "normal sheriff cluster vivid evil error round universe scheme soap beyond animal";
+var mnemonic = "law robot knife forum burden bacon future sick embrace enough eye seed";

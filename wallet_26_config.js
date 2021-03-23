@@ -1,1 +1,1 @@
-var mnemonic = "table width music phrase rug twice abstract fatigue glass drum bonus wool";
+var mnemonic = "trouble flower planet time suspect tackle elder omit blame cry random fabric";

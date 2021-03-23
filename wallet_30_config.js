@@ -1,1 +1,1 @@
-var mnemonic = "surprise common audit cricket curve despair trash labor milk chapter check size";
+var mnemonic = "tiger chunk squirrel ugly target mass mobile ice keen silver deer fluid";

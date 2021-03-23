@@ -1,1 +1,1 @@
-var mnemonic = "burst gossip roof actual permit diesel glad merry hint author midnight august";
+var mnemonic = "evoke exhaust great like mask page metal elbow depth electric ticket knock";

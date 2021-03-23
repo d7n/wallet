@@ -1,1 +1,1 @@
-var mnemonic = "nose grunt rigid brisk begin wolf song able holiday fiscal frog silent";
+var mnemonic = "myself chicken can gown wreck fault wasp found rocket able spatial gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "horn grace fly target real vanish transfer between donate usual friend bamboo";
+var mnemonic = "cook grow chief worry alcohol capital kind harvest approve assault tail lock";

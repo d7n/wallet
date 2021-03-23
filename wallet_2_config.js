@@ -1,1 +1,1 @@
-var mnemonic = "sight lyrics tide suspect expect wheel erode pelican avoid hurdle bridge angle";
+var mnemonic = "eyebrow imitate save stand sting worry dragon trap uncle match air hold";

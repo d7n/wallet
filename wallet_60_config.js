@@ -1,1 +1,1 @@
-var mnemonic = "supreme domain wing purchase then bargain where sad enable planet plastic critic";
+var mnemonic = "control friend motor travel nest gentle cement file spot frown defy because";

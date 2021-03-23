@@ -1,1 +1,1 @@
-var mnemonic = "echo amazing inflict false appear east fatigue bind license chef oven spread";
+var mnemonic = "primary winner museum response clog ticket hobby apple inflict example cruel keep";

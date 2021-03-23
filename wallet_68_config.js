@@ -1,1 +1,1 @@
-var mnemonic = "wing mango viable attack grid tone stool wing enroll walk green suggest";
+var mnemonic = "negative possible catalog someone cabin demise just metal lava palm walk cereal";

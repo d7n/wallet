@@ -1,1 +1,1 @@
-var mnemonic = "goat silly hawk what soap hope kid comfort risk equal purchase grocery";
+var mnemonic = "furnace dial attend wait rare bicycle illness shoot inspire ribbon lava special";

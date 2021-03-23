@@ -1,1 +1,1 @@
-var mnemonic = "print target safe sun pipe guard spread leopard pulp digital elite slush";
+var mnemonic = "force truck fly address stable build behind robust february enter salmon first";

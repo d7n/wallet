@@ -1,1 +1,1 @@
-var mnemonic = "state clinic thank message rare immense gun rude pupil sunny jump mail";
+var mnemonic = "come assault viable aisle hood fine pilot vault silk also enable decline";

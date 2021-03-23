@@ -1,1 +1,1 @@
-var mnemonic = "brain ability lounge shine armed dilemma simple marriage blame shaft offer can";
+var mnemonic = "palace where castle afford expand ability jaguar iron soft purchase funny eternal";

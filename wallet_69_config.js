@@ -1,1 +1,1 @@
-var mnemonic = "segment happy arch law gift tribe popular slim left juice jacket pottery";
+var mnemonic = "enlist orphan license farm shy asset light loud fade initial armed critic";

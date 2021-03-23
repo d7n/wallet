@@ -1,1 +1,1 @@
-var mnemonic = "angry concert favorite blame page paddle wire cotton wife also vote solar";
+var mnemonic = "estate throw proof fog author acquire cushion jelly garlic perfect cinnamon assault";

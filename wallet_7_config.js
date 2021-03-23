@@ -1,1 +1,1 @@
-var mnemonic = "execute west elegant child version awesome toast cause drip marriage solar grow";
+var mnemonic = "half vivid forest clinic bronze raven decade cinnamon pig member cinnamon skate";

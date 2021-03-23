@@ -1,1 +1,1 @@
-var mnemonic = "wisdom situate snap icon ride grape become soul unable relief analyst tornado";
+var mnemonic = "voyage scan theory become shaft outer dumb traffic eternal brief bind where";

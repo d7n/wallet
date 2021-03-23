@@ -1,1 +1,1 @@
-var mnemonic = "ensure fantasy record torch purchase summer renew pause under helmet misery latin";
+var mnemonic = "early achieve capital turkey series vivid main biology give mango happy oval";

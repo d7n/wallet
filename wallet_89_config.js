@@ -1,1 +1,1 @@
-var mnemonic = "debate green purpose alien toss opinion devote noise address raise observe orchard";
+var mnemonic = "ill tongue parent honey stomach amateur still device latin chalk bundle fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "join absorb foil casual praise old negative film volcano snap later asset";
+var mnemonic = "humor ancient amused wealth assume property will clay large vote differ velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest swing thumb remember because dad lion grape abuse glimpse chaos pelican";
+var mnemonic = "pill rigid open common woman element fish phone network artwork pear oppose";

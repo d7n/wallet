@@ -1,1 +1,1 @@
-var mnemonic = "knife worry shed useful spare symptom door drift inflict cloth prefer arrow";
+var mnemonic = "project green harvest castle asthma draft chef decrease office course size method";

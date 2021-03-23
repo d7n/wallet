@@ -1,1 +1,1 @@
-var mnemonic = "craft morning cause road airport extend amount else prevent merry poet deputy";
+var mnemonic = "arrive zoo reopen actual kind city light cave angry patrol carpet virtual";

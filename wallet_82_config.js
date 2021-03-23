@@ -1,1 +1,1 @@
-var mnemonic = "secret fruit valley across sort arrest humor sudden crane raven secret gossip";
+var mnemonic = "cruise horn wash business razor deer strong crack finish foot robust lava";

@@ -1,1 +1,1 @@
-var mnemonic = "pond group adjust carry actor labor puzzle icon tooth expose reopen figure";
+var mnemonic = "gaze rack mobile state lunch room left float curve bitter put job";
