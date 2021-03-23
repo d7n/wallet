@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur humor result slim balance pen young gauge legal uncover doll embody";
+var mnemonic = "state result mystery crime hover express ankle tank panther arctic dizzy amateur";

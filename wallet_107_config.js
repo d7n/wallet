@@ -1,1 +1,1 @@
-var mnemonic = "pond bamboo wing pave wave fat toast labor lamp siren fee apple";
+var mnemonic = "knock salon leaf rhythm bleak dentist survey shift foot morning inmate stem";

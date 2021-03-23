@@ -1,1 +1,1 @@
-var mnemonic = "joke flat marriage cross extend finish arrest laugh settle exit allow alcohol";
+var mnemonic = "rare fix cupboard stick fade suggest chair used okay subject ghost crumble";

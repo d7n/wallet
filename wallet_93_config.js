@@ -1,1 +1,1 @@
-var mnemonic = "point key library shrug sorry evoke initial rug portion diagram fee very";
+var mnemonic = "word wash bonus alarm crazy trouble scene jungle short salmon friend void";

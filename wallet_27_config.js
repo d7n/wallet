@@ -1,1 +1,1 @@
-var mnemonic = "zero rate notice identify unfold find budget sense live celery impulse sport";
+var mnemonic = "boring level rubber wedding gown canoe buddy lounge stuff melt absent awake";

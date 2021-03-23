@@ -1,1 +1,1 @@
-var mnemonic = "involve wait alarm slender heavy renew trigger orchard gain suggest cheese swift";
+var mnemonic = "manage fly athlete velvet climb physical imitate tennis hard local blur purse";

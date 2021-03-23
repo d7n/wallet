@@ -1,1 +1,1 @@
-var mnemonic = "boost lecture planet engage olympic grunt load evoke metal dash ride boy";
+var mnemonic = "track gorilla vendor trust repeat half view bid reform confirm grain forget";

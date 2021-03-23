@@ -1,1 +1,1 @@
-var mnemonic = "work current surge sport notice meat pizza high reform obvious family top";
+var mnemonic = "art uncle replace weather satisfy uncle angry property swear gate extend fluid";

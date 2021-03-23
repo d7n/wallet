@@ -1,1 +1,1 @@
-var mnemonic = "when rescue clap owner transfer improve morning code taste fiber enhance point";
+var mnemonic = "silent lazy lock sound wrestle common gain drip answer throw pumpkin photo";

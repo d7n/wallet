@@ -1,1 +1,1 @@
-var mnemonic = "pass coral mango mind act thank key fit toddler trial spoon funny";
+var mnemonic = "outside bulk hello always legal fiscal slice muffin road swim property day";

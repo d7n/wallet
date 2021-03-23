@@ -1,1 +1,1 @@
-var mnemonic = "huge trash doll human index refuse mask gap issue close dance magnet";
+var mnemonic = "crawl blur social come seminar casual taste power once custom useless oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "trap process field slush wool space violin income course odor inmate broom";
+var mnemonic = "noble action undo diagram torch pool shadow giant omit absent expect hobby";

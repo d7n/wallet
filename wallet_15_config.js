@@ -1,1 +1,1 @@
-var mnemonic = "motor ketchup gasp gym key purchase trip crumble expand appear elder control";
+var mnemonic = "message suffer code dentist impulse sick there reunion thrive various among destroy";

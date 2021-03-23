@@ -1,1 +1,1 @@
-var mnemonic = "dismiss dumb wool chapter strike bone lens rather cabbage tooth thunder second";
+var mnemonic = "wear above offer learn stadium park volcano baby online symbol someone shove";

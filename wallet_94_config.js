@@ -1,1 +1,1 @@
-var mnemonic = "target smoke afraid alcohol top collect portion mention rude reason tattoo legend";
+var mnemonic = "debate pumpkin hood omit wreck divert deal fee squeeze punch protect pill";

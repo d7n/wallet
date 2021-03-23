@@ -1,1 +1,1 @@
-var mnemonic = "common team among trust reunion carpet entry toward regret coyote child diary";
+var mnemonic = "degree hand funny problem vote renew clown advance tomorrow achieve excess sport";

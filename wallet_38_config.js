@@ -1,1 +1,1 @@
-var mnemonic = "switch tuna enough void rabbit trust speak eagle shine disagree call cannon";
+var mnemonic = "bomb loud zone false shift speed casual replace basket canoe equal right";

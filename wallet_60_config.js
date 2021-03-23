@@ -1,1 +1,1 @@
-var mnemonic = "board space noise abandon abandon travel frame screen hope cash milk glare";
+var mnemonic = "submit prevent firm open story tenant sock silent open carpet soap erode";

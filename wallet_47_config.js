@@ -1,1 +1,1 @@
-var mnemonic = "between pet screen target arrive avocado wood trophy polar salt arm rely";
+var mnemonic = "quality aware panel hunt cook coin review accident shed gesture demise ostrich";

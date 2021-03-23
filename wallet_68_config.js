@@ -1,1 +1,1 @@
-var mnemonic = "stumble solid topic door prosper arrange frame pulse twist machine sound typical";
+var mnemonic = "topple prize decline garage cover cram vintage note tiny situate share hip";

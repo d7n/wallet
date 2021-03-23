@@ -1,1 +1,1 @@
-var mnemonic = "off board raise rhythm small devote column wagon choose box desert ceiling";
+var mnemonic = "rule beyond faith physical page chicken resemble margin victory stove call bread";

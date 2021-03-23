@@ -1,1 +1,1 @@
-var mnemonic = "curious leopard infant turkey beach pact tired early gold sense useful soldier";
+var mnemonic = "update climb public diary pink guess black chef quote biology provide paper";

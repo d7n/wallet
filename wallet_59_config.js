@@ -1,1 +1,1 @@
-var mnemonic = "office carry auction erase business defy grunt base desert aspect path figure";
+var mnemonic = "vanish box author night arrow junk legal hub hobby scale sheriff spoon";

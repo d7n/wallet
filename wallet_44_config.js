@@ -1,1 +1,1 @@
-var mnemonic = "cousin scrub typical silly oblige lamp rail industry unfold short harbor dwarf";
+var mnemonic = "actress remind slab chunk tonight aunt super theory corn grain board screen";

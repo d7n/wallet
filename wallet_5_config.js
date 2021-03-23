@@ -1,1 +1,1 @@
-var mnemonic = "laundry surprise bicycle song refuse life repeat symptom inquiry bone frozen impact";
+var mnemonic = "chapter pumpkin junk wolf high confirm erupt duty smile fashion goose usage";

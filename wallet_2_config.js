@@ -1,1 +1,1 @@
-var mnemonic = "fold ticket visa style today pave rotate honey bag pipe hammer other";
+var mnemonic = "acquire quote actual vicious pool shuffle hero bunker cheap garment wagon grant";

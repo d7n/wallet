@@ -1,1 +1,1 @@
-var mnemonic = "trash fee wrist phrase crush spoil rebel portion federal please dress rally";
+var mnemonic = "sweet fox output seek tribe pupil snake cry divert leave void average";

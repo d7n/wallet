@@ -1,1 +1,1 @@
-var mnemonic = "uniform bounce figure provide possible identify panic error fall scheme sock cattle";
+var mnemonic = "fresh december board eight width ecology they soon van below scan buzz";

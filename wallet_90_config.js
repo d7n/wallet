@@ -1,1 +1,1 @@
-var mnemonic = "common thought bulk yard retreat tribe plug popular liquid scene upper zoo";
+var mnemonic = "flower sheriff point twin sadness weekend virus resource allow swarm pass surface";

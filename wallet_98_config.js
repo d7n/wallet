@@ -1,1 +1,1 @@
-var mnemonic = "exhibit people smoke tennis soccer soup stuff concert type boring elevator vacuum";
+var mnemonic = "tennis transfer photo always quiz choice swear before addict emotion senior resemble";

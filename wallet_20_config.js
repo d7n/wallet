@@ -1,1 +1,1 @@
-var mnemonic = "marble address deposit snake impact drink matter pizza tube attend verify jeans";
+var mnemonic = "until laptop cart fiscal stadium federal clay violin antique shuffle laugh couple";

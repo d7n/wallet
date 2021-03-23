@@ -1,1 +1,1 @@
-var mnemonic = "boost hawk shop fatigue trouble dumb agent bright chase million vehicle plate";
+var mnemonic = "six cream fox say spare swing excess harbor live science walk quarter";

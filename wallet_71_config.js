@@ -1,1 +1,1 @@
-var mnemonic = "scene trouble vicious trick genuine once false salon rent limit mask deliver";
+var mnemonic = "alcohol chronic judge friend lobster celery evoke maximum bulk window leader reward";

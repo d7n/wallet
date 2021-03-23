@@ -1,1 +1,1 @@
-var mnemonic = "twist vintage unfair success resemble power school silly install clutch forward repeat";
+var mnemonic = "evil liquid chef outer kite dress asset assume frost bench repeat boy";

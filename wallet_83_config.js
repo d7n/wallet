@@ -1,1 +1,1 @@
-var mnemonic = "write maple eye item monster buzz suit waste confirm foil forest rely";
+var mnemonic = "knife test style film cool young bread exit humor wish elephant have";

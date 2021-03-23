@@ -1,1 +1,1 @@
-var mnemonic = "mom arrest half size cricket cube captain east enroll spawn glance turn";
+var mnemonic = "ivory addict moon bar assault seminar silly talk radio truck armed practice";

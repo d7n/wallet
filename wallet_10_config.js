@@ -1,1 +1,1 @@
-var mnemonic = "dad cage swap home pony recipe swallow torch suspect mushroom wire health";
+var mnemonic = "vault differ pet modify reward bacon forget essay minor artwork middle million";

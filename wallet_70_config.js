@@ -1,1 +1,1 @@
-var mnemonic = "leader erase permit canvas oil quality other misery happy spend scrap fault";
+var mnemonic = "element nice stool drum thank answer budget inspire erode acquire claim donkey";

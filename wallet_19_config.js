@@ -1,1 +1,1 @@
-var mnemonic = "pistol lemon huge submit salad icon pool cactus maximum audit meat moon";
+var mnemonic = "honey audit spell enrich mix oppose turn gather pumpkin mushroom modify hero";

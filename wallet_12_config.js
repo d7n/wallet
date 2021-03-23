@@ -1,1 +1,1 @@
-var mnemonic = "trial very foot shove poem answer sunset cook scrub reform nest reform";
+var mnemonic = "tilt genre coconut ski deny elder coyote kidney craft way debate frame";

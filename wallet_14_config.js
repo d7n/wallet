@@ -1,1 +1,1 @@
-var mnemonic = "gesture property trap system bulb olive sick elephant cherry item sing melt";
+var mnemonic = "purity name upgrade quality conduct ketchup flee hunt board skin wise rocket";

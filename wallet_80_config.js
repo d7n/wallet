@@ -1,1 +1,1 @@
-var mnemonic = "art endorse quality shop brand live inch hurdle dawn miss among forget";
+var mnemonic = "ramp exile fever eager forest action obscure slush flush lake lawn before";

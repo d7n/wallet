@@ -1,1 +1,1 @@
-var mnemonic = "advice soul puppy grant release punch price rely magnet stem drastic exhaust";
+var mnemonic = "lumber armor clinic impact ribbon vote any chat great melody unaware unit";

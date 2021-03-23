@@ -1,1 +1,1 @@
-var mnemonic = "ski monkey tray also now beef blur prosper equal exist wash paddle";
+var mnemonic = "cross increase boring panther illegal pool core jacket loan accident course tank";

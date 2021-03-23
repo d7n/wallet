@@ -1,1 +1,1 @@
-var mnemonic = "amateur winter current dismiss ring toss reunion calm pretty update season beef";
+var mnemonic = "toss west later burden crazy pet clump there thought hockey uncle bullet";

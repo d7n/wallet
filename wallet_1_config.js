@@ -1,1 +1,1 @@
-var mnemonic = "jump junk present fee bottom anxiety afraid depart shoulder fix donkey flavor";
+var mnemonic = "inch bag name eager animal before under mad mountain helmet pyramid lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "grass empty grunt wisdom city romance dizzy file mask draw crop warfare";
+var mnemonic = "glass blame art cliff bleak usual base kangaroo south verb quality flock";

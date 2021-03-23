@@ -1,1 +1,1 @@
-var mnemonic = "mixture between mother grass intact evidence diesel place hello leisure song naive";
+var mnemonic = "trigger struggle tortoise fork steel high cereal search service city alcohol unhappy";

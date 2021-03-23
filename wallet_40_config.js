@@ -1,1 +1,1 @@
-var mnemonic = "motion distance scatter real kind celery civil easy permit budget candy settle";
+var mnemonic = "dice address say write try sport crane nephew fee aspect second catalog";

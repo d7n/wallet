@@ -1,1 +1,1 @@
-var mnemonic = "symbol hub muscle color rice gauge genre wrist birth bright balcony melody";
+var mnemonic = "old wise lawsuit fantasy material catalog fiber wear pledge okay ill used";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle other fun leave shock table minor divert doctor pistol crane click";
+var mnemonic = "rule blur asset lunar ivory detail economy relief sunset jazz clap chest";

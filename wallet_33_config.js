@@ -1,1 +1,1 @@
-var mnemonic = "same donate slice year awesome planet mix person repeat unable shop patient";
+var mnemonic = "clap matrix letter grass prison script episode vibrant guess sword craft trumpet";

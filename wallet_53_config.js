@@ -1,1 +1,1 @@
-var mnemonic = "prefer debris swing father organ frame desk lunar remain crack scorpion learn";
+var mnemonic = "lyrics magnet gospel length corn scare stick youth roof average spice syrup";

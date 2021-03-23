@@ -1,1 +1,1 @@
-var mnemonic = "tissue black render emotion jazz maid unusual bracket rival primary later unable";
+var mnemonic = "exotic radio actual inquiry trade heavy clump west turkey heart asset sting";

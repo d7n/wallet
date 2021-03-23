@@ -1,1 +1,1 @@
-var mnemonic = "report gadget smooth company element eager quiz session universe poet quality into";
+var mnemonic = "shadow steak describe mimic tube remain aware cross soul material airport balance";

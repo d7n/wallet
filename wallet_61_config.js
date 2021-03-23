@@ -1,1 +1,1 @@
-var mnemonic = "twice attitude light duck knock neck flip penalty defy later name school";
+var mnemonic = "sand dice lend prison vanish oxygen labor clip bargain stuff spin garlic";

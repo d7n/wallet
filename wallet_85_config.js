@@ -1,1 +1,1 @@
-var mnemonic = "token foam space tube improve laugh obvious hurdle anger run emerge already";
+var mnemonic = "similar thought weapon imitate chaos wink virus decrease host art ethics work";

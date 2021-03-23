@@ -1,1 +1,1 @@
-var mnemonic = "chunk client thrive satoshi pumpkin magnet reward library surround tunnel tomato outside";
+var mnemonic = "throw occur verify skull scrap wise word crouch say exist permit yard";

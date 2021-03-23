@@ -1,1 +1,1 @@
-var mnemonic = "advice walnut mix usual dress black manual federal sun close hour salt";
+var mnemonic = "own true cushion bright funny wood domain universe pull deal race rice";

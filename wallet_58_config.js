@@ -1,1 +1,1 @@
-var mnemonic = "post hurt finger december belt kit dignity short cruel miss ridge orphan";
+var mnemonic = "thing easily result neglect scrap produce price unhappy bench snow divide track";

@@ -1,1 +1,1 @@
-var mnemonic = "during hamster final bunker avoid ignore canoe govern hungry mention evoke tuna";
+var mnemonic = "shed sentence case wedding style coral battle text neck solution settle riot";

@@ -1,1 +1,1 @@
-var mnemonic = "tell noodle suit debate salad place melody cheese claim frequent fatigue wheat";
+var mnemonic = "illegal popular employ person total eternal mutual thrive leg inject scatter mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "letter nation promote suggest skate harsh odor drastic pair math hard dinosaur";
+var mnemonic = "pattern satoshi daughter possible robot fall feed only noble volume west stereo";

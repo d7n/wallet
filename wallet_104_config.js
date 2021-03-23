@@ -1,1 +1,1 @@
-var mnemonic = "recipe until pyramid negative sunset lottery belt bring degree defy glad normal";
+var mnemonic = "either blouse remove front mule float blur jump vivid labor repair cluster";

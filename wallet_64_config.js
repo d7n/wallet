@@ -1,1 +1,1 @@
-var mnemonic = "where detect behind proud another mind middle case upgrade little word turkey";
+var mnemonic = "coach hollow unfair network combine rice rain fault frost volcano matrix dragon";

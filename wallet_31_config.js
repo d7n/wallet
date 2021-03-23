@@ -1,1 +1,1 @@
-var mnemonic = "bounce public shine general inner regret fine captain valley quick donor young";
+var mnemonic = "play marine involve door bread divide body senior inform blouse noodle plunge";

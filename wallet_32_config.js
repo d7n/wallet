@@ -1,1 +1,1 @@
-var mnemonic = "useless tone bring describe broken tuna food broom awful logic tongue please";
+var mnemonic = "gloom search spider indicate agree eagle airport calm tomorrow way clog then";

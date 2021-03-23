@@ -1,1 +1,1 @@
-var mnemonic = "image citizen mimic prize apple cradle trim region boss label like job";
+var mnemonic = "usage magnet crouch wolf hip life kite fame space grab inch large";

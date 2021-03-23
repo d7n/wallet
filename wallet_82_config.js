@@ -1,1 +1,1 @@
-var mnemonic = "level birth enrich replace okay inflict chicken gaze raven clip service drop";
+var mnemonic = "people fine unable coin pact elder tape like stay candy skate second";

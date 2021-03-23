@@ -1,1 +1,1 @@
-var mnemonic = "clean alien survey symbol split dial custom unlock pipe blur require scheme";
+var mnemonic = "bind hurdle below uncover friend vital salad spread survey orchard public sad";

@@ -1,1 +1,1 @@
-var mnemonic = "display bubble fortune radar damage divide limit cup balcony addict summer rally";
+var mnemonic = "divide sport electric canyon excuse exhibit steak always display account ticket fabric";

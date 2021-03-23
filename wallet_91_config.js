@@ -1,1 +1,1 @@
-var mnemonic = "also coffee debris blind act income assault bitter element addict lens magnet";
+var mnemonic = "coral sea come asset tornado couple grain carpet dress leg remove develop";

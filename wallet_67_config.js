@@ -1,1 +1,1 @@
-var mnemonic = "message sweet select traffic faint marriage boy anxiety theme sphere allow guess";
+var mnemonic = "empower group record mammal inherit youth year note voice law struggle shoot";

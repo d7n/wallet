@@ -1,1 +1,1 @@
-var mnemonic = "math hair aerobic invite stock unaware early globe message piece economy universe";
+var mnemonic = "grass visual neutral hour obvious shell when toe plug before radio east";

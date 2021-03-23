@@ -1,1 +1,1 @@
-var mnemonic = "reason process loyal swim innocent unknown fatigue unusual faith salon bulk victory";
+var mnemonic = "electric twice cherry observe churn version addict fiscal must make cycle ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "february elite clump cart catalog radio cinnamon mean abuse weasel apology retire";
+var mnemonic = "milk key jungle liar impulse reunion cupboard face error donate exotic moon";

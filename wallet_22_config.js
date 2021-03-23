@@ -1,1 +1,1 @@
-var mnemonic = "faith during need cannon release hill organ lend flee accuse educate prosper";
+var mnemonic = "hair horse attitude local crouch patient float bright leave awkward lion harbor";

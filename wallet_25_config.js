@@ -1,1 +1,1 @@
-var mnemonic = "absurd alien farm camera bulb layer economy error fancy obscure upon range";
+var mnemonic = "mechanic sweet soccer deputy canvas pave canoe meadow repeat outside flat lesson";

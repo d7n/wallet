@@ -1,1 +1,1 @@
-var mnemonic = "gorilla push agree rebel sample turtle romance effort claim strong flush elbow";
+var mnemonic = "gym will exit size female shock come armor wild just exercise aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "combine forward chalk throw old enforce shadow volume energy hotel autumn exhaust";
+var mnemonic = "merit fold snack always giant shed when enough motion small climb radio";

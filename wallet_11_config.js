@@ -1,1 +1,1 @@
-var mnemonic = "mention confirm vibrant there photo cause subject permit modify bounce rather popular";
+var mnemonic = "want modify jaguar harsh antique music champion produce peanut regret riot blur";

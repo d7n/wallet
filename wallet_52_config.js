@@ -1,1 +1,1 @@
-var mnemonic = "rent index inmate fire have ritual scheme open actress noise vessel crystal";
+var mnemonic = "solar speak spoon space maid install wisdom unhappy deny accident snake jeans";

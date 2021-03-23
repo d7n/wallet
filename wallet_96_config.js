@@ -1,1 +1,1 @@
-var mnemonic = "gate tornado kick hockey luggage legend globe wrestle carpet garment flight salt";
+var mnemonic = "lamp enjoy relax since spider quote enjoy junior distance lunar valve absorb";

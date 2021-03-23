@@ -1,1 +1,1 @@
-var mnemonic = "crumble edge bronze come draw occur print social during sphere vessel solid";
+var mnemonic = "butter crowd dress laugh pass vote marble bottom liquid gift dwarf regret";

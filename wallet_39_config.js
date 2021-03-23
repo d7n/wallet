@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin subject hunt entry noble under width crowd minimum zoo message knife";
+var mnemonic = "shift salon friend video music denial require athlete reform table comfort opinion";

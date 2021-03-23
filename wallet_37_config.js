@@ -1,1 +1,1 @@
-var mnemonic = "strike scout habit minor culture caution yard tray slim boil bag old";
+var mnemonic = "party candy nature soccer chuckle merge address same clerk dose treat test";

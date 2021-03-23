@@ -1,1 +1,1 @@
-var mnemonic = "dust rifle dolphin obey dust luggage window ignore company badge always suffer";
+var mnemonic = "mail cousin tonight charge letter visual settle chapter impose fish soda stairs";

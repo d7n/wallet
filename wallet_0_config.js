@@ -1,1 +1,1 @@
-var mnemonic = "true enforce eight brick assault pluck useful arrow diesel device mask floor";
+var mnemonic = "solve catalog clip roof bunker process measure trust evil deer easily foil";

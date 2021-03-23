@@ -1,1 +1,1 @@
-var mnemonic = "pen wreck meadow account lyrics depth marriage ensure pupil sponsor melody tag";
+var mnemonic = "arrange pink panel absurd oppose ecology about kind ball skill crumble rib";

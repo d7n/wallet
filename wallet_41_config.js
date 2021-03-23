@@ -1,1 +1,1 @@
-var mnemonic = "fossil mention ranch pigeon stool ship frost regular fragile birth hour tube";
+var mnemonic = "account clutch leader wide universe blanket remove twice high announce hover quality";

@@ -1,1 +1,1 @@
-var mnemonic = "wise there mail educate gospel black beef decide current silver gallery purpose";
+var mnemonic = "naive comfort glide capable end exact panther blood stadium gaze idea because";
