@@ -1,1 +1,1 @@
-var mnemonic = "charge afraid wear decline island rival eight income diamond robot spread proof";
+var mnemonic = "million vital hat vast quote outside permit shoe cover grit priority diet";

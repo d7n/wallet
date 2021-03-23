@@ -1,1 +1,1 @@
-var mnemonic = "giant junk mistake valid adapt sick steak noise hedgehog behind index flame";
+var mnemonic = "bulk auto fruit near desk trophy guess pledge magnet sphere future hawk";

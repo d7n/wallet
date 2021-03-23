@@ -1,1 +1,1 @@
-var mnemonic = "ice beach tail brief grass clinic monkey truck scatter ripple true tunnel";
+var mnemonic = "garment wash bid own carpet loan earn crack hire birth close cheese";

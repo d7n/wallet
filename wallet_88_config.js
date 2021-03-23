@@ -1,1 +1,1 @@
-var mnemonic = "once eager coast nerve owner view ostrich regular water source drip burst";
+var mnemonic = "add surprise derive awful supply edge river garlic reform runway wreck bulb";

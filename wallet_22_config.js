@@ -1,1 +1,1 @@
-var mnemonic = "mention bridge flee tiny dish final decline harvest bicycle stairs try lab";
+var mnemonic = "aisle decrease mammal audit wagon drill never casino add violin shiver hat";

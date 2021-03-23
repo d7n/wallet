@@ -1,1 +1,1 @@
-var mnemonic = "reason mention nephew bless ritual despair busy simple state humble company ankle";
+var mnemonic = "brand must empower need sphere recipe loyal suggest pistol smart damage awful";

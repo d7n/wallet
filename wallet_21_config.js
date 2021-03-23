@@ -1,1 +1,1 @@
-var mnemonic = "just castle salute orphan crash climb ethics clerk swing resist return excuse";
+var mnemonic = "cycle flat average mom apology vote make hire thrive follow vocal switch";

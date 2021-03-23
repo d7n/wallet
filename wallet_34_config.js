@@ -1,1 +1,1 @@
-var mnemonic = "mansion gun hamster supreme cheese gather swift trust south view wine busy";
+var mnemonic = "scrap arrow happy youth service asthma august shaft loud concert cigar brisk";

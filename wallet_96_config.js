@@ -1,1 +1,1 @@
-var mnemonic = "make census crumble remove search crop illegal autumn service nominee ready unknown";
+var mnemonic = "tortoise double siren gospel abuse dash pigeon blade laundry glad ugly dog";

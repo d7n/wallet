@@ -1,1 +1,1 @@
-var mnemonic = "twenty cram jacket gallery expose unique ostrich hospital conduct monkey sunny lecture";
+var mnemonic = "hammer slab number casual prefer mansion garden door broom steak toddler gown";

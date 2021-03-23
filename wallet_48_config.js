@@ -1,1 +1,1 @@
-var mnemonic = "weapon problem toast zebra candy affair siren opera pill almost spoil parade";
+var mnemonic = "large easy shop okay steak switch pave distance cry peace click boil";

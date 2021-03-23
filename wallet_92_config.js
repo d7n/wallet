@@ -1,1 +1,1 @@
-var mnemonic = "various parrot chicken swap dynamic immense guilt write immune flame promote drip";
+var mnemonic = "change public goose modify session suit engage desert worth cupboard devote gym";

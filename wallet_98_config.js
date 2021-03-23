@@ -1,1 +1,1 @@
-var mnemonic = "until flower assault amount soul hope improve share tribe bitter fresh hip";
+var mnemonic = "dog proof vibrant congress edit galaxy carpet theme merge stadium blame firm";

@@ -1,1 +1,1 @@
-var mnemonic = "guard saddle way soldier swim farm eager fever odor permit lesson coffee";
+var mnemonic = "pumpkin tennis vapor vocal monitor consider evolve hip unhappy satoshi talent maximum";

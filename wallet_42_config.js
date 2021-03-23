@@ -1,1 +1,1 @@
-var mnemonic = "exchange pond nature idle demand display analyst surprise garage ability lobster release";
+var mnemonic = "step decline couch grab kiss shine cook album much enjoy grab slam";

@@ -1,1 +1,1 @@
-var mnemonic = "razor mistake dilemma during kite sure cry awesome stomach mask certain salt";
+var mnemonic = "topple orbit exist daughter symbol certain move wagon surprise winner uncle family";

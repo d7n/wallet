@@ -1,1 +1,1 @@
-var mnemonic = "auto angry walk hour crew dutch later pen volcano album web turkey";
+var mnemonic = "stamp beyond frame draw gold trick rural issue birth proof grace crater";

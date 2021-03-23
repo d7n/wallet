@@ -1,1 +1,1 @@
-var mnemonic = "ahead okay rent desert smoke skirt sock sugar opera nature seek occur";
+var mnemonic = "cousin artist reflect employ denial tongue play just law reason twenty solution";

@@ -1,1 +1,1 @@
-var mnemonic = "taste swarm fold sound axis illness soup perfect slim oak walk february";
+var mnemonic = "hip hospital grunt strong script post vast label manage fashion dream memory";

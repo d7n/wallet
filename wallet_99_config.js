@@ -1,1 +1,1 @@
-var mnemonic = "average say alert apple canal chunk pride patch guide thought sunny fortune";
+var mnemonic = "put end roast vacuum wreck chronic hill patient embark proud opinion tissue";

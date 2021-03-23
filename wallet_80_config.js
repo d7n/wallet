@@ -1,1 +1,1 @@
-var mnemonic = "crunch insect tomato hip betray child detail frost elegant educate cycle thrive";
+var mnemonic = "purpose federal alcohol ensure aware upon man argue correct unhappy cat pigeon";

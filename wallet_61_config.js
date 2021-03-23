@@ -1,1 +1,1 @@
-var mnemonic = "chair monitor surface fat skin clarify alarm better kite blur exist unit";
+var mnemonic = "wool rigid either fan curve wolf hello story oil resist wall evoke";

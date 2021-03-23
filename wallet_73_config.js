@@ -1,1 +1,1 @@
-var mnemonic = "warfare debate foot stone crush fashion certain swap ride bronze kingdom anger";
+var mnemonic = "ordinary hover room crash priority hawk emerge jaguar clarify fiber doctor age";

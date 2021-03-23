@@ -1,1 +1,1 @@
-var mnemonic = "arena forward audit else garden symbol awkward verify distance extra quote scale";
+var mnemonic = "final outer inspire walk chef refuse above busy cattle minute online dirt";

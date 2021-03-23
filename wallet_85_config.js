@@ -1,1 +1,1 @@
-var mnemonic = "result vendor slush broccoli session work make thank foster fine carry flat";
+var mnemonic = "discover cat wolf net inmate pudding coconut stay reason volcano media wish";

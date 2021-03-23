@@ -1,1 +1,1 @@
-var mnemonic = "time tell phone fatal black reward phone column rich banana inquiry protect";
+var mnemonic = "system frame easy wise hood giraffe tray liquid merry blood oak delay";

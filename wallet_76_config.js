@@ -1,1 +1,1 @@
-var mnemonic = "anxiety scissors flight spider floor also kiss cause submit farm praise total";
+var mnemonic = "love wolf energy fossil enact grief element movie exile forest fiber tag";

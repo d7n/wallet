@@ -1,1 +1,1 @@
-var mnemonic = "accuse powder board method team math code grass gossip either hand uphold";
+var mnemonic = "guide goose dragon spell era pistol retire this excess scan cabbage blanket";

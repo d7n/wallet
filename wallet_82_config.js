@@ -1,1 +1,1 @@
-var mnemonic = "ignore various atom million stairs fee awkward eye unhappy buddy wet note";
+var mnemonic = "kick festival indoor jungle cruise gesture trial sad enough upset narrow romance";

@@ -1,1 +1,1 @@
-var mnemonic = "height grape coach all give boil exile kick rice surface oxygen prevent";
+var mnemonic = "liar dinosaur clarify eagle you load note six general inner inquiry physical";

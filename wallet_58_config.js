@@ -1,1 +1,1 @@
-var mnemonic = "stomach simple chef mind raven relief ill page world case rather enhance";
+var mnemonic = "path service remove air two lock sell flame lens ten embark ritual";

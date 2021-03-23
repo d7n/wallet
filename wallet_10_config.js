@@ -1,1 +1,1 @@
-var mnemonic = "deliver lecture slush twin taste knock jacket laugh imitate undo skin rule";
+var mnemonic = "receive hunt later sponsor decorate today tag kid leaf auction report already";

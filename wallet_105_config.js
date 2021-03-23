@@ -1,1 +1,1 @@
-var mnemonic = "program pudding demand castle quick desert trash equip word another inside dove";
+var mnemonic = "original erosion gallery honey render palace nature stamp hope one keen solid";

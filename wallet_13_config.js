@@ -1,1 +1,1 @@
-var mnemonic = "bachelor plug favorite deer lion welcome alarm speak axis piano mistake conduct";
+var mnemonic = "apology essay garbage rival apology submit short tomato soap where spot broccoli";

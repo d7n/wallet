@@ -1,1 +1,1 @@
-var mnemonic = "concert busy harvest reopen silly steel prevent special dry neglect aunt pride";
+var mnemonic = "false walk divorce other acquire ticket arrange artefact pond any dune web";

@@ -1,1 +1,1 @@
-var mnemonic = "runway mansion whale loan person hover cigar wish entry year crane erode";
+var mnemonic = "vehicle forum kidney blouse insect assist airport bulk amateur box december robot";

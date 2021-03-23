@@ -1,1 +1,1 @@
-var mnemonic = "soap upper spirit recipe file south misery cattle empower animal web wall";
+var mnemonic = "gravity gaze need bench little insect hint clay pet destroy jaguar bacon";

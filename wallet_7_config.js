@@ -1,1 +1,1 @@
-var mnemonic = "custom goat busy board suspect regret mutual west flush supreme shift enjoy";
+var mnemonic = "estate target joke borrow wasp sadness barely damage trigger shadow witness symbol";

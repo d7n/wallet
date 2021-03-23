@@ -1,1 +1,1 @@
-var mnemonic = "proof prevent invest close blind electric emerge worry purse glance end session";
+var mnemonic = "found lazy cabbage repeat expire equal select merit eight parade width scan";

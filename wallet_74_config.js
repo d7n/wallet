@@ -1,1 +1,1 @@
-var mnemonic = "way segment mosquito there warm disease silent sample ship combine resist disease";
+var mnemonic = "palace review divorce harbor rail pond share rookie viable water essence sudden";

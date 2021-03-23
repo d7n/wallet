@@ -1,1 +1,1 @@
-var mnemonic = "spread age chase man push lesson habit hip forget village artwork sleep";
+var mnemonic = "alert else morning alley wine tourist solution awesome capital diagram fly lazy";

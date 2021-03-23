@@ -1,1 +1,1 @@
-var mnemonic = "toilet sand possible hood engine destroy unfair among energy anchor swamp human";
+var mnemonic = "nut someone render year learn energy task broken drum filter screen that";

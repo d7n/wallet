@@ -1,1 +1,1 @@
-var mnemonic = "pupil chronic weird adjust purse ugly direct puppy vehicle level expect tennis";
+var mnemonic = "limit allow else void combine morning found point boost diet pole add";

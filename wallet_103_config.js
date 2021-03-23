@@ -1,1 +1,1 @@
-var mnemonic = "people slide fruit where curve way emotion tackle possible pretty advice fantasy";
+var mnemonic = "maid melt scatter arrange uncover hurt gesture crowd license roof unable anchor";

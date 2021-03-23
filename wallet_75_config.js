@@ -1,1 +1,1 @@
-var mnemonic = "duck oppose season post wrong culture dizzy differ wash earth uncle rule";
+var mnemonic = "shuffle laugh drum strong ticket elbow borrow toss area arena unique suspect";

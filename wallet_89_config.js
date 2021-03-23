@@ -1,1 +1,1 @@
-var mnemonic = "drift media moral oyster sword demise output current link reward job decide";
+var mnemonic = "rigid visual rain letter grape panda eternal claw piano canal outdoor able";

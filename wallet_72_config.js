@@ -1,1 +1,1 @@
-var mnemonic = "clutch measure birth person truck job allow shaft taxi need average donor";
+var mnemonic = "tiny manage gossip grass radio manage veteran kiss husband canoe square leader";

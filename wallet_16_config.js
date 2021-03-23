@@ -1,1 +1,1 @@
-var mnemonic = "receive end flash label sentence horror earth bind near install world maid";
+var mnemonic = "debris maple range risk amount ready near level bread summer glimpse gadget";

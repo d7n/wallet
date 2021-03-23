@@ -1,1 +1,1 @@
-var mnemonic = "nest casual lonely gorilla fury shed artist lyrics horn inflict novel short";
+var mnemonic = "seminar ordinary elbow guard animal hurt identify desert someone else paddle rich";

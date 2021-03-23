@@ -1,1 +1,1 @@
-var mnemonic = "dose flip upset finish wrap bracket cook ladder pupil home hurry party";
+var mnemonic = "plunge paddle prevent coffee dizzy hat rhythm knee deposit weird choose snack";

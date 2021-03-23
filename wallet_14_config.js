@@ -1,1 +1,1 @@
-var mnemonic = "armor illegal action echo carbon spoil afford hand eagle wash range patrol";
+var mnemonic = "gloom plastic wife cruel journey cannon wheel escape size choice smart educate";

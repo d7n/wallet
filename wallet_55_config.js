@@ -1,1 +1,1 @@
-var mnemonic = "history economy among style mimic label inside midnight carry bracket clip famous";
+var mnemonic = "green used pumpkin topic confirm oxygen rare bring pill frown mechanic inspire";

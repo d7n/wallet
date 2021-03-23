@@ -1,1 +1,1 @@
-var mnemonic = "stereo blossom express confirm comfort cook hundred erase doll rough topple job";
+var mnemonic = "clock cricket beef reunion topic crouch already middle atom pitch member inch";

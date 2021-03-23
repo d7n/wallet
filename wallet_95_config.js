@@ -1,1 +1,1 @@
-var mnemonic = "mixed forest manual inquiry glance witness gas convince electric frame insane become";
+var mnemonic = "zoo vault snack rather capital album lottery smart upset rare fiber weather";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma rude surround page insane evil wife book educate elbow rebuild eight";
+var mnemonic = "spot infant cereal clog visual give design ask gadget cactus rule ski";

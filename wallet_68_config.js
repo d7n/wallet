@@ -1,1 +1,1 @@
-var mnemonic = "maple book common tragic okay when olive sound before vocal post extend";
+var mnemonic = "goddess initial crop crew fiber bracket flush moon truck wild attack animal";

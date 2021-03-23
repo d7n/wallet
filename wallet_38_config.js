@@ -1,1 +1,1 @@
-var mnemonic = "title creek shy dirt praise push sure movie car problem letter wealth";
+var mnemonic = "dwarf enable seminar accident vault jewel enlist consider property gun chat apart";

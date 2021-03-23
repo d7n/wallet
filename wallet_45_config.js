@@ -1,1 +1,1 @@
-var mnemonic = "kidney foil extra input web guard small load track brand video method";
+var mnemonic = "hand merry cattle speak midnight return local twist glove potato welcome employ";

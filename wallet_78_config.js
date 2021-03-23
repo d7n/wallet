@@ -1,1 +1,1 @@
-var mnemonic = "pulp valley sheriff choice mystery glance hidden bubble sock record wagon badge";
+var mnemonic = "address tower cover smooth victory alarm pistol diamond piece bounce leaf famous";

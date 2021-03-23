@@ -1,1 +1,1 @@
-var mnemonic = "rose story say skirt collect upgrade adapt account regular flat resist primary";
+var mnemonic = "ripple bachelor museum across antenna quick remove teach camera fence tent discover";

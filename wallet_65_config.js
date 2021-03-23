@@ -1,1 +1,1 @@
-var mnemonic = "rebuild glass liquid country sure hobby ask person repeat diamond tuition dress";
+var mnemonic = "mad dish field place treat manual explain major shoulder develop book narrow";

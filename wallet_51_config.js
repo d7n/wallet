@@ -1,1 +1,1 @@
-var mnemonic = "cancel silly senior river picture final alter fall lemon source ready visit";
+var mnemonic = "sausage matrix layer pulp work margin box trap catch fragile tortoise nasty";

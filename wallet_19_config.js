@@ -1,1 +1,1 @@
-var mnemonic = "iron eternal sense cash broccoli amount enlist link gate speak rent swift";
+var mnemonic = "matter innocent eternal cushion auto light evidence vivid potato lobster pink never";

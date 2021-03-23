@@ -1,1 +1,1 @@
-var mnemonic = "have cart erode rug atom boost pistol post pact blouse speak unusual";
+var mnemonic = "green cactus liquid prize march fame burst home credit remove daughter hazard";

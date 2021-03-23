@@ -1,1 +1,1 @@
-var mnemonic = "door burden proud rib novel promote harsh loan series vocal index rural";
+var mnemonic = "mistake keen add innocent radio nose state picnic curtain income veteran finger";

@@ -1,1 +1,1 @@
-var mnemonic = "unique emotion fruit behave setup slogan frost exit canoe tonight suit bundle";
+var mnemonic = "icon raccoon winter crew mind lab story stove raise ask among silver";

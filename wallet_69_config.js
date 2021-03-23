@@ -1,1 +1,1 @@
-var mnemonic = "intact index dawn strategy long over olive ticket crash clog gossip van";
+var mnemonic = "spell tool outer fiction essay promote target travel kitten rebuild exercise current";

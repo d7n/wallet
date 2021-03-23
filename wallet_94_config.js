@@ -1,1 +1,1 @@
-var mnemonic = "speak insect knife immense target piano isolate logic vintage clarify few dad";
+var mnemonic = "pony paddle color together shift spot exchange coffee tribe trip test engine";

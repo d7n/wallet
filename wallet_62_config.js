@@ -1,1 +1,1 @@
-var mnemonic = "trick panel unfair below razor bulb weekend cycle caught convince hunt identify";
+var mnemonic = "excuse element ramp access busy object park purity glory sorry shell evidence";

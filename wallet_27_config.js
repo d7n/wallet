@@ -1,1 +1,1 @@
-var mnemonic = "sausage funny kit that quick broccoli online divide banner either harsh fault";
+var mnemonic = "supreme valve use warfare champion decrease credit phrase decrease wasp squirrel next";

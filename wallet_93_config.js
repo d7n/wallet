@@ -1,1 +1,1 @@
-var mnemonic = "buffalo swamp right race soap become salad idle change worry season useless";
+var mnemonic = "oak flight arena penalty swear decade glue ticket bullet any payment fantasy";

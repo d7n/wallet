@@ -1,1 +1,1 @@
-var mnemonic = "regular reveal divide arm express oyster vault finish talk heart net evoke";
+var mnemonic = "switch panic shiver build bag tribe short approve crew thank crack over";

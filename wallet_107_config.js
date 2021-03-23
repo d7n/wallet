@@ -1,1 +1,1 @@
-var mnemonic = "worry siege punch satisfy hurt type marble rude crystal rug need risk";
+var mnemonic = "easily point master twelve album cage sword tool glove enrich track ordinary";

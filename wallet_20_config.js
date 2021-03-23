@@ -1,1 +1,1 @@
-var mnemonic = "jealous victory van question raw curious carbon normal chaos eyebrow carbon unlock";
+var mnemonic = "coffee consider subway torch better skin hazard manage never garage planet hero";

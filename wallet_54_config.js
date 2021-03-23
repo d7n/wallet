@@ -1,1 +1,1 @@
-var mnemonic = "parrot effort cluster fitness relief movie pony airport pelican file resemble vault";
+var mnemonic = "lecture volcano green typical area mammal memory wisdom sport ginger ozone crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "crush skin warrior glimpse banner word pulse wage aerobic dash carpet popular";
+var mnemonic = "between pink control funny barely accuse curious grass file weather seed casual";

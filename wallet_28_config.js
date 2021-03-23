@@ -1,1 +1,1 @@
-var mnemonic = "where sunset excess bridge exist fresh loud wall bracket vote rain advance";
+var mnemonic = "oyster damage inside crime rule chaos quit color clay gas lock sauce";

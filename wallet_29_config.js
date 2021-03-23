@@ -1,1 +1,1 @@
-var mnemonic = "response cliff ceiling jacket latin bring tide pact gorilla person horror predict";
+var mnemonic = "argue deer direct reopen remind heart exhaust direct fancy comfort notice path";

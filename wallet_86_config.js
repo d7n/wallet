@@ -1,1 +1,1 @@
-var mnemonic = "scare eager elbow fence awake deputy mention pond rough cash avoid combine";
+var mnemonic = "present gun mixed false average donate van toy plunge hamster twist merge";

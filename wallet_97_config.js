@@ -1,1 +1,1 @@
-var mnemonic = "develop parent soft expire forum there minute slide tunnel hard notable science";
+var mnemonic = "release prevent spike birth any behind one craft journey outer dove hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "flip curious squeeze family awkward piano great write metal expect skin expire";
+var mnemonic = "truly orbit receive love field bleak lobster seed win issue best odor";

@@ -1,1 +1,1 @@
-var mnemonic = "post grief accuse foot riot board category aerobic slow upgrade various unveil";
+var mnemonic = "among random menu olive gold now visa fit duck fall brand snap";

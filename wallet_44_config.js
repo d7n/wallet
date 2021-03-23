@@ -1,1 +1,1 @@
-var mnemonic = "curtain famous key advice legal survey lion tide sport slender keen push";
+var mnemonic = "tone furnace three soda honey bus portion wreck volume tenant brown buffalo";

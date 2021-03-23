@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur element elbow avoid blush recycle usage cake dial clarify aerobic bracket";
+var mnemonic = "family isolate cannon certain rabbit copy purchase mouse index boil stereo coin";

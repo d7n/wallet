@@ -1,1 +1,1 @@
-var mnemonic = "tree vessel kiwi slice pact elephant sea poem great world pet mammal";
+var mnemonic = "guard setup genius town bullet enlist craft now profit wealth shuffle enhance";

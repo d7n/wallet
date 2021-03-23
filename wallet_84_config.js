@@ -1,1 +1,1 @@
-var mnemonic = "cream idle vehicle dignity fish green hero verb belt supreme boss hope";
+var mnemonic = "road cute drill student cram audit agree enjoy puzzle round final farm";

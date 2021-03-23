@@ -1,1 +1,1 @@
-var mnemonic = "wolf unhappy cricket fence debris spring radio coin evoke able lunch raccoon";
+var mnemonic = "echo dolphin away december deal record album bike rural patch giggle siege";

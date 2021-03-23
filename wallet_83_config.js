@@ -1,1 +1,1 @@
-var mnemonic = "welcome dinner jump float crater raccoon captain fortune evoke tone glory pulse";
+var mnemonic = "silk bitter response setup screen seven else kidney debris illness idle sound";

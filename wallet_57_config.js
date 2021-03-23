@@ -1,1 +1,1 @@
-var mnemonic = "medal warm stove hundred exclude blouse often aisle stable record slush escape";
+var mnemonic = "skull together siren sunny uniform force camp fun all inject finish magnet";
