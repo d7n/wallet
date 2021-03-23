@@ -1,1 +1,1 @@
-var mnemonic = "expand interest spatial sorry virus bundle rice diagram morning seek protect neither";
+var mnemonic = "nation begin shuffle danger tilt bitter turkey trick remove imitate axis sail";

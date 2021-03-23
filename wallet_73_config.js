@@ -1,1 +1,1 @@
-var mnemonic = "burden box next solar catch access execute bulb weapon leaf body whip";
+var mnemonic = "borrow open arctic tool usual mercy before wonder more invest salmon adult";

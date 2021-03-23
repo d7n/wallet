@@ -1,1 +1,1 @@
-var mnemonic = "stone bubble govern ski rug scan private fringe gun flag rebuild aspect";
+var mnemonic = "explain fit ozone purpose dinosaur area spy melt learn glory dwarf human";

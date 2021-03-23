@@ -1,1 +1,1 @@
-var mnemonic = "group zoo rate remove evoke quantum chronic found cheap inspire marriage sound";
+var mnemonic = "until virus pear banner exhaust table bring shoe crater cook chaos blur";

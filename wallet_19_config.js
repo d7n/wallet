@@ -1,1 +1,1 @@
-var mnemonic = "army drastic belt exhibit initial cliff food chief child that helmet jelly";
+var mnemonic = "bulk lucky song year jar feature there wrist tortoise episode trim erode";

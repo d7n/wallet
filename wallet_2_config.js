@@ -1,1 +1,1 @@
-var mnemonic = "question account library exercise spin coral dumb image borrow oppose eye electric";
+var mnemonic = "know anchor flag angle panda sister adult lecture gold indoor private sketch";

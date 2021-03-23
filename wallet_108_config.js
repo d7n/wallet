@@ -1,1 +1,1 @@
-var mnemonic = "toast palm round prosper valley kite rural favorite alien utility arrive tool";
+var mnemonic = "glad allow horn quarter around roof vapor stairs amused depend ivory fit";

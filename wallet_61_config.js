@@ -1,1 +1,1 @@
-var mnemonic = "foster sell swim miracle law garlic right seat luxury law feed garbage";
+var mnemonic = "loan dune occur guitar rude extra foam can pitch wealth marble parrot";

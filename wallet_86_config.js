@@ -1,1 +1,1 @@
-var mnemonic = "claw conduct more claim lesson sugar angry example anger mimic vendor list";
+var mnemonic = "ribbon permit impulse conduct long brand conduct custom raise pitch keen switch";

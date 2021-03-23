@@ -1,1 +1,1 @@
-var mnemonic = "olympic save wall stairs medal coast globe cave bind idle change inherit";
+var mnemonic = "grit risk month shine sponsor tag also valley twist number barrel gaze";

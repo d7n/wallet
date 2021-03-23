@@ -1,1 +1,1 @@
-var mnemonic = "risk year ostrich gift figure canoe scissors web write myth able fault";
+var mnemonic = "initial hope siege decorate address planet any select regular clutch cram blame";

@@ -1,1 +1,1 @@
-var mnemonic = "solution ripple maze dose settle spin tourist bounce matter ranch still stand";
+var mnemonic = "silly grit sea spot circle ribbon divorce vibrant divide tenant hammer cart";

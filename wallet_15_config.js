@@ -1,1 +1,1 @@
-var mnemonic = "head level pretty gather pig nose latin giraffe host run cart behind";
+var mnemonic = "toddler where ahead brain size future celery meat social record drive icon";

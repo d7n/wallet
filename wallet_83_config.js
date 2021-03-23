@@ -1,1 +1,1 @@
-var mnemonic = "next dentist trial follow sunset fit catalog tiger ankle course final decrease";
+var mnemonic = "since erupt drama comfort clutch clay parade rare elegant choose october labor";

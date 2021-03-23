@@ -1,1 +1,1 @@
-var mnemonic = "zebra end practice final zoo decade explain panic joy dash general appear";
+var mnemonic = "gain link prefer enact crisp trumpet hat soft shaft giraffe oak eager";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk analyst toe swamp velvet tourist rack boss space critic fat range";
+var mnemonic = "label jealous over minimum case clutch estate day glove curtain across clip";

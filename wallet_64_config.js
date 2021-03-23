@@ -1,1 +1,1 @@
-var mnemonic = "attitude shoot abuse predict follow strategy talent cattle expect analyst soap permit";
+var mnemonic = "daughter vintage track fun claw lobster excuse bridge chalk appear text option";

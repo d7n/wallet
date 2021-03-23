@@ -1,1 +1,1 @@
-var mnemonic = "about measure major prosper surge city desk praise adjust flash rent meadow";
+var mnemonic = "waste during today clump embody lamp load foster uphold warm quality input";

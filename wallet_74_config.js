@@ -1,1 +1,1 @@
-var mnemonic = "broccoli shuffle kidney lift cave slow crowd phrase tornado drum divorce opinion";
+var mnemonic = "brave hello anxiety decide that detail night chaos demand develop acid address";

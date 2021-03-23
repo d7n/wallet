@@ -1,1 +1,1 @@
-var mnemonic = "tip reduce execute forget bench kit blast observe arrive vehicle teach join";
+var mnemonic = "survey observe taxi liberty antenna cost divide earth cousin raven manage warfare";

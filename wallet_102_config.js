@@ -1,1 +1,1 @@
-var mnemonic = "slice pupil once torch weasel guess artefact deliver claim amazing inside truth";
+var mnemonic = "aerobic media coconut coin drive pudding defy mercy tuna arch stem feel";

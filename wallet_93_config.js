@@ -1,1 +1,1 @@
-var mnemonic = "rich rice critic ugly supreme trouble vital good prevent limit noodle danger";
+var mnemonic = "develop ordinary wood penalty that quiz knee holiday twist earn indicate armor";

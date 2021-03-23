@@ -1,1 +1,1 @@
-var mnemonic = "fantasy snow need accuse assume puzzle forum beyond keen decline game asset";
+var mnemonic = "together autumn amazing fortune fever pencil tumble when height wasp element reflect";

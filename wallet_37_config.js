@@ -1,1 +1,1 @@
-var mnemonic = "print horror cash apology push thumb guitar rabbit wedding surface process toast";
+var mnemonic = "sniff chief reduce brain behind enter fiction sadness solid rare arrange about";

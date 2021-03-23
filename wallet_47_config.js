@@ -1,1 +1,1 @@
-var mnemonic = "vast night tumble vapor uncle luggage license abstract boring answer arctic dream";
+var mnemonic = "search verb city fish manual love rate advice library maze this only";

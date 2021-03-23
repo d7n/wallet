@@ -1,1 +1,1 @@
-var mnemonic = "trash chair document drip book paper food ticket document indoor celery initial";
+var mnemonic = "zoo office object power flower enable erupt path pipe annual essence lunch";

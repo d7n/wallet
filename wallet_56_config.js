@@ -1,1 +1,1 @@
-var mnemonic = "swamp fashion until cliff output corn farm amazing tray ready crack protect";
+var mnemonic = "light beach shoot nut hammer hope other vast tree humor crowd inhale";

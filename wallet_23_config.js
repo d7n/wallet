@@ -1,1 +1,1 @@
-var mnemonic = "remember street timber treat sick cushion benefit question permit alert sense supply";
+var mnemonic = "stage detail movie endorse replace chair caution owner tumble habit motor ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "wage daring salt armor kidney bacon hand episode gadget law cake curious";
+var mnemonic = "oval item flat danger meadow inside toy tower vicious trap poet lake";

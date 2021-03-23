@@ -1,1 +1,1 @@
-var mnemonic = "one refuse left earth demand cram myth drill claim buffalo tornado inch";
+var mnemonic = "lend session dwarf rely leave gospel glance grow more aware festival beauty";

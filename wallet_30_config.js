@@ -1,1 +1,1 @@
-var mnemonic = "clutch magnet damp crowd neglect brave attack danger season grow myth involve";
+var mnemonic = "sudden annual switch bean donate student afford then employ fringe reunion pepper";

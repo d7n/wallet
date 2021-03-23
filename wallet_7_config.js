@@ -1,1 +1,1 @@
-var mnemonic = "hello zoo file better town situate valley identify soda sustain equip dose";
+var mnemonic = "various half amused candy master hen unknown dentist nice vacuum prefer yellow";

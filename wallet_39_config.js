@@ -1,1 +1,1 @@
-var mnemonic = "ability elegant remove truly live unit moon tone chronic drill stand call";
+var mnemonic = "bitter meat double shove scale chalk labor awesome debate radio fatigue response";

@@ -1,1 +1,1 @@
-var mnemonic = "keen text cram sheriff night neither moment cool chat unable seat trim";
+var mnemonic = "humble kingdom resemble evidence sure dune margin enlist legal report snow gadget";

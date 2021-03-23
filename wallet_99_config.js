@@ -1,1 +1,1 @@
-var mnemonic = "recipe shift sudden field giant wall warfare crew jelly basket window leg";
+var mnemonic = "sad trim mix swarm ozone rookie sport live erupt boring mention amused";

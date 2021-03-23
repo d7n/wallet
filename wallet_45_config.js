@@ -1,1 +1,1 @@
-var mnemonic = "venture invest blast certain frost rescue mosquito all identify glare print recall";
+var mnemonic = "front buffalo eight album museum oven city someone lamp tilt effort seed";

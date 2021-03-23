@@ -1,1 +1,1 @@
-var mnemonic = "term vault maximum main cheap before drink social scorpion rapid display fall";
+var mnemonic = "deposit deposit brown gym fire divide future base brave length dash tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch focus scorpion expect include same speak toe flight valley envelope license";
+var mnemonic = "wisdom spirit twin normal predict eyebrow join train crane piece relax make";

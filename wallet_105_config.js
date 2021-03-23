@@ -1,1 +1,1 @@
-var mnemonic = "case transfer rent inch donor donor timber walk pizza mix runway slam";
+var mnemonic = "neutral husband juice decline wrist robot theme oblige uncover pitch image extra";

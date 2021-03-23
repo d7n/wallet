@@ -1,1 +1,1 @@
-var mnemonic = "more engage alpha session key six always debris game oven bean where";
+var mnemonic = "salon gap model convince family render near dry try fortune quit unusual";

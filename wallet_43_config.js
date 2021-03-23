@@ -1,1 +1,1 @@
-var mnemonic = "mind cotton wasp say depart onion remain artefact nominee inch royal obtain";
+var mnemonic = "chuckle pass betray edit summer child accuse jungle fluid canoe trigger bundle";

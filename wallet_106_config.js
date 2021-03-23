@@ -1,1 +1,1 @@
-var mnemonic = "remember blossom diesel magnet mushroom adapt tiny hip lobster fat carpet idea";
+var mnemonic = "narrow wagon funny soul wagon gym pear frequent scatter become suggest gentle";

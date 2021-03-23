@@ -1,1 +1,1 @@
-var mnemonic = "pride clock cereal ribbon add ivory rebel off voice dolphin benefit orchard";
+var mnemonic = "police proud refuse goat picnic speak gas crunch kid cake dignity glass";

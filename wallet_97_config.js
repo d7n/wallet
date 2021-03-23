@@ -1,1 +1,1 @@
-var mnemonic = "wheat brand favorite explain common traffic report wheat where veteran reunion tool";
+var mnemonic = "citizen fresh diamond east maze uncover bless cable vanish above brass goat";

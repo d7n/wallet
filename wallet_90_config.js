@@ -1,1 +1,1 @@
-var mnemonic = "neutral near cart crew equip oval cruise accuse devote exhibit artwork ranch";
+var mnemonic = "wine trash other liberty clump end few arrest actor crime satisfy convince";

@@ -1,1 +1,1 @@
-var mnemonic = "sad auto like illegal large easy expire name among cushion isolate slim";
+var mnemonic = "choice joke peasant sure price over one because travel web divert sound";

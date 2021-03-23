@@ -1,1 +1,1 @@
-var mnemonic = "despair panther sentence vacuum interest cruise surge cause ahead suffer circle fiber";
+var mnemonic = "volcano ride shrimp vault laundry coyote innocent tilt spot suspect stand orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "survey sphere neglect trip frequent defy return decide tray trend rally wild";
+var mnemonic = "conduct cake swap advance shiver novel science steak coconut shop cactus address";

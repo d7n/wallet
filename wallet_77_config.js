@@ -1,1 +1,1 @@
-var mnemonic = "walk output step nerve garbage turkey caution sand because poet become enrich";
+var mnemonic = "viable peace way enrich office wisdom erosion oblige spike bicycle time plug";

@@ -1,1 +1,1 @@
-var mnemonic = "trade unable keen expect balance scale stumble mad report flush potato foam";
+var mnemonic = "crucial pumpkin glove lecture light broccoli fat split oblige price cook green";

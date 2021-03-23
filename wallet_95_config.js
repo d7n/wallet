@@ -1,1 +1,1 @@
-var mnemonic = "penalty help orbit junior inside raise cruise ride sausage list sugar relief";
+var mnemonic = "learn target flag drink leave salad west suffer peanut tourist angry custom";

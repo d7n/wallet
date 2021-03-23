@@ -1,1 +1,1 @@
-var mnemonic = "coconut giant opera tissue high chuckle swamp lunch example approve cruise swamp";
+var mnemonic = "march remain among guitar caution process hammer stadium vacuum wait judge multiply";

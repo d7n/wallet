@@ -1,1 +1,1 @@
-var mnemonic = "noise obey lunar hundred crime survey siren cycle space romance tell boring";
+var mnemonic = "library poem anger stool submit wagon occur color rabbit remember market expect";

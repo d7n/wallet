@@ -1,1 +1,1 @@
-var mnemonic = "ladder dynamic praise fold shoot title drop drip hand move relax addict";
+var mnemonic = "minute shed address dog audit one dynamic traffic body rain humor ring";

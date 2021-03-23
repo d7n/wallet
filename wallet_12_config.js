@@ -1,1 +1,1 @@
-var mnemonic = "runway suit sea clap wise glow biology design begin advice language aerobic";
+var mnemonic = "rug bounce number torch base error person fashion idle auction once eight";

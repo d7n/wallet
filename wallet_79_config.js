@@ -1,1 +1,1 @@
-var mnemonic = "grace expect require novel style must toast slab pizza catch symptom thunder";
+var mnemonic = "prefer embrace muffin plug tennis water alien tuition volcano crane lift omit";

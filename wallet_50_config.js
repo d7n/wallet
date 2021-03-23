@@ -1,1 +1,1 @@
-var mnemonic = "crystal spot high border laundry view strong raise horn column impact yard";
+var mnemonic = "fall trim blame hybrid oil case mosquito exhibit decade mushroom swarm bracket";

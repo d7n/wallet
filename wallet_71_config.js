@@ -1,1 +1,1 @@
-var mnemonic = "combine record action lady guard fantasy genre annual alcohol project few sword";
+var mnemonic = "feel nest cruel snack capable slice skull empower raccoon interest panther unique";

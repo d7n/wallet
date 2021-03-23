@@ -1,1 +1,1 @@
-var mnemonic = "disease top bubble olive caught parade sample youth maximum surge pride unusual";
+var mnemonic = "spatial long carpet puppy base extra obscure latin exile inch save moon";

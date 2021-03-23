@@ -1,1 +1,1 @@
-var mnemonic = "wrist airport bottom maze device next twelve reveal crash fine address blast";
+var mnemonic = "true clay genuine spider reveal trade hold immense rubber seat strategy blur";

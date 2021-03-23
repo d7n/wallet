@@ -1,1 +1,1 @@
-var mnemonic = "possible horror voice milk sound region basic rival claim method casino noble";
+var mnemonic = "own uniform deputy couch sponsor glide trap stool speak useful become more";

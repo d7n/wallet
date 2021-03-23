@@ -1,1 +1,1 @@
-var mnemonic = "gaze note clay gadget romance ritual vocal churn hand dirt rebel ankle";
+var mnemonic = "rival salad frost hunt safe essence possible humble certain ship business curious";

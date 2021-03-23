@@ -1,1 +1,1 @@
-var mnemonic = "mushroom assault reduce token churn renew myth focus heart put today razor";
+var mnemonic = "end doll swear episode ridge clump rice ball vague shock flock lamp";

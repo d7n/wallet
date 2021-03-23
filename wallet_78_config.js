@@ -1,1 +1,1 @@
-var mnemonic = "purse pupil senior police food phrase symptom outdoor expand float pelican boost";
+var mnemonic = "orbit practice bicycle organ electric area rigid spoil hurry ozone turkey people";

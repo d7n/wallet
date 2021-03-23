@@ -1,1 +1,1 @@
-var mnemonic = "mercy border shop spirit agent stadium girl sample infant army glove various";
+var mnemonic = "mail benefit mixture shift illegal prosper forum muscle pact idea velvet spray";

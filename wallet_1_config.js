@@ -1,1 +1,1 @@
-var mnemonic = "inch boy sniff adult rich guitar brisk cost enact toy own ketchup";
+var mnemonic = "electric display warm fence square used salmon machine loud evidence high wire";

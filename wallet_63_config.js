@@ -1,1 +1,1 @@
-var mnemonic = "brave learn wrong bar stone illegal access frown pilot shallow track unhappy";
+var mnemonic = "drastic lava delay subway replace crack bag enable agent hope throw people";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi flat heavy multiply reunion shuffle together east carry zone two doctor";
+var mnemonic = "demise gain celery satisfy nephew kick ensure stomach enforce sugar suspect task";

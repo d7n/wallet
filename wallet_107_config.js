@@ -1,1 +1,1 @@
-var mnemonic = "music slogan brick beef excuse tiger black train equip bullet hold elegant";
+var mnemonic = "unhappy observe picture puppy mother hollow champion unusual final method involve enforce";

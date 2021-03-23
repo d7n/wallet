@@ -1,1 +1,1 @@
-var mnemonic = "trumpet sand install urge apple solve divorce myself matrix clutch couch mixture";
+var mnemonic = "grief motion sustain ranch act speak topple ahead reunion enact vintage city";

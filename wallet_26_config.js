@@ -1,1 +1,1 @@
-var mnemonic = "improve female humor ghost scrap artwork link clerk beauty view affair visual";
+var mnemonic = "excess edit claw category buffalo ride symptom satisfy friend quote test sand";

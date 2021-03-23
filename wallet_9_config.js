@@ -1,1 +1,1 @@
-var mnemonic = "catch gasp south victory crouch century love club mountain team heavy also";
+var mnemonic = "lucky boy crisp top estate theory fantasy copy put arrow welcome poverty";

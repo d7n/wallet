@@ -1,1 +1,1 @@
-var mnemonic = "grab intact moon essay obtain runway voice tornado ensure client hill faculty";
+var mnemonic = "sustain emerge display vapor fresh pitch aspect lend gadget essay name burden";

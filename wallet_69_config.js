@@ -1,1 +1,1 @@
-var mnemonic = "provide case night special scrub ribbon water begin exercise snow enter siren";
+var mnemonic = "slight elder tenant radio edge hospital shaft window bicycle shoulder cook grid";

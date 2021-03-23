@@ -1,1 +1,1 @@
-var mnemonic = "jealous garage harbor video concert carry inmate lonely dry claim volume doctor";
+var mnemonic = "twin unhappy gift royal scare inflict artefact destroy adapt helmet notable option";

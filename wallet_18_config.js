@@ -1,1 +1,1 @@
-var mnemonic = "goose vault idle poem luxury multiply slim garage impact dawn century finish";
+var mnemonic = "equal danger reunion box length frost wire follow relief autumn guard text";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude blush safe snake unfold pyramid example roast airport pluck bulk head";
+var mnemonic = "someone three palace wage useless polar poet arena oil lobster void recycle";

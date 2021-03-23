@@ -1,1 +1,1 @@
-var mnemonic = "hybrid super usage nurse lonely differ mixture monkey bamboo mercy satoshi style";
+var mnemonic = "admit box fantasy exercise gospel twelve grocery surround situate reject credit sample";

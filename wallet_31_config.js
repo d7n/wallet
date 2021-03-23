@@ -1,1 +1,1 @@
-var mnemonic = "main write walnut cliff include custom piece join ticket tree predict funny";
+var mnemonic = "brush flee economy snack wheat skill exchange organ sad scheme artwork wheat";

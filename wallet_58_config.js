@@ -1,1 +1,1 @@
-var mnemonic = "okay notice mango village adjust face price helmet mutual truck ginger rather";
+var mnemonic = "wine protect echo method radar pulse sorry festival senior dismiss easily uncover";

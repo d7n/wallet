@@ -1,1 +1,1 @@
-var mnemonic = "capital lawsuit now luggage call talent zebra sense grid midnight system grit";
+var mnemonic = "kiwi insane friend sudden fortune length side interest base wear caught pyramid";

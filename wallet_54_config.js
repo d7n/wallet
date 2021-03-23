@@ -1,1 +1,1 @@
-var mnemonic = "quarter camp nasty rule blue scrub giraffe ribbon gas decorate guess half";
+var mnemonic = "shed dress master wash alone glad exhaust jeans expose roof much creek";

@@ -1,1 +1,1 @@
-var mnemonic = "rain until boil rain only crush jelly symbol celery lunar civil october";
+var mnemonic = "census awful entry wife sun butter excite behind catch section claw receive";

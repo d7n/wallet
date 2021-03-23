@@ -1,1 +1,1 @@
-var mnemonic = "kite artefact truth horror recipe monitor nerve auto narrow favorite river fabric";
+var mnemonic = "host glow lake sunset thing erosion bag potato safe approve illegal toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "escape trick clarify text science avocado program attitude venue cannon february audit";
+var mnemonic = "clarify abstract primary illness kiss donor round inherit absurd liar zebra pulse";
