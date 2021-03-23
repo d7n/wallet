@@ -1,1 +1,1 @@
-var mnemonic = "cool wife loyal where clap primary hurdle catch child survey denial civil";
+var mnemonic = "million observe patch pupil scissors motion friend hospital category avoid message steak";

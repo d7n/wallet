@@ -1,1 +1,1 @@
-var mnemonic = "trophy staff pave book dawn calm provide biology fury push orbit choice";
+var mnemonic = "truck garage alien impose famous critic hello accuse wreck diary link acoustic";

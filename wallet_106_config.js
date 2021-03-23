@@ -1,1 +1,1 @@
-var mnemonic = "fiber coconut clinic endorse jelly army gospel elegant kiss achieve coyote mimic";
+var mnemonic = "embark point devote asset hybrid engine disagree gallery couple wave scheme figure";

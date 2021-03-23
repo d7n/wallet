@@ -1,1 +1,1 @@
-var mnemonic = "require anchor business sphere garlic meadow bind hurry comfort planet weekend crew";
+var mnemonic = "trust fault burden hurt finger lobster portion develop garden shop stove rebuild";

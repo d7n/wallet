@@ -1,1 +1,1 @@
-var mnemonic = "wrist fancy clinic that avoid pig sad safe angry hollow time sponsor";
+var mnemonic = "sure asset gown menu order soul food record soccer invite blade grain";

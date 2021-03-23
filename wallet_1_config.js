@@ -1,1 +1,1 @@
-var mnemonic = "life elder response have pink canvas dignity neither clay list zebra pet";
+var mnemonic = "arrange front submit apart toilet culture stock able slush hamster window extend";

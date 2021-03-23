@@ -1,1 +1,1 @@
-var mnemonic = "wedding verify scale must mind sun thunder surround salon ensure dragon bone";
+var mnemonic = "payment toe asthma robot affair venue way club strong grass gas candy";

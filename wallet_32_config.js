@@ -1,1 +1,1 @@
-var mnemonic = "learn list worth fence inject neither glue vibrant physical fruit vicious actual";
+var mnemonic = "whip merry unhappy shed simple chat include fatal traffic turtle lottery awesome";

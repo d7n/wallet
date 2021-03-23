@@ -1,1 +1,1 @@
-var mnemonic = "spell bullet naive embrace pistol museum friend spray drift recipe mask wing";
+var mnemonic = "bind party wedding fence eager tank economy myth clip gossip wool avocado";

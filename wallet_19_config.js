@@ -1,1 +1,1 @@
-var mnemonic = "six sketch crunch noodle hollow version plastic stamp economy cram wink fork";
+var mnemonic = "humor wave item embrace glimpse spare liar charge fitness logic cruel oven";

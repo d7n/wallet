@@ -1,1 +1,1 @@
-var mnemonic = "panther poem include face vivid school local minute hobby venture render struggle";
+var mnemonic = "inform mountain attend swallow canoe sell surprise century rate front book fix";

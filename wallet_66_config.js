@@ -1,1 +1,1 @@
-var mnemonic = "razor observe pelican moral inmate hint trim predict aspect profit reject chalk";
+var mnemonic = "ugly scare eager used cat model elegant foot problem limb acquire uniform";

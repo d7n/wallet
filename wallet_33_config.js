@@ -1,1 +1,1 @@
-var mnemonic = "used deposit crew opera nephew tired impose private library divorce blade dance";
+var mnemonic = "course van sort front vocal blame elegant shell cactus used wide smile";

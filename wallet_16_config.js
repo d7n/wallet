@@ -1,1 +1,1 @@
-var mnemonic = "drift already false program blade myself message vibrant uncover twice mobile jaguar";
+var mnemonic = "logic wrong jazz milk scheme saddle quit tilt spirit alcohol tell way";

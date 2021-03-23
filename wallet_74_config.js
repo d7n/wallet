@@ -1,1 +1,1 @@
-var mnemonic = "subject shrimp adjust lend join captain write become shrimp property squirrel oval";
+var mnemonic = "fiction shaft wave unfold calm tattoo torch champion rug arrive chat stomach";

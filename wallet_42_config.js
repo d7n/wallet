@@ -1,1 +1,1 @@
-var mnemonic = "analyst lift slow husband jeans hold gold woman they retire enroll fork";
+var mnemonic = "barely market news gun social bright auction emerge author indoor wealth shell";

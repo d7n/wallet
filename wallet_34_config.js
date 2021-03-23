@@ -1,1 +1,1 @@
-var mnemonic = "gravity strategy trophy doll smart profit cancel chase coral notice olympic pizza";
+var mnemonic = "start vehicle emerge gown surface among grain flower runway awesome dog double";

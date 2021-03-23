@@ -1,1 +1,1 @@
-var mnemonic = "liar pave wet idea mushroom filter trouble spatial cheap awful sentence output";
+var mnemonic = "retire argue beauty report peanut edge predict cable zero ignore relax entire";

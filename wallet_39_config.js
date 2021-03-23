@@ -1,1 +1,1 @@
-var mnemonic = "shy advance tribe ankle tooth tide process become state arena utility fitness";
+var mnemonic = "danger liquid fee robust force cool casino ancient tired spread leaf useful";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic viable door virtual top frown mean swamp organ round lucky marine";
+var mnemonic = "rack display way have gift trumpet glove draft engage dismiss profit feel";

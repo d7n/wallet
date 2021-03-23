@@ -1,1 +1,1 @@
-var mnemonic = "later object income grace afraid arrow journey method girl true language exile";
+var mnemonic = "always captain slim sing shrug stairs play ethics memory school buffalo betray";

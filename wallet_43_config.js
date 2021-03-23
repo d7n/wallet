@@ -1,1 +1,1 @@
-var mnemonic = "quantum multiply color bleak portion female junior explain begin cliff net turkey";
+var mnemonic = "suit baby fuel elite excuse spatial grief base chuckle similar find unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope dress response trick own shrimp lucky virus armed foster unable trophy";
+var mnemonic = "infant mystery humor expose broom october mad repair visual flee bright carbon";

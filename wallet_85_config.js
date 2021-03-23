@@ -1,1 +1,1 @@
-var mnemonic = "wear melt road audit route page dog term warm art grid begin";
+var mnemonic = "ecology future base car boss blush aware luxury main prepare domain hub";

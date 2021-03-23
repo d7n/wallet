@@ -1,1 +1,1 @@
-var mnemonic = "dinner unknown shed crystal feed shift alter know exercise great ozone mimic";
+var mnemonic = "divide say fall across ahead ocean inform pen track resource dwarf nominee";

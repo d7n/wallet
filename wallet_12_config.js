@@ -1,1 +1,1 @@
-var mnemonic = "leave rural youth labor flower ski quiz insane night hospital zero walnut";
+var mnemonic = "myself wave enough usage nurse kite business hawk gallery unable offer explain";

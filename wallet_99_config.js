@@ -1,1 +1,1 @@
-var mnemonic = "flash spring defy imitate hat inmate deal lady patrol dragon drastic danger";
+var mnemonic = "bright lottery ordinary yellow orange borrow icon hurry exercise plastic shuffle tower";

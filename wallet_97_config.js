@@ -1,1 +1,1 @@
-var mnemonic = "fetch close please tunnel tower venue tool toddler crash clarify web force";
+var mnemonic = "electric nuclear hybrid snap oil carpet toilet similar harvest divide innocent pen";

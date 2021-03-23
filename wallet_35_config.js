@@ -1,1 +1,1 @@
-var mnemonic = "camera van flat marriage spot waste allow you roast kit miracle practice";
+var mnemonic = "pool two output popular casual angle gate garden brain pattern buzz glare";

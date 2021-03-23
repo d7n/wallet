@@ -1,1 +1,1 @@
-var mnemonic = "furnace title stuff flame trouble fault cereal expire shop immune cigar category";
+var mnemonic = "when know surge output afraid obtain canoe hunt basket absent drive cost";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise surge excite hurdle unfold harvest labor balcony turn stool liberty diary";
+var mnemonic = "hundred comfort skate neglect book attack squeeze omit urge consider champion bracket";

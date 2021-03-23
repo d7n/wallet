@@ -1,1 +1,1 @@
-var mnemonic = "sight divert biology display swamp once daring excuse final cannon elder ask";
+var mnemonic = "cake nuclear witness ride uncle cattle minute cover bamboo govern either include";

@@ -1,1 +1,1 @@
-var mnemonic = "move bounce basic upgrade moment bronze step merit fish sphere odor expose";
+var mnemonic = "transfer assault enrich swap try exotic choice must vintage spring fiscal carbon";

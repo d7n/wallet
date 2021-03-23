@@ -1,1 +1,1 @@
-var mnemonic = "imitate about ignore illness leaf chicken old shove actress body human second";
+var mnemonic = "seven coil virus barely moon forum cloth wheat report blade vendor second";

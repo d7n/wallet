@@ -1,1 +1,1 @@
-var mnemonic = "main network lazy upgrade oyster equal security advice denial saddle pepper aerobic";
+var mnemonic = "region spin lunar hidden theme final alarm twice pattern canoe country vivid";

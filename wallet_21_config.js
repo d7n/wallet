@@ -1,1 +1,1 @@
-var mnemonic = "tragic mesh wool erase remove struggle diet cargo mask alien cradle damage";
+var mnemonic = "ride vacuum obscure copper civil bicycle lion globe lion mistake pudding fame";

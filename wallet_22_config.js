@@ -1,1 +1,1 @@
-var mnemonic = "walk mosquito cat certain fly thrive surge effort tiger tackle ramp dice";
+var mnemonic = "ugly satoshi inherit agent build chef phone shaft school orphan eye become";

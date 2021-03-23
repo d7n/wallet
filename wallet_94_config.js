@@ -1,1 +1,1 @@
-var mnemonic = "charge vocal kidney access infant assault come evoke table please blur cloud";
+var mnemonic = "enlist excess muscle water slush loud dog grain surprise alley swamp modify";

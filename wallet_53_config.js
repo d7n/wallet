@@ -1,1 +1,1 @@
-var mnemonic = "shrug slam fun orbit laptop toast curve month quality palace theme camera";
+var mnemonic = "census wife human number bench vault fee reopen pudding flower enough warfare";

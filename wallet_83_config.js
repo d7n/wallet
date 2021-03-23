@@ -1,1 +1,1 @@
-var mnemonic = "lift album express shoot raven warfare chat afford car master machine grant";
+var mnemonic = "knife upgrade involve myth anger market talk weather maid soap ice ladder";

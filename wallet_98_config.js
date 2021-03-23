@@ -1,1 +1,1 @@
-var mnemonic = "tomato horror subject tuna rude eye moral cause laptop save rule shoot";
+var mnemonic = "wise asthma arrange hill tone virtual current remove arm rabbit asset outdoor";

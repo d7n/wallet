@@ -1,1 +1,1 @@
-var mnemonic = "mandate tuition laptop mixture dutch cluster jungle story achieve mimic search solve";
+var mnemonic = "buzz usage response knock detail daughter measure assault sure have plastic floor";

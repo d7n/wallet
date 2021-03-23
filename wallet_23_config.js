@@ -1,1 +1,1 @@
-var mnemonic = "bright snake access boil stable convince sniff fox finger artefact museum action";
+var mnemonic = "current mercy urge catalog electric visual fabric mom bacon defense extend artwork";

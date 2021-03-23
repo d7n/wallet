@@ -1,1 +1,1 @@
-var mnemonic = "slot entire senior elbow hundred cool limit weekend find come abuse pair";
+var mnemonic = "oven bubble oppose mass crack drill alcohol april room coffee cost chaos";

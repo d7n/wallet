@@ -1,1 +1,1 @@
-var mnemonic = "fire churn tackle copper time comfort begin repair sphere woman palm brain";
+var mnemonic = "melody bulb ridge wing recipe manual frost maple wool rigid pupil okay";

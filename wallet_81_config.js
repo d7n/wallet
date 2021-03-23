@@ -1,1 +1,1 @@
-var mnemonic = "right street exercise organ squeeze fragile toddler ethics mystery naive version radar";
+var mnemonic = "tone increase amused boost season achieve near mirror note skirt surprise kite";

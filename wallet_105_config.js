@@ -1,1 +1,1 @@
-var mnemonic = "misery area sad insect nest arrest dash actor alpha topple nuclear wrestle";
+var mnemonic = "agent cotton license quit hundred bleak powder calm action thrive decade swamp";

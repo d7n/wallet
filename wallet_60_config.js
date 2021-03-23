@@ -1,1 +1,1 @@
-var mnemonic = "bike unit prepare bone dance job panic antique melody goddess fetch burden";
+var mnemonic = "emerge stem west green drill elegant ordinary rain swap trick lend early";

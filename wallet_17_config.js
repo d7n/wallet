@@ -1,1 +1,1 @@
-var mnemonic = "satoshi shoot lizard museum heavy save possible sail feature popular spoil soul";
+var mnemonic = "noodle issue fit system tip grit model yellow floor around head over";

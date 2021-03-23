@@ -1,1 +1,1 @@
-var mnemonic = "impose rescue summer bar congress breeze stone cereal february ceiling token husband";
+var mnemonic = "sample embark eager car robust defy agent cash fury swift wagon damage";

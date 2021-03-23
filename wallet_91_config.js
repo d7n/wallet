@@ -1,1 +1,1 @@
-var mnemonic = "collect spike genuine solution capable program hope also rug list van supply";
+var mnemonic = "sketch bid empower provide acquire garlic almost cheese dad expand busy local";

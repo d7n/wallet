@@ -1,1 +1,1 @@
-var mnemonic = "solve awful very embody extend bonus input reform sick record zero deposit";
+var mnemonic = "fiction cherry peasant bounce race letter truck tenant tail gallery credit myth";

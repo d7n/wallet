@@ -1,1 +1,1 @@
-var mnemonic = "accuse tell crawl organ piano liquid point injury barely pepper symptom quit";
+var mnemonic = "voyage illegal shell boring equip master such pretty august supply wheat glory";

@@ -1,1 +1,1 @@
-var mnemonic = "fall badge mutual recall enable crunch spend black bargain barely east dice";
+var mnemonic = "skin bean trophy snap nurse bird quick rural price vacant endorse chase";

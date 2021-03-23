@@ -1,1 +1,1 @@
-var mnemonic = "shop net element address radio drama can output orient oval deliver carpet";
+var mnemonic = "oyster valley excuse stage enough parade sword harbor frame steel roast destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "north opera venue grow dignity paper help chef wrist group fun found";
+var mnemonic = "marble leader duty skin fabric click west various panic upgrade actress ostrich";

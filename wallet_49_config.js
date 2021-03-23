@@ -1,1 +1,1 @@
-var mnemonic = "mushroom will fault indicate crime humor true great model phrase cage benefit";
+var mnemonic = "wide wire never credit mountain eyebrow width accident omit open obey open";

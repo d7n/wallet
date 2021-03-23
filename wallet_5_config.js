@@ -1,1 +1,1 @@
-var mnemonic = "bar insect swing injury rude turn flag divorce kite lake rebel concert";
+var mnemonic = "gospel spray foam unknown idle cart collect planet scale clump shoe dutch";

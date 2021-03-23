@@ -1,1 +1,1 @@
-var mnemonic = "cricket ridge turkey black lab green physical fix stomach discover very penalty";
+var mnemonic = "anxiety suffer finish canal trap vague cigar spring another position cross eager";

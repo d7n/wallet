@@ -1,1 +1,1 @@
-var mnemonic = "lottery spoon love situate empty alcohol deliver orphan west eyebrow mix false";
+var mnemonic = "bleak inhale now roof eyebrow shock dignity fall exit side such knife";

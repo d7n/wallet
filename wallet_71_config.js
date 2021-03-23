@@ -1,1 +1,1 @@
-var mnemonic = "super fit once estate woman property side prison response whisper game primary";
+var mnemonic = "injury little head rack stool pig empty asthma wild fringe vicious decorate";

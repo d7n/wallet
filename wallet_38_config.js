@@ -1,1 +1,1 @@
-var mnemonic = "duty junk buddy jazz mention noodle manual buffalo large couple hold income";
+var mnemonic = "burden spend any skin media border matter mistake leaf sister diesel change";

@@ -1,1 +1,1 @@
-var mnemonic = "poem inmate van original robust conduct column enjoy fan forum panther turtle";
+var mnemonic = "radio mind bike wheat cluster night group verify over number labor piano";

@@ -1,1 +1,1 @@
-var mnemonic = "movie daring thank vanish link drastic false trigger sting grass citizen pulse";
+var mnemonic = "robust skull effort concert lava kite law pretty milk insane march exchange";

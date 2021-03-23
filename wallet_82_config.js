@@ -1,1 +1,1 @@
-var mnemonic = "fix useless until climb excite pig syrup boy trumpet frost remind fruit";
+var mnemonic = "grace attack talk ivory pair weapon boil robot lucky lion tiny resist";

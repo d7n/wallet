@@ -1,1 +1,1 @@
-var mnemonic = "prepare quit knee display delay knee donate strong reopen mandate core laundry";
+var mnemonic = "wasp pipe pottery wool dream barrel task injury cruise pigeon gentle bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "history income bridge rebuild fortune eye more number cream release monkey strike";
+var mnemonic = "smooth insect damp kiwi loop panda host praise improve wasp alpha finish";

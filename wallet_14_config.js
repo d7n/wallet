@@ -1,1 +1,1 @@
-var mnemonic = "debate local abandon custom twin remember lazy humble lawn trouble rifle birth";
+var mnemonic = "fame picnic warfare rule gun odor tilt detect unique act lab tenant";

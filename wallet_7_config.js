@@ -1,1 +1,1 @@
-var mnemonic = "worth senior toy ancient rail yard injury glue couch buzz real code";
+var mnemonic = "buddy window glory globe breeze inherit lawsuit host make ignore puppy right";

@@ -1,1 +1,1 @@
-var mnemonic = "egg custom host simple afraid army fog someone shop win public arctic";
+var mnemonic = "other lobster fold trigger letter suffer asset tilt release devote anxiety master";

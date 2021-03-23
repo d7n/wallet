@@ -1,1 +1,1 @@
-var mnemonic = "maple bomb flat blame boring news peasant cross athlete divert feature suit";
+var mnemonic = "finish mechanic acoustic cook license decrease mirror image glimpse pluck yellow weather";

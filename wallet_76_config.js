@@ -1,1 +1,1 @@
-var mnemonic = "quit fiscal jacket inject text cradle arm rebel fatigue fish include connect";
+var mnemonic = "assume useless oval media silver abuse grape grab powder system inform shed";

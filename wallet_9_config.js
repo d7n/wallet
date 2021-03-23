@@ -1,1 +1,1 @@
-var mnemonic = "penalty company easily taste cement claw weird permit camera build pitch prevent";
+var mnemonic = "mirror rib primary giraffe excess dwarf boil grain blush finish this use";

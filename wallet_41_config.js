@@ -1,1 +1,1 @@
-var mnemonic = "own victory cover toward donor label enhance save soup behind across ski";
+var mnemonic = "vibrant choice begin speak common buyer husband panther wait home canvas ski";

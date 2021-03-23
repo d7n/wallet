@@ -1,1 +1,1 @@
-var mnemonic = "width craft gate deny planet cat warfare author since fox mixed select";
+var mnemonic = "survey orphan hawk turtle tilt width puzzle dignity fog blush cute silent";

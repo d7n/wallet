@@ -1,1 +1,1 @@
-var mnemonic = "moon zoo slice august ensure render interest valley vacant choose cradle visa";
+var mnemonic = "erode room multiply correct divorce ostrich horror hamster employ play coach good";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace guide viable domain tree junk around luxury spoon mention human blossom";
+var mnemonic = "cliff earn route alpha kangaroo crash motion lens six wear elite force";

@@ -1,1 +1,1 @@
-var mnemonic = "once turtle axis shrug strike pole dog argue nation patrol evidence core";
+var mnemonic = "drop deny hurt canal talk observe winner execute daughter deliver question pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "blade trim word silly obscure glow ship define admit horror narrow card";
+var mnemonic = "cry record tape call wash absurd olympic leader tortoise ignore common stamp";

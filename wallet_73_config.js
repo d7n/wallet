@@ -1,1 +1,1 @@
-var mnemonic = "link deer glance capital mother wrong document riot science miracle muscle struggle";
+var mnemonic = "beach uphold chimney foster onion cruise bright spell test clap awkward outdoor";

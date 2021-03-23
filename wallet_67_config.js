@@ -1,1 +1,1 @@
-var mnemonic = "tornado link infant file bundle abandon curtain diamond reduce hood okay explain";
+var mnemonic = "talent gossip ski size absurd fault elephant plug equip galaxy pelican into";

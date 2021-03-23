@@ -1,1 +1,1 @@
-var mnemonic = "boat system raven mother nest gate blast used amazing east fashion october";
+var mnemonic = "toy early tree pause speak fan scale connect adult film cereal hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "huge law rabbit liquid whisper language enroll return place truth torch album";
+var mnemonic = "observe toast soda empty young more lake note pumpkin over tenant protect";

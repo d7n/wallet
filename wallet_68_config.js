@@ -1,1 +1,1 @@
-var mnemonic = "sail pilot protect change unhappy damp become upon position will logic blanket";
+var mnemonic = "choice mutual beyond where inhale hundred memory rotate seed amount champion monkey";

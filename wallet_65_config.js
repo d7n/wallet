@@ -1,1 +1,1 @@
-var mnemonic = "idle emotion alter entire worth material vital outside disease captain inquiry ribbon";
+var mnemonic = "scrap wait wish despair erosion bacon minimum urge legend powder crucial current";

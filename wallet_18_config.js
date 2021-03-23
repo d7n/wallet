@@ -1,1 +1,1 @@
-var mnemonic = "raw wave confirm easily atom stock agent board hood voyage assault puzzle";
+var mnemonic = "boat next copper coral jaguar bachelor spoon creek garment ship match release";

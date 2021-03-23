@@ -1,1 +1,1 @@
-var mnemonic = "source vocal pear tray million pulse swim believe admit movie zebra canyon";
+var mnemonic = "degree tuition garden struggle mosquito shadow quiz warrior unique document coffee kite";

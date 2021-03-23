@@ -1,1 +1,1 @@
-var mnemonic = "reform grit august allow mix picnic east glance diet aim bubble boil";
+var mnemonic = "clog vivid diesel will onion faith grunt same service impose daughter accuse";

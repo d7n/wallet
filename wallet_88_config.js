@@ -1,1 +1,1 @@
-var mnemonic = "response cruise dentist segment satoshi during green correct mandate strong weekend flush";
+var mnemonic = "mail fever math rather spawn arrive kitten diary wood figure able tribe";

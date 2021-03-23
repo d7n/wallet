@@ -1,1 +1,1 @@
-var mnemonic = "retreat ankle deal plastic isolate possible leopard receive purity buddy provide icon";
+var mnemonic = "execute confirm tower alien card evoke dinosaur extra afford have follow brisk";
