@@ -1,1 +1,1 @@
-var mnemonic = "match dress banner evil fringe retire chunk unknown salmon short helmet artefact";
+var mnemonic = "water symptom used slab tribe twin neither rifle stove way satoshi click";

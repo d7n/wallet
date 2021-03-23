@@ -1,1 +1,1 @@
-var mnemonic = "obtain useful skirt company common album panic neither horse supreme damp zebra";
+var mnemonic = "same legend flock salad milk crawl shift maple luxury curtain clutch harbor";

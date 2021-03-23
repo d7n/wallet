@@ -1,1 +1,1 @@
-var mnemonic = "cannon orbit awful mechanic slogan anger insane venue luxury word surface metal";
+var mnemonic = "divorce roof flat follow grit finish pair nerve laugh close royal boost";

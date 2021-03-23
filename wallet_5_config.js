@@ -1,1 +1,1 @@
-var mnemonic = "drink sugar dose warm fault claim method pulse step wool crater wood";
+var mnemonic = "bomb record subject hollow slight fade impact neck lock life proud foil";

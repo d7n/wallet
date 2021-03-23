@@ -1,1 +1,1 @@
-var mnemonic = "lava busy problem spike craft tag knee resist survey zoo dice believe";
+var mnemonic = "cloud mixture vault predict pottery indoor census believe only spatial taste omit";

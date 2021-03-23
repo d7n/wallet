@@ -1,1 +1,1 @@
-var mnemonic = "spell answer slab ice baby one clump into brand hedgehog leisure process";
+var mnemonic = "hard lucky abandon awful fork pink record save lottery scout gravity walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "sense audit cake fence approve jaguar divide tent maze hedgehog dignity front";
+var mnemonic = "glory table immense reject winter napkin general decorate forward frost device wink";

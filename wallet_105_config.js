@@ -1,1 +1,1 @@
-var mnemonic = "secret jewel trash matter exchange express vote coral odor emerge hole garment";
+var mnemonic = "fresh lamp garden feature fashion subject quote spoon second chat enforce alcohol";

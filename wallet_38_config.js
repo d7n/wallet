@@ -1,1 +1,1 @@
-var mnemonic = "rifle top save velvet access supreme sample else intact chicken return explain";
+var mnemonic = "panic pepper business train soldier axis spoil two fruit valve skill unit";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse desk brisk melt alien team future example current athlete quiz rabbit";
+var mnemonic = "fluid prefer space tree twice already confirm sock renew fat iron element";

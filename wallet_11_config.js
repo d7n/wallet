@@ -1,1 +1,1 @@
-var mnemonic = "zoo memory frog genius voice merry method price daughter inmate else text";
+var mnemonic = "real tuna soda caught speak sand sugar obey pelican cage near flash";

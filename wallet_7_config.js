@@ -1,1 +1,1 @@
-var mnemonic = "caution antique boring scatter glad exit woman bonus prize emotion hotel coconut";
+var mnemonic = "current crash stairs hover chuckle want hard cargo moral rich enroll action";

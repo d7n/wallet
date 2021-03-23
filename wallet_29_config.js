@@ -1,1 +1,1 @@
-var mnemonic = "label add fetch toward melody secret shift remove imitate okay sample elephant";
+var mnemonic = "claim excite balance arena oyster enlist script domain together charge sketch drink";

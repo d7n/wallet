@@ -1,1 +1,1 @@
-var mnemonic = "rare tired work wrap virus real snap urban transfer safe educate oppose";
+var mnemonic = "main kiwi casino toast busy dinner device organ hungry fiction twist flush";

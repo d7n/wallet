@@ -1,1 +1,1 @@
-var mnemonic = "violin autumn damp drive chronic dog wisdom silver usage parent castle climb";
+var mnemonic = "charge inform fire thought pig decline require foot curious spend device deputy";

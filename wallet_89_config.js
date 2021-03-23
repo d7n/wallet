@@ -1,1 +1,1 @@
-var mnemonic = "sunset gown armed scare weekend ship worry wolf enlist buzz rice exit";
+var mnemonic = "gold video hundred tunnel gas track orient domain hip rug ensure olympic";

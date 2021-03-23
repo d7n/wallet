@@ -1,1 +1,1 @@
-var mnemonic = "ketchup nest erode beach daring suit visit ship close drop ticket double";
+var mnemonic = "equal day sample source fly win civil jaguar raccoon stick identify sudden";

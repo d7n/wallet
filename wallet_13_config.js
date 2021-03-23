@@ -1,1 +1,1 @@
-var mnemonic = "vintage craft ignore coral pull sketch heavy service carpet wolf evoke already";
+var mnemonic = "analyst asset blind parrot organ repair renew clay call virus whisper hundred";

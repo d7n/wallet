@@ -1,1 +1,1 @@
-var mnemonic = "end bless toward term crack hand civil hover amateur error one average";
+var mnemonic = "chuckle bridge finger taste catch tumble leaf kidney guard work annual female";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward indicate young priority amazing shadow devote still myself prefer clock erode";
+var mnemonic = "mystery quick kangaroo faculty desert supreme disagree below later grocery industry flame";

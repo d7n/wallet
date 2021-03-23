@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon asthma myth monkey reward tomato net trip gown dentist artist point";
+var mnemonic = "outside ignore famous island lonely crucial torch zone now pencil easy result";

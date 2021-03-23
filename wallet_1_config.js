@@ -1,1 +1,1 @@
-var mnemonic = "produce flee army vote mushroom loyal picnic concert result become upgrade blade";
+var mnemonic = "slow journey educate song march gas minor monitor muscle food vault pair";

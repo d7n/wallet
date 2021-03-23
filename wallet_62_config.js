@@ -1,1 +1,1 @@
-var mnemonic = "normal between act genius gospel jelly myth dance bulb royal ritual table";
+var mnemonic = "actor peanut someone mutual idea gauge glide civil barrel liberty industry basket";

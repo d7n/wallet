@@ -1,1 +1,1 @@
-var mnemonic = "spike matrix jewel congress denial extra parent differ improve barely yard pride";
+var mnemonic = "twin creek text cake toe arch old zone daring video laundry remember";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid wear vapor section spin hurt treat cash hammer rail attack cruise";
+var mnemonic = "civil oak soft gaze slogan tree input autumn palm skull prevent smoke";

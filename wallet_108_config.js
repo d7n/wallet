@@ -1,1 +1,1 @@
-var mnemonic = "anchor tackle trend clap gate check waste clay tiger rose arena prefer";
+var mnemonic = "motion mammal odor donkey kind art unfold cattle plug penalty fish divide";

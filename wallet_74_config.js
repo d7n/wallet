@@ -1,1 +1,1 @@
-var mnemonic = "table gallery regret vivid flock ketchup surface crater visa reopen airport drill";
+var mnemonic = "vessel gold interest oppose slice brave duck sniff elegant spin belt close";

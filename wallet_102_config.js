@@ -1,1 +1,1 @@
-var mnemonic = "bright fat soldier couch trip science noodle gather train behind figure scan";
+var mnemonic = "another plate garage mirror warrior color abstract solve bitter elbow below nature";

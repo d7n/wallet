@@ -1,1 +1,1 @@
-var mnemonic = "isolate century truth luxury ensure theme exile fatal street catalog expose child";
+var mnemonic = "scorpion keep denial exit utility hurry lonely umbrella hill cruise rude obvious";

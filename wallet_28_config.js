@@ -1,1 +1,1 @@
-var mnemonic = "circle camera loan expect mandate dutch raccoon burst explain blush maximum athlete";
+var mnemonic = "future gift debris annual deliver cliff toast organ merge pink laundry stereo";

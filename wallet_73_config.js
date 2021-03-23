@@ -1,1 +1,1 @@
-var mnemonic = "problem museum alone shine exile relax antique paper foster physical record impact";
+var mnemonic = "poem mammal slogan improve donate panic sight business road virus pet soldier";

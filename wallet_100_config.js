@@ -1,1 +1,1 @@
-var mnemonic = "cool long task divide urge news entry twenty struggle stone surge slice";
+var mnemonic = "property loud stomach peanut ecology when excuse metal leg monitor pulp under";

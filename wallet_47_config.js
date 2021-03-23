@@ -1,1 +1,1 @@
-var mnemonic = "method wisdom check give cruise evil swallow outdoor wheel shoot veteran coin";
+var mnemonic = "glad mask tired great pet museum only ostrich town claim prefer phrase";

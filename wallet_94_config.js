@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur fault hip doctor topic forget brisk poverty federal icon fiction horn";
+var mnemonic = "ripple cereal detect bus face obtain talk empower mountain hockey tattoo join";

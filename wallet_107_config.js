@@ -1,1 +1,1 @@
-var mnemonic = "hub switch unable elder when setup corn copy blanket seminar west canal";
+var mnemonic = "broom sword hair error fame lava reduce divorce dirt near jungle pencil";

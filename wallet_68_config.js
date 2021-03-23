@@ -1,1 +1,1 @@
-var mnemonic = "vast payment surface curtain emotion giggle more truth first cause obvious rebel";
+var mnemonic = "slight crime confirm gentle piece axis crime movie eight crane iron skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "finish among breeze valid butter cup oppose round relief napkin mirror mask";
+var mnemonic = "file bleak glue nation gap jungle fantasy roast ridge attitude primary kind";

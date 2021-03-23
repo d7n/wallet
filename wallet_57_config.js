@@ -1,1 +1,1 @@
-var mnemonic = "price home power offer seat cruel simple treat bean speed couple donkey";
+var mnemonic = "city patrol tail other angry seat apology demise gasp enrich manual silver";

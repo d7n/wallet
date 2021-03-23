@@ -1,1 +1,1 @@
-var mnemonic = "when electric huge pass crumble dance bulb copper holiday struggle enroll person";
+var mnemonic = "valve mango fiction pizza inject grab danger barrel large sentence city repeat";

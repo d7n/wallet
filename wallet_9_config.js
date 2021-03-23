@@ -1,1 +1,1 @@
-var mnemonic = "ecology penalty pretty word ring pyramid silly story hair inspire later range";
+var mnemonic = "absent first hedgehog jaguar unit good pistol grant want memory toss collect";

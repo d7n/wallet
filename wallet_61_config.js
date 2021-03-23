@@ -1,1 +1,1 @@
-var mnemonic = "lift stereo little ice palm pattern result inhale toast siege sunny century";
+var mnemonic = "include film wheat sponsor act sock one stage valve twelve robust bind";

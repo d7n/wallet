@@ -1,1 +1,1 @@
-var mnemonic = "enhance crater student refuse pulp round inflict ranch cluster dad replace void";
+var mnemonic = "drop canal turkey oxygen muscle inmate quote safe famous garlic rubber year";

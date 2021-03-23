@@ -1,1 +1,1 @@
-var mnemonic = "entire wagon ignore leg hip runway access buyer zebra super live mad";
+var mnemonic = "family jazz badge climb approve soap seed thumb buffalo electric minor abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "enough yard chronic then evidence squeeze whisper gesture spatial fun cool endless";
+var mnemonic = "balance account ill actual shock sell habit regular jungle ticket song apart";

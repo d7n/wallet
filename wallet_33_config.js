@@ -1,1 +1,1 @@
-var mnemonic = "credit utility way average drive advance visual frown victory stove home isolate";
+var mnemonic = "deposit olive write wrist rural business tiny inhale gather ride banner civil";

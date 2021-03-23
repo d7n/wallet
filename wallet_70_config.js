@@ -1,1 +1,1 @@
-var mnemonic = "knee feed rail bubble inch shoe special humble crush flag extra sugar";
+var mnemonic = "title empty arrow bus talk open transfer decorate super object believe canvas";

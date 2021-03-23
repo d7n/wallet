@@ -1,1 +1,1 @@
-var mnemonic = "corn exchange sustain roast sand hill ready omit laugh phone gate all";
+var mnemonic = "sock fine cattle critic snow dismiss make solution arrive phrase play fresh";

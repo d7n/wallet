@@ -1,1 +1,1 @@
-var mnemonic = "real million dove reason journey jar rich group copy dutch crunch success";
+var mnemonic = "trophy future answer wasp female music nephew stage divert arctic record eagle";

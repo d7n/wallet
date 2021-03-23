@@ -1,1 +1,1 @@
-var mnemonic = "lucky situate often two game slot only tunnel apart else push wealth";
+var mnemonic = "example embody text utility swallow sponsor tag disagree twist stable regular vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "trip fit ball one bag someone ghost alarm tourist rain grain amount";
+var mnemonic = "embody safe animal blade replace hobby unlock anger obscure social twenty patch";

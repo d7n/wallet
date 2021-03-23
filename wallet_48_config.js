@@ -1,1 +1,1 @@
-var mnemonic = "finger gossip orchard evolve rich enrich planet settle awful light expose sign";
+var mnemonic = "tumble hunt sure daring heavy rifle night sign permit law wrap hawk";

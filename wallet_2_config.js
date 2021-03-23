@@ -1,1 +1,1 @@
-var mnemonic = "real tail garage reform cupboard record bicycle canyon impact during valley deliver";
+var mnemonic = "immense sunset unable tip vital attend blame broom bamboo spread apology glide";

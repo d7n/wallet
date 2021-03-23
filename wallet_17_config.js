@@ -1,1 +1,1 @@
-var mnemonic = "castle deposit imitate arctic other economy deposit easy struggle hole rib edge";
+var mnemonic = "item dawn horn decrease detail congress always slender note say truck weasel";

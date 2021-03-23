@@ -1,1 +1,1 @@
-var mnemonic = "salmon maple pattern ridge salute coin process danger useless attract hen picnic";
+var mnemonic = "pear merge lyrics cigar riot nice fitness mystery vacant oven casual foot";

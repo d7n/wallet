@@ -1,1 +1,1 @@
-var mnemonic = "rare million purse that push world install oblige mango beach human tell";
+var mnemonic = "genre never virus mimic final embody inflict salt slow noise paddle public";

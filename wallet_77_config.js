@@ -1,1 +1,1 @@
-var mnemonic = "federal accident large have treat lizard enhance rebel absurd govern icon bench";
+var mnemonic = "hybrid imitate together captain hat autumn vivid extra stumble ankle session globe";

@@ -1,1 +1,1 @@
-var mnemonic = "essay skull penalty like brother planet vicious provide holiday pulp burger slab";
+var mnemonic = "flavor valve purpose wage visa marriage cram width alpha about screen butter";

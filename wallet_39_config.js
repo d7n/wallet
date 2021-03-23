@@ -1,1 +1,1 @@
-var mnemonic = "trust giggle embody mimic neglect anxiety jealous sick water someone spread print";
+var mnemonic = "skate size sadness when tomato true wagon insect depart young awake label";

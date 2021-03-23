@@ -1,1 +1,1 @@
-var mnemonic = "practice wild catalog you cook series doctor lazy like design onion fan";
+var mnemonic = "desert knee exact motion matrix metal half viable fiction lawsuit kid there";

@@ -1,1 +1,1 @@
-var mnemonic = "dress shrug sweet crop track hip post question right rough evoke hello";
+var mnemonic = "promote tattoo panda load border symptom exile deer picnic slide prize agree";

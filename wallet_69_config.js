@@ -1,1 +1,1 @@
-var mnemonic = "city wrap dwarf cake force neither anchor uphold segment enable liar deer";
+var mnemonic = "hour crop share put track exact force minute expand vocal hazard example";

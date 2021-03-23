@@ -1,1 +1,1 @@
-var mnemonic = "convince defy endorse anchor cause right fan feed ticket hip fatal mind";
+var mnemonic = "verb toss choice viable author worry age police close you today wreck";

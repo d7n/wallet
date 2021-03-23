@@ -1,1 +1,1 @@
-var mnemonic = "tape frog marble exhibit ranch front ball harsh antenna submit man right";
+var mnemonic = "outer knife scene genuine welcome file aspect garden what describe tattoo degree";

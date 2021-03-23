@@ -1,1 +1,1 @@
-var mnemonic = "pull where bicycle evoke frame reward barrel describe bread erupt seek belt";
+var mnemonic = "giggle quality angry brain return rhythm demise black alpha parrot essence economy";

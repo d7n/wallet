@@ -1,1 +1,1 @@
-var mnemonic = "tattoo tiny cloud liar few buffalo lobster speak monkey kiss anger twice";
+var mnemonic = "audit chronic lunar orchard excuse twin distance dream sibling reform cupboard wire";

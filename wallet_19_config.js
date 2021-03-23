@@ -1,1 +1,1 @@
-var mnemonic = "awesome corn glance pattern member stamp merge shoulder affair limb travel solution";
+var mnemonic = "lake issue endless uncle lab panther input during control inquiry mutual dragon";

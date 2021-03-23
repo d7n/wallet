@@ -1,1 +1,1 @@
-var mnemonic = "edit burden siege beauty advice front deliver vendor elephant twice glue mass";
+var mnemonic = "curious image today pulse win resemble post roast theme table armor eyebrow";

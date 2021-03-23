@@ -1,1 +1,1 @@
-var mnemonic = "jeans orient course dismiss adapt rifle foil build under vapor nephew into";
+var mnemonic = "anger indoor kick depth fragile grunt puppy script picture cupboard name fury";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie swamp once knife shed balance slow vital swing alter empty ladder";
+var mnemonic = "steak parrot search orange square trigger grass empower hurdle worth assume fit";

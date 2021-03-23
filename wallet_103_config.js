@@ -1,1 +1,1 @@
-var mnemonic = "assume dice toast muffin vehicle amused upset blind beyond bring entire chase";
+var mnemonic = "affair age amazing cinnamon jeans correct two invite age answer liberty any";

@@ -1,1 +1,1 @@
-var mnemonic = "design pause offer allow medal behind wire clay shine front fork tool";
+var mnemonic = "engage blue about juice state hen scrub warfare hurdle moon wool apart";

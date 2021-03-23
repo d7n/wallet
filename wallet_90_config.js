@@ -1,1 +1,1 @@
-var mnemonic = "success jeans split wrap bundle lawsuit love pool damage buzz cross price";
+var mnemonic = "list major hurt sight nice private attract trim found rhythm enforce doll";

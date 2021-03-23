@@ -1,1 +1,1 @@
-var mnemonic = "whip raise spice solar truck welcome olympic now never bachelor dinner mask";
+var mnemonic = "coin code glance noise address garage naive rail media unit device light";

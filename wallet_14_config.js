@@ -1,1 +1,1 @@
-var mnemonic = "pulp achieve sand bird regret actor stock web excess material trap caught";
+var mnemonic = "culture can wool gesture risk field demand hurt win shine strategy case";

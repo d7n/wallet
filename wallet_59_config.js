@@ -1,1 +1,1 @@
-var mnemonic = "treat blanket twin state organ peanut someone project zero canvas begin strategy";
+var mnemonic = "radio husband float pool together miracle envelope tenant garage polar achieve impact";

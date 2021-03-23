@@ -1,1 +1,1 @@
-var mnemonic = "improve vague there borrow major unit laptop prison hole casino toy virtual";
+var mnemonic = "gift satoshi bar toast blanket liar twice enjoy unable betray situate pipe";

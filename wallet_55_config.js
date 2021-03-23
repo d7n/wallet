@@ -1,1 +1,1 @@
-var mnemonic = "seven tumble rare smile flag mother bulk put attend reveal guitar tower";
+var mnemonic = "arena expect child speed west lawsuit february grunt extra unveil crater scatter";

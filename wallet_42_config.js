@@ -1,1 +1,1 @@
-var mnemonic = "panther car december sea between letter else jelly battle cement axis portion";
+var mnemonic = "seven child toilet fire ticket subject sausage agree now arrest vapor visual";

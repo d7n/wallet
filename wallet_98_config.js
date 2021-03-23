@@ -1,1 +1,1 @@
-var mnemonic = "average same flip soda travel between grain ball volume off mention critic";
+var mnemonic = "remain welcome derive cattle perfect document decrease elder flash stem drop skirt";

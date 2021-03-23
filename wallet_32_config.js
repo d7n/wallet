@@ -1,1 +1,1 @@
-var mnemonic = "castle grant bunker disorder link school father nose whale video year enforce";
+var mnemonic = "virus tip invite sketch slam human text drama cruise sweet nation lyrics";

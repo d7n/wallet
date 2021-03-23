@@ -1,1 +1,1 @@
-var mnemonic = "attitude video pet error silent vehicle aunt theme disorder champion carpet suit";
+var mnemonic = "practice casual alone purchase fuel avoid blur major pony sibling autumn wing";

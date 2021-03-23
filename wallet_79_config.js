@@ -1,1 +1,1 @@
-var mnemonic = "police bone voyage layer coffee collect wisdom super foot distance caution ignore";
+var mnemonic = "wrestle gift virtual museum idea sail loyal ship twin hood panda search";

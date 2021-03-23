@@ -1,1 +1,1 @@
-var mnemonic = "phrase canal drastic movie gloom lava boil rent accident vital three ramp";
+var mnemonic = "install waste distance reform traffic carry shock feel gaze spare verb dutch";

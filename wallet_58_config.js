@@ -1,1 +1,1 @@
-var mnemonic = "fever leave this garlic woman feel patient exist era swarm jaguar riot";
+var mnemonic = "priority inherit high imitate dynamic dignity toss again anxiety course bulk degree";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe slogan property grocery episode quality female source casual furnace hill wreck";
+var mnemonic = "safe evolve what skin announce exclude gift unique brain dog appear gallery";

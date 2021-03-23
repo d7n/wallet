@@ -1,1 +1,1 @@
-var mnemonic = "broken link swift better unusual twist smart reduce upgrade arrive luxury admit";
+var mnemonic = "trial chef barrel timber various pilot lava before host top mammal fox";

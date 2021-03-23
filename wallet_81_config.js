@@ -1,1 +1,1 @@
-var mnemonic = "enact fat crystal exchange real husband ice protect often orbit unable civil";
+var mnemonic = "vault awake height build cherry plug slim scout basket asset rough much";

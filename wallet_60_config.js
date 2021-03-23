@@ -1,1 +1,1 @@
-var mnemonic = "fragile void sorry economy airport claw father gift furnace forum element pretty";
+var mnemonic = "problem humble idea popular midnight flat naive poem journey fury crouch rose";

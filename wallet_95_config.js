@@ -1,1 +1,1 @@
-var mnemonic = "twelve rely team stereo husband cargo repeat calm club sorry funny about";
+var mnemonic = "mad setup curtain crucial rally trick say vicious shrimp unhappy jaguar thought";

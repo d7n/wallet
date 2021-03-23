@@ -1,1 +1,1 @@
-var mnemonic = "design morning tiger napkin mechanic scale record whale unit speak promote depend";
+var mnemonic = "essay town baby consider barrel category page target grow grief pond upset";
