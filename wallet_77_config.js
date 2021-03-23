@@ -1,1 +1,1 @@
-var mnemonic = "spell method shell begin liberty employ smile buyer eyebrow program heart jazz";
+var mnemonic = "verb cram kitten bachelor seven pizza mind exit churn visit help reveal";

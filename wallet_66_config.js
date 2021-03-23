@@ -1,1 +1,1 @@
-var mnemonic = "tip window useless rotate canal velvet corn need produce wedding team violin";
+var mnemonic = "people flame exercise type twist steel work salon egg copper typical act";

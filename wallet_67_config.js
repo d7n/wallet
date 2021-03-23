@@ -1,1 +1,1 @@
-var mnemonic = "vote sauce snow gym ocean foam video fence duck film perfect confirm";
+var mnemonic = "long pilot time romance butter trophy exclude detail nominee woman ring cupboard";

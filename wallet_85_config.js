@@ -1,1 +1,1 @@
-var mnemonic = "tattoo helmet honey april tuna merit water brave poet mandate erosion insane";
+var mnemonic = "bone curious this found until jungle snack useful decline produce warfare drink";

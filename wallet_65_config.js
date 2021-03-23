@@ -1,1 +1,1 @@
-var mnemonic = "race bunker pulse episode monitor away cargo fox seek tree stove smart";
+var mnemonic = "canyon tortoise human marriage moral job dutch buffalo rent earth outer phrase";

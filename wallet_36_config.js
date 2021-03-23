@@ -1,1 +1,1 @@
-var mnemonic = "rough purse chronic cram subject wide champion blast language supreme sorry atom";
+var mnemonic = "tell rocket ball dirt cereal quick dash clerk praise symptom survey travel";

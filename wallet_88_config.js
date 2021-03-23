@@ -1,1 +1,1 @@
-var mnemonic = "run sure false know among accident lava kick pistol moral boy federal";
+var mnemonic = "spawn castle occur scout depend eagle spice wheat museum donkey jacket knife";

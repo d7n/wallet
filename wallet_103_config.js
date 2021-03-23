@@ -1,1 +1,1 @@
-var mnemonic = "lottery choose help average vintage whip pyramid tomato hill inflict end neglect";
+var mnemonic = "speed usage rose art hard narrow wasp next oak master spray drink";

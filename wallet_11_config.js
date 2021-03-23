@@ -1,1 +1,1 @@
-var mnemonic = "vendor any great excite deer kidney garment fossil absorb gate blue gallery";
+var mnemonic = "sausage salon oven great random basic acoustic rose fee library trial journey";

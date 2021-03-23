@@ -1,1 +1,1 @@
-var mnemonic = "slice fashion limit cross chat skin learn home tooth flight swim fatal";
+var mnemonic = "car thing account capable bright then exclude document exact stage glass barrel";

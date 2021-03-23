@@ -1,1 +1,1 @@
-var mnemonic = "host fix symptom grief century umbrella replace exchange differ expand slogan crucial";
+var mnemonic = "inch apology story story expire trumpet basic clown game truly swarm song";

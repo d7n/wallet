@@ -1,1 +1,1 @@
-var mnemonic = "length hood empower depend miracle thunder impulse prevent wrong equip uniform away";
+var mnemonic = "law evil health amazing leader spike deny bid noise satisfy annual upset";

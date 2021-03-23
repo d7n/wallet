@@ -1,1 +1,1 @@
-var mnemonic = "shuffle neglect drink plate uncle consider wreck narrow remember blast spell laptop";
+var mnemonic = "paddle pride satisfy fever asset enact rent phrase chief cupboard document wait";

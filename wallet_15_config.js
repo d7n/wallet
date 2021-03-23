@@ -1,1 +1,1 @@
-var mnemonic = "tobacco reward claim cry hawk end era slot below alien mistake undo";
+var mnemonic = "add river famous young method lecture emerge wheel million slush injury jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid cluster alley empower lottery icon option update indicate maid humble leg";
+var mnemonic = "guess portion planet swarm culture bronze core party trend shop book flame";

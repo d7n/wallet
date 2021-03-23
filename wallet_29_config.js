@@ -1,1 +1,1 @@
-var mnemonic = "seven distance pistol recipe balance secret rescue acoustic famous witness attack snow";
+var mnemonic = "pond common coin interest vehicle forget cave kidney remember void swift chief";

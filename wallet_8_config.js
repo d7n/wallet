@@ -1,1 +1,1 @@
-var mnemonic = "tattoo area waste wrong injury fan green return tiny curtain mixture earth";
+var mnemonic = "keep fade draw milk moral child giant turn cloud swim garbage bamboo";

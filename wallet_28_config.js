@@ -1,1 +1,1 @@
-var mnemonic = "loud advance clip sugar sight mango daughter museum zoo chaos protect bread";
+var mnemonic = "invest foam elephant hold find draft boy science panel kidney seat practice";

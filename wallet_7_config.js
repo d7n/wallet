@@ -1,1 +1,1 @@
-var mnemonic = "future found wide street wet spice camera slim speed limit van input";
+var mnemonic = "company type strong loyal elegant tissue carbon ridge sick bonus monkey defense";

@@ -1,1 +1,1 @@
-var mnemonic = "essay color buyer tool motion salon depend dial vicious evoke tenant wave";
+var mnemonic = "voice oblige earn rigid multiply solid resemble crunch salute happy will gate";

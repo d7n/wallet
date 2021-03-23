@@ -1,1 +1,1 @@
-var mnemonic = "skate fortune crisp engine rifle negative sad broom tissue model moral erode";
+var mnemonic = "scrap payment until pet budget thunder humor fish avoid type pluck rookie";

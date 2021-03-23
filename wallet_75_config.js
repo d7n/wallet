@@ -1,1 +1,1 @@
-var mnemonic = "orphan maid source south royal gown skirt genius pipe rigid panda parade";
+var mnemonic = "clean meat pencil beauty enlist assume horse again report enemy access spread";

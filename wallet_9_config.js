@@ -1,1 +1,1 @@
-var mnemonic = "mansion turkey fox pupil attract festival omit say impulse onion during black";
+var mnemonic = "blossom nation awesome urge tray nose opera rifle advice broccoli tonight shoulder";

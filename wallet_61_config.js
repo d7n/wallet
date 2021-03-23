@@ -1,1 +1,1 @@
-var mnemonic = "drastic cushion velvet park iron tilt above parade pigeon butter path wood";
+var mnemonic = "display extra runway top target crystal lab vacant imitate brick diesel ready";

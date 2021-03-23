@@ -1,1 +1,1 @@
-var mnemonic = "spare balcony second rescue tell glue neck orange swift jungle bundle afford";
+var mnemonic = "glue power jazz siege exotic insect final tobacco office nature wet volcano";

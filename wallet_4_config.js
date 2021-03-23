@@ -1,1 +1,1 @@
-var mnemonic = "raccoon expose puppy enact hood intact emotion loan conduct emotion forget achieve";
+var mnemonic = "dog globe diary find torch notice desk arrest dove gentle black grit";

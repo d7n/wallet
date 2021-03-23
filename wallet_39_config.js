@@ -1,1 +1,1 @@
-var mnemonic = "quiz humor end grid wing recycle eight boost force accuse dry unaware";
+var mnemonic = "outer atom decorate panther hawk hidden finger budget tank alien half unaware";

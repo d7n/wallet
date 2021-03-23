@@ -1,1 +1,1 @@
-var mnemonic = "vault dream accuse act library ill wagon peace airport about collect quarter";
+var mnemonic = "pull security broom vacuum bicycle stadium toddler sniff mistake bless fancy dutch";

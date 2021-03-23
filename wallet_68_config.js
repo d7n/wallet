@@ -1,1 +1,1 @@
-var mnemonic = "layer glory good worth eyebrow weasel husband cattle fantasy play comic glide";
+var mnemonic = "design illness vapor clock allow drip busy verify zoo invest wild height";

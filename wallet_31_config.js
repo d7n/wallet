@@ -1,1 +1,1 @@
-var mnemonic = "scan menu breeze crater clog route scatter game light emotion travel mesh";
+var mnemonic = "dismiss noise habit upgrade stand speak coil crash fitness cancel barely sudden";

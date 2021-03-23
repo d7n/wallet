@@ -1,1 +1,1 @@
-var mnemonic = "also deer unable leaf manual slot bubble team angle goat weapon decide";
+var mnemonic = "language nest ankle demise vapor fetch alarm occur else segment humble keen";

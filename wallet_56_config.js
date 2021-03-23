@@ -1,1 +1,1 @@
-var mnemonic = "change chase dress gas lab motion pole menu educate unaware pupil puppy";
+var mnemonic = "social vessel update minor soul loan tackle culture domain blame vault caution";

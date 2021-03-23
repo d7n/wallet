@@ -1,1 +1,1 @@
-var mnemonic = "carbon spin diary correct naive unable concert letter slam south knife harvest";
+var mnemonic = "again domain tip garlic innocent old fire doll inquiry quality flip will";

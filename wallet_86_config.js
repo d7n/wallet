@@ -1,1 +1,1 @@
-var mnemonic = "magic advice match cupboard pretty addict roof wash guitar health engine firm";
+var mnemonic = "shove rich advice mandate notable hammer core cabin magic actor kitchen wrap";

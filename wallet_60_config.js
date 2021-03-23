@@ -1,1 +1,1 @@
-var mnemonic = "fitness priority club scene draw portion used radio spin sniff struggle fine";
+var mnemonic = "chair select sound brain update parent green smoke announce lunch cinnamon chaos";

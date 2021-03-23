@@ -1,1 +1,1 @@
-var mnemonic = "essence sudden diet connect blossom absurd turn census just tomorrow blame bone";
+var mnemonic = "initial width soda burden proof girl bleak slush humor teach dinosaur airport";

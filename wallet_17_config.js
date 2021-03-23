@@ -1,1 +1,1 @@
-var mnemonic = "muffin unable enjoy rocket transfer finger fancy main bag donate floor remain";
+var mnemonic = "lunar shock hub rent rifle model indoor amateur butter raise miracle alert";

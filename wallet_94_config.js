@@ -1,1 +1,1 @@
-var mnemonic = "bunker region youth jeans warrior empty kit solution fiscal pond away clinic";
+var mnemonic = "coconut license core disagree canal humble title chief melody load such adapt";

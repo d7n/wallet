@@ -1,1 +1,1 @@
-var mnemonic = "muffin math leg item cool law salmon raccoon phrase funny require quantum";
+var mnemonic = "habit minute miss choose oblige mystery feel barely rug inquiry lawsuit analyst";

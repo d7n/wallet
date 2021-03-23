@@ -1,1 +1,1 @@
-var mnemonic = "wrist lens promote measure decline orange review inquiry flame include false similar";
+var mnemonic = "destroy aunt blast become road dance gloom save marine bright six sustain";

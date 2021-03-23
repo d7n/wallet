@@ -1,1 +1,1 @@
-var mnemonic = "drastic success sleep decorate cargo used ensure ordinary render setup elevator immense";
+var mnemonic = "wheat remember net rude express check nurse coach diary animal okay dream";

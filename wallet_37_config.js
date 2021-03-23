@@ -1,1 +1,1 @@
-var mnemonic = "wall whale uncle about try trade owner onion pond tray cattle life";
+var mnemonic = "dash tobacco acid layer spatial among lunch indicate wonder tiny people submit";

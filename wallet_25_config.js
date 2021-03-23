@@ -1,1 +1,1 @@
-var mnemonic = "drum hunt elephant club rifle cigar unlock close play daughter peasant skate";
+var mnemonic = "road lava must frozen tail chunk lawn bunker cute chef birth favorite";

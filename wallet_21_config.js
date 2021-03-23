@@ -1,1 +1,1 @@
-var mnemonic = "churn trust field repeat kitten damage convince fold chapter stereo code list";
+var mnemonic = "vague letter rare faculty select bird test time jungle vault aim someone";

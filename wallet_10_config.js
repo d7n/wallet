@@ -1,1 +1,1 @@
-var mnemonic = "hole seek lady taxi spice walk leaf stairs because orient move train";
+var mnemonic = "scout gate divide script pen captain keep marble average timber arrange engine";

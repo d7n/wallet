@@ -1,1 +1,1 @@
-var mnemonic = "direct way afraid farm slab snap save clay loop volcano approve soft";
+var mnemonic = "suit act purchase salon cabbage make lecture mutual pet tuna siren credit";

@@ -1,1 +1,1 @@
-var mnemonic = "gate address silent grunt hammer minor belt during disagree short fall bridge";
+var mnemonic = "hard latin crunch write giggle clarify absorb ghost couple spoon art photo";

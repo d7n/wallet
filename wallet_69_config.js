@@ -1,1 +1,1 @@
-var mnemonic = "noodle awful else argue game comfort popular siege viable artwork syrup job";
+var mnemonic = "near quarter case merry bonus entry tourist idle tattoo pumpkin lens team";

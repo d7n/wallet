@@ -1,1 +1,1 @@
-var mnemonic = "isolate arch cram now because hunt small evil primary display fat burden";
+var mnemonic = "duty knife include over adjust base speak awkward spare butter treat weekend";

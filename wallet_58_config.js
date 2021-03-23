@@ -1,1 +1,1 @@
-var mnemonic = "time enemy antenna confirm draw decade hour rabbit empty banner wagon pilot";
+var mnemonic = "palace coin attend laugh doll vicious west crazy poet more sound humble";

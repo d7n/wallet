@@ -1,1 +1,1 @@
-var mnemonic = "then luggage pluck frozen hospital flat canoe custom hollow tuna defy error";
+var mnemonic = "evolve relax airport usage race dance rice clarify awful crunch special inside";

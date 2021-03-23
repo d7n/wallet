@@ -1,1 +1,1 @@
-var mnemonic = "lyrics other patch remain social piece chaos artefact above pair good alien";
+var mnemonic = "diagram average voyage guilt violin good style edit story follow pride visual";

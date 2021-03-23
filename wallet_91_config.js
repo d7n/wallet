@@ -1,1 +1,1 @@
-var mnemonic = "afraid almost harsh energy trap project similar shoulder sign utility gravity wish";
+var mnemonic = "dove quiz sustain snap shadow thing bomb base sound connect unfair silly";

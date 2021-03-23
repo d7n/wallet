@@ -1,1 +1,1 @@
-var mnemonic = "describe behind blade ready hunt marble reunion wood choice gesture news aisle";
+var mnemonic = "bachelor bundle select near lock pudding vacant sphere stage miss choice limb";

@@ -1,1 +1,1 @@
-var mnemonic = "attack cancel wedding motion uniform flag version similar early tiny knee female";
+var mnemonic = "blood hospital melt alone fetch physical canal ribbon later input stomach believe";

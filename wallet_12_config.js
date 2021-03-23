@@ -1,1 +1,1 @@
-var mnemonic = "win purchase ship impose remember limit bone coffee angle avocado genre wrist";
+var mnemonic = "pattern comfort learn heart noodle vehicle detail analyst youth side spot client";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling turn frog spider lawsuit tuna during brain shoot skill velvet health";
+var mnemonic = "project funny fiscal drip erase climb pilot diesel base matrix antenna great";

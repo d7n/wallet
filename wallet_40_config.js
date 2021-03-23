@@ -1,1 +1,1 @@
-var mnemonic = "horse alone bless punch badge bean save proud follow trigger student club";
+var mnemonic = "sock upon lesson position good fossil spirit spawn divide shy draw pyramid";

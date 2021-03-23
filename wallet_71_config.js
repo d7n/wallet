@@ -1,1 +1,1 @@
-var mnemonic = "grunt purse same lounge present profit diagram length cover thunder stuff junk";
+var mnemonic = "regular farm action blind purse system bonus drift jaguar enemy tuna core";

@@ -1,1 +1,1 @@
-var mnemonic = "open assist tool home portion reflect risk arctic fiber oxygen easily tide";
+var mnemonic = "orange curve stable engage various repeat inherit priority obey mention scene faint";

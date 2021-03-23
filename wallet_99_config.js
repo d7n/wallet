@@ -1,1 +1,1 @@
-var mnemonic = "host undo enrich deal shy client tourist endless conduct crush faint slogan";
+var mnemonic = "ability express slight vehicle script salt hunt rough bracket powder million truth";

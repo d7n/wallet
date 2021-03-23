@@ -1,1 +1,1 @@
-var mnemonic = "win kangaroo whip acquire adult gym sand year law price cream north";
+var mnemonic = "phrase long blood romance scan mule lawsuit harsh action fancy quality nut";

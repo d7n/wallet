@@ -1,1 +1,1 @@
-var mnemonic = "butter entry shed survey time pumpkin base alcohol toe rabbit winner expose";
+var mnemonic = "vague lawn milk radar slogan misery elegant document mad twenty access girl";

@@ -1,1 +1,1 @@
-var mnemonic = "shop hurry copy venture okay mushroom lottery annual swallow cement photo open";
+var mnemonic = "blade friend promote cash update ridge real almost galaxy useful ball cheap";

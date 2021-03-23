@@ -1,1 +1,1 @@
-var mnemonic = "jewel arena raw twenty impulse spice motor receive smart vocal critic tone";
+var mnemonic = "whale flash bonus cook early youth system shiver position page inflict mystery";

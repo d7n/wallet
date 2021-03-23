@@ -1,1 +1,1 @@
-var mnemonic = "upset rapid bulb wreck sunset sea scale crush excess interest cluster surge";
+var mnemonic = "soon senior forget lonely movie vendor shaft scissors apart correct slim kit";

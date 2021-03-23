@@ -1,1 +1,1 @@
-var mnemonic = "age hockey tower cabin switch shine grocery imitate bicycle label differ alcohol";
+var mnemonic = "three claw velvet rather select luggage shaft sausage during raccoon subject juice";

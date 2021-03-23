@@ -1,1 +1,1 @@
-var mnemonic = "vessel leopard sleep wife announce spider borrow salute bulb recall hole foster";
+var mnemonic = "siren include measure figure please love bulk crop sense voice put polar";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy work crack fit wave proof region view long labor guilt practice";
+var mnemonic = "connect daring involve resemble wait rare strategy orange popular sadness novel supreme";

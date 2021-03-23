@@ -1,1 +1,1 @@
-var mnemonic = "flame oyster scatter adjust dry hurdle garden jealous dwarf oxygen push cage";
+var mnemonic = "woman machine boss quantum under afraid reason proud all carbon volume term";

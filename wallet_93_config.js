@@ -1,1 +1,1 @@
-var mnemonic = "forward sight betray tongue rotate beach cram size saddle notice choose process";
+var mnemonic = "robust gorilla reward wisdom betray sail another diagram immune lock mountain task";

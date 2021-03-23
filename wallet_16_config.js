@@ -1,1 +1,1 @@
-var mnemonic = "tobacco right frown license lake trend broom alert bench mountain object text";
+var mnemonic = "token whisper hood duty cave scheme outside ripple meat hollow hold spoil";

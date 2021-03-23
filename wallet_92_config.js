@@ -1,1 +1,1 @@
-var mnemonic = "enact marine always warfare couch animal fiscal disagree swear hollow harsh couch";
+var mnemonic = "work shell pelican ability era blind vehicle rotate demand cruise gasp thank";

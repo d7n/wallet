@@ -1,1 +1,1 @@
-var mnemonic = "bamboo bargain august fold leaf dad exhibit bitter reduce era admit taxi";
+var mnemonic = "measure fix sound alone peanut proud palm ocean brave vessel dove juice";

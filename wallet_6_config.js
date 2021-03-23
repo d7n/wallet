@@ -1,1 +1,1 @@
-var mnemonic = "shallow soldier hurt melody cart dutch idle disagree tooth spell mammal pupil";
+var mnemonic = "sleep citizen kangaroo ugly repair velvet pink arctic off oppose curtain spawn";

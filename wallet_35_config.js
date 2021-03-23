@@ -1,1 +1,1 @@
-var mnemonic = "short lumber oblige call special rely budget shiver yellow insane arctic puzzle";
+var mnemonic = "camera ice loyal erase exact negative rhythm sign bind visual width hen";

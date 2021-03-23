@@ -1,1 +1,1 @@
-var mnemonic = "cheese bridge rebel coil grit air bind cool patch merge bubble yellow";
+var mnemonic = "feed venture tree sport document second life hole coin time veteran cabbage";

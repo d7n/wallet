@@ -1,1 +1,1 @@
-var mnemonic = "sauce labor grocery horse song evidence push wine fresh defy canoe thrive";
+var mnemonic = "core uphold viable slice panel quit rent wise balance final maximum primary";

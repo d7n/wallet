@@ -1,1 +1,1 @@
-var mnemonic = "clinic fish gift hollow medal sense swarm transfer diamond route fix case";
+var mnemonic = "marine devote teach change spike erupt air oval vote wild physical indicate";

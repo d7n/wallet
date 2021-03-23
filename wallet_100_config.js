@@ -1,1 +1,1 @@
-var mnemonic = "tank daring vehicle throw mobile damp brief stick shrug canoe spider aspect";
+var mnemonic = "remind grocery april spike fine husband radio evil exercise movie dolphin domain";

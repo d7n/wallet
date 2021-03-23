@@ -1,1 +1,1 @@
-var mnemonic = "table build edge effort benefit width left salute place wealth wide situate";
+var mnemonic = "flip romance flag critic paddle boat crew popular alcohol elbow valley purse";

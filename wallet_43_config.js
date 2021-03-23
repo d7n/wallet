@@ -1,1 +1,1 @@
-var mnemonic = "second demand oven alarm tree visa stereo benefit gasp add index there";
+var mnemonic = "practice drink know else stem unable mix legal own screen media subject";

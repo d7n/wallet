@@ -1,1 +1,1 @@
-var mnemonic = "glory cross best screen rare talk can replace appear dream way neutral";
+var mnemonic = "kit toast tag minor address claw mobile right fork hope fluid clock";

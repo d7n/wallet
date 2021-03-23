@@ -1,1 +1,1 @@
-var mnemonic = "warrior allow fever crop rail spice hip code dog illegal truth world";
+var mnemonic = "muscle symbol warrior legend hat clerk isolate weasel trial repeat lobster bean";

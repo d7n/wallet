@@ -1,1 +1,1 @@
-var mnemonic = "cherry village forward runway keep shoot whisper tourist cloth swarm swim sleep";
+var mnemonic = "injury skin moment shift target know bench welcome option shaft swarm wagon";

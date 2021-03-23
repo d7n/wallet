@@ -1,1 +1,1 @@
-var mnemonic = "office float style pave dawn awesome loud found tube lounge select again";
+var mnemonic = "before deer act beauty month over replace poet rug friend clerk wedding";

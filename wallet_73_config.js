@@ -1,1 +1,1 @@
-var mnemonic = "drastic congress suffer glare duty payment picnic flower renew muffin cave crack";
+var mnemonic = "mistake soup child impulse main glove alcohol expect beach best kidney message";

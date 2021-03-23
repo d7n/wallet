@@ -1,1 +1,1 @@
-var mnemonic = "smoke ridge until blanket glimpse blast top pet twist food window garden";
+var mnemonic = "replace action mixed useful original maid bunker venue element labor liquid snap";

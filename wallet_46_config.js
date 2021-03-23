@@ -1,1 +1,1 @@
-var mnemonic = "stumble swarm slim illegal zebra soccer tornado unaware play detect sign album";
+var mnemonic = "oil payment gym reveal talk tobacco ill romance property acquire alert category";

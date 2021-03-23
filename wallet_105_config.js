@@ -1,1 +1,1 @@
-var mnemonic = "ugly nest festival script depart execute govern together lizard water exchange dry";
+var mnemonic = "report original yellow pink shove save smooth salad wolf argue sun inflict";

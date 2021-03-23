@@ -1,1 +1,1 @@
-var mnemonic = "swift idea december diesel tackle metal fortune define cook legend found fantasy";
+var mnemonic = "recall uncover gravity much sample federal labor moon select enjoy goat crucial";

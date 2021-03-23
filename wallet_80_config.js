@@ -1,1 +1,1 @@
-var mnemonic = "fossil surround immense evil crush grunt rigid cabbage company urge inquiry purse";
+var mnemonic = "practice rate reopen rather same tip file enact raven immense soup travel";

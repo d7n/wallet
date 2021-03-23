@@ -1,1 +1,1 @@
-var mnemonic = "crystal biology start punch equal mixture invest scene powder hockey act evolve";
+var mnemonic = "admit gold tackle bind fresh problem earth roast across spray fitness gain";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb island tuna blame stick alien wise economy juice estate captain sphere";
+var mnemonic = "force drama casual pride scissors chuckle analyst elite history unique top someone";
