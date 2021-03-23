@@ -1,1 +1,1 @@
-var mnemonic = "sight shuffle scatter brush helmet smart rival ride depend liberty law disorder";
+var mnemonic = "detail gather cactus sail clarify wild minute earn volume renew wrist coral";

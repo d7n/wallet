@@ -1,1 +1,1 @@
-var mnemonic = "inform resemble utility almost loyal donkey mouse tower broom soccer bean twin";
+var mnemonic = "auto frost sure motion idea chicken bus bicycle empty room angle limb";

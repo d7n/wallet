@@ -1,1 +1,1 @@
-var mnemonic = "leisure raw leisure raccoon reduce tiny eyebrow minute awesome merge switch nose";
+var mnemonic = "hire pledge drink snap purity tortoise salute machine erode range drink medal";

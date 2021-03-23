@@ -1,1 +1,1 @@
-var mnemonic = "police lesson solar stuff pizza voyage lemon course avoid zebra satoshi old";
+var mnemonic = "novel gorilla cash midnight online inhale silk pig genius negative desert alarm";

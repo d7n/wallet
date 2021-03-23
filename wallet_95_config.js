@@ -1,1 +1,1 @@
-var mnemonic = "torch damage auto desert neither silly undo denial sauce faint lion version";
+var mnemonic = "hurt night twelve live abstract narrow stove buyer domain bulb inside hard";

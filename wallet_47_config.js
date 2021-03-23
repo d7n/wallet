@@ -1,1 +1,1 @@
-var mnemonic = "problem tourist math local multiply airport fiction differ general step cotton minor";
+var mnemonic = "pole fragile rocket artwork cricket bronze decide verify govern hen replace diagram";

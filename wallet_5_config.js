@@ -1,1 +1,1 @@
-var mnemonic = "image thank brain rain congress paper roast joke latin vault marriage oval";
+var mnemonic = "describe shrimp sample fiction lounge into area license organ rail girl rack";

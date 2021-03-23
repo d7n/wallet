@@ -1,1 +1,1 @@
-var mnemonic = "wrist shift camera history depend kiss please column short legend climb pause";
+var mnemonic = "believe moment chase virtual priority goat hidden mechanic elephant add wire basket";

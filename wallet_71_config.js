@@ -1,1 +1,1 @@
-var mnemonic = "offer cost bomb choose rather sure huge embark ankle wasp when misery";
+var mnemonic = "glow north uniform mad entry arrange crisp thumb gallery spot cheap blush";

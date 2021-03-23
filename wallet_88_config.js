@@ -1,1 +1,1 @@
-var mnemonic = "dose repair cable cluster move number wheat finger atom pledge half glare";
+var mnemonic = "penalty model session coast flame uncover reopen deputy toward fee early receive";

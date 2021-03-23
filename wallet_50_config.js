@@ -1,1 +1,1 @@
-var mnemonic = "term organ infant crowd erase blush champion error seed belt rent quick";
+var mnemonic = "cruel burden gather uniform mystery flight first trigger dance inch off impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor neglect roof quote young border cheap become cover window ramp shoot";
+var mnemonic = "glance permit middle eyebrow mask tattoo magic rib entry mean heart can";

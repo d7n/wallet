@@ -1,1 +1,1 @@
-var mnemonic = "guitar round field labor affair crush skin enjoy rebuild sick melody sponsor";
+var mnemonic = "hand board perfect gentle brass shaft pluck favorite aim sniff interest mercy";

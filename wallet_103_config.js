@@ -1,1 +1,1 @@
-var mnemonic = "clarify word giraffe system wave anchor still impulse unhappy unlock scale patrol";
+var mnemonic = "chaos push pepper produce turn jar twist owner cheese cover rack rib";

@@ -1,1 +1,1 @@
-var mnemonic = "despair equal canoe welcome congress scare noble street face edit comic aunt";
+var mnemonic = "observe section pair match lumber emerge utility bulb cheese equip vacant weapon";

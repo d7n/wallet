@@ -1,1 +1,1 @@
-var mnemonic = "fix talk tumble exhaust wish age proud jealous arctic farm glory sniff";
+var mnemonic = "census unusual circle surface balance process awkward bench month mimic little audit";

@@ -1,1 +1,1 @@
-var mnemonic = "cup innocent medal lesson desert throw fantasy list margin length cabbage income";
+var mnemonic = "clinic always steak flame giggle guitar erode better bus fine knife call";

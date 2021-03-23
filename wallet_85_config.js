@@ -1,1 +1,1 @@
-var mnemonic = "extra property distance strong own stand dumb skate patch hurt giant tourist";
+var mnemonic = "express initial original turkey distance often seminar coach fancy recycle cat success";

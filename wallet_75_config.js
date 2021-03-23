@@ -1,1 +1,1 @@
-var mnemonic = "purchase elegant dog input vehicle below autumn canyon climb wrist seminar nephew";
+var mnemonic = "throw stuff tone either stone wide raw rebel bleak never code code";

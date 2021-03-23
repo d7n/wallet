@@ -1,1 +1,1 @@
-var mnemonic = "cotton shield spatial frog excuse enlist cradle lunch punch cream very always";
+var mnemonic = "heart because claim fresh inside know ginger garment employ pave chimney airport";

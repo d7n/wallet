@@ -1,1 +1,1 @@
-var mnemonic = "bomb marble deputy sibling wisdom install episode city choose marriage maple mystery";
+var mnemonic = "resource impact apart rookie isolate weekend armed immense rhythm immune version giggle";

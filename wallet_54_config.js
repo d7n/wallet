@@ -1,1 +1,1 @@
-var mnemonic = "hazard kitchen already bacon culture gesture floor surprise net pluck track garment";
+var mnemonic = "buffalo team pudding vast phrase nice lazy sound junior reject main artefact";

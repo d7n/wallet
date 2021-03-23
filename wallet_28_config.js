@@ -1,1 +1,1 @@
-var mnemonic = "category toast enable path lock mask power infant prevent apple near layer";
+var mnemonic = "fork reward green erode protect defy patrol motor pause child vague nurse";

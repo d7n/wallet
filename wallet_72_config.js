@@ -1,1 +1,1 @@
-var mnemonic = "reflect clown cake bless aerobic step elder release lunch doctor category metal";
+var mnemonic = "fee now maid voice swear flash good rifle net vacant jump shoe";

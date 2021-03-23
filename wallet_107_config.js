@@ -1,1 +1,1 @@
-var mnemonic = "ability ignore spring phone excite cycle brisk property canvas gloom that lottery";
+var mnemonic = "feed slim history drink narrow lizard correct outer clarify accident history hole";

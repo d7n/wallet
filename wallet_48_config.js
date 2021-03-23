@@ -1,1 +1,1 @@
-var mnemonic = "across hammer balance mail obscure bubble biology raven frost model receive absorb";
+var mnemonic = "spoon safe jacket iron marriage emerge detail chimney trend resemble fruit apple";

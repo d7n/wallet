@@ -1,1 +1,1 @@
-var mnemonic = "buddy pave length citizen glad scout oven output mutual onion fall south";
+var mnemonic = "top trophy lunch trumpet endless talk grocery brother journey grass mass badge";

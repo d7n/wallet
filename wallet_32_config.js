@@ -1,1 +1,1 @@
-var mnemonic = "coil produce casual edit glare stable plate drip equal road spatial market";
+var mnemonic = "scan bean expect balcony floor logic arrange vacuum six ready virtual drill";

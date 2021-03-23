@@ -1,1 +1,1 @@
-var mnemonic = "topic front wonder promote degree steel image matter castle remain chest glide";
+var mnemonic = "success fault favorite pioneer exhibit seminar mesh enrich fuel maple width skirt";

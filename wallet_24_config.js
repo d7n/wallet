@@ -1,1 +1,1 @@
-var mnemonic = "guide estate twist decline scrap near aware pig devote donkey height provide";
+var mnemonic = "exchange suggest casual mirror forward sphere rural help lecture daring weasel suggest";

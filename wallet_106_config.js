@@ -1,1 +1,1 @@
-var mnemonic = "morning soon hamster rain rich reject flash already lunch gossip satoshi december";
+var mnemonic = "mammal crumble green wrestle brief cupboard figure social canal learn debate answer";

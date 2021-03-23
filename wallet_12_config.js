@@ -1,1 +1,1 @@
-var mnemonic = "tissue you drive tool twenty group exhaust puppy once minor swing replace";
+var mnemonic = "stomach song notable because surprise boost strategy define choose code miracle capable";

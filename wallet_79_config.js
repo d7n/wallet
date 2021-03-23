@@ -1,1 +1,1 @@
-var mnemonic = "enjoy demand useless focus silly reform slab craft humor intact speed trip";
+var mnemonic = "afford fish damp put venue train color laundry service tattoo matter gain";

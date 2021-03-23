@@ -1,1 +1,1 @@
-var mnemonic = "invest mystery between bid open oven obtain surprise jaguar sport donkey february";
+var mnemonic = "armed license light network corn endless gasp fade jump dance job liquid";

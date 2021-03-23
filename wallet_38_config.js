@@ -1,1 +1,1 @@
-var mnemonic = "radar endless deny juice moral pet gravity taste bread canal dizzy quarter";
+var mnemonic = "gather wrong mansion chuckle ready aerobic adjust correct segment random broken taste";

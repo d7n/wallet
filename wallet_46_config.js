@@ -1,1 +1,1 @@
-var mnemonic = "box obtain vocal elder snack fire liberty exclude rifle rug juice dwarf";
+var mnemonic = "unveil orbit heavy forest attend wait approve victory spread maze drop duty";

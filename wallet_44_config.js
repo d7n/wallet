@@ -1,1 +1,1 @@
-var mnemonic = "trick capable occur click library federal coast omit alcohol moment bird globe";
+var mnemonic = "embrace keep afford vote beach budget true patrol tray mechanic innocent wear";

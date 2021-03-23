@@ -1,1 +1,1 @@
-var mnemonic = "nature nurse steak rib casual hospital earn story oblige enrich carpet point";
+var mnemonic = "harsh win scheme patient salt modify bracket limb scout icon book digital";

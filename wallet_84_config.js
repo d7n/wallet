@@ -1,1 +1,1 @@
-var mnemonic = "oppose tide reveal extra curtain bundle come area ask amount idea source";
+var mnemonic = "month awesome rapid marriage nuclear blade basket burden zoo share duty second";

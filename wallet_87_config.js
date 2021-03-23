@@ -1,1 +1,1 @@
-var mnemonic = "people pistol orient whisper eye rate potato shell lunch visa repeat churn";
+var mnemonic = "retire radar moral dragon mind harvest army wisdom fiber crumble decrease glimpse";

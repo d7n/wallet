@@ -1,1 +1,1 @@
-var mnemonic = "giraffe task female swing check useless raven zebra annual inform upset miracle";
+var mnemonic = "cube scorpion attend liberty between desk useless awake rural unique mixture toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "release deer bomb shuffle stem auto muffin ready put live fluid sign";
+var mnemonic = "cloud enhance laundry want spin velvet author color salad warrior where alcohol";

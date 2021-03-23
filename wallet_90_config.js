@@ -1,1 +1,1 @@
-var mnemonic = "verb bottom chalk surge sad mention upgrade indicate avoid orbit you brief";
+var mnemonic = "collect second segment slab board lab coil jar local inside head pulp";

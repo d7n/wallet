@@ -1,1 +1,1 @@
-var mnemonic = "elevator smooth asset magnet debris before december alarm office tiny profit math";
+var mnemonic = "bounce flash shuffle tornado champion tunnel crystal worth right swallow child list";

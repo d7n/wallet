@@ -1,1 +1,1 @@
-var mnemonic = "can grocery toast claim idle chief ghost assault degree mixed torch hospital";
+var mnemonic = "fade guess elevator garment panel prepare inhale million cool paper grab route";

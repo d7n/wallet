@@ -1,1 +1,1 @@
-var mnemonic = "basic pigeon flat vague tackle chief nurse lend lock assault green strong";
+var mnemonic = "forest beach hat neither shoulder burden frown food surround marble bamboo write";

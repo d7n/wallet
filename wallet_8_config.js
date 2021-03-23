@@ -1,1 +1,1 @@
-var mnemonic = "skirt student almost fatal float force stage example toddler fly lottery beyond";
+var mnemonic = "carbon save mimic grunt stove grief hedgehog vital mass enlist beyond mechanic";

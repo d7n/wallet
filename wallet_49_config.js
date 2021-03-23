@@ -1,1 +1,1 @@
-var mnemonic = "erode cause secret museum spring universe mail time swap video time better";
+var mnemonic = "giant excuse chase barely ten cliff guilt monkey husband dice egg case";

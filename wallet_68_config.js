@@ -1,1 +1,1 @@
-var mnemonic = "hat dial globe hip basic kangaroo reflect rigid logic jazz twist outside";
+var mnemonic = "ball peace approve era cupboard destroy road property proud steak jeans degree";

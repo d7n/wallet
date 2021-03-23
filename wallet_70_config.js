@@ -1,1 +1,1 @@
-var mnemonic = "hover venture boy noodle tenant consider then across indicate eager pulse basic";
+var mnemonic = "elder faculty anchor year month lonely mouse thank result caution witness torch";

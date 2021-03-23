@@ -1,1 +1,1 @@
-var mnemonic = "way episode pigeon sing sheriff inch myself above prefer guitar danger stool";
+var mnemonic = "focus clever exhibit purpose miracle dismiss warrior mobile flip blood vacuum sugar";

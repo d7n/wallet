@@ -1,1 +1,1 @@
-var mnemonic = "intact detail plunge comic used throw trend pledge say horror claw click";
+var mnemonic = "safe poet area message duck dolphin buyer room similar have mesh nice";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase snap erosion post month chronic ready wine census multiply harvest appear";
+var mnemonic = "sample legend skull fly list hint appear miracle awesome want shoe volcano";

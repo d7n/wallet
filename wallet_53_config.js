@@ -1,1 +1,1 @@
-var mnemonic = "fruit piece before coyote symptom science cereal mom fortune method embark aisle";
+var mnemonic = "sail bridge put still artwork drink seminar glance exact cliff brain little";

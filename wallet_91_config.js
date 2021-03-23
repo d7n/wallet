@@ -1,1 +1,1 @@
-var mnemonic = "truck abandon evoke object license grab major polar you cushion ship metal";
+var mnemonic = "maze spawn satoshi tumble walnut pull orange raccoon few artwork decade search";

@@ -1,1 +1,1 @@
-var mnemonic = "onion dad fruit topple hunt fortune bleak hammer smile lumber major music";
+var mnemonic = "focus sail vintage giant evoke satoshi current brief gaze obscure radar duty";

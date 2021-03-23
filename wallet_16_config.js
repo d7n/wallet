@@ -1,1 +1,1 @@
-var mnemonic = "room athlete bright chef video screen omit spend radar bacon emotion message";
+var mnemonic = "senior robust rigid antique property security voyage view syrup dial grass provide";

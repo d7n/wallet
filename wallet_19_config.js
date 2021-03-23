@@ -1,1 +1,1 @@
-var mnemonic = "night tennis win game strategy grief author drink naive foil repair curtain";
+var mnemonic = "opinion album crisp rare unaware hammer leader smooth artist source dignity faint";

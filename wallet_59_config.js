@@ -1,1 +1,1 @@
-var mnemonic = "myself material junk chase buyer bulb dolphin ready fix faith gift name";
+var mnemonic = "dry expand swear ice false renew cheese answer live rib have upper";

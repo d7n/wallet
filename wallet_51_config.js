@@ -1,1 +1,1 @@
-var mnemonic = "drama warrior detail horse account garment scene more blush dwarf husband reunion";
+var mnemonic = "goat margin smooth invite blur obscure sniff audit advance clever peanut gown";

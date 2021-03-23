@@ -1,1 +1,1 @@
-var mnemonic = "liar current route loyal cannon save travel menu busy assume spawn pink";
+var mnemonic = "sketch divide pony sound onion frozen stock enrich rose parrot glory assault";

@@ -1,1 +1,1 @@
-var mnemonic = "ready recall oil blade gravity same matter what bundle hazard stove prefer";
+var mnemonic = "patrol butter copy vacuum permit quick early decrease window access smart evidence";

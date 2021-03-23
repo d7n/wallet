@@ -1,1 +1,1 @@
-var mnemonic = "useful slice access nephew brick buyer harbor maid fruit volcano ribbon neither";
+var mnemonic = "artefact carbon fatal pigeon rare icon afraid elephant rule attitude name become";

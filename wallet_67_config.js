@@ -1,1 +1,1 @@
-var mnemonic = "hurt gasp slender front join achieve dignity art arena goat cloud ostrich";
+var mnemonic = "series alone pool kidney fancy sniff feel denial frost exact into cash";

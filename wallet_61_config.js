@@ -1,1 +1,1 @@
-var mnemonic = "genius more engage relax bargain brave glove omit nest taxi off miss";
+var mnemonic = "slab disagree digital kid corn play field elite awful diamond wine valley";

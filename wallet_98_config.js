@@ -1,1 +1,1 @@
-var mnemonic = "achieve pony oyster oil act gate person salon axis impact dragon child";
+var mnemonic = "float quality silly symbol display drive cloud polar kitten apple face under";

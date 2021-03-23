@@ -1,1 +1,1 @@
-var mnemonic = "axis horn rotate blush purchase behind token grain cotton hope steel wood";
+var mnemonic = "below merit bacon aunt one thrive torch choice rice flush purchase absent";

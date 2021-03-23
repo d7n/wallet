@@ -1,1 +1,1 @@
-var mnemonic = "alpha wing bless invite reduce swap wear huge master solve win guess";
+var mnemonic = "praise marine like auto cat advice weird thunder boring one exist amused";

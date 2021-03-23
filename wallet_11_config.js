@@ -1,1 +1,1 @@
-var mnemonic = "dolphin broccoli truth pizza senior thank van alley trash pipe brown enhance";
+var mnemonic = "term enrich alter bulb wisdom border such measure pluck surround fence demand";

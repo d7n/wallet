@@ -1,1 +1,1 @@
-var mnemonic = "cat time balance when museum horror merit side bag genre gospel receive";
+var mnemonic = "mansion sea zoo hand rose genuine secret egg pupil develop citizen absent";

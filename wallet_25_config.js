@@ -1,1 +1,1 @@
-var mnemonic = "corn summer build cricket power mimic rotate tower recall royal innocent pattern";
+var mnemonic = "pizza furnace kind artist vessel usage chaos mass volcano attitude eternal quick";

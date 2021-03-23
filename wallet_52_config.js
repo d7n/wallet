@@ -1,1 +1,1 @@
-var mnemonic = "clutch survey muffin toddler mandate foam ankle theory pistol talent island drill";
+var mnemonic = "cool cereal pottery regret correct engage pelican crunch million melody pause aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "loop return walk couple noise already situate soul nurse clinic traffic tongue";
+var mnemonic = "song liar fatigue salad spare same object defy left hamster company icon";

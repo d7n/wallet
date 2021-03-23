@@ -1,1 +1,1 @@
-var mnemonic = "fetch edge film addict robot valley raw visit all quit female door";
+var mnemonic = "gallery glory critic alpha govern celery skirt stable bronze then student flat";

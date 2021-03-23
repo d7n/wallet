@@ -1,1 +1,1 @@
-var mnemonic = "gas can urge arrive problem hazard boost flame abuse detail morning stick";
+var mnemonic = "nothing video never spoil skill frame twin time science today veteran budget";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle hundred flash trick ship road smoke infant day clump unfold famous";
+var mnemonic = "airport ship child cricket truly blade right vibrant sweet opera apple rather";

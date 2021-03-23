@@ -1,1 +1,1 @@
-var mnemonic = "company design dutch claim similar shove art isolate blush clever cost craft";
+var mnemonic = "negative crumble biology laundry embark short alert mule result rabbit letter width";

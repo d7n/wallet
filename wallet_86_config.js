@@ -1,1 +1,1 @@
-var mnemonic = "oxygen mercy stamp grain rural shrug south original vanish buffalo hour upon";
+var mnemonic = "person scout caution rapid dad trap snap dry shift oval excuse fantasy";

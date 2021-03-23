@@ -1,1 +1,1 @@
-var mnemonic = "artefact boost season pill laptop mother educate dance chunk frequent face system";
+var mnemonic = "cradle sell grain curious staff cheap jacket hover country velvet coast demise";
