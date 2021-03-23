@@ -1,1 +1,1 @@
-var mnemonic = "deposit olive write wrist rural business tiny inhale gather ride banner civil";
+var mnemonic = "sad inform erase regular dose polar clump thank license radar frame arch";

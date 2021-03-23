@@ -1,1 +1,1 @@
-var mnemonic = "claim excite balance arena oyster enlist script domain together charge sketch drink";
+var mnemonic = "agree crazy before shove imitate wolf mask indoor below episode luxury secret";

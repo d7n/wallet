@@ -1,1 +1,1 @@
-var mnemonic = "valve mango fiction pizza inject grab danger barrel large sentence city repeat";
+var mnemonic = "say volcano loop east decline laugh tide roast mutual noise inspire twin";

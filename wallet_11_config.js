@@ -1,1 +1,1 @@
-var mnemonic = "real tuna soda caught speak sand sugar obey pelican cage near flash";
+var mnemonic = "next truly peace crawl fault stadium large deal parent flower method trial";

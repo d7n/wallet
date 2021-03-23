@@ -1,1 +1,1 @@
-var mnemonic = "file bleak glue nation gap jungle fantasy roast ridge attitude primary kind";
+var mnemonic = "kangaroo swarm spoil video left wagon hard monster type defy wool retire";

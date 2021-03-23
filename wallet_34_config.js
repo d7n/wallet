@@ -1,1 +1,1 @@
-var mnemonic = "same legend flock salad milk crawl shift maple luxury curtain clutch harbor";
+var mnemonic = "spend verify theory twin dance stool mesh weird raw sign since industry";

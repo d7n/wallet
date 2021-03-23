@@ -1,1 +1,1 @@
-var mnemonic = "flavor valve purpose wage visa marriage cram width alpha about screen butter";
+var mnemonic = "summer maze brave easy joy nerve series oak alone royal wish can";

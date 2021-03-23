@@ -1,1 +1,1 @@
-var mnemonic = "city patrol tail other angry seat apology demise gasp enrich manual silver";
+var mnemonic = "exercise false execute early grass peasant busy laugh barrel solve stay piano";

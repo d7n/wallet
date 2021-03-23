@@ -1,1 +1,1 @@
-var mnemonic = "tumble hunt sure daring heavy rifle night sign permit law wrap hawk";
+var mnemonic = "amused honey wreck raccoon must risk monitor celery evidence gaze visual exclude";

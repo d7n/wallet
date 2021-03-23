@@ -1,1 +1,1 @@
-var mnemonic = "priority inherit high imitate dynamic dignity toss again anxiety course bulk degree";
+var mnemonic = "narrow picture illness urge cement cement liquid cost you ten usage april";

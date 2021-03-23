@@ -1,1 +1,1 @@
-var mnemonic = "glory table immense reject winter napkin general decorate forward frost device wink";
+var mnemonic = "talk say make scrub mix calm people flavor key ranch stadium pond";

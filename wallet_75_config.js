@@ -1,1 +1,1 @@
-var mnemonic = "describe hover split fashion example early member bamboo chase image during grow";
+var mnemonic = "sick elegant lamp width artist wonder else tail coconut style few certain";

@@ -1,1 +1,1 @@
-var mnemonic = "affair age amazing cinnamon jeans correct two invite age answer liberty any";
+var mnemonic = "slush more begin release interest mesh pipe group mammal mixed assume toss";

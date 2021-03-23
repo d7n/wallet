@@ -1,1 +1,1 @@
-var mnemonic = "seven child toilet fire ticket subject sausage agree now arrest vapor visual";
+var mnemonic = "volume wrestle borrow hand then sure cable pig steak remove odor jewel";

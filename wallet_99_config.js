@@ -1,1 +1,1 @@
-var mnemonic = "stage night web diagram ugly frog brother release million nothing divorce play";
+var mnemonic = "icon tumble weather insect shove slush there list stamp choose cage undo";

@@ -1,1 +1,1 @@
-var mnemonic = "arena expect child speed west lawsuit february grunt extra unveil crater scatter";
+var mnemonic = "comic ring strike talk dress head change huge anchor antenna student cream";

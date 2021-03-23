@@ -1,1 +1,1 @@
-var mnemonic = "mystery quick kangaroo faculty desert supreme disagree below later grocery industry flame";
+var mnemonic = "welcome comfort food language motion sphere punch crack push little destroy field";

@@ -1,1 +1,1 @@
-var mnemonic = "engage blue about juice state hen scrub warfare hurdle moon wool apart";
+var mnemonic = "lonely nerve cruel two industry mandate stock love acquire trash zero wife";

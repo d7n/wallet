@@ -1,1 +1,1 @@
-var mnemonic = "verb toss choice viable author worry age police close you today wreck";
+var mnemonic = "vault prison fault pond oblige excite abuse like proud unaware sell stamp";

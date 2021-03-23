@@ -1,1 +1,1 @@
-var mnemonic = "trophy future answer wasp female music nephew stage divert arctic record eagle";
+var mnemonic = "critic atom manage make swamp dad hard clerk tortoise payment manage final";

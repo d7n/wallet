@@ -1,1 +1,1 @@
-var mnemonic = "ripple cereal detect bus face obtain talk empower mountain hockey tattoo join";
+var mnemonic = "limb trip leisure cute pyramid summer cushion library humble enough leisure success";

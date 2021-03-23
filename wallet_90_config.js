@@ -1,1 +1,1 @@
-var mnemonic = "list major hurt sight nice private attract trim found rhythm enforce doll";
+var mnemonic = "gown announce curious dinner unknown reopen vendor tiny student install share later";

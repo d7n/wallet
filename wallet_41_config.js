@@ -1,1 +1,1 @@
-var mnemonic = "genre never virus mimic final embody inflict salt slow noise paddle public";
+var mnemonic = "lamp fatal gain bonus wealth panther borrow asthma poet picnic admit undo";

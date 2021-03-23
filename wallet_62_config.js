@@ -1,1 +1,1 @@
-var mnemonic = "actor peanut someone mutual idea gauge glide civil barrel liberty industry basket";
+var mnemonic = "sort very parade twist perfect dream ticket canvas air forget cotton exile";

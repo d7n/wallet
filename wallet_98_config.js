@@ -1,1 +1,1 @@
-var mnemonic = "remain welcome derive cattle perfect document decrease elder flash stem drop skirt";
+var mnemonic = "rival slow remind upset kingdom profit much moment motion name survey change";

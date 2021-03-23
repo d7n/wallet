@@ -1,1 +1,1 @@
-var mnemonic = "motion mammal odor donkey kind art unfold cattle plug penalty fish divide";
+var mnemonic = "egg piano deer exchange service jacket rough salon media super reform card";

@@ -1,1 +1,1 @@
-var mnemonic = "tree spray coin pave solid nation cushion ill leisure plate attitude private";
+var mnemonic = "smart arrange drama mimic brother illness client rib token table whip lesson";

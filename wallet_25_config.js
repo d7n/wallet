@@ -1,1 +1,1 @@
-var mnemonic = "okay poem burden live release wisdom wrong basic lake vendor version innocent";
+var mnemonic = "frost final flee office income admit engage tell affair wrist attend hip";

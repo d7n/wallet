@@ -1,1 +1,1 @@
-var mnemonic = "property loud stomach peanut ecology when excuse metal leg monitor pulp under";
+var mnemonic = "wolf garlic high turn follow weather address disease family danger adapt provide";

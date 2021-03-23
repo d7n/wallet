@@ -1,1 +1,1 @@
-var mnemonic = "panic pepper business train soldier axis spoil two fruit valve skill unit";
+var mnemonic = "also dinosaur poem blush size shift egg glad desert bunker duck rack";

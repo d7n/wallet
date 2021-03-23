@@ -1,1 +1,1 @@
-var mnemonic = "bomb record subject hollow slight fade impact neck lock life proud foil";
+var mnemonic = "awesome hip beach mushroom fantasy image flag idle unhappy uncover estate balance";

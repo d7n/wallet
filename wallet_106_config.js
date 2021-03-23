@@ -1,1 +1,1 @@
-var mnemonic = "divorce roof flat follow grit finish pair nerve laugh close royal boost";
+var mnemonic = "palace refuse few patient salute wish athlete candy delay bulb advance urge";

@@ -1,1 +1,1 @@
-var mnemonic = "drop canal turkey oxygen muscle inmate quote safe famous garlic rubber year";
+var mnemonic = "kid liar already vocal potato domain kitchen sport license pony empty lock";

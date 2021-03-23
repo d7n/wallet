@@ -1,1 +1,1 @@
-var mnemonic = "giggle quality angry brain return rhythm demise black alpha parrot essence economy";
+var mnemonic = "peace slow brass isolate matrix battle depend foam bicycle tank banner warrior";

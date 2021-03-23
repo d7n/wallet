@@ -1,1 +1,1 @@
-var mnemonic = "essay town baby consider barrel category page target grow grief pond upset";
+var mnemonic = "pupil seek game grow anchor foam reform perfect glad jump draft visa";

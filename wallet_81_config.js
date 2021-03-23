@@ -1,1 +1,1 @@
-var mnemonic = "vault awake height build cherry plug slim scout basket asset rough much";
+var mnemonic = "source super jaguar lottery give index luxury length flat test cage industry";

@@ -1,1 +1,1 @@
-var mnemonic = "desert knee exact motion matrix metal half viable fiction lawsuit kid there";
+var mnemonic = "couch wheat aim ice dish grace clown average practice tuition tomato divide";

@@ -1,1 +1,1 @@
-var mnemonic = "close basic blouse friend dust divorce purpose club keen supreme history habit";
+var mnemonic = "tongue lazy chief wild better worth near buddy install stadium bone pyramid";

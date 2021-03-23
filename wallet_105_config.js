@@ -1,1 +1,1 @@
-var mnemonic = "fresh lamp garden feature fashion subject quote spoon second chat enforce alcohol";
+var mnemonic = "tennis boat front accident twin zero accident cave tray switch tumble give";

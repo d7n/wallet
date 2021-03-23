@@ -1,1 +1,1 @@
-var mnemonic = "equal day sample source fly win civil jaguar raccoon stick identify sudden";
+var mnemonic = "special assist caught matter learn ostrich satoshi weekend cup correct scatter only";

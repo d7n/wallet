@@ -1,1 +1,1 @@
-var mnemonic = "pear merge lyrics cigar riot nice fitness mystery vacant oven casual foot";
+var mnemonic = "order shiver almost antenna mom neglect later primary runway liquid client purpose";

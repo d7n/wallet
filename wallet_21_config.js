@@ -1,1 +1,1 @@
-var mnemonic = "promote tattoo panda load border symptom exile deer picnic slide prize agree";
+var mnemonic = "hotel found review bicycle brick retire want govern special sleep spend history";

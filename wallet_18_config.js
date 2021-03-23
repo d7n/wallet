@@ -1,1 +1,1 @@
-var mnemonic = "sock fine cattle critic snow dismiss make solution arrive phrase play fresh";
+var mnemonic = "oil real hint lift alcohol scatter public gym neck owner basic empty";

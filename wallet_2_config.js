@@ -1,1 +1,1 @@
-var mnemonic = "immense sunset unable tip vital attend blame broom bamboo spread apology glide";
+var mnemonic = "crumble outdoor orchard own wrestle blind light pigeon frequent walnut effort answer";

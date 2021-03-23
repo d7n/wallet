@@ -1,1 +1,1 @@
-var mnemonic = "include film wheat sponsor act sock one stage valve twelve robust bind";
+var mnemonic = "year corn cram phone wide gasp explain gift silly unfold face fish";

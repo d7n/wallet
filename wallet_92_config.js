@@ -1,1 +1,1 @@
-var mnemonic = "main kiwi casino toast busy dinner device organ hungry fiction twist flush";
+var mnemonic = "high salad mango one raw school tenant kind common brief slot between";

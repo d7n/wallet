@@ -1,1 +1,1 @@
-var mnemonic = "exact narrow traffic solve conduct roast crash trend account same garbage juice";
+var mnemonic = "brass define census mutual bless hollow helmet until lemon cup bone couch";

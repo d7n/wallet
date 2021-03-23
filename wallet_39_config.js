@@ -1,1 +1,1 @@
-var mnemonic = "skate size sadness when tomato true wagon insect depart young awake label";
+var mnemonic = "motor intact panda achieve salon deal beach dial have exact divert reward";

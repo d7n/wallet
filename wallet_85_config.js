@@ -1,1 +1,1 @@
-var mnemonic = "outer knife scene genuine welcome file aspect garden what describe tattoo degree";
+var mnemonic = "near garment snap catch soon tired monster wide industry catch bread pledge";

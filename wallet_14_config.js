@@ -1,1 +1,1 @@
-var mnemonic = "culture can wool gesture risk field demand hurt win shine strategy case";
+var mnemonic = "erupt energy feature ladder shine you normal melt olympic stand interest tomorrow";

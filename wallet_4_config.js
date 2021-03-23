@@ -1,1 +1,1 @@
-var mnemonic = "fluid prefer space tree twice already confirm sock renew fat iron element";
+var mnemonic = "either potato frown grid twin private ozone unlock best ritual donkey toss";

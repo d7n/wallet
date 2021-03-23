@@ -1,1 +1,1 @@
-var mnemonic = "practice casual alone purchase fuel avoid blur major pony sibling autumn wing";
+var mnemonic = "merit luggage mention yellow quiz extend trigger since century fashion river learn";

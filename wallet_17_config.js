@@ -1,1 +1,1 @@
-var mnemonic = "item dawn horn decrease detail congress always slender note say truck weasel";
+var mnemonic = "effort chunk noise hospital carbon library fiscal legend switch coconut huge glass";

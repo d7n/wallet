@@ -1,1 +1,1 @@
-var mnemonic = "future gift debris annual deliver cliff toast organ merge pink laundry stereo";
+var mnemonic = "assault maximum cake flock rocket ceiling ritual meadow they oppose quick cage";

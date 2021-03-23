@@ -1,1 +1,1 @@
-var mnemonic = "charge inform fire thought pig decline require foot curious spend device deputy";
+var mnemonic = "trouble analyst walk recall fan depth involve person corn common believe similar";

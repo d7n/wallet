@@ -1,1 +1,1 @@
-var mnemonic = "outside ignore famous island lonely crucial torch zone now pencil easy result";
+var mnemonic = "bracket fantasy expand lucky enter category market vintage stomach brand north goose";

@@ -1,1 +1,1 @@
-var mnemonic = "coin code glance noise address garage naive rail media unit device light";
+var mnemonic = "turkey pupil average dutch pluck enlist clip memory wood assist amazing grit";

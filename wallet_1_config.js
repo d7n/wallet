@@ -1,1 +1,1 @@
-var mnemonic = "slow journey educate song march gas minor monitor muscle food vault pair";
+var mnemonic = "nose fault mistake define subject victory mind border shift lyrics will balance";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid imitate together captain hat autumn vivid extra stumble ankle session globe";
+var mnemonic = "rude dumb rabbit axis jaguar multiply good cactus bullet marine huge park";

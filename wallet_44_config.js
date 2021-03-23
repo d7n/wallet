@@ -1,1 +1,1 @@
-var mnemonic = "coffee tribe pottery pudding wreck cake nuclear kid expose enhance soul install";
+var mnemonic = "heart maximum junk book taste label account farm bronze proud alone rice";

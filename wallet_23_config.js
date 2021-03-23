@@ -1,1 +1,1 @@
-var mnemonic = "trial chef barrel timber various pilot lava before host top mammal fox";
+var mnemonic = "mango hamster gossip rival attack lecture hole grace truth country intact people";

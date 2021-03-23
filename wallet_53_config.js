@@ -1,1 +1,1 @@
-var mnemonic = "gift satoshi bar toast blanket liar twice enjoy unable betray situate pipe";
+var mnemonic = "adjust later surface airport fox tonight bicycle success carry noise radio cat";

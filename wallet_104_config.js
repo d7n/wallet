@@ -1,1 +1,1 @@
-var mnemonic = "devote escape ahead cradle muscle estate shy sight brave evolve crash present";
+var mnemonic = "barely theme boil usual dress curtain program pitch ring veteran retire notable";

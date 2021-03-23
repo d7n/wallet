@@ -1,1 +1,1 @@
-var mnemonic = "family jazz badge climb approve soap seed thumb buffalo electric minor abstract";
+var mnemonic = "width treat math stay orbit large steak wise about canvas wrong affair";

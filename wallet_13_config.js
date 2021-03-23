@@ -1,1 +1,1 @@
-var mnemonic = "analyst asset blind parrot organ repair renew clay call virus whisper hundred";
+var mnemonic = "spoon beef eight thing about turn aware squeeze length focus high blood";

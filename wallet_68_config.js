@@ -1,1 +1,1 @@
-var mnemonic = "slight crime confirm gentle piece axis crime movie eight crane iron skirt";
+var mnemonic = "hollow run better become pen blouse soccer dog actual swap pledge punch";

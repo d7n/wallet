@@ -1,1 +1,1 @@
-var mnemonic = "example embody text utility swallow sponsor tag disagree twist stable regular vacant";
+var mnemonic = "fame beach cargo effort spare pulse sound vote powder pull crawl style";

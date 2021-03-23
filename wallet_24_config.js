@@ -1,1 +1,1 @@
-var mnemonic = "key science release remember aspect drum place know heart glimpse fire depart";
+var mnemonic = "grid hole laugh slush luggage trophy infant menu middle midnight dune panel";

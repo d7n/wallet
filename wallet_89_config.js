@@ -1,1 +1,1 @@
-var mnemonic = "gold video hundred tunnel gas track orient domain hip rug ensure olympic";
+var mnemonic = "bulb country axis turn once view ring thought inflict impact cattle actress";

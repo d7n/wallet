@@ -1,1 +1,1 @@
-var mnemonic = "steak parrot search orange square trigger grass empower hurdle worth assume fit";
+var mnemonic = "humor slab sister fade board trim myself scorpion immense mercy tube useless";

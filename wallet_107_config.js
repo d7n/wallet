@@ -1,1 +1,1 @@
-var mnemonic = "broom sword hair error fame lava reduce divorce dirt near jungle pencil";
+var mnemonic = "essence stem evolve matrix rabbit cost sponsor elder obvious absent protect exit";

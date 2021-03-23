@@ -1,1 +1,1 @@
-var mnemonic = "safe evolve what skin announce exclude gift unique brain dog appear gallery";
+var mnemonic = "ramp anchor notable fold wing animal sudden bind trip journey skill option";

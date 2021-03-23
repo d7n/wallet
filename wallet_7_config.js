@@ -1,1 +1,1 @@
-var mnemonic = "current crash stairs hover chuckle want hard cargo moral rich enroll action";
+var mnemonic = "sample shield anchor mask olive beach oppose awful fade scrub lion perfect";

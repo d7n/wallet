@@ -1,1 +1,1 @@
-var mnemonic = "hour crop share put track exact force minute expand vocal hazard example";
+var mnemonic = "magnet write swamp fatigue amateur hub cost shine bitter nerve security tube";

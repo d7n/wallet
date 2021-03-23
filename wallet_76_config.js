@@ -1,1 +1,1 @@
-var mnemonic = "balance account ill actual shock sell habit regular jungle ticket song apart";
+var mnemonic = "notable shield dentist crack toss viable oil brand oak hamster program feel";

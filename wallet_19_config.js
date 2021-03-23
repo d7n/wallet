@@ -1,1 +1,1 @@
-var mnemonic = "lake issue endless uncle lab panther input during control inquiry mutual dragon";
+var mnemonic = "tool movie scan cute decline awesome festival panel fog lab that struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "subway city flavor arrive layer safe symbol path theory carbon volcano polar";
+var mnemonic = "casual follow during cheese obtain pole search click early toilet wild olive";

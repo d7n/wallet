@@ -1,1 +1,1 @@
-var mnemonic = "poem mammal slogan improve donate panic sight business road virus pet soldier";
+var mnemonic = "dutch crash mesh thumb crack story core bar prison shine diet lecture";

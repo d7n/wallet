@@ -1,1 +1,1 @@
-var mnemonic = "anger indoor kick depth fragile grunt puppy script picture cupboard name fury";
+var mnemonic = "bind lyrics hero stool crisp upper ticket alien cart month pistol time";

@@ -1,1 +1,1 @@
-var mnemonic = "error canyon soap catalog early toss high basket success state jump glue";
+var mnemonic = "fever habit fold shaft gesture drill involve become whale ripple infant decide";

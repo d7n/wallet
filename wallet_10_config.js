@@ -1,1 +1,1 @@
-var mnemonic = "water symptom used slab tribe twin neither rifle stove way satoshi click";
+var mnemonic = "capable audit shoe music budget produce exotic jelly punch about organ marine";

@@ -1,1 +1,1 @@
-var mnemonic = "civil oak soft gaze slogan tree input autumn palm skull prevent smoke";
+var mnemonic = "hood finish payment owner home morning goddess celery risk correct useful monkey";

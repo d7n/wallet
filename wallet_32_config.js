@@ -1,1 +1,1 @@
-var mnemonic = "virus tip invite sketch slam human text drama cruise sweet nation lyrics";
+var mnemonic = "tragic frost photo hard style oblige portion cricket confirm drastic mercy pink";

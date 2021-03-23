@@ -1,1 +1,1 @@
-var mnemonic = "glad mask tired great pet museum only ostrich town claim prefer phrase";
+var mnemonic = "rigid drill tortoise man fetch edge obscure shock globe index rapid weekend";

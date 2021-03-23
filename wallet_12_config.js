@@ -1,1 +1,1 @@
-var mnemonic = "twice earth glimpse object lizard width funny obscure begin worth major ecology";
+var mnemonic = "enact blur diesel north dutch never punch glance barely web tiny spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle bridge finger taste catch tumble leaf kidney guard work annual female";
+var mnemonic = "knee drive escape stone settle fine ripple shock share nurse rain lumber";

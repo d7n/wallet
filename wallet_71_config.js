@@ -1,1 +1,1 @@
-var mnemonic = "twin creek text cake toe arch old zone daring video laundry remember";
+var mnemonic = "magnet thumb gossip ankle utility silver pool affair autumn swallow harvest door";

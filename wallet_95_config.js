@@ -1,1 +1,1 @@
-var mnemonic = "mad setup curtain crucial rally trick say vicious shrimp unhappy jaguar thought";
+var mnemonic = "leg mushroom round stadium bacon damp decrease black list badge pen mercy";

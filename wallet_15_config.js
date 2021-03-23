@@ -1,1 +1,1 @@
-var mnemonic = "hard lucky abandon awful fork pink record save lottery scout gravity walnut";
+var mnemonic = "basket laptop leaf theory run gather speak immune midnight concert rack card";

@@ -1,1 +1,1 @@
-var mnemonic = "radio husband float pool together miracle envelope tenant garage polar achieve impact";
+var mnemonic = "royal crater marine repair day width army worry slight bridge problem renew";

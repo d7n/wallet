@@ -1,1 +1,1 @@
-var mnemonic = "heavy any few live enact rose wife obvious wheel cube effort sadness";
+var mnemonic = "lava inquiry bar about silent remain buddy buzz empty install beef climb";

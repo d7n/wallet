@@ -1,1 +1,1 @@
-var mnemonic = "wrestle gift virtual museum idea sail loyal ship twin hood panda search";
+var mnemonic = "private rebel creek ethics exile motor trophy canvas sign again fitness skate";

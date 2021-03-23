@@ -1,1 +1,1 @@
-var mnemonic = "problem humble idea popular midnight flat naive poem journey fury crouch rose";
+var mnemonic = "science figure sweet reduce unknown word fade civil powder devote festival seminar";
