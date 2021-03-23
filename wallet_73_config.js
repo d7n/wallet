@@ -1,1 +1,1 @@
-var mnemonic = "right eternal dumb praise hub veteran august venture unhappy elegant unit rare";
+var mnemonic = "leopard utility degree identify spend cricket ten member canyon pepper danger casual";

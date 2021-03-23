@@ -1,1 +1,1 @@
-var mnemonic = "clerk place desk hole other tuition style divorce sing already mule program";
+var mnemonic = "tag bring want dentist system weather veteran device girl misery situate sausage";

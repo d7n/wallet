@@ -1,1 +1,1 @@
-var mnemonic = "extra flock finish riot input walk hawk close surface hub dumb term";
+var mnemonic = "pitch honey minute october purchase find cattle clarify sleep volume dance waste";

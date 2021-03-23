@@ -1,1 +1,1 @@
-var mnemonic = "violin actress cup museum fuel lawsuit family about shove memory cushion valve";
+var mnemonic = "outer race wrist acoustic elegant coast cover vital move someone image picnic";

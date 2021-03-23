@@ -1,1 +1,1 @@
-var mnemonic = "cushion good shoulder long later enact adult end sadness tonight lunch invite";
+var mnemonic = "camera school thank patch page eager actor despair surprise link salad ready";

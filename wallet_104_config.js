@@ -1,1 +1,1 @@
-var mnemonic = "curve mail fatigue mass can soccer flame document road enjoy vacant toss";
+var mnemonic = "safe army movie acoustic number index dash there all together head door";

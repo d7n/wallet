@@ -1,1 +1,1 @@
-var mnemonic = "explain glance stumble large happy boil ghost wolf recall scan edit lake";
+var mnemonic = "tribe pepper category magic title alpha plate acoustic wheat divorce swamp deposit";

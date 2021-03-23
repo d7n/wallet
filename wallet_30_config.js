@@ -1,1 +1,1 @@
-var mnemonic = "garment humor anxiety belt spin use march tuna dragon thought cruel room";
+var mnemonic = "wage mix second taste surface distance become office scene obtain author side";

@@ -1,1 +1,1 @@
-var mnemonic = "margin galaxy thumb car left scare beef waste birth uniform pause raw";
+var mnemonic = "survey kangaroo name noodle cup innocent twelve verb popular obey dial nasty";

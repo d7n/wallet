@@ -1,1 +1,1 @@
-var mnemonic = "toss false february crush hole catalog clay flee bounce much habit artwork";
+var mnemonic = "opinion produce argue glory brass pony oxygen happy steak gallery tell merit";

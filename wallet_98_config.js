@@ -1,1 +1,1 @@
-var mnemonic = "report parrot sleep bind until giggle pig spare emerge injury sketch walnut";
+var mnemonic = "produce over nurse loop logic ginger tent true fancy resist private giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "try attract elite angry top trophy timber vibrant symptom rabbit frost medal";
+var mnemonic = "angry legal spider oak depart youth art speak chalk easy boring fame";

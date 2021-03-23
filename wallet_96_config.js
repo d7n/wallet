@@ -1,1 +1,1 @@
-var mnemonic = "alarm search valid cupboard humble cycle oven acquire scout tube crash release";
+var mnemonic = "zero nerve arrest session junior organ mule napkin coconut witness clerk oak";

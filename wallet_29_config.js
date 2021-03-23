@@ -1,1 +1,1 @@
-var mnemonic = "test tribe cheap inherit black unknown rigid soldier else dry east physical";
+var mnemonic = "team total smoke below float attitude among post praise elder dragon online";

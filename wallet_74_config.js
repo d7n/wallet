@@ -1,1 +1,1 @@
-var mnemonic = "car upset story detail cherry assault outer shuffle melt access abstract use";
+var mnemonic = "tornado siege syrup base island spoil pig quantum ride bunker priority limb";

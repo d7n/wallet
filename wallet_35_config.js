@@ -1,1 +1,1 @@
-var mnemonic = "muffin hunt limit mechanic miss fabric oyster across bracket suspect marriage crane";
+var mnemonic = "rhythm repair insane paper person tree demand mosquito tobacco stick wire argue";

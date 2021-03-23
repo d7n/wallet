@@ -1,1 +1,1 @@
-var mnemonic = "spike now crumble coral try fog stock medal bicycle cover dilemma choose";
+var mnemonic = "butter opera clown wrap code setup maze bar race flee say donkey";

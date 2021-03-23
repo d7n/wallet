@@ -1,1 +1,1 @@
-var mnemonic = "chaos creek wave bird problem shed pull satoshi spatial enact tilt have";
+var mnemonic = "nephew bless club steel mirror excite engage faith sheriff refuse plunge copper";

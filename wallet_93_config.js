@@ -1,1 +1,1 @@
-var mnemonic = "upset basic chair impose cream upset cricket never clay print keep level";
+var mnemonic = "shop exile joke radar aim monster punch lesson zoo veteran quarter pride";

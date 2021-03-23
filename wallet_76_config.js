@@ -1,1 +1,1 @@
-var mnemonic = "tired method lizard plug student select torch hour snap text depend excuse";
+var mnemonic = "above tackle load fly tortoise obvious diesel deer solution pass beach elephant";

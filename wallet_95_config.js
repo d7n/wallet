@@ -1,1 +1,1 @@
-var mnemonic = "health casino bundle heavy comfort battle glue fan provide theory lonely news";
+var mnemonic = "salt table bounce example chicken bulk silk school boy twice verb focus";

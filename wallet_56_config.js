@@ -1,1 +1,1 @@
-var mnemonic = "health spot example stone civil margin solution host vacant require federal logic";
+var mnemonic = "scan radio apology tunnel elegant coffee busy game boil expand farm admit";

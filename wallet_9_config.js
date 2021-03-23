@@ -1,1 +1,1 @@
-var mnemonic = "setup trip begin cross exact slim zero dish despair knife pudding music";
+var mnemonic = "buzz another hazard alien eight wage crane pioneer cat struggle long alpha";

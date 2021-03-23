@@ -1,1 +1,1 @@
-var mnemonic = "title endless oblige worry bag seek either marine surge jacket occur candy";
+var mnemonic = "taste pill couple credit answer kick always author swallow gloom pool surge";

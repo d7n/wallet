@@ -1,1 +1,1 @@
-var mnemonic = "force bag toast mix enact deal vendor awful donate smoke wrap grant";
+var mnemonic = "mind clap vehicle turn option torch brush chair two firm february carbon";

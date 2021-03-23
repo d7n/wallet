@@ -1,1 +1,1 @@
-var mnemonic = "outdoor bridge brother under embody canyon boil oppose option egg reason castle";
+var mnemonic = "tip scene next expect public bulb rude find slush law film nut";

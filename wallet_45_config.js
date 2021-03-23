@@ -1,1 +1,1 @@
-var mnemonic = "engine near arrive labor test make cup shell web path weird brain";
+var mnemonic = "dragon pluck thought wire night nasty behind help few enough ski security";

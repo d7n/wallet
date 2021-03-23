@@ -1,1 +1,1 @@
-var mnemonic = "hire invest volume pond make economy burst advice hold laundry sunset city";
+var mnemonic = "poverty keep cruel collect cradle movie stumble lady round visa enforce egg";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge project dog rice kid seven crane success witness silver online hen";
+var mnemonic = "entry assume ceiling settle lunch virus asset saddle fence become dwarf page";

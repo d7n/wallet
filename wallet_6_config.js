@@ -1,1 +1,1 @@
-var mnemonic = "pyramid april pen emerge minor decrease orbit drum prefer develop tenant crystal";
+var mnemonic = "build giant broken banana mobile liquid index spatial aware wreck multiply inmate";

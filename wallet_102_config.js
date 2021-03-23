@@ -1,1 +1,1 @@
-var mnemonic = "silver convince flavor include kingdom broken antique nurse husband country model token";
+var mnemonic = "street trip torch reason margin mansion caution spread salad avocado poet tide";

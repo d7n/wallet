@@ -1,1 +1,1 @@
-var mnemonic = "two detail miracle firm egg divert palm huge endorse pelican large liberty";
+var mnemonic = "staff violin peasant pet lecture narrow thunder tissue pair fish athlete raw";

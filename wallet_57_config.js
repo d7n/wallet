@@ -1,1 +1,1 @@
-var mnemonic = "gravity enhance noise oak liquid boring initial kangaroo hawk atom pulse choice";
+var mnemonic = "kick enroll digital light bike battle relief busy item broccoli number public";

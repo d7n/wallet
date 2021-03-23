@@ -1,1 +1,1 @@
-var mnemonic = "reunion crowd bag cloth fatal viable green present knock drop glow hour";
+var mnemonic = "drive toast broken equal copper bag sudden person scrap budget happy rebuild";

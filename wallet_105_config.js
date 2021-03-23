@@ -1,1 +1,1 @@
-var mnemonic = "hen cry border stick nephew news across radar frozen barely cruel income";
+var mnemonic = "mass notable coconut wall brand future term zone time cheese region record";

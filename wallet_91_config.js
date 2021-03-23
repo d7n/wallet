@@ -1,1 +1,1 @@
-var mnemonic = "between warrior glass describe steak mention alien secret before dune rookie nest";
+var mnemonic = "casual cream auction electric buyer cry arena face nation outer brown round";

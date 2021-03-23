@@ -1,1 +1,1 @@
-var mnemonic = "tiger include spice evoke dwarf because senior trim wash bean manage arena";
+var mnemonic = "salt deliver define toward dial inmate oven lobster clerk comic bacon chair";

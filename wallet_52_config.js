@@ -1,1 +1,1 @@
-var mnemonic = "vivid neglect step sibling inside enemy invest volume obey ozone brief board";
+var mnemonic = "settle service ugly slogan used palace often fiber prosper cup bomb perfect";

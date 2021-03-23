@@ -1,1 +1,1 @@
-var mnemonic = "birth notice arctic canvas gesture thank coral spawn tonight athlete program feed";
+var mnemonic = "menu leisure window long behave library slab tomato earn predict dash depth";

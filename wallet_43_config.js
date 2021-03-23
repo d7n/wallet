@@ -1,1 +1,1 @@
-var mnemonic = "remember snack pulse transfer unique people lawsuit snow duck devote spider powder";
+var mnemonic = "brass section olive dumb wisdom never become result ignore conduct embrace maze";

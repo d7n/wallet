@@ -1,1 +1,1 @@
-var mnemonic = "replace series fiber essay cushion silk pink rapid craft oblige pyramid hen";
+var mnemonic = "curious diamond clap tower track sister have act web year clerk normal";

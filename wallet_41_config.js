@@ -1,1 +1,1 @@
-var mnemonic = "resist reason other rare witness dry fortune buyer pudding like text derive";
+var mnemonic = "pistol air salon story slab gloom butter erosion embrace inner drip beach";

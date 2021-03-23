@@ -1,1 +1,1 @@
-var mnemonic = "walnut delay choice swamp kite fan scatter embody indicate total add angry";
+var mnemonic = "useful two found smooth very sail proof gap gap glory hundred buzz";

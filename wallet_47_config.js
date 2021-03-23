@@ -1,1 +1,1 @@
-var mnemonic = "rhythm timber major wing crop visit state view gossip shiver burger wealth";
+var mnemonic = "same escape absorb option normal tag attitude visit tent wet wrestle loyal";

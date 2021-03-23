@@ -1,1 +1,1 @@
-var mnemonic = "depth shove edge sleep make enemy auction royal medal bamboo twenty host";
+var mnemonic = "unit describe similar drill gain urban endorse candy envelope veteran shop october";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling together party agree surge correct merit ostrich move hub prepare shallow";
+var mnemonic = "brush deny tuition put alter solar grain loan common gold quantum captain";

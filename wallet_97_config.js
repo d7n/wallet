@@ -1,1 +1,1 @@
-var mnemonic = "exit fat duty risk quote mixed crop gift pencil canoe dance certain";
+var mnemonic = "nation travel tired during knife announce ribbon act toe guess latin goat";

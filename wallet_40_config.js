@@ -1,1 +1,1 @@
-var mnemonic = "print dog torch holiday mandate trial pig parent life response dolphin craft";
+var mnemonic = "legend hybrid whisper salute mad student artwork spread buzz artefact credit treat";

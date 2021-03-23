@@ -1,1 +1,1 @@
-var mnemonic = "false minute random pudding wealth rack grow scare treat shock draw luggage";
+var mnemonic = "merry parent armor wear stay muffin pride put confirm update nut dose";

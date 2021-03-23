@@ -1,1 +1,1 @@
-var mnemonic = "target toast awesome city shallow stable upon ritual toilet lawn more core";
+var mnemonic = "rather one gauge color drop cancel hub orphan trick negative drink unfair";

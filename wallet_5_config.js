@@ -1,1 +1,1 @@
-var mnemonic = "trim shine lend ice fashion easy hold moral lawn pole nasty boil";
+var mnemonic = "celery aim rice family elder rabbit broccoli share ahead shallow rare exist";

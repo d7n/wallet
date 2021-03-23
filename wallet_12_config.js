@@ -1,1 +1,1 @@
-var mnemonic = "fine foam raccoon scatter view alcohol mango project rotate dragon urge enroll";
+var mnemonic = "seed elegant delay trip board mushroom celery render copper place quarter column";

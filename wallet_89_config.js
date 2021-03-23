@@ -1,1 +1,1 @@
-var mnemonic = "sister march flag museum detect little shell raise message modify essence chronic";
+var mnemonic = "knife trigger antique cricket volcano carpet frame increase melt curious oppose inherit";

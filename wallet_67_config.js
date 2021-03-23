@@ -1,1 +1,1 @@
-var mnemonic = "lecture misery harsh economy sauce cover confirm stomach mosquito twice month lonely";
+var mnemonic = "fox spirit slab inherit item marble reject tone bring lawn any merit";

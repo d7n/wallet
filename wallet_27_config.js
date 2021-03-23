@@ -1,1 +1,1 @@
-var mnemonic = "usual grief table pledge coral isolate once vehicle repair fury voyage subject";
+var mnemonic = "tongue gain engine gloom act drink rebel repeat hope color east develop";

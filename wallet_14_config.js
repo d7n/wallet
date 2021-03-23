@@ -1,1 +1,1 @@
-var mnemonic = "enough across nest rotate below dilemma fame super alone silent slab thing";
+var mnemonic = "wet army weather erupt spatial lab real cotton food inspire reward seek";

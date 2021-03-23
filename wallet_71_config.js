@@ -1,1 +1,1 @@
-var mnemonic = "sleep category yellow must oblige below detect nurse raccoon coast rate race";
+var mnemonic = "fiscal tired drama weekend uncover cabbage debris clerk estate half field veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "just arrange welcome cake fragile finger faith vault effort twin keen degree";
+var mnemonic = "pizza jar pull choice inmate daring glad dragon noodle frame old skill";

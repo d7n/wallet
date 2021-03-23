@@ -1,1 +1,1 @@
-var mnemonic = "silent world dirt minute drum caught method company vault neither image trip";
+var mnemonic = "great detail winner strong horn size aim catalog design mushroom tortoise garbage";

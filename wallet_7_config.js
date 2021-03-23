@@ -1,1 +1,1 @@
-var mnemonic = "mixture start pelican spoon food chimney rabbit maximum unveil mouse fossil category";
+var mnemonic = "curtain switch pair pistol clean drip demise present essence color toss knock";

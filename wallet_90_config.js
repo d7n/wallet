@@ -1,1 +1,1 @@
-var mnemonic = "plunge latin buyer occur nerve one label million tonight fence fox endless";
+var mnemonic = "obvious green van rent common saddle pattern brass capital gas fatal jelly";

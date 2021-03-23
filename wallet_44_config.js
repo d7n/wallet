@@ -1,1 +1,1 @@
-var mnemonic = "time health rocket donate rail remember useless tragic bread mutual address real";
+var mnemonic = "possible kangaroo chair return leg add boy strong captain bitter turn pig";

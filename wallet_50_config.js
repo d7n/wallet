@@ -1,1 +1,1 @@
-var mnemonic = "silly tourist cluster symbol primary copper pencil average thought angry draw wear";
+var mnemonic = "bid bounce fork doll melody day what hurt rigid walk morning demise";

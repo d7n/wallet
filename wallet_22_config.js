@@ -1,1 +1,1 @@
-var mnemonic = "atom twin orient skill danger decrease stick sure announce mammal soft world";
+var mnemonic = "local captain section spin position aspect pioneer update live harvest wreck anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom loud fury valid second fortune quit wasp exit vintage toss treat";
+var mnemonic = "remember convince tube special canal side beef wisdom globe critic damage shell";

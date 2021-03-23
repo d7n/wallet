@@ -1,1 +1,1 @@
-var mnemonic = "buffalo advice course goat very minor menu card vocal genre reunion replace";
+var mnemonic = "tattoo erode bus unique hub view abandon blast process vendor feel sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "brand craft donkey ribbon push wall joke dove number later fan used";
+var mnemonic = "peasant tag amount sport bid like gadget doctor fringe rabbit volcano primary";

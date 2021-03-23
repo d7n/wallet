@@ -1,1 +1,1 @@
-var mnemonic = "erosion mango parrot scheme genuine journey burst wall prison parrot puppy action";
+var mnemonic = "chunk steak ribbon final gadget dynamic you eager sketch owner borrow nut";

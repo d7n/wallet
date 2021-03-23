@@ -1,1 +1,1 @@
-var mnemonic = "original trust ski sleep settle teach segment mutual track jelly depart detect";
+var mnemonic = "circle evidence plastic duck wear monitor people grace reform improve render attack";

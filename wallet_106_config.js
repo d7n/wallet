@@ -1,1 +1,1 @@
-var mnemonic = "green endless pigeon isolate celery fossil liquid limit federal absurd pole kite";
+var mnemonic = "rapid spare old hat athlete shrimp clean regular extend priority stereo veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "effort draw actor physical voyage theory visual unknown model stem auto carry";
+var mnemonic = "happy rabbit pledge twin market famous north shoot attend permit forest barely";

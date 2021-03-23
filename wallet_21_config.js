@@ -1,1 +1,1 @@
-var mnemonic = "teach crystal avocado oak usual favorite fuel enough fitness include peanut gather";
+var mnemonic = "abuse nice appear spread shadow gloom rail hope safe mouse defy oven";

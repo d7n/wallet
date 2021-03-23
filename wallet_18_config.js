@@ -1,1 +1,1 @@
-var mnemonic = "puppy state color hard tired sheriff pull output hundred crazy express asset";
+var mnemonic = "shove sunny poverty excess half start cluster alcohol devote primary toilet soft";

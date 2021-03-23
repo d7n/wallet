@@ -1,1 +1,1 @@
-var mnemonic = "eye grocery hill okay card curve pigeon zero solution draft bullet build";
+var mnemonic = "poet split voyage tomorrow embody cost indicate pattern illegal boring recall speak";

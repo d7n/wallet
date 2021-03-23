@@ -1,1 +1,1 @@
-var mnemonic = "craft bamboo shoulder combine kit rude gadget settle critic lemon shy pumpkin";
+var mnemonic = "empower slam acquire crop party senior garden frozen odor brief source myself";

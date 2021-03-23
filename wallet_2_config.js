@@ -1,1 +1,1 @@
-var mnemonic = "warfare deputy transfer front barrel ignore cigar resist boss person page grief";
+var mnemonic = "rigid tube sheriff letter fiber brand pluck volcano layer step valley canal";

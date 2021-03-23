@@ -1,1 +1,1 @@
-var mnemonic = "hotel payment sleep join source unusual dad bread chronic view speed cabbage";
+var mnemonic = "rare either feed pepper expect nerve audit firm salute curve force cupboard";

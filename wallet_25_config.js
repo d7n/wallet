@@ -1,1 +1,1 @@
-var mnemonic = "sting rich kid nerve effort acid cross dove describe mail carry fiber";
+var mnemonic = "game lion snack hundred earth original blanket banner junior cable turkey alpha";

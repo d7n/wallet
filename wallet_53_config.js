@@ -1,1 +1,1 @@
-var mnemonic = "rival cycle liar garlic miracle swear special isolate certain destroy merge pond";
+var mnemonic = "plug loyal observe bronze venture face voyage calm very network business organ";

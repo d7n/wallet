@@ -1,1 +1,1 @@
-var mnemonic = "pull notice time original trade track rack apart inquiry album dirt claw";
+var mnemonic = "stand naive bunker riot trophy nice knock few cover visual trend humble";

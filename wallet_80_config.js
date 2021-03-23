@@ -1,1 +1,1 @@
-var mnemonic = "switch there confirm unfair bless business brain joy siren spoon cement wife";
+var mnemonic = "curve long entry bacon pride glory reunion human original unveil maid marble";

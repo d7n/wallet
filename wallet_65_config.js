@@ -1,1 +1,1 @@
-var mnemonic = "express turtle genius devote claim escape burst arctic twin oil bachelor join";
+var mnemonic = "social always forest early club identify hybrid mobile team lunar pear morning";

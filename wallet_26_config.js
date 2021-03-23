@@ -1,1 +1,1 @@
-var mnemonic = "provide album dynamic riot hip stem enable elder frame harbor figure text";
+var mnemonic = "number tray crew also there offer correct divorce ugly hard blame fork";

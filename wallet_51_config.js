@@ -1,1 +1,1 @@
-var mnemonic = "always hybrid victory quality reduce unknown ahead soap skill this hint dream";
+var mnemonic = "become pencil fire furnace fluid train hire claw vicious cute edge rib";

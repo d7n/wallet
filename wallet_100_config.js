@@ -1,1 +1,1 @@
-var mnemonic = "claim anger ticket term neck save sock frog idle parent symbol solid";
+var mnemonic = "bacon roast slide this climb enact sail journey shoe feed pact wisdom";

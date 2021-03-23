@@ -1,1 +1,1 @@
-var mnemonic = "decrease eager expose sustain engage match green inject inside surface audit marriage";
+var mnemonic = "utility reject jungle write trust series pipe addict cannon advance vessel hat";

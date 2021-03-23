@@ -1,1 +1,1 @@
-var mnemonic = "scout add trim recipe average add slide boil trend add beauty wish";
+var mnemonic = "lunch lyrics solve monkey holiday vicious card elegant response keen photo news";

@@ -1,1 +1,1 @@
-var mnemonic = "sort stumble enough palace common glory twin scrub nominee shine suffer abuse";
+var mnemonic = "sport rack final term sick credit earn fame provide digital blue because";

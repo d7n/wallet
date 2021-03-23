@@ -1,1 +1,1 @@
-var mnemonic = "snow live legal tree almost outside cancel recipe unaware pottery electric order";
+var mnemonic = "prosper jar depth miracle clarify tomato chase service gauge good orbit carbon";

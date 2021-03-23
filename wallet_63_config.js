@@ -1,1 +1,1 @@
-var mnemonic = "unique fiscal fossil begin employ castle absorb script senior pledge where inside";
+var mnemonic = "grab ring accuse train green quick excuse spin true depart whisper tomorrow";

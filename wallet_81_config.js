@@ -1,1 +1,1 @@
-var mnemonic = "stereo course rail foil rent tonight crack absurd pear lab range myth";
+var mnemonic = "vault organ shoulder toilet kangaroo second excuse immense cool audit circle step";

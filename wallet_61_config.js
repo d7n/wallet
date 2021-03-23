@@ -1,1 +1,1 @@
-var mnemonic = "scan must symptom ill elegant spice scatter option bubble confirm miracle letter";
+var mnemonic = "spin upon defense cupboard trade next glimpse master athlete cinnamon mixed chuckle";
