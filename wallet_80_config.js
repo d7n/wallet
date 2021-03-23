@@ -1,1 +1,1 @@
-var mnemonic = "danger human fitness scare drum grant slim moon find inherit crop patrol";
+var mnemonic = "ginger identify pool act anger prefer allow pig plug spend detail cattle";

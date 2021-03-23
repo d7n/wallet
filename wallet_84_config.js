@@ -1,1 +1,1 @@
-var mnemonic = "final garden feature minute rail rather lecture risk version pioneer spatial debate";
+var mnemonic = "bird language oil pond lady approve twenty fire alarm dial sword exact";

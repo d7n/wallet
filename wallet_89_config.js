@@ -1,1 +1,1 @@
-var mnemonic = "say audit apple across alter twenty under build coach nut poet sheriff";
+var mnemonic = "shuffle property joy oyster shoot armor verb stand crunch warfare advance fault";

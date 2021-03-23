@@ -1,1 +1,1 @@
-var mnemonic = "cup danger age orphan real effort breeze melt like pelican miracle else";
+var mnemonic = "rescue exhaust shrimp divide season view census student photo boat husband chaos";

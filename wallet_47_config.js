@@ -1,1 +1,1 @@
-var mnemonic = "tank duck correct nest destroy flash entry welcome any invest spatial marriage";
+var mnemonic = "all clinic crystal olympic better build grow point color range produce secret";

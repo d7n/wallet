@@ -1,1 +1,1 @@
-var mnemonic = "service quantum twelve deny adult tourist stadium crew hood hour expect forest";
+var mnemonic = "anchor pudding debate frame glass fiber despair curve outside injury grocery boil";

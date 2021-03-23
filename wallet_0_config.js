@@ -1,1 +1,1 @@
-var mnemonic = "marriage inherit neglect kiss left have cool above cram joke egg claim";
+var mnemonic = "minor update basic ensure judge possible near until capable angry nurse bring";

@@ -1,1 +1,1 @@
-var mnemonic = "youth fashion art push desert elite stick stage any universe topple together";
+var mnemonic = "congress bunker miss deposit exercise answer local beyond season help model burger";

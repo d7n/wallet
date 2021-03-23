@@ -1,1 +1,1 @@
-var mnemonic = "glance fun potato siren rude spell ancient portion maze lottery forget answer";
+var mnemonic = "jump glad area disorder penalty move jewel armed enact nurse wonder grit";

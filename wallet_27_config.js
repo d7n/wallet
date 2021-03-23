@@ -1,1 +1,1 @@
-var mnemonic = "thumb wrestle fatigue habit rebuild prepare chaos use muscle tackle found leg";
+var mnemonic = "tomato useful copper evolve soul hurdle stool skill mandate parrot labor arrive";

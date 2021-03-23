@@ -1,1 +1,1 @@
-var mnemonic = "adult warfare pottery today offer attract oyster beef indicate glance health frozen";
+var mnemonic = "problem hawk festival harbor dynamic sibling wheat relax hint tongue odor cabbage";

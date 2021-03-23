@@ -1,1 +1,1 @@
-var mnemonic = "carpet talk where display fury space position sense foil ramp venture inflict";
+var mnemonic = "holiday hour asset lion elite weather person lyrics reject mystery market distance";

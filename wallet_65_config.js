@@ -1,1 +1,1 @@
-var mnemonic = "similar mystery vehicle stuff despair smart obscure model dice able paddle food";
+var mnemonic = "sail right emerge material try question object rookie moon lion ride silly";

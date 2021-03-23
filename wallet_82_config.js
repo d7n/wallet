@@ -1,1 +1,1 @@
-var mnemonic = "roof song van news knee property ozone leave gun north fossil thunder";
+var mnemonic = "change taste link service second heavy exhibit cook stem illness leaf broom";

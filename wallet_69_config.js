@@ -1,1 +1,1 @@
-var mnemonic = "way broken inform tomorrow tree audit exchange trouble author opera found master";
+var mnemonic = "mansion belt asthma chalk top trick nest parent finish alarm napkin march";

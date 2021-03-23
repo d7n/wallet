@@ -1,1 +1,1 @@
-var mnemonic = "another glide video blade sell sunset favorite fade army round wet dismiss";
+var mnemonic = "kitchen size soda mean dignity west steak often exclude raven inherit laugh";

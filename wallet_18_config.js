@@ -1,1 +1,1 @@
-var mnemonic = "van confirm that process matrix fun text little impact stuff manage cost";
+var mnemonic = "rally release pole crush album immune lonely hover cover inner minimum trim";

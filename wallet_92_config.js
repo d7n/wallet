@@ -1,1 +1,1 @@
-var mnemonic = "shallow panel shove fee account assume memory mechanic city bleak boy project";
+var mnemonic = "blind leg dwarf close cloth saddle moment solar enlist cake search exit";

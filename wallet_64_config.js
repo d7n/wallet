@@ -1,1 +1,1 @@
-var mnemonic = "digital endless soldier jump elephant peasant snow antique spare rescue flat female";
+var mnemonic = "curtain impose veteran account spell card fault diary text law below bamboo";

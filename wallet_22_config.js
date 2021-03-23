@@ -1,1 +1,1 @@
-var mnemonic = "urge orange genius wire whisper pause trumpet trade mosquito awesome link scheme";
+var mnemonic = "annual jeans bomb busy myth carry train swing squeeze faith insect safe";

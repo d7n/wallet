@@ -1,1 +1,1 @@
-var mnemonic = "frequent corn opera claim pet hub turkey unhappy large garage half embark";
+var mnemonic = "unhappy spin verify interest believe skill desk just blush rigid student text";

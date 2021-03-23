@@ -1,1 +1,1 @@
-var mnemonic = "velvet addict rebuild horse away limit lucky tourist flower pass spoon winner";
+var mnemonic = "spray flavor table crowd rent blade dizzy judge trumpet maze cigar cereal";

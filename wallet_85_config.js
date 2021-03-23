@@ -1,1 +1,1 @@
-var mnemonic = "episode drastic retire typical loan topple crowd monster actress question immune brain";
+var mnemonic = "plate rookie used claw romance cabbage sustain color weird daughter wash tornado";

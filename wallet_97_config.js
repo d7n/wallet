@@ -1,1 +1,1 @@
-var mnemonic = "seven capable income surface furnace despair clever penalty airport three chaos agree";
+var mnemonic = "scrub edit weird three filter people climb ivory science face fix wall";

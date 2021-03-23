@@ -1,1 +1,1 @@
-var mnemonic = "auction august twist clutch dawn country scheme purity day jump small humble";
+var mnemonic = "symptom shrimp habit pull gaze brave traffic expose jungle cruise match arm";

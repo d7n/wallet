@@ -1,1 +1,1 @@
-var mnemonic = "page panic juice boat circle essay head teach theory luxury secret claim";
+var mnemonic = "possible indoor local snake blur razor chapter human depth exclude loyal lazy";

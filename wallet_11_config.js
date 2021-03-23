@@ -1,1 +1,1 @@
-var mnemonic = "zebra fruit local spawn announce among cheese useful build insect lake already";
+var mnemonic = "isolate video antique upgrade trap burden obey real inhale gaze rule since";

@@ -1,1 +1,1 @@
-var mnemonic = "crane soldier hub kitchen dove estate number idle among best salute squirrel";
+var mnemonic = "aerobic abuse capable flat produce spike rebel slot apology music hair omit";

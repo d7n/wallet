@@ -1,1 +1,1 @@
-var mnemonic = "proud edge wall glue liquid cage cream market dog journey fire rebel";
+var mnemonic = "alone loyal grief ticket spin explain brick hire chair mail green thank";

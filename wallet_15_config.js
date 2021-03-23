@@ -1,1 +1,1 @@
-var mnemonic = "embark scorpion make pave small comfort jeans soldier card exclude brass year";
+var mnemonic = "crime unknown bind elegant blanket repeat journey stone bread truly total speak";

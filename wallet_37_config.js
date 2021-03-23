@@ -1,1 +1,1 @@
-var mnemonic = "bacon gather arch soldier better achieve predict recycle property tank motor lamp";
+var mnemonic = "anchor unusual truck brass cloud hundred hybrid ketchup raccoon cheese web hamster";

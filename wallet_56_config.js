@@ -1,1 +1,1 @@
-var mnemonic = "near sample gain safe trial below wait argue arm lunch faculty north";
+var mnemonic = "random forget coral loop correct fuel team dash rigid kiwi venue favorite";

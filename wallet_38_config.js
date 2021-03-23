@@ -1,1 +1,1 @@
-var mnemonic = "gold sort erosion movie below glimpse fall page print knee beef laugh";
+var mnemonic = "robust oval spend tone mom tissue theory first flip drift hurry defy";

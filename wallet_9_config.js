@@ -1,1 +1,1 @@
-var mnemonic = "found quantum spin refuse foot axis border drill yellow actor lake black";
+var mnemonic = "couch hamster another escape merit engine there area identify perfect fault reunion";

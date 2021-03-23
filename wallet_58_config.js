@@ -1,1 +1,1 @@
-var mnemonic = "remind tobacco iron adapt upper harbor giant stamp island business swear primary";
+var mnemonic = "phrase also claim keep vacuum film flight boat reduce quit toilet army";

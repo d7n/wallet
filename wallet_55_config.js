@@ -1,1 +1,1 @@
-var mnemonic = "sleep anger fluid bench zero robot brand world galaxy artwork road sad";
+var mnemonic = "bicycle clay snack menu dream lunch assume wire open ordinary crane slot";

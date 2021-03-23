@@ -1,1 +1,1 @@
-var mnemonic = "code dignity danger tiny wife result captain often sadness figure melody quote";
+var mnemonic = "box reform body seed mail empty early wrist absent black limb mimic";

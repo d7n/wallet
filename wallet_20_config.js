@@ -1,1 +1,1 @@
-var mnemonic = "wedding curve cloth imitate oblige loan dismiss sphere bar egg whisper cart";
+var mnemonic = "reveal flower cash bundle consider nothing verify hair keen shaft glance hat";

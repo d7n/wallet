@@ -1,1 +1,1 @@
-var mnemonic = "reunion clock puzzle cry disagree post engage treat sugar giant hamster access";
+var mnemonic = "resemble slogan switch license castle yard tenant issue pledge adapt ritual monster";

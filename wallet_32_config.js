@@ -1,1 +1,1 @@
-var mnemonic = "wild common always victory obvious gravity window embody dentist tourist adult hospital";
+var mnemonic = "festival injury dad knock adapt there health interest farm clutch melt rigid";

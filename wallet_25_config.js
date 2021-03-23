@@ -1,1 +1,1 @@
-var mnemonic = "bamboo noise cover total puzzle trash document horse festival scheme target response";
+var mnemonic = "six danger exit license two fork broom provide rack unit curious mutual";

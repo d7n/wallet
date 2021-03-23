@@ -1,1 +1,1 @@
-var mnemonic = "loyal alpha scrap repeat acid accident pigeon online apology taste upset ritual";
+var mnemonic = "ensure cradle indicate fly infant evolve measure power belt pond allow stay";

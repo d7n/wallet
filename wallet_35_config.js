@@ -1,1 +1,1 @@
-var mnemonic = "alone increase bid obvious journey page select jar draft income gloom stock";
+var mnemonic = "useful chalk excess domain okay leg news beyond cry wheat latin tip";

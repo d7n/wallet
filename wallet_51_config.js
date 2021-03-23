@@ -1,1 +1,1 @@
-var mnemonic = "attract lazy worth urban fox snack antique already hunt dumb cute found";
+var mnemonic = "cute monitor neglect sun thank fine stumble mystery oven recipe arm unlock";

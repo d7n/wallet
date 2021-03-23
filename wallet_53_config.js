@@ -1,1 +1,1 @@
-var mnemonic = "excess enroll omit helmet any black version ten panel seat holiday hedgehog";
+var mnemonic = "truck picture danger stamp eager typical mammal rule target badge suggest pig";

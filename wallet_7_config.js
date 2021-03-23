@@ -1,1 +1,1 @@
-var mnemonic = "document cannon casino neglect brave other industry stairs umbrella lottery lens nerve";
+var mnemonic = "bone impact walnut scan palace sunset include cause include appear bright alter";

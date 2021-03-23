@@ -1,1 +1,1 @@
-var mnemonic = "latin consider lobster test modify attack profit fine sketch bachelor hood lyrics";
+var mnemonic = "exchange aware pattern item raw body excite trigger mammal move kiwi arena";

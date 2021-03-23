@@ -1,1 +1,1 @@
-var mnemonic = "ugly cabin impact found spider laugh bind year venture cat balcony soul";
+var mnemonic = "sock enlist search shock casual illegal tiger pipe toilet chicken fit wear";

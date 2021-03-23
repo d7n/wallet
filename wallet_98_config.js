@@ -1,1 +1,1 @@
-var mnemonic = "turtle material pottery hub pudding describe secret jewel comfort practice mystery busy";
+var mnemonic = "sketch excite snap concert jewel pepper close middle addict orchard country auto";

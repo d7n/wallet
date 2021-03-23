@@ -1,1 +1,1 @@
-var mnemonic = "piece route run average flock catalog sight pole broom once core deputy";
+var mnemonic = "wire column sweet know notice agree amateur ostrich garment orient fragile office";

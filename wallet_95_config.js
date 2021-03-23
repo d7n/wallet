@@ -1,1 +1,1 @@
-var mnemonic = "runway subject unable mobile better afford rate brain until double update soul";
+var mnemonic = "fatigue notice oil easy utility snake require squirrel metal arrest ribbon asthma";

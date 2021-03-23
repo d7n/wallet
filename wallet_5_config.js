@@ -1,1 +1,1 @@
-var mnemonic = "winter lumber path infant idle pulse gift panda toast soap stay siege";
+var mnemonic = "mean brother equal someone glide crazy sample street frown service index duck";

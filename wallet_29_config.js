@@ -1,1 +1,1 @@
-var mnemonic = "also melt flash route whisper govern turkey cement build candy coil stand";
+var mnemonic = "van leaf rice skull nephew broken soul depend album embody wild wash";

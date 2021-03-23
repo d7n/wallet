@@ -1,1 +1,1 @@
-var mnemonic = "calm man begin bottom panel catch fan pen swallow crawl game correct";
+var mnemonic = "nature verb swamp prosper enrich buffalo draft attitude finish hood bicycle book";

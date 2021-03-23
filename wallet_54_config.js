@@ -1,1 +1,1 @@
-var mnemonic = "garment broom annual chronic cycle engage cable session tree resemble profit online";
+var mnemonic = "help vital vacant joy dinner borrow eyebrow fancy sign virtual peanut nose";

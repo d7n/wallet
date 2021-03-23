@@ -1,1 +1,1 @@
-var mnemonic = "opinion oil mom member quit dash spare surface sorry urban very lake";
+var mnemonic = "logic tunnel bright host trigger wire program gadget ahead height beyond canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "adult penalty beach super truth jazz toward swim field canvas enforce barrel";
+var mnemonic = "mirror mimic noodle runway mail quality shrug coral census fault cupboard rich";

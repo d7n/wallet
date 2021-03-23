@@ -1,1 +1,1 @@
-var mnemonic = "van green correct taxi identify orange panda mango dad brush mushroom differ";
+var mnemonic = "deny village defy nasty magnet clean ecology split media beach ski amazing";

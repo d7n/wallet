@@ -1,1 +1,1 @@
-var mnemonic = "maple offer barely badge chunk inspire pencil false term acoustic suit citizen";
+var mnemonic = "where other close pride guess divert syrup pumpkin remove turtle chase rescue";

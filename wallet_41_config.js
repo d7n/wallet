@@ -1,1 +1,1 @@
-var mnemonic = "mimic wait swim rate exotic hundred convince stomach million nasty brother loan";
+var mnemonic = "shine address upgrade soon sauce giraffe limb find dune case scatter blossom";

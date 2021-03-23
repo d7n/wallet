@@ -1,1 +1,1 @@
-var mnemonic = "notice sort when easy sea stand skin farm aunt wink energy anger";
+var mnemonic = "jacket bench fluid magic alter lounge liquid slot this polar drill alpha";

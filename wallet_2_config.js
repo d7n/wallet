@@ -1,1 +1,1 @@
-var mnemonic = "bird stadium shrimp quiz estate clown thumb swamp reason grit feed evolve";
+var mnemonic = "coin dial knock ask virtual edge fat giant fire flash lift motor";

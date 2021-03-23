@@ -1,1 +1,1 @@
-var mnemonic = "luggage cotton only another few hero panel quit silver height explain school";
+var mnemonic = "pond frown deputy mention fatal fruit midnight pledge hour knife blouse insect";

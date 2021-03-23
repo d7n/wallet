@@ -1,1 +1,1 @@
-var mnemonic = "husband twist sponsor mountain library grant jump drastic reason find bright effort";
+var mnemonic = "online gasp misery atom village flight okay coral problem divorce clog clog";

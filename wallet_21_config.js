@@ -1,1 +1,1 @@
-var mnemonic = "wish use tomato same spirit balance tip exact praise orbit struggle match";
+var mnemonic = "paper kangaroo wash hand pony hole online destroy predict calm mutual liquid";

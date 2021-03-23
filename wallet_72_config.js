@@ -1,1 +1,1 @@
-var mnemonic = "very student prize ramp deny practice spell dream casino glory wood answer";
+var mnemonic = "cool reflect fence box pass empower orbit leg enough alcohol card such";

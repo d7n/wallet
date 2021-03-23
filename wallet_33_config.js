@@ -1,1 +1,1 @@
-var mnemonic = "weird surprise lonely prevent raccoon lesson flat practice kangaroo speak struggle setup";
+var mnemonic = "hole duck matter faith sister detect three pave hungry check kid dignity";

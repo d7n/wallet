@@ -1,1 +1,1 @@
-var mnemonic = "extra vault once piece matter tongue style build female saddle myth short";
+var mnemonic = "trend hill suffer curve dinosaur step eager recall expire collect sea cluster";

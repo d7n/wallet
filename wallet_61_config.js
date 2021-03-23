@@ -1,1 +1,1 @@
-var mnemonic = "security yellow clip diesel assault dawn peanut piece radio achieve slide wisdom";
+var mnemonic = "cotton elder elder you drink evoke major regret cool garden poverty sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "speak venue mosquito trim ask wolf solve wash spread beyond wait impose";
+var mnemonic = "wall affair cradle trumpet warfare moral diagram siren offer teach crush girl";

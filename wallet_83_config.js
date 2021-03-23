@@ -1,1 +1,1 @@
-var mnemonic = "fire walk focus emotion giant student nasty say surge auto own drift";
+var mnemonic = "apple decline until reveal deny pattern absorb stumble pulp pipe army romance";

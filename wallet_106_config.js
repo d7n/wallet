@@ -1,1 +1,1 @@
-var mnemonic = "trial token balance cigar spawn rough glory seed van puzzle under narrow";
+var mnemonic = "scare develop tank fire ocean derive laugh credit bid gauge abandon announce";

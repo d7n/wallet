@@ -1,1 +1,1 @@
-var mnemonic = "arena solar term silk audit nest name sentence alcohol manual tool exotic";
+var mnemonic = "monitor affair zone robust drip citizen agent purse credit shock addict miracle";

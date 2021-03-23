@@ -1,1 +1,1 @@
-var mnemonic = "quantum core eye inspire horror draw fringe blur cheese frog panda lion";
+var mnemonic = "track theme acquire assist sausage steak mango error rib decorate filter pact";

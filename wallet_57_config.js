@@ -1,1 +1,1 @@
-var mnemonic = "gate key emotion spider carbon crunch squirrel pride scare canoe panel blur";
+var mnemonic = "slow inherit avocado alien stereo copper release spider asthma width donkey leader";

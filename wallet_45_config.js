@@ -1,1 +1,1 @@
-var mnemonic = "soup end category build young pottery crunch bird uncover catalog border there";
+var mnemonic = "common marriage mention catalog net poverty require effort tell embody tennis modify";

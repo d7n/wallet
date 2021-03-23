@@ -1,1 +1,1 @@
-var mnemonic = "crowd glad milk accident slice winter spike alert morning tray build neither";
+var mnemonic = "theme dad neutral layer bean scrub cat crystal scene work soldier trophy";

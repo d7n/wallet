@@ -1,1 +1,1 @@
-var mnemonic = "athlete rabbit dilemma shift evolve joke town digital squirrel return end injury";
+var mnemonic = "climb job leaf fury luxury gravity great frozen time life inject near";

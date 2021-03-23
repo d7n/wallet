@@ -1,1 +1,1 @@
-var mnemonic = "confirm logic syrup cotton duty ring clay peanut message private grit power";
+var mnemonic = "must put expand panther amused donkey alcohol current hello grocery reunion menu";

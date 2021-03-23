@@ -1,1 +1,1 @@
-var mnemonic = "pyramid table wrestle clog october clerk distance two dog whisper cactus heavy";
+var mnemonic = "feed typical course over gas vital cause move poem cargo cluster gun";

@@ -1,1 +1,1 @@
-var mnemonic = "effort orbit knee group feature recall october menu that abandon magic truth";
+var mnemonic = "umbrella spy palm hawk ball heavy way hint damp when friend orchard";

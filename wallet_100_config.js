@@ -1,1 +1,1 @@
-var mnemonic = "dynamic crowd sausage pitch accuse renew jealous push hospital mirror pupil across";
+var mnemonic = "inflict digital fly bless alarm park shock exhaust upon unveil mother claw";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat shield someone render ball mother oblige lunar vast minute gravity wagon";
+var mnemonic = "ecology horror case concert august chuckle exile year tuna coin romance craft";

@@ -1,1 +1,1 @@
-var mnemonic = "amused soft addict fox split addict scheme appear initial grit atom expand";
+var mnemonic = "point service also ankle sport that comfort fatigue wing change dial cup";

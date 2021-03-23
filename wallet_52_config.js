@@ -1,1 +1,1 @@
-var mnemonic = "lend curve cash rich talk sketch exotic zebra deposit exile shop side";
+var mnemonic = "crucial round spike public smart garden hero father never leader rain enrich";

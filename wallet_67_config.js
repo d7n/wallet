@@ -1,1 +1,1 @@
-var mnemonic = "stable rebel pretty domain health salute spin subway asthma notice phrase account";
+var mnemonic = "pull robust muffin rally amateur rent math health style birth wrist over";

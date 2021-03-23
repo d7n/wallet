@@ -1,1 +1,1 @@
-var mnemonic = "cycle ugly rely address pencil normal cherry matrix enemy pink dinosaur pave";
+var mnemonic = "fence boss jacket orbit attitude fat trap feature obtain input album check";

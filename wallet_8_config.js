@@ -1,1 +1,1 @@
-var mnemonic = "ripple plunge naive six head juice faith faculty egg damp other cabbage";
+var mnemonic = "sing crowd senior amused peanut stay balcony apology wet only engage clown";

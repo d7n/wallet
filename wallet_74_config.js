@@ -1,1 +1,1 @@
-var mnemonic = "nest inch eager chronic possible caution word struggle crisp leg quiz ridge";
+var mnemonic = "gasp decide sudden advice lawsuit foot cake exotic model view evidence split";

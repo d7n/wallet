@@ -1,1 +1,1 @@
-var mnemonic = "proof breeze town whale ocean lend divide decline wood hip train soldier";
+var mnemonic = "permit moral scale similar fix ability quote broom when harbor maid orient";
