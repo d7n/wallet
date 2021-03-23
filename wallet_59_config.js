@@ -1,1 +1,1 @@
-var mnemonic = "slice sad people radar fossil gossip audit injury wrap girl vessel imitate";
+var mnemonic = "play hurdle lock evolve merge chunk shift luggage tackle iron message success";

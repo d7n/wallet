@@ -1,1 +1,1 @@
-var mnemonic = "senior mesh devote across token balcony bounce naive kangaroo island work girl";
+var mnemonic = "meadow junk frown acid try pet lock ice sauce bulb exclude energy";

@@ -1,1 +1,1 @@
-var mnemonic = "trust fault burden hurt finger lobster portion develop garden shop stove rebuild";
+var mnemonic = "wide able gaze photo praise hurdle skin rent endless around degree gap";

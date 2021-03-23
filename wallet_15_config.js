@@ -1,1 +1,1 @@
-var mnemonic = "cake nuclear witness ride uncle cattle minute cover bamboo govern either include";
+var mnemonic = "true master kitten noise cushion gift people best mistake mention answer peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "melody bulb ridge wing recipe manual frost maple wool rigid pupil okay";
+var mnemonic = "unfold record bubble aspect elder increase pelican access bitter switch valve boring";

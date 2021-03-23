@@ -1,1 +1,1 @@
-var mnemonic = "whip merry unhappy shed simple chat include fatal traffic turtle lottery awesome";
+var mnemonic = "arrow account drum dress square photo decrease census light bread pipe member";

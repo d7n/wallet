@@ -1,1 +1,1 @@
-var mnemonic = "observe toast soda empty young more lake note pumpkin over tenant protect";
+var mnemonic = "collect skill sibling access sibling stand enhance claim female ticket below crack";

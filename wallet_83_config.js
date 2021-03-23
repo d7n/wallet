@@ -1,1 +1,1 @@
-var mnemonic = "knife upgrade involve myth anger market talk weather maid soap ice ladder";
+var mnemonic = "october worth symbol garden state example baby agent style bus general simple";

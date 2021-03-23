@@ -1,1 +1,1 @@
-var mnemonic = "transfer assault enrich swap try exotic choice must vintage spring fiscal carbon";
+var mnemonic = "wrestle celery wool cute tiny timber ice orange fox start seed hotel";

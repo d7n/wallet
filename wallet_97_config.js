@@ -1,1 +1,1 @@
-var mnemonic = "electric nuclear hybrid snap oil carpet toilet similar harvest divide innocent pen";
+var mnemonic = "spin hidden economy emotion drastic mouse level innocent toe average purpose bus";

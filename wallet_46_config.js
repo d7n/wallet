@@ -1,1 +1,1 @@
-var mnemonic = "group dentist stool absurd scheme shoe basic bleak actress donkey piece sponsor";
+var mnemonic = "dynamic little box sock region man faculty fortune alien retire depend cross";

@@ -1,1 +1,1 @@
-var mnemonic = "burden spend any skin media border matter mistake leaf sister diesel change";
+var mnemonic = "rely figure expect hurdle airport radio vehicle cinnamon convince visa model error";

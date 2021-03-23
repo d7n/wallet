@@ -1,1 +1,1 @@
-var mnemonic = "execute confirm tower alien card evoke dinosaur extra afford have follow brisk";
+var mnemonic = "pass session woman tell post fit lawn boy need rebuild execute genuine";

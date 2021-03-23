@@ -1,1 +1,1 @@
-var mnemonic = "room sick genuine orient giggle visa symbol uniform secret labor review stamp";
+var mnemonic = "version toy tourist betray praise tiny burden allow engage ring organ cousin";

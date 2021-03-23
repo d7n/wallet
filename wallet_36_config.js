@@ -1,1 +1,1 @@
-var mnemonic = "family program post parrot coyote cake secret month swift cargo game sword";
+var mnemonic = "census junior find runway army divide satoshi because answer stone project point";

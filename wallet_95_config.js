@@ -1,1 +1,1 @@
-var mnemonic = "wasp pipe pottery wool dream barrel task injury cruise pigeon gentle bachelor";
+var mnemonic = "estate census inside sudden mention wrist simple expose close outdoor neither cabin";

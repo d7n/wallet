@@ -1,1 +1,1 @@
-var mnemonic = "injury little head rack stool pig empty asthma wild fringe vicious decorate";
+var mnemonic = "normal merge beef tiny build shoe tenant document equal throw color quality";

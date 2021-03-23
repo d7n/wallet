@@ -1,1 +1,1 @@
-var mnemonic = "emerge stem west green drill elegant ordinary rain swap trick lend early";
+var mnemonic = "camp addict license duck price because spawn liberty below cloth sun shoot";

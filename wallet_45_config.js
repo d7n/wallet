@@ -1,1 +1,1 @@
-var mnemonic = "cry record tape call wash absurd olympic leader tortoise ignore common stamp";
+var mnemonic = "minor candy spoon finish useful option case grocery check clog west sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction shaft wave unfold calm tattoo torch champion rug arrive chat stomach";
+var mnemonic = "lend deliver father orchard indoor slight force seminar twenty reopen eye special";

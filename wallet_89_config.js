@@ -1,1 +1,1 @@
-var mnemonic = "symbol blanket cause work fall trade outdoor dolphin jewel spend fly knee";
+var mnemonic = "erosion sentence stairs citizen limb reveal pepper force code forget love buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "burden brush stand lawn age imitate brisk wisdom worth duck blue sorry";
+var mnemonic = "fame noble toss illness random proof dirt memory siren couch grow orphan";

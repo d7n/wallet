@@ -1,1 +1,1 @@
-var mnemonic = "vibrant choice begin speak common buyer husband panther wait home canvas ski";
+var mnemonic = "sudden wild cradle churn venue expand lift hire kitchen feed atom toast";

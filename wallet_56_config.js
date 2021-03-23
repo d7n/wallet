@@ -1,1 +1,1 @@
-var mnemonic = "voyage illegal shell boring equip master such pretty august supply wheat glory";
+var mnemonic = "clarify blind quit spike rough betray tomorrow charge foster model twin gloom";

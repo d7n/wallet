@@ -1,1 +1,1 @@
-var mnemonic = "course van sort front vocal blame elegant shell cactus used wide smile";
+var mnemonic = "toilet crane people pole mother tomorrow diesel make adapt angle roof pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "science census impulse dawn casual final list eyebrow noble pulse indicate vintage";
+var mnemonic = "group bulb divide nasty crystal access indicate love insect trip ancient divide";

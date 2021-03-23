@@ -1,1 +1,1 @@
-var mnemonic = "fiction cherry peasant bounce race letter truck tenant tail gallery credit myth";
+var mnemonic = "area baby skin gaze wife champion blast primary riot chuckle faint news";

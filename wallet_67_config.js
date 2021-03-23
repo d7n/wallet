@@ -1,1 +1,1 @@
-var mnemonic = "talent gossip ski size absurd fault elephant plug equip galaxy pelican into";
+var mnemonic = "devote illness snake tissue wonder zoo try noodle obey ring exclude luxury";

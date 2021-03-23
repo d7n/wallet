@@ -1,1 +1,1 @@
-var mnemonic = "embark point devote asset hybrid engine disagree gallery couple wave scheme figure";
+var mnemonic = "accuse mixture wine food drip hidden fragile violin tomorrow wolf about frog";

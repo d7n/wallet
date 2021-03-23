@@ -1,1 +1,1 @@
-var mnemonic = "humor wave item embrace glimpse spare liar charge fitness logic cruel oven";
+var mnemonic = "claw pretty word glad merry nephew cake jar mercy foot primary baby";

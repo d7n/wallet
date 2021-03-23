@@ -1,1 +1,1 @@
-var mnemonic = "tone increase amused boost season achieve near mirror note skirt surprise kite";
+var mnemonic = "barrel sort actor organ wreck reflect agree health useless vapor agent click";

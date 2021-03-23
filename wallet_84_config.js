@@ -1,1 +1,1 @@
-var mnemonic = "toy early tree pause speak fan scale connect adult film cereal hunt";
+var mnemonic = "ocean airport bomb age mix clay squirrel identify pulse verify brisk repair";

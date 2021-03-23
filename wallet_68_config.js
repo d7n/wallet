@@ -1,1 +1,1 @@
-var mnemonic = "choice mutual beyond where inhale hundred memory rotate seed amount champion monkey";
+var mnemonic = "warfare express remind scan fury celery museum blossom giant bless common cannon";

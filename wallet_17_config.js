@@ -1,1 +1,1 @@
-var mnemonic = "noodle issue fit system tip grit model yellow floor around head over";
+var mnemonic = "kind slow story unable someone brass gown reunion trouble snap donkey cable";

@@ -1,1 +1,1 @@
-var mnemonic = "mail fever math rather spawn arrive kitten diary wood figure able tribe";
+var mnemonic = "opinion inch brave solid moon wave few clown stamp photo october you";

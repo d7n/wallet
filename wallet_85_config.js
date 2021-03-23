@@ -1,1 +1,1 @@
-var mnemonic = "ecology future base car boss blush aware luxury main prepare domain hub";
+var mnemonic = "wrestle offer choice north drum action dynamic title deposit grain flip supreme";

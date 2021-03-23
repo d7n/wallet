@@ -1,1 +1,1 @@
-var mnemonic = "item embody diesel cricket foil birth prefer second market ripple omit syrup";
+var mnemonic = "planet wood critic law fashion much spend alarm island country topic olympic";

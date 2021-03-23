@@ -1,1 +1,1 @@
-var mnemonic = "myself wave enough usage nurse kite business hawk gallery unable offer explain";
+var mnemonic = "galaxy seed volume ribbon nature garden gadget web original pumpkin brave hybrid";

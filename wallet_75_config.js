@@ -1,1 +1,1 @@
-var mnemonic = "sugar vocal harvest saddle exchange increase code ordinary spare cement grace copper";
+var mnemonic = "reject world grid hint blue plastic fix stadium essay multiply occur stamp";

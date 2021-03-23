@@ -1,1 +1,1 @@
-var mnemonic = "always captain slim sing shrug stairs play ethics memory school buffalo betray";
+var mnemonic = "race can promote eager table beyond mammal shed trade daring reunion transfer";

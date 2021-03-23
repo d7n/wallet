@@ -1,1 +1,1 @@
-var mnemonic = "sketch bid empower provide acquire garlic almost cheese dad expand busy local";
+var mnemonic = "budget erosion depend slab deposit result giraffe addict bridge devote slam either";

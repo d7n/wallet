@@ -1,1 +1,1 @@
-var mnemonic = "gospel spray foam unknown idle cart collect planet scale clump shoe dutch";
+var mnemonic = "crash point right output shield only cause donkey scissors athlete lumber reward";

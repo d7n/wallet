@@ -1,1 +1,1 @@
-var mnemonic = "robust skull effort concert lava kite law pretty milk insane march exchange";
+var mnemonic = "actress wrestle access face royal culture future provide member virus immune wise";

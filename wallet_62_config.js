@@ -1,1 +1,1 @@
-var mnemonic = "degree tuition garden struggle mosquito shadow quiz warrior unique document coffee kite";
+var mnemonic = "relief merge wink cable voyage setup science work course consider nephew pride";

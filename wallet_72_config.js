@@ -1,1 +1,1 @@
-var mnemonic = "payment toe asthma robot affair venue way club strong grass gas candy";
+var mnemonic = "truth quality until roast occur puzzle midnight verify awesome open huge segment";

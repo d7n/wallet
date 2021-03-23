@@ -1,1 +1,1 @@
-var mnemonic = "bright lottery ordinary yellow orange borrow icon hurry exercise plastic shuffle tower";
+var mnemonic = "shell faith sustain price eight electric tank dog alert method twenty angle";

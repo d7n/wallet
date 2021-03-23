@@ -1,1 +1,1 @@
-var mnemonic = "finish mechanic acoustic cook license decrease mirror image glimpse pluck yellow weather";
+var mnemonic = "topple output start bless tomorrow naive champion tonight swear wagon bomb school";

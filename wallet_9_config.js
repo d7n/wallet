@@ -1,1 +1,1 @@
-var mnemonic = "mirror rib primary giraffe excess dwarf boil grain blush finish this use";
+var mnemonic = "toe first half century off mystery chef attitude census shrug fold umbrella";

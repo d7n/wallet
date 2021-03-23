@@ -1,1 +1,1 @@
-var mnemonic = "fitness shaft review firm popular glue vague guard blind donate clown vessel";
+var mnemonic = "almost thing dumb mountain two truck ignore capital assist perfect topic angry";

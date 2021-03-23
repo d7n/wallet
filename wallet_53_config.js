@@ -1,1 +1,1 @@
-var mnemonic = "census wife human number bench vault fee reopen pudding flower enough warfare";
+var mnemonic = "surprise move powder man lounge amazing dish raccoon mind talk small evidence";

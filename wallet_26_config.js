@@ -1,1 +1,1 @@
-var mnemonic = "anxiety suffer finish canal trap vague cigar spring another position cross eager";
+var mnemonic = "typical ecology liberty typical cereal love atom theme common relax danger favorite";

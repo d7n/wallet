@@ -1,1 +1,1 @@
-var mnemonic = "boat next copper coral jaguar bachelor spoon creek garment ship match release";
+var mnemonic = "error defy chunk tribe nothing year gain unveil state write loud effort";

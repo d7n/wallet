@@ -1,1 +1,1 @@
-var mnemonic = "furnace private sound recipe announce jeans spray judge obscure clean deny length";
+var mnemonic = "spend easily sweet radio arrive auto average surface october finish bean hard";

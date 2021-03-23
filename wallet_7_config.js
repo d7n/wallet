@@ -1,1 +1,1 @@
-var mnemonic = "buddy window glory globe breeze inherit lawsuit host make ignore puppy right";
+var mnemonic = "entire high slice grant behave squirrel echo coil chair boil friend dawn";

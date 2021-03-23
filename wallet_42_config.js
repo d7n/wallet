@@ -1,1 +1,1 @@
-var mnemonic = "barely market news gun social bright auction emerge author indoor wealth shell";
+var mnemonic = "cup deal laundry stand hamster daring speak exist axis swallow pen prevent";

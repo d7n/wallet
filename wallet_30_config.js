@@ -1,1 +1,1 @@
-var mnemonic = "oven bubble oppose mass crack drill alcohol april room coffee cost chaos";
+var mnemonic = "major sudden athlete mystery furnace execute friend glue illness forest pledge material";

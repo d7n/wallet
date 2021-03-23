@@ -1,1 +1,1 @@
-var mnemonic = "smooth insect damp kiwi loop panda host praise improve wasp alpha finish";
+var mnemonic = "hedgehog civil foot cup change chalk romance blame element senior thunder response";

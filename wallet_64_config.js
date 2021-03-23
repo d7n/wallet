@@ -1,1 +1,1 @@
-var mnemonic = "boil abstract endorse brand modify deposit poet thunder logic dinner lab term";
+var mnemonic = "broken moon excess fence october supply like mandate device put ready change";

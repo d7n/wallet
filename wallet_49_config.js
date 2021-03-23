@@ -1,1 +1,1 @@
-var mnemonic = "wide wire never credit mountain eyebrow width accident omit open obey open";
+var mnemonic = "climb alpha discover space turkey gather dismiss oval input oval shine transfer";

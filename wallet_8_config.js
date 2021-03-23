@@ -1,1 +1,1 @@
-var mnemonic = "other lobster fold trigger letter suffer asset tilt release devote anxiety master";
+var mnemonic = "wedding spice gallery craft reduce shed discover change clean actress tunnel label";

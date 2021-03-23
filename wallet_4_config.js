@@ -1,1 +1,1 @@
-var mnemonic = "sure asset gown menu order soul food record soccer invite blade grain";
+var mnemonic = "speak wealth transfer emotion whip fiction mango core reopen glance kidney shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "suit baby fuel elite excuse spatial grief base chuckle similar find unhappy";
+var mnemonic = "tuna island tent broken grid mesh apart member noise small retire october";

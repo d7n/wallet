@@ -1,1 +1,1 @@
-var mnemonic = "rack display way have gift trumpet glove draft engage dismiss profit feel";
+var mnemonic = "east job prize artwork guitar issue black film place region submit wing";

@@ -1,1 +1,1 @@
-var mnemonic = "danger liquid fee robust force cool casino ancient tired spread leaf useful";
+var mnemonic = "artwork domain regular capital pledge prepare vintage ridge behind input weapon target";

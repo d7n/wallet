@@ -1,1 +1,1 @@
-var mnemonic = "ugly scare eager used cat model elegant foot problem limb acquire uniform";
+var mnemonic = "faint setup march ability park marine cousin later unlock ability grain elegant";

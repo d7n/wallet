@@ -1,1 +1,1 @@
-var mnemonic = "beach uphold chimney foster onion cruise bright spell test clap awkward outdoor";
+var mnemonic = "raven exclude stadium metal that gold artwork release tape surge proud picture";

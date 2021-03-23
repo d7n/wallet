@@ -1,1 +1,1 @@
-var mnemonic = "furnace impulse law host skate rare hint cupboard pizza ball index slab";
+var mnemonic = "weapon loyal bus sad tennis emotion camp oppose enter cloth art main";

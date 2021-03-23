@@ -1,1 +1,1 @@
-var mnemonic = "sample embark eager car robust defy agent cash fury swift wagon damage";
+var mnemonic = "empty leg future phone illegal blood library foster siren donor skate enjoy";

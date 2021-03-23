@@ -1,1 +1,1 @@
-var mnemonic = "enlist excess muscle water slush loud dog grain surprise alley swamp modify";
+var mnemonic = "book ritual pelican immense tiger own ritual hair dose census trap next";

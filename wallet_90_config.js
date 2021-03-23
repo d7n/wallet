@@ -1,1 +1,1 @@
-var mnemonic = "skin bean trophy snap nurse bird quick rural price vacant endorse chase";
+var mnemonic = "surge dizzy calm add shell business jelly minute beauty rapid install slender";

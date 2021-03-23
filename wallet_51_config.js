@@ -1,1 +1,1 @@
-var mnemonic = "radio mind bike wheat cluster night group verify over number labor piano";
+var mnemonic = "canvas start slide mosquito cost cream dilemma better illegal vital bicycle jewel";

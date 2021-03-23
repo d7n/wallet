@@ -1,1 +1,1 @@
-var mnemonic = "sail oval point hold talk security arena bamboo drill sign exist air";
+var mnemonic = "extra depart student boil glide devote april barrel crime vibrant coin acquire";

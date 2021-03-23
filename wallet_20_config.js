@@ -1,1 +1,1 @@
-var mnemonic = "seven coil virus barely moon forum cloth wheat report blade vendor second";
+var mnemonic = "sentence advance junior like inquiry dwarf remember erode express coral fan era";

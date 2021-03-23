@@ -1,1 +1,1 @@
-var mnemonic = "pill celery maximum amused delay pitch antique sell spell price year erase";
+var mnemonic = "blush zoo reward envelope flee tail load faith valid copper cradle gain";

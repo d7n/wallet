@@ -1,1 +1,1 @@
-var mnemonic = "logic wrong jazz milk scheme saddle quit tilt spirit alcohol tell way";
+var mnemonic = "bench lunch page nurse guess trip trip such need help palm shrimp";

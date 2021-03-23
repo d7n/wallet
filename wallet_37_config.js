@@ -1,1 +1,1 @@
-var mnemonic = "drop deny hurt canal talk observe winner execute daughter deliver question pipe";
+var mnemonic = "artwork weird across shine second siren cement romance dune insane random top";

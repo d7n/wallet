@@ -1,1 +1,1 @@
-var mnemonic = "bind party wedding fence eager tank economy myth clip gossip wool avocado";
+var mnemonic = "flight essence boss banner clock whale govern skull bread canoe mimic front";

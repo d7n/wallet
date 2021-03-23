@@ -1,1 +1,1 @@
-var mnemonic = "stone bonus globe electric subway wealth sheriff disorder method swallow little museum";
+var mnemonic = "nominee blind copper company flight visa soap core pear neglect soft empower";

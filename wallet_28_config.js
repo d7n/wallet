@@ -1,1 +1,1 @@
-var mnemonic = "bleak inhale now roof eyebrow shock dignity fall exit side such knife";
+var mnemonic = "critic tilt undo live proud page warfare dirt wire build find lab";

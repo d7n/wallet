@@ -1,1 +1,1 @@
-var mnemonic = "million observe patch pupil scissors motion friend hospital category avoid message steak";
+var mnemonic = "impact cushion allow decide code visit wolf tobacco creek flower antique blush";

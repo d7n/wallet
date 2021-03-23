@@ -1,1 +1,1 @@
-var mnemonic = "oyster valley excuse stage enough parade sword harbor frame steel roast destroy";
+var mnemonic = "mail wheel gorilla plastic story tribe pen donkey element scan expand above";

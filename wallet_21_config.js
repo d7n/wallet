@@ -1,1 +1,1 @@
-var mnemonic = "ride vacuum obscure copper civil bicycle lion globe lion mistake pudding fame";
+var mnemonic = "blur gallery stamp parent bargain coyote strong ordinary spoil nothing gown make";

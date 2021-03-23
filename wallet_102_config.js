@@ -1,1 +1,1 @@
-var mnemonic = "divide say fall across ahead ocean inform pen track resource dwarf nominee";
+var mnemonic = "peasant sudden perfect essay pause fluid buddy shed install flame paper museum";

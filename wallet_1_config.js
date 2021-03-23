@@ -1,1 +1,1 @@
-var mnemonic = "arrange front submit apart toilet culture stock able slush hamster window extend";
+var mnemonic = "gown oak evoke caught pledge thumb birth setup enact vanish glory gossip";

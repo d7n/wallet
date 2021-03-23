@@ -1,1 +1,1 @@
-var mnemonic = "infant mystery humor expose broom october mad repair visual flee bright carbon";
+var mnemonic = "retire pride spirit palace woman indoor cart frog expand valid author situate";

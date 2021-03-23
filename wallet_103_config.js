@@ -1,1 +1,1 @@
-var mnemonic = "coyote letter sign effort bacon antique clap sea traffic fence suit loud";
+var mnemonic = "toss hamster solve metal script typical air urban snake sample cheese close";

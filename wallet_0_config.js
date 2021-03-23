@@ -1,1 +1,1 @@
-var mnemonic = "cliff earn route alpha kangaroo crash motion lens six wear elite force";
+var mnemonic = "custom mix season scheme harsh taste cream short behave awful identify disorder";

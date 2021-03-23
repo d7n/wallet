@@ -1,1 +1,1 @@
-var mnemonic = "inform mountain attend swallow canoe sell surprise century rate front book fix";
+var mnemonic = "length jazz swift vocal tonight provide any avoid genuine elite balcony merry";

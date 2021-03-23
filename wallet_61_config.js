@@ -1,1 +1,1 @@
-var mnemonic = "survey orphan hawk turtle tilt width puzzle dignity fog blush cute silent";
+var mnemonic = "crucial once home captain random simple forward deny target token excess reform";
