@@ -1,1 +1,1 @@
-var mnemonic = "tattoo erode bus unique hub view abandon blast process vendor feel sheriff";
+var mnemonic = "priority parade human rookie awkward ignore circle cake mixture narrow silk force";

@@ -1,1 +1,1 @@
-var mnemonic = "tip scene next expect public bulb rude find slush law film nut";
+var mnemonic = "cousin nurse myself flip food margin ask combine toss argue indicate banana";

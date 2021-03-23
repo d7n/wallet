@@ -1,1 +1,1 @@
-var mnemonic = "menu leisure window long behave library slab tomato earn predict dash depth";
+var mnemonic = "wrong winter addict else scout host toward mom jungle dry weird tail";

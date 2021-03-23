@@ -1,1 +1,1 @@
-var mnemonic = "rare either feed pepper expect nerve audit firm salute curve force cupboard";
+var mnemonic = "awesome owner possible dove crush stomach castle album bacon forest talent daring";

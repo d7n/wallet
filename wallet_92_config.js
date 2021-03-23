@@ -1,1 +1,1 @@
-var mnemonic = "clump degree service panda route reform wage critic spot diary umbrella crack";
+var mnemonic = "sure pretty unlock attitude wheat can envelope script acquire shrimp palm bonus";

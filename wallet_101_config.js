@@ -1,1 +1,1 @@
-var mnemonic = "tribe pepper category magic title alpha plate acoustic wheat divorce swamp deposit";
+var mnemonic = "culture dinner rich strike glow general walk figure verb bench body message";

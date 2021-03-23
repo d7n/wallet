@@ -1,1 +1,1 @@
-var mnemonic = "shove sunny poverty excess half start cluster alcohol devote primary toilet soft";
+var mnemonic = "stage outside inspire boy delay betray yard few ceiling anxiety round install";

@@ -1,1 +1,1 @@
-var mnemonic = "happy rabbit pledge twin market famous north shoot attend permit forest barely";
+var mnemonic = "bone math design region surface say orbit october boat response such board";

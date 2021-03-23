@@ -1,1 +1,1 @@
-var mnemonic = "brush deny tuition put alter solar grain loan common gold quantum captain";
+var mnemonic = "clever isolate pioneer sad beef volcano tip tuna burst review title float";

@@ -1,1 +1,1 @@
-var mnemonic = "become pencil fire furnace fluid train hire claw vicious cute edge rib";
+var mnemonic = "decrease scatter spend pride sketch typical art region budget tragic adjust auto";

@@ -1,1 +1,1 @@
-var mnemonic = "strong bid legend album creek expand blur obey attract tube ability bind";
+var mnemonic = "people kingdom token treat capable payment can comfort thumb little tribe student";

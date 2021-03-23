@@ -1,1 +1,1 @@
-var mnemonic = "rather one gauge color drop cancel hub orphan trick negative drink unfair";
+var mnemonic = "turkey save forward scatter sport gallery december oppose design future melody steak";

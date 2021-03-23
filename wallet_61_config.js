@@ -1,1 +1,1 @@
-var mnemonic = "spin upon defense cupboard trade next glimpse master athlete cinnamon mixed chuckle";
+var mnemonic = "almost rice robust arena blur hungry august comfort tell weasel love sign";

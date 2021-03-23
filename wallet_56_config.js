@@ -1,1 +1,1 @@
-var mnemonic = "scan radio apology tunnel elegant coffee busy game boil expand farm admit";
+var mnemonic = "cycle couple photo much city lock tell title able next auction drill";

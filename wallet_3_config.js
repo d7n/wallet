@@ -1,1 +1,1 @@
-var mnemonic = "neither gas ribbon volume charge rabbit couch mixture happy donkey begin boost";
+var mnemonic = "clay early couple easy prosper bronze require then connect post wave city";

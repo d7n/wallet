@@ -1,1 +1,1 @@
-var mnemonic = "grab ring accuse train green quick excuse spin true depart whisper tomorrow";
+var mnemonic = "february kangaroo knife shaft insect change card ahead culture nothing grow march";

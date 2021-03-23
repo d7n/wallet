@@ -1,1 +1,1 @@
-var mnemonic = "salt table bounce example chicken bulk silk school boy twice verb focus";
+var mnemonic = "any day wear state trim debris other virtual spend orbit own section";

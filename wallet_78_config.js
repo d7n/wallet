@@ -1,1 +1,1 @@
-var mnemonic = "prosper jar depth miracle clarify tomato chase service gauge good orbit carbon";
+var mnemonic = "size spawn address tennis anxiety predict roof dismiss gather pelican doll basket";

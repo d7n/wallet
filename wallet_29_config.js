@@ -1,1 +1,1 @@
-var mnemonic = "team total smoke below float attitude among post praise elder dragon online";
+var mnemonic = "source scale direct tonight law patient public agent kingdom knee arrange holiday";

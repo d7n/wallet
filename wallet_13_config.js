@@ -1,1 +1,1 @@
-var mnemonic = "color sunny pulse cave coin ball food hello august early expire luxury";
+var mnemonic = "crowd rural vacuum interest salmon vintage control flight list journey desk ethics";

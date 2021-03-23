@@ -1,1 +1,1 @@
-var mnemonic = "curious diamond clap tower track sister have act web year clerk normal";
+var mnemonic = "stairs angry asset risk allow boil axis abstract east hold battle violin";

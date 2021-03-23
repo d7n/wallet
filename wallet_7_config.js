@@ -1,1 +1,1 @@
-var mnemonic = "curtain switch pair pistol clean drip demise present essence color toss knock";
+var mnemonic = "galaxy jar garlic upset north post team wear thrive sick tiger vessel";

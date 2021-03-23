@@ -1,1 +1,1 @@
-var mnemonic = "sport rack final term sick credit earn fame provide digital blue because";
+var mnemonic = "zone parrot flower gauge quit damage mom also actor become middle silver";

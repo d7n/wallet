@@ -1,1 +1,1 @@
-var mnemonic = "drive toast broken equal copper bag sudden person scrap budget happy rebuild";
+var mnemonic = "adult pave craft diamond lend annual choose alpha purchase stuff earn shed";

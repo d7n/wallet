@@ -1,1 +1,1 @@
-var mnemonic = "zero nerve arrest session junior organ mule napkin coconut witness clerk oak";
+var mnemonic = "double resist lunar control print write wait history expect eye space make";

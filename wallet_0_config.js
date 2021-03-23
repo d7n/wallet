@@ -1,1 +1,1 @@
-var mnemonic = "remember convince tube special canal side beef wisdom globe critic damage shell";
+var mnemonic = "health fiction age alley memory talent chair borrow notable tilt beef athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "wet army weather erupt spatial lab real cotton food inspire reward seek";
+var mnemonic = "onion duck spirit prevent layer lawn record slab strong inflict then globe";

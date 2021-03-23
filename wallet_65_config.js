@@ -1,1 +1,1 @@
-var mnemonic = "social always forest early club identify hybrid mobile team lunar pear morning";
+var mnemonic = "angry outside simple pear have casino order extra metal midnight essay crunch";

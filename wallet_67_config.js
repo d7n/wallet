@@ -1,1 +1,1 @@
-var mnemonic = "fox spirit slab inherit item marble reject tone bring lawn any merit";
+var mnemonic = "census illegal artist render section birth isolate canvas audit around math economy";

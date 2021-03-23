@@ -1,1 +1,1 @@
-var mnemonic = "oblige okay mammal tray piece screen energy cluster option giggle shove century";
+var mnemonic = "pulse bonus nest mountain saddle arrest potato tube patient discover slim wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty keep cruel collect cradle movie stumble lady round visa enforce egg";
+var mnemonic = "cruise tobacco sting corn cross clutch box cancel almost depend devote day";

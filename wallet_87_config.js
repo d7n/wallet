@@ -1,1 +1,1 @@
-var mnemonic = "unit describe similar drill gain urban endorse candy envelope veteran shop october";
+var mnemonic = "buffalo trend path subway wrap forget horse praise enhance swamp ordinary pet";

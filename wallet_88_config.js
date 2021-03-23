@@ -1,1 +1,1 @@
-var mnemonic = "seat message erode raise goat main hunt mandate song stamp olive orchard";
+var mnemonic = "ancient damage end holiday reflect leave recall trophy address purity someone evidence";

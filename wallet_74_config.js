@@ -1,1 +1,1 @@
-var mnemonic = "tornado siege syrup base island spoil pig quantum ride bunker priority limb";
+var mnemonic = "violin spirit page room meat warrior garbage match rival essay peanut speak";

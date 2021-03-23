@@ -1,1 +1,1 @@
-var mnemonic = "danger else trumpet spray dose age grid expect relax mammal prison oval";
+var mnemonic = "height slush solve give put rent solid near brisk senior dream source";

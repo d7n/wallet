@@ -1,1 +1,1 @@
-var mnemonic = "same escape absorb option normal tag attitude visit tent wet wrestle loyal";
+var mnemonic = "else video cry paper coconut spy forward extend list inspire eye park";

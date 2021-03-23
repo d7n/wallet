@@ -1,1 +1,1 @@
-var mnemonic = "bid bounce fork doll melody day what hurt rigid walk morning demise";
+var mnemonic = "cry able estate select repeat omit agent much merit wrestle violin friend";

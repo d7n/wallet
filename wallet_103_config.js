@@ -1,1 +1,1 @@
-var mnemonic = "salt deliver define toward dial inmate oven lobster clerk comic bacon chair";
+var mnemonic = "dragon coil wide mean steak relax inject course service better carpet half";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon deny use point nation recipe process fresh group cricket stage upon";
+var mnemonic = "allow market page code alpha earn budget banana lab damage supreme other";

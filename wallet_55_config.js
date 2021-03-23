@@ -1,1 +1,1 @@
-var mnemonic = "butter opera clown wrap code setup maze bar race flee say donkey";
+var mnemonic = "unique multiply nut opera delay grab marble clip right review rather exchange";

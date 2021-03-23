@@ -1,1 +1,1 @@
-var mnemonic = "used neutral parade wood gaze laugh melt aunt gadget clutch electric drift";
+var mnemonic = "dial lyrics tired refuse accuse ripple alarm code figure slice bike sand";

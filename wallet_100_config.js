@@ -1,1 +1,1 @@
-var mnemonic = "bacon roast slide this climb enact sail journey shoe feed pact wisdom";
+var mnemonic = "any session pistol maid post aunt thought ill emotion sibling aisle area";

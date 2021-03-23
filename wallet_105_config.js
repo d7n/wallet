@@ -1,1 +1,1 @@
-var mnemonic = "mass notable coconut wall brand future term zone time cheese region record";
+var mnemonic = "else salon security fire zero chat penalty section topic vanish together pole";

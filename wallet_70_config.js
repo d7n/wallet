@@ -1,1 +1,1 @@
-var mnemonic = "lunch lyrics solve monkey holiday vicious card elegant response keen photo news";
+var mnemonic = "inflict canal wisdom social nest good forget orange fit gown stem steak";

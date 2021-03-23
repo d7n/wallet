@@ -1,1 +1,1 @@
-var mnemonic = "mind clap vehicle turn option torch brush chair two firm february carbon";
+var mnemonic = "rich heart target clutch census emerge sample else hint flat spell swear";

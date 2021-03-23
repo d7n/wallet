@@ -1,1 +1,1 @@
-var mnemonic = "nation travel tired during knife announce ribbon act toe guess latin goat";
+var mnemonic = "casual climb hybrid angle rely angry soap jump erupt story safe already";

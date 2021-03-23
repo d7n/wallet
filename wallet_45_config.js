@@ -1,1 +1,1 @@
-var mnemonic = "dragon pluck thought wire night nasty behind help few enough ski security";
+var mnemonic = "indoor public equip trade useless judge rubber pact pool nose load basic";

@@ -1,1 +1,1 @@
-var mnemonic = "seed elegant delay trip board mushroom celery render copper place quarter column";
+var mnemonic = "utility pig chest vicious into disorder better push crew hedgehog grape speak";

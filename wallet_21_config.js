@@ -1,1 +1,1 @@
-var mnemonic = "abuse nice appear spread shadow gloom rail hope safe mouse defy oven";
+var mnemonic = "echo tennis alarm pave erase interest crime inmate love black crop mind";

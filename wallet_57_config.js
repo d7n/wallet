@@ -1,1 +1,1 @@
-var mnemonic = "kick enroll digital light bike battle relief busy item broccoli number public";
+var mnemonic = "clown taxi lyrics lady dice draw success flash throw burden setup ladder";

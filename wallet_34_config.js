@@ -1,1 +1,1 @@
-var mnemonic = "empower slam acquire crop party senior garden frozen odor brief source myself";
+var mnemonic = "enable obtain humble galaxy wonder pottery anger produce avoid tonight depart leisure";

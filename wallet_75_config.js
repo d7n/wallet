@@ -1,1 +1,1 @@
-var mnemonic = "couch crisp ivory record weird song seek trade modify visa intact toss";
+var mnemonic = "trade throw forum feature certain quit idle term base thrive neck differ";

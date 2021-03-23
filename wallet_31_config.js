@@ -1,1 +1,1 @@
-var mnemonic = "very bomb replace sunny bundle hen grunt island liquid deputy salmon nature";
+var mnemonic = "strategy swing turn monitor garage analyst soccer pass cover resource can execute";

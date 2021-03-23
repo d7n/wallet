@@ -1,1 +1,1 @@
-var mnemonic = "stand naive bunker riot trophy nice knock few cover visual trend humble";
+var mnemonic = "glue resource property explain move utility small cheese time exit saddle sock";

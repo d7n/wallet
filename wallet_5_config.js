@@ -1,1 +1,1 @@
-var mnemonic = "celery aim rice family elder rabbit broccoli share ahead shallow rare exist";
+var mnemonic = "owner pond excuse leaf bundle cluster color light few zoo square spare";

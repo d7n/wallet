@@ -1,1 +1,1 @@
-var mnemonic = "machine define afraid gallery pet ride runway rare warfare enhance snake parrot";
+var mnemonic = "genius cabbage fly have bench million dynamic before foster recipe food sword";

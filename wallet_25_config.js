@@ -1,1 +1,1 @@
-var mnemonic = "game lion snack hundred earth original blanket banner junior cable turkey alpha";
+var mnemonic = "skin nerve bone garment build false energy adult pill dumb scare provide";

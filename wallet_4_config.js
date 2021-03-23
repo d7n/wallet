@@ -1,1 +1,1 @@
-var mnemonic = "great detail winner strong horn size aim catalog design mushroom tortoise garbage";
+var mnemonic = "deer book struggle salt goat earth tourist victory twist code merge few";

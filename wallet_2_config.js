@@ -1,1 +1,1 @@
-var mnemonic = "rigid tube sheriff letter fiber brand pluck volcano layer step valley canal";
+var mnemonic = "flavor robot toy tongue promote olive split harvest people rough frozen okay";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch honey minute october purchase find cattle clarify sleep volume dance waste";
+var mnemonic = "miss lobster course trim inner pave doll front soda punch rival noodle";

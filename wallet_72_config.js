@@ -1,1 +1,1 @@
-var mnemonic = "bundle language defy monkey ride tank forest online buddy spawn pen cover";
+var mnemonic = "limit seven frog left peasant spider armed liar lemon letter shoe debate";

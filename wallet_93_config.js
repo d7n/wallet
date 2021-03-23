@@ -1,1 +1,1 @@
-var mnemonic = "shop exile joke radar aim monster punch lesson zoo veteran quarter pride";
+var mnemonic = "museum tree problem bleak siren wrist oil left village void main shield";

@@ -1,1 +1,1 @@
-var mnemonic = "number tray crew also there offer correct divorce ugly hard blame fork";
+var mnemonic = "focus rate duty gym tragic auto gather prison junk myth there that";

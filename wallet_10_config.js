@@ -1,1 +1,1 @@
-var mnemonic = "merry parent armor wear stay muffin pride put confirm update nut dose";
+var mnemonic = "move normal spoon deal have skate initial swallow wealth edge era step";

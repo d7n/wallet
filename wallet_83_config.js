@@ -1,1 +1,1 @@
-var mnemonic = "tag bring want dentist system weather veteran device girl misery situate sausage";
+var mnemonic = "stove garbage tape visit stool agree lumber approve oven chronic beyond coyote";

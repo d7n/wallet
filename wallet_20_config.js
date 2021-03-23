@@ -1,1 +1,1 @@
-var mnemonic = "chunk steak ribbon final gadget dynamic you eager sketch owner borrow nut";
+var mnemonic = "equal position plastic still vapor universe action march drama staff pole believe";

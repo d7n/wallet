@@ -1,1 +1,1 @@
-var mnemonic = "fiscal tired drama weekend uncover cabbage debris clerk estate half field veteran";
+var mnemonic = "despair gym tide idea can art spring fork phone elite perfect veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "author demise waste fancy annual hybrid appear jump piece cross faint uncle";
+var mnemonic = "able ability monkey swift correct wedding come elevator cushion remember stove flower";

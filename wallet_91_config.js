@@ -1,1 +1,1 @@
-var mnemonic = "casual cream auction electric buyer cry arena face nation outer brown round";
+var mnemonic = "front fall unable enforce hidden lizard shuffle brush special obtain jaguar spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "useful two found smooth very sail proof gap gap glory hundred buzz";
+var mnemonic = "horror use hurdle abuse rich ball abuse frozen setup floor shrug elder";

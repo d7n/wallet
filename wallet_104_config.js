@@ -1,1 +1,1 @@
-var mnemonic = "safe army movie acoustic number index dash there all together head door";
+var mnemonic = "south dial hold page start robot suit slab couch prepare faint cash";

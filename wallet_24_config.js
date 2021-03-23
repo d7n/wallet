@@ -1,1 +1,1 @@
-var mnemonic = "angry legal spider oak depart youth art speak chalk easy boring fame";
+var mnemonic = "tube grace rabbit click basic habit leader identify invest hurry siren tenant";

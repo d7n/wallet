@@ -1,1 +1,1 @@
-var mnemonic = "pistol air salon story slab gloom butter erosion embrace inner drip beach";
+var mnemonic = "dose help kidney parent viable dilemma regret floor health swift print vital";

@@ -1,1 +1,1 @@
-var mnemonic = "curve long entry bacon pride glory reunion human original unveil maid marble";
+var mnemonic = "force crazy rabbit wise marine indicate slab inside web emerge behave weather";

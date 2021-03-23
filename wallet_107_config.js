@@ -1,1 +1,1 @@
-var mnemonic = "entry assume ceiling settle lunch virus asset saddle fence become dwarf page";
+var mnemonic = "just spot power neck inject pepper smile board orphan garlic skate loan";

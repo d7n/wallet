@@ -1,1 +1,1 @@
-var mnemonic = "circle evidence plastic duck wear monitor people grace reform improve render attack";
+var mnemonic = "identify bag topple define fly pyramid wool wealth veteran chase much time";

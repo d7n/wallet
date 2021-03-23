@@ -1,1 +1,1 @@
-var mnemonic = "nephew bless club steel mirror excite engage faith sheriff refuse plunge copper";
+var mnemonic = "slush current art deposit battle furnace grape mountain pave cattle ahead million";

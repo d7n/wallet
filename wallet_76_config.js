@@ -1,1 +1,1 @@
-var mnemonic = "above tackle load fly tortoise obvious diesel deer solution pass beach elephant";
+var mnemonic = "cheese cliff width robust melody infant claw violin fire tent range title";

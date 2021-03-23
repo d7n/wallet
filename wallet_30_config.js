@@ -1,1 +1,1 @@
-var mnemonic = "wage mix second taste surface distance become office scene obtain author side";
+var mnemonic = "share humble connect body orient adapt eight father about enforce club before";

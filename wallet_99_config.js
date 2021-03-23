@@ -1,1 +1,1 @@
-var mnemonic = "taste pill couple credit answer kick always author swallow gloom pool surge";
+var mnemonic = "sound fold front now jaguar stable soldier share engage verify fox educate";

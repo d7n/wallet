@@ -1,1 +1,1 @@
-var mnemonic = "obvious green van rent common saddle pattern brass capital gas fatal jelly";
+var mnemonic = "light human scatter stadium void girl predict clerk letter analyst immune ring";

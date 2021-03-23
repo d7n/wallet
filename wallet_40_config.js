@@ -1,1 +1,1 @@
-var mnemonic = "legend hybrid whisper salute mad student artwork spread buzz artefact credit treat";
+var mnemonic = "jazz filter ethics myself clown deer lyrics noodle beach soup rare check";

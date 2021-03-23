@@ -1,1 +1,1 @@
-var mnemonic = "settle service ugly slogan used palace often fiber prosper cup bomb perfect";
+var mnemonic = "used voyage spring rebel welcome patient daring net connect bar museum salad";

@@ -1,1 +1,1 @@
-var mnemonic = "vault organ shoulder toilet kangaroo second excuse immense cool audit circle step";
+var mnemonic = "again august minor ask tip invest tide escape eye swamp knock coconut";

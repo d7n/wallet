@@ -1,1 +1,1 @@
-var mnemonic = "local captain section spin position aspect pioneer update live harvest wreck anchor";
+var mnemonic = "anxiety alarm earn sort have axis frozen motion worth aspect laundry magic";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion produce argue glory brass pony oxygen happy steak gallery tell merit";
+var mnemonic = "smooth tobacco memory bulk wild silent glare screen sun field sausage wood";

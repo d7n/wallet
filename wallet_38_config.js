@@ -1,1 +1,1 @@
-var mnemonic = "pizza jar pull choice inmate daring glad dragon noodle frame old skill";
+var mnemonic = "correct ill ozone ill flee rookie winter tenant anger song second cloth";

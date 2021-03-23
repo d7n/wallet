@@ -1,1 +1,1 @@
-var mnemonic = "knife trigger antique cricket volcano carpet frame increase melt curious oppose inherit";
+var mnemonic = "fruit moon copper color maze tissue mechanic main squeeze wife infant asthma";

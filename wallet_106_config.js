@@ -1,1 +1,1 @@
-var mnemonic = "rapid spare old hat athlete shrimp clean regular extend priority stereo veteran";
+var mnemonic = "burst fine motor process marine cereal brain reason sugar glass book sell";

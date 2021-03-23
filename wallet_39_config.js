@@ -1,1 +1,1 @@
-var mnemonic = "poet split voyage tomorrow embody cost indicate pattern illegal boring recall speak";
+var mnemonic = "repair squirrel imitate solution corn reflect west vacant mix space addict detect";

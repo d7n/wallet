@@ -1,1 +1,1 @@
-var mnemonic = "produce over nurse loop logic ginger tent true fancy resist private giggle";
+var mnemonic = "funny follow gentle before saddle key story collect acoustic quantum chef news";

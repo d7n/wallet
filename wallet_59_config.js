@@ -1,1 +1,1 @@
-var mnemonic = "outer race wrist acoustic elegant coast cover vital move someone image picnic";
+var mnemonic = "reflect high during guess deliver valid strike screen used length amount crane";
