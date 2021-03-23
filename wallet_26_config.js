@@ -1,1 +1,1 @@
-var mnemonic = "bleak volcano soft another neck divide pig blame major attack coach boil";
+var mnemonic = "provide album dynamic riot hip stem enable elder frame harbor figure text";

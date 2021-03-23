@@ -1,1 +1,1 @@
-var mnemonic = "skate snow alien warfare truly rabbit carpet borrow doll bread much junior";
+var mnemonic = "resist reason other rare witness dry fortune buyer pudding like text derive";

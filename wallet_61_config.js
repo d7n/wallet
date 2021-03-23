@@ -1,1 +1,1 @@
-var mnemonic = "festival index first gossip best stairs fringe athlete flower inspire palace turn";
+var mnemonic = "scan must symptom ill elegant spice scatter option bubble confirm miracle letter";

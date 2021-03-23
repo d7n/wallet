@@ -1,1 +1,1 @@
-var mnemonic = "property expect party object enroll plug radar want busy gold page bless";
+var mnemonic = "stereo course rail foil rent tonight crack absurd pear lab range myth";

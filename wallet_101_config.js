@@ -1,1 +1,1 @@
-var mnemonic = "cargo oxygen strong sun like net price gravity know company amazing huge";
+var mnemonic = "explain glance stumble large happy boil ghost wolf recall scan edit lake";

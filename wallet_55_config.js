@@ -1,1 +1,1 @@
-var mnemonic = "remain glass allow exact under antique soldier abandon sad sorry betray clean";
+var mnemonic = "spike now crumble coral try fog stock medal bicycle cover dilemma choose";

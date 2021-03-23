@@ -1,1 +1,1 @@
-var mnemonic = "twin scan palm canvas youth boat note ten vault over market village";
+var mnemonic = "try attract elite angry top trophy timber vibrant symptom rabbit frost medal";

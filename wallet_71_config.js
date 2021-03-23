@@ -1,1 +1,1 @@
-var mnemonic = "force tuition remain raw fabric tragic fence ticket ring chair prevent paddle";
+var mnemonic = "sleep category yellow must oblige below detect nurse raccoon coast rate race";

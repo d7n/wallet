@@ -1,1 +1,1 @@
-var mnemonic = "bubble enrich faith this next fuel ordinary twist tent cause useless eager";
+var mnemonic = "brand craft donkey ribbon push wall joke dove number later fan used";

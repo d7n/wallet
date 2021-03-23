@@ -1,1 +1,1 @@
-var mnemonic = "rain lecture build shoot upper suit pulp cake urban inner loan nice";
+var mnemonic = "pyramid april pen emerge minor decrease orbit drum prefer develop tenant crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow elevator bubble artefact hockey resist peasant dismiss void slam lecture pull";
+var mnemonic = "muffin hunt limit mechanic miss fabric oyster across bracket suspect marriage crane";

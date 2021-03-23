@@ -1,1 +1,1 @@
-var mnemonic = "deposit flavor illegal umbrella coach smart medal art imitate thrive genre true";
+var mnemonic = "warfare deputy transfer front barrel ignore cigar resist boss person page grief";

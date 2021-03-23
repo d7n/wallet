@@ -1,1 +1,1 @@
-var mnemonic = "today observe entry bulb conduct board treat plate island umbrella amused glue";
+var mnemonic = "sibling together party agree surge correct merit ostrich move hub prepare shallow";

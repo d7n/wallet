@@ -1,1 +1,1 @@
-var mnemonic = "mouse social alcohol flee era tool range trust theme price eagle wrestle";
+var mnemonic = "route tree pistol write cigar genius join fringe velvet seed when reunion";

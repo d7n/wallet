@@ -1,1 +1,1 @@
-var mnemonic = "rule avoid tired element ginger typical reopen replace process cherry ride barely";
+var mnemonic = "sister seven talent author such hint sugar knife valve fall blade boil";

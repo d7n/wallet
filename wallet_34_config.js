@@ -1,1 +1,1 @@
-var mnemonic = "buffalo satisfy tortoise affair pattern aspect gospel daughter satoshi gift thing sort";
+var mnemonic = "craft bamboo shoulder combine kit rude gadget settle critic lemon shy pumpkin";

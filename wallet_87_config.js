@@ -1,1 +1,1 @@
-var mnemonic = "muscle vast fame logic muffin globe dynamic grace lawsuit region chat giggle";
+var mnemonic = "depth shove edge sleep make enemy auction royal medal bamboo twenty host";

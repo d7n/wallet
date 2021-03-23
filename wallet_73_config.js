@@ -1,1 +1,1 @@
-var mnemonic = "sudden weekend verb limb prepare whisper image stairs horse lecture banana muffin";
+var mnemonic = "right eternal dumb praise hub veteran august venture unhappy elegant unit rare";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder garment seek sunset fun royal two resource ticket insane tobacco brand";
+var mnemonic = "hen cry border stick nephew news across radar frozen barely cruel income";

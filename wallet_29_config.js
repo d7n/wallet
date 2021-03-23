@@ -1,1 +1,1 @@
-var mnemonic = "future token immense devote frown other normal scale can soccer laptop fire";
+var mnemonic = "test tribe cheap inherit black unknown rigid soldier else dry east physical";

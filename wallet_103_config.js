@@ -1,1 +1,1 @@
-var mnemonic = "pulse flame maximum memory author width like half thing dune uphold perfect";
+var mnemonic = "tiger include spice evoke dwarf because senior trim wash bean manage arena";

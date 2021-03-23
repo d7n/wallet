@@ -1,1 +1,1 @@
-var mnemonic = "tired bleak object keen divorce wagon often reunion faint job mixed bind";
+var mnemonic = "violin actress cup museum fuel lawsuit family about shove memory cushion valve";

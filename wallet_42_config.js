@@ -1,1 +1,1 @@
-var mnemonic = "engage vanish repeat blouse impulse bounce clutch verify verify monkey way jacket";
+var mnemonic = "hire invest volume pond make economy burst advice hold laundry sunset city";

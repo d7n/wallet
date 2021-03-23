@@ -1,1 +1,1 @@
-var mnemonic = "someone train juice language mule have donor manual romance inflict human ocean";
+var mnemonic = "that canyon long choose squirrel state seminar melt fence noble virus improve";

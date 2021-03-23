@@ -1,1 +1,1 @@
-var mnemonic = "impulse blood trick meadow pact hockey fantasy oven prepare mango provide clerk";
+var mnemonic = "plunge latin buyer occur nerve one label million tonight fence fox endless";

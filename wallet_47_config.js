@@ -1,1 +1,1 @@
-var mnemonic = "size vacant nephew erase coral busy cake depart banana melody token loop";
+var mnemonic = "rhythm timber major wing crop visit state view gossip shiver burger wealth";

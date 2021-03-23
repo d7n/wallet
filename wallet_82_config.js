@@ -1,1 +1,1 @@
-var mnemonic = "silver mass virus install virus call cushion segment refuse unique minute wash";
+var mnemonic = "two detail miracle firm egg divert palm huge endorse pelican large liberty";

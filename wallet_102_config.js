@@ -1,1 +1,1 @@
-var mnemonic = "bean interest direct city scan dry luxury earth deputy gesture okay trend";
+var mnemonic = "silver convince flavor include kingdom broken antique nurse husband country model token";

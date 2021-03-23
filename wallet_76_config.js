@@ -1,1 +1,1 @@
-var mnemonic = "fringe okay deliver post punch jaguar bitter flight adult diet account bracket";
+var mnemonic = "tired method lizard plug student select torch hour snap text depend excuse";

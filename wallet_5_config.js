@@ -1,1 +1,1 @@
-var mnemonic = "then seven bicycle candy choose attack season critic drum wet extra toe";
+var mnemonic = "trim shine lend ice fashion easy hold moral lawn pole nasty boil";

@@ -1,1 +1,1 @@
-var mnemonic = "orange elbow accuse hotel suspect marine mixed trim essay mountain quarter cluster";
+var mnemonic = "remember snack pulse transfer unique people lawsuit snow duck devote spider powder";

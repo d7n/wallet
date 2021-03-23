@@ -1,1 +1,1 @@
-var mnemonic = "throw salon shadow inside fabric punch buyer artwork also note limit spy";
+var mnemonic = "deny right fan affair umbrella hungry sword twice foam park vast suit";

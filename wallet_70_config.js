@@ -1,1 +1,1 @@
-var mnemonic = "blue blind disagree struggle song drink bless solar street thought erosion genre";
+var mnemonic = "scout add trim recipe average add slide boil trend add beauty wish";

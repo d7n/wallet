@@ -1,1 +1,1 @@
-var mnemonic = "require piece ability salad garage bounce uncover bone save sphere little tube";
+var mnemonic = "opera inside spray shrug capital sad size program blame wink broccoli unhappy";

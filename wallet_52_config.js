@@ -1,1 +1,1 @@
-var mnemonic = "term victory sign squeeze high medal attitude stamp tenant lemon outdoor stick";
+var mnemonic = "vivid neglect step sibling inside enemy invest volume obey ozone brief board";

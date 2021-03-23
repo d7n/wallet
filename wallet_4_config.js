@@ -1,1 +1,1 @@
-var mnemonic = "sort hint dial coffee legend offer reduce genuine lemon bleak service milk";
+var mnemonic = "silent world dirt minute drum caught method company vault neither image trip";

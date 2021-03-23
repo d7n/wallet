@@ -1,1 +1,1 @@
-var mnemonic = "rocket journey turn assist stool advance equip forget fever stumble machine stuff";
+var mnemonic = "wheel infant fetch wagon squirrel panther vibrant business input slice one guilt";

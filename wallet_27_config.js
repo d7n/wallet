@@ -1,1 +1,1 @@
-var mnemonic = "ivory crunch make fan tornado elephant canoe reveal sustain plunge have message";
+var mnemonic = "usual grief table pledge coral isolate once vehicle repair fury voyage subject";

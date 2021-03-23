@@ -1,1 +1,1 @@
-var mnemonic = "picnic inch juice scheme method track fly accuse vacant cradle answer scissors";
+var mnemonic = "always hybrid victory quality reduce unknown ahead soap skill this hint dream";

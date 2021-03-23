@@ -1,1 +1,1 @@
-var mnemonic = "sister lesson purpose moon cattle weird radar fat giraffe decrease width canoe";
+var mnemonic = "rival cycle liar garlic miracle swear special isolate certain destroy merge pond";

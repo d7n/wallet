@@ -1,1 +1,1 @@
-var mnemonic = "love possible laundry weather mass nothing elegant rocket deputy prize desert velvet";
+var mnemonic = "erosion mango parrot scheme genuine journey burst wall prison parrot puppy action";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics veteran suspect lunch monitor monster fire lemon age admit tunnel robust";
+var mnemonic = "lecture misery harsh economy sauce cover confirm stomach mosquito twice month lonely";

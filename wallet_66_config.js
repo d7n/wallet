@@ -1,1 +1,1 @@
-var mnemonic = "donate service shock holiday craft region together they afford miracle unusual model";
+var mnemonic = "outdoor bridge brother under embody canyon boil oppose option egg reason castle";

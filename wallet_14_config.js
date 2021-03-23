@@ -1,1 +1,1 @@
-var mnemonic = "funny grass visa now maximum equip song avocado receive relax sort impose";
+var mnemonic = "enough across nest rotate below dilemma fame super alone silent slab thing";

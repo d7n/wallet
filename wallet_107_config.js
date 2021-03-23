@@ -1,1 +1,1 @@
-var mnemonic = "piano screen despair water narrow marriage donor team possible grab arrest kind";
+var mnemonic = "plunge project dog rice kid seven crane success witness silver online hen";

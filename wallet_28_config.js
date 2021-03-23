@@ -1,1 +1,1 @@
-var mnemonic = "smile unfair witness flee ozone utility marble eager paddle like resist exhaust";
+var mnemonic = "walnut delay choice swamp kite fan scatter embody indicate total add angry";

@@ -1,1 +1,1 @@
-var mnemonic = "melt champion demise vapor quote moon print sure divide venue mouse boil";
+var mnemonic = "curve mail fatigue mass can soccer flame document road enjoy vacant toss";

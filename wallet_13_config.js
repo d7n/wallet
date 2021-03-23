@@ -1,1 +1,1 @@
-var mnemonic = "shy essence keen comfort sister degree write aspect then wild woman hospital";
+var mnemonic = "great gun tuition raven talk border dragon anxiety vague portion feel photo";

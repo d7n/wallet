@@ -1,1 +1,1 @@
-var mnemonic = "teach chair meat chimney drama lesson alien scene dish tape egg say";
+var mnemonic = "polar pluck believe garden people mushroom auto surface lazy occur lab enrich";

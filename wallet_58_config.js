@@ -1,1 +1,1 @@
-var mnemonic = "bread neither pig north cattle congress poet ask favorite spawn rookie correct";
+var mnemonic = "original trust ski sleep settle teach segment mutual track jelly depart detect";

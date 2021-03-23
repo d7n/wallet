@@ -1,1 +1,1 @@
-var mnemonic = "fitness evil gauge sponsor extend able yard lift hour narrow boring squirrel";
+var mnemonic = "time health rocket donate rail remember useless tragic bread mutual address real";

@@ -1,1 +1,1 @@
-var mnemonic = "scan suggest misery art spring sister flag farm build dance cereal shadow";
+var mnemonic = "garbage naive permit cram report amateur number earn leg zebra endorse damp";

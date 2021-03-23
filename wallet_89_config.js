@@ -1,1 +1,1 @@
-var mnemonic = "digital night limb violin clean equal shell van benefit bronze next skin";
+var mnemonic = "sister march flag museum detect little shell raise message modify essence chronic";

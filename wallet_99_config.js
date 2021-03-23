@@ -1,1 +1,1 @@
-var mnemonic = "stable paper perfect weapon cart obtain mirror tide anger peanut broken quote";
+var mnemonic = "title endless oblige worry bag seek either marine surge jacket occur candy";

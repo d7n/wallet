@@ -1,1 +1,1 @@
-var mnemonic = "ignore eyebrow jaguar record castle agree next history reason judge knee mask";
+var mnemonic = "replace series fiber essay cushion silk pink rapid craft oblige pyramid hen";

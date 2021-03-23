@@ -1,1 +1,1 @@
-var mnemonic = "book rabbit jungle cruise floor allow casual reunion merry mystery require normal";
+var mnemonic = "puppy state color hard tired sheriff pull output hundred crazy express asset";

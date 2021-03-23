@@ -1,1 +1,1 @@
-var mnemonic = "trade possible token attend chicken know tragic chunk vital giggle lamp sketch";
+var mnemonic = "buffalo advice course goat very minor menu card vocal genre reunion replace";

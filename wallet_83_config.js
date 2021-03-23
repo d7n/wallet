@@ -1,1 +1,1 @@
-var mnemonic = "kite they wagon engage job cancel suit melody conduct cluster warm earth";
+var mnemonic = "clerk place desk hole other tuition style divorce sing already mule program";

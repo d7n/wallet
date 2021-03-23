@@ -1,1 +1,1 @@
-var mnemonic = "design impulse reveal island strike include pudding fame ignore swear worry they";
+var mnemonic = "birth notice arctic canvas gesture thank coral spawn tonight athlete program feed";

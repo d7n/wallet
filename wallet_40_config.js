@@ -1,1 +1,1 @@
-var mnemonic = "refuse rent truck proud idea feed outdoor fantasy leader hair false fossil";
+var mnemonic = "print dog torch holiday mandate trial pig parent life response dolphin craft";

@@ -1,1 +1,1 @@
-var mnemonic = "material junior dream meat undo steel resemble october prison prosper ability bag";
+var mnemonic = "atom twin orient skill danger decrease stick sure announce mammal soft world";

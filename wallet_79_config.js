@@ -1,1 +1,1 @@
-var mnemonic = "unique response invest okay reason health between bring vast learn dry ask";
+var mnemonic = "chaos creek wave bird problem shed pull satoshi spatial enact tilt have";

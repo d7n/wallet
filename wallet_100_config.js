@@ -1,1 +1,1 @@
-var mnemonic = "female chapter one aunt effort steak smart spare move cabbage harsh silent";
+var mnemonic = "claim anger ticket term neck save sock frog idle parent symbol solid";

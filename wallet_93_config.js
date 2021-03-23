@@ -1,1 +1,1 @@
-var mnemonic = "taxi torch client among runway wonder firm spirit plate holiday section track";
+var mnemonic = "upset basic chair impose cream upset cricket never clay print keep level";

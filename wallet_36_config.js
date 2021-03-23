@@ -1,1 +1,1 @@
-var mnemonic = "load develop funny outdoor check advance agent dutch document jewel zero bike";
+var mnemonic = "toss false february crush hole catalog clay flee bounce much habit artwork";

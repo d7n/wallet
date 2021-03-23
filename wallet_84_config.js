@@ -1,1 +1,1 @@
-var mnemonic = "submit asthma reflect mansion intact uniform aspect palm chapter like wagon pigeon";
+var mnemonic = "cushion good shoulder long later enact adult end sadness tonight lunch invite";

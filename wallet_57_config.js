@@ -1,1 +1,1 @@
-var mnemonic = "jar same debate country rely add weasel false spray erupt vast kidney";
+var mnemonic = "gravity enhance noise oak liquid boring initial kangaroo hawk atom pulse choice";

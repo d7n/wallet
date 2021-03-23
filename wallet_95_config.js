@@ -1,1 +1,1 @@
-var mnemonic = "dirt length bachelor violin reflect breeze execute film unveil twin melt mother";
+var mnemonic = "health casino bundle heavy comfort battle glue fan provide theory lonely news";

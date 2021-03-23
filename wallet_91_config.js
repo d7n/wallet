@@ -1,1 +1,1 @@
-var mnemonic = "journey spice doctor exclude limb ball joke wrestle snake limit garden east";
+var mnemonic = "between warrior glass describe steak mention alien secret before dune rookie nest";

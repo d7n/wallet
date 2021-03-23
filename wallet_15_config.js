@@ -1,1 +1,1 @@
-var mnemonic = "boost love bulb tool around begin veteran police candy oblige ridge evil";
+var mnemonic = "margin galaxy thumb car left scare beef waste birth uniform pause raw";

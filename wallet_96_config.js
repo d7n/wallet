@@ -1,1 +1,1 @@
-var mnemonic = "illness couch spot churn diary alley sunny inmate taxi best word say";
+var mnemonic = "alarm search valid cupboard humble cycle oven acquire scout tube crash release";

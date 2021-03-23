@@ -1,1 +1,1 @@
-var mnemonic = "offer fold arctic all nurse various better donate caught dad oppose door";
+var mnemonic = "switch there confirm unfair bless business brain joy siren spoon cement wife";

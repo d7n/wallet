@@ -1,1 +1,1 @@
-var mnemonic = "bless horn south glad floor manage husband issue normal motor assume ocean";
+var mnemonic = "green endless pigeon isolate celery fossil liquid limit federal absurd pole kite";

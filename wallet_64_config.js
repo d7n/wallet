@@ -1,1 +1,1 @@
-var mnemonic = "betray toward will stick uncle mandate grass trigger lion crack glad typical";
+var mnemonic = "afford slender move relax hawk emotion mix proud peasant iron spin century";

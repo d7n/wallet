@@ -1,1 +1,1 @@
-var mnemonic = "predict harsh wash pledge place result help future cloud outdoor hill front";
+var mnemonic = "just arrange welcome cake fragile finger faith vault effort twin keen degree";

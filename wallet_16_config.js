@@ -1,1 +1,1 @@
-var mnemonic = "sport attend print sphere ivory huge bind raven index prize please wave";
+var mnemonic = "omit junior sadness blade dish close excess steel stand answer reveal rebuild";

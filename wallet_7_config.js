@@ -1,1 +1,1 @@
-var mnemonic = "minimum treat wine repeat ranch inspire shrimp fitness defense over uniform title";
+var mnemonic = "mixture start pelican spoon food chimney rabbit maximum unveil mouse fossil category";

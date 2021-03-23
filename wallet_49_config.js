@@ -1,1 +1,1 @@
-var mnemonic = "endless dad cinnamon play trophy version kit use stick benefit domain strategy";
+var mnemonic = "extra flock finish riot input walk hawk close surface hub dumb term";

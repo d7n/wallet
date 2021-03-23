@@ -1,1 +1,1 @@
-var mnemonic = "sustain matter aim blush loop net federal window pudding lake hope uphold";
+var mnemonic = "snow live legal tree almost outside cancel recipe unaware pottery electric order";

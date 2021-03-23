@@ -1,1 +1,1 @@
-var mnemonic = "antenna lumber good become hope mammal danger stage wink vote tongue fetch";
+var mnemonic = "replace often purpose lava shoulder shock neutral body lemon village unfold enforce";

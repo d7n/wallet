@@ -1,1 +1,1 @@
-var mnemonic = "lazy virus learn smoke eager charge alpha fee person skull diesel crouch";
+var mnemonic = "pull notice time original trade track rack apart inquiry album dirt claw";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt flash napkin guess carry crack raw cage inmate chimney oxygen situate";
+var mnemonic = "decrease eager expose sustain engage match green inject inside surface audit marriage";

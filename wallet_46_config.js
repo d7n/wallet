@@ -1,1 +1,1 @@
-var mnemonic = "earth assist magic state memory snow valley acid lobster day trap buddy";
+var mnemonic = "target toast awesome city shallow stable upon ritual toilet lawn more core";

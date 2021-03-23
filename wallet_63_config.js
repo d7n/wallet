@@ -1,1 +1,1 @@
-var mnemonic = "primary risk punch silent choice quantum huge release side lyrics curve lake";
+var mnemonic = "unique fiscal fossil begin employ castle absorb script senior pledge where inside";

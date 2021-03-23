@@ -1,1 +1,1 @@
-var mnemonic = "yard phrase great garment faculty order misery night attend sure duck copy";
+var mnemonic = "engine near arrive labor test make cup shell web path weird brain";

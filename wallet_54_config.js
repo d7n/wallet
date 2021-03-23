@@ -1,1 +1,1 @@
-var mnemonic = "escape mixture brush favorite latin ripple bonus short police renew grace satisfy";
+var mnemonic = "force bag toast mix enact deal vendor awful donate smoke wrap grant";

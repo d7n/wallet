@@ -1,1 +1,1 @@
-var mnemonic = "when detail climb voyage jaguar tragic champion laptop oyster sun tiger industry";
+var mnemonic = "health spot example stone civil margin solution host vacant require federal logic";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness exit term proof smoke air acid economy hat letter cover divert";
+var mnemonic = "eye grocery hill okay card curve pigeon zero solution draft bullet build";

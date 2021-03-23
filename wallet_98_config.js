@@ -1,1 +1,1 @@
-var mnemonic = "sea security brave stem void lunch vast adapt coin desert dash accuse";
+var mnemonic = "report parrot sleep bind until giggle pig spare emerge injury sketch walnut";

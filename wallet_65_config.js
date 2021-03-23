@@ -1,1 +1,1 @@
-var mnemonic = "guess unknown idea pepper frog erase crack pipe type option equip priority";
+var mnemonic = "express turtle genius devote claim escape burst arctic twin oil bachelor join";
