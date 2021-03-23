@@ -1,1 +1,1 @@
-var mnemonic = "raise bonus salon motor chase script sword produce faint canoe typical canal";
+var mnemonic = "cinnamon asthma myth monkey reward tomato net trip gown dentist artist point";

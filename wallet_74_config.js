@@ -1,1 +1,1 @@
-var mnemonic = "weather topple firm sketch prepare wet gossip consider year appear drive umbrella";
+var mnemonic = "table gallery regret vivid flock ketchup surface crater visa reopen airport drill";

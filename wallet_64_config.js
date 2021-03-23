@@ -1,1 +1,1 @@
-var mnemonic = "rail absorb flee settle mutual memory vintage cherry prison enable giggle festival";
+var mnemonic = "phrase canal drastic movie gloom lava boil rent accident vital three ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "shine glance door lumber wheel melody fine add oblige arrow seminar lab";
+var mnemonic = "method wisdom check give cruise evil swallow outdoor wheel shoot veteran coin";

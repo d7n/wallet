@@ -1,1 +1,1 @@
-var mnemonic = "short surprise spoon media license wash sudden vanish fall human journey sentence";
+var mnemonic = "sense audit cake fence approve jaguar divide tent maze hedgehog dignity front";

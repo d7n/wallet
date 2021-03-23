@@ -1,1 +1,1 @@
-var mnemonic = "snake draft snow scout taste craft orbit robust genre oppose safe pulp";
+var mnemonic = "spell answer slab ice baby one clump into brand hedgehog leisure process";

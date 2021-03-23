@@ -1,1 +1,1 @@
-var mnemonic = "tuna subject hero shy biology roast warm million convince eye buyer mind";
+var mnemonic = "city wrap dwarf cake force neither anchor uphold segment enable liar deer";

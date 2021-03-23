@@ -1,1 +1,1 @@
-var mnemonic = "doctor network vote square inherit stove first vivid glue glimpse green boost";
+var mnemonic = "panther car december sea between letter else jelly battle cement axis portion";

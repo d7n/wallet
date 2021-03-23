@@ -1,1 +1,1 @@
-var mnemonic = "fence fall such couch shove govern angle oppose insect carry remind fiber";
+var mnemonic = "dinosaur fault hip doctor topic forget brisk poverty federal icon fiction horn";

@@ -1,1 +1,1 @@
-var mnemonic = "affair frown penalty mechanic gym banana brown smart fringe sweet north notable";
+var mnemonic = "enact fat crystal exchange real husband ice protect often orbit unable civil";

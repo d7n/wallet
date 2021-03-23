@@ -1,1 +1,1 @@
-var mnemonic = "arrow work blade tower attack traffic penalty guess dizzy busy brand art";
+var mnemonic = "canoe slogan property grocery episode quality female source casual furnace hill wreck";

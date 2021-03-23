@@ -1,1 +1,1 @@
-var mnemonic = "huge extra bind give often hover canoe seminar system divert box bone";
+var mnemonic = "produce flee army vote mushroom loyal picnic concert result become upgrade blade";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious peasant drink test piano link leisure early mad merge mechanic chunk";
+var mnemonic = "sea nation body shuffle trade thunder soon raven guess mail exotic produce";

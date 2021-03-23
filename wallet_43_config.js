@@ -1,1 +1,1 @@
-var mnemonic = "bone fall risk whip soccer alley deposit today swamp worry bargain payment";
+var mnemonic = "renew toss patrol lab goat brass enlist tennis leopard wrist aunt chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "curve question analyst cram enrich mountain fall spot garden feed toast table";
+var mnemonic = "caution antique boring scatter glad exit woman bonus prize emotion hotel coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "amount power silent truck project famous crisp popular stem garage armed frost";
+var mnemonic = "when electric huge pass crumble dance bulb copper holiday struggle enroll person";

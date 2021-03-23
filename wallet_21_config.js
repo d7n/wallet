@@ -1,1 +1,1 @@
-var mnemonic = "unit lava athlete order grit coconut brave frost describe nature correct sauce";
+var mnemonic = "dress shrug sweet crop track hip post question right rough evoke hello";

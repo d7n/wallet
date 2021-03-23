@@ -1,1 +1,1 @@
-var mnemonic = "hand comic shield lecture crack trial habit canvas maid choice stamp vote";
+var mnemonic = "bright fat soldier couch trip science noodle gather train behind figure scan";

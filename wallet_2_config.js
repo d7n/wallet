@@ -1,1 +1,1 @@
-var mnemonic = "twelve visa sample pistol black silk ginger suggest glove taste behave globe";
+var mnemonic = "real tail garage reform cupboard record bicycle canyon impact during valley deliver";

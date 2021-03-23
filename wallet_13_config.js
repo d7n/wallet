@@ -1,1 +1,1 @@
-var mnemonic = "error glare fun hybrid young valley arrive uphold rebel load ice burst";
+var mnemonic = "vintage craft ignore coral pull sketch heavy service carpet wolf evoke already";

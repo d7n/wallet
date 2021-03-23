@@ -1,1 +1,1 @@
-var mnemonic = "slice pen mutual carbon wise blind twist atom dice tragic alone awake";
+var mnemonic = "margin behave silent veteran steel device fox glide run grid cave voice";

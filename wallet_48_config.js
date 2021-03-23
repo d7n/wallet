@@ -1,1 +1,1 @@
-var mnemonic = "mosquito local original loop yellow obtain teach swallow friend dynamic recall cram";
+var mnemonic = "finger gossip orchard evolve rich enrich planet settle awful light expose sign";

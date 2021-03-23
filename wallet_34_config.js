@@ -1,1 +1,1 @@
-var mnemonic = "bean upon hand tomorrow coach love novel energy little neutral proud busy";
+var mnemonic = "obtain useful skirt company common album panic neither horse supreme damp zebra";

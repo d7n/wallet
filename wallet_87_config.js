@@ -1,1 +1,1 @@
-var mnemonic = "scare recycle emotion cave attend merge neither lemon famous rug super awkward";
+var mnemonic = "lava busy problem spike craft tag knee resist survey zoo dice believe";

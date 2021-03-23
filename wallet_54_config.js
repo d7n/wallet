@@ -1,1 +1,1 @@
-var mnemonic = "upset crack debris air joke toe magnet depart grab shield fringe base";
+var mnemonic = "salmon maple pattern ridge salute coin process danger useless attract hen picnic";

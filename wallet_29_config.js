@@ -1,1 +1,1 @@
-var mnemonic = "amused march limb erosion license good velvet satoshi steak elite fringe couch";
+var mnemonic = "label add fetch toward melody secret shift remove imitate okay sample elephant";

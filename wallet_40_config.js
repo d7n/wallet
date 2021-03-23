@@ -1,1 +1,1 @@
-var mnemonic = "because train fix copy chunk list quiz rhythm summer sense kangaroo idle";
+var mnemonic = "peasant lottery wrestle parent twelve fog reunion tattoo solve hidden cycle web";

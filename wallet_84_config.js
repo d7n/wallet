@@ -1,1 +1,1 @@
-var mnemonic = "bargain equip round beyond floor pencil caution screen hard lawn suffer amused";
+var mnemonic = "violin autumn damp drive chronic dog wisdom silver usage parent castle climb";

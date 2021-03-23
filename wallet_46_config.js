@@ -1,1 +1,1 @@
-var mnemonic = "draw corn turn vital service gloom misery fever place obey funny journey";
+var mnemonic = "isolate century truth luxury ensure theme exile fatal street catalog expose child";

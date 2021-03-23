@@ -1,1 +1,1 @@
-var mnemonic = "bird skin size music cute island local arrow tuition vibrant inflict device";
+var mnemonic = "shoulder virtual label cool future dune nose vault suggest chest high town";

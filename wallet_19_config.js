@@ -1,1 +1,1 @@
-var mnemonic = "forum spare hat apology puzzle quick between reveal leader absurd unaware legend";
+var mnemonic = "awesome corn glance pattern member stamp merge shoulder affair limb travel solution";

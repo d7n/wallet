@@ -1,1 +1,1 @@
-var mnemonic = "blur citizen rare shed nurse allow asthma rate lyrics dwarf enable guard";
+var mnemonic = "pottery will toy shed cloud under sister sketch route demise slim candy";

@@ -1,1 +1,1 @@
-var mnemonic = "super tool universe banana destroy please bullet syrup team mobile diary mistake";
+var mnemonic = "normal between act genius gospel jelly myth dance bulb royal ritual table";

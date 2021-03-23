@@ -1,1 +1,1 @@
-var mnemonic = "humor practice asthma crowd twin edit setup nut caught crouch club rubber";
+var mnemonic = "circle camera loan expect mandate dutch raccoon burst explain blush maximum athlete";

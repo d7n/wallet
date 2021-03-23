@@ -1,1 +1,1 @@
-var mnemonic = "wolf review advice liar actor mention arch right grass attack radio marriage";
+var mnemonic = "awkward indicate young priority amazing shadow devote still myself prefer clock erode";

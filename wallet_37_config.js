@@ -1,1 +1,1 @@
-var mnemonic = "winter easy thought couch banana hero blame boy mutual direct goddess poet";
+var mnemonic = "edit burden siege beauty advice front deliver vendor elephant twice glue mass";

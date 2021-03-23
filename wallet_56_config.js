@@ -1,1 +1,1 @@
-var mnemonic = "blast praise monkey damage exist logic maid erode category forget mad group";
+var mnemonic = "entire wagon ignore leg hip runway access buyer zebra super live mad";

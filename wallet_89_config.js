@@ -1,1 +1,1 @@
-var mnemonic = "trim answer sunset cream gospel birth hero early pink diesel organ shoe";
+var mnemonic = "sunset gown armed scare weekend ship worry wolf enlist buzz rice exit";

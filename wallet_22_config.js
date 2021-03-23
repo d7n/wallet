@@ -1,1 +1,1 @@
-var mnemonic = "assault winner scorpion math club reopen electric rare impose cry crew only";
+var mnemonic = "attitude video pet error silent vehicle aunt theme disorder champion carpet suit";

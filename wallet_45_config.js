@@ -1,1 +1,1 @@
-var mnemonic = "friend zero border cargo february only peasant jungle gas system spell demise";
+var mnemonic = "silent butter mad matter orbit boss olive dad draft shine enact donor";

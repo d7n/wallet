@@ -1,1 +1,1 @@
-var mnemonic = "royal rug fancy airport cupboard room elite series park flash matter lady";
+var mnemonic = "castle deposit imitate arctic other economy deposit easy struggle hole rib edge";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder marine cheese search cushion pair wrestle rude juice like dumb glove";
+var mnemonic = "ketchup nest erode beach daring suit visit ship close drop ticket double";

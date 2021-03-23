@@ -1,1 +1,1 @@
-var mnemonic = "material evoke legend clever believe impact rifle vicious code list diamond oppose";
+var mnemonic = "assume dice toast muffin vehicle amused upset blind beyond bring entire chase";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle clump one tooth gloom rent ten bean rebuild doctor pistol disagree";
+var mnemonic = "secret jewel trash matter exchange express vote coral odor emerge hole garment";

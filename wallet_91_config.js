@@ -1,1 +1,1 @@
-var mnemonic = "drop valve worry end park confirm virtual paddle canvas seven attend crazy";
+var mnemonic = "design pause offer allow medal behind wire clay shine front fork tool";

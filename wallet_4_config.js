@@ -1,1 +1,1 @@
-var mnemonic = "dismiss tooth giggle vital onion mad swim case describe guide sorry affair";
+var mnemonic = "impulse desk brisk melt alien team future example current athlete quiz rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "inform section panel joy party bag science camp thunder camera comic busy";
+var mnemonic = "anchor tackle trend clap gate check waste clay tiger rose arena prefer";

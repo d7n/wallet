@@ -1,1 +1,1 @@
-var mnemonic = "canoe switch misery skill repair supply issue hill pluck bird power cable";
+var mnemonic = "vast payment surface curtain emotion giggle more truth first cause obvious rebel";

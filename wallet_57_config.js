@@ -1,1 +1,1 @@
-var mnemonic = "broken crystal diet scissors betray note wolf genius flock winter state morning";
+var mnemonic = "price home power offer seat cruel simple treat bean speed couple donkey";

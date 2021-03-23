@@ -1,1 +1,1 @@
-var mnemonic = "exhaust worry impose host picture exhibit action usual bomb wisdom shaft element";
+var mnemonic = "fever leave this garlic woman feel patient exist era swarm jaguar riot";

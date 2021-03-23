@@ -1,1 +1,1 @@
-var mnemonic = "clever state zoo fix prevent busy robot smile vessel ridge genre habit";
+var mnemonic = "federal accident large have treat lizard enhance rebel absurd govern icon bench";

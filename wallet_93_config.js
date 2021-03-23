@@ -1,1 +1,1 @@
-var mnemonic = "daughter awkward away patrol worth oyster rebuild practice bitter system resource yellow";
+var mnemonic = "end bless toward term crack hand civil hover amateur error one average";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb wire faculty model series badge near deer sunset brain smart ceiling";
+var mnemonic = "drink sugar dose warm fault claim method pulse step wool crater wood";

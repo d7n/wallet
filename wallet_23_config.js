@@ -1,1 +1,1 @@
-var mnemonic = "energy permit hockey deal return lucky old novel kidney coral pair present";
+var mnemonic = "broken link swift better unusual twist smart reduce upgrade arrive luxury admit";

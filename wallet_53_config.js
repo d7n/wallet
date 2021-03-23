@@ -1,1 +1,1 @@
-var mnemonic = "pigeon project shoulder toddler lab extra wish behind science shoulder tone ginger";
+var mnemonic = "improve vague there borrow major unit laptop prison hole casino toy virtual";

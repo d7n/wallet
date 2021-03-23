@@ -1,1 +1,1 @@
-var mnemonic = "boat tiny sure analyst special all plug join chest second push tide";
+var mnemonic = "tape frog marble exhibit ranch front ball harsh antenna submit man right";

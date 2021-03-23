@@ -1,1 +1,1 @@
-var mnemonic = "kidney various sure load learn leisure robust dog dirt fee long spice";
+var mnemonic = "ecology penalty pretty word ring pyramid silly story hair inspire later range";

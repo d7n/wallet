@@ -1,1 +1,1 @@
-var mnemonic = "quote net tent illness runway vibrant border quantum sound already crane acid";
+var mnemonic = "picture acquire craft feed claim pizza misery crater mountain engage blood skirt";

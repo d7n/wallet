@@ -1,1 +1,1 @@
-var mnemonic = "duck foot artist night slender pony unlock law swear delay blind lawn";
+var mnemonic = "twelve rely team stereo husband cargo repeat calm club sorry funny about";

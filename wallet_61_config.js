@@ -1,1 +1,1 @@
-var mnemonic = "client prison all curious antenna orange winner whisper garage high rival razor";
+var mnemonic = "lift stereo little ice palm pattern result inhale toast siege sunny century";

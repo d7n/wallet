@@ -1,1 +1,1 @@
-var mnemonic = "tobacco royal bounce kid powder museum process brain proud volcano december night";
+var mnemonic = "raven treat student total quarter hope gather soccer gauge kind crowd obscure";

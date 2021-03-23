@@ -1,1 +1,1 @@
-var mnemonic = "edit bag helmet churn lamp basic divert ranch attract coach label rigid";
+var mnemonic = "lemon early faith arrange tackle height shallow sentence pelican link brother outdoor";

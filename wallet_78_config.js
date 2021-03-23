@@ -1,1 +1,1 @@
-var mnemonic = "lesson balcony theme replace aim sock gate sentence nose account eagle rack";
+var mnemonic = "field mammal apart carbon hollow pluck crucial fence output orbit upset session";

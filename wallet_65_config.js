@@ -1,1 +1,1 @@
-var mnemonic = "apology match achieve achieve mixed ski matrix what balcony sunny ancient enact";
+var mnemonic = "finish among breeze valid butter cup oppose round relief napkin mirror mask";

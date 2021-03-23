@@ -1,1 +1,1 @@
-var mnemonic = "case eternal below radio error forget spatial vessel nothing family cat group";
+var mnemonic = "convince defy endorse anchor cause right fan feed ticket hip fatal mind";

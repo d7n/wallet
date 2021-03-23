@@ -1,1 +1,1 @@
-var mnemonic = "ginger physical lift equal donor display negative present common all endorse symptom";
+var mnemonic = "jeans orient course dismiss adapt rifle foil build under vapor nephew into";

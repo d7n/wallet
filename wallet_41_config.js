@@ -1,1 +1,1 @@
-var mnemonic = "toe myself course swallow novel clock army rain accident heavy gorilla toward";
+var mnemonic = "rare million purse that push world install oblige mango beach human tell";

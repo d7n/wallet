@@ -1,1 +1,1 @@
-var mnemonic = "measure lecture husband gaze one plug acquire cargo urban sea split edit";
+var mnemonic = "castle grant bunker disorder link school father nose whale video year enforce";

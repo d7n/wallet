@@ -1,1 +1,1 @@
-var mnemonic = "sheriff bitter dust ski bid song rough trade pottery hungry grocery current";
+var mnemonic = "zoo memory frog genius voice merry method price daughter inmate else text";

@@ -1,1 +1,1 @@
-var mnemonic = "wool earn chapter exclude fall art alarm series roast defense census globe";
+var mnemonic = "fragile void sorry economy airport claw father gift furnace forum element pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "safe undo alone lady act peace neglect kiss vote town net always";
+var mnemonic = "credit utility way average drive advance visual frown victory stove home isolate";

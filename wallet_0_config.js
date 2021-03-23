@@ -1,1 +1,1 @@
-var mnemonic = "pilot topple avocado gift endorse sentence claw van tube party chair vintage";
+var mnemonic = "rigid wear vapor section spin hurt treat cash hammer rail attack cruise";

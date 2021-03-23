@@ -1,1 +1,1 @@
-var mnemonic = "stand raise exotic exit vehicle between kidney indoor nothing seek lazy famous";
+var mnemonic = "tattoo tiny cloud liar few buffalo lobster speak monkey kiss anger twice";

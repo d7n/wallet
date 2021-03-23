@@ -1,1 +1,1 @@
-var mnemonic = "attend lunar arena lunch access dash loud receive empty practice civil word";
+var mnemonic = "enough yard chronic then evidence squeeze whisper gesture spatial fun cool endless";

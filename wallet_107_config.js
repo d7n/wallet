@@ -1,1 +1,1 @@
-var mnemonic = "guilt milk insect answer drive divide museum shrug child live win student";
+var mnemonic = "hub switch unable elder when setup corn copy blanket seminar west canal";

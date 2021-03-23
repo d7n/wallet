@@ -1,1 +1,1 @@
-var mnemonic = "engage erosion you achieve manage label either ready hamster boat common dinner";
+var mnemonic = "scan matrix kangaroo erase nasty dynamic organ assume table limb bread spring";

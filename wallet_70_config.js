@@ -1,1 +1,1 @@
-var mnemonic = "echo patient spider language stumble twist museum card obvious frame forum smart";
+var mnemonic = "knee feed rail bubble inch shoe special humble crush flag extra sugar";

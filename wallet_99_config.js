@@ -1,1 +1,1 @@
-var mnemonic = "choice entry fox fragile use attract voyage weather drink wage review display";
+var mnemonic = "key receive rally fox scene place twelve meadow coconut labor invite lens";

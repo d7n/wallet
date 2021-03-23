@@ -1,1 +1,1 @@
-var mnemonic = "truck pumpkin daughter siren dash already mouse medal later produce load balcony";
+var mnemonic = "spike matrix jewel congress denial extra parent differ improve barely yard pride";

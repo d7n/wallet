@@ -1,1 +1,1 @@
-var mnemonic = "about wood help pretty crush visual fruit sure town fuel tooth wise";
+var mnemonic = "design morning tiger napkin mechanic scale record whale unit speak promote depend";

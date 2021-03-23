@@ -1,1 +1,1 @@
-var mnemonic = "thing flock try say cover amount unfair describe crime very abandon inch";
+var mnemonic = "match dress banner evil fringe retire chunk unknown salmon short helmet artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "normal scatter horn derive demise relief afraid color tray pact camera fade";
+var mnemonic = "rookie swamp once knife shed balance slow vital swing alter empty ladder";

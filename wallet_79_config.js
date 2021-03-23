@@ -1,1 +1,1 @@
-var mnemonic = "twelve artwork manual hurt liar trade smooth punch luxury foot split story";
+var mnemonic = "police bone voyage layer coffee collect wisdom super foot distance caution ignore";

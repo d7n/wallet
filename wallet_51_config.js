@@ -1,1 +1,1 @@
-var mnemonic = "dream month exotic fox record fire extra build spoon leave rough average";
+var mnemonic = "subject shallow outer path light panther submit alone idea uniform toast fossil";

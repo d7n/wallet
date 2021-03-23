@@ -1,1 +1,1 @@
-var mnemonic = "kiss guilt future tackle young begin when wear mask post kiss goose";
+var mnemonic = "cannon orbit awful mechanic slogan anger insane venue luxury word surface metal";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh noodle empty convince want defense juice syrup rescue stick weird crane";
+var mnemonic = "pulp achieve sand bird regret actor stock web excess material trap caught";

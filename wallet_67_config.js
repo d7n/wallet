@@ -1,1 +1,1 @@
-var mnemonic = "twelve gauge ribbon bottom release absorb expand decorate meat leave dolphin salmon";
+var mnemonic = "real million dove reason journey jar rich group copy dutch crunch success";

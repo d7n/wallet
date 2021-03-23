@@ -1,1 +1,1 @@
-var mnemonic = "federal aim barely law sunset wave kit innocent render battle around farm";
+var mnemonic = "trust giggle embody mimic neglect anxiety jealous sick water someone spread print";

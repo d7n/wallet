@@ -1,1 +1,1 @@
-var mnemonic = "renew spare since embark hundred tissue dolphin muscle capable leaf visit clutch";
+var mnemonic = "practice wild catalog you cook series doctor lazy like design onion fan";

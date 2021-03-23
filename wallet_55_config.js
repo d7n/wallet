@@ -1,1 +1,1 @@
-var mnemonic = "offer motor joke web mad sheriff gun give pride song upgrade blood";
+var mnemonic = "seven tumble rare smile flag mother bulk put attend reveal guitar tower";

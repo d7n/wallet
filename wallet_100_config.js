@@ -1,1 +1,1 @@
-var mnemonic = "spring relax luggage run never dish attack awake snow long relief assume";
+var mnemonic = "cool long task divide urge news entry twenty struggle stone surge slice";
