@@ -1,1 +1,1 @@
-var mnemonic = "model basic have dog outer tiger ring muscle upset raven lottery multiply";
+var mnemonic = "fox lyrics mystery permit similar adult way end wide brass lab castle";

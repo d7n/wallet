@@ -1,1 +1,1 @@
-var mnemonic = "inmate absorb receive tourist analyst decline acid vacant material explain food ketchup";
+var mnemonic = "layer glory good worth eyebrow weasel husband cattle fantasy play comic glide";

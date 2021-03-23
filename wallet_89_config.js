@@ -1,1 +1,1 @@
-var mnemonic = "trial rather meat museum month twelve strong slot below trigger display short";
+var mnemonic = "then luggage pluck frozen hospital flat canoe custom hollow tuna defy error";

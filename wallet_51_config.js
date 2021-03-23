@@ -1,1 +1,1 @@
-var mnemonic = "deliver leopard only man way little broken run liar ceiling first iron";
+var mnemonic = "vault dream accuse act library ill wagon peace airport about collect quarter";

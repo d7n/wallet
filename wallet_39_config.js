@@ -1,1 +1,1 @@
-var mnemonic = "borrow bundle armor orbit crane actual mother behind wonder below place milk";
+var mnemonic = "quiz humor end grid wing recycle eight boost force accuse dry unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "flight size busy sand method razor helmet release move cute cabin diary";
+var mnemonic = "fitness priority club scene draw portion used radio spin sniff struggle fine";

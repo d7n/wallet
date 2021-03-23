@@ -1,1 +1,1 @@
-var mnemonic = "task public cherry phrase opera diet picnic cause match stadium elder chair";
+var mnemonic = "upset rapid bulb wreck sunset sea scale crush excess interest cluster surge";

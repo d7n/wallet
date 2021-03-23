@@ -1,1 +1,1 @@
-var mnemonic = "tag extend stem battle funny viable garbage kangaroo tray athlete blast idle";
+var mnemonic = "stumble swarm slim illegal zebra soccer tornado unaware play detect sign album";

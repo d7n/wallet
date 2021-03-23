@@ -1,1 +1,1 @@
-var mnemonic = "yellow merry pool token since olive three finish rifle uncover dawn agent";
+var mnemonic = "tobacco reward claim cry hawk end era slot below alien mistake undo";

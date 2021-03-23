@@ -1,1 +1,1 @@
-var mnemonic = "danger hub pilot burden other click word double remove negative skull resemble";
+var mnemonic = "spell method shell begin liberty employ smile buyer eyebrow program heart jazz";

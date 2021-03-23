@@ -1,1 +1,1 @@
-var mnemonic = "veteran theory climb innocent detect fox weasel pulp weather toss expose dolphin";
+var mnemonic = "crystal biology start punch equal mixture invest scene powder hockey act evolve";

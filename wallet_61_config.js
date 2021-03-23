@@ -1,1 +1,1 @@
-var mnemonic = "goose trash various bridge grape clock loan also jacket mind gas negative";
+var mnemonic = "drastic cushion velvet park iron tilt above parade pigeon butter path wood";

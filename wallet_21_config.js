@@ -1,1 +1,1 @@
-var mnemonic = "kiss balcony energy list demand abandon sail educate frost blush thumb child";
+var mnemonic = "churn trust field repeat kitten damage convince fold chapter stereo code list";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel peace claw melody strong fever desk essay inherit hip cloth warm";
+var mnemonic = "table build edge effort benefit width left salute place wealth wide situate";

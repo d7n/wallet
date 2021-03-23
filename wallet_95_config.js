@@ -1,1 +1,1 @@
-var mnemonic = "mango weird leaf worth artefact crunch delay recall royal expand shine critic";
+var mnemonic = "cheese bridge rebel coil grit air bind cool patch merge bubble yellow";

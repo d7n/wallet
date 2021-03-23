@@ -1,1 +1,1 @@
-var mnemonic = "lyrics chronic join output below pudding canvas clog kiss dash subway device";
+var mnemonic = "office float style pave dawn awesome loud found tube lounge select again";

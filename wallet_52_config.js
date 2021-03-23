@@ -1,1 +1,1 @@
-var mnemonic = "woman early polar win above hour wing wave enact affair rough wagon";
+var mnemonic = "essay color buyer tool motion salon depend dial vicious evoke tenant wave";

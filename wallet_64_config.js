@@ -1,1 +1,1 @@
-var mnemonic = "chuckle lemon tuition impose opinion lunch antenna ivory trash shock uncover gaze";
+var mnemonic = "swift idea december diesel tackle metal fortune define cook legend found fantasy";

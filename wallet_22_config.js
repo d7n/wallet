@@ -1,1 +1,1 @@
-var mnemonic = "quick shift wheat hobby valve drill excuse citizen recycle case favorite rail";
+var mnemonic = "glory cross best screen rare talk can replace appear dream way neutral";

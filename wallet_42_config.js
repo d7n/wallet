@@ -1,1 +1,1 @@
-var mnemonic = "like wrist fresh electric drift remove canoe fork job hat coast asset";
+var mnemonic = "scrub hybrid pig acoustic resist conduct master year river home rate turkey";

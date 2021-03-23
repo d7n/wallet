@@ -1,1 +1,1 @@
-var mnemonic = "enroll pond regret such dignity moral stove saddle endless february guilt salmon";
+var mnemonic = "fossil surround immense evil crush grunt rigid cabbage company urge inquiry purse";

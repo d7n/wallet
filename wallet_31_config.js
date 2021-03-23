@@ -1,1 +1,1 @@
-var mnemonic = "soup random despair ready science pottery original dentist bar slush year brain";
+var mnemonic = "scan menu breeze crater clog route scatter game light emotion travel mesh";

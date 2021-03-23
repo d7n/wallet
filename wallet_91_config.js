@@ -1,1 +1,1 @@
-var mnemonic = "velvet find record spend mutual smart castle month ugly sound march plastic";
+var mnemonic = "afraid almost harsh energy trap project similar shoulder sign utility gravity wish";

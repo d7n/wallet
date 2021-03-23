@@ -1,1 +1,1 @@
-var mnemonic = "riot embark abuse sister live vanish category indoor uncover tonight device citizen";
+var mnemonic = "also deer unable leaf manual slot bubble team angle goat weapon decide";

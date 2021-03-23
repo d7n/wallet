@@ -1,1 +1,1 @@
-var mnemonic = "sugar permit choice mule dumb also tired wink bleak broccoli floor general";
+var mnemonic = "lyrics other patch remain social piece chaos artefact above pair good alien";

@@ -1,1 +1,1 @@
-var mnemonic = "impact nut smooth mix where still pulse midnight jar profit diet unlock";
+var mnemonic = "bamboo bargain august fold leaf dad exhibit bitter reduce era admit taxi";

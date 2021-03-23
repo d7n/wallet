@@ -1,1 +1,1 @@
-var mnemonic = "roof maze voyage live put raccoon predict throw garage select mammal pigeon";
+var mnemonic = "lottery choose help average vintage whip pyramid tomato hill inflict end neglect";

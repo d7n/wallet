@@ -1,1 +1,1 @@
-var mnemonic = "perfect anchor now salad useful taxi cupboard number fade common top peanut";
+var mnemonic = "host fix symptom grief century umbrella replace exchange differ expand slogan crucial";

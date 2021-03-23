@@ -1,1 +1,1 @@
-var mnemonic = "kit drink rocket gallery guilt prepare hole drum artefact harsh feed organ";
+var mnemonic = "warrior allow fever crop rail spice hip code dog illegal truth world";

@@ -1,1 +1,1 @@
-var mnemonic = "tail fit daring tank minor find member hammer loud dance remain rebuild";
+var mnemonic = "wrist lens promote measure decline orange review inquiry flame include false similar";

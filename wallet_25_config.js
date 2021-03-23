@@ -1,1 +1,1 @@
-var mnemonic = "remind prison resource immune inherit route seven ceiling filter fiber chicken profit";
+var mnemonic = "drum hunt elephant club rifle cigar unlock close play daughter peasant skate";

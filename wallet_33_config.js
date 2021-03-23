@@ -1,1 +1,1 @@
-var mnemonic = "fashion tumble alcohol rack solid time fresh door illness consider jump royal";
+var mnemonic = "treat spy ramp media pen critic blanket idle normal provide edit volume";

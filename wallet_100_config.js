@@ -1,1 +1,1 @@
-var mnemonic = "consider glide flower hen uphold banana boring salad suggest grass erase elegant";
+var mnemonic = "tank daring vehicle throw mobile damp brief stick shrug canoe spider aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "blur grain render chest myself ignore audit hammer solve master leader vital";
+var mnemonic = "seven distance pistol recipe balance secret rescue acoustic famous witness attack snow";

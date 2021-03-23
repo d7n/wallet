@@ -1,1 +1,1 @@
-var mnemonic = "detect civil unknown goose whip correct transfer logic jewel doctor coconut trial";
+var mnemonic = "mansion turkey fox pupil attract festival omit say impulse onion during black";

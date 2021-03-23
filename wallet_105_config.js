@@ -1,1 +1,1 @@
-var mnemonic = "armor elder prosper profit action proud avoid cliff toss special cable volcano";
+var mnemonic = "ugly nest festival script depart execute govern together lizard water exchange dry";

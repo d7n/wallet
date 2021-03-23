@@ -1,1 +1,1 @@
-var mnemonic = "ahead under nest box tiny science wrestle skate high trophy tobacco arm";
+var mnemonic = "time enemy antenna confirm draw decade hour rabbit empty banner wagon pilot";

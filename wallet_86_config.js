@@ -1,1 +1,1 @@
-var mnemonic = "float pupil chunk foster truck point bullet hurt cake scrap afford gauge";
+var mnemonic = "magic advice match cupboard pretty addict roof wash guitar health engine firm";

@@ -1,1 +1,1 @@
-var mnemonic = "rack thunder artefact mushroom like index plunge rack mask grocery reopen sibling";
+var mnemonic = "easy glare laptop diet hybrid medal file knock distance since fun million";

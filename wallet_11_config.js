@@ -1,1 +1,1 @@
-var mnemonic = "elite flame scrub drill input hire hen leopard say luxury quarter helmet";
+var mnemonic = "vendor any great excite deer kidney garment fossil absorb gate blue gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "typical tonight rubber gloom tape typical law require cave nice orbit tape";
+var mnemonic = "short lumber oblige call special rely budget shiver yellow insane arctic puzzle";

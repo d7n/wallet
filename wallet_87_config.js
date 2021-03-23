@@ -1,1 +1,1 @@
-var mnemonic = "very pottery pause sketch electric diary frozen auction answer light monitor expire";
+var mnemonic = "jewel arena raw twenty impulse spice motor receive smart vocal critic tone";

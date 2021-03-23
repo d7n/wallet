@@ -1,1 +1,1 @@
-var mnemonic = "peace resource discover wife warm avocado delay pull obvious sure mother argue";
+var mnemonic = "skate fortune crisp engine rifle negative sad broom tissue model moral erode";

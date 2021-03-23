@@ -1,1 +1,1 @@
-var mnemonic = "budget inspire run mango still unfold term parrot toy sheriff struggle huge";
+var mnemonic = "enact marine always warfare couch animal fiscal disagree swear hollow harsh couch";

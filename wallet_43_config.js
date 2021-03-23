@@ -1,1 +1,1 @@
-var mnemonic = "list enroll romance helmet busy adapt cruise travel chunk catch sunset vault";
+var mnemonic = "second demand oven alarm tree visa stereo benefit gasp add index there";

@@ -1,1 +1,1 @@
-var mnemonic = "high essay trip senior divorce tone strong artist remind winner cigar antique";
+var mnemonic = "empower wood pig hospital talent liquid involve trick summer ladder right music";

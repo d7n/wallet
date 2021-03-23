@@ -1,1 +1,1 @@
-var mnemonic = "income afraid ramp air short solar caught burden supreme dutch among endorse";
+var mnemonic = "flat combine pair expire what glow truck three push bid battle bag";

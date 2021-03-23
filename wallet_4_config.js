@@ -1,1 +1,1 @@
-var mnemonic = "rigid grape trip stuff noise alley prosper swap film company hold drop";
+var mnemonic = "raccoon expose puppy enact hood intact emotion loan conduct emotion forget achieve";

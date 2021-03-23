@@ -1,1 +1,1 @@
-var mnemonic = "hunt chaos skull intact stool corn crush cup actual load crumble snack";
+var mnemonic = "horse alone bless punch badge bean save proud follow trigger student club";

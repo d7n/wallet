@@ -1,1 +1,1 @@
-var mnemonic = "tell envelope decrease light inch auction miracle swallow food addict grain result";
+var mnemonic = "carbon spin diary correct naive unable concert letter slam south knife harvest";

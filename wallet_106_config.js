@@ -1,1 +1,1 @@
-var mnemonic = "maple inquiry you unfold sorry grab citizen regular begin jewel dumb poet";
+var mnemonic = "gate address silent grunt hammer minor belt during disagree short fall bridge";

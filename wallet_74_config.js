@@ -1,1 +1,1 @@
-var mnemonic = "brisk spoil else gold festival buddy segment lazy pupil draft cube element";
+var mnemonic = "charge foot cause nephew shift fine cloud victory sudden tilt manual pipe";

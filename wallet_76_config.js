@@ -1,1 +1,1 @@
-var mnemonic = "unfold state energy tide moon crane cook afford improve face snap alcohol";
+var mnemonic = "drastic success sleep decorate cargo used ensure ordinary render setup elevator immense";

@@ -1,1 +1,1 @@
-var mnemonic = "fork suit promote nurse pyramid obtain syrup plate cube tide friend aspect";
+var mnemonic = "length hood empower depend miracle thunder impulse prevent wrong equip uniform away";

@@ -1,1 +1,1 @@
-var mnemonic = "room half spoon eternal gift panel nut enough organ equal renew two";
+var mnemonic = "run sure false know among accident lava kick pistol moral boy federal";

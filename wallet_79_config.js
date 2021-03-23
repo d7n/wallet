@@ -1,1 +1,1 @@
-var mnemonic = "bag husband able regular speak spoon doctor conduct chapter absurd patient real";
+var mnemonic = "smoke ridge until blanket glimpse blast top pet twist food window garden";

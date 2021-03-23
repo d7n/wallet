@@ -1,1 +1,1 @@
-var mnemonic = "scout tennis social secret poverty eagle announce grace guitar duty outside appear";
+var mnemonic = "future found wide street wet spice camera slim speed limit van input";

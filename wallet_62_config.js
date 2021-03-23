@@ -1,1 +1,1 @@
-var mnemonic = "travel stadium maple person audit habit dinosaur electric text gate defy radio";
+var mnemonic = "age afraid impose chalk jelly alcohol describe buyer account eternal jealous valve";

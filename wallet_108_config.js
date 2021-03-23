@@ -1,1 +1,1 @@
-var mnemonic = "embark balance frown cupboard wrap denial margin couple pistol conduct undo silk";
+var mnemonic = "slice fashion limit cross chat skin learn home tooth flight swim fatal";

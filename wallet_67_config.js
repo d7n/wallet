@@ -1,1 +1,1 @@
-var mnemonic = "aware cook photo pencil bonus quiz entire club timber allow cute brush";
+var mnemonic = "vote sauce snow gym ocean foam video fence duck film perfect confirm";

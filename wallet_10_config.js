@@ -1,1 +1,1 @@
-var mnemonic = "where divide tobacco obey hawk august ghost ethics decide gossip seven decade";
+var mnemonic = "hole seek lady taxi spice walk leaf stairs because orient move train";

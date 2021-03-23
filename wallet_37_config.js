@@ -1,1 +1,1 @@
-var mnemonic = "small bounce must chicken stumble fly olive adult stand acid output wash";
+var mnemonic = "wall whale uncle about try trade owner onion pond tray cattle life";

@@ -1,1 +1,1 @@
-var mnemonic = "pony leisure edge feed fever oyster duck slab reason circle excess cave";
+var mnemonic = "sibling turn frog spider lawsuit tuna during brain shoot skill velvet health";

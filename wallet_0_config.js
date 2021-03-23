@@ -1,1 +1,1 @@
-var mnemonic = "vibrant brown harsh denial avoid lamp travel shrug junior vicious party boss";
+var mnemonic = "report case chicken consider opera ignore wave broccoli report people island knife";

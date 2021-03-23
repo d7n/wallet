@@ -1,1 +1,1 @@
-var mnemonic = "blush solve clinic spend enrich gallery theme million public forum trick joy";
+var mnemonic = "bunker region youth jeans warrior empty kit solution fiscal pond away clinic";

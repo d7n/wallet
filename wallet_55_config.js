@@ -1,1 +1,1 @@
-var mnemonic = "toddler grant make bone advance awful syrup day dilemma friend portion sponsor";
+var mnemonic = "flame oyster scatter adjust dry hurdle garden jealous dwarf oxygen push cage";

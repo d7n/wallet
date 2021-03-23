@@ -1,1 +1,1 @@
-var mnemonic = "elegant once wrap find three found fury kid gravity insane vendor lion";
+var mnemonic = "noodle awful else argue game comfort popular siege viable artwork syrup job";

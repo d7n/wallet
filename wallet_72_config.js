@@ -1,1 +1,1 @@
-var mnemonic = "sand depart fat palace general example bridge chase category remind pipe foil";
+var mnemonic = "shop hurry copy venture okay mushroom lottery annual swallow cement photo open";

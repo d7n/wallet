@@ -1,1 +1,1 @@
-var mnemonic = "welcome sport mandate mail nice pause aspect level cherry lizard plug hero";
+var mnemonic = "shallow soldier hurt melody cart dutch idle disagree tooth spell mammal pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "crime saddle fly move olympic share section farm traffic twin play remain";
+var mnemonic = "tobacco right frown license lake trend broom alert bench mountain object text";

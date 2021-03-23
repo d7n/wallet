@@ -1,1 +1,1 @@
-var mnemonic = "where solar board assault video useless loop post clutch abuse laundry calm";
+var mnemonic = "tip window useless rotate canal velvet corn need produce wedding team violin";

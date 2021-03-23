@@ -1,1 +1,1 @@
-var mnemonic = "mass essence oppose poem female divorce grace person sadness spend clay devote";
+var mnemonic = "dwarf print slogan wrap opera force extend lava first evoke derive cotton";

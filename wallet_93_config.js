@@ -1,1 +1,1 @@
-var mnemonic = "crouch illness position borrow pink surge goose caution twin owner taste popular";
+var mnemonic = "forward sight betray tongue rotate beach cram size saddle notice choose process";

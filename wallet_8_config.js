@@ -1,1 +1,1 @@
-var mnemonic = "cost mix vapor decide jaguar charge key camera correct provide edge crush";
+var mnemonic = "tattoo area waste wrong injury fan green return tiny curtain mixture earth";

@@ -1,1 +1,1 @@
-var mnemonic = "spot mirror under ghost creek power artefact bullet position october agent radio";
+var mnemonic = "open assist tool home portion reflect risk arctic fiber oxygen easily tide";

@@ -1,1 +1,1 @@
-var mnemonic = "canal toss salad menu couple cousin soul recycle fame donor execute inform";
+var mnemonic = "loud advance clip sugar sight mango daughter museum zoo chaos protect bread";

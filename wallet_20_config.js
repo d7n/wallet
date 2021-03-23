@@ -1,1 +1,1 @@
-var mnemonic = "case flavor inside main enforce rose resource rifle mango mass social peace";
+var mnemonic = "spare balcony second rescue tell glue neck orange swift jungle bundle afford";

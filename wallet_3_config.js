@@ -1,1 +1,1 @@
-var mnemonic = "tell salon hammer barrel fatal broken cousin alley during satoshi dance extend";
+var mnemonic = "popular rare embrace idle kiss daring shiver citizen oil wire become napkin";

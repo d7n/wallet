@@ -1,1 +1,1 @@
-var mnemonic = "pony town flock nothing bulk auto topple diary broccoli oyster donkey mixture";
+var mnemonic = "shuffle neglect drink plate uncle consider wreck narrow remember blast spell laptop";

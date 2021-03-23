@@ -1,1 +1,1 @@
-var mnemonic = "stable torch also era nothing spring wide tank gown adjust they chief";
+var mnemonic = "provide friend safe sand effort hundred pattern float service blouse fury kidney";

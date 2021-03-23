@@ -1,1 +1,1 @@
-var mnemonic = "derive spike sting edge unique garment hair farm brand eye size spatial";
+var mnemonic = "drastic congress suffer glare duty payment picnic flower renew muffin cave crack";

@@ -1,1 +1,1 @@
-var mnemonic = "dress device girl virus gun forest keen kingdom wonder average kidney coconut";
+var mnemonic = "isolate arch cram now because hunt small evil primary display fat burden";

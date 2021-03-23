@@ -1,1 +1,1 @@
-var mnemonic = "equal link diagram buyer marine whale also argue comfort menu outside seek";
+var mnemonic = "win kangaroo whip acquire adult gym sand year law price cream north";

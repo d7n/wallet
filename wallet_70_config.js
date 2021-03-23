@@ -1,1 +1,1 @@
-var mnemonic = "video move horse access nut torch struggle flip decline essay antenna shoulder";
+var mnemonic = "morning addict sound age trim spoon among tortoise trophy parade world friend";

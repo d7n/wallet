@@ -1,1 +1,1 @@
-var mnemonic = "potato rocket reward danger fresh laptop sword panther type fancy bicycle ranch";
+var mnemonic = "cherry village forward runway keep shoot whisper tourist cloth swarm swim sleep";

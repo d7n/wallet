@@ -1,1 +1,1 @@
-var mnemonic = "alien crawl method cry arrive crystal neither rule jump tenant legal basic";
+var mnemonic = "muffin math leg item cool law salmon raccoon phrase funny require quantum";

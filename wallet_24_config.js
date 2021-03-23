@@ -1,1 +1,1 @@
-var mnemonic = "valve field fire table female adapt combine strike unfold they win alcohol";
+var mnemonic = "age hockey tower cabin switch shine grocery imitate bicycle label differ alcohol";

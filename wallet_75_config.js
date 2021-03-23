@@ -1,1 +1,1 @@
-var mnemonic = "work enlist giraffe correct icon point obvious way universe unable crime peace";
+var mnemonic = "orphan maid source south royal gown skirt genius pipe rigid panda parade";

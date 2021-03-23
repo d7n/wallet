@@ -1,1 +1,1 @@
-var mnemonic = "oyster century oblige vibrant spell advance isolate wait roast valid account home";
+var mnemonic = "thumb island tuna blame stick alien wise economy juice estate captain sphere";
