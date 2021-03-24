@@ -1,1 +1,1 @@
-var mnemonic = "narrow now squirrel high slim glare oyster found dash equal pig strategy";
+var mnemonic = "salmon sheriff high cabbage trip area frozen casual pumpkin traffic cotton excess";

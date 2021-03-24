@@ -1,1 +1,1 @@
-var mnemonic = "cycle risk will envelope floor ripple viable buffalo real manage permit daring";
+var mnemonic = "fancy oil discover release crucial urban joke path egg cube prison spoon";

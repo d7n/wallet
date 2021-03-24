@@ -1,1 +1,1 @@
-var mnemonic = "flight step pause tag dumb turn sample used bundle raven thank half";
+var mnemonic = "above slight there stadium text attend bomb dinner pull source ask correct";

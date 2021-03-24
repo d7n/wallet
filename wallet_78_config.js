@@ -1,1 +1,1 @@
-var mnemonic = "upon advance volume pioneer armor depend between steak elephant treat forest cool";
+var mnemonic = "lady twenty melt ivory surprise goat thumb wild satoshi spatial jar slush";

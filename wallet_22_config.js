@@ -1,1 +1,1 @@
-var mnemonic = "lounge across average horn enrich gadget cactus remember name galaxy hint void";
+var mnemonic = "ugly spell genius edit whale gaze enable garbage gospel jewel vital prize";

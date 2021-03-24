@@ -1,1 +1,1 @@
-var mnemonic = "vehicle play apology resemble gesture glue flower sleep frown cage bean shine";
+var mnemonic = "attack awesome flight broken ride distance opinion shoot gap stove wagon equip";

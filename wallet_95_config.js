@@ -1,1 +1,1 @@
-var mnemonic = "speak fiber exercise beef cause car guess fetch pen spider toward wisdom";
+var mnemonic = "bitter garbage accident table result equal toddler cotton angry cash lawn invest";

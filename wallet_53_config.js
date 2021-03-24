@@ -1,1 +1,1 @@
-var mnemonic = "bulk silver labor various aspect alpha forget poem auction drop baby flag";
+var mnemonic = "guilt bitter develop eager love over broken today fee blanket define episode";

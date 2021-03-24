@@ -1,1 +1,1 @@
-var mnemonic = "check vanish middle slam axis split capable ahead mouse wreck split toddler";
+var mnemonic = "shoe deal lounge indoor enhance question case rain donkey between fault memory";

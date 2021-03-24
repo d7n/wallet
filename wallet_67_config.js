@@ -1,1 +1,1 @@
-var mnemonic = "protect foot buddy lock humor budget angle myth raccoon chase stereo clump";
+var mnemonic = "defy pass milk wave fiction meadow mechanic tribe young mushroom force moon";

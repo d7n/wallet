@@ -1,1 +1,1 @@
-var mnemonic = "useless slender rent track stairs render gate spring owner digital tower army";
+var mnemonic = "expire settle exhibit gasp tiny please polar uncle turtle next coach where";

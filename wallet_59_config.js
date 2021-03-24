@@ -1,1 +1,1 @@
-var mnemonic = "local person twice frozen flip crisp security spoon future hard conduct device";
+var mnemonic = "blouse below two error tourist winner prosper post have random install world";

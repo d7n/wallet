@@ -1,1 +1,1 @@
-var mnemonic = "animal sure swarm trouble crawl elite fog witness mobile scare hazard force";
+var mnemonic = "race palace seat crash police version cherry curtain soul rescue broom wing";

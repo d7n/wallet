@@ -1,1 +1,1 @@
-var mnemonic = "obey taxi ride cargo update return solution glow assume husband sleep faith";
+var mnemonic = "result abandon fox opinion pass jacket cargo crew there elder kick ketchup";

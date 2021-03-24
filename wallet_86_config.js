@@ -1,1 +1,1 @@
-var mnemonic = "chicken food also vapor holiday delay crouch airport poem culture receive else";
+var mnemonic = "element fiction consider menu soldier win capital erosion build advice buyer swear";

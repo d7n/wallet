@@ -1,1 +1,1 @@
-var mnemonic = "symptom point jelly recycle fold fossil inject panic found wise develop shaft";
+var mnemonic = "member coyote invite parrot unusual purity that shed case carry wish mad";

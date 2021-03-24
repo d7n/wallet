@@ -1,1 +1,1 @@
-var mnemonic = "copy orange globe april share problem share jeans cattle nuclear daughter edit";
+var mnemonic = "cloth kid skirt two peanut proud cherry cliff oven ketchup tattoo cover";

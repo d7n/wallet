@@ -1,1 +1,1 @@
-var mnemonic = "hero pig draft rural anxiety couch bounce garlic alter used hybrid hire";
+var mnemonic = "rifle online camera cereal seven arctic coyote entire tiny jealous system high";

@@ -1,1 +1,1 @@
-var mnemonic = "border have blossom hobby cliff light neither giraffe sphere crime gold toward";
+var mnemonic = "allow rain trumpet wagon range decline public tent around manual loan verb";

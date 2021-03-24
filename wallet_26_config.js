@@ -1,1 +1,1 @@
-var mnemonic = "humble monitor this winter twice lecture rebuild river jealous upon spread bracket";
+var mnemonic = "hello inflict crumble useless gather negative thumb myself ivory barrel evil paper";

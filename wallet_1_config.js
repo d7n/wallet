@@ -1,1 +1,1 @@
-var mnemonic = "play fiction disease ten portion bonus entry item aspect badge fitness deny";
+var mnemonic = "novel warfare hybrid tennis enforce where gentle dignity humble scare roast hen";

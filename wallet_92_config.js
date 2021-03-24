@@ -1,1 +1,1 @@
-var mnemonic = "fan glass robot fuel razor federal pistol almost bonus doll must sing";
+var mnemonic = "prevent april cliff mouse easy grief forget dragon under ocean aspect library";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose risk scrub submit search school wolf hockey present maple noise scale";
+var mnemonic = "movie side spot mammal blade metal machine secret pull casino ecology panther";

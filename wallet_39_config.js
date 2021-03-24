@@ -1,1 +1,1 @@
-var mnemonic = "gift skirt double kiss spread response crucial magnet puzzle sell absurd void";
+var mnemonic = "like high siren pupil access nominee invite six aunt entire ranch middle";

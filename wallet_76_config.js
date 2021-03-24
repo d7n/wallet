@@ -1,1 +1,1 @@
-var mnemonic = "hover bone organ buddy weapon liberty glove vendor sting chef arrow damp";
+var mnemonic = "copper object vote group rapid ethics grocery clerk canyon cigar clump sibling";

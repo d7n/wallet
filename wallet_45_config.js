@@ -1,1 +1,1 @@
-var mnemonic = "useful ordinary cross happy yellow off erupt hat fringe reform area faculty";
+var mnemonic = "note beauty add city grass interest view sound hope main exercise angry";

@@ -1,1 +1,1 @@
-var mnemonic = "hole twice deputy inflict margin deer orchard swim you civil comfort kick";
+var mnemonic = "access twelve vanish feature fluid rose save siege assist elegant coyote energy";

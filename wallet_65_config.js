@@ -1,1 +1,1 @@
-var mnemonic = "second dutch unknown goat harvest anger alter wing bamboo biology smart depend";
+var mnemonic = "index sorry cupboard photo hero transfer matter hope era squeeze fox acquire";

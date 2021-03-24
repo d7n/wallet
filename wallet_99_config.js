@@ -1,1 +1,1 @@
-var mnemonic = "gossip pretty reunion legal alert test rebel taxi century arrange travel umbrella";
+var mnemonic = "tornado craft evolve math faint museum birth oven demise afraid flag scheme";

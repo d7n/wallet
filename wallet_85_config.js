@@ -1,1 +1,1 @@
-var mnemonic = "company area grace soup shove clever tennis toward acoustic pistol mail cannon";
+var mnemonic = "zero harbor fragile where frost tuna select first action comfort ozone carpet";

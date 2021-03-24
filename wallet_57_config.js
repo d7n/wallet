@@ -1,1 +1,1 @@
-var mnemonic = "bunker execute void gasp mansion mean video whip crane gown organ tired";
+var mnemonic = "burst tornado later staff owner blur spice gym garage expose express food";

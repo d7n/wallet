@@ -1,1 +1,1 @@
-var mnemonic = "pluck invite nation prefer witness use desk brown sleep axis humor text";
+var mnemonic = "hollow imitate destroy suffer venture will universe ankle story joke cart flame";

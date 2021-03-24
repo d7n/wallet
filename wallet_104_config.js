@@ -1,1 +1,1 @@
-var mnemonic = "tired creek squeeze ramp weird lottery truck fee mixed promote link flush";
+var mnemonic = "sheriff velvet buffalo music protect offer seven decrease deal account guitar obscure";

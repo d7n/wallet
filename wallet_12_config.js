@@ -1,1 +1,1 @@
-var mnemonic = "walnut marble mind hundred window smoke achieve decrease drip near crash purity";
+var mnemonic = "boil family slide analyst erupt pattern drive chase garment auction artefact rail";

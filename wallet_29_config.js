@@ -1,1 +1,1 @@
-var mnemonic = "room spray shop mind verify any banana liquid update more alien chair";
+var mnemonic = "game impose settle link exotic crash roof rotate bus legal churn check";

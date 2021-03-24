@@ -1,1 +1,1 @@
-var mnemonic = "twice usual erupt aisle category belt photo river lazy tobacco leg visit";
+var mnemonic = "daughter spice reduce gain small decorate spin crisp elephant badge legend matrix";

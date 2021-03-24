@@ -1,1 +1,1 @@
-var mnemonic = "adult dose find assault lumber dinner inherit journey swim job sweet prepare";
+var mnemonic = "leg shadow ordinary arrange open follow leader into wagon exotic join north";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle head easily stove nerve turtle sign upset thunder slogan patch kid";
+var mnemonic = "spy blind magnet mango gather used local suggest legal side lazy faith";

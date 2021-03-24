@@ -1,1 +1,1 @@
-var mnemonic = "coyote gesture owner flee once eye negative lock casino theory foil raven";
+var mnemonic = "border sun boost pig fame defense disease frame share capital trigger exist";

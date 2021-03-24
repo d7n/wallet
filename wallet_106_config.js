@@ -1,1 +1,1 @@
-var mnemonic = "peasant side script label denial drama raise will net mystery obscure giraffe";
+var mnemonic = "angle warfare moon deliver entire ankle enact virus pencil moment sweet wire";

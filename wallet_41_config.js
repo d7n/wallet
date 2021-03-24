@@ -1,1 +1,1 @@
-var mnemonic = "script link enhance bright mountain miss tired divide wide bless blouse kiss";
+var mnemonic = "foam lion wish link inherit bar duty dismiss arch depart allow foot";

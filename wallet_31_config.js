@@ -1,1 +1,1 @@
-var mnemonic = "tank connect total magnet flower clutch almost romance valve early process thought";
+var mnemonic = "punch silly phone bulk safe math often exercise smart price enroll mirror";

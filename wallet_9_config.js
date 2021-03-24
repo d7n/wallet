@@ -1,1 +1,1 @@
-var mnemonic = "edge soon brave version token coconut rate link athlete angry mammal blade";
+var mnemonic = "coach skate online order lizard ketchup will tape notable clay script bacon";

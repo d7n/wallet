@@ -1,1 +1,1 @@
-var mnemonic = "share pyramid veteran morning ecology taste online agent mail cook orbit wise";
+var mnemonic = "broken reform slot miracle spider flat dentist midnight orange license black awkward";

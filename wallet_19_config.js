@@ -1,1 +1,1 @@
-var mnemonic = "peasant whip toilet catch enlist nephew trial hybrid average silent candy fruit";
+var mnemonic = "vocal episode need clay hobby segment blame kitchen maple park ozone globe";

@@ -1,1 +1,1 @@
-var mnemonic = "office path family decrease gauge tunnel subway middle lunch tiny equip light";
+var mnemonic = "iron shaft edit run stairs moral penalty coffee urban leave mammal basic";

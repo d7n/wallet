@@ -1,1 +1,1 @@
-var mnemonic = "chase envelope tell rocket field order favorite arrow spirit pact young festival";
+var mnemonic = "undo attract diet remain amused reopen frozen tide pumpkin spare lounge jar";

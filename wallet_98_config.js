@@ -1,1 +1,1 @@
-var mnemonic = "grant vessel inner asset income van loan describe excess bone divide neither";
+var mnemonic = "polar ball weather flee tribe future copy eagle choose avoid pyramid clock";

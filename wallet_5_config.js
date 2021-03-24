@@ -1,1 +1,1 @@
-var mnemonic = "glass logic column stone paddle dinosaur feed path illness tiger explain typical";
+var mnemonic = "sauce pave share glue orbit twist save spirit parent slam denial wheat";

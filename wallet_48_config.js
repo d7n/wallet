@@ -1,1 +1,1 @@
-var mnemonic = "aerobic word toy mango vanish relief monitor arrange essence grit person audit";
+var mnemonic = "portion forum top rail mansion volcano rather worry until second sudden bright";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor member assist decade sheriff response occur tribe beauty bonus arena giant";
+var mnemonic = "coast shift ice maximum economy index absent unveil episode before sausage eye";

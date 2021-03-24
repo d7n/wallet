@@ -1,1 +1,1 @@
-var mnemonic = "manual option walnut burst major finger witness van unfold quarter melt gauge";
+var mnemonic = "lazy patch parade like upgrade champion bleak sunset wisdom prosper ecology rich";

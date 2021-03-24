@@ -1,1 +1,1 @@
-var mnemonic = "neglect equip used heart cheap fabric cable egg mansion horn escape ordinary";
+var mnemonic = "father eye awesome warm sing decade retire kitten mobile exclude black fortune";

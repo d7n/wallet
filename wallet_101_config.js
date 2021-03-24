@@ -1,1 +1,1 @@
-var mnemonic = "exchange panic buzz season raccoon sick rifle case skin theme atom green";
+var mnemonic = "acquire veteran ridge green focus heart practice isolate scissors leisure weird grab";

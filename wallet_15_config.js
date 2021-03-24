@@ -1,1 +1,1 @@
-var mnemonic = "throw hundred trial asthma ozone review token wild vote economy mimic write";
+var mnemonic = "torch soda similar result bike name slim oval elite catch knife agree";

@@ -1,1 +1,1 @@
-var mnemonic = "ability stairs rapid admit gym easily rose husband joke airport post mask";
+var mnemonic = "magic near ring large word lab item seven have always pact company";

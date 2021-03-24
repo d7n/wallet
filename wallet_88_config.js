@@ -1,1 +1,1 @@
-var mnemonic = "velvet cable lock must amused trumpet stool wage snow unveil future plastic";
+var mnemonic = "put unusual pill zebra monster gas display fury birth vocal night special";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster catalog remind model logic syrup rather evidence afford license party left";
+var mnemonic = "pigeon disease where culture nominee hunt frost lava pause roof wagon girl";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot tissue stereo uncle impact immense mountain leaf lawsuit duck city cycle";
+var mnemonic = "crime fit present royal nasty helmet phone wolf tell fiber fiber forest";

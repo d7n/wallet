@@ -1,1 +1,1 @@
-var mnemonic = "regret laundry coyote rent palace motion renew nice wave found story demise";
+var mnemonic = "famous potato employ short wild isolate check assume tortoise logic update action";

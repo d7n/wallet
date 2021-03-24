@@ -1,1 +1,1 @@
-var mnemonic = "panther goose elevator alert skate butter write rookie caution autumn circle glow";
+var mnemonic = "grain table exchange cotton sniff fatigue axis kitchen often dad box rebuild";

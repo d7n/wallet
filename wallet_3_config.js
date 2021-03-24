@@ -1,1 +1,1 @@
-var mnemonic = "grid gadget alien siren round flash dynamic satisfy surface strategy wage father";
+var mnemonic = "produce fiber discover since novel someone essence motion fiber plate mountain mercy";

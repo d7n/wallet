@@ -1,1 +1,1 @@
-var mnemonic = "blanket hobby actual grocery hybrid brother witness join zero dinosaur invite delay";
+var mnemonic = "party alley own oxygen cloth deputy conduct pulse avocado slide patch interest";

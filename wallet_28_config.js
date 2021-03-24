@@ -1,1 +1,1 @@
-var mnemonic = "level panel share cage wrist mixed bracket song smart race teach cost";
+var mnemonic = "utility skill outdoor tuna pudding rural aim dose nut door possible dawn";

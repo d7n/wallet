@@ -1,1 +1,1 @@
-var mnemonic = "impact confirm reduce youth resist laptop enrich chest journey sport crash surprise";
+var mnemonic = "roast hold lesson insane mother number you mask immune blouse category brave";

@@ -1,1 +1,1 @@
-var mnemonic = "problem front party fuel kingdom zone gloom drink maze congress record fit";
+var mnemonic = "rather nurse afford arrow vital security frog mass cross fade divert worth";

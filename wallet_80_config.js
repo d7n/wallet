@@ -1,1 +1,1 @@
-var mnemonic = "liar image shine solid violin what habit media matrix work grunt sweet";
+var mnemonic = "clutch secret service address snack will frost island fat can select fire";

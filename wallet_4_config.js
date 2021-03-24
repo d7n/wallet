@@ -1,1 +1,1 @@
-var mnemonic = "route whale inherit lazy dose cable matter attend clutch fork wing crisp";
+var mnemonic = "when science laptop law sugar bunker amateur dirt furnace small nominee dial";

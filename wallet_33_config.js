@@ -1,1 +1,1 @@
-var mnemonic = "wet traffic sea keep swing circle kingdom six fat frozen impulse item";
+var mnemonic = "certain smile any eight sponsor weasel comfort churn scale wrist heart neck";

@@ -1,1 +1,1 @@
-var mnemonic = "easily key can caution sword employ ten cricket wet income lens west";
+var mnemonic = "logic spare guilt latin myself bitter pair ozone orchard carry payment process";

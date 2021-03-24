@@ -1,1 +1,1 @@
-var mnemonic = "mutual trophy blame aisle great divert adjust regular planet release sentence erase";
+var mnemonic = "about top invest private among mixed alien impact artefact mixed urge reunion";

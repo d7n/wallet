@@ -1,1 +1,1 @@
-var mnemonic = "when tackle suspect evoke empower hazard scale say camp jar lady suffer";
+var mnemonic = "decade welcome evolve method strike trial share pyramid gallery toast convince brave";

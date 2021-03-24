@@ -1,1 +1,1 @@
-var mnemonic = "mother intact online cat twice crop erode virtual submit melt uncle priority";
+var mnemonic = "seminar side flight crew inform about echo chair lonely alpha tilt fringe";

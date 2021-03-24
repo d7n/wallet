@@ -1,1 +1,1 @@
-var mnemonic = "door run surface fade dwarf dignity dentist travel physical retreat problem quote";
+var mnemonic = "enemy green return tomato laundry eagle trap diamond cage someone glance noise";

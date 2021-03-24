@@ -1,1 +1,1 @@
-var mnemonic = "sport profit style size belt cruel usual nut wasp fancy mistake obey";
+var mnemonic = "talent inch utility treat digital mirror polar bleak canvas baby task kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "piano toward weird online cram cinnamon post piano tenant staff liquid boil";
+var mnemonic = "input night orange blouse hen liar talk bottom episode engine extra produce";

@@ -1,1 +1,1 @@
-var mnemonic = "design roof snap shift proof gain pelican liquid any kind axis duck";
+var mnemonic = "false stone vessel garbage labor unhappy behave dash attack promote flock purity";
