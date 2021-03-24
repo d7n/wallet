@@ -1,1 +1,1 @@
-var mnemonic = "aerobic wrist blood abandon giant hill oval rescue rocket dice learn recycle";
+var mnemonic = "nothing ankle artefact legend annual badge notable village chase hub sell pond";

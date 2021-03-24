@@ -1,1 +1,1 @@
-var mnemonic = "sadness silver balance thank corn item oak foot artist firm lion tragic";
+var mnemonic = "nice advice fault vague keen stomach nature cricket post beach sword acquire";

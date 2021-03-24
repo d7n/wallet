@@ -1,1 +1,1 @@
-var mnemonic = "battle genuine fall habit dolphin arena reunion shrimp ridge winner boost coil";
+var mnemonic = "vague guitar hood fork quantum pig purpose north fashion dynamic topple river";

@@ -1,1 +1,1 @@
-var mnemonic = "grow lemon cave cupboard galaxy bulb useful snap position foster force above";
+var mnemonic = "aspect ability dignity unveil unusual program tip shrimp month funny gesture member";

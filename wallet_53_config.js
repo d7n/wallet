@@ -1,1 +1,1 @@
-var mnemonic = "tuna blood burst minute absurd that aerobic wheel swap vehicle aware insect";
+var mnemonic = "upgrade patrol renew awake tiny math ahead voice child nature trouble fan";

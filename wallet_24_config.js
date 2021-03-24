@@ -1,1 +1,1 @@
-var mnemonic = "tail unlock tank small task swim defy coffee another debris extend view";
+var mnemonic = "royal satoshi top pigeon december champion snap gaze song lumber curious brief";

@@ -1,1 +1,1 @@
-var mnemonic = "swift cruel chuckle tenant play civil flock grab jacket easily swear fog";
+var mnemonic = "erase address rule replace apple prize tree equal expect sea report dune";

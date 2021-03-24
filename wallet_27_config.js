@@ -1,1 +1,1 @@
-var mnemonic = "deer ride section reward lake into enact ladder gloom lunch miracle butter";
+var mnemonic = "must own chef gravity furnace detect broccoli imitate normal push leave extra";

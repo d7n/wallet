@@ -1,1 +1,1 @@
-var mnemonic = "base invite whip flower donate found expect receive capital rocket beef baby";
+var mnemonic = "diet follow craft quick chair marble melt step foster loud surround way";

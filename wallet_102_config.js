@@ -1,1 +1,1 @@
-var mnemonic = "potato squeeze oval pluck anxiety under general bulk milk salon setup tell";
+var mnemonic = "make pact pond mind render fence planet trick surface explain coffee timber";

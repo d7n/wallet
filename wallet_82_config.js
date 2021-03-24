@@ -1,1 +1,1 @@
-var mnemonic = "term music yellow viable midnight bean broom matter pause boil immune race";
+var mnemonic = "liberty uncle pond valve stage throw unusual room language ring enable join";

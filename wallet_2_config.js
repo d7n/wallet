@@ -1,1 +1,1 @@
-var mnemonic = "rare give nation seminar force spread fold state group favorite reform want";
+var mnemonic = "recycle position rally census share celery control warm vibrant cart keep whisper";

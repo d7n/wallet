@@ -1,1 +1,1 @@
-var mnemonic = "multiply hole cook yard tennis sleep fancy sausage pave noise barely resemble";
+var mnemonic = "dance flower panic divide witness kid renew erosion squirrel benefit opera cluster";

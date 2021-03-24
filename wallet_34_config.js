@@ -1,1 +1,1 @@
-var mnemonic = "aspect exile basket donate asthma horse battle candy couch approve write school";
+var mnemonic = "stone bleak tribe that tribe daring girl pumpkin ensure rabbit rabbit spike";

@@ -1,1 +1,1 @@
-var mnemonic = "have desert ignore ribbon giggle gown express canyon found around walk pig";
+var mnemonic = "apart prevent gold average glass city budget audit seat flavor tired umbrella";

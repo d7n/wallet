@@ -1,1 +1,1 @@
-var mnemonic = "oblige run bone miracle nest giraffe trigger guilt become maple penalty rotate";
+var mnemonic = "fiber rib category atom west develop bunker candy bounce cheap six occur";

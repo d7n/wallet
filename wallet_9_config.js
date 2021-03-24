@@ -1,1 +1,1 @@
-var mnemonic = "youth chef february motion birth sudden convince journey guide galaxy lift charge";
+var mnemonic = "original flavor critic whale ancient erupt alcohol project riot print comic cabin";

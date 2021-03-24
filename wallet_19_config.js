@@ -1,1 +1,1 @@
-var mnemonic = "decide north unit credit innocent quarter shadow allow bitter blue gesture van";
+var mnemonic = "impulse phone scatter initial spot increase shoe excite blind narrow neglect apology";

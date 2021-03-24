@@ -1,1 +1,1 @@
-var mnemonic = "nasty inside swing rough drive finish clean judge tide furnace frequent despair";
+var mnemonic = "elephant matter sibling shallow despair light coyote dry hollow soldier burger violin";

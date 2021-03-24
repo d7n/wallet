@@ -1,1 +1,1 @@
-var mnemonic = "there chunk blanket drama february leg inherit around cabin sheriff result screen";
+var mnemonic = "panic appear print bleak grape mosquito elite gorilla fortune phone shoot drum";

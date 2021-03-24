@@ -1,1 +1,1 @@
-var mnemonic = "upgrade absorb royal million orient field armor quit nice surface entire topple";
+var mnemonic = "lab chimney rifle inner dial pond post trip boost ketchup story lab";

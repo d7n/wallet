@@ -1,1 +1,1 @@
-var mnemonic = "fiber eyebrow seven finger can aware pear joy cry dove couch shed";
+var mnemonic = "wood cricket student enable wet mention penalty gather emotion brush april inquiry";

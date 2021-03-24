@@ -1,1 +1,1 @@
-var mnemonic = "short vault join excite pave whisper nice ladder small casino man business";
+var mnemonic = "message potato domain happy exercise scatter circle fire enrich same foot mixture";

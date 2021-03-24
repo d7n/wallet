@@ -1,1 +1,1 @@
-var mnemonic = "amount disagree ridge arrive camp penalty spread coffee lemon grain poverty must";
+var mnemonic = "punch elder version already employ amount decline water goat devote sister alien";

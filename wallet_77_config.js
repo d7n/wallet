@@ -1,1 +1,1 @@
-var mnemonic = "festival myth sugar ride unfold jealous cool science treat rotate dry horror";
+var mnemonic = "unfair laptop cactus conduct squirrel hundred flag reform fresh alert age pond";

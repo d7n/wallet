@@ -1,1 +1,1 @@
-var mnemonic = "corn panda bid key evoke muscle follow wage swap check object dolphin";
+var mnemonic = "mutual cloth emerge suggest unusual cannon cup frost gasp husband right saddle";

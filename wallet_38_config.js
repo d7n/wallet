@@ -1,1 +1,1 @@
-var mnemonic = "airport filter attack violin orbit educate nose address rent charge vocal primary";
+var mnemonic = "enforce nice film inflict pledge cargo ethics hybrid gap poet deer winner";

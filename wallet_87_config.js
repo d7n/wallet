@@ -1,1 +1,1 @@
-var mnemonic = "carbon tenant dog list chaos job price flat shaft tortoise prison distance";
+var mnemonic = "film master stamp mix damp supply echo exotic crucial drift cream radio";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty fresh found blur lesson prefer health treat donor soul follow celery";
+var mnemonic = "drip hole margin embody raise social glove subject deer opinion iron sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon jazz resist ridge kitten agree rate choice sustain void cool cover";
+var mnemonic = "sail latin mimic help total reduce reward hood snack hold cluster front";

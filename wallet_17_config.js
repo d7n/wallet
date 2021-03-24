@@ -1,1 +1,1 @@
-var mnemonic = "acoustic gospel bird injury unhappy leader supreme inch stuff crack laptop mention";
+var mnemonic = "raw report chest sport crouch rally salmon hybrid hollow spell autumn play";

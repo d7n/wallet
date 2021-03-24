@@ -1,1 +1,1 @@
-var mnemonic = "clay auction thumb flee dust stumble female normal practice job rug thunder";
+var mnemonic = "action muffin awesome margin rookie differ lens plunge cube indoor gossip happy";

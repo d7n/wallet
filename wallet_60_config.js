@@ -1,1 +1,1 @@
-var mnemonic = "exact lucky almost student proof text unable tongue plug robot concert glad";
+var mnemonic = "price plunge update fame clinic tuna airport tenant raise valve lawn address";

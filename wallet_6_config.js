@@ -1,1 +1,1 @@
-var mnemonic = "modify they trip glass army world giraffe body keen net explain final";
+var mnemonic = "churn wasp water bullet baby auto exotic clump trigger eagle maple front";

@@ -1,1 +1,1 @@
-var mnemonic = "airport hub sorry actor robust athlete silver hard soul mobile olive era";
+var mnemonic = "blur half dwarf noodle prison mean inch alone hover problem pen visit";

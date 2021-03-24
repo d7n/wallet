@@ -1,1 +1,1 @@
-var mnemonic = "banner rural gaze rubber clerk drift zone ocean fabric usage deputy luggage";
+var mnemonic = "power fetch debris disorder another hockey clap century arrive typical mobile couple";

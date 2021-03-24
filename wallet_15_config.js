@@ -1,1 +1,1 @@
-var mnemonic = "shine exact type mean draw allow security cart citizen ocean twice beef";
+var mnemonic = "divide filter script buddy used tiger inside tragic warm usual decorate rail";

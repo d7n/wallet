@@ -1,1 +1,1 @@
-var mnemonic = "shield stove will pause crop gap tilt fitness benefit pitch debris kangaroo";
+var mnemonic = "myth someone voice eternal fiscal horn virus arrest measure chief road urge";

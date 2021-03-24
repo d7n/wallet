@@ -1,1 +1,1 @@
-var mnemonic = "dilemma scan tumble stamp thunder else mind lamp cruel summer permit half";
+var mnemonic = "adult pitch theory pattern student scrap deny junk task raw wish exotic";

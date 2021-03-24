@@ -1,1 +1,1 @@
-var mnemonic = "gold subway slogan run evidence song horror meadow faculty drum exhaust deal";
+var mnemonic = "holiday input parade east include broccoli entry buddy vacuum gauge sweet agent";

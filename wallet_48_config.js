@@ -1,1 +1,1 @@
-var mnemonic = "wool anchor ozone author circle tree under roof hammer daughter off remind";
+var mnemonic = "flight exist excuse giraffe pulse stuff cancel height world census extra rain";

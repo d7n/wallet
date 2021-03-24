@@ -1,1 +1,1 @@
-var mnemonic = "park predict iron interest forward state fade bridge connect provide stadium lucky";
+var mnemonic = "correct test body multiply imitate light stick illegal wage art one airport";

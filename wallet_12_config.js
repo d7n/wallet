@@ -1,1 +1,1 @@
-var mnemonic = "phrase hurt conduct music lend earn cave marriage coach index club sell";
+var mnemonic = "tomorrow mushroom left have ability produce dune confirm crash dirt reform follow";

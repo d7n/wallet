@@ -1,1 +1,1 @@
-var mnemonic = "idea simple ranch embody invest destroy turtle siren cart street pilot wonder";
+var mnemonic = "train nice income dish salmon spray arena wash edit want ginger turn";

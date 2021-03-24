@@ -1,1 +1,1 @@
-var mnemonic = "boost quote few crystal vacant dilemma dice pledge seven core desert scheme";
+var mnemonic = "torch put caution drip dutch nuclear organ story cook sustain guard index";

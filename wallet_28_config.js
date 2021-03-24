@@ -1,1 +1,1 @@
-var mnemonic = "garment glass liberty alarm belt inner reopen blossom atom cable enable board";
+var mnemonic = "daughter skull lunch leave pyramid pave physical steel hello poverty uncover shield";

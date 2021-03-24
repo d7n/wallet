@@ -1,1 +1,1 @@
-var mnemonic = "program blur sell casino nerve lift tomato direct field amateur illness label";
+var mnemonic = "logic jaguar soda coffee phrase beauty cherry lizard again crop wall muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "range tool stable double pipe wheat glow sea gift scheme vibrant tired";
+var mnemonic = "harvest gloom service tunnel wear autumn matrix drastic acid tortoise peasant luggage";

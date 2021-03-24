@@ -1,1 +1,1 @@
-var mnemonic = "egg coconut clock parade leopard basic tenant symbol ignore angle draft people";
+var mnemonic = "toast horror depend sound loyal indicate tiger shrimp knock prepare raw cabbage";

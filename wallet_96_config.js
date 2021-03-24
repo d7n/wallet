@@ -1,1 +1,1 @@
-var mnemonic = "load display memory regret bronze dish fabric good keep theme voyage can";
+var mnemonic = "apple unable world collect peace track flag genius enough torch shed arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "trick differ uncover scale motion gain trust safe mansion retreat fluid bachelor";
+var mnemonic = "rabbit devote text prefer mansion connect bronze turtle stove bike plastic feel";

@@ -1,1 +1,1 @@
-var mnemonic = "simple actor letter brain ritual decorate sorry advance embrace shed crash math";
+var mnemonic = "execute woman asthma street canyon negative course assume change pause quit grief";

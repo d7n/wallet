@@ -1,1 +1,1 @@
-var mnemonic = "humor palace loop mirror army bike airport fatigue spatial genuine actual stool";
+var mnemonic = "loud round open good inhale panther cruel place used category trust device";

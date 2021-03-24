@@ -1,1 +1,1 @@
-var mnemonic = "innocent silver aerobic ski hello fuel supreme door play spatial glimpse envelope";
+var mnemonic = "fatal jazz clap gym collect tent emerge small soul enrich toward inside";

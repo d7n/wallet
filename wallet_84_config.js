@@ -1,1 +1,1 @@
-var mnemonic = "neutral twin awkward senior weapon grace cabbage car sure party pet ribbon";
+var mnemonic = "black seminar license slice music token guilt blame nose roof vacuum know";

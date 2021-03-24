@@ -1,1 +1,1 @@
-var mnemonic = "involve short gadget forum jaguar average debate weird draft defy sick earth";
+var mnemonic = "half pen solid ten hat sibling exact fold agree tank glide safe";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent advance humble scissors appear enemy hire category indicate around shed liar";
+var mnemonic = "chest prepare daughter season festival scissors transfer argue mesh approve ready math";

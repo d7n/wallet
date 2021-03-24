@@ -1,1 +1,1 @@
-var mnemonic = "lottery dust wedding expire alone box miss enemy blue veteran suffer faith";
+var mnemonic = "wool sea vessel again boost laptop flower wisdom obvious okay office mule";

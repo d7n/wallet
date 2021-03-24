@@ -1,1 +1,1 @@
-var mnemonic = "purchase hurry join harvest slender answer hood usual dance nut tomorrow crane";
+var mnemonic = "liberty practice pitch pig diagram history output observe woman tree capital perfect";

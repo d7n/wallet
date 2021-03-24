@@ -1,1 +1,1 @@
-var mnemonic = "hover cable taxi law double conduct open doll main inherit rifle skull";
+var mnemonic = "bubble gorilla swarm arctic host cradle stable spring exist pull cannon letter";

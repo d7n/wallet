@@ -1,1 +1,1 @@
-var mnemonic = "letter body flight oven tuition stamp imitate pulse public credit cliff rigid";
+var mnemonic = "decorate busy law this noble nuclear possible chat tribe obey resemble aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "winter craft coil excess divorce april pig coach mimic figure clinic glance";
+var mnemonic = "chair joy warrior toy lesson auto casino hunt chair cotton stereo journey";

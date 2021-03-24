@@ -1,1 +1,1 @@
-var mnemonic = "play hub unit dress garage noise zebra raccoon camp pistol illegal chief";
+var mnemonic = "barrel refuse jelly govern ordinary yard picnic salute pulse chaos people cannon";

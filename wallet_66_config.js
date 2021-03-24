@@ -1,1 +1,1 @@
-var mnemonic = "fiber easily eye holiday fan city gauge obey husband harsh walnut ready";
+var mnemonic = "bring wrist frown where tide hood buyer portion honey seven surprise bamboo";

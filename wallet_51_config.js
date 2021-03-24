@@ -1,1 +1,1 @@
-var mnemonic = "license island milk dance angry present luxury gold grape ill crash test";
+var mnemonic = "view seminar family toilet crew engine already undo sponsor face identify sword";

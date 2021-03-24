@@ -1,1 +1,1 @@
-var mnemonic = "label left whale shoot sight canvas oblige penalty bottom zebra either entire";
+var mnemonic = "blanket pigeon athlete amazing faith raw chef accident adult ice round load";

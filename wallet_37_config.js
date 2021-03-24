@@ -1,1 +1,1 @@
-var mnemonic = "clap ill embark device tobacco high protect enforce vintage ceiling noble fiber";
+var mnemonic = "father orbit happy ketchup eight nut alarm account board echo shoot slice";

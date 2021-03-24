@@ -1,1 +1,1 @@
-var mnemonic = "zebra lucky area laundry crowd humor fiber story punch reform left bleak";
+var mnemonic = "step core banner scheme fabric stamp brass sentence popular universe seek sword";

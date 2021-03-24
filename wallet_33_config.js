@@ -1,1 +1,1 @@
-var mnemonic = "thing plunge dentist butter private gasp silly host crunch team problem extend";
+var mnemonic = "emerge idea loan adult burger old hidden leopard laugh mail large tissue";

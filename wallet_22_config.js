@@ -1,1 +1,1 @@
-var mnemonic = "present sentence tube term two table father ketchup adapt car ride win";
+var mnemonic = "warrior finish main napkin cry quarter village glance flame advice equal chicken";

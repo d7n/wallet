@@ -1,1 +1,1 @@
-var mnemonic = "rare remind pond surface paper turn reunion prevent power item couch narrow";
+var mnemonic = "relief often flush buddy pyramid magic remove wash rude high settle novel";

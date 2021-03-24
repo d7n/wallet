@@ -1,1 +1,1 @@
-var mnemonic = "truck butter chunk tower trigger lesson amateur develop tattoo tribe enter blade";
+var mnemonic = "cute rapid girl moral swift mirror act slim about inform crash surge";

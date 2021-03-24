@@ -1,1 +1,1 @@
-var mnemonic = "tree act shield net library peasant unveil document junior average budget flame";
+var mnemonic = "fiscal lamp merit episode soul diesel present banner faith velvet fade best";

@@ -1,1 +1,1 @@
-var mnemonic = "believe dignity excuse appear hedgehog quit update decade pizza patrol retire theory";
+var mnemonic = "ribbon tent miss expire matrix else comic runway wife goddess attract cradle";

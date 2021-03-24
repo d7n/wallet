@@ -1,1 +1,1 @@
-var mnemonic = "stadium blast depend coil dirt evoke twenty rate cement shop medal atom";
+var mnemonic = "shrimp camp skull tourist guitar snack tonight sad enhance banana bird guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure song conduct gallery bonus ice worry brief cheese small weapon sorry";
+var mnemonic = "hammer inflict hair sorry thank hero pave parrot service buffalo online saddle";

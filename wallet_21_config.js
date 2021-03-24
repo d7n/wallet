@@ -1,1 +1,1 @@
-var mnemonic = "all scene appear welcome crane lecture daughter lawn gate invite lecture write";
+var mnemonic = "resist credit lift about estate gate unhappy measure always beyond toy receive";

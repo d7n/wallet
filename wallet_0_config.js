@@ -1,1 +1,1 @@
-var mnemonic = "indicate all math mountain toddler genre liar educate donor define spy brother";
+var mnemonic = "month age feel bulk erode portion prevent tool unveil purity text voice";

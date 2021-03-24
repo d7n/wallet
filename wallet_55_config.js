@@ -1,1 +1,1 @@
-var mnemonic = "peace bone win civil banner roof mistake math enter blade quick help";
+var mnemonic = "swallow spawn title thank summer wage isolate input grain lady shrimp hobby";

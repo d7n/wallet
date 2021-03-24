@@ -1,1 +1,1 @@
-var mnemonic = "hurry magic kidney promote goose then coast beyond enough absurd negative era";
+var mnemonic = "obvious system measure shuffle opinion what retire frame humor latin wife monster";

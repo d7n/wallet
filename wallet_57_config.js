@@ -1,1 +1,1 @@
-var mnemonic = "elder deal click phone envelope hen dignity during steel apple enlist fortune";
+var mnemonic = "cross border news dash donate adjust siren armed bottom typical catch left";

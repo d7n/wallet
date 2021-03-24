@@ -1,1 +1,1 @@
-var mnemonic = "problem agree promote weapon enlist place young rug clog fortune found cabin";
+var mnemonic = "wrap frequent panther only alcohol picture among tourist exclude damage leisure earth";

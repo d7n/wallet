@@ -1,1 +1,1 @@
-var mnemonic = "famous blur reopen trim immune spin orange carry indicate vessel glory essence";
+var mnemonic = "cliff service cost giraffe general effort keep alarm excuse much kid tackle";

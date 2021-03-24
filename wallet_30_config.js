@@ -1,1 +1,1 @@
-var mnemonic = "million dress target loyal absent diagram valley hollow carry inch slab buffalo";
+var mnemonic = "leisure dutch mixture argue fit subway mesh replace recall glad couch panic";

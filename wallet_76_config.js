@@ -1,1 +1,1 @@
-var mnemonic = "remind abandon jelly vessel muffin repeat ask stem swift split roast obtain";
+var mnemonic = "transfer snake poet tail fantasy vehicle filter slight human tray caution sting";

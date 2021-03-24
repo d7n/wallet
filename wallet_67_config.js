@@ -1,1 +1,1 @@
-var mnemonic = "like match fringe unlock mountain december hope seven ancient gas salmon vehicle";
+var mnemonic = "manual expire mimic expect climb tragic sauce major search taxi hurt surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion deny desk flip can enroll body flip cross derive warrior release";
+var mnemonic = "cattle country try rug resource desk peanut ramp plastic close laundry monkey";

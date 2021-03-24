@@ -1,1 +1,1 @@
-var mnemonic = "maze rebel situate pilot critic annual hawk finish planet vault flush cause";
+var mnemonic = "spice drama report social measure anger sadness trim health table fluid reunion";

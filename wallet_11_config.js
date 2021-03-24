@@ -1,1 +1,1 @@
-var mnemonic = "monkey egg normal pole health various glide refuse swallow news right captain";
+var mnemonic = "dish soldier pattern chef alert immense define letter explain curve squeeze rose";

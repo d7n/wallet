@@ -1,1 +1,1 @@
-var mnemonic = "apology hint pyramid over umbrella daughter prosper gate receive labor universe syrup";
+var mnemonic = "pole flat evil earn wife tumble trick lunar fancy skill faith measure";

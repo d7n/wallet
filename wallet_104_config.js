@@ -1,1 +1,1 @@
-var mnemonic = "upset toward room alarm sword filter empower rich frown rough talk column";
+var mnemonic = "assume laundry relax reveal avocado demise blouse horror obvious enhance fan mail";

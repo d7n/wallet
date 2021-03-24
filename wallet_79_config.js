@@ -1,1 +1,1 @@
-var mnemonic = "sausage once urban mention put item gospel maximum charge host pill cool";
+var mnemonic = "town major sentence sibling dog noise ring genuine clinic bomb develop drive";
