@@ -1,1 +1,1 @@
-var mnemonic = "tornado above tunnel crack bundle multiply because news phone caught engine click";
+var mnemonic = "across enact buddy tobacco rally drill stumble raccoon wagon salad pigeon bulk";

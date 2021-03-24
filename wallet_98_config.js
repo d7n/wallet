@@ -1,1 +1,1 @@
-var mnemonic = "group antenna library trophy best cream ozone dynamic clog warfare trash employ";
+var mnemonic = "dial measure impulse return arrow under bomb rose little core skull globe";

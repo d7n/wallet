@@ -1,1 +1,1 @@
-var mnemonic = "dentist weird junior match high size affair emotion evoke cactus cram century";
+var mnemonic = "glide toast betray ketchup cover canal gentle return certain someone biology sample";

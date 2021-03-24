@@ -1,1 +1,1 @@
-var mnemonic = "early diagram announce trophy loyal nasty plunge father purity tragic rhythm slide";
+var mnemonic = "north virtual hat minimum infant rent giggle celery rookie planet ignore amused";

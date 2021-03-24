@@ -1,1 +1,1 @@
-var mnemonic = "axis extra size menu chest return wool tonight blood pulp resist ginger";
+var mnemonic = "calm ecology grass wise this trip sick time team success clinic subject";

@@ -1,1 +1,1 @@
-var mnemonic = "era labor moral physical spider beauty lazy picture struggle horn neither mimic";
+var mnemonic = "sadness together wet month easily custom gaze matter sea filter original quote";

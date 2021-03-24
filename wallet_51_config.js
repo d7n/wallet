@@ -1,1 +1,1 @@
-var mnemonic = "clog twenty favorite february finish demand ripple electric pretty suggest ketchup sentence";
+var mnemonic = "century drastic begin head put dance diary boy buyer gesture jar spring";

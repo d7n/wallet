@@ -1,1 +1,1 @@
-var mnemonic = "olive wear glance lobster vast vicious emerge pink original faith leisure glad";
+var mnemonic = "code series giant plunge stumble share proof evolve next solar action nephew";

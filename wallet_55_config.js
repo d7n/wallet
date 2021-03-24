@@ -1,1 +1,1 @@
-var mnemonic = "fragile infant evoke test coast lyrics retreat frame victory vanish zero vehicle";
+var mnemonic = "rack now cupboard same concert million stomach swamp gold inject replace student";

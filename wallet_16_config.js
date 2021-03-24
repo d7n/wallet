@@ -1,1 +1,1 @@
-var mnemonic = "uncle shoot property property match prevent okay small video barely oven dog";
+var mnemonic = "round game december shop code jelly edit early crack truck mountain prize";

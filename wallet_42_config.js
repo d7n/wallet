@@ -1,1 +1,1 @@
-var mnemonic = "moral column dentist toast cushion fruit chuckle right edge noodle hidden harsh";
+var mnemonic = "lesson man business catch mule six exhaust win humor twist ice assault";

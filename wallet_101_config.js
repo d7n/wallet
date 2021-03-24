@@ -1,1 +1,1 @@
-var mnemonic = "board pill oblige vital labor steak tilt excess razor museum turkey turkey";
+var mnemonic = "wet bamboo equal predict express vivid woman track armor unknown inflict attitude";

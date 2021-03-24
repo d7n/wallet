@@ -1,1 +1,1 @@
-var mnemonic = "jump resemble clean ten clever render hub flag chimney sheriff clerk acquire";
+var mnemonic = "vessel measure title choose rival sustain conduct flash setup offer dirt picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "lava swing boy dawn message actress blouse success reunion minimum find during";
+var mnemonic = "bless plastic unlock ranch explain april rug nerve alone mystery junior sad";

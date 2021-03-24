@@ -1,1 +1,1 @@
-var mnemonic = "double neglect mixture reopen sword cruise taste erase health ivory dinosaur alarm";
+var mnemonic = "smile tumble normal hood cactus document car people two aim library grief";

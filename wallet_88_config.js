@@ -1,1 +1,1 @@
-var mnemonic = "point fame what rival crawl canoe toast salute armor inquiry dice burden";
+var mnemonic = "invest music area crunch ask stereo betray enlist scrap loan legend hour";

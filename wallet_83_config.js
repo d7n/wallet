@@ -1,1 +1,1 @@
-var mnemonic = "degree reject wealth hand trouble discover virtual quote example divide fiscal duty";
+var mnemonic = "mind inside segment boat danger slender image antique peace auto icon scrub";

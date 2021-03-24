@@ -1,1 +1,1 @@
-var mnemonic = "hope elegant wood garden thrive jacket duck toward diet peace remember flavor";
+var mnemonic = "miracle inside night city raven endorse outside balance click donkey library glare";

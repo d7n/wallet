@@ -1,1 +1,1 @@
-var mnemonic = "brisk trap dismiss saddle element tone loop truly supply desk faculty involve";
+var mnemonic = "sort melody know make cotton comfort resource human oblige august since ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery bid wrong render close toward water hour pond shield gold escape";
+var mnemonic = "bless churn hidden work cloth injury close bicycle skirt awful project next";

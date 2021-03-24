@@ -1,1 +1,1 @@
-var mnemonic = "file token globe save riot wear walk shrug such route normal law";
+var mnemonic = "state ride tackle idea limit sick wide phone relief mansion exclude color";

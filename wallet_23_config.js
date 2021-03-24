@@ -1,1 +1,1 @@
-var mnemonic = "express labor velvet blind thumb ugly wild point pipe warrior display urge";
+var mnemonic = "lawsuit boss gasp flame empty bubble cross run proud cube grant toast";

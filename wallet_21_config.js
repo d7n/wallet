@@ -1,1 +1,1 @@
-var mnemonic = "patient join verb insect leave surface cliff august artefact silver smile ticket";
+var mnemonic = "total outdoor group minute radar embody enough lecture capable normal frown draft";

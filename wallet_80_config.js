@@ -1,1 +1,1 @@
-var mnemonic = "cool van hint adapt magic federal forest approve apart stable scare alarm";
+var mnemonic = "match mask cloth usage actual hope valve sudden round boss climb thought";

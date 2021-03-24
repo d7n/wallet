@@ -1,1 +1,1 @@
-var mnemonic = "item gloom pass enact wool inject plunge trial recycle impose pull soda";
+var mnemonic = "correct asset mass frown include slice bag grocery royal tomato head opinion";

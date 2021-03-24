@@ -1,1 +1,1 @@
-var mnemonic = "eager brass club oil bitter face dinner maze play enter dignity belt";
+var mnemonic = "image canyon this trial flush lamp gaze trouble search net drift foot";

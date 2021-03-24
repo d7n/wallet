@@ -1,1 +1,1 @@
-var mnemonic = "earn age bread inmate thought amused entire rather cloth skirt noise smart";
+var mnemonic = "pond host august dismiss leaf lemon escape denial welcome beach rotate room";

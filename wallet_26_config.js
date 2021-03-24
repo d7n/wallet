@@ -1,1 +1,1 @@
-var mnemonic = "emerge mountain still express silly normal object hill spike process danger use";
+var mnemonic = "bamboo awesome just media real satoshi method smoke love unable august field";

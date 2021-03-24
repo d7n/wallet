@@ -1,1 +1,1 @@
-var mnemonic = "engage globe scare toddler fish leg onion pool curve during master stove";
+var mnemonic = "cousin bargain grant love fatal post basic deer know shoulder load siege";

@@ -1,1 +1,1 @@
-var mnemonic = "reform assault wild clock sight filter add patch alley ugly rate joke";
+var mnemonic = "favorite surge stem venue fire sponsor pride rival toilet patch echo grit";

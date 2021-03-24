@@ -1,1 +1,1 @@
-var mnemonic = "climb fresh flame fix satoshi horror lion crunch limit gadget over impulse";
+var mnemonic = "toss throw raw police knife undo shiver nut episode rabbit private drip";

@@ -1,1 +1,1 @@
-var mnemonic = "egg air crush wasp shuffle nature horse dumb orphan wolf pear orbit";
+var mnemonic = "jungle since food priority present lunch myself olympic noise toddler dismiss curve";

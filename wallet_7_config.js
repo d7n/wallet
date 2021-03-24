@@ -1,1 +1,1 @@
-var mnemonic = "ring shove blood glance shove night width mask club tail where media";
+var mnemonic = "harvest happy news wool robust label speed enroll cluster film blossom spare";

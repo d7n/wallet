@@ -1,1 +1,1 @@
-var mnemonic = "fashion oyster august goat rifle color globe fold champion coconut seed inspire";
+var mnemonic = "fashion boost hobby dragon tuna dove defy belt cactus potato olympic silver";

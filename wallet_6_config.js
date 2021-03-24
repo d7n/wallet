@@ -1,1 +1,1 @@
-var mnemonic = "elephant demand blossom join possible around like follow swear congress street cradle";
+var mnemonic = "sugar crowd select nest share nature still museum envelope balcony add rain";

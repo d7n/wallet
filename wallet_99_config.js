@@ -1,1 +1,1 @@
-var mnemonic = "slot wait economy measure tackle offer kidney zoo horror pledge film cruel";
+var mnemonic = "punch odor slim merge supreme unique inhale fence chef code tribe defense";

@@ -1,1 +1,1 @@
-var mnemonic = "senior hamster insane hurry junior year skin cube gospel cherry patrol bracket";
+var mnemonic = "mercy dwarf fault armed solve file salad meat resist smile brown deal";

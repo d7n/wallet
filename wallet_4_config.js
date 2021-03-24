@@ -1,1 +1,1 @@
-var mnemonic = "popular twice gallery coach produce online work forward chef egg paper envelope";
+var mnemonic = "assist nasty resist mystery hazard lion quote catalog name embark stem fantasy";

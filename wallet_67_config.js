@@ -1,1 +1,1 @@
-var mnemonic = "tape pistol cloud art stock amount tank common raise answer hundred nerve";
+var mnemonic = "casual lawsuit buddy joy vibrant visa indoor protect love voice rebuild unfair";

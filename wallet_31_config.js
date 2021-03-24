@@ -1,1 +1,1 @@
-var mnemonic = "lion daring original swing answer raw cotton juice limit cable maze lunch";
+var mnemonic = "series acoustic shy verify dumb domain exhaust sample wet bridge switch video";

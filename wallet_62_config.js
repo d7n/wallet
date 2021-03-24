@@ -1,1 +1,1 @@
-var mnemonic = "turkey gas radar leave tower acquire sponsor census cute rack wrist rocket";
+var mnemonic = "hamster way summer middle exhaust chalk toe claim habit spend basic shoe";

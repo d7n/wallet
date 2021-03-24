@@ -1,1 +1,1 @@
-var mnemonic = "world fun shove timber camp soup wealth month submit solve merge display";
+var mnemonic = "false game sibling tank spawn bamboo punch capital save shiver fall gas";

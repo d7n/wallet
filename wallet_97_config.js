@@ -1,1 +1,1 @@
-var mnemonic = "primary apart save plug problem brain attend evil student injury coral quiz";
+var mnemonic = "club recipe monster glance spoon essence toddler horror transfer provide bid hunt";

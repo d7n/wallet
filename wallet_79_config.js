@@ -1,1 +1,1 @@
-var mnemonic = "usage stock rescue bid invite off illegal eye where exhibit glow once";
+var mnemonic = "kidney garage hurt utility crisp witness prepare verb twenty salt aspect insane";

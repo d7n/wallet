@@ -1,1 +1,1 @@
-var mnemonic = "obscure impose jazz palace damage sniff loud explain close amount twin correct";
+var mnemonic = "warrior talent since used kind explain shoe charge impact damp oppose thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "merge legend glad base paddle vintage put kiss fringe injury twelve figure";
+var mnemonic = "copy decide advance govern access hockey marine term question story orchard supply";

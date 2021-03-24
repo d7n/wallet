@@ -1,1 +1,1 @@
-var mnemonic = "cigar say gun worry jazz foster glare impose approve october notable culture";
+var mnemonic = "blast deny depth mom midnight cover usual outside until cable pyramid twist";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy lawsuit crowd stock grape train enough will achieve glide setup broccoli";
+var mnemonic = "curtain open faint phone glove embrace resource nothing explain material mixture verb";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle plate waste amount trim scheme art diesel convince voyage icon congress";
+var mnemonic = "anxiety estate exhibit sense leisure raise crash category ride palm father mobile";

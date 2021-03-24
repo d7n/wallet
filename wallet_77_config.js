@@ -1,1 +1,1 @@
-var mnemonic = "please vital cattle smart bright stone fuel flight bargain merry wall either";
+var mnemonic = "hip volume very bless ridge spin cable obscure century simple decade notable";

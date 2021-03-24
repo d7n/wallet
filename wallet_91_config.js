@@ -1,1 +1,1 @@
-var mnemonic = "pair general spoil siege blur ostrich cream expect barrel honey utility scrap";
+var mnemonic = "skirt recycle hope shiver young crunch organ metal sunny endless prosper tomorrow";

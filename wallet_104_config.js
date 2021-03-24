@@ -1,1 +1,1 @@
-var mnemonic = "slot garden height guide during dynamic step flame trim garden loan language";
+var mnemonic = "news mandate october direct enter laugh stadium relief noodle ethics orient multiply";

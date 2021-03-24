@@ -1,1 +1,1 @@
-var mnemonic = "menu room answer comic novel ugly squeeze shrug stage now proud category";
+var mnemonic = "liberty bind sort pulp rate ice dragon city job lawsuit rigid lunar";

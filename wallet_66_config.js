@@ -1,1 +1,1 @@
-var mnemonic = "craft goose tonight giggle lunar popular grain popular rib problem room add";
+var mnemonic = "almost result rib bar allow butter super cook vague solid lamp stable";

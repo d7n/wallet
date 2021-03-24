@@ -1,1 +1,1 @@
-var mnemonic = "toilet truth curve garden settle army deposit trumpet used chalk busy bring";
+var mnemonic = "bamboo dilemma bridge exile message patient winner gold oppose eyebrow leave blade";

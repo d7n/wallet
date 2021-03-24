@@ -1,1 +1,1 @@
-var mnemonic = "because mean husband excite donate grace congress state basic session rubber poem";
+var mnemonic = "morning end corn obey tell veteran during cake region issue panic error";

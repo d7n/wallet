@@ -1,1 +1,1 @@
-var mnemonic = "gym sponsor guilt upon similar crime near burst region urban orchard exercise";
+var mnemonic = "coconut denial castle midnight please enrich tiny solution such total timber annual";

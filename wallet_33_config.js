@@ -1,1 +1,1 @@
-var mnemonic = "topple small sport avoid person reduce mechanic twice oak clog execute border";
+var mnemonic = "purchase police swallow bulb digital pumpkin pony approve execute circle work prosper";

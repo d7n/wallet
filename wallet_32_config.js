@@ -1,1 +1,1 @@
-var mnemonic = "produce neglect smoke emerge elevator initial beauty home mouse link juice steel";
+var mnemonic = "copper wife exhaust burden split clock muffin pink earth deer hockey stick";

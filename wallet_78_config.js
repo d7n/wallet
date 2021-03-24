@@ -1,1 +1,1 @@
-var mnemonic = "express deputy arrive impose between wasp glow motor nation invite pink grid";
+var mnemonic = "dad jazz pear race pattern bargain shiver flee story detect fun disagree";

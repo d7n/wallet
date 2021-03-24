@@ -1,1 +1,1 @@
-var mnemonic = "laptop elephant tissue name audit label wave pen axis clever address pluck";
+var mnemonic = "speed state zero powder angle coyote object wisdom thank sleep become rent";

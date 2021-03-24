@@ -1,1 +1,1 @@
-var mnemonic = "brave eagle wood topple vanish aim choose sail eagle poet color ritual";
+var mnemonic = "flavor spend fossil genius until winter tooth solve fish neglect knife piano";

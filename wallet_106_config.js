@@ -1,1 +1,1 @@
-var mnemonic = "prepare where reopen south lonely tower focus grace surge exile wet cruise";
+var mnemonic = "guard dad oven foot regret earth arctic hundred original wrong discover napkin";

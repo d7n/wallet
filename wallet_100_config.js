@@ -1,1 +1,1 @@
-var mnemonic = "meadow brown peasant aunt essence oyster mansion aunt spirit grit forget author";
+var mnemonic = "fabric ordinary section summer attend wealth invest banner agent dinosaur clay private";

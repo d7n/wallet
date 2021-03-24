@@ -1,1 +1,1 @@
-var mnemonic = "vast provide enforce acid sun salon evidence smooth defy chat insane glad";
+var mnemonic = "warm notable ten fish inspire nut grit express frown shove away beef";

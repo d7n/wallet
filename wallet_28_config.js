@@ -1,1 +1,1 @@
-var mnemonic = "rail town awake thrive arena main client february resource just strike cable";
+var mnemonic = "skull situate adapt mom visual enforce melt click detect spring tray twin";

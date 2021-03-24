@@ -1,1 +1,1 @@
-var mnemonic = "eager audit ankle two slogan spy special problem diamond enable apart vital";
+var mnemonic = "differ clay decade manual cup super warfare crack deputy sweet furnace ill";

@@ -1,1 +1,1 @@
-var mnemonic = "original trip tornado avoid boy hour human glove kiwi subway middle luggage";
+var mnemonic = "awful arrive canal jacket recall net juice train defense exchange build know";

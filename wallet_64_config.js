@@ -1,1 +1,1 @@
-var mnemonic = "rigid alter onion milk social smooth super income onion swarm economy another";
+var mnemonic = "vivid concert loud rubber help rent broccoli session exclude extend choose alter";

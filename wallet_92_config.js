@@ -1,1 +1,1 @@
-var mnemonic = "thank fat innocent emerge onion father chair enlist rather wait slice shiver";
+var mnemonic = "clock path zone shaft announce miss alter inflict sand moral want north";

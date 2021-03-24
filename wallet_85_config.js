@@ -1,1 +1,1 @@
-var mnemonic = "man diagram pitch balance planet strategy act snack rather silk struggle more";
+var mnemonic = "office usual tunnel gloom paper setup stereo hawk magnet wire sudden brother";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin erosion note muscle december six settle tell wild response fiscal trim";
+var mnemonic = "market retreat later banana cry turtle strong drive warfare vehicle master beyond";

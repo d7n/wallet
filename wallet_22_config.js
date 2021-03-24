@@ -1,1 +1,1 @@
-var mnemonic = "taxi swarm winner farm rack disease wave visual feature fetch puzzle ecology";
+var mnemonic = "cute kingdom arena build bridge jacket naive asthma exhibit come term erode";

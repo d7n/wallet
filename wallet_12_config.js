@@ -1,1 +1,1 @@
-var mnemonic = "pitch carry inquiry kidney meat romance crisp job iron spice east riot";
+var mnemonic = "inhale enrich space topple ripple when hope alter gospel endorse carry replace";

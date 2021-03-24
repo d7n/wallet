@@ -1,1 +1,1 @@
-var mnemonic = "uncover tip siren disagree gasp sudden affair wolf belt bundle display guilt";
+var mnemonic = "forest gaze supply win pave bacon vague goat draft sudden concert artefact";

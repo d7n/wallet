@@ -1,1 +1,1 @@
-var mnemonic = "message exact match mystery omit endless rich anxiety manual chicken faith body";
+var mnemonic = "become inflict three confirm throw ignore suffer mountain mention wealth link animal";

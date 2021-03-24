@@ -1,1 +1,1 @@
-var mnemonic = "pretty robot inform tourist siren pizza direct diary vicious symbol winter ostrich";
+var mnemonic = "dinner convince invite portion stomach small film venue scrap item size kid";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse space nerve habit evoke canal ship drip spot outside uncover primary";
+var mnemonic = "air cactus small evoke view nothing issue reunion improve barrel give laugh";

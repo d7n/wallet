@@ -1,1 +1,1 @@
-var mnemonic = "flip vivid city champion sister fresh fortune cruise order robot capital cat";
+var mnemonic = "address open before ridge mail author share oxygen razor parade pause oil";

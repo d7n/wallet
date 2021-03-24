@@ -1,1 +1,1 @@
-var mnemonic = "female enjoy range tape glide buyer crash banana awkward desk cement slender";
+var mnemonic = "reward innocent emerge fun manual clay put pause measure trend indicate dress";

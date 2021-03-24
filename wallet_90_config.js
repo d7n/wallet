@@ -1,1 +1,1 @@
-var mnemonic = "mix head cup wet flee just beach indoor gather surge enforce despair";
+var mnemonic = "quick hammer door very train account bargain mobile orient lunar salad onion";

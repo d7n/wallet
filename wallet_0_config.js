@@ -1,1 +1,1 @@
-var mnemonic = "goat true urban add trial excuse safe scrap border lab blush faith";
+var mnemonic = "spare response pact innocent hamster census process shiver rescue grief town lottery";

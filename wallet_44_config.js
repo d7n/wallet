@@ -1,1 +1,1 @@
-var mnemonic = "brass train welcome where document feature shift skill evoke mind march glad";
+var mnemonic = "custom report talk mandate banana company twin forget auto kit suspect ship";

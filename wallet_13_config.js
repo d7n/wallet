@@ -1,1 +1,1 @@
-var mnemonic = "slot violin undo giggle short person sword anger ethics few walnut comic";
+var mnemonic = "ridge foster chunk final correct track fresh solid ball fall deposit bottom";

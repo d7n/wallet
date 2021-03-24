@@ -1,1 +1,1 @@
-var mnemonic = "seek expire path call business ramp phone brown film volume sponsor pencil";
+var mnemonic = "fiscal husband cram render nurse venue town ski volume message surface off";

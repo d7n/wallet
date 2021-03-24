@@ -1,1 +1,1 @@
-var mnemonic = "ancient stand move abuse tuna matter plunge rhythm candy forum fold swim";
+var mnemonic = "strike purity guitar unit dry near swear apart art pudding wife charge";

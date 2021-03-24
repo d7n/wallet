@@ -1,1 +1,1 @@
-var mnemonic = "skirt gasp horror cave reform defy mesh obscure cram absent ecology impact";
+var mnemonic = "model man scan witness usual sunny cheap humor ramp unit tray cruel";

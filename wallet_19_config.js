@@ -1,1 +1,1 @@
-var mnemonic = "size inflict season pave judge text melody piano say vast advance sunny";
+var mnemonic = "camera valid core glue zero nuclear tell moment double fitness error lawn";
