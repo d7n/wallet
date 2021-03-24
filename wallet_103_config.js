@@ -1,1 +1,1 @@
-var mnemonic = "narrow trap supreme hybrid fury impose cable genius curtain number parent priority";
+var mnemonic = "window eager marine hip gallery iron profit wish anxiety tackle despair keep";

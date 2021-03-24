@@ -1,1 +1,1 @@
-var mnemonic = "marble almost submit response earn connect slight large sadness bless olympic ridge";
+var mnemonic = "kick like napkin labor style unaware fat system scare dress wool bar";

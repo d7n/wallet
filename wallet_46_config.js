@@ -1,1 +1,1 @@
-var mnemonic = "pioneer sketch keep response record seed like violin north squirrel pride stay";
+var mnemonic = "enable welcome century army neck young entry fortune fat sadness empower evidence";

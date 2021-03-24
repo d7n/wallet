@@ -1,1 +1,1 @@
-var mnemonic = "syrup input office route wonder top genius issue agent slim file shove";
+var mnemonic = "column arctic sell initial hat couple spread victory range ill eager assault";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty various police reward gossip average people bitter property hour want horror";
+var mnemonic = "energy panda lion duty cycle cost unfair marine lawsuit lawsuit diamond fix";

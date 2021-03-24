@@ -1,1 +1,1 @@
-var mnemonic = "material reward valid liar place rain caught bullet armed cram toilet average";
+var mnemonic = "receive maze put abuse budget barely extend belt vehicle tiger twelve heavy";

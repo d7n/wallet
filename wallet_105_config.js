@@ -1,1 +1,1 @@
-var mnemonic = "alley office float consider romance lunch allow body critic control resource divorce";
+var mnemonic = "acid whip notice master fox say tube skate viable blood harvest future";

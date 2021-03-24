@@ -1,1 +1,1 @@
-var mnemonic = "select stuff law purchase property behind glide okay increase truth enjoy drink";
+var mnemonic = "kangaroo link between tip monster enact fog exotic piece exotic glad service";

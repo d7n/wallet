@@ -1,1 +1,1 @@
-var mnemonic = "trigger defense sphere omit grid film demand utility wolf pact bamboo buffalo";
+var mnemonic = "weird device exhibit huge walk choose situate absent woman prize soap rabbit";

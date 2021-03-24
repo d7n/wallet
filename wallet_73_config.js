@@ -1,1 +1,1 @@
-var mnemonic = "resemble sad dress season joy reunion then solution mixed sketch fork crazy";
+var mnemonic = "release distance wet aisle unlock canoe thumb gallery blade erase length skate";

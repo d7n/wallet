@@ -1,1 +1,1 @@
-var mnemonic = "easy pipe visit fortune avoid attract insect walnut toy report pear sign";
+var mnemonic = "admit kiwi prosper tomato uncle slender blood begin spread ketchup motion scale";

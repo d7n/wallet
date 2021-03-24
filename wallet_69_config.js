@@ -1,1 +1,1 @@
-var mnemonic = "goose onion relax giraffe sudden until syrup combine buddy theme multiply noise";
+var mnemonic = "bulb street renew raven harsh rebel outer dove actual badge tobacco gift";

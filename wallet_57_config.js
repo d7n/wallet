@@ -1,1 +1,1 @@
-var mnemonic = "morning shallow stomach pool steak bullet source wall turn season play wide";
+var mnemonic = "equal imitate trend rule erupt above nose embrace return feed distance basket";

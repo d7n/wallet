@@ -1,1 +1,1 @@
-var mnemonic = "chase own blind gallery rotate camp direct garlic rescue spin index magic";
+var mnemonic = "suffer video father sibling math resemble exile just across shoe nasty rely";

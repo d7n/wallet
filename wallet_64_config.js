@@ -1,1 +1,1 @@
-var mnemonic = "loud ginger unknown north observe daring weather there journey gym depth december";
+var mnemonic = "smart win worth pluck master feature debris cover salute empty describe lazy";

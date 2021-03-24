@@ -1,1 +1,1 @@
-var mnemonic = "humor spray drop test regret help airport will empty open iron song";
+var mnemonic = "juice return loop awake snow diagram permit limit opinion miracle attract unique";

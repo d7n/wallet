@@ -1,1 +1,1 @@
-var mnemonic = "lens absent also rival beyond drop abstract print forest hammer obscure middle";
+var mnemonic = "catalog coffee soon exit letter sustain group firm sick video rescue weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "debate alarm add private donate update hurry sea interest call cable traffic";
+var mnemonic = "make swap faith rival because conduct upset parent ticket thought cheese window";

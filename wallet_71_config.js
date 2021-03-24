@@ -1,1 +1,1 @@
-var mnemonic = "combine firm trouble gorilla plastic vast extra setup reward entry boring rabbit";
+var mnemonic = "planet mushroom use detect blast garage text radio young great salmon rebel";

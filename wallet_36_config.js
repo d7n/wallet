@@ -1,1 +1,1 @@
-var mnemonic = "wrestle object jaguar dial eye zoo october crash fatal buddy proof cloth";
+var mnemonic = "update hotel where syrup guitar fabric rapid never summer slight market name";

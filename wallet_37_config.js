@@ -1,1 +1,1 @@
-var mnemonic = "scan protect daring video exhibit holiday index route agree foot stone acquire";
+var mnemonic = "fatigue space loop hard physical keen spin hundred often prefer warrior resist";

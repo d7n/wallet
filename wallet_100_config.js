@@ -1,1 +1,1 @@
-var mnemonic = "hour lounge usage below broken patient sort silver never father execute goose";
+var mnemonic = "smart upper room shoulder address tonight ripple bomb under basket degree need";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge logic diet reject marine pizza economy brisk snap law camera usage";
+var mnemonic = "dad catch unique shoulder safe east arch mansion own cheese rifle coffee";

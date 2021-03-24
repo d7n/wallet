@@ -1,1 +1,1 @@
-var mnemonic = "laptop key check exercise head syrup blur hill boring actor candy enjoy";
+var mnemonic = "custom upset multiply gorilla cement peasant hub omit three hobby ethics picture";

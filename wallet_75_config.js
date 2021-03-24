@@ -1,1 +1,1 @@
-var mnemonic = "bracket arrow grief cereal mask height disease hamster future fatal coil grid";
+var mnemonic = "garden maze cry cave film embrace garbage hobby boat attend size rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll afford retreat document shove token maze point neglect peanut net they";
+var mnemonic = "crush parade bullet six awesome school leopard surface faint acoustic consider next";

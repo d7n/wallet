@@ -1,1 +1,1 @@
-var mnemonic = "border kitchen tattoo orchard pole pumpkin coconut please under spoil client wreck";
+var mnemonic = "apart among term acquire bid grocery injury wolf museum hobby adapt embody";

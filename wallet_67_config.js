@@ -1,1 +1,1 @@
-var mnemonic = "dog bright curve lawsuit raccoon diet hockey zero stove whisper fiber sniff";
+var mnemonic = "damp until wreck asthma radio person bleak fun fog pledge excuse illness";

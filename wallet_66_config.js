@@ -1,1 +1,1 @@
-var mnemonic = "alley milk tray wisdom purse shoulder island police super cattle cancel diagram";
+var mnemonic = "lens crane october mother diagram feel chuckle bonus cannon fancy pet inform";

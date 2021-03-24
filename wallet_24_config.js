@@ -1,1 +1,1 @@
-var mnemonic = "door infant stick advice burst limit foil embody chicken coral connect leave";
+var mnemonic = "chronic amazing spoil either fame scare since vessel upset bargain salmon fee";

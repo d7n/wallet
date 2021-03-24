@@ -1,1 +1,1 @@
-var mnemonic = "thing wing wink loud moral company sad verify exchange lecture genuine hundred";
+var mnemonic = "loyal inhale high aerobic school cloud dry broken black combine sleep chicken";

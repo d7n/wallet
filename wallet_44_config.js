@@ -1,1 +1,1 @@
-var mnemonic = "under best enable panel under hole dress process trap inform chair visual";
+var mnemonic = "keen offer cheap woman wait across season emotion world mad measure avocado";

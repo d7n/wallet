@@ -1,1 +1,1 @@
-var mnemonic = "visa option until limit weather jelly again upper educate fresh swallow pen";
+var mnemonic = "link fancy dance useful kangaroo era solution spell snack exact shoulder service";

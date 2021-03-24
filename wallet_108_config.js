@@ -1,1 +1,1 @@
-var mnemonic = "sponsor learn wise soda govern bonus find skull pelican trash force also";
+var mnemonic = "toss enforce mirror warrior develop park afford cannon poem spawn space snack";

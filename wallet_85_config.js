@@ -1,1 +1,1 @@
-var mnemonic = "blanket wisdom tape income donate fever claw solar select sign toilet fresh";
+var mnemonic = "october script sea movie ship journey spare limb change naive obtain model";

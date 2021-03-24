@@ -1,1 +1,1 @@
-var mnemonic = "diesel owner absorb party drill walk way garage sort wrong rebel orchard";
+var mnemonic = "focus increase pride place estate like order ripple express twice imitate hockey";

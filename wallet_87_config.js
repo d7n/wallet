@@ -1,1 +1,1 @@
-var mnemonic = "there group age hollow correct ridge dream lend pave outer split title";
+var mnemonic = "autumn later whisper cute utility oyster eager mango exit lawsuit eternal derive";

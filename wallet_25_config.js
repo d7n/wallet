@@ -1,1 +1,1 @@
-var mnemonic = "eager view street famous property speak invite modify plate use record skirt";
+var mnemonic = "oven system magnet puzzle category beef lemon essay result illness voyage opera";

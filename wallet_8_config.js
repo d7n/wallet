@@ -1,1 +1,1 @@
-var mnemonic = "vital kick arrive index pact churn lottery bonus fame shield cause unit";
+var mnemonic = "awkward poem empower rifle soon catalog tourist catalog furnace inherit symbol spice";

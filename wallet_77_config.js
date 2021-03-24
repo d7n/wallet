@@ -1,1 +1,1 @@
-var mnemonic = "country bridge finish choose destroy dumb track shallow abuse dutch depart cousin";
+var mnemonic = "law enlist fame width crack giant spoon smile gadget bicycle task occur";

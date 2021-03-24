@@ -1,1 +1,1 @@
-var mnemonic = "rib stove pepper race monster orient taxi broken swear urge arrow hospital";
+var mnemonic = "wing erode near limb foster buffalo cook round setup salad humble tongue";

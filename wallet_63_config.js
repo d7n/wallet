@@ -1,1 +1,1 @@
-var mnemonic = "main abuse host amazing admit any mansion sudden orbit acid arrest issue";
+var mnemonic = "soup fringe echo arrange frequent mimic skull entry involve girl boring sweet";

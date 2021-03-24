@@ -1,1 +1,1 @@
-var mnemonic = "sight rather shoe couch bomb chimney spider orphan smile cloth ranch rent";
+var mnemonic = "foot couple curve embrace hood waste winner tortoise awful plunge timber broccoli";

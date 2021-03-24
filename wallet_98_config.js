@@ -1,1 +1,1 @@
-var mnemonic = "adjust ski south stock parent refuse trip bar trim noodle gauge news";
+var mnemonic = "paddle pupil good gown short monitor drama trust heavy auction camp always";

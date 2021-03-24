@@ -1,1 +1,1 @@
-var mnemonic = "cash steak hero enough sausage burst load kitchen alley govern core expire";
+var mnemonic = "move fantasy sail guess review two quality busy tide salad brain item";

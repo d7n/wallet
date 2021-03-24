@@ -1,1 +1,1 @@
-var mnemonic = "snow edge near offer butter pulse ripple deer drift execute thought grab";
+var mnemonic = "exclude mention regret possible apart test meat define nasty private dilemma alert";

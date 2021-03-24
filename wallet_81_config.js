@@ -1,1 +1,1 @@
-var mnemonic = "topic buyer abuse ahead innocent marine segment clip neglect duck actor truth";
+var mnemonic = "stadium scene lunar affair urge elbow glue battle jungle chef liquid sea";

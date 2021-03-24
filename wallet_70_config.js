@@ -1,1 +1,1 @@
-var mnemonic = "frequent oval rain credit doll planet attract awesome shiver rotate life snake";
+var mnemonic = "draw finger oppose swim desert solar casual squeeze guilt pulse art basic";

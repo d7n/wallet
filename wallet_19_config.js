@@ -1,1 +1,1 @@
-var mnemonic = "unit web reform silent couple circle spike main popular soon giggle pet";
+var mnemonic = "arrange rare bulb still side fault picture banner devote slender broken law";

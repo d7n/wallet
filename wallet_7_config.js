@@ -1,1 +1,1 @@
-var mnemonic = "whale dish disease abstract various stage test thunder usage dune thumb regret";
+var mnemonic = "much shoulder sleep abuse hip own vendor able merry cause wheel thank";

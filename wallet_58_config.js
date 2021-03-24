@@ -1,1 +1,1 @@
-var mnemonic = "fruit chuckle open chimney bacon ecology hurdle slender song indicate cable input";
+var mnemonic = "crime fiber alien exile aim sick crane clog path arrive cloth shell";

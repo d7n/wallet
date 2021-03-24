@@ -1,1 +1,1 @@
-var mnemonic = "ivory skate bleak mimic team elite code day doll motor leaf base";
+var mnemonic = "wrestle engage novel another logic session power wine leader improve duty organ";

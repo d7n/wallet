@@ -1,1 +1,1 @@
-var mnemonic = "card diesel february walk expose tray hope height program proud armor safe";
+var mnemonic = "wash coral man silent mule design soldier sight dizzy teach document bus";

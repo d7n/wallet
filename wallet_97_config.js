@@ -1,1 +1,1 @@
-var mnemonic = "tiger shop problem neglect around junior certain actor business utility leopard east";
+var mnemonic = "rely cube weather object funny dress topic online captain eternal current gesture";

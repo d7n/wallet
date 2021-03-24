@@ -1,1 +1,1 @@
-var mnemonic = "video robust digital leisure bitter merry expire road letter subway opera fish";
+var mnemonic = "mask diagram lady since gown confirm pear young fame symptom again blood";

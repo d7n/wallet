@@ -1,1 +1,1 @@
-var mnemonic = "confirm what sea glass vacuum rib sense smooth daughter category lemon rule";
+var mnemonic = "actual can diagram vacant canoe crane ridge enact grief result original fish";

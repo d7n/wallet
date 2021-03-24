@@ -1,1 +1,1 @@
-var mnemonic = "anger bless royal latin answer key start cute coil idle idea ancient";
+var mnemonic = "culture portion swing mail dune october filter supply midnight narrow circle shine";

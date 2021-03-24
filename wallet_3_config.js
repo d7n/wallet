@@ -1,1 +1,1 @@
-var mnemonic = "grant spring thumb bundle clever weird cabin tower shield insect garlic sample";
+var mnemonic = "mention space fitness model artwork giant estate license annual waste maid twist";

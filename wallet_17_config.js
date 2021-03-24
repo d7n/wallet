@@ -1,1 +1,1 @@
-var mnemonic = "draft combine hard mom ball garage fringe fire dune win sudden voice";
+var mnemonic = "lounge wife jelly night attend small method bean envelope hub balance pizza";

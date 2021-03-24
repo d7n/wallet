@@ -1,1 +1,1 @@
-var mnemonic = "vacuum impulse neck liquid thank snow other island suit pet frozen pink";
+var mnemonic = "type bird mandate soup dutch tube deer glad inner throw arrange tail";

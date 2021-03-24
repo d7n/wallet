@@ -1,1 +1,1 @@
-var mnemonic = "oven sphere slide vacuum fork brisk creek wrap shuffle speak much wool";
+var mnemonic = "private parade transfer unlock hollow six liquid version walk obscure fit distance";

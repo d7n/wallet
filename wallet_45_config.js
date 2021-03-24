@@ -1,1 +1,1 @@
-var mnemonic = "danger sphere conduct maximum way wrap begin humor between unaware mail hello";
+var mnemonic = "section welcome swing clap gather moon novel display dwarf bomb rude roast";

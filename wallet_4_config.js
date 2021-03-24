@@ -1,1 +1,1 @@
-var mnemonic = "daring bring similar enable garage metal sibling document color extra match wheel";
+var mnemonic = "amount market ring item oyster decide bar mutual sail spring twice kite";

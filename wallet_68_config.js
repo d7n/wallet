@@ -1,1 +1,1 @@
-var mnemonic = "trash purpose bid lottery donate venture giant amused violin awesome recipe trick";
+var mnemonic = "nose flower rely situate snack order curve scrub rude lazy buffalo end";

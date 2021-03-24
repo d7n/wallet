@@ -1,1 +1,1 @@
-var mnemonic = "true wheel average dry multiply jaguar flat volcano youth enter card polar";
+var mnemonic = "simple recipe hotel plastic reason calm duck veteran flush immune duck prize";

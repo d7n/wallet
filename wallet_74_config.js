@@ -1,1 +1,1 @@
-var mnemonic = "liquid risk exhaust steak member crew bubble citizen dentist twelve inmate affair";
+var mnemonic = "upper twist gospel item program easy access receive apology object address bridge";

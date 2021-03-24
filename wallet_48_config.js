@@ -1,1 +1,1 @@
-var mnemonic = "grace crater focus square time rocket script army provide element cheese comic";
+var mnemonic = "tone point sudden try author doll scan add inform limit toss course";

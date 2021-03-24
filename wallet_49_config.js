@@ -1,1 +1,1 @@
-var mnemonic = "hobby whale ginger giraffe wild wire invite arrange grain say dad crawl";
+var mnemonic = "forest joy skull reject machine noble hurry bronze wolf banner frozen require";

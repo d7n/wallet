@@ -1,1 +1,1 @@
-var mnemonic = "actress room alcohol flash seminar cluster walk core inmate arrange prize project";
+var mnemonic = "dial blur utility never under review dash brave sea depart speed magic";

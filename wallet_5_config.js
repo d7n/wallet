@@ -1,1 +1,1 @@
-var mnemonic = "shuffle design novel message coffee era snap flock economy ahead name jeans";
+var mnemonic = "use comfort glove bread million vanish ill scorpion buzz blossom steak fox";

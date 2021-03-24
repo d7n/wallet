@@ -1,1 +1,1 @@
-var mnemonic = "under express derive clump cover stereo color mixed identify walk silk exercise";
+var mnemonic = "alcohol question then palm popular connect noodle matter mail physical volume ozone";

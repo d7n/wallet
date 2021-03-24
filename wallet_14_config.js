@@ -1,1 +1,1 @@
-var mnemonic = "case require corn erase work decline mutual gravity praise grunt come mobile";
+var mnemonic = "cable hunt nest unit head fluid violin lesson option garbage stereo elder";

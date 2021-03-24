@@ -1,1 +1,1 @@
-var mnemonic = "faculty gas start concert behind jar nice mad element struggle buddy file";
+var mnemonic = "fee asset recycle similar world capital fork stable when voyage execute ketchup";

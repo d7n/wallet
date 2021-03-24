@@ -1,1 +1,1 @@
-var mnemonic = "exist debate wait ball acid empty paddle canyon report moon volume bridge";
+var mnemonic = "execute belt wood employ client culture relief tank destroy accident chief able";

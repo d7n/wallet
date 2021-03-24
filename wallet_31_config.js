@@ -1,1 +1,1 @@
-var mnemonic = "already pave dish sand spot attitude pretty tomato mesh patient goose section";
+var mnemonic = "draw damp champion castle park bird become weasel usual arrange retreat machine";

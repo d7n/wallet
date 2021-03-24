@@ -1,1 +1,1 @@
-var mnemonic = "embrace thank hint benefit exist alone become illegal prize jelly doctor autumn";
+var mnemonic = "next mystery trip black fancy kite drive gospel include hard custom game";

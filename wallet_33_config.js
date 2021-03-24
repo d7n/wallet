@@ -1,1 +1,1 @@
-var mnemonic = "vivid october swamp sniff trial film glow plunge elephant keen alone reject";
+var mnemonic = "response relax drum expose between earth three tongue joke curtain dream faith";

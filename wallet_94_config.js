@@ -1,1 +1,1 @@
-var mnemonic = "document expect amount barrel roof service electric observe simple member lonely silent";
+var mnemonic = "service rigid weapon soup female edit pitch giraffe duty style decide unique";

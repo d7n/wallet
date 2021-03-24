@@ -1,1 +1,1 @@
-var mnemonic = "faculty news rack pretty act puzzle trouble above gesture rose spoil dwarf";
+var mnemonic = "genuine announce crop rude prevent cruel cruise mandate renew eyebrow tongue issue";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom angry thunder mandate mechanic mansion toast barrel random bulb tackle ocean";
+var mnemonic = "search quit island shove abstract print raw south mouse pelican slide cat";

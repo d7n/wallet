@@ -1,1 +1,1 @@
-var mnemonic = "obey pause find congress property top idle blush pencil turtle crane good";
+var mnemonic = "round federal novel drive wall warrior tower museum drive put gather differ";

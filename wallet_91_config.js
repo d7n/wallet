@@ -1,1 +1,1 @@
-var mnemonic = "reform argue audit there aisle repair cause this talk choice bracket riot";
+var mnemonic = "share split song noodle actress cattle neither cupboard much dinosaur plunge hawk";

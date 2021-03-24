@@ -1,1 +1,1 @@
-var mnemonic = "lady ankle asset fashion mule loyal upset nothing equal safe force middle";
+var mnemonic = "check destroy trick young obvious disagree apple hurt enter oppose acoustic accident";

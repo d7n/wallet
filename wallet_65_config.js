@@ -1,1 +1,1 @@
-var mnemonic = "match force risk twenty imitate primary patch unlock give company inquiry about";
+var mnemonic = "rich tornado define crop practice verb song chair decorate jealous horse wire";

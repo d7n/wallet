@@ -1,1 +1,1 @@
-var mnemonic = "promote power energy robust crawl south blanket mushroom piano stairs service other";
+var mnemonic = "script business chapter since wood match stage pencil become hole mutual shoe";

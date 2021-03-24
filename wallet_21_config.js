@@ -1,1 +1,1 @@
-var mnemonic = "picnic draw despair universe theme copper music pluck must blossom eager defy";
+var mnemonic = "educate hair dance bone oak dry pelican estate kit fossil cost mom";

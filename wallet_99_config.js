@@ -1,1 +1,1 @@
-var mnemonic = "select modify grape absorb air ladder toe alter kind achieve adapt insect";
+var mnemonic = "option pink world raise announce sense advance bunker food stay garage zoo";

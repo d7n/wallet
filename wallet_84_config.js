@@ -1,1 +1,1 @@
-var mnemonic = "talent decorate whisper goose ill chicken kangaroo art copper promote expect race";
+var mnemonic = "merge cube guess need render palm soft spatial media brass veteran reflect";

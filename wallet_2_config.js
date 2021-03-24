@@ -1,1 +1,1 @@
-var mnemonic = "word public amazing proud click chuckle gorilla festival future crazy problem fun";
+var mnemonic = "say ritual frame crush sea entire question debris use beef volume tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "novel rice child order arrange guard toss cricket hat father pipe boil";
+var mnemonic = "power you demise shift share food wild inmate garbage judge meat awake";

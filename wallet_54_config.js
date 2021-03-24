@@ -1,1 +1,1 @@
-var mnemonic = "trial join typical staff absurd sudden coyote inform lumber betray soft know";
+var mnemonic = "cost file ostrich license egg half sauce coin cloud resource swarm pattern";

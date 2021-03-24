@@ -1,1 +1,1 @@
-var mnemonic = "letter ensure river cluster popular diet repeat filter green despair dawn crush";
+var mnemonic = "worry couple achieve fluid exotic ostrich memory cycle wheat cement devote pass";
