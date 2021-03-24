@@ -1,1 +1,1 @@
-var mnemonic = "rug toe left glad before nothing expect lens outside media depend today";
+var mnemonic = "sense benefit lunch venture position umbrella fiscal art crime canal lake goat";

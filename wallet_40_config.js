@@ -1,1 +1,1 @@
-var mnemonic = "pet word vast all item clock title shop ankle rebuild flock increase";
+var mnemonic = "arm scorpion blossom top panic bracket embrace horror cycle remind soccer embody";

@@ -1,1 +1,1 @@
-var mnemonic = "deer toilet virtual warm tail cash curious unlock bargain control mad observe";
+var mnemonic = "picnic age sugar crazy output daughter venture axis jewel winner three sheriff";

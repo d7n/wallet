@@ -1,1 +1,1 @@
-var mnemonic = "jacket text unhappy mosquito lake fluid govern jazz warm vibrant input over";
+var mnemonic = "post crazy intact worth helmet candy provide nice vintage trap food step";

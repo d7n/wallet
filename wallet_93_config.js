@@ -1,1 +1,1 @@
-var mnemonic = "estate clip proud drip can creek belt almost citizen ramp total cargo";
+var mnemonic = "fox crime magnet air gallery visual smooth wagon retreat oxygen action oval";

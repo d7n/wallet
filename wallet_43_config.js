@@ -1,1 +1,1 @@
-var mnemonic = "vacuum mesh symptom wait trash soccer humble naive entry tiger addict make";
+var mnemonic = "once enough gallery arrive icon giant amateur cage badge punch same grit";

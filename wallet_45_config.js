@@ -1,1 +1,1 @@
-var mnemonic = "assume transfer produce among learn clown soft pepper ignore paddle goose stem";
+var mnemonic = "clutch above other flat online special obvious scene vital measure crouch quarter";

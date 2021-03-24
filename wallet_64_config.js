@@ -1,1 +1,1 @@
-var mnemonic = "unusual romance disorder also tonight same exact ostrich switch maze risk damp";
+var mnemonic = "curve sick desert vacuum earth confirm repeat derive valve supreme episode dinosaur";

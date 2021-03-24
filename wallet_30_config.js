@@ -1,1 +1,1 @@
-var mnemonic = "grunt virtual fiscal squirrel margin unhappy cage tooth orbit tide plunge asthma";
+var mnemonic = "unit bread second rely flag wrong panther poet right garlic where long";

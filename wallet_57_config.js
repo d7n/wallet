@@ -1,1 +1,1 @@
-var mnemonic = "game adjust type slogan unlock lemon home fabric sea denial volume cement";
+var mnemonic = "damp trick wrist wild pact arrest display advice inflict portion mimic kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle couple sing slight betray receive unfair skull misery pink rhythm napkin";
+var mnemonic = "witness either lava panther join method velvet usual version soon veteran cream";

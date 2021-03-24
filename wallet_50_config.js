@@ -1,1 +1,1 @@
-var mnemonic = "genre autumn mad lift huge polar warrior news hotel vendor tuition lunch";
+var mnemonic = "aspect awake civil expire offer erase priority eternal final animal lab search";

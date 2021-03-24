@@ -1,1 +1,1 @@
-var mnemonic = "just across nothing tower fame turkey hybrid tag course lake vague cheap";
+var mnemonic = "shaft disorder range matrix bulk jaguar limit front drill brown clog sting";

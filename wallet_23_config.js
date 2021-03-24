@@ -1,1 +1,1 @@
-var mnemonic = "delay job tomato sell soda leave pioneer accident feed ramp sure fit";
+var mnemonic = "noodle nut grow tonight witness vintage stone never exit issue problem occur";

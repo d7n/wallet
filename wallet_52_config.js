@@ -1,1 +1,1 @@
-var mnemonic = "velvet hockey keen champion roof wish bullet arch forum book avoid enjoy";
+var mnemonic = "boy acid great three pass bunker fit only satisfy phrase ribbon apple";

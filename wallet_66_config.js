@@ -1,1 +1,1 @@
-var mnemonic = "relief tell scale baby surround helmet fade unlock settle lunch salute mercy";
+var mnemonic = "panel mad sister zoo melt tennis topic scrap zero found column slogan";

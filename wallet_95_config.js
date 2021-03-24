@@ -1,1 +1,1 @@
-var mnemonic = "surge album stumble faith client garage zebra brush what opera learn skin";
+var mnemonic = "provide lazy capable police mobile rival outside heart error term session traffic";

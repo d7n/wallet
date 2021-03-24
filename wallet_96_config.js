@@ -1,1 +1,1 @@
-var mnemonic = "exhibit wage advance throw plunge grant van audit symbol auction afraid clutch";
+var mnemonic = "permit donor ball suspect script wool spawn embark slow roast question family";

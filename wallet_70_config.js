@@ -1,1 +1,1 @@
-var mnemonic = "wisdom when sheriff evolve throw draw know man vibrant flight ocean mask";
+var mnemonic = "south truth decade enroll act tenant galaxy private hello submit filter inner";

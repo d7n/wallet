@@ -1,1 +1,1 @@
-var mnemonic = "fan lecture federal garage acoustic bulk credit polar life disagree deposit glide";
+var mnemonic = "observe board wet price glad soup film ticket cake offer web dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos coral resemble ranch fitness prison fence divert boost electric powder dilemma";
+var mnemonic = "hawk detail sea limb suffer trumpet eager upgrade drink road such scheme";

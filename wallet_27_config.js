@@ -1,1 +1,1 @@
-var mnemonic = "swear region trouble window candy then pilot bounce bag will during spawn";
+var mnemonic = "canyon camera tide used rose rose aisle decade vanish anger organ gold";

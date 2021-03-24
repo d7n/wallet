@@ -1,1 +1,1 @@
-var mnemonic = "base card fee enforce pepper spring occur knock satoshi claw oppose narrow";
+var mnemonic = "crouch sunny horror tell couch make soap camp vocal tag draw finger";

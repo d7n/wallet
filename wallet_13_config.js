@@ -1,1 +1,1 @@
-var mnemonic = "orbit few picnic visa rude banner inmate year dinosaur lion dove foil";
+var mnemonic = "ice ancient dynamic elephant collect escape scatter piece enact salon record push";

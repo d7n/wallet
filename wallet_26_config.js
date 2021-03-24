@@ -1,1 +1,1 @@
-var mnemonic = "inquiry eternal under neither total girl setup tenant enough cream essay hub";
+var mnemonic = "behave mistake float apple brass trophy tuna live phrase leaf width viable";

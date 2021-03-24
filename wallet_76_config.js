@@ -1,1 +1,1 @@
-var mnemonic = "stem foil endless asset among misery equip hockey wolf diet tiger muffin";
+var mnemonic = "travel laugh judge sniff cup learn tonight silver master salt payment pumpkin";

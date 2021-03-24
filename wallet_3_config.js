@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cushion axis pride coral long matter buyer october pepper chef ticket";
+var mnemonic = "author curtain enact hamster decline police icon another razor assault return egg";

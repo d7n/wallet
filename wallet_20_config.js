@@ -1,1 +1,1 @@
-var mnemonic = "judge observe attack clutch blush often bread wage goat attitude museum normal";
+var mnemonic = "thrive sauce immense reason net burden damage enemy again lonely various chef";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect alley federal arrow core lizard asset traffic purse bundle upgrade rent";
+var mnemonic = "crack tone bulk victory unveil orient climb sudden sock burden duty settle";

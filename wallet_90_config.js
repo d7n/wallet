@@ -1,1 +1,1 @@
-var mnemonic = "hello rate tree art neglect coach spike top galaxy ladder coral taxi";
+var mnemonic = "ankle remain cross gloom sorry mouse such lucky boil corn gadget visa";

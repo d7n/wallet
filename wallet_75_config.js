@@ -1,1 +1,1 @@
-var mnemonic = "merry peanut random lunar cigar mansion galaxy pattern know wink speak steel";
+var mnemonic = "post elbow basket nuclear race bacon captain slot marble setup caught toy";

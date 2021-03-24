@@ -1,1 +1,1 @@
-var mnemonic = "silent dice machine umbrella physical alert adapt river health oven moon bomb";
+var mnemonic = "peanut day buffalo confirm siren sun skirt meadow warrior giant level gown";

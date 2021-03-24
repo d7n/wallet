@@ -1,1 +1,1 @@
-var mnemonic = "print hedgehog thumb toast marble unaware sample hotel banana like hip can";
+var mnemonic = "much odor barely brush print suspect act inject federal episode make dash";

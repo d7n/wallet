@@ -1,1 +1,1 @@
-var mnemonic = "depend mesh custom unit copper market parent chronic sound basket double diesel";
+var mnemonic = "end demise shy wagon diary soap figure almost settle merge pool vanish";

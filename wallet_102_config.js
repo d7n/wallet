@@ -1,1 +1,1 @@
-var mnemonic = "tip way top leopard enable cabin fabric awkward depend mix talent wheel";
+var mnemonic = "quote neutral liar width color action print voyage gallery uniform wife enemy";

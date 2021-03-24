@@ -1,1 +1,1 @@
-var mnemonic = "virtual mention forest little announce visual swift wheel cause material volcano gallery";
+var mnemonic = "prize awake lunar they hungry cake myth convince extra duck nest damp";

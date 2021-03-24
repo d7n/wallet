@@ -1,1 +1,1 @@
-var mnemonic = "marriage rack often guard choice one boost machine brief belt reflect uncover";
+var mnemonic = "fitness wash cabbage noodle timber senior display expose eyebrow clown stable asset";

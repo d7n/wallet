@@ -1,1 +1,1 @@
-var mnemonic = "future special private cage image swift never lamp casino tomato hockey price";
+var mnemonic = "inform pen ready human program priority fish wood north grant battle arrive";

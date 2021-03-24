@@ -1,1 +1,1 @@
-var mnemonic = "scrap gold foam useless long chuckle antenna glad outdoor mercy company essence";
+var mnemonic = "between animal yard example salon eye marine panda senior inflict brass jelly";

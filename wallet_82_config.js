@@ -1,1 +1,1 @@
-var mnemonic = "seek fancy canyon admit purse payment submit oil left tongue expand venue";
+var mnemonic = "produce waste pride goose nominee perfect acquire rural vault salmon chaos solar";

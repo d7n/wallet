@@ -1,1 +1,1 @@
-var mnemonic = "crack forward winter matrix million proof actual fever alarm decide illness maple";
+var mnemonic = "cattle hello love loyal start warrior truck bunker dove trophy maze liar";

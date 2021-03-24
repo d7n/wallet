@@ -1,1 +1,1 @@
-var mnemonic = "define age false vessel leader skirt rescue security become stuff wife clever";
+var mnemonic = "giant grow master correct pyramid vintage total betray hobby isolate merit easily";

@@ -1,1 +1,1 @@
-var mnemonic = "spell sound caution obey scan three mule loan miss smile fence bone";
+var mnemonic = "business quarter satisfy maid process cycle coffee page absorb assist relief together";

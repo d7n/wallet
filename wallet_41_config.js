@@ -1,1 +1,1 @@
-var mnemonic = "lawn tide napkin curtain sock asset appear monster goat chest melt other";
+var mnemonic = "giggle company guide oven sign project history estate wall aerobic stumble general";

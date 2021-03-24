@@ -1,1 +1,1 @@
-var mnemonic = "edge clarify sound burst random match broken arch miss choice skirt discover";
+var mnemonic = "tobacco blush wet issue excuse slab order unveil heart whale fox fix";

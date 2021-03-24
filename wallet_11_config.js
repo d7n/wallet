@@ -1,1 +1,1 @@
-var mnemonic = "zone one dignity edge inch exhaust volume sphere portion jeans goat assault";
+var mnemonic = "novel sad ramp motor drink shrug differ innocent filter cabbage weird aisle";

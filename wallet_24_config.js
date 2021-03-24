@@ -1,1 +1,1 @@
-var mnemonic = "bid orbit foil typical mimic bulk normal job know iron panther strong";
+var mnemonic = "crush give profit upper rib actress feed suit survey capable rose disease";

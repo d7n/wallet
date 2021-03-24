@@ -1,1 +1,1 @@
-var mnemonic = "success essay armor room source expose now nest require hill grow powder";
+var mnemonic = "volume swing interest infant scorpion tape virus pulse valley shoe second slide";

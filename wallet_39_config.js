@@ -1,1 +1,1 @@
-var mnemonic = "scan decrease air critic stereo park butter fence cause stumble wild sad";
+var mnemonic = "rigid adjust lava will mother father lend surround airport faint utility begin";

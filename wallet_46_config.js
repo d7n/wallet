@@ -1,1 +1,1 @@
-var mnemonic = "entry wealth gallery fan cream mirror trash fabric water rebuild ketchup bottom";
+var mnemonic = "barely plastic salt wrap life act air immense choose pact junior pilot";

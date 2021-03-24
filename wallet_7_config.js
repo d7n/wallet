@@ -1,1 +1,1 @@
-var mnemonic = "funny nephew egg cost bus museum ahead shield year shy give price";
+var mnemonic = "crush around suffer brown horn jar frame remember quarter wool puzzle space";

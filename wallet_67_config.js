@@ -1,1 +1,1 @@
-var mnemonic = "anchor high ginger joke when tide beach utility lens liar spread depart";
+var mnemonic = "egg spell decline dumb warrior life crawl boat label wisdom motor meat";

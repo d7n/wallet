@@ -1,1 +1,1 @@
-var mnemonic = "prison mercy accident bread way tornado cabin now junk minor barrel stage";
+var mnemonic = "glad diagram retreat cloud gloom balance kick steel caution liquid item home";

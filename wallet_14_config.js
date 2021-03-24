@@ -1,1 +1,1 @@
-var mnemonic = "soccer quit garage vote disorder shoulder exit neutral turn rubber knife wheat";
+var mnemonic = "quote master awake wood sustain flight express wear promote heart april donkey";

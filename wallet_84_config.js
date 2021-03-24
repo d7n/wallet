@@ -1,1 +1,1 @@
-var mnemonic = "twenty surge spin spy boy height monitor win fine fog unlock oak";
+var mnemonic = "camera defy vivid gather fiscal history day urge crucial hospital crane soon";

@@ -1,1 +1,1 @@
-var mnemonic = "genre traffic ball weather latin dignity trap ignore true educate stairs essay";
+var mnemonic = "walk return puppy security ketchup museum unaware bounce biology sunny dutch electric";

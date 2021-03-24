@@ -1,1 +1,1 @@
-var mnemonic = "pizza again inspire opinion tomorrow more pond include shove mirror nest captain";
+var mnemonic = "insect patch sponsor edge angle clock album tree income nice emerge shallow";

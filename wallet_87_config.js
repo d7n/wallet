@@ -1,1 +1,1 @@
-var mnemonic = "miss tired marble snack carry moral pudding deputy vocal rookie pact hip";
+var mnemonic = "stem wild doll that fortune enjoy horse tube banner april derive caught";

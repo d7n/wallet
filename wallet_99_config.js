@@ -1,1 +1,1 @@
-var mnemonic = "purchase crazy decide pitch model worry govern essay aspect myth dial menu";
+var mnemonic = "suggest day display regret decrease lobster foster supply duck chief embody enroll";

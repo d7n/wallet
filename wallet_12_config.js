@@ -1,1 +1,1 @@
-var mnemonic = "glare broccoli insane bone trend assist garage castle engine inhale unfold ensure";
+var mnemonic = "enlist rotate goose alert blanket raise fame bench buddy real drift remove";

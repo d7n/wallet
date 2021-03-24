@@ -1,1 +1,1 @@
-var mnemonic = "owner buddy margin exclude midnight become erase olive sea train coyote sell";
+var mnemonic = "mom sleep swamp apart cluster picnic tower mean eager estate question nut";

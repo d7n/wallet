@@ -1,1 +1,1 @@
-var mnemonic = "bitter like exile olympic cattle fiber error off gift one story more";
+var mnemonic = "relief wash three enact combine easily canyon blood little install benefit hybrid";

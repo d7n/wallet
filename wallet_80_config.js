@@ -1,1 +1,1 @@
-var mnemonic = "panic apology budget render bean always strike viable foster hood rule candy";
+var mnemonic = "thunder model tortoise segment muffin cactus plug curtain risk genre hand chef";

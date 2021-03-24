@@ -1,1 +1,1 @@
-var mnemonic = "curve across cage real buffalo wing fault salon couple salute human hire";
+var mnemonic = "assist turkey traffic polar general oak hill quit erupt gasp topic truck";

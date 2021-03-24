@@ -1,1 +1,1 @@
-var mnemonic = "fetch rebuild horse enhance list snap enrich vague axis army keep adapt";
+var mnemonic = "quit chief raw cram swarm category design shell garage cost era decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic drift exact tiger chef concert response unique gossip soap unknown earn";
+var mnemonic = "private antenna orphan play fame loyal door capital system vintage trust axis";

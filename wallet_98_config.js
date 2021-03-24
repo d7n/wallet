@@ -1,1 +1,1 @@
-var mnemonic = "age upgrade flip enter custom whisper way wise lunch focus border humor";
+var mnemonic = "silk segment zoo latin olympic entry current year axis extend coffee cheap";

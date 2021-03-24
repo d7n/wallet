@@ -1,1 +1,1 @@
-var mnemonic = "cute win embark marble elite dice leaf someone stem picture smart envelope";
+var mnemonic = "exotic card grid margin lonely hip puppy reward refuse scrap phrase anger";

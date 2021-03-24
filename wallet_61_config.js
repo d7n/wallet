@@ -1,1 +1,1 @@
-var mnemonic = "diary head auction search first renew rug brick crash midnight behind flame";
+var mnemonic = "derive rural sell fan energy hard oven ready help capable bamboo bounce";

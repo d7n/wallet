@@ -1,1 +1,1 @@
-var mnemonic = "senior prepare cupboard mobile lab atom auto found invite circle hurry silent";
+var mnemonic = "pudding extra remain other immense retreat know submit lumber assist aware fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "meat soldier range cup employ emerge funny suffer picture typical local derive";
+var mnemonic = "soda region family frown rather draw defy seat sister dance kid perfect";

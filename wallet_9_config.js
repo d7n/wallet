@@ -1,1 +1,1 @@
-var mnemonic = "pottery found lady skirt episode flame never lake violin right stem cat";
+var mnemonic = "style swim cage mask web tobacco loan pet taste wink pluck draw";

@@ -1,1 +1,1 @@
-var mnemonic = "height shed hour material bind prize aim crop cradle divorce priority nerve";
+var mnemonic = "expect trade slam evidence major mimic unlock wait lucky barely habit mountain";

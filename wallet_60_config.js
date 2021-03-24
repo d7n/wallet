@@ -1,1 +1,1 @@
-var mnemonic = "drink open mystery laptop always fatigue embody ozone parade moral lesson anger";
+var mnemonic = "curtain say keen diamond castle foot skirt cushion potato hockey music panda";

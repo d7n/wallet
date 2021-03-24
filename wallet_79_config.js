@@ -1,1 +1,1 @@
-var mnemonic = "teach draw refuse able indoor sign cook toward isolate chef detect roof";
+var mnemonic = "vapor win dynamic salmon bulb again pill mouse crazy wealth steak shine";

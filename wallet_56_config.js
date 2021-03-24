@@ -1,1 +1,1 @@
-var mnemonic = "volume method must scout future sign thought razor settle clap quality save";
+var mnemonic = "draft property evil neutral habit drive charge today night profit usage what";

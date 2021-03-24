@@ -1,1 +1,1 @@
-var mnemonic = "above roast work forget tissue toss tag mystery federal random merit pizza";
+var mnemonic = "leg melt mixture twist until cry alpha all double stick plunge lawsuit";

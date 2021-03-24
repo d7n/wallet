@@ -1,1 +1,1 @@
-var mnemonic = "lab fiber goat key bundle author profit idle relief avoid model solution";
+var mnemonic = "into much remove correct topple rare equip tired trend boy inside traffic";

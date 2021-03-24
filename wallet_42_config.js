@@ -1,1 +1,1 @@
-var mnemonic = "forest early renew excess novel mimic tobacco wait cool rotate picnic picture";
+var mnemonic = "session adult ceiling rabbit echo hybrid outside face false ugly stuff easy";

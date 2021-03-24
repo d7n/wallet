@@ -1,1 +1,1 @@
-var mnemonic = "talent attend chuckle bridge hire phrase october welcome mask black opera spin";
+var mnemonic = "artefact monkey sniff trash pioneer economy auto observe wrap present lake category";

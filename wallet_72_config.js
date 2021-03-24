@@ -1,1 +1,1 @@
-var mnemonic = "nuclear track act lecture text margin rather zoo much salmon wild twenty";
+var mnemonic = "glare series bronze basic over dove hungry weasel size crumble physical draft";

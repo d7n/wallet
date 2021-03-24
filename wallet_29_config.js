@@ -1,1 +1,1 @@
-var mnemonic = "jump write deputy rival pilot bridge blur appear general sleep unhappy floor";
+var mnemonic = "eager balcony lunch garden order close expect anxiety simple gift swap mobile";

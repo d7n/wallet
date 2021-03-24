@@ -1,1 +1,1 @@
-var mnemonic = "clutch hunt sponsor either hobby decrease universe olympic elder gap sadness inside";
+var mnemonic = "judge angry ghost weapon topic current enact warfare boring pool jelly strike";
