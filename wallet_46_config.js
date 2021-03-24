@@ -1,1 +1,1 @@
-var mnemonic = "use renew hollow credit wool cover depth bamboo negative rather increase want";
+var mnemonic = "view broccoli special bleak tray evidence smile recycle pole victory energy lounge";

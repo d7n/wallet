@@ -1,1 +1,1 @@
-var mnemonic = "whale album around fly talent again coast guitar expect weapon require track";
+var mnemonic = "kiwi same illegal clutch limb announce hurry voice father forest element surround";

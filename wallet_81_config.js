@@ -1,1 +1,1 @@
-var mnemonic = "element health give ten tuition ask roof license dial ladder document era";
+var mnemonic = "intact guard hospital poverty actor next zero refuse taxi farm soon about";

@@ -1,1 +1,1 @@
-var mnemonic = "modify dawn awkward end corn buddy doctor donor ceiling resist mesh club";
+var mnemonic = "negative ghost vehicle tissue cement hold antique noble space feed upon quality";

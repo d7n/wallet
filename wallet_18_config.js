@@ -1,1 +1,1 @@
-var mnemonic = "tornado fit winner fat high idea animal catch grain fold pulp equip";
+var mnemonic = "exotic stable acquire machine mask cycle able powder zebra finger tool cost";

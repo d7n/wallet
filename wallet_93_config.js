@@ -1,1 +1,1 @@
-var mnemonic = "december extra custom mosquito when pave tornado cluster oppose fault diagram radar";
+var mnemonic = "tattoo hand exclude bounce swamp kid velvet enemy across total camera tape";

@@ -1,1 +1,1 @@
-var mnemonic = "announce because empower ignore city text saddle profit gospel layer mad admit";
+var mnemonic = "twenty stick taxi fiscal aware grape wise throw state roof donkey door";

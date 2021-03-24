@@ -1,1 +1,1 @@
-var mnemonic = "stomach auction shove simple orient east merge goddess jelly alarm devote curious";
+var mnemonic = "caught abuse praise tourist bone bar police anxiety squirrel story head welcome";

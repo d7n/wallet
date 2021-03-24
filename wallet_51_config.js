@@ -1,1 +1,1 @@
-var mnemonic = "ignore speak midnight possible forest cool review library bamboo beach leopard veteran";
+var mnemonic = "version rival ball flip stadium kite seed task obscure below elbow grit";

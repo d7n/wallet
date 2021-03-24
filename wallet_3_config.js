@@ -1,1 +1,1 @@
-var mnemonic = "critic invest usage topic any winner argue layer obtain squirrel evidence early";
+var mnemonic = "drop topic blur slide cheese issue rule dwarf mechanic valid alley laugh";

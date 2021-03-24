@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow street fluid crisp year only cook museum fashion word border move";
+var mnemonic = "expand aerobic vibrant permit stem curtain axis autumn entry coach sketch pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "slam until will middle height case case broccoli eternal discover sell sell";
+var mnemonic = "device light town pyramid purpose aim main turn steak page layer check";

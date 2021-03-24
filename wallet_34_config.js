@@ -1,1 +1,1 @@
-var mnemonic = "bracket woman sweet flat horror excess crumble symbol curious velvet leg turtle";
+var mnemonic = "refuse lemon funny orchard once possible guess access opinion bronze promote just";

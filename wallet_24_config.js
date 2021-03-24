@@ -1,1 +1,1 @@
-var mnemonic = "connect output steak govern maximum food mosquito embody describe impact hard midnight";
+var mnemonic = "version flight favorite misery distance tourist grunt guilt uncle bulb misery angle";

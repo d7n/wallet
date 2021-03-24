@@ -1,1 +1,1 @@
-var mnemonic = "matrix network laundry metal abstract endless gorilla appear cost brush legend hen";
+var mnemonic = "favorite diary portion negative you jacket shrimp satisfy cruise canyon bird strong";

@@ -1,1 +1,1 @@
-var mnemonic = "latin veteran citizen animal finger color million fringe shrug kit street emotion";
+var mnemonic = "cream shove such depend over viable bargain ensure real electric home obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold quiz ankle cash test guitar nut labor minor slender film load";
+var mnemonic = "tag emotion absent seat way tongue office since core pilot vendor easily";

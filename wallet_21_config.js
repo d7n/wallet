@@ -1,1 +1,1 @@
-var mnemonic = "essay piece claw near pause essay winter swarm grief beauty claim globe";
+var mnemonic = "unaware any purpose alone sadness alarm civil race excuse away wide hair";

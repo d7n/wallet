@@ -1,1 +1,1 @@
-var mnemonic = "report script hockey summer sail meadow bamboo wild near strike future fossil";
+var mnemonic = "movie scale bullet convince slight sun twenty mouse brush lawsuit auction spray";

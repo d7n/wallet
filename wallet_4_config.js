@@ -1,1 +1,1 @@
-var mnemonic = "suggest citizen throw humble chat journey open pause insect exhaust breeze right";
+var mnemonic = "wing welcome dynamic chuckle mystery recycle field audit clock squirrel pen upper";

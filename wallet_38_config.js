@@ -1,1 +1,1 @@
-var mnemonic = "fuel scrub fold accuse increase boat access filter choose merry recall nothing";
+var mnemonic = "edge whale prevent include cattle vast stadium digital shed fan display orange";

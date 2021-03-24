@@ -1,1 +1,1 @@
-var mnemonic = "success control famous hope chief coast submit side retreat hub push chalk";
+var mnemonic = "nice trade say strong tissue help rookie uncover give tribe cheap help";

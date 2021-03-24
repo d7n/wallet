@@ -1,1 +1,1 @@
-var mnemonic = "honey impose repeat since genre luggage indicate column bid slim embody muffin";
+var mnemonic = "fold fatal twin credit deliver salute eager toe worth into degree light";

@@ -1,1 +1,1 @@
-var mnemonic = "member stick guess trash brick skin short fly next athlete card easily";
+var mnemonic = "tenant radio insect frame endless cash cause absent melody original crater illegal";

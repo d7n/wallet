@@ -1,1 +1,1 @@
-var mnemonic = "cause erosion easy sunset direct tackle fashion purchase jewel void security acid";
+var mnemonic = "myself taxi certain noble slight naive innocent canvas field live frost six";

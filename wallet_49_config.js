@@ -1,1 +1,1 @@
-var mnemonic = "cake exchange demise symbol episode bottom hundred alert always shove mouse jelly";
+var mnemonic = "survey blouse silver work month toward novel orange close unhappy scene proud";

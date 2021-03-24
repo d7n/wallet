@@ -1,1 +1,1 @@
-var mnemonic = "voyage doctor result heavy noise cook diet album poet bacon weird above";
+var mnemonic = "embody attract cliff fold desert ivory want west motion act verb flavor";

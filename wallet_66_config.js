@@ -1,1 +1,1 @@
-var mnemonic = "monkey loyal camp pencil purchase south heavy shrug now witness art rival";
+var mnemonic = "jewel infant repeat moment divert involve half spider purpose rapid midnight either";

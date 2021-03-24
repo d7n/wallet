@@ -1,1 +1,1 @@
-var mnemonic = "glow basic fiber supply season whisper green mechanic follow transfer noble stadium";
+var mnemonic = "pencil build olive latin monkey diagram once cloud wheel actor wrap fine";

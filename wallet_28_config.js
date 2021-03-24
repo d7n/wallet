@@ -1,1 +1,1 @@
-var mnemonic = "earth match arrange orient exclude act upset yard canoe repair churn menu";
+var mnemonic = "cheese price absorb good case toast solid there speed sausage tumble faculty";

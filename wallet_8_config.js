@@ -1,1 +1,1 @@
-var mnemonic = "mother prison lucky ready purchase pilot embrace judge twist walk belt spatial";
+var mnemonic = "assist rude rhythm quality couch case hip hope sign gossip pipe good";

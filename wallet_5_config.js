@@ -1,1 +1,1 @@
-var mnemonic = "lamp garage opera often ill duty market humble jewel invest stone tiger";
+var mnemonic = "bid panda expire pony cable attitude income frozen crater retire scout zone";

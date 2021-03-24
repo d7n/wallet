@@ -1,1 +1,1 @@
-var mnemonic = "whisper helmet grit have fault owner there impose rapid prefer always jungle";
+var mnemonic = "eyebrow column game shoulder muffin sheriff lonely park lecture arm broccoli return";

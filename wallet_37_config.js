@@ -1,1 +1,1 @@
-var mnemonic = "carpet lion toy crouch dry cash peace success express raise emerge output";
+var mnemonic = "radar robot gospel robot together skate real long true demise science job";

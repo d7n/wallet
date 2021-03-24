@@ -1,1 +1,1 @@
-var mnemonic = "zone nerve trap section suggest brick welcome marble era vault bunker pretty";
+var mnemonic = "length fan clip hint harsh erosion slogan pluck swallow gauge nut galaxy";

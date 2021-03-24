@@ -1,1 +1,1 @@
-var mnemonic = "front position poverty decade onion shoulder crisp success cart cactus wrist monster";
+var mnemonic = "emotion spot cement giant hundred stock father bundle extra maze vacuum tent";

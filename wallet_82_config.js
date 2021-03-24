@@ -1,1 +1,1 @@
-var mnemonic = "brief crucial few random rifle warfare message modify elephant clay alien street";
+var mnemonic = "sock company have road useful vast emotion maid track silent suit toward";

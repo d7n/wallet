@@ -1,1 +1,1 @@
-var mnemonic = "document plate stick joy pattern bulb present exile any grant angle heavy";
+var mnemonic = "cause book uniform junior dilemma humble arrow parent sport creek luggage suggest";

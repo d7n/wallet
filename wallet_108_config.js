@@ -1,1 +1,1 @@
-var mnemonic = "now ancient universe already chief place gallery impulse window have novel dune";
+var mnemonic = "journey ahead novel cave labor obtain oval shine poet limit cube helmet";

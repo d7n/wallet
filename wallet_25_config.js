@@ -1,1 +1,1 @@
-var mnemonic = "humble play cheap spare rich life uphold check marine educate weekend shoe";
+var mnemonic = "cruel laptop cost deputy recall hand frame raccoon amateur only share verify";

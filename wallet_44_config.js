@@ -1,1 +1,1 @@
-var mnemonic = "crazy suspect front steel inner salon resemble zoo modify beauty hurry license";
+var mnemonic = "border mass caught dice escape nation decide tuition sauce soul forward gallery";

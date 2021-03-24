@@ -1,1 +1,1 @@
-var mnemonic = "wisdom silver metal math clerk visa mass tribe success person rebuild canyon";
+var mnemonic = "they physical grunt market stereo resist dog inherit question battle tiny nasty";

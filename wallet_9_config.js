@@ -1,1 +1,1 @@
-var mnemonic = "spoon nurse cancel bus oxygen unit child poet pluck boss choose depart";
+var mnemonic = "neutral saddle shed chief candy warrior action popular dust liar title heavy";

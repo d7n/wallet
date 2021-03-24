@@ -1,1 +1,1 @@
-var mnemonic = "cheese output surface sick method nest blossom talk camera soap treat safe";
+var mnemonic = "budget fiber orient borrow sample enforce canoe rule tennis vague retreat blood";

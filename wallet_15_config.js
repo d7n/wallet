@@ -1,1 +1,1 @@
-var mnemonic = "lesson purity scatter film undo tell crime identify cactus surge fame husband";
+var mnemonic = "robust zone lyrics derive someone execute carpet head lounge loan smart resist";

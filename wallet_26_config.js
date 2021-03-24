@@ -1,1 +1,1 @@
-var mnemonic = "luxury firm ten jeans ring burden deer stamp mail torch anger month";
+var mnemonic = "fiber rich jar final guilt bonus void peanut vote edit tide melody";

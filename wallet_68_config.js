@@ -1,1 +1,1 @@
-var mnemonic = "potato emerge angry crane fence right casual industry rival list immune high";
+var mnemonic = "option category you worry tattoo giraffe barrel rigid retreat security ridge rabbit";

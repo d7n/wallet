@@ -1,1 +1,1 @@
-var mnemonic = "wife vocal mammal ring beyond attend room wing foot wedding anchor kiss";
+var mnemonic = "dirt text define cupboard choice verify zone measure ball ghost alien any";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon intact spoil distance laundry panda sick siege upon echo kidney chair";
+var mnemonic = "damp filter seat mercy bubble choose seat immune wheat survey track tumble";

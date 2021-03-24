@@ -1,1 +1,1 @@
-var mnemonic = "citizen viable twin clutch enjoy shock truck civil moral build own toy";
+var mnemonic = "carry include script guitar attitude make silver west sock demand refuse push";

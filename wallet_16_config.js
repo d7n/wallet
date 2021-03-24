@@ -1,1 +1,1 @@
-var mnemonic = "absorb grape furnace reduce picnic child actual victory garment refuse neutral sense";
+var mnemonic = "slice spread refuse page math cloth army shiver apart bean unveil observe";

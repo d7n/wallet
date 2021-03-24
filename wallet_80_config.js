@@ -1,1 +1,1 @@
-var mnemonic = "fantasy small vivid radio library torch spend car captain grid until glass";
+var mnemonic = "very woman next motion work emerge tissue device charge chief nation false";

@@ -1,1 +1,1 @@
-var mnemonic = "exit profit industry collect pause exist school shallow upgrade market burger minimum";
+var mnemonic = "joke rally margin hospital avoid harvest cart gun bulb silly build rebel";

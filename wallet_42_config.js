@@ -1,1 +1,1 @@
-var mnemonic = "sweet wash pole sock grit bunker gravity army siege initial couch endorse";
+var mnemonic = "satoshi trend buddy place mad file deer later market quote capable trick";

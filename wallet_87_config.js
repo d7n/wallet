@@ -1,1 +1,1 @@
-var mnemonic = "output brass multiply harvest shy ridge cost fame abstract foam key program";
+var mnemonic = "first equal mesh quantum cube soup that salmon copy blush fade aerobic";

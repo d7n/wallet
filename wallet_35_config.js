@@ -1,1 +1,1 @@
-var mnemonic = "dolphin brush mutual frog arctic fabric umbrella soccer cup refuse century food";
+var mnemonic = "actor outside say repeat settle fat thrive motion six decide kite risk";

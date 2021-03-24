@@ -1,1 +1,1 @@
-var mnemonic = "long country heart sell advice charge lend awful thunder load lounge sail";
+var mnemonic = "early actual awake hawk rather dizzy decorate argue extend giggle aerobic leave";

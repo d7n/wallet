@@ -1,1 +1,1 @@
-var mnemonic = "sound almost list profit category someone limit prison junk raise document brass";
+var mnemonic = "horn promote canyon orphan park limit monitor fire wrist broken avoid hand";

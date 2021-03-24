@@ -1,1 +1,1 @@
-var mnemonic = "solar annual sponsor uniform slight act moral brisk climb letter useless become";
+var mnemonic = "luggage element verb deny artist company change diesel nation pen enter film";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate ritual cream weasel health child era select appear business addict fire";
+var mnemonic = "cake material mobile rice frame notice method electric lounge spy column certain";

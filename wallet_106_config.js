@@ -1,1 +1,1 @@
-var mnemonic = "reveal injury balance romance car cupboard frog sail chronic ankle energy produce";
+var mnemonic = "dance invest crane lake final museum air arrive fossil cereal few alter";

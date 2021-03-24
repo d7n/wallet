@@ -1,1 +1,1 @@
-var mnemonic = "weekend toe mimic stomach tribe few together tuition crew maximum retreat oppose";
+var mnemonic = "maid broken genuine trouble anxiety pole pool wool route sentence sudden innocent";

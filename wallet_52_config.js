@@ -1,1 +1,1 @@
-var mnemonic = "shrug story purchase home desk buyer toilet onion snake lake brisk moment";
+var mnemonic = "delay subway switch tragic federal animal debate column art maid vocal wisdom";

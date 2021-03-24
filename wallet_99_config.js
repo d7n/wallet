@@ -1,1 +1,1 @@
-var mnemonic = "dawn amateur siren theory six sure crop brand mesh seat tattoo area";
+var mnemonic = "remind smooth write ticket mind hen liar comic prefer naive crisp junior";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter account guess load tiger frequent odor chapter combine paper alter home";
+var mnemonic = "attack forward section afraid ecology problem mind ketchup maximum legal shield vivid";

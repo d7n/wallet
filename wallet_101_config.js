@@ -1,1 +1,1 @@
-var mnemonic = "call neglect tragic mushroom execute view master ability bag pill jazz science";
+var mnemonic = "luxury minimum siege multiply breeze burger afford venue bubble melt emerge slender";

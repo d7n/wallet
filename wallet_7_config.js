@@ -1,1 +1,1 @@
-var mnemonic = "hill lunar quality melt ski alert shed brother monitor then magnet solid";
+var mnemonic = "olympic use patient figure truth shock unveil cross doctor museum destroy finish";

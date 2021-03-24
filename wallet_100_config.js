@@ -1,1 +1,1 @@
-var mnemonic = "green immense ketchup emotion cover shove awesome enlist antenna repair system fork";
+var mnemonic = "mix fiscal truck near response fresh canoe tone sock trap dress original";

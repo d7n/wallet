@@ -1,1 +1,1 @@
-var mnemonic = "company diamond quality cloth banana reward artwork demise trial famous twelve modify";
+var mnemonic = "pet long someone fox erode run black castle farm wagon grass paddle";

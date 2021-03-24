@@ -1,1 +1,1 @@
-var mnemonic = "bomb reopen mouse language pelican dry tray accuse demand slice neither urban";
+var mnemonic = "magnet glare menu alcohol speak diamond patrol inhale fame trick certain execute";

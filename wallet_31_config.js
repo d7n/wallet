@@ -1,1 +1,1 @@
-var mnemonic = "crucial chimney phrase trust parent clever segment pattern height ignore mansion easily";
+var mnemonic = "mind wool dinner grief height pupil song artwork sail situate ordinary hero";

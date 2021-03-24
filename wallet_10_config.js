@@ -1,1 +1,1 @@
-var mnemonic = "seed typical find hour agree side funny erupt reason like modify rack";
+var mnemonic = "retire harbor swap remain stay warrior between skill stomach carbon wasp public";

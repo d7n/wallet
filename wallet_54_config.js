@@ -1,1 +1,1 @@
-var mnemonic = "lend blanket liquid pyramid draft chicken either case elbow bone seminar oyster";
+var mnemonic = "eternal original shove omit stereo chase jump erosion summer chimney turn indicate";

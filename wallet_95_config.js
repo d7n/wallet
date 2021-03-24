@@ -1,1 +1,1 @@
-var mnemonic = "sure churn mutual exact imitate fan frame soul huge rebuild bubble blue";
+var mnemonic = "brand sausage pass fabric fantasy juice appear funny tomorrow wrist slow eyebrow";

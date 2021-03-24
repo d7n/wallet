@@ -1,1 +1,1 @@
-var mnemonic = "never real chimney mystery spoil winner practice grid mixed empower champion ketchup";
+var mnemonic = "swift renew weather stove cupboard dragon wheel drastic great room motion account";

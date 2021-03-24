@@ -1,1 +1,1 @@
-var mnemonic = "brisk impulse couple trim finger inner thunder ozone eager slim rough blue";
+var mnemonic = "come immense trophy attack bright actor curve sorry snack pulp buyer blade";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar solution sign wealth mass effort acid lucky mistake scissors scale clerk";
+var mnemonic = "undo ginger abstract party slow mad holiday boil program apology town supply";

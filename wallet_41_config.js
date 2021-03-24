@@ -1,1 +1,1 @@
-var mnemonic = "forget dog beach hood desert oval must snap invest lawsuit explain proud";
+var mnemonic = "buyer gasp help simple canoe cement chimney border type maple devote great";

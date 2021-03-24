@@ -1,1 +1,1 @@
-var mnemonic = "side either saddle cost pluck lock save indoor update arrange pig region";
+var mnemonic = "help next mushroom material crush admit yellow response stamp chat film brick";

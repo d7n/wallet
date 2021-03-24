@@ -1,1 +1,1 @@
-var mnemonic = "nature act program term you ask symptom view desert want eye square";
+var mnemonic = "sport unveil give arrest enemy manage rough kite oblige coral resource wolf";

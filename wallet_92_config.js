@@ -1,1 +1,1 @@
-var mnemonic = "wool someone service connect resource now fame market canyon control mansion use";
+var mnemonic = "limb accuse comfort fire bread boss leisure pistol holiday rifle cute unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "fence accuse artist monkey olympic table zebra steak special into roast method";
+var mnemonic = "enable mirror loyal mercy sibling water gate hammer magnet first traffic olive";

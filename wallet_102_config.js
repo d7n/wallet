@@ -1,1 +1,1 @@
-var mnemonic = "name canyon account knife craft ordinary chase boring beauty pottery elegant vessel";
+var mnemonic = "father fire income oval image appear wire hammer smoke forward file ribbon";

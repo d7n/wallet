@@ -1,1 +1,1 @@
-var mnemonic = "unusual business fitness cool myth copper series pulp know habit patient magic";
+var mnemonic = "impact uncover correct dry dad shuffle develop lady obey enrich you feed";

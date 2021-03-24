@@ -1,1 +1,1 @@
-var mnemonic = "cage find any good album defy capable cushion old execute cat until";
+var mnemonic = "scale valve senior bicycle lion gym direct already wine luxury gold derive";

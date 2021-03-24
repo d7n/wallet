@@ -1,1 +1,1 @@
-var mnemonic = "affair siege detail riot shoulder release entire much spice village sad smile";
+var mnemonic = "scheme bar disagree gesture impose special glue own human will submit six";

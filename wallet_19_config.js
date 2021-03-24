@@ -1,1 +1,1 @@
-var mnemonic = "wild trap latin churn urban gentle trust crisp suggest style volume green";
+var mnemonic = "tip avoid armed help buffalo soup honey lesson kind half mad link";

@@ -1,1 +1,1 @@
-var mnemonic = "pond obtain visual grab price unhappy swing toy biology boil front track";
+var mnemonic = "filter solve gravity nature frozen decrease cluster salt enforce casual family trouble";

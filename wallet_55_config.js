@@ -1,1 +1,1 @@
-var mnemonic = "pull media silver talent tip side wheat bomb photo subway tissue lamp";
+var mnemonic = "kiwi vacuum vibrant derive record cycle they offer dice current diesel heart";
