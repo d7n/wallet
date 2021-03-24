@@ -1,1 +1,1 @@
-var mnemonic = "burst grape feature title connect angle shoe wing identify elder demise wish";
+var mnemonic = "grant spring thumb bundle clever weird cabin tower shield insect garlic sample";

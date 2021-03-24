@@ -1,1 +1,1 @@
-var mnemonic = "minor review west snap priority essay divide wave nose join lend awake";
+var mnemonic = "pioneer sketch keep response record seed like violin north squirrel pride stay";

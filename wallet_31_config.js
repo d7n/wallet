@@ -1,1 +1,1 @@
-var mnemonic = "enforce kingdom blanket fine recipe reject pelican lake visit bounce exercise kitten";
+var mnemonic = "already pave dish sand spot attitude pretty tomato mesh patient goose section";

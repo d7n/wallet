@@ -1,1 +1,1 @@
-var mnemonic = "salmon lesson yellow public often hollow word pause arrange oval grain this";
+var mnemonic = "chase own blind gallery rotate camp direct garlic rescue spin index magic";

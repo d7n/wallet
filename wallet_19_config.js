@@ -1,1 +1,1 @@
-var mnemonic = "note later acoustic rare elite able loud file cliff decline rough snake";
+var mnemonic = "unit web reform silent couple circle spike main popular soon giggle pet";

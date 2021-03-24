@@ -1,1 +1,1 @@
-var mnemonic = "issue short gesture aim east oven argue ride bundle phone basic allow";
+var mnemonic = "blanket wisdom tape income donate fever claw solar select sign toilet fresh";

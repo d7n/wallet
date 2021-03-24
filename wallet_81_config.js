@@ -1,1 +1,1 @@
-var mnemonic = "grief dolphin more vocal patch reject note isolate erupt mesh piece about";
+var mnemonic = "topic buyer abuse ahead innocent marine segment clip neglect duck actor truth";

@@ -1,1 +1,1 @@
-var mnemonic = "bench panda summer candy anchor mesh goddess require three once violin crane";
+var mnemonic = "case require corn erase work decline mutual gravity praise grunt come mobile";

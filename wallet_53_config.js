@@ -1,1 +1,1 @@
-var mnemonic = "crane trade beef aim zoo glass million material arrive vivid athlete multiply";
+var mnemonic = "visa option until limit weather jelly again upper educate fresh swallow pen";

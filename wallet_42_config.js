@@ -1,1 +1,1 @@
-var mnemonic = "pear mushroom tackle sea day tray insane service right inject foam feel";
+var mnemonic = "video robust digital leisure bitter merry expire road letter subway opera fish";

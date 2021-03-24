@@ -1,1 +1,1 @@
-var mnemonic = "waste cream uncover buyer corn provide release debris clap federal panther hip";
+var mnemonic = "cash steak hero enough sausage burst load kitchen alley govern core expire";

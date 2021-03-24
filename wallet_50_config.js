@@ -1,1 +1,1 @@
-var mnemonic = "civil similar robust excess hamster term panic abuse park blur snake ripple";
+var mnemonic = "vacuum impulse neck liquid thank snow other island suit pet frozen pink";

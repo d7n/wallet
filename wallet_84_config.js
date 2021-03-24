@@ -1,1 +1,1 @@
-var mnemonic = "hammer exclude dutch arrive ice similar pottery arrest skill orchard chapter medal";
+var mnemonic = "talent decorate whisper goose ill chicken kangaroo art copper promote expect race";

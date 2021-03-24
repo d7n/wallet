@@ -1,1 +1,1 @@
-var mnemonic = "fox height stool hope pool agent bonus success payment voice pear chalk";
+var mnemonic = "under express derive clump cover stereo color mixed identify walk silk exercise";

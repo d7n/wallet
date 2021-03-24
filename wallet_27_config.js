@@ -1,1 +1,1 @@
-var mnemonic = "gap corn soft habit imitate decorate pretty share height joke helmet yellow";
+var mnemonic = "lens absent also rival beyond drop abstract print forest hammer obscure middle";

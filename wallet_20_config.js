@@ -1,1 +1,1 @@
-var mnemonic = "green unable tape shift increase cluster bracket spot weasel bike surge element";
+var mnemonic = "proof hello gap elephant false owner predict syrup cry over fringe nominee";

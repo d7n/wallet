@@ -1,1 +1,1 @@
-var mnemonic = "nurse reason clean dirt pitch enable enlist excuse library guard vault zebra";
+var mnemonic = "narrow trap supreme hybrid fury impose cable genius curtain number parent priority";

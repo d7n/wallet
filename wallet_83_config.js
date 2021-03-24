@@ -1,1 +1,1 @@
-var mnemonic = "shoot lumber canoe embrace cargo danger vapor tool lava bright deliver ketchup";
+var mnemonic = "select stuff law purchase property behind glide okay increase truth enjoy drink";

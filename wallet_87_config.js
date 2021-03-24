@@ -1,1 +1,1 @@
-var mnemonic = "erupt inject patch wise brand essay pyramid news gun goddess rebuild action";
+var mnemonic = "there group age hollow correct ridge dream lend pave outer split title";

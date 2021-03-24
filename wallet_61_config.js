@@ -1,1 +1,1 @@
-var mnemonic = "laugh scrap wheel refuse pumpkin space sister insane brave eye behave season";
+var mnemonic = "embrace thank hint benefit exist alone become illegal prize jelly doctor autumn";

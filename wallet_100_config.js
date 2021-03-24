@@ -1,1 +1,1 @@
-var mnemonic = "attitude rare carry notable cram insect climb kind project clay learn giggle";
+var mnemonic = "hour lounge usage below broken patient sort silver never father execute goose";

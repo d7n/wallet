@@ -1,1 +1,1 @@
-var mnemonic = "cover ring empower frequent develop unusual tornado another frequent ahead stool cream";
+var mnemonic = "inch hello filter hospital okay track staff job coach cruise suggest engine";

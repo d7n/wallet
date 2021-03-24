@@ -1,1 +1,1 @@
-var mnemonic = "brand unfair fat ordinary possible uncle mobile barrel goat wise finger dutch";
+var mnemonic = "rib stove pepper race monster orient taxi broken swear urge arrow hospital";

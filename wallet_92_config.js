@@ -1,1 +1,1 @@
-var mnemonic = "opera ten cruise baby aerobic now pipe rescue guilt spawn media unusual";
+var mnemonic = "survey tourist can innocent secret thank tiger custom shield abandon end define";

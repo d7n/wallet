@@ -1,1 +1,1 @@
-var mnemonic = "select poet replace bomb remain false seat boring pioneer food paddle begin";
+var mnemonic = "enroll afford retreat document shove token maze point neglect peanut net they";

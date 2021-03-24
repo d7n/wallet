@@ -1,1 +1,1 @@
-var mnemonic = "drill grunt trend eager grid civil reunion barely fortune pyramid shove divert";
+var mnemonic = "liquid risk exhaust steak member crew bubble citizen dentist twelve inmate affair";

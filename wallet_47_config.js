@@ -1,1 +1,1 @@
-var mnemonic = "lady bonus evoke banana edit phone soccer blossom inquiry antenna memory donor";
+var mnemonic = "salad best measure vital female snow gold mixture deer card venture era";

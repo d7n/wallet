@@ -1,1 +1,1 @@
-var mnemonic = "gaze follow private trade document arena tiger skill change nurse client shrimp";
+var mnemonic = "anger bless royal latin answer key start cute coil idle idea ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "predict balcony genre usage ghost buyer honey project friend tattoo sustain slam";
+var mnemonic = "main abuse host amazing admit any mansion sudden orbit acid arrest issue";

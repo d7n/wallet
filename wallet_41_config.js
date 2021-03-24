@@ -1,1 +1,1 @@
-var mnemonic = "word meadow various pattern alcohol trial trap define robot bamboo aim rude";
+var mnemonic = "myth avoid garage owner shuffle someone blame cattle clinic chef shove text";

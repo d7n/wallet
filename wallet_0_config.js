@@ -1,1 +1,1 @@
-var mnemonic = "leisure crouch sand maple erode leave sense guard measure soon exotic hurt";
+var mnemonic = "promote inch craft month shock opera illness hat skill claim must reason";

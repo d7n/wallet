@@ -1,1 +1,1 @@
-var mnemonic = "mind market bitter universe original blouse blanket piece anxiety flee wall beauty";
+var mnemonic = "select modify grape absorb air ladder toe alter kind achieve adapt insect";

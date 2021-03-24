@@ -1,1 +1,1 @@
-var mnemonic = "cannon family aim add summer divorce output shove screen general repair nothing";
+var mnemonic = "ridge logic diet reject marine pizza economy brisk snap law camera usage";

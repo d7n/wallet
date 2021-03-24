@@ -1,1 +1,1 @@
-var mnemonic = "local online input steel robust atom body office twice connect sting cradle";
+var mnemonic = "lady ankle asset fashion mule loyal upset nothing equal safe force middle";

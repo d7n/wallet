@@ -1,1 +1,1 @@
-var mnemonic = "auction kite mirror rocket cereal search relax key cloud regular message sting";
+var mnemonic = "sponsor learn wise soda govern bonus find skull pelican trash force also";

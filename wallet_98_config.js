@@ -1,1 +1,1 @@
-var mnemonic = "salad news you race very slab club humor ribbon benefit deer title";
+var mnemonic = "adjust ski south stock parent refuse trip bar trim noodle gauge news";

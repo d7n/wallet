@@ -1,1 +1,1 @@
-var mnemonic = "fruit release exile steel water width bacon fat coast shrug snack photo";
+var mnemonic = "honey cake tomato six famous donkey lunar talk renew away mule blame";

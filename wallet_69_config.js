@@ -1,1 +1,1 @@
-var mnemonic = "tell drill sad plunge soup modify mandate velvet ability nephew gown supreme";
+var mnemonic = "goose onion relax giraffe sudden until syrup combine buddy theme multiply noise";

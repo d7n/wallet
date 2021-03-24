@@ -1,1 +1,1 @@
-var mnemonic = "heavy matter arrive sketch travel stadium wrestle average neck crater coffee drama";
+var mnemonic = "actress room alcohol flash seminar cluster walk core inmate arrange prize project";

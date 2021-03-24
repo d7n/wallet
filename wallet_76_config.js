@@ -1,1 +1,1 @@
-var mnemonic = "trash century orange dirt base fluid young accident oyster tornado coconut grunt";
+var mnemonic = "kingdom angry thunder mandate mechanic mansion toast barrel random bulb tackle ocean";

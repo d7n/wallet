@@ -1,1 +1,1 @@
-var mnemonic = "woman song cereal wife resist party fox escape nation mail spike face";
+var mnemonic = "frequent oval rain credit doll planet attract awesome shiver rotate life snake";

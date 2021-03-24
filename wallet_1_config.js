@@ -1,1 +1,1 @@
-var mnemonic = "avocado dust together moon engine expose olive trust noise episode ketchup decorate";
+var mnemonic = "tortoise mosquito favorite brain cube bridge spice excess confirm silver pelican layer";

@@ -1,1 +1,1 @@
-var mnemonic = "duty aware run wheat basic feel furnace clock lazy run flush swamp";
+var mnemonic = "priority faint kidney what board peasant way rail improve ten faith solve";

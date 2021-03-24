@@ -1,1 +1,1 @@
-var mnemonic = "also child buffalo scan client novel bid grape regret labor mouse work";
+var mnemonic = "syrup input office route wonder top genius issue agent slim file shove";

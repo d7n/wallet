@@ -1,1 +1,1 @@
-var mnemonic = "direct bulk relax pattern foster toast valid dawn citizen forum unveil scout";
+var mnemonic = "tiger shop problem neglect around junior certain actor business utility leopard east";

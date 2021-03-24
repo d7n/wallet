@@ -1,1 +1,1 @@
-var mnemonic = "execute mimic goat surround pact virus lunch when wolf patient believe ecology";
+var mnemonic = "combine firm trouble gorilla plastic vast extra setup reward entry boring rabbit";

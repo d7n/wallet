@@ -1,1 +1,1 @@
-var mnemonic = "between mercy tag tattoo will permit unknown kite virus amount artefact thunder";
+var mnemonic = "loud ginger unknown north observe daring weather there journey gym depth december";

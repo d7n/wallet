@@ -1,1 +1,1 @@
-var mnemonic = "boost sting illness runway toward boat salute funny receive fetch truly outer";
+var mnemonic = "fruit chuckle open chimney bacon ecology hurdle slender song indicate cable input";

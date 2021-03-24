@@ -1,1 +1,1 @@
-var mnemonic = "craft tiny analyst casual carbon pink wink inquiry hunt arrive forum replace";
+var mnemonic = "network glass canal door law census summer keen mention school mosquito aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "friend nothing view asset about bar school snake glass admit plug ugly";
+var mnemonic = "picnic draw despair universe theme copper music pluck must blossom eager defy";

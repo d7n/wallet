@@ -1,1 +1,1 @@
-var mnemonic = "impulse amused fruit private vocal leaf stomach panel guide hockey parade vapor";
+var mnemonic = "obey pause find congress property top idle blush pencil turtle crane good";

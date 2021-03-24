@@ -1,1 +1,1 @@
-var mnemonic = "alert negative mail hope negative high shy reform soccer distance wage timber";
+var mnemonic = "novel rice child order arrange guard toss cricket hat father pipe boil";

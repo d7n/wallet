@@ -1,1 +1,1 @@
-var mnemonic = "erase club orange divide ice inform mandate tortoise mechanic task page great";
+var mnemonic = "exist debate wait ball acid empty paddle canyon report moon volume bridge";

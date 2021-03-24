@@ -1,1 +1,1 @@
-var mnemonic = "surround situate royal clock swear warrior seven tonight imitate window crawl orange";
+var mnemonic = "easy pipe visit fortune avoid attract insect walnut toy report pear sign";

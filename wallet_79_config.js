@@ -1,1 +1,1 @@
-var mnemonic = "banana coffee paper topple school shoulder trick spread witness kiwi manual gorilla";
+var mnemonic = "phrase very cruel sword action absurd member fluid fit reduce term adult";

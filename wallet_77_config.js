@@ -1,1 +1,1 @@
-var mnemonic = "voyage rotate actor catalog purse rug issue silver yellow reform jeans morning";
+var mnemonic = "country bridge finish choose destroy dumb track shallow abuse dutch depart cousin";

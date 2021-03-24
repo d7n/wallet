@@ -1,1 +1,1 @@
-var mnemonic = "amused truth basket country hair liquid celery embody grunt kidney afraid hunt";
+var mnemonic = "trigger defense sphere omit grid film demand utility wolf pact bamboo buffalo";

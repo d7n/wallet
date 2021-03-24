@@ -1,1 +1,1 @@
-var mnemonic = "argue vessel bubble meat intact middle salad motor emotion board limb latin";
+var mnemonic = "whale dish disease abstract various stage test thunder usage dune thumb regret";

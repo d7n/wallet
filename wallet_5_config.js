@@ -1,1 +1,1 @@
-var mnemonic = "witness lecture twice elevator turtle skill seminar festival utility robot rule pulp";
+var mnemonic = "shuffle design novel message coffee era snap flock economy ahead name jeans";

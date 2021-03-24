@@ -1,1 +1,1 @@
-var mnemonic = "tray evil song rain once when glue spike tribe extra weird beauty";
+var mnemonic = "drip when fossil fit wife toss witness fly save leave appear lens";

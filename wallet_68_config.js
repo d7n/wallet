@@ -1,1 +1,1 @@
-var mnemonic = "such enroll zone flag dress mention inmate stereo disorder brush win refuse";
+var mnemonic = "trash purpose bid lottery donate venture giant amused violin awesome recipe trick";

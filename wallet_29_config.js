@@ -1,1 +1,1 @@
-var mnemonic = "crunch tennis dry project bag erase spy session inner exact nerve dignity";
+var mnemonic = "border kitchen tattoo orchard pole pumpkin coconut please under spoil client wreck";

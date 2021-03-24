@@ -1,1 +1,1 @@
-var mnemonic = "arm square remind nut screen churn beef rather salmon island vibrant apple";
+var mnemonic = "wrestle glow juice dumb recipe style pretty oyster same trigger fiber robot";

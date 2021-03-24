@@ -1,1 +1,1 @@
-var mnemonic = "tilt issue net hurt vague pink pool common clutch erupt flock round";
+var mnemonic = "hobby whale ginger giraffe wild wire invite arrange grain say dad crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "tide aerobic express convince letter basket famous switch pave test abuse quality";
+var mnemonic = "scan protect daring video exhibit holiday index route agree foot stone acquire";

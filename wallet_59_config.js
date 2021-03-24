@@ -1,1 +1,1 @@
-var mnemonic = "rigid catalog ski sight ketchup ice cable elegant extra neither morning march";
+var mnemonic = "humor spray drop test regret help airport will empty open iron song";

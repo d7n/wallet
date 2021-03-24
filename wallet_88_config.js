@@ -1,1 +1,1 @@
-var mnemonic = "ancient dune hat fatal spice garment know news grit impose guitar anxiety";
+var mnemonic = "material reward valid liar place rain caught bullet armed cram toilet average";

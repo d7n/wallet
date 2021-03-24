@@ -1,1 +1,1 @@
-var mnemonic = "brand fade anger perfect trim actor priority present better post buyer sing";
+var mnemonic = "debate alarm add private donate update hurry sea interest call cable traffic";

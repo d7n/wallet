@@ -1,1 +1,1 @@
-var mnemonic = "student daring laptop floor frequent melt cluster globe arctic sudden chase school";
+var mnemonic = "promote power energy robust crawl south blanket mushroom piano stairs service other";

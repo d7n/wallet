@@ -1,1 +1,1 @@
-var mnemonic = "embark judge believe member learn mechanic cause hire old census sustain plug";
+var mnemonic = "alley office float consider romance lunch allow body critic control resource divorce";

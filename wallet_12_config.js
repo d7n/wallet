@@ -1,1 +1,1 @@
-var mnemonic = "pig crumble cannon front creek wise raise offer chest stable also essay";
+var mnemonic = "faculty news rack pretty act puzzle trouble above gesture rose spoil dwarf";

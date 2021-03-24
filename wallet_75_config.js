@@ -1,1 +1,1 @@
-var mnemonic = "quick solution matrix together dynamic average educate giraffe pipe amused lottery course";
+var mnemonic = "bracket arrow grief cereal mask height disease hamster future fatal coil grid";

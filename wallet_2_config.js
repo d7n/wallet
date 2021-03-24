@@ -1,1 +1,1 @@
-var mnemonic = "latin fall spread inform wide human bunker faint version neglect mom wheel";
+var mnemonic = "word public amazing proud click chuckle gorilla festival future crazy problem fun";

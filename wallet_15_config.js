@@ -1,1 +1,1 @@
-var mnemonic = "boat knife method render recipe rich magic exact wisdom chase drop sight";
+var mnemonic = "divorce hire phrase human ignore crazy cradle during increase six fluid claw";

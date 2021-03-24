@@ -1,1 +1,1 @@
-var mnemonic = "action benefit wedding defy thought face pig essay helmet frequent girl inside";
+var mnemonic = "frog attract rebel oval drastic despair repeat young mango spice decrease neutral";

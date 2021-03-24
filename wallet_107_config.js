@@ -1,1 +1,1 @@
-var mnemonic = "harvest always attend trade august material clip velvet tank cycle autumn vague";
+var mnemonic = "card diesel february walk expose tray hope height program proud armor safe";

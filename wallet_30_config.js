@@ -1,1 +1,1 @@
-var mnemonic = "vessel brave scale drive pink category prosper sentence helmet hold state hope";
+var mnemonic = "thing wing wink loud moral company sad verify exchange lecture genuine hundred";

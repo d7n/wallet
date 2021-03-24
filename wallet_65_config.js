@@ -1,1 +1,1 @@
-var mnemonic = "agent people song beef detail veteran emotion photo other cluster asthma rib";
+var mnemonic = "match force risk twenty imitate primary patch unlock give company inquiry about";

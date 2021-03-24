@@ -1,1 +1,1 @@
-var mnemonic = "cup wrist spoon salmon mimic survey giggle shell beef pattern arm ghost";
+var mnemonic = "letter ensure river cluster popular diet repeat filter green despair dawn crush";

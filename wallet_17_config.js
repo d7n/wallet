@@ -1,1 +1,1 @@
-var mnemonic = "exercise anger alert wrong demand desk happy already later solid asset raw";
+var mnemonic = "draft combine hard mom ball garage fringe fire dune win sudden voice";

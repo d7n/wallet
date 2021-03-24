@@ -1,1 +1,1 @@
-var mnemonic = "cup example sad rose movie best echo pig tonight dog power robot";
+var mnemonic = "danger sphere conduct maximum way wrap begin humor between unaware mail hello";

@@ -1,1 +1,1 @@
-var mnemonic = "course profit finish click actress fresh draft picnic wine beach engage return";
+var mnemonic = "daring bring similar enable garage metal sibling document color extra match wheel";

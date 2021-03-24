@@ -1,1 +1,1 @@
-var mnemonic = "help quit excuse bracket honey twenty shy wide prosper open budget accuse";
+var mnemonic = "confirm what sea glass vacuum rib sense smooth daughter category lemon rule";

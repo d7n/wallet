@@ -1,1 +1,1 @@
-var mnemonic = "bullet fresh praise stadium dose wasp cry nephew girl squeeze general submit";
+var mnemonic = "mechanic follow half sibling know atom slogan health west alpha kite tilt";

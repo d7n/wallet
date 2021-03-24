@@ -1,1 +1,1 @@
-var mnemonic = "dance pioneer trick boss vapor hammer iron globe pupil loan summer bundle";
+var mnemonic = "door infant stick advice burst limit foil embody chicken coral connect leave";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey situate animal arena heavy coin worth online street wave hamster burden";
+var mnemonic = "marble almost submit response earn connect slight large sadness bless olympic ridge";

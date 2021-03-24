@@ -1,1 +1,1 @@
-var mnemonic = "crucial fee cruise obey trade forget silver ordinary velvet ritual siege indicate";
+var mnemonic = "sight rather shoe couch bomb chimney spider orphan smile cloth ranch rent";

@@ -1,1 +1,1 @@
-var mnemonic = "digital coast result crater quote concert rifle jazz movie swap afford slender";
+var mnemonic = "resemble sad dress season joy reunion then solution mixed sketch fork crazy";

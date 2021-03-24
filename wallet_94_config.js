@@ -1,1 +1,1 @@
-var mnemonic = "admit grant faculty stomach aim dynamic solid daughter color rally click uniform";
+var mnemonic = "document expect amount barrel roof service electric observe simple member lonely silent";

@@ -1,1 +1,1 @@
-var mnemonic = "day oval chaos similar rebuild tomato crater isolate pioneer evoke you zebra";
+var mnemonic = "true wheel average dry multiply jaguar flat volcano youth enter card polar";

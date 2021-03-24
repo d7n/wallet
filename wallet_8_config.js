@@ -1,1 +1,1 @@
-var mnemonic = "copper oval clerk focus orchard hour blanket denial bag essay basket setup";
+var mnemonic = "vital kick arrive index pact churn lottery bonus fame shield cause unit";

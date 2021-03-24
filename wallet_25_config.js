@@ -1,1 +1,1 @@
-var mnemonic = "else coffee vacuum peasant leaf barrel alone own limb blade question wrong";
+var mnemonic = "eager view street famous property speak invite modify plate use record skirt";

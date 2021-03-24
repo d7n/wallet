@@ -1,1 +1,1 @@
-var mnemonic = "pizza hawk famous royal crumble learn soldier uncover sheriff brick copper absurd";
+var mnemonic = "ivory skate bleak mimic team elite code day doll motor leaf base";

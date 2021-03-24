@@ -1,1 +1,1 @@
-var mnemonic = "elevator type pole match iron domain novel leave knife someone clay ahead";
+var mnemonic = "oven sphere slide vacuum fork brisk creek wrap shuffle speak much wool";

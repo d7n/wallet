@@ -1,1 +1,1 @@
-var mnemonic = "park pet pyramid resource drum fix muscle focus achieve profit orphan length";
+var mnemonic = "diesel owner absorb party drill walk way garage sort wrong rebel orchard";
