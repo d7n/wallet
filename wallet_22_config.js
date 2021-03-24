@@ -1,1 +1,1 @@
-var mnemonic = "grain armor junk flush tank list tree grunt alone solar bike pumpkin";
+var mnemonic = "airport aim among enemy addict artefact method gather love father wise once";

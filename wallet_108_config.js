@@ -1,1 +1,1 @@
-var mnemonic = "race success knock close diamond chair play brown effort orbit travel drill";
+var mnemonic = "verb sun current cover dragon roof hazard august hunt damp issue lion";

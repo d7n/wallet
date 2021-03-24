@@ -1,1 +1,1 @@
-var mnemonic = "parade rocket life love pig tool cousin powder rocket entire crowd begin";
+var mnemonic = "cart false badge tail rebuild wet decline blossom salon this cable fuel";

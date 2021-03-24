@@ -1,1 +1,1 @@
-var mnemonic = "wife similar photo rival shock profit year vital toe deer meat drink";
+var mnemonic = "design high erupt dial ride erupt nurse brisk seven sphere cage victory";

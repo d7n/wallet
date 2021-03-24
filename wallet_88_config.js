@@ -1,1 +1,1 @@
-var mnemonic = "bronze visit alien valve accident neither harbor long visa wedding spray arctic";
+var mnemonic = "neglect regret fever polar elder side palm lake twelve across near two";

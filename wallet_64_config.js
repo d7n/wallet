@@ -1,1 +1,1 @@
-var mnemonic = "caught uphold maid vote balance glare parrot chalk tool door unable mind";
+var mnemonic = "parrot nose rhythm marriage sunset digital either stomach lecture feed gravity trend";

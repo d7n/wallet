@@ -1,1 +1,1 @@
-var mnemonic = "asset any trend cash mango banner arrive choose bread mechanic alter warrior";
+var mnemonic = "provide minute sponsor meat trade lend offer nerve sight snack drift legal";

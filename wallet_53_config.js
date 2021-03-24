@@ -1,1 +1,1 @@
-var mnemonic = "inject method sport cost meat glory hour front client fault wave always";
+var mnemonic = "polar base skate street reflect control powder audit october tribe rapid remain";

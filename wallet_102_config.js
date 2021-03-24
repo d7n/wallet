@@ -1,1 +1,1 @@
-var mnemonic = "ramp pencil forum shock release blur horse flash voice roast annual pigeon";
+var mnemonic = "stem zebra trigger spoon human liquid spot fiscal puzzle small arch zoo";

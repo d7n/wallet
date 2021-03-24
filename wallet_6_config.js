@@ -1,1 +1,1 @@
-var mnemonic = "social task excuse ocean message food cloud program indoor trigger army bronze";
+var mnemonic = "million first weird before mistake lounge damp fat grass cool robust flower";

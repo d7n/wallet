@@ -1,1 +1,1 @@
-var mnemonic = "cook style crane smart squeeze dinosaur reunion live key call film december";
+var mnemonic = "stamp grant hobby access farm crumble alien noodle crucial wasp someone giraffe";

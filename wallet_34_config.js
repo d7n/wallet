@@ -1,1 +1,1 @@
-var mnemonic = "exotic brush search matrix birth voice predict frozen desert key begin badge";
+var mnemonic = "ripple shoe powder steak pumpkin gospel magnet soup turkey cable diagram toddler";

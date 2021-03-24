@@ -1,1 +1,1 @@
-var mnemonic = "perfect avoid wash purse ridge print remain arena electric basic potato error";
+var mnemonic = "net coach risk hub wild agent jeans steak throw betray sport suffer";

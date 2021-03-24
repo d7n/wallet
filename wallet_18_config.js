@@ -1,1 +1,1 @@
-var mnemonic = "valid hat link street step certain excess ramp oyster tool they record";
+var mnemonic = "motion leader upper dog february evidence museum state coconut catch spread armor";

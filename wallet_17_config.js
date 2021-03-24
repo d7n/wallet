@@ -1,1 +1,1 @@
-var mnemonic = "load crawl warfare affair job immune unique social another canvas order luxury";
+var mnemonic = "subway symptom dentist skirt afford truth edge fragile choice point repair bomb";

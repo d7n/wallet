@@ -1,1 +1,1 @@
-var mnemonic = "burst pudding athlete village fresh chuckle warfare clever gauge exchange jelly receive";
+var mnemonic = "sister another recycle pink grid twin floor hazard income ball pool tuna";

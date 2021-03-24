@@ -1,1 +1,1 @@
-var mnemonic = "roast notable rare raw vehicle glimpse nurse prosper february box same energy";
+var mnemonic = "advance vague any volcano surround busy type clever squirrel absurd almost country";

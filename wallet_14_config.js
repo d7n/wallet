@@ -1,1 +1,1 @@
-var mnemonic = "inhale artefact rhythm pipe surround prosper clown wood over old leave dress";
+var mnemonic = "method frequent sorry bounce phone engine wife once crucial point leisure obtain";

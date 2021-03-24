@@ -1,1 +1,1 @@
-var mnemonic = "educate kiwi excess candy defy recipe joke finger tail disagree screen attract";
+var mnemonic = "offer lucky bread siege grab click elegant such famous various prevent group";

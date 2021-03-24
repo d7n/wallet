@@ -1,1 +1,1 @@
-var mnemonic = "way ginger offer detail aerobic casual culture usual friend clump system urban";
+var mnemonic = "ordinary party lunar guard flower quiz night kiwi claim repair buyer base";

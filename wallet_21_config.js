@@ -1,1 +1,1 @@
-var mnemonic = "bless hood burden vacant sport sort table spy swap swamp canyon staff";
+var mnemonic = "midnight film author upset poem august edge ritual spend arctic retreat amateur";

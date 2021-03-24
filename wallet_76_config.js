@@ -1,1 +1,1 @@
-var mnemonic = "early race cool pink coconut injury embrace file thumb ketchup equip humble";
+var mnemonic = "repair swap law soccer call gallery champion follow obvious fatigue phone often";

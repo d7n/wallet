@@ -1,1 +1,1 @@
-var mnemonic = "crash slice patrol hover country fatal cook hair sting receive valve beauty";
+var mnemonic = "brush diamond gym identify fever nest zone sniff human wing novel veteran";

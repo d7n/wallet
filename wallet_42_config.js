@@ -1,1 +1,1 @@
-var mnemonic = "clay visual cram crunch lonely decorate verb certain upgrade desert random enforce";
+var mnemonic = "lemon swap because vague noodle virtual replace festival script wish base document";

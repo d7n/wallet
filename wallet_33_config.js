@@ -1,1 +1,1 @@
-var mnemonic = "royal south label swap volcano phone matrix mystery crop weird hedgehog knock";
+var mnemonic = "shell bargain morning duty situate glass strategy fringe portion lawsuit blouse build";

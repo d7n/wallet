@@ -1,1 +1,1 @@
-var mnemonic = "catalog uncle siege letter attract oval grid father flame escape jewel law";
+var mnemonic = "distance shift bitter captain arch curious era trigger ritual dutch fish envelope";

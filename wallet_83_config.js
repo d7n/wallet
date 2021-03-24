@@ -1,1 +1,1 @@
-var mnemonic = "assist valley sleep civil egg holiday adult coral floor pattern subway tent";
+var mnemonic = "door snack laundry pottery fuel similar satoshi cancel degree arrange ethics artist";

@@ -1,1 +1,1 @@
-var mnemonic = "aim dismiss melt sugar sustain liquid umbrella palace way loud crisp spray";
+var mnemonic = "famous client hour tell naive art wild crystal post simple ice half";

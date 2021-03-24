@@ -1,1 +1,1 @@
-var mnemonic = "foster salt health stem little swarm claim regret hour today flower mandate";
+var mnemonic = "direct boost cruel tomorrow gasp barely kiwi aunt world please shallow tragic";

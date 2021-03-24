@@ -1,1 +1,1 @@
-var mnemonic = "piano turtle eight tomorrow disease conduct trim item furnace unfair kingdom mixed";
+var mnemonic = "fragile axis captain soft demise soul demand snap fit shrug involve viable";

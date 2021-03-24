@@ -1,1 +1,1 @@
-var mnemonic = "matrix chest boy release shadow innocent usual body intact legend ten base";
+var mnemonic = "glow gap inject race speak february safe cave virus wine toilet margin";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate million hold drop club extend know sponsor demise sister wash wonder";
+var mnemonic = "purpose hill ahead roast pet rescue reduce ocean foster cargo tip ceiling";

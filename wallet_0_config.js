@@ -1,1 +1,1 @@
-var mnemonic = "drift direct bonus segment immense settle magnet slam attack light midnight step";
+var mnemonic = "rival dream borrow frown fancy gadget visa town wheat usage maze kitchen";

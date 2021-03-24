@@ -1,1 +1,1 @@
-var mnemonic = "cherry donate wall rib ocean section tide trim vacuum prison civil okay";
+var mnemonic = "runway trap vital cattle obey upset deer symptom ostrich gadget fiction general";

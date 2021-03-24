@@ -1,1 +1,1 @@
-var mnemonic = "together deposit conduct disagree bean position hub daughter autumn word bacon chimney";
+var mnemonic = "elevator ball check trip enough satoshi nephew destroy feature mimic twelve rally";

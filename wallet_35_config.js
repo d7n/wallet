@@ -1,1 +1,1 @@
-var mnemonic = "knife page dwarf antique purpose rent slow mimic chalk beach entry forum";
+var mnemonic = "circle way upset lonely spirit such paper fox pizza shock expand bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery broken segment ask banner swallow royal mention gospel ozone kitten sniff";
+var mnemonic = "bicycle toddler provide emerge symptom language tail approve patient nut globe perfect";

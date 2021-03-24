@@ -1,1 +1,1 @@
-var mnemonic = "alcohol above volume reduce cross purchase book legend key typical wheel put";
+var mnemonic = "swim sell salon evolve round near teach fossil modify thing three leaf";

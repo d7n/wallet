@@ -1,1 +1,1 @@
-var mnemonic = "link festival rely lucky tank canyon bundle matter cram elite lion grunt";
+var mnemonic = "still pizza pledge ecology appear ski language spray captain fall rapid basic";

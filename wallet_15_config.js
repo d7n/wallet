@@ -1,1 +1,1 @@
-var mnemonic = "install tenant river help school base bar misery hurdle join favorite timber";
+var mnemonic = "ahead roast rally alarm alpha trim frown slice reduce session divert leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "quality orient fitness prison time female swim abuse abuse perfect home salmon";
+var mnemonic = "polar nation future scene autumn gadget blade token summer prefer crazy brief";

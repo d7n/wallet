@@ -1,1 +1,1 @@
-var mnemonic = "brief one together riot hamster mixture sorry crater olive fabric lunch cereal";
+var mnemonic = "arch license monster circle bring culture disease pepper short abuse rival bronze";

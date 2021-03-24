@@ -1,1 +1,1 @@
-var mnemonic = "fatigue ramp during easy tube duck library soda remind pause deny sweet";
+var mnemonic = "venture turtle message echo lemon wedding invest course expire jar caution order";

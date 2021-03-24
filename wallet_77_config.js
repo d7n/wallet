@@ -1,1 +1,1 @@
-var mnemonic = "achieve situate spirit worry leisure disorder fruit crash sad bar exotic charge";
+var mnemonic = "smart jacket chuckle salute noble slush pigeon arena guitar process beauty receive";

@@ -1,1 +1,1 @@
-var mnemonic = "curious ladder wing skirt ritual change birth farm concert minor attack sustain";
+var mnemonic = "lunar reason destroy moment lamp hair blouse host dish work strategy desk";

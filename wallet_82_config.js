@@ -1,1 +1,1 @@
-var mnemonic = "old yard range kick liquid blanket staff tackle antenna coin essay turn";
+var mnemonic = "tube damage enforce song stage potato ramp grief hazard child magic normal";

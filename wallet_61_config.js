@@ -1,1 +1,1 @@
-var mnemonic = "sure pottery race kick fun spoon bounce eager escape wheel donate fatigue";
+var mnemonic = "present weekend drive axis engine purchase toss grunt excuse exit eternal tennis";

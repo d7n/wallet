@@ -1,1 +1,1 @@
-var mnemonic = "choose mule usage mention random boil deposit badge shrug bubble inquiry employ";
+var mnemonic = "foster join pudding cloth ugly receive federal tail milk elder merge legal";

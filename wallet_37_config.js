@@ -1,1 +1,1 @@
-var mnemonic = "figure tunnel avoid senior spy tail truly model legend punch immune aware";
+var mnemonic = "bracket organ veteran ready curve stem pole yard penalty floor curious learn";

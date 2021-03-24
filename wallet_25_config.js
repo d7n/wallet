@@ -1,1 +1,1 @@
-var mnemonic = "pottery snake joke style round fork volume piece option symptom song noble";
+var mnemonic = "poem rabbit twin truck crumble ecology trade stone recall below crucial romance";

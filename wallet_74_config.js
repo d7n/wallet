@@ -1,1 +1,1 @@
-var mnemonic = "arrow essence coconut infant rally order assume hunt concert visual material champion";
+var mnemonic = "movie recipe save table floor hurt figure ladder gaze deputy wheel shield";

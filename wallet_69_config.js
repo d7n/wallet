@@ -1,1 +1,1 @@
-var mnemonic = "kind seat error shaft derive local certain card ask cycle female edit";
+var mnemonic = "school sand trip grace outside climb juice adjust hood room asthma drill";

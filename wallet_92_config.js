@@ -1,1 +1,1 @@
-var mnemonic = "frozen setup initial team pledge unit snap leg fiscal glad faith trigger";
+var mnemonic = "photo guilt april lens stumble egg frog card sauce uncover grit artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "crush moon remember faint latin critic chuckle robot frequent stick woman awkward";
+var mnemonic = "palace reward endless orchard also rebel again clock two alley select start";

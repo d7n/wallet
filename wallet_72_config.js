@@ -1,1 +1,1 @@
-var mnemonic = "sponsor unhappy indicate review point open snack praise traffic august antenna alter";
+var mnemonic = "machine twin group bulk element youth dignity torch empty blur extra couple";

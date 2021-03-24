@@ -1,1 +1,1 @@
-var mnemonic = "mansion more razor fault ocean eye shoulder nose forest crash myself coffee";
+var mnemonic = "innocent pause undo still scatter laugh flip cannon design shoot actor coconut";

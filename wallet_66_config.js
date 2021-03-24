@@ -1,1 +1,1 @@
-var mnemonic = "betray grid radio napkin name flat polar hedgehog enrich such you body";
+var mnemonic = "nut side hobby any hill planet fossil step include okay all clever";

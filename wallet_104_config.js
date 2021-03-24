@@ -1,1 +1,1 @@
-var mnemonic = "announce chief path tell ride horn diet remain arch welcome neck busy";
+var mnemonic = "curve oak volcano betray notable magic practice receive away library crime pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow category picnic bundle nuclear tonight faculty tuition dynamic own useful emerge";
+var mnemonic = "hedgehog tomato scene plug spike sustain dinner remove jealous vague maze picnic";

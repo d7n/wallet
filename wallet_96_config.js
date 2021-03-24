@@ -1,1 +1,1 @@
-var mnemonic = "tool nuclear maple fiber comfort home spell priority hawk army flower tilt";
+var mnemonic = "stove gain six toss wrist put razor title copper slice business behind";

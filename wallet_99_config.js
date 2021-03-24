@@ -1,1 +1,1 @@
-var mnemonic = "lemon omit budget guide improve jacket rely hip enemy wait attack buyer";
+var mnemonic = "focus tunnel rough enroll spatial motor neither pelican evil boil type region";

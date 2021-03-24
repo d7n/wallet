@@ -1,1 +1,1 @@
-var mnemonic = "genius inherit door garbage will digital alone peanut task nuclear ecology lobster";
+var mnemonic = "dragon alley degree library outer boost lady maximum box approve book lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "loop crawl tunnel quality onion core eyebrow else invest canoe runway length";
+var mnemonic = "include water print end scrap age welcome hidden fancy ten pulp forest";

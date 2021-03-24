@@ -1,1 +1,1 @@
-var mnemonic = "slush hub captain innocent account extra evoke crew coral wagon lunch loan";
+var mnemonic = "host install swear fuel summer cancel argue journey venture fee funny devote";

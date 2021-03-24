@@ -1,1 +1,1 @@
-var mnemonic = "grape dress jaguar mass local february coach talk coil minor catalog noodle";
+var mnemonic = "domain range typical marriage wife thought spin valve miracle crush expect pride";

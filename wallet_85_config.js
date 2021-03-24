@@ -1,1 +1,1 @@
-var mnemonic = "culture primary cliff elder act toddler decade kitten burger clarify live wrong";
+var mnemonic = "chalk table file run turkey suspect icon summer rabbit unaware merry wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "image endorse witness accident embark measure extend trash dog umbrella lizard choice";
+var mnemonic = "column school guard address weekend ceiling prefer vibrant churn spend expose alcohol";

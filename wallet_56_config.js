@@ -1,1 +1,1 @@
-var mnemonic = "day rug ready yard injury bunker option wait coast helmet critic plate";
+var mnemonic = "garbage melt track zoo journey spray wrist zone cable fee turkey reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform muscle model trigger assault bacon trust another practice video alpha salon";
+var mnemonic = "gospel finger wall diamond common side usual tooth match sell oak prepare";

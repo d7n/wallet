@@ -1,1 +1,1 @@
-var mnemonic = "carry coast time away unusual hammer lend verb balance evolve amount wall";
+var mnemonic = "garbage twice daughter grocery dynamic future merry remain cool easy gorilla seek";

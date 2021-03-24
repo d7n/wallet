@@ -1,1 +1,1 @@
-var mnemonic = "primary pink forest mammal cry crazy blur acoustic clinic blush cradle wheel";
+var mnemonic = "waste drill blood october hope fly sphere below private issue motor destroy";

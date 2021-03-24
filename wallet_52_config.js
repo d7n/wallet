@@ -1,1 +1,1 @@
-var mnemonic = "enlist stem love urban expire episode web page attack pole elevator nice";
+var mnemonic = "negative certain dragon later bachelor dinner barrel stairs awesome long idea gun";

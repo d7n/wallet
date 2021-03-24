@@ -1,1 +1,1 @@
-var mnemonic = "remind valley awkward rough garlic job orange sword make hunt more nerve";
+var mnemonic = "wreck move cinnamon finish property helmet once boss fade team fabric search";

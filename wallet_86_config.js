@@ -1,1 +1,1 @@
-var mnemonic = "limit excite stove record obtain word chapter raise cabin fever shallow motion";
+var mnemonic = "material mom regular smooth cloth prison journey crunch march fringe excite point";

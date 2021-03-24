@@ -1,1 +1,1 @@
-var mnemonic = "milk refuse visit banner alert banner prize water wealth word slogan fiber";
+var mnemonic = "wreck boost trip open come honey regret glow acoustic connect sun protect";

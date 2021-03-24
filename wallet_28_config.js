@@ -1,1 +1,1 @@
-var mnemonic = "chief trigger soldier note label banana opinion august destroy slam bread dash";
+var mnemonic = "slight budget abandon announce raw voice same box swing always fix idea";

@@ -1,1 +1,1 @@
-var mnemonic = "dog improve close program two author harsh unlock mom cactus dinner else";
+var mnemonic = "illness gold carpet answer lobster unhappy promote cool broken ocean flavor immense";

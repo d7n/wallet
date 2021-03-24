@@ -1,1 +1,1 @@
-var mnemonic = "vague shed agree like dress state fish defy forum vivid giant cloud";
+var mnemonic = "jar blossom police clump uphold family practice region anchor first cruel struggle";

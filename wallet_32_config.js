@@ -1,1 +1,1 @@
-var mnemonic = "gravity oblige labor hundred offer shy bicycle column radio speak indoor remove";
+var mnemonic = "wedding consider mandate sound there ring infant angry number acid skin junk";

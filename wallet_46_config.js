@@ -1,1 +1,1 @@
-var mnemonic = "proud guess resource axis bamboo arrest dentist kiwi detail toddler glance scissors";
+var mnemonic = "coast coil car virus pool alter usage sea tortoise marine urge little";

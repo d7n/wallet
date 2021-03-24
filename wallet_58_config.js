@@ -1,1 +1,1 @@
-var mnemonic = "seminar brown hill duck mistake economy track climb rabbit track snow embark";
+var mnemonic = "impulse train jealous force shine edge portion fat garage awake carpet eager";

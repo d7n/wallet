@@ -1,1 +1,1 @@
-var mnemonic = "beauty culture damp asthma carry brother practice lab depend reveal hello bench";
+var mnemonic = "domain high foster island state half prize relief around trust small paddle";

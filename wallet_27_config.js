@@ -1,1 +1,1 @@
-var mnemonic = "spare puzzle call electric swing chair element unaware digital catalog glass throw";
+var mnemonic = "siege cube hub siren tooth dice celery gentle neither insect kidney isolate";

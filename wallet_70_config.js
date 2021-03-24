@@ -1,1 +1,1 @@
-var mnemonic = "flip vague gap prevent cute general abuse tide obvious floor piece defy";
+var mnemonic = "wonder baby hawk you hello wrestle wagon friend patch squirrel angle reunion";

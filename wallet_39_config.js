@@ -1,1 +1,1 @@
-var mnemonic = "sorry family east album often device refuse squeeze design cash ill cable";
+var mnemonic = "question know useless climb olive clip typical bird wealth rule cigar pulp";

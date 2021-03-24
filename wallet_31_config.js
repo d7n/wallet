@@ -1,1 +1,1 @@
-var mnemonic = "daring excuse globe pumpkin brisk bright disagree energy slide charge mesh finger";
+var mnemonic = "bus hurdle torch topic vicious stand churn cannon stove choice keep palm";

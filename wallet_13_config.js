@@ -1,1 +1,1 @@
-var mnemonic = "save fire shoot zoo kitchen machine thrive spy drive sustain pigeon seat";
+var mnemonic = "plate over whale name furnace squeeze vacuum page any solar ancient whip";

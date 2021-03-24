@@ -1,1 +1,1 @@
-var mnemonic = "bless they secret walnut try summer wise derive sadness rubber shell where";
+var mnemonic = "aerobic invite satoshi buddy decrease crowd same divorce execute blush pupil universe";
