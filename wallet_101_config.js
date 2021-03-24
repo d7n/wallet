@@ -1,1 +1,1 @@
-var mnemonic = "trigger dirt hire steak bean panic little century rebel side chest vehicle";
+var mnemonic = "neither proof animal library eagle success cheese legal menu deposit witness you";

@@ -1,1 +1,1 @@
-var mnemonic = "solve vacuum alcohol peasant faint toilet galaxy canoe identify comfort replace real";
+var mnemonic = "crop purpose domain seed interest mandate journey rely limit manual swarm daughter";

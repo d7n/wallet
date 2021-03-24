@@ -1,1 +1,1 @@
-var mnemonic = "device clog coach fever vacant tennis spider anxiety critic floor heart excuse";
+var mnemonic = "gold suspect clown rookie neutral promote kick can stem snack render wedding";

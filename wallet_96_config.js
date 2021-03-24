@@ -1,1 +1,1 @@
-var mnemonic = "insect vote brisk steel put lounge speed lunch tube waste latin social";
+var mnemonic = "allow security maid symptom spin card weapon harsh relief diamond reform wife";

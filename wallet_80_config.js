@@ -1,1 +1,1 @@
-var mnemonic = "please price main various fabric shoe screen bomb hurt private work fox";
+var mnemonic = "wealth memory chicken cook view wish voyage parade betray repair bracket endless";

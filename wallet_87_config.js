@@ -1,1 +1,1 @@
-var mnemonic = "asset parade then zone around clog thrive believe shift plate cricket force";
+var mnemonic = "call myth weather couple shrimp tired twenty phone trophy paper ecology prison";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap measure secret manage subway material biology quality person wreck enter fabric";
+var mnemonic = "nephew path unable permit aerobic release time april brief eight approve rice";

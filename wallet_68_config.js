@@ -1,1 +1,1 @@
-var mnemonic = "cute bone spin deal plug quarter exact month cover reopen park great";
+var mnemonic = "someone rich ask great parade key license bulk flush snack husband brush";

@@ -1,1 +1,1 @@
-var mnemonic = "wool response wrestle better spoil drama reduce gaze sample odor retreat carbon";
+var mnemonic = "bachelor clever essay arrow stool rough fiber text scale apology minimum receive";

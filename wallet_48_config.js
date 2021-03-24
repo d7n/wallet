@@ -1,1 +1,1 @@
-var mnemonic = "hood arrest virtual letter report mention moral enter kitten wave furnace skin";
+var mnemonic = "banana slice prevent parrot coin direct couch oven replace weapon inject warm";

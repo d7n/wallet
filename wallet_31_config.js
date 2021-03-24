@@ -1,1 +1,1 @@
-var mnemonic = "crucial nest crime method often jelly confirm decrease era awful owner sheriff";
+var mnemonic = "dinosaur away derive panther aerobic note bird subway save mesh cargo lion";

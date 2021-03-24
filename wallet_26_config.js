@@ -1,1 +1,1 @@
-var mnemonic = "frown family ladder balcony fall tuition course gorilla razor memory arrest tiger";
+var mnemonic = "soda first dirt hip sustain like flush opera park odor useful gospel";

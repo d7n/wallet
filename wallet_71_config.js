@@ -1,1 +1,1 @@
-var mnemonic = "faith reveal swamp unlock sense tennis bunker pride impose age depart insane";
+var mnemonic = "just voice just quiz object ahead home adapt exclude balcony angry reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna beach sudden dolphin run extend satoshi harvest genuine slice foam gate";
+var mnemonic = "bird amused poet diesel drill fluid spider fox deposit ship script unhappy";

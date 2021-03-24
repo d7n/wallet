@@ -1,1 +1,1 @@
-var mnemonic = "virtual bronze extend comic decade board split amused invest fix display voice";
+var mnemonic = "fashion nice artwork rack actual envelope planet caught aim file soft cross";

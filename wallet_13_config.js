@@ -1,1 +1,1 @@
-var mnemonic = "people hazard general isolate grab fortune lift nest advance chest innocent parade";
+var mnemonic = "inner crouch fatal strike script elegant donor ski camera potato add shoulder";

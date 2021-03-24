@@ -1,1 +1,1 @@
-var mnemonic = "state leopard hood inquiry diamond palm bike salmon century rescue hunt bitter";
+var mnemonic = "aisle agent term derive plunge all dice motor output kangaroo roof click";

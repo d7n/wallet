@@ -1,1 +1,1 @@
-var mnemonic = "away museum uphold beauty allow inmate essay step fossil identify change mechanic";
+var mnemonic = "fan start town rookie category neutral whisper assault hour sauce pudding random";

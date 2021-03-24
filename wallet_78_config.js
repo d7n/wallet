@@ -1,1 +1,1 @@
-var mnemonic = "theme task ginger foam rain swamp act destroy soul veteran budget save";
+var mnemonic = "nuclear recipe shaft rural toilet level accuse banner gun input spare joy";

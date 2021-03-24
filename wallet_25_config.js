@@ -1,1 +1,1 @@
-var mnemonic = "panda neck favorite shaft august lady pen demise dish catalog token update";
+var mnemonic = "today pigeon answer length skin cart degree rule own stand earn action";

@@ -1,1 +1,1 @@
-var mnemonic = "melt want enhance hundred eight summer gravity follow walnut wait frame wise";
+var mnemonic = "top jungle badge cloud animal twin witness acid lamp duty blue creek";

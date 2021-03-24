@@ -1,1 +1,1 @@
-var mnemonic = "pet advance pony rude rebuild uniform void script same toddler trial shield";
+var mnemonic = "aisle science infant cheese glue air exit crouch input another ginger method";

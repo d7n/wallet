@@ -1,1 +1,1 @@
-var mnemonic = "soldier want original wolf raven history ring tuna swim bargain confirm cactus";
+var mnemonic = "urge color purse large correct hood hire pitch degree web crane develop";

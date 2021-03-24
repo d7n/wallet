@@ -1,1 +1,1 @@
-var mnemonic = "obtain comic gown quality excuse idea orbit section twice rate scene source";
+var mnemonic = "opera mandate bulb blade ivory off mom tunnel annual shed wave because";

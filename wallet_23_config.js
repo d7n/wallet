@@ -1,1 +1,1 @@
-var mnemonic = "hip neither diagram avoid kite snack naive crouch cake strike boat nothing";
+var mnemonic = "shield debate main clean modify pipe about exist buddy human innocent two";

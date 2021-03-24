@@ -1,1 +1,1 @@
-var mnemonic = "cat movie lemon fashion summer burst ripple setup sniff pear matrix make";
+var mnemonic = "ship pattern viable valid mesh ladder actual chimney flash envelope attack pulse";

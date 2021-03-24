@@ -1,1 +1,1 @@
-var mnemonic = "cattle win start model truly fun submit alpha eight mercy okay mistake";
+var mnemonic = "window immune keep pepper canal fan pulp few auction remain awesome dilemma";

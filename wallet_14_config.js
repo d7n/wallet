@@ -1,1 +1,1 @@
-var mnemonic = "element peace grass because mesh loop panda orient current image credit narrow";
+var mnemonic = "load sister never puppy hero enroll old moment eight unfold also pet";

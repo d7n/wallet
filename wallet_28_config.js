@@ -1,1 +1,1 @@
-var mnemonic = "tuna moment pudding brave pipe scissors diary alcohol vehicle lunch surface salt";
+var mnemonic = "payment kind resist ring spy split mammal boost marble just this future";

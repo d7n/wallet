@@ -1,1 +1,1 @@
-var mnemonic = "budget magnet light nerve jelly raw palm save panic shuffle flag nurse";
+var mnemonic = "slab often guitar require add symptom glare chicken trend mind burden interest";

@@ -1,1 +1,1 @@
-var mnemonic = "silly curious casual elbow gold punch soap trend infant battle glory dune";
+var mnemonic = "pink scorpion liberty educate mutual sketch essence learn run thumb stairs hurry";

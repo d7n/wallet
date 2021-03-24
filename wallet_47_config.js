@@ -1,1 +1,1 @@
-var mnemonic = "shrimp curve search zero just ice outer involve swarm furnace ocean swap";
+var mnemonic = "shop story weapon capable sting thought horn marriage sausage believe exercise illegal";

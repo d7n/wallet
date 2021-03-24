@@ -1,1 +1,1 @@
-var mnemonic = "diet range cigar sustain submit gift mystery fit situate nerve funny visit";
+var mnemonic = "palm nasty unveil salt chest chimney virus evoke swing above smooth nuclear";

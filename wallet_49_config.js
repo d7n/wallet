@@ -1,1 +1,1 @@
-var mnemonic = "oven left primary arrow daughter vivid poet brisk satoshi brother unveil farm";
+var mnemonic = "nation engine ticket bind hair royal vessel summer zebra garment produce shed";

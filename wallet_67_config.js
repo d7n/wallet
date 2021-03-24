@@ -1,1 +1,1 @@
-var mnemonic = "balance oyster blind knock moon farm clinic clinic foot angle gather theme";
+var mnemonic = "crater glide scan buyer swim analyst random arctic despair east crew vivid";

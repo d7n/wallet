@@ -1,1 +1,1 @@
-var mnemonic = "ethics tape forward expose begin grid neglect soon avocado cable stamp curtain";
+var mnemonic = "night bid push gas saddle prepare inspire suspect festival trash bike mimic";

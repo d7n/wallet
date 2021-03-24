@@ -1,1 +1,1 @@
-var mnemonic = "grocery copper skill wife attack snake furnace always tree chimney foam atom";
+var mnemonic = "control strategy girl focus long such jealous balance frost lunar cancel typical";

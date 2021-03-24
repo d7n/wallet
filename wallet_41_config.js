@@ -1,1 +1,1 @@
-var mnemonic = "arena critic glide patch below moment sister unusual pill tobacco coast fade";
+var mnemonic = "debate patient gap unit couch odor trip reason young powder gather clip";

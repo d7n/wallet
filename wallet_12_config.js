@@ -1,1 +1,1 @@
-var mnemonic = "verify lizard trouble okay duck crew crush fashion erode install end brief";
+var mnemonic = "enemy clutch mechanic dry globe tragic cupboard gallery express rain enter core";

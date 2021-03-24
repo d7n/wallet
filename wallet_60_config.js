@@ -1,1 +1,1 @@
-var mnemonic = "weather business dish project sudden sugar oval uniform culture first allow topic";
+var mnemonic = "term essay trouble else metal detail success bachelor must dose uniform gauge";

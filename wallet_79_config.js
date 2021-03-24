@@ -1,1 +1,1 @@
-var mnemonic = "elbow squirrel trash era kangaroo buffalo boring begin sign potato endorse summer";
+var mnemonic = "coffee wool arena forget stove bamboo inform body teach dose bind exile";

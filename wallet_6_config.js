@@ -1,1 +1,1 @@
-var mnemonic = "example episode join habit jealous frequent vague ankle receive sun oak moment";
+var mnemonic = "outdoor rough physical apple limb biology suffer ship jaguar patient close lecture";

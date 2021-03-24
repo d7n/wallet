@@ -1,1 +1,1 @@
-var mnemonic = "position lobster horror cool adult umbrella outside coil rule call hat divide";
+var mnemonic = "world claim tent team denial mystery verify math there desk speak address";

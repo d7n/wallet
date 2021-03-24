@@ -1,1 +1,1 @@
-var mnemonic = "material long style train tenant enroll enemy strike else truck lounge convince";
+var mnemonic = "pioneer mistake include antique benefit sample lizard viable violin guide network coach";

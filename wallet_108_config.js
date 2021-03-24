@@ -1,1 +1,1 @@
-var mnemonic = "party seed grape weapon auction betray mixture offer security fit erode raw";
+var mnemonic = "mobile corn list wink distance zebra shop true talent sentence hamster review";

@@ -1,1 +1,1 @@
-var mnemonic = "common circle rescue anxiety muscle town label pipe expire raise follow guilt";
+var mnemonic = "flock baby kidney twist supply spike cable cube surround seminar child regular";

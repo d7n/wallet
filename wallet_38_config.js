@@ -1,1 +1,1 @@
-var mnemonic = "already bring march code vivid neglect whale mouse throw dinner control treat";
+var mnemonic = "strike tone peace crawl correct slice hat job draw aerobic hobby universe";

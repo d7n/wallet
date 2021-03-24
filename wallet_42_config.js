@@ -1,1 +1,1 @@
-var mnemonic = "test evolve civil electric exercise pear blue fetch injury ride execute shoulder";
+var mnemonic = "more canal fade strong fan jewel arrow donkey dynamic milk blossom exhaust";

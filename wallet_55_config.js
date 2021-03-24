@@ -1,1 +1,1 @@
-var mnemonic = "fat normal front jaguar net off road rib favorite mandate load mesh";
+var mnemonic = "margin girl arrest audit sheriff surface benefit churn sibling describe drop couple";

@@ -1,1 +1,1 @@
-var mnemonic = "radio dad ring orient forum surround double desert gadget panel climb effort";
+var mnemonic = "wolf enhance breeze labor control bleak tide adult video copy void supreme";

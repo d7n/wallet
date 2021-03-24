@@ -1,1 +1,1 @@
-var mnemonic = "useful royal owner soccer toast aunt lyrics chapter distance wise fish head";
+var mnemonic = "gorilla dice soon welcome habit describe potato task bunker ketchup describe demand";

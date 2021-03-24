@@ -1,1 +1,1 @@
-var mnemonic = "army tiny radio later daughter tennis arch rocket runway nephew artwork bench";
+var mnemonic = "index result shadow process flat hospital trust kiwi gun excuse notable apple";

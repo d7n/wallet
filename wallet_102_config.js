@@ -1,1 +1,1 @@
-var mnemonic = "bird problem alarm coast relief dutch urge visa custom drift arrest atom";
+var mnemonic = "loud raise cannon amount juice misery little cupboard pet absent vendor add";

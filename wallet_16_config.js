@@ -1,1 +1,1 @@
-var mnemonic = "voice innocent issue census similar hospital clog cradle sell become slush saddle";
+var mnemonic = "scrap sense dawn voice assume lonely wine actual absent catalog soap enforce";

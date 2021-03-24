@@ -1,1 +1,1 @@
-var mnemonic = "music soup exclude predict apple must flame easy either exhibit toilet spy";
+var mnemonic = "word seek praise run trade snap voyage arch menu boat sun ketchup";

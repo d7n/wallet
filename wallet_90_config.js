@@ -1,1 +1,1 @@
-var mnemonic = "inherit later canvas fiction shaft boy present input measure noodle control toddler";
+var mnemonic = "avoid satisfy crumble price elder eight knee prepare wreck bus silly spoil";

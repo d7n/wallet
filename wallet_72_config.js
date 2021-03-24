@@ -1,1 +1,1 @@
-var mnemonic = "walnut network arrow cart case load crush report olympic digital during fiber";
+var mnemonic = "crunch candy useful old view picnic breeze bullet chapter token unknown churn";

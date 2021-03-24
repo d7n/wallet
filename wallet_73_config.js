@@ -1,1 +1,1 @@
-var mnemonic = "tool ecology novel field sport limb hundred bonus ostrich hamster hurt wing";
+var mnemonic = "use dice wall catalog palace bench control about leg air tobacco margin";

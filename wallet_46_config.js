@@ -1,1 +1,1 @@
-var mnemonic = "baby silly rhythm among biology dish frown calm music decade amateur card";
+var mnemonic = "cannon pitch across planet burger bracket parrot broom rookie bunker february robot";

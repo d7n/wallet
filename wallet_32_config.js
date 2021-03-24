@@ -1,1 +1,1 @@
-var mnemonic = "marriage praise bullet scale deputy guitar govern surge real wedding broken duty";
+var mnemonic = "fire casino earn tube skill solar prosper forest humble tortoise crash creek";

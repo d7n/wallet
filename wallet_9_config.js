@@ -1,1 +1,1 @@
-var mnemonic = "receive finish host idea drastic argue helmet reveal shop seat write hard";
+var mnemonic = "more marine demise horn quote collect demise steak crumble invest design pet";

@@ -1,1 +1,1 @@
-var mnemonic = "venture shallow obtain attitude easy hill south gather fatigue ignore someone rude";
+var mnemonic = "vessel fluid task buyer puppy loan trouble garbage salt flame coil raise";

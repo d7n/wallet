@@ -1,1 +1,1 @@
-var mnemonic = "unveil solution chef unit execute essence beauty physical moon vote radar hotel";
+var mnemonic = "question lawn hidden dad decline column segment manage debris tourist inject parent";

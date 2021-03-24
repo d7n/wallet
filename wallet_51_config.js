@@ -1,1 +1,1 @@
-var mnemonic = "holiday hockey library minimum rural act margin cover grab agree before ring";
+var mnemonic = "pizza drive retire light pattern pact dry push denial pizza yard deer";

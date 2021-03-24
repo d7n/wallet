@@ -1,1 +1,1 @@
-var mnemonic = "flip birth cotton mouse normal page ship harsh income avoid crazy hazard";
+var mnemonic = "school window cheese olympic spot sustain jar burst caught nothing castle shock";

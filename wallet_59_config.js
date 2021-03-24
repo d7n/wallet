@@ -1,1 +1,1 @@
-var mnemonic = "hockey clean evolve tray cotton zero accuse stone chicken athlete rather celery";
+var mnemonic = "miracle cabin kiwi local hybrid globe crumble donate almost promote fly wash";

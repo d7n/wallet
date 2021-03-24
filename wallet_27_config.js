@@ -1,1 +1,1 @@
-var mnemonic = "state praise obey shove useful grain crater maid patch renew rent know";
+var mnemonic = "mistake program mango punch produce job power inspire enforce law found crack";

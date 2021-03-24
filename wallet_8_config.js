@@ -1,1 +1,1 @@
-var mnemonic = "earn judge useless super bracket solar royal absorb wrestle wedding party notice";
+var mnemonic = "abstract dirt damage glare entire horse decline forum hundred sock kite arena";

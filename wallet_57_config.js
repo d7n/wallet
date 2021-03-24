@@ -1,1 +1,1 @@
-var mnemonic = "vintage garlic truck blame detail sniff explain parrot way love more turtle";
+var mnemonic = "grief raccoon clap sheriff sorry rose axis cause bulk original allow cannon";

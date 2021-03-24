@@ -1,1 +1,1 @@
-var mnemonic = "control hand fade gaze bronze exact journey tattoo ozone demand oak gown";
+var mnemonic = "misery suffer core blind afraid custom tackle left simple lend design february";

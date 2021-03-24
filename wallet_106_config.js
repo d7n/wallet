@@ -1,1 +1,1 @@
-var mnemonic = "endless calm decrease coral under truck pill long issue slender coyote ask";
+var mnemonic = "rhythm question prosper juice absent attend involve desk goddess vehicle cheap salt";

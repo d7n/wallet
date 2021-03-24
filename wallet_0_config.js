@@ -1,1 +1,1 @@
-var mnemonic = "raven alley neck noble honey student display north coin bright box produce";
+var mnemonic = "margin virus betray catalog thing employ resist swift rare waste science drop";

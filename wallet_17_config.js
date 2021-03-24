@@ -1,1 +1,1 @@
-var mnemonic = "choose imitate brown fresh simple will west place ahead census loan inner";
+var mnemonic = "carbon illness upon simple bag artwork absurd swim wrist siren nominee will";

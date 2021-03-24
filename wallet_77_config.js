@@ -1,1 +1,1 @@
-var mnemonic = "present record service jeans steak blanket arm comfort emotion movie blade duck";
+var mnemonic = "occur room april lumber flag infant swift viable river ecology mouse love";

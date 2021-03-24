@@ -1,1 +1,1 @@
-var mnemonic = "critic spray fish room economy never trust group orient quick assist trend";
+var mnemonic = "special alpha symbol cake label behave seven liquid soda flock skin fantasy";

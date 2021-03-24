@@ -1,1 +1,1 @@
-var mnemonic = "gospel throw lunch royal super aspect cricket cream lens wear orbit pull";
+var mnemonic = "juice night gauge object amateur cross prison dial nasty session close census";

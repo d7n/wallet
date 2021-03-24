@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon hockey index lock erosion also pipe knee lumber canal verify orange";
+var mnemonic = "detail frame equal breeze protect mercy ranch side behave attack dismiss deputy";

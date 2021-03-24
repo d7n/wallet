@@ -1,1 +1,1 @@
-var mnemonic = "onion desert reward shrimp split home also wolf train pull iron edit";
+var mnemonic = "curve divide rude desert buyer type predict smart grant age diesel half";

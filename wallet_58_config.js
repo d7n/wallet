@@ -1,1 +1,1 @@
-var mnemonic = "suit result this romance foam hood amazing oblige erupt fossil flat project";
+var mnemonic = "work earn because hospital globe helmet salon hotel mom neutral steel edit";

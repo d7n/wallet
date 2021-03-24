@@ -1,1 +1,1 @@
-var mnemonic = "annual shrimp bench craft bulb hill coffee law fault have tennis grace";
+var mnemonic = "sketch olympic candy crawl used blade junior tumble snow margin border exercise";

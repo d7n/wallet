@@ -1,1 +1,1 @@
-var mnemonic = "review blossom digital panda card action ceiling royal coach measure bicycle gym";
+var mnemonic = "brother sibling way belt sail sustain frame crop kingdom cover curious morning";

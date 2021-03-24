@@ -1,1 +1,1 @@
-var mnemonic = "argue boat coin margin typical nice high ski load cluster defense dust";
+var mnemonic = "snake treat chase target rough alone episode left diesel friend improve frog";

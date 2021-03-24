@@ -1,1 +1,1 @@
-var mnemonic = "three daughter comfort neither divert melody curtain dutch fee fold pitch exhaust";
+var mnemonic = "fog exhibit chaos cruise embrace sadness valve cart purity love inflict giggle";

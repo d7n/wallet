@@ -1,1 +1,1 @@
-var mnemonic = "step spatial idea picnic hub attack fetch range coin mandate remind require";
+var mnemonic = "issue grit castle decide tip sing roof armed congress street couple crater";

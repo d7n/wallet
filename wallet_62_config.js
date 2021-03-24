@@ -1,1 +1,1 @@
-var mnemonic = "enhance carry capable ivory bird polar buyer achieve glove goddess attitude invest";
+var mnemonic = "useful exchange august mask bitter consider slam display century emotion game carbon";

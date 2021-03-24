@@ -1,1 +1,1 @@
-var mnemonic = "zone pull canal damp pole admit pear swear awesome reward poem tomorrow";
+var mnemonic = "worth reject talent panda purity actress insane bulb interest cost sphere act";

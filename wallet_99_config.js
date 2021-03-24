@@ -1,1 +1,1 @@
-var mnemonic = "infant bargain ugly dutch stay theory earn plug foot enlist discover element";
+var mnemonic = "domain side market team reason thing swallow square oblige wreck raven rough";

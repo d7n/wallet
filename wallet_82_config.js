@@ -1,1 +1,1 @@
-var mnemonic = "captain assist celery smile say jump broccoli minimum scene say damp argue";
+var mnemonic = "foster warm ghost away learn motion decrease domain dismiss grass face open";

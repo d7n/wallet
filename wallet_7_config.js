@@ -1,1 +1,1 @@
-var mnemonic = "name observe there mix recipe vibrant silk control warfare pelican champion metal";
+var mnemonic = "coconut fancy club secret ketchup slush attend hotel orchard orient employ chair";

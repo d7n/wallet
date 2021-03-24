@@ -1,1 +1,1 @@
-var mnemonic = "require have cage knife cricket slogan manual disease bullet column frost eager";
+var mnemonic = "grit decide bar idea real cabbage prosper fragile search learn apart elephant";
