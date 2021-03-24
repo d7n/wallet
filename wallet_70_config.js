@@ -1,1 +1,1 @@
-var mnemonic = "step isolate great crop trumpet song early sibling fortune aware brush comfort";
+var mnemonic = "man armed appear able net empty transfer inch scheme wrong save spring";

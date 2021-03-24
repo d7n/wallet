@@ -1,1 +1,1 @@
-var mnemonic = "call home right scatter galaxy divert render border position isolate direct taste";
+var mnemonic = "travel toss squirrel sunset shrug phrase frog round ugly sadness put subject";

@@ -1,1 +1,1 @@
-var mnemonic = "direct reopen beach wolf goose junior lobster dance tragic situate thing loud";
+var mnemonic = "tail congress shrug trial shrug thumb ramp shrimp jar empty mandate evolve";

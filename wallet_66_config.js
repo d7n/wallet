@@ -1,1 +1,1 @@
-var mnemonic = "harsh oven laugh meat pigeon coyote rent wisdom tired pave sting ranch";
+var mnemonic = "immense mistake lock tissue era bring dawn flush father design head aerobic";

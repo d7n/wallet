@@ -1,1 +1,1 @@
-var mnemonic = "casual vivid elder text cram error panther resource debris south violin license";
+var mnemonic = "century often sort rare picnic fashion doctor report rubber practice gesture reduce";

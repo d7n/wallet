@@ -1,1 +1,1 @@
-var mnemonic = "bus exist identify humble shoot muffin crunch minor when million someone relax";
+var mnemonic = "evoke lady elbow bench awesome noble great upon issue trust random throw";

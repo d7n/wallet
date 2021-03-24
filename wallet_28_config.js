@@ -1,1 +1,1 @@
-var mnemonic = "sight satisfy reflect balance truth accuse senior double disorder often mother announce";
+var mnemonic = "defense weekend explain throw pulse exchange cabbage describe blur happy letter glad";

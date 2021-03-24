@@ -1,1 +1,1 @@
-var mnemonic = "grain pipe fatal obscure chalk lift satisfy chimney matrix silver paper moral";
+var mnemonic = "roof ecology execute erase change oven harvest shield miss oppose recall repair";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic benefit fault build grab word warfare circle invest disease team ask";
+var mnemonic = "student skirt spike staff mom gossip offer accuse portion embody outdoor route";

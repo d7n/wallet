@@ -1,1 +1,1 @@
-var mnemonic = "elder budget left syrup radio wreck toward merry enemy organ model tourist";
+var mnemonic = "exit sand weekend cube useful inch source spell expand income dynamic net";

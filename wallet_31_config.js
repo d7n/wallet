@@ -1,1 +1,1 @@
-var mnemonic = "hammer describe onion alarm again broken material donor test symbol despair march";
+var mnemonic = "obscure upper obvious tide bronze eager poet cross amused pizza ticket expand";

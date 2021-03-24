@@ -1,1 +1,1 @@
-var mnemonic = "advice net ladder old morning surprise kitchen thumb turtle guitar lady craft";
+var mnemonic = "victory double fence include evoke faculty correct impulse weekend dress orbit address";

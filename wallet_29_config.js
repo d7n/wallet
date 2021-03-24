@@ -1,1 +1,1 @@
-var mnemonic = "obey car bubble audit pulse hurt volume coil subway clap sudden wire";
+var mnemonic = "act saddle game asthma inspire public few someone october coin visit fit";

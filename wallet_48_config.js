@@ -1,1 +1,1 @@
-var mnemonic = "magnet paddle clean response lake skirt boring defense spoon mass will school";
+var mnemonic = "field polar kite hockey salmon desert dad hello range warfare food kit";

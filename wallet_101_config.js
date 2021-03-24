@@ -1,1 +1,1 @@
-var mnemonic = "erupt flush pulp stone various achieve connect prepare talent gasp still ensure";
+var mnemonic = "food pact property grid arm creek assault another fury tone recipe laundry";

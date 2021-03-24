@@ -1,1 +1,1 @@
-var mnemonic = "dumb twin notice aunt exhibit age heart dwarf rose private hungry photo";
+var mnemonic = "suspect supreme ski accuse shoulder vehicle pair appear soldier cupboard glass piece";

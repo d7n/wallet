@@ -1,1 +1,1 @@
-var mnemonic = "recipe radar estate six pull grant total bar business riot note lesson";
+var mnemonic = "taste mom denial end seven end quote shed wrong dirt primary sunset";

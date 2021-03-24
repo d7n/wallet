@@ -1,1 +1,1 @@
-var mnemonic = "modify improve bag labor real photo magnet hair yard lava ripple kangaroo";
+var mnemonic = "wrist fade miss joy tennis bubble learn head awkward cake innocent leaf";

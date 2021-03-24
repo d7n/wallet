@@ -1,1 +1,1 @@
-var mnemonic = "weather joke vault decade moment rubber truly slam festival attitude lyrics unfold";
+var mnemonic = "around fan forest abandon group volume bright upgrade web surround youth segment";

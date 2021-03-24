@@ -1,1 +1,1 @@
-var mnemonic = "dry fossil stand combine siege machine oven cousin evolve essay tree flag";
+var mnemonic = "spend matter breeze ask perfect shed dune taxi street elite arrive cross";

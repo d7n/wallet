@@ -1,1 +1,1 @@
-var mnemonic = "foster dutch scout gasp leg foil coconut quality lottery general embody jazz";
+var mnemonic = "cinnamon viable pilot twice layer balance hill day broom garlic chair disease";

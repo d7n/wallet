@@ -1,1 +1,1 @@
-var mnemonic = "enable crunch jazz carbon stand scene pioneer ball tail fun coyote life";
+var mnemonic = "fetch marriage pluck trade network strike snack door mom follow achieve eye";

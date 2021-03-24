@@ -1,1 +1,1 @@
-var mnemonic = "maid copper they enjoy acid genius firm glance immense lucky that endless";
+var mnemonic = "phrase assist just soft usual pretty error lobster manual mutual unfair blouse";

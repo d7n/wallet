@@ -1,1 +1,1 @@
-var mnemonic = "assist shed estate universe process angle post release adapt number electric scatter";
+var mnemonic = "input blame priority food abandon essay inch mass menu wine pipe route";

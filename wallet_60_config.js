@@ -1,1 +1,1 @@
-var mnemonic = "muscle unfair one daughter blind shoe surge unfair test envelope cupboard demand";
+var mnemonic = "shed coin ritual glue raise resist horror bronze wife stamp degree license";

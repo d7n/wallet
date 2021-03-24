@@ -1,1 +1,1 @@
-var mnemonic = "exercise live humor photo attract relief artwork tragic reason onion uncover usual";
+var mnemonic = "happy they retreat orchard cancel chief rocket squeeze public pact problem drop";

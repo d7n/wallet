@@ -1,1 +1,1 @@
-var mnemonic = "erase gown mind elite original dynamic lemon enact awesome excuse cheese minor";
+var mnemonic = "rug cliff match talent truck add crane ethics monster unable occur coast";

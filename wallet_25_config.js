@@ -1,1 +1,1 @@
-var mnemonic = "nation best fence stable rib monster peanut piece glance popular turtle spatial";
+var mnemonic = "jar scrap notice way endorse print crater wine prefer save account upgrade";

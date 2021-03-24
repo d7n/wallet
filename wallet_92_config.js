@@ -1,1 +1,1 @@
-var mnemonic = "aim peanut envelope lens style junior remove cannon cigar hat bread insect";
+var mnemonic = "soon quarter flag elite giant away scout weather pear teach school flock";

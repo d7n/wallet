@@ -1,1 +1,1 @@
-var mnemonic = "law perfect sorry certain adapt bid wild during garden hip mercy pause";
+var mnemonic = "seek happy seminar vicious chair beach outside expect pattern filter grow mad";

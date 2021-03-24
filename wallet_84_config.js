@@ -1,1 +1,1 @@
-var mnemonic = "fiber century lumber inherit charge nose bottom skill play miss betray balance";
+var mnemonic = "metal draw limit pond cube parade record evidence text suit lift borrow";

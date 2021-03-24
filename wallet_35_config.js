@@ -1,1 +1,1 @@
-var mnemonic = "soccer since shallow finish room famous clay prize scene timber penalty wet";
+var mnemonic = "change planet skull rib security peanut source kitten thank crunch series hello";

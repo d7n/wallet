@@ -1,1 +1,1 @@
-var mnemonic = "know nominee cattle fury what inherit scrub nose oppose recall uncover liquid";
+var mnemonic = "anger undo soda trip expect street onion moral journey wave witness unit";

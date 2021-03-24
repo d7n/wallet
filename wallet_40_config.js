@@ -1,1 +1,1 @@
-var mnemonic = "taste license sunny nature party federal behind under sting typical dog soon";
+var mnemonic = "slender trophy notice bid differ skill jeans dynamic egg burden rebel dynamic";

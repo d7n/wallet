@@ -1,1 +1,1 @@
-var mnemonic = "habit soon priority target average immune oak wild quiz butter exchange toast";
+var mnemonic = "menu wrap trust wing repair tobacco vicious snack proof fashion immune salt";

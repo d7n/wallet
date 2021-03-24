@@ -1,1 +1,1 @@
-var mnemonic = "shop truth grape antique stand rocket catch inmate hover soda oven setup";
+var mnemonic = "version glance grain skirt window dumb palm pottery equal slab abuse undo";

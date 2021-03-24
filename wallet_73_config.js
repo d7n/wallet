@@ -1,1 +1,1 @@
-var mnemonic = "acquire sudden enemy one monster soap sword paper afraid wedding base gather";
+var mnemonic = "blanket curious either achieve lawsuit rice curious luggage sight acquire blur crane";

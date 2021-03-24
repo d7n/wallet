@@ -1,1 +1,1 @@
-var mnemonic = "riot agent office attitude flame silly evolve trumpet assume alert supreme desert";
+var mnemonic = "vacuum note rich about jar maximum title scale flash stove genre gap";

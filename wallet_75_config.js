@@ -1,1 +1,1 @@
-var mnemonic = "detect also tiger man pretty item celery cost legal flat unfold story";
+var mnemonic = "baby scissors cluster canvas raccoon climb seven tone point notable win fury";

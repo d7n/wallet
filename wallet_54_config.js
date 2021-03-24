@@ -1,1 +1,1 @@
-var mnemonic = "system stool security extend gentle lawn mutual east shove security lemon pigeon";
+var mnemonic = "table squirrel brief spirit swift wheel belt slim exclude season fossil accident";

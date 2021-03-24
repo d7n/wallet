@@ -1,1 +1,1 @@
-var mnemonic = "liberty exit twin notice basket loyal universe decorate diagram roast gentle imitate";
+var mnemonic = "govern moral violin ladder vacant source arm north coach narrow possible stove";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet visit thrive fame rescue tackle scatter animal history level inherit method";
+var mnemonic = "piano umbrella success bench bonus sunset floor label grunt slide umbrella pet";

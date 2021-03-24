@@ -1,1 +1,1 @@
-var mnemonic = "gorilla reject claim luggage victory adjust since option yellow ankle resource series";
+var mnemonic = "firm chaos wealth journey wage orphan belt myth federal quiz flat vault";

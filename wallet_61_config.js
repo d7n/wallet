@@ -1,1 +1,1 @@
-var mnemonic = "cupboard exhibit powder false mass casual dust mail frozen awful loud shrimp";
+var mnemonic = "check dismiss merge obtain road security purpose scatter forget rib feature raccoon";

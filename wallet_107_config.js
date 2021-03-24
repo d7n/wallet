@@ -1,1 +1,1 @@
-var mnemonic = "blind toe spirit toe allow team famous demise rug device finish embody";
+var mnemonic = "post document reason broken slim renew blanket best quick hazard sister business";

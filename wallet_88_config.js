@@ -1,1 +1,1 @@
-var mnemonic = "update logic title autumn erase valid junior north owner shop depend venue";
+var mnemonic = "must account oppose puzzle plastic taste file only gorilla hour photo wool";

@@ -1,1 +1,1 @@
-var mnemonic = "glow trophy mutual scrap cattle hunt initial loop situate reopen talent gap";
+var mnemonic = "tank high green inflict junior alert gather six fox cigar moral rebel";

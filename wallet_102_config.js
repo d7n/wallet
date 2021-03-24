@@ -1,1 +1,1 @@
-var mnemonic = "phone print mention pair dinosaur access orbit increase theory panel symptom coffee";
+var mnemonic = "dutch medal begin choose unlock modify hedgehog sadness innocent text sea december";

@@ -1,1 +1,1 @@
-var mnemonic = "submit loyal speed episode crime demise churn favorite stone ordinary time people";
+var mnemonic = "sight oblige trap lend museum goddess ice mandate carry dove expect grit";

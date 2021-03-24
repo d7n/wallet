@@ -1,1 +1,1 @@
-var mnemonic = "state dynamic provide lend mask auction brave dignity cheese hungry average fresh";
+var mnemonic = "fringe excess area shoe rotate captain actual base rival matrix exhaust sunset";

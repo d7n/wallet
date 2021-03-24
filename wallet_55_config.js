@@ -1,1 +1,1 @@
-var mnemonic = "update forward host vintage sea adjust census unfair learn curve arctic medal";
+var mnemonic = "science fetch surge cool bless crawl upon demand document blur vehicle explain";

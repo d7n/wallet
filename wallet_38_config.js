@@ -1,1 +1,1 @@
-var mnemonic = "hint notice sail replace vacuum enact connect fitness erosion arrest phrase tail";
+var mnemonic = "twenty scene illness recipe forest surround term vast reason organ lock student";

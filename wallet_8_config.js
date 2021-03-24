@@ -1,1 +1,1 @@
-var mnemonic = "bone mixture aunt garlic luggage wet describe dinner purpose enlist sibling detect";
+var mnemonic = "mutual escape lobster special destroy truck uncle fantasy error weird shell illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel seat reopen oak boss pool galaxy armor spoil treat speak hundred";
+var mnemonic = "catalog swim tattoo truth bag entire plunge pipe sting hour liquid sample";

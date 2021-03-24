@@ -1,1 +1,1 @@
-var mnemonic = "govern laundry want taste drum index hover annual orange split industry table";
+var mnemonic = "media video episode profit fix helmet enough click alien embark order leader";

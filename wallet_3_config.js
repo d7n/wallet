@@ -1,1 +1,1 @@
-var mnemonic = "spy local fault hill success spare jealous siren raven excess shine mean";
+var mnemonic = "sheriff inner sail license enlist coach layer false pause identify swing force";

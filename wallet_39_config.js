@@ -1,1 +1,1 @@
-var mnemonic = "saddle father drive essence tooth exhaust priority cat dry utility walnut sister";
+var mnemonic = "front rich lucky outside holiday embark spoon manual grace enough pave work";

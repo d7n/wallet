@@ -1,1 +1,1 @@
-var mnemonic = "enroll state trophy approve rigid crazy genius cruel muffin cloud hole census";
+var mnemonic = "dwarf burst convince announce drama timber include novel kick arctic diary knock";

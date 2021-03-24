@@ -1,1 +1,1 @@
-var mnemonic = "wage summer sick leave pen flavor teach swap secret dad lesson gate";
+var mnemonic = "tooth october empty wire exotic surge claw fade away drop amused palace";

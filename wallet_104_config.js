@@ -1,1 +1,1 @@
-var mnemonic = "exchange fever weapon fix frost carbon whale welcome tumble maze fish inquiry";
+var mnemonic = "suffer rule picnic upgrade visa away wing lawsuit often expect little tiger";

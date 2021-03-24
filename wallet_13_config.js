@@ -1,1 +1,1 @@
-var mnemonic = "junk clip rely wreck invite empower demise moral soccer above legal obvious";
+var mnemonic = "fiction girl attack hire average lecture advice sand drive receive drift access";

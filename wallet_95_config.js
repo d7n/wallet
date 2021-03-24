@@ -1,1 +1,1 @@
-var mnemonic = "enforce orange quarter bus brisk myth nominee prepare dust dolphin horse amazing";
+var mnemonic = "drop already budget dwarf oval gossip uphold plate eight attitude tennis mixture";

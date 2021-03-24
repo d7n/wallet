@@ -1,1 +1,1 @@
-var mnemonic = "borrow utility traffic segment cancel gown broccoli render manage maximum merry catalog";
+var mnemonic = "bulk lucky hole point frown real certain twelve recycle garlic stock sunset";

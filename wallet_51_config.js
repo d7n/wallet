@@ -1,1 +1,1 @@
-var mnemonic = "funny patrol filter velvet inject chicken paddle captain inflict onion ketchup boy";
+var mnemonic = "fringe coffee abuse million ozone labor anchor rural vote expose alone base";

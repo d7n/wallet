@@ -1,1 +1,1 @@
-var mnemonic = "culture task error churn monster boss cry culture tone hood tray verb";
+var mnemonic = "elite meadow trip aspect limit grain across soda wrestle scheme cabin cotton";

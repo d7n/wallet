@@ -1,1 +1,1 @@
-var mnemonic = "undo uncle ticket decrease parent define purpose they turtle invest gate cream";
+var mnemonic = "word trouble fetch improve two doll record grunt main solve dutch fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth dutch inform elevator raven toilet month bomb forget fortune estate joy";
+var mnemonic = "coast fortune public coyote maid police pipe okay visit height burden scare";

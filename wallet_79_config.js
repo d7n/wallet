@@ -1,1 +1,1 @@
-var mnemonic = "duck neutral omit nice ketchup agree office cable verify echo differ panic";
+var mnemonic = "profit wisdom initial security acid waste tunnel adult physical light brother sell";

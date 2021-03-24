@@ -1,1 +1,1 @@
-var mnemonic = "pond agent segment amused appear sure hotel erode target element craft adapt";
+var mnemonic = "title depth infant supply egg shoot misery bid bright grit ivory laundry";

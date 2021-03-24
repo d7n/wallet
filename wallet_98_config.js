@@ -1,1 +1,1 @@
-var mnemonic = "chunk annual sun fee caught trumpet slogan crumble trigger print own swarm";
+var mnemonic = "dinner quarter poverty tennis shock puzzle suspect sign dry country aerobic baby";

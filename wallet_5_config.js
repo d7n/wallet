@@ -1,1 +1,1 @@
-var mnemonic = "bar flame spin fix language sport attack hospital rescue cushion undo payment";
+var mnemonic = "monitor kingdom armed pluck pulp gate hotel quiz key pause frog addict";

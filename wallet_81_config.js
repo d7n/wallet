@@ -1,1 +1,1 @@
-var mnemonic = "swap seven pen bubble pottery goddess clinic clog direct general athlete deputy";
+var mnemonic = "way involve suit copper raven feed coral teach venue jacket satoshi flip";

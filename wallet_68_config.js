@@ -1,1 +1,1 @@
-var mnemonic = "future grief dizzy movie express hub nurse poverty glimpse they canoe room";
+var mnemonic = "infant box dignity polar grant hint depth cruise decade avocado unlock guilt";

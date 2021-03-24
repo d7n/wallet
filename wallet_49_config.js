@@ -1,1 +1,1 @@
-var mnemonic = "exercise pistol motor tourist asthma endorse this river toe entry point tuna";
+var mnemonic = "detail quick company number pink seven siege neutral genuine junk again gym";

@@ -1,1 +1,1 @@
-var mnemonic = "girl boss kitchen boss patient harsh roof market uphold pave reason already";
+var mnemonic = "side size bridge north shallow cake ankle voice unable garlic notable pulse";

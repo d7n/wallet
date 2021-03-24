@@ -1,1 +1,1 @@
-var mnemonic = "hill parent evil number select snake caught pole unit weather divorce ordinary";
+var mnemonic = "brain amused split breeze dentist steak mail case soft amused slim lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "neither what wife apology try across chest asthma must sock floor vocal";
+var mnemonic = "sausage direct omit hold price inquiry island laugh north wool parade fancy";

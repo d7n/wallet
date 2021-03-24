@@ -1,1 +1,1 @@
-var mnemonic = "clutch mad era boss confirm glove tank desert auto sunny wink behave";
+var mnemonic = "want ranch siren collect usual expose alter health lounge crazy twice about";

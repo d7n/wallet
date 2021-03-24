@@ -1,1 +1,1 @@
-var mnemonic = "crush deny wet often music purchase course very depend crisp farm spend";
+var mnemonic = "alcohol across december lottery hand text song hard enemy air slam student";

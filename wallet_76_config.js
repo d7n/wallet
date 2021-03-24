@@ -1,1 +1,1 @@
-var mnemonic = "current welcome awake puppy milk ecology trial gap end appear cool tuna";
+var mnemonic = "claim scene gauge sad cliff laugh trigger rocket myth clutch age essence";

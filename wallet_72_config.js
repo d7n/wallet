@@ -1,1 +1,1 @@
-var mnemonic = "cry unusual arrow camp approve coyote else february alien cherry casual marble";
+var mnemonic = "scout refuse wrist isolate silent lend figure absorb hood dance bullet column";

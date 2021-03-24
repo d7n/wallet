@@ -1,1 +1,1 @@
-var mnemonic = "almost nose wisdom humble script glass plastic mention disease road bag dream";
+var mnemonic = "purchase require raise connect head arrest expire misery loop helmet runway code";

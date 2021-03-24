@@ -1,1 +1,1 @@
-var mnemonic = "birth calm portion guess picture raccoon glimpse sniff sauce soon upset absent";
+var mnemonic = "artist light faculty mind citizen casino trash road suspect bike vapor tongue";

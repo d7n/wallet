@@ -1,1 +1,1 @@
-var mnemonic = "artist coast van spy code allow call mixed castle arch balance bitter";
+var mnemonic = "age arrange flavor tribe cool forum edge scale skin hip pave chief";

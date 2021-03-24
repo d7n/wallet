@@ -1,1 +1,1 @@
-var mnemonic = "dream owner midnight torch round nation come blouse top nature arctic upset";
+var mnemonic = "text indicate dirt wall struggle stadium wealth elder friend smart simple ball";

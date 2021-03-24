@@ -1,1 +1,1 @@
-var mnemonic = "measure rally inner negative crop rose garbage degree solid expect rug fence";
+var mnemonic = "ten benefit spawn bottom mad father hazard urban fatal arrow lottery sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "wife large disease forget spider give random question life bicycle betray column";
+var mnemonic = "lake before receive myth desk future enact gaze unusual improve expand canvas";

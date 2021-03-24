@@ -1,1 +1,1 @@
-var mnemonic = "right tree vintage worry mesh wreck drive comfort argue train text silver";
+var mnemonic = "simple pudding voyage battle leave mail foster garage neglect physical purity more";

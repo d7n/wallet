@@ -1,1 +1,1 @@
-var mnemonic = "today person nation wink trim mammal weekend disagree emerge unhappy crouch penalty";
+var mnemonic = "short armor method huge zoo visit remove arrive cake metal dad describe";

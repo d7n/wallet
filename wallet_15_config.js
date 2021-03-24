@@ -1,1 +1,1 @@
-var mnemonic = "essay soap lady mystery inch stable absurd cry very oppose bind broken";
+var mnemonic = "lens action furnace time upset purse exile next ecology uniform govern endless";

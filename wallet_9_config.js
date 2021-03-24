@@ -1,1 +1,1 @@
-var mnemonic = "bean refuse admit absent myself cabbage toy erase ladder axis because thought";
+var mnemonic = "wash above junk trust try ecology trigger vacant dove cruise light leopard";
