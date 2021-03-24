@@ -1,1 +1,1 @@
-var mnemonic = "knock adult cement guard sauce distance over present concert vibrant invite inquiry";
+var mnemonic = "hurry magic kidney promote goose then coast beyond enough absurd negative era";

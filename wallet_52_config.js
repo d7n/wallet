@@ -1,1 +1,1 @@
-var mnemonic = "green leader arrow eyebrow verify either bright trouble clay manage figure else";
+var mnemonic = "judge illness conduct trial lonely soul initial cigar easy remember cinnamon vault";

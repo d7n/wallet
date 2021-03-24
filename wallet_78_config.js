@@ -1,1 +1,1 @@
-var mnemonic = "silent surge jacket field tourist heart height satisfy skate aisle clock melody";
+var mnemonic = "rare remind pond surface paper turn reunion prevent power item couch narrow";

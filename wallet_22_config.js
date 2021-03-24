@@ -1,1 +1,1 @@
-var mnemonic = "stool claw kangaroo fabric wait acoustic advice rack sort still test snake";
+var mnemonic = "present sentence tube term two table father ketchup adapt car ride win";

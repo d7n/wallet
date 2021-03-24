@@ -1,1 +1,1 @@
-var mnemonic = "can near service scatter avocado abandon left prepare close aim any album";
+var mnemonic = "banner rural gaze rubber clerk drift zone ocean fabric usage deputy luggage";

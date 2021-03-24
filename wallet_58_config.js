@@ -1,1 +1,1 @@
-var mnemonic = "speak tornado real chair answer sign fuel deny delay shy stomach upgrade";
+var mnemonic = "dynamic raise one wheel when middle spin proud blind basic pig utility";

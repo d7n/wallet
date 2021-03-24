@@ -1,1 +1,1 @@
-var mnemonic = "sorry blood tape symptom crop dumb diesel october goose daring term become";
+var mnemonic = "amount disagree ridge arrive camp penalty spread coffee lemon grain poverty must";

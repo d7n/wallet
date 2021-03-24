@@ -1,1 +1,1 @@
-var mnemonic = "option romance obvious brass online trash outdoor giant mixture casual manage yellow";
+var mnemonic = "access maximum pill task oxygen expect company trend liquid patient match chef";

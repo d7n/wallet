@@ -1,1 +1,1 @@
-var mnemonic = "spawn maple column trash start vendor turtle victory bind announce armed midnight";
+var mnemonic = "believe dignity excuse appear hedgehog quit update decade pizza patrol retire theory";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard bachelor leave alley lake they knee speak turtle blur thunder argue";
+var mnemonic = "corn panda bid key evoke muscle follow wage swap check object dolphin";

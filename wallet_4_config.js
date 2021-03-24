@@ -1,1 +1,1 @@
-var mnemonic = "pear prevent winner frost target marine emerge camera market square prefer rescue";
+var mnemonic = "base invite whip flower donate found expect receive capital rocket beef baby";

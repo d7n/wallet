@@ -1,1 +1,1 @@
-var mnemonic = "today can analyst notable loop talk afford above word burger suit pelican";
+var mnemonic = "all scene appear welcome crane lecture daughter lawn gate invite lecture write";

@@ -1,1 +1,1 @@
-var mnemonic = "glide exile enroll sand artist cart planet calm purity throw suspect panther";
+var mnemonic = "egg coconut clock parade leopard basic tenant symbol ignore angle draft people";

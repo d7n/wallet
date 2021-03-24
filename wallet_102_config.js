@@ -1,1 +1,1 @@
-var mnemonic = "escape motor raccoon asset bridge brother grow scene involve sea action humor";
+var mnemonic = "potato squeeze oval pluck anxiety under general bulk milk salon setup tell";

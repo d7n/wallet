@@ -1,1 +1,1 @@
-var mnemonic = "toddler rubber brave wool lobster exist trust cause million fetch oven leisure";
+var mnemonic = "involve short gadget forum jaguar average debate weird draft defy sick earth";

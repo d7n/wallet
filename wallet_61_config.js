@@ -1,1 +1,1 @@
-var mnemonic = "earth electric slab zero typical nation melody abuse cattle trouble bench doll";
+var mnemonic = "river glow target road angry derive luxury ugly scale oxygen mansion boy";

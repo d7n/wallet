@@ -1,1 +1,1 @@
-var mnemonic = "process dismiss jacket peasant fatigue rocket zero chicken always fetch jewel caught";
+var mnemonic = "shield stove will pause crop gap tilt fitness benefit pitch debris kangaroo";

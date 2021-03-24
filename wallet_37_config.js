@@ -1,1 +1,1 @@
-var mnemonic = "snack submit crush fortune drive agent engage below voyage address unveil opinion";
+var mnemonic = "clap ill embark device tobacco high protect enforce vintage ceiling noble fiber";

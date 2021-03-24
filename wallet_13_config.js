@@ -1,1 +1,1 @@
-var mnemonic = "category video cotton lunar mixture chunk cotton prevent april treat brand tunnel";
+var mnemonic = "decorate float large worth dismiss cat prepare sport mansion cart taste catch";

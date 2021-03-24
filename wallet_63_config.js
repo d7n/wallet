@@ -1,1 +1,1 @@
-var mnemonic = "earn retreat scrub flip payment pigeon snow day human light guide hub";
+var mnemonic = "fault uniform churn rally story phrase small nose rude friend noise approve";

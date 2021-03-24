@@ -1,1 +1,1 @@
-var mnemonic = "buddy crawl erupt blossom rabbit object local tenant innocent excess august exhibit";
+var mnemonic = "upset toward room alarm sword filter empower rich frown rough talk column";

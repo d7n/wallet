@@ -1,1 +1,1 @@
-var mnemonic = "match exhaust dutch melody excite donkey february shed fat anchor adjust evidence";
+var mnemonic = "remind abandon jelly vessel muffin repeat ask stem swift split roast obtain";

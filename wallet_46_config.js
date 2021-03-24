@@ -1,1 +1,1 @@
-var mnemonic = "pilot lounge expire slogan illegal royal inherit input remind must congress chef";
+var mnemonic = "famous blur reopen trim immune spin orange carry indicate vessel glory essence";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy web father final feed tag air rack release buffalo satoshi cable";
+var mnemonic = "license island milk dance angry present luxury gold grape ill crash test";

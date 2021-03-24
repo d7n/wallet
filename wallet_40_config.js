@@ -1,1 +1,1 @@
-var mnemonic = "pear dust unique blast sponsor increase symptom uncle safe motion orient lonely";
+var mnemonic = "truck butter chunk tower trigger lesson amateur develop tattoo tribe enter blade";

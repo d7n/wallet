@@ -1,1 +1,1 @@
-var mnemonic = "put evolve route vapor assume public myself unique soft short expand armed";
+var mnemonic = "decide north unit credit innocent quarter shadow allow bitter blue gesture van";

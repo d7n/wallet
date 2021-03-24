@@ -1,1 +1,1 @@
-var mnemonic = "twelve ladder spare speak rug leg stage board cream render menu ankle";
+var mnemonic = "play hub unit dress garage noise zebra raccoon camp pistol illegal chief";

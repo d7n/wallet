@@ -1,1 +1,1 @@
-var mnemonic = "oil dream today satisfy punch daughter apology blouse promote pupil pepper umbrella";
+var mnemonic = "upgrade absorb royal million orient field armor quit nice surface entire topple";

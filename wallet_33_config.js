@@ -1,1 +1,1 @@
-var mnemonic = "wild odor pelican make mistake shop lizard major merry enable borrow liberty";
+var mnemonic = "thing plunge dentist butter private gasp silly host crunch team problem extend";

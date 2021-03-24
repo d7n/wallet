@@ -1,1 +1,1 @@
-var mnemonic = "balcony rival action brief mesh must kitten cause oblige boy ugly swamp";
+var mnemonic = "range tool stable double pipe wheat glow sea gift scheme vibrant tired";

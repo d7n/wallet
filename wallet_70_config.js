@@ -1,1 +1,1 @@
-var mnemonic = "educate used unknown spice jump rain legend accuse best mimic toward entry";
+var mnemonic = "scrub mechanic fatigue case pave crunch bicycle rare bottom vote acquire mass";

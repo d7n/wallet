@@ -1,1 +1,1 @@
-var mnemonic = "theory high between cloud smart rotate safe notable sick wolf action lecture";
+var mnemonic = "short vault join excite pave whisper nice ladder small casino man business";

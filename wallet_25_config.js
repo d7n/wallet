@@ -1,1 +1,1 @@
-var mnemonic = "horror focus escape inflict group electric object throw wire idea rail reject";
+var mnemonic = "swift cruel chuckle tenant play civil flock grab jacket easily swear fog";

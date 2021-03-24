@@ -1,1 +1,1 @@
-var mnemonic = "banana invest fortune hurt high fault asset casino flower balcony drum merit";
+var mnemonic = "garment glass liberty alarm belt inner reopen blossom atom cable enable board";

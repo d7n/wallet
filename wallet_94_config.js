@@ -1,1 +1,1 @@
-var mnemonic = "winner candy wonder cake consider now defense summer bracket rifle burst puppy";
+var mnemonic = "online loyal pyramid exist fruit ice dentist kick entire hobby student argue";

@@ -1,1 +1,1 @@
-var mnemonic = "room stool major fresh perfect race suffer pole chair usage okay runway";
+var mnemonic = "peace bone win civil banner roof mistake math enter blade quick help";

@@ -1,1 +1,1 @@
-var mnemonic = "witness film grit blade fossil thumb verb consider put near tape obtain";
+var mnemonic = "enhance unusual term slam gun ice stove elephant amount glance flock nation";

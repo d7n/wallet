@@ -1,1 +1,1 @@
-var mnemonic = "kitten forward caught exercise cry visual whip edge soldier fault isolate worth";
+var mnemonic = "neutral twin awkward senior weapon grace cabbage car sure party pet ribbon";

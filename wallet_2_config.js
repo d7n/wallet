@@ -1,1 +1,1 @@
-var mnemonic = "grape update impulse camera biology flight divide stool assault neck snap improve";
+var mnemonic = "rare give nation seminar force spread fold state group favorite reform want";

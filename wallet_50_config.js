@@ -1,1 +1,1 @@
-var mnemonic = "leader surprise weird estate major soup stereo time kick trade flock beyond";
+var mnemonic = "airport hub sorry actor robust athlete silver hard soul mobile olive era";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor palm drink online soap dignity believe toe margin surface jar like";
+var mnemonic = "nasty inside swing rough drive finish clean judge tide furnace frequent despair";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle kick water angle pipe vacant kind weird proof hand mutual ask";
+var mnemonic = "mansion deny desk flip can enroll body flip cross derive warrior release";

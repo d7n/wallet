@@ -1,1 +1,1 @@
-var mnemonic = "occur system clinic cotton wrong canal crunch glory dish then main eagle";
+var mnemonic = "trick differ uncover scale motion gain trust safe mansion retreat fluid bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "match mercy before stuff again track width vintage decade welcome absurd purchase";
+var mnemonic = "hover cable taxi law double conduct open doll main inherit rifle skull";

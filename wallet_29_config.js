@@ -1,1 +1,1 @@
-var mnemonic = "unusual runway physical maid balance galaxy fragile text sight talk liberty parent";
+var mnemonic = "aerobic wrist blood abandon giant hill oval rescue rocket dice learn recycle";

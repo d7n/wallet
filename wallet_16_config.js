@@ -1,1 +1,1 @@
-var mnemonic = "slice pupil panel page hedgehog rice pen dinner say siege margin please";
+var mnemonic = "innocent silver aerobic ski hello fuel supreme door play spatial glimpse envelope";

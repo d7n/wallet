@@ -1,1 +1,1 @@
-var mnemonic = "group sister hurt ticket amazing west strategy system ankle pelican assist add";
+var mnemonic = "fiber eyebrow seven finger can aware pear joy cry dove couch shed";

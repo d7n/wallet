@@ -1,1 +1,1 @@
-var mnemonic = "device hurdle number cross dinosaur fiction rookie all front trim blush acquire";
+var mnemonic = "humor palace loop mirror army bike airport fatigue spatial genuine actual stool";

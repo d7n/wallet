@@ -1,1 +1,1 @@
-var mnemonic = "answer move bonus pink wish raven ski arena dune minimum spot topic";
+var mnemonic = "tail unlock tank small task swim defy coffee another debris extend view";

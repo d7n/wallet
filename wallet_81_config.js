@@ -1,1 +1,1 @@
-var mnemonic = "flee clinic patrol post seminar evoke avoid black come champion cost predict";
+var mnemonic = "clay auction thumb flee dust stumble female normal practice job rug thunder";

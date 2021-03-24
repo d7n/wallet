@@ -1,1 +1,1 @@
-var mnemonic = "act insane common mountain swap erase discover ozone grab vehicle melody number";
+var mnemonic = "stadium blast depend coil dirt evoke twenty rate cement shop medal atom";

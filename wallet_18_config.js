@@ -1,1 +1,1 @@
-var mnemonic = "more behind exotic cave famous blood royal model battle wear include swamp";
+var mnemonic = "more enough cousin outside industry tray buffalo raw more oval axis climb";

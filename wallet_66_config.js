@@ -1,1 +1,1 @@
-var mnemonic = "horror bounce curve hip birth emerge sweet purity gallery edit material panda";
+var mnemonic = "fiber easily eye holiday fan city gauge obey husband harsh walnut ready";

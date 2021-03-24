@@ -1,1 +1,1 @@
-var mnemonic = "arena boat duck olive razor comic enough dirt steak figure acoustic wage";
+var mnemonic = "video duty assault traffic crane doll viable alert tape feed hunt wasp";

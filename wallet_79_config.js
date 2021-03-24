@@ -1,1 +1,1 @@
-var mnemonic = "ship frozen height slim grid desk across bomb express update acquire reject";
+var mnemonic = "sausage once urban mention put item gospel maximum charge host pill cool";

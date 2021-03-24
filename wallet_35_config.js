@@ -1,1 +1,1 @@
-var mnemonic = "kingdom champion riot alarm bacon canoe leisure lonely lawsuit scissors loud glare";
+var mnemonic = "dilemma scan tumble stamp thunder else mind lamp cruel summer permit half";

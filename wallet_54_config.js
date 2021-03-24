@@ -1,1 +1,1 @@
-var mnemonic = "denial guess dragon solar blame tunnel account vintage speak ranch lawn day";
+var mnemonic = "multiply hole cook yard tennis sleep fancy sausage pave noise barely resemble";

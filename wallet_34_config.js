@@ -1,1 +1,1 @@
-var mnemonic = "interest hotel save lion giggle emotion knock gorilla dismiss noodle certain demise";
+var mnemonic = "aspect exile basket donate asthma horse battle candy couch approve write school";

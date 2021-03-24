@@ -1,1 +1,1 @@
-var mnemonic = "myth sun awkward manage orphan sudden govern word diet knock anchor twin";
+var mnemonic = "letter body flight oven tuition stamp imitate pulse public credit cliff rigid";

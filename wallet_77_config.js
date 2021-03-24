@@ -1,1 +1,1 @@
-var mnemonic = "mind cost refuse absent trade aisle rug wrap keep dune artwork average";
+var mnemonic = "festival myth sugar ride unfold jealous cool science treat rotate dry horror";

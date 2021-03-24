@@ -1,1 +1,1 @@
-var mnemonic = "side model steel public soccer east grunt iron february undo fragile output";
+var mnemonic = "load display memory regret bronze dish fabric good keep theme voyage can";

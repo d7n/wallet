@@ -1,1 +1,1 @@
-var mnemonic = "manage cat dish sort lab video slogan alert hour head retire mix";
+var mnemonic = "wool anchor ozone author circle tree under roof hammer daughter off remind";

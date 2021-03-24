@@ -1,1 +1,1 @@
-var mnemonic = "slogan print poverty dumb strong alarm smooth mechanic holiday swallow magic wonder";
+var mnemonic = "zebra lucky area laundry crowd humor fiber story punch reform left bleak";

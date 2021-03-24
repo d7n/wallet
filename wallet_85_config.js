@@ -1,1 +1,1 @@
-var mnemonic = "eager story problem adjust worth tobacco virtual impulse canvas power scene random";
+var mnemonic = "idea simple ranch embody invest destroy turtle siren cart street pilot wonder";

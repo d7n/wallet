@@ -1,1 +1,1 @@
-var mnemonic = "review grace camera spare resource clip trip beauty mail rather apart rebel";
+var mnemonic = "phrase hurt conduct music lend earn cave marriage coach index club sell";

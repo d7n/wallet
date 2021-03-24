@@ -1,1 +1,1 @@
-var mnemonic = "motion crumble obvious curve kit jelly approve include sea sadness leg shoot";
+var mnemonic = "foster better gravity wonder attitude match walk crew tennis then engine come";

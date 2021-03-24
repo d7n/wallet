@@ -1,1 +1,1 @@
-var mnemonic = "robust potato suffer tip evidence senior false horse hold flock peasant author";
+var mnemonic = "battle genuine fall habit dolphin arena reunion shrimp ridge winner boost coil";

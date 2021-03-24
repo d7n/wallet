@@ -1,1 +1,1 @@
-var mnemonic = "prepare impose volcano cup remind nose cry fruit vessel owner cotton offer";
+var mnemonic = "sadness silver balance thank corn item oak foot artist firm lion tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle cement outdoor finger rack broccoli city indicate spoon goat cry escape";
+var mnemonic = "tree act shield net library peasant unveil document junior average budget flame";

@@ -1,1 +1,1 @@
-var mnemonic = "invite verify cliff drastic sure agree off pill renew blame pool spin";
+var mnemonic = "news explain ticket forum forum walk legend horror certain flight avoid filter";

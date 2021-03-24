@@ -1,1 +1,1 @@
-var mnemonic = "unit pill text divide loyal uncle polar best awake powder vital cat";
+var mnemonic = "airport filter attack violin orbit educate nose address rent charge vocal primary";

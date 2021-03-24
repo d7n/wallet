@@ -1,1 +1,1 @@
-var mnemonic = "brother crash awesome ketchup fashion spatial nut canoe panther barrel text dawn";
+var mnemonic = "label left whale shoot sight canvas oblige penalty bottom zebra either entire";

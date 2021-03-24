@@ -1,1 +1,1 @@
-var mnemonic = "trigger just panic dream opinion melody voice divide unveil crouch language weasel";
+var mnemonic = "park predict iron interest forward state fade bridge connect provide stadium lucky";

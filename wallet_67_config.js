@@ -1,1 +1,1 @@
-var mnemonic = "tide crash humble month uniform plunge poet manual reveal mask push neck";
+var mnemonic = "like match fringe unlock mountain december hope seven ancient gas salmon vehicle";

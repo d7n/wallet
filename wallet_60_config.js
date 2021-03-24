@@ -1,1 +1,1 @@
-var mnemonic = "security voyage over defense click core comfort welcome online feature arrange bid";
+var mnemonic = "exact lucky almost student proof text unable tongue plug robot concert glad";

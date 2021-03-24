@@ -1,1 +1,1 @@
-var mnemonic = "cement drink toss when panel retreat dog someone brave denial brief hard";
+var mnemonic = "lottery dust wedding expire alone box miss enemy blue veteran suffer faith";

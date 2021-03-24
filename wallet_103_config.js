@@ -1,1 +1,1 @@
-var mnemonic = "identify join exist shop pipe hen carry galaxy vocal creek slush plunge";
+var mnemonic = "odor chaos survey behind coyote egg vital pretty mandate merge damage depend";

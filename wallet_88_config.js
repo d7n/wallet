@@ -1,1 +1,1 @@
-var mnemonic = "move salon into leader police flag claw frequent hawk meadow thing lyrics";
+var mnemonic = "program blur sell casino nerve lift tomato direct field amateur illness label";

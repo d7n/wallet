@@ -1,1 +1,1 @@
-var mnemonic = "fence law olympic delay retreat muffin ridge enough mixed fuel action palm";
+var mnemonic = "modify they trip glass army world giraffe body keen net explain final";

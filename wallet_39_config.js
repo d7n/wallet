@@ -1,1 +1,1 @@
-var mnemonic = "notable settle turtle sight harsh wave onion mystery cry age ridge lens";
+var mnemonic = "grow lemon cave cupboard galaxy bulb useful snap position foster force above";

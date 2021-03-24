@@ -1,1 +1,1 @@
-var mnemonic = "join simple curtain fame ancient aspect regret erase enter scan spin endorse";
+var mnemonic = "carbon tenant dog list chaos job price flat shaft tortoise prison distance";

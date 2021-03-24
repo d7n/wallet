@@ -1,1 +1,1 @@
-var mnemonic = "flight carry rain profit poem found clock biology defy pill area reason";
+var mnemonic = "youth chef february motion birth sudden convince journey guide galaxy lift charge";

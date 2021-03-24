@@ -1,1 +1,1 @@
-var mnemonic = "amused sadness little myth walnut hazard ketchup toilet smile fade merit vast";
+var mnemonic = "problem agree promote weapon enlist place young rug clog fortune found cabin";

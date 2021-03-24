@@ -1,1 +1,1 @@
-var mnemonic = "shoulder solve hero also crisp gasp struggle cave swim surge outdoor ill";
+var mnemonic = "boost quote few crystal vacant dilemma dice pledge seven core desert scheme";

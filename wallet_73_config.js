@@ -1,1 +1,1 @@
-var mnemonic = "first cube lady dragon actor say salad tonight elder taste warfare pottery";
+var mnemonic = "there chunk blanket drama february leg inherit around cabin sheriff result screen";

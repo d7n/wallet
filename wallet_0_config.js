@@ -1,1 +1,1 @@
-var mnemonic = "female zoo track sound cotton diagram vault eager panther fire slush mammal";
+var mnemonic = "indicate all math mountain toddler genre liar educate donor define spy brother";

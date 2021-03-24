@@ -1,1 +1,1 @@
-var mnemonic = "dirt okay lunar venue setup deal essence drip gravity picnic funny have";
+var mnemonic = "deer ride section reward lake into enact ladder gloom lunch miracle butter";

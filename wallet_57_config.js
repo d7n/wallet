@@ -1,1 +1,1 @@
-var mnemonic = "message pill zone limit snow together become above pact pelican item limb";
+var mnemonic = "elder deal click phone envelope hen dignity during steel apple enlist fortune";

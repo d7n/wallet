@@ -1,1 +1,1 @@
-var mnemonic = "much usage typical peasant reform drip busy hill about hill ice ecology";
+var mnemonic = "purchase hurry join harvest slender answer hood usual dance nut tomorrow crane";

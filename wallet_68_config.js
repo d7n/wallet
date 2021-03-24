@@ -1,1 +1,1 @@
-var mnemonic = "arrest wheat sell glory retire also find beauty cushion snap settle appear";
+var mnemonic = "simple actor letter brain ritual decorate sorry advance embrace shed crash math";
