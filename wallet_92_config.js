@@ -1,1 +1,1 @@
-var mnemonic = "soon quarter flag elite giant away scout weather pear teach school flock";
+var mnemonic = "neither diesel silent measure sadness property dinner target property abandon link rare";

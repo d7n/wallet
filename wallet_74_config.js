@@ -1,1 +1,1 @@
-var mnemonic = "catalog swim tattoo truth bag entire plunge pipe sting hour liquid sample";
+var mnemonic = "reject depart avoid curious absurd beef recall inquiry century cement belt wolf";

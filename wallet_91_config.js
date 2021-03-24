@@ -1,1 +1,1 @@
-var mnemonic = "elite meadow trip aspect limit grain across soda wrestle scheme cabin cotton";
+var mnemonic = "notice teach excite festival despair neutral elegant banana cushion supreme ethics omit";

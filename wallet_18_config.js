@@ -1,1 +1,1 @@
-var mnemonic = "side size bridge north shallow cake ankle voice unable garlic notable pulse";
+var mnemonic = "coast among tired camp team edit giant airport symbol predict ride regular";

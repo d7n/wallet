@@ -1,1 +1,1 @@
-var mnemonic = "tooth october empty wire exotic surge claw fade away drop amused palace";
+var mnemonic = "pen lens seek caution forward talent benefit mercy puppy side weather next";

@@ -1,1 +1,1 @@
-var mnemonic = "seek happy seminar vicious chair beach outside expect pattern filter grow mad";
+var mnemonic = "opera bleak cupboard width spider polar task decline cheap oak open icon";

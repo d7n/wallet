@@ -1,1 +1,1 @@
-var mnemonic = "want ranch siren collect usual expose alter health lounge crazy twice about";
+var mnemonic = "merit oyster chalk couch mention gauge goose craft ignore field resource soda";

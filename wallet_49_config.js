@@ -1,1 +1,1 @@
-var mnemonic = "detail quick company number pink seven siege neutral genuine junk again gym";
+var mnemonic = "crane reveal age onion brush genius motor present shadow crew divide want";

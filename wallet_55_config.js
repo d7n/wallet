@@ -1,1 +1,1 @@
-var mnemonic = "science fetch surge cool bless crawl upon demand document blur vehicle explain";
+var mnemonic = "mass sound soda large attend exist penalty noodle nominee corn weasel fire";

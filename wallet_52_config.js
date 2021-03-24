@@ -1,1 +1,1 @@
-var mnemonic = "around fan forest abandon group volume bright upgrade web surround youth segment";
+var mnemonic = "color seat level search cattle laptop chimney hair grow index connect electric";

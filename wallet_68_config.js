@@ -1,1 +1,1 @@
-var mnemonic = "infant box dignity polar grant hint depth cruise decade avocado unlock guilt";
+var mnemonic = "inmate cable butter winter height series input wheat catch episode crazy habit";

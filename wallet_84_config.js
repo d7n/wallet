@@ -1,1 +1,1 @@
-var mnemonic = "metal draw limit pond cube parade record evidence text suit lift borrow";
+var mnemonic = "valve chuckle help reflect interest private enjoy galaxy surface accident broom excess";

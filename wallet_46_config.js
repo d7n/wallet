@@ -1,1 +1,1 @@
-var mnemonic = "lake before receive myth desk future enact gaze unusual improve expand canvas";
+var mnemonic = "measure smooth aware dash oven exchange okay science minute loud elephant arrange";

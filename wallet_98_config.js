@@ -1,1 +1,1 @@
-var mnemonic = "dinner quarter poverty tennis shock puzzle suspect sign dry country aerobic baby";
+var mnemonic = "siren kick tube random inhale awesome siren title actress siren funny sense";

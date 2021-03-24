@@ -1,1 +1,1 @@
-var mnemonic = "claim scene gauge sad cliff laugh trigger rocket myth clutch age essence";
+var mnemonic = "aisle sea course profit flight fantasy reward quiz dove peasant beach couple";

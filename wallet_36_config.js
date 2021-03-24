@@ -1,1 +1,1 @@
-var mnemonic = "travel toss squirrel sunset shrug phrase frog round ugly sadness put subject";
+var mnemonic = "beef mechanic session age chest among normal property hero unique wet globe";

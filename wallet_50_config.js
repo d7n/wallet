@@ -1,1 +1,1 @@
-var mnemonic = "dwarf burst convince announce drama timber include novel kick arctic diary knock";
+var mnemonic = "demise grow garment explain alien scatter air man material exhibit online forum";

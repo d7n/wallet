@@ -1,1 +1,1 @@
-var mnemonic = "drop already budget dwarf oval gossip uphold plate eight attitude tennis mixture";
+var mnemonic = "laundry onion sample city theory once gaze two disease grant craft snow";

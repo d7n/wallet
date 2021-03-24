@@ -1,1 +1,1 @@
-var mnemonic = "sniff present stable network cradle frame choice agree play combine hour jar";
+var mnemonic = "peasant question bean under either armed monitor fan huge noodle power autumn";

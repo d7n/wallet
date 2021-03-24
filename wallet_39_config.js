@@ -1,1 +1,1 @@
-var mnemonic = "front rich lucky outside holiday embark spoon manual grace enough pave work";
+var mnemonic = "carbon rich tent seed inspire aisle derive crane slab crumble beauty enter";

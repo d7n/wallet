@@ -1,1 +1,1 @@
-var mnemonic = "alcohol across december lottery hand text song hard enemy air slam student";
+var mnemonic = "over smile fire bright cloth able barely apple fan always wild blossom";

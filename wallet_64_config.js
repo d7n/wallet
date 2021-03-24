@@ -1,1 +1,1 @@
-var mnemonic = "tail congress shrug trial shrug thumb ramp shrimp jar empty mandate evolve";
+var mnemonic = "spray good endorse mind purpose strike retire access grief clap loud surround";

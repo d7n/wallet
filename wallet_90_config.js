@@ -1,1 +1,1 @@
-var mnemonic = "rug cliff match talent truck add crane ethics monster unable occur coast";
+var mnemonic = "toilet achieve drip bulb wink crack barely evil can proud cycle split";

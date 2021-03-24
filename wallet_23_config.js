@@ -1,1 +1,1 @@
-var mnemonic = "empower inmate blood double absorb slice pizza float avoid unknown patch lab";
+var mnemonic = "honey raise across skirt hover before mad radar mule derive muffin spirit";

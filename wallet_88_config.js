@@ -1,1 +1,1 @@
-var mnemonic = "must account oppose puzzle plastic taste file only gorilla hour photo wool";
+var mnemonic = "nation gorilla gown web bean case gasp second grid patrol clock glow";

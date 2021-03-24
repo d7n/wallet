@@ -1,1 +1,1 @@
-var mnemonic = "fringe coffee abuse million ozone labor anchor rural vote expose alone base";
+var mnemonic = "coffee clip gorilla fatal hawk sphere lecture lizard release screen access fee";

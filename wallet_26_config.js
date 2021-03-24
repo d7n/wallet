@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon viable pilot twice layer balance hill day broom garlic chair disease";
+var mnemonic = "enrich edit share sausage solar deposit vague frost funny holiday unlock drill";

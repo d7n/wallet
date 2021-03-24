@@ -1,1 +1,1 @@
-var mnemonic = "man armed appear able net empty transfer inch scheme wrong save spring";
+var mnemonic = "danger senior document attend dove version zebra shoe road seminar bitter victory";

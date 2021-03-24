@@ -1,1 +1,1 @@
-var mnemonic = "immense mistake lock tissue era bring dawn flush father design head aerobic";
+var mnemonic = "meadow tuition cancel nose wave intact news fly drama crystal random luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "screen rabbit club nature neither impact plunge canoe ticket melt guitar weasel";
+var mnemonic = "desert universe explain ethics lizard lens allow lunar promote act tip flavor";

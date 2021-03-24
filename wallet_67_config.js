@@ -1,1 +1,1 @@
-var mnemonic = "tide erode civil tuna group winter clump visit cluster shop portion ribbon";
+var mnemonic = "salt monitor decide weird enjoy sausage old payment diamond prefer october near";

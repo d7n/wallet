@@ -1,1 +1,1 @@
-var mnemonic = "dutch medal begin choose unlock modify hedgehog sadness innocent text sea december";
+var mnemonic = "bread gesture broccoli cake wrap cook daring member sick only clerk cigar";

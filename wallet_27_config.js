@@ -1,1 +1,1 @@
-var mnemonic = "rack buzz dream forest any property meat predict maze poet horror little";
+var mnemonic = "place evolve jungle worth claw mirror bitter cargo state captain front exotic";

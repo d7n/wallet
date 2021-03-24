@@ -1,1 +1,1 @@
-var mnemonic = "food pact property grid arm creek assault another fury tone recipe laundry";
+var mnemonic = "wet pilot country giant venue sick tissue time ability sunny category patch";

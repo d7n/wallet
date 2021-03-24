@@ -1,1 +1,1 @@
-var mnemonic = "baby scissors cluster canvas raccoon climb seven tone point notable win fury";
+var mnemonic = "lava whisper pattern language diesel firm since patient swim indicate bracket casual";

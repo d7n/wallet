@@ -1,1 +1,1 @@
-var mnemonic = "change planet skull rib security peanut source kitten thank crunch series hello";
+var mnemonic = "enemy notable blind anxiety green share cute unlock board chest author current";

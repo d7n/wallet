@@ -1,1 +1,1 @@
-var mnemonic = "simple pudding voyage battle leave mail foster garage neglect physical purity more";
+var mnemonic = "black badge present stove pluck barely replace cricket impact pulp unaware match";

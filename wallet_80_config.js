@@ -1,1 +1,1 @@
-var mnemonic = "evoke lady elbow bench awesome noble great upon issue trust random throw";
+var mnemonic = "member perfect mistake sting abandon host tray candy razor card endless parrot";

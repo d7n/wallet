@@ -1,1 +1,1 @@
-var mnemonic = "fetch marriage pluck trade network strike snack door mom follow achieve eye";
+var mnemonic = "ginger elephant favorite despair decrease mom absurd mango hunt choice lawn business";

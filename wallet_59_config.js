@@ -1,1 +1,1 @@
-var mnemonic = "sausage direct omit hold price inquiry island laugh north wool parade fancy";
+var mnemonic = "grid blush ancient cute patrol license beef dynamic gentle upset prefer apology";

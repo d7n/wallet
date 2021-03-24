@@ -1,1 +1,1 @@
-var mnemonic = "suspect supreme ski accuse shoulder vehicle pair appear soldier cupboard glass piece";
+var mnemonic = "decorate fame napkin valley pen wool pool boil defy report assault ignore";

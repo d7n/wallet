@@ -1,1 +1,1 @@
-var mnemonic = "wrist fade miss joy tennis bubble learn head awkward cake innocent leaf";
+var mnemonic = "leave exact beyond crew reason rate buzz ribbon odor heavy ramp check";

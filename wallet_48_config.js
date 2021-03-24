@@ -1,1 +1,1 @@
-var mnemonic = "field polar kite hockey salmon desert dad hello range warfare food kit";
+var mnemonic = "recall horse dignity tourist decline isolate process must company defense click parade";

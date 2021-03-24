@@ -1,1 +1,1 @@
-var mnemonic = "text indicate dirt wall struggle stadium wealth elder friend smart simple ball";
+var mnemonic = "defy vacuum shrimp certain setup armor struggle rule nurse danger cave cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "way involve suit copper raven feed coral teach venue jacket satoshi flip";
+var mnemonic = "legend element tail old rug flee submit climb column core grid defy";

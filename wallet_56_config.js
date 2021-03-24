@@ -1,1 +1,1 @@
-var mnemonic = "bulk lucky hole point frown real certain twelve recycle garlic stock sunset";
+var mnemonic = "taxi route spoon hospital silent pluck oxygen cube betray exotic code evolve";

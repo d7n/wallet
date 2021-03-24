@@ -1,1 +1,1 @@
-var mnemonic = "smooth early census rich must seven analyst saddle insane upon usage angry";
+var mnemonic = "virtual tent skirt puppy pepper offer warrior alley noodle second material never";

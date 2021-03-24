@@ -1,1 +1,1 @@
-var mnemonic = "age arrange flavor tribe cool forum edge scale skin hip pave chief";
+var mnemonic = "toward spread loop thumb trigger today above audit portion plug pattern surge";

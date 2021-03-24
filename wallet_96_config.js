@@ -1,1 +1,1 @@
-var mnemonic = "learn runway cheap impulse ancient escape cost century fiscal parade oil news";
+var mnemonic = "alarm neglect hope process tiger glove canvas hub soft gallery unhappy cup";

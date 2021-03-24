@@ -1,1 +1,1 @@
-var mnemonic = "sight oblige trap lend museum goddess ice mandate carry dove expect grit";
+var mnemonic = "memory kid love move desert pass ozone caution script emotion vivid pigeon";

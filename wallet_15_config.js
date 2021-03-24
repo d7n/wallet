@@ -1,1 +1,1 @@
-var mnemonic = "lens action furnace time upset purse exile next ecology uniform govern endless";
+var mnemonic = "ignore energy glue robot slam multiply caution ready duck sadness swarm amazing";

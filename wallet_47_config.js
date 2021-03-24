@@ -1,1 +1,1 @@
-var mnemonic = "short armor method huge zoo visit remove arrive cake metal dad describe";
+var mnemonic = "permit borrow orbit foster sell spot never acquire peasant luggage sausage anger";

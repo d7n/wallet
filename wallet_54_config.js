@@ -1,1 +1,1 @@
-var mnemonic = "table squirrel brief spirit swift wheel belt slim exclude season fossil accident";
+var mnemonic = "provide era dish rotate mean kick barely sport stick copper tornado miracle";

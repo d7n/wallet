@@ -1,1 +1,1 @@
-var mnemonic = "spend matter breeze ask perfect shed dune taxi street elite arrive cross";
+var mnemonic = "scorpion battle picture wall rely entry sea syrup twice area silly scatter";

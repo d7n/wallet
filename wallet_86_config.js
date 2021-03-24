@@ -1,1 +1,1 @@
-var mnemonic = "tank high green inflict junior alert gather six fox cigar moral rebel";
+var mnemonic = "jar double razor loan domain uncover camp anchor sudden initial slam spend";

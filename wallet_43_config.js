@@ -1,1 +1,1 @@
-var mnemonic = "figure pill alter oak chat reform clump empower tuition lottery admit harbor";
+var mnemonic = "excess truly flower panther rare large goddess toward estate light sun boss";

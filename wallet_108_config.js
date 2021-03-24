@@ -1,1 +1,1 @@
-var mnemonic = "ten benefit spawn bottom mad father hazard urban fatal arrow lottery sugar";
+var mnemonic = "upgrade machine nuclear wise deny throw paddle sort example rebuild inch thrive";

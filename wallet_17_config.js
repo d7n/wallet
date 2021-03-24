@@ -1,1 +1,1 @@
-var mnemonic = "firm chaos wealth journey wage orphan belt myth federal quiz flat vault";
+var mnemonic = "dice swallow shallow smooth salmon multiply always clean scare general call inquiry";

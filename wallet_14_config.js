@@ -1,1 +1,1 @@
-var mnemonic = "taste mom denial end seven end quote shed wrong dirt primary sunset";
+var mnemonic = "pride injury wish awful atom image sand session daughter level educate idea";

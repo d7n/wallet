@@ -1,1 +1,1 @@
-var mnemonic = "vanish potato slam song wolf boost blast finish split mixture educate aware";
+var mnemonic = "cancel assist verify burst alter shallow dance mimic mad faint vehicle guitar";

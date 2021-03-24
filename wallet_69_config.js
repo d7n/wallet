@@ -1,1 +1,1 @@
-var mnemonic = "govern moral violin ladder vacant source arm north coach narrow possible stove";
+var mnemonic = "stomach shield chronic fresh pool math reunion announce initial child sunny poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor kingdom armed pluck pulp gate hotel quiz key pause frog addict";
+var mnemonic = "always amateur museum degree nuclear margin ginger segment weird member noodle ordinary";

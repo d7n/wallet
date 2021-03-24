@@ -1,1 +1,1 @@
-var mnemonic = "purchase require raise connect head arrest expire misery loop helmet runway code";
+var mnemonic = "father screen banana wait obey family stairs cabbage portion father shrug chase";

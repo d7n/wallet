@@ -1,1 +1,1 @@
-var mnemonic = "number mirror leisure stand game broccoli delay best dwarf silk harsh pulse";
+var mnemonic = "around carpet table ankle spatial alter aware bright remove fun nominee awesome";

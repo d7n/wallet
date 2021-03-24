@@ -1,1 +1,1 @@
-var mnemonic = "twenty scene illness recipe forest surround term vast reason organ lock student";
+var mnemonic = "anchor envelope oval chat desk parrot swap insect chicken teach exotic sister";

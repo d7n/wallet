@@ -1,1 +1,1 @@
-var mnemonic = "chimney crumble anchor margin glare produce dolphin dove nothing actress river evoke";
+var mnemonic = "until fancy tuition scheme behave black quote length picnic two ugly ski";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure upper obvious tide bronze eager poet cross amused pizza ticket expand";
+var mnemonic = "actress heart october urge mesh runway buffalo early ride clump fury kitchen";

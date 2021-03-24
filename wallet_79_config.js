@@ -1,1 +1,1 @@
-var mnemonic = "profit wisdom initial security acid waste tunnel adult physical light brother sell";
+var mnemonic = "where napkin friend walk devote lounge spatial spy orbit pear predict fault";

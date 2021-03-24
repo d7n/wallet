@@ -1,1 +1,1 @@
-var mnemonic = "jar scrap notice way endorse print crater wine prefer save account upgrade";
+var mnemonic = "noble echo negative sheriff speed crush during card parent spider void sleep";

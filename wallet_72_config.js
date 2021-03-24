@@ -1,1 +1,1 @@
-var mnemonic = "scout refuse wrist isolate silent lend figure absorb hood dance bullet column";
+var mnemonic = "advance skirt method afraid nephew effort wonder carry clog vanish senior account";

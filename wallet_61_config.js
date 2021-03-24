@@ -1,1 +1,1 @@
-var mnemonic = "check dismiss merge obtain road security purpose scatter forget rib feature raccoon";
+var mnemonic = "number pigeon innocent hint giant series frame gas kind keep explain agent";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket curious either achieve lawsuit rice curious luggage sight acquire blur crane";
+var mnemonic = "build bulk satoshi staff foil nothing coil brown slim gentle gaze juice";

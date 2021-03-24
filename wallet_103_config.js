@@ -1,1 +1,1 @@
-var mnemonic = "menu wrap trust wing repair tobacco vicious snack proof fashion immune salt";
+var mnemonic = "observe excess unable pluck sibling lobster chief bunker youth state output daughter";

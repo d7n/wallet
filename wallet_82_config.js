@@ -1,1 +1,1 @@
-var mnemonic = "salon belt coin cream fringe stem stand left media dwarf regret amazing";
+var mnemonic = "nice consider fiscal gain victory shift kick clean monster intact chief regular";

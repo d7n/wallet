@@ -1,1 +1,1 @@
-var mnemonic = "coast fortune public coyote maid police pipe okay visit height burden scare";
+var mnemonic = "ticket oil limit fiction option ankle remove cloth rebel reform track core";

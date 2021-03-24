@@ -1,1 +1,1 @@
-var mnemonic = "title depth infant supply egg shoot misery bid bright grit ivory laundry";
+var mnemonic = "remain ozone health shine reward fire exercise envelope wish divorce east true";

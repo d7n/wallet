@@ -1,1 +1,1 @@
-var mnemonic = "vacuum note rich about jar maximum title scale flash stove genre gap";
+var mnemonic = "goat whisper rose science vivid mask fix pattern unable clump rail chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil conduct energy puppy brick ocean village expire egg cable reject garbage";
+var mnemonic = "chef hunt pole leisure girl control crisp strong circle disease design gallery";

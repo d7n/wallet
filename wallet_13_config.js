@@ -1,1 +1,1 @@
-var mnemonic = "fiction girl attack hire average lecture advice sand drive receive drift access";
+var mnemonic = "typical chuckle mango pyramid choose cloth benefit sail join mixture kitchen fox";

@@ -1,1 +1,1 @@
-var mnemonic = "act saddle game asthma inspire public few someone october coin visit fit";
+var mnemonic = "treat success shell bitter smart deer opinion cruel hidden october calm can";

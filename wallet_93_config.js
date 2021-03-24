@@ -1,1 +1,1 @@
-var mnemonic = "mountain high affair grace humble plunge weird chief what champion once version";
+var mnemonic = "dolphin parade fossil genre purchase fog gospel combine report quote tilt glue";

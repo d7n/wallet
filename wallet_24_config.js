@@ -1,1 +1,1 @@
-var mnemonic = "brain amused split breeze dentist steak mail case soft amused slim lobster";
+var mnemonic = "soccer submit remember fence model wire room enough cousin joy august letter";

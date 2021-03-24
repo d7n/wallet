@@ -1,1 +1,1 @@
-var mnemonic = "fringe excess area shoe rotate captain actual base rival matrix exhaust sunset";
+var mnemonic = "mistake margin mixture ozone still poem random input result three shop goat";

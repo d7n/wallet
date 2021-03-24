@@ -1,1 +1,1 @@
-var mnemonic = "post document reason broken slim renew blanket best quick hazard sister business";
+var mnemonic = "cool music butter glimpse lumber comfort era pet close before they apart";

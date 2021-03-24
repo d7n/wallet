@@ -1,1 +1,1 @@
-var mnemonic = "suffer rule picnic upgrade visa away wing lawsuit often expect little tiger";
+var mnemonic = "shoot city kite until hunt torch foil organ slide riot fork toy";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper turn feel melody easily tray trick dress board pink hollow garden";
+var mnemonic = "coast embody disorder chaos rescue embrace slight pyramid urban tomato receive express";

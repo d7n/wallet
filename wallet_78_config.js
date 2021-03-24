@@ -1,1 +1,1 @@
-var mnemonic = "happy they retreat orchard cancel chief rocket squeeze public pact problem drop";
+var mnemonic = "brick bid priority sauce mule margin crater tilt village adult tackle truth";

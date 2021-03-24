@@ -1,1 +1,1 @@
-var mnemonic = "piano umbrella success bench bonus sunset floor label grunt slide umbrella pet";
+var mnemonic = "sun awake pitch river cake text avoid spell mad subway mixed rapid";
