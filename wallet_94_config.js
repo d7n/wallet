@@ -1,1 +1,1 @@
-var mnemonic = "civil magnet choice social seek copper sock arrange fruit guess away example";
+var mnemonic = "inform become village leaf case scout task budget tide extra chalk defense";

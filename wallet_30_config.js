@@ -1,1 +1,1 @@
-var mnemonic = "dune drastic critic voyage hurt depart option palm yellow kick salad direct";
+var mnemonic = "grunt virtual fiscal squirrel margin unhappy cage tooth orbit tide plunge asthma";

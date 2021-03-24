@@ -1,1 +1,1 @@
-var mnemonic = "artist ahead news payment badge reward expect sibling buffalo rather nurse attract";
+var mnemonic = "outer library suggest dune radar armor badge near erase disagree dune domain";

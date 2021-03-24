@@ -1,1 +1,1 @@
-var mnemonic = "nothing current impose budget awesome toilet sport absurd spy quarter school apology";
+var mnemonic = "column dust confirm reopen liberty trial property cruise world mixed delay build";

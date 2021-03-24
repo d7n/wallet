@@ -1,1 +1,1 @@
-var mnemonic = "sheriff aerobic shadow two layer arena visa police glimpse effort region total";
+var mnemonic = "panic apology budget render bean always strike viable foster hood rule candy";

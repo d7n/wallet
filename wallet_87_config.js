@@ -1,1 +1,1 @@
-var mnemonic = "scrub horse accident between advance token since draft muffin chief balcony mystery";
+var mnemonic = "miss tired marble snack carry moral pudding deputy vocal rookie pact hip";

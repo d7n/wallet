@@ -1,1 +1,1 @@
-var mnemonic = "sauce process empower scene mammal volume champion rapid elevator fuel answer total";
+var mnemonic = "soccer quit garage vote disorder shoulder exit neutral turn rubber knife wheat";

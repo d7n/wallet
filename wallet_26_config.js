@@ -1,1 +1,1 @@
-var mnemonic = "vicious gown play hurdle pepper belt tank million alpha fabric female security";
+var mnemonic = "inquiry eternal under neither total girl setup tenant enough cream essay hub";

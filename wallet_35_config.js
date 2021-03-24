@@ -1,1 +1,1 @@
-var mnemonic = "winter shrimp mimic odor entry session attitude resemble climb unknown security toward";
+var mnemonic = "athlete still lonely source stay east visual noise tortoise style access alarm";

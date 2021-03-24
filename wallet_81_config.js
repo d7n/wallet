@@ -1,1 +1,1 @@
-var mnemonic = "start salmon depth prepare glimpse embrace piano gaze brisk frequent oak board";
+var mnemonic = "proof ancient spoil claim aim wall salt congress slogan assault banner job";

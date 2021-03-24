@@ -1,1 +1,1 @@
-var mnemonic = "reject cake speak bargain spoon cram differ avoid creek clock sing ladder";
+var mnemonic = "rug toe left glad before nothing expect lens outside media depend today";

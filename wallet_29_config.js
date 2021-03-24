@@ -1,1 +1,1 @@
-var mnemonic = "genuine guide fiscal crash push mystery harvest hamster wave void supreme almost";
+var mnemonic = "jump write deputy rival pilot bridge blur appear general sleep unhappy floor";

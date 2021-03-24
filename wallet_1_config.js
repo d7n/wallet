@@ -1,1 +1,1 @@
-var mnemonic = "lake fiber access crowd finish census crush shed theme fringe athlete muscle";
+var mnemonic = "future special private cage image swift never lamp casino tomato hockey price";

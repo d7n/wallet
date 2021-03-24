@@ -1,1 +1,1 @@
-var mnemonic = "vapor bridge dawn page chat exercise stumble hill hurry nurse equal vanish";
+var mnemonic = "delay job tomato sell soda leave pioneer accident feed ramp sure fit";

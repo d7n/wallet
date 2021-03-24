@@ -1,1 +1,1 @@
-var mnemonic = "confirm enlist label wine riot aspect close plastic flush alien want nature";
+var mnemonic = "height shed hour material bind prize aim crop cradle divorce priority nerve";

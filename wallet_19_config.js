@@ -1,1 +1,1 @@
-var mnemonic = "gentle luxury open arena wagon quote unique thank tiger vocal skirt era";
+var mnemonic = "talent attend chuckle bridge hire phrase october welcome mask black opera spin";

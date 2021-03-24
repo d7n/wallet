@@ -1,1 +1,1 @@
-var mnemonic = "problem clown please void analyst feature immune burst lobster noodle reform priority";
+var mnemonic = "picnic drift exact tiger chef concert response unique gossip soap unknown earn";

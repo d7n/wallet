@@ -1,1 +1,1 @@
-var mnemonic = "video cool next human settle square whale palm other turkey liar detail";
+var mnemonic = "drink open mystery laptop always fatigue embody ozone parade moral lesson anger";

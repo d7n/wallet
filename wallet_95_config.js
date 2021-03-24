@@ -1,1 +1,1 @@
-var mnemonic = "rough pole museum waste robot youth hybrid circle scatter neglect salmon grid";
+var mnemonic = "surge album stumble faith client garage zebra brush what opera learn skin";

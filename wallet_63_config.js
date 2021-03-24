@@ -1,1 +1,1 @@
-var mnemonic = "raven only wrap truly share connect song social kind lemon east exercise";
+var mnemonic = "depend mesh custom unit copper market parent chronic sound basket double diesel";

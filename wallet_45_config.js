@@ -1,1 +1,1 @@
-var mnemonic = "whip bounce fault diagram science relax credit borrow elbow flash hello exact";
+var mnemonic = "assume transfer produce among learn clown soft pepper ignore paddle goose stem";

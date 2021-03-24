@@ -1,1 +1,1 @@
-var mnemonic = "boat flag record flight chef demand season oven update wink basic chief";
+var mnemonic = "swear region trouble window candy then pilot bounce bag will during spawn";

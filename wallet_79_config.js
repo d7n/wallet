@@ -1,1 +1,1 @@
-var mnemonic = "social quality blade rain gossip gentle option bench polar link pause early";
+var mnemonic = "teach draw refuse able indoor sign cook toward isolate chef detect roof";

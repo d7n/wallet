@@ -1,1 +1,1 @@
-var mnemonic = "hip palace vacant alley cost emotion patrol skill tumble call mother mandate";
+var mnemonic = "forest early renew excess novel mimic tobacco wait cool rotate picnic picture";

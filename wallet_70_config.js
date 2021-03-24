@@ -1,1 +1,1 @@
-var mnemonic = "plunge trim parade match oval eyebrow foster suggest collect ceiling fan cinnamon";
+var mnemonic = "wisdom when sheriff evolve throw draw know man vibrant flight ocean mask";

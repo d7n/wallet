@@ -1,1 +1,1 @@
-var mnemonic = "slice bind globe lake point ritual panel quick fork guess guilt special";
+var mnemonic = "noodle couple sing slight betray receive unfair skull misery pink rhythm napkin";

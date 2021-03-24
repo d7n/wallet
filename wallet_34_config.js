@@ -1,1 +1,1 @@
-var mnemonic = "celery hood celery dinosaur rent cruise teach open rose hobby garbage advance";
+var mnemonic = "marriage rack often guard choice one boost machine brief belt reflect uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "century effort skull flip above erupt toe diamond rug broken border motor";
+var mnemonic = "head pencil shuffle entire work possible diamond shadow recycle kitten bless gate";

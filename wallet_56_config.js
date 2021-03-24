@@ -1,1 +1,1 @@
-var mnemonic = "action bonus fat auction supply legend faculty love purity helmet diet physical";
+var mnemonic = "volume method must scout future sign thought razor settle clap quality save";

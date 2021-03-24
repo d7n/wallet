@@ -1,1 +1,1 @@
-var mnemonic = "manage defense wall shallow enlist usual smooth syrup few outer drill cool";
+var mnemonic = "diamond fade ethics bag antique smooth repeat damp beef actress cactus emotion";

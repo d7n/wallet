@@ -1,1 +1,1 @@
-var mnemonic = "buffalo step brush again survey awkward shove vintage fade belt true surprise";
+var mnemonic = "exhibit wage advance throw plunge grant van audit symbol auction afraid clutch";

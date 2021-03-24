@@ -1,1 +1,1 @@
-var mnemonic = "argue bike demand weekend visit card dice leave energy boil business shuffle";
+var mnemonic = "broccoli cushion axis pride coral long matter buyer october pepper chef ticket";

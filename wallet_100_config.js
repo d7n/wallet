@@ -1,1 +1,1 @@
-var mnemonic = "comic emerge aerobic trim action frequent army vendor volcano critic advice cause";
+var mnemonic = "ecology invite wedding effort win feed orchard blast foil april defense ocean";

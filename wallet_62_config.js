@@ -1,1 +1,1 @@
-var mnemonic = "orient salute hedgehog indicate jelly flavor feature employ double canal luggage wall";
+var mnemonic = "urge ugly pilot odor fiscal sausage effort size twelve music chuckle helmet";

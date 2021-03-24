@@ -1,1 +1,1 @@
-var mnemonic = "later exile transfer cement crouch review two hawk record observe neutral easily";
+var mnemonic = "define age false vessel leader skirt rescue security become stuff wife clever";

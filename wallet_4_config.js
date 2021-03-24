@@ -1,1 +1,1 @@
-var mnemonic = "eternal obtain fatal village anxiety manage night indicate leisure text often pipe";
+var mnemonic = "clutch hunt sponsor either hobby decrease universe olympic elder gap sadness inside";

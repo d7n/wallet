@@ -1,1 +1,1 @@
-var mnemonic = "delay excess there admit critic fold neglect firm squirrel domain arctic foot";
+var mnemonic = "diary head auction search first renew rug brick crash midnight behind flame";

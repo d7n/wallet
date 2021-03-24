@@ -1,1 +1,1 @@
-var mnemonic = "few kit away satisfy episode false jewel dice beach blouse elder cabin";
+var mnemonic = "edge clarify sound burst random match broken arch miss choice skirt discover";

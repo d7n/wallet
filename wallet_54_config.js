@@ -1,1 +1,1 @@
-var mnemonic = "squeeze ocean cake mosquito cactus museum regular stomach lion casino october salad";
+var mnemonic = "above roast work forget tissue toss tag mystery federal random merit pizza";

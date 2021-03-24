@@ -1,1 +1,1 @@
-var mnemonic = "payment stand traffic civil hope fuel rebel salmon second eagle cash sense";
+var mnemonic = "purchase crazy decide pitch model worry govern essay aspect myth dial menu";

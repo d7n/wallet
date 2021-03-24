@@ -1,1 +1,1 @@
-var mnemonic = "nest maple believe era cupboard manual kit enter only viable romance bargain";
+var mnemonic = "hello rate tree art neglect coach spike top galaxy ladder coral taxi";

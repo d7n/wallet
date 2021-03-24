@@ -1,1 +1,1 @@
-var mnemonic = "blossom sustain bomb claw wrong bottom extra squirrel wet spoil fitness canoe";
+var mnemonic = "base card fee enforce pepper spring occur knock satoshi claw oppose narrow";

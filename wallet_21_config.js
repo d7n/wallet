@@ -1,1 +1,1 @@
-var mnemonic = "jump symbol slim million shrug dove soccer fuel mistake appear trap kiss";
+var mnemonic = "crack forward winter matrix million proof actual fever alarm decide illness maple";

@@ -1,1 +1,1 @@
-var mnemonic = "supply friend beyond dilemma explain rain accident actual cupboard bargain orange kind";
+var mnemonic = "foster grass help champion absent bronze two shove neither census trend industry";

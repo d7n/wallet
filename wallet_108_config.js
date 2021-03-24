@@ -1,1 +1,1 @@
-var mnemonic = "proof claw wood surface neutral salad nut retreat any review camp deer";
+var mnemonic = "that dentist erase lobster drill magnet tuition cement priority flower mansion please";

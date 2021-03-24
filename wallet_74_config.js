@@ -1,1 +1,1 @@
-var mnemonic = "divorce trip hole clog mango wrist coil expose brass atom slice cruise";
+var mnemonic = "broken dignity height twelve kidney second announce replace uphold process type noble";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune trigger radar child steel lizard hundred subway finish render arch tube";
+var mnemonic = "estate clip proud drip can creek belt almost citizen ramp total cargo";

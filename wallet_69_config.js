@@ -1,1 +1,1 @@
-var mnemonic = "ticket history hockey sound lake thing this century trim bleak brand nuclear";
+var mnemonic = "meat soldier range cup employ emerge funny suffer picture typical local derive";

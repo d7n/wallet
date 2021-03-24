@@ -1,1 +1,1 @@
-var mnemonic = "when permit upgrade rude defense female canal wheat empty tenant explain weapon";
+var mnemonic = "chaos coral resemble ranch fitness prison fence divert boost electric powder dilemma";

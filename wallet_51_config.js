@@ -1,1 +1,1 @@
-var mnemonic = "august scan security proud group strong loop provide bounce liberty chief sunny";
+var mnemonic = "spell sound caution obey scan three mule loan miss smile fence bone";

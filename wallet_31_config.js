@@ -1,1 +1,1 @@
-var mnemonic = "ensure amused deny easily torch prize eager dirt entry attack denial fix";
+var mnemonic = "genre traffic ball weather latin dignity trap ignore true educate stairs essay";

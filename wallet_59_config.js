@@ -1,1 +1,1 @@
-var mnemonic = "warfare ten inhale group kick surprise pair oppose manual runway defense lens";
+var mnemonic = "fire tuition lift fit song battle parrot wage second seek arrange subway";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter proof pole trash ticket example salt have hair describe hint benefit";
+var mnemonic = "zone one dignity edge inch exhaust volume sphere portion jeans goat assault";

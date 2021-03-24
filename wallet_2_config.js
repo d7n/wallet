@@ -1,1 +1,1 @@
-var mnemonic = "toast lucky rather color movie distance essence athlete stem fashion wisdom void";
+var mnemonic = "bitter like exile olympic cattle fiber error off gift one story more";

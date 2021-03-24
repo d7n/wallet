@@ -1,1 +1,1 @@
-var mnemonic = "loan motion upgrade laugh wedding breeze enhance physical husband pole fury math";
+var mnemonic = "curve across cage real buffalo wing fault salon couple salute human hire";

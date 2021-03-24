@@ -1,1 +1,1 @@
-var mnemonic = "wear benefit barely wait swing place special dice syrup stool scheme disagree";
+var mnemonic = "fetch rebuild horse enhance list snap enrich vague axis army keep adapt";

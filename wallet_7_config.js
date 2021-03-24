@@ -1,1 +1,1 @@
-var mnemonic = "cook lunar offer choose vault flash identify record around core company tube";
+var mnemonic = "funny nephew egg cost bus museum ahead shield year shy give price";

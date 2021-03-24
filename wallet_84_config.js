@@ -1,1 +1,1 @@
-var mnemonic = "scout unlock grace witness claw abstract skate video tuition bamboo better short";
+var mnemonic = "twenty surge spin spy boy height monitor win fine fog unlock oak";

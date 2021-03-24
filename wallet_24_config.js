@@ -1,1 +1,1 @@
-var mnemonic = "pond tree engine accuse runway crash crowd mimic wrap autumn debate unable";
+var mnemonic = "bid orbit foil typical mimic bulk normal job know iron panther strong";

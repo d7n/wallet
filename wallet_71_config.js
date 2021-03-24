@@ -1,1 +1,1 @@
-var mnemonic = "earth unusual oppose truth fly cage wait season business breeze elder convince";
+var mnemonic = "valley record super stove struggle before level notable tail depart minimum region";

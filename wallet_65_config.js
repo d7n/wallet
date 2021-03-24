@@ -1,1 +1,1 @@
-var mnemonic = "amazing alter stem nasty fit witness ethics innocent jazz arrest monitor box";
+var mnemonic = "silent dice machine umbrella physical alert adapt river health oven moon bomb";

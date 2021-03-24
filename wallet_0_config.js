@@ -1,1 +1,1 @@
-var mnemonic = "wage quote insane kangaroo maid viable volcano scout help price voyage mango";
+var mnemonic = "beach scan dignity harsh frown wealth fit hammer luxury merry bronze tornado";

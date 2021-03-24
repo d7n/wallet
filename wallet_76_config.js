@@ -1,1 +1,1 @@
-var mnemonic = "rail extend version journey only clerk hospital skill radar struggle quote slice";
+var mnemonic = "stem foil endless asset among misery equip hockey wolf diet tiger muffin";

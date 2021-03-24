@@ -1,1 +1,1 @@
-var mnemonic = "wash guilt item shove where month festival also path shoot fancy mosquito";
+var mnemonic = "print hedgehog thumb toast marble unaware sample hotel banana like hip can";

@@ -1,1 +1,1 @@
-var mnemonic = "major bitter price toddler also expect proud enemy size pledge detect swamp";
+var mnemonic = "age upgrade flip enter custom whisper way wise lunch focus border humor";

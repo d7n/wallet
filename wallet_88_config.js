@@ -1,1 +1,1 @@
-var mnemonic = "mammal olive reflect cheap idle shoe father good dynamic alone aisle various";
+var mnemonic = "neglect alley federal arrow core lizard asset traffic purse bundle upgrade rent";

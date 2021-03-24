@@ -1,1 +1,1 @@
-var mnemonic = "clinic like casual business come ridge nation snow rebel recall enter athlete";
+var mnemonic = "armed skull approve glimpse eyebrow inner guide amateur divide please doll biology";

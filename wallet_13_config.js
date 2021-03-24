@@ -1,1 +1,1 @@
-var mnemonic = "capable sound delay lawn flight sponsor ivory foster apart panel seed sad";
+var mnemonic = "orbit few picnic visa rude banner inmate year dinosaur lion dove foil";

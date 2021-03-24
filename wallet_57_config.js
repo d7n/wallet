@@ -1,1 +1,1 @@
-var mnemonic = "sight security elite stumble control impose return hundred filter frost address meadow";
+var mnemonic = "game adjust type slogan unlock lemon home fabric sea denial volume cement";

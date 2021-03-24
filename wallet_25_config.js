@@ -1,1 +1,1 @@
-var mnemonic = "quit skin viable keep giraffe sausage income oven exit figure scatter refuse";
+var mnemonic = "cute win embark marble elite dice leaf someone stem picture smart envelope";

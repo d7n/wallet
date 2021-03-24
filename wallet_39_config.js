@@ -1,1 +1,1 @@
-var mnemonic = "luggage marine obtain quarter juice below maximum push loan chase lawn fetch";
+var mnemonic = "scan decrease air critic stereo park butter fence cause stumble wild sad";

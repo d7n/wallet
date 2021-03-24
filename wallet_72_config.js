@@ -1,1 +1,1 @@
-var mnemonic = "dumb combine wish eager dune garlic decide task shrimp observe general antique";
+var mnemonic = "nuclear track act lecture text margin rather zoo much salmon wild twenty";

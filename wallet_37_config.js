@@ -1,1 +1,1 @@
-var mnemonic = "success salad picnic fall bomb frown cry blanket clinic diary expire same";
+var mnemonic = "design season fan galaxy hip much great soap target soap coyote brand";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe debate ozone install chat raise man program bounce library mobile between";
+var mnemonic = "vacuum mesh symptom wait trash soccer humble naive entry tiger addict make";

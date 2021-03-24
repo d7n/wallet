@@ -1,1 +1,1 @@
-var mnemonic = "elder banana any spray silk notice move bless fiber mention orchard reward";
+var mnemonic = "weather capital balcony manual corn sing detail habit history paper tone found";

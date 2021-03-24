@@ -1,1 +1,1 @@
-var mnemonic = "glance demand public erase race bachelor gap shaft other pair cinnamon text";
+var mnemonic = "scrap gold foam useless long chuckle antenna glad outdoor mercy company essence";

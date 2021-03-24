@@ -1,1 +1,1 @@
-var mnemonic = "erupt panel route display wagon light level bunker fan robot wolf comic";
+var mnemonic = "enroll useful rich carbon farm iron delay hungry brave jealous firm install";

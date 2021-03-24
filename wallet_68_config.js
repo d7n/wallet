@@ -1,1 +1,1 @@
-var mnemonic = "various soccer chimney add horse glue lend trash suspect resource fine pulse";
+var mnemonic = "card lend virus rib ankle bleak fatal sing fruit abstract cupboard ostrich";

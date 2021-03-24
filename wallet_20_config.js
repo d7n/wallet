@@ -1,1 +1,1 @@
-var mnemonic = "possible jewel toss unaware describe wet enhance add glad antenna phone slim";
+var mnemonic = "judge observe attack clutch blush often bread wage goat attitude museum normal";

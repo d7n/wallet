@@ -1,1 +1,1 @@
-var mnemonic = "object boil doctor among stand nest mechanic nice social maximum sand grass";
+var mnemonic = "senior prepare cupboard mobile lab atom auto found invite circle hurry silent";

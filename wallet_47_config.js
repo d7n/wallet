@@ -1,1 +1,1 @@
-var mnemonic = "enroll cook people immense treat detail work bike essence perfect lens awful";
+var mnemonic = "lab fiber goat key bundle author profit idle relief avoid model solution";

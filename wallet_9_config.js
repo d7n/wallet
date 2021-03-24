@@ -1,1 +1,1 @@
-var mnemonic = "next monitor utility turn source forest involve trumpet lottery venture pride awful";
+var mnemonic = "pottery found lady skirt episode flame never lake violin right stem cat";

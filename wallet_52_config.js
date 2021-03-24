@@ -1,1 +1,1 @@
-var mnemonic = "luggage other layer plunge scorpion barely fatigue curve piece upper assist over";
+var mnemonic = "velvet hockey keen champion roof wish bullet arch forum book avoid enjoy";

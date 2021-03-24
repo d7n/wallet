@@ -1,1 +1,1 @@
-var mnemonic = "example margin roof setup bone rug yellow mimic arm fabric vocal occur";
+var mnemonic = "another trigger outdoor danger pioneer student live track main convince flight globe";

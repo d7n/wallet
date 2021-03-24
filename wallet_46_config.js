@@ -1,1 +1,1 @@
-var mnemonic = "pill grow gown jeans bike seek suggest stay engine file educate divorce";
+var mnemonic = "entry wealth gallery fan cream mirror trash fabric water rebuild ketchup bottom";

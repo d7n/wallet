@@ -1,1 +1,1 @@
-var mnemonic = "barely whip check first genre boost force chicken illegal suggest decrease gaze";
+var mnemonic = "tip way top leopard enable cabin fabric awkward depend mix talent wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen guitar repeat decline exist case smile suspect will swear tortoise gospel";
+var mnemonic = "castle foster ill response soccer magnet damp mistake black canyon second twelve";

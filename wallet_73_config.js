@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo base sauce toddler shield design girl holiday provide chronic remember announce";
+var mnemonic = "success essay armor room source expose now nest require hill grow powder";
