@@ -1,1 +1,1 @@
-var mnemonic = "sunny valve arm decorate solar final joy truck grocery reflect subway cabbage";
+var mnemonic = "when permit upgrade rude defense female canal wheat empty tenant explain weapon";

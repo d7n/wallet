@@ -1,1 +1,1 @@
-var mnemonic = "release release what tray type property ankle punch retire wrong slide pumpkin";
+var mnemonic = "genuine guide fiscal crash push mystery harvest hamster wave void supreme almost";

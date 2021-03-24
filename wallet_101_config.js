@@ -1,1 +1,1 @@
-var mnemonic = "poet winter squirrel gaze lawn hour media issue crop cherry auction phone";
+var mnemonic = "erupt panel route display wagon light level bunker fan robot wolf comic";

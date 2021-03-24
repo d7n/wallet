@@ -1,1 +1,1 @@
-var mnemonic = "outdoor elevator angle dinosaur moon nothing good curve matter normal garden stick";
+var mnemonic = "fortune trigger radar child steel lizard hundred subway finish render arch tube";

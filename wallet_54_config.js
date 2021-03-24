@@ -1,1 +1,1 @@
-var mnemonic = "better diagram board acid oven kitten people quick wrong odor list mesh";
+var mnemonic = "squeeze ocean cake mosquito cactus museum regular stomach lion casino october salad";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil scrap toss trophy marble fossil wish yard priority joy despair slush";
+var mnemonic = "nest maple believe era cupboard manual kit enter only viable romance bargain";

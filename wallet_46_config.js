@@ -1,1 +1,1 @@
-var mnemonic = "length famous wish meadow dinner drip pretty bread crystal wine outside physical";
+var mnemonic = "pill grow gown jeans bike seek suggest stay engine file educate divorce";

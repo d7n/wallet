@@ -1,1 +1,1 @@
-var mnemonic = "essay owner danger poet energy tortoise load razor shaft outer excess hour";
+var mnemonic = "wage quote insane kangaroo maid viable volcano scout help price voyage mango";

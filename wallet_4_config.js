@@ -1,1 +1,1 @@
-var mnemonic = "erupt spray turtle boost mesh crumble two oblige voice renew forget brief";
+var mnemonic = "eternal obtain fatal village anxiety manage night indicate leisure text often pipe";

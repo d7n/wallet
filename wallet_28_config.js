@@ -1,1 +1,1 @@
-var mnemonic = "fork zoo jar say adapt move range below casino tunnel orbit cruise";
+var mnemonic = "loan motion upgrade laugh wedding breeze enhance physical husband pole fury math";

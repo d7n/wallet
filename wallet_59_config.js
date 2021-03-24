@@ -1,1 +1,1 @@
-var mnemonic = "muscle assist save useless reason gift fiction excess universe error asset concert";
+var mnemonic = "warfare ten inhale group kick surprise pair oppose manual runway defense lens";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom display eyebrow ski segment gravity cause arctic habit oxygen bike treat";
+var mnemonic = "elder banana any spray silk notice move bless fiber mention orchard reward";

@@ -1,1 +1,1 @@
-var mnemonic = "genius denial faculty minimum before fury trend night benefit album alcohol adapt";
+var mnemonic = "enroll cook people immense treat detail work bike essence perfect lens awful";

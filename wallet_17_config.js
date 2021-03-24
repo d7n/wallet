@@ -1,1 +1,1 @@
-var mnemonic = "forum conduct poem pass lemon essay spawn elder category impose barrel evoke";
+var mnemonic = "insect method length smooth inch skate again combine ride rule warrior general";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal render satoshi dutch omit grab elegant mixed they junk credit riot";
+var mnemonic = "ticket history hockey sound lake thing this century trim bleak brand nuclear";

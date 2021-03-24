@@ -1,1 +1,1 @@
-var mnemonic = "detail stock filter spice all strategy parade hotel carry tongue alone main";
+var mnemonic = "dune drastic critic voyage hurt depart option palm yellow kick salad direct";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm price chronic cram pulse mass just oxygen worry taste symptom indicate";
+var mnemonic = "wear benefit barely wait swing place special dice syrup stool scheme disagree";

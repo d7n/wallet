@@ -1,1 +1,1 @@
-var mnemonic = "correct pigeon giraffe more spot antenna still fatigue utility artwork mountain road";
+var mnemonic = "comic emerge aerobic trim action frequent army vendor volcano critic advice cause";

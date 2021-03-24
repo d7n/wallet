@@ -1,1 +1,1 @@
-var mnemonic = "good domain evil rent nuclear check approve reopen salmon poverty under manage";
+var mnemonic = "celery hood celery dinosaur rent cruise teach open rose hobby garbage advance";

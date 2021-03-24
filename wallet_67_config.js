@@ -1,1 +1,1 @@
-var mnemonic = "sustain inflict embark cradle lamp either debate cannon park chef thunder goose";
+var mnemonic = "october genre current tide lamp clinic apology struggle quit rare soldier rose";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing pumpkin knife priority sign garbage banana advance scrap pride forget cattle";
+var mnemonic = "dumb combine wish eager dune garlic decide task shrimp observe general antique";

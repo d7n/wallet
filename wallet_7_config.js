@@ -1,1 +1,1 @@
-var mnemonic = "tilt actress sudden lens enroll decade silver grit reopen love adult rival";
+var mnemonic = "cook lunar offer choose vault flash identify record around core company tube";

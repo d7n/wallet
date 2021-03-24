@@ -1,1 +1,1 @@
-var mnemonic = "video spy negative plastic can remind heavy sausage sphere shallow labor frequent";
+var mnemonic = "start salmon depth prepare glimpse embrace piano gaze brisk frequent oak board";

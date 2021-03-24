@@ -1,1 +1,1 @@
-var mnemonic = "tortoise agree torch become poet toward tiny video tired balcony refuse range";
+var mnemonic = "capable sound delay lawn flight sponsor ivory foster apart panel seed sad";

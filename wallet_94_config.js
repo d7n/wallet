@@ -1,1 +1,1 @@
-var mnemonic = "window wrist hat gauge exchange victory kid manage aware decorate payment benefit";
+var mnemonic = "civil magnet choice social seek copper sock arrange fruit guess away example";

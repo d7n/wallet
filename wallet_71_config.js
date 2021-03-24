@@ -1,1 +1,1 @@
-var mnemonic = "renew radio brisk acid walk electric human split ice nice foam duty";
+var mnemonic = "earth unusual oppose truth fly cage wait season business breeze elder convince";

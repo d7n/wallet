@@ -1,1 +1,1 @@
-var mnemonic = "stay goat brush kangaroo work world mixed invest stage shine slush float";
+var mnemonic = "major bitter price toddler also expect proud enemy size pledge detect swamp";

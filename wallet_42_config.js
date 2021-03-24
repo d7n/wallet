@@ -1,1 +1,1 @@
-var mnemonic = "obey process army fantasy gauge school concert skirt twelve hen desk before";
+var mnemonic = "hip palace vacant alley cost emotion patrol skill tumble call mother mandate";

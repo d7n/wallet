@@ -1,1 +1,1 @@
-var mnemonic = "drop pupil prepare lobster blur omit act glimpse quit captain spot gun";
+var mnemonic = "proof claw wood surface neutral salad nut retreat any review camp deer";

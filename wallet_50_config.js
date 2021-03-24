@@ -1,1 +1,1 @@
-var mnemonic = "grape summer razor law sing spike someone artist tobacco cover spring clutch";
+var mnemonic = "call effort wide screen rigid cube cook pool indicate soon sunny pill";

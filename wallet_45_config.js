@@ -1,1 +1,1 @@
-var mnemonic = "museum vast flight defense raven treat oyster marine sample spy climb fantasy";
+var mnemonic = "whip bounce fault diagram science relax credit borrow elbow flash hello exact";

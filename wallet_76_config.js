@@ -1,1 +1,1 @@
-var mnemonic = "portion toe august love stove dune ranch extend twelve talk human item";
+var mnemonic = "rail extend version journey only clerk hospital skill radar struggle quote slice";

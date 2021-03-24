@@ -1,1 +1,1 @@
-var mnemonic = "garment drift document siege often rich giraffe library hospital kit sight mechanic";
+var mnemonic = "few kit away satisfy episode false jewel dice beach blouse elder cabin";

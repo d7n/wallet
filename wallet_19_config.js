@@ -1,1 +1,1 @@
-var mnemonic = "royal autumn timber ramp service deliver distance knife void blue furnace attitude";
+var mnemonic = "gentle luxury open arena wagon quote unique thank tiger vocal skirt era";

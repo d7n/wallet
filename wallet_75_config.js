@@ -1,1 +1,1 @@
-var mnemonic = "relief inmate return valley inherit siege finger safe source grace follow canal";
+var mnemonic = "nasty side joke oval example lounge inject inquiry teach course ball repeat";

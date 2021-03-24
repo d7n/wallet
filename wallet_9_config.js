@@ -1,1 +1,1 @@
-var mnemonic = "urban system taxi truth pair link claw code work rhythm bless birth";
+var mnemonic = "next monitor utility turn source forest involve trumpet lottery venture pride awful";

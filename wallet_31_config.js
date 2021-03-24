@@ -1,1 +1,1 @@
-var mnemonic = "essay insect beyond always surround tenant wreck empty frog shrimp city ugly";
+var mnemonic = "ensure amused deny easily torch prize eager dirt entry attack denial fix";

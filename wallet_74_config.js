@@ -1,1 +1,1 @@
-var mnemonic = "keep recipe six differ term original one fit winner flip barely nice";
+var mnemonic = "divorce trip hole clog mango wrist coil expose brass atom slice cruise";

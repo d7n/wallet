@@ -1,1 +1,1 @@
-var mnemonic = "call blame stage lawsuit jewel panel foil crane position deposit solar border";
+var mnemonic = "supply friend beyond dilemma explain rain accident actual cupboard bargain orange kind";

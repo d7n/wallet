@@ -1,1 +1,1 @@
-var mnemonic = "famous stadium shield spice future coach chimney obey same column castle mass";
+var mnemonic = "dog stuff pill switch raven equal net used digital olympic vessel cradle";

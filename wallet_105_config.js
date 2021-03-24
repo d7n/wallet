@@ -1,1 +1,1 @@
-var mnemonic = "mercy tissue tumble exist crane kidney quantum cloud three dog measure few";
+var mnemonic = "exclude fever expire neither laugh gaze away glass blossom negative choose pink";

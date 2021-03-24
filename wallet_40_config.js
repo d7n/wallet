@@ -1,1 +1,1 @@
-var mnemonic = "mesh bamboo scheme okay wheel ship forest seat drama six unfold wave";
+var mnemonic = "polar urban goat noble length luxury raise nominee verify garment eyebrow key";

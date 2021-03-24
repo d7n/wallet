@@ -1,1 +1,1 @@
-var mnemonic = "steak announce drum bounce lottery polar waste gate master nasty praise naive";
+var mnemonic = "luggage marine obtain quarter juice below maximum push loan chase lawn fetch";

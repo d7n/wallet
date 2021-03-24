@@ -1,1 +1,1 @@
-var mnemonic = "asset pledge endless frown trick noodle shuffle rather glory fade math video";
+var mnemonic = "action bonus fat auction supply legend faculty love purity helmet diet physical";

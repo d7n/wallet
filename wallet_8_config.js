@@ -1,1 +1,1 @@
-var mnemonic = "artefact machine sting sister sponsor build slim token recall supply law myth";
+var mnemonic = "oxygen guitar repeat decline exist case smile suspect will swear tortoise gospel";

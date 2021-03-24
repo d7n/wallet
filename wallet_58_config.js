@@ -1,1 +1,1 @@
-var mnemonic = "nation install fiber stem hire disagree bamboo either matter sand joy young";
+var mnemonic = "process plastic ice warrior coyote wheat coast october cry flush patient lounge";

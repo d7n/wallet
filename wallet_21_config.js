@@ -1,1 +1,1 @@
-var mnemonic = "devote appear cannon income derive general burden ribbon priority fancy sort alien";
+var mnemonic = "jump symbol slim million shrug dove soccer fuel mistake appear trap kiss";

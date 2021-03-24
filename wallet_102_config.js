@@ -1,1 +1,1 @@
-var mnemonic = "obey response report satoshi among zebra orient quick expose opinion approve alpha";
+var mnemonic = "barely whip check first genre boost force chicken illegal suggest decrease gaze";

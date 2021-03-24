@@ -1,1 +1,1 @@
-var mnemonic = "village cage whale plunge grape loyal comic impact echo virtual excess large";
+var mnemonic = "problem clown please void analyst feature immune burst lobster noodle reform priority";

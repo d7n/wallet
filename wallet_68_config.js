@@ -1,1 +1,1 @@
-var mnemonic = "click depend quote alone say route try useless census neutral aware connect";
+var mnemonic = "various soccer chimney add horse glue lend trash suspect resource fine pulse";

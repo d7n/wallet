@@ -1,1 +1,1 @@
-var mnemonic = "office topic kingdom pill gate moment subject fortune crazy buzz present muscle";
+var mnemonic = "rough pole museum waste robot youth hybrid circle scatter neglect salmon grid";

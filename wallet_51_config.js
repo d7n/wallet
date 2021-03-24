@@ -1,1 +1,1 @@
-var mnemonic = "rookie season puzzle art define key ivory ritual love amazing attack between";
+var mnemonic = "august scan security proud group strong loop provide bounce liberty chief sunny";

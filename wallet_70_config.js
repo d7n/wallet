@@ -1,1 +1,1 @@
-var mnemonic = "wish shoulder drastic select pretty civil treat cover same saddle eye universe";
+var mnemonic = "plunge trim parade match oval eyebrow foster suggest collect ceiling fan cinnamon";

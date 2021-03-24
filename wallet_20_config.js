@@ -1,1 +1,1 @@
-var mnemonic = "soccer thing praise little distance submit material layer brass inch earth quit";
+var mnemonic = "possible jewel toss unaware describe wet enhance add glad antenna phone slim";

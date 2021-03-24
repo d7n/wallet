@@ -1,1 +1,1 @@
-var mnemonic = "glass game wonder sun general elbow endless radio mom remind floor post";
+var mnemonic = "example margin roof setup bone rug yellow mimic arm fabric vocal occur";

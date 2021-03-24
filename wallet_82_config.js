@@ -1,1 +1,1 @@
-var mnemonic = "kiwi chase bus quick camera garlic always helmet steak supply wool foot";
+var mnemonic = "spoon ready imitate sorry nerve team kit turn margin hard awful document";

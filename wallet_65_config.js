@@ -1,1 +1,1 @@
-var mnemonic = "essence decline dizzy prison space produce radio version camera across ability seat";
+var mnemonic = "amazing alter stem nasty fit witness ethics innocent jazz arrest monitor box";

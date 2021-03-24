@@ -1,1 +1,1 @@
-var mnemonic = "away pudding talk endless inside tribe blind twenty frog slice search season";
+var mnemonic = "clinic like casual business come ridge nation snow rebel recall enter athlete";

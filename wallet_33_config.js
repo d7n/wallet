@@ -1,1 +1,1 @@
-var mnemonic = "decide photo federal digital day expand mix ozone lake hope shell next";
+var mnemonic = "slice bind globe lake point ritual panel quick fork guess guilt special";

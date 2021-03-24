@@ -1,1 +1,1 @@
-var mnemonic = "shoe special panel employ museum shrimp invest file mask edit potato curve";
+var mnemonic = "nothing current impose budget awesome toilet sport absurd spy quarter school apology";

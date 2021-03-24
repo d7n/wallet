@@ -1,1 +1,1 @@
-var mnemonic = "build essence achieve coach brick monster math convince skull net assume purse";
+var mnemonic = "scout unlock grace witness claw abstract skate video tuition bamboo better short";

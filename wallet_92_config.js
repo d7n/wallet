@@ -1,1 +1,1 @@
-var mnemonic = "fix suggest decrease foam divert olive clerk protect orient fiction adult coconut";
+var mnemonic = "manage defense wall shallow enlist usual smooth syrup few outer drill cool";

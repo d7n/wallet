@@ -1,1 +1,1 @@
-var mnemonic = "come extra faint garden lunch fence chapter torch know column tower comfort";
+var mnemonic = "raven only wrap truly share connect song social kind lemon east exercise";

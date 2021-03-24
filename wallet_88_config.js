@@ -1,1 +1,1 @@
-var mnemonic = "useless aspect buyer fever eagle predict orient fury marble fold tongue access";
+var mnemonic = "mammal olive reflect cheap idle shoe father good dynamic alone aisle various";

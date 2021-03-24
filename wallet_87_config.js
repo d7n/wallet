@@ -1,1 +1,1 @@
-var mnemonic = "arrow what noble must fish tragic liberty dinner proud day wish mimic";
+var mnemonic = "scrub horse accident between advance token since draft muffin chief balcony mystery";

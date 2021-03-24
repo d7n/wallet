@@ -1,1 +1,1 @@
-var mnemonic = "dentist express shove duty cute vacant they switch file rhythm charge able";
+var mnemonic = "vicious gown play hurdle pepper belt tank million alpha fabric female security";

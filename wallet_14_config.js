@@ -1,1 +1,1 @@
-var mnemonic = "common burden razor possible gasp rich large elevator reward never diary shaft";
+var mnemonic = "sauce process empower scene mammal volume champion rapid elevator fuel answer total";

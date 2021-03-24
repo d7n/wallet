@@ -1,1 +1,1 @@
-var mnemonic = "clinic enough mosquito control spawn hover plug weasel rubber art possible craft";
+var mnemonic = "argue bike demand weekend visit card dice leave energy boil business shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor juice that auto habit urban clip random evolve rifle custom child";
+var mnemonic = "quit skin viable keep giraffe sausage income oven exit figure scatter refuse";

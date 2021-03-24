@@ -1,1 +1,1 @@
-var mnemonic = "sheriff film pyramid supply island buddy funny render panic silent settle recall";
+var mnemonic = "boat flag record flight chef demand season oven update wink basic chief";

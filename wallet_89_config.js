@@ -1,1 +1,1 @@
-var mnemonic = "resist axis gravity push ramp guilt chaos solution trial emotion furnace marine";
+var mnemonic = "library game better path lemon drive tray virus type gap festival flip";

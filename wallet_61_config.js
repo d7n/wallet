@@ -1,1 +1,1 @@
-var mnemonic = "share team entire foil million cattle stumble together galaxy next glimpse glad";
+var mnemonic = "delay excess there admit critic fold neglect firm squirrel domain arctic foot";

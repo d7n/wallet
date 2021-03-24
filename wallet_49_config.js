@@ -1,1 +1,1 @@
-var mnemonic = "material crime essence pill awesome napkin pull amateur refuse enroll shop fury";
+var mnemonic = "object boil doctor among stand nest mechanic nice social maximum sand grass";

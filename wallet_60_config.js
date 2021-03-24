@@ -1,1 +1,1 @@
-var mnemonic = "quality traffic filter rally merit lobster suggest awake surface put cat ranch";
+var mnemonic = "video cool next human settle square whale palm other turkey liar detail";

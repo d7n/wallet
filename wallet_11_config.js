@@ -1,1 +1,1 @@
-var mnemonic = "damp actress bar moment solid conduct elevator upon cliff enlist boost anxiety";
+var mnemonic = "quarter proof pole trash ticket example salt have hair describe hint benefit";

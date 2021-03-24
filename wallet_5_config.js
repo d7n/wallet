@@ -1,1 +1,1 @@
-var mnemonic = "century output trigger spirit alcohol manage scene next source much apple rotate";
+var mnemonic = "grain chaos way social ask crisp property ensure salad half gun sail";

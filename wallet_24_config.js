@@ -1,1 +1,1 @@
-var mnemonic = "home hedgehog rookie dawn dwarf bachelor squirrel walk various east stage install";
+var mnemonic = "pond tree engine accuse runway crash crowd mimic wrap autumn debate unable";

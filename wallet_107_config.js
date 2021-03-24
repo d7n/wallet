@@ -1,1 +1,1 @@
-var mnemonic = "athlete old usage knife review diesel fiber opera deposit length ticket sugar";
+var mnemonic = "blossom sustain bomb claw wrong bottom extra squirrel wet spoil fitness canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "slot prize idea advance rescue tree tide taxi silly tide hub clap";
+var mnemonic = "payment stand traffic civil hope fuel rebel salmon second eagle cash sense";

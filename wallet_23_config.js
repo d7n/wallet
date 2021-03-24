@@ -1,1 +1,1 @@
-var mnemonic = "jaguar anchor twelve frown tooth beach saddle barrel fuel salmon stamp weasel";
+var mnemonic = "vapor bridge dawn page chat exercise stumble hill hurry nurse equal vanish";

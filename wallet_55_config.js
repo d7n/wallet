@@ -1,1 +1,1 @@
-var mnemonic = "flash boat village dilemma bullet rare wing acid pact warfare army aunt";
+var mnemonic = "melody blood chest buzz share public fuel feed mobile battle stable else";

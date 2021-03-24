@@ -1,1 +1,1 @@
-var mnemonic = "negative castle naive maze almost laugh hurry wrestle bus team girl fury";
+var mnemonic = "sheriff aerobic shadow two layer arena visa police glimpse effort region total";

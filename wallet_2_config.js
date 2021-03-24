@@ -1,1 +1,1 @@
-var mnemonic = "accuse duck faint design core base gun quiz must bargain whale vendor";
+var mnemonic = "toast lucky rather color movie distance essence athlete stem fashion wisdom void";

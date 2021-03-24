@@ -1,1 +1,1 @@
-var mnemonic = "inherit hole eternal rookie drama jump vapor win solid rather crumble story";
+var mnemonic = "glance demand public erase race bachelor gap shaft other pair cinnamon text";

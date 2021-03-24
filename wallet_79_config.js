@@ -1,1 +1,1 @@
-var mnemonic = "inherit major luggage jar then pizza lounge kangaroo cricket giggle theory atom";
+var mnemonic = "social quality blade rain gossip gentle option bench polar link pause early";

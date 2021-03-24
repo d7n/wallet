@@ -1,1 +1,1 @@
-var mnemonic = "predict mutual mercy frog deny medal open notable supply can unfold submit";
+var mnemonic = "arm design gauge clump end adapt grain critic dragon please dolphin pyramid";

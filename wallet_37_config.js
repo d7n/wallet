@@ -1,1 +1,1 @@
-var mnemonic = "feature wrist hospital buzz wise umbrella ivory wisdom girl bounce version lab";
+var mnemonic = "success salad picnic fall bomb frown cry blanket clinic diary expire same";

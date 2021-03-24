@@ -1,1 +1,1 @@
-var mnemonic = "strong install comic fiction onion manage grit actress sad nominee awkward skirt";
+var mnemonic = "century effort skull flip above erupt toe diamond rug broken border motor";

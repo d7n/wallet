@@ -1,1 +1,1 @@
-var mnemonic = "milk penalty reveal fork dove law kitchen cluster follow august vehicle achieve";
+var mnemonic = "confirm enlist label wine riot aspect close plastic flush alien want nature";

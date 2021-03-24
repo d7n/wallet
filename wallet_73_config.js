@@ -1,1 +1,1 @@
-var mnemonic = "meadow screen young process oven make dawn blossom ginger double job place";
+var mnemonic = "kangaroo base sauce toddler shield design girl holiday provide chronic remember announce";

@@ -1,1 +1,1 @@
-var mnemonic = "knee service obtain sauce sadness junior grab soul rude census know seat";
+var mnemonic = "recipe debate ozone install chat raise man program bounce library mobile between";

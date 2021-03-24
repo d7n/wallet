@@ -1,1 +1,1 @@
-var mnemonic = "blind alert captain raise autumn scene crunch pepper hockey alone deliver armed";
+var mnemonic = "scissors eye close interest swallow divert riot test dawn endorse sphere comic";

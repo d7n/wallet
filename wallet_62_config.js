@@ -1,1 +1,1 @@
-var mnemonic = "arch cabbage crater need purchase umbrella father guard derive genius spread search";
+var mnemonic = "orient salute hedgehog indicate jelly flavor feature employ double canal luggage wall";

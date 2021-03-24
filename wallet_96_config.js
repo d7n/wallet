@@ -1,1 +1,1 @@
-var mnemonic = "raccoon glove comfort atom flat sugar bridge neck dilemma absurd emerge question";
+var mnemonic = "buffalo step brush again survey awkward shove vintage fade belt true surprise";

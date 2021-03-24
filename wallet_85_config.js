@@ -1,1 +1,1 @@
-var mnemonic = "shrimp sort good virus uphold twice keep wife punch shoot load basic";
+var mnemonic = "hill priority magic cliff coyote response nothing rebuild rival demise unusual cabin";
