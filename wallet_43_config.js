@@ -1,1 +1,1 @@
-var mnemonic = "slice pistol shadow rhythm airport refuse warrior make hawk toddler reform laundry";
+var mnemonic = "aunt chuckle adult what drop balcony flight wasp insect kitchen bottom stuff";

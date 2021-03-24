@@ -1,1 +1,1 @@
-var mnemonic = "shield debate main clean modify pipe about exist buddy human innocent two";
+var mnemonic = "chronic talent anchor resemble rely dove slight fuel similar pencil slice near";

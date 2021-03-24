@@ -1,1 +1,1 @@
-var mnemonic = "sketch olympic candy crawl used blade junior tumble snow margin border exercise";
+var mnemonic = "fruit ecology horror smile wear miss kangaroo summer elder timber vicious wood";

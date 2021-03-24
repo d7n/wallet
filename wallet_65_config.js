@@ -1,1 +1,1 @@
-var mnemonic = "world claim tent team denial mystery verify math there desk speak address";
+var mnemonic = "differ orbit hover unique town assist rack later heart nurse congress talk";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer mistake include antique benefit sample lizard viable violin guide network coach";
+var mnemonic = "illness dance isolate task cover myth elbow blame alarm gain post praise";

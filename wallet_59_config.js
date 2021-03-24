@@ -1,1 +1,1 @@
-var mnemonic = "miracle cabin kiwi local hybrid globe crumble donate almost promote fly wash";
+var mnemonic = "liquid coast theory devote image fabric beyond eye bridge salmon silver notable";

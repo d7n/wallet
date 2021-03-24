@@ -1,1 +1,1 @@
-var mnemonic = "scrap sense dawn voice assume lonely wine actual absent catalog soap enforce";
+var mnemonic = "armed cushion spin infant delay axis valley control armor swear drastic injury";

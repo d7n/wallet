@@ -1,1 +1,1 @@
-var mnemonic = "drift start cement various group always must course hand island regret empty";
+var mnemonic = "frozen symptom amount tape evidence avoid scheme lift shoot audit old fog";

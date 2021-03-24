@@ -1,1 +1,1 @@
-var mnemonic = "crunch candy useful old view picnic breeze bullet chapter token unknown churn";
+var mnemonic = "cat romance return among push pause ecology what stable fox fee police";

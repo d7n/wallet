@@ -1,1 +1,1 @@
-var mnemonic = "misery suffer core blind afraid custom tackle left simple lend design february";
+var mnemonic = "pudding north flame approve husband retire recall champion menu fire process truck";

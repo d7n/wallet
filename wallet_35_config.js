@@ -1,1 +1,1 @@
-var mnemonic = "aisle science infant cheese glue air exit crouch input another ginger method";
+var mnemonic = "soldier fringe diet situate animal online smoke couple devote hawk scrap ask";

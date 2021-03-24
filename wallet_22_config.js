@@ -1,1 +1,1 @@
-var mnemonic = "wolf enhance breeze labor control bleak tide adult video copy void supreme";
+var mnemonic = "master rapid grid island master aunt skill observe rhythm lend right scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "strike tone peace crawl correct slice hat job draw aerobic hobby universe";
+var mnemonic = "town mountain will insect wash rigid grunt tank rookie dry actor example";

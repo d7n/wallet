@@ -1,1 +1,1 @@
-var mnemonic = "load sister never puppy hero enroll old moment eight unfold also pet";
+var mnemonic = "cost scout empty ordinary junior item weather rack evil blanket pact security";

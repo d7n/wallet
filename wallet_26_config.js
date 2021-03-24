@@ -1,1 +1,1 @@
-var mnemonic = "soda first dirt hip sustain like flush opera park odor useful gospel";
+var mnemonic = "spy eight good suspect stick swarm gift off jewel defy opera total";

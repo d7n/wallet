@@ -1,1 +1,1 @@
-var mnemonic = "term essay trouble else metal detail success bachelor must dose uniform gauge";
+var mnemonic = "drum candy afraid hammer define wage argue boring kid divorce feed lamp";

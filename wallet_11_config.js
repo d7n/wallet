@@ -1,1 +1,1 @@
-var mnemonic = "food security fine whisper deputy mushroom trouble true wheel tail famous slab";
+var mnemonic = "airport behind orphan improve call broccoli habit spice visit fossil ring jar";

@@ -1,1 +1,1 @@
-var mnemonic = "crop purpose domain seed interest mandate journey rely limit manual swarm daughter";
+var mnemonic = "human atom course spoil shuffle trophy kite antenna false decade jeans abandon";

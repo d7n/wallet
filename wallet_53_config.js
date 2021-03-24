@@ -1,1 +1,1 @@
-var mnemonic = "brother sibling way belt sail sustain frame crop kingdom cover curious morning";
+var mnemonic = "faint film federal arena tail armed woman feed wrist journey oppose brain";

@@ -1,1 +1,1 @@
-var mnemonic = "curve divide rude desert buyer type predict smart grant age diesel half";
+var mnemonic = "type carbon attitude jeans fetch episode there cart hurdle cave hard diamond";

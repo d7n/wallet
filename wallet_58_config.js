@@ -1,1 +1,1 @@
-var mnemonic = "work earn because hospital globe helmet salon hotel mom neutral steel edit";
+var mnemonic = "jeans color bean size parent innocent mean million danger settle arm rebel";

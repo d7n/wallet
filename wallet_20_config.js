@@ -1,1 +1,1 @@
-var mnemonic = "capital clerk release diet sting husband glow write need battle snap install";
+var mnemonic = "coral zoo decline electric pride climb limit crop trouble dynamic leaf win";

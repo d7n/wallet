@@ -1,1 +1,1 @@
-var mnemonic = "exclude zero behave review endless zoo special balcony crane erase place elevator";
+var mnemonic = "idle blush recall pact rival fork shoulder perfect dinosaur aisle answer field";

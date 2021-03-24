@@ -1,1 +1,1 @@
-var mnemonic = "cannon pitch across planet burger bracket parrot broom rookie bunker february robot";
+var mnemonic = "drip busy build where switch taxi mix abstract bulk anxiety acquire wasp";

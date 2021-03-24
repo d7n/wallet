@@ -1,1 +1,1 @@
-var mnemonic = "enemy clutch mechanic dry globe tragic cupboard gallery express rain enter core";
+var mnemonic = "edge radio system goose three make effort gadget acid curtain flip knife";

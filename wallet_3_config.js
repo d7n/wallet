@@ -1,1 +1,1 @@
-var mnemonic = "offer gun rubber unhappy member vivid wrestle arctic design fashion tape between";
+var mnemonic = "roast arrive timber moon ticket farm pledge parent company opera border film";

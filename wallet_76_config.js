@@ -1,1 +1,1 @@
-var mnemonic = "fashion nice artwork rack actual envelope planet caught aim file soft cross";
+var mnemonic = "column cereal paper dirt major ribbon pretty double found only kiwi assist";

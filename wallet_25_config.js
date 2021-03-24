@@ -1,1 +1,1 @@
-var mnemonic = "today pigeon answer length skin cart degree rule own stand earn action";
+var mnemonic = "cement seminar suggest kingdom moral digital permit outside angle asset sting jewel";

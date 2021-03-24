@@ -1,1 +1,1 @@
-var mnemonic = "regular upon cross purity dial loyal kick delay gasp print net release";
+var mnemonic = "flag fruit toss mask impulse noble organ board correct trap echo stick";

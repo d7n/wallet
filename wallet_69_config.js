@@ -1,1 +1,1 @@
-var mnemonic = "word seek praise run trade snap voyage arch menu boat sun ketchup";
+var mnemonic = "lava impact first aspect draft fetch chaos group hub useless notable switch";

@@ -1,1 +1,1 @@
-var mnemonic = "question lawn hidden dad decline column segment manage debris tourist inject parent";
+var mnemonic = "tackle crush art foam skull rival depth harvest proof surround dolphin olive";

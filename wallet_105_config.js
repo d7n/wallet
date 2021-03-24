@@ -1,1 +1,1 @@
-var mnemonic = "nephew path unable permit aerobic release time april brief eight approve rice";
+var mnemonic = "help brisk have custom puzzle monster bulk word pitch spice sustain lemon";

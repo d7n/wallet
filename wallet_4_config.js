@@ -1,1 +1,1 @@
-var mnemonic = "slab often guitar require add symptom glare chicken trend mind burden interest";
+var mnemonic = "coin skin matter favorite dance service inherit wear phrase rookie stick vibrant";

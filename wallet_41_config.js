@@ -1,1 +1,1 @@
-var mnemonic = "debate patient gap unit couch odor trip reason young powder gather clip";
+var mnemonic = "oxygen cancel flush sight chat wink strong solution extend brisk supreme catalog";

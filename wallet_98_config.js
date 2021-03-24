@@ -1,1 +1,1 @@
-var mnemonic = "hybrid accuse turtle book outside raccoon music tomorrow rebel device pass federal";
+var mnemonic = "wire divert shuffle mobile noise harvest broken only mad dinosaur victory maze";

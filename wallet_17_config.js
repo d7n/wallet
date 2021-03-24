@@ -1,1 +1,1 @@
-var mnemonic = "carbon illness upon simple bag artwork absurd swim wrist siren nominee will";
+var mnemonic = "voice neither orange island dial cereal obscure margin script reform rare flee";

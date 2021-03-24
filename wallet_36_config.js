@@ -1,1 +1,1 @@
-var mnemonic = "bird amused poet diesel drill fluid spider fox deposit ship script unhappy";
+var mnemonic = "vanish million siren remove idle ski arena much assault pupil among switch";

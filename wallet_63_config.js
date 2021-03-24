@@ -1,1 +1,1 @@
-var mnemonic = "vessel fluid task buyer puppy loan trouble garbage salt flame coil raise";
+var mnemonic = "basket sketch inform day base rally vote about ocean color pigeon volume";

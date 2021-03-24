@@ -1,1 +1,1 @@
-var mnemonic = "coffee wool arena forget stove bamboo inform body teach dose bind exile";
+var mnemonic = "language hole purity tourist young mandate swamp machine canoe baby sun current";

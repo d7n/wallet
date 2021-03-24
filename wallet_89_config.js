@@ -1,1 +1,1 @@
-var mnemonic = "pink scorpion liberty educate mutual sketch essence learn run thumb stairs hurry";
+var mnemonic = "language depart duck oyster neither destroy mix coconut stone vague scissors knife";

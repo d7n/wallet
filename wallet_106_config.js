@@ -1,1 +1,1 @@
-var mnemonic = "rhythm question prosper juice absent attend involve desk goddess vehicle cheap salt";
+var mnemonic = "awkward leaf priority tree audit matter ranch dust announce visual special indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "neither proof animal library eagle success cheese legal menu deposit witness you";
+var mnemonic = "dish glimpse promote cube program any assist enact noise tobacco sadness canal";

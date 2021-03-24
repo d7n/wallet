@@ -1,1 +1,1 @@
-var mnemonic = "school window cheese olympic spot sustain jar burst caught nothing castle shock";
+var mnemonic = "sauce blur imitate keen saddle drum code myth arrange tunnel main detail";

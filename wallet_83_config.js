@@ -1,1 +1,1 @@
-var mnemonic = "index result shadow process flat hospital trust kiwi gun excuse notable apple";
+var mnemonic = "verb gym proud item nerve shock fly birth foil tornado prison rice";

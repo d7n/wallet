@@ -1,1 +1,1 @@
-var mnemonic = "settle super mistake vessel actor affair address share fragile account issue crouch";
+var mnemonic = "clip thunder nerve glance gallery only spell twelve guitar birth timber brown";

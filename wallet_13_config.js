@@ -1,1 +1,1 @@
-var mnemonic = "inner crouch fatal strike script elegant donor ski camera potato add shoulder";
+var mnemonic = "secret develop wall language raw spirit impose cereal frog east round eye";

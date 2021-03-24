@@ -1,1 +1,1 @@
-var mnemonic = "loud raise cannon amount juice misery little cupboard pet absent vendor add";
+var mnemonic = "amazing copy expose gather whale assist clever elephant honey height path omit";

@@ -1,1 +1,1 @@
-var mnemonic = "prison draw case brick autumn coffee earth stamp knife extend rocket ski";
+var mnemonic = "execute audit modify engine eager moment east cube used liar museum antenna";

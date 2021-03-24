@@ -1,1 +1,1 @@
-var mnemonic = "urge color purse large correct hood hire pitch degree web crane develop";
+var mnemonic = "animal carry subject solar guess crisp erosion fruit off reveal vapor job";

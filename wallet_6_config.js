@@ -1,1 +1,1 @@
-var mnemonic = "outdoor rough physical apple limb biology suffer ship jaguar patient close lecture";
+var mnemonic = "wheat woman wool circle regret marriage help tide female butter milk vocal";

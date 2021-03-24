@@ -1,1 +1,1 @@
-var mnemonic = "night bid push gas saddle prepare inspire suspect festival trash bike mimic";
+var mnemonic = "medal will session citizen relax merry summer silly educate kangaroo unfold lonely";

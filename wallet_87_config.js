@@ -1,1 +1,1 @@
-var mnemonic = "call myth weather couple shrimp tired twenty phone trophy paper ecology prison";
+var mnemonic = "solar surface grape impact destroy someone whale turkey cherry bamboo observe excess";

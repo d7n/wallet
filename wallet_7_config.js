@@ -1,1 +1,1 @@
-var mnemonic = "coconut fancy club secret ketchup slush attend hotel orchard orient employ chair";
+var mnemonic = "true letter time inch twist work region armor social hope fork where";

@@ -1,1 +1,1 @@
-var mnemonic = "fan start town rookie category neutral whisper assault hour sauce pudding random";
+var mnemonic = "twin loan jacket salute ramp cloth decrease check price tenant vendor topic";

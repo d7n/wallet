@@ -1,1 +1,1 @@
-var mnemonic = "window immune keep pepper canal fan pulp few auction remain awesome dilemma";
+var mnemonic = "whale frost poem dune clog scale glory surround bus multiply bind intact";

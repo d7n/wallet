@@ -1,1 +1,1 @@
-var mnemonic = "grief raccoon clap sheriff sorry rose axis cause bulk original allow cannon";
+var mnemonic = "sick mosquito smile idle lecture decorate puppy bundle anchor nephew kangaroo suffer";

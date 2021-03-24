@@ -1,1 +1,1 @@
-var mnemonic = "allow security maid symptom spin card weapon harsh relief diamond reform wife";
+var mnemonic = "shoe copy pulse napkin output mouse comfort accident pipe live common essence";

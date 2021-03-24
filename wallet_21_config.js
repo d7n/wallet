@@ -1,1 +1,1 @@
-var mnemonic = "bachelor clever essay arrow stool rough fiber text scale apology minimum receive";
+var mnemonic = "oblige utility penalty civil buddy tattoo return rich raw grass loud excite";

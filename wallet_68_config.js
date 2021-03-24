@@ -1,1 +1,1 @@
-var mnemonic = "someone rich ask great parade key license bulk flush snack husband brush";
+var mnemonic = "jewel sing disorder useful alarm dinosaur wasp lion catalog cousin later input";

@@ -1,1 +1,1 @@
-var mnemonic = "foster warm ghost away learn motion decrease domain dismiss grass face open";
+var mnemonic = "glad puzzle state tone comic venture surround gloom unit shoot exchange trade";

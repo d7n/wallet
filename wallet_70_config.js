@@ -1,1 +1,1 @@
-var mnemonic = "palm nasty unveil salt chest chimney virus evoke swing above smooth nuclear";
+var mnemonic = "diary review file harsh home picture access monitor color draw try stable";

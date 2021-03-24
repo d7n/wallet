@@ -1,1 +1,1 @@
-var mnemonic = "picnic vital sorry print poem high inch surprise ostrich best speed antenna";
+var mnemonic = "february tag way tail grit maximum devote birth survey wife inside bounce";

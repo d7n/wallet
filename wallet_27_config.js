@@ -1,1 +1,1 @@
-var mnemonic = "mistake program mango punch produce job power inspire enforce law found crack";
+var mnemonic = "skin today priority head radio horror monster order orbit argue catch wisdom";

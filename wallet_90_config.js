@@ -1,1 +1,1 @@
-var mnemonic = "avoid satisfy crumble price elder eight knee prepare wreck bus silly spoil";
+var mnemonic = "morning father alien hen keep field coral slogan crunch diamond odor quote";

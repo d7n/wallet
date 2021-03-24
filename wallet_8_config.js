@@ -1,1 +1,1 @@
-var mnemonic = "abstract dirt damage glare entire horse decline forum hundred sock kite arena";
+var mnemonic = "hope raw tobacco exotic lake lake phone flag audit october update assault";

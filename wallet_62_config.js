@@ -1,1 +1,1 @@
-var mnemonic = "useful exchange august mask bitter consider slam display century emotion game carbon";
+var mnemonic = "system retreat prosper syrup twin suit turtle alien boring city announce smoke";

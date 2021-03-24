@@ -1,1 +1,1 @@
-var mnemonic = "fog exhibit chaos cruise embrace sadness valve cart purity love inflict giggle";
+var mnemonic = "eight mule food magnet chicken eye evil shock modify volume evil swim";

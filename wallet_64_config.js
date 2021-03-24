@@ -1,1 +1,1 @@
-var mnemonic = "ship pattern viable valid mesh ladder actual chimney flash envelope attack pulse";
+var mnemonic = "control mass input tip crack front indoor summer oppose result pigeon knock";

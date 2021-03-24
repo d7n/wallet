@@ -1,1 +1,1 @@
-var mnemonic = "wealth memory chicken cook view wish voyage parade betray repair bracket endless";
+var mnemonic = "lamp thing cover swarm gravity upset desert can surprise human region beyond";

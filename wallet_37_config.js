@@ -1,1 +1,1 @@
-var mnemonic = "aisle agent term derive plunge all dice motor output kangaroo roof click";
+var mnemonic = "wood minor seven silent protect piece wealth rug pig pond false amazing";

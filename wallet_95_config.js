@@ -1,1 +1,1 @@
-var mnemonic = "worth reject talent panda purity actress insane bulb interest cost sphere act";
+var mnemonic = "chunk dragon rain bullet mother december suit canoe trap seven deny wet";

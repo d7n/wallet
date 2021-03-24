@@ -1,1 +1,1 @@
-var mnemonic = "weekend second genius segment cave quality balcony royal session air cross fame";
+var mnemonic = "ugly senior hundred antenna gift mystery shadow sting dog glue toddler bread";

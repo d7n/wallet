@@ -1,1 +1,1 @@
-var mnemonic = "grit decide bar idea real cabbage prosper fragile search learn apart elephant";
+var mnemonic = "salmon labor wash gorilla maple hole dwarf forward level solution phrase grain";

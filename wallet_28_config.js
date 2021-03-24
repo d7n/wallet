@@ -1,1 +1,1 @@
-var mnemonic = "payment kind resist ring spy split mammal boost marble just this future";
+var mnemonic = "wonder vacant divorce junk offer upgrade whale school either short derive cool";

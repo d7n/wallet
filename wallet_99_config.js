@@ -1,1 +1,1 @@
-var mnemonic = "domain side market team reason thing swallow square oblige wreck raven rough";
+var mnemonic = "urge south large word become oak indoor pepper rhythm patrol furnace lion";

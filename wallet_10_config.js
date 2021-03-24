@@ -1,1 +1,1 @@
-var mnemonic = "shock chase mention cabbage raccoon logic album scout joy foam yellow fossil";
+var mnemonic = "vapor slow desk enter bargain hospital verb mask tube life around scan";

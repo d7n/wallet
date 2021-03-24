@@ -1,1 +1,1 @@
-var mnemonic = "more canal fade strong fan jewel arrow donkey dynamic milk blossom exhaust";
+var mnemonic = "similar seminar number refuse program void length ahead asset output mesh style";

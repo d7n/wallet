@@ -1,1 +1,1 @@
-var mnemonic = "mobile corn list wink distance zebra shop true talent sentence hamster review";
+var mnemonic = "mixed describe gasp oak lady race assume tennis carbon erase express language";

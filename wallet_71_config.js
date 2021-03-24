@@ -1,1 +1,1 @@
-var mnemonic = "just voice just quiz object ahead home adapt exclude balcony angry reveal";
+var mnemonic = "east escape charge various session arrow settle narrow basket ski close kind";

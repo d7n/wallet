@@ -1,1 +1,1 @@
-var mnemonic = "omit mystery cake design boring attract swing nest master limit gasp galaxy";
+var mnemonic = "web rural champion team toilet water student feature square client fashion episode";

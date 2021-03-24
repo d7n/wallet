@@ -1,1 +1,1 @@
-var mnemonic = "fire casino earn tube skill solar prosper forest humble tortoise crash creek";
+var mnemonic = "talk gaze evoke robot chat output maid resemble trade wild laptop leopard";

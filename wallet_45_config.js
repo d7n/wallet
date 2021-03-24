@@ -1,1 +1,1 @@
-var mnemonic = "west jump dash critic useless wink father vital minimum choose skirt bracket";
+var mnemonic = "near game uniform hen cart hybrid jazz run arena segment popular put";

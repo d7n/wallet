@@ -1,1 +1,1 @@
-var mnemonic = "gallery spice skill reform loyal final risk mother host silent fan shift";
+var mnemonic = "ask silent begin animal country feature olive valid boat zoo merry giggle";

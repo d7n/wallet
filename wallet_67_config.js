@@ -1,1 +1,1 @@
-var mnemonic = "crater glide scan buyer swim analyst random arctic despair east crew vivid";
+var mnemonic = "estate piano target venue stuff cage seek crouch solar disease deputy million";

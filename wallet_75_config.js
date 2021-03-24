@@ -1,1 +1,1 @@
-var mnemonic = "bone slush danger solar category minimum amused shield victory fence decline cloud";
+var mnemonic = "actual hundred must immune balcony scene cream disagree version tent toward initial";

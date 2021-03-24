@@ -1,1 +1,1 @@
-var mnemonic = "juice night gauge object amateur cross prison dial nasty session close census";
+var mnemonic = "tuition basic march vocal raw accuse middle awful edge unhappy admit squeeze";

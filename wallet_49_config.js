@@ -1,1 +1,1 @@
-var mnemonic = "nation engine ticket bind hair royal vessel summer zebra garment produce shed";
+var mnemonic = "reunion abandon marine puppy rib room bar pencil sketch smart flag clarify";

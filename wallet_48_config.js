@@ -1,1 +1,1 @@
-var mnemonic = "banana slice prevent parrot coin direct couch oven replace weapon inject warm";
+var mnemonic = "sock cactus rain guard identify bulk very way actual talent truck mistake";

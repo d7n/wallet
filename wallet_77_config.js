@@ -1,1 +1,1 @@
-var mnemonic = "occur room april lumber flag infant swift viable river ecology mouse love";
+var mnemonic = "perfect reunion achieve capital slush nothing capable atom disagree script grief gravity";

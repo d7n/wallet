@@ -1,1 +1,1 @@
-var mnemonic = "nuclear recipe shaft rural toilet level accuse banner gun input spare joy";
+var mnemonic = "half bomb describe crazy argue bird entire tiger cargo slight start auto";

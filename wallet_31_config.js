@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur away derive panther aerobic note bird subway save mesh cargo lion";
+var mnemonic = "action drop noble urban sting budget churn tone awkward guard travel cabbage";

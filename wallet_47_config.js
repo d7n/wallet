@@ -1,1 +1,1 @@
-var mnemonic = "shop story weapon capable sting thought horn marriage sausage believe exercise illegal";
+var mnemonic = "balance manual squeeze flight cement table unusual hill nice shrimp property remain";

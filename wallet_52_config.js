@@ -1,1 +1,1 @@
-var mnemonic = "detail frame equal breeze protect mercy ranch side behave attack dismiss deputy";
+var mnemonic = "gold pen struggle such dignity youth december elephant useless lyrics sight call";
