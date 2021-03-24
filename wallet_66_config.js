@@ -1,1 +1,1 @@
-var mnemonic = "warfare ugly possible old system cross over blossom acid token embark must";
+var mnemonic = "much boy can shield insect letter roast inch risk sphere payment lecture";

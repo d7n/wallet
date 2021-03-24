@@ -1,1 +1,1 @@
-var mnemonic = "net midnight rude pact estate era job cushion quick domain virus stock";
+var mnemonic = "intact goat push infant tiny cousin leave promote toward extra bottom fit";

@@ -1,1 +1,1 @@
-var mnemonic = "draw alarm crew squirrel choice rent armed badge marine huge month cake";
+var mnemonic = "awkward frog pledge casual best gesture ahead ignore crucial enable offer badge";

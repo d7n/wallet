@@ -1,1 +1,1 @@
-var mnemonic = "enable loop verb tumble connect dress oval mimic wisdom region faculty act";
+var mnemonic = "puzzle supply champion trigger language forum please million exhaust tank caution magnet";

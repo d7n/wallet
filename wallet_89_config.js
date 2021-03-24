@@ -1,1 +1,1 @@
-var mnemonic = "monitor midnight boy uncover feel fall reveal hour ritual panther ghost home";
+var mnemonic = "depart polar eight inmate clarify soccer pig pyramid table cause grape fine";

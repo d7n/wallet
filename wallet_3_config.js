@@ -1,1 +1,1 @@
-var mnemonic = "future cash before pink finger pool era toast swift topple industry brain";
+var mnemonic = "hollow south describe bunker spend fire judge city elite pottery airport frost";

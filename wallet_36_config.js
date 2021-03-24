@@ -1,1 +1,1 @@
-var mnemonic = "exact relax ugly sister nothing lemon diagram large fork swift sick hill";
+var mnemonic = "flush hammer poverty achieve loud crazy bleak ahead price fame enlist turtle";

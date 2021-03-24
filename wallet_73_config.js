@@ -1,1 +1,1 @@
-var mnemonic = "unfold abstract reunion lunar patient tomorrow drop pyramid mass obtain critic balance";
+var mnemonic = "rely field scrap chronic lizard grass arch mandate blanket soon useless pact";

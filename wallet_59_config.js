@@ -1,1 +1,1 @@
-var mnemonic = "animal include whip tiger find coin actress sniff yellow voyage amount crater";
+var mnemonic = "equal host dry motor follow dinosaur island segment crowd ancient judge medal";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon pitch toddler keep youth local angle rally pizza safe aim soap";
+var mnemonic = "expand awesome enhance fancy elephant snake arrest trim fringe season already office";

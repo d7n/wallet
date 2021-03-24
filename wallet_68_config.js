@@ -1,1 +1,1 @@
-var mnemonic = "resource capital dance plastic voice tiger rent offer wrong scrap echo demise";
+var mnemonic = "narrow fall disorder because ozone brick little power bargain cargo category oval";

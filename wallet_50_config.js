@@ -1,1 +1,1 @@
-var mnemonic = "pledge tobacco supreme nurse meat hawk all bacon budget fever apology fit";
+var mnemonic = "hope advance jelly okay habit brass panther leaf street foster eight away";

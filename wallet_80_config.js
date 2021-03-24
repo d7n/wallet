@@ -1,1 +1,1 @@
-var mnemonic = "million lottery tip derive possible shoulder embrace injury discover ugly panda close";
+var mnemonic = "palm foster damp nest alone better virtual visa upper vocal answer reopen";

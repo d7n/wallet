@@ -1,1 +1,1 @@
-var mnemonic = "arctic lion nominee start chuckle spoil name library ethics nasty detect agree";
+var mnemonic = "local grace swallow body cloth dog glance door thrive captain trend viable";

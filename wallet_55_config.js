@@ -1,1 +1,1 @@
-var mnemonic = "energy truly donkey submit choose rebel flush void knee depth shoe coach";
+var mnemonic = "hamster crash report hub plate parrot place endless click spray remove mention";

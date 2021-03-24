@@ -1,1 +1,1 @@
-var mnemonic = "area walk lab pool brand critic green dish rival start inside abstract";
+var mnemonic = "print nice cushion edit picnic math injury carbon neither fantasy hurt grief";

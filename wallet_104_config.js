@@ -1,1 +1,1 @@
-var mnemonic = "worry pole cloud chapter best pyramid motion table require gauge relief audit";
+var mnemonic = "shop pony wave gate trade express cable blossom shy awful trim method";

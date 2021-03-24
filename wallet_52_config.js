@@ -1,1 +1,1 @@
-var mnemonic = "figure win cook moon drive surprise believe spare already oblige present various";
+var mnemonic = "clutch kiwi wood life under punch deer hammer punch core grain garden";

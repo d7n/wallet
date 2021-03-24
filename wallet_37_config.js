@@ -1,1 +1,1 @@
-var mnemonic = "surface arena clean tissue olive teach goat pluck profit clutch side ride";
+var mnemonic = "energy minimum boost alien silly morning decide agree work lottery federal era";

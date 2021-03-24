@@ -1,1 +1,1 @@
-var mnemonic = "orange oven trick chef scan erode ketchup become receive private glad dawn";
+var mnemonic = "finger unfold hero dignity curious culture fiction steak tenant either relief garlic";

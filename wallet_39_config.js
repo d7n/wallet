@@ -1,1 +1,1 @@
-var mnemonic = "girl lend impulse wink movie deal polar flash strong shadow enemy media";
+var mnemonic = "viable walk rug forward express bleak around peanut arm angry way party";

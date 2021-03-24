@@ -1,1 +1,1 @@
-var mnemonic = "host stand funny endless adapt snack cute admit border when model rookie";
+var mnemonic = "focus web duck choice local wisdom apart shadow shallow stadium uphold fancy";

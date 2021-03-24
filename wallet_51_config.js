@@ -1,1 +1,1 @@
-var mnemonic = "apple face biology deputy income dutch custom other team decade cake talk";
+var mnemonic = "cool much cluster crowd master join royal rough question green mule easily";

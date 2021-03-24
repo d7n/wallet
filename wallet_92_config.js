@@ -1,1 +1,1 @@
-var mnemonic = "cabin mixture river quick blood length connect flag rely anchor language gain";
+var mnemonic = "discover ill fabric creek various fade twelve escape void identify melt fame";

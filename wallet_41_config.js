@@ -1,1 +1,1 @@
-var mnemonic = "ozone balance lens thumb post much doll snake forum story senior smooth";
+var mnemonic = "puzzle dog saddle choice change erode sausage rich night aim someone aware";

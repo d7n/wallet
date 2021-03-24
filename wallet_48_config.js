@@ -1,1 +1,1 @@
-var mnemonic = "toss wish lamp lawn gentle iron stone point toddler fame rich believe";
+var mnemonic = "annual art second few woman nose make cat ahead hunt hungry fitness";

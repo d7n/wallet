@@ -1,1 +1,1 @@
-var mnemonic = "gain stamp faith illness loyal point jeans polar sheriff creek inmate cousin";
+var mnemonic = "boy ticket process two hen repeat paper blade patch rate identify fabric";

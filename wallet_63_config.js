@@ -1,1 +1,1 @@
-var mnemonic = "view apology dumb angle actress room crack roast obey forum obscure foot";
+var mnemonic = "student nephew limit dwarf night reform cinnamon diary monkey net rapid novel";

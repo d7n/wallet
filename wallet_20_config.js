@@ -1,1 +1,1 @@
-var mnemonic = "bachelor monkey mansion steel frog own bulk vacant device distance report forum";
+var mnemonic = "lake legal weather permit easy luggage bullet strategy lamp access recipe expand";

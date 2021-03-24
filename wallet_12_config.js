@@ -1,1 +1,1 @@
-var mnemonic = "present purchase hard voice author confirm army grit away prevent biology fine";
+var mnemonic = "hunt belt trade sister assault primary borrow letter rare you ride visual";

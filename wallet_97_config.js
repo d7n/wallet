@@ -1,1 +1,1 @@
-var mnemonic = "category barrel piece recall stairs surface agent opera ignore prefer liar under";
+var mnemonic = "code civil theme license problem supply calm toast drop cabbage unlock reform";

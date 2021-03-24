@@ -1,1 +1,1 @@
-var mnemonic = "move device sun galaxy screen huge remind dog midnight kitchen tip melody";
+var mnemonic = "tired census age today decorate manage biology inhale coyote subject voyage alert";

@@ -1,1 +1,1 @@
-var mnemonic = "month glance lamp ramp crisp hand siren link boy about lunch decade";
+var mnemonic = "tired toddler congress stage frame left main convince someone pottery hire issue";

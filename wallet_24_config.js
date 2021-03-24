@@ -1,1 +1,1 @@
-var mnemonic = "script genre desert coconut toss wasp street neither wagon leopard nurse better";
+var mnemonic = "tray saddle era milk dad club blanket castle hotel vapor solid thought";

@@ -1,1 +1,1 @@
-var mnemonic = "staff slow legal panic inside pull cover garage silent heavy library emerge";
+var mnemonic = "parade boil program execute front ticket rely age fabric royal undo chief";

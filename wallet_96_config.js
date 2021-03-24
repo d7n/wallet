@@ -1,1 +1,1 @@
-var mnemonic = "input online drive erode wait minute duck bind relief bus roast pelican";
+var mnemonic = "useless agent fury question sugar document inside oblige object yard wrong cereal";

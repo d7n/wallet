@@ -1,1 +1,1 @@
-var mnemonic = "snow wealth boring silent sunset orange mercy give alien walnut unfair enhance";
+var mnemonic = "police box decorate flavor drama october name vivid axis update develop hybrid";

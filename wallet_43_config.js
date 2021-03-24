@@ -1,1 +1,1 @@
-var mnemonic = "cupboard help wide middle own language behind chaos light install party know";
+var mnemonic = "pyramid eye warrior increase night solve dry fiber piece sample valley school";

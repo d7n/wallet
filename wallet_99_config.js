@@ -1,1 +1,1 @@
-var mnemonic = "milk smile cage pupil welcome beach orient unable describe slight traffic mammal";
+var mnemonic = "season post clerk wedding brave place estate trash below ill common divorce";

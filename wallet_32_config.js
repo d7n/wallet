@@ -1,1 +1,1 @@
-var mnemonic = "resource sell citizen sense force cable glory couple divorce isolate icon glimpse";
+var mnemonic = "deliver loan unknown rough sustain naive dog relief gaze toy south idea";

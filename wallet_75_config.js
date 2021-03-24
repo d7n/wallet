@@ -1,1 +1,1 @@
-var mnemonic = "sting taste gown timber vessel inhale mean ahead car spray speak moon";
+var mnemonic = "local dutch recall february hero shield pair around aisle smooth garden worry";

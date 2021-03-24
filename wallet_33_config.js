@@ -1,1 +1,1 @@
-var mnemonic = "field anxiety fruit hurry slush loan cricket scorpion eternal glove right few";
+var mnemonic = "faith into lobster opinion climb gravity barrel town maze current tilt salt";

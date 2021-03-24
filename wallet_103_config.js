@@ -1,1 +1,1 @@
-var mnemonic = "tree marble art shoulder coconut night fiscal grab stamp sound zoo knife";
+var mnemonic = "fix sweet property reject wheel insane this slam type forum crash category";

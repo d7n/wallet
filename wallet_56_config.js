@@ -1,1 +1,1 @@
-var mnemonic = "dove plastic drift stand road dash mountain patient pumpkin visual zero hole";
+var mnemonic = "ginger rough tomato level vivid top cable earn skate inner game purse";

@@ -1,1 +1,1 @@
-var mnemonic = "mass vague fossil plate speak beef eight uncover anxiety vast welcome engine";
+var mnemonic = "layer together sauce worth elite cave suspect access reopen lottery pluck deer";

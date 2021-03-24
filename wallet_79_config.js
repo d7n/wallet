@@ -1,1 +1,1 @@
-var mnemonic = "worth lake install museum ordinary ask turtle ring occur select fish shine";
+var mnemonic = "piece orchard spell manual cluster season spoil camera camp indoor grape pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "what damp away gate embrace bridge reason knife chunk country invite melody";
+var mnemonic = "category joke venture solid cable slab learn cover near volcano crumble mask";

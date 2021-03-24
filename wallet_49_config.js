@@ -1,1 +1,1 @@
-var mnemonic = "laugh wrestle wonder mansion culture certain estate return enter fine shoe elbow";
+var mnemonic = "bird grab zone devote drop story debate jeans foot silk among plastic";

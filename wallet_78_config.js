@@ -1,1 +1,1 @@
-var mnemonic = "analyst amused amused treat cousin tragic behind effort panther squirrel mushroom excite";
+var mnemonic = "cheese aim elegant thought erupt result update diamond general table budget virus";

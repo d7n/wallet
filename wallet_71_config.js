@@ -1,1 +1,1 @@
-var mnemonic = "board rescue echo spoon dwarf local grid spy pipe alcohol idea stadium";
+var mnemonic = "skull whisper rose lesson sad come spirit girl potato rug join hundred";

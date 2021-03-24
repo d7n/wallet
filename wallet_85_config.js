@@ -1,1 +1,1 @@
-var mnemonic = "butter link chief merge much ostrich sunny vicious stand arctic alcohol nerve";
+var mnemonic = "section north odor any surround exotic scissors unhappy cereal whip pig vintage";

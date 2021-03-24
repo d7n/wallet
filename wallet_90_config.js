@@ -1,1 +1,1 @@
-var mnemonic = "explain crawl disorder fog chimney swallow dizzy cactus family crystal bargain cloud";
+var mnemonic = "more dash buyer noise error air disorder phone erosion wasp nose hybrid";

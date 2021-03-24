@@ -1,1 +1,1 @@
-var mnemonic = "tag home dad split spoon right future eager mom cave evolve debris";
+var mnemonic = "cement medal depart discover maze picture relief topple coffee mesh write evil";

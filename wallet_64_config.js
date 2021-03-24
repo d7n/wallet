@@ -1,1 +1,1 @@
-var mnemonic = "whisper ignore gown milk crater quantum robust sketch elder combine weapon wash";
+var mnemonic = "quick display fire resource sentence crisp twenty state surround depth book caught";

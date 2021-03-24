@@ -1,1 +1,1 @@
-var mnemonic = "trouble receive foot reflect obey adjust repair clean aim fantasy nation across";
+var mnemonic = "obscure fox crunch example answer unfair pluck fire conduct motion loyal adult";

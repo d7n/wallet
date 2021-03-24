@@ -1,1 +1,1 @@
-var mnemonic = "remain extend comic sign empty turkey feed scrap volcano excuse panel common";
+var mnemonic = "depth jump enlist wheat session sadness awkward whisper faith consider belt write";

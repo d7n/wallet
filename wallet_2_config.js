@@ -1,1 +1,1 @@
-var mnemonic = "control burden soup pair kit lobster place file acoustic foam sweet derive";
+var mnemonic = "about attract search render card color process blame number define web caution";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf oxygen child desk stand foster thunder practice basket boil item mansion";
+var mnemonic = "card attend drum message bar upon fiscal include pupil ceiling kitchen strong";

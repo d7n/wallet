@@ -1,1 +1,1 @@
-var mnemonic = "stereo say horror cave file adjust measure boring sister submit emotion finger";
+var mnemonic = "disorder occur shed never estate latin route topple catalog laundry teach solution";

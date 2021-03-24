@@ -1,1 +1,1 @@
-var mnemonic = "jaguar boss raven aspect identify consider ripple day crush retire divorce stool";
+var mnemonic = "jacket panel address prepare ring chair caution immune need rule earn coil";

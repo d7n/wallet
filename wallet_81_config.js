@@ -1,1 +1,1 @@
-var mnemonic = "input insect song peace shock success bridge also garbage hip spice van";
+var mnemonic = "energy empty vehicle chronic habit wild eyebrow glare only region hand monster";

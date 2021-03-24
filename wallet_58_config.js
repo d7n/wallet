@@ -1,1 +1,1 @@
-var mnemonic = "trophy bring share suggest spatial million invite ankle panic cupboard curtain ring";
+var mnemonic = "sugar enough mushroom floor sibling traffic quiz reunion give mansion sweet garage";

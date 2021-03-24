@@ -1,1 +1,1 @@
-var mnemonic = "absorb aim stomach wealth useless mind salute army despair sister lunar summer";
+var mnemonic = "orbit youth sketch pudding frequent label trip plate cycle engine fog inspire";

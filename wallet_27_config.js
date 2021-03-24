@@ -1,1 +1,1 @@
-var mnemonic = "any what devote ticket system source possible hollow state armed august stomach";
+var mnemonic = "amount blind eagle minute pattern neutral wasp solution moment decrease act summer";

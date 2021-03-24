@@ -1,1 +1,1 @@
-var mnemonic = "describe donor fork rather element silent problem volume volume empower catch toddler";
+var mnemonic = "thunder huge warrior menu cheap scan buzz achieve path lemon opinion any";

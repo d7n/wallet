@@ -1,1 +1,1 @@
-var mnemonic = "face tilt motion peace vanish mesh major clock endorse road mass kingdom";
+var mnemonic = "author diamond huge enact range arrow together hammer world grocery trigger urban";

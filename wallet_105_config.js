@@ -1,1 +1,1 @@
-var mnemonic = "habit wool road castle stereo work include never month apple pencil fee";
+var mnemonic = "trade route victory dream copper spirit pony rule wire choice thank stumble";

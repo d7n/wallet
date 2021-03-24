@@ -1,1 +1,1 @@
-var mnemonic = "switch ticket roof veteran animal occur seat kitchen vague emerge solar drift";
+var mnemonic = "middle brain grain powder before wave estate dilemma excess wear sugar shrimp";

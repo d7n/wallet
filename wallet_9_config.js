@@ -1,1 +1,1 @@
-var mnemonic = "merge cluster noodle soccer horn carbon husband ankle honey lecture issue under";
+var mnemonic = "reopen win spirit bar sad mouse cycle jump deal system start add";

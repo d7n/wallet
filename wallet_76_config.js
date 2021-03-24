@@ -1,1 +1,1 @@
-var mnemonic = "vendor they clay juice wheat repair fiber chapter fabric style enforce arctic";
+var mnemonic = "away main tide food spice language desert tone orbit cause virtual imitate";

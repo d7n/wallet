@@ -1,1 +1,1 @@
-var mnemonic = "recipe rude vessel laugh history goose monitor junior water quote much delay";
+var mnemonic = "hammer have thank clean settle topic grit east control shy awake build";

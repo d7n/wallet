@@ -1,1 +1,1 @@
-var mnemonic = "journey miss diet quiz beach report lunch shock hockey tape east magnet";
+var mnemonic = "enhance skate desk sugar retreat body large attend faculty service music chief";

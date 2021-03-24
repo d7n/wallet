@@ -1,1 +1,1 @@
-var mnemonic = "that that try dirt sad midnight extra pair twin inspire pupil heavy";
+var mnemonic = "lounge occur talent cave observe seat middle pink quality party talk pave";

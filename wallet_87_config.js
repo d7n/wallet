@@ -1,1 +1,1 @@
-var mnemonic = "music duck poem february vacuum tenant waste law snake scheme spatial rookie";
+var mnemonic = "fortune music high aspect silver soft force invest rather beauty salad move";

@@ -1,1 +1,1 @@
-var mnemonic = "rich salt junior rebel guilt judge novel denial wave broken grocery machine";
+var mnemonic = "romance ridge tuition merry obvious torch frame thrive front mask outdoor welcome";

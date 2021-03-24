@@ -1,1 +1,1 @@
-var mnemonic = "foil eager give erupt motor door plug acid polar hungry hollow enforce";
+var mnemonic = "that spatial grab sock mushroom police host chicken intact trophy dry property";

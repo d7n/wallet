@@ -1,1 +1,1 @@
-var mnemonic = "top fiber donate puppy stock estate weekend mixture cupboard solution panda flock";
+var mnemonic = "embrace champion defense cancel easy pulse affair parrot lady ginger wise record";

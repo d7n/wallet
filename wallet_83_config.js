@@ -1,1 +1,1 @@
-var mnemonic = "observe often use heavy focus number object imitate mother pig surface elephant";
+var mnemonic = "hire nephew elder crater tray canoe cause magnet danger wrestle mask deny";

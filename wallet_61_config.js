@@ -1,1 +1,1 @@
-var mnemonic = "fuel same priority crunch link noble matrix attitude mother typical demand bulb";
+var mnemonic = "stand trade account ice razor taxi all borrow they reopen use appear";

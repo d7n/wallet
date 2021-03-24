@@ -1,1 +1,1 @@
-var mnemonic = "average right cereal crime omit raven link robot mean benefit leg whip";
+var mnemonic = "embrace feel favorite expire cliff buffalo crane deposit certain sting praise zoo";

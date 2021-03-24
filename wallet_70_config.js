@@ -1,1 +1,1 @@
-var mnemonic = "tired away plug table treat wealth kingdom butter special sphere rice elephant";
+var mnemonic = "blouse ladder decline door reveal pulp win donate myself panel stay echo";

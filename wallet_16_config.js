@@ -1,1 +1,1 @@
-var mnemonic = "hover sentence network enough cash trash obey clarify impulse salad history major";
+var mnemonic = "monster all actor biology note picnic find copy ride exile solution thumb";

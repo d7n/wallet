@@ -1,1 +1,1 @@
-var mnemonic = "bar vapor awake frown lock dog panic produce skate jar find plunge";
+var mnemonic = "clean hunt drama student kind client mean wait pull wire craft vacuum";

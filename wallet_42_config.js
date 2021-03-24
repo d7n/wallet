@@ -1,1 +1,1 @@
-var mnemonic = "address wink trip funny cattle dutch between sudden law say quote winter";
+var mnemonic = "nothing usual moment maximum hope ketchup neither produce heart tone copper believe";

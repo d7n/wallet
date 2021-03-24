@@ -1,1 +1,1 @@
-var mnemonic = "evoke guess gown oppose rather oven peace resist stand bounce harbor above";
+var mnemonic = "hammer before target bid artist book eight suffer crucial bachelor pizza fun";

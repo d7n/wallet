@@ -1,1 +1,1 @@
-var mnemonic = "list certain teach debate hobby exotic snack climb gasp document share glory";
+var mnemonic = "benefit vessel camp volume fatal apple sorry panda island catch leader off";

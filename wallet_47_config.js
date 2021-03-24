@@ -1,1 +1,1 @@
-var mnemonic = "grief fatal winter develop legal now curious fit silk shell shaft grace";
+var mnemonic = "exist cabbage merge nice gather protect confirm family leave clay couch west";

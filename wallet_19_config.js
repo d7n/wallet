@@ -1,1 +1,1 @@
-var mnemonic = "sunset physical bullet enable sponsor calm cactus museum south net garbage twenty";
+var mnemonic = "meat judge march flower alone dune youth absurd silly audit talent when";

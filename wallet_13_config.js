@@ -1,1 +1,1 @@
-var mnemonic = "curtain collect reason valid sustain lamp permit pulse around milk cigar foam";
+var mnemonic = "canyon skull express orient stumble veteran measure fat canoe parade artist question";

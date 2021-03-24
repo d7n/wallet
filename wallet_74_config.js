@@ -1,1 +1,1 @@
-var mnemonic = "betray usage announce mouse weird apple lunar ripple illness brief news section";
+var mnemonic = "patient visit song panic diet mirror festival denial easily promote before warfare";
