@@ -1,1 +1,1 @@
-var mnemonic = "drill diagram real duty barely blanket long prepare gift utility invest can";
+var mnemonic = "boost armor solve hamster aerobic panic bonus olympic sing wealth fold mammal";

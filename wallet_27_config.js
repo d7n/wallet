@@ -1,1 +1,1 @@
-var mnemonic = "laugh vintage brief chicken appear adjust coil bind tower goat arrest ticket";
+var mnemonic = "rain divorce marble sick device catalog basic supreme snake sniff grain mail";

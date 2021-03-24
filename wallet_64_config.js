@@ -1,1 +1,1 @@
-var mnemonic = "federal jelly credit dove call peace push range profit hold poem dolphin";
+var mnemonic = "memory surface punch furnace outer plastic relax tail either child cloth neck";

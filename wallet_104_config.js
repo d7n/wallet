@@ -1,1 +1,1 @@
-var mnemonic = "august original puzzle aerobic misery hand crumble debate give text boat ring";
+var mnemonic = "fluid magic noodle ill damage wide win leaf bonus stock post game";

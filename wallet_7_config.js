@@ -1,1 +1,1 @@
-var mnemonic = "coyote car police fog actor diamond heart present power spray help such";
+var mnemonic = "output scrap object pyramid fantasy member place ketchup gospel include piece jar";

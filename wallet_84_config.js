@@ -1,1 +1,1 @@
-var mnemonic = "peanut flee denial armor during option boss guess fork harsh sting utility";
+var mnemonic = "normal document cruise glow erupt reform lawsuit lumber palace donkey dilemma small";

@@ -1,1 +1,1 @@
-var mnemonic = "robust toward train there record wet release road fluid funny course stock";
+var mnemonic = "profit outdoor rapid slogan task earth key eager inflict rough rocket awkward";

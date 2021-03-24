@@ -1,1 +1,1 @@
-var mnemonic = "smooth isolate awkward reflect velvet poverty save divorce actress shed album ocean";
+var mnemonic = "slice nuclear oak output usage donkey plunge reflect aim guess chapter girl";

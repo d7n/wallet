@@ -1,1 +1,1 @@
-var mnemonic = "adapt cotton acquire sun piano lab invite wrestle accuse eight cash miss";
+var mnemonic = "lounge proud speak paper weasel south robot snow hen harvest donkey ice";

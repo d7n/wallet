@@ -1,1 +1,1 @@
-var mnemonic = "essence earth symptom rocket leaf guide bind lecture enlist churn defense copper";
+var mnemonic = "only lava actual lunch blame veteran melt nest layer shoe vote trial";

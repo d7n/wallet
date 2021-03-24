@@ -1,1 +1,1 @@
-var mnemonic = "whip pottery mammal calm nuclear verb pony height senior jar spatial garage";
+var mnemonic = "morning until review warrior kid unusual illness winter surge cinnamon consider keen";

@@ -1,1 +1,1 @@
-var mnemonic = "scout execute extra devote black knee interest fat spin regular prevent atom";
+var mnemonic = "horror beyond boat master combine code gold gap pave beauty van load";

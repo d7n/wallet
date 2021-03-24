@@ -1,1 +1,1 @@
-var mnemonic = "embody endorse twenty borrow turn orchard artwork three plate taste fluid tower";
+var mnemonic = "capital bronze capital change domain such auction assault crack antenna olive honey";

@@ -1,1 +1,1 @@
-var mnemonic = "pact inject impulse wash clap edge tower world resist blur define language";
+var mnemonic = "canoe chase glare ridge ski draft kitten drama owner vanish invest tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "slush unfair arrange analyst sense dad romance spatial bubble bottom culture dial";
+var mnemonic = "large quiz excuse ill police early alter rocket inherit kit inhale ride";

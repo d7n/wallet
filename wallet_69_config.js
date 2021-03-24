@@ -1,1 +1,1 @@
-var mnemonic = "head swap general police genius normal appear entire need chest slim mistake";
+var mnemonic = "planet gas crowd city fatal employ march cupboard music motion conduct cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "make pair obey length copper balcony metal fat hover carpet dawn lumber";
+var mnemonic = "unable asthma suit pair future gain noble remain what truck depart danger";

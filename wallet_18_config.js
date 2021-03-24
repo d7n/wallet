@@ -1,1 +1,1 @@
-var mnemonic = "payment future cloud doctor frost fence decrease monitor purse minute become jazz";
+var mnemonic = "stable pipe edit trap cat acid clap never indicate captain october alien";

@@ -1,1 +1,1 @@
-var mnemonic = "flash grain regret small normal skate property slogan danger rival suspect real";
+var mnemonic = "volcano gossip neck fetch cheese bubble gravity can yellow cover tube donor";

@@ -1,1 +1,1 @@
-var mnemonic = "industry toward couple client moon omit solution damp virus oyster message someone";
+var mnemonic = "biology oppose kiwi grid amateur pretty scene favorite fetch way hand rhythm";

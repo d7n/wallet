@@ -1,1 +1,1 @@
-var mnemonic = "pizza oil finish hollow ring absorb cash ghost cattle tilt guilt bring";
+var mnemonic = "horn cliff term iron note achieve pave cigar mix wrist artwork blood";

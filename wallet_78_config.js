@@ -1,1 +1,1 @@
-var mnemonic = "mail basic hurt polar elephant region trouble copy mandate tomorrow month dentist";
+var mnemonic = "oval again delay favorite pitch buffalo slow oval shoot woman wrong basket";

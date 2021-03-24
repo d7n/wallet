@@ -1,1 +1,1 @@
-var mnemonic = "boss lab initial wisdom hurdle retreat mesh cube dinner sound silver book";
+var mnemonic = "affair number glory trumpet pepper dignity series someone siren dinner champion animal";

@@ -1,1 +1,1 @@
-var mnemonic = "flush solution plug point what dignity label shove tiger debate snow pulp";
+var mnemonic = "artefact way object share protect kiss crime aspect assist coast garlic orient";

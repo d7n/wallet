@@ -1,1 +1,1 @@
-var mnemonic = "museum decline cabin novel lady people moment mule episode year avocado garbage";
+var mnemonic = "marriage essence pony invest rude feed nose grape mesh chimney alley since";

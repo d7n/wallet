@@ -1,1 +1,1 @@
-var mnemonic = "stumble sudden blur script south fossil cause million fold idle name ordinary";
+var mnemonic = "rib plug circle clog harbor flame clinic record loop text scatter suggest";

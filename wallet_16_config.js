@@ -1,1 +1,1 @@
-var mnemonic = "above bleak box clump smoke swarm second always wool allow cliff universe";
+var mnemonic = "proof major identify apple kitchen choose cluster swim office acoustic search cricket";

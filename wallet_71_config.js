@@ -1,1 +1,1 @@
-var mnemonic = "wood enlist cram jar glad apology frequent pride coin speak film body";
+var mnemonic = "clay hollow rebuild mango dolphin sure rely embody void cross select child";

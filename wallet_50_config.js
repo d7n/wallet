@@ -1,1 +1,1 @@
-var mnemonic = "digital leg task harsh wave shy topple shock anger duck left ozone";
+var mnemonic = "present alert list excuse sound shell zoo then whale ivory dream lock";

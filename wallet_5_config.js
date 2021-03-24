@@ -1,1 +1,1 @@
-var mnemonic = "comfort spirit soul endless swift output flip toddler harvest weather sight dawn";
+var mnemonic = "inside setup same recall similar mercy seat approve approve melody fancy negative";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern group quality success immense flight cliff again mobile fever where balcony";
+var mnemonic = "boat antenna nerve hammer time forum width minimum lock flag extra away";

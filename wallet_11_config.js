@@ -1,1 +1,1 @@
-var mnemonic = "bracket inherit seven close disease project grit primary owner receive urge curious";
+var mnemonic = "panther toilet zoo need awkward second case direct stand split unfair enroll";

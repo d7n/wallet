@@ -1,1 +1,1 @@
-var mnemonic = "unlock uniform fitness frame onion process bright kind pilot cave open lecture";
+var mnemonic = "father noble wage chef erosion amount blouse eyebrow genuine palm tuna cloth";

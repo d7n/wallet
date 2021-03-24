@@ -1,1 +1,1 @@
-var mnemonic = "episode inhale alone blanket kid company mesh orphan combine ahead decline twenty";
+var mnemonic = "then fox taxi artist ride later town weekend praise divert coil process";

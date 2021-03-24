@@ -1,1 +1,1 @@
-var mnemonic = "island call stool nut special pair rough decrease regret siege hip verify";
+var mnemonic = "illegal shed taxi crucial weekend possible barely online valid cause price grow";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty cup cigar casual gauge always cabin nominee treat fit vital approve";
+var mnemonic = "hurdle trip total bicycle spy health catalog ring chicken metal thing coyote";

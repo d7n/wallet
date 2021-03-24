@@ -1,1 +1,1 @@
-var mnemonic = "current kick unfold milk aerobic dress apology trap proof slim garage fantasy";
+var mnemonic = "stove fetch alert galaxy shoulder off fine lyrics sword shine dry original";

@@ -1,1 +1,1 @@
-var mnemonic = "drive blanket practice turn february fork have robust ecology limb breeze case";
+var mnemonic = "fee cheap mouse pool flag book hybrid vanish truck repair usage network";

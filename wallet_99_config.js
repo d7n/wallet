@@ -1,1 +1,1 @@
-var mnemonic = "real fortune mercy diet taxi wheat weekend voice alert hammer combine shaft";
+var mnemonic = "phone shoulder armor paper lunch drink tribe token room pattern guitar luggage";

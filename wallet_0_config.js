@@ -1,1 +1,1 @@
-var mnemonic = "artist pudding language crisp swamp practice skate special path venture paper above";
+var mnemonic = "pole head message into force mean spawn broom vendor diary wedding two";

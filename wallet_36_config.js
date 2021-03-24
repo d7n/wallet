@@ -1,1 +1,1 @@
-var mnemonic = "blue lawn sentence orient immense twist fly unknown zebra screen idea wheat";
+var mnemonic = "blossom orient casino toilet zebra grace artwork reveal timber guilt fat sign";

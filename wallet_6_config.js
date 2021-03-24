@@ -1,1 +1,1 @@
-var mnemonic = "stay pipe file huge december shop fiber drip hurt once butter meadow";
+var mnemonic = "lock fold siren smooth comfort diamond suffer delay candy member question panther";

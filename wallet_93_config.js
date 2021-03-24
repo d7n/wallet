@@ -1,1 +1,1 @@
-var mnemonic = "vacant damage drill require goose divert immune group trap pet easy sadness";
+var mnemonic = "version sting pull movie tuition brother alone match upon moon figure ritual";

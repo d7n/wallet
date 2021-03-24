@@ -1,1 +1,1 @@
-var mnemonic = "maid soon maid gift tomato silly decade burden flower believe result drip";
+var mnemonic = "shoot major between joy shed winter army ethics ship motor cancel situate";

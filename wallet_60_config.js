@@ -1,1 +1,1 @@
-var mnemonic = "endorse unfold february name minor design grace hold paddle subway lawn stomach";
+var mnemonic = "require actor distance evoke cake trial ramp prize endless tennis earth width";

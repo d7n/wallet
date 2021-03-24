@@ -1,1 +1,1 @@
-var mnemonic = "twenty share toast dentist uncle omit unlock right wagon lunch swim bulk";
+var mnemonic = "zone run gym assault pretty glide beach december zero leisure chimney escape";

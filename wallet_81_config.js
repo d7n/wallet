@@ -1,1 +1,1 @@
-var mnemonic = "divert daughter figure news stock lava verify zone sausage soft vague vendor";
+var mnemonic = "pupil tower rich resemble sorry burger marriage lesson pear page gloom pitch";

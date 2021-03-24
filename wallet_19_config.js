@@ -1,1 +1,1 @@
-var mnemonic = "cheap swap citizen minor census alert weekend prize emotion endless office flame";
+var mnemonic = "amateur wide hub scissors margin pigeon radio reopen define seminar basket position";

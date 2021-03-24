@@ -1,1 +1,1 @@
-var mnemonic = "leg also harsh reveal chest unable idea rug stuff ramp arrow dice";
+var mnemonic = "tell kit outside talent supply ring poet narrow faith dirt grief smile";

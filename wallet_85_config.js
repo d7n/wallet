@@ -1,1 +1,1 @@
-var mnemonic = "basic noble across cause clarify army surprise because swear step final school";
+var mnemonic = "appear space half episode client genre since alpha expose grow romance battle";

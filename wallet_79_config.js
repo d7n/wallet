@@ -1,1 +1,1 @@
-var mnemonic = "syrup dismiss jewel mercy desk enlist upgrade crime found cricket joke purpose";
+var mnemonic = "honey salt unknown cloth zero peasant manual siege genre next people bread";

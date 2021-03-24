@@ -1,1 +1,1 @@
-var mnemonic = "axis lift trigger element cheese twice ask rabbit job flock coffee tunnel";
+var mnemonic = "filter acquire inner knife fit zero inject enlist hawk junk sustain prosper";

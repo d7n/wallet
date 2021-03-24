@@ -1,1 +1,1 @@
-var mnemonic = "correct gate inspire fun bottom session below citizen tag provide coffee place";
+var mnemonic = "scorpion bacon valve arm profit innocent universe rent unveil spin siren shaft";

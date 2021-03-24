@@ -1,1 +1,1 @@
-var mnemonic = "metal reveal museum melody shallow add gallery suggest grunt federal life brush";
+var mnemonic = "coin deer ugly inflict injury top demand safe stadium tape nothing furnace";

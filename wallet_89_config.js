@@ -1,1 +1,1 @@
-var mnemonic = "share ecology spatial fancy smart marriage indicate twelve rubber egg control indicate";
+var mnemonic = "song melt pilot velvet goddess truck rigid car whip usage brown tooth";

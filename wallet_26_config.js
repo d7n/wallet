@@ -1,1 +1,1 @@
-var mnemonic = "crawl wing maze snake skill better tip wet fringe coffee river owner";
+var mnemonic = "review evoke neither merit gym athlete interest crumble soft auction steak emerge";

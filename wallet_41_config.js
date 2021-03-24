@@ -1,1 +1,1 @@
-var mnemonic = "attend lake raven auto enable holiday empower series wrist wear margin hurdle";
+var mnemonic = "unusual proof youth daughter shove display grace climb cloud afraid have finger";

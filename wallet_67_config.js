@@ -1,1 +1,1 @@
-var mnemonic = "tattoo abandon feed tower detect swim virtual between brave rival wealth jar";
+var mnemonic = "voice analyst witness load put install hawk check lens across shadow carbon";

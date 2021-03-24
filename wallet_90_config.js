@@ -1,1 +1,1 @@
-var mnemonic = "prefer off battle high fault flash enough observe crystal video happy bunker";
+var mnemonic = "attend glare wet aisle add input fitness coyote issue dwarf bottom funny";

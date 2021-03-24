@@ -1,1 +1,1 @@
-var mnemonic = "abandon uniform mountain someone outdoor breeze hire cereal guide ill whip move";
+var mnemonic = "leader speak public ship road chimney announce you legend drama party switch";

@@ -1,1 +1,1 @@
-var mnemonic = "action peasant patch gadget april race report repair actual need minimum explain";
+var mnemonic = "timber frost mail addict order tide elevator universe initial then adult sibling";

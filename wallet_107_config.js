@@ -1,1 +1,1 @@
-var mnemonic = "please hand dinner affair broom end tennis title marble logic finish iron";
+var mnemonic = "empty arrest excite gift embody battle wrestle venture repair margin long quarter";

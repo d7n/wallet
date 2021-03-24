@@ -1,1 +1,1 @@
-var mnemonic = "guard puzzle loyal cliff warrior emerge trap train work circle sound dinner";
+var mnemonic = "teach local spike bid wagon buddy spider shed brown decrease very few";

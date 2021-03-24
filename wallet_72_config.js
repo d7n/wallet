@@ -1,1 +1,1 @@
-var mnemonic = "census fiction rely strategy address secret aerobic exhaust excuse inhale gesture sheriff";
+var mnemonic = "oyster share orient police couple net enhance wild timber taxi soda soap";

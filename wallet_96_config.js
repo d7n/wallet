@@ -1,1 +1,1 @@
-var mnemonic = "gadget bread trial canvas keep culture patch total unusual month install dignity";
+var mnemonic = "creek shop bridge grain jazz educate exist gossip story between seminar forward";

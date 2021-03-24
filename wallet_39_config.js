@@ -1,1 +1,1 @@
-var mnemonic = "predict cereal then fragile final suffer lazy sight bullet harvest cost nothing";
+var mnemonic = "crane identify bounce damp pulse glare man sign embody perfect cruel deer";

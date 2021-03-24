@@ -1,1 +1,1 @@
-var mnemonic = "sport village print december spider accident convince spider crystal indicate cactus double";
+var mnemonic = "curve possible circle abuse deposit cloud symbol hurry lawn ranch pause clinic";

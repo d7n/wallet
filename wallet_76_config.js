@@ -1,1 +1,1 @@
-var mnemonic = "energy short mercy unveil bitter bundle actress scorpion rural fit dish produce";
+var mnemonic = "head series chase exact crouch labor business common wide logic child next";

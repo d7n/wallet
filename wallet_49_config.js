@@ -1,1 +1,1 @@
-var mnemonic = "deal much tone second bar point office cube riot nothing chef rotate";
+var mnemonic = "field cigar simple exchange digital foam trial flower walnut congress luggage sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "glove spring town twin biology educate surface term high pudding disorder nature";
+var mnemonic = "adult hard rain upon always decrease differ subject cat ozone enable goose";

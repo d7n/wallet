@@ -1,1 +1,1 @@
-var mnemonic = "inherit help twice weekend crowd nothing sibling vanish undo develop edge empower";
+var mnemonic = "hint sock jelly claw caught lab rug indoor quit afraid switch advance";

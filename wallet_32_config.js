@@ -1,1 +1,1 @@
-var mnemonic = "oxygen prosper oyster step large rack group arrange super tilt bean walk";
+var mnemonic = "later visa lab giraffe borrow okay pelican length estate fault bag benefit";

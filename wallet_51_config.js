@@ -1,1 +1,1 @@
-var mnemonic = "proud staff viable cup pause cat diagram empty spatial usage category caught";
+var mnemonic = "reduce tobacco secret trap insect uphold throw lyrics gaze asset smooth hurt";

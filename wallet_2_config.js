@@ -1,1 +1,1 @@
-var mnemonic = "lottery treat raw tiny satisfy dance calm gloom chuckle hawk obtain sail";
+var mnemonic = "torch violin mesh sudden over pattern robust nephew bacon target cotton essay";

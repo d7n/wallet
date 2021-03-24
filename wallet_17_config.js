@@ -1,1 +1,1 @@
-var mnemonic = "okay wisdom organ ecology imitate duck typical category congress mixture napkin almost";
+var mnemonic = "coral tone harvest march enemy adapt aware save face easily fan wise";

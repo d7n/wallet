@@ -1,1 +1,1 @@
-var mnemonic = "later lake idle hat hello input more fine rhythm cram rubber leopard";
+var mnemonic = "equal between stereo sibling crush moment best lottery donor devote ten adult";

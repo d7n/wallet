@@ -1,1 +1,1 @@
-var mnemonic = "holiday educate diet novel arrive license border antenna property dial roast flip";
+var mnemonic = "legend powder ripple cram learn brown chuckle happy announce fossil math report";

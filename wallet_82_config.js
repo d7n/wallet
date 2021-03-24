@@ -1,1 +1,1 @@
-var mnemonic = "student atom vague army resemble student roast tilt unknown put original senior";
+var mnemonic = "dirt eyebrow narrow fence sweet barely suffer dash penalty cloth track indoor";

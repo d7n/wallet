@@ -1,1 +1,1 @@
-var mnemonic = "dirt ethics expand entire tooth wet loud dish decline chef divert agree";
+var mnemonic = "garlic lend burst fall document cannon small shallow sniff that beach solid";

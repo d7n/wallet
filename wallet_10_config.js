@@ -1,1 +1,1 @@
-var mnemonic = "journey sponsor rely art actual wife forest velvet civil thought sun ball";
+var mnemonic = "maximum indoor nasty stove wife mansion economy heart junk marine motor term";

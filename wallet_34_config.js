@@ -1,1 +1,1 @@
-var mnemonic = "trust latin allow service add blush race vote arctic wide swim cattle";
+var mnemonic = "glow slice baby detect bicycle aisle click tackle dilemma slice gadget hub";

@@ -1,1 +1,1 @@
-var mnemonic = "frog scrap van crater symbol cream matter trash aim keen balance region";
+var mnemonic = "diary boost segment drama door naive wrong other used upper spoon need";

@@ -1,1 +1,1 @@
-var mnemonic = "pond thank delay cement crystal alone legend nasty offer pride skate brown";
+var mnemonic = "burden present high crop under gap top curious vacant prepare average weird";

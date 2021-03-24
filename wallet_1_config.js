@@ -1,1 +1,1 @@
-var mnemonic = "volcano warfare maple ripple ask culture quick soap calm deliver rural popular";
+var mnemonic = "home digital fame flip wood chase essence volume isolate bomb river thumb";

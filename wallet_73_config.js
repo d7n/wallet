@@ -1,1 +1,1 @@
-var mnemonic = "retreat hand cage torch still ecology weasel glory multiply believe away ranch";
+var mnemonic = "typical you puzzle gate urge ski eager awesome play ginger round elephant";

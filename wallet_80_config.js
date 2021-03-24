@@ -1,1 +1,1 @@
-var mnemonic = "famous summer fossil twin fortune employ confirm another enact rescue satisfy become";
+var mnemonic = "pioneer anxiety embody lion rain speed dentist left lunch swarm lawn tortoise";

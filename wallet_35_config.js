@@ -1,1 +1,1 @@
-var mnemonic = "miss order pony sphere grab good stand trust glance code ski hour";
+var mnemonic = "diet dumb update resist pulse oppose degree exhaust doll fall high vital";

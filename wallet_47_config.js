@@ -1,1 +1,1 @@
-var mnemonic = "marriage cry movie explain outdoor jaguar pulp water wealth wonder place cloth";
+var mnemonic = "wagon print pupil cruel planet vague shuffle spring vicious hour light three";

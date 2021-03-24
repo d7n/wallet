@@ -1,1 +1,1 @@
-var mnemonic = "rebuild adult senior ankle forest series oblige pistol laugh coach before burst";
+var mnemonic = "celery art gaze easily sphere border moment feature dove seed snap whip";

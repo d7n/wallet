@@ -1,1 +1,1 @@
-var mnemonic = "bacon select unique one add glance correct lake lemon upon bottom vacant";
+var mnemonic = "panther twenty grief talk elbow buffalo salt helmet imitate type virtual reason";
