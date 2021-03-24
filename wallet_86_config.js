@@ -1,1 +1,1 @@
-var mnemonic = "angry uncle torch hour above what usage annual cupboard click name maximum";
+var mnemonic = "future accident refuse dismiss knock huge call fold session bachelor spike reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "toast sure basic hockey daring december onion alone gather sketch believe road";
+var mnemonic = "release release what tray type property ankle punch retire wrong slide pumpkin";

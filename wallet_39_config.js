@@ -1,1 +1,1 @@
-var mnemonic = "provide safe plug enemy salt oil fossil need then enact bus love";
+var mnemonic = "steak announce drum bounce lottery polar waste gate master nasty praise naive";

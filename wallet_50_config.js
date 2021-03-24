@@ -1,1 +1,1 @@
-var mnemonic = "answer harvest three broom combine mom social reflect vivid hollow two honey";
+var mnemonic = "grape summer razor law sing spike someone artist tobacco cover spring clutch";

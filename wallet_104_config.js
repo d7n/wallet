@@ -1,1 +1,1 @@
-var mnemonic = "sauce blur imitate keen saddle drum code myth arrange tunnel main detail";
+var mnemonic = "glide sight mouse exchange coast exit dentist prepare pet trigger hundred innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "secret develop wall language raw spirit impose cereal frog east round eye";
+var mnemonic = "tortoise agree torch become poet toward tiny video tired balcony refuse range";

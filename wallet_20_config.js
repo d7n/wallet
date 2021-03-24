@@ -1,1 +1,1 @@
-var mnemonic = "coral zoo decline electric pride climb limit crop trouble dynamic leaf win";
+var mnemonic = "soccer thing praise little distance submit material layer brass inch earth quit";

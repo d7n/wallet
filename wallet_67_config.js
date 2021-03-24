@@ -1,1 +1,1 @@
-var mnemonic = "estate piano target venue stuff cage seek crouch solar disease deputy million";
+var mnemonic = "sustain inflict embark cradle lamp either debate cannon park chef thunder goose";

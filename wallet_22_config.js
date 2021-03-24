@@ -1,1 +1,1 @@
-var mnemonic = "master rapid grid island master aunt skill observe rhythm lend right scheme";
+var mnemonic = "shoe special panel employ museum shrimp invest file mask edit potato curve";

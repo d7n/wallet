@@ -1,1 +1,1 @@
-var mnemonic = "range culture book absent until ship border produce thunder fix awkward senior";
+var mnemonic = "essay owner danger poet energy tortoise load razor shaft outer excess hour";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish million siren remove idle ski arena much assault pupil among switch";
+var mnemonic = "april people entry unit novel supply spend test close illegal punch slam";

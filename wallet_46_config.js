@@ -1,1 +1,1 @@
-var mnemonic = "drip busy build where switch taxi mix abstract bulk anxiety acquire wasp";
+var mnemonic = "length famous wish meadow dinner drip pretty bread crystal wine outside physical";

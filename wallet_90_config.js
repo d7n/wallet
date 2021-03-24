@@ -1,1 +1,1 @@
-var mnemonic = "morning father alien hen keep field coral slogan crunch diamond odor quote";
+var mnemonic = "fossil scrap toss trophy marble fossil wish yard priority joy despair slush";

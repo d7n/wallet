@@ -1,1 +1,1 @@
-var mnemonic = "skin today priority head radio horror monster order orbit argue catch wisdom";
+var mnemonic = "sheriff film pyramid supply island buddy funny render panic silent settle recall";

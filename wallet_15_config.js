@@ -1,1 +1,1 @@
-var mnemonic = "whale frost poem dune clog scale glory surround bus multiply bind intact";
+var mnemonic = "sunny valve arm decorate solar final joy truck grocery reflect subway cabbage";

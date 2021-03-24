@@ -1,1 +1,1 @@
-var mnemonic = "east escape charge various session arrow settle narrow basket ski close kind";
+var mnemonic = "renew radio brisk acid walk electric human split ice nice foam duty";

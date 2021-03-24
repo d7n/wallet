@@ -1,1 +1,1 @@
-var mnemonic = "talk gaze evoke robot chat output maid resemble trade wild laptop leopard";
+var mnemonic = "boss impact build planet hedgehog warfare rotate game margin mind ordinary awkward";

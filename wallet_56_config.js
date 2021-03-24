@@ -1,1 +1,1 @@
-var mnemonic = "february tag way tail grit maximum devote birth survey wife inside bounce";
+var mnemonic = "asset pledge endless frown trick noodle shuffle rather glory fade math video";

@@ -1,1 +1,1 @@
-var mnemonic = "language hole purity tourist young mandate swamp machine canoe baby sun current";
+var mnemonic = "inherit major luggage jar then pizza lounge kangaroo cricket giggle theory atom";

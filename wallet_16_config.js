@@ -1,1 +1,1 @@
-var mnemonic = "armed cushion spin infant delay axis valley control armor swear drastic injury";
+var mnemonic = "pulse tank green assault fragile arctic hawk daughter diagram more board brave";

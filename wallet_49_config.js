@@ -1,1 +1,1 @@
-var mnemonic = "reunion abandon marine puppy rib room bar pencil sketch smart flag clarify";
+var mnemonic = "material crime essence pill awesome napkin pull amateur refuse enroll shop fury";

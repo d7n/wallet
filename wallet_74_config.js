@@ -1,1 +1,1 @@
-var mnemonic = "cram matrix slam duty cable sponsor enjoy nerve electric exercise hair asset";
+var mnemonic = "keep recipe six differ term original one fit winner flip barely nice";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige utility penalty civil buddy tattoo return rich raw grass loud excite";
+var mnemonic = "devote appear cannon income derive general burden ribbon priority fancy sort alien";

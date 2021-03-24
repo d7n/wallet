@@ -1,1 +1,1 @@
-var mnemonic = "flag fruit toss mask impulse noble organ board correct trap echo stick";
+var mnemonic = "decide photo federal digital day expand mix ozone lake hope shell next";

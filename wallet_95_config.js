@@ -1,1 +1,1 @@
-var mnemonic = "chunk dragon rain bullet mother december suit canoe trap seven deny wet";
+var mnemonic = "office topic kingdom pill gate moment subject fortune crazy buzz present muscle";

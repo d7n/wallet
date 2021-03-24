@@ -1,1 +1,1 @@
-var mnemonic = "frozen symptom amount tape evidence avoid scheme lift shoot audit old fog";
+var mnemonic = "correct pigeon giraffe more spot antenna still fatigue utility artwork mountain road";

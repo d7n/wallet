@@ -1,1 +1,1 @@
-var mnemonic = "spy eight good suspect stick swarm gift off jewel defy opera total";
+var mnemonic = "dentist express shove duty cute vacant they switch file rhythm charge able";

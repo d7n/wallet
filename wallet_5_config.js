@@ -1,1 +1,1 @@
-var mnemonic = "idle blush recall pact rival fork shoulder perfect dinosaur aisle answer field";
+var mnemonic = "century output trigger spirit alcohol manage scene next source much apple rotate";

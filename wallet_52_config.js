@@ -1,1 +1,1 @@
-var mnemonic = "gold pen struggle such dignity youth december elephant useless lyrics sight call";
+var mnemonic = "disorder youth sweet arctic baby juice service hello dolphin cannon depth ankle";

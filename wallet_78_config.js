@@ -1,1 +1,1 @@
-var mnemonic = "half bomb describe crazy argue bird entire tiger cargo slight start auto";
+var mnemonic = "away pudding talk endless inside tribe blind twenty frog slice search season";

@@ -1,1 +1,1 @@
-var mnemonic = "festival arrange credit venture blood sing giant police must wine volume eight";
+var mnemonic = "royal autumn timber ramp service deliver distance knife void blue furnace attitude";

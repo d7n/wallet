@@ -1,1 +1,1 @@
-var mnemonic = "ugly senior hundred antenna gift mystery shadow sting dog glue toddler bread";
+var mnemonic = "good domain evil rent nuclear check approve reopen salmon poverty under manage";

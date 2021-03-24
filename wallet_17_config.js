@@ -1,1 +1,1 @@
-var mnemonic = "voice neither orange island dial cereal obscure margin script reform rare flee";
+var mnemonic = "forum conduct poem pass lemon essay spawn elder category impose barrel evoke";

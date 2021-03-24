@@ -1,1 +1,1 @@
-var mnemonic = "hope raw tobacco exotic lake lake phone flag audit october update assault";
+var mnemonic = "artefact machine sting sister sponsor build slim token recall supply law myth";

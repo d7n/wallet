@@ -1,1 +1,1 @@
-var mnemonic = "credit stuff town road camera region sound steak laptop wasp lemon vintage";
+var mnemonic = "detail stock filter spice all strategy parade hotel carry tongue alone main";

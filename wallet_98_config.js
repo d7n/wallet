@@ -1,1 +1,1 @@
-var mnemonic = "wire divert shuffle mobile noise harvest broken only mad dinosaur victory maze";
+var mnemonic = "stay goat brush kangaroo work world mixed invest stage shine slush float";

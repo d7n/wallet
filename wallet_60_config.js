@@ -1,1 +1,1 @@
-var mnemonic = "drum candy afraid hammer define wage argue boring kid divorce feed lamp";
+var mnemonic = "quality traffic filter rally merit lobster suggest awake surface put cat ranch";

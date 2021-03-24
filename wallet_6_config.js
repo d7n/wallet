@@ -1,1 +1,1 @@
-var mnemonic = "wheat woman wool circle regret marriage help tide female butter milk vocal";
+var mnemonic = "wisdom display eyebrow ski segment gravity cause arctic habit oxygen bike treat";

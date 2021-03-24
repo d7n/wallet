@@ -1,1 +1,1 @@
-var mnemonic = "tackle crush art foam skull rival depth harvest proof surround dolphin olive";
+var mnemonic = "window wrist hat gauge exchange victory kid manage aware decorate payment benefit";

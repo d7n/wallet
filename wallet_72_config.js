@@ -1,1 +1,1 @@
-var mnemonic = "cat romance return among push pause ecology what stable fox fee police";
+var mnemonic = "nothing pumpkin knife priority sign garbage banana advance scrap pride forget cattle";

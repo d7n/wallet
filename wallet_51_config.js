@@ -1,1 +1,1 @@
-var mnemonic = "trial payment order tide kidney sand seven help advance claw travel social";
+var mnemonic = "rookie season puzzle art define key ivory ritual love amazing attack between";

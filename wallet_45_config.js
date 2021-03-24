@@ -1,1 +1,1 @@
-var mnemonic = "near game uniform hen cart hybrid jazz run arena segment popular put";
+var mnemonic = "museum vast flight defense raven treat oyster marine sample spy climb fantasy";

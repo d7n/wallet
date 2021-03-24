@@ -1,1 +1,1 @@
-var mnemonic = "urge south large word become oak indoor pepper rhythm patrol furnace lion";
+var mnemonic = "slot prize idea advance rescue tree tide taxi silly tide hub clap";

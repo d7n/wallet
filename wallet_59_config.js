@@ -1,1 +1,1 @@
-var mnemonic = "liquid coast theory devote image fabric beyond eye bridge salmon silver notable";
+var mnemonic = "muscle assist save useless reason gift fiction excess universe error asset concert";

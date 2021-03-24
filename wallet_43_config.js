@@ -1,1 +1,1 @@
-var mnemonic = "aunt chuckle adult what drop balcony flight wasp insect kitchen bottom stuff";
+var mnemonic = "knee service obtain sauce sadness junior grab soul rude census know seat";

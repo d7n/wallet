@@ -1,1 +1,1 @@
-var mnemonic = "airport behind orphan improve call broccoli habit spice visit fossil ring jar";
+var mnemonic = "damp actress bar moment solid conduct elevator upon cliff enlist boost anxiety";

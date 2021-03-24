@@ -1,1 +1,1 @@
-var mnemonic = "language depart duck oyster neither destroy mix coconut stone vague scissors knife";
+var mnemonic = "resist axis gravity push ramp guilt chaos solution trial emotion furnace marine";

@@ -1,1 +1,1 @@
-var mnemonic = "control mass input tip crack front indoor summer oppose result pigeon knock";
+var mnemonic = "blind alert captain raise autumn scene crunch pepper hockey alone deliver armed";

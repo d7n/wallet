@@ -1,1 +1,1 @@
-var mnemonic = "amazing copy expose gather whale assist clever elephant honey height path omit";
+var mnemonic = "obey response report satoshi among zebra orient quick expose opinion approve alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans color bean size parent innocent mean million danger settle arm rebel";
+var mnemonic = "nation install fiber stem hire disagree bamboo either matter sand joy young";

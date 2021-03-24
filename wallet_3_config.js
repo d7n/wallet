@@ -1,1 +1,1 @@
-var mnemonic = "roast arrive timber moon ticket farm pledge parent company opera border film";
+var mnemonic = "clinic enough mosquito control spawn hover plug weasel rubber art possible craft";

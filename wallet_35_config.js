@@ -1,1 +1,1 @@
-var mnemonic = "soldier fringe diet situate animal online smoke couple devote hawk scrap ask";
+var mnemonic = "language observe possible sting apart brass mind absent clarify van case memory";

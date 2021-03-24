@@ -1,1 +1,1 @@
-var mnemonic = "coin skin matter favorite dance service inherit wear phrase rookie stick vibrant";
+var mnemonic = "erupt spray turtle boost mesh crumble two oblige voice renew forget brief";

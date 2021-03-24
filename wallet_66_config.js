@@ -1,1 +1,1 @@
-var mnemonic = "clip thunder nerve glance gallery only spell twelve guitar birth timber brown";
+var mnemonic = "absent curtain mesh toe dignity slim digital planet just right end expose";

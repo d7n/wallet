@@ -1,1 +1,1 @@
-var mnemonic = "divorce shaft salon town extra oak muffin ask setup pattern diamond indoor";
+var mnemonic = "athlete old usage knife review diesel fiber opera deposit length ticket sugar";

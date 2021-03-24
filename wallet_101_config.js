@@ -1,1 +1,1 @@
-var mnemonic = "dish glimpse promote cube program any assist enact noise tobacco sadness canal";
+var mnemonic = "poet winter squirrel gaze lawn hour media issue crop cherry auction phone";

@@ -1,1 +1,1 @@
-var mnemonic = "medal will session citizen relax merry summer silly educate kangaroo unfold lonely";
+var mnemonic = "useless aspect buyer fever eagle predict orient fury marble fold tongue access";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe copy pulse napkin output mouse comfort accident pipe live common essence";
+var mnemonic = "raccoon glove comfort atom flat sugar bridge neck dilemma absurd emerge question";

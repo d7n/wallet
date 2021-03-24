@@ -1,1 +1,1 @@
-var mnemonic = "solar surface grape impact destroy someone whale turkey cherry bamboo observe excess";
+var mnemonic = "arrow what noble must fish tragic liberty dinner proud day wish mimic";

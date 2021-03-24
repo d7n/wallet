@@ -1,1 +1,1 @@
-var mnemonic = "eight mule food magnet chicken eye evil shock modify volume evil swim";
+var mnemonic = "build essence achieve coach brick monster math convince skull net assume purse";

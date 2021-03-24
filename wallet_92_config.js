@@ -1,1 +1,1 @@
-var mnemonic = "tuition basic march vocal raw accuse middle awful edge unhappy admit squeeze";
+var mnemonic = "fix suggest decrease foam divert olive clerk protect orient fiction adult coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "sick mosquito smile idle lecture decorate puppy bundle anchor nephew kangaroo suffer";
+var mnemonic = "blossom forest behave woman talk pluck skirt laptop quantum butter pause duck";

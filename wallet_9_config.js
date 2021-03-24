@@ -1,1 +1,1 @@
-var mnemonic = "split material school coach dragon yellow canvas toss crunch tool audit flee";
+var mnemonic = "urban system taxi truth pair link claw code work rhythm bless birth";

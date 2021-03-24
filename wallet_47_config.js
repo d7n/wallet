@@ -1,1 +1,1 @@
-var mnemonic = "balance manual squeeze flight cement table unusual hill nice shrimp property remain";
+var mnemonic = "genius denial faculty minimum before fury trend night benefit album alcohol adapt";

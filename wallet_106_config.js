@@ -1,1 +1,1 @@
-var mnemonic = "awkward leaf priority tree audit matter ranch dust announce visual special indicate";
+var mnemonic = "mother jazz token episode assume rabbit lecture fruit common correct fringe acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "lava impact first aspect draft fetch chaos group hub useless notable switch";
+var mnemonic = "mammal render satoshi dutch omit grab elegant mixed they junk credit riot";

@@ -1,1 +1,1 @@
-var mnemonic = "sock cactus rain guard identify bulk very way actual talent truck mistake";
+var mnemonic = "village cage whale plunge grape loyal comic impact echo virtual excess large";

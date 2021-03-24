@@ -1,1 +1,1 @@
-var mnemonic = "glad puzzle state tone comic venture surround gloom unit shoot exchange trade";
+var mnemonic = "kiwi chase bus quick camera garlic always helmet steak supply wool foot";

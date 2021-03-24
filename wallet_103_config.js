@@ -1,1 +1,1 @@
-var mnemonic = "web rural champion team toilet water student feature square client fashion episode";
+var mnemonic = "garment drift document siege often rich giraffe library hospital kit sight mechanic";

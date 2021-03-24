@@ -1,1 +1,1 @@
-var mnemonic = "actual hundred must immune balcony scene cream disagree version tent toward initial";
+var mnemonic = "relief inmate return valley inherit siege finger safe source grace follow canal";

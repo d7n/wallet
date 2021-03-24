@@ -1,1 +1,1 @@
-var mnemonic = "diary review file harsh home picture access monitor color draw try stable";
+var mnemonic = "wish shoulder drastic select pretty civil treat cover same saddle eye universe";

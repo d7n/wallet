@@ -1,1 +1,1 @@
-var mnemonic = "faint film federal arena tail armed woman feed wrist journey oppose brain";
+var mnemonic = "glass game wonder sun general elbow endless radio mom remind floor post";

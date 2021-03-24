@@ -1,1 +1,1 @@
-var mnemonic = "execute audit modify engine eager moment east cube used liar museum antenna";
+var mnemonic = "famous stadium shield spice future coach chimney obey same column castle mass";

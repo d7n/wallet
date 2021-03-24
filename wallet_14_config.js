@@ -1,1 +1,1 @@
-var mnemonic = "cost scout empty ordinary junior item weather rack evil blanket pact security";
+var mnemonic = "common burden razor possible gasp rich large elevator reward never diary shaft";

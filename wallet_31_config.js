@@ -1,1 +1,1 @@
-var mnemonic = "action drop noble urban sting budget churn tone awkward guard travel cabbage";
+var mnemonic = "essay insect beyond always surround tenant wreck empty frog shrimp city ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "basket sketch inform day base rally vote about ocean color pigeon volume";
+var mnemonic = "come extra faint garden lunch fence chapter torch know column tower comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "edge radio system goose three make effort gadget acid curtain flip knife";
+var mnemonic = "glimpse resource post thumb person funny giant enough flame follow cross fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed describe gasp oak lady race assume tennis carbon erase express language";
+var mnemonic = "drop pupil prepare lobster blur omit act glimpse quit captain spot gun";

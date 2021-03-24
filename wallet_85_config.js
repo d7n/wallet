@@ -1,1 +1,1 @@
-var mnemonic = "poem latin donkey fine critic snow conduct derive display cable rubber marine";
+var mnemonic = "shrimp sort good virus uphold twice keep wife punch shoot load basic";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor slow desk enter bargain hospital verb mask tube life around scan";
+var mnemonic = "alarm price chronic cram pulse mass just oxygen worry taste symptom indicate";

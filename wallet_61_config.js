@@ -1,1 +1,1 @@
-var mnemonic = "illness dance isolate task cover myth elbow blame alarm gain post praise";
+var mnemonic = "share team entire foil million cattle stumble together galaxy next glimpse glad";

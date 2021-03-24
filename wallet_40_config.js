@@ -1,1 +1,1 @@
-var mnemonic = "address brush consider dinner exercise fatigue salon awkward seek knee priority valve";
+var mnemonic = "mesh bamboo scheme okay wheel ship forest seat drama six unfold wave";

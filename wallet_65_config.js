@@ -1,1 +1,1 @@
-var mnemonic = "differ orbit hover unique town assist rack later heart nurse congress talk";
+var mnemonic = "essence decline dizzy prison space produce radio version camera across ability seat";

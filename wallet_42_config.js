@@ -1,1 +1,1 @@
-var mnemonic = "similar seminar number refuse program void length ahead asset output mesh style";
+var mnemonic = "obey process army fantasy gauge school concert skirt twelve hen desk before";

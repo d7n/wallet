@@ -1,1 +1,1 @@
-var mnemonic = "verb gym proud item nerve shock fly birth foil tornado prison rice";
+var mnemonic = "call blame stage lawsuit jewel panel foil crane position deposit solar border";

@@ -1,1 +1,1 @@
-var mnemonic = "cement seminar suggest kingdom moral digital permit outside angle asset sting jewel";
+var mnemonic = "flavor juice that auto habit urban clip random evolve rifle custom child";

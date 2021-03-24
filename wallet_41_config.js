@@ -1,1 +1,1 @@
-var mnemonic = "oxygen cancel flush sight chat wink strong solution extend brisk supreme catalog";
+var mnemonic = "predict mutual mercy frog deny medal open notable supply can unfold submit";

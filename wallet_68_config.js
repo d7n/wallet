@@ -1,1 +1,1 @@
-var mnemonic = "jewel sing disorder useful alarm dinosaur wasp lion catalog cousin later input";
+var mnemonic = "click depend quote alone say route try useless census neutral aware connect";

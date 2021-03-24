@@ -1,1 +1,1 @@
-var mnemonic = "human atom course spoil shuffle trophy kite antenna false decade jeans abandon";
+var mnemonic = "switch current blanket demand cost error input winner belt save oppose warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder vacant divorce junk offer upgrade whale school either short derive cool";
+var mnemonic = "fork zoo jar say adapt move range below casino tunnel orbit cruise";

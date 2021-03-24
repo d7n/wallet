@@ -1,1 +1,1 @@
-var mnemonic = "lamp thing cover swarm gravity upset desert can surprise human region beyond";
+var mnemonic = "negative castle naive maze almost laugh hurry wrestle bus team girl fury";

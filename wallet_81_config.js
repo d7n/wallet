@@ -1,1 +1,1 @@
-var mnemonic = "type carbon attitude jeans fetch episode there cart hurdle cave hard diamond";
+var mnemonic = "video spy negative plastic can remind heavy sausage sphere shallow labor frequent";

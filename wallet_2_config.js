@@ -1,1 +1,1 @@
-var mnemonic = "balcony faint door moral team news roast curve lunch weird witness then";
+var mnemonic = "accuse duck faint design core base gun quiz must bargain whale vendor";

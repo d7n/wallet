@@ -1,1 +1,1 @@
-var mnemonic = "animal carry subject solar guess crisp erosion fruit off reveal vapor job";
+var mnemonic = "outdoor elevator angle dinosaur moon nothing good curve matter normal garden stick";
