@@ -1,1 +1,1 @@
-var mnemonic = "cancel assist verify burst alter shallow dance mimic mad faint vehicle guitar";
+var mnemonic = "yard child gold canyon gate chat walnut blast venue scrap fatal beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "desert universe explain ethics lizard lens allow lunar promote act tip flavor";
+var mnemonic = "cement mixed patient crane joy alone balance scheme enlist crime level brown";

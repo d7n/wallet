@@ -1,1 +1,1 @@
-var mnemonic = "carbon rich tent seed inspire aisle derive crane slab crumble beauty enter";
+var mnemonic = "destroy behave crew thrive mirror pear olive leaf deny radar mammal dry";

@@ -1,1 +1,1 @@
-var mnemonic = "mass sound soda large attend exist penalty noodle nominee corn weasel fire";
+var mnemonic = "idea chunk original avocado real run finish minute subject tragic entire possible";

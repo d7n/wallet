@@ -1,1 +1,1 @@
-var mnemonic = "defy vacuum shrimp certain setup armor struggle rule nurse danger cave cricket";
+var mnemonic = "number seed divorce unit vintage income auto average screen mix tortoise tag";

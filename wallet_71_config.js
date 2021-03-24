@@ -1,1 +1,1 @@
-var mnemonic = "around carpet table ankle spatial alter aware bright remove fun nominee awesome";
+var mnemonic = "modify brush rose admit salad wrap endless decade casino width salon very";

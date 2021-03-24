@@ -1,1 +1,1 @@
-var mnemonic = "color seat level search cattle laptop chimney hair grow index connect electric";
+var mnemonic = "subway when erupt answer vault release wrong hello actress recall drip ankle";

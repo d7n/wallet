@@ -1,1 +1,1 @@
-var mnemonic = "grid blush ancient cute patrol license beef dynamic gentle upset prefer apology";
+var mnemonic = "together ball grab head material assume myth parrot sweet topic depend zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "teach scan argue push people bridge melody resource helmet height reduce useful";
+var mnemonic = "ginger riot clarify near ring hospital inmate minimum economy quote switch purity";

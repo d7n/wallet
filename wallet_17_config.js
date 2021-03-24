@@ -1,1 +1,1 @@
-var mnemonic = "dice swallow shallow smooth salmon multiply always clean scare general call inquiry";
+var mnemonic = "attitude bridge law glad banana pass return expose entire urban furnace tail";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade machine nuclear wise deny throw paddle sort example rebuild inch thrive";
+var mnemonic = "limit build split pencil siren enough right toe describe device chef they";

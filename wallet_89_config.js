@@ -1,1 +1,1 @@
-var mnemonic = "daughter horse forget relax globe purse name attend shrimp anchor lava clown";
+var mnemonic = "under maple gentle drill today setup jealous symbol age view position annual";

@@ -1,1 +1,1 @@
-var mnemonic = "danger senior document attend dove version zebra shoe road seminar bitter victory";
+var mnemonic = "upset perfect convince chase reward romance album gown reform moral police design";

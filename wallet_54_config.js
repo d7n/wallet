@@ -1,1 +1,1 @@
-var mnemonic = "provide era dish rotate mean kick barely sport stick copper tornado miracle";
+var mnemonic = "chase crucial buyer over draw idle speak avoid shed aunt alone drastic";

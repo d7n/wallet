@@ -1,1 +1,1 @@
-var mnemonic = "daughter maze mouse inject crime chef relief asset slender prefer income clock";
+var mnemonic = "elder subject lava rent magic fatigue exercise giggle dress ordinary develop wine";

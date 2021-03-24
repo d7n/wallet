@@ -1,1 +1,1 @@
-var mnemonic = "soccer submit remember fence model wire room enough cousin joy august letter";
+var mnemonic = "peanut neutral melt oppose afford income fatigue aspect member ramp egg husband";

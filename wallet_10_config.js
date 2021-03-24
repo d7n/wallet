@@ -1,1 +1,1 @@
-var mnemonic = "blur say museum diagram arm traffic fruit until install render swallow creek";
+var mnemonic = "firm clerk advance flip fish idle income ripple logic payment scatter club";

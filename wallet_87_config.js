@@ -1,1 +1,1 @@
-var mnemonic = "remain ozone health shine reward fire exercise envelope wish divorce east true";
+var mnemonic = "attitude rural fresh utility taxi habit tackle tide subway fragile panic shift";

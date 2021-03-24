@@ -1,1 +1,1 @@
-var mnemonic = "inmate cable butter winter height series input wheat catch episode crazy habit";
+var mnemonic = "key group female elder release purchase vanish oval theory mixed beyond ankle";

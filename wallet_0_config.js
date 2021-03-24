@@ -1,1 +1,1 @@
-var mnemonic = "black badge present stove pluck barely replace cricket impact pulp unaware match";
+var mnemonic = "mushroom speed federal sustain margin emerge fruit wasp oblige abuse bag mother";

@@ -1,1 +1,1 @@
-var mnemonic = "sun awake pitch river cake text avoid spell mad subway mixed rapid";
+var mnemonic = "kingdom identify combine embody shift peace current spider thunder jump carbon above";

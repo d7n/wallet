@@ -1,1 +1,1 @@
-var mnemonic = "number pigeon innocent hint giant series frame gas kind keep explain agent";
+var mnemonic = "clown winter blood strategy keep leaf sphere napkin heavy chair nasty antenna";

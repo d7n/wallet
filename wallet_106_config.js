@@ -1,1 +1,1 @@
-var mnemonic = "remove expose prize page poverty cricket garbage onion couple bike clutch gather";
+var mnemonic = "tone purity nest vanish reveal trial chronic never such ring sick blur";

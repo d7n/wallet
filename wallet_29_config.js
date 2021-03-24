@@ -1,1 +1,1 @@
-var mnemonic = "treat success shell bitter smart deer opinion cruel hidden october calm can";
+var mnemonic = "wish hood direct point saddle street jeans during crouch high explain physical";

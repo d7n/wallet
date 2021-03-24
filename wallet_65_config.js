@@ -1,1 +1,1 @@
-var mnemonic = "memory kid love move desert pass ozone caution script emotion vivid pigeon";
+var mnemonic = "mask frown what effort buffalo inside blossom maple chimney evoke oyster element";

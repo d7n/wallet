@@ -1,1 +1,1 @@
-var mnemonic = "over smile fire bright cloth able barely apple fan always wild blossom";
+var mnemonic = "only film note fork hand burst power about account buyer night clay";

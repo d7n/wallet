@@ -1,1 +1,1 @@
-var mnemonic = "toilet achieve drip bulb wink crack barely evil can proud cycle split";
+var mnemonic = "magnet wrist actress forget slam oval hollow rapid absent pitch copy tortoise";

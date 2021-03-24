@@ -1,1 +1,1 @@
-var mnemonic = "anchor envelope oval chat desk parrot swap insect chicken teach exotic sister";
+var mnemonic = "senior element celery photo volume blood club uncle umbrella fossil audit that";

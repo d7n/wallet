@@ -1,1 +1,1 @@
-var mnemonic = "coast among tired camp team edit giant airport symbol predict ride regular";
+var mnemonic = "season universe front major surface journey volcano wire reveal angle mercy feel";

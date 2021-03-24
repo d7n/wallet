@@ -1,1 +1,1 @@
-var mnemonic = "demise grow garment explain alien scatter air man material exhibit online forum";
+var mnemonic = "guilt team concert riot syrup front bottom what key industry office start";

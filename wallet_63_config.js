@@ -1,1 +1,1 @@
-var mnemonic = "audit permit acquire gauge museum return reflect scrub guess place hero manual";
+var mnemonic = "use innocent sort anxiety south ethics sudden shuffle author weather trigger drive";

@@ -1,1 +1,1 @@
-var mnemonic = "visit medal genius basic invest patch wave chair shine praise winner inform";
+var mnemonic = "solve scout surround fuel enroll weapon spy goat glue idea beach alone";

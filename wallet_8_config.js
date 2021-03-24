@@ -1,1 +1,1 @@
-var mnemonic = "accident flower sight evolve deny tent clutch junk antenna secret account song";
+var mnemonic = "stove blood hurry visit puzzle practice wasp entry track turn sport grape";

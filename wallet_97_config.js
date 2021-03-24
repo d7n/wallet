@@ -1,1 +1,1 @@
-var mnemonic = "local live fever fortune unit marine lion quarter tiger south start omit";
+var mnemonic = "soon input oblige salmon mean surprise labor easy crane chapter scale manual";

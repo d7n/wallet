@@ -1,1 +1,1 @@
-var mnemonic = "maze deliver observe when layer bullet unveil mechanic monkey divert bike artefact";
+var mnemonic = "ask pottery replace crane arrow inspire siren pass eyebrow yellow mask usual";

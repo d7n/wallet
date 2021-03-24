@@ -1,1 +1,1 @@
-var mnemonic = "foam wash polar fat pen junk casino debris fire lava water uniform";
+var mnemonic = "one grab include shallow climb soldier staff clock ketchup brother leg early";

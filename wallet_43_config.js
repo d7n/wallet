@@ -1,1 +1,1 @@
-var mnemonic = "excess truly flower panther rare large goddess toward estate light sun boss";
+var mnemonic = "sister canoe mean sting quick quality sing unable sunset way used consider";

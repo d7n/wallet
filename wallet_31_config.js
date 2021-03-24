@@ -1,1 +1,1 @@
-var mnemonic = "actress heart october urge mesh runway buffalo early ride clump fury kitchen";
+var mnemonic = "sustain window drama sport domain acquire assist fury cost daring glimpse cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "empower eagle ranch control swarm clean achieve mercy deputy brain relief measure";
+var mnemonic = "miracle barely cloud rigid program surface time vicious biology joy box resemble";

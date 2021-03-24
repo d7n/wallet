@@ -1,1 +1,1 @@
-var mnemonic = "scorpion battle picture wall rely entry sea syrup twice area silly scatter";
+var mnemonic = "giraffe fun hockey elegant harsh runway inspire news wrong congress again fence";

@@ -1,1 +1,1 @@
-var mnemonic = "nation gorilla gown web bean case gasp second grid patrol clock glow";
+var mnemonic = "slice dream lemon mixed sea close demand foil ride hedgehog census fall";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich edit share sausage solar deposit vague frost funny holiday unlock drill";
+var mnemonic = "powder vital sleep access umbrella scrub breeze hand receive scrub decide increase";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire protect error soap budget cotton injury strike trap object spring gloom";
+var mnemonic = "immune scorpion seat service fee sand sample liberty stool duck ozone float";

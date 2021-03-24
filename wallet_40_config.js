@@ -1,1 +1,1 @@
-var mnemonic = "flip promote expect genius nurse unveil matrix owner brick curve solve angle";
+var mnemonic = "between grain answer tourist bracket marriage coil input under nation suggest script";

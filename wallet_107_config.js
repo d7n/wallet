@@ -1,1 +1,1 @@
-var mnemonic = "cool music butter glimpse lumber comfort era pet close before they apart";
+var mnemonic = "win awful provide shrimp giggle drip festival version monster sell safe virtual";

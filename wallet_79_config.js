@@ -1,1 +1,1 @@
-var mnemonic = "where napkin friend walk devote lounge spatial spy orbit pear predict fault";
+var mnemonic = "raise initial lens broken thing spot license tired attack upon surprise raven";

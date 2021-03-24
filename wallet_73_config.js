@@ -1,1 +1,1 @@
-var mnemonic = "build bulk satoshi staff foil nothing coil brown slim gentle gaze juice";
+var mnemonic = "river feature fan lend fog run amused frame poem jar deliver upper";

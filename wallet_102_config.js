@@ -1,1 +1,1 @@
-var mnemonic = "bread gesture broccoli cake wrap cook daring member sick only clerk cigar";
+var mnemonic = "agree valley such glory obtain above orange radio february immune any crouch";

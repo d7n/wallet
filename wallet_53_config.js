@@ -1,1 +1,1 @@
-var mnemonic = "virtual tent skirt puppy pepper offer warrior alley noodle second material never";
+var mnemonic = "cash crew minor tube double reform notice crop lucky battle escape pear";

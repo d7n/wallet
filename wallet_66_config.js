@@ -1,1 +1,1 @@
-var mnemonic = "meadow tuition cancel nose wave intact news fly drama crystal random luggage";
+var mnemonic = "memory act spice soon post sleep loud scale metal work awkward absorb";

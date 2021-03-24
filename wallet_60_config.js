@@ -1,1 +1,1 @@
-var mnemonic = "anger view hero need love pulse ozone fork despair confirm debris angry";
+var mnemonic = "frost pyramid health enter verify scare zero enough awful begin bean shuffle";

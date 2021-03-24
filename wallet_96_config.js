@@ -1,1 +1,1 @@
-var mnemonic = "alarm neglect hope process tiger glove canvas hub soft gallery unhappy cup";
+var mnemonic = "hint message hurt member tag panic lecture modify latin orange orient sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "leave exact beyond crew reason rate buzz ribbon odor heavy ramp check";
+var mnemonic = "exile soon whip fun habit good phone flash clever mixed hub time";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant question bean under either armed monitor fan huge noodle power autumn";
+var mnemonic = "remove entry toilet rival girl empty spy pistol pottery muffin vendor quality";

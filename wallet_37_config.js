@@ -1,1 +1,1 @@
-var mnemonic = "chef hunt pole leisure girl control crisp strong circle disease design gallery";
+var mnemonic = "about hour idea oval account life street super glory ladder oblige doll";

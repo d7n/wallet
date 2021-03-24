@@ -1,1 +1,1 @@
-var mnemonic = "permit borrow orbit foster sell spot never acquire peasant luggage sausage anger";
+var mnemonic = "derive fossil vibrant card choose wing arm pond craft slender humor edit";

@@ -1,1 +1,1 @@
-var mnemonic = "brick bid priority sauce mule margin crater tilt village adult tackle truth";
+var mnemonic = "cover civil party term pause kingdom promote race day crack long orange";

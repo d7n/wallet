@@ -1,1 +1,1 @@
-var mnemonic = "mistake margin mixture ozone still poem random input result three shop goat";
+var mnemonic = "keen ecology alter observe fog curve talk busy unfold harsh embody fox";

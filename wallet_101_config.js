@@ -1,1 +1,1 @@
-var mnemonic = "wet pilot country giant venue sick tissue time ability sunny category patch";
+var mnemonic = "around pelican dream joke earth deposit pigeon upper heart ivory victory donate";

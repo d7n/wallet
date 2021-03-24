@@ -1,1 +1,1 @@
-var mnemonic = "advance skirt method afraid nephew effort wonder carry clog vanish senior account";
+var mnemonic = "caught milk candy give large stove artist among seven hobby element unfair";

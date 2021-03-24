@@ -1,1 +1,1 @@
-var mnemonic = "ticket clump special uncover mind shield exhaust song have dynamic faith dragon";
+var mnemonic = "view visit skate million goat stomach crush dinosaur vague muffin fury modify";

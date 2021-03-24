@@ -1,1 +1,1 @@
-var mnemonic = "shoot city kite until hunt torch foil organ slide riot fork toy";
+var mnemonic = "quick happy pizza rapid typical plastic trend gospel ordinary reopen spice recipe";

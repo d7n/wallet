@@ -1,1 +1,1 @@
-var mnemonic = "rally happy emotion harbor imitate below fault scene person water carbon army";
+var mnemonic = "voyage shine van truly label fitness whisper aunt person tumble section brave";

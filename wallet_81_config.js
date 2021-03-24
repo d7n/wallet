@@ -1,1 +1,1 @@
-var mnemonic = "legend element tail old rug flee submit climb column core grid defy";
+var mnemonic = "update amused kitten hire range hill reflect gorilla tuition skate boring bus";

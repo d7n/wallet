@@ -1,1 +1,1 @@
-var mnemonic = "siren kick tube random inhale awesome siren title actress siren funny sense";
+var mnemonic = "escape swarm donate fiscal consider interest island clip antenna venture consider kind";

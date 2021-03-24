@@ -1,1 +1,1 @@
-var mnemonic = "pen lens seek caution forward talent benefit mercy puppy side weather next";
+var mnemonic = "fruit mass science renew kiss gesture cream apple only fashion traffic relax";

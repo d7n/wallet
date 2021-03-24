@@ -1,1 +1,1 @@
-var mnemonic = "merit oyster chalk couch mention gauge goose craft ignore field resource soda";
+var mnemonic = "slogan veteran cement oyster rare series forum machine trouble heart negative twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi route spoon hospital silent pluck oxygen cube betray exotic code evolve";
+var mnemonic = "puppy volcano act habit budget document kick dress iron burden bicycle network";

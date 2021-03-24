@@ -1,1 +1,1 @@
-var mnemonic = "decorate fame napkin valley pen wool pool boil defy report assault ignore";
+var mnemonic = "soda century apology school reflect nature harsh spatial caution settle burger huge";

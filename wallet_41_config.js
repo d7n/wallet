@@ -1,1 +1,1 @@
-var mnemonic = "ticket oil limit fiction option ankle remove cloth rebel reform track core";
+var mnemonic = "text celery honey grace guilt pulse measure dragon anxiety age divert appear";

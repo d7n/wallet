@@ -1,1 +1,1 @@
-var mnemonic = "enemy notable blind anxiety green share cute unlock board chest author current";
+var mnemonic = "trust syrup gun embrace hammer viable gap mercy bundle vague sport three";

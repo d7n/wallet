@@ -1,1 +1,1 @@
-var mnemonic = "typical chuckle mango pyramid choose cloth benefit sail join mixture kitchen fox";
+var mnemonic = "pave tank blast ostrich uncle vacuum simple stairs question accuse fat antenna";

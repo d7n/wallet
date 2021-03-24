@@ -1,1 +1,1 @@
-var mnemonic = "salt monitor decide weird enjoy sausage old payment diamond prefer october near";
+var mnemonic = "vehicle garage magnet donate pudding weird august gentle million grit arrest maple";

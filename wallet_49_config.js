@@ -1,1 +1,1 @@
-var mnemonic = "crane reveal age onion brush genius motor present shadow crew divide want";
+var mnemonic = "jeans entire fluid sword crunch disease choose visual art shrug dismiss lazy";

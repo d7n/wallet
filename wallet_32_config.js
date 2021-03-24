@@ -1,1 +1,1 @@
-var mnemonic = "ginger elephant favorite despair decrease mom absurd mango hunt choice lawn business";
+var mnemonic = "afford raven loud decorate act canyon seven gate abstract journey toe suit";

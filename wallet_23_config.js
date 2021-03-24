@@ -1,1 +1,1 @@
-var mnemonic = "honey raise across skirt hover before mad radar mule derive muffin spirit";
+var mnemonic = "decline place measure video drastic hen hungry merit monitor sphere fantasy fault";

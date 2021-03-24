@@ -1,1 +1,1 @@
-var mnemonic = "scorpion art grief federal bonus leave eight detail mixed antenna cigar regular";
+var mnemonic = "crucial garage tiger area gold bomb cinnamon mistake radio dignity bomb stock";

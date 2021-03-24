@@ -1,1 +1,1 @@
-var mnemonic = "jar double razor loan domain uncover camp anchor sudden initial slam spend";
+var mnemonic = "chicken busy all tennis stage gap cruel ketchup print gadget square ensure";

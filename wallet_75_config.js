@@ -1,1 +1,1 @@
-var mnemonic = "lava whisper pattern language diesel firm since patient swim indicate bracket casual";
+var mnemonic = "engage display position teach true neck river wild layer meadow track inject";

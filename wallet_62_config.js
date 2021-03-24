@@ -1,1 +1,1 @@
-var mnemonic = "lecture pumpkin better review gas bean october edge aisle fitness inflict hint";
+var mnemonic = "cute truly estate gold match wise shine share they apple slender disease";

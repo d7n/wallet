@@ -1,1 +1,1 @@
-var mnemonic = "goat whisper rose science vivid mask fix pattern unable clump rail chapter";
+var mnemonic = "connect kid erase choose book next apple fly where script nature achieve";

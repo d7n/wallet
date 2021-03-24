@@ -1,1 +1,1 @@
-var mnemonic = "noble echo negative sheriff speed crush during card parent spider void sleep";
+var mnemonic = "skate plate worry fire olympic rebuild dinosaur fence guess theory saddle section";

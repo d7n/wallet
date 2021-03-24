@@ -1,1 +1,1 @@
-var mnemonic = "always amateur museum degree nuclear margin ginger segment weird member noodle ordinary";
+var mnemonic = "sail submit open today worth bargain unfair dinosaur veteran glow often page";

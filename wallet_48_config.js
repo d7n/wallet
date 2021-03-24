@@ -1,1 +1,1 @@
-var mnemonic = "recall horse dignity tourist decline isolate process must company defense click parade";
+var mnemonic = "notable fluid recall junior sport teach coconut develop actor manual fade twin";

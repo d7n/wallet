@@ -1,1 +1,1 @@
-var mnemonic = "dolphin parade fossil genre purchase fog gospel combine report quote tilt glue";
+var mnemonic = "sun genre ahead deputy adult half stamp worth silk payment glare hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "spray good endorse mind purpose strike retire access grief clap loud surround";
+var mnemonic = "vault enough flame solar live analyst dream assume now mad tell require";

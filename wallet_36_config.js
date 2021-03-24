@@ -1,1 +1,1 @@
-var mnemonic = "beef mechanic session age chest among normal property hero unique wet globe";
+var mnemonic = "velvet soap hurry canoe soda truly peace pave danger illegal control figure";

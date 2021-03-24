@@ -1,1 +1,1 @@
-var mnemonic = "pride injury wish awful atom image sand session daughter level educate idea";
+var mnemonic = "pottery observe harvest metal lake shuffle situate goose job rose dish spare";

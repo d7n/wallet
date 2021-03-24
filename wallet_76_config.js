@@ -1,1 +1,1 @@
-var mnemonic = "aisle sea course profit flight fantasy reward quiz dove peasant beach couple";
+var mnemonic = "segment camp add evolve apart sort snack aware tackle increase bird airport";

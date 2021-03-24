@@ -1,1 +1,1 @@
-var mnemonic = "place evolve jungle worth claw mirror bitter cargo state captain front exotic";
+var mnemonic = "brick market relax word inform polar thunder come witness brand accuse gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee clip gorilla fatal hawk sphere lecture lizard release screen access fee";
+var mnemonic = "soccer thought easily live timber flock milk any key much claw humor";

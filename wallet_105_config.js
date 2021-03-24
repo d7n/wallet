@@ -1,1 +1,1 @@
-var mnemonic = "evoke impose sock move labor stove pretty glide story trip stem relax";
+var mnemonic = "lunch surprise layer similar knock ocean bomb film engine neglect agree grab";

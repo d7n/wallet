@@ -1,1 +1,1 @@
-var mnemonic = "observe excess unable pluck sibling lobster chief bunker youth state output daughter";
+var mnemonic = "buyer dismiss coin mask chronic bid column apology flock process boring stumble";
