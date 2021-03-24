@@ -1,1 +1,1 @@
-var mnemonic = "hold edit hotel guilt kiwi salute river push truly glimpse mountain young";
+var mnemonic = "notable year truth snake verb bright noble gallery sword again vocal wall";

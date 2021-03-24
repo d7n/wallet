@@ -1,1 +1,1 @@
-var mnemonic = "car school piece wood soon raccoon wine shop timber spirit wild gain";
+var mnemonic = "inside exhaust cart hunt famous trumpet vanish sport wrap thrive armed match";

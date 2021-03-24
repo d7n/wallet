@@ -1,1 +1,1 @@
-var mnemonic = "length fan clip hint harsh erosion slogan pluck swallow gauge nut galaxy";
+var mnemonic = "spot cool gossip vocal cliff general fortune permit together effort conduct yard";

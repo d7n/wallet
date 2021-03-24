@@ -1,1 +1,1 @@
-var mnemonic = "bid panda expire pony cable attitude income frozen crater retire scout zone";
+var mnemonic = "rib episode jacket alley woman bar mirror risk valid collect ring act";

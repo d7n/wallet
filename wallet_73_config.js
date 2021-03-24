@@ -1,1 +1,1 @@
-var mnemonic = "cream shove such depend over viable bargain ensure real electric home obtain";
+var mnemonic = "thunder load sleep tiger elder fortune digital fit over favorite inherit luxury";

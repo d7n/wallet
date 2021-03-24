@@ -1,1 +1,1 @@
-var mnemonic = "luxury minimum siege multiply breeze burger afford venue bubble melt emerge slender";
+var mnemonic = "assist erase figure mansion gesture taste into service unaware buddy athlete quick";

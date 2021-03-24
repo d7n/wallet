@@ -1,1 +1,1 @@
-var mnemonic = "update divide blossom mansion floor bundle obscure key person vital draw alter";
+var mnemonic = "chronic endorse grab noodle foil sing life ticket decline large royal turkey";

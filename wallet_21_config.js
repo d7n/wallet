@@ -1,1 +1,1 @@
-var mnemonic = "unaware any purpose alone sadness alarm civil race excuse away wide hair";
+var mnemonic = "lyrics bulb unhappy cannon robust tank muscle visit repair swarm flash bright";

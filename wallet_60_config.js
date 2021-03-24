@@ -1,1 +1,1 @@
-var mnemonic = "device light town pyramid purpose aim main turn steak page layer check";
+var mnemonic = "industry sister include coach gap thumb meat verb room maze shoot news";

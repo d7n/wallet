@@ -1,1 +1,1 @@
-var mnemonic = "border mass caught dice escape nation decide tuition sauce soul forward gallery";
+var mnemonic = "speed toddler plug subject luxury impulse boil bundle double blast uncle loop";

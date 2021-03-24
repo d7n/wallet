@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow column game shoulder muffin sheriff lonely park lecture arm broccoli return";
+var mnemonic = "judge hamster loud confirm prison cram helmet fame initial limb payment tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "help next mushroom material crush admit yellow response stamp chat film brick";
+var mnemonic = "differ exhaust guilt endorse team limit salute also team useless wisdom blanket";

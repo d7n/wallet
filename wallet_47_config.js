@@ -1,1 +1,1 @@
-var mnemonic = "scheme bar disagree gesture impose special glue own human will submit six";
+var mnemonic = "flavor frame mimic toddler taste trial alpha famous birth gun swap note";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse lemon funny orchard once possible guess access opinion bronze promote just";
+var mnemonic = "rookie limit inject truck jungle rude problem owner latin review actress twin";

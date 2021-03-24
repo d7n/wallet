@@ -1,1 +1,1 @@
-var mnemonic = "mind wool dinner grief height pupil song artwork sail situate ordinary hero";
+var mnemonic = "accuse cake waste kidney aware tornado bunker tenant senior use elevator diary";

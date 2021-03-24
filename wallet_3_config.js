@@ -1,1 +1,1 @@
-var mnemonic = "drop topic blur slide cheese issue rule dwarf mechanic valid alley laugh";
+var mnemonic = "exact zero same govern joy bread bird glad aspect future green yellow";

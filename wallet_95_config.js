@@ -1,1 +1,1 @@
-var mnemonic = "brand sausage pass fabric fantasy juice appear funny tomorrow wrist slow eyebrow";
+var mnemonic = "skirt menu museum metal engage quality edge antenna display tray marble biology";

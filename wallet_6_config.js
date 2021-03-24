@@ -1,1 +1,1 @@
-var mnemonic = "enable mirror loyal mercy sibling water gate hammer magnet first traffic olive";
+var mnemonic = "soft nothing scissors stock mirror flat argue meat wreck finish fringe luggage";

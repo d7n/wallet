@@ -1,1 +1,1 @@
-var mnemonic = "roof write hub debris purpose same learn solution glory round crazy decrease";
+var mnemonic = "tiger salad brave purchase aerobic round ribbon begin verb mirror burger swift";

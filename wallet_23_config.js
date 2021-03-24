@@ -1,1 +1,1 @@
-var mnemonic = "pencil build olive latin monkey diagram once cloud wheel actor wrap fine";
+var mnemonic = "hand huge cotton cinnamon world north garbage north rate immune eager coil";

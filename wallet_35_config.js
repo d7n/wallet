@@ -1,1 +1,1 @@
-var mnemonic = "actor outside say repeat settle fat thrive motion six decide kite risk";
+var mnemonic = "kingdom toilet corn what ankle admit before vessel lion melody pencil vivid";

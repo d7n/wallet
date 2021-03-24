@@ -1,1 +1,1 @@
-var mnemonic = "carry include script guitar attitude make silver west sock demand refuse push";
+var mnemonic = "exchange payment toddler firm ice lonely cousin cheap true opera struggle figure";

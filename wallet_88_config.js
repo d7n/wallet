@@ -1,1 +1,1 @@
-var mnemonic = "diagram melt degree camera elbow middle panda rely ring glory float valley";
+var mnemonic = "lawn ankle affair zoo deputy color insane sail flash tattoo behind control";

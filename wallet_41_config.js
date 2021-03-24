@@ -1,1 +1,1 @@
-var mnemonic = "buyer gasp help simple canoe cement chimney border type maple devote great";
+var mnemonic = "whisper harbor stairs pistol crisp detect shell gravity fabric lawsuit ball cement";

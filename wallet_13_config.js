@@ -1,1 +1,1 @@
-var mnemonic = "tag emotion absent seat way tongue office since core pilot vendor easily";
+var mnemonic = "horror print proof vote purity fragile farm gather wise enjoy soldier base";

@@ -1,1 +1,1 @@
-var mnemonic = "undo ginger abstract party slow mad holiday boil program apology town supply";
+var mnemonic = "fan acoustic increase where scare tenant pool chapter such thank size between";

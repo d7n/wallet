@@ -1,1 +1,1 @@
-var mnemonic = "myself taxi certain noble slight naive innocent canvas field live frost six";
+var mnemonic = "region broccoli village buffalo analyst section leg absent about abandon dinosaur lunar";

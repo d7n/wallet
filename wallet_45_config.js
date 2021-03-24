@@ -1,1 +1,1 @@
-var mnemonic = "emotion spot cement giant hundred stock father bundle extra maze vacuum tent";
+var mnemonic = "snack salt senior lemon favorite trim pencil neutral cheap noise rain enter";

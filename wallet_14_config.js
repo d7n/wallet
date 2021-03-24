@@ -1,1 +1,1 @@
-var mnemonic = "scale valve senior bicycle lion gym direct already wine luxury gold derive";
+var mnemonic = "venue bulk begin nerve enjoy vacant size alarm include elegant enjoy profit";

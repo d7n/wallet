@@ -1,1 +1,1 @@
-var mnemonic = "cheese price absorb good case toast solid there speed sausage tumble faculty";
+var mnemonic = "stem toss theme already proof need simple picnic brush sense square bind";

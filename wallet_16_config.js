@@ -1,1 +1,1 @@
-var mnemonic = "slice spread refuse page math cloth army shiver apart bean unveil observe";
+var mnemonic = "corn wheat plug night unit prison solution axis mystery cave cargo bag";

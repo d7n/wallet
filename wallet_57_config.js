@@ -1,1 +1,1 @@
-var mnemonic = "negative ghost vehicle tissue cement hold antique noble space feed upon quality";
+var mnemonic = "subway throw need elephant interest refuse puzzle correct satoshi scatter garage where";

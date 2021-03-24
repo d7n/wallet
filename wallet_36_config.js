@@ -1,1 +1,1 @@
-var mnemonic = "scan offer home forget fall rice match margin hamster call sick crazy";
+var mnemonic = "patrol prepare fiber ankle harvest car balance step orient actor belt solve";

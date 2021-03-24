@@ -1,1 +1,1 @@
-var mnemonic = "option category you worry tattoo giraffe barrel rigid retreat security ridge rabbit";
+var mnemonic = "sweet goose little mom floor north rebuild finger range lab faculty siege";

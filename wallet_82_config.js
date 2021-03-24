@@ -1,1 +1,1 @@
-var mnemonic = "sock company have road useful vast emotion maid track silent suit toward";
+var mnemonic = "black toy kitchen woman garage catch depend snake regret nerve reduce swamp";

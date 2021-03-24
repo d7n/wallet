@@ -1,1 +1,1 @@
-var mnemonic = "neutral saddle shed chief candy warrior action popular dust liar title heavy";
+var mnemonic = "people science income lock negative ask type friend awkward relief fiscal float";

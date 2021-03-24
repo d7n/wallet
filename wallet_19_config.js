@@ -1,1 +1,1 @@
-var mnemonic = "tip avoid armed help buffalo soup honey lesson kind half mad link";
+var mnemonic = "you tomorrow purse hour soap suffer episode climb carpet process cart wink";

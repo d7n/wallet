@@ -1,1 +1,1 @@
-var mnemonic = "clinic crew tuition wife inmate fruit hamster tiger outside crop file glad";
+var mnemonic = "party act polar bone change melt host imitate deputy client sadness acoustic";

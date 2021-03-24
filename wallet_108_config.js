@@ -1,1 +1,1 @@
-var mnemonic = "journey ahead novel cave labor obtain oval shine poet limit cube helmet";
+var mnemonic = "valley often defy height bright pottery winter provide write explain own dismiss";

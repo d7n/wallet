@@ -1,1 +1,1 @@
-var mnemonic = "embody attract cliff fold desert ivory want west motion act verb flavor";
+var mnemonic = "nerve brand abstract program index lab rate health hope shoe struggle report";

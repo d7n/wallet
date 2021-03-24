@@ -1,1 +1,1 @@
-var mnemonic = "tenant radio insect frame endless cash cause absent melody original crater illegal";
+var mnemonic = "purpose assist prosper quality pistol name gossip repair hidden crew same panda";

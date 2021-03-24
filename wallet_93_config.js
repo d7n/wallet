@@ -1,1 +1,1 @@
-var mnemonic = "tattoo hand exclude bounce swamp kid velvet enemy across total camera tape";
+var mnemonic = "right plastic pair enough throw churn move wing clip invite clean build";

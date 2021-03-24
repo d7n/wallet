@@ -1,1 +1,1 @@
-var mnemonic = "expand aerobic vibrant permit stem curtain axis autumn entry coach sketch pulp";
+var mnemonic = "bracket local gasp believe pitch orient carpet lonely warrior offer insect know";

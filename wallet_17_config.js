@@ -1,1 +1,1 @@
-var mnemonic = "twenty stick taxi fiscal aware grape wise throw state roof donkey door";
+var mnemonic = "tuition universe stem pizza blind material addict predict dragon add morning become";

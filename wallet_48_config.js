@@ -1,1 +1,1 @@
-var mnemonic = "kiwi same illegal clutch limb announce hurry voice father forest element surround";
+var mnemonic = "team ceiling soap window survey wrong bomb era excess decrease stick hand";

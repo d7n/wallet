@@ -1,1 +1,1 @@
-var mnemonic = "nice trade say strong tissue help rookie uncover give tribe cheap help";
+var mnemonic = "city size south excess describe embrace impose tone bachelor tooth pyramid seat";

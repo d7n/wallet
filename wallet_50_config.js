@@ -1,1 +1,1 @@
-var mnemonic = "damp filter seat mercy bubble choose seat immune wheat survey track tumble";
+var mnemonic = "ordinary fiber lunch burger extra dignity there sea expose giraffe recipe cable";

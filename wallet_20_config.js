@@ -1,1 +1,1 @@
-var mnemonic = "fold fatal twin credit deliver salute eager toe worth into degree light";
+var mnemonic = "cube trial crack flame entire tattoo foil glow category warrior right scrub";

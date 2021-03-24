@@ -1,1 +1,1 @@
-var mnemonic = "kiwi vacuum vibrant derive record cycle they offer dice current diesel heart";
+var mnemonic = "garden group tortoise fly solar reunion avoid plate gown coconut rally brave";

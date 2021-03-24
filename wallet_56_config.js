@@ -1,1 +1,1 @@
-var mnemonic = "forest depart stick radio all noble train true eight emotion beyond umbrella";
+var mnemonic = "cage surface utility moon woman body cabbage nut word harbor negative street";

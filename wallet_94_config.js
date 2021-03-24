@@ -1,1 +1,1 @@
-var mnemonic = "early actual awake hawk rather dizzy decorate argue extend giggle aerobic leave";
+var mnemonic = "banner achieve modify dice stadium sudden rifle disorder tomorrow almost color convince";

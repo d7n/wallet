@@ -1,1 +1,1 @@
-var mnemonic = "exotic stable acquire machine mask cycle able powder zebra finger tool cost";
+var mnemonic = "reduce october journey trust drill current spell bean fever better resemble fever";

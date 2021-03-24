@@ -1,1 +1,1 @@
-var mnemonic = "first equal mesh quantum cube soup that salmon copy blush fade aerobic";
+var mnemonic = "side author layer pen defy mean teach wall ecology issue club opinion";

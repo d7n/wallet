@@ -1,1 +1,1 @@
-var mnemonic = "eternal original shove omit stereo chase jump erosion summer chimney turn indicate";
+var mnemonic = "marriage sustain place napkin derive speed enroll soul jump hour blossom quick";

@@ -1,1 +1,1 @@
-var mnemonic = "version flight favorite misery distance tourist grunt guilt uncle bulb misery angle";
+var mnemonic = "regular shine kidney engage oak length south fan involve measure exist cute";

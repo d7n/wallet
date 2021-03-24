@@ -1,1 +1,1 @@
-var mnemonic = "survey blouse silver work month toward novel orange close unhappy scene proud";
+var mnemonic = "display expose load mirror decorate bargain true begin law clever group basket";

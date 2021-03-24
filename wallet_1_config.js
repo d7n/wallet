@@ -1,1 +1,1 @@
-var mnemonic = "ignore pill cave note cactus exclude law mixed quality defy begin lecture";
+var mnemonic = "indicate tiger video pitch pilot raccoon deposit legend payment fog depth attend";

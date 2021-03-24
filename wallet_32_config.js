@@ -1,1 +1,1 @@
-var mnemonic = "come immense trophy attack bright actor curve sorry snack pulp buyer blade";
+var mnemonic = "excuse real ill tennis desert service tomato weapon until miss poem walnut";

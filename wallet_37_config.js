@@ -1,1 +1,1 @@
-var mnemonic = "radar robot gospel robot together skate real long true demise science job";
+var mnemonic = "impose number between unveil green vague rain blast square under tell prefer";

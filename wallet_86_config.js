@@ -1,1 +1,1 @@
-var mnemonic = "term tiger defense lava fog crush cabin fatigue city steel execute chimney";
+var mnemonic = "rapid group glove body near confirm mule already dance paddle clutch eye";

@@ -1,1 +1,1 @@
-var mnemonic = "very woman next motion work emerge tissue device charge chief nation false";
+var mnemonic = "solar sport lucky egg sponsor dismiss enhance praise grape blood dragon goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "caught abuse praise tourist bone bar police anxiety squirrel story head welcome";
+var mnemonic = "volume fan quarter vocal surprise umbrella fluid afraid drip tortoise attitude flash";

@@ -1,1 +1,1 @@
-var mnemonic = "swift renew weather stove cupboard dragon wheel drastic great room motion account";
+var mnemonic = "furnace dress midnight recycle uniform exile render rubber round fashion where benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "anger movie snake expire afraid minimum pull valley feel uncover mom erupt";
+var mnemonic = "token total word one mule planet assault smooth oyster radio illness ship";

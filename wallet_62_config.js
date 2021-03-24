@@ -1,1 +1,1 @@
-var mnemonic = "kidney thank student bunker bulk detect glare sphere second open initial wrap";
+var mnemonic = "link jazz wide advance public sun engine flag west jeans shield wet";

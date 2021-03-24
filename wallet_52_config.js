@@ -1,1 +1,1 @@
-var mnemonic = "delay subway switch tragic federal animal debate column art maid vocal wisdom";
+var mnemonic = "speed science reopen print clip moon gap ozone autumn cereal lunch sure";

@@ -1,1 +1,1 @@
-var mnemonic = "fat bottom violin argue fabric apart joy alley exist medal chest tell";
+var mnemonic = "autumn analyst glow base dentist dose liquid hurt public dinner desk feature";

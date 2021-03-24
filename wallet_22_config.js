@@ -1,1 +1,1 @@
-var mnemonic = "budget fiber orient borrow sample enforce canoe rule tennis vague retreat blood";
+var mnemonic = "sad improve bring core globe team shrimp siege visa price clap cart";

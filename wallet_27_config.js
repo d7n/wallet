@@ -1,1 +1,1 @@
-var mnemonic = "minimum curtain blanket wool opinion huge topple treat soccer engage blade urban";
+var mnemonic = "battle orbit eyebrow dog margin drum genuine fall pitch puzzle arch near";

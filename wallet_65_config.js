@@ -1,1 +1,1 @@
-var mnemonic = "sport unveil give arrest enemy manage rough kite oblige coral resource wolf";
+var mnemonic = "negative simple power aisle cover van drive catch hair office hockey frog";

@@ -1,1 +1,1 @@
-var mnemonic = "limb accuse comfort fire bread boss leisure pistol holiday rifle cute unusual";
+var mnemonic = "fog year suggest pride step method soda buzz fit black nose eight";

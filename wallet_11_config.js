@@ -1,1 +1,1 @@
-var mnemonic = "maid broken genuine trouble anxiety pole pool wool route sentence sudden innocent";
+var mnemonic = "switch punch elder sign useless face damage young vapor hunt sword hobby";

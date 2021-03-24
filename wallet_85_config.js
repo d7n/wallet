@@ -1,1 +1,1 @@
-var mnemonic = "mouse spider water notice where helmet annual outer sugar unique tool awful";
+var mnemonic = "prize prosper spy region where hollow weekend close sudden swap dawn level";

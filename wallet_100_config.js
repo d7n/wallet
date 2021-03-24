@@ -1,1 +1,1 @@
-var mnemonic = "mix fiscal truck near response fresh canoe tone sock trap dress original";
+var mnemonic = "wisdom just harvest boss hair uncover ankle memory exotic loan royal situate";

@@ -1,1 +1,1 @@
-var mnemonic = "remind smooth write ticket mind hen liar comic prefer naive crisp junior";
+var mnemonic = "survey famous palace slow tribe later human gasp easily warrior water entire";

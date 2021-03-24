@@ -1,1 +1,1 @@
-var mnemonic = "favorite diary portion negative you jacket shrimp satisfy cruise canyon bird strong";
+var mnemonic = "foster hill include midnight rail chest drill blade unable pear bamboo siege";

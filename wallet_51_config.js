@@ -1,1 +1,1 @@
-var mnemonic = "version rival ball flip stadium kite seed task obscure below elbow grit";
+var mnemonic = "use say mask crush clock clay unlock love present despair runway harbor";

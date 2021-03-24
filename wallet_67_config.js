@@ -1,1 +1,1 @@
-var mnemonic = "dirt text define cupboard choice verify zone measure ball ghost alien any";
+var mnemonic = "oval farm trouble bundle subway crash steel vehicle inch eternal october bless";

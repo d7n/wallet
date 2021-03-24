@@ -1,1 +1,1 @@
-var mnemonic = "pet long someone fox erode run black castle farm wagon grass paddle";
+var mnemonic = "element violin settle quantum pig snake thought hub outer purpose gain chase";

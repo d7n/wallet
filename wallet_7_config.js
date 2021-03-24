@@ -1,1 +1,1 @@
-var mnemonic = "olympic use patient figure truth shock unveil cross doctor museum destroy finish";
+var mnemonic = "page cement ill satisfy uncle affair alcohol label real film fever trial";

@@ -1,1 +1,1 @@
-var mnemonic = "pass crucial scout piece cereal since unable seek cream wheel lens salon";
+var mnemonic = "crawl duck grab know pudding power else either volcano bean dad ghost";

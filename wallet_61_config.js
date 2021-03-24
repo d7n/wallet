@@ -1,1 +1,1 @@
-var mnemonic = "horn promote canyon orphan park limit monitor fire wrist broken avoid hand";
+var mnemonic = "gauge stage rabbit excite dwarf jazz divert analyst army suffer expire link";

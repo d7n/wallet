@@ -1,1 +1,1 @@
-var mnemonic = "filter solve gravity nature frozen decrease cluster salt enforce casual family trouble";
+var mnemonic = "update unit tornado abuse forget photo slam club injury mind dragon floor";

@@ -1,1 +1,1 @@
-var mnemonic = "joke rally margin hospital avoid harvest cart gun bulb silly build rebel";
+var mnemonic = "cash erupt change dismiss thought grid friend finish lift tired swamp habit";

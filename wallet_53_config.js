@@ -1,1 +1,1 @@
-var mnemonic = "bonus chimney hip girl vacuum box knife hospital come fix swarm perfect";
+var mnemonic = "letter better burst minor bar dog own boy loop kind try luggage";

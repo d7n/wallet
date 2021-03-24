@@ -1,1 +1,1 @@
-var mnemonic = "robust zone lyrics derive someone execute carpet head lounge loan smart resist";
+var mnemonic = "peasant beef opinion legend clever aerobic assume castle raise garbage wing math";

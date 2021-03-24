@@ -1,1 +1,1 @@
-var mnemonic = "they physical grunt market stereo resist dog inherit question battle tiny nasty";
+var mnemonic = "fabric again burst kidney vote coral rack broccoli rice always search job";

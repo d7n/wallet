@@ -1,1 +1,1 @@
-var mnemonic = "luggage element verb deny artist company change diesel nation pen enter film";
+var mnemonic = "twelve inch finger during urban shallow filter neglect phrase exhaust master sail";

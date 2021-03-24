@@ -1,1 +1,1 @@
-var mnemonic = "assist rude rhythm quality couch case hip hope sign gossip pipe good";
+var mnemonic = "orphan decide dawn brand goddess roast churn oyster east excite tennis fall";

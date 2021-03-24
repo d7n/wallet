@@ -1,1 +1,1 @@
-var mnemonic = "step virus chef all coil garbage match until trouble menu aware aim";
+var mnemonic = "sock popular more just merit awake ugly segment afraid field tourist rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi trend buddy place mad file deer later market quote capable trick";
+var mnemonic = "carry giggle direct neither host radio universe smart breeze syrup discover coin";

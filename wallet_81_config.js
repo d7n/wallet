@@ -1,1 +1,1 @@
-var mnemonic = "intact guard hospital poverty actor next zero refuse taxi farm soon about";
+var mnemonic = "monster oval travel shiver nuclear guide pear obscure earn ghost juice manage";

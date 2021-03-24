@@ -1,1 +1,1 @@
-var mnemonic = "cause book uniform junior dilemma humble arrow parent sport creek luggage suggest";
+var mnemonic = "prefer afraid name typical boring usage slam adult master arm breeze enrich";
