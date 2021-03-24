@@ -1,1 +1,1 @@
-var mnemonic = "false stone vessel garbage labor unhappy behave dash attack promote flock purity";
+var mnemonic = "annual shrimp bench craft bulb hill coffee law fault have tennis grace";

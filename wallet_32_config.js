@@ -1,1 +1,1 @@
-var mnemonic = "race palace seat crash police version cherry curtain soul rescue broom wing";
+var mnemonic = "marriage praise bullet scale deputy guitar govern surge real wedding broken duty";

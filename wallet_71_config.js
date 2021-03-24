@@ -1,1 +1,1 @@
-var mnemonic = "detect gesture enroll undo drum eager elegant raccoon drink predict firm file";
+var mnemonic = "faith reveal swamp unlock sense tennis bunker pride impose age depart insane";

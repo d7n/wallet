@@ -1,1 +1,1 @@
-var mnemonic = "lazy patch parade like upgrade champion bleak sunset wisdom prosper ecology rich";
+var mnemonic = "invite season crime drop lake poet speak awesome phrase town bachelor drift";

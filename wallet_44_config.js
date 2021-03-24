@@ -1,1 +1,1 @@
-var mnemonic = "spy blind magnet mango gather used local suggest legal side lazy faith";
+var mnemonic = "fee debris prevent result time bench wrestle chunk nose puppy come noise";

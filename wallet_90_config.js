@@ -1,1 +1,1 @@
-var mnemonic = "magic near ring large word lab item seven have always pact company";
+var mnemonic = "inherit later canvas fiction shaft boy present input measure noodle control toddler";

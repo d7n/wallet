@@ -1,1 +1,1 @@
-var mnemonic = "salmon country hospital salmon idea honey blast rough snap word discover feature";
+var mnemonic = "asset parade then zone around clog thrive believe shift plate cricket force";

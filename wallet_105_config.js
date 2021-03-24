@@ -1,1 +1,1 @@
-var mnemonic = "scrap basic coach bread debate inner rose multiply gorilla egg penalty truly";
+var mnemonic = "cheap measure secret manage subway material biology quality person wreck enter fabric";

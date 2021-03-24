@@ -1,1 +1,1 @@
-var mnemonic = "access twelve vanish feature fluid rose save siege assist elegant coyote energy";
+var mnemonic = "step spatial idea picnic hub attack fetch range coin mandate remind require";

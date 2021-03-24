@@ -1,1 +1,1 @@
-var mnemonic = "copper object vote group rapid ethics grocery clerk canyon cigar clump sibling";
+var mnemonic = "virtual bronze extend comic decade board split amused invest fix display voice";

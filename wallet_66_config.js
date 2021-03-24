@@ -1,1 +1,1 @@
-var mnemonic = "pigeon disease where culture nominee hunt frost lava pause roof wagon girl";
+var mnemonic = "wink road attack tower aunt sad city among fox cradle eight artist";

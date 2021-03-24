@@ -1,1 +1,1 @@
-var mnemonic = "bitter garbage accident table result equal toddler cotton angry cash lawn invest";
+var mnemonic = "zone pull canal damp pole admit pear swear awesome reward poem tomorrow";

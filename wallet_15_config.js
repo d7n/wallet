@@ -1,1 +1,1 @@
-var mnemonic = "torch soda similar result bike name slim oval elite catch knife agree";
+var mnemonic = "cattle win start model truly fun submit alpha eight mercy okay mistake";

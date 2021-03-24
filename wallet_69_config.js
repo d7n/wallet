@@ -1,1 +1,1 @@
-var mnemonic = "above slight there stadium text attend bomb dinner pull source ask correct";
+var mnemonic = "music soup exclude predict apple must flame easy either exhibit toilet spy";

@@ -1,1 +1,1 @@
-var mnemonic = "when science laptop law sugar bunker amateur dirt furnace small nominee dial";
+var mnemonic = "budget magnet light nerve jelly raw palm save panic shuffle flag nurse";

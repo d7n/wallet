@@ -1,1 +1,1 @@
-var mnemonic = "divide viable snow canyon beef relax kick become jungle fantasy culture derive";
+var mnemonic = "common circle rescue anxiety muscle town label pipe expire raise follow guilt";

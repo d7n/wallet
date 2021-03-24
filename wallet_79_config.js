@@ -1,1 +1,1 @@
-var mnemonic = "expire settle exhibit gasp tiny please polar uncle turtle next coach where";
+var mnemonic = "elbow squirrel trash era kangaroo buffalo boring begin sign potato endorse summer";

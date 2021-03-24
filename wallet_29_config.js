@@ -1,1 +1,1 @@
-var mnemonic = "game impose settle link exotic crash roof rotate bus legal churn check";
+var mnemonic = "grocery copper skill wife attack snake furnace always tree chimney foam atom";

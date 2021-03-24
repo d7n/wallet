@@ -1,1 +1,1 @@
-var mnemonic = "rather nurse afford arrow vital security frog mass cross fade divert worth";
+var mnemonic = "control hand fade gaze bronze exact journey tattoo ozone demand oak gown";

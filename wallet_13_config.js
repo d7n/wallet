@@ -1,1 +1,1 @@
-var mnemonic = "decade welcome evolve method strike trial share pyramid gallery toast convince brave";
+var mnemonic = "people hazard general isolate grab fortune lift nest advance chest innocent parade";

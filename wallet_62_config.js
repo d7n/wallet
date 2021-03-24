@@ -1,1 +1,1 @@
-var mnemonic = "ethics inherit report crouch hurry road habit thunder ladder fresh improve feel";
+var mnemonic = "enhance carry capable ivory bird polar buyer achieve glove goddess attitude invest";

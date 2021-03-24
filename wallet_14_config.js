@@ -1,1 +1,1 @@
-var mnemonic = "cloth kid skirt two peanut proud cherry cliff oven ketchup tattoo cover";
+var mnemonic = "element peace grass because mesh loop panda orient current image credit narrow";

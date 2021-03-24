@@ -1,1 +1,1 @@
-var mnemonic = "program basic pattern cry twelve observe sand arctic fortune style short capital";
+var mnemonic = "already bring march code vivid neglect whale mouse throw dinner control treat";

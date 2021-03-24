@@ -1,1 +1,1 @@
-var mnemonic = "talent inch utility treat digital mirror polar bleak canvas baby task kangaroo";
+var mnemonic = "state praise obey shove useful grain crater maid patch renew rent know";

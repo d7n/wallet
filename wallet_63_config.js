@@ -1,1 +1,1 @@
-var mnemonic = "garden exchange token flight pool artwork magnet another weird million satisfy gold";
+var mnemonic = "venture shallow obtain attitude easy hill south gather fatigue ignore someone rude";

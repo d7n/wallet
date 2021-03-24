@@ -1,1 +1,1 @@
-var mnemonic = "apology maximum just mosquito palace reunion load scrap follow theme kingdom cute";
+var mnemonic = "cute bone spin deal plug quarter exact month cover reopen park great";

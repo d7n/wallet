@@ -1,1 +1,1 @@
-var mnemonic = "ugly spell genius edit whale gaze enable garbage gospel jewel vital prize";
+var mnemonic = "radio dad ring orient forum surround double desert gadget panel climb effort";

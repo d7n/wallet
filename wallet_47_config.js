@@ -1,1 +1,1 @@
-var mnemonic = "member coyote invite parrot unusual purity that shed case carry wish mad";
+var mnemonic = "shrimp curve search zero just ice outer involve swarm furnace ocean swap";

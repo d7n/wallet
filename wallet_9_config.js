@@ -1,1 +1,1 @@
-var mnemonic = "coach skate online order lizard ketchup will tape notable clay script bacon";
+var mnemonic = "receive finish host idea drastic argue helmet reveal shop seat write hard";

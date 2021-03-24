@@ -1,1 +1,1 @@
-var mnemonic = "roast hold lesson insane mother number you mask immune blouse category brave";
+var mnemonic = "choose imitate brown fresh simple will west place ahead census loan inner";

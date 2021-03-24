@@ -1,1 +1,1 @@
-var mnemonic = "portion forum top rail mansion volcano rather worry until second sudden bright";
+var mnemonic = "hood arrest virtual letter report mention moral enter kitten wave furnace skin";

@@ -1,1 +1,1 @@
-var mnemonic = "note beauty add city grass interest view sound hope main exercise angry";
+var mnemonic = "much crater short exile report stable moment confirm tackle inflict tuna question";

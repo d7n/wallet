@@ -1,1 +1,1 @@
-var mnemonic = "father eye awesome warm sing decade retire kitten mobile exclude black fortune";
+var mnemonic = "insect vote brisk steel put lounge speed lunch tube waste latin social";

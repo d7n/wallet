@@ -1,1 +1,1 @@
-var mnemonic = "warm sword impose link result lens quantum blanket record year bargain punch";
+var mnemonic = "pet advance pony rude rebuild uniform void script same toddler trial shield";

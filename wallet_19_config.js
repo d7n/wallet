@@ -1,1 +1,1 @@
-var mnemonic = "vocal episode need clay hobby segment blame kitchen maple park ozone globe";
+var mnemonic = "useful royal owner soccer toast aunt lyrics chapter distance wise fish head";

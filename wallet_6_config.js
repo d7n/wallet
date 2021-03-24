@@ -1,1 +1,1 @@
-var mnemonic = "expire flush problem image receive faculty roof step trend truly jacket physical";
+var mnemonic = "example episode join habit jealous frequent vague ankle receive sun oak moment";

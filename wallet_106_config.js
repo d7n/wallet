@@ -1,1 +1,1 @@
-var mnemonic = "angle warfare moon deliver entire ankle enact virus pencil moment sweet wire";
+var mnemonic = "endless calm decrease coral under truck pill long issue slender coyote ask";

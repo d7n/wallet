@@ -1,1 +1,1 @@
-var mnemonic = "hello inflict crumble useless gather negative thumb myself ivory barrel evil paper";
+var mnemonic = "frown family ladder balcony fall tuition course gorilla razor memory arrest tiger";

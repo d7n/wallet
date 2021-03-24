@@ -1,1 +1,1 @@
-var mnemonic = "brick forget lazy zoo question table gospel love prepare science assist supreme";
+var mnemonic = "diet range cigar sustain submit gift mystery fit situate nerve funny visit";

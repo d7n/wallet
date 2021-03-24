@@ -1,1 +1,1 @@
-var mnemonic = "clutch secret service address snack will frost island fat can select fire";
+var mnemonic = "please price main various fabric shoe screen bomb hurt private work fox";

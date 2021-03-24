@@ -1,1 +1,1 @@
-var mnemonic = "punch silly phone bulk safe math often exercise smart price enroll mirror";
+var mnemonic = "crucial nest crime method often jelly confirm decrease era awful owner sheriff";

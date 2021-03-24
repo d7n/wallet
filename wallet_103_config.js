@@ -1,1 +1,1 @@
-var mnemonic = "proof boring pottery ecology occur buyer phone cannon puppy soft walnut oil";
+var mnemonic = "grant pole inject attract iron mixed vital festival swap zero trap post";

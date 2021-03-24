@@ -1,1 +1,1 @@
-var mnemonic = "remain cereal flight book disease river head zoo sweet crawl wood actress";
+var mnemonic = "soldier want original wolf raven history ring tuna swim bargain confirm cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt bitter develop eager love over broken today fee blanket define episode";
+var mnemonic = "review blossom digital panda card action ceiling royal coach measure bicycle gym";

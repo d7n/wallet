@@ -1,1 +1,1 @@
-var mnemonic = "border sun boost pig fame defense disease frame share capital trigger exist";
+var mnemonic = "voice innocent issue census similar hospital clog cradle sell become slush saddle";

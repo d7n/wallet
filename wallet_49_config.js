@@ -1,1 +1,1 @@
-var mnemonic = "rib fiction virus empty actress give oil shoulder spice misery play major";
+var mnemonic = "oven left primary arrow daughter vivid poet brisk satoshi brother unveil farm";

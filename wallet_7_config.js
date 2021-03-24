@@ -1,1 +1,1 @@
-var mnemonic = "grain table exchange cotton sniff fatigue axis kitchen often dad box rebuild";
+var mnemonic = "name observe there mix recipe vibrant silk control warfare pelican champion metal";

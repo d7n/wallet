@@ -1,1 +1,1 @@
-var mnemonic = "broken reform slot miracle spider flat dentist midnight orange license black awkward";
+var mnemonic = "melt want enhance hundred eight summer gravity follow walnut wait frame wise";

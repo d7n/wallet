@@ -1,1 +1,1 @@
-var mnemonic = "nuclear book direct pudding math clown trap place remember october couple energy";
+var mnemonic = "chair spin tone egg pencil neutral defense evil observe input will pyramid";

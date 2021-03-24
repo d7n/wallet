@@ -1,1 +1,1 @@
-var mnemonic = "leg shadow ordinary arrange open follow leader into wagon exotic join north";
+var mnemonic = "genre hour thought slogan rigid network obscure unlock twelve say unfold brass";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter sea coffee auction shop lawn issue inherit index squirrel tennis pulp";
+var mnemonic = "network welcome beyond thumb much combine dad muscle grain hill drift appear";

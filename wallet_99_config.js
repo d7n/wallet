@@ -1,1 +1,1 @@
-var mnemonic = "tornado craft evolve math faint museum birth oven demise afraid flag scheme";
+var mnemonic = "infant bargain ugly dutch stay theory earn plug foot enlist discover element";

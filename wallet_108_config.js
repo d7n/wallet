@@ -1,1 +1,1 @@
-var mnemonic = "undo attract diet remain amused reopen frozen tide pumpkin spare lounge jar";
+var mnemonic = "party seed grape weapon auction betray mixture offer security fit erode raw";

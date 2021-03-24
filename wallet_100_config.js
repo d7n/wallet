@@ -1,1 +1,1 @@
-var mnemonic = "iron shaft edit run stairs moral penalty coffee urban leave mammal basic";
+var mnemonic = "canoe basket kingdom beyond card pull cricket bleak ice canal order bubble";

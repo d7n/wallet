@@ -1,1 +1,1 @@
-var mnemonic = "loop always lunch forget vapor flash giraffe buddy usual fragile urban glove";
+var mnemonic = "fat normal front jaguar net off road rib favorite mandate load mesh";

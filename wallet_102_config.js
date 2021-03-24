@@ -1,1 +1,1 @@
-var mnemonic = "party alley own oxygen cloth deputy conduct pulse avocado slide patch interest";
+var mnemonic = "bird problem alarm coast relief dutch urge visa custom drift arrest atom";

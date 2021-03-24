@@ -1,1 +1,1 @@
-var mnemonic = "seminar side flight crew inform about echo chair lonely alpha tilt fringe";
+var mnemonic = "half cruise doll high draft equal mixture aisle document grow winter amount";

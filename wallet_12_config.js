@@ -1,1 +1,1 @@
-var mnemonic = "boil family slide analyst erupt pattern drive chase garment auction artefact rail";
+var mnemonic = "verify lizard trouble okay duck crew crush fashion erode install end brief";

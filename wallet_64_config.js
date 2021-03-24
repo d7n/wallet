@@ -1,1 +1,1 @@
-var mnemonic = "author vote pill economy woman viable public behave cube flee include roof";
+var mnemonic = "cat movie lemon fashion summer burst ripple setup sniff pear matrix make";

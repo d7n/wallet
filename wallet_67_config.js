@@ -1,1 +1,1 @@
-var mnemonic = "defy pass milk wave fiction meadow mechanic tribe young mushroom force moon";
+var mnemonic = "balance oyster blind knock moon farm clinic clinic foot angle gather theme";

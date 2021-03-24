@@ -1,1 +1,1 @@
-var mnemonic = "coast shift ice maximum economy index absent unveil episode before sausage eye";
+var mnemonic = "exercise winter ankle sketch oil inside rich weasel stand solid neither fancy";

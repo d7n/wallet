@@ -1,1 +1,1 @@
-var mnemonic = "utility skill outdoor tuna pudding rural aim dose nut door possible dawn";
+var mnemonic = "tuna moment pudding brave pipe scissors diary alcohol vehicle lunch surface salt";

@@ -1,1 +1,1 @@
-var mnemonic = "result abandon fox opinion pass jacket cargo crew there elder kick ketchup";
+var mnemonic = "cinnamon hockey index lock erosion also pipe knee lumber canal verify orange";

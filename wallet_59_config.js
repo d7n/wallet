@@ -1,1 +1,1 @@
-var mnemonic = "blouse below two error tourist winner prosper post have random install world";
+var mnemonic = "hockey clean evolve tray cotton zero accuse stone chicken athlete rather celery";

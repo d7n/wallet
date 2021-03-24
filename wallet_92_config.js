@@ -1,1 +1,1 @@
-var mnemonic = "prevent april cliff mouse easy grief forget dragon under ocean aspect library";
+var mnemonic = "gospel throw lunch royal super aspect cricket cream lens wear orbit pull";

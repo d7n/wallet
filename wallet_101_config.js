@@ -1,1 +1,1 @@
-var mnemonic = "acquire veteran ridge green focus heart practice isolate scissors leisure weird grab";
+var mnemonic = "trigger dirt hire steak bean panic little century rebel side chest vehicle";

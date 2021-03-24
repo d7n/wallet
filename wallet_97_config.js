@@ -1,1 +1,1 @@
-var mnemonic = "movie side spot mammal blade metal machine secret pull casino ecology panther";
+var mnemonic = "away museum uphold beauty allow inmate essay step fossil identify change mechanic";

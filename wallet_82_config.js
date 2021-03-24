@@ -1,1 +1,1 @@
-var mnemonic = "argue avoid rug super source glad noble young toddler army hub flavor";
+var mnemonic = "captain assist celery smile say jump broccoli minimum scene say damp argue";

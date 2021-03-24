@@ -1,1 +1,1 @@
-var mnemonic = "evidence floor embark gun humble original disagree glad spy soft rule deal";
+var mnemonic = "antenna beach sudden dolphin run extend satoshi harvest genuine slice foam gate";

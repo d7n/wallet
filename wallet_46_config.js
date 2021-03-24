@@ -1,1 +1,1 @@
-var mnemonic = "rifle online camera cereal seven arctic coyote entire tiny jealous system high";
+var mnemonic = "baby silly rhythm among biology dish frown calm music decade amateur card";

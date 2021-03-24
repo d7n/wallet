@@ -1,1 +1,1 @@
-var mnemonic = "like high siren pupil access nominee invite six aunt entire ranch middle";
+var mnemonic = "present myself marine bind flip bubble rigid spoil suspect exhaust this used";

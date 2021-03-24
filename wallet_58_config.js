@@ -1,1 +1,1 @@
-var mnemonic = "attack awesome flight broken ride distance opinion shoot gap stove wagon equip";
+var mnemonic = "suit result this romance foam hood amazing oblige erupt fossil flat project";

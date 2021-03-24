@@ -1,1 +1,1 @@
-var mnemonic = "burst tornado later staff owner blur spice gym garage expose express food";
+var mnemonic = "vintage garlic truck blame detail sniff explain parrot way love more turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "allow rain trumpet wagon range decline public tent around manual loan verb";
+var mnemonic = "walnut network arrow cart case load crush report olympic digital during fiber";

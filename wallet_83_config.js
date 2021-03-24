@@ -1,1 +1,1 @@
-var mnemonic = "repeat early elevator bronze smoke kit text indoor long sing since symptom";
+var mnemonic = "army tiny radio later daughter tennis arch rocket runway nephew artwork bench";

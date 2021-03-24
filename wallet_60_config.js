@@ -1,1 +1,1 @@
-var mnemonic = "crime fit present royal nasty helmet phone wolf tell fiber fiber forest";
+var mnemonic = "weather business dish project sudden sugar oval uniform culture first allow topic";

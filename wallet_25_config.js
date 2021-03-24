@@ -1,1 +1,1 @@
-var mnemonic = "yellow seven lyrics pink brand atom layer stool series tomato mixture fruit";
+var mnemonic = "panda neck favorite shaft august lady pen demise dish catalog token update";

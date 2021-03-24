@@ -1,1 +1,1 @@
-var mnemonic = "zero harbor fragile where frost tuna select first action comfort ozone carpet";
+var mnemonic = "argue boat coin margin typical nice high ski load cluster defense dust";

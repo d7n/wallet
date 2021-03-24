@@ -1,1 +1,1 @@
-var mnemonic = "input night orange blouse hen liar talk bottom episode engine extra produce";
+var mnemonic = "earn judge useless super bracket solar royal absorb wrestle wedding party notice";

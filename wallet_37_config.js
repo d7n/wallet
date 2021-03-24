@@ -1,1 +1,1 @@
-var mnemonic = "nothing exhibit toddler liquid silver truly update kangaroo lava task marriage method";
+var mnemonic = "state leopard hood inquiry diamond palm bike salmon century rescue hunt bitter";

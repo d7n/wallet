@@ -1,1 +1,1 @@
-var mnemonic = "element fiction consider menu soldier win capital erosion build advice buyer swear";
+var mnemonic = "critic spray fish room economy never trust group orient quick assist trend";

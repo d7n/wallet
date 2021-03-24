@@ -1,1 +1,1 @@
-var mnemonic = "dentist copper alcohol lobster element gauge move abandon increase fashion income globe";
+var mnemonic = "wagon maze attitude merge husband wrestle destroy rent chef goddess fragile another";

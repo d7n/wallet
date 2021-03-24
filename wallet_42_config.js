@@ -1,1 +1,1 @@
-var mnemonic = "about top invest private among mixed alien impact artefact mixed urge reunion";
+var mnemonic = "test evolve civil electric exercise pear blue fetch injury ride execute shoulder";

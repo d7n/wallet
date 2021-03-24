@@ -1,1 +1,1 @@
-var mnemonic = "reopen firm copper approve spin engine skate cage phrase panic waste rule";
+var mnemonic = "silly curious casual elbow gold punch soap trend infant battle glory dune";

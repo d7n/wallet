@@ -1,1 +1,1 @@
-var mnemonic = "blast worry heart crucial hawk enough shaft gain cruise payment image gas";
+var mnemonic = "unveil solution chef unit execute essence beauty physical moon vote radar hotel";

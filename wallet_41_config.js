@@ -1,1 +1,1 @@
-var mnemonic = "foam lion wish link inherit bar duty dismiss arch depart allow foot";
+var mnemonic = "arena critic glide patch below moment sister unusual pill tobacco coast fade";

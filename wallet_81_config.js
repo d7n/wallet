@@ -1,1 +1,1 @@
-var mnemonic = "call make better luggage bottom marine deal stamp enjoy like visual lawsuit";
+var mnemonic = "onion desert reward shrimp split home also wolf train pull iron edit";

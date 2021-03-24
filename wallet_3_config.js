@@ -1,1 +1,1 @@
-var mnemonic = "produce fiber discover since novel someone essence motion fiber plate mountain mercy";
+var mnemonic = "travel move ski celery trouble foil aerobic fly lady trash opera blood";

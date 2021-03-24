@@ -1,1 +1,1 @@
-var mnemonic = "enemy green return tomato laundry eagle trap diamond cage someone glance noise";
+var mnemonic = "manual upset double impulse urban soft hint piano brass rice toast pause";

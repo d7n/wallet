@@ -1,1 +1,1 @@
-var mnemonic = "index sorry cupboard photo hero transfer matter hope era squeeze fox acquire";
+var mnemonic = "position lobster horror cool adult umbrella outside coil rule call hat divide";
