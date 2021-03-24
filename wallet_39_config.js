@@ -1,1 +1,1 @@
-var mnemonic = "destroy behave crew thrive mirror pear olive leaf deny radar mammal dry";
+var mnemonic = "damp slim tourist tenant powder between air margin win window captain isolate";

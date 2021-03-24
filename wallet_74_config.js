@@ -1,1 +1,1 @@
-var mnemonic = "shine language area bacon impose fringe easily pencil assault hint agent sort";
+var mnemonic = "whisper public hawk squeeze kite maple shaft absurd embody wing doctor life";

@@ -1,1 +1,1 @@
-var mnemonic = "only film note fork hand burst power about account buyer night clay";
+var mnemonic = "wheel heart uncover lawsuit cattle voyage judge valve aim spend pause warm";

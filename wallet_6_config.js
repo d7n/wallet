@@ -1,1 +1,1 @@
-var mnemonic = "immune scorpion seat service fee sand sample liberty stool duck ozone float";
+var mnemonic = "cotton afford void drastic away nature glad crumble have noodle claim position";

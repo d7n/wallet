@@ -1,1 +1,1 @@
-var mnemonic = "engage display position teach true neck river wild layer meadow track inject";
+var mnemonic = "churn mask general fresh picnic win before moon output later stock fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "tone purity nest vanish reveal trial chronic never such ring sick blur";
+var mnemonic = "rose velvet model humor kite fall head kiwi laugh galaxy inflict amateur";

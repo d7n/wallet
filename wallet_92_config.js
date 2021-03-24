@@ -1,1 +1,1 @@
-var mnemonic = "normal immense verb rhythm hybrid bring adjust pony rifle omit climb accident";
+var mnemonic = "lens strong common next elevator baby junk cost wife wild ankle glimpse";

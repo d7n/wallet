@@ -1,1 +1,1 @@
-var mnemonic = "decline place measure video drastic hen hungry merit monitor sphere fantasy fault";
+var mnemonic = "clay raise hundred rally neither cute scene betray bleak ball donkey color";

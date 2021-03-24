@@ -1,1 +1,1 @@
-var mnemonic = "solve scout surround fuel enroll weapon spy goat glue idea beach alone";
+var mnemonic = "oil increase inmate razor embark during hurdle lift cancel winner claw sibling";

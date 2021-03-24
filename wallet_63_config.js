@@ -1,1 +1,1 @@
-var mnemonic = "use innocent sort anxiety south ethics sudden shuffle author weather trigger drive";
+var mnemonic = "hair tilt milk this torch thank human random fee captain action party";

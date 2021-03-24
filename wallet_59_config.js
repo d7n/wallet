@@ -1,1 +1,1 @@
-var mnemonic = "together ball grab head material assume myth parrot sweet topic depend zebra";
+var mnemonic = "fiscal story loud rate bright piece view favorite victory idle huge render";

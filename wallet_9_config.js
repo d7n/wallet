@@ -1,1 +1,1 @@
-var mnemonic = "ask pottery replace crane arrow inspire siren pass eyebrow yellow mask usual";
+var mnemonic = "sense mix bike olive valley obvious occur key security furnace blade kangaroo";

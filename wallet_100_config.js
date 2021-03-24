@@ -1,1 +1,1 @@
-var mnemonic = "soda century apology school reflect nature harsh spatial caution settle burger huge";
+var mnemonic = "kick anger picture gym segment pledge oblige venue arrange furnace federal knife";

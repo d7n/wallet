@@ -1,1 +1,1 @@
-var mnemonic = "exile soon whip fun habit good phone flash clever mixed hub time";
+var mnemonic = "island area verify fence beach amount aisle tiny soon nephew cave sleep";

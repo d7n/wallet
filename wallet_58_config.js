@@ -1,1 +1,1 @@
-var mnemonic = "giraffe fun hockey elegant harsh runway inspire news wrong congress again fence";
+var mnemonic = "shop boring space quantum tourist skate fancy you wrist suit merry empower";

@@ -1,1 +1,1 @@
-var mnemonic = "silk neck two shell dinner pave build task time hint indoor envelope";
+var mnemonic = "rhythm street final mushroom poet dynamic diet depart wall bamboo latin bamboo";

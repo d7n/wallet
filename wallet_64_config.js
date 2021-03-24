@@ -1,1 +1,1 @@
-var mnemonic = "vault enough flame solar live analyst dream assume now mad tell require";
+var mnemonic = "myth road marble decorate novel engine pass decade truck south record future";

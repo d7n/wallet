@@ -1,1 +1,1 @@
-var mnemonic = "mask frown what effort buffalo inside blossom maple chimney evoke oyster element";
+var mnemonic = "sting ring glue squeeze warfare element pony truck denial loud situate snack";

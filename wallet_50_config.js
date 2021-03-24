@@ -1,1 +1,1 @@
-var mnemonic = "guilt team concert riot syrup front bottom what key industry office start";
+var mnemonic = "believe harsh transfer nuclear buffalo avocado weapon treat twenty visa rifle purpose";

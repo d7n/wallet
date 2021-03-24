@@ -1,1 +1,1 @@
-var mnemonic = "message above tennis bean turkey slogan evil bless amateur myth tomato fabric";
+var mnemonic = "copper then onion waste mother winner lamp debate waste cram type empower";

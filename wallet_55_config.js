@@ -1,1 +1,1 @@
-var mnemonic = "idea chunk original avocado real run finish minute subject tragic entire possible";
+var mnemonic = "absent unfair answer creek area enroll avocado city loan basic light elegant";

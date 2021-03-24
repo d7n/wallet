@@ -1,1 +1,1 @@
-var mnemonic = "number seed divorce unit vintage income auto average screen mix tortoise tag";
+var mnemonic = "talent like ski unhappy dignity human cupboard sense bunker spider rookie grief";

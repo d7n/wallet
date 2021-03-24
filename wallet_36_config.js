@@ -1,1 +1,1 @@
-var mnemonic = "velvet soap hurry canoe soda truly peace pave danger illegal control figure";
+var mnemonic = "license remember anxiety odor genre pact alert raise penalty excuse region lamp";

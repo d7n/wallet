@@ -1,1 +1,1 @@
-var mnemonic = "crucial garage tiger area gold bomb cinnamon mistake radio dignity bomb stock";
+var mnemonic = "total october cruel quantum mobile outside bright sniff during artefact tape deer";

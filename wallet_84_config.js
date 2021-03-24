@@ -1,1 +1,1 @@
-var mnemonic = "cave purchase second maid escape rabbit destroy share segment pause filter slam";
+var mnemonic = "bench small old stay decide toe wire clerk leg book merry scrub";

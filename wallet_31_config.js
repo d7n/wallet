@@ -1,1 +1,1 @@
-var mnemonic = "sustain window drama sport domain acquire assist fury cost daring glimpse cargo";
+var mnemonic = "soap just mimic lamp refuse possible elevator point teach lesson teach frozen";

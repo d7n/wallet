@@ -1,1 +1,1 @@
-var mnemonic = "come shield arena evidence absorb entire clown visual gospel swarm outdoor laptop";
+var mnemonic = "assault vehicle music around mother eagle mask gasp rabbit truth car regular";

@@ -1,1 +1,1 @@
-var mnemonic = "caught milk candy give large stove artist among seven hobby element unfair";
+var mnemonic = "muffin false habit weapon crash festival course time cover swap basic doctor";

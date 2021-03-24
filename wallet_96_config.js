@@ -1,1 +1,1 @@
-var mnemonic = "hint message hurt member tag panic lecture modify latin orange orient sorry";
+var mnemonic = "brush bike orphan cycle dream powder avocado wasp few scale approve fit";

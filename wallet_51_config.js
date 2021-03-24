@@ -1,1 +1,1 @@
-var mnemonic = "soccer thought easily live timber flock milk any key much claw humor";
+var mnemonic = "happy grit bread engine hidden insane sport fog rail merge monster album";

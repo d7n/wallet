@@ -1,1 +1,1 @@
-var mnemonic = "attitude bridge law glad banana pass return expose entire urban furnace tail";
+var mnemonic = "gloom royal message estate stereo senior home tube nurse amused learn slice";

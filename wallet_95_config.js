@@ -1,1 +1,1 @@
-var mnemonic = "render donkey payment noise flat client evidence town door increase truth must";
+var mnemonic = "ozone seed account around squirrel motor fine situate such valley cash wrong";

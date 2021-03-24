@@ -1,1 +1,1 @@
-var mnemonic = "key group female elder release purchase vanish oval theory mixed beyond ankle";
+var mnemonic = "hawk define swing order okay tiger clown horror expose base provide pepper";

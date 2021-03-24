@@ -1,1 +1,1 @@
-var mnemonic = "sister canoe mean sting quick quality sing unable sunset way used consider";
+var mnemonic = "torch insect cup pause happy urge theory insect lonely frame inquiry loud";

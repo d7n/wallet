@@ -1,1 +1,1 @@
-var mnemonic = "wish hood direct point saddle street jeans during crouch high explain physical";
+var mnemonic = "immune jeans symbol believe key frame brief crawl water cushion dog island";

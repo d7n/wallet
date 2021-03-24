@@ -1,1 +1,1 @@
-var mnemonic = "stove blood hurry visit puzzle practice wasp entry track turn sport grape";
+var mnemonic = "course seminar turn key cinnamon dry abandon fish begin hello fiscal total";

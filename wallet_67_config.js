@@ -1,1 +1,1 @@
-var mnemonic = "vehicle garage magnet donate pudding weird august gentle million grit arrest maple";
+var mnemonic = "inject stand battle essay such rent worry plate town joke bomb mail";

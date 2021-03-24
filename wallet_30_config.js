@@ -1,1 +1,1 @@
-var mnemonic = "fruit mass science renew kiss gesture cream apple only fashion traffic relax";
+var mnemonic = "whale volume hint idea actor catch spoon father absent genuine pioneer sibling";

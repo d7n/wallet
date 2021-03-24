@@ -1,1 +1,1 @@
-var mnemonic = "cute truly estate gold match wise shine share they apple slender disease";
+var mnemonic = "frown never captain buddy village usual bunker vote quantum pilot garage antenna";

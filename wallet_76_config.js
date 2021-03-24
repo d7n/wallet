@@ -1,1 +1,1 @@
-var mnemonic = "segment camp add evolve apart sort snack aware tackle increase bird airport";
+var mnemonic = "crush pitch much wage sibling refuse bulk bitter library scheme proud squirrel";

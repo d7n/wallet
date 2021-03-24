@@ -1,1 +1,1 @@
-var mnemonic = "one grab include shallow climb soldier staff clock ketchup brother leg early";
+var mnemonic = "drip van vote busy start evil human kangaroo mandate differ afford useful";

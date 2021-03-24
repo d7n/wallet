@@ -1,1 +1,1 @@
-var mnemonic = "river feature fan lend fog run amused frame poem jar deliver upper";
+var mnemonic = "cousin idle rough have train barely punch oval daring domain trend bean";

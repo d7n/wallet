@@ -1,1 +1,1 @@
-var mnemonic = "cash crew minor tube double reform notice crop lucky battle escape pear";
+var mnemonic = "strong mechanic color very exchange tuna bridge measure song step trouble analyst";

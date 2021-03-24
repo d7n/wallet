@@ -1,1 +1,1 @@
-var mnemonic = "powder vital sleep access umbrella scrub breeze hand receive scrub decide increase";
+var mnemonic = "record enact nasty lock disagree path equip awesome cancel clutch insect alpha";

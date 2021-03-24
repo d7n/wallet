@@ -1,1 +1,1 @@
-var mnemonic = "memory act spice soon post sleep loud scale metal work awkward absorb";
+var mnemonic = "flame adapt apart boat join donor gold book purse when hat dance";

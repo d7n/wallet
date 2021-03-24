@@ -1,1 +1,1 @@
-var mnemonic = "funny concert forest kid gesture occur okay oppose resource purchase crouch poet";
+var mnemonic = "together host alien fox picnic rice cake cute they engine blast siren";

@@ -1,1 +1,1 @@
-var mnemonic = "omit safe legend gallery beach wagon earn arch token bamboo rare habit";
+var mnemonic = "action ramp degree shaft team elephant inner tank armed supply match ivory";

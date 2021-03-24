@@ -1,1 +1,1 @@
-var mnemonic = "puppy volcano act habit budget document kick dress iron burden bicycle network";
+var mnemonic = "clump claim similar shell crane lazy sauce off broken coral pave shock";

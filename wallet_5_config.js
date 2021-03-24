@@ -1,1 +1,1 @@
-var mnemonic = "sail submit open today worth bargain unfair dinosaur veteran glow often page";
+var mnemonic = "culture aware myth fade outdoor history diesel can viable family step guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "firm clerk advance flip fish idle income ripple logic payment scatter club";
+var mnemonic = "slide liquid draw ginger merge diet horse fringe left impose broken minimum";

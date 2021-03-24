@@ -1,1 +1,1 @@
-var mnemonic = "clown winter blood strategy keep leaf sphere napkin heavy chair nasty antenna";
+var mnemonic = "ahead olympic resource mom shrimp bike logic patch nasty sauce farm know";

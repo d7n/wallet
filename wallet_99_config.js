@@ -1,1 +1,1 @@
-var mnemonic = "voyage shine van truly label fitness whisper aunt person tumble section brave";
+var mnemonic = "below trouble cluster update pride camera surge clinic matter odor draw modify";

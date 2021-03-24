@@ -1,1 +1,1 @@
-var mnemonic = "connect kid erase choose book next apple fly where script nature achieve";
+var mnemonic = "exotic report faint advice fall cruel unique choose issue auction thunder ghost";

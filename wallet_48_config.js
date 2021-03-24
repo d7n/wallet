@@ -1,1 +1,1 @@
-var mnemonic = "notable fluid recall junior sport teach coconut develop actor manual fade twin";
+var mnemonic = "message page clarify wage egg simple law admit better nut roof resource";

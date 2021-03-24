@@ -1,1 +1,1 @@
-var mnemonic = "raise initial lens broken thing spot license tired attack upon surprise raven";
+var mnemonic = "truly chalk angry merge steel regular lens swap path extra fresh chaos";

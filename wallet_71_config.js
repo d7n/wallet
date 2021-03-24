@@ -1,1 +1,1 @@
-var mnemonic = "modify brush rose admit salad wrap endless decade casino width salon very";
+var mnemonic = "clip mistake volume sister daring supreme okay gesture try reason slim garment";

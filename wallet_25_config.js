@@ -1,1 +1,1 @@
-var mnemonic = "skate plate worry fire olympic rebuild dinosaur fence guess theory saddle section";
+var mnemonic = "carbon rubber tell tray put because cereal climb hazard dry double chef";

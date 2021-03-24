@@ -1,1 +1,1 @@
-var mnemonic = "kingdom identify combine embody shift peace current spider thunder jump carbon above";
+var mnemonic = "spice slush update walnut gain letter dune canoe group push era empty";

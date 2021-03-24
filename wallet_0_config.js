@@ -1,1 +1,1 @@
-var mnemonic = "mushroom speed federal sustain margin emerge fruit wasp oblige abuse bag mother";
+var mnemonic = "govern regular unit bonus wrist upset buddy glad fantasy check consider museum";

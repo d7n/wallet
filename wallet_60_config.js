@@ -1,1 +1,1 @@
-var mnemonic = "frost pyramid health enter verify scare zero enough awful begin bean shuffle";
+var mnemonic = "grit episode electric improve spawn lyrics phrase immense boring system tragic shadow";

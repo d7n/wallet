@@ -1,1 +1,1 @@
-var mnemonic = "lock doll dragon pear wedding explain neither secret subway march catch response";
+var mnemonic = "sleep because believe plastic river empty inflict repeat problem endless legend patch";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery observe harvest metal lake shuffle situate goose job rose dish spare";
+var mnemonic = "enhance raven wire say mix grit measure picture dutch demand gloom picnic";

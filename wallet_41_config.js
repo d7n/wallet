@@ -1,1 +1,1 @@
-var mnemonic = "text celery honey grace guilt pulse measure dragon anxiety age divert appear";
+var mnemonic = "brand trip drum essay dizzy enroll image champion fit injury pact hand";

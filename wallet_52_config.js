@@ -1,1 +1,1 @@
-var mnemonic = "subway when erupt answer vault release wrong hello actress recall drip ankle";
+var mnemonic = "enjoy exchange defy below purpose tip jar vendor angle olive flat forget";

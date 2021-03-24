@@ -1,1 +1,1 @@
-var mnemonic = "senior element celery photo volume blood club uncle umbrella fossil audit that";
+var mnemonic = "tenant about erupt make boy equip bid aware coral version velvet pluck";

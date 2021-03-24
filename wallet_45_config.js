@@ -1,1 +1,1 @@
-var mnemonic = "fury custom street industry leopard recipe scale sponsor marine innocent bind object";
+var mnemonic = "wire nose vicious scan wage invite faith high tide peace acoustic screen";

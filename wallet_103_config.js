@@ -1,1 +1,1 @@
-var mnemonic = "buyer dismiss coin mask chronic bid column apology flock process boring stumble";
+var mnemonic = "bargain edge mango kingdom advice achieve wine pen feed february rival diesel";

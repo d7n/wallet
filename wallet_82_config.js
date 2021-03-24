@@ -1,1 +1,1 @@
-var mnemonic = "wine market liar maximum rigid security emerge hover perfect kitten payment estate";
+var mnemonic = "reject pitch repair reduce critic decrease identify wealth pond milk express abandon";

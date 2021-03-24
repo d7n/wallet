@@ -1,1 +1,1 @@
-var mnemonic = "afford raven loud decorate act canyon seven gate abstract journey toe suit";
+var mnemonic = "exact repair glow mandate subway ski carbon fragile remind bring purity question";

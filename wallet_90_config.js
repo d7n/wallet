@@ -1,1 +1,1 @@
-var mnemonic = "magnet wrist actress forget slam oval hollow rapid absent pitch copy tortoise";
+var mnemonic = "rice around sock exercise duty gravity control vault satisfy sure monkey nurse";

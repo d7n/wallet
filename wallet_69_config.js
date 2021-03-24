@@ -1,1 +1,1 @@
-var mnemonic = "grace polar tuna dignity world ancient grief clever vibrant leader disorder essay";
+var mnemonic = "adapt item arctic mixture pattern slot motor stove play miracle shove melt";

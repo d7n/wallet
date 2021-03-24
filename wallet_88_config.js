@@ -1,1 +1,1 @@
-var mnemonic = "slice dream lemon mixed sea close demand foil ride hedgehog census fall";
+var mnemonic = "deliver heart guide congress culture tube chunk tail much unknown lonely intact";

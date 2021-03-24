@@ -1,1 +1,1 @@
-var mnemonic = "pave tank blast ostrich uncle vacuum simple stairs question accuse fat antenna";
+var mnemonic = "drill slight shallow swap pumpkin spatial expire crew slam keep version ski";

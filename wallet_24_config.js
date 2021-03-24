@@ -1,1 +1,1 @@
-var mnemonic = "peanut neutral melt oppose afford income fatigue aspect member ramp egg husband";
+var mnemonic = "turn thank clinic human lab found december october cherry glimpse lens lecture";

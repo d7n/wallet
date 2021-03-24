@@ -1,1 +1,1 @@
-var mnemonic = "slogan veteran cement oyster rare series forum machine trouble heart negative twelve";
+var mnemonic = "bid ivory upgrade rocket leave fog funny token forest six sun axis";

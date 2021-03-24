@@ -1,1 +1,1 @@
-var mnemonic = "cement mixed patient crane joy alone balance scheme enlist crime level brown";
+var mnemonic = "turtle bridge sadness oak ranch water nominee boss stuff time accuse second";

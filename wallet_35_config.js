@@ -1,1 +1,1 @@
-var mnemonic = "trust syrup gun embrace hammer viable gap mercy bundle vague sport three";
+var mnemonic = "analyst zebra approve forget girl regret pigeon also chat gap half general";

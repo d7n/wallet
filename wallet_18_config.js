@@ -1,1 +1,1 @@
-var mnemonic = "season universe front major surface journey volcano wire reveal angle mercy feel";
+var mnemonic = "antenna notable test stamp detect fence limit morning page strike toward young";

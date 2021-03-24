@@ -1,1 +1,1 @@
-var mnemonic = "yard child gold canyon gate chat walnut blast venue scrap fatal beyond";
+var mnemonic = "legal enlist pulse half stereo novel cruel mistake actress solid spray raven";

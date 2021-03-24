@@ -1,1 +1,1 @@
-var mnemonic = "lunch surprise layer similar knock ocean bomb film engine neglect agree grab";
+var mnemonic = "click faint outdoor kind good occur image ocean verify gauge mushroom rebuild";

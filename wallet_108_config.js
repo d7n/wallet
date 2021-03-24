@@ -1,1 +1,1 @@
-var mnemonic = "limit build split pencil siren enough right toe describe device chef they";
+var mnemonic = "main census symbol deliver bone piano color tilt expect razor spawn tape";

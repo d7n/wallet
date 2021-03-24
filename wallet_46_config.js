@@ -1,1 +1,1 @@
-var mnemonic = "cycle embrace company long puppy useless torch damage captain tongue staff push";
+var mnemonic = "security butter electric joke ball cradle canvas aim marine leaf survey short";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger riot clarify near ring hospital inmate minimum economy quote switch purity";
+var mnemonic = "casino minor wage two glue unhappy forget party game inject insane aware";

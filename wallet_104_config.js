@@ -1,1 +1,1 @@
-var mnemonic = "quick happy pizza rapid typical plastic trend gospel ordinary reopen spice recipe";
+var mnemonic = "average spin caution throw mystery tray room season cross hill cattle paper";

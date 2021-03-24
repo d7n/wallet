@@ -1,1 +1,1 @@
-var mnemonic = "jeans entire fluid sword crunch disease choose visual art shrug dismiss lazy";
+var mnemonic = "truth replace shell body pipe gauge leaf deputy skull poverty reopen often";

@@ -1,1 +1,1 @@
-var mnemonic = "escape swarm donate fiscal consider interest island clip antenna venture consider kind";
+var mnemonic = "burden craft paper despair rifle blanket job loan later venue practice number";

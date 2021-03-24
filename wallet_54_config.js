@@ -1,1 +1,1 @@
-var mnemonic = "chase crucial buyer over draw idle speak avoid shed aunt alone drastic";
+var mnemonic = "fringe crater amateur surge direct way discover city cabbage enter inside noble";

@@ -1,1 +1,1 @@
-var mnemonic = "soon input oblige salmon mean surprise labor easy crane chapter scale manual";
+var mnemonic = "wheat attitude tackle shock symptom tooth bounce profit field supreme moment cannon";

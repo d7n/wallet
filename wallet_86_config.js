@@ -1,1 +1,1 @@
-var mnemonic = "chicken busy all tennis stage gap cruel ketchup print gadget square ensure";
+var mnemonic = "between pencil card humble marble embark rapid shine drama stone seed assault";

@@ -1,1 +1,1 @@
-var mnemonic = "about hour idea oval account life street super glory ladder oblige doll";
+var mnemonic = "pilot vintage final seat cargo excuse whip father medal drop coyote nice";

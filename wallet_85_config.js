@@ -1,1 +1,1 @@
-var mnemonic = "miracle barely cloud rigid program surface time vicious biology joy box resemble";
+var mnemonic = "grab puppy auction bid sniff move rich crazy craft scrap planet ivory";

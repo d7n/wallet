@@ -1,1 +1,1 @@
-var mnemonic = "derive fossil vibrant card choose wing arm pond craft slender humor edit";
+var mnemonic = "erupt various need wear game faculty wall answer quarter useful soul sand";

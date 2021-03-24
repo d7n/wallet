@@ -1,1 +1,1 @@
-var mnemonic = "possible move business visa absurd code grass sauce power hire smile cotton";
+var mnemonic = "negative elevator virtual cram web climb color crush junk dragon magic general";

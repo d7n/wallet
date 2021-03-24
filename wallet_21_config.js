@@ -1,1 +1,1 @@
-var mnemonic = "elder subject lava rent magic fatigue exercise giggle dress ordinary develop wine";
+var mnemonic = "genuine exhaust wish cat expire pool inject sugar divorce wrap lawsuit squeeze";

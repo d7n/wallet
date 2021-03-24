@@ -1,1 +1,1 @@
-var mnemonic = "keen ecology alter observe fog curve talk busy unfold harsh embody fox";
+var mnemonic = "plunge entire lazy wild blush distance spice horror yard venue ignore stone";
