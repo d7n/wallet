@@ -1,1 +1,1 @@
-var mnemonic = "drip van vote busy start evil human kangaroo mandate differ afford useful";
+var mnemonic = "fox height stool hope pool agent bonus success payment voice pear chalk";

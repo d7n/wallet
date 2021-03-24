@@ -1,1 +1,1 @@
-var mnemonic = "hair tilt milk this torch thank human random fee captain action party";
+var mnemonic = "predict balcony genre usage ghost buyer honey project friend tattoo sustain slam";

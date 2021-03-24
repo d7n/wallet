@@ -1,1 +1,1 @@
-var mnemonic = "strong mechanic color very exchange tuna bridge measure song step trouble analyst";
+var mnemonic = "crane trade beef aim zoo glass million material arrive vivid athlete multiply";

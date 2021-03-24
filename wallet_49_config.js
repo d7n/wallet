@@ -1,1 +1,1 @@
-var mnemonic = "truth replace shell body pipe gauge leaf deputy skull poverty reopen often";
+var mnemonic = "tilt issue net hurt vague pink pool common clutch erupt flock round";

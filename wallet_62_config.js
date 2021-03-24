@@ -1,1 +1,1 @@
-var mnemonic = "frown never captain buddy village usual bunker vote quantum pilot garage antenna";
+var mnemonic = "tray evil song rain once when glue spike tribe extra weird beauty";

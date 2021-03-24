@@ -1,1 +1,1 @@
-var mnemonic = "casino minor wage two glue unhappy forget party game inject insane aware";
+var mnemonic = "decorate merge gravity erase orbit sister ice outside myself hello erode gown";

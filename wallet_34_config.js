@@ -1,1 +1,1 @@
-var mnemonic = "bid ivory upgrade rocket leave fog funny token forest six sun axis";
+var mnemonic = "craft tiny analyst casual carbon pink wink inquiry hunt arrive forum replace";

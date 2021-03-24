@@ -1,1 +1,1 @@
-var mnemonic = "enhance raven wire say mix grit measure picture dutch demand gloom picnic";
+var mnemonic = "bench panda summer candy anchor mesh goddess require three once violin crane";

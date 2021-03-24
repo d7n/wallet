@@ -1,1 +1,1 @@
-var mnemonic = "soap just mimic lamp refuse possible elevator point teach lesson teach frozen";
+var mnemonic = "enforce kingdom blanket fine recipe reject pelican lake visit bounce exercise kitten";

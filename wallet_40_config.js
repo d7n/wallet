@@ -1,1 +1,1 @@
-var mnemonic = "arch love mask smart derive inherit off layer proof possible weapon august";
+var mnemonic = "alert negative mail hope negative high shy reform soccer distance wage timber";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon rubber tell tray put because cereal climb hazard dry double chef";
+var mnemonic = "else coffee vacuum peasant leaf barrel alone own limb blade question wrong";

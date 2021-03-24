@@ -1,1 +1,1 @@
-var mnemonic = "exotic report faint advice fall cruel unique choose issue auction thunder ghost";
+var mnemonic = "voyage rotate actor catalog purse rug issue silver yellow reform jeans morning";

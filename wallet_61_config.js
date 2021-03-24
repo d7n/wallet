@@ -1,1 +1,1 @@
-var mnemonic = "ahead olympic resource mom shrimp bike logic patch nasty sauce farm know";
+var mnemonic = "laugh scrap wheel refuse pumpkin space sister insane brave eye behave season";

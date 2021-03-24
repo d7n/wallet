@@ -1,1 +1,1 @@
-var mnemonic = "pilot vintage final seat cargo excuse whip father medal drop coyote nice";
+var mnemonic = "tide aerobic express convince letter basket famous switch pave test abuse quality";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe crater amateur surge direct way discover city cabbage enter inside noble";
+var mnemonic = "poem cake marble congress silly pact mule shoe mirror similar blind tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "brand trip drum essay dizzy enroll image champion fit injury pact hand";
+var mnemonic = "word meadow various pattern alcohol trial trap define robot bamboo aim rude";

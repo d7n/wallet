@@ -1,1 +1,1 @@
-var mnemonic = "reject pitch repair reduce critic decrease identify wealth pond milk express abandon";
+var mnemonic = "elevator type pole match iron domain novel leave knife someone clay ahead";

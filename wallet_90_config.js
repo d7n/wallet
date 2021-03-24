@@ -1,1 +1,1 @@
-var mnemonic = "rice around sock exercise duty gravity control vault satisfy sure monkey nurse";
+var mnemonic = "oblige marriage enough broken kidney road tackle deal spell tail hungry blame";

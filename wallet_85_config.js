@@ -1,1 +1,1 @@
-var mnemonic = "grab puppy auction bid sniff move rich crazy craft scrap planet ivory";
+var mnemonic = "issue short gesture aim east oven argue ride bundle phone basic allow";

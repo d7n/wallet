@@ -1,1 +1,1 @@
-var mnemonic = "torch insect cup pause happy urge theory insect lonely frame inquiry loud";
+var mnemonic = "select poet replace bomb remain false seat boring pioneer food paddle begin";

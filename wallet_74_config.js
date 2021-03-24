@@ -1,1 +1,1 @@
-var mnemonic = "whisper public hawk squeeze kite maple shaft absurd embody wing doctor life";
+var mnemonic = "drill grunt trend eager grid civil reunion barely fortune pyramid shove divert";

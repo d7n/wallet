@@ -1,1 +1,1 @@
-var mnemonic = "copper then onion waste mother winner lamp debate waste cram type empower";
+var mnemonic = "pig crumble cannon front creek wise raise offer chest stable also essay";

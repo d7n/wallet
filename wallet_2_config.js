@@ -1,1 +1,1 @@
-var mnemonic = "forget danger business balcony napkin awful below task parade spare explain other";
+var mnemonic = "latin fall spread inform wide human bunker faint version neglect mom wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom royal message estate stereo senior home tube nurse amused learn slice";
+var mnemonic = "exercise anger alert wrong demand desk happy already later solid asset raw";

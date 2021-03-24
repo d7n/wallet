@@ -1,1 +1,1 @@
-var mnemonic = "churn mask general fresh picnic win before moon output later stock fortune";
+var mnemonic = "quick solution matrix together dynamic average educate giraffe pipe amused lottery course";

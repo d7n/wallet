@@ -1,1 +1,1 @@
-var mnemonic = "lens strong common next elevator baby junk cost wife wild ankle glimpse";
+var mnemonic = "opera ten cruise baby aerobic now pipe rescue guilt spawn media unusual";

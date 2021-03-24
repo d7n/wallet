@@ -1,1 +1,1 @@
-var mnemonic = "culture aware myth fade outdoor history diesel can viable family step guitar";
+var mnemonic = "witness lecture twice elevator turtle skill seminar festival utility robot rule pulp";

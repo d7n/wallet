@@ -1,1 +1,1 @@
-var mnemonic = "hawk define swing order okay tiger clown horror expose base provide pepper";
+var mnemonic = "such enroll zone flag dress mention inmate stereo disorder brush win refuse";

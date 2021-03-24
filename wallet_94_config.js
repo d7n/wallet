@@ -1,1 +1,1 @@
-var mnemonic = "plunge entire lazy wild blush distance spice horror yard venue ignore stone";
+var mnemonic = "admit grant faculty stomach aim dynamic solid daughter color rally click uniform";

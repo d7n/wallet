@@ -1,1 +1,1 @@
-var mnemonic = "govern regular unit bonus wrist upset buddy glad fantasy check consider museum";
+var mnemonic = "leisure crouch sand maple erode leave sense guard measure soon exotic hurt";

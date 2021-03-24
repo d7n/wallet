@@ -1,1 +1,1 @@
-var mnemonic = "adapt item arctic mixture pattern slot motor stove play miracle shove melt";
+var mnemonic = "tell drill sad plunge soup modify mandate velvet ability nephew gown supreme";

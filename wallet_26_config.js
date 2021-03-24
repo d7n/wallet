@@ -1,1 +1,1 @@
-var mnemonic = "record enact nasty lock disagree path equip awesome cancel clutch insect alpha";
+var mnemonic = "denial resist grape glue method index cram price ten rent demise copy";

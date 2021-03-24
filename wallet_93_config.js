@@ -1,1 +1,1 @@
-var mnemonic = "museum vault room loyal rotate estate sponsor panther base will choice twist";
+var mnemonic = "cover ring empower frequent develop unusual tornado another frequent ahead stool cream";

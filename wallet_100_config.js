@@ -1,1 +1,1 @@
-var mnemonic = "kick anger picture gym segment pledge oblige venue arrange furnace federal knife";
+var mnemonic = "attitude rare carry notable cram insect climb kind project clay learn giggle";

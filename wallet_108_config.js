@@ -1,1 +1,1 @@
-var mnemonic = "main census symbol deliver bone piano color tilt expect razor spawn tape";
+var mnemonic = "auction kite mirror rocket cereal search relax key cloud regular message sting";

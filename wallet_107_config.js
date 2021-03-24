@@ -1,1 +1,1 @@
-var mnemonic = "program option safe change cloth enemy submit slim label ignore return target";
+var mnemonic = "harvest always attend trade august material clip velvet tank cycle autumn vague";

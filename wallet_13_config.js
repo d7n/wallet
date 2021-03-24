@@ -1,1 +1,1 @@
-var mnemonic = "drill slight shallow swap pumpkin spatial expire crew slam keep version ski";
+var mnemonic = "crucial fee cruise obey trade forget silver ordinary velvet ritual siege indicate";

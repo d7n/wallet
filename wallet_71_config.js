@@ -1,1 +1,1 @@
-var mnemonic = "clip mistake volume sister daring supreme okay gesture try reason slim garment";
+var mnemonic = "execute mimic goat surround pact virus lunch when wolf patient believe ecology";

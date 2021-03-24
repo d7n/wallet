@@ -1,1 +1,1 @@
-var mnemonic = "message page clarify wage egg simple law admit better nut roof resource";
+var mnemonic = "marine among emotion stomach thank machine answer oyster marriage cattle radar tree";

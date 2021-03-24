@@ -1,1 +1,1 @@
-var mnemonic = "grit episode electric improve spawn lyrics phrase immense boring system tragic shadow";
+var mnemonic = "bullet fresh praise stadium dose wasp cry nephew girl squeeze general submit";

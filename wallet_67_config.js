@@ -1,1 +1,1 @@
-var mnemonic = "inject stand battle essay such rent worry plate town joke bomb mail";
+var mnemonic = "cost couple inmate joy dash element spirit jazz window inmate also spoon";

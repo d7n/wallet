@@ -1,1 +1,1 @@
-var mnemonic = "alter actual violin teach artefact sphere list brave guitar cloud kingdom mule";
+var mnemonic = "grief dolphin more vocal patch reject note isolate erupt mesh piece about";

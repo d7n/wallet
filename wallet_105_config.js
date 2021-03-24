@@ -1,1 +1,1 @@
-var mnemonic = "click faint outdoor kind good occur image ocean verify gauge mushroom rebuild";
+var mnemonic = "embark judge believe member learn mechanic cause hire old census sustain plug";

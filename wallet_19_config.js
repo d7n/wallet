@@ -1,1 +1,1 @@
-var mnemonic = "rotate bring frog plunge people bitter sugar erode seed police sunset major";
+var mnemonic = "note later acoustic rare elite able loud file cliff decline rough snake";

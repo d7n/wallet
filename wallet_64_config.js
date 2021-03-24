@@ -1,1 +1,1 @@
-var mnemonic = "myth road marble decorate novel engine pass decade truck south record future";
+var mnemonic = "between mercy tag tattoo will permit unknown kite virus amount artefact thunder";

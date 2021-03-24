@@ -1,1 +1,1 @@
-var mnemonic = "damp slim tourist tenant powder between air margin win window captain isolate";
+var mnemonic = "help quit excuse bracket honey twenty shy wide prosper open budget accuse";

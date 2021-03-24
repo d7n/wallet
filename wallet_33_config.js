@@ -1,1 +1,1 @@
-var mnemonic = "island area verify fence beach amount aisle tiny soon nephew cave sleep";
+var mnemonic = "certain empower hole flat mind color letter artist bicycle badge stadium kind";

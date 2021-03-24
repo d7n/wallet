@@ -1,1 +1,1 @@
-var mnemonic = "wire nose vicious scan wage invite faith high tide peace acoustic screen";
+var mnemonic = "cup example sad rose movie best echo pig tonight dog power robot";

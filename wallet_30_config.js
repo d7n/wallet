@@ -1,1 +1,1 @@
-var mnemonic = "whale volume hint idea actor catch spoon father absent genuine pioneer sibling";
+var mnemonic = "vessel brave scale drive pink category prosper sentence helmet hold state hope";

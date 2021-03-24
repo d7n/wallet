@@ -1,1 +1,1 @@
-var mnemonic = "absent unfair answer creek area enroll avocado city loan basic light elegant";
+var mnemonic = "brand unfair fat ordinary possible uncle mobile barrel goat wise finger dutch";

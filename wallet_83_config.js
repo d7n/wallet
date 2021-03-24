@@ -1,1 +1,1 @@
-var mnemonic = "cage light strong sweet six paddle able discover myth explain glad waste";
+var mnemonic = "shoot lumber canoe embrace cargo danger vapor tool lava bright deliver ketchup";

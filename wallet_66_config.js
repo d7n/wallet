@@ -1,1 +1,1 @@
-var mnemonic = "flame adapt apart boat join donor gold book purse when hat dance";
+var mnemonic = "bring rely weekend neck hobby trap claw item icon dragon asset chase";

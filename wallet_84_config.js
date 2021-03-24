@@ -1,1 +1,1 @@
-var mnemonic = "bench small old stay decide toe wire clerk leg book merry scrub";
+var mnemonic = "hammer exclude dutch arrive ice similar pottery arrest skill orchard chapter medal";

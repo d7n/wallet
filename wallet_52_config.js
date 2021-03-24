@@ -1,1 +1,1 @@
-var mnemonic = "enjoy exchange defy below purpose tip jar vendor angle olive flat forget";
+var mnemonic = "surround situate royal clock swear warrior seven tonight imitate window crawl orange";

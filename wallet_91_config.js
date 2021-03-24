@@ -1,1 +1,1 @@
-var mnemonic = "action ramp degree shaft team elephant inner tank armed supply match ivory";
+var mnemonic = "retreat become member film iron student tonight maze omit repair canoe spin";

@@ -1,1 +1,1 @@
-var mnemonic = "average spin caution throw mystery tray room season cross hill cattle paper";
+var mnemonic = "student daring laptop floor frequent melt cluster globe arctic sudden chase school";

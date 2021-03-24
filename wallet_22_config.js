@@ -1,1 +1,1 @@
-var mnemonic = "wheel heart uncover lawsuit cattle voyage judge valve aim spend pause warm";
+var mnemonic = "scare museum any useless planet afraid bridge supreme appear width junior doctor";

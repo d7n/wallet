@@ -1,1 +1,1 @@
-var mnemonic = "muffin false habit weapon crash festival course time cover swap basic doctor";
+var mnemonic = "local online input steel robust atom body office twice connect sting cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "turn thank clinic human lab found december october cherry glimpse lens lecture";
+var mnemonic = "dance pioneer trick boss vapor hammer iron globe pupil loan summer bundle";

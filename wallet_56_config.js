@@ -1,1 +1,1 @@
-var mnemonic = "clump claim similar shell crane lazy sauce off broken coral pave shock";
+var mnemonic = "erase club orange divide ice inform mandate tortoise mechanic task page great";

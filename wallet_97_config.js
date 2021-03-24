@@ -1,1 +1,1 @@
-var mnemonic = "wheat attitude tackle shock symptom tooth bounce profit field supreme moment cannon";
+var mnemonic = "direct bulk relax pattern foster toast valid dawn citizen forum unveil scout";

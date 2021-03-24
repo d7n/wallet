@@ -1,1 +1,1 @@
-var mnemonic = "truly chalk angry merge steel regular lens swap path extra fresh chaos";
+var mnemonic = "banana coffee paper topple school shoulder trick spread witness kiwi manual gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "between pencil card humble marble embark rapid shine drama stone seed assault";
+var mnemonic = "giant foster antique recycle coconut cruel below keen crunch mass pull mule";

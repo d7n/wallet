@@ -1,1 +1,1 @@
-var mnemonic = "cousin idle rough have train barely punch oval daring domain trend bean";
+var mnemonic = "digital coast result crater quote concert rifle jazz movie swap afford slender";

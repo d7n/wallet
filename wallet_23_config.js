@@ -1,1 +1,1 @@
-var mnemonic = "clay raise hundred rally neither cute scene betray bleak ball donkey color";
+var mnemonic = "impulse amused fruit private vocal leaf stomach panel guide hockey parade vapor";

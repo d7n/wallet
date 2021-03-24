@@ -1,1 +1,1 @@
-var mnemonic = "rose velvet model humor kite fall head kiwi laugh galaxy inflict amateur";
+var mnemonic = "heavy matter arrive sketch travel stadium wrestle average neck crater coffee drama";

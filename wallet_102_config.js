@@ -1,1 +1,1 @@
-var mnemonic = "popular slight garage hobby labor utility cheese gorilla entire approve region liar";
+var mnemonic = "also child buffalo scan client novel bid grape regret labor mouse work";

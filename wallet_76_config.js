@@ -1,1 +1,1 @@
-var mnemonic = "crush pitch much wage sibling refuse bulk bitter library scheme proud squirrel";
+var mnemonic = "trash century orange dirt base fluid young accident oyster tornado coconut grunt";

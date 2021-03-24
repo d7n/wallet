@@ -1,1 +1,1 @@
-var mnemonic = "immune jeans symbol believe key frame brief crawl water cushion dog island";
+var mnemonic = "crunch tennis dry project bag erase spy session inner exact nerve dignity";

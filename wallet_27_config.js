@@ -1,1 +1,1 @@
-var mnemonic = "earth write essay punch mystery slam horse perfect left flag erupt acoustic";
+var mnemonic = "gap corn soft habit imitate decorate pretty share height joke helmet yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "divide bulk artist forest since derive load fetch person width country include";
+var mnemonic = "erupt inject patch wise brand essay pyramid news gun goddess rebuild action";

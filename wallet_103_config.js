@@ -1,1 +1,1 @@
-var mnemonic = "bargain edge mango kingdom advice achieve wine pen feed february rival diesel";
+var mnemonic = "nurse reason clean dirt pitch enable enlist excuse library guard vault zebra";

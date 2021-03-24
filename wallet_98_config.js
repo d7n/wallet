@@ -1,1 +1,1 @@
-var mnemonic = "burden craft paper despair rifle blanket job loan later venue practice number";
+var mnemonic = "salad news you race very slab club humor ribbon benefit deer title";

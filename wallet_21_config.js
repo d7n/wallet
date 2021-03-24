@@ -1,1 +1,1 @@
-var mnemonic = "genuine exhaust wish cat expire pool inject sugar divorce wrap lawsuit squeeze";
+var mnemonic = "friend nothing view asset about bar school snake glass admit plug ugly";

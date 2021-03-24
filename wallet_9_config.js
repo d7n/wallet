@@ -1,1 +1,1 @@
-var mnemonic = "sense mix bike olive valley obvious occur key security furnace blade kangaroo";
+var mnemonic = "action benefit wedding defy thought face pig essay helmet frequent girl inside";

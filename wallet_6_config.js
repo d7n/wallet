@@ -1,1 +1,1 @@
-var mnemonic = "cotton afford void drastic away nature glad crumble have noodle claim position";
+var mnemonic = "pizza hawk famous royal crumble learn soldier uncover sheriff brick copper absurd";

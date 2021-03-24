@@ -1,1 +1,1 @@
-var mnemonic = "together host alien fox picnic rice cake cute they engine blast siren";
+var mnemonic = "fruit release exile steel water width bacon fat coast shrug snack photo";

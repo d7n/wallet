@@ -1,1 +1,1 @@
-var mnemonic = "negative elevator virtual cram web climb color crush junk dragon magic general";
+var mnemonic = "green unable tape shift increase cluster bracket spot weasel bike surge element";

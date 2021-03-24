@@ -1,1 +1,1 @@
-var mnemonic = "exact repair glow mandate subway ski carbon fragile remind bring purity question";
+var mnemonic = "duty aware run wheat basic feel furnace clock lazy run flush swamp";

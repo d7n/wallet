@@ -1,1 +1,1 @@
-var mnemonic = "happy grit bread engine hidden insane sport fog rail merge monster album";
+var mnemonic = "cup wrist spoon salmon mimic survey giggle shell beef pattern arm ghost";

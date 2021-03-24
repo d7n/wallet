@@ -1,1 +1,1 @@
-var mnemonic = "brush bike orphan cycle dream powder avocado wasp few scale approve fit";
+var mnemonic = "salmon lesson yellow public often hollow word pause arrange oval grain this";

@@ -1,1 +1,1 @@
-var mnemonic = "shop boring space quantum tourist skate fancy you wrist suit merry empower";
+var mnemonic = "boost sting illness runway toward boat salute funny receive fetch truly outer";

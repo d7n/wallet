@@ -1,1 +1,1 @@
-var mnemonic = "broom knee vanish brass sauce pelican vendor devote nurse senior oak dream";
+var mnemonic = "gaze follow private trade document arena tiger skill change nurse client shrimp";

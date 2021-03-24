@@ -1,1 +1,1 @@
-var mnemonic = "sleep because believe plastic river empty inflict repeat problem endless legend patch";
+var mnemonic = "boat knife method render recipe rich magic exact wisdom chase drop sight";

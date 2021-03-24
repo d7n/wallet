@@ -1,1 +1,1 @@
-var mnemonic = "analyst box wealth distance limit sign thrive essence retire increase oil fatal";
+var mnemonic = "woman song cereal wife resist party fox escape nation mail spike face";

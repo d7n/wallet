@@ -1,1 +1,1 @@
-var mnemonic = "slide liquid draw ginger merge diet horse fringe left impose broken minimum";
+var mnemonic = "park pet pyramid resource drum fix muscle focus achieve profit orphan length";

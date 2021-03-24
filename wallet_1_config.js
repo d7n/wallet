@@ -1,1 +1,1 @@
-var mnemonic = "assault vehicle music around mother eagle mask gasp rabbit truth car regular";
+var mnemonic = "avocado dust together moon engine expose olive trust noise episode ketchup decorate";

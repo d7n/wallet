@@ -1,1 +1,1 @@
-var mnemonic = "ozone seed account around squirrel motor fine situate such valley cash wrong";
+var mnemonic = "arm square remind nut screen churn beef rather salmon island vibrant apple";

@@ -1,1 +1,1 @@
-var mnemonic = "below trouble cluster update pride camera surge clinic matter odor draw modify";
+var mnemonic = "mind market bitter universe original blouse blanket piece anxiety flee wall beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "believe harsh transfer nuclear buffalo avocado weapon treat twenty visa rifle purpose";
+var mnemonic = "civil similar robust excess hamster term panic abuse park blur snake ripple";

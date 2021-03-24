@@ -1,1 +1,1 @@
-var mnemonic = "deliver heart guide congress culture tube chunk tail much unknown lonely intact";
+var mnemonic = "ancient dune hat fatal spice garment know news grit impose guitar anxiety";
