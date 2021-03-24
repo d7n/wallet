@@ -1,1 +1,1 @@
-var mnemonic = "vicious ketchup capital guitar retire universe curtain midnight tribe tragic recipe major";
+var mnemonic = "face bring life thumb sorry dune orphan road daring choose apology practice";

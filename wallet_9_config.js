@@ -1,1 +1,1 @@
-var mnemonic = "shuffle blouse hammer setup okay near execute sadness sphere benefit bike saddle";
+var mnemonic = "way ginger offer detail aerobic casual culture usual friend clump system urban";

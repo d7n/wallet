@@ -1,1 +1,1 @@
-var mnemonic = "planet lecture neck galaxy sorry lounge jelly arrow ankle pretty thunder lake";
+var mnemonic = "achieve situate spirit worry leisure disorder fruit crash sad bar exotic charge";

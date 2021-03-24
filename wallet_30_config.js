@@ -1,1 +1,1 @@
-var mnemonic = "hidden multiply possible near answer market gloom rival manual survey bright junior";
+var mnemonic = "together deposit conduct disagree bean position hub daughter autumn word bacon chimney";

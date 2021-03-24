@@ -1,1 +1,1 @@
-var mnemonic = "airport tuition element shed soul sail doctor suspect eagle vacant donate pyramid";
+var mnemonic = "milk refuse visit banner alert banner prize water wealth word slogan fiber";

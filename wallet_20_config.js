@@ -1,1 +1,1 @@
-var mnemonic = "buzz asset alert luggage steak speak hip draw force all tumble already";
+var mnemonic = "image endorse witness accident embark measure extend trash dog umbrella lizard choice";

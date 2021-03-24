@@ -1,1 +1,1 @@
-var mnemonic = "glass erase annual hotel bulk hamster canyon subject blue beach bar north";
+var mnemonic = "company chuckle weasel scale palace expire hazard tragic cloud perfect oven grace";

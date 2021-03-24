@@ -1,1 +1,1 @@
-var mnemonic = "logic plug art wreck such today harbor silk bicycle certain barrel market";
+var mnemonic = "kind seat error shaft derive local certain card ask cycle female edit";

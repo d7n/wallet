@@ -1,1 +1,1 @@
-var mnemonic = "load term unknown license add still supreme diet knife whisper pattern already";
+var mnemonic = "social task excuse ocean message food cloud program indoor trigger army bronze";

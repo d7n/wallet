@@ -1,1 +1,1 @@
-var mnemonic = "day hollow cycle glare cruel answer pass movie rack above iron cereal";
+var mnemonic = "loan laundry fish fade warm family ask huge confirm fitness tortoise umbrella";

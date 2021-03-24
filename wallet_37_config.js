@@ -1,1 +1,1 @@
-var mnemonic = "below utility pepper shell carpet breeze system scene hundred evil base exile";
+var mnemonic = "figure tunnel avoid senior spy tail truly model legend punch immune aware";

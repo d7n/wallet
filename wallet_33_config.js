@@ -1,1 +1,1 @@
-var mnemonic = "insane armed kid lottery repeat pass seven saddle cancel nest monitor craft";
+var mnemonic = "royal south label swap volcano phone matrix mystery crop weird hedgehog knock";

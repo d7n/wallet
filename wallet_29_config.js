@@ -1,1 +1,1 @@
-var mnemonic = "machine toddler extend zoo metal snow dwarf enforce swift umbrella mule artist";
+var mnemonic = "isolate million hold drop club extend know sponsor demise sister wash wonder";

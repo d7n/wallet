@@ -1,1 +1,1 @@
-var mnemonic = "fiscal fiction habit draw patient buzz sadness depth airport reunion social retreat";
+var mnemonic = "beauty culture damp asthma carry brother practice lab depend reveal hello bench";

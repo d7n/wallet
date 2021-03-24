@@ -1,1 +1,1 @@
-var mnemonic = "joy catalog chuckle lake hockey village canvas gloom syrup mind swap bring";
+var mnemonic = "load crawl warfare affair job immune unique social another canvas order luxury";

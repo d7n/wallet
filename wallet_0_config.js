@@ -1,1 +1,1 @@
-var mnemonic = "pattern muffin cool brave exchange else digital derive knife maple meadow leader";
+var mnemonic = "drift direct bonus segment immense settle magnet slam attack light midnight step";

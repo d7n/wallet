@@ -1,1 +1,1 @@
-var mnemonic = "coral version census strong holiday rifle tray apart elevator slim job enjoy";
+var mnemonic = "cook style crane smart squeeze dinosaur reunion live key call film december";

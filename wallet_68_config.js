@@ -1,1 +1,1 @@
-var mnemonic = "noble cushion fantasy float weapon home hobby ancient owner civil panther finger";
+var mnemonic = "fatigue ramp during easy tube duck library soda remind pause deny sweet";

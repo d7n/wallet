@@ -1,1 +1,1 @@
-var mnemonic = "tattoo endless twist shallow suspect urban fat detail castle uphold scene cruel";
+var mnemonic = "aim dismiss melt sugar sustain liquid umbrella palace way loud crisp spray";

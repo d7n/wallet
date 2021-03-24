@@ -1,1 +1,1 @@
-var mnemonic = "barely island evidence flower depend series green lesson endless assault liberty knock";
+var mnemonic = "gravity oblige labor hundred offer shy bicycle column radio speak indoor remove";

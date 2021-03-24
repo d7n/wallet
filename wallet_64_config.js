@@ -1,1 +1,1 @@
-var mnemonic = "pepper layer wash sausage horror away alter discover pole air juice planet";
+var mnemonic = "caught uphold maid vote balance glare parrot chalk tool door unable mind";

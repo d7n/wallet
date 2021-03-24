@@ -1,1 +1,1 @@
-var mnemonic = "foil blood wrong filter spy symbol track milk artefact define mother fury";
+var mnemonic = "valid hat link street step certain excess ramp oyster tool they record";

@@ -1,1 +1,1 @@
-var mnemonic = "riot pause zone engage exchange label reform entire finger ginger monitor early";
+var mnemonic = "race success knock close diamond chair play brown effort orbit travel drill";

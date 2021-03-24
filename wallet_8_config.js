@@ -1,1 +1,1 @@
-var mnemonic = "art february retreat elder immune mixed curious sense topple rather shop cruel";
+var mnemonic = "oblige library typical either glove card river alone crop virtual grace tattoo";

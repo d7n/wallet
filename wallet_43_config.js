@@ -1,1 +1,1 @@
-var mnemonic = "jacket truck armor addict jeans negative coyote crowd soap visit polar film";
+var mnemonic = "remind valley awkward rough garlic job orange sword make hunt more nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "coach depth lava sense tide current topic spoon puppy try honey remain";
+var mnemonic = "input sunset layer force mention few tilt chunk lake resist avocado october";

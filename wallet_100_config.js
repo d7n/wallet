@@ -1,1 +1,1 @@
-var mnemonic = "soda thank interest believe athlete please lava tent stairs volcano burst dirt";
+var mnemonic = "bless they secret walnut try summer wise derive sadness rubber shell where";

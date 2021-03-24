@@ -1,1 +1,1 @@
-var mnemonic = "dust describe spin broom know radio hen edge upper broken lesson more";
+var mnemonic = "matrix chest boy release shadow innocent usual body intact legend ten base";

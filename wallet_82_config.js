@@ -1,1 +1,1 @@
-var mnemonic = "gather distance muscle festival verb whale sugar absorb about october apology purse";
+var mnemonic = "old yard range kick liquid blanket staff tackle antenna coin essay turn";

@@ -1,1 +1,1 @@
-var mnemonic = "guard minimum piano small permit rail member hope design raise unknown strategy";
+var mnemonic = "betray grid radio napkin name flat polar hedgehog enrich such you body";

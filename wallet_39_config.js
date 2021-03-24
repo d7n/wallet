@@ -1,1 +1,1 @@
-var mnemonic = "once deny drift police sand fossil enlist sunny neutral chimney jungle fantasy";
+var mnemonic = "sorry family east album often device refuse squeeze design cash ill cable";

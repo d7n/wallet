@@ -1,1 +1,1 @@
-var mnemonic = "benefit core evolve drop glory sense cruise script retire guilt know anger";
+var mnemonic = "grocery broken segment ask banner swallow royal mention gospel ozone kitten sniff";

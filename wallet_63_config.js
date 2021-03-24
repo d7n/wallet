@@ -1,1 +1,1 @@
-var mnemonic = "sunny legal dash degree sing tower focus sudden liquid lend stomach fresh";
+var mnemonic = "hair scatter brush admit click claim mammal logic section indicate slab sheriff";

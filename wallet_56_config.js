@@ -1,1 +1,1 @@
-var mnemonic = "wish spot lamp exclude betray athlete sock same museum shiver treat shoulder";
+var mnemonic = "day rug ready yard injury bunker option wait coast helmet critic plate";

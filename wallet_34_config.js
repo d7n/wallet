@@ -1,1 +1,1 @@
-var mnemonic = "auto nation usage lucky popular cage pyramid either primary inspire enrich leave";
+var mnemonic = "exotic brush search matrix birth voice predict frozen desert key begin badge";

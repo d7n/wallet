@@ -1,1 +1,1 @@
-var mnemonic = "dance alien puzzle frown peanut uniform conduct approve pond update shed custom";
+var mnemonic = "piano turtle eight tomorrow disease conduct trim item furnace unfair kingdom mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "casual grid ridge advice blame churn food amazing foster envelope fire hire";
+var mnemonic = "curious ladder wing skirt ritual change birth farm concert minor attack sustain";

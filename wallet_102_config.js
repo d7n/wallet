@@ -1,1 +1,1 @@
-var mnemonic = "brush chase father original powder brave jeans thrive place quote kidney pool";
+var mnemonic = "ramp pencil forum shock release blur horse flash voice roast annual pigeon";

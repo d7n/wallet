@@ -1,1 +1,1 @@
-var mnemonic = "giraffe twice reform tennis learn taxi bracket car dream dinner dignity latin";
+var mnemonic = "genius inherit door garbage will digital alone peanut task nuclear ecology lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "design roof park skin shaft easily tattoo female lunar discover caught gauge";
+var mnemonic = "vague shed agree like dress state fish defy forum vivid giant cloud";

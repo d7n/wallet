@@ -1,1 +1,1 @@
-var mnemonic = "dumb right mango copy tortoise bullet nurse dune another grass section return";
+var mnemonic = "parade rocket life love pig tool cousin powder rocket entire crowd begin";

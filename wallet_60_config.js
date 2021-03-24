@@ -1,1 +1,1 @@
-var mnemonic = "pride arrow drip avoid cream flag arrow visit green equip guard bus";
+var mnemonic = "crash slice patrol hover country fatal cook hair sting receive valve beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit sound rebel deputy material yard february broom dinner globe fence silly";
+var mnemonic = "sure pottery race kick fun spoon bounce eager escape wheel donate fatigue";

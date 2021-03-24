@@ -1,1 +1,1 @@
-var mnemonic = "disorder spawn twenty wet dolphin follow wrap still envelope process conduct latin";
+var mnemonic = "proud guess resource axis bamboo arrest dentist kiwi detail toddler glance scissors";

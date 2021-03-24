@@ -1,1 +1,1 @@
-var mnemonic = "traffic return window pluck stay island erupt maid limb doctor science essence";
+var mnemonic = "loop crawl tunnel quality onion core eyebrow else invest canoe runway length";

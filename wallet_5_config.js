@@ -1,1 +1,1 @@
-var mnemonic = "cement oil strike thing laptop fatigue citizen exchange now destroy path harsh";
+var mnemonic = "foot crater ice bounce staff borrow crop ozone beauty capital hello lemon";

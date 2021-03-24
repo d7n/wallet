@@ -1,1 +1,1 @@
-var mnemonic = "harsh seek fade slender marriage tray relax text express please buffalo catalog";
+var mnemonic = "bronze visit alien valve accident neither harbor long visa wedding spray arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy situate verb arctic they right boil stay fault hire aunt project";
+var mnemonic = "sponsor unhappy indicate review point open snack praise traffic august antenna alter";

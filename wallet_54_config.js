@@ -1,1 +1,1 @@
-var mnemonic = "tray make bomb head episode regret gown honey scorpion vital odor hundred";
+var mnemonic = "include trial flat uncle robot van ordinary social alley unfair panic snow";

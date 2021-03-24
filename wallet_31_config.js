@@ -1,1 +1,1 @@
-var mnemonic = "easy inherit wasp pretty supply act enroll ivory pull grant ritual off";
+var mnemonic = "daring excuse globe pumpkin brisk bright disagree energy slide charge mesh finger";

@@ -1,1 +1,1 @@
-var mnemonic = "glad day sheriff scout account promote stamp shuffle item tissue toy come";
+var mnemonic = "primary pink forest mammal cry crazy blur acoustic clinic blush cradle wheel";

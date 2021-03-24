@@ -1,1 +1,1 @@
-var mnemonic = "timber bread green setup brief sand nice wide check flock belt dance";
+var mnemonic = "reform shed wait side favorite early vocal ivory wreck slush token cube";

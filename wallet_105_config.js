@@ -1,1 +1,1 @@
-var mnemonic = "blade festival filter settle liberty cry bench kite caution school start skull";
+var mnemonic = "forward breeze demise giggle slogan abstract squirrel device alone fish entry plate";

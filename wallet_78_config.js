@@ -1,1 +1,1 @@
-var mnemonic = "supply opera alcohol regular volcano lady stone silly order acid loyal absent";
+var mnemonic = "letter shoe exotic runway dress smooth regular month uniform advice theme wear";

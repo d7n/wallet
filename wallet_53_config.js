@@ -1,1 +1,1 @@
-var mnemonic = "tape shrimp print defy typical kid turn exhibit apart silver then addict";
+var mnemonic = "inject method sport cost meat glory hour front client fault wave always";

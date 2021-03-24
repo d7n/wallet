@@ -1,1 +1,1 @@
-var mnemonic = "exile rubber swap tower cart monitor nothing vicious will divert unaware tiger";
+var mnemonic = "enlist stem love urban expire episode web page attack pole elevator nice";

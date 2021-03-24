@@ -1,1 +1,1 @@
-var mnemonic = "twenty giraffe doll mother swing load almost glue bundle what anchor august";
+var mnemonic = "inhale artefact rhythm pipe surround prosper clown wood over old leave dress";

@@ -1,1 +1,1 @@
-var mnemonic = "manage around volume minor crunch execute saddle yard erase enact obvious warm";
+var mnemonic = "exhibit tell find half brass lumber prison session pepper ranch exhaust either";

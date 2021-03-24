@@ -1,1 +1,1 @@
-var mnemonic = "empty amazing champion rely magnet absorb urban short smart because jacket rotate";
+var mnemonic = "grape dress jaguar mass local february coach talk coil minor catalog noodle";

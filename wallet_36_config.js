@@ -1,1 +1,1 @@
-var mnemonic = "trick credit zone sign toilet slot gorilla midnight benefit suspect rocket clip";
+var mnemonic = "asset any trend cash mango banner arrive choose bread mechanic alter warrior";

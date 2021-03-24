@@ -1,1 +1,1 @@
-var mnemonic = "left alarm bread animal gasp treat genuine scrub write require enable eager";
+var mnemonic = "limit excite stove record obtain word chapter raise cabin fever shallow motion";

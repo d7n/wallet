@@ -1,1 +1,1 @@
-var mnemonic = "shell delay coast pink staff grid ice start mushroom you priority north";
+var mnemonic = "carry coast time away unusual hammer lend verb balance evolve amount wall";

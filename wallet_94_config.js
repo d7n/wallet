@@ -1,1 +1,1 @@
-var mnemonic = "rough kitten range assault aisle memory host wave flame topic surround ball";
+var mnemonic = "brief one together riot hamster mixture sorry crater olive fabric lunch cereal";

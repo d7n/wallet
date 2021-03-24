@@ -1,1 +1,1 @@
-var mnemonic = "image peace stay domain right ripple comfort please ten option panic april";
+var mnemonic = "arrow essence coconut infant rally order assume hunt concert visual material champion";

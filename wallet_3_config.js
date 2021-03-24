@@ -1,1 +1,1 @@
-var mnemonic = "ski inspire corn say effort bless supreme melt differ thrive brain island";
+var mnemonic = "roast notable rare raw vehicle glimpse nurse prosper february box same energy";

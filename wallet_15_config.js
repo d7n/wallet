@@ -1,1 +1,1 @@
-var mnemonic = "evolve cricket marine dry abstract jazz bubble mutual cube measure connect piano";
+var mnemonic = "install tenant river help school base bar misery hurdle join favorite timber";

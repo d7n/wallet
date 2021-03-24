@@ -1,1 +1,1 @@
-var mnemonic = "axis blame demand blood another myth alter tone demand garbage carry top";
+var mnemonic = "burst pudding athlete village fresh chuckle warfare clever gauge exchange jelly receive";

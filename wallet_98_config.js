@@ -1,1 +1,1 @@
-var mnemonic = "runway process become popular fresh hint certain upon salon topple way coil";
+var mnemonic = "skin castle enhance forget autumn blast tree believe wheel stage reflect sustain";

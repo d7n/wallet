@@ -1,1 +1,1 @@
-var mnemonic = "owner festival embark renew order vintage police orange junior gesture joy engine";
+var mnemonic = "crush moon remember faint latin critic chuckle robot frequent stick woman awkward";

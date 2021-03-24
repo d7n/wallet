@@ -1,1 +1,1 @@
-var mnemonic = "double coin group junior sustain afford cup enough lonely account vault purse";
+var mnemonic = "early race cool pink coconut injury embrace file thumb ketchup equip humble";

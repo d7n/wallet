@@ -1,1 +1,1 @@
-var mnemonic = "script point plunge wool square range tip empower vivid slender usual jaguar";
+var mnemonic = "bless hood burden vacant sport sort table spy swap swamp canyon staff";

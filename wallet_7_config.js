@@ -1,1 +1,1 @@
-var mnemonic = "unveil rose february perfect topple fire menu check arena youth below media";
+var mnemonic = "chief penalty aim casual roof alien damage dose pill nominee timber ignore";

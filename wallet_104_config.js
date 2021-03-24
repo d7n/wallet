@@ -1,1 +1,1 @@
-var mnemonic = "budget aim million crunch front sign fiction stereo misery female home super";
+var mnemonic = "announce chief path tell ride horn diet remain arch welcome neck busy";

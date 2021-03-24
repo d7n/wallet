@@ -1,1 +1,1 @@
-var mnemonic = "tilt rely pepper pulp snack surprise sand color atom pretty champion alien";
+var mnemonic = "knife page dwarf antique purpose rent slow mimic chalk beach entry forum";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage skin tattoo oppose tourist afford dignity spawn pair anchor report art";
+var mnemonic = "grain armor junk flush tank list tree grunt alone solar bike pumpkin";

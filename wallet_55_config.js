@@ -1,1 +1,1 @@
-var mnemonic = "grit garage chalk simple shove absorb blanket catalog surround elite maid pigeon";
+var mnemonic = "slush hub captain innocent account extra evoke crew coral wagon lunch loan";

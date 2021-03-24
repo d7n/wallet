@@ -1,1 +1,1 @@
-var mnemonic = "rib steak zero cruise inspire lonely story roast purpose bachelor entry name";
+var mnemonic = "spare puzzle call electric swing chair element unaware digital catalog glass throw";

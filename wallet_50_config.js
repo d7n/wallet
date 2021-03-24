@@ -1,1 +1,1 @@
-var mnemonic = "inherit parade tower slam across pyramid jeans cushion sustain erupt sense case";
+var mnemonic = "wife similar photo rival shock profit year vital toe deer meat drink";

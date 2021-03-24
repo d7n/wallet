@@ -1,1 +1,1 @@
-var mnemonic = "struggle town cycle agent patrol female belt correct pill water sudden since";
+var mnemonic = "save fire shoot zoo kitchen machine thrive spy drive sustain pigeon seat";

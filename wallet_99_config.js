@@ -1,1 +1,1 @@
-var mnemonic = "imitate replace bid clog brain toy rain mind box trim reopen sail";
+var mnemonic = "lemon omit budget guide improve jacket rely hip enemy wait attack buyer";

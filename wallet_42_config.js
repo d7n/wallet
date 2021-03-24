@@ -1,1 +1,1 @@
-var mnemonic = "net inherit daring fatigue ability sentence fish promote fun banana home bright";
+var mnemonic = "clay visual cram crunch lonely decorate verb certain upgrade desert random enforce";

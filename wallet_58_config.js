@@ -1,1 +1,1 @@
-var mnemonic = "cup notable omit walk below medal elder habit outer strategy good grab";
+var mnemonic = "seminar brown hill duck mistake economy track climb rabbit track snow embark";

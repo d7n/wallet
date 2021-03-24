@@ -1,1 +1,1 @@
-var mnemonic = "genuine range approve nest draw final blur dinner anxiety someone kid solution";
+var mnemonic = "perfect avoid wash purse ridge print remain arena electric basic potato error";

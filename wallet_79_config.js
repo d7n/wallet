@@ -1,1 +1,1 @@
-var mnemonic = "oak sick space wheel hello profit nut add garden cash eye better";
+var mnemonic = "team keep lazy select flush cement tail high curve solid rigid pact";

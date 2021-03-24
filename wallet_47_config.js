@@ -1,1 +1,1 @@
-var mnemonic = "scheme torch round flavor lady guide endorse radio picture pigeon mistake child";
+var mnemonic = "choose mule usage mention random boil deposit badge shrug bubble inquiry employ";

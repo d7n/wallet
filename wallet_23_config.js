@@ -1,1 +1,1 @@
-var mnemonic = "breeze twin also swarm eyebrow secret festival solve again belt tackle govern";
+var mnemonic = "quality orient fitness prison time female swim abuse abuse perfect home salmon";

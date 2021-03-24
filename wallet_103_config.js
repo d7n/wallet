@@ -1,1 +1,1 @@
-var mnemonic = "core evidence canyon bless inject trophy wait trumpet unusual long fun place";
+var mnemonic = "mansion more razor fault ocean eye shoulder nose forest crash myself coffee";

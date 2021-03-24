@@ -1,1 +1,1 @@
-var mnemonic = "zero visa right subway aware recipe such crowd trade coin child little";
+var mnemonic = "angry brisk atom crime venue ginger salon swift north pumpkin black ring";

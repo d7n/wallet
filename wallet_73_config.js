@@ -1,1 +1,1 @@
-var mnemonic = "all antenna robot cluster dynamic clinic birth board gaze split fiber advice";
+var mnemonic = "vendor road walnut toilet swap curious stem crop tortoise above risk arch";

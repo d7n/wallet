@@ -1,1 +1,1 @@
-var mnemonic = "music marine light suspect venture rebel lawn system city fix mind fix";
+var mnemonic = "chief trigger soldier note label banana opinion august destroy slam bread dash";
