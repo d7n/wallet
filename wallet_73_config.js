@@ -1,1 +1,1 @@
-var mnemonic = "release distance wet aisle unlock canoe thumb gallery blade erase length skate";
+var mnemonic = "all antenna robot cluster dynamic clinic birth board gaze split fiber advice";

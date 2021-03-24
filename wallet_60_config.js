@@ -1,1 +1,1 @@
-var mnemonic = "flavor often frost average pudding hope candy load torch record deer ghost";
+var mnemonic = "pride arrow drip avoid cream flag arrow visit green equip guard bus";

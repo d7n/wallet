@@ -1,1 +1,1 @@
-var mnemonic = "genuine announce crop rude prevent cruel cruise mandate renew eyebrow tongue issue";
+var mnemonic = "benefit core evolve drop glory sense cruise script retire guilt know anger";

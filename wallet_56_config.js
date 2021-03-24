@@ -1,1 +1,1 @@
-var mnemonic = "execute belt wood employ client culture relief tank destroy accident chief able";
+var mnemonic = "wish spot lamp exclude betray athlete sock same museum shiver treat shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "close rain dance clerk forest among vote lesson tragic again rigid finger";
+var mnemonic = "pattern muffin cool brave exchange else digital derive knife maple meadow leader";

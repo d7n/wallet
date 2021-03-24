@@ -1,1 +1,1 @@
-var mnemonic = "end annual zone first pig kitchen eight number north arrow bright below";
+var mnemonic = "buzz asset alert luggage steak speak hip draw force all tumble already";

@@ -1,1 +1,1 @@
-var mnemonic = "focus increase pride place estate like order ripple express twice imitate hockey";
+var mnemonic = "zero visa right subway aware recipe such crowd trade coin child little";

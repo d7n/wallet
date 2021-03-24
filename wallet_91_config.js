@@ -1,1 +1,1 @@
-var mnemonic = "share split song noodle actress cattle neither cupboard much dinosaur plunge hawk";
+var mnemonic = "coral version census strong holiday rifle tray apart elevator slim job enjoy";

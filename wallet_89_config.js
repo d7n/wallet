@@ -1,1 +1,1 @@
-var mnemonic = "kick like napkin labor style unaware fat system scare dress wool bar";
+var mnemonic = "open tongue ski dance suit snap reflect fortune donate nerve airport divert";

@@ -1,1 +1,1 @@
-var mnemonic = "damp until wreck asthma radio person bleak fun fog pledge excuse illness";
+var mnemonic = "tattoo endless twist shallow suspect urban fat detail castle uphold scene cruel";

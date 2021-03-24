@@ -1,1 +1,1 @@
-var mnemonic = "energy panda lion duty cycle cost unfair marine lawsuit lawsuit diamond fix";
+var mnemonic = "cabbage skin tattoo oppose tourist afford dignity spawn pair anchor report art";

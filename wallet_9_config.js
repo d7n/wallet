@@ -1,1 +1,1 @@
-var mnemonic = "unaware best report relax permit route jazz square cloud height light monitor";
+var mnemonic = "shuffle blouse hammer setup okay near execute sadness sphere benefit bike saddle";

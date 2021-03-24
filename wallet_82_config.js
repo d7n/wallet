@@ -1,1 +1,1 @@
-var mnemonic = "private parade transfer unlock hollow six liquid version walk obscure fit distance";
+var mnemonic = "gather distance muscle festival verb whale sugar absorb about october apology purse";

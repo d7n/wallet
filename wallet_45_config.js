@@ -1,1 +1,1 @@
-var mnemonic = "section welcome swing clap gather moon novel display dwarf bomb rude roast";
+var mnemonic = "casual grid ridge advice blame churn food amazing foster envelope fire hire";

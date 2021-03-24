@@ -1,1 +1,1 @@
-var mnemonic = "mention space fitness model artwork giant estate license annual waste maid twist";
+var mnemonic = "ski inspire corn say effort bless supreme melt differ thrive brain island";

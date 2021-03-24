@@ -1,1 +1,1 @@
-var mnemonic = "toss enforce mirror warrior develop park afford cannon poem spawn space snack";
+var mnemonic = "riot pause zone engage exchange label reform entire finger ginger monitor early";

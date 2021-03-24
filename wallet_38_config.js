@@ -1,1 +1,1 @@
-var mnemonic = "weird device exhibit huge walk choose situate absent woman prize soap rabbit";
+var mnemonic = "manage around volume minor crunch execute saddle yard erase enact obvious warm";

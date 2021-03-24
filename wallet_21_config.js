@@ -1,1 +1,1 @@
-var mnemonic = "educate hair dance bone oak dry pelican estate kit fossil cost mom";
+var mnemonic = "script point plunge wool square range tip empower vivid slender usual jaguar";

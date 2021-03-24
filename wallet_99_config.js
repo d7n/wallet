@@ -1,1 +1,1 @@
-var mnemonic = "option pink world raise announce sense advance bunker food stay garage zoo";
+var mnemonic = "imitate replace bid clog brain toy rain mind box trim reopen sail";

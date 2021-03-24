@@ -1,1 +1,1 @@
-var mnemonic = "much shoulder sleep abuse hip own vendor able merry cause wheel thank";
+var mnemonic = "unveil rose february perfect topple fire menu check arena youth below media";

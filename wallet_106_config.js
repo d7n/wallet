@@ -1,1 +1,1 @@
-var mnemonic = "dial blur utility never under review dash brave sea depart speed magic";
+var mnemonic = "maple topple permit awesome jungle usage solid roof clever sell guilt today";

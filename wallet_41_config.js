@@ -1,1 +1,1 @@
-var mnemonic = "depth bachelor furnace remove badge brand crash stool clerk peasant pistol balcony";
+var mnemonic = "dumb right mango copy tortoise bullet nurse dune another grass section return";

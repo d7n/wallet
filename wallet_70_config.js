@@ -1,1 +1,1 @@
-var mnemonic = "draw finger oppose swim desert solar casual squeeze guilt pulse art basic";
+var mnemonic = "frozen bone grow enable anger woman tomato praise stick inside cupboard mail";

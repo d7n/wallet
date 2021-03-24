@@ -1,1 +1,1 @@
-var mnemonic = "actual can diagram vacant canoe crane ridge enact grief result original fish";
+var mnemonic = "once deny drift police sand fossil enlist sunny neutral chimney jungle fantasy";

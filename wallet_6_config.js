@@ -1,1 +1,1 @@
-var mnemonic = "wrestle engage novel another logic session power wine leader improve duty organ";
+var mnemonic = "load term unknown license add still supreme diet knife whisper pattern already";

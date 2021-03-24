@@ -1,1 +1,1 @@
-var mnemonic = "collect girl spy march dolphin tackle excess bar essay alcohol robot junior";
+var mnemonic = "left alarm bread animal gasp treat genuine scrub write require enable eager";

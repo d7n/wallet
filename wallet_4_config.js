@@ -1,1 +1,1 @@
-var mnemonic = "amount market ring item oyster decide bar mutual sail spring twice kite";
+var mnemonic = "plunge session scrap worth elite mountain where glare success clown mosquito urban";

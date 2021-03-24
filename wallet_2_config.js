@@ -1,1 +1,1 @@
-var mnemonic = "say ritual frame crush sea entire question debris use beef volume tenant";
+var mnemonic = "ripple vote stand fashion sign length hazard truth garlic want head fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "move fantasy sail guess review two quality busy tide salad brain item";
+var mnemonic = "vicious ketchup capital guitar retire universe curtain midnight tribe tragic recipe major";

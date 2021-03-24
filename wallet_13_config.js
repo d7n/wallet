@@ -1,1 +1,1 @@
-var mnemonic = "foot couple curve embrace hood waste winner tortoise awful plunge timber broccoli";
+var mnemonic = "struggle town cycle agent patrol female belt correct pill water sudden since";

@@ -1,1 +1,1 @@
-var mnemonic = "make swap faith rival because conduct upset parent ticket thought cheese window";
+var mnemonic = "foil blood wrong filter spy symbol track milk artefact define mother fury";

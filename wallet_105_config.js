@@ -1,1 +1,1 @@
-var mnemonic = "acid whip notice master fox say tube skate viable blood harvest future";
+var mnemonic = "blade festival filter settle liberty cry bench kite caution school start skull";

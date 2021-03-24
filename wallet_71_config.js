@@ -1,1 +1,1 @@
-var mnemonic = "planet mushroom use detect blast garage text radio young great salmon rebel";
+var mnemonic = "fiscal fiction habit draw patient buzz sadness depth airport reunion social retreat";

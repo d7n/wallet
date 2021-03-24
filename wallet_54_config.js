@@ -1,1 +1,1 @@
-var mnemonic = "cost file ostrich license egg half sauce coin cloud resource swarm pattern";
+var mnemonic = "tray make bomb head episode regret gown honey scorpion vital odor hundred";

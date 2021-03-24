@@ -1,1 +1,1 @@
-var mnemonic = "bulb street renew raven harsh rebel outer dove actual badge tobacco gift";
+var mnemonic = "logic plug art wreck such today harbor silk bicycle certain barrel market";

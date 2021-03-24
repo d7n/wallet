@@ -1,1 +1,1 @@
-var mnemonic = "worry couple achieve fluid exotic ostrich memory cycle wheat cement devote pass";
+var mnemonic = "owner festival embark renew order vintage police orange junior gesture joy engine";

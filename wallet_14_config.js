@@ -1,1 +1,1 @@
-var mnemonic = "cable hunt nest unit head fluid violin lesson option garbage stereo elder";
+var mnemonic = "twenty giraffe doll mother swing load almost glue bundle what anchor august";

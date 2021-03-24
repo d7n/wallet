@@ -1,1 +1,1 @@
-var mnemonic = "receive maze put abuse budget barely extend belt vehicle tiger twelve heavy";
+var mnemonic = "harsh seek fade slender marriage tray relax text express please buffalo catalog";

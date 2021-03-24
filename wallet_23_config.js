@@ -1,1 +1,1 @@
-var mnemonic = "round federal novel drive wall warrior tower museum drive put gather differ";
+var mnemonic = "breeze twin also swarm eyebrow secret festival solve again belt tackle govern";

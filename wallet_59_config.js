@@ -1,1 +1,1 @@
-var mnemonic = "juice return loop awake snow diagram permit limit opinion miracle attract unique";
+var mnemonic = "timber bread green setup brief sand nice wide check flock belt dance";

@@ -1,1 +1,1 @@
-var mnemonic = "window eager marine hip gallery iron profit wish anxiety tackle despair keep";
+var mnemonic = "core evidence canyon bless inject trophy wait trumpet unusual long fun place";

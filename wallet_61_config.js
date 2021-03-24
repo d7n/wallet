@@ -1,1 +1,1 @@
-var mnemonic = "next mystery trip black fancy kite drive gospel include hard custom game";
+var mnemonic = "inherit sound rebel deputy material yard february broom dinner globe fence silly";

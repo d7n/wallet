@@ -1,1 +1,1 @@
-var mnemonic = "power you demise shift share food wild inmate garbage judge meat awake";
+var mnemonic = "doctor happy essay arrest fence solution coin metal electric robot follow undo";

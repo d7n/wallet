@@ -1,1 +1,1 @@
-var mnemonic = "nose flower rely situate snack order curve scrub rude lazy buffalo end";
+var mnemonic = "noble cushion fantasy float weapon home hobby ancient owner civil panther finger";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange rare bulb still side fault picture banner devote slender broken law";
+var mnemonic = "giraffe twice reform tennis learn taxi bracket car dream dinner dignity latin";

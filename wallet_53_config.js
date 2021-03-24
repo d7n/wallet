@@ -1,1 +1,1 @@
-var mnemonic = "link fancy dance useful kangaroo era solution spell snack exact shoulder service";
+var mnemonic = "tape shrimp print defy typical kid turn exhibit apart silver then addict";

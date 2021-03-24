@@ -1,1 +1,1 @@
-var mnemonic = "forest joy skull reject machine noble hurry bronze wolf banner frozen require";
+var mnemonic = "shell delay coast pink staff grid ice start mushroom you priority north";

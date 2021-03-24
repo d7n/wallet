@@ -1,1 +1,1 @@
-var mnemonic = "mother warm input renew voyage idle protect remove swim armed draft pair";
+var mnemonic = "execute refuse joy behave assist cream under target elephant drip rotate weasel";

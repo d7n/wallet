@@ -1,1 +1,1 @@
-var mnemonic = "custom upset multiply gorilla cement peasant hub omit three hobby ethics picture";
+var mnemonic = "animal club planet layer edit risk such horn fluid misery off lamp";

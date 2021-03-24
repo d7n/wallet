@@ -1,1 +1,1 @@
-var mnemonic = "admit kiwi prosper tomato uncle slender blood begin spread ketchup motion scale";
+var mnemonic = "exile rubber swap tower cart monitor nothing vicious will divert unaware tiger";

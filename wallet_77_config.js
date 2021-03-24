@@ -1,1 +1,1 @@
-var mnemonic = "law enlist fame width crack giant spoon smile gadget bicycle task occur";
+var mnemonic = "planet lecture neck galaxy sorry lounge jelly arrow ankle pretty thunder lake";

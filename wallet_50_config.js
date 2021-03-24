@@ -1,1 +1,1 @@
-var mnemonic = "type bird mandate soup dutch tube deer glad inner throw arrange tail";
+var mnemonic = "inherit parade tower slam across pyramid jeans cushion sustain erupt sense case";

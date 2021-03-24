@@ -1,1 +1,1 @@
-var mnemonic = "lens crane october mother diagram feel chuckle bonus cannon fancy pet inform";
+var mnemonic = "guard minimum piano small permit rail member hope design raise unknown strategy";

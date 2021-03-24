@@ -1,1 +1,1 @@
-var mnemonic = "culture portion swing mail dune october filter supply midnight narrow circle shine";
+var mnemonic = "traffic return window pluck stay island erupt maid limb doctor science essence";

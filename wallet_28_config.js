@@ -1,1 +1,1 @@
-var mnemonic = "alcohol question then palm popular connect noodle matter mail physical volume ozone";
+var mnemonic = "music marine light suspect venture rebel lawn system city fix mind fix";

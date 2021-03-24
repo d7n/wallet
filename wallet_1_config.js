@@ -1,1 +1,1 @@
-var mnemonic = "exclude lemon toy grace good now narrow cloth master field crop poet";
+var mnemonic = "unveil setup man keep robot cash dutch act doctor clinic lazy ranch";

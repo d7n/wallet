@@ -1,1 +1,1 @@
-var mnemonic = "service rigid weapon soup female edit pitch giraffe duty style decide unique";
+var mnemonic = "rough kitten range assault aisle memory host wave flame topic surround ball";

@@ -1,1 +1,1 @@
-var mnemonic = "apart among term acquire bid grocery injury wolf museum hobby adapt embody";
+var mnemonic = "machine toddler extend zoo metal snow dwarf enforce swift umbrella mule artist";

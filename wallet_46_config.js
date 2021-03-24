@@ -1,1 +1,1 @@
-var mnemonic = "enable welcome century army neck young entry fortune fat sadness empower evidence";
+var mnemonic = "disorder spawn twenty wet dolphin follow wrap still envelope process conduct latin";

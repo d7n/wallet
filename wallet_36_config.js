@@ -1,1 +1,1 @@
-var mnemonic = "update hotel where syrup guitar fabric rapid never summer slight market name";
+var mnemonic = "trick credit zone sign toilet slot gorilla midnight benefit suspect rocket clip";

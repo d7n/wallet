@@ -1,1 +1,1 @@
-var mnemonic = "beach rose wrap expire style gate ordinary wet bright silver boil peasant";
+var mnemonic = "auto nation usage lucky popular cage pyramid either primary inspire enrich leave";

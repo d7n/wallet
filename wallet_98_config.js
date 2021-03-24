@@ -1,1 +1,1 @@
-var mnemonic = "paddle pupil good gown short monitor drama trust heavy auction camp always";
+var mnemonic = "runway process become popular fresh hint certain upon salon topple way coil";

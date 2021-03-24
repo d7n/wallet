@@ -1,1 +1,1 @@
-var mnemonic = "bar tenant have ginger narrow spray helmet key panda sting funny weekend";
+var mnemonic = "maximum fish chest long extend segment mention tent share vault undo parent";

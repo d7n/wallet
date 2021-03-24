@@ -1,1 +1,1 @@
-var mnemonic = "crime fiber alien exile aim sick crane clog path arrive cloth shell";
+var mnemonic = "cup notable omit walk below medal elder habit outer strategy good grab";

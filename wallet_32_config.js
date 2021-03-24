@@ -1,1 +1,1 @@
-var mnemonic = "poet evoke tomato fortune thank birth monster bike south caution wait key";
+var mnemonic = "barely island evidence flower depend series green lesson endless assault liberty knock";

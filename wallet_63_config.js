@@ -1,1 +1,1 @@
-var mnemonic = "soup fringe echo arrange frequent mimic skull entry involve girl boring sweet";
+var mnemonic = "sunny legal dash degree sing tower focus sudden liquid lend stomach fresh";

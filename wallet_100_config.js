@@ -1,1 +1,1 @@
-var mnemonic = "smart upper room shoulder address tonight ripple bomb under basket degree need";
+var mnemonic = "soda thank interest believe athlete please lava tent stairs volcano burst dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "inside will similar quit logic blouse news result paper knee clean agent";
+var mnemonic = "oak sick space wheel hello profit nut add garden cash eye better";

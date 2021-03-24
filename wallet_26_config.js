@@ -1,1 +1,1 @@
-var mnemonic = "exclude mention regret possible apart test meat define nasty private dilemma alert";
+var mnemonic = "day hollow cycle glare cruel answer pass movie rack above iron cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome skill mother practice expose sound lake quit secret earth pelican name";
+var mnemonic = "axis blame demand blood another myth alter tone demand garbage carry top";

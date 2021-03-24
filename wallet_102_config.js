@@ -1,1 +1,1 @@
-var mnemonic = "column arctic sell initial hat couple spread victory range ill eager assault";
+var mnemonic = "brush chase father original powder brave jeans thrive place quote kidney pool";

@@ -1,1 +1,1 @@
-var mnemonic = "script business chapter since wood match stage pencil become hole mutual shoe";
+var mnemonic = "budget aim million crunch front sign fiction stereo misery female home super";

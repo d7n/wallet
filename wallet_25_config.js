@@ -1,1 +1,1 @@
-var mnemonic = "oven system magnet puzzle category beef lemon essay result illness voyage opera";
+var mnemonic = "parade stuff east poem arch mango title oxygen tongue weird miss correct";

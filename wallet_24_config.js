@@ -1,1 +1,1 @@
-var mnemonic = "chronic amazing spoil either fame scare since vessel upset bargain salmon fee";
+var mnemonic = "income laptop market knock slot bottom sing vessel pass secret buzz broken";

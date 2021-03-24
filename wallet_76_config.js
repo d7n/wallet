@@ -1,1 +1,1 @@
-var mnemonic = "search quit island shove abstract print raw south mouse pelican slide cat";
+var mnemonic = "double coin group junior sustain afford cup enough lonely account vault purse";

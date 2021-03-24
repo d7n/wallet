@@ -1,1 +1,1 @@
-var mnemonic = "draw damp champion castle park bird become weasel usual arrange retreat machine";
+var mnemonic = "easy inherit wasp pretty supply act enroll ivory pull grant ritual off";

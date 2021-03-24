@@ -1,1 +1,1 @@
-var mnemonic = "bulb husband balcony story gloom curtain width symbol weasel proof skill lonely";
+var mnemonic = "scheme torch round flavor lady guide endorse radio picture pigeon mistake child";

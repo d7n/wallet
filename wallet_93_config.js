@@ -1,1 +1,1 @@
-var mnemonic = "velvet game dose family wealth cat spray observe ridge injury dress bullet";
+var mnemonic = "coach depth lava sense tide current topic spoon puppy try honey remain";

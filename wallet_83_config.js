@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo link between tip monster enact fog exotic piece exotic glad service";
+var mnemonic = "purchase ill primary badge rural proud thumb either depend ship effort monkey";

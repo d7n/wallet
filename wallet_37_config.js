@@ -1,1 +1,1 @@
-var mnemonic = "fatigue space loop hard physical keen spin hundred often prefer warrior resist";
+var mnemonic = "below utility pepper shell carpet breeze system scene hundred evil base exile";

@@ -1,1 +1,1 @@
-var mnemonic = "use comfort glove bread million vanish ill scorpion buzz blossom steak fox";
+var mnemonic = "cement oil strike thing laptop fatigue citizen exchange now destroy path harsh";

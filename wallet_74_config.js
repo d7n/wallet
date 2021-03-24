@@ -1,1 +1,1 @@
-var mnemonic = "upper twist gospel item program easy access receive apology object address bridge";
+var mnemonic = "image peace stay domain right ripple comfort please ten option panic april";

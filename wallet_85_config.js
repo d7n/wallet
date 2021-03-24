@@ -1,1 +1,1 @@
-var mnemonic = "october script sea movie ship journey spare limb change naive obtain model";
+var mnemonic = "card visit zero jump fault warm gadget enact attack exercise phrase language";

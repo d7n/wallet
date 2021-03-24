@@ -1,1 +1,1 @@
-var mnemonic = "tone point sudden try author doll scan add inform limit toss course";
+var mnemonic = "play march museum piece more fly float brave key token margin badge";

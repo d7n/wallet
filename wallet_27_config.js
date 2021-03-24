@@ -1,1 +1,1 @@
-var mnemonic = "catalog coffee soon exit letter sustain group firm sick video rescue weasel";
+var mnemonic = "rib steak zero cruise inspire lonely story roast purpose bachelor entry name";

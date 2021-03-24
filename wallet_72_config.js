@@ -1,1 +1,1 @@
-var mnemonic = "check destroy trick young obvious disagree apple hurt enter oppose acoustic accident";
+var mnemonic = "satisfy situate verb arctic they right boil stay fault hire aunt project";

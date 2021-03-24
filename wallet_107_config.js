@@ -1,1 +1,1 @@
-var mnemonic = "wash coral man silent mule design soldier sight dizzy teach document bus";
+var mnemonic = "design roof park skin shaft easily tattoo female lunar discover caught gauge";

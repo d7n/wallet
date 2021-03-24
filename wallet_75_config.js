@@ -1,1 +1,1 @@
-var mnemonic = "garden maze cry cave film embrace garbage hobby boat attend size rabbit";
+var mnemonic = "laundry gallery enroll clip runway dumb put lens girl solar charge vehicle";

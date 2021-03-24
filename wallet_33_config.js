@@ -1,1 +1,1 @@
-var mnemonic = "response relax drum expose between earth three tongue joke curtain dream faith";
+var mnemonic = "insane armed kid lottery repeat pass seven saddle cancel nest monitor craft";

@@ -1,1 +1,1 @@
-var mnemonic = "fee asset recycle similar world capital fork stable when voyage execute ketchup";
+var mnemonic = "supply opera alcohol regular volcano lady stone silly order acid loyal absent";

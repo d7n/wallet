@@ -1,1 +1,1 @@
-var mnemonic = "autumn later whisper cute utility oyster eager mango exit lawsuit eternal derive";
+var mnemonic = "dance alien puzzle frown peanut uniform conduct approve pond update shed custom";
