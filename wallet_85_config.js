@@ -1,1 +1,1 @@
-var mnemonic = "bar toy relief media section position silent mimic oblige mind fence trend";
+var mnemonic = "museum sketch pottery guilt task jelly destroy group hair sing decade symptom";

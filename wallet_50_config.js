@@ -1,1 +1,1 @@
-var mnemonic = "baby carpet sleep burst custom gasp reunion legal verb vanish excess fiscal";
+var mnemonic = "advice wife clever explain aim prefer thunder broccoli sense crack fuel help";

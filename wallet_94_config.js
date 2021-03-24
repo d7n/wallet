@@ -1,1 +1,1 @@
-var mnemonic = "ignore science infant noble amused total injury pass help cart flight polar";
+var mnemonic = "dose craft craft essay brisk ugly hollow other wink crew just typical";

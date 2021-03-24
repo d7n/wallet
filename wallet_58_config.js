@@ -1,1 +1,1 @@
-var mnemonic = "pull antenna brass later struggle govern width wish fee produce legal bracket";
+var mnemonic = "artist between worth bid motor tail picnic satisfy argue journey dose unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "news still peasant over photo thrive manage boy tongue broccoli build athlete";
+var mnemonic = "have recipe draw wine roast fine wool again belt replace runway physical";

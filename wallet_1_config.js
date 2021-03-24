@@ -1,1 +1,1 @@
-var mnemonic = "trend twin crater will dune motion ostrich group gossip cloth ancient radio";
+var mnemonic = "guard profit favorite exclude helmet forest stick lady sibling neck wrestle comfort";

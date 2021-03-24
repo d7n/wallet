@@ -1,1 +1,1 @@
-var mnemonic = "scare asthma vocal bar donate surge broken camera portion fox thing broken";
+var mnemonic = "ordinary since original senior super final turtle ethics hurt height sign syrup";

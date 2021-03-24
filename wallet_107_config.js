@@ -1,1 +1,1 @@
-var mnemonic = "plug abstract unveil remain drop embrace cube veteran basket lecture foil old";
+var mnemonic = "pepper stamp hamster unlock harvest bird income decrease bomb easy voice supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn invest apart tennis entry praise embrace beef wood tape bone over";
+var mnemonic = "trade rough ride service hunt rail method season citizen crouch column hat";

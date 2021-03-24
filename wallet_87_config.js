@@ -1,1 +1,1 @@
-var mnemonic = "chronic rally uncle summer require hero urban rough affair double narrow receive";
+var mnemonic = "moral pet bracket enforce decorate dove prison install claw journey slogan chaos";

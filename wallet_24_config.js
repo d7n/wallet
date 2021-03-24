@@ -1,1 +1,1 @@
-var mnemonic = "fun eight absurd muscle public wise chest flavor try album clerk trip";
+var mnemonic = "ripple dune vibrant creek leg book then devote muffin spell spy image";

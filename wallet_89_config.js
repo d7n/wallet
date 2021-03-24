@@ -1,1 +1,1 @@
-var mnemonic = "combine tree indoor judge poem fiber parrot private ghost silver certain anger";
+var mnemonic = "weird absurd industry guide learn struggle sea person grace salt buzz steel";

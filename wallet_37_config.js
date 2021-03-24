@@ -1,1 +1,1 @@
-var mnemonic = "law kind change common rubber stay analyst monkey receive arch party income";
+var mnemonic = "roof insect catch deputy taxi pistol bargain lottery various hold tenant suspect";

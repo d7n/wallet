@@ -1,1 +1,1 @@
-var mnemonic = "scorpion tell sphere arrest oval frame couple risk steel mesh snap tone";
+var mnemonic = "execute wash valve physical estate submit panic gospel ancient riot empty ready";

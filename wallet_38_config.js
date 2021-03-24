@@ -1,1 +1,1 @@
-var mnemonic = "demand embark autumn pluck economy language front pottery purchase surprise ring now";
+var mnemonic = "park release suggest eyebrow risk predict video hunt faint clever hard coast";

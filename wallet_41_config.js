@@ -1,1 +1,1 @@
-var mnemonic = "replace water pave culture run midnight twenty add meadow confirm hybrid voice";
+var mnemonic = "blood game power stamp odor juice dust ride march actual already daring";

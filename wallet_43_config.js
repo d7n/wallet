@@ -1,1 +1,1 @@
-var mnemonic = "catalog live once kiwi kite catalog outdoor screen start hamster apology shift";
+var mnemonic = "cook lady hip joy crew excite crime pen dragon diagram garbage oblige";

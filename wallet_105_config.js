@@ -1,1 +1,1 @@
-var mnemonic = "unhappy waste elephant tonight tornado ship double bring celery depth debris adjust";
+var mnemonic = "tail execute release punch slush love lawn switch ketchup monitor width report";

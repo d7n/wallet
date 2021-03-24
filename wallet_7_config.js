@@ -1,1 +1,1 @@
-var mnemonic = "asthma crew shadow furnace naive hello primary response emerge weather change attack";
+var mnemonic = "fly calm atom library indicate option slender service light mouse install volcano";

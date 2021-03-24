@@ -1,1 +1,1 @@
-var mnemonic = "flavor chat donkey culture inside whip nasty surprise jump more device furnace";
+var mnemonic = "fresh provide edge argue shiver laugh cereal ketchup frost when that sad";

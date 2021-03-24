@@ -1,1 +1,1 @@
-var mnemonic = "asset syrup inmate cabin bubble join tray put develop either knee pyramid";
+var mnemonic = "faculty magnet buffalo effort van cube people slice trial idea desert spy";

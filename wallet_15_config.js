@@ -1,1 +1,1 @@
-var mnemonic = "purchase spring romance sketch tag consider blade remind family garbage earn refuse";
+var mnemonic = "predict ski tail bachelor fossil chicken parent point ball scene ivory giraffe";

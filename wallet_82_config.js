@@ -1,1 +1,1 @@
-var mnemonic = "upset typical dignity grit tongue begin tuition galaxy install lonely shuffle start";
+var mnemonic = "gym attend video boss theory glory place loan enemy loan position ribbon";

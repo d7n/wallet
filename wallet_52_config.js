@@ -1,1 +1,1 @@
-var mnemonic = "rival horror rate attract maximum civil cheese chicken lazy rescue once siren";
+var mnemonic = "tiny amazing yellow bid other rescue hotel camera skill cabin brick muscle";

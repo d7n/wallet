@@ -1,1 +1,1 @@
-var mnemonic = "camp move will vicious mind ivory blade pulse twelve spice flush lake";
+var mnemonic = "sun upset grass guilt check fix monitor beauty silly pride hint quantum";

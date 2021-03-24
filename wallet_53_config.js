@@ -1,1 +1,1 @@
-var mnemonic = "air airport gain office embark hundred monkey describe morning embark robust rail";
+var mnemonic = "gossip art into budget priority leaf swing draw frost corn caution hedgehog";

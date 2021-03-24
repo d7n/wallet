@@ -1,1 +1,1 @@
-var mnemonic = "initial text charge track drift timber narrow milk mobile sort this omit";
+var mnemonic = "hurdle bird wink across this spice right first guitar road kitten stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "theory trap hour drip liberty damage stage curtain arrange private slow fire";
+var mnemonic = "toddler volume aisle fade tent essence desk enjoy shift bread debris gain";

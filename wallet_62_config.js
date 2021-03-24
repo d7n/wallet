@@ -1,1 +1,1 @@
-var mnemonic = "point injury magic quote affair renew toilet tunnel comic express foil shallow";
+var mnemonic = "capable depend night donate vault mean myself useful damage distance level brief";

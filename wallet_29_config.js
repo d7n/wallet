@@ -1,1 +1,1 @@
-var mnemonic = "net radio auto fun wood yard blast antenna suffer ready valid claim";
+var mnemonic = "avocado dinosaur render round pig mass improve firm merit coin addict together";

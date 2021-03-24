@@ -1,1 +1,1 @@
-var mnemonic = "will chuckle moment tomato since tooth result whisper foster unit desert crime";
+var mnemonic = "salmon suspect patient bar glimpse timber relax virtual infant elephant sock tape";

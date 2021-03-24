@@ -1,1 +1,1 @@
-var mnemonic = "deny april emotion myth oppose lab square clarify million success describe jealous";
+var mnemonic = "coil update wash bomb need defense machine option system vast apple mechanic";

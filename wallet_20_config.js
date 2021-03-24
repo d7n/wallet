@@ -1,1 +1,1 @@
-var mnemonic = "rude elevator online goose tree knock hundred actor honey food mercy nuclear";
+var mnemonic = "leopard garage tumble outdoor key ecology enable boil angry worth divorce address";

@@ -1,1 +1,1 @@
-var mnemonic = "shop series credit judge gauge fun runway sail thrive cloud warfare army";
+var mnemonic = "sting upper basic tray three crash brush donate plunge face duty follow";

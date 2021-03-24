@@ -1,1 +1,1 @@
-var mnemonic = "six wing addict virus staff play bleak bike brown ordinary business number";
+var mnemonic = "liberty zero icon budget upset manual sphere journey occur vocal kitchen oyster";

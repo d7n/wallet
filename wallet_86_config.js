@@ -1,1 +1,1 @@
-var mnemonic = "merry heart process feed trophy over fog coach will apology runway desert";
+var mnemonic = "glove feed pool supreme lumber two undo glide pen lens enact net";

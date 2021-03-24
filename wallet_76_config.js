@@ -1,1 +1,1 @@
-var mnemonic = "jaguar afraid indoor word useless broccoli canvas moral like trial tool spatial";
+var mnemonic = "auto vote hood chalk cable bring alpha inmate pave begin ranch shrug";

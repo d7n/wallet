@@ -1,1 +1,1 @@
-var mnemonic = "thank abstract ancient affair embody pulp early mention space excite oval setup";
+var mnemonic = "mean crisp grant vacant space improve dinner valley other lift unaware find";

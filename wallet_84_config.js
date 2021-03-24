@@ -1,1 +1,1 @@
-var mnemonic = "furnace any voyage document human end spell loop clever reunion armor defy";
+var mnemonic = "fix develop arm cable crumble scissors village method grant stadium hockey cupboard";

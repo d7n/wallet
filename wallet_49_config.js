@@ -1,1 +1,1 @@
-var mnemonic = "grow remove height whale galaxy digital anger blush slender differ tiger rose";
+var mnemonic = "erupt bachelor poet cream solve audit average bean slender rude dinosaur avoid";

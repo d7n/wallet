@@ -1,1 +1,1 @@
-var mnemonic = "flavor lonely galaxy pony below lawsuit annual october chuckle boy expand cart";
+var mnemonic = "inflict coil wall crunch relief solid sand spend dutch document truth strike";

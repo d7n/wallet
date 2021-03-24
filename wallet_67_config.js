@@ -1,1 +1,1 @@
-var mnemonic = "zone achieve doctor budget chicken scorpion uncle north burden robot dilemma fetch";
+var mnemonic = "funny broken armed outer endorse enemy mad ivory student solar toilet forget";

@@ -1,1 +1,1 @@
-var mnemonic = "like ceiling lunar merge oyster sight spy symbol turn beef leader host";
+var mnemonic = "sword cave video mosquito retire goddess sand struggle ozone purity cloud minute";

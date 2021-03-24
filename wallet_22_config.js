@@ -1,1 +1,1 @@
-var mnemonic = "kingdom wasp bachelor lazy couple notable original venue settle october transfer edit";
+var mnemonic = "essence renew grain flash benefit shoot other glory tiger fee risk potato";

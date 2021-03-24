@@ -1,1 +1,1 @@
-var mnemonic = "midnight jacket bracket length say paper they subway cloth sight hawk exchange";
+var mnemonic = "language render aunt rally output leaf replace emerge junk master quantum foil";

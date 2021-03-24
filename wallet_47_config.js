@@ -1,1 +1,1 @@
-var mnemonic = "zero system dinosaur plunge urge twin liberty left fatal mail infant shock";
+var mnemonic = "matrix buffalo fatal unable grass harbor apology plastic draw maple build inhale";

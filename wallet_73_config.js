@@ -1,1 +1,1 @@
-var mnemonic = "swear expose slot valve distance north defense fold bulb link end select";
+var mnemonic = "collect walk strategy husband victory bridge sadness ritual crisp stumble cupboard amazing";

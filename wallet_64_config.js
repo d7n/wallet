@@ -1,1 +1,1 @@
-var mnemonic = "fade polar join script arctic wave prevent canoe isolate strike couch average";
+var mnemonic = "judge fabric asset make praise broken page remember game saddle suffer wage";

@@ -1,1 +1,1 @@
-var mnemonic = "speed canal erosion daughter romance soldier sand find crack put weekend then";
+var mnemonic = "foster parent mind cable sail sustain pitch endorse bleak voyage evil two";

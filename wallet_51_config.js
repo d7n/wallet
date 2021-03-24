@@ -1,1 +1,1 @@
-var mnemonic = "master jeans unknown fortune biology twice renew act audit sample link nominee";
+var mnemonic = "just differ evoke vessel equip alter legend finger media pause nation swift";

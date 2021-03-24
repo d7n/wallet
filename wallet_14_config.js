@@ -1,1 +1,1 @@
-var mnemonic = "claw differ life grass mass glove foster neglect spider width property slush";
+var mnemonic = "swim steel neglect topple swear speed foil remain clay lion dove taste";

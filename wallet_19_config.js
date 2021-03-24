@@ -1,1 +1,1 @@
-var mnemonic = "office strong act inject autumn elephant resist air tourist put hurt wrong";
+var mnemonic = "wedding fog air cause nurse vocal stool token among roof blame chat";

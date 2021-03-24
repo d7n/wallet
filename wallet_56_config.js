@@ -1,1 +1,1 @@
-var mnemonic = "they nuclear hidden dolphin syrup autumn kitten demand view pencil name lab";
+var mnemonic = "peasant absent tunnel crew media cause across fantasy tribe hammer evil angry";

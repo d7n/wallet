@@ -1,1 +1,1 @@
-var mnemonic = "bargain panther garlic soul human mix base intact brother glass lesson physical";
+var mnemonic = "cancel later goddess chicken frog traffic tomorrow prevent home industry now shell";

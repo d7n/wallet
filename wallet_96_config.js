@@ -1,1 +1,1 @@
-var mnemonic = "shoe boil eight outer seek rug wife pact pretty offer coyote vital";
+var mnemonic = "regular fatal leave possible canal invite step twenty clinic winner turn lunar";

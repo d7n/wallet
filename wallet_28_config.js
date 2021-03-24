@@ -1,1 +1,1 @@
-var mnemonic = "figure glide planet empty brick account tobacco wide genuine crawl gadget category";
+var mnemonic = "harsh shoe enhance village cry slogan uncle salon medal estate trigger grocery";

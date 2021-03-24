@@ -1,1 +1,1 @@
-var mnemonic = "endorse veteran three unveil such wolf govern obvious casual zero resemble bounce";
+var mnemonic = "mandate update drum program stumble later cover sweet donate earn life cover";

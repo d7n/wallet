@@ -1,1 +1,1 @@
-var mnemonic = "table brave useless gate whale shop kiss civil field sustain suggest eager";
+var mnemonic = "cloth twist knife valve merry devote enlist intact wonder abandon polar hint";

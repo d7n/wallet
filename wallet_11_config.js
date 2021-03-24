@@ -1,1 +1,1 @@
-var mnemonic = "swing wrist noodle sausage pledge humble inflict cash elbow truck gain trim";
+var mnemonic = "butter smile wire mountain together conduct neither ball rail brief drip horse";

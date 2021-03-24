@@ -1,1 +1,1 @@
-var mnemonic = "brief wonder climb identify magic penalty accident lesson wasp squirrel crater thunder";
+var mnemonic = "wire rocket food twelve spawn gorilla grape feed laundry world swap despair";

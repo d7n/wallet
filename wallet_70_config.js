@@ -1,1 +1,1 @@
-var mnemonic = "brief border enlist orbit elder ability plug elevator reunion runway jelly pitch";
+var mnemonic = "scrap custom detect melt private menu under fiscal claw void rigid vicious";

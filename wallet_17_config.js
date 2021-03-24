@@ -1,1 +1,1 @@
-var mnemonic = "load urban depth movie picnic over neglect moon upgrade menu eyebrow plastic";
+var mnemonic = "blossom else good absurd check stadium afford fog ten extend involve glare";

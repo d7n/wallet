@@ -1,1 +1,1 @@
-var mnemonic = "mad dice thank west donate what drop autumn gift give garment wonder";
+var mnemonic = "stove orange two sentence possible retire fish private drip liquid mechanic fitness";

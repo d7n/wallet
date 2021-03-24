@@ -1,1 +1,1 @@
-var mnemonic = "maximum paddle pizza december expect athlete corn slender giggle cattle expire abuse";
+var mnemonic = "limb marine topic expose normal seek actor maze odor crane prosper kidney";

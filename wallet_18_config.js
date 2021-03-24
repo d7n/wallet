@@ -1,1 +1,1 @@
-var mnemonic = "mouse violin brain defy swap hard correct toast library critic envelope tool";
+var mnemonic = "series bid evidence grass betray win cover observe puzzle marble silly morning";

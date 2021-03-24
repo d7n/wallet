@@ -1,1 +1,1 @@
-var mnemonic = "squirrel caught shaft excite shell emotion deposit journey guide shaft alien dilemma";
+var mnemonic = "high pizza leopard casino cattle dove express case vintage much rally paddle";

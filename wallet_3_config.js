@@ -1,1 +1,1 @@
-var mnemonic = "goddess flame label pluck exist ginger plate churn noise write whale fiscal";
+var mnemonic = "survey advice sign raw gather result recipe rude ball inform detect core";

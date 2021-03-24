@@ -1,1 +1,1 @@
-var mnemonic = "polar fury space walk velvet police health height orphan deny stool cover";
+var mnemonic = "rifle nephew bulk train mutual april add busy hat age wink they";

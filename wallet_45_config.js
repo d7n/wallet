@@ -1,1 +1,1 @@
-var mnemonic = "abuse stove grass check switch fatigue control wheat once impose price lonely";
+var mnemonic = "chat shoe cost comic bright soul ship bridge dragon improve either hybrid";

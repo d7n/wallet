@@ -1,1 +1,1 @@
-var mnemonic = "stool emotion kit all fantasy suspect leave repair brain crumble dose aspect";
+var mnemonic = "appear alley require glare regret canyon real soup you stay method settle";

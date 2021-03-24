@@ -1,1 +1,1 @@
-var mnemonic = "siren wasp say enact airport trip inherit identify inherit thumb priority spin";
+var mnemonic = "foot salad average treat wet silver detect critic there response dial toy";

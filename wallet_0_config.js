@@ -1,1 +1,1 @@
-var mnemonic = "fit cram oblige visit sniff noble confirm smooth practice brush drum visit";
+var mnemonic = "bag miracle effort undo auto wife fix meadow unable fluid fall seed";

@@ -1,1 +1,1 @@
-var mnemonic = "moment border magnet pill define cage such sugar safe beef thought vintage";
+var mnemonic = "melt path board grass throw obey sight walk smile rally fan doll";

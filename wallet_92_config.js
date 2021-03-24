@@ -1,1 +1,1 @@
-var mnemonic = "antenna pulp trap flavor vault notable van way document speed engage yellow";
+var mnemonic = "rely young force cube seven more foster success cram illness glance dignity";

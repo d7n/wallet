@@ -1,1 +1,1 @@
-var mnemonic = "drift best kingdom outdoor morning ignore extend snake replace grow bridge noise";
+var mnemonic = "opera endless model save actor drastic evil butter crash about logic syrup";

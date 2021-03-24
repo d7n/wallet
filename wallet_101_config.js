@@ -1,1 +1,1 @@
-var mnemonic = "loyal foster wrist real guide diagram race fever topic antenna fatigue orient";
+var mnemonic = "master secret mean remember switch solar glad rapid enlist reunion more spin";

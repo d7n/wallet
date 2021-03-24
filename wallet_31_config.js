@@ -1,1 +1,1 @@
-var mnemonic = "spend rocket cotton beach innocent key start network plug divide trash blue";
+var mnemonic = "document acquire evil pill gown luggage coast eight amount space slow such";

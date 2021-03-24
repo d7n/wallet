@@ -1,1 +1,1 @@
-var mnemonic = "saddle smooth hungry promote profit coach demand december adapt tumble kitchen head";
+var mnemonic = "surface frequent town cage retreat scrap expose develop found major brick family";

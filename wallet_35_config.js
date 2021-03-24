@@ -1,1 +1,1 @@
-var mnemonic = "solid say artefact sport horse basic inch pitch desk permit gate battle";
+var mnemonic = "bargain cup property fantasy split orient electric desk buffalo rocket toe move";

@@ -1,1 +1,1 @@
-var mnemonic = "palm night tent december alert proof catalog post soft barely volume narrow";
+var mnemonic = "debate pistol wear protect hidden invite fringe cancel fold marble cake flower";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle dinosaur secret feel obtain mother lion gasp glance easy purse room";
+var mnemonic = "total mobile heavy enemy element want distance craft spice vacuum venture brisk";

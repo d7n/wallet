@@ -1,1 +1,1 @@
-var mnemonic = "december industry ticket okay develop hire found favorite boost broccoli they crawl";
+var mnemonic = "couple museum crush ask horse matter first cube lab vicious rebuild pudding";

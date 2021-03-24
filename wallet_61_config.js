@@ -1,1 +1,1 @@
-var mnemonic = "weird person marine entire burst nominee winner swing advance then become north";
+var mnemonic = "accident future circle bean treat fruit hire favorite during reopen team rent";

@@ -1,1 +1,1 @@
-var mnemonic = "axis spell domain ten amateur again fossil lamp actress prepare chief poet";
+var mnemonic = "cheese gospel walk tag moon rookie glare defy explain swallow final furnace";

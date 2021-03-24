@@ -1,1 +1,1 @@
-var mnemonic = "welcome october satoshi country energy turkey memory among guilt torch soldier dignity";
+var mnemonic = "grit ahead pluck purse voyage juice word monster pilot recall birth melt";

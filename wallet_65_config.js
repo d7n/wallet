@@ -1,1 +1,1 @@
-var mnemonic = "mountain bulk announce safe bounce citizen cactus dinner position fine clock maid";
+var mnemonic = "tragic easy diamond drift muffin stick avocado achieve fatigue cabin summer rate";

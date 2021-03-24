@@ -1,1 +1,1 @@
-var mnemonic = "bundle this danger enter leave kid once grit goat spend athlete opinion";
+var mnemonic = "actress term fine arena stone right pizza brand unfold nasty ivory kingdom";
