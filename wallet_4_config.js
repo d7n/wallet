@@ -1,1 +1,1 @@
-var mnemonic = "two glance umbrella price umbrella very slam secret eyebrow mansion wire casino";
+var mnemonic = "popular twice gallery coach produce online work forward chef egg paper envelope";

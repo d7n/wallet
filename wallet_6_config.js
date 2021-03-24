@@ -1,1 +1,1 @@
-var mnemonic = "hidden taste milk purse zero drum just cost labor story evoke tape";
+var mnemonic = "elephant demand blossom join possible around like follow swear congress street cradle";

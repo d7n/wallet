@@ -1,1 +1,1 @@
-var mnemonic = "skate almost shift tunnel hunt mercy scrub sleep arm fancy say rocket";
+var mnemonic = "ancient stand move abuse tuna matter plunge rhythm candy forum fold swim";

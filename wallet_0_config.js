@@ -1,1 +1,1 @@
-var mnemonic = "unfold machine garment interest noble aware fold twenty bid slab lobster valley";
+var mnemonic = "goat true urban add trial excuse safe scrap border lab blush faith";

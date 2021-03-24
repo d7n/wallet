@@ -1,1 +1,1 @@
-var mnemonic = "ecology service royal wall easy allow pig minimum recycle auction wrist mandate";
+var mnemonic = "engage globe scare toddler fish leg onion pool curve during master stove";

@@ -1,1 +1,1 @@
-var mnemonic = "thing ordinary dumb tattoo bronze essence glory wave joke resource attract dash";
+var mnemonic = "bicycle plate waste amount trim scheme art diesel convince voyage icon congress";

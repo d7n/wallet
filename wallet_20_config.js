@@ -1,1 +1,1 @@
-var mnemonic = "cycle cake ridge music rigid leave gap weather wet slide cushion rely";
+var mnemonic = "uncover tip siren disagree gasp sudden affair wolf belt bundle display guilt";

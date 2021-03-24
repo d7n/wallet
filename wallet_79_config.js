@@ -1,1 +1,1 @@
-var mnemonic = "glove dolphin milk wine know estate guilt find giant mother pupil cement";
+var mnemonic = "usage stock rescue bid invite off illegal eye where exhibit glow once";

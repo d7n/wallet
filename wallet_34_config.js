@@ -1,1 +1,1 @@
-var mnemonic = "ice pledge latin another suffer prefer solar advance kitten hurdle school inside";
+var mnemonic = "floor erode weapon undo mercy clock brother escape pencil jealous cloud under";

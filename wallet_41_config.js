@@ -1,1 +1,1 @@
-var mnemonic = "analyst eight family dice build just good east scatter leopard price found";
+var mnemonic = "exit moment scissors diamond powder cloud embody hedgehog stock lesson clerk copy";

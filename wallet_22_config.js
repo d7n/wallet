@@ -1,1 +1,1 @@
-var mnemonic = "derive laundry deposit car unfair drive innocent vendor muffin spider cross custom";
+var mnemonic = "taxi swarm winner farm rack disease wave visual feature fetch puzzle ecology";

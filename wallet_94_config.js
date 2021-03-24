@@ -1,1 +1,1 @@
-var mnemonic = "cable invest silk once join found jump dinosaur know trigger remain fluid";
+var mnemonic = "obscure impose jazz palace damage sniff loud explain close amount twin correct";

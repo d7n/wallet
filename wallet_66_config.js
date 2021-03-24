@@ -1,1 +1,1 @@
-var mnemonic = "manage confirm dumb clutch report install uphold idle assault oxygen crunch rural";
+var mnemonic = "craft goose tonight giggle lunar popular grain popular rib problem room add";

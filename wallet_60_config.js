@@ -1,1 +1,1 @@
-var mnemonic = "planet saddle pause anchor junior veteran anxiety enact dizzy merit ordinary win";
+var mnemonic = "reform assault wild clock sight filter add patch alley ugly rate joke";

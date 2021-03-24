@@ -1,1 +1,1 @@
-var mnemonic = "heart page turkey holiday oak sell wisdom sting fun pencil security put";
+var mnemonic = "olive hotel rely soda holiday debris rent junk deputy palm valid expire";

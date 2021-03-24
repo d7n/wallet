@@ -1,1 +1,1 @@
-var mnemonic = "reduce potato glad mirror kitten urban alone surprise reform penalty ostrich gorilla";
+var mnemonic = "napkin erosion note muscle december six settle tell wild response fiscal trim";

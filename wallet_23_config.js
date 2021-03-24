@@ -1,1 +1,1 @@
-var mnemonic = "brave dash liquid spread brush trophy oak table vintage drastic envelope way";
+var mnemonic = "express labor velvet blind thumb ugly wild point pipe warrior display urge";

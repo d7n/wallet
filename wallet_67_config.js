@@ -1,1 +1,1 @@
-var mnemonic = "journey odor crane hazard hand expire exact same behind rely off joke";
+var mnemonic = "tape pistol cloud art stock amount tank common raise answer hundred nerve";

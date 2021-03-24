@@ -1,1 +1,1 @@
-var mnemonic = "cat vicious topple entry shadow quote witness weasel initial tired strong wise";
+var mnemonic = "express deputy arrive impose between wasp glow motor nation invite pink grid";

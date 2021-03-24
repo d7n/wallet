@@ -1,1 +1,1 @@
-var mnemonic = "hat brain silk student card female left north blanket sell return tiger";
+var mnemonic = "board pill oblige vital labor steak tilt excess razor museum turkey turkey";

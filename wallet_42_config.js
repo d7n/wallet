@@ -1,1 +1,1 @@
-var mnemonic = "flight have improve sauce already theory history disagree load close damage siege";
+var mnemonic = "moral column dentist toast cushion fruit chuckle right edge noodle hidden harsh";

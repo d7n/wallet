@@ -1,1 +1,1 @@
-var mnemonic = "approve that hip orbit crew cherry claw carbon three thumb habit only";
+var mnemonic = "thank fat innocent emerge onion father chair enlist rather wait slice shiver";

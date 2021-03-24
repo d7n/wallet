@@ -1,1 +1,1 @@
-var mnemonic = "blur churn shop ranch shoulder found adapt dove wink pistol leaf drill";
+var mnemonic = "merge legend glad base paddle vintage put kiss fringe injury twelve figure";

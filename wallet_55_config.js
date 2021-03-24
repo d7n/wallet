@@ -1,1 +1,1 @@
-var mnemonic = "sudden style promote stamp rigid various proud cabbage lonely nose diamond early";
+var mnemonic = "fragile infant evoke test coast lyrics retreat frame victory vanish zero vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt innocent crucial spy current sheriff leopard badge squeeze fall radio aunt";
+var mnemonic = "topple small sport avoid person reduce mechanic twice oak clog execute border";

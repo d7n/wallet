@@ -1,1 +1,1 @@
-var mnemonic = "perfect grain island symptom much utility object punch view barely hood flat";
+var mnemonic = "laptop elephant tissue name audit label wave pen axis clever address pluck";

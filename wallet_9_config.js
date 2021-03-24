@@ -1,1 +1,1 @@
-var mnemonic = "crazy craft anchor result utility motor material oak skin anger memory gadget";
+var mnemonic = "ketchup rather boring sponsor chunk wheat lucky panel tiger pool scale bonus";

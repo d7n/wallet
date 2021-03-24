@@ -1,1 +1,1 @@
-var mnemonic = "upon hunt trash trouble school match scrap rely middle fat thought size";
+var mnemonic = "double neglect mixture reopen sword cruise taste erase health ivory dinosaur alarm";

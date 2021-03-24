@@ -1,1 +1,1 @@
-var mnemonic = "jungle novel lend cruise hair mixture enable federal brave report spare describe";
+var mnemonic = "please vital cattle smart bright stone fuel flight bargain merry wall either";

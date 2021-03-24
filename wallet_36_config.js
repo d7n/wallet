@@ -1,1 +1,1 @@
-var mnemonic = "ball obvious write question upper arrow decade tube oxygen wet toward fox";
+var mnemonic = "mystery bid wrong render close toward water hour pond shield gold escape";

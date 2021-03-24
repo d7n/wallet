@@ -1,1 +1,1 @@
-var mnemonic = "nut raise decrease entire spoil calm tackle isolate plate muscle hire east";
+var mnemonic = "rigid alter onion milk social smooth super income onion swarm economy another";

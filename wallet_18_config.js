@@ -1,1 +1,1 @@
-var mnemonic = "now brush jacket party spell garbage cloth era deer soda observe romance";
+var mnemonic = "climb fresh flame fix satoshi horror lion crunch limit gadget over impulse";

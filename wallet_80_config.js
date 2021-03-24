@@ -1,1 +1,1 @@
-var mnemonic = "accuse stomach saddle shop journey rule exact arrest judge alert youth turtle";
+var mnemonic = "cool van hint adapt magic federal forest approve apart stable scare alarm";

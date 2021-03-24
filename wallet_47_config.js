@@ -1,1 +1,1 @@
-var mnemonic = "exact deliver opera video hope bargain beef receive path blade wolf enact";
+var mnemonic = "inform chaos can stereo private trophy winter market nasty among eternal useful";

@@ -1,1 +1,1 @@
-var mnemonic = "chief pond exercise candy peanut century network switch ceiling scrub throw jealous";
+var mnemonic = "toilet truth curve garden settle army deposit trumpet used chalk busy bring";

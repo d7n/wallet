@@ -1,1 +1,1 @@
-var mnemonic = "elephant above sell various naive fragile oppose island adapt early alley guess";
+var mnemonic = "pitch carry inquiry kidney meat romance crisp job iron spice east riot";

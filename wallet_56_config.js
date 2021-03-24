@@ -1,1 +1,1 @@
-var mnemonic = "champion rough vendor excess hint farm love drop nest width copy pass";
+var mnemonic = "skirt gasp horror cave reform defy mesh obscure cram absent ecology impact";

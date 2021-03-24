@@ -1,1 +1,1 @@
-var mnemonic = "erode equip check electric output master vast theory balance sadness galaxy type";
+var mnemonic = "brave eagle wood topple vanish aim choose sail eagle poet color ritual";

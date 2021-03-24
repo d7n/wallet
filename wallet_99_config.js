@@ -1,1 +1,1 @@
-var mnemonic = "trick chapter fence quick traffic assist glue yard gossip across always garment";
+var mnemonic = "slot wait economy measure tackle offer kidney zoo horror pledge film cruel";

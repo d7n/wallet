@@ -1,1 +1,1 @@
-var mnemonic = "salmon awake frozen bicycle parrot twist nut because apple night truly degree";
+var mnemonic = "fashion oyster august goat rifle color globe fold champion coconut seed inspire";

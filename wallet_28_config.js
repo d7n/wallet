@@ -1,1 +1,1 @@
-var mnemonic = "certain bulk inside list grape unhappy toast black faculty layer volume print";
+var mnemonic = "rail town awake thrive arena main client february resource just strike cable";

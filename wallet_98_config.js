@@ -1,1 +1,1 @@
-var mnemonic = "trade small slot join reduce wall phone sheriff empower agree juice sound";
+var mnemonic = "group antenna library trophy best cream ozone dynamic clog warfare trash employ";

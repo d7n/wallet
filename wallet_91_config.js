@@ -1,1 +1,1 @@
-var mnemonic = "assist all alert angry confirm lift bulk prevent define shift cactus start";
+var mnemonic = "pair general spoil siege blur ostrich cream expect barrel honey utility scrap";

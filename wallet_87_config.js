@@ -1,1 +1,1 @@
-var mnemonic = "coil security exist fork total valve collect expect canal doll pattern better";
+var mnemonic = "brisk trap dismiss saddle element tone loop truly supply desk faculty involve";

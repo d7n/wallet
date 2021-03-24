@@ -1,1 +1,1 @@
-var mnemonic = "bachelor oblige miracle evidence weird dash kidney bicycle struggle aerobic mother super";
+var mnemonic = "slot garden height guide during dynamic step flame trim garden loan language";

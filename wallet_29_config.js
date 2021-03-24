@@ -1,1 +1,1 @@
-var mnemonic = "venue noise clutch visit purpose news rapid parrot cloud resist flat miracle";
+var mnemonic = "jump resemble clean ten clever render hub flag chimney sheriff clerk acquire";

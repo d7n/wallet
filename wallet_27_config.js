@@ -1,1 +1,1 @@
-var mnemonic = "caught mesh clump cruise ship photo solve reveal minute zebra physical machine";
+var mnemonic = "social truck eight end artwork idle black kick dial picture unique fetch";

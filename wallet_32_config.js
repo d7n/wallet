@@ -1,1 +1,1 @@
-var mnemonic = "galaxy finger twice away combine humble soup pear elder panic verify theme";
+var mnemonic = "produce neglect smoke emerge elevator initial beauty home mouse link juice steel";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit dad remain final inner album ready wrestle shift avoid address warrior";
+var mnemonic = "bone then same frown artist three pole valley olive eager kidney chunk";

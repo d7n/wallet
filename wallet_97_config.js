@@ -1,1 +1,1 @@
-var mnemonic = "uniform cricket expire glass cave guide burden fragile swim admit uniform frost";
+var mnemonic = "primary apart save plug problem brain attend evil student injury coral quiz";

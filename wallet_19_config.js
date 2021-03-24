@@ -1,1 +1,1 @@
-var mnemonic = "topic noble beach awesome blue funny noble ugly trust eye like salmon";
+var mnemonic = "size inflict season pave judge text melody piano say vast advance sunny";

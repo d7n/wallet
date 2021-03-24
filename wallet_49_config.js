@@ -1,1 +1,1 @@
-var mnemonic = "emerge hotel power silk crater arm guilt arch claim draw ask road";
+var mnemonic = "favorite flavor mixed paddle retreat journey ten cup empty release link wire";

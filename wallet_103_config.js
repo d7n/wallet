@@ -1,1 +1,1 @@
-var mnemonic = "cake arena rookie donor believe lazy cake history heart avocado oil speak";
+var mnemonic = "egg air crush wasp shuffle nature horse dumb orphan wolf pear orbit";

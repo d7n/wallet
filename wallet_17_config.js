@@ -1,1 +1,1 @@
-var mnemonic = "lottery total eternal frequent project tube vote estate popular master glare tissue";
+var mnemonic = "menu room answer comic novel ugly squeeze shrug stage now proud category";

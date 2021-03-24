@@ -1,1 +1,1 @@
-var mnemonic = "subject raw label unusual wine dragon robust belt draw finish wonder copper";
+var mnemonic = "brass train welcome where document feature shift skill evoke mind march glad";

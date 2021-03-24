@@ -1,1 +1,1 @@
-var mnemonic = "meat bitter pioneer festival unable plate lecture live beauty garbage wish spend";
+var mnemonic = "original trip tornado avoid boy hour human glove kiwi subway middle luggage";

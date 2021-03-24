@@ -1,1 +1,1 @@
-var mnemonic = "unfold lab fruit one mail embark sail tissue chunk manage edit lesson";
+var mnemonic = "truck allow public buddy question anxiety borrow boost report much liar peace";

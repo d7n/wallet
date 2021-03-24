@@ -1,1 +1,1 @@
-var mnemonic = "yard wrestle spare monster good rural smoke labor soap disorder avocado typical";
+var mnemonic = "turkey gas radar leave tower acquire sponsor census cute rack wrist rocket";

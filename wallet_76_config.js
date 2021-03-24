@@ -1,1 +1,1 @@
-var mnemonic = "glare ivory animal nerve anger genuine piece wink outside arrange inmate female";
+var mnemonic = "flip vivid city champion sister fresh fortune cruise order robot capital cat";

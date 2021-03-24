@@ -1,1 +1,1 @@
-var mnemonic = "imitate blade valve pulp oyster entry cool escape horse surface service galaxy";
+var mnemonic = "world fun shove timber camp soup wealth month submit solve merge display";

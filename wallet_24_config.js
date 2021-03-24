@@ -1,1 +1,1 @@
-var mnemonic = "raw meat father comfort history thing job fiscal north runway magic option";
+var mnemonic = "earn age bread inmate thought amused entire rather cloth skirt noise smart";

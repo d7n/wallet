@@ -1,1 +1,1 @@
-var mnemonic = "observe person spend father peanut estate old dream genre erupt donor group";
+var mnemonic = "uncle shoot property property match prevent okay small video barely oven dog";

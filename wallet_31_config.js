@@ -1,1 +1,1 @@
-var mnemonic = "champion stage gorilla stone gesture blame tribe sister monitor talent return acid";
+var mnemonic = "lion daring original swing answer raw cotton juice limit cable maze lunch";

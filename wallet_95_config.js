@@ -1,1 +1,1 @@
-var mnemonic = "private brother belt job fat drink cover file crawl mutual struggle primary";
+var mnemonic = "early diagram announce trophy loyal nasty plunge father purity tragic rhythm slide";

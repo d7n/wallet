@@ -1,1 +1,1 @@
-var mnemonic = "talent ladder verb tumble expand fossil select release ranch filter news dream";
+var mnemonic = "fantasy lawsuit crowd stock grape train enough will achieve glide setup broccoli";

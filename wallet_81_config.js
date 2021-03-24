@@ -1,1 +1,1 @@
-var mnemonic = "effort federal vicious genre police erupt share anger embark admit fiction diamond";
+var mnemonic = "stereo truck option retire until drama fan hammer electric cry dizzy tourist";

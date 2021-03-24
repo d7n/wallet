@@ -1,1 +1,1 @@
-var mnemonic = "guard tiny evidence weasel narrow quiz hotel arrow monkey another primary athlete";
+var mnemonic = "olive wear glance lobster vast vicious emerge pink original faith leisure glad";

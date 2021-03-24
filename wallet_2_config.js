@@ -1,1 +1,1 @@
-var mnemonic = "observe almost ranch genius shoulder office initial blast inside thing peanut human";
+var mnemonic = "axis extra size menu chest return wool tonight blood pulp resist ginger";

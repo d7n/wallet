@@ -1,1 +1,1 @@
-var mnemonic = "skate farm paddle eager day electric timber water raw vacant dawn rigid";
+var mnemonic = "file token globe save riot wear walk shrug such route normal law";

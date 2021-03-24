@@ -1,1 +1,1 @@
-var mnemonic = "achieve drive rent gorilla summer quarter film belt chunk ring endless once";
+var mnemonic = "era labor moral physical spider beauty lazy picture struggle horn neither mimic";

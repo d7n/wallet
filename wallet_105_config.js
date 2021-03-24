@@ -1,1 +1,1 @@
-var mnemonic = "unveil remind hold huge always bulk elite love fatal vacant husband swarm";
+var mnemonic = "lava swing boy dawn message actress blouse success reunion minimum find during";

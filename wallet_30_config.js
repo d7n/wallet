@@ -1,1 +1,1 @@
-var mnemonic = "aim north enforce slide churn copy kitten danger desert law result spend";
+var mnemonic = "message exact match mystery omit endless rich anxiety manual chicken faith body";

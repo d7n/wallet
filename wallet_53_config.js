@@ -1,1 +1,1 @@
-var mnemonic = "liquid jaguar rotate own robot energy valid pattern main apple near dose";
+var mnemonic = "impulse space nerve habit evoke canal ship drip spot outside uncover primary";

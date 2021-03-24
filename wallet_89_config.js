@@ -1,1 +1,1 @@
-var mnemonic = "metal fresh resist filter false manual harbor opinion liar used hour roast";
+var mnemonic = "mountain cat height blossom major wet document actual total drive profit addict";

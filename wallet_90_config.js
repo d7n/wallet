@@ -1,1 +1,1 @@
-var mnemonic = "animal enough cabin garlic home slot slender topic case faculty army able";
+var mnemonic = "mix head cup wet flee just beach indoor gather surge enforce despair";

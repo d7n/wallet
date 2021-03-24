@@ -1,1 +1,1 @@
-var mnemonic = "diet poem pigeon daughter reward regular bomb inherit trial remove catch bacon";
+var mnemonic = "degree reject wealth hand trouble discover virtual quote example divide fiscal duty";

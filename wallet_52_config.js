@@ -1,1 +1,1 @@
-var mnemonic = "west industry dragon peace physical card manual spell fancy drive idea boring";
+var mnemonic = "seek expire path call business ramp phone brown film volume sponsor pencil";

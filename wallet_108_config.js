@@ -1,1 +1,1 @@
-var mnemonic = "chief oppose cable zone shuffle crisp update great grab nut layer soup";
+var mnemonic = "avocado area motor limb decline snack farm weather cupboard bulb snack vocal";

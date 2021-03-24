@@ -1,1 +1,1 @@
-var mnemonic = "deal crop correct gown lab route boss stamp economy teach knock combine";
+var mnemonic = "prepare where reopen south lonely tower focus grace surge exile wet cruise";

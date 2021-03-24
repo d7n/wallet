@@ -1,1 +1,1 @@
-var mnemonic = "label banner kite box hunt pill dice tiny dance impulse buyer frog";
+var mnemonic = "man diagram pitch balance planet strategy act snack rather silk struggle more";
