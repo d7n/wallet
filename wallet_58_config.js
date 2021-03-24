@@ -1,1 +1,1 @@
-var mnemonic = "glass viable season tank primary select ride lava winner ritual afraid safe";
+var mnemonic = "response thing coyote sentence item make armor online museum high orange series";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust library this urge buddy stand clay useless urban inform insane quit";
+var mnemonic = "runway term best original moon antique drink real traffic clutch giggle couple";

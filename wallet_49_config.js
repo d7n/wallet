@@ -1,1 +1,1 @@
-var mnemonic = "soon album zoo size cheap vital coil shine acquire recycle typical wire";
+var mnemonic = "fluid erosion payment cricket book stool chimney bounce pelican shoulder aunt require";

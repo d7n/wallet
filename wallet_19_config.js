@@ -1,1 +1,1 @@
-var mnemonic = "impose toward circle lens between blade castle album fold own shrimp police";
+var mnemonic = "arrow cart country virus solve into copy govern load legal cargo toy";

@@ -1,1 +1,1 @@
-var mnemonic = "pass fix pave crystal arctic early seed journey gravity anxiety soon soda";
+var mnemonic = "orphan tone crawl utility text jealous stay fish nice winner want awesome";

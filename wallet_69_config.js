@@ -1,1 +1,1 @@
-var mnemonic = "buffalo magic apology destroy cube can pottery tail venture night carpet nice";
+var mnemonic = "chunk analyst slab trust dumb joy fashion buddy desk ticket wheel weapon";

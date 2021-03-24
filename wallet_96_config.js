@@ -1,1 +1,1 @@
-var mnemonic = "lesson example exclude civil slot claw alcohol example sunny canoe fitness flash";
+var mnemonic = "rookie alert market regular top basic scare physical job exile fancy hire";

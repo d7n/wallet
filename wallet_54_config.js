@@ -1,1 +1,1 @@
-var mnemonic = "arrange begin name income range broken impulse scrap enable clock empower concert";
+var mnemonic = "scheme hard damp victory require step split grit wedding cherry venture life";

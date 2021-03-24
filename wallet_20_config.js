@@ -1,1 +1,1 @@
-var mnemonic = "ladder list syrup behind lunar brush hint question correct solve divert wait";
+var mnemonic = "tomorrow kitten wheel finish uniform better slogan ritual water club wagon enable";

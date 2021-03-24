@@ -1,1 +1,1 @@
-var mnemonic = "primary check hotel flavor coconut plate crew evoke miss concert memory potato";
+var mnemonic = "crystal gown evolve harsh transfer barely suit sorry symbol elbow plug mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "sand aunt vendor hurt melody program sure shoe drip soda canyon squirrel";
+var mnemonic = "juice quick purse remove disorder phone faith initial sea anxiety various shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "online mountain enough tail popular cave another joke ladder home weasel pencil";
+var mnemonic = "gospel habit dilemma stable stool tuition equip tank theory during fun tunnel";

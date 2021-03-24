@@ -1,1 +1,1 @@
-var mnemonic = "grace daring bid remember volume desk inner hobby romance crumble chase mimic";
+var mnemonic = "strategy anchor fee vintage aerobic vacant clerk bind paddle broccoli surprise thank";

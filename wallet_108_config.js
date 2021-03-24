@@ -1,1 +1,1 @@
-var mnemonic = "gate arrest decade sugar tuition pigeon process resist blush genre sustain vendor";
+var mnemonic = "draw humble crazy core target lava model robot link dog kid almost";

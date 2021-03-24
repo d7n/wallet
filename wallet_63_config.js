@@ -1,1 +1,1 @@
-var mnemonic = "humor return scatter capital yard fortune dutch atom age pave local tide";
+var mnemonic = "sunny urge foil absorb appear owner clean segment absurd village rocket wrap";

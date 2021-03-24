@@ -1,1 +1,1 @@
-var mnemonic = "scare second denial other where box half disagree nasty general miracle bullet";
+var mnemonic = "property cost legend gas garbage bachelor mansion parade engine miss bright pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt again brisk merit trade ginger frozen capital dolphin side magnet away";
+var mnemonic = "stuff web ghost cheese now thank ozone mimic glow divide scan foot";

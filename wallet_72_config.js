@@ -1,1 +1,1 @@
-var mnemonic = "neither blossom creek point spatial grocery surge bench mystery still pluck degree";
+var mnemonic = "more merge inspire symptom long guilt gasp castle clutch invite narrow pattern";

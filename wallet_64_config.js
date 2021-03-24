@@ -1,1 +1,1 @@
-var mnemonic = "fog again drive village series include quote abuse taxi alley person uphold";
+var mnemonic = "other fatal erupt grape robust tail equip process coin ice drift ugly";

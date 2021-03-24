@@ -1,1 +1,1 @@
-var mnemonic = "plate youth impact civil actual insect cake source grace seat smile shuffle";
+var mnemonic = "vault acoustic million term virtual vessel tired advance arm prize derive fringe";

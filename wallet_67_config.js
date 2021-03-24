@@ -1,1 +1,1 @@
-var mnemonic = "large ahead want hollow casual olive cute lab say pipe give quit";
+var mnemonic = "coral burger print west sorry raven indoor rain grocery vacant fox such";

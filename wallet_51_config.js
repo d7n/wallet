@@ -1,1 +1,1 @@
-var mnemonic = "spend cloth fashion brand horror urban digital paddle ginger spring orbit leopard";
+var mnemonic = "ski symbol panel pistol search tooth transfer sense rack carpet orient lemon";

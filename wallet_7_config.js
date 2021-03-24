@@ -1,1 +1,1 @@
-var mnemonic = "anger payment dress blouse ahead praise leaf involve warfare wisdom motion track";
+var mnemonic = "path witness hungry avocado network pipe sphere inherit suffer predict stable cream";

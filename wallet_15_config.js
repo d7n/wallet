@@ -1,1 +1,1 @@
-var mnemonic = "hip garden crouch short blame sand arrange hill mother orient sentence zebra";
+var mnemonic = "top cable crawl bag bracket sun reduce gift bright celery inspire magnet";

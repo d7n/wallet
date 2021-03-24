@@ -1,1 +1,1 @@
-var mnemonic = "wheel rack elbow census undo meadow aunt farm mosquito great humble mean";
+var mnemonic = "glory pet swing moon cliff grain surface friend barrel shrug endorse figure";

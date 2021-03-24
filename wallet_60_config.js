@@ -1,1 +1,1 @@
-var mnemonic = "hood genius genius cage misery outside gospel exercise fold sphere opera blue";
+var mnemonic = "float off lamp parade random punch pause fantasy mutual federal tiny undo";

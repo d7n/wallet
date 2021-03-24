@@ -1,1 +1,1 @@
-var mnemonic = "scheme orphan labor stomach survey dune chat treat soap column cushion evoke";
+var mnemonic = "left okay shiver behind beach spend legend random list dignity sadness yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond congress another truth chaos express squeeze because assume weekend style prize";
+var mnemonic = "motion biology emerge during security inspire royal popular worry toilet caught frog";

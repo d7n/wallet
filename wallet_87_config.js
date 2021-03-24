@@ -1,1 +1,1 @@
-var mnemonic = "merge wear pair squeeze soap primary clip slice knock bamboo update wood";
+var mnemonic = "black mean element horn small blossom cash tube race label student super";

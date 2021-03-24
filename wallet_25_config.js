@@ -1,1 +1,1 @@
-var mnemonic = "donkey raw guilt maximum decline year siren ecology example volcano kidney hat";
+var mnemonic = "photo brand that middle hybrid summer buzz dad scatter increase field recall";

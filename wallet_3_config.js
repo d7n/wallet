@@ -1,1 +1,1 @@
-var mnemonic = "cake radar unfair rain seek aware sustain parent tobacco panther input vanish";
+var mnemonic = "what tonight truck civil season mirror bone lava rent transfer crucial figure";

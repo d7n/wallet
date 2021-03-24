@@ -1,1 +1,1 @@
-var mnemonic = "hobby nothing elevator follow wave hotel economy hover project volcano whip fat";
+var mnemonic = "panda normal tiny recipe circle such please impose airport turtle oyster extra";

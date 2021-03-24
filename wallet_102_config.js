@@ -1,1 +1,1 @@
-var mnemonic = "define tonight mixed comfort kangaroo click toddler unusual boring hello glass cute";
+var mnemonic = "govern genre clinic light write silk way title hockey buyer snake phone";

@@ -1,1 +1,1 @@
-var mnemonic = "castle budget win base help tortoise end oppose brother violin shuffle drink";
+var mnemonic = "brass card dentist include boost lumber kangaroo despair sock truth inherit repeat";

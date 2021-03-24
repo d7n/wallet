@@ -1,1 +1,1 @@
-var mnemonic = "swim nephew grow fury false few throw camera success dog rally dad";
+var mnemonic = "couple torch teach mistake consider virus garden advice matrix asthma swamp stable";

@@ -1,1 +1,1 @@
-var mnemonic = "output fever inspire barrel rather page upgrade drip fatigue leave vehicle patch";
+var mnemonic = "memory faith critic deny cradle slender flee zebra parade fix excuse skill";

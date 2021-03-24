@@ -1,1 +1,1 @@
-var mnemonic = "easily glide service practice guess oppose acid dinosaur win water party goddess";
+var mnemonic = "slender wing topic talk iron early multiply ginger borrow pilot crowd axis";

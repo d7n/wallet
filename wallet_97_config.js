@@ -1,1 +1,1 @@
-var mnemonic = "certain maple play awesome bean blur flag major brick service draft afraid";
+var mnemonic = "seat put banana trick legend exile fee frame shiver sing very train";

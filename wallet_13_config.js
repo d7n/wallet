@@ -1,1 +1,1 @@
-var mnemonic = "slogan essay reveal live donkey leopard learn inhale fancy cycle utility cushion";
+var mnemonic = "sing siege person evoke because wild bone genius sad spawn vessel chronic";

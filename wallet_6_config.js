@@ -1,1 +1,1 @@
-var mnemonic = "rapid empty before bring fuel limb neutral debate avocado approve curious desert";
+var mnemonic = "level merit surface blanket pencil tomorrow congress reason champion rubber bonus play";

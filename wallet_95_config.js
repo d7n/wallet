@@ -1,1 +1,1 @@
-var mnemonic = "illegal receive leisure indoor predict thumb supply curious latin screen erosion carpet";
+var mnemonic = "else bubble project resist infant model dumb identify dumb work motor occur";

@@ -1,1 +1,1 @@
-var mnemonic = "much ghost drama unhappy thrive seed sorry apology copper gift kangaroo kick";
+var mnemonic = "jewel stage cereal exile lyrics faculty target vacuum rate excess fuel eager";

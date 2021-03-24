@@ -1,1 +1,1 @@
-var mnemonic = "ticket october smart title repeat father better goddess voyage tuna radio popular";
+var mnemonic = "garlic thing depth earn walnut carpet muffin bulk like donate carbon smoke";

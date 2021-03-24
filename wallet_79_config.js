@@ -1,1 +1,1 @@
-var mnemonic = "cloth twin salon gown copper gloom network awesome buzz climb honey unlock";
+var mnemonic = "hour voice vocal various awake shrug nuclear film organ host lawn proud";

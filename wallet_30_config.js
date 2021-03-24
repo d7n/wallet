@@ -1,1 +1,1 @@
-var mnemonic = "broken bike dice bamboo craft economy arrive movie summer fork assume wear";
+var mnemonic = "march truth group early brisk interest nest friend little ski claim elegant";

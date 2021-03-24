@@ -1,1 +1,1 @@
-var mnemonic = "polar code salt blue sense excite unusual glimpse west want expire blood";
+var mnemonic = "ready razor aunt best cheap seven topic cradle purse travel helmet flavor";

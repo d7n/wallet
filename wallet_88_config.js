@@ -1,1 +1,1 @@
-var mnemonic = "guilt panic dutch remove nuclear destroy absurd catalog round polar dune design";
+var mnemonic = "build stable sound zebra rate mix wide devote saddle term cash rather";

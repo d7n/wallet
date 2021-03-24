@@ -1,1 +1,1 @@
-var mnemonic = "bind horn share undo arctic sign curve dad report loud crisp shop";
+var mnemonic = "toward advance art friend wealth head pioneer change grid razor aerobic wise";

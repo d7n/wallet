@@ -1,1 +1,1 @@
-var mnemonic = "figure speed reason toward cause mind damage canal vibrant link write join";
+var mnemonic = "peasant erosion mixed save error galaxy game gather select broccoli number intact";

@@ -1,1 +1,1 @@
-var mnemonic = "science funny slush edge hundred weekend barrel egg shop sausage slice finish";
+var mnemonic = "sand dilemma creek satisfy food history urge eyebrow make toilet innocent era";

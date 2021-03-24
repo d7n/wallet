@@ -1,1 +1,1 @@
-var mnemonic = "sadness bring ready pause sauce weasel layer resemble insane noise amount window";
+var mnemonic = "poem spring cheap link lend hen garden clinic analyst mention hospital castle";

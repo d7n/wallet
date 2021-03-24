@@ -1,1 +1,1 @@
-var mnemonic = "board yard marble hybrid sudden minimum fragile coffee reunion couple grow rail";
+var mnemonic = "fine sister column cream erase sad action furnace inner shiver hospital garment";

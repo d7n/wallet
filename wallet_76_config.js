@@ -1,1 +1,1 @@
-var mnemonic = "verify option vivid resource universe become million check vital scrap neglect very";
+var mnemonic = "nerve secret victory trash snack guide pretty gate wolf salon often paper";

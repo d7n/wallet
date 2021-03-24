@@ -1,1 +1,1 @@
-var mnemonic = "option panda chunk insane convince narrow stove great sad ivory teach sort";
+var mnemonic = "admit letter lunch ribbon sound race scissors brass horse improve rude young";

@@ -1,1 +1,1 @@
-var mnemonic = "exist thumb across thumb impose riot nothing grain consider north crush meat";
+var mnemonic = "weekend remain thumb flock wolf rotate iron wrong dance quote ocean man";

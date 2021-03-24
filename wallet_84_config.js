@@ -1,1 +1,1 @@
-var mnemonic = "pupil mule snake orchard forget budget hope lounge allow cupboard claw flush";
+var mnemonic = "accident talk doll bridge toy two update year sniff swear parrot leg";

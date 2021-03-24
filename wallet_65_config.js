@@ -1,1 +1,1 @@
-var mnemonic = "pyramid truck axis trash size elbow people average cactus wheel swamp tail";
+var mnemonic = "pass hungry wrong easily toe old involve bless lady burger rigid copper";

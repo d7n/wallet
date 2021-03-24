@@ -1,1 +1,1 @@
-var mnemonic = "ivory disorder exercise script helmet cigar photo ghost palace laptop cloud sheriff";
+var mnemonic = "share jaguar question stereo phone army electric december subject arrest agent skin";

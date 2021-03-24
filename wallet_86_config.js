@@ -1,1 +1,1 @@
-var mnemonic = "gauge note anger frown fever spend swarm dry spring frost rabbit case";
+var mnemonic = "cube buddy cook caution gym asthma wine notice else foil favorite embrace";

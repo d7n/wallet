@@ -1,1 +1,1 @@
-var mnemonic = "target chat forest example polar gas claim warrior vehicle giggle fold light";
+var mnemonic = "tray fork genre swallow owner energy regular wisdom tomorrow super girl satoshi";

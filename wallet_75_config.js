@@ -1,1 +1,1 @@
-var mnemonic = "analyst almost pilot wisdom glad foot jump uncover kangaroo unique point lava";
+var mnemonic = "orphan exclude blur april loan organ alert video smart mule skull patch";

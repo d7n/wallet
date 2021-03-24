@@ -1,1 +1,1 @@
-var mnemonic = "bird pencil barrel gauge mango clutch when rapid town harvest job have";
+var mnemonic = "observe dose soft dwarf attract scare blur pilot pyramid advice mammal coral";

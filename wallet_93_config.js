@@ -1,1 +1,1 @@
-var mnemonic = "imitate person online bean shallow loud differ dilemma wage rebuild midnight scorpion";
+var mnemonic = "hover dose remove history edge thunder remove split army essence whip punch";

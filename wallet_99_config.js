@@ -1,1 +1,1 @@
-var mnemonic = "wine beauty alcohol giraffe truth secret vapor cherry chief human wrist curious";
+var mnemonic = "include bus side estate arrow fan gentle kid sweet sign casino noodle";

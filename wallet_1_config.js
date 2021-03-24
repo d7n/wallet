@@ -1,1 +1,1 @@
-var mnemonic = "alter strong gloom barely attract final loop credit alter knock edge soul";
+var mnemonic = "inject trial pride zebra butter slow open tissue ethics upon firm summer";

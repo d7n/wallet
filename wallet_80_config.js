@@ -1,1 +1,1 @@
-var mnemonic = "pattern decrease shine fit just trouble ticket protect mention nasty lava whip";
+var mnemonic = "actress scene cannon mango chronic check orchard panda obey cross heart tree";

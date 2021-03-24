@@ -1,1 +1,1 @@
-var mnemonic = "soup season dash south among rate force quick baby parrot carbon tomorrow";
+var mnemonic = "velvet dismiss one rough merge camp grape scissors select wheel lounge recipe";

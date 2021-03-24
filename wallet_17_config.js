@@ -1,1 +1,1 @@
-var mnemonic = "electric decade world cheap buzz sibling zoo ski horror cake winter frog";
+var mnemonic = "sock abuse transfer eternal saddle dog clock faint strategy dismiss outer sentence";

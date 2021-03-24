@@ -1,1 +1,1 @@
-var mnemonic = "echo hybrid royal ticket dust arrange lunar sick motion word code original";
+var mnemonic = "metal zone leaf era bronze document strategy spatial young fury anchor fork";

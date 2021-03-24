@@ -1,1 +1,1 @@
-var mnemonic = "hold degree fee sign month index pretty rude merit require rifle alter";
+var mnemonic = "casual say tissue gate equip crowd crumble scout purchase end priority stem";

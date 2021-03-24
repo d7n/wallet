@@ -1,1 +1,1 @@
-var mnemonic = "adapt stick cereal business forward autumn click session save copper resemble december";
+var mnemonic = "shaft month mad blade lazy satoshi depend nuclear club floor rubber shaft";

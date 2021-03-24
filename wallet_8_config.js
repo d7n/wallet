@@ -1,1 +1,1 @@
-var mnemonic = "youth face salmon bonus dragon spawn sure this soon coyote cat defense";
+var mnemonic = "snack vote disorder gate wash humble round liar clerk common milk sail";

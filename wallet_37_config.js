@@ -1,1 +1,1 @@
-var mnemonic = "stumble addict crew segment coyote fall chief basic decline average require maze";
+var mnemonic = "husband dismiss mention slot boost forward walnut garage enough actress summer control";

@@ -1,1 +1,1 @@
-var mnemonic = "range auction shoot side about great funny crucial panel tennis axis food";
+var mnemonic = "real another gun average tuna diamond syrup text mix erase fantasy night";

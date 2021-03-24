@@ -1,1 +1,1 @@
-var mnemonic = "super kiss once canoe also thrive news style degree doctor mix tilt";
+var mnemonic = "vacuum move sock limb mad seat web soldier produce end royal drill";

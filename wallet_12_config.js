@@ -1,1 +1,1 @@
-var mnemonic = "noise cheese grow disorder iron crystal mean cousin equip hidden crisp joy";
+var mnemonic = "power assume phrase kick top turkey scissors happy remind total cushion benefit";

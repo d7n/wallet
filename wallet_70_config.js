@@ -1,1 +1,1 @@
-var mnemonic = "confirm broom flight adjust vocal pill utility biology ozone report quit raccoon";
+var mnemonic = "title giant wish nut ghost harvest blood idle heavy venture beef wasp";

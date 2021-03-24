@@ -1,1 +1,1 @@
-var mnemonic = "dice jar half shadow dash absurd toe shop huge spike boring current";
+var mnemonic = "total rug mutual romance other century letter elegant decrease illegal label toward";

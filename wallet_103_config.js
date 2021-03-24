@@ -1,1 +1,1 @@
-var mnemonic = "dinner adapt purchase trash expose crucial buyer absurd rely lyrics blind birth";
+var mnemonic = "pause rail cricket business error split yard shrimp spray camp ethics cave";

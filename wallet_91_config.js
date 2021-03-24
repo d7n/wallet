@@ -1,1 +1,1 @@
-var mnemonic = "advance fresh develop first burden screen siren creek rude perfect grain task";
+var mnemonic = "burst system cave walk weird opera mass exact survey vast smoke pink";

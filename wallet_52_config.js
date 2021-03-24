@@ -1,1 +1,1 @@
-var mnemonic = "smooth rifle glove slide tell learn angle loan shrug depth abstract creek";
+var mnemonic = "shield strong recall ask paddle system time chicken company mosquito sudden view";

@@ -1,1 +1,1 @@
-var mnemonic = "night lens build hub inherit timber recycle person merry pigeon certain ketchup";
+var mnemonic = "denial angle buzz orient marble culture material nut park banner birth popular";

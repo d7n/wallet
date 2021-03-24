@@ -1,1 +1,1 @@
-var mnemonic = "sunset immense main onion mechanic office fruit sting machine energy sentence pledge";
+var mnemonic = "text banner subject guilt broccoli slight symptom devote prefer noise pledge admit";

@@ -1,1 +1,1 @@
-var mnemonic = "ship cargo frequent tunnel mask rug denial visit muffin provide pluck odor";
+var mnemonic = "spoil question napkin move repair tongue pact robust artwork decrease defy merit";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo duck music rare life left toilet boring dirt course camera file";
+var mnemonic = "secret gloom seat lecture boost donkey frozen chef clog museum unusual wave";

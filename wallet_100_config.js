@@ -1,1 +1,1 @@
-var mnemonic = "evolve clay wedding trash foster indoor require swallow sheriff spatial surround powder";
+var mnemonic = "deputy bonus address evoke sausage finish burst pink lazy borrow scare fatal";

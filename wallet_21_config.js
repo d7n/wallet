@@ -1,1 +1,1 @@
-var mnemonic = "spirit ankle deputy pond gown pipe pigeon general side surge tackle upset";
+var mnemonic = "meadow galaxy brave nurse refuse donate chronic whale borrow extend message vendor";

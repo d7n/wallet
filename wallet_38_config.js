@@ -1,1 +1,1 @@
-var mnemonic = "assault pioneer miss area hammer bleak diesel parrot error soldier initial farm";
+var mnemonic = "way inform oyster buzz cousin wise special frequent ostrich there vibrant ramp";

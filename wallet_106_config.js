@@ -1,1 +1,1 @@
-var mnemonic = "feel absorb blanket heart cause express leader iron bounce liquid order jump";
+var mnemonic = "notable elegant eager giggle bachelor obscure gap anxiety chuckle provide enter stable";
