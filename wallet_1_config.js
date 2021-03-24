@@ -1,1 +1,1 @@
-var mnemonic = "guard profit favorite exclude helmet forest stick lady sibling neck wrestle comfort";
+var mnemonic = "deposit catch ankle item first dwarf apple music wire thrive define erosion";

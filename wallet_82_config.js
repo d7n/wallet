@@ -1,1 +1,1 @@
-var mnemonic = "gym attend video boss theory glory place loan enemy loan position ribbon";
+var mnemonic = "snap desk sister inspire enemy file rude quote spice fun razor edit";

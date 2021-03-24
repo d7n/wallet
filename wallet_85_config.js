@@ -1,1 +1,1 @@
-var mnemonic = "museum sketch pottery guilt task jelly destroy group hair sing decade symptom";
+var mnemonic = "drive hold bar armed whip conduct spy tide floor above noise engage";

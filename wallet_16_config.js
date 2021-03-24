@@ -1,1 +1,1 @@
-var mnemonic = "stove orange two sentence possible retire fish private drip liquid mechanic fitness";
+var mnemonic = "abandon job shrug result relief crowd bag rifle cross small mistake female";

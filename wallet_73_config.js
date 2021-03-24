@@ -1,1 +1,1 @@
-var mnemonic = "collect walk strategy husband victory bridge sadness ritual crisp stumble cupboard amazing";
+var mnemonic = "atom witness spare dice blast mesh elbow thrive spell change hurt medal";

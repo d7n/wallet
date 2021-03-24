@@ -1,1 +1,1 @@
-var mnemonic = "debate pistol wear protect hidden invite fringe cancel fold marble cake flower";
+var mnemonic = "cream fiber topic adapt deputy this orbit grunt tuna force truth depend";

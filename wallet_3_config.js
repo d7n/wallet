@@ -1,1 +1,1 @@
-var mnemonic = "survey advice sign raw gather result recipe rude ball inform detect core";
+var mnemonic = "elite march carpet word noble pulp sudden token zero mountain glue custom";

@@ -1,1 +1,1 @@
-var mnemonic = "regular fatal leave possible canal invite step twenty clinic winner turn lunar";
+var mnemonic = "one stone area prosper promote pistol fall reform small city state meat";

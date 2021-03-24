@@ -1,1 +1,1 @@
-var mnemonic = "ordinary since original senior super final turtle ethics hurt height sign syrup";
+var mnemonic = "announce point topple category lift ship gadget describe convince horror rose appear";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom habit unfold steel casual inmate bird stadium empower cube teach black";
+var mnemonic = "effort diet service bulk escape return claim legal battle similar suspect rice";

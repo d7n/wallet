@@ -1,1 +1,1 @@
-var mnemonic = "coil update wash bomb need defense machine option system vast apple mechanic";
+var mnemonic = "blossom swim theme stairs cliff uphold nose diesel alarm remain dial extra";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel later goddess chicken frog traffic tomorrow prevent home industry now shell";
+var mnemonic = "seed brass vicious document grab original claim liar atom bronze monitor melody";

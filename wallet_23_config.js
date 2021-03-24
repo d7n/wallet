@@ -1,1 +1,1 @@
-var mnemonic = "cheese gospel walk tag moon rookie glare defy explain swallow final furnace";
+var mnemonic = "trust final join simple goddess blade define drum sell deliver object nothing";

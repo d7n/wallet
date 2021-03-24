@@ -1,1 +1,1 @@
-var mnemonic = "just differ evoke vessel equip alter legend finger media pause nation swift";
+var mnemonic = "junior oppose rib unveil derive swarm figure hurt food evolve praise act";

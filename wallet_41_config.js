@@ -1,1 +1,1 @@
-var mnemonic = "blood game power stamp odor juice dust ride march actual already daring";
+var mnemonic = "reject leg check mammal hurt battle way actor swamp ozone rotate label";

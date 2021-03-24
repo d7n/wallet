@@ -1,1 +1,1 @@
-var mnemonic = "faculty magnet buffalo effort van cube people slice trial idea desert spy";
+var mnemonic = "yard hunt twin casual chapter title tape seek right breeze glare hero";

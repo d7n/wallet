@@ -1,1 +1,1 @@
-var mnemonic = "melt path board grass throw obey sight walk smile rally fan doll";
+var mnemonic = "bar improve tragic rose pencil size island leg hope filter you race";

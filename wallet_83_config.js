@@ -1,1 +1,1 @@
-var mnemonic = "limb marine topic expose normal seek actor maze odor crane prosper kidney";
+var mnemonic = "purity there onion slender vital project orphan erupt manage must ginger citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "moral pet bracket enforce decorate dove prison install claw journey slogan chaos";
+var mnemonic = "toy rain forum coral another birth guide hobby circle dignity detail cherry";

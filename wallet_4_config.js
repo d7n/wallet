@@ -1,1 +1,1 @@
-var mnemonic = "embrace just valid honey city cluster truth lion resource ticket aisle boil";
+var mnemonic = "mouse solid grab body flush soul ill green arm bird bag level";

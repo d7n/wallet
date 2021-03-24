@@ -1,1 +1,1 @@
-var mnemonic = "auto vote hood chalk cable bring alpha inmate pave begin ranch shrug";
+var mnemonic = "gadget swift canoe educate owner program mean asthma ski meadow load effort";

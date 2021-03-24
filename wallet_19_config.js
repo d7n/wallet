@@ -1,1 +1,1 @@
-var mnemonic = "wedding fog air cause nurse vocal stool token among roof blame chat";
+var mnemonic = "fresh position winner appear raise topple elephant oak exist lava dash scatter";

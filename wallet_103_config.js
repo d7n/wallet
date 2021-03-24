@@ -1,1 +1,1 @@
-var mnemonic = "wire rocket food twelve spawn gorilla grape feed laundry world swap despair";
+var mnemonic = "pond protect wish noble treat hello apart few pass wear open brick";

@@ -1,1 +1,1 @@
-var mnemonic = "repair thank awkward liberty hungry drill found lucky pig infant crowd sample";
+var mnemonic = "when sand peanut put lock bundle document south vivid goddess ranch van";

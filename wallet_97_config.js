@@ -1,1 +1,1 @@
-var mnemonic = "have recipe draw wine roast fine wool again belt replace runway physical";
+var mnemonic = "cancel arrow they outer insect celery mask split airport lab blossom fossil";

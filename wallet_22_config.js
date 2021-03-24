@@ -1,1 +1,1 @@
-var mnemonic = "essence renew grain flash benefit shoot other glory tiger fee risk potato";
+var mnemonic = "assume suit biology appear skull giraffe transfer remain hospital era fringe logic";

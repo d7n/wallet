@@ -1,1 +1,1 @@
-var mnemonic = "trade rough ride service hunt rail method season citizen crouch column hat";
+var mnemonic = "age fault acoustic purse survey doctor peanut patient estate buyer drastic civil";

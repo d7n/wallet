@@ -1,1 +1,1 @@
-var mnemonic = "peasant absent tunnel crew media cause across fantasy tribe hammer evil angry";
+var mnemonic = "illness robust undo fuel punch virus three motor ginger flee seat cereal";

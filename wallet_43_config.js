@@ -1,1 +1,1 @@
-var mnemonic = "cook lady hip joy crew excite crime pen dragon diagram garbage oblige";
+var mnemonic = "strong pottery gas scatter perfect hollow afford wash reduce truth minute march";

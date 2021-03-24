@@ -1,1 +1,1 @@
-var mnemonic = "sun upset grass guilt check fix monitor beauty silly pride hint quantum";
+var mnemonic = "chicken useless atom entry identify edge rescue minimum legend surround tobacco island";

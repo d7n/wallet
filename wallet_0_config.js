@@ -1,1 +1,1 @@
-var mnemonic = "bag miracle effort undo auto wife fix meadow unable fluid fall seed";
+var mnemonic = "fire surround close side stick hazard property invite sing roast quiz crowd";

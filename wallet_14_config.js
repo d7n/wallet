@@ -1,1 +1,1 @@
-var mnemonic = "swim steel neglect topple swear speed foil remain clay lion dove taste";
+var mnemonic = "jelly milk mad enter average chef spray memory wall convince state jealous";

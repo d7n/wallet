@@ -1,1 +1,1 @@
-var mnemonic = "leopard garage tumble outdoor key ecology enable boil angry worth divorce address";
+var mnemonic = "elevator crash stomach drift rotate gentle sting mansion border prize behave mountain";

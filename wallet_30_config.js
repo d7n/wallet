@@ -1,1 +1,1 @@
-var mnemonic = "grit ahead pluck purse voyage juice word monster pilot recall birth melt";
+var mnemonic = "balcony dune cake card segment allow tiny rail absent grid child recycle";

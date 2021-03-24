@@ -1,1 +1,1 @@
-var mnemonic = "sphere act kid very fashion divide present month old increase breeze coast";
+var mnemonic = "web cloud spatial pool mechanic woman cream drift desert various wolf mountain";

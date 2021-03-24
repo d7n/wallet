@@ -1,1 +1,1 @@
-var mnemonic = "surface frequent town cage retreat scrap expose develop found major brick family";
+var mnemonic = "trophy any caution apple divorce fee left novel deliver pipe menu pistol";

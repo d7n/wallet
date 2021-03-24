@@ -1,1 +1,1 @@
-var mnemonic = "chat shoe cost comic bright soul ship bridge dragon improve either hybrid";
+var mnemonic = "across utility village case sign betray copper vacuum conduct annual future daring";

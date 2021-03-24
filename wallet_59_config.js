@@ -1,1 +1,1 @@
-var mnemonic = "unveil ugly skirt lawsuit improve carbon defy miracle library chest there tape";
+var mnemonic = "document lizard fly push vapor across swarm come army age cave school";

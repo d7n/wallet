@@ -1,1 +1,1 @@
-var mnemonic = "actress term fine arena stone right pizza brand unfold nasty ivory kingdom";
+var mnemonic = "laugh govern zoo blouse dwarf behind acquire exotic sight pelican toy hero";

@@ -1,1 +1,1 @@
-var mnemonic = "appear alley require glare regret canyon real soup you stay method settle";
+var mnemonic = "wire total design lounge old sick local cancel detect rally lift robot";

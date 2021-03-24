@@ -1,1 +1,1 @@
-var mnemonic = "series bid evidence grass betray win cover observe puzzle marble silly morning";
+var mnemonic = "hybrid purchase liar across best coast portion hotel later flower skull win";

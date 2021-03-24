@@ -1,1 +1,1 @@
-var mnemonic = "noble they friend jazz gospel divorce then hour exchange below sound cotton";
+var mnemonic = "cement glimpse husband fetch proud diesel ethics test erase amused curve box";

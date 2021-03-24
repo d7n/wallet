@@ -1,1 +1,1 @@
-var mnemonic = "funny broken armed outer endorse enemy mad ivory student solar toilet forget";
+var mnemonic = "fatal victory school crucial bunker excite arm clean need great dinosaur mutual";

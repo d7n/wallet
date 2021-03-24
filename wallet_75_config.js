@@ -1,1 +1,1 @@
-var mnemonic = "execute wash valve physical estate submit panic gospel ancient riot empty ready";
+var mnemonic = "knee dose fold neck kiss split warfare heart spice timber mind host";

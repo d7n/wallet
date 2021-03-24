@@ -1,1 +1,1 @@
-var mnemonic = "scrap custom detect melt private menu under fiscal claw void rigid vicious";
+var mnemonic = "surprise retreat bubble wife release item wealth garlic survey seat swap couch";

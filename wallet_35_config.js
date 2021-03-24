@@ -1,1 +1,1 @@
-var mnemonic = "bargain cup property fantasy split orient electric desk buffalo rocket toe move";
+var mnemonic = "check enlist random crop keen shine jealous time denial copper flash dignity";

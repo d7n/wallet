@@ -1,1 +1,1 @@
-var mnemonic = "ripple dune vibrant creek leg book then devote muffin spell spy image";
+var mnemonic = "wrong flat olive merge panda series column thunder agree inspire crawl finger";

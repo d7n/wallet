@@ -1,1 +1,1 @@
-var mnemonic = "raven expand inquiry palace hybrid unlock palace sign valley version shoulder ginger";
+var mnemonic = "party conduct fancy dumb once nurse debate duck honey rebuild elder impact";

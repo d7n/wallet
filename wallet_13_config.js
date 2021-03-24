@@ -1,1 +1,1 @@
-var mnemonic = "genius claw pretty scare winter yard dumb sheriff flush ketchup brass drink";
+var mnemonic = "resemble prepare jeans noble rich aerobic object lumber dynamic artefact oven advance";

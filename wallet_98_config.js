@@ -1,1 +1,1 @@
-var mnemonic = "opera endless model save actor drastic evil butter crash about logic syrup";
+var mnemonic = "ring upon join fresh trim game weird agree immune chalk eternal gate";

@@ -1,1 +1,1 @@
-var mnemonic = "good recipe upgrade must regret acoustic useful round blue confirm december access";
+var mnemonic = "seed credit harbor power umbrella solid pluck attract resource lion test comfort";

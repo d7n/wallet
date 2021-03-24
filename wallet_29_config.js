@@ -1,1 +1,1 @@
-var mnemonic = "avocado dinosaur render round pig mass improve firm merit coin addict together";
+var mnemonic = "urban traffic write card oppose admit aware script nephew decrease left young";

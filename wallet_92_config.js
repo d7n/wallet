@@ -1,1 +1,1 @@
-var mnemonic = "rely young force cube seven more foster success cram illness glance dignity";
+var mnemonic = "street ahead twist cloth palm engine nest loyal crack crack page ball";

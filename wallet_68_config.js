@@ -1,1 +1,1 @@
-var mnemonic = "inflict coil wall crunch relief solid sand spend dutch document truth strike";
+var mnemonic = "circle bicycle auto game prosper under badge outside half bubble verify will";

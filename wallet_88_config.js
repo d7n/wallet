@@ -1,1 +1,1 @@
-var mnemonic = "language render aunt rally output leaf replace emerge junk master quantum foil";
+var mnemonic = "tree trial goddess minor penalty rain develop sock onion brisk across silly";

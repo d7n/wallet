@@ -1,1 +1,1 @@
-var mnemonic = "harsh shoe enhance village cry slogan uncle salon medal estate trigger grocery";
+var mnemonic = "aspect label music delay city pill title unaware frozen vibrant insect response";

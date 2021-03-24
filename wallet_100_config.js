@@ -1,1 +1,1 @@
-var mnemonic = "mean crisp grant vacant space improve dinner valley other lift unaware find";
+var mnemonic = "wine sniff camera equip pupil bonus token ensure strong frozen stamp furnace";

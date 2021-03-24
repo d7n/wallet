@@ -1,1 +1,1 @@
-var mnemonic = "salmon suspect patient bar glimpse timber relax virtual infant elephant sock tape";
+var mnemonic = "force toast age nation task kind tribe focus garage angle swamp boss";

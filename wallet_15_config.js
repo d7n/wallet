@@ -1,1 +1,1 @@
-var mnemonic = "predict ski tail bachelor fossil chicken parent point ball scene ivory giraffe";
+var mnemonic = "team either swallow expire fantasy opera life crunch hamster acquire punch load";

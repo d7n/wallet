@@ -1,1 +1,1 @@
-var mnemonic = "perfect cake mercy state scheme mushroom ride cattle beach emotion cigar magnet";
+var mnemonic = "lounge canvas choose powder only cabin soccer peanut matter note fault food";

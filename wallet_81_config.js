@@ -1,1 +1,1 @@
-var mnemonic = "foster parent mind cable sail sustain pitch endorse bleak voyage evil two";
+var mnemonic = "asset era glass ginger arrive army trophy latin fancy lab void math";

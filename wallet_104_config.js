@@ -1,1 +1,1 @@
-var mnemonic = "toddler volume aisle fade tent essence desk enjoy shift bread debris gain";
+var mnemonic = "water nephew faculty day sunny figure tuition often plug exercise unhappy twenty";

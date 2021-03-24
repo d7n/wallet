@@ -1,1 +1,1 @@
-var mnemonic = "judge fabric asset make praise broken page remember game saddle suffer wage";
+var mnemonic = "wear grid sad foster cattle film access minute gospel dust fence vote";

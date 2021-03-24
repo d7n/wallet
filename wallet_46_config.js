@@ -1,1 +1,1 @@
-var mnemonic = "salad addict brand dizzy wire explain urge color supply menu sponsor casual";
+var mnemonic = "pledge quantum fine salad undo okay destroy champion jelly polar lawn wasp";

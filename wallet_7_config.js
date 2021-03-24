@@ -1,1 +1,1 @@
-var mnemonic = "fly calm atom library indicate option slender service light mouse install volcano";
+var mnemonic = "manage faint acquire airport asset flush unfold snake release loud inch dream";

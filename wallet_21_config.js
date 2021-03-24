@@ -1,1 +1,1 @@
-var mnemonic = "display almost warrior puzzle tortoise ice false yellow dress laugh oval wedding";
+var mnemonic = "trap wedding blood foam air demand tree doctor tragic knife lazy open";

@@ -1,1 +1,1 @@
-var mnemonic = "park release suggest eyebrow risk predict video hunt faint clever hard coast";
+var mnemonic = "approve dish wet future source improve focus wise great large divert toss";

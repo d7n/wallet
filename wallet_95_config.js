@@ -1,1 +1,1 @@
-var mnemonic = "foot salad average treat wet silver detect critic there response dial toy";
+var mnemonic = "toy lonely desk notice spawn rug always claw portion crash cream pet";

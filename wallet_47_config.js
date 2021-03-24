@@ -1,1 +1,1 @@
-var mnemonic = "matrix buffalo fatal unable grass harbor apology plastic draw maple build inhale";
+var mnemonic = "bamboo material bread walnut nothing awkward circle can boil enact tiger ensure";

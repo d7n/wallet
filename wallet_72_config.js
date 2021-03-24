@@ -1,1 +1,1 @@
-var mnemonic = "cloth twist knife valve merry devote enlist intact wonder abandon polar hint";
+var mnemonic = "multiply salute parrot surprise still stable test material neglect blur fancy increase";

@@ -1,1 +1,1 @@
-var mnemonic = "dose craft craft essay brisk ugly hollow other wink crew just typical";
+var mnemonic = "quality pistol midnight grab panel evidence home upgrade gun unusual rotate fancy";

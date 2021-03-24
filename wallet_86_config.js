@@ -1,1 +1,1 @@
-var mnemonic = "glove feed pool supreme lumber two undo glide pen lens enact net";
+var mnemonic = "cry dinner state library warfare dog begin mercy jealous raven ceiling symptom";

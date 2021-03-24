@@ -1,1 +1,1 @@
-var mnemonic = "weird absurd industry guide learn struggle sea person grace salt buzz steel";
+var mnemonic = "duck photo bench shed board audit elevator token attend unlock math high";

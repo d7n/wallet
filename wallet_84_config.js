@@ -1,1 +1,1 @@
-var mnemonic = "fix develop arm cable crumble scissors village method grant stadium hockey cupboard";
+var mnemonic = "market wear pulp ask bachelor detect pattern crouch train rice fossil first";

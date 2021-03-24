@@ -1,1 +1,1 @@
-var mnemonic = "total mobile heavy enemy element want distance craft spice vacuum venture brisk";
+var mnemonic = "cycle venture merry strike endorse artwork creek clip face recipe turtle fringe";

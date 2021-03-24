@@ -1,1 +1,1 @@
-var mnemonic = "master secret mean remember switch solar glad rapid enlist reunion more spin";
+var mnemonic = "own salmon length two like pencil swing jazz crop gain flee north";

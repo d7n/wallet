@@ -1,1 +1,1 @@
-var mnemonic = "tail execute release punch slush love lawn switch ketchup monitor width report";
+var mnemonic = "lend patch permit twist peasant else regret scan puppy ramp cover tray";

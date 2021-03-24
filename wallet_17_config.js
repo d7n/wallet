@@ -1,1 +1,1 @@
-var mnemonic = "blossom else good absurd check stadium afford fog ten extend involve glare";
+var mnemonic = "team swear salad become brown gaze night city twelve scissors blossom arrange";

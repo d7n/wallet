@@ -1,1 +1,1 @@
-var mnemonic = "fresh provide edge argue shiver laugh cereal ketchup frost when that sad";
+var mnemonic = "beauty hat drive minute strong once anxiety floor human skirt animal boil";

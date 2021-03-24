@@ -1,1 +1,1 @@
-var mnemonic = "dynamic stereo apart blind answer razor chuckle aerobic unable lens observe now";
+var mnemonic = "anchor someone era mansion ride chief egg breeze across gown gaze twice";

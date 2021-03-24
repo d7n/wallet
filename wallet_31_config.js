@@ -1,1 +1,1 @@
-var mnemonic = "document acquire evil pill gown luggage coast eight amount space slow such";
+var mnemonic = "wire pool hurdle accident slender ready surge sample mind alley tag subway";

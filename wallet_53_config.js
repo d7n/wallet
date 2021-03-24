@@ -1,1 +1,1 @@
-var mnemonic = "gossip art into budget priority leaf swing draw frost corn caution hedgehog";
+var mnemonic = "noise praise ball tower image guide motor year promote olive agree mistake";

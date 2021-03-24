@@ -1,1 +1,1 @@
-var mnemonic = "roof insect catch deputy taxi pistol bargain lottery various hold tenant suspect";
+var mnemonic = "spoon adult blur upon sorry category truck path action silent ripple lumber";

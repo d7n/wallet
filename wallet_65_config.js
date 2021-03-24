@@ -1,1 +1,1 @@
-var mnemonic = "tragic easy diamond drift muffin stick avocado achieve fatigue cabin summer rate";
+var mnemonic = "harbor throw little better brown cool usage protect correct erode denial vendor";

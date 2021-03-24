@@ -1,1 +1,1 @@
-var mnemonic = "sword cave video mosquito retire goddess sand struggle ozone purity cloud minute";
+var mnemonic = "burden thumb observe protect tourist visa travel village welcome bachelor evidence verb";

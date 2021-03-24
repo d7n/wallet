@@ -1,1 +1,1 @@
-var mnemonic = "bachelor sudden song actor drill luggage observe tape you panic where forward";
+var mnemonic = "kick retreat year increase always engage harvest false install hawk usage outdoor";

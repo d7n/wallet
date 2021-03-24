@@ -1,1 +1,1 @@
-var mnemonic = "tiny amazing yellow bid other rescue hotel camera skill cabin brick muscle";
+var mnemonic = "gossip city solar height muffin speak gain fabric unlock absorb during rely";

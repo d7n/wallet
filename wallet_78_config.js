@@ -1,1 +1,1 @@
-var mnemonic = "clerk sick hurdle satoshi mercy aunt answer advance question actor wait cattle";
+var mnemonic = "day entry reject orange outdoor require front pioneer endless castle solar unit";

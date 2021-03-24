@@ -1,1 +1,1 @@
-var mnemonic = "ceiling silent thrive festival gown elephant rural crack two pet narrow silver";
+var mnemonic = "coffee wisdom drip ready orient crucial fever paper sniff witness faculty volcano";

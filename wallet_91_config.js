@@ -1,1 +1,1 @@
-var mnemonic = "couple museum crush ask horse matter first cube lab vicious rebuild pudding";
+var mnemonic = "garbage animal bring return opinion veteran february object inside length trash alien";

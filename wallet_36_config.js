@@ -1,1 +1,1 @@
-var mnemonic = "account kit roof exchange high outdoor depart helmet trigger tenant marriage where";
+var mnemonic = "nuclear cabbage trigger wrestle blur message language humor beauty myth cluster spread";

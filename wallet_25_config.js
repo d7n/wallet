@@ -1,1 +1,1 @@
-var mnemonic = "rifle nephew bulk train mutual april add busy hat age wink they";
+var mnemonic = "hospital caution pencil brain hotel large van circle depend oak barely ocean";

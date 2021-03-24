@@ -1,1 +1,1 @@
-var mnemonic = "accident future circle bean treat fruit hire favorite during reopen team rent";
+var mnemonic = "convince advice assume core flock brother wire grunt bus give ball elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper stamp hamster unlock harvest bird income decrease bomb easy voice supreme";
+var mnemonic = "used waste depend kind festival history olive topic million merit off surround";

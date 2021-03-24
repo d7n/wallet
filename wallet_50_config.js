@@ -1,1 +1,1 @@
-var mnemonic = "advice wife clever explain aim prefer thunder broccoli sense crack fuel help";
+var mnemonic = "grant scrub reward catch answer second divert air soup party state penalty";

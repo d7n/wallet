@@ -1,1 +1,1 @@
-var mnemonic = "humor inform swallow unusual scare change ethics title staff tourist resist material";
+var mnemonic = "stage peasant north duty switch rare couple route depend barrel involve better";
