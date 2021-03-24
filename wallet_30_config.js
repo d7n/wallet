@@ -1,1 +1,1 @@
-var mnemonic = "scorpion cement bracket ranch guess ribbon empty napkin tomorrow order pet strong";
+var mnemonic = "unusual business fitness cool myth copper series pulp know habit patient magic";

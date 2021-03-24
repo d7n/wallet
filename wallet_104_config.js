@@ -1,1 +1,1 @@
-var mnemonic = "crawl wheel month shift culture recycle lumber holiday strike survey top dinosaur";
+var mnemonic = "side either saddle cost pluck lock save indoor update arrange pig region";

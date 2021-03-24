@@ -1,1 +1,1 @@
-var mnemonic = "rate matrix submit maximum miracle spike today orbit glare position dice clean";
+var mnemonic = "cage find any good album defy capable cushion old execute cat until";

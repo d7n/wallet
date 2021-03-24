@@ -1,1 +1,1 @@
-var mnemonic = "attitude camera recipe license actress silent address gospel lady manual middle office";
+var mnemonic = "now ancient universe already chief place gallery impulse window have novel dune";

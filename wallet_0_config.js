@@ -1,1 +1,1 @@
-var mnemonic = "spider measure detect labor exclude empty gorilla option knock net season expire";
+var mnemonic = "stomach auction shove simple orient east merge goddess jelly alarm devote curious";

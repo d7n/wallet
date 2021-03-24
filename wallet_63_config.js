@@ -1,1 +1,1 @@
-var mnemonic = "cushion buyer never hero story shoot knife file pepper nest rich peace";
+var mnemonic = "solar annual sponsor uniform slight act moral brisk climb letter useless become";

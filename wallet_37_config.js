@@ -1,1 +1,1 @@
-var mnemonic = "garbage half tell gain load path nation prepare kit clever face often";
+var mnemonic = "carpet lion toy crouch dry cash peace success express raise emerge output";

@@ -1,1 +1,1 @@
-var mnemonic = "trash glare remember language advance antique figure brief fly seed mutual special";
+var mnemonic = "report script hockey summer sail meadow bamboo wild near strike future fossil";

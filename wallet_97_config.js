@@ -1,1 +1,1 @@
-var mnemonic = "mechanic pelican victory join struggle shaft object estate gift gather usage olympic";
+var mnemonic = "wisdom silver metal math clerk visa mass tribe success person rebuild canyon";

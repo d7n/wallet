@@ -1,1 +1,1 @@
-var mnemonic = "earth wall token praise length also glory scan leg taxi mansion void";
+var mnemonic = "spoon nurse cancel bus oxygen unit child poet pluck boss choose depart";

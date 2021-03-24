@@ -1,1 +1,1 @@
-var mnemonic = "donkey ask main stay happy fragile yard soul gauge type galaxy siren";
+var mnemonic = "monkey loyal camp pencil purchase south heavy shrug now witness art rival";

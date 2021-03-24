@@ -1,1 +1,1 @@
-var mnemonic = "winter safe life sadness measure shell frame pig witness ribbon veteran flight";
+var mnemonic = "reveal injury balance romance car cupboard frog sail chronic ankle energy produce";

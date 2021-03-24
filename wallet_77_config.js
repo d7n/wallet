@@ -1,1 +1,1 @@
-var mnemonic = "drum guide wrestle stand mango popular lottery museum zero evil agent sketch";
+var mnemonic = "exit profit industry collect pause exist school shallow upgrade market burger minimum";

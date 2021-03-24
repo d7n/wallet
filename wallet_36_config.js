@@ -1,1 +1,1 @@
-var mnemonic = "equal reunion copy dove annual fame involve chest tuition tragic happy skate";
+var mnemonic = "diary own brass green flee long tennis dress argue material base card";

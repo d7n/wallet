@@ -1,1 +1,1 @@
-var mnemonic = "spider crush insect arrange sure toss section wrist nation crystal scrap outside";
+var mnemonic = "love measure fault meadow trust equip chest rather alone resemble vicious response";

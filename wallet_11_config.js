@@ -1,1 +1,1 @@
-var mnemonic = "recall all maze jump harsh puppy brave mind adjust palace shoot inner";
+var mnemonic = "weekend toe mimic stomach tribe few together tuition crew maximum retreat oppose";

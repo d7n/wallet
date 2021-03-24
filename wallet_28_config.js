@@ -1,1 +1,1 @@
-var mnemonic = "practice stereo tiny impact tool tonight bid tuna charge river abstract amazing";
+var mnemonic = "earth match arrange orient exclude act upset yard canoe repair churn menu";

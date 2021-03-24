@@ -1,1 +1,1 @@
-var mnemonic = "quarter off spice exile frown tuition connect hire ozone august inherit vanish";
+var mnemonic = "element health give ten tuition ask roof license dial ladder document era";

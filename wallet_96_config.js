@@ -1,1 +1,1 @@
-var mnemonic = "siren acid donate impact immense inspire explain region gown diagram truly dentist";
+var mnemonic = "cabin upset plug fork torch wire drift host adapt jewel moment renew";

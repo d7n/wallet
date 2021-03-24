@@ -1,1 +1,1 @@
-var mnemonic = "unable response bless shop switch lecture peace before discover great purse because";
+var mnemonic = "forget dog beach hood desert oval must snap invest lawsuit explain proud";

@@ -1,1 +1,1 @@
-var mnemonic = "client delay kiss home motion day lazy winter merry alpha census metal";
+var mnemonic = "crazy suspect front steel inner salon resemble zoo modify beauty hurry license";

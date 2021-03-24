@@ -1,1 +1,1 @@
-var mnemonic = "pause tide list solution light high together globe gain oxygen refuse eternal";
+var mnemonic = "sound almost list profit category someone limit prison junk raise document brass";

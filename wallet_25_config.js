@@ -1,1 +1,1 @@
-var mnemonic = "rotate distance loop similar twist gas click you orchard push marriage always";
+var mnemonic = "humble play cheap spare rich life uphold check marine educate weekend shoe";

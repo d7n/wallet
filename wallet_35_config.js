@@ -1,1 +1,1 @@
-var mnemonic = "lock cake spirit pizza hobby happy rival rotate ginger ball extra old";
+var mnemonic = "dolphin brush mutual frog arctic fabric umbrella soccer cup refuse century food";

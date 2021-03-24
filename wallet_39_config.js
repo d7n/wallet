@@ -1,1 +1,1 @@
-var mnemonic = "twelve spell replace target gas umbrella travel settle honey bulb bread puppy";
+var mnemonic = "pool rigid claw scene piece input old south plunge supreme glad unique";

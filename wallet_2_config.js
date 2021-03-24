@@ -1,1 +1,1 @@
-var mnemonic = "legal craft nest image pizza right exhaust amateur peanut curious wrist bean";
+var mnemonic = "success control famous hope chief coast submit side retreat hub push chalk";

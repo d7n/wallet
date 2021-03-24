@@ -1,1 +1,1 @@
-var mnemonic = "flash curve wish crash inmate gas insane slam hollow all funny income";
+var mnemonic = "cheese output surface sick method nest blossom talk camera soap treat safe";

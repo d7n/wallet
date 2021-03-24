@@ -1,1 +1,1 @@
-var mnemonic = "visit sunset foster viable broken loyal outer label voice wonder pulse sponsor";
+var mnemonic = "brisk impulse couple trim finger inner thunder ozone eager slim rough blue";

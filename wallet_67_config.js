@@ -1,1 +1,1 @@
-var mnemonic = "tube milk bracket board mail axis during obvious grow creek garbage dose";
+var mnemonic = "wife vocal mammal ring beyond attend room wing foot wedding anchor kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "friend slide luggage box donate brown head purchase upon song curious model";
+var mnemonic = "shrug story purchase home desk buyer toilet onion snake lake brisk moment";

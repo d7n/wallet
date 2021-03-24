@@ -1,1 +1,1 @@
-var mnemonic = "gate zone pretty obvious cinnamon pumpkin series obtain trash cage fault smile";
+var mnemonic = "pull media silver talent tip side wheat bomb photo subway tissue lamp";

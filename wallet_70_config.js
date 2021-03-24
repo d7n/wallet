@@ -1,1 +1,1 @@
-var mnemonic = "unique spread opera slush kiwi stamp tribe crush thought pulp loud common";
+var mnemonic = "moral smooth problem abandon curious donor until awake piece motor banner sorry";

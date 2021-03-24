@@ -1,1 +1,1 @@
-var mnemonic = "expect skill lift gadget gap fever case power observe night churn race";
+var mnemonic = "soccer forget scrub universe sea area alarm turn supreme cute acid increase";

@@ -1,1 +1,1 @@
-var mnemonic = "frame joke stage desert usual mobile alarm this never ostrich pony cupboard";
+var mnemonic = "whisper helmet grit have fault owner there impose rapid prefer always jungle";

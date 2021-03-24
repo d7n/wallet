@@ -1,1 +1,1 @@
-var mnemonic = "split syrup such gravity rhythm resemble garlic turtle asthma never autumn magnet";
+var mnemonic = "gather market office clog wave claim bleak expose proof modify detect cigar";

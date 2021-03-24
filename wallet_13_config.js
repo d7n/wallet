@@ -1,1 +1,1 @@
-var mnemonic = "large foam quality hotel relax shaft jazz boost surface citizen burst noise";
+var mnemonic = "unfold quiz ankle cash test guitar nut labor minor slender film load";

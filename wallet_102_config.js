@@ -1,1 +1,1 @@
-var mnemonic = "bottom north quantum hole artist found giant infant daughter regular carry athlete";
+var mnemonic = "name canyon account knife craft ordinary chase boring beauty pottery elegant vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "choice unveil outdoor announce mean tail hungry rather explain civil chef fan";
+var mnemonic = "machine nice knife rich duty across kite final convince select stamp work";

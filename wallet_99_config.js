@@ -1,1 +1,1 @@
-var mnemonic = "increase slow pink prepare pulse link music subway canyon unfold delay remain";
+var mnemonic = "dawn amateur siren theory six sure crop brand mesh seat tattoo area";

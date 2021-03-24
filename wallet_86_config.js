@@ -1,1 +1,1 @@
-var mnemonic = "cotton version hybrid excuse fancy core smile update aware crisp among song";
+var mnemonic = "drum scout next same embark bar sausage empty still enhance senior slot";

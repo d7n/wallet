@@ -1,1 +1,1 @@
-var mnemonic = "pole crop hospital essay metal buddy success eager benefit physical pulse safe";
+var mnemonic = "expose castle neutral symbol bomb festival apology lemon other food turn illness";

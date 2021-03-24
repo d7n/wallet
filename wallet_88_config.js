@@ -1,1 +1,1 @@
-var mnemonic = "excuse vital detect shift blanket this pave cable disorder fog morning file";
+var mnemonic = "earn warfare coconut list outer amateur notable broom vanish valve wedding relief";

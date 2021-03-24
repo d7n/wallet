@@ -1,1 +1,1 @@
-var mnemonic = "swamp pause thing vault ankle biology raise pear sock woman digital gap";
+var mnemonic = "green immense ketchup emotion cover shove awesome enlist antenna repair system fork";

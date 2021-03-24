@@ -1,1 +1,1 @@
-var mnemonic = "soon rain error sphere tail add aspect used wait strike monster this";
+var mnemonic = "rotate ritual cream weasel health child era select appear business addict fire";

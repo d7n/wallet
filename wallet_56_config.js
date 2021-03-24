@@ -1,1 +1,1 @@
-var mnemonic = "head chronic parade awful rice legal invest leg express loan party grace";
+var mnemonic = "addict filter sunset vault hard inherit silver logic right patch neglect gain";

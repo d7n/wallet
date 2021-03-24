@@ -1,1 +1,1 @@
-var mnemonic = "warrior wrap blossom click weird weird danger need stick mechanic hub festival";
+var mnemonic = "critic invest usage topic any winner argue layer obtain squirrel evidence early";

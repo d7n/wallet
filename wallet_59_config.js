@@ -1,1 +1,1 @@
-var mnemonic = "arm hybrid ice celery thing raven draw picture duck connect tiger modify";
+var mnemonic = "quarter account guess load tiger frequent odor chapter combine paper alter home";

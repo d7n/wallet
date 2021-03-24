@@ -1,1 +1,1 @@
-var mnemonic = "drip very junior peasant pilot receive farm crater same crowd rocket gesture";
+var mnemonic = "suggest citizen throw humble chat journey open pause insect exhaust breeze right";

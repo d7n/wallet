@@ -1,1 +1,1 @@
-var mnemonic = "list end today uniform point refuse caution copy convince swarm example scout";
+var mnemonic = "honey impose repeat since genre luggage indicate column bid slim embody muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong boil holiday coffee brand strike tackle define antenna deny high govern";
+var mnemonic = "absorb grape furnace reduce picnic child actual victory garment refuse neutral sense";

@@ -1,1 +1,1 @@
-var mnemonic = "run author squirrel polar horn kidney kite talk upgrade churn valve tail";
+var mnemonic = "bomb reopen mouse language pelican dry tray accuse demand slice neither urban";

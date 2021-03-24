@@ -1,1 +1,1 @@
-var mnemonic = "page express vacuum never cart timber clerk hover wire address alarm silk";
+var mnemonic = "fantasy small vivid radio library torch spend car captain grid until glass";

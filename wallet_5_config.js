@@ -1,1 +1,1 @@
-var mnemonic = "text raccoon entire curve need inside tomorrow burger limb suspect wrestle deal";
+var mnemonic = "lamp garage opera often ill duty market humble jewel invest stone tiger";

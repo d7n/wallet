@@ -1,1 +1,1 @@
-var mnemonic = "craft toss anxiety toy priority hurt fruit layer denial hungry island depth";
+var mnemonic = "slam until will middle height case case broccoli eternal discover sell sell";

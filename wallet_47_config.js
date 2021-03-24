@@ -1,1 +1,1 @@
-var mnemonic = "local ladder uncle parent outdoor design impact coin scan voice exile copy";
+var mnemonic = "affair siege detail riot shoulder release entire much spice village sad smile";

@@ -1,1 +1,1 @@
-var mnemonic = "page fire large foam toe panic trip paper spider fruit discover abuse";
+var mnemonic = "never real chimney mystery spoil winner practice grid mixed empower champion ketchup";

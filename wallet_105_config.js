@@ -1,1 +1,1 @@
-var mnemonic = "matter reopen symbol cram guide castle empty disorder nothing grief style company";
+var mnemonic = "nurse tumble bronze edge patient loop prize pluck struggle vast torch allow";

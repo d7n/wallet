@@ -1,1 +1,1 @@
-var mnemonic = "improve electric real person weather page sorry auction core balance toilet depth";
+var mnemonic = "modify dawn awkward end corn buddy doctor donor ceiling resist mesh club";

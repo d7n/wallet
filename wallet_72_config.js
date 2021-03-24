@@ -1,1 +1,1 @@
-var mnemonic = "agree chalk write calm response fresh piano write size spray barrel relax";
+var mnemonic = "voyage doctor result heavy noise cook diet album poet bacon weird above";

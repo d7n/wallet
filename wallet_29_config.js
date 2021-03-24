@@ -1,1 +1,1 @@
-var mnemonic = "decline mirror kangaroo domain final thing crouch relief output street lava someone";
+var mnemonic = "artefact twelve online science artist verb asthma bright tuition artist pond width";

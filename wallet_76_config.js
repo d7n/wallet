@@ -1,1 +1,1 @@
-var mnemonic = "session armor sun town pepper federal already define sketch bring talk confirm";
+var mnemonic = "company diamond quality cloth banana reward artwork demise trial famous twelve modify";

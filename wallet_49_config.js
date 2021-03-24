@@ -1,1 +1,1 @@
-var mnemonic = "school rain ecology hawk apple system shuffle beauty track glare polar crawl";
+var mnemonic = "cake exchange demise symbol episode bottom hundred alert always shove mouse jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "false ticket reason ensure smart boy rookie weekend shiver plate hair tornado";
+var mnemonic = "seminar solution sign wealth mass effort acid lucky mistake scissors scale clerk";

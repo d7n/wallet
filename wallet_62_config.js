@@ -1,1 +1,1 @@
-var mnemonic = "punch basket script horror vault glance era captain receive garden leaf avocado";
+var mnemonic = "glare exotic result corn square resemble staff miss embark benefit apology jaguar";

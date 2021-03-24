@@ -1,1 +1,1 @@
-var mnemonic = "funny cement return sunset library divorce reason garage about grab wool way";
+var mnemonic = "hill lunar quality melt ski alert shed brother monitor then magnet solid";

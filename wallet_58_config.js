@@ -1,1 +1,1 @@
-var mnemonic = "soda mean plug coin main then similar electric loyal toy beach hair";
+var mnemonic = "pond obtain visual grab price unhappy swing toy biology boil front track";

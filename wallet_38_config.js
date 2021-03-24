@@ -1,1 +1,1 @@
-var mnemonic = "voice simple raccoon dentist vibrant clean slot mammal gasp thrive trouble shock";
+var mnemonic = "fuel scrub fold accuse increase boat access filter choose merry recall nothing";

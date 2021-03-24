@@ -1,1 +1,1 @@
-var mnemonic = "balance ancient outdoor boat range clip twice census pause near credit stick";
+var mnemonic = "lesson purity scatter film undo tell crime identify cactus surge fame husband";

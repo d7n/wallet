@@ -1,1 +1,1 @@
-var mnemonic = "parade circle hint valve green example ethics puppy mind shock island essence";
+var mnemonic = "document plate stick joy pattern bulb present exile any grant angle heavy";

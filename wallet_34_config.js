@@ -1,1 +1,1 @@
-var mnemonic = "garden chat razor black brother unusual bar birth jacket ritual iron embark";
+var mnemonic = "bracket woman sweet flat horror excess crumble symbol curious velvet leg turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "drive key hundred unit need mutual sheriff crouch wise mother blush worth";
+var mnemonic = "glove trust similar shoe joke sunny matter slush gate inspire setup fossil";

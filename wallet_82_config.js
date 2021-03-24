@@ -1,1 +1,1 @@
-var mnemonic = "host box mention subject involve churn zoo utility wing syrup code one";
+var mnemonic = "brief crucial few random rifle warfare message modify elephant clay alien street";

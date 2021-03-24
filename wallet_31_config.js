@@ -1,1 +1,1 @@
-var mnemonic = "view slight antique bid outside bachelor sing media genius drum chicken net";
+var mnemonic = "crucial chimney phrase trust parent clever segment pattern height ignore mansion easily";

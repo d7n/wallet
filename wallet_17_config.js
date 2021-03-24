@@ -1,1 +1,1 @@
-var mnemonic = "demise twin slight when already choose tilt emotion undo auto mad romance";
+var mnemonic = "announce because empower ignore city text saddle profit gospel layer mad admit";

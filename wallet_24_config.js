@@ -1,1 +1,1 @@
-var mnemonic = "word work minor scene ship bleak this fitness rally vocal slide bind";
+var mnemonic = "connect output steak govern maximum food mosquito embody describe impact hard midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors antenna ritual club hurt crane street dwarf agree proud name height";
+var mnemonic = "canyon intact spoil distance laundry panda sick siege upon echo kidney chair";

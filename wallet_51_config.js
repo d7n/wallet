@@ -1,1 +1,1 @@
-var mnemonic = "lucky allow donkey oblige will elbow crazy chief slow gallery fantasy mixed";
+var mnemonic = "ignore speak midnight possible forest cool review library bamboo beach leopard veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost trophy couch hair regular strong panic valid session void owner fall";
+var mnemonic = "salmon relief jacket family wool dial meadow devote whisper flash shrug equal";

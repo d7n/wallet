@@ -1,1 +1,1 @@
-var mnemonic = "exact maze wool glove thought reason outdoor hill umbrella where fetch edge";
+var mnemonic = "tornado fit winner fat high idea animal catch grain fold pulp equip";

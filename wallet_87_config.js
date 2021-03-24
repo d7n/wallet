@@ -1,1 +1,1 @@
-var mnemonic = "face burst mass hunt marriage myself leader stand tumble lend kid cross";
+var mnemonic = "output brass multiply harvest shy ridge cost fame abstract foam key program";

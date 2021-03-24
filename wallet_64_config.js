@@ -1,1 +1,1 @@
-var mnemonic = "language region depth work matter fork session oak cruel journey unknown present";
+var mnemonic = "citizen viable twin clutch enjoy shock truck civil moral build own toy";

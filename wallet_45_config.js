@@ -1,1 +1,1 @@
-var mnemonic = "found orient coil lemon scout relief wink earth prosper hair impulse brass";
+var mnemonic = "front position poverty decade onion shoulder crisp success cart cactus wrist monster";

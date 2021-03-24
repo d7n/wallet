@@ -1,1 +1,1 @@
-var mnemonic = "front grass hub census usage local belt monster return science crystal develop";
+var mnemonic = "potato emerge angry crane fence right casual industry rival list immune high";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction theme flight romance bulb sort theme second adjust apple scan arrive";
+var mnemonic = "matrix network laundry metal abstract endless gorilla appear cost brush legend hen";

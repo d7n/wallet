@@ -1,1 +1,1 @@
-var mnemonic = "flat relief movie case famous antique select panther inch one tortoise upon";
+var mnemonic = "seed typical find hour agree side funny erupt reason like modify rack";

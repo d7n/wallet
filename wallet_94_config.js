@@ -1,1 +1,1 @@
-var mnemonic = "shock defy dignity marriage advice bicycle success eight harsh scale large unfold";
+var mnemonic = "long country heart sell advice charge lend awful thunder load lounge sail";
