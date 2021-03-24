@@ -1,1 +1,1 @@
-var mnemonic = "snow dune topple corn orchard wool scene reduce soda arena frown lion";
+var mnemonic = "buyer blue want lobster diesel abandon denial tattoo spatial loud price announce";

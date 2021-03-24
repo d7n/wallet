@@ -1,1 +1,1 @@
-var mnemonic = "violin pioneer circle hunt teach fun unhappy lazy slight disease toe plate";
+var mnemonic = "rebuild crawl recycle inch undo enable conduct inquiry second give earn tail";

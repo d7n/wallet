@@ -1,1 +1,1 @@
-var mnemonic = "rebel soap umbrella occur stock noise clay immune cruise neglect evolve table";
+var mnemonic = "hip more pottery rack answer kitchen into gift runway grit delay orient";

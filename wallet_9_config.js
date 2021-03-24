@@ -1,1 +1,1 @@
-var mnemonic = "chunk apology blouse six season phrase flag cloud expect tip boss broom";
+var mnemonic = "erase bag breeze birth mosquito physical bronze funny smoke embody forward erode";

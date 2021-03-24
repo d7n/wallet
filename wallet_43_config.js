@@ -1,1 +1,1 @@
-var mnemonic = "obtain shaft oblige avocado welcome near long chronic clay powder monster tank";
+var mnemonic = "metal upper pitch piece novel tent problem build caught valid mention tonight";

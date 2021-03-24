@@ -1,1 +1,1 @@
-var mnemonic = "layer brain swift shove crash sign slab move emerge nasty bounce barrel";
+var mnemonic = "verify crater dry punch friend nose pledge rose decorate warfare foster discover";

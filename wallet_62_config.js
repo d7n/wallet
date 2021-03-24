@@ -1,1 +1,1 @@
-var mnemonic = "joke flame source marine repair enlist rapid gorilla good arrest fever hair";
+var mnemonic = "dirt chunk vivid add yard crawl session hungry miss virtual wait blade";

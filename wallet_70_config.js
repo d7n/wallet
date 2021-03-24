@@ -1,1 +1,1 @@
-var mnemonic = "vault pepper park minimum valve ball better you off release super dove";
+var mnemonic = "slender inflict crawl arrange ready legal pelican gesture square cross cream sweet";

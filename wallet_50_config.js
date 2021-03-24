@@ -1,1 +1,1 @@
-var mnemonic = "length journey master adapt caught matrix mean regret never outside cash panic";
+var mnemonic = "twice reveal novel crane chief arena aisle castle bread weapon want fog";

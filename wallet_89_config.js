@@ -1,1 +1,1 @@
-var mnemonic = "robust print unknown fog dismiss portion ancient crouch chef figure unit patrol";
+var mnemonic = "kiss owner cherry into sing barrel capable brush interest rocket fluid lift";

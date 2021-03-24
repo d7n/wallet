@@ -1,1 +1,1 @@
-var mnemonic = "token mom renew borrow type wild hospital two fan portion uncle travel";
+var mnemonic = "day rifle other title west first link gate bike seek develop sample";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive noise horror endorse bulb meadow sock fiber casino panther boss subway";
+var mnemonic = "cannon cake rookie slush fall fox dove surface solid increase spoon erupt";

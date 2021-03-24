@@ -1,1 +1,1 @@
-var mnemonic = "lava pink arrive hawk twin settle surprise fly party vehicle tissue unable";
+var mnemonic = "onion inner news use outer pet grow cry craft drip art tissue";

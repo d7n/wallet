@@ -1,1 +1,1 @@
-var mnemonic = "alone reform movie side surface network hover wet farm planet kitchen license";
+var mnemonic = "divert gloom maze grief soft permit genius silk brisk net cash patient";

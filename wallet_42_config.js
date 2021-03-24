@@ -1,1 +1,1 @@
-var mnemonic = "awake monitor addict health gloom burst notice gold omit myth cake omit";
+var mnemonic = "point biology mosquito daughter carpet spoon toy scissors balance bulk plate enjoy";

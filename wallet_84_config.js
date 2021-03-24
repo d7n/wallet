@@ -1,1 +1,1 @@
-var mnemonic = "around guard ship logic robot immune february upset shuffle head gesture salt";
+var mnemonic = "emotion fence key path picnic mix olympic balcony empower happy ahead axis";

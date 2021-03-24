@@ -1,1 +1,1 @@
-var mnemonic = "fuel dismiss then journey buffalo aspect purse humor mom train crunch hover";
+var mnemonic = "wealth outer barrel fatal analyst used apology barely expose earth arrange stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder cannon mask joke lyrics violin boat company gown pool keep occur";
+var mnemonic = "onion unfair liquid again vicious spirit shoot push pretty deal miracle client";

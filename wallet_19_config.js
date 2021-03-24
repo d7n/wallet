@@ -1,1 +1,1 @@
-var mnemonic = "ceiling congress monster rescue change settle render grief frame camera unfair opera";
+var mnemonic = "ivory special any test tent believe sunny adult foster forward east shift";

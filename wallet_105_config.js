@@ -1,1 +1,1 @@
-var mnemonic = "rubber awake ask assist tag move dress ski ten shiver come humor";
+var mnemonic = "settle lecture bullet rapid shove ride weasel spend wing village kick roof";

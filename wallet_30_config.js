@@ -1,1 +1,1 @@
-var mnemonic = "off paddle thunder alone express shell claw flight genuine pelican height hurt";
+var mnemonic = "element donate nothing output arrow minimum border banner filter nurse crawl faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "butter express setup mass million problem page evidence fever pen biology despair";
+var mnemonic = "tornado warfare subject link dune cluster own bracket present junk bar minute";

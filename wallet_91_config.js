@@ -1,1 +1,1 @@
-var mnemonic = "pride sunny angle bench empty cover essay carbon bar material fat invite";
+var mnemonic = "carbon custom proof cart employ federal torch citizen two ceiling autumn achieve";

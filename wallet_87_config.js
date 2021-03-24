@@ -1,1 +1,1 @@
-var mnemonic = "roof frozen prosper fossil action page wild rather quote blush general snow";
+var mnemonic = "welcome aware magnet choose poem bachelor candy absorb robust silver pupil connect";

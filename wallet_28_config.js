@@ -1,1 +1,1 @@
-var mnemonic = "endorse chuckle because sport mosquito vessel dog soda useful left certain zebra";
+var mnemonic = "agree pair bean enemy rug decrease total hamster attract avocado denial vanish";

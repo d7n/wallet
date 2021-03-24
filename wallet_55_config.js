@@ -1,1 +1,1 @@
-var mnemonic = "stamp alley music umbrella later employ upset virus pilot drive slam element";
+var mnemonic = "cram behave excite siren pepper car lounge whale spell rack simple top";

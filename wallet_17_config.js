@@ -1,1 +1,1 @@
-var mnemonic = "coin used hybrid mistake laptop sad loan gossip torch method adapt border";
+var mnemonic = "add click solve vivid hub soccer nothing card other climb program cradle";

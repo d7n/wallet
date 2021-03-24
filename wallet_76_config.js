@@ -1,1 +1,1 @@
-var mnemonic = "company parrot destroy load because model quote service umbrella mushroom tool worry";
+var mnemonic = "sing they bring later bacon tissue echo parade squirrel release cinnamon minimum";

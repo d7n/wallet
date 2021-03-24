@@ -1,1 +1,1 @@
-var mnemonic = "cake tooth staff print trade curious stable liquid shrug mechanic cactus lizard";
+var mnemonic = "gun custom spread payment know kick wild borrow alert firm laundry giant";

@@ -1,1 +1,1 @@
-var mnemonic = "govern photo aware rhythm rescue arctic north ribbon during trophy razor coin";
+var mnemonic = "virtual ramp web rally wrong trouble reopen camera truth floor design ancient";

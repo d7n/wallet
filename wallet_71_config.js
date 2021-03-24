@@ -1,1 +1,1 @@
-var mnemonic = "category enjoy sheriff junk cover vintage retire behind message leisure total finger";
+var mnemonic = "poverty brush nuclear write govern immense hen acoustic clean all clip fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "auction moral search marriage solve rule vital narrow depth still fall half";
+var mnemonic = "they violin wagon mandate mimic hockey ostrich host magic empower parrot vote";

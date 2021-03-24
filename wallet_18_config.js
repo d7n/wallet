@@ -1,1 +1,1 @@
-var mnemonic = "next harbor topple credit news denial beef muscle win afraid slogan laundry";
+var mnemonic = "utility dirt bid amazing sand suggest hawk return tourist twice laundry witness";

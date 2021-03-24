@@ -1,1 +1,1 @@
-var mnemonic = "public best riot dinner alien spend dove mean guess rude cheese slight";
+var mnemonic = "captain guess desert pool cherry energy kiss truth cable candy chicken result";

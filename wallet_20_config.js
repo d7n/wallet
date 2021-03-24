@@ -1,1 +1,1 @@
-var mnemonic = "two reflect movie drama raw immense unusual unfold enlist away roof clump";
+var mnemonic = "lend post family silent swear atom hammer priority bargain early physical poverty";

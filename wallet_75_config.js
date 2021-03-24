@@ -1,1 +1,1 @@
-var mnemonic = "great coffee boss cool metal wonder soup sorry energy cash crack decrease";
+var mnemonic = "invest deal crucial south defy ski adapt tree absent asset box divide";

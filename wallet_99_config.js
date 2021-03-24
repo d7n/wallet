@@ -1,1 +1,1 @@
-var mnemonic = "enforce sugar index someone donkey pause utility media enable food smart hurt";
+var mnemonic = "item car whip organ come cliff wine fault merge credit spot punch";

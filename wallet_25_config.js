@@ -1,1 +1,1 @@
-var mnemonic = "asset system absorb skate interest nest goddess bargain donkey employ butter liberty";
+var mnemonic = "dentist glance chapter lucky lecture cage whisper possible deputy pigeon crystal unable";

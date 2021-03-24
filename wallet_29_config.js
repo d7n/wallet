@@ -1,1 +1,1 @@
-var mnemonic = "dial lunar mountain under earn flip december divorce frequent winter finger run";
+var mnemonic = "legend whale spray pen embark equip orchard subject adapt service fire consider";

@@ -1,1 +1,1 @@
-var mnemonic = "green short off injury keep flame enemy view air mad nasty panther";
+var mnemonic = "garlic arrow warfare riot consider harsh text tongue still twelve design cable";

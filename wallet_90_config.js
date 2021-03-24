@@ -1,1 +1,1 @@
-var mnemonic = "middle silk oblige rich absurd amount trial grid snack ketchup paddle pill";
+var mnemonic = "canyon build mule tribe stereo type winter stick tip put eye surprise";

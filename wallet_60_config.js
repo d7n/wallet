@@ -1,1 +1,1 @@
-var mnemonic = "crucial near near case poet wisdom already exhaust swap shaft void key";
+var mnemonic = "april dinner robot sign arm tip raise energy cable number shock neutral";

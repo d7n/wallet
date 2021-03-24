@@ -1,1 +1,1 @@
-var mnemonic = "eight palm medal sauce file detect viable wide bread teach lucky quote";
+var mnemonic = "dose live cook document palm barely book valve sword seed parade vault";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch oxygen merry noise brown strike valid habit army issue prefer rigid";
+var mnemonic = "narrow because sport alpha now pistol say cabbage fetch blast erode outdoor";

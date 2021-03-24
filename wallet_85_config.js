@@ -1,1 +1,1 @@
-var mnemonic = "doctor use human address uphold bomb jaguar evoke that man bread raccoon";
+var mnemonic = "foster health visa choose paper loop clerk mass inflict try still color";

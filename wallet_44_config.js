@@ -1,1 +1,1 @@
-var mnemonic = "limb inch obvious omit delay stone later escape raccoon predict stand feature";
+var mnemonic = "material sting jacket differ endorse royal brush middle ozone token edit penalty";

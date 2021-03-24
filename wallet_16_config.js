@@ -1,1 +1,1 @@
-var mnemonic = "then wish behave mix country off sphere face casino slam smart leader";
+var mnemonic = "scene disorder decide donor crazy crush rigid culture town alley injury able";

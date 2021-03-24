@@ -1,1 +1,1 @@
-var mnemonic = "vanish air cute gravity park delay ticket shaft obey advice kiwi victory";
+var mnemonic = "error math extra float sorry build machine tribe odor arena empower pig";

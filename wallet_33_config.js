@@ -1,1 +1,1 @@
-var mnemonic = "foster tooth minimum uphold donkey candy electric explain april distance elegant zone";
+var mnemonic = "regret design quality lazy quality owner cabbage destroy suffer doll fence gesture";

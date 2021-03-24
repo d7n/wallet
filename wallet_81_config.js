@@ -1,1 +1,1 @@
-var mnemonic = "tomato dress hospital skate flock option analyst plastic spike social club basket";
+var mnemonic = "boss obvious either reward tissue chalk element because suffer gate soft sibling";

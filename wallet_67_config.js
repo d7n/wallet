@@ -1,1 +1,1 @@
-var mnemonic = "sunset another duck moment resist close best segment waste year damp wolf";
+var mnemonic = "jaguar shed solid program someone home viable hub animal tilt illegal name";

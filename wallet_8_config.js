@@ -1,1 +1,1 @@
-var mnemonic = "divorce shoulder become power chest basic canvas humble ready muscle bulb quarter";
+var mnemonic = "roof caution disease reform merit diary diagram table image salt spare believe";

@@ -1,1 +1,1 @@
-var mnemonic = "lion video small wool bomb toddler obey oyster glory race loan demand";
+var mnemonic = "lumber record joke car marble pole fine planet raccoon brown dolphin okay";

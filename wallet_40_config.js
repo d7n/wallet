@@ -1,1 +1,1 @@
-var mnemonic = "wish chimney injury crater three twelve pause defy differ also much obtain";
+var mnemonic = "oxygen sponsor suit local harvest section verb veteran hazard fortune company giant";

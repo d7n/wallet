@@ -1,1 +1,1 @@
-var mnemonic = "invite vacant tortoise monkey never cross trend fresh vessel physical first clock";
+var mnemonic = "couch slogan identify benefit cabbage notable roast endorse scale matter romance flash";

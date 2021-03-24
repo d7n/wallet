@@ -1,1 +1,1 @@
-var mnemonic = "brand lift paper risk curtain roast lake robot window sight reduce quote";
+var mnemonic = "betray sunset helmet couple include arm blur kingdom fury this turn purchase";

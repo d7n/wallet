@@ -1,1 +1,1 @@
-var mnemonic = "empower surface shoulder stand cage misery uncle electric outer version prosper olive";
+var mnemonic = "praise rhythm position wealth diet flock canoe mistake powder fatal reduce sand";

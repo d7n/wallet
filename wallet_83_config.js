@@ -1,1 +1,1 @@
-var mnemonic = "tube victory water laundry analyst need exit cube loyal bone negative cattle";
+var mnemonic = "habit play eyebrow connect gadget coach rug escape despair empty replace fade";

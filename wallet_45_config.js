@@ -1,1 +1,1 @@
-var mnemonic = "soup bleak noise more rally cool tongue search dove snake agree similar";
+var mnemonic = "public buddy found cook disagree brass spoon ice south floor trick mention";

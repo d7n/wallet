@@ -1,1 +1,1 @@
-var mnemonic = "test verify wear acquire course injury kangaroo diagram rude shift absent million";
+var mnemonic = "total soap move limit suit tourist eternal banner flat ice subject tuition";

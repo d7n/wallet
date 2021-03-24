@@ -1,1 +1,1 @@
-var mnemonic = "where student vehicle finger juice own vessel isolate naive limb random lake";
+var mnemonic = "grocery remove above issue situate sheriff rural find payment faculty congress cereal";

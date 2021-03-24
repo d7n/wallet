@@ -1,1 +1,1 @@
-var mnemonic = "broom disorder chapter priority rice shy various absurd bread snack morning high";
+var mnemonic = "dad early satoshi machine mask hundred ship sustain valve goat student black";

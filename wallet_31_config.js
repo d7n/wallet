@@ -1,1 +1,1 @@
-var mnemonic = "marble word dress mirror sheriff fetch come universe medal trade cigar improve";
+var mnemonic = "divorce angle cat mix bulb assault network furnace anger various same table";

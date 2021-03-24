@@ -1,1 +1,1 @@
-var mnemonic = "vendor grow turkey believe this voyage crater border day seven ship muscle";
+var mnemonic = "bean hint style exist rather cluster hill unable oven leave town helmet";

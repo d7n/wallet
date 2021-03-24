@@ -1,1 +1,1 @@
-var mnemonic = "inflict prevent ripple pipe trash between horse breeze oblige ahead dignity alone";
+var mnemonic = "egg brief entry pink typical wise execute card man axis raise home";

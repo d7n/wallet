@@ -1,1 +1,1 @@
-var mnemonic = "arrest ghost glide rhythm hole foot goat detect hurdle dish media number";
+var mnemonic = "settle mushroom credit click burst slab track useful aware advance fitness virtual";

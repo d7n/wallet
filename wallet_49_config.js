@@ -1,1 +1,1 @@
-var mnemonic = "danger forward unusual credit beef industry good ranch float prosper logic poet";
+var mnemonic = "marine pony game sun sketch bleak draw ship identify start poverty cat";

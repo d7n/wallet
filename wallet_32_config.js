@@ -1,1 +1,1 @@
-var mnemonic = "actress soccer only final author inner river raccoon insane barely angry second";
+var mnemonic = "tape want promote lake picnic pull leaf injury desk medal profit melt";

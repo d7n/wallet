@@ -1,1 +1,1 @@
-var mnemonic = "trumpet able sponsor stove gorilla mixed flower exhaust economy imitate abandon waste";
+var mnemonic = "weapon vocal walnut job salad resemble absorb hard great congress pumpkin mail";

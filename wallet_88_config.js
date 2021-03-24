@@ -1,1 +1,1 @@
-var mnemonic = "gun just clarify attitude film measure wool enable peanut faint sail anchor";
+var mnemonic = "tornado vivid option practice gym sunny minimum virtual order buddy gallery accuse";

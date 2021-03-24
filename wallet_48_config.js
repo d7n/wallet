@@ -1,1 +1,1 @@
-var mnemonic = "advice step toward release seat very rice salon mean public rib area";
+var mnemonic = "sell gallery belt diesel ugly hurry balance crop chapter mango narrow tree";

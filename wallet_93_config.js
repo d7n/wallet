@@ -1,1 +1,1 @@
-var mnemonic = "blue spend grass license identify elevator city insect stool upper goddess car";
+var mnemonic = "cry pitch dice penalty language arena enable style excuse edit isolate miracle";

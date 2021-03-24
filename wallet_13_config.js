@@ -1,1 +1,1 @@
-var mnemonic = "run rather brother settle icon spice cave cluster fossil danger brand among";
+var mnemonic = "share enlist occur suggest gather borrow dismiss casual state myth nominee pull";

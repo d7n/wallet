@@ -1,1 +1,1 @@
-var mnemonic = "student young confirm since cluster gain sheriff way cactus situate success analyst";
+var mnemonic = "strike jump change wait tunnel topic unaware river butter helmet parade frown";

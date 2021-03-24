@@ -1,1 +1,1 @@
-var mnemonic = "field exist kiwi current day issue vacant debate theme woman oppose arena";
+var mnemonic = "clump mesh pet lawn fluid check tragic act kit drum hip lawsuit";

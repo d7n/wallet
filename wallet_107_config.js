@@ -1,1 +1,1 @@
-var mnemonic = "unable title sure cover gather wreck erupt answer brush valid wrap pole";
+var mnemonic = "flash decide humble salt toward father prevent guard morning episode sleep agent";

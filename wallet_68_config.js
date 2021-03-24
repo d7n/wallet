@@ -1,1 +1,1 @@
-var mnemonic = "ketchup payment roast sunset knee drip timber benefit food expand around elephant";
+var mnemonic = "hole obey trip chef naive yard help rain wood cool autumn you";

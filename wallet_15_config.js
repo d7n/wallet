@@ -1,1 +1,1 @@
-var mnemonic = "goat candy coast adjust dentist nature bottom piece life fish there dice";
+var mnemonic = "grid coin hero dream goat normal liar immense organ evolve ski arrange";

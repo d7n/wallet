@@ -1,1 +1,1 @@
-var mnemonic = "identify retreat man year fold cigar slow gaze develop now very inherit";
+var mnemonic = "awesome bomb raccoon coral job unique oxygen fossil initial occur scatter jaguar";

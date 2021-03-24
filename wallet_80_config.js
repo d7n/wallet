@@ -1,1 +1,1 @@
-var mnemonic = "silver cinnamon pioneer city mother nurse demand fatigue shoulder imitate leader train";
+var mnemonic = "deer elite anxiety toddler easy picnic type miracle meadow dry survey swim";

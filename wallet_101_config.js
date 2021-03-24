@@ -1,1 +1,1 @@
-var mnemonic = "toy crop misery social fly will rival video often session patch actor";
+var mnemonic = "sunset never setup pepper flower bicycle earth select finger blouse someone update";

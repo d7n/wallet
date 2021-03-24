@@ -1,1 +1,1 @@
-var mnemonic = "aspect smile chaos coil unique urban tourist silver current way risk outdoor";
+var mnemonic = "bench potato usage retreat junk soda mobile obvious notice cry same chunk";

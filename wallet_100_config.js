@@ -1,1 +1,1 @@
-var mnemonic = "track ketchup shadow fiscal north confirm voice punch finger clip bubble dose";
+var mnemonic = "valid list business deputy cat hair neck seed trial sting act luggage";

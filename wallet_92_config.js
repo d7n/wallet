@@ -1,1 +1,1 @@
-var mnemonic = "foot about summer negative grain famous museum inside crash shrimp boat split";
+var mnemonic = "buffalo document kit pioneer blast pause crucial oven divorce broccoli flip fan";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp skin easily wait grant ride puzzle surface gas color equip manage";
+var mnemonic = "table warrior cake wonder spray runway portion someone snow draw maple leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow door pass woman core carpet actual rival repeat law act bench";
+var mnemonic = "unit soul spider sense atom wrist piece poet wisdom oval bracket regular";

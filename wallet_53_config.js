@@ -1,1 +1,1 @@
-var mnemonic = "grunt minute issue village mutual screen diary talent buyer trip speak retreat";
+var mnemonic = "phone arctic jewel then defense park witness ginger decade achieve already horse";

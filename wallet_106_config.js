@@ -1,1 +1,1 @@
-var mnemonic = "couple cancel six balance shiver slot floor car slide oyster extend second";
+var mnemonic = "receive visa dilemma property spare violin hair strike unaware horse layer neck";

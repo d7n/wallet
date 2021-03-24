@@ -1,1 +1,1 @@
-var mnemonic = "miss charge note sport smooth culture crane vault journey stuff right federal";
+var mnemonic = "drum logic bunker senior child food drill because garbage siren leave twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "economy slab dry surround neither inherit hedgehog winter model toss guitar upset";
+var mnemonic = "decorate region human awesome coffee math online tobacco lock educate girl brisk";

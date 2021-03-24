@@ -1,1 +1,1 @@
-var mnemonic = "still recall rocket human vibrant crouch glide rhythm slush gesture forum salmon";
+var mnemonic = "cruise idea globe chaos day eye brown blood agree illness clutch upset";

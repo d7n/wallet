@@ -1,1 +1,1 @@
-var mnemonic = "method turkey solve device peace wash dust ribbon lawsuit bachelor kidney load";
+var mnemonic = "fabric sibling cherry voice spawn pencil skirt female tragic there brass struggle";
