@@ -1,1 +1,1 @@
-var mnemonic = "effort diet service bulk escape return claim legal battle similar suspect rice";
+var mnemonic = "husband sponsor doll digital iron inform average simple indicate upgrade sugar lyrics";

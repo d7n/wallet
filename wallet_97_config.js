@@ -1,1 +1,1 @@
-var mnemonic = "cancel arrow they outer insect celery mask split airport lab blossom fossil";
+var mnemonic = "essay renew short conduct creek easy you drink shock quit control alien";

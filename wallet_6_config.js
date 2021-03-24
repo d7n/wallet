@@ -1,1 +1,1 @@
-var mnemonic = "bar improve tragic rose pencil size island leg hope filter you race";
+var mnemonic = "govern guitar just expire act repeat process history kiwi color frost barrel";

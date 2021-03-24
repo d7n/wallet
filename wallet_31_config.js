@@ -1,1 +1,1 @@
-var mnemonic = "wire pool hurdle accident slender ready surge sample mind alley tag subway";
+var mnemonic = "bone photo patient snap connect repair mountain water prevent unknown adult width";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey error duck priority orient decade riot lens tilt broken piece weather";
+var mnemonic = "swim salute soldier grass wagon viable weasel approve false can crumble dose";

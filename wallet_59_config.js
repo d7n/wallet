@@ -1,1 +1,1 @@
-var mnemonic = "document lizard fly push vapor across swarm come army age cave school";
+var mnemonic = "patient harsh zero worth dignity acoustic engage stamp split warfare acid term";

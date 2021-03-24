@@ -1,1 +1,1 @@
-var mnemonic = "snap desk sister inspire enemy file rude quote spice fun razor edit";
+var mnemonic = "afford pole half put moral wrap gather record stuff ranch rigid law";

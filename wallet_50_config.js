@@ -1,1 +1,1 @@
-var mnemonic = "grant scrub reward catch answer second divert air soup party state penalty";
+var mnemonic = "few among another record laundry attract grape priority voyage stem tape family";

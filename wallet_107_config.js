@@ -1,1 +1,1 @@
-var mnemonic = "used waste depend kind festival history olive topic million merit off surround";
+var mnemonic = "together kitchen brown cover child nice mosquito click hollow attack trim protect";

@@ -1,1 +1,1 @@
-var mnemonic = "drive hold bar armed whip conduct spy tide floor above noise engage";
+var mnemonic = "runway angle salt sphere poet manual stove question series health turkey damage";

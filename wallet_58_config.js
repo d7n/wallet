@@ -1,1 +1,1 @@
-var mnemonic = "switch pilot vehicle rose honey segment swap radar erosion acquire laundry note";
+var mnemonic = "obvious purity spoil erosion blouse child caught tissue angry flee vivid below";

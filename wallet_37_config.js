@@ -1,1 +1,1 @@
-var mnemonic = "spoon adult blur upon sorry category truck path action silent ripple lumber";
+var mnemonic = "code fire silent jealous stumble welcome brisk loan mimic forest blade color";

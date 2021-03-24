@@ -1,1 +1,1 @@
-var mnemonic = "reject leg check mammal hurt battle way actor swamp ozone rotate label";
+var mnemonic = "oak orphan ordinary solve language safe crush tattoo argue sing domain solar";

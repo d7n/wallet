@@ -1,1 +1,1 @@
-var mnemonic = "water nephew faculty day sunny figure tuition often plug exercise unhappy twenty";
+var mnemonic = "grow garbage own mistake lift list involve month use dismiss year nurse";

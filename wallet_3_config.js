@@ -1,1 +1,1 @@
-var mnemonic = "elite march carpet word noble pulp sudden token zero mountain glue custom";
+var mnemonic = "slow glue entire convince regret butter lion staff since sibling vivid release";

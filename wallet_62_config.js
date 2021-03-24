@@ -1,1 +1,1 @@
-var mnemonic = "defy glue engage spray taxi six liberty grape apple elbow dignity scissors";
+var mnemonic = "ribbon civil slim nerve merit melody mistake begin feature common thumb anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "purity there onion slender vital project orphan erupt manage must ginger citizen";
+var mnemonic = "sock small depend enemy slush cute sphere price ancient predict cost burger";

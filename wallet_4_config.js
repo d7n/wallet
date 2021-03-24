@@ -1,1 +1,1 @@
-var mnemonic = "mouse solid grab body flush soul ill green arm bird bag level";
+var mnemonic = "cry doll sheriff foam thing bus embark black narrow elephant habit snap";

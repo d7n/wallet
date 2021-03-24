@@ -1,1 +1,1 @@
-var mnemonic = "stage peasant north duty switch rare couple route depend barrel involve better";
+var mnemonic = "nerve next weather element gym amateur island protect piano fluid crawl chalk";

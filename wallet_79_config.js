@@ -1,1 +1,1 @@
-var mnemonic = "web cloud spatial pool mechanic woman cream drift desert various wolf mountain";
+var mnemonic = "stuff unable shaft thought stay eye virus bacon system tattoo august brush";

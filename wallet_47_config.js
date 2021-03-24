@@ -1,1 +1,1 @@
-var mnemonic = "bamboo material bread walnut nothing awkward circle can boil enact tiger ensure";
+var mnemonic = "twenty left meat thought pride front shadow grit proof build where relief";

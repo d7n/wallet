@@ -1,1 +1,1 @@
-var mnemonic = "pond protect wish noble treat hello apart few pass wear open brick";
+var mnemonic = "dumb fiber loan team level core shift school sad list wall alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "cry dinner state library warfare dog begin mercy jealous raven ceiling symptom";
+var mnemonic = "observe occur climb pen ocean cover try blur claw parent enemy income";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly milk mad enter average chef spray memory wall convince state jealous";
+var mnemonic = "census improve emerge industry appear regular verify crucial this rival submit various";

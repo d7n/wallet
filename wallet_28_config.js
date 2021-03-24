@@ -1,1 +1,1 @@
-var mnemonic = "aspect label music delay city pill title unaware frozen vibrant insect response";
+var mnemonic = "bone jealous remember faint veteran kidney next similar remind summer yard nephew";

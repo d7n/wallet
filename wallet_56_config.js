@@ -1,1 +1,1 @@
-var mnemonic = "illness robust undo fuel punch virus three motor ginger flee seat cereal";
+var mnemonic = "sort piece raw slender pig minimum accident short label early armor cabbage";

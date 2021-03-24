@@ -1,1 +1,1 @@
-var mnemonic = "curve hand memory humble path upgrade visual omit best staff fury visual";
+var mnemonic = "cheese enrich antique bind pole horror retire traffic vivid path blame clap";

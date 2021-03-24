@@ -1,1 +1,1 @@
-var mnemonic = "cement glimpse husband fetch proud diesel ethics test erase amused curve box";
+var mnemonic = "mango february cave mail witness lyrics brand unfair poet spring slim prison";

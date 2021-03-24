@@ -1,1 +1,1 @@
-var mnemonic = "lend patch permit twist peasant else regret scan puppy ramp cover tray";
+var mnemonic = "apple town blade popular current hole blush occur fat type chunk spoon";

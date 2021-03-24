@@ -1,1 +1,1 @@
-var mnemonic = "gossip city solar height muffin speak gain fabric unlock absorb during rely";
+var mnemonic = "hundred eye used help master attract include wash borrow resist casino destroy";

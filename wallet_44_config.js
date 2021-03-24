@@ -1,1 +1,1 @@
-var mnemonic = "when sand peanut put lock bundle document south vivid goddess ranch van";
+var mnemonic = "knock yellow tongue old issue until social ordinary frozen dish bitter wisdom";

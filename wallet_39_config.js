@@ -1,1 +1,1 @@
-var mnemonic = "frost judge slush approve liquid claw lobster west photo tip west pair";
+var mnemonic = "cheap feature winner bitter cook neck circle enemy magnet write tennis sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "cream fiber topic adapt deputy this orbit grunt tuna force truth depend";
+var mnemonic = "chronic trade jelly cabbage antique load label lobster critic silly bounce magic";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon job shrug result relief crowd bag rifle cross small mistake female";
+var mnemonic = "sponsor taste body make under erase found home mule second dove muffin";

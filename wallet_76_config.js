@@ -1,1 +1,1 @@
-var mnemonic = "gadget swift canoe educate owner program mean asthma ski meadow load effort";
+var mnemonic = "illegal future buffalo tenant pact cactus easily pudding quit work blue elite";

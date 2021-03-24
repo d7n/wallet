@@ -1,1 +1,1 @@
-var mnemonic = "age fault acoustic purse survey doctor peanut patient estate buyer drastic civil";
+var mnemonic = "canoe heavy cheese age member crash shiver custom bird ceiling faint invest";

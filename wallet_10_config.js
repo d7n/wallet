@@ -1,1 +1,1 @@
-var mnemonic = "coffee wisdom drip ready orient crucial fever paper sniff witness faculty volcano";
+var mnemonic = "squirrel peasant salmon minor illegal stick save cause trash capable grunt quit";

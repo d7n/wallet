@@ -1,1 +1,1 @@
-var mnemonic = "surprise retreat bubble wife release item wealth garlic survey seat swap couch";
+var mnemonic = "father siege gloom because mutual garment congress trade topic mutual dove maid";

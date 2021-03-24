@@ -1,1 +1,1 @@
-var mnemonic = "beauty hat drive minute strong once anxiety floor human skirt animal boil";
+var mnemonic = "endorse afraid certain two add kitten lunch title into giant vicious rain";

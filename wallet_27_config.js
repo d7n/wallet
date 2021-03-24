@@ -1,1 +1,1 @@
-var mnemonic = "south analyst engage because private worry gadget exile term error window upper";
+var mnemonic = "ecology betray annual battle either easily album acid grocery silent shrug board";

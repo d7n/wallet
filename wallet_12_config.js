@@ -1,1 +1,1 @@
-var mnemonic = "announce point topple category lift ship gadget describe convince horror rose appear";
+var mnemonic = "practice jewel hill movie film weasel wink ensure across donor build thumb";

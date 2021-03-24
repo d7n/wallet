@@ -1,1 +1,1 @@
-var mnemonic = "deposit catch ankle item first dwarf apple music wire thrive define erosion";
+var mnemonic = "car pet depth ensure head case clean infant dignity demand plate harbor";

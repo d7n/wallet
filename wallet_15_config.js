@@ -1,1 +1,1 @@
-var mnemonic = "team either swallow expire fantasy opera life crunch hamster acquire punch load";
+var mnemonic = "surround rigid cost toe dynamic used success casual bacon puppy grape evolve";

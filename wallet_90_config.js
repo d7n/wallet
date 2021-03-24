@@ -1,1 +1,1 @@
-var mnemonic = "blossom swim theme stairs cliff uphold nose diesel alarm remain dial extra";
+var mnemonic = "design enemy rotate cousin sad soon orchard pill side write dad hazard";

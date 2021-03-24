@@ -1,1 +1,1 @@
-var mnemonic = "urban traffic write card oppose admit aware script nephew decrease left young";
+var mnemonic = "hazard during stuff outer like there also shy erode alone together isolate";

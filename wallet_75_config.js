@@ -1,1 +1,1 @@
-var mnemonic = "knee dose fold neck kiss split warfare heart spice timber mind host";
+var mnemonic = "autumn grief ugly cloud moment embody come connect acquire gospel little syrup";

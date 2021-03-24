@@ -1,1 +1,1 @@
-var mnemonic = "check enlist random crop keen shine jealous time denial copper flash dignity";
+var mnemonic = "idea flag escape client saddle onion honey fog lunch pyramid course beauty";

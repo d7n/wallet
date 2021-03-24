@@ -1,1 +1,1 @@
-var mnemonic = "lounge canvas choose powder only cabin soccer peanut matter note fault food";
+var mnemonic = "cancel damp shiver firm know ahead regular actress spike patient shrimp wagon";

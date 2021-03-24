@@ -1,1 +1,1 @@
-var mnemonic = "tree trial goddess minor penalty rain develop sock onion brisk across silly";
+var mnemonic = "item ivory celery account defense olive neither liberty dinner expire naive type";

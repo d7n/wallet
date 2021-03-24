@@ -1,1 +1,1 @@
-var mnemonic = "buzz lab stool loud goat tonight park cave sport oven girl change";
+var mnemonic = "open boat hurry rally funny funny core shield flat knife erosion box";

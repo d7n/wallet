@@ -1,1 +1,1 @@
-var mnemonic = "yard hunt twin casual chapter title tape seek right breeze glare hero";
+var mnemonic = "tired foam clarify wasp prepare layer predict abstract giraffe call wine skate";

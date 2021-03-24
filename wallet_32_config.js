@@ -1,1 +1,1 @@
-var mnemonic = "wire total design lounge old sick local cancel detect rally lift robot";
+var mnemonic = "horn country carbon inch check media dutch stem deer off quit olympic";

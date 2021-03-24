@@ -1,1 +1,1 @@
-var mnemonic = "ring upon join fresh trim game weird agree immune chalk eternal gate";
+var mnemonic = "jacket sun million simple caught behind orient season camp chapter section kite";

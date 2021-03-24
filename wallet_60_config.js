@@ -1,1 +1,1 @@
-var mnemonic = "chicken useless atom entry identify edge rescue minimum legend surround tobacco island";
+var mnemonic = "slab pilot net awful float fine crew fish dog silk lobster whale";

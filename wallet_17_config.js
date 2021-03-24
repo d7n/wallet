@@ -1,1 +1,1 @@
-var mnemonic = "team swear salad become brown gaze night city twelve scissors blossom arrange";
+var mnemonic = "believe clutch spider giant medal task shoot attend banana remember valve response";

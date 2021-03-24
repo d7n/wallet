@@ -1,1 +1,1 @@
-var mnemonic = "toy rain forum coral another birth guide hobby circle dignity detail cherry";
+var mnemonic = "impose vanish fame service alcohol menu escape hire spin roof can garden";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong flat olive merge panda series column thunder agree inspire crawl finger";
+var mnemonic = "yellow avoid monster squirrel then economy catalog gown hip tattoo cotton dinosaur";

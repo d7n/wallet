@@ -1,1 +1,1 @@
-var mnemonic = "fatal victory school crucial bunker excite arm clean need great dinosaur mutual";
+var mnemonic = "special hybrid winner burst present opera naive color giant ship fork pony";

@@ -1,1 +1,1 @@
-var mnemonic = "one stone area prosper promote pistol fall reform small city state meat";
+var mnemonic = "verb toward online oil fun alpha wear notice pen shiver leave gate";

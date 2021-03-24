@@ -1,1 +1,1 @@
-var mnemonic = "fire surround close side stick hazard property invite sing roast quiz crowd";
+var mnemonic = "episode tape wet gate firm motor myth oven fatigue model hill banner";

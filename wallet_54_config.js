@@ -1,1 +1,1 @@
-var mnemonic = "spare height tide aerobic invest wheel file silent country tilt gather faith";
+var mnemonic = "indoor okay flavor thumb illness loud harvest shift endorse error curve reward";

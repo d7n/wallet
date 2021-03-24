@@ -1,1 +1,1 @@
-var mnemonic = "strong pottery gas scatter perfect hollow afford wash reduce truth minute march";
+var mnemonic = "camp pave member render opera frown rubber tunnel dragon behind cereal stamp";

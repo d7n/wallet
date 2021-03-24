@@ -1,1 +1,1 @@
-var mnemonic = "day entry reject orange outdoor require front pioneer endless castle solar unit";
+var mnemonic = "dizzy ride eyebrow festival boring fix beauty tennis smooth produce good second";

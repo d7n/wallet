@@ -1,1 +1,1 @@
-var mnemonic = "seed credit harbor power umbrella solid pluck attract resource lion test comfort";
+var mnemonic = "imitate remain snap erase unable dust basic word broom glance tube screen";

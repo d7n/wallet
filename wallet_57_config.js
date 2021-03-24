@@ -1,1 +1,1 @@
-var mnemonic = "seed brass vicious document grab original claim liar atom bronze monitor melody";
+var mnemonic = "stand use unknown fabric story will boring idea destroy chimney shoot ivory";

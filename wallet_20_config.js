@@ -1,1 +1,1 @@
-var mnemonic = "elevator crash stomach drift rotate gentle sting mansion border prize behave mountain";
+var mnemonic = "panda behave miracle scorpion tiger youth bless object gas silly wrestle kitten";

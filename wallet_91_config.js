@@ -1,1 +1,1 @@
-var mnemonic = "garbage animal bring return opinion veteran february object inside length trash alien";
+var mnemonic = "confirm wait pave airport depart tell level label supreme join upper mountain";

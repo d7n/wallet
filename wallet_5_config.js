@@ -1,1 +1,1 @@
-var mnemonic = "trophy any caution apple divorce fee left novel deliver pipe menu pistol";
+var mnemonic = "urge whisper admit chief tattoo gaze original system fatigue idle zebra stay";

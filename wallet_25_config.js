@@ -1,1 +1,1 @@
-var mnemonic = "hospital caution pencil brain hotel large van circle depend oak barely ocean";
+var mnemonic = "elevator badge sock hidden luggage join novel bomb skin fossil surround ozone";

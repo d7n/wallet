@@ -1,1 +1,1 @@
-var mnemonic = "asset era glass ginger arrive army trophy latin fancy lab void math";
+var mnemonic = "safe curve cloud lyrics coyote silk puzzle wink corn book obvious bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "manage faint acquire airport asset flush unfold snake release loud inch dream";
+var mnemonic = "hat morning awake finish cereal choice noise poverty stadium little cushion federal";

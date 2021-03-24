@@ -1,1 +1,1 @@
-var mnemonic = "street ahead twist cloth palm engine nest loyal crack crack page ball";
+var mnemonic = "scatter galaxy brain adult oval silver dutch burden actor cabbage snap mask";

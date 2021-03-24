@@ -1,1 +1,1 @@
-var mnemonic = "wine sniff camera equip pupil bonus token ensure strong frozen stamp furnace";
+var mnemonic = "young kitten milk example rich elite school winter design trust march step";

@@ -1,1 +1,1 @@
-var mnemonic = "trap wedding blood foam air demand tree doctor tragic knife lazy open";
+var mnemonic = "grief tip dress damp tattoo burst garbage wait pioneer solution whip inmate";

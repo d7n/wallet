@@ -1,1 +1,1 @@
-var mnemonic = "resemble prepare jeans noble rich aerobic object lumber dynamic artefact oven advance";
+var mnemonic = "chunk square remain fiction little ski miss define round flock device animal";

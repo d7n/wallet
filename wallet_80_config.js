@@ -1,1 +1,1 @@
-var mnemonic = "burden thumb observe protect tourist visa travel village welcome bachelor evidence verb";
+var mnemonic = "crowd cluster radio truly virus pupil robot scorpion estate swing glass erode";

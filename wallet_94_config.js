@@ -1,1 +1,1 @@
-var mnemonic = "quality pistol midnight grab panel evidence home upgrade gun unusual rotate fancy";
+var mnemonic = "carry clap cricket method private depth giraffe stuff onion divert deny tonight";

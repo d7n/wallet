@@ -1,1 +1,1 @@
-var mnemonic = "gadget deny pact merit tuna border banner great fix twelve music doctor";
+var mnemonic = "junior evil gun memory jealous cram search casino accident twist soap piano";

@@ -1,1 +1,1 @@
-var mnemonic = "rice grant infant solar charge route camp cherry blossom equip useful canal";
+var mnemonic = "sign soldier subject shock slender return mother globe suggest owner measure type";

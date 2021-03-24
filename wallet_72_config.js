@@ -1,1 +1,1 @@
-var mnemonic = "multiply salute parrot surprise still stable test material neglect blur fancy increase";
+var mnemonic = "puzzle series circle under sea volume legend art federal easy certain person";

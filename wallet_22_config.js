@@ -1,1 +1,1 @@
-var mnemonic = "assume suit biology appear skull giraffe transfer remain hospital era fringe logic";
+var mnemonic = "salad foster protect drift lava fence market filter bomb hybrid dad toe";

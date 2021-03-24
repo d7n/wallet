@@ -1,1 +1,1 @@
-var mnemonic = "avocado truly click hip sponsor enroll private manual salon borrow clutch cluster";
+var mnemonic = "scorpion giggle crack kitchen gold marriage banana october bronze wealth crew brass";

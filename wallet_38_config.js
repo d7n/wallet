@@ -1,1 +1,1 @@
-var mnemonic = "approve dish wet future source improve focus wise great large divert toss";
+var mnemonic = "quiz donate mail salute employ lawn enter story tide noise garage will";

@@ -1,1 +1,1 @@
-var mnemonic = "own salmon length two like pencil swing jazz crop gain flee north";
+var mnemonic = "small lion borrow antenna awful stable normal maximum remind remind trick hotel";

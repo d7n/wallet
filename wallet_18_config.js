@@ -1,1 +1,1 @@
-var mnemonic = "hybrid purchase liar across best coast portion hotel later flower skull win";
+var mnemonic = "april trip method caution depart ceiling private vanish help sick will drum";

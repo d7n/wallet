@@ -1,1 +1,1 @@
-var mnemonic = "bamboo thumb face equip earn review canoe subject where reform allow motion";
+var mnemonic = "public clap oak million space dawn evil vessel ceiling buyer bring maid";

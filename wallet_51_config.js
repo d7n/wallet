@@ -1,1 +1,1 @@
-var mnemonic = "junior oppose rib unveil derive swarm figure hurt food evolve praise act";
+var mnemonic = "sustain release wrestle image jazz usage slide limit abandon coil ghost attack";

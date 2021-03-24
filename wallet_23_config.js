@@ -1,1 +1,1 @@
-var mnemonic = "trust final join simple goddess blade define drum sell deliver object nothing";
+var mnemonic = "strong exact luxury satoshi exact payment mind snake glove unaware green load";

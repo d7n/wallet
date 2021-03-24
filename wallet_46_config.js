@@ -1,1 +1,1 @@
-var mnemonic = "pledge quantum fine salad undo okay destroy champion jelly polar lawn wasp";
+var mnemonic = "bid bright vault soup job asset dial panic domain appear rigid first";

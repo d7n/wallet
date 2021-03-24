@@ -1,1 +1,1 @@
-var mnemonic = "convince advice assume core flock brother wire grunt bus give ball elegant";
+var mnemonic = "bring weapon weekend wall act fame bike salmon canal traffic beach humor";

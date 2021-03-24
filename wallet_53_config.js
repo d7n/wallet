@@ -1,1 +1,1 @@
-var mnemonic = "noise praise ball tower image guide motor year promote olive agree mistake";
+var mnemonic = "news true fever barely talent deliver truly swim diary parent position crater";

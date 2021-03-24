@@ -1,1 +1,1 @@
-var mnemonic = "nuclear cabbage trigger wrestle blur message language humor beauty myth cluster spread";
+var mnemonic = "merit bullet embody monkey garbage day step govern portion pipe enemy segment";
