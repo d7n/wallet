@@ -1,1 +1,1 @@
-var mnemonic = "present foil portion ribbon double pattern struggle food october renew merit love";
+var mnemonic = "cat vicious topple entry shadow quote witness weasel initial tired strong wise";

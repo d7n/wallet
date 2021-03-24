@@ -1,1 +1,1 @@
-var mnemonic = "correct harsh float wave trash elder judge kick betray tuna rack hammer";
+var mnemonic = "wet puzzle fringe unusual model riot solve opera duty often file title";

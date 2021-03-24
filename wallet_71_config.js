@@ -1,1 +1,1 @@
-var mnemonic = "blouse disorder metal borrow debate pigeon image fire inherit tomorrow key leave";
+var mnemonic = "skate almost shift tunnel hunt mercy scrub sleep arm fancy say rocket";

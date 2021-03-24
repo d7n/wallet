@@ -1,1 +1,1 @@
-var mnemonic = "assist turkey traffic polar general oak hill quit erupt gasp topic truck";
+var mnemonic = "certain bulk inside list grape unhappy toast black faculty layer volume print";

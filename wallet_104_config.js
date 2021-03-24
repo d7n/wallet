@@ -1,1 +1,1 @@
-var mnemonic = "picnic age sugar crazy output daughter venture axis jewel winner three sheriff";
+var mnemonic = "bachelor oblige miracle evidence weird dash kidney bicycle struggle aerobic mother super";

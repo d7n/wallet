@@ -1,1 +1,1 @@
-var mnemonic = "wise keep exclude tumble present mouse sword pill check shell fiber fiscal";
+var mnemonic = "hat brain silk student card female left north blanket sell return tiger";

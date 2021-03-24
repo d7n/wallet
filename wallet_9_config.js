@@ -1,1 +1,1 @@
-var mnemonic = "style swim cage mask web tobacco loan pet taste wink pluck draw";
+var mnemonic = "crazy craft anchor result utility motor material oak skin anger memory gadget";

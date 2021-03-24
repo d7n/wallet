@@ -1,1 +1,1 @@
-var mnemonic = "once enough gallery arrive icon giant amateur cage badge punch same grit";
+var mnemonic = "weird guitar sugar this session grab idle sunny myth kitten merit unit";

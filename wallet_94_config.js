@@ -1,1 +1,1 @@
-var mnemonic = "top frost kind flee blush inflict drip weather day tackle angle elbow";
+var mnemonic = "cable invest silk once join found jump dinosaur know trigger remain fluid";

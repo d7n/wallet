@@ -1,1 +1,1 @@
-var mnemonic = "noodle nut grow tonight witness vintage stone never exit issue problem occur";
+var mnemonic = "brave dash liquid spread brush trophy oak table vintage drastic envelope way";

@@ -1,1 +1,1 @@
-var mnemonic = "glad diagram retreat cloud gloom balance kick steel caution liquid item home";
+var mnemonic = "label banner kite box hunt pill dice tiny dance impulse buyer frog";

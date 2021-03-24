@@ -1,1 +1,1 @@
-var mnemonic = "insane nature turkey interest sword public car flash cruel ask initial cinnamon";
+var mnemonic = "unfold machine garment interest noble aware fold twenty bid slab lobster valley";

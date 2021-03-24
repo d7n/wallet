@@ -1,1 +1,1 @@
-var mnemonic = "walk return puppy security ketchup museum unaware bounce biology sunny dutch electric";
+var mnemonic = "champion stage gorilla stone gesture blame tribe sister monitor talent return acid";

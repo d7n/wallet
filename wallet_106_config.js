@@ -1,1 +1,1 @@
-var mnemonic = "sense benefit lunch venture position umbrella fiscal art crime canal lake goat";
+var mnemonic = "deal crop correct gown lab route boss stamp economy teach knock combine";

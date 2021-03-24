@@ -1,1 +1,1 @@
-var mnemonic = "between animal yard example salon eye marine panda senior inflict brass jelly";
+var mnemonic = "negative group hockey tenant pull draw already race visit garden priority first";

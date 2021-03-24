@@ -1,1 +1,1 @@
-var mnemonic = "inform pen ready human program priority fish wood north grant battle arrive";
+var mnemonic = "hamster blush vintage tenant aspect account casual subway tell vote sadness video";

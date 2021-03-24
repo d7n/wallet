@@ -1,1 +1,1 @@
-var mnemonic = "egg spell decline dumb warrior life crawl boat label wisdom motor meat";
+var mnemonic = "journey odor crane hazard hand expire exact same behind rely off joke";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding extra remain other immense retreat know submit lumber assist aware fatal";
+var mnemonic = "emerge hotel power silk crater arm guilt arch claim draw ask road";

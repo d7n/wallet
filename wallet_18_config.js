@@ -1,1 +1,1 @@
-var mnemonic = "situate aerobic category foster detect shiver polar differ fury marine love minimum";
+var mnemonic = "now brush jacket party spell garbage cloth era deer soda observe romance";

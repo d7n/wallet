@@ -1,1 +1,1 @@
-var mnemonic = "neck dream pull soccer pattern issue wealth raccoon champion nuclear must slush";
+var mnemonic = "diet poem pigeon daughter reward regular bomb inherit trial remove catch bacon";

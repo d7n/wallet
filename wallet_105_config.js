@@ -1,1 +1,1 @@
-var mnemonic = "mom sleep swamp apart cluster picnic tower mean eager estate question nut";
+var mnemonic = "unveil remind hold huge always bulk elite love fatal vacant husband swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "witness either lava panther join method velvet usual version soon veteran cream";
+var mnemonic = "aunt innocent crucial spy current sheriff leopard badge squeeze fall radio aunt";

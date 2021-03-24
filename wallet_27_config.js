@@ -1,1 +1,1 @@
-var mnemonic = "canyon camera tide used rose rose aisle decade vanish anger organ gold";
+var mnemonic = "caught mesh clump cruise ship photo solve reveal minute zebra physical machine";

@@ -1,1 +1,1 @@
-var mnemonic = "boy acid great three pass bunker fit only satisfy phrase ribbon apple";
+var mnemonic = "west industry dragon peace physical card manual spell fancy drive idea boring";

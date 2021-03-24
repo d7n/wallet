@@ -1,1 +1,1 @@
-var mnemonic = "noble knife enlist pulp kiss wrist found chunk hobby globe daughter execute";
+var mnemonic = "achieve drive rent gorilla summer quarter film belt chunk ring endless once";

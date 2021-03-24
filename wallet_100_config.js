@@ -1,1 +1,1 @@
-var mnemonic = "used place spring muffin cattle team soccer tennis surge tuition purchase middle";
+var mnemonic = "illegal benefit quick kitten able paddle quantum over test install tide unknown";

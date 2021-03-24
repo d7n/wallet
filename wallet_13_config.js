@@ -1,1 +1,1 @@
-var mnemonic = "ice ancient dynamic elephant collect escape scatter piece enact salon record push";
+var mnemonic = "shiver spring proud memory gym gun food talent brain quantum nose promote";

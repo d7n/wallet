@@ -1,1 +1,1 @@
-var mnemonic = "derive rural sell fan energy hard oven ready help capable bamboo bounce";
+var mnemonic = "blur churn shop ranch shoulder found adapt dove wink pistol leaf drill";

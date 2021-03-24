@@ -1,1 +1,1 @@
-var mnemonic = "barely plastic salt wrap life act air immense choose pact junior pilot";
+var mnemonic = "heart page turkey holiday oak sell wisdom sting fun pencil security put";

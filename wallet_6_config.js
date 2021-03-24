@@ -1,1 +1,1 @@
-var mnemonic = "index infant flame inside hold bridge spawn zebra sugar cake nice buyer";
+var mnemonic = "hidden taste milk purse zero drum just cost labor story evoke tape";

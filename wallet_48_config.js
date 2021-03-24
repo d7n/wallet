@@ -1,1 +1,1 @@
-var mnemonic = "private antenna orphan play fame loyal door capital system vintage trust axis";
+var mnemonic = "salmon awake frozen bicycle parrot twist nut because apple night truly degree";

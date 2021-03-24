@@ -1,1 +1,1 @@
-var mnemonic = "soda region family frown rather draw defy seat sister dance kid perfect";
+var mnemonic = "meat bitter pioneer festival unable plate lecture live beauty garbage wish spend";

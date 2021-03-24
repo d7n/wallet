@@ -1,1 +1,1 @@
-var mnemonic = "crouch sunny horror tell couch make soap camp vocal tag draw finger";
+var mnemonic = "remain join ketchup whisper shallow tragic orphan huge once enjoy oak chase";

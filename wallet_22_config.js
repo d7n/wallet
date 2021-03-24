@@ -1,1 +1,1 @@
-var mnemonic = "thunder rescue wear come roast viable surge almost digital water obscure wear";
+var mnemonic = "derive laundry deposit car unfair drive innocent vendor muffin spider cross custom";

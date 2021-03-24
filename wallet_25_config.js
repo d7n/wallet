@@ -1,1 +1,1 @@
-var mnemonic = "exotic card grid margin lonely hip puppy reward refuse scrap phrase anger";
+var mnemonic = "orange palace cram video pilot lab transfer warrior jaguar physical unique raw";

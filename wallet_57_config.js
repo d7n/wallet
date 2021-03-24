@@ -1,1 +1,1 @@
-var mnemonic = "damp trick wrist wild pact arrest display advice inflict portion mimic kitten";
+var mnemonic = "thing ordinary dumb tattoo bronze essence glory wave joke resource attract dash";

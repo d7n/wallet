@@ -1,1 +1,1 @@
-var mnemonic = "provide lazy capable police mobile rival outside heart error term session traffic";
+var mnemonic = "private brother belt job fat drink cover file crawl mutual struggle primary";

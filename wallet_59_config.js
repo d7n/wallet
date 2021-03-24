@@ -1,1 +1,1 @@
-var mnemonic = "load flock trouble resource happy danger innocent term attack head already wide";
+var mnemonic = "guard tiny evidence weasel narrow quiz hotel arrow monkey another primary athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "draft property evil neutral habit drive charge today night profit usage what";
+var mnemonic = "champion rough vendor excess hint farm love drop nest width copy pass";

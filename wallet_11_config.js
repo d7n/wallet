@@ -1,1 +1,1 @@
-var mnemonic = "novel sad ramp motor drink shrug differ innocent filter cabbage weird aisle";
+var mnemonic = "upon hunt trash trouble school match scrap rely middle fat thought size";

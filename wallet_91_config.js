@@ -1,1 +1,1 @@
-var mnemonic = "tool ribbon owner figure omit flee tone umbrella session pulse boss pool";
+var mnemonic = "assist all alert angry confirm lift bulk prevent define shift cactus start";

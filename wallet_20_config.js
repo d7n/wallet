@@ -1,1 +1,1 @@
-var mnemonic = "thrive sauce immense reason net burden damage enemy again lonely various chef";
+var mnemonic = "cycle cake ridge music rigid leave gap weather wet slide cushion rely";

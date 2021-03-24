@@ -1,1 +1,1 @@
-var mnemonic = "crack tone bulk victory unveil orient climb sudden sock burden duty settle";
+var mnemonic = "maze addict advance filter tourist salute venue slim acid subway spend impose";

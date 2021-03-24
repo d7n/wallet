@@ -1,1 +1,1 @@
-var mnemonic = "permit donor ball suspect script wool spawn embark slow roast question family";
+var mnemonic = "zero arch swear exotic range gym violin provide friend ozone monster marble";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist rotate goose alert blanket raise fame bench buddy real drift remove";
+var mnemonic = "elephant above sell various naive fragile oppose island adapt early alley guess";

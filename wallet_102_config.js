@@ -1,1 +1,1 @@
-var mnemonic = "quote neutral liar width color action print voyage gallery uniform wife enemy";
+var mnemonic = "chief pond exercise candy peanut century network switch ceiling scrub throw jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor win dynamic salmon bulb again pill mouse crazy wealth steak shine";
+var mnemonic = "glove dolphin milk wine know estate guilt find giant mother pupil cement";

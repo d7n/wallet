@@ -1,1 +1,1 @@
-var mnemonic = "session adult ceiling rabbit echo hybrid outside face false ugly stuff easy";
+var mnemonic = "flight have improve sauce already theory history disagree load close damage siege";

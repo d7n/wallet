@@ -1,1 +1,1 @@
-var mnemonic = "artefact monkey sniff trash pioneer economy auto observe wrap present lake category";
+var mnemonic = "topic noble beach awesome blue funny noble ugly trust eye like salmon";

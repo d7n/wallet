@@ -1,1 +1,1 @@
-var mnemonic = "into much remove correct topple rare equip tired trend boy inside traffic";
+var mnemonic = "exact deliver opera video hope bargain beef receive path blade wolf enact";

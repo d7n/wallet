@@ -1,1 +1,1 @@
-var mnemonic = "fitness wash cabbage noodle timber senior display expose eyebrow clown stable asset";
+var mnemonic = "ice pledge latin another suffer prefer solar advance kitten hurdle school inside";

@@ -1,1 +1,1 @@
-var mnemonic = "prize awake lunar they hungry cake myth convince extra duck nest damp";
+var mnemonic = "observe person spend father peanut estate old dream genre erupt donor group";

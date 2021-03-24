@@ -1,1 +1,1 @@
-var mnemonic = "cattle identify put sponsor habit embody hurdle confirm puppy slow ghost retire";
+var mnemonic = "yard wrestle spare monster good rural smoke labor soap disorder avocado typical";

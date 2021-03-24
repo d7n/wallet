@@ -1,1 +1,1 @@
-var mnemonic = "crush around suffer brown horn jar frame remember quarter wool puzzle space";
+var mnemonic = "cargo super problem open trash hobby clog police panic next float treat";

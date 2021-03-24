@@ -1,1 +1,1 @@
-var mnemonic = "arm scorpion blossom top panic bracket embrace horror cycle remind soccer embody";
+var mnemonic = "estate maple rural elevator expire spider vapor crime alcohol hand lounge salad";

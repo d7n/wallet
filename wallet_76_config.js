@@ -1,1 +1,1 @@
-var mnemonic = "travel laugh judge sniff cup learn tonight silver master salt payment pumpkin";
+var mnemonic = "glare ivory animal nerve anger genuine piece wink outside arrange inmate female";

@@ -1,1 +1,1 @@
-var mnemonic = "quote master awake wood sustain flight express wear promote heart april donkey";
+var mnemonic = "school decrease furnace letter december surprise twenty deer end armed polar age";

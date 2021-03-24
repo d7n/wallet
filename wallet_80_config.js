@@ -1,1 +1,1 @@
-var mnemonic = "thunder model tortoise segment muffin cactus plug curtain risk genre hand chef";
+var mnemonic = "accuse stomach saddle shop journey rule exact arrest judge alert youth turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "relief wash three enact combine easily canyon blood little install benefit hybrid";
+var mnemonic = "observe almost ranch genius shoulder office initial blast inside thing peanut human";

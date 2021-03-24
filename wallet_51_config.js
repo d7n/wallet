@@ -1,1 +1,1 @@
-var mnemonic = "business quarter satisfy maid process cycle coffee page absorb assist relief together";
+var mnemonic = "where surface miracle permit casino glide soup violin vanish link assault art";

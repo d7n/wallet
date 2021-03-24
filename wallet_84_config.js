@@ -1,1 +1,1 @@
-var mnemonic = "camera defy vivid gather fiscal history day urge crucial hospital crane soon";
+var mnemonic = "tag hole try gun solve service zoo high flip rain vast fresh";

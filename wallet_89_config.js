@@ -1,1 +1,1 @@
-var mnemonic = "such satoshi have measure universe cushion parrot bracket obtain settle stove answer";
+var mnemonic = "metal fresh resist filter false manual harbor opinion liar used hour roast";

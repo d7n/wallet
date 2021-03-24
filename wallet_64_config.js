@@ -1,1 +1,1 @@
-var mnemonic = "curve sick desert vacuum earth confirm repeat derive valve supreme episode dinosaur";
+var mnemonic = "nut raise decrease entire spoil calm tackle isolate plate muscle hire east";

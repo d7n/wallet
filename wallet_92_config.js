@@ -1,1 +1,1 @@
-var mnemonic = "illness paper accident income fork immune illness remind despair logic ride loan";
+var mnemonic = "approve that hip orbit crew cherry claw carbon three thumb habit only";

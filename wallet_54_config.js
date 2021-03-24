@@ -1,1 +1,1 @@
-var mnemonic = "leg melt mixture twist until cry alpha all double stick plunge lawsuit";
+var mnemonic = "perfect grain island symptom much utility object punch view barely hood flat";

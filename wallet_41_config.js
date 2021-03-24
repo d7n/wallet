@@ -1,1 +1,1 @@
-var mnemonic = "giggle company guide oven sign project history estate wall aerobic stumble general";
+var mnemonic = "analyst eight family dice build just good east scatter leopard price found";

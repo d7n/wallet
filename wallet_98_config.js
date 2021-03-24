@@ -1,1 +1,1 @@
-var mnemonic = "silk segment zoo latin olympic entry current year axis extend coffee cheap";
+var mnemonic = "trade small slot join reduce wall phone sheriff empower agree juice sound";

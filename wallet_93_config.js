@@ -1,1 +1,1 @@
-var mnemonic = "fox crime magnet air gallery visual smooth wagon retreat oxygen action oval";
+var mnemonic = "imitate blade valve pulp oyster entry cool escape horse surface service galaxy";

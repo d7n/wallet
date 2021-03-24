@@ -1,1 +1,1 @@
-var mnemonic = "collect inflict blame wild couple shine forget talk route box core tenant";
+var mnemonic = "sudden style promote stamp rigid various proud cabbage lonely nose diamond early";

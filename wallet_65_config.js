@@ -1,1 +1,1 @@
-var mnemonic = "peanut day buffalo confirm siren sun skirt meadow warrior giant level gown";
+var mnemonic = "when crane flavor please diesel endorse party keep fluid knife scheme scissors";

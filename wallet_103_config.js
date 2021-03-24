@@ -1,1 +1,1 @@
-var mnemonic = "tobacco blush wet issue excuse slab order unveil heart whale fox fix";
+var mnemonic = "cake arena rookie donor believe lazy cake history heart avocado oil speak";

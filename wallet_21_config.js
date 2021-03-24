@@ -1,1 +1,1 @@
-var mnemonic = "cattle hello love loyal start warrior truck bunker dove trophy maze liar";
+var mnemonic = "solution equal pill help option subject retire sense ski invite seven moment";

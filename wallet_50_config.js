@@ -1,1 +1,1 @@
-var mnemonic = "aspect awake civil expire offer erase priority eternal final animal lab search";
+var mnemonic = "soccer window toy sample slush own bubble soon exit return today traffic";

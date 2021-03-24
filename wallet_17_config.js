@@ -1,1 +1,1 @@
-var mnemonic = "post crazy intact worth helmet candy provide nice vintage trap food step";
+var mnemonic = "lottery total eternal frequent project tube vote estate popular master glare tissue";

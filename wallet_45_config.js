@@ -1,1 +1,1 @@
-var mnemonic = "clutch above other flat online special obvious scene vital measure crouch quarter";
+var mnemonic = "spawn correct blame mouse symptom solid deer chest joy width cargo decade";

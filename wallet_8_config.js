@@ -1,1 +1,1 @@
-var mnemonic = "crop tail debate all slice motor rival valid skull gain vague network";
+var mnemonic = "reduce potato glad mirror kitten urban alone surprise reform penalty ostrich gorilla";

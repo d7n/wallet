@@ -1,1 +1,1 @@
-var mnemonic = "lamp phrase same carry stick world oil tool mammal genius shrimp output";
+var mnemonic = "ecology service royal wall easy allow pig minimum recycle auction wrist mandate";

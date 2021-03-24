@@ -1,1 +1,1 @@
-var mnemonic = "much odor barely brush print suspect act inject federal episode make dash";
+var mnemonic = "ball obvious write question upper arrow decade tube oxygen wet toward fox";

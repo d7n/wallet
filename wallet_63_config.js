@@ -1,1 +1,1 @@
-var mnemonic = "end demise shy wagon diary soap figure almost settle merge pool vanish";
+var mnemonic = "caught vital double reason core move reform vendor behind habit weekend melody";

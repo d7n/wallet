@@ -1,1 +1,1 @@
-var mnemonic = "expect trade slam evidence major mimic unlock wait lucky barely habit mountain";
+var mnemonic = "uniform cricket expire glass cave guide burden fragile swim admit uniform frost";

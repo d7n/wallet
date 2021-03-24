@@ -1,1 +1,1 @@
-var mnemonic = "author curtain enact hamster decline police icon another razor assault return egg";
+var mnemonic = "front crack fence dignity office place volume huge hungry unfold fun slender";

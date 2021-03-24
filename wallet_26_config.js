@@ -1,1 +1,1 @@
-var mnemonic = "behave mistake float apple brass trophy tuna live phrase leaf width viable";
+var mnemonic = "foam gate siren month arm tip torch giraffe rookie collect call melt";

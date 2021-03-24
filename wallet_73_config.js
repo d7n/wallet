@@ -1,1 +1,1 @@
-var mnemonic = "volume swing interest infant scorpion tape virus pulse valley shoe second slide";
+var mnemonic = "unfold lab fruit one mail embark sail tissue chunk manage edit lesson";

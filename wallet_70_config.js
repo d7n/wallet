@@ -1,1 +1,1 @@
-var mnemonic = "south truth decade enroll act tenant galaxy private hello submit filter inner";
+var mnemonic = "device length usage charge reveal south marine rural tourist token valid lock";

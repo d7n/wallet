@@ -1,1 +1,1 @@
-var mnemonic = "rigid adjust lava will mother father lend surround airport faint utility begin";
+var mnemonic = "canvas cable air rate ceiling blade desert erase purchase boat glass floor";

@@ -1,1 +1,1 @@
-var mnemonic = "observe board wet price glad soup film ticket cake offer web dignity";
+var mnemonic = "early spend notable model armed explain soon tornado gas degree enact good";

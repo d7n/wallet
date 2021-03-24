@@ -1,1 +1,1 @@
-var mnemonic = "shaft disorder range matrix bulk jaguar limit front drill brown clog sting";
+var mnemonic = "minute under debate tag comic spin bubble sick dad citizen fetch taxi";

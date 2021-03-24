@@ -1,1 +1,1 @@
-var mnemonic = "crush give profit upper rib actress feed suit survey capable rose disease";
+var mnemonic = "raw meat father comfort history thing job fiscal north runway magic option";

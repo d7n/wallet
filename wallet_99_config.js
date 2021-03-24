@@ -1,1 +1,1 @@
-var mnemonic = "suggest day display regret decrease lobster foster supply duck chief embody enroll";
+var mnemonic = "trick chapter fence quick traffic assist glue yard gossip across always garment";

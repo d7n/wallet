@@ -1,1 +1,1 @@
-var mnemonic = "giant grow master correct pyramid vintage total betray hobby isolate merit easily";
+var mnemonic = "jungle novel lend cruise hair mixture enable federal brave report spare describe";

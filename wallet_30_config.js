@@ -1,1 +1,1 @@
-var mnemonic = "unit bread second rely flag wrong panther poet right garlic where long";
+var mnemonic = "aim north enforce slide churn copy kitten danger desert law result spend";

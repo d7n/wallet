@@ -1,1 +1,1 @@
-var mnemonic = "curtain say keen diamond castle foot skirt cushion potato hockey music panda";
+var mnemonic = "planet saddle pause anchor junior veteran anxiety enact dizzy merit ordinary win";

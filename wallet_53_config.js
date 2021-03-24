@@ -1,1 +1,1 @@
-var mnemonic = "gym skull child genre when battle prevent mail march surge sport design";
+var mnemonic = "liquid jaguar rotate own robot energy valid pattern main apple near dose";

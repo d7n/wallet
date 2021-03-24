@@ -1,1 +1,1 @@
-var mnemonic = "ankle remain cross gloom sorry mouse such lucky boil corn gadget visa";
+var mnemonic = "animal enough cabin garlic home slot slender topic case faculty army able";
