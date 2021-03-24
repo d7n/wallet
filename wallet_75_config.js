@@ -1,1 +1,1 @@
-var mnemonic = "episode hard enrich giant aerobic cry person home rubber pencil inherit clean";
+var mnemonic = "detect also tiger man pretty item celery cost legal flat unfold story";

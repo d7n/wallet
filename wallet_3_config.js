@@ -1,1 +1,1 @@
-var mnemonic = "prosper sort also barrel bird verb fruit story kick scale tobacco pool";
+var mnemonic = "spy local fault hill success spare jealous siren raven excess shine mean";

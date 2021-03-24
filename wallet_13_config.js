@@ -1,1 +1,1 @@
-var mnemonic = "toss slow banana rescue tuna coast rally another lemon core drop gravity";
+var mnemonic = "junk clip rely wreck invite empower demise moral soccer above legal obvious";

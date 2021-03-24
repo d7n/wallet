@@ -1,1 +1,1 @@
-var mnemonic = "wool sea vessel again boost laptop flower wisdom obvious okay office mule";
+var mnemonic = "submit loyal speed episode crime demise churn favorite stone ordinary time people";

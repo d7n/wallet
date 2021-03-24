@@ -1,1 +1,1 @@
-var mnemonic = "divide filter script buddy used tiger inside tragic warm usual decorate rail";
+var mnemonic = "essay soap lady mystery inch stable absurd cry very oppose bind broken";

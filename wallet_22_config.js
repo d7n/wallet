@@ -1,1 +1,1 @@
-var mnemonic = "warrior finish main napkin cry quarter village glance flame advice equal chicken";
+var mnemonic = "crush deny wet often music purchase course very depend crisp farm spend";

@@ -1,1 +1,1 @@
-var mnemonic = "town major sentence sibling dog noise ring genuine clinic bomb develop drive";
+var mnemonic = "duck neutral omit nice ketchup agree office cable verify echo differ panic";

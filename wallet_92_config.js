@@ -1,1 +1,1 @@
-var mnemonic = "noodle mimic search wrong differ nominee enroll evidence photo six able valve";
+var mnemonic = "aim peanut envelope lens style junior remove cannon cigar hat bread insect";

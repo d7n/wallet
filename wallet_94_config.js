@@ -1,1 +1,1 @@
-var mnemonic = "myself message pony slogan reason various kite sure someone fine happy recall";
+var mnemonic = "state dynamic provide lend mask auction brave dignity cheese hungry average fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "must own chef gravity furnace detect broccoli imitate normal push leave extra";
+var mnemonic = "mimic supply enrich coach devote layer produce rich deputy limit tuition embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "panic appear print bleak grape mosquito elite gorilla fortune phone shoot drum";
+var mnemonic = "acquire sudden enemy one monster soap sword paper afraid wedding base gather";

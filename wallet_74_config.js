@@ -1,1 +1,1 @@
-var mnemonic = "pole flat evil earn wife tumble trick lunar fancy skill faith measure";
+var mnemonic = "cruel seat reopen oak boss pool galaxy armor spoil treat speak hundred";

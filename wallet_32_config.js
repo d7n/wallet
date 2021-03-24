@@ -1,1 +1,1 @@
-var mnemonic = "shrimp camp skull tourist guitar snack tonight sad enhance banana bird guilt";
+var mnemonic = "enable crunch jazz carbon stand scene pioneer ball tail fun coyote life";

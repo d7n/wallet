@@ -1,1 +1,1 @@
-var mnemonic = "correct test body multiply imitate light stick illegal wage art one airport";
+var mnemonic = "chunk annual sun fee caught trumpet slogan crumble trigger print own swarm";

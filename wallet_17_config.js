@@ -1,1 +1,1 @@
-var mnemonic = "raw report chest sport crouch rally salmon hybrid hollow spell autumn play";
+var mnemonic = "gorilla reject claim luggage victory adjust since option yellow ankle resource series";

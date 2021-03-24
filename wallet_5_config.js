@@ -1,1 +1,1 @@
-var mnemonic = "apart prevent gold average glass city budget audit seat flavor tired umbrella";
+var mnemonic = "bar flame spin fix language sport attack hospital rescue cushion undo payment";

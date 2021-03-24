@@ -1,1 +1,1 @@
-var mnemonic = "toast horror depend sound loyal indicate tiger shrimp knock prepare raw cabbage";
+var mnemonic = "salute silver pipe lounge ritual guitar exit able leopard brief slogan melt";

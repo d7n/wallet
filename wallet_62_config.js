@@ -1,1 +1,1 @@
-var mnemonic = "torch put caution drip dutch nuclear organ story cook sustain guard index";
+var mnemonic = "practice usage march drink zero unfair wash rubber corn sudden noise pull";

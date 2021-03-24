@@ -1,1 +1,1 @@
-var mnemonic = "ribbon tent miss expire matrix else comic runway wife goddess attract cradle";
+var mnemonic = "call home right scatter galaxy divert render border position isolate direct taste";

@@ -1,1 +1,1 @@
-var mnemonic = "dance flower panic divide witness kid renew erosion squirrel benefit opera cluster";
+var mnemonic = "system stool security extend gentle lawn mutual east shove security lemon pigeon";

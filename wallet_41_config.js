@@ -1,1 +1,1 @@
-var mnemonic = "casino cloth invite victory alert athlete kiwi eyebrow corn cheese nothing naive";
+var mnemonic = "cloth dutch inform elevator raven toilet month bomb forget fortune estate joy";

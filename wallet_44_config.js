@@ -1,1 +1,1 @@
-var mnemonic = "drip hole margin embody raise social glove subject deer opinion iron sibling";
+var mnemonic = "reward cricket page seed legal opinion infant wonder verify worth language jacket";

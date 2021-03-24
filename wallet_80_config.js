@@ -1,1 +1,1 @@
-var mnemonic = "monkey rhythm casual select there stove avocado cousin never giggle usage wedding";
+var mnemonic = "bus exist identify humble shoot muffin crunch minor when million someone relax";

@@ -1,1 +1,1 @@
-var mnemonic = "original flavor critic whale ancient erupt alcohol project riot print comic cabin";
+var mnemonic = "bean refuse admit absent myself cabbage toy erase ladder axis because thought";

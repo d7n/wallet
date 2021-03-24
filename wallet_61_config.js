@@ -1,1 +1,1 @@
-var mnemonic = "opera behind concert stable velvet upset royal satoshi vapor relax unveil sea";
+var mnemonic = "cupboard exhibit powder false mass casual dust mail frozen awful loud shrimp";

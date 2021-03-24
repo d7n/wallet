@@ -1,1 +1,1 @@
-var mnemonic = "cattle country try rug resource desk peanut ramp plastic close laundry monkey";
+var mnemonic = "foster dutch scout gasp leg foil coconut quality lottery general embody jazz";

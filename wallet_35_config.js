@@ -1,1 +1,1 @@
-var mnemonic = "adult pitch theory pattern student scrap deny junk task raw wish exotic";
+var mnemonic = "soccer since shallow finish room famous clay prize scene timber penalty wet";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit devote text prefer mansion connect bronze turtle stove bike plastic feel";
+var mnemonic = "bone mixture aunt garlic luggage wet describe dinner purpose enlist sibling detect";

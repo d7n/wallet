@@ -1,1 +1,1 @@
-var mnemonic = "month age feel bulk erode portion prevent tool unveil purity text voice";
+var mnemonic = "right tree vintage worry mesh wreck drive comfort argue train text silver";

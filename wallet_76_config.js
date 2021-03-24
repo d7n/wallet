@@ -1,1 +1,1 @@
-var mnemonic = "transfer snake poet tail fantasy vehicle filter slight human tray caution sting";
+var mnemonic = "current welcome awake puppy milk ecology trial gap end appear cool tuna";

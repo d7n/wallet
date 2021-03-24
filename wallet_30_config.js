@@ -1,1 +1,1 @@
-var mnemonic = "leisure dutch mixture argue fit subway mesh replace recall glad couch panic";
+var mnemonic = "wage summer sick leave pen flavor teach swap secret dad lesson gate";

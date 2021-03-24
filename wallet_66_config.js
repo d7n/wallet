@@ -1,1 +1,1 @@
-var mnemonic = "bring wrist frown where tide hood buyer portion honey seven surprise bamboo";
+var mnemonic = "harsh oven laugh meat pigeon coyote rent wisdom tired pave sting ranch";

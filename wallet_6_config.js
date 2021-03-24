@@ -1,1 +1,1 @@
-var mnemonic = "churn wasp water bullet baby auto exotic clump trigger eagle maple front";
+var mnemonic = "maid copper they enjoy acid genius firm glance immense lucky that endless";

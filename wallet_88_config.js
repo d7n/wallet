@@ -1,1 +1,1 @@
-var mnemonic = "logic jaguar soda coffee phrase beauty cherry lizard again crop wall muffin";
+var mnemonic = "update logic title autumn erase valid junior north owner shop depend venue";

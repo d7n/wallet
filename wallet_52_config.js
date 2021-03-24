@@ -1,1 +1,1 @@
-var mnemonic = "bitter athlete cereal oblige play move wide brick cake photo robot direct";
+var mnemonic = "weather joke vault decade moment rubber truly slam festival attitude lyrics unfold";

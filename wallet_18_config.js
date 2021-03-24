@@ -1,1 +1,1 @@
-var mnemonic = "kiss fire flat mountain absent mix anger unlock autumn begin bomb soccer";
+var mnemonic = "girl boss kitchen boss patient harsh roof market uphold pave reason already";

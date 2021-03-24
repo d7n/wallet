@@ -1,1 +1,1 @@
-var mnemonic = "view seminar family toilet crew engine already undo sponsor face identify sword";
+var mnemonic = "funny patrol filter velvet inject chicken paddle captain inflict onion ketchup boy";

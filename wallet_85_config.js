@@ -1,1 +1,1 @@
-var mnemonic = "train nice income dish salmon spray arena wash edit want ginger turn";
+var mnemonic = "shop truth grape antique stand rocket catch inmate hover soda oven setup";

@@ -1,1 +1,1 @@
-var mnemonic = "assume laundry relax reveal avocado demise blouse horror obvious enhance fan mail";
+var mnemonic = "exchange fever weapon fix frost carbon whale welcome tumble maze fish inquiry";

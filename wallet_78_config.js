@@ -1,1 +1,1 @@
-var mnemonic = "relief often flush buddy pyramid magic remove wash rude high settle novel";
+var mnemonic = "exercise live humor photo attract relief artwork tragic reason onion uncover usual";

@@ -1,1 +1,1 @@
-var mnemonic = "stone bleak tribe that tribe daring girl pumpkin ensure rabbit rabbit spike";
+var mnemonic = "clutch mad era boss confirm glove tank desert auto sunny wink behave";

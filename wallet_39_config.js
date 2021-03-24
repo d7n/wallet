@@ -1,1 +1,1 @@
-var mnemonic = "aspect ability dignity unveil unusual program tip shrimp month funny gesture member";
+var mnemonic = "saddle father drive essence tooth exhaust priority cat dry utility walnut sister";

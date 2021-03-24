@@ -1,1 +1,1 @@
-var mnemonic = "loud round open good inhale panther cruel place used category trust device";
+var mnemonic = "toilet visit thrive fame rescue tackle scatter animal history level inherit method";

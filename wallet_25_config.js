@@ -1,1 +1,1 @@
-var mnemonic = "erase address rule replace apple prize tree equal expect sea report dune";
+var mnemonic = "nation best fence stable rib monster peanut piece glance popular turtle spatial";

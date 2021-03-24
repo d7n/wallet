@@ -1,1 +1,1 @@
-var mnemonic = "recycle position rally census share celery control warm vibrant cart keep whisper";
+var mnemonic = "mango adjust original prison spy venue cash glove scare drastic river expire";

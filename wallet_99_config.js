@@ -1,1 +1,1 @@
-var mnemonic = "power fetch debris disorder another hockey clap century arrive typical mobile couple";
+var mnemonic = "undo uncle ticket decrease parent define purpose they turtle invest gate cream";

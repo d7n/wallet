@@ -1,1 +1,1 @@
-var mnemonic = "fiber rib category atom west develop bunker candy bounce cheap six occur";
+var mnemonic = "liberty exit twin notice basket loyal universe decorate diagram roast gentle imitate";

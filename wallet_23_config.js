@@ -1,1 +1,1 @@
-var mnemonic = "blanket pigeon athlete amazing faith raw chef accident adult ice round load";
+var mnemonic = "ghost illness ostrich ship kitten permit correct various ship upgrade trade doctor";

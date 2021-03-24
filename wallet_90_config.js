@@ -1,1 +1,1 @@
-var mnemonic = "fiscal lamp merit episode soul diesel present banner faith velvet fade best";
+var mnemonic = "erase gown mind elite original dynamic lemon enact awesome excuse cheese minor";

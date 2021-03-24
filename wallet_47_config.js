@@ -1,1 +1,1 @@
-var mnemonic = "mutual cloth emerge suggest unusual cannon cup frost gasp husband right saddle";
+var mnemonic = "today person nation wink trim mammal weekend disagree emerge unhappy crouch penalty";

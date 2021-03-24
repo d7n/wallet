@@ -1,1 +1,1 @@
-var mnemonic = "half pen solid ten hat sibling exact fold agree tank glide safe";
+var mnemonic = "neither what wife apology try across chest asthma must sock floor vocal";

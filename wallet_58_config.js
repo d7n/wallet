@@ -1,1 +1,1 @@
-var mnemonic = "divorce actress chuckle lemon vocal pear unveil face bless square nose pet";
+var mnemonic = "dry fossil stand combine siege machine oven cousin evolve essay tree flag";

@@ -1,1 +1,1 @@
-var mnemonic = "blur half dwarf noodle prison mean inch alone hover problem pen visit";
+var mnemonic = "enroll state trophy approve rigid crazy genius cruel muffin cloud hole census";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty uncle pond valve stage throw unusual room language ring enable join";
+var mnemonic = "secret emotion feature reunion together ahead forget orchard antique fee boring squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "price plunge update fame clinic tuna airport tenant raise valve lawn address";
+var mnemonic = "muscle unfair one daughter blind shoe surge unfair test envelope cupboard demand";

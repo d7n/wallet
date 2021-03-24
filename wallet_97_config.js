@@ -1,1 +1,1 @@
-var mnemonic = "decorate busy law this noble nuclear possible chat tribe obey resemble aspect";
+var mnemonic = "know nominee cattle fury what inherit scrub nose oppose recall uncover liquid";

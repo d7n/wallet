@@ -1,1 +1,1 @@
-var mnemonic = "cute rapid girl moral swift mirror act slim about inform crash surge";
+var mnemonic = "taste license sunny nature party federal behind under sting typical dog soon";

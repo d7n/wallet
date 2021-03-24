@@ -1,1 +1,1 @@
-var mnemonic = "fatal jazz clap gym collect tent emerge small soul enrich toward inside";
+var mnemonic = "dream owner midnight torch round nation come blouse top nature arctic upset";

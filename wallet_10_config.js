@@ -1,1 +1,1 @@
-var mnemonic = "case wink fragile juice vendor garlic disease enlist nothing alert detect olympic";
+var mnemonic = "dynamic rival smart any atom team write hunt dish practice limit traffic";

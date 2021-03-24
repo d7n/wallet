@@ -1,1 +1,1 @@
-var mnemonic = "action muffin awesome margin rookie differ lens plunge cube indoor gossip happy";
+var mnemonic = "swap seven pen bubble pottery goddess clinic clog direct general athlete deputy";

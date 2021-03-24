@@ -1,1 +1,1 @@
-var mnemonic = "chair joy warrior toy lesson auto casino hunt chair cotton stereo journey";
+var mnemonic = "culture task error churn monster boss cry culture tone hood tray verb";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla aisle mobile head tree evil neutral unaware amateur office hair announce";
+var mnemonic = "enforce orange quarter bus brisk myth nominee prepare dust dolphin horse amazing";

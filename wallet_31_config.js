@@ -1,1 +1,1 @@
-var mnemonic = "myth someone voice eternal fiscal horn virus arrest measure chief road urge";
+var mnemonic = "hammer describe onion alarm again broken material donor test symbol despair march";

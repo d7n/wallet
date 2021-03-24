@@ -1,1 +1,1 @@
-var mnemonic = "sail latin mimic help total reduce reward hood snack hold cluster front";
+var mnemonic = "advice net ladder old morning surprise kitchen thumb turtle guitar lady craft";

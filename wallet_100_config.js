@@ -1,1 +1,1 @@
-var mnemonic = "wood cricket student enable wet mention penalty gather emotion brush april inquiry";
+var mnemonic = "dumb twin notice aunt exhibit age heart dwarf rose private hungry photo";

@@ -1,1 +1,1 @@
-var mnemonic = "execute woman asthma street canyon negative course assume change pause quit grief";
+var mnemonic = "future grief dizzy movie express hub nurse poverty glimpse they canoe room";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer inflict hair sorry thank hero pave parrot service buffalo online saddle";
+var mnemonic = "direct reopen beach wolf goose junior lobster dance tragic situate thing loud";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious system measure shuffle opinion what retire frame humor latin wife monster";
+var mnemonic = "blind toe spirit toe allow team famous demise rug device finish embody";

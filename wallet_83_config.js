@@ -1,1 +1,1 @@
-var mnemonic = "harvest gloom service tunnel wear autumn matrix drastic acid tortoise peasant luggage";
+var mnemonic = "grain pipe fatal obscure chalk lift satisfy chimney matrix silver paper moral";

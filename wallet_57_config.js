@@ -1,1 +1,1 @@
-var mnemonic = "cross border news dash donate adjust siren armed bottom typical catch left";
+var mnemonic = "wine loan deliver track absurd adapt absorb afraid crack dial rebuild secret";

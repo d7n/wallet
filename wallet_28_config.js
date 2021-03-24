@@ -1,1 +1,1 @@
-var mnemonic = "daughter skull lunch leave pyramid pave physical steel hello poverty uncover shield";
+var mnemonic = "sight satisfy reflect balance truth accuse senior double disorder often mother announce";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff service cost giraffe general effort keep alarm excuse much kid tackle";
+var mnemonic = "wife large disease forget spider give random question life bicycle betray column";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair laptop cactus conduct squirrel hundred flag reform fresh alert age pond";
+var mnemonic = "riot agent office attitude flame silly evolve trumpet assume alert supreme desert";

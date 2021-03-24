@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow mushroom left have ability produce dune confirm crash dirt reform follow";
+var mnemonic = "almost nose wisdom humble script glass plastic mention disease road bag dream";

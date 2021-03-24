@@ -1,1 +1,1 @@
-var mnemonic = "dish soldier pattern chef alert immense define letter explain curve squeeze rose";
+var mnemonic = "law perfect sorry certain adapt bid wild during garden hip mercy pause";

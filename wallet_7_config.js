@@ -1,1 +1,1 @@
-var mnemonic = "image limit silver combine furnace style cattle oil wet protect term consider";
+var mnemonic = "express sure plastic kite dwarf left then clay equip surprise lottery famous";

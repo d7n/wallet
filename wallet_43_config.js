@@ -1,1 +1,1 @@
-var mnemonic = "lab chimney rifle inner dial pond post trip boost ketchup story lab";
+var mnemonic = "place smooth butter resource size project arch canal smart royal couch fluid";

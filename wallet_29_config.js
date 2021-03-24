@@ -1,1 +1,1 @@
-var mnemonic = "nothing ankle artefact legend annual badge notable village chase hub sell pond";
+var mnemonic = "obey car bubble audit pulse hurt volume coil subway clap sudden wire";

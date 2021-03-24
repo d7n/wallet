@@ -1,1 +1,1 @@
-var mnemonic = "essence fee ankle giant already detail dawn result public squirrel arrange fame";
+var mnemonic = "habit soon priority target average immune oak wild quiz butter exchange toast";

@@ -1,1 +1,1 @@
-var mnemonic = "father orbit happy ketchup eight nut alarm account board echo shoot slice";
+var mnemonic = "fortune slow source shove wonder scissors general mirror obvious push deal around";

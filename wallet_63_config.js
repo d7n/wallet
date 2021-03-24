@@ -1,1 +1,1 @@
-var mnemonic = "maid mouse axis impulse peace depth expose cross mushroom wife armor hobby";
+var mnemonic = "birth calm portion guess picture raccoon glimpse sniff sauce soon upset absent";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble gorilla swarm arctic host cradle stable spring exist pull cannon letter";
+var mnemonic = "garden purse shed ten impose stairs core light sunny derive furnace quit";

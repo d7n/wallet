@@ -1,1 +1,1 @@
-var mnemonic = "make pact pond mind render fence planet trick surface explain coffee timber";
+var mnemonic = "phone print mention pair dinosaur access orbit increase theory panel symptom coffee";

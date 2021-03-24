@@ -1,1 +1,1 @@
-var mnemonic = "used group history payment vault mind tell sorry coconut pact neutral shiver";
+var mnemonic = "step isolate great crop trumpet song early sibling fortune aware brush comfort";

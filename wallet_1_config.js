@@ -1,1 +1,1 @@
-var mnemonic = "wrap frequent panther only alcohol picture among tourist exclude damage leisure earth";
+var mnemonic = "elder budget left syrup radio wreck toward merry enemy organ model tourist";

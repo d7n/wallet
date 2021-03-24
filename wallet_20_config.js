@@ -1,1 +1,1 @@
-var mnemonic = "liberty practice pitch pig diagram history output observe woman tree capital perfect";
+var mnemonic = "cool summer sleep scatter used inhale ahead possible right column scene column";

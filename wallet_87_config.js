@@ -1,1 +1,1 @@
-var mnemonic = "film master stamp mix damp supply echo exotic crucial drift cream radio";
+var mnemonic = "pond agent segment amused appear sure hotel erode target element craft adapt";

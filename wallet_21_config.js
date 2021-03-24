@@ -1,1 +1,1 @@
-var mnemonic = "resist credit lift about estate gate unhappy measure always beyond toy receive";
+var mnemonic = "casual vivid elder text cram error panther resource debris south violin license";

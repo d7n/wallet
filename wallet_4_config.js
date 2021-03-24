@@ -1,1 +1,1 @@
-var mnemonic = "diet follow craft quick chair marble melt step foster loud surround way";
+var mnemonic = "govern laundry want taste drum index hover annual orange split industry table";
