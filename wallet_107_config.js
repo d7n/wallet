@@ -1,1 +1,1 @@
-var mnemonic = "genius edit thing start harbor orient pupil course cup jar boring kid";
+var mnemonic = "knock adult cement guard sauce distance over present concert vibrant invite inquiry";

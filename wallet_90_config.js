@@ -1,1 +1,1 @@
-var mnemonic = "quick hammer door very train account bargain mobile orient lunar salad onion";
+var mnemonic = "noodle cement outdoor finger rack broccoli city indicate spoon goat cry escape";

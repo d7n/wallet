@@ -1,1 +1,1 @@
-var mnemonic = "century drastic begin head put dance diary boy buyer gesture jar spring";
+var mnemonic = "dizzy web father final feed tag air rack release buffalo satoshi cable";

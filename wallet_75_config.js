@@ -1,1 +1,1 @@
-var mnemonic = "gadget portion buddy arm alien awful nurse stool pact taste remain inherit";
+var mnemonic = "bulb assume rate tip luxury basket fringe atom tiger before actual bubble";

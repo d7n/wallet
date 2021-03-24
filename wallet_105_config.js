@@ -1,1 +1,1 @@
-var mnemonic = "bless plastic unlock ranch explain april rug nerve alone mystery junior sad";
+var mnemonic = "myth mercy chicken urban buzz pond chat arrow visa idle pony auction";

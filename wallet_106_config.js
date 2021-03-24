@@ -1,1 +1,1 @@
-var mnemonic = "guard dad oven foot regret earth arctic hundred original wrong discover napkin";
+var mnemonic = "prepare impose volcano cup remind nose cry fruit vessel owner cotton offer";

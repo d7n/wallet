@@ -1,1 +1,1 @@
-var mnemonic = "state ride tackle idea limit sick wide phone relief mansion exclude color";
+var mnemonic = "kingdom champion riot alarm bacon canoe leisure lonely lawsuit scissors loud glare";

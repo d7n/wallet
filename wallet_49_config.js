@@ -1,1 +1,1 @@
-var mnemonic = "sweet defense skin device cannon scrub moral reason angry cool advance destroy";
+var mnemonic = "theory high between cloud smart rotate safe notable sick wolf action lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "glide toast betray ketchup cover canal gentle return certain someone biology sample";
+var mnemonic = "cement drink toss when panel retreat dog someone brave denial brief hard";

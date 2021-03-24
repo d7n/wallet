@@ -1,1 +1,1 @@
-var mnemonic = "jungle since food priority present lunch myself olympic noise toddler dismiss curve";
+var mnemonic = "identify join exist shop pipe hen carry galaxy vocal creek slush plunge";

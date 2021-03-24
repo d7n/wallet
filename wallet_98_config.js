@@ -1,1 +1,1 @@
-var mnemonic = "dial measure impulse return arrow under bomb rose little core skull globe";
+var mnemonic = "trigger just panic dream opinion melody voice divide unveil crouch language weasel";

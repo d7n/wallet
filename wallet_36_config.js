@@ -1,1 +1,1 @@
-var mnemonic = "bless churn hidden work cloth injury close bicycle skirt awful project next";
+var mnemonic = "spawn maple column trash start vendor turtle victory bind announce armed midnight";

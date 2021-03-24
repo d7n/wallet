@@ -1,1 +1,1 @@
-var mnemonic = "dinner convince invite portion stomach small film venue scrap item size kid";
+var mnemonic = "educate used unknown spice jump rain legend accuse best mimic toward entry";

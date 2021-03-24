@@ -1,1 +1,1 @@
-var mnemonic = "skirt recycle hope shiver young crunch organ metal sunny endless prosper tomorrow";
+var mnemonic = "unfair wave require toilet alley pattern chat east trade ten kiwi source";

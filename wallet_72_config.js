@@ -1,1 +1,1 @@
-var mnemonic = "curtain open faint phone glove embrace resource nothing explain material mixture verb";
+var mnemonic = "robust potato suffer tip evidence senior false horse hold flock peasant author";

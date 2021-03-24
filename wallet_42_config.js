@@ -1,1 +1,1 @@
-var mnemonic = "lesson man business catch mule six exhaust win humor twist ice assault";
+var mnemonic = "device hurdle number cross dinosaur fiction rookie all front trim blush acquire";

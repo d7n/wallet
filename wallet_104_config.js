@@ -1,1 +1,1 @@
-var mnemonic = "news mandate october direct enter laugh stadium relief noodle ethics orient multiply";
+var mnemonic = "buddy crawl erupt blossom rabbit object local tenant innocent excess august exhibit";

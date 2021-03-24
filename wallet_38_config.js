@@ -1,1 +1,1 @@
-var mnemonic = "miracle inside night city raven endorse outside balance click donkey library glare";
+var mnemonic = "unit pill text divide loyal uncle polar best awake powder vital cat";

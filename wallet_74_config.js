@@ -1,1 +1,1 @@
-var mnemonic = "tongue later quantum garbage stomach fog same urge vague convince length solve";
+var mnemonic = "forward danger object topple affair census potato choose impact impulse gorilla clog";

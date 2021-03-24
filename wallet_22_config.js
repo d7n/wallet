@@ -1,1 +1,1 @@
-var mnemonic = "cute kingdom arena build bridge jacket naive asthma exhibit come term erode";
+var mnemonic = "stool claw kangaroo fabric wait acoustic advice rack sort still test snake";

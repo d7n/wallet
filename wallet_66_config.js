@@ -1,1 +1,1 @@
-var mnemonic = "almost result rib bar allow butter super cook vague solid lamp stable";
+var mnemonic = "horror bounce curve hip birth emerge sweet purity gallery edit material panda";

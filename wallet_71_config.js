@@ -1,1 +1,1 @@
-var mnemonic = "strike purity guitar unit dry near swear apart art pudding wife charge";
+var mnemonic = "glide exile enroll sand artist cart planet calm purity throw suspect panther";

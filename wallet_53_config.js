@@ -1,1 +1,1 @@
-var mnemonic = "air cactus small evoke view nothing issue reunion improve barrel give laugh";
+var mnemonic = "cloth prefer panda monster mistake already tornado fresh pepper craft odor craft";

@@ -1,1 +1,1 @@
-var mnemonic = "invest music area crunch ask stereo betray enlist scrap loan legend hour";
+var mnemonic = "move salon into leader police flag claw frequent hawk meadow thing lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety estate exhibit sense leisure raise crash category ride palm father mobile";
+var mnemonic = "message pill zone limit snow together become above pact pelican item limb";

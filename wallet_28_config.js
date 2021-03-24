@@ -1,1 +1,1 @@
-var mnemonic = "skull situate adapt mom visual enforce melt click detect spring tray twin";
+var mnemonic = "banana invest fortune hurt high fault asset casino flower balcony drum merit";

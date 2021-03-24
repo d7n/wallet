@@ -1,1 +1,1 @@
-var mnemonic = "muffin nose easily cliff cat stairs quantum bread maid analyst copy deer";
+var mnemonic = "pilot lounge expire slogan illegal royal inherit input remind must congress chef";

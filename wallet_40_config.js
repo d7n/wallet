@@ -1,1 +1,1 @@
-var mnemonic = "morning end corn obey tell veteran during cake region issue panic error";
+var mnemonic = "pear dust unique blast sponsor increase symptom uncle safe motion orient lonely";

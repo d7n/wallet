@@ -1,1 +1,1 @@
-var mnemonic = "inhale enrich space topple ripple when hope alter gospel endorse carry replace";
+var mnemonic = "review grace camera spare resource clip trip beauty mail rather apart rebel";

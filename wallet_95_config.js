@@ -1,1 +1,1 @@
-var mnemonic = "north virtual hat minimum infant rent giggle celery rookie planet ignore amused";
+var mnemonic = "fluid surround super zone adult provide crumble include athlete siege genius item";

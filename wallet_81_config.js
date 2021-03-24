@@ -1,1 +1,1 @@
-var mnemonic = "any project sudden acid warrior day survey pencil that spatial garage square";
+var mnemonic = "flee clinic patrol post seminar evoke avoid black come champion cost predict";

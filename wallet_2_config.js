@@ -1,1 +1,1 @@
-var mnemonic = "calm ecology grass wise this trip sick time team success clinic subject";
+var mnemonic = "grape update impulse camera biology flight divide stool assault neck snap improve";

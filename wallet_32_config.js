@@ -1,1 +1,1 @@
-var mnemonic = "copper wife exhaust burden split clock muffin pink earth deer hockey stick";
+var mnemonic = "act insane common mountain swap erase discover ozone grab vehicle melody number";

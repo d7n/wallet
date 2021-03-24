@@ -1,1 +1,1 @@
-var mnemonic = "hip volume very bless ridge spin cable obscure century simple decade notable";
+var mnemonic = "mind cost refuse absent trade aisle rug wrap keep dune artwork average";

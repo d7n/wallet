@@ -1,1 +1,1 @@
-var mnemonic = "warm notable ten fish inspire nut grit express frown shove away beef";
+var mnemonic = "notable settle turtle sight harsh wave onion mystery cry age ridge lens";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster way summer middle exhaust chalk toe claim habit spend basic shoe";
+var mnemonic = "shoulder solve hero also crisp gasp struggle cave swim surge outdoor ill";

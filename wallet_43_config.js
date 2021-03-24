@@ -1,1 +1,1 @@
-var mnemonic = "anxiety network west poem over outside rare fiction coconut reflect foam void";
+var mnemonic = "oil dream today satisfy punch daughter apology blouse promote pupil pepper umbrella";

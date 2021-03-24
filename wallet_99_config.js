@@ -1,1 +1,1 @@
-var mnemonic = "punch odor slim merge supreme unique inhale fence chef code tribe defense";
+var mnemonic = "can near service scatter avocado abandon left prepare close aim any album";

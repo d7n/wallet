@@ -1,1 +1,1 @@
-var mnemonic = "copy decide advance govern access hockey marine term question story orchard supply";
+var mnemonic = "earth electric slab zero typical nation melody abuse cattle trouble bench doll";

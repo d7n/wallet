@@ -1,1 +1,1 @@
-var mnemonic = "model man scan witness usual sunny cheap humor ramp unit tray cruel";
+var mnemonic = "chunk accident lumber deal cart radar cradle mandate knee ride subway note";

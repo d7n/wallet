@@ -1,1 +1,1 @@
-var mnemonic = "correct asset mass frown include slice bag grocery royal tomato head opinion";
+var mnemonic = "arena boat duck olive razor comic enough dirt steak figure acoustic wage";

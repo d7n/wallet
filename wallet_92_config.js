@@ -1,1 +1,1 @@
-var mnemonic = "clock path zone shaft announce miss alter inflict sand moral want north";
+var mnemonic = "invite verify cliff drastic sure agree off pill renew blame pool spin";

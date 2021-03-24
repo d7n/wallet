@@ -1,1 +1,1 @@
-var mnemonic = "camera valid core glue zero nuclear tell moment double fitness error lawn";
+var mnemonic = "put evolve route vapor assume public myself unique soft short expand armed";

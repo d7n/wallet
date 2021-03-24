@@ -1,1 +1,1 @@
-var mnemonic = "round game december shop code jelly edit early crack truck mountain prize";
+var mnemonic = "slice pupil panel page hedgehog rice pen dinner say siege margin please";

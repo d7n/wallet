@@ -1,1 +1,1 @@
-var mnemonic = "sadness together wet month easily custom gaze matter sea filter original quote";
+var mnemonic = "speak tornado real chair answer sign fuel deny delay shy stomach upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "image canyon this trial flush lamp gaze trouble search net drift foot";
+var mnemonic = "earn retreat scrub flip payment pigeon snow day human light guide hub";

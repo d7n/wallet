@@ -1,1 +1,1 @@
-var mnemonic = "dad jazz pear race pattern bargain shiver flee story detect fun disagree";
+var mnemonic = "silent surge jacket field tourist heart height satisfy skate aisle clock melody";

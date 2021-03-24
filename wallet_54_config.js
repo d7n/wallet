@@ -1,1 +1,1 @@
-var mnemonic = "speed state zero powder angle coyote object wisdom thank sleep become rent";
+var mnemonic = "denial guess dragon solar blame tunnel account vintage speak ranch lawn day";

@@ -1,1 +1,1 @@
-var mnemonic = "smile tumble normal hood cactus document car people two aim library grief";
+var mnemonic = "pet fashion argue someone betray trial rescue struggle foster animal churn execute";

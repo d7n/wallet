@@ -1,1 +1,1 @@
-var mnemonic = "sugar crowd select nest share nature still museum envelope balcony add rain";
+var mnemonic = "fence law olympic delay retreat muffin ridge enough mixed fuel action palm";

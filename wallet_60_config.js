@@ -1,1 +1,1 @@
-var mnemonic = "favorite surge stem venue fire sponsor pride rival toilet patch echo grit";
+var mnemonic = "security voyage over defense click core comfort welcome online feature arrange bid";

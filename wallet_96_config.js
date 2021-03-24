@@ -1,1 +1,1 @@
-var mnemonic = "century rich detail cricket main problem broom leader mesh primary upon wish";
+var mnemonic = "side model steel public soccer east grunt iron february undo fragile output";

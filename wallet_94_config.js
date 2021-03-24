@@ -1,1 +1,1 @@
-var mnemonic = "warrior talent since used kind explain shoe charge impact damp oppose thrive";
+var mnemonic = "winner candy wonder cake consider now defense summer bracket rifle burst puppy";

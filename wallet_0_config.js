@@ -1,1 +1,1 @@
-var mnemonic = "spare response pact innocent hamster census process shiver rescue grief town lottery";
+var mnemonic = "female zoo track sound cotton diagram vault eager panther fire slush mammal";

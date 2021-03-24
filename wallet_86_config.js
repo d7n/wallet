@@ -1,1 +1,1 @@
-var mnemonic = "reward innocent emerge fun manual clay put pause measure trend indicate dress";
+var mnemonic = "twelve ladder spare speak rug leg stage board cream render menu ankle";

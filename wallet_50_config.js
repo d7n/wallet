@@ -1,1 +1,1 @@
-var mnemonic = "scorpion typical sheriff dumb goose monkey measure nation empower whale demand very";
+var mnemonic = "leader surprise weird estate major soup stereo time kick trade flock beyond";

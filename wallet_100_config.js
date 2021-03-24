@@ -1,1 +1,1 @@
-var mnemonic = "fabric ordinary section summer attend wealth invest banner agent dinosaur clay private";
+var mnemonic = "group sister hurt ticket amazing west strategy system ankle pelican assist add";

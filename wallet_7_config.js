@@ -1,1 +1,1 @@
-var mnemonic = "harvest happy news wool robust label speed enroll cluster film blossom spare";
+var mnemonic = "option romance obvious brass online trash outdoor giant mixture casual manage yellow";

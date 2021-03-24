@@ -1,1 +1,1 @@
-var mnemonic = "address open before ridge mail author share oxygen razor parade pause oil";
+var mnemonic = "match exhaust dutch melody excite donkey february shed fat anchor adjust evidence";

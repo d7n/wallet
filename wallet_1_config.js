@@ -1,1 +1,1 @@
-var mnemonic = "laptop step ozone exhaust describe key process tool soldier famous word awful";
+var mnemonic = "amused sadness little myth walnut hazard ketchup toilet smile fade merit vast";

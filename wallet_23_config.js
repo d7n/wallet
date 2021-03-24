@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit boss gasp flame empty bubble cross run proud cube grant toast";
+var mnemonic = "brother crash awesome ketchup fashion spatial nut canoe panther barrel text dawn";

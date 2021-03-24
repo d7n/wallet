@@ -1,1 +1,1 @@
-var mnemonic = "bamboo awesome just media real satoshi method smoke love unable august field";
+var mnemonic = "bicycle kick water angle pipe vacant kind weird proof hand mutual ask";

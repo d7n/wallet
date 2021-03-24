@@ -1,1 +1,1 @@
-var mnemonic = "assist nasty resist mystery hazard lion quote catalog name embark stem fantasy";
+var mnemonic = "pear prevent winner frost target marine emerge camera market square prefer rescue";

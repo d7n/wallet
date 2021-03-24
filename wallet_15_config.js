@@ -1,1 +1,1 @@
-var mnemonic = "across enact buddy tobacco rally drill stumble raccoon wagon salad pigeon bulk";
+var mnemonic = "pledge extend crime square patient enrich razor virus similar layer december senior";

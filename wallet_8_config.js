@@ -1,1 +1,1 @@
-var mnemonic = "market retreat later banana cry turtle strong drive warfare vehicle master beyond";
+var mnemonic = "occur system clinic cotton wrong canal crunch glory dish then main eagle";

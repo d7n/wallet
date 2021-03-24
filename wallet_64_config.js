@@ -1,1 +1,1 @@
-var mnemonic = "vivid concert loud rubber help rent broccoli session exclude extend choose alter";
+var mnemonic = "cry system canoe fat fortune tree eyebrow universe meadow slender finish gasp";

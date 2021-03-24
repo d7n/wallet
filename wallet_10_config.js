@@ -1,1 +1,1 @@
-var mnemonic = "flavor spend fossil genius until winter tooth solve fish neglect knife piano";
+var mnemonic = "motion crumble obvious curve kit jelly approve include sea sadness leg shoot";

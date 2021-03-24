@@ -1,1 +1,1 @@
-var mnemonic = "bamboo dilemma bridge exile message patient winner gold oppose eyebrow leave blade";
+var mnemonic = "escape motor raccoon asset bridge brother grow scene involve sea action humor";

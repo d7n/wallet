@@ -1,1 +1,1 @@
-var mnemonic = "casual lawsuit buddy joy vibrant visa indoor protect love voice rebuild unfair";
+var mnemonic = "tide crash humble month uniform plunge poet manual reveal mask push neck";

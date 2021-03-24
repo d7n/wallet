@@ -1,1 +1,1 @@
-var mnemonic = "invite country fiber width lemon piece ceiling kitchen hungry rib exhibit visa";
+var mnemonic = "kitten forward caught exercise cry visual whip edge soldier fault isolate worth";

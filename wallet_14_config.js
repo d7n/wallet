@@ -1,1 +1,1 @@
-var mnemonic = "cream nose illness prevent target spike token win picture denial gloom candy";
+var mnemonic = "sorry blood tape symptom crop dumb diesel october goose daring term become";

@@ -1,1 +1,1 @@
-var mnemonic = "forest gaze supply win pave bacon vague goat draft sudden concert artefact";
+var mnemonic = "much usage typical peasant reform drip busy hill about hill ice ecology";

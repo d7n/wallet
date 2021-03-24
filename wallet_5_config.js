@@ -1,1 +1,1 @@
-var mnemonic = "differ clay decade manual cup super warfare crack deputy sweet furnace ill";
+var mnemonic = "together avocado round jar pass taxi athlete palm illness will cruise smoke";

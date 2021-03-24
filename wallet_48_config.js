@@ -1,1 +1,1 @@
-var mnemonic = "fashion boost hobby dragon tuna dove defy belt cactus potato olympic silver";
+var mnemonic = "manage cat dish sort lab video slogan alert hour head retire mix";

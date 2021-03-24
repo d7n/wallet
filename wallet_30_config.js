@@ -1,1 +1,1 @@
-var mnemonic = "become inflict three confirm throw ignore suffer mountain mention wealth link animal";
+var mnemonic = "worth stick bullet pupil memory sea common team blade bulb awesome trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "club recipe monster glance spoon essence toddler horror transfer provide bid hunt";
+var mnemonic = "myth sun awkward manage orphan sudden govern word diet knock anchor twin";

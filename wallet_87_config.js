@@ -1,1 +1,1 @@
-var mnemonic = "sort melody know make cotton comfort resource human oblige august since ethics";
+var mnemonic = "join simple curtain fame ancient aspect regret erase enter scan spin endorse";

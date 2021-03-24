@@ -1,1 +1,1 @@
-var mnemonic = "february black panel spin near behave color save trick brave hover mystery";
+var mnemonic = "match mercy before stuff again track width vintage decade welcome absurd purchase";

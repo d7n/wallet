@@ -1,1 +1,1 @@
-var mnemonic = "tortoise punch legend affair fortune denial border orbit gap essence sound viable";
+var mnemonic = "rice excess insect blind vapor double total noodle foot afford steel detect";

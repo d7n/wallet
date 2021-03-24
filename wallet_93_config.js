@@ -1,1 +1,1 @@
-var mnemonic = "false game sibling tank spawn bamboo punch capital save shiver fall gas";
+var mnemonic = "slogan print poverty dumb strong alarm smooth mechanic holiday swallow magic wonder";

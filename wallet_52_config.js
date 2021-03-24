@@ -1,1 +1,1 @@
-var mnemonic = "fiscal husband cram render nurse venue town ski volume message surface off";
+var mnemonic = "green leader arrow eyebrow verify either bright trouble clay manage figure else";

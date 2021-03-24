@@ -1,1 +1,1 @@
-var mnemonic = "pond host august dismiss leaf lemon escape denial welcome beach rotate room";
+var mnemonic = "answer move bonus pink wish raven ski arena dune minimum spot topic";

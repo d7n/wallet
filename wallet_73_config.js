@@ -1,1 +1,1 @@
-var mnemonic = "rigid window warm priority crisp exhibit shallow divert swim fever such drink";
+var mnemonic = "first cube lady dragon actor say salad tonight elder taste warfare pottery";

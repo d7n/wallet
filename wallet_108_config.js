@@ -1,1 +1,1 @@
-var mnemonic = "liar disorder tunnel midnight amused coast relief auto follow twin inject connect";
+var mnemonic = "bachelor palm drink online soap dignity believe toe margin surface jar like";

@@ -1,1 +1,1 @@
-var mnemonic = "match mask cloth usage actual hope valve sudden round boss climb thought";
+var mnemonic = "witness film grit blade fossil thumb verb consider put near tape obtain";

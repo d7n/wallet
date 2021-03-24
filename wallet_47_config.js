@@ -1,1 +1,1 @@
-var mnemonic = "small impact hard pool oval donate shoulder energy problem rice palace message";
+var mnemonic = "cupboard bachelor leave alley lake they knee speak turtle blur thunder argue";

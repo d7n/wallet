@@ -1,1 +1,1 @@
-var mnemonic = "sing report enable absent rain movie roof airport maze dove crunch speed";
+var mnemonic = "flight carry rain profit poem found clock biology defy pill area reason";

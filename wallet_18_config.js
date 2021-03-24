@@ -1,1 +1,1 @@
-var mnemonic = "toss throw raw police knife undo shiver nut episode rabbit private drip";
+var mnemonic = "more behind exotic cave famous blood royal model battle wear include swamp";

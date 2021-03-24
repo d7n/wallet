@@ -1,1 +1,1 @@
-var mnemonic = "wet bamboo equal predict express vivid woman track armor unknown inflict attitude";
+var mnemonic = "sunset mass isolate lake leisure roof notable emotion horn inflict try series";

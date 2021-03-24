@@ -1,1 +1,1 @@
-var mnemonic = "mind inside segment boat danger slender image antique peace auto icon scrub";
+var mnemonic = "balcony rival action brief mesh must kitten cause oblige boy ugly swamp";

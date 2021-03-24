@@ -1,1 +1,1 @@
-var mnemonic = "mercy dwarf fault armed solve file salad meat resist smile brown deal";
+var mnemonic = "horror focus escape inflict group electric object throw wire idea rail reject";

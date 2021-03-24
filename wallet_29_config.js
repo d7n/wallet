@@ -1,1 +1,1 @@
-var mnemonic = "vessel measure title choose rival sustain conduct flash setup offer dirt picnic";
+var mnemonic = "unusual runway physical maid balance galaxy fragile text sight talk liberty parent";

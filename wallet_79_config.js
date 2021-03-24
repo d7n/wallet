@@ -1,1 +1,1 @@
-var mnemonic = "kidney garage hurt utility crisp witness prepare verb twenty salt aspect insane";
+var mnemonic = "ship frozen height slim grid desk across bomb express update acquire reject";
