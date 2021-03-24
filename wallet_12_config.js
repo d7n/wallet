@@ -1,1 +1,1 @@
-var mnemonic = "bicycle toddler provide emerge symptom language tail approve patient nut globe perfect";
+var mnemonic = "shove senior depart wish force sphere heart crater barrel panic begin settle";

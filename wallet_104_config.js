@@ -1,1 +1,1 @@
-var mnemonic = "curve oak volcano betray notable magic practice receive away library crime pencil";
+var mnemonic = "vendor focus december lunar rare woman reveal monitor wife route awful gun";

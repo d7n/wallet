@@ -1,1 +1,1 @@
-var mnemonic = "material mom regular smooth cloth prison journey crunch march fringe excite point";
+var mnemonic = "salt theme immense heavy goddess gravity snow sight file they case mask";

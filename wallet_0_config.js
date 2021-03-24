@@ -1,1 +1,1 @@
-var mnemonic = "rival dream borrow frown fancy gadget visa town wheat usage maze kitchen";
+var mnemonic = "coyote cement remind garbage exhibit season pull embrace liberty risk wait punch";

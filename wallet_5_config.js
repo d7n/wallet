@@ -1,1 +1,1 @@
-var mnemonic = "ranch trouble aware elegant cereal news they note hold equal rival render";
+var mnemonic = "little disorder toilet math shallow sound brand mutual whip wage enlist breeze";

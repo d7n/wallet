@@ -1,1 +1,1 @@
-var mnemonic = "tube damage enforce song stage potato ramp grief hazard child magic normal";
+var mnemonic = "globe test major riot lawn skull future audit bulk concert basic clock";

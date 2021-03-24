@@ -1,1 +1,1 @@
-var mnemonic = "motion leader upper dog february evidence museum state coconut catch spread armor";
+var mnemonic = "honey reform brother husband peasant orange amazing payment school buffalo shadow like";

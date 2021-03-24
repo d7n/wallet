@@ -1,1 +1,1 @@
-var mnemonic = "lunar reason destroy moment lamp hair blouse host dish work strategy desk";
+var mnemonic = "toilet paddle delay today future destroy artefact tornado remain sound dove midnight";

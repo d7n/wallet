@@ -1,1 +1,1 @@
-var mnemonic = "glow gap inject race speak february safe cave virus wine toilet margin";
+var mnemonic = "cruel learn voyage better awkward orphan ordinary lemon ask off enough favorite";

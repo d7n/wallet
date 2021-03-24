@@ -1,1 +1,1 @@
-var mnemonic = "advance vague any volcano surround busy type clever squirrel absurd almost country";
+var mnemonic = "arrange consider six wrap need treat burden topple unlock live trim canal";

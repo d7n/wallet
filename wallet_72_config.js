@@ -1,1 +1,1 @@
-var mnemonic = "machine twin group bulk element youth dignity torch empty blur extra couple";
+var mnemonic = "dad custom enrich flash bitter system ripple husband raise sure six private";

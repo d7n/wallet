@@ -1,1 +1,1 @@
-var mnemonic = "present weekend drive axis engine purchase toss grunt excuse exit eternal tennis";
+var mnemonic = "mandate month major want very question earn help father saddle cream fantasy";

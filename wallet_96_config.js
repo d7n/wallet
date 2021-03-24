@@ -1,1 +1,1 @@
-var mnemonic = "stove gain six toss wrist put razor title copper slice business behind";
+var mnemonic = "adapt warrior impose drop finger rally cry giggle spare mirror metal banner";

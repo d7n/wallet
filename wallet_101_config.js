@@ -1,1 +1,1 @@
-var mnemonic = "include water print end scrap age welcome hidden fancy ten pulp forest";
+var mnemonic = "thunder print vault party treat quote delay strong source rigid delay ice";

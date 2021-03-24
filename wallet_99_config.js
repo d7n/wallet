@@ -1,1 +1,1 @@
-var mnemonic = "focus tunnel rough enroll spatial motor neither pelican evil boil type region";
+var mnemonic = "key snap remain staff prefer deer scorpion assist orphan idle festival stove";

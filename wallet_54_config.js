@@ -1,1 +1,1 @@
-var mnemonic = "quarter antenna sense chat monitor road point assume muffin electric arm sound";
+var mnemonic = "street pear crop town learn boss bone midnight person ladder gap wheat";

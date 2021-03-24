@@ -1,1 +1,1 @@
-var mnemonic = "bracket organ veteran ready curve stem pole yard penalty floor curious learn";
+var mnemonic = "verb cost stay evoke can annual omit benefit render chat present area";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple shoe powder steak pumpkin gospel magnet soup turkey cable diagram toddler";
+var mnemonic = "renew deposit frost name run result casino meat yellow wealth under leopard";

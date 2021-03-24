@@ -1,1 +1,1 @@
-var mnemonic = "direct boost cruel tomorrow gasp barely kiwi aunt world please shallow tragic";
+var mnemonic = "heart taxi trade cupboard stick purchase question eternal ketchup whale spend boy";

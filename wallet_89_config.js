@@ -1,1 +1,1 @@
-var mnemonic = "offer lucky bread siege grab click elegant such famous various prevent group";
+var mnemonic = "sniff consider stove dirt grain enable nuclear palace uncover report island nasty";

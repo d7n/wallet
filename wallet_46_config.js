@@ -1,1 +1,1 @@
-var mnemonic = "coast coil car virus pool alter usage sea tortoise marine urge little";
+var mnemonic = "icon use skirt portion comic live antenna receive amount black rare float";

@@ -1,1 +1,1 @@
-var mnemonic = "shell bargain morning duty situate glass strategy fringe portion lawsuit blouse build";
+var mnemonic = "illness visual balcony flock velvet vicious able tenant like wood private twist";

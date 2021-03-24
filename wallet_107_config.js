@@ -1,1 +1,1 @@
-var mnemonic = "jar blossom police clump uphold family practice region anchor first cruel struggle";
+var mnemonic = "have entry helmet huge apology orient damp embody twice sight buddy slight";

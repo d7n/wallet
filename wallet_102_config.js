@@ -1,1 +1,1 @@
-var mnemonic = "stem zebra trigger spoon human liquid spot fiscal puzzle small arch zoo";
+var mnemonic = "master laptop wink legend weasel cluster slush session blanket attend security town";

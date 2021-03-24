@@ -1,1 +1,1 @@
-var mnemonic = "slight budget abandon announce raw voice same box swing always fix idea";
+var mnemonic = "auction patient shy wide hard injury author print grief find right onion";

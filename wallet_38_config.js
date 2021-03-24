@@ -1,1 +1,1 @@
-var mnemonic = "tackle seek flight approve spice want bread morning exhibit young milk hire";
+var mnemonic = "raise glue brother transfer barrel swarm problem believe obscure exercise fix spell";

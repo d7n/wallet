@@ -1,1 +1,1 @@
-var mnemonic = "upset ensure goddess diary digital figure emerge left length claw ghost private";
+var mnemonic = "cause possible dutch atom space crystal daring fitness pull dream unable royal";

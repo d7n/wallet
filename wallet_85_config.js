@@ -1,1 +1,1 @@
-var mnemonic = "chalk table file run turkey suspect icon summer rabbit unaware merry wonder";
+var mnemonic = "claw purse fresh use profit enrich champion beach edit clog market mother";

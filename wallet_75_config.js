@@ -1,1 +1,1 @@
-var mnemonic = "aerobic mystery impact noble squirrel manual endorse trash inform jungle worth knock";
+var mnemonic = "brush whip program grant despair fiscal barely wild erode eager hockey gas";

@@ -1,1 +1,1 @@
-var mnemonic = "still pizza pledge ecology appear ski language spray captain fall rapid basic";
+var mnemonic = "copper curve settle danger three purse glance vehicle fortune electric relief raven";

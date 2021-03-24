@@ -1,1 +1,1 @@
-var mnemonic = "design high erupt dial ride erupt nurse brisk seven sphere cage victory";
+var mnemonic = "swear lawsuit pass appear month glare hub corn acquire input option rebel";

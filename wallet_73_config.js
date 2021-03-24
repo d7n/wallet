@@ -1,1 +1,1 @@
-var mnemonic = "cabin cereal ladder coach worth decorate whale drive regret arch emotion rent";
+var mnemonic = "hedgehog dynamic table share arrive evidence comic together staff stay photo design";

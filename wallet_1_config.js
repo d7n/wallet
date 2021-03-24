@@ -1,1 +1,1 @@
-var mnemonic = "runway trap vital cattle obey upset deer symptom ostrich gadget fiction general";
+var mnemonic = "robot bitter sketch company sudden bag meadow horn hen crane glow camp";

@@ -1,1 +1,1 @@
-var mnemonic = "net coach risk hub wild agent jeans steak throw betray sport suffer";
+var mnemonic = "loyal fox mention balcony ritual cause tumble memory celery patrol genre craft";

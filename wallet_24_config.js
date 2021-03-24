@@ -1,1 +1,1 @@
-var mnemonic = "gospel finger wall diamond common side usual tooth match sell oak prepare";
+var mnemonic = "venture fetch twist zero hammer flush lamp cousin theme raccoon loud august";

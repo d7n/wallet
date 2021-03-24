@@ -1,1 +1,1 @@
-var mnemonic = "host install swear fuel summer cancel argue journey venture fee funny devote";
+var mnemonic = "wonder float flavor monkey saddle biology symbol stuff suggest cruel badge grid";

@@ -1,1 +1,1 @@
-var mnemonic = "polar nation future scene autumn gadget blade token summer prefer crazy brief";
+var mnemonic = "solid possible pull market rebel include salute crystal cherry flip flat trash";

@@ -1,1 +1,1 @@
-var mnemonic = "illness gold carpet answer lobster unhappy promote cool broken ocean flavor immense";
+var mnemonic = "tower draft special sport crop scissors grain obvious crisp nuclear couch summer";

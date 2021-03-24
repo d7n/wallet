@@ -1,1 +1,1 @@
-var mnemonic = "poem rabbit twin truck crumble ecology trade stone recall below crucial romance";
+var mnemonic = "ignore citizen sport tissue winter cannon use develop jaguar solution fortune conduct";

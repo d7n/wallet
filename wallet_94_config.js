@@ -1,1 +1,1 @@
-var mnemonic = "arch license monster circle bring culture disease pepper short abuse rival bronze";
+var mnemonic = "strategy figure worth brief will dilemma artwork scheme river april practice laundry";

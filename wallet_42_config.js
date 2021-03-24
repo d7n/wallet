@@ -1,1 +1,1 @@
-var mnemonic = "lemon swap because vague noodle virtual replace festival script wish base document";
+var mnemonic = "that outdoor already slim today lock half bridge curve security voyage resist";

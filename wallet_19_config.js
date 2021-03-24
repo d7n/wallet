@@ -1,1 +1,1 @@
-var mnemonic = "dragon alley degree library outer boost lady maximum box approve book lamp";
+var mnemonic = "amateur critic office spoon enlist expand jazz adjust fatal crazy health furnace";

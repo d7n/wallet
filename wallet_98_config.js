@@ -1,1 +1,1 @@
-var mnemonic = "frequent hundred regular august this wife sample gadget monster way update unfold";
+var mnemonic = "dad elder sweet tube palm upgrade monkey conduct digital arm maple romance";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage melt track zoo journey spray wrist zone cable fee turkey reveal";
+var mnemonic = "exit between key normal provide taxi decorate during obtain mansion ski upset";

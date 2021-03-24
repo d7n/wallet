@@ -1,1 +1,1 @@
-var mnemonic = "menu quantum junior slice board broom canoe baby change neither autumn buddy";
+var mnemonic = "always balance sketch orchard ready zoo hen kitchen park obscure wagon mention";

@@ -1,1 +1,1 @@
-var mnemonic = "moon edge topple diagram glow lecture legend obtain prepare album system brother";
+var mnemonic = "drip walk mushroom identify admit catalog spawn tape tissue genius shrimp divorce";

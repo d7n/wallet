@@ -1,1 +1,1 @@
-var mnemonic = "famous client hour tell naive art wild crystal post simple ice half";
+var mnemonic = "eternal spider argue core wolf ripple hard barrel inner oak switch era";

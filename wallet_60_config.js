@@ -1,1 +1,1 @@
-var mnemonic = "brush diamond gym identify fever nest zone sniff human wing novel veteran";
+var mnemonic = "myself dream wrestle bright laugh blanket suit bind true welcome advance guard";

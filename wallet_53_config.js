@@ -1,1 +1,1 @@
-var mnemonic = "polar base skate street reflect control powder audit october tribe rapid remain";
+var mnemonic = "corn opinion neither security diet february frost romance level valve endless father";

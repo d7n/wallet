@@ -1,1 +1,1 @@
-var mnemonic = "domain range typical marriage wife thought spin valve miracle crush expect pride";
+var mnemonic = "leave sweet zone brisk trumpet enforce peasant boost one motor crater deputy";

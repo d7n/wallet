@@ -1,1 +1,1 @@
-var mnemonic = "bus hurdle torch topic vicious stand churn cannon stove choice keep palm";
+var mnemonic = "canal moral kid valve initial cry spring dumb save ostrich night hunt";

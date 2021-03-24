@@ -1,1 +1,1 @@
-var mnemonic = "midnight film author upset poem august edge ritual spend arctic retreat amateur";
+var mnemonic = "people swamp cruel roof unit roof unhappy process day alpha hospital verb";

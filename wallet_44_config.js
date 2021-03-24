@@ -1,1 +1,1 @@
-var mnemonic = "wreck boost trip open come honey regret glow acoustic connect sun protect";
+var mnemonic = "verb name habit atom bone document bomb scatter sketch install field doll";

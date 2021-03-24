@@ -1,1 +1,1 @@
-var mnemonic = "venture turtle message echo lemon wedding invest course expire jar caution order";
+var mnemonic = "marine steak rigid idle potato wish slab enjoy light conduct shrimp intact";

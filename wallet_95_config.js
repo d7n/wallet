@@ -1,1 +1,1 @@
-var mnemonic = "wrap gather wolf crouch over shoe legal winter enforce trip daughter limb";
+var mnemonic = "retreat web degree fire online charge luggage carbon sail slender famous gorilla";

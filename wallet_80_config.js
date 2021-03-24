@@ -1,1 +1,1 @@
-var mnemonic = "sister another recycle pink grid twin floor hazard income ball pool tuna";
+var mnemonic = "rookie fashion sting hundred slush argue earth spread clap stand spatial lumber";

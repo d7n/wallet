@@ -1,1 +1,1 @@
-var mnemonic = "slot real dose capital brand any figure text hotel have delay chapter";
+var mnemonic = "describe cloud will sense bitter pause fence market search zebra age twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "method frequent sorry bounce phone engine wife once crucial point leisure obtain";
+var mnemonic = "thought elder device card solution sweet toward clock have pretty oven afford";

@@ -1,1 +1,1 @@
-var mnemonic = "verb sun current cover dragon roof hazard august hunt damp issue lion";
+var mnemonic = "base cherry prison drip speak student layer scale lift pottery lens thank";

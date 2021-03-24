@@ -1,1 +1,1 @@
-var mnemonic = "million first weird before mistake lounge damp fat grass cool robust flower";
+var mnemonic = "dust found jewel clump mirror drop trial cause empower crowd clog stamp";

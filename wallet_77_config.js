@@ -1,1 +1,1 @@
-var mnemonic = "smart jacket chuckle salute noble slush pigeon arena guitar process beauty receive";
+var mnemonic = "horror carbon swear sing movie pet nephew canvas ugly reason exotic element";

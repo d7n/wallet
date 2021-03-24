@@ -1,1 +1,1 @@
-var mnemonic = "razor refuse egg curious rate debris hero day orange future motor enhance";
+var mnemonic = "race bullet pact nothing control true vicious melody morning fashion net joke";

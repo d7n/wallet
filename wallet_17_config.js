@@ -1,1 +1,1 @@
-var mnemonic = "subway symptom dentist skirt afford truth edge fragile choice point repair bomb";
+var mnemonic = "aim amused hood enrich state space lady bracket narrow federal divide crawl";

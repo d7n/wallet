@@ -1,1 +1,1 @@
-var mnemonic = "siege cube hub siren tooth dice celery gentle neither insect kidney isolate";
+var mnemonic = "twist slush raven proud walk push then promote grow ginger tackle mistake";

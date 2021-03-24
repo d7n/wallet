@@ -1,1 +1,1 @@
-var mnemonic = "neglect regret fever polar elder side palm lake twelve across near two";
+var mnemonic = "trend exile spring stumble income tomorrow exercise kick helmet dolphin crawl drip";

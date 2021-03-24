@@ -1,1 +1,1 @@
-var mnemonic = "wonder baby hawk you hello wrestle wagon friend patch squirrel angle reunion";
+var mnemonic = "husband reason mixed usual bacon fork year frame sail enroll flavor trade";

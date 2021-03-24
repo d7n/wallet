@@ -1,1 +1,1 @@
-var mnemonic = "domain high foster island state half prize relief around trust small paddle";
+var mnemonic = "canoe pretty thought latin claim obtain issue congress congress split mixed relax";

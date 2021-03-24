@@ -1,1 +1,1 @@
-var mnemonic = "distance shift bitter captain arch curious era trigger ritual dutch fish envelope";
+var mnemonic = "believe begin accident hotel comic forget nut salon lava educate company beauty";

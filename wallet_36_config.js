@@ -1,1 +1,1 @@
-var mnemonic = "provide minute sponsor meat trade lend offer nerve sight snack drift legal";
+var mnemonic = "merry bargain tribe code absent episode electric turtle consider video weather glare";

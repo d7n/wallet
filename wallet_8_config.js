@@ -1,1 +1,1 @@
-var mnemonic = "barrel turn monster pyramid blast useless drop relief pulse guess flash manage";
+var mnemonic = "oppose impose cage proud shift melody zero believe relief neck resemble report";

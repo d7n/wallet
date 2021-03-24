@@ -1,1 +1,1 @@
-var mnemonic = "plate over whale name furnace squeeze vacuum page any solar ancient whip";
+var mnemonic = "hurt note abstract spoon jelly mobile pen climb vocal pudding special equip";

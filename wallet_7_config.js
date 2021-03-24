@@ -1,1 +1,1 @@
-var mnemonic = "girl hover hawk just coach render shell live tiger energy transfer affair";
+var mnemonic = "lecture heavy abandon nerve gun thank account smoke loan relax crucial ethics";

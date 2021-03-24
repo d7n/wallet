@@ -1,1 +1,1 @@
-var mnemonic = "segment thought unaware fluid kitchen fork ten goddess cruel sunset random include";
+var mnemonic = "destroy swear ritual culture antenna turtle gorilla ostrich into excite dance bicycle";

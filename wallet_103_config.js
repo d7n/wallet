@@ -1,1 +1,1 @@
-var mnemonic = "innocent pause undo still scatter laugh flip cannon design shoot actor coconut";
+var mnemonic = "learn ginger mushroom fold anxiety treat tornado shoulder mask notable hollow midnight";

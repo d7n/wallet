@@ -1,1 +1,1 @@
-var mnemonic = "school sand trip grace outside climb juice adjust hood room asthma drill";
+var mnemonic = "weather menu attract tank elite neutral play birth rose room bargain north";

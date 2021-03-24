@@ -1,1 +1,1 @@
-var mnemonic = "purpose hill ahead roast pet rescue reduce ocean foster cargo tip ceiling";
+var mnemonic = "draw slush good sibling outer pause odor income strategy warrior curious choose";

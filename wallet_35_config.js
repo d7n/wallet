@@ -1,1 +1,1 @@
-var mnemonic = "circle way upset lonely spirit such paper fox pizza shock expand bachelor";
+var mnemonic = "explain almost puzzle can thunder swim raise annual wish truth member habit";

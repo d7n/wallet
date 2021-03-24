@@ -1,1 +1,1 @@
-var mnemonic = "photo guilt april lens stumble egg frog card sauce uncover grit artwork";
+var mnemonic = "steak divert find protect horse alone bamboo tennis time noise march zoo";

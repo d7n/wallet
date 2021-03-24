@@ -1,1 +1,1 @@
-var mnemonic = "replace inquiry season expand truth claim plate wide song together common master";
+var mnemonic = "common blossom erupt piano night monkey surprise bitter same secret unfair flower";

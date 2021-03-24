@@ -1,1 +1,1 @@
-var mnemonic = "swim sell salon evolve round near teach fossil modify thing three leaf";
+var mnemonic = "leaf dinner stereo drill glass veteran correct miracle light emerge genre rude";

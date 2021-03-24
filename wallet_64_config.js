@@ -1,1 +1,1 @@
-var mnemonic = "parrot nose rhythm marriage sunset digital either stomach lecture feed gravity trend";
+var mnemonic = "guess little bulb beef satisfy amused tribe snack faint accuse humble smile";

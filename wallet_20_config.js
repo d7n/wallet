@@ -1,1 +1,1 @@
-var mnemonic = "column school guard address weekend ceiling prefer vibrant churn spend expose alcohol";
+var mnemonic = "lobster roof matrix annual unusual brain enough buzz leave output unusual item";

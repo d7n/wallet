@@ -1,1 +1,1 @@
-var mnemonic = "rely parade magic cross electric chat sad march replace burden umbrella focus";
+var mnemonic = "cousin shell leader hero drill sea soccer raven time wool attack arrow";

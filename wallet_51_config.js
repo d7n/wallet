@@ -1,1 +1,1 @@
-var mnemonic = "palace reward endless orchard also rebel again clock two alley select start";
+var mnemonic = "taxi burst walk trial nominee input road excess leaf dynamic rare layer";

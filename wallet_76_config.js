@@ -1,1 +1,1 @@
-var mnemonic = "repair swap law soccer call gallery champion follow obvious fatigue phone often";
+var mnemonic = "member cabin once person armed spider predict orient empower wealth unveil butter";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding consider mandate sound there ring infant angry number acid skin junk";
+var mnemonic = "hospital embody sphere census devote scheme stable force rug caution hold warrior";

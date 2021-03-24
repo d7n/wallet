@@ -1,1 +1,1 @@
-var mnemonic = "foster join pudding cloth ugly receive federal tail milk elder merge legal";
+var mnemonic = "width machine client check coach calm potato gaze light scatter tattoo field";

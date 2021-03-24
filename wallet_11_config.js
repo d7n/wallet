@@ -1,1 +1,1 @@
-var mnemonic = "noise inside token tobacco fringe erode symptom sustain jaguar jazz harvest assume";
+var mnemonic = "actual inside humor boost devote idle crash language cake poem luggage narrow";

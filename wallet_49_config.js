@@ -1,1 +1,1 @@
-var mnemonic = "garbage twice daughter grocery dynamic future merry remain cool easy gorilla seek";
+var mnemonic = "warfare museum enroll make warm catalog middle sister market inside burger around";

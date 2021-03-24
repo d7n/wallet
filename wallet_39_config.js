@@ -1,1 +1,1 @@
-var mnemonic = "question know useless climb olive clip typical bird wealth rule cigar pulp";
+var mnemonic = "exact daughter wing ladder nature merit glass invest dune exchange output edge";

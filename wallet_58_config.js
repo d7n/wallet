@@ -1,1 +1,1 @@
-var mnemonic = "impulse train jealous force shine edge portion fat garage awake carpet eager";
+var mnemonic = "sample flame cook letter topic gap venue fade reject motion garden carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "nut side hobby any hill planet fossil step include okay all clever";
+var mnemonic = "weird crop waste fire aerobic miss weird venue raven index wreck portion";
