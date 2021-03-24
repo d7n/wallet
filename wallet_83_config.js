@@ -1,1 +1,1 @@
-var mnemonic = "furnace dress midnight recycle uniform exile render rubber round fashion where benefit";
+var mnemonic = "warrior month cherry vibrant jacket sugar pumpkin robot father usual almost cat";

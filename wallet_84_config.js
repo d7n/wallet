@@ -1,1 +1,1 @@
-var mnemonic = "brass trim home upper funny fix slight dash few visual repair believe";
+var mnemonic = "cool thing taxi bracket cattle banner frown arrest road employ elite loop";

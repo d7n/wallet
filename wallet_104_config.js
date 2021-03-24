@@ -1,1 +1,1 @@
-var mnemonic = "differ exhaust guilt endorse team limit salute also team useless wisdom blanket";
+var mnemonic = "music fossil ozone abstract century insect speed oxygen tree cause forget burden";

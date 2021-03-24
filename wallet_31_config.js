@@ -1,1 +1,1 @@
-var mnemonic = "accuse cake waste kidney aware tornado bunker tenant senior use elevator diary";
+var mnemonic = "insane bless army need blanket word beyond resource snack goat fox cheap";

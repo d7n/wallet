@@ -1,1 +1,1 @@
-var mnemonic = "rapid group glove body near confirm mule already dance paddle clutch eye";
+var mnemonic = "canoe iron possible write put rent dial reason space harsh smoke palm";

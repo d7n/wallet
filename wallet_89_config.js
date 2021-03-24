@@ -1,1 +1,1 @@
-var mnemonic = "token total word one mule planet assault smooth oyster radio illness ship";
+var mnemonic = "south sweet north lottery vivid gentle margin legend photo robot abstract poem";

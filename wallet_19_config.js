@@ -1,1 +1,1 @@
-var mnemonic = "you tomorrow purse hour soap suffer episode climb carpet process cart wink";
+var mnemonic = "portion select order bless echo chunk jelly anger route key piece doll";

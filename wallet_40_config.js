@@ -1,1 +1,1 @@
-var mnemonic = "abstract evil tray allow shaft patient nut oppose same sail father tone";
+var mnemonic = "inquiry this receive able mix purse stem true peanut tornado mean owner";

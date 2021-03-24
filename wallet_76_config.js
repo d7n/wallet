@@ -1,1 +1,1 @@
-var mnemonic = "element violin settle quantum pig snake thought hub outer purpose gain chase";
+var mnemonic = "actress twice student wage critic wrestle fork quality true edit scene day";

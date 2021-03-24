@@ -1,1 +1,1 @@
-var mnemonic = "ice treat fetch pact transfer usage venture radar index dose motor wear";
+var mnemonic = "express until enlist improve unaware orphan license cement pyramid flash else diary";

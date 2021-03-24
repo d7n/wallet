@@ -1,1 +1,1 @@
-var mnemonic = "chef plug senior eagle defy shy project left anchor sample race slam";
+var mnemonic = "warm glass cliff bronze timber brick local two paper desk float stuff";

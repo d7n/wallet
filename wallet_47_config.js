@@ -1,1 +1,1 @@
-var mnemonic = "flavor frame mimic toddler taste trial alpha famous birth gun swap note";
+var mnemonic = "utility belt end teach hire region engine jealous monitor soft leg excess";

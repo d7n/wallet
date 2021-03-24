@@ -1,1 +1,1 @@
-var mnemonic = "nuclear shallow control clown vault huge assault loyal legend oyster quality innocent";
+var mnemonic = "tribe smart foot abandon disease echo affair orbit exhaust child drill model";

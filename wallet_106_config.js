@@ -1,1 +1,1 @@
-var mnemonic = "usual evil candy host curve second canvas reunion dynamic tobacco raccoon rely";
+var mnemonic = "bulk lend bench figure child slot please topple marine soda plunge field";

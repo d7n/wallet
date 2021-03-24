@@ -1,1 +1,1 @@
-var mnemonic = "prize prosper spy region where hollow weekend close sudden swap dawn level";
+var mnemonic = "make horn umbrella hero guitar range april book crater depend clerk sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge stage rabbit excite dwarf jazz divert analyst army suffer expire link";
+var mnemonic = "brown demand swim earn symptom sort work witness gasp divide render federal";

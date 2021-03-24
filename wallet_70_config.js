@@ -1,1 +1,1 @@
-var mnemonic = "tiger salad brave purchase aerobic round ribbon begin verb mirror burger swift";
+var mnemonic = "hover property ice moment write great breeze kit boat amount ivory oak";

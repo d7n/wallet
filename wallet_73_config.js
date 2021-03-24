@@ -1,1 +1,1 @@
-var mnemonic = "thunder load sleep tiger elder fortune digital fit over favorite inherit luxury";
+var mnemonic = "achieve dwarf stadium document sand exist taxi network champion great lonely crush";

@@ -1,1 +1,1 @@
-var mnemonic = "talk fever where myth puppy minor fall regret resemble subway point smooth";
+var mnemonic = "cereal tattoo together unlock owner cheese beach urge index stock inspire ridge";

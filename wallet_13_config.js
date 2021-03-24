@@ -1,1 +1,1 @@
-var mnemonic = "horror print proof vote purity fragile farm gather wise enjoy soldier base";
+var mnemonic = "balcony fat apology beyond mystery tornado column matter because cheap elegant notice";

@@ -1,1 +1,1 @@
-var mnemonic = "corn wheat plug night unit prison solution axis mystery cave cargo bag";
+var mnemonic = "clinic minimum brush kick circle private chef toast spike mesh define disease";

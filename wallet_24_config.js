@@ -1,1 +1,1 @@
-var mnemonic = "regular shine kidney engage oak length south fan involve measure exist cute";
+var mnemonic = "undo position position month among addict hospital frost cake iron rich field";

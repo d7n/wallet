@@ -1,1 +1,1 @@
-var mnemonic = "lyrics bulb unhappy cannon robust tank muscle visit repair swarm flash bright";
+var mnemonic = "frost siren hurdle brass desert debris crater increase joke cart body antenna";

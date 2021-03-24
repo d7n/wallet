@@ -1,1 +1,1 @@
-var mnemonic = "survey famous palace slow tribe later human gasp easily warrior water entire";
+var mnemonic = "veteran spike under project space lock make laundry gold two tower bulb";

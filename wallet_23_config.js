@@ -1,1 +1,1 @@
-var mnemonic = "hand huge cotton cinnamon world north garbage north rate immune eager coil";
+var mnemonic = "fly assault robust payment cement frequent abstract wood regular armor impose umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "oval farm trouble bundle subway crash steel vehicle inch eternal october bless";
+var mnemonic = "man run foil when waste alone guitar liberty viable ugly typical sing";

@@ -1,1 +1,1 @@
-var mnemonic = "people science income lock negative ask type friend awkward relief fiscal float";
+var mnemonic = "rule hello try crawl ladder repair pole cotton quit shed fatigue whip";

@@ -1,1 +1,1 @@
-var mnemonic = "switch punch elder sign useless face damage young vapor hunt sword hobby";
+var mnemonic = "system hammer convince work pear cradle waste claw inhale easy host latin";

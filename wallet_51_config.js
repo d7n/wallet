@@ -1,1 +1,1 @@
-var mnemonic = "use say mask crush clock clay unlock love present despair runway harbor";
+var mnemonic = "torch three ranch require maximum truth settle donate furnace public equal capital";

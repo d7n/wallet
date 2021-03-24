@@ -1,1 +1,1 @@
-var mnemonic = "prefer afraid name typical boring usage slam adult master arm breeze enrich";
+var mnemonic = "neutral thunder kangaroo lab quantum alpha company fee ten creek oil essay";

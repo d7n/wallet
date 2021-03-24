@@ -1,1 +1,1 @@
-var mnemonic = "link jazz wide advance public sun engine flag west jeans shield wet";
+var mnemonic = "network earth link quote seek soccer alley state rule nephew term lazy";

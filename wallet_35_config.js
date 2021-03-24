@@ -1,1 +1,1 @@
-var mnemonic = "kingdom toilet corn what ankle admit before vessel lion melody pencil vivid";
+var mnemonic = "orchard ball emerge affair grunt kiss tomato betray decorate imitate diagram build";

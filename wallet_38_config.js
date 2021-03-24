@@ -1,1 +1,1 @@
-var mnemonic = "umbrella boy total muffin mom pledge trap exhaust dad wink warrior angry";
+var mnemonic = "outdoor hamster marble mixture paper emerge crumble magic odor arrive kid smoke";

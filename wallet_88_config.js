@@ -1,1 +1,1 @@
-var mnemonic = "lawn ankle affair zoo deputy color insane sail flash tattoo behind control";
+var mnemonic = "record gym code injury arrest voyage between betray relief hurry lava curve";

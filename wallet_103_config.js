@@ -1,1 +1,1 @@
-var mnemonic = "purpose assist prosper quality pistol name gossip repair hidden crew same panda";
+var mnemonic = "normal sad prison simple common exercise wisdom bless coast unlock real situate";

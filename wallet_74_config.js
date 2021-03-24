@@ -1,1 +1,1 @@
-var mnemonic = "foster hill include midnight rail chest drill blade unable pear bamboo siege";
+var mnemonic = "chef viable federal cluster spring client pass smooth fish cereal eyebrow inner";

@@ -1,1 +1,1 @@
-var mnemonic = "party act polar bone change melt host imitate deputy client sadness acoustic";
+var mnemonic = "awkward trust explain tumble cotton rabbit exercise bargain duty require conduct cement";

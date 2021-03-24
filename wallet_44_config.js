@@ -1,1 +1,1 @@
-var mnemonic = "speed toddler plug subject luxury impulse boil bundle double blast uncle loop";
+var mnemonic = "left practice under planet drum plate retire multiply accuse merge loan skin";

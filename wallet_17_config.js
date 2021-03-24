@@ -1,1 +1,1 @@
-var mnemonic = "tuition universe stem pizza blind material addict predict dragon add morning become";
+var mnemonic = "word canyon object equal burden lion license toddler bracket retire cage stadium";

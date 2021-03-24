@@ -1,1 +1,1 @@
-var mnemonic = "rookie limit inject truck jungle rude problem owner latin review actress twin";
+var mnemonic = "beef behind recipe ladder alert leopard strategy violin chair cherry hat box";

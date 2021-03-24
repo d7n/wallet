@@ -1,1 +1,1 @@
-var mnemonic = "cabbage sustain excess mesh tail total thought snack ethics flip symptom gospel";
+var mnemonic = "turkey tenant color laptop disagree know memory sad wheat glide spray web";

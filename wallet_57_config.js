@@ -1,1 +1,1 @@
-var mnemonic = "subway throw need elephant interest refuse puzzle correct satoshi scatter garage where";
+var mnemonic = "robot honey cross visual venue abstract weird report author foster click false";

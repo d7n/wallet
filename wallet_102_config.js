@@ -1,1 +1,1 @@
-var mnemonic = "blue gap spoil impact glass kangaroo peanut swift invite gloom reject emotion";
+var mnemonic = "swear patrol toilet kick nuclear fly fragile denial limit crunch planet festival";

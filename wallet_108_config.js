@@ -1,1 +1,1 @@
-var mnemonic = "valley often defy height bright pottery winter provide write explain own dismiss";
+var mnemonic = "suit lonely reform basket curious multiply seek extra window grief scene drink";

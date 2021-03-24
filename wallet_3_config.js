@@ -1,1 +1,1 @@
-var mnemonic = "exact zero same govern joy bread bird glad aspect future green yellow";
+var mnemonic = "soul video van clay excite kiss gauge rug sight fall crack capital";

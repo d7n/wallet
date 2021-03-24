@@ -1,1 +1,1 @@
-var mnemonic = "patrol prepare fiber ankle harvest car balance step orient actor belt solve";
+var mnemonic = "vast shrimp guitar layer hero work siege educate feel news gorilla pupil";

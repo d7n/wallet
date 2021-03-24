@@ -1,1 +1,1 @@
-var mnemonic = "negative simple power aisle cover van drive catch hair office hockey frog";
+var mnemonic = "girl zero patch festival subject raven worry supply duck nature vault situate";

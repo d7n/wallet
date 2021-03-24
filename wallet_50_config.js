@@ -1,1 +1,1 @@
-var mnemonic = "ordinary fiber lunch burger extra dignity there sea expose giraffe recipe cable";
+var mnemonic = "session design access assist replace display wire bargain repair arrow one deal";

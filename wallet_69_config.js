@@ -1,1 +1,1 @@
-var mnemonic = "fan acoustic increase where scare tenant pool chapter such thank size between";
+var mnemonic = "into buyer sail discover hollow area raise produce close hurdle idle eager";

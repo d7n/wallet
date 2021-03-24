@@ -1,1 +1,1 @@
-var mnemonic = "side author layer pen defy mean teach wall ecology issue club opinion";
+var mnemonic = "truly net amateur lava vital impose tent song hard derive garment chef";

@@ -1,1 +1,1 @@
-var mnemonic = "city size south excess describe embrace impose tone bachelor tooth pyramid seat";
+var mnemonic = "journey loyal candy express page clown test fabric expose scrap ticket horror";

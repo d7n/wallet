@@ -1,1 +1,1 @@
-var mnemonic = "autumn analyst glow base dentist dose liquid hurt public dinner desk feature";
+var mnemonic = "effort unhappy gravity damage theory hand grief manage crew bronze direct resist";

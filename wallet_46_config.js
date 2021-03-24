@@ -1,1 +1,1 @@
-var mnemonic = "puzzle dolphin ski ship screen crop panel cram what fly alarm panel";
+var mnemonic = "melody kitchen future custom bounce update sunny cactus spy frequent indoor crane";

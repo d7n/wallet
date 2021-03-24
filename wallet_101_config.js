@@ -1,1 +1,1 @@
-var mnemonic = "assist erase figure mansion gesture taste into service unaware buddy athlete quick";
+var mnemonic = "dream you autumn away pear cabbage hire walnut shadow select item miracle";

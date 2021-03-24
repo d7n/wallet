@@ -1,1 +1,1 @@
-var mnemonic = "cash erupt change dismiss thought grid friend finish lift tired swamp habit";
+var mnemonic = "mystery view cute pioneer sell picnic actress tragic display joke entire keen";

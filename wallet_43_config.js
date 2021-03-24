@@ -1,1 +1,1 @@
-var mnemonic = "spot cool gossip vocal cliff general fortune permit together effort conduct yard";
+var mnemonic = "question possible fox hour verify brown canoe diesel can cable rubber eager";

@@ -1,1 +1,1 @@
-var mnemonic = "banner achieve modify dice stadium sudden rifle disorder tomorrow almost color convince";
+var mnemonic = "orbit cliff fine ability grain breeze beef want arrow spatial enough six";

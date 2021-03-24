@@ -1,1 +1,1 @@
-var mnemonic = "soft nothing scissors stock mirror flat argue meat wreck finish fringe luggage";
+var mnemonic = "detail sauce antique hen way unknown aim crowd sing butter walnut orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange payment toddler firm ice lonely cousin cheap true opera struggle figure";
+var mnemonic = "subject animal people peace success match advice mobile kingdom taxi carbon tiger";

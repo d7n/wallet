@@ -1,1 +1,1 @@
-var mnemonic = "page cement ill satisfy uncle affair alcohol label real film fever trial";
+var mnemonic = "thrive humor trim trouble lunch action magnet crush gallery romance tennis crop";

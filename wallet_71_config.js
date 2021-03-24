@@ -1,1 +1,1 @@
-var mnemonic = "horror exit inhale bargain actress outdoor recipe copper joke question manual useless";
+var mnemonic = "wine river usual fancy asset opinion prosper mystery concert easily fantasy wet";

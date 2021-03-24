@@ -1,1 +1,1 @@
-var mnemonic = "black toy kitchen woman garage catch depend snake regret nerve reduce swamp";
+var mnemonic = "spray youth flip increase shoe half today able neglect pledge neck until";

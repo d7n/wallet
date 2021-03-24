@@ -1,1 +1,1 @@
-var mnemonic = "crawl duck grab know pudding power else either volcano bean dad ghost";
+var mnemonic = "draw allow usual knee correct execute ancient program grit film mass chapter";

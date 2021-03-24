@@ -1,1 +1,1 @@
-var mnemonic = "wisdom just harvest boss hair uncover ankle memory exotic loan royal situate";
+var mnemonic = "bronze immense early sorry lottery inmate dentist manage social thumb betray motor";

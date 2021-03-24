@@ -1,1 +1,1 @@
-var mnemonic = "notable year truth snake verb bright noble gallery sword again vocal wall";
+var mnemonic = "razor voyage title skirt bomb impose laptop canoe olympic zone more churn";

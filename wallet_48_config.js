@@ -1,1 +1,1 @@
-var mnemonic = "team ceiling soap window survey wrong bomb era excess decrease stick hand";
+var mnemonic = "wink talent planet cycle approve hollow tower camp caught situate end notice";

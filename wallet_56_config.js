@@ -1,1 +1,1 @@
-var mnemonic = "cage surface utility moon woman body cabbage nut word harbor negative street";
+var mnemonic = "reopen share surface tube crisp coach fresh hotel soccer myth wire around";

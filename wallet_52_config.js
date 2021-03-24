@@ -1,1 +1,1 @@
-var mnemonic = "speed science reopen print clip moon gap ozone autumn cereal lunch sure";
+var mnemonic = "dash extra swim soldier satisfy swap document dice immense orient double drive";

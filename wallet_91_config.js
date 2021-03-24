@@ -1,1 +1,1 @@
-var mnemonic = "chronic endorse grab noodle foil sing life ticket decline large royal turkey";
+var mnemonic = "peasant sausage risk alone plastic stereo hard during judge fall pizza vital";

@@ -1,1 +1,1 @@
-var mnemonic = "carry giggle direct neither host radio universe smart breeze syrup discover coin";
+var mnemonic = "actor vessel certain decline attend tube glance parade extend praise parade squirrel";

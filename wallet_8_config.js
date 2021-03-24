@@ -1,1 +1,1 @@
-var mnemonic = "orphan decide dawn brand goddess roast churn oyster east excite tennis fall";
+var mnemonic = "anchor dial expose prevent edge already praise circle rocket crisp example acquire";

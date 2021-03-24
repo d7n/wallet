@@ -1,1 +1,1 @@
-var mnemonic = "monster oval travel shiver nuclear guide pear obscure earn ghost juice manage";
+var mnemonic = "only sister decade guitar elephant access velvet clever artefact sleep zoo raccoon";

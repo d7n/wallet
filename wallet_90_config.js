@@ -1,1 +1,1 @@
-var mnemonic = "judge hamster loud confirm prison cram helmet fame initial limb payment tilt";
+var mnemonic = "tree victory people left typical own rely march transfer artist spice egg";

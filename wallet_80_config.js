@@ -1,1 +1,1 @@
-var mnemonic = "solar sport lucky egg sponsor dismiss enhance praise grape blood dragon goddess";
+var mnemonic = "echo follow save waste achieve staff volume please reopen half photo diamond";

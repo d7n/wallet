@@ -1,1 +1,1 @@
-var mnemonic = "industry sister include coach gap thumb meat verb room maze shoot news";
+var mnemonic = "soccer review talk silent water vessel monitor alarm velvet object enrich chunk";

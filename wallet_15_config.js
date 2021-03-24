@@ -1,1 +1,1 @@
-var mnemonic = "peasant beef opinion legend clever aerobic assume castle raise garbage wing math";
+var mnemonic = "van bundle fragile oppose creek device paddle glance blouse garden bless edit";

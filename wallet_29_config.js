@@ -1,1 +1,1 @@
-var mnemonic = "inside exhaust cart hunt famous trumpet vanish sport wrap thrive armed match";
+var mnemonic = "mosquito blue sustain popular pumpkin camera fiber news amount drift cabbage door";

@@ -1,1 +1,1 @@
-var mnemonic = "stem toss theme already proof need simple picnic brush sense square bind";
+var mnemonic = "child smile twenty trumpet awful doctor kit elite powder wash raise gap";

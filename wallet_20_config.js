@@ -1,1 +1,1 @@
-var mnemonic = "cube trial crack flame entire tattoo foil glow category warrior right scrub";
+var mnemonic = "devote absurd panda hybrid fish buyer topic meat fortune list green guilt";

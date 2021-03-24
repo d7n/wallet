@@ -1,1 +1,1 @@
-var mnemonic = "excuse real ill tennis desert service tomato weapon until miss poem walnut";
+var mnemonic = "secret unable leave dad brass again junk ignore panda number true must";

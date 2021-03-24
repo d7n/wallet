@@ -1,1 +1,1 @@
-var mnemonic = "sock popular more just merit awake ugly segment afraid field tourist rotate";
+var mnemonic = "receive harbor shine head bean curtain split zero march combine rubber ranch";

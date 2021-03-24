@@ -1,1 +1,1 @@
-var mnemonic = "right plastic pair enough throw churn move wing clip invite clean build";
+var mnemonic = "bean romance bread panel turkey skill parent ability poverty funny impose trial";

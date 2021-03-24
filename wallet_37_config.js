@@ -1,1 +1,1 @@
-var mnemonic = "impose number between unveil green vague rain blast square under tell prefer";
+var mnemonic = "oak crowd sing coyote nest room twist chest hammer shoot trap sample";

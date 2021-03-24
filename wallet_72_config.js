@@ -1,1 +1,1 @@
-var mnemonic = "nerve brand abstract program index lab rate health hope shoe struggle report";
+var mnemonic = "urge dress army patrol judge gate average social stomach demise second dwarf";

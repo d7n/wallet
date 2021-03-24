@@ -1,1 +1,1 @@
-var mnemonic = "bracket local gasp believe pitch orient carpet lonely warrior offer insect know";
+var mnemonic = "swim hurdle invest quote style pave wide skirt oak profit three index";

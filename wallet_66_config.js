@@ -1,1 +1,1 @@
-var mnemonic = "spy smart turtle uphold patient sort defy fish guilt sustain pen space";
+var mnemonic = "blush tackle moon wrist bamboo ring library math chest useless whip answer";

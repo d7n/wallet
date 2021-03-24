@@ -1,1 +1,1 @@
-var mnemonic = "snack salt senior lemon favorite trim pencil neutral cheap noise rain enter";
+var mnemonic = "couple street humble fiction promote brush debate announce indoor bike message fly";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge poverty gas measure water festival pair deliver scrap rival unusual donkey";
+var mnemonic = "copy tent beef obey arrange roof derive venue climb bicycle pepper diary";

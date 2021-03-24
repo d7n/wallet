@@ -1,1 +1,1 @@
-var mnemonic = "letter better burst minor bar dog own boy loop kind try luggage";
+var mnemonic = "rhythm upset wolf treat chapter proof tennis spare prosper bicycle memory duck";

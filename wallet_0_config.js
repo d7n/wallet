@@ -1,1 +1,1 @@
-var mnemonic = "volume fan quarter vocal surprise umbrella fluid afraid drip tortoise attitude flash";
+var mnemonic = "rubber camp wing error fire cave wife ability flower royal chef bid";
