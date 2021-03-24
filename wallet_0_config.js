@@ -1,1 +1,1 @@
-var mnemonic = "coyote cement remind garbage exhibit season pull embrace liberty risk wait punch";
+var mnemonic = "loyal valid crash horror baby leave define price still replace august cushion";

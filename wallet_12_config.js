@@ -1,1 +1,1 @@
-var mnemonic = "shove senior depart wish force sphere heart crater barrel panic begin settle";
+var mnemonic = "imitate believe recycle link convince seminar grass light ridge practice multiply donate";

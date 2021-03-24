@@ -1,1 +1,1 @@
-var mnemonic = "cruel learn voyage better awkward orphan ordinary lemon ask off enough favorite";
+var mnemonic = "abandon sudden core acoustic october title ranch crumble broken monitor harsh tired";

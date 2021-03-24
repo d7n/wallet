@@ -1,1 +1,1 @@
-var mnemonic = "marine steak rigid idle potato wish slab enjoy light conduct shrimp intact";
+var mnemonic = "flavor only forum picnic material bean rent apart suit midnight seek stomach";

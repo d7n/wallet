@@ -1,1 +1,1 @@
-var mnemonic = "canoe pretty thought latin claim obtain issue congress congress split mixed relax";
+var mnemonic = "matter march space room intact embrace cotton coin shell gospel ostrich dinner";

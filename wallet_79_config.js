@@ -1,1 +1,1 @@
-var mnemonic = "race bullet pact nothing control true vicious melody morning fashion net joke";
+var mnemonic = "egg rapid dynamic bulb manage more scene noodle push hamster label spice";

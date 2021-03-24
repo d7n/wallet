@@ -1,1 +1,1 @@
-var mnemonic = "dad elder sweet tube palm upgrade monkey conduct digital arm maple romance";
+var mnemonic = "fiscal gym parrot general thumb upon attend frame metal mouse game rent";

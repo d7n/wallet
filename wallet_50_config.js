@@ -1,1 +1,1 @@
-var mnemonic = "swear lawsuit pass appear month glare hub corn acquire input option rebel";
+var mnemonic = "quarter rubber walk orient assist banner orchard useful age jacket reopen almost";

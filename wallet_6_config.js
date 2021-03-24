@@ -1,1 +1,1 @@
-var mnemonic = "dust found jewel clump mirror drop trial cause empower crowd clog stamp";
+var mnemonic = "tiny when solar fade just candy trigger private turkey mail ginger pact";

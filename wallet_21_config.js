@@ -1,1 +1,1 @@
-var mnemonic = "people swamp cruel roof unit roof unhappy process day alpha hospital verb";
+var mnemonic = "height wisdom ready talk cause funny bachelor match soon middle captain horn";

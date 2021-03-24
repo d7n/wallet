@@ -1,1 +1,1 @@
-var mnemonic = "loyal fox mention balcony ritual cause tumble memory celery patrol genre craft";
+var mnemonic = "topple educate fitness park clean deputy spy farm anger rival accident squeeze";

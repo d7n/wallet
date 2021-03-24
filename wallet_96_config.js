@@ -1,1 +1,1 @@
-var mnemonic = "adapt warrior impose drop finger rally cry giggle spare mirror metal banner";
+var mnemonic = "message use drink estate stamp shoot tornado use column urge rule street";

@@ -1,1 +1,1 @@
-var mnemonic = "salt theme immense heavy goddess gravity snow sight file they case mask";
+var mnemonic = "reason yellow law apology drastic adjust airport ribbon labor swing transfer satisfy";

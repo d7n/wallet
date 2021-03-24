@@ -1,1 +1,1 @@
-var mnemonic = "oppose impose cage proud shift melody zero believe relief neck resemble report";
+var mnemonic = "minor frog demand turkey radio calm save spray unique auto conduct fox";

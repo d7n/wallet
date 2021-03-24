@@ -1,1 +1,1 @@
-var mnemonic = "amateur critic office spoon enlist expand jazz adjust fatal crazy health furnace";
+var mnemonic = "tower depart dune vintage tomato decorate small erase cinnamon fringe physical broken";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare museum enroll make warm catalog middle sister market inside burger around";
+var mnemonic = "priority dial transfer poet alien direct fork mansion oak air tortoise arrest";

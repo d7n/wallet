@@ -1,1 +1,1 @@
-var mnemonic = "that outdoor already slim today lock half bridge curve security voyage resist";
+var mnemonic = "venture dog donkey boat spike other own twice attitude caution much shell";

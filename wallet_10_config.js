@@ -1,1 +1,1 @@
-var mnemonic = "gasp piece soda bomb random hammer fiscal apple raccoon wonder resemble bomb";
+var mnemonic = "yard act often dumb easy athlete action item fork void cup token";

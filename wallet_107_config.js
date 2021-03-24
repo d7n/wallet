@@ -1,1 +1,1 @@
-var mnemonic = "have entry helmet huge apology orient damp embody twice sight buddy slight";
+var mnemonic = "ranch raise giggle this cluster milk gospel float usual panic gauge imitate";

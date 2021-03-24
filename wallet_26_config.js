@@ -1,1 +1,1 @@
-var mnemonic = "stick often gift arctic occur true connect trip art fragile toy coffee";
+var mnemonic = "reopen blossom funny inner turtle slam element task garment kitchen fiction cheese";

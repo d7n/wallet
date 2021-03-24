@@ -1,1 +1,1 @@
-var mnemonic = "cousin shell leader hero drill sea soccer raven time wool attack arrow";
+var mnemonic = "once tower happy purpose sudden cannon lobster involve parent chair guard toddler";

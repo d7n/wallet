@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog dynamic table share arrive evidence comic together staff stay photo design";
+var mnemonic = "hope cricket squeeze dawn view girl floor village staff circle solar galaxy";

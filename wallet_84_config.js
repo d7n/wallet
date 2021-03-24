@@ -1,1 +1,1 @@
-var mnemonic = "destroy swear ritual culture antenna turtle gorilla ostrich into excite dance bicycle";
+var mnemonic = "maze paper menu add ability leopard depend rescue dog main cricket around";

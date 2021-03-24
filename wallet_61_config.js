@@ -1,1 +1,1 @@
-var mnemonic = "mandate month major want very question earn help father saddle cream fantasy";
+var mnemonic = "bless island loyal glide three skin topic forward orchard funny process wave";

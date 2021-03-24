@@ -1,1 +1,1 @@
-var mnemonic = "drip walk mushroom identify admit catalog spawn tape tissue genius shrimp divorce";
+var mnemonic = "cat mirror buffalo pole surprise globe chimney local sibling sand history multiply";

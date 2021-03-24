@@ -1,1 +1,1 @@
-var mnemonic = "renew deposit frost name run result casino meat yellow wealth under leopard";
+var mnemonic = "twenty sweet zero system swarm raise reason old sock mercy ski reopen";

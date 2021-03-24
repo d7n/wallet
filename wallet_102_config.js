@@ -1,1 +1,1 @@
-var mnemonic = "master laptop wink legend weasel cluster slush session blanket attend security town";
+var mnemonic = "detail truth pioneer worth steak sell clever more erase junior gain scorpion";

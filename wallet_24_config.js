@@ -1,1 +1,1 @@
-var mnemonic = "venture fetch twist zero hammer flush lamp cousin theme raccoon loud august";
+var mnemonic = "silver bone hotel better demise idle inform asthma vote stool demise rival";

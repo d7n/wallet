@@ -1,1 +1,1 @@
-var mnemonic = "sniff consider stove dirt grain enable nuclear palace uncover report island nasty";
+var mnemonic = "earn toast master desert hawk hip door shrug cupboard enjoy cute ethics";

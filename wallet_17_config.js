@@ -1,1 +1,1 @@
-var mnemonic = "aim amused hood enrich state space lady bracket narrow federal divide crawl";
+var mnemonic = "route universe appear arch venue flash sauce orphan draft chapter glimpse bubble";

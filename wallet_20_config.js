@@ -1,1 +1,1 @@
-var mnemonic = "lobster roof matrix annual unusual brain enough buzz leave output unusual item";
+var mnemonic = "dust original equip fresh liar talent slim smart kitchen inner vote lunar";

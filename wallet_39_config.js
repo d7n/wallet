@@ -1,1 +1,1 @@
-var mnemonic = "exact daughter wing ladder nature merit glass invest dune exchange output edge";
+var mnemonic = "add crunch transfer soldier arrow hard dust joy warm develop below rally";

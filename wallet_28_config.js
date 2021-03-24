@@ -1,1 +1,1 @@
-var mnemonic = "auction patient shy wide hard injury author print grief find right onion";
+var mnemonic = "visit pipe path bean husband prefer forum left call someone skill shop";

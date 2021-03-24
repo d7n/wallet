@@ -1,1 +1,1 @@
-var mnemonic = "leave sweet zone brisk trumpet enforce peasant boost one motor crater deputy";
+var mnemonic = "success cactus sausage defy lyrics burden teach rate tooth mobile kangaroo rail";

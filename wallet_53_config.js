@@ -1,1 +1,1 @@
-var mnemonic = "corn opinion neither security diet february frost romance level valve endless father";
+var mnemonic = "tone clarify bus measure super mesh velvet head stick memory swallow assault";

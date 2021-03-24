@@ -1,1 +1,1 @@
-var mnemonic = "key snap remain staff prefer deer scorpion assist orphan idle festival stove";
+var mnemonic = "bachelor weekend total garment orphan snow damage welcome agent reduce local gaze";

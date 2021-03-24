@@ -1,1 +1,1 @@
-var mnemonic = "copper curve settle danger three purse glance vehicle fortune electric relief raven";
+var mnemonic = "bless all valid season noise opera stage rate tube share bacon bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore citizen sport tissue winter cannon use develop jaguar solution fortune conduct";
+var mnemonic = "knee panda valley slow way stereo crawl rifle punch play design foil";

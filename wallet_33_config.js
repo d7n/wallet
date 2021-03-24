@@ -1,1 +1,1 @@
-var mnemonic = "illness visual balcony flock velvet vicious able tenant like wood private twist";
+var mnemonic = "tongue display music course swamp middle canvas include purpose adult expand glory";

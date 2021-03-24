@@ -1,1 +1,1 @@
-var mnemonic = "horror carbon swear sing movie pet nephew canvas ugly reason exotic element";
+var mnemonic = "when nuclear cake blush correct exchange mechanic eyebrow prosper keep gym swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "true place lazy brave tuition collect mutual donkey apple still memory fury";
+var mnemonic = "begin boy foster again scorpion tank perfect essence laundry predict universe rib";

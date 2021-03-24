@@ -1,1 +1,1 @@
-var mnemonic = "width machine client check coach calm potato gaze light scatter tattoo field";
+var mnemonic = "club hover chalk tooth enroll beauty simple hamster forward step supply benefit";

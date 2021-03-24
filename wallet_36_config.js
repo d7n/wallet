@@ -1,1 +1,1 @@
-var mnemonic = "merry bargain tribe code absent episode electric turtle consider video weather glare";
+var mnemonic = "guilt frown require uphold letter unhappy slush chaos volume suffer assault jelly";

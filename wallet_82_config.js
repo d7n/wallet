@@ -1,1 +1,1 @@
-var mnemonic = "globe test major riot lawn skull future audit bulk concert basic clock";
+var mnemonic = "universe suffer twelve distance bounce pair quarter flush fox access front cherry";

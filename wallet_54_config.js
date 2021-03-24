@@ -1,1 +1,1 @@
-var mnemonic = "street pear crop town learn boss bone midnight person ladder gap wheat";
+var mnemonic = "link dilemma saddle trade define type velvet bounce manual veteran work fitness";

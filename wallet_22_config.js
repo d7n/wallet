@@ -1,1 +1,1 @@
-var mnemonic = "visual fiber between nose urge lazy solution toilet wasp drip clown poverty";
+var mnemonic = "fashion atom happy help violin jazz deer base idle sweet boat beauty";

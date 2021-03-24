@@ -1,1 +1,1 @@
-var mnemonic = "verb cost stay evoke can annual omit benefit render chat present area";
+var mnemonic = "song okay guitar young armed mystery nasty uncover end design opera soccer";

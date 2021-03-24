@@ -1,1 +1,1 @@
-var mnemonic = "luggage chat shadow jaguar pupil purchase elite pelican ankle chronic sample clerk";
+var mnemonic = "carry citizen pumpkin play bar option boost output angle rib suggest knock";

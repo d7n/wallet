@@ -1,1 +1,1 @@
-var mnemonic = "arrange consider six wrap need treat burden topple unlock live trim canal";
+var mnemonic = "skull inch trip damage funny private bronze super capital moment glide ankle";

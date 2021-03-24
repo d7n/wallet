@@ -1,1 +1,1 @@
-var mnemonic = "draw slush good sibling outer pause odor income strategy warrior curious choose";
+var mnemonic = "maple quality system angle wife struggle someone electric team soft scrap valley";

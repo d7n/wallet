@@ -1,1 +1,1 @@
-var mnemonic = "taxi burst walk trial nominee input road excess leaf dynamic rare layer";
+var mnemonic = "quick plate sniff share deliver outside word grid mango honey second mean";

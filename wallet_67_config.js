@@ -1,1 +1,1 @@
-var mnemonic = "eternal spider argue core wolf ripple hard barrel inner oak switch era";
+var mnemonic = "reduce retire surge velvet what timber enjoy royal lens prison maximum lemon";

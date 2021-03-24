@@ -1,1 +1,1 @@
-var mnemonic = "weird crop waste fire aerobic miss weird venue raven index wreck portion";
+var mnemonic = "movie baby perfect quit diary song exotic immense paddle gym cheese quality";

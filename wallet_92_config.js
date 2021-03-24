@@ -1,1 +1,1 @@
-var mnemonic = "steak divert find protect horse alone bamboo tennis time noise march zoo";
+var mnemonic = "solution another paddle seven arena slot cheap want mule six raccoon state";

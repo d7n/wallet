@@ -1,1 +1,1 @@
-var mnemonic = "patrol select miracle language ecology radar pause lens vendor feed pool river";
+var mnemonic = "illness style garlic link alley word cry dash cable include steak carpet";

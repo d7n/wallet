@@ -1,1 +1,1 @@
-var mnemonic = "pioneer feature outer focus wolf owner cinnamon scatter fork neck coach tourist";
+var mnemonic = "bleak autumn congress sing version crane cricket zebra engine all loan broken";

@@ -1,1 +1,1 @@
-var mnemonic = "claw purse fresh use profit enrich champion beach edit clog market mother";
+var mnemonic = "bullet actress luggage song vital chunk multiply area clip ancient bicycle seven";

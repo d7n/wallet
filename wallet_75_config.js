@@ -1,1 +1,1 @@
-var mnemonic = "brush whip program grant despair fiscal barely wild erode eager hockey gas";
+var mnemonic = "ball olympic gym slide liquid wear mention side question deputy auto culture";

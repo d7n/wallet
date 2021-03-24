@@ -1,1 +1,1 @@
-var mnemonic = "cause possible dutch atom space crystal daring fitness pull dream unable royal";
+var mnemonic = "dish blur weather west hold empower improve awful fat make sort bamboo";

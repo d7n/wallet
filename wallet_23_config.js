@@ -1,1 +1,1 @@
-var mnemonic = "solid possible pull market rebel include salute crystal cherry flip flat trash";
+var mnemonic = "member dish bridge rapid second tired sad gain shadow consider elbow dinosaur";

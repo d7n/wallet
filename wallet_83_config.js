@@ -1,1 +1,1 @@
-var mnemonic = "lake carry monster catalog spread guard mandate space dash ancient hedgehog left";
+var mnemonic = "pull chaos leaf guess bargain unfold crater inch outside intact harsh update";

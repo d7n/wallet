@@ -1,1 +1,1 @@
-var mnemonic = "robot bitter sketch company sudden bag meadow horn hen crane glow camp";
+var mnemonic = "wrist sadness promote quantum bread above ladder law cement material today term";

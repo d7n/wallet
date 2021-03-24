@@ -1,1 +1,1 @@
-var mnemonic = "vendor focus december lunar rare woman reveal monitor wife route awful gun";
+var mnemonic = "toddler hip awake decade squeeze bicycle fortune wet inch enemy recall virus";

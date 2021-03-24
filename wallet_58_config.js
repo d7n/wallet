@@ -1,1 +1,1 @@
-var mnemonic = "sample flame cook letter topic gap venue fade reject motion garden carbon";
+var mnemonic = "actor dose accuse pulse grape super seven height feature size entire equip";

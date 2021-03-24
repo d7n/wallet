@@ -1,1 +1,1 @@
-var mnemonic = "heart taxi trade cupboard stick purchase question eternal ketchup whale spend boy";
+var mnemonic = "fatal antique horror industry person essence sport sheriff seat pact case smile";

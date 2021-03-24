@@ -1,1 +1,1 @@
-var mnemonic = "verb name habit atom bone document bomb scatter sketch install field doll";
+var mnemonic = "rent erase unable front degree hood similar quick digital visit dust inhale";

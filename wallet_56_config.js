@@ -1,1 +1,1 @@
-var mnemonic = "exit between key normal provide taxi decorate during obtain mansion ski upset";
+var mnemonic = "lion vessel cannon library letter jewel disease winner best gorilla pilot maid";

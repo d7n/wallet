@@ -1,1 +1,1 @@
-var mnemonic = "frame tomorrow false primary proof rotate member galaxy appear sustain lyrics mutual";
+var mnemonic = "gym betray cereal clean fame prize repeat rally clown wasp inject fly";

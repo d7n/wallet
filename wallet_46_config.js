@@ -1,1 +1,1 @@
-var mnemonic = "icon use skirt portion comic live antenna receive amount black rare float";
+var mnemonic = "essay deputy payment muffin unknown believe drive forget artist faith script picture";

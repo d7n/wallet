@@ -1,1 +1,1 @@
-var mnemonic = "little disorder toilet math shallow sound brand mutual whip wage enlist breeze";
+var mnemonic = "razor nature soap uphold crew defy clump clarify garbage outside ghost track";

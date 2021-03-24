@@ -1,1 +1,1 @@
-var mnemonic = "honey reform brother husband peasant orange amazing payment school buffalo shadow like";
+var mnemonic = "pink clown junior category rich tackle bacon large unable ramp lift fatigue";

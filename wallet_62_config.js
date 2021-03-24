@@ -1,1 +1,1 @@
-var mnemonic = "kidney pretty gain police spirit fortune flash wolf orient range high eternal";
+var mnemonic = "ordinary problem attend urban glass random twice slice heart armor blast float";

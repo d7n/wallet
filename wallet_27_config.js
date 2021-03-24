@@ -1,1 +1,1 @@
-var mnemonic = "twist slush raven proud walk push then promote grow ginger tackle mistake";
+var mnemonic = "equip filter attack tilt find drive dog common mail noble slight reunion";

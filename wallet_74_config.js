@@ -1,1 +1,1 @@
-var mnemonic = "garlic ostrich broccoli material cactus because magnet kangaroo ahead theory risk brave";
+var mnemonic = "dumb suspect detect paddle spawn mean vote tomorrow erode crawl spell lunch";

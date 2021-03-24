@@ -1,1 +1,1 @@
-var mnemonic = "tower draft special sport crop scissors grain obvious crisp nuclear couch summer";
+var mnemonic = "disorder worry faint immune ten top gloom life brick hobby wrestle cereal";

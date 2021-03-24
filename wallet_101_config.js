@@ -1,1 +1,1 @@
-var mnemonic = "thunder print vault party treat quote delay strong source rigid delay ice";
+var mnemonic = "laugh flight usual fitness live fine frozen else scorpion method rely aspect";

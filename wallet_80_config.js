@@ -1,1 +1,1 @@
-var mnemonic = "rookie fashion sting hundred slush argue earth spread clap stand spatial lumber";
+var mnemonic = "quantum valid process analyst earth wild budget property situate around try whale";

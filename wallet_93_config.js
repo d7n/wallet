@@ -1,1 +1,1 @@
-var mnemonic = "common blossom erupt piano night monkey surprise bitter same secret unfair flower";
+var mnemonic = "drink subway mad bright faint wine identify shy squirrel find antique expect";

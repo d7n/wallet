@@ -1,1 +1,1 @@
-var mnemonic = "dad custom enrich flash bitter system ripple husband raise sure six private";
+var mnemonic = "critic affair lounge praise double search shock crack adapt allow label crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy figure worth brief will dilemma artwork scheme river april practice laundry";
+var mnemonic = "toilet road stem visit salmon hole ready detect entry rabbit chimney glad";

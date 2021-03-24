@@ -1,1 +1,1 @@
-var mnemonic = "retreat web degree fire online charge luggage carbon sail slender famous gorilla";
+var mnemonic = "myth essence envelope visual zero athlete extend inherit wrap menu reopen august";

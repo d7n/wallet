@@ -1,1 +1,1 @@
-var mnemonic = "weather menu attract tank elite neutral play birth rose room bargain north";
+var mnemonic = "away best doll miracle quarter shuffle betray apple situate claw live torch";

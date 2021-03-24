@@ -1,1 +1,1 @@
-var mnemonic = "raise glue brother transfer barrel swarm problem believe obscure exercise fix spell";
+var mnemonic = "garbage stool script quality parade fame vibrant blame accident crowd nose echo";

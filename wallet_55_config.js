@@ -1,1 +1,1 @@
-var mnemonic = "wonder float flavor monkey saddle biology symbol stuff suggest cruel badge grid";
+var mnemonic = "member coast modify allow space first town horror over owner cup plug";

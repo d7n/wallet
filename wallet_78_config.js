@@ -1,1 +1,1 @@
-var mnemonic = "describe cloud will sense bitter pause fence market search zebra age twenty";
+var mnemonic = "matter keen upset autumn dog settle rose stage future woman observe under";

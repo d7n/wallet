@@ -1,1 +1,1 @@
-var mnemonic = "trend exile spring stumble income tomorrow exercise kick helmet dolphin crawl drip";
+var mnemonic = "hard mango spatial immune powder praise light trumpet abandon estate unable rule";

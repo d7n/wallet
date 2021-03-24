@@ -1,1 +1,1 @@
-var mnemonic = "myself dream wrestle bright laugh blanket suit bind true welcome advance guard";
+var mnemonic = "proud emerge trophy flat fog concert mountain clog kitchen riot loyal antique";

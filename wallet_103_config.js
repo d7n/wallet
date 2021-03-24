@@ -1,1 +1,1 @@
-var mnemonic = "learn ginger mushroom fold anxiety treat tornado shoulder mask notable hollow midnight";
+var mnemonic = "hen horn bus candy parent display voice rubber grid push alter alley";

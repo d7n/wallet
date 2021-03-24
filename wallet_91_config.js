@@ -1,1 +1,1 @@
-var mnemonic = "carry taxi maid tourist ginger teach school during crucial weekend pelican damage";
+var mnemonic = "guilt album person pair fox embrace fence primary away feed crunch finish";

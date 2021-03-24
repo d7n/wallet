@@ -1,1 +1,1 @@
-var mnemonic = "member cabin once person armed spider predict orient empower wealth unveil butter";
+var mnemonic = "dose impose joy element peasant universe throw pattern noise guilt culture soon";

@@ -1,1 +1,1 @@
-var mnemonic = "actual inside humor boost devote idle crash language cake poem luggage narrow";
+var mnemonic = "misery patrol month tilt trumpet three supply napkin agent smooth use media";

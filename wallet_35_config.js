@@ -1,1 +1,1 @@
-var mnemonic = "explain almost puzzle can thunder swim raise annual wish truth member habit";
+var mnemonic = "enemy drop skate much ribbon truly coral flag disease riot ramp truth";
