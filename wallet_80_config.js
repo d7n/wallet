@@ -1,1 +1,1 @@
-var mnemonic = "erase steel ramp team chef stand danger lawn cruel gravity bird aerobic";
+var mnemonic = "pattern decrease shine fit just trouble ticket protect mention nasty lava whip";

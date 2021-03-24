@@ -1,1 +1,1 @@
-var mnemonic = "adapt planet mention focus venture ready auction imitate current page arctic boost";
+var mnemonic = "welcome fitness army message album final script goose labor soul shy online";

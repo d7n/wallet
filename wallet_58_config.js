@@ -1,1 +1,1 @@
-var mnemonic = "always potato hotel trend wrong lock group voyage enlist uphold raven six";
+var mnemonic = "glass viable season tank primary select ride lava winner ritual afraid safe";

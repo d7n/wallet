@@ -1,1 +1,1 @@
-var mnemonic = "father staff maple disorder doll captain place invite little just high kid";
+var mnemonic = "merge wear pair squeeze soap primary clip slice knock bamboo update wood";

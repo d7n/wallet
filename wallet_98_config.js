@@ -1,1 +1,1 @@
-var mnemonic = "earn dance design one label gentle leave chat welcome kid feed abuse";
+var mnemonic = "cluster shoe problem online erosion common wool orphan ask medal weasel reunion";

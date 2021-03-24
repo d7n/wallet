@@ -1,1 +1,1 @@
-var mnemonic = "kid game enforce sausage dove margin gadget bomb traffic badge inspire oil";
+var mnemonic = "man tray huge box other actress course mercy memory soft smart bus";

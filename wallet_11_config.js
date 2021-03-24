@@ -1,1 +1,1 @@
-var mnemonic = "stadium pitch afraid lunar adjust wine other write either holiday dinner room";
+var mnemonic = "scare second denial other where box half disagree nasty general miracle bullet";

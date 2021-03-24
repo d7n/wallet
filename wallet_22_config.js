@@ -1,1 +1,1 @@
-var mnemonic = "cash beauty mobile file mule pioneer decide exercise inherit novel identify flag";
+var mnemonic = "sunset immense main onion mechanic office fruit sting machine energy sentence pledge";

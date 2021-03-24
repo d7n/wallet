@@ -1,1 +1,1 @@
-var mnemonic = "crime opinion around demand vague test buffalo giant skate doctor behind tilt";
+var mnemonic = "stumble addict crew segment coyote fall chief basic decline average require maze";

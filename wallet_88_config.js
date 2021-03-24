@@ -1,1 +1,1 @@
-var mnemonic = "liquid jeans nose merry word weapon double sentence foster issue ready envelope";
+var mnemonic = "guilt panic dutch remove nuclear destroy absurd catalog round polar dune design";

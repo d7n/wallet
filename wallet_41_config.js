@@ -1,1 +1,1 @@
-var mnemonic = "weasel boil van mention actor ribbon welcome often catalog scale grid captain";
+var mnemonic = "color face discover theory beyond section pepper arrange execute length puppy north";

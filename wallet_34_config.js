@@ -1,1 +1,1 @@
-var mnemonic = "survey agent february rookie weather excess toddler wagon mango demise cycle matter";
+var mnemonic = "identify element text cave long more crazy utility depend strategy deny clinic";

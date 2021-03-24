@@ -1,1 +1,1 @@
-var mnemonic = "gadget push august hole top antique pulp genre venture stomach desk toss";
+var mnemonic = "smooth rifle glove slide tell learn angle loan shrug depth abstract creek";

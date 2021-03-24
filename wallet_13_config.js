@@ -1,1 +1,1 @@
-var mnemonic = "edit adult height clump vault close heavy hobby hold bracket celery mechanic";
+var mnemonic = "slogan essay reveal live donkey leopard learn inhale fancy cycle utility cushion";

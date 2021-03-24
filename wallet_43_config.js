@@ -1,1 +1,1 @@
-var mnemonic = "youth valve patrol forward come goose safe clarify ankle uniform address surge";
+var mnemonic = "much ghost drama unhappy thrive seed sorry apology copper gift kangaroo kick";

@@ -1,1 +1,1 @@
-var mnemonic = "shock pledge skate stomach ride wine pool mom estate civil page shiver";
+var mnemonic = "boil shrimp indoor spell veteran teach neither govern grid climb select maple";

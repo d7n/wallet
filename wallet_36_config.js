@@ -1,1 +1,1 @@
-var mnemonic = "pave cave spare crouch tail cactus flag recycle comic climb indicate differ";
+var mnemonic = "token artefact civil usage bonus embody merry symptom power march method finish";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent bulb flip combine surface blue alter civil lift spider certain ugly";
+var mnemonic = "pupil mule snake orchard forget budget hope lounge allow cupboard claw flush";

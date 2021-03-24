@@ -1,1 +1,1 @@
-var mnemonic = "swallow animal chat spice weird flee seek pull design office recipe pledge";
+var mnemonic = "sand aunt vendor hurt melody program sure shoe drip soda canyon squirrel";

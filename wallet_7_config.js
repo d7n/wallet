@@ -1,1 +1,1 @@
-var mnemonic = "sudden camp fall brick shallow coil cost blame tunnel cram require sorry";
+var mnemonic = "anger payment dress blouse ahead praise leaf involve warfare wisdom motion track";

@@ -1,1 +1,1 @@
-var mnemonic = "army sudden concert pear pitch bridge essence hungry ancient cereal grocery device";
+var mnemonic = "castle budget win base help tortoise end oppose brother violin shuffle drink";

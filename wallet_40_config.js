@@ -1,1 +1,1 @@
-var mnemonic = "mean pool involve gasp paper believe concert artwork key fetch lake another";
+var mnemonic = "antenna gap pudding cinnamon cigar please guess quarter police hat tired brown";

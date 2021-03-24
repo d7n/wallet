@@ -1,1 +1,1 @@
-var mnemonic = "alone prosper mercy gap output weekend grunt draw weekend fresh puzzle stadium";
+var mnemonic = "buffalo magic apology destroy cube can pottery tail venture night carpet nice";

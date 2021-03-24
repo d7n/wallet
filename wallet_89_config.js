@@ -1,1 +1,1 @@
-var mnemonic = "have brass gasp rebel exclude diet cotton spice stamp nut frown sorry";
+var mnemonic = "rare boring fringe flight solve mixture defy rice fury crash butter fatal";

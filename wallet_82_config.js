@@ -1,1 +1,1 @@
-var mnemonic = "pattern still seed math draw rebuild pottery fix just know blush iron";
+var mnemonic = "wheel rack elbow census undo meadow aunt farm mosquito great humble mean";

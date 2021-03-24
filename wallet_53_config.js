@@ -1,1 +1,1 @@
-var mnemonic = "exercise pig glove whip blind devote pelican pudding chronic cruel lounge champion";
+var mnemonic = "science funny slush edge hundred weekend barrel egg shop sausage slice finish";

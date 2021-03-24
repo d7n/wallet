@@ -1,1 +1,1 @@
-var mnemonic = "movie source just ill stable satoshi crowd solve sting autumn drip prepare";
+var mnemonic = "wine beauty alcohol giraffe truth secret vapor cherry chief human wrist curious";

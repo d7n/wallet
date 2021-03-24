@@ -1,1 +1,1 @@
-var mnemonic = "scatter twice balance ivory cruel opinion vast fit cause sound hand color";
+var mnemonic = "night lens build hub inherit timber recycle person merry pigeon certain ketchup";

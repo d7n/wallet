@@ -1,1 +1,1 @@
-var mnemonic = "slot feed leopard random chunk drop shy empower firm seven poverty about";
+var mnemonic = "rapid empty before bring fuel limb neutral debate avocado approve curious desert";

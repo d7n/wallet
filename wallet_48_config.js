@@ -1,1 +1,1 @@
-var mnemonic = "vague language tennis produce upset shaft upgrade three maple picture search noodle";
+var mnemonic = "portion unaware tiny transfer evolve shed essence penalty clay review deputy danger";

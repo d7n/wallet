@@ -1,1 +1,1 @@
-var mnemonic = "muffin hand kitten nest differ else upgrade rhythm very silent sibling sun";
+var mnemonic = "kiwi summer glory castle promote hunt diesel sheriff worry try cover fish";

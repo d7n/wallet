@@ -1,1 +1,1 @@
-var mnemonic = "sword issue legend brisk celery police amused cash ankle science sorry drip";
+var mnemonic = "arrange begin name income range broken impulse scrap enable clock empower concert";

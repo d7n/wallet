@@ -1,1 +1,1 @@
-var mnemonic = "danger pattern convince waste rib loyal left actress margin fringe replace goat";
+var mnemonic = "diamond congress another truth chaos express squeeze because assume weekend style prize";

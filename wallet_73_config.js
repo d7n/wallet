@@ -1,1 +1,1 @@
-var mnemonic = "ignore orbit tooth long clever vicious feature present issue because retire cost";
+var mnemonic = "board yard marble hybrid sudden minimum fragile coffee reunion couple grow rail";

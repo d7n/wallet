@@ -1,1 +1,1 @@
-var mnemonic = "private health promote when federal kangaroo blue still burger civil unfair evoke";
+var mnemonic = "alter strong gloom barely attract final loop credit alter knock edge soul";

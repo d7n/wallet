@@ -1,1 +1,1 @@
-var mnemonic = "frost collect spread library taste gas cluster hip lady minimum build cousin";
+var mnemonic = "lesson example exclude civil slot claw alcohol example sunny canoe fitness flash";

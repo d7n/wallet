@@ -1,1 +1,1 @@
-var mnemonic = "inner hamster vast occur enhance mad arrive bitter flag parent pretty skull";
+var mnemonic = "large ahead want hollow casual olive cute lab say pipe give quit";

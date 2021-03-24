@@ -1,1 +1,1 @@
-var mnemonic = "lobster fog deny film diary thank message napkin consider heart detail awkward";
+var mnemonic = "hip garden crouch short blame sand arrange hill mother orient sentence zebra";

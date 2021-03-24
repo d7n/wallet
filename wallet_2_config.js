@@ -1,1 +1,1 @@
-var mnemonic = "scrub december moral debate proud absurd pipe matrix fish benefit absurd bag";
+var mnemonic = "praise shrug prevent field rack hero banana add strike artist unique require";

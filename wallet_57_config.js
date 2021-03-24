@@ -1,1 +1,1 @@
-var mnemonic = "aisle square fence feature wool giggle solid fox snake remind shadow wide";
+var mnemonic = "exist thumb across thumb impose riot nothing grain consider north crush meat";

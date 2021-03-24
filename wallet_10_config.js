@@ -1,1 +1,1 @@
-var mnemonic = "stereo unusual grocery insect impose churn exhibit prosper busy calm card resource";
+var mnemonic = "swim nephew grow fury false few throw camera success dog rally dad";

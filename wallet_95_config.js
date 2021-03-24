@@ -1,1 +1,1 @@
-var mnemonic = "silly camera vital boy bunker ordinary south brother depth squeeze social neutral";
+var mnemonic = "illegal receive leisure indoor predict thumb supply curious latin screen erosion carpet";

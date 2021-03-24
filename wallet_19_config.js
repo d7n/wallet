@@ -1,1 +1,1 @@
-var mnemonic = "media embrace dwarf hand dolphin trash cost accident dune law permit plug";
+var mnemonic = "impose toward circle lens between blade castle album fold own shrimp police";

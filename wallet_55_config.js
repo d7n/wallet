@@ -1,1 +1,1 @@
-var mnemonic = "impact salmon bracket heart loud enroll avoid canoe initial join suspect setup";
+var mnemonic = "target chat forest example polar gas claim warrior vehicle giggle fold light";

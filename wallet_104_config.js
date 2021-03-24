@@ -1,1 +1,1 @@
-var mnemonic = "circle brisk gorilla window fringe size strike alpha rural essay please seven";
+var mnemonic = "soup season dash south among rate force quick baby parrot carbon tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "job bonus love buyer age run dish just you uphold deer moral";
+var mnemonic = "prepare weapon trip hire acoustic fog fiber cost drift chalk great rival";

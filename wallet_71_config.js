@@ -1,1 +1,1 @@
-var mnemonic = "broken cupboard oblige follow add piano teach evidence assault pool tattoo devote";
+var mnemonic = "option panda chunk insane convince narrow stove great sad ivory teach sort";

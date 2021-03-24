@@ -1,1 +1,1 @@
-var mnemonic = "syrup near subject monitor zone silent pluck shrug endorse shallow alpha divert";
+var mnemonic = "hood genius genius cage misery outside gospel exercise fold sphere opera blue";

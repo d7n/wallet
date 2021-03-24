@@ -1,1 +1,1 @@
-var mnemonic = "accident undo size split monitor diet lamp make once jewel grocery daring";
+var mnemonic = "exhaust library this urge buddy stand clay useless urban inform insane quit";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep mutual gasp boy tornado hammer throw dinner exchange plunge valid cluster";
+var mnemonic = "assault pioneer miss area hammer bleak diesel parrot error soldier initial farm";

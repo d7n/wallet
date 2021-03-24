@@ -1,1 +1,1 @@
-var mnemonic = "tiny ocean cable record bicycle fuel clutch library hold grit angry friend";
+var mnemonic = "pass fix pave crystal arctic early seed journey gravity anxiety soon soda";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear corn smile test during calm hole fun skin resource tape shoe";
+var mnemonic = "fog again drive village series include quote abuse taxi alley person uphold";

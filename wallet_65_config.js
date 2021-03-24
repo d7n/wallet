@@ -1,1 +1,1 @@
-var mnemonic = "column solid merit penalty pizza culture foil payment neglect elevator story boost";
+var mnemonic = "pyramid truck axis trash size elbow people average cactus wheel swamp tail";

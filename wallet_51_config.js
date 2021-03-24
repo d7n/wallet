@@ -1,1 +1,1 @@
-var mnemonic = "hidden art sauce arctic winter human glow spot interest cushion elder engage";
+var mnemonic = "spend cloth fashion brand horror urban digital paddle ginger spring orbit leopard";

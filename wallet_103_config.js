@@ -1,1 +1,1 @@
-var mnemonic = "grocery month wave essay banner various devote segment predict ticket head crowd";
+var mnemonic = "dinner adapt purchase trash expose crucial buyer absurd rely lyrics blind birth";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper response shallow frequent engine illegal twin sorry capital loop lizard fan";
+var mnemonic = "advance fresh develop first burden screen siren creek rude perfect grain task";

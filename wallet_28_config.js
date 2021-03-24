@@ -1,1 +1,1 @@
-var mnemonic = "cereal pink penalty avocado become gossip humble into column lyrics inherit drip";
+var mnemonic = "trap gap upon mad alpha bid keen useful rescue mango harvest speed";

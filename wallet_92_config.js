@@ -1,1 +1,1 @@
-var mnemonic = "grab section notable toy orange girl trophy mammal slogan raise bid math";
+var mnemonic = "bird pencil barrel gauge mango clutch when rapid town harvest job have";

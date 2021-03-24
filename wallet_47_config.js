@@ -1,1 +1,1 @@
-var mnemonic = "assault assault dignity jump hold empower sing attitude walk tide flip paper";
+var mnemonic = "sadness bring ready pause sauce weasel layer resemble insane noise amount window";

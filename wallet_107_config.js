@@ -1,1 +1,1 @@
-var mnemonic = "educate board bottom armed icon inherit deny off crumble vessel torch salt";
+var mnemonic = "easily glide service practice guess oppose acid dinosaur win water party goddess";

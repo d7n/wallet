@@ -1,1 +1,1 @@
-var mnemonic = "total person forget area wrap key forest cement force rib oblige rocket";
+var mnemonic = "echo hybrid royal ticket dust arrange lunar sick motion word code original";

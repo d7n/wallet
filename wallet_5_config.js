@@ -1,1 +1,1 @@
-var mnemonic = "report library pact regret clump latin crash dinner dress cheese need olive";
+var mnemonic = "grace daring bid remember volume desk inner hobby romance crumble chase mimic";

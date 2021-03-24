@@ -1,1 +1,1 @@
-var mnemonic = "dust rocket upper average post recall tragic notable snow bid ostrich buddy";
+var mnemonic = "figure speed reason toward cause mind damage canal vibrant link write join";

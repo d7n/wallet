@@ -1,1 +1,1 @@
-var mnemonic = "weekend quiz excess citizen muscle regret mercy much puzzle file put sorry";
+var mnemonic = "element crew plastic clay fly spray skull primary unit face palm health";

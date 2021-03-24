@@ -1,1 +1,1 @@
-var mnemonic = "enough hockey alter hammer student math spell apart evidence crazy apple already";
+var mnemonic = "gate arrest decade sugar tuition pigeon process resist blush genre sustain vendor";

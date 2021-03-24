@@ -1,1 +1,1 @@
-var mnemonic = "minimum story endless enable buzz impulse host update piano senior pond mask";
+var mnemonic = "jeans become search essence merry lumber ticket chapter unfold illegal urge champion";

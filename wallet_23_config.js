@@ -1,1 +1,1 @@
-var mnemonic = "story pyramid film dad ankle meadow lend ecology unit analyst clarify copper";
+var mnemonic = "ramp solution quit example host iron climb soccer scrap truth ignore chaos";

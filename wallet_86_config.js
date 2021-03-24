@@ -1,1 +1,1 @@
-var mnemonic = "little mesh kingdom garbage shoot phrase sock salad radar that off actual";
+var mnemonic = "gauge note anger frown fever spend swarm dry spring frost rabbit case";

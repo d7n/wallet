@@ -1,1 +1,1 @@
-var mnemonic = "symbol pet maximum green neither genre soft close notable tourist expect upgrade";
+var mnemonic = "dice jar half shadow dash absurd toe shop huge spike boring current";

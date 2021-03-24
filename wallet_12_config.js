@@ -1,1 +1,1 @@
-var mnemonic = "badge tunnel decade bracket bench wash situate version situate clip income fantasy";
+var mnemonic = "noise cheese grow disorder iron crystal mean cousin equip hidden crisp joy";

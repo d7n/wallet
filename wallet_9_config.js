@@ -1,1 +1,1 @@
-var mnemonic = "review spend amused foil easy dinosaur cake catch lecture gap van text";
+var mnemonic = "polar code salt blue sense excite unusual glimpse west want expire blood";

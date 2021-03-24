@@ -1,1 +1,1 @@
-var mnemonic = "visa false focus industry glare since robust input budget bless learn luxury";
+var mnemonic = "laundry denial brick escape vehicle since rally rifle sound napkin loan include";

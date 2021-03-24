@@ -1,1 +1,1 @@
-var mnemonic = "present pulp garden auto paper salute just income sure reunion deny pig";
+var mnemonic = "electric decade world cheap buzz sibling zoo ski horror cake winter frog";

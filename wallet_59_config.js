@@ -1,1 +1,1 @@
-var mnemonic = "winner giant coyote wrist scrub deputy month casino giraffe radar hand almost";
+var mnemonic = "zoo duck music rare life left toilet boring dirt course camera file";

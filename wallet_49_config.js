@@ -1,1 +1,1 @@
-var mnemonic = "idle avocado unable pill hover elevator boy eagle swim enroll theme fit";
+var mnemonic = "soon album zoo size cheap vital coil shine acquire recycle typical wire";

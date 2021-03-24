@@ -1,1 +1,1 @@
-var mnemonic = "knife maid empower misery copy hood multiply across rose wrist flight sponsor";
+var mnemonic = "spirit ankle deputy pond gown pipe pigeon general side surge tackle upset";

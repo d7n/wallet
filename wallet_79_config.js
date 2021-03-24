@@ -1,1 +1,1 @@
-var mnemonic = "ranch raccoon over modify eyebrow tail real medal pair usual survey equal";
+var mnemonic = "cloth twin salon gown copper gloom network awesome buzz climb honey unlock";

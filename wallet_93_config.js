@@ -1,1 +1,1 @@
-var mnemonic = "snake benefit shield elephant hockey cabbage home increase inspire immune emotion item";
+var mnemonic = "imitate person online bean shallow loud differ dilemma wage rebuild midnight scorpion";

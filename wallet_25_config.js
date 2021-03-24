@@ -1,1 +1,1 @@
-var mnemonic = "absurd velvet orient online hurdle treat caught giggle post absorb gown gallery";
+var mnemonic = "donkey raw guilt maximum decline year siren ecology example volcano kidney hat";

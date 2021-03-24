@@ -1,1 +1,1 @@
-var mnemonic = "solution say smooth cargo divorce infant ginger orbit true shine joy soldier";
+var mnemonic = "dirt again brisk merit trade ginger frozen capital dolphin side magnet away";

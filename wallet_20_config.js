@@ -1,1 +1,1 @@
-var mnemonic = "cactus matter snow about main cactus danger fuel universe praise bid december";
+var mnemonic = "ladder list syrup behind lunar brush hint question correct solve divert wait";

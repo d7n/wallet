@@ -1,1 +1,1 @@
-var mnemonic = "dice chest dish forget abuse pelican slice prize vanish kitchen invite grit";
+var mnemonic = "ticket october smart title repeat father better goddess voyage tuna radio popular";

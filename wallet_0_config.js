@@ -1,1 +1,1 @@
-var mnemonic = "turkey furnace shallow actual buffalo romance choice myth soldier utility spot crash";
+var mnemonic = "plate youth impact civil actual insect cake source grace seat smile shuffle";

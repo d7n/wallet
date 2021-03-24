@@ -1,1 +1,1 @@
-var mnemonic = "route cement pizza donate fever merge acquire slim buddy year pride parent";
+var mnemonic = "humor return scatter capital yard fortune dutch atom age pave local tide";
