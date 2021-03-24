@@ -1,1 +1,1 @@
-var mnemonic = "awesome bomb raccoon coral job unique oxygen fossil initial occur scatter jaguar";
+var mnemonic = "pave cave spare crouch tail cactus flag recycle comic climb indicate differ";

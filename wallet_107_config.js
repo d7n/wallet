@@ -1,1 +1,1 @@
-var mnemonic = "flash decide humble salt toward father prevent guard morning episode sleep agent";
+var mnemonic = "educate board bottom armed icon inherit deny off crumble vessel torch salt";

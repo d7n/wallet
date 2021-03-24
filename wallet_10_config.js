@@ -1,1 +1,1 @@
-var mnemonic = "decide analyst unusual display inspire board panda include carpet absent melt laugh";
+var mnemonic = "stereo unusual grocery insect impose churn exhibit prosper busy calm card resource";

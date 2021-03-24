@@ -1,1 +1,1 @@
-var mnemonic = "pitch trash behave settle faith vast slight lounge song month grunt cave";
+var mnemonic = "stadium pitch afraid lunar adjust wine other write either holiday dinner room";

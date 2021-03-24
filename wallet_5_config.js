@@ -1,1 +1,1 @@
-var mnemonic = "good brass warm matrix maximum dog cotton jaguar narrow rely kiwi motor";
+var mnemonic = "report library pact regret clump latin crash dinner dress cheese need olive";

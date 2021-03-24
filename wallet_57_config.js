@@ -1,1 +1,1 @@
-var mnemonic = "poverty alien dolphin asset blur yellow bubble balance physical convince unique dash";
+var mnemonic = "aisle square fence feature wool giggle solid fox snake remind shadow wide";

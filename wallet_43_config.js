@@ -1,1 +1,1 @@
-var mnemonic = "metal upper pitch piece novel tent problem build caught valid mention tonight";
+var mnemonic = "youth valve patrol forward come goose safe clarify ankle uniform address surge";

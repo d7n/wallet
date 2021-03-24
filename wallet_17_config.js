@@ -1,1 +1,1 @@
-var mnemonic = "add click solve vivid hub soccer nothing card other climb program cradle";
+var mnemonic = "present pulp garden auto paper salute just income sure reunion deny pig";

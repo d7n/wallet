@@ -1,1 +1,1 @@
-var mnemonic = "settle mushroom credit click burst slab track useful aware advance fitness virtual";
+var mnemonic = "symbol pet maximum green neither genre soft close notable tourist expect upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory special any test tent believe sunny adult foster forward east shift";
+var mnemonic = "media embrace dwarf hand dolphin trash cost accident dune law permit plug";

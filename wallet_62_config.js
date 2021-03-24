@@ -1,1 +1,1 @@
-var mnemonic = "dirt chunk vivid add yard crawl session hungry miss virtual wait blade";
+var mnemonic = "short brand response decorate slow cook few then asthma crisp citizen thumb";

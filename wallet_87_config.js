@@ -1,1 +1,1 @@
-var mnemonic = "welcome aware magnet choose poem bachelor candy absorb robust silver pupil connect";
+var mnemonic = "father staff maple disorder doll captain place invite little just high kid";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer blue want lobster diesel abandon denial tattoo spatial loud price announce";
+var mnemonic = "cash beauty mobile file mule pioneer decide exercise inherit novel identify flag";

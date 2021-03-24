@@ -1,1 +1,1 @@
-var mnemonic = "sunset never setup pepper flower bicycle earth select finger blouse someone update";
+var mnemonic = "visa false focus industry glare since robust input budget bless learn luxury";

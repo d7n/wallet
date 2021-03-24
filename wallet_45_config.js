@@ -1,1 +1,1 @@
-var mnemonic = "public buddy found cook disagree brass spoon ice south floor trick mention";
+var mnemonic = "dice chest dish forget abuse pelican slice prize vanish kitchen invite grit";

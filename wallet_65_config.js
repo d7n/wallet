@@ -1,1 +1,1 @@
-var mnemonic = "divert gloom maze grief soft permit genius silk brisk net cash patient";
+var mnemonic = "column solid merit penalty pizza culture foil payment neglect elevator story boost";

@@ -1,1 +1,1 @@
-var mnemonic = "lend post family silent swear atom hammer priority bargain early physical poverty";
+var mnemonic = "cactus matter snow about main cactus danger fuel universe praise bid december";

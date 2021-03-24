@@ -1,1 +1,1 @@
-var mnemonic = "total soap move limit suit tourist eternal banner flat ice subject tuition";
+var mnemonic = "slot feed leopard random chunk drop shy empower firm seven poverty about";

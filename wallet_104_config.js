@@ -1,1 +1,1 @@
-var mnemonic = "fabric sibling cherry voice spawn pencil skirt female tragic there brass struggle";
+var mnemonic = "circle brisk gorilla window fringe size strike alpha rural essay please seven";

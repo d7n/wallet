@@ -1,1 +1,1 @@
-var mnemonic = "hole obey trip chef naive yard help rain wood cool autumn you";
+var mnemonic = "unique hour super symptom expect artist tilt expand hybrid liquid curtain estate";

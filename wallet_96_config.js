@@ -1,1 +1,1 @@
-var mnemonic = "weapon vocal walnut job salad resemble absorb hard great congress pumpkin mail";
+var mnemonic = "frost collect spread library taste gas cluster hip lady minimum build cousin";

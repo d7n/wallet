@@ -1,1 +1,1 @@
-var mnemonic = "erase bag breeze birth mosquito physical bronze funny smoke embody forward erode";
+var mnemonic = "review spend amused foil easy dinosaur cake catch lecture gap van text";

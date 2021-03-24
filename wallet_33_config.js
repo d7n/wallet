@@ -1,1 +1,1 @@
-var mnemonic = "regret design quality lazy quality owner cabbage destroy suffer doll fence gesture";
+var mnemonic = "flower arena lonely save ivory answer cat gentle kit valid huge cancel";

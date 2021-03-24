@@ -1,1 +1,1 @@
-var mnemonic = "scene disorder decide donor crazy crush rigid culture town alley injury able";
+var mnemonic = "weekend quiz excess citizen muscle regret mercy much puzzle file put sorry";

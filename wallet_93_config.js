@@ -1,1 +1,1 @@
-var mnemonic = "cry pitch dice penalty language arena enable style excuse edit isolate miracle";
+var mnemonic = "snake benefit shield elephant hockey cabbage home increase inspire immune emotion item";

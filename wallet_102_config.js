@@ -1,1 +1,1 @@
-var mnemonic = "captain guess desert pool cherry energy kiss truth cable candy chicken result";
+var mnemonic = "hood tiger runway slide shadow switch pair flush climb during smart hint";

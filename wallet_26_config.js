@@ -1,1 +1,1 @@
-var mnemonic = "cruise idea globe chaos day eye brown blood agree illness clutch upset";
+var mnemonic = "army sudden concert pear pitch bridge essence hungry ancient cereal grocery device";

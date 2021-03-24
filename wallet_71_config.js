@@ -1,1 +1,1 @@
-var mnemonic = "poverty brush nuclear write govern immense hen acoustic clean all clip fatigue";
+var mnemonic = "broken cupboard oblige follow add piano teach evidence assault pool tattoo devote";

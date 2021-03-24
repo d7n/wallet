@@ -1,1 +1,1 @@
-var mnemonic = "item car whip organ come cliff wine fault merge credit spot punch";
+var mnemonic = "movie source just ill stable satoshi crowd solve sting autumn drip prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery remove above issue situate sheriff rural find payment faculty congress cereal";
+var mnemonic = "knife maid empower misery copy hood multiply across rose wrist flight sponsor";

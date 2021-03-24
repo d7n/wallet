@@ -1,1 +1,1 @@
-var mnemonic = "garlic arrow warfare riot consider harsh text tongue still twelve design cable";
+var mnemonic = "acoustic spread tape advice core violin genuine letter shrug suffer romance decrease";

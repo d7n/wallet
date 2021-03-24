@@ -1,1 +1,1 @@
-var mnemonic = "deer elite anxiety toddler easy picnic type miracle meadow dry survey swim";
+var mnemonic = "erase steel ramp team chef stand danger lawn cruel gravity bird aerobic";

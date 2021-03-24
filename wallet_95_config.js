@@ -1,1 +1,1 @@
-var mnemonic = "very garage identify lady flush diagram trick enough organ radio cool voyage";
+var mnemonic = "silly camera vital boy bunker ordinary south brother depth squeeze social neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate region human awesome coffee math online tobacco lock educate girl brisk";
+var mnemonic = "scrub december moral debate proud absurd pipe matrix fish benefit absurd bag";

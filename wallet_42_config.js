@@ -1,1 +1,1 @@
-var mnemonic = "point biology mosquito daughter carpet spoon toy scissors balance bulk plate enjoy";
+var mnemonic = "vast obscure divert reward violin choice dragon input crisp plunge nature cushion";

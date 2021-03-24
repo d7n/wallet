@@ -1,1 +1,1 @@
-var mnemonic = "moral chimney delay cotton peasant kite disorder spawn story device raw blossom";
+var mnemonic = "little mesh kingdom garbage shoot phrase sock salad radar that off actual";

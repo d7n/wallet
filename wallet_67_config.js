@@ -1,1 +1,1 @@
-var mnemonic = "jaguar shed solid program someone home viable hub animal tilt illegal name";
+var mnemonic = "inner hamster vast occur enhance mad arrive bitter flag parent pretty skull";

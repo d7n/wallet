@@ -1,1 +1,1 @@
-var mnemonic = "phone arctic jewel then defense park witness ginger decade achieve already horse";
+var mnemonic = "exercise pig glove whip blind devote pelican pudding chronic cruel lounge champion";

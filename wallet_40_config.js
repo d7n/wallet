@@ -1,1 +1,1 @@
-var mnemonic = "oxygen sponsor suit local harvest section verb veteran hazard fortune company giant";
+var mnemonic = "mean pool involve gasp paper believe concert artwork key fetch lake another";

@@ -1,1 +1,1 @@
-var mnemonic = "material sting jacket differ endorse royal brush middle ozone token edit penalty";
+var mnemonic = "total person forget area wrap key forest cement force rib oblige rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "sing they bring later bacon tissue echo parade squirrel release cinnamon minimum";
+var mnemonic = "armed mask weird mixed park raw parent rather rebuild okay throw grass";

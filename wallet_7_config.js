@@ -1,1 +1,1 @@
-var mnemonic = "unit soul spider sense atom wrist piece poet wisdom oval bracket regular";
+var mnemonic = "sudden camp fall brick shallow coil cost blame tunnel cram require sorry";

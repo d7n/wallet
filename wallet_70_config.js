@@ -1,1 +1,1 @@
-var mnemonic = "slender inflict crawl arrange ready legal pelican gesture square cross cream sweet";
+var mnemonic = "inner remind sister ankle error dust news broccoli monkey hero ring fox";

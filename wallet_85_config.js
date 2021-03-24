@@ -1,1 +1,1 @@
-var mnemonic = "foster health visa choose paper loop clerk mass inflict try still color";
+var mnemonic = "kid game enforce sausage dove margin gadget bomb traffic badge inspire oil";

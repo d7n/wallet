@@ -1,1 +1,1 @@
-var mnemonic = "carbon custom proof cart employ federal torch citizen two ceiling autumn achieve";
+var mnemonic = "prosper response shallow frequent engine illegal twin sorry capital loop lizard fan";

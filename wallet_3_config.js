@@ -1,1 +1,1 @@
-var mnemonic = "onion unfair liquid again vicious spirit shoot push pretty deal miracle client";
+var mnemonic = "path awful video shallow plunge jazz person secret hole genius wheat flip";

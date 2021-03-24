@@ -1,1 +1,1 @@
-var mnemonic = "settle lecture bullet rapid shove ride weasel spend wing village kick roof";
+var mnemonic = "accident undo size split monitor diet lamp make once jewel grocery daring";

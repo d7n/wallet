@@ -1,1 +1,1 @@
-var mnemonic = "hip more pottery rack answer kitchen into gift runway grit delay orient";
+var mnemonic = "crime opinion around demand vague test buffalo giant skate doctor behind tilt";

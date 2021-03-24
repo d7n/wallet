@@ -1,1 +1,1 @@
-var mnemonic = "viable school today escape clown slot dilemma jar address drive good rely";
+var mnemonic = "assault assault dignity jump hold empower sing attitude walk tide flip paper";

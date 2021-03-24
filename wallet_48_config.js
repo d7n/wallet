@@ -1,1 +1,1 @@
-var mnemonic = "sell gallery belt diesel ugly hurry balance crop chapter mango narrow tree";
+var mnemonic = "vague language tennis produce upset shaft upgrade three maple picture search noodle";

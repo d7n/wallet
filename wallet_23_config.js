@@ -1,1 +1,1 @@
-var mnemonic = "heart reject urban slogan welcome arctic able family mind street practice unknown";
+var mnemonic = "story pyramid film dad ankle meadow lend ecology unit analyst clarify copper";

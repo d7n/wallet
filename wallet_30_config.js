@@ -1,1 +1,1 @@
-var mnemonic = "element donate nothing output arrow minimum border banner filter nurse crawl faculty";
+var mnemonic = "chalk install bless gravity hybrid pave chalk merit kingdom phone one enhance";

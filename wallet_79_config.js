@@ -1,1 +1,1 @@
-var mnemonic = "onion inner news use outer pet grow cry craft drip art tissue";
+var mnemonic = "ranch raccoon over modify eyebrow tail real medal pair usual survey equal";

@@ -1,1 +1,1 @@
-var mnemonic = "couch slogan identify benefit cabbage notable roast endorse scale matter romance flash";
+var mnemonic = "weasel boil van mention actor ribbon welcome often catalog scale grid captain";

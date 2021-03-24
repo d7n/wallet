@@ -1,1 +1,1 @@
-var mnemonic = "they violin wagon mandate mimic hockey ostrich host magic empower parrot vote";
+var mnemonic = "race core monitor father tonight local across ahead shrimp client spy cash";

@@ -1,1 +1,1 @@
-var mnemonic = "verify crater dry punch friend nose pledge rose decorate warfare foster discover";
+var mnemonic = "alone prosper mercy gap output weekend grunt draw weekend fresh puzzle stadium";

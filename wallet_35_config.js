@@ -1,1 +1,1 @@
-var mnemonic = "cannon cake rookie slush fall fox dove surface solid increase spoon erupt";
+var mnemonic = "dust rocket upper average post recall tragic notable snow bid ostrich buddy";

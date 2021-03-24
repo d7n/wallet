@@ -1,1 +1,1 @@
-var mnemonic = "rebuild crawl recycle inch undo enable conduct inquiry second give earn tail";
+var mnemonic = "weather effort check fruit parent upgrade enrich inner evidence tip royal leisure";

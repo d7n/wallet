@@ -1,1 +1,1 @@
-var mnemonic = "table warrior cake wonder spray runway portion someone snow draw maple leopard";
+var mnemonic = "grocery month wave essay banner various devote segment predict ticket head crowd";

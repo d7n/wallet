@@ -1,1 +1,1 @@
-var mnemonic = "tornado warfare subject link dune cluster own bracket present junk bar minute";
+var mnemonic = "survey agent february rookie weather excess toddler wagon mango demise cycle matter";

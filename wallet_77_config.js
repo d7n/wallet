@@ -1,1 +1,1 @@
-var mnemonic = "error math extra float sorry build machine tribe odor arena empower pig";
+var mnemonic = "scatter twice balance ivory cruel opinion vast fit cause sound hand color";

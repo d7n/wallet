@@ -1,1 +1,1 @@
-var mnemonic = "habit play eyebrow connect gadget coach rug escape despair empty replace fade";
+var mnemonic = "shock pledge skate stomach ride wine pool mom estate civil page shiver";

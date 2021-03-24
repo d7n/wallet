@@ -1,1 +1,1 @@
-var mnemonic = "wealth outer barrel fatal analyst used apology barely expose earth arrange stomach";
+var mnemonic = "hidden art sauce arctic winter human glow spot interest cushion elder engage";

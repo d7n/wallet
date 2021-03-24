@@ -1,1 +1,1 @@
-var mnemonic = "invest deal crucial south defy ski adapt tree absent asset box divide";
+var mnemonic = "load reflect service item ready remember retreat climb client confirm suspect extend";

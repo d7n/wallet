@@ -1,1 +1,1 @@
-var mnemonic = "valid list business deputy cat hair neck seed trial sting act luggage";
+var mnemonic = "physical fly coach match exact quiz pulse stem foster climb series exact";

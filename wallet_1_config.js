@@ -1,1 +1,1 @@
-var mnemonic = "flame coast cactus increase purchase danger genuine relax split flag tray early";
+var mnemonic = "private health promote when federal kangaroo blue still burger civil unfair evoke";

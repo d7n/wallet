@@ -1,1 +1,1 @@
-var mnemonic = "tornado vivid option practice gym sunny minimum virtual order buddy gallery accuse";
+var mnemonic = "liquid jeans nose merry word weapon double sentence foster issue ready envelope";

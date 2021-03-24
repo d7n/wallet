@@ -1,1 +1,1 @@
-var mnemonic = "range video suggest detect mango tool exile farm stable ceiling about sponsor";
+var mnemonic = "gadget push august hole top antique pulp genre venture stomach desk toss";

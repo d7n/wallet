@@ -1,1 +1,1 @@
-var mnemonic = "grid coin hero dream goat normal liar immense organ evolve ski arrange";
+var mnemonic = "lobster fog deny film diary thank message napkin consider heart detail awkward";

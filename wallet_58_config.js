@@ -1,1 +1,1 @@
-var mnemonic = "strike jump change wait tunnel topic unaware river butter helmet parade frown";
+var mnemonic = "always potato hotel trend wrong lock group voyage enlist uphold raven six";

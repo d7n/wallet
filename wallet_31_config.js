@@ -1,1 +1,1 @@
-var mnemonic = "divorce angle cat mix bulb assault network furnace anger various same table";
+var mnemonic = "rough harbor animal discover all abstract return glory squeeze salad heart giraffe";

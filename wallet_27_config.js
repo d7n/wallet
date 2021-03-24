@@ -1,1 +1,1 @@
-var mnemonic = "bean hint style exist rather cluster hill unable oven leave town helmet";
+var mnemonic = "swallow animal chat spice weird flee seek pull design office recipe pledge";

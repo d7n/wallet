@@ -1,1 +1,1 @@
-var mnemonic = "drum logic bunker senior child food drill because garbage siren leave twenty";
+var mnemonic = "route cement pizza donate fever merge acquire slim buddy year pride parent";

@@ -1,1 +1,1 @@
-var mnemonic = "bench potato usage retreat junk soda mobile obvious notice cry same chunk";
+var mnemonic = "hello labor sing annual choose survey devote spy document soda age blade";

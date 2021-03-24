@@ -1,1 +1,1 @@
-var mnemonic = "pyramid atom wisdom budget lobster round twelve slab test wage they gallery";
+var mnemonic = "item abstract afford castle goddess when faith urban sibling return use stuff";

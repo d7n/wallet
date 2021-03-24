@@ -1,1 +1,1 @@
-var mnemonic = "utility dirt bid amazing sand suggest hawk return tourist twice laundry witness";
+var mnemonic = "solution say smooth cargo divorce infant ginger orbit true shine joy soldier";

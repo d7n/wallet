@@ -1,1 +1,1 @@
-var mnemonic = "canyon build mule tribe stereo type winter stick tip put eye surprise";
+var mnemonic = "danger pattern convince waste rib loyal left actress margin fringe replace goat";

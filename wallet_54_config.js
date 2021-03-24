@@ -1,1 +1,1 @@
-var mnemonic = "praise rhythm position wealth diet flock canoe mistake powder fatal reduce sand";
+var mnemonic = "sword issue legend brisk celery police amused cash ankle science sorry drip";

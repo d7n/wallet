@@ -1,1 +1,1 @@
-var mnemonic = "roof caution disease reform merit diary diagram table image salt spare believe";
+var mnemonic = "security subway inflict shiver admit hundred champion priority wagon legal neither bunker";

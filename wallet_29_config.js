@@ -1,1 +1,1 @@
-var mnemonic = "legend whale spray pen embark equip orchard subject adapt service fire consider";
+var mnemonic = "minimum story endless enable buzz impulse host update piano senior pond mask";

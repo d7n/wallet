@@ -1,1 +1,1 @@
-var mnemonic = "emotion fence key path picnic mix olympic balcony empower happy ahead axis";
+var mnemonic = "frequent bulb flip combine surface blue alter civil lift spider certain ugly";

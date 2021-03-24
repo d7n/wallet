@@ -1,1 +1,1 @@
-var mnemonic = "tape want promote lake picnic pull leaf injury desk medal profit melt";
+var mnemonic = "tiny ocean cable record bicycle fuel clutch library hold grit angry friend";

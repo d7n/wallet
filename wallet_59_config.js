@@ -1,1 +1,1 @@
-var mnemonic = "dad early satoshi machine mask hundred ship sustain valve goat student black";
+var mnemonic = "winner giant coyote wrist scrub deputy month casino giraffe radar hand almost";

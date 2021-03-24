@@ -1,1 +1,1 @@
-var mnemonic = "betray sunset helmet couple include arm blur kingdom fury this turn purchase";
+var mnemonic = "muffin hand kitten nest differ else upgrade rhythm very silent sibling sun";

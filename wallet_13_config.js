@@ -1,1 +1,1 @@
-var mnemonic = "share enlist occur suggest gather borrow dismiss casual state myth nominee pull";
+var mnemonic = "edit adult height clump vault close heavy hobby hold bracket celery mechanic";

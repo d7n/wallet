@@ -1,1 +1,1 @@
-var mnemonic = "false miracle early cricket clap grace vanish exit grief guard arrest raccoon";
+var mnemonic = "flush shrug render visit verify forest pig walk address ugly attack garlic";

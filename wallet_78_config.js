@@ -1,1 +1,1 @@
-var mnemonic = "virtual ramp web rally wrong trouble reopen camera truth floor design ancient";
+var mnemonic = "saddle mask donate spell combine elevator arctic beyond increase split monitor seek";

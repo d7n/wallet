@@ -1,1 +1,1 @@
-var mnemonic = "south vapor educate coffee lawn steel uphold swarm term lawn hour dice";
+var mnemonic = "sleep mutual gasp boy tornado hammer throw dinner exchange plunge valid cluster";
