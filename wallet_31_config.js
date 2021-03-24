@@ -1,1 +1,1 @@
-var mnemonic = "catch rhythm quiz program rubber crumble giggle wheat fatigue usage image clarify";
+var mnemonic = "lamp vault popular toddler okay category winter arch west repeat cause expect";

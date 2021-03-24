@@ -1,1 +1,1 @@
-var mnemonic = "normal document cruise glow erupt reform lawsuit lumber palace donkey dilemma small";
+var mnemonic = "swap curtain space custom document remain entire kingdom census mimic garage trap";

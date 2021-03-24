@@ -1,1 +1,1 @@
-var mnemonic = "blossom orient casino toilet zebra grace artwork reveal timber guilt fat sign";
+var mnemonic = "casino super pony volume pen ensure together submit flight melody cube raven";

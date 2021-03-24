@@ -1,1 +1,1 @@
-var mnemonic = "typical you puzzle gate urge ski eager awesome play ginger round elephant";
+var mnemonic = "sentence accident leaf romance rather eternal nest priority ripple turkey file minimum";

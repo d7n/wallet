@@ -1,1 +1,1 @@
-var mnemonic = "require actor distance evoke cake trial ramp prize endless tennis earth width";
+var mnemonic = "give library universe federal panther reason oak slender bright rack aim lizard";

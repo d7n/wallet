@@ -1,1 +1,1 @@
-var mnemonic = "tell kit outside talent supply ring poet narrow faith dirt grief smile";
+var mnemonic = "betray pass digital bean breeze judge topple video nurse coffee tail way";

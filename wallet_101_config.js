@@ -1,1 +1,1 @@
-var mnemonic = "hint sock jelly claw caught lab rug indoor quit afraid switch advance";
+var mnemonic = "bargain win crazy globe siege tiny inhale online grape list scheme gas";

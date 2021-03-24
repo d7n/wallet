@@ -1,1 +1,1 @@
-var mnemonic = "adult hard rain upon always decrease differ subject cat ozone enable goose";
+var mnemonic = "photo plastic dream orange chunk bomb shoulder drift because teach coconut use";

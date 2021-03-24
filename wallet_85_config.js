@@ -1,1 +1,1 @@
-var mnemonic = "appear space half episode client genre since alpha expose grow romance battle";
+var mnemonic = "also main six excess tell auto define gas raccoon mule abandon give";

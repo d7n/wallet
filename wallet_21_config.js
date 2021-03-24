@@ -1,1 +1,1 @@
-var mnemonic = "genuine patrol sword accuse bachelor blame acid just mention call foot observe";
+var mnemonic = "rifle library hazard disorder fix whip flush swim confirm shuffle wife wave";

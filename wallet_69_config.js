@@ -1,1 +1,1 @@
-var mnemonic = "planet gas crowd city fatal employ march cupboard music motion conduct cigar";
+var mnemonic = "shock swing gift faint certain govern stand eternal edge predict cliff lobster";

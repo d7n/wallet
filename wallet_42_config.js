@@ -1,1 +1,1 @@
-var mnemonic = "horn cliff term iron note achieve pave cigar mix wrist artwork blood";
+var mnemonic = "essay maid congress fall tooth ozone start faculty silk similar candy follow";

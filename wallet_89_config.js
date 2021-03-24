@@ -1,1 +1,1 @@
-var mnemonic = "song melt pilot velvet goddess truck rigid car whip usage brown tooth";
+var mnemonic = "airport position mom trust position question purchase sad ritual ugly consider credit";

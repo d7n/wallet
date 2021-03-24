@@ -1,1 +1,1 @@
-var mnemonic = "memory surface punch furnace outer plastic relax tail either child cloth neck";
+var mnemonic = "peasant bulk scan quantum abuse cruise paper gold exist science fit uniform";

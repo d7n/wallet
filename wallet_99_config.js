@@ -1,1 +1,1 @@
-var mnemonic = "phone shoulder armor paper lunch drink tribe token room pattern guitar luggage";
+var mnemonic = "jump juice point talk desk movie drastic clever earn loud ask tomorrow";

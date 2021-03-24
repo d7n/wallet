@@ -1,1 +1,1 @@
-var mnemonic = "reduce tobacco secret trap insect uphold throw lyrics gaze asset smooth hurt";
+var mnemonic = "fever pioneer divide head laptop boring involve sunny rude flip nothing walk";

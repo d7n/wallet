@@ -1,1 +1,1 @@
-var mnemonic = "fiber whale asthma awesome foam hurry menu vanish wear panda toy choose";
+var mnemonic = "present famous various upper fluid wrap method empty crater merry chronic goddess";

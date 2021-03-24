@@ -1,1 +1,1 @@
-var mnemonic = "biology oppose kiwi grid amateur pretty scene favorite fetch way hand rhythm";
+var mnemonic = "acid output return excess jump trend path rack like medal robot lottery";

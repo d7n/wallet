@@ -1,1 +1,1 @@
-var mnemonic = "capital bronze capital change domain such auction assault crack antenna olive honey";
+var mnemonic = "toilet kiss globe hair attend swift height gravity omit energy page health";

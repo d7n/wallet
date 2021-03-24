@@ -1,1 +1,1 @@
-var mnemonic = "then fox taxi artist ride later town weekend praise divert coil process";
+var mnemonic = "wave recycle argue emerge today region slender royal clump wild inch smoke";

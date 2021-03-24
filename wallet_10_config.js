@@ -1,1 +1,1 @@
-var mnemonic = "maximum indoor nasty stove wife mansion economy heart junk marine motor term";
+var mnemonic = "fossil angry easy into defy donate blame march air future nut island";

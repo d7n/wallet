@@ -1,1 +1,1 @@
-var mnemonic = "lounge proud speak paper weasel south robot snow hen harvest donkey ice";
+var mnemonic = "zebra tonight brain royal link random million collect mutual athlete open govern";

@@ -1,1 +1,1 @@
-var mnemonic = "celery art gaze easily sphere border moment feature dove seed snap whip";
+var mnemonic = "awake party gown claim evolve fancy juice arrive mirror pact equip general";

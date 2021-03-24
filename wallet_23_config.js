@@ -1,1 +1,1 @@
-var mnemonic = "sister kid ceiling deal shadow involve impulse supply cube cable wolf refuse";
+var mnemonic = "void front unhappy lamp congress raven rebel tank cash panel lonely egg";

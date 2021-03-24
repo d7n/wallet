@@ -1,1 +1,1 @@
-var mnemonic = "short permit cereal mansion daring oil draft truly aisle trade choice affair";
+var mnemonic = "exist vibrant engage diesel tonight force cabbage salon bar soap digital trophy";

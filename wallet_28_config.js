@@ -1,1 +1,1 @@
-var mnemonic = "horror beyond boat master combine code gold gap pave beauty van load";
+var mnemonic = "wool source canvas monkey artist success pencil pond slice equal ketchup pottery";

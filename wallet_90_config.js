@@ -1,1 +1,1 @@
-var mnemonic = "attend glare wet aisle add input fitness coyote issue dwarf bottom funny";
+var mnemonic = "circle dust country salute share battle home choose burst ice desert movie";

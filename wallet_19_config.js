@@ -1,1 +1,1 @@
-var mnemonic = "amateur wide hub scissors margin pigeon radio reopen define seminar basket position";
+var mnemonic = "echo curtain knock left fall artefact light provide price regret sweet repair";

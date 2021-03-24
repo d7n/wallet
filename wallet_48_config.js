@@ -1,1 +1,1 @@
-var mnemonic = "curve possible circle abuse deposit cloud symbol hurry lawn ranch pause clinic";
+var mnemonic = "text hope off response pitch flower job junk coil come hard duty";

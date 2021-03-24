@@ -1,1 +1,1 @@
-var mnemonic = "honey salt unknown cloth zero peasant manual siege genre next people bread";
+var mnemonic = "budget hint banner shed census width poverty profit close truth mango hazard";

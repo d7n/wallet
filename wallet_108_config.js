@@ -1,1 +1,1 @@
-var mnemonic = "morning until review warrior kid unusual illness winter surge cinnamon consider keen";
+var mnemonic = "brother picnic strong modify split proud panel tunnel favorite ecology library gossip";

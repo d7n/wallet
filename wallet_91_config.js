@@ -1,1 +1,1 @@
-var mnemonic = "security foam soda feed mean smooth inspire coffee eternal awesome claim combine";
+var mnemonic = "blood image width worry digital raw proud ice bamboo spare prepare kit";

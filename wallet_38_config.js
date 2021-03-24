@@ -1,1 +1,1 @@
-var mnemonic = "fee cheap mouse pool flag book hybrid vanish truck repair usage network";
+var mnemonic = "reflect grid unlock round bread unhappy dune wash economy among swarm split";

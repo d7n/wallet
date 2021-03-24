@@ -1,1 +1,1 @@
-var mnemonic = "diary boost segment drama door naive wrong other used upper spoon need";
+var mnemonic = "stable clerk suspect fine employ honey video knee tilt onion spread artist";

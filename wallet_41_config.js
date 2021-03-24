@@ -1,1 +1,1 @@
-var mnemonic = "unusual proof youth daughter shove display grace climb cloud afraid have finger";
+var mnemonic = "recipe bus budget impulse stereo lens high coil ride erupt earn riot";

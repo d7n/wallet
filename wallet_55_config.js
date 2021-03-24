@@ -1,1 +1,1 @@
-var mnemonic = "timber frost mail addict order tide elevator universe initial then adult sibling";
+var mnemonic = "bar bread check enrich ball remember awesome embark impact topple demise catalog";

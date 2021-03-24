@@ -1,1 +1,1 @@
-var mnemonic = "panther twenty grief talk elbow buffalo salt helmet imitate type virtual reason";
+var mnemonic = "spawn crisp daughter easy small cattle window bulb rich banana control energy";

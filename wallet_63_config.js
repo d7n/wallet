@@ -1,1 +1,1 @@
-var mnemonic = "boat antenna nerve hammer time forum width minimum lock flag extra away";
+var mnemonic = "detail visual original first violin pig genius extend wire combine abuse cook";

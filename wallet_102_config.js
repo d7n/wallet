@@ -1,1 +1,1 @@
-var mnemonic = "shoot major between joy shed winter army ethics ship motor cancel situate";
+var mnemonic = "decrease rally witness throw rescue verb live drum section city pulse wall";

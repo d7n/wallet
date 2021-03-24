@@ -1,1 +1,1 @@
-var mnemonic = "invite toe quarter size essence ask raccoon volume shed sustain cash occur";
+var mnemonic = "weapon embody moment end pilot basic planet enact inquiry private radio horn";

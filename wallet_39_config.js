@@ -1,1 +1,1 @@
-var mnemonic = "crane identify bounce damp pulse glare man sign embody perfect cruel deer";
+var mnemonic = "unfold expire emerge cigar dose tail whisper flower atom swear empower armed";

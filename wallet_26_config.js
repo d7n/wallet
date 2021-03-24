@@ -1,1 +1,1 @@
-var mnemonic = "review evoke neither merit gym athlete interest crumble soft auction steak emerge";
+var mnemonic = "draft excite they photo other prison split outside solar click olympic follow";

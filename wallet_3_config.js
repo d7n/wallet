@@ -1,1 +1,1 @@
-var mnemonic = "marriage essence pony invest rude feed nose grape mesh chimney alley since";
+var mnemonic = "auction lecture beef major melt desk dice action grid alter never equal";

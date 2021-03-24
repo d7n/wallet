@@ -1,1 +1,1 @@
-var mnemonic = "pupil tower rich resemble sorry burger marriage lesson pear page gloom pitch";
+var mnemonic = "horror gate express exercise cloud length grace pear web clutch exercise wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "version sting pull movie tuition brother alone match upon moon figure ritual";
+var mnemonic = "online same sentence explain below dress seat february habit peace nation inmate";

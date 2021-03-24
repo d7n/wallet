@@ -1,1 +1,1 @@
-var mnemonic = "field cigar simple exchange digital foam trial flower walnut congress luggage sorry";
+var mnemonic = "age monitor crop interest shallow model call horn panic hungry drama alley";

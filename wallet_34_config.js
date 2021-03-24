@@ -1,1 +1,1 @@
-var mnemonic = "glow slice baby detect bicycle aisle click tackle dilemma slice gadget hub";
+var mnemonic = "wall top task adapt school robust kitchen brave note choice mistake crime";

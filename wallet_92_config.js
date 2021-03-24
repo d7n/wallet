@@ -1,1 +1,1 @@
-var mnemonic = "canoe chase glare ridge ski draft kitten drama owner vanish invest tumble";
+var mnemonic = "village night spawn combine inject check update cactus common deposit enter combine";

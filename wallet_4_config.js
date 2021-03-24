@@ -1,1 +1,1 @@
-var mnemonic = "affair number glory trumpet pepper dignity series someone siren dinner champion animal";
+var mnemonic = "close motor mimic flee direct horror wet primary goat apple year nature";

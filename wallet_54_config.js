@@ -1,1 +1,1 @@
-var mnemonic = "join cabbage gravity couch hub future adult plug staff runway treat canvas";
+var mnemonic = "fiscal undo barely orchard grape travel hello dwarf survey eternal uniform knee";

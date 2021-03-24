@@ -1,1 +1,1 @@
-var mnemonic = "clay hollow rebuild mango dolphin sure rely embody void cross select child";
+var mnemonic = "horse cat magic other glass fire always riot mirror bronze season test";

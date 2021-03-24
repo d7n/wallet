@@ -1,1 +1,1 @@
-var mnemonic = "equal between stereo sibling crush moment best lottery donor devote ten adult";
+var mnemonic = "science coast borrow worry saddle dune habit garlic best virus desk this";

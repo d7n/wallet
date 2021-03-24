@@ -1,1 +1,1 @@
-var mnemonic = "rib plug circle clog harbor flame clinic record loop text scatter suggest";
+var mnemonic = "universe hole hockey kitchen wisdom all guard weird lizard imitate rival clog";

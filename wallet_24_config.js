@@ -1,1 +1,1 @@
-var mnemonic = "law comic radio awkward whisper slush pass mammal flash blanket silver meat";
+var mnemonic = "slide pride notice update throw remain scorpion remember gasp orange choose entire";

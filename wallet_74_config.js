@@ -1,1 +1,1 @@
-var mnemonic = "famous grain vicious nurse valve float raise mechanic eager disease relief daring";
+var mnemonic = "green edge armor pizza dirt rich window couple hockey announce say grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "empty arrest excite gift embody battle wrestle venture repair margin long quarter";
+var mnemonic = "divorce town mind skull bulk you world rookie swim day pudding nurse";

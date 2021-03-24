@@ -1,1 +1,1 @@
-var mnemonic = "length domain answer chair fade ten proof brick bunker upper couch crumble";
+var mnemonic = "barely analyst enemy strike cart festival post combine wet evil brisk globe";

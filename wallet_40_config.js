@@ -1,1 +1,1 @@
-var mnemonic = "unable asthma suit pair future gain noble remain what truck depart danger";
+var mnemonic = "thrive toast ten topple then wealth bitter impose private trophy board journey";

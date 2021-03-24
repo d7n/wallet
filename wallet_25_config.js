@@ -1,1 +1,1 @@
-var mnemonic = "coin deer ugly inflict injury top demand safe stadium tape nothing furnace";
+var mnemonic = "dad develop amused duty also foot column circle ozone glance muffin fog";

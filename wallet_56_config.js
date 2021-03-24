@@ -1,1 +1,1 @@
-var mnemonic = "boil wise sponsor fatigue since release replace view kick clip celery stage";
+var mnemonic = "chef quiz hamster balance purchase parrot dinner rally rent toy eternal cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer anxiety embody lion rain speed dentist left lunch swarm lawn tortoise";
+var mnemonic = "town dirt plate click awake priority famous ring deal slam visual oven";

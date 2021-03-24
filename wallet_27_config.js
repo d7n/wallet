@@ -1,1 +1,1 @@
-var mnemonic = "rain divorce marble sick device catalog basic supreme snake sniff grain mail";
+var mnemonic = "census pistol cigar favorite bamboo again grape sunny image twice shrug strike";

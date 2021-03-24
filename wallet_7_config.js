@@ -1,1 +1,1 @@
-var mnemonic = "output scrap object pyramid fantasy member place ketchup gospel include piece jar";
+var mnemonic = "danger canoe lucky helmet cherry mask appear attract shaft razor clever wagon";

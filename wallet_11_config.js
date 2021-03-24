@@ -1,1 +1,1 @@
-var mnemonic = "panther toilet zoo need awkward second case direct stand split unfair enroll";
+var mnemonic = "meat alpha oxygen robot witness bamboo mystery obey verb give lazy alarm";

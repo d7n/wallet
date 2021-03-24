@@ -1,1 +1,1 @@
-var mnemonic = "home digital fame flip wood chase essence volume isolate bomb river thumb";
+var mnemonic = "apple yard nose again rain best sorry boss off limit maximum include";

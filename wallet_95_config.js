@@ -1,1 +1,1 @@
-var mnemonic = "garlic lend burst fall document cannon small shallow sniff that beach solid";
+var mnemonic = "debris excess dynamic piano speak prize sheriff jazz pepper pond mobile elephant";

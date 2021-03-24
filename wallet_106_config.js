@@ -1,1 +1,1 @@
-var mnemonic = "hurdle trip total bicycle spy health catalog ring chicken metal thing coyote";
+var mnemonic = "consider rubber panther artefact cart remember tiger device toy proof genre style";

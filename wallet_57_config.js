@@ -1,1 +1,1 @@
-var mnemonic = "audit proof wage library marine odor post romance pony awesome govern impulse";
+var mnemonic = "people seed convince guilt lava expect drum inside awkward wood clump arm";

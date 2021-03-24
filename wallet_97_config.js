@@ -1,1 +1,1 @@
-var mnemonic = "artefact way object share protect kiss crime aspect assist coast garlic orient";
+var mnemonic = "until suggest arch brush eight job faculty icon cradle aware edge mixed";

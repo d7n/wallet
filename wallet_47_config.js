@@ -1,1 +1,1 @@
-var mnemonic = "wagon print pupil cruel planet vague shuffle spring vicious hour light three";
+var mnemonic = "pole theme ten cycle oxygen annual search verb shed silk client pond";

@@ -1,1 +1,1 @@
-var mnemonic = "century correct resource suit flag donate trend nose guide cabbage page moon";
+var mnemonic = "flush chaos replace dry project coach waste jewel parrot pigeon drink energy";

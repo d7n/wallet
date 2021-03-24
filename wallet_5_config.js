@@ -1,1 +1,1 @@
-var mnemonic = "inside setup same recall similar mercy seat approve approve melody fancy negative";
+var mnemonic = "angry boost favorite spin dolphin hold ethics bind depth fence submit waste";

@@ -1,1 +1,1 @@
-var mnemonic = "stable pipe edit trap cat acid clap never indicate captain october alien";
+var mnemonic = "still drastic various despair stumble marble dismiss east upon luxury slim chapter";

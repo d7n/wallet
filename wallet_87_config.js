@@ -1,1 +1,1 @@
-var mnemonic = "legend powder ripple cram learn brown chuckle happy announce fossil math report";
+var mnemonic = "actress angry gauge limit artist attack enroll rude finish cry lamp gift";

@@ -1,1 +1,1 @@
-var mnemonic = "morning trash spring best remind interest still piece raw naive border only";
+var mnemonic = "cart purity must glide differ usual veteran hand claw border kitten ski";

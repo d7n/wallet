@@ -1,1 +1,1 @@
-var mnemonic = "later visa lab giraffe borrow okay pelican length estate fault bag benefit";
+var mnemonic = "tired recycle pink expose ivory sponsor hub tube category lake unknown cake";

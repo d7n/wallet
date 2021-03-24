@@ -1,1 +1,1 @@
-var mnemonic = "lock fold siren smooth comfort diamond suffer delay candy member question panther";
+var mnemonic = "viable famous search spy modify bike grab excess genre stage uphold cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "large quiz excuse ill police early alter rocket inherit kit inhale ride";
+var mnemonic = "bundle album grape lesson industry gaze start wrist fault wine beef cannon";

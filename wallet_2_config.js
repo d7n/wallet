@@ -1,1 +1,1 @@
-var mnemonic = "torch violin mesh sudden over pattern robust nephew bacon target cotton essay";
+var mnemonic = "super outdoor tumble vague snack useless alarm dust inform agree frame enable";

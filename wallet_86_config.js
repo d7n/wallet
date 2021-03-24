@@ -1,1 +1,1 @@
-var mnemonic = "illegal shed taxi crucial weekend possible barely online valid cause price grow";
+var mnemonic = "timber culture exclude ladder problem exile bitter mask soup exit toward velvet";

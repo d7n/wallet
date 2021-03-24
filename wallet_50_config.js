@@ -1,1 +1,1 @@
-var mnemonic = "present alert list excuse sound shell zoo then whale ivory dream lock";
+var mnemonic = "response width dragon dune near connect dawn such crime hint autumn neither";

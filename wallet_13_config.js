@@ -1,1 +1,1 @@
-var mnemonic = "leader speak public ship road chimney announce you legend drama party switch";
+var mnemonic = "pear animal theory gun sibling glory august hood melt pelican kite myth";

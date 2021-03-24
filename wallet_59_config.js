@@ -1,1 +1,1 @@
-var mnemonic = "giant glimpse kick pen confirm patch pen when tennis armor copy carry";
+var mnemonic = "jeans genuine mutual defy leg often attitude method cricket exist melody abuse";

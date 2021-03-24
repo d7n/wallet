@@ -1,1 +1,1 @@
-var mnemonic = "only lava actual lunch blame veteran melt nest layer shoe vote trial";
+var mnemonic = "divert danger forward pulse slab impact rescue danger trumpet road apple solve";

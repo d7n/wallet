@@ -1,1 +1,1 @@
-var mnemonic = "volcano gossip neck fetch cheese bubble gravity can yellow cover tube donor";
+var mnemonic = "desert desert honey kiwi candy path height baby absorb over alarm distance";

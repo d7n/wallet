@@ -1,1 +1,1 @@
-var mnemonic = "head series chase exact crouch labor business common wide logic child next";
+var mnemonic = "lava differ faith diamond dentist hard sphere coil similar supply hour enact";

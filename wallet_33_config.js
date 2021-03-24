@@ -1,1 +1,1 @@
-var mnemonic = "stove fetch alert galaxy shoulder off fine lyrics sword shine dry original";
+var mnemonic = "appear matter urge fantasy practice half happy rubber focus perfect net raven";

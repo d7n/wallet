@@ -1,1 +1,1 @@
-var mnemonic = "profit outdoor rapid slogan task earth key eager inflict rough rocket awkward";
+var mnemonic = "fox sleep spin chuckle unlock bunker dirt range jewel scrub copper cost";

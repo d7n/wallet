@@ -1,1 +1,1 @@
-var mnemonic = "proof major identify apple kitchen choose cluster swim office acoustic search cricket";
+var mnemonic = "jelly curtain copper neutral collect rabbit adapt visit ship history rapid series";
