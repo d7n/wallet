@@ -1,1 +1,1 @@
-var mnemonic = "elevator badge sock hidden luggage join novel bomb skin fossil surround ozone";
+var mnemonic = "asset system absorb skate interest nest goddess bargain donkey employ butter liberty";

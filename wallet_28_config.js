@@ -1,1 +1,1 @@
-var mnemonic = "bone jealous remember faint veteran kidney next similar remind summer yard nephew";
+var mnemonic = "endorse chuckle because sport mosquito vessel dog soda useful left certain zebra";

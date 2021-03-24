@@ -1,1 +1,1 @@
-var mnemonic = "public clap oak million space dawn evil vessel ceiling buyer bring maid";
+var mnemonic = "danger forward unusual credit beef industry good ranch float prosper logic poet";

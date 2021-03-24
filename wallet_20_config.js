@@ -1,1 +1,1 @@
-var mnemonic = "panda behave miracle scorpion tiger youth bless object gas silly wrestle kitten";
+var mnemonic = "two reflect movie drama raw immense unusual unfold enlist away roof clump";

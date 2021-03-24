@@ -1,1 +1,1 @@
-var mnemonic = "idea flag escape client saddle onion honey fog lunch pyramid course beauty";
+var mnemonic = "arrive noise horror endorse bulb meadow sock fiber casino panther boss subway";

@@ -1,1 +1,1 @@
-var mnemonic = "talk still chat embody student march beauty safe lucky switch admit admit";
+var mnemonic = "soup bleak noise more rally cool tongue search dove snake agree similar";

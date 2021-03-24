@@ -1,1 +1,1 @@
-var mnemonic = "nerve next weather element gym amateur island protect piano fluid crawl chalk";
+var mnemonic = "taxi age enforce meadow refuse hurdle cattle stable ring sword rapid picnic";

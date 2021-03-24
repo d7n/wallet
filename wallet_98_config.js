@@ -1,1 +1,1 @@
-var mnemonic = "jacket sun million simple caught behind orient season camp chapter section kite";
+var mnemonic = "pitch oxygen merry noise brown strike valid habit army issue prefer rigid";

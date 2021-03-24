@@ -1,1 +1,1 @@
-var mnemonic = "grow garbage own mistake lift list involve month use dismiss year nurse";
+var mnemonic = "method turkey solve device peace wash dust ribbon lawsuit bachelor kidney load";

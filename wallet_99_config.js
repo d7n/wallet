@@ -1,1 +1,1 @@
-var mnemonic = "mango february cave mail witness lyrics brand unfair poet spring slim prison";
+var mnemonic = "enforce sugar index someone donkey pause utility media enable food smart hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "bid bright vault soup job asset dial panic domain appear rigid first";
+var mnemonic = "cricket smoke submit plug extend confirm judge degree box chunk office harbor";

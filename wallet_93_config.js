@@ -1,1 +1,1 @@
-var mnemonic = "swim salute soldier grass wagon viable weasel approve false can crumble dose";
+var mnemonic = "blue spend grass license identify elevator city insect stool upper goddess car";

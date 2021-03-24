@@ -1,1 +1,1 @@
-var mnemonic = "sign soldier subject shock slender return mother globe suggest owner measure type";
+var mnemonic = "awake monitor addict health gloom burst notice gold omit myth cake omit";

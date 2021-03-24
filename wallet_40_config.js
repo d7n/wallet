@@ -1,1 +1,1 @@
-var mnemonic = "crush crunch rare boy fade lumber grass giggle practice oppose dad stumble";
+var mnemonic = "wish chimney injury crater three twelve pause defy differ also much obtain";

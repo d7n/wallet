@@ -1,1 +1,1 @@
-var mnemonic = "news true fever barely talent deliver truly swim diary parent position crater";
+var mnemonic = "grunt minute issue village mutual screen diary talent buyer trip speak retreat";

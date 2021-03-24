@@ -1,1 +1,1 @@
-var mnemonic = "govern guitar just expire act repeat process history kiwi color frost barrel";
+var mnemonic = "test verify wear acquire course injury kangaroo diagram rude shift absent million";

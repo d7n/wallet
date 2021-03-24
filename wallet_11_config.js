@@ -1,1 +1,1 @@
-var mnemonic = "flag cause awake appear enrich question wagon album convince ocean edge enroll";
+var mnemonic = "prevent inch bubble inhale bundle defense home exact opinion music tongue sell";

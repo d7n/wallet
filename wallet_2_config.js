@@ -1,1 +1,1 @@
-var mnemonic = "cancel damp shiver firm know ahead regular actress spike patient shrimp wagon";
+var mnemonic = "economy slab dry surround neither inherit hedgehog winter model toss guitar upset";

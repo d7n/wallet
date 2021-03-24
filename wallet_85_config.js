@@ -1,1 +1,1 @@
-var mnemonic = "runway angle salt sphere poet manual stove question series health turkey damage";
+var mnemonic = "doctor use human address uphold bomb jaguar evoke that man bread raccoon";

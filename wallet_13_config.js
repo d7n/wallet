@@ -1,1 +1,1 @@
-var mnemonic = "chunk square remain fiction little ski miss define round flock device animal";
+var mnemonic = "run rather brother settle icon spice cave cluster fossil danger brand among";

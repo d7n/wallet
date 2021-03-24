@@ -1,1 +1,1 @@
-var mnemonic = "cheap feature winner bitter cook neck circle enemy magnet write tennis sunset";
+var mnemonic = "eight palm medal sauce file detect viable wide bread teach lucky quote";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal future buffalo tenant pact cactus easily pudding quit work blue elite";
+var mnemonic = "company parrot destroy load because model quote service umbrella mushroom tool worry";

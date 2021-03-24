@@ -1,1 +1,1 @@
-var mnemonic = "scatter galaxy brain adult oval silver dutch burden actor cabbage snap mask";
+var mnemonic = "foot about summer negative grain famous museum inside crash shrimp boat split";

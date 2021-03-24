@@ -1,1 +1,1 @@
-var mnemonic = "salad foster protect drift lava fence market filter bomb hybrid dad toe";
+var mnemonic = "snow dune topple corn orchard wool scene reduce soda arena frown lion";

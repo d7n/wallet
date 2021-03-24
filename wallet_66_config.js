@@ -1,1 +1,1 @@
-var mnemonic = "open boat hurry rally funny funny core shield flat knife erosion box";
+var mnemonic = "aspect smile chaos coil unique urban tourist silver current way risk outdoor";

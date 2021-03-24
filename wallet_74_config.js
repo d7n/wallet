@@ -1,1 +1,1 @@
-var mnemonic = "cheese enrich antique bind pole horror retire traffic vivid path blame clap";
+var mnemonic = "cake tooth staff print trade curious stable liquid shrug mechanic cactus lizard";

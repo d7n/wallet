@@ -1,1 +1,1 @@
-var mnemonic = "twenty left meat thought pride front shadow grit proof build where relief";
+var mnemonic = "nominee among problem region spider cake heavy animal cycle leader relax convince";

@@ -1,1 +1,1 @@
-var mnemonic = "april trip method caution depart ceiling private vanish help sick will drum";
+var mnemonic = "next harbor topple credit news denial beef muscle win afraid slogan laundry";

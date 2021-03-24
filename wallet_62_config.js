@@ -1,1 +1,1 @@
-var mnemonic = "ribbon civil slim nerve merit melody mistake begin feature common thumb anxiety";
+var mnemonic = "joke flame source marine repair enlist rapid gorilla good arrest fever hair";

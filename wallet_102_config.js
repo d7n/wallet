@@ -1,1 +1,1 @@
-var mnemonic = "canoe heavy cheese age member crash shiver custom bird ceiling faint invest";
+var mnemonic = "public best riot dinner alien spend dove mean guess rude cheese slight";

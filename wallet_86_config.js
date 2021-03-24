@@ -1,1 +1,1 @@
-var mnemonic = "observe occur climb pen ocean cover try blur claw parent enemy income";
+var mnemonic = "south punch promote garlic tooth actor adapt cradle adult rifle ramp theory";

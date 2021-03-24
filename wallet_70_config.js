@@ -1,1 +1,1 @@
-var mnemonic = "father siege gloom because mutual garment congress trade topic mutual dove maid";
+var mnemonic = "vault pepper park minimum valve ball better you off release super dove";

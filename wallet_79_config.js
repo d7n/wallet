@@ -1,1 +1,1 @@
-var mnemonic = "stuff unable shaft thought stay eye virus bacon system tattoo august brush";
+var mnemonic = "lava pink arrive hawk twin settle surprise fly party vehicle tissue unable";

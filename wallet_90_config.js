@@ -1,1 +1,1 @@
-var mnemonic = "design enemy rotate cousin sad soon orchard pill side write dad hazard";
+var mnemonic = "middle silk oblige rich absurd amount trial grid snack ketchup paddle pill";

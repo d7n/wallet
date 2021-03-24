@@ -1,1 +1,1 @@
-var mnemonic = "yellow avoid monster squirrel then economy catalog gown hip tattoo cotton dinosaur";
+var mnemonic = "arrest ghost glide rhythm hole foot goat detect hurdle dish media number";

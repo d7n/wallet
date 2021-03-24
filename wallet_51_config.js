@@ -1,1 +1,1 @@
-var mnemonic = "sustain release wrestle image jazz usage slide limit abandon coil ghost attack";
+var mnemonic = "fuel dismiss then journey buffalo aspect purse humor mom train crunch hover";

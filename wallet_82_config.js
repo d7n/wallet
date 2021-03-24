@@ -1,1 +1,1 @@
-var mnemonic = "afford pole half put moral wrap gather record stuff ranch rigid law";
+var mnemonic = "hub clever track practice cloud drive clay clog uniform river talent also";

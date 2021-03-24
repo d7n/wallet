@@ -1,1 +1,1 @@
-var mnemonic = "brown head clever fall firm volcano round switch muffin donate nest various";
+var mnemonic = "category enjoy sheriff junk cover vintage retire behind message leisure total finger";

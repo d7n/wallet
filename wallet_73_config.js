@@ -1,1 +1,1 @@
-var mnemonic = "action raw tip spatial aerobic bounce profit puzzle master speak album stem";
+var mnemonic = "field exist kiwi current day issue vacant debate theme woman oppose arena";

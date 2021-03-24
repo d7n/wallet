@@ -1,1 +1,1 @@
-var mnemonic = "input yard float motion body tiger symptom smile garage drip write spoil";
+var mnemonic = "butter express setup mass million problem page evidence fever pen biology despair";

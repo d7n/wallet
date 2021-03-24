@@ -1,1 +1,1 @@
-var mnemonic = "nothing hint dance panda rival chapter dress pull crime collect bread tennis";
+var mnemonic = "alone reform movie side surface network hover wet farm planet kitchen license";

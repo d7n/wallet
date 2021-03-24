@@ -1,1 +1,1 @@
-var mnemonic = "hobby pair bleak wheel size south grant chimney hawk cereal cousin fiber";
+var mnemonic = "still recall rocket human vibrant crouch glide rhythm slush gesture forum salmon";

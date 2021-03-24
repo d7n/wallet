@@ -1,1 +1,1 @@
-var mnemonic = "squirrel peasant salmon minor illegal stick save cause trash capable grunt quit";
+var mnemonic = "mammal method essay when safe approve piano piano original forum bread syrup";

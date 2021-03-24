@@ -1,1 +1,1 @@
-var mnemonic = "hazard during stuff outer like there also shy erode alone together isolate";
+var mnemonic = "dial lunar mountain under earn flip december divorce frequent winter finger run";

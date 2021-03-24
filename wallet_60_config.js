@@ -1,1 +1,1 @@
-var mnemonic = "slab pilot net awful float fine crew fish dog silk lobster whale";
+var mnemonic = "crucial near near case poet wisdom already exhaust swap shaft void key";

@@ -1,1 +1,1 @@
-var mnemonic = "bring weapon weekend wall act fame bike salmon canal traffic beach humor";
+var mnemonic = "inflict prevent ripple pipe trash between horse breeze oblige ahead dignity alone";

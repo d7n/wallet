@@ -1,1 +1,1 @@
-var mnemonic = "sponsor taste body make under erase found home mule second dove muffin";
+var mnemonic = "then wish behave mix country off sphere face casino slam smart leader";

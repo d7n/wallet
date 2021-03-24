@@ -1,1 +1,1 @@
-var mnemonic = "special hybrid winner burst present opera naive color giant ship fork pony";
+var mnemonic = "sunset another duck moment resist close best segment waste year damp wolf";

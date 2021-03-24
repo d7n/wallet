@@ -1,1 +1,1 @@
-var mnemonic = "car pet depth ensure head case clean infant dignity demand plate harbor";
+var mnemonic = "hawk humble deposit decline punch bitter annual extra december gather hood excuse";

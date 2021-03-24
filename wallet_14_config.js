@@ -1,1 +1,1 @@
-var mnemonic = "census improve emerge industry appear regular verify crucial this rival submit various";
+var mnemonic = "green short off injury keep flame enemy view air mad nasty panther";

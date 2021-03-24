@@ -1,1 +1,1 @@
-var mnemonic = "hat morning awake finish cereal choice noise poverty stadium little cushion federal";
+var mnemonic = "meadow door pass woman core carpet actual rival repeat law act bench";

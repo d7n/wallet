@@ -1,1 +1,1 @@
-var mnemonic = "imitate remain snap erase unable dust basic word broom glance tube screen";
+var mnemonic = "miss charge note sport smooth culture crane vault journey stuff right federal";

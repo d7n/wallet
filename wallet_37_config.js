@@ -1,1 +1,1 @@
-var mnemonic = "code fire silent jealous stumble welcome brisk loan mimic forest blade color";
+var mnemonic = "rebel soap umbrella occur stock noise clay immune cruise neglect evolve table";

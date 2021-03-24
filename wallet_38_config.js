@@ -1,1 +1,1 @@
-var mnemonic = "quiz donate mail salute employ lawn enter story tide noise garage will";
+var mnemonic = "observe dwarf local long craft frog rescue security faculty winner few tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "grief tip dress damp tattoo burst garbage wait pioneer solution whip inmate";
+var mnemonic = "where student vehicle finger juice own vessel isolate naive limb random lake";

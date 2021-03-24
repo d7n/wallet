@@ -1,1 +1,1 @@
-var mnemonic = "confirm wait pave airport depart tell level label supreme join upper mountain";
+var mnemonic = "pride sunny angle bench empty cover essay carbon bar material fat invite";

@@ -1,1 +1,1 @@
-var mnemonic = "stay style talk orphan glory tourist robust hotel ski rice all trial";
+var mnemonic = "stamp alley music umbrella later employ upset virus pilot drive slam element";

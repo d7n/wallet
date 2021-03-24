@@ -1,1 +1,1 @@
-var mnemonic = "impose vanish fame service alcohol menu escape hire spin roof can garden";
+var mnemonic = "roof frozen prosper fossil action page wild rather quote blush general snow";

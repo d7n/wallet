@@ -1,1 +1,1 @@
-var mnemonic = "mule case antique have silver game wink observe heart ignore burden labor";
+var mnemonic = "around guard ship logic robot immune february upset shuffle head gesture salt";

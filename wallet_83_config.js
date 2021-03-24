@@ -1,1 +1,1 @@
-var mnemonic = "sock small depend enemy slush cute sphere price ancient predict cost burger";
+var mnemonic = "tube victory water laundry analyst need exit cube loyal bone negative cattle";

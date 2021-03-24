@@ -1,1 +1,1 @@
-var mnemonic = "small lion borrow antenna awful stable normal maximum remind remind trick hotel";
+var mnemonic = "toy crop misery social fly will rival video often session patch actor";

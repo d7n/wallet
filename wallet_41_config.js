@@ -1,1 +1,1 @@
-var mnemonic = "oak orphan ordinary solve language safe crush tattoo argue sing domain solar";
+var mnemonic = "invite vacant tortoise monkey never cross trend fresh vessel physical first clock";

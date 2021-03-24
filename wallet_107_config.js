@@ -1,1 +1,1 @@
-var mnemonic = "together kitchen brown cover child nice mosquito click hollow attack trim protect";
+var mnemonic = "unable title sure cover gather wreck erupt answer brush valid wrap pole";

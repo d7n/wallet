@@ -1,1 +1,1 @@
-var mnemonic = "horn country carbon inch check media dutch stem deer off quit olympic";
+var mnemonic = "actress soccer only final author inner river raccoon insane barely angry second";

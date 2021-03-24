@@ -1,1 +1,1 @@
-var mnemonic = "sort piece raw slender pig minimum accident short label early armor cabbage";
+var mnemonic = "auction moral search marriage solve rule vital narrow depth still fall half";

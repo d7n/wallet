@@ -1,1 +1,1 @@
-var mnemonic = "episode tape wet gate firm motor myth oven fatigue model hill banner";
+var mnemonic = "asset question story tree over below make twice fatal tree spare embody";

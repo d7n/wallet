@@ -1,1 +1,1 @@
-var mnemonic = "tired foam clarify wasp prepare layer predict abstract giraffe call wine skate";
+var mnemonic = "divorce shoulder become power chest basic canvas humble ready muscle bulb quarter";

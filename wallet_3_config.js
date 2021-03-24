@@ -1,1 +1,1 @@
-var mnemonic = "slow glue entire convince regret butter lion staff since sibling vivid release";
+var mnemonic = "shoulder cannon mask joke lyrics violin boat company gown pool keep occur";

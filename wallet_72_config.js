@@ -1,1 +1,1 @@
-var mnemonic = "puzzle series circle under sea volume legend art federal easy certain person";
+var mnemonic = "violin pioneer circle hunt teach fun unhappy lazy slight disease toe plate";

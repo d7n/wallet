@@ -1,1 +1,1 @@
-var mnemonic = "carry clap cricket method private depth giraffe stuff onion divert deny tonight";
+var mnemonic = "brand lift paper risk curtain roast lake robot window sight reduce quote";

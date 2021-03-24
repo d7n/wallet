@@ -1,1 +1,1 @@
-var mnemonic = "cry doll sheriff foam thing bus embark black narrow elephant habit snap";
+var mnemonic = "lion video small wool bomb toddler obey oyster glory race loan demand";

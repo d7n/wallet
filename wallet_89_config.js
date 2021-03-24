@@ -1,1 +1,1 @@
-var mnemonic = "oblige lady govern bone stem comfort witness duck dry bonus cattle soda";
+var mnemonic = "robust print unknown fog dismiss portion ancient crouch chef figure unit patrol";

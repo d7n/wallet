@@ -1,1 +1,1 @@
-var mnemonic = "husband sponsor doll digital iron inform average simple indicate upgrade sugar lyrics";
+var mnemonic = "couple cancel six balance shiver slot floor car slide oyster extend second";

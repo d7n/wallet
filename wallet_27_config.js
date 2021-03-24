@@ -1,1 +1,1 @@
-var mnemonic = "ecology betray annual battle either easily album acid grocery silent shrug board";
+var mnemonic = "vendor grow turkey believe this voyage crater border day seven ship muscle";

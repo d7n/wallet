@@ -1,1 +1,1 @@
-var mnemonic = "believe clutch spider giant medal task shoot attend banana remember valve response";
+var mnemonic = "coin used hybrid mistake laptop sad loan gossip torch method adapt border";

@@ -1,1 +1,1 @@
-var mnemonic = "practice jewel hill movie film weasel wink ensure across donor build thumb";
+var mnemonic = "reason rare foil neither bone fee ceiling razor aerobic kiss frog joke";

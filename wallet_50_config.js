@@ -1,1 +1,1 @@
-var mnemonic = "few among another record laundry attract grape priority voyage stem tape family";
+var mnemonic = "length journey master adapt caught matrix mean regret never outside cash panic";

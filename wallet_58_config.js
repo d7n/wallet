@@ -1,1 +1,1 @@
-var mnemonic = "obvious purity spoil erosion blouse child caught tissue angry flee vivid below";
+var mnemonic = "student young confirm since cluster gain sheriff way cactus situate success analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "salon empower inspire flash tip sugar worry purity secret color dice crash";
+var mnemonic = "foster tooth minimum uphold donkey candy electric explain april distance elegant zone";

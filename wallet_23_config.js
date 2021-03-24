@@ -1,1 +1,1 @@
-var mnemonic = "strong exact luxury satoshi exact payment mind snake glove unaware green load";
+var mnemonic = "famous depend what fine icon differ paper trick token come vivid verb";

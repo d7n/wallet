@@ -1,1 +1,1 @@
-var mnemonic = "young kitten milk example rich elite school winter design trust march step";
+var mnemonic = "track ketchup shadow fiscal north confirm voice punch finger clip bubble dose";

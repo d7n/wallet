@@ -1,1 +1,1 @@
-var mnemonic = "scorpion giggle crack kitchen gold marriage banana october bronze wealth crew brass";
+var mnemonic = "chunk apology blouse six season phrase flag cloud expect tip boss broom";

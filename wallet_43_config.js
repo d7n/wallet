@@ -1,1 +1,1 @@
-var mnemonic = "camp pave member render opera frown rubber tunnel dragon behind cereal stamp";
+var mnemonic = "obtain shaft oblige avocado welcome near long chronic clay powder monster tank";

@@ -1,1 +1,1 @@
-var mnemonic = "merit bullet embody monkey garbage day step govern portion pipe enemy segment";
+var mnemonic = "identify retreat man year fold cigar slow gaze develop now very inherit";

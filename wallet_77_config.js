@@ -1,1 +1,1 @@
-var mnemonic = "chronic trade jelly cabbage antique load label lobster critic silly bounce magic";
+var mnemonic = "vanish air cute gravity park delay ticket shaft obey advice kiwi victory";

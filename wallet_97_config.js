@@ -1,1 +1,1 @@
-var mnemonic = "essay renew short conduct creek easy you drink shock quit control alien";
+var mnemonic = "quantum border rain afford nose good off crush tomorrow raccoon desert flame";

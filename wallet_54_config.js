@@ -1,1 +1,1 @@
-var mnemonic = "indoor okay flavor thumb illness loud harvest shift endorse error curve reward";
+var mnemonic = "empower surface shoulder stand cage misery uncle electric outer version prosper olive";

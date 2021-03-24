@@ -1,1 +1,1 @@
-var mnemonic = "dumb fiber loan team level core shift school sad list wall alpha";
+var mnemonic = "shrimp skin easily wait grant ride puzzle surface gas color equip manage";

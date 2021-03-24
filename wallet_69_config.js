@@ -1,1 +1,1 @@
-var mnemonic = "endorse afraid certain two add kitten lunch title into giant vicious rain";
+var mnemonic = "layer brain swift shove crash sign slab move emerge nasty bounce barrel";

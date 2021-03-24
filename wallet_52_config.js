@@ -1,1 +1,1 @@
-var mnemonic = "hundred eye used help master attract include wash borrow resist casino destroy";
+var mnemonic = "merit mule ripple payment mammal autumn cycle follow emotion uniform awful clap";

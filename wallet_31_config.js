@@ -1,1 +1,1 @@
-var mnemonic = "bone photo patient snap connect repair mountain water prevent unknown adult width";
+var mnemonic = "marble word dress mirror sheriff fetch come universe medal trade cigar improve";

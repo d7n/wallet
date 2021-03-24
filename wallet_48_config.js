@@ -1,1 +1,1 @@
-var mnemonic = "junior evil gun memory jealous cram search casino accident twist soap piano";
+var mnemonic = "advice step toward release seat very rice salon mean public rib area";

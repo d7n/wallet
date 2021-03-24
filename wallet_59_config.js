@@ -1,1 +1,1 @@
-var mnemonic = "patient harsh zero worth dignity acoustic engage stamp split warfare acid term";
+var mnemonic = "broom disorder chapter priority rice shy various absurd bread snack morning high";

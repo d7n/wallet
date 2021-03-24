@@ -1,1 +1,1 @@
-var mnemonic = "item ivory celery account defense olive neither liberty dinner expire naive type";
+var mnemonic = "gun just clarify attitude film measure wool enable peanut faint sail anchor";

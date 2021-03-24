@@ -1,1 +1,1 @@
-var mnemonic = "knock yellow tongue old issue until social ordinary frozen dish bitter wisdom";
+var mnemonic = "limb inch obvious omit delay stone later escape raccoon predict stand feature";

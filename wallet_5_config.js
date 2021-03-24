@@ -1,1 +1,1 @@
-var mnemonic = "urge whisper admit chief tattoo gaze original system fatigue idle zebra stay";
+var mnemonic = "sudden maid dune awful add fabric bread spoil caught grace correct play";

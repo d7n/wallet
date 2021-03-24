@@ -1,1 +1,1 @@
-var mnemonic = "verb toward online oil fun alpha wear notice pen shiver leave gate";
+var mnemonic = "trumpet able sponsor stove gorilla mixed flower exhaust economy imitate abandon waste";
