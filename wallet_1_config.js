@@ -1,1 +1,1 @@
-var mnemonic = "initial knife mango address glove charge betray gospel project section dinner direct";
+var mnemonic = "trend twin crater will dune motion ostrich group gossip cloth ancient radio";

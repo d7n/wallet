@@ -1,1 +1,1 @@
-var mnemonic = "cereal tattoo together unlock owner cheese beach urge index stock inspire ridge";
+var mnemonic = "unhappy waste elephant tonight tornado ship double bring celery depth debris adjust";

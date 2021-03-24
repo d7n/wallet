@@ -1,1 +1,1 @@
-var mnemonic = "urge dress army patrol judge gate average social stomach demise second dwarf";
+var mnemonic = "table brave useless gate whale shop kiss civil field sustain suggest eager";

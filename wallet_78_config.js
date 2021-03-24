@@ -1,1 +1,1 @@
-var mnemonic = "neutral thunder kangaroo lab quantum alpha company fee ten creek oil essay";
+var mnemonic = "clap squirrel else above apart shrug ribbon engage solid much observe end";

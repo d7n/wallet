@@ -1,1 +1,1 @@
-var mnemonic = "neck used first gentle uniform blame cross alone dish start ride duty";
+var mnemonic = "grow remove height whale galaxy digital anger blush slender differ tiger rose";

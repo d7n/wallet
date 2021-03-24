@@ -1,1 +1,1 @@
-var mnemonic = "rule hello try crawl ladder repair pole cotton quit shed fatigue whip";
+var mnemonic = "couple bright impose else badge life gap leisure deputy away school word";

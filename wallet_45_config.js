@@ -1,1 +1,1 @@
-var mnemonic = "couple street humble fiction promote brush debate announce indoor bike message fly";
+var mnemonic = "abuse stove grass check switch fatigue control wheat once impose price lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "express until enlist improve unaware orphan license cement pyramid flash else diary";
+var mnemonic = "together step local ahead gold token explain mom craft ozone shiver attitude";

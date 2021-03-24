@@ -1,1 +1,1 @@
-var mnemonic = "balcony fat apology beyond mystery tornado column matter because cheap elegant notice";
+var mnemonic = "alcohol awesome cube return sunny bitter wash enlist cross valid miss stone";

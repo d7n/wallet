@@ -1,1 +1,1 @@
-var mnemonic = "utility belt end teach hire region engine jealous monitor soft leg excess";
+var mnemonic = "zero system dinosaur plunge urge twin liberty left fatal mail infant shock";

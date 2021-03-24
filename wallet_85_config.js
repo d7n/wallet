@@ -1,1 +1,1 @@
-var mnemonic = "make horn umbrella hero guitar range april book crater depend clerk sunny";
+var mnemonic = "bar toy relief media section position silent mimic oblige mind fence trend";

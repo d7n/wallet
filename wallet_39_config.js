@@ -1,1 +1,1 @@
-var mnemonic = "receive harbor shine head bean curtain split zero march combine rubber ranch";
+var mnemonic = "lion drum path lock project inherit improve gaze emotion prosper brush rival";

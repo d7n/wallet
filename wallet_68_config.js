@@ -1,1 +1,1 @@
-var mnemonic = "glow high client stick leave elbow popular total matter again safe fatal";
+var mnemonic = "flavor lonely galaxy pony below lawsuit annual october chuckle boy expand cart";

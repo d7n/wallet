@@ -1,1 +1,1 @@
-var mnemonic = "effort unhappy gravity damage theory hand grief manage crew bronze direct resist";
+var mnemonic = "scorpion tell sphere arrest oval frame couple risk steel mesh snap tone";

@@ -1,1 +1,1 @@
-var mnemonic = "bean romance bread panel turkey skill parent ability poverty funny impose trial";
+var mnemonic = "walnut story what battle advice curious valley split floor disease lesson canvas";

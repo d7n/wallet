@@ -1,1 +1,1 @@
-var mnemonic = "soul video van clay excite kiss gauge rug sight fall crack capital";
+var mnemonic = "goddess flame label pluck exist ginger plate churn noise write whale fiscal";

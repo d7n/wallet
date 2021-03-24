@@ -1,1 +1,1 @@
-var mnemonic = "reopen share surface tube crisp coach fresh hotel soccer myth wire around";
+var mnemonic = "they nuclear hidden dolphin syrup autumn kitten demand view pencil name lab";

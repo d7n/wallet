@@ -1,1 +1,1 @@
-var mnemonic = "brown demand swim earn symptom sort work witness gasp divide render federal";
+var mnemonic = "weird person marine entire burst nominee winner swing advance then become north";

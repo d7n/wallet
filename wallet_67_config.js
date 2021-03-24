@@ -1,1 +1,1 @@
-var mnemonic = "man run foil when waste alone guitar liberty viable ugly typical sing";
+var mnemonic = "zone achieve doctor budget chicken scorpion uncle north burden robot dilemma fetch";

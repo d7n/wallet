@@ -1,1 +1,1 @@
-var mnemonic = "tilt amateur prize chapter manage vibrant journey suggest type place much clean";
+var mnemonic = "buffalo galaxy reduce payment gadget first solution zebra road business cake upgrade";

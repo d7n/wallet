@@ -1,1 +1,1 @@
-var mnemonic = "word canyon object equal burden lion license toddler bracket retire cage stadium";
+var mnemonic = "load urban depth movie picnic over neglect moon upgrade menu eyebrow plastic";

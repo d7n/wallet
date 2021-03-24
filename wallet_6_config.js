@@ -1,1 +1,1 @@
-var mnemonic = "detail sauce antique hen way unknown aim crowd sing butter walnut orbit";
+var mnemonic = "moment border magnet pill define cage such sugar safe beef thought vintage";

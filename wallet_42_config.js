@@ -1,1 +1,1 @@
-var mnemonic = "actor vessel certain decline attend tube glance parade extend praise parade squirrel";
+var mnemonic = "endorse veteran three unveil such wolf govern obvious casual zero resemble bounce";

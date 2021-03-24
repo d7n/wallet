@@ -1,1 +1,1 @@
-var mnemonic = "system hammer convince work pear cradle waste claw inhale easy host latin";
+var mnemonic = "swing wrist noodle sausage pledge humble inflict cash elbow truck gain trim";

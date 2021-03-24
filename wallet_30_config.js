@@ -1,1 +1,1 @@
-var mnemonic = "turkey tenant color laptop disagree know memory sad wheat glide spray web";
+var mnemonic = "welcome october satoshi country energy turkey memory among guilt torch soldier dignity";

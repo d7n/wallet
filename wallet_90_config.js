@@ -1,1 +1,1 @@
-var mnemonic = "tree victory people left typical own rely march transfer artist spice egg";
+var mnemonic = "deny april emotion myth oppose lab square clarify million success describe jealous";

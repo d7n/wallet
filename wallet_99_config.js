@@ -1,1 +1,1 @@
-var mnemonic = "veteran spike under project space lock make laundry gold two tower bulb";
+var mnemonic = "trim dream piece fashion bean parrot inmate silver castle occur direct proud";

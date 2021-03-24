@@ -1,1 +1,1 @@
-var mnemonic = "melody kitchen future custom bounce update sunny cactus spy frequent indoor crane";
+var mnemonic = "swap switch kid circle unique glance list sausage disorder chunk yard famous";

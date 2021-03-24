@@ -1,1 +1,1 @@
-var mnemonic = "work misery awesome intact tell food river clean ladder similar sure capital";
+var mnemonic = "replace water pave culture run midnight twenty add meadow confirm hybrid voice";

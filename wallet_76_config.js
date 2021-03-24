@@ -1,1 +1,1 @@
-var mnemonic = "actress twice student wage critic wrestle fork quality true edit scene day";
+var mnemonic = "jaguar afraid indoor word useless broccoli canvas moral like trial tool spatial";

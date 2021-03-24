@@ -1,1 +1,1 @@
-var mnemonic = "journey loyal candy express page clown test fabric expose scrap ticket horror";
+var mnemonic = "reason engage name length still vessel crouch moment assist prepare fiction foot";

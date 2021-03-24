@@ -1,1 +1,1 @@
-var mnemonic = "soccer review talk silent water vessel monitor alarm velvet object enrich chunk";
+var mnemonic = "camp move will vicious mind ivory blade pulse twelve spice flush lake";

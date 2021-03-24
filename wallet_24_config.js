@@ -1,1 +1,1 @@
-var mnemonic = "undo position position month among addict hospital frost cake iron rich field";
+var mnemonic = "fun eight absurd muscle public wise chest flavor try album clerk trip";

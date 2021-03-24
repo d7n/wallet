@@ -1,1 +1,1 @@
-var mnemonic = "suit lonely reform basket curious multiply seek extra window grief scene drink";
+var mnemonic = "armed shrug autumn town blue lift canyon joy scout mask govern banner";

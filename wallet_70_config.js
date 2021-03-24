@@ -1,1 +1,1 @@
-var mnemonic = "hover property ice moment write great breeze kit boat amount ivory oak";
+var mnemonic = "brief border enlist orbit elder ability plug elevator reunion runway jelly pitch";

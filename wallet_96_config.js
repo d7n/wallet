@@ -1,1 +1,1 @@
-var mnemonic = "draw allow usual knee correct execute ancient program grit film mass chapter";
+var mnemonic = "shoe boil eight outer seek rug wife pact pretty offer coyote vital";

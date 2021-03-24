@@ -1,1 +1,1 @@
-var mnemonic = "torch three ranch require maximum truth settle donate furnace public equal capital";
+var mnemonic = "master jeans unknown fortune biology twice renew act audit sample link nominee";

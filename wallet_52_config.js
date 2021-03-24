@@ -1,1 +1,1 @@
-var mnemonic = "dash extra swim soldier satisfy swap document dice immense orient double drive";
+var mnemonic = "rival horror rate attract maximum civil cheese chicken lazy rescue once siren";

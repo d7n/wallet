@@ -1,1 +1,1 @@
-var mnemonic = "session design access assist replace display wire bargain repair arrow one deal";
+var mnemonic = "baby carpet sleep burst custom gasp reunion legal verb vanish excess fiscal";

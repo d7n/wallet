@@ -1,1 +1,1 @@
-var mnemonic = "fly assault robust payment cement frequent abstract wood regular armor impose umbrella";
+var mnemonic = "axis spell domain ten amateur again fossil lamp actress prepare chief poet";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito blue sustain popular pumpkin camera fiber news amount drift cabbage door";
+var mnemonic = "net radio auto fun wood yard blast antenna suffer ready valid claim";

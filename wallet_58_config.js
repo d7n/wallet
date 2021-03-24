@@ -1,1 +1,1 @@
-var mnemonic = "embark tower canoe road noise rail twice peanut buyer enlist bird useless";
+var mnemonic = "pull antenna brass later struggle govern width wish fee produce legal bracket";

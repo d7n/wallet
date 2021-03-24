@@ -1,1 +1,1 @@
-var mnemonic = "canoe iron possible write put rent dial reason space harsh smoke palm";
+var mnemonic = "merry heart process feed trophy over fog coach will apology runway desert";

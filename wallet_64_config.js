@@ -1,1 +1,1 @@
-var mnemonic = "subject animal people peace success match advice mobile kingdom taxi carbon tiger";
+var mnemonic = "fade polar join script arctic wave prevent canoe isolate strike couch average";

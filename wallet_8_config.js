@@ -1,1 +1,1 @@
-var mnemonic = "anchor dial expose prevent edge already praise circle rocket crisp example acquire";
+var mnemonic = "asset syrup inmate cabin bubble join tray put develop either knee pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "devote absurd panda hybrid fish buyer topic meat fortune list green guilt";
+var mnemonic = "rude elevator online goose tree knock hundred actor honey food mercy nuclear";

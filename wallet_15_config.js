@@ -1,1 +1,1 @@
-var mnemonic = "van bundle fragile oppose creek device paddle glance blouse garden bless edit";
+var mnemonic = "purchase spring romance sketch tag consider blade remind family garbage earn refuse";

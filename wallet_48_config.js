@@ -1,1 +1,1 @@
-var mnemonic = "wink talent planet cycle approve hollow tower camp caught situate end notice";
+var mnemonic = "shop series credit judge gauge fun runway sail thrive cloud warfare army";

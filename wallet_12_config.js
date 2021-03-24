@@ -1,1 +1,1 @@
-var mnemonic = "warm glass cliff bronze timber brick local two paper desk float stuff";
+var mnemonic = "scare asthma vocal bar donate surge broken camera portion fox thing broken";

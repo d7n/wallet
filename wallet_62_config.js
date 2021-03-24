@@ -1,1 +1,1 @@
-var mnemonic = "network earth link quote seek soccer alley state rule nephew term lazy";
+var mnemonic = "point injury magic quote affair renew toilet tunnel comic express foil shallow";

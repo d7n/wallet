@@ -1,1 +1,1 @@
-var mnemonic = "spray youth flip increase shoe half today able neglect pledge neck until";
+var mnemonic = "upset typical dignity grit tongue begin tuition galaxy install lonely shuffle start";

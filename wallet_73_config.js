@@ -1,1 +1,1 @@
-var mnemonic = "achieve dwarf stadium document sand exist taxi network champion great lonely crush";
+var mnemonic = "swear expose slot valve distance north defense fold bulb link end select";

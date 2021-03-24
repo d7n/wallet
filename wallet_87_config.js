@@ -1,1 +1,1 @@
-var mnemonic = "truly net amateur lava vital impose tent song hard derive garment chef";
+var mnemonic = "chronic rally uncle summer require hero urban rough affair double narrow receive";

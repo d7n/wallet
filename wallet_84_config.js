@@ -1,1 +1,1 @@
-var mnemonic = "cool thing taxi bracket cattle banner frown arrest road employ elite loop";
+var mnemonic = "furnace any voyage document human end spell loop clever reunion armor defy";

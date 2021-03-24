@@ -1,1 +1,1 @@
-var mnemonic = "estate this seminar awkward glare almost merry grit south fall grass order";
+var mnemonic = "polar fury space walk velvet police health height orphan deny stool cover";

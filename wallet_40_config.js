@@ -1,1 +1,1 @@
-var mnemonic = "inquiry this receive able mix purse stem true peanut tornado mean owner";
+var mnemonic = "monster oak spray situate number unusual merge boring taxi service fun same";

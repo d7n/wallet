@@ -1,1 +1,1 @@
-var mnemonic = "orbit cliff fine ability grain breeze beef want arrow spatial enough six";
+var mnemonic = "ignore science infant noble amused total injury pass help cart flight polar";

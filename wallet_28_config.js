@@ -1,1 +1,1 @@
-var mnemonic = "child smile twenty trumpet awful doctor kit elite powder wash raise gap";
+var mnemonic = "figure glide planet empty brick account tobacco wide genuine crawl gadget category";

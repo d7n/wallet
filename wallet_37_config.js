@@ -1,1 +1,1 @@
-var mnemonic = "oak crowd sing coyote nest room twist chest hammer shoot trap sample";
+var mnemonic = "law kind change common rubber stay analyst monkey receive arch party income";

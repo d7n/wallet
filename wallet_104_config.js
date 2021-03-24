@@ -1,1 +1,1 @@
-var mnemonic = "music fossil ozone abstract century insect speed oxygen tree cause forget burden";
+var mnemonic = "theory trap hour drip liberty damage stage curtain arrange private slow fire";

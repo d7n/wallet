@@ -1,1 +1,1 @@
-var mnemonic = "wreck plunge combine jelly garbage april prepare become labor dwarf help grace";
+var mnemonic = "initial text charge track drift timber narrow milk mobile sort this omit";

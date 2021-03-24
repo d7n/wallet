@@ -1,1 +1,1 @@
-var mnemonic = "dream you autumn away pear cabbage hire walnut shadow select item miracle";
+var mnemonic = "loyal foster wrist real guide diagram race fever topic antenna fatigue orient";

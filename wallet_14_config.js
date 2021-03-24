@@ -1,1 +1,1 @@
-var mnemonic = "north aerobic always summer muffin trouble thought lava soda grain morning solve";
+var mnemonic = "claw differ life grass mass glove foster neglect spider width property slush";

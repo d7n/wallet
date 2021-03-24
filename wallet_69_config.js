@@ -1,1 +1,1 @@
-var mnemonic = "into buyer sail discover hollow area raise produce close hurdle idle eager";
+var mnemonic = "flavor chat donkey culture inside whip nasty surprise jump more device furnace";

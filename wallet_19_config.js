@@ -1,1 +1,1 @@
-var mnemonic = "portion select order bless echo chunk jelly anger route key piece doll";
+var mnemonic = "office strong act inject autumn elephant resist air tourist put hurt wrong";

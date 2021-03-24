@@ -1,1 +1,1 @@
-var mnemonic = "swim hurdle invest quote style pave wide skirt oak profit three index";
+var mnemonic = "bundle this danger enter leave kid once grit goat spend athlete opinion";

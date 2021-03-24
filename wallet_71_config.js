@@ -1,1 +1,1 @@
-var mnemonic = "wine river usual fancy asset opinion prosper mystery concert easily fantasy wet";
+var mnemonic = "aisle afford zoo area glass sustain palace plate sun water surge rough";

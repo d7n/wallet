@@ -1,1 +1,1 @@
-var mnemonic = "blush tackle moon wrist bamboo ring library math chest useless whip answer";
+var mnemonic = "tooth town rack silver lens size secret pipe now vocal tree shed";

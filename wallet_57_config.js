@@ -1,1 +1,1 @@
-var mnemonic = "robot honey cross visual venue abstract weird report author foster click false";
+var mnemonic = "bargain panther garlic soul human mix base intact brother glass lesson physical";

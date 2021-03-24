@@ -1,1 +1,1 @@
-var mnemonic = "divide snow loud idle vast slice sort exchange artefact diary famous maximum";
+var mnemonic = "news still peasant over photo thrive manage boy tongue broccoli build athlete";

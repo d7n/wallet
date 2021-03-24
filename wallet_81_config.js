@@ -1,1 +1,1 @@
-var mnemonic = "only sister decade guitar elephant access velvet clever artefact sleep zoo raccoon";
+var mnemonic = "speed canal erosion daughter romance soldier sand find crack put weekend then";

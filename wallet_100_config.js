@@ -1,1 +1,1 @@
-var mnemonic = "bronze immense early sorry lottery inmate dentist manage social thumb betray motor";
+var mnemonic = "thank abstract ancient affair embody pulp early mention space excite oval setup";

@@ -1,1 +1,1 @@
-var mnemonic = "frost siren hurdle brass desert debris crater increase joke cart body antenna";
+var mnemonic = "frozen sugar dentist prefer marriage mirror anger vault flight various erase drift";

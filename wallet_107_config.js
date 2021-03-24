@@ -1,1 +1,1 @@
-var mnemonic = "razor voyage title skirt bomb impose laptop canoe olympic zone more churn";
+var mnemonic = "plug abstract unveil remain drop embrace cube veteran basket lecture foil old";

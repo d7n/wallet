@@ -1,1 +1,1 @@
-var mnemonic = "focus two wise laugh blame square balance virtual mammal join deny pause";
+var mnemonic = "kingdom wasp bachelor lazy couple notable original venue settle october transfer edit";

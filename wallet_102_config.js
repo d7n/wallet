@@ -1,1 +1,1 @@
-var mnemonic = "swear patrol toilet kick nuclear fly fragile denial limit crunch planet festival";
+var mnemonic = "lawn invest apart tennis entry praise embrace beef wood tape bone over";

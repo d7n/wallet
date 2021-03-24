@@ -1,1 +1,1 @@
-var mnemonic = "peasant sausage risk alone plastic stereo hard during judge fall pizza vital";
+var mnemonic = "december industry ticket okay develop hire found favorite boost broccoli they crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "chef viable federal cluster spring client pass smooth fish cereal eyebrow inner";
+var mnemonic = "six wing addict virus staff play bleak bike brown ordinary business number";

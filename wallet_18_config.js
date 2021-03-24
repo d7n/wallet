@@ -1,1 +1,1 @@
-var mnemonic = "lyrics other evidence kiwi source limb undo caught craft fog seat weasel";
+var mnemonic = "mouse violin brain defy swap hard correct toast library critic envelope tool";

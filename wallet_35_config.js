@@ -1,1 +1,1 @@
-var mnemonic = "orchard ball emerge affair grunt kiss tomato betray decorate imitate diagram build";
+var mnemonic = "solid say artefact sport horse basic inch pitch desk permit gate battle";

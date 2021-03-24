@@ -1,1 +1,1 @@
-var mnemonic = "secret unable leave dad brass again junk ignore panda number true must";
+var mnemonic = "stool emotion kit all fantasy suspect leave repair brain crumble dose aspect";

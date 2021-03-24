@@ -1,1 +1,1 @@
-var mnemonic = "mystery view cute pioneer sell picnic actress tragic display joke entire keen";
+var mnemonic = "palm night tent december alert proof catalog post soft barely volume narrow";

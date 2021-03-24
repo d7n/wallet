@@ -1,1 +1,1 @@
-var mnemonic = "echo follow save waste achieve staff volume please reopen half photo diamond";
+var mnemonic = "like ceiling lunar merge oyster sight spy symbol turn beef leader host";

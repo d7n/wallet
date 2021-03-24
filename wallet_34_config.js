@@ -1,1 +1,1 @@
-var mnemonic = "beef behind recipe ladder alert leopard strategy violin chair cherry hat box";
+var mnemonic = "will chuckle moment tomato since tooth result whisper foster unit desert crime";

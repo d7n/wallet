@@ -1,1 +1,1 @@
-var mnemonic = "left practice under planet drum plate retire multiply accuse merge loan skin";
+var mnemonic = "wage kite arrest pistol liberty tell orient inject feature mandate virtual forget";

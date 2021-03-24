@@ -1,1 +1,1 @@
-var mnemonic = "rhythm upset wolf treat chapter proof tennis spare prosper bicycle memory duck";
+var mnemonic = "air airport gain office embark hundred monkey describe morning embark robust rail";

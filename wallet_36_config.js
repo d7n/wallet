@@ -1,1 +1,1 @@
-var mnemonic = "vast shrimp guitar layer hero work siege educate feel news gorilla pupil";
+var mnemonic = "horn hollow test transfer base avocado lemon worth dwarf beach protect alert";

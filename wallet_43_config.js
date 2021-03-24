@@ -1,1 +1,1 @@
-var mnemonic = "question possible fox hour verify brown canoe diesel can cable rubber eager";
+var mnemonic = "catalog live once kiwi kite catalog outdoor screen start hamster apology shift";

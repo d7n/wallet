@@ -1,1 +1,1 @@
-var mnemonic = "normal sad prison simple common exercise wisdom bless coast unlock real situate";
+var mnemonic = "brief wonder climb identify magic penalty accident lesson wasp squirrel crater thunder";

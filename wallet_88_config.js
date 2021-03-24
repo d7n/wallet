@@ -1,1 +1,1 @@
-var mnemonic = "record gym code injury arrest voyage between betray relief hurry lava curve";
+var mnemonic = "midnight jacket bracket length say paper they subway cloth sight hawk exchange";

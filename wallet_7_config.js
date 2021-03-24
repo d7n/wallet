@@ -1,1 +1,1 @@
-var mnemonic = "thrive humor trim trouble lunch action magnet crush gallery romance tennis crop";
+var mnemonic = "asthma crew shadow furnace naive hello primary response emerge weather change attack";

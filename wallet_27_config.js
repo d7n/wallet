@@ -1,1 +1,1 @@
-var mnemonic = "exhibit loud absurd donkey small before firm theory route crush jewel illness";
+var mnemonic = "squirrel caught shaft excite shell emotion deposit journey guide shaft alien dilemma";

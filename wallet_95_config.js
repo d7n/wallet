@@ -1,1 +1,1 @@
-var mnemonic = "cradle fossil autumn nasty coast patch twenty tattoo call race farm fan";
+var mnemonic = "siren wasp say enact airport trip inherit identify inherit thumb priority spin";
