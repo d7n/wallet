@@ -1,1 +1,1 @@
-var mnemonic = "resource impact apart rookie isolate weekend armed immense rhythm immune version giggle";
+var mnemonic = "top fiber donate puppy stock estate weekend mixture cupboard solution panda flock";

@@ -1,1 +1,1 @@
-var mnemonic = "snack grid congress clap stuff grab pigeon moon blue private catalog multiply";
+var mnemonic = "betray usage announce mouse weird apple lunar ripple illness brief news section";

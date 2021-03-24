@@ -1,1 +1,1 @@
-var mnemonic = "fee now maid voice swear flash good rifle net vacant jump shoe";
+var mnemonic = "prepare monitor twin rely lion fiscal only wine mean solve impulse rapid";

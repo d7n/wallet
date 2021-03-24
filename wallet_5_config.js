@@ -1,1 +1,1 @@
-var mnemonic = "describe shrimp sample fiction lounge into area license organ rail girl rack";
+var mnemonic = "donkey cash rose almost enact melt hamster awake maximum crack bleak layer";

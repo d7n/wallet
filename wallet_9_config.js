@@ -1,1 +1,1 @@
-var mnemonic = "cradle sell grain curious staff cheap jacket hover country velvet coast demise";
+var mnemonic = "merge cluster noodle soccer horn carbon husband ankle honey lecture issue under";

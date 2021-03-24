@@ -1,1 +1,1 @@
-var mnemonic = "napkin stock nuclear opera dolphin easily trouble oppose curve turkey wreck good";
+var mnemonic = "curtain collect reason valid sustain lamp permit pulse around milk cigar foam";

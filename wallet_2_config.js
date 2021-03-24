@@ -1,1 +1,1 @@
-var mnemonic = "artefact carbon fatal pigeon rare icon afraid elephant rule attitude name become";
+var mnemonic = "control burden soup pair kit lobster place file acoustic foam sweet derive";

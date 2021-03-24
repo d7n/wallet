@@ -1,1 +1,1 @@
-var mnemonic = "below merit bacon aunt one thrive torch choice rice flush purchase absent";
+var mnemonic = "future cash before pink finger pool era toast swift topple industry brain";

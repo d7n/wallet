@@ -1,1 +1,1 @@
-var mnemonic = "sock disagree portion attract wild either pen tide nothing talent illegal potato";
+var mnemonic = "remain extend comic sign empty turkey feed scrap volcano excuse panel common";

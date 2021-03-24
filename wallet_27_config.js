@@ -1,1 +1,1 @@
-var mnemonic = "cloud enhance laundry want spin velvet author color salad warrior where alcohol";
+var mnemonic = "any what devote ticket system source possible hollow state armed august stomach";

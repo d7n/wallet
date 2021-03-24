@@ -1,1 +1,1 @@
-var mnemonic = "retire radar moral dragon mind harvest army wisdom fiber crumble decrease glimpse";
+var mnemonic = "music duck poem february vacuum tenant waste law snake scheme spatial rookie";

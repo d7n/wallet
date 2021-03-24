@@ -1,1 +1,1 @@
-var mnemonic = "shiver hammer letter orchard claw suggest action royal fit kitten october source";
+var mnemonic = "wise calm hazard want popular embrace jacket harvest burger sample exclude rather";

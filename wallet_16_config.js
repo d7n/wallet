@@ -1,1 +1,1 @@
-var mnemonic = "senior robust rigid antique property security voyage view syrup dial grass provide";
+var mnemonic = "hover sentence network enough cash trash obey clarify impulse salad history major";

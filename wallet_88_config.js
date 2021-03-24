@@ -1,1 +1,1 @@
-var mnemonic = "penalty model session coast flame uncover reopen deputy toward fee early receive";
+var mnemonic = "area walk lab pool brand critic green dish rival start inside abstract";

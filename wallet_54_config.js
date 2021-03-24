@@ -1,1 +1,1 @@
-var mnemonic = "buffalo team pudding vast phrase nice lazy sound junior reject main artefact";
+var mnemonic = "trouble receive foot reflect obey adjust repair clean aim fantasy nation across";

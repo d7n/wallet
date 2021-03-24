@@ -1,1 +1,1 @@
-var mnemonic = "dry expand swear ice false renew cheese answer live rib have upper";
+var mnemonic = "animal include whip tiger find coin actress sniff yellow voyage amount crater";

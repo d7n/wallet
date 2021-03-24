@@ -1,1 +1,1 @@
-var mnemonic = "vast skate sight ahead narrow boss ankle tackle joke want kid alley";
+var mnemonic = "girl lend impulse wink movie deal polar flash strong shadow enemy media";

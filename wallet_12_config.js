@@ -1,1 +1,1 @@
-var mnemonic = "stomach song notable because surprise boost strategy define choose code miracle capable";
+var mnemonic = "present purchase hard voice author confirm army grit away prevent biology fine";

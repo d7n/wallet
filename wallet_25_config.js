@@ -1,1 +1,1 @@
-var mnemonic = "pizza furnace kind artist vessel usage chaos mass volcano attitude eternal quick";
+var mnemonic = "front ramp assault water there powder moment neck disease plate dance gauge";

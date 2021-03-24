@@ -1,1 +1,1 @@
-var mnemonic = "afford fish damp put venue train color laundry service tattoo matter gain";
+var mnemonic = "worth lake install museum ordinary ask turtle ring occur select fish shine";

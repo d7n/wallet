@@ -1,1 +1,1 @@
-var mnemonic = "forest beach hat neither shoulder burden frown food surround marble bamboo write";
+var mnemonic = "tag home dad split spoon right future eager mom cave evolve debris";

@@ -1,1 +1,1 @@
-var mnemonic = "cat omit wrestle grid salad repeat pull little risk athlete shock diet";
+var mnemonic = "view apology dumb angle actress room crack roast obey forum obscure foot";

@@ -1,1 +1,1 @@
-var mnemonic = "maze spawn satoshi tumble walnut pull orange raccoon few artwork decade search";
+var mnemonic = "victory nephew surprise forum fine stone force control wink fall fiscal ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "float quality silly symbol display drive cloud polar kitten apple face under";
+var mnemonic = "that that try dirt sad midnight extra pair twin inspire pupil heavy";

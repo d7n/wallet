@@ -1,1 +1,1 @@
-var mnemonic = "frog chaos reunion solution beach hawk indoor crater dismiss diamond rent grit";
+var mnemonic = "energy truly donkey submit choose rebel flush void knee depth shoe coach";

@@ -1,1 +1,1 @@
-var mnemonic = "basic tongue student fade category stone protect public radar loud december health";
+var mnemonic = "foil eager give erupt motor door plug acid polar hungry hollow enforce";

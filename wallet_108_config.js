@@ -1,1 +1,1 @@
-var mnemonic = "heart because claim fresh inside know ginger garment employ pave chimney airport";
+var mnemonic = "bar vapor awake frown lock dog panic produce skate jar find plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "wild neither enrich attitude check banner wrestle woman social impact bacon alter";
+var mnemonic = "recipe rude vessel laugh history goose monitor junior water quote much delay";

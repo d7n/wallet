@@ -1,1 +1,1 @@
-var mnemonic = "jacket wonder elevator flame join decide fatal tornado people decline wisdom theory";
+var mnemonic = "journey miss diet quiz beach report lunch shock hockey tape east magnet";

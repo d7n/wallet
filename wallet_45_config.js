@@ -1,1 +1,1 @@
-var mnemonic = "lecture hill length vacant town wine canyon salute local please repeat fiscal";
+var mnemonic = "net midnight rude pact estate era job cushion quick domain virus stock";

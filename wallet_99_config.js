@@ -1,1 +1,1 @@
-var mnemonic = "nothing video never spoil skill frame twin time science today veteran budget";
+var mnemonic = "milk smile cage pupil welcome beach orient unable describe slight traffic mammal";

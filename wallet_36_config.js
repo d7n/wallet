@@ -1,1 +1,1 @@
-var mnemonic = "negative crumble biology laundry embark short alert mule result rabbit letter width";
+var mnemonic = "exact relax ugly sister nothing lemon diagram large fork swift sick hill";

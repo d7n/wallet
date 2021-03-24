@@ -1,1 +1,1 @@
-var mnemonic = "focus sail vintage giant evoke satoshi current brief gaze obscure radar duty";
+var mnemonic = "have ill inhale pipe arrest globe spend animal egg toe stool mosquito";

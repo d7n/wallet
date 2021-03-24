@@ -1,1 +1,1 @@
-var mnemonic = "top trophy lunch trumpet endless talk grocery brother journey grass mass badge";
+var mnemonic = "million lottery tip derive possible shoulder embrace injury discover ugly panda close";

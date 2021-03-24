@@ -1,1 +1,1 @@
-var mnemonic = "wrap bus dose account kick increase bulb festival matrix proof bring alien";
+var mnemonic = "leaf oxygen child desk stand foster thunder practice basket boil item mansion";

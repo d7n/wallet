@@ -1,1 +1,1 @@
-var mnemonic = "song liar fatigue salad spare same object defy left hamster company icon";
+var mnemonic = "monitor midnight boy uncover feel fall reveal hour ritual panther ghost home";

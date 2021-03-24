@@ -1,1 +1,1 @@
-var mnemonic = "term enrich alter bulb wisdom border such measure pluck surround fence demand";
+var mnemonic = "boil exhibit mimic execute inherit bag cricket over reunion moment man leaf";

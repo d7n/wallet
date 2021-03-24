@@ -1,1 +1,1 @@
-var mnemonic = "gather wrong mansion chuckle ready aerobic adjust correct segment random broken taste";
+var mnemonic = "jaguar boss raven aspect identify consider ripple day crush retire divorce stool";

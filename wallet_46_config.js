@@ -1,1 +1,1 @@
-var mnemonic = "unveil orbit heavy forest attend wait approve victory spread maze drop duty";
+var mnemonic = "ready stuff only drastic shuffle fat dice mistake make august tennis dumb";

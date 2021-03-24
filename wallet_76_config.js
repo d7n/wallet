@@ -1,1 +1,1 @@
-var mnemonic = "bounce flash shuffle tornado champion tunnel crystal worth right swallow child list";
+var mnemonic = "vendor they clay juice wheat repair fiber chapter fabric style enforce arctic";

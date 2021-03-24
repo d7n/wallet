@@ -1,1 +1,1 @@
-var mnemonic = "census unusual circle surface balance process awkward bench month mimic little audit";
+var mnemonic = "list certain teach debate hobby exotic snack climb gasp document share glory";

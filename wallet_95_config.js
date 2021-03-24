@@ -1,1 +1,1 @@
-var mnemonic = "hurt night twelve live abstract narrow stove buyer domain bulb inside hard";
+var mnemonic = "orange oven trick chef scan erode ketchup become receive private glad dawn";

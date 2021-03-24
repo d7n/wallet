@@ -1,1 +1,1 @@
-var mnemonic = "feed slim history drink narrow lizard correct outer clarify accident history hole";
+var mnemonic = "absorb aim stomach wealth useless mind salute army despair sister lunar summer";

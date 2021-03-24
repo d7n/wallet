@@ -1,1 +1,1 @@
-var mnemonic = "hand board perfect gentle brass shaft pluck favorite aim sniff interest mercy";
+var mnemonic = "evoke guess gown oppose rather oven peace resist stand bounce harbor above";

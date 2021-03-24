@@ -1,1 +1,1 @@
-var mnemonic = "observe section pair match lumber emerge utility bulb cheese equip vacant weapon";
+var mnemonic = "surface arena clean tissue olive teach goat pluck profit clutch side ride";

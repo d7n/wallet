@@ -1,1 +1,1 @@
-var mnemonic = "fade guess elevator garment panel prepare inhale million cool paper grab route";
+var mnemonic = "switch ticket roof veteran animal occur seat kitchen vague emerge solar drift";

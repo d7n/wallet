@@ -1,1 +1,1 @@
-var mnemonic = "mammal crumble green wrestle brief cupboard figure social canal learn debate answer";
+var mnemonic = "two humble dust expand bone brush purity police limit vehicle ring update";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion sea zoo hand rose genuine secret egg pupil develop citizen absent";
+var mnemonic = "index sunny hurry guilt paddle moon device plate grunt avocado jungle decide";

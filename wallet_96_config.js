@@ -1,1 +1,1 @@
-var mnemonic = "helmet expire reform fire debris provide hold cattle stove metal vivid logic";
+var mnemonic = "input online drive erode wait minute duck bind relief bus roast pelican";

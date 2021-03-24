@@ -1,1 +1,1 @@
-var mnemonic = "wet security simple kingdom silver awake solution goddess luggage plastic limb swamp";
+var mnemonic = "observe often use heavy focus number object imitate mother pig surface elephant";

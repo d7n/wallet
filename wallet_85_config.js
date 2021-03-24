@@ -1,1 +1,1 @@
-var mnemonic = "express initial original turkey distance often seminar coach fancy recycle cat success";
+var mnemonic = "butter link chief merge much ostrich sunny vicious stand arctic alcohol nerve";

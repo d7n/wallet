@@ -1,1 +1,1 @@
-var mnemonic = "series alone pool kidney fancy sniff feel denial frost exact into cash";
+var mnemonic = "enable loop verb tumble connect dress oval mimic wisdom region faculty act";

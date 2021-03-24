@@ -1,1 +1,1 @@
-var mnemonic = "fork reward green erode protect defy patrol motor pause child vague nurse";
+var mnemonic = "arctic lion nominee start chuckle spoil name library ethics nasty detect agree";

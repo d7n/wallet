@@ -1,1 +1,1 @@
-var mnemonic = "embrace keep afford vote beach budget true patrol tray mechanic innocent wear";
+var mnemonic = "salmon pitch toddler keep youth local angle rally pizza safe aim soap";

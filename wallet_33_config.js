@@ -1,1 +1,1 @@
-var mnemonic = "glance permit middle eyebrow mask tattoo magic rib entry mean heart can";
+var mnemonic = "field anxiety fruit hurry slush loan cricket scorpion eternal glove right few";

@@ -1,1 +1,1 @@
-var mnemonic = "scan bean expect balcony floor logic arrange vacuum six ready virtual drill";
+var mnemonic = "resource sell citizen sense force cable glory couple divorce isolate icon glimpse";

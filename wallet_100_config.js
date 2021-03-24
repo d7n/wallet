@@ -1,1 +1,1 @@
-var mnemonic = "ritual bamboo shine book cake write sponsor supreme tonight crucial key year";
+var mnemonic = "glass wasp fatal rice arm flip ready fiscal false aim motor hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "novel gorilla cash midnight online inhale silk pig genius negative desert alarm";
+var mnemonic = "address wink trip funny cattle dutch between sudden law say quote winter";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion album crisp rare unaware hammer leader smooth artist source dignity faint";
+var mnemonic = "sunset physical bullet enable sponsor calm cactus museum south net garbage twenty";

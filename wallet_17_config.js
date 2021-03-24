@@ -1,1 +1,1 @@
-var mnemonic = "myth auto bounce legend lounge virtual position brain shed second exact file";
+var mnemonic = "average right cereal crime omit raven link robot mean benefit leg whip";

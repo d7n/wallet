@@ -1,1 +1,1 @@
-var mnemonic = "month awesome rapid marriage nuclear blade basket burden zoo share duty second";
+var mnemonic = "mass vague fossil plate speak beef eight uncover anxiety vast welcome engine";

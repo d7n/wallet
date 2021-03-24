@@ -1,1 +1,1 @@
-var mnemonic = "success fault favorite pioneer exhibit seminar mesh enrich fuel maple width skirt";
+var mnemonic = "slow shuffle universe pony staff athlete garlic topple beauty rival pave hope";

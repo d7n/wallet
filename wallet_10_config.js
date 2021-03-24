@@ -1,1 +1,1 @@
-var mnemonic = "offer output chicken member around ordinary easy observe pipe farm talent gun";
+var mnemonic = "snow wealth boring silent sunset orange mercy give alien walnut unfair enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "glow north uniform mad entry arrange crisp thumb gallery spot cheap blush";
+var mnemonic = "board rescue echo spoon dwarf local grid spy pipe alcohol idea stadium";

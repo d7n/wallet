@@ -1,1 +1,1 @@
-var mnemonic = "ball peace approve era cupboard destroy road property proud steak jeans degree";
+var mnemonic = "resource capital dance plastic voice tiger rent offer wrong scrap echo demise";

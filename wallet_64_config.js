@@ -1,1 +1,1 @@
-var mnemonic = "harsh win scheme patient salt modify bracket limb scout icon book digital";
+var mnemonic = "whisper ignore gown milk crater quantum robust sketch elder combine weapon wash";

@@ -1,1 +1,1 @@
-var mnemonic = "middle know daring session mom legend vote leave upgrade ritual twice neither";
+var mnemonic = "describe donor fork rather element silent problem volume volume empower catch toddler";

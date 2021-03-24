@@ -1,1 +1,1 @@
-var mnemonic = "purchase milk pig puzzle joy comic more fee able april picnic neither";
+var mnemonic = "warfare ugly possible old system cross over blossom acid token embark must";

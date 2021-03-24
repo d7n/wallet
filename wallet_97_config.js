@@ -1,1 +1,1 @@
-var mnemonic = "trade fork slush insect penalty spend double excite great phrase exit paddle";
+var mnemonic = "category barrel piece recall stairs surface agent opera ignore prefer liar under";

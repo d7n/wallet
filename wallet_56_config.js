@@ -1,1 +1,1 @@
-var mnemonic = "focus clever exhibit purpose miracle dismiss warrior mobile flip blood vacuum sugar";
+var mnemonic = "dove plastic drift stand road dash mountain patient pumpkin visual zero hole";

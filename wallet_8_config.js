@@ -1,1 +1,1 @@
-var mnemonic = "carbon save mimic grunt stove grief hedgehog vital mass enlist beyond mechanic";
+var mnemonic = "month glance lamp ramp crisp hand siren link boy about lunch decade";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel burden gather uniform mystery flight first trigger dance inch off impulse";
+var mnemonic = "pledge tobacco supreme nurse meat hawk all bacon budget fever apology fit";

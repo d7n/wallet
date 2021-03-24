@@ -1,1 +1,1 @@
-var mnemonic = "exchange suggest casual mirror forward sphere rural help lecture daring weasel suggest";
+var mnemonic = "script genre desert coconut toss wasp street neither wagon leopard nurse better";

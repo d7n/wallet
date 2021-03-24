@@ -1,1 +1,1 @@
-var mnemonic = "sail bridge put still artwork drink seminar glance exact cliff brain little";
+var mnemonic = "staff slow legal panic inside pull cover garage silent heavy library emerge";

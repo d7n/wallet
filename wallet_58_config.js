@@ -1,1 +1,1 @@
-var mnemonic = "hire pledge drink snap purity tortoise salute machine erode range drink medal";
+var mnemonic = "trophy bring share suggest spatial million invite ankle panic cupboard curtain ring";

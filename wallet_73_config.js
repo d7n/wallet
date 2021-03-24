@@ -1,1 +1,1 @@
-var mnemonic = "armed license light network corn endless gasp fade jump dance job liquid";
+var mnemonic = "unfold abstract reunion lunar patient tomorrow drop pyramid mass obtain critic balance";

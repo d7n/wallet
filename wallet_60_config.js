@@ -1,1 +1,1 @@
-var mnemonic = "attract turkey private camp shy copy repair amount quarter feel benefit devote";
+var mnemonic = "rural install faith heavy liberty danger edge decrease injury master onion shy";

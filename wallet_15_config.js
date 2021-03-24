@@ -1,1 +1,1 @@
-var mnemonic = "safe poet area message duck dolphin buyer room similar have mesh nice";
+var mnemonic = "reason clarify lawsuit glue marble crash nose village increase expose develop flock";

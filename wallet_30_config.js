@@ -1,1 +1,1 @@
-var mnemonic = "detail gather cactus sail clarify wild minute earn volume renew wrist coral";
+var mnemonic = "one satoshi knock stand elbow blade course fever hill spoon muscle must";

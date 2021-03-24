@@ -1,1 +1,1 @@
-var mnemonic = "person scout caution rapid dad trap snap dry shift oval excuse fantasy";
+var mnemonic = "gain stamp faith illness loyal point jeans polar sheriff creek inmate cousin";

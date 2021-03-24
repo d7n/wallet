@@ -1,1 +1,1 @@
-var mnemonic = "slab disagree digital kid corn play field elite awful diamond wine valley";
+var mnemonic = "fuel same priority crunch link noble matrix attitude mother typical demand bulb";

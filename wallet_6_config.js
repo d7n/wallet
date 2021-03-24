@@ -1,1 +1,1 @@
-var mnemonic = "unit venture cloud twice sample title equip polar muscle ride puzzle actor";
+var mnemonic = "rich salt junior rebel guilt judge novel denial wave broken grocery machine";

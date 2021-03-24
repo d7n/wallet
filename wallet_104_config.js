@@ -1,1 +1,1 @@
-var mnemonic = "auto frost sure motion idea chicken bus bicycle empty room angle limb";
+var mnemonic = "worry pole cloud chapter best pyramid motion table require gauge relief audit";

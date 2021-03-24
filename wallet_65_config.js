@@ -1,1 +1,1 @@
-var mnemonic = "airport ship child cricket truly blade right vibrant sweet opera apple rather";
+var mnemonic = "what damp away gate embrace bridge reason knife chunk country invite melody";

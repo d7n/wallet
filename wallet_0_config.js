@@ -1,1 +1,1 @@
-var mnemonic = "shed symbol frame hill code link tape cabin quiz build hover add";
+var mnemonic = "boost first jungle sample sudden blanket vibrant guess parent mask dentist fun";

@@ -1,1 +1,1 @@
-var mnemonic = "throw stuff tone either stone wide raw rebel bleak never code code";
+var mnemonic = "sting taste gown timber vessel inhale mean ahead car spray speak moon";
