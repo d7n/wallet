@@ -1,1 +1,1 @@
-var mnemonic = "silver design inherit stumble umbrella congress heart culture female suspect muffin cause";
+var mnemonic = "rotate distance loop similar twist gas click you orchard push marriage always";

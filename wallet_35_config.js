@@ -1,1 +1,1 @@
-var mnemonic = "grocery wall crunch blouse shoot nasty follow deal clock lift elegant toilet";
+var mnemonic = "lock cake spirit pizza hobby happy rival rotate ginger ball extra old";

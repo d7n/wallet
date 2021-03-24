@@ -1,1 +1,1 @@
-var mnemonic = "asset boil anxiety tooth spice trial fault mutual tunnel unable car control";
+var mnemonic = "ticket hammer until lesson capital plate monkey indicate exhaust soup hill stuff";

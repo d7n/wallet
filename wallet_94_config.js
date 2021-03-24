@@ -1,1 +1,1 @@
-var mnemonic = "goat tuna armor dolphin topple equal follow twist flight vote laundry impulse";
+var mnemonic = "shock defy dignity marriage advice bicycle success eight harsh scale large unfold";

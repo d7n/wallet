@@ -1,1 +1,1 @@
-var mnemonic = "limit tuna alone wonder cash tail pioneer thing pig butter mix mirror";
+var mnemonic = "visit sunset foster viable broken loyal outer label voice wonder pulse sponsor";

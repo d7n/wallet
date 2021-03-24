@@ -1,1 +1,1 @@
-var mnemonic = "almost foot miss inmate resemble onion wall siege step today gravity certain";
+var mnemonic = "check tag glide unique reunion chair comic belt idle talk target normal";

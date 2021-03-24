@@ -1,1 +1,1 @@
-var mnemonic = "deputy material awkward public donate grant awful thing kiwi opinion want cattle";
+var mnemonic = "quarter off spice exile frown tuition connect hire ozone august inherit vanish";

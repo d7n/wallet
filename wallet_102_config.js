@@ -1,1 +1,1 @@
-var mnemonic = "wall income warfare fade pitch mad original food swallow endless hurry alcohol";
+var mnemonic = "bottom north quantum hole artist found giant infant daughter regular carry athlete";

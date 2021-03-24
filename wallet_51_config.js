@@ -1,1 +1,1 @@
-var mnemonic = "example gossip hub digital giraffe circle phone win collect edge save marriage";
+var mnemonic = "lucky allow donkey oblige will elbow crazy chief slow gallery fantasy mixed";

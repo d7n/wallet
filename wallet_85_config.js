@@ -1,1 +1,1 @@
-var mnemonic = "float emotion shop gaze guilt chronic follow layer stay hover admit beach";
+var mnemonic = "split syrup such gravity rhythm resemble garlic turtle asthma never autumn magnet";

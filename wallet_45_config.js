@@ -1,1 +1,1 @@
-var mnemonic = "iron clay verb embrace faith laundry endorse raccoon term foil slush finish";
+var mnemonic = "found orient coil lemon scout relief wink earth prosper hair impulse brass";

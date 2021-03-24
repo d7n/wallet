@@ -1,1 +1,1 @@
-var mnemonic = "runway off sample clay season market bomb glass uniform immense rabbit zone";
+var mnemonic = "view slight antique bid outside bachelor sing media genius drum chicken net";

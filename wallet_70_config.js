@@ -1,1 +1,1 @@
-var mnemonic = "brick input leisure female visa tattoo music brick family erase tomorrow note";
+var mnemonic = "unique spread opera slush kiwi stamp tribe crush thought pulp loud common";

@@ -1,1 +1,1 @@
-var mnemonic = "grief reflect scale motor check void logic stick sudden program huge true";
+var mnemonic = "ghost trophy couch hair regular strong panic valid session void owner fall";

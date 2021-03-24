@@ -1,1 +1,1 @@
-var mnemonic = "token warm abuse swap lab plastic club vanish dirt creek know swamp";
+var mnemonic = "balance ancient outdoor boat range clip twice census pause near credit stick";

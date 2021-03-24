@@ -1,1 +1,1 @@
-var mnemonic = "polar panel dwarf silver announce zoo source enrich skate side vicious define";
+var mnemonic = "cushion buyer never hero story shoot knife file pepper nest rich peace";

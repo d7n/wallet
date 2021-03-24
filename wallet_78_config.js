@@ -1,1 +1,1 @@
-var mnemonic = "mirror mom mountain toss little tube assist worry offer buzz element toddler";
+var mnemonic = "parade circle hint valve green example ethics puppy mind shock island essence";

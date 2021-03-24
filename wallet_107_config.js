@@ -1,1 +1,1 @@
-var mnemonic = "box female glare able citizen item merit faculty hour cake all door";
+var mnemonic = "pole crop hospital essay metal buddy success eager benefit physical pulse safe";

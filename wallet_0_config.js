@@ -1,1 +1,1 @@
-var mnemonic = "great ball arrest seven rebuild cake lottery solution because moon trap also";
+var mnemonic = "spider measure detect labor exclude empty gorilla option knock net season expire";

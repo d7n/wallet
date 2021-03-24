@@ -1,1 +1,1 @@
-var mnemonic = "clean decade physical afford barrel fantasy bracket wedding ill dwarf way vague";
+var mnemonic = "wrong boil holiday coffee brand strike tackle define antenna deny high govern";

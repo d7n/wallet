@@ -1,1 +1,1 @@
-var mnemonic = "sick purse actress detect vital wheat sister suit pig tongue remember wool";
+var mnemonic = "attitude camera recipe license actress silent address gospel lady manual middle office";

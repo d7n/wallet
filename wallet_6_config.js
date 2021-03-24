@@ -1,1 +1,1 @@
-var mnemonic = "pear fall doll crash strategy foster until woman awkward anchor entry spawn";
+var mnemonic = "match where quality angry kick purpose slide decorate profit border sound birth";

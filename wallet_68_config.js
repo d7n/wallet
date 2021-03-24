@@ -1,1 +1,1 @@
-var mnemonic = "disease odor leopard profit one account car pioneer design maid mystery interest";
+var mnemonic = "front grass hub census usage local belt monster return science crystal develop";

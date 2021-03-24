@@ -1,1 +1,1 @@
-var mnemonic = "rate track liquid scene glad action kidney around boil swim orbit junior";
+var mnemonic = "swamp pause thing vault ankle biology raise pear sock woman digital gap";

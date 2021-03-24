@@ -1,1 +1,1 @@
-var mnemonic = "thunder era obscure stamp minute crush flip random lyrics cook put favorite";
+var mnemonic = "finger song palace ocean online lamp book flight produce escape exhaust stool";

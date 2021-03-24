@@ -1,1 +1,1 @@
-var mnemonic = "strategy dolphin slam glad trade video portion total enlist vote vicious vote";
+var mnemonic = "sock code prison unlock short topple inch crane hold soda mosquito earth";

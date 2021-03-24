@@ -1,1 +1,1 @@
-var mnemonic = "join tent sustain deposit situate buddy manual tomorrow truly winner deer hawk";
+var mnemonic = "frame joke stage desert usual mobile alarm this never ostrich pony cupboard";

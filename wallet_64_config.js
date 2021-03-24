@@ -1,1 +1,1 @@
-var mnemonic = "earth armed indicate theme disorder spirit void top disease quote wrist fuel";
+var mnemonic = "language region depth work matter fork session oak cruel journey unknown present";

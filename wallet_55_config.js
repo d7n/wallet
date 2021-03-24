@@ -1,1 +1,1 @@
-var mnemonic = "improve prepare invite during solution flower bonus ginger actual arrive catalog bitter";
+var mnemonic = "gate zone pretty obvious cinnamon pumpkin series obtain trash cage fault smile";

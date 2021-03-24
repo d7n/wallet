@@ -1,1 +1,1 @@
-var mnemonic = "story skull solid pelican despair army okay few code neck debris audit";
+var mnemonic = "civil inform milk angle found scan sample private author cotton egg endless";

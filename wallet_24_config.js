@@ -1,1 +1,1 @@
-var mnemonic = "cloth endorse plate steel knee world glad cluster soft jacket voyage output";
+var mnemonic = "word work minor scene ship bleak this fitness rally vocal slide bind";

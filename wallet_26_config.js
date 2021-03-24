@@ -1,1 +1,1 @@
-var mnemonic = "awkward jungle piano enforce chicken increase pulp awful shell laugh dice valid";
+var mnemonic = "holiday magnet present skin cargo goat around option garlic language three finger";

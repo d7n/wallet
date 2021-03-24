@@ -1,1 +1,1 @@
-var mnemonic = "journey employ regret secret foil ship link kiss one meat normal model";
+var mnemonic = "excuse vital detect shift blanket this pave cable disorder fog morning file";

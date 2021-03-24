@@ -1,1 +1,1 @@
-var mnemonic = "maple girl sweet setup donkey tape library actual claim panther candy inherit";
+var mnemonic = "earth interest parade exclude seek similar donor target toast march assume tonight";

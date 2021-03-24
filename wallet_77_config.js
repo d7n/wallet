@@ -1,1 +1,1 @@
-var mnemonic = "heavy quiz cave bid tourist submit book hammer faculty chase mouse clever";
+var mnemonic = "drum guide wrestle stand mango popular lottery museum zero evil agent sketch";

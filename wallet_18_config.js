@@ -1,1 +1,1 @@
-var mnemonic = "hire tobacco poet better throw interest round put congress hurt bachelor despair";
+var mnemonic = "exact maze wool glove thought reason outdoor hill umbrella where fetch edge";

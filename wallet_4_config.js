@@ -1,1 +1,1 @@
-var mnemonic = "about column purse climb quality diamond zebra move album loan season breeze";
+var mnemonic = "drip very junior peasant pilot receive farm crater same crowd rocket gesture";

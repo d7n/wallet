@@ -1,1 +1,1 @@
-var mnemonic = "struggle inhale gift artwork nose doll fever spike sunny excuse scatter wear";
+var mnemonic = "bracket mask dose daring zebra essay tenant hybrid sad crime spawn laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket escape produce apart pen boat jar trumpet airport solution radar song";
+var mnemonic = "demise twin slight when already choose tilt emotion undo auto mad romance";

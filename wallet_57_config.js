@@ -1,1 +1,1 @@
-var mnemonic = "amateur mirror member minute sheriff birth marriage fashion bike exclude supply egg";
+var mnemonic = "improve electric real person weather page sorry auction core balance toilet depth";

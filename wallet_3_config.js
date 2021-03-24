@@ -1,1 +1,1 @@
-var mnemonic = "crouch wheel kid divorce parrot brain enter fossil cargo gospel cage park";
+var mnemonic = "warrior wrap blossom click weird weird danger need stick mechanic hub festival";

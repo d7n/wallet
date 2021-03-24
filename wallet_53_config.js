@@ -1,1 +1,1 @@
-var mnemonic = "cake gospel jar foster page measure pill belt math bundle raise spawn";
+var mnemonic = "cotton apple fluid exercise result jelly shed brush unhappy scatter actual upgrade";

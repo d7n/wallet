@@ -1,1 +1,1 @@
-var mnemonic = "wedding suspect hollow rocket lens horror rose sausage lab cage leopard street";
+var mnemonic = "garbage half tell gain load path nation prepare kit clever face often";

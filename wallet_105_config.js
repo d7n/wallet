@@ -1,1 +1,1 @@
-var mnemonic = "ice chronic bullet foot mystery usage during castle paddle immense okay cliff";
+var mnemonic = "matter reopen symbol cram guide castle empty disorder nothing grief style company";

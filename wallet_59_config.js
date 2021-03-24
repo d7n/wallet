@@ -1,1 +1,1 @@
-var mnemonic = "chair elder swim ring fine hold brain devote toy infant until rain";
+var mnemonic = "arm hybrid ice celery thing raven draw picture duck connect tiger modify";

@@ -1,1 +1,1 @@
-var mnemonic = "love blade obvious normal insect rural lobster project round abandon senior raven";
+var mnemonic = "garden chat razor black brother unusual bar birth jacket ritual iron embark";

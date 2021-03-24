@@ -1,1 +1,1 @@
-var mnemonic = "idle bulk rhythm morning scene vibrant matrix curve claim vibrant purity erase";
+var mnemonic = "head chronic parade awful rice legal invest leg express loan party grace";

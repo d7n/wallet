@@ -1,1 +1,1 @@
-var mnemonic = "ignore room stairs sound slight brave tribe gown pulse grain hedgehog lake";
+var mnemonic = "choice unveil outdoor announce mean tail hungry rather explain civil chef fan";

@@ -1,1 +1,1 @@
-var mnemonic = "blood exile gesture dance proud enemy series pair layer patch reason pitch";
+var mnemonic = "equal reunion copy dove annual fame involve chest tuition tragic happy skate";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic lecture crater ostrich injury valid glory wrap breeze orbit raccoon talk";
+var mnemonic = "local ladder uncle parent outdoor design impact coin scan voice exile copy";

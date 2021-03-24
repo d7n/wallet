@@ -1,1 +1,1 @@
-var mnemonic = "loop poverty tennis advance drop polar bind cupboard elbow laugh sketch impose";
+var mnemonic = "soda mean plug coin main then similar electric loyal toy beach hair";

@@ -1,1 +1,1 @@
-var mnemonic = "fever eye piece tone deer ancient shrimp chapter broken annual scissors skirt";
+var mnemonic = "text raccoon entire curve need inside tomorrow burger limb suspect wrestle deal";

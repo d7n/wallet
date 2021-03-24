@@ -1,1 +1,1 @@
-var mnemonic = "female interest twelve valley quality weapon echo hello number conduct romance pistol";
+var mnemonic = "pause tide list solution light high together globe gain oxygen refuse eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "drive palace will orbit space inside supply list disease senior venue swear";
+var mnemonic = "unable response bless shop switch lecture peace before discover great purse because";

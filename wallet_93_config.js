@@ -1,1 +1,1 @@
-var mnemonic = "copy expand brass grass silk shoe tonight false can digital inner shrimp";
+var mnemonic = "journey spring stem find artefact answer noble defense dynamic twin abuse major";

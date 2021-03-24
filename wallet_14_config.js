@@ -1,1 +1,1 @@
-var mnemonic = "oblige trip casual grant nut purse price ugly outer habit grant another";
+var mnemonic = "rate matrix submit maximum miracle spike today orbit glare position dice clean";

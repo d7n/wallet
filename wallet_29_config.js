@@ -1,1 +1,1 @@
-var mnemonic = "skate chef this kick rice typical depth trophy visa extra tragic vocal";
+var mnemonic = "decline mirror kangaroo domain final thing crouch relief output street lava someone";

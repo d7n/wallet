@@ -1,1 +1,1 @@
-var mnemonic = "route until general defense bounce city setup brush tornado home faith crunch";
+var mnemonic = "rail across spare typical language easy club budget outdoor junior farm secret";

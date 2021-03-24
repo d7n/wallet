@@ -1,1 +1,1 @@
-var mnemonic = "flash visual earn catalog roof prefer luggage tiny identify ivory comfort sport";
+var mnemonic = "flash curve wish crash inmate gas insane slam hollow all funny income";

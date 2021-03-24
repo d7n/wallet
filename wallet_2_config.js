@@ -1,1 +1,1 @@
-var mnemonic = "child indoor turn copper feature swarm seminar dinosaur special loan velvet add";
+var mnemonic = "legal craft nest image pizza right exhaust amateur peanut curious wrist bean";

@@ -1,1 +1,1 @@
-var mnemonic = "million pig park hire illness seminar south lounge three object elephant session";
+var mnemonic = "recall all maze jump harsh puppy brave mind adjust palace shoot inner";

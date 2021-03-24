@@ -1,1 +1,1 @@
-var mnemonic = "capital fun grief stove inherit wheat silver lemon embrace rotate refuse legend";
+var mnemonic = "funny cement return sunset library divorce reason garage about grab wool way";

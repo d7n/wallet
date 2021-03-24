@@ -1,1 +1,1 @@
-var mnemonic = "jar choice century city celery stool wool paddle together rhythm orient island";
+var mnemonic = "page fire large foam toe panic trip paper spider fruit discover abuse";

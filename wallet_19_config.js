@@ -1,1 +1,1 @@
-var mnemonic = "employ kangaroo view portion spring trial rescue update spare chicken bachelor throw";
+var mnemonic = "fox milk farm air language document bulb pumpkin sorry wine place ring";

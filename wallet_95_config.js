@@ -1,1 +1,1 @@
-var mnemonic = "select lazy horn pilot awkward permit grief unknown use lemon federal door";
+var mnemonic = "dry engage please aisle zero critic skin alter welcome path spray oven";

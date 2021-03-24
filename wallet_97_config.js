@@ -1,1 +1,1 @@
-var mnemonic = "eight lift ranch eyebrow kiwi under ice quote cage ship velvet toss";
+var mnemonic = "mechanic pelican victory join struggle shaft object estate gift gather usage olympic";

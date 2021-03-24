@@ -1,1 +1,1 @@
-var mnemonic = "cloud obtain drive endless beyond pencil lemon leg heavy valley whale latin";
+var mnemonic = "thrive fault shed spin chaos breeze actress monitor present brown tongue festival";

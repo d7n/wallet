@@ -1,1 +1,1 @@
-var mnemonic = "enroll sister usage harbor also push load dust purpose gasp garbage fringe";
+var mnemonic = "host box mention subject involve churn zoo utility wing syrup code one";

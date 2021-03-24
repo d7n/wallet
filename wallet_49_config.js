@@ -1,1 +1,1 @@
-var mnemonic = "hazard good silk april tape clock jelly push soul buddy easily angle";
+var mnemonic = "school rain ecology hawk apple system shuffle beauty track glare polar crawl";

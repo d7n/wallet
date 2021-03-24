@@ -1,1 +1,1 @@
-var mnemonic = "steel squeeze crumble various element treat enrich pave utility fat battle question";
+var mnemonic = "tube milk bracket board mail axis during obvious grow creek garbage dose";

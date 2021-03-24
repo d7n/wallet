@@ -1,1 +1,1 @@
-var mnemonic = "rain link heart recipe control kidney sign chuckle holiday gym fiscal situate";
+var mnemonic = "soon rain error sphere tail add aspect used wait strike monster this";

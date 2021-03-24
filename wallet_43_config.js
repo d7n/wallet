@@ -1,1 +1,1 @@
-var mnemonic = "eager risk furnace unfold index possible loop silent oven proof aunt burger";
+var mnemonic = "spy whale army potato trip mansion fitness phrase item return decade hat";

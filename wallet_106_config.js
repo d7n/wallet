@@ -1,1 +1,1 @@
-var mnemonic = "skin tray middle legal cruise mistake pause churn kick loan oyster solid";
+var mnemonic = "winter safe life sadness measure shell frame pig witness ribbon veteran flight";

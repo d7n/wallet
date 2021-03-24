@@ -1,1 +1,1 @@
-var mnemonic = "upon october stairs team disorder live game stone custom spare polar vivid";
+var mnemonic = "promote february drink better unique despair jump below garment curtain neck original";

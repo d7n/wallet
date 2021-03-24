@@ -1,1 +1,1 @@
-var mnemonic = "scale claim boy jacket banner exist turkey stay circle knife tunnel sunny";
+var mnemonic = "face burst mass hunt marriage myself leader stand tumble lend kid cross";

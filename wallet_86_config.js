@@ -1,1 +1,1 @@
-var mnemonic = "govern journey inside smooth motor slab street sun diet team note raise";
+var mnemonic = "cotton version hybrid excuse fancy core smile update aware crisp among song";

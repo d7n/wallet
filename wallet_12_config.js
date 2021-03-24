@@ -1,1 +1,1 @@
-var mnemonic = "shop delay climb acquire put nasty style hobby luggage cannon margin alter";
+var mnemonic = "run author squirrel polar horn kidney kite talk upgrade churn valve tail";

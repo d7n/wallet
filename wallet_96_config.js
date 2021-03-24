@@ -1,1 +1,1 @@
-var mnemonic = "biology street spoil soon stand speed flag unknown prepare sister merge hen";
+var mnemonic = "siren acid donate impact immense inspire explain region gown diagram truly dentist";

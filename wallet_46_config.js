@@ -1,1 +1,1 @@
-var mnemonic = "motion quote caution share pupil program stock erosion okay napkin have fruit";
+var mnemonic = "taxi toy method major scheme myth steak always entry allow success scare";

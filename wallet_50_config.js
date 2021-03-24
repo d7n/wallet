@@ -1,1 +1,1 @@
-var mnemonic = "jungle tell hello ship student divorce end conduct observe beef choice welcome";
+var mnemonic = "scissors antenna ritual club hurt crane street dwarf agree proud name height";

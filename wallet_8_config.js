@@ -1,1 +1,1 @@
-var mnemonic = "inject manage frown fancy wish muffin blouse depth vessel forest embark thank";
+var mnemonic = "wrap long primary escape mystery smile history able mule fiscal chief soon";

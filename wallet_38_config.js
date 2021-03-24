@@ -1,1 +1,1 @@
-var mnemonic = "sun debate arctic smoke eternal good culture use maid dragon island mule";
+var mnemonic = "voice simple raccoon dentist vibrant clean slot mammal gasp thrive trouble shock";

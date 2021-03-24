@@ -1,1 +1,1 @@
-var mnemonic = "garbage cricket spoil human glare brass double enable loop artist disease copper";
+var mnemonic = "earth wall token praise length also glory scan leg taxi mansion void";

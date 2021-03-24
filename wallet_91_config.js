@@ -1,1 +1,1 @@
-var mnemonic = "lift foil clarify need scout planet recipe purity noble amused crawl jazz";
+var mnemonic = "drive key hundred unit need mutual sheriff crouch wise mother blush worth";

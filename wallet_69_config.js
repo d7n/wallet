@@ -1,1 +1,1 @@
-var mnemonic = "impact guard clip wing stairs balance owner nation shield first gloom light";
+var mnemonic = "false ticket reason ensure smart boy rookie weekend shiver plate hair tornado";

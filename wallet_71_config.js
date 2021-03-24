@@ -1,1 +1,1 @@
-var mnemonic = "borrow amount idea wrist eagle actress keen mixture youth grass order problem";
+var mnemonic = "expect skill lift gadget gap fever case power observe night churn race";

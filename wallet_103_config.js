@@ -1,1 +1,1 @@
-var mnemonic = "desk sentence face coast ostrich away pottery vocal calm cup foam bacon";
+var mnemonic = "suit give mother case become myth judge supreme accident swift deliver develop";

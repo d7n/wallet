@@ -1,1 +1,1 @@
-var mnemonic = "session dynamic april oxygen clean change eternal echo resist wisdom sad loud";
+var mnemonic = "page express vacuum never cart timber clerk hover wire address alarm silk";

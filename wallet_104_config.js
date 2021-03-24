@@ -1,1 +1,1 @@
-var mnemonic = "report fatal route head prize dice consider north guitar obscure volume hundred";
+var mnemonic = "crawl wheel month shift culture recycle lumber holiday strike survey top dinosaur";
