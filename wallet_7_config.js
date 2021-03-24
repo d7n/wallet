@@ -1,1 +1,1 @@
-var mnemonic = "thunder huge warrior menu cheap scan buzz achieve path lemon opinion any";
+var mnemonic = "panther goose elevator alert skate butter write rookie caution autumn circle glow";

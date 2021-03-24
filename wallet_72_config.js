@@ -1,1 +1,1 @@
-var mnemonic = "wool upset push drill lizard pencil scatter together mansion direct album canvas";
+var mnemonic = "border have blossom hobby cliff light neither giraffe sphere crime gold toward";

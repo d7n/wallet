@@ -1,1 +1,1 @@
-var mnemonic = "trick lens hour innocent member airport captain student vote scout execute outer";
+var mnemonic = "regret laundry coyote rent palace motion renew nice wave found story demise";

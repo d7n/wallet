@@ -1,1 +1,1 @@
-var mnemonic = "sugar enough mushroom floor sibling traffic quiz reunion give mansion sweet garage";
+var mnemonic = "vehicle play apology resemble gesture glue flower sleep frown cage bean shine";

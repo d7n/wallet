@@ -1,1 +1,1 @@
-var mnemonic = "suspect panic possible cook chat intact detail track giggle engage escape blade";
+var mnemonic = "inflict carry earn canvas palm also dice marriage split mixed sausage visit";

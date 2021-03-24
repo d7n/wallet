@@ -1,1 +1,1 @@
-var mnemonic = "romance ridge tuition merry obvious torch frame thrive front mask outdoor welcome";
+var mnemonic = "parrot smile universe mention require car meadow doctor mule glare depart angry";

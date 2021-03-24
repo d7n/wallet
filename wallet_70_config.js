@@ -1,1 +1,1 @@
-var mnemonic = "blouse ladder decline door reveal pulp win donate myself panel stay echo";
+var mnemonic = "damage cruel cluster oyster hill plastic aim orchard range prefer early wet";

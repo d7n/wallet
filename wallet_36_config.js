@@ -1,1 +1,1 @@
-var mnemonic = "flush hammer poverty achieve loud crazy bleak ahead price fame enlist turtle";
+var mnemonic = "loan coast obtain spice drill follow tenant high doll type garage viable";

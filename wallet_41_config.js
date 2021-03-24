@@ -1,1 +1,1 @@
-var mnemonic = "puzzle dog saddle choice change erode sausage rich night aim someone aware";
+var mnemonic = "script link enhance bright mountain miss tired divide wide bless blouse kiss";

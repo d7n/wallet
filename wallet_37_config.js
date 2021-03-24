@@ -1,1 +1,1 @@
-var mnemonic = "energy minimum boost alien silly morning decide agree work lottery federal era";
+var mnemonic = "boy shove abandon foil ivory fortune grocery student clock eager organ shield";

@@ -1,1 +1,1 @@
-var mnemonic = "parade boil program execute front ticket rely age fabric royal undo chief";
+var mnemonic = "bulk silver labor various aspect alpha forget poem auction drop baby flag";

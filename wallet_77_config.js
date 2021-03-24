@@ -1,1 +1,1 @@
-var mnemonic = "focus web duck choice local wisdom apart shadow shallow stadium uphold fancy";
+var mnemonic = "tomato relief agent swim faint rotate fix advance betray clay soup recycle";

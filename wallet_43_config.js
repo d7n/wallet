@@ -1,1 +1,1 @@
-var mnemonic = "pyramid eye warrior increase night solve dry fiber piece sample valley school";
+var mnemonic = "sponsor member assist decade sheriff response occur tribe beauty bonus arena giant";

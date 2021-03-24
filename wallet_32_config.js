@@ -1,1 +1,1 @@
-var mnemonic = "deliver loan unknown rough sustain naive dog relief gaze toy south idea";
+var mnemonic = "animal sure swarm trouble crawl elite fog witness mobile scare hazard force";

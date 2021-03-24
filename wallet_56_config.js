@@ -1,1 +1,1 @@
-var mnemonic = "ginger rough tomato level vivid top cable earn skate inner game purse";
+var mnemonic = "staff valve unlock october student tape film style grit extra exclude wrist";

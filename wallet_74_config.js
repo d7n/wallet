@@ -1,1 +1,1 @@
-var mnemonic = "patient visit song panic diet mirror festival denial easily promote before warfare";
+var mnemonic = "pig steak village sea giant enable sniff dolphin canvas thought puzzle sand";

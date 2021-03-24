@@ -1,1 +1,1 @@
-var mnemonic = "card attend drum message bar upon fiscal include pupil ceiling kitchen strong";
+var mnemonic = "thunder ill tone vacant blame silly lounge moral screen emerge will million";

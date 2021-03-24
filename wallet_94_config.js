@@ -1,1 +1,1 @@
-var mnemonic = "disorder occur shed never estate latin route topple catalog laundry teach solution";
+var mnemonic = "various program duty chalk fresh inject usage autumn chuckle cash body worry";

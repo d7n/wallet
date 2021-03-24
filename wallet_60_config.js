@@ -1,1 +1,1 @@
-var mnemonic = "trick shoot clap hospital drop spirit flower stove monster color evidence idea";
+var mnemonic = "pilot tissue stereo uncle impact immense mountain leaf lawsuit duck city cycle";

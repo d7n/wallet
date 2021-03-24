@@ -1,1 +1,1 @@
-var mnemonic = "embrace champion defense cancel easy pulse affair parrot lady ginger wise record";
+var mnemonic = "proof tree ski sort embark admit winter host napkin follow grocery tired";

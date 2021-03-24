@@ -1,1 +1,1 @@
-var mnemonic = "student nephew limit dwarf night reform cinnamon diary monkey net rapid novel";
+var mnemonic = "belt endless trust lyrics toast fatal garment convince canal order apple brother";

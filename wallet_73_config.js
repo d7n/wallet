@@ -1,1 +1,1 @@
-var mnemonic = "rely field scrap chronic lizard grass arch mandate blanket soon useless pact";
+var mnemonic = "easily key can caution sword employ ten cricket wet income lens west";

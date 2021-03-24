@@ -1,1 +1,1 @@
-var mnemonic = "narrow fall disorder because ozone brick little power bargain cargo category oval";
+var mnemonic = "armed result unaware dad innocent invite special lawsuit issue advance sick ginger";

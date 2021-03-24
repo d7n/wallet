@@ -1,1 +1,1 @@
-var mnemonic = "palm foster damp nest alone better virtual visa upper vocal answer reopen";
+var mnemonic = "liar image shine solid violin what habit media matrix work grunt sweet";

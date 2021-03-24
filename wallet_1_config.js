@@ -1,1 +1,1 @@
-var mnemonic = "hammer have thank clean settle topic grit east control shy awake build";
+var mnemonic = "play fiction disease ten portion bonus entry item aspect badge fitness deny";

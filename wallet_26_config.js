@@ -1,1 +1,1 @@
-var mnemonic = "middle brain grain powder before wave estate dilemma excess wear sugar shrimp";
+var mnemonic = "humble monitor this winter twice lecture rebuild river jealous upon spread bracket";

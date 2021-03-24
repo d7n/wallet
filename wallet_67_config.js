@@ -1,1 +1,1 @@
-var mnemonic = "puzzle supply champion trigger language forum please million exhaust tank caution magnet";
+var mnemonic = "protect foot buddy lock humor budget angle myth raccoon chase stereo clump";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance skate desk sugar retreat body large attend faculty service music chief";
+var mnemonic = "cycle risk will envelope floor ripple viable buffalo real manage permit daring";

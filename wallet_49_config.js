@@ -1,1 +1,1 @@
-var mnemonic = "bird grab zone devote drop story debate jeans foot silk among plastic";
+var mnemonic = "notable buyer together arena liquid accident law high custom sand cream maid";

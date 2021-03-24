@@ -1,1 +1,1 @@
-var mnemonic = "boy ticket process two hen repeat paper blade patch rate identify fabric";
+var mnemonic = "chicken food also vapor holiday delay crouch airport poem culture receive else";

@@ -1,1 +1,1 @@
-var mnemonic = "energy empty vehicle chronic habit wild eyebrow glare only region hand monster";
+var mnemonic = "utility alarm guide rich inform chaos hedgehog pumpkin miss feed legal basket";

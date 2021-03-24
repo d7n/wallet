@@ -1,1 +1,1 @@
-var mnemonic = "category joke venture solid cable slab learn cover near volcano crumble mask";
+var mnemonic = "second dutch unknown goat harvest anger alter wing bamboo biology smart depend";

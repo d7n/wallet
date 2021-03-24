@@ -1,1 +1,1 @@
-var mnemonic = "trade route victory dream copper spirit pony rule wire choice thank stumble";
+var mnemonic = "ribbon board riot innocent cry news erode noise skate quick valley sunny";

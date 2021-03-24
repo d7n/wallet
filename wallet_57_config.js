@@ -1,1 +1,1 @@
-var mnemonic = "cement medal depart discover maze picture relief topple coffee mesh write evil";
+var mnemonic = "bunker execute void gasp mansion mean video whip crane gown organ tired";

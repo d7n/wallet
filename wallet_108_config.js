@@ -1,1 +1,1 @@
-var mnemonic = "clean hunt drama student kind client mean wait pull wire craft vacuum";
+var mnemonic = "chase envelope tell rocket field order favorite arrow spirit pact young festival";

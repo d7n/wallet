@@ -1,1 +1,1 @@
-var mnemonic = "hope advance jelly okay habit brass panther leaf street foster eight away";
+var mnemonic = "hole twice deputy inflict margin deer orchard swim you civil comfort kick";

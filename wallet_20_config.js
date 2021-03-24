@@ -1,1 +1,1 @@
-var mnemonic = "lake legal weather permit easy luggage bullet strategy lamp access recipe expand";
+var mnemonic = "door run surface fade dwarf dignity dentist travel physical retreat problem quote";

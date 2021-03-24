@@ -1,1 +1,1 @@
-var mnemonic = "hunt belt trade sister assault primary borrow letter rare you ride visual";
+var mnemonic = "walnut marble mind hundred window smoke achieve decrease drip near crash purity";

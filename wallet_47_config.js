@@ -1,1 +1,1 @@
-var mnemonic = "exist cabbage merge nice gather protect confirm family leave clay couch west";
+var mnemonic = "symptom point jelly recycle fold fossil inject panic found wise develop shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "more dash buyer noise error air disorder phone erosion wasp nose hybrid";
+var mnemonic = "ability stairs rapid admit gym easily rose husband joke airport post mask";

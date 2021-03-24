@@ -1,1 +1,1 @@
-var mnemonic = "annual art second few woman nose make cat ahead hunt hungry fitness";
+var mnemonic = "aerobic word toy mango vanish relief monitor arrange essence grit person audit";

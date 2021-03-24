@@ -1,1 +1,1 @@
-var mnemonic = "intact goat push infant tiny cousin leave promote toward extra bottom fit";
+var mnemonic = "useful ordinary cross happy yellow off erupt hat fringe reform area faculty";

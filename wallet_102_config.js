@@ -1,1 +1,1 @@
-var mnemonic = "skate coast shine rebuild people together ancient bamboo bonus rent surge degree";
+var mnemonic = "blanket hobby actual grocery hybrid brother witness join zero dinosaur invite delay";

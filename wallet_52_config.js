@@ -1,1 +1,1 @@
-var mnemonic = "clutch kiwi wood life under punch deer hammer punch core grain garden";
+var mnemonic = "obey taxi ride cargo update return solution glow assume husband sleep faith";

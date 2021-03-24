@@ -1,1 +1,1 @@
-var mnemonic = "much boy can shield insect letter roast inch risk sphere payment lecture";
+var mnemonic = "cluster catalog remind model logic syrup rather evidence afford license party left";

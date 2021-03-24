@@ -1,1 +1,1 @@
-var mnemonic = "away main tide food spice language desert tone orbit cause virtual imitate";
+var mnemonic = "hover bone organ buddy weapon liberty glove vendor sting chef arrow damp";

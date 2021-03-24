@@ -1,1 +1,1 @@
-var mnemonic = "lounge occur talent cave observe seat middle pink quality party talk pave";
+var mnemonic = "grant vessel inner asset income van loan describe excess bone divide neither";

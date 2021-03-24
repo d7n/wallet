@@ -1,1 +1,1 @@
-var mnemonic = "fix sweet property reject wheel insane this slam type forum crash category";
+var mnemonic = "success stuff comic winner coin burger trip now october grace goddess tent";

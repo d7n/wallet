@@ -1,1 +1,1 @@
-var mnemonic = "review lab caught island swap usage trim forward below tag flower broom";
+var mnemonic = "throw hundred trial asthma ozone review token wild vote economy mimic write";

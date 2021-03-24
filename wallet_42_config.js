@@ -1,1 +1,1 @@
-var mnemonic = "nothing usual moment maximum hope ketchup neither produce heart tone copper believe";
+var mnemonic = "mutual trophy blame aisle great divert adjust regular planet release sentence erase";

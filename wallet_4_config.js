@@ -1,1 +1,1 @@
-var mnemonic = "hammer before target bid artist book eight suffer crucial bachelor pizza fun";
+var mnemonic = "route whale inherit lazy dose cable matter attend clutch fork wing crisp";

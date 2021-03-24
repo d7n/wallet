@@ -1,1 +1,1 @@
-var mnemonic = "meat judge march flower alone dune youth absurd silly audit talent when";
+var mnemonic = "peasant whip toilet catch enlist nephew trial hybrid average silent candy fruit";

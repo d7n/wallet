@@ -1,1 +1,1 @@
-var mnemonic = "local grace swallow body cloth dog glance door thrive captain trend viable";
+var mnemonic = "level panel share cage wrist mixed bracket song smart race teach cost";

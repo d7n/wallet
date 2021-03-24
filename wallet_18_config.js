@@ -1,1 +1,1 @@
-var mnemonic = "media armed swing adapt maze refuse toe demand uniform vague tomato champion";
+var mnemonic = "expire van huge episode inhale whip switch honey cousin good unveil glad";

@@ -1,1 +1,1 @@
-var mnemonic = "expand awesome enhance fancy elephant snake arrest trim fringe season already office";
+var mnemonic = "rifle head easily stove nerve turtle sign upset thunder slogan patch kid";

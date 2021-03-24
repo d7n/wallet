@@ -1,1 +1,1 @@
-var mnemonic = "tired toddler congress stage frame left main convince someone pottery hire issue";
+var mnemonic = "piano toward weird online cram cinnamon post piano tenant staff liquid boil";

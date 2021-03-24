@@ -1,1 +1,1 @@
-var mnemonic = "skull whisper rose lesson sad come spirit girl potato rug join hundred";
+var mnemonic = "butter inject error brother march color trumpet journey movie skin oppose close";

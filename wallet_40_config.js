@@ -1,1 +1,1 @@
-var mnemonic = "depth jump enlist wheat session sadness awkward whisper faith consider belt write";
+var mnemonic = "demise upper tool snap glove mammal sea tuna source nature kid hand";

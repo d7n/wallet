@@ -1,1 +1,1 @@
-var mnemonic = "obscure fox crunch example answer unfair pluck fire conduct motion loyal adult";
+var mnemonic = "design roof snap shift proof gain pelican liquid any kind axis duck";

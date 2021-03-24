@@ -1,1 +1,1 @@
-var mnemonic = "layer together sauce worth elite cave suspect access reopen lottery pluck deer";
+var mnemonic = "twice usual erupt aisle category belt photo river lazy tobacco leg visit";

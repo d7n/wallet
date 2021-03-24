@@ -1,1 +1,1 @@
-var mnemonic = "finger unfold hero dignity curious culture fiction steak tenant either relief garlic";
+var mnemonic = "speak fiber exercise beef cause car guess fetch pen spider toward wisdom";

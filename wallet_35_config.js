@@ -1,1 +1,1 @@
-var mnemonic = "road grocery frozen eagle veteran high antenna dress glance hover void flower";
+var mnemonic = "chimney trumpet six sample olympic flee alpha vibrant hospital among faculty stairs";

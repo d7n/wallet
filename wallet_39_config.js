@@ -1,1 +1,1 @@
-var mnemonic = "viable walk rug forward express bleak around peanut arm angry way party";
+var mnemonic = "gift skirt double kiss spread response crucial magnet puzzle sell absurd void";

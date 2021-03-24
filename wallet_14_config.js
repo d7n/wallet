@@ -1,1 +1,1 @@
-var mnemonic = "glare wish veteran state vocal wink empower cool stage room seminar explain";
+var mnemonic = "copy orange globe april share problem share jeans cattle nuclear daughter edit";

@@ -1,1 +1,1 @@
-var mnemonic = "horse food gap disease voyage explain recipe aisle main foster fly alpha";
+var mnemonic = "problem front party fuel kingdom zone gloom drink maze congress record fit";

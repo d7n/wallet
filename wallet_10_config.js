@@ -1,1 +1,1 @@
-var mnemonic = "police box decorate flavor drama october name vivid axis update develop hybrid";
+var mnemonic = "manual option walnut burst major finger witness van unfold quarter melt gauge";

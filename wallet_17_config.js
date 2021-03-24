@@ -1,1 +1,1 @@
-var mnemonic = "embrace feel favorite expire cliff buffalo crane deposit certain sting praise zoo";
+var mnemonic = "impact confirm reduce youth resist laptop enrich chest journey sport crash surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit vessel camp volume fatal apple sorry panda island catch leader off";
+var mnemonic = "room spray shop mind verify any banana liquid update more alien chair";

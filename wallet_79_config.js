@@ -1,1 +1,1 @@
-var mnemonic = "piece orchard spell manual cluster season spoil camera camp indoor grape pigeon";
+var mnemonic = "useless slender rent track stairs render gate spring owner digital tower army";

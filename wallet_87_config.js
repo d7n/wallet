@@ -1,1 +1,1 @@
-var mnemonic = "fortune music high aspect silver soft force invest rather beauty salad move";
+var mnemonic = "bullet defy modify float crush gown table side toss laptop evil laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "that spatial grab sock mushroom police host chicken intact trophy dry property";
+var mnemonic = "check vanish middle slam axis split capable ahead mouse wreck split toddler";

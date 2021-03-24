@@ -1,1 +1,1 @@
-var mnemonic = "tray saddle era milk dad club blanket castle hotel vapor solid thought";
+var mnemonic = "ostrich athlete item spare blast yellow catalog idea orchard credit chicken warm";

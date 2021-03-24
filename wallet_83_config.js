@@ -1,1 +1,1 @@
-var mnemonic = "hire nephew elder crater tray canoe cause magnet danger wrestle mask deny";
+var mnemonic = "lazy museum crime clog cube scale over sand permit object merge pact";

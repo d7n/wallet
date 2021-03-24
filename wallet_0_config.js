@@ -1,1 +1,1 @@
-var mnemonic = "bargain change exhibit vanish cave end dance because party father clump wool";
+var mnemonic = "pluck invite nation prefer witness use desk brown sleep axis humor text";

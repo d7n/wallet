@@ -1,1 +1,1 @@
-var mnemonic = "faith into lobster opinion climb gravity barrel town maze current tilt salt";
+var mnemonic = "wet traffic sea keep swing circle kingdom six fat frozen impulse item";

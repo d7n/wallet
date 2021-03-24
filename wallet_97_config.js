@@ -1,1 +1,1 @@
-var mnemonic = "code civil theme license problem supply calm toast drop cabbage unlock reform";
+var mnemonic = "purpose risk scrub submit search school wolf hockey present maple noise scale";

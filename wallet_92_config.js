@@ -1,1 +1,1 @@
-var mnemonic = "discover ill fabric creek various fade twelve escape void identify melt fame";
+var mnemonic = "fan glass robot fuel razor federal pistol almost bonus doll must sing";

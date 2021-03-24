@@ -1,1 +1,1 @@
-var mnemonic = "simple away gossip soup hair road sunset scrap traffic sweet leisure sock";
+var mnemonic = "office path family decrease gauge tunnel subway middle lunch tiny equip light";

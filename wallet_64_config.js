@@ -1,1 +1,1 @@
-var mnemonic = "quick display fire resource sentence crisp twenty state surround depth book caught";
+var mnemonic = "flight coral tired network comic urge inject patch frame betray end orbit";

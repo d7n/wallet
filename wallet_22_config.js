@@ -1,1 +1,1 @@
-var mnemonic = "tired census age today decorate manage biology inhale coyote subject voyage alert";
+var mnemonic = "lounge across average horn enrich gadget cactus remember name galaxy hint void";

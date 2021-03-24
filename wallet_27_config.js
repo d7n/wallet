@@ -1,1 +1,1 @@
-var mnemonic = "amount blind eagle minute pattern neutral wasp solution moment decrease act summer";
+var mnemonic = "sport profit style size belt cruel usual nut wasp fancy mistake obey";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon skull express orient stumble veteran measure fat canoe parade artist question";
+var mnemonic = "when tackle suspect evoke empower hazard scale say camp jar lady suffer";

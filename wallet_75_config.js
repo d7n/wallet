@@ -1,1 +1,1 @@
-var mnemonic = "local dutch recall february hero shield pair around aisle smooth garden worry";
+var mnemonic = "verb cruel supply high result purchase stadium celery define inner olympic alien";

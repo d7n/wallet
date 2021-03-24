@@ -1,1 +1,1 @@
-var mnemonic = "monster all actor biology note picnic find copy ride exile solution thumb";
+var mnemonic = "coyote gesture owner flee once eye negative lock casino theory foil raven";

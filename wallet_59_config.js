@@ -1,1 +1,1 @@
-var mnemonic = "equal host dry motor follow dinosaur island segment crowd ancient judge medal";
+var mnemonic = "local person twice frozen flip crisp security spoon future hard conduct device";

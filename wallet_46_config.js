@@ -1,1 +1,1 @@
-var mnemonic = "gospel health fork auto dwarf before excite helmet direct federal gadget quiz";
+var mnemonic = "hero pig draft rural anxiety couch bounce garlic alter used hybrid hire";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan inner people knife dumb leader concert garlic stock entire bonus blind";
+var mnemonic = "glass logic column stone paddle dinosaur feed path illness tiger explain typical";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket panel address prepare ring chair caution immune need rule earn coil";
+var mnemonic = "fancy runway law border desert village lawsuit walk erupt kitten purchase kid";

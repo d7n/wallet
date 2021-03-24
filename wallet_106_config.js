@@ -1,1 +1,1 @@
-var mnemonic = "hill odor upset snap demise town frog print match tube shoulder few";
+var mnemonic = "peasant side script label denial drama raise will net mystery obscure giraffe";
