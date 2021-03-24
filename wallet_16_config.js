@@ -1,1 +1,1 @@
-var mnemonic = "success cactus sausage defy lyrics burden teach rate tooth mobile kangaroo rail";
+var mnemonic = "above bleak box clump smoke swarm second always wool allow cliff universe";

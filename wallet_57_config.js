@@ -1,1 +1,1 @@
-var mnemonic = "abandon sudden core acoustic october title ranch crumble broken monitor harsh tired";
+var mnemonic = "twice century pottery boring pole attitude infant wave rather truth comfort canvas";

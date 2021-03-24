@@ -1,1 +1,1 @@
-var mnemonic = "fashion atom happy help violin jazz deer base idle sweet boat beauty";
+var mnemonic = "industry toward couple client moon omit solution damp virus oyster message someone";

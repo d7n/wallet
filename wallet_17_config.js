@@ -1,1 +1,1 @@
-var mnemonic = "route universe appear arch venue flash sauce orphan draft chapter glimpse bubble";
+var mnemonic = "okay wisdom organ ecology imitate duck typical category congress mixture napkin almost";

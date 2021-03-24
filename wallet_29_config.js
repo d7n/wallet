@@ -1,1 +1,1 @@
-var mnemonic = "maple quality system angle wife struggle someone electric team soft scrap valley";
+var mnemonic = "leg also harsh reveal chest unable idea rug stuff ramp arrow dice";

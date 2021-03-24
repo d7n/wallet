@@ -1,1 +1,1 @@
-var mnemonic = "egg rapid dynamic bulb manage more scene noodle push hamster label spice";
+var mnemonic = "syrup dismiss jewel mercy desk enlist upgrade crime found cricket joke purpose";

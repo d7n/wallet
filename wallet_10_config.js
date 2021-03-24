@@ -1,1 +1,1 @@
-var mnemonic = "yard act often dumb easy athlete action item fork void cup token";
+var mnemonic = "journey sponsor rely art actual wife forest velvet civil thought sun ball";

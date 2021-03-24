@@ -1,1 +1,1 @@
-var mnemonic = "flavor only forum picnic material bean rent apart suit midnight seek stomach";
+var mnemonic = "guard puzzle loyal cliff warrior emerge trap train work circle sound dinner";

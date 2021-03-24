@@ -1,1 +1,1 @@
-var mnemonic = "dumb suspect detect paddle spawn mean vote tomorrow erode crawl spell lunch";
+var mnemonic = "initial drill amount tumble frozen major cotton agent present observe owner ramp";

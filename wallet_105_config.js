@@ -1,1 +1,1 @@
-var mnemonic = "dish blur weather west hold empower improve awful fat make sort bamboo";
+var mnemonic = "vapor negative ready stay east skull one program crash swim cake student";

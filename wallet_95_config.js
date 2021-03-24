@@ -1,1 +1,1 @@
-var mnemonic = "myth essence envelope visual zero athlete extend inherit wrap menu reopen august";
+var mnemonic = "dirt ethics expand entire tooth wet loud dish decline chef divert agree";

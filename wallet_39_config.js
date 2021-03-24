@@ -1,1 +1,1 @@
-var mnemonic = "add crunch transfer soldier arrow hard dust joy warm develop below rally";
+var mnemonic = "predict cereal then fragile final suffer lazy sight bullet harvest cost nothing";

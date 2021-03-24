@@ -1,1 +1,1 @@
-var mnemonic = "priority dial transfer poet alien direct fork mansion oak air tortoise arrest";
+var mnemonic = "deal much tone second bar point office cube riot nothing chef rotate";

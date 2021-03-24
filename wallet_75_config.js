@@ -1,1 +1,1 @@
-var mnemonic = "ball olympic gym slide liquid wear mention side question deputy auto culture";
+var mnemonic = "pond thank delay cement crystal alone legend nasty offer pride skate brown";

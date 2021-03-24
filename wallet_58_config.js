@@ -1,1 +1,1 @@
-var mnemonic = "actor dose accuse pulse grape super seven height feature size entire equip";
+var mnemonic = "perfect state evoke buyer degree future remain youth kiwi cherry total achieve";

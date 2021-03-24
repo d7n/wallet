@@ -1,1 +1,1 @@
-var mnemonic = "desk size price reflect local horror quality demand pole million casual history";
+var mnemonic = "abandon uniform mountain someone outdoor breeze hire cereal guide ill whip move";

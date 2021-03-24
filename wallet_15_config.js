@@ -1,1 +1,1 @@
-var mnemonic = "cement rebel gym rescue enough pumpkin release vacuum prevent inside pilot wing";
+var mnemonic = "slush unfair arrange analyst sense dad romance spatial bubble bottom culture dial";

@@ -1,1 +1,1 @@
-var mnemonic = "include blood muffin ceiling crisp abstract drama leave puppy stand weather tragic";
+var mnemonic = "whip pottery mammal calm nuclear verb pony height senior jar spatial garage";

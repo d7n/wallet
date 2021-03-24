@@ -1,1 +1,1 @@
-var mnemonic = "member dish bridge rapid second tired sad gain shadow consider elbow dinosaur";
+var mnemonic = "eagle usage cliff honey opera caught echo target future protect trade stereo";

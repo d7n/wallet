@@ -1,1 +1,1 @@
-var mnemonic = "guilt album person pair fox embrace fence primary away feed crunch finish";
+var mnemonic = "echo hungry craft flame any truth office brother marine typical give stand";

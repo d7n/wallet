@@ -1,1 +1,1 @@
-var mnemonic = "divert certain attack around divorce off fringe mad keep shine token skull";
+var mnemonic = "adapt cotton acquire sun piano lab invite wrestle accuse eight cash miss";

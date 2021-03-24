@@ -1,1 +1,1 @@
-var mnemonic = "carry citizen pumpkin play bar option boost output angle rib suggest knock";
+var mnemonic = "flash grain regret small normal skate property slogan danger rival suspect real";

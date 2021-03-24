@@ -1,1 +1,1 @@
-var mnemonic = "toilet road stem visit salmon hole ready detect entry rabbit chimney glad";
+var mnemonic = "embody endorse twenty borrow turn orchard artwork three plate taste fluid tower";

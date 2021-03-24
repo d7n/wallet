@@ -1,1 +1,1 @@
-var mnemonic = "medal east monster pink diamond angry neither pact whisper because among error";
+var mnemonic = "oxygen prosper oyster step large rack group arrange super tilt bean walk";

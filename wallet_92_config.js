@@ -1,1 +1,1 @@
-var mnemonic = "solution another paddle seven arena slot cheap want mule six raccoon state";
+var mnemonic = "pact inject impulse wash clap edge tower world resist blur define language";

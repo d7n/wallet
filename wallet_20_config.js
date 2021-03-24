@@ -1,1 +1,1 @@
-var mnemonic = "dust original equip fresh liar talent slim smart kitchen inner vote lunar";
+var mnemonic = "clown gym cake garage pluck differ comic price claw profit reopen orbit";

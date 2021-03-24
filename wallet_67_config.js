@@ -1,1 +1,1 @@
-var mnemonic = "reduce retire surge velvet what timber enjoy royal lens prison maximum lemon";
+var mnemonic = "tattoo abandon feed tower detect swim virtual between brave rival wealth jar";

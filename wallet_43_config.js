@@ -1,1 +1,1 @@
-var mnemonic = "gym betray cereal clean fame prize repeat rally clown wasp inject fly";
+var mnemonic = "drill diagram real duty barely blanket long prepare gift utility invest can";

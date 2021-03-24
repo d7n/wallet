@@ -1,1 +1,1 @@
-var mnemonic = "reason yellow law apology drastic adjust airport ribbon labor swing transfer satisfy";
+var mnemonic = "island call stool nut special pair rough decrease regret siege hip verify";

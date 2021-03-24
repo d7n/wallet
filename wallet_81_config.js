@@ -1,1 +1,1 @@
-var mnemonic = "tragic tongue tissue erosion omit outside access pretty tragic burden ticket pull";
+var mnemonic = "divert daughter figure news stock lava verify zone sausage soft vague vendor";

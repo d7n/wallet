@@ -1,1 +1,1 @@
-var mnemonic = "lion vessel cannon library letter jewel disease winner best gorilla pilot maid";
+var mnemonic = "high icon rival word page awake woman type ride program stamp negative";

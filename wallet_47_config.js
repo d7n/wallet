@@ -1,1 +1,1 @@
-var mnemonic = "club hover chalk tooth enroll beauty simple hamster forward step supply benefit";
+var mnemonic = "marriage cry movie explain outdoor jaguar pulp water wealth wonder place cloth";

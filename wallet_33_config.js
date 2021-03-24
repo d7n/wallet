@@ -1,1 +1,1 @@
-var mnemonic = "tongue display music course swamp middle canvas include purpose adult expand glory";
+var mnemonic = "current kick unfold milk aerobic dress apology trap proof slim garage fantasy";

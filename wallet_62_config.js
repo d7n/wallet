@@ -1,1 +1,1 @@
-var mnemonic = "ordinary problem attend urban glass random twice slice heart armor blast float";
+var mnemonic = "check panic upgrade spoon assist village similar age combine aunt crawl stable";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal gym parrot general thumb upon attend frame metal mouse game rent";
+var mnemonic = "bacon select unique one add glance correct lake lemon upon bottom vacant";

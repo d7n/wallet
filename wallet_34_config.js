@@ -1,1 +1,1 @@
-var mnemonic = "twenty sweet zero system swarm raise reason old sock mercy ski reopen";
+var mnemonic = "trust latin allow service add blush race vote arctic wide swim cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny when solar fade just candy trigger private turkey mail ginger pact";
+var mnemonic = "stay pipe file huge december shop fiber drip hurt once butter meadow";

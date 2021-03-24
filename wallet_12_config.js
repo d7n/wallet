@@ -1,1 +1,1 @@
-var mnemonic = "imitate believe recycle link convince seminar grass light ridge practice multiply donate";
+var mnemonic = "stumble sudden blur script south fossil cause million fold idle name ordinary";

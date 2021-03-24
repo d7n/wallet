@@ -1,1 +1,1 @@
-var mnemonic = "reopen blossom funny inner turtle slam element task garment kitchen fiction cheese";
+var mnemonic = "crawl wing maze snake skill better tip wet fringe coffee river owner";

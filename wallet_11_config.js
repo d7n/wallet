@@ -1,1 +1,1 @@
-var mnemonic = "misery patrol month tilt trumpet three supply napkin agent smooth use media";
+var mnemonic = "bracket inherit seven close disease project grit primary owner receive urge curious";

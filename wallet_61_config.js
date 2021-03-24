@@ -1,1 +1,1 @@
-var mnemonic = "bless island loyal glide three skin topic forward orchard funny process wave";
+var mnemonic = "later lake idle hat hello input more fine rhythm cram rubber leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten lizard old birth reopen transfer velvet dash inject real mammal seed";
+var mnemonic = "pattern group quality success immense flight cliff again mobile fever where balcony";

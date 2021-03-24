@@ -1,1 +1,1 @@
-var mnemonic = "garbage stool script quality parade fame vibrant blame accident crowd nose echo";
+var mnemonic = "drive blanket practice turn february fork have robust ecology limb breeze case";

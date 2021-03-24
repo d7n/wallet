@@ -1,1 +1,1 @@
-var mnemonic = "guilt frown require uphold letter unhappy slush chaos volume suffer assault jelly";
+var mnemonic = "blue lawn sentence orient immense twist fly unknown zebra screen idea wheat";

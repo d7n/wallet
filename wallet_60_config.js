@@ -1,1 +1,1 @@
-var mnemonic = "proud emerge trophy flat fog concert mountain clog kitchen riot loyal antique";
+var mnemonic = "endorse unfold february name minor design grace hold paddle subway lawn stomach";

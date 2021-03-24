@@ -1,1 +1,1 @@
-var mnemonic = "horror glance impact oyster energy concert gasp patch spend brass coil pill";
+var mnemonic = "attend lake raven auto enable holiday empower series wrist wear margin hurdle";

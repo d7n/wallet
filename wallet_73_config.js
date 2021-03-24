@@ -1,1 +1,1 @@
-var mnemonic = "hope cricket squeeze dawn view girl floor village staff circle solar galaxy";
+var mnemonic = "retreat hand cage torch still ecology weasel glory multiply believe away ranch";

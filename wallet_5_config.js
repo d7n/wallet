@@ -1,1 +1,1 @@
-var mnemonic = "razor nature soap uphold crew defy clump clarify garbage outside ghost track";
+var mnemonic = "comfort spirit soul endless swift output flip toddler harvest weather sight dawn";

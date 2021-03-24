@@ -1,1 +1,1 @@
-var mnemonic = "pull chaos leaf guess bargain unfold crater inch outside intact harsh update";
+var mnemonic = "robust toward train there record wet release road fluid funny course stock";

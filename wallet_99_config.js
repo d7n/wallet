@@ -1,1 +1,1 @@
-var mnemonic = "bachelor weekend total garment orphan snow damage welcome agent reduce local gaze";
+var mnemonic = "real fortune mercy diet taxi wheat weekend voice alert hammer combine shaft";

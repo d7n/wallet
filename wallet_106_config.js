@@ -1,1 +1,1 @@
-var mnemonic = "bless all valid season noise opera stage rate tube share bacon bracket";
+var mnemonic = "pretty cup cigar casual gauge always cabin nominee treat fit vital approve";

@@ -1,1 +1,1 @@
-var mnemonic = "remain cost snap steel digital theme someone enroll hair regular verb churn";
+var mnemonic = "excuse repeat review clap include mask essence depth camera echo pepper elder";

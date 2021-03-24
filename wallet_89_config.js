@@ -1,1 +1,1 @@
-var mnemonic = "earn toast master desert hawk hip door shrug cupboard enjoy cute ethics";
+var mnemonic = "share ecology spatial fancy smart marriage indicate twelve rubber egg control indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak autumn congress sing version crane cricket zebra engine all loan broken";
+var mnemonic = "essence earth symptom rocket leaf guide bind lecture enlist churn defense copper";

@@ -1,1 +1,1 @@
-var mnemonic = "collect risk seat balcony turtle language balcony thank galaxy oppose matter cigar";
+var mnemonic = "roast upgrade daughter tackle hope inflict banner edge vital couch sunny section";

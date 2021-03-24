@@ -1,1 +1,1 @@
-var mnemonic = "dose impose joy element peasant universe throw pattern noise guilt culture soon";
+var mnemonic = "energy short mercy unveil bitter bundle actress scorpion rural fit dish produce";

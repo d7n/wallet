@@ -1,1 +1,1 @@
-var mnemonic = "link dilemma saddle trade define type velvet bounce manual veteran work fitness";
+var mnemonic = "cherry stamp filter old ecology half thought brief grass crime between expand";

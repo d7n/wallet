@@ -1,1 +1,1 @@
-var mnemonic = "tone clarify bus measure super mesh velvet head stick memory swallow assault";
+var mnemonic = "glove spring town twin biology educate surface term high pudding disorder nature";

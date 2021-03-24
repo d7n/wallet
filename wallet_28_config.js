@@ -1,1 +1,1 @@
-var mnemonic = "visit pipe path bean husband prefer forum left call someone skill shop";
+var mnemonic = "scout execute extra devote black knee interest fat spin regular prevent atom";

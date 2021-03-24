@@ -1,1 +1,1 @@
-var mnemonic = "enemy drop skate much ribbon truly coral flag disease riot ramp truth";
+var mnemonic = "miss order pony sphere grab good stand trust glance code ski hour";

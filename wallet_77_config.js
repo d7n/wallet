@@ -1,1 +1,1 @@
-var mnemonic = "when nuclear cake blush correct exchange mechanic eyebrow prosper keep gym swallow";
+var mnemonic = "twenty share toast dentist uncle omit unlock right wagon lunch swim bulk";

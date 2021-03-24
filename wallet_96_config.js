@@ -1,1 +1,1 @@
-var mnemonic = "message use drink estate stamp shoot tornado use column urge rule street";
+var mnemonic = "gadget bread trial canvas keep culture patch total unusual month install dignity";

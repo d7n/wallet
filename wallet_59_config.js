@@ -1,1 +1,1 @@
-var mnemonic = "once tower happy purpose sudden cannon lobster involve parent chair guard toddler";
+var mnemonic = "fury excuse auto corn sniff someone busy body what syrup crystal snow";

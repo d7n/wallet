@@ -1,1 +1,1 @@
-var mnemonic = "universe suffer twelve distance bounce pair quarter flush fox access front cherry";
+var mnemonic = "student atom vague army resemble student roast tilt unknown put original senior";

@@ -1,1 +1,1 @@
-var mnemonic = "drink subway mad bright faint wine identify shy squirrel find antique expect";
+var mnemonic = "vacant damage drill require goose divert immune group trap pet easy sadness";

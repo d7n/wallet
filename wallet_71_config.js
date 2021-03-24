@@ -1,1 +1,1 @@
-var mnemonic = "matter march space room intact embrace cotton coin shell gospel ostrich dinner";
+var mnemonic = "wood enlist cram jar glad apology frequent pride coin speak film body";

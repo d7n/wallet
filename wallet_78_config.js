@@ -1,1 +1,1 @@
-var mnemonic = "matter keen upset autumn dog settle rose stage future woman observe under";
+var mnemonic = "mail basic hurt polar elephant region trouble copy mandate tomorrow month dentist";

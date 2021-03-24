@@ -1,1 +1,1 @@
-var mnemonic = "vanish motor tumble crane asset around angle utility bread voice cousin bulk";
+var mnemonic = "coyote car police fog actor diamond heart present power spray help such";

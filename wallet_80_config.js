@@ -1,1 +1,1 @@
-var mnemonic = "quantum valid process analyst earth wild budget property situate around try whale";
+var mnemonic = "famous summer fossil twin fortune employ confirm another enact rescue satisfy become";

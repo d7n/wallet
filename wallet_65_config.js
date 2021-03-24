@@ -1,1 +1,1 @@
-var mnemonic = "hawk decline glue school matrix nephew utility cricket village conduct inform scale";
+var mnemonic = "observe rail elder then omit reward soul repair wrist glance people grocery";

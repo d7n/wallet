@@ -1,1 +1,1 @@
-var mnemonic = "detail truth pioneer worth steak sell clever more erase junior gain scorpion";
+var mnemonic = "maid soon maid gift tomato silly decade burden flower believe result drip";

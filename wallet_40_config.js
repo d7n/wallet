@@ -1,1 +1,1 @@
-var mnemonic = "cat mirror buffalo pole surprise globe chimney local sibling sand history multiply";
+var mnemonic = "make pair obey length copper balcony metal fat hover carpet dawn lumber";

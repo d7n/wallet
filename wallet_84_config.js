@@ -1,1 +1,1 @@
-var mnemonic = "maze paper menu add ability leopard depend rescue dog main cricket around";
+var mnemonic = "peanut flee denial armor during option boss guess fork harsh sting utility";

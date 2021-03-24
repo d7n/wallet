@@ -1,1 +1,1 @@
-var mnemonic = "pride pink speak inmate proof chase describe lake bullet prefer pencil easily";
+var mnemonic = "sport village print december spider accident convince spider crystal indicate cactus double";

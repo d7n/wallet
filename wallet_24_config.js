@@ -1,1 +1,1 @@
-var mnemonic = "silver bone hotel better demise idle inform asthma vote stool demise rival";
+var mnemonic = "chuckle jacket merit secret soccer flash own mandate minimum cabbage funny together";

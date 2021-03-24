@@ -1,1 +1,1 @@
-var mnemonic = "minor frog demand turkey radio calm save spray unique auto conduct fox";
+var mnemonic = "frog scrap van crater symbol cream matter trash aim keen balance region";

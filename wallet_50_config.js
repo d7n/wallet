@@ -1,1 +1,1 @@
-var mnemonic = "quarter rubber walk orient assist banner orchard useful age jacket reopen almost";
+var mnemonic = "digital leg task harsh wave shy topple shock anger duck left ozone";

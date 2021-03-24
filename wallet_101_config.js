@@ -1,1 +1,1 @@
-var mnemonic = "laugh flight usual fitness live fine frozen else scorpion method rely aspect";
+var mnemonic = "inherit help twice weekend crowd nothing sibling vanish undo develop edge empower";
