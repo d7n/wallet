@@ -1,1 +1,1 @@
-var mnemonic = "peasant bulk scan quantum abuse cruise paper gold exist science fit uniform";
+var mnemonic = "earth armed indicate theme disorder spirit void top disease quote wrist fuel";

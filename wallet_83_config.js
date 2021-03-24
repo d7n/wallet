@@ -1,1 +1,1 @@
-var mnemonic = "fox sleep spin chuckle unlock bunker dirt range jewel scrub copper cost";
+var mnemonic = "jar choice century city celery stool wool paddle together rhythm orient island";

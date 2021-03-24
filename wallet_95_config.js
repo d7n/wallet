@@ -1,1 +1,1 @@
-var mnemonic = "debris excess dynamic piano speak prize sheriff jazz pepper pond mobile elephant";
+var mnemonic = "select lazy horn pilot awkward permit grief unknown use lemon federal door";

@@ -1,1 +1,1 @@
-var mnemonic = "wave search one frozen right recall female steak green govern village ceiling";
+var mnemonic = "always place chunk flip december pilot wrist early clean consider build page";

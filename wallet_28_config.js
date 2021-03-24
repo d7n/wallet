@@ -1,1 +1,1 @@
-var mnemonic = "wool source canvas monkey artist success pencil pond slice equal ketchup pottery";
+var mnemonic = "multiply run three pole win find round bone walk forward laptop type";

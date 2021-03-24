@@ -1,1 +1,1 @@
-var mnemonic = "chimney steel inquiry couch shiver chair fury seed duck any deposit hero";
+var mnemonic = "toy vast cool equip trigger brass meat ivory virtual pole engine liberty";

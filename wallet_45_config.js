@@ -1,1 +1,1 @@
-var mnemonic = "zebra tonight brain royal link random million collect mutual athlete open govern";
+var mnemonic = "iron clay verb embrace faith laundry endorse raccoon term foil slush finish";

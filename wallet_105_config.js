@@ -1,1 +1,1 @@
-var mnemonic = "weapon embody moment end pilot basic planet enact inquiry private radio horn";
+var mnemonic = "ice chronic bullet foot mystery usage during castle paddle immense okay cliff";

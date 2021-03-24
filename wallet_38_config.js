@@ -1,1 +1,1 @@
-var mnemonic = "reflect grid unlock round bread unhappy dune wash economy among swarm split";
+var mnemonic = "sun debate arctic smoke eternal good culture use maid dragon island mule";

@@ -1,1 +1,1 @@
-var mnemonic = "danger canoe lucky helmet cherry mask appear attract shaft razor clever wagon";
+var mnemonic = "capital fun grief stove inherit wheat silver lemon embrace rotate refuse legend";

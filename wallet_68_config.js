@@ -1,1 +1,1 @@
-var mnemonic = "enable truth large awake enjoy stereo section crowd worth volume forum step";
+var mnemonic = "disease odor leopard profit one account car pioneer design maid mystery interest";

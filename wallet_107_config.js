@@ -1,1 +1,1 @@
-var mnemonic = "divorce town mind skull bulk you world rookie swim day pudding nurse";
+var mnemonic = "box female glare able citizen item merit faculty hour cake all door";

@@ -1,1 +1,1 @@
-var mnemonic = "brother picnic strong modify split proud panel tunnel favorite ecology library gossip";
+var mnemonic = "sick purse actress detect vital wheat sister suit pig tongue remember wool";

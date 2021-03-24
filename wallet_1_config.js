@@ -1,1 +1,1 @@
-var mnemonic = "apple yard nose again rain best sorry boss off limit maximum include";
+var mnemonic = "ignore room stairs sound slight brave tribe gown pulse grain hedgehog lake";

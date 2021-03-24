@@ -1,1 +1,1 @@
-var mnemonic = "cash poem diet olive imitate gun giraffe earth noble result toy nut";
+var mnemonic = "stove side close shrug wife energy know message vintage square fade over";

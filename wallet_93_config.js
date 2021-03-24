@@ -1,1 +1,1 @@
-var mnemonic = "online same sentence explain below dress seat february habit peace nation inmate";
+var mnemonic = "copy expand brass grass silk shoe tonight false can digital inner shrimp";

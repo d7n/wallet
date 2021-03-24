@@ -1,1 +1,1 @@
-var mnemonic = "slide pride notice update throw remain scorpion remember gasp orange choose entire";
+var mnemonic = "cloth endorse plate steel knee world glad cluster soft jacket voyage output";

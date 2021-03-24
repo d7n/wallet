@@ -1,1 +1,1 @@
-var mnemonic = "girl green reopen obscure tourist claw blast jump crucial eternal crane hire";
+var mnemonic = "mirror mom mountain toss little tube assist worry offer buzz element toddler";

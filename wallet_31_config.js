@@ -1,1 +1,1 @@
-var mnemonic = "lamp vault popular toddler okay category winter arch west repeat cause expect";
+var mnemonic = "runway off sample clay season market bomb glass uniform immense rabbit zone";

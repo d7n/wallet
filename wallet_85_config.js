@@ -1,1 +1,1 @@
-var mnemonic = "also main six excess tell auto define gas raccoon mule abandon give";
+var mnemonic = "float emotion shop gaze guilt chronic follow layer stay hover admit beach";

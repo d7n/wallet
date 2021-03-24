@@ -1,1 +1,1 @@
-var mnemonic = "fossil angry easy into defy donate blame march air future nut island";
+var mnemonic = "grocery marriage true lady elegant wide valid lumber release sock matrix cause";

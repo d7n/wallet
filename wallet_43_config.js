@@ -1,1 +1,1 @@
-var mnemonic = "physical clown solve piece helmet master destroy usage volcano knock wrestle whip";
+var mnemonic = "eager risk furnace unfold index possible loop silent oven proof aunt burger";

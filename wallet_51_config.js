@@ -1,1 +1,1 @@
-var mnemonic = "fever pioneer divide head laptop boring involve sunny rude flip nothing walk";
+var mnemonic = "example gossip hub digital giraffe circle phone win collect edge save marriage";

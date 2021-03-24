@@ -1,1 +1,1 @@
-var mnemonic = "barely analyst enemy strike cart festival post combine wet evil brisk globe";
+var mnemonic = "story skull solid pelican despair army okay few code neck debris audit";

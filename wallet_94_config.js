@@ -1,1 +1,1 @@
-var mnemonic = "toilet kiss globe hair attend swift height gravity omit energy page health";
+var mnemonic = "goat tuna armor dolphin topple equal follow twist flight vote laundry impulse";

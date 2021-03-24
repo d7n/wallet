@@ -1,1 +1,1 @@
-var mnemonic = "start wrap pill come diesel someone soldier shift magic roast ozone energy";
+var mnemonic = "heavy quiz cave bid tourist submit book hammer faculty chase mouse clever";

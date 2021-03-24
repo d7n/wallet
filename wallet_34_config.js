@@ -1,1 +1,1 @@
-var mnemonic = "wall top task adapt school robust kitchen brave note choice mistake crime";
+var mnemonic = "love blade obvious normal insect rural lobster project round abandon senior raven";

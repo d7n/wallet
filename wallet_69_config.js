@@ -1,1 +1,1 @@
-var mnemonic = "shock swing gift faint certain govern stand eternal edge predict cliff lobster";
+var mnemonic = "impact guard clip wing stairs balance owner nation shield first gloom light";

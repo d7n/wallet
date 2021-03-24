@@ -1,1 +1,1 @@
-var mnemonic = "response width dragon dune near connect dawn such crime hint autumn neither";
+var mnemonic = "jungle tell hello ship student divorce end conduct observe beef choice welcome";

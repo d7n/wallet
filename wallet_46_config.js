@@ -1,1 +1,1 @@
-var mnemonic = "exist vibrant engage diesel tonight force cabbage salon bar soap digital trophy";
+var mnemonic = "motion quote caution share pupil program stock erosion okay napkin have fruit";

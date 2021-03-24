@@ -1,1 +1,1 @@
-var mnemonic = "people seed convince guilt lava expect drum inside awkward wood clump arm";
+var mnemonic = "amateur mirror member minute sheriff birth marriage fashion bike exclude supply egg";

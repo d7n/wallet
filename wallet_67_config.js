@@ -1,1 +1,1 @@
-var mnemonic = "couple then fatal peace soap journey doll pair begin filter bench leader";
+var mnemonic = "steel squeeze crumble various element treat enrich pave utility fat battle question";

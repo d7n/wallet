@@ -1,1 +1,1 @@
-var mnemonic = "give library universe federal panther reason oak slender bright rack aim lizard";
+var mnemonic = "chimney panda assist huge remove midnight car seminar ceiling razor hero farm";

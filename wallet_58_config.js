@@ -1,1 +1,1 @@
-var mnemonic = "flush chaos replace dry project coach waste jewel parrot pigeon drink energy";
+var mnemonic = "loop poverty tennis advance drop polar bind cupboard elbow laugh sketch impose";

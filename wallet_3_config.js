@@ -1,1 +1,1 @@
-var mnemonic = "auction lecture beef major melt desk dice action grid alter never equal";
+var mnemonic = "crouch wheel kid divorce parrot brain enter fossil cargo gospel cage park";

@@ -1,1 +1,1 @@
-var mnemonic = "void front unhappy lamp congress raven rebel tank cash panel lonely egg";
+var mnemonic = "almost foot miss inmate resemble onion wall siege step today gravity certain";

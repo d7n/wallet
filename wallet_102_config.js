@@ -1,1 +1,1 @@
-var mnemonic = "decrease rally witness throw rescue verb live drum section city pulse wall";
+var mnemonic = "wall income warfare fade pitch mad original food swallow endless hurry alcohol";

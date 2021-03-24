@@ -1,1 +1,1 @@
-var mnemonic = "stable clerk suspect fine employ honey video knee tilt onion spread artist";
+var mnemonic = "inject manage frown fancy wish muffin blouse depth vessel forest embark thank";

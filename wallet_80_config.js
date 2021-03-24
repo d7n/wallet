@@ -1,1 +1,1 @@
-var mnemonic = "town dirt plate click awake priority famous ring deal slam visual oven";
+var mnemonic = "session dynamic april oxygen clean change eternal echo resist wisdom sad loud";

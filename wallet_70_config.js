@@ -1,1 +1,1 @@
-var mnemonic = "present famous various upper fluid wrap method empty crater merry chronic goddess";
+var mnemonic = "brick input leisure female visa tattoo music brick family erase tomorrow note";

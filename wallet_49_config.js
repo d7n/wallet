@@ -1,1 +1,1 @@
-var mnemonic = "age monitor crop interest shallow model call horn panic hungry drama alley";
+var mnemonic = "hazard good silk april tape clock jelly push soul buddy easily angle";

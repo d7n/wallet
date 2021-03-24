@@ -1,1 +1,1 @@
-var mnemonic = "sentence accident leaf romance rather eternal nest priority ripple turkey file minimum";
+var mnemonic = "struggle inhale gift artwork nose doll fever spike sunny excuse scatter wear";

@@ -1,1 +1,1 @@
-var mnemonic = "acid output return excess jump trend path rack like medal robot lottery";
+var mnemonic = "flash visual earn catalog roof prefer luggage tiny identify ivory comfort sport";

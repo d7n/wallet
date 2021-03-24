@@ -1,1 +1,1 @@
-var mnemonic = "lonely crystal bless destroy matrix domain tribe swing fever consider fatal brother";
+var mnemonic = "east scene people sauce fortune right vanish price fury cabbage scrub moral";

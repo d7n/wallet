@@ -1,1 +1,1 @@
-var mnemonic = "actress angry gauge limit artist attack enroll rude finish cry lamp gift";
+var mnemonic = "scale claim boy jacket banner exist turkey stay circle knife tunnel sunny";

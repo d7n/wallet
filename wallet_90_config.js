@@ -1,1 +1,1 @@
-var mnemonic = "circle dust country salute share battle home choose burst ice desert movie";
+var mnemonic = "join tent sustain deposit situate buddy manual tomorrow truly winner deer hawk";

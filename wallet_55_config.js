@@ -1,1 +1,1 @@
-var mnemonic = "bar bread check enrich ball remember awesome embark impact topple demise catalog";
+var mnemonic = "improve prepare invite during solution flower bonus ginger actual arrive catalog bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "still drastic various despair stumble marble dismiss east upon luxury slim chapter";
+var mnemonic = "hire tobacco poet better throw interest round put congress hurt bachelor despair";

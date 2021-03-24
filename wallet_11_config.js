@@ -1,1 +1,1 @@
-var mnemonic = "meat alpha oxygen robot witness bamboo mystery obey verb give lazy alarm";
+var mnemonic = "million pig park hire illness seminar south lounge three object elephant session";

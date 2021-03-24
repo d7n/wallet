@@ -1,1 +1,1 @@
-var mnemonic = "recipe bus budget impulse stereo lens high coil ride erupt earn riot";
+var mnemonic = "drive palace will orbit space inside supply list disease senior venue swear";

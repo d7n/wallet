@@ -1,1 +1,1 @@
-var mnemonic = "text hope off response pitch flower job junk coil come hard duty";
+var mnemonic = "cloud obtain drive endless beyond pencil lemon leg heavy valley whale latin";

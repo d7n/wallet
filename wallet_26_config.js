@@ -1,1 +1,1 @@
-var mnemonic = "draft excite they photo other prison split outside solar click olympic follow";
+var mnemonic = "awkward jungle piano enforce chicken increase pulp awful shell laugh dice valid";

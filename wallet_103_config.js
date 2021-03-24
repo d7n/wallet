@@ -1,1 +1,1 @@
-var mnemonic = "wave recycle argue emerge today region slender royal clump wild inch smoke";
+var mnemonic = "desk sentence face coast ostrich away pottery vocal calm cup foam bacon";

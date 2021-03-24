@@ -1,1 +1,1 @@
-var mnemonic = "thrive toast ten topple then wealth bitter impose private trophy board journey";
+var mnemonic = "path tunnel hazard slam engine bomb pipe gold boring talent effort wool";

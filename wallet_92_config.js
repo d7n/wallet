@@ -1,1 +1,1 @@
-var mnemonic = "village night spawn combine inject check update cactus common deposit enter combine";
+var mnemonic = "ready acid bulb blast account damp village upper leave beyond weapon search";

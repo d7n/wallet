@@ -1,1 +1,1 @@
-var mnemonic = "blood image width worry digital raw proud ice bamboo spare prepare kit";
+var mnemonic = "lift foil clarify need scout planet recipe purity noble amused crawl jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "tired recycle pink expose ivory sponsor hub tube category lake unknown cake";
+var mnemonic = "limit tuna alone wonder cash tail pioneer thing pig butter mix mirror";

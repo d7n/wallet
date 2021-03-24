@@ -1,1 +1,1 @@
-var mnemonic = "consider rubber panther artefact cart remember tiger device toy proof genre style";
+var mnemonic = "skin tray middle legal cruise mistake pause churn kick loan oyster solid";

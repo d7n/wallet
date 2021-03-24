@@ -1,1 +1,1 @@
-var mnemonic = "desert desert honey kiwi candy path height baby absorb over alarm distance";
+var mnemonic = "rate track liquid scene glad action kidney around boil swim orbit junior";

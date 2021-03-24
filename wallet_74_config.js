@@ -1,1 +1,1 @@
-var mnemonic = "green edge armor pizza dirt rich window couple hockey announce say grocery";
+var mnemonic = "hood solid local ship eager expect tennis blast alone monitor carpet giggle";

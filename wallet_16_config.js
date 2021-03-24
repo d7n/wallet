@@ -1,1 +1,1 @@
-var mnemonic = "jelly curtain copper neutral collect rabbit adapt visit ship history rapid series";
+var mnemonic = "clean decade physical afford barrel fantasy bracket wedding ill dwarf way vague";

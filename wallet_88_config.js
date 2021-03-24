@@ -1,1 +1,1 @@
-var mnemonic = "satoshi version mountain bless hobby switch mechanic crowd marble twelve gather general";
+var mnemonic = "journey employ regret secret foil ship link kiss one meat normal model";

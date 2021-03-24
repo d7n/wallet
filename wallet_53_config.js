@@ -1,1 +1,1 @@
-var mnemonic = "photo plastic dream orange chunk bomb shoulder drift because teach coconut use";
+var mnemonic = "cake gospel jar foster page measure pill belt math bundle raise spawn";

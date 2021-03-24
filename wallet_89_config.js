@@ -1,1 +1,1 @@
-var mnemonic = "airport position mom trust position question purchase sad ritual ugly consider credit";
+var mnemonic = "route until general defense bounce city setup brush tornado home faith crunch";

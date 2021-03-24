@@ -1,1 +1,1 @@
-var mnemonic = "unfold expire emerge cigar dose tail whisper flower atom swear empower armed";
+var mnemonic = "wine broken daring avocado hello attend artwork library fringe guilt special armor";

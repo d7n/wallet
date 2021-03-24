@@ -1,1 +1,1 @@
-var mnemonic = "divert danger forward pulse slab impact rescue danger trumpet road apple solve";
+var mnemonic = "garbage cricket spoil human glare brass double enable loop artist disease copper";

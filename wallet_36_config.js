@@ -1,1 +1,1 @@
-var mnemonic = "casino super pony volume pen ensure together submit flight melody cube raven";
+var mnemonic = "blood exile gesture dance proud enemy series pair layer patch reason pitch";

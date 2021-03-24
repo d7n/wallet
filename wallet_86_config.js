@@ -1,1 +1,1 @@
-var mnemonic = "timber culture exclude ladder problem exile bitter mask soup exit toward velvet";
+var mnemonic = "govern journey inside smooth motor slab street sun diet team note raise";

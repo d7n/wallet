@@ -1,1 +1,1 @@
-var mnemonic = "man cube powder spend blanket guard bullet priority sister absent verb hungry";
+var mnemonic = "oblige trip casual grant nut purse price ugly outer habit grant another";

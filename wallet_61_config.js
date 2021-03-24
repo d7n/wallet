@@ -1,1 +1,1 @@
-var mnemonic = "science coast borrow worry saddle dune habit garlic best virus desk this";
+var mnemonic = "female interest twelve valley quality weapon echo hello number conduct romance pistol";

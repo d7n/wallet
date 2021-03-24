@@ -1,1 +1,1 @@
-var mnemonic = "horror gate express exercise cloud length grace pear web clutch exercise wrist";
+var mnemonic = "deputy material awkward public donate grant awful thing kiwi opinion want cattle";

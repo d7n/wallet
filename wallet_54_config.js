@@ -1,1 +1,1 @@
-var mnemonic = "fiscal undo barely orchard grape travel hello dwarf survey eternal uniform knee";
+var mnemonic = "upon october stairs team disorder live game stone custom spare polar vivid";

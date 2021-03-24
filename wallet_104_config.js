@@ -1,1 +1,1 @@
-var mnemonic = "absent wrap rural hour cool blue recipe morning share audit sunset reform";
+var mnemonic = "report fatal route head prize dice consider north guitar obscure volume hundred";

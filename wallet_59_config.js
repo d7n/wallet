@@ -1,1 +1,1 @@
-var mnemonic = "jeans genuine mutual defy leg often attitude method cricket exist melody abuse";
+var mnemonic = "chair elder swim ring fine hold brain devote toy infant until rain";

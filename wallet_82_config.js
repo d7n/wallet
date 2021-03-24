@@ -1,1 +1,1 @@
-var mnemonic = "prepare cave poet sponsor follow tell dizzy evolve father place absorb disease";
+var mnemonic = "enroll sister usage harbor also push load dust purpose gasp garbage fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "census pistol cigar favorite bamboo again grape sunny image twice shrug strike";
+var mnemonic = "six crystal say october flip roast sunset tumble space relief train monitor";

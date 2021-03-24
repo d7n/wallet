@@ -1,1 +1,1 @@
-var mnemonic = "essay maid congress fall tooth ozone start faculty silk similar candy follow";
+var mnemonic = "asset boil anxiety tooth spice trial fault mutual tunnel unable car control";

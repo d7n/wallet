@@ -1,1 +1,1 @@
-var mnemonic = "swap curtain space custom document remain entire kingdom census mimic garage trap";
+var mnemonic = "rain link heart recipe control kidney sign chuckle holiday gym fiscal situate";

@@ -1,1 +1,1 @@
-var mnemonic = "chef quiz hamster balance purchase parrot dinner rally rent toy eternal cattle";
+var mnemonic = "idle bulk rhythm morning scene vibrant matrix curve claim vibrant purity erase";

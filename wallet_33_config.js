@@ -1,1 +1,1 @@
-var mnemonic = "appear matter urge fantasy practice half happy rubber focus perfect net raven";
+var mnemonic = "strategy dolphin slam glad trade video portion total enlist vote vicious vote";

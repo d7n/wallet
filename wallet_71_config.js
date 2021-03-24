@@ -1,1 +1,1 @@
-var mnemonic = "horse cat magic other glass fire always riot mirror bronze season test";
+var mnemonic = "borrow amount idea wrist eagle actress keen mixture youth grass order problem";

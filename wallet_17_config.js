@@ -1,1 +1,1 @@
-var mnemonic = "clutch library speed someone hill other satoshi prevent round ready talk improve";
+var mnemonic = "rocket escape produce apart pen boat jar trumpet airport solution radar song";

@@ -1,1 +1,1 @@
-var mnemonic = "budget hint banner shed census width poverty profit close truth mango hazard";
+var mnemonic = "grief reflect scale motor check void logic stick sudden program huge true";

@@ -1,1 +1,1 @@
-var mnemonic = "jump juice point talk desk movie drastic clever earn loud ask tomorrow";
+var mnemonic = "enough feature ask you quick hundred quiz avoid agree escape case olympic";

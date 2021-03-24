@@ -1,1 +1,1 @@
-var mnemonic = "echo curtain knock left fall artefact light provide price regret sweet repair";
+var mnemonic = "employ kangaroo view portion spring trial rescue update spare chicken bachelor throw";

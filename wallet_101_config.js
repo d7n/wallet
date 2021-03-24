@@ -1,1 +1,1 @@
-var mnemonic = "bargain win crazy globe siege tiny inhale online grape list scheme gas";
+var mnemonic = "maple girl sweet setup donkey tape library actual claim panther candy inherit";

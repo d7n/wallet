@@ -1,1 +1,1 @@
-var mnemonic = "until suggest arch brush eight job faculty icon cradle aware edge mixed";
+var mnemonic = "eight lift ranch eyebrow kiwi under ice quote cage ship velvet toss";

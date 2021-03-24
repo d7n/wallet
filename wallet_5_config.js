@@ -1,1 +1,1 @@
-var mnemonic = "angry boost favorite spin dolphin hold ethics bind depth fence submit waste";
+var mnemonic = "fever eye piece tone deer ancient shrimp chapter broken annual scissors skirt";

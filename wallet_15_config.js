@@ -1,1 +1,1 @@
-var mnemonic = "bundle album grape lesson industry gaze start wrist fault wine beef cannon";
+var mnemonic = "token warm abuse swap lab plastic club vanish dirt creek know swamp";

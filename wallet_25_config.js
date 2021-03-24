@@ -1,1 +1,1 @@
-var mnemonic = "dad develop amused duty also foot column circle ozone glance muffin fog";
+var mnemonic = "silver design inherit stumble umbrella congress heart culture female suspect muffin cause";

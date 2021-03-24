@@ -1,1 +1,1 @@
-var mnemonic = "capable asthma culture airport dwarf walk year strike defense remember know enlist";
+var mnemonic = "era genuine awesome choose mixed fault come cover wool material during diagram";
