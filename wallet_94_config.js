@@ -1,1 +1,1 @@
-var mnemonic = "wing learn venue exit pride more journey diamond employ coach dune snap";
+var mnemonic = "lock fancy donate shell arrow vapor polar script portion oppose tube awake";

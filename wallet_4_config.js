@@ -1,1 +1,1 @@
-var mnemonic = "century spray exile rookie wait regret advance sign distance sample switch favorite";
+var mnemonic = "leader buffalo tourist clown hunt frozen marriage child vivid aware lemon advance";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy dash wing people episode peasant midnight jeans tattoo sadness off help";
+var mnemonic = "jaguar delay fossil cool valid canoe hospital weasel section actual display prison";

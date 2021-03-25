@@ -1,1 +1,1 @@
-var mnemonic = "human canal school upper naive merry mesh nose dog combine person spike";
+var mnemonic = "age symbol uncover abandon distance fork bundle hand marriage onion lecture tag";

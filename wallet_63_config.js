@@ -1,1 +1,1 @@
-var mnemonic = "repeat general trade hill between melt monitor few leave margin plate walk";
+var mnemonic = "width project cable add album vault forget month music spoil bone friend";

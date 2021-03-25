@@ -1,1 +1,1 @@
-var mnemonic = "image pole coral spider permit unique cable arrive clap truly critic salmon";
+var mnemonic = "planet mobile eternal predict obey aerobic prepare explain civil canoe pipe sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "scout access weird bottom index move ghost night scout quote unusual neutral";
+var mnemonic = "jump erupt level hurt state deposit idle scatter spot high satoshi orange";

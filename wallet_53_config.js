@@ -1,1 +1,1 @@
-var mnemonic = "switch bind eagle tell suspect issue enemy asset jump ranch access address";
+var mnemonic = "language embrace dog guard abandon refuse jar feed collect expect dish scheme";

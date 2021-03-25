@@ -1,1 +1,1 @@
-var mnemonic = "dry cry drink hollow explain round wish also risk enlist hundred insane";
+var mnemonic = "odor forget curious mask mask curtain island arch must galaxy later tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel lawn item build ensure neutral bonus rigid cat thumb produce beef";
+var mnemonic = "bargain special awesome prosper roof nothing weasel march insect treat farm bulk";

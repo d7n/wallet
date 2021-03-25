@@ -1,1 +1,1 @@
-var mnemonic = "private transfer alone remember lens vessel motion round share pottery there net";
+var mnemonic = "tag six spirit tomorrow surprise seven tube humor zebra pottery green permit";

@@ -1,1 +1,1 @@
-var mnemonic = "clip craft layer abstract sunny remove strategy taxi possible dinosaur journey suit";
+var mnemonic = "much unhappy price dash marriage hand drama cattle layer mesh dizzy crumble";

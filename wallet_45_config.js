@@ -1,1 +1,1 @@
-var mnemonic = "trial file famous appear vast topic blast trap chunk until picnic unveil";
+var mnemonic = "airport kid gadget panther seven diamond hollow digital trust stable raw picture";

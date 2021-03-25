@@ -1,1 +1,1 @@
-var mnemonic = "chest quality girl drastic cruise run tribe tissue brisk again plunge spoil";
+var mnemonic = "april benefit pistol alley nurse rubber female cereal village ready exhibit cup";

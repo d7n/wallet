@@ -1,1 +1,1 @@
-var mnemonic = "test arctic diamond appear lazy sphere utility spread bone swamp arm title";
+var mnemonic = "dash source salt must spell any promote people cake fly midnight venue";

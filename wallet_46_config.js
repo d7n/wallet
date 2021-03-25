@@ -1,1 +1,1 @@
-var mnemonic = "initial negative future tongue spoil toward post maple raw belt cannon easy";
+var mnemonic = "ripple flash weasel science history argue egg height strike away transfer ecology";

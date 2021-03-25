@@ -1,1 +1,1 @@
-var mnemonic = "mule baby egg effort wish load release claw erupt proof until hair";
+var mnemonic = "garbage birth oak soda pole knee famous auto until job demand armed";

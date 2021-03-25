@@ -1,1 +1,1 @@
-var mnemonic = "title beach peace forget race danger act smile output spread journey buffalo";
+var mnemonic = "turtle cousin race ladder apart detail save solid limb smooth carry frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "pear ordinary cement eager language festival victory into dismiss era follow venture";
+var mnemonic = "lunch treat eternal scheme park ladder that shine today strong unit ignore";

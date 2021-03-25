@@ -1,1 +1,1 @@
-var mnemonic = "fever grace subject salt punch police analyst coffee rug upgrade control elephant";
+var mnemonic = "upon episode switch nuclear code federal dry purpose torch glimpse unit carbon";

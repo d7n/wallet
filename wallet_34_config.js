@@ -1,1 +1,1 @@
-var mnemonic = "major pottery media antique rent cry trash escape evolve blouse wave bacon";
+var mnemonic = "disagree recall wedding glory twist region tide this taxi prize tortoise sleep";

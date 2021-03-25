@@ -1,1 +1,1 @@
-var mnemonic = "embark frost tissue bacon cram world banner fault predict taste property sauce";
+var mnemonic = "nothing hip alarm goddess reunion bitter capital twice energy produce insect mimic";

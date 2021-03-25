@@ -1,1 +1,1 @@
-var mnemonic = "reward banner prepare snap all spirit hammer funny evidence bulb rude emotion";
+var mnemonic = "share school traffic pill apart kind honey conduct come crop fault cherry";

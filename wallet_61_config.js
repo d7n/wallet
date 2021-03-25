@@ -1,1 +1,1 @@
-var mnemonic = "mercy client post abstract naive perfect jacket glory fish ceiling reason bitter";
+var mnemonic = "course divide inhale defy submit lock upgrade similar transfer six steak hammer";

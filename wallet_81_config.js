@@ -1,1 +1,1 @@
-var mnemonic = "addict tube window resemble elder vessel gold reduce husband genius jelly dad";
+var mnemonic = "hard pyramid pretty poet topple orange clerk hedgehog bubble rather brick cart";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew gossip remain strong six topic swap joke idea genre burger jump";
+var mnemonic = "toe depend hobby bike post slogan gift dismiss tower cycle dice either";

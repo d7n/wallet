@@ -1,1 +1,1 @@
-var mnemonic = "hope blast burst mask long smile slide draft matrix blanket bless city";
+var mnemonic = "release dress adult hospital captain roof science clean puppy robot gentle hunt";

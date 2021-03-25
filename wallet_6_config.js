@@ -1,1 +1,1 @@
-var mnemonic = "board diesel nice upper alcohol room hole door oak leader upset unlock";
+var mnemonic = "true swap deal sustain embody pond drift dirt wash child brief orient";

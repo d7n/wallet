@@ -1,1 +1,1 @@
-var mnemonic = "hungry exhibit confirm during scheme fresh another wall web hobby detect able";
+var mnemonic = "tide round find three ghost hub master trim never chalk ten donkey";

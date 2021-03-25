@@ -1,1 +1,1 @@
-var mnemonic = "key wait village notice strategy pistol wrap surface rely insect west virus";
+var mnemonic = "expect core insane admit soft lamp enact typical mesh adult arena stumble";

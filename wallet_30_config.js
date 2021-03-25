@@ -1,1 +1,1 @@
-var mnemonic = "cactus tenant siren drift cargo hair staff dish scene deliver scatter lobster";
+var mnemonic = "approve metal era great provide between diary lift pigeon nasty ripple coast";

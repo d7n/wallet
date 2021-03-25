@@ -1,1 +1,1 @@
-var mnemonic = "clog canal chunk cannon myth skirt lesson output deliver bid web estate";
+var mnemonic = "always music cave cream inmate blast grunt spray lift damp trigger shuffle";

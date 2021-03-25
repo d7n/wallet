@@ -1,1 +1,1 @@
-var mnemonic = "radar decide way issue gym tail mask uncover aim snack ordinary sell";
+var mnemonic = "ring gown fade soon concert arrange trouble online together angry find ordinary";

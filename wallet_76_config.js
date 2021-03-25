@@ -1,1 +1,1 @@
-var mnemonic = "parrot inside insect omit riot thank pottery moral alert gaze tortoise duty";
+var mnemonic = "olympic snack develop insect mushroom lobster label rocket romance army stool inherit";

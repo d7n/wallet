@@ -1,1 +1,1 @@
-var mnemonic = "seek animal aim galaxy grow ball scissors burden army sock tonight mimic";
+var mnemonic = "finish machine close sport coach vibrant salon region feel dutch utility sort";

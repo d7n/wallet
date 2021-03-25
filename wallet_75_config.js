@@ -1,1 +1,1 @@
-var mnemonic = "absorb throw lobster flag enough parent slogan ability wish push athlete never";
+var mnemonic = "dawn weird vessel wrist sail style couch mobile tank invite kind taste";

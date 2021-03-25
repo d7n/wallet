@@ -1,1 +1,1 @@
-var mnemonic = "visa hover gap flip cheap joy candy hidden sleep shove almost width";
+var mnemonic = "trick wife rookie vocal improve claw cave feel bundle yellow satisfy park";

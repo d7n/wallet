@@ -1,1 +1,1 @@
-var mnemonic = "voice brief time secret silver pelican receive bronze solid before attract paper";
+var mnemonic = "portion trend sand leader emotion spoon invest desert entry square uncle human";

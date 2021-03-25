@@ -1,1 +1,1 @@
-var mnemonic = "sick border travel beef crack author donor pipe match myself black pyramid";
+var mnemonic = "knife code woman where develop divorce impose child push cart trend solution";

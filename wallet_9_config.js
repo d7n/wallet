@@ -1,1 +1,1 @@
-var mnemonic = "lobster cheese pride grace small mixture diesel bronze bless speak wedding inherit";
+var mnemonic = "marine quick message random skate stand spatial pink flash aunt hill stumble";

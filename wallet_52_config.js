@@ -1,1 +1,1 @@
-var mnemonic = "bacon advice year scissors holiday dolphin trade elegant torch broken blanket hamster";
+var mnemonic = "boss patrol husband miss brass seat response crunch tired wet word alley";

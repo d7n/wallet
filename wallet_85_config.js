@@ -1,1 +1,1 @@
-var mnemonic = "focus snow govern switch gorilla wave area orbit tunnel juice bottom income";
+var mnemonic = "eager submit liquid inner riot purchase repair style code bind figure grow";

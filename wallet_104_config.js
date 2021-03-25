@@ -1,1 +1,1 @@
-var mnemonic = "raven phone oppose spawn stay nominee domain evoke hazard mention mix between";
+var mnemonic = "trend relief cloth weasel lobster price answer impose field gas drum used";

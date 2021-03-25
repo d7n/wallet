@@ -1,1 +1,1 @@
-var mnemonic = "question corn trap custom pact erode foster opera cat there eyebrow business";
+var mnemonic = "lesson latin brave wink joke uniform maze away pet violin verb luggage";

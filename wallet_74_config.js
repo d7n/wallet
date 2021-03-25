@@ -1,1 +1,1 @@
-var mnemonic = "bone neutral faith elephant dance scene remove depth resource rate crash relax";
+var mnemonic = "cover funny senior dry alley oil jacket mandate expire wolf magnet crash";

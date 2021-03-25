@@ -1,1 +1,1 @@
-var mnemonic = "trophy suspect goddess happy other gas put panel insane toy enrich deputy";
+var mnemonic = "camera ancient evoke artist upset priority harvest often please raven assault cable";

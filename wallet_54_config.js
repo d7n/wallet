@@ -1,1 +1,1 @@
-var mnemonic = "topic card saddle monster into wagon lucky nominee nest milk strategy club";
+var mnemonic = "napkin response fetch warm regular biology pulse camera crouch age half more";

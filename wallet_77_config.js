@@ -1,1 +1,1 @@
-var mnemonic = "moment learn supreme system pony expose sea also only crane mean limit";
+var mnemonic = "tribe improve gate camera rail hawk unable license pioneer empower member scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor run ride demise upset tower dismiss inhale fat borrow expect orphan";
+var mnemonic = "sting few ticket light concert reform trip power economy capital trophy still";

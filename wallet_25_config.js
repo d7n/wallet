@@ -1,1 +1,1 @@
-var mnemonic = "advice midnight unknown liquid giant rival inject tape allow rate object pear";
+var mnemonic = "car sand minor giant turn ethics skin hero split minor able apple";

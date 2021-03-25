@@ -1,1 +1,1 @@
-var mnemonic = "battle mechanic wing galaxy asset load dirt announce harvest water nephew shine";
+var mnemonic = "midnight buddy rubber stool box long silly unable tongue stool abandon reopen";

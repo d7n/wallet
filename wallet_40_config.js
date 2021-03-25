@@ -1,1 +1,1 @@
-var mnemonic = "bronze pilot turn jacket attitude fragile enter shoulder fringe case sound receive";
+var mnemonic = "wonder raven indicate trim retire casino silver near direct sponsor exclude secret";

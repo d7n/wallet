@@ -1,1 +1,1 @@
-var mnemonic = "sound swallow camp icon thrive job ridge nominee medal final patch aisle";
+var mnemonic = "actor distance initial school toe blush awkward bachelor purse upon network wolf";

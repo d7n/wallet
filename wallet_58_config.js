@@ -1,1 +1,1 @@
-var mnemonic = "planet filter brisk pepper short question gentle shed merge soul oven cruise";
+var mnemonic = "hybrid quiz element offer ten grow aisle embrace team foster miracle inquiry";

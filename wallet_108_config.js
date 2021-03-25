@@ -1,1 +1,1 @@
-var mnemonic = "ball excite hip pupil prepare famous endless receive sauce win cinnamon athlete";
+var mnemonic = "library bamboo pride battle green rain guitar window stay unaware cross usage";

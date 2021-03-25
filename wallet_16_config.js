@@ -1,1 +1,1 @@
-var mnemonic = "term heart stable silent disorder recall goddess fox silk gorilla review garment";
+var mnemonic = "front seek fancy rib juice blame soup trumpet into gauge pioneer survey";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal foam virus theory rabbit intact mother special accident fiction chimney enter";
+var mnemonic = "spoon cricket trust mail review toss fade electric frequent news goose know";

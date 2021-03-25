@@ -1,1 +1,1 @@
-var mnemonic = "diary average essay mask guilt nest flight session acoustic foam same hello";
+var mnemonic = "whip inflict shallow post repeat traffic field glare series connect word tail";

@@ -1,1 +1,1 @@
-var mnemonic = "bring honey chunk recycle few detail industry leave bronze sugar spatial immune";
+var mnemonic = "combine original minimum soul basic recipe warrior boss cabin over retreat lady";

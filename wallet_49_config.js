@@ -1,1 +1,1 @@
-var mnemonic = "torch original dress wall fiscal boy reflect slender enhance sheriff asthma worth";
+var mnemonic = "steak survey dynamic arctic syrup remember sword actress glance danger victory account";

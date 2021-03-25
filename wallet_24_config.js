@@ -1,1 +1,1 @@
-var mnemonic = "text nurse tilt evidence bitter nasty hidden panic add ball hub snow";
+var mnemonic = "belt put base decide bamboo sand tank usage nothing crew alter neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "hip spray cat slim submit mother obey next magnet mean main radio";
+var mnemonic = "trend buffalo tip minor siege pledge neutral panic say boost pioneer lottery";

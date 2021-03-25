@@ -1,1 +1,1 @@
-var mnemonic = "survey sick link front advice chunk patch other salt marble private giggle";
+var mnemonic = "march deny word slight critic olive sad peanut breeze need kitten arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "script auto join task property common margin name depend over avocado topic";
+var mnemonic = "thrive indicate elite divorce tissue middle wine fluid social slot harvest satoshi";

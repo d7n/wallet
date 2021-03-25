@@ -1,1 +1,1 @@
-var mnemonic = "amused salt know prepare drink member tower ability program alpha crisp happy";
+var mnemonic = "best swarm garment build team resist knee feature people annual outer ladder";

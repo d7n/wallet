@@ -1,1 +1,1 @@
-var mnemonic = "judge sign kind ring hurdle filter screen plate year need piano often";
+var mnemonic = "wine potato inform melody hundred jaguar build width violin media two struggle";

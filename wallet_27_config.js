@@ -1,1 +1,1 @@
-var mnemonic = "fruit title orchard excuse total hello prize donkey actor finish around friend";
+var mnemonic = "boy scale wedding stamp dove rigid alcohol bless mushroom foam absent order";

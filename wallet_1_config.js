@@ -1,1 +1,1 @@
-var mnemonic = "liquid tunnel fatal element width owner spend tornado scene pepper artefact step";
+var mnemonic = "image brisk unveil flight boost earth advance exhibit parade plastic renew people";

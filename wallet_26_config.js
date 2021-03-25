@@ -1,1 +1,1 @@
-var mnemonic = "safe sea exotic sweet lion weird sing bullet fee example nerve crisp";
+var mnemonic = "hour number happy joy resist sibling club desk ordinary pepper hawk crash";

@@ -1,1 +1,1 @@
-var mnemonic = "open track flat box lonely humble odor caught rally liquid forest foam";
+var mnemonic = "page surprise permit bike core protect salad engine firm liberty leopard thought";

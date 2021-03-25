@@ -1,1 +1,1 @@
-var mnemonic = "require garbage predict divert tone carry blade below calm quote zone advance";
+var mnemonic = "begin stadium gauge champion frost obey song skirt help brass proud squeeze";

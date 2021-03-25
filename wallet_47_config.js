@@ -1,1 +1,1 @@
-var mnemonic = "bulk gap cup runway torch talk become shallow impose home surprise logic";
+var mnemonic = "useful cement filter neck genre remain bunker neglect retreat judge strong globe";

@@ -1,1 +1,1 @@
-var mnemonic = "climb arch quality brief grab cake scan twist around walnut cat boil";
+var mnemonic = "bronze pupil husband enough olive cat normal mixed enjoy face feel just";

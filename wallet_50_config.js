@@ -1,1 +1,1 @@
-var mnemonic = "essay sound donkey sorry wink reform reduce cannon story elevator panel arrow";
+var mnemonic = "uphold crash record talk key wedding quote return easily habit sustain aim";

@@ -1,1 +1,1 @@
-var mnemonic = "badge vapor avoid program real venture grid regular million minute analyst common";
+var mnemonic = "fan almost crew harsh purse chief useful claim trigger toe vapor fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "angry predict minimum photo hockey magnet humble panel also rally harbor scrap";
+var mnemonic = "salute lend memory grit problem blood monitor obtain execute romance panic carry";

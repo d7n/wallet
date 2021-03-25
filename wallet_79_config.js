@@ -1,1 +1,1 @@
-var mnemonic = "three achieve inspire sister inhale rain nuclear autumn bread cruel merit amazing";
+var mnemonic = "rack trash crouch thought almost tattoo before river joy sun weather sand";

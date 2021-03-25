@@ -1,1 +1,1 @@
-var mnemonic = "monitor silent first language promote security february elite cart deal convince shallow";
+var mnemonic = "drop search deliver kidney fade scheme giant rib country artefact device drip";

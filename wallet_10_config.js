@@ -1,1 +1,1 @@
-var mnemonic = "million upon often jacket wire young draft fresh steak merge quality speak";
+var mnemonic = "jaguar fresh oven express enable stereo eight crack crater cancel gravity paper";

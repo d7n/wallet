@@ -1,1 +1,1 @@
-var mnemonic = "castle winter subway buzz weasel liberty summer drill play divert torch peace";
+var mnemonic = "spider vote cave pupil buddy wish inherit walnut swamp will trigger weasel";

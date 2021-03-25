@@ -1,1 +1,1 @@
-var mnemonic = "palace mobile peasant motion credit pair jaguar limit sort antique idle stable";
+var mnemonic = "craft cheap race stadium jewel ensure smile section gesture hole very sorry";

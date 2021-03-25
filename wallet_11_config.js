@@ -1,1 +1,1 @@
-var mnemonic = "earth clump cherry ticket legend typical cake tip case rent claim lobster";
+var mnemonic = "pioneer inhale onion meat artwork margin solar over pitch cup burger jewel";

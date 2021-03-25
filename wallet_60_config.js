@@ -1,1 +1,1 @@
-var mnemonic = "mansion barrel mass draft grant theme close buyer farm whale muffin defy";
+var mnemonic = "valid despair pool violin snake noise economy nephew youth actor differ genre";

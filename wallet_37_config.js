@@ -1,1 +1,1 @@
-var mnemonic = "bicycle bleak kidney drift bacon suffer ocean illegal measure retire will order";
+var mnemonic = "caution advance actor anger miracle gadget win math brief level powder citizen";

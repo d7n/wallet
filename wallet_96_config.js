@@ -1,1 +1,1 @@
-var mnemonic = "assist ostrich bright cannon help gasp today cricket session upgrade forest urge";
+var mnemonic = "mixture price kingdom subway agree predict swift receive define together grain head";

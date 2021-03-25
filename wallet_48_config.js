@@ -1,1 +1,1 @@
-var mnemonic = "hover actor impose panic apart side segment pony arrest joke casino rare";
+var mnemonic = "bag strike female spice nation worry slight push rain cup engage raven";

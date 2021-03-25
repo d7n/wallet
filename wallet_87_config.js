@@ -1,1 +1,1 @@
-var mnemonic = "slice fox shadow tiger angry few shrug soccer mutual cement elder soldier";
+var mnemonic = "fiction auction orphan rail analyst shove spin pipe mammal dry captain town";

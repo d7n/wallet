@@ -1,1 +1,1 @@
-var mnemonic = "offer night want street final gain face boring price like portion you";
+var mnemonic = "initial diamond help again cruise bonus poet bike tunnel half legend food";

@@ -1,1 +1,1 @@
-var mnemonic = "biology say bench palm mercy sugar tennis modify siege bring news extra";
+var mnemonic = "diary rain bubble young box antenna cycle pilot sport cry canvas thing";

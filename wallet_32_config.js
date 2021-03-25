@@ -1,1 +1,1 @@
-var mnemonic = "one valley spider nest patient deny sense reform boss catch cage erupt";
+var mnemonic = "purchase foot tree upon rain elegant whisper ahead praise output crumble play";

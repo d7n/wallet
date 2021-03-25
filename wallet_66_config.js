@@ -1,1 +1,1 @@
-var mnemonic = "pause evidence tuition shy evoke stadium relax magic mercy glare word label";
+var mnemonic = "exchange oil weekend parade dragon fee remain lava snow coil phrase engage";

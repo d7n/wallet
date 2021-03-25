@@ -1,1 +1,1 @@
-var mnemonic = "rigid manual naive betray shrimp elephant alcohol gossip alpha fly safe lesson";
+var mnemonic = "alarm surround expect wish sight wood tomato little coin phone connect couple";
