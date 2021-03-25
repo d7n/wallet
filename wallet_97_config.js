@@ -1,1 +1,1 @@
-var mnemonic = "spring raw voice push fade foil horn quote place panther confirm aerobic";
+var mnemonic = "six couch dial street tornado car grab crane toddler grid edit spoon";

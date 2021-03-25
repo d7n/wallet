@@ -1,1 +1,1 @@
-var mnemonic = "control audit peace off square before solar deal during confirm catalog shove";
+var mnemonic = "shadow order slot arctic pattern naive jump march hockey black garbage insane";

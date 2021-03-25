@@ -1,1 +1,1 @@
-var mnemonic = "book indicate pull drink hidden car addict risk supreme project gate sadness";
+var mnemonic = "guard dwarf tag install left innocent drop layer add floor dwarf flock";

@@ -1,1 +1,1 @@
-var mnemonic = "happy edge swap dog sketch chest much embody easily dash head good";
+var mnemonic = "celery sentence eye smooth young swarm wage view cupboard style destroy that";

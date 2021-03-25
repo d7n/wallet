@@ -1,1 +1,1 @@
-var mnemonic = "broken actress aim curve dry cave bring tiny oil virtual amateur excuse";
+var mnemonic = "goat worth favorite domain since giraffe shed protect inquiry border just absorb";

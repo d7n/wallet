@@ -1,1 +1,1 @@
-var mnemonic = "junk brick business lens twelve tattoo what miss cream myth stadium size";
+var mnemonic = "express jewel enjoy company school output loud soda stay decline nominee heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt glass soft brass course play bag oval voyage liquid charge palace";
+var mnemonic = "mention trial lift cage mask tunnel pipe popular truth safe shiver wreck";

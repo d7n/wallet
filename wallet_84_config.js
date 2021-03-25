@@ -1,1 +1,1 @@
-var mnemonic = "similar hunt canoe course glass inside sorry spoil ribbon similar disease start";
+var mnemonic = "apology fossil human theory online cruise hollow eternal cash yard message pull";

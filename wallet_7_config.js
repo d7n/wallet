@@ -1,1 +1,1 @@
-var mnemonic = "deer over course artwork nephew lab worth walnut deputy solar bring mercy";
+var mnemonic = "cement axis rack local crouch occur where check meat educate gravity credit";

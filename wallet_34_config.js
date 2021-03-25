@@ -1,1 +1,1 @@
-var mnemonic = "virtual devote write group urban they corn outer pull air various balance";
+var mnemonic = "copy boat speak grant lamp mansion plunge region face garbage drink trim";

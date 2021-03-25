@@ -1,1 +1,1 @@
-var mnemonic = "crucial exchange pear lyrics code toward home wonder duty chef talent tourist";
+var mnemonic = "loud access belt lawsuit evoke chronic write lens ginger cream myself repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket leaf grid attack heart section quick kiwi wine shaft heavy exotic";
+var mnemonic = "multiply pride umbrella sudden edge slender spider vocal recall van refuse salmon";

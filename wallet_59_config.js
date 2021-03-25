@@ -1,1 +1,1 @@
-var mnemonic = "evolve paper faculty mean gain canyon toast portion rebuild rule rare begin";
+var mnemonic = "merry famous afford powder brush suffer rocket equip draft invest indicate remain";

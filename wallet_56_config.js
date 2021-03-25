@@ -1,1 +1,1 @@
-var mnemonic = "tennis sort assault creek chaos pact truck quote matter life plunge secret";
+var mnemonic = "trim ride square federal major agree idle mandate lumber ritual arrow silly";

@@ -1,1 +1,1 @@
-var mnemonic = "film trouble property cram coyote enrich cram loan job junk tomato coral";
+var mnemonic = "surface check trial wool lyrics smooth artist mirror vicious foam foil render";

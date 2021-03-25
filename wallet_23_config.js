@@ -1,1 +1,1 @@
-var mnemonic = "thing taste wonder spike head defy suggest fiction bean genius certain access";
+var mnemonic = "mercy tobacco manual tiny hammer exhaust object loan junk urban stomach renew";

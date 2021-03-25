@@ -1,1 +1,1 @@
-var mnemonic = "lottery drift into check follow sting elite nasty foam boat shoulder uncover";
+var mnemonic = "knee middle alone answer bamboo equip extend adult share motion output bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish gain work alone civil pudding frost author swift mushroom near arena";
+var mnemonic = "train satoshi farm quick october comfort muffin senior cake furnace post cable";

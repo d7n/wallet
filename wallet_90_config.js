@@ -1,1 +1,1 @@
-var mnemonic = "easily sorry forget include mistake oil wine reduce nothing truly process enjoy";
+var mnemonic = "help fortune insect action normal enlist exchange poet bless lounge escape frown";

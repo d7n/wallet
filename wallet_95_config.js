@@ -1,1 +1,1 @@
-var mnemonic = "all review bright service spell airport cement civil myself alert potato situate";
+var mnemonic = "plastic twist solve impose filter small enjoy arctic hole check keep detail";

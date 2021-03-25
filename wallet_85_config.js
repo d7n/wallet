@@ -1,1 +1,1 @@
-var mnemonic = "over square suffer ivory age tongue trim meat medal gloom able multiply";
+var mnemonic = "mixed useless satisfy two globe erosion meadow clever bright finish body final";

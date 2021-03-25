@@ -1,1 +1,1 @@
-var mnemonic = "steak before toward under pilot snap hazard violin essence aim odor faint";
+var mnemonic = "cigar circle replace chronic grit marine theory pair trap ritual sock before";

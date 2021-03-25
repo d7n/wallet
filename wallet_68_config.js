@@ -1,1 +1,1 @@
-var mnemonic = "slim nurse argue cost wedding any design victory depart boss ozone limit";
+var mnemonic = "steak very sick mind kite yard deal boat cupboard kit emotion raise";

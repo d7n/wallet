@@ -1,1 +1,1 @@
-var mnemonic = "gravity erode awful train jump wrong maze salon orchard motor unfair problem";
+var mnemonic = "toddler grape because crunch basic when wrap neck cable sketch bag oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep discover frozen bridge seminar team kangaroo daring net divorce defense distance";
+var mnemonic = "final blind parrot daring devote harvest expose surround include enhance marine busy";

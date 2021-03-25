@@ -1,1 +1,1 @@
-var mnemonic = "hospital faint squeeze market wild alley grow gadget scissors one dignity this";
+var mnemonic = "soon battle emotion various woman tumble rain call evidence first please ginger";

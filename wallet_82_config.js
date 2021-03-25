@@ -1,1 +1,1 @@
-var mnemonic = "monitor pact bulb social solution trial frozen chalk fantasy valve reduce trap";
+var mnemonic = "athlete spot satoshi road stove acoustic build advice wash okay receive laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle symbol wood reunion fashion mixed happy stay exit poem around envelope";
+var mnemonic = "sense race inmate grid describe tonight pluck fringe empower zebra fat damp";

@@ -1,1 +1,1 @@
-var mnemonic = "south pluck thank twenty blind disorder daughter cube math dash shiver across";
+var mnemonic = "pretty next add silent wheat weasel fresh awesome fade cat human pilot";

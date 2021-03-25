@@ -1,1 +1,1 @@
-var mnemonic = "fat cement cable aisle favorite priority diesel naive wealth minor credit match";
+var mnemonic = "bus fun pumpkin weather dune prison today spike foil hollow tag another";

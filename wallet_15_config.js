@@ -1,1 +1,1 @@
-var mnemonic = "play initial tide garage wine unfair involve adapt basket fitness develop mixture";
+var mnemonic = "chest gap logic lunar oxygen bunker hold lamp olympic comfort insane canoe";

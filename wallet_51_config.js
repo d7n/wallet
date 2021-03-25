@@ -1,1 +1,1 @@
-var mnemonic = "used banner swift baby hidden twin asthma effort error fiber mule toy";
+var mnemonic = "unusual upper oil find dry attend peasant shove prefer rocket correct degree";

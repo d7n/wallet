@@ -1,1 +1,1 @@
-var mnemonic = "junk average film moral build story abuse lady cradle love present reopen";
+var mnemonic = "joke tortoise erase wood curtain test feature usual young blossom club black";

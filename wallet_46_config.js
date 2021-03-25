@@ -1,1 +1,1 @@
-var mnemonic = "labor modify enter plate capable license stomach nice column action flee denial";
+var mnemonic = "round favorite improve buzz ramp ozone outer tornado close wave attend betray";

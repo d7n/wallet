@@ -1,1 +1,1 @@
-var mnemonic = "gasp smile distance oxygen song abstract pilot merry client shop castle firm";
+var mnemonic = "tomorrow brief element better surge virus crucial another speak squirrel age bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "empty orient aunt october kangaroo throw list cry obey zoo gym describe";
+var mnemonic = "yellow offer permit leg chief eight loop noble picture shrug soon obvious";

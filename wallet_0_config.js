@@ -1,1 +1,1 @@
-var mnemonic = "purpose void day injury nurse mandate used lamp custom category rely family";
+var mnemonic = "dry climb mammal vocal tourist barely dragon staff penalty fiber excess future";

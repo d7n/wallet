@@ -1,1 +1,1 @@
-var mnemonic = "canal ketchup seven upset consider scrap gossip suggest space arch ocean change";
+var mnemonic = "device dance danger squirrel extend oblige segment minor violin affair lava pool";

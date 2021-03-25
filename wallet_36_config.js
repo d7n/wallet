@@ -1,1 +1,1 @@
-var mnemonic = "cable roast spray search curious pyramid dune vocal emotion school year pigeon";
+var mnemonic = "involve shiver element hat pottery galaxy quote before maid fog angle wave";

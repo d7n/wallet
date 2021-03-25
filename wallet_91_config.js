@@ -1,1 +1,1 @@
-var mnemonic = "denial sibling cushion hidden very limb police idea keen school risk despair";
+var mnemonic = "message mail another leg save satoshi program dwarf boss yard escape arrange";

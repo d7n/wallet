@@ -1,1 +1,1 @@
-var mnemonic = "exotic desk town lottery rural soul already typical ranch multiply over opinion";
+var mnemonic = "apart crucial drum crawl corn moral payment february leader glory promote control";

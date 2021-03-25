@@ -1,1 +1,1 @@
-var mnemonic = "what deputy sure auction control fiction want outside security jump scrub anger";
+var mnemonic = "receive drive wrestle frog forum ivory success jelly finish bracket match text";

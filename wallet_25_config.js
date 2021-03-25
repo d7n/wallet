@@ -1,1 +1,1 @@
-var mnemonic = "proud guard tackle balcony cake chief kid matter mechanic upgrade planet comic";
+var mnemonic = "velvet mountain brave argue pair boat wise oak add capital okay cinnamon";

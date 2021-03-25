@@ -1,1 +1,1 @@
-var mnemonic = "rice become foot young galaxy owner trend idle access high usage have";
+var mnemonic = "answer gown arm goat people pig divorce loan code fork square inherit";

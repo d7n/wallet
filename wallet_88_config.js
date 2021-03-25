@@ -1,1 +1,1 @@
-var mnemonic = "embark cheap figure opera left december patch rack hungry hurt demand attitude";
+var mnemonic = "flip essay minimum law vintage search inflict student essay sure word push";

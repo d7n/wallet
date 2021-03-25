@@ -1,1 +1,1 @@
-var mnemonic = "essay bread vicious enjoy galaxy onion fault problem identify kingdom identify potato";
+var mnemonic = "unlock limit until race wool fine shine crucial cover prevent stick same";

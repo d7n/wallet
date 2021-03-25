@@ -1,1 +1,1 @@
-var mnemonic = "shaft member december venture muffin maid stereo base bracket drastic couple bus";
+var mnemonic = "brief kite december another lab mix tone future album exchange slush weapon";

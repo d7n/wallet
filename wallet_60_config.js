@@ -1,1 +1,1 @@
-var mnemonic = "find suffer snake olympic first keen drive embrace feature diagram holiday notice";
+var mnemonic = "tattoo pitch now pottery globe million sight volcano tunnel neglect they fun";

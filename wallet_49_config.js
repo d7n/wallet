@@ -1,1 +1,1 @@
-var mnemonic = "resemble sheriff must filter scale happy lock theme adult private cross budget";
+var mnemonic = "clap slot job narrow emerge cruise public life panther spare obscure layer";

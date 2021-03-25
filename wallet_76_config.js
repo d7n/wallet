@@ -1,1 +1,1 @@
-var mnemonic = "fuel valid year sniff witness chase mixed acquire rich animal casino fatal";
+var mnemonic = "organ chef hazard peasant become tragic owner nature end treat lava split";

@@ -1,1 +1,1 @@
-var mnemonic = "verify harsh topic equal you cloud tongue era impact busy birth element";
+var mnemonic = "pepper glimpse bronze alpha science always sphere soup slush soon tiny farm";

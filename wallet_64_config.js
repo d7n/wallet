@@ -1,1 +1,1 @@
-var mnemonic = "easy cloth talk left kick dilemma casino near later relief aisle estate";
+var mnemonic = "upset bachelor kitchen buzz border dad supply van horse craft vendor yard";

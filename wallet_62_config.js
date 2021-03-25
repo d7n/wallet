@@ -1,1 +1,1 @@
-var mnemonic = "elevator glove sort dentist blind goose exist service cage sleep glide finger";
+var mnemonic = "agent dream team trumpet fever carbon young dose ride cotton grow retreat";

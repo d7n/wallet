@@ -1,1 +1,1 @@
-var mnemonic = "almost meat cattle climb govern split choice remind lawsuit into turkey squeeze";
+var mnemonic = "sun harvest banner wash remain increase enter liar panel file excuse decorate";

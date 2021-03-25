@@ -1,1 +1,1 @@
-var mnemonic = "match subway fan kite indoor hospital wrestle novel ring rotate segment lava";
+var mnemonic = "traffic liquid wealth describe visual pitch column stairs course another term ocean";

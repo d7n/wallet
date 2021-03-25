@@ -1,1 +1,1 @@
-var mnemonic = "alert swear pink egg monitor gift pencil citizen rose edge rice whisper";
+var mnemonic = "almost miss skate end cage field gown bonus heavy spawn spoon duty";

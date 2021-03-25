@@ -1,1 +1,1 @@
-var mnemonic = "recall turtle royal calm alley calm bridge civil rack link assist slide";
+var mnemonic = "admit act slender tower rare ribbon history pipe chalk this decide until";

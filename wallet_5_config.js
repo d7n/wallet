@@ -1,1 +1,1 @@
-var mnemonic = "gaze system ancient glue weapon search delay educate tone shift lucky cycle";
+var mnemonic = "novel slender result heavy student calm fiction body undo globe sight genuine";

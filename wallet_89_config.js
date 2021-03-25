@@ -1,1 +1,1 @@
-var mnemonic = "where garden habit matrix intact bridge nerve salute copy immense aerobic nut";
+var mnemonic = "exercise grain title tip fun prevent food baby deer flame company wealth";

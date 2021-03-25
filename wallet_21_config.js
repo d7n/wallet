@@ -1,1 +1,1 @@
-var mnemonic = "text pulse believe combine category edit source glue corn dose depart start";
+var mnemonic = "domain raw tattoo warm amount warm mammal ripple tent thunder visit tissue";

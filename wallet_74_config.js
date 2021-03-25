@@ -1,1 +1,1 @@
-var mnemonic = "lemon summer rude empty pelican spoon wait observe charge fiction visa diary";
+var mnemonic = "mammal heart mother involve infant sound chef romance hungry goddess garbage wish";

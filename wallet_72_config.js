@@ -1,1 +1,1 @@
-var mnemonic = "loud sure song foot market cousin abstract corn tree similar give rice";
+var mnemonic = "spray movie word vague twin taxi cloud arrive write diet laundry moment";

@@ -1,1 +1,1 @@
-var mnemonic = "spread rent view sustain trend put slush achieve gold lemon pipe oak";
+var mnemonic = "choice meadow three lady illegal cake nuclear dry figure elder bring quality";

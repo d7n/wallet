@@ -1,1 +1,1 @@
-var mnemonic = "custom dose drink length nasty once update omit there universe basic scissors";
+var mnemonic = "danger wild electric evoke vital question fatal wrist circle flavor tank say";

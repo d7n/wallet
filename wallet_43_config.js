@@ -1,1 +1,1 @@
-var mnemonic = "path gospel whisper west letter weekend frown ride fan hedgehog museum unlock";
+var mnemonic = "style throw toy amateur valid entry divorce across dad word artefact expect";

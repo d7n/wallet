@@ -1,1 +1,1 @@
-var mnemonic = "bulk sail summer zone cricket guitar gun wreck hungry broken together radio";
+var mnemonic = "include culture dilemma unable govern impact play start icon carbon shoe oblige";

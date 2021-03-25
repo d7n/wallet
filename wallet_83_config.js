@@ -1,1 +1,1 @@
-var mnemonic = "decrease unable rhythm keep diagram debris involve giant axis hair table purchase";
+var mnemonic = "banana twenty napkin vehicle know analyst unlock ritual elevator present kiss picnic";

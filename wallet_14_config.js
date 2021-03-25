@@ -1,1 +1,1 @@
-var mnemonic = "airport path food open trash palace raccoon street trim chimney race flame";
+var mnemonic = "cannon divide prosper youth flower elephant polar ramp casual bulk october vendor";

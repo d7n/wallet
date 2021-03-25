@@ -1,1 +1,1 @@
-var mnemonic = "voyage abandon bachelor story mandate journey blouse filter vacuum mail inherit limit";
+var mnemonic = "reform panic swift coach submit alley velvet shove kangaroo regret recipe subway";

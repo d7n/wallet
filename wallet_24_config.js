@@ -1,1 +1,1 @@
-var mnemonic = "absent woman flee cabin east buffalo van garage laundry disorder brave hockey";
+var mnemonic = "hold cloth melody welcome eyebrow dice weird soul donkey near shop okay";

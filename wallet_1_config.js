@@ -1,1 +1,1 @@
-var mnemonic = "okay student grocery cat wrap figure cancel party shed leaf blouse energy";
+var mnemonic = "lecture cream very slide snow flush alien drum envelope hover dolphin pudding";

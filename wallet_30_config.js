@@ -1,1 +1,1 @@
-var mnemonic = "angry monster distance sing attitude snack oppose mad excite coach neutral security";
+var mnemonic = "often vicious gravity myself eyebrow tunnel hold flee cluster odor cake copy";

@@ -1,1 +1,1 @@
-var mnemonic = "blue mail diesel bonus equip blossom save this two excuse spare step";
+var mnemonic = "word twice payment ugly real toe wreck strike rate pole duck scrap";

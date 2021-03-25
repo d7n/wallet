@@ -1,1 +1,1 @@
-var mnemonic = "topple crazy focus gold provide fuel leave chuckle weekend diesel rabbit there";
+var mnemonic = "sight route soda symbol stay crunch cool dentist cloth window universe drill";

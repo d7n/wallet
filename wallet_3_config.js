@@ -1,1 +1,1 @@
-var mnemonic = "crumble soul disorder cat lizard rack tiger smart neck patrol firm scene";
+var mnemonic = "school animal ramp spirit gasp eye rail medal grow false jacket hollow";

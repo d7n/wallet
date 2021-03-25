@@ -1,1 +1,1 @@
-var mnemonic = "tuition theory ladder clump find immense child dumb cycle online resource select";
+var mnemonic = "basket sock web chase target coach sentence forward risk museum husband that";

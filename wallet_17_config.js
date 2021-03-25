@@ -1,1 +1,1 @@
-var mnemonic = "resemble empty peasant unusual pioneer satisfy seven risk gaze sun tiny engine";
+var mnemonic = "vehicle broken frog cover rent hungry maid baby marine rare mask proof";

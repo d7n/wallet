@@ -1,1 +1,1 @@
-var mnemonic = "quantum future brown grit gospel glare amount wonder nurse piece street inhale";
+var mnemonic = "require purity unit steak two rare runway flight maximum beauty maze else";

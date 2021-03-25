@@ -1,1 +1,1 @@
-var mnemonic = "early middle model wheel order match soft chair carry sleep dinosaur online";
+var mnemonic = "kingdom turtle flower mystery secret hint multiply soap disease where invest ankle";

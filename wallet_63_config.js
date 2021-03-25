@@ -1,1 +1,1 @@
-var mnemonic = "install warm yard erase mixed thrive pride odor beauty cook hover announce";
+var mnemonic = "icon accident record indoor borrow kind vehicle finish can hip episode recipe";

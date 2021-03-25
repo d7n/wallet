@@ -1,1 +1,1 @@
-var mnemonic = "van spoon glad gap excess make cat dog cement close sell depend";
+var mnemonic = "involve cute napkin pupil athlete aim stereo meat pride fancy athlete paper";

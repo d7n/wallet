@@ -1,1 +1,1 @@
-var mnemonic = "welcome degree monster surge result brick crime approve memory safe swallow figure";
+var mnemonic = "audit either deal cup degree salad warrior embrace escape rice offer style";

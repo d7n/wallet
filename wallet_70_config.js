@@ -1,1 +1,1 @@
-var mnemonic = "sauce chest rose light napkin confirm unit company evoke insane pepper fever";
+var mnemonic = "heavy liberty toilet follow prefer lounge glove rocket exclude photo tone wage";

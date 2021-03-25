@@ -1,1 +1,1 @@
-var mnemonic = "foot soup grow blast chalk fish collect lamp talk talk relief rebel";
+var mnemonic = "explain cupboard write nest depth awkward elite hammer salt attack blue hope";

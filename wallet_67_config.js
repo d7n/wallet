@@ -1,1 +1,1 @@
-var mnemonic = "slender catalog fashion unfair witness inmate canal bag area dress arch outside";
+var mnemonic = "soda dinosaur lucky message scout thing time script razor loyal eager snack";

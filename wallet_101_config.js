@@ -1,1 +1,1 @@
-var mnemonic = "pond lyrics track expose raven airport rural chimney quiz crumble project toss";
+var mnemonic = "loyal wife assume ensure empower chief flag trim spray donor saddle depart";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune maid walnut twin animal youth organ disorder top right parrot dune";
+var mnemonic = "bounce empower true garage side coast all ocean oval expect swap thank";

@@ -1,1 +1,1 @@
-var mnemonic = "improve gap trim impact equip velvet tower abandon oven decade basket property";
+var mnemonic = "force estate kangaroo abuse audit hungry bread credit year march unlock claw";

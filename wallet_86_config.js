@@ -1,1 +1,1 @@
-var mnemonic = "electric include empty panel spray fiction valley inch garage lesson enact current";
+var mnemonic = "voyage agree invite ivory lens either base hospital rocket baby isolate acoustic";

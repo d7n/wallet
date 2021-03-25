@@ -1,1 +1,1 @@
-var mnemonic = "attitude enable stove reunion wash shoe base observe primary hazard antique ancient";
+var mnemonic = "main cliff south sweet maid entire sand school circle rate fortune range";
