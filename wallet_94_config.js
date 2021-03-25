@@ -1,1 +1,1 @@
-var mnemonic = "daughter peace deny control door park art doctor diamond duck diet feel";
+var mnemonic = "pizza scare sad short focus parade pond churn scan fatigue nasty layer";

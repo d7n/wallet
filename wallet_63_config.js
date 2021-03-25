@@ -1,1 +1,1 @@
-var mnemonic = "tube predict clever mother anger rail hollow inform such diet drastic cable";
+var mnemonic = "stereo health fringe clutch husband invite prosper middle wish lesson conduct sport";

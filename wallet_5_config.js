@@ -1,1 +1,1 @@
-var mnemonic = "spy sudden explain horror still world second swift payment sniff dose also";
+var mnemonic = "save track oppose repair curious deer flush series sun between switch share";

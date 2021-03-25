@@ -1,1 +1,1 @@
-var mnemonic = "crash innocent measure beauty prize crash family hedgehog adapt mango angry solid";
+var mnemonic = "zebra fiction proof exact glare arrive they guess husband carpet view fossil";

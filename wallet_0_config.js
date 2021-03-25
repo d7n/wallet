@@ -1,1 +1,1 @@
-var mnemonic = "velvet language maze talk lucky injury rose stool tide glide glory birth";
+var mnemonic = "mention stage flight avoid field stand champion gentle bicycle asthma ridge exotic";

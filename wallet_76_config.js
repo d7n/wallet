@@ -1,1 +1,1 @@
-var mnemonic = "warrior ribbon prison column vibrant square eight october woman sing bulk vast";
+var mnemonic = "inch unit dash sausage memory frown manual claw laundry crystal review notable";

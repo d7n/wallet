@@ -1,1 +1,1 @@
-var mnemonic = "monster shed glare route blood toast error token increase cancel search frown";
+var mnemonic = "ask imitate sick rubber wise squirrel burst guess pumpkin tissue jazz diesel";

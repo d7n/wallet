@@ -1,1 +1,1 @@
-var mnemonic = "join destroy speed ceiling loyal address garment design drink endless enlist fitness";
+var mnemonic = "tomato quick uphold keen iron flee addict zone brick jacket hub oak";

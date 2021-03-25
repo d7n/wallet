@@ -1,1 +1,1 @@
-var mnemonic = "brave document sister island anger problem lottery nation prefer injury resemble waste";
+var mnemonic = "poem scrap person hat reopen squeeze once swing happy mushroom clog what";

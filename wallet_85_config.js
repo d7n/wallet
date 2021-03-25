@@ -1,1 +1,1 @@
-var mnemonic = "receive much daring stadium alley shine fashion junior menu quote soft illegal";
+var mnemonic = "cup style credit cover net jar muscle allow address rain rubber solution";

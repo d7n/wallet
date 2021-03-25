@@ -1,1 +1,1 @@
-var mnemonic = "pact length narrow lawsuit inform cycle blossom fabric upgrade recycle uncle few";
+var mnemonic = "sun employ improve snow shadow unit depth goose match flame bring deliver";

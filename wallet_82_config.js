@@ -1,1 +1,1 @@
-var mnemonic = "sort top forum office emotion panther memory desert forget figure gown salon";
+var mnemonic = "arrow firm warm sign april limb demand prefer staff first wise weekend";

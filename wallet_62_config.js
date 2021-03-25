@@ -1,1 +1,1 @@
-var mnemonic = "time quantum tooth core sentence butter canvas give copper choice canoe actress";
+var mnemonic = "husband gap frost camp dismiss produce crew pulse gauge embark mutual produce";

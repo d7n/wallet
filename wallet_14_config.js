@@ -1,1 +1,1 @@
-var mnemonic = "problem often holiday three myth unhappy snap soon matrix now cabin grape";
+var mnemonic = "invest supreme visual eyebrow place recall dream victory cloud attack pill bunker";

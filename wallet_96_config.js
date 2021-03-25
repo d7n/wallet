@@ -1,1 +1,1 @@
-var mnemonic = "drink inject vendor action forward sport slogan clip letter envelope bronze swift";
+var mnemonic = "sweet uphold cycle theme dentist network ball differ fee tray palace creek";

@@ -1,1 +1,1 @@
-var mnemonic = "walk attack inherit coral dentist height pause topple leg interest club used";
+var mnemonic = "road mimic recall pact hire slow weapon junk amateur insect pool spell";

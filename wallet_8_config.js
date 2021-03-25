@@ -1,1 +1,1 @@
-var mnemonic = "decorate goose crouch relief chaos quote remove prepare urge medal city curtain";
+var mnemonic = "follow reject hollow lecture ceiling nuclear nice grid civil rigid carpet chalk";

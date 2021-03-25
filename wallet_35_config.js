@@ -1,1 +1,1 @@
-var mnemonic = "palace option very theme trouble student truth provide kick daughter brave tissue";
+var mnemonic = "crash indicate blade float kick clog oppose tower tuition entry boring common";

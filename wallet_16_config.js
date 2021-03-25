@@ -1,1 +1,1 @@
-var mnemonic = "slim spoon unfair essay express success gap clump train regret answer outside";
+var mnemonic = "hint idle frozen assume picture siege verb gentle engage drift inside accident";

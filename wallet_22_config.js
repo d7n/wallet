@@ -1,1 +1,1 @@
-var mnemonic = "club erupt thrive chest nation street initial mobile suggest good wagon portion";
+var mnemonic = "among throw salmon already average path someone size walk mystery what write";

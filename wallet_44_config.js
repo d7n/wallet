@@ -1,1 +1,1 @@
-var mnemonic = "more stage false bird glow adapt royal miss slogan paddle zebra garage";
+var mnemonic = "nurse security sun oven note token melt chest hard pyramid tragic lake";

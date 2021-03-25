@@ -1,1 +1,1 @@
-var mnemonic = "mansion rigid palm twenty fog lend lunch fluid aware please practice hunt";
+var mnemonic = "rotate spend nurse potato whisper whisper loyal crumble action host feed express";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery kind neutral random shrug rely plug lounge depth retreat slam song";
+var mnemonic = "require loop bread tennis cloth walk energy lumber spatial chunk matrix wild";

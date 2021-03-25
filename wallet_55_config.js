@@ -1,1 +1,1 @@
-var mnemonic = "puppy farm state element alley renew kite whale flower salt window panda";
+var mnemonic = "enough pony glance much surprise toddler museum add immune love tornado scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "pact destroy control ticket mixture crazy burst soup blind rhythm often clerk";
+var mnemonic = "silk energy sing public age year tiny army vacant rug danger rate";

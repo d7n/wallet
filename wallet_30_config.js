@@ -1,1 +1,1 @@
-var mnemonic = "butter valid hollow suspect balance leopard trim live horse law palm shine";
+var mnemonic = "episode legend human clean season axis wonder salmon gauge else kingdom toilet";

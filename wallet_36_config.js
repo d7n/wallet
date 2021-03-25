@@ -1,1 +1,1 @@
-var mnemonic = "lazy session junior dune rebel note sort paddle night bless confirm picture";
+var mnemonic = "belt develop tissue silk deer same pioneer milk library pigeon voyage doll";

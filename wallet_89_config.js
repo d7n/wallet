@@ -1,1 +1,1 @@
-var mnemonic = "artefact excuse risk pond physical tired inmate alter carry one protect common";
+var mnemonic = "grow inject circle audit rigid holiday bounce trouble festival quiz turtle wealth";

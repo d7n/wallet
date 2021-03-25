@@ -1,1 +1,1 @@
-var mnemonic = "original shock baby pill impact monkey fetch wrestle bubble leopard blossom below";
+var mnemonic = "scorpion they tank unfair expire stand match harsh yard home shove give";

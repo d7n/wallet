@@ -1,1 +1,1 @@
-var mnemonic = "pen weekend scrub motion mind fashion wrap dignity wave hover crumble suggest";
+var mnemonic = "tomato subject matrix melt crime income select pledge twin tenant confirm fetch";

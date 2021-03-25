@@ -1,1 +1,1 @@
-var mnemonic = "special gospel spin edge slide ketchup drama first what supply make quiz";
+var mnemonic = "moment wall fiber toddler idea ethics invest coil spirit rapid correct stick";

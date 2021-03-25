@@ -1,1 +1,1 @@
-var mnemonic = "upper over snack trophy ocean keen trigger term identify first remember hub";
+var mnemonic = "arm garlic latin fox suspect combine electric portion roof equip wood only";

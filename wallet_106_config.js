@@ -1,1 +1,1 @@
-var mnemonic = "man basket unique country swarm quit there excuse laptop flame tennis diamond";
+var mnemonic = "upgrade garlic decline place bracket library enable grace legal tuna cushion burden";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors nest craft miss run neutral art wheat party venture suggest army";
+var mnemonic = "genre copper sweet you soap try million bracket enjoy city glue away";

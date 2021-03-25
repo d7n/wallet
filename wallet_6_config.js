@@ -1,1 +1,1 @@
-var mnemonic = "bitter put improve negative cube observe only fault unable home code salt";
+var mnemonic = "broccoli vibrant obvious assault quit december party smoke hotel short cup rabbit";

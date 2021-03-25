@@ -1,1 +1,1 @@
-var mnemonic = "knife genuine early escape green balance drama divide boil payment pizza child";
+var mnemonic = "chapter giggle leg stove frame source shield sudden vote noble damp plastic";

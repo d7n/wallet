@@ -1,1 +1,1 @@
-var mnemonic = "cart bright lamp animal blood habit impact distance giraffe spend destroy display";
+var mnemonic = "thank sniff lecture ranch inside close pill again knock census town mercy";

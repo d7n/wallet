@@ -1,1 +1,1 @@
-var mnemonic = "loop scan prison shy math air denial plug panic baby film ranch";
+var mnemonic = "gap gown tide possible inquiry puppy aerobic mom middle increase just warm";

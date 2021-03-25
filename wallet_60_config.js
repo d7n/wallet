@@ -1,1 +1,1 @@
-var mnemonic = "pluck orient play dawn negative keen make wood mom question bike rubber";
+var mnemonic = "tiger merry net income collect green source infant another aerobic genre online";

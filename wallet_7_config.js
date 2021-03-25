@@ -1,1 +1,1 @@
-var mnemonic = "federal memory bomb option nasty mixed neutral cabbage ritual flock web page";
+var mnemonic = "domain region light eyebrow year initial home come robust worth apple crystal";

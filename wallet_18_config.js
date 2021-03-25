@@ -1,1 +1,1 @@
-var mnemonic = "bring music cry enjoy mask sand visit daring accident dutch harsh grain";
+var mnemonic = "coral weapon clown lamp unable eye midnight hedgehog heart awake hello column";

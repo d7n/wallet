@@ -1,1 +1,1 @@
-var mnemonic = "silent divide basket tray analyst add reduce enable priority such crane olive";
+var mnemonic = "inspire tiger frame curtain notable digital disorder large tattoo sing card critic";

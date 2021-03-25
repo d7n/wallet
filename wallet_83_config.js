@@ -1,1 +1,1 @@
-var mnemonic = "series sadness setup icon step thrive scatter tattoo female disagree giant priority";
+var mnemonic = "food sadness chest all poem sing music cloth victory pink alone suggest";

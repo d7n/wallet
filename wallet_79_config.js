@@ -1,1 +1,1 @@
-var mnemonic = "claw trial gloom unit they toward track diamond issue side damp ecology";
+var mnemonic = "deer price awkward journey catch slide dilemma avocado crunch reunion rifle ski";

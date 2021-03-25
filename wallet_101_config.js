@@ -1,1 +1,1 @@
-var mnemonic = "little vapor betray void beach scale grow uncle creek short rice royal";
+var mnemonic = "main erosion claw upgrade remain scrap dismiss awesome away gather clarify parent";

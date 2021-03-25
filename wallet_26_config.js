@@ -1,1 +1,1 @@
-var mnemonic = "snake tired dwarf grow divide office also ordinary tourist vintage neck move";
+var mnemonic = "neglect switch toddler shell myself write resemble picture earth room regret turn";

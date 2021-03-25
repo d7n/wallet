@@ -1,1 +1,1 @@
-var mnemonic = "peanut forget bright odor define civil dirt market quick dose hobby bitter";
+var mnemonic = "spring shy flavor vague shock wrestle issue battle unknown same shoulder sad";

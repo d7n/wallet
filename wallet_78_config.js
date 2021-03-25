@@ -1,1 +1,1 @@
-var mnemonic = "myth bag weapon genuine dynamic dune company logic alpha vintage obey skin";
+var mnemonic = "moon escape number metal outer stock sun bean carbon same rain leaf";

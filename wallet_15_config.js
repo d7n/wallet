@@ -1,1 +1,1 @@
-var mnemonic = "use travel boat swift unfair purity lamp law sense pulse tortoise ring";
+var mnemonic = "income orient rabbit sunset lamp mad answer machine east dove carry grief";

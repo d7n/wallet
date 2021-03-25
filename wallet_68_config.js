@@ -1,1 +1,1 @@
-var mnemonic = "quarter orange moment smile dutch coach carry meadow path pair awkward duck";
+var mnemonic = "width bonus evoke pear puppy apple elevator atom replace peace retreat chicken";

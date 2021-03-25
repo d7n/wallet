@@ -1,1 +1,1 @@
-var mnemonic = "hub prepare history library piano romance review aspect east vote media bird";
+var mnemonic = "emerge fog morning they army crunch degree tank antenna country protect cabbage";

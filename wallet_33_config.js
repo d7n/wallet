@@ -1,1 +1,1 @@
-var mnemonic = "hand party chalk banner library glad during over fiscal work mimic feed";
+var mnemonic = "swap hawk priority woman culture limb deer enhance market power cage scare";

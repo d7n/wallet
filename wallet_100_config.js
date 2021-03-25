@@ -1,1 +1,1 @@
-var mnemonic = "scissors network task visit ancient winter example retire alarm exhibit ozone ridge";
+var mnemonic = "tomato review copper wealth price exchange keep parrot doll garden announce veteran";

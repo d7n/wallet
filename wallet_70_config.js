@@ -1,1 +1,1 @@
-var mnemonic = "offer save track cream ranch agree review solid garbage oyster child notice";
+var mnemonic = "body they call keep goose wedding now pilot inherit work sun put";

@@ -1,1 +1,1 @@
-var mnemonic = "romance buyer midnight limit carry rule proud distance grocery camera harbor physical";
+var mnemonic = "modify purity million pupil melody end razor uncover scare drill brisk ensure";

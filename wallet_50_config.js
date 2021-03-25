@@ -1,1 +1,1 @@
-var mnemonic = "scare good goat kitten rifle boring island outdoor coin shoe nut front";
+var mnemonic = "flavor question foot smile ring route present struggle circle ask squirrel cupboard";

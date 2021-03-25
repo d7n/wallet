@@ -1,1 +1,1 @@
-var mnemonic = "camp solution execute avocado hard file orange hybrid lock powder warfare memory";
+var mnemonic = "weapon trick decorate hammer wild mouse seven pair describe million record fury";

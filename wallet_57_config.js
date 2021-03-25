@@ -1,1 +1,1 @@
-var mnemonic = "expect tiger jealous attack pigeon hybrid vendor lawsuit silk kangaroo patrol poet";
+var mnemonic = "diary gain address kind diamond judge mix want same response match train";

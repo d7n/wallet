@@ -1,1 +1,1 @@
-var mnemonic = "foster payment flight bag review embark beach leopard toward trigger box essay";
+var mnemonic = "teach license east shuffle enter spider sniff scout question same volcano leaf";

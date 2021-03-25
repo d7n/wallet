@@ -1,1 +1,1 @@
-var mnemonic = "detail punch liberty idle blade pact rely language supply wrap crime bacon";
+var mnemonic = "demise fix say salad crack lend setup spice dilemma claw proof speak";

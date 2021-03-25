@@ -1,1 +1,1 @@
-var mnemonic = "tail nuclear autumn second drill slow change pizza business check liquid sorry";
+var mnemonic = "bike review boat awkward honey feature wolf soon fold coast eye stock";

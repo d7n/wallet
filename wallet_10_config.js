@@ -1,1 +1,1 @@
-var mnemonic = "error charge march pill future push detail electric sea genuine nerve dismiss";
+var mnemonic = "apology liberty fat exhibit circle point fan deny proof exact ability cute";

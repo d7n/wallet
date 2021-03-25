@@ -1,1 +1,1 @@
-var mnemonic = "design donor alter student glance bomb panel pyramid before frozen park shrug";
+var mnemonic = "dial capital cry rely obey afford onion ritual draw term oak scrap";

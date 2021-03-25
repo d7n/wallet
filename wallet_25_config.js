@@ -1,1 +1,1 @@
-var mnemonic = "digital blood beach bar error there settle attend enhance toilet room series";
+var mnemonic = "grace buffalo empty gate rely section equip risk artefact crush slab sock";

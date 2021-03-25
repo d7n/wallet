@@ -1,1 +1,1 @@
-var mnemonic = "outside perfect treat tool baby truck trash frame melody act plastic return";
+var mnemonic = "client rule habit final old diary hurt tenant tooth pizza write multiply";

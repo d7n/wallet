@@ -1,1 +1,1 @@
-var mnemonic = "video salmon rain column anxiety attend banner matter history powder ugly museum";
+var mnemonic = "print cup polar arrange giggle accident seek library put kangaroo monster skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "tell ring loud plug soda slight crater frog drill seed bread panda";
+var mnemonic = "carry code left mirror zone assault dress globe reject october layer vital";

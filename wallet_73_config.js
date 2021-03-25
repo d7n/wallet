@@ -1,1 +1,1 @@
-var mnemonic = "where forum priority barrel dirt manual popular business moment castle unknown disagree";
+var mnemonic = "whale virus slender plunge accuse elegant ahead marble rent surround assist fuel";

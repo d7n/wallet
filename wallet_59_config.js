@@ -1,1 +1,1 @@
-var mnemonic = "dwarf base excuse agree output discover key rule finish tourist apple print";
+var mnemonic = "entry mutual hand volcano choose simple machine verb cushion twenty brown mandate";

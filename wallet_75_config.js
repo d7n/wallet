@@ -1,1 +1,1 @@
-var mnemonic = "inquiry spirit basket small horror cover pitch smart rely tool donkey eyebrow";
+var mnemonic = "police always gift say baby pig daughter inflict syrup erode cake utility";

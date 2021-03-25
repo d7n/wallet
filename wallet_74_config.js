@@ -1,1 +1,1 @@
-var mnemonic = "hill demise cloud lunch juice spend honey couple draft there powder edit";
+var mnemonic = "turn average lady camera coffee genuine culture conduct session biology purpose eager";

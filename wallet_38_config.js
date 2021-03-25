@@ -1,1 +1,1 @@
-var mnemonic = "surge climb strong color hip assume october vehicle proof empower reason bachelor";
+var mnemonic = "concert gospel false file inmate fog special lady method position make replace";

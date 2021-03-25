@@ -1,1 +1,1 @@
-var mnemonic = "scan amateur bitter bar welcome skull rare believe basket sense drastic relax";
+var mnemonic = "sketch switch gloom differ begin impose reflect enroll network screen category foam";

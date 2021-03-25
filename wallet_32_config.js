@@ -1,1 +1,1 @@
-var mnemonic = "owner wood dash collect tissue saddle health sphere whip clown correct siege";
+var mnemonic = "soft junk plate badge echo echo tired dizzy business park imitate wine";

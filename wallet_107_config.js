@@ -1,1 +1,1 @@
-var mnemonic = "spawn attract split mechanic surge keen limb future oval square gospel matrix";
+var mnemonic = "burst humor dish street elevator finger desk friend fit shrimp devote film";

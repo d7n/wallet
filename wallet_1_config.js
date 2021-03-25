@@ -1,1 +1,1 @@
-var mnemonic = "motor margin voice bleak brown text green primary wise three minute summer";
+var mnemonic = "close frozen diagram head sad picnic struggle shield congress mystery evidence rotate";

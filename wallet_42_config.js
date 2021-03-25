@@ -1,1 +1,1 @@
-var mnemonic = "human soup good path mechanic scale south item destroy lesson daughter valve";
+var mnemonic = "jar team century dizzy again trick symptom waste pistol little vessel input";

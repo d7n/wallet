@@ -1,1 +1,1 @@
-var mnemonic = "write sad label success manage feel much thought reveal crystal collect bulk";
+var mnemonic = "library hammer nation modify upset across champion shiver patrol project solve improve";

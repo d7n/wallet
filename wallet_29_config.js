@@ -1,1 +1,1 @@
-var mnemonic = "upgrade leave toward switch hazard erase mobile inherit card must way fresh";
+var mnemonic = "mosquito club essence field engine fee about anxiety loop obtain salad fan";

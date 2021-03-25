@@ -1,1 +1,1 @@
-var mnemonic = "letter cause champion adapt mechanic box employ wall virus rescue label volcano";
+var mnemonic = "height radio tragic join obvious move dizzy festival history infant plug obey";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory force toilet during arctic awake belt guess boil task walnut wrestle";
+var mnemonic = "seminar cup hurry useful acquire pill mobile ready electric lamp almost kiwi";

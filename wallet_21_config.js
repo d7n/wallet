@@ -1,1 +1,1 @@
-var mnemonic = "catalog salute apple right oxygen twice hard trim find candy under evoke";
+var mnemonic = "ten asset cloud admit turkey wage else canal tunnel engage stock best";

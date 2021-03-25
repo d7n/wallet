@@ -1,1 +1,1 @@
-var mnemonic = "noodle merge tree lounge cluster potato appear pelican duck memory dice disorder";
+var mnemonic = "whisper region sell purchase bonus develop blast wheel fan strike gain ranch";

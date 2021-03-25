@@ -1,1 +1,1 @@
-var mnemonic = "measure link neck dial bubble middle blade release defense useless field balance";
+var mnemonic = "blanket avoid flat upset wealth chat antenna rebuild same tackle castle asset";

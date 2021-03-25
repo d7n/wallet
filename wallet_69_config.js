@@ -1,1 +1,1 @@
-var mnemonic = "trend rabbit lab dream file hurt hurt unusual bounce crack length chest";
+var mnemonic = "warfare erosion coin glory icon exchange camp awake rate glass enemy tell";

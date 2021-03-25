@@ -1,1 +1,1 @@
-var mnemonic = "grief impact fiction goose safe stage cloth leopard unable crouch excess category";
+var mnemonic = "theory dose grunt eternal gas human super park negative stem vivid random";
